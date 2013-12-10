@@ -1,421 +1,263 @@
-<!--The following is the downloaded HTML source of the vidhog.com privacy policy that was archived on 2008-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080517195829id_/http%3A//www.vidhog.com/privacypolicies.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vidhog.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210060856id_/http%3A//www.vidhog.com/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
-<link rel="SHORTCUT ICON" href="http://www.vidhog.com/images/favicon.ICO">
-<title>VidHog - Privacy Policy</title>
-
-<script language="javascript">
-function showTxt(theField){
-  theField.parentNode.style.display='none';
-  txtField = theField.form.email;
-  txtField.parentNode.style.display='';
-  txtField.focus();
-}
-function showTxtNote(theField){
-  if(theField.value==""){
-    theField.parentNode.style.display='none';
-    noteField = theField.form.txtNote;
-    noteField.parentNode.style.display='';
-  }
-}
-
-function showPwd(theField){
-  theField.parentNode.style.display='none';
-  pwdField = theField.form.password;
-  pwdField.parentNode.style.display='';
-  pwdField.focus();
-}
-function showNote(theField){
-  if(theField.value==""){
-    theField.parentNode.style.display='none';
-    noteField = theField.form.pwdNote;
-    noteField.parentNode.style.display='';
-  }
-}
-</script>
-</head>
-<body bgcolor="#CCCCCC" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<form>
-
-</form>
-
-
-
-<link rel="SHORTCUT ICON" href="http://www.vidhog.com/images/favicon.ICO">
-<title>VIDHOG</title>
-<script language="javascript">
-var browser = navigator.appName; 
-	if(browser == "Microsoft Internet Explorer"){
-		var xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");	
-	}else{
-		var xmlHttp = new XMLHttpRequest();
-	}
-
-function showHint()
-{ 
-	var url="testing.php?count=1";
-	xmlHttp.open("GET", url , true);
-	xmlHttp.onreadystatechange=handleText
-	xmlHttp.send(null);
-    document.frmHeader.password.value="";
-}
-function handleText()
-{
-	if(xmlHttp.readyState==4)
-	{
-		document.getElementById("user").innerHTML=xmlHttp.responseText;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<title>VidHog - Free DivX and HD Video Hosting</title>
+		<meta name="Description" content="VidHog - Free file upload service">
+		<meta name="Keywords" content="file upload,share files,free upload">
+		<meta name="robots" content="index, follow, all">
+		<link href="http://www.vidhog.com/css/style.css" rel="stylesheet" type="text/css" media="screen">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.vidhog.com/js/jquery-1.7.1.min.js"></script>
+		<link href="http://www.vidhog.com/css/iframe.css" rel="stylesheet" type="text/css">
 		
-	}
-}
+<script type="text/javascript">
+		$(document).ready(function(){
+		
+			var body = document.body,
+			html = document.documentElement;
 
-function searchvalidate()
-{
-	if(searchHeader.search.value=="")
-	{
-		alert("Enter any Search Value");
-		searchHeader.search.focus();
-		return false;
-	}
-	else
-	{
-		searchHeader.action="search.php";
-	}
-}
-
-function checkcookie()
-{
-	alert("Click on the Checkbox to Remain Logged In");
-}
-
-function trim(s) 
-{
-		while (s.substring(0,1) == ' ') {
-			s = s.substring(1,s.length);
-	  	}
-		while (s.substring(s.length-1,s.length) == ' ') {
-	 		s = s.substring(0,s.length-1);
-	  	}
-		return s;
-}
-function validate1()
-{
-	if (trim(frmHeader.email.value)=="")
-	{
-		alert("Enter Your Username");
-//		frmHeader.email.focus();
-		return false;
-	}
-	else if (trim(frmHeader.password.value)=="")
-	{
-		alert("Enter Your Password");
-//		frmHeader.password.focus();
-		return false;
-	}else{
-			//alert ("we are here");
-			//frmHeader.action="index.php";
-			//alert (frmHeader.action + "!");
-	}
-}
-function clear1()
-{
-	frmHeader.email.value="";
-}
-
-function changetype()
-{
-	frmHeader.password.value="";
-	frmHeader.password.type="password";
-}
-
-function clearsearch()
-{
-	searchHeader.search.value="";
-}
-</script>
-
-<style>
-a
-{
-	font-family: Arial, Helvetica, sans-serif; 
-	font-size: 8pt;
-	COLOR: #111111;
-	TEXT-DECORATION: none;
-}
-td{
-	font-family: Arial, Helvetica, sans-serif; 
-	font-size: 8pt;
-	COLOR: #111111;
-	TEXT-DECORATION: none;
-}
-.head{
-	font-family:verdana;
-	font-size:10px;
-	font-weight:bold;
-	COLOR: #ffffff;
-}
-.style12 {font-family: Arial, Helvetica, sans-serif}
-</style>
-
-<script type="text/javascript" src="2leveltab.js">
-</script>
-<script language="JavaScript">
-
-function change(id, newClass) 
-{
-	identity=document.getElementById(id);
-	identity.className=newClass;
-}
-function change1(id, newClass){
-	var identity1="";
-	identity1.className="";
-}
-</script>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<link href="includes/vidhog_styles.css" rel="stylesheet" type="text/css">
-
-
-<img src="images/1x1.gif" height="17"><table width="90%" border="0" cellpadding="0" cellspacing="0" align="center" valign="top" topmargin="0" leftmargin="0" class="maintable">
-	<tbody><tr>
-		<td align="center" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" topmargin="0" leftmargin="0">
-				<tbody><tr valign="top" bgcolor="#B000000"><td height="5" width="100%" colspan="4"><img src="images/1x1.gif" height="5"></td></tr>
-				<tr valign="top" bgcolor="#B000000">
-					<td width="4">&nbsp;</td>
-					<td><a href="index.php"><img border="0" src="images/top1_x.gif"></a></td>
-					<td valign="top" align="right">
-												<table border="0" cellpadding="0" cellspacing="0" align="right" width="100%" valign="top">
-							<tbody><tr>	
-								<td>&nbsp;</td>
-								<td align="right">
-									<form name="frmHeader" method="post" action="make_login.php">
-									<table valign="top" border="0" cellpadding="0" cellspacing="0">
-										<tbody><tr><td align="right" class="style2"><font color="white">Login&nbsp;</font></td>
-											<td>
-											<table border="0" cellpadding="0" cellspacing="0">
-												<tbody><tr><td>
-												<!-- Username Start-->
-												<div><input type="text" name="txtNote" value="Username" onfocus="showTxt(this)" style="width:130px;height:17px;border:ridge 1 white;font-size:12px;"></div>
-												<div style="display:none"><input type="text" name="email" onblur="showTxtNote(this)" style="width:130px;height:17px;border:ridge 1 white;font-size:12px;"></div>
-												<!-- Username End-->
-												</td>
-												<td>
-												<!-- Password Start-->
-												<div>
-												<input type="text" name="pwdNote" value="Password" onfocus="showPwd(this)" style="width:130px;height:17px;border:ridge 1 white;font-size:12px;"></div>
-												<div style="display:none">
-												<input onblur="showNote(this)" type="password" name="password" style="width:130px;height:17px;border:ridge 1 white;font-size:12px;"></div>
-												<!-- Password End-->
-												</td>
-												</tr>
-											</tbody></table>
-											</td>
-											<td align="right"><input type="submit" name="login" value="Go" style="width:30px;height:17px;font-size:11px" onclick="return validate1();"></td>
-										</tr>
-									
-  <tr valign="top">
-											<td style="font-size:12px;" valign="top" colspan="2" align="center">
-												<table border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td width="12%" align="left" nowrap="nowrap"><a href="register.php"><font color="#000000"><font color="white">Sign Up</font></font></a><font color="#000000"><font color="white"> &nbsp;&nbsp;&nbsp; </font></font></td>
-												  <td width="57%" align="left"><a href="forgetpassword.php"><font color="white">Forgot Your Password?</font></a></td>
-												  <td width="31%" align="right" nowrap="nowrap"><font color="white">Remember me  </font></td>
-												</tr>
-												  <tr>
-												    <td align="left">&nbsp;</td>												  
-												    <td align="left"><a href="forgetusername.php"><font color="white">Forgot Your Username?</font></a></td>
-												    <td align="right">&nbsp;</td>
-											      </tr>
-												</tbody></table>
-											</td>
-											<td class="style2"><input type="checkbox" name="remain" value="1"></td>
-  </tr>
-									</tbody></table>			
-								</form></td>
+			var height = Math.max( body.scrollHeight, body.offsetHeight, 
+			html.clientHeight, html.scrollHeight, html.offsetHeight );
 			
-							</tr>
-						</tbody></table>					</td>
-					<td width="4">&nbsp;</td>
-				</tr>
-				<tr valign="top" bgcolor="#B000000"><td height="5" width="100%" colspan="4"><img src="images/1x1.gif"></td></tr>
-			</tbody></table>
-		</td></tr><tr height="21" valign="top" bgcolor="#FB7801">
-			<td valign="bottom"><div align="right">
-				<table border="0" cellpadding="1" cellspacing="0">
-					<form name="searchHeader" method="post" onsubmit="return searchvalidate();"></form>
-						<tbody><tr>
-							<td align="right"><b>Search</b></td>
-							<td><input type="text" name="search" value="enter video tag" style="width:130px;height:17px;font-size:12px" onfocus="javascript:clearsearch();"></td>
-							<td align="right"><input type="submit" name="btsearch" value="Go" style="width:30px;height:17px;font-size:11px"></td>
-						</tr>
-					
-				</tbody></table></div>
-			</td>
-		</tr>
-		<tr valign="top">
-			<td valign="top" align="center">
-				<table cellspacing="0" cellpadding="0" valign="top" width="100%" bgcolor="#ffffff" align="center">
-					<tbody><tr valign="top">
-						<td>&nbsp;&nbsp;&nbsp;</td>
-						<td width="100%" align="left">
-				
+		$("#grey_shdae").css("height",height);
+			var t=setTimeout("iframe_show()",5000);
+			$("#iframe_close").click(function(){
+				$("#iframe_wrap").fadeOut();
+				$("#grey_shdae").fadeOut();
+			});
+		});
+		function iframe_show(){
+			$("#iframe_close").fadeIn();
+		}
+	</script>
+		
+		
 
-
-<script language="javascript">
-
- var catName1 = "Music";
- var catName2 = "Sports";
- var catName3 = "Entertainment";
- var catName4 = "Gaming / Tech.";
  
- var catColor1 = "#6CB736";
- var catColor2 = "#006FE1";
- var catColor3 = "#4FB8B2";
- var catColor4 = "#800080";
 
+ 
+<script type="text/javascript" src="http://www.vidhog.com/player/jwplayer1.js"></script>
 
-	var cat1_menu = ["Mesmerize With Lullabies (f/ Queens Of The Stone Age)","In Search Of Hyphy With Heklina","Jurassic 5: Five Alive","Dredg: Painting The Picture","All-American Rejects: All-Ages Show"];
-	var cat1_id = ["52","51","50","48","47"];
-	var cat1_catid = ["1","1","1","1","1"];
+   
+   
+		<!--[if IE 6]>
+		<link type="text/css" href="http://www.vidhog.com/css/ie6style.css" rel="stylesheet" media="screen" />
+		<![endif]-->
+		<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://www.vidhog.com/jquery-1.4.2.min.js"></script>
+		<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://www.vidhog.com/xupload.js"></script>
+		<link rel="stylesheet" type="text/css" href="http://www.vidhog.com/css/jquery.dialog.css">
+		<script src="http://www.vidhog.com/js/jquery-modal.js"></script>
+		</head><body><div id="boxes">
+        <div id="dialog" class="window">
+         
+		 
+		 
+		 
+		 
+		 
+		 
+
+		 
+		   <img src="images/close.png" class="closeDialog" height="32px" width="32px">
+        </div>
+        
+        <!-- Mask to cover the whole screen -->
+        <div id="mask"></div>
+    </div>
+		
+		
+		
+		
+		
 	
-	var cat2_menu = ["Jason Lee: Paved Paradise","Kevin Jones: American Kevolution","Bam Margera: Inside Elementality","Brad Gerlach: Game Time","Christian Hosoi: Reborn Again"];
-	var cat2_id = ["40","39","38","37","20"];
-	var cat2_catid = ["2","2","2","2","2"];
 	
-	var cat3_menu = ["Movietime: Friday","Vote Stigma: Spot #1","Kid Robot: Inside The Robot Shop","Vote Stigma: Spot #2","Pure Evil: Here Comes Trouble"];
-	var cat3_id = ["61","54","53","43","36"];
-	var cat3_catid = ["3","3","3","3","3"];
 	
-	var cat4_menu = ["Arcade (f/ Freeway & AO)","Hands On: Covington, KY","Arcade (f/ Bloodhound Gang)","Arcade (f/ Black Rob)","Arcade (f/ Agnostic Front)"];
-	var cat4_id = ["60","59","58","57","56"];
-	var cat4_catid = ["4","4","4","4","4"];
+				
+		<div id="header-holder">
+			<div id="header">
+				<div id="logo">
+					<a href="http://www.vidhog.com" title="VidHog"><img src="http://www.vidhog.com/images/logo.png" alt="VidHog" border="0"></a>
+					
+								<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+					
+					<div class="fb-like" data-href="https://www.facebook.com/vidhog" data-send="false" data-width="450" data-show-faces="true"></div>
+				</div>
+				
+				
+				
+				<div id="menu" style="width: 399px;">
+					<ul>
+						
+						<li><a href="http://www.vidhog.com">&nbsp;Upload&nbsp;</a></li>
+<li><a href="http://www.vidhog.com/rewards.html">Get Paid</a></li>
+						<li><a href="http://www.vidhog.com/login.html">&nbsp;Login&nbsp;</a></li>
+						<li><a href="http://www.vidhog.com/?op=registration">&nbsp;Register&nbsp;</a></li>
+						
+					</ul>
+				</div>
+				<br clear="all">
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div id="separator"></div>
+		<div class="clear"></div>
+		<div id="content">
+			 <div class="contentInner">
+				<div class="content-bg">
+					<h1> Privacy Policy</h1><br>
+
+<p>This privacy policy is for this website [www.vidhog.com] and governs the privacy of its users who choose to use it.</p>
+
+<p>The policy sets out the different areas where user privacy is concerned and outlines the obligations &amp; requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.</p>
+
+<br><h3>The Website</h3><br>
+
+<p>This website and it's owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply's to all UK national laws and requirements for user privacy.</p>
+
+<br><h3>Use of Cookies</h3><br>
+
+<p>This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for website's to obtain explicit consent from users before leaving behind or reading files such as cookies on a users computer / device.</p>
+
+<p>Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it's server to provide the users with a tailored experience within this website. Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it's external serving vendors.</p>
+
+<p>This website uses tracking software to monitor it's visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ]. Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.</p>
+
+<br><h3>Contact &amp; Communication</h3><br>
+
+<p>Users contacting this website and/or it's owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk. This website and it's owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.</p>
+
+<br><h3>Email Newsletter</h3><br>
+
+<p>This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.</p>
+
+<p>Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.</p>
+
+<p>Email marketing campaigns published by this website or it's owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list]. This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.</p>
+
+<p>In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.</p>
+
+<br><h3>External Links</h3><br>
+
+<p>Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.</p>
+
+<p>The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.</p>
+
+<br><h3>Adverts and Sponsored Links</h3><br>
+
+<p>This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.</p>
+
+<p>Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.</p>
+
+<br><h3>Social Media Platforms</h3><br>
+
+<p>Communication, engagement and actions taken through external social media platforms that this website and it's owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.</p>
+
+<p>Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it's owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.</p>
+
+<p>This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.</p>
+
+<br><h3>Shortened Links in Social Media</h3><br>
+
+<p>This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's [web addresses] (this is an example: http://bit.ly/zyVUBo).  Users are advised to take caution and good judgement before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.</p>
+					<div class="clear"></div>
+				</div><!--Content bg Ends-->
+				<div class="contentBtm"></div>
+			</div>
+			<div class="footer" style="margin-top: -78px;">
+				<div class="social">
+					<div class="tell-friends"></div>
+					<ul>
+						<li><a href="http://www.facebook.com/share.php?u=http://www.vidhog.com" class="facebook"></a></li>
+						<li><a href="http://twitter.com/home?status=HD Video Hosting http://www.vidhog.com" class="twit"></a></li>
+						<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.vidhog.com&amp;title=VidHog - HD DivX Video Hosting&amp;summary=Watch and download videos online for free in hd divx on &#10;&#10;VidHog&amp;source=VidHog" class="linked"></a></li>
+						<!--<li><a href="#" class="devent"></a></li>
+						<li><a href="#" class="globe"></a></li>
+						<li><a href="#" class="flicker"></a></li>-->
+					</ul>
+					<div class="clear"></div>
+				</div>
+				<div class="fnav">
+					<ul>
+						<li class="nobak"><a href="http://www.vidhog.com">Home</a></li> <!--class="active"-->
+						<li><a href="http://www.vidhog.com/?op=news">News</a></li>
+						<li><a href="http://www.vidhog.com/faq.html">FAQ</a></li>
+						<li><a href="http://www.vidhog.com/tos.html">Terms of service</a></li>
+						<!-- <li><a href="http://www.vidhog.com/advertise.html">Advertise</a></li> -->
+						<li><a href="http://www.vidhog.com/dmca.html">DMCA Requests</a></li>
+						<li><a href="http://www.vidhog.com/privacy.html">Privacy Policy</a></li>
+						<li><a href="http://www.vidhog.com/premium.html">Premium</a></li>
+						<li><a href="http://www.vidhog.com/checkfiles.html">Link Checker</a></li>
+						<!--<li><a href="links.html" >Links</a></li>-->
+						<li><a href="http://www.vidhog.com/helpdesk/">Contact</a></li>
+						
+					</ul>
+					<p>© 2013 VidHog, All Rights Reserved<br></p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div id="footer-holder">
+			<div id="footer"></div>
+		</div>
+		<script language="JavaScript" type="text/javascript" src="http://www.vidhog.com/tabber.js"></script>
+
+<script type="text/javascript">
+var infolinks_pid = 1760415;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22942287-22']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
 </script>
 
-<script type="text/javascript" src="JMenu_var.js"></script>
-<script language="javascript">
-if(browser == "Microsoft Internet Explorer"){
-	}else{
-		StartTop -= 2;
-	}
-</script>
-<script type="text/javascript" src="menu132_com.js"></script>
-	<!-- Center Contents Comes Here-->
-			<table width="90%" border="0" cellpadding="10" cellspacing="10">
-			<tbody><tr valign="top">
-				<td class="content"><div class="maintitle"><font color="B00000"><strong>VidHog Privacy Policy </strong></font></div>
-				  <p><strong>VidHog, Inc.</strong> ("VidHog") recognizes that its customers,  visitors, users, and others who use the web site <a href="http://www.vidhog.com/"><font size="2" color="blue">www.vidhog.com</font></a> (“the Site”) (collectively or  individually "Users") value their privacy. This Privacy Notice  details important information regarding the use and disclosure of User  information collected on the Site. VidHog provides this Privacy Notice to help  you make an informed decision about whether to use or continue using the Site.<br>
-				    This Privacy Notice is incorporated into and is subject to the <a href="http://youtube.com/t/terms">VidHog Terms of Use</a>. Your use of the Site  and any personal information you provide on the Site remains subject to the  terms of this Privacy Notice and our <a href="http://youtube.com/t/terms">Terms  of Use</a>.<br>
-				    Please note that any image or other content posted at the direction of Users  onto the Site becomes published content and is not considered personally  identifiable information subject to this Privacy Notice.</p>
-				  <h2>The Information VidHog Collects</h2>
-				  <ul type="disc">
-                    <li><strong>User Provided Information:</strong> You provide certain personally identifiable information (such as your name       and email address) to VidHog when choosing to participate in various       activities on the Site such as receiving credit for sharing videos, posting       messages in the video comments section, entering contests or sweepstakes,       taking advantage of promotions, responding to surveys, or subscribing to       newsletters or other mailing lists.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li><strong>Cookies Information:</strong> When you visit the Site, we may send one or more cookies - a small text       file containing a string of alphanumeric characters - to your computer       that uniquely identifies your browser. VidHog uses both session cookies       and persistent cookies. A persistent cookie remains after you close your       browser. Persistent cookies may be used by your browser on subsequent       visits to the site. Persistent cookies can be removed by following your       web browser help file directions. A session cookie is temporary and       disappears after you close your browser. You can reset your web browser to       refuse all cookies or to indicate when a cookie is being sent. However,       some features of the Site may not function properly if the ability to       accept cookies is disabled.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li><strong>Log File Information:</strong> When you use the Site, our servers automatically record certain       information that your web browser sends whenever you visit any website.       These server logs may include information such as your web request,       Internet Protocol ("IP") address, browser type, browser       language, referring / exit pages and URLs, platform type, number of       clicks, domain names, landing pages, pages viewed and the order of those       pages, the amount of time spent on particular pages, the date and time of       your request, and one or more cookies that may uniquely identify your       browser.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li><strong>Clear GIFs Information:</strong> When you use the Site, we may employ "clear GIFs" (a.k.a. Web       Beacons) which are used to track the online usage patterns of our Users       anonymously (i.e., in a non-personally-identifiable manner). In addition,       we may also use clear GIFs in HTML-based emails sent to our users to track       which emails are opened by recipients.&nbsp;       Information gathered in this fashion will not monitor Users at       online locations other than the Site.</li>
-			      </ul>
-				  <h2>The Way VidHog Uses Information</h2>
-				  <ul type="disc">
-                    <li>If you submit personally       identifiable information to us through the Site, then we use your personal       information to operate, maintain, and provide to you the features and       functionality of the Site.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li>Any personal information you       voluntarily disclose online (on discussion boards, in messages and chat       areas, within your public profile page, etc.) becomes publicly available       and can be collected and used by others. Your account name (not your email       address) is displayed to other Users when you send messages through the Site       and other Users can contact you through messages and comments. </li>
-			      </ul>
-				  <ul type="disc">
-                    <li>We do not use your email       address or other personally identifiable information to send commercial or       marketing messages without your consent or except as part of a specific       program or feature for which you will have the ability to opt-in or       opt-out. We may, however, use your email address without further consent       for non-marketing or administrative purposes (such as notifying you of       major VidHog Site changes or for customer service purposes).</li>
-			      </ul>
-				  <ul type="disc">
-                    <li>We use both your personally       identifiable information and certain non-personally-identifiable       information (such as anonymous User usage data, cookies, IP addresses,       browser type, clickstream data, etc.) to improve the quality and design of       the Site and to create new features, promotions, functionality, and       services by storing, tracking, and analyzing User preferences and trends.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li>We use cookies, clear gifs,       and log file information to: (a) remember information so that you will not       have to re-enter it during your visit or the next time you visit the Site;       (b) provide custom, personalized content and information; (c) monitor the       effectiveness of our marketing campaigns; (d) monitor aggregate metrics       such as total number of visitors, pages viewed, etc.; and (e) track your       entries, submissions, and status in promotions, sweepstakes, and contests.</li>
-			      </ul>
-				  <h2>When VidHog Discloses Information</h2>
-				  <ul type="disc">
-                    <li>We provide personally       identifiable information and non-personally-identifiable information to       our subsidiaries, affiliated companies, or other businesses or persons for       the purpose of processing such information on our behalf. We require that       these parties agree to process such information in compliance with our       privacy policy, and we use reasonable efforts to limit their use of such       information and to use other appropriate confidentiality and security       measures.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li>We do not share your       personally identifiable information (such as name or email address) with       other, third-party companies for their commercial or marketing use without       your consent or except as part of a specific program or feature for which       you will have the ability to opt-in or opt-out.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li>We do share       non-personally-identifiable information (such as anonymous User usage       data, referring / exit pages and URLs, platform types, number of clicks,       etc.) with interested third-parties to assist them in understanding the       usage patterns for certain content, services, advertisements, promotions,       and/or functionality on the Site.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li>We may release personally       identifiable information and/or non-personally-identifiable information if       required to do so by law, or in the good-faith belief that such action is       necessary to comply with state and federal laws or respond to a court       order, subpoena, or search warrant.</li>
-			      </ul>
-				  <ul type="disc">
-                    <li>VidHog also reserves the       right to disclose personally identifiable information and/or       non-personally-identifiable information that VidHog believes, in good       faith, is appropriate or necessary to enforce our <a href="http://youtube.com/t/terms">Terms of Use</a>, take precautions       against liability, to investigate and defend itself against any       third-party claims or allegations, to assist government enforcement       agencies, to protect the security or integrity of our web site, and to       protect the rights, property, or personal safety of VidHog, our Users or       others.</li>
-			      </ul>
-				  <h2>Your Choices</h2>
-				  <p>You may, of course, decline to submit personally identifiable information  through the Site, in which case VidHog may not be able to provide certain  services to you. You may update or correct your personal profile information  and email preferences at any time by visiting your <a href="http://youtube.com/my_profile_email">account profile page</a>. <br>
-				    To protect your privacy and security, we take reasonable steps (such as  requesting a unique password) to verify your identity before granting you  profile access or making corrections. You are responsible for maintaining the  secrecy of your unique password and account information at all times.<br>
-				    Please contact VidHog with any questions or comments about this Privacy  Notice, your personal information, your consent, or your opt-in or opt-out  choices using this <a href="http://youtube.com/contact">contact form</a>.</p>
-				  <h2>Third-party Advertisers, Links to Other Sites</h2>
-				  <p>VidHog allows other companies, called third-party ad servers or ad networks,  to serve advertisements within the Site. These third-party ad servers or ad  networks use technology to send, directly to your browser, the advertisements  and links that appear on the Site. They automatically receive your IP address  when this happens. They may also use other technologies (such as cookies,  JavaScript, or Web Beacons) to measure the effectiveness of their  advertisements and to personalize the advertising content you see.<br>
-				    VidHog does not provide any personally identifiable information to these  third-party ad servers or ad networks without your consent or except as part of  a specific program or feature for which you will have the ability to opt-in or  opt-out. However, please note that if an advertiser asks VidHog to show an  advertisement to a certain audience (for example, men ages 18-34) or audience  segment (for example, men ages 18-24 who have viewed certain channels of  content) and you respond to that advertisement, the advertiser or ad-server may  conclude that you fit the description of the audience they are trying to reach.  The advertiser may also use information regarding your use of the Site, such as  the number of times you viewed an ad (but not any personally identifiable  information), to determine which ads to deliver to you.&nbsp; VidHog's privacy policy does not apply to,  and we cannot control the activities of, such other advertisers or web sites. </p>
-				  <h2>Our Commitment To Data Security</h2>
-				  <p>VidHog uses commercially reasonable physical, managerial, and technical  safeguards to preserve the integrity and security of your personal information.  We cannot, however, ensure or warrant the security of any information you  transmit to VidHog and you do so at your own risk. Once we receive your  transmission of information, VidHog makes commercially reasonable efforts to  ensure the security of our systems. However, please note that this is not a  guarantee that such information may not be accessed, disclosed, altered, or  destroyed by breach of any of our physical, technical, or managerial  safeguards.<br>
-				    If VidHog learns of a security systems breach, then we may attempt to notify  you electronically so that you can take appropriate protective steps. VidHog  may post a notice on the Site if a security breach occurs. Depending on where  you live, you may have a legal right to receive notice of a security breach in  writing. To receive a free written notice of a security breach (or to withdraw  your consent from receiving electronic notice) you should notify us using this <a href="http://youtube.com/contact">contact form</a>.</p>
-				  <h2>Our Commitment To Childrens' Privacy</h2>
-				  <p>Protecting the privacy of young children is especially important. For that  reason, VidHog does not knowingly collect or maintain personally identifiable  information or non-personally-identifiable information on the Site from persons  under 13 years of age, and no part of our website is directed to persons under  13. If you are under 13 years of age, then please do not use or access the Site  at any time or in any manner. If VidHog learns that personally identifiable  information of persons under 13 years of age has been collected on the Site  without verified parental consent, then VidHog will take the appropriate steps  to delete this information.</p>
-				  <h2>Special Note to International Users</h2>
-				  <p>The Site is hosted in the United States  and is intended for and directed to Users in the United    States. If you are a User accessing the Site  from the European Union, Asia, or any other region with laws or regulations  governing personal data collection, use, and disclosure, that differ from  United States laws, please be advised that through your continued use of the Site,  which are governed by U.S. law, this Privacy Notice, and our <a href="http://youtube.com/t/terms">Terms of Use</a>, you are transferring your  personal information to the United States and you consent to that transfer.</p>
-				  <h2>In the Event of Merger, Sale,  or Bankruptcy</h2>
-				  <p>In the event that VidHog is acquired by or merged with a third party entity,  we reserve the right, in any of these circumstances, to transfer or assign the  information we have collected from our Users as part of such merger,  acquisition, sale, or other change of control. In the unlikely event of our  bankruptcy, insolvency, reorganization, receivership, or assignment for the  benefit of creditors, or the application of laws or equitable principles  affecting creditors' rights generally, we may not be able to control how your  personal information is treated, transferred, or used.</p>
-				  <h2>Changes and updates to this Privacy Notice</h2>
-				  <p>This Privacy Notice may be revised periodically and this will be reflected  by the "effective date" below. Please revisit this page to stay aware  of any changes. In general, we only use your personal information in the manner  described in the Privacy Notice in effect when we received the personal  information you provided. Your continued use of the Site constitutes your  agreement to this Privacy Notice and any future revisions.<br>
-				    For revisions to this Privacy Notice that may be materially less restrictive  on our use or disclosure of the personal information you have already provided to  us, we will attempt to obtain your consent before implementing such revisions  with respect to such information.<br>
-  <strong>Date Last Modified:</strong><br>
-				    This Privacy Notice was last modified October   20, 2006.<br>
-  <strong>Contact Information:</strong><br>
-				    Please contact VidHog with any questions or comments about this Privacy Notice  using this <a href="contact.php"><font size="2" color="blue">contact form</font></a>.</p>
-			  <br></td>
-			</tr>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://www.vidhog.com/js/jquery-modal.js"></script>
+<script src="http://www.vidhog.com/js/jquery.alerts.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.vidhog.com/css/jquery.dialog.css">
+<link rel="stylesheet" type="text/css" href="http://www.vidhog.com/css/jquery.alerts.css">
+<div id="boxes">
+        <div id="dialog" class="window">
+            
 			
-</tbody></table>
+			
+			
+			
+			
+			
 
-</td>
-<td>
-  <table width="120" border="0" cellpadding="10" cellspacing="0">
-    <tbody><tr>
-      <td height="50">&nbsp;</td>
-    </tr>
-    <tr>
-      <td><img src="images/banners/banner1.gif" width="120" alt=""></td>
-    </tr>
-    <tr>
-      <td><img src="images/banners/banner2.gif" width="120" alt=""></td>
-    </tr>
-    <tr>
-      <td><img src="images/banners/banner3.gif" width="120" alt=""></td>
-    </tr>
-  </tbody></table></td>
-</tr>
-</tbody></table>
-<!-- Footer Contents Starts Here-->
-</td></tr><tr>
-<td colspan="2" valign="bottom" align="center">
-	<table border="0" height="40" align="center" width="100%" background="images/home_14.gif">
-	<tbody><tr>
-<td><center><a href="podcast.php"><img src="images/rss_button.gif" border="0"></a></center></td>
-</tr>
-	<tr>
-	<td align="center"><a href="aboutus.php"><b>About Us</b></a><b> | <a href="privacypolicies.php">Privacy Policy</a> | <a href="terms.php">Terms of Use</a> | <a href="contact.php">Contact Us</a> | <a href="http://www.vidhog.com/blog">Blog</a> 
-	</b></td>
-	</tr>
-	</tbody></table>
-</td>
-</tr>
-<!-- Footer Contents Ends Here-->
-</tbody></table>
+			
+			
+			
+			
+			
+			<br><br>
+            <img src="http://www.vidhog.com/images/close.png" class="closeDialog" height="32px" width="32px">
+        </div>
+        
+        <!-- Mask to cover the whole screen -->
+       
+</div>
 
 
-
-<!-- End ImageReady Slices -->
+	
 
 </body></html>
