@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinybeans.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310024113id_/http%3A//tinybeans.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinybeans.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210172954id_/http%3A//tinybeans.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tinybeans
+# Privacy Policy
 
 Your privacy is important to Tinybeans. This privacy statement provides information about the personal information that Tinybeans collects, and the ways in which Tinybeans uses that personal information. 
 
