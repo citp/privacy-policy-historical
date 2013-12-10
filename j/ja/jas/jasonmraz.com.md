@@ -1,103 +1,253 @@
-> *The following text is extracted and transformed from the jasonmraz.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019153852id_/http%3A//www.atlanticrecords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonmraz.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210145743id_/http%3A//app.topspin.net/account/privacypolicy_public) for the most accurate reproduction.*
 
-# Atlantic Records :: Privacy Policy
+# Topspin Media | Privacy Policy
 
-Print page
+Topspin Media, Inc. ("Topspin") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Topspin managed domains (currently [topspinmedia.com](http://topspinmedia.com/), [topspin.net](http://topspin.net/) and [artistlink.com](http://artistlink.com/)) and websites or domain name, features, content, widgets, or application services offered from time to time by Topspin in connection therewith (collectively, the "Website"), submitting information, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-**LAST UPDATED:** May 18, 2010
+Topspin has been awarded TRUSTe’s Privacy and Children’s Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information collected through our sites [topspinmedia.com](http://topspinmedia.com/), [topspin.net](http://topspin.net/) and [artistlink.com](http://artistlink.com/) and does not cover information that may be collected through other domains that we own or through any software downloaded from our sites.
 
-**Privacy Policy**
+If you have questions or concerns regarding this statement, you should first contact Topspin at [legal@topspinmedia.com](mailto:legal@topspinmedia.com). If you not satisfied with our response you should [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-Atlantic Recording Corporation (" **Company** ," " **we** ," " **us** "), a Warner Music Group company, is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below).  This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through certain of our web sites, including the site from which you are linking to this Policy (the " **Site** ").  This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection of information by any of our affiliates, including without limitation, Warner Music Group, Warner Bros. Records, and Rhino Entertainment (collectively, " **Affiliated Entities** ") or by third parties.  To the extent that you submit any Personally Identifiable Information to any third party (for example, via a third-party software application or service that is available through or included in the Site), such third party's collection, use and disclosure of such information may be governed by its privacy policy, and not by our Policy (in any event, we are not responsible for the information collection, usage and disclosure practices of third parties).
+Topspin complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Topspin has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Topspin’s certification, please [visit the U.S.-EU & U.S.-Swiss Safe Harbor Frameworks on at export.gov](http://www.export.gov/safeharbor/).
 
-**The Site may be part of the Eos network of web sites (the "Eos Network"), which is operated by our third party service provider, Cisco Media Solutions, Inc. ("Cisco").   You can tell whether**  **a**   **Site is part of the Eos network  by**  **the presence of the Eos logo and the phrase "powered by Eos," which will appear when you seek to register for a Site that is part of the Eos network. By registering to use any Site on the Eos Network, you acknowledge and agree that we may disclose your Site registration information (which may include PII) to Cisco in order to enable Cisco to use such registration information to pre-populate registration and login forms for other sites (including third party sites) on the Eos Network, for your convenience, when you seek to register or login to such sites.   If you do not wish us to disclose your registration information for this purpose, please do not register to use a Site that is part of the Eos Network.**
+**WHAT DOES THIS PRIVACY POLICY COVER?**
 
-By using the Site, you agree to the terms and conditions of this Policy.  If you do not agree to the terms and conditions of this Policy, please do not use the Site.  We reserve the right to change this Policy without prior notice.  You can determine when this Policy was last revised by referring to the " _Last Updated_ " legend at the top of this page.  Any changes to our Policy will become effective upon our posting of the revised Policy on the Site.  Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. 
+This Privacy Policy covers Topspin’s treatment of personally identifiable information ("Personal Information") that Topspin gathers when you are accessing the Website and when you use Topspin services, such as our widgets. Also, this Privacy Policy covers Topspin’s treatment of certain non-personally identifiable information about you and any Personal Information that Topspin’s business partners share with Topspin. While this policy does not apply to the practices of third parties that Topspin does not own or control, or to individuals that Topspin does not employ or manage, we will list out those partners and how you can get in touch with them to inquire about their own privacy policies.
 
-The Site is controlled and operated by Company from the United States; accordingly, this Policy, and our collection, use and disclosure of your Personally Identifiable Information, is governed by U.S. law, and not by the laws of any country, territory or jurisdiction other than that of the United States.  Company does not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction.  Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.  You are also subject to United States export controls in connection with your use of the Site and/or Site-related services, and are responsible for any violations of such controls, including without limitation any United States embargoes or other federal rules and regulations restricting exports.  We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.  By using the Site and submitting any Personally Identifiable Information, visitors from outside of the United States acknowledge that the Site is subject to United States law and consent to the transfer of Personally Identifiable Information to the United States, which may provide a different level of data security than in their country of residence, and waive any claims that may arise under their own national laws.
+**WHAT PERSONAL INFORMATION DOES TOPSPIN COLLECT?**
 
-**Note Regarding the Use of the Site by Children:** The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personally Identifiable Information through the Site. 
+The information we gather from customers enables us to personalize and improve our services and to allow our users to set up a user account and profile that can be used to interact with other users through the Website. In connection with the Website, we may request and display some personal information to other users and visitors of Website, which allows users to identify each other. We collect the following types of information from our customers.
 
-**1.             ****What Types of Information Does Company Collect From Me?   **
+**WHAT PERSONAL INFORMATION DO YOU PROVIDE TO US?**
 
-Company gathers two basic types of information through the Site: " **Personally Identifiable Information** " (or " **PII** ") and " **Non-Personally Identifiable Information** " (or " **Non-PII** ").  Personally Identifiable Information is information that identifies you as an individual; that is, your name, postal address, telephone number, e-mail address, credit card number or other payment account number.  Non-Personally Identifiable Information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
+We receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected include, without limitation, your full name, email address, IP address, browser information, password, contact information, phone number, transactional information based on your activities on the Website, and media consumed on the Website including, but not limited to, media viewed, played, downloaded, uploaded, and shared. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for purposes such as responding to your requests for certain products and services, allowing you to interact with other users, customizing the advertising and content you see, and communicating with you about specials, sales offers, and new features.
 
-**                    a.            ****Personally Identifiable Information.   **You do not have to provide PII to use the Site.  However, in order for you to take advantage of particular opportunities provided through the Site (for example, to sign up for a newsletter or to view certain areas of the Site), we may require that you furnish PII.  We collect PII from you through the Site only when you voluntarily provide it to us.
+**WHAT PERSONAL INFORMATION IS COLLECTED AUTOMATICALLY?**
 
-**                   b.            ****Non-Personally Identifiable Information.   **When you visit and interact with the Site, Company and third parties with whom Company has contracted to provide services to Company may collect Non-PII (for example, a catalog of the Site pages you visit).  Non-PII is generally collected through the Site from five different sources:  server log files, environmental variables, cookies, pixel tags and other similar technologies and information that you voluntarily provide. 
+We receive and store certain types of information whenever you interact with our Website or services. Topspin automatically receives and records information on our server logs from your browser including your IP address, cookie information, the page you requested, and the media you have consumed (e.g., viewed, played, downloaded, uploaded, and shared).
 
-**i.         ****Server Log Files.   **Your Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP).  This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited.  We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site's servers, and administering the Site.  Collecting IP addresses is standard practice on the Internet and is done automatically by many web sites.
+Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, similar to TV ratings that indicate how many people watched a particular show. This type of data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, (i) we may provide information to the content owners that relates to their fans (e.g., regarding which fans are consuming and sharing what pieces of media at what levels), and (ii) we may provide aggregate information to our partners about how our customers, collectively, use our Website (e.g., we share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience).
 
-**ii.       ****Environmental Variables.**   We and our service providers may also collect certain environmental variables, such as your MAC address, computer type (Windows or Macintosh), screen resolution, OS version, Internet browser, and Internet browser version.  These environmental variables are collected by most browsers, and can be used to optimize your experience on the Site.
+**WHAT PERSONAL INFORMATION IS COLLECTED BT THIRD PARTIES?**
 
-**iii.     ****Cookies.   **We and our service providers may use "cookies" on the Site.  Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes.  Cookies are an industry standard used by most web sites, and can facilitate users' ongoing access to and use of a particular web site; cookies do not cause damage to your computer systems or files.  If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer. 
+Topspin has contracted with third-party service providers to provide certain services to us, including monitoring certain pages of our website for the purpose of reporting website traffic, statistics, advertisement "click-thrus," and/or other activities on our website. Where authorized by us, these service providers may use cookies, web beacons, and/or other monitoring technologies to compile data about our website visitors. For more information, please see the "What About Cookies?" and "Clear Gifs (Web Beacons/Web Bugs)" sections of this Privacy Policy. If you have any questions about how information is collected and used by our service providers, please [contact us](http://legal@topspinmedia.com/).
 
-**iv.      ****Pixel Tags.   **We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, " **Pixel Tags** ") in connection with some Site pages and HTML-formatted e-mail messages to, among other things, compile aggregate statistics about Site usage and response rates.  A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with Cookies on the visitors' hard drives.  Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns.  When used in HTML-formatted e-mail messages, Pixel Tags can tell the sender whether and when the e-mail has been opened.
+**HOW DO WE COMMUNICATE?**
 
-**v.        ****Information That You Voluntarily Provide.**   Company also collects Non-PII ( _e.g._ , your interests, your geographic location, etc.) when you voluntarily provide such information to us.  When such information is not combined with any PII, such information is considered to be Non-PII, as it does not personally identify you or any other user.  Additionally, we may aggregate PII in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using PII to calculate the percentage of our users who like a particular artist.  Such aggregate information is considered Non-PII for purposes of this Policy.
+Topspin provides a marketing tool via the Website to allow artists and their representatives to market and distribute their media directly to users of the Website through e-mail, phone/voicemail and other forms of communication. If you are a fan of Topspin and want to subscribe to our newsletter, you can do so by entering your email address on our Website. We often receive a confirmation when you access a message from Topspin. Topspin uses this confirmation to improve the effectiveness of the marketing. If you do not want to receive communications from us or the artists who use Topspin’s platform, please click the unsubscribe link contained at the bottom of any email sent using Topspin’s service. Note however that you cannot unsubscribe from some administrative emails, such as order or shipment confirmations.
 
-**     2.               ****How Does Company Use Information Collected From Me?   **
+**HOW DO WE DEAL WITH THE COLLECTION OF CHILDREN'S DATA (PEOPLE UNDER THE AGE OF 13)?**
 
-**                    a.            ****Personally Identifiable Information.   **We may use PII about you in the following ways:
+Some of our artist’s sites may be reasonably attractive to children. We do not intend to collect personal information from children under the age of 13, and if we find out we have collected this information, we will dispose of it immediately. Additionally, when our artists are aware that their music and other content may be reasonably attractive to children, we provide them with tools to ask for a user’s date of birth and prevent the collection of personal information from children under 13.
 
-**                                             i.            ****Fulfillment of Requests.   **Company may use PII about you to fulfill the purpose for which such PII was provided ( _e.g._ , to send newsletters to you or fulfill your purchase). 
+**HOW DO TOPSPIN WIDGETS WORK?**
 
-**                                           ii.            ****Administrative Communications.**  From time to time, in our sole discretion, we may use PII about you to send to you important information regarding the Site, or changes to our terms, conditions, and policies.  Because this information may be important to your use of the Site, you may not opt-out of receiving such communications.
+Our Website and data collection devices include "Widgets," which are interactive mini-programs that run on our artists’ sites to provide specific services from the artist (e.g. trading an email for a free song, purchasing an album, playing music, etc.). Personal information, such as your email address, may be collected through the Widget, which will subscribe you to an artist’s newsletter in exchange for a free song. Cookies may also be set by the Widget to enable it to function properly. Topspin Widgets collect the same personal information that may be collected by the Website, as described above. Topspin is the data processor of the personal information collected through these Widgets when the Widgets are on an artist’s site. However, because the artists are actually the controllers of this data, you should also refer to their privacy policy. Data is used by Topspin and the respective artists only for the purpose it is intended for.
 
-**                                         iii.            ****Other Communications.   **If you affirmatively opt-in to receive marketing messages from Company and the Affiliated Entities, Company and the Affiliated Entities may use PII about you to inform you of any artists, products, programs, services and promotions that we believe may be of interest to you.  If you would prefer not to receive marketing-related e-mail messages, please refer to Section 3.f (" _Opt-Out_ ") below. 
+Some of our Widgets have an "Email a friend" feature. If you choose to use our referral service to tell a friend about an artist, we will ask you for your friend’s email address. The Widget will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-**                                          iv.            ****Third Party Communications.**   If you affirmatively opt-in to Company sharing PII about you with third parties for their marketing purposes, we may share PII about you with third parties to allow them to contact you regarding products, programs, services and promotions that they believe may be of interest to you.  If you would like to later opt-out of receiving marketing-related e-mail messages from such third parties, please utilize any opt-out mechanisms set forth in such third parties' marketing-related e-mail messages and/or privacy policies.
+Our Widgets also have a "share" feature. If you choose to use our share service to repost a Widget on another website, the third party website will request your login credentials (such as on Twitter or Facebook). The Widget will then automatically post the Widget on that website, which is governed by that third party website’s privacy policy.
 
-**                                            v.            ****Disclosures to Artists.**   One of the reasons we operate the Site is to provide you with news and information about Atlantic Recording Corporation **** and our artists.  As such, if you affirmatively opt-in to Company sharing PII about you with our artists, we may share PII about you with such artists (for the purpose of clarification, if any such artist is a band, we may share PII with each and every member of such band) and their representatives (collectively, " **Artist(s)** ") so that such Artists have information on users of the Site, and such Artists may use this information to contact you regarding products, programs, services and promotions that such Artists believe may be of interest to you.  Although we seek to have Artists agree to abide by this Policy, we do not control, and are not responsible for, Artists' use of PII about you.  If you would prefer not to receive marketing-related e-mail messages from Artist(s), please see the " _Opt-Out_ " section below.
+**WHAT INFORMATION DO WE COLLECT IN OUR FORUMS?**
 
-**                                          vi.            ****Purchases.   **If purchasing functionality is offered on the Site, we may use third-party payment services (each, a " **Payment Service** ") to collect payments for purchases made through the Site.  If you wish to make a purchase through the Site, you may be directed to a web site or other online service that is hosted by a Payment Service (each, a " **Payment Service Page** ") and not by us.  Any PII that you provide through a Payment Service Page will be collected by the applicable Payment Service and not by us, and will be subject to such Payment Service's privacy policy, rather than this Policy.  We have no control over, and shall not be responsible for, any Payment Service's use of information collected through any Payment Service Page.  PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE COLLECTION AND USE OF INFORMATION THROUGH ANY PAYMENT SERVICE PAGE OR THE PRIVACY OR INFORMATION PRACTICES OF ANY PAYMENT SERVICE.
+If you use our bulletin board, blog, or chat room on this Website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at the email address listed below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Notwithstanding the foregoing, if purchasing functionality is offered on the Site and you seek to make a purchase through the Site, we may collect your credit card number or other payment account number (for example, your wireless account number), billing address and other information related to such purchase (collectively, " **Payment Information** ") from you, and may use such Payment Information in order to fulfill your purchase.  If applicable, we may also provide such Payment Information, or other PII provided by you, to third parties as necessary to complete your purchase (for example, to process your credit card or payment account number).  To the extent that Payment Information includes Non-PII, use of such Non-PII is governed by Section 2.b below. 
+**DOES TOPSPIN USE COOKIES?**
 
-**                                        vii.            ****E-mails to Friends.   **We may provide functionality to permit you to send messages regarding Site-related content (such as music clips or artist information) to a friend through the Site.  If you wish to use this feature, you may provide us with your friend's e-mail address so that we can facilitate your sending of such message to your friend.  To do so, any PII you provide in connection with sending your friend such message, such as your name and your e-mail address, will, of course, be disclosed to your friend. 
+Like other websites and web-based technologies, we use cookies to collect information about how people use Topspin. We use this information to make our application better. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive to enable our systems to recognize your browser and tell us how and when pages in our Website are visited and by how many people. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.
 
-**                                      viii.            ****Promotions; Surveys.   **Company, Artist(s) or the Affiliated Entities may operate sweepstakes, contests and other promotions (collectively, " **Promotions** ") through the Site.  In addition, we, Artist(s) or the Affiliated Entities may conduct surveys or polls through the Site or ask for your responses to questionnaires that we make available through the Site (such surveys, polls and questionnaires, collectively, " **Surveys** ").  We typically ask you for certain PII when you enter and, if applicable, win a Promotion, and when you participate in a Survey.  We reserve the right to share PII that we collect in connection with Promotions and Surveys with third-party sponsors or facilitators of such Promotions and Surveys (irrespective of whether such Promotions and Surveys are hosted by us), or otherwise in accordance with the rules applicable to a Promotion or Survey.  You should carefully review the rules, if any, of each Promotion and Survey in which you participate through the Site, as they may contain additional important information about Company's, a sponsor's or other third parties' use of PII about you.  To the extent that the terms and conditions of such rules concerning the treatment of PII about you conflict with this Policy, the terms and conditions of such rules shall control. 
+Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or hashed (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. If you are interested in blocking cookies and other web-based tracking technologies, we suggest exploring the following browser plug-ins and extensions:
 
-**                                          ix.            ****Internal Business Purposes.**   We may also use PII about you for our internal business purposes, such as data analysis, audits and so forth.
+If you are interested in blocking cookies and other web-based tracking technologies, we recommend exploring the following browser plug-ins and extensions:
 
-**                                            x.            ****Third Party Service Providers.   **We work with third parties (and, in some cases, our Affiliated Entities), who provide services including but not limited to data analysis and collection, hosting, order fulfillment and other services of an administrative nature.  We reserve the right to share PII about you with such third parties for the purpose of enabling these third parties to provide such services (for example, if you choose to buy wireless products or services from us, we may share PII about you with your wireless carrier and our third party service providers so that such products and/or services can be delivered to you and/or your mobile device).
+  * [PrivacyChoice TrackerBlock](http://privacychoice.org/trackerblock) \- Blocks tracking cookies, Flash cookies and HTML5 objects; sets permanent opt-out status; sends Do Not Track (DNT) signal.
+  * [Ghostery](https://www.ghostery.com/) \- Allows zero-tolerance blocking of anything ad related, complete (visible) open communication with ad companies, or countless measures in between - determined by you.
+  * [Disconnect](https://disconnect.me/) \- Visualize and block invisible tracking of your search and browsing history.
 
-**                                          xi.            ****Assignment.   **We reserve the right to transfer any and all information that we collect from Site users to an Affiliated Entity or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Company's business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings). Additionally, please note that if any Artist is no longer affiliated with Company, we may transfer or provide a copy of any and all information that we collect from Site users to such Artist. 
 
-**                                        xii.            ****Law enforcement; emergencies; compliance.**   Notwithstanding any other provision of this Policy to the contrary, we reserve the right to disclose PII about you to others as we believe to be appropriate (a) under applicable law; (b) to comply with legal process (c) to respond to governmental requests; (d) to enforce our Terms and Conditions; (e) to protect our operations or those of any Affiliated Entities or our artists; (f) to protect the rights, privacy, safety or property of Company, the Affiliated Entities, our artists, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. For example, we may, to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.
 
-**                   b.            ****Non-Personally Identifiable Information.   **Because Non-PII does not personally identify you, we may use such information for any purpose.  In addition, we reserve the right to share such Non‑PII, which does not personally identify you, with Affiliated Entities and other third parties, for any purpose.
+**WHAT DATA DOES TOPSPIN COLLECT USING CLEAR GIFS (WEB BEACONS/WEB BUGS)?**
 
-In some instances, we may combine Non-PII with PII (such as combining your name with your geographic location).  If we do combine any Non-PII with PII, the combined information will be treated by us as PII hereunder as long as it is so combined (see Section 2.a above). 
+Topspin and companies providing services to or on behalf of Topspin (such as advertising partners, affiliates, and exchanges) use web beacons/page tags (1x1 pixels), to collect non-personally identifiable information about your activities when you visit the site. The data collected and tracked by the service is anonymous. Behavioral tracking information through web beacons does not collect, track, or require access to any personally identifiable information about any such visitors. This website uses web beacons to inform, optimize, and serve ads based on someone’s past visits to this website, or websites within advertising partners, affiliates, and/or exchanges. The data may include your location information associated with your IP address, web pages requested or viewed, date, time, domain and responses to advertisements. Information gleaned from your browser is automatically received and recorded. Topspin and/or its service providers, affiliates, and exchanges collecting non-personally identifiable information may use this information to advertise to you. Topspin and companies providing services to or on behalf of Topspin (such as advertising partners, affiliates, and exchanges) may collect information about when your saw ads served to you and what ads you clicked on. Topspin and companies providing services to or on behalf of Topspin may also use and disclose non-personally identifiable data derived from our advertising campaigns for reporting purposes, for scheduling and optimization of content delivery and, of course, if they are required to do so by law.
 
-**3.             ****Other Important Notices Regarding Our Privacy Practices.**
+You may opt out by following [the consumer opt-out instructions](http://www.networkadvertising.org/choices/) on the National Advertising Initiative's website.
 
-**                    a.            ****Profiles.**   We may provide functionality on the Site that allows you to create a "profile page" (your " **Profile** ") and post certain information and materials on your Profile.  Please note that your Profile, including all PII available in your Profile, may be accessible to other users.  We urge you to exercise discretion and caution when deciding to disclose PII about you, or any other information, in your Profile.  WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF ANY PII THAT YOU DISCLOSE IN YOUR PROFILE. 
+Opting out lets you opt out of ads shown to you based on factors such as your interests and demographic details on your computer’s browser. Opting out does not do the following:
 
-**                   b.            ****Information Posted on the Site.   **Company may make available through the Site services (for example, message boards, chat functionality and blogs, among other services) to which you are able to post information and materials (including photographs, videos and other content).  Please note that any information or materials that you disclose through such services or otherwise on the Site becomes public information, and may be available to Site visitors and to the general public; moreover, such information and materials, once so disclosed to the general public, may be redistributed through the Internet and other media channels, where it will reach an even broader audience.  In addition, when you choose to make a posting on such services, certain PII (for example, a link to your Profile that contains PII), may be available for other users to view.  Further, please note that, pursuant to the Terms of Use applicable to the Site located at www.atlanticrecords.com/termsofuse, we retain certain rights in the information or materials that you post on the Site, and we may use and/or disclose such information or materials (including any PII included therein, if any) in accordance with the terms and conditions of our Terms of Use.  We urge you to exercise discretion and caution when deciding to disclose PII about you, or any other information, on the Site.  WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE OF ANY PII THAT YOU VOLUNTARILY DISCLOSE THROUGH THE SITE. 
+  * Stop ads altogether
+  * Disable other companies or exchanges interest-based ads
+  * Opt you out across multiple browsers or computers at once
+  * Keep you opted out after you clear your browser’s cookies.
 
-**                    c.            ****Third Party Sites.   **The Site may contain links to third party web sites.  These linked sites (including without limitation the web sites of Affiliated Entities) are not under Company's control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site.  We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of, or our affiliation with any provider of, the linked site by Company, Artist(s) or any Affiliated Entities.  If you provide any PII through any such third party web site, your transaction will occur on such third party's web site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party.  We recommend that you familiarize yourself with the privacy policies and practices of any such third parties.  PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES, INCLUDING, WITHOUT LIMITATION, THE AFFILIATED ENTITIES.
 
-**                   d.            ****Third Party Advertisers.   **We may use third-party advertising companies to serve ads when you visit our Site.  Please note that these companies may use information (not including your name, address, email address or telephone number) about your visit to this Site in order to provide advertisements about goods and services that may be of interest to you.  In the course of serving advertisements to this Site, these companies may place or recognize a unique cookie on your browser.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit ****<http://www.doubleclick.net/us/corporate/privacy>**** or <http://networkadvertising.org/optout_nonppii.asp>. 
 
-**                    e.            ****Security.   **We use reasonable organizational, technical and administrative measures to protect PII under our control.  Security measures and tools, such as firewalls, are in place to help protect against the loss, misuse and alteration of the information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  As a result, although we strive to protect PII about you, we cannot ensure or warrant the security of any information you transmit to us through or in connection with the Site or that is stored by us.  We also seek to strike a balance between the security of your data and your convenience.  We do this because we believe that our customers attach value to both.  As a result, we will often use a method of communication that is less secure than other, less convenient alternatives.  For example, certain data you send us, including PII, may be sent to us in unencrypted form.  You acknowledge and agree that any information you transmit through the Site is so transmitted at your own risk.  If you are concerned that PII about you may be transmitted over the Internet in unencrypted form, please do not provide us with any PII. **  **If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with Section 3.g ( _"Contacting Us,")_ below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem). 
+If you are interested in stopping ads altogether, we recommend using a web plug-in such as [Adblock Plus](https://adblockplus.org/), which works across multiple browsers and operating systems.
 
-**                     f.            ****Opt-Out.   **If you would prefer not to receive marketing-related e-mail messages from Company or any particular Affiliated Entity, you may opt-out of receiving such messages by following the "unsubscribe" instructions in the latest such message you have received from Company or such Affiliated Entity, respectively.  Please note that following such "unsubscribe" instructions will opt you out of receiving marketing-related e-mail messages from the sender of the particular message from which you initiated the opt-out process, but will not opt you out of receiving such messages from other senders (including, as applicable, Company, Artist(s) or other Affiliated Entities).
+**WILL TOPSPIN SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?**
 
-Additionally, if you would like to opt-out of receiving marketing-related e-mail messages from Artist(s) or other third parties with whom we have shared PII about you hereunder, please utilize any opt-out mechanisms set forth in such third parties' or Artist(s) marketing-related e-mail messages and/or privacy policies, if any.
+Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to other people or non-affiliated companies. We may share your Personal Information when we have your permission, and we may share your Personal Information under the following circumstances:
 
-**                   g.            ****Contacting Us.   **If you have any questions regarding this Policy, please contact us by e-mail at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or please write to the following address:
+Affiliated Businesses We Do Not Control: We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses sell items to you through the Website, for example, the bands, musicians and other artists from which you purchase or use products or services through the Website. In other situations, Topspin provides services, or sells products jointly with affiliated businesses. Usually, you will be able to easily recognize when an affiliated business is associated with your transaction. We will share Personal Information with that affiliated business.
 
-Warner Music Group
+Agents: We employ other companies and people to perform tasks on our behalf relating to the services we provide. Examples of such information include, without limitation, fulfilling orders, delivering packages, sending postal mail and email, analyzing and gathering data, processing credit card information and providing customer service. By using our services, you consent to our sharing of Personal Information for the above purposes. Use by such service providers of personal information is governed by their privacy policies.
 
-Legal Department
+User Profiles: User profile information including users’ name, email address, contact information, and other information you provide ("User Submissions") may be displayed to artists to facilitate direct communication with artists and users. Topspin artists and their colleagues can see this third party personal information when they use their portal. User profiles may be created by combining your information with other sources of information such as information obtained from public databases. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions.
 
-75 Rockefeller Plaza
+Third Party Advertisers: Topspin may serve third-party ads on or through the Website. In that event, we may share certain information about you with such advertisers and/or with advertising networks so that advertisers can present you with offers that are relevant to you. See "What Choices Do I Have?" below for opt-out information.
 
-New York, NY 10019
+Aggregated Information. We may share aggregated information that includes your Personal Information, non-personally identifying information and log data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services. See "What Choices Do I Have?" below for opt-out information.
 
-Attn: Privacy Coordinator
+Business Transfers: If Topspin, or substantially all of its business or assets, was acquired, or in the unlikely event that Topspin goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by the successor or acquirer (or a third party through bankruptcy). You acknowledge that such transfers may occur in any of these circumstances, and that any acquirer or successor of Topspin may continue to use your Personal Information as set forth in this policy.
 
-Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. 
+Protection of Topspin and Others: We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Topspin, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-Print page
+With Your Consent: Except as set forth herein, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+As we mentioned above, we use some third parties to help us provide you with our services. These third parties have their own privacy policies, which you can view through their respective websites. Some of these third parties add cookies to your browser; if you do not want them to do this, you can disable third party cookies in your browser’s settings. To help you identify what information is collected and how it is used, we prepared a list of some of these third parties for you:
+
+### [awe.sm](http://awe.sm/)
+
+Used for content sharing analytics. They track IP address, referring site, date/time, browser type, and cookie identifier.
+
+[awe.sm privacy policy](http://totally.awe.sm/privacy)
+
+### Google
+
+Used for site analytics and to track the number of people visiting our site, using our tools and purchasing items using Topspin. They track IP address, browser type, hardware/software type, interaction data and page views.
+
+[Google privacy policy](https://www.google.com/intl/en/policies/privacy/)
+
+### Chartbeat
+
+Used for real-time traffic and audience-behavior data analysis. They track IP address and browser type.
+
+[Chartbeat privacy policy](https://chartbeat.com/privacy/)
+
+### Hello Bar
+
+Used for web analytics and content promotion. They track IP address, browser information and hardware/software type.
+
+[Hello Bar privacy policy](http://www.hellobar.com/privacy-policy)
+
+### AppNexus
+
+Used for ad tracking and analytics. They track ad views, analytics, browser information, demographic data, hardware/software type, page views and clickstream data. 
+
+[AppNexus privacy policy](http://www.appnexus.com/platform-policy)
+
+### KissMetrics
+
+Used for web analytics. They track IP address, browser information, interaction data and page views.
+
+[KissMetrics privacy policy](http://kissmetrics.com/privacy/)
+
+### Mix Panel
+
+Used for web analytics. They track IP address, browser information, interaction data and page views
+
+[Mix Panel privacy policy](http://mixpanel.com/privacy/)
+
+### Janrain
+
+Used for user management and registration. They collect IP addresses, browser type, Internet service provider (ISP), referring/exit pages, hardware/software type, clickstream data and registration data entered in form, including your name, email address, and other personal information, interaction data and transaction-related information
+
+[Janrain privacy policy](http://janrain.com/janrain-privacy-statement/)
+
+### Zendesk
+
+Used for customer service. they collect IP address, name, email, interaction data and other personally identifiable information entered into their forms.
+
+[Zendesk privacy policy](https://www.zendesk.com/company/privacy)
+
+### AddThis
+
+Used for social infrastructure and analytics. They collect name, email, interaction data and other personally identifiable information entered into customer service forms.
+
+[AddThis privacy policy](http://www.addthis.com/privacy/privacy-policy)
+
+### AppNexus
+
+Used for advertising analytics. They collect ad views, analytics, browser information, demographic data, hardware/software type, page views and clickstream data.
+
+[AppNexus privacy policy](http://www.appnexus.com/platform-policy)
+
+### AdRoll
+
+Used for advertising retargeting. They collect IP address, ad views, date/time, demographic data and page views.
+
+[AdRoll privacy policy](http://www.adroll.com/about/privacy)
+
+### Quantcast
+
+Used for audience measurement and real-time advertising. They collect IP address, browser information, date/time, demographic data, hardware/software type, page views and search history.
+
+[Quantcast privacy policy](https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/)
+
+### New Relic
+
+Used for Topspin application(s) performance measurement. They collect IP address, browser type, operating system, domain name and date/time.
+
+[New Relic privacy policy](https://newrelic.com/privacy)
+
+### TRUSTe
+
+Used for privacy verification. They collect IP address. 
+
+[TRUSTe privacy policy](http://www.truste.com/privacy-policy)
+
+### GlobalCollect
+
+Used for payment processing. They collect IP address, browser type, hardware/software, date/time and any personally identifable information entered as part of a purchase including name, address and credit card information.
+
+[GlobalCollect privacy policy](http://globalcollect.com/Privacy-statement/)
+
+### Rapleaf
+
+Used to correlate email addresses to available demographic and geographic data. They collect IP address and email address.
+
+[Rapleaf's privacy policy](https://www.rapleaf.com/privacy/)
+
+**IS PERSONAL INFORMATION ABOUT ME SECURE?**
+
+Your Topspin account Personal Information may be protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+The security of your personal information is important to us. If you enter sensitive information (such as credit card number and/or social security number, national ID, personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). This security also applies to sensitive information collected on our Widgets.
+
+The Website contains links to other sites, including the sites of the bands, musicians and other artists from which you purchase or use products or services through the Website. Topspin is not responsible for the privacy policies and/or practices on other sites (including the bands, musicians and other artists from which you purchase or use products or services through the Website). When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
+
+**WHAT PERSONAL INFORMATION CAN I ACCESS?**
+
+Topspin allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information by [sending us an email](http://customersupport@topspinmedia.com/). This list will change as our Website changes:
+
+  * Shipping information
+  * Billing information
+  * E-mail subscriptions to artists
+  * Transaction history
+
+
+
+We will retain your information for as long as we need to in order to provide you services. If you wish to request that we no longer use your information to provide you services, please [contact us](mailto:legal@topspinmedia.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**IS TOPSPIN EU SAFE HARBOR CERTIFIED?**
+
+To view our certification, please visit the [US Department of Commerce's website](http://export.gov/safeharbor/)
+
+**WHAT CHOICES DO I HAVE?**
+
+You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. We will respond to your email request within 30 business days. When you update information, however, we may maintain a copy of the unrevised information in our records.
+
+As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Topspin features. You can also opt-out of or block all of the technologies that we use by following the instructions mentioned earlier in this policy.
+
+If you do not wish to receive promotional email from Topspin or artists who use the Topspin service, please click the unsubscribe link at the bottom of any email you receive from us. Alternatively, you can [file a help ticket](http://t.opsp.in/fanform) with our Fan Support team and they can take care of removing you from any and all artist lists that use Topspin. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. As stated above, you cannot opt-out of some administrative emails, such as order receipts.
+
+For more information on advertising and opt-out cookies, visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and <http://www.rapleaf.com/opt_out>
+
+**CHANGES TO THIS PRIVACY POLICY**
+
+Topspin may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on the homepage of our Website or sending you an email. Users are bound by any changes to the Privacy Policy when they use the Website after such changes have been first posted.
+
+If you need to contact Topspin for any reason or you have further questions about our policy, you can do so at the following address and phone number:
+
+Topspin Media, Inc. 1538 20th St. First Floor Santa Monica, CA 90404 +1 310-421-2422
