@@ -1,27 +1,23 @@
-<!--The following is the downloaded HTML source of the roomstogo.com privacy policy that was archived on 2013-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604052409id_/http%3A//www.roomstogo.com/content/Customer-Service/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomstogo.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210152303id_/http%3A//www.roomstogo.com/content/Customer-Service/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!--[if IE 9]>
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
-<![endif]-->
-<!--[if lte IE 8]>
+<meta property="fb:app_id" content="498326856855085">
+<meta property="fb:admins" content="100004146878228">
+<meta name="p:domain_verify" content="6ab24871ee51f3320c03b8aac2af76f3">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--[if lt IE 8]>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 <![endif]-->
 <link rel="stylesheet" href="/static/css/reset.css" type="text/css">
 <link rel="stylesheet" href="/static/css/utility.css" type="text/css">
-<!--[if gt IE 8]>
-<link rel="stylesheet" href="/static/css/site.css" type="text/css" />
-<link rel="stylesheet" href="/static/css/site.css" type="text/css" media="print" />
-<![endif]-->
-<!--[if lte IE 8]>
+<link rel="stylesheet" href="/static/css/site.css" type="text/css">
+<link rel="stylesheet" href="/static/css/print.css" type="text/css" media="print">
+<!--[if lt IE 8]>
 <link rel="stylesheet" href="/static/css/siteIE7.css" type="text/css" />
 <link rel="stylesheet" href="/static/css/siteIE7.css" type="text/css" media="print" />
 <![endif]-->
-<!--[if !IE]><!-->
-<link rel="stylesheet" href="/static/css/site.css" type="text/css">
-<!--<![endif]-->
 <link rel="stylesheet" href="/static/css/jquery-ui-1.10.2.custom.css" type="text/css">
 <link rel="stylesheet" href="/static/css/modal.css" type="text/css">
 <link rel="stylesheet" href="/static/css/login-modal.css" type="text/css">
@@ -30,10 +26,20 @@
 <!--[if IE]>
 <link rel="stylesheet" href="/static/css/ie.css" type="text/css" />
 <![endif]-->
-<!--[if lte IE 8]>
+<!--[if lte IE 7]>
 <link rel="stylesheet" href="/static/css/ie_older.css" type="text/css" />
 <![endif]-->
+<!--[if IE 8]>
+<style type="text/css">
+#emailAFriendContainer{ width:205px !important; }
+.fb-like.fb_edge_widget_with_comment, like, [show_faces*="false"]{ display:inline-block !important; float:left !important; width:45px !important;  }
+span.pinterest{ display:inline-block !important; float:right; width:45px !important; }
+</style>
+<![endif]-->
 <meta name="robots" content="index, follow">
+
+
+
 
 
 
@@ -97,6 +103,7 @@
 
 
 
+
 <meta name="description" content="Shop for furniture at Rooms To Go that will look great in your home.">
 
 
@@ -130,12 +137,14 @@
 
 
 
-<meta property="og:image" content="http:?$PDP_Cart_Primary_150x150$">
+<meta property="og:image" content="http:/images/unavailable.gif?$PDP_Cart_Primary_150x150$">
 <meta property="og:type" content="product">
 <meta property="og:url" content="http://www.roomstogo.com/browse/content.jsp">
-<meta property="og:description" content="Shop for furniture at Rooms To Go that will look great in your home.">
+<meta property="og:description" content="Shop for furniture at Rooms To Go that will look great in your home. #iSofa #roomstogo">
 
 <link rel="icon" type="image/png" href="/static/img/favicon.png">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var _adblock=true;</script>
+<script type="text/javascript" src="/static/js/advertising.js?v=6754"></script>
 
 
 
@@ -152,7 +161,7 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 // GOOGLE ANALYTICS
 // Basic tracking code
 
@@ -167,6 +176,14 @@ if ( window.location.href.match( /(http|https):\/\/(www.roomstogo.com|roomstogo.
 else _gaq.push(['_setAccount', 'UA-35380643-3']);
 _gaq.push(['_setDomainName','roomstogo.com']);
 _gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_setAllowAnchor', true]);
+//set Custom Variable in slot 4 to indicate if user has Adblocker installed
+if ( !_adblock ) {
+_gaq.push(['_setCustomVar',4,'Adblocker','Not Installed',3]);
+} else {
+_gaq.push(['_setCustomVar',4,'Adblocker','Installed',3]);
+}
+
 // Check to see if facet is clicked
 var gaPathName = window.location;
 var gaPartPath = window.location.pathname;
@@ -185,9 +202,15 @@ if ( ( (gaPartPath.indexOf("category.jsp") != -1) ) )
 var categoryClick = true;
 if ( (facetClick != true) && (categoryClick != true) ) _gaq.push(['_trackPageview']);
 (function() {
+if ( !_adblock ) { //load dc.js unless user has AdBlock
+ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+} else { //otherwise load ga.js
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+}
 })();
 </script>
 
@@ -207,33 +230,44 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
 
-<script type="text/javascript" src="/static/js/jquery.1.7.min.js?"></script>
-<script type="text/javascript" src="/static/js/jquery.1.7.min.js?v=4982"></script>
-
-
-<script type="text/javascript" src="/static/js/jquery.ui.core.js?v=4982"></script>
-<script type="text/javascript" src="/static/js/jquery.effects.core.js?v=4982"></script>
-
-
-
-<script type="text/javascript" src="/static/js/numericAnalyticsFramework.js?v=4982"></script>
-<script type="text/javascript" src="/static/js/TealeafSDKConfig.js?v=4982"></script>
-<script type="text/javascript" src="/static/js/TealeafSDK.js?v=4982"></script>
-
-<script type="text/javascript" src="/static/js/ga_transactions.js?v=4982"></script>
+<script type="text/javascript" src="/static/js/jquery.1.7.min.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/jquery-cookie.js?v=6754"></script>
+<script type="text/javascript">
+var userAgent = document.documentElement;
+userAgent.setAttribute('data-useragent',  navigator.userAgent);
+</script>
 
 
 
+<script type="text/javascript" src="/static/js/jquery.ui.core.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/jquery.effects.core.js?v=6754"></script>
+
+
+
+<script type="text/javascript" src="/static/js/numericAnalyticsFramework.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/tealeaf/tealeaf-jQuery-prod-min.js?v=6754"></script>
+
+<script type="text/javascript" src="/static/js/ga_transactions.js?v=6754"></script>
 
 
 
 
-<script type="text/javascript" src="/static/js/jquery.tools.min.js?v=4982"></script>
+<script type="text/javascript" src="/static/js/jquery-ui.custom.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/jquery.karega.zoomer.js?v=6754"></script>
 
-<script type="text/javascript" src="/static/js/modal.js?v=4982"></script>
+
+
+
+
+
+
+<script type="text/javascript" src="/static/js/jquery.tools.min.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/modal.js?v=6754"></script>
+
+<script type="text/javascript" src="/static/js/scrollable.js?v=6754"></script>
 
 </head>
-<body class="atg_store_pageHome contentPage  rtgAdults">
+<body class="atg_store_content contentPage  rtgAdults">
 
 
 
@@ -274,7 +308,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 							</li>
 						</ul>
 						<ul class="globalSiteLinks">
-							<li class="globalSiteLink"><a href="/browse/creditOptions.jsp ">Credit Options</a></li>
+							<li class="globalSiteLink"><a href="/view/creditOptions.jsp ">Credit Options</a></li>
 							<li class="siteLinkSeparator">|</li>
 							<li class="globalSiteLink"><a href="http://www.roomstogo.com/product/adults/GIFT-CARD/83333333/">Gift Cards</a></li>
 							<li class="siteLinkSeparator">|</li>
@@ -294,8 +328,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 					<div class="topBar">
 						<a class="logo" href="/">ROOMS TO GO</a>
                         
+							
 						
-
 						
 							
 							
@@ -415,43 +449,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 							</div>
 							
 							
-							 
-							
-							
-														
-							
-								
-								
-							
-								
-								
-									
-								
-									
-									
-										
-									
-												
-								
-							
-							
-							
-							<script type="text/javascript">
-								
-								
-								_gaq.push(['_setCustomVar',	
-								3,                   // This custom var is set to slot #3.  Required parameter.
-      							'In Market',         // The name acts as a kind of category for the user activity.  Required parameter.
-      							'No',     // This value of the custom variable.  Required parameter.
-      							2                    // Sets the scope to session-level.
-      							]);
- 								
- 								_gaq.push(['_trackEvent',
-      							'ChangeLocation', // category of activity
-      							'InitialLocation', // Action 
-   								]);
-								
-							</script>
 							
 							
 							
@@ -890,7 +887,7 @@ odd
 
 
 
-<a href="/furniture/Living-Rooms/Ottomans/9700028">Ottomans</a>
+<a href="/furniture/Living-Rooms/Accent-Chairs/9700381">Accent Chairs</a>
 
 
 
@@ -918,7 +915,7 @@ even
 
 
 
-<a href="/furniture/Living-Rooms/Cocktail-Ottomans/9700194">Cocktail Ottomans</a>
+<a href="/furniture/Living-Rooms/Ottomans/9700028">Ottomans</a>
 
 
 
@@ -946,7 +943,7 @@ odd
 
 
 
-<a href="/furniture/Living-Rooms/Chaises/9700149">Chaises</a>
+<a href="/furniture/Living-Rooms/Cocktail-Ottomans/9700194">Cocktail Ottomans</a>
 
 
 
@@ -1009,6 +1006,35 @@ odd
 
 
 </li>
+
+
+
+
+
+
+
+<li class="
+
+
+
+
+
+
+odd last
+
+">
+
+
+
+
+
+
+
+<a href="/furniture/Living-Rooms/Chaises/9700149">Chaises</a>
+
+
+
+</li>
 </ul>
 
 
@@ -1059,6 +1085,127 @@ odd
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="productListContainer blockContainer clearAll">
+<h3 class="title blockContainer">Recently Viewed in Living Rooms</h3>
+<ul class="recentlyViewedList blockContainer">
+<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.roomstogo.com/product/Wall-Units/Ryder-3-Pc-Open-Pier-Wall-Unit/2477734P/" class="recommendedProductDetail">
+<span class="atg_store_productImage">
+
+
+
+<img alt="product" src="//images2.roomstogo.com/is/image/roomstogo/ot_wu_2477734p_ryder?$PDP_Recommend_79x54$">
+</span>
+<span class="atg_store_productTitle">
+
+
+
+
+Ryder 3 Pc Wall Unit 
+
+
+</span>
+<span class="atg_store_productPrice">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="atg_store_newPrice">$999.99</span>
+</span>
+</a>
+</li>
+</ul>
+</div>
 
 </div>
 </div>
@@ -1518,6 +1665,339 @@ even last
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="productListContainer blockContainer clearAll">
+<h3 class="title blockContainer">Recently Viewed in Bedrooms</h3>
+<ul class="recentlyViewedList blockContainer">
+<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.roomstogo.com/product/Queen-Linens/Hudson-8-Pc-Queen-Duvet-Set/99007114/" class="recommendedProductDetail">
+<span class="atg_store_productImage">
+
+
+
+<img alt="product" src="//images2.roomstogo.com/is/image/roomstogo/ot_lin_99007114_hudson?$PDP_Recommend_79x54$">
+</span>
+<span class="atg_store_productTitle">
+
+
+
+
+Hudson 8 Pc Queen Duvet Set
+
+
+</span>
+<span class="atg_store_productPrice">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="atg_store_newPrice">$239.99</span>
+</span>
+</a>
+</li>
+
+<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.roomstogo.com/product/Chests/Berkshire-Lake-Black-Chest/32635661/" class="recommendedProductDetail">
+<span class="atg_store_productImage">
+
+
+
+<img alt="product" src="//images2.roomstogo.com/is/image/roomstogo/br_cht_32635661_berkshirelake_black?$PDP_Recommend_79x54$">
+</span>
+<span class="atg_store_productTitle">
+
+
+
+
+Berkshire Lake Black Chest 
+
+
+</span>
+<span class="atg_store_productPrice">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="atg_store_newPrice">$399.99</span>
+</span>
+</a>
+</li>
+
+<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.roomstogo.com/product/Queen-Bedroom-Sets/Berkshire-Lake-5-Pc-Queen-Bedroom/3212566P/" class="recommendedProductDetail">
+<span class="atg_store_productImage">
+
+
+
+<img alt="product" src="//images2.roomstogo.com/is/image/roomstogo/br_rm_berkshirelake1?$PDP_Recommend_79x54$">
+</span>
+<span class="atg_store_productTitle">
+
+
+
+Berkshire Lake 5 Pc Bedroom
+
+
+
+</span>
+<span class="atg_store_productPrice">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="atg_store_newPrice">$999.99</span>
+</span>
+</a>
+</li>
+</ul>
+</div>
+
 </div>
 </div>
 </li>
@@ -1778,6 +2258,233 @@ odd
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="productListContainer blockContainer clearAll">
+<h3 class="title blockContainer">Recently Viewed in Dining Rooms</h3>
+<ul class="recentlyViewedList blockContainer">
+<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.roomstogo.com/product/Dining-Room-Sets/Noah-Vanilla--4-Pc-Counter-Height-Dining-Room/4381303P/" class="recommendedProductDetail">
+<span class="atg_store_productImage">
+
+
+
+<img alt="product" src="//images2.roomstogo.com/is/image/roomstogo/dr_rm_noah_vanilla1?$PDP_Recommend_79x54$">
+</span>
+<span class="atg_store_productTitle">
+
+
+
+
+Noah 
+
+
+</span>
+<span class="atg_store_productPrice">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="atg_store_newPrice">$788.00</span>
+</span>
+</a>
+</li>
+
+<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.roomstogo.com/product/Barstools/Watercolor-Brown-Barstools/4271861P/" class="recommendedProductDetail">
+<span class="atg_store_productImage">
+
+
+
+<img alt="product" src="//images2.roomstogo.com/is/image/roomstogo/dr_stl_43418614_watercolor_set?$PDP_Recommend_79x54$">
+</span>
+<span class="atg_store_productTitle">
+
+
+
+
+Watercolor Brown Barstools 
+
+
+</span>
+<span class="atg_store_productPrice">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="atg_store_newPrice">$277.00</span>
+</span>
+</a>
+</li>
+</ul>
+</div>
 
 </div>
 </div>
@@ -2124,6 +2831,16 @@ odd last
 
 
 
+
+
+
+
+
+
+
+
+
+
 </div>
 </div>
 </li>
@@ -2185,7 +2902,7 @@ odd first
 
 
 
-<a href="/furniture/Mattress/King-Mattress/9700030">King Mattress</a>
+<a href="/furniture/Mattress/Queen-Mattress/9700031">Queen Mattress</a>
 
 
 
@@ -2213,7 +2930,7 @@ even
 
 
 
-<a href="/furniture/Mattress/Queen-Mattress/9700031">Queen Mattress</a>
+<a href="/furniture/Mattress/King-Mattress/9700030">King Mattress</a>
 
 
 
@@ -2229,6 +2946,16 @@ even
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2397,33 +3124,6 @@ odd
 
 
 
-<li class="
-
-
-
-
-
-
-even
-
-">
-
-
-
-
-
-
-
-<a href="/furniture/Accessories/Decorative-Items/9700176">Decorative Items</a>
-
-
-
-</li>
-
-
-
-
-
 
 <li class="
 
@@ -2532,6 +3232,33 @@ even
 
 </li>
 
+
+
+
+
+
+<li class="
+
+
+
+
+
+
+odd
+
+">
+
+
+
+
+
+
+
+<a href="/furniture/Accessories/Decorative-Chairs/9700196">Decorative Chairs</a>
+
+
+
+</li>
 
 
 
@@ -2723,6 +3450,127 @@ even last
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<div class="productListContainer blockContainer clearAll">
+<h3 class="title blockContainer">Recently Viewed in Accessories</h3>
+<ul class="recentlyViewedList blockContainer">
+<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.roomstogo.com/product/Queen-Linens/Hudson-8-Pc-Queen-Duvet-Set/99007114/" class="recommendedProductDetail">
+<span class="atg_store_productImage">
+
+
+
+<img alt="product" src="//images2.roomstogo.com/is/image/roomstogo/ot_lin_99007114_hudson?$PDP_Recommend_79x54$">
+</span>
+<span class="atg_store_productTitle">
+
+
+
+
+Hudson 8 Pc Queen Duvet Set
+
+
+</span>
+<span class="atg_store_productPrice">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="atg_store_newPrice">$239.99</span>
+</span>
+</a>
+</li>
+</ul>
+</div>
+
 </div>
 </div>
 </li>
@@ -2760,6 +3608,113 @@ even last
 
 
 
+
+
+
+
+
+<li><a href="/isofa" title="iSofa" class="topCatLinks isofa_icon">iSofa</a>
+<div class="subNavContainer">
+<div class="atg_store_catSubNv">
+<div class="categoryPromotionContainer blockContainer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="sub_category blockContainer blockLeft">
+<li>isofa Furniture</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/isofa">Create your iSofa</a></li></ul>
+<div class="categoryPromotion blockContainer">
+SE_9700382_megaPromo
+</div>
+</div>
+<!-- iSofa Recently Viewed Products -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</li>
+
+
+
+
+
 						</ol>
 					</div>					
 					<div class="searchBlock">
@@ -2781,7 +3736,7 @@ even last
 
 
 
-<form id="sForm" action="/atgsearch/atgSearchResults.jsp?_DARGS=/atgsearch/gadgets/atgSearch.jsp.sform" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4624035764699311914" type="hidden"> </div>
+<form id="sForm" action="/atgsearch/atgSearchResults.jsp?_DARGS=/atgsearch/gadgets/atgSearch.jsp.sform" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4104056598991416924" type="hidden"> </div>
 <input type="hidden" id="questionSaved" name="questionSaved" value="">
 <input type="hidden" id="catIdSaved" name="catIdSaved" value="">
 
@@ -2805,11 +3760,11 @@ even last
 <strprop name=&quot;ancestorCategories.$repositoryId&quot; op=&quot;equal&quot;>9700000</strprop>
 <or>
 <prop name=&quot;startDate&quot; op=&quot;equal&quot; type=&quot;date&quot;>0</prop>
-<prop name=&quot;startDate&quot; op=&quot;lesseq&quot; type=&quot;integer&quot;>1370390400</prop>
+<prop name=&quot;startDate&quot; op=&quot;lesseq&quot; type=&quot;integer&quot;>1386720000</prop>
 </or>
 <or>
 <prop name=&quot;endDate&quot; op=&quot;equal&quot; type=&quot;date&quot;>0</prop>
-<prop name=&quot;endDate&quot; op=&quot;greatereq&quot; type=&quot;integer&quot;>1370304000</prop>
+<prop name=&quot;endDate&quot; op=&quot;greatereq&quot; type=&quot;integer&quot;>1386633600</prop>
 </or>
 <prop name=&quot;region.regionName&quot; op=&quot;equal&quot; type=&quot;string&quot;>SE</prop>
 <prop name=&quot;productType&quot; op=&quot;equal&quot; type=&quot;enum&quot;>1</prop>
@@ -2971,11 +3926,13 @@ even last
 					</div>
 				</div>
 			</div>
-			<div id="atg_store_footer" class="footerBlock">
-				
+			<div id="atg_store_footer" class="footerBlock clearfix">
 				
 					
-				
+					
+						
+							
+						
 
 
 
@@ -3065,26 +4022,17 @@ even last
 
 
 
-<div class="footerNavigationContainer">
-<div class="atg_store_tertiaryNavigation">
+<div class="footerNavigationContainer clearfix">
+<div class="atg_store_tertiaryNavigation clearfix">
 <div class="info">
 <ul>
 <li class="tertiaryHeader">Online Shopping</li>
 <li>
-<a href="http://www.roomstogo.com" title="Rooms To Go Furniture">Rooms To Go Furniture</a>
-</li>
-<li>
 <a href="http://www.roomstogokids.com" title="Rooms To Go Kids Furniture">Rooms To Go Kids Furniture</a>
 </li>
 <li>
-<a href="http://m.roomstogo.com" rel="nofollow" class="fullMobileURL" title="View Our Mobile Site">View Our Mobile Site</a>
+<a href="/furniture/adults/Living-Rooms/9700017" title="Living Room Furniture">Living Room Furniture</a>
 </li>
- 
-
-<li>
-<a href="/furniture/adults/Cindy-Crawford-Furniture/9700256" title="Cindy Crawford Home">Cindy Crawford Home</a>
-</li>
-
 <li>
 
 
@@ -3095,25 +4043,15 @@ even last
 </li>
 
 <li>
-<a href="/furniture/adults/Living-Rooms/9700017" title="Living Room Furniture">Living Room Furniture</a>
-</li>
-<li>
 <a href="/furniture/adults/Dining-Rooms/9700020" title="Dining Room Furniture">Dining Room Furniture</a>
 </li>
 
+<li><a href="/isofa">iSofa</a></li>
+
 <li>
-
-
-<a href="/furniture/adults/Accessories/9700173" title="Accessories">Accessories</a>
-
-
-
+<a href="/furniture/adults/Cindy-Crawford-Furniture/9700256" title="Cindy Crawford Home">Cindy Crawford Home</a>
 </li>
-</ul>
-</div>
-<div class="info">
-<ul>
-<li class="tertiaryHeader">Online Shopping</li>
+
 <li>
 
 
@@ -3123,52 +4061,64 @@ even last
 
 </li>
 <li>
-<a href="/cart/cart.jsp" title="Cart">Cart</a>
+<a href="http://m.roomstogo.com" rel="nofollow" class="fullMobileURL" title="View Our Mobile Site">Mobile Site</a>
 </li>
-<li>
-<a href="/navigation/sitemap.jsp" title="Site Map">Site Map</a>
-</li>
-<li>
-<a href="/myaccount/accountHome.jsp" title="My Profile">My Profile</a>
-</li>
-<li>
-<a href="http://www.roomstogo.com/product/adults/GIFT-CARD/83333333/" title="Gift Cards">Gift Cards</a>
-</li>
+ 
 </ul>
+<ul>
+<li class="tertiaryHeader">My Account</li>
+<li><a title="Login to view your profile." class="modalLogins" href="#" rel=".moveToAccountHome" id="signIn"><span>Sign in</span></a></li>
+<li><a title="View my cart" href="/cart/cart.jsp">My Cart</a></li>
+<li><a title="View my profile" href="/myaccount/accountHome.jsp?selpage=MY+PROFILE">My Profile</a></li>
+<li><a title="View my order history" href="/myaccount/myOrders.jsp?selpage=MY+ORDERS">My Order History</a></li>
+<li><a title="View my wish list" href="/myaccount/myWishList.jsp?selpage=WISHLIST">My Wish List</a></li>
+</ul><!-- end drop -->
 </div>
 <div class="info">
 <ul>
-<li class="tertiaryHeader">Help</li>
-<li>
-<a href="/content/Customer-Service" title="Customer Service">Customer Service</a>
-</li>
-<li>
-<a href="/navigation/gadgets/siteFeedback.jsp" rel=".siteFeedbackModal" class="siteFeedbackLink" title="Site Feedback">Site Feedback</a>
-</li>
-<li>
-<a href="/content/Affiliates" title="Affiliates">Affiliates</a>
-</li>
-<li>
-<a href="/browse/deliveryShipping.jsp" title="Delivery">Delivery</a>
-</li>
-<li>
-<a href="/content/Customer-Service/Return-Policy" title="Return Policy">Return Policy</a>
-</li>
-<li>
-<a href="/content/Customer-Service/Employment" title="Employment">Employment</a>
-</li>
-<li>
-<a href="https://pcms.plansource.com/login" rel="nofollow" title="Current Employee Benefits">Employee Benefits</a>
-</li>
-<li>
-<a href="/browse/creditOptions.jsp" title="Apply for Credit">Apply for Credit</a>
-</li>
-<li>
-<a href="/browse/creditOptions.jsp" title="Pay Your Bill">Pay Your Bill</a>
-</li>
+<li class="tertiaryHeader">Rooms To Go Finance</li>
+<li><a href="/view/creditOptions.jsp" title="Apply for Credit">Apply for Credit</a></li>
+<li><a href="/view/creditOptions.jsp" title="Pay Your Bill">Pay Your Bill</a></li>
+</ul>
+<ul>
+<li class="tertiaryHeader">Customer Service</li>
+<li><a href="/view/deliveryShipping.jsp" title="Delivery">Delivery</a></li>
+<li><a href="/content/Customer-Service/Return-Policy" title="Return Policy">Return Policy</a></li>
+<li><a href="/content/Customer-Service/Common-Questions" title="Common Questions">Common Questions</a></li>
+<li><a href="/content/Customer-Service" title="Contact Customer Service">Contact Customer Service</a></li>
+<li><a href="/navigation/gadgets/siteFeedback.jsp" title="Site Feedback">Site Feedback</a></li>
+</ul>
+<ul>
+<li class="tertiaryHeader">Company Info</li>
+<li><a href="/content/Customer-Service/History" title="About Us">About Us</a></li>
+<li><a href="/content/Customer-Service/Contact-Us" title="Contact Us">Contact Us</a></li>
+<li><a href="/content/Customer-Service/Employment" title="Employment">Employment</a></li>
+<li><a href="https://pcms.plansource.com/login" title="Employee Benefits" rel="nofollow">Employee Benefits</a></li>
+<li><a href="/storelocator/" title="Find a Showroom">Find a Showroom</a></li>
+<li><a href="/navigation/sitemap.jsp" title="Site Map">Site Map</a></li>
 </ul>
 </div>
-<div class="emailSignup blockContainer">
+<div class="info">
+<h4 class="tertiaryHeader">Stay Connected</h4>
+<ul>
+<li><a class="footer_icon_fb" title="Facebook" href="https://www.facebook.com/roomstogo" rel="nofollow" target="_blank"></a></li>
+<li><a class="footer_icon_pinterest" title="Pinterest" href="http://pinterest.com/roomstogo/" rel="nofollow" target="_blank"></a></li>
+<li><a class="footer_icon_google_plus" title="Google+" href="https://plus.google.com/105890941576776658257" rel="publisher" target="_blank"></a></li>
+<li><a class="footer_icon_twitter" title="Twitter" href="https://twitter.com/RoomsToGo" rel="nofollow" target="_blank"></a></li>
+<li><a class="footer_icon_youtube" title="YouTube" href="http://www.youtube.com/channel/UCd77CqGAnGsyDD-lFFkyrNw" rel="nofollow" target="_blank"></a></li>
+</ul>
+<div class="inquiry">
+Internet Inquiries or Purchases:<br>
+<b>(888) 709-5380</b>
+</div>
+<div class="inquiry">
+Showroom Inquiries, Purchases<br>
+and Warranty Information<br>
+<b>(800) 766-6786</b>
+</div>
+</div>
+<div class="info last">
+<div class="emailSignup">
 <h3>Sign up for RTG email:</h3>
 <form class="blockContainer" method="post" action="">
 <div class="blockContainer">
@@ -3177,10 +4127,17 @@ even last
 <a id="emailSignUp" class="emailSubmit" href="#" rel=".emailSignupModal">SIGN UP</a>
 </form>
 </div>
+
+
+
+<p>Shop online with confidence at Rooms To Go, Americas's #1 independent furniture retailer. With nearly 150 furniture stores / showrooms, we have the buying power to offer quality home furniture at affordable prices. Discover the convenience of online shopping with inviting living rooms, casual and formal dining rooms, and relaxing bedrooms, delivered fast, right to your home.</p>
+
+
 </div>
-<div class="customerServiceBlock">
+</div>
+<div class="creds clearfix">
 <div class="paymentTypeBlock">&nbsp;</div>
-<div class="blockContainer reliabilityBadges">
+<div class="reliabilityBadges">
 
 
 <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=normal"></script>
@@ -3190,33 +4147,23 @@ even last
 <a title="Click for the Business Review of Rooms to Go, a Furniture - Retail in Seffner FL" rel="nofollow" href="http://www.bbb.org/west-florida/business-reviews/furniture-retailers/rooms-to-go-in-seffner-fl-11000837#sealclick"><img alt="Rooms to Go is a BBB Accredited Business. Click for the BBB Business Review of this Furniture - Retail in Seffner FL" style="border: 0;" target="_new" src="/static/img/site/footer/black-seal-96-50-roomstogo-11000837.png" width="96" height="50"></a>
 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.roomstogo.com" rel="nofollow"><img border="0" src="//images.scanalert.com/meter/www.roomstogo.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
 </div>
+</div>
 
 
-
-
-
-<div class="blockContainer">
-<span>Internet Inquiries or Purchases Call: 1-888-709-5380 Option 1</span>
-<br>
-<span>Showroom Inquiries, Purchases and Warranty Information Call: 1(800)766-6786</span>
-<br><br>
-<div id="atg_store_copyright">Copyright © 1999 - 2013 Rooms To Go, Inc.
-<br>
+<div id="atg_store_copyright">Copyright © 1999 - 2013 Rooms To Go, Inc.&nbsp;&nbsp;&nbsp;
 <a href="/content/Customer-Service/Privacy" title="Privacy">Privacy Policy</a> |
 <a href="/content/Customer-Service/Terms" title="Terms">Terms Of Use</a>
 </div>
 </div>
-
-
-</div>
-</div>
 <!--
-Build Version: 4982
+Build Version: 6754
 -->
 <!--
 Release: 1.7
 -->
 
+					
+					
 			</div>
 		</div>
 	</div>
@@ -3267,7 +4214,12 @@ Release: 1.7
 
 
 
-<form id="atg_store_changeLocationForm" name="atg_store_changeLocationForm" action="/browse/content.jsp?contentId=Privacy&amp;locationChange=SE&amp;_DARGS=/global/gadgets/changeLocationModal.jsp.atg_store_changeLocationForm" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4624035764699311914" type="hidden"> </div><fieldset>
+
+
+
+
+
+<form id="atg_store_changeLocationForm" name="atg_store_changeLocationForm" action="/browse/content.jsp?contentId=Privacy&amp;locationChange=SE&amp;_DARGS=/global/gadgets/changeLocationModal.jsp.atg_store_changeLocationForm" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4104056598991416924" type="hidden"> </div><fieldset>
 <p class="title">
 
 
@@ -3336,6 +4288,7 @@ $0.00
 <a class="miniCartViewCartLink" href="/cart/cart.jsp">View Full Cart</a>
 </div>
 </div>
+<div id="mini_cart_items_container">
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 <td class="emptyCartContainer">
@@ -3346,6 +4299,7 @@ $0.00
 </td>
 </tr>
 </tbody></table>
+</div>
 </div>
 <div class="miniCartFooter blockContainer">&nbsp;</div>
 </div>
@@ -3368,6 +4322,7 @@ $0.00
 <div id="wishListModal" class="miniCartContainer blockContainer">
 <div class="miniCartHeader blockContainer">&nbsp;</div>
 <div class="miniCartText blockContainer">
+<div id="mini_wish_list_items_container">
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 <td class="emptyCartContainer">
@@ -3377,11 +4332,12 @@ $0.00
 <span>Your wishlist is empty.</span>
 </div>
 
-<a href="/myaccount/login.jsp"><div style="margin:12px 0 0 0"><img src="/static/img/buttons/signIn-add-to-wishlist.png"></div></a></td>
+<a href="/myaccount/login.jsp"><div style="margin:12px 0 0 0"><img src="/static/img/buttons/signIn-add-to-wishlist.png"></div></a>
 
-
+</td>
 </tr>
 </tbody></table>
+</div>
 
 </div>
 <div class="miniCartFooter blockContainer">&nbsp;</div>
@@ -3408,7 +4364,7 @@ $0.00
 <div class="modalEmailSubmitContent">
 <div class="modalEmailSubmitFormColumn">
 <p class="header"><img src="/static/img/site/modal-email-a-friend/modal-logo.png" alt=""></p>
-<form id="atg_store_emailSignupRequestForm" name="atg_store_emailSignupRequestForm" action="/navigation/gadgets/emailSignupModal.jsp?_DARGS=/navigation/gadgets/emailSignupModal.jsp.atg_store_emailSignupRequestForm" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4624035764699311914" type="hidden"> </div><input name="/atg/store/profile/email/EmailCampaignFormHandler.createSuccessURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/atg/store/profile/email/EmailCampaignFormHandler.createSuccessURL" value=" " type="hidden"><input name="/atg/store/profile/email/EmailCampaignFormHandler.createErrorURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/atg/store/profile/email/EmailCampaignFormHandler.createErrorURL" value=" " type="hidden"><input name="/atg/store/profile/email/EmailCampaignFormHandler.sourceCode" value="rtgAdults" type="hidden"><input name="_D:/atg/store/profile/email/EmailCampaignFormHandler.sourceCode" value=" " type="hidden"><fieldset>
+<form id="atg_store_emailSignupRequestForm" name="atg_store_emailSignupRequestForm" action="/navigation/gadgets/emailSignupModal.jsp?_DARGS=/navigation/gadgets/emailSignupModal.jsp.atg_store_emailSignupRequestForm" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4104056598991416924" type="hidden"> </div><input name="/atg/store/profile/email/EmailCampaignFormHandler.createSuccessURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/atg/store/profile/email/EmailCampaignFormHandler.createSuccessURL" value=" " type="hidden"><input name="/atg/store/profile/email/EmailCampaignFormHandler.createErrorURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/atg/store/profile/email/EmailCampaignFormHandler.createErrorURL" value=" " type="hidden"><input name="/atg/store/profile/email/EmailCampaignFormHandler.sourceCode" value="rtgAdults" type="hidden"><input name="_D:/atg/store/profile/email/EmailCampaignFormHandler.sourceCode" value=" " type="hidden"><fieldset>
 <p class="title">Sign up for Rooms To Go Email!</p>
 <p class="text">Be the first to know about special offers sales and contests!</p>
 <div class="atg_store_basicForm">
@@ -3458,7 +4414,12 @@ $0.00
 
 
 
+
+
+
 <option value="" selected="selected">* State</option>
+
+
 
 
 
@@ -3861,7 +4822,7 @@ Required Fields
 <div class="modalSiteFeedbackContent">
 <p class="header"><img src="/static/img/site/modal-login/modal-logo.png" alt=""></p>
 <h2 class="title">Give us your feedback!</h2>
-<form id="atg_store_siteFeedbackForm" name="atg_store_siteFeedbackForm" action="/navigation/gadgets/?_DARGS=/navigation/gadgets/siteFeedback.jsp.atg_store_siteFeedbackForm#" class="blockContainer" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4624035764699311914" type="hidden"> </div><input name="/com/rtg/formhandler/SiteFeedbackFormHandler.successURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.successURL" value=" " type="hidden"><input name="/com/rtg/formhandler/SiteFeedbackFormHandler.errorURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.errorURL" value=" " type="hidden"><input name="/com/rtg/formhandler/SiteFeedbackFormHandler.subject" value="Site Feedback" type="hidden"><input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.subject" value=" " type="hidden"><input name="/com/rtg/formhandler/SiteFeedbackFormHandler.value.senderEmail" value="onlinesupport@roomstogo.com" type="hidden"><input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.value.senderEmail" value=" " type="hidden"><span class="linetext">Please enter your comments about our new site. Customer Service issues cannot be addressed here. If you require assistance, please contact <a href="/content/Customer-Service/Customer-Support">online support</a>.</span>
+<form id="atg_store_siteFeedbackForm" name="atg_store_siteFeedbackForm" action="/navigation/gadgets/?_DARGS=/navigation/gadgets/siteFeedback.jsp.atg_store_siteFeedbackForm#" class="blockContainer" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4104056598991416924" type="hidden"> </div><input name="/com/rtg/formhandler/SiteFeedbackFormHandler.successURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.successURL" value=" " type="hidden"><input name="/com/rtg/formhandler/SiteFeedbackFormHandler.errorURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.errorURL" value=" " type="hidden"><input name="/com/rtg/formhandler/SiteFeedbackFormHandler.subject" value="Site Feedback" type="hidden"><input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.subject" value=" " type="hidden"><input name="/com/rtg/formhandler/SiteFeedbackFormHandler.value.senderEmail" value="onlinesupport@roomstogo.com" type="hidden"><input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.value.senderEmail" value=" " type="hidden"><span class="linetext">Please enter your comments about our new site. Customer Service issues cannot be addressed here. If you require assistance, please contact <a href="/content/Customer-Service/Customer-Support">online support</a>.</span>
 <div class="addressFormRow addressTextAreaRow blockContainer">
 <div class="addressFormTextArea">
 <input name="_D:/com/rtg/formhandler/SiteFeedbackFormHandler.value.message" value=" " type="hidden"><textarea cols="40" name="/com/rtg/formhandler/SiteFeedbackFormHandler.value.message" rows="8"></textarea>
@@ -3894,7 +4855,7 @@ Required Fields
 <p class="header"><img src="/static/img/site/modal-login/modal-logo.png" alt=""></p>
 <div class="errorBlock">&nbsp;</div>
 <div class="blockContainer clearAll">
-<form id="atg_store_liveHelpForm" name="atg_store_liveHelpForm" action="/livehelp/?_DARGS=/livehelp/liveHelp.jsp.atg_store_liveHelpForm#" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4624035764699311914" type="hidden"> </div><input name="/com/rtg/formhandler/LiveHelpFormHandler.successURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/com/rtg/formhandler/LiveHelpFormHandler.successURL" value=" " type="hidden"><input name="/com/rtg/formhandler/LiveHelpFormHandler.errorURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/com/rtg/formhandler/LiveHelpFormHandler.errorURL" value=" " type="hidden"><input name="/com/rtg/formhandler/LiveHelpFormHandler.value.optionaldata4" value="SE|20146" type="hidden"><input name="_D:/com/rtg/formhandler/LiveHelpFormHandler.value.optionaldata4" value=" " type="hidden"><div class="action" id="livehelp-left">
+<form id="atg_store_liveHelpForm" name="atg_store_liveHelpForm" action="/livehelp/?_DARGS=/livehelp/liveHelp.jsp.atg_store_liveHelpForm#" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4104056598991416924" type="hidden"> </div><input name="/com/rtg/formhandler/LiveHelpFormHandler.successURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/com/rtg/formhandler/LiveHelpFormHandler.successURL" value=" " type="hidden"><input name="/com/rtg/formhandler/LiveHelpFormHandler.errorURL" value="/browse/content.jsp?contentId=Privacy" type="hidden"><input name="_D:/com/rtg/formhandler/LiveHelpFormHandler.errorURL" value=" " type="hidden"><input name="/com/rtg/formhandler/LiveHelpFormHandler.value.optionaldata4" value="SE|20146" type="hidden"><input name="_D:/com/rtg/formhandler/LiveHelpFormHandler.value.optionaldata4" value=" " type="hidden"><div class="action" id="livehelp-left">
 <ul>
 <li class="liveHelpRow">
 <label><span style="color:red;">*</span>First name</label>
@@ -3930,7 +4891,12 @@ Required Fields
 
 
 
+
+
+
 <option value="" selected="selected">* State</option>
+
+
 
 
 
@@ -4325,6 +5291,7 @@ Required Fields
 
 
 
+
 <form action="#"><input id="isConfigured" value="false" type="hidden"></form>
 <form action="#"><input id="geocodeStatus" value="true" type="hidden"></form>
 <form action="#"><input id="loginStatus" value="false" type="hidden"></form>
@@ -4371,15 +5338,31 @@ Required Fields
 
 
 
-<script type="text/javascript" src="/static/js/scripts.js?v=4982"></script>
-<script type="text/javascript" src="/static/js/chosen.jquery.js?v=4982"></script>
-<script type="text/javascript" src="/static/js/jquery.placeholder.min.js?v=4982"></script>
-<script type="text/javascript" src="/static/js/utility.js?v=4982"></script>
-<script type="text/javascript" src="/static/js/omniture-functions.js?v=4982"></script>
-<script type="text/javascript" src="/static/js/credit_options.js?v=4982"></script>
+<script type="text/javascript" src="/static/js/scripts.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/chosen.jquery.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/jquery.placeholder.min.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/utility.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/omniture-functions.js?v=6754"></script>
+<script type="text/javascript" src="/static/js/credit_options.js?v=6754"></script>
 
 
 <!-- omnituure tagging for searchResults page -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4408,13 +5391,18 @@ Required Fields
 
 
 
+
+
+
 //<![CDATA[
 <!-- Start Omniture -->
 if (typeof nafData == 'undefined') {
 nafData = {};
 }
-nafData.pagename = "adults:homepage";
-nafData.site_section = "home";
+
+
+nafData.pagename = "adults:Privacy";
+nafData.site_section = "content";
 //]]>
 
 
@@ -4433,8 +5421,9 @@ nafData.site_section = "home";
 
 
 
+
 //<![CDATA[
-nafData.server = "172.30.17.121";
+nafData.server = "www.roomstogo.com";
 nafData.url = "/browse/content.jsp";
 nafData.site = "adults";
 nafData.region = "SE";
@@ -4444,7 +5433,7 @@ nafData.region = "SE";
 
 
 nafData.zip = "20146";
-nafData.market_type = "OM";
+nafData.market_type = "SE";
 //]]>
 <!-- End Omniture -->
 </script>
@@ -4514,18 +5503,57 @@ br_data['Q165'] = '';
 br_data['Q166'] = '';	
 </script>
 
+
 <!-- Pinterest -->
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 
+
 <!--
 ---------DO NOT REMOVE THIS []--------
-Server Name: SRV-DCATGAPP05.ecommerce.roomstogo.rtg:10150
-Profile: Profile[106347000]
-Order: Order[type:default; id:o110355413; state:INCOMPLETE; transient:true; profileId:106347000; ]
+Server Name: SRV-DCATGAPP16.ecommerce.roomstogo.rtg:10150
+Profile: Profile[187846027]
+Order: Order[type:default; id:o199623388; state:INCOMPLETE; transient:true; profileId:187846027; ]
 mode: 
 Server is alive... />
 -->
 
+<!-- Google Remarketing Pixel -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display:none">
+
+
+<script type="text/javascript" src="/static/js/googleAdultRemarketing.js?v=6754"></script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070536922/?value=0&amp;label=IwOCCMCfjQIQ2rG8_gM&amp;guid=ON&amp;script=0" />
+</div>
+</noscript>
+
+
+
+</div>
+
+
+
+<div class="yahooPixel allRTGpages" style="display:none;">
+<img src="http://ads.bluelithium.com/pixel?id=2443361&amp;t=2" width="1" height="1">
+</div><!--yahooPixel-->
 
 
 
@@ -4553,25 +5581,6 @@ Server is alive... />
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-		
-    	
-    	
-	
 
 
 
