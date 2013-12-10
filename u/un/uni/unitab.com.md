@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitab.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529213703id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitab.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210044930id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -87,7 +87,7 @@ Our contact details are as follows:
 
 Tatts Group Limited  
 ---  
-Street Address | 615 St.Kilda Rd, Melbourne VIC 3004  
-Postal Address | Locked Bag 888 St.Kilda Rd Central, VIC 8008  
-Phone Number | +61 3 8517 7777  
+Street Address | 87 Ipswich Rd Rd, Woolloongabba QLD 4102  
+Postal Address | Locked Bag 7 Coorparoo DC, QLD 4151  
+Phone Number | +61 7 3877 1000  
 Email Address | [privacyofficer@tattsgroup.com](mailto:privacyofficer@tattsgroup.com?subject=Enquiry%20from%20Tatts%20Group%20Limited%20website)
