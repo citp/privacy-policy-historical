@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommyoftwolittlemonkeys.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222844id_/http%3A//www.mommyoftwolittlemonkeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyoftwolittlemonkeys.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210053440id_/http%3A//www.mommyoftwolittlemonkeys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mommy of Two Little Monkeys
+# Privacy Policy -
 
 This Privacy Policy governs the manner in which Mommy of Two Little Monkeys collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.mommyoftwolittlemonkeys.com](http://www.mommyoftwolittlemonkeys.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mommy of Two Little Monkeys.
 
@@ -45,6 +45,8 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
 **Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
@@ -66,5 +68,12 @@ Mommy of Two Little Monkeys has the discretion to update this privacy policy at 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Mommy of Two Little Monkeys](http://www.mommyoftwolittlemonkeys.com/)  
+[http://www.mommyoftwolittlemonkeys.com](http://www.mommyoftwolittlemonkeys.com/)  
+Mommy of Two Little Monkeys
+
+amanda@mommyoftwolittlemonkeys.com
 
 This document was last updated on August 03, 2012
