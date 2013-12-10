@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrchewy.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173418id_/http%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrchewy.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210214837id_/http%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chewy.com
 
@@ -28,7 +28,7 @@ As with most web sites, our servers automatically recognize the Internet URL fro
 
 **External Use:** We will never sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone except that: 
 
-  * In order to deliver products to you, we have to share some information. We partner with third parties such as the FedEx and other premium shipping companies to ship products, to ensure delivery, and also to get feedback, improve the quality of our services, and measure and improve the quality of the service of the third party.
+  * In order to deliver products to you, we have to share some information. We partner with third parties such as UPS, FedEx, and other shipping companies to ship products, to ensure delivery, and also to get feedback, improve the quality of our services, and measure and improve the quality of the service of the third party. 
 
   * In order to help you buy product and provide customer service, we must provide your credit card information to financial services corporation such as credit card processors and issuers. All communications with these companies are done through state-of-the-art data encryption to protect your information.
 
