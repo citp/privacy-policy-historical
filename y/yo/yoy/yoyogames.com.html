@@ -1,0 +1,267 @@
+<!--The following is the downloaded HTML source of the yoyogames.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210021509id_/http%3A//yoyogames.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+    <meta charset="UTF-8">
+    <meta name="description" content="YoYo Games is the home of GameMaker: Studio, the fastest and easiest to use cross-platform game development technology, allowing developers to create games in a single code base and then publish them to run natively across an unprecedented number of mobile, desktop and web platforms.">
+    <title>Privacy Policy | YoYo Games</title>
+
+    <link href="/assets/application-6ac02350d9156b00a2f141c6aedea677.css" media="screen" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/assets/print.css" media="print">
+    <link href="/assets/font-awesome-3.2.0/css/font-awesome-f8000718b71559e9cb95a5824971a272.css" media="all" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,300,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+    <script src="/assets/application-0571121a4fef76b9caffc785833a76fb.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2711665-1']);
+      _gaq.push(['_setDomainName', 'yoyogames.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+       })();
+
+  </script>
+
+    <script type="text/javascript">
+      /*
+      var cart = new YoyoCart([], 0);
+
+      $(document).ready(function(){
+        ko.applyBindings(cart, document.getElementById("header"));
+        
+        $('a.addToCart').click(function(){
+          add_to_cart($(this).attr('data-product'), 1);
+          return false;
+        });
+        $(document).on("click","a.removeItem",function(){
+          remove_from_cart($(this).attr('data-item'), 1);
+          return false;
+        });
+        });
+        */
+    </script>
+
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="PbCYBlpzj4DUUreG1zmV8HOv8hlLOHSuJe++xZTgNfM=" name="csrf-token">
+  </head>
+  <body style=""> 
+    <div id="body">
+      <div id="header">
+  <!-- header menu -->
+  <div class="navbar navbar-static-top">
+    <div class="logo_container">
+      <a href="/" class="logo"><img src="/assets/core/yoyogames.png"></a>
+    </div>
+    <div class="navbar-inner">
+      <div class="container text-center" style="padding:0;">
+        <!-- menu -->
+        <ul class="nav pull-left">
+          <li><a href="/" class="home">Home</a></li>
+          <li><a href="/studio">GameMaker</a></li>
+          <li><a href="/showcase">Showcase</a></li>
+          <li><a href="/developers">Developers</a></li>
+          <li><a href="/education">Education</a></li>
+          <li><a href="/support">Support</a></li>
+          <li><a href="/company">Company</a></li>
+        </ul>
+
+        <ul class="nav pull-right">
+          <li>
+          <form accept-charset="UTF-8" action="/search/results" class="yy-search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+            <input class="span2" id="query" name="query" placeholder="Search…" type="text">
+            <button><i class="icon-search"></i></button>
+</form>          </li>
+          <!-- checkout stuff -->
+          <li><a href="/studio/download">Download</a></li>
+          <li><a href="/studio/buy" class="focused">Buy</a></li>
+          <li><a href="/checkout" id="showCart"><i class="icon-shopping-cart icon-white"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="mini-cart" class="modal hide fade">
+    <div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+  <h3 style="border:none; margin:0;">View cart</h3>
+</div>
+<div class="modal-body">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th colspan="3">Product</th>
+        <th class="text-right" style="width:80px;"><small>Subtotal</small></th>
+      </tr>
+    </thead>
+    <!-- ko if: cart.empty() -->
+    <tbody>
+      <tr>
+        <td colspan="4" class="text-center"><em>You don't have any items in your cart</em></td>
+      </tr>
+    </tbody>
+    <!-- /ko -->
+    <!-- ko ifnot: cart.empty() -->
+    <tbody data-bind="template: { name: 'cart_item', foreach: items }">
+    </tbody>
+    <!-- /ko -->
+    <tfoot>
+      <tr>
+        <td colspan="3" class="highlight text-right">Subtotal <small>(ex. VAT)</small></td>
+        <td class="text-right" style="padding-right:8px;" data-bind="text:pretty_price(subtotal(),'$')"></td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+<div class="modal-footer">
+  <a href="/checkout" class="btn btn-success highlight">Checkout</a>
+</div>
+
+<script id="cart_item" type="text/html">
+  <tr>
+    <td style="width:20px;"><a class="removeItem" data-bind="if: remove, attr: { 'data-item': id, ref: '/checkout/remove/'+id }"><i class="icon-remove"></i></a></td>
+    <td style="width:30px;"><span data-bind="text:quantity"></span></td>
+    <td><span data-bind="html:name"></span></td>
+    <td class="text-right" data-bind="html:pretty_price((price*quantity),'$')"></td>
+  </tr>
+</script>
+
+  </div>
+</div>
+
+<script type="text/javascript">
+  /*/
+  $('a#showCart').click(function(){
+    $.ajax({
+      url: '/checkout/cart',
+      method: 'get',
+      dataType: 'json',
+      data: { cart_id:  },
+      success: function(data, textStatus, jqXhr){
+        cart.items(data["items"]);
+        cart.subtotal(data["subtotal"]);
+        $('#mini-cart').modal('show');
+      },
+      error: function(jqXhr, textStatus, errorThrown){
+        alert("Something went wrong");
+      }
+    });
+    return false;
+    });
+    //*/
+</script>
+
+
+        <!-- Slides nil -->
+  <div class="blocker">&nbsp;</div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.carousel-caption').hide();
+    $(".item.active .carousel-caption").fadeIn();
+    $('#slideshow').on("slid", function(){
+      try{ $(".item.active .carousel-caption").fadeIn(); }
+      catch(e){ $(".carousel-caption").show(); }
+    });
+    $('#slideshow').on("slide", function(){
+      try{ $(".item.active .carousel-caption").fadeOut(); }
+      catch(e){}
+    });
+    $('#slideshow').carousel({ interval: 8000 });
+  });
+</script>
+
+
+      <!-- actual body content -->
+      <div class="container">
+
+
+            <h1>Privacy Policy</h1>
+  <p>This privacy policy covers the information provided to and gathered by YoYoGames.com.</p>
+
+<h3>Data Controller</h3>
+
+<p>All information provided to or gathered by YoYoGames.com is controlled by YoYo Games Ltd.</p>
+
+<h3>Personal information we gather</h3>
+
+<p>We gather the following types of information:</p>
+<ul>
+<li>Information provided by you - Some sections of YoYoGames.com allow you to enter personal information, including but not limited to your name and email address. You can choose not to provide this information when requested, but as a result may be unable to use some functions of the site.</li>
+<li>Information gathered automatically - Certain types of information can be gathered automatically when you visit, including your IP address and details of the browser you use.</li>
+</ul>
+
+<h3>Using your personal information</h3>
+<p>We user your personal information to allow you to log into the My Account section of this site and retrieve your GameMaker license keys. Your name and address, gathered during the checkout process, are securely stored and encrypted for legal auditing purposes only as per the Data Protection Act and Freedom of Information Act.</p>
+
+<h3>Disclosure</h3>
+<p>Your information may be available to employees of YoYo Games Ltd. in order to provide helpdesk support and other feedback. We will not disclose your personal information to any third parties, except:</p>
+<ul>
+<li>when required by law to do so;</li>
+<li>in connection with any legal proceedings;</li>
+<li>in order to establish, exercise or defend our legal rights</li>
+</ul>
+
+<h3>Security of your personal information</h3>
+<p>No sensitive personal information is handled directly by this website. All credit card and other financial transactions are processed entirely by a secure third party (in this case, Ogone), and your financial details are not made available to YoYo Games.</p>
+
+<h3>Your rights</h3>
+<p>You can choose not to provide the voluntary information requested by this site, and your browser has options to prevent the use of cookies.</p>
+
+<h3>Third-party websites</h3>
+<p>YoYoGames.com may provide links to third-party websites, but we do not provide any identifiable or sensitive information to these sites.</p>
+
+
+
+
+      </div>
+    </div>
+    <div id="footer"> 
+  <div class="container">
+    <div class="row">
+      <div class="span6">
+        <p style="margin:8px 0 0;"><small>Copyright © 2013 YoYo Games Ltd.</small></p>
+        <p class="hidden-print"><small>
+          <a href="/news">News</a>
+          |
+          <a href="/about">About</a>
+          |
+          <a href="/contact">Contact Us</a>
+          |
+          <a href="/terms">Terms &amp; Conditions</a>
+          |
+          <a href="/privacy">Privacy policy</a>
+        </small></p>
+      </div>
+      
+      <div class="span6">
+        <ul class="social inline pull-right">
+          <li><a href="/feed" target="_blank"><i class="icon-rss"></i></a></li>
+          <li><a href="http://www.twitter.com/yoyogames" target="_blank"><i class="icon-twitter"></i></a></li>
+          <li><a href="http://www.facebook.com/yoyogames" target="_blank"><i class="icon-facebook-sign"></i></a></li>
+          <li><a href="http://www.youtube.com/subscription_center?add_user=yoyogamesltd" target="_blank"><i class="icon-youtube"></i></a></li>
+          <li><a href="https://plus.google.com/113780777358346148163/?prsrc=3" target="_blank"><i class="icon-google-plus-sign"></i></a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+  <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-2.newrelic.com","fc7ed1be86","2462466","cg5XTRRdCVhcR0sRFlAVUFo5QgRTXEZLEQpeFg==",0,13,new Date().getTime(),"","","","",""]);</script>
+
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
