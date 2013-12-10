@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udmserve.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502083450id_/http%3A//udmserve.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udmserve.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210021628id_/http%3A//udmserve.com/policy.html) for the most accurate reproduction.*
 
 # :: Welcome to Underdog Media Performance Unleashed ::
 
