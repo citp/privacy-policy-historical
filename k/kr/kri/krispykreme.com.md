@@ -1,8 +1,54 @@
-> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611015516id_/http%3A//www.krispykreme.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krispykreme.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210234900id_/http%3A//www.krispykreme.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Krispy Kreme Doughnuts and Coffee
 
-### Krispy Kreme Privacy Policy
+**Krispy Kreme Hot Light App Privacy Statement**
+
+Krispy Kreme Doughnut Corporation (“Krispy Kreme”) is committed to your privacy.  This Privacy Statement describes the types of information we collect from and about you when you use our mobile application (the “App”), how we may use and disclose this information, as well as your ability to control certain uses of it.
+
+**Summary**
+
+  * **Information Collection.**   We may collect personal information including your location information and mobile device identifier when you use the App, as well as non-personal information about your use of the App.
+  * **Information Use.**   We may use the information we collect from and about you for purposes including to provide you with services and advertising on the App.
+  * **Information Sharing.**   We may share the information we collect from and about you with our service providers, when necessary to protect our rights or comply with judicial process, and in aggregate or non-personally identifiable form.
+
+
+
+**Information We Collect**
+
+Krispy Kreme collects personal information on App when you choose to share it with us, including your location information.  This may include your mobile device identifier and geolocation information when you authorize the App to access your location or you provide us with your city, state, or zip code information.
+
+We may also collect non-personal information about users of our App and interactions with App pages and advertisements.  For example, we may automatically collect non-personal information including your device and operating system type, IP address, and information about your App usage such as the date and time you use the App, the areas or pages of the App that you visit, the amount of time you spend viewing or using the App, the number of times you return to the App, the advertisements that you open, other App usage data, and links that you click-through to our websites.  We may combine the personal information we collect from and about you with non-personal information.
+
+**How We Use Information**
+
+We may use the information we collect from and about you to: (a) provide you with the services you request through the App including notifying you when the Hot Light is on at a Krispy Kreme location or when you are close to  Krispy Kreme location; (b) develop new products or services; (c) provide you with customized App content, targeted offers, and advertising on the App; (d) review the usage and operations of our App and improve our content, products, and services; (e) address problems with our App or business; and (f) as described to you at the point of collection.
+
+**How We Share Information**
+
+We may share the information we collect from and about you as follows: (1) to our service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of our rights or the rights of any third party; (3) to respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) as described to you at the point of collection.  We may share aggregate or anonymous non-personal information with third parties.
+
+Also, we may sell or purchase assets during the normal course of our business.  If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity.  In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties.  Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this App in a manner that is consistent with this Privacy Statement.
+
+**Links to Other Apps or Sites**
+
+The App may have links to our or third-party websites or applications, which may have privacy statements that differ from this App.  Please review the privacy statements on those websites or applications.
+
+**Children’s Privacy**
+
+Protecting children’s privacy is important to us. We do not direct the App to, nor do we knowingly collect any personal information from, children under the age of thirteen.
+
+**Security of Your Personal Information**
+
+Krispy Kreme has implemented reasonable administrative, technical, and physical safeguards to protect any personal information that we collect from and about App users from misuse, loss, and unauthorized access. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+
+**Contact Us**
+
+If you have questions or need further information, please send us an e-mail to the following address: [customer@krispykreme.com](mailto:customer@krispykreme.com). You may also contact us by mail at the following address: Krispy Kreme Doughnut Corporation, Attn: Customer Experience, P.O. Box 83, Winston-Salem, NC 27102.
+
+Updated June 30, 2013
+
+**Krispy Kreme Website Privacy Policy**
 
 Krispy Kreme Doughnut Corporation (“Krispy Kreme”) is committed to both protecting the privacy of users of this website located at www.krispykreme.com (the “Site”), and to providing those users with as many opportunities and services as possible. This Privacy Policy covers Krispy Kreme’s treatment of personally identifiable and non-personally identifiable information that Krispy Kreme collects when users and visitors to this Site (“you”) use the Site’s features. Except as otherwise required by law, this policy does not apply to the practices of companies that Krispy Kreme does not own or control, or to people that Krispy Kreme does not employ or manage.
 
