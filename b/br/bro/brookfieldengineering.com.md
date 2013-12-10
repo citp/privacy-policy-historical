@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brookfieldengineering.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504080731id_/http%3A//www.brookfieldengineering.com/constants/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookfieldengineering.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210102747id_/http%3A//www.brookfieldengineering.com/constants/privacy-policy.asp) for the most accurate reproduction.*
 
-# Brookfield Viscometers, Rheometers and Texture Analyzers for viscosity measurement and control and texture analysis.
+# 
 
 ## Brookfield Engineering Laboratories, Inc. Online Privacy Statement
 
