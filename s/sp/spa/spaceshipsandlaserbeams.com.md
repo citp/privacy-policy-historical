@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spaceshipsandlaserbeams.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624074627id_/http%3A//spaceshipsandlaserbeams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceshipsandlaserbeams.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210141428id_/http%3A//spaceshipsandlaserbeams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spaceships and Laser Beams
 
@@ -6,11 +6,9 @@ We want you to always think that Spaceships and Laser Beams is pretty cool. As a
 
 ## Third Party Advertising
 
-Spaceships and Laser Beams uses third-party advertising companies, such as Google Adsense, to serve ads to you when you visit our website.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-These companies may use aggregated information (but not including your name, address, email address or telephone number) about your visits to this and other websites. The reason they do this is to  provide advertisements about goods and services that may be of interest to you. 
-
-If you would like more information about this practice and and the choices you have regarding it, please visit [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp)
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 ## Emailing Spaceships and Laser Beams
 
