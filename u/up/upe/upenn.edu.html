@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the upenn.edu privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601112652id_/http%3A//www.upenn.edu/about/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upenn.edu privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210141605id_/http%3A//www.upenn.edu/about/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -12,7 +12,7 @@
 	<link rel="shortcut icon" href="/favicon.ico">
 
 		<link rel="stylesheet" href="/assets/stylesheets/vendor/reset-2.0.min.css">
-	<link rel="stylesheet" href="/assets/stylesheets/screen.css?8">
+	<link rel="stylesheet" href="/assets/stylesheets/screen.css?10">
 
 	<!-- load additional css -->
 
@@ -118,8 +118,8 @@ var WRInitTime=(new Date()).getTime();
 			<div class="photobox">
                         <div class="photo">
 		    <img width="1000" height="215" src="/assets/images/content/banners/about-intro1.jpg" alt="Penn Locust Walk">		        </div>
-				<a href="" class="info master-sprite">Click for caption</a><div class="caption hide">
-		   The heart of Penn's campus is Locust Walk, a pedestrian parkway which stretches six city blocks, from 34th Street on the east to 40th Street on the west.                                <a href="" class="close master-sprite"></a></div>
+				<div class="caption hide">
+		   The heart of Penn's campus is Locust Walk, a pedestrian parkway which stretches six city blocks, from 34th Street on the east to 40th Street on the west.                                </div>
 			</div>
 		   <h1 class="heading level-one">Privacy Policy</h1>
 		</div>
@@ -222,7 +222,7 @@ var WRInitTime=(new Date()).getTime();
 	</div>
 	<div class="footer" id="site-footer">
 	<div class="wrapper">
-		<a href="http://www.makinghistory.upenn.edu/" id="campaign-for-penn-banner">Making History: The Campaign for Penn</a>
+		<a href="http://www.makinghistory.upenn.edu/" id="campaign-for-penn-banner">Penn</a>
 		<div class="navigation clear" role="navigation">
 			<div class="col">
 				<h6>Admissions</h6>
@@ -323,7 +323,27 @@ var WRInitTime=(new Date()).getTime();
 <script src="/assets/javascripts/plugins/jquery.photobox.js"></script>
 <script src="/assets/javascripts/plugins/jquery.placehold.js"></script>
 <script src="/assets/javascripts/plugins/jquery.selectreplace.js"></script>
-
+<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script language="javascript">
+var images = new Array('campaign-for-penn-banner', 'compact-2020-banner'); 
+var url = new Array('http://www.makinghistory.upenn.edu/', '/president/penn-compact/penn-compact-landing');
+var l = images.length;
+var random_no = Math.floor(l*Math.random());
+console.log(images[random_no]);
+console.log(url[random_no]);
+$("a#campaign-for-penn").attr("id",images[random_no]).attr("href",url[random_no]);
+</script>
+<script type="text/javascript"> 
+  $( document ).ready(function() {
+    if (swfobject.hasFlashPlayerVersion("8")) {
+      $('#flash').show();
+    }
+    else
+    {
+      $('#noflash').show();
+    }
+  }); 
+ </script>
       
 <script src="/assets/javascripts/application.js?22"></script>
    <script src="/assets/javascripts/ga_categories.js"></script>
