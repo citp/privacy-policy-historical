@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610084009id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025413id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-flashkit com soundfx,  
-infografia multimedia internet,  
-ambience sound effects,  
-alert sounds,  
-parasaurolophus sounds,  
-free telephone ring sound effect,  
-star trek sound wav,  
-fire alarm sound,  
-piercing thunder and winds sound effect,  
-search pacman sounds,  
-castanet sound effects,  
-free sounds clips,  
-human body sound effects,  
-supercar engine sounds,  
-rolling rock sound effect,  
-angelic sound effect free,  
-free wav sound,  
-sounds wav files,  
-free sample sounds downloads,  
-wav video clips 
+game sound effects,  
+noises,  
+downloadable sound effects for final cut,  
+free news sound effect,  
+laser sound,  
+jet wash sound effects free,  
+birds sounds effects,  
+free wildlife sound effects,  
+free downloadable kung foo noises,  
+sound effects free downloads,  
+free sound fx online,  
+sound affects for bar,  
+sound clips from baseball movies,  
+free chicken wav sound effects,  
+traffic sounds,  
+dog wav sounds,  
+steam roller sound effects,  
+202 digital sound effects,  
+sound bites for windows media,  
+foley sounds sound effects 
 
 | 
 
@@ -36,7 +36,7 @@ We know that you care how your information is used, and we appreciate your trust
 
   * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product, or when you supply information such as your address, phone number or credit card.  You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We collect and save the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.    
  
-  * **Cookies.** Like many websites, we use "cookies".  Your browser will automatically store one cookie that allows us to recognize you and to provide you with a customized shopping experience.  And most importantly, the cookie is what maintains your "logged in" state once you register and login to the site.  If you delete our cookie from your browser, you will no longer be logged into our web site.
+  * **Cookies.** Like many websites, we use "cookies".  Your browser will automatically store one cookie that allows us to recognize you and to provide you with a customized shopping experience.  And most importantly, the cookie is what maintains your "logged in" state once you register and sign in to the site.  If you delete our cookie from your browser, you will no longer be logged into our web site.
 
 **Other Information:** Every computer has an IP (Internet Protocol) address.  IP addresses of computers used to visit this site are noted.  In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site. 
 
@@ -45,7 +45,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 ** 2.  How Do We Use Your Information?**
 
-  * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience. We operate multiple different web sites which all share a common database, hence information you enter on one web site will be available for your immediate use on the other web sites as applicable.  This includes client login account information, credit card information, shipping information and various other relevant information.    
+  * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience. We operate multiple different web sites which all share a common database, hence information you enter on one web site will be available for your immediate use on the other web sites as applicable.  This includes client sign-in account information, credit card information, shipping information and various other relevant information.    
  
   * **Composers and Publishers.   **When you purchase a music track here for commercial use, for each track you purchase you must submit a track usage report indicating how each track will be used.  The information you submit with each track report will be shared with the composer(s) and publisher(s) of each track to inform them about how their music is being used and who is using it.  The person or organization that is administering publishing for music tracks may contact you directly to request information about your use of the music in order to be able to file a cue sheet.  Don't be alarmed, filing cue sheets for broadcast or other public uses of music tracks is a normal part of this business.   
  
@@ -107,23 +107,23 @@ We know that you care how your information is used, and we appreciate your trust
   
 
 
-scary audio sound clips,  
-the movie sounds,  
-barbera sound effects,  
-explosion sound effects,  
-hippo mating call sounds,  
-predator sound sounds,  
-sound effects with no download,  
-free downloadable cymbal sounds,  
-tasmanian waterfalls sound effect,  
-sound effect cine projector,  
-sound fxs free,  
-bicycle bell sound effect,  
-new noise,  
-tango feet sound fx,  
-police siren sounds down loads,  
-birds sounds,  
-battle sound effects free download,  
-open wav files,  
-sound effects boards,  
-sound fx 
+sound efect,  
+comedy wav sounds,  
+downloadable sounds effects,  
+parasaurolophus sounds,  
+twilight zone sound effect,  
+dog barking sound effects,  
+splash sound effect,  
+sound effects the man from uncle,  
+free bee sound effect,  
+sound effects cash machine,  
+free record player scratch sound effect,  
+im looking for a cool twang sound effect,  
+hulk sound effects,  
+wav sounds free download,  
+f1 sounds,  
+sound of newsroom fx,  
+time travel sound effect free download,  
+sonido,  
+sound effects mp3,  
+free downloads to human sounds 
