@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmartresult.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601124723id_/http%3A//thesmartresult.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmartresult.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210050513id_/http%3A//thesmartresult.org/privacy.php) for the most accurate reproduction.*
 
 # The Smart Result -
 
