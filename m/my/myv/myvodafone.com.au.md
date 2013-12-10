@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvodafone.com.au privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024075240id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvodafone.com.au privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210135955id_/http%3A//www.vodafone.com.au/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
 
 # About - Legal - Privacy Policy - Vodafone Australia
 
@@ -93,17 +93,28 @@ Yes, however there are some exceptions by law which we will explain if relevant 
 
 If you think your personal information may be inaccurate, incomplete or out of date, you can request it to be updated.
 
-[Download Personal Information Request form](http://www.vodafone.com.au/doc/personal-information-request.pdf)
+[Download Personal Information Request form](https://www.vodafone.com.au/doc/personal-information-request.pdf)
 
 ### How can you report a breach of your privacy?
 
 If you believe your privacy has been compromised, please fill in the Privacy Breach form below and return it to the address provided. A member of our Privacy team will contact you within 10 business days.
 
-[Download Vodafone Privacy Breach form here](http://www.vodafone.com.au/doc/privacy-breach-form.pdf)
+[Download Vodafone Privacy Breach form here](https://www.vodafone.com.au/doc/privacy-breach-form.pdf)
 
 ### Contact us
 
-For any other questions regarding privacy, please contact Customer Care on **1555** from your Vodafone mobile or **1300 650 410** from any phone.
+For any other questions regarding privacy, please contact Customer Care on **1555** from your Vodafone mobile, **1300 650 410** from any phone or fax us on **1300 308 869**.
+
+Our postal address is:  
+**Vodafone Customer Care PO BOX 2580, Kingston Delivery Centre, Kingston, TAS 7050**
+
+You can also contact us online via:
+
+  * Our blog <http://blog.vodafone.com.au/blog/>
+  * Facebook  <http://www.facebook.com/vodafoneau>
+  * Twitter  <https://twitter.com/VodafoneAU_help>
+
+
 
 ### **Vodafone Privacy Policy July 2011**
 
