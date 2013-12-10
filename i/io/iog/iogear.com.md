@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616050205id_/http%3A//www.iogear.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210091506id_/http%3A//www.iogear.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - IOGEAR
 
