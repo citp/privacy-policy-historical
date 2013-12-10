@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117083544id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210011654id_/http%3A//www.abt.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Abt Privacy Policy
 
