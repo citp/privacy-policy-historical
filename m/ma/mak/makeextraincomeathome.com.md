@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the makeextraincomeathome.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609033210id_/http%3A//makeextraincomeathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeextraincomeathome.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211001722id_/http%3A//makeextraincomeathome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FTC Disclaimer - Income at Home
-
-**0** Flares **0** Flares ×
+# Privacy Policy - FTC Disclaimer
 
 This privacy policy sets out how INCOME AT HOME uses and protects any information that you give [to us] when you use our website.
 
