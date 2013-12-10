@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teknoise.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107040007id_/http%3A//teknoise.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teknoise.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210131005id_/http%3A//www.teknoise.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TekNoise.com
+# Privacy Policy
 
 At TekNoise, we appreciate your readership and support and place a high value on your personal privacy. We respect the personal information you provide us on our website and staunchly recognize the importance of protecting this information.
 
@@ -16,3 +16,7 @@ Google’s privacy policy at http://www.google.com/privacy.html
   * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 
+
+### Copyright Policy:
+
+Posts, Rumours, Articles and Reviews on TekNoise.com may be carried on, to other web sites, forums, or blogs provided that, you include a clear link back to the original article URL link.
