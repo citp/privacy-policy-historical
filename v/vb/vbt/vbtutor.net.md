@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vbtutor.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602100355id_/http%3A//www.vbtutor.net/index.php/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbtutor.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210072002id_/http%3A//www.vbtutor.net/index.php/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Visual Basic TutorialVisual Basic Tutorial
-
-Custom Search 
+# Privacy Policy | Visual Basic Tutorial
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
