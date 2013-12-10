@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430015810id_/http%3A//www.stlouisrams.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisrams.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210183158id_/http%3A//www.stlouisrams.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # St. Louis Rams | Privacy Policy
 
 ###### St. Louis Rams Website Privacy Policy
 
-Revised November 5, 2010  
-
+Revised November 5, 2012
 
 [](http://www.truste.org/ivalidate.php?url=www.stlouisrams.com&sealid=102) This privacy policy applies to the St. Louis Rams’ websites located at [www.stlouisrams.com](http://prod.www.rams.clubs.nfl.com/) and [www.ramsunited.com](http://www.ramsunited.com/) (the “Website”). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
@@ -19,17 +18,17 @@ When this privacy policy uses the term “personally identifiable information”
 
 Please read the information below to learn more about our data collection policies and practices.
 
-  1. Types Of Information That May Be Collected 
-  2. How Information May Be Collected 
-  3. How We Use The Information Collected 
+  1. Types Of Information That May Be Collected
+  2. How Information May Be Collected
+  3. How We Use The Information Collected
   4. With Whom The Information May Be Shared
-  5. Security 
-  6. Links To Other Websites 
-  7. A Special Note For Parents Concerning Privacy 
+  5. Security
+  6. Links To Other Websites
+  7. A Special Note For Parents Concerning Privacy
   8. Notification Of Changes And Your Acceptance Of The Privacy Policy
   9. Correcting/Updating Personal Information
   10. Your California Privacy Rights
-  11. Questions About This Privacy Policy 
+  11. Questions About This Privacy Policy
 
 
 
@@ -65,8 +64,8 @@ Single Sign On Services: You can log in to our site using sign-in services such 
 
 Our website offers promotions that involve other parties, to varying degrees. Here is how we treat user information in each type of promotion:
 
-  1. Promotions run by the Rams and we do not share information with 3rd party sponsor: In these cases, the Rams collect all relevant information from users such as name, email, mailing address, email type, favorite player, gender, birth date. In these promotions, the Rams privacy policy applies. The Rams do not share this information with any 3rd parties. 
-  2. Promotions run by the Rams, but collected information may be used by the Rams and/or 3rd party sponsor: In these cases, the Rams collect all relevant information from users such as name, email, mailing address, email type, favorite player, gender, birth date. Users will be given the option to allow the 3rd party sponsor to see their information. This option will be signified by checking a checkbox that reads “Receive email from the St. Louis Rams regarding special offers from the Rams and our partners.” In these cases, the 3rd party sponsor may see the information. Once the information is transferred to the 3rd party, the 3rd party’s privacy policy applies.3. Promotions where the 3rd party collects the information: In these cases, the Rams do not collect the information. The page upon which the registration occurs will clearly look like the 3rd party’s website, and not the Rams. The 3rd party’s privacy policy will apply to collected information. In some cases, the 3rd party may provide some information back to the Rams. This will only occur if the user chooses to allow the Rams to see the information. When the information is transferred to the Rams, the Rams privacy policy will apply. Surveys or Voting: From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. 
+  1. Promotions run by the Rams and we do not share information with 3rd party sponsor: In these cases, the Rams collect all relevant information from users such as name, email, mailing address, email type, favorite player, gender, birth date. In these promotions, the Rams privacy policy applies. The Rams do not share this information with any 3rd parties.
+  2. Promotions run by the Rams, but collected information may be used by the Rams and/or 3rd party sponsor: In these cases, the Rams collect all relevant information from users such as name, email, mailing address, email type, favorite player, gender, birth date. Users will be given the option to allow the 3rd party sponsor to see their information. This option will be signified by checking a checkbox that reads “Receive email from the St. Louis Rams regarding special offers from the Rams and our partners.” In these cases, the 3rd party sponsor may see the information. Once the information is transferred to the 3rd party, the 3rd party’s privacy policy applies.3. Promotions where the 3rd party collects the information: In these cases, the Rams do not collect the information. The page upon which the registration occurs will clearly look like the 3rd party’s website, and not the Rams. The 3rd party’s privacy policy will apply to collected information. In some cases, the 3rd party may provide some information back to the Rams. This will only occur if the user chooses to allow the Rams to see the information. When the information is transferred to the Rams, the Rams privacy policy will apply. Surveys or Voting: From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
 
 
@@ -153,7 +152,7 @@ Correcting/Updating personal information
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by the following methods:
 
-  1. Edit your profile online: edit profile [(http://www.stlouisrams.com/reg/login/)](https://web.archive.org/web/20130430015810id_/http%3A//www.stlouisrams.com/community/register/login.html)
+  1. Edit your profile online: edit profile [(http://www.stlouisrams.com/reg/login/)](https://web.archive.org/web/20131210183158id_/http%3A//www.stlouisrams.com/community/register/login.html)
   2. Use an opt out message in a Rams email newsletter
   3. Email us at [webmaster@stlouisrams.com](mailto:webmaster@stlouisrams.com)
   4. Write us at: Website Opt Out, St. Louis Rams, One Rams Way, St. Louis, MO 63045
