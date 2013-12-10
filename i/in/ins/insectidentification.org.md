@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insectidentification.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609164956id_/http%3A//insectidentification.org/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insectidentification.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210070531id_/http%3A//insectidentification.org/privacy-policy.asp) for the most accurate reproduction.*
 
 # Insect Identification Site Privacy Policy
 
