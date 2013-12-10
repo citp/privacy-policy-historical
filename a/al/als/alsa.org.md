@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210729id_/http%3A//www.alsa.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210233121id_/http%3A//www.alsa.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The ALS Association
 
@@ -8,7 +8,7 @@ Our postal address is:
 
 The ALS Association  
 1275 K Street NW  
-Suite 1050  
+Suite 250  
 Washington, DC 20005
 
 You can contact us via email at [webmaster@alsa.org](mailto:webmaster@alsa.org) or by phone at (888) 949-2577.
