@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wilsonweb.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430083208id_/http%3A//webmarketingtoday.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wilsonweb.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210023315id_/http%3A//webmarketingtoday.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
   <meta charset="UTF-8">
@@ -33,8 +33,10 @@
 <link rel="alternate" type="application/rss+xml" title="Web Marketing Today » Feed" href="http://webmarketingtoday.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Web Marketing Today » Comments Feed" href="http://webmarketingtoday.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Web Marketing Today » Privacy Policy Comments Feed" href="http://webmarketingtoday.com/privacy-policy/feed/">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=318905538180587"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://webmarketingtoday.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<link rel="stylesheet" id="ai1ec_stytle-css" href="http://webmarketingtoday.com/?ai1ec_render_css&amp;ver=3.4.2" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=318905538180587"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://webmarketingtoday.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
 <script type="text/javascript" src="http://webmarketingtoday.com/wp-content/plugins/simple-popup/js/jquery.cookie.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://webmarketingtoday.com/wp-content/plugins/all-in-one-event-calendar/app/view/admin/js/require.js?ver=1.9.1-standard" data-main="http://webmarketingtoday.com/wp-content/plugins/all-in-one-event-calendar/app/view/admin/js/main.js"></script>
 <script type="text/javascript" src="http://webmarketingtoday.com/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
 <script type="text/javascript" src="http://webmarketingtoday.com/wp-content/themes/initiator/includes/js/jquery.sooperfish.js?ver=3.4.2"></script>
 <script type="text/javascript" src="http://webmarketingtoday.com/wp-content/themes/initiator/includes/js/jquery.flexslider-min.js?ver=3.4.2"></script>
@@ -58,8 +60,8 @@ jQuery(document).ready(function() {
 		//jQuery('#spmask').fadeTo("slow",0.8);	
 		var winH = jQuery(window).height();
 		var winW = jQuery(window).width();
-		jQuery(id).css('top',  winH-20-jQuery(id).height()-20);
-		jQuery(id).css('left', 20);
+		jQuery(id).css('top',  winH-20-jQuery(id).height()-40);
+		jQuery(id).css('left', 60);
 		//jQuery(id).css('top',  winH/2-jQuery(id).height()/2);
 		//jQuery(id).css('left', winW/2-jQuery(id).width()/2);
 		jQuery(id).animate({"left": "-=500px"}, 0);
@@ -70,7 +72,7 @@ jQuery(document).ready(function() {
 	});
 	jQuery('.window .close').click(function (e) {
 		e.preventDefault();
-		jQuery.cookie('popup_hide','true',{expires: 14, path: '/'});
+		jQuery.cookie('popup_hide','true',{expires: 14, path: '/', domain:'.webmarketingtoday.com'});
 		jQuery('#spmask').hide();
 		jQuery('.window').hide();
 	});		
@@ -115,7 +117,7 @@ if ( jQuery.cookie('popup_hide') != 'true' )
 <!-- Wordpress Popular Posts v2.2.1 -->
 <script type="text/javascript" charset="utf-8">
     /* <![CDATA[ */				
-	jQuery.post('http://webmarketingtoday.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '81b8764150', id: 99043});
+	jQuery.post('http://webmarketingtoday.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '6bf9a8e14f', id: 99043});
     /* ]]> */
 </script>
 <!-- End Wordpress Popular Posts v2.2.1 -->
@@ -131,6 +133,19 @@ if ( jQuery.cookie('popup_hide') != 'true' )
 <!-- Custom Stylesheet -->
 <link href="http://webmarketingtoday.com/wp-content/themes/initiator/custom/custom.css" rel="stylesheet" type="text/css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Google Analytics Code -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32033209-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End Google Analytics -->
 
 <script type="text/javascript">
 var googletag = googletag || {};
@@ -157,7 +172,7 @@ googletag.enableServices();
 </script>
   
 </head>
-<body class="page page-id-99043 page-template-default unknown">
+<body class="page page-id-99043 page-template-default unknown" onload="document.getElementById('si_refresh_com_link').click();">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -274,29 +289,31 @@ googletag.enableServices();
 <div class="newsletter-form">
 	<div class="newsletter-title">Email Newsletter Signup</div>
 	<div class="newsletter-sample">
-		<a href="http://www.icontact-archive.com/cm/YAuysBsJ0ZxJYsrLTjHXE-c7V_QDCgsiw49NtmrwOZjTDN8TSV2ibg==?w=3">View a<br>Sample</a>
+		<!-- <a href="http://b8x8f.s47.it/frontend/newsletters.aspx?idlist=1&hashlista=b34b6d2a-c707-4e81-ae6d-82ee74706a2c">View a<br />Sample</a> -->
+		<a href="/email-archive/">View a<br>Sample</a>
 	</div>
 	<div class="newsletter-teaser">2 Free<br>Ebooks</div>
 	<div class="newsletter-booklist">
 		<ul>
 			<li>The Web Marketing Checklist 2013</li>
 			<li>50 Great Internet Marketing Ideas</li>
-		
-	</ul></div>
+		</ul>
+	</div>
 	<div class="signupform">
-		<form method="post" action="https://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup6710" accept-charset="UTF-8" onsubmit="jQuery.cookie('popup_hide','true',{expires: 14, path: '/'}); return verifyRequired6710();">
-			<input type="text" name="fields_email" id="newsletter-input" placeholder="Your email address...">
-			<input type="submit" id="newsletter-submit" value="Sign Up">
-			<!--<input type="hidden" name="redirect" value="http://www.icontact.com/www/signup/thanks.html">-->
-			<input type="hidden" name="redirect" value="http://webmarketingtoday.com/please-confirm-your-email/">
-			<input type="hidden" name="errorredirect" value="http://www.icontact.com/www/signup/error.html">
-			<input type="hidden" name="listid" value="9998404">
-    			<input type="hidden" name="specialid:9998404" value="2SMF">
-    			<input type="hidden" name="clientid" value="79107">
-    			<input type="hidden" name="formid" value="6710">
-    			<input type="hidden" name="reallistid" value="1">
-    			<input type="hidden" name="doubleopt" value="1">
-		</form>
+		<script language="JavaScript" type="text/JavaScript">
+		  function isEmail(strEmail){
+		    validRegExp = /^([\w-]+(?:[\.\+][\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+		    if (strEmail.search(validRegExp) == -1) {
+		      alert('Please insert a valid email address');
+		      return false;
+		    }
+		    return true;
+		  }
+		</script>
+		<form action="http://b8x8f.s47.it/frontend/subscribe.aspx" method="post" name="myForm" onsubmit="jQuery.cookie('popup_hide','true',{expires: 14, path: '/', domain:'.webmarketingtoday.com'});">
+		    <input name="email" type="text" id="newsletter-input" placeholder="Your email address...">
+		    <input type="hidden" name="list" value="1">
+		    <input name="Submit" type="Submit" onclick="return isEmail(document.myForm.email.value);" value="Sign Up" id="newsletter-submit"></form>
 	</div>
 </div>
 <!-- Newsletter Form End -->
@@ -317,34 +334,34 @@ googletag.enableServices();
 		</ul>
 		<div id="tabSlide">		
 			<div id="sidebar-tab-popular">
-				<ul><li><a href="http://webmarketingtoday.com/articles/checklist/"><img width="120" height="90" src="http://webmarketingtoday.com/wp-content/uploads/75.jpg" class="attachment-post-thumbnail wp-post-image" alt="compass_thumb" title="compass_thumb"></a><a href="http://webmarketingtoday.com/articles/checklist/">The Web Marketing Checklist: 37 Ways to...</a></li><li><a href="http://webmarketingtoday.com/articles/11-Free-Screencasting-Tools/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/screencast-thumb.png" class="attachment-post-thumbnail wp-post-image" alt="screencast thumb" title="screencast thumb"></a><a href="http://webmarketingtoday.com/articles/11-Free-Screencasting-Tools/">11 Free Screencasting Tools</a></li><li><a href="http://webmarketingtoday.com/articles/5-Necessary-Email-Marketing-Tools/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/mailchimp-thumb.jpg" class="attachment-post-thumbnail wp-post-image" alt="mailchimp thumb" title="mailchimp thumb"></a><a href="http://webmarketingtoday.com/articles/5-Necessary-Email-Marketing-Tools/">5 Necessary Email Marketing Tools</a></li><li><a href="http://webmarketingtoday.com/articles/14-Tools-for-Local-Search/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/thumbnail2.jpg" class="attachment-post-thumbnail wp-post-image" alt="thumbnail" title="thumbnail"></a><a href="http://webmarketingtoday.com/articles/14-Tools-for-Local-Search/">14 Tools for Local Search</a></li><li><a href="http://webmarketingtoday.com/articles/viral-principles/"><img width="120" height="90" src="http://webmarketingtoday.com/wp-content/uploads/685.jpg" class="attachment-post-thumbnail wp-post-image" alt="groupgen_thumb" title="groupgen_thumb"></a><a href="http://webmarketingtoday.com/articles/viral-principles/">The Six Simple Principles of Viral Marketing</a></li><li><a href="http://webmarketingtoday.com/articles/Understanding-How-Prospects-Find-your-Business/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/touch-points.jpg" class="attachment-post-thumbnail wp-post-image" alt="touch points" title="touch points"></a><a href="http://webmarketingtoday.com/articles/Understanding-How-Prospects-Find-your-Business/">Understanding How Prospects Find your Business</a></li></ul>				&nbsp;
+				<ul><li><a href="http://webmarketingtoday.com/articles/109782-Email-Spam-Traps-and-How-to-Avoid-Them/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/Email-Spam-Traps-and-How-to-Avoid-Them.png" class="attachment-post-thumbnail wp-post-image" alt="Email Spam Traps and How to Avoid Them" title="Email Spam Traps and How to Avoid Them"></a><a href="http://webmarketingtoday.com/articles/109782-Email-Spam-Traps-and-How-to-Avoid-Them/">Email Spam Traps and How to Avoid...</a></li><li><a href="http://webmarketingtoday.com/articles/109811-Using-Pinterest-for-Visual-Marketing/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/A-Guide-to-Using-Pinterest-for-Visual-Marketing.png" class="attachment-post-thumbnail wp-post-image" alt="Using Pinterest for Visual Marketing" title="Using Pinterest for Visual Marketing"></a><a href="http://webmarketingtoday.com/articles/109811-Using-Pinterest-for-Visual-Marketing/">Using Pinterest for Visual Marketing</a></li><li><a href="http://webmarketingtoday.com/articles/109866-They-Laughed-When-I-First-Started-Online-Testing/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/Testing-Headlines-in-Online-Marketing.png" class="attachment-post-thumbnail wp-post-image" alt="They Laughed When I First Started Online Testing" title="They Laughed When I First Started Online Testing"></a><a href="http://webmarketingtoday.com/articles/109866-They-Laughed-When-I-First-Started-Online-Testing/">Online Testing Most Overlooked Process</a></li><li><a href="http://webmarketingtoday.com/articles/109839-Notable-Articles-Nov-28/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/Notable-Internet-Marketing-Articles-for-Nov.-29-2013.png" class="attachment-post-thumbnail wp-post-image" alt="Notable Internet Marketing Articles" title="Notable Internet Marketing Articles"></a><a href="http://webmarketingtoday.com/articles/109839-Notable-Articles-Nov-28/">Notable Internet Marketing Articles for Nov. 29,...</a></li><li><a href="http://webmarketingtoday.com/articles/109625-10-Do-it-yourself-SEO-Tips-to-Save-Money/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/DIYSEO.jpg" class="attachment-post-thumbnail wp-post-image" alt="10 Do-it-yourself SEO Tips to Save Money" title="10 Do-it-yourself SEO Tips to Save Money"></a><a href="http://webmarketingtoday.com/articles/109625-10-Do-it-yourself-SEO-Tips-to-Save-Money/">10 Do-it-yourself SEO Tips to Save Money</a></li><li><a href="http://webmarketingtoday.com/articles/109687-Google-Analytics-and-Site-Search/"><img width="288" height="216" src="http://webmarketingtoday.com/wp-content/uploads/Google-Analytics-and-Site-Search1.png" class="attachment-post-thumbnail wp-post-image" alt="Google Analytics and Site Search" title="Google Analytics and Site Search"></a><a href="http://webmarketingtoday.com/articles/109687-Google-Analytics-and-Site-Search/">Google Analytics and Site Search</a></li></ul>				&nbsp;
 			</div>
 			
 			<div id="sidebar-tab-comment">
 				<ul>
 										<li>
-							<img alt="" src="http://1.gravatar.com/avatar/1af4d49e84ae3c7bb581a0019939b243?s=55&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/5-Necessary-Email-Marketing-Tools/">
-								radhika said: I really am wondering why...							</a>
+							<img alt="" src="http://0.gravatar.com/avatar/c46ac87d13a747a4eedc388b3102e4ca?s=55&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/wilson-article-marketing-1/">
+								Mike said: This one  http://ezineproarticles.com ...							</a>
 						</li>	
 										<li>
-							<img alt="" src="http://0.gravatar.com/avatar/c0ff09a33b7e9ebdd06cfd8514e35b70?s=55&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/14-Tools-for-Local-Search/">
-								Sig Ueland said: Thanks Bob!							</a>
+							<img alt="" src="http://1.gravatar.com/avatar/db3d718f420f2af3d085b3f9591d7105?s=55&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/checklist/">
+								Raman said: One important point to consider...							</a>
 						</li>	
 										<li>
-							<img alt="" src="http://1.gravatar.com/avatar/10942cee53f801b46b7e0b824aeec1ee?s=55&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/14-Tools-for-Local-Search/">
-								Bob said: This is a great list....							</a>
+							<img alt="" src="http://0.gravatar.com/avatar/e37b12f6e92a4f967478d6c42a87b746?s=55&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/wilson-article-marketing-1/">
+								Cheryl Stanley said: every web master needs to...							</a>
 						</li>	
 										<li>
-							<img alt="" src="http://0.gravatar.com/avatar/a79236af5ad4b8926fc32d6b857021c3?s=55&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/11-Marketing-Podcasts/">
-								Stefan Halley said: Hey, you missed one. i...							</a>
+							<img alt="" src="http://1.gravatar.com/avatar/7483a5f511ace848e8e4d2f3bcea37cd?s=55&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/109811-Using-Pinterest-for-Visual-Marketing/">
+								farhad said: yes i agree with you...							</a>
 						</li>	
 										<li>
-							<img alt="" src="http://0.gravatar.com/avatar/afecea5ffc1959db40cbd50debb5a54e?s=55&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/8-Web-Form-Ideas-to-Increase-Conversions/">
-								Kevin said: Thanks for the feedback Brian....							</a>
+							<img alt="" src="http://1.gravatar.com/avatar/7310a56bdb285ab83f2d8050056fd839?s=55&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/109866-They-Laughed-When-I-First-Started-Online-Testing/">
+								Bob McCarthy said: There's a lot of good...							</a>
 						</li>	
 										<li>
-							<img alt="" src="http://0.gravatar.com/avatar/6edf15cd6aee05b356fbdb7ffd9005ad?s=55&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/14-Tools-for-Local-Search/">
-								Finn_Jake said: Good list! Google Places Category...							</a>
+							<img alt="" src="http://0.gravatar.com/avatar/44e557c662eb11a634782a756ec90c1e?s=55&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D55&amp;r=G" class="avatar avatar-55 photo" height="55" width="55">							<a href="http://webmarketingtoday.com/articles/109782-Email-Spam-Traps-and-How-to-Avoid-Them/">
+								rosie said: This is really helpful -...							</a>
 						</li>	
 								</ul>
 			</div>
@@ -363,7 +380,8 @@ googletag.enableServices();
 	
 	</div>
 
-</div><!-- .sidebar -->
+</div>
+<!-- .sidebar -->
             
 </div> <!-- end main -->
         
@@ -391,7 +409,13 @@ googletag.enableServices();
   background-color:#000;
   display:none;
 }
-  
+
+@media print, (max-width:550px) {
+  #boxes, #boxes #dialog {
+	display:none;
+  }
+}
+
 #boxes .window {
   position:fixed;  left:0;
   top:0;
@@ -413,13 +437,15 @@ googletag.enableServices();
   white-space:normal;
   overflow:visible;
   padding:10px;
-  background-color:#0F5883;
+  background-color:rgba(1,66,130,.9);
   border:px solid #e31b59;
   font-family:Georgia !important;
   font-size:15px !important;
- 
+  margin:15px; 
   
 }
+
+#boxes #dialog .timely {display:none;}
 
 *html #boxes .window {
     position: absolute;
@@ -471,7 +497,7 @@ width: 36px;
 </a></p><div><a style="display: block; text-decoration:none; color:#ffffff; cursor:pointer;" href="/newsletter-signup/" onclick="jQuery.cookie('popup_hide','true',{expires: 14, path: '/'});"><img id="mail" style="position:absolute; left:20px; top:20px; z-index:8; width:50px; height:33px;" width="50" height="33" src="/wp-content/uploads/mail3-transparency.png" alt=""><br>
 <h4 style="font-weight:bold; margin-left:80px; margin-top:-25px; font-size:21px;">Email Newsletter Signup</h4>
 <p style="font-size:1.35em; line-height:27px; margin-right:20px;">
-      <span class="arrow" style="color:#db860f; font-size:1.25em; margin-left:20px;">▶</span> Join 70,000 subscribers.<br>
+      <span class="arrow" style="color:#db860f; font-size:1.25em; margin-left:20px;">▶</span> Join 40,000 subscribers.<br>
       <span class="arrow" style="color:#db860f; font-size:1.25em; margin-left:20px;">▶</span> Receive 2 free ebooks:<br>
       <span class="arrow2" style="margin-left:40px; color:#ffa425;">▶</span> <i>The Web Marketing Checklist 2013</i><br>
       <span class="arrow2" style="margin-left:40px; color:#ffa425;">▶</span> <i>50 Great Internet Marketing Ideas</i>
@@ -479,36 +505,11 @@ width: 36px;
 </a></div><a style="display: block; text-decoration:none; color:#ffffff; cursor:pointer;" href="/newsletter-signup/" onclick="jQuery.cookie('popup_hide','true',{expires: 14, path: '/'});">
 </a><p><a style="display: block; text-decoration:none; color:#ffffff; cursor:pointer;" href="/newsletter-signup/" onclick="jQuery.cookie('popup_hide','true',{expires: 14, path: '/'});"></a></p>
 <a class="close" href="#"></a></div></div><script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32033209-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+/* <![CDATA[ */
+timely.define( 'ai1ec_calendar', {"export_url":"webcal:\/\/webmarketingtoday.com\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&cb=2089826638","fonts":[{"name":"League Gothic","url":"http:\/\/webmarketingtoday.com\/wp-content\/themes-ai1ec\/vortex\/font_css\/font-league-gothic.css"},{"name":"fontawesome","url":"http:\/\/webmarketingtoday.com\/wp-content\/themes-ai1ec\/vortex\/font_css\/font-awesome.css"}]} );
+/* ]]> */
 </script>
- <!-- iContact JavaScript for Processing Newsletter Subscriptions -->
- <script>
-	var icpForm6462 = document.getElementById('icpsignup6462');
-
-	if (document.location.protocol === "https:")
-	
-		icpForm6462.action = "https://app.icontact.com/icp/signup.php";
-	function verifyRequired6462() {
-	  if (icpForm6462["fields_email"].value == "") {
-	    icpForm6462["fields_email"].focus();
-	    alert("The Email field is required.");
-	    return false;
-	  }
-	
-	
-	return true;
-	}
-</script>
+<script type="text/javascript" src="http://webmarketingtoday.com/wp-content/plugins/all-in-one-event-calendar/app/view/admin/js/pages/common_frontend.js?ver=1.9.1-standard"></script>
 <script src="/wp-content/themes/initiator/includes/js/wmt.js"></script>
 <script type="text/javascript">
   (function() {
@@ -518,10 +519,11 @@ width: 36px;
   })();
 </script>
 
-				
+	
+			
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 1378/1406 objects using memcached
+Object Caching 1628/1866 objects using memcached
 
- Served from: webmarketingtoday.com @ 2013-04-30 02:32:08 by W3 Total Cache --></div></body></html>
+ Served from: webmarketingtoday.com @ 2013-12-09 19:33:15 by W3 Total Cache --></div></body></html>
