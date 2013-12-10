@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the utah.gov privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610193350id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utah.gov privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210205308id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	    <title>Privacy Policy - Utah.gov</title>
@@ -47,6 +47,7 @@
 			<meta name="apple-mobile-web-app-capable" content="yes">
 			<meta name="viewport" id="viewport" content="width=device-width">
 			<meta name="apple-mobile-web-app-status-bar-style" content="black">
+			<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 
 
 			<script>
@@ -185,7 +186,7 @@ $(document).ready(function()
 			                    <a id="link-employment" href="/employment/"><span class="icon icon-jobs"></span><div>Employment</div></a>
 								<div class="dropdownContainer">
 										<ul class="col">
-		                                   	<li><a href="http://jobs.utah.gov/jobseeker/index.html">Find a Job</a></li>
+		                                   	<li><a href="http://jobs.utah.gov/jobseeker/">Find a Job</a></li>
 		                                   	<li><a href="/careers/explore.html">Education &amp; Training</a></li>
 				            				<li><a href="https://statejobs.utah.gov/">State Employment</a></li>
 		                                   	<li><a href="/careers/">Careers</a></li>
@@ -206,7 +207,7 @@ $(document).ready(function()
 						            <li><a href="/services/business.html?type=Business">Online Business Services</a></li>
 									<li><a href="/business/starting.html">Starting a Business</a></li>
 									<li><a href="/business/running.html">Running a Business</a></li>
-									<li><a href="http://business.utah.gov/relocate/">Relocating a Business</a></li>
+									<li><a href="http://business.utah.gov/relocate/incentives/">Relocating a Business</a></li>
 									<li><a href="/business/closing.html">Dissolving a Business</a></li>
 						        </ul>
 
@@ -622,7 +623,7 @@ $(document).ready(function()
 		// $('#searchField').keyup(function() {popSearchVal();});
 		
 		// Hide Stuff
-		$('.improvement,#feedback .button').hide();
+		$('#improvement,#emailAddress,#feedback .button').hide();
 		
 	    var pathname = window.location.pathname;
 		$('#pageName').val(pathname);
@@ -635,7 +636,7 @@ $(document).ready(function()
 				document.forms["feedback"].submit();
 			}
 		   if($('#helpful_no').is(':checked')) { 
-				$('.improvement,#feedback .button').fadeIn();
+				$('#improvement,#emailAddress,#feedback .button').fadeIn();
 				$('#helpful_yes,#helpful_no, #feedback label').fadeOut();
 				
 				if ($("#searchField").length > 0){
@@ -657,6 +658,7 @@ $(document).ready(function()
 	<label for="helpful_no"><input type="radio" id="helpful_no" value="0" name="helpful">No</label>
 
 	<textarea placeholder="How can this page be improved? What were you looking for?" class="improvement" name="improvement" id="improvement"></textarea>
+	<input type="text" id="emailAddress" name="emailAddress" placeholder="Your Email Address">
 	<input type="hidden" id="searchValue" name="searchValue">
 	<input type="hidden" id="appName" value="UtahgovFeedback" name="appName">
 	<input type="submit" class="button blue" name="sendFeedbackButton" id="sendFeedbackButton" value="Submit Your Feedback">
@@ -664,7 +666,7 @@ $(document).ready(function()
 
 
 <style type="text/css" media="screen">
-	#main #feedback {border-top: 1px solid #DADADA !important; padding-top: 15px;margin:10px 0 20px 0;clear:both;}
+	#main #feedback {border-top: 1px solid #DADADA !important; padding-top: 15px;margin:10px 0 20px 0;clear:both;overflow:auto;}
 	#feedback h3 {margin: 0 0 10px 0;}
 	#main #feedback h3 {margin:5px 0 6px 10px !important;border:none;}
 	#main #feedback textarea {margin:5px 0 6px 10px;width:93%}
@@ -681,7 +683,7 @@ $(document).ready(function()
 	#feedback label {margin: 10px;}
 
  	#feedback input[type=submit] {
-		display: block;float:right; margin-right: 0;    margin-top: 10px; width: auto; text-decoration: none; border: 2px solid #999; padding: 0 14px; font-size: 14px; line-height: 27px; margin: 0 10px 0 0; cursor: pointer; background:#dadada none repeat scroll 0 0;cursor:pointer;font-size:12px;height:28px;line-height:28px;margin:0 10px 0 0;padding:0 10px;text-align:center;text-decoration:none;font-family:Arial, Helvetica, sans-serif;
+		display: block;float:right; margin-right: 0; width: auto; text-decoration: none; border: 2px solid #999; padding: 0 14px; font-size: 14px; line-height: 27px; margin: 0 10px 0 0; cursor: pointer; background:#dadada none repeat scroll 0 0;cursor:pointer;font-size:12px;height:41px;line-height:28px;padding:0 10px;text-align:center;text-decoration:none;font-family:Arial, Helvetica, sans-serif;
 	cursor:pointer;font-family:Helvetica,arial,freesans,clean,sans-serif;font-size:11px;font-weight:bold;
 	color:#333;text-shadow:1px 1px 0 #fff;white-space:nowrap;border:1px solid #d4d4d4;border-radius:3px;background:#f4f4f4;filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#f4f4f4',endColorstr='#ececec');background:-webkit-gradient(linear,left top,left bottom,from(#f4f4f4),to(#ececec));background:-moz-linear-gradient(top,#f4f4f4,#ececec);background:-o-linear-gradient(top,#f4f4f4,#ececec);margin:10px;
 	color:#FFFFFF;
@@ -695,7 +697,11 @@ $(document).ready(function()
 	background:-moz-linear-gradient(top,#599bdc,#3072b3);
 	background:-o-linear-gradient(top,#599bdc,#3072b3);
 	
+	margin:0 10px;
+	float:left;
+	
 	}
+	#feedback input[type=text] {border: 1px solid #DADADA;    border-radius: 5px 5px 5px 5px;    display: block;    font-family: arial;    font-size: 1em;    padding: 10px;margin-left:10px;width:50%;float:left;}
 	
 	#feedback input[type=submit]:hover  {-moz-background-clip:border;-moz-background-inline-policy:continuous;-moz-background-origin:padding;background:#344A75 none repeat scroll 0 0;color:#FFFFFF;
 	color:#fff;text-decoration:none;text-shadow:-1px -1px 0 rgba(0,0,0,0.3);border-color:#518cc6;border-bottom-color:#2a65a0;background:#599bdc;filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#599bdc',endColorstr='#3072b3');background:-webkit-gradient(linear,left top,left bottom,from(#599bdc),to(#3072b3));background:-moz-linear-gradient(top,#599bdc,#3072b3);background:-o-linear-gradient(top,#599bdc,#3072b3);}
