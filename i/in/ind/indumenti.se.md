@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627114142id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indumenti.se privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210140031id_/http%3A//www.indumenti.se/pages/privacy-policy/7) for the most accurate reproduction.*
 
 # Security and Privacy Policy | Eton Store
 
@@ -18,7 +18,7 @@ This information is collected for the following purposes:
 
 User information is retained for in-house research to:
 
-  * Improve our understanding of our customersâ€™ needs in relation to product development, ensure effective communication and aid strategic development.
+  * Improve our understanding of our customers needs in relation to product development, ensure effective communication and aid strategic development.
   * All results of such research and analysis will be collated as aggregated information and will not reveal any personal facts about individual customers.
   * For certain services, such as purchases, we may request credit card or other payment information which we process in encrypted form on secure servers.
   * Indumenti will maintain appropriate measures to ensure that users' personal details are not misused, accidentally destroyed, lost or altered within the Indumenti server environment.
@@ -40,6 +40,12 @@ We provide mechanisms for updating and correcting your personal information.
 ## TRANSFER OF PERSONAL DATA OVERSEAS
 
 Given that the Internet is a global environment, using it to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the Indumenti website and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
+
+## Analytics Tracking
+
+Google Site Stats is now implemented at Indumenti.se to measure the effectiveness of our web campaigns. Please contact our privacy depart for further information.
+
+�
 
 ## CHANGES TO THIS POLICY
 
