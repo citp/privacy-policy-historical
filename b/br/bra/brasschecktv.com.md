@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brasschecktv.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611002849id_/http%3A//www.brasschecktv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brasschecktv.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210220832id_/http%3A//www.brasschecktv.com/privacy.html) for the most accurate reproduction.*
 
 # Brasscheck TV
 
