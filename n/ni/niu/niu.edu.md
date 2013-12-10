@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626211925id_/http%3A//www.its.niu.edu/its/Policies/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211003723id_/http%3A//www.its.niu.edu/its/Policies/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
