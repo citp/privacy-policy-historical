@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gameadvert.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603143358id_/http%3A//www.gameadvert.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameadvert.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210095907id_/http%3A//www.gameadvert.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Game Advert
 
-This Policy applies to all of the products, services and websites offered by loogames.com or its subsidiaries or affiliated companies. In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice. 
+This Policy applies to all of the products, services and websites offered by GameAdvert.com or its subsidiaries or affiliated companies. In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice. 
 
 **Choices for personal information**   
 When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
