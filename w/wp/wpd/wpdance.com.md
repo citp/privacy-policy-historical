@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpdance.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504003625id_/http%3A//wpdance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdance.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210054105id_/http%3A//wpdance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress Themes, WordPress Templates
 
