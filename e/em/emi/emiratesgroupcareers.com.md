@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emiratesgroupcareers.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524200659id_/http%3A//www.emiratesgroupcareers.com/system/ASPX/Link.aspx%3FID%3Dtcm%3A401-395414) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emiratesgroupcareers.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211004119id_/http%3A//www.emiratesgroupcareers.com/system/ASPX/Link.aspx%3FID%3Dtcm%3A401-395414) for the most accurate reproduction.*
 
 # 
 
