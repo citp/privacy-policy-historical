@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foneszone.co.uk privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508101049id_/http%3A//www.foneszone.co.uk/nav/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foneszone.co.uk privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025325id_/http%3A//www.foneszone.co.uk/fz/privacy.php) for the most accurate reproduction.*
 
 # Fones Zone LTD Privacy Policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
 **(1) This privacy policy**
 
