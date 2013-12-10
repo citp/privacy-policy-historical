@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wefunder.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506202859id_/https%3A//wefunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefunder.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025757id_/https%3A//wefunder.com/privacy) for the most accurate reproduction.*
 
 # Crowd Investing for Startups | Wefunder | Crowdfunding
 
