@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imghere.net privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609193433id_/http%3A//www.imghere.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imghere.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210055253id_/http%3A//www.imghere.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # imghere » More Information » Privacy Policy
 
