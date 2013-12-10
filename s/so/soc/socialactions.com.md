@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialactions.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605205452id_/http%3A//socialactions.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialactions.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210173143id_/http%3A//socialactions.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Actions
 
