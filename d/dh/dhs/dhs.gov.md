@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603024003id_/http%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210145036id_/http%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Homeland Security
 
-Thank you for visiting the Department of Homeland Security online and reviewing our website privacy policy. Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction. PII includes information that is personal in nature and which may be used to identify you.  You may provide PII to us when you send us an e-mail message or a request for information, when you fill out a questionnaire or customer satisfaction survey, when you participate in a research study, etc. We do not require you to register or provide PII to visit our website. We do collect some technical information that does not include PII when you visit to make your visit seamless. The section below explains how we handle and collect information when you visit www.dhs.gov.
+Thank you for visiting the Department of Homeland Security online and reviewing our Web site privacy policy. Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction. PII includes information that is personal in nature and which may be used to identify you.  You may provide PII to us when you send us an e-mail message or a request for information, when you fill out a questionnaire or customer satisfaction survey, when you participate in a research study, etc. We do not require you to register or provide PII to visit our Web site. We do collect some technical information that does not include PII when you visit to make your visit seamless. The section below explains how we handle and collect information when you visit www.dhs.gov.
 
-The PII you provide on a Department website will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm), the [E-Government Act of 2002](http://www.it.ojp.gov/default.aspx?area=privacy&page=1287#contentTop), and the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/).
+The PII you provide on a Department Web site will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm), the [E-Government Act of 2002](http://www.it.ojp.gov/default.aspx?area=privacy&page=1287#contentTop), and the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/).
 
 ###  **Personally Identifiable Information**
 
-As a general rule, the Department does not collect PII about you when you visit our website, unless you choose to provide such information to us. Submitting PII through our website is voluntary. By doing so, you are giving the Department your permission to use the information for a specific, stated purpose. However, not providing certain information may result in the Department’s inability to provide you with the service you desire.
+As a general rule, the Department does not collect PII about you when you visit our Web site, unless you choose to provide such information to us. Submitting PII through our Web site is voluntary. By doing so, you are giving the Department your permission to use the information for a specific, stated purpose. However, not providing certain information may result in the Department’s inability to provide you with the service you desire.
 
-If you choose to provide us with PII on a Department website, through such methods as completing a web form, we will use that information to help us provide you the information or service you have requested. The information we may receive from you varies based on what you do when visiting our site.
+If you choose to provide us with PII on a Department Web site, through such methods as completing a web form, we will use that information to help us provide you the information or service you have requested. The information we may receive from you varies based on what you do when visiting our site.
 
 We only share the PII you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give your PII to any private organizations. The Department of Homeland Security never collects information for commercial marketing.
 
@@ -66,9 +66,9 @@ The Department retains the data from Google Analytics, and ACSI survey results o
 
 ###  **How the Department Uses Cookies**
 
-The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://web.archive.org/web/20130603024003id_/http%3A//www.dhs.gov/DHS_Web_Privacy_Policy_20120803.docx) allows Federal agencies to use session and persistent cookies.
+The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies.
 
-When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows Web sites to “remember” visitors’ preferences, surfing patterns and behavior while they are connected.
+When you visit any Web site, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows Web sites to “remember” visitors’ preferences, surfing patterns and behavior while they are connected.
 
 The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from DHS.gov Web pages only collect information about your browser’s visit to the site; they do not collect any personal information about you.
 
