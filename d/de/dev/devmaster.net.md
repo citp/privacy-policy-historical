@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the devmaster.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210723id_/http%3A//devmaster.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devmaster.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061510id_/http%3A//devmaster.net/privacy) for the most accurate reproduction.*
 
-# Devmaster Privacy Policy | Devmaster
+# Devmaster Privacy Policy | DevMaster
 
 Devmaster may collect certain information from you on or through this website (the " **Site** "). Devmaster, LLC uses this information to deliver the services offered on the Site, to inform you of changes to the Site or your account, to enhance the Site, to prevent illegal or potentially prohibited conduct, and to enforce our Terms of Use (the " **Terms** "), which incorporate this Privacy Policy by reference.
 
@@ -89,4 +89,4 @@ Devmaster, LLC 1051 Homeview Ct. London, ON N6C 6C1
 
 This Privacy Policy was last modified on September 25, 2011.
 
-Copyright 2011 DevMaster. All rights reserved. (rev: 994f941) 
+* * *
