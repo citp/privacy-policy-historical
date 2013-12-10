@@ -1,47 +1,170 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328091014id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211003759id_/http%3A//www.aopa.org/Privacy-Policy-Statement.aspx) for the most accurate reproduction.*
 
-# AOPA Online: Privacy Policy Statement
+# Privacy Policy - AOPA
 
-## AOPA Privacy Policy Statement
+### **Privacy Policy  
+****Aircraft Owners and Pilots Association**
 
-**The Aircraft Owners and Pilots Association is committed to maintaining your privacy and providing you with options regarding the use of your personal information.** If you ever have a question about our privacy policy or the personal information we may have on file and how we use it, please contact us at 800/USA-AOPA (872-2672), Monday through Friday, from 8:30 a.m. to 6 p.m. Eastern, or e-mail [memberassistance@aopa.org](mailto:memberassistance@aopa.org).
+#### Our Commitment
 
-#### Information collected from visitors using the public areas of our website
+**AOPA is committed to maintaining your privacy and providing you with options regarding the use of your personal information.**
 
-AOPA does not collect any personal information from visitors browsing our website unless they voluntarily submit it through one of our forms requesting information or enrolling in a program. Only aggregate data—such as the number of hits per page—are collected. We can see the IP address and in some cases your provider’s host name, but none of this data provides any personal information that tells us your identity.
+#### Privacy Officer
 
-#### Information collected from members who have registered for access to our members-only content
+AOPA has a dedicated Privacy Officer. If you ever have a question about this Privacy Policy or how your personal information is handled please contact our Privacy Officer by calling 800/USA-AOPA or email [memberservices@AOPA.org](mailto:memberservices@aopa.org).
 
-To gain access to the members-only areas of AOPA’s website, members are asked to register and provide some personal information. For members who have accepted a “cookie” or who have logged in to our site with their username and password for a single session, we are able to see the time and date you visited, the IP address, type of browser (e.g., Internet Explorer), and what pages you viewed on our site. This information is not disclosed outside of AOPA or the AOPA Foundation and is utilized only to improve our website, determine what new content might be popular or valuable to our members, and to improve your browsing experience in the future.
+#### What information do we collect?
 
-#### Credit card account information
-
-AOPA does not disclose credit card account information that you may voluntarily provide to us during transactions by phone or through our secure website to anyone other than the credit card company that validates the charge for processing purposes. We also encourage our members not to use e-mail to communicate credit card information for their own personal security and privacy.
-
-#### The way we use information
-
-In addition to the uses outlined above, we use information you voluntarily provided for the purpose you intended, such as to complete registrations, renewals, or any other transaction that you requested through one of the forms on our website.
-
-If you utilize our website to submit any personal medical data, it is only used to complete the transaction you have requested and is not shared with anyone or any company.
-
-We may use members’ names, postal addresses, phone numbers and e-mail addresses to communicate product and service offers or important legislative or informational updates that we think may be of interest to you. AOPA does not sell or rent our members’ personal information, addresses, e-mail addresses, or phone numbers. 
-
-AOPA does share _limited_ information such as mailing address and phone numbers with the AOPA Foundation and our AOPA Certified Partners who offer valuable services to our members (e.g., Bank of America, the AOPA Insurance Agency, Sporty’s). All of our Certified Partners are legally and contractually obligated not to sell, rent, or share our members’ information with any other companies or partners. And the only authorized use of our members’ address or phone information is in regards to offers directly related to the service they are providing to AOPA. They may not contact you for any other reason or without AOPA’s knowledge. AOPA, the AOPA Foundation and our Certified Partners also occasionally contract telemarketing firms to make calls on our behalf about our products and services, however those companies are also legally and contractually obligated to only use our members’ phone numbers for the specific AOPA-related or AOPA Foundation campaign that they have been hired to execute.
-
-You may request at any time to have your name, address, phone number, or e-mail address excluded from our any type of communications. You can request that we only contact you through one of those methods of communication, or even specify what types of contacts you do not desire: 
-
-  * No mail, e-mail, or phone calls from AOPA 
-  * No mail, e-mail, or phone calls from AOPA Foundation 
-  * No mail, e-mail, or phone calls from our Certified Partners
+  * We collect information you provide such as your name, address, email address, contact information, and date of birth, to complete the transaction you request. 
+  * We collect medical information you provide to the Medical Department when you request assistance with medical certification issues.
+  * We collect credit card information to process the orders you request such as membership and additional services.
+  * We collect demographic information to help us learn member characteristics and needs.
+  * We monitor our web site traffic and analyze which pages are popular, which are not, what areas of the country or the world our traffic is coming from, and the like, using “Cookies and Tracking Pixels.”4
 
 
 
-Just contact us to let us know your preferences. 
+The information we collect helps us better communicate with you.
 
-#### Visits made to other websites from links or advertising on www.aopa.org
+#### Children's Privacy Policy
 
-Although AOPA’s site includes links and advertising to other Internet sites, AOPA takes no responsibility for the content or information contained on those sites.
+All AOPA sites and services are intended for general aviator audiences. AOPA does not knowingly collect personal information from children under 13 years of age. If we learn we have inadvertently collected such information, we will delete it. 
 
-AOPA provides these links and advertisements as a benefit and service of to our members, but we have no control over those sites. Other sites that you visit may have their own distinct privacy policies or no policy at all. They may use personal information that you may provide them differently than our policy permits. AOPA strongly encourages you to review the privacy policies of any site before providing any personal information to them.
+#### How do we use your information?
 
-This policy is effective February 26, 2008. If our privacy practices change at any time in the future, we will post the policy changes to this page to notify you of these changes and provide you with the ability to opt out of these new uses of collected personal data.
+In the section below, we list how we might use/share your personal information and whether you can limit this sharing.
+
+Reasons We Use/Share Your Personal Information
+
+| 
+
+Do We Share?
+
+| 
+
+Can You Limit This Sharing?  
+  
+---|---|---  
+  
+**For AOPA’s everyday business, mission support and advocacy purposes -** to process your transactions such as membership applications, renewals and purchases, reply to your inquiries, mail your magazine, communicate important legislative, regulatory or informational updates we think may be of interest to you, allow your participation in AOPA activities and use of AOPA services, respond to court orders and legal investigations. ****
+
+| 
+
+**Yes**
+
+| 
+
+**Yes**  
+  
+**For AOPA’s marketing purposes —** to offer additional AOPA products and services to you such as AOPA’s Pilot Protection Services and the AOPA Store.
+
+| 
+
+**Yes**
+
+| 
+
+**Yes**  
+  
+**For our Affiliated Companies’ 1 everyday business purposes - **to provide you information about services or products available from AOPA affiliates that may be of interest to you. 
+
+| 
+
+**Yes**
+
+| 
+
+**Yes**  
+  
+**For Joint Marketing 3 with other companies - **to jointly offer with other companies certain of their products and services we have selected that may be of interest to you. 
+
+| 
+
+**Yes**
+
+| 
+
+**Yes**  
+  
+**For Non-Affiliates 2 to market to you — **we may occasionally share or exchange your name and mailing address with selected Non-Affiliates2 to allow them to provide you with information about products or services that may be of interest to you.  A fee may be charged for such exchanges.
+
+| 
+
+**Yes**
+
+| 
+
+**Yes**  
+  
+## How do we protect your personal information?
+
+#### Data security and protection
+
+  * We do not release your email address to anyone other than AOPA Affiliated Companies1.  We do not release your personally identifiable information other than your name and mailing address to anyone except AOPA Affiliated Companies1 and, in limited circumstances, companies with which we have Joint Marketing3 agreements.  We never sell or rent your personal information to telemarketers or list brokers. 
+  * Any company we allow to use your personally identifiable information is legally and contractually obligated not to use it for any purpose other than the specific product or service we have authorized. They may not contact you for any other purpose without AOPA’s consent. 
+  * We may occasionally share aggregated, general demographics, such as composition or geographic distribution of our membership. 
+  * Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to your personal information. 
+  * Personal medical information you provide is accessible only by those AOPA staff and medical consultants with the appropriate expertise, training and responsibility to assist you and is used only for that purpose. Your conversations with the medical staff are completely confidential. Your case will be discussed with FAA, physicians, or other medical experts only with your authorization. 
+  * We do not disclose your credit card information to anyone other than the credit card company that processes the charge.  For your personal security, we encourage you not to use email to communicate credit card information. 
+  * AOPA will take all reasonable steps to ensure your personal information is stored in a secure environment protected from unauthorized access, modification or disclosure. AOPA uses industry standard safeguards to ensure the security of personal information through physical, electronic and managerial procedures.
+
+
+
+Whenever personal data is collected by a web site the data is secured in transit by Secure Sockets Layer (SSL) technology. SSL ensures that the data in transit between the web server and your client machine is encrypted and that the information was not changed in transit. 
+
+#### Website links
+
+  * Although AOPA’s site includes links and advertising to other Internet sites, AOPA takes no responsibility for the content or information contained on those sites.  AOPA provides these links and advertisements as a benefit and service to our members, but we have no control over those sites. 
+  * Other sites that you visit may have their own distinct privacy policies or no policy at all.   They may use personal information that you may provide them differently than our policy permits.
+
+
+
+AOPA strongly encourages you to review the privacy policies of any site before providing any personal information to them. 
+
+## How can you control your personal information?
+
+You may opt out of AOPA's use of your personal information
+
+  * We respect your privacy and your choices.  You may request at any time to have your name, address, phone number, or e-mail address excluded from various types of communications you receive from AOPA. 
+    * No mail, e-mail, or phone calls from Aircraft Owners & Pilots Association.
+    * No mail, e-mail, or phone calls from our Affiliated Companies1, individually or as a group.
+    * No mail, e-mail, or phone calls from our Joint Marketing3 partners.
+    * No mail from Non-Affiliates2.
+  * You can request that we only contact you through one of those methods of communication, or even specify what types of contacts you do not desire. 
+  * For individual email solicitations pertaining to a specific product or offering, you may elect to unsubscribe.  A link is located prominently in all of our email solicitations. 
+
+
+
+Please let us know your preferences by calling us at 800/USA-AOPA (872-2672) or emailing us at PrivacyOfficer@AOPA.org. 
+
+## Definitions
+
+#### Affiliated companies1
+
+  * Companies related to Aircraft Owners and Pilots Association by common ownership or control.  They include companies with an “AOPA” name; such as The AOPA Foundation, Inc. (“AFI”), AOPA Service Corporation; AOPA Flight Technologies, Inc.; and AOPA Holdings Corporation. 
+  * AOPA has two other Affiliated Companies that are required by law to have their own privacy policies. They are the AOPA Insurance Agency, Inc., an insurance brokerage company (not an insurance carrier) and the AOPA Aviation Finance Company, LLC, an aviation loan broker (not a lender).  You may view their privacy policies on their websites: [
+    * AOPA Insurance Agency, Inc. privacy policy »
+](http://insurance.aopa.org/about/legal)
+    * [AOPA Aviation Finance Company, LLC privacy policy »](https://web.archive.org/-/media/Files/Finance/aopaaviationfinanceprivacypolicy.pdf)
+
+
+
+#### Non-affiliated or non-affiliates2
+
+  * Companies that are not related to AOPA by common ownership or control.
+
+
+
+#### Joint Marketing3
+
+  * An agreement between AOPA or AFI and a Non-Affiliated company under which selected products or services are jointly marketed.
+
+
+
+#### Cookies  & Tracking Pixels4
+
+  * Cookies are small files that your web browser places on your computer’s hard drive. They allow us to see the time and date you visited, your IP address, the type of internet browser you used, and what pages you viewed.  At no point does your actual identity become known. Most web browsers allow you to decline to accept Cookies.
+  * This site employs the use of Tracking Pixels, also known as a Web Beacon.  A web beacon is a small image which is attached to a web page or link, but is not visible to the user.  When a Web Beacon enabled web page is loaded, or link is clicked, the Web Beacon reports that activity to the organizations web activity system.  No personally identifiable information is collected through the use of web beacons. 
+
+
+
+**_This policy is effective 5/13/2013. AOPA may from time to time update this policy. When that occurs, we will notify you by posting the changes to this page.   _****_AOPA encourages you to periodically review this policy to be informed of how we are protecting your information._**
