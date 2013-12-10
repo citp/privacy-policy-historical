@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608221334id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210053404id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.*
 
-# LandAndFarm.com - Terms And Conditions
+# LandAndFarm.com - Privacy Statement
 
 Effective Date Updated: May 06, 2013
 
