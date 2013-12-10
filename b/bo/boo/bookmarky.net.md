@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the bookmarky.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603222223id_/http%3A//bookmarky.net/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarky.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210234245id_/http%3A//bookmarky.net/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My Site
+
+  * [Home](http://bookmarky.net/) /
+  * Privacy Policy
+
+
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@bookmarky.net.
 
