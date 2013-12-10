@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424041336id_/http%3A//www.tulumba.com/storeContent.asp%3FPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210235239id_/http%3A//www.tulumba.com/storeContent.asp%3FPrivacy) for the most accurate reproduction.*
 
-# #Privacy Policy Statement
+# Turkish products shipped worldwide from New York, USA
 
 This is the web site of **www.tulumba.com**. 
 
