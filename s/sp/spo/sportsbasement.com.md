@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603084108id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211003817id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
 
 # Basement Buzz » Privacy Policy
 
@@ -31,34 +31,21 @@ We may also collect and share general information about the pages that you visit
 
 As a natural consequence of the development of our company, we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company.
 
-[](https://web.archive.org/gift-cards/)  
+### Events
 
-
-  
-
-
-### Search the Buzz
-
-[](http://twitter.com/SportsBasement/) [](http://flickr.com/photos/Sports_Basement/) [](http://facebook.com/SportsBasement/) 
-
-### EVENTS
-
-Monday, Jun. 3, 2013
+Tuesday, Dec. 10, 2013
     
-Tuesday, Jun. 4, 2013
+Wednesday, Dec. 11, 2013
     
-Wednesday, Jun. 5, 2013
+Thursday, Dec. 12, 2013
     
-Thursday, Jun. 6, 2013
+Friday, Dec. 13, 2013
     
-Friday, Jun. 7, 2013
+Saturday, Dec. 14, 2013
     
-Saturday, Jun. 8, 2013
+Sunday, Dec. 15, 2013
     
-Sunday, Jun. 9, 2013
+Monday, Dec. 16, 2013
     
-
-
-
 
 All events are free unless otherwise indicated. See event descriptions for more information.
