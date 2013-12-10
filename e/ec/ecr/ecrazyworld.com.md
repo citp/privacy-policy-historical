@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecrazyworld.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529100111id_/http%3A//ecrazyworld.com/my/info%3Fkey%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecrazyworld.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211001611id_/http%3A//www.ecrazyworld.com/info%3Fkey%3Dprivacy) for the most accurate reproduction.*
 
-# eCrazyWorld.com
+# A Huge Database Of Unlimited Fun
 
 ## Privacy Policy
 
