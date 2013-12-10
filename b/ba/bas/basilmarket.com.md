@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620140748id_/http%3A//www.basilmarket.com/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basilmarket.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210222207id_/http%3A//www.basilmarket.com/show/privacy) for the most accurate reproduction.*
 
 # MapleStory Guides, Quests, Skills, Items, Monsters, Classes, Forum
 
