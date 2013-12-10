@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603064947id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210080857id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Guarantee | TaxAudit.com
 
@@ -8,16 +8,18 @@ _Utilizing our online services when seeking tax audit defense, help or represent
 
 ### Online Security
 
-TaxResources, Inc. has met the high security standards required for C–Level Security Certification and uses a Digi Certificate to securely encrypt your information. We have proactively implemented security steps to protect your data during entry, transmission, and storage.
+| [](http://www.digicert.com/ "DigiCert Security")  
+---|---  
+  
+TaxResources, Inc. has met the high security standards required for Norton and uses a Digi Certificate to securely encrypt your information. We have proactively implemented security steps to protect your data during entry, transmission, and storage.
 
-### TaxResources, Inc. and Canada TaxResources, Inc. Privacy  
-Protection Policy
+### TaxResources, Inc. and Canada TaxResources, Inc. Privacy Protection Policy
 
 [](https://privacy.truste.com/privacy-seal/TaxResources,-Inc/validation?rid=f051f82d-e489-48cf-85b9-48921042c34a "TRUSTe online privacy certification")
 
 We understand the importance of protecting the personal information of our customers and our employees. To earn and maintain your trust we have designed our policy to meet or exceed the requirements of the Personal Information Protection and Electronic Documents Act (PIPEDA) and the ten principles set forth in the Canadian National Standard for the Protection of Personal Information, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation (collectively, privacy legislation). In addition, we are constantly looking for new and better ways to secure your personal information and to ensure that it is used in a responsible and respectful manner.
 
-TaxResources, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "Truste.com") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:  
+TaxResources, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/ "Truste.com") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.taxaudit.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:  
 
 
 > TaxResources, Inc.  
@@ -35,7 +37,7 @@ TaxResources, Inc. has been awarded TRUSTe's Privacy Seal signifying that this p
 >  Facsimile: (866) 650–9695  
 >  Email: [privacy@taxaudit.com](mailto:privacy@taxaudit.com)
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "watchdog.truste.com"). 
+If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "watchdog.truste.com"). 
 
 ##  OVERVIEW AND APPLICABILITY 
 
@@ -55,7 +57,7 @@ This policy also applies to outsourcing organizations that perform information p
 
 Briefly stated, privacy legislation requires that the consent of an individual be obtained for the collection and use of his or her personal information, that steps are taken to protect personal information and that at least one individual is appointed to monitor compliance with the provisions of applicable privacy legislation. 
 
-TaxResources, Inc. is committed to controlling the collection, use and disclosure of personal information provided by the customers of TaxResources, Inc. and has adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information. 
+This privacy policy applies to http://www.taxaudit.com owned and operated by TaxResources, Inc. TaxResources, Inc. is committed to controlling the collection, use and disclosure of personal information provided by the customers of TaxResources, Inc. and has adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information. 
 
 ## DEFINITIONS
 
@@ -201,13 +203,23 @@ TaxResources, Inc. may disclose the personal information of its customers:
 
 
 
-**5.3**  Except as required or permitted by law, when disclosure is made to a party other than TaxResources, Inc. or a third party provider of personal information processing services, the consent of the individual shall be obtained and reasonable steps shall be taken to ensure that any such third party has personal information privacy procedures and policies in place that are at least comparable to those implemented by TaxResources, Inc. Only that information necessary for the third party to provide services is shared. These third party companies do not have access to any financial information and are not allowed to retain, store, or use personally identifiable information for any secondary purposes.
+**5.3**  Except as required or permitted by law, when disclosure is made to a party other than TaxResources, Inc. or a third party provider of personal information processing services, the consent of the individual shall be obtained and reasonable steps shall be taken to ensure that any such third party has personal information privacy procedures and policies in place that are at least comparable to those implemented by TaxResources, Inc. Only that information necessary for the third party to provide services is shared. These third party companies do not have access to any financial information and are not allowed to retain, store, or use personal information for any secondary purposes.
 
 **5.4**  Personal information shall be kept only as long as it remains necessary or relevant for the identified purposes or as required by law. Depending on the circumstances, where personal information has been used to make a decision about a customer, TaxResources, Inc. shall retain, for a period of time that is reasonably sufficient to allow for access by the customer, either the actual information or the rationale for making the decision.
 
 **5.5**  TaxResources, Inc. has adopted guidelines and procedures with respect to the retention of personal information. Personal information that is no longer necessary or relevant for the identified purposes or required by law to be retained, shall be destroyed, erased or made anonymous in accordance with the TaxResources, Inc. Document Retention and Destruction Policy.
 
-**5.6**  Our Site includes links to other Web sites whose privacy practices may differ from those of TaxResources Inc. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+**5.6**  Our Site includes links to other Web sites whose privacy practices may differ from those of TaxResources Inc. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+**5.7**  A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site. We use session ID cookies. A session ID cookie expires when you close your browser. This cookie allows us to manage your session while you are visiting and during the purchase process. [Learn more about Cookies.](http://en.wikipedia.org/wiki/HTTP_cookie)
+
+If you reject cookies, you may still use our site, but your ability to purchase products or create an account will be restricted.
+
+ **5.8**  As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information.
+
+ **5.9**  The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers use session ID cookies to help us better understand the pattern of usage by visitors to our site. No IP addresses are collected and no personal information is collected or stored with these cookies.
+
+ **5.10**  Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ## 6 — ACCURACY
 
@@ -237,7 +249,7 @@ _Personal information shall be protected by security safeguards appropriate to t
 
 **7.6**  TaxResources, Inc. does not use externally–meaningful identifiers as its own internal individual account numbers. For example, to prevent identity theft, TaxResources, Inc. customer account numbers must never be equivalent to social security numbers, driver’s license numbers, or any other identifier that might be used in an unauthorized fashion by a third party.
 
-**7.7**  When they are no longer neede–d, all copies of personal data, including those on backup tapes, must be irreversibly destroyed according to standards and procedures defined by the Information Security Department. A document describing the personal data destroyed and the reasons for such destruction must be prepared for each destruction process. Documents will be destroyed only if all legal retention requirements and related business purposes have been met.
+**7.7**  When they are no longer needed, all copies of personal data, including those on backup tapes, must be irreversibly destroyed according to standards and procedures defined by the Information Security Department. A document describing the personal data destroyed and the reasons for such destruction must be prepared for each destruction process. Documents will be destroyed only if all legal retention requirements and related business purposes have been met.
 
 **7.8**  A documented risk assessment must be prepared to determine the privacy implications of all significantly new or different uses of personal data. Such a risk assessment must be completed before these uses take place, and must include all steps in the proposed processing, including access, storage, transmission, and destruction. Such a risk assessment must include not only consideration of the risks, but also the security measures to be employed such as access controls, encryption, logs, data retention schedules, and data destruction procedures.
 
@@ -296,6 +308,6 @@ _An individual customer shall be able to address a challenge concerning complian
 
 ### CHANGES TO THE PRIVACY POLICY
 
-This policy is effective as of November, 2011. TaxResources, Inc. reserves the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+This policy is effective as of September 20th, 2013. TaxResources, Inc. reserves the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 Back to the TOP
