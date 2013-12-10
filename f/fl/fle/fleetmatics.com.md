@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleetmatics.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607135004id_/http%3A//www.fleetmatics.com/fleetmatics-privacy-policy/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleetmatics.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210055624id_/http%3A//www.fleetmatics.com/fleetmatics-privacy-policy/21) for the most accurate reproduction.*
 
 # Privacy Policy - Fleetmatics
 
