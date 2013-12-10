@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430002245id_/http%3A//www.kfh.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210010358id_/http%3A//www.kfh.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,9 +37,9 @@ SW19 7QA
 
 #### **Cookies**
 
-A cookie is a piece of information, automatically generated when you register with or visit this website for the first time. The cookie is held on your computer and enables us to recognise you when you visit or login to our website again.
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-Because the cookie is held on your own individual computer, we are unable to recognise you if you visit our website from any computer apart from the one you used to register or login with us for the first time. The cookies we use only collect information about your interaction with our website, and do not collect any personal information about you, how you use your computer or your use of the internet generally.
+The cookies we use only collect information about your interaction with our website, and do not collect any personal information about you, how you use your computer or your use of the internet generally.
 
 The table below details the cookies we use across our websites:
 
@@ -51,29 +51,11 @@ Cookie Lifetime
 
 | 
 
-Present on Pages
-
-| 
-
 Cookie Name  
   
----|---|---|---  
+---|---|---  
   
-Remembers settings for users who browse the site without logging in
-
-| 
-
-Three months
-
-| 
-
-All pages
-
-| 
-
-.ASPXANONYMOUS  
-  
-Remembers the user’s session ID
+Holds details of last search criteria/paging/context.
 
 | 
 
@@ -81,13 +63,9 @@ Until browser is closed
 
 | 
 
-All pages
-
-| 
-
-ASP.NET_SessionId  
+KFHContext  
   
-Remembers anonymous user information which allows the web pages you are viewing to load faster
+Visitor tracking cookie for logins.
 
 | 
 
@@ -95,21 +73,7 @@ Remembers anonymous user information which allows the web pages you are viewing 
 
 | 
 
-All pages
-
-| 
-
-mmcore.pd  
-  
-12 months
-
-| 
-
-All pages
-
-| 
-
-mmcore.srv  
+SKSession  
   
 Remembers a user session ID
 
@@ -119,67 +83,17 @@ Remembers a user session ID
 
 | 
 
-All pages
-
-| 
-
-mmid  
-  
-This cookie is no longer active, and stores no information whatsoever
-
-| 
-
-Until browser is closed
-
-| 
-
-All pages
-
-| 
-
-mmcore.mmact  
-  
-Remembers if you have agreed to accept cookies
-
-| 
-
-10 days
-
-| 
-
-n/a
-
-| 
-
-mmcore.tst  
-  
-Remembers the resolution with which you last viewed the website
-
-| 
-
-One month
-
-| 
-
-All pages
-
-| 
-
-kfh_layout  
+Geocentre  
   
 Google Analytics cookies anonymously collect information about how visitors use our site.
 
-We use this information to develop and improve the website for future visitors. No personal information is collected or stored. 
+We use this information to develop and improve the website for future visitors. No personal information is collected or stored.
 
-Click here for an overview of privacy at [Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)
+Click here for an overview of privacy at [Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)
 
 | 
 
 24 months
-
-| 
-
-All pages
 
 | 
 
@@ -189,17 +103,9 @@ _utma
 
 | 
 
-All pages
-
-| 
-
 _utmb  
   
 Until browser is closed
-
-| 
-
-All pages
 
 | 
 
@@ -209,25 +115,17 @@ Six months
 
 | 
 
-All pages
-
-| 
-
 _utmz  
   
 30 minutes
 
 | 
 
-All pages
-
-| 
-
-_utmv   
+_utmv  
   
-If you prefer not to have cookies enabled, from your internet browser window, select preferences or internet options and change your cookie settings accordingly. Please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) if you would like more information, including how to see what cookies have been stored in your web browser and how to manage and delete them.
+If you prefer not to have cookies enabled, from your internet browser window, select preferences or internet options and change your cookie settings accordingly. Please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) if you would like more information, including how to see what cookies have been stored in your web browser and how to manage and delete them.
 
-Should you wish to opt out of Google Analytic tracking across all websites please visit <http://tools.google.com/dlpage/gaoptout>.
+Should you wish to opt out of Google Analytic tracking across all websites please visit <http://tools.google.com/dlpage/gaoptout>.
 
 #### **Email**
 
@@ -235,7 +133,7 @@ As previously stated, details of your email address will be stored as securely a
 
 #### **Contacting us**
 
-Your views about this website, its terms and conditions and our overall levels of service are important to us. If you would like to contact us with any comments or feedback please email [ho@kfh.co.uk.](mailto:ho@kfh.co.uk)
+Your views about this website, its terms and conditions and our overall levels of service are important to us. If you would like to contact us with any comments or feedback please email [ho@kfh.co.uk.](mailto:ho@kfh.co.uk)
 
 #### **External links**
 
