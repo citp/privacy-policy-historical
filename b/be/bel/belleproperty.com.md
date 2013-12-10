@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000742id_/http%3A//www.belleproperty.com/other/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210220422id_/http%3A//www.belleproperty.com/other/privacy.php) for the most accurate reproduction.*
 
 # Privacy in Belle Property Australasia | www.belleproperty.com
 
 At Belle Property your privacy is important to us and as such we ensure that we handle your information in accordance with the National Privacy Principles as set out in the 2000 Privacy Act.
 
-## Collecting Personal Information
+### Collecting Personal Information
 
 Personal information is any information or an opinion about you. It may range from the everyday (e.g. address and phone number) to the very sensitive (e.g. medical history or condition). At Belle Property we collect information relating to your telephone numbers, and home address. Depending on the nature of the transaction we may need to also obtain budgetary information to match buyer to property and financial account and tax file details to help finalise a property transaction. We generally do not collect information (such as medical, ethic origin, religious beliefs, or sexual preferences) and would not do so without your consent.
 
-## Who will be collecting your personal information
+### Who will be collecting your personal information
 
 Belle Property will collect your personal information for its own use in connection with property assignments. We will not sell or pass on your details to a third party.
 
-## How your information will be collected
+### How your information will be collected
 
 Personal information will be collected from you directly when you express interest in renting, leasing, selling or purchasing a property. This information will be collected in two ways:
 
@@ -21,11 +21,11 @@ Personal information will be collected from you directly when you express intere
 
 
 
-## Storage
+### Storage
 
 We store personal information in a combination of secure computer storage facilities and paper based files and other records. We have taken steps to protect the personal information we hold from misuse, loss and unauthorised access and disclosure.
 
-## How Your Personal Information will be used.
+### How Your Personal Information will be used.
 
 Your personal information may be used in connection with property assignments and may include:
 
@@ -34,7 +34,7 @@ Your personal information may be used in connection with property assignments an
 
 
 
-## Your personal information may be disclosed to:
+### Your personal information may be disclosed to:
 
   * vendors, auctioneers;
   * property developers;
@@ -44,14 +44,16 @@ Your personal information may be used in connection with property assignments an
 
 
 
-## Keeping Up-to-date Records
+### Keeping Up-to-date Records
 
 We will take reasonable steps to make sure that the personal information we collect, use and disclose is correct. If your personal details change, such as contact numbers and address, we would appreciate if you could please advise us so we can update records and continue to be of service to you.
 
-## Gaining access to Personal Information
+### Gaining access to Personal Information
 
 Following a written request we will in accordance with the provision of the Privacy Act provide you with a copy of the relevant personal information, which we hold about you.
 
-## How to contact us
+### How to contact us
 
 If you wish to contact us about your personal information you should contact: Fiona Biondi Chief Operating Officer Phone: +61 2 8116 9444  Email: [fiona.biondi@belleproperty.com](mailto:fiona.biondi@belleproperty.com) during normal office hours Monday - Friday 9.00am - 5.00pm
+
+ 
