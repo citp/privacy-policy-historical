@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the nexoneu.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514002945id_/http%3A//en.nexoneu.com/NXEU.aspx%3FPART%3D/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexoneu.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210104815id_/http%3A//en.nexoneu.com/NXEU.aspx%3FPART%3D/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # NEXON Europe - Play fun Online Games : Legal > PrivacyPolicy
 
-This agreement contains important legal information. 
+This agreement contains important legal information.
 
-Untitled Document
-
-**YOUR PRIVACY RIGHTS – NEXON EUROPE PRIVACY POLICY**
+ **YOUR PRIVACY RIGHTS – NEXON EUROPE PRIVACY POLICY**
 
 The purpose of this Privacy Policy is to inform you about our privacy practices and your privacy rights. Because the success of our Services is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to protect the privacy of those using our Site and Services. This Privacy Policy describes the types of information we collect; how we collect, use, and share the information; your choices related to our information practices; and how we protect your information.
 
