@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511161939id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210205733id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Online Shopping - Privacy Policy | Online Shopping in the Philippines| lazada.com.ph
 
