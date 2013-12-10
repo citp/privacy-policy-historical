@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microhosting.in privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510094354id_/http%3A//www.microhosting.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microhosting.in privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210124618id_/http%3A//www.microhosting.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MicroHosting
+# Privacy Policy - MicroHosting
 
 This privacy statement describes how MicroHosting collects and uses the personal information you provide on our Web site: <http://www.microhosting.in/>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -17,14 +17,14 @@ We collect the following personal information from you
 As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.  
 We use this information to
 
-  * Respond to customer service & offer requests 
+  * Respond to customer service & offer requests
   * Administer your account
   * Improve our Web site and marketing efforts
 
 
 
 **Choice/Opt-Out**   
-You may choose to stop receiving our emails by logging into your account and updating your notification selections or you can contact us at info@microhosting.in  
+You may choose to stop receiving our emails by logging into your account and updating your notification selections or you can contact us at [info@microhosting.in](mailto:info@microhosting.in)  
 We enable you to create an account, and share information such as messages, offers, & requests with others.
 
 **Information Obtained from Third Parties**   
@@ -39,8 +39,8 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if MicroHosting is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so. 
+  * if MicroHosting is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so.
 
 
 
