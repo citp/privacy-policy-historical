@@ -1,64 +1,65 @@
-> *The following text is extracted and transformed from the vkonnect.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225024845id_/http%3A//www.vkonnect.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vkonnect.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210031241id_/http%3A//vkonnect.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - VKonnect
+# Privacy Policy | vkonnect.com
 
-Privacy Policy:
+Privacy Policy
 
   * This privacy policy has been created to show our concern regarding your privacy and personal information. 
-  * Vkonnect reserves the right to amend this policy at any time. 
+  * vKonnect reserves the right to amend this policy at any time. 
   * Any query regarding this privacy policy should be addressed at [support@vkonnect.com](mailto:support@vkonnect.com)
 
 
 
-Use of Information collected
+Use of Information collected:
 
-  * Vkonnect.com is not directed to children under the age of 13. Vkonnect.com prohibits registration by and will not knowingly collect any personally identifiable information from anyone under the age of 13. This requirement will be posted at points of data collection within vkonnect.com, such as account formation and registration for services.
-  * We only demand the information which is mandatory for the account creation. Such as your name, company name, email address, billing address, credit card information. 
-  * vkonnect also uses the collected info for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, updates, policy and service change, advertising and research. 
+  * According to the Federal Children's Online Privacy Protection Act of 1998 (COPPA) vKonnect does not gather personal identity information from children under the age of thirteen (13) years of age. 
+  * We only demand the information which is mandatory for the account creation. Such as your username, first name, last name , email address and website URL. 
+  * vKonnect also uses the collected info for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, updates, policy and service change, advertising and research. 
   * vKonnect does not misuse any personally identifiable information of its users. VKonnect holds the right to exhibit its customers support logo on its website for promotional purposes for both the customer and vKonnect. 
 
 
 
-Disclosure of Information
+Disclosure of Information:
 
-  * vkonnect will not disclose any of your personal identifiable information unless there are exceptional circumstances such as non-compliance and violation of terms and conditions of vkonnect may lead to the disclosure of your information and termination of the account.
+  * vKonnect will not disclose any of your personal identifiable information unless there are exceptional circumstances such as non-compliance and violation of terms and conditions of vKonnect may lead to the disclosure of your information and termination of the account.
 
 
 
-Password Protection
+Password Protection:
 
-  * We ensure maximum protection of all your account information. 
-  * With vkonnect all your account and personal information are highly secured and password protected. 
+  * We ensure maximum protection of all your account information.
+  * With vKonnect all your account and personal information are highly secured and password protected. 
   * We advise you to guard your passwords to avoid unauthorized access and misuse of your account. 
 
 
 
-Cookies
+Cookies:  
+
 
   * A Cookie is a coded data that contains bits of information stored in the computer's hard drive which are sent by the web server. 
-  * Cookies are required to register, login/logout vkonnect account. 
-  * vkonnect also use cookies to record session information, but it does not use permanent cookies. 
-  * To prevent you against others accidentally accessing your vkonnect account contents, you are required to log-in your vkonnect account after a certain period of time. 
-  * Cookies policy of vkonnect has been designed in compliance with the EU cookie law. We advise you to read this policy for your better understanding and to know 
-    * which cookies we use, 
-    * how we use cookies,
-    * why we use cookies
-    * how to disable cookies through browser settings
+  * Cookies are required to register, login/logout vKonnect account. 
+  * vKonnect also use cookies to record session information, but it does not use permanent cookies. 
+  * To prevent you against others accidentally accessing your vKonnect account contents, you are required to log-in your vKonnect account after a certain period of time. 
+  * Cookies policy of vKonnect has been designed in compliance with the EU cookie law. We advise you to read this policy for your better understanding and to know 
+    * which cookies we use. 
+    * how we use cookies.
+    * why we use cookies.
+    * how to disable cookies through browser settings.
 
 
 
-Please note that if your cookies are disabled, some portion of vkonnect's website will not work correctly unless you chose to disable cookies through the browser. On the continuous use of this website you are complying with vkonnect's use of cookies as per the cookies policy. 
+Please note that if your cookies are disabled, some portion of vKonnect's website will not work correctly unless you chose to disable cookies through the browser. On the continuous use of this website you are complying with vkonnect's use of cookies as per the cookies policy. 
 
-Password Protection
+Password Protection:
 
-  * Third party links of the websites can be seen on vkonnect. 
+  * Third party links of the websites can be seen on vKonnect. 
   * We suggest you to read the privacy policies of all the third party websites because we take no responsibility of the privacy policies of the third party linked websites or services operated by them. 
 
 
 
-Security
+Security:
 
-  * Information security is our first priority and we have taken several measures into account to prevent you from any mishap. Therefore, Vkonnect has set up highly secure servers to provide our users a malware, spyware free environment. 
+  * Information security is our first priority and we have taken several measures into account to prevent you from any mishap. Therefore, vKonnect has set up highly secure servers to provide our users a malware, spyware free environment. 
   * We strive to the maximum level to protect all your information, but we cannot guarantee the protection of your data and information over the internet, however once the data is received we make sure that it is well protected and secured on our system / server. 
 
 
