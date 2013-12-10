@@ -1,51 +1,150 @@
-> *The following text is extracted and transformed from the nmincite.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430161840id_/http%3A//nmincite.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmincite.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211001505id_/http%3A//www.socialguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NM Incite
+# Privacy Policy - SocialGuide
 
-**Effective Date: November 5, 2012**
+This Privacy Policy describes the policies and procedures of SocialGuide, Inc. (“we” or “us”) on the collection, use and disclosure of your information on http://www.socialguide.com and the related services, features, content or applications we offer (collectively, “SocialGuide”). In connection with your use of SocialGuide, we receive information about you from various sources, including: (i) through your SocialGuide user account (your “Account”); (ii) your use of SocialGuide generally; and (iii) from third party websites and services. When you use SocialGuide, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy.
 
-This privacy notice covers the collection and use of information for this website, [http://www.nmincite.com](http://www.nmincite.com/) (“this website” or “we”). This website is owned by NM Incite.
+**What Does This Privacy Policy Cover?**
 
-## About NM Incite
+This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) we gather when you are using or accessing SocialGuide. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
-NM Incite is a joint venture between Nielsen and McKinsey & Company, bringing to bear deep expertise in measurement science and management consulting. As one of the largest global leaders in applying social media to solve marketing problems, NM Incite offers consumer insights and market research to Global Fortune 1000 marketers. NM Incite helps bring the voice of the consumer to our clients, which include leading Consumer Packaged Goods, Financial Services, Healthcare and Technology companies. To develop our social media research products and services, we collect publicly available information from tens of thousands of online message boards. By helping our clients learn from consumers, we hope that those insights and learnings can accelerate new products or services.
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, content sources, services and applications (“Third Party Services”) that you elect to access through SocialGuide, or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-## About The Nielsen Company
+**What Information Is Collected by SocialGuide?**
 
-The Nielsen Company (NYSE: NLSN) is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence, mobile measurement, trade shows and related assets. The company has a presence in approximately 100 countries, with headquarters in New York, USA. For more information please visit [www.nielsen.com](http://nielsen.com/).
+The information we gather enables us to personalize, improve and continue to operate SocialGuide. In connection with certain aspects of SocialGuide, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 
-## About McKinsey & Company
+_**Sign-In Information:**_
 
-McKinsey & Company is a global management consulting firm. For more information please visit [McKinsey & Company](http://www.mckinsey.com/).
+When you create an Account or login using Twitter OAuth or Facebook Connect protocols, you will provide information that could be Personal Information, such as your username, password, email address, zip code and cable or satellite provider. You acknowledge that this information may be personal to you, and by creating an account with SocialGuide and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, including without limitation, notifications regarding the Services. You may unsubscribe from these messages through your Account settings, although we regardless reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
 
-## What information we collect and how we use it
+_**User Content:**_
 
-We ask those interested in obtaining more information about NM Incite’s products and services to provide their names, email addresses, name of their company or website, telephone number and industry. Clients may gain access to their information through our client site [http://buzzmetrics.nmincite.com](https://buzzmetrics.nmincite.com/) and may use a password or other means of authentication to do so. We do not sell this information to or share it with third parties, except as described below. We use your contact information to fulfill your request or respond to your inquiry, and may alert you to NM Incite reports, studies, Webinars or publications on related topics in which we think you may be interested. The emails that we send contain links that enable you to “unsubscribe” from future such mailings.
+SocialGuide collects, stores and aggregates content that you post to SocialGuide or that you post to Twitter and Facebook, such as the ability to distribute to people who follow your feed, collections of content and uniform resource locators (“URLs”), written descriptions of content or URLs, comments, text, images and video. We also collect and store information regarding the content in your SocialGuide, Facebook and Twitter feeds and associate that information with your Account. We also collect and store (i) the time and date on which the content was first curated and (ii) information on the channels through which the content was shared, e.g., to other SocialGuide users, Twitter followers and Facebook friends.
 
-Comments are welcomed and encouraged on the NM Incite blog, “The Social Marketer,” [http://nmincite.com/blog](http://nmincite.com/blog/). You may link to our blog through social media sites such as Facebook, LinkedIn, Twitter and Google+ using the plug-ins on our blog. If you choose to do so, you become subject to the privacy policies and terms of use of those social media sites. All comments made to the NM Incite blog become the property of NM Incite. NM Incite reserves the right to edit or delete comments. Including a link to content relevant to the post topic is permitted, but any comments deemed to be spam or questionable spam will be deleted. Any comments containing profanity or language or concepts that could be deemed offensive will be deleted. Comments that attack a person individually will be deleted.
+In addition, unless you opt-out through your Account settings on SocialGuide or for certain features through the SocialGuide application, we share certain information about you, such as your username, any avatar or image you elect to post, your Twitter username, your feeds available through SocialGuide, Twitter, Facebook and other Third Party Services linked to your Account, and other information. This may include Personal Information, but only to the extent that you decide to share such information with others. This information posted or made available through SocialGuide is made public and shared by default, but remember, you have already agreed to make it public by sharing it via Twitter and/or Facebook.  
+We may retain content submitted by you to SocialGuide indefinitely, even after you terminate your Account.
 
-## Cookies and Web Beacons
+_**Information Collected From Third Party Services:**_
 
-To keep track of your preferences when you visit our website, we may place a cookie on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. We also use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of our website to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site. We also use cookies to understand your Internet usage, including other websites that you visit and, occasionally, your exposure to certain Internet advertisements as you surf the Web. To opt out of this explicitly, please [click here](http://server-us.imrworldwide.com/cgi-bin/o?oo=total&tu=http://www.nielsen.com/content/corporate/policy/en/cookie-policy.html).
+SocialGuide shares your content from Third Party Services (such as Twitter and Facebook) through SocialGuide. We collect information related to your use of those Third Party Services, such as authentication tokens that allow us to connect to your Third Party Service accounts and content that you post to such Third Party Services. We may otherwise collect information about how you are using SocialGuide to interact with those connected Third Party Services. Note that Third Party Services may have the ability to restrict the information that is provided to us. We may also use the information from Third Party Services to build a default user profile for you based on information that we receive from Third Party Services, and make recommendations to you based on your profile, using our proprietary matching algorithms.
 
-No personally-identifiable information is contained in our cookies or transmitted through our Web beacons. You can set your browser to reject most cookies by following the browser help file directions. However, if your browser is set to reject cookies or you delete cookies, you may not be able to use some features of certain websites. You can also delete individual cookies or all cookies on your computer by following the browser help file directions.
+_**Metrics and Analytics:**_
 
-## When we may disclose your information to others
+We collect information about accesses of content curated through SocialGuide. This information includes, but is not limited to: (i) the IP address and physical location of the devices accessing the curated content; (ii) the time and date of each access; and (iii) information about sharing of curated content.
 
-From time to time, and notwithstanding any other provision of this Notice, we may partner with unaffiliated companies or individuals for market research product development or similar purposes. These companies or individuals may be provided with access to personally identifiable information, but we will require by contract that they agree to maintain the confidentiality, security and integrity of such information. We also may subcontract with other companies and individuals to do work on our behalf; they may be provided with access to personally identifiable information, but only as needed to perform their functions. Notwithstanding any other provision of this Notice, we may disclose personally identifiable information to any third party when disclosure is required by law, or desirable to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person. In the event that NM Incite is acquired by or merged with a third party entity, or in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control.
+_**IP Address Information and Other Information Collected Automatically:**_
 
-## Children
+We automatically receive and record information from the SocialGuide application or your web browser when you interact with SocialGuide, including your IP address and cookie information. This information is used to facilitate collection of data concerning your interaction with SocialGuide (e.g., what content you have clicked on). Generally, SocialGuide automatically collects usage information, such as the number and frequency of users accessing SocialGuide and various curated channels of content. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of SocialGuide so that we can analyze and improve them.
 
-This site is not directed at children under the age of 13 and does not knowingly collect any personally identifiable information from children under the age of 13.
+_**Email Communications:**_
 
-## Access to your information
+We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
 
-You may [contact us](http://www.nielsen.com/us/en/campaigns/privacy-policy-opt-out.html) if at any time you would like to see the personally identifiable information we hold about you, or to ask us to correct or update this information, or to ask us to delete it, or if you have questions or wish to take any action with respect to information to which this Notice applies.
+_**Information Collected Using Cookies:**_
 
-## Data storage, transfers and security
+Cookies are pieces of text that may be provided to your computer through your web browser or application when you access a website or service. Your browser stores cookies in a manner associated with each website or service you visit. We use cookies to enable our servers to recognize your web browser or SocialGuide application and tell us how and when you visit and use SocialGuide through the web or through an application.
 
-We may store the personal details we hold about you for as long as needed, for the purposes described in this policy, and in accordance with law. Your information may be stored in the United States or elsewhere but in any event will be stored using administrative, managerial and technical measures to protect its confidentiality. Please remember that storage and communication of personal data cannot always be one-hundred percent secure.
+  * Cookies are pieces of text that may be provided to your computer through your web browser or application when you access a website or service. Your browser stores cookies in a manner associated with each website or service you visit. We use cookies to enable our servers to recognize your web browser or SocialGuide application and tell us how and when you visit and use SocialGuide through the web or through an application.
+  * SocialGuide cookies also allow us to track when you have accessed content through SocialGuide. Each access is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser or application and associated with SocialGuide.
+  * SocialGuide cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser or application has accessed content through SocialGuide and may associate that information with your Account if you have one.
+  * This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer or device. For example, third party websites may set their own cookies.
 
-## We may change this Notice and our data collection and management practices
 
-We reserve the right to update and make material and non-material changes to this Notice and to our practices in collecting and handling personally identifiable information. If we make material changes, we will notify you by email prior to their implementation and let you decide if you want the material changes to apply to your personally-identifiable information. We will also post a prominent notice at this website and indicate at the top of this statement when it was most recently updated.
+
+_**Aggregate Information:**_
+
+We collect statistical information about how people use SocialGuide and what they are commenting on (“Aggregate Information”). Some of this information is derived from Personal Information, such as your location (which, in turn, can be derived from your IP address or through location based services used by your device). This statistical information is not Personal Information and cannot be tied back to you, your Account, your web browser or your SocialGuide application.
+
+**How and To Whom Is My Information Shared?**
+
+SocialGuide is designed to help you share information that you or people you choose to follow elect to post to SocialGuide or Third Party Services. As a result, much of the information generated through SocialGuide is shared publicly or with third parties.
+
+_**Public SocialGuide Activity Information:**_
+
+Much of your activity on and through SocialGuide is public by default. This includes, but is not limited to:
+
+  * Content that you access through your user name, channels/content and members that you follow, channels/content that you elect not to follow, your expertise score and your selected avatar/image.
+  * Metrics and analytics information for your content; and
+  * Aggregate non-personal information about what content you have accessed through SocialGuide and associated metrics and analytics information, as described above.
+
+
+
+Some of this information may be associated with your Account and some of this information is publicly accessible to other SocialGuide users.
+
+Please also remember that if you choose to provide Personal Information using certain features of SocialGuide, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading this information may use or disclose it to other individuals or entities without our control and without your knowledge. Therefore, we urge you to think carefully about including any specific information you may deem private in content that you create or submit through SocialGuide.
+
+_**IP Address Information:**_
+
+While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business. We may share hashes of your IP address with other third parties, but these hashes cannot feasibly be reversed into the IP addresses themselves or linked to you individually.
+
+_**Information You Elect to Share:**_
+
+Unless you opt-out to certain features on the SocialGuide website or in certain instances through your Account settings in the SocialGuide application or, you will share that content that you access and post through SocialGuide or Third Party Services, or through feeds from Third Party Services to SocialGuide. Any such information will be instantly distributed and may then become accessible to users of SocialGuide or those Third Party Services. Therefore, in addition to reviewing this Privacy Policy, you should also review the terms of services and privacy policies of such Third Party Services that you access through SocialGuide. SocialGuide respects the privacy settings/policies that you have selected with Third Party Services, and only shares information consistent with those privacy settings and policies.
+
+You may otherwise access Third Party Services through SocialGuide. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those privacy policies. This Privacy Policy only governs information collected on or through SocialGuide.
+
+We may also share this information with our business partners, customers and clients, through analytics and tools made available by SocialGuide. We share this type of data so that our partners, customers and clients can understand how and how often people use SocialGuide and their programming, content, services or websites, which facilitates improving both their services and how we interface with them.
+
+_**Aggregate Information:**_
+
+In addition to the information referenced above, we share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners, customers and clients can understand how and how often people use SocialGuide and their programming, content, services or websites, which facilitates improving both their services and how we interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
+
+_**Email Communications:**_
+
+As part of SocialGuide, you may occasionally receive from us email and other communication relating to your Account. These emails will only be sent for purposes important to SocialGuide, such as password recovery.
+
+_**User Profile Information:**_
+
+User profile information including your username, avatars or images you elect to upload and other information you enter may be displayed to other users to facilitate user interaction within SocialGuide. We will not directly reveal email addresses to other users.
+
+_**Information Shared with Our Agents:**_
+
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
+
+_**Information Disclosed Pursuant to Business Transfers:**_
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets associated with SocialGuide, were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us may continue to use your Personal Information as set forth in this policy.
+
+_**Information Disclosed for the Protection of Us and Others:**_
+
+We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam prevention.
+
+_**Information We Share With Your Consent:**_
+
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+**Is Information About Me Secure?**
+
+Your Account information is protected for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. We endeavor to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+We otherwise store all of our information, including your IP address information, using industry-standard security techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you we store, Personal Information or otherwise.
+
+**What Information of Mine Can I Access?**
+
+You can access information associated with your Account by logging into the web version of SocialGuide, or through the SocialGuide application. You can adjust settings and privacy preferences through your Account settings.
+
+Registered and unregistered users can access all of the above information.
+
+_**Opting Out:**_
+
+Your account will have certain default settings as described in this Privacy Policy. Where this Privacy Policy references your ability to opt-out of a certain function or feature you can do so on SocialGuide or in some instances through the SocialGuide application.
+
+**How Can I Delete My Account?**
+
+Should you ever decide to delete your Account, you may do so by emailing [feedback@socialguide.com](mailto:feedback@socialguide.com). If you terminate and delete your Account, any association between your Account and information stored by in connection with SocialGuide will no longer be accessible. However, given the nature of sharing using SocialGuide, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. If you would like us to remove such stored information, please send us an email at the address above.
+
+**What Choices Do I Have Regarding My Information?**
+
+  * As stated previously, you can opt not to disclose certain information to us, even though it may be needed to take advantage of some SocialGuide features. If we create a profile of you based on information from Third Party Services like Facebook and Twitter, you may request that we remove that profile, and we will honor that request.
+  * You can delete your Account or adjust your s privacy settings. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.
+
+
+
+**What Happens When There Are Changes to this Privacy Policy?**
+
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on or within SocialGuide or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses SocialGuide after such changes have been first posted.
+
+**What If I Have Questions or Concerns?**
+
+If you have any questions or concerns regarding privacy using SocialGuide, please send us a detailed message to: [privacy@SocialGuide.com](mailto:privacy@SocialGuide.com). We will make every effort to resolve your concerns.
