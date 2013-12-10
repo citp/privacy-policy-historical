@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trunkclub.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528081733id_/http%3A//www.trunkclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trunkclub.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210171827id_/http%3A//www.trunkclub.com/privacy) for the most accurate reproduction.*
 
-# Trunk Club - Privacy Policy
+# Trunk Club - Privacy
 
 Welcome to the Web site (the “Site”) of Trunk Club, Inc. (collectively with its affiliates, “Trunk Club”, “we”, “us” and/or “our”). This Site is operated by Trunk Club and has been created to provide information about our company and its services (together with the Site, the “Service(s)”) to our Service visitors (“you”, “your”). This notice describes our policy with respect personally identifiable and other information that is collected from visitors to the Site and Services. By visiting the Site or interacting with the Services, you are accepting the practices described in this Privacy Notice. 
 
