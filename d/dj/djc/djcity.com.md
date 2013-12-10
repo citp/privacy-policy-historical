@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the djcity.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130074854id_/http%3A//privacy-policy.truste.com/verified-policy/www.djcity.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djcity.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210211909id_/http%3A//privacy-policy.truste.com/verified-policy/www.djcity.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.djcity.com
 
 Effective on March 8, 2010 
 
-This privacy statement describes how DJCity, Inc. collects and uses the personal information you provide on our Web site: [www.djcity.com ](http://www.djcity.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how DJCity, Inc. collects and uses the personal information you provide on our Web site: [www.djcity.com ](https://www.djcity.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
