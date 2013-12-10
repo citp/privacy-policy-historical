@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630124336id_/http%3A//www.equestriadaily.com/2011/06/eqd-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210162633id_/http%3A//www.equestriadaily.com/2011/06/eqd-privacy-policy.html) for the most accurate reproduction.*
 
 # Equestria Daily: EQD Privacy Policy
 
@@ -26,6 +26,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Equestria Daily  
 [http://www.equestriadaily.com](http://www.equestriadaily.com/)  
-[sethisto@equestriadaily.com](mailto:sethisto@equestriadaily.com)
+[sethisto@gmail.com](mailto:sethisto@gmail.com)
 
 This document was last updated on March 19, 2013
