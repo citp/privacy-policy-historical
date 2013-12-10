@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the st.com privacy policy that was archived on 2013-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611010141id_/http%3A//www.st.com/web/en/common/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the st.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210221055id_/http%3A//www.st.com/web/en/common/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -408,6 +408,8 @@ Applications</a></strong>
                 <div class="frame-no-icon">
                    <ul class="nav-application-drop">
                        
+                           <li><a href="http://www.st.com/web/en/catalog/apps/SE411">Automation</a></li>
+                       
                            <li><a href="http://www.st.com/web/en/catalog/apps/SE409">Building Technology</a></li>
                        
                            <li><a href="http://www.st.com/web/en/catalog/apps/SE445">Communications and Networking</a></li>
@@ -427,8 +429,6 @@ Applications</a></strong>
                            <li><a href="http://www.st.com/web/en/catalog/apps/SE2">Multimedia Convergence</a></li>
                        
                            <li><a href="http://www.st.com/web/en/catalog/apps/SE423">Power Supplies and Converters</a></li>
-                       
-                           <li><a href="http://www.st.com/web/en/catalog/apps/SE411">Process Control and Automation</a></li>
                        
                            <li><a href="http://www.st.com/web/en/catalog/apps/SE3">Transportation</a></li>
                        
@@ -577,49 +577,175 @@ This policy was updated on July 8th 2005</p>
 		</div>
 		<div id="footer">
 			
+
+
 <!-- footer -->
 <div class="footer-holder">
-	<div class="footer-frame">
-		<!-- footer-content -->
-		<footer class="footer-content">
-			<!-- footer-nav -->
-			<nav class="footer-nav">
-				<ul>
-					<li>
+    <div class="footer-frame">
+        <!-- footer-content -->
+        <footer class="footer-content">
+            <!-- footer-nav -->
+            <nav class="footer-nav">
+                <ul>
+                    <li>
 
 
 
 All rights reserved ©2013 <a href="#">STMicroelectronics</a></li>
-					<li><a href="http://www.st.com/web/en/common/terms_of_use.html">
+                    <li><a href="http://www.st.com/web/en/common/terms_of_use.html">
 
 
 
 Terms of use</a></li>
-					<li><a href="http://www.st.com/web/en/common/privacy_statement.html">
+                    <li><a href="http://www.st.com/web/en/common/privacy_statement.html">
 
 
 
 Privacy Policy</a></li>
-					<!-- <li><a href="http://jobs.st.com/">Careers at ST</a></li> -->
-				</ul>
-			</nav>
-		</footer>
-	</div>
+                    <!-- <li><a href="http://jobs.st.com/">Careers at ST</a></li> -->
+                </ul>
+            </nav>
+        </footer>
+    </div>
 </div>
-<script language="JavaScript" type="text/javascript"><!--
-s_pName="common/privacy_statement.html";
-s_lang="en";
-s_siteType="Internet";
 
-document.write (
-'<img src="http://www.actonsoftware.com/acton/bn/1940/visitor.gif?ts='+
-new Date().getTime()+
-'&ref='+escape(document.referrer) + '">'
-);
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var s_level = "";
+var breadcrumb = "";
+var temp = "";
+var temp2 = "";
+var software_find = "false";
+var root_product = "false";
+var pr = $('.breadcrumbs').text().trim();
+var titlestore = "";
+var s_npName ="";
+var pagecodetemp="common/privacy_statement.html";
+if(pagecodetemp.indexOf("catalog/sense_power")!=-1){
+    pagecodetemp=pagecodetemp.replace("catalog/sense_power/","");
+    pagecodetemp=pagecodetemp.replace("catalog/sense_power","");
+    pagecodetemp=pagecodetemp.replace(/\//g,":");
+    if (pagecodetemp=="")
+        s_npName="Products:Sense & Power and Automotive Products";
+    else
+        s_npName="Products:Sense & Power and Automotive Products:"+pagecodetemp;
+}
+if(pagecodetemp.indexOf("catalog/mmc")!=-1){
+    pagecodetemp=pagecodetemp.replace("catalog/mmc/","");
+    pagecodetemp=pagecodetemp.replace("catalog/mmc","");
+    pagecodetemp=pagecodetemp.replace(/\//g,":");
+    if (pagecodetemp=="")
+        s_npName="Products:Embedded Processing";
+    else
+        s_npName="Products:Embedded Processing:"+pagecodetemp;
+}
+if(pagecodetemp.indexOf("catalog/apps")!=-1){
+    pagecodetemp=pagecodetemp.replace("catalog/apps/","");
+    pagecodetemp=pagecodetemp.replace("catalog/apps","");
+    pagecodetemp=pagecodetemp.replace(/\//g,":");
+    if (pagecodetemp=="")
+        s_npName="Applications";
+    else
+        s_npName="Applications:"+pagecodetemp;
+}
+if(pagecodetemp.indexOf("catalog/tools")!=-1){
+    pagecodetemp=pagecodetemp.replace("catalog/tools/","");
+    pagecodetemp=pagecodetemp.replace("catalog/tools","");
+    pagecodetemp=pagecodetemp.replace(/\//g,":");
+    if (pagecodetemp=="")
+        s_npName="Tools and Software";
+    else
+        s_npName="Tools and Software:"+pagecodetemp;
+}
+
+
+pr = pr.replace(/\n/g, "");
+pr = pr.replace(/  /g, "");
+pr = pr.replace("Home   ", "");
+pr = pr.replace("    ", ":");
+if (typeof s_pName == 'undefined') {
+    //product pages or application pages
+    if (s_level != ""
+            || (root_product == "true" && breadcrumb
+                    .indexOf("Applications") == -1))
+        if (s_level == "SE" || s_level == "AS" || s_level == "AC"
+                || software_find == "true")
+            s_pName = breadcrumb;
+        else
+            s_pName = "Products" + ":" + breadcrumb;
+    else {
+        //other pages that not product 
+        temp = $('.main-heading h1').text();
+        temp2 = $('.main-heading h2').text();
+        temp = temp.trim();
+        temp2 = temp2.trim();
+        //breadcrumb is empty
+        if (breadcrumb == "") {
+            s_pName = temp;
+            if (temp == "" && temp2 != "")
+                s_pName = temp2;
+            if (pr.indexOf("Events") != -1 && temp == "Events")
+                s_pName = "Events";
+            else if (pr.indexOf("Events") != -1)
+                s_pName = "Events:" + temp;
+            if (temp == "Press Release")
+                s_pName = temp + ":" + $('.press-detail h2').text().trim();
+            if (temp == "News") {
+                temp = temp.replace("News", "Newsbites");
+                s_pName = temp + ":"
+                        + $('.news-detail h1:first').text().trim();
+            }
+            if (temp == "Event")
+                s_pName = temp + ":"
+                        + $('.event-detail h2:first').text().trim();
+            if (temp == "Seminar")
+                s_pName = temp + ":"
+                        + $('.event-detail h2:first').text().trim();
+            if (temp == "eSTore")
+                if (titlestore != "")
+                    s_pName = "estore:" + titlestore;
+                else
+                    s_pName = "estore:home";
+
+        } else if (temp == breadcrumb.trim())
+            s_pName = temp;
+        else
+            s_pName = temp + ":" + breadcrumb;
+    }
+}
+
+
+if (typeof s_pName == 'undefined' || s_pName == "")
+    s_pName = "ST Home";
+
+if (s_npName=="")
+    s_npName=s_pName;
+
+s_lang = "en";
+s_siteType = "Internet";
+
+document
+        .write('<img src="http://www.actonsoftware.com/acton/bn/1940/visitor.gif?ts='
+                + new Date().getTime()
+                + '&ref='
+                + escape(document.referrer) + '">');
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 if(s_getTrackFlag()){
-var s_code=s.t();if(s_code)document.write(s_code)}//--></script><img src="http://www.actonsoftware.com/acton/bn/1940/visitor.gif?ts=1580349973401&amp;ref=">
+var s_code=s.t();if(s_code)document.write(s_code)}//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img src="http://st.d3.sc.omtrdc.net/b/ss/advstcomdev/1/H.24.4-
