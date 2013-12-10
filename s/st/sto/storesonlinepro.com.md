@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530200923id_/http%3A//www.storesonlinepro.com/store/1234/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210074504id_/http%3A//www.storesonlinepro.com/privacy-policy) for the most accurate reproduction.*
 
 # StoresOnline - Privacy Policy
 
@@ -35,7 +35,7 @@ For your convenience, our website may contain links to other sites. StoresOnline
 
 
 **Questions/Changes in Policy:**  
-If you have questions or concerns with respect to our Privacy Policy, please feel free to [contact us](http://www.storesonlinepro.com/store/1234/company/contact-us/). If elements of our Privacy Policy change, we will post the policy changes in our Privacy Policy on this website. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about StoresOnline.  
+If you have questions or concerns with respect to our Privacy Policy, please feel free to [contact us](http://www.storesonlinepro.com/company/contact-us/). If elements of our Privacy Policy change, we will post the policy changes in our Privacy Policy on this website. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about StoresOnline.  
 
 
 StoresOnline believes in providing a safe and secure experience for all of our clients. We strive to provide stringent and effective security measures on our website.  
