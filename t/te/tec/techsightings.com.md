@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsightings.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116061123id_/http%3A//techsightings.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsightings.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210211641id_/http%3A//techsightings.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy
 
