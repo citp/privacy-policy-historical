@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngsexparties.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617020613id_/http%3A//youngsexparties.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngsexparties.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210065315id_/http%3A//youngsexparties.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
