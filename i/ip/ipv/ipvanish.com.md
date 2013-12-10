@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222634id_/http%3A//ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210161643id_/http%3A//ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPVanish VPN
 
