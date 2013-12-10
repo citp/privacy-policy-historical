@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamsideline.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517004124id_/http%3A//teamsideline.com/home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsideline.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210095656id_/http%3A//www.teamsideline.com/home/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | TeamSideline.com
+# Privacy Policy | TeamSideline.com
 
 ## 1\. Completely IT Respects Your Privacy
 
