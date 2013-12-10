@@ -1,45 +1,90 @@
-> *The following text is extracted and transformed from the furniturextra.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402044648id_/http%3A//www.furniturextra.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturextra.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210132733id_/http%3A//creativefurniture.us/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy
 
-**Your Personal Information**
+## What we collect
 
-**FurnitureXtra.com**  is the sole owner of the information collected on this site. We will not sell or rent this information, nor will we share it in ways different from what is disclosed in this statement.
+We may collect the following information:
 
-**Cookies and IP Numbers**
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-**FurnitureXtra.com**  is firmly committed to customer privacy. We use your IP address simply to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. We use cookies to keep track of your shopping cart and for other purposes such as to personalize the site. If you set your browser to reject cookies you will still be able to use the  **FurnitureXtra.com**  site; however, the site will not be able to recognize your cart, your account, or any personalization.
 
-**External Links**
 
-This site contains links to other Web sites.  **FurnitureXtra.com**  is not responsible for the privacy practices or the content of such sites.
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-**Address Information**
+## What we do with the information we gather
 
-Our site uses an order form for you to request information, products and services. We collect your contact information, including, but not limited to, addresses, email addresses, phone numbers, and financial information. Collected information is used for the sole benefit of  **FurnitureXtra.com**  to send information to customers about orders, about our company, and to send promotional material from some of our partners. This information is also used for billing and to contact you when necessary.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Demographic and profile data is also collected at our site. We use this data to tailor your experiences at our site, to show you content that we think you might be interested in, and to display the content according to your preferences.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Customer information is considered to be an asset of  **FurnitureXtra.com, LLC**.
 
-You may opt out of receiving mailings; see the choice/opt-out section, below.
 
-**Surveys**
+## Security
 
-In our surveys we ask for contact information (typically an email address) and demographic information (for example, zip code, age, or income level). We use this information to send promotional material about  **FurnitureXtra.com**  products and services.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**Contests**
+## How we use cookies
 
-We run contests on our site in which we ask for contact information (typically an email address) and demographic information (for example, zip code, age, or income level). We use this information to send promotional material about  **FurnitureXtra.com  **products and services, Occasionally we send this information to our partners. If we intend to send contact information to partners, we will note this in the contest.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Security**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-This Web site takes every precaution to protect our users’ information.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-When you send sensitive information (such as your credit card number) to us via our order form that information is encrypted and protected with SSL, the current industry-standard encryption protocol. When you are on such an SSL-protected page, a picture of a closed lock appears at the bottom or top of some Web browsers. At other times this lock appears open. Another way to tell if you are on a secure page is to look at the address or URL of the page. (Look in the address box or right-click on the page and select "Properties".) These secure SSL-encrypted pages have URLs that start with  _https://_  instead of  _http://_.
+## Links to other websites
 
-If you have any questions about security at our Web site, send an email to support@FurnitureXtra.com.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Legal Disclaimer**
+## Controlling your personal information
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our Web site.
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@creativefurniture.us
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
