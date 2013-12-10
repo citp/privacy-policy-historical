@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsyourprice.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619182600id_/http%3A//www.whatsyourprice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsyourprice.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210050859id_/http%3A//www.whatsyourprice.com/privacy) for the most accurate reproduction.*
 
 # WhatsYourPrice Dating - Privacy Policy
 
