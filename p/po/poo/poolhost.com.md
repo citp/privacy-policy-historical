@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601085956id_/http%3A//poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210072617id_/http%3A//www.poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
 
-# Manage NFL Pro Football, March Madness, College Bowl Office Pools for free - PoolHost.com
+# Office Pool Manager - privacy - PoolHost.com
 
 **Privacy Statement**
 
@@ -14,24 +14,25 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-• To personalize your experience  
+  * To personalize your experience  
 (your information helps us to better respond to your individual needs)
-
-• To improve our website  
+  * To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-• To improve customer service  
+  * To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions  
 
-• To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-• To administer a contest, promotion, survey or other site feature
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails  
 
-• To send periodic emails
 
 > The email address you provide when you register will only be used to send you information and updates pertaining to your account including sending your account password when you register or use our forgotten password retreival system.
+
+
+
 
 You may receive emails from our site that include company news, updates, related product or service information, etc.
 
@@ -94,10 +95,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 12340 Seal Beach Blvd., B148  
 Seal Beach, CA 90740  
 USA  
-admin@poolhost.com  
-
-
-[Home](https://web.archive.org/web/20130601085956id_/http%3A//poolhost.com/index.asp?page=welcome.asp) - [Contact PoolHost.com](https://web.archive.org/web/20130601085956id_/http%3A//poolhost.com/index.asp?page=contact.asp) - [Help](https://web.archive.org/web/20130601085956id_/http%3A//poolhost.com/index.asp?page=help.asp) - [Links](https://web.archive.org/web/20130601085956id_/http%3A//poolhost.com/index.asp?page=links.asp) - [Blog](https://web.archive.org/blog) - [Privacy Statement](https://web.archive.org/web/20130601085956id_/http%3A//poolhost.com/index.asp?page=privacy.asp) - [Terms of Use](https://web.archive.org/web/20130601085956id_/http%3A//poolhost.com/index.asp?page=tos.asp) - [Menu List](https://web.archive.org/web/20130601085956id_/http%3A//poolhost.com/index.asp?page=menulist.asp)| copyright - © 2002-2013 PoolHost.com Inc. - All rights reserved.  
-FOR ENTERTAINMENT USE ONLY  
----  
-Server 0 - Switching ON 
+admin@poolhost.com
