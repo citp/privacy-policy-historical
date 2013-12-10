@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518210928id_/http%3A//www.tamaracinc.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210182435id_/http%3A//www.tamaracinc.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Tamarac - Legal Notice
 
-Tamarac Advisor Services, Inc. ("Tamarac," "we," or "us") takes your right to privacy seriously, and we want you to feel comfortable using the tamaracinc.com and tamaracservices.com websites (the "Sites"). This Privacy Policy deals with personally-identifiable information (referred to as "data" below) that may be collected by or through the Sites or Tamarac. This policy does not apply to other entities that are not owned or controlled by Tamarac, nor does it apply to people that are not employees or agents of Tamarac or that are not under Tamarac's control. In addition to this Privacy Policy, you should read the general [Terms of Use](https://web.archive.org/web/20130518210928id_/http%3A//www.tamaracinc.com/Legal.aspx) for the Sites. 
+Tamarac Inc. ("Tamarac," "we," or "us") takes your right to privacy seriously, and we want you to feel comfortable using the tamaracinc.com and tamaracservices.com websites (the "Sites"). This Privacy Policy deals with personally-identifiable information (referred to as "data" below) that may be collected by or through the Sites or Tamarac. This policy does not apply to other entities that are not owned or controlled by Tamarac, nor does it apply to people that are not employees or agents of Tamarac or that are not under Tamarac's control. In addition to this Privacy Policy, you should read the general [Terms of Use](https://web.archive.org/Legal.aspx) for the Sites. 
 
 Please note that certain details of this Privacy Policy may depend on whether you deal with us through an investment professional or directly as an individual investor. 
 
@@ -30,7 +30,7 @@ We collect personal information to provide the products and services offered thr
     * Enforcing our Terms of Use and other policies; and 
     * Providing you with opportunities to provide us with feedback. 
   
-We may retain information collected from closed accounts to comply with law and our agreements with third parties, such as investment professionals. 
+We may retain information collected from closed accounts to comply with law and our agreements with third parties, such as your investment professionals. 
 
 In addition, we may develop, use, distribute and publish information and statistics derived from your data and the content that you contribute to any Site for use on a masked, aggregate basis. This particular use of your data and content will not result in the distribution or publication of any personally identifiable information. 
 
@@ -38,13 +38,15 @@ In addition, we may develop, use, distribute and publish information and statist
 
 We safeguard personal information in accordance with commercially reasonable security measures. We have implemented physical and electronic safeguards to help protect personal information against loss, misuse and interception. We make extensive use of firewall barriers and authentication procedures to maintain the security of your online session and to protect customer accounts and systems from unauthorized access. We also restrict access to personal information to those who require it to develop, support, offer and deliver products and services to you. 
 
-We will take commercially reasonable steps to prevent your data from being made available to third parties, unless (a) you post the data to a public portion of the Sites or include the data in a public profile; (b) provided for otherwise in this Privacy Policy; (c) your consent is obtained, such as opting-in or opting-out for the sharing of data; (d) a service provided on the Sites requires interaction with a third party or is provided by a third party, such as your investment professional; (e) provided pursuant to legal action or law enforcement; (f) it is found that your use of any Site violates the this Privacy Policy, the Terms of Use or other usage guidelines or if it is deemed reasonably necessary by Tamarac to protect its legal rights and/or property; or (g) the Sites are purchased by a third party, in which case that third party will be able to use the data in the same manner as set forth in this Privacy Policy. 
+We will take commercially reasonable steps to prevent your data from being made available to third parties, unless (a) you post the data to a public portion of the Sites or include the data in a public profile; (b) provided for otherwise in this Privacy Policy; (c) your consent is obtained, such as opting-in or opting-out for the sharing of data; (d) a service provided on the Sites requires interaction with a third party or is provided by a third party, such as your investment professional; (e) provided pursuant to legal action or law enforcement; (f) to the extent reasonably necessary to protect Tamarac’s or another user’s legal rights and/or property; or (g) the Sites are purchased by a third party, in which case that third party will be restricted in the use of the data in the same manner as set forth in this Privacy Policy 
 
   4. **Website Usage**
 
 We may use devices known as "cookies," graphic interchange format files (GIFs) or other similar web tools. This allows us to personalize your use of the Sites. These web tools do not identify you by name as an individual or by account number. In order to maximize the functionality and usability of the Sites, you must set your browser’s preferences to allow both permanent and temporary cookies. The Sites also use session (temporary) cookies, which are deleted when you log out of the Sites or browse to a different site. If you do not want to accept these session cookies, you should refer to the instructions for your specific Internet browser. If you do not accept cookies from the Sites, we may not be able to deliver certain services to you. 
 
 We may use third-party service providers to help us analyze the Sites. These third-parties may use cookies to help the Sites analyze how users use the Sites. The information generated by these cookies about your use of the Sites (including your IP address) may be transmitted to and stored by the third party on its servers. This information will be used to evaluate your use of the Sites, compile reports on activity for the Sites and provide other services relating to activity for the Sites and Internet usage. 
+
+The Sites do not respond to web browser “do-not-track” signals and similar mechanisms. 
 
   5. **Changes to this Privacy Policy**
 
@@ -60,7 +62,7 @@ While this Privacy Policy states standards for the maintenance of data, and whil
 
   8. **Contact Information**
 
-If you have any questions about this Privacy Policy or about the Sites, please contact us at [info@tamaracinc.com](mailto:info@tamaracinc.com). 
+If you have any questions about this Privacy Policy or about the Sites, please contact us at [TamaracSupport@envestnet.com](mailto:TamaracSupport@envestnet.com). 
 
 
 
