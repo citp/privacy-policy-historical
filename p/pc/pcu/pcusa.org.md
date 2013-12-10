@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606221907id_/http%3A//www.pcusa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcusa.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210133040id_/http%3A//www.pcusa.org/privacy) for the most accurate reproduction.*
 
 # Presbyterian Church (U.S.A.) - Privacy policy
 
-Give now to support Presbyterian Disaster Assistance's work in Oklahoma. [Give now](https://web.archive.org/give/make-a-gift/DR000015/?appeal=PDA&package=SS13-AB) → [✖]()
+GIVE NOW to support Presbyterian Disaster Assistance’s response to Super Typhoon Haiyan. [Donate now](https://www.presbyterianmission.org/donate/make-a-gift/DR000012/?appeal=PDA&package=TH13-AB) → 
 
 ## Privacy policy
 
