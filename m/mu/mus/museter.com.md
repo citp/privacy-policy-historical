@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the museter.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506063901id_/http%3A//www.museter.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museter.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210235059id_/http%3A//www.museter.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Museter Online Radio Shoutcast Streams
+# Museter Internet Radio Hosting
 
 This Privacy Policy governs the manner in which Museter collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.museter.com](http://www.museter.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Museter.
 
