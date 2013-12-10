@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611034402id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210215854id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Natural and alternative health and wellness mega-site
 
@@ -26,26 +26,6 @@ HealthWorld Online uses a secure server for any ordering and credit card informa
 
 |   
 ---  
-**"Walking is the best medicine."**  
+**"It's supposed to be a professional secret, but I'll tell you anyway. We doctors do nothing. We only help and encourage the doctor within."**  
   
 | 
-
-Simply Well
-
-| [Explore Healing Music and Sounds](https://web.archive.org/scr/Column.aspx?Id=516)  
----  
-In the Greek myth of Orpheus, we find a powerful testimony to the power of music. Throughout his journey in the underworld, Orpheus played his lyre and sang. His music pacified the dark forces, bringing... [ more](https://web.archive.org/scr/Column.aspx?Id=516)  
-  
-The Nut Gourmet
-
-[Cool Quinoa Salad](https://web.archive.org/scr/Column.aspx?Id=1072)  
----  
-A delicious, eye-appealing salad for a hearty family meal or the buffet table, this colorful medley of quinoa, broccoli, black beans, and fresh dill counts on toasted pecans to add the finishing touch.... [ more](https://web.archive.org/scr/Column.aspx?Id=1072)  
-  
-Healthy Hair
-
-[Not All Hair Dryers Are Created Equal](https://web.archive.org/scr/column.aspx?Id=1302)  
----  
-Over the years when consulting with new clients I have often heard the same complaint; "why is my hair so dry?" Nearly always the cause is the result of blow dryer burn, caused by using low-cost made blow... [ more](https://web.archive.org/scr/column.aspx?Id=1302)  
-  
-[ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1145)
