@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkrally.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219070016id_/http%3A//www.bookmarkrally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkrally.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210052818id_/http%3A//www.bookmarkrally.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BookmarkRally.com : Largest social bookmarking community website for search engine optimization | Social bookmarking service for quality bookmarks & improved search engine ranking
 
