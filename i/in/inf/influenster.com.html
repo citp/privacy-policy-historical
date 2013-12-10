@@ -1,8 +1,28 @@
-<!--The following is the downloaded HTML source of the influenster.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629014550id_/http%3A//www.influenster.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the influenster.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210154708id_/http%3A//www.influenster.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <style>
+ .go-top {
+    width: 40px;
+    height: 40px;
+    text-indent: -9999px;
+    opacity: 0.3;
+    position: fixed;
+    bottom: 20px;
+    right: 26px;
+    display: none;
+    background: url('/images/icon_top.png') no-repeat;
+}
+
+.go-top:hover {
+    width: 40px;
+    height: 40px;
+    text-indent: -9999px;
+    opacity: 0.3;
+    position: fixed;
+    opacity: 0.8;
+}
 .navbar-fixed-top {
     top: 0;
 }
@@ -278,14 +298,19 @@ font-size:16px !important;
     min-width: 74px !important;
 }
 
-    
+.navbarFix{
+    background-color: #ffffff; padding-right: 63px;
+} 
+.navbarPillsFix{
+    margin-top: 4px;
+}
 </style>
 
     
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="robots" content="index, follow">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-                <title> Influenster.com </title>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="robots" content="index, follow">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <title> Influenster.com </title>
         <link rel="shortcut icon" href="/images/favicon.ico">
         
             <link rel="stylesheet" type="text/css" media="screen" href="http://d2tobd9t7wik5q.cloudfront.net/iweb/css/master.css">
@@ -298,41 +323,11 @@ font-size:16px !important;
 <script type="text/javascript" src="/js/custome.js"></script>
 <script type="text/javascript" src="/js/pages/about.js"></script>
 <script type="text/javascript" src="/js/jquery.tab.js"></script>
-       
-<!--
+    
 <script>
-// Edit to suit your needs.
-var ADAPT_CONFIG = {
-  // Where is your CSS?
-  path: '/css/',
 
-  // false = Only run once, when page first loads.
-  // true = Change on window resize and page tilt.
-  dynamic: true,
-
-  // First range entry is the minimum.
-  // Last range entry is the maximum.
-  // Separate ranges by "to" keyword.
-  range: [
-     
-    '0px    to 760px  = mobile.css',
-    '760px            = master.css'
-   
-  ]
-};
-</script>
--->
-
-
-<script>
-/*
-*BALLON 
-*Erdal C
-*/
 $(document).ready(function(){ 
-
-	$("img")
-.error(function(){
+$("img").error(function(){
 	$(this).attr("src","/img/noimg.png"); //error image change
     });
     
@@ -358,6 +353,21 @@ $('.has-title').hover(
 
 <script type="text/javascript">
    $(document).ready(function() {
+       $(window).scroll(function() {
+                    if ($(this).scrollTop() > 200) {
+			$('.go-top').fadeIn(200);
+                        } else {
+			 $('.go-top').fadeOut(200);
+			    }
+			});
+			
+                    // Animate the scroll to top
+                    $('.go-top').click(function(event) {
+                            event.preventDefault();
+
+                            $('html, body').animate({scrollTop: 0}, 300);
+                    });
+   
    $(".twitter")
         .mouseenter(function() {     
           $(this).attr("src", function() { 
@@ -518,35 +528,36 @@ div.gbold{width:50px; }
 
     <body id="">
         <!-- top, navigator etc. -->
-        <div class="navbar navbar-fixed-top navbar-text">
+        <div class="navbar navbar-fixed-top navbar-text" id="nav">
        <div class="navbar-inner masthead ">
             <div class="headermenu container-narrow">
                 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> 
 
             
-<a class="brand" href="/"><img src="http://d2tobd9t7wik5q.cloudfront.net/images/logo.png"></a>
-                <div class="nav-collapse" id="menu" style="background-color: #ffffff; padding-right: 63px;">
-                     <ul class="nav nav-pills pull-right navtop menu" style="margin-top: 4px;">
 
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/reviews">Reviews</a></li>
-                        <li><a style="color:#B0317B;background-color:transparent;text-decoration:none;" href="/about">About</a></li>
-                        <li><a href="/happenings">Happenings</a></li>
-                                                <li> <a href="/badges">Badges</a></li>
-                         <li class="last gbold">
-			   
-
-                                 
+                
+            <a class="brand" href="/"><img src="http://d2tobd9t7wik5q.cloudfront.net/images/logo.png"></a>
+            <div id="menu" class="nav-collapse navbarFix">
+                
+             <ul class="nav nav-pills pull-right navtop menu" style="margin-top: 4px;">
+                <li><a href="/">Home</a></li>
+                <li><a href="/reviews">Reviews</a></li>
+                <li><a style="color:#B0317B;background-color:transparent;text-decoration:none;" href="/about">About</a></li>
+                <li><a href="/happenings">Happenings</a></li>
+                                <li> <a href="/badges">Badges</a></li>
+                <li class="last gbold">
+         
 <!--                <button onclick="parent.location='/login'" class="btnlogin btn-small gbold-button" data-toggle="dropdown">
-                                <a  href="/login">Log In</a><span class="caret"></span></button>-->
-                                                          
-                                  
+                        <a  href="/login">Log In</a><span class="caret"></span></button>-->
+                        
+                          
 
 
-             <a href="/login">Login</a>                        </li>
+     <a href="/login">Login</a>                </li>
 
-                      </ul>
-                 </div>
+              </ul>
+         </div>
+    
              </div>
         </div>
     </div>
@@ -616,7 +627,7 @@ EFFECTIVE AS OF April 22, 2012</h3>
 <p>We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement, sending you an email, or updating the Privacy Policy on the site. You are encouraged to review the Privacy Policy from time to time in the event changes have been made. Users are bound by any changes to the Privacy Policy when they use the Service after such changes have been first posted.</p></div>
 
 <div class="section"><h3 class="gbold color">QUESTIONS OR CONCERNS</h3>
-<p>If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: admin@influenster.com. We will make every effort to resolve your concerns.</p></div></div>
+<p>If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: news@influenster.com. We will make every effort to resolve your concerns.</p></div></div>
         
             </div>
             <div class="clear-fix"></div>    
@@ -629,6 +640,7 @@ EFFECTIVE AS OF April 22, 2012</h3>
 
             <!-- footer -->
             <div id="footer">
+                <a href="#" class="go-top">Go Top</a>
                 <div class="footer-logo">
                     <a href="#">
                         <img alt="Influenster.com" width="167" height="37" src="/images/footer-logo.png">
@@ -641,7 +653,7 @@ EFFECTIVE AS OF April 22, 2012</h3>
                         <li><a href="http://twitter.com/influenster" rel="external"><img alt="Influenster Facebook" width="60" height="32" class="twitter" src="/images/icon-twitter.png"></a></li>
                         <li><a href="http://www.facebook.com/Influenster" rel="external"><img alt="Influenster Twitter" width="60" height="32" class="facebook" src="/images/icon-facebook.png"></a></li>
                         <li><a href="http://pinterest.com/influenster/" rel="external"><img alt="Influenster Pinterest" width="60" height="32" class="pinterst" src="/images/icon-pinterest.png"></a></li>
-                        <li><a href="https://plus.google.com/116322248095798705095/posts" rel="external"><img alt="Influenster Google Plus" width="60" height="32" class="pluse" src="/images/icon-google.png"></a></li>
+                        <li><a href="https://plus.google.com/116322248095798705095" rel="publisher"><img alt="Influenster Google Plus" width="60" height="32" class="pluse" src="/images/icon-google.png"></a></li>
                         <li><a href="http://www.youtube.com/user/Influenster" rel="external"><img alt="Influenster Youtube" width="60" height="32" class="youtube" src="/images/icon-youtube.png"></a></li>
                     </ul>
                 </div>
