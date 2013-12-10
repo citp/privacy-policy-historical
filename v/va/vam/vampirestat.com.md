@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vampirestat.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529200154id_/http%3A//vampirestat.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vampirestat.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210021352id_/http%3A//vampirestat.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy | Vampirestat.com | Domain appraisal service?
 
