@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteproperties.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602010901id_/http%3A//websiteproperties.com/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteproperties.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210063748id_/http%3A//websiteproperties.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
