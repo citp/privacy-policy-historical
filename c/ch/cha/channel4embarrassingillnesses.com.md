@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channel4embarrassingillnesses.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160407id_/http%3A//www.channel4.com/4viewers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel4embarrassingillnesses.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061052id_/http%3A//www.channel4.com/4viewers/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Channel 4 - 4viewers
 
@@ -40,7 +40,7 @@ Channel 4's privacy principles in respect of how it collects, uses and manages y
 
 
 
-Registering with our Digital Products and Services gives you access to a growing number of benefits, such as access to all our programmes on 4oD. Asking for your name means we know how to talk to you. Knowing your date of birth helps us give you better recommendations of Channel 4 programmes, and also, together with your postcode, address and gender, helps us offer you more relevant advertising.
+Registering with our Digital Products and Services gives you access to a growing number of benefits, such as access to all our programmes on 4oD. Asking for your name means we know how to talk to you. Knowing your date of birth helps us give you better recommendations of Channel 4 programmes, and also, together with your address and gender, helps us offer you more relevant advertising.
 
   * We are clear on what data we hold and what we do with it. 
 
@@ -86,7 +86,7 @@ Channel 4 may collect and hold the following information about you:
 
 
 
-On registration with Channel4.com, we currently ask for your first and surname, your email address, date of birth, gender and a password. We also ask you to provide us with some additional,voluntary information when you register – namely, your house number and postcode. Knowing a little more about you means that we are able to tailor the advertising we present to you. This helps us to generate more money from our online advertising, which goes back into creating great content for you to enjoy for free. Occasionally, we may also use your house number and postcode to tell you about relevant Channel 4 events in your area that you might be interested in.
+On registration with Channel4.com, we currently ask for your first and surname, your email address, date of birth, gender and a password. We also ask you to provide us with some additional,voluntary information when you register – namely, your address. For some of our Digital Products and Services, like Download, you will be asked to provide us with your address (if you haven't alrady done so) before you can access these services. Knowing a little more about you means that we are able to tailor the advertising we present to you. This helps us to generate more money from our online advertising, which goes back into creating great content and services (like Download, for example) for you to enjoy for free. If you do not want to receive tailored advertising on Channel 4's Digital Products and Services, you can change your advertising preferences by visiting 'My Account' on Channel4.com. See "How can I manage my Advertising Preferences?" below for more information. HOwever, you will still see the same number of adverts but they will be the ones that appear as standard and won't be as relevan to you. Occasionally, we may also use your address to tell you about relevant Channel 4 events in your area that you might be interested in.
 
 We may also ask you for other information from time to time, when you enter a competition, for example. This might include your full address and contact telephone number, for example, so that we can make sure a competition prize gets to you if you’re a winner.
 
@@ -102,7 +102,7 @@ Cookies are very useful and do lots of different jobs that help to make your exp
 
 If advertisers want to advertise to you, or people like you, using Channel 4's Digital Products and Services they may provide us with information about you to help us target their advertising.
 
-We may also obtain additional information about you from other reputable data sources. The data these companies might hold about you has been collected from publicly available records, such as the electoral roll, or via a range of sources with your permission (such as surveys or where you have agreed, via opt-in, for your information to be shared with third parties). We may check our registered viewer database against the information they hold on their systems to see if there are any matched individuals. If there is a match, we can collect and store some of this additional information (which may include statements about your lifestyle and interests) in our database and use it to further enhance our understanding of the types of products and services you might be interested in.
+We may also obtain additional information about you from other reputable data sources. The data these companies might hold about you has been collected from publicly available records, such as the electoral roll, or via a range of sources with your permission (such as surveys or where you have agreed, via opt-in, for your information to be shared with third parties). We may check our registered viewer database against the information they hold on their systems to see if there are any matched individuals. If there is a match, we can collect and store some of this additional information (which may include statements about your lifestyle and interests) in our database and use it to further enhance our understanding of the types of products and services you might be interested in. If you do not want us to obtain this additional lifestyle information from these reputable data sources, as described above, you can change your matching preferences by visiting 'My Account' on Channel4.com. See **"How can I manage my Advertising Preferences?"** below for more information.
 
   * Information from our web servers' logs, such as IP addresses. 
 
@@ -164,10 +164,17 @@ This policy only applies to our use of your information via the Channel 4 Digita
 
 Equally, it is important to note that when you access Channel 4’s Digital Products and Services via a social networking site, such as Facebook or Twitter, that site may also collect and use your information. So, we would advise you to check the privacy policies for those social networking sites and applications to see how your information is being used.
 
-**What about third party advertisements?**
+**How can I manage my Advertising Preferences?**
 
-Channel 4 may use third party advertising networks and servers to provide the advertisements which you see on our Digital Products and Services.   
-Cookies may be placed on your device by our third party service providers which remember that you have visited a website in order to provide you with targeted adverts which are more relevant to you and your interests. This is often called online behavioural advertising (OBA) (also known as ‘behavioural targeting’ or ‘interest based advertising’) and is done by grouping together shared interests based upon previous web browsing activity. Advertising may then be displayed to you when you visit Channel 4’s Digital Products and Services which matches these interests. Your web browsing behaviour can also be used to infer things about you, such as your age and gender, which Channel 4 might use to provide more relevant advertising to you on our Digital Products and Services. 
+If you do not want Channel 4 to match your information with data held by reputable data sources, as explained above, you can ask us not to by **changing your matching preferences** in ‘My account’ on Channel4.com. This means that Channel 4 will exclude your details from the data that is matched against information held by the relevant data source and, if relevant, will delete any lifestyle or other information previously obtained from data sources from our registered viewer database.
+
+You can also choose not to receive tailored commercial advertising on our Digital Products and Services by **changing your personalisation preferences** in ‘My account’ on Channel4.com. Please remember that you will still see the same number of adverts but they will be the ones that appear as standard and won’t be as relevant to you. Due to the way that our systems are set up, it can take up to 48 hours for a change in personalisation preferences to take effect. Please note that you can’t manage third party online behavioural advertising or information processed through the use of cookies by changing your personalisation preferences. For information about third party online behavioural advertising and cookies, see ‘ **What about third party behavioural advertising** ’ below.
+
+**What about third party behavioural advertising?**
+
+Channel 4 may use third party advertising networks and servers to provide some of the display advertisements which you see on our Digital Products and Services.
+
+Cookies may be placed on your device by our third party service providers which remember that you have visited a website in order to provide you with targeted adverts which are more relevant to you and your interests. This is often called online behavioural advertising (OBA) (also known as ‘behavioural targeting’ or ‘interest based advertising’) and is done by grouping together shared interests based upon previous web browsing activity. Advertising may then be displayed to you from these third parties when you visit Channel 4’s Digital Products and Services which matches these interests. 
 
 Personalised retargeting is another form of OBA that enables our advertiser partners to show you ads based on your online browsing away from Channel 4 websites. For example, if you visited the website of an online travel company you may start seeing adverts from the same travel company displaying special offers or showing you the products that you were browsing when you come to our websites. This allows companies to advertise to people who previously visited their website. 
 
@@ -233,4 +240,4 @@ All subject access requests should be made in writing and addressed to Channel 4
 
 Our privacy policy may change from time to time. Any changes we may make to our privacy policy in the future will be posted on this page, and, where appropriate, notified to you by email.
 
-Last updated 10 May 2013
+Last updated 25 July 2013
