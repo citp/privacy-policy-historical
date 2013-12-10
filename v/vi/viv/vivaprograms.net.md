@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivaprograms.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602011612id_/http%3A//www.vivaprograms.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaprograms.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210115558id_/http%3A//www.vivaprograms.net/privacy.html) for the most accurate reproduction.*
 
-# privacy » Nulled Scripts,Full Nulled PHP Scripts download for webmasters,wordpress joomla templates
+# privacy » Nulled Scripts,Full Nulled PHP Scripts download for webmasters
 
 ## privacy
 
