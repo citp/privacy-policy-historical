@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501114600id_/http%3A//www.dailyrazor.com/%3Fpage_id%3D389) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210034220id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at DailyRazor.com
 
-## [Privacy Policy](http://www.dailyrazor.com/privacy-policy "Permalink to Privacy Policy")
+## [Privacy Policy](http://www.dailyrazor.com/privacy-policy/ "Permalink to Privacy Policy")
 
 DailyRazor Hosting (hereafter referred to as DailyRazor) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
