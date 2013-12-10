@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffickahuna.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530100150id_/http%3A//traffickahuna.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffickahuna.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210121733id_/http%3A//traffickahuna.com/legal/privacy.php) for the most accurate reproduction.*
 
 # 
 
