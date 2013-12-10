@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldweatheronline.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227095326id_/http%3A//worldweatheronline.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldweatheronline.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210113019id_/http%3A//www.worldweatheronline.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
