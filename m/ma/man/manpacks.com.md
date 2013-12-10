@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manpacks.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606144942id_/http%3A//www.manpacks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpacks.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210231932id_/http%3A//www.manpacks.com/about/privacy) for the most accurate reproduction.*
 
 # Manpacks respects your privacys
 
