@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ereleases.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230090139id_/http%3A//www.ereleases.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereleases.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210120124id_/http%3A//www.ereleases.com/privacy.html) for the most accurate reproduction.*
 
 # eReleases :: Privacy Statement
 
-Please watch this page for updates or changes to our privacy statement. 
+#### Please watch this page for updates or changes to our privacy statement.
 
 This privacy statement was last updated on November 29, 2004. MEK Enterprises LLC (dba eReleases) has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, www.ereleases.com and www.prfuel.com. 
 
@@ -24,7 +24,7 @@ MEK Enterprises LLC (dba "eReleases") abides by the safe harbor framework as set
 
 Questions regarding this statement should be directed to the MEK Enterprises LLC (dba eReleases) site coordinator by sending an email message to sales@ereleases.com or writing to us at the following address: 
 
-5022 Campbell Blvd., Suite N   
+5024 Campbell Blvd., Suite D   
 Baltimore, MD 21236 
 
 To return to the MEK Enterprises LLC (dba eReleases) home page, please click here: [http://www.ereleases.com](http://www.ereleases.com/). 
