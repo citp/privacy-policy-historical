@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supload.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603090336id_/http%3A//www.supload.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supload.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211054037id_/http%3A//www.supload.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Supload.com - Free Image Hosting, Free Audio Hosting, Free Music Hosting, Free Video Hosting, Ringtone Hosting, Free Movie Hosting
 
