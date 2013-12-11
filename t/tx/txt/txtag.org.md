@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the txtag.org privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229141146id_/http%3A//www.txdot.gov/about_us/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtag.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211220223id_/http%3A//www.txdot.gov/inside-txdot/contact-us/privacy-security.html) for the most accurate reproduction.*
 
-# Privacy and Security Policy
+# Privacy Policy
 
 This web site is an official Texas Department of Transportation (TxDOT) computer system operated for authorized use only and provided as a public service. This policy describes TxDOT’s privacy and security practices regarding information collected from visitors to the site, including what information is collected and how that information is used.
 
@@ -16,7 +16,7 @@ This site is monitored to ensure proper operation, to verify the function of app
 
 **To read or download information:**
 
-We may collect and store the number of visitors to the site for statistical purposes. We may count the number of visitors to the different sections of our site, for example, to help us make them more useful to visitors. This information is also gathered for anonymous File Transfer Protocol (ftp), remote account login, or for other comparable connections. 
+We may collect and store the number of visitors to the site for statistical purposes. We may count the number of visitors to the different sections of our site, for example, to help us make them more useful to visitors. This information is also gathered for anonymous File Transfer Protocol (ftp), remote account login, or for other comparable connections.
 
 **To send us e-mail:**
 
@@ -34,4 +34,4 @@ The TxDOT site may use cookies to provide interactive pages, such as web-based f
 
 All information collected or maintained by TxDOT is subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code). The identity of most members of the public who communicate with state agencies through the Internet is confidential under Texas law. Exceptions to confidentiality may be reviewed at Texas Government code, Section 552.137.
 
-TxDOT complies with the [State Web Site Link and Privacy Policy](http://www.dir.state.tx.us/standards/link_policy.htm). TxDOT encourages organizations that link to this web site to comply with the provisions of the State Web Site Link and Privacy Policy, especially regarding protection of the privacy rights of individuals, and to make reasonable efforts to provide accessible sites.
+TxDOT complies with the [State Web Site Link and Privacy Policy](http://www.dir.texas.gov/pubs/pages/weblink-privacy.aspx). TxDOT encourages organizations that link to this web site to comply with the provisions of the State Web Site Link and Privacy Policy, especially regarding protection of the privacy rights of individuals, and to make reasonable efforts to provide accessible sites.
