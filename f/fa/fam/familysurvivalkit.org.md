@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familysurvivalkit.org privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611003121id_/http%3A//familysurvivalkit.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familysurvivalkit.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211220727id_/http%3A//www.familysurvivalkit.org/privacy.php) for the most accurate reproduction.*
 
 # Family Survival Kit
 
@@ -7,6 +7,14 @@ FamilySurvivalKit.org respects the privacy of all its users and is committed to 
 This Privacy Policy explains FamilySurvivalKit.org treatment of your personally identifiable information collected in connection with your activities on the web site. 
 
 **1\. COLLECTION OF YOUR PERSONAL INFORMATION** FamilySurvivalKit.org will not collect or use any information about the visitors to the Web Site and your visit to the Web Site is anonymous. The only exception is when we will need information that personally identifies in order to fulfill a contractual obligation towards you pursuant to what is set forth in section 2 below. 
+
+**Email Usage**
+
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc. 
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by (please enter the opt-out or unsubscribe process here. This may be something like clicking the unsubscribe button at the bottom of your emails, or sending an email to unsubscribe@yourdomain.com, etc.). 
 
 **2\. CONTRACTUAL OBLIGATION** If you make a purchase from the Web Site, you will be asked to provide your name, email and payment information. We may use information collected in the following ways: 
 
@@ -29,4 +37,4 @@ We may disclose and use personally identifiable information in special circumsta
 
 **5\. CHANGES TO THIS POLICY** FamilySurvivalKit.org may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy. 
 
-6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20130611003121id_/http%3A//familysurvivalkit.org/contact.php). 
+6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/web/20131211220727id_/http%3A//www.familysurvivalkit.org/contact.php). 
