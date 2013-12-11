@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the internet-khazana.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611065313id_/http%3A//www.internet-khazana.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-khazana.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211063723id_/http%3A//www.internet-khazana.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## [Privacy Policy](http://www.internet-khazana.com/blog/privacy-policy/ "Privacy Policy")
+## Privacy Policy
 
 ## Contact US : admin@Internet-Khazana.com
 
