@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theahl.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603035119id_/http%3A//theahl.com/privacy-policy-p137632) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theahl.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211115045id_/http%3A//theahl.com/privacy-policy-p137632) for the most accurate reproduction.*
 
-# TheAHL.com | The American Hockey League | Home Page
+# Privacy Policy | The American Hockey League
 
 **_Last Updated: October 2012_**
 
