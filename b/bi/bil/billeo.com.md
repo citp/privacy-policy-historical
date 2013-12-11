@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509192424id_/http%3A//www.billeo.com/web/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211190024id_/http%3A//www.billeo.com/web/privacypolicy) for the most accurate reproduction.*
 
 # Billeo, Inc. Privacy Policy - Billeo Inc.
 
@@ -74,16 +74,16 @@ Billeo, Inc. does not sell, rent or trade your personal information to third par
 We share your information with Merchants with whom you are purchasing a product, so that they may:
 
   * Complete the Purchase
+  * Processing credit card payments
   * Fulfill orders
   * Deliver packages
   * Schedule and perform installations
   * Service products
   * Conduct research and analysis
-  * Apply for credit cards and processing credit card payments
 
 
 
-We also share some of your information with the entities such as a shopping site, mobile app, or other service through which you accessed the Billeo Services.  These entities will receive information on your purchases, what payment instruments you have used, and other purchase related information, except of payment details.  They will not receive from us any of the secure payment details that you have explicitly shared with Billeo.
+We also share some of your information with the entities such as a shopping site, mobile app, or other service through which you accessed the Billeo Services.  These entities will receive information on your purchases, what payment instruments you have used, and other purchase related information, except for payment details.  They will not receive from us any of the secure payment details that you have explicitly shared with Billeo.
 
 Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it’s necessary to comply with the law. We may also share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of Billeo, our customers, or others; to prevent harm or loss; or in connection with an investigation of suspected or actual unlawful activity.
 
