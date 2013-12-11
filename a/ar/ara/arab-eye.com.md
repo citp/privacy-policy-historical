@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arab-eye.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620202538id_/http%3A//info.yahoo.com/privacy/xe/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arab-eye.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212001254id_/http%3A//info.yahoo.com/privacy/xe/yahoo) for the most accurate reproduction.*
 
-# Yahoo! Privacy Policy
+# Yahoo! Privacy Center
 
 ## WHAT THIS PRIVACY AND COOKIE POLICY COVERS
 
@@ -109,7 +109,7 @@ Return to top
 
 ## QUESTIONS OR SUGGESTIONS
 
-If you have questions or suggestions complete a [feedback form](http://help.yahoo.com/fast/help/uk/privacy/cgi_feedback). 
+If you have questions or suggestions complete a [feedback form](http://io.help.yahoo.com/contact/index?locale=en_JO&y=PROD_ACCT&page=contact). 
 
 Last updated: August 14, 2010
 
