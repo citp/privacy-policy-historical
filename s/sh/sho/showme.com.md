@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showme.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611232119id_/http%3A//www.showme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showme.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211200004id_/http%3A//www.showme.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - ShowMe Online Learning
 
