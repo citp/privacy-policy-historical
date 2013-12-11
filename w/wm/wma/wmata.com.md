@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623234945id_/http%3A//www.wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211061825id_/http%3A//www.wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.*
 
 # Metro - About Metro - Privacy and Data Use Policy
 
-Outlined below is Metro's privacy policy governing personal data collected on this website. Metro also has a broader [corporate privacy policy](https://web.archive.org/about_metro/parp_docs/pi_9_2_0.pdf) protecting the privacy of individuals who are the subjects of records maintained in Metro [systems of records](https://web.archive.org/about_metro/sorn_documents.cfm). Metro interprets and applies this privacy policy consistent with the federal Privacy Act, 5 U.S.C. § 552a, and federal practice.
+Outlined below is Metro's privacy policy governing personal data collected on this website. Metro also has a broader [corporate privacy policy](https://web.archive.org/about_metro/parp_docs/pi_9_2_0.pdf) protecting the privacy of individuals who are the subjects of records maintained in Metro's [systems of records](https://web.archive.org/about_metro/sorn_documents.cfm). Metro interprets and applies this privacy policy consistent with the federal Privacy Act, 5 U.S.C. § 552a, and federal practice.
 
 ## Summary
 
 Metro respects your privacy. We collect personal data online only if you buy from us online, subscribe to our email subscription service or apply for a job online. If so, we use this information only for fulfilling your requests. We do not lease, sell or otherwise release your personal information to outside companies for marketing purposes. Metro contractors may collect personal data in order to provide contracted services. These contractors are bound by Metro's privacy policy.
 
 If you do not supply personal information for one of the purposes listed above, we make no attempt to identify you individually. Rather, we track only aggregate usage data to help us improve site content and organization. The policy details section below specifies what information we collect and how we use it.
+
+If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/about_metro/contact_us/ridercomment.cfm). 
 
 ## Policy Details
 
@@ -38,7 +40,7 @@ The information collected allows us to see trends in usage: the most commonly vi
 
 Cookies are small files that can be placed on your computer by Web servers when you visit a site. These files may contain information such as ID's and passwords, personal information or preferences. During your visit, the server can access these files to help personalize pages or allow you to effect e-commerce more easily. 
 
-Metro does not set cookies from any page in the wmata.com domain that store personally identifiable information with the exception of the Trip Planner. The [Trip Planner](https://web.archive.org/rider_tools/tripplanner/tripplanner_form_solo.cfm) stores your input fields and locations as cookies, so if you plan additional trips during your visit to our website, the input fields will already be filled-in for your convenience. Our e-commerce and vendor registration sites set cookies with login information, but only for the convenience of customers who use these areas repeatedly. If you are concerned about privacy, you may set up your browser not to accept cookies or you can delete them from your hard drive once you leave that section of the website.
+Metro does not set cookies from any page in the wmata.com domain that store personally identifiable information with the exception of the Trip Planner. The [Trip Planner](https://web.archive.org/rider_tools/tripplanner/tripplanner_form_solo.cfm) stores your input fields and locations as cookies, so if you plan additional trips during your visit to our website, the input fields will already be filled in for your convenience. Our e-commerce and vendor registration sites set cookies with login information, but only for the convenience of customers who use these areas repeatedly. If you are concerned about privacy, you may set up your browser not to accept cookies or you can delete them from your hard drive once you leave that section of the website.
 
 ### Personal Information Collected
 
@@ -75,6 +77,4 @@ Note that the links we provide to outside sites are offered for your convenience
 
 All images and text on the Metro website are copyrighted by Metro and are protected by applicable laws. Anyone wishing to use Metro graphics such as our logo or banners should contact Metro to obtain a license or permit. 
 
-Metro diligently protects its intellectual property and will take all steps to prevent unpermitted use, up to and including, litigation.
-
-If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/about_metro/contact_us/ridercomment.cfm). 
+Metro diligently protects its intellectual property and will take all steps to prevent unpermitted use, up to and including, litigation. For more information, see our guidelines on [using Metro intellectual property](https://web.archive.org/about_metro/media_relations/intellectual_property.cfm).
