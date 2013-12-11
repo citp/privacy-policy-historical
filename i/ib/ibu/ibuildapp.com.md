@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibuildapp.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630050149id_/http%3A//ibuildapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibuildapp.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211075957id_/http%3A//ibuildapp.com/privacy-policy) for the most accurate reproduction.*
 
 # iBuildApp - Create Android and iPhone App, Free, No Coding Required
 
