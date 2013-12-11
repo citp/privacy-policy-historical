@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casttv.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085636id_/http%3A//www.zap2it.com/services/site/zap-privacy-policy%2C0%2C7712844.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casttv.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211081938id_/http%3A//www.zap2it.com/services/site/zap-privacy-policy%2C0%2C7712844.story) for the most accurate reproduction.*
 
 # Privacy policy - Zap2it
 
