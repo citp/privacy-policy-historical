@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527150511id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211072538id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy of Our Visitors
 
