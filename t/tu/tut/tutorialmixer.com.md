@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialmixer.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516202802id_/http%3A//www.tutorialmixer.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialmixer.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211192106id_/http%3A//www.tutorialmixer.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
