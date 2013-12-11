@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thelocal.no privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612142941id_/http%3A//www.thelocal.no/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.no privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211083825id_/http%3A//www.thelocal.no/page/view/privacy) for the most accurate reproduction.*
 
 # Your privacy on The Local - The Local
-
-
-
 
 The technology driving web sites is evolving quickly – much faster than most users’ knowledge of what is going on behind the scenes.
 
