@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the giltcity.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605035136id_/http%3A//www.giltcity.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giltcity.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211072058id_/http%3A//www.giltcity.com/company/privacy) for the most accurate reproduction.*
 
 # Gilt City Washington DC
 
-Gilt Groupe, Inc. and its subsidiaries and affiliates (collectively, “GILT”), respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
+Gilt, Inc. and its subsidiaries and affiliates (collectively, “GILT”), respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
 The phrase “personal information” refers to information by which you or the device you are using to connect to the Internet can be identified.
 
