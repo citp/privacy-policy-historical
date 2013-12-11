@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212125228id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211230726id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
 
-# Sydney Opera House - Customer Privacy Statement
+# Customer Privacy Statement - Sydney Opera House
 
 At Sydney Opera House, all our customers are very important to us, and we are committed to protecting all your personal details securely and sensitively, in accordance with the NSW Privacy and Personal Information Protection Act 1998.
 
@@ -60,7 +60,7 @@ If you sign up to our e-newsletter, enter a competition or communicate with us t
 
 **3. How is your personal information used by Sydney Opera House?**
 
-The personal information you supply helps us provide you with superior customer service and fulfil our functions under the Sydney Opera House Trust Act 1961. Sydney Opera House may use your personal information to:Sydney Opera House may use your personal information to:
+The personal information you supply helps us provide you with superior customer service and fulfil our functions under the Sydney Opera House Trust Act 1961. Sydney Opera House may use your personal information to:
 
   * process and manage your purchase or donation;
   * process your transaction under the terms of our credit card merchant agreements governing credit card transactions;
@@ -93,7 +93,8 @@ The current Organisations are the Australian Brandenburg Orchestra, the Australi
 
 Unless you tell us otherwise (by opting out – see (5) below) you also consent to your name and contact details and other personal performance related information (such as performance and seating preferences, history of attendances and any other performance related information collected for marketing purposes) being shared with and used by the Organisations’, promoters, performing companies, corporate sponsors relating to those events you attend. This enables Sydney Opera House and other third parties to keep you informed of upcoming events and promotions that may be of interest.
 
-If Sydney Opera House provides your personal performance related information to promoters of performing companies, sponsors or other third parties we require these organisations to agree to comply with our Customer Privacy Statement and with strict conditions and applicable laws governing how personal information is to be handled. Information relating to a donation to Sydney Opera House will not be shared with any third party, including any Organisation.   
+If Sydney Opera House provides your personal performance related information to promoters of performing companies, sponsors or other third parties we require these organisations to agree to comply with our Customer Privacy Statement and with strict conditions and applicable laws governing how personal information is to be handled. Information relating to a donation to Sydney Opera House will not be shared with any third party, including any Organisation, unless otherwise agreed by the donor. 
+
 Sydney Opera House will not otherwise trade, sell or rent personal information about our customers to or with third parties.
 
 **5. When and how can you opt out?**
@@ -130,7 +131,7 @@ A session cookie lets us know that you are the same person whenever you are on t
 
 Sydney Opera House Privacy Statement may change from time to time, particularly when new industry codes are introduced.
 
-This statement was last updated in October 2012.
+This statement was last updated in December 2013.
 
 **11. What if I am concerned about a breach of privacy by Sydney Opera House? **
 
