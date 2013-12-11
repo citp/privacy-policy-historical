@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the processmaker.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015235744id_/http%3A//www.processmaker.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processmaker.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211011651id_/http%3A//www.processmaker.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ProcessMaker
 
@@ -35,7 +35,7 @@ Except for a few specific instances, Subscribing Organizations and Members may a
 
 
 
-Subscribing Organizations and Members can exercise some of these options by telling us during the registration process or when they choose to receive or use a specific advertisement, service or product. Subscribing Organizations and Members can notify us of a change in their registration options by sending an email to [info@colosa.com](mailto:info@colosa.com), or writing to Colosa Inc., 790 Washington Ave, Suite 210, Brooklyn, NY 11238 USA.
+Subscribing Organizations and Members can exercise some of these options by telling us during the registration process or when they choose to receive or use a specific advertisement, service or product. Subscribing Organizations and Members can notify us of a change in their registration options by sending an email to [info@colosa.com](mailto:info@colosa.com), or writing to Colosa Inc., 5304 Ventura Drive, Delray Beach, FL 33484 USA.
 
 If information is being collected by any entity other than a Third Party Provider or if it will be disclosed by ProcessMaker® in any manner not described in this Privacy Statement, Subscribing Organizations and Members will be given prior notice, and can always elect not to use that particular service or provide the Information.
 
@@ -44,8 +44,8 @@ If a Subscribing Organization discontinues its Site use, all the personally iden
 A Subscribing Organization or Member may update or modify any of its personally identifiable information by using the Users tab in their ProcessMaker® Site. For further assistance with this, members may send an email to [info@colosa.com](mailto:info@colosa.com)To ask any questions about this Privacy Statement, the practices of this Website, our Services, or make any suggestions or tell us about any other ideas concerning our website or our services, please contact:
 
 Colosa Inc.  
-790 Washington Ave, Suite 210  
-Brooklyn, NY 11238  
+5304 Ventura Drive  
+Delray Beach, FL 33484  
 USA  
 [info@colosa.com](mailto:%20info@colosa.com) 
 
