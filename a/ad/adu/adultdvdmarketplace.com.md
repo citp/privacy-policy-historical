@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdmarketplace.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611023802id_/https%3A//www.adultdvdmarketplace.com/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdmarketplace.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211220953id_/http%3A//www.adultdvdmarketplace.com/help_privacy.html) for the most accurate reproduction.*
 
 # Adult DVD Marketplace - buy and sell new and used adult DVD movies
 
