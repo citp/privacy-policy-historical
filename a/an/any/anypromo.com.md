@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616093213id_/http%3A//www.anypromo.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211131151id_/http%3A//www.anypromo.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Promotional Products - AnyPromo
 
@@ -18,29 +18,29 @@ Chino, CA 91710
 
 This Privacy Policy will explain the following regarding use of our site: 
 
-1.  What information does AnyPromo.com collect from you? 
+1.  [What information does AnyPromo.com collect from you? ](https://web.archive.org/#whatinfo)
 
-2\.  Where do we collect information from you and how do we use it?
+2\.  [Where do we collect information from you and how do we use it?](https://web.archive.org/#wheredo)
 
-3.  Who is collecting your information?
+3.  [Who is collecting your information?](https://web.archive.org/#whois)[ ](https://web.archive.org/#whois)
 
-4.  With whom do we share your information?
+4.  [With whom do we share your information?](https://web.archive.org/#withwhom)[ ](https://web.archive.org/#withwhom)
 
-5.  How can you update or correct your Personally Identifiable Information?
+5.  [How can you update or correct your Personally Identifiable Information?](https://web.archive.org/#howcan)[ ](https://web.archive.org/#howcan)
 
-6.  What are your choices regarding collection, use, and distribution of your information?
+6.  [What are your choices regarding collection, use, and distribution of your information?](https://web.archive.org/#whatare)[ ](https://web.archive.org/#whatare)
 
-7.  What security precautions are in place to protect against the loss, misuse, or alteration of your information?
+7.  [What security precautions are in place to protect against the loss, misuse, or alteration of your information?](https://web.archive.org/#whatsecurity)[ ](https://web.archive.org/#whatsecurity)
 
-8.  A special note about children's privacy
+8.  [A special note about children's privacy](https://web.archive.org/#aspecial)[ ](https://web.archive.org/#aspecial)
 
-9.  AnyPromo.com and third-party use of "cookies" and "action tags."
+9.  [AnyPromo.com and third-party use of "cookies" and "action tags."](https://web.archive.org/#useof)
 
-10.You should carefully review privacy policies of any third party sites accessible from AnyPromo.com
+10.[You should carefully review privacy policies of any third party sites accessible from AnyPromo.com](https://web.archive.org/#youshould)[ ](https://web.archive.org/#youshould)
 
-11.Contacting AnyPromo.com about privacy questions or concerns
+11.[Contacting AnyPromo.com about privacy questions or concerns](https://web.archive.org/#contactingbuy)[ ](https://web.archive.org/#contactingbuy)
 
-12.Privacy Policy changes
+12.[Privacy Policy changes](https://web.archive.org/#privacypolicy)
 
 * * *
 
@@ -195,7 +195,7 @@ We believe you should have the ability to access and edit the personal informati
 
  **6.What are your choices regarding collection, use, and distribution of your information?**
 
-You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or by sending an e-mail to _[unsubscribe@anypromo.com](mailto:unsubscribe@anypromo.com)_. After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements. 
+You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or by sending an e-mail to _[unsubscribe@anypromo.com](https://web.archive.org/mailto:unsubscribe@anypromo.com)_. After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements. 
 
 Ad-servers and other Content Servers: You may also set your browser so that it will not accept "cookies" to prevent assignment from the ad server of a unique identifier; however, you may experience difficulty shopping on our site and performing other transactions if you do so. 
 
