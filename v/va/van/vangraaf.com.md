@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the vangraaf.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504015215id_/http%3A//www.vangraaf.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vangraaf.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211141723id_/http%3A//www.vangraaf.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
   * [News](http://www.vangraaf.com/en/news/)
-  * [Magazine](http://www.vangraaf.com/en/magazin/trends-news/2013/)
   * [Trends](http://www.vangraaf.com/en/trend-magazine/)
   * [Brands](http://www.vangraaf.com/en/brands/)
-  * [Service](http://www.vangraaf.com/en/service/)
+  * [Magazine](http://www.vangraaf.com/en/magazin/trends-news/2013/)
   * [Locations](http://www.vangraaf.com/en/locations/stores/)
-  * [Company](http://company.vangraaf.com/en/company/)
+  * [Service](http://www.vangraaf.com/en/service/)
   * [Career](http://company.vangraaf.com/en/career/)
 
 
@@ -52,13 +51,13 @@ Cookies are small parcels of text stored on the computer of the visitors of a we
 
 VAN GRAAF GmbH & Co. KG (VAN GRAAF) will process the personal data included in your online application mainly in order to deal with your application for its own recruiting purposes. Furthermore VAN GRAAF may transfer your online application to its associated companies*, which may then process it for their own recruiting purposes only. VAN GRAAF or its associated companies* may in certain cases also hand over your online application to service providers assisting them in sorting out appropriate candidates. For some vacancies on offer VAN GRAAF might also request you to send your online application directly to such a service provider. These service providers only act on behalf of VAN GRAAF respectively its associated companies* and are not allowed to use your data for any other purposes or transfer it to third parties. 
 
-Please note that VAN GRAAF does not wish to receive via your CV or attached documents any information on special categories of personal data (which means information on your racial or ethnic origin, your political opinions, religious or philosophical convictions, union membership, health or sex life) and will not take this information into account when reviewing your application. However, if you should include such information in your online-application, you allow VAN GRAAF and its associated companies* to process this data along with your application. 
+Please note that VAN GRAAF does not wish to receive via your CV or attached documents any information on special categories of personal data (which means information on your racial or ethnic origin, your political opinions, religious or philosophical convictions, union membership, health or sex life) and will not take this information into account when reviewing your application. However, if you should include such information in your online-application, you allow VAN GRAAF and its associated companies* to process this data along with your application.
 
 *
 
 | 
 
- **VAN GRAAF** **GmbH Sp. k.**  
+**VAN GRAAF** **GmbH Sp. k.**  
 Ul. Kielbasnicza 32  
 PL  50-109 Wroclaw  
 Poland 
@@ -87,7 +86,7 @@ CH-8957 Spreitenbach
   
 | 
 
- **VAN GRAAF** **GmbH & Co. KG**  
+**VAN GRAAF** **GmbH & Co. KG**  
 Traungasse 14  
 1030 Wien  
 Austria 
