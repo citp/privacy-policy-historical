@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplystacie.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430140758id_/http%3A//www.simplystacie.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplystacie.net privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212002953id_/http%3A//www.simplystacie.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simply Stacie
 
@@ -65,4 +65,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 www.simplystacie.net  
 simplystacieblog@gmail.com
 
-This policy is powered by Free Privacy Policy and Rhino Support [helpdesk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support helpdesk software.
