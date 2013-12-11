@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugshotsonline.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611010757id_/http%3A//www.mugshotsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugshotsonline.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211085234id_/http%3A//www.mugshotsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,14 +10,14 @@ For site security purposes and to ensure that this service remains available to 
 
 If you visit our site to inquire about or receive additional information about our products and/or services, we collect and store only the following information about you:
 
-  1. 1\. Name
-  2. 2\. Email address
-  3. 3\. Phone number
-  4. 4\. Zip code
-  5. 5\. Address 
-  6. 6\. County 
-  7. 7\. Your IP Address 
-  8. 8\. Any additional information included in documents provided by Citizens Information Associates LLC
+  1. Name
+  2. Email address
+  3. Phone number
+  4. Zip code
+  5. Address
+  6. County
+  7. Your IP Address
+  8. Any additional information included in documents provided by Citizens Information Associates LLC
 
 
 
