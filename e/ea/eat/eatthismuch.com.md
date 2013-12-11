@@ -1,100 +1,164 @@
-> *The following text is extracted and transformed from the eatthismuch.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatthismuch.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211195838id_/http%3A//www.eatthismuch.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Eat This Much
 
-**Go Daddy Respects Your Privacy**
+  
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Eat This Much (hereinafter “Application”) collects some data from its users.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**tl;dr** I have some analytics packages installed to figure out how people use the site, plus some basic Facebook and Twitter integration. Want to prevent any kind of tracking? Type "disable third party cookies" plus the name of your web browser into any search engine to find out how. Keep reading if you're a masochist. 
 
-**Information Collection and Use**
+The Data are collected and processed for the purposes set out below. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Data Processing Ownership
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Eat This Much LLC - Los Angeles, CA  
+louis@eatthismuch.com   
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## Types of Data collected
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Among the Data that this Application may collect there are: Cookie and Browsing and usage Data. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Other Personal Data collected may be highlighted by other sections of this privacy policy or by dedicated explanation text, in the moment when the Data collection happens.  
+The Personal Data may be freely inserted by the User or the Data Subject, or collected automatically when using the Application.  
+Any use of Cookies by the Application or the owners of third party services used by the Application, unless stated otherwise, serves to identify the User and remember his/her preferences for the sole purpose of providing the service required by the User.  
+Failure to provide certain Personal Data, in particular Navigation Data, by deactivating the Application’s Cookies may make it impossible to surf or for the Application to provide its services. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+The Personal Data collected may regard both the User and third parties whose data the User provides.  
+The User assumes responsibility for the Personal Data of third parties published or shared through the Application and declares that (s)he has the right to communicate or broadcast them, thus relieving the Owner of all responsibility towards third parties. 
 
-**Security**
+## Mode and place of processing the Data obtained
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### Method of Processing
 
-**Updating Your Information**
+The Data Controller processes the Data of the Interested Parties and Users in a lawful and proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Processing is carried out using computers and / or telematic means, with organizational methods and logics strictly related to the stated purposes.  
+In addition to the owner, in some cases, access to the Data may be available to external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies). The updated list of Managers may be requested from the Owner at any time. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### Place
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The Data are processed at the headquarters of the Data Controller, unless stated otherwise in the rest of this document. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Conservation Time
 
-      iii.      You may call us at: (480) 505-8800
+The Data are kept for the time necessary to perform the service requested by the User, and the User can always ask for their suspension or removal. 
 
-       iv.      You may fax us at: (480) 505-8844
+## The use of the collected Data
 
-**Sending Emails**
+The Data concerning the User or the Data Subject are collected for the following purposes: Analytics and Interaction with external social networks and platforms. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+The kinds of Personal Data used for each purpose are given in the specific sections of this document. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+The use of Data for additional purposes by the Owner may in some cases, and for legal purposes, require specific consent by the User or the Data Subject. 
 
-**Compliance with Laws and Law Enforcement**
+## Detailed information on the processing of Personal Data and the services provided by third parties
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Personal Data collected for the following purposes and using the following services: 
 
-**Third Party Service Providers**
+### Analytics
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+#### Google Analytics (Google)
 
-**Supplementation of Information**
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine Application use, to prepare reports on an Application’s activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Personal data collected: Browsing and usage Data and Cookie. 
 
-**Contests/Surveys**
+Place of Processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+### Interaction with external social networks and platforms
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+These services allow interaction with social networks or other external platforms directly from the Application’s pages.  
+The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
+If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it. 
 
-**Tell-A-Friend**
+#### Facebook Like button and social widgets (Facebook)
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Inc. 
 
-**What Happens to my Personal Information if I Opt Out?**
+Personal data collected: Browsing and usage Data and Cookie. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Place of Processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
 
-**Transfer of Data Abroad**
+#### Twitter Tweet button and social widgets (Twitter)
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc. 
 
-**Changes in Our Practices**
+Personal data collected: Browsing and usage Data and Cookie. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Place of Processing: USA – [Privacy Policy](http://twitter.com/privacy)
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+#### AdRoll retargeting (AdRoll)
 
-**Contacting Our Site**
+As you browse Eat This Much, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Eat This Much. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising. 
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+## Additional information about data processing
+
+### Legal Protection
+
+The User’s Personal Data may be used for legal purposes by the Owner of the Application in court or in the stages leading to possible legal action arising from its improper use or that of related services by the User. 
+
+### Additional Information
+
+Specific information may be shown on the pages of the Site concerning particular services or the processing of Data provided by the User or by the Data Subject. 
+
+### Maintenance
+
+The User’s Personal Data may be further used in ways and for purposes required for Application maintenance. 
+
+### System Logs
+
+For operation and maintenance purposes, this Application and any third party services it uses may collect system logs, i.e., files that record interaction – including navigation. They may also contain personal data, such as IP addresses. 
+
+### Information not contained in this policy
+
+More information on processing Personal Information may be requested from the Owner at any time. 
+
+### The Rights of Data Subjects
+
+Those persons to whom the Data refer have the right, at any time, to know whether their data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Owner of the Processing System. 
+
+### Changes to this Privacy Policy
+
+The Application reserves the right to make changes to this Privacy Policy at any time by giving notice to its Users on this page, and by ensuring analogous protection of the Personal Information in all cases. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
+
+### Information about this privacy policy
+
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on the Iubenda's servers. 
+
+### Definitions and legal references 
+
+#### Personal information or Data
+
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number. 
+
+#### Browsing and usage Data
+
+Information collected automatically from the Site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the visitor, the various time details per visit (e.g., the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, and other parameters about the operating system and the user's IT environment. 
+
+#### User
+
+Means the individual user of the Application’s services or products. 
+
+#### Data Subject
+
+The legal or natural person to whom the Personal Data refer. 
+
+#### Data Processor
+
+The natural person, legal person, public administration or any other organization, association or organization designated by the Data Controller for the Personal Data processing system. 
+
+#### Data Controller
+
+The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Site. 
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+#### Legal information
+
+Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies. 
+
+This privacy policy exclusively regards this Application. 
