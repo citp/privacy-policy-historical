@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the woodlandsonline.com privacy policy that was archived on 2013-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619144719id_/http%3A//woodlandsonline.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the woodlandsonline.com privacy policy that was archived on 2013-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211223938id_/http%3A//woodlandsonline.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 		<title>Woodlands Online Privacy Policy</title>
@@ -12,6 +12,7 @@
 		<link rel="stylesheet" type="text/css" href="/styles_footer.css">
 		
 		<link rel="stylesheet" type="text/css" href="/print.css" media="print"> 
+		<link rel="stylesheet" type="text/css" href="/globalstyles.css">
 		
 				<meta name="description" content="Woodlands Online Privacy Policy">
 			
@@ -29,6 +30,10 @@
 					var winl = (screen.width - wwidth)/2;
 					var wint = (screen.height - wheight)/2;
 					var emRecipient = eval("document.emForm" + emFormNum + ".emName.value");
+					var theWindow = 'http://woodlandsonline.com/email.cfm?ref=http%3A%2F%2Fwoodlandsonline%2Ecom%2Fprivacy%2Ecfm%3F&emRecipient='+emRecipient+'&emFormNum='+emFormNum;
+					try{
+						console.log(theWindow);
+					}catch(err){}
 					eval("window.open('http://woodlandsonline.com/email.cfm?ref=http%3A%2F%2Fwoodlandsonline%2Ecom%2Fprivacy%2Ecfm%3F&emRecipient='+emRecipient+'&emFormNum='+emFormNum,'window','toolbar=0,scrollbars=1,location=0,status=0,menubar=0,resizable=1,top='+wint+',left='+winl+',width='+wwidth+',height='+wheight)");
 				}
 			//-->
@@ -84,7 +89,7 @@
 		
 		</script>
 		
-		<link rel="stylesheet" type="text/css" href="/globalstyles.css">
+		
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="/codetemps/jqueryui/js/jquery-ui-1.8.16.datepicker.min.js"></script>
@@ -111,6 +116,11 @@
 			        });
 			    };
 			})(jQuery);
+			function eqHeight(eleClass1,eleClass2){
+				var highestCol = Math.max($('.'+eleClass1).height(),$('.'+eleClass2).height());
+				$('.'+eleClass1).height(highestCol);
+				$('.'+eleClass2).height(highestCol);		
+			}
 			function replaceDatePicker(curElement, foundby, anchorMonthEle, anchorDayEle, anchorYearEle){
 				datePickerCount++;
 				if(datePickerCount == 1){
@@ -192,7 +202,7 @@
 					if($(this).attr('href').search(/\(("|').+?("|'),("|').+?("|'),("|').+?("|'),("|').+?("|'),(1|0)/) > 11){
 						var calendarArgMatch = $(this).attr("href").match(/("|').*?("|') ?, *?("|').*?("|') *?, *?("|').*?("|') ?, ?("|').*?("|') *?, *?[0-9]/);
 						var calendarArgArray = calendarArgMatch[0].split(",");
-						if(calendarArgMatch[calendarArgMatch.length-1]){
+						if(calendarArgArray[calendarArgArray.length-1] == '1'){
 							thisDatePicker.datepicker( "option", "minDate", new Date() );	
 						}
 						$(this).attr('href', 'javascript:void(0);');
@@ -344,7 +354,7 @@
 	<h2>
 		<a href="http://woodlandsonline.com/"><img src="/images/headerleft_new.png" alt="The Woodlands Texas Community Website and Guide"></a>
 	</h2>
-	<div id="top_header_center"><img border="0" src="/images/headerschedule/header_home2.png"></div>
+	<div id="top_header_center"><img border="0" src="/images/headerschedule/header_home.png"></div>
     <ul id="top_header_menu">
 		<li id="contact-us"><a href="/contactus.cfm" id="top_header_menu_txt">Contact Us</a></li>
 		<li id="register"><a href="/reguser/aup.cfm" id="top_header_menu_txt">Register</a></li>
@@ -381,7 +391,7 @@
 								
 									<li><a href="/cdps/shoppingguide.cfm" title="Woodlands Shopping Guide">Woodlands Shopping Guide</a></li>
 								
-									<li><a href="/cdps/cdlocations.cfm" title="Shopping Centers">Shopping Centers</a></li>
+									<li><a href="/christmas/christmasgiftguide.cfm" title="Christmas Gift Guide">Christmas Gift Guide</a></li>
 								
 									<li><a href="/psps/" title="Marketplace - Local eShopping">Marketplace - Local eShopping</a></li>
 								
@@ -452,7 +462,7 @@
 								
 									<li><a href="/cdps/personalcarebeauty.cfm" title="Personal Care &amp; Beauty">Personal Care &amp; Beauty</a></li>
 								
-									<li><a href="/spgs/pets.cfm" title="Pets">Pets</a></li>
+									<li><a href="/cdps/pets.cfm" title="Pets">Pets</a></li>
 								
 									<li><a href="/cdps/travelservices.cfm" title="Travel">Travel</a></li>
 								
@@ -518,9 +528,13 @@
 								
 									<li class="submenu-heading">Special Event Guides</li>
 								
-									<li><a href="/spgs/summercamps/" title="Summer Camp Guide">Summer Camp Guide</a></li>
+									<li><a href="/christmas/" title="Christmas in The Woodands">Christmas in The Woodands</a></li>
 								
-									<li><a href="/spgs/vbs/" title="VBS Vacation Bible School">VBS Vacation Bible School</a></li>
+									<li><a href="/christmas/christmasnews.cfm" title="Christmas News">Christmas News</a></li>
+								
+									<li><a href="/christmas/christmasevents.cfm" title="Christmas Events">Christmas Events</a></li>
+								
+									<li><a href="/christmas/christmaschurchservices.cfm" title="Christmas Eve Services">Christmas Eve Services</a></li>
 								
 									<li class="submenu-heading">Join Email Lists</li>
 								
@@ -679,17 +693,17 @@
 								
 									<li class="submenu-heading">Woodlands Sports</li>
 								
-									<li><a href="/cdps/sportsrecreation.cfm" title="WOL Sports">WOL Sports</a></li>
+									<li><a href="/wolsports/" title="WOL Sports">WOL Sports</a></li>
 								
-									<li><a href="/cdps/highschoolsports.cfm" title="High School Sports">High School Sports</a></li>
+									<li><a href="/wolsports/highschool.cfm" title="High School Sports">High School Sports</a></li>
 								
 									<li><a href="/cdps/communitySports.cfm" title="Community Sports">Community Sports</a></li>
+								
+									<li><a href="/cdps/sportsrecreation.cfm" title="Sports Directory">Sports Directory</a></li>
 								
 									<li><a href="/cdps/golfguide.cfm" title="Golf Guide">Golf Guide</a></li>
 								
 									<li><a href="/spgs/fitness/" title="Fitness Guide">Fitness Guide</a></li>
-								
-									<li class="submenu-heading">Houston Sports</li>
 								
 									<li><a href="/cdps/collegeSports.cfm" title="College Sports">College Sports</a></li>
 								
@@ -727,7 +741,11 @@
 								
 									<li><a href="/cdps/cditem.cfm?nid=13332" title="Woodlands Strykers Baseball">Woodlands Strykers Baseball</a></li>
 								
-									<li><a href="/cdps/cditem.cfm?nid=10365" title="Woodforest Bank Stadium">Woodforest Bank Stadium</a></li>
+									<li><a href="/cdps/cditem.cfm?nid=7854" title="Oak Ridge War Eagles Football">Oak Ridge War Eagles Football</a></li>
+								
+									<li><a href="/cdps/cditem.cfm?nid=7852" title="TWHS Highlanders Football">TWHS Highlanders Football</a></li>
+								
+									<li><a href="/cdps/cditem.cfm?nid=7853" title="College Park Cavaliers Football">College Park Cavaliers Football</a></li>
 								
 								</ul>
 							</li>
@@ -748,7 +766,7 @@
 								
 									<li><a href="/vmps/vdocatsel.cfm" title="Submit a Sports Video">Submit a Sports Video</a></li>
 								
-									<li><a href="/contactus.cfm?type=news" title="Contact WOL Sports">Contact WOL Sports</a></li>
+									<li><a href="/contactus.cfm?type=sports" title="Contact WOL Sports">Contact WOL Sports</a></li>
 								
 								</ul>
 							</li>
@@ -796,6 +814,8 @@
 									<li><a href="/evps/evlist2.cfm?classid=6" title="Kids Fun &amp; Activities">Kids Fun &amp; Activities</a></li>
 								
 									<li class="submenu-heading">More Community</li>
+								
+									<li><a href="/christmas/" title="Christmas in The Woodands">Christmas in The Woodands</a></li>
 								
 									<li><a href="/ctps/" title="Contests">Contests</a></li>
 								
@@ -863,7 +883,9 @@
 								
 									<li><a href="/cdps/minorcat.cfm?cid=7&amp;ckid=72" title="Hospitals">Hospitals</a></li>
 								
-									<li><a href="/cdps/minorcat.cfm?cid=7&amp;ckid=79" title="Minor Emergency Clinics">Minor Emergency Clinics</a></li>
+									<li><a href="/cdps/minorcat.cfm?cid=7&amp;ckid=949" title="Emergency Care">Emergency Care</a></li>
+								
+									<li><a href="/cdps/minorcat.cfm?cid=7&amp;ckid=79" title="Urgent Care">Urgent Care</a></li>
 								
 									<li><a href="/cdps/minorcat.cfm?cid=7&amp;ckid=78" title="Pharmacies &amp; Drug Stores">Pharmacies &amp; Drug Stores</a></li>
 								
@@ -1171,7 +1193,7 @@
 						</ul>
 						<ul class="footer-mini-double-row-ul">
 							
-								<li><a href="/cdps/sportsrecreation.cfm" title="Sports">Sports</a></li>
+								<li><a href="/wolsports/" title="Sports">Sports</a></li>
 							
 								<li><a href="/cdps/communityresources.cfm" title="Community">Community</a></li>
 							
@@ -1201,16 +1223,14 @@
 							
 								<li><a href="/rrps/" title="Apartments &amp; Rentals">Apartments &amp; Rentals</a></li>
 							
-								<li><a href="/rlps/" title="Homes For Sale">Homes For Sale</a></li>
+								<li><a href="/wolsports/highschool.cfm" title="High School Sports">High School Sports</a></li>
 							
 						</ul>
 						<ul class="footer-double-row-ul">
 							
-								<li><a href="/spgs/patioguide/" title="Premier Patio Dining">Premier Patio Dining</a></li>
+								<li><a href="/christmas/" title="Christmas in The Woodlands">Christmas in The Woodlands</a></li>
 							
-								<li><a href="/spgs/vbs/" title="Vacation Bible Schools">Vacation Bible Schools</a></li>
-							
-								<li><a href="/spgs/summercamps/" title="Summer Camp Guide">Summer Camp Guide</a></li>
+								<li><a href="/rlps/" title="Homes For Sale">Homes For Sale</a></li>
 							
 								<li><a href="/cdps/parksguide.cfm" title="Parks Guide">Parks Guide</a></li>
 							
@@ -1219,6 +1239,8 @@
 								<li><a href="/cdps/legalguide.cfm" title="Legal Services Guide">Legal Services Guide</a></li>
 							
 								<li><a href="/vmps/" title="WOL TV &amp; Videos">WOL TV &amp; Videos</a></li>
+							
+								<li><a href="/reguser/" title="My WOL">My WOL</a></li>
 							
 						</ul>
 					
@@ -1295,6 +1317,12 @@
 			
 				<option value="http://woodlandsonline.com/agps/">&nbsp;&nbsp;Car Dealers Guide</option>
 			
+				<option value="http://woodlandsonline.com/christmas/christmaschurchservices.cfm">&nbsp;&nbsp;Christmas Church Services</option>
+			
+				<option value="http://woodlandsonline.com/christmas/christmasgiftguide.cfm">&nbsp;&nbsp;Christmas Gift Guide</option>
+			
+				<option value="http://woodlandsonline.com/christmas/">&nbsp;&nbsp;Christmas In The Woodlands</option>
+			
 				<option value="http://woodlandsonline.com/cdps/churchguide.cfm">&nbsp;&nbsp;Church Guide</option>
 			
 				<option value="http://woodlandsonline.com/clps/">&nbsp;&nbsp;Classifieds</option>
@@ -1313,7 +1341,7 @@
 			
 				<option value="http://woodlandsonline.com/mlps/">&nbsp;&nbsp;Email Lists</option>
 			
-				<option value="http://woodlandsonline.com/cdps/jobsemployment.cfm">&nbsp;&nbsp;Employment &amp; Jobs</option>
+				<option value="http://woodlandsonline.com/cdps/jobsemployment.cfm">&nbsp;&nbsp;Employment Guide</option>
 			
 				<option value="http://woodlandsonline.com/cdps/entertainment.cfm">&nbsp;&nbsp;Entertainment &amp; Arts</option>
 			
@@ -1367,6 +1395,8 @@
 			
 				<option value="http://woodlandsonline.com/pwps/">&nbsp;&nbsp;Networking</option>
 			
+				<option value="http://woodlandsonline.com/spgs/newyearseve/">&nbsp;&nbsp;New Year's Guide</option>
+			
 				<option value="http://woodlandsonline.com/npps/">&nbsp;&nbsp;News</option>
 			
 				<option value="http://woodlandsonline.com/cdps/parksguide.cfm">&nbsp;&nbsp;Parks Guide</option>
@@ -1383,8 +1413,6 @@
 			
 				<option value="http://woodlandsonline.com/cdps/professionalservices.cfm">&nbsp;&nbsp;Professional Services</option>
 			
-				<option value="http://woodlandsonline.com/epps/">&nbsp;&nbsp;Promotions &amp; Coupons</option>
-			
 				<option value="http://woodlandsonline.com/cdps/realestatehomes.cfm">&nbsp;&nbsp;Real Estate Guide</option>
 			
 				<option value="http://woodlandsonline.com/cdps/religion.cfm">&nbsp;&nbsp;Religion</option>
@@ -1395,19 +1423,19 @@
 			
 				<option value="http://woodlandsonline.com/cdps/shoppingguide.cfm">&nbsp;&nbsp;Shopping Guide</option>
 			
-				<option value="http://woodlandsonline.com/cdps/sportsrecreation.cfm">&nbsp;&nbsp;Sports &amp; Recreation</option>
+				<option value="http://woodlandsonline.com/epps/">&nbsp;&nbsp;Specials &amp; Coupons</option>
 			
-				<option value="http://woodlandsonline.com/spgs/summercamps/index.cfm">&nbsp;&nbsp;Summer Camp Guide</option>
+				<option value="http://woodlandsonline.com/cdps/sportsrecreation.cfm">&nbsp;&nbsp;Sports Directory</option>
 			
 				<option value="http://woodlandsonline.com/cdps/travelservices.cfm">&nbsp;&nbsp;Travel</option>
-			
-				<option value="http://woodlandsonline.com/spgs/vbs/">&nbsp;&nbsp;Vacation Bible School</option>
 			
 				<option value="http://woodlandsonline.com/vmps/">&nbsp;&nbsp;Video Directory</option>
 			
 				<option value="http://woodlandsonline.com/cdps/visitorsguide.cfm">&nbsp;&nbsp;Visitors Guide</option>
 			
 				<option value="http://woodlandsonline.com/spgs/weddingguide/">&nbsp;&nbsp;Wedding Guide</option>
+			
+				<option value="http://woodlandsonline.com/wolsports/">&nbsp;&nbsp;WOL Sports</option>
 			
 				<option value="http://woodlandsonline.com/cdps/yardlawngarden.cfm">&nbsp;&nbsp;Yard &amp; Garden</option>
 			
@@ -1448,7 +1476,7 @@
 			<li><a href="http://woodlandsonline.com/contactus.cfm">Contact Us</a></li>
 		</ul>
 		<div id="copyright-wrapper">
-			© 1996-2013 Bayou City Media, a division of Digital Texas  All Rights Reserved. The Woodlands, Tx.
+			© 1996-2013 Digital Texas  All Rights Reserved. The Woodlands Tx
 			<p id="powered-by">
 				<a href="http://www.dynaportal.com"><img src="/images/poweredbyDP.png" border="0"></a>
 			</p>
