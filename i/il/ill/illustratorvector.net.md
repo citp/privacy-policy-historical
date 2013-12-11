@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the illustratorvector.net privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612143434id_/http%3A//illustratorvector.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illustratorvector.net privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212002903id_/http%3A//illustratorvector.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Illustrator Vector
+# Privacy Policy | Vector File
 
 **Privacy Policy for illustratorvector.net**
 
