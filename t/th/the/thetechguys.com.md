@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610234016id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechguys.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211035604id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
 
 # KNOWHOW | Privacy & Cookies
 
@@ -142,29 +142,24 @@ We would also like to inform you of various promotions, goods and services that 
 
 ####  YOUR RIGHTS
 
-(1) You can ask us to update your personal information by emailing precise details of your request to [privacy@KNOWHOW.COM](mailto:privacy@KNOWHOW.COM?Subject=update). Please ensure you type ‘update’ in the subject line of your email.
+(1) You can ask us to update your personal information by emailing precise details of your request to [customerservices@dixonsretail.com.](mailto:customerservices@dixonsretail.com)
 
-(2) You can ask us not to send you future marketing communications. To do this, simply email [privacy@KNOWHOW.COM](mailto:privacy@KNOWHOW.COM?Subject=No%20Marketing) . Type ‘No Marketing’ in the subject line and then the following in the main text:
+(2) You can ask us not to send you future marketing communications. To do this, simply click [this link](https://dixonsregistration.co.uk/permoptout/?referrer=6) and submit your details.
 
-  * your full name
-  * your postal address, including postcode
-  * your email address
+We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations. Alternatively, you can post your request to the address in (3) below.
 
+(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address.  Please enclose a cheque for £10 payable to DSG Retail Limited to cover our administration costs and proof of ID such as a copy of your driving licence or a recent utility bill:
 
-
-We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations.
-
-Alternatively, you can post your request to the address in (3) below.
-
-(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to DSG Retail Limited to cover our administration costs:
-
-Customer Services (Data Subject Request)  
+Subject Access Request  
+Legal Services  
 DSG Retail Limited  
-The Parkway  
-Sheffield S2 5DD
+Maylands Avenue  
+Hemel Hempstead  
+Hertfordshire  
+HP2 7TG
 
-####  OTHER WEBSITES
+**OTHER WEBSITES**
 
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
 
-Back to top
+****Back to top****
