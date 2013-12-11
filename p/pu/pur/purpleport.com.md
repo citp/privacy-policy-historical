@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purpleport.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613163607id_/http%3A//purpleport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleport.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211221206id_/http%3A//purpleport.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / Portfolio hosting and networking for models, photographers and related creatives / PurplePort.com
+# Privacy Policy / Portfolio hosting and networking for models, photographers and related creatives / PurplePort
 
 At PurplePort Limited we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by the internet contracts experts LegalCentre.co.uk.
 
