@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4-shared.eu privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529225528id_/http%3A//www.4-shared.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4-shared.eu privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211164517id_/http%3A//www.4-shared.eu/privacy.html) for the most accurate reproduction.*
 
 # 
 
