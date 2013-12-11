@@ -1,33 +1,30 @@
-<!--The following is the downloaded HTML source of the biglots.com privacy policy that was archived on 2013-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613174358id_/http%3A//www.biglots.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biglots.com privacy policy that was archived on 2013-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211102855id_/http%3A//www.biglots.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
     <meta charset="utf-8">
     <!-- layout layouts/base -->
-    <!-- app version no: app version_55 -->
-    <link rel="shortcut icon" href="/static/2013/02/12/PATCH3/images/favicon.ico" type="image/x-icon">
+    <!-- app version no: 2013.4.1_11 -->
     <title>Big Lots Privacy Policy</title>
+    <link rel="shortcut icon" href="/static/2013/4/images/favicon.ico" type="image/x-icon">
+    
+
+    <link href="/static/2013/4/bundle-bundle_core_head.css" type="text/css" rel="stylesheet" media="screen, projection">
+
+
+
+
+
+
+
+<!--[if lt IE 7]><link href="/static/2013/4/css/ie6.css" type="text/css" rel="stylesheet" media="screen, projection" /><![endif]-->
+<!--[if lt IE 8]><link href="/static/2013/4/css/ie7.css" type="text/css" rel="stylesheet" media="screen, projection" /><![endif]-->
+<!--[if lt IE 9]><link href="/static/2013/4/css/ie8.css" type="text/css" rel="stylesheet" media="screen, projection" /><![endif]-->
+<link href="/static/2013/4/css/help.css" type="text/css" rel="stylesheet" media="screen, projection">
+
     
 	<!-- layout layouts/catalogAndSidebar -->
     
-	
-    
-
-	<script src="/static/2013/02/12/PATCH3/js/modernizr.min.js" type="text/javascript"></script>
-<script src="/static/2013/02/12/PATCH3/js/jquery-1.7.1.min.js" type="text/javascript"></script>
-<link href="/static/2013/02/12/PATCH3/bundle-bundle_core_head.css" type="text/css" rel="stylesheet" media="screen, projection">
-
-
-
-
-
-
-
-<!--[if lt IE 7]><link href="/static/2013/02/12/PATCH3/css/ie6.css" type="text/css" rel="stylesheet" media="screen, projection" /><![endif]-->
-<!--[if lt IE 8]><link href="/static/2013/02/12/PATCH3/css/ie7.css" type="text/css" rel="stylesheet" media="screen, projection" /><![endif]-->
-<!--[if lt IE 9]><link href="/static/2013/02/12/PATCH3/css/ie8.css" type="text/css" rel="stylesheet" media="screen, projection" /><![endif]-->
-<link href="/static/2013/02/12/PATCH3/css/help.css" type="text/css" rel="stylesheet" media="screen, projection">
-
 	
 	
     <!-- view content/index -->
@@ -43,9 +40,9 @@
 </head>
 <body>
     
+    
     <span class="access-text"><a href="#catalog-nav">Skip to Departments</a></span>
     <span class="access-text"><a href="#page-content">Skip to Main Content</a></span>
-    
 
 	<div class="page-header">
 	   <div class="header">
@@ -56,21 +53,21 @@
     </div>
     <div class="right">
         <div class="user-nav">
-	        <form action="/store-locator/index" method="get" name="userNavViewStores" id="userNavViewStores"> 
-	<ul>
-	    <li>
-	        View items in your area:
-	        <input type="hidden" name="fromSearch" value="true" id="fromSearch">
-	        <input type="text" class="zipcode textbox" name="zipCode" placeholder="Zip">
-	        <input type="image" class="gobutton" src="http://www.biglots.com/images/TopNav/go_btn.png" alt="Go">
-	    </li>
-	    <li>
-	        <a href="http://www.biglots.com/rewards/my-account">My Account</a>
-	    </li>
-	    <li>
-	        <a href="/help">Help</a>
-	    </li>
-	</ul>
+	        <form action="/store-locator/index" method="get" name="userNavViewStores" id="userNavViewStores">
+    <ul>
+        <li>
+            View items in your area:
+            <input type="hidden" name="fromSearch" value="true" id="fromSearch">
+            <input type="text" class="zipcode textbox" name="zipCode" id="userNavZipCode" placeholder="Zip Code">
+            <input type="image" class="gobutton" src="http://www.biglots.com/images/TopNav/go_btn.png" alt="Go">
+        </li>
+        <li>
+            <a href="http://www.biglots.com/rewards/my-account">My Account</a>
+        </li>
+        <li>
+            <a href="/help">Help</a>
+        </li>
+    </ul>
 </form>
 
         </div>
@@ -97,7 +94,7 @@
                     Enter your zip and we'll show you 
                     the ad for your nearest Big Lots.
                 </p>
-                <input type="text" class="zipcode textbox" name="zipCode" value="" placeholder="Zip">
+                <input type="text" class="zipcode textbox" name="zipCode" id="headerNavWeeklyAdZipCode" placeholder="Zip Code">
                 <p class="search-button">
                     <input type="image" class="gobutton" src="http://www.biglots.com/images/TopNav/go_btn.png" alt="Go">
                 </p>
@@ -119,9 +116,9 @@
                 <p class="search-description">
                     Search for a store
                 </p>
-                <input type="text" maxlength="5" class="zipcode textbox" name="zipCode" value="" placeholder="Zip"> 
+                <input type="text" maxlength="5" class="zipcode textbox" name="zipCode" id="headerNavZipCode" placeholder="Zip Code">
                 <p class="or">OR</p>
-                <input type="text" maxlength="25" class="city textbox" name="city" value="" placeholder="City">
+                <input type="text" maxlength="25" class="city textbox" name="city" placeholder="City">
                 <select name="state" id="stateSearch" class="state select">
 <option value="">Select a State</option>
 <option value="AL">Alabama</option>
@@ -174,7 +171,8 @@
 <option value="WI">Wisconsin</option>
 <option value="WY">Wyoming</option>
 </select>
-				
+
+                
                 <p class="search-button">
                     <input type="image" class="gobutton" alt="Go" src="http://www.biglots.com/images/TopNav/go_btn.png">
                 </p>
@@ -221,38 +219,8 @@
         <div class="department">
             <a href="/d/this-weeks-deals" class="">This Week's Deals</a>
         </div>
-            
+        
 <div class="categories">
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     
@@ -263,10 +231,6 @@
             <a href="/c/this-weeks-deals/new-arrivals" class="">New Arrivals</a>
         </div>
         
-    
-    
-    
-    
     
     
     
@@ -285,85 +249,6 @@
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-</div>
-
-
-    
-        <div class="department">
-            <a href="/d/outdoor" class="">Outdoor Living</a>
-        </div>
-            
-<div class="categories">
-    
-    
-        <div class="category">
-            <a href="/c/outdoor/patio" class="">Patio</a>
-        </div>
-        
-    
-    
-    
-        <div class="category">
-            <a href="/c/outdoor/pools" class="">Pools &amp; Accessories</a>
-        </div>
-        
-    
-    
-    
-        <div class="category">
-            <a href="/c/outdoor/grills" class="">Grills &amp; Accessories</a>
-        </div>
-        
-    
-    
-    
-        <div class="category">
-            <a href="/c/outdoor/lighting" class="">Lighting &amp; Solar</a>
-        </div>
-        
-    
-    
-    
-        <div class="category">
-            <a href="/c/outdoor/gardening" class="">Gardening &amp; Décor</a>
-        </div>
-        
-    
-    
-    
-        <div class="category">
-            <a href="/c/outdoor/coolers" class="">Coolers</a>
-        </div>
-        
-    
-    
-    
-        <div class="category">
-            <a href="/c/outdoor/serveware" class="">Serveware</a>
-        </div>
-        
-    
-    
 </div>
 
 
@@ -371,45 +256,127 @@
         <div class="department">
             <a href="/d/clearance" class="">Clearance</a>
         </div>
-            
+        
     
         <div class="department">
-            <a href="/d/fathers-day" class="">Father's Day</a>
+            <a href="/d/christmas" class="">Christmas</a>
         </div>
-            
+        
 <div class="categories">
     
     
         <div class="category">
-            <a href="/c/fathers-day/gifts-for-dad" class="">Gifts For Dad</a>
+            <a href="/c/christmas/trees" class="">Trees</a>
         </div>
         
     
     
     
         <div class="category">
-            <a href="/c/fathers-day/electronics-fathers-day" class="">Electronics</a>
+            <a href="/c/christmas/indoor-decor" class="">Indoor Décor</a>
         </div>
         
     
     
     
         <div class="category">
-            <a href="/c/fathers-day/lawn-and-garden-fathers-day" class="">Grilling &amp; More</a>
+            <a href="/c/christmas/outdoor-decor" class="">Outdoor Décor</a>
         </div>
         
     
     
     
         <div class="category">
-            <a href="/c/fathers-day/tools-and-automotive" class="">Tools &amp; Automotive</a>
+            <a href="/c/christmas/ornaments-trim" class="">Ornaments &amp; Trim</a>
         </div>
         
     
     
     
         <div class="category">
-            <a href="/c/fathers-day/fathers-day-recliners" class="">Recliners</a>
+            <a href="/c/christmas/lights" class="">Lights</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/christmas/gift-wrap-more" class="">Gift Wrap &amp; More</a>
+        </div>
+        
+    
+    
+    
+    
+    
+        <div class="category">
+            <a href="/c/christmas/holiday-sets-gifts" class="">Christmas Gifts, Sets, &amp; Food</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/christmas/stocking-stuffers" class="">Stocking Stuffers</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/christmas/gifts-for-your-pet" class="">Gifts For Your Pet</a>
+        </div>
+        
+    
+    
+</div>
+
+
+    
+        <div class="department">
+            <a href="/d/toys" class="">Toys </a>
+        </div>
+        
+<div class="categories">
+    
+    
+        <div class="category">
+            <a href="/c/toys/boys-2013" class="">Boys</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/toys/girls-2013" class="">Girls</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/toys/games-activities-2013" class="">Games &amp; Activities</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/toys/kids-electronics-2013" class="">Kids Electronics</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/toys/preschool-2013" class="">Preschool</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/toys/ten-dollar-toys" class="">$10 Toys</a>
         </div>
         
     
@@ -421,7 +388,7 @@
         <div class="department">
             <a href="/d/electronics" class="">Electronics</a>
         </div>
-            
+        
 <div class="categories">
     
     
@@ -473,22 +440,94 @@
 
     
         <div class="department">
+            <a href="/d/holiday-baking" class="">Holiday Baking</a>
+        </div>
+        
+<div class="categories">
+    
+    
+        <div class="category">
+            <a href="/c/holiday-baking/food-products" class="">Food Products</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/holiday-baking/baking-supplies" class="">Baking Supplies</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/holiday-baking/recipes" class="">Recipes</a>
+        </div>
+        
+    
+    
+</div>
+
+
+    
+        <div class="department">
+            <a href="/d/tailgating" class="">Tailgating</a>
+        </div>
+        
+<div class="categories">
+    
+    
+        <div class="category">
+            <a href="/c/tailgating/tailgating-furniture" class="">Setting Up Camp</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/tailgating/tailgating-grilling-more" class="">Grilling &amp; More</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/tailgating/tailgating-tableware" class="">Tableware</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/tailgating/tailgating-food-drink" class="">Food &amp; Drink</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/tailgating/tailgating-coolers" class="">Coolers</a>
+        </div>
+        
+    
+    
+</div>
+
+
+    
+        <div class="department">
             <a href="/d/furniture" class="">Furniture </a>
         </div>
-            
+        
 <div class="categories">
     
     
     
     
-    
-    
         <div class="category">
-            <a href="/c/furniture/furniture-clearance" class="">Furniture Clearance</a>
+            <a href="/c/furniture/just-arrived" class="">Just Arrived</a>
         </div>
         
-    
-    
     
     
     
@@ -528,7 +567,7 @@
     
     
         <div class="category">
-            <a href="/c/furniture/youth" class="">Youth</a>
+            <a href="/c/furniture/fireplaces" class="">Fireplaces</a>
         </div>
         
     
@@ -541,20 +580,10 @@
     
     
     
-    
-    
         <div class="category">
             <a href="/c/furniture/accent-furniture" class="">Accent Furniture</a>
         </div>
         
-    
-    
-    
-    
-    
-    
-    
-    
     
     
 </div>
@@ -564,27 +593,8 @@
         <div class="department">
             <a href="/d/for-the-home" class="">For The Home</a>
         </div>
-            
-<div class="categories">
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-        <div class="category">
-            <a href="/c/for-the-home/home-clearance" class="">Home Clearance</a>
-        </div>
         
-    
-    
-    
-    
-    
+<div class="categories">
     
     
     
@@ -598,14 +608,10 @@
     
     
     
-    
-    
         <div class="category">
             <a href="/c/for-the-home/home-decor-more" class="">Home Décor &amp; More</a>
         </div>
         
-    
-    
     
     
     
@@ -630,7 +636,10 @@
     
     
     
-    
+        <div class="category">
+            <a href="/c/for-the-home/heaters" class="">Heaters</a>
+        </div>
+        
     
     
     
@@ -647,12 +656,12 @@
         <div class="department">
             <a href="/d/grocery" class="">Grocery</a>
         </div>
-            
+        
 <div class="categories">
     
     
         <div class="category">
-            <a href="/c/grocery/dollar-deals" class="">Dollar Deals</a>
+            <a href="/c/grocery/just-reduced" class="">Just Reduced!</a>
         </div>
         
     
@@ -660,6 +669,13 @@
     
         <div class="category">
             <a href="/c/grocery/this-weeks-deals" class="">This Week's Deals</a>
+        </div>
+        
+    
+    
+    
+        <div class="category">
+            <a href="/c/grocery/dollar-deals" class="">Dollar Deals</a>
         </div>
         
     
@@ -680,15 +696,16 @@
     
     
         <div class="category">
-            <a href="/c/grocery/international-and-gourmet-foods" class="">International Foods</a>
+            <a href="/c/grocery/bobs-red-mill" class="">Bob's Red Mill®</a>
         </div>
         
     
     
     
-    
-    
-    
+        <div class="category">
+            <a href="/c/grocery/international-and-gourmet-foods" class="">International Foods</a>
+        </div>
+        
     
     
     
@@ -714,7 +731,7 @@
         <div class="department">
             <a href="/d/pets" class="">Pets</a>
         </div>
-            
+        
 <div class="categories">
     
     
@@ -743,14 +760,9 @@
 
     
         <div class="department">
-            <a href="/d/patriotic-decor" class="">Patriotic</a>
-        </div>
-            
-    
-        <div class="department">
             <a href="/d/home-essentials" class="">Home Essentials</a>
         </div>
-            
+        
 <div class="categories">
     
     
@@ -768,8 +780,6 @@
     
     
     
-    
-    
         <div class="category">
             <a href="/c/home-essentials/garbage-storage-bags" class="">Storage &amp; Trash Bags</a>
         </div>
@@ -783,7 +793,7 @@
         <div class="department">
             <a href="/d/home-improvement" class="">Home Improvement</a>
         </div>
-            
+        
 <div class="categories">
     
     
@@ -791,8 +801,6 @@
             <a href="/c/home-improvement/tools-home-improvement" class="">Tools</a>
         </div>
         
-    
-    
     
     
     
@@ -811,27 +819,22 @@
         <div class="department">
             <a href="/d/health-beauty" class="">Health &amp; Beauty</a>
         </div>
-            
+        
     
         <div class="department">
             <a href="/d/automotive" class="">Automotive</a>
         </div>
-            
-    
-        <div class="department">
-            <a href="/d/toys" class="">Toys</a>
-        </div>
-            
+        
     
         <div class="department">
             <a href="/d/baby" class="">Baby</a>
         </div>
-            
+        
     
         <div class="department">
             <a href="/d/apparel-and-accessories" class="">Apparel &amp; Accessories</a>
         </div>
-            
+        
     
 </div>
 		</div>
@@ -839,32 +842,32 @@
 			<div class="ad-tower">
     
         <div class="ad">
-            <a href="/d/outdoor" class="">
-                <img src="http://www.biglots.com/images/event/tower_20130219_outdoorliving.jpg" alt="Outdoor Living" title="Outdoor Living">
+            <a href="/page/electronics-price-cuts">
+                <img src="http://www.biglots.com/images/event/120713-tower-hugepricecut.gif" alt="Electronics Price Cuts" title="Electronics Price Cuts">
             </a>
         </div>
     
         <div class="ad">
-            <a href="/d/fathers-day" class="">
-                <img src="http://www.biglots.com/images/event/tower_20130518_fathersday.jpg" alt="Father's Day Gifts" title="Father's Day Gifts">
+            <a href="/c/christmas/trees">
+                <img src="http://www.biglots.com/images/event/112613-tower_01.jpg" alt="Christmas Trees" title="Christmas Trees">
             </a>
         </div>
     
         <div class="ad">
-            <a href="http://www.biglots.com/lots2give/participating-schools" target="_blank">
-                <img src="http://www.biglots.com/images/event/tower_20130517_l2g.jpg" alt="Lots2Give" title="Lots2Give">
+            <a href="/c/christmas/indoor-decor" class="">
+                <img src="http://www.biglots.com/images/event/112613-tower_03.jpg" alt="Christmas Indoor Decor" title="Christmas Indoor Decor">
             </a>
         </div>
     
         <div class="ad">
-            <a href="/d/pets" class="">
-                <img src="http://www.biglots.com/images/event/PET_TOWER.jpg" alt="Pet Supplies" title="Pet Supplies">
+            <a href="/d/toys" class="">
+                <img src="http://www.biglots.com/images/event/112613-tower_04.jpg" alt="Toys" title="Toys">
             </a>
         </div>
     
         <div class="ad">
-            <a href="/page/big-lots-on-tv">
-                <img src="http://www.biglots.com/images/event/20130409-tower-bl-on-tv.jpg" alt="Big Lots On Tv" title="Big Lots On TV">
+            <a href="/page/deal-divas">
+                <img src="http://www.biglots.com/images/event/112013_tower_09.jpg" alt="Meet The Deal Divas" title="Meet The Deal Divas">
             </a>
         </div>
     
@@ -875,13 +878,13 @@
         </div>
     
         <div class="ad">
-            <a href="http://www.twitter.com/biglots">
+            <a href="http://www.twitter.com/biglots" target="_blank">
                 <img src="http://www.biglots.com/images/event/tower_20110104_twitter.jpg" alt="Follow Us On Twitter" title="Follow Us On Twitter">
             </a>
         </div>
     
         <div class="ad">
-            <a href="http://www.facebook.com/pages/Big-Lots/151946468186599">
+            <a href="http://www.facebook.com/BigLots" target="_blank">
                 <img src="http://www.biglots.com/images/event/tower_20120106_facebook.jpg" alt="Facebook" title="Facebook">
             </a>
         </div>
@@ -969,8 +972,6 @@
 	<p>
 		<a href="/rewards">Buzz Club™</a></p>
 	<p>
-		<a href="/corporate/careers" target="_blank">Careers</a></p>
-	<p>
 		<a href="/aisle-by-aisle">Aisle by Aisle Tour</a></p>
 	<p>
 		<a href="/user-agreement">User Agreement</a></p>
@@ -985,7 +986,7 @@
 	<h5>
 		<a href="/rewards">Buzz Club Rewards™</a></h5>
 	<p>
-		<a href="/rewards/sign-up">Pre-Register</a></p>
+		<a href="/rewards">Pre-Register</a></p>
 	<p>
 		<a href="/rewards/about">About Rewards</a></p>
 	<p>
@@ -1003,7 +1004,11 @@
 	<p>
 		<a href="/corporate/careers" target="_blank">Careers</a></p>
 	<p>
+		<a href="http://mybiglots.net" target="_blank">Employee Self-Service</a></p>
+	<p>
 		<a href="/corporate/news-center" target="_blank">News Center</a></p>
+	<p>
+		<a href="http://www.biglots.com/corporate/big-lots-wholesale" target="_blank">Big Lots Wholesale</a></p>
 	<p>
 		<a href="/corporate/news-center/product-safety" target="_blank">Recalls</a></p>
 	<p>
@@ -1019,22 +1024,16 @@
 	<p>
 		<a href="http://www.biglotsgear.com" target="_blank">Big Lots Gear</a></p>
 </div>
-<div class="link-list">
-	<h5>
-		<a href="http://www.biglotswholesale.com">Big Lots Wholesale</a></h5>
-	<p>
-		<a href="http://www.biglotswholesale.com/index.php?main_page=page&amp;id=3" target="_blank">About Wholesale</a></p>
-	<p>
-		<a href="http://www.biglotswholesale.com/index.php?show=justcats" target="_blank">Products</a></p>
-	<p>
-		<a href="http://www.biglotswholesale.com/index.php?main_page=products_new" target="_blank">Specials</a></p>
-	<p>
-		<a href="http://www.biglotswholesale.com/index.php?main_page=showrooms" target="_blank">Showrooms</a></p>
-	<p>
-		<a href="http://www.biglotswholesale.com/index.php?main_page=trade_show" target="_blank">Trade Shows</a></p>
-</div>
+<h5>
+	<a href="https://www.facebook.com/BigLots">Big Lots On Social</a></h5>
 <p>
-	&nbsp;</p>
+	<a href="https://www.facebook.com/BigLots" target="_blank">Facebook</a></p>
+<p>
+	<a href="https://twitter.com/biglots" target="_blank">Twitter</a></p>
+<p>
+	<a href="http://instagram.com/biglots#" target="_blank">Instagram</a></p>
+<p>
+	<a href="http://www.youtube.com/biglots" target="_blank">YouTube</a></p>
 
 
 <div class="copyright">
@@ -1047,19 +1046,7 @@
 	</div>
 
     
-    <script src="/analytics/s_code.js" type="text/javascript"></script>
-
-
-
-
-    <script src="/static/2013/02/12/PATCH3/bundle-bundle_core_defer.js" type="text/javascript"></script>
-
-<script type="text/javascript">s.prop7="content";
-    Modernizr.load({
-        test: Modernizr.input.placeholder,
-        nope: "/static/2013/02/12/PATCH3/js/placeholder-polyfill.js"
-    });
-
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-2010557-1']);
     _gaq.push(['_trackPageview']);
@@ -1068,6 +1055,21 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
+</script>
+    <script src="/analytics/s_code.js" type="text/javascript"></script>
+
+
+
+
+    <script src="/static/2013/4/js/frameworks/modernizr.min.js" type="text/javascript"></script>
+<script src="/static/2013/4/js/frameworks/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="/static/2013/4/bundle-bundle_core_defer.js" type="text/javascript"></script>
+
+<script type="text/javascript">s.prop7="content";
+    Modernizr.load({
+        test: Modernizr.input.placeholder,
+        nope: "/static/2013/4/js/placeholder-polyfill.js"
+    });
 s.pageName="";s.channel="";s.server="localhost";s.zip="";s.state="";s.prop9="";s.prop17="";s.prop18="";s.prop19="";s.campaign="";s.prop8="";s.prop6="";s.prop22="";s.prop31="";s.eVar11="";s.eVar20="";s.eVar2="";s.eVar3="";s.eVar7="";s.eVar16="";
     s.prop1=s.eVar4=s.getNewRepeat();
     s.prop2=s.getDaysSinceLastVisit();
