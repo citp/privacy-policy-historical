@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the esl-kids.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302050944id_/http%3A//www.esl-kids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl-kids.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211092930id_/http%3A//esl-kids.com/privacy.html) for the most accurate reproduction.*
 
-# ESL-Kids - Privacy Policy
+# ESL-Kids - Flashcards, Worksheets, Games and Songs
 
-|  | 
+ESL-Kids.com - ESL stuff for teaching kids including flashcards, worksheets, classroom games and children's song lyrics.  
+A great resource for teachers of ESL kids.
 
-Privacy Policy
+### Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at nick AT longcountdown DOT com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at nick AT esl-kids DOT com. 
 
 At ESL-Kids.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by ESL-Kids.com and how it is used. 
 
@@ -33,12 +34,3 @@ ESL-Kids.com has no access to or control over cookies that are used by third-par
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ESL-Kids.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-|  | 
-
-| 
-
-ESL-Kids.com © Nick Ramsay. All rights reserved. [Privacy Policy](http://www.esl-kids.com/privacy-policy.html).   
-Images featured on this website are copyright of their respective owners. Material on this website is for private use only.   
-You may not copy, modify or redistribute any part of this site in any form without prior permission.   
-ESL-Kids.com - Free ESL resources for kids including flashcards, worksheets, games and song lyrics.
