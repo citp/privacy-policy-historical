@@ -1,30 +1,28 @@
-<!--The following is the downloaded HTML source of the flightrising.com privacy policy that was archived on 2013-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611010612id_/http%3A//flightrising.com/main.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flightrising.com privacy policy that was archived on 2013-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211210437id_/http%3A//flightrising.com/main.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Flight Rising </title>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Flight Rising </title>
 
-<link rel="stylesheet" type="text/css" href="includes/custom-theme/jquery-ui-1.8.19.custom.css">
-<link rel="stylesheet" type="text/css" href="includes/2_1.css">
+<link rel="stylesheet" type="text/css" href="/includes/custom-theme/jquery-ui-1.8.19.custom.css">
+<link rel="stylesheet" type="text/css" href="/includes/2_1.css">
 
-<!--<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
-<script type="text/javascript" src="js/jquery.hoverIntent.js"></script>
-<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-<!--<script type="text/javascript" src="js/jquery-ui-1.8.19.custom.min.js"></script>-->
-<script type="text/javascript" src="js/jquery.cluetip.min.js"></script>
-<script type="text/javascript" src="js/ed.js"></script>
+<script type="text/javascript" src="/js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="/js/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.9.2.js"></script>
+<script type="text/javascript" src="/js/jquery.cluetip.min.js"></script>
+<script type="text/javascript" src="/js/ed.js"></script>
 
 <script type="text/javascript">
 function helpMe(tut, first){
 	$('body').append('<div id="tutorial"></div>');
-	$("#tutorial").html('<img src="images/layout/loading.gif"> loading...'); 
+	$("#tutorial").html('<img src="/images/layout/loading.gif"> loading...'); 
 	
 	$.ajax({
 		type: "POST",
 		data: {tut: tut, ret: "title"},
-		url: "includes/ol/tutorial.php",
+		url: "/includes/ol/tutorial.php",
 		cache:false
 	}).done(function(stuff){	
 		var tuttitle = stuff;
@@ -54,7 +52,7 @@ function helpMe(tut, first){
 		$.ajax({
 			type: "POST",
 			data: {tut: tut, ret: "modal", first: first},
-			url: "includes/ol/tutorial.php",
+			url: "/includes/ol/tutorial.php",
 			cache:false
 		}).done(function(bodystuff){	
 			$("#tutorial").html(bodystuff);
@@ -81,7 +79,7 @@ function pregiveStar(id)
 function giveStar(id)
 {	
 	 
-	$("#achieve_pop").html('<img src="../../images/layout/loading.gif"> loading...'); 
+	$("#achieve_pop").html('<img src="/../../images/layout/loading.gif"> loading...'); 
 	
 	$('#achieve_pop').dialog({
 		autoOpen: false,
@@ -104,7 +102,7 @@ function giveStar(id)
 	
 	$.ajax({
 		data: {id: id},
-		url: "includes/ol/achieve_pop.php",
+		url: "/includes/ol/achieve_pop.php",
 		cache:false
 	}).done(function(stuff){
 		$('#achieve_pop').dialog('open');
@@ -131,7 +129,8 @@ var starmie = Array();
 //CLUETIP
 $(document).ready(function() {
 	$('a.clue').cluetip({
-		height:"auto"				  
+		height:"auto",
+		ajaxCache: true				  
 	});
   
 	$('a.clueitem').cluetip({
@@ -139,12 +138,14 @@ $(document).ready(function() {
 		showTitle:false,
 		positionBy: 'mouse',   // Sets the type of positioning: 'auto', 'mouse','bottomTop', 'topBottom', fixed'
 		topOffset: 20,       // Number of px to offset clueTip from top of invoking element
-		leftOffset: -20       // Number of px to offset clueTip from left of invoking element
+		leftOffset: -20,       // Number of px to offset clueTip from left of invoking element
+		ajaxCache: true
 	});
   
 	$('a.cluestat').cluetip({
 		width: 180,
-		height: "auto"
+		height: "auto",
+		ajaxCache: true
 	});
   
 	$('a.clue_nrg').cluetip({
@@ -244,7 +245,7 @@ $(document).ready(function() {
 		{
 			textarea.focus();
 			var sel = document.selection.createRange();
-			sel.text = "[quote name='"+user+"' date='"+date+"' url='main.php?p=mb&board=&page=1&id=#"+id+"']"+quote+"[/quote]";
+			sel.text = "[quote name='"+user+"' date='"+date+"' url='main.php?p=mb&board=&page=1&id=0#"+id+"']"+quote+"[/quote]";
 		}
 		
 		else 
@@ -259,7 +260,7 @@ $(document).ready(function() {
 
 			
         	var sel = textarea.value.substring(start, end);
-			var rep = "[quote name='"+user+"' date='"+date+"' url='main.php?p=mb&board=&page=1&id=#"+id+"']"+quote+"[/quote]";
+			var rep = "[quote name='"+user+"' date='"+date+"' url='main.php?p=mb&board=&page=1&id=0#"+id+"']"+quote+"[/quote]";
         	textarea.value =  textarea.value.substring(0,start) + rep + textarea.value.substring(end,len);
 		
 			textarea.scrollTop = scrollTop;
@@ -270,26 +271,22 @@ $(document).ready(function() {
 
 
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3549204-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-45423708-1', 'flightrising.com');
+  ga('send', 'pageview');
 
 </script></head>
-	<body style="background-image: url(images/layout/none/bg.jpg);">
+	<body style="background-image: url(/images/layout/none/bg.jpg);">
 	<div class="container">
-	<div class="banner" style="background-image:url(images/layout/none/banner.jpg); position:relative;">
+	<div class="banner" style="background-image:url(/images/layout/none/banner.jpg); position:relative;">
 	
 
-<div class="logo" id="logo" style="width:325px;"><a href="http://flightrising.com/index.php"><img border="0" src="images/layout/trans.png" width="312" height="140"></a></div>
+<div class="logo" id="logo" style="width:325px;"><a href="http://flightrising.com/index.php"><img border="0" src="/images/layout/trans.png" width="312" height="140"></a></div>
 
 
 
@@ -301,17 +298,26 @@ $(document).ready(function() {
 
 <div class="loginarea" id="loginarea">
 
+<div style="position:absolute; height:27px; width:950px; bottom:4px; right:0px;">
+	<span style="position:absolute; top:8px; left:10px; text-align:left; vertical-align:middle;">
+	<span style="position:relative; margin-right:15px; font-weight:bold; display:inline-block;">
+    <img src="/images/layout/siteclock.png" style="vertical-align:middle;">
+	13:04    </span>
+    |
+	</span>
+	
+	<span style="position:absolute; top:8px; left:100px; text-align:left;">
+	<strong><a href="main.php?p=active" class="loginlinks">1460 Users Online</a></strong>
+	</span>
 
+</div>
 
-	<div style="position:absolute; height:27px; width:950px; bottom:4px; right:0px;">
-  	<span style="position:absolute; top:8px; left:10px; text-align:left;">	<img style="margin-right:5px;" align="absmiddle" src="images/layout/siteclock.png">	<span style="margin-right:10px; display:inline-block; font-weight:bold;">18:06	</span>		<span style="color:#b0553f;">|</span>	</span>		<span style="position:absolute; top:8px; left:100px; text-align:left;">	<a href="main.php?p=active" class="loginlinks"><strong>957</strong> Users Online</a>	</span>
-	</div>
 	
 	
 </div>
 
 
-<div id="usertab" style="position:absolute; background-image:url(images/layout/user_module_bg.png); right:0px; bottom:31px; height:90px; width:285px;">
+<div id="usertab" style="position:absolute; background-image:url(/images/layout/user_module_bg.png); right:0px; bottom:31px; height:90px; width:285px;">
 	<div class="loginform" style="position:relative; width:250px; margin-left:auto; margin-right:auto;">
 		<form method="post" id="loginform">
 		<span style="position:absolute; left:0px; top:5px;">
@@ -342,7 +348,7 @@ $(document).ready(function() {
 	$('#loginform').submit(function(e) {	
 		e.preventDefault();
 		$('body').append('<div id="logging"></div>');
-		$("#logging").html('<img src="images/layout/loading.gif"> loading...');
+		$("#logging").html('<img src="/images/layout/loading.gif"> loading...');
 		
 		$('#logging').dialog({
 			autoOpen: false,
@@ -383,51 +389,81 @@ $(document).ready(function() {
 
 <div class="leftcolumn">
 
-<img src="images/layout/under_shadow.png" width="200px" height="3px" style="position:absolute; z-index:10;">
+<img src="/images/layout/under_shadow.png" width="200px" height="3px" style="position:absolute; z-index:10;">
 
 	<div style="position:relative; width:180px; margin:10px;">
 	
-		 	<script type="text/javascript">
+		<script type="text/javascript">
+	function navDrill(divid) {
+		var div = document.getElementById(divid);
+		if (div.style.display == "inline") {
+			div.style.display = "none";
+			document.getElementById(divid + "+").innerHTML = "+";
+		} else {
+			div.style.display = "inline";
+			document.getElementById(divid + "+").innerHTML = "-";
+		};
+	};
+</script>
+<style type="text/css">
+	.navdrill {
+		display: none;
+		margin-left: 25px;
+	}
+	.navbar_drill {
+		font-size:10px;
+		display:block;
+		margin-left:30px;
+		color:#731d08;
+	}
+	.navbar_inline {
+		font-size:12px;
+		display:inline;
+		color:#731d08;
+		font-weight: bold;
+	}
+</style>
+	<script type="text/javascript">
 	if (document.images) 
 	{
 		var clan_hover = new Image();
-		clan_hover.src='images/layout/header_clan_hover.png';
+		clan_hover.src='/images/layout/header_clan_hover.png';
 		var shop_hover = new Image();
-		shop_hover.src='images/layout/header_shop_hover.png';
+		shop_hover.src='/images/layout/header_shop_hover.png';
 		var play_hover = new Image();
-		play_hover.src='images/layout/header_play_hover.png';
+		play_hover.src='/images/layout/header_play_hover.png';
 		var library_hover = new Image();
-		library_hover.src='images/layout/header_library_hover.png';
+		library_hover.src='/images/layout/header_library_hover.png';
 	}
 	</script>
 		
-	<a href="main.php?p=unreg"><img src="images/layout/header_clan.png" border="0" width="179" height="29" onmouseover="this.src=clan_hover.src" onmouseout="this.src='images/layout/header_clan.png'" style="margin-top:10px; margin-bottom:5px;"></a>
-	<a class="navbar" href="main.php?p=unreg">Dragon Lair</a>
-	<a class="navbar" href="main.php?p=unreg">Nesting Grounds</a>
-	<a class="navbar" href="main.php?p=unreg">Gather Items</a>
-	<a class="navbar" href="main.php?p=unreg">Clan Profile</a>
-	<a class="navbar" href="main.php?p=unreg">Hoard</a>
-	<a class="navbar" href="main.php?p=unreg">Messages</a>
+	<a href="main.php?p=unreg"><img src="/images/layout/header_clan.png" border="0" width="179" height="29" onmouseover="this.src=clan_hover.src" onmouseout="this.src='/images/layout/header_clan.png'" style="margin-top:10px; margin-bottom:5px;"></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Dragon Lair</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Nesting Grounds</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Gather Items</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Clan Profile</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Hoard</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Messages</span></a>
 	
-	<a href="main.php?p=unreg"><img src="images/layout/header_shop.png" border="0" width="179" height="29" onmouseover="this.src=shop_hover.src" onmouseout="this.src='images/layout/header_shop.png'" style="margin-top:10px; margin-bottom:5px;"></a>
-	<a class="navbar" href="main.php?p=market">Marketplace</a>
-	<a class="navbar" href="main.php?p=unreg">Auction House</a>
-	<a class="navbar" href="main.php?p=unreg">Trading Post</a>
-	<a class="navbar" href="main.php?p=unreg">Crossroads</a>
-	<a class="navbar" href="main.php?p=skins">Custom Skins</a>
+	<a href="main.php?p=unreg"><img src="/images/layout/header_shop.png" border="0" width="179" height="29" onmouseover="this.src=shop_hover.src" onmouseout="this.src='/images/layout/header_shop.png'" style="margin-top:10px; margin-bottom:5px;"></a>
+	<a class="navbar" href="main.php?p=market"><span class="navbar-glow-hover">Marketplace</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Auction House</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Trading Post</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Crossroads</span></a>
+	<a class="navbar" href="main.php?p=skins"><span class="navbar-glow-hover">Custom Skins</span></a>
 	
-	<a href="main.php?p=unreg"><img src="images/layout/header_play.png" border="0" width="179" height="29" onmouseover="this.src=play_hover.src" onmouseout="this.src='images/layout/header_play.png'" style="margin-top:10px; margin-bottom:5px;"></a>
-	<a class="navbar" href="main.php?p=unreg">Fairgrounds</a>
-	<a class="navbar" href="main.php?p=unreg">Coliseum</a>
-	<a class="navbar" href="main.php?p=dominance">Dominance</a>
+	<a href="main.php?p=unreg"><img src="/images/layout/header_play.png" border="0" width="179" height="29" onmouseover="this.src=play_hover.src" onmouseout="this.src='/images/layout/header_play.png'" style="margin-top:10px; margin-bottom:5px;"></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Fairgrounds</span></a>
+	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Coliseum</span></a>
+	<a class="navbar" href="main.php?p=dominance"><span class="navbar-glow-hover">Dominance</span></a>
 	<!--<a class="navbar" href="main.php?p=unreg">Adventure</a>-->
 	
-	<a href="main.php?p=libraryhome"><img src="images/layout/header_library.png" border="0" width="179" height="29" onmouseover="this.src=library_hover.src" onmouseout="this.src='images/layout/header_library.png'" style="margin-top:10px; margin-bottom:5px;"></a>
-	<a class="navbar" href="main.php?p=mb">Forums</a>
-	<a class="navbar" href="main.php?p=explore">World Map</a>
-	<a class="navbar" href="main.php?p=search">Search</a>
-	<a class="navbar" href="main.php?p=wiki">Encyclopedia</a>
-	<a class="navbar" href="main.php?p=wallpaper">Media</a>	
+	<a href="main.php?p=libraryhome"><img src="/images/layout/header_library.png" border="0" width="179" height="29" onmouseover="this.src=library_hover.src" onmouseout="this.src='/images/layout/header_library.png'" style="margin-top:10px; margin-bottom:5px;"></a>
+	<a class="navbar" href="main.php?p=mb"><span class="navbar-glow-hover">Forums</span></a>
+	<a class="navbar" href="main.php?p=explore"><span class="navbar-glow-hover">World Map</span></a>
+	<a class="navbar" href="main.php?p=search"><span class="navbar-glow-hover">Search</span></a>
+	<a class="navbar" href="main.php?p=wiki"><span class="navbar-glow-hover">Encyclopedia</span></a>
+	<a class="navbar" href="main.php?p=wallpaper"><span class="navbar-glow-hover">Media</span></a>	
 		
 		<div class="skybanner" style="margin-bottom:10px; margin-top:15px; overflow:hidden;">
 			<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=552353&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=148094"></script>
@@ -442,9 +478,9 @@ $(document).ready(function() {
 <div class="main">
 <!--START CODEMEGEDDON-->
 
-<img src="images/layout/under_shadow.png" width="750px" height="3px" style="position:absolute; z-index:10;">
-<img src="images/layout/privacy/internal_bg.jpg" style="position:absolute; right:0px;" id="internal_bg">
-	<div style="position:relative; width:730px; margin:10px;" id="super-container">
+<img src="/images/layout/under_shadow.png" width="750px" height="3px" style="position:absolute; z-index:10;">
+<img src="/images/layout/privacy/internal_bg.jpg" style="position:absolute; right:0px;" id="internal_bg">
+<div style="position:relative; width:730px; margin:10px;" id="super-container">
 <div style="font-size:12px; color:#000;">
 	<a href="index.php" style="color:#000;">Home</a> »
 	<a href="main.php?p=privacy" style="color:#731d08; font-weight:bold;">Privacy Policy</a> »
@@ -513,13 +549,11 @@ Additionally, 3rd party advertisers on our site may use cookies for tracking pur
 	</div></div>
 <!--End Bottom Banner-->
 <div class="copybar">© 2013 Stormlight Workshop. All Rights Reserved<br>
-<a href="main.php?p=tos">Terms of Use</a> | <a href="main.php?p=privacy">Privacy Policy</a> | <a href="index.php?p=contact">Contact Us</a> | <a href="http://www.virtualpetlist.com/" target="_blank" alt="Virtual Pet List">Virtual Pets Forum</a></div>
+<a href="main.php?p=tos">Terms of Use</a> | <a href="main.php?p=privacy">Privacy Policy</a> | <a href="main.php?p=credits">Credits</a> |  <a href="index.php?p=contact">Contact Us</a> | <a href="http://www.virtualpetlist.com/" target="_blank" alt="Virtual Pet List">Virtual Pets Forum</a></div>
 <!--End Copybar-->
 
 <!--End Container-->
 </div>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","b24d3dfb63","2206232","ZlJQbEJZWUtTUUZYWV8YZ0pZF1pZW1wcQV5B",0,753,new Date().getTime(),"","","","",""]);</script>
 
-<!--<script type="text/javascript"> RedrawAllTrees(); </script>-->
-
-
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
