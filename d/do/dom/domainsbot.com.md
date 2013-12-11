@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsbot.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611103426id_/http%3A//www.domainsbot.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsbot.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211232527id_/http%3A//www.domainsbot.com/home/privacy) for the most accurate reproduction.*
 
 # Available domain suggestions,expired and expiring domain name, whois lookup | DomainsBot
 
