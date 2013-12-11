@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603054837id_/http%3A//tga.gov.au/about/website-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211233038id_/http%3A//www.tga.gov.au/about/website-privacy.htm) for the most accurate reproduction.*
 
 # Privacy & security
 
@@ -16,11 +16,19 @@ The Department of Health and Ageing will only record your email address if you s
 
 ## Cookies
 
-The Department of Health and Ageing uses 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. (An explanation of cookies can be found at the website of the [Privacy Commissioner](http://www.privacy.gov.au/internet/internet_privacy/#2.1 "link to the Privacy Commissioner's website"). Cookies allow us to recognise you as an individual, as you move from one of our web pages to another.
+The Department of Health and Ageing uses 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. (An explanation of cookies can be found at the website of the [Privacy Commissioner](http://www.privacy.gov.au/internet/internet_privacy/#2.1 "link to the Privacy Commissioner's website"). Cookies allow us to recognise you as an individual web user, as you browse our website.
 
-All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you.
+### Session cookies
 
-No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
+These exist only for the duration of a web browser session with a particular website/host. All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you.
+
+### Persistent cookies
+
+These exist for a defined period of time (usually beyond the termination of the current session) before expiring.
+
+### Privacy
+
+No personally identifiable information is stored within cookies used by this website. No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
 
 ## Clickstream data
 
@@ -28,12 +36,12 @@ Any system on this website that records information about you, will specifically
 
 When you visit this site, the Department of Health and Ageing makes a record of your visit and logs the following information for statistical or systems administration purposes:
 
-  * the user's server address
-  * the user's top level domain name
-  * the date and time of access to the site
-  * pages accessed and documents downloaded
-  * the previous site visited
-  * type of browser used
+  * the user's server address 
+  * the user's top level domain name 
+  * the date and time of access to the site 
+  * pages accessed and documents downloaded 
+  * the previous site visited 
+  * type of browser used 
 
 
 
@@ -64,10 +72,10 @@ Australia
 
 Top of page
 
-Content last updated: Wednesday, 2 February 2011
+Content last updated: Wednesday, 28 August 2013
 
-Content last reviewed: Wednesday, 2 February 2011
+Content last reviewed: Wednesday, 28 August 2013
 
-Web page last updated: Monday, 20 May 2013
+Web page last updated: Wednesday, 28 August 2013
 
 URL: http://www.tga.gov.au/about/website-privacy.htm
