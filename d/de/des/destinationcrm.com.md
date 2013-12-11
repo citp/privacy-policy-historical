@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527123753id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211235141id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
 
 # ITI Privacy and Cookies Policy
 
@@ -20,7 +20,6 @@
 **[destinationCRMBlog.com](http://www.destinationcrmblog.com/)**  
 **[econtentmag.com](http://www.econtentmag.com/)**  
 **[emedialive.com](http://www.emedialive.com/)**  
-**[enterprisesearchcenter.com](http://www.enterprisesearchcenter.com/)**  
 **[enterprisesearcheurope.com](http://www.enterprisesearcheurope.com/)**  
 **[enterprisesearchsummit.com](http://www.enterprisesearchsummit.com/)**  
 [**enterprisevideoconference.com**](http://www.enterprisevideoconference.com/)  
