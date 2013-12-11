@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsense-secrets.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512185013id_/http%3A//www.adsense-secrets.com/members/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsense-secrets.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211114436id_/http%3A//www.adsense-secrets.com/members/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -66,3 +66,7 @@ Flying Monkey Media, Inc.
 1151 Eagle Dr Ste 325  
 Loveland, CO 80537  
 [Support Desk](http://support.infomediainc.com/)
+
+—-
+
+VeriPurchase uses information collected from our customers through ClickBank in order to display in the VeriPurchase Customer Widget. This includes first name, first initial of last name, and country. To opt-out go to http://www.veripurchase.com/optout.php
