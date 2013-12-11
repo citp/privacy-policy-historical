@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vaporbeast.com privacy policy that was archived on 2013-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611022729id_/http%3A//www.vaporbeast.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vaporbeast.com privacy policy that was archived on 2013-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211014255id_/http%3A//www.vaporbeast.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -29,6 +29,7 @@ GREAT PRICES . FREE SHIPPING . FAST DELIVERY">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -44,7 +45,30 @@ GREAT PRICES . FREE SHIPPING . FAST DELIVERY">
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -57,7 +81,7 @@ GREAT PRICES . FREE SHIPPING . FAST DELIVERY">
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.4.92"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -94,12 +118,280 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 
 
 <meta name="google-site-verification" content="QhY6JYl33wXRD_IVX6CU2Uj_gVXrS24bH5HNR3F5f9E">
+<!-- include jQuery library -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js">
+</script>
+<!-- include Cycle plugin -->
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<link href="https://www.vaporbeast.com/v/vspfiles/assets/css/styles2.css" rel="stylesheet" type="text/css">
 </head>
 
 <!-- #################### FREE TEMPLATE INFO VFAD-Y-SPD-062011 #################### -->
 
 <body>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#testimonials1')
+	.before('<div id="nav">')
+	.cycle({
+        fx: 'fade', // choose your transition type, ex: fade, scrollUp, scrollRight, shuffle
+		pager:  '#nav',
+                timeout: '10000'
 
+   
+     });
+ 
+});
+</script>
+
+
+<div class="panel2 left2 orange">
+
+<img style="margin-left:264px; margin-top:-4px;" alt="" src="/v/vspfiles/assets/images/testimonials-tab.png" align="" border="0px">
+<div id="nav"><a href="#" class="activeSlide">1</a><a href="#">2</a><a href="#">3</a><a href="#">4</a><a href="#">5</a><a href="#">6</a><a href="#">7</a><a href="#">8</a><a href="#">9</a><a href="#">10</a><a href="#">11</a><a href="#">12</a><a href="#">13</a><a href="#">14</a><a href="#">15</a><a href="#">16</a><a href="#">17</a><a href="#">18</a><a href="#">19</a><a href="#">20</a><a href="#">21</a><a href="#">22</a><a href="#">23</a><a href="#">24</a><a href="#">25</a><a href="#">26</a><a href="#">27</a><a href="#">28</a><a href="#">29</a><a href="#">30</a><a href="#">31</a><a href="#">32</a><a href="#">33</a><a href="#">34</a><a href="#">35</a><a href="#">36</a><a href="#">37</a><a href="#">38</a><a href="#">39</a></div><div id="testimonials1" style="position: relative; width: 1286px; height: 52px;">
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: block; z-index: 40; opacity: 1;">
+<p>"This shop represents a great discovery in a myriad of undistinguished online vaping shops. Tim and staff manage a helpful, caring and customer-centric enterprise.  Praise is indeed well-deserved, Vapor Beast has earned all my future business."<cite>–VapeDoc5</cite></p>
+</blockquote>
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 38; opacity: 0;">
+<p>"You guys are awesome! Your free shipping is extremely fast and an excellent bonus. Your customer service is the best I have ever come across!. I don't even go price searching any more. I'm extremely satisfied every time!"<cite>–Michael T.</cite></p>
+</blockquote>
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 37; opacity: 0;">
+<p>"Tim runs a classy shop, and I am grateful for your kind solution to my problem - admittedly self-inflicted.  Exceptional customer service, which has now earned all my future business. Many thanks again."<cite>–Jack P.</cite></p>
+</blockquote>
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 36; opacity: 0;"><p> I have ordered a good bit of stuff from you and have always been extremely happy with the advice you gave me. The customer service has been above and beyond the best. Thanks for a great job."<cite>–Phillip H.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 35; opacity: 0;"><p>"Love the service, selection and prices!  Highly recommend for one stop shopping.  If you are new to vaping, they will help set you up and take time to answer questions.  They are honest, have integrity, and are out to help you have a great vape experience."<cite>–baseballmom</cite></p>
+</blockquote>
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 34; opacity: 0;">
+<p>"Vapor Beast customer service is the BEST I've ever dealt with. I've yet to come across another company that even compares to the level of service you guys joyfully give. Very impressed! Wishing Vapor Beast much success!"<cite>–Derek C.</cite></p>
+</blockquote>
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 33; opacity: 0;"><p>"I've always had great service and really appreciated it. It's rare these days to get the kind of service you provide. Keep up the good work, I always look forward to ordering from you all and talking to you. Thank you for all you do."<cite>-Randal H.</cite></p></blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 32; opacity: 0;"><p>"Fantastic service and fast delivery and free shipping. Good job Vapor Beast!"<cite>-Terrance G.</cite></p></blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 31; opacity: 0;">
+<p>"I just ordered a pack of T2 coils yesterday and it arrived today......super fast shipping......love Vapor Beast!"<cite>–Roger S.</cite></p>
+</blockquote>
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 30; opacity: 0;">
+<p>"Awesome build quality and superb vapor/flavor.  I am very impressed and completely satisfied.  I will definitely recommend this tank to everyone.  All 
+around amazing."<cite>–Dan W.</cite></p>
+</blockquote> 
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 29; opacity: 0;">
+<p>"I've shopped at Vapor Beast for some time now and I can honestly say every facet of the shopping experience has always been top notch and handled timely with the utmost professionalism.  Vapor Beast is truly a BEAST!!"<cite>–Robert W.</cite></p>
+</blockquote> 
+    
+   
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 28; opacity: 0;">
+<p>"Best customer service out there.  Haven't even gotten my first package and I already want to order more.  Thank you for the attention!"<cite>–Tomas 
+
+S.</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 27; opacity: 0;">
+<p>"These guys ROCK! I have placed two very small orders so far, shipped same day as ordered and received in my mailbox in Florida two days later.
+Thank You!"<cite>–Cathy N.</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 26; opacity: 0;">
+<p>"I just want to say Vapor Beast is on TOP of my vendor list.  I emailed them with a problem and received a phone call back and all I can say is I am a very happy customer.  Vapor Beast has TOP NOTCH Customer Service!! I will be pimping this vendor 
+
+out!"<cite>–Shannon R.</cite></p>
+</blockquote> 
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 25; opacity: 0;">
+<p>"Incredible customer service.  I was missing a part for a mech mod I ordered and two days later I get a package in the mail with the extender ring and a 
+
+little goodie bag with some dripping cartomizers. Really good stuff guys keep up the good work."<cite>–John M.</cite></p>
+</blockquote>    
+
+    
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 24; opacity: 0;">
+<p>"Thinking about making the switch from smoking to vaping? Dont know where to look? Try Vapor Beast.  These guys have the best customer service I've ever 
+
+experienced online AND they have great prices and an amazing selection."<cite>–Seth S.</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 23; opacity: 0;">
+<p>"First time ordering from Vapor Beast and will not be the last! I ordered on Monday the 14th and received my package in 2 days with their amazing free 
+
+shipping.You earned yourself a new customer Vapor Beast, keep up the good work!"<cite>–Nate J.</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 22; opacity: 0;"><p>"Ordered something late Thursday evening, it shows up early Saturday mornng.  Did you folks throw it from Cali to 
+
+TN? No way the mail ran that fast!! Thanks!!"<cite>- Dave R. </cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 21; opacity: 0;">
+<p>"Hands down this is my favorite source for Vape supplies.  Thank you for AWESOME customer service in a time where such seems to be fading away in search 
+
+of every last penny for profit."<cite>- Jason R.</cite></p>
+</blockquote>
+
+       
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 20; opacity: 0;">
+<p>"Vapor Beast is the best! Never before have I had such great customer service. They offer top quality products, super fast shipping and superior customer 
+
+service. Tim is more than happy to answer your questions and help you."<cite>- Phillip H.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 19; opacity: 0;">
+<p>"Just got my iTaste SVD today from you guys and it works great and it got here from coast to coast extremely fast for such a low cost.  Thanks so much for 
+
+being the best vape site I have ever had the chance to use."<cite>– Andrew</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 18; opacity: 0;">
+<p>"Are you serious? The owner of the company called my personal cell phone to answer a question for me?? Thanks, Tim. Many more orders to come. I appreciate 
+
+it! "<cite>– Todd S.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 17; opacity: 0;">
+<p>"Everyone needs to get their vapor needs taken care of by vaporbeast! Great customer service and website is awesome! Thanks again Tim!"<cite>–Chad 
+
+K.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 16; opacity: 0;">
+<p>"Awesome customer service, quick shipping and great price on the new Kanger T3's!" Thanks Sue "<cite>– Kathy O.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 15; opacity: 0;">
+<p>"Got my Twist Ultra kit in the mail yesterday!! Wow, that was some fast shipping! Everything is working great... this system blows my old cig-alike out of 
+
+the water! Can't wait to orderfrom y'all again soon :)"<cite>– Melissa P.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 14; opacity: 0;">
+<p>"I can't stop talking about you guys on <b>ECF...</b> nothing but great things I'm fortunate to have found vapor beast."<cite>– Brian 
+
+G.</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 13; opacity: 0;">
+<p>"Man!!!!! Ordered a new Innokin iTaste MVP and gear Sunday....at my doorstep today AND shipped free!!!! Awesome.....you just found a new repeat customer 
+
+folks! Thanks!"<cite>– Michael M.</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 12; opacity: 0;"><p>"I tried to quit smoking twice before. The third time I bought the Vector Variable 
+Volt and I have quit smoking for good this time. It satisfies all of my cravings 
+and has not let me down. VaporBeast is a great place to do business."<cite>- Kevin L</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 11; opacity: 0;"><p>"One word. Awesome! The shipping was fast and free! High quality mod and a great 
+value for the kit. I will be doing business again with this fantastic company!" <cite>- Brandon O.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 10; opacity: 0;"><p>"Fast as hell delivery...ordered on Friday, shipped on Friday and received today. 
+I cant believe how quickly I received my order. Thank you VaporBeast!" <cite>- Stefanie E.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 9; opacity: 0;"><p>"This store is #1 compared to all the other shops. Fast delivery and good 
+customer service." <cite>- Michael L.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 8; opacity: 0;"><p>"Tim's customer service can be defined as excellence in it's purest form. Not many companies left 
+
+with the kind service that makes you feel like you're the only customer they are dealing with. I have three sites I use for my vaping needs and 
+
+VaporBeast is #1!" <cite>- Dag N.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 7; opacity: 0;"><p>"I emailed Tim around 3 a.m. and received an email around 6 a.m. Now that’s amazing service. If Tim has what 
+
+I need...I’ll be sure to order from him again. Keep up the great work."<cite>- Giuliano T.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 6; opacity: 0;"><p>"As always, shipping is fast and free...I love you guys and recommend you to everyone. You are my favorite 
+
+supplier bar none! :) :) :)" <cite>- Noel W.</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 5; opacity: 0;"><p>"Man...shipping was super fast. Customer service excellent. I love the fact that Vapor Beast is always 
+
+bringing in cool mods and new things to try"<cite> - Clay S.</cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;"><p>"You won't get this sort of service elsewhere. He takes pride in his company and it shows. So I'm 
+
+proud to purchase from such a great company. Cheers!" <cite>- Brandon H.</cite></p>
+</blockquote>
+
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;"><p>"Thanks again! VaporBeast for the best products, customer service and prices." <cite>- Paula </cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;"><p>"After 10 or so minutes of talking to Tim, I was sold on the Vector and on VaporBeast for the customer 
+
+service. Thanks Tim and Sue ... it's a pleasure doing business with you. 5 stars for the Vector and 5 stars for VaporBeast."<cite> -Dave </cite></p>
+</blockquote>
+
+
+<blockquote style="margin-top: -154px; position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;"><p>"I am quite happy. Excellent price also and you can never go wrong with the free shipping and outstanding 
+
+customer service!!!"<cite>- Paula </cite></p>
+</blockquote>
+
+
+
+
+
+
+
+	</div>
+</div>
 <div id="page">
 
 <!-- #################### HEADER #################### -->
@@ -107,7 +399,12 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 	<div id="display_homepage_titleLogo"><img src="/v/vspfiles/assets/images/anim-logo.gif"></div>
     
     <div id="headerTop">
-            <a href="http://www.vaporbeast.com/">Home</a> | <a href="http://www.vaporbeast.com/aboutus.asp">About Us</a> | <a href="http://www.vaporbeast.com/myaccount.asp">My Account</a> | <a href="http://www.vaporbeast.com/shoppingcart.asp">View Cart</a> | <a href="http://www.vaporbeast.com/help.asp">Help</a>
+<!--
+<div class="phone">877-821-6062</div>
+-->
+            <a href="http://www.vaporbeast.com/">Home</a> | <a href="http://www.vaporbeast.com/aboutus.asp">About Us</a> | <a href="http://www.vaporbeast.com/myaccount.asp">My 
+
+Account</a> | <a href="http://www.vaporbeast.com/shoppingcart.asp">View Cart</a> | <a href="http://www.vaporbeast.com/help.asp">Help</a> | &nbsp;&nbsp;&nbsp;877-821-6062
     </div>
 
     
@@ -172,7 +469,22 @@ function mClk2(src, popup)
         <!-- #################### CHOOSE LIST ITEM OR TREE EXPAND OR ROLLOVER COLORS POPOUT #################### -->       
  	 <!--
         <h3 style="color:#000000; background-color:;">Nav Menu 3</h3>
-        <div id="display_menu_3" class="menu"></div>
+        <div id="display_menu_3" class="menu">
+<script type="text/javascript">var breadCrumb="||";</script>
+<script type="text/javascript">
+function mOvr3(src)
+{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav nav_hover'; }
+function mOut3(src)
+{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav'; }
+function mClk3(src, popup) 
+{ if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
+</script>
+<ul>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.vaporbeast.com/category-s/1818.htm" title="">Videos</a>
+</li>
+</ul>
+</div>
 	 -->
         
         <!-- #################### NAV MENU PROMOTIONS -->            
@@ -210,7 +522,9 @@ function mClk2(src, popup)
         <div id="eList">
             <div class="title">Sign Up For Our Newsletter:</div>
             <form name="MailingList" method="post" action="http://www.vaporbeast.com/MailingList_subscribe.asp">  
-            <input type="text" id="elist_input" name="emailaddress" value="enter email address" onfocus="if (this.value == 'enter email address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter email address';}"> 
+            <input type="text" id="elist_input" name="emailaddress" value="enter email address" onfocus="if (this.value == 'enter email address') {this.value 
+
+= '';}" onblur="if (this.value == '') {this.value = 'enter email address';}"> 
             <input type="submit" name="Submit" id="elist_submit" value="Submit">
             </form>
         </div> 
@@ -221,7 +535,14 @@ function mClk2(src, popup)
             <li><a href="http://www.vaporbeast.com/terms_privacy.asp">Privacy &amp; Security</a></li>
             <li><a href="http://www.vaporbeast.com/terms.asp">Legal Statement</a></li>
 <div id="SocialMedia">
-<a href="https://www.facebook.com/"><img src="/v/vspfiles/assets/images/FacebookLogo.png" width="40" height="40" alt="Facebook" align="" border="0"></a><a href="https://www.twitter.com/@vaporbeast1"><img src="/v/vspfiles/assets/images/TwitterLogo.jpg" alt="" align="" border="0px" width="40" height="40"></a>
+<a href="http://www.facebook.com/pages/Vapor-Beast/483680444986155" title="Friend us on Facebook"><i class="icon-facebook-sign icon-3x"></i></a>
+<a href="http://www.twitter.com/@vaporbeast1" title="Follow us on Twitter"><i class="icon-twitter-sign icon-3x"></i></a>
+<a href="http://instagram.com/vapor_beast" title="Follow us on Instagram"><i class="icon-instagram icon-3x"></i></a>
+<!--
+<a href="https://www.facebook.com/"><img src="/v/vspfiles/assets/images/FacebookLogo.png" width="40" height="40" alt="Facebook" align="" border="0"></a><a 
+
+href="https://www.twitter.com/@vaporbeast1"><img src="/v/vspfiles/assets/images/TwitterLogo.jpg" alt="" align="" border="0px" width="40" height="40"></a>
+-->
 </div>
         </ul>
         
@@ -243,23 +564,30 @@ function mClk2(src, popup)
             <li class="title">Customer Service</li>                
             <li><a href="mailto:service@vaporbeast.com?subject=Contact Us">Contact Us</a></li>
             <li><a href="http://www.vaporbeast.com/help.asp">Site Help</a></li>
-            <li><a href="http://www.vaporbeast.com/affiliate_info.asp">Become an Affiliate</a></li>        
+            <li><a href="http://www.vaporbeast.com/affiliate_info.asp">Become an Affiliate</a></li>
+            <li><a href="http://www.vaporbeast.com/wholesale_a/253.htm">Wholesale</a></li>
 		</ul>
         
         <div class="clear"></div>
 	</div>
     
     <div id="footerBottom">
-		<a href="http://www.vaporbeast.com/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020&nbsp;www.vaporbeast.com. All Rights Reserved.</a> Ecommerce Web Site Design by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.
+		<a href="http://www.vaporbeast.com/terms.asp">Copyright © <script type="text/javascript">document.write((new 
+
+Date()).getFullYear());</script>2020&nbsp;www.vaporbeast.com. All Rights Reserved.</a> <a href="http://www.volusion.com" target="_blank">Ecommerce by Volusion</a>.
     </div>        
 </div>
 <!-- ==========================================================================================
 				VOLUSION LINK
 ===============================================================================================
-Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.
+Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to 
+
+"http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this 
+
+link breaches the Volusion agreement.
 =========================================================================================== -->	        
 </div>
-
+<script type="text/javascript" src="/v/vspfiles/assets/js/jquery.cycle.all.latest.js"></script>
 
 
 
