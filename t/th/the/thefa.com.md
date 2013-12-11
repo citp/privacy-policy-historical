@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629163612id_/http%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211170538id_/http%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
 
-# The Football Association Limited Privacy Policy
+# The website for the English football association, The FA Cup and The England football team
 
 **The Football Association Limited Privacy Policy**
 
