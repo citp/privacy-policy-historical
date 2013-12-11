@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613063152id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211220301id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
