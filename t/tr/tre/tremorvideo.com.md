@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tremorvideo.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621192804id_/http%3A//www.tremorvideo.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tremorvideo.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211084910id_/http%3A//tremorvideo.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Tremor Video
+# Tremor Video, Inc. » Privacy Policy
 
 ##### Opt out of Interest-Based Advertising
 
@@ -28,7 +28,7 @@ The Tremor Video Site collects personally identifiable information about users o
 • _Subscription feed._ A user subscribes to the Site’s subscription function by providing his or her email address.  
 • _Access to Tremor Video’s web-based client interface._ A current Tremor Video client accesses the client-only areas of the Site, either the Publisher or Advertiser platforms, by submitting his or her username and password.  
 • _Request for feedback._ From time to time, the Tremor Video Site may ask users for voluntary feedback that will help us improve the Site. In connection with such feedback, users may choose to provide optional name and contact information.  
-• _Promotions, sweepstakes, or contests._ From time to time, Tremor Video may sponsor or co-sponsor an offer for users to provide information, such as his or her name, email address or other contact information, and/or to answer certain questions on an entry form if he or she chooses to participate in the applicable activity. 
+• _Promotions, sweepstakes, or contests._ From time to time, Tremor Video may sponsor or co-sponsor an offer for users to provide information, such as his or her name, email address or other contact information, and/or to answer certain questions on an entry form if he or she chooses to participate in the applicable activity.
 
 Non-Personally Identifiable Information  
 Non-personally identifiable information includes demographic information (such as age, gender, city or state) and a user’s click stream information. The Tremor Video Site collects information about users and stores it in log files. This information includes non-personally identifiable information that your browser automatically sends whenever you visit this Site, including information about your web request, your IP address, your browser type, browser language, date and time of the request.
@@ -60,7 +60,7 @@ The Tremor Video Site is directed to, and intended for use by, adults only. We d
 
 ACCEPTANCE OF PRIVACY POLICY FOR THE TREMOR VIDEO SITE
 
-When you use the Tremor Video Site, you are accepting the terms and conditions of this privacy policy, and Tremor Video will have the right to use your information as described in this privacy policy. If you do not agree to have your information used in any of the ways described in this privacy policy, you must discontinue use of the Tremor Video Site. 
+When you use the Tremor Video Site, you are accepting the terms and conditions of this privacy policy, and Tremor Video will have the right to use your information as described in this privacy policy. If you do not agree to have your information used in any of the ways described in this privacy policy, you must discontinue use of the Tremor Video Site.
 
 * * *
 
@@ -69,7 +69,7 @@ When you use the Tremor Video Site, you are accepting the terms and conditions o
 We collect information about your activities on certain websites to send you targeted ads. To opt out of our targeted advertisements [click here](http://www.tremorvideo.com/about-us/privacy).
 
 WHAT DOES TREMOR VIDEO DO?  
-Tremor Video is an online advertising company that offers advertisers opportunities to display their interactive or video ads on top-tier websites, including mobile websites, and mobile applications. Our services streamline the selection and delivery of interactive and video ads for advertisers and web publishers. 
+Tremor Video is an online advertising company that offers advertisers opportunities to display their interactive or video ads on top-tier websites, including mobile websites, and mobile applications. Our services streamline the selection and delivery of interactive and video ads for advertisers and web publishers.
 
 HOW DOES TREMOR VIDEO DELIVER ADS?  
 Ads delivered by Tremor Video appear primarily in two contexts as follows:  
@@ -80,15 +80,15 @@ Most of our advertisers’ ads are delivered by Tremor Video proprietary or AdTe
 HOW ARE ADS SELECTED FOR DELIVERY?  
 Tremor Video’s customers are advertisers that ask us to display their ads on websites and applications affiliated with Tremor Video (“Tremor Video Network”). Advertisers may specify where, when and in what context they want their ads to be displayed. These specifications are sometimes called targeting parameters.
 
-Tremor Video uses its proprietary or AdTech ad serving technology to select, target and deliver ads according to the advertisers’ specifications. In order to select an ad, the ad serving technology will receive information provided by the web publisher, user’s browser, and advertiser which, in turn, is automatically recorded by the servers of Tremor Video and/or AdTech. This information is usually non-personally identifiable, although some web publishers or advertisers may also incidentally provide to Tremor Video personally-identifiable information about a user. Tremor Video does not actively collect, and does not use or store personally identifiable information about a user on the Tremor Video Network. 
+Tremor Video uses its proprietary or AdTech ad serving technology to select, target and deliver ads according to the advertisers’ specifications. In order to select an ad, the ad serving technology will receive information provided by the web publisher, user’s browser, and advertiser which, in turn, is automatically recorded by the servers of Tremor Video and/or AdTech. This information is usually non-personally identifiable, although some web publishers or advertisers may also incidentally provide to Tremor Video personally-identifiable information about a user. Tremor Video does not actively collect, and does not use or store personally identifiable information about a user on the Tremor Video Network.
 
 The Tremor Video proprietary and/or AdTech ad serving technology may use cookies, web beacons and other similar technologies in order to select, target, and measure the effectiveness of advertisements, including when determining what ads to present so that they may best relate to the preferences of users on the Tremor Video Network. A “cookie” is generally a small text file that is sent to a user’s computer. Cookies are commonly assigned by online services, such as websites or ad technologies, to recognize a computer that they have encountered before. A cookie is associated with a specific site domain, a specific computer and a specific Internet browser program. A “web beacon” is a small piece of code placed on web pages that can be used, among other things, to count the users who visit the web page, or to deliver a cookie to the browser of a user viewing that page.
 
-In the case of advertisements selected, targeted and delivered to mobile websites and applications, the ad serving technology may also receive information provided by the user’s mobile device, including a unique device ID. Tremor Video changes the unique device ID into an anonymous ID. 
+In the case of advertisements selected, targeted and delivered to mobile websites and applications, the ad serving technology may also receive information provided by the user’s mobile device, including a unique device ID. Tremor Video changes the unique device ID into an anonymous ID.
 
-In addition, Tremor Video uses Adobe Systems Incorporated Flash cookies for functionality purposes in connection with Tremor Video’s (i) ad management platform and (ii) advertisers’ ad units. 
+In addition, Tremor Video uses Adobe Systems Incorporated Flash cookies for functionality purposes in connection with Tremor Video’s (i) ad management platform and (ii) advertisers’ ad units.
 
-Tremor Video and its advertisers may also use third-party ad service providers to help present advertisements on the Tremor Video Network. These ad service providers use cookies, web beacons, or similar technologies on your computer to select, target, deliver, and measure the effectiveness of advertisements to determine or predict the characteristics and user preferences. Tremor Video may use data that ad service providers collect to help present interest-based advertisements. This data is non-personally identifiable information and is used to make advertisements more relevant. 
+Tremor Video and its advertisers may also use third-party ad service providers to help present advertisements on the Tremor Video Network. These ad service providers use cookies, web beacons, or similar technologies on your computer to select, target, deliver, and measure the effectiveness of advertisements to determine or predict the characteristics and user preferences. Tremor Video may use data that ad service providers collect to help present interest-based advertisements. This data is non-personally identifiable information and is used to make advertisements more relevant.
 
 Tremor Video may share non-personally identifiable information about users gathered by means of cookies, web beacons, or similar technologies with certain ad service providers so that they can help Tremor Video deliver more relevant advertisements. The use of cookies, web beacons, or similar technologies by other ad service providers is subject to their respective privacy policies, not the privacy policy of Tremor Video. You can find out more about ad service providers and the choices you have about these technologies by clicking on the links at the bottom of this privacy policy. Similarly, the publishers that comprise the Tremor Video Network are subject to their own privacy policies and not the privacy policy of Tremor Video.
 
@@ -101,10 +101,10 @@ Tremor Video, Inc., Attention: Privacy
 53 West 23rd Street, New York, NY 10010.
 
 SELF-REGULATORY PROGRAM FOR ONLINE BEHAVIORAL ADVERTISING  
-Tremor Video follows the Digital Advertising Alliance industry privacy standards for online behavioral advertising. To learn more about the program and its principles [click here](http://www.aboutads.info/). 
+Tremor Video follows the Digital Advertising Alliance industry privacy standards for online behavioral advertising. To learn more about the program and its principles [click here](http://www.aboutads.info/).
 
 US-EU SAFE HARBOR FRAMEWORK  
-Tremor Video is registered with the U.S. Department of Commerce’s US-EU Safe Harbor program, and we adhere to the Safe Harbor framework regarding the collection, use, and retention of data received from the European Union (EU). In the event there is a written complaint by submitted to Tremor Video regarding the transfer of personal data from the EU that Tremor Video is unable to resolve, we will cooperate with the appropriate regulatory authorities, including the EU Data Protection Authorities. To learn more about the US-EU Safe Harbor program [click here](http://export.gov/safeharbor/). 
+Tremor Video is registered with the U.S. Department of Commerce’s US-EU Safe Harbor program, and we adhere to the Safe Harbor framework regarding the collection, use, and retention of data received from the European Union (EU). In the event there is a written complaint by submitted to Tremor Video regarding the transfer of personal data from the EU that Tremor Video is unable to resolve, we will cooperate with the appropriate regulatory authorities, including the EU Data Protection Authorities. To learn more about the US-EU Safe Harbor program [click here](http://export.gov/safeharbor/).
 
 THIRD PARTY AD SERVICE PROVIDERS  
 The following third party ad service providers may use cookies, web beacons, or similar technology in connection with advertisements offered through the Tremor Video Network. Click on the links to find out more about their practices, and the choices they provide to you:
