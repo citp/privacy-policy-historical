@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gygan.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611230007id_/http%3A//www.gygan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gygan.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211190613id_/http%3A//www.gygan.com/privacy) for the most accurate reproduction.*
 
 # Gygan | Watch Videos Online - Download or Stream Videos - Upload and Share Files
 
