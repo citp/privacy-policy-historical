@@ -1,43 +1,73 @@
-> *The following text is extracted and transformed from the nerdery.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617194600id_/http%3A//nerdery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdery.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211020954id_/http%3A//nerdery.com/privacy) for the most accurate reproduction.*
 
-# The Nerdery | An Interactive Production Company: Better Interactive Development Through Science
+# Privacy Policy | The Nerdery
 
-(Revised 3/15/13)
+(Last Modified: 10/30/2013)
 
-By using this Site and submitting information, you agree to the terms of this Privacy Statement.
+## INTRODUCTION
 
-Sierra Bravo Corp., dba The Nerdery (the “Company”) has a strong commitment to protecting personal privacy. We will respect certain privacy principles regarding the personal information that you provide. The purpose of this Privacy Statement is to tell you what information we gather on our website, how we use the information, and how we protect your privacy.
+Sierra Bravo Corp., dba The Nerdery (“The Nerdery”) has a strong commitment to protecting personal privacy with this Privacy Policy (the “Policy”).
 
-This Privacy Statement applies to the Company websites, with the homepage, located at www.nerdery.com, and all subsections under this homepage (the “Site” or “Website”). This Privacy Statement does not apply to information we gather by mail, telephone, in-person, or other off-line methods.
+This Policy describes the types of information we may collect from you or that you may provide when you access, submit information through, or visit our website at nerdery.com (“Website”) or interact with The Nerdery through social media applications, such as Facebook, Google Plus, and Twitter ("Online Media"), and our practices for collecting, using, maintaining, protecting, and disclosing that information.  
 
-## PROTECTING YOUR PRIVACY.
+This policy applies to information we collect through:
 
-The ways we protect and use information collected through our Website depends on the purposes for which we collected the information, and the type of information collected. In general, personal information – information that tells us who you are – is used only for limited purposes and receives strong protection. Non-personal information – anonymous information that does not tell us who you are – is used for many purposes and shared with others, as described below.
+  * the Website.
+  * Online Media.
+  * e-mail and other electronic messages.
+  * interactions with advertising and applications on third-party websites and services, if those applications or advertising include links to this Policy.
 
-## HOW WE COLLECT, USE AND PROTECT PERSONAL INFORMATION.
 
-All information that you provide on the Website is voluntary. If you submit personal information, you agree that we may keep a record of that personal information. You also agree that if you choose not to provide all requested information, our ability to provide the requested information or consider your job candidacy may be limited. 
 
-Newsletters & Events. We may collect personal information, including a name, email, and other contact and personal information, such as a home address, from you if you register for our newsletter or an event on our website. For example, we may keep a record of your name and e-mail address in order to keep track of your newsletter preferences or event registration. We also may use registration information to help us in our business, including but not limited to improving this Site, marketing, and recruiting. You agree that we may use your personal information to mail or email information to you about our services and events.
+This Policy does not apply to information collected by:
 
-Job Applications. For job applicants, we collect personal information including but not limited to your contact information, job preferences, skills, experience, and personal statements. Our Recruiting team may use this information to assess your candidacy for employment with The Nerdery and may contact you regarding employment opportunities. You agree that we may use your personal information to mail or email information to you about employment opportunities with The Nerdery.
+  * us offline.
+  * any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website or Online Media. 
 
-We will not give or share registration information to a third party to allow that third party to market its goods or services.
 
-We may also share registration information in connection with a change of control of the Company, merger, transfer, or sale of all or part of the Company or similar transaction, or if required to comply with a law, regulation, court order, or other legal process. We may share registration information to protect our rights or property. 
 
-## THIS PRIVACY POLICY DOES NOT APPLY TO NON-NERDERY WEBSITES, FORUMS, OR NETWORKS.
+By using the Website or Online Media, you are entering into a binding contract with The Nerdery and are consenting to the use of your information as explained in this Policy. If you don’t agree with these terms, then please don’t use interact with The Nerdery through the Website or Online Media. Your continued use of the Website or Online Media after we make changes is deemed to be acceptance of those changes, so please check this Policy periodically for updates.
 
-If you post, comment, indicate interest or complaint, or share personal information, including photographs, to any public forum on this Site or any social network, blog, or other such forum, upon which The Nerdery has an account, please be aware that any information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes over which neither you nor The Nerdery have control. The Nerdery is not responsible for the personal information you choose to provide in these forums.
+## HOW WE COLLECT AND USE INFORMATION. 
 
-## HOW WE COLLECT AND USE NON-PERSONAL INFORMATION.
+All information that you provide on the Website or Online Media is voluntary. If you submit personal information, you agree that we may keep a record of that personal information. You also agree that if you choose not to provide all requested information, our ability to process the requested information for the purpose that it is being submitted may be limited. 
 
-Each time a computer visits this Site to read or download information, we may collect certain information from that computer. This information is automatically collected from the user’s computer and may include information such as the following (“non-personal information”):
+We collect several types of information from and about users of the Website and Online Media, including information:
 
-  * Type of web browser being used (for example, Chrome or Firefox)
-  * Name of the Internet domain from which your computer accessed our Site
-  * Internet address of the website from which your computer linked directly to our Site
-  * Date and time the computer accessed our Site
+  * by which you may be personally identified, such as name, postal address, e-mail address, or telephone number (“personal information").
+  * that is about you but individually does not identify you, such as application essays, experience, or areas of interest.
+  * about your internet connection, the equipment you use to access the Website or Online Media, and usage details (“non-personal information”).
+
+
+
+We collect this information:
+
+  * directly from you when you provide it to us.
+  * automatically as you navigate through the Website or Online Media. Information collected automatically may include usage details, IP addresses and information collected through cookies, and other tracking technologies. We reserve the right to associate non-personal information to personal information that you have provided through the Website or Online Media.
+
+
+
+We will not give or share information to a third party to allow that third party to market its goods or services. However, we may share that information with a third party to assist The Nerdery in the marketing of our services. 
+
+We may also share registration information in connection with a change of control of The Nerdery, merger, transfer, or sale of all or part of the The Nerdery, or similar transaction, or if required to comply with a law, regulation, court order, or other legal process. We may share registration information to protect our rights or property. 
+
+**Personal Information.** The information we collect on or through the Website or Online Media may include:
+
+  * information that you provide by filling in forms. This includes information provided at the time of submitting an application, registering for an event, or requesting information. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with the Website.
+  * content that you authorize us to access, publish, and view on Online Media.
+  * records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * your search queries on the Website.
+
+
+
+You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website or Online Media, or transmitted to other users of the Website, Online Media or or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of Online Media with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+
+**Non-Personal Information.** Each time a computer visits the Website or Online Media to read or download information, we may collect certain information from that computer. This non-personal information is automatically collected from the user’s computer and may include information such as the following:
+
+  * Type of web browser being used (for example, Chrome or Firefox).
+  * Name of the Internet domain from which your computer accessed the Website or Online Media.
+  * Internet address of the website from which your computer linked directly to Website or Online Media.
+  * Date and time the computer accessed the Website or Online Media.
 
 
 
@@ -47,25 +77,61 @@ Also, we may place a text file called a cookie in the browser files of computers
 
 We will use non-personal information to help us make our Site more useful to visitors and for other business purposes. For example, we may tell business partners how many computers visited this Site. Also, we may use the non-personal information in cookies to help us to personalize this Site according to the preferences you tell us, and make your visit a more convenient experience. We may prepare reports and other materials using non-personal information. Since these reports and materials contain no personal information, we may share them with others.
 
-## PRIVACY ON NON-NERDERY WEBSITES.
+We use information that we collect about you or that you provide to us, including any personal information:
 
-This Site may contain links to third-party applications, products, services, or websites for your convenience and information. If you access those links, you will leave The Nerdery Website. We do not review, control, or monitor the privacy practices of those websites and they might differ from those of this Website. We do not endorse or make any representations about third-party sites. The personal data you choose to provide to or that is collected by these third parties is not covered by The Nerdery Privacy Statement. Just as with this Website, we encourage you to review the privacy policy of any site with which you interact before allowing the collection and use of your personal information.
+  * To present the Website, Online Media, and its contents to you.
+  * To provide you with information or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to the Website, Online Media or any services we offer or provide though it.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
-We may also provide social media features that enable you to share information with your social networks and to interact with The Nerdery on various social media sites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. 
 
-## CHILDREN’S PRIVACY
 
-The Nerdery does not knowingly collect information from children under the age of 13 and does not target its Site to children under these ages. We encourage parents and guardians to take an active role in their children's online and mobile activities and interests. 
+## DISCLOSURE OF YOUR INFORMATION
 
-## CHANGES TO THIS STATEMENT.
+We may disclose aggregated information about our users without restriction.
 
-We may change this Privacy Statement at any time and for any reason. If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. 
+We may disclose personal information that we collect or you provide as described in this Policy:
 
-## CONTACT US.
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of The Nerdery's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by The Nerdery about the Website and Online Media users is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
-If you would like to request changes to any information that you have submitted, have questions, or comments about this Privacy Statement, please contact us online via our [Contact Us page](http://nerdery.com/contact), or send us a letter to the following address:
 
-The Nerdery  
-9555 James Ave. S.  
-Suite 245  
-Bloomington, MN 55431
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our terms of use and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of The Nerdery, our customers or others. 
+
+
+
+## DATA SECURITY
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. 
+
+## PRIVACY ON THIRD-PARTY WEBSITES AND ONLINE MEDIA
+
+The Website or Online Media may contain links to third-party applications, products, services, or websites (“Third-Party Locations”) for your convenience and information. We do not review, control, or monitor the privacy practices of those Third-Party Locations and they might differ from this Policy. We do not endorse or make any representations about Third-Party Locations. The personal data you choose to provide to or that is collected by these Third-Party Locations is not covered by this Policy. Just as with the Website and Online Media, we encourage you to review the privacy policy of any Third-Party Locations with which you interact before allowing the collection and use of your personal information.
+
+We may also provide social media features that enable you to share information with your social networks and to interact with The Nerdery on various social media sites. The Nerdery is not responsible for the personal information you choose to provide in these forums. If you post, comment, indicate interest or complaint, or share personal information, including photographs, to any social network, blog, or other such forum, upon which The Nerdery has an account, please be aware that any information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes over which neither you nor The Nerdery have control.  Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
+
+## CHILDREN’S UNDER THE AGE OF 13
+
+Our Website and Online Media is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website or Online Media. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any features/register on the Website or Online Media, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us online via our Contact Us page (<http://nerdery.com/contact>).
+
+## CHANGES TO OUR PRIVACY POLICY
+
+It is our policy to post any changes we make to the Policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this Policy to check for any changes.
+
+## CONTACT US 
+
+If you would like to request changes to any information that you have submitted, have questions, or comments about this Privacy Policy, please contact us online via our Contact Us page (http://nerdery.com/contact), or send us a letter to the following address: The Nerdery, 9555 James Ave. S., Suite 245. Bloomington, MN 55431. 
