@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the namemesh.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502184422id_/http%3A//www.namemesh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namemesh.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211094014id_/http%3A//www.namemesh.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NameMesh
 
-Last Updated: 25 October 2012
+Last Updated: 28 May 2013
 
 We respect and protect the privacy of our users and take appropriate steps to safeguard your personal information. This Privacy Policy outlines NameMesh’ commitment to practices regarding the collection, sharing and use of information from users of the NameMesh.com website (the “Website”). If we make changes to this policy, we will post the updated Privacy Policy on the Website and change the “Last Updated” date at the top of this Privacy Policy. Persons under the age of 13 are not permitted to use the Website.
 
 ## Information Collection and Usage
 
-Like most website operators, NameMesh collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. NameMesh’s purpose in collecting non-personally identifying information is to better understand how NameMesh’s visitors use its website. 
+Like most website operators, NameMesh collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. NameMesh’s purpose in collecting non-personally identifying information is to better understand how NameMesh’s visitors use its website. NameMesh also collects personal information from you, such as name and email address, when you sign up for our service or contact us by email. We also track the actions you take on our site in order to improve the service. We will never share this information with anyone for any reason unless required by law. 
 
 ## Cookies
 
