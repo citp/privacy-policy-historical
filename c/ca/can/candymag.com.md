@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611014011id_/http%3A//www.candymag.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211111546id_/http%3A//www.candymag.com/about/privacy) for the most accurate reproduction.*
 
-# Every Filipina Teen's Best-est Friend Online | Every Filipina Teen's Best-est Friend Online | CandyMag.com
+# Every Filipina Teen's Best-est Friend Online | CandyMag.com
 
 At Candymag.com, we are committed to protecting your privacy. All the personal information you share with us is used strictly to enhance your Candymag.com experience. If you participate in contests or promotional features, only demographic information will be reported to the sponsors unless you stated your interest in receiving more information from the sponsors. 
 
@@ -11,8 +11,8 @@ Updating Information | Summary | Your Consent | Feedback
 
 **WHAT INFORMATION DO WE COLLECT? HOW DO WE USE IT?**
 
-  1. When you register to become a Candymag.com member, we ask for your name, email address, birth date, gender, civil status, contact nos and home address. We also ask you to answer some simple questions about your lifestyle and personal preferences, such as Internet usage and current educational status. We use this information to create a profile of our members that will help us develop our features and services. This profile will be presented as general demographics in our media kit and other advertising materials. We do not sell, trade, or rent your personal information to others. We only provide personal information to sponsors if you specify your interest in receiving information from the sponsors. 
-  2. When you subscribe to any of our newsletters (Sweet Reminders, Contest Alerts etc.), all we need is your email address, which is used to send your chosen newsletter. 
+  1. When you register to become a Candymag.com member, we ask for your name, email address, birth date, gender, civil status, contact nos and home address. We also ask you to answer some simple questions about your lifestyle and personal preferences, such as Internet usage and current educational status. We use this information to create a profile of our members that will help us develop our features and services. This profile will be presented as general demographics in our media kit and other advertising materials. We do not sell, trade, or rent your personal information to others. We only provide personal information to sponsors if you specify your interest in receiving information from the sponsors.
+  2. When you subscribe to any of our newsletters (Sweet Reminders, Contest Alerts etc.), all we need is your email address, which is used to send your chosen newsletter.
   3. To create topics and post messages in TEENTalk, our message boards, you should be a registered Candymag.com member. Your username is displayed with every message you post. Other members of the Candymag.com community may view your advance profile you entered only in TEENTalk. Your username serves as a hyperlink to display only your TEENTalk profile. When you register to be a member, you may choose not to show your email address. Read the Candymag.com [Registration Agreement and Terms ](http://www.candymag.com//beamember/) or Post your questions in TEENTalk's [House Rules/Questions and Suggestions ](http://www.candymag.com/magazine/about/houserules/)
 
 We may republish your TEENTalk posts to enrich Candymag.com content. If we do so, we will notify you. Republished posts will be identified only by usernames alone. 
@@ -23,6 +23,7 @@ Teen-friendly companies and retail stores sponsor our contests. Contest sponsors
 
   5. We may also use the information we collect to occasionally notify you about important functionality changes to our website, new services, and special offers we think you'll find valuable. If you would rather not receive this information, visit your personal Member Profile page to change your preferences. Make sure to change your preferences for each account or email address you have left with us.   
 
+  6. How you use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
 
 
 
