@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the titanmen.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000952id_/http%3A//www.titanmen.com/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanmen.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211190611id_/http%3A//www.titanmen.com/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# TitanMen:
+# TitanMen
 
 We value our customer's trust and privacy and we pledge to you that we will work to protect the security and privacy of any personal information you provide to us. This includes, and is not limited to, any and all information you submit to us to complete an order, enter a contest or giveaway, or request information from Titan Media.
 
@@ -24,7 +24,9 @@ Our site sets cookies in your browser in order to allow you to browse and shop m
 
 All charges are processed via a secure server. Purchases from our store appear as: TITAN MEDIA 1 800-360-7204 Billing for TitanMen.com and TitanXXX.com appears as: TITAN 800-360-7204
 
-**Email and Postal Mail** <.PIf you receive an email solicitation from us, other than to confirm a purchase or provide technical support, we provide you with a link to unsubscribe. Clicking such a link will not sign you up on any other list. If you have purchased DVD's or other items from our store it the past you may also be receiving offerings via regular mail. You can unsubscribe from our postal and newsletter mailing lists by contacting customerservice@TitanMedia.com or calling us at 1-800-360-7204.
+**Email and Postal Mail**
+
+If you receive an email solicitation from us, other than to confirm a purchase or provide technical support, we provide you with a link to unsubscribe. Clicking such a link will not sign you up on any other list. If you have purchased DVD's or other items from our store it the past you may also be receiving offerings via regular mail. You can unsubscribe from our postal and newsletter mailing lists by contacting customerservice@TitanMedia.com or calling us at 1-800-360-7204.
 
 Titan Media will periodically send you email messages describing new products, featured merchandise and special promotions and/or giveaways. You can choose to stop receiving these emails at any time by clicking on the unsubscribe link at the bottom of the email. Please allow 48-72 hours for complete removal from the list.
 
