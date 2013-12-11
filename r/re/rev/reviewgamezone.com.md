@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617050103id_/http%3A//reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212000748id_/http%3A//reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
