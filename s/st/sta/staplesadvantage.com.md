@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the staplesadvantage.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115003749id_/http%3A//staplesadvantage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplesadvantage.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211103621id_/http%3A//www.staplesadvantage.com/about-us/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_(Effective Date: October 20, 2009)_
+_(Effective Date: October 18, 2011)_
 
 At Staples your privacy is as important to us as it is to you. Our Customer Personal Information Privacy Policy defines how Staples protects your privacy. This _Privacy Policy_ describes:
 
