@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625034539id_/http%3A//www.demandforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211222126id_/http%3A//www.demandforce.com/privacy-policy) for the most accurate reproduction.*
 
-# Demandforce | Privacy Policy
+# Privacy Policy - Demandforce
 
 _Update dated May 18, 2012_
 
