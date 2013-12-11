@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubledutymommy.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616061208id_/http%3A//doubledutymommy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubledutymommy.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211072755id_/http%3A//doubledutymommy.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Double Duty Mommy
 
