@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611072614id_/http%3A//www.hometips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211022923id_/http%3A//www.hometips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HomeTips
 
@@ -58,4 +58,4 @@ You also can use the above addresses should you have any questions about our pri
 Conclusion
 
 The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we’ll post the changes here. And while the above statements and policies do not create any contractual or other legal rights in or on behalf of any party, the staff at HomeTips wishes to reiterate our opening statement:  
-Your right to personal privacy is important to us. We will endeavor to respect it. 
+Your right to personal privacy is important to us. We will endeavor to respect it.
