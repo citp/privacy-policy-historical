@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624192322id_/http%3A//www.asme.org/About-ASME/Privacy-and-Security-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211121135id_/https%3A//www.asme.org/About-ASME/Privacy-and-Security-Statement) for the most accurate reproduction.*
 
 # About American Society of Mechanical Engineers - ASME
 
