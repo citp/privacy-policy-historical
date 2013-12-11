@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telebrands.net privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605163419id_/http%3A//telebrands.net/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telebrands.net privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211084213id_/http%3A//telebrands.net/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Telebrands ™ | Official Site | The Original “As Seen On TV” Company
 
