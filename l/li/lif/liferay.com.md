@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the liferay.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613140713id_/http%3A//www.liferay.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liferay.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211220802id_/http%3A//www.liferay.com/fnav/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Liferay.com
+# Privacy | Liferay
 
-Liferay, Inc. and its affiliated companies are committed to the privacy of the users of our website. This Privacy Policy was created to inform you of our personal information handling practices for the Liferay website (www.liferay.com). Any personal information provided to us will be treated according to this policy. Please note that when you submit information via the Liferay website, you are consenting to the collection, use and disclosure of that information in accordance with this Privacy Policy and therefore, we encourage you to read this entire Privacy Policy before submitting any information and/or using the Liferay website.
+Liferay, Inc. ("Liferay") and its affiliates are committed to the privacy of the users of our website. This Privacy Policy was created to inform you of our Personal Information (as defined below) handling practices for the Liferay website ([www.liferay.com](https://www.liferay.com/)). Any Personal Information provided to us will be treated according to the terms of this Privacy Policy. Please note that when you submit information via the website, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy and therefore, we encourage you to read this entire Privacy Policy before submitting any information and/or using the website.
 
-Liferay and its affiliates have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. . The TRUSTe program does not cover information that may be collected through downloadable software or information collected behind the client log in. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at legal@liferay.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+Liferay has been awarded TRUSTe's Privacy Seal signifying that TRUSTe has reviewed this privacy policy and practices for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers information collected through our website, [www.liferay.com](https://www.liferay.com/) and does not cover information that may be collected through downloadable software or information collected behind the client log in. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [legal@liferay.com](mailto:legal@liferay.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Liferay complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Liferay has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Liferay's certification, please visit: <http://export.gov/safeharbor>.
 
@@ -24,7 +24,9 @@ In order to ensure that your Personal Information is accurate and up to date, pl
 
 ##  Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at (legal@liferay.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at ([pr@liferay.com](mailto:pr@liferay.com)).
+
+You may choose to hide or otherwise withhold displaying certain information on your public profile, including Personal Information, by making changes to your account information on the website.
 
 ##  Collection of non-personal/anonymous information
 
@@ -32,43 +34,43 @@ In using our products or services, anonymous network information may be transmit
 
 ##  Sharing your Personal Information
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy.
+We will share your personal information with third parties only in the ways that are described in this Privacy Policy.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We may provide your Personal Information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your Personal Information only as necessary to provide these services to us.
 
-We will not share, sell or rent your Personal Information to third parties. We may otherwise disclose your Personal Information when 1) we have your express consent to share the information for a specified purpose; 2) we need to respond to subpoenas, court orders or other such legal process; or 3) we need to protect the personal safety of the users of our websites or exercise or defend the legal rights and property of Liferay regarding illegal activities, suspected fraud, violations of Liferay's terms of use, or as otherwise required by law. We may also transfer your Personal Information to Liferay U.S., to any Liferay subsidiary worldwide, or to third parties acting on our behalf for the purposes of processing or storage. If Liferay is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+We will not share, sell or rent your Personal Information to third parties. We may otherwise disclose your Personal Information when 1) we have your express consent to share the information for a specified purpose; 2) we need to respond to subpoenas, court orders or other such legal process; or 3) we need to protect the personal safety of the users of our website or exercise or defend the legal rights and property of Liferay regarding illegal activities, suspected fraud, violations of Liferay's terms of use, or as otherwise required by law. We may also transfer your Personal Information to Liferay and its affiliates, or to third parties acting on Liferay's behalf for the purposes of processing or storage. If Liferay is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
 ##  Facebook Connect and Open ID
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name (first and last) and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
 ##  Security of your Personal Information
 
-For our users' security, Liferay utilizes a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Information from unauthorized access, use or disclosure. Liferay was benchmarked as among the most secure portal platforms using LogicLibrary's Logiscan suite. Personal Information data is stored in the Liferay Portal, which uses industry standard, government grade encryption technologies including advanced algorithims such as DES, MD5 and RSA. Entry into our datacenter is restricted by multiple levels of access control, including biometric palm scanners, and key card readers that limit movement within the facility to authorized areas. We authorize access to Personal Information only for those employees who require it to fulfill their job responsibilities. While we strive to protect your Personal Information, we recommend you to take every precaution in protecting your Personal Information when you are on the Internet.
+For our users' security, Liferay utilizes a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Information from unauthorized access, use or disclosure. Liferay Portal, the platform on which our website is built, was benchmarked as among the most secure portal platforms using LogicLibrary's Logiscan suite and uses industry standard, government grade encryption technologies including advanced algorithims such as DES, MD5 and RSA. Entry into our datacenter is restricted by multiple levels of physical access controls, including biometric palm scanners, and key card readers that limit movement within the facility to authorized areas. We authorize access to Personal Information only for those employees who require it to fulfill their job responsibilities. While we strive to protect your Personal Information, we recommend you to take every precaution in protecting your Personal Information when you are on the Internet.
 
 ##  Cookies
 
-A cookie is a small, encrypted data string that a website stores on a visitor's computer which the visitor's browser provides to the website each time the visitor returns. A cookie cannot read personal data off your hard disk or read cookie files created by other sites; the only Personal Information a cookie can contain is information you supply yourself. Like many websites, Liferay's website may use both session ID cookies (which expire when you close the browser) and persistent cookies (which remain on your hard drive for an extended period of time) to help Liferay identify and track visitors, their usage of the Liferay website, and their website access preferences, and to deliver content specific to a visitor's interests. Liferay does not correlate cookies information with data about individual users. However, if you prefer not to receive cookies, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any area of the Liferay website.
+A cookie is a small, encrypted data string that a website stores on a visitor's computer which the visitor's browser provides to the website each time the visitor returns. A cookie cannot read personal data off your hard disk or read cookie files created by other sites; the only Personal Information a cookie can contain is information you supply yourself. Like many websites, Liferay's website may use both session ID cookies (which expire when you close the browser) and persistent cookies (which remain on your hard drive for an extended period of time) to help Liferay identify and track visitors, their usage of the Liferay website, and their website access preferences, and to deliver content specific to a visitor's interests. However, if you prefer not to receive cookies, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any area of the Liferay website.
 
 ##  Third Party Cookies
 
-The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart and to collect non-personal information about your activities on this Web Site.
+The use of cookies by our service providers is not covered by our Privacy Policy. We do not have access or control over these cookies. Our service providers use session ID cookies to make it easier for you to navigate our website through the collection of non-personal information about your activities on the website.
 
 ##  Web beacons
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
 ##  Analytics / Log Files
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the website and to gather demographic information about our user base as a whole.
 
-We do [do not] link this automatically-collected data to personal information. [IP addresses are tied to personal information to [describe the purpose for which you do this]
+We do link this automatically-collected data to Personal Information. IP addresses are tied to Personal Information to enhance your user experience and to deliver content related to your interests and profile.
 
 ##  Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our website or to manage our advertising on other websites. Our ad network partner uses cookies and web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising in general. You will continue to receive generic ads.
 
 ##  Data retention
 
@@ -76,34 +78,34 @@ Liferay will not retain your Personal Information longer than is necessary to fu
 
 ##  Liferay Community
 
-If you participate or contribute to Liferay's forums, wikis, documentation-related pages, and other pages within the Liferay site ("Community"), the information you provide there will be made broadly available to others, potentially inside or outside Liferay, who have access to the Community. Also, please recognize that certain forums may have additional rules and conditions. Each participant's opinion within a forum or chat room is his or her own and does not reflect the opinion of Liferay. To request removal of your personal information from our blog or community forum, contact us at legal@liferay.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you participate or contribute to Liferay's forums, wikis, documentation-related pages, and other pages within the Liferay website ("Community"), the information you provide there (including your first and last name) will be made broadly available to others, potentially inside or outside Liferay, who have access to the Community. Also, please recognize that certain forums may have additional rules and conditions. Each participant's opinion within a forum or chat room is his or her own and does not reflect the opinion of Liferay. To request removal of your Personal Information from our blog or community forum, contact us at [legal@liferay.com](mailto:legal@liferay.com). In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
 ##  Linked websites
 
-Our websites may provide links to other third-party websites that are outside our control and not covered by this policy. For example we use SourceForge.net for the download of our products and we also provide links to partners and clients on our website. We cannot extend the warranties under this declaration on data protection to such sites. Nor does the fact that we refer to such sites mean that we adopt their contents as our own. We encourage you to review the privacy policies posted on those and all sites you visit.
+Our website may provide links to other third-party websites that are outside our control and not covered by this policy. For example we use SourceForge.net for the download of our products and we also provide links to partners and clients on our website. We cannot extend the warranties under this declaration on data protection to such websites. Nor does the fact that we refer to such websites mean that we adopt their contents as our own. We encourage you to review the privacy policies posted on those and all websites you visit.
 
 ##  Social Media Widgets
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Twitter button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our website includes social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the Privacy Policy of the company providing it.
 
 ##  Your California Privacy Rights
 
-Residents of the State of California, under a new provision of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of your Personal Information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
+Residents of the State of California, under a new provision of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an Opt-out or Opt-in choice for use of your Personal Information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
 
-If you are a California resident and want to request information on how to exercise your third party disclosure choices, please send a request to legal@liferay.com.
+If you are a California resident and want to request information on how to exercise your third party disclosure choices, please send a request to [legal@liferay.com](mailto:legal@liferay.com).
 
-##  COPPA Requirement
+##  Children
 
-Liferay complies with the requirements of the Children's Online Privacy Protection Act (COPPA) and the FTC's Rule interpreting COPPA (16 CFR § 512). Our websites are not directed to children and we do not knowingly collect any personal information from children under 13 years of age through our sites.
+Our website is not directed to children and we do not knowingly collect any personal information from children under 13 years of age through our sites.
 
 ##  Questions or comments?
 
-Should you have any privacy-related questions or comments related to this Privacy Policy, please send an email to legal@liferay.com.
+Should you have any privacy-related questions or comments related to this Privacy Policy, please send an email to [legal@liferay.com](mailto:legal@liferay.com).
 
 ##  Policy updates
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: Liferay, Inc., 1400 Montefino Avenue, Diamond Bar, CA 91765,or legal@liferay.com.
+If you have any questions or suggestions regarding this Privacy Policy, please contact us at: Liferay, Inc., 1400 Montefino Avenue, Diamond Bar, CA 91765,or [legal@liferay.com](mailto:legal@liferay.com).
 
-_Last Updated: March 13, 2013_
+_Last Updated: August 29, 2013_
