@@ -1,165 +1,90 @@
-> *The following text is extracted and transformed from the promotions.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227035206id_/http%3A//www.promotions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotions.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211131100id_/http%3A//www.eprize.com/privacy-policy) for the most accurate reproduction.*
 
-# Promotions.com
+# Privacy Policy | ePrize
 
-_Last revised: January 12, 2007_
+## ePrize, Inc. Privacy Policy
 
-TheStreet.com, Inc. shares your concern about the protection of your personal information online. This is our policy regarding the privacy of information we collect on our web sites. We have recently revised our policy. Please take some time to review the new version below.
+###### Last Revised: November 15, 2013
 
-This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. We will comply with applicable state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices.
+ePrize, Inc. is a company that helps other businesses operate sweepstakes, contests, promotions, and loyalty programs ("Promotions"). In addition, ePrize occasionally runs its own Promotions. Such Promotions gather personally identifiable information from individuals who choose to enter a particular Promotion and anonymous data regarding the Promotion itself. ePrize takes its privacy obligations, both to its clients and to people who enter its Promotions, very seriously. ePrize complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ePrize has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view ePrize’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-Information Gathered and Tracked by TheStreet.com, Inc.
+This policy outlines our treatment of personally identifiable information we collect on behalf of our clients and for our own use. There are three types of Promotions in which ePrize is involved and may collect such information: 1) client Promotions; 2) ePrize "opt-in" to client Promotions; and 3) ePrize Promotions.
 
-TheStreet.com, Inc. gathers two types of data about users: ( **a** ) personal information, which individual users provide ( **i** ) when registering as a member of TheStreet.com, our free flagship site, ( **ii** ) when registering as a subscriber to one of our premium subscription services, and ( **iii** ) voluntarily at certain other points, such as contests or surveys; and ( **b** ) tracking information, which is automatically collected about all visitors to our sites.
+### Client Promotions
 
-## PERSONAL INFORMATION
+As a full service promotions and sweepstakes agency, ePrize operates Promotions on behalf of its clients. As part of those services, ePrize collects personally identifiable information for its clients by use of ePrize's proprietary online technology, ePrize mailboxes, and points of entry offline. ePrize collects such personally identifiable information solely for the use of its clients and the operation of the Promotions. Such uses may include notification of potential winners, fulfillment of prizes, and marketing analysis. ePrize strictly limits access to personally identifiable information within its organization. Data is not shared outside of the company except that ePrize provides data to our clients, to third parties if directed by our clients, and in response to appropriate governmental or legal requests. Personally identifiable information collected from a client Promotion is never shared with any client other than the client on whose behalf the information was collected. Personally identifiable information collected by ePrize on behalf of a client belongs solely to the client and will be used solely in accordance with that client's privacy policy. An individual's desire to "opt-out" of receiving marketing or other information from a client will be handled in accordance with a particular client's privacy policy. ePrize requires its clients, by contract, to use the data which ePrize collects on its behalf in accordance with generally accepted privacy standards for both offline and online data, which standards call for an "opt-out" method for individuals who have provided personally identifiable information. Ultimately, however, ePrize is not responsible for data collected on behalf of clients when such data is in a client's possession.
 
-TheStreet.com collects personal information in several places on our web sites, which are set forth generally below. We will always provide a secure area of our sites for you to enter your information, but if you prefer, you may talk offline to a customer service representative and provide the required information over the telephone or via email.
+### ePrize “Opt-in” to Client Promotions
 
-## Membership
+From time to time, ePrize and a client will agree to allow ePrize to offer Promotion entrants an opportunity to "opt-in" to receiving marketing information from ePrize and its partners. In such cases, an ePrize "opt-in" question will appear on the Promotion registration page clearly explaining to potential entrants that by checking the box they will be agreeing to share their personally identifiable information with ePrize. When individuals "opt-in" to receive information from ePrize, they are agreeing to receive email and other notices from ePrize, including marketing messages, surveys, special offers and notices about other Promotions. Such notices may come from ePrize itself, companies with whom ePrize has a business relationship, and/or ePrize clients. If you want to "opt-out" of receiving such notices from ePrize after you have "opted-in", or you wish to correct the information you have provided to ePrize, you may do so in one of two ways:
 
-Currently, we do not require users to become members of TheStreet.com in order to have access to the free commentary, analysis and news available on our flagship site, www.thestreet.com. However, if you'd like to receive one or more of our free email newsletters, gain access select commentary articles from RealMoney and daily archives of Jim Cramer's radio program, or use our _MyStockWatch_ service to filter content from TheStreet.com, we require you to [register here](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) to become a member.
+  1. Send an email to [remove@eprize.com](mailto:remove@eprize.com). Please make sure to include the name of the Promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
+  2. Mail the details of your request to:  
+Privacy Policy c/o ePrize, Inc.  
+One ePrize Drive  
+Pleasant Ridge, MI 48069
 
-In order to register, you'll have to supply us with your email and postal addresses, choose a unique User Name and Password, and provide us with some additional information about you (the reason for your visit to TheStreet.com, what kind of investor you are, etc.). Additionally, you will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registration form.
 
-## Premium Services
 
-If you'd like access to one or more of our premium subscription-based services, you first must [register](https://secure2.thestreet.com/cap/prm.do?PID=PRFR-0003&OID=000842) as a member of TheStreet.com as described above, and then you'll have to pick a unique User Name and Password. Then, on the subscription registration page for the premium service you are interested in, you'll need to supply us with the information specified to activate your free trial or paid subscription.
+### ePrize Promotions
 
-## Real-Time Portfolio Tracker
+ePrize also runs Promotions on its own behalf. Such Promotions are to generate interest from other businesses in ePrize's products and services. ePrize uses the personally identifiable information collected in such Promotions as sales leads and may contact the individual registrants by email, mail or phone. ePrize will never sell such information or share it with another business. When individuals "opt-in" to receive information from ePrize, they are agreeing to receive email and other notices from ePrize, including marketing messages, surveys, special offers and notices about other Promotions. Such notices may come from ePrize itself or from ePrize on behalf of companies with whom ePrize has a business relationship. If you want to "opt-out" of being contacted by ePrize after you have participated in one of its Promotions, or you wish to correct the information you have provided to ePrize, you may do so in one of two ways:
 
-You may, at your option, subscribe to a real-time, streaming Real-Time Portfolio Tracker, which is provided to us as a result of a partnership with B4Utrade.com Corp. Use of the B4Utrade.com Real-Time Portfolio Tracker is completely voluntary and is the privacy or your portfolio information is governed by B4Utrade.com's [ Privacy Policy](http://www.b4utrade.com/b4utrade/jsp/common/PrivacyPolicy.jsp).
+  1. Please send an email to [remove@eprize.com](mailto:remove@eprize.com). Please make sure to include the name of the promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
+  2. Mail the details of your request to:  
+Privacy Policy c/o ePrize, Inc.  
+One ePrize Drive  
+Pleasant Ridge, MI 48069
 
-## MyStockWatch
 
-We provide a free service called MyStockWatch, which you can use to stay current on TheStreet.com or RealMoney coverage of stocks in your portfolio. Registered members of TheStreet.com may create up to five lists with a maximum of 50 tickers each. You must therefore enter in tickers of stocks you are interested in following. This information is kept confidential and is not utilized for marketing purposes by TheStreet.com.
 
-## Blogs and Chats
+### ePrize’s Online Promotion Technology
 
-We provide blogs featuring running commentary throughout the trading day by RealMoney's most popular contributors, including Jim Cramer. This exciting feature allows subscribers to respond to a blogger's commentary or to another subscriber's post. The blogs are provided subject to their own terms of use, which can be found [ here](http://www.thestreet.com/tsc/commerce/terms/tou-sb-1_blogs.html). Only paid subscribers of our RealMoney service may use the blogs. We urge and encourage participants posting comments on the blogs to include their full name in any comment and to disclose any positions held in securities they discuss in any comment. We also host chat events for discussion of various topics. Please note that information you submit to the blogs or during a chat will be available for any user of that service to read, and is no longer private.
+ePrize's proprietary Promotion technology has the ability to collect data other than personally identifiable information for any of the Promotions it operates. ePrize may collect information about your computer or device configuration such as your browser type, operating system, or ISP domain name. ePrize may collect information about the site you last visited prior to the Promotion or about your activity during your visit to the Promotion site. ePrize may also offer social sign-on services that allow you to register for a promotion using a third-party social networking site such as Facebook, Google, or Twitter. By using these services you allow ePrize to access the available information from your third-party social network profile such as your name, age, gender, location, email address, and list of friends. This information may be used by ePrize to administer the technical and operational aspects of the site, and may include using your IP address to help diagnose problems with our server. Your IP address may also be used to gather broad demographic information for aggregate use.
 
-## Surveys/Polls
+### Mobile
 
-At certain times, you may be asked to participate in surveys, which are generally aimed at obtaining general information, for example, your investment experience or your reactions to a particular article. Because information obtained in these surveys is connected with individual subscribers and is used internally to better market our services, participation is voluntary. In addition, some columnists will on occasion take polls of their readers. Such polls are solely for the editorial use of the individual columnists, and participation is voluntary.
+As a full service promotions and sweepstakes agency, ePrize also operates mobile programs on behalf of its clients and itself. As part of those mobile services, ePrize collects personally identifiable information by use of ePrize's proprietary mobile technology. ePrize will not collect personally identifiable information from you without your permission. We treat any information you send to us as non-confidential and non-proprietary and we cannot guarantee or warrant the security of any data you submit to us, though we will use reasonable efforts to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data under our control, including physical, electronic and procedural safeguards. ePrize respects your privacy. We will only use the information you provide, including your mobile number, to send you content pursuant to the program in which you have requested to participate, though we will share the information we collected from you with the client on whose behalf we collected it. We will not use your information for any other purpose. ePrize is not responsible for information collected on behalf of its clients when such information is in its client's possession. However, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation, or governmental request; to avoid liability; or to protect our rights or property. When you provide us information in connection with a mobile program, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may prohibit you from further participation in the applicable program and pursue any appropriate legal remedies.
 
-## Contests and Sweepstakes
+### Cookies
 
-We sometimes offer contests or sweepstakes in which certain personal information is required for registration, for purposes of verifying the entrants' identities and notifying the winners. If the contest or sweepstakes is being administered by a third party, this information will be disclosed to that third party. However, entrants may select contest names distinct from their User Names, and the information is not connected with their User Names.
+ePrize uses cookies in order to improve your user experience by enabling our promotions to ‘remember’ you or your preferences, either for the duration of your single visit (using "session cookies") or during additional visits ("persistent cookies").
 
-## TRACKING INFORMATION
+ePrize uses browser cookies in order to improve your user experience by enabling our Promotions to ‘remember’ you or your preferences, either for the duration of your single visit to a website (using "session cookies") or during additional visits ("persistent cookies"). A cookie is a small text file that is stored on your computer or device by a website. Only the visited website will be able to read the contents of a particular cookie. Every cookie is unique to your web browser and contains anonymous information such as a unique identifier, the site name, and some digits and numbers. Cookies serve lots of different purposes like letting you navigate between pages efficiently, storing your preferences or settings, and overall improving your experience with our promotions. Cookies make the interaction between you and ePrize Promotions faster and easier. If a website doesn’t use cookies, it will think you are a new visitor every time you move to a new page on the site – for example, when you enter your login details and move to another page it won’t recognize you and it won’t be able to keep you logged in.
 
-Tracking data consists of both individual and aggregated tracking information and is automatically gathered using "cookies." A cookie is a small data file containing information, such as a user's login name, that is written to the user's hard drive by a web server and used to track the pages visited.
+Some of our websites will also use cookies or web analytics tracking methods to enable them to target advertising or marketing messages based, for example, on your location and/or browsing habits. Cookies may be set by the website domain you are visiting ("first party cookies") or they may be set by other website domains that run content on the page you are viewing ("third party cookies"). The content of third party cookies can sometimes include Facebook "like" buttons or Twitter "tweet" buttons.
 
-Tracking by TheStreet.com
+Some people find the idea of a website storing information on their computer or mobile device intrusive, particularly when that information is stored and used by a third party without their consent. If you do not want to see advertising that has been targeted to your interests or activities, it is possible to block some or all cookies, or even to delete cookies that have already been set, but you might lose some or all of that website's functionality. To manage cookies on your browser please see the articles below:
 
-We use cookies in several ways to track user behavior. First, the information we gather on an individual basis is used for internal purposes only, such as accessing a member's account information. We also use tracking information on an aggregate basis, to track the readership of stories and usage of our products, to analyze traffic patterns on our sites, and to provide anonymous reporting of usage for internal and external clients. In all cases, cookies used by TheStreet.com, Inc. are encoded and contain a unique digital signature to prevent tampering. They do not contain user passwords. We also employ technology that is commonly referred to as "action tags" (also known as "web beacons" or "one pixel .gif files") to measure the effectiveness of our advertisements.
+All Internet Explorer Versions: <http://support.microsoft.com/kb/278835>
 
-You can control your browser's settings regarding cookies by selecting "Internet Options" or "Preferences" in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because cookies allow you to easily navigate our web sites without having to constantly log in using your User Name and Password, we recommend that you leave them turned on.
+Mozilla Firefox: <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
 
-## Revenue Science
+Google Chrome: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
-In addition to our own internal tracking, we utilize the services of [Revenue Science](http://www.revenuescience.com/privacyStatement.asp), a company that provides data analyses and audience segmentation services, in order to better target advertising to our visitors based on their activity on our sites.
+Opera: <http://www.opera.com/browser/tutorials/security/privacy/>
 
-  * To view Revenue Science's privacy policy, click [here](http://www.revenuescience.com/privacyStatement.asp).
-  * Revenue Science does not collect personally identifiable information, but instead performs real-time targeting of advertising based on anonymously tracked user activity. This enables us to serve advertisements that are more likely to be interesting to users based on their activity on our sites.
-  * If you would like to opt out of Revenue Science's association of tracking information with your browser, please click [here](http://www.networkadvertising.org/optout_nonppii.asp) and follow the instructions on the page.
+Safari: <http://support.apple.com/kb/PH5042>
 
+### Special Note about Children
 
+Unless otherwise specifically indicated, ePrize Promotions are not available to anyone under the age of 13. ePrize does, however, operate Promotions on behalf of its clients which collect personally identifiable information from children under the age of 13. In each such instance, ePrize and its clients will fully comply with all aspects of the Children's Online Privacy Protection Act ("COPPA") in the operation of the Promotion, in the collection of the information itself, and in the subsequent use and deletion of the data collected.
 
-## Atlas
+### California Privacy Rights (as provided by California Civil Code Section 1798.83)
 
-TheStreet.com uses [Atlas](http://www.atlassolutions.com/), an operating unit of [aQuantive, Inc.](http://www.aquantive.com/), a digital marketing company.
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer's personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
 
-  * The privacy policy of Atlas can be found [here](http://www.atlassolutions.com/privacy/optout/).
-  * Atlas serves TheStreet.com advertisements on our own sites and on web sites from which we have purchased online advertising, such as Yahoo! Inc. and MSN Money. Atlas also uses web beacons to collect anonymous, non-personally identifiable tracking information about users who register with our site through such advertisements, including the user's anonymous cookie ID, the specific advertisement posted on the site, the time and place of delivery. The identities of all users who see an ad from an Atlas server remain completely anonymous to Atlas.
-  * If you would like to opt-out from such tracking, click [ here](http://www.atlassolutions.com/privacy/optout/), and Atlas will change your cookie to one that does not contain a unique user ID number, which will prevent Atlas from collecting any information from your use of the Internet by preventing information from being associated with your browser.
+ePrize does not support Do Not Track browser settings and does not currently participate in any Do Not Track frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your personal information.
 
+### Contact ePrize
 
+If you wish to contact ePrize to correct, amend, or delete information (if ePrize is holding on to your information as explained above), to communicate about privacy related issues, or for any reason at all, you may do so in one of two ways:
 
-## Coremetrics
+  1. Mail to:  
+Privacy Policy c/o ePrize, Inc.  
+One ePrize Drive Pleasant Ridge, MI 48069; or
+  2. Email to: [privacy@eprize.com](mailto:privacy@eprize.com) 
 
-[Coremetrics](http://www.coremetrics.com/), an online marketing analysis company, is used by TheStreet.com to collect data as to what pages our customers are visiting and what, if any, pattern of page viewing exists. We utilize Coremetrics to analyze such customer activity data solely to better serve the interests of our customers. Only non-personally identifiable information is collected by Coremetrics for analysis, using anonymous cookies, and all such data belongs to TheStreet.com. 
 
-  * If you would like to opt-out of this collection of tracking data, click [ here](http://www.coremetrics.com/company/privacy.html#optout) and follow the instructions to select one of the two available options for opting out.
-  * We also use Coremetrics to analyze anonymous commerce data to determine the performance of our marketing campaigns. To view the privacy policy of Coremetrics, click [ here](http://www.coremetrics.com/company/privacy.html).
 
-
-
-## Omniture
-
-TheStreet.com uses [Omniture, Inc.](http://www.omniture.com/), a provider of online business optimization software, to assist us in the capture and analysis of customer usage and tracking information. Omniture acts as a limited agent to TheStreet.com only for the purpose of providing such services. Any information obtained by Omniture from TheStreet.com is and will remain TheStreet.com's property, and will be treated by Omniture as proprietary and confidential information of TheStreet.com. As such, Omniture will not disclose such information to any third party, unless specifically and rightfully instructed to do so by TheStreet.com. Omniture will not review, share, distribute, print, or reference any session data of visitors to TheStreet.com websites except as requested by TheStreet.com or as may be required by law.
-
-  * To view the privacy policy of Omniture, click [here](http://www.omniture.com/privacy/policy). If you do not wish to allow your session visitation information to be aggregated and analyzed by Omniture, you may utilize the opt out mechanism found under the heading "OPT OUT METHOD" [here](http://www.omniture.com/privacy/product).
-
-
-
-Tracking by our Advertisers
-
-TheStreet.com's advertisers include financial services companies (such as brokerage firms, banks, and mortgage companies) and non-financial services companies (such as computer manufacturers, software companies, automobile makers and retail stores). TheStreet.com's advertisers and advertising vendors display targeted advertisements. Although TheStreet.com does not provide any personal information to the advertiser or advertising vendor, by interacting with or clicking on an ad you consent to the possibility that the advertiser will assume you meet the targeting criteria used.
-
-In addition to cookies placed by TheStreet.com or its agents, as described above, advertisers and advertising vendors that serve ads onto our web sites may use their own cookies or other tracking technologies. We cannot be responsible for the privacy policies or practices of any such advertisers and vendors.
-
-## DoubleClick
-
-If you would like to know more about the privacy practices of our primary third-party ad server, please click [here](http://www.doubleclick.com/us/about_doubleclick/privacy/) to view DoubleClick's privacy policy. DoubleClick collects certain non-personally identifiable information in order to better target advertising to you.
-
-  * If you would like to opt-out, click [ here](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl), and DoubleClick will change your cookie to one that does not contain a unique user ID number, which will prevent DoubleClick from collecting any information from your use of the Internet.
-
-
-
-## Avenue A|Razorfish
-
-Some advertisements on our site are served by interactive advertising agency Avenue A|Razorfish, another operating unit of [aQuantive, Inc](http://www.aquantive.com/).
-
-  * The privacy policy of Avenue A|Razorfish can be found [here](http://www.avenuea-razorfish.com/privacyPolicy.htm).
-  * In addition to its own cookies, Avenue A|Razorfish uses "action tags" to measure the effectiveness of its ads on behalf of its clients. Avenue A|Razorfish uses an action tag to set or read its cookie. Any information that Avenue A|Razorfish collects using these cookies and action tags is completely anonymous. Avenue A|Razorfish may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. Unless otherwise notified, Avenue A does not use names, addresses, e-mail addresses or telephone numbers, and does not link online actions to an identifiable person.
-  * The cookies and action tags utilized by Avenue A|Razorfish are served by Atlas, which is also an [aQuantive, Inc](http://www.aquantive.com/). company. If you would like to opt-out, which will prevent Avenue A|Razorfish from collecting any information from your use of the Internet, click [ here](http://www.atlassolutions.com/privacy/optout/), and Atlas will change your cookie to one that does not contain a unique user ID number.
-
-
-
-## USE OF THE INFORMATION
-
-TheStreet.com, Inc. uses personal information obtained from its users as stated in this Privacy Policy, and to enhance users' experiences on our sites. 
-
-## Disclosures Permitted by Law
-
-TheStreet.com does not sell or disclose personal information about you described above to with other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances:
-
-  * We provide the information on a confidential basis to nonaffiliated companies we engage as contractors or agents to perform services for us, such as maintaining software, sending direct mail or administering a sweepstakes or contest. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services on our behalf, and pursuant to confidentiality obligations;
-  * In response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators;
-  * If we sell or otherwise transfer substantially all of our assets related to any web site that we own or operate and any product or service that we offer. In that event, we will require such third party to honor our current Privacy Policy, until the third party provides you with notice of changes to our Privacy Policy and permits you to exercise any rights you may have under applicable law to limit disclosures of information about you.
-
-
-
-## Disclosures for Joint Marketing and Servicing
-
-TheStreet.com may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or to financial institutions, such as banks, insurance companies and securities broker-dealers, with whom we have joint marketing agreements.
-
-## Other Uses
-
-  * Free Newsletters  
-If you're a registered member of TheStreet.com, we use your email address to send you free email newsletters containing selected stories, market information, advertisements and links to our sites. You can select which free newsletters you would like to receive or remove yourself from our free newsletter delivery list at any time by visiting the [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) or contacting our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST.
-  * Premium Services  
-If you're a subscriber, we use your email address, postal address or fax number, as applicable, to deliver our premium products and services. You can view your account information at any time by visiting the [Account Information page](https://secure2.thestreet.com/cap/selfserve/) or by contacting our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST.
-  * Special Offers and Advertisements  
-We may from time to time send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on our [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp), or contact our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com), or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST.
-
-
-
-## CORRECTING AND UPDATING THE INFORMATION
-
-TheStreet.com offers to its members the ability to correct or update online the information we collected during registration by visiting the [Account Information page](https://secure2.thestreet.com/cap/selfserve/). You may also contact our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST.
-
-## SECURITY
-
-TheStreet.com, Inc. limits access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.
-
-## FORMER CUSTOMERS
-
-TheStreet.com, Inc. discloses personal information about former customers only in accordance with this Privacy Policy.
-
-## YOUR INDEPENDENT RELATIONSHIPS WITH OTHER COMPANIES
-
-Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on TheStreet.com's sites. Those companies' privacy policies will govern how they collect, use and disclose personal information that you provide to them.
-
-Questions or comments regarding this policy should be directed to [privacy@thestreet.com](mailto:privacy@thestreet.com). TheStreet.com, Inc. reserves the right to modify this policy.
+_ePrize may make material changes to this privacy policy from time to time. Therefore, you should periodically visit this page to view the current privacy policy. In the event of a material change to this privacy policy, ePrize will send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above, or by posting notice of the changes on this site._
