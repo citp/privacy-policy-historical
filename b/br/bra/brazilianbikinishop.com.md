@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2013-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130226211338id_/https%3A//www.brazilianbikinishop.com/faq.php%3FcID%3D12%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211141510id_/http%3A//www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html) for the most accurate reproduction.*
 
-# Brazilian bikini shop
+# Terms and Conditions
 
 ### **1\. INFORMATION ABOUT US**
 
@@ -13,7 +13,7 @@ by telephone on +33 (0)9.67.17.01.14 - Monday to Friday from 9h30 AM to 3h45 PM 
 
 ### **2\. YOUR PERSONAL INFORMATION**
 
-We will use your personal information in accordance with our Privacy Policy (Read our “[Privacy Policy](https://www.brazilianbikinishop.com/faq.php?cID=12#privacy "Privacy information")” page), which forms part of these terms.
+We will use your personal information in accordance with our Privacy Policy (Read our “[Privacy Policy](http://www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html#privacy "Privacy information")” page), which forms part of these terms.
 
 ### **3\. CONTRACT CONCLUSION**
 
