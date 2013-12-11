@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jayco.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520164258id_/http%3A//www.jayco.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayco.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211041308id_/http%3A//www.jayco.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Jayco 2013
+# Jayco 2014
 
   
 This is the web site of Jayco, Inc.
