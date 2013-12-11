@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629124819id_/http%3A//federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211202533id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -21,7 +21,7 @@ We do collect some technical information. For example, when you browse, read pag
 
 This information is used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We also use this data to optimize the site's technical design specifications and/or identify system performance or problem areas. This information is used as a source of anonymous statistical data and is retained for a period of five years; it is shared only when required for law enforcement purposes. 
 
-##  Cookies 
+##  Cookies
 
 When you visit some websites, their web servers generate pieces of information known as cookies. A cookie is an entry placed in a file on your hard drive by a website that allows it to monitor your use of the website, usually without your knowledge. Some cookies collect personal information to recognize your computer in the future. 
 
@@ -66,13 +66,16 @@ _Links to Federal Reserve System Websites
 _As part of the Federal Reserve System, the Board also provides links to information on Federal Reserve Bank websites and other System websites. These sites do not necessarily operate under the same laws, regulations, or privacy and security policies as the Board's website. Links to Federal Reserve System websites are indicated by the following icon: . 
 
 _Links to Social Media Third-Party Websites  
-_The Board of Governors of the Federal Reserve System uses certain third-party social media sites as additional means of reaching the public and directing people to [www.federalreserve.gov](http://www.federalreserve.gov/), which is the primary source of information for the Board of Governors of the Federal Reserve System. The Board maintains an official page or presence on Ustream, Twitter and YouTube. Updates to these pages are generally made during official business hours. 
+_The Board of Governors of the Federal Reserve System uses certain third-party social media sites as additional means of reaching the public and directing people to [www.federalreserve.gov](http://www.federalreserve.gov/), which is the primary source of information for the Board of Governors of the Federal Reserve System. The Board maintains an official page or presence on Ustream, Twitter, YouTube and Flickr. Updates to these pages are generally made during official business hours. 
 
-You can access the Board's official pages on Ustream, Twitter, and YouTube without having an account or subscribing to services. The Board does not collect any personal information about you, such as your name, address, or online profile, when you access these websites. 
+You can access the Board's official pages on Ustream, Twitter, YouTube and Flickr without having an account or subscribing to services. The Board does not collect any personal information about you, such as your name, address, or online profile, when you access these websites. 
 
 As noted above, the Board's privacy policy does not apply on these third party websites and therefore you should familiarize yourself with the privacy policies of the social media site you use. You may access the privacy policy of the social media sites used by the Board at: 
 
 [YouTube](javascript:exitWindow\('http://www.youtube.com/FedReserveBoard','ext'\))  | [YouTube privacy](javascript:exitWindow\('http://www.google.com/intl/en/policies/privacy/','ext'\))
+
+[Flickr](javascript:exitWindow\('http://www.flickr.com/photos/federalreserve/','ext'\))  |  [Flickr privacy](javascript:exitWindow\('http://info.yahoo.com/privacy/us/yahoo/flickr/details.html','ext'\))    
+ 
 
 _Links to Other Third-Party Websites  
 _The site also provides links to other non-federal government third-party websites as a public service. By linking to these external sites, the Board does not imply endorsement of the site's sponsor. 
@@ -159,7 +162,9 @@ The Board complies with the E-Government Act of 2002. The Act requires an agency
 
 [PeopleClick Recruitment Management System (PDF)](https://web.archive.org/files/pia_peopleclick.pdf)
 
-[Personal Identity Verification (PIV) Program (PDF)](https://web.archive.org/files/pia_piv.pdf)
+[Personal Identity Verification (PIV) Program (PDF)](https://web.archive.org/files/pia_piv.pdf)[ ](https://web.archive.org/files/pia_secure_external_team_space.pdf)
+
+[Secure External Team Space (PDF)](https://web.archive.org/files/pia_secure_external_team_space.pdf)
 
 [Studies to Develop and Test Consumer Regulatory Disclosures (PDF)](https://web.archive.org/files/pia_for_consumer.pdf)
 
