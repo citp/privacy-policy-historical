@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joe.ie privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608104908id_/http%3A//www.joe.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joe.ie privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211184210id_/http%3A//www.joe.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | JOE.ie
 
