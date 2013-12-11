@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the cruiseline.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612001034id_/http%3A//cruiseline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseline.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211064342id_/http%3A//cruiseline.com/privacy) for the most accurate reproduction.*
 
-# Cruiseline.com | Privacy Policy
+# Privacy Policy
+
+  * [Home](https://web.archive.org/) »
+  * Privacy Policy
+
+
 
 We built Cruiseline.com.com to help cruisers share and read cruise reviews as well as get together and share their experiences. To do that, we collect personal information about you. We understand this personal information is YOURS. As such, we give you control over your personal information. Cruiseline.com helps you share information with other cruisers and make new friends. You choose what information to put in your profile, including contact and personal information, pictures and interests. At any time, you can modify all of this through your Settings page.
 
 This Privacy Policy describes how we use and protect your personal information. By accepting the Privacy Policy and the Terms and Conditions of Service during registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on December 5, 2012.
 
-### What Information Do We Collect?
+## What Information Do We Collect?
 
 You can browse and read most of the content cruiseline.com without telling us who you are. In order to use the interactive features, including joining a cruise roll call, posting a cruise review or participating in the forums, you are required to register. If you choose to give us personal information, you consent to the transfer and storage of that information on our servers located in the United States. We may collect and store the following personal information:
 
