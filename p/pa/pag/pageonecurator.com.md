@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageonecurator.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508192326id_/http%3A//www.pageonecurator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageonecurator.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211195343id_/http%3A//www.pageonecurator.com/privacy) for the most accurate reproduction.*
 
 # Curation Software | PageOne Curator - Official Site - Powerful New Curation Tool | Privacy
 
