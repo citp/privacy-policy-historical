@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebitbot.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621031924id_/http%3A//thebitbot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebitbot.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211163206id_/http%3A//thebitbot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | TheBitBot.Com News, Views, and Reviews
 
@@ -93,3 +93,5 @@ http://thebitbot.com/
 P.O. Box 1572  
 Prarieville, LA 70769  
 USA
+
+[](http://www.hupso.com/share/)
