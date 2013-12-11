@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetoptens.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611001338id_/http%3A//www.thetoptens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetoptens.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211053440id_/http%3A//www.thetoptens.com/privacy.asp) for the most accurate reproduction.*
 
 # TheTopTens - Privacy Policy
 
@@ -10,7 +10,7 @@ We collect personally identifiable information, like names, email addresses, etc
 
 ## Cookie/Tracking Technology
 
-The Site makes use cookies and other tracking technology. Cookie and tracking technologies are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology. Cookie and tracking information will not be shared with third parties. 
+The Site makes use cookies and other tracking technology. Cookie and tracking technologies are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be gathered via cookies and other tracking technology. Cookie and tracking information will not be shared with third parties. 
 
 ## Third Party Advertising
 
@@ -19,3 +19,9 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 ## Distribution of Information
 
 We will only share collected information with third parties when we are legally required to do so. Information will never be provided to third parties for marketing purposes. 
+
+**Featured Lists**
+
+**Popular Lists**
+
+**New Lists**
