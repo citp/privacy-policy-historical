@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sandpointpr.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603092055id_/http%3A//www.sandpointpr.com/sandpoint-pr-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandpointpr.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211133031id_/http%3A//www.sandpointpr.com/sandpoint-pr-privacy-policy) for the most accurate reproduction.*
 
 # Sandpoint PR Privacy Policy
+
+27\. December 2012
 
 Sandpoint Public Relations LLC respects and holds in confidence all private, personal and contact information it acquires in the natural course of business, through its services, during networking and from its website(s).
 
@@ -36,6 +38,8 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+SandpointPR.com uses CDN CloudFlare®. For this purpose, the usage data of the visitors to this website are processed.
 
 **Contact Information**  
 Concerns or questions about this privacy policy can be directed to [dwayne@sandpointpr.com](mailto:dwayne@sandpointpr.com) for further clarification.
