@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jtplaza.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627110257id_/http%3A//www.jtplaza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtplaza.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211093514id_/http%3A//www.jtplaza.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Shopping India - Shop Online for Sarees, Bags & Accessories | JTPLAZA.com Privacy Policy
+# Privacy Policy
 
 This Privacy Policy governs the manner in which JTPLAZA collects, uses, maintains and discloses information collected from users (each, a "User") of the [jtplaza.com](http://www.jtplaza.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by JTPLAZA.
 
