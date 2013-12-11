@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611014017id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211085547id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # MustHaveMenus Privacy Policy
 
@@ -12,7 +12,7 @@ Cookies
 
 **
 
-You must have Cookies turned ON to be a member at MustHaveMenus.com. Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences. Cookies enables you to login, and helps us personalize your experience at the Site by permitting our computer server to "remember" who you are. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers. **
+You must have Cookies turned ON to be a member at MustHaveMenus.com. Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences. Cookies enable you to login, and helps us personalize your experience at the Site by permitting our computer server to "remember" who you are. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers. **
 
 Personal Information Used for Promotional Purposes
 
