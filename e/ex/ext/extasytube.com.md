@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extasytube.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331191029id_/http%3A//www.extasytube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extasytube.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211143330id_/http%3A//www.extasytube.com/privacy) for the most accurate reproduction.*
 
 # privacy policy - Free Black Porn, Black Pussy, Ebony Sex, Amateur Porn, Big black booty
 
@@ -26,4 +26,4 @@ SECURITY
 
 Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. Unfortunately, the transmission of information via the Internet is not completely secure. Extasytube.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Extasytube.com and you do so at your own risk. YOUR RIGHTS
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at extasytube@yahoo.com 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at support@choopa.com 
