@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hybrid-connect.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613031316id_/http%3A//hybrid-connect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybrid-connect.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211213023id_/http%3A//hybrid-connect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hybrid Connect
+# Privacy Policy | Hybrid Connect
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
