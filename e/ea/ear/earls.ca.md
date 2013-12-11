@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earls.ca privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530074034id_/http%3A//www.earls.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earls.ca privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211020937id_/http%3A//www.earls.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
