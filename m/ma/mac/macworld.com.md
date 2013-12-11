@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606045050id_/http%3A//www.idgcsmb.com/contact/macworld-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211181112id_/http%3A//www.idgcsmb.com/contact/macworld-privacy-policy) for the most accurate reproduction.*
 
 # Macworld Privacy Policy | IDG Consumer & SMB
 
