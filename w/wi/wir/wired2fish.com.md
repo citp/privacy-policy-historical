@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514100829id_/http%3A//wired2fish.com/privacy-policy-p17348) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211142435id_/http%3A//www.wired2fish.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wired2Fish
+# Privacy Policy « Wired2Fish
 
 Wired2fish, Inc. (“Wired”), the owner and operator of Wired2Fish.com, appreciates your trust  
 and is committed to respecting your privacy and the security of your personal information. Any  
@@ -10,7 +10,7 @@ Terms of Service for the Site located [here](https://web.archive.org/Page138/Ter
 This policy is provided so that you can make educated decisions about the way your information is collected and used by  
 Wired.
 
-Wired may collect certain non-personally identifiable information ("Non-personal Data") when  
+Wired may collect certain non-personally identifiable information (“Non-personal Data”) when  
 you visit the Site, such as the type of Internet browser you are using (e.g., Firefox, Internet  
 Explorer), the type of operating system you are using, (e.g., Windows XP, Mac OS or Linux),  
 the name of your Internet service provider (e.g., America Online, Comcast, etc.), your IP  
@@ -50,7 +50,7 @@ of the Sites; (7) to protect against a threat of safety or destruction of proper
 Wired against legal liability.
 
 Wired knows that you care how information about you is used and shared. Wired is not in the  
-business of selling customer's e-mail to unrelated third-parties. Wired may, however, use your  
+business of selling customer’s e-mail to unrelated third-parties. Wired may, however, use your  
 email address or physical address to send you special offers through email or regular mail. These  
 special offers may come from Wired or Wired’s partners. You may unsubscribe from the mailing  
 list at any time by following the instructions in the message.
@@ -60,13 +60,13 @@ Site and will maintain copies of the Non-Personal Information and Personal Infor
 of its records. The Non-Personal Information and Personal Information may be transferred,  
 distributed or sold as part of Wired’s assets.
 
- **Children's Privacy Policy**
+**Children’s Privacy Policy**
 
 This section of the Privacy Policy provides Wired’s policy for the collection and use of personal  
 information about children under the Children’s Online Privacy and Protection Act (“COPPA”).
 
-Under the Children's Online Privacy Protection Act, a “child” is anyone under thirteen (13) years  
-of age and "personal information" is defined as individually identifiable information, such as a  
+Under the Children’s Online Privacy Protection Act, a “child” is anyone under thirteen (13) years  
+of age and “personal information” is defined as individually identifiable information, such as a  
 first and last name; a home or other physical address including street name and city or town; an  
 e-mail address; a telephone number; a social security number; or persistent identifiers such as  
 customer or processor serial numbers held in a cookie, where the identifier is associated with  
@@ -85,10 +85,10 @@ others. Wired is not responsible for such collection or disclosure.
 Wired requires parental consent before collecting, using, or disclosing certain personal  
 information from children as required by COPPA. Parental consent must be demonstrated  
 through use of a valid credit card to create an order from Wired or by contacting Wired. Parents  
-may review and have their child's personal information deleted from Wired’s records, and  
-may refuse to permit further collection or use of their child's information by contacting Wired.  
+may review and have their child’s personal information deleted from Wired’s records, and  
+may refuse to permit further collection or use of their child’s information by contacting Wired.  
 Wired’s agent for COPPA information requests is [please fill in agent contact information]  
-. Parents may consent to our collection and use of their child's personal information without  
+. Parents may consent to our collection and use of their child’s personal information without  
 consenting to the disclosure of that information to others.
 
 Wired treats personal information collected from children in the same manner as it treats any  
