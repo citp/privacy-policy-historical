@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtremez.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509092746id_/http%3A//www.paintball-online.com/pages/Help-Center-About-Us.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremez.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211164427id_/http%3A//www.paintball-online.com/pages/Help-Center-About-Us.aspx%23privacy) for the most accurate reproduction.*
 
-# Help Center About Us
+# | VIPs Save 10% & Free Shipping - Paintball-Online.com
 
 ## About Paintball-Online.com
 
@@ -31,17 +31,13 @@ Price Protection does not apply to reseller's liquidations, where the other reta
 **Email:** sales@paintball-online.com  
 **Order Hotline:** (800) 875-4547  
 **Order Status:** +1 (360) 567-2520  
-(Monday - Saturday: 9am - 6pm Pacific Time)  
+(Monday - Friday: 8am - 4pm EST)  
 **Fax:** (360) 567-1766  
-**Mailing Address:** 1212 W. Fourth Plain Blvd, Vancouver, WA 98660 USA 
-
-## Directions to an Xtremez near you
-
-Visit one of our retail locations: Vancouver, WA Tualatin, OR 
+**Mailing Address:** 314 E McLoughlin Blvd, Suite 200, Vancouver, WA 98663 USA 
 
 ## Jobs
 
-Love paintball? Live in the Northwest? [Join the Paintball Online team.](http://www.paintball-online.com/pages/viewpage.aspx?page=20)
+Love paintball? Live in the Northwest? [Join the Paintball Online team.](https://web.archive.org/pages/viewpage.aspx?page=20)
 
 ## Lowest Price Guarantee
 
