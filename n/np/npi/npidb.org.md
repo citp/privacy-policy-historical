@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622120658id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211200501id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
 
 # NPIdb - National Provider Identifier DataBase Privacy Policy
 
