@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502231935id_/http%3A//asmnet.com/AboutUs/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211083548id_/http%3A//www.asmnet.com/pages/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-[Effective Date: March 13, 2006, as amended on January 17, 2011]
-
+[Effective Date: March 13, 2006, as amended on January 17, 2011]  
 At Advantage Sales & Marketing LLC ("ASM"), we respect and value your privacy. This privacy statement describes and applies to the information we collect from you when you visit any ASM website (which shall include [www.asmnet.com](https://web.archive.org/) and [www.asmconnects.com](http://www.asmconnects.com/), as well as the websites of any ASM divisions or subsidiaries) (hereinafter collectively referred to as "Website" or "ASM Website"), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through the ASM Website. This statement applies only to information you provide to us online while visiting or using our website. It does not apply to information we have obtained or may obtain offline through other traditional means.
 
   1. **_The Information We Collect_**
@@ -139,7 +138,4 @@ Attn: General Counsel
 18100 Von Karman Avenue, Suite 900   
 Irvine, CA 92612   
 Phone: (949) 797-2900  
-Fax: (949) 797-9112 
-
-|    
-
+Fax: (949) 797-9112 ​​​​​​​
