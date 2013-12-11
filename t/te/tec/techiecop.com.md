@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techiecop.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210453id_/http%3A//www.techiecop.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techiecop.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211054223id_/http%3A//www.techiecop.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Techie Cop
 
@@ -21,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Techie Cop then you may contact us at admin [at] techiecop [dot ] com 
+If you have any questions regarding the privacy policy of Techie Cop then you may contact us at admin [at] techiecop [dot ] com
