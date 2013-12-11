@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628110423id_/http%3A//www.pedr.co.uk/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedr.co.uk privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211062842id_/http%3A//www.pedr.co.uk/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # PEDR Privacy Policy
 
