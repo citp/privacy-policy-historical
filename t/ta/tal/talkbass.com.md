@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkbass.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606023556id_/http%3A//www.talkbass.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkbass.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211135250id_/http%3A//www.talkbass.com/content/privacy.php) for the most accurate reproduction.*
 
 # TalkBass.com: About Us
 
@@ -67,7 +67,7 @@ cssupport1@talkbass.com
 
 [](http://www.facebook.com/talkbass)   [](https://itunes.apple.com/us/app/talkbass/id585335670?mt=8&uo=4)   [](http://play.google.com/store/apps/details?id=com.tapatalk.talkbasscomforum)
 
-All times are GMT -6. The time now is 08:35 PM.
+All times are GMT -6. The time now is 07:52 AM.
 
   
 
