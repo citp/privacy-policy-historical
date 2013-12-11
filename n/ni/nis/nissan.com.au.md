@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616114442id_/http%3A//www.nissan.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211235045id_/http%3A//www.nissan.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,9 +78,9 @@ You may request access to personal information (including your credit informatio
 If at any time you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request amendment of it and we will either amend the information or make a record of your comment, as we think appropriate.
 
 **Opting Out**    
-At any time you may [opt out](https://web.archive.org/web/20130616114442id_/http%3A//www.nissan.com.au/~/link.aspx?_id=228BD365CE7F4DBC9F1AFFF2BEAC77F6&_z=z) of receiving any communications from us (other than as required for our primary purpose or by law). Unless you opt out, your consent to receive communications from us and to the handling of your personal information as detailed above, will continue.
+At any time you may [opt out](https://web.archive.org/web/20131211235045id_/http%3A//www.nissan.com.au/~/link.aspx?_id=228BD365CE7F4DBC9F1AFFF2BEAC77F6&_z=z) of receiving any communications from us (other than as required for our primary purpose or by law). Unless you opt out, your consent to receive communications from us and to the handling of your personal information as detailed above, will continue.
 
-To opt out of receiving any further communication from Nissan and NFS, simply complete the [form](https://web.archive.org/web/20130616114442id_/http%3A//www.nissan.com.au/~/link.aspx?_id=228BD365CE7F4DBC9F1AFFF2BEAC77F6&_z=z) to the left headed "OPTING OUT" and send to Nissan by clicking on the submit button.
+To opt out of receiving any further communication from Nissan and NFS, simply complete the [form](https://web.archive.org/web/20131211235045id_/http%3A//www.nissan.com.au/~/link.aspx?_id=228BD365CE7F4DBC9F1AFFF2BEAC77F6&_z=z) to the left headed "OPTING OUT" and send to Nissan by clicking on the submit button.
 
 **Questions, complaints and opting back in  
 **Any questions about this policy or any complaint regarding treatment of your privacy by Nissan or NFS or any request to opt back into receiving communications from Nissan and NFS after you have opted out should be made in writing to the address below.
@@ -95,7 +95,7 @@ To opt out of receiving any further communication from Nissan and NFS, simply co
 **Nissan Website**    
 In general you can visit the Nissan website without telling us who you are. The amount of information that you provide to Nissan will depend on the range and number of services that you choose to use. Particular sections of the Nissan website may require you to provide Nissan with personal information, including your name and email address. Personal information will only be requested if it is necessary to provide a service to you or if it is necessary by law to collect the information.
 
-Nissan Australia uses advertising programs that place cookies on your computer to collect information about your browsing history (including on external websites). This information, which does not identify you personally, is collected in order to improve your online experience by customising the advertising you see to your interests (including the display of more relevant ads on external websites). You can opt out of these programs at any time by clicking [here](https://web.archive.org/web/20130616114442id_/http%3A//www.nissan.com.au/~/link.aspx?_id=228BD365CE7F4DBC9F1AFFF2BEAC77F6&_z=z).
+Nissan Australia uses advertising programs that place cookies on your computer to collect information about your browsing history (including on external websites). This information, which does not identify you personally, is collected in order to improve your online experience by customising the advertising you see to your interests (including the display of more relevant ads on external websites). You can opt out of these programs at any time by clicking [here](https://web.archive.org/web/20131211235045id_/http%3A//www.nissan.com.au/~/link.aspx?_id=228BD365CE7F4DBC9F1AFFF2BEAC77F6&_z=z).
 
 By using the Nissan website you agree that the internet is inherently insecure and that accordingly we can only use our best endeavours to secure your personal information and cannot provide any definitive assurance regarding security of personal information. Other than liability that cannot lawfully be excluded, Nissan and NFS will not be liable in any way in relation to any breach of security or any unintended loss or disclosure of that information.
 
