@@ -1,121 +1,124 @@
-> *The following text is extracted and transformed from the collingwoodfc.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013842id_/http%3A//www.afl.com.au/Hidden/Privacy/tabid/8780/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collingwoodfc.com.au privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211192805id_/http%3A//www.collingwoodfc.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Official Website of the Australian Football League
+# Privacy Policy - collingwoodfc.com.au
 
-### Privacy Statement
+Your privacy is important to the Australian Football League **(AFL)** and each of the 18 AFL Clubs listed in paragraph 13 at the end of this privacy policy **(AFL Clubs)**. This privacy statement provides information about the personal information that the AFL and AFL Clubs collect and the ways in which the AFL and AFL Clubs may use and disclose this personal information. 
 
- **AFL TELSTRA NETWORK PRIVACY STATEMENT**
+The AFL may disclose your personal information to AFL Clubs, and AFL Clubs may disclose your personal information to the AFL.  Each organisation will collect and use your personal information in accordance with this privacy policy.
 
-Welcome to the AFL Telstra Network ("AFLTN").
+Where you provide your personal information directly to one AFL Club, although it may be disclosed to the AFL, that personal information will not ordinarily be shared with a different AFL Club.  However, there may be some circumstances where this personal information is shared between AFL Clubs.  For example, if in a transaction you purchase merchandise relating to two AFL Clubs, that transaction may be shared with both AFL Clubs.
 
-The web sites on the AFL Telstra Network including and all of the web sites ("Web Sites") are operated by Telstra Corporation Limited ABN 33 051 775 556 ("Telstra"). We have an agreement with the Australian Football League ABN 97 489 912 318 ("AFL") which gives us the exclusive right to operate and develop these Web Sites, and to provide content and other services to users of the Web Sites.
+**2     Accessing AFL Online**
 
- **1 Protecting Your Privacy**  
-1.1 Telstra, the AFL and the AFL Clubs ("we" or "us") are committed to providing you with the highest levels of customer service. This includes protecting your privacy.   
-1.2 Telstra is bound by the Commonwealth Privacy Act 1988 , except in relation to our activities carried on in the course of journalism. The Privacy Act and this Statement sets out a number of principles concerning the protection of your personal information in relation to Telstra’s other activities.  
-1.3 While Telstra is exempt from complying with the Privacy Act in relation to its journalism activities on the Web Sites in the AFLTN, Telstra publicly commits to comply with the Australian Press Council Privacy Standards which deal with privacy and the use of personal information in the context of those journalism activities. Further information about those standards can be obtained at http://www.presscouncil.org.au/pcsite/complaints/priv_stand.html.  
-1.4 Set out below is information that the Privacy Act requires Telstra to communicate to all users of the Web Sites. We recommend that you keep this information for future reference.
+“AFL Online” refers to the Australian Football League website with its top-level domain located at http://www.afl.com.au/, all related sub-domains and any other AFL website (including AFL Club websites) which provides an AFL and AFL Club product, AFL and AFL Club service or AFL-related product or service. You need not disclose your identity to the AFL or AFL Club in order to visit AFL Online, except where personal information is voluntarily supplied, however the AFL or AFL Club internet server may automatically record details about any computer used to access the website (such as the IP address, domain name and browser type), the date and time of access, and details of the information downloaded. This information is used for internal statistical purposes and to improve AFL Online.
 
- **2 About us**  
-2.1 Telstra provides a range of telecommunications and online services, either through a particular division within Telstra or through one of our related companies - for example, the publisher of our directories products. As part of its online business, Telstra is responsible for developing operating and managing the web sites which form the AFL Telstra Network.  
-2.2 The AFL is one of the leading sports organisations in Australia and is responsible for administering the Australian Rules Football competition in Australia. The AFL provides a number of services relating to the sport of Australian Rules Football, either through a particular division within the AFL or through one of our related companies.
+The AFL or AFL Clubs may use “cookies” on AFL Online. A cookie is a small text file that AFL Online may place on your computer. Usually, cookies are used as a means for our websites to remember your preferences and are thus designed to improve your experience of AFL Online. Cookies may collect and store personal information about you. The AFL and AFL Clubs treat personal information that may be obtained through cookies and any other information supplied to us (for example if you send us an email) in accordance with the AFL & AFL Club privacy policy below.
 
- **3 Your personal information**  
-3.1 We may hold a variety of personal information about you, which may include your name, date of birth, current and previous addresses, telephone/mobile phone number, e-mail address, bank account or credit card details, occupation, driver’s licence number, your Telstra PIN or password and any other PIN or password used by you to access material on the Web Sites. We may also hold details of your Telstra services or your AFL or AFL club subscriptions, details about your access rights to content on the Web Sites, and certain details about your personal interests.  
-3.2 Occasionally, you may need to provide personal information about other individuals to Telstra (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to Telstra and advise them that we can be contacted for further information - see part 13 ("How to contact us") below.  
-3.3 If you choose not to provide personal information to us, we may not be able to provide you with access to the Web Sites or to the content, products and services available on or from the Web Sites.
+**3     AFL Privacy Policy**
 
- **4 How we collect personal information**  
-4.1 Telstra collects personal information about you in a number of ways, including:  
-(a) directly from you, when you provide information by phone, email, online (eg, on or via the Web Sites) or in documents such as an application form;  
-(b) from third parties such as our related companies, credit reporting agencies or your representatives;  
-(c) from publicly available sources of information;   
-(d) from the organisations identified below under "When we disclose your personal information";  
-(e) from its own records of how you use your Telstra services, the Web Sites and the content and services available from the Web Sites; and  
-(f) when legally required to do so.  
-4.2 Telstra also collects personal information about you when you access and use the Web Sites. This is described further in part 6 ("How we collect personal information from the Web Sites") below.  
-4.3 The AFL and AFL Clubs collect personal information about you in a number of ways, including:  
-(a) directly from you, when you provide information by phone, email, online or in documents such as an application form;   
-(b) from third parties such as other AFL Clubs, Telstra (as operator of the AFLTN), credit reporting agencies or your representatives;  
-(c) from publicly available sources of information;   
-(d) from the organisations identified below under part 9 ("When we disclose your personal information") below;   
-(e) from their own records of how you use your AFL and AFL Club services, the Web Sites and the content and services available from the Web Sites; and  
-(f) when legally required to do so.
+This policy describes the way the AFL and AFL Clubs collect, hold and disclose personal information. Personal information is information that identifies you or could identify you. The AFL and AFL Clubs are subject to the _Privacy Act 1988 (Cth)_ , including the National Privacy Principles. The AFL may vary this policy from time to time, by posting an updated policy accessible via AFL Online. Protecting confidential information is fundamental to the AFL’s and AFL Clubs’ relationship with AFL supporters, employees and players. All information received in connection with an AFL or AFL Club product or service, or in the conduct of the AFL’s or AFL Clubs’ business, is therefore treated seriously, having regard to the AFL’s and the AFL Clubs’ legal obligations.
 
- **5 How we collect personal information from the Web Sites**  
-5.1 When you visit the Web Sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists Telstra to improve the structure of the Web Sites and to monitor their performance.  
-5.2 Telstra may also use "cookies" on the Web Sites. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that the Web Sites may place on your computer. Usually, cookies are used as a means for the Web Sites to remember your preferences. As such, cookies are designed to improve your experience of the AFL Telstra Network.  
-5.3 In some cases, cookies may collect and store personal information about you. Telstra extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. You can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of the Web Sites or take advantage of the improved web site experience that cookies offer.  
-5.4 Telstra uses third party suppliers such as [Sensis MediaSmart®Sales](http://www.about.sensis.com.au/products/mediasmart.php) to provide advertisement management and delivery across our web sites. These suppliers may use cookies for anonymous profiling purposes to tailor advertising to user preferences. No personally identifiable information is collected by these suppliers from our web sites. If you would like to opt-out of the MediaSmart anonymous profiling, you can [click here](http://ad.sensismediasmart.com.au/images/sensis/cookie/optout.html).  
-5.5 Telstra uses [Neilsen//NetRatings](http://www.netratings.com/) to analyse usage statistics on our websites. This analysis is performed using data collected from the afl.com.au website, including click through gateways that redirect some web page requests via Neilson//NetRatings' secure-au.imrworldwide.com domain. This analysis is used to improve the web experience of our users. No personally identifiable information is collected by Neilson//NetRatings from the afl.com.au web sites. If you would like to opt-out of Neilson//NetRatings anonymous user profiling, you can do so at the[ following page](http://www.netratings.com/privacy.jsp?section=leg_scs).   
-5.6 Telstra uses [the White Agency's](http://www.thewhiteagency.com.au/white.html) partner, DoubleClick to provide email usage analysis across the afl.com.au web site. DoubleClick uses cookies for anonymous profiling purposes to tailor advertising to user's preferences. No personally identifiable information is collected by DoubleClick from the afl.com.au web sites. If you would like to opt-out of the DoubleClick anonymous profiling, you can do so at the[ following page](http://www.doubleclick.com/us/about_doubleclick/privacy/).
+**4     Information Collected**
 
-5.7 Telstra may also collect Internet Protocol (IP) addresses relating to you when you access and use the Web Sites. IP addresses are assigned to computers on the Internet to uniquely identify them within the global network of computers which makes up the Internet. We may collect and manage IP addresses as part of the service of providing internet session management and for security purposes.
+Generally, the AFL and the AFL Clubs collect personal information directly from your use of the AFL’s website or AFL Online and any registration you make to receive information, including via email.  The personal information which the AFL and AFL Clubs collect includes:
 
- **6 Passwords and usernames**  
-6.1 We may issue you with various usernames or passwords to allow you to access some of the content and information on the Web Sites.   
-6.2 While we will make every reasonable effort to ensure that your usernames and passwords not disclosed to other people, you are ultimately responsible for maintaining the secrecy of your usernames and passwords and for ensuring that no one except you uses these usernames and passwords.
+  * your name, address, email address, gender, occupation, contact information and your favourite AFL Club;
+  * information about dealings with us and AFL Clubs, including membership history, subscriptions for AFL services;
+  * your AFL game attendance history where you purchase a ticket or use your AFL or AFL Club membership to obtain entry into a venue;
+  * your IP address and geolocation; and
+  * information derived from the use of “cookies”.
 
- **7 How we use your personal information**  
-7.1 Your personal information may be used by us to:  
-(a) give you access to the Web Sites and the other content, products and services available from the Web Sites;  
-(b) enter you into our competitions and promotions;  
-(c) administer and manage the Web Sites, including charging, billing and collecting debts;  
-(d) inform you of changes to the Web Sites or to the content, products and services available from the Web Sites;  
-(e) conduct appropriate checks for credit-worthiness and for fraud;  
-(f) research and develop the Web Sites and our other services;  
-(g) gain an understanding of your information and communication needs in order for us to provide you with improved Web Sites, content and services; and  
-(h) maintain and develop our business systems and infrastructure, including testing and upgrading of these systems.  
-7.2 Your personal information is also collected to promote and market other services which we consider may be of interest to you. If you do not wish us to contact you regarding other services, please call Telstra on 1800 039 059.   
-7.3 Telstra also manages the various club.com.au e-mail newsletters. E-mail addresses are collected by Telstra for the purpose of sending the newsletters and may be shared with or provided to the club or clubs the user has signed up for.   
-7.4 All emails sent by us which offer marketing or commercial material will contain accurate information regarding the message’s originator and will contain a functional unsubscribe facility to allow you to opt-out of receiving messages from us in the future.
 
- **8 When we disclose your personal information**  
-8.1 We may disclose your personal information to each other and to organisations outside Telstra, the AFL and AFL Clubs for the purposes set out in part 6 ("How we use your personal information") above. Telstra takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.   
-8.2 The outside organisations to which we disclose information include:  
-(a) outsourced service providers involved in the operation and management of the Web Sites or the other services we provide to you, including those involved in:  
-(i) content and service development;  
-(ii) customer enquiries;  
-(iii) mailing systems;  
-(iv) billing and debt-recovery functions;  
-(v) information technology services;  
-(vi) installation, maintenance and repair services;  
-(vii) marketing, telemarketing and door-knocking services;  
-(viii) market research;  
-(b) your representatives (eg your authorised representatives or legal advisers);   
-(c) credit-reporting and fraud-checking agencies;  
-(d) credit providers for credit related purposes such as creditworthiness, credit rating, credit provision and financing;  
-(e) our professional advisers, including our accountants, auditors and lawyers;   
-(f) government and regulatory authorities and other organisations, as required or authorised by law;  
-(g) organisations involved in:  
-(i) a transfer/sale of all or part of our assets or business (including accounts and trade receivables);and  
-(ii) managing our corporate risk and funding functions (eg securitisation).  
-(h) other telecommunication and information service providers; and  
-(i) our related companies.  
-8.3 If you are an AFL.com.au customer or a club.com.au customer, Telstra may also disclose your personal information to the AFL, the AFL clubs or both if Telstra ceases to be responsible for operating the AFL Telstra Network. AFL.com.au and club.com.au customers are all users of the AFL Telstra Network other than Telstra BigPond highspeed or broadband customers.
 
- **9 Help us to ensure we hold accurate information**  
-9.1 We each take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of that information we hold depends to a large extent on the information you provide. That’s why we recommend that you:  
-(a) let us know if there are any errors in your personal information; and  
-(b) keep us up to date with changes to personal information such as your name or address.  
-(see ‘How to contact us’ below).
+In addition, you may also provide to us and we may collect additional information, such as:
 
- **10 You can access your personal information**  
-10.1 You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons - see part 13 ("How to contact us") below.  
-10.2 We each reserve the right to charge a fee for searching for and providing access to your information.
+  * your credit card information; and
+  * details of the items ordered or purchased from us.
 
- **11 Children’s privacy**  
-11.1 Children's privacy is very important to us. We ask that children under 18 years of age obtain a parent or guardian’s consent before accessing or using the Web Sites, or before acquiring any products or services via the Web Sites.   
-11.2 While we will make every reasonable effort to ensure that children’s privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children’s Internet usage. 
 
-**12 Changes to our Privacy Statement**  
-12.1 From time to time, we may need to change this Privacy Statement to reflect our changing business practices. We may change the Privacy Statement at any time by posting the changed Privacy Statement on our web site at and by posting a notice to users on the homepage of that web site stating that a change has occurred.   
-12.2 All personal information collected and held by us will be governed by our most recent Privacy Statement, as posted on our web site at .
 
- **13 How to contact us**  
-13.1 If you have any questions in relation to privacy, please contact Telstra on 1800 039 059 between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries.  
-13.2 Alternatively, you can write to Telstra’s Privacy Manager, at Locked Bag 5782, Melbourne, VIC 8100 or by sending an email to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au).
+**(** collectively, **personal information)**
 
-AFLTN Privacy Collection Statement - March 2004  
-Telstra Corporation Limited ABN 33 051 775 556  
-Australian Football League ABN 97 489 912 318
+By providing the AFL and AFL Clubs with personal information, you consent to that information being collected, used, disclosed and stored in accordance with this Privacy Policy.
+
+If you do not give personal information to the AFL and AFL Clubs, it may affect the ability of the AFL and AFL Clubs to provide you with products and/or services.
+
+**5     Information from Third Parties**
+
+During the course of business, the AFL and AFL Clubs may also collect personal information that is given to them by a third party (for example, a corporate partner of the AFL or AFL Clubs or information that is on a publicly maintained record). This information forms part of the personal information. The AFL and AFL Clubs will not intentionally solicit personal information that is unintentionally disclosed.
+
+**6     Storage of Personal Information**
+
+Wherever reasonably practicable, the AFL and AFL Clubs will store personal information on data servers that are owned and controlled by the AFL and AFL Clubs and are located within the geographical borders of Australia. However, by providing the AFL and AFL Clubs with personal information you consent to your information being stored and processed on a data server that is owned by a third party that may be located outside Australia.
+
+**7     Use & Disclosure of Personal Information**
+
+The AFL collects and discloses your personal information for purposes including, without limitation:
+
+  * to verify your identity;
+  * to improve AFL Online;
+  * to provide, and to assist AFL Clubs with providing products and services to you, to manage and account for the products and services, and to improve the products and services;
+  * to manage AFL and AFL Club’s relationship(s) with you;
+  * to provide you with information about events, products and/or services that may interest you;
+  * to facilitate the internal business operations of the AFL and the AFL’s Clubs;
+  * to promote and market AFL events, products or services; and
+  * to enable corporate partners and sponsors of the AFL, including AFL Clubs and the AFL’s digital rights partner Telstra, as well as their related bodies corporate, to market and promote their products and services to you.
+  * to our third party service providers in connection with any of the above.
+
+
+
+The AFL and AFL Clubs may also disclose personal information where it is otherwise permitted to do so by law.
+
+**8     Information Security**
+
+The AFL and AFL Clubs will take reasonable steps to protect all personal information within their direct control from misuse, loss, unauthorised access, modification or disclosure. The AFL and AFL Clubs will take reasonable steps to hold information securely in electronic or physical form in access controlled premises or in electronic databases requiring logins and passwords.
+
+**9     Access & Correction**
+
+An individual may request access at any time to personal information held by the AFL and AFL Clubs by contacting the AFL’s privacy compliance officer. You will be required to provide proof of identity in order to obtain access to your personal information. The AFL may charge a fee where access is provided. The AFL may refuse to provide access if permitted to do so by law.  The AFL aims to provide access to your personal information within 30 days of a valid request.
+
+**10     No Liability**       
+
+To the maximum extent permissible by law, the AFL and AFL Clubs expressly disclaim any liability for a breach of this policy. By providing the AFL and AFL Clubs with personal information, an individual acknowledges that any damage caused to that individual or any other individual by the disclosure of that information shall be limited to the amount recoverable under applicable legislation and otherwise not be recoverable from the AFL and AFL Clubs or any of their related bodies.
+
+**11     How to contact us**
+
+For further information or enquiries regarding your personal information, please contact the AFL’s Privacy Compliance Officer at [privacy@afl.com.au](mailto:privacy@afl.com.au). 
+
+**12     Privacy complaints**
+
+Please direct all privacy complaints to the AFL’s Privacy Officer.  At all times, privacy complaints:
+
+  * will be treated seriously;
+  * will be dealt with promptly;
+  * will be dealt with in a confidential manner; and
+  * will not affect your existing obligations or affect the commercial arrangements between you and the AFL.
+
+
+
+The AFL’s Privacy Officer will commence an investigation into your complaint.  You will be informed of the outcome of your complaint following completion of the investigation.
+
+**13     AFL Clubs**
+
+For the purpose of this policy, “AFL Clubs” means each of the following:
+
+  * Adelaide Football Club Limited ACN 008 101 568;
+  * Brisbane Bears – Fitzroy Football Club Limited t/a Brisbane Lions Australian Football Club ACN 054 263 473;
+  * Essendon Football Club ACN 004 286 373;
+  * Carlton Football Club Limited ACN 005 449 909;
+  * Collingwood Football Club Limited ACN 006 211 196;
+  * Fremantle Football Club Limited ACN 066 055 249;
+  * Geelong Football Club Limited ACN 005 150 818;
+  * GCFC Limited ACN 144 555 822;
+  * Western Sydney Football Club Limited ACN 130 190 242;
+  * Hawthorn Football Club Limited ACN 005 068 851;
+  * Melbourne Football Club Limited ACN 005 686 902;
+  * North Melbourne Football Club Limited ACN 006 468 962;
+  * Port Adelaide Football Club Limited ACN 068 839 547;
+  * Richmond Football Club Limited ACN 065 563 011;
+  * St Kilda Saints Football Club Limited ACN 005 174 836;
+  * Sydney Swans Limited ACN 063 349 708;
+  * West Coast Eagles a division of Indian Pacific Ltd ACN 009 178 894; and
+  * Footscray Football Club Limited t/a Western Bulldogs ACN 005 226 595
+
+
