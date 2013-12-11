@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itechpost.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609071125id_/http%3A//www.itechpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechpost.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211012946id_/http%3A//www.itechpost.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# iTech Post
 
 **1\. Purpose of this Privacy Policy:** This privacy policy describes how iTech Post treats the personally identifiable information that is collected about you when you visit the [www.itechpost.com](http://www.itechpost.com/) Web site. This policy also describes our treatment of personally identifiable information about you that our partners may share with us.
 
