@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227030355id_/http%3A//www.businessol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211134826id_/http%3A//www.businessol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessOnLine
 
@@ -38,7 +38,7 @@ If you have any questions or concerns regarding BusinessOnline’s collection, u
 
 BusinessOnline
 
-701 B Street Suite 1000
+701 B Street, Suite 1000
 
 San Diego, CA 92101
 
@@ -48,6 +48,6 @@ We will respond to your request within 30 days.
 
 ### Changes to Privacy Policy
 
-BusinessOnLine may change this Privacy Policy by posting an updated or revised Privacy Policy on our Website 30 days before the change will go into effect.  Please check this Privacy Policy periodically so that you will remain up-to-date.
+BusinessOnline may change this Privacy Policy by posting an updated or revised Privacy Policy on our Website 30 days before the change will go into effect.  Please check this Privacy Policy periodically so that you will remain up-to-date.
 
 Privacy Policy Effective date:  August 24, 2009.
