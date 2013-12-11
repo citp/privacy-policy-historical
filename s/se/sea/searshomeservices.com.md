@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the searshomeservices.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602212931id_/http%3A//www.searshomeservices.com/shs/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searshomeservices.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211223516id_/http%3A//www.searshomeservices.com/shs/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 #### SEARS Privacy Policy
 
-This web site is owned and operated by a Sears Holdings Corporation entity ("Sears Holdings"). At Sears Holdings, we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to write to our Webmaster at webmaster@customerservice.sears.com. This Privacy Policy applies to information collected through this web site. **Please note that our subsidiary Lands' End will continue to maintain its own privacy policy. You may view Lands' End's privacy policy by clicking here:[ http://www.landsend.com/customerservice/services_policies/PS_privacy.html](http://www.landsend.com/customerservice/services_policies/PS_privacy.html)**
+This web site is owned and operated by a Sears Holdings Corporation entity ("Sears Holdings"). At Sears Holdings, we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to write to our Webmaster at webmaster@customerservice.sears.com. This Privacy Policy applies to information collected through this web site. **Please note that our subsidiary Lands' End will continue to maintain its own privacy policy. You may view Lands' End's privacy policy by clicking here:[ http://www.landsend.com/customerservice/legal_policies/privacy/](http://www.landsend.com/customerservice/legal_policies/privacy/)**
 
 Sears Holdings may update this policy from time to time. Please check our policy periodically for changes. Your use of this web site, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law.
 
@@ -32,7 +32,7 @@ Back to top
 
 #### How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click [here](http://www.sears.com/shc/s/nb_10153_12605_NB_CSchildprivacy) to read our Children's Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Each Sears Holding's family of Sites that may be directed to children under 13 will contain a specific version of our Children's Online Privacy Policy that will address specifically each of the points listed below for that Site.
 
   * Collection of children's personal information
   * Use of children's personal information
@@ -40,8 +40,6 @@ Please click [here](http://www.sears.com/shc/s/nb_10153_12605_NB_CSchildprivacy)
   * The method of obtaining access to the child's information
 
 
-
-Each Sears Holding's family of sites that may be directed to children under 13 will contain a specific version of our Children's Online Privacy Policy that will address specifically each of the points listed above for that site.
 
 Back to top
 
