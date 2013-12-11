@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the hacktabs.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622115342id_/http%3A//www.hacktabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hacktabs.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211230919id_/http%3A//www.hacktabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy – www.hacktabs.com
+# Privacy Policy - HackTabs
 
 Privacy Policy for www.hacktabs.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@hacktabs.com.
 
+ **Amazon Affiliate Disclaimer**
+
+HackTabs is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to http://www.hacktabs.com/.
+
 At www.hacktabs.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hacktabs.com and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, www.hacktabs.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 www.hacktabs.com does not use cookies.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.hacktabs.com.
 
