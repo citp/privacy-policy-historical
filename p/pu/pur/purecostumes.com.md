@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519051753id_/http%3A//www.purecostumes.com/halloween-costumes/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212000658id_/http%3A//www.purecostumes.com/halloween-costumes/privacy.html) for the most accurate reproduction.*
 
-# Security and Privacy Policy - Toll Free 877-806-7873 at Pure Costumes
+# Security and Privacy Policy - PureCostumes.com
 
-We have created this privacy statement in order to demonstrate our firm commitment to your privacy. We recognize our obligation to you to maintain confidentially certain information you provide on this website and to use responsibly any information provided.
+We have created this privacy statement in order to demonstrate our firm commitment to your privacy. We recognize our obligation to you to maintain confidentially certain information you provide on this website and to use responsibly any information provided. 
 
 The following discloses our information gathering and dissemination practices for the purecostumes.com website. 
 
