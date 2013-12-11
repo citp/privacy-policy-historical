@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401155251id_/http%3A//vistahigherlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211235257id_/http%3A//vistahigherlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vista Higher Learning
 
@@ -16,7 +16,7 @@ Unless otherwise agreed in writing by Vista Higher Learning, the data collected 
 
 **Vista Higher Learning Store**
 
-Vista Higher Learning is pleased to offer students through the VHL Site the opportunity to order their required course materials directly from our Vista Higher Learning Store (the “Store”) (www.vistahigherlearning.com/store/). If you make a purchase from the Store, Vista Higher Learning will share your credit card information and any other information required to process your transaction, such as name, email address, shipping address, billing address and school name with its third party payment processor, Authorize.net. Vista Higher Learning urges you to review Authorize.net’s privacy policy. (See [www.authorize.net/company/privacy](http://google.com/) ). Vista Higher Learning is not responsible for Authorize.net’s privacy and security practices.
+Vista Higher Learning is pleased to offer students through the VHL Site the opportunity to order their required course materials directly from our Vista Higher Learning Store (the “Store”) (www.vistahigherlearning.com/store/). If you make a purchase from the Store, Vista Higher Learning will share your credit card information and any other information required to process your transaction, such as name, email address, shipping address, billing address and school name with its third party payment processor, Authorize.net. Vista Higher Learning urges you to review Authorize.net’s privacy policy. (See [www.authorize.net/company/privacy](http://www.authorize.net/company/privacy/) ). Vista Higher Learning is not responsible for Authorize.net’s privacy and security practices.
 
 Vista Higher Learning has engaged Hudson Software Corporation (“Hudson”) to provide technical support regarding use of the Store. Hudson may request information from or about you in order to provide technical support that you request. Any information provided to Hudson is subject to Hudson’s privacy and security practices and is not protected by this Privacy Policy. Vista Higher Learning urges you to contact Hudson regarding its practices prior to disclosing any information to Hudson, as Vista Higher Learning is not responsible for Hudson’s privacy and security practices.
 
