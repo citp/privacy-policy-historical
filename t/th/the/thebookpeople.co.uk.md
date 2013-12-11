@@ -1,181 +1,195 @@
-> *The following text is extracted and transformed from the thebookpeople.co.uk privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502033714id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp%3FstoreId%3D10001%26catalogId%3D10051%26langId%3D100%26title%3DPrivacy%2520Policy%26spotName%3Dwl_helpPolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookpeople.co.uk privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211025050id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp%3Ftitle%3DHelp-Account%26spotName%3Dwl_helpOurPoliciesPrivacy%26storeId%3D10001%26catalogId%3D10051%26langId%3D100) for the most accurate reproduction.*
 
-# The Book People - Help
+# Help - OurPoliciesPrivacy
 
-## Help - Policies
+### THE BOOK PEOPLE LIMITED - PRIVACY POLICY
 
-Website security 
+**Last Updated: 5 September 2013**
 
-The Book People has taken all possible steps to secure your credit card details. We take the matter of internet security very seriously indeed. As a result we utilise a Secure Socket Layer (SSL) which encrypts the data stream between your browser and our server. 
+The Book People Limited (" **we** " and " **our** ") are committed to protecting and respecting your privacy so that you can shop with confidence at [ www.thebookpeople.co.uk](https://web.archive.org/web/20131211025050id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/www.thebookpeople.co.uk) (" **our site** ")
 
-We sincerely hope that by taking these measures, we give you, the customer, increased peace of mind and confidence to shop online with the Book People.
+This privacy policy (together with our [terms of use](http://www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp?storeId=10001&catalogId=10051&langId=100&title=Help-Account&spotName=wl_helpOurPoliciesTerms)) and Cookie Policy and any other documents referred to on it) (together referred to as the " **Policy** ") explains how we collect, store and use the personal information and other data that you share with us when using our site and when you shop with us. 
 
-#### Our privacy policy
+**Please read this Policy carefully to understand our policies and practices regarding your personal data and how we will treat it. By visiting our site you are consenting to the practices described in this Policy**. 
 
-The Book People are committed to protecting your privacy. We will only store, use and disclose the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and the Which? Web Trader Code of Practice. We collect information about you for 2 reasons: firstly, to process your order and contact you in case of queries and second, to provide you with the best possible service. We will not e-mail you in the future unless you have given us your consent. If you would prefer not to receive e-mails/mailings then please select the relevant option within Your Mailings once you have logged in to your account.
+We recommend that you print and retain a copy for your future reference. 
 
-The information we will collect about you is:
+#### About us
 
-your name  
-address  
-phone number  
-email address
+For the purpose of the Data Protection Act 1998 (the **"Act"** ), the data controller is The Book People Limited (company number 02290665) of Catteshall Manor, Catteshall Lane, Godalming, Surrey, GU7 1UU. 
 
-We do not hold your credit/debit card information on our web-server and any personal information we do hold will be held securely in accordance with our internal security policy, the law and the Which? Web Trader Code. Also, provided that you inform us of any changes, the information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you inform us of any inaccuracies we will delete or correct them promptly. We will never collect sensitive information about you without your explicit consent. If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. We also use cookies to store your personal information so that you do not need to re-register each time you place an order.
+#### Information we may collect from you
 
-**Your Consent**  
-By submitting your information you consent to the use of that information as set out in this policy statement. If we change our policy we will post the changes on this page and we may place notices on other pages of the website to inform you about any change. Continued use of our service will signify that you agree to any such changes If you have any questions/comments about privacy, you should use the [enquiry form](https://web.archive.org/web/20110502033714id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_enquiry_tbp?catalogId=10051&langId=100) to contact us and we will be happy to help you. 
+We may collect and process the following data about you: Information you give us. You may give us information about you by filling in forms on our site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, address, e-mail address and telephone number. We will always take care to ensure your payment card details are kept safe and secure, in accordance with the Payment Card Industry Data Security Standard (PCI DSS). Your card details will be stored on a server behind a secure firewall, and only a limited number of authorised employees will be able to access this informationInformation we collect about you. With regard to each of your visits to our site we may automatically collect the following information: 
 
-#### Our ordering policies
-
-**Our Order Cancellation Policy  
-**You have the right to cancel your order any time before and up to seven working days starting from the day after your goods are delivered. We are unable to amend an order once it has been submitted, however it may be possible for us to cancel your order on your behalf prior to despatch. If your order has already been despatched when you choose to cancel, please see our Returns Policy below. 
-
-**Our Returns Policy  
-**
-
-  * If you are not completely satisfied with your purchase, you may return it to us in its original condition for a complete and immediate refund, within 28 days of receipt.
-  * If the item is damaged or we have supplied you with the incorrect product, our customer service team will arrange a replacement and for the item to be collected.
-  * If, after your order has been despatched, you wish to cancel the order because you no longer require the books, you will need to send the goods back to us at your own expense. When the goods are received back in good condition we will refund you for the goods and any postage you paid on your original order only.
-  * Authorisation to return goods must be obtained at all times.
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number. 
 
 
 
-Our refund guarantee is in addition to your statutory rights and does not affect them in any way. 
+#### **Information we receive from other sources.**
 
-**How to return**
+We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers and search information providers) and may receive information about you from them.
 
-Three easy steps
+#### Uses made of the information
 
-**1.** Get in touch through our [contact us](https://web.archive.org/web/20110502033714id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp?storeId=10001&catalogId=10051&langId=100&title=Contact&spotName=wl_contactUs&description=Contact) section to obtain an authorisation number. Alternatively, you can call our Customer Service team 8am to 8pm seven days a week on 0845 602 30 30.
+We use information held about you in the following ways:
 
-**2.** If your goods need returning please parcel them up with the original documentation and write the authorisation number on the outside of the parcel
+(a) Information you give to us. We will use this information:
 
-**3.** If it is a collection please leave as instructed. If returning in the post please obtain proof of postage.
-
-Please allow up to 21 days for a refund.  Please allow 10 days for a replacement.  Damaged or faulty books will be replaced immediately when you contact us.
-
-**Our ordering restrictions on books**  
-The Book People Ltd sells directly to the public only. **We do not offer any books for third party re-sale**. For this reason, there are restrictions on ordering. You cannot order more than 20 of the same book online. If you would like to make a purchase of more than 20 of the same title, please telephone our Order line on 0845 602 40 40 and an operator will review your order.
-
-**Book Point Terms & Conditions**  
-You may only purchase one item per order using Book Points.  
-Some sale items or promotional items are not available to purchase using Book Points.  
-The maximum Book Points available on any book is 20.  
-We retain the right to amend Book Point values at any time.  
-[Find out more about Book Points...](https://web.archive.org/web/20110502033714id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp?storeId=10001&catalogId=10051&langId=100&title=Help-Account&spotName=wl_helpAccount&description=Help#bookpoints)
-
-#### Terms and conditions
-
-**Conditions of use**  
-**USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS AND CONDITIONS OUTLINED BELOW.**
-
-**Your Account**
-
-By using this website you accept all responsibility for maintaining the confidentiality of all account details, including password. This may involve restricting access to your computer to prevent unauthorised use of your account, as you will be held responsible for any activity that takes place under your registered account details.
-
-Password confidentiality is of utmost importance, and you should take all necessary steps to ensure that your password remains private to you. Should you suspect that your password has become known, or is likely to become known to any other persons, you must inform us immediately.
-
-By registering as an account holder, you agree that all details you provide remain both correct & true.
-
-Most personal information can be amended via the ‘Account’ tab at the top of every page of our site. Should any difficulty occur whilst updating your details, you should contact us immediately.
-
-The Book People Ltd may, at its sole discretion, refuse access to the site, withdraw accounts, and remove/edit content, at any time and without notice.
-
-  * **Promotions**
-  * Items redeemed with Book Points are excluded from any promotion unless otherwise stated.
-  * You cannot earn Book Points on selected promotional items.
-  * A promotion may be amended or withdrawn at any time.
-  * Free or discounted delivery promotions are only applied to Standard Delivery costs. Some areas may incur a surcharge.
-  * Free postage offers are only applied to orders with a payment value. Promotions and discounts that lead to a zero value basket will be charged at the standard rates. 
+  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+  * to provide you with information about goods or services we feel may interest you if you have consented to this. We will only contact you by electronic means (e-mail or SMS) with information about goods and services if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form when you are setting up your account with us. You can "opt out" of receiving marketing emails from us at any time by clicking on the "unsubscribe link" provided in such communications or by emailing us at [tbpsales@thebookpeople.co.uk](mailto:tbpsales@thebookpeople.co.uk?Subject=Unsubscribe%20from%20Emails) your specific request. 
+  * to allocate rewards in accordance with any of our loyalty reward schemes which may be in place from time to time;
+  * to ensure that content from our site is presented in the most effective manner for you and for your computer. 
 
 
 
-**Competition Terms & Conditions**
+(b) Information we collect about you. We will use this information:
 
-  * 1\. No purchase necessary.
-  * 2\. Promotions open to everyone (unless otherwise stated) in the UK and Eire, and closed to employees of the Promoter, and their families or anyone else connected with the promotions.
-  * 3\. Closing date and details of prizes are as stated in relevant entry details. Entries must be received by the closing date given in the relevant entry details.
-  * 4\. No cash alternative will be offered to prizes.
-  * 5.Where the prize comprises an event at a particular location travel expenses to and from that location are not included in the prize unless otherwise stated.
-  * 6\. Only one entry per person per promotion.
-  * 7\. Winners will be selected as set out in the relevant entry details. The decision of the Book People is final and no correspondence will be entered into.
-  * 8\. Address for entry is the postal or e-mail address provided in the relevant entry details
-  * 9\. Winners will be notified by the date provided in the relevant entry details.
-  * 10\. For details of winners, send an S.A.E. marked 'TBP Competition Winners' to The Book People, Catteshall Manor, Catteshall Lane, Godalming GU7 1UU, at least one week after the winners notification date.
-  * 11\. No responsibility will be taken for entries that are damaged, illegible, incomplete, and lost or delayed in the post or otherwise fail to reach the Promoter by the closing date. Entry forms will not be returned to entrants.
-  * 12\. Entries will not be accepted via agents, third parties or in bulk. Any such entries will be invalid.
-  * 13\. Competition winners may be required to take part in or co-operate with publicity.
-  * 14\. By entering the Competition you agree that: i) your entry can be used by the Book People as they see fit. ii) your entry is original to you and not wholly or substantially copied from any other material.
-  * 15\. The Promoter will only use entrants' personal information in connection with these promotions. All personal details will be destroyed once the winner has been announced.
-  * 16\. It is a condition of entry that all entrants agree to be bound by these rules and are asked to retain a copy of these rules for any future reference.
-  * 17\. For prize draws where a value of books is given as the prize, (e.g. ‘£200 worth of books’) please note that the value corresponds to the RRP price of these books and they will be selected from the Book People’s bestseller list. These prizes are non-returnable and cannot be exchanged.
-  * 18\. The Book People reserves the right to remove prize draws or competitions at any time.
-  * 19\. The Promoter is the Book People, Catteshall Manor, Catteshall Lane, Godalming, Surrey, GU7 1UU.
+  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * to improve our site to ensure that content is presented in the most effective manner for you and for your computer; 
+  * to allow you to participate in interactive features of our service, when you choose to do so;
+  * as part of our efforts to keep our site safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
 
 
 
-**Terms and conditions for I Am Number Four preview screening competition.**
+(c) Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-* 1\. I AM NUMBER FOUR screenings take place at 12 Odeon cinemas on Monday 21st February at 6.30pm (doors open 6.15pm). No late admittance.
-* 2\. Tickets and entry to each screening are subject to availability and will be allocated by the organisers on a first come, first served basis.
-* 3\. Each winner may select up to 2 tickets for their chosen venue but the availability of tickets for that venue cannot be guaranteed. In the event of the winner's chosen screening being full, tickets to an alternative screening will be offered.
-* 4\. Where tickets are not available at the winner's selected cinema, the Book People will offer an alternative prize.
-* 5\. Tickets must be presented at the box office at the participating Odeon cinema during normal box office hours. Photocopies will not be accepted.
-* 6\. I AM NUMBER FOUR is a 12A certificate. Normal restrictions apply. ID may be required.
-* 7\. Tickets are non-refundable and non-exchangeable. There is no cash alternative.
-* 8\. In the event of a dispute, the cinema manager’s decision is final.
-* 9\. The Book People reserve the right to withdraw this competition at any time.
-* 10\. The competition closes at midnight on Friday 11th February, any entries received after that time will not be counted.
+#### Disclosure of your information
 
-****Site Content****
+We may share your personal information including but not limited to your name and addresses with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
 
-We endeavour to keep all information on our site both current and accurate, however on occasion this is not always possible and cannot be guaranteed.
+We may share your information (but never your email addresses or telephone numbers) with selected third parties including: 
 
-Please be aware that the functionality of our site may from time to time be affected or suspended temporarily whilst necessary repairs and updates are completed. We will make every effort to ensure these occasions are as brief and infrequent as possible.
-
-**Acknowledgment of your Order**
-
-Once your order has been submitted, we will notify you via email to confirm receipt of your order. If you do not receive this confirmation email within 12 hours, please call our Customer Services Team on 0845 602 30 30. Alternatively, complete our enquiry form.
-
-**Children**
-
-Some of our products are aimed at children, however these are not for purchase by children and must only be purchased by adults. Persons under the age of 18 may only use the site under supervision of a parent or guardian.
-
-Here at the Book People we are opposed, on principle, to censorship, and on that basis will not rule out books that contain difficult topics or those that describe lifestyles at odds with our own. We endeavour to offer a wide choice of books, suitable to all readers, and will aim to accurately convey any potentially offensive content. However, we recommend that all purchases intended for children are thoroughly vetted by the parent/guardian before use with or by children.
-
-**Your Conduct**  
-By using www.thebookpeople.co.uk or entering into correspondence with the Book People, you accept full responsibility for all data and electronic communications sent from your computer to us.
-
-  * **This website must not be used for any of the following:**
-  * Fraudulent purposes, or in connection with any unlawful activity 
-  * To send, use or reuse any material that is offensive, abusive or indecent. 
-  * To send, use or reuse any material that is in breach of copyright, confidence or privacy. 
-  * To send or use correspondence containing or in the nature of viruses, chain letters, mass mailings or spam. 
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. 
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our site. 
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
 
 
-**Copyright**  
+We may disclose your personal information to third parties: 
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets..
+  * If The Book People Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+
+
+
+If you do not wish to be contacted by any such third parties, please contact us in writing at the address set out in the Contact section of Policy providing your customer number, name and address in your correspondence. 
+
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation (including to respond to any government or regulatory request), or in order to enforce or apply our [terms of use](http://www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp?storeId=10001&catalogId=10051&langId=100&title=Help-Account&spotName=wl_helpOurPoliciesTerms) or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of The Book People Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+
+#### Where we store your personal data
+
 All content on this site including text, graphics, logos, images, and software is the property of the Book People and its affiliates, and is protected by the UK & International copyright laws.
 
-**Governing Laws  
-** These terms & conditions are governed in accordance with the laws of England & Wales.
+#### Governing laws
 
-**Point Passport Terms & Conditions**   
-The Points Passport card is issued by and remains the property of the Book People Ltd who may, at its sole discretion, refuse to issue or choose to withdraw the card at any time. We reserve the right to alter or amend the conditions of operation of the Points Passport scheme, or to terminate the scheme at any time without notice. 
+Your data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"), including the USA or Canada. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-All members must be resident in mainland UK, the Channel Islands or the Isle of Man and be aged 18 years and over. Changes of address must be notified in writing to us. 
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-Membership of the Points Passport is for one year and is renewable subject to the member fulfililng the qualification requirements. Membership of the scheme is not transferable. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. We are not responsible for circumvention of any privacy settings or security measures contained on the site. 
 
-Qualification for Points Passport membership may vary at the discretion of the Book People Ltd. 
+#### Your rights
 
-Points Passport membership is available to private individuals only. The scheme can not be used for any transaction where the beneficiary is a business. 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain un-ticked boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us in writing at the address set out in the Contact section of this Policy.
 
-All offers are subject to availability. 
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and cookie policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
-Some books or promotions are offered to Points Passport members as an exclusive preview and will therefore become available to all other customers at a later date.
+#### Updating the information
 
-Due to carrier restrictions, in some cases it may not be possible to offer Priority Delivery. The Book People Ltd will endeavour to offer a suitable alternative. Priority Delivery will deliver your books within two working days providing the order is received by midday and all the required titles are in stock.
+Provided that you inform us of any changes, the information we hold will be accurate and up to date.
 
-Visit the [Points Passport page](https://web.archive.org/web/20110502033714id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_vipNonMemberInfo_tbp1?storeId=10001&catalogId=10051&langId=100) to find out more, or call Customer Services on 0845 602 30 30. Your call may be monitored to check the quality of our service or for training, audit or security purposes. 
+#### Access to information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+#### Changes to our privacy policy
+
+Any changes we may make to our Policy in the future will be posted on this page. Please check back frequently to see any updates or changes to our Policy.
+
+Your continued use of our site after any modification to this Policy will constitute your acceptance of such modification.
+
+This Policy was last updated on 3 September 2013 
+
+#### Cookies
+
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy below.
+
+### Cookie Policy
+
+**Last Updated: 5 September 2013**
+
+Our site uses cookies and other similar technologies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+
+#### What is a cookie? 
+
+We use the following cookies:
+
+  * **Strictly necessary cookies.** These are cookies that are required for the operation of our site. They include, for example, cookies that enable you to log into secure areas of our site, use a shopping cart or make use of e-billing services. 
+  * **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our site when they are using it. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily. 
+  * **Functionality cookies.** These are used to recognise you when you return to our site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies.** These cookies record your visit to our site, the pages you have visited and the links you have followed. We will use this information to make our site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+
+
+The table below provides further information about the individual cookies we use and the purposes for which we use them:
+
+**Cookies** | **Name** | **Purpose**  
+---|---|---  
+  
+Website platform essential cookies
+
+| 
+
+JSESSIONID & WC_SESSION_ESTABLISHED & WC_ACTIVE_POINTER & WC_USERACTIVITY_XXX & WC_GENERIC_ACTIVITYDATA & WC_AUTHENTICATION & DISPLAYNAME
+
+| Each of these cookies is essential as they allow you to use our site in a way that makes your browsing experience more convenient, for example, by allowing you to store items in an electronic shopping basket between visits. If you register with us or complete our online forms, we will use cookies to remember your details during your current visit, and any future visits provided the cookie was not deleted in the interim.  
+Product Recommendation Cookies | _avail_session_ & _avail_data_ & e11dc188-f931-11df-a564-12313b032222 | These two cookies enable us to recommend and advertise books and other products based on your past purchases or browsing history.  
+Google Analytics | _utma_ & _utmb_ & _utmc_ & _utmx_ & _utmv_ & _utmz_ | Each of these cookie enables us: 
+
+  * to analyse our customer buying habits and enable us to market books and other products to all our customers more effectively;
+  * to conduct research and diagnostics to improve our site;
+  * store your personal information so that you do not need to re-register each time you place an order.
+Estimate our audience size and usage pattern. 
+  
+IBM Coremetrics Analytics | cmTPSet & XXX_login & cmRS & XXX_reset & CoreID6 & TestSess3 | 
+
+Each of these cookie enables us:
+
+  * to analyse our customer buying habits and enable us to market books and other products to all our customers more effectively;
+  * to conduct research and diagnostics to improve our site;
+  * store your personal information so that you do not need to re-register each time you place an order.
+
+Estimate our audience size and usage pattern.  
+Yahoo paid search tracking | ysm_XXX & BX | This cookie enables us track the effectiveness of our advertising spend with the search engine Yahoo.  
+Live Person livechat software | LivePersonID & HumanClickKey & HumanClickSiteContainerID & HumanClickSiteContainerID & HumanClickCHATKEY & ASPSESSIONIDABRABRR | These cookies are essential for the use of our Livechat customer support facility  
+Webgains affiliate tracking | Wgid & /ctr.html & wgdctex-418 & wgs418 & wgc0 | These cookies enable us to track referrals from affiliate advertising sources.  
+Google Adwords | test_cookie & id | These cookies enable us to track the effectiveness of our advertising spend with the search engine Google.  
+  
+### Third party cookies
+
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+#### Managing your use of cookies
+
+Most web browsers (such as Internet Explorer, FireFox and Safari) are set to automatically accept cookies as the by default setting. If you don’t want to receive cookies or other tracking technologies, you can usually choose to set your browser to remove or reject browser cookies or to prompt you before accepting such a cookie. You can also delete cookies that have already been set. The "Help" function within your browser should tell you how.  
+Note however, that if you use your browser settings to block or refuse cookies (including essential cookies) this may affect your use of our site, you may lose some of the functionality of our site and you may not be able to access all or parts of our site. Please also visit [www.allaboutcookies.org](https://www.allaboutcookies.org/) for more information about cookies and how to disable them.
+
+#### Contact
+
+Questions, comments and requests regarding this Policy are welcomed and should be made in writing to the following address:   
+The Data Protection Officer  
+The Book People  
+Catteshall Manor  
+Catteshall Lane  
+Godalming  
+Surrey  
+GU7 1UU.
+
+Alternatively, you can contact us directly at [tbpsales@thebookpeople.co.uk](mailto:tbpsales@thebookpeople.co.uk?Subject=Customer%20Query)
