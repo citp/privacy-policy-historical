@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moog.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517030008id_/http%3A//www.moog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moog.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212035938id_/http%3A//www.moog.com/about/privacy-policy) for the most accurate reproduction.*
 
 # About Moog - Privacy Policy | Moog
 
@@ -65,23 +65,6 @@ We use different kinds of cookies for various reasons:
 
 
 There are also some third-party cookies on the site. These cookies could be session or persistent and are set by entities other than Moog.  Examples of these types of third-party cookies are
-
-  1.     1. **Online Forms**.  Some of the forms you might fill out on the site use third-party services, including: 
-      1. Wufoo. [Wufoo's Privacy Policy](http://www.wufoo.com/privacy/).
-      2. Salesforce. [Salesforce's Privacy Policy](https://www.salesforce.com/company/privacy/).
-      3. iPerceptions. For our web site surveys. [iPerceptions' Privacy Policy](http://www.iperceptions.com/en/privacy-policy).
-    2. **Social Media Links** to sites like Facebook, LinkedIn, Twitter, etc. 
-      1. AddThis Analytics. [AddThis' Privacy Policy](http://www.addthis.com/privacy/privacy-policy).
-    3. **Online Video Providers**
-      1. Youtube. (a part of Google): [Google's Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
-      2. Wistia. [Wistia's Privacy Policy](http://wistia.com/privacy).
-    4. **Newsletters and Blogs**
-      1. Typepad. [Typepad's Privacy Policy](http://www.typepad.com/privacy).
-      2. WordPress (by Automattic).  [Automattic's Privacy Policy](https://automattic.com/privacy/).
-    5. **Marketing Automation Tools.** The marketing automation tools identified in Section 1.4 of this Privacy Policy (“Market Automation Tools) may use 3rd Party Cookies.  Please follow the links found in Section 1.4 to each party’s site and privacy policies for further details.
-    6. You can contact Moog by e-mail at webmaster@moog.com or by regular mail at Webmaster, Moog Inc., Jamison Road, East Aurora, NY, USA 14052 to enquire more about these third-party cookies.
-
-
 
 By accepting this policy you give your consent as a legal basis for the above processing. Your web browser may provide you with the ability to not accept cookies (you can learn more here: <http://www.allaboutcookies.org/>
 
