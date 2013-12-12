@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediaseo.net privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613114125id_/http%3A//socialmediaseo.net/adsense-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediaseo.net privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212080310id_/http%3A//socialmediaseo.net/adsense-privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
