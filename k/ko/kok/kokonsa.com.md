@@ -1,74 +1,33 @@
-> *The following text is extracted and transformed from the kokonsa.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604042306id_/http%3A//kokonsa.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kokonsa.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212150148id_/http%3A//www.kokonsa.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - kokonsa | For your ears only
+# Kokonsa.com | | For Your ears Only - Privacy policy
 
-     12 02
-     Written by Super User 
-     | __Hits: 119
+Privacy policy
 
-  * [ Print ](http://www.kokonsa.com/index.php/privacy-policy?tmpl=component&print=1&page= "Print")
-  * [ Email](http://www.kokonsa.com/index.php/component/mailto/?tmpl=component&template=sj_health&link=fd545095f3904b351c44a19e2cec96ef5be5d957 "Email")
+The following discloses the information gathering and dissemination practices for www.kokonsa.com:
 
+At www.kokonsa.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.kokonsa.com and how it is used.
 
+We require all parties who wish to publish comments on our blog to provide us with their valid email address. We do not release your submitted email address to the public or any third party nor use it for marketing purposes. However, any information you publish via comments is made public, so please be careful about what personally identifiable information you publish on our blog.
 
-Our Privacy Policy was last updated and posted on February 12, 2013. It governs the privacy terms of our Website, located at http://kokonsa.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
+Third Party Advertising
 
-**Your Privacy**
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Third-party ad servers or ad networks use technology to the advertisements and links that appear on www.kokonsa.com when you access our blog via web browsers. They automatically receive your IP address when this occurs. Other technologies, such as cookies, JavaScript, or Web Beacons may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. www.kokonsa.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. You may also choose to opt out from online behavioral advertising.
 
-Smart Information Systems Co. Ltd follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
+Third Party Cookies
 
-**Definitions**
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Also, www.kokonsa.com may use Google as a third party vendor. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.kokonsa.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-"Non Personal Information" is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.
+www.kokonsa.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
 
-"Personally Identifiable Information" is non-public information that is personally identifiable to you and obtained in order for us to provide you within our Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.
+Personal Information
 
-**Information We Collect**
+Like most other websites, www.kokonsa.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Generally, you control the amount and type of information you provide to us when using our Website.
+External Links
 
-As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.
+This site contains links to other sites. www.kokonsa.com is not responsible for the privacy practices or the content of such websites.
 
-**Computer Information Collected**
+Contacting our Website
 
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
-
-**Cookies**
-
-Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-
-**Automatic Information**
-
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
-
-**How We Use Your Information**
-
-We use the information we receive from you as follows:
-
-**Customizing Our Website**
-
-We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
-
-**Sharing Information with Affiliates and Other Third Parties**
-
-We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
-
-**Data Aggregation**
-
-We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
-
-**Legally Required Releases of Information**
-
-We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of Smart Information Systems Co. Ltd, our Users, employees, and affiliates.
-
-**Links to Other Websites**
-
-Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
-
-**Privacy Policy Updates**
-
-We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
-
-**Questions About Our Privacy Practices or This Privacy Policy**
-
-If you have any questions about our Privacy Practices or this Policy, please contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email (info[at]kokonsa.com) or through our contact form.
