@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apimages.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505195150id_/http%3A//www.apimages.com/legal/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apimages.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212085102id_/http%3A//www.apimages.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# AP Images Privacy Policy | Buy Photos | AP Images
 
-The Associated Press and its affiliates (collectively, “AP”) recognize the importance of protecting the privacy of personal information that may be provided to us by individual users or viewers of AP content online. Accordingly, we have adopted a privacy policy to govern how we treat such information. AP may change this privacy policy from time to time, in its sole discretion, and any such changes will become effective when the AP posts the revised privacy policy online. Your continued use of this Web site indicates your consent to AP's privacy policy and the most current version then in effect.
+The Associated Press and its affiliates (collectively, "AP") recognize the importance of protecting the privacy of personal information that may be provided to us by individual users or viewers of AP content online. Accordingly, we have adopted a privacy policy to govern how we treat such information. AP may change this privacy policy from time to time, in its sole discretion, and any such changes will become effective when the AP posts the revised privacy policy online. Your continued use of this Web site indicates your consent to AP's privacy policy and the most current version then in effect.
 
 ## What Information Do We Collect?
 
@@ -34,4 +34,4 @@ If you are located outside of the United States, please note that the informatio
 
 If you have any questions or concerns about the AP privacy policy or would like the personally identifiable information that you have provided to The Associated Press removed from our files, please contact AP at: [apimages@ap.org](mailto:apimages@ap.org)
 
-© 2009 The Associated Press. All rights reserved.
+© 2013 The Associated Press. All rights reserved.
