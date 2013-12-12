@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pazbookbiz.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120015815id_/http%3A//pazbookbiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazbookbiz.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213002336id_/http%3A//pazbookbiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Paz and Associates
 
