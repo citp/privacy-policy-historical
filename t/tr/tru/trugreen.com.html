@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622035251id_/http%3A//trugreen.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trugreen.com privacy policy that was archived on 2013-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212093334id_/http%3A//trugreen.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="no-js"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +9,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta name="robots" content="noodp">
     <meta name="robots" content="noydir">
-    <meta name="p:domain_verify" content="7e9011e673dbba7ffe161a6f259b9047">           
+    <meta name="p:domain_verify" content="7e9011e673dbba7ffe161a6f259b9047">
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+    <link rel="canonical" href="http://www.trugreen.com/about/privacy-policy/">
     <link rel="apple-touch-icon" href="/Content/img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/Content/img/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/Content/img/apple-touch-icon-114x114.png">
@@ -21,13 +23,11 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-    
-    <link href="/Content/css/combined?v=RDSBTW3hdSQj7xaG23kW_13d2zBpsgybVZ2GgUBP8yo1" rel="stylesheet">
+    <link href="/Content/css/combined?v=_j6bzi1zzvui9k7GLq1ILwVEMRDtJ1MSS-wtuIw6zio1" rel="stylesheet">
 
-    
     <script src="//tags.tiqcdn.com/utag/servicemaster/trugreen/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/Content/foresee/foresee-alive.js"></script>
-
     <script type="text/javascript">
+        var _gaq = _gaq || [];
         var baseUrl = "/";
         var isFranchise = false;
         var isServiceable = true;
@@ -35,20 +35,25 @@
         var productsInCart = new Array();
         var refresh = false;
         var tocart = false;
+        // GA variables
+        var isCurrentCustomer = false;
+        var isLoggedIn = false;  // Need info from MyAccount 
+        var isMobileSite = false;       
+        var isPricingFormat = "Yearly";
 
         if(document.URL.indexOf("purchase-thank-you", 1) > 0){
             var utag_data = {};
         }
     </script>
-    
     <!--[if IE 7]> 
         <script type="text/javascript" src="/Content/js/border-box.js"></script> 
         <![endif]-->
-
+    <!--[if IE 8]> 
+        <link rel="stylesheet" type="text/css" href="/Content/css/ie8.css" />
+        <![endif]-->
     <!--[if IE]> 
         <link rel="stylesheet" type="text/css" href="/Content/css/main_ie.css" />
         <![endif]-->
-    
     <!--[if lte IE 9]>
     <script src="/content/js/respond.js" type="text/javascript"></script>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -64,73 +69,157 @@
             a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
         })();
     </script>
-
 <header>
-    <nav id="top-nav" class="desktop">
-        
-        <section id="top-nav-wrap">
-            <section id="top-nav-left-bg">
-            </section>
-            <section id="top-nav-right-bg">
-            </section>
-            <ul class="clearfix middle" style="border: 0px;">
-                <li class="green"><span id="need-help-link">Need<br>
-                    Help?</span></li>
-                
-                <li id="call-back-tab"><i class="ico-right-gray-arrow"></i><a id="call-back-link" href="#contact-by-phone" class="modal-link ico ico-phone" data-height="450" data-width="435">Get a call back</a></li>
-                <li id="call-us-tab">Call Us: 866.369.9539</li>
-                <li class="gray" id="res-com-tab"><span class="no-line">Residential</span>
-                <a id="commercial-link" class="no-line" href="http://www.trugreencommercial.com/" target="_blank">Commercial</a></li>
-                    <li class="dark-gray" id="state-selector-tab"><i class="ico-right-gray-arrow"></i>
-                        <img src="/content/img/states/white/VA.png" width="16" height="16" style="padding-right: 3px;"><span>Your ZIP:</span>
-                        <span id="headerZipCode">20147</span>&nbsp;&nbsp;&nbsp;
-                        <span>-</span> <a class="zip">Edit</a></li>
-                <li class="dark-gray" id="cartBg"><i class="ico-right-gray-arrow"></i><a href="#" id="cart" class="ico ico-cart">Cart (0)</a></li>
-                <li class="right white" id="loginBg"><i class="ico-right-gray-arrow"></i><a class="gray ico ico-padlock" href="#" id="login">Login</a></li>
-            </ul>
-        </section>
-    </nav>
-    <nav id="zipBox" style="display: none;">
-        
-        <section class="middle" id="zip-edit-form">
-            <form>
-                <span class="zip-edit-title">Confirm your ZIP code</span> <span class="zip-edit-desc">
-                    to get the most accurate pricing<br>
-                    and lawn information in your area.</span>
-                <input type="text" placeholder="Enter Zip" id="zipCode">
-                <button class="zip-edit-ok">
+    <nav class="desktop clearfix" id="top-nav">
+        <div class="right">
+        </div>
+        <div class="left">
+        </div>
+        <ul class="normal middle clearfix" style="-webkit-transform: translate3d(0,0,0)">
+            <li class="section-location clearfix">
+                <section>
+                    <section class="info">
+                        <h3 class="local-for">
+                            <img class="leaf" src="/content/img/localized-header/Leaf.png">
+                                 Local for: <span>Ashburn,
+                                    VA</span>
+                        </h3>
+                        <h3 class="zip-code" id="state-selector-tab">
+                            Your ZIP: <span id="headerZipCode" class="zip-number">20147</span><span class="change-zip"><a class="zip">Change</a></span></h3>
+                    </section>
+                    <img class="state" src="/content/img/states/white/VA.png">
+                </section>
+                <section class="zip-prompt">
+                    <section class="arrow">
+                    </section>
+                    <div class="content">
+                        Hi! Your ZIP appears to be <strong>20147</strong><br>
+                        If this is incorrect, please click "change" above to
+                        <br>
+                        help us provide info tailored to your area.
+                    </div>
+                </section>
+            </li>
+            <li class="need-help">
+                <h3 class="question">
+                    Need help?</h3>
+                <h4 class="call-back">
+                    <a id="call-back-link" href="#contact-by-phone" class="modal-link" data-height="525" data-width="435">Get a call back</a></h4>
+            </li>
+            <li class="tg-information clearfix"><span class="icon"></span>
+                <section class="support">
+                    <h6 class="sales">
+                        Sales: <span><a href="tel:866.369.9539">866.369.9539</a></span></h6>
+                    <h6 class="customer-service">
+                        Customer service: <span><a href="tel:877.905.5147">877.905.5147</a></span>
+                    </h6>
+                </section>
+                <section>
+                    <section class="cart">
+                            <div>
+                                <a class="ref cart-link"><span class="empty"></span>Cart (<span id="cart">empty</span>)</a></div> 
+                            <a href="/get-a-quote" class="get-quote"><span class="down"></span>Get
+                                A Quote</a>
+                    </section>
+                </section>
+            </li>
+            <li class="manage-account clearfix"><span class="icon"></span>
+                <section class="options">
+                    <div>
+                        <a class="login-link" href="#">Manage Account<br>
+                            &nbsp;&amp; Pay Bills</a>
+                    </div>
+                </section>
+            </li>
+        </ul>
+        <ul id="fixed-header" class="stick middle clearfix">
+            <li class="section-location">
+                <section>
+                <img class="logo" src="/content/img/localized-header/logo-stick-header.png">
+                     of <span>Ashburn, VA</span>
+                    <a class="zip" href="#fixed-header">Change</a>
+                </section>
+                <section class="zip-prompt">
+                    <section class="arrow">
+                    </section>
+                    <div class="content">
+                        Hi! Your ZIP appears to be <strong>20147</strong><br>
+                        If this is incorrect, please click "change" above to
+                        <br>
+                        help us provide info tailored to your area.
+                    </div>
+                </section>
+            </li>
+            <li class="need-help"><a id="call-back-link" href="#contact-by-phone" class="modal-link" data-height="525" data-width="435">Get a call back</a> </li>
+            <li class="tg-information clearfix">
+                <img class="icon" src="/content/img/localized-header/phone-icon-small.png">
+                <section class="support">
+                    <div>
+                        <span>Sales: <a href="tel:866.369.9539">866.369.9539</a></span>
+                    </div>
+                    <div>
+                        <span>Customer service: <a href="tel:877.905.5147">877.905.5147</a></span>
+                    </div>
+                </section>
+                <section>
+                    <section class="cart">
+                            <a href="/get-a-quote" class="get-quote"><span class="top"></span>Get
+                                A Quote</a>
+                    </section>
+                </section>
+            </li>
+            <li class="manage-account clearfix"><span class="icon"></span>
+                <section class="options">
+                    <div>
+                        <a class="login-link" href="#fixed-header">Manage Account
+                            <br>
+                            &nbsp;&amp;Pay Bills</a>
+                    </div>
+                </section>
+            </li>
+        </ul>
+        <nav id="zipBox">
+            <section id="zip-edit-form" class="clearfix middle">
+                <form>
+                <span>Change your ZIP:</span>
+                <input type="text" placeholder="Enter ZIP code" id="zipCode">
+                <button>
+                    Update
                 </button>
-                <span class="zip-edit-message"></span><a href="#" class="zip-edit-close" id="zip-edit-close"></a>
-                <section class="clearfix"></section>
-            </form>
-        </section>
-    </nav>
-    <section class="middle" style="position: relative; z-index: 20;">
-        <section id="loginBox">
-            <form method="post" action="https://myaccount.trugreen.com/Account/Login" class="tg-fields" id="loginForm">
-            <h4>
-                Login to my account</h4>
-            <input type="text" placeholder="Username" name="login">
-            <input type="password" placeholder="Password" name="pass">
-            <section class="row-fluid">
-                <section class="span6">
-                    <a href="https://myaccount.trugreen.com/account/reset" class="loginForgot">
-                        Forgot password?</a>
-                </section>
-                <section class="span6">
-                    <button class="btn-orange btn-go">
-                        Login</button>
+                <span class="zip-edit-message"></span><a href="#" class="zip-edit-close" id="zip-edit-close">
+                </a>
+                </form>
+                <section class="item-added">
+                    <span>New item added</span>
                 </section>
             </section>
-            <section class="register">
-                <a href="https://myaccount.trugreen.com/account/register">
-                    <i class="ico-right-gray-arrow"></i>Register free</a>
+        </nav>
+        <section class="middle" style="position: relative;">
+            <section id="loginBox">
+                <form method="post" action="https://myaccount.trugreen.com/Account/Login" class="tg-fields" id="loginForm">
+                <section class="sectionh4">
+                Login to my account</section>
+                <input type="text" placeholder="Username" name="login">
+                <input type="password" placeholder="Password" name="pass">
+                <section class="row-fluid">
+                    <section class="span6">
+                        <a href="https://myaccount.trugreen.com/account/reset" class="loginForgot">
+                            Forgot password?</a>
+                    </section>
+                    <section class="span6">
+                        <button class="btn-orange btn-go">
+                            Login</button>
+                    </section>
+                </section>
+                <section class="register">
+                    <a href="https://myaccount.trugreen.com/account/register">
+                        <i class="ico-right-gray-arrow"></i>Register free</a>
+                </section>
+                </form>
             </section>
-            </form>
-        </section>
-        <section id="cartBoxContainer">
+            <section id="cartBoxContainer">
 <section id="cartBox">
-    <h4 class="shoppingCartTitle">shopping cart</h4>
+    <section class="sectionh4 shoppingCartTitle">shopping cart</section>
         <ul class="cart-items">
             <li class="empty" style="padding-left:6px; padding-bottom:10px;">
                 <p style="margin-bottom:0;">There are currently no items in your cart.</p>
@@ -139,57 +228,56 @@
 </section>
 
     
+            </section>
         </section>
-    </section>
+    </nav>
     <section class="middle" id="logo-header">
         <a href="/" id="logo">
-            <img src="/Content/img/logo.png" alt="TruGreen" title="View home" width="182" height="55"></a>
-        <section id="call-num">Sales: <a href="tel:866.369.9539">866.369.9539</a>&nbsp;&nbsp;&nbsp;Customer Service: <a href="tel:877.905.5147">877.905.5147</a>
+            <img src="/Content/img/logo.png" alt="TruGreen" title="View home" width="182" height="55">
+        </a><span class="state">loves Virginia</span> <a id="linkCommercial" href="http://www.trugreencommercial.com">Switch to Commercial</a>
+    </section>
+    <section class="mobile-nav-hideable-section" style="display: none;">
+        <section id="search-get-a-quote">
         </section>
-        <section class="mobile-nav-hideable-section" style="display: none;">
-            <section id="search-get-a-quote">
-                <a href="/get-a-quote" id="get-a-quote">
-                    <img src="/Content/img/get-a-quote.jpg" width="149" height="38"></a>
-                
-            </section>
-            <section class="row-fluid btn-block-row mobile">
-                <section class="span12">
-                    <a class="btn-block orange" href="tel:866.369.9539"><i class="ico-sq ico-mobile"></i>Sales: 866.369.9539</a>
-                </section>
-                
+        <section class="row-fluid btn-block-row mobile">
+            <section class="span12">
+                <a class="btn-block orange" href="tel:866.369.9539">
+                    <i class="ico-sq ico-mobile"></i>Sales: 866.369.9539</a>
             </section>
         </section>
+    </section>
         <nav id="main-nav">
-            <ul class="clearfix">
+            <ul class="clearfix middle">
                 <li><a id="home" href="/">
                     <i class="ico-nav ico-home"></i>home</a></li>
                 <li><a id="whyTruGreen" href="/why-choose-trugreen" data-nav="why-trugreen">
                     <i class="ico-nav ico-leaf"></i>why trugreen?</a></li>
                 <li><a id="services" href="/products-and-services" data-nav="plans-services">
-                    <i class="ico-nav ico-grass"></i>plans &amp; services</a></li>
+                    <i class="ico-nav ico-grass"></i>Ashburn's
+                    plans and services</a></li>
                 
                 <li class="last-tablet"><a id="customerSupport" href="/customer-support" data-nav="customer-support">
                     <i class="ico-nav ico-user"></i>customer support</a></li>
-                <li class="mobile"><a href="https://myaccount.trugreen.com"><i class="ico-nav ico-padlock"></i>manage my account</a></li>
+                <li class="mobile"><a href="https://myaccount.trugreen.com"><i class="ico-nav ico-padlock">
+                </i>manage my account &amp; pay bills</a></li>
             </ul>
             <a href="#" id="main-nav-toggle" class="mobile">Menu</a>
         </nav>
-        <a href="/" id="logo-2" class="mobile">
-            <img src="/Content/img/logo.png" alt="TruGreen" title="View home"></a>
-        <section class="row-fluid btn-block-row mobile">
-            <section class="span12">
-                <a class="btn-block" href="tel:866.369.9539"><i class="ico-sq ico-mobile"></i>Sales: 866.369.9539</a>
-            </section>
-            
+    <a href="/" id="logo-2" class="mobile">
+        <img src="/Content/img/logo.png" alt="TruGreen" title="View home"></a>
+    <section class="row-fluid btn-block-row mobile">
+        <section class="span12">
+            <a class="btn-block" href="tel:866.369.9539"><i class="ico-sq ico-mobile"></i>Sales: 866.369.9539</a>
         </section>
     </section>
 </header>
 <section style="display: none;">
     <section id="nonserviceableZip">
-        <h3>
-            We do not currently service your area</h3>
+        <section class="sectionh3">
+            We do not currently service your area</section>
     </section>
-</section>    
+</section>
+    
 
 
 
@@ -222,9 +310,9 @@
     <section id="main-pane">
         <section id="maincontent" class="first-col-padding">
 <section class="h3-article">
-  <h3>
+  <section class="sectionh3">
     Privacy Policy
-  </h3>
+  </section>
   The TruGreen Companies is committed to protecting the privacy of our users' personal information. To better protect your privacy, we have instituted the security and privacy practices outlined in this policy. We provide this notice explaining our information practices and the choices you can make about the way your information is used. Our privacy policy contains the following information:<br> <br> 
 <ul>
 <li><a href="#Information">Information The TruGreen Companies collects and how it is used</a></li>
@@ -250,7 +338,8 @@ When you place orders or access your account information, we use a secure server
 The TruGreen Companies may send communications, promotional information, and/or newsletters to our registrants. You can choose to not receive communications from us. We provide the following options for reviewing and updating the personally identifiable information that we collect and maintain, including options for communications, news, and special offers. To review and update your choices, please <a href="mailto:customerservice@trugreenmail.com?subject=Profile%20Update"> send us an e-mail</a> with your changes, titled "Profile Update". You may also call a customer care specialist at 1-800-TRUGREEN. You may also <a href="http://info.trugreen.com/cgi-bin/trucare.cfg/php/enduser/std_adp.php?p_faqid=529"> unsubscribe from our e-mail list</a> at any time.<br> <a name="Changes"></a>
 <h2>Changes to our privacy policy</h2>
 If we materially change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-  <section class="clearfix"></section>
+  <section class="clearfix">
+  </section>
 </section>        </section>
         <section class="clearfix"></section>
     </section>
@@ -264,7 +353,8 @@ If we materially change our privacy policy, we will post changes on this page so
     </section>
 
 </section>
-    <script src="/Content/js/combined?v=D7fCV0EPVqNu4cf9NsZgLdgjylfVm0cR73yRNfEJ8641"></script>
+    <script src="/Content/js/combined?v=5ItTCliIc_eN4iFB7VyeCWD2kvuzPO9Z-SLSrvnhtM01"></script>
+
 
     <footer>
     <section class="row-fluid middle">
@@ -281,6 +371,7 @@ If we materially change our privacy policy, we will post changes on this page so
                                         <li><a href="/why-choose-trugreen">why<br> choose us</a></li>
                                         <li><a href="/products-and-services">our services</a></li>
                                         <li><a href="/customer-support">customer<br>support</a></li>
+                                        <li><a href="/sitemap">sitemap</a></li>
                                     </ul>
                                 </nav>
                             </section>
@@ -302,12 +393,12 @@ If we materially change our privacy policy, we will post changes on this page so
                                 <nav>
                                     <ul>
                                         <li>partners</li>
-                                        <li><a href="http://www.terminix.com/" target="_blank">Terminix<sup>®</sup></a></li>
-                                        <li><a href="http://www.merrymaids.com/" target="_blank">Merry Maids<sup>®</sup></a></li>
-                                        <li><a href="http://www.servicemasterclean.com/" target="_blank">ServiceMaster<br> Clean<sup>®</sup></a></li>
-                                        <li><a href="http://www.ahs.com/homeowners/" target="_blank">American<br> Home Shield<sup>®</sup></a></li>
-                                        <li><a href="http://www.furnituremedic.com/" target="_blank">Furniture Medic<sup>®</sup></a></li>
-                                        <li><a href="http://www.amerispec.com/" target="_blank">AmeriSpec<sup>®</sup></a></li>
+                                        <li><a href="http://www.terminix.com/" target="_blank">Terminix</a><sup>®</sup></li>
+                                        <li><a href="http://www.merrymaids.com/" target="_blank">Merry Maids</a><sup>®</sup></li>
+                                        <li><a href="http://www.servicemasterclean.com/" target="_blank">ServiceMaster<br> Clean</a><sup>®</sup></li>
+                                        <li><a href="http://www.ahs.com/homeowners/" target="_blank">American<br> Home Shield</a><sup>®</sup></li>
+                                        <li><a href="http://www.furnituremedic.com/" target="_blank">Furniture Medic</a><sup>®</sup></li>
+                                        <li><a href="http://www.amerispec.com/" target="_blank">AmeriSpec</a><sup>®</sup></li>
                                     </ul>
                                 </nav>
                             </section>
@@ -333,8 +424,8 @@ If we materially change our privacy policy, we will post changes on this page so
         </section>
         <section class="span3" id="contact-section">
             <section>
-                <h3>let's get in touch</h3>
-                <a id="footerGetACallBack" href="#contact-by-phone" data-width="435" data-height="450" class="ribbon modal-link"><i class="ico-banner ico-orange-phone"></i>Get a Call Back</a>
+                <section class="sectionh3">let's get in touch</section>
+                <a id="footerGetACallBack" href="#contact-by-phone" data-width="435" data-height="525" class="ribbon modal-link"><i class="ico-banner ico-orange-phone"></i>Get a Call Back</a>
                 <br><br>
                 <p class="sales">
                     <strong>Sales:</strong><br>
@@ -346,10 +437,11 @@ If we materially change our privacy policy, we will post changes on this page so
                 </p>
             </section>
             <section class="social">
-                <h3>we're social</h3>
+                <section class="sectionh3">we're social</section>
                 <a href="http://www.facebook.com/trugreen" target="_blank" class="ico-social ico-social-facebook"></a>
                 
                 <a href="http://www.youtube.com/trugreen" target="_blank" class="ico-social ico-social-youtube"></a>
+                <a href="http://plus.google.com/+trugreen/posts" target="_blank" class="ico-social ico-social-googleplus"></a>
             </section>
         </section>
     </section>
@@ -358,6 +450,19 @@ If we materially change our privacy policy, we will post changes on this page so
         © 2013 The TruGreen Companies LLC All rights reserved. | TruGreen Corporate 860 Ridge Lake Blvd, Memphis TN 38120
     </section>
 </footer>
+
+<section class="back-to-top mobile">
+    <a href="#">Back to top</a>
+</section>
+<section class="contact-bar mobile">
+    <section class="item">
+        <a href="tel:1.866.369.9539"><i class="icon-white-mobile"></i>866.369.9539</a>
+    </section>
+    <section class="item">
+        <a href="#"><i class="icon-white-clock"></i>Arrange a call back</a>
+    </section>
+    <section class="clearfix"></section>
+</section>
 <footer id="footer-mobile" class="mobile">
     <nav> 
         <section id="footer-nav-1" class="clearfix">
@@ -368,6 +473,7 @@ If we materially change our privacy policy, we will post changes on this page so
                 <li><a href="/products-and-services/lawn-care-service">our<br> lawn services</a></li>
                 <li><a href="/lawn-care-central">lawn<br> care central</a></li>
                 <li><a href="/customer-support">customer<br> support</a></li>
+                <li><a href="/sitemap">sitemap</a></li>
             </ul>
             <ul>
                 <li class="header">We're Social</li>     
@@ -378,13 +484,13 @@ If we materially change our privacy policy, we will post changes on this page so
         <section id="footer-nav-2">
             <ul>  
                 <li><a href="#">Legal</a></li>  
-                <li><a href="#">Privacy</a></li>  
-                <li><a href="#">Careers</a></li>
+                <li><a href="/about/privacy-policy">Privacy</a></li>  
+                <li><a href="http://jobs.trugreen.com/">Careers</a></li>
             </ul>
             <ul>  
-                <li><a href="#">Franchise Opportunities</a></li>  
-                <li><a href="#">Press</a></li>  
-                <li><a href="#">Contact Us</a></li>  
+                <li><a href="">Franchise Opportunities</a></li>  
+                <li><a href="/customer-support/media-relations">Press</a></li>  
+                <li><a href="/customer-support">Contact Us</a></li>  
             </ul>
         </section>
         <section id="footer-logo-legal">
@@ -404,7 +510,7 @@ If we materially change our privacy policy, we will post changes on this page so
 <section class="rep-form">
 <form action="/Purchase/LeadTeaser" method="post">    <section class="row-fluid middle">
     <section class="span5">
-    <h3>need help from a representative?</h3>
+    <section class="sectionh3">need help from a representative?</section>
     </section>
         <section class="span5">
             
@@ -427,11 +533,9 @@ If we materially change our privacy policy, we will post changes on this page so
         <section class="span1">
             <section class="row-fluid">
                 <section class="span5">
-                    <button class="btn-gray">Submit</button>
+                    <button class="btn-gray service-request-simple-submit">Submit</button>
                 </section>
-                <section class="span7 rep-form-call">
-                    &nbsp;
-                </section>
+               
             </section>
         </section>
     </section>
@@ -469,36 +573,25 @@ If we materially change our privacy policy, we will post changes on this page so
         
             <section class="tabcontent active" id="NewServices">
                 <table class="choice new">
-                    <tbody><tr><td style="text-align: right; padding-right: 3px;"><span>I would like to be called:</span></td>
-                        <td><label>
-                                <input type="radio" name="schedule_option" checked="checked" id="schedule-option-now">
-                                Immediately
-                            </label>
-                        </td>
-                    </tr>
-                    <tr><td></td>
-                        <td><label>
-                                <input type="radio" name="schedule_option" id="schedule-option-later">
-                                On a specific date
-                            </label>
-                        </td>
+                    <tbody><tr>
+                        <td style="text-align: left; padding-right: 3px;"><span>A healthy lawn begins with one easy step.</span></td>
                     </tr>
                 </tbody></table>
                 <section class="footer">
                     <section class="header"><span class="ico ico-phone modal-link">Contact us by phone</span></section>
-                    <h1>866.369.9539</h1>
+                    <section class="sectionh1">866.369.9539</section>
                 </section>
             </section>
 
             <section class="tabcontent" id="CurrentServices">
                 <section class="footer">
                     <section class="header"><span class="ico ico-phone modal-link">Contact us by phone</span></section>
-                    <h1>877.905.5147</h1>
+                    <section class="sectionh1">877.905.5147</section>
                 </section>
             </section>
 
             <section id="schedule-section" class="controls-row new" style="margin-top: 20px; display: none;">
-                <input class="span6" id="CallbackDate" name="CallbackDate" placeholder="Choose Date" type="text" value="6/21/2013 12:00:00 AM">
+                <input class="span6" id="CallbackDate" name="CallbackDate" placeholder="Choose Date" type="text" value="12/12/2013 12:00:00 AM">
                 <select id="schedule-time-option" class="span6" name="CallbackTime">
                     <option class="schedule-time-option-value" value="">Select time for callback</option>
                     <option class="schedule-time-option-value" value="8">Early (after 8:00 AM)</option>
@@ -545,6 +638,16 @@ If we materially change our privacy policy, we will post changes on this page so
             <div class="warning" id="error-form-title">Check your information.</div>
             <section class="clearfix"></section>
         </section>
+        <div class="smalldisclaimer">
+<section class="tg-fields">
+    <section class="controls-row row-inputs row-minimum">
+        <div class="phonedisclaimer">
+            By providing TruGreen with my cell phone number, I agree that TruGreen may contact me on that number using an automated telephone dialing system or 
+            prerecorded or artificial voice to discuss my account, including current and possible future services provided by TruGreen, customer service and billing. 
+            I understand that providing my cell phone number is not required to purchase TruGreen services and that I may revoke this permission at any time.
+        </div>
+    </section>
+</section>        </div>
 </form></section>
 
 <script type="text/javascript">
@@ -560,9 +663,9 @@ If we materially change our privacy policy, we will post changes on this page so
  
      
      
-
-  
-    
-   
+    <script type="text/javascript">
+        isMobileSite = ($(window).width() <= 760);
+        includeGa('', isServiceable, isCurrentCustomer, isLoggedIn, isMobileSite, isPricingFormat, '', '');
+    </script>         
 
 </body></html>
