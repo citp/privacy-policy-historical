@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreealley.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629191545id_/http%3A//degreealley.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreealley.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212110455id_/http%3A//degreealley.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
