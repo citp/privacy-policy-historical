@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrill.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117150726id_/https%3A//www.astrill.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrill.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212174700id_/https%3A//www.astrill.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Astrill VPN » Privacy Policy
 
