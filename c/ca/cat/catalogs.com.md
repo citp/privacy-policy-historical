@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518023603id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212055352id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
 
 # Catalogs.com Privacy Policy
 
@@ -26,7 +26,7 @@ Except as stated above, we DO NOT share your personal information with any other
 
 Opting - In at Catalogs.com
 
-When you order a catalog, newsletter, savings certificate or other information through our website, you will be opted-in to receive email updates and special savings offers from Catalogs.com. In order to receive this information, you must voluntarily opt-in by checking the appropriate circle on our order form.
+When you order a catalog, newsletter, savings certificate or other information through our website, you will also be opted-in to receive email updates and special savings offers from Catalogs.com.
 
 Opting -Out
 
