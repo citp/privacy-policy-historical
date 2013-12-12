@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622044635id_/http%3A//www.playspan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playspan.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212041248id_/http%3A//www.playspan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PlaySpan
 
