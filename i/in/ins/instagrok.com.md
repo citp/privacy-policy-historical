@@ -1,62 +1,71 @@
-> *The following text is extracted and transformed from the instagrok.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501165411id_/http%3A//www.instagrok.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instagrok.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212130211id_/http%3A//www.instagrok.com/privacy2.html) for the most accurate reproduction.*
 
-# None
+# instaGrok Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to www.instagrok.com and instaGrok Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to instaGrok Inc. include www.instagrok.com. The instaGrok website is an education technology site. By using the instaGrok website, you consent to the data practices described in this statement. 
+Thank you for visiting this website (the "Site"), made available to you by instaGrok inc. ("instaGrok"). instaGrok is committed to protecting your privacy. We've developed this Privacy Policy in order for you to understand how we collect, use, communicate, disclose, and make use of personal information that you provide to us on this Site. By using the Site and voluntarily providing personal information in connection with your registration or use, you are consenting to our use of the information you provide as described in this Privacy Policy.
 
-### Collection of your Personal Information
+## The Information We Collect
 
-instaGrok may collect personally identifiable information such as your name and email address. We may gather additional personal or non-personal information in the future. 
+### Required Personal Information
 
-instaGrok automatically receives information from your computer including your IP address, software and hardware attributes and the page you request. This information is used for the operation of the service and to provide statistics regarding use of the instaGrok website. 
+The site can be used without creating an account. Certain features, however, require registration. If you register as a General user or as a Teacher/Librarian, you will be asked to provide your email address, a user ID of your choosing, and a password. If a payment is necessary, you will be asked to provide credit card or billing information. If you register as a student, you will be asked to provide a user ID of your choosing and a password. Teachers and Students are asked to associate their accounts with specific classes.
 
-### Use of your Personal Information
+If you are accessing instaGrok through another website that offers single-sign-on to multiple applications, that other service's privacy policy may override instaGrok's.
 
-instaGrok collects and uses your personal information to operate its website and deliver the services you have requested. 
+### Other Collected Information
 
-instaGrok may also use your personally identifiable information to inform you of other products and services available from instaGrok. instaGrok may also contact you via surveys to conduct research about your opinion of current services or potential new services that may be offered. 
+We may collect certain non-personally identifiable information when you visit the Site, such as the type of browser and operating system you are using, the IP address you are using to connect to the Site, and the name of your Internet service provider. This type of information helps us ensure consistent delivery of the Site and improve our services.
 
-instaGrok does not sell, rent or share personal information about you with other people or companies except under the following circumstances: 
+We also collect information on how you use the Site, such as what topics users have researched.
 
-  * when we have your permission
-  * we are required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on instaGrok or the site; (b) protect and defend the rights or property of instaGrok; and (c) act under exigent circumstances to protect the personal safety of users of instaGrok or the public.
+## Cookies
 
+Like most major websites, we may use "cookies" to store information during your use of our Site. Cookies are small pieces of code that are stored in a designated file on your computer. They do not provide us with any personally identifiable information and cannot be used to run programs or deliver viruses to your computer.
 
+We use cookies as a convenience feature to save you time, and to help us both understand how our Site is used and improve the Site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (for example, to recognize you by name when you return to the Site). If you would prefer not to receive any cookies, most browsers can be set to refuse cookies or to alert you when one is being sent. It is possible, however, that some portions of this Site may not function properly if the cookies are disabled.
 
-### Use of Cookies
+Third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences and your visit to our site and other sites on the Internet. You can choose to accept or decline cookies. To opt out of Google's use of cookies, please visit the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>.
 
-The instaGrok to help you personalize your online experience. A cookie is a text file that is placed on your hard drive by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie to you. 
+## Updating Or Removing Your Personal Information
 
-One of the main purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize instaGrok pages or regsister with the instaGrok site or service, a cookie helps instaGrok to recall your specific information on subsequent visits. This simplifies the process of recording personal information. When you return to the instaGrok website, the information you previously provided can be retrieved so you can easily use the same instaGrok features that you customized. 
+You may update or remove yourself from our database by contacting us: 
 
-Third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences and your visit to our site and other sites on the Internet. You can choose to accept or decline cookies. To opt out of Google's use of cookies, please visit the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/). 
-
-### Confidentiality and Security
-
-instaGrok secures your personal information from unauthorized access, use or disclosure and limits access to instaGrok employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-
-### Children Under Thirteen
-
-instaGrok does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask you parent or guardian for permission to use this website. 
-
-### Opt-Out & Unsubscribe
-
-We respect your privacy and give you the opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from instaGrok by contacting us: 
-
-  * info@instagrok.com
+  * [info@instagrok.com](https://web.archive.org/web/20131212130211id_/http%3A//www.instagrok.com/info@instagrok.com)
   * (720) 583-4765
 
 
 
-### Contact Information
+## How We Use Your Personal Information
 
-instaGrok welcomes your questions or comments regarding this Statement of Privacy. If you believe that instaGrok has not adhered to this Statement, please contact instaGrok at:  
+We will use the personal information you provide in connection with your use of the Site. If we need to contact you, we may do so using your email address. Information we collect about how you use the Site--such as what topics you have researched--will be presented to you as your research history. We may also use it (in a way that is not personally identifiable) to improve our service and add new features. 
+
+Please be aware that any information that you disclose on the site--for instance, when customizing your Grok or writing in your journal--may be accessible to other users. instaGrok cannot take any responsibility for such collection or disclosure.
+
+## How We Share Your Personal Information
+
+instaGrok is not in the business of selling the information you provide to us to any other party. We will not share the personal information you provide except (a) if it is for the purpose(s) you provided it; (b) with your consent; (c) as may be required by law or as we think necessary to protect our company or others from injury; or (d) with vendors who provide services to us, such as hosting services, tech support, database managers, and credit card processors.
+
+## Links To Other Sites
+
+This Privacy Policy applies only to our Site. Our Site may provide links to--or embed media from--other websites that are not under our control. These other sites do not follow our privacy policies and procedures, and may place their own cookies on your computer. You should review the privacy policies on those sites to understand how they will protect any personal information you provide.
+
+## Security Of The Information You Provide
+
+We believe we have taken reasonable steps to protect the information you provide us from loss or theft, unauthorized access, disclosure, copying, use, or modification.
+
+## International Users
+
+If you are visiting our Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using this Site, you authorize the export of personal information to the USA and its storage and use as specified above when you provide such information to us. This policy and our legal obligations are subject to the laws of the State of California and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of California.
+
+## Changes To This Policy
+
+This Privacy Policy is effective as of September 30, 2013. Since our policy may change periodically, without notice, please check back here from time to time to review our current Privacy Policy. Your use of the Site after the posting of any changes to this Privacy Policy means you accept such changes.
+
+## How To Contact Us
+
+If you have any questions or concerns about this Privacy Policy, need to contact us about the information you've provided, or want to terminate your registration, you may reach us using any of these methods: 
+
+  * [info@instagrok.com](https://web.archive.org/web/20131212130211id_/http%3A//www.instagrok.com/info@instagrok.com)
+  * (720) 583-4765
 
 
-  * instaGrok Inc., 129 Fair Oaks St #6, San Francisco CA 94110
-  * Email Address: info@instaGrok.com
-  * Telephone number: (720) 583-4765
-
-
-
-Effective as of January 18, 2012 
