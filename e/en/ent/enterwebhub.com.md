@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterwebhub.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603155256id_/http%3A//www.enterwebhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterwebhub.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212032042id_/http%3A//www.enterwebhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EnterWebHub | EnterWebHub
 
