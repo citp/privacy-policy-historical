@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appaddict.org privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611232113id_/http%3A//www.appaddict.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appaddict.org privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212214117id_/http%3A//www.appaddict.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AppAddict
 
@@ -37,5 +37,5 @@ The AppAddict website and iOS Application contain links to third-party websites,
 
 ## Privacy Questions
 
-If you have any questions or concerns about AppAddict’s Privacy Policy or data processing, please [contact us](mailto:relations@appaddict.org?subject=privacy_policy).  
+If you have any questions or concerns about AppAddict’s Privacy Policy or data processing, please [contact us](mailto:freddy@appaddict.org?subject=privacy_policy).  
 AppAddict may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
