@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530094441id_/http%3A//www.winnipegfreepress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212031952id_/http%3A//www.winnipegfreepress.com/privacy.html) for the most accurate reproduction.*
 
 # Winnipeg Free Press - Breaking News, Sports, Manitoba, Canada
 
 Privacy Policy
 
-### What is the Winnipeg Free Press’ (FP Canadian Newspapers Limited Partnership, or FPLP) privacy policy?
+#### What is the Winnipeg Free Press’ (FP Canadian Newspapers Limited Partnership, or FPLP) privacy policy?
 
 FPLP recognizes the importance of protecting the privacy of personally identifiable information collected about our customers. This includes subscribers to and users of our services, purchasers of our products, advertisers (including those who advertise in classified ads), contest entrants, and visitors to our website. We adhere to fair information practices and limit the collection, use, and disclosure of personal information which is provided to us, to only that information which is necessary for our business purposes, and to provide services to you.
 
@@ -18,13 +18,13 @@ FPLP will retain personal information about customers for as long as is necessar
 
 When FPLP no longer requires the information for our business purposes or to meet those legal requirements, we will either destroy it or render it anonymous.
 
-### Links to other websites
+#### Links to other websites
 
 Be aware that our websites may contain links to other websites provided and maintained exclusively by third parties not subject to FPLP Privacy Policy. Please review the privacy policies on any external websites to determine their information handling practices.
 
 We place advertising on our websites that originate from third party advertisers. Even though these advertisements are embedded in our website, cookies may be assigned by the advertisers and not FPLP. FPLP does not control these cookies.
 
-### Access to Information Procedure
+#### Access to Information Procedure
 
 FPLP, on receipt of a written request by a customer and once that customer has verified that they are entitled to the personal information, will provide an opportunity to review any personal information that FPLP may have about that customer with the exception of any information gathered by its journalists and subject to exceptions set out in Section 9 of PIPEDA.
 
