@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishbaby.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525235532id_/http%3A//www.englishbaby.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishbaby.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212021439id_/http%3A//www.englishbaby.com/info/privacy) for the most accurate reproduction.*
 
 # Learn English free and chat in English online at English, baby!
 
