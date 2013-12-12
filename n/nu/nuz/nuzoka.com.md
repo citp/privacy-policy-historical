@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuzoka.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430053853id_/http%3A//www.nuzoka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuzoka.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212154402id_/http%3A//www.nuzoka.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Web Hosting | Privacy Policy | Free Web Site Hosting
 
