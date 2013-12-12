@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the eventful.com privacy policy that was archived on 2013-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130612140247id_/http%3A//eventful.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventful.com privacy policy that was archived on 2013-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212053856id_/http%3A//eventful.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy - Eventful</title>
-<link rel="stylesheet" type="text/css" href="http://s1.evcdn.com/manifest/bdc62db9df51c2e785b9ab57eeec849c.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-<script type="text/javascript" src="http://s1.evcdn.com/manifest/8b2a447c43e6dae99cde8215396f8301.js"></script>
+<link rel="stylesheet" type="text/css" href="http://s1.evcdn.com/manifest/29d9927cecabd1b3745587ccbbf11b3e.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://s1.evcdn.com/manifest/26f0a06a6f96fdc2639b5b195f114494.js"></script>
 
     <!--[if lte IE 8]>
       <link rel="stylesheet" href="http://s1.evcdn.com/store/css/universal/ie8.css" type="text/css" />
@@ -25,6 +25,7 @@
 <meta name="application-name" content="Eventful"> 
 <meta name="msapplication-TileColor" content="#000000"> 
 <meta name="msapplication-TileImage" content="http://s1.evcdn.com/store/skin/header/96f5100b-08f8-4652-b2d6-7a88449ca94a.png">
+<meta name="viewport" content="width=1010, user-scalable=yes">
 
 
 
@@ -41,6 +42,7 @@ if (typeof window.Eventful != "object") window.Eventful = {};
 Eventful.Hosts = {};
 Eventful.Hosts.movies = "http://movies.eventful.com";
 Eventful.Hosts.web = "http://eventful.com";
+Eventful.Hosts.domain = "eventful.com";
 Eventful.FacebookAppId = '294833066685';
 
 Eventful.Session = {};
@@ -54,27 +56,26 @@ Eventful.Session.Prefs = {};
 
 
 
-  Eventful.Session.Prefs.sf = "%m/%d/%Y";
 
 
-
-  Eventful.Session.Prefs.tmf = "%b %e";
-
-
-  Eventful.Session.Prefs.mf = "%b %e, %Y";
 
 
 Eventful.Session.CWL = {
   location_type: "",
   location_id: "",
   meta_name: "Worldwide",
-  pretty_name: "Worldwide"
+  pretty_name: "Worldwide",
+  country_id: ""
 }
 
 
 
 Eventful.Session.Tests = {};
 Eventful.GADebug = false;
+if (typeof window.EVDB === 'undefined') {
+  window.EVDB = {};
+}
+EVDB.localized_domains = ["hartford","nashville","pittsburgh","portland","philadelphia","orlando","stlouis","phoenix","allentown","baltimore","charlotte","indianapolis","hamptonroads","tampa","dallas","greensboro","raleigh","houston","mcallen","saltlakecity","lasvegas","augusta","birmingham","rochester","jacksonville","omaha","atlanta","cleveland","qametro","memphis","columbus","youngstown","denver","oklahomacity","sanjose","london","newyorkcity","minneapolis","sandiego","buffalo","milwaukee","neworleans","albany","seattle","louisville","charleston","sacramento","qausmetro","cincinnati","scranton","littlerock","kansascity","miami","sanfrancisco","losangeles","grandrapids","detroit","sarasota","boston","providence","chicago","austin","richmond","harrisburg","washingtondc"]; 
 </script>
 
 
@@ -91,6 +92,8 @@ Eventful.GADebug = false;
     $.cachedScript("http://b.scorecardresearch.com/beacon.js").done(function() {
           COMSCORE.beacon(comscore_params);
     });
+
+    window.is_na = 0;
 </script>
 <noscript>
   
@@ -127,8 +130,6 @@ Eventful.GADebug = false;
         document.location.search.toLowerCase()]);
     
 
-    _gaq.push(['_trackPageLoadTime']);
-
     
 
     (function(d, t) {
@@ -140,12 +141,16 @@ Eventful.GADebug = false;
         
       s.parentNode.insertBefore(e, s);
     })(document, 'script');
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-609804-40', 'eventful.com');
+    
+    ga('send', 'pageview');
   </script>
-
-
-<script type="text/javascript">
-  var RondavuScriptPath = ('https:' == window.location.protocol ? 'https://s3.amazonaws.com/' : 'http://') + 'static.rondavu.com/C/Eventful_PROD/rondavu.js';
-</script>
 
 </head>
 <body>
@@ -154,94 +159,137 @@ Eventful.GADebug = false;
       <!-- Normal Header Start -->
 
 <!-- START: Header Container -->
-<div id="header" class="header-no-skin container noResultLinks arial ">
+<div id="header" data-ga-action="Header" class="header-no-skin container noResultLinks arial ">
   
   <div id="header-advert">
     <div id="rev-gen-top" class="rev-gen wide-advert ad-pos-top header-advert">
             <script type="text/javascript">
         Eventful.ThirdParty.adData.push({
           'type'       : 'ad',
-          'srcIframe'  : 'http://ad.doubleclick.net/adi/ev_other/other;pos=top;dcopt=ist;sz=728x90;tile=1;ord=88078?',
-          'srcJs'      : 'http://ad.doubleclick.net/adj/ev_other/other;pos=top;dcopt=ist;sz=728x90;tile=1;ord=88078?',
+          'srcIframe'  : 'http://ad.doubleclick.net/adi/ev_other/other;rfr=ZGlyZWN0;pos=top;dcopt=ist;sz=728x90;tile=1;ord=15186?',
+          'srcJs'      : 'http://ad.doubleclick.net/adj/ev_other/other;rfr=ZGlyZWN0;pos=top;dcopt=ist;sz=728x90;tile=1;ord=15186?',
           'jqSelector' : '#rev-gen-iframe-top',
           width        : 728,
           height       : 90        });
+
+        
       </script>
 
       <!-- NOTE: The jQuery $.tmpl (markup) for the ads has been moved to the common footer sections/footers/default -->
 
       <div id="rev-gen-iframe-top" class="ad-placeholder"></div>
 
-      <noscript><a href="http://ad.doubleclick.net/jump/ev_other/other;pos=top;dcopt=ist;sz=728x90;tile=1;ord=88078?"><img src="http://ad.doubleclick.net/ad/ev_other/other;pos=top;dcopt=ist;sz=728x90;tile=1;ord=88078?" border="0" alt="" /></a></noscript>
     </div>
   </div>
   
 
-  <!-- START: header-main -->
-  <div id="header-main">
+  <!-- START: header-inner -->
+  <div id="header-inner">
+    <!-- START: header-main -->
+    <div id="header-main">
+      <button type="button" class="btn btn-navbar">
+        <span class="icon-reorder"></span>
+      </button>
 
-    <a href="/" id="header-logo" class="logo no_hover">&nbsp;</a>
-
-    <!-- START: user-panel -->
-    
-    
-    <div id="user-panel" class="logged-out">
-      <ul><li class="first log-in"><span id="user-panel-facebook" class="fb-login-click  login-with-facebook-small" data-goto="http://eventful.com/privacy"></span><a href="http://eventful.com/signin?goto=http%3A%2F%2Feventful.com%2Fprivacy" id="user-panel-signin">Log in</a></li><li class="last"><a href="http://eventful.com/join?goto=http%3A%2F%2Feventful.com%2Fprivacy" id="user-panel-join">Sign up</a></li>      </ul>
-
-    </div>
-        <!-- END: user-panel -->
-  </div>
-  <!-- END: header-main -->
-
-  <!-- START: header-nav -->
+      <a href="//eventful.com/events" id="header-logo" class="localize logo no_hover">&nbsp;</a>
   
-    
-    <div id="header-nav" class="">
-      
-      <!-- START: nav -->
-      <div id="nav">
-        <ul id="nav-tabs">
-          <li id="nav-events" class="site-tab"><a href="http://eventful.com/events" class="nav-tab localize">Events</a></li>
-          <li id="nav-concerts" class="site-tab">
-            <a href="http://eventful.com/concerts" class="nav-tab localize">
-              
-                Concerts
-              
-            </a>
-            
-          </li>
-          <li id="nav-movies" class="site-tab">
-            <a href="http://movies.eventful.com" class="localize nav-tab">
-              
-                Movies
-              
-            </a>
-          
-          </li>
-          <li id="nav-demands" class="site-tab">
-            <a href="http://eventful.com/demand/hottest" class="nav-tab">Demand it!</a>
-          </li>
-          <li id="nav-community" class="site-tab">
-            <a href="http://eventful.com/community" class="nav-tab">Community</a>
-          </li>
-          <li id="nav-my" class="site-tab nav-last">
-            <a href="http://eventful.com/my" class="nav-tab">Profile</a>
-          </li>
-        </ul>
-        <div id="nav-subnav"></div>
-        <div id="header-add-event" class="add-event"><a href="http://eventful.com/events/new"><i class="icon-plus"></i> &nbsp;Add Event</a></div>
+      <div id="change-location">
+          <i class="icon-map-marker"></i> Worldwide
       </div>
-      <!-- END: nav -->
+
+      <div id="location-search" class="clearfix">
+        <div id="header-location-change">
+
+            <label for="inp-header-location-change" class="">Location <span class="muted">(City or Zip)</span></label>
+            <input type="text" name="header-location-change" id="inp-header-location-change" value="" data-ta="typeahead-location" placeholder="Worldwide" class="input-xlarge" autocomplete="off">
+            
+        </div>
+
+        <div id="search">
+          <div id="uni-search" class="">
+
+            <form id="site-search" action="http://eventful.com/search" method="post">
+              
+              <input type="hidden" name="location_type" id="inp-location-type" value="">
+              <input type="hidden" name="location_id" id="inp-location-id" value="">
+              <input type="hidden" name="location" id="inp-location" value="Worldwide">
+              <input type="hidden" name="area" id="inp-area">
+              <label for="inp-uni-search">Search for <span class="muted">(eg. jazz, Zumanity, Coldplay or The Fillmore)</span></label>
+              <input type="text" name="q" id="inp-uni-search" value="" data-ta="typeahead-uni-search" class="text-input input-xlarge" autocomplete="off">
+              <i></i>
+              <button id="btn-search-submit" class="bn bn-grey bn-sz-lg" type="submit"><span class="bn-in"></span>Search</button>
+            </form>
+          </div>
+        </div> <!-- end search -->
+      </div> 
+
+      <!-- START: user-panel -->
       
-      <div id="header-partners"><span class="partner-mtv"></span></div>
+      
+      <div id="user-panel" class="logged-out">
+        <ul><li class="first log-in"><span id="user-panel-facebook" class="fb-login-click  login-with-facebook-small" data-goto="http://eventful.com/privacy" data-ga-action="Facebook Login: Header" data-ga-label="FB Button Click"></span><a data-ga-conv="Log In Link" href="http://eventful.com/signin?goto=http%3A%2F%2Feventful.com%2Fprivacy" id="user-panel-signin" class="require-signin">Log in</a></li><li class="last"><a data-ga-conv="Sign Up Link" href="http://eventful.com/join?goto=http%3A%2F%2Feventful.com%2Fprivacy" id="user-panel-join">Sign up</a></li>        </ul>
+
+      </div>
+            <!-- END: user-panel -->
     </div>
-    <!-- END: header-nav -->
-  
+    <!-- END: header-main -->
+
+    <!-- START: header-nav -->
+    
+      <div id="header-nav" class="">
+        
+        <!-- START: nav -->
+        <div id="nav">
+          <div id="nav-inner">
+            <ul id="nav-tabs">
+              <li id="nav-events" class="site-tab"><a href="//eventful.com/events" class="nav-tab localize">Events</a></li>
+              <li id="nav-concerts" class="site-tab">
+                <a href="//eventful.com/concerts" class="nav-tab localize">
+                  
+                    Concerts
+                  
+                </a>
+                
+              </li>
+              <li id="nav-movies" class="site-tab">
+                <a href="http://movies.eventful.com/" class="localize nav-tab">
+                  
+                    Movies
+                  
+                </a>
+              </li>
+              <li id="nav-demands" class="site-tab">
+                <a href="http://eventful.com/demand/hottest" class="nav-tab">Demand it!</a>
+              </li>
+              <li id="nav-community" class="site-tab">
+                <a href="http://eventful.com/community" class="nav-tab">Community</a>
+              </li>
+              <li id="nav-my" class="site-tab nav-last">
+                <a data-ga-conv="My Evenful Link" href="http://eventful.com/my" class="nav-tab">Profile</a>
+              </li>
+              
+              <li class="site-tab" id="nav-search">
+                <a href="http://eventful.com/search" class="nav-tab"><span>SEARCH</span><img src="http://s1.evcdn.com/store/v2/responsive/search_2x.png" height="22" width="22"></a></li>
+              
+              <li id="nav-profile" class="site-tab">
+                <a data-ga-conv="My Eventful Link" id="profile-link" href="http://eventful.com/my" class="nav-tab"><span>SIGN UP</span><img src="http://s1.evcdn.com/store/v2/responsive/profile_2x.png" height="22" width="22"></a></li>
+            </ul>
+            <div id="header-add-event" class="add-event"><a data-ga-conv="Add Event" href="http://eventful.com/events/new"><i class="icon-plus"></i> &nbsp;Add Event</a></div>
+              <div id="header-partners"><span class="partner-mtv"></span></div>
+          </div>
+          <div id="nav-subnav"></div>
+        </div>
+        <!-- END: nav -->
+        
+      </div>
+      <!-- END: header-nav -->
+    
+  </div>
+  <!-- END: header-inner -->
 
 
 
-  <!-- START: site-pencil -->
-    <!-- END: site-pencil -->
+  <!-- START: site-pencil -->  <!-- END: site-pencil -->
 </div>
 <!-- END: header -->
 
@@ -255,259 +303,261 @@ Eventful.GADebug = false;
                 <h1>Eventful, Inc. Privacy Policy</h1>
               </div>
               <div class="section last">                                                                                                   
-              <p class="intro last-revised">Last revised: October 21, 2009<br>
+              <p class="intro last-revised">Last revised: July 22, 2013<br>
                 Effective as of: January 1, 2006</p>
 
                 <p class="intro">
-                  Eventful respects your right to privacy and we are committed
-                  to protecting it. Accordingly, we abide by the following
-                  principles and policies for all of the Personally Identifiable
-                  Information we collect from you and we are committed to
-                  following them in our day-to-day operations. This Privacy
-                  Policy details certain policies implemented throughout
-                  Eventful's Site and Services governing Eventful's use of
-                  Personally Identifiable Information submitted by users.
+                  Eventful respects your right to privacy. We abide by the following principles and policies for the Personally Identifiable Information we collect about you
+                  through our websites ( "Site"), our mobile applications ( "Application"), emails, and other offerings (collectively "Services").
                 </p>
 
-
-                <h2>Privacy Policy Updates</h2>
-                <p>
-                  As our business grows and changes, we expect to revise or
-                  enhance these policies from time-to-time. We will post a current
-                  version of our Privacy Policy on our Site and will communicate
-                  material changes to our Privacy Policy to users and the public
-                  by posting a notice on our Site for ten days following the
-                  change. If any modification is unacceptable to you, you shall
-                  cease using our Site and Services. If you do not cease using our
-                  Site and Services, you will be conclusively deemed to have
-                  accepted the change.
-                </p>
-
-
-                <h2>Correcting/Updating Personally Identifiable Information</h2>
-                <p>
-                  Eventful provides you with the ability to review, correct and
-                  delete any of the Personally Identifiable Information that you
-                  have provided to us at any time. If you have questions about
-                  this Privacy Policy or wish to review or correct any
-                  information you have provided to us, you may do so by (i)
-                  accessing your account online, (ii) submitting an email
-                  request to us at <a href="mailto:inquiries@eventful.com">inquiries@eventful.com</a>, or (iii) sending a
-                  letter to the following U.S. postal address:
-                </p>
-                <p class="vcard address">
-                  <span class="org">
-                    <span class="fn organization-name">Eventful, Inc.</span>
-                  </span>
-                  <span class="adr">
-                    <span class="street-address">12626 High Bluff Drive, Suite 100</span>
-                    <span class="locality">San Diego</span>, <span class="region">CA</span>
-                    <span class="postal-code">92130</span> <span class="country-name">USA</span>
-                  </span>
-                  <span class="organization-unit">Attn: Eventful Privacy Policy</span>
-                </p>
-
-
-                <h2>What Information We Collect</h2>
-                <p>
-                  We only collect Personally Identifiable Information about you
-                  from our Site if you choose to provide it to us. This means
-                  you can visit our Site without revealing any Personally
-                  Identifiable Information. Like most web sites, our web servers
-                  do collect information about your visit, but not about you
-                  personally. This information may include the URL, IP address,
-                  browser type and language, and the date and time of your
-                  visit.
-                </p>
-                <p>
-                  In order to use certain features of the Site and Services you
-                  may be asked to register. Any Personally Identifiable
-                  Information which is required and that you choose to provide
-                  within the registration process will not be disclosed on our
-                  Site. Once registered, you may provide additional information
-                  in various areas of the site. Providing additional information
-                  beyond the fields in the registration process is entirely
-                  optional and such information may be visible to the public.
-                </p>
-              
-
-                <h2>
-                  How We Use the Personally Identifiable Information You
-                  Provide To Us
-                </h2>
-                <p>
-                  We may use your Personally Identifiable Information to
-                  register you to use our Services, to verify your authority to
-                  use certain features of our Site and Services, to improve and
-                  tailor the content and general administration of our Site and
-                  Services, and, based upon the email settings which you may
-                  select, to deliver certain content, information, services and
-                  notices from Eventful as well as communications regarding
-                  information, events, content, products and services of our
-                  third party partners.
-                </p>
-
-
-                <h2>
-                  Opting In and Out of Email Communications from Eventful and 
-                  Third Parties
-                </h2>
-                <p>
-                  By providing your email address while signing up for Eventful
-                  or submitting a Demand via Eventful's Demand it! service you
-                  automatically grant permission to Eventful and its strategic
-                  alliance partners to send email communications to you. During
-                  the sign up and Demand it! process you may also indicate via a
-                  check-box whether you grant permission for Eventful to share
-                  your email address with additional third parties and for those
-                  third parties to send emails directly to you. You may manage
-                  your opt in preferences and opt out of receiving email
-                  communications by clicking "unsubscribe" from an email sent to
-                  you by Eventful or by signing in to Eventful online and
-                  managing your preferences.
-                </p>
-
-
-                <h2>
-                  Disclosing Your Personally Identifiable Information to Others
-                </h2>
-                <p>
-                  Except as expressly provided in this Privacy Policy, we do not
-                  disclose or market Personally Identifiable Information
-                  obtained through our Site to others. Based upon your opt in
-                  settings which you may manage as described above, we may from
-                  time to time provide your Personally Identifiable Information
-                  to third party partners for various purposes, including to
-                  allow those third party partners to contact you about news,
-                  events, products and/or services in which you may be
-                  interested. If you do not wish to be included on the list of
-                  users disclosed to our third party partners, you may indicate
-                  this preference during the sign up or Demand submission or you
-                  may manage your opt in preferences as described above. To stop
-                  receiving communications from a third party to whom we have
-                  already provided your information prior to your opting out,
-                  contact that third party directly or click unsubscribe from an
-                  email which you receive from the third party. We may disclose
-                  your personally identifiable information: (a) to complete a
-                  transaction that you initiate, (b) as required by law, (c)
-                  when necessary to protect the safety of customers, employees,
-                  or property, (d) when you specifically authorize it or (e)
-                  when required to service the company's system infrastructure.
-                </p>
-
-
-                <h2>Cookies, Web Beacons, and Other Internet Data</h2>
-                <p>
-                  Like most web sites, we may use cookies, web log files, IP
-                  addresses, or web beacons in order to recognize you as a
-                  registered user, improve overall Site experience, tailor and
-                  customize the content of our Site, or track Site usage. This
-                  data may be exchanged between the user's computer, our Site,
-                  and the systems of our infrastructure partners. The linkage
-                  between this data and your Personally Identifiable Information
-                  is never shared without your permission or except when
-                  required by law.
-                </p>
-
-
-                <h2>Security and Data Storage</h2>
-                <p>
-                  We employ procedural and technological security measures that
-                  are designed to safeguard your Personally Identifiable
-                  Information from loss, unauthorized access, disclosure,
-                  alteration or destruction. Eventful may use encryption,
-                  password protection, and other security measures to help
-                  prevent unauthorized access to your Personally Identifiable
-                  Information.
-                </p>
-
-
-                <h2>International Users</h2>
-                <p>
-                  Our computer systems are currently based in the United States
-                  where data protection requirements and privacy regulations may
-                  be different than other parts of the world. If you create an
-                  online account on this website as a visitor from outside the
-                  United States, you will have agreed to the terms of this
-                  Privacy Policy and our Terms of Use, you will have consented
-                  to processing of all such information in the United States,
-                  and you will have agreed that your personal information will
-                  be subject to the requirements of the privacy regulations of
-                  the United States, which may not offer an equivalent level of
-                  protection as certain other countries.
-                </p>
-
-
-                <h2>Children's Privacy</h2>
-                <p>
-                  Eventful recognizes the privacy interests of children and we
-                  encourage parents and guardians to take an active role in
-                  their children's online activities. Eventful's Site and
-                  Services are not intended for children under the age of 13.
-                  Eventful does not target its Site and Services to children
-                  under 13. Eventful does not knowingly collect Personally
-                  Identifiable Information from children under the age of 13.
-                </p>
-
-
-                <h2>Assignment</h2>
-                <p>
-                  You maintain ownership rights to your Personally Identifiable
-                  Information, even if there is a business transition. However,
-                  we may transfer your Personally Identifiable Information to a
-                  successor entity upon a merger, consolidation, or other
-                  corporate reorganization in which Eventful participates or to
-                  a purchaser of all or substantially all of Eventful's assets
-                  to which this Site relates.
-                </p>
-
-
-                <h2>Links to Third Party Sites</h2>
-                <p>
-                  This privacy policy applies only to the privacy of users of
-                  Eventful's Site and Services. By using Eventful's Site and
-                  Services you agree to the terms of this privacy policy. If you
-                  move from Eventful's Site to external web sites owned or
-                  operated by other entities or individuals, you should check
-                  the privacy policies of those external web sites carefully.
-                  The terms by which the owners or operators of those external
-                  web sites manage your Personally Identifiable Information
-                  obtained at such third party sites could differ from how
-                  Eventful manages your Personally Identifiable Information.
-                </p>
-
-                <h2>Definitions</h2>
-                <ul> 
-                  <li>
-                    "Personally Identifiable Information" may include your name,
-                    address, telephone number, email address, or other
-                    information which by its nature can identify you personally.
-                    However, "Personally Identifiable Information" excludes any
-                    information that you choose to make available on parts of
-                    the Site that are accessible to the public such as your
-                    public profile and other publicly visible content that you
-                    may add to the Site.
-                  </li>
-                  <li>
-                    "Eventful" refers to Eventful, Inc., a Delaware corporation.
-                    "Eventful" and the Eventful logo are registered trademarks
-                    of Eventful, Inc. Eventful.com are trademarks of Eventful,
-                    Inc.
-                  </li>
-                  <li>
-                    "Site and Services" refer to the features and functionality
-                    ("Services") made available to users at the Internet web
-                    site located at the URL <a href="http://eventful.com/">eventful.com</a> 
-                    ("Site") and via email communications, mobile applications 
-                    and other medium.
-                  </li>
-                  <li>
-                    "Demand" and "Demand it!" refer to the service, features and
-                    functionality of the Eventful Demand service. "Demand it" is
-                    a registered trademark of Eventful, Inc. The "Demand it!"
-                    logo is a trademark of Eventful, Inc.
-                  </li>
-                </ul>
+<h2>
+    Information we collect
+</h2>
+<p>
+    We collect information to provide you with the best possible experience with our Services and for the purposes described in this Policy.
+</p>
+<p>
+    We collect information directly from you, about you from third parties, and automatically through your use of our Services:
+</p>
+<p>
+    </p><ul>
+      <li><strong>Information you give us.</strong>
+        <ul>
+          <li>In order to access certain features of our Services such as posting content, demanding an event, subscribing to email newsletters, and other
+    features, we require you to register with us. When you register with us, we require you to provide your email address, year of birth, location and gender.
+    In addition, at your option, you may provide your name, photograph, interests and whatever biographical information you may choose to share.</li>
+    <li>To get the most out of the personalization and recommendation features we offer, you might indicate to us information like your favorite events, artists and venues.</li>
+        </ul>
+      </li>
+      <li><strong>Information we collect from Facebook and other third party services.</strong>
+        <ul>
+          <li>You may sign into our Site through Facebook or other third party services. If you do so, we will request your permission to access and collect information including your (i) public profile, list of friends, email address, birthday, interests, current city, personal description, publish stream, event rsvp's and likes; and (ii) to post to your friends on your behalf.</li>
+          <li>
+            With your permission, we may collect data from services you use such as Spotify, Last.fm, iTunes and others in order to learn more about your entertainment preferences and tailor the content we present to you.
+          </li>
+          <li>
+            We store the information that we receive from third party services with other information that we collect from you or receive about you. We have no control over third party services use or disclose the personal information they collect about you. Please review their policies if you have questions about such disclosure.
+          </li>
+        </ul>
+      </li>
+      <li><strong>Information we collect and store automatically from your use of our Services and may combine with your personal information. </strong>We
+automatically collect information about your use of our Services including the content you view, the things you click and other actions that you take.    <strong></strong>
+        <ul>
+          <li>
+            <strong>Device and server log information. </strong>
+            <ul>
+              <li>
+                usage information about the services you use and how you use them, like when you view, search and interact with our content
+              </li>
+              <li>
+                device-specific information (such as your hardware model, operating system version and unique device identifiers, as permitted)
+              </li>
+              <li>
+                IP address
+              </li>
+              <li>
+                browser type, browser language, the date and time of your request and referral URL
+              </li>
+              <li>
+                cookies that may uniquely identify your browser or your Eventful account
+              </li>
+            </ul>
+          </li>
+          <li>
+            <strong>Location information</strong>. When you use a location-enabled Eventful Service, such as our mobile applications, we will request your permission to collect and process information about your actual location, like latitude and longitude provided by the location services of your mobile device. We may also use various technologies to determine location, such as using your IP address to look up geographic information. We collect this and other information using the following technologies:<strong></strong>
+          </li>
+          <li>
+            <strong>Local storage / Flash</strong>. We may use local shared objects, also known as Flash cookies, to store your Site preferences, to personalize your visit, or to display content based upon what you view on our Site. Third Parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity, may use Flash cookies to collect and store information. We do not have access to or control over these third party cookies nor does this Privacy Policy cover such third parties' use of data. Flash LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot typically control, delete, or disable the acceptance of Flash cookies through your web browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page, choose "Global Storage Settings Panel." We may collect and store information locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+          </li>
+          <li>
+            <strong>Clear Gifs (Web Beacons/Web Bugs)</strong>. We or the third parties we engage to track and analyze Site Data may employ clear gifs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on the Site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on your computer's hard drive, clear gifs are embedded invisibly on Web pages. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. In addition, emails we send may contain a "web beacon" which allows us to understand the time and date of when you open an email and when you utilized a link within the email. Our web beacons do not collect Personally Identifiable Information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email provider for more information.
+          </li>
+          <li>
+            <strong>Cookies and anonymous identifiers. </strong>We use various technologies to collect and store information when you use an Eventful Service,
+            this may include sending one or more <strong><a target="_blank" href="http://www.google.com/policies/privacy/key-terms/#toc-terms-cookie">cookies</a></strong> or    <a target="_blank" href="http://www.google.com/policies/privacy/key-terms/#toc-terms-identifier">anonymous identifiers</a> to your device. We also use cookies and
+            anonymous identifiers when you interact with services we offer to our partners, such as Eventful features that may appear on other sites. Most web browsers
+            automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most
+            browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to
+            disable cookies altogether. Users of our Service who disable cookies will be able to use certain features of the Service, but some features may not
+            function including personalization and content recommendations.
+          </li>
+          <li>
+            <strong>Third Party Cookies.</strong> We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you
+            to receive customized ads, content or services. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have
+            submitted to us, e.g., your email address, that we may share with a third party solely in hashed, non-human readable form. You may opt out of such sharing
+            by signing in to Eventful online and managing your preferences.
+          </li>
+        </ul>
+      </li>
+    </ul>
+<p></p>
+<h2>
+    How we use information we collect
+</h2>
+<p>
+    We may use the information we collect from and about you to register you to use our Services, to verify your authority to use certain features of our
+    Services, to improve and tailor the content and general administration of our Services, and, based upon the settings which you may select, to deliver
+    certain content, information, services and notices from Eventful as well as communications regarding information, events, content, products and services of
+    our third party partners. We also use your information to better understand how users access and use our Site and Services, both on an aggregated and
+    individualized basis, in order to improve our Services and respond to user desires and preferences, and for other research and analytical purposes. We also
+    use your information to contact you for advertising and marketing purposes, which includes sending you email about products and services that we believe
+    would be of interest to you; please see our section below regarding email communications.
+</p>
+<h2>
+    Correcting/Updating Personally Identifiable Information
+</h2>
+<p>
+    Eventful provides you with the ability to review, correct and delete the Personally Identifiable Information that you have provided to us at any time. If
+    you have questions about this Privacy Policy or wish to review or correct any information you have provided to us, you may do so by (i) accessing your
+    account online, (ii) submitting an email request to us at <a href="mailto:inquiries@eventful.com">inquiries@eventful.com</a>, or (iii) sending a letter to
+    the following U.S. postal address:
+</p>
+<p>
+    Eventful, Inc.
+</p>
+<p>
+    12626 High Bluff Drive, Suite 100
+</p>
+<p>
+    San Diego, CA 92130 USA
+</p>
+<p>
+    Attn: Eventful Privacy Policy
+</p>
+<h2>
+    Opting In and Out of Email Communications from Eventful and Third Parties
+</h2>
+<p>
+    By providing your email address to Eventful during your interaction with any of our Services, you automatically grant permission to Eventful and its
+    strategic alliance partners to send email communications to you. During this process you may also indicate whether you grant permission for Eventful to
+    share your email address with additional third parties and for those third parties to send emails directly to you. You may manage your opt in preferences
+    and opt out of receiving email communications by clicking "unsubscribe" from an email sent to you by Eventful or by signing in to Eventful online and
+    managing your preferences.
+</p>
+<h2>
+    Disclosing Your Information to Others
+</h2>
+<p>
+    <strong>Other users of our Services</strong>
+    . Some of the information that you post to our Services may be viewed by other users of our Services. This may include your photo and optional profile
+    information such as your name, home town, demanded performers and favorite events, venues and performers, interests, events, comments, images, etc.
+</p>
+<p>
+    <strong>Social network</strong>
+    . If you log into our Services through Facebook or other social networking sites, your connections at those social networking sites may see certain actions
+    that you take within our Services such as commenting, "liking" and content you choose to share to third party services.
+</p>
+<p>
+    <strong>Service Providers</strong>
+    . We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf.
+</p>
+<p>
+    <strong>Third Parties</strong>
+    . Based upon your opt-out settings that you may control by signing in to Eventful online and managing your preferences, we may disclose your Personally
+    Identifiable Information to third party partners for various purposes, including to allow those third party partners to contact you about news, events,
+    products and/or services in which you may be interested. In doing so, we may transfer information about your use of our Services to third parties and link
+    such information to data you voluntarily have submitted to us (e.g., your email address solely in hashed, non-human readable form). We also may disclose
+    your information to other third parties that offer products that may be of interest to you. If you do not wish to be included on the list of users
+    disclosed to our third party partners or the other third parties, you may indicate your preferences during the sign up process or you may manage your opt
+    in preferences as described above. To stop receiving communications from a third party to whom we have already provided your information prior to your
+    opting out, contact that third party directly or click unsubscribe from an email which you receive from the third party.
+</p>
+<p>
+    <strong>Aggregate Information</strong>
+    . We may share aggregate or de-identified information about users with third parties, and other entities for marketing, advertising, research or similar
+    purposes.
+</p>
+<p>
+    <strong>Your California Privacy Rights. </strong>
+You may learn more about Eventful's policy regarding California's "Shine the Light" law at the following URL: http://eventful.com/privacy-california    <strong></strong>
+</p>
+<p>
+    <strong>Other. </strong>
+    We also will disclose your Personal Information in the following situations: (a) to complete a transaction that you initiate, (b) as required by law or in
+    response to legal process, (c) when necessary to protect the safety of customers, employees, or property, (d) when you specifically authorize it, (e) in
+    the event of a business transfer (discussed below), or (f) when required to service the company's system infrastructure.
+</p>
+<h2>
+    <strong>Third-Party Ad Networks</strong>
+</h2>
+<p>
+    We participate in third party ad networks that may display advertisements on our Site or on other websites based on your visits to our Site as well as
+    other websites. This enables us and these third parties to target advertisements by displaying ads for products and services in which you might be
+    interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including
+    clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party
+    cookies and other technologies are governed by each third party's specific privacy policy, not this one. We may provide these third-party advertisers with
+    information about your usage of our Site and our services, as well as aggregate or non-personally identifiable information about visitors to our Site and
+    users of our service.
+</p>
+<p>
+    You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital
+    Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this
+    information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective
+websites: <a href="http://www.networkadvertising.org/optout_nonppii.asp">www.networkadvertising.org/optout_nonppii.asp</a> (NAI) and    <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices</a> (DAA).
+</p>
+<p>
+    Opting out of one or more NAI member or DAA member networks (many of which will be the same) only means that those members no longer will deliver targeted
+    content or ads to you. It does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive
+    advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit
+    this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAA opt-out may no longer be
+    effective. Additional information is available on NAI's and DAA's websites accessible by the above links.
+</p>
+<h2>
+    Privacy Policy Updates
+</h2>
+<p>
+    As our business grows and changes, we expect to revise or enhance these policies from time-to-time. We will post the current version of our Privacy Policy
+    on our website located at <a href="http://www.eventful.com">www.eventful.com</a> and will communicate material changes to our Privacy Policy to users and
+    the public by posting a notice on our website located at <a href="http://www.eventful.com">www.eventful.com</a> for ten days following the change. If any
+    modification is unacceptable to you, you shall cease using our Services. If you do not cease using our Services, you will be conclusively deemed to have
+    accepted the change.
+</p>
+<h2>
+    Security and Data Storage
+</h2>
+<p>
+    We employ procedural and technological security measures that are designed to safeguard your Personally Identifiable Information from loss, unauthorized
+    access, disclosure, alteration or destruction. Eventful may use encryption, password protection, and other security measures to help prevent unauthorized
+    access to your Personally Identifiable Information. Please be aware that despite our best efforts, no data security measures can guarantee 100% security.
+    You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared
+    computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for
+    any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+</p>
+<h2>
+    International Users
+</h2>
+<p>
+    Our computer systems are currently based in the United States where data protection requirements and privacy regulations may be different than other parts
+    of the world. If you create an account as a visitor from outside the United States, you will have agreed to the terms of this Privacy Policy and our Terms
+    of Use, you will have consented to processing of all such information in the United States, and you will have agreed that your personal information will be
+    subject to the requirements of the privacy regulations of the United States, which may not offer an equivalent level of protection as certain other
+    countries.
+</p>
+<h2>
+    Children's Privacy
+</h2>
+<p>
+    Eventful recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities.
+    Eventful's Services are not intended for children under the age of 13. Eventful does not target its Services to children under 13. Eventful does not
+    knowingly collect and store Personally Identifiable Information from children under the age of 13.
+</p>
+<h2>
+    Business Transfers
+</h2>
+<p>
+    We may transfer your Personally Identifiable Information to a successor entity upon a merger, consolidation, other corporate reorganization in which
+    Eventful participates or to a purchaser of all or substantially all of Eventful's assets to which our Service relates.<strong></strong>
+</p>
+<h2>
+    Links to Third Party Sites
+</h2>
+<p>
+    This privacy policy applies only to the privacy of users of Eventful's Services. By using Eventful's Services you agree to the terms of this privacy
+    policy. If you move from Eventful's Services to external websites owned or operated by other entities or individuals, you should check the privacy policies
+    of those external websites carefully. The terms by which the owners or operators of those external websites manage your Personally Identifiable Information
+    obtained at such third party sites could differ from how Eventful manages your Personally Identifiable Information.
+</p>
               </div> <!-- end of section last -->
             </div> <!-- end of cage -->
           </div> <!-- end of .alpha-873 -->
@@ -515,24 +565,24 @@ Eventful.GADebug = false;
       </div> <!-- end inner-container -->
   </div> <!-- end mid-container -->
     <!-- Normal Footer Start --> 
-<div id="footer" class="" data-ga-category="Footer">
+<div id="footer" class="" data-ga-action="Footer">
     
       <div class="links-partners footer-centered">
       
-        <ul data-ga-action="Top Categories">
+        <ul data-ga-action="Footer : Top Categories">
           <li>TOP CATEGORIES <span class="light">//</span></li>
-          <li><a href="http://eventful.com/concerts" data-ga-label="Concerts Link" class="localize">Concerts &amp; Tour Dates</a></li>
-          <li><a href="http://eventful.com/events/categories/festivals_parades" data-ga-label="Festivals Link" class="localize">Festivals</a></li>
-          <li><a href="http://eventful.com/events/categories/family_fun_kids" data-ga-label="Family Link" class="localize">Kids &amp; Family Events</a></li>
-          <li><a href="http://eventful.com/events/this-weekend" data-ga-label="This Weekend Link" class="localize">Events This Weekend</a></li>          <li><a href="http://eventful.com/events/june" data-ga-label="This Month Link">Events This Month</a></li>          <li><a href="http://eventful.com/events/july" data-ga-label="Next Month Link" class="localize"> Events in July</a></li>
+          <li><a href="//eventful.com/concerts" data-ga-label="Concerts Link" class="localize">Concerts &amp; Tour Dates</a></li>
+          <li><a href="//eventful.com/events/categories/festivals_parades" data-ga-label="Festivals Link" class="localize">Festivals</a></li>
+          <li><a href="//eventful.com/events/categories/family_fun_kids" data-ga-label="Family Link" class="localize">Kids &amp; Family Events</a></li>
+          <li><a href="//eventful.com/events/this-weekend" data-ga-label="This Weekend Link" class="localize">Events This Weekend</a></li>          <li><a href="//eventful.com/events/december" data-ga-label="This Month Link" class="localize">Events This Month</a></li>          <li><a href="//eventful.com/events/january" data-ga-label="Next Month Link" class="localize">Events in January</a></li>
         </ul>
       
       
-      <ul data-ga-action="Features">
+      <ul data-ga-action="Footer : Features">
         <li>FEATURES <span class="light">//</span></li>
-        <li><a href="http://eventful.com/my" data-ga-label="MyEventful Link">My Eventful</a></li>
-        <li><a href="http://eventful.com/tracker" data-ga-label="Artist Tracker Link">Artist Tracker</a></li>
-        <li><a href="http://eventful.com/iphone" data-ga-label="iPhone Link">iPhone App</a></li>
+        <li><a href="http://eventful.com/my" data-ga-label="MyEventful Link" data-ga-conv="my eventful">My Eventful</a></li>
+        <li><a href="http://eventful.com/tracker" data-ga-label="Artist Tracker Link" data-ga-conv="artist tracker">Artist Tracker</a></li>
+        <li><a href="http://eventful.com/mobileapp" data-ga-label="iPhone Link">Mobile App</a></li>
         <li><a href="https://itunes.apple.com/us/app/eventful/id284146702?mt=8&amp;uo=4" target="_blank" data-ga-label="App Store Click"><img src="//s1.evcdn.com/store/skin/iphone/badge_appstore-sm.png"></a></li>  
      </ul>
 
@@ -541,25 +591,25 @@ Eventful.GADebug = false;
       
         
       
-      <ul data-ga-action="movies">
+      <ul data-ga-action="Footer : Movies">
         <li>MOVIES <span class="light">//</span></li>
-        <li><a href="http://movies.eventful.com/theaters-showtimes" data-ga-label="Theater Showtimes Link">Movie Theater Showtimes</a></li>
+        <li><a href="http://movies.eventful.com/theaters-showtimes" class="localize" data-ga-label="Theater Showtimes Link">Movie Theater Showtimes</a></li>
         <li><a href="http://movies.eventful.com/trailers" data-ga-label="Trailers Link">Movie Trailers</a></li>
         <li><a href="http://movies.eventful.com/reviews" data-ga-label="Reviews Link">Movie Reviews</a></li>
       </ul>
-      <ul data-ga-action="Add">
+      <ul data-ga-action="Footer : Add">
         <li>ADD STUFF <span class="light">//</span></li>
-        <li><a href="http://eventful.com/events/new" data-ga-label="Add Event Link">Add Event</a></li>
-        <li><a href="http://eventful.com/venues/new" data-ga-label="Add Venue Link">Add Venue</a></li>
-        <li><a href="http://eventful.com/performers/new" data-ga-label="Add Performer Link">Add Performer Profile</a></li>
+        <li><a href="http://eventful.com/events/new" data-ga-label="Add Event Link" data-ga-conv="add event">Add Event</a></li>
+        <li><a href="http://eventful.com/venues/new" data-ga-label="Add Venue Link" data-ga-conv="add venue">Add Venue</a></li>
+        <li><a href="http://eventful.com/performers/new" data-ga-label="Add Performer Link" data-ga-conv="add performer">Add Performer Profile</a></li>
       </ul>
 
       
-      <ul data-ga-action="Share" class="social-actions">
+      <ul data-ga-action="Footer : Share" class="social-actions">
         <li>SHARE <span class="light">//</span></li>
-        <li class=""><a href="http://eventful.com/r/http://www.facebook.com/Eventful" title="Become a fan on Facebook" target="_new" data-ga-label="Facebook Button"><span class="facebook"></span></a></li>
-        <li class=""><a href="http://eventful.com/r/http://twitter.com/eventful" title="Follow us on Twitter" target="_new" data-ga-label="Twitter Button"><span class="twitter"></span></a></li>
-        <li class=""><a href="http://eventful.com/r/https://plus.google.com/103141635734024668419" title="Follow us on Google+" target="_new" rel="publisher" data-ga-label="Google Plus Button"><span class="google"></span></a></li>
+        <li class=""><a href="http://www.facebook.com/Eventful" title="Become a fan on Facebook" target="_new" data-ga-label="Facebook Button"><span class="facebook"></span></a></li>
+        <li class=""><a href="http://twitter.com/eventful" title="Follow us on Twitter" target="_new" data-ga-label="Twitter Button"><span class="twitter"></span></a></li>
+        <li class=""><a href="https://plus.google.com/103141635734024668419" title="Follow us on Google+" target="_new" rel="publisher" data-ga-label="Google Plus Button"><span class="google"></span></a></li>
         <li class=""><a href="http://support.eventful.com?referrer=/privacy" title="Send us Feedback" data-ga-label="Email Button"><span class="feedback"></span></a></li>
       </ul>
     
@@ -575,7 +625,7 @@ Eventful.GADebug = false;
               <input type="hidden" class="hidden" name="ev_campaign" value="footer-join">
               <input type="hidden" class="hidden" name="goto" value="http://eventful.com/privacy">
 
-              <button class="bn bn-sz-md bn-auto bn-charcoal">SIGN UP</button>
+              <button class="bn bn-sz-md bn-auto bn-charcoal" data-ga-conv="footer join">SIGN UP</button>
               <input id="email-input" value="Enter Email" name="email">
               <div class="mail-img"></div>
             </form>
@@ -583,11 +633,12 @@ Eventful.GADebug = false;
         
 
         PARTNERS <span class="light">//</span>
-        <div class="footer-partner-images" data-ga-action="Partners">
+        <div class="footer-partner-images" data-ga-action="Footer : Partners">
           <a href="http://www.mtv.com" title="MTV Networks" target="_new" class="no_hover partner-icon partner-icon-mtv " data-ga-label="MTV Link"><span>MTV Networks</span></a>
           <a href="http://www.cmt.com/" title="Country Music Television" target="_new" class="no_hover partner-icon partner-icon-cmt " data-ga-label="CMT Link"><span>Country Music Television</span></a>
           <a href="http://www.nextmovie.com/" title="Next Movie" target="_new" class="no_hover partner-icon partner-icon-nextmovie " data-ga-label="Next Movie Link"><span>Next Movie</span></a>
           <a href="http://www.seatwave.com/" title="Concert Tickets" target="_new" class="no_hover partner-icon partner-icon-seatwave " data-ga-label="Seatwave Link"><span>Concert Tickets</span></a>
+          
           
         </div>
     </div>
@@ -597,110 +648,110 @@ Eventful.GADebug = false;
     <div id="footer-sub" class="footer-centered">
       
 
-      <div class="footer-row" data-ga-action="Sub Footer Top Performers">
+      <div class="footer-row" data-ga-action="Sub Footer Top Performers" id="top-performers-footer">
         <span class="title first">TOP PERFORMERS // </span>
         <span class="list">
           
+            <a href="http://eventful.com/performers/cher-/P0-001-000040975-0" data-ga-label="Footer Top Perfomers Link">Cher</a>, 
+          
+            <a href="http://eventful.com/performers/one-direction-/P0-001-000245449-9" data-ga-label="Footer Top Perfomers Link">One Direction</a>, 
+          
+            <a href="http://eventful.com/performers/justin-timberlake-/P0-001-000003763-2" data-ga-label="Footer Top Perfomers Link">Justin Timberlake</a>, 
+          
+            <a href="http://eventful.com/performers/miley-cyrus-/P0-001-000077468-1" data-ga-label="Footer Top Perfomers Link">Miley Cyrus</a>, 
+          
+            <a href="http://eventful.com/performers/arcade-fire-/P0-001-000062275-9" data-ga-label="Footer Top Perfomers Link">Arcade Fire</a>, 
+          
             <a href="http://eventful.com/performers/straight-no-chaser-/P0-001-000062186-6" data-ga-label="Footer Top Perfomers Link">Straight No Chaser</a>, 
           
-            <a href="http://eventful.com/performers/bruno-mars-/P0-001-000221716-2" data-ga-label="Footer Top Perfomers Link">Bruno Mars</a>, 
+            <a href="http://eventful.com/performers/the-war-on-drugs-/P0-001-000046128-2" data-ga-label="Footer Top Perfomers Link">The War On Drugs</a>, 
           
-            <a href="http://eventful.com/performers/selena-gomez-/P0-001-000109593-4" data-ga-label="Footer Top Perfomers Link">Selena Gomez</a>, 
+            <a href="http://eventful.com/performers/children-of-bodom-/P0-001-000004459-9" data-ga-label="Footer Top Perfomers Link">Children of Bodom</a>, 
           
-            <a href="http://eventful.com/performers/pnk-/P0-001-000006328-4" data-ga-label="Footer Top Perfomers Link">P!nk</a>, 
+            <a href="http://eventful.com/performers/ellie-goulding-/P0-001-000220499-1" data-ga-label="Footer Top Perfomers Link">Ellie Goulding</a>, 
           
-            <a href="http://eventful.com/performers/depeche-mode-/P0-001-000000122-0" data-ga-label="Footer Top Perfomers Link">Depeche Mode</a>, 
-          
-            <a href="http://eventful.com/performers/justin-bieber-/P0-001-000165263-2" data-ga-label="Footer Top Perfomers Link">Justin Bieber</a>, 
-          
-            <a href="http://eventful.com/performers/the-eagles-/P0-001-000063897-2" data-ga-label="Footer Top Perfomers Link">The Eagles</a>, 
-          
-            <a href="http://eventful.com/performers/hanson-/P0-001-000002710-3" data-ga-label="Footer Top Perfomers Link">Hanson</a>, 
-          
-            <a href="http://eventful.com/performers/bon-jovi-/P0-001-000000112-3" data-ga-label="Footer Top Perfomers Link">Bon Jovi</a>, 
-          
-            <a href="http://eventful.com/performers/michael-bubl-/P0-001-000001688-8" data-ga-label="Footer Top Perfomers Link">Michael Bublé</a>
+            <a href="http://eventful.com/performers/hedley-/P0-001-000002674-2" data-ga-label="Footer Top Perfomers Link">Hedley</a>
           
         </span>
       </div>
-      <div class="footer-row" data-ga-action="Sub Footer Top Events">
+      <div class="footer-row" data-ga-action="Sub Footer Top Events" id="top-events-footer">
         <span class="title">TOP EVENTS //</span>
         <span class="list">
           
-            <a href="http://eventful.com/events/seen-sundays-/E0-001-052090443-4@2013061619" data-ga-label="Footer Top Events Link">BE SEEN SUNDAYS!</a>, 
+            <a href="http://losangeles.eventful.com/events/mrxquisit-/E0-001-064728621-7" data-ga-label="Footer Top Events Link">Mr.Xquisit</a>, 
           
-            <a href="http://eventful.com/events/isabel-marant-boots-/E0-001-051798377-8@2013061100" data-ga-label="Footer Top Events Link">Isabel Marant Boots</a>, 
+            <a href="http://eventful.com/toronto/events/hackernest-construct-mind-motion-hackathon-/E0-001-063858308-4" data-ga-label="Footer Top Events Link">HackerNest Construct: Mind &amp; Motion hackathon</a>, 
           
-            <a href="http://eventful.com/events/gtroc-london-meet-11am-/E0-001-052003515-0" data-ga-label="Footer Top Events Link">GTROC London Meet 11am</a>, 
+            <a href="http://eventful.com/events/queen-alive-da-vinci-/E0-001-064728616-5" data-ga-label="Footer Top Events Link">Queen Alive - Da Vinci</a>, 
           
-            <a href="http://eventful.com/events/kit-car-special-11am-/E0-001-052003545-1" data-ga-label="Footer Top Events Link">Kit Car Special 11am</a>, 
+            <a href="http://eventful.com/adams_wi/events/2nd-annual-battle-sexes-ski-trip-/E0-001-064712898-6" data-ga-label="Footer Top Events Link">2nd Annual Battle of the Sexes Ski Trip!!</a>, 
           
-            <a href="http://eventful.com/events/bike-night-6pm-/E0-001-052003139-4" data-ga-label="Footer Top Events Link">Bike Night 6pm</a>, 
+            <a href="http://charleston.eventful.com/events/arg-reliability-engineering-fundamentals-octo-/E0-001-064728614-7" data-ga-label="Footer Top Events Link">ARG Reliability Engineering Fundamentals October 2014</a>, 
           
-            <a href="http://eventful.com/events/all-american-cruisein-tbird-special-4pm-/E0-001-052003446-1" data-ga-label="Footer Top Events Link">All American Cruise-In + T'Bird Special 4pm</a>, 
+            <a href="http://augusta.eventful.com/events/richard-strater-chris-hardy-and-his-4-stringed-/E0-001-064728615-6" data-ga-label="Footer Top Events Link">Richard Strater - chris hardy and his 4- stringed little friend</a>, 
           
-            <a href="http://eventful.com/events/mod-n-mini-meet-italian-job-special-6pm-/E0-001-052003255-1" data-ga-label="Footer Top Events Link">Mod 'n' Mini Meet - Italian Job Special 6pm</a>, 
+            <a href="http://seattle.eventful.com/events/travis-hartnett-/E0-001-064728610-1" data-ga-label="Footer Top Events Link">Travis Hartnett</a>, 
           
-            <a href="http://eventful.com/events/gtroc-london-meet-11am-/E0-001-052003527-5" data-ga-label="Footer Top Events Link">GTROC London Meet 11am</a>, 
+            <a href="http://eventful.com/events/noisy-boyz-/E0-001-064728608-6" data-ga-label="Footer Top Events Link">Noisy Boyz</a>, 
           
-            <a href="http://eventful.com/events/charlie-and-choc-factory-/E0-001-049575272-6@2013062519" data-ga-label="Footer Top Events Link">Charlie And The Choc Factory</a>, 
+            <a href="http://eventful.com/richfield/events/strategic-planning-richfield-/E0-001-062378952-3" data-ga-label="Footer Top Events Link">Strategic Planning- Richfield</a>, 
           
-            <a href="http://eventful.com/events/school-disco-/E0-001-026269845-3@2013061522" data-ga-label="Footer Top Events Link">School Disco</a>
+            <a href="http://seattle.eventful.com/events/kaffeine-/E0-001-064728609-5" data-ga-label="Footer Top Events Link">Kaffeine</a>
           
         </span>
       </div>
-      <div class="footer-row" data-ga-action="Sub Footer Top Movies">
+      <div class="footer-row" data-ga-action="Sub Footer Top Movies" id="top-movies-footer">
         <span class="title">TOP MOVIES //</span>
         <span class="list">
           
-            <a href="http://movies.eventful.com/the-purge-/M0-001-000045107-2" data-ga-label="Footer Top Movies Link">The Purge</a>, 
+            <a href="http://movies.eventful.com/frozen-/M0-001-000050837-0" data-ga-label="Footer Top Movies Link">Frozen</a>, 
           
-            <a href="http://movies.eventful.com/fast-furious-6-/M0-001-000046766-6" data-ga-label="Footer Top Movies Link">Fast &amp; Furious 6</a>, 
+            <a href="http://movies.eventful.com/the-hunger-games-catching-fire-/M0-001-000041308-1" data-ga-label="Footer Top Movies Link">The Hunger Games: Catching Fire</a>, 
           
-            <a href="http://movies.eventful.com/now-you-see-me-/M0-001-000042238-0" data-ga-label="Footer Top Movies Link">Now You See Me</a>, 
+            <a href="http://movies.eventful.com/out-of-the-furnace-/M0-001-000049834-7" data-ga-label="Footer Top Movies Link">Out of the Furnace</a>, 
           
-            <a href="http://movies.eventful.com/the-internship-/M0-001-000044708-8" data-ga-label="Footer Top Movies Link">The Internship</a>, 
+            <a href="http://movies.eventful.com/thor-the-dark-world-/M0-001-000043322-5" data-ga-label="Footer Top Movies Link">Thor: The Dark World</a>, 
           
-            <a href="http://movies.eventful.com/epic-/M0-001-000040625-8" data-ga-label="Footer Top Movies Link">Epic</a>, 
+            <a href="http://movies.eventful.com/delivery-man-/M0-001-000050496-7" data-ga-label="Footer Top Movies Link">Delivery Man</a>, 
           
-            <a href="http://movies.eventful.com/star-trek-into-darkness-/M0-001-000043118-4" data-ga-label="Footer Top Movies Link">Star Trek Into Darkness</a>, 
+            <a href="http://movies.eventful.com/homefront-/M0-001-000051647-6" data-ga-label="Footer Top Movies Link">Homefront</a>, 
           
-            <a href="http://movies.eventful.com/after-earth-/M0-001-000041397-5" data-ga-label="Footer Top Movies Link">After Earth</a>, 
+            <a href="http://movies.eventful.com/the-book-thief-/M0-001-000052474-9" data-ga-label="Footer Top Movies Link">The Book Thief</a>, 
           
-            <a href="http://movies.eventful.com/the-hangover-part-iii-/M0-001-000044047-4" data-ga-label="Footer Top Movies Link">The Hangover Part III</a>, 
+            <a href="http://movies.eventful.com/the-best-man-holiday-/M0-001-000050832-5" data-ga-label="Footer Top Movies Link">The Best Man Holiday</a>, 
           
-            <a href="http://movies.eventful.com/iron-man-3-/M0-001-000040020-9" data-ga-label="Footer Top Movies Link">Iron Man 3</a>, 
+            <a href="http://movies.eventful.com/philomena-/M0-001-000054585-8" data-ga-label="Footer Top Movies Link">Philomena</a>, 
           
-            <a href="http://movies.eventful.com/the-great-gatsby-/M0-001-000039804-7" data-ga-label="Footer Top Movies Link">The Great Gatsby</a>
+            <a href="http://movies.eventful.com/dallas-buyers-club-/M0-001-000051644-9" data-ga-label="Footer Top Movies Link">Dallas Buyers Club</a>
           
         </span></div>
-      <div class="footer-row last" data-ga-action="Sub Footer Top Venues">
+      <div class="footer-row last" data-ga-action="Sub Footer Top Venues" id="top-venues-footer">
         <span class="title">TOP VENUES //</span>
         <span class="list">
           
-            <a href="http://eventful.com/newyork_ny/venues/madison-square-garden-/V0-001-000790109-9" data-ga-label="Footer Top Venues Link">Madison Square Garden</a>, 
+            <a href="http://newyorkcity.eventful.com/venues/madison-square-garden-/V0-001-000790109-9" data-ga-label="Footer Top Venues Link">Madison Square Garden</a>, 
           
-            <a href="http://eventful.com/losangeles_ca/venues/hollywood-bowl-/V0-001-000480581-9" data-ga-label="Footer Top Venues Link">Hollywood Bowl</a>, 
+            <a href="http://losangeles.eventful.com/venues/hollywood-bowl-/V0-001-000480581-9" data-ga-label="Footer Top Venues Link">Hollywood Bowl</a>, 
           
-            <a href="http://eventful.com/westhollywood/venues/house-of-blues-los-angeles-/V0-001-000391365-2" data-ga-label="Footer Top Venues Link">House of Blues - Los Angeles</a>, 
+            <a href="http://newyorkcity.eventful.com/venues/radio-city-music-hall-/V0-001-001002646-8" data-ga-label="Footer Top Venues Link">Radio City Music Hall</a>, 
           
-            <a href="http://eventful.com/losangeles_ca/venues/staples-center-/V0-001-000238374-8" data-ga-label="Footer Top Venues Link">Staples Center</a>, 
+            <a href="http://losangeles.eventful.com/venues/house-of-blues-los-angeles-/V0-001-000391365-2" data-ga-label="Footer Top Venues Link">House of Blues - Los Angeles</a>, 
           
-            <a href="http://eventful.com/newyork_ny/venues/central-park-/V0-001-001302329-5" data-ga-label="Footer Top Venues Link">Central Park</a>, 
+            <a href="http://losangeles.eventful.com/venues/staples-center-/V0-001-000238374-8" data-ga-label="Footer Top Venues Link">Staples Center</a>, 
           
-            <a href="http://eventful.com/losangeles_ca/venues/the-wiltern-theatre-/V0-001-000363673-5" data-ga-label="Footer Top Venues Link">The Wiltern Theatre</a>, 
+            <a href="http://newyorkcity.eventful.com/venues/central-park-/V0-001-001302329-5" data-ga-label="Footer Top Venues Link">Central Park</a>, 
           
-            <a href="http://eventful.com/losangeles_ca/venues/nokia-theatre-la-live-/V0-001-001396053-4" data-ga-label="Footer Top Venues Link">Nokia Theatre LA Live</a>, 
+            <a href="http://losangeles.eventful.com/venues/the-wiltern-theatre-/V0-001-000363673-5" data-ga-label="Footer Top Venues Link">The Wiltern Theatre</a>, 
           
-            <a href="http://eventful.com/newyork_ny/venues/radio-city-music-hall-/V0-001-001002646-8" data-ga-label="Footer Top Venues Link">Radio City Music Hall</a>, 
+            <a href="http://losangeles.eventful.com/venues/nokia-theatre-la-live-/V0-001-001396053-4" data-ga-label="Footer Top Venues Link">Nokia Theatre LA Live</a>, 
           
-            <a href="http://eventful.com/houston_tx/venues/toyota-center-/V0-001-000508397-3" data-ga-label="Footer Top Venues Link">Toyota Center</a>, 
+            <a href="http://losangeles.eventful.com/venues/the-greek-theatre-/V0-001-001461305-9" data-ga-label="Footer Top Venues Link">The Greek Theatre</a>, 
           
-            <a href="http://eventful.com/newyork_ny/venues/webster-hall-/V0-001-001155223-4" data-ga-label="Footer Top Venues Link">Webster Hall</a>
+            <a href="http://newyorkcity.eventful.com/venues/beacon-theatre-/V0-001-000209001-5" data-ga-label="Footer Top Venues Link">Beacon Theatre</a>
           
         </span>
       </div>
-      <div class="footer-row clearfix" data-ga-action="Sub Footer">
+      <div class="footer-row clearfix" data-ga-action="Sub Footer" id="essentials">
       
         <ul>
           <li class="first"><a href="http://about.eventful.com/" data-ga-label="About Link">About</a></li>
@@ -737,26 +788,66 @@ Eventful.GADebug = false;
 
 <div id="sub-navs">
   <ul id="sub-events" data-ga-action="Sub Nav">
-    <li class="sub-concerts first"><a href="http://eventful.com/events/categories/music" data-ga-label="Concerts Link" class="localize">Concerts</a></li>
-    <li class="sub-festivals"><a href="http://eventful.com/events/categories/festivals_parades" data-ga-label="Festivals Link" class="localize">Festivals</a></li>
-    <li class="sub-family"><a href="http://eventful.com/events/categories/family_fun_kids" data-ga-label="Family Link" class="localize">Family</a></li>
-    <li class="sub-nightlife"><a href="http://eventful.com/events/categories/singles_social" data-ga-label="Nightlife Link" class="localize">Nightlife</a></li>
-    <li class="sub-performing-arts"><a href="http://eventful.com/events/categories/performing_arts" data-ga-label="Performing Arts Link">Performing Arts</a></li>
-    <li class="sub-sports"><a href="http://eventful.com/events/categories/sports" data-ga-label="Sports Link" class="localize">Sports</a></li>
-    <li class="sub-browse-all"><a href="http://eventful.com/events/categories" data-ga-label="Browse All Link" class="localize">Browse All</a></li>
+    <li class="sub-concerts first"><a href="//eventful.com/events/categories/music" data-ga-label="Concerts Link" class="localize">Concerts</a></li>
+    <li class="sub-festivals"><a href="//eventful.com/events/categories/festivals_parades" data-ga-label="Festivals Link" class="localize">Festivals</a></li>
+    <li class="sub-family"><a href="//eventful.com/events/categories/family_fun_kids" data-ga-label="Family Link" class="localize">Family</a></li>
+    <li class="sub-nightlife"><a href="//eventful.com/events/categories/singles_social" data-ga-label="Nightlife Link" class="localize">Nightlife</a></li>
+    <li class="sub-performing-arts"><a href="//eventful.com/events/categories/performing_arts" data-ga-label="Performing Arts Link" class="localize">Performing Arts</a></li>
+    <li class="sub-sports"><a href="//eventful.com/events/categories/sports" data-ga-label="Sports Link" class="localize">Sports</a></li>
     <li class="sub-lasvegas  last"><a href="http://eventful.com/lasvegas/events" data-ga-label="Las Vegas Link">Las Vegas</a></li>
+    <li class="has-dropdown">
+      <span class="more">More</span><span class="down-arrow"></span>
+      <div class="dropdown clearfix">
+        <ul>
+          <li><a href="http://eventful.com/events/categories" class="localize" data-ga-label="All Events Link">All Events</a></li>
+          <li><a href="http://eventful.com/events/categories/music" class="localize" data-ga-label="Concerts Link">Concerts</a></li>
+          <li><a href="http://eventful.com/events/categories/conference" class="localize" data-ga-label="Conferences Link">Conferences</a></li>
+          <li><a href="http://eventful.com/events/categories/comedy" class="localize" data-ga-label="Comedy Link">Comedy</a></li>
+          <li><a href="http://eventful.com/events/categories/learning_education" class="localize" data-ga-label="Education Link">Education</a></li>
+          <li><a href="http://eventful.com/events/categories/movies_film" class="localize" data-ga-label="Film Link">Film</a></li>
+          <li><a href="http://eventful.com/events/categories/food" class="localize" data-ga-label="Food Link">Food</a></li>
+          <li><a href="http://eventful.com/events/categories/fundraisers" class="localize" data-ga-label="Fundraisers Link">Fundraisers</a></li>
+          <li><a href="http://eventful.com/events/categories/art" class="localize" data-ga-label="Galleries Link">Galleries</a></li>
+          <li><a href="http://eventful.com/events/categories/support" class="localize" data-ga-label="Health Link">Health</a></li>
+          <li><a href="http://eventful.com/events/categories/holiday" class="localize" data-ga-label="Holiday Link">Holiday</a></li>
+          <li><a href="http://eventful.com/events/categories/books" class="localize" data-ga-label="Literary Link">Literary</a></li>
+          <li><a href="http://eventful.com/events/categories/attractions" class="localize" data-ga-label="Museums Link">Museums</a></li>
+          <li><a href="http://eventful.com/events/categories/community" class="localize" data-ga-label="Neighborhood Link">Neighborhood</a></li>
+          <li><a href="http://eventful.com/events/categories/business" class="localize" data-ga-label="Networking Link">Networking</a></li>
+        </ul>
+        <ul>
+          <li><a href="http://eventful.com/events/categories/schools_alumni" class="localize" data-ga-label="On Campus Link">On Campus</a></li>
+          <li><a href="http://eventful.com/events/categories/clubs_associations" class="localize" data-ga-label="Organizations Link">Organizations</a></li>
+          <li><a href="http://eventful.com/events/categories/outdoors_recreation" class="localize" data-ga-label="Outdoors Link">Outdoors</a></li>
+          <li><a href="http://eventful.com/events/categories/animals" class="localize" data-ga-label="Pets Link">Pets</a></li>
+          <li><a href="http://eventful.com/events/categories/politics_activism" class="localize" data-ga-label="Politics Link">Politics</a></li>
+          <li><a href="http://eventful.com/events/categories/sales" class="localize" data-ga-label="Sales Link">Sales</a></li>
+          <li><a href="http://eventful.com/events/categories/science" class="localize" data-ga-label="Science Link">Science</a></li>
+          <li><a href="http://eventful.com/events/categories/religion_spirituality" class="localize" data-ga-label="Spirituality Link">Spirituality</a></li>
+          <li><a href="http://eventful.com/events/categories/technology" class="localize" data-ga-label="Technology Link">Technology</a></li>
+          <li><a href="http://eventful.com/events/categories/other" class="localize" data-ga-label="Other Link">Other</a></li>
+        </ul>
+        <ul class="bydate">
+          <li class="title">By Date</li>
+          <li><a href="http://eventful.com/events/categories/#!when=today&amp;page_size=10&amp;page_number=1" class="localize" data-ga-label="Today Link">Today</a></li>
+          <li><a href="http://eventful.com/events/categories/#!when=next 7 days&amp;page_size=10&amp;page_number=1" class="localize" data-ga-label="This Week Link">This Week</a></li>
+          <li><a href="http://eventful.com/events/categories/#!when=this weekend&amp;page_size=10&amp;page_number=1" class="localize" data-ga-label="This Weekend Link">This Weekend</a></li>
+          <li><a href="http://eventful.com/events/categories/#!when=next 30 days&amp;page_size=10&amp;page_number=1" class="localize" data-ga-label="This Month Link">This Month</a></li>
+        </ul>
+      </div>
+    </li>
   </ul>
 
   <ul id="sub-concerts" data-ga-action="Sub Nav">
-    <li class="sub-concerts first"><a id="sub-nav-alternative" href="http://eventful.com/events/categories/music_alternative" data-ga-label="Alternative Link" class="localize">Alternative</a></li>
-    <li class="sub-concerts"><a id="sub-nav-country" href="http://eventful.com/events/categories/music_country" data-ga-label="Country Link" class="localize">Country</a></li>
-    <li class="sub-concerts"><a id="sub-nav-dance" href="http://eventful.com/events/categories/music_dance" data-ga-label="Dance Link" class="localize">Dance</a></li>
-    <li class="sub-concerts"><a id="sub-nav-electronic" href="http://eventful.com/events/categories/music_electronic" data-ga-label="Electronic Link" class="localize">Electronic</a></li>
-    <li class="sub-concerts"><a id="sub-nav-heavy-metal" href="http://eventful.com/events/categories/music_metal" data-ga-label="Heavy Metal Link" class="localize">Heavy Metal</a></li>
-    <li class="sub-concerts"><a id="sub-nav-hip-hop-rap" href="http://eventful.com/events/categories/music_rap_hiphop" data-ga-label="Hip Hop/Rap Link" class="localize">Hip Hop/Rap</a></li>
-    <li class="sub-concerts"><a id="sub-nav-pop" href="http://eventful.com/events/categories/music_pop" data-ga-label="Pop Link" class="localize">Pop</a></li>
-    <li class="sub-concerts"><a id="sub-nav-rb-soul" href="http://eventful.com/events/categories/music_rb" data-ga-label="RnB/Soul Link" class="localize">R&amp;B/Soul</a></li>
-    <li class="sub-concerts"><a id="sub-nav-rock" href="http://eventful.com/events/categories/music_rock" data-ga-label="Rock Link" class="localize">Rock</a></li>
+    <li class="sub-concerts first"><a id="sub-nav-alternative" href="//eventful.com/events/categories/music_alternative" data-ga-label="Alternative Link" class="localize">Alternative</a></li>
+    <li class="sub-concerts"><a id="sub-nav-country" href="//eventful.com/events/categories/music_country" data-ga-label="Country Link" class="localize">Country</a></li>
+    <li class="sub-concerts"><a id="sub-nav-dance" href="//eventful.com/events/categories/music_dance" data-ga-label="Dance Link" class="localize">Dance</a></li>
+    <li class="sub-concerts"><a id="sub-nav-electronic" href="//eventful.com/events/categories/music_electronic" data-ga-label="Electronic Link" class="localize">Electronic</a></li>
+    <li class="sub-concerts"><a id="sub-nav-heavy-metal" href="//eventful.com/events/categories/music_metal" data-ga-label="Heavy Metal Link" class="localize">Heavy Metal</a></li>
+    <li class="sub-concerts"><a id="sub-nav-hip-hop-rap" href="//eventful.com/events/categories/music_rap_hiphop" data-ga-label="Hip Hop/Rap Link" class="localize">Hip Hop/Rap</a></li>
+    <li class="sub-concerts"><a id="sub-nav-pop" href="//eventful.com/events/categories/music_pop" data-ga-label="Pop Link" class="localize">Pop</a></li>
+    <li class="sub-concerts"><a id="sub-nav-rb-soul" href="//eventful.com/events/categories/music_rb" data-ga-label="RnB/Soul Link" class="localize">R&amp;B/Soul</a></li>
+    <li class="sub-concerts"><a id="sub-nav-rock" href="//eventful.com/events/categories/music_rock" data-ga-label="Rock Link" class="localize">Rock</a></li>
   </ul>
 
   <ul id="sub-movies" data-ga-action="Sub Nav">
@@ -817,35 +908,13 @@ Eventful.GADebug = false;
   </div>
 </div><!-- end popover-uni-search -->
 
-<div id="location-search" class="clearfix hidden">
-  <div id="header-location-change">
-
-      <label for="inp-header-location-change" class="">Location <span class="muted">(City or Zip)</span></label>
-      <input type="text" name="header-location-change" id="inp-header-location-change" value="" data-ta="typeahead-location" placeholder="Worldwide" class="input-xlarge" autocomplete="off">
-      
-  </div>
-
-  <div id="search">
-    <div id="uni-search" class="">
-
-      <form id="site-search" action="http://eventful.com/search" method="post">
-        
-        <input type="hidden" name="location_type" id="inp-location-type" value="">
-        <input type="hidden" name="location_id" id="inp-location-id" value="">
-        <input type="hidden" name="location" id="inp-location" value="Worldwide">
-        <input type="hidden" name="area" id="inp-area">
-        <label for="inp-uni-search">Search for <span class="muted">(eg. jazz, Zumanity, Coldplay or The Fillmore)</span></label>
-        <input type="text" name="q" id="inp-uni-search" value="" data-ta="typeahead-uni-search" class="text-input input-xlarge" autocomplete="off">
-        <i></i>
-        <button id="btn-search-submit" class="bn bn-grey bn-sz-lg" type="submit"><span class="bn-in"></span>Search</button>
-      </form>
-    </div>
-  </div> <!-- end search -->
-</div> 
 
 <script type="text/x-handlebars-template" id="tmpl-location-results">
   {{#each results}}
-    <li id="location-{{this.location_type}}-{{this.location_id}}" data-location-type="{{this.location_type}}" data-location-id="{{this.location_id}}">{{this.pretty_name}}</li>
+    <li id="location-{{this.location_type}}-{{this.location_id}}" data-location-type="{{this.location_type}}" data-location-id="{{this.location_id}}" {{#if this.original }}data-orig-location-type="{{this.original.location_type}}" data-orig-location-id="{{this.original.location_id}}"{{/if}}>
+      {{this.pretty_name}}
+      {{#subLocation this}}{{/subLocation}}
+    </li>
   {{/each}}
 </script>
 
@@ -857,7 +926,7 @@ Eventful.GADebug = false;
 
 <script type="text/x-handlebars-template" id="tmpl-uni-search">
   {{#each results}}
-    {{#unless sponsored}}<li class="cat-header cat-header-{{this.type}}">{{this.type}}</li>{{/unless}}
+    {{#unless sponsored}}<li class="cat-header cat-header-{{#if this.type}}{{this.type}}{{else}}myperformers{{/if}}">{{#if this.type}}{{this.type}}{{else}}My Performers{{/if}}</li>{{/unless}}
     <li class="{{#if sponsored}}sponsored{{/if}}" data-type="{{this.type}}" {{#if this.seid}}data-seid="{{this.seid}}"{{/if}} {{#if this.spid}}data-spid="{{this.spid}}"{{/if}} {{#if this.svid}}data-svid="{{this.svid}}"{{/if}} {{#if this.smid}}data-smid="{{this.smid}}"{{/if}} {{#if this.name_squish}}data-name-squish="{{this.name_squish}}"{{/if}} {{#if this.location_id}}data-location-id="{{this.location_id}}" data-location-type="{{this.location_type}}"{{/if}} {{#if this.cta_link}}data-cta-link="{{this.cta_link}}"{{/if}} data-new-tab="{{this.open_in_new_tab}}" {{#if sponsored}} data-ga-label="{{this.tracking}}"{{/if}}>
       {{truncate this.name 50}}
 
@@ -868,13 +937,6 @@ Eventful.GADebug = false;
       {{/if}}
     </li>
   {{/each}}
-</script>
-
-<script type="text/x-handlebars-template" id="tmpl-appeal">
-  <div id="appeal" data-ga-action="For You Appeal">
-    <a href="http://eventful.com/events/categories" class="bn bn-blue bn-sz-md bn-auto localize" data-ga-label="See Events For You Button">See Events For You</a>
-    <p><strong>Welcome!</strong> We're building recommendations for you based on this event!</p>
-  </div>
 </script>
 
 <script type="text/x-handlebars-template" id="tmpl-user">
@@ -889,9 +951,10 @@ Eventful.GADebug = false;
   <!--//
     $(document).ready(function() {
      if(window.no_header_search) return;
-      var header_forms = $('#location-search').removeClass('hidden').detach();
-      $('#header-main').append(header_forms);
+      // var header_forms = $('#location-search').removeClass('hidden').detach();
+      // $('#header-main').append(header_forms);
       Eventful.base_url = "http://eventful.com";
+      Eventful.localized_base_url = "http://eventful.com";
       Eventful.movies_base_url = "http://movies.eventful.com";
     });
   //-->
