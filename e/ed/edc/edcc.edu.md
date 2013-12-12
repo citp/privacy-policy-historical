@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629171416id_/http%3A//www.edcc.edu/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcc.edu privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212221516id_/http%3A//www.edcc.edu/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Edmonds Community College: About our College
+# Edmonds Community College: About Our College - Privacy Policy
 
-## Privacy Policy
-
-### Contact Information 
+## Contact Information
 
 You may contact Edmonds Community College as follows:
 
@@ -12,47 +10,44 @@ To review your personal information, or request correction of your personal info
 
 Mark Cassidy, Vice President of Human Resources  
 Edmonds Community College  
-20000 68th Avenue West  
+20000 68th Ave. W  
 Lynnwood, Washington U.S.A. 98036-5999  
-Fax: (425) 640-1359  
-Phone: (425) 640-1647  
-Email: mark.cassidy@edcc.edu
+425.640.1647 | mark.cassidy@edcc.edu  
+Fax: 425.640.1359
 
 To offer comments about the Edmonds Community College's website, or about the information presented in this Privacy Notice:
 
 Webmaster  
 Edmonds Community College  
-20000 68th Avenue West  
+20000 68th Ave. W  
 Lynnwood, Washington U.S.A. 98036-5999  
-Fax: (425) 640-1532  
-Phone: (425) 640-1459  
-Email: webmaster@edcc.edu
+425.640.1459 | webmaster@edcc.edu 
 
-### Cookies 
+## Cookies
 
 To better serve our users we are now using "cookies" to customize your browsing experience with the Edmonds Community College Web site. Cookies are simple text files stored on your computer by your web browser.
 
 Cookies created on your computer by using this website do not contain personally identifying information and do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying tag on your computer.
 
-### Security
+## Security
 
-The Edmonds Community College, as developer and manager of the Edmonds Community College Web site, takes precautions to safeguard personal information you provide through our web services.
+The Edmonds Community College, as developer and manager of the Edmonds Community College website, takes precautions to safeguard personal information you provide through our web services.
 
 This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the Edmonds Community College websites.
 
-### Disclaimer
+## Disclaimer
 
 The Edmonds Community College website has many links to other websites. These include links to websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Edmonds Community College website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site.
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
 
-### Review and Correction of Personally Identifiable Information
+## Review and Correction of Personally Identifiable Information
 
 You can review any personally identifiable information we collect about you by using the information in the Contact Information section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting an email or written request that credibly shows the inaccuracy.
 
 We will take reasonable steps to verify your identity before granting access or making corrections. (RCW 43.105.310)
 
-### Information Collected and How it is Used 
+## Information Collected and How it Is Used
 
 Information collected if you only browse this site.
 
@@ -70,7 +65,7 @@ The website you visited prior to coming to this website.
 
 The information we automatically collect or store is used by Edmonds Community College only to improve the content of our web services and to help us understand how people are using our services. Edmonds Community College analyzes the website logs to determine how our website is being used, so that we may continually improve the site's usefulness to the public.
 
-What we collect if you volunteer information.
+### What We Collect if You Volunteer Information:
 
 If during your visit to our website you participate in a survey, send an email, or perform some other transaction on-line, the following additional information will be collected:
 
@@ -84,7 +79,7 @@ The information collected is not limited to text characters and may include audi
 
 We use your email to respond appropriately. This may be to respond to you, to address issues you may identify, to further improve our website, or to forward the email to another agency for appropriate action. Survey information is used improve the content of our web services. Information from other online forms is used to improve the content of our web services and to help us understand how people are using our services, and to contact users about college programs, class information, events, and other services.
 
-### Personal Information and Choice
+## Personal Information and Choice
 
 You may choose whether to provide personal information online.
 
@@ -98,7 +93,7 @@ If you believe that your personal information is being used for a purpose other 
 
 The Edmonds CC website is a general audience site and we do not knowingly collect any personal information from children. Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
 
-### Public Access to Information
+## Public Access to Information
 
 In the state of Washington, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both state and federal laws.
 
@@ -106,4 +101,4 @@ All of the information collected at this site becomes public records that may be
 
 Each agency, in accordance with published rules, shall make available for public inspection and copying all public records, unless the record falls within the specific exemptions of subsection (6) of this section [RCW 42.17.260(6)], RCW 42.17.310, 42.17.315, or other statute which exempts or prohibits disclosure of specific information or records. To the extent required to prevent an unreasonable invasion of personal privacy interests protected by RCW 42.17.310 and 42.17.315, an agency shall delete identifying details in a manner consistent with RCW 42.17.310 and 42.17.315 when it makes available or publishes any public record; however, in each case, the justification for the deletion shall be explained fully in writing.
 
-In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the agency’s disclosure of records, the Public Records Act or other applicable law will control.
+In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the agency’s disclosure of records, the Public Records Act or other applicable law will control. 
