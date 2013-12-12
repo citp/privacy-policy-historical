@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614040030id_/http%3A//www.studentuniverse.com/students/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212121049id_/http%3A//www.studentuniverse.com/students/privacy-policy) for the most accurate reproduction.*
 
 # StudentUniverse | Students - Privacy Policy
 
@@ -64,7 +64,7 @@ This site contains links to other websites. StudentUniverse.com, Inc is not resp
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with StudentUniverse.com, Inc on this website, [send us an email](https://web.archive.org/students/feedback) or you can contact:  
 StudentUniverse  
-First Floor  
-230 Third Avenue  
-Waltham, MA 02451  
+130 Turner Street  
+Suite 530  
+Waltham, MA 02453  
 
