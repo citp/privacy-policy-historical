@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejobresults.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604174755id_/http%3A//www.thejobresults.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejobresults.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212042041id_/http%3A//www.thejobresults.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,7 @@ If you posting your personal information (like Phone No., Home Address or Email 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include 
 
   * **_Google Adsense_**
+  * **_Infolinks_**
 
 
 
@@ -39,4 +40,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 **Changes to this privacy policy**  
 The Job Results has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site; revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
- _ _This document was last updated on March 11, 2013__
+ _ _This document was last updated on August 02, 2013__
