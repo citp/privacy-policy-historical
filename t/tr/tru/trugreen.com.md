@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035251id_/http%3A//trugreen.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212093334id_/http%3A//trugreen.com/about/privacy-policy) for the most accurate reproduction.*
 
 # TruGreen Privacy Policy | TruGreen
 
-###  Privacy Policy 
-
-The TruGreen Companies is committed to protecting the privacy of our users' personal information. To better protect your privacy, we have instituted the security and privacy practices outlined in this policy. We provide this notice explaining our information practices and the choices you can make about the way your information is used. Our privacy policy contains the following information:
+Privacy Policy  The TruGreen Companies is committed to protecting the privacy of our users' personal information. To better protect your privacy, we have instituted the security and privacy practices outlined in this policy. We provide this notice explaining our information practices and the choices you can make about the way your information is used. Our privacy policy contains the following information:
 
   * Information The TruGreen Companies collects and how it is used
   * Disclosure of information to outside parties
