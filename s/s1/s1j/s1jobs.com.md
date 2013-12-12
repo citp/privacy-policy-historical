@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613083123id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1jobs.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212082617id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,8 +33,6 @@ We may occasionally request your postcode details in order to ensure that we onl
 When you register with the Site, you can elect to receive information and updates on our products and services by email and SMS. Will not use these addresses for any other purpose unless you give us your express permission to do so.
 
 We use return email addresses to answer any emails that we receive, and we may use return email addresses to send you other information that you request. Such addresses are not used for any other purpose.
-
-To complete your registration in the Candidate Database area of the Site to your permission will be required to receive an email every six months from the Site which in turn requests you renew your candidate profile in the Candidate Database area.
 
 We use the non-personally identifiable information we collect, including data collected by cookies, to track user trends -- for example how users search for vacancies -- to provide you with a tailored experience and to improve the quality of our services. We may also use cookies to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. If you have submitted personally identifiable information to one of our websites then we may combine this information with the non-personally identifiable information that we collect in order to further enhance the service that we provide.
 
@@ -73,6 +71,8 @@ Because we want your experience of the Site to be as informative and useful as p
 **Our Commitment to Data Security**
 
 We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+
+Note that some parts of our service, such as file uploading, may require the storage of some of your information outside the European Union.
 
 **Changes in Our Policy**
 
