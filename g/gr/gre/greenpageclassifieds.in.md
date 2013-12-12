@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenpageclassifieds.in privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331150033id_/http%3A//www.greenpageclassifieds.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpageclassifieds.in privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212090952id_/http%3A//www.greenpageclassifieds.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Greenpage Classifieds - Post Free Classifieds In India,Free Indian Classified Website
+# Privacy Policy - Greenpage Classifieds
 
 ## Privacy Policy
 
