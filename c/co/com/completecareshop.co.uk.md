@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612220904id_/http%3A//www.completecareshop.co.uk/shop-information/9/your_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212080128id_/http%3A//www.completecareshop.co.uk/shop-information/9/your_privacy.html) for the most accurate reproduction.*
 
 # Your Privacy | Disability aids | Elderly aids
 
-[ ](https://web.archive.org/index.html)
+[ ](https://web.archive.org/)
 
 Items in basket: 0,   Value of basket: £0.00[ ](https://web.archive.org/orderprocess/1/checkout.html)
 
