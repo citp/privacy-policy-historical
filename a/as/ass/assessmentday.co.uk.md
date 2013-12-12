@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assessmentday.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605044742id_/http%3A//www.assessmentday.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assessmentday.co.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212051843id_/http%3A//www.assessmentday.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | AssessmentDay.co.uk
 
