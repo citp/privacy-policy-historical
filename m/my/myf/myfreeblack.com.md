@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfreeblack.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508134526id_/http%3A//www.myfreeblack.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeblack.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212235259id_/http%3A//www.myfreeblack.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MyfreeBlack.com
 
 **The Information myfreeblack Collects:**  
 **User Provided Information:** You provide certain personally identifiable information (such as your name, email and in some cases mailing address) to myfreeblack when choosing to participate in various activities on the myfreeblack Sites such as uploading videos, posting messages or in the photo/video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
@@ -29,4 +29,4 @@ We do share non-personally-identifiable information (such as anonymous User usag
 
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order,subpoena, or search warrant. 
 
-myfreeblack also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that myfreeblack believes, in good faith, is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of myfreeblack, our Users or others. 
+myfreeblack also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that myfreeblack believes, in good faith, is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of myfreeblack, our Users or others.
