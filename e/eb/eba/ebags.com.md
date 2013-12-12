@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601003116id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212025722id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - eBags.com
 
 ### Our Privacy Pledge
+
+[](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.ebags.com&lang=en&toobar=no)
 
   
 
@@ -41,7 +43,7 @@ Our Affiliate Program is administered by Commission Junction. Any information co
 The following describes some of the ways that your personally identifiable information may be disclosed:
 
 **Fulfillment**  
-During the purchase process, we will share your information with certain intermediaries (e.g. UPS, APX, USPS, FedEx, Paymentech, Product Manufacturers) strictly to process and ship your order.
+During the purchase process, we will share your information with certain intermediaries (e.g. UPS, APX, USPS, FedEx, Payment Processing Service Provider, Product Manufacturers) strictly to process and ship your order.
 
 **Promotional Offers**  
 At times we may present or send offers to select eBags subscribers on behalf of other parties. When we do this, we do not give that company your personally identifiable information without your consent. If you do not want to receive such communications, please edit your account preferences.
@@ -68,7 +70,7 @@ You may ask to have your account information removed from our active databases; 
 
 ### Security
 
-The eBags Security Pledge protects you while you shop at eBags so that you never have to worry about credit card safety. We guarantee that every transaction you make at eBags will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at eBags. eBags' servers use Secure Sockets Layer (SSL), an encryption technology that works with Netscape, Microsoft Internet Explorer, and AOL's browser, so that only eBags can read a buyer's personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will transmit the entire credit card number to the appropriate credit card company during order processing.
+The eBags Security Pledge protects you while you shop at eBags so that you never have to worry about credit card safety. We guarantee that every transaction you make at eBags will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at eBags. eBags' servers use Secure Sockets Layer (SSL), an encryption technology that works with all modern web browsers, so that only eBags can read a buyer's personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will transmit the entire credit card number to the appropriate credit card company during order processing.
 
 ### A special note about children's privacy
 
@@ -82,7 +84,7 @@ eBags reserves the right to change, modify, add or remove portions of this Polic
 
 If you have further questions about eBags' Privacy Policy or comments on how we can improve the eBags shopping experience, please do not hesitate to email us at [privacy@ebags.com](mailto:privacy@ebags.com).
 
-Need more help? You can refer to our Help Center or email one of our friendly Customer Help Specialists at [help@ebags.com](mailto:help@ebags.com).
+Need more help? You can refer to our Help Center, email one of our friendly Customer Help Specialists at [help@ebags.com](mailto:help@ebags.com) or call 1-800-820-6126.
 
 You may also write to us at:  
 Privacy Manager  
