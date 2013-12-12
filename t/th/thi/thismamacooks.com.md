@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623004729id_/http%3A//www.thismamacooks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212024610id_/http%3A//www.thismamacooks.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy for This Mama Cook! On a Diet and This Mama Cooks! Reviews
+# Privacy policy for TMC! On a Diet & TMC! Reviews
 
 This Mama Cooks LLC has created this privacy statement in order to demonstrate a firm commitment to privacy. The following discloses my information gathering and dissemination practices for [thismamacooks.com](https://web.archive.org/) and [thismamacooks.net](http://www.thismamacooks.net/).
 
@@ -29,5 +29,3 @@ This site gives users the option to remove their information from our mailing li
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this blog, fill out my [contact form](http://www.thismamacooks.com/contact-me).
 
 _**Updated 8/25/10**_
-
-Posted on August 12, 2008 in 
