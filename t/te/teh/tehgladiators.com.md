@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tehgladiators.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613120931id_/http%3A//www.tehgladiators.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehgladiators.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212085745id_/http%3A//www.tehgladiators.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,4 +59,4 @@ TehGladiators
 Majora Ilica 13, 11000 Belgrade, Serbia  
 contact@tehgladiators.com
 
-This document was last updated on October 12, 2012
+This document was last updated on October 12, 2012.
