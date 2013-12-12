@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526085356id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212070020id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
 
 # Kiddicare - Privacy and Cookies| Online baby shop | Nursery Equipment
 
