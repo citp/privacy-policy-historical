@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allmyvideos.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602034455id_/http%3A//allmyvideos.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmyvideos.net privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213003913id_/http%3A//www.allmyvideos.net/privacy.html) for the most accurate reproduction.*
 
-# allmyvideos.net - Dziel sie danymi z innymi
+# allmyvideos.net - Reliable,Fast, Secure video hosting
 
 ### Privacy Policy
 
