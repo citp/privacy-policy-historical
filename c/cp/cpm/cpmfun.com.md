@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpmfun.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603134134id_/http%3A//www.cpmfun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmfun.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212190551id_/http%3A//www.cpmfun.com/privacy.php) for the most accurate reproduction.*
 
-# CPM Fun :: Entertainment CPM Network
+# CPM Fun :: Highest Paying CPM Network
 
 **CPM FUN PUBLISHING PRIVACY POLICY**  
 At CPM Fun we represent online publishers and their properties ("Publisher Properties") to advertisers and support other properties sponsored by advertiser clients ("Client-Sponsored Properties"). Because we understand the importance of your privacy, we take safeguarding your personal information very seriously. We are providing the following Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the personally identifiable information collected from you during your use of any CPM Fun website whether from (i) a Client-Sponsored Property or other website on cpmfun.com (the "CPM Fun domain") (such as the CPM Fun home page at (http://www.cpmfun.com/)) or (ii) a Client-Sponsored Property on a different domain (each a "Site" together our "Sites"). You'll know you're on one of our Sites because a version of this Privacy Policy will be posted.  
