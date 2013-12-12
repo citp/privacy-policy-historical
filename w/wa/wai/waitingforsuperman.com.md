@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the waitingforsuperman.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528213323id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitingforsuperman.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212172118id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TakePart
 
-Effective Date: These Terms of Service were last revised on May 16, 2013. You may print this document for your records.
+**Please note:** this video is only intended to highlight important information contained in the Privacy Policy and is not in any way intended to be a substitute for the official, legally binding document, which is found below.
+
+* * *
+
+Effective Date: This Privacy Policy was last revised on May 16, 2013. You may print this document for your records.
 
 ### _Introduction and Overview_
 
@@ -286,7 +290,7 @@ Our third-party ad network and exchange providers, the advertisers, the sponsors
 
 Third-party Tracking Technologies are not controlled by us, even if they are used to serve our ads or interact with our Service. Statements regarding our practices do not apply to the methods for collecting information used by these third parties or the use of the information that such third parties collect. We do however work with third parties to make efforts to have you provided with information on their practices and any available opportunity to exercise choice. The relevant third party’s terms of service, privacy policy, permissions, notices and choices should be reviewed regarding their collection, storage and sharing practices. We make no representations regarding the policies or practices of third-party advertisers or advertising networks or exchanges or related third parties.
 
-However, some third parties we work with may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available information we have been informed of regarding such choices is available  **here**. Further, while we and third-party sites that display our ads may use a variety of companies to serve advertisements, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members. Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you, which will affect this and other sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective. Therefore, if you use multiple Devices or multiple browsers on a single Device, you need to opt-out by clicking the orange opt-out icon for each browser that you use on your Device. Additionally, if you delete your cookies, change browsers, or use a different Device, you will need to opt-out again. Additional information is available on the NAI’s web site accessible by the above link. Where we serve third-party Behavioral Ads on the [Service](http://www.takepart.com/terms-of-use) we participate in the notice and opt-out program run by the Digital Advertising Alliance (“ **DAA** ”), and you can learn more about it and the opt-out choices it offers at <http://www.aboutads.info/choices/#completed>. Where we serve our own Behavioral Ads on third-party sites, we request that they comply with the DAA program so that you have the same notice and opt-out choice. Please note that similar limitations as described regarding NAI opt-out may apply to the DAA opt-out. In the event that we allow third parties to display advertisements that are directly targeted at users in the EU, please visit [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) to learn more about your options. Similar limitations may apply to these opt-out methods. We are not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs.
+However, some third parties we work with may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available information we have been informed of regarding such choices is available  **here**. Further, while we and third-party sites that display our ads may use a variety of companies to serve advertisements, you may wish to visit <http://www.networkadvertising.org/choices/>, which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members. Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you, which will affect this and other sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective. Therefore, if you use multiple Devices or multiple browsers on a single Device, you need to opt-out by clicking the orange opt-out icon for each browser that you use on your Device. Additionally, if you delete your cookies, change browsers, or use a different Device, you will need to opt-out again. Additional information is available on the NAI’s web site accessible by the above link. Where we serve third-party Behavioral Ads on the [Service](http://www.takepart.com/terms-of-use) we participate in the notice and opt-out program run by the Digital Advertising Alliance (“ **DAA** ”), and you can learn more about it and the opt-out choices it offers at <http://www.aboutads.info/choices/#completed>. Where we serve our own Behavioral Ads on third-party sites, we request that they comply with the DAA program so that you have the same notice and opt-out choice. Please note that similar limitations as described regarding NAI opt-out may apply to the DAA opt-out. In the event that we allow third parties to display advertisements that are directly targeted at users in the EU, please visit [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) to learn more about your options. Similar limitations may apply to these opt-out methods. We are not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs.
 
 **7.          How Do I Change My Information and Communications Preferences?**
 
@@ -342,7 +346,7 @@ Analytics
 
 | 
 
-<http://www.adobe.com/products/sitecatalyst.html>
+<http://www.adobe.com/solutions/digital-analytics/marketing-reports-analytics.html>
 
 | 
 
@@ -351,6 +355,24 @@ Yes
 | 
 
 Adobe Site Catalyst data is used for internal purposes only and not shared with any third-party.  
+  
+AdoTube
+
+| 
+
+Audience Discovery
+
+| 
+
+<http://exponential.com/our-company/privacy/>
+
+| 
+
+Yes
+
+| 
+
+<http://exponential.com/success/>  
   
 AdRoll
 
@@ -368,7 +390,7 @@ Yes
 
 | 
 
-<http://www.networkadvertising.org/choices>  
+<http://www.networkadvertising.org/choices/>  
   
 Blue State Digital
 
@@ -404,7 +426,7 @@ Yes
 
 | 
 
-<http://www.networkadvertising.org/choices>  
+<http://www.networkadvertising.org/choices/>  
   
 DoubleClick for Small Business
 
@@ -504,7 +526,7 @@ Audience Measurement
 
 | 
 
-<http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
+<https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
 
 | 
 
@@ -513,6 +535,24 @@ Yes
 | 
 
 <https://www.quantcast.com/opt-out>  
+  
+Tribal Fusion
+
+| 
+
+Audience Discovery
+
+| 
+
+<http://exponential.com/our-company/privacy/>
+
+| 
+
+Yes
+
+| 
+
+<http://exponential.com/success/>  
   
 Waterfall Mobile
 
