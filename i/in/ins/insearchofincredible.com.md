@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insearchofincredible.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611024350id_/http%3A//www.asus.com/ContentPage.aspx%3FContent_Type%3Dbottom%26Content_Id%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insearchofincredible.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212082124id_/http%3A//www.asus.com/ContentPage.aspx%3FContent_Type%3Dbottom%26Content_Id%3D18) for the most accurate reproduction.*
 
 # 
 
