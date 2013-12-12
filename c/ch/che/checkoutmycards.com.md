@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkoutmycards.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605081612id_/http%3A//www.comc.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkoutmycards.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213004411id_/http%3A//www.comc.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - COMC
 
@@ -8,4 +8,4 @@ When ordering from us, we request your name, mailing address, email address, and
 
 Since COMC.com payments are made via PayPal, please see [PayPal’s Privacy Policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside). 
 
-If you have any questions or concerns about your privacy at COMC.com, please [contact us](https://web.archive.org/ContactUs.aspx). 
+If you have any questions or concerns about your privacy at COMC.com, please [contact us](https://www.comc.com/ContactUs.aspx). 
