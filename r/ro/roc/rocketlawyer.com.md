@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526132434id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212045821id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Rocket Lawyer Privacy Policy
 
@@ -45,6 +45,8 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
   
 ### Security of your Personal Information  
   
+You are responsible for safeguarding and preventing unauthorized access to the user information and password that you use to access the Rocketlawyer.com website. You agree not to disclose your password to any third party and you are responsible for any activity using your account, whether or not you authorized that activity. You must immediately notify Rocket Lawyer of any unauthorized use of your account. 
+
 RocketLawyer.com secures your personal information from unauthorized access, use or disclosure. RocketLawyer.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.  
   
    
