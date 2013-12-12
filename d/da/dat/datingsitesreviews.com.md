@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513050105id_/http%3A//www.datingsitesreviews.com/staticpages/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingsitesreviews.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212204024id_/http%3A//www.datingsitesreviews.com/staticpages/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dating Sites Reviews
 
@@ -18,7 +18,7 @@ Our site's registration form requires users to give us contact information (i.e.
 **External Links**  
 This site contains links to other sites. DatingSitesReviews.com is not responsible for the privacy practices or the content of such web sites.
 
-**Public Forms & Comments**  
+**Public Forums & Comments**  
 This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. While we do our best to ensure only appropriate information is posted, we cannot and do not assume responsibility for our user's postings. **All postings are property of their respective author.** Improper language is automatically censored by the system. All submissions are subject to our editorial control \-- editorial changes will be indicated.
 
 **Security**  
@@ -31,6 +31,6 @@ This site gives users control over their user experience and content that they m
 DatingSitesReviews.com is not liable for any damages caused by any of the site content, whether directly provided by DatingSitesReviews.com its employees or not.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [Admin](https://web.archive.org/profiles.php?uid=2)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact the [Admin](https://web.archive.org/profiles.php?uid=2).
 
-Last Updated: Tuesday, August 09 2011 @ 05:22 PM|Hits: 13,960 [](http://www.datingsitesreviews.com/staticpages/index.php?page=privacy-policy&disp_mode=print)
+Last Updated: Sunday, July 21 2013 @ 09:03 PM|Hits: 14,938 [](http://www.datingsitesreviews.com/staticpages/index.php?page=Privacy-Policy&disp_mode=print)
