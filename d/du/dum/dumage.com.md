@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumage.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626224240id_/http%3A//www.dumage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumage.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212045507id_/http%3A//www.dumage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dumage
 
