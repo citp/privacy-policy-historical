@@ -1,121 +1,7 @@
-<!--The following is the downloaded HTML source of the centurynovelty.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508082737id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centurynovelty.com privacy policy that was archived on 2013-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212061404id_/http%3A//www.centurynovelty.com/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html slick-uniqueid="1"><head><meta scheme="a1afcc517bec909bf5c3fddea7c83c3d" name="TScf5496" content="02f500735a8f558b"><!--9cc5da25f89a21d1fbb5ffa18da0bb73--><script type="text/javascript">if(window.addEventListener){window.addEventListener("load",fetchcsloader,false);}else{if(window.attachEvent){window.attachEvent("onload",fetchcsloader);}else{onload=fetchcsloader;}}
-var jsepee={};jsepee['ILLEGAL_VALUE']=0xffff;jsepee['DEFAULT_PORT']="80";var e=document.getElementsByTagName('meta');jsepee['CSHUI_RANDOM_DATA_NODE']=null;for(var i=0;i<e.length;i++){if(e[i].getAttribute('scheme')&&e[i].getAttribute('scheme')==='a1afcc517bec909bf5c3fddea7c83c3d'){jsepee['CSHUI_RANDOM_DATA_NODE']=e[i];}}
-if(jsepee['CSHUI_RANDOM_DATA_NODE']!==undefined&&jsepee['CSHUI_RANDOM_DATA_NODE']!==null){jsepee['CSHUI_COOKIE_NAME']=jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('name')+'_77';jsepee['CSHUI_COOKIE_VALUE_TRUE']='true'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content');jsepee['CSHUI_MONITOR_KEYBOARD']=true;jsepee['CSHUI_MONITOR_MOUSE']=true;}
-jsepee['CSHUI_MOUSEMOVE_EVENTS_TARGET']=3;jsepee['CSHUI_MOUSEMOVE_MAX_EVENTS']=1024;jsepee['CSHUI_MOUSEMOVE_EVENTS_COUNTER']=0;jsepee['CSHUI_MOUSEMOVE_LAST_X_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_LAST_Y_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_IS_CONTINUOUS']=0;jsepee['CSHUI_KEYBOARD_EVENTS_TARGET']=1;jsepee['CSHUI_KEYBOARD_EVENTS_COUNTER']=0;jsepee.new_url=function(){return{'literal':"",'methodId':this.method2id("GET"),'host':"",'port':"",'protocolId':"",'path':"",'fileExtension':"",'parameters':[]};};jsepee.new_das_item=function(){return{'page':{'URL':this.new_url(),'referrer':this.new_url(),'characterEncoding':"UTF-8",'cookie':[]},'links':{},'forms':{},'cshui':'false'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content')};};jsepee.new_das=function(){return{};};jsepee['das']=jsepee.new_das();jsepee.protocol2id=function(protocol){if(protocol=="http:"){return 0;}else if(protocol=="https:"){return 1;}
-return this.ILLEGAL_VALUE;};jsepee.get_file_extension=function(path){var lastIndexOfSlash=path.lastIndexOf("/");var file="";if(lastIndexOfSlash<0){file=path;}else{file=path.substring(lastIndexOfSlash+1);}
-var lastIndexOfDot=file.lastIndexOf(".");var ext="";if(lastIndexOfDot>=0){ext=file.substring(lastIndexOfDot+1);}
-return ext;};jsepee.extract_parameters_from_query_string=function(search){if(!search){return[];}
-var item=search.substring(1).split("&");var params=[];for(var i=0;i<item.length;++i){var pair=item[i].split("=");params.push({name:pair[0],value:decodeURIComponent(pair[1])});}
-return params;};jsepee.get_parsed_url=function(a){return{'literal':a.href,'host':a.host,'port':a.port||this['DEFAULT_PORT'],'protocolId':this.protocol2id(a.protocol),'path':a.pathname,'fileExtension':this.get_file_extension(a.pathname),'parameters':this.extract_parameters_from_query_string(a.search)};};jsepee.is_relative_url=function(u){return/^\w+:/.test(u)===false;
-};
-
-jsepee.parse_url = function(w,nu){
- var a = w.document.createElement("a");
- a.href = nu;
- var parsed_url = this.get_parsed_url(a);
- if (this.is_relative_url(parsed_url.literal)){
-  a.href = this.url2abs(w,nu);
- }
- parsed_url = this.get_parsed_url(a);
- return parsed_url;
-};
-
-jsepee.update_page_URL = function(w) {
- var this_page = this['das'][w.location.href];
- var this_URL = this_page['page']['URL'];
- this_URL['literal']= w.location.href;
- this_URL['host']= w.location.host;
- this_URL['port']= w.location.port || this['DEFAULT_PORT'];
- this_URL['protocolId']= this.protocol2id(w.location.protocol);
- this_URL['path']= w.location.pathname;
- this_URL['fileExtension']= this.get_file_extension(this_URL['path']);
- this_URL['_parameters']= this.extract_parameters_from_query_string(w.location.search);
- return this;
-};
-
-jsepee.update_page_referrer = function(w) {
- var r = this.parse_url(w,w.document.referrer);
- var this_page = this['das'][w.location.href];
- var this_referrer = this_page['page']['referrer'];
- this_referrer['literal'] = r['literal'];
- this_referrer['host'] = r['host'];
- this_referrer['port'] = r['port'] || this['DEFAULT_PORT'];
- this_referrer['protocolId'] = r['protocolId'];
- this_referrer['path'] = r['path'];
- this_referrer['fileExtension'] = r['fileExtension']; 
- this_referrer['parameters'] = r['parameters']; 
-
- return this;
-};
-
-jsepee.update_page_characterEncoding = function(w) {
- var ce = w.document.characterSet;
- if (!w.document.characterSet) {
-  ce=w.document.charset;
-  if (!w.document.charset) {
-   ce = w.document.defaultCharset;
-  }
- }
- if (!ce) {
-  ce = "JSEPEE could not identify character encoding";
- }
- var this_page = this['das'][w.location.href];
- this_page.page.characterEncoding = ce;
- return this;
-};
-
-jsepee.is_cookie_enabled = function(w) {
- if (typeof w.document.cookie == "string"){
-  if (w.document.cookie.length != 0){
-   return true;
-  }
-  w.document.cookie = 'test';
-  var is_cookie_enabled = w.document.cookie == 'test';
-  w.document.cookie = "";
-  return is_cookie_enabled;
- }
- return false;
-};
-
-jsepee.extract_cookies = function(w) {
- var my_cookies = w.document.cookie || window.document.cookie || document.cookie;
- var cookies = [];
- var chunk = my_cookies.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);var cookie_name=pair[0];var cookie_value=pair.slice(1,pair.length).join('');cookies.push({name:cookie_name,value:cookie_value});}
-return cookies;};jsepee.update_page_cookies=function(w){if(this.is_cookie_enabled(w)===false){return this;}
-var this_page=this['das'][w.location.href];this_page.page.cookie=this.extract_cookies(w);return this;};jsepee.update_page=function(w){this.update_page_URL(w).update_page_referrer(w).update_page_characterEncoding(w).update_page_cookies(w);return this;};jsepee.update_parsed_url=function(w,pu){if(!this['das'][w.location.href]['links'].hasOwnProperty(pu['literal'])){this['das'][w.location.href]['links'][pu['literal']]={'literal':pu['literal'],'methodId':this.method2id("GET"),'host':pu['host'],'port':pu['port']||this[DEFAULT_PORT],'protocolId':pu['protocolId'],'path':pu['path'],'fileExtension':pu['fileExtension'],'parameters':pu['parameters']};}
-return this;};jsepee.get_html_url_sources=function(){return{"a":["href"],"applet":["code","codebase"],"area":["href"],"bgsound":["src"],"body":["background"],"embed":["src"],"frame":["longdesc","src"],"head":["profile"],"iframe":["longdesc","src"],"img":["longdesc","src","usemap"],"input":["action","src","usemap"],"link":["href"],"object":["codebase","data","usemap"],"script":["src"],"td":["background"]};};jsepee.update_links=function(w){var link=this.get_html_url_sources();for(var t in link){if(link.hasOwnProperty(t)===false){continue;}
-var node=w.document.getElementsByTagName(t);for(var i=0;i<node.length;++i){for(var j=0;j<link[t].length;++j){var n=node[i];var url=n.getAttribute(link[t][j]);if(url){this.update_parsed_url(w,this.parse_url(w,url));}}}}
-return this;};jsepee.make_form_key=function(index,action,method){return index+"|"+action+"|"+method;};jsepee.resolve_form_action_url=function(w,indx){if(w.document.forms[indx].getAttribute('action')===undefined){return w.location.href;}
-var u=w.document.forms[indx].getAttribute('action');var parsed_url=this.parse_url(w,u);return parsed_url.literal;};jsepee.resolve_form_method=function(w,indx){return w.document.forms[indx].getAttribute('method')?w.document.forms[indx].getAttribute("method").toUpperCase():"GET";};jsepee.parameter_type_enumeration={"time":0,"button":1,"checkbox":2,"file":3,"hidden":4,"image":5,"password":6,"radio":7,"submit":8,"text":9,"textarea":10,"option":11,"select":11,"select-multiple":11,"select-one":11,"range":12,"color":13,"search":14,"month":15,"url":16,"week":17,"datetime":18,"reset":19,"email":20,"number":21,"datetime-local":22,"date":23};jsepee.parameter_type2id=function(pt){if(this.parameter_type_enumeration.hasOwnProperty(pt)){return this.parameter_type_enumeration[pt];}
-return this.ILLEGAL_VALUE;};jsepee.make_parameter_key=function(parameter_name,parameter_type_id){return parameter_name+"|"+parameter_type_id;};jsepee.update_form_parameters=function(page_form,das_form){for(var i=0;i<page_form.elements.length;++i){var e=page_form.elements[i];var pname=e.name;if(pname===undefined){pname='';}
-var p={'name':pname,'type':e.type,'typeId':this.parameter_type2id(e.type.toLowerCase()),'value':{}};var pvalue='IF YOU SEE THIS VALUE THEN YOU HAVE A JSEPEE BUG';if(e.tagName=="INPUT"||e.tagName=="TEXTAREA"){pvalue=e.value;if(pvalue===undefined){pvalue='';}
-p.value[pvalue]=pvalue;}else{for(var j=0;j<e.options.length;++j){pvalue=e.options[j].value;if(pvalue===undefined){pvalue="";}
-p.value[pvalue]={pvalue:pvalue};}}
-var parameter_key=this.make_parameter_key(p['name'],p['typeId']);p.parameter_key=parameter_key;if(!das_form['parameters'].hasOwnProperty(parameter_key)){das_form['parameters'][parameter_key]=p;}else{for(var v in p['value']){if(!p['value'].hasOwnProperty(v)){continue;}
-das_form['parameters'][parameter_key]['value'][v]={v:v};}}}};jsepee.method_enumeration={"GET":1,"POST":2,"OPTIONS":3,"HEAD":4,"PUT":5,"DELETE":6,"TRACE":7,"CONNECT":8,"PROPPATCH":9,"ACL":10,"PROPFIND":11,"COPY":12,"MOVE":13,"LOCK":14,"MKCOL":15,"UNLOCK":16,"CHECKOUT":17,"CHECKIN":18,"REPORT":19,"VERSION_CONTROL":20,"MERGE":21};jsepee.method2id=function(http_method){if(this.method_enumeration.hasOwnProperty(http_method)){return this.method_enumeration[http_method];}
-return ILLEGAL_VALUE;};jsepee.update_forms=function(w){var f=this['das'][w.location.href]['forms'];for(var i=0;i<w.document.forms.length;++i){var action=this.parse_url(w,this.resolve_form_action_url(w,i));var method=this.resolve_form_method(w,i);var methodId=this.method2id(method);action['methodId']=methodId;var form_key=this.make_form_key(i,action['literal'],method);if(!f.hasOwnProperty(form_key)){f[form_key]={'methodId':methodId,'action':action,'parameters':{},'form_key':form_key};}
-this.update_form_parameters(w.document.forms[i],f[form_key]);}
-return this;};jsepee.traverse=function(w){this.update_links(w).update_forms(w);return this;};jsepee.implant_human_user_activity_indicator_event_listeners=function(w){var that=this;this.log_mousemove_event=function(e){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
-if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}
-return;};this.log_keyboard_event=function(e){if(that.das[w.location.href].cshui==that['CSHUI_COOKIE_VALUE_TRUE']){return;}
-that['CSHUI_KEYBOARD_EVENTS_COUNTER']++;if(that['CSHUI_KEYBOARD_EVENTS_TARGET']<=that['CSHUI_KEYBOARD_EVENTS_COUNTER']){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
-if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}}};if(this['CSHUI_MONITOR_MOUSE']){if(w.document.addEventListener){w.document.addEventListener('mousemove',this.log_mousemove_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'mousemove',this.log_mousemove_event);}else{w['on'+'mousemove']=this.log_mousemove_event;}}
-if(this['CSHUI_MONITOR_KEYBOARD']){if(w.document.addEventListener){w.document.addEventListener('keypress',this.log_keyboard_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'keypress',this.log_keyboard_event);}else{w['on'+'keypress']=this.log_keyboard_event;}}
-return this;};jsepee.load_factory=function(w){var that=this;this.do_on_load=function(){if(that['CSHUI_RANDOM_DATA_NODE']!==undefined&&that['CSHUI_RANDOM_DATA_NODE']!==null){that.implant_human_user_activity_indicator_event_listeners(w);}
-that.update_page(w).traverse(w);return that;};return this.do_on_load();};jsepee.getHTTPObject=function(w){var xhr=false;if(window.XMLHttpRequest){xhr=new XMLHttpRequest();}else if(window.ActiveXObject){try{xhr=new ActiveXObject("Msxml2.XMLHTTP");}catch(e){try{xhr=new ActiveXObject("Microsoft.XMLHTTP");}catch(e){xhr=false;}}}
-return xhr;};jsepee.parseResponse=function(request){if(request.readyState==4){if(request.status==200||request.status==304){}else{}}
-return this;};jsepee.get_base_url=function(w){var baseurl='';if(w.document.getElementsByTagName){var e=w.document.getElementsByTagName('base');if(e.length){baseurl=e[0].href;if(/^\w+:/.test(baseurl)===false){baseurl='';}}}else{baseurl=w.location.protocol+':'+w.location.host;if(w.location.port){baseurl+=':'+w.location.port;}else{baseurl+=':80';}
-baseurl+='/';}
-return baseurl;};jsepee.url2abs=function(w,rel){if(this.is_relative_url(rel)){return this.get_base_url(w)+rel;}
-return rel;};jsepee.is_jsepee_code_reference_url=function(u){return u.parameters.length==1&&u.parameters[0].name.length==32&&u.parameters[0].value.length==0;};jsepee.set_cookie=function(w,cookie_name,cookie_value){var new_cookie=cookie_name+'='+encodeURIComponent(cookie_value)+";path=/";if(w.document.cookie!==undefined){w.document.cookie=new_cookie;}else if(window.document.cookie!==undefined){window.document.cookie=new_cookie;}else{document.cookie=new_cookie;}
-return this;};jsepee.update_cshui_cookie=function(w){this.set_cookie(w,this['CSHUI_COOKIE_NAME'],this.das[w.location.href].cshui);return this;};jsepee.unload_factory=function(w){var that=this;this.do_on_unload=function(){that.update_cshui_cookie(w);return that;};return this.do_on_unload;};jsepee.attach_page_load_and_unload_handler=function(w){if(w.addEventListener){w.addEventListener("load",this.load_factory(w),false);w.addEventListener("unload",this.unload_factory(w),false);}else if(w.attachEvent){w.attachEvent("onload",this.load_factory(w));w.attachEvent("onunload",this.unload_factory(w));}else{w.onload=this.load_factory(w);w.onunload=this.unload_factory(w);}
-return this;};jsepee.frame_recurse=function(w){if(this['das'].hasOwnProperty(w.location.href)){return this;}else{this['das'][w.location.href]=this.new_das_item();}
-this.attach_page_load_and_unload_handler(w);for(var i=0;i<w.frames.length;++i){try{var u=w.frames[i].location.href;}catch(e){continue;}
-if(u.indexOf("http")!=0){continue;}
-this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.frame_recurse(window);}</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html slick-uniqueid="1"><head>
 	<title>Our Privacy Policy at Century Novelty</title>
 	<meta http-equiv="Content-Style-Type" content="text/css">
 	<meta name="description" content="Privacy Policy - Century Novelty">
@@ -124,25 +10,22 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 	<meta name="google-site-verification" content="aaKZwIH72YJ4nrb-sHwg94aiTER6TTT_nTukBL9ch8c">
 	<link rel="stylesheet" type="text/css" href="/css/bbstyle.css">
 	<link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css">
-	<!-- MyBuys stylesheet -->  
-  <link rel="stylesheet" type="text/css" href="http://t.p.mybuys.com/css/mbstyles.css" id="mybuysstyles">  
-	<link rel="stylesheet" type="text/css" href="http://t.p.mybuys.com/clients/CENTURYNOVELTY/css/mybuys-carousel.css"> 
-  <!-- End MyBuys style sheet -->
-  
-	<!--[if lt IE 7]>
-	<link rel="stylesheet" type="text/css" media="screen" href="/css/ie6.css" /> 
-	<![endif]-->  
-
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css">
+	
+	
+<!-- Certona stylesheet -->
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="//edge1.certona.net/cd/9c391283/centurynovelty.com/scripts/resonance.js"></script>
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/certona.css">
+<!-- End Certona style sheet -->
+	
 	<script type="text/javascript" src="/scripts/mootools-core-1.3.1-full-compat-yc.js"></script>
 	<script type="text/javascript" src="/scripts/mootools-more-1.3.1.1.js"></script>
 	<script type="text/javascript" src="/scripts/centurynovelty.js"></script><link type="text/css" rel="stylesheet" href="/styles/jsenabled.css">
 	<script type="text/javascript" src="/scripts/bbscripts.js"></script>
-	<script type="text/javascript" src="/scripts/checkout.js"></script>	
-  
-  <!-- Magic Zoom stylesheet -->
-  <link rel="stylesheet" type="text/css" href="/css/magiczoomplus.css">
-  <!--  End Magic Zoom stylesheet -->
+	<script type="text/javascript" src="/scripts/checkout.js"></script>
+<!-- Magic Zoom stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/css/magiczoomplus.css">
+<!--  End Magic Zoom stylesheet -->
   
   <script language="javascript" type="text/javascript">
     var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
@@ -150,12 +33,6 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
     document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.0.4.css" /%3E'));
     document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'centurynovelty.resultspage.com/rac/sli-rac.css" /%3E'));
   </script><script src="https://assets.resultspage.com/js/jquery-1.4.2.min.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.4.css"><link rel="stylesheet" type="text/css" href="https://centurynovelty.resultspage.com/rac/sli-rac.css">
-  
-  <!-- MyBuys Javascript libraries -->
-  <script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
-  <script type="text/javascript" src="http://t.p.mybuys.com/clients/CENTURYNOVELTY/js/setup.js"></script>	
-	<script type="text/javascript" src="http://t.p.mybuys.com/clients/CENTURYNOVELTY/js/lib/jquery.jcarousel.min.js"></script>  
-  <!-- End MyBuys Javascript libraries -->
   
   <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" ></script>-->
   
@@ -192,11 +69,21 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
     +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
     +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
     '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-  </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=1892693456&amp;utmx=&amp;utmxx=&amp;utmxtime=1580396306582" type="text/javascript" charset="utf-8"></script>
+  </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=1892693456&amp;utmx=&amp;utmxx=&amp;utmxtime=1580396305004" type="text/javascript" charset="utf-8"></script>
   <!-- End of Google Website Optimizer Control Script -->
   
 </head>
 <body>
+<div id="fb-root"></div>
+<script>
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
 <div id="sitecontainer">
 	<div id="utilitynavcontainer" class="utilitynav">
 		<ul>
@@ -328,7 +215,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
         <h2 id="head_makingpeoplesmile">Making People Smile</h2>
 				<div class="testimonials_content">
           
-          "I am writing to let you know about my experience with your company.&nbsp; I ordered a few days ago and last night it came. I am&nbsp; always leary about ordering from new sites and yours was no different, but the price was right and I needed it right away. <strong>I was very pleased with the way your company kept me informed by email of every step and just now I got one saying it was delivered.</strong> I ordered about $12 worth so it's not like I was a VIP customer. ... Keep up the GREAT work, you will be hearing from me again."
+          <p class="MsoNormal">I just wanted to say that <strong>I found the  service at Century Novelty is EXCELLENT</strong>.&nbsp;&nbsp;&nbsp; We received a note that the order was  delivered and we should open our box and have fun – we are already doing that!</p>
         </div>
 
 					</div>
@@ -424,12 +311,10 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 			<div id="rightcolumn" class="rightcolumn">
 
 
-
-
 				
-        <div id="cartwishlist">
-					<div id="shoppingcart">
-
+	<div id="cartwishlist">
+		<div id="shoppingcart">
+			
 
 
 
@@ -445,12 +330,12 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 						</div>
 							
 
-					</div>
-					<div id="wishlist" class="inactive">
-            
+		</div>
+		<div id="wishlist" class="inactive">
+			
 
 
-            
+			
 
 						<div id="wishlistsummary">
 							
@@ -491,8 +376,8 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 						
 						</script>-->
 
-					</div>
-				</div>
+		</div>
+	</div>
 
 
 				<div id="youraccount" class="callout_right">
@@ -525,12 +410,11 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
    
 
 
-  
-  
-  <!-- MyBuys Web Recommendation Zone - Place in <body> element -->
-  <div mybuyszone="1" onclick="addMyBuysParam(2)"></div>  
-  <!-- End MyBuys Web Recommendation Zone -->
-  
+	<!-- Certona Recommendation Zone - Place in <body> element -->
+	 
+		<div id="product_rr"></div>
+	
+	<!-- End Certona Recommendation Zone -->
 
 
 
@@ -553,7 +437,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 
 						<div id="service_livechat">
 							<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-							<div id="ciaiZW" style="z-index:100;position:absolute"></div><div id="scaiZW" style="display:inline"></div><div id="sdaiZW" style="display:none"><script type="text/javascript" defer="" src="https://secure.providesupport.com/image/js/centurynovelty/safe-standard.js?ps_h=aiZW&amp;ps_t=1580396306641"></script></div><script type="text/javascript">var seaiZW=document.createElement("script");seaiZW.type="text/javascript";seaiZW.defer=true;seaiZW.src=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/centurynovelty/safe-standard.js?ps_h=aiZW\u0026ps_t="+new Date().getTime();document.getElementById("sdaiZW").appendChild(seaiZW)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=centurynovelty">Live Support</a></div></noscript>
+							<div id="ciaiZW" style="z-index:100;position:absolute"></div><div id="scaiZW" style="display:inline"></div><div id="sdaiZW" style="display:none"><script type="text/javascript" defer="" src="https://secure.providesupport.com/image/js/centurynovelty/safe-standard.js?ps_h=aiZW&amp;ps_t=1580396305108"></script></div><script type="text/javascript">var seaiZW=document.createElement("script");seaiZW.type="text/javascript";seaiZW.defer=true;seaiZW.src=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/centurynovelty/safe-standard.js?ps_h=aiZW\u0026ps_t="+new Date().getTime();document.getElementById("sdaiZW").appendChild(seaiZW)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=centurynovelty">Live Support</a></div></noscript>
 							<!-- END ProvideSupport.com Graphics Chat Button Code -->
 						</div>
 						
@@ -658,7 +542,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 				<p class="footer_mainlinks"><a href="/PARTYTHEMES_220.html">Party Themes</a> <span class="sep">|</span> <a href="/HOLIDAYS_140.html">Holidays</a> <span class="sep">|</span> <a href="/EVENTS_121.html">Events</a> <span class="sep">|</span> <a href="/productcategories.html">Product Categories</a> <span class="sep">|</span> <a href="http://party-supply.centurynovelty.com/search?p=Q&amp;lbc=centurynovelty&amp;uid=740272149&amp;ts=custom-v2&amp;w=sale&amp;af=stock:showinstockitemsonly&amp;isort=field:salesdata%20rev%20fieldsortinteger&amp;method=and&amp;view=grid&amp;lprice=1000&amp;hprice=1240">Sale</a></p>
 			  <p><a href="/basket.jsp">Shopping Cart</a> <span class="sep">|</span> <a href="/quickList.jsp">Wish List</a> <span class="sep">|</span> <a href="login.jsp">Account Login</a> <br>
 				<a href="/aboutUs.jsp">About Us</a> <span class="sep">|</span> <a href="/help.jsp">Customer Service</a> <span class="sep">|</span> <a href="/shippingPolicy.jsp">Shipping</a> <span class="sep">|</span> <a href="/contactUs.jsp">Contact Us</a> <span class="sep">|</span> <a href="/help.jsp">FAQs</a> <span class="sep">|</span> <a href="/privacy.jsp">Privacy Policy</a><br>
-				<a href="/">Home</a> <span class="sep">|</span> <a href="/siteMap.jsp">Site Map</a></p>
+				<a href="/">Home</a> <span class="sep">|</span> <a href="/siteMap.jsp">Site Map</a> <span class="sep">|</span> <a href="https://plus.google.com/105006107218660352419" rel="publisher">Google+</a></p>
 	
 			</div>
 		</div>
@@ -725,6 +609,13 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 						
 					
 					
+						<li><a href="category_751.html">Dance</a></li>
+				
+				
+					
+						
+					
+					
 						<li><a href="category_531.html">Duck Race</a></li>
 				
 				
@@ -742,7 +633,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 						
 					
 					
-						<li><a href="category_723.html">Movember</a></li>
+						<li><a href="category_723.html">Men's Health Awareness</a></li>
 				
 				
 					
@@ -757,6 +648,13 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 					
 					
 						<li><a href="items_668.html">Red Ribbon Week</a></li>
+				
+				
+					
+						
+					
+					
+						<li><a href="items_758.html">Secret Santa Shop</a></li>
 				
 				
 					
@@ -1097,13 +995,6 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 						
 					
 					
-						<li><a href="items_527.html">Red &amp; Purple</a></li>
-				
-				
-					
-						
-					
-					
 						<li><a href="category_270.html">Religious</a></li>
 				
 				
@@ -1323,12 +1214,6 @@ document.write(unescape('%3Cscript src="' + sliJsHost + 'centurynovelty.resultsp
 		<!-- END: buySAFE Seal -->
 
 
-
-<!-- MyBuys Page Initialization â€“ Place after </body> tag -->
-<script type="text/javascript">
-  mybuys.initPage();
-</script>
-<!-- End MyBuys Page Initialization -->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript"> 
