@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406193139id_/http%3A//www.cablewholesale.com/privacy.html/bottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212223525id_/http%3A//www.cablewholesale.com/privacy.php/bottom) for the most accurate reproduction.*
 
 # Privacy Policy | CableWholesale.com
 
@@ -11,4 +11,4 @@ Here at CableWholesale.com, we know it can at times feel forbidding to input per
 
 
 
-If you have any questions regarding these policies, or would like to discuss them further with our Customer Service team, please feel free to [contact us](https://web.archive.org/contact_us.html) via phone, fax, or e-mail. Please check back from time to time to view any changes or additions to our Privacy Policy. 
+If you have any questions regarding these policies, or would like to discuss them further with our Customer Service team, please feel free to [contact us](https://www.cablewholesale.com/contact_us.php) via phone, fax, or e-mail. Please check back from time to time to view any changes or additions to our Privacy Policy. 
