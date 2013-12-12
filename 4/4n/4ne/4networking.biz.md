@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4networking.biz privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015242id_/http%3A//www.4networking.biz/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4networking.biz privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212232608id_/http%3A//www.4networking.biz/Pages/Privacy) for the most accurate reproduction.*
 
 # Privacy Statment for 4Networking
 
@@ -9,9 +9,11 @@ We are committed to protecting your privacy. Our privacy policy is outlined belo
 Any personal information provided under this website is controlled by:
 
 4Networking Limited  
-2 The Crescent  
-Taunton  
-TA1 4EA
+Harding House  
+St George's Square  
+Taunton
+
+TA1 3RX
 
 ##  **Information Collected**
 
@@ -19,7 +21,7 @@ We refer to information about individuals in this policy as “personal informat
 
 If you enter personal information such as your name, e-mail address and telephone number, this information will be passed to other members of 4Networking who may use such information to contact you.
 
-We may also use personal information to notify you of news and information about 4networking by way of email.
+We may also use personal information to notify you of news and information about 4Networking by way of email.
 
 Personal information may also be used to help us provide other services on this site in the future.
 
@@ -45,12 +47,14 @@ We will try and provide you with links to high quality, reputable sites which we
 
 You can ask us to update or remove your personal information by e-mailing us at [info@4networking.biz](mailto:info@4networking.biz) or by writing to us at the address below.
 
-You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for **_£10•_** payable to 4networking Limited to cover our administration costs.
+You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for **_£10.00  _**payable to 4Networking Limited to cover our administration costs.
 
-4networking Limited  
-2 The Crescent  
-Taunton  
-TA1 4EA
+4Networking Limited  
+Harding House  
+St George's Square  
+Taunton
+
+TA1 3RX
 
 ##  **Comments?**
 
