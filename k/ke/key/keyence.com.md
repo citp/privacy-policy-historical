@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the keyence.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509234126id_/http%3A//www.keyence.com/privacy/statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyence.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212232329id_/http%3A//www.keyence.com/privacy/index.jsp) for the most accurate reproduction.*
 
-# KEYENCE Corporation of America [Privacy Statement]
+# Privacy | KEYENCE America
+
+## Privacy Statement for KA web site
 
 Keyence Corporation of America (KA) is committed to respecting your privacy.  
 We recognize it is important you know how we handle the information we receive from you on the Internet.  
@@ -17,7 +19,9 @@ Further, the personal information we collect is used also by us to respond to yo
 A technology called cookies may be used to provide you with tailored information.  
 A cookie is an element of data that a Web site can send to your browser, which may then be stored on your hard drive. So, when you return again, we can tailor information to suit your individual preferences. The goal is to save your time and provide you with a more meaningful visit. You may set your browser to notify you when you receive a cookie.
 
+Keyence has implemented Display Advertising and Google Analytics Remarketing to advertise online. Third-party vendors, including Google, show Keyence ads on sites across the internet. Keyence and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on someone’s past visits to Keyence’s website. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager.
+
 At times we may conduct on-line surveys to better understand the needs and profile of our visitors.  
 When we conduct a survey, we will try to let you know how we will use the information at the time we collect information from you on the Internet.  
 KA's Web site may contain links to other sites such as Keyence Corporation and other Keyence affiliated companies of other countries.  
-While we try to link only the sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. 
+While we try to link only the sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
