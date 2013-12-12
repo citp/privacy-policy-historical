@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617030617id_/http%3A//www.similarweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212140152id_/http%3A//www.similarweb.com/privacy-policy) for the most accurate reproduction.*
 
-# SimilarWeb – Privacy Policy
+# SimilarWeb Competitive Analysis – Privacy Policy
 
 To read our Terms of use, [please visit this page](https://web.archive.org/terms). 
 
-SimilarWeb.com (" **Website** ") is a website owned and operated by SimilarWeb Ltd. (" **SimilarWeb** ", " **We** " or " **Us** ") We greatly respect your privacy which is why we make every effort to provide a service that would live up to the highest of user privacy standards. 
+SimilarWeb.com (" **Website** ") is a website owned and operated by SimilarWeb Ltd. (" **SimilarWeb** ", " **We** " or " **Us** "). We greatly respect your privacy which is why we make every effort to provide a service that would live up to the highest of user privacy standards. 
 
 ##  User Consent 
 
@@ -87,7 +87,7 @@ Otherwise, we will not disclose your Personal Information to any third party, un
 
 ###  Non-Personal Information
 
-Non-Personal Information shall be used to ensure the adequate operation, improve, modify, cancel, enrich or adjust the Website and/or the Product, in general or to your area of interest. We reserve the right to use, disclose, and\or transfer (for business purpose or otherwise) Non-Personal Information (in the collected form) to third parties and enable them to use Non-Personal information, including, inter alia, potential and actual advertisers, sponsors, business partners, investors, affiliates and consultants at our sole discretion. 
+Non-Personal Information shall be used to ensure the adequate operation, improve, modify, cancel, enrich or adjust the Website and/or the Product, in general or to your area of interest. We reserve the right to use, disclose, and/or transfer (for business purpose or otherwise) Non-Personal Information (in the collected form) to third parties and enable them to use Non-Personal information, including, inter alia, potential and actual advertisers, sponsors, business partners, investors, affiliates and consultants at our sole discretion. 
 
 ##  Similar Sites
 
