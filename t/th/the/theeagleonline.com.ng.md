@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeagleonline.com.ng privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613083446id_/http%3A//theeagleonline.com.ng/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeagleonline.com.ng privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212082818id_/http%3A//theeagleonline.com.ng/news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - The Eagle Online
 
