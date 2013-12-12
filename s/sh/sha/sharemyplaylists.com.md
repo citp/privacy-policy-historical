@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430041124id_/http%3A//sharemyplaylists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemyplaylists.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212095842id_/http%3A//playlists.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 ##### (1) Introduction
 
-The website www.ShareMyPlaylists.com and the related App is owned and operated by ShareMyPlaylists.com limited ("SMP", "we", "us"). We are committed to respecting and protecting your privacy and any data that we collect concerning you. This policy ("Privacy Policy") sets out the basis on which we collect personal data from you, or that you provide to us. Please read this Privacy Policy carefully in order to understand our views and practices regarding your personal data. By using the Site and/or App you agree to the use of the data that we collect in accordance with this Privacy Policy. We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service.
+The website www.Playlists.net and the related App is owned and operated by ShareMyPlaylists limited ("SMP", "we", "us"). We are committed to respecting and protecting your privacy and any data that we collect concerning you. This policy ("Privacy Policy") sets out the basis on which we collect personal data from you, or that you provide to us. Please read this Privacy Policy carefully in order to understand our views and practices regarding your personal data. By using the Site and/or App you agree to the use of the data that we collect in accordance with this Privacy Policy. We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service.
 
-Except where indicated otherwise, all capitalised terms have the same meaning as defined in our [Terms](http://sharemyplaylists.com/terms-of-use).
+Except where indicated otherwise, all capitalised terms have the same meaning as defined in our [Terms](http://playlists.net/terms-of-use).
 
 ##### (2) Information Collected
 
@@ -37,7 +37,7 @@ We may collect and process the following information about you:
 
   1. Non-personally identifiable information may be shared with third parties to help us to introduce, develop and improve the Site, App or for other purposes, such as providing more relevant services and advertisements to users.
   2. We may use your email address to contact you and send you notifications or information related to the Site and/or App. We may also use your email address for security reasons so that we can verify your identity.
-  3. You may be able to set preferences and control the elements of your personal information which are shared with other users of the Site. If you choose to display personal or other information to other users of the Site or App, you accept that you do so at your own risk. We recommend that you do not share any personal contact information. You can remove yourself from any mailing list or similar device by notifying us at info@sharemyplaylists.com. 
+  3. You may be able to set preferences and control the elements of your personal information which are shared with other users of the Site. If you choose to display personal or other information to other users of the Site or App, you accept that you do so at your own risk. We recommend that you do not share any personal contact information. You can remove yourself from any mailing list or similar device by notifying us at info@playlists.net. 
   4. SMP may at our sole discretion and without prior notice disclose users' personally identifiable information if we reasonably believe we are compelled to do so by any law, regulation or other government authority, in order to protect our rights and/or property or the rights and/or property of the general public. We may also co-operate with law enforcement agencies and where required, may disclose users' personally identifiable information. 
 
 
@@ -52,7 +52,7 @@ The Site and/or App may contain links to and from Third Party Sites or the websi
 
 ##### (7) Children
 
-If you are under the age of 12, you must ask permission for your parent or guardian before you register. We do not knowingly collect personal information from anyone who is under the age of 12 or allow them to register as a user of the Site without their parent or guardian's permission. If we become, or are made aware that we have collected personal information from such a person then we will we delete this information including their registered user account. If you have reason to believe that this has occurred then please contact us at info@sharemyplaylists.com and we will delete all relevant personal information.
+If you are under the age of 12, you must ask permission for your parent or guardian before you register. We do not knowingly collect personal information from anyone who is under the age of 12 or allow them to register as a user of the Site without their parent or guardian's permission. If we become, or are made aware that we have collected personal information from such a person then we will we delete this information including their registered user account. If you have reason to believe that this has occurred then please contact us at info@playlists.net and we will delete all relevant personal information.
 
 ##### (8) Cookies
 
@@ -80,4 +80,4 @@ We may, at our sole discretion, amend, modify or change this Privacy Policy. All
 
 The Data Protection Act 1998 (the "Act") gives you the right to access information held about you. If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
 
-For the purpose of the Act, the data controller is: ShareMyPlaylists.com Limited
+For the purpose of the Act, the data controller is: Playlists.net Limited
