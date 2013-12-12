@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recordsetter.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609181526id_/http%3A//recordsetter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordsetter.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212180313id_/http%3A//recordsetter.com/privacy) for the most accurate reproduction.*
 
-# RecordSetter Privacy Policy
+# 
 
 Effective Date: 11/15/2008
 
