@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530072429id_/http%3A//www.ocr.org.uk/about-us/our-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212092907id_/http%3A//www.ocr.org.uk/about-us/our-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - OCR
 
 Oxford Cambridge and RSA Examinations ("OCR") offers and provides teaching and examination services and related information. We are committed to protecting the privacy and confidentiality of information provided by those parties ("Users") who access our web site at www.ocr.org.uk ("Site") and we uphold the relevant data protection principles and process all personal data in accordance with the Data Protection Act 1998.
 
