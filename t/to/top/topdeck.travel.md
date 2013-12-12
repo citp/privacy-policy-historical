@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000231id_/http%3A//www.topdeck.travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212154027id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 Topdeck Tours Ltd is committed to the privacy of both existing and prospective clients, and our company respects and shares concerns of our clients over the protection of their personal information. It is for this reason Topdeck adheres to the privacy sector provisions of the Privacy Act 1998.
 
-**Cookies Policy - Information Topdeck Tours Ltd. collects from you on the website**
+**See our[Cookies policy here](https://www.topdeck.travel/privacy#Cookies).  
+**
 
 **Your personal information**
 
-We will only gather personal information that is necessary for the operation of the organisation in order to deliver the best possible product and service to you. The types of personal information that we collect from you will depend on the circumstances of collection, and on the type of service you request from us. These purposes include registering to receive e-mail newsletters, requesting further information about our trips, making a booking or simply asking a question about the Topdeck Tours products. When you request us to make your travel arrangements, we may collect details such as your name, address, flight and other travel details, credit/debit card number and expiry date, billing address, telephone numbers, dietary requirements (if any) and medical conditions relevant to your travel arrangements. As we are required by law to obtain your consent to the collection of 'sensitive information' we will assume that you have consented to the collection of all information that is provided to us for use in accordance with this Policy, unless you tell us otherwise. There may be occasions when we collect information about you from a third party, for example from people booking travel on your behalf.
+We will only gather personal information that is necessary for the operation of the organisation in order to deliver the best possible product and service to you. The types of personal information that we collect from you will depend on the circumstances of collection, and on the type of service you request from us. These purposes include registering to receive e-mail newsletters, requesting further information about our trips, making a booking or simply asking a question about the Topdeck Tours products.
+
+When you request us to make your travel arrangements, we may collect details such as your name, address, flight and other travel details, credit/debit card number and expiry date, billing address, telephone numbers, dietary requirements (if any) and medical conditions relevant to your travel arrangements. As we are required by law to obtain your consent to the collection of 'sensitive information' we will assume that you have consented to the collection of all information that is provided to us for use in accordance with this Policy, unless you tell us otherwise. There may be occasions when we collect information about you from a third party, for example from people booking travel on your behalf.
 
 **Accuracy of information**
 
@@ -52,13 +55,13 @@ Anonymous clickstream information is collected from every visitor to this site. 
 
 **Direct Marketing**
 
-We conduct all direct marketing efforts to provide the best service and product to you. We may at times send you information and offers that we feel may be of interest to you. If you no longer wish to receive any direct marketing material please contact info@topdecktravel.co.uk at any time.
+We conduct all direct marketing efforts to provide the best service and product to you. We may at times send you information and offers that we feel may be of interest to you. If you no longer wish to receive any direct marketing material please contact [info@topdecktravel.co.uk](mailto:info@topdecktravel.co.uk) at any time.
 
 We comply with the Spam Act 2003, and do not share, sell or rent information to any third parties. If you receive information from Topdeck Tours Ltd it is because you have asked to hear from us, you have entered a competition and agreed to join our mail list, or a friend / colleague has requested it on your behalf and you have confirmed this to us or we have contacted you through publicly accessible directories or databases.
 
 **Access to your personal information**
 
-Any request for information may be made to Topdeck Tours Ltd Head Office at Level 1, 107 Power Road, Chiswick, W4 5PY, United Kingdom or via telephone on +44 208 9873300, email [Topdeck.](mailto:info@topdecktravel.co.uk)
+Any request for information may be made to Topdeck Tours Ltd Head Office at Level 1, 107 Power Road, Chiswick, W4 5PY, United Kingdom or via telephone on +44 208 9873300, email Topdeck.
 
 **Links**
 
@@ -68,34 +71,34 @@ This site may contain links to other websites. Please note that when you click o
 
 All staff members of Topdeck Tours Ltd endeavour to take every reasonable measure to ensure that your personal information is protected. Any complaint of breach of privacy may be made to the Managing Director, Topdeck Tours Ltd at Level 1, 107 Power Road, Chiswick, W4 5PY, United Kingdom. All complaints will be investigated as soon as lodged and all reasonable efforts will be made to resolve the complaint as soon as possible.
 
-**Cookies Policy - Information Topdeck Tours Ltd. collects from you on the site**
+**Cookies Policy** (Information Topdeck Tours Ltd. collects from you on the site)
 
-**a. What is a cookie?**
+a. What is a cookie?
 
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to track online traffic flows. 
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to track online traffic flows.
 
-On Topdeck Tours Ltd. websites, cookies record information about your online preferences and allow us to tailor our websites to your interests. 
+On Topdeck Tours Ltd. websites, cookies record information about your online preferences and allow us to tailor our websites to your interests.
 
-During the course of any visit to a Topdeck Tours Ltd website, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit. 
+During the course of any visit to a Topdeck Tours Ltd website, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
-**b. How does Topdeck Tours Ltd. use cookies?**
+b. How does Topdeck Tours Ltd. use cookies?
 
 Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. Topdeck Tours Ltd. uses this type of information to help improve the services it provides to its users. All third parties are strictly required not to use any information for their own business or other purposes.
 
-**c. Third Party Cookies in embedded content on** **Topdeck Tours Ltd pages**
+c. Third Party Cookies in embedded content on Topdeck Tours Ltd pages
 
-Please note that during your visits to Topdeck Tours Ltd websites you may notice some cookies that are not related to Topdeck Tours Ltd. or Topdeck Tours Ltd’s contractors. When you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. Topdeck Tours Ltd. does not control the dissemination of these cookies. You should check the third party websites for more information about these.
+Please note that during your visits to Topdeck Tours Ltd websites you may notice some cookies that are not related to Topdeck Tours Ltd. or Topdeck Tours Ltd's contractors. When you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. Topdeck Tours Ltd. does not control the dissemination of these cookies. You should check the third party websites for more information about these.
 
-**d.** **Managing cookies**
+d. Managing cookies
 
-If you you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+If you you don't want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
 
-If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org,](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers.
 
-Please be aware that restricting the use of Cookies may affect the features available to you accordingly you may not be able to take full advantage of all of the website’s features.
+Please be aware that restricting the use of Cookies may affect the features available to you accordingly you may not be able to take full advantage of all of the website's features.
 
-**Changes to** **Topdeck Tours Ltd’s Privacy Policy**
+**Changes to Topdeck Tours Ltd's Privacy Policy**
 
 This Privacy Policy may be updated from time to time so you may wish to check it each time you submit personal information to Topdeck Tours Ltd. The date of the most recent revisions will appear on this page.
 
-Last updated: 24th May 2012 
+Last updated: 24th May 2012
