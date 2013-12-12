@@ -1,23 +1,18 @@
-> *The following text is extracted and transformed from the uobd2.net privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421082844id_/http%3A//www.uobd2.net/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uobd2.net privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212063127id_/http%3A//www.uobd2.net/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - UOBD2.com - China Auto Diagnostic Tool Center -Top Quality, Good Service, Competitive Price
+# Privacy Policy - UOBD2.net - UOBD2 - China Auto Diagnostic Tool Center for Workshop, Wholesale, DIY, Drop-ship
 
-UOBD2.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.  
-**
+UOBD2 respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-UOBD2.com Privacy Policy
+**UOBD2.net Privacy Policy**
 
-**  
-Thank you for accessing the website ("Site") of uobd2.com, Limited.  We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
+Thank you for accessing the website ("Site") of uobd2.net, Limited.  We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.
 
 This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
 
-This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-uobd2.com website to which this Site links or that links to this Site.  
-**
+This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-uobd2.net website to which this Site links or that links to this Site.
 
-Information Collection And Use
-
-**
+**Information Collection And Use**
 
 1\. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:  
 * Help make this Site easier for you to use by not having to enter information more than once.  
@@ -53,27 +48,25 @@ Information Collection And Use
 (iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it is possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Notice in effect.  
 (v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
-**DATA SECURITY  
-**  
+**DATA SECURITY**
+
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
-  While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.  
-**
+  While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-OPT OUT/CORRECTIONS
+**OPT OUT/CORRECTIONS**
 
-**  
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to UOBD2’s Customer Support department at [chinauobd2@gmail.com](mailto:chinauobd2@gmail.com). Please do not email your credit card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to UOBD2’s Customer Support department at sales@uobd2.net. Please do not email your credit card number or other sensitive information.
 
-**OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION  
-**  
-As you might expect from uobd2.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+**OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
-**UPDATES TO THIS POLICY  
-**  
+As you might expect from uobd2.net, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
+
+**UPDATES TO THIS POLICY**
+
 If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us.
 
 **Choice and Opt-Out**  
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving themby following the instructions included in each communication or by e-mailing the Company at [chinauobd2@gmail.com](mailto:chinauobd2@gmail.com)
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving themby following the instructions included in each communication or by e-mailing the Company at sales@uobd2.net
 
   **All   right reserved by UOBD2 website！**
