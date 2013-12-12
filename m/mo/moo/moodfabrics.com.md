@@ -1,40 +1,94 @@
-> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526010944id_/http%3A//www.moodfabrics.com/index.php%3Ffile%3Dallfile%26id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212221259id_/http%3A//www.moodfabrics.com/privacy-security) for the most accurate reproduction.*
 
-# Mood Fabrics : New York Fashion Designer Discount Fabric | Privacy And Security Page
+# Privacy & Security
 
-|  | [](http://www.moodfabrics.com/index.php "MoodFabrics") |   
+## What we collect
+
+**We may collect the following information:**
+
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
+
+
+
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
+
+## What we do with the information we gather
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+## Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+## How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@moodfabrics.com
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Customer Service Hours: 
+
+**Monday - Friday:** 9am - 6pm EST
+
+.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name| COOKIE Description  
 ---|---  
-  
-|   
----  
-   
-| Automatic Collection of Anonymous Information - When you visit the Mood Fabrics website, like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as "aol.com" or "earthlink.net"), the date and time you access the site, the pages you access while at the Mood Fabrics website, and the internet address of the website, if any, from which you linked directly to the Mood Fabrics site. This information is not personally identifiable.   
----  
-   
-**Personally Identifiable Information -**  
-We collect information from you that you provide to us at this site when you establish or update an account, enter a contest, participate in a survey, shop online, purchase and send a gift certificate. Categories of information collected include name, address, e-mail address, recipient's e-mail address, telephone number, credit card information and messages you create. This information is used to enable Mood Fabrics to deliver products that you have ordered, to fulfill requests that you have created, to contact you or the recipient(s) in the event of order or delivery difficulties, for verification, to respond to your inquiries and to deliver services and information about our products or web site to you.   
-   
-**Email -**  
-When you purchase products from MoodFabrics.com, we automatically place you on our list to receive email regarding updates about special offers and new products. If you do not wish to receive email updates, please send an email to [Contact@MoodFabrics.com](mailto:contact@moodfabrics.com) with the word REMOVE in the subject field.   
-   
-**Disclosure of Information -**  
-Mood Fabrics does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. Mood Fabrics may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. Mood Fabrics may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law.   
-   
-**Cookies & Advertisers -**  
-The Mood Fabrics website's server, or the servers of companies that are used to operate this site, may place a "cookie" on your computer in order to allow you to use the website and to personalize your experience. A "cookie" is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer's hard drive. Cookies allow Mood Fabrics to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the website. The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by the Mood Fabrics website. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present "personalized" advertisements or other messages that the user might find interesting. Mood Fabrics is not responsible for any such cookies. Most web browser applications (such as Microsoft Internet Explorer and Netscape Navigator) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website.   
-   
-**Security-**  
-Mood Fabrics maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the site, transaction information is transmitted to and from Mood Fabrics in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. Mood Fabrics restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.   
-   
-**Updating Personal Information -**  
-We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information including billing and shipping information by logging into your account.   
-   
-**Applicability of Privacy Policy -**  
-This privacy policy statement applies only to the information collected from this website.   
-   
-**Changes to Privacy Policy -**  
-Mood Fabrics reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, Mood Fabrics will post a notice on its homepage and a link to the new policy.    
-This privacy statement is effective from Nov 1, 2006.  
-   
-  
- 
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
