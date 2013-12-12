@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the examupdates.in privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609210138id_/http%3A//examupdates.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examupdates.in privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212215455id_/http%3A//examupdates.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Examupdates.in | Examupdates.in
+# Privacy Policy
 
 We collect information from you when you subscribe to our newsletter or News Information.
 
@@ -58,9 +58,12 @@ By using our site, you consent to our?privacy policy.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**http://Quickupdates.in**
+**http://Examupdates.in**
 
 **Dehradun, Uttarakhand 248007**
 
-**_India  
-examupdates2013@gmail.com_**
+**India  
+_  
+_**
+
+**admin@examupdates.in**
