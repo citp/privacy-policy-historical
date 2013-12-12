@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612004415id_/http%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wccftech.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212222717id_/http%3A//wccftech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WCCFtech.com
 
@@ -48,6 +48,12 @@ This site gives users the following options for removing their information from 
 
 
 
+**Google Analytics**
+
+The Google Analytics features we’ve implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+
 **Correct/Update**
 
 If your e-mail address changes or if you want to remove your data, please email our web administration at **admin[at]wccftech[dot]com** for any corrections or updates.
@@ -59,6 +65,10 @@ WCCF/WCCFTECH may choose from time to time to give away prizes by random drawing
 **Notifications of Changes**
 
 If there are any changes to this policy, we will give notice about it on our Homepage. If we decide to change the way we are using personally identifiable information, we will notify the users by email. The users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+**Third Party Advertising and Data Collection Relationship**
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
 
 **Legal Disclaimer**
 
