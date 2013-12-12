@@ -1,531 +1,895 @@
-<!--The following is the downloaded HTML source of the trymicrosoftoffice.com privacy policy that was archived on 2013-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130328091326id_/https%3A//store.digitalriver.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!--!esi:include src="/store?Action=DisplayESIPage&Currency=USD&ESIHC=0&Env=BASE&Locale=en_US&SiteID=defaults&ThemeID=22100&ceid=207534200&cename=TopHeader&id=DRPrivacyPolicyPage"--><!-- REQUEST ID: TIME=1364462006394:NODE=c2a9104:THREAD=38; ESI Fragment - CREATED: Thu Mar 28 04:13:26 CDT 2013 MAX-AGE: 28800+180 --><!-- BEGIN TOPHEADER --><!-- --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Digital River Online Store - Privacy Policy</title>
-<!-- Accessibility links for Home, Help, and Contents (Sitemap) -->
-<link rel="home" href="/store/defaults/en_US/home/ThemeID.22100" title="Home">
-<link rel="help" href="/store/defaults/en_US/help/ThemeID.22100" title="Help">
-<link rel="contents" href="/store/defaults/en_US/sitemap/ThemeID.22100" title="Sitemap">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-
-
-
-if (!window.jQuery) {
-  document.writeln('<scr'+'ipt type="text/javascript" src="//drh.img.digitalriver.com/DRHM/Storefront/Library/scripts/jquery/jquery-1.3.2.min.js"></scr'+'ipt>');
-}
-
-</script><script type="text/javascript" src="//drh.img.digitalriver.com/DRHM/Storefront/Library/scripts/jquery/jquery-1.3.2.min.js"></script>
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-var q = true; // Page-level global variable
-
-// Function to hide/show info
-function hideText(id) {
-  jQuery('#'+id).toggle();
-}
-// Function to disable submit button after it has been clicked once already to prevent multiple order submission on CheckoutPayment and ConfirmOrder
-function disableButton(button) {
-  //jQuery(button).hide();
-}
-// Temporary popUp function that will be replaced by the overlay-enhanced version (below) when the DOM is fully loaded
-function popUp(popURL, popName, popWidth, popHeight) {
-  self.open(popURL, popName, 'width='+popWidth+',height='+popHeight+',resizable=yes,status=yes,screenX=50,screenY=50,top=50,left=50,scrollbars=yes');
-}
-
-// Pull in the overlay verison of popUp on DOM-ready, which will overwrite the old-school function above
-if (top === self) { // Don't pull in this code if we're already in a pop-up (iframe)
-  jQuery(function(){
-  
-  
-    // Pull in the main CSS for the popUp overlay
-    jQuery.get('/DRHM/store?Action=DisplayPage&SiteID=defaults&Locale=en_US&ThemeID=22100&Env=BASE&id=TopHeaderPopUpCssStylePage', function(popUpStyle){
-      jQuery('head').append(popUpStyle);
-    }, 'html');
-  
-    // Include browser-specific components
-    var dataOK = true;
-    var msie = navigator.userAgent.match(/MSIE (\d+)/);
-    if (msie) {
-      var ieVer = parseInt(msie[1]);
-      if (ieVer < 8) {
-        dataOK = false;
-        if ((ieVer < 7) && !jQuery.fn.overlay) { // Include the overlay plugin for IE6
-          jQuery.ajax({url: '//drh2.img.digitalriver.com/DRHM/Storefront/Library/scripts/jquery/plugins/jquery.overlay.min.js', dataType: 'script', cache: true, global: false});
-        }
-      }
-    }
-    else if (/Firefox\/3\.5/.test(navigator.userAgent)) {
-      dataOK = false; // FF 3.5 bug #477118
-    }
-    // Pull in the draggable popUp overlay script
-    jQuery.ajax({url: '//drh1.img.digitalriver.com/DRHM/Storefront/Library/scripts/jquery/plugins/jquery.draggable.popUp.min.js', dataType: 'script', cache: true, global: false});
-    // Use embedded data: images for the shadows, if the browser can handle it
-    if (dataOK) {
-      jQuery('head').append('<link rel="stylesheet" type="text/css" href="//drh2.img.digitalriver.com/DRHM/Storefront/Library/content/css/PopUp.Shadows.data.css"/>');
-    }
-  });
-}
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</head>
-<body>
-
-
-
-
-
-<!-- popUp overlay tags -->
-<div class="popup_window_wrapper" style="display:none;position:absolute;">
-  <div class="popup_window_title_bar_wrapper">
-    <div class="popup_shadow9"></div>
-    <div class="popup_title_bar">
-      <h1 class="popup_title_header"></h1>
-      <div class="popup_close_button_wrapper">
-        <div class="popup_button_cover"><a href="#" class="popup_close_button_link" title="Close Window"><img class="popup_close_button" src="//drh2.img.digitalriver.com/DRHM/Storefront/SiteImplementation/defaults/defaultsSI/version/14/images/close_en_US.gif" alt="Close Window" border="0"></a></div>
-        <div class="popup_title_fade"></div><div class="popup_clear_it"><!-- --></div>
-      </div><!-- /.popup_close_button_wrapper -->
-    </div><!-- /.popup_title_bar -->
-    <div class="popup_shadow1"></div>
-    <div class="popup_clear_it"><!-- --></div>
-  </div><!-- /.popup_window_title_bar_wrapper -->
-  <div class="popup_middle_wrapper">
-    <div class="popup_left_shadow_wrapper"><div class="popup_shadow8"></div><div class="popup_shadow7"></div></div><!-- /.popup_left_shadow_wrapper -->
-    <div class="popup_content_wrapper"><iframe class="popup_content_iframe" src="javascript:false;" scrolling="auto" frameborder="0">Loading...</iframe></div>
-    <div class="popup_right_shadow_wrapper"><div class="popup_shadow2"></div><div class="popup_shadow3"></div></div><!-- /.popup_right_shadow_wrapper -->
-    <div class="popup_clear_it"><!-- --></div>
-  </div><!-- /.popup_middle_wrapper -->
-  <div class="popup_bottom_bar_wrapper"><div class="popup_shadow6"></div><div class="popup_shadow5"></div><div class="popup_shadow4"></div><div class="popup_clear_it"><!-- --></div></div><!-- /.popup_bottom_bar_wrapper -->
-</div><!-- /.popup_window_wrapper -->
-
-
-
-
-
-<!-- END TOPHEADER -->
-
+<!--The following is the downloaded HTML source of the trymicrosoftoffice.com privacy policy that was archived on 2013-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212032013id_/http%3A//www.microsoftstore.com/store/msusa/en_US/DisplayPrivacyPage) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xml:lang="en" lang="en"><head>
+<!--!esi:include src="/esi?SiteID=msusa&StyleID=45118000&StyleVersion=5&styleIncludeFile=meta.html"-->
+<meta http-equiv="X-UA-Compatible" content="IE=10">
+<meta name="p:domain_verify" content="dae53b83f3619f2af0e2273dd9e83a83">
+<meta name="msvalidate.01" content="841E8497829DD07D6BF23B3F13B34FA6">
 <!--!/esi:include -->
+<link rel="stylesheet" href="http://dri1.img.digitalrivercontent.net/store?Action=DisplayContentManagerStyleSheet&amp;SiteID=msusa&amp;StyleID=45118000&amp;StyleVersion=5&amp;styleIncludeFile=style.css" type="text/css" media="all">
+<!-- BEGIN TOPHEADER -->
+<!-- siteTitle Microsoft Store -->
+<title>Microsoft Store - Privacy statement</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <meta name="application-name" content="Microsoft Store">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-square70x70logo" content="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/meta_logo_tiny.png">
+<meta name="msapplication-square150x150logo" content="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/meta_logo_square.png">
+<meta name="msapplication-wide310x150logo" content="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/meta_logo_wide.png"><link href="//i.s-microsoft.com/storecontent/1401.4a6c92cb4f34e231521682230ab5b650662c3e6b/store.min.css" rel="stylesheet">
+<link href="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/multimedia/css/dr.0052.16.css" rel="stylesheet">
+<link rel="shortcut icon" type="image/x-icon" href="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/favicon.ico">
+<link rel="icon" type="image/png" href="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/favicon.ico">
 
-<!--!esi:include src="/store?Action=DisplayESIPage&Currency=USD&ESIHC=0&Env=BASE&Locale=en_US&SiteID=defaults&ThemeID=22100&ceid=207512700&cename=DRPrivacyPolicy&id=DRPrivacyPolicyPage"-->
+<!-- --><!-- Accessibility links for Home, Help, and Contents (Sitemap) -->
+<link rel="home" href="/store/msusa/en_US/home/ThemeID.33363200" title="Home">
+<link rel="help" href="/store/msusa/en_US/help/ThemeID.33363200" title="Help">
+<link rel="contents" href="/store/msusa/en_US/sitemap/ThemeID.33363200" title="Sitemap">
 
-
-
-
-
-
-
-<!-- REQUEST ID: TIME=1364462006394:NODE=c2a9104:THREAD=165; ESI Fragment - CREATED: Thu Mar 28 04:13:26 CDT 2013 MAX-AGE: 50400+180 -->
-
-<style type="text/css">
-body {font-family:Arial, Helvetica, sans-serif; font-size:8pt;}
-h1 {color:#3399ff; font-size:18pt; font-weight:bold; float:left;}
-h2 {color:#3399ff; font-size:14pt; font-weight:bold;}
-.statementContent h3 {margin-top:30px; border-top:1px solid #000000; font-size:10pt; font-weight:bold;}
-
-#container {margin:10px 20px; width:600px;}
-#container p {clear:both;}
-#container form {float:right; margin:15px 20px 10px 0px;}
-.date {font-size:10pt; font-weight:bold;}
-.bulletedList li {list-style-type:disc; line-height:20px;}
-.bulletedListSecondary li {list-style-type:circle; line-height:20px;}
-.nonBulletedList li {list-style-type:none;}
-
-#highlightsSectionOne {width:49%; margin:0px; padding:0px; float:left;}
-#highlightsSectionTwo {width:49%; margin:0px; padding:0px; float:right;}
-.highlightsElement {border:1px solid #000000; margin-bottom:12px;}
-.highlightsElement h3 {background-color:#C0C0C0; border-bottom:1px solid #000000; color:#000000; font-size:11px; font-weight:bold; margin:0px; padding:2px 2px 2px 4px;}
-.highlightsElement li {padding-right:4px;}
-</style>
-
-<div id="container">
-<p>
-
-
-
-
-
-
-
-<style type="text/css">
-h1 {float:none;}
-</style>
 <script type="text/javascript">
-  function goTo(selectedChoice) {
-    if (selectedChoice !== 0) {
-      document.location.href = '/store/defaults/' + selectedChoice + '/DisplayDRPrivacyPolicyPage';
-    }
+var _TM = {
+        cc : 'USD'
+        ,ll : 'en-US'
+        ,mkt : 'usa'
+        ,geo : 'US'				
+        
+            ,pagename : 'Help'
+            ,pagetype : 'Help'
+            ,channel : 'Help'
+          
   }
 </script>
+<script type="text/javascript" src="//nexus.ensighten.com/microsoftstore/Bootstrap.js"></script>
+	<script>var ot_Authenticated = 'false';</script>
+
+<script type="text/javascript" src="//i.s-microsoft.com/storecontent/529.635af98e1676fe17ce922c234fa0c94bd1ea7fe5/modernizr-2.6.2.min.js"></script> 
+<script src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/multimedia/js/common/commonfiles.js" type="text/javascript"></script>
+<script type="text/javascript">
+  var pageNameFlag = '';
+  var privateStore = 'false';
+</script>
+
+<!-- Global OT: ptomodule object and browser-detection/cookie-setting -->
+    <script type="text/javascript" src="//dri1.img.digitalrivercontent.net/Storefront/Library/scripts/OTGlobalCode.js"></script>
+    <script type="text/javascript">
+      var ot_Country = 'en_US';
+    </script>
+    <!-- Site-level OT, from PageBuilder page: OT_globalTrial -->
+    <!-- Begin OT_globalTrial | Last update: 08_01_2012 Steven Wright -->
+<script type="text/javascript" src="//dri1.img.digitalrivercontent.net/Storefront/Site/msus/cm/multimedia/OT_Files/ot_global_custom_code-1.0.0.js"></script>
+
+
+<!--
+Portfolio: msusa
+Subject: All Pages
+Trial: Trial 1
+Referenced context:
+- Query string: test
+- JavaScript variables: optrial.sticky
+Note: This code should be included in a secure (https) page.
+-->
+
+<!-- DIGITAL RIVER PTO TRIAL CODE V2.7  -->
+<script language="javascript" type="text/javascript"><!--
+
+if(document.location.href.indexOf("test=removed") != -1){
+
+}else{
+
+
+//WED TEST BEGIN CODE
+  var runAsynchOT='yes';
+  if(runAsynchOT == 'yes'){
+//  if(document.location.href.indexOf("doasync=true") != -1){
+
+
+//BEGIN SEPT 10 ADDED CODE
+//code removed from here
+//END SEPT 10 ADDED CODE
+
+
+    if(typeof(ptomodule)=="object"){
+
+ptomodule.isIE6=(navigator.userAgent.toLowerCase().indexOf("msie 6")!=-1?true:false);ptomodule.XH=function(u){
+if(typeof(u)!="object")return;var s=this.D.createElement(this.ST);for(var n in this.SA){if(!this.isIE6)
+s.setAttribute(n,this.SA[n]);else s[n]=this.SA[n];}for(var n in u){if(!this.isIE6)s.setAttribute(n,u[n]);
+else s[n]=u[n];}var h=this.D.getElementsByTagName("head");if(h[0])h[0].insertBefore(s,h[0].childNodes[h[0].childNodes.length-1]);
+else this.D.body.insertBefore(s,this.D.body.childNodes[this.D.body.childNodes.length-1]);}
+ptomodule.RXH=function(r,c,d,e){if(this.Enabled){var b=true;if(r<1000){b=(Math.floor(Math.random()*1000)<r);
+if(c!=null){if(this.C[c]!=null)b=(this.C[c]!="mvt-no");else this.SC(c,b?"mvt-yes":"mvt-no",e,d);}}
+if(b){var u={"src":this.S()};this.XH(u);}}}
+
+//[START] added for Module compensation
+ptomodule.moduleNotExecuted = {};ptomodule.displayModule=function(s){if(typeof (this.M[s])=="function") this.M[s]();
+else this.moduleNotExecuted[s]=true;};ptomodule.asyncCheck = function (m) {for (var i = 0, l = m.length; i < l; i++){
+if (this.moduleNotExecuted[m[i]] == true) this.displayModule(m[i]);}}
+//[END] added for Module compensation
+
+    }
+
+
+    if(document.location.href.indexOf("https") == -1){
+
+(function(){var _o=ptomodule;_o.U="http://pto.digitalriver.com/trial/1677/p/allpages/42/content.js";
+_o.ST="script";_o.SA={"type":"text/javascript"};_o.B();_o.RXH(1000,null,null,null);})();
+
+    }
+
+
+  }else{
+//WED TEST END CODE
+
+    if(document.location.href.indexOf("https") == -1){
+
+(function(){var _o=ptomodule;_o.U="http://pto.digitalriver.com/trial/1677/p/allpages/42/content.js";_o.ST=
+"script";_o.SA={"type":"text/javascript"};_o.B();_o.R(1000,null,null,null);})();
+
+    }
+
+  }
+
+}
+
+//--></script>
+<!-- END DIGITAL RIVER PTO TRIAL CODE -->
 
 
 
+<!--
+Portfolio: msusa
+Subject: All Pages Phones
+Trial: Trial 1
+Referenced context:
+- Query string: test
+- JavaScript variables: optrial.sticky
+Note: This code should be included in a secure (https) page.
+-->
 
-</p><form name="countrySelect" action="/store" method="get">
-<input type="hidden" name="Action" value="DisplayDRPrivacyPolicyPage">
-<input type="hidden" name="SiteID" value="defaults">
-  <a href="#" target="_blank">View in new window</a>
-  <label for="Locale">Country:</label>
-  <select id="Locale" name="Locale" onchange="goTo(this.options[this.selectedIndex].value);">
-    <option value="en_US">Please select</option>
-    <option value="es_AR">Argentina</option>
-    <option value="en_AU">Australia</option>
-    <option value="de_AT">Austria</option>
-    <option value="nl_BE">Belgium (Dutch)</option>
-    <option value="fr_BE">Belgium (French)</option>
-    <option value="pt_BR">Brazil</option>
-    <option value="en_CA">Canada (English)</option>
-    <option value="fr_CA">Canada (French)</option>
-    <option value="es_CL">Chile</option>
-    <option value="zh_CN">China</option>
-    <option value="es_CO">Colombia</option>
-    <option value="cs_CZ">Czech Republic</option>
-    <option value="da_DK">Denmark (Danish)</option>
-    <option value="en_DK">Denmark (English)</option>
-    <option value="es_EC">Ecuador</option>
-    <option value="ar_EG">Egypt</option>
-    <option value="et_EE">Estonia</option>
-    <option value="fi_FI">Finland</option>
-    <option value="fr_FR">France</option>
-    <option value="de_DE">Germany</option>
-    <option value="el_GR">Greece</option>
-    <option value="zh_HK">Hong Kong</option>
-    <option value="hu_HU">Hungary</option>
-    <option value="en_IN">India (English)</option>
-    <option value="en_IE">Ireland</option>
-    <option value="iw_IL">Israel</option>
-    <option value="it_IT">Italy</option>
-    <option value="ja_JP">Japan</option>
-    <option value="lv_LV">Latvia</option>
-    <option value="lt_LT">Lithuania</option>
-    <option value="es_MX">Mexico</option>
-    <option value="nl_NL">Netherlands (Dutch)</option>
-    <option value="en_NL">Netherlands (English)</option>
-    <option value="en_NZ">New Zealand</option>
-    <option value="en_NO">Norway (English)</option>
-    <option value="no_NO">Norway (Norwegian)</option>
-    <option value="es_PE">Peru</option>
-    <option value="pl_PL">Poland</option>
-    <option value="pt_PT">Portugal</option>
-    <option value="en_PR">Puerto Rico (English)</option>
-    <option value="ro_RO">Romania</option>
-    <option value="ru_RU">Russian Federation</option>
-    <option value="sr_YU">Serbia Montenegro</option>  
-    <option value="sl_SL">Sierra Leone</option>   
-    <option value="en_SG">Singapore (English)</option>
-    <option value="sk_SK">Slovak Republic</option>
-    <option value="en_ZA">South Africa (English)</option>
-    <option value="ko_KR">South Korea</option>
-    <option value="es_ES">Spain</option>
-    <option value="sv_SE">Sweden</option>
-    <option value="fr_CH">Switzerland (French)</option>
-    <option value="de_CH">Switzerland (German)</option>
-    <option value="it_CH">Switzerland (Italian)</option>
-    <option value="th_TH">Thailand</option>
-    <option value="tr_TR">Turkey</option>
-    <option value="zh_TW">Taiwan</option>
-    <option value="en_GB">United Kingdom</option>
-    <option value="en_US" selected="">United States</option>
-    <option value="es_VE">Venezuela</option>
-    
+<!-- DIGITAL RIVER PTO TRIAL CODE V2.7  -->
+<script language="javascript" type="text/javascript"><!--
 
-    
-             
-  </select>
-  <noscript>
-    <input type="submit" value="Submit"/>
-  </noscript>
+if((document.location.href.indexOf("/pdp") != -1)||(document.location.href.indexOf("=pdp") != -1)||(document.location.href.indexOf("62685000") != -1)||(document.location.href.indexOf("62686900") != -1)||(document.location.href.indexOf("62687000") != -1)||(document.location.href.indexOf("63434000") != -1)||(document.location.href.indexOf("roductDetail") != -1)){
+
+
+(function(){var _o=ptomodule;_o.U="http://pto.digitalriver.com/trial/1677/p/allpagesphones/46/content.js";
+_o.ST="script";_o.SA={"type":"text/javascript"};_o.B();_o.R(1000,null,null,null);})();
+
+
+}
+
+//Compare Page 
+if(document.location.href.indexOf("OfficeCompare") != -1){
+
+(function(){var _o=ptomodule;_o.U="http://pto.digitalriver.com/trial/1677/p/officecomparepage1/96/content.js";
+_o.ST="script";_o.SA={"type":"text/javascript"};_o.B();_o.R(1000,null,null,null);})();
+
+}
+//Compare Page End
+
+//--></script>
+<!-- END DIGITAL RIVER PTO TRIAL CODE -->
+<!-- Page-level OT, from OT_PrivacyPage_contentBody -->
+    <!-- privateStore = 'false'; -->
+<script type="text/javascript">
+$(window).bind("pageshow", function(event) {
+  if (event.originalEvent.persisted) {
+    window.location.reload() 
+  }
+});
+</script>
+
+</head>
+
+<!--[if IE 7 ]> <body class="no-js lt-ie8 lt-ie9 lt-ie10 mstResponsive PrivacyPage dr_site_msusa dr_locale_en_US dr_theme_33363200 dr_currency_USD site-flow holiday" > <![endif]-->
+<!--[if IE 8 ]> <body class="no-js lt-ie9 lt-ie10 mstResponsive PrivacyPage dr_site_msusa dr_locale_en_US dr_theme_33363200 dr_currency_USD site-flow holiday" > <![endif]-->
+<!--[if IE 9 ]> <body class="no-js gt-ie8 lt-ie10 mstResponsive PrivacyPage dr_site_msusa dr_locale_en_US dr_theme_33363200 dr_currency_USD site-flow holiday" > <![endif]-->
+<!--[if !(IE)]><!--><body class=" mstResponsive PrivacyPage dr_site_msusa dr_locale_en_US dr_theme_33363200 dr_currency_USD site-flow holiday"><!--<![endif]-->
+<script>
+  document.body.className = document.body.className.replace("no-js", "");
+  var userAgent = navigator.userAgent.toLowerCase();
+  if (userAgent.indexOf("firefox") !== -1) {
+    document.body.className += " firefox";
+  } else if (userAgent.indexOf("opera") !== -1) {
+    document.body.className += " opera";
+  } else if (userAgent.indexOf('msie 10.0') !== -1) {
+    document.body.className += " gt-ie8";
+  }
+</script>
+<span class="opDefault" id="opmodule_msusa_bodyTop"></span>
+    <script type="text/javascript">
+      ptomodule.displayModule('msusa_bodyTop');
+    </script>
+  <!-- END TOPHEADER -->
+<!--!esi:include src="/esi?SiteID=msusa&StyleID=45118000&StyleVersion=5&styleIncludeFile=body-section0.html"-->
+<!--
+Customize the HTML layout for your page.
+The CONTENT placeholder will be replaced by Digital River dynamic content.
+Must not include < html >, < head > or < body > tags.
+-->
+
+<!--!/esi:include --><span class="opDefaultContent" id="opmodule_msusa_PrivacyPage_contentBody">
+      <!--!esi:include src="/store?Action=DisplayESIPage&Currency=USD&ESIHC=smart&Env=BASE&Locale=en_US&SiteID=msusa&StyleID=45118000&StyleVersion=5&ThemeID=33363200&ceid=222622700&cename=Privacy&id=PrivacyPage"-->
+<!-- REQUEST ID: TIME=1386818411801:NODE=gcapp01_gcappprd032316.c032:THREAD=43; ESI Fragment - CREATED: Wed Dec 11 21:20:11 CST 2013 MAX-AGE: 180+1800 --><!-- Splash Transformer Optimized -->
+<!-- Layout: PrivacyPage, Generated: Wed Dec 11 21:20:11 CST 2013 -->
+<div xmlns="http://www.w3.org/1999/xhtml">
+<header class="slim-header">
+<div class="grid-container">
+<div class="logo">
+<h1 class="heading--large">
+<a href="/store/msusa/en_US/DisplayHomePage" title="Microsoft Store U.S.">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/Holiday/microsoft-logo-holiday.png" alt="Microsoft Store U.S.">
+</a>
+</h1>
+</div>
+<ul class="header-links">
+<li>
+<a href="http://content.microsoftstore.com">Store locations</a>
+</li>
+<li id="lpChatDiv" class="live-chat" data-enabled="true">
+<!---->
+</li>
+<li>
+<a href="/store/msusa/en_US/DisplayHelpContactUsPage/">Contact us</a>
+</li>
+<li class="signInOutLink">
+<a href="https://www.microsoftstore.com/store/msusa/en_US/DisplayEditProfilePage/">Sign in</a>
+</li>
+<li class="cart"><a href="/store/msusa/en_US/DisplayThreePgCheckoutShoppingCartPage" class="shoppingcartIconLink"><span class="lineItemQuantity">0</span></a><a href="/store/msusa/en_US/DisplayThreePgCheckoutShoppingCartPage">Cart&nbsp;(<span class="lineItemQuantity">0</span>)</a></li>
+<li>
+<form method="get" action="/store" name="ProductSearchForm" id="ProductSearchForm">
+<input type="hidden" name="SiteID" value="msusa">
+<input type="hidden" name="Locale" value="en_US">
+<input type="hidden" value="DisplayProductSearchResultsPage" name="Action">
+<input type="hidden" id="result" name="result" value="">
+<div class="global-navigation">
+<div class="search-form" data-enabled="true" data-searchid="59236800">
+<div class="input-wrapper">
+<label for="search-box" class="screen-reader-text">Search&nbsp;MicrosoftStore.com</label>
+<input class="input_text ac_input" name="keywords" maxlength="255" id="search-box" autocomplete="off" type="text" placeholder="Search by keyword, SKU # or item #">
+</div>
+<button type="submit" class="search-submit" title="Search">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/Holiday/search-button-red.png" alt="Search">
+</button>
+</div>
+</div>
 </form>
-
-<p></p>
-<h1>Digital River Privacy Statement Highlights</h1>
-<p>Digital River values its relationship with you. These Privacy Statement Highlights summarize, at a high level, our full Privacy Statement about how Digital River collects, uses and discloses information about you through a commerce solution on which this Privacy Policy appears, which may be but is not limited to a website or a software application (each, a “Property”). These Highlights are intended for your convenience.  In the event of any conflict between the full Privacy Statement and these Highlights, the full Digital River Privacy Statement will govern.  For more information on any of these sections, please click the “Learn more” link to review the full Privacy Statement.</p>
-
-<p>
-    </p><div id="highlightsSectionOne">
-      <div class="highlightsElement">
-        <h3>How we Collect Information
-          <br><a href="#informationSection">Learn More</a>
-        </h3>
-        <ul>
-          <li>When you, through this Property, request information about a product or service, purchase a product, or otherwise elect to participate in an activity, we may ask you to provide personal information.</li>
-          <li>If you contact us directly, such as through customer service, we may request information so we can respond to your question or comment and/or validate your identity.</li>
-          <li>We collect information sent to us through your web browser.</li>
-          <li>We may receive certain personal information about you from third parties where you have agreed to share such information with us.</li>
-        </ul>
-      </div>
-      
-      <div class="highlightsElement">
-        <h3>Cookies, Web Beacons and Web Technologies
-          <br><a href="#cookiesSection">Learn More</a>
-        </h3>
-        <ul>
-          <li>We use web technologies, such as persistent cookies, session cookies, JavaScript tags, Web beacons, and similar technologies, to collect information about your use of this Property that is typically not personally identifiable.</li>
-          <li>We may place web technologies on our Property directly or through our service providers, or on behalf of our partner whose branding appears or their service providers.</li>
-          <li>We and our partners use this information to provide you with a personalized online experience. We may use this information to improve the content and functionality of this Property and our products and services.</li>
-        </ul>
-      </div>
-      
-      <div class="highlightsElement">
-        <h3>Accessing or Correcting Your Personal Information
-          <br><a href="#personalInformationSection">Learn More</a>
-        </h3>
-        <ul>
-          <li>If you would like to review, correct or dispute your personal information, please contact us.</li>
-        </ul>
-      </div>
-      
-      <div class="highlightsElement">
-        <h3>How to Contact Us
-          <br><a href="#contactSection">Learn More</a>
-        </h3>
-        <ul>
-          <li>If you have any questions, comments, or concerns regarding this Privacy Statement or our privacy practices, or have privacy-related questions not answered online, please contact us.</li>
-        </ul>
-      </div>
-    </div>  
-    <div id="highlightsSectionTwo">
-      <div class="highlightsElement">
-        <h3>Storage, Use and Sharing of Information
-          <br><a href="#storageSection">Learn More</a>
-        </h3>
-        <ul>
-          <li>We process your personal information on our servers, and/or through the servers of our subsidiaries and partners around the world.</li>
-          <li>We may use your personal information for the purposes set forth in the Privacy Statement, such as to process and complete your order if you are purchasing a product from us or communicate with you about other products or services.</li>
-          <li>We may share a copy of your personal information (excluding payment information) with our partner whose branding appears on an online store through which you provide us with personal information, and/or to the manufacturer or publisher of a product you purchase from us.</li>
-          <li>To the extent necessary, we may share your information with our third party contractors who assist us with providing services to you, such as but not limited to payment processing and fraud prevention, or in connection with this Property.</li>
-          <li>We will not share your personal information with our affiliates or unrelated 3rd parties for their own marketing purposes without your consent.</li>
-        </ul>
-      </div>
-      
-      <div class="highlightsElement">
-        <h3>Your Choices
-          <br><a href="#choicesSection">Learn More</a>
-        </h3>
-        <ul>
-          <li>You may indicate your choices as to whether you would like to receive further communications from us and/or our partners at the time and on the page where you provide your personal information.</li>
-          <li>You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us by following any unsubscribe link in our emails or by contacting us.</li>
-          <li>You can delete cookies at any time through your web browser.  You can also utilize a free third party service to make choices with respect to third party ad networks whose web technologies may appear on our Property.</li>
-        </ul>
-      </div>
-    </div>
-<p></p>
-
-<div id="">
-  <h1>DIGITAL RIVER PRIVACY STATEMENT</h1>
-  <p class="date">Last updated: October 17, 2012</p>
-  
-  <p>BY USING THIS WEBSITE OR COMMERCE SOLUTION OR SUBMITTING PERSONAL INFORMATION TO DIGITAL RIVER THROUGH THIS WEBSITE OR COMMERCE SOLUTION, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF INFORMATION AS DESCRIBED IN THIS PRIVACY STATEMENT.</p>
-  
-  <h3>Scope of this Privacy Statement</h3>
-  
-  <p><em>In General.</em> This Privacy Statement applies to each commerce solution, which may be but is not limited to a website or a software application (each, a “Property”) operated by Digital River, Inc.,  10380 Bren Road West, Minnetonka, Minnesota 55343, USA (“Digital River”) where this Privacy Statement can be accessed from a hyperlink on, or otherwise appears on, that Property.  If you are purchasing products through a Digital River subsidiary and not Digital River, Inc., please note that this Property is hosted and/or operated by Digital River under an agreement with the subsidiary of Digital River who is listed as the seller of products in the terms of sale on this Property.</p>
-  
-  <p>Digital River respects the privacy of our customers, partners and suppliers of products or services and clients. The purpose of this Privacy Statement is to provide you with information concerning how we collect personal information when you use this Property, and how we collect other information regarding your interaction with this Property without identifying you as an individual; how we use, handle and disclose collected information; and choices you may have about the ways we collect and use that information. Our goal in handling personal information provided to us is to comply with applicable data protection and privacy laws and to offer users of our Property notice, choice and consent regarding processing for direct marketing purposes, security, data integrity, access, and enforcement with regard to personal information.</p>
-  
-  <p>“Personal information” means information that identifies you personally, either alone or in combination with other information available to us.</p>
-  
-  <p><em>Supplemental Privacy Notices.</em> This Privacy Statement may be supplemented or amended from time to time by additional “Privacy Notices” posted or appearing on this Property. Such Privacy Notice will provide supplemental information on how we collect and handle information specific to where that Privacy Notice appears, and is intended to be read together with this Privacy Statement.</p>
-  
-  <p><em>Third Party Privacy Policies or Statements.</em> If you access a Property through which we offer products or services for sale, the Property may be co-branded with the name and branding of the organization whose product you are purchasing. If the privacy policy or statement of one of our partners also appears on this Property, this Privacy Statement will apply to our use of any information collected by us, and the privacy policy or statement of our partner will apply to any such information provided to that partner as contemplated by this Privacy Statement and any supplemental Privacy Notices.</p>
-  
-  <h3>Changes to this Privacy Statement</h3>
-  <p>We may occasionally update this Privacy Statement.  These updates may reflect, among other things, changes in applicable laws, rules or regulations, changes in our data collection practices, and/or changes to our business or services.  Changes to our Privacy Statement will become effective 30 days after posting and will only apply to your personal information we hold if you use the site after the revised statement becomes effective. If revisions to the Privacy Statement materially affect how we may use Personal Information collected from you prior to the date of the revised statement, then we will request that you opt-in to the revised Privacy Statement. We will post an updated version of this Privacy Statement on the Property with a revised effective date, to let you know that we updated the Privacy Statement.</p> 
-  
-  <a name="informationSection"></a><h3>Collection of Information</h3>
-  <p>We collect personal information you provide when you use this Property. This may include, but is not limited to, the following situations: where you are providing information when you request information about, or use, a product or service available through this Property, or information you provide when you purchase a product or service through this Property; where you are entering a contest or a promotion, ordering a newsletter or utilizing other informational tools; and where you are submitting an order or purchasing, downloading and/or registering products and/or signing up for additional services.</p>
-  
-  <p>The information we collect may include, but is not limited to, your name, e-mail address, IP address, billing and/or shipping address, phone number, payment account information, and other information about you submitted to verify who you are or to prevent fraud.  If you call our customer service, we may collect personal information you knowingly and voluntarily provide through your contact with our customer service representatives.</p>
-  
-  <p>We furthermore collect information that is sent to us by your web browser, which may include without limitation information that does not identify you personally (such as the date and time of your visit, information about your web browser, etc.). The information we receive in such manner depends on the settings on your web browser. If you have created a user identity on one of your visits to this Property, we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below. Please review the settings of your web browser if you want to learn what information your browser can send or how to change your browser settings.</p>
-  
-  <p>We may also receive certain personal information about you from third parties where you have agreed to share such information with us, such as through your use of a social network authentication to sign in to this Property.</p>
-  
-  <a name="cookiesSection"></a><h3>Cookies and Web Beacons, JavaScript tags, and Other Web Technologies</h3>
-  <p>We collect information that is typically not personally identifiable through the use of web technologies, including without limitation “session cookies,” “persistent cookies,” “web beacons” (also referred to as “tracking pixels,” “pixel tags,” or “action tags”), and “JavaScript tags.” As the Internet evolves, we may implement and use different types of technologies for this purpose.</p>
-  
-  <p>We may place web technologies on this site directly or through our third party providers, and may place web technologies on behalf of the partner whose branding appears on this Property or its service providers and allow that partner to utilize the data collected.  This information is used to enhance your use and experience with this Property, for marketing analysis, and for quality improvement purposes.  They also help us identify your IP address.  The information collected by web technologies does not identify you personally. However, if you have created a user identity on one of your visits to this Property, for example, by making a purchase, we may link the information we collect using web technologies to the information that identifies you personally.</p>
-  
-  <p><em>Cookies.</em>  When you visit or use this Property, your computer may receive one or more “cookies” in order to help personalize and support your use of this Property, our services, and/or the services of our partners.  A “cookie” is a small text file that is transferred to a web browser by a web server, and can be read by a web server in the same domain at a later time.  If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. We provide more information on this in the “Your Choices” section, below. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this Property. Cookies allow us to customize information that is presented to you through your use of a Property we host and/or operate (such as to display personalized content and targeted advertising to you on your future visits to that Property), and to save time by storing information so you do not need to re-enter it during a later use of a Property. In general, cookies do not identify you personally. We may use a combination of “session cookies” and “persistent cookies” on this Property, further described below.</p>
-
-  <p><em>Session Cookies.</em> A “session cookie” is a temporary cookie that expires when you close your browser. A session cookie assigns a randomly-generated, unique identification number to your computer when you access this Property. Assigning your computer a number facilitates the proper functioning of the features of our Property by permitting us to maintain a persistent “state” for your session, such as maintaining the contents of your shopping cart during checkout. We also use session cookies to collect anonymous information (i.e., information that does not identify you personally) about the ways visitors use this Property – which pages they visit, which links they use, and how long they stay on each page. We analyze this information (known as “click-stream information”) to better understand our visitors’ interests and needs and to improve the content and functionality of this Property.</p>
-  
-  <p><em>Persistent Cookies.</em> Unlike a session cookie, a “persistent cookie” does not expire when you close your browser. It stays on your computer until the expiration date set in the cookie (for example, at the end of a calendar month) or until you delete it.  Persistent cookies can be used to “tag” your computer so that the next time you visit (or someone using your computer visits), our server will recognize you, not by name, but by the “tag” on your computer. This will enable us to provide you with a personalized experience even if we do not know who you are. It will also allow us to collect more accurate information about the ways people use this Property, for example, how people use this Property on their first visit and how often they return.  Using persistent cookies permits us to provide you with a more personalized shopping experience and, in some cases, may save you the trouble of re-entering information already in our database.</p>
-  
-  <p><em>Web Beacons.</em> When you visit or use this Property, your computer may receive one or more “web beacons” in order to assist us with delivering cookies on this Property, to collect anonymous information about the use of this Property by our visitors, and to deliver customized or targeted content to you on this Property and through our partners.  Web beacons (also referred to as “tracking pixels,” “1x1 gifs,” “single-pixel gifs,” “pixel tags,” or “action tags”) are graphic images, usually no larger than a 1x1 pixel, placed at various locations on this Property. They also help us identify browser types, search terms that bring visitors to our Property, and the domain names of websites that refer traffic to us. We also utilize web beacons to provide us with more information on any emails we send out.  In particular, a web beacon in an email communication will send us information to let us know that you have received, opened, or acted upon an e-mail you have chosen to receive from us.</p>
-
-  <p><em>JavaScript Tags.</em> This Property may include one or more JavaScript tags which are used by us to collect anonymous information about the use of this Property by our visitors, and to deliver customized or targeted content to you on this Property and through our partners.  We may use JavaScript tags to anonymously track how visitors interact with our Properties, including where they came from and the manner in which they use our Properties.</p>
-  
-  <a name="storageSection"></a><h3>Storage, Use and Sharing of Information</h3>
-  <p>Your personal information provided to us will be processed on our computer servers.  In some cases (where it is necessary to do so in order to fulfill our contractual obligations to you) such information may also be transmitted or made available to (i) third-parties providing services to Digital River or (ii) product manufacturers, licensors and/or or suppliers, located in the European Economic Area (“EEA”), the United States of America or another territory outside the EEA.</p>
-  
-  <p><em>Our Use of Personal Information.</em>  We may use personal information collected by us for the following purposes: 
-    </p><ul class="bulletedList">
-      <li>to contact you if you have requested information or communication from us;</li>
-      <li>to determine the country in which you are located for compliance purposes (including without limitation export compliance) and for security, anti-piracy, and fraud prevention purposes;</li>
-      <li>to help verify that existing personal information about you in our possession is accurate and complete;</li>
-      <li>to provide you with product updates and upgrades, special offers, pricing information, newsletters, and other information, either on our own behalf or in some cases on behalf of a partner or client acting as their agent, where you have consented to receive it;</li>
-      <li>to undertake any other promotional activities where you have consented to such promotional activities;</li>
-      <li>in connection with keys, access codes or other information as may be required to permit you to access the websites or services of our partners to receive products, updates or services;</li>
-      <li>for the purposes identified in a specific Supplemental Privacy Notice posted on the page or area of this Property where you provided that information;</li>
-      <li>to verify compliance with applicable laws, rules and regulations;</li>
-      <li>if you visit this Property for the purposes of conducting a purchase transaction:
-        <ul class="bulletedListSecondary">
-          <li>to take, verify, process or deliver your order, process or obtain payment, verify your tax or tax exempt status, contest chargebacks, determine your eligibility for a line of credit, or notify you of the status of your order;</li>
-          <li>for fraud and piracy prevention purposes;</li>
-          <li>to provide you, to the extent permitted by law, with a personalized shopping experience;</li>
-          <li>to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;</li>
-          <li>to provide notice of your purchase to the provider of an online service for which you purchase a service use right from us, for example, in order for the service provider to enable your access to the service;</li>
-          <li>to establish an account for future purchases by you if you have consented to the creation of an account;</li>
-          <li>to facilitate the renewal of subscriptions for products or services; and</li>
-          <li>to provide you with effective customer service (which may to the extent and in a manner permitted by applicable law, include contacting visitors who commence but do not complete a checkout process to follow up on the incomplete session or to see if there was a problem with their use of this Property), and/or technical support.</li>
-        </ul>
-      </li>
-    </ul>
-  <p></p>
-  <p>We keep your personal information only as long as we need it for the purposes for which it was originally collected (or to which you have subsequently consented), for other legitimate purposes (such as regulatory compliance), and as permitted or required by applicable law. We will observe applicable law and take reasonable steps to ensure any person or entity receiving personal information for the purposes described above, are obligated to protect and keep secure the personal information on your behalf.</p>
-  
-  <p><em>Our Use of Anonymous Information.</em>  We may use anonymous information collected by us:
-    </p><ul class="bulletedList">
-      <li>to personalize and support your use of this Property, our services, and/or the services of our partners;</li>
-      <li>to improve this Property, the customer experience, our advertising systems, and our products and services;</li>
-      <li>for fraud prevention purposes, such as device fingerprinting;</li>
-      <li>to identify actions or transactions as originating through an affiliate marketing or referral program;</li>
-      <li>to deliver targeted advertisements on this Property and other websites and/or commerce solutions;</li>
-      <li>to provide reporting to our current and prospective partners and service providers; and</li>
-      <li>for other historical, statistical or research and analysis purposes. </li>
-    </ul>
-  <p></p>
-  <p>In addition, we may “de-identify” personal information by removing any information that identifies you specifically, and use the rest for the purposes set forth above.</p>
-  
-  <p><em>Our Partners.</em> When we make products available for sale through a Property, we are doing so as an independent e-commerce reseller of, or service provider for, the partner whose name and/or logo appears on the particular Property. In connection with your purchase of a product or service through an online store we operate that is co-branded with our partner’s branding, we will provide certain of the personal information and/or anonymous information you provide in connection with your purchase to that partner for reporting purposes, to allow our partner or its service provider to register your purchase, to enable your access to products or services provided by our partner or its suppliers, to facilitate warranty, technical support or after-sales service, to allow our partner or its subcontractor to send communications to you if you have consented to receive them, to allow our partner or its service provider to provide services in connection with this Property such as customer support or single sign-on functionality on this Property and our partner’s website, or for similar purposes in order to fulfill obligations to you. We may also provide certain of the personal information you provide in connection with your purchase to the publisher or manufacturer of a product you purchase, or operator of a service for which you purchase a service use right from us, if different than the partner whose name and/or logo appears on this Property.  The privacy policy of our partner, and of the publisher, manufacturer or operator of the product or service you purchase, will govern how that party uses and protects any of your personal information that we provide to them.</p>
-  
-  <p><em>Our Service Providers.</em> We utilize other companies, including but not limited to our corporate affiliates, to provide joint services or certain services to us or on our behalf and help us to operate our business. For example, to the extent permitted by applicable law we may use our corporate affiliates and/or other companies to host or maintain this Property, to process credit card payments, to provide fraud screening and/or detection services, to perform data integrity checks, to offer you a line of credit, to provide optimization services, to fulfill your order, for payment collection, to deliver advertisements on this Property and third party websites and/or commerce solutions, to send mail or e-mail, and/or to provide customer service. We may share your information with our service providers in connection with their provision of services to us.  These companies are required by contract to use any information we share with them only to perform services to us or on our behalf and to protect the confidentiality of your personal information. We may also allow these companies to utilize anonymous information, and to utilize aggregated personal information on an anonymous basis (i.e., where the aggregated data cannot identify you personally), for their business purposes.  We will not share your personal information with our affiliates or unrelated third parties to use for their own marketing purposes without your consent.</p>
-  
-  <p><em>To Comply With Legal Requirements, Cooperate With Law Enforcement, Prevent Fraud and Other Crimes, and Protect Legal Rights, Property, You and Others.</em> To the extent permitted by applicable law, we may disclose the personal information we collect on this Property without notifying you when we, in good faith, believe disclosure is appropriate to comply with the law or a regulatory requirement; to comply with governmental, administrative or judicial process, requirement or order, such as a subpoena or court order; to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, property or safety of Digital River, its corporate affiliates, and their respective employees, clients and partners and agents, other users or the public in general; or to protect your vital interests if determined necessary by us. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share our server logs – which contain visitors’ IP addresses – with the appropriate investigative authorities who may use that information to trace and identify individuals. We also reserve the right to report to appropriate law enforcement or government agencies any activities that we, in good faith, believe are or may be in violation of applicable laws, rules or regulations without providing notice to you.</p>
-  
-  <p><em>In Connection With Corporate Events.</em> If one of our corporate affiliates or a third party has acquired our business, specific assets or the business of one of our operating divisions through which you have provided information to us, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation, your personal information will become owned by that company. In that event, the acquiring company’s use of your personal information will still be subject to this Privacy Statement, any applicable Supplemental Privacy Notices, and the privacy preferences you have expressed to us.</p>
-
-  <a name="choicesSection"></a><h3>Your Choices</h3>
-  <p>Digital River respects your right to make choices about the ways we collect, use and disclose information about you. We generally ask you to indicate your choices at the time and on the page where you provide your personal information.</p>
-  
-  <p>When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us and/or from our partners, such as communications related to updates, upgrades, special offers and pricing. You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us, you may let us know by e-mailing us at <a href="mailto:remove@digitalriver.com">remove@digitalriver.com</a> or by following any unsubscribe link in our e-mails; please specify which consent you are revoking in your e-mail to us. Please note, however, if you give us permission to add your contact information to our Partner’s mailing list and later withdraw your permission, you will have to contact our Partner (or use the “opt-out” provided in the e-mails our Partner sends you) to have your name removed from our Partner’s mailing lists.</p>
-  
-  <p>If you accept a session or persistent cookie, you can delete it at any time through your web browser (e.g., as soon as you leave our Property).  If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this Property.</p>
-  
-  <p>We and our partners use third party service providers in connection with this Property and our business, which may include but are not limited to (a) Google Analytics and Omniture to serve ads on our behalf across the Internet and sometimes on this Property, and (b) ClickTale to gather user metrics and usage data. These service providers may collect anonymous information about your visits to our Property or to a website, your interaction with our Property or that website, and the products and services offered by us, our partners and our suppliers through the use of cookies, pixel tags, JavaScript code or other web technologies.  We and our partners may use this anonymous information to provide targeted advertisements to you for goods and services, for marketing analysis, and for quality improvement purposes. If you would like more information about this practice and to know your choices about not having this anonymous information used, please visit  
- <a href="http://www.networkadvertising.org/consumer/opt_out.asp" target="_blank">www.networkadvertising.org/consumer/opt_out.asp</a>.  You may view a list of third party service providers who collect anonymous information, and/or opt-out of such collection of anonymous information about you, by visiting <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.  If you would like to opt-out of tracking of your anonymous information through ClickTale, please visit <a href="http://www.clicktale.net/disable.html" target="_blank">http://www.clicktale.net/disable.html</a>. If you opt out of having your information collected through cookies, web beacons and other tools, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a “no-track” cookie).  If your browsers are configured to reject cookies when you visit our opt-out page, a “no-track” cookie cannot be set on your computer.  Also, if you subsequently erase “no-track” cookies, use a different computer or change web browsers, you will need to opt-out again.</p>
-  
-  
-  <h3>Security of Information</h3>
-  <p>We are committed to keeping personal information secure.  We have implemented physical, technical and administrative safeguards reasonably designed to protect your personal information from unauthorized access and disclosure.  When we collect or transmit sensitive information such as a financial account number, we use industry standard methods to protect that information.  It is important that you understand, however, that no commerce solution, website, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse, for example, by protecting your password.</p>
-  
-  <p>Different countries have different privacy laws and requirements. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Property, it will be protected by us in accordance with the terms of this Privacy Statement, any Supplemental Privacy Notices that apply to you, and applicable laws, rules and regulations.</p>
-  
-  <a name="personalInformationSection"></a><h3>Accessing and Correcting Your Personal Information</h3>
-  <p>We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information.</p>
-  
-  <p>If you would like to review, correct or challenge your personal information, please contact us by postal mail addressed to us, ATTN: Privacy Department, at 10380 Bren Road West, Minnetonka, Minnesota 55343, USA or by e-mail at <a href="mailto:privacy@digitalriver.com">privacy@digitalriver.com</a>. You may write to us in your own language.</p>
-  
-  <p>If you contact us we may, for your protection, ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if the disclosure may lead to a breach of applicable law and regulation, e.g. in case of any legal obligation to retain certain data, or if you have failed to provide sufficient evidence to verify your identity.</p>
-  
-  <h3>Links to Third Party Websites</h3>
-  <p>This Privacy Statement is only applicable to the use and disclosure of information we collect from and about you through this Property and any other website or commerce solution on which this Privacy Statement appears.  It does not apply to information collected directly by our partners, service providers or any other third party, even if their website links to this Property, or this Property links to their website.  We do not control the privacy policies of our partners, service providers or other third parties.  If you disclose information to any other party, different terms may apply to their use and disclosure of information disclosed to those third parties.  Please review the privacy statement posted on each website you visit.</p>
-  
-  <h3>Children’s Privacy</h3>
-  <p>This Property is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this Property unless supervised by an adult.  Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to Digital River’s Privacy Department, 10380 Bren Road West, Minnetonka, Minnesota 55343, USA or by e-mail at <a href="mailto:privacy@digitalriver.com">privacy@digitalriver.com</a>, and we will take reasonable steps to remove that information from our databases.</p>
-  
-  <a name="contactSection"></a><h3>How to Contact Us</h3>
-  <p>If you have any questions, comments, or concerns regarding this Privacy Statement or our privacy practices, or have privacy-related questions not answered online, you may contact us by any of the following means:
-    </p><ul class="bulletedList">
-      <li><em>By Mail:</em> You may contact us by postal mail addressed to Digital River, Inc., ATTN: Privacy Department, 10380 Bren Road West, Minnetonka, Minnesota 55343, USA.</li>
-      <li><em>By Email:</em> You may contact us by e-mail at <a href="mailto:privacy@digitalriver.com">privacy@digitalriver.com</a>.  Please specify "Global Privacy Question" in the subject line to help us to expedite our review of your e-mail.</li>
-    </ul>
-  <p></p>
-  <p>You may write to us in your own language.</p>
-  
-  <h3>Country-Specific Notices</h3>
-  <p>Countries in the European Economic Area (“EEA”)
-  Digital River Ireland Ltd, Unit 153, Shannon Free Zone West, Shannon, Co. Clare, Ireland, and Digital River International Sarl, 9b, Boulevard du Prince Henri, L-1724 Luxembourg, Luxembourg, are both subsidiaries of Digital River, Inc., a U.S. corporation with offices at 10380 Bren Road West, Minnetonka, Minnesota 55343, USA.  If you are located in the EEA, by using this Property you consent to the transfer of your personal data to Digital River, Inc.’s servers in the United States and the processing of your personal data in the United States for the purposes set forth in this Privacy Statement, and acknowledge that your personal data may be transmitted by us to other Digital River companies for the purposes set out in this Privacy Statement and for company group administration purposes. This will involve a transfer of your personal data to Digital River Inc. in the United States of America.</p>
+</li>
+</ul>
+</div>
+<nav>
+<div class="grid-container">
+<ul class="top-level-menubar" role="menu">
+<li class="top-level-menuitem" role="menuitem">
+<a class="top-level-link" href="">Shop products</a>
+<section class="drop-down-menu background-grey">
+<div class="grid-container">
+<div class="grid-row column-6 border-bottom">
+<div class="grid-unit">
+<a class="image-and-text top-category" aria-label="Surface" href="/store/msusa/en_US/html/pbPage.CATS/categoryID.66734700?icid=USGlobalNav_TopTab_1_Surface_092413">
+<div data-defer="" data-class="" data-src="//dri1.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_SurfacePro2.png" data-alt="Surface">
+<noscript>
+<img class="" src="//dri1.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_SurfacePro2.png" alt="Surface"/>
+</noscript>
+</div>
+<p class="call-to-action">Surface</p>
+</a>
+</div>
+<div class="grid-unit">
+<a class="image-and-text top-category" aria-label="Computers" href="/store/msusa/en_US/cat/categoryID.62684600?icid=USGlobalNav_TopTab_2_Computers_041713">
+<div data-defer="" data-class="" data-src="//dri2.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_Computer.png" data-alt="Computers">
+<noscript>
+<img class="" src="//dri2.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_Computer.png" alt="Computers"/>
+</noscript>
+</div>
+<p class="call-to-action">Computers</p>
+</a>
+</div>
+<div class="grid-unit">
+<a class="image-and-text top-category" aria-label="Windows Phone 8" href="/store/msusa/en_US/cat/categoryID.62685000?icid=USGlobalNav_TopTab_3_Win8Phone_071913">
+<div data-defer="" data-class="" data-src="//dri2.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_Phones.png" data-alt="Windows Phone 8">
+<noscript>
+<img class="" src="//dri2.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_Phones.png" alt="Windows Phone 8"/>
+</noscript>
+</div>
+<p class="call-to-action">Windows Phone 8</p>
+</a>
+</div>
+<div class="grid-unit">
+<a class="image-and-text top-category" aria-label="Xbox " href="/store/msusa/en_US/cat/categoryID.62684900?icid=USGlobalNav_TopTab_4_XboxOne_071913">
+<div data-defer="" data-class="" data-src="//dri1.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US/US_Global_NAV_XboxOne.png" data-alt="Xbox ">
+<noscript>
+<img class="" src="//dri1.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US/US_Global_NAV_XboxOne.png" alt="Xbox "/>
+</noscript>
+</div>
+<p class="call-to-action">Xbox </p>
+</a>
+</div>
+<div class="grid-unit">
+<a class="image-and-text top-category" aria-label="Windows" href="/store/msusa/en_US/cat/categoryID.62684800?icid=USGlobalNav_TopTab_5_Win8_071313">
+<div data-defer="" data-class="" data-src="//dri1.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US_Global_NAV_Windows_8-1.png" data-alt="Windows">
+<noscript>
+<img class="" src="//dri1.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US_Global_NAV_Windows_8-1.png" alt="Windows"/>
+</noscript>
+</div>
+<p class="call-to-action">Windows</p>
+</a>
+</div>
+<div class="grid-unit">
+<a class="image-and-text top-category" aria-label="Office " href="/store/msusa/en_US/cat/categoryID.62684700?icid=USGobalNav_TopCat_6_Office2013_071913">
+<div data-defer="" data-class="" data-src="//dri1.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_Office.png" data-alt="Office ">
+<noscript>
+<img class="" src="//dri1.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_Office.png" alt="Office "/>
+</noscript>
+</div>
+<p class="call-to-action">Office </p>
+</a>
+</div>
+</div>
+<div class="grid-row column-6">
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Computers/categoryID.62684600">Computers<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+<ul>
+<li>
+<a aria-label="Computers&nbsp;Surface" href="/store/msusa/en_US/cat/Surface/categoryID.62685300">Surface</a>
+</li>
+<li>
+<a aria-label="Computers&nbsp;Laptops" href="/store/msusa/en_US/list/Laptops/categoryID.62685400">Laptops</a>
+</li>
+<li>
+<a aria-label="Computers&nbsp;Tablets" href="/store/msusa/en_US/list/Tablets/categoryID.67092800">Tablets</a>
+</li>
+<li>
+<a aria-label="Computers&nbsp;2-in-1 PCs" href="/store/msusa/en_US/list/2-in-1-PCs/categoryID.62685500">2-in-1 PCs</a>
+</li>
+<li>
+<a aria-label="Computers&nbsp;All-in-ones" href="/store/msusa/en_US/list/All-in-ones/categoryID.62685600">All-in-ones</a>
+</li>
+<li>
+<a aria-label="Computers&nbsp;PC games" href="/store/msusa/en_US/list/PC-games/categoryID.62685800">PC games</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Office/categoryID.62684700">Office<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+<ul>
+<li>
+<a aria-label="&nbsp;Office suites" href="/store/msusa/en_US/list/Office-suites/categoryID.62685900">Office suites</a>
+</li>
+<li>
+<a aria-label="&nbsp;Office for Mac" href="/store/msusa/en_US/list/Office-for-Mac/categoryID.62686000">Office for Mac</a>
+</li>
+<li>
+<a aria-label="&nbsp;All Office apps" href="/store/msusa/en_US/list/All-Office-apps/categoryID.62686200">All Office apps</a>
+</li>
+</ul>
+</div>
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Windows/categoryID.62684800">Windows<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+<ul>
+<li>
+<a aria-label="&nbsp;Windows 8.1" href="/store/msusa/en_US/list/Windows-8.1/categoryID.62686300">Windows 8.1</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Xbox/categoryID.62684900">Xbox<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+<ul>
+<li>
+<a aria-label="&nbsp;Xbox One" href="/store/msusa/en_US/cat/Xbox-One/categoryID.64484500">Xbox One</a>
+</li>
+<li>
+<a aria-label="&nbsp;Xbox 360" href="/store/msusa/en_US/cat/Xbox-360/categoryID.64662300">Xbox 360</a>
+</li>
+<li>
+<a aria-label="&nbsp;Xbox Live" href="/store/msusa/en_US/cat/Xbox-Live/categoryID.62686700">Xbox Live</a>
+</li>
+</ul>
+</div>
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Windows-Phone/categoryID.62685000">Windows Phone<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+<ul>
+<li>
+<a aria-label="&nbsp;AT&amp;T" href="/store/msusa/en_US/list/AT-T/categoryID.62686900">AT&amp;T</a>
+</li>
+<li>
+<a aria-label="&nbsp;Verizon" href="/store/msusa/en_US/list/Verizon/categoryID.62687000">Verizon</a>
+</li>
+<li>
+<a aria-label="&nbsp;T-Mobile" href="/store/msusa/en_US/list/T-Mobile/categoryID.63434000">T-Mobile</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Accessories/categoryID.62685100">Accessories<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+<ul>
+<li>
+<a aria-label="&nbsp;Computer accessories" href="/store/msusa/en_US/cat/Computer-accessories/categoryID.62687100">Computer accessories</a>
+</li>
+<li>
+<a aria-label="&nbsp;Music accessories" href="/store/msusa/en_US/list/Music-accessories/categoryID.62687500">Music accessories</a>
+</li>
+<li>
+<a aria-label="&nbsp;PC gaming" href="/store/msusa/en_US/list/PC-gaming/categoryID.62687400">PC gaming</a>
+</li>
+<li>
+<a aria-label="&nbsp;Phone accessories" href="/store/msusa/en_US/list/Phone-accessories/categoryID.62687300">Phone accessories</a>
+</li>
+<li>
+<a aria-label="&nbsp;Surface accessories" href="/store/msusa/en_US/list/Surface-accessories/categoryID.64061900">Surface accessories</a>
+</li>
+<li>
+<a aria-label="&nbsp;Xbox 360 accessories" href="/store/msusa/en_US/list/Xbox-360-accessories/categoryID.62687200">Xbox 360 accessories</a>
+</li>
+<li>
+<a aria-label="&nbsp;App-enabled accessories" href="/store/msusa/en_US/list/App-enabled-accessories/categoryID.67096900">App-enabled accessories</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Additional-software/categoryID.62685200">Additional software<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+<ul>
+<li>
+<a aria-label="&nbsp;Visual Studio" href="/store/msusa/en_US/list/Visual-Studio/categoryID.62687600">Visual Studio</a>
+</li>
+<li>
+<a aria-label="&nbsp;Server and IT software" href="/store/msusa/en_US/list/Server-and-IT-software/categoryID.65897500">Server and IT software</a>
+</li>
+<li>
+<a aria-label="&nbsp;Visio" href="/store/msusa/en_US/list/Visio/categoryID.62687700">Visio</a>
+</li>
+<li>
+<a aria-label="&nbsp;Project" href="/store/msusa/en_US/list/Project/categoryID.62687800">Project</a>
+</li>
+<li>
+<a aria-label="&nbsp;Mapping" href="/store/msusa/en_US/list/Mapping/categoryID.62687900">Mapping</a>
+</li>
+<li>
+<a aria-label="&nbsp;More software" href="/store/msusa/en_US/list/More-software/categoryID.62688100">More software</a>
+</li>
+<li>
+<a aria-label="&nbsp;Skype Cards" href="/store/msusa/en_US/list/Skype-Cards/categoryID.67699300">Skype Cards</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/list/Answer-Desk/categoryID.63433500">Answer Desk<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+</div>
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/list/Education/categoryID.67547700">Education<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+</div>
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Small-business/categoryID.63433800">Small business<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+</div>
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/cat/Developer/categoryID.63433900">Developer<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+</div>
+<div class="list-of-links list-of-links-sm menu-groups">
+<h3 class="heading no-underline">
+<a href="/store/msusa/en_US/list/Refurbished/categoryID.64244600">Refurbished<span class="right-arrow-container">
+<span class="right-arrow">
+<!---->
+</span>
+</span>
+</a>
+</h3>
+</div>
+</div>
+</div>
+</div>
+</section>
+</li>
+<li class="top-level-menuitem" role="menuitem">
+<a class="top-level-link" href="http://answerdesk.microsoftstore.com/">Answer Desk</a><section class="drop-down-menu background-grey answer-desk"><div class="grid-container"><div class="grid-row column-6"><div class="grid-unit colspan-2"><div class="img-container"><div data-alt="Answer Desk" data-src="//dri2.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_AnswerDesk_Tall.jpg" data-defer=""><noscript>&lt;img src="//dri2.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_AnswerDesk_Tall.jpg" alt="Answer Desk"/&gt;</noscript><img class="undefined" alt="Answer Desk" src="//dri2.img.digitalrivercontent.net/Storefront/Site/msusa/images/promo/en-US-Global_NAV_AnswerDesk_Tall.jpg"></div></div></div><div class="grid-unit colspan-3"><div class="answer-desk-details"><h3 class="heading--bold no-underline"><a href="http://answerdesk.microsoftstore.com">Answer desk<span class="right-arrow-container"><span class="right-arrow"></span></span></a></h3><h4 class="big-heading">Life is complicated.<br>Technology shouldn't be.</h4><p class="description">Enjoy worry free technical support and protection. Our friendly Answer Techs can answer your questions, resolve your problems, and help safeguard your new device.</p><a href="http://content.microsoftstore.com/store/content/AnswerDesk" class="link">In-store services</a><a href="http://answerdesk.microsoftstore.com" class="link">Online services</a><a href="http://answerdesk.microsoftstore.com/Chat?skuId=1&amp;prodcat=store_compconsult&amp;entryid=homepage_banner&amp;psrc=ms_store" class="link">Chat with an Answer Tech</a></div></div><div class="grid-unit border-left"><div class="full-width"><div class="list-of-links list-of-links-sm menu-groups"><h3 class="heading no-underline"><a href="http://www.microsoftstore.com/store/msusa/en_US/DisplayHelpPage/">Help<span class="right-arrow-container"><span class="right-arrow"></span></span></a></h3><ul><li><a aria-label="Help Support" href="http://www.microsoftstore.com/store/msusa/en_US/DisplayHelpContactUsPage/">Support</a></li><li><a aria-label="Help Orders" href="http://www.microsoftstore.com/store/msusa/en_US/DisplayHelpOrdersShippingPage/">Orders</a></li><li><a aria-label="Help Returns" href="http://www.microsoftstore.com/store/msusa/en_US/DisplayHelpReturnsRefundsPage/">Returns</a></li><li><a aria-label="Help All help topics" href="http://www.microsoftstore.com/store/msusa/en_US/DisplayHelpPage/">All help topics</a></li><li><a aria-label="Help FAQ" href="http://www.microsoftstore.com/store/msusa/en_US/DisplayHelpFAQPage/">FAQ</a></li></ul></div></div></div></div></div></section></li>
+<li class="top-level-menuitem" role="menuitem" data-click-behavior="default">
+<a class="top-level-link" href="http://holiday.microsoftstore.com/store/msusa/en_US/html/pbPage.Cat/12-days-of-deals/categoryID.67001200?Icid=Homepage_Header_Tab3_12Days_120913">12 Days of Deals</a>
+</li>
+<li class="top-level-menuitem" role="menuitem" data-click-behavior="default">
+<a class="top-level-link" href="http://www.microsoftstore.com/store/msusa/en_US/cat/categoryID.67001000?Icid=Homepage_Header_Tab4_Gift_Guide_112713">Gift guide</a>
+</li>
+</ul>
+<span class="menulevel-merchandising"><a href="/store/msusa/en_US/DisplayHelpOrdersShippingPage/#shippingOptionsCosts">Free shipping. Free returns.</a></span>
+</div>
+</nav>
+<div class="stripe background-grey">
+<!---->
+</div>
+</header>
+<div id="body">
+<div class="grid-container">
+<div class="breadcrumbs breadcrumbs-padded">
+<a href="/store/msusa/en_US/DisplayHomePage">Home</a>
+<span>&gt;</span>
+<a href="/store/msusa/en_US/DisplayHelpPage/">Help</a>
+<span>&gt;</span>
+<a>Privacy statement</a>
+</div>
+</div>
+<section>
+<div class="grid-container">
+<div id="content"><!--  Content from Custom Page --><style>#content h3 {margin-top: 1.25em;font-size: 1.25em;}#body ul {margin: 0 0 2em 1.5em;list-style: disc;}</style><h1 class="heading--large">Privacy statement</h1><div><h2 class="heading--medium">Microsoft Store Privacy Statement</h2><p><strong>Last updated: August 2013</strong></p><p>Microsoft is committed to protecting your privacy. This privacy statement applies to the data collected by Microsoft through its Microsoft Stores, including the Microsoft Store websites that specifically point to this privacy statement (the “Site” or “Website”) and its Microsoft Store retail locations that specifically point to this privacy statement (the “Store”)(collectively, the “Microsoft Stores”).  This privacy statement does not apply to other online or offline Microsoft sites, stores products, or services.  Similarly, this privacy statement does not apply to the products or services that you may purchase through the Store or the Website, unless those products and services specifically reference this privacy statement.</p><h3 class="heading—small">Collection of your information</h3><p>We will ask you when we need information that allows us to contact you. The personal information we collect may include your name, email address, phone number, and postal address.  We may also collect demographic information, such as your ZIP or postal code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address which is used to create a billing account. If you choose to participate in these activities, we may also collect information from you that you provide in response to surveys or that you provide in connection with a contest. In our Stores, we may use video surveillance for safety and loss prevention purposes.  We may also use video footage for analytical purposes.</p><p>We may collect information about your visit to the Store or the Website. For example, we may use Web site analytics tools to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our Website, the pages you view within the Website, your browser add-ons, and your browser's width and height. Additionally, we collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses.  We may use information from your browser, such as language choice, to improve your customer experience, for example by making our Website accessible to you in your preferred language where possible.</p><p>In order to offer you a more consistent and personalized experience in your interactions with Microsoft, information collected through one Microsoft service may be combined with information obtained through other Microsoft services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.</p><p>To sign in to the Website, you will be asked to enter an e-mail address and password, which we refer to as your Microsoft account (formerly known as Windows Live® ID). After you create your Microsoft account, you can use the same credentials to sign in to many different Microsoft sites and services, as well as those of select Microsoft partners that display the Microsoft account logo. By signing in on one Microsoft site or service, you may be automatically signed in when you visit other Microsoft sites and services. To learn more about how your credential information is used when you sign in to participating sites, please read the Microsoft Online Privacy Statement at <a href="http://privacy.microsoft.com/">http://privacy.microsoft.com/</a>.  We may also use GeoIP or Geo Location mapping each time you visit the Website to help automatically direct you to the specific Microsoft Store Website intended for your location, but we do not store this information as part of your account information.</p><h3 class="heading—small">Use of your information</h3><p>The information collected in the Store or on the Website will be used to operate the Store and the Website and to provide the service(s) or carry out the transaction(s) you have requested or authorized, to include sending you a reminder if you have items in your shopping cart. We may also use this information to provide customer support, to facilitate returns and exchanges, to respond to questions or complaints, to conduct customer surveys, to detect and prevent fraud and for other purposes described in this Privacy Statement.</p><p>In support of these uses, Microsoft may use your information to provide you with more effective customer service, improve the Store or the Website and any related Microsoft products or services, perform statistical analysis, and make the Website easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Website to your particular preferences or interests.</p><p>We may use your information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about Microsoft Store products, services, events and promotions, as well as the same information for other Microsoft products and services.  Also with your permission, we may share your personal information with Microsoft partners so they may send you information about their products and services.</p><p>Microsoft occasionally hires other companies to provide limited services on our behalf, such as Web site hosting, packaging, mailing, surveys and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.</p><p>We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of Microsoft or our customers, including the enforcement of our agreements or policies governing your use of the services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public. We may also disclose personal information as otherwise permitted by law and as part of a corporate transaction such as a merger or sale of assets.</p><p>Information that is collected in the Store or on the Website may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.</p><h3 class="heading—small">Control of your personal information</h3><p>Except as otherwise described in this statement or with your permission, personal information you provide to Microsoft in connection with the Store or on the Website will not be shared outside of Microsoft and its controlled subsidiaries and affiliates.</p><p>You can stop the delivery of future promotional e-mail from Microsoft sites and services by following the specific instructions in the e-mail you receive. You may also make choices about the communications you receive through the Website by signing into your Microsoft Store account and modifying your contact settings.  For Store communications, you may modify your contact preferences by notifying the Store directly.</p><p>In the event that you return any product or item, you are responsible for deleting all stored personal information and content before your return it.</p><p>Please be aware that this privacy statement and any choices you make in the Store or on the Website will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft websites, products or services.</p><h3 class="heading—small">Access to your personal information </h3><p>You can review and edit the personal information you provided at the Website by signing into your Microsoft Store account. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your Microsoft account credentials (e-mail address and password).</p><h3 class="heading—small">Security of your information </h3><p>At Microsoft, we take the security of your personal information very seriously. We use a variety of security technologies and procedures in our Stores and on our Websites to help protect your personal information from unauthorized access, use, or disclosure. For example, for our Website, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, if we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p><h3 class="heading—small">Cookies &amp; similar technologies</h3><p>Most Microsoft web sites use "cookies," which are small text files placed on your hard disk by a web server. Cookies contain text that can be read by a web server in the domain that issued the cookie to you.  That text often consists of a string of numbers and letters that uniquely identifies your computer, but may contain other information as well.  Here is an example of the text stored in a cookie that Microsoft might place on your hard disk when you visit one of our web sites:  E3732CA7E319442F97EA48A170C99801</p><p>We may use cookies for:</p><ul><li><strong>Storing your Preferences and Settings.</strong> If you enter your city or postal code to get local news or weather information on a Microsoft site, we may store that city or postal code in a cookie so that you will see the relevant local information when you return to the site.  This can save you time by eliminating the need to repeatedly enter the same information every time you visit the site. </li><li><strong>Sign-in and Authentication.</strong> When you sign in to a site or service using your Microsoft account, we store your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. We also use cookies to improve the sign-in experience. For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in. In addition, we use cookies to store items in your Shopping Cart between visits.  If you are using a public computer or do not want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used.</li><li><strong>Targeted Advertising</strong>When we display online advertisements to you, we will place one or more persistent cookies on your device in order to recognize your device each time we display an ad to you. Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you.  You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, in <a href="http://privacy.microsoft.com/">Microsoft Advertising Privacy Statement</a>.</li><li><strong>Site Analytics</strong> We may use cookies to count the number of unique visitors to a web page or service or to develop other aggregate statistics about the operations of our sites and services.  These analytics help us operate and improve the performance of these sites and services.<p>Some of the cookies we commonly use are listed in the following chart.  This list is not exhaustive, but it is intended to illustrate some of the reasons we set cookies.  If you visit one of our web sites, the site may set some or all of the following cookies:</p><table cellspacing="0" cellpadding="0"><thead><tr><th><strong>Cookie name</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td>MUID</td><td>Identifies unique browsers to Microsoft sites.  It is used for advertising, site analytics and other operational purposes.</td></tr><tr><td>ANON</td><td>Contains the ANID, a unique identifier used to help identify which ads a user may like.  It is also used to preserve a user’s choice to opt out of behaviorally targeted ads from Microsoft, if the user has chosen to associate the opt-out with his or her Windows Live ID.</td></tr><tr><td>CC</td><td>Contains a country code as determined by reverse IP address lookup.</td></tr><tr><td>Windows Live ID authentication</td><td>Authentication cookies (e.g., RPSTAuth, MSNRPSAuth, KievRPSAuth) used when a user signs in with a Windows Live ID.</td></tr><tr><td>NAP</td><td>Contains an encrypted version of the user’s country, ZIP code, age, gender, language and occupation, if known, based on the user’s Windows Live profile.</td></tr><tr><td>MH</td><td>Appears on co-branded sites where Microsoft is partnering with an advertiser, this cookie identifies the advertiser so the right ad is selected. </td></tr><tr><td>ACH01</td><td>Maintains information about which ad and where the user clicked on the ad.</td></tr><tr><td>TOptOut</td><td>Indicates that the user has indicated he or she does not want to receive behaviorally targeted ads delivered by Microsoft.</td></tr></tbody></table><p>In addition to the cookies Microsoft may set when you visit our web sites, third parties may also set certain cookies on your hard drive when you visit Microsoft sites.  In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics.  In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content or ads delivered by other ad networks.  Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your hard drive. </p></li></ul><h3 class="heading—small"><u>How to control cookies</u></h3><ul><li><strong>Browser Controls to Block Cookies.</strong> Most web browsers automatically accept cookies, but you can usually modify your browser setting to block cookies.<p>For example, in Internet Explorer 9, you may block cookies by taking the following steps:</p><ol><li>Click “Tools” and then select “Internet Options”</li><li>Click the “Privacy” tab at the top of the window</li><li>Move the slider up or down to select the types of cookies you wish to block</li></ol><p>Instructions for blocking cookies in other browsers are available at <a href="http://www.allaboutcookies.org/manage-cookies/">http://www.allaboutcookies.org/manage-cookies/</a>.</p><p>Please be aware that if you choose to block cookies, you will not be able to add items to your shopping cart, proceed to checkout, or sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.</p></li><li><strong>Browser Controls to Delete Cookies.</strong>  If you accept cookies, you can delete them later.<p>For example, in Internet Explorer 9, you may delete cookies by taking the following steps:</p><ol><li>Click “Tools” and then select “Internet Options”</li><li>On the “General” tab, under “Browsing History,” click the “Delete” button</li><li>On the pop-up, select the box next to “Cookies” </li><li>Click the “Delete” button</li></ol><p>Instructions for deleting cookies in other browsers are available at <a href="http://www.allaboutcookies.org/manage-cookies/">http://www.allaboutcookies.org/manage-cookies/</a>.</p><p>Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.</p></li><li><strong>Browser Controls for “Do Not Track” and Tracking Protection.</strong> Some newer browsers have incorporated “Do Not Track” features.  Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked.   Those sites may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.<p>Internet Explorer 9 has a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers.  When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you.  And when you have a Tracking Protection List enabled, Internet Explorer will send a Do Not Track signal or preference to the web sites you visit.  For more information about Tracking Protection Lists and how to find them, please see the Internet Explorer privacy statement or Internet Explorer Help.</p></li><li><strong>Advertising Opt-Out Controls </strong>Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use.  Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft).  These pages include:<ol><li>Digital Advertising Alliance (DAA) Consumer Choice Page: <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a></li><li>Network Advertising Initiative (NAI) Opt-Out Page: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></li></ol><p>Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices.  For instance, Microsoft’s advertising preference and opt-out controls are available at <a href="http://choice.live.com/advertisementchoice/">http://choice.live.com/advertisementchoice/</a>. Please note that opting out does not mean that you will stop getting ads or see fewer ads; however, if you do opt out, the ads that you receive will no longer be behaviorally targeted. In addition, opting out does not stop information from being collected.</p></li></ul><h3 class="heading—small">Our use of web beacons</h3><p>Microsoft web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that may be used to help deliver cookies on our sites, let us count users who have visited those pages and deliver co-branded services. We may include web beacons in our promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon.</p><p>We may also work with other companies that advertise on Microsoft sites to place web beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement on a Microsoft site results in a purchase or other action on the advertiser's site.</p><p>Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other web site operations. These web beacons may allow the third parties to set or read a cookie on your computer.  We prohibit third parties from using web beacons on our sites to collect or access your personal information.  Nevertheless, you may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers:</p><ul><li>Omniture (Adobe):  <a href="http://www.d1.sc.omtrdc.net/optout.html">http://www.d1.sc.omtrdc.net/optout.html</a></li><li>Nielsen:  <a href="http://www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices">http://www.nielsen-online.com/corp.jsp?section=leg_prs&amp;nav=1#Optoutchoices</a></li><li>Coremetrics:  <a href="http://www.coremetrics.com/company/privacy.php#optout">http://www.coremetrics.com/company/privacy.php#optout</a></li><li>Visible Measures:  <a href="http://corp.visiblemeasures.com/viewer-settings">http://corp.visiblemeasures.com/viewer-settings</a></li><li>Google Analytics:  <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a> (requires you to install a browser add-on)</li></ul><h3 class="heading—small">Other similar technologies</h3><p>In addition to standard cookies and web beacons, web sites can use other technologies to store and read data files on your computer.  This may be done to maintain your preferences or to improve speed and performance by storing certain files locally.  But, like standard cookies, it can also be used to store a unique identifier for your computer, which can then be used to track behavior.  These technologies include Local Shared Objects (or “Flash cookies”) and Silverlight Application Storage.</p><ul><li><strong>Local Shared Objects or “Flash cookies.”  </strong>Web sites that use Adobe Flash technologies may use Local Shared Objects or “Flash cookies” to store data on your computer.  Note that the ability to clear Flash cookies may or may not be controlled by your browser setting for standard cookies as that may vary by browser.  To manage or block Flash cookies, go to <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a></li><li><strong>Silverlight Application Storage.</strong> Web sites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage.  To learn how to manage or block such storage, visit Silverlight.  </li></ul><h3 class="heading—small">Display of advertising  </h3><p>Many of the Web sites and online services we offer, as well as those of our partners, are supported by advertising. Through our ad delivery platform, we may display ads on our own sites and the sites of our advertising partners.</p><p>When we display online advertisements to you, we will place a persistent cookie on your computer in order to recognize your computer each time we display an ad to you. Because we may serve advertisements on many different Web sites, we are able to compile information over time about where you, or others who are using your computer, saw and/or clicked on the advertisements we display. We use this information to make predictions about your characteristics, interests, or preferences, and to display targeted advertisements that we believe may be of interest to you. We may also associate this information with your subsequent visit, purchase, or other activity on participating advertisers’ Web sites in order to determine the effectiveness of the advertisements.</p><p>While we may use some of the information we collect in order to personalize the ads we show you, we designed our systems to select ads based only on data that does not personally and directly identify you. For example, we may select the ads we display according to certain general interest categories or segments that we have inferred based on (a) demographic or interest data, including any you may have provided when creating an account (e.g. age, zip or postal code, and gender), demographic or interest data acquired from other companies, and a general geographic location derived from your IP address; (b) the pages you view and links you click when using Microsoft’s and its advertising partners’ Web sites and services; and (c) the search terms you enter when using Microsoft’s Internet search services, such as Bing, and (d) information about the users you most frequently interact with through Microsoft’s communications or social networking services, such as Messenger. For more information about how we target ads, visit <a href="http://choice.live.com/advertisementchoice/" target="_blank">Personalized Advertising from Microsoft</a>.</p><p>When we display personalized targeted ads, we take a number of steps designed to protect your privacy. For example, we store page views, clicks, and search terms used for ad personalization separately from your contact information or other data that directly identifies you (such as your name, e-mail address, etc.). Further, we have built in administrative, technical, and physical safeguards designed to prevent the unauthorized correlation of this data. We also give you the ability to opt-out of personalized ads. For more information or to use the opt-out feature, you may visit our <a href="http://choice.live.com/advertisementchoice" target="_blank">opt-out page</a>. In addition, you can go to the <a href="http://www.networkadvertising.org/" target="_blank">Network Advertising Initiative</a>, which offers a single location to opt-out of ad targeting from member companies.</p><p>We also provide third party ad delivery through our Atlas subsidiary, and you may read the Atlas privacy statement at <a href="http://www.atlassolutions.com/privacy.aspx" target="_blank">http://www.atlassolutions.com/privacy.aspx</a>.</p><p>Although the majority of the online advertisements on Microsoft sites are displayed by Microsoft, we also allow third-party ad-serving companies, including other ad networks, to display advertisements on our sites. These companies currently include, but are not limited to <a href="http://www.247realmedia.com/" target="_blank">24/7 Real Media</a>, <a href="http://advertising.com/" target="_blank">Advertising.com</a>, <a href="http://www.bidclix.com/" target="_blank">Bidclix</a>, <a href="http://www.bluestreaktech.com/" target="_blank">Bluestreak</a>, <a href="http://www.burstmedia.com/" target="_blank">Burst Media</a>, <a href="http://www.doubleclick.com/" target="_blank">DoubleClick</a>, <a href="http://www.euroclick.com/" target="_blank">EuroClick</a>, <a href="http://www.eyeblaster.com/" target="_blank">Eyeblaster</a>, <a href="http://www.eyewonder.com/" target="_blank">EyeWonder</a>, <a href="http://www.falkag.de/" target="_blank">Falk</a>, <a href="http://www.interpolls.com/" target="_blank">Interpolls</a>, <a href="http://www.kanoodle.com/" target="_blank">Kanoodle</a>, <a href="http://www.mediaplex.com/" target="_blank">Mediaplex</a>, <a href="http://www.pointroll.com/" target="_blank">Pointroll</a>, <a href="http://www.tangozebra.co.uk/" target="_blank">TangoZebra</a>, <a href="http://searchmarketing.yahoo.com/" target="_blank">Yahoo! Publisher Network</a>, and <a href="http://www.zedo.com/" target="_blank">Zedo</a>.</p><p>These companies may offer you a way to opt-out of ad targeting based on their cookies You may find more information by clicking on the company names above and following the links to the Web sites of each company.  Some of these companies are members of the<a target="_blank" href="http://www.networkadvertising.org/">Network Advertising Initiative</a>, which offers a single location to opt out of ad targeting from member companies.</p><h3 class="heading—small">Changes to this Privacy Statement </h3><p>We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Website or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.</p><h3 class="heading—small">Contact information </h3><p>Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please visit the Contact Us page on our Website to send us an e-mail or contact us by postal mail at:</p><div class="dr_addressPrivacyPage">Microsoft Privacy<br>Microsoft Corporation<br>One Microsoft Way<br>Redmond, Washington 98052<br>USA<br>+1 (425) 882-8080</div></div>&nbsp;</div>
+<div>
+<p class="returnTop">
+<a href="#content" title="Return to top">Return to top</a>
+</p>
+</div>
+</div>
+</section>
+</div>
+<section class="row-padded-top background-grey footer-links">
+<div class="grid-container">
+<div class="grid-row column-1">
+<div class="grid-unit">
+<div class="footer-email-us">
+<form method="post" action="//nct.digitalriver.com/fulfill/thankyou/0295.017" name="email-us-form" id="email-us-form">
+<input type="hidden" name="product" value="0295.017">
+<input type="hidden" name="language" value="en">
+<input type="hidden" name="campaign_id" value="">
+<input type="hidden" name="account" value="0295">
+<input type="hidden" name="submit" value="SUBMIT">
+<input type="hidden" name="flex2" value="msusa">
+<input type="hidden" name="flex3" value="en_US">
+<div class="email-signup">
+<label for="email">Sign up for Microsoft news and special offers</label>
+<input type="email" name="flex1" id="email" class="default-text" placeholder="Enter email address">
+<button class="box blue" type="submit">Sign up</button>&nbsp;</div>
+<div class="email-signup-completed">
+<p>Thanks for signing up.&nbsp; We’ll be in touch soon.</p>
+</div>
+<div class="email-privacy-policy">
+<a target="_blank" href="http://www.microsoftstore.com/store/msusa/en_US/DisplayPrivacyPage/">Privacy policy</a>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="grid-row column-4">
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm other-ms-sites">
+<h3 class="heading">Other Microsoft sites</h3>
+<ul>
+<li>
+<a href="http://windows.microsoft.com/en-US/windows/home" target="_blank">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/windows_logo.png" title="Windows" alt="Windows">Windows</a>
+</li>
+<li>
+<a href="http://office.microsoft.com" target="_blank">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/office_logo.png" title="Office" alt="Office">Office</a>
+</li>
+<li>
+<a href="http://www.surface.com" target="_blank">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/surface_logo.png" title="Surface" alt="Surface">Surface</a>
+</li>
+<li>
+<a href="http://www.windowsphone.com" target="_blank">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/windowsphone_logo.png" title="Windows Phone" alt="Windows Phone">Windows Phone</a>
+</li>
+<li>
+<a href="http://www.xbox.com/en-US/" target="_blank">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/xbox_logo.png" title="Xbox" alt="Xbox">Xbox</a>
+</li>
+<li>
+<a href="http://www.skype.com" target="_blank">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/skype_logo.png" title="Skype" alt="Skype">Skype</a>
+</li>
+<li>
+<a href="http://www.bing.com" target="_blank">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/bing_logo.png" title="Bing" alt="Bing">Bing</a>
+</li>
+<li>
+<a href="http://www.microsoftstore.com" target="_blank">
+<img src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/msstore_logo.png" title="Microsoft Store U.S." alt="Microsoft Store U.S.">Microsoft Store U.S.</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm">
+<h3 class="heading">Account</h3>
+<ul>
+<li>
+<a href="https://www.microsoftstore.com/store/msusa/en_US/DisplayEditProfilePage/" aria-label="Account&nbsp;View account">View account</a>
+</li>
+<li>
+<a href="https://www.microsoftstore.com/store/msusa/en_US/DisplayHelpOrdersShippingPage/" aria-label="Account&nbsp;Order tracking">Order tracking</a>
+</li>
+<li>
+<a href="https://www.microsoftstore.com/store/msusa/en_US/DisplayAccountOrderListPage/" aria-label="Account&nbsp;Order history">Order history</a>
+</li>
+<li>
+<a href="https://www.microsoftstore.com/store/msusa/en_US/DisplayDownloadHistoryPage/" aria-label="Account&nbsp;Download + product keys">Download + product keys</a>
+</li>
+</ul>
+</div>
+<div class="list-of-links list-of-links-sm">
+<h3 class="heading">About</h3>
+<ul>
+<li>
+<a href="/store/msusa/en_US/DisplayHelpSiteAffiliateProgramPage/" aria-label="About&nbsp;Affiliate program">Affiliate program</a>
+</li>
+<li>
+<a href="/store/msusa/en_US/DisplaySitemapPage/" aria-label="About&nbsp;Sitemap">Sitemap</a>
+</li>
+<li>
+<a href="http://www.microsoft-store-careers.com" aria-label="About&nbsp;Careers">Careers</a>
+</li>
+<li>
+<a href="http://content.microsoftstore.com" aria-label="About&nbsp;Retail store locations">Retail store locations</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-unit">
+<div class="list-of-links list-of-links-sm">
+<h3 class="heading">Help</h3>
+<ul>
+<li>
+<a href="/store/msusa/en_US/DisplayHelpContactUsPage/" aria-label="Help&nbsp;Support">Support</a>
+</li>
+<li>
+<a href="/store/msusa/en_US/DisplayHelpOrdersShippingPage/" aria-label="Help&nbsp;Orders">Orders</a>
+</li>
+<li>
+<a href="/store/msusa/en_US/DisplayHelpReturnsRefundsPage/" aria-label="Help&nbsp;Returns">Returns</a>
+</li>
+<li>
+<a href="/store/msusa/en_US/DisplayHelpPage/" aria-label="Help&nbsp;All help topics">All help topics</a>
+</li>
+<li>
+<a href="/store/msusa/en_US/DisplayHelpFAQPage/" aria-label="Help&nbsp;FAQ">FAQ</a>
+</li>
+</ul>
+</div>
+<div class="list-of-links list-of-links-sm">
+<h3 class="heading">Connect</h3>
+<ul>
+<li>
+<a href="http://www.facebook.com/MicrosoftStore" target="_blank">
+<span>Facebook</span>
+</a>
+</li>
+<li>
+<a href="http://twitter.com/microsoftstore" target="_blank">
+<span>Twitter</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-unit footer-offer hide-option" pop="ms_Seo_Footer">
+<div class="list-of-links list-of-links-sm">&nbsp;</div>
+</div>
+</div>
+</div></section>
+<footer class="site-footer background-grey legal" role="contentinfo">
+<div class="grid-container">
+<div class="grid-row column-4">
+<div class="grid-unit">
+<a class="locale-selector" href="/store/msusa/en_US/DisplayWorldWidePage/">
+<span class="icon-globe">
+<!---->
+</span>United States - English</a>
+</div>
+<div class="grid-unit colspan-3">
+<div class="legalwrapper">
+<img src="//i.s-microsoft.com/global/ImageStore/PublishingImages/logos/hp/logo-type-1x.png" alt="Microsoft" data-source-index="0">
+<ul class="inline nomargins">
+<li>
+<a href="/store/msusa/en_US/DisplayPrivacyPage/">Privacy and Cookies</a>
+</li>
+<li>
+<a href="/store/msusa/en_US/DisplayTermsOfUseAndSalePage/">Terms Of Use And Sale</a>
+</li>
+<li>
+<a href="http://www.microsoft.com/about/legal/en/us/IntellectualProperty/Trademarks/EN-US.aspx">Trademarks</a>
+</li>
+<li id="mscom-legal-copyright">© 2013 Microsoft</li>
+</ul>
+<span>This site is hosted by Digital River</span>
+</div>
+</div>
+</div>
+</div>
+</footer>
 </div>
 
-</div>
+<!--!/esi:include --></span><!-- /.opDefaultContent -->
+    <script type="text/javascript">
+        ptomodule.displayModule('msusa_PrivacyPage_contentBody');
+      </script>
+    <script type="text/javascript"> var inputVariables = {"storeData":{ "page":{ "siteid":"msusa", "locale":"en_US", "currentPageName":"PrivacyPage", "isAuthenticated":"false" ,"Env":"BASE" }, "request": { "serverName":"www.microsoftstore.com", "scheme":"http", "reqID":"", "method":"GET" }, "resources": { "images": { "loader":"//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/loader.gif", "MSFT_StoreMark":"//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/MSFT_StoreMark.jpg", "default_64x64":"//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/default_64x64.gif", "MissingImage":"//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/MissingImage.gif", "transp":"//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/transp.gif" }, "javascript":{ "jquery_autocomplete":"//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/multimedia/js/common/jquery_autocomplete.js", "sc_agegate_addon_v3":"//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/multimedia/js/common/sc_agegate_addon_v3.js" }, "text":{ "SOLD_OUT":"Sold out", "OUT_OF_STOCK":"Out of stock", "PROCESSING":"Processing...", "ADDED_TO_CART":"Added to cart", "UNABLE_TO_ADD_ITEM":"Unable to add item", "CLICK_TO_SHARE_TWITTER":"Click to share this page on Twitter", "CLICK_TO_SHARE_FACEBOOK":"Click to share this page on Facebook", "CLICK_TO_SHARE_EMAIL":"Click to Email this Page", "SHARE_COLON":"Share:", "SEARCH_MICROSOFT_STORE":"Search Microsoft Store", "TEXT_HI":"Hi", "SIGNOUT_URL_PREFIX":"/passportlogotag.aspx?ru=", "SIGN_OUT":"Sign out", "SHOWING":"SHOWING", "OF":"of", "PAGE_COLON":"Page:", "PAGE_NUMBER_1":"Page 1", "PAGE_NUMBER_HASHED":"Page #", "PREVIOUS_PAGE":"Previous page", "PREVIOUS":"previous", "NEXT_PAGE":"Next page", "NEXT":"Next", "ALERT_TERMS_AND_CONDITION":"Please indicate you have read and accepted the Terms of Use and Sale and Privacy Statement.", "EMAIL_OPT_OUT_TEXT":"I want to receive email from Microsoft about exclusive offers, products, services and events.", "SiteSetting_PhoneNumberMinLength":"10", "STATE_PROVINCE":"State", "BILLINGADDRESS_NICKNAME_ERROR":"Please include address name", "BILLINGADDRESS_LINE1_ERROR":"Include an address", "BILLINGADDRESS_CITY_ERROR":"Include a city", "BILLINGADDRESS_STATE_ERROR":"Select state", "BILLINGADDRESS_COUNTRY_ERROR":"BILLINGADDRESS_COUNTRY_ERROR", "BILLINGADDRESS_POSTALCODE_ERROR":"Include zip code", "BILLINGADDRESS_PHONE_ERROR":"Include a valid phone number", "BILLINGADDRESS_ACCOUNTNUM_ERROR":"Include account number", "BILLINGADDRESS_PASSWORD_ERROR":"Include password", "BILLINGADDRESS_GOVIDNUM_ERROR":"Include your last 4 digits of SSN", "BILLINGADDRESS_IDNUM_ERROR":"Include driver&#39;s license number", "BILLINGADDRESS_EXPDATE_ERROR":"Include driver&#39;s license expiration date", "BILLINGADDRESS_BIRTHDAY_ERROR":"Include birthday", "BILLINGADDRESS_SSN_ERROR":"Include social security number", "BILLINGADDRESS_NAME1_ERROR":"Include a first name", "BILLINGADDRESS_NAME2_ERROR":"Include a last name", "ENTER_EMAIL_ADDRESS":"Enter email address", "EMAIL_ADDRESSES_MUST_BE_7_CHARACTERS":"Enter a valid email address of at least 7 characters", "EMAIL_ADDRESSES_MUST_MATCH":"The email addresses need to match.", "NON_ASCII_CHARACTERS_ERROR":"Please use only English characters when entering your information", "SiteSetting_PostalCodeMaxLength":"15", "CONFIG_COMPARE_OFFICE_SUITES":"249712700,249712600,249712800", "CONFIG_COMPARE_OFFICE_FOR_MAC":"249708600,249708500", "CONFIG_COMPARE_WINDOWS":"249712300,249711000,249711100", "FROM":"From", "REGULAR_PRICE_COLON":"regular price:", "AGEGATE_SORRY_NO_PERMISSION":"Sorry, you&#39;re not permitted to view this content", "SALE_COLON":"Sale:&#160;", "BUNDLE_PRICE_COLON":"Bundle price:&#160;", "BTN_ADD_TO_CART":"Add to cart", "NOW":"Now&#160;", "WAS_PRICE_COLON":"was&#160;", "YOU_SAVE_COLON":"Save :&#160;", "SAVE":"Save&#160;", "STARTING_AT":"Starting at&#160;", "ACADEMIC_PRICE_LABLE":"Student price", "INSTORE_SERVICES":"In-store services", "ONLINE_SERVICES":"Online services", "HELP":"Help", "SUPPORT":"Support", "SHIPPING":"Orders", "RETURNS":"Returns", "ALL_HELP_TOPICS":"All help topics", "FAQ":"FAQ", "FIND_A_STORE":"Find a store", "WHATS_IN_STORE":"What&#39;s in store", "EVENTS_PLUS_WORKSHOPS":"Events + Workshops", "PERSONAL_TRAINING":"Personal Training", "GeoIPTwoLetterCountryCode":"US", "resKey":"SiteSetting_PhoneNumberMinLength_US", "isReqPhone":"SiteSetting_PhoneValidationEnabled_US", "MONTHLY_COST_ESTIMATE":"Monthly Cost Estimate", "OF_TOTAL":"of", "RESULTS":"Results", "LOADING":"Loading", "VIEW":"view", "VIDEO":"video", "ALERT_MA_TERMS_AND_CONDITION":"Please indicate you have read and accepted the terms and conditions.", "MARKET_NOT_SUPPORTED":"We can’t complete your purchase of Office 365 Home Premium in the Microsoft store you’re in. Please select the store in your billing region so we can process your order.", "MIXED_CART_MARKET_NOT_SUPPORTED":"You could also remove Office 365 Home Premium from your cart and continue to check out.", "SIGN_IN_WITH_DIFFERENT_ACCOUNT":"Please sign in with a different account.", "INCLUDING_VAT":"incl. VAT" }, "shippingAddrSeq":{ "BG":"Address1,Address2,PostalCode,City,Country", "CY":"Address1,Address2,PostalCode,City,Country", "CZ":"Address1,Address2,PostalCode,City,Country", "EE":"Address1,Address2,PostalCode,City,Country", "GR":"Address1,Address2,PostalCode,City,Country", "HU":"Address1,Address2,City,PostalCode,Country", "IS":"Address1,Address2,PostalCode,City,Country", "LV":"Address1,Address2,City,PostalCode,Country", "LI":"Address1,Address2,PostalCode,City,Country", "LT":"Address1,Address2,PostalCode,City,Country", "LU":"Address1,Address2,PostalCode,City,Country", "MT":"Address1,Address2,City,PostalCode,Country", "PL":"Address1,Address2,PostalCode,City,Country", "RO":"Address1,Address2,PostalCode,City,Country", "SK":"Address1,Address2,PostalCode,City,Country", "SI":"Address1,Address2,PostalCode,City,Country", "BE":"Config_AddressSequence_BE" } }, "subDomain":{ "subDomainList":"xbox.microsoftstore.com" }, "actionName":{ "QuickView":"/store/msusa/en_US/DisplayQuickViewPage", "Home":"/store/msusa/en_US/DisplayHomePage", "CategoryList":"/store/msusa/en_US/cat", "ProductList":"/store/msusa/en_US/list", "ShoppingCart":"/store/msusa/en_US/DisplayShoppingCartPage", "EditProfile":"/store/msusa/en_US/DisplayEditProfilePage", "AccountOrderList":"/store/msusa/en_US/DisplayAccountOrderListPage", "DisplayPage":"/DRHM/store?Action=DisplayPage&SiteID=msusa&Locale=en_US&ThemeID=33363200",			 "UpdatePI":"/store/msusa/en_US/DisplayUpdatePILandingPage",	 "SetSubsBillingCountryCode":"/store/msusa/en_US/SetSubsBillingCountryCode"			 } }}; </script><script src="//i.s-microsoft.com/storecontent/1401.4a6c92cb4f34e231521682230ab5b650662c3e6b/store.min.js"></script>
+  <script type="text/javascript" src="//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/multimedia/js/dr.0053.9.js"></script>
+  <script type="text/javascript">
+		if (!window.jQuery) {
+			document.writeln('<scr'+'ipt type="text/javascript" src="//drh.img.digitalriver.com/DRHM/Storefront/Library/scripts/jquery/jquery-1.3.2.min.js"></scr'+'ipt>');
+		}
+	</script><script type="text/javascript" src="//drh.img.digitalriver.com/DRHM/Storefront/Library/scripts/jquery/jquery-1.3.2.min.js"></script>
+
+	
+  <script type="text/javascript">
+
+  
+  var FILTER_QUERY = "";
+
+  
+  var INCLUDE_VARIATIONS = "false";
+
+  $("input[name=keywords]").autocomplete("/store/msusa/en_US/DisplaySolrAutoCompletePage/ThemeID.33363200", {
+    parse: function(jsonDataWithRequestID) {
+      var jsonStart = jsonDataWithRequestID.indexOf('{');
+      var jsonDataString = jsonDataWithRequestID.substring(jsonStart);
+      var jsonData = eval('(' + jsonDataString + ')');
+      var rows = new Array();
+      var facetValue = null;
+      var index = 0;
+      var jsonFacetValues = jsonData.facet_counts.facet_fields.autoComplete;
+      $.each(jsonFacetValues, function(i, jsonFacetValue) {
+        if (facetValue == null) {
+          facetValue = jsonFacetValue;
+        } else {
+          rows[index++] = { data:[facetValue], value:facetValue, result:facetValue };
+          facetValue = null;
+        }
+      });
+      return rows;
+    },
+    extraParams: {
+      filterQuery: FILTER_QUERY,
+      includeVariations: INCLUDE_VARIATIONS
+    },
+    max: 10,
+    width: $('.search-form').width(),
+    scrollHeight: 300
+  });
+
+  </script>
+
+	<!--!esi:include src="/esi?SiteID=msusa&StyleID=45118000&StyleVersion=5&styleIncludeFile=body-section1.html"-->
+
+<!--!/esi:include --><!-- begin analytics -->
+<!-- userSession user--> 
+	<span class="opDefault" id="opmodule_msusa_bodyBottom"></span>
+    <script type="text/javascript">
+      ptomodule.displayModule('msusa_bodyBottom');
+    </script>
+  <!-- begin AnalyticsTrackingCustom include -->
+<!-- begin FooterJavascript include -->
+<!-- end Analytics -->
+<!-- LP Chat Code -->
+<script type="text/javascript">  
+    var lpMTagConfig = lpMTagConfig || {}; lpMTagConfig.vars = lpMTagConfig.vars || [];  
+  //  lpMTagConfig.vars.push(["page","Section","<Variable Value>"]);
+      
+    var lpLocality = 'en-us';
+    var drsiteid= 'msusa';
+    var ISO='us';  
+    
+          var lpUnit='store-service';
+        
+    lpMTagConfig.lpTagSrv = "sales.liveperson.net";
+    lpMTagConfig.lpServer = "sales.liveperson.net";
+    lpMTagConfig.lpNumber = "72961245";
+    lpMTagConfig.deploymentID = "service";
+    lpMTagConfig.vars.push( ["page", "unit", lpUnit] );
+    lpMTagConfig.vars.push( ["page", "drsiteid", drsiteid] );
+    lpMTagConfig.vars.push( ["page", "ISO", ISO] );
+    lpMTagConfig.vars.push( ["session", "SOPage", '&ln=' + lpLocality] );
+    lpMTagConfig.vars.push( ["session", "language", lpLocality] );
+    lpMTagConfig.defaultInvite = 'chat-store-' + lpUnit + '-' + lpLocality;
+  //  lpMTagConfig.dynButton.push( {'name':lpMTagConfig.defaultInvite,'pid':'live_chat','afterStartPage': true,'ovr':'lpMTagConfig.db1'});
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+  var lpChatInterval = setInterval(function(){
+    if($('#lpChatDiv a').length === 0){ // Chat is inactive so hide the anchor.
+      $('#lpChatDiv a:visible').hide();
+      $('.live_chat').empty();
+    } else if ($('#lpChatDiv a').length ){ // Chat is active so show the anchor.
+      var chatWithTechNode = $('#lpChatDiv').html();
+      if($('.live_chat').length){
+        $('.live_chat').empty();
+        $('.live_chat').append('  | '+chatWithTechNode);
+      }
+    }
+  }, 1000 );
+});
 
 
-<!--!/esi:include -->
 
+// begin Live Chat variables
+  
+          lpAddVars('page','TestOrder','false');  
+        </script>
+<!-- LP Chat Code End-->
+<!-- BEGIN RICH RELEVANCE CODE		This code is removed in reference to task 26795
+ END RICH RELEVANCE CODE -->
 
 
 </body></html>
