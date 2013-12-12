@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturescapes.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603153839id_/http%3A//www.naturescapes.net/information-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturescapes.net privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212075132id_/http%3A//www.naturescapes.net/information-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NatureScapes.Net – The Resource for Nature Photographers
 
