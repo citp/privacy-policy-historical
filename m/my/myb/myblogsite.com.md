@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblogsite.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616220312id_/http%3A//myblogsite.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogsite.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212063059id_/http%3A//www.myblogsite.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Dotster's Privacy Policy
 
@@ -80,4 +80,4 @@ Please note: Dotster reserves the right to send you email communications that re
 
 
 
-This file was last modified December 10, 2012. 
+This file was last modified June 21, 2013. 
