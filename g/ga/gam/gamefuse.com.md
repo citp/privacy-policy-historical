@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefuse.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629122513id_/http%3A//www.gamefuse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefuse.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212010316id_/http%3A//www.gamefuse.com/privacy) for the most accurate reproduction.*
 
 # GameFuse | Play Free Games | Privacy Policy
 
