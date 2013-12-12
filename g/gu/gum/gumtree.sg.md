@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumtree.sg privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531184049id_/http%3A//gumtreehelp.com/sg/knowledgebase.php%3Farticle%3D121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.sg privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212032544id_/https%3A//gumtreehelp.com/sg/knowledgebase.php%3Farticle%3D121) for the most accurate reproduction.*
 
 # Gumtree Help Desk - Gumtree Privacy Policy
 
@@ -65,11 +65,11 @@ Was this article helpful? [yes](javascript:void\(0\)) / [no](javascript:void\(0\
 
 
   
-Topic:  | [Gumtree Policies](https://web.archive.org/web/20130531184049id_/http%3A//gumtreehelp.com/sg/knowledgebase.php?category=5)  
+Topic:  | [Gumtree Policies](https://web.archive.org/web/20131212032544id_/https%3A//gumtreehelp.com/sg/knowledgebase.php?category=5)  
 ---|---  
-Date added:  | 2009-09-29 08:07:35  
+Date added:  | 2009-09-29 09:07:35  
 Views:  | 934  
-Rating (Votes): |  (6010)  
+Rating (Votes): |  (6044)  
   
    
 << Go back
