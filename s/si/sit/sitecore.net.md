@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605094553id_/http%3A//www.sitecore.net/Company/Contact/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212230639id_/http%3A//www.sitecore.net/Company/Contact/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Enterprise Content Management - Sitecore Privacy Policy
 
 The following statement outlines the privacy policy of Sitecore Corporation and its affiliated entities. This policy is based on our fundamental goal to provide our visitors with quality information and resources while maintaining individual anonymity and personal privacy. Please forward any comments you may have regarding this policy to [webmaster@sitecore.net](mailto:webmaster@sitecore.net). 
 
