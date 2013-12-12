@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitmentnews.in privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611180537id_/http%3A//www.recruitmentnews.in/privacy-policy-for-www-recruitmentnews-in) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmentnews.in privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212075250id_/http%3A//www.recruitmentnews.in/privacy-policy-for-www-recruitmentnews-in) for the most accurate reproduction.*
 
 # Privacy Policy for www.recruitmentnews.in
 
