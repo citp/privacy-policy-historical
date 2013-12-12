@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyreport.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530090310id_/http%3A//surveyreport.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyreport.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212191257id_/http%3A//surveyreport.com/pages/privacy) for the most accurate reproduction.*
 
 # Survey Report - About Us
 
