@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604022220id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212065856id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
 
 # Chatzy - Privacy Policy
 
 | 
 
-By using Chatzy’s services, you consent to the collection and use of your information as outlined in this policy, as well as to our general [Terms of Use](https://web.archive.org/terms.htm).
+By using Chatzy's services, you consent to the collection and use of your information as outlined in this policy, as well as to our general [Terms of Use](https://web.archive.org/terms.htm).
 
 ## General principles
 
