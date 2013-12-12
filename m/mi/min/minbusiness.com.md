@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minbusiness.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602232650id_/http%3A//www.minbusiness.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minbusiness.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212034434id_/http%3A//www.minbusiness.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Mini Business » Privacy Policy
+# minbuiness.com » Privacy Policy
 
 ### About this Notice
 
