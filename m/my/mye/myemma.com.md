@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606060529id_/http%3A//myemma.com/permission-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemma.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212063242id_/http%3A//myemma.com/permission-and-privacy-policy) for the most accurate reproduction.*
 
 # Permission and Privacy Policy | Emma, Inc.
 
 ## 11 things you need to know
 
-At Emma, we're dedicated to protecting your privacy and the privacy of anyone on the receiving end of an Emma-delivered email. To that end, we have instituted certain policies -- rules, you might call them -- to help us make sure Emma remains a safe, trusted environment for email marketing and correspondence. 
+At Emma, we're dedicated to protecting your privacy and the privacy of anyone on the receiving end of an Emma-delivered email. To that end, we have instituted certain policies -- rules, you might call them -- to help us make sure Emma remains a safe, trusted environment for email marketing and correspondence.
 
-Here, we outline those policies and our efforts to enforce them. 
+Here, we outline those policies and our efforts to enforce them.
 
 * * *
 
@@ -62,7 +62,7 @@ Nashville, TN 37210
 
 Just as we ask and expect you to respect the inbox of your customers, we will do our best to respect yours. The only emails you'll receive from us will be emails related to your account or your use of Emma. We might alert you to new features or site enhancements. We might check in to see how your last campaign went. Some of those emails may be directed to everyone, and some of them may be written just for you. In the future, we may also ask if you'd like to receive information from our partners. We do not have partners, and until we do, we will not ask.
 
-> We will not sell your email address. We will not rent it. We will not loan it out for the afternoon. 
+> We will not sell your email address. We will not rent it. We will not loan it out for the afternoon.
 
 ^ back to top
   9. ### Ensuring secure billing transactions
