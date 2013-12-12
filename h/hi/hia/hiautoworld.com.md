@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiautoworld.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306020433id_/http%3A//hiautoworld.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiautoworld.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212153728id_/http%3A//hiautoworld.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy
 
