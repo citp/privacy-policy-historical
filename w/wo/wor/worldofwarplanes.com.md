@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofwarplanes.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502073746id_/http%3A//worldofwarplanes.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofwarplanes.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212075301id_/http%3A//worldofwarplanes.com/en/content/docs/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | World of Warplanes
 
@@ -14,7 +14,7 @@ WN is committed to ensuring your privacy and protecting the security of your per
 
 If you have any comments or questions regarding our Policy, please contact us at [privacy@wargamingamerica.com ](mailto:privacy@wargaming.net). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. ** **
 
-**If you do not agree with any terms or conditions described in this Policy or the[Terms of Service](http://worldofwarplanes.com/en/terms_of_service), please exit from the Website.**
+**If you do not agree with any terms or conditions described in this Policy or the[Terms of Service](https://web.archive.org/en/content/docs/terms_of_service/), please exit from the Website.**
 
 **2\. Collecting Personal Information**
 
