@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520160126id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212134358id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ZeibizZeibiz
-
-[AWD_loginbutton]
+# Privacy Policy | Zeibiz
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
@@ -12,6 +10,6 @@ Advertising platform is hosted by Google Adsense. Google Adsense is a third part
 
 We used social sharing plugins to syndicate our online contents, it includes  Twitter, Facebook Google+, LinkIn and more. Interacting on these plugin will collect your log-in account in each social network.
 
-Media Artifact Disclaimer
+Media (Photos and Videos) Disclaimer
 
 Photos and Videos in this website belongs to their respective owners. Photos are taken from available sources on the internet and mostly tagged with credentials. Videos on this website are mostly embedded from YouTube.
