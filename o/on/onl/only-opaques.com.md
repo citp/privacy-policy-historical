@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the only-opaques.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612183421id_/http%3A//only-opaques.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only-opaques.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212123910id_/http%3A//only-opaques.com/Privacy-policy) for the most accurate reproduction.*
 
 # Welcome | Only-Opaques
 
