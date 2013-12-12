@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the astrill.com privacy policy that was archived on 2013-01-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117150726id_/https%3A//www.astrill.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrill.com privacy policy that was archived on 2013-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212174700id_/https%3A//www.astrill.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
         <meta name="google-site-verification" content="XdKeBrU5LHB4Na8PwlsyiGgzTPY1VZ4p7_pLNK6dKNw">
-   		<meta name="description" content="Astrill VPN delivers the best VPN service for fast and safe VPN requirements. VPN Provider offering Plug-and-play VPN for expats and travelers. Surf online anonymously, hide your IP address and protect your privacy.">
-		<meta name="keywords" content="vpn provider, vpn service, fast vpn, personal vpn, best vpn, best vpn provider, best vpn service, Plug-and-play VPN,personal, Business, OpenVPN GUI client software for Linux, Macintosh and Windows, iPhone VPN, iPad VPN, VPN for China, VPN for Facebook, VPN for expats, hide my ip address, unblock websites, unblock filter, youtube proxy, myspace proxy, facebook proxy, facebook proxy, face book, facebook.com proxy, vpn tunnel, openvpn, pptp, vpn encryption, cisco ipsec, anonymous, anonymity"> 
+   		<meta name="description" content="Provides Anonymous VPN services with high speed, unlimited bandwidth, in multiple geo-locations. Protect privacy, secure all Internet traffic - stay safe! Sign-up now for 7 days free trial.">
+		<meta name="keywords" content="vpn provider, vpn service, fast vpn, personal vpn, best vpn, best vpn provider, best vpn service, Plug-and-play VPN,personal, Business, OpenVPN GUI client software for Linux, Macintosh and Windows, iPhone VPN, iPad VPN, VPN for China, VPN for Facebook, VPN for expats, hide my ip address, unblock websites, unblock filter, youtube proxy, myspace proxy, facebook proxy, facebook proxy, face book, facebook.com proxy, vpn tunnel, openvpn, pptp, vpn encryption, cisco ipsec, anonymous, anonymity, bittorrent, p2p, media streaming, web surfing"> 
         <title>Astrill VPN » Privacy Policy</title>
                 <link href="style.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" type="text/css" href="dd.css">
@@ -75,6 +75,13 @@
                         
                 });
                 
+                $("form#login_top input").keypress(function(event) {
+                    if (event.which == 13) {
+                        //event.preventDefault();
+                        $(this).closest('form').submit();
+                    }
+                });
+                
                 $("a#login").click(function(){
                     if(
                         $("form#login_top input[name=password]").val() == "" ||
@@ -130,7 +137,7 @@
 
 
     <!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) -->
-        <div id="livezilla_tracking" style="display:none"><script async="" type="text/javascript" src="https://www.astrill.com/livesupport/server.php?request=track&amp;amp;output=jcrpt&amp;amp;nse=0.3181720409328228"></script></div>
+        <div id="livezilla_tracking" style="display:none"><script async="" type="text/javascript" src="https://www.astrill.com/livesupport/server.php?request=track&amp;amp;output=jcrpt&amp;amp;nse=0.6672824643849575"></script></div>
         <script type="text/javascript">
             var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "https://www.astrill.com/livesupport/server.php?request=track&amp;output=jcrpt&amp;nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);
         </script>
@@ -148,6 +155,7 @@
 	<div id="header_rpt">
     	<div id="header_fix">
         	<div id="logo"><a href="https://www.astrill.com/index.php"><img src="images/logo1.png" alt=""></a></div>
+            <a href="https://members.astrill.com" title="Members"><div style="color: red; height: 35px; width: 35px; position: relative; float: left; margin: 0px; padding: 0px; top: 20px; left: 430px; background: url('https://www.astrill.com/images/members-logo.png') no-repeat scroll 0px 0px transparent;">&nbsp;</div></a>
             <div id="language_box">
                                 <div class="login_box_top">
                 <form id="login_top" action="https://members.astrill.com/dologin.php" method="post">
@@ -156,6 +164,7 @@
                     </div>
                     <div style="float: left; clear: none;">
                         <input name="password" type="password" style="margin-left:10px;" class="text666 blur" value="password">
+                        <input type="hidden" name="rememberme" value="on">
                         <input name="login" value="Sign in" type="submit" style="display:none;">
                     </div>
                 </form>
@@ -240,6 +249,14 @@
         </div>
     </div>
 
+<script>
+$(document).ready(function(e) {
+    $( "#bfoffer" ).click(function() {
+    $( "#bfoffer" ).toggle( "slide" );
+    });
+});
+</script>
+
     <div class="clr"></div>
     <div id="inner_banner_rpt">
     	<div id="inner_banner_fix">
@@ -315,9 +332,11 @@
                         	<li><a href="https://www.astrill.com/features.php">Features</a></li>
                             <li><a href="https://www.astrill.com/what-is-vpn.php">What is a VPN ?</a></li>
                             <li><a href="https://www.astrill.com/how-vpn-works.php">How VPN Works ?</a></li>
-                            <li><a href="https://www.astrill.com/knowledgebase.php">Knowledge Base</a></li>
+<!--                            <li><a href="https://www.astrill.com/knowledgebase.php">Knowledge Base</a></li> -->
+                            <li><a href="http://wiki.astrill.com/index.php/Main_Page">Setup Manual</a></li>
                             <li><a href="https://www.astrill.com/video-tutorials.php">Video Tutorials</a></li>
                             <li><a href="https://www.astrill.com/faq.php">FAQ</a></li>
+                            <li><a href="https://www.astrill.com/what-is-my-ip-address.php">What Is My IP Address ?</a></li>
                         </ul>
                     </div>
                 </div>
