@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldfree4u.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614052054id_/http%3A//worldfree4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfree4u.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212081259id_/http%3A//worldfree4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of Worldfree4u.com
 
