@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kpib.co.uk privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514054911id_/http%3A//www.kpib.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpib.co.uk privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213001140id_/http%3A//www.kpib.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - KPI Digital Marketing
 
 This privacy policy sets out how KPI uses and protects any information that you give KPI when you use this website.
 
