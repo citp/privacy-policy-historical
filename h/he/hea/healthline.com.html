@@ -1,31 +1,32 @@
-<!--The following is the downloaded HTML source of the healthline.com privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515015950id_/https%3A//www.healthline.com/health/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthline.com privacy policy that was archived on 2013-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212124137id_/https%3A//www.healthline.com/health/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js hl-reset" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-  <script src="//www.healthline.com/resources/base/js/util/optimizely.v1.20130507115414.js"></script>
+  <script src="/resources/base/js/util/optimizely.v1.20131204161511.js"></script>
   <meta content="NOODP" name="ROBOTS">
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
   <title>Healthline's Privacy Policy</title>
       <meta content="Internet privacy is an issue that we take very seriously. Healthline is committed to protecting your privacy. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns." name="description">
-    <link href="http://www.healthline.com/health/privacy-policy" rel="canonical">
+    <meta content="en" http-equiv="content-language">
+<link href="http://www.healthline.com/health/privacy-policy" rel="canonical">
   <link href="http://feeds.feedburner.com/HealthlineNews" rel="alternate" title="Healthline's RSS News Feed" type="application/rss+xml">
     <script type="text/javascript">
 if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB default, a negative condition against 0 will pass and NOT roadblock any ads
-</script><meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+</script>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
-  <link href="//www.healthline.com/resources/healthline/css/site.less?v=v1.20130507115414" rel="stylesheet" type="text/css">
-  <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/base/jquery-ui.css" media="all" rel="stylesheet" type="text/css">
-<link href="//www.healthline.com/resources/healthline/css/article.less?v=v1.20130507115414" media="all" rel="stylesheet" type="text/css">
-<link href="//www.healthline.com/resources/healthline/css/rwd/article.less?v=v1.20130507115414" media="all" rel="stylesheet" type="text/css">
+  <link href="/resources/healthline/css/site.less?v=v1.20131204161511" rel="stylesheet" type="text/css">
+  <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/base/jquery-ui.css" media="all" rel="stylesheet" type="text/css">
+<link href="/resources/healthline/css/article.less?v=v1.20131204161511" media="all" rel="stylesheet" type="text/css">
+<link href="/resources/healthline/css/rwd/article.less?v=v1.20131204161511" media="all" rel="stylesheet" type="text/css">
+<link href="/resources/healthline/css/content-promotion-widget-sliding.less?v=v1.20131204161511" media="all" rel="stylesheet" type="text/css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-
-  <script>
-      var require = {
+  <script src="/resources/base/js/lib/main.js?v=v1.20131204161511"></script>
+    <script>
+      requirejs.config({
         baseUrl: '/'
-      }
+      });
     </script>
-    <script src="//www.healthline.com/resources/base/js/lib/main.js?v=v1.20130507115414"></script>
   <script>
     define('hlutil',[],function(){
       var exports = {};
@@ -37,7 +38,23 @@ if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB defa
     });
   </script>
 
-  <script type="text/javascript">
+  <script>
+
+require(["jquery","matchmedia"],function(){
+  function HL_lame_resizer() {
+    if (matchMedia('only screen and (max-width: 997px)').matches) {
+      if (document.location.href.indexOf('toptoctest') == -1) {
+        window.location = "http://" + document.location.hostname + document.location.pathname + "?toptoctest=expand";
+      }
+    }
+  }
+  $(window).on('resize', HL_lame_resizer);
+  $(HL_lame_resizer);
+
+})
+
+</script>
+<script type="text/javascript">
   var unica_lc_page_href = '';
   
 
@@ -45,14 +62,22 @@ if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB defa
     var unicaEvents = new Array();
     var unicaEventIdx = 0;
   }
-  var NTPT_PGEXTRA = 'logged_in=false&site=healthline.healthline.com&pg_dart_site=hn.us.hl.lc.x.x.x&pg_dart_zone=none&pg_k2=none&pHLID=9725332&visit_type=HCviewer&hcsubpage=article&vw=7' + unica_lc_page_href;
+  var NTPT_PGEXTRA = 'logged_in=false&site=healthline.healthline.com&pg_dart_site=hn.us.hl.lc.x.x.x&pg_dart_zone=none&pg_k2=none&pHLID=9725332&visit_type=HCviewer&hcsubpage=article&vw=16' + unica_lc_page_href;
 </script>
 <!-- BEGIN: Unica EasyTag --><!-- Copyright 2004-2006 Unica Corporation. All rights reserved. -->
-<script language="JavaScript" src="//www.healthline.com/cjs/ntpagetag.v1.20130507115414.js"></script>
-<!-- END: Unica EasyTag --><script src="//www.healthline.com/resources/base/js/util/ga-custom-vars.js?v=v1.20130507115414"></script>
+<script language="JavaScript" src="/cjs/ntpagetag.v1.20131204161511.js"></script>
+<!-- END: Unica EasyTag --><script type="text/javascript">
+  require([ 'jquery', 'j/jquery.cookie' ],function( $ ){
+    // load jquery.cookie for GA time on page dependency
+  });
+</script>
+<script src="/resources/base/js/util/ga-custom-vars.js?v=v1.20131204161511"></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
-  var pluginUrl = (('https:' == document.location.protocol) ?'https://ssl.' : 'http://www.') + 'google-analytics.com/plugins/ga/inpage_linkid.js';
+
+  
+  var pluginUrl =
+    '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['hl._require', 'inpage_linkid', pluginUrl]);
 
   
@@ -62,6 +87,12 @@ if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB defa
   var HL_ga_toolCount = "";
   
   var HL_ga_smartAnswerCount = "";
+  
+
+  if (HL_ga_showNewsletterSignup == "") {
+    var HL_ga_showNewsletterSignup = false;
+  }
+
   
   var HL_ga_customVars = {
     account: "UA-26124207-1",
@@ -79,25 +110,19 @@ if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB defa
     imuid: "",
     micrositeId: false ? "" : "",
     marinId: HL_ga_marinId,
-    isErrorPage: false ? true : false
+    isErrorPage: false ? true : false,
+    platformPageType: "regularArticle",
+    showNewsletterSignup: HL_ga_showNewsletterSignup
   };
-
   
   HL_ga_setCustomVars(HL_ga_customVars);
-
-  function HL_GA_trackOutboundLink(link, category, action) {
-    try {
-      _gaq.push(['hl._trackEvent', category , action]);
-    } catch(err){}
-
-    setTimeout(function() {
-      document.location.href = link.href;
-    }, 100);
-  }
 
   
   _gaq.push(['hl._trackPageview']);
   
+
+  _gaq.push(HL_ga_trackTimeOnPageWrapper);
+  _gaq.push(HL_ga_track90percentScrollWrapper);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript';
@@ -106,7 +131,8 @@ if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB defa
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(ga, s);
   })();
-</script></head>
+</script>
+</head>
 <body class="tctopnav">
 
 <script language="JavaScript" type="text/javascript">
@@ -122,8 +148,8 @@ if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB defa
   var g_encoded_uri = encodeURI("\u002fhealth\u002fprivacy\u002dpolicy");
   document.write('<input id="ordName" name="ordName" type="hidden" value="'+ord+'">');
   document.write('<input id="ordCount" name="ordCount" type="hidden" value="1">');
-  document.write('<input id="pv" name="pv" type="hidden" value="7">');
-</script><input id="ordName" name="ordName" type="hidden" value="2443621603316057"><input id="ordCount" name="ordCount" type="hidden" value="1"><input id="pv" name="pv" type="hidden" value="7">
+  document.write('<input id="pv" name="pv" type="hidden" value="16">');
+</script><input id="ordName" name="ordName" type="hidden" value="8812545827530187"><input id="ordCount" name="ordCount" type="hidden" value="1"><input id="pv" name="pv" type="hidden" value="16">
 
 <!-- jquery autocomplete dependency -->
 <div class="hl-page c">
@@ -141,7 +167,7 @@ if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB defa
                 <div class="link-global-nav"></div>
 
                 <div class="logobox">
-                  <a href="//www.healthline.com/" title="Healthline : Connect to Better Health"><img alt="Healthline : Connect to Better Health" height="27" src="//www.healthline.com/resources/healthline/images/logo-lg.png" width="184"></a>
+                  <a href="http://www.healthline.com/" title="Healthline : Connect to Better Health"><img alt="Healthline : Connect to Better Health" height="27" src="/resources/healthline/images/logo-lg.png" width="184"></a>
                 </div>
 
                 <div class="navbarcontainer">
@@ -149,66 +175,66 @@ if (roadblockId == null) var roadblockId = 0; //  NAVIGATOR: since -1 is DB defa
                   <ul class="nav-global">
 
                     <li class="tab-global" id="tGATopicsTools">
-                      <a class="link-global" href="//www.healthline.com/directory/topics">Topics &amp; Tools  <span class="box-icon-arrow"></span></a>
+                      <a class="link-global" href="http://www.healthline.com/directory/topics">Topics &amp; Tools  <span class="box-icon-arrow"></span></a>
                       <div class="submenubox" id="toolsAndTopicsTab">
 
                         <div class="innersubmenubox c" id="box-health-topics">
                           <h2>Health Topics</h2>
 
                             <ul>
-                                    <li><a href="//www.healthline.com/health/gerd">Acid Reflux</a></li>
-                                    <li><a href="//www.healthline.com/health/adhd">ADHD</a></li>
-                                    <li><a href="//www.healthline.com/health/allergies">Allergies</a></li>
-                                    <li><a href="//www.healthline.com/health/alzheimers-disease">Alzheimer's &amp; Dementia</a></li>
-                                    <li><a href="//www.healthline.com/health/bipolar-disorder">Bipolar Disorder</a></li>
-                                    <li><a href="//www.healthline.com/health/cancer">Cancer</a></li>
-                                    <li><a href="//www.healthline.com/health/chronic-pain">Chronic Pain</a></li>
+                                    <li><a href="http://www.healthline.com/health/gerd?ref=global">Acid Reflux</a></li>
+                                    <li><a href="http://www.healthline.com/health/adhd?ref=global">ADHD</a></li>
+                                    <li><a href="http://www.healthline.com/health/allergies?ref=global">Allergies</a></li>
+                                    <li><a href="http://www.healthline.com/health/alzheimers-disease?ref=global">Alzheimer's &amp; Dementia</a></li>
+                                    <li><a href="http://www.healthline.com/health/bipolar-disorder?ref=global">Bipolar Disorder</a></li>
+                                    <li><a href="http://www.healthline.com/health/cancer?ref=global">Cancer</a></li>
+                                    <li><a href="http://www.healthline.com/health/chronic-pain?ref=global">Chronic Pain</a></li>
                                     </ul>
                                     <ul>
-                                    <li><a href="//www.healthline.com/health/cold-flu">Cold &amp; Flu</a></li>
-                                    <li><a href="//www.healthline.com/health/copd">COPD</a></li>
-                                    <li><a href="//www.healthline.com/health/crohns-disease">Crohn's Disease</a></li>
-                                    <li><a href="//www.healthline.com/health/depression">Depression</a></li>
-                                    <li><a href="//www.healthline.com/health/fibromyalgia">Fibromyalgia</a></li>
-                                    <li><a href="//www.healthline.com/health/heart-disease">Heart Disease</a></li>
-                                    <li><a href="//www.healthline.com/health/high-cholesterol">High Cholesterol</a></li>
+                                    <li><a href="http://www.healthline.com/health/cold-flu?ref=global">Cold &amp; Flu</a></li>
+                                    <li><a href="http://www.healthline.com/health/copd?ref=global">COPD</a></li>
+                                    <li><a href="http://www.healthline.com/health/crohns-disease?ref=global">Crohn's Disease</a></li>
+                                    <li><a href="http://www.healthline.com/health/depression?ref=global">Depression</a></li>
+                                    <li><a href="http://www.healthline.com/health/fibromyalgia?ref=global">Fibromyalgia</a></li>
+                                    <li><a href="http://www.healthline.com/health/heart-disease?ref=global">Heart Disease</a></li>
+                                    <li><a href="http://www.healthline.com/health/high-cholesterol?ref=global">High Cholesterol</a></li>
                                     </ul>
                                     <ul>
-                                    <li><a href="//www.healthline.com/health/hiv-aids">HIV</a></li>
-                                    <li><a href="//www.healthline.com/health/high-blood-pressure-hypertension">Hypertension</a></li>
-                                    <li><a href="//www.healthline.com/health/irritable-bowel-syndrome">IBS</a></li>
-                                    <li><a href="//www.healthline.com/health/menopause">Menopause</a></li>
-                                    <li><a href="//www.healthline.com/health/multiple-sclerosis">Multiple Sclerosis (MS)</a></li>
-                                    <li><a href="//www.healthline.com/health/osteoarthritis">Osteoarthritis</a></li>
-                                    <li><a href="//www.healthline.com/health/pregnancy">Pregnancy</a></li>
+                                    <li><a href="http://www.healthline.com/health/hiv-aids?ref=global">HIV</a></li>
+                                    <li><a href="http://www.healthline.com/health/high-blood-pressure-hypertension?ref=global">Hypertension</a></li>
+                                    <li><a href="http://www.healthline.com/health/irritable-bowel-syndrome?ref=global">IBS</a></li>
+                                    <li><a href="http://www.healthline.com/health/menopause?ref=global">Menopause</a></li>
+                                    <li><a href="http://www.healthline.com/health/multiple-sclerosis?ref=global">Multiple Sclerosis (MS)</a></li>
+                                    <li><a href="http://www.healthline.com/health/osteoarthritis?ref=global">Osteoarthritis</a></li>
+                                    <li><a href="http://www.healthline.com/health/pregnancy?ref=global">Pregnancy</a></li>
                                     </ul>
                                     <ul>
-                                    <li><a href="//www.healthline.com/health/psoriasis">Psoriasis</a></li>
-                                    <li><a href="//www.healthline.com/health/rheumatoid-arthritis">Rheumatoid Arthritis</a></li>
-                                    <li><a href="//www.healthline.com/health/skin-disorders">Skin Disorders and Care</a></li>
-                                    <li><a href="//www.healthline.com/health/sexually-transmitted-diseases">STDs</a></li>
-                                    <li><a href="//www.healthline.com/health/diabetes-type-2">Type 2 Diabetes</a></li>
-                                    <li><a href="//www.healthline.com/directory/topics">More...</a></li>
+                                    <li><a href="http://www.healthline.com/health/psoriasis?ref=global">Psoriasis</a></li>
+                                    <li><a href="http://www.healthline.com/health/rheumatoid-arthritis?ref=global">Rheumatoid Arthritis</a></li>
+                                    <li><a href="http://www.healthline.com/health/skin-disorders?ref=global">Skin Disorders and Care</a></li>
+                                    <li><a href="http://www.healthline.com/health/sexually-transmitted-diseases?ref=global">STDs</a></li>
+                                    <li><a href="http://www.healthline.com/health/diabetes-type-2?ref=global">Type 2 Diabetes</a></li>
+                                    <li><a href="http://www.healthline.com/directory/topics?ref=global">More...</a></li>
                                     </ul>
                                     </div>
                         <div class="innersubmenubox c" id="box-health-tools">
                           <h2>Health Tools</h2>
 
                             <ul>
-                                    <li><a href="//www.healthline.com/symptomsearch">Symptom Search</a></li>
-                                    <li><a href="//www.healthline.com/human-body-maps">Body Maps</a></li>
+                                    <li><a href="http://symptom.healthline.com/symptomsearch?ref=global">Symptom Checker</a></li>
+                                    <li><a href="http://www.healthline.com/human-body-maps?ref=global">Body Maps</a></li>
                                     </ul>
                                     <ul>
-                                    <li><a href="//www.healthline.com/treatments">Treatment Search</a></li>
-                                    <li><a href="//www.healthline.com/drug_directory">Drug Search</a></li>
+                                    <li><a href="http://www.healthline.com/health/trial-reach-clinical-trials?ref=global">Clinical Trials</a></li>
+                                    <li><a href="http://www.healthline.com/drug_directory?ref=global">Drug Search</a></li>
                                     </ul>
                                     <ul>
-                                    <li><a href="//www.healthline.com/druginteractions">Drug Interactions</a></li>
-                                    <li><a href="//www.healthline.com/pill-identifier">Pill Identifier</a></li>
+                                    <li><a href="http://www.healthline.com/druginteractions?ref=global">Drug Interactions</a></li>
+                                    <li><a href="http://www.healthline.com/pill-identifier?ref=global">Pill Identifier</a></li>
                                     </ul>
                                     <ul>
-                                    <li><a href="//www.healthline.com/drugcompare">Drug Compare</a></li>
-                                    <li><a href="//www.healthline.com/doctors">Doctor Search</a></li>
+                                    <li><a href="http://www.healthline.com/drugcompare?ref=global">Drug Compare</a></li>
+                                    <li><a href="http://www.healthline.com/doctors?ref=global">Doctor Search</a></li>
                                     </ul>
                                     </div>
                       </div></li>
@@ -262,8 +288,8 @@ Healthline Ad Leaderboard:
             <div class="breadcrumb">
               <ul>
                 <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-  <a href="//www.healthline.com/" itemprop="url"><span itemprop="title">Healthline</span></a>  <span class="icon-sep">→</span>
-</li><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="//www.healthline.com/directory/topics" itemprop="url"><span itemprop="title">Directory A to Z</span></a>  <span class="icon-sep">→</span></li>
+  <a href="http://www.healthline.com/" itemprop="url"><span itemprop="title">Healthline</span></a>  <span class="icon-sep">→</span>
+</li><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.healthline.com/directory/topics" itemprop="url"><span itemprop="title">Directory A to Z</span></a>  <span class="icon-sep">→</span></li>
                   <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><span itemprop="title">Privacy Policy</span></li>
               </ul>
             </div>
@@ -285,17 +311,16 @@ Healthline Ad Leaderboard:
     <div class="innerbodybox">
       <div class="container c">
         <div class="grid648">
-          <div class="container-article">
+          <div class="container-article" itemscope="" itemtype="http://schema.org/Article">
 
-  <div class="article-header c">
+  <div class="article-header c" itemprop="headline">
     <h1>Privacy Policy</h1>
     </div>
-
   <div class="pageTools">
     <!-- AddThis Button BEGIN -->
     <div addthis:description="Internet privacy is an issue that we take very seriously. Healthline is committed to protecting your privacy. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns." addthis:title="Healthline's Privacy Policy" addthis:url="http://www.healthline.com/health/privacy-policy" class="addthis_toolbox addthis_default_style c" id="addthis_toolbox">
       <div id="socialIcons c">
-        <a class="at300b fbStd" id="facebookIcon" title="Send to Facebook"><img alt="" border="0" class="facebookOff" height="18" src="//www.healthline.com/resources/healthline/images/hl_addthis_fb.v1.20130507115414.gif" style="display:none" width="19"></a>
+        <a class="at300b fbStd" id="facebookIcon" title="Send to Facebook"><img alt="" border="0" class="facebookOff" height="18" src="/resources/healthline/images/hl_addthis_fb.v1.20131204161511.gif" style="display:none" width="19"></a>
         <a class="addthis_button_tweet"></a>
         <a class="addthis_button_google_plusone" g:plusone:size="medium" style="width:75px;"></a>
         <a class="addthis_button_print"></a>
@@ -305,8 +330,7 @@ Healthline Ad Leaderboard:
     <!-- AddThis Button END -->
   </div>
 <div class="textBlock c">
-
-    <div class="article-body c">
+    <div class="article-body c" itemprop="articleBody">
 
       <p>Internet privacy is an issue that we take very seriously. Healthline is committed to protecting your privacy. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns.</p><h3>What information does Healthline collect, and how is it used?</h3><p>Information gathered online can generally be categorized as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. For example, Healthline knows what searches are queried each day at each of its Web sites but does not know the names, e-mail addresses or phone numbers of the people searching. Personally identifiable information is information which allows us to identify you. This information can include your name, address, phone number, etc. It is our belief that you will find it beneficial at times to provide us with certain personal information so that your experience with Healthline is more personally relevant to you and/or delivered directly to you (e.g., via newsletter).</p><h3><strong>Who Collects Anonymous Information on Healthline.com</strong></h3><p>Currently, Healthline Networks, DoubleClick (Healthline's ad server and a division of Google) and various advertisers collect anonymous information on Healthline.com. These are Healthline's partners. Information collected includes the visitor's domain name (e.g., whether the user is logged on from aol.com or whitehouse.gov), referral data (e.g., the address of the last URL a user visited prior to clicking through to the Healthline web site), and browser and platform type (e.g., Microsoft Internet Explorer 6.0 browser on a Windows XP platform). In addition, Healthline and other partners collect anonymous information on search queries and pages viewed, which is generally associated with a browser's cookie (see below for more on cookies). Finally, Healthline also counts, tracks, and aggregates visitors' activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Healthline properties, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but Healthline will not disclose your individual identity or personal data without your permission. When Healthline does present aggregated information to outside companies, no one will be able to identify or contact you.<strong></strong></p><p>The entities collecting this anonymous information use it to improve the overall quality of the online experience, including product monitoring and improvement, and targeted advertising on and off Healthline.com.</p><p>If you wish to opt-out of the use of anonymous data, you can opt-out of this practice in one of two ways: (1) you can disable cookies, although this may negatively affect your online experience as most sites require cookies for very basic browsing; (2) you can opt-out of data use with each individual partner through the Network Advertising Initiative gateway opt-out site<a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>. At that site you can also review the privacy policies of those Ad Servers. For users wishing to prevent use of their information for targeted advertising, we recommend opting out of Google and Tacoda.</p><h3>Use Of 'Cookies'</h3><p>Healthline and the partners listed above use browser cookies to anonymously associate collected information with a specific computer browser. Cookies are a standard Internet technology that allows us to both store and retrieve information on a user's system. Healthline and partner web servers automatically ask new users whether their browser will agree to accept a cookie file. If a visitor accepts, the web server will be able to identify the user's cookie and associate collected information with that cookie either on the user's computer or on a server. If a user accepts a Healthline or partner cookie, but would later like to remove it from his or her computer, he or she can just remove it from the browser. Use of cookies allow Healthline and its partners to monitor traffic flow, patterns of travel within and through the sites, and to dynamically personalize content and advertising.</p><h3>Web Beacons</h3><p>Some Healthline web pages use web beacons in conjunction with cookies to compile aggregate statistics about web site usage. A web beacon is an electronic image, called an action tag, or single pixel (1x1), or clear GIF. Web beacons enable Healthline or a partner to place or read a cookie (subject to the user's permission per the above section), as well as collect the time and date of a page view, and a description of the page where the web beacon is placed. Users have the option to render some web beacons unusable by rejecting their associated cookies.</p><h3>Third-party Media Companies</h3><p>We use third-party advertising companies and networks to serve ads. These third-party ad servers and network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here:<a href="http://networkadvertising.org/consumer/opt_out.asp" title="http://networkadvertising.org/consumer/opt_out.asp">http://networkadvertising.org/consumer/opt_out.asp</a>.</p><p>Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Healthline. If you click on an advertisement on Healthline and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you.</p><h3>Gathering and Use of Personally Identifiable Information</h3><p>We collect personally identifiable information that you provide to us when you register as a member of Healthline and/or when you update your member profile. We use the personally identifiable information that you supply to provide you with the specific services you select and to send you emails about web site maintenance and updates, which may include new features and enhanced functionality.</p><p>Personally identifiable information is not shared with third parties unless Healthline has your permission to do so. Healthline occasionally sponsors sweepstakes, contests, or other events that require the collection, processing, and storage of individual contact and demographic information that may or may not be shared with participating sponsors. A registrant's personal contact and demographic information will not be released to third party or non-participating organizations without the user's consent, and Healthline will request that co-sponsors of such events maintain the privacy of the registrants' information. When appropriate, users will be given the opportunity to receive information from third-party organizations in connection with services or events offered by Healthline. This option may be made available through Healthline's registration and/or through registration processes maintained by a participating third-party. In all cases, you will be informed before you register for the event of service that a third party will be receiving the registration information you provide, and you will have the option not to participate in any service or event that requires third party involvement.</p><p>As a general rule, Healthline does not make a practice of de-identifying personal information on any kind of regular schedule.</p><h3><strong>With whom does Healthline share the information it collects?</strong></h3><p>Healthline does not provide third-party access to your personal information except in the aggregate and only after the information has been de-identified. The information will be in the form of grouped statistics compiled from our users' answers to survey questions and on-site behavior. Healthline will not disclose the contact or demographic information of any individual user to advertisers or any other outside organization without the express permission of the individual. Healthline uses a third-party company to serve ads when you visit our web site. This company may use certain information (not including your name, address, email address or telephone number) about your visit to our web site in order to provide advertisements to our web site, our third-party advertiser may place or recognize a unique cookie on your browser. Healthline also does not work with third-parties to "append" information to the personal information Healthline collects (e.g., to append age or gender based on a user’s email address).Healthline stores the information it collects on its servers and employs industry-recognized security measures to protect it. On an irregular basis, Healthline does employ third-parties to verify and audit its security measures.</p><h3>E-mail Choice/Opt-Out</h3><p>Each e-mail newsletter and special offer sent by Healthline contains an easy, automated way for you to cease receiving our e-mail newsletters. One click of the mouse is all that is required -- the system automatically excludes you from future mailings without needing additional human intervention. To unsubscribe, click the "unsubscribe" link in the footer of any e-mail newsletter from Healthline. If you do not have Internet access, please reply to your Healthline e-mail and type the word "UNSUBSCRIBE" in the subject line. Healthline will not rent, sell or barter your email address to third parties, nor will we share your name with marketing partners unless you check a special box on our site to request third-party offers sent from Healthline.</p><p>Members of MyHealthline may also elect to receive News Alerts and Blog Alerts via email. To change mailing frequency, or to unsubscribe from New Alerts or Blog Alerts, MyHealthline Members should log into their account to update their preferences.</p><h3>User Research</h3><p>On occasion, Healthline will make available to potential advertisers and research firms aggregated results from research it has conducted on its user base. Once again, Healthline will only provide such demographic information on an aggregated basis and does not disclose individual member profiles without user consent.</p><h3>Special Policy With Regards to Information from Children Under Thirteen</h3><p>In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Healthline will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will never voluntarily share their personally identifiable information with third parties, regardless of their stated preference given at registration.</p><p>Effective: May 2012. Material changes to this policy will be posted here.</p><p>If you have additional questions, please contact us at&nbsp;<a href="mailto:privacypractices@healthline.com">privacypractices@healthline.com</a>. Please note that while we are happy to answer general questions, in order to protect the privacy of our users, we do not answer specific questions about the information collected about specific users (including users who may request access to the information collected on themselves).</p><p>Online privacy is in the regulatory purview of the Federal Trade Commission. For more information or to lodge a complaint, please visit the FTC's Consumer Response Center:&nbsp;<a href="https://www.ftccomplaintassistant.gov/">https://www.ftccomplaintassistant.gov/</a></p></div>
 
@@ -314,13 +338,13 @@ Healthline Ad Leaderboard:
       <ul class="list-pagination c">
 
         <li class="list-item-pagi" id="btn-previous-page">
-          <a class="anchor-pagi" href="#"><img alt="" class="icon-list-item-pagi" height="14" src="//www.healthline.com/resources/healthline/images/pagi-prev-big.v1.20130507115414.png" width="9"></a>
+          <a class="anchor-pagi" href="#"><img alt="" class="icon-list-item-pagi" height="14" src="/resources/healthline/images/pagi-prev-big.v1.20131204161511.png" width="9"></a>
         </li>
 
         <li class="list-item-pagi btn-page">1</li>
 
         <li class="list-item-pagi" id="btn-next-page">
-          <a class="anchor-pagi" href="#"><img alt="" class="icon-list-item-pagi" height="14" src="//www.healthline.com/resources/healthline/images/pagi-next-big.v1.20130507115414.png" width="9"></a>
+          <a class="anchor-pagi" href="#"><img alt="" class="icon-list-item-pagi" height="14" src="/resources/healthline/images/pagi-next-big.v1.20131204161511.png" width="9"></a>
         </li>
 
       </ul>
@@ -388,12 +412,12 @@ Healthline Ad Leaderboard:
           <p class="box-buttons">
             <button class="btn-cancel" name="feedbackcancelbutton" type="button">Cancel</button>
             <button class="btn-send-msg">Send Message</button>
-            <span class="box-loading"><img alt="" src="//www.healthline.com/resources/base/images/ajax-loader.gif"></span>
+            <span class="box-loading"><img alt="" src="/resources/base/images/ajax-loader.gif"></span>
           </p>
 
         </form>
 
-        <p class="box-privacy"><span class="icon-lock"></span> Email addresses will not be shared with 3rd parties. See <a href="//www.healthline.com/health/privacy-policy" target="_blank">privacy policy</a></p>
+        <p class="box-privacy"><span class="icon-lock"></span> Email addresses will not be shared with 3rd parties. See <a href="http://www.healthline.com/health/privacy-policy" target="_blank">privacy policy</a></p>
 
       </div>
 
@@ -417,11 +441,7 @@ Healthline Ad Leaderboard:
 
     </div>
 
-    <script language="javascript">
-  $(".box-related-taxo-close").click(function() {
-    $('.box-related-taxo').hide();
-  });
-</script><div class="box-article c">
+    <div class="box-article c">
 
       <div class="row12">
 
@@ -441,22 +461,22 @@ Healthline Ad Leaderboard:
     <h3>About Healthline</h3>
     <ul>
       <li>
-          <div class="icon-active"></div><a href="//www.healthline.com/health/about-healthline">Mission Statement</a>
+          <div class="icon-active"></div><a href="http://www.healthline.com/health/about-healthline">Mission Statement</a>
         </li>
       <li>
-          <a href="//www.healthline.com/health/staff">Editorial Staff</a>
+          <a href="http://www.healthline.com/health/staff">Editorial Staff</a>
         </li>
       <li>
-          <a href="//www.healthline.com/health/medical-board">Medical Board</a>
+          <a href="http://www.healthline.com/health/medical-board">Medical Board</a>
         </li>
       <li>
-          <a href="//www.healthline.com/health/terms-of-use">Terms of Use</a>
+          <a href="http://www.healthline.com/health/terms-of-use">Terms of Use</a>
         </li>
       <li>
-          <a href="//www.healthline.com/health/privacy-policy">Privacy Policy</a>
+          <a href="http://www.healthline.com/health/privacy-policy">Privacy Policy</a>
         </li>
       <li>
-          <a href="//www.healthline.com/health/ad-sponsorship-policy">Advertising &amp; Sponsorship Policy</a>
+          <a href="http://www.healthline.com/health/ad-sponsorship-policy">Advertising &amp; Sponsorship Policy</a>
         </li>
       <li>
           <a href="http://mediakit.healthline.com/">Advertise With Us</a>
@@ -484,7 +504,44 @@ Healthline Ad Leaderboard:
   </div>
 </div>
 
-</div>
+<!--hl-linking-ignore-start-->
+                <div class="overlay-content-promotion">
+                    <div class="content-promotion-header">
+                        <div class="triangle"></div>
+                        <div class="content-promotion-title">
+                            <p class="content-promotion-title-text">More on Healthline</p>
+                        </div>
+                        <div class="content-promotion-close"><a class="link-close-overlay-content-promotion" href="#"></a></div>
+                    </div>
+                    <div class="content-promotion-stories">
+                        <div class="content-promotion-story">
+                                        <div class="content-promotion-image">
+                                                    <a href="http://www.healthline.com/health-slideshow/optic-neuritis-ms" title="What's the Connection Between MS and Optic Neuritis?"><img alt="What's the Connection Between MS and Optic Neuritis?" src="/hlcmsresource/images/slideshow/optic-neuritis-ms/194x105_Connection_Between_MS_And_Optic_Neuritis_1.jpg"></a>
+                                                </div>
+                                                <div class="content-promotion-link">
+                                                    <a href="http://www.healthline.com/health-slideshow/optic-neuritis-ms" title="What's the Connection Between MS and Optic Neuritis?">What's the Connection Between MS and Optic Neuritis?<span> »</span></a>
+                                                </div>
+                                            </div>
+                                    <div class="content-promotion-story">
+                                        <div class="content-promotion-image">
+                                                    <a href="http://www.healthline.com/health-slideshow/hepatitis-c-and-pregnancy" title="Pregnancy and Breastfeeding with Hepatitis C: What You Need to Know"><img alt="Pregnancy and Breastfeeding with Hepatitis C: What You Need to Know" src="/hlcmsresource/images/slideshow/hepatitis-c-and-pregnancy/194x105_Pregnancy_And_Breastfeeding_With_Hepatitis_C_1.jpg"></a>
+                                                </div>
+                                                <div class="content-promotion-link">
+                                                    <a href="http://www.healthline.com/health-slideshow/hepatitis-c-and-pregnancy" title="Pregnancy and Breastfeeding with Hepatitis C: What You Need to Know">Pregnancy and Breastfeeding with Hepatitis C: What You Need to Know<span> »</span></a>
+                                                </div>
+                                            </div>
+                                    <div class="content-promotion-story">
+                                        <div class="content-promotion-image">
+                                                    <a href="http://www.healthline.com/health-slideshow/natural-treatment-hepatitis-c" title="Hepatitis C Treatment: Are Natural or Herbal Remedies Effective?"><img alt="Hepatitis C Treatment: Are Natural or Herbal Remedies Effective?" src="/hlcmsresource/images/slideshow/natural-treatment-for-hepatitis-c/194x105_Hepatitis_C_Treatment_1.jpg"></a>
+                                                </div>
+                                                <div class="content-promotion-link">
+                                                    <a href="http://www.healthline.com/health-slideshow/natural-treatment-hepatitis-c" title="Hepatitis C Treatment: Are Natural or Herbal Remedies Effective?">Hepatitis C Treatment: Are Natural or Herbal Remedies Effective?<span> »</span></a>
+                                                </div>
+                                            </div>
+                                    </div>
+                </div>
+                <!--hl-linking-ignore-end-->
+            </div>
       </div>
     </div><!-- innerbodybox -->
   </div><!-- bodycontainer -->
@@ -496,6 +553,9 @@ Healthline Ad Leaderboard:
     <div class="overlay-footer">
       <div class="overlay-close">Close</div>
     </div>
+  </div>
+
+  <div class="overlay-simple hl-overlay-image-gallery" id="overlayImageGallery">
   </div>
 
   </div>
@@ -521,18 +581,6 @@ Healthline Pencil Ad:
         </div>
 
       </div>
-
-<!-- false |  -->
-<script type="text/javascript">
-  if (optimizelySaysOk == null) var optimizelySaysOk = true; // A-B testing for Optimzely on Navigator
-  if (optimizelySaysOk) {
-  
-    // send notice to optimizely for no navigator links
-    document.write('<script type="text/javascript" src="http://nav.healthline.com/healthstat/nav/setup.js?rdblk='+roadblockId+'&partnerId=31a86f67-b1b6-4fd7-8b98-8caeee8d3078&noLinks=true"></scr'+'ipt>');
-  
-  };
-</script><script type="text/javascript" src="http://nav.healthline.com/healthstat/nav/setup.js?rdblk=0&amp;partnerId=31a86f67-b1b6-4fd7-8b98-8caeee8d3078&amp;noLinks=true"></script>
-
 
 <!-- Begin comScore Tag -->
 <script>
@@ -563,15 +611,16 @@ Healthline Pencil Ad:
 
             <ul>
                 <li class="ftsecthdr"><h3>Site Map</h3></li>
-                <li><a href="//www.healthline.com/directory/health-channels-a">Health Topics</a></li>
-                <li><a href="//www.healthline.com/directory/drugs-a">Drugs A-Z</a></li>
-                <li><a href="//www.healthline.com/health-blogs">Health Experts &amp; Blogs</a></li>
+                <li><a href="http://www.healthline.com/directory/health-channels-a">Health Topics</a></li>
+                <li><a href="http://www.healthline.com/directory/drugs-a">Drugs A-Z</a></li>
+                <li><a href="http://www.healthline.com/health-blogs">Health Experts &amp; Blogs</a></li>
+                <li><a href="http://contributors.healthline.com">Healthline Contributors</a></li>
                 </ul>
             <ul>
                 <li class="ftsecthdr"><h3>About Healthline</h3></li>
-                <li><a href="//www.healthline.com/health/staff">Our Staff</a></li>
-                <li><a href="//www.healthline.com/health/about-healthline">About Healthline.com</a></li>
-                <li><a href="//www.healthline.com/health/ad-sponsorship-policy">Advertising &amp; Sponsorship Policy</a></li>
+                <li><a href="http://www.healthline.com/health/staff">Our Staff</a></li>
+                <li><a href="http://www.healthline.com/health/about-healthline">About Healthline.com</a></li>
+                <li><a href="http://www.healthline.com/health/ad-sponsorship-policy">Advertising &amp; Sponsorship Policy</a></li>
                 <li><a href="http://healthlinenetworks.net/index.php/about-healthline-networks/company-overview/">About Healthline Networks</a></li>
                 </ul>
             <ul>
@@ -582,22 +631,21 @@ Healthline Pencil Ad:
                 </ul>
             <ul>
                 <li class="ftsecthdr"><h3>Stay Connected</h3></li>
-                <li><a href="//www.healthline.com/myhealthline">My Account</a></li>
                 <li><a href="https://www.facebook.com/healthlinenetworks">Facebook</a></li>
-                <li><a href="https://fr.twitter.com/Healthline">Twitter</a></li>
+                <li><a href="https://twitter.com/Healthline">Twitter</a></li>
                 <li><a href="https://plus.google.com/+healthline">Google+</a></li>
                 <li><a href="http://pinterest.com/healthline/">Pinterest</a></li>
                 </ul>
             <ul>
                 <li class="ftsecthdr"><h3>Legal Information</h3></li>
-                <li><a href="//www.healthline.com/health/terms-of-use">Terms of Use</a></li>
-                <li><a href="//www.healthline.com/health/privacy-policy">Privacy Policy</a></li>
+                <li><a href="http://www.healthline.com/health/terms-of-use">Terms of Use</a></li>
+                <li><a href="http://www.healthline.com/health/privacy-policy">Privacy Policy</a></li>
                 <li><a href="https://www.healthonnet.org/HONcode/Conduct.html?HONConduct694855"><img alt="This website is certified by Health On the Net Foundation. Click to verify." height="72" src="http://www.honcode.ch/HONcode/Seal/HONConduct694855_s.gif" style="display:block;padding-bottom:20px" width="49"></a></li>
                 </ul>
             <div class="copyright">
               <small>
                 Copyright © 2005 - 2013 Healthline Networks, Inc. All rights reserved.
-                Healthline is for informational purposes and should not be considered medical advice, diagnosis or treatment recommendations. <a href="//www.healthline.com/termsofuse.jsp" rel="nofollow">more details</a>
+                Healthline is for informational purposes and should not be considered medical advice, diagnosis or treatment recommendations. <a href="http://www.healthline.com/termsofuse.jsp" rel="nofollow">more details</a>
               </small>
             </div>
 
@@ -629,16 +677,24 @@ Healthline Pencil Ad:
                 // is this input field needed?
                 document.write('<input id="msftChannelIds1" name="msftChannelIds1" type="hidden" value="'+microsoft_adunit_channelids+'">');
 
-                require(['jquery', "base/dfpmanager","matchmedia"],function($, AppDfpmanager){
+                require(["jquery","base/dfpmanager","base/responsive-ads","matchmedia"],function($,AppDfpmanager,AppResponsiveAds){
 
-                  // determine if LB ad is shown on page load
-                  var isShowAdOnPageLoad = true;
+                // default - show LB ad on page load
+                var isAdOnPageLoad = true;
+
                 
+
+                  var breakpointsToHideAd = [];
+                  var breakpointsToHideAdByPageType = [];
+
                   
 
-                    var cfgDfpManager = {
+                  isAdOnPageLoad =  AppResponsiveAds.getShowAdOnPageLoad("LB",breakpointsToHideAd,breakpointsToHideAdByPageType);
 
-                    isShowAdOnPageLoad: isShowAdOnPageLoad,
+                
+
+                var cfgDfpManager = {
+                    isAdOnPageLoad: isAdOnPageLoad,
                     adshost : 'http://ads.healthline.com',
                     
                     logged_in : 'false',
@@ -677,7 +733,27 @@ Healthline Pencil Ad:
 </script><input id="msftChannelIds1" name="msftChannelIds1" type="hidden" value="">
 <script>
 
-      require(["healthline/header"]);
+      require(["healthline/header"], function(header){
+        header.setOptions({
+          isNews: false,
+          isNewsChecked: false
+        });
+      });
+    
+</script>
+<script>
+
+      require(["jquery"], function( $ ){
+        $(document).ready(function() {
+          $( '#box-health-tools' ).on( 'click', 'a', function(){
+              if( $( this ).text() == 'Doctor Search' ){
+                 _gaq.push( [ 'hl._link', $( this ).attr( 'href' ) ] );
+                 return !window._gat;
+              }
+              return true;
+            });
+        });
+      });
     
 </script>
 <script>
@@ -703,16 +779,6 @@ Healthline Pencil Ad:
         myWindow.focus();
       });
     });
-    
-</script>
-<script>
-
-      var addthis_config =
-      {
-        data_track_clickback: true,
-        data_ga_property: "UA-26124207-1",
-        data_ga_social: true
-      };
     
 </script>
 <script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=healthy1&amp;async=1&amp;domready=1"></script>
@@ -748,16 +814,23 @@ Healthline Pencil Ad:
               microsoft_adunit_channelids = "";
               document.write('<input id="msftChannelIds1" name="msftChannelIds1" type="hidden" value="'+microsoft_adunit_channelids+'">');
 
-              require(['jquery', "base/dfpmanager","matchmedia"],function($, AppDfpmanager){
+              require(['jquery',"base/dfpmanager","base/responsive-ads","matchmedia"],function($,AppDfpmanager,AppResponsiveAds){
 
-                  // determine if mr1 ad is shown on page load
-                  var isShowAdOnPageLoad = true;
+              // determine if mr1 ad is shown on page load
+              var isAdOnPageLoad = true;
 
-                  
+              
+
+                var breakpointsToHideAd = [];
+                var breakpointsToHideAdByPageType = [];
+
+                
+
+                isAdOnPageLoad =  AppResponsiveAds.getShowAdOnPageLoad("MR1",breakpointsToHideAd,breakpointsToHideAdByPageType);
+              
 
                 var cfgDfpManager = {
-
-                  isShowAdOnPageLoad: isShowAdOnPageLoad,
+                  isAdOnPageLoad: isAdOnPageLoad,
                   adshost : 'http://ads.healthline.com',
                   dfpAdSite : 'hn.us.hl.lc.x.x.x',
                   btk1 : '',
@@ -791,6 +864,20 @@ Healthline Pencil Ad:
 </script><input id="msftChannelIds1" name="msftChannelIds1" type="hidden" value="">
 <script>
 
+            require(['jquery', 'base/content-promotion-widget'],function($, AppContentPromotion){
+
+                var config = {
+                  contentPromotionParam: '',
+                  platformPageType: 'regularArticle'
+                };
+
+                AppContentPromotion.initialize(config);
+
+            });
+        
+</script>
+<script>
+
     require(["jquery","base/overlay"],function($,AppOverlay){
 
       var onBeforeLoadFunc = function() {
@@ -811,13 +898,54 @@ Healthline Pencil Ad:
 
       AppOverlay.initialize(cfgOverlay);
 
+      $(document).trigger('overlay_init');
+
     });
 
     $(document).ready(function(){
       var idSitePopupLink = $('#sitePopupLink');
+      var overlayPageURI = encodeURI("\u002fhealth\u002fprivacy\u002dpolicy");
       idSitePopupLink.click(function(){
-        HL_ga_sendTrackEvent({ gaEventCategory : 'engagement', gaEventAction : 'pop-up-overlay:', gaEventLabel : '/health/privacy-policy' });
+        HL_ga_sendTrackEvent({ gaEventCategory : 'Any Page', gaEventAction : 'pop-up-overlay:', gaEventLabel : overlayPageURI });
       })
+    });
+
+  
+</script>
+<script>
+
+    require(['jquery', 'base/image-gallery', 'base/dfpmanager', 'base/overlay', 'require.dust!resources/base/js/templates/image-gallery', 'lib/dust-helpers-1.1.1', 'jquery-ui', 'j/jquery.cookie', 'lib/date'], function($, AppImageGallery, AppDfpManager, AppOverlay, ImageGalleryTemplate){
+
+      var configAdPositionsToHide;
+      var addAdPosition = true;
+      var pageAdPositionsToHide = ['wsr'];
+
+      
+
+      AppImageGallery.initialize({
+        imageGalleryName : '',
+        adRBTimeDelay : 300,
+        adPositionsToHide : pageAdPositionsToHide
+      });
+
+      var onBeforeLoadFunction = function(){
+        $('.hl-main-content').css('z-index','auto');
+        $('#hlImageGallery').show();
+      };
+
+      var configOverlay = {
+        maskColor: '#555555',
+        maskLoadSpeed: 200,
+        maskOpacity: 0.5,
+        maskZindex: 9999999,
+        top: 'center',
+        left: 'center',
+        close: '.overlay-close',
+        onBeforeLoad: onBeforeLoadFunction
+      };
+
+      AppOverlay.initialize(configOverlay);
+
     });
 
   
@@ -872,6 +1000,7 @@ Healthline Pencil Ad:
 
   AppArticlePagination.initialize(
   {
+    
     isPaginationOverride : false,
     isExpandableNav : false,
     adRBTimeDelay : 300,
@@ -887,81 +1016,80 @@ Healthline Pencil Ad:
 </script>
 <script>
 
-require(["base/rwd/article"],function(AppArticleResponsive){
+    require(["base/rwd/article"],function(AppArticleResponsive){
 
-  AppArticleResponsive.initialize(
-    {
-      adRBTimeDelay : 300,
-    }
-  );
+      AppArticleResponsive.initialize(
+        {
+          adRBTimeDelay : 300,
+        }
+      );
 
-});
+    });
 
+    
 </script>
 <script>
 
 
-                require(['jquery', "base/dfpmanager","matchmedia"],function($, AppDfpmanager){
+                require(['jquery',"base/dfpmanager","base/responsive-ads","matchmedia"],function($,AppDfpmanager,AppResponsiveAds){
 
-                  $(function() {
+                $(function() {
 
-                    // determine if pb ad is shown on page load
-                    var isShowAdOnPageLoad = true;
+                // determine if pb ad is shown on page load
+                var isAdOnPageLoad = true;
 
-                    
+                
 
-                    var cfgDfpManager = {
+                  var breakpointsToHideAd = [];
+                  var breakpointsToHideAdByPageType = [];
 
-                    isShowAdOnPageLoad: isShowAdOnPageLoad,
-                    adshost : 'http://ads.healthline.com',
-                    
-                    logged_in : 'false',
-                    
-                    dfpAdSite : 'hn.us.hl.lc.x.x.x',
-                    btk1 : '',
-                    btk2 : '',
-                    kw : '',
-                    k1 : 'none',
-                    k2 : 'none',
-                    k3 : 'none',
-                    pos : 'lb',
-                    ugc : 'false',
-                    ac : '',
-                    uac : '',
-                    akh : '',
-                    aks : '5000',
-                    env : '',
-                    msiteID : '',
-                    adTagPageUrl : encodeURIComponent('/health/privacy-policy'),
-                    partner : 'healthline',
-                    pg_dart_site : 'hn.us.hl.lc.x.x.x',
-                    pg_dart_zone : 'none',
-                    pg_k2 : 'none',
-                    pHLID : '9725332',
-                    HLID : '9725332',
-                    visit_type : 'HCviewer',
-                    yeildex : 'true', targetsrc : ''
+                  
+                    breakpointsToHideAd = ['600','480','320'];
+                  
 
-                    };
+                  var isAdOnPageLoad = AppResponsiveAds.getShowAdOnPageLoad("PB",breakpointsToHideAd,breakpointsToHideAdByPageType);
 
-                    AppDfpmanager.pbIframeInit(cfgDfpManager);
+                
 
-                  });  // dom ready
+                var cfgDfpManager = {
+                isAdOnPageLoad: isAdOnPageLoad,
+                adshost : 'http://ads.healthline.com',
+                
+                logged_in : 'false',
+                
+                dfpAdSite : 'hn.us.hl.lc.x.x.x',
+                btk1 : '',
+                btk2 : '',
+                kw : '',
+                k1 : 'none',
+                k2 : 'none',
+                k3 : 'none',
+                pos : 'lb',
+                ugc : 'false',
+                ac : '',
+                uac : '',
+                akh : '',
+                aks : '5000',
+                env : '',
+                msiteID : '',
+                adTagPageUrl : encodeURIComponent('/health/privacy-policy'),
+                partner : 'healthline',
+                pg_dart_site : 'hn.us.hl.lc.x.x.x',
+                pg_dart_zone : 'none',
+                pg_k2 : 'none',
+                pHLID : '9725332',
+                HLID : '9725332',
+                visit_type : 'HCviewer',
+                yeildex : 'true', targetsrc : ''
+
+                };
+
+                AppDfpmanager.pbIframeInit(cfgDfpManager);
+
+                });  // dom ready
 
                 });
               
-</script>
-<script>
-
-var HL_adBlankMonitor = function(cfg) {
-  if(cfg.adBlankCodes.length > 0) {
-    for(var i = 0; i < cfg.adBlankCodes.length; i++) {
-      var unicaParams = 'ev=' + cfg.adBlankCodes[i] + '&adspot=' + cfg.adPosition;
-      ntptEventTag(unicaParams);
-    }
-  }
-};
-
 </script>
 <script>
 
