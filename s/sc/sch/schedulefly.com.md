@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulefly.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613002436id_/http%3A//www.schedulefly.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulefly.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212215632id_/http%3A//www.schedulefly.com/privacy.htm) for the most accurate reproduction.*
 
 # Schedulefly Privacy Policy
 
