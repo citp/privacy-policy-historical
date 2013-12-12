@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikewale.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519203751id_/http%3A//www.bikewale.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikewale.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212143125id_/http%3A//www.bikewale.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - BikeWale
 
