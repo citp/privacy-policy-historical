@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209145852id_/http%3A//www.nmm.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212060651id_/http%3A//www.rmg.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy : Website policies : Museum policies : About us : NMM
+# Privacy : Website policies : Museum policies : About us : RMG
 
 Your information | Tracking our visitors | Cookies | Content updates by email | Newsletter | Online donations | Booking tickets online | Facebook 'Likes' | Site search | Further information and requests
 
@@ -12,7 +12,7 @@ The National Maritime Museum respects the privacy of every individual who visits
 
 Information about you may be collected when you visit our websites either by automatic tracking devices (see 'Tracking our visitors' below) or, more directly, where you request a specific service, such as subscribing to the newsletter or booking a ticket online (see below for more details).
 
-You are most likely to submit personal information when you send us feedback or request a subscription – for example with the [Journal for Maritime Research](http://www.jmr.nmm.ac.uk/?PHPSESSID=c50a23d439e2fb7434dfc83f680a7bba). Similarly, if an individual requests information or orders products from the online shop a certain amount of information is required to fulfil the order. We only use this information to supply the services that have been requested and to monitor and improve the quality of our websites.
+You are most likely to submit personal information when you send us feedback or request a subscription – for example with the [Journal for Maritime Research](http://www.jmr.rmg.co.uk/?PHPSESSID=06da751eeb5f2014e54d4ef618984724). Similarly, if an individual requests information or orders products from the online shop a certain amount of information is required to fulfil the order. We only use this information to supply the services that have been requested and to monitor and improve the quality of our websites.
 
 It is the Museum's policy not to distribute or sell your information on to any third party.
 
@@ -24,11 +24,21 @@ This information is collected primarily to measure the popularity of the website
 
 ### Cookies
 
-In some areas of our site, a cookie may be placed on your computer. A cookie is a small file that resides on your computer's hard drive that allows the Museum to improve the quality of your visit to our websites. If your browser permits it you can set your computer to reject cookies, although this may affect the quality of your visit.
+This website uses cookies. A cookie is a small file placed on your computer by a website. Cookies allow the Museum to improve the quality of your visit to our websites. If your browser permits it you can set your computer to reject cookies, although this may affect the quality of your visit.
 
-[Collections Online](http://www.nmm.ac.uk/collections), [PortCities](http://www.portcities.org.uk/london/) and [Maritime Art Greenwich](http://www.nmm.ac.uk/mag/) require cookies to be enabled to allow you to perform some searches and login and create your own collections. The Flash version of the [Hodges website](https://web.archive.org/hodgesonline) also requires cookies to work correctly.
+This website uses the following cookies:
 
-If you are concerned about the use of cookies, we suggest you set your browser's privacy settings to 'high'. This setting will block cookies that collect personal information without your explicit consent while allowing you to fully enjoy the features of the websites.
+  * PHPSESSID – used to maintain 'state' between requests, so that the website can re-identify you as the same user
+  * X-Mapping-fjhppofk – used for load-balancing across our web servers in order to maximise website speed and performance
+  * AMAXHOST– used by our web content management system to detect which server the site is running on
+  * cookie_accept – to let us know that you have seen the message about our use of cookies and have opted to continue using the site on this basis
+  * __utma,  __utmb, __utmc and __utmz – [Google Analytics](http://www.google.com/analytics/) cookies which track things like the number of times a visitor has been to the site, date/time of first and most recent visits, length of visit, search engine and keyword used etc.
+
+
+
+The [Collections Online](http://www.rmg.co.uk/collections) and [PortCities](http://www.portcities.org.uk/london/) websites also use cookies to enable you to perform certain searches, to login, and to create your own collections. 
+
+If you are concerned about the use of cookies, we suggest you set your browser's privacy settings to 'high'. This setting will block cookies that collect personal information without your explicit consent while allowing you to fully enjoy the features of the websites. Depending on your web browser, you may also be able to block or delete specific cookies using browser tools or settings.
 
 ### Content updates by email
 
@@ -36,13 +46,11 @@ The Museum uses [Google FeedBurner](http://www.feedburner.com/fb/a/home) to send
 
 ### Newsletter
 
-The Museum has entered into a partnership with Patron Technology to assist us in providing an e-mail newsletter service. In order to sign up to this service, an individual has to submit personal information about themselves (e.g. name, e-mail address, interests).
+The Museum uses [MailChimp](http://mailchimp.com/) to provide our [e-mail newsletter service](http://www.rmg.co.uk/newsletter). In order to sign up to this service, an individual has to submit personal information about themselves (e.g. name, e-mail address, interests).
 
-This personal data is collected by Patron Technology on behalf of the Museum. They have entered into an agreement with the Museum to hold all details in a secure way. They are not permitted to use the data for their own purposes nor to sell or distribute it on to any other individual, organization or business under any circumstances.
+This personal data is collected by MailChimp on behalf of the Museum. The data is stored on a secure MailChimp server. MailChimp are not permitted to use the data for their own purposes nor to sell or distribute it on to any other individual, organization or business under any circumstances. 
 
-If, for whatever reason, our agreement with Patron Technology ends, they are contractually obliged to hand back the data to the National Maritime Museum and to delete all of the Museum's personal data from their computers.
-
-You can 'opt out' of the newsletter at any time by clicking on the 'Unsubscribe' link at the bottom of each newsletter. Alternatively you can e-mail the Web Editor via the '[Contact us](http://www.nmm.ac.uk/server/show/nav.00500b)' section of the main website. Your details will then be deleted from the database.
+You can 'opt out' of the newsletter at any time by clicking on the 'Unsubscribe' link at the bottom of each newsletter. Alternatively you can contact us via the '[Contact us](http://www.rmg.co.uk/server/show/nav.00500b)' section of the main website. Your details will then be deleted from the database.
 
 For a copy of the information we hold on you please contact the Museum at the address below.
 
@@ -52,11 +60,11 @@ We have enabled online donations to be made to the Museum through Justgiving. Th
 
 ### Booking tickets online
 
-Our online booking service is provided by TOR Maximweb. They collect personal information on behalf of the Museum to process each transaction and only use personal data where it is necessary to fulfil your order. TOR do not disclose personal data to other parties.
+Our online booking service is provided by Syx ReCreateX. They collect personal information on behalf of the Museum to process each transaction and only use personal data where it is necessary to fulfil your order. Syx do not disclose personal data to other parties.
 
 ### Facebook 'Likes'
 
-The NMM Website uses the Facebook ‘Like’ button on all our events pages (e.g. [planetarium shows](http://www.nmm.ac.uk/visit/events/planetarium/sky-tonight)), and on certain other pages e.g. [Astronomy Photographer of the Year](http://www.nmm.ac.uk/visit/exhibitions/astronomy-photographer-of-the-year/).
+The NMM Website uses the Facebook ‘Like’ button on all our events pages (e.g. [planetarium shows](http://www.rmg.co.uk/visit/events/planetarium/sky-tonight)), and on certain other pages e.g. [Astronomy Photographer of the Year](http://www.rmg.co.uk/visit/exhibitions/astronomy-photographer-of-the-year/).
 
 Facebook receives data whenever you visit a page that features a ‘Like’ button. This data may include the date and time you visit the site; the web address (URL) you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to Facebook, your User ID. 
 
