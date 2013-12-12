@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbandaddy.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611104405id_/http%3A//www.urbandaddy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbandaddy.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212123201id_/http%3A//www.urbandaddy.com/privacypolicy) for the most accurate reproduction.*
 
 # UrbanDaddy
 
@@ -6,7 +6,7 @@ UrbanDaddy Inc. ("UrbanDaddy") takes very seriously the private nature of your p
 
 **I. PERSONAL INFORMATION**
 
-In order to distribute our email publication, we (obviously) need your e-mail address. So that we may provide you with additional services as well as more interesting and relevant content, we may request additional information, including your name, zip code, telephone number and credit card information. UrbanDaddy does not collect any other personal information thatyou do not expressly provide. URBANDADDY WILL NOT DISCLOSE YOUR PERSONAL INFORMATION TO ANY THIRD PARTY WITHOUT YOUR CONSENT, EXCEPT AS DETAILED BELOW IN SECTION IV.
+In order to distribute our email publication, we (obviously) need your e-mail address. So that we may provide you with additional services as well as more interesting and relevant content, we may request additional information, including your name, zip code, telephone number and credit card information. UrbanDaddy does not collect any other personal information that you do not expressly provide. URBANDADDY WILL NOT DISCLOSE YOUR PERSONAL INFORMATION TO ANY THIRD PARTY WITHOUT YOUR CONSENT, EXCEPT AS DETAILED BELOW IN SECTION IV.
 
 **II. NON-PERSONAL INFORMATION**
 
@@ -50,11 +50,13 @@ Some of the ads appearing on this Web site are delivered to you by our web adver
 
 **IX. RFID TECHNOLOGY**
 
-At times, we may collect information from you at brick and mortar locations, such as events and pop-up-stores, using RFIDtechnology, including but not limited to your name, email, and certain social media account information. This information will only be collected with your permission and after you specifically sign up to receive an RFID device, and may be used for the following purposes: monitoring specific, pre-defined activities and posting those activities to social media feeds. This information may also be shared with our sponsors that are clearly identified at such locations. 
+At times, we may collect information from you at brick and mortar locations, such as events and pop-up-stores, using RFID technology, including but not limited to your name, email, and certain social media account information. This information will only be collected with your permission and after you specifically sign up to receive an RFID device, and may be used for the following purposes: monitoring specific, pre-defined activities and posting those activities to social media feeds. This information may also be shared with our sponsors that are clearly identified at such locations.
 
 **X. TRACKING & THIRD PARTY COOKIES**
 
-You may have read about "cookies" or bits of information that are placed by a Website in a storage place on your own computer. As with most other Web sites, the UrbanDaddy does use cookies but only to allow us to quickly check your status as a subscriber and facilitate access to your preferences. Some of our advertisers may serve you cookies as well. Unfortunately, we do not have control over cookies placed by advertisers. If you don't want cookies, your Web browser likely includes an option that allows you to not accept them.
+You may have read about "cookies" or bits of information that are placed by a Website in a storage place on your own computer. As with most other Web sites, the UrbanDaddy Web site does use cookies to allow us to quickly check your status as a subscriber, facilitate access to your preferences and present you with targeted advertising based on your previous interaction with our Web site and across third party Web sites. Such data collection and targeted ads are provided by a third party vendor, AdRoll. You can learn more about AdRoll and this method of advertising, as well as opt out of such targeted advertising, by visiting <http://www.aboutads.info/choices/>. Our Web site does not respond to or honor any web browser that does not track signals or similar mechanisms.
+
+Some of our advertisers may serve you cookies as well. Unfortunately, we do not have control over cookies placed by advertisers. If you don't want cookies, your Web browser likely includes an option that allows you to not accept them.
 
 **XI. IP ADDRESS**
 
@@ -72,11 +74,7 @@ As part of the service, UrbanDaddy may create links allowing you to access third
 
 We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information. Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information to the employees, agents, and officers of UrbanDaddy who need the information for their jobs.
 
-**XIV. RFID Technology**
-
-At times, we may collect information from you at brick and mortar locations, such as events and pop-up-stores, using RFIDtechnology, including but not limited to your name, email, and certain social media account information. This information will only be collected with your permission and after you specifically sign up to receive an RFID device, and may be used for the following purposes: monitoring specific, pre-defined activities and posting those activities to social media feeds. This information may also be shared with our sponsors that are clearly identified at such locations. 
-
-**XV. MODIFICATION TO THIS POLICY**
+**XIV. MODIFICATION TO THIS POLICY**
 
 UrbanDaddy reserves the right to change this policy from time to time, however, all changes will be posted to this Privacy Policy at the time such changes are made. The date of the most recent revisions will appear on this page so please check back. Please note that continued access of UrbanDaddy will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
@@ -85,3 +83,5 @@ Thank you for taking the time and interest to review our policies at UrbanDaddy.
 Thank you,
 
 UD
+
+Last revision on November 20 2013.
