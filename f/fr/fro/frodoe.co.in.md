@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frodoe.co.in privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629213931id_/http%3A//frodoe.co.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frodoe.co.in privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212083827id_/http%3A//www.frodoe.co.in/privacy.aspx) for the most accurate reproduction.*
 
 # Frodoe Privacy Policy
 
@@ -120,7 +120,7 @@ Frodoe complies with the US-EU Safe Harbor Framework as set forth by the US Depa
 
 In compliance with the US-EU Safe Harbor Principles, Frodoe commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact us at [legal@whalesharkmedia.com.](mailto:legal@whalesharkmedia.com)
 
-Frodoe has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20130629213931id_/http%3A//frodoe.co.in/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+Frodoe has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20131212083827id_/http%3A//www.frodoe.co.in/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 This Privacy Statement only addresses the use and disclosure of information by Frodoe through your interaction with the Sites. Other websites that may be accessible through links from our Sites may have their own privacy statements and personal information collection, use, and disclosure practices. Our merchants and business partners may have their own privacy statements, too. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of an offer or promotion. 
 
