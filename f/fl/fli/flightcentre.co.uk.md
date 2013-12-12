@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075448id_/http%3A//www.flightcentre.co.uk/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212202103id_/http%3A//www.flightcentre.co.uk/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Flight Centre uk policies
+# None
 
 **Introduction**  
 This Privacy Policy ("Policy") explains in general terms how Flight Centre UK Limited Registered in England No. 2937210 ("Flight Centre", "we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
@@ -101,6 +101,3 @@ We welcome your inquiries or comments about our Policy. Should you have any comm
 
 **Phone Enquiries**  
 Calls may be recorded for training purposes.
-
-**Changes to our Policy**  
-
