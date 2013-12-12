@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevenalan.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512112821id_/http%3A//www.stevenalan.com/Privacy-Policy-Terms/cs-privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenalan.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212120317id_/http%3A//www.stevenalan.com/Privacy-Policy-Terms/cs-privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Steven Alan - Privacy Policy & Terms
 
@@ -49,7 +49,7 @@ We reserve the right to request further identification for credit card processin
 #### shipping
 
   * All orders are shipped by UPS on business days (Monday to Friday) excluding holidays.
-  * Orders placed before 1 PM EST on businessIdMays wGill begin processing that day, orders placed after 1 PM EST will begin processing the following business day. Ground orders will be shipped within 48 hours of processing.
+  * Orders placed before 1 PM EST on business days will begin processing that day, orders placed after 1 PM EST will begin processing the following business day. Ground orders will be shipped within 48 hours of processing.
   * For overnight service, orders must be submited Monday-Friday by 11AM EST. Overnight orders places on Thursday after 11AM through Friday 11AM EST will arrive on Monday.
   * Overnight delivery orders placed on Friday after 11AM EST and over the weekend will arrive on Tuesday. Note: During our online sample, overnight shipping starts from the date the order is fully processed, which is within 48 hours of placing the order during high traffic times.
   * If you choose to ship your orders to multiple locations, there will be additional charges for each destination.
