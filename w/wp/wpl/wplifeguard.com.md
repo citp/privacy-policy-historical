@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wplifeguard.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604190626id_/http%3A//wplifeguard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wplifeguard.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212091254id_/http%3A//wplifeguard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wordpress Video Tutorials
 
@@ -56,7 +56,7 @@ We do not collect any information from anyone under 18 years of age. Our website
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://wplifeguard.com/downloadsterms-of-service/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://wplifeguard.com/terms-of-service/>
 
 **Your Consent**
 
@@ -72,6 +72,6 @@ This policy was last modified on October 6th, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://wplifeguard.com/downloadssupport/
+http://wplifeguard.com/support/
 
 support [at] wplifeguard [dot] com
