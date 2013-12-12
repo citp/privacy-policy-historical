@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hiplyrics.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530095430id_/http%3A//www.hiplyrics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiplyrics.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212030544id_/http%3A//www.hiplyrics.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Lyrics and Music Videos - Hip Lyrics
-
-## Privacy Policy
+# Privacy Policy Lyrics and Music Videos
 
 HipLyrics.com is committed to respecting and protecting your privacy. Should you choose to provide your Email address or any other personal information on any of the forms found on our site, you can be assured that it will only be used to support your relationship with HipLyrics.com. This privacy policy is intended for all users of HipLyrics.com.
 
@@ -38,7 +36,7 @@ HipLyrics.com is the sole owner of the information collected on our site. HipLyr
 
 ### Registration
 
-In order to use this Web site and/or review or place any job offers, a user must first complete the registration form.  During registration a user is required to give contact information (such as name and email address). We use this information to contact the user, if necessary.  If offered, it is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as username), but encouraged so we can provide a more personalized experience on our site.  Please safeguard your personal information. You may be liable for unauthorized use of our web site, as well as have your private information used by others.
+In order to use this Web site and/or review or place any job offers, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user, if necessary. If offered, it is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as username), but encouraged so we can provide a more personalized experience on our site. Please safeguard your personal information. You may be liable for unauthorized use of our web site, as well as have your private information used by others.
 
 Unless you opt-out, you give HipLyrics.com permission to use your information as per this privacy policy.
 
@@ -50,19 +48,19 @@ Unless described otherwise in this privacy policy, we will not sell any informat
 
 ### Profile
 
-We store information that we collect through cookies, log files and/or third parties to create a profile of our users.  A profile is stored information that we keep on individual users that details their viewing preferences.  Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them.  We do not share your profile with other third parties, unless specifically mentioned in this agreement. 
+We store information that we collect through cookies, log files and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties, unless specifically mentioned in this agreement. 
 
 ### Cookies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates.  A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
 
-Cookies, if used, will be used on our site to remember and recall login names, login information, previous purchases, potential purchases, as well as other items to help us better understand user's needs. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site.  If users reject the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.  See the (Profile) section.
+Cookies, if used, will be used on our site to remember and recall login names, login information, previous purchases, potential purchases, as well as other items to help us better understand user's needs. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the (Profile) section.
 
 We have no control over any third party use also use cookies to store personal information. However, we do not provide this information to any third party.
 
 ### Log Files
 
-Like most standard Web site servers we may use log files.  This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information. 
+Like most standard Web site servers we may use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
 **Communications from the Site**
 
@@ -72,11 +70,11 @@ We send all new members a welcoming email for your information, and if applicabl
 
 ### Newsletter
 
-We will be sending a newsletter to all registered users. If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.  Out of respect for our users privacy we provide a way to opt-out of these communications. These newsletters will not contain any advertisements other than job openings.
+We will be sending a newsletter to all registered users. If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. These newsletters will not contain any advertisements other than job openings.
 
 ### Service Announcements
 
-On rare occasions it is necessary to send out a strictly service related announcement.  For instance, if our service is temporarily suspended for maintenance we might send users an email.  Generally, users may not opt-out of these communications, though they can deactivate their account.  However, these communications are not promotional in nature. 
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
 
 ### Customer Service
 
@@ -118,7 +116,7 @@ We do not support any illegal use of your private information and will make ever
 
 ### Business Transitions
 
-In the event HipLyrics.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.  Users will be notified via e-mail, as well as with a prominent notice on our Web site for at least 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+In the event HipLyrics.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via e-mail, as well as with a prominent notice on our Web site for at least 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
 
 Children's privacy.
 
@@ -128,29 +126,29 @@ HipLyrics.com is designed for those who can legally create binding contracts. Th
 
 Our users are given the opportunity to -opt-out- of having their information used for purposes not directly related to our site at the point where we ask for information. 
 
-Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
 ### Links
 
-This Web site may contain links to other sites. Please be aware that we, HipLyrics.com, are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site. HipLyrics.com may have co-branding and/or framing relations with other companies. In this case, you should be familiar with the privacy policies of both companies, since you may be subject to each of them.
+This Web site may contain links to other sites. Please be aware that we, HipLyrics.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. HipLyrics.com may have co-branding and/or framing relations with other companies. In this case, you should be familiar with the privacy policies of both companies, since you may be subject to each of them.
 
 ### Surveys & Contests
 
-From time-to-time our site requests information from users via surveys or contests.  Participation in these surveys or contests is completely voluntary but the information collected may be disclosed as per this privacy agreement.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).  Contact information will be used/shared with the contest/survey sponsors (if any) to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.  Unless mentioned in this privacy policy, users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. 
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary but the information collected may be disclosed as per this privacy agreement. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used/shared with the contest/survey sponsors (if any) to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Unless mentioned in this privacy policy, users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. 
 
 ### Tell-A-Friend
 
-We may be starting a referral program. If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address.  HipLyrics.com will automatically send the friend a one-time email inviting them to visit the site.  HipLyrics.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+We may be starting a referral program. If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. HipLyrics.com will automatically send the friend a one-time email inviting them to visit the site. HipLyrics.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 HipLyrics.com can not be liable for the actions of any -friend- who may give out your personal information, other than what is permitted in this privacy policy. Any abuse of this service will lead to suspension or termination of use of this website.
 
 ### Security
 
-This Web site takes every precaution to protect our users' information.  When users submit sensitive information via the Web site, their information is protected both online and off-line.
+This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just -surfing-. 
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just -surfing-. 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. We use security protection software made by Oracle, as well as SQKL query protection. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment. 
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. We use security protection software made by Oracle, as well as SQKL query protection. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment. 
 
 HipLyrics.com will make every effort to protect your information. However, HipLyrics.com can't be liable (for any damages whatsoever) for security breaches that occur outside of HipLyrics.com.
 
@@ -162,9 +160,9 @@ If a user's personally identifiable information changes (such as zip code, phone
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner.  However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.  In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 ### Contact Information
 
