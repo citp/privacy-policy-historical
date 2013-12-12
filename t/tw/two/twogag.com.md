@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twogag.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306115020id_/http%3A//www.twogag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twogag.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212084822id_/http%3A//www.twogag.com/privacy-policy) for the most accurate reproduction.*
 
 # Two Guys and Guy - Privacy Policy
 
@@ -22,4 +22,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Twogag also uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-T.M.I. right? Don’t worry, you can safely browse the site with out anything bad happening to you! :] 
+T.M.I. right? Don’t worry, you can safely browse the site with out anything bad happening to you! :]
