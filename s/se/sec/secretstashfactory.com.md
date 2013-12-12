@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretstashfactory.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615174200id_/http%3A//www.secretstashfactory.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretstashfactory.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212130257id_/http%3A//www.secretstashfactory.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Pivacy Policy
 
