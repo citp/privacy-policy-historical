@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storybundle.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611225746id_/http%3A//storybundle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storybundle.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212214954id_/http%3A//storybundle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - StoryBundle
 
@@ -8,7 +8,7 @@ Your privacy is important to us, so Idea Bundle, dba StoryBundle, LLC. ("StoryBu
 
 #### What Information Is Collected? 
 
-“ **Personally Identifiable Information** ” means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. StoryBundle collects the following Personally Identifiable Information from you when you use our Service: your email address, and payment information (PayPal, Google, or Amazon information). If you correspond with us by email or through the Service, we may retain the content of your messages, your email address and our responses. 
+“ **Personally Identifiable Information** ” means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. StoryBundle collects the following Personally Identifiable Information from you when you use our Service: your email address, and payment information (PayPal, Amazon or Stripe information). If you correspond with us by email or through the Service, we may retain the content of your messages, your email address and our responses. 
 
 StoryBundle also automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you request. You can choose not to provide us with certain information, but then you might not be able to take advantage of some of our features.
 
