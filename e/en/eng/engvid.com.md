@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engvid.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425015959id_/http%3A//www.engvid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engvid.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212051755id_/http%3A//www.engvid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · engVid
 
