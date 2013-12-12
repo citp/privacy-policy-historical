@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracyandersonmethod.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530163832id_/http%3A//tracyandersonmethod.com/privacy/%3Fref%3Dfooter-menu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracyandersonmethod.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212013909id_/http%3A//tracyandersonmethod.com/privacy/%3Fref%3Dfooter-menu) for the most accurate reproduction.*
 
 # Privacy » Tracy Anderson Official Site - Metamorphosis
 
