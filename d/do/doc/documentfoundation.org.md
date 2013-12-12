@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the documentfoundation.org privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626112624id_/http%3A//www.documentfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentfoundation.org privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212061701id_/http%3A//www.documentfoundation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » The Document Foundation
 
 ## Privacy Policy
 
-[Deutsche Fassung](https://www.documentfoundation.org/privacy#deutsch) | [English version](https://www.documentfoundation.org/privacy#english)
+[Deutsche Fassung](http://www.documentfoundation.org/privacy#deutsch) | [English version](http://www.documentfoundation.org/privacy#english)
 
 ##  Datenschutzerklärung
 
