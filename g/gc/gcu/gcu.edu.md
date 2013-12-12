@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516084358id_/http%3A//www.gcu.edu/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212173900id_/http%3A//www.gcu.edu/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy | Grand Canyon University
 
@@ -8,7 +8,7 @@
 
 Grand Canyon University, one of the top online Christian schools, is committed to protecting your privacy while you visit our websites. This policy is designed to provide an explanation of the information collected from our visitors and how that information is used and disclosed.
 
-**Type & Use of Information Collected**
+Type & Use of Information Collected
 
 Grand Canyon University collects both personal and non-personal identifying information from its visitors. The information collected is used to help us identify our target market and improve the products and services we offer our customers. The collected information is primarily used for marketing purposes and visitors may expect to receive future communication from the University.
 
@@ -22,7 +22,7 @@ Our student and faculty sites may also require you to provide specific user iden
 
 It is also possible to apply for employment opportunities through our website. Our online application requests information such as an your name, address, phone number, email address, employment history, languages you may be fluent in, education, teaching experience, publications, honors or awards you may have received, work-related skills (such as technology experience), professionally-related community activities, and any licensures, certifications, professional memberships, or endorsements you may have.
 
-**Security**
+Security
 
 Our Sites have reasonable security measures in place designed to protect against the loss, misuse, unauthorized access, disclosure, alteration and destruction of the information under our control.
 
@@ -30,7 +30,7 @@ We will take reasonable steps to ensure the data is reliable, accurate, complete
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-**Disclosure or Transfer of Personal Information**
+Disclosure or Transfer of Personal Information
 
 We may disclose personal information to (i) third parties who perform tasks on the University's behalf, and (ii) to other third parties engaged by the University in the ordinary course of business provided that the third party agrees (1) to provide adequate protections for your personal information that are no less protective than those set out in this privacy policy, and (2) to use the personal information only for the purposes for which the third party has been engaged by Grand Canyon University.
 
@@ -38,21 +38,25 @@ We may also disclose personally identifiable information in response to valid le
 
 We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBackck's Privacy Policy, click here. If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt-Out, of FetchBack Retargeting, please click here. Visit the Network Advertising Initiatives Opt-Out by clicking here.
 
-**Opt-Out**
+Opt-Out
 
 You may make a request to be removed from our mailing lists by contacting the university by sending your name, address and email to 3300 West Camelback Road, Phoenix, AZ 85017. If you do not wish to receive marketing emails from us, please submit a request to the following website: [http://www.gcu.edu/unsub](http://www.gcu.edu/unsub.php "Unsubscribe") or by emailing admissionsonline@gcu.edu.
 
-**Limitations**
+Use of the GCU WiFi Network for On-Campus Students
 
-Grand Canyon University, one of the top online Christian schools, may provide links to other websites. In addition, there are many websites that may link directly to Grand Canyon University. Grand Canyon University does not endorse these third party websites or the content presented on them and has no control over their privacy practices. 
+GCU's internet network is guarded by a firewall that protects students from entering sites the university feels are unsafe or inappropriate. Sites are selected by category to filter usage. Seven categories are set to make the site unavailable but a "continue" button will allow students through to the site, these sites include, but are limited to, drugs, illegal activities, questionable sites, etc. There are eight categories that are set to make sites wholly unavailable (including, but not limited to, pornography, cheating websites, malware, key loggers, etc.) LoudCloud and eBooks websites will be specifically whitelisted to ensure students will always be able to access them. In cases where a student feels a website should be made available, those students will be directed to Residence Life, where the request will be reviewed. Since students do not authenticate on the LOPES network, this web filter's reporting capabilities will be limited to "big-picture" summaries that describe general usage. Reporting on individual students will not be possible. GCU does not proactively monitor usage or sites visited.
+
+Limitations
+
+Grand Canyon University, one of the top online Christian schools, may provide links to other websites. In addition, there are many websites that may link directly to Grand Canyon University. Grand Canyon University does not endorse these third party websites or the content presented on them and has no control over their privacy practices.
 
 This privacy policy only applies to information collected on www.gcu.edu, www.grand-canyon.edu, http://my.gcu.edu and gcu.edu sub-domains. We strongly encourage you to review the privacy policy of each website you visit.
 
-**Changes in Privacy Policy**
+Changes in Privacy Policy
 
 This privacy policy is current as of the effective date set forth above.  Grand Canyon University reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles.
 
-**More information**
+More information
 
 For additional information about this policy or Grand Canyon University's privacy practices, please contact us at:
 
