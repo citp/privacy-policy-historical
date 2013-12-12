@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gadgetstouse.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607180454id_/http%3A//gadgetstouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetstouse.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212061757id_/http%3A//gadgetstouse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Gadgets To Use
+# Privacy Policy - Gadgets To Use
 
 Privacy Policy for Gadgets To Use ( <http://www.gadgetstouse.com/> )
 
@@ -24,4 +24,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Rating: 0.0/ **5** (0 votes cast)
+Rating: 2.0/ **5** (2 votes cast)
+
+Privacy Policy, 2.0 out of 5 based on 2 ratings 
