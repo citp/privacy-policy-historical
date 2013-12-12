@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604142219id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213003630id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit® Canada
 
