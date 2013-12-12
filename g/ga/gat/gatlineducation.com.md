@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatlineducation.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610221626id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatlineducation.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212020822id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Cengage Learning - Learning solutions, training and educational publishing - Privacy Statement
 
