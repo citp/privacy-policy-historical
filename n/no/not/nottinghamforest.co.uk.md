@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nottinghamforest.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622115713id_/http%3A//www.nottinghamforest.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nottinghamforest.co.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212074918id_/http%3A//www.nottinghamforest.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
