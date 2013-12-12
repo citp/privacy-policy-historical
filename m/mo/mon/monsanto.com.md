@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624194253id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212101827id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
 
 # Monsanto | Monsanto Privacy Policy
 
