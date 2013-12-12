@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531164620id_/http%3A//topyaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topyaps.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212202907id_/http%3A//topyaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopYaps
 
