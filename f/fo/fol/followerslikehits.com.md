@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followerslikehits.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001713id_/http%3A//followerslikehits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followerslikehits.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212225508id_/http%3A//followerslikehits.com/privacy.php) for the most accurate reproduction.*
 
 # Followers Like Hits - Get Facebook Fans, Twitter Followers, Youtube Views, Google +1's, Stumbleupon Followers, Digg Followers, Website Hits, Twitter ReTweets, and MORE!
 
@@ -63,7 +63,7 @@ Followers Like Hits has the discretion to update this privacy policy at any time
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20130526001713id_/http%3A//followerslikehits.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131212225508id_/http%3A//followerslikehits.com/tos.php). If you do not agree to this policy or terms, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
@@ -74,4 +74,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on September 30, 2012
 
-[](https://web.archive.org/web/20130526001713id_/http%3A//followerslikehits.com/goban.php?id=6)
+[](https://web.archive.org/web/20131212225508id_/http%3A//followerslikehits.com/goban.php?id=121)
