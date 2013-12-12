@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caller.com privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605043736id_/http%3A//www.caller.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caller.com privacy policy that was archived on 2013-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212191644id_/http%3A//www.caller.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" class="no-js classworking" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--<![endif]--><!--
   
@@ -8,7 +8,7 @@
 --><head>
 	
 		
-		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P3F9"></script><script type="text/javascript">
+		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
 			var jSINGconf = {};
 			jSINGconf.theme = {
 				
@@ -82,7 +82,11 @@
 		
 		
 			<!-- ad_manager --><!-- target.obj_name = flatpage -->
-<script type="text/javascript"><!--
+<script type="text/javascript">//<!--
+var adslots= {}; // for anvato player, but we'll save register all of the slots here anyway
+
+//--> </script>
+<script type="text/javascript">//<!--
 
             function ReadCookie(cookieName) {
                 var theCookie="" + document.cookie ;
@@ -107,6 +111,7 @@
             
             //OPTIONAL PARAMETERS FOR DEMOGRAPHIC TARGETING 
             var gender = ReadZagi( 'gender' )=='M'?'m':ReadZagi('gender')=='F'?'f':''
+            var subscribes = String( parseInt( ReadZagi( 'subscriber' ) || '0') > 0 );
 
             function AgeToRange( years_old ) {
                 if( isNaN( years_old ) ) { return '' ; }
@@ -151,6 +156,7 @@
             if( age_range ) _demo_params +=';age=' + age_range ;
             if( gender ) _demo_params += ';gender=' + gender ;
             if( inc_range ) _demo_params += ';income=' + inc_range ;
+            if( subscribes ) _demo_params += ';sub=' + subscribes ;
 
             // hack to handle old hardcoded calls to yld_mgr
             var yld_mgr={place_ad_here:function(){}};
@@ -167,24 +173,32 @@
 	
 			
 			<!-- stage register_ad_pos -->
-			<!-- registered SUPERSTITIAL ad in position above, slot SUPERSTITIAL -->
-			<!-- registered BIGBOX ad in position above, slot BIGBOX_1 -->
+			<script>adslots.SUPERSTITIAL ={ tag: "http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above", 'size':'720x300'}; //<!-- registered SUPERSTITIAL ad in position above, slot SUPERSTITIAL -->//</script>
+
+			<script>adslots.BIGBOX_1 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=2;sz=300x250;pos=above", 'size':'300x250'}; //<!-- registered BIGBOX ad in position above, slot BIGBOX_1 -->//</script>
+
+            <script>adslots.PREROLL_TEMPLATE ={ tag: "http://ad.doubleclick.net/N6088/pfadx/np.ccct/Online/System_Response/Error;pt=detail;tile=3;sz=1x1000;pos=above;dcmt=text/xml", 'size':'1x1000'}; //<!-- registered VIDEO_PREROLL ad in position above, slot PREROLL_TEMPLATE -->//</script>
+
 
 			
 	
 	
-				<!-- registered BIGBOX ad in position below, slot BIGBOX_2 -->			
+				<script>adslots.BIGBOX_2 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=4;sz=300x250;pos=below", 'size':'300x250'}; //<!-- registered BIGBOX ad in position below, slot BIGBOX_2 -->//</script>
+			
 			
 
 
-			<!-- registered WEATHER_SPONSOR ad in position below, slot WEATHER_SPONSOR -->
-			<!-- registered SEARCH_RESULTS_SPONSOR ad in position above, slot SEARCH_RESULTS_SPONSOR_1 -->
 			
-            <!-- registered FLAGPROMO ad in position above, slot FLAGPROMO_1 -->
+			<script>adslots.SEARCH_RESULTS_SPONSOR_1 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=5;sz=120x30;pos=above", 'size':'120x30'}; //<!-- registered SEARCH_RESULTS_SPONSOR ad in position above, slot SEARCH_RESULTS_SPONSOR_1 -->//</script>
+
+			
+            <script>adslots.FLAGPROMO_1 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=6;sz=300x40;pos=above", 'size':'300x40'}; //<!-- registered FLAGPROMO ad in position above, slot FLAGPROMO_1 -->//</script>
+
 			<!-- End register_ad_pos -->
 		
 	
-	<!-- registered LEADERBOARD ad in position above, slot LEADERBOARD_1 -->
+	<script>adslots.LEADERBOARD_1 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=7;sz=728x90;pos=above", 'size':'728x90'}; //<!-- registered LEADERBOARD ad in position above, slot LEADERBOARD_1 -->//</script>
+
 
 
 		
@@ -200,7 +214,7 @@
 	<!-- META -->
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <!-- fb requires author as meta property instead of meta name and now it is a 'profile' type, not a string -->
-	<!-- <meta property="author" content="Corpus Christi Caller-Times and Corpus Christi Caller Times" /> -->
+	<meta name="author" content="">
 	<meta name="description" content="
 	Privacy Policy news and information. Corpus Christi Caller-Times brings you the most current Privacy Policy news and information available.
 	">
@@ -211,16 +225,25 @@
 		<meta name="__sync_contentCategory" content="Free">
                   <meta name="__is_premium" content="False">
                   <meta name="__user_needs_subscription" content="False">
-                  <meta name="__wall" content="<corp.apps.paywall.timewall.TimeWall object at 0x1a16d290>">
+                  <meta name="__wall" content="<corp.apps.paywall.timewall.TimeWall object at 0x190d5690>">
                   <meta name="__circ_manager" content="corp.apps.paywall.backends.backends.SyncAccessWrapper">
                   <meta name="__paymentframe_url" content="https://www.syncaccess.net/scripps/ccct/Account/purchasesubscription2">
+            <script>
+                  var __WALL_STATE = {};
+                  __WALL_STATE.sync_contentCategory = "Free" ;
+                  __WALL_STATE.is_premium = "False" ;
+                  __WALL_STATE.user_needs_subscription = "False" ;
+                  __WALL_STATE.wall = "<corp.apps.paywall.timewall.TimeWall object at 0x190d5690>" ;
+                  __WALL_STATE.circ_manager = "corp.apps.paywall.backends.backends.SyncAccessWrapper" ;
+                  __WALL_STATE.paymentframe_url = "https://www.syncaccess.net/scripps/ccct/Account/purchasesubscription2";
+                </script>
             
 <!-- user_needs_subscription set to False -->
 	
 	
 	
 	
-	<meta name="google-site-verification" content="MuRZqQr_-hFEMbggjg0PZ33LXip9oqpX94LOd97baaE">
+	<meta name="google-site-verification" content="49njY4AVtb0CsOMbBFQMmMQFG0n8N6HCEgVH2iIa-po">
 	
 	<title>Privacy Policy Information &amp; News from Corpus Christi Caller-Times (Corpus Christi, TX)</title>
 	
@@ -241,8 +264,11 @@
 			</style>
 		
 		
+
 <link rel="stylesheet" href="http://web.caller.com/ellington/gallery/prettyPhoto_main.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
+
 <link href="http://web.caller.com/ellington/css/ccct.css" rel="stylesheet" type="text/css">
+
 
 
 
@@ -295,12 +321,12 @@
 </head>
 
 <body class="default_body hasJS">
- 
 	
-	
+
 <!-- stats tag ['CCCT'] -->
 <script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=CCCT&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=Online+%2F+System+Response+%2F+Error+%28NPC%29"></script><script type="text/javascript">apptap();</script>
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P3F9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P3F9');</script>
+
+
 
 <script type="text/javascript">document.body.className += " hasJS"</script>
 
@@ -313,8 +339,8 @@
 	
 	<div class="adtag" id="SUPERSTITIAL"><script language="JavaScript">
         // slotname: SUPERSTITIAL
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above;ord=963224240049858700" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above;sub=false;ord=951393982133266800" type="text/javascript"></script></div>
 
 
 <div id="advertising_wrapper" class="default ggnoads">
@@ -327,8 +353,8 @@
 			<div id="leaderboard">
 				<div class="adtag" id="LEADERBOARD_1"><script language="JavaScript">
         // slotname: LEADERBOARD_1
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=7;sz=728x90;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=7;sz=728x90;pos=above;ord=963224240049858700" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=7;sz=728x90;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=7;sz=728x90;pos=above;sub=false;ord=951393982133266800" type="text/javascript"></script></div>
 			</div> <!-- end #leaderboard -->
 		
 		</div> <!-- end #advertising -->
@@ -346,7 +372,6 @@
 			<li><a href="/accounts/profile/edit/">Manage Account</a> |</li>
 			<li><a href="http://m.caller.com">Mobile</a> |</li>
 			
-<li><a href="/sitemap/" title="Site Map"> Site Map</a> |</li>
 <li><a href="/subscribe/" title="Subscriber Services"> Subscribe</a> |</li>
 <li><a href="/e-edition/" title="e-Edition Digital Newspaper"> e-Edition</a> |</li>
 <li><a href="/rewards/" title="Reader Rewards"> Reader Rewards</a> |</li>
@@ -401,7 +426,7 @@
                     </div>
     </div>
     
-    <div id="search" style="top: 23px">
+    <div id="search">
         <form action="/search/" method="get">
             <fieldset>
                 <input id="q" name="q" type="text" class="search_text">
@@ -479,6 +504,7 @@
 <li><a href="/diabetes/" title="Cost of Diabetes">Cost of Diabetes</a></li>
 <li><a href="/eagle-ford-shale/" title="Eagle Ford Shale">Eagle Ford Shale</a></li>
 <li><a href="/harbor-bridge/" title="Harbor Bridge - SPECIAL REPORT">Harbor Bridge</a></li>
+<li><a href="/immigration/" title="Immigration">Immigration</a></li>
 <li><a href="/news/news/local/kempsridley/" title="Kemp's Ridley Sea Turtles">Kemp's Ridley</a></li>
 <li><a href="/news/news/local/las-brisas/" title="Las Brisas">Las Brisas</a></li>
 <li><a href="/news/news/local/memorial-coliseum/" title="Memorial Coliseum">Memorial Coliseum</a></li>
@@ -493,7 +519,7 @@
 
 
 
-<li><a href="/crime/" title="Caller.com Crime - Be the first to know.">Crime Map | Live Scanner</a></li>
+<li><a href="/crime/" title="Caller.com Crime - Be the first to know.">Crime</a></li>
 <li><a href="/data/" title="Databases and Statistics">Data</a></li>
 <li><a href="/news/news/">Wire</a>
 <ul class="tertiary_nav">
@@ -524,11 +550,18 @@
 <script src="http://web.caller.com/ellington/promos/contests/nav.js"></script>
 
 
-<li><a href="http://caller.collegehoops.upickem.net/collegebasketball/registration/login.asp" title="College Football"><span style="color:#93ba61;">NEW:</span> College Basketball</a></li>
-<li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing"><span style="color:#93ba61;">NEW:</span> Auto Racing</a></li>
 
 
+
+<li><a href="http://caller.upickem.net/upickem/registration/login.asp?contestid=102066" title="H.S. Football Challenge"><span style="color:#93ba61;">NEW:</span> H.S. Football Challenge</a></li>
+<li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football"><span style="color:#93ba61;">NEW:</span> Pro football</a></li> 
+ 
 <!--
+<li><a href="http://caller.collegehoops.upickem.net/collegebasketball/registration/login.asp" title="College Football">College Basketball</a></li>
+<li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing">Auto Racing</a></li>
+
+
+
 <li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing"> Auto Racing</a></li>
 <li><a href="http://caller.collegefootball.upickem.net/collegefootball/registration/login.asp" title="College Football"><span style="color:#93ba61;">NEW:</span>College Football</a></li>
 <li><a href="http://caller.upickem.net/upickem/registration/login.asp?contestid=66970" title="H.S. Football Challenge">H.S. Football Challenge</a></li>
@@ -549,21 +582,21 @@
 <li><a href="/weather/" title="Local Radar">Local Weather</a></li>
 </ul>
 </li>
+
+<li><a href="http://www.caller.com/news/news/christmas-appeal/" title="Christmas Appeal" style="color:#9cc0f6; margin-left:50px;">Christmas Appeal</a></li>
+
 <!--
 <li><a href="http://www.caller.com/lights/" title="Holiday Lights Map" style="color:#9cc0f6; margin-left:50px;">Holiday Lights Map</a></li>
 
 
 
-<li><a href="http://www.caller.com/election/" title="Election 2012" style="color:#9cc0f6">Election 2012</a>
+<li><a href="http://www.caller.com/elections/" title="Election 2013" style="color:#9cc0f6">Election 2013</a>
 <ul class="tertiary_nav">
-<li><a href="http://www.caller.com/news/news/politics/corpus-christi/" title="Corpus Christi">Corpus Christi</a></li>
+<li><a href="http://www.caller.com/news/news/politics/destination-bayfront/" title="Destination Bayfront">Destination Bayfront</a></li>
 <li><a href="http://www.caller.com/news/news/politics/county/" title="County">County</a></li>
 <li><a href="http://www.caller.com/news/news/politics/state/" title="State">State</a></li>
 <li><a href="http://www.caller.com/news/news/politics/federal/" title="Federal">Federal</a></li>
-<li><a href="http://www.caller.com/news/news/politics/judicial/" title="Judicial">Judicial</a></li>
 <li><a href="http://www.caller.com/news/news/politics/education/" title="Education">Education</a></li>
-<li><a href="http://www.caller.com/elections/live-chat/" title="Live Chats">Live Chats</a></li>
-<li><a href="http://www.caller.com/elections/data/" title="Databases">Databases</a></li>
 <li><a href="http://www.caller.com/elections/polling/" title="Polling Stations">Polling Stations</a></li>
 <li><a href="http://www.caller.com/elections/ballots/" title="Sample Ballots">Sample Ballots</a></li>
 </ul>
@@ -704,8 +737,13 @@
 <!----- ENTERTAINMENT NAV ----->
 
 
-<li id="nav_entertainment"><a href="/news/entertainment/" title="Entertainment">Entertainment</a>
-<ul class="secondary_nav">
+<li id="nav_entertainment"><a href="/news/entertainment/" title="VivaCC">VivaCC</a>
+
+
+<ul class="secondary_nav first">
+
+
+<!---
 <li><a href="/news/entertainment/arts-theater" title="Arts / Theater">Arts / Theater</a></li>
 <li><a href="#">Blogs</a>
 <ul class="tertiary_nav">
@@ -713,33 +751,56 @@
 <li><a href="http://blogs.caller.com/amped_up/" title="Amped Up!"> Amped Up!</a></li>
 </ul>
 </li>
+--->
+
+
+
 <li><a href="/news/entertainment/events/">Events</a>
+
 <ul class="tertiary_nav">
 <li><a href="/events/" title="Event Calendar">Event Calendar</a></li>
 <li><a href="/events/submit/" title="Submit Event">Submit Event</a></li>
 </ul>
 </li>
+
+
 <li><a href="" title="Movies">TV · Movies · Music</a>
+
 <ul class="tertiary_nav">
 <li><a href="/news/entertainment/tv/" title="Television">TV Listings</a></li>
 <li><a href="/movies/" title="Movies">Movies</a></li>
 <li><a href="/news/entertainment/music/" title="Music">Music</a></li>
 </ul>
+
 </li>
+
 <li><a href="/news/entertainment/people/" title="People">Celebrities</a>
+
 <ul class="tertiary_nav">
 <li><a href="/entertainment/celebrity/" title="Celebrity Photo Gallery">Celebrity Photo Gallery</a></li>
 <li><a href="/news/entertainment/selena/" title="Selena">Selena</a></li>
-</ul></li>
+</ul>
+
+</li>
+
 <li><a href="/news/entertainment/comics/" title="Comics">Comics</a></li>
 <li><a href="/entertainment/horoscopes/" title="Horoscopes">Horoscopes</a></li>
 <li><a href="/news/entertainment/lottery/" title="Texas Lottery Numbers">Texas Lottery</a></li>
+
+<!---
 <li><a href="/entertainment/games/" title="People">Games</a>
+
 <ul class="tertiary_nav">
 <li><a href="/entertainment/numbrix/" title="Numbrix">Numbrix</a></li>
 <li><a href="/entertainment/games/" title="Games">Games</a></li>
-</ul></li>
-<li style="padding-left:50px; margin-right:-18px;"><a href="/eat/" title="New! Eating in the Coastal Bend" style="color:#a0ea43; font-style:italic; font-weight:bold; font-size:17px; margin-top:0px!important;">New!</a></li>
+</ul>
+</li>
+
+
+<li style="padding-left:50px; margin-right:-18px;"><a href="/eat/" title="Eating in the Coastal Bend" style="color:#a0ea43; font-style:italic; font-weight:bold; font-size:17px; margin-top:0px!important;">New!</a></li>
+--->
+
+
 <li><a href="/eat/" title="New! Eating in the Coastal Bend"><img src="http://links.caller.com/entertainment/eat/images/nav_logo.png" height="16" border="0" style="padding-top:7px;"></a>
 <ul class="tertiary_nav">
 <li><a href="/restaurants/featured/" title="Features Restaurants">Featured Restaurants</a></li>
@@ -747,6 +808,8 @@
 <li><a href="/restaurants/" title="Restaurant Guide">Restaurant Guide</a></li>
 </ul>
 </li>
+
+
 
 </ul>
 </li>
@@ -854,6 +917,10 @@
                             
                         
                             
+            
+                            
+                        
+                            
                                 
                                     
 
@@ -866,24 +933,18 @@
 
 
 
-<li class="alert_bark alert_bark_breaking alert_bark_a_hrefsubscribe_stylecolorfffare_you_a_current_subscribera">
-	<h2 class="alert_bark_title"><a href="/subscribe/" style="color:#fff;">ARE YOU A CURRENT SUBSCRIBER?</a></h2>
-	<p class="alert_bark_content">
-<a href="http://www.caller.com/subscribe/">Activate today for your chance to win $10,000!</a>
-&nbsp;
-• &nbsp;
-<a href="http://www.caller.com/subscribe/faq/">FAQ</a>
+<li class="alert_bark alert_bark_important alert_bark_img_srchttpwebcallercomellingtonpromosnavfeatured_bucket_christmas_appealpng">
+	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/featured_bucket_christmas_appeal.png"></h2>
+	<p class="alert_bark_content"> 
 
-&nbsp;
-• &nbsp;
-<a href="http://www.caller.com/subscribe/learn-more/">Need help? Call 1-800-566-8098</a></p>
-</li><!-- end .alert_bark alert_bark_breaking -->
+<a href="http://www.caller.com/news/news/christmas-appeal/">Read stories of local needy children during this holiday season.</a>
+
+&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.uwcb.org/donate.cfm">Donate</a></p>
+</li><!-- end .alert_bark alert_bark_important -->
                                 
 
-                            
-            
-                            
-                        
                             
                         
                             
@@ -955,122 +1016,48 @@
 	<div id="flatpage_content">
 		
 			<div class="titlebar">
-     <h3>PRIVACY POLICY (Effective March 22, 2013)</h3>
+     <p></p><h3>PRIVACY POLICY (Effective July 30, 2013)</h3><p></p>
 </div>
-
 <div class="bucket_primary bucket_padded clear">
-<p><em class="notation">
-If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at support@caller.com or call 361-886-4392. </em></p>
-
-<h3>PRIVACY POLICY</h3>
-(Effective March 22, 2013)
-<p>
-Welcome to Caller.com.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with Texas Privacy Rights (see also http://www.privacyprotection.ca.gov).</p>
-<p>
-We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
+<p>Welcome to Caller.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy. </p>
+<p>We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources. </p>
+<p>We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy.  WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.  If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us. You will have a choice (by means of an “opt out” opportunity) as to whether we use the information in this different manner. We will use information in accordance with the Privacy Policy under which your information was collected if you opt out of the new policy. </p>
+<p></p><h3>A.	INFORMATION WE COLLECT </h3><p></p>
+<p>Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us. </p>
+<p>(1)  Personally Identifiable Information:  Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, postal address, phone number, etc.  As a general policy, we do not automatically collect your personally identifiable information when you visit our Website.  In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website.  For instance, you may: (a) provide your name, postal/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website.  Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name).  Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website. </p>
+<p>(2)  Non-Personally Identifiable Information:  Our definition of non-personally identifiable information is any information that does not personally identify you (“Non-PII”).  Non-PII can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain Non-PII about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain Non-PII from you when you access our Website.  This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits. </p>
+<p></p><h3>B.	HOW WE USE &amp; SHARE THE INFORMATION COLLECTED </h3><p></p>
+<p>(1)  Personally Identifiable Information: The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“"affiliated companies”"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below. </p>
+<p>In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests.  In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use).  Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval. </p>
+<p>(2)  Non-PII: We use Non-PII in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your Non-PII by itself or aggregate it with information we have obtained from others. We may share your Non-PII with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you. </p>
+<p></p><h3>C.	COOKIES AND PREFERENCE BASED ADVERTISING</h3><p></p>
+<p>(1) Cookies and Web Beacons: We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use "cookies" and "web beacons" (also called “clear gifs” or “pixel tags”) to obtain certain types of information when your web browser accesses our Website.  "Cookies" are small files that we transfer to your computer's hard drive or your web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. "Web beacons" are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information. </p>
+<p>Examples of the information we collect and analyze in this manner include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your activities our Website, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our Website or not); and cookie number. It is important to note that the cookies and Web beacons that we use do not contain and are not tied to personally identifiable information about you. </p>
+<p>If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your web browser or hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies. </p>
+<p>(2)  Preference Based Advertising: We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect non-personally identifiable information when you visit our Website and third party sites. This non-personally identifiable information, collected through cookies and web beacons, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs.  For comprehensive information on online advertising, please CLICK HERE.  If you do not wish to participate in this activity, please CLICK HERE and follow the simple opt-out process.</p>
+<p>A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”).  Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.</p>
+<p></p><h3>D.	OTHER USES &amp; INFORMATION </h3><p></p>
+<p>(1)  IP Addresses: An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website.  IP addresses are considered Non-PII and may also be shared as provided above.  It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public. </p>
+<p>(2) Email Communications:  If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.  For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email.  However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications. </p>
+<p>(3) Transfer of Assets:  As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and Non-PII we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. </p>
+<p>(4) Other: Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or Non-PII about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public. </p>
+<p>(5) Your California Privacy Rights:  Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing as provided in Section I.</p>
+<p></p><h3>E.	PUBLIC FORUMS </h3><p></p>
+<p>We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and Non-PII about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website. </p>
+<p></p><h3>F.	CHILDREN </h3><p></p>
+<p>The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at as provided in Section I. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof. </p>
+<p></p><h3>G.	KEEPING YOUR INFORMATION SECURE </h3><p></p>
+<p>We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.  Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems. </p>
+<p></p><h3>H.	OTHER SITES/LINKS </h3><p></p>
+<p>Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information. </p>
+<p></p><h3>I.	CONTACT &amp; OPT-OUT INFORMATION </h3><p></p>
+<p>You may contact us as at 361-886-4392 if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. <br>
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. </p>
+<p></p><h3>J.	SOLE STATEMENT </h3><p></p>
+<p>This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.<br>
 </p>
-<p>
-This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website.  Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
-</p>
-<p>
-We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy.  WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.  If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us. You will have a choice (by means of an “opt out” opportunity) as to whether we use the information in this different manner. We will use information in accordance with the Privacy Policy under which your information was collected if you opt out of the new policy.</p> 
-<p>
-</p><h3>A.	INFORMATION WE COLLECT </h3>
-<p></p>
-<p>
-Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us.</p>
-<p>
-(1)  Personally Identifiable Information:  Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, postal address, phone number, etc.  As a general policy, we do not automatically collect your personally identifiable information when you visit our Website.  In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website.  For instance, you may: (a) provide your name, postal/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website.  Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name).  Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
-<p>
-(2)  Non-Personal Information:  Our definition of non-personal information is any information that does not personally identify you.  Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain non-personal information from you when you access our Website.  This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.</p>
-<p>
-</p><h3>B.	HOW WE USE &amp; SHARE THE INFORMATION COLLECTED </h3>
-<p></p>
-<p>
-(1)  Personally Identifiable Information: The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“"affiliated companies”"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.  
-</p>
-<p>
-In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests.  In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use).  Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.  
-</p>
-<p>
-(2)  Non-Personal Information: We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you. 
-</p>
-<p>
-</p><h3>C.	OTHER USES &amp; INFORMATION </h3>
-<p></p>
-<p>
-(1)  IP Addresses: An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website.  IP addresses are considered non-personal information and may also be shared as provided above.  It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public. 
-</p>
-<p>
-(2) Cookies, etc.: "Cookies" are small text files from a website that are stored on your hard drive. These text files make using our Website more convenient by, among other things, saving your passwords and preferences for you. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. Please note that advertisers that serve advertisements on our Website and third-party content providers that serve content on our Website may also use their own cookies and other technological tools which are subject to the advertiser's privacy policies, not this Privacy Policy. 
-</p>
-<p>
-If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies. 
-</p>
-<p>
-(3) Email Communications:  If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.  For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email.  However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications. 
-</p>
-<p>
-(4) Transfer of Assets:  As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. 
-</p>
-<p>
-(5) Other: Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public. 
-</p>
-<p>
-(6) Your Texas Privacy Rights:  Residents of the State of Texas, under certain provisions of the Texas Civil Code, have the right to request from companies conducting business in Texas a list of all third parties to which the company has disclosed certain personally identifiable information as defined under Texas law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a Texas resident and provide a current Texas address for our response. You may request the information in writing at: support@caller.com.
-</p>
-<p>						
-</p><h3>D.	PUBLIC FORUMS </h3>
-<p></p>
-<p>
-We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website. 
-</p>
-<p>
-</p><h3>E.	CHILDREN </h3>
-<p></p>
-<p>
-The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at support@caller.com or call 361-886-4392. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof. 
-</p>
-<p>
-</p><h3>F.	KEEPING YOUR INFORMATION SECURE </h3>
-<p></p>
-<p>
-We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.  Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems. 
-</p>
-<p>
-</p><h3>G.	OTHER SITES/LINKS </h3>
-<p></p>
-<p>
-Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information. 
-</p>
-<p>
-</p><h3>H.	CONTACT &amp; OPT-OUT INFORMATION </h3>
-<p></p>
-<p>
-You may contact us as at support@caller.com or call 361-886-4392 if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. 
-We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
-</p>
-<a name="about_our_ads"></a>
-<p><strong>I. Google DFP Location Privacy</strong></p>
-
-<p>If, in connection with the DFP Service, Company collects, processes or discloses information that identifies a Visitor’s precise geographic location, such as GPS, wifi or cell tower data, </p>
-<p>(i) Company must obtain express consent from Visitors, </p>
-<p>(ii) Company’s privacy policy must disclose such information collection, processing or disclosure, and advise in writing each of its Clients that they are required to make the same disclosures in their privacy policies, and </p>
-<p>(iii) Company will only send such information to DoubleClick using the HTTPS communications protocol</p>
-
-
-<h3>J. AP NEWS REGISTRY</h3>
- 
-<p>We use services provided by NewsRight for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights.  NewsRight collects non-personally identifiable content usage information and may use cookies in conjunction with this activity.  Please refer to the NewsRight privacy policy at <a href="http://www.newsregistry.com/privacycenter/servicepolicy.aspx" target="_blank">http://www.newsregistry.com/privacycenter/servicepolicy.aspx</a> for further information, including how to opt-out of certain NewsRight collection activities.  Your continued readership of the site means you accept the privacy policy of NewsRight.  </p>
-
-<p>
-</p><h3>K.	SOLE STATEMENT </h3>
-<p></p>
-<p>
-This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website</p>
 
 </div>
-
 		
 		
 		
@@ -1093,8 +1080,8 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<div class="bigbox">
 		<div class="adtag" id="BIGBOX_1"><script language="JavaScript">
         // slotname: BIGBOX_1
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=2;sz=300x250;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=2;sz=300x250;pos=above;ord=963224240049858700" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=2;sz=300x250;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=2;sz=300x250;pos=above;sub=false;ord=951393982133266800" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 						
@@ -1146,28 +1133,28 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2013/jun/03/corpus-christi-pairs-indictment-details-more-100/?partner=popular" title="A recently released indictment of a Corpus Christi couple who was arrested last week details more than 100 financial transactions just shy of $10,000 each.  " rel="nofollow">Corpus Christi pair's indictment details more than 100 unreported transactions nearly $10,000 each</a>
-					<span class="date">Updated 6/3/2013 at 4:19 p.m.</span> <a href="/news/2013/jun/03/corpus-christi-pairs-indictment-details-more-100/?partner=popular#comments" class="comment_count" rel="nofollow">8 comments</a>
+					<a href="/news/2013/dec/11/corpus-christi-police-2-women-with-teens-and-in/?partner=popular" title="Corpus Christi police arrested two women and detained a teen after investigating a shoplifting complaint early Wednesday. " rel="nofollow">Corpus Christi police: 2 women with teens and toddler arrested in shoplifting case after midnight</a>
+					<span class="date">Updated 12/11/2013 at 2:24 p.m.</span> <a href="/news/2013/dec/11/corpus-christi-police-2-women-with-teens-and-in/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/corpus-christi-jury-awards-security-officer-25/?partner=popular" title="A Corpus Christi jury has awarded a Corpus Christi man $25 million after he was assaulted in 2008 at an uptown building. " rel="nofollow">Corpus Christi jury awards security officer $25 million in injury lawsuit</a>
-					<span class="date">Updated 6/3/2013 at 6:13 p.m.</span> <a href="/news/2013/jun/03/corpus-christi-jury-awards-security-officer-25/?partner=popular#comments" class="comment_count" rel="nofollow">8 comments</a>
+					<a href="/news/2013/dec/11/german-couple-planning-open-2nd-bakery-corpus-chri/?partner=popular" title="Brigitte and Jüergen Kazenmayer, owners of JB's German Bakery &amp; Cafe, plan to launch a second business, JB's Strudel Mania, before Christmas at 6062 Holly Road" rel="nofollow">German couple planning to open 2nd bakery in Corpus Christi, seek to maintain visa</a>
+					<span class="date">Updated 12/11/2013 at 12:26 p.m.</span> <a href="/news/2013/dec/11/german-couple-planning-open-2nd-bakery-corpus-chri/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/la-feria-man-killed-saturday-in-parking-lot/?partner=popular" title="Witnesses told police Aaron Juarez was getting out of his car in the 6200 block of Saratoga Boulevard at about 2:30 a.m. and hit a nearby vehicle with his door. The man inside that car got out and confronted and assaulted Juarez, police said.  " rel="nofollow">La Feria man killed in parking lot confrontation identified (Video)</a>
-					<span class="date">Updated 6/3/2013 at 7:39 p.m.</span> <a href="/news/2013/jun/03/la-feria-man-killed-saturday-in-parking-lot/?partner=popular#comments" class="comment_count" rel="nofollow">5 comments</a>
+					<a href="/news/2013/dec/11/corpus-christi-pain-doctor-sanctioned-after/?partner=popular" title="Two years after the state medical board issued a complaint accusing a local pain doctor of improperly prescribing pain pills to 16 patients, including one who died, Dr. Ryan Potter has been cleared of the most serious claims — that he harmed patients.   " rel="nofollow">Corpus Christi pain doctor sanctioned after investigation</a>
+					<span class="date">Published 12/11/2013 at 11:25 p.m.</span> <a href="/news/2013/dec/11/corpus-christi-pain-doctor-sanctioned-after/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/04/3-nueces-county-residents-treated-for-coastal/?partner=popular" title="All were treated and released" rel="nofollow">3 Nueces County residents treated for vibrio bacteria</a>
-					<span class="date">Updated 6/4/2013 at 8:50 p.m.</span> <a href="/news/2013/jun/04/3-nueces-county-residents-treated-for-coastal/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2013/dec/11/harbor-island-lawsuit-dropped/?partner=popular" title="The dispute is being closely watched in Port Aransas, where a company's plans to develop a natural gas liquids processing plant on Harbor Island has angered residents.  " rel="nofollow">Harbor Island lawsuit dropped</a>
+					<span class="date">Updated 12/11/2013 at 2:42 p.m.</span> <a href="/news/2013/dec/11/harbor-island-lawsuit-dropped/?partner=popular#comments" class="comment_count" rel="nofollow">6 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/04/corpus-christi-police-looking-for-woman-who-a-in/?partner=popular" title="A man was stabbed in the neck by a woman he had given money to Tuesday morning, according to Corpus Christi police report.  " rel="nofollow">Corpus Christi police looking for woman who stabbed a man in parking lot</a>
-					<span class="date">Updated 6/4/2013 at 9:08 a.m.</span> <a href="/news/2013/jun/04/corpus-christi-police-looking-for-woman-who-a-in/?partner=popular#comments" class="comment_count" rel="nofollow">2 comments</a>
+					<a href="/news/2013/dec/11/corpus-christi-man-asks-judge-to-exclude-in-case/?partner=popular" title="A Corpus Christi man accused of fatally punching a man in a Whataburger parking lot in June, asked a Nueces County judge to exclude evidence in an unrelated driving while intoxicated case.   " rel="nofollow">Corpus Christi man asks judge to exclude evidence in third driving while intoxicated case</a>
+					<span class="date">Updated 12/11/2013 at 11:28 p.m.</span> <a href="/news/2013/dec/11/corpus-christi-man-asks-judge-to-exclude-in-case/?partner=popular#comments" class="comment_count" rel="nofollow">5 comments</a>
 				</li>
 			
 		</ul>
@@ -1179,15 +1166,15 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 			
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2013/jun/02/closet-snoop-betsy-herring/?partner=popular" title="Closet Snoop: Betsy Herring" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2013/06/02/520130528150832003_t90_70.JPG" width="90" alt="Closet Snoop: Betsy Herring"> Closet Snoop: Betsy Herring</a>
+					<a href="/photos/galleries/2013/dec/11/a-sample-of-this-season-big-bucks/?partner=popular" title="A sample of this season's big bucks" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2013/12/11/720131211164255002_t90_70.JPG" width="90" alt="A sample of this season's big bucks"> A sample of this season's big bucks</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2013/jun/01/photo-gallery-on-june-01-2013-at-223534/?partner=popular" title="Moody 9-5, Alamo Heights 2-2" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2013/06/01/420130601232347001_t90_70.JPG" width="90" alt="Moody 9-5, Alamo Heights 2-2"> Moody 9-5, Alamo Heights 2-2</a>
+					<a href="/photos/galleries/2013/dec/09/katy-costello/?partner=popular" title="Katy Costello" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2013/12/08/764176_t90_70.JPG" width="90" alt="Katy Costello"> Katy Costello</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2013/may/18/beach-to-bay-relay-marathon-leg-3/?partner=popular" title="2013 Beach to Bay Relay Marathon Leg 3" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2013/05/18/0519_CCLO_B2B_webLeg3-0534_t90_70.JPG" width="90" alt="2013 Beach to Bay Relay Marathon Leg 3"> 2013 Beach to Bay Relay Marathon Leg 3</a>
+					<a href="/photos/galleries/2013/dec/11/shop-cop/?partner=popular" title="Shop with a Cop" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2013/12/11/173658_t90_70.JPG" width="90" alt="Shop with a Cop"> Shop with a Cop</a>
 				</div> <!-- end .bucket_media_item -->
 			
 
@@ -1201,28 +1188,28 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2013/jun/04/letter-to-the-editor-the-problem-with-todays/?partner=popular" title="Jim Van Gilder, Rockport " rel="nofollow">Letter to the Editor: The problem with today's politics</a>
-					<span class="date">Published 6/4/2013 at 3:00 a.m.</span> <a href="/news/2013/jun/04/letter-to-the-editor-the-problem-with-todays/?partner=popular#comments" class="comment_count" rel="nofollow">31 comments</a>
+					<a href="/news/2013/dec/10/flour-bluff-area-resident-to-challenge-for-27/?partner=popular" title="Reed decided to run after learning Solomon Ortiz Jr. opted not to file. " rel="nofollow">Flour Bluff area resident to challenge Farenthold for District 27 seat</a>
+					<span class="date">Published 12/10/2013 at 8:00 a.m.</span> <a href="/news/2013/dec/10/flour-bluff-area-resident-to-challenge-for-27/?partner=popular#comments" class="comment_count" rel="nofollow">87 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/01/80-law-officials-shut-down-eight-san-patricio-10/?partner=popular" title="A four-month-long investigation into San Patricio County game rooms that are accused of handing out cash, resulted in eight being shut down and 10 people arrested Friday night.  " rel="nofollow">80 law officials shut down eight San Patricio County games rooms Friday night, arrest 10 people</a>
-					<span class="date">Published 6/1/2013 at 7:51 p.m.</span> <a href="/news/2013/jun/01/80-law-officials-shut-down-eight-san-patricio-10/?partner=popular#comments" class="comment_count" rel="nofollow">13 comments</a>
+					<a href="/news/2013/dec/12/letter-to-the-editor-pay-equal-to-skill-involved/?partner=popular" title="Marsha Lawrence, Rockport  " rel="nofollow">Letter to the Editor: Pay equal to skill involved</a>
+					<span class="date">Published 12/12/2013 at 3:00 a.m.</span> <a href="/news/2013/dec/12/letter-to-the-editor-pay-equal-to-skill-involved/?partner=popular#comments" class="comment_count" rel="nofollow">30 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/04/letter-to-the-editor-exxon-ceos-comment-on/?partner=popular" title="J. Allen Lowe  " rel="nofollow">Letter to the Editor: Exxon CEO's comment on emissions</a>
-					<span class="date">Published 6/4/2013 at 3:00 a.m.</span> <a href="/news/2013/jun/04/letter-to-the-editor-exxon-ceos-comment-on/?partner=popular#comments" class="comment_count" rel="nofollow">13 comments</a>
+					<a href="/news/2013/dec/09/forum-play-the-snap-hunger-game/?partner=popular" title="We learned it is extremely difficult to live like this, and we went to bed hungry every night. Most of us spent our $31.50 for the week on lentils, beans, bread, peanut butter, crackers, tuna fish, cheese, and some salad items, but little meat.  " rel="nofollow">Forum: Play the SNAP hunger game</a>
+					<span class="date">Published 12/9/2013 at 3:00 a.m.</span> <a href="/news/2013/dec/09/forum-play-the-snap-hunger-game/?partner=popular#comments" class="comment_count" rel="nofollow">38 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/01/texas-students-deserve-more-than-legislature/?partner=popular" title="We fought for additional funding and for that funding to be distributed in a more equitable manner. But two steps closer is not a job well done.  " rel="nofollow">Texas students deserve more than Legislature gave</a>
-					<span class="date">Published 6/1/2013 at 3:00 a.m.</span> <a href="/news/2013/jun/01/texas-students-deserve-more-than-legislature/?partner=popular#comments" class="comment_count" rel="nofollow">29 comments</a>
+					<a href="/news/2013/dec/09/jury-awards-281-million-eagle-ford-shale-oilfield/?partner=popular" title="The Dimmit County lawsuit stemmed from the May, 29, 2012, death of Carlos Aguilar" rel="nofollow">Jury awards $281 million in Eagle Ford Shale oilfield lawsuit</a>
+					<span class="date">Published 12/9/2013 at 7:15 a.m.</span> <a href="/news/2013/dec/09/jury-awards-281-million-eagle-ford-shale-oilfield/?partner=popular#comments" class="comment_count" rel="nofollow">12 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/corpus-christi-pairs-indictment-details-more-100/?partner=popular" title="A recently released indictment of a Corpus Christi couple who was arrested last week details more than 100 financial transactions just shy of $10,000 each.  " rel="nofollow">Corpus Christi pair's indictment details more than 100 unreported transactions nearly $10,000 each</a>
-					<span class="date">Published 6/3/2013 at 3:12 p.m.</span> <a href="/news/2013/jun/03/corpus-christi-pairs-indictment-details-more-100/?partner=popular#comments" class="comment_count" rel="nofollow">8 comments</a>
+					<a href="/news/2013/dec/10/city-council-appoints-2-port-commissioners/?partner=popular" title="Local businessmen David P. Engel and Richard “Rick” Valls Jr. are expected to join the Corpus Christi Port Commission in the new year following appointments made Tuesday by the City Council. " rel="nofollow">City Council appoints 2 port commissioners</a>
+					<span class="date">Published 12/10/2013 at 1:00 p.m.</span> <a href="/news/2013/dec/10/city-council-appoints-2-port-commissioners/?partner=popular#comments" class="comment_count" rel="nofollow">11 comments</a>
 				</li>
 			
 		</ul>
@@ -1234,28 +1221,29 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2013/may/28/about-65000-jobs-headed-to-south-texas-are-you/?partner=popular" title="Area leaders are having a town hall meeting Wednesday in Aransas County to share job openings along with training and education programs aimed at preparing South Texas for the 65,000 jobs expected in the next five years. " rel="nofollow">About 65,000 jobs headed to South Texas. Are you ready?</a>
-					<span class="date">Published 5/28/2013 at 3:00 a.m.</span> <a href="/news/2013/may/28/about-65000-jobs-headed-to-south-texas-are-you/?partner=popular#comments" class="comment_count" rel="nofollow">9 comments</a>
+					<a href="/news/2013/dec/03/exclusive-william-bonilla-sr-surrenders-law-son/?partner=popular" title="William Bonilla Sr., the patriarch of a prominent Corpus Christi law family, has surrendered his law license as he and his son face a new round of misconduct allegations. " rel="nofollow">William Bonilla Sr. surrenders law license, disbarred son again under scrutiny</a>
+					<span class="date">Published 12/3/2013 at 2:27 p.m.</span> <a href="/news/2013/dec/03/exclusive-william-bonilla-sr-surrenders-law-son/?partner=popular#comments" class="comment_count" rel="nofollow">11 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/corpus-christi-pairs-indictment-details-more-100/?partner=popular" title="A recently released indictment of a Corpus Christi couple who was arrested last week details more than 100 financial transactions just shy of $10,000 each.  " rel="nofollow">Corpus Christi pair's indictment details more than 100 unreported transactions nearly $10,000 each</a>
-					<span class="date">Published 6/3/2013 at 3:12 p.m.</span> <a href="/news/2013/jun/03/corpus-christi-pairs-indictment-details-more-100/?partner=popular#comments" class="comment_count" rel="nofollow">8 comments</a>
+					<a href="/news/2013/dec/05/texas-m-university-corpus-christi-students-spanish/?partner=popular" title="What started as a fun way to tackle a class assignment has grown into a viral video sensation for two Texas A&amp;M University...
+" rel="nofollow">Texas A&amp;M University-Corpus Christi students' Spanish class video goes viral</a>
+					<span class="date">Published 12/5/2013 at 8:54 a.m.</span> <a href="/news/2013/dec/05/texas-m-university-corpus-christi-students-spanish/?partner=popular#comments" class="comment_count" rel="nofollow">2 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/oral-sex-causing-throat-cancer/?partner=popular" title="Health officials say sexually spread virus, HPV, known for causing cervical cancer could be to blame for 60-80 percent of upper throat cancers" rel="nofollow">Oral sex causing throat cancer?</a>
-					<span class="date">Published 6/3/2013 at 1:54 p.m.</span> <a href="/news/2013/jun/03/oral-sex-causing-throat-cancer/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2013/dec/02/corpus-christi-police-investigate-shooting-near-co/?partner=popular" title="Senior Officer Kirk Stowers said police were called at 10:33 a.m. to the 5300 block of Greenbriar Drive, where gunshots were fired." rel="nofollow">Man shot on Greenbriar Drive dies (Video)</a>
+					<span class="date">Published 12/2/2013 at 10:48 a.m.</span> <a href="/news/2013/dec/02/corpus-christi-police-investigate-shooting-near-co/?partner=popular#comments" class="comment_count" rel="nofollow">16 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/corpus-christi-jury-awards-security-officer-25/?partner=popular" title="A Corpus Christi jury has awarded a Corpus Christi man $25 million after he was assaulted in 2008 at an uptown building. " rel="nofollow">Corpus Christi jury awards security officer $25 million in injury lawsuit</a>
-					<span class="date">Published 6/3/2013 at 5:13 p.m.</span> <a href="/news/2013/jun/03/corpus-christi-jury-awards-security-officer-25/?partner=popular#comments" class="comment_count" rel="nofollow">8 comments</a>
+					<a href="/news/2013/dec/09/jury-awards-281-million-eagle-ford-shale-oilfield/?partner=popular" title="The Dimmit County lawsuit stemmed from the May, 29, 2012, death of Carlos Aguilar" rel="nofollow">Jury awards $281 million in Eagle Ford Shale oilfield lawsuit</a>
+					<span class="date">Published 12/9/2013 at 7:15 a.m.</span> <a href="/news/2013/dec/09/jury-awards-281-million-eagle-ford-shale-oilfield/?partner=popular#comments" class="comment_count" rel="nofollow">12 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/may/28/corpus-christi-mayor-asks-plastic-bag-item-to-be/?partner=popular" title="Pointing to a pending lawsuit against Austin's plastic bag ban, Corpus Christi city leaders postponed a decision Tuesday aimed at curbing plastic litter and requiring local retail stores to either charge for bags or sign up for a city program.  " rel="nofollow">Corpus Christi City Council delays vote on plastic bag fee</a>
-					<span class="date">Published 5/28/2013 at 7:19 p.m.</span> <a href="/news/2013/may/28/corpus-christi-mayor-asks-plastic-bag-item-to-be/?partner=popular#comments" class="comment_count" rel="nofollow">9 comments</a>
+					<a href="/news/2013/dec/12/corpus-christi-among-top-25-best-performing-in/?partner=popular" title="Corpus Christi's rank increased to No. 17 on the Top 25 Best Performing Cities list. " rel="nofollow">Corpus Christi among top 25 Best Performing Cities in U.S.</a>
+					<span class="date">Published 12/12/2013 at 7:00 a.m.</span> <a href="/news/2013/dec/12/corpus-christi-among-top-25-best-performing-in/?partner=popular#comments" class="comment_count" rel="nofollow">2 comments</a>
 				</li>
 			
 		</ul>
@@ -1296,20 +1284,20 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<div class="sidebar_current_weather clear">
 	
 			<div id="sidebar_current_icon">
-				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/34_170.png" width="120px" alt="A Few Clouds">
+				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/6_170.png" width="120px" alt="Mostly Cloudy">
 			</div> <!-- end #radar -->
 	
 			<div id="sidebar_current_weather">
 				<span class="current_temp_label">Currently</span>
-				<span class="current_temp">79<span class="current_temp_degree">°</span></span>
-				<span class="current_conditions">A Few Clouds</span>
-				<span class="current_wind">Wind: SE 7mph</span>
+				<span class="current_temp">53<span class="current_temp_degree">°</span></span>
+				<span class="current_conditions">Mostly Cloudy</span>
+				<span class="current_wind">Wind: N 9mph</span>
 			</div> <!-- end #current_conditions -->
 	
 			<div id="sidebar_hi_low">
 				<span class="today_temp_label">Today</span>
-				<span class="hi_temp">90<span class="current_temp_degree">°</span></span>
-				<span class="lo_temp">73<span class="current_temp_degree">°</span></span>
+				<span class="hi_temp">56<span class="current_temp_degree">°</span></span>
+				<span class="lo_temp">50<span class="current_temp_degree">°</span></span>
 			</div> <!-- end #hi_low -->
 			
 		</div> <!-- end #weather -->
@@ -1319,48 +1307,48 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<div id="sidebar_weather_3day" class="bucket_secondary preventFOUC">
 		<div id="sidebar_weather_forecast_3day" class="clear">
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">12:00 PM</div>
-				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/2_100.png" alt="Mostly Sunny">
-				<div class="sidebar_forecast_conditions">Mostly Sunny</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">89°</span></div>
+				<div class="sidebar_weather_day">Fri</div><div class="sidebar_weather_day">01:00 AM</div>
+				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">51°</span></div>
 			</div>
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Thu</div><div class="sidebar_weather_day">12:00 AM</div>
-				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/35_100.png" alt="Partly Cloudy">
-				<div class="sidebar_forecast_conditions">Partly Cloudy</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">79°</span></div>
+				<div class="sidebar_weather_day">Fri</div><div class="sidebar_weather_day">01:00 PM</div>
+				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/13_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">66°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Thu</div><div class="sidebar_weather_day">12:00 PM</div>
-				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/3_100.png" alt="Partly Sunny">
-				<div class="sidebar_forecast_conditions">Partly Sunny</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">87°</span></div>
+				<div class="sidebar_weather_day">Sat</div><div class="sidebar_weather_day">01:00 AM</div>
+				<img src="http://media.caller.com/corp_assets/asphalt/img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">58°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="clear"></div>
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 94°</p>
-						<p>Humidity: 53%</p>
-						<p>Precip: 0%</p>
+						<p>Feels Like: 51°</p>
+						<p>Humidity: 83%</p>
+						<p>Precip: 20%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 79°</p>
-						<p>Humidity: 82%</p>
-						<p>Precip: 0%</p>
+						<p>Feels Like: 66°</p>
+						<p>Humidity: 76%</p>
+						<p>Precip: 20%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding last">
-						<p>Feels Like: 97°</p>
-						<p>Humidity: 68%</p>
-						<p>Precip: 5%</p>
+						<p>Feels Like: 58°</p>
+						<p>Humidity: 100%</p>
+						<p>Precip: 20%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1373,6 +1361,22 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 
 			
 			
+<div class="bucket_media_item sidebar_bucket_media_item">
+	<a href="http://clickandshare.caller.com/Media/View/4984176"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/1e50712c-3975-499a-8980-ce38f84944bc.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/4984176" title="The Moon in Rockport last night :)">The Moon in Rockport last night :) </a>
+	<div class="date ugc_sidebar">
+		11/19/13<br>
+		6:41 a.m.<br>
+	</div>
+</div>
+
+<div class="bucket_media_item sidebar_bucket_media_item">
+	<a href="http://clickandshare.caller.com/Media/View/3557298"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/76499d5c-3f1d-4068-b797-0c4a96bee439.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/3557298" title="Storm 30 Miles out, South">Storm 30 Miles out, South </a>
+	<div class="date ugc_sidebar">
+		6/11/13<br>
+		7:27 p.m.<br>
+	</div>
+</div>
+
 <div class="bucket_media_item sidebar_bucket_media_item">
 	<a href="http://clickandshare.caller.com/Media/View/3387334"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/9babd533-38db-445a-9b6a-db2bfe759669.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/3387334" title="29 April 13">29 April 13 </a>
 	<div class="date ugc_sidebar">
@@ -1405,22 +1409,6 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	</div>
 </div>
 
-<div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/Media/View/2947786"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/f71c31e2-dabb-43fd-b18b-b39f690758f8.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2947786" title="Rainbow">Rainbow </a>
-	<div class="date ugc_sidebar">
-		1/2/13<br>
-		11:07 p.m.<br>
-	</div>
-</div>
-
-<div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/Media/View/2944259"><img src="http://a05579b1b3cca7a69ff4-7250fbd4027ea93be8cfd439f360b464.r0.cf1.rackcdn.com/a9307027-d801-4fc9-ae7d-1dfcb46626f2.jpg"></a> <a href="http://clickandshare.caller.com/Media/View/2944259" title="Foggy Christmas Eve @ Sunrise">Foggy Christmas Eve @ Sunrise </a>
-	<div class="date ugc_sidebar">
-		12/31/12<br>
-		11:45 p.m.<br>
-	</div>
-</div>
-
 
 
 
@@ -1432,10 +1420,7 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<div class="sidebar_more_link sidebar_more_link_weather">
 		<div class="sidebar_weather_ad_rule"></div>
 		<div id="sidebar_weather_ad">
-			<div class="adtag" id="WEATHER_SPONSOR"><script language="JavaScript">
-        // slotname: WEATHER_SPONSOR
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=4;sz=120x30;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=4;sz=120x30;pos=below;ord=963224240049858700" type="text/javascript"></script></div>
+			<!-- ad WEATHER_SPONSOR not known in ['SUPERSTITIAL', 'SEARCH_RESULTS_SPONSOR_1', 'BIGBOX_1', 'BIGBOX_2', 'FLAGPROMO_1', 'LEADERBOARD_1', 'PREROLL_TEMPLATE']-->
 		</div>
 		<a href="/weather/" title="More Corpus Christi Weather">More Weather »</a>
 	</div>
@@ -1461,20 +1446,20 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<ul class="cal_tab_header clear">
 		
 			<li class="cal_tab_first ui-tabs-selected">
-				<a href="#Jun4" value="2013-06-04">
-					<span class="cal_tab_day">Tuesday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">4</span>
+				<a href="#Dec12" value="2013-12-12">
+					<span class="cal_tab_day">Thursday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">12</span>
 				</a>
 			</li>
 		
 			<li>
-				<a href="#Jun5" value="2013-06-05">
-					<span class="cal_tab_day">Wednesday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">5</span>
+				<a href="#Dec13" value="2013-12-13">
+					<span class="cal_tab_day">Friday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">13</span>
 				</a>
 			</li>
 		
 			<li>
-				<a href="#Jun6" value="2013-06-06">
-					<span class="cal_tab_day">Thursday</span> <span class="cal_tab_month">Jun</span> <span class="cal_tab_date">6</span>
+				<a href="#Dec14" value="2013-12-14">
+					<span class="cal_tab_day">Saturday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">14</span>
 				</a>
 			</li>
 		
@@ -1487,99 +1472,122 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	</ul>
 	
 	
-		<div id="Jun4" class="bucket_secondary">
+		<div id="Dec12" class="bucket_secondary">
 			
 			<ul class="sidebar_list">
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/12269/" class="browse_list_title" title="" summoned"="" exhibit="" at="" k="" space"="">"Summoned" exhibit at K Space</a> <a href="/places/-/" class="browse_list_venue" title=" ">K Space Contemporary, 415D Starr St., </a></h4>
-						<h5 class="browse_list_time"></h5>
-					</li>			
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/12270/" class="browse_list_title" title="Upward Pathways Support Group for Depression and Bipolar">Upward Pathways Support Group for Depression and Bipolar</a> <a href="/places/-/" class="browse_list_venue" title=" ">First United Methodist Church, 900 S. Shoreline Blvd</a></h4>
-						<h5 class="browse_list_time">6:45 a.m.</h5>
-					</li>			
 				
 					<li class="odd clear">
 						<h4><a href="/events/goto/9419/" class="browse_list_title" title="Corpus Christi Parks &amp; Recreation Department Classes">Corpus Christi Parks &amp; Recreation Department Classes</a> <a href="/places/-/" class="browse_list_venue" title=" ">different times/locations</a></h4>
 						<h5 class="browse_list_time"></h5>
 					</li>			
 				
+					<li class="even clear">
+						<h4><a href="/events/goto/13453/" class="browse_list_title" title="Alzheimer Support Groups">Alzheimer Support Groups</a> <a href="/places/-/" class="browse_list_venue" title=" ">different locations</a></h4>
+						<h5 class="browse_list_time"></h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/13468/" class="browse_list_title" title="Exhibit - tells tells tells tells">Exhibit - tells tells tells tells</a> <a href="/places/heritage-park/" class="browse_list_venue" title="Heritage Park">Heritage Park</a></h4>
+						<h5 class="browse_list_time"></h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/13526/" class="browse_list_title" title="Norman C. Delaney will present a talk on his latest book">Norman C. Delaney will present a talk on his latest book</a> <a href="/places/-/" class="browse_list_venue" title=" "> Corpus Christi Museum of Science &amp; History</a></h4>
+						<h5 class="browse_list_time"></h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/13486/" class="browse_list_title" title="Blood Drives for December 12">Blood Drives for December 12</a> <a href="/places/-/" class="browse_list_venue" title=" "> </a></h4>
+						<h5 class="browse_list_time">9 a.m.</h5>
+					</li>			
+				
 			
 			</ul>
 			
-			<div class="sidebar_more_link sidebar_more_link_events">
-				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
+			<div class="sidebar_more_link sidebar_more_link_events" style="margin-bottom:-15px;">
+            <div style="width:150px; height:30px; float:left;">
+				<a href="/events/submit/" title="Submit Your Events">« Submit Your Events</a></div><div style="width:150px; height:30px; float:right;"><a href="/events/" title="More Corpus Christi Events">More Events »</a></div>
 			</div>
 			
-		</div> <!-- end #Jun4 -->
+		</div> <!-- end #Dec12 -->
 	
-		<div id="Jun5" class="bucket_secondary preventFOUC">
+		<div id="Dec13" class="bucket_secondary preventFOUC">
 			
 			<ul class="sidebar_list">
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/12284/" class="browse_list_title" title="Solo exhibit of landscape">Solo exhibit of landscape</a> <a href="/places/-/" class="browse_list_venue" title=" ">Beeville Art Museum </a></h4>
-						<h5 class="browse_list_time"></h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/12269/" class="browse_list_title" title="" summoned"="" exhibit="" at="" k="" space"="">"Summoned" exhibit at K Space</a> <a href="/places/-/" class="browse_list_venue" title=" ">K Space Contemporary, 415D Starr St., </a></h4>
-						<h5 class="browse_list_time"></h5>
-					</li>			
 				
 					<li class="even clear">
 						<h4><a href="/events/goto/9419/" class="browse_list_title" title="Corpus Christi Parks &amp; Recreation Department Classes">Corpus Christi Parks &amp; Recreation Department Classes</a> <a href="/places/-/" class="browse_list_venue" title=" ">different times/locations</a></h4>
 						<h5 class="browse_list_time"></h5>
 					</li>			
 				
+					<li class="odd clear">
+						<h4><a href="/events/goto/13249/" class="browse_list_title" title="A Christmas Carol">A Christmas Carol</a> <a href="/places/-/" class="browse_list_venue" title=" "> </a></h4>
+						<h5 class="browse_list_time"></h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/13468/" class="browse_list_title" title="Exhibit - tells tells tells tells">Exhibit - tells tells tells tells</a> <a href="/places/heritage-park/" class="browse_list_venue" title="Heritage Park">Heritage Park</a></h4>
+						<h5 class="browse_list_time"></h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/13532/" class="browse_list_title" title="Clear Channel Stations host Toys for Tots toy drive">Clear Channel Stations host Toys for Tots toy drive</a> <a href="/places/-/" class="browse_list_venue" title=" ">H-E-B Plus! on Saratoga</a></h4>
+						<h5 class="browse_list_time">6 a.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/13487/" class="browse_list_title" title="Blood Drives for December 13">Blood Drives for December 13</a> <a href="/places/-/" class="browse_list_venue" title=" "> </a></h4>
+						<h5 class="browse_list_time">9 a.m.</h5>
+					</li>			
+				
 			
 			</ul>
 			
-			<div class="sidebar_more_link sidebar_more_link_events">
-				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
+			<div class="sidebar_more_link sidebar_more_link_events" style="margin-bottom:-15px;">
+            <div style="width:150px; height:30px; float:left;">
+				<a href="/events/submit/" title="Submit Your Events">« Submit Your Events</a></div><div style="width:150px; height:30px; float:right;"><a href="/events/" title="More Corpus Christi Events">More Events »</a></div>
 			</div>
 			
-		</div> <!-- end #Jun5 -->
+		</div> <!-- end #Dec13 -->
 	
-		<div id="Jun6" class="bucket_secondary preventFOUC">
+		<div id="Dec14" class="bucket_secondary preventFOUC">
 			
 			<ul class="sidebar_list">
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/12327/" class="browse_list_title" title="Bay Jammin’ Entertainment Series">Bay Jammin’ Entertainment Series</a> <a href="/places/-/" class="browse_list_venue" title=" ">bayfront</a></h4>
+						<h4><a href="/events/goto/13406/" class="browse_list_title" title="Early Scholar Academy Family Days">Early Scholar Academy Family Days</a> <a href="/places/-/" class="browse_list_venue" title=" ">1356 Farm-to-Market 43</a></h4>
 						<h5 class="browse_list_time"></h5>
 					</li>			
 				
 					<li class="even clear">
-						<h4><a href="/events/goto/12284/" class="browse_list_title" title="Solo exhibit of landscape">Solo exhibit of landscape</a> <a href="/places/-/" class="browse_list_venue" title=" ">Beeville Art Museum </a></h4>
+						<h4><a href="/events/goto/13470/" class="browse_list_title" title="Corpus Christi Symphony third concert">Corpus Christi Symphony third concert</a> <a href="/places/-/" class="browse_list_venue" title=" ">Performing Arts Center</a></h4>
 						<h5 class="browse_list_time"></h5>
 					</li>			
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/12269/" class="browse_list_title" title="" summoned"="" exhibit="" at="" k="" space"="">"Summoned" exhibit at K Space</a> <a href="/places/-/" class="browse_list_venue" title=" ">K Space Contemporary, 415D Starr St., </a></h4>
+						<h4><a href="/events/goto/13471/" class="browse_list_title" title="Christmas bake sale at St. Nicholas Greek Church">Christmas bake sale at St. Nicholas Greek Church</a> <a href="/places/-/" class="browse_list_venue" title=" ">St. Nicholas Greek Orthodox Church</a></h4>
 						<h5 class="browse_list_time"></h5>
 					</li>			
 				
 					<li class="even clear">
-						<h4><a href="/events/goto/12270/" class="browse_list_title" title="Upward Pathways Support Group for Depression and Bipolar">Upward Pathways Support Group for Depression and Bipolar</a> <a href="/places/-/" class="browse_list_venue" title=" ">First United Methodist Church, 900 S. Shoreline Blvd</a></h4>
-						<h5 class="browse_list_time">6:45 a.m.</h5>
+						<h4><a href="/events/goto/13249/" class="browse_list_title" title="A Christmas Carol">A Christmas Carol</a> <a href="/places/-/" class="browse_list_venue" title=" "> </a></h4>
+						<h5 class="browse_list_time"></h5>
 					</li>			
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/9419/" class="browse_list_title" title="Corpus Christi Parks &amp; Recreation Department Classes">Corpus Christi Parks &amp; Recreation Department Classes</a> <a href="/places/-/" class="browse_list_venue" title=" ">different times/locations</a></h4>
+						<h4><a href="/events/goto/13468/" class="browse_list_title" title="Exhibit - tells tells tells tells">Exhibit - tells tells tells tells</a> <a href="/places/heritage-park/" class="browse_list_venue" title="Heritage Park">Heritage Park</a></h4>
 						<h5 class="browse_list_time"></h5>
 					</li>			
 				
 			
 			</ul>
 			
-			<div class="sidebar_more_link sidebar_more_link_events">
-				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
+			<div class="sidebar_more_link sidebar_more_link_events" style="margin-bottom:-15px;">
+            <div style="width:150px; height:30px; float:left;">
+				<a href="/events/submit/" title="Submit Your Events">« Submit Your Events</a></div><div style="width:150px; height:30px; float:right;"><a href="/events/" title="More Corpus Christi Events">More Events »</a></div>
 			</div>
 			
-		</div> <!-- end #Jun6 -->
+		</div> <!-- end #Dec14 -->
 	
 	
 	<div class="ajax_loader"><img src="http://media.caller.com/corp_assets/asphalt/img/ajax-loader.gif" alt="Loading content"><p>Loading...</p></div>
@@ -1588,9 +1596,10 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		
 		<div id="calendar_results"></div>
 		
-		<div class="sidebar_more_link sidebar_more_link_events">
-			<a href="/events/" title="More Corpus Christi Events">More Events »</a>
-		</div>
+<div class="sidebar_more_link sidebar_more_link_events" style="margin-bottom:-15px;">
+            <div style="width:150px; height:30px; float:left;">
+				<a href="/events/submit/" title="Submit Your Events">« Submit Your Events</a></div><div style="width:150px; height:30px; float:right;"><a href="/events/" title="More Corpus Christi Events">More Events »</a></div>
+			</div>
 	</div><!-- end #cal -->
 	
 </div><!-- end #sidebar_events -->
@@ -1605,8 +1614,8 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<div class="bigbox">
 		<div class="adtag" id="BIGBOX_2"><script language="JavaScript">
         // slotname: BIGBOX_2
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=3;sz=300x250;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=3;sz=300x250;pos=below;ord=963224240049858700" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=4;sz=300x250;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/N6088/adj/np.ccct/Online/System_Response/Error;pt=detail;tile=4;sz=300x250;pos=below;sub=false;ord=951393982133266800" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 
@@ -1681,6 +1690,7 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 					
 					<div class="skybox">
 						<script src="http://web.caller.com/ellington/promos/skyboxes/js/skybox_pos1.js"></script>
+
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
@@ -1847,12 +1857,12 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<!-- Javascript -->
         <script src="http://code.jquery.com/jquery-1.7.2.min.js" type="text/javascript"></script>
         <script src="http://media.caller.com/corp_assets/asphalt/js/ui/jquery-ui-1.7.1.core-tabs.js" type="text/javascript"></script>
+	    <script src="http://media.caller.com/corp_assets/asphalt/js/jquery-cookie.js" type="text/javascript"></script>
         <script src="http://media.caller.com/corp_assets/asphalt/js/modernizr-2.6.2.min.js" type="text/javascript"></script>
         <script src="http://media.caller.com/corp_assets/asphalt/js/xd.js" type="text/javascript"></script>
+        <script src="http://media.caller.com/corp_assets/asphalt/js/plugins.scriptalizer.js" type="text/javascript"></script>
         <script src="http://media.caller.com/corp_assets/asphalt/js/jquery.fancybox.min.js" type="text/javascript"></script>
 		
-		
-			<script src="http://web.caller.com/ellington/css/plugins.scriptalizer.js" type="text/javascript"></script>
 		
 	
 		<!--[if lte IE 6]>
@@ -1860,7 +1870,8 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<![endif]-->
 		
 		
-		<script src="http://media.caller.com/corp_assets/asphalt/js/jSING/core/jSING.core.yui.2011-11-07_16-10-58.js" type="text/javascript"></script>
+<script src="http://v9.anv.bz.s3.amazonaws.com/scripts/anv_mcp_9.js" type="text/javascript"></script>
+    <script src="http://media.caller.com/corp_assets/asphalt/js/jSING/core/jSING.core.yui.2013-09-19_15-06-25.js" type="text/javascript"></script>
 		<script src="http://media.caller.com/corp_assets/asphalt/js/jSING/news/jSING.news.yui.2011-11-08_16-28-17.js" type="text/javascript"></script>
 		<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 
@@ -1908,12 +1919,14 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 				}
 			);
 		</script>
+
         <script src="http://web.caller.com/ellington/gallery/jquery.prettyPhoto_menus.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" charset="utf-8">
 $(document).ready(function(){
 $("a[rel^='prettyPhoto']").prettyPhoto();
 });
 </script>
+
 	
 
 
@@ -1963,31 +1976,31 @@ $("a[rel^='prettyPhoto']").prettyPhoto();
 	</script>
     
     
-    <!-- Quantcast Tag -->
-    <script type="text/javascript">
-    var _qevents = _qevents || [];
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
 
-    (function() {
-    var elem = document.createElement('script');
-    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-    elem.async = true;
-    elem.type = "text/javascript";
-    var scpt = document.getElementsByTagName('script')[0];
-    scpt.parentNode.insertBefore(elem, scpt);
-    })();
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
 
-    _qevents.push({
-    qacct:"p-cfh7-Kj7hw4Cs"
-    });
-    </script>
+_qevents.push({
+qacct:"p-buRTPJZk9JxYM"
+});
+</script>
 
-    <noscript>
-    <div style="display:none;">
-    <img src="//pixel.quantserve.com/pixel/p-cfh7-Kj7hw4Cs.gif" border="0" height="1" width="1" alt="Quantcast"/>
-    </div>
-    </noscript>
-    <!-- End Quantcast tag -->
-        
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-buRTPJZk9JxYM.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
 	
 	
 	<script type="text/javascript" src="http://media.caller.com/corp_assets/asphalt/js/swfobject-2.2.js"></script>
