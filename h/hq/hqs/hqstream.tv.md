@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqstream.tv privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530175448id_/http%3A//hqstream.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqstream.tv privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212121513id_/http%3A//hqstream.tv/privacypolicy) for the most accurate reproduction.*
 
 # HQ Stream.tv - Privacy Policy
 
