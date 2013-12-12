@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n-sb.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424063530id_/https%3A//platform.n-sb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-sb.org privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212032438id_/https%3A//platform.n-sb.org/privacy) for the most accurate reproduction.*
 
 # Privacy - NSB
 
