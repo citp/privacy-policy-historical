@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ydetector.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516050113id_/http%3A//www.ydetector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ydetector.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212063326id_/http%3A//www.ydetector.com/privacy) for the most accurate reproduction.*
 
 # YDetector - Privacy policy
 
@@ -36,8 +36,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### Incoming search terms:
 
-  * [google ydetector](http://www.ydetector.com/privacy "google ydetector")
-  * [wnzwutryvp](http://www.ydetector.com/privacy "wnzwutryvp")
   * [YDetector-Privacypolicy](http://www.ydetector.com/privacy "YDetector-Privacypolicy")
 
 
