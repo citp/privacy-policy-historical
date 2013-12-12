@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606050125id_/http%3A//www.iap-interactive.com/PrivacyPolicy/tabid/147/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212015221id_/http%3A//www.iap-interactive.com/PrivacyPolicy/tabid/147/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,6 +44,31 @@ We will use the information you provide to:
 
 
 
+If you join our Panel+ program and install the Ipsos Panel+ Application, we will also collect information from you via the Ipsos Panel+ Application. This Application will collect the following information:
+
+  * a) Details of any advertising material, including any audio or video advertising material that the App presented to you in place of, or in addition to the actual advertising material contained on the website visited.
+  * b) In order to help with any requests for help or support when installing, using or uninstalling our App, the App also logs the following events: 
+    * Date and time of installation and when uninstalled.
+    * Installation failure reason. For example, the version of Windows™ is too old to support the App, user has insufficient rights on the machine to install software, "other" error occurred, or user cancelled the installation.
+    * Dates and times when the App is active.
+  * c) When you consent to our doing so, we will also use the Application to automatically collect information on how you use the internet. The information collected will vary from project to project, but will only include following: 
+    * Use of key words in comments or website posts you may make.
+    * Details of any Internet search engine queries and the results presented to you.
+    * User clicks.
+    * Details of any advertisements displayed to you online , including any audio or video advertising.
+    * Information about the websites you may have visited. This information includes: 
+      * All visited website addresses (URLs);
+      * Website addresses accessed by individual webpage's as they load (also known as "Background Requests"); and
+      * Details of any audio or video content accessed via the website (for example "YouTube" video content that has been viewed).
+
+
+
+With the exception of checking for key words included in any comment or other online post you may make, our Ipsos Panel+ Application does not collect keystrokes or information that is entered into a web-form, such as website user-ids, passwords, credit card numbers, other financial account numbers or other private data or any other data on a page in secure session. As a result, the Application will normally not have access to any information regarding items in a website shopping basket or your interactions with financial or health-related websites that you may log into as these are normally secure sites.
+
+However, in the event that any such private data is displayed in a URL, it is possible that such data will be collected. In addition, on certain "social networking" sites, posts, updates and pictures are unsecured and typically included as part of the page's source code. As a result, it is possible that we may gain access to your personal information, including sensitive health or financial information based on the way that certain websites display information. Please be assured that collecting such personal information is not the purpose of Ipsos Panel+, and any such data will be securely deleted from our systems if found to have been collected.
+
+For further details about how the Ipsos Panel+ Application works, please see the Application Information Sheet that can be found [here](http://www.iap-interactive.com/InfosheetPanel/tabid/246/language/en-GB/Default.aspx).
+
 We may also send your information to our sub-contractors who may carry out some of the work we do on our behalf, and under our control.
 
 We will NEVER use your information for any purpose other than research. We will NOT try to sell you anything, nor use your information for marketing purposes. Nor will we ever pass your information to third parties for marketing purposes.
@@ -67,9 +92,60 @@ For any panels or surveys aimed at children, we will always seek consent from a 
 
 ## 4\. Use of Cookies and similar code?
 
-Some on-line surveys collect information through the use of 'cookies'. These are small files stored on your computer. These files are used as sparingly as possible and only for quality control, validation and, more importantly, to prevent us sending you reminders for any on-line survey you have already completed. It is possible for you to delete 'cookies' or to prevent their use by adjusting the browser settings on your computer.
+By joining our online research panel and taking part in our online research, you agree to our use of cookies and the collection of information from your PC/Laptop or other computing device you may use whilst taking part in our online research activities as outlined below.
 
-We also automatically capture information about your IP Address, operating system, screen display settings, browser type, and use of Flash and Java. We use this information to:
+Our panel website and online surveys collect information through the use of 'cookies'. These are small files stored on your computer. Further details of what cookies are can be found by visiting [www.aboutcookies.org](http://www.aboutcookies.org/).
+
+The cookies that may be used in connection with this panel are as follows:
+
+Site/Domain/Host | Cookie Name | Purpose of cookie  
+---|---|---  
+www.iap-interactive.com (Panel members website)  
+ASP.NET_SessionId | This is set for all users of the website to distinguish you from other users and to help users log into the site.  
+ViewPoll | Used to identify unique participant when you use the POLL system on our website. It is used to ensure the same person votes only once in the website poll; it is placed when you vote using the POLL function.  
+language | Indicates selected language to be used when viewing the site content.  
+utmb | These "Google Analytics" cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited. Further details can be found here: http://www.google.com/analytics/learn/privacy.html  
+utmc  
+utmz  
+Cookie | This cookie is essential for our online surveys to function correctly. It is only set only for those surveys.  
+RVIDExtId | These cookies are used to store the unique codes produced using digital fingerprinting. This is used as part of our systems to uniquely identify online survey participants and for essential quality control purposes. Please see the “Digital Fingerprinting” information below for more information.  
+ISIStest  
+Ipsosinteractive.com  
+PJfNXlqz | This cookie is used to balance the load between our servers and so improve the performance of our online surveys.  
+RVIDExtId | These cookies are used to store the unique codes produced using digital fingerprinting. This is used as part of our systems to uniquely identify online survey participants and for essential quality control purposes. Please see the “Digital Fingerprinting” information below for more information.  
+ISIStest  
+  
+It is possible for you to delete 'cookies' or to prevent their use by adjusting the browser settings on your computer. However if you do prevent our online surveys and Panel Members website from using cookies, our surveys and Panel Members website will not work properly and you will not be able to participate in this Panel.
+
+We may also read cookies placed when you visit other websites to see if you have visited the website of, or been exposed to advertising placed on websites by of one of our clients. With your prior consent, we may also place some cookies on your machine that will allow our partners to identify you as one of our panellists whilst visiting websites for the purpose of replacing one or more of the normal adverts normally displayed on that site for the purpose of testing new advertising material. The cookies that would be used for this purpose are:
+
+Site/Domain/Host | Cookie Name | Purpose of cookie  
+---|---|---  
+Ipsosinteractive.com  
+Panel | With your prior consent, these cookies are used to check if you have been exposed to certain online adverts, and in some cases to change the advertising displayed to you, including video any advertising, as you visit sites so that we can test different online advertising material.   
+You can withdraw your consent to this at any time by writing to epanel-uk@ipsosinteractive.com.  
+TDCPM  
+TDID  
+UTID  
+UTPROFILES  
+BCSI-CS-55f0753225a53952  
+a  
+a1  
+ac  
+b  
+e  
+f  
+j  
+j1  
+o  
+p  
+r  
+s1  
+t  
+u  
+v  
+  
+In addition to our use of cookies, our online surveys automatically capture information about your IP Address, operating system, screen display settings, browser type, and use of Flash and Java. We use this information to:
 
   * Ensure that the survey questionnaire is delivered in a form suited to the software your computer is using.
   * Assist in providing support to you should you have difficulty accessing or completing a survey.
@@ -81,7 +157,7 @@ With your prior agreement, we may also install advanced cookies or similar code 
 
 ## 5\. Use of Digital fingerprinting?
 
-We may use digital fingerprinting technology, also known as "Machine Identification" digital fingerprints, to gather certain information about your computer hardware and software, for example, your IP address, the display settings of your monitor, the type of browser you are using, the type of operating system you are using, etc. This information is sent to our trusted third-party partner who converts it into a unique serial number – the digital "fingerprint" – and determines if it matches previous fingerprints. The data collected in this process and the digital fingerprint created is not tied to any of your personal information, is stored on secured servers, and is only used for quality control purposes and to help prevent panellists from completing the same survey many times.
+We also use digital fingerprinting technology, also known as "Machine Identification" digital fingerprints, to gather certain information about your computer hardware and software, for example, your IP address, the display settings of your monitor, the type of browser you are using, the type of operating system you are using, etc. This information is sent to our trusted third-party partner who converts it into a unique serial number – the digital "fingerprint" – and determines if it matches previous fingerprints. The data collected in this process and the digital fingerprint created is not tied to any of your personal information, is stored on secured servers, and is only used for quality control purposes and to help prevent panellists from completing the same survey many times, and for no other purpose.
 
 ## 6\. How long will we keep the information you provide?
 
@@ -144,7 +220,7 @@ Please quote the name of the panel and your panel membership number (if known) i
 
 ## 10\. Changes to our privacy policy
 
-We keep our privacy policy under regular review and we will place any updates on this webpage. We will also inform you of any changes via the news section of the panel members’ website. Our privacy policy was last updated on 24thof May 2011.
+We keep our privacy policy under regular review and we will place any updates on this webpage. We will also inform you of any changes via the news section of the panel members’ website. Our privacy policy was last updated on the 11thof July 2013.
 
 ## 11\. Useful Links
 
