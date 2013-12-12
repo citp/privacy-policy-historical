@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625001816id_/http%3A//bargainbriana.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212061328id_/http%3A//bargainbriana.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BargainBriana
 
