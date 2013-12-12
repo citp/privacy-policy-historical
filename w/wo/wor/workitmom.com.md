@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workitmom.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613031418id_/http%3A//workitmom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workitmom.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212221514id_/http%3A//www.workitmom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Work It, Mom!
 
@@ -35,6 +35,8 @@ By using the search functionality on the Site, Work it, Mom! Members can find ot
 **Sale of Business or Assets**. In the event that Work it, Mom!, substantially all of its assets, or a line of business are acquired or merged with another company, personally identifiable information of our Members may be one of the assets sold or merged in connection with that transaction. Work it, Mom! will notify users of the Site of such a change in ownership or transfer of assets by posting a notice on the Site.
 
 **Third Party Ad Servers**. We may use third party advertising technology to serve ads when you visit our Site. For instance, we may use Quigo and Tacoda, among others, to provide text and banner advertisements on our Site and we may use Google AdSense, among others, to provide advertising in our e-newsletters. If your browser is set up to accept cookies, DoubleClick, Quigo, Google AdSense and some of Work it, Mom! Name's advertisers and partners may place cookies or web beacons on your computer when you visit our Site or interact with our email messages. Please note that this happens whether or not you click on an advertisement placed by these companies. DoubleClick, Quigo, Google AdSense and Work it, Mom! 's advertisers and partners use cookies and web beacons according to their own privacy and security polices which you can find on their websites.
+
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 * ## Important Disclosures, Practices and Contact Information
 
