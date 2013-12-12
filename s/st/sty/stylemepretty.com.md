@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylemepretty.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509095757id_/http%3A//www.stylemepretty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylemepretty.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212070120id_/http%3A//www.stylemepretty.com/privacy-policy) for the most accurate reproduction.*
 
 # Style Me Pretty’s User Privacy Policy | Style Me Pretty
 
