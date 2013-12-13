@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wso2.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622190619id_/http%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wso2.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213050159id_/http%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | WSO2
+# privacy-policy | WSO2 Inc
 
 ## User Information
 
