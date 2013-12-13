@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refugeeks.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525005440id_/http%3A//refugeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refugeeks.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213193431id_/http%3A//refugeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RefuGeeks
 
@@ -16,7 +16,7 @@ This website and it’s owners take a proactive approach to user privacy and ens
 
 This website uses cookies to better the users experience while visiting the website.
 
-Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it’s server to provide the users with a tailored experience within this website. Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors.
+Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it’s server to provide the users with a tailored experience within this website.Â Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors.
 
 This website uses tracking software to monitor it’s visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google’s privacy policy here for further information [<http://www.google.com/privacy.html>].
 
@@ -60,15 +60,15 @@ This website may use social sharing buttons which help share web content directl
 
 ## Shortened Links in Social Media
 
-This website and it’s owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url’s like [<http://refugeeks.com/2012/11/microsoft-office-2013-review>] to this <http://goo.gl/4AZOM>.
+This website and it’s owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url’s like [<http://refugeeks.com/2012/11/microsoft-office-2013-review>] to thisÂ <http://goo.gl/4AZOM>.
 
-Users are advised to take caution and good judgement before clicking any shortened url’s published on social media platforms by this website and it’s owners. Despite the best efforts to ensure only genuine url’s are published many social media platforms are prone to spam and hacking and therefore this website and it’s owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+Users are advised to take caution and goodÂ judgementÂ before clicking any shortened url’s published on social media platforms by this website and it’s owners. Despite the best efforts to ensure only genuine url’s are published many social media platforms are prone to spam and hacking and therefore this website and it’s owners cannot be held liable for any damages or implications caused by visiting any shortened links.
 
 ## Resources & Further Information
 
 [Data Protection Act 1998  
 ](http://www.legislation.gov.uk/ukpga/1998/29/contents)[Privacy and Electronic Communications Regulations 2003  
-](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)[Privacy and Electronic Communications Regulations 2003 – The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx) (Easier to understand)  
+](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)[Privacy and Electronic Communications Regulations 2003 – The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)Â (Easier to understand)  
 [Twitter Privacy Policy  
 ](http://twitter.com/privacy)[Facebook Privacy Policy  
 ](http://www.facebook.com/about/privacy/)[Google Privacy Policy  
