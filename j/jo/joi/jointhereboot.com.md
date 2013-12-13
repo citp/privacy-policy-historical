@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629014904id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214005735id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
 
 # Reboot with Joe Privacy Policy | Reboot With Joe
 
@@ -224,8 +224,8 @@ Your Personal Information may be stored and processed in any country where Reboo
 
 If you have questions about our Privacy Policy, please contact us at kari@rebootwithjoe.com. You can also contact Reboot’s Privacy Office at:
 
-540 Broadway, Suite 203  
-New York, NY 10012  
+99 University Place 3rd Floor  
+New York, NY 10003  
 Attn: Kari Thorstensen
 
 **Changes to this Privacy Policy**
