@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeads.in privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116093224id_/http%3A//www.freeads.in/popupPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeads.in privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213090854id_/http%3A//www.freeads.in/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -24,4 +24,4 @@ By using Freeads.in you can also invite your friends by providing their email ad
 
 **Contact Us**
 
-For any further information or assistance in joining our platform, kindly write to us at [admin@freeads.co.in](mailto:admin@freeads.co.in) 
+For any further information or assistance in joining our platform, kindly write to us at [support@freeads.in](mailto:support@freeads.in) 
