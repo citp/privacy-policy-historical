@@ -1,99 +1,210 @@
-> *The following text is extracted and transformed from the coca-colacompany.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530231809id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-colacompany.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213064737id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
 
-# The Coca-Cola Company Privacy Policy : The Coca-Cola Company
+# Privacy Policy - The Coca-Cola Company: The Coca-Cola Company
 
-Last Revised: October 15, 2008
+[Print/Save](https://web.archive.org/our-company/the-coca-cola-company-privacy-policy-pdf "Link: /our-company/the-coca-cola-company-privacy-policy")
 
-The Coca-Cola Company ("The Coca-Cola Company," "we," "us") shares the concerns of visitors ("Visitors," "you") to our Internet world wide web site (the "Site") that links directly to this privacy policy about the protection of personal information online. This privacy policy (the "Policy") describes our practices regarding the privacy of information that we collect through the Site, which is hosted and operated from the United States. This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, or the collection of information by any parent, subsidiaries, sponsors or affiliated companies ("Affiliated Entities").
+ **Last Revised: 15 November, 2013**
 
-For individuals who are located in the European Union, you should be aware that The Coca-Cola Company abides by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to personal information collected by entities located in the EEA and transferred to The Coca-Cola Company in the United States. For additional information regarding the Safe Harbor Program, see the U.S. Dept. of Commerce web site at <http://www.export.gov/safeharbor>.
+The Coca-Cola Company and its affiliates are concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through activities that link to this Privacy Policy including websites (our “ **Websites** ”) and any mobile sites, applications, widgets, and other mobile interactive features (collectively, our “ **Apps** ”), through our official social media pages that we control (our “ **Social Media Pages** ”) as well as through HTML-formatted email messages that we send to you (collectively, including the Social Media Pages, Apps and Websites, the “ **Sites** ”).  By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-We encourage you to read this Policy before using our Site. By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site.
+If you are located in the European Union (EU), please note that The Coca-Cola Company abides by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU/Switzerland with respect to personal information collected by entities located in the European Economic Area and transferred to The Coca-Cola Company in the United States.  For additional information regarding the Safe Harbor Program, see The Coca-Cola Company’s Safe Harbor policy [http://www.coca-colacompany.com/our-company/safe](http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy "Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy")[](http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy "Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy")[-harbor-privacy-policy.](http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy "Link: http://www.coca-colacompany.com/our-company/safe-harbor-privacy-policy")
 
-1\. Information The Coca-Cola Company Gathers Through the Site.
+## **PERSONAL INFORMATION**  
 
-The Coca-Cola Company gathers two basic types of information through the Site: "Personal Information," information from which an individual can be identified, and "Aggregate Information," from which an individual can not be identified.
 
-a. Aggregate Information. When you visit and interact with the Site, The Coca-Cola Company and third parties with whom The Coca-Cola Company has contracted to provide services to The Coca-Cola Company, may collect anonymous information from three sources: server log files, cookies, and "pixel tags".
+### Personal Information We May Collect
 
-i. Server Log Files. Your Internet Protocol (IP) address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. We use the IP addresses of all Visitors to calculate Site usage levels, to help diagnose problems with the Site's servers, and to administer the Site. We may also use IP addresses to communicate or to block access by Visitors who fail to comply with our Terms of Service. Collecting IP addresses is standard practice on the Internet and is carried out automatically by many web sites.
+“ **Personal Information** ” is information that identifies you as an individual, such as: 
 
-ii. Cookies. Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most web sites, and help facilitate users' ongoing access to and use of a particular web site. Cookies do not cause damage to your computer systems or files, and only the web site that transferred a particular cookie to you can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there are simple procedures in most browsers that allow you to delete existing cookies, to automatically decline cookies, or to be given the choice of declining or accepting the transfer of particular cookies to your computer. You should note, however, that declining cookies may make it difficult or impossible for you to use portions of the Site.
+  * Name
+  * User name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number (including home and mobile phone numbers)
+  * Email address 
+  * Credit and debit card number
+  * Profile picture
+  * Social media account ID
+  * Country of residence
 
-iii. Pixel Tags. The Site may use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") to compile aggregate statistics about Site usage and response rates. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when the email has been opened.
 
-b. Personal Information. You are not ordinarily required to register or provide Personal Information in order to access our Site, though certain functionalities (such as a membership program, through which purchasers of [products](http://www.coca-colacompany.com/brands/all) may receive discounts on online purchases) may require registration. We collect Personal Information from you only when you voluntarily provide it to us - for example, in contacting us through the Site, answering surveys and polls, entering contests, sweepstakes, raffles and similar promotions, signing up for email updates and announcements concerning our products and special promotions, and purchasing [The Coca-Cola Company](http://www.coca-colacompany.com/our-company/) merchandise. Personal Information may include your contact information (such as your name, postal address, telephone numbers and/or email address), as well as your payment information, such as credit card number and expiration date ("Payment Information"), which we collect if you wish to purchase any product or service made available through the Site ("Transaction").
 
-2\. Use and Disclosure of Information The Coca-Cola Company Gathers Through the Site.
+In some cases, we may use a third party payment service to process purchases and/or collect donations made through the Sites.  In these cases, your Personal Information may be collected by this third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy.  We have no control over, and are not responsible for, this third party’s use or disclosure of your Personal Information. 
 
-a. Personal Information. We may use your Personal Information in any of the following ways.
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Sites, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-i. Communications. We encourage Visitors to contact us with questions and comments. Personal Information may be used in order to respond to your questions and comments.
+### How We May Collect Personal Information ****
 
-ii. Business Purposes. We may also use your Personal Information for internal business purposes, such as analyzing and managing our businesses. The Personal Information you provide through the Site may be combined with other information you provide to The Coca-Cola Company (via online or offline means), with demographic information and other information that is publicly available, or with other information about you that The Coca-Cola Company may otherwise obtain online or offline.
+We and our service providers may collect Personal Information in a variety of ways, including: 
 
-iii. Transactions. When you take part in a Transaction through the Site such as purchasing Coca-Cola merchandise, we may collect Payment Information from you related to such Transaction as well as other Personal Information such as a shipping address so that we can send you the [products](http://www.coca-colacompany.com/brands/all) you have purchased. We may use your Personal Information or Payment Information in order to complete the Transaction and, if applicable, to fulfill your purchase. We may also provide such Payment Information to third parties as necessary to complete your Transaction (for example, to process your credit card).
+  * **Through the Sites** :  We may collect Personal Information through the Sites, e.g., when you sign up for a newsletter or make a purchase.
+  *  **Offline** :  We may collect Personal Information from you offline, such as when you contact customer service. 
+  * **From Other Sources** :  We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties.  For example, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles. 
 
-iv. Sweepstakes, contests, raffles and other promotions. We may operate sweepstakes, contests, raffles and similar promotions through the Site that may require online registration (which may include name, email, user ID and password). We typically ask you for certain Personal Information when you enter and, if applicable, win a sweepstakes, contest, raffle or similar promotion. We may share this Personal Information with third parties sponsors of such sweepstakes, contests, raffles and promotions (irrespective of whether it is hosted by us), or otherwise in accordance with the rules applicable to such sweepstakes, contest, raffle or promotion. You should carefully review the rules of each sweepstakes, contest, raffle and promotion in which you participate through the Site, as they may contain additional important information about The [Coca-Cola](http://www.coca-colacompany.com/brands/coca-cola) Company's or a sponsor's use of your Personal Information. To the extent that the terms and conditions of such rules concerning the treatment of your Personal Information conflict with this Policy, the terms and conditions of such rules shall control.
 
-v. Special Promotions and Product Information. In addition, The Coca-Cola Company may use your Personal Information to provide you with email updates and announcements concerning our [products](http://www.coca-colacompany.com/brands/all) and special promotions. You may opt-out of receiving these messages from us at any time (see "Contact Us" below).
 
-vi. Critical Communications. From time to time we may use your Personal Information to email you important information regarding the Site, your Transactions, or changes to our terms, conditions, and policies ("Critical Emails"). Because this information may be critical to your use of the Site, you may not opt-out of receiving these emails.
+The Personal Information you provide through the Sites may be combined with Personal Information and Other Information that you provide to us (via online or offline means), that is publicly available, or that we may otherwise obtain online or offline.
 
-vii. Third Party Service Providers. We work with third parties who provide services, including web site hosting, credit card processing, data analysis, newsletter services, promotional activities, and other administrative services. We may share your Personal Information, including your Payment Information, with such third parties for the purpose of enabling such third parties to provide such services.
+### How We May Use Personal Information ****
 
-viii. Miscellaneous. Finally, we may disclose your Personal Information if we believe that we are required to do so: (i) by law; (ii) to comply with legal process or governmental requests; (iii) to enforce our Terms of Service; (iv) to protect our operations; (v) to protect the rights, privacy, safety or property of [The Coca-Cola Company](http://www.coca-colacompany.com/our-company/), you or others; and (vi) to permit us to pursue available remedies or limit the damages that we may sustain.
+We may use Personal Information: 
 
-b. Aggregate Information. We analyze Aggregate Information in order to enhance web site security, track the popularity of certain pages of the Site, the success of our email newsletters, traffic levels on the Site and other usage data, all of which helps us to provide content tailored to your interests, improve the Site and related services and to otherwise enhance your experience on the Site. We may share Aggregate Information with Affiliated Entities and other third parties.
+  * to respond to your inquiries and fulfill your requests, such as to send you newsletters or to respond to your questions and comments.
+  * To send administrative information to you, for example, information regarding the Sites and changes to our terms, conditions, and policies.  Because this information may be important to your use of the Sites, you may not opt-out of receiving these communications.
+  * to complete and fulfill your purchase and/or your donation, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
+  * to provide you with updates and announcements concerning our products, promotions and programs and to send you invitations to participate in special programs, 
+  * to re-contact you if we have not heard from you in a while, 
+  * to send you advertising/promotional material from any of our affiliates, and from our promotional and strategic partners. 
+  * to personalize your experience on the Sites by presenting products and offers tailored to you.
+  * to process rewards, prizes, and donations, as applicable. 
+  * to allow you to participate in polls, sweepstakes, instant win promotions, contests and other promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so it is important that you read the additional rules carefully.
+  * to allow you to send messages to a friend through the Sites.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address, phone number, or other contact information. 
+  * to allow you to contact and be contacted by other users through the Sites, as permitted by the applicable Site.
+  * to permit you to participate on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including our Social Media Pages). 
+  * to permit you to participate in social sharing, including live social media feeds. 
+  * for our business purposes, such as analyzing and managing our businesses, market research, audits, developing new products, enhancing our Sites, improving our services and products, identifying usage trends, determining the effectiveness of our promotional campaigns, tailoring the Sites experience and content based on your past activities on the Sites, and gauging customer satisfaction and providing customer service (including troubleshooting in connection with customer issues). 
+  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
 
-3\. Other Important Notes Regarding Our Privacy Practices.
 
-a. Special Note for Parents. The Coca-Cola Company takes seriously its obligations under the Children's Online Privacy Protection Act concerning the collection of Personal Information from individuals under the age of thirteen (13). The Site is not directed at children, and we request that children under the age of 13 not provide Personal Information through the Site.
 
-.b. Security. We have security measures and tools in place to help protect against the loss, misuse, and alteration of the information under our control. Any time you provide us with your credit card number, that credit card number is transmitted to us by your browser in an encrypted format using industry-standard, SSL (secure socket layer) encryption. No method of transmitting or storing data is completely secure. As a result, although we strive to protect your Personal Information, we cannot guarantee the security of any information you transmit to us through or in connection with the Site. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by contacting us in accordance with "Contact Us," below (note that physical mail notification will delay the time it takes for us to respond to the problem).
+### How Personal Information May Be Disclosed 
 
-c. Other Third Party Sites. The Site may contain links to third party web sites. These linked sites (including the web sites of Affiliated Entities) are not under The Coca-Cola Company's control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by The Coca-Cola Company. If you provide Payment Information or other Personal Information through any such third party web site, your transaction will occur on such third party's web site (not the Site) and the Personal Information you provide will be collected by, and controlled by the privacy policy of, that third party. It is important that you familiarize yourself with the privacy policies and practices of any such third parties.
+Your Personal Information may be disclosed:
 
-d. Assignment. We reserve the right to transfer any and all information that we collect from users of the Site to a third party in the event of any merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of The [Coca-Cola](http://www.coca-colacompany.com/brands/coca-cola) Company's assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
+  * to our affiliates for the purposes described in this Privacy Policy.  The Coca-Cola Company is the party responsible for the management of the jointly-used Personal Information (to see a list of our affiliates go to [http://www.coca-colacompany.com/investors/2005-annual-report-on-form-10-k](http://www.coca-colacompany.com/investors/2005-annual-report-on-form-10-k "Link: http://www.coca-colacompany.com/investors/2005-annual-report-on-form-10-k").
+  * to our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services and other similar services to enable them to provide services.
+  * with our third-party strategic partners with whom we may enter into a special relationship.  Because these third parties will use your Personal Information in accordance with their own privacy practices, you should check their websites for information regarding their privacy practices.
+  * In connection with promotions, for example, to third parties that are sponsors of sweepstakes, instant win promotions, contests and other promotions, to provide lists of the names and countries of residence of winners and/or to announce the names of visitors on the Sites (e.g., on our blog) or otherwise in accordance with the rules applicable to the applicable promotion.    To the extent that the terms and conditions of the rules concerning the treatment of your Personal Information conflict with this Privacy Policy, the terms and conditions of the rules shall control.
+  * to identify you to anyone to whom you send messages through the Sites.
+  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including our Social Media Pages).  Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Sites and to the general public.  We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Sites.
+  * if you participate in social sharing (such as if you connect your social media account to your Site account or log-into your Site account from you social media account), to your friends associated with your social media account, to other website users and as well as to your social media account provider, in connection with your social sharing activity.  For example, if you register on the Sites using a social media account, we may post a generic registration message on your social media profile, and if you click a social media “like” button on a Site while logged in to your social media account, your actions will be transmitted to the applicable social media provider and may be available on your social media profile.  By connecting your Site account and your social media account you authorize us to share information with your social media account provider and you understand that the use of the information we share will be governed by the social media site’s privacy policy.  If you do not want your Personal Information shared with other users or with your social media account provider, please do not connect your social media account with your Site account and do not participate in social sharing on the Site.
+  * by you, if you participate in a live social media feed (which you may do, for example, by referencing us in your social media post or “liking” us on a social media platform).  If you do participate, your public username and profile photo may be displayed on the Sites along with your post. 
+  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
 
-4\. Updating Your Information and Contacting Us.The Coca-Cola Company has procedures in place to keep your Personal Information accurate, complete and up to date for the purposes for which it is collected and used. You may review the information we have collected and where appropriate you may request that it be corrected. We also provide you with you several options for reviewing, correcting, updating or otherwise modifying information you have previously provided:
 
-1\. You may email us at: [http://www2.coca-cola.com/mail/eQuery_other.html](http://www2.coca-cola.com/mail/eQuery_other.html)
 
-2\. You may call us at 1-800-438-2653
+## OTHER INFORMATION
 
-3\. You may send mail to the following postal mail address:
+### Other Information We May Collect
 
-Attn: Website Privacy Policy
+“ **Other Information** ” is any information that does not reveal your specific identity, such as: 
 
-Industry and Consumer Affairs
+  * Browser and device information
+  * Server log file information
+  * Information collected through cookies, pixel tags and other technologies
+  * App usage data
+  * Demographic information and other information provided by you
+  * Location information 
+  * Aggregated information
 
-The Coca-Cola Company
 
-1 Coca-Cola Plaza
 
-Atlanta, GA 30313
+**How We May Collect Other Information**
 
-Please clearly indicate the information that you wish to review or have changed. We will endeavor to comply with your request as soon as reasonably possible.
+We and our third party service providers may collect Other Information in a variety of ways, including: 
 
-Note that despite any removal of or change to Personal Information requested there may also be residual information that will remain within our databases and other records, which will not be removed or changed.
+  * **Through your browser or device** :  Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, service provider, and the name and version of the Sites (such as the App) you are using.  We use this information for statistical purposes as well as to ensure that the Sites function properly. 
+  *  **Through server log files** :  Your “ **IP Address** ” is a number that is automatically assigned to the computer or device that you are using by your Internet Service Provider (ISP).  An IP Address is identified and logged automatically in our server log files whenever a user visits the Sites, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many websites.  We use IP Addresses for purposes such as calculating Sites usage levels, helping diagnose server problems, and administering the Sites.  Please note that we treat IP Addresses, server log files and related information as Other Information, except where we are required to do otherwise under applicable law.
+  *  **Using cookies** :  Cookies allow a web server to transfer data to a computer or device for recordkeeping and other purposes.  We use cookies and other technologies to, among other things, better serve you with more tailored information and facilitate your ongoing access to and use of the Sites.  If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies.  To learn more about cookies, please visit <http://www.allaboutcookies.org/>.  To learn more about our use of cookies, please see our cookies policy [http://www.coca-colacompany.com/our-company/cookie-policy](http://www.coca-colacompany.com/our-company/cookie-policy "Link: http://www.coca-colacompany.com/our-company/cookie-policy")
+  *  **Using Adobe Flash technology (including Flash Local Stored Objects (“Flash LSOs”)) and other similar technologies** :  We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Sites.  If you do not want Flash LSOs stored on your computer or device, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained using the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html"). You can also control Flash LSOs by going to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html") and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer or device without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time).  Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Sites or our online content.
+  *  **Using pixel tags, web beacons, clear GIFs or** **other similar technologies** :  These may be used in connection with some Sites pages and HTML-formatted email messages to, among other things, track the actions of Sites users and email recipients, measure the success of our marketing campaigns and compile statistics about Sites usage and response rates. 
+  *  **Through your use of an App.**   When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number. 
+  *  **From you** :  Information such as date of birth, gender and zip code, as well as other information, such as your preferred means of communication, may be collected when you voluntarily provide this information.  Unless combined with Personal Information, this information does not personally identify you or any other user of the Sites.
+  *  **Physical Location:**   We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
+  *  **By aggregating information** :  Aggregated Personal Information does not personally identify you or any other user of the Sites, (for example, we may use Personal Information to calculate the percentage of our users who have a particular telephone area code).
 
-5\. Choice
 
-From time to time, we may ask you to indicate whether you are interested in receiving emails and other information from The Coca-Cola Company. If you elect to receive these communications, we will occasionally send you emails or other information that match your requests and offer you promotions and coupons.
 
-If at any time you wish to stop receiving these email communications from us, please just let us know by emailing, calling or writing to us using the contact information listed above in Contacting Us or by using the unsubscribe feature in the email you received. Please indicate that you wish to stop receiving email communications from The Coca-Cola Company.
+### How We May Use and Disclose Other Information 
 
-In addition, we do not disclose your Personal Information to third parties, including The [Coca-Cola](http://www.coca-colacompany.com/brands/coca-cola) Company's subsidiaries, for the third-party's direct marketing purposes if we have received and processed a request from you that your Personal Information not be shared with third parties for that purpose. If you would like to submit such a request, please just let us know by emailing, calling or writing to us using the contact information listed above in Contacting Us. Please indicate that you request that The Coca-Cola Company not disclose your Personal Information to The Coca-Cola Company subsidiaries and/or other third parties for direct marketing. A list of The Coca-Cola Company's subsidiaries may be found here.
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law.  If we are required to treat Other Information as Personal Information under applicable law, then, in addition to the uses listed in the “How We May Collect Other Information” section above, we may use and disclose Other Information for all the purposes for which we use and disclose Personal Information.
 
-6\. [Careers](http://www.coca-colacompany.com/careers/career-opportunities) Section.
+In some instances, we may combine Other Information with Personal Information (such as combining your name with your zip code).  If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-The Site includes a link to our [Careers](http://www.coca-colacompany.com/careers/career-opportunities) section, which contains information on what it's like to work for The Coca-Cola Company and methods for applying for jobs at our offices worldwide. Any Personal Information submitted through this portion of the Site, or to email addresses listed on this portion of the Site, will be governed by The Coca-Cola Company's Résumé/CV Submission Policy. Please click here to review that policy.
+## THIRD PARTY SITES
 
-7\. Changes to This Policy.
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which these Sites contain a link.  The inclusion of a link on the Sites does not imply endorsement of the linked site by us or by our affiliates. 
 
-We reserve the right to change this Policy, and any of our policies or procedures concerning the treatment of information collected through the Site, without prior notice. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to our Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our Policy.
+In particular, please note that the Sites may contain a link to e-commerce websites, including some e-commerce websites that are Coca-Cola branded.  This Privacy Policy does not govern any e-commerce websites to which the Sites may contain a link.  Any Personal Information that you provide through the e-commerce website will be subject to the privacy policy of the e-commerce site, and not this Privacy Policy.  We have no control over, and shall not be responsible for, the use of information collected through the e-commerce site. 
 
-This Policy represents the sole, authorized statement of The Coca-Cola Company's practices with respect to the collection of Personal Information (defined below) through the Site and The Coca-Cola Company's use of such information. Any summaries of this Policy generated by third party software or otherwise (for example, in connection with the Platform for Privacy Preferences or "P3P") shall have no legal effect, do not bind The Coca-Cola Company, shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy.
+Additionally, we may provide you with access to third-party functionality that permits you to post content to your social media account(s).  Please note that any information that you provide through use of this functionality is governed by the applicable third party’s privacy policy, and not by this Privacy Policy.  We have no control over, and shall not be responsible for, any third party’s use of information that you provide through use of this functionality.
 
-This Policy © 2008 [The Coca-Cola Company](http://www.coca-colacompany.com/our-company/). All rights reserved.
+We are also not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages. 
+
+## CAREERS ****
+
+The Sites may include a link to our Careers section, which contains information on what it's like to work for us and methods for applying for jobs at our offices worldwide. Any Personal Information submitted through this portion of the Sites, or to email addresses listed on this portion of the Sites, will be governed by our Resume/CV Submission Policy [http://www.coca-colacompany.com/careers/](http://www.coca-colacompany.com/careers/ "Link: http://www.thecoca-colacompany.com/careers/index.html"). 
+
+## THIRD PARTY ADVERTISING-RELATED VENDORS **    
+**
+
+Please note that our online and email advertising-related vendors may use pixel tags, web beacons, clear GIFs or other similar technologies in connection with the Sites to help manage our online and email advertising campaigns and strengthen the effectiveness of such campaigns.  For example, if a vendor has placed a unique cookie on your computer, the vendor may use pixel tags, web beacons, clear GIFs or other similar technologies to recognize the cookie during your visit to the Sites and to learn which of our online advertisements may have brought you to our Sites, and the vendor may provide us with such Other Information for our use.  Please note we may link such Other Information provided to us by our vendors to Personal Information about you that we have previously collected.  Such combined information will be treated as Personal Information hereunder as long as it is so combined.
+
+We may use third-party advertising companies to serve advertisements on our Sites.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice, please visit [http://evidon.com](http://evidon.com/ "Link: http://evidon.com/"), and to know your choices about not having this information collected or used by these companies, please visit ****<http://www.evidon.com/consumers/profile_manager#tab3>.  
+
+## SECURITY  
+
+
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below (note that physical mail notification will delay the time it takes for us to respond to the problem).
+
+## CHOICES AND ACCESS ****
+
+### Your choices regarding our use and disclosure of your Personal Information
+
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. 
+
+  * If at any time you wish to stop receiving email marketing communications from us, please just let us know by emailing, calling or writing to us using the contact information listed below in the _“Contacting Us”_ section or by using the unsubscribe feature in the marketing email you received. In your request, please indicate that you wish to stop receiving email marketing communications from us. 
+
+
+  * In addition, we will not disclose your Personal Information to third parties, including our subsidiaries, for the third party's direct marketing purposes if we have received and processed a request from you that your Personal Information not be shared with third parties for that purpose. If you would like to submit such a request, please just let us know by emailing, calling or writing to us using the contact information listed below in the _“Contacting Us”_ section.  Please clearly indicate that you request that The Coca-Cola Company not disclose your Personal Information to The Coca-Cola Company subsidiaries and/or other third parties for their direct marketing purposes.
+
+
+
+Please note that changes may not be effective immediately.  We will endeavor to comply with your request(s) as soon as reasonably practicable.  Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+### How you can access, change or suppress your Personal Information
+
+To review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, please email, call or write to us using the contact information listed below in the _“Contacting Us”_ section and clearly describe your request. 
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information.  We will try to comply with your request as soon as reasonably practicable.  Note that despite our efforts, there may be residual information that will remain within our databases and other records, which will not be removed or changed.  Further, please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). 
+
+## RETENTION PERIOD
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
+
+## USE OF SITES BY MINORS
+
+The Sites are directed to individuals who are permitted to share their Personal Information without parental consent and we request that other individuals (including individuals under the age of 13) not provide Personal Information through the Sites. 
+
+## CROSS-BORDER TRANSFER
+
+Your Personal Information may be stored and processed in any country where we have facilities or service providers, and by using our Sites you consent to the transfer of information to countries outside of your country of residence, including the United States, which may provide for different data protection rules than in your country.
+
+## SENSITIVE INFORMATION
+
+we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , information related to racial or ethnic origin, political opinions, religion or other beliefs, health or medical condition, criminal background or trade union membership) on or through the Sites or otherwise to us. 
+
+## UPDATES TO THIS PRIVACY POLICY
+
+We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on a Site.  Your use of the Sites following these changes means that you accept the revised Privacy Policy.   
+
+
+## CONTACTING US
+
+If you have any questions about this Privacy Policy, please contact us as follows:
+
+1.     You may email us at: [https://secure.thecoca-colacompany.com/ssldocs/mail/eQuery_other.shtml](https://secure.thecoca-colacompany.com/ssldocs/mail/eQuery_other.shtml "Link: https://secure.thecoca-colacompany.com/ssldocs/mail/eQuery_other.shtml")
+
+2.     You may call us at 1-800-438-2653
+
+3.     You may send mail to the following postal mail address:
+
+Attn: Website Privacy Policy  
+Industry and Consumer Affairs  
+The Coca-Cola Company  
+1 Coca-Cola Plaza  
+Atlanta, GA 30313  
+USA
+
+Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
