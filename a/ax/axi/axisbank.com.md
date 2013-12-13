@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613221319id_/https%3A//www.axisbank.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213180043id_/http%3A//www.axisbank.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Axis Bank
 
