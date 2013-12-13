@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlinkworld.com privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707034742id_/http%3A//www.powerlinkworld.com/Am/Career/Prvacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlinkworld.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213073112id_/http%3A//www.powerlinkworld.com/AM/Career/Prvacy.aspx) for the most accurate reproduction.*
 
 # PowerLink Group
 
@@ -15,26 +15,20 @@ If you feel that the PowerLink Web site (http://www.Powerlinkworld.com) is not a
 Products
 
   
-PowerLink air compressors (screw air compressors) mainly include: soundproof fixed sets, soundproof diesel-driven fixed sets .... 
+PowerLink products mainly include generator sets, lighting towers, air compressors and other electrical equipment.
 
 [Products](http://en.air.powerlinkworld.com/)
 
 News
 
-2011-6-23 
+2013-4-24 
 
-## Site Observation and Validation Meeting [...] 
+## Always be with Ya’an People——PowerLink D [...] 
 
-On the afternoon of June 22, site observation and validation meeting of stock products hel [...] 
+2013-4-11 
 
-2011-6-20 
+## PowerLink DS400-8 Diesel Driven Portable [...] 
 
-## Open Market, Elegant Appearance - WPS350 [...] 
+2013-3-10 
 
-On June 13, 2011, the 14th Chile International Mining Equipment Exhibition EXPONOR held gr [...] 
-
-2011-6-11 
-
-## Thailand Customers Delegation Visited Po [...] 
-
-On June 10, 20 people of a business delegation consisted of PowerLink’s exclusive dealer i [...] 
+## PowerLink Engineers Trained Thailand’s C [...] 
