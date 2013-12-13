@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628041108id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213075632id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -72,6 +72,16 @@ Set the language for the VideoCenter.
 
 Duration of the session: the cookie is deleted when the browser is closed.   
   
+fe_typo_user 
+
+| 
+
+Functionality to collect documents in the area of “Investors”. No personal data is collected. 
+
+| 
+
+Duration of the session: the cookie is deleted when the browser is closed.   
+  
 bayerdePublikationen_ShoppingCart 
 
 | 
@@ -81,16 +91,6 @@ Shopping cart for publication orders
 | 
 
 1 day   
-  
-intro 
-
-| 
-
-Skip intro of “150 Years of Bayer”. 
-
-| 
-
-7 days   
   
 WT_FPC 
 
@@ -124,12 +124,12 @@ In light of the importance of protecting children's privacy, we do not collect, 
 
 If you have any problems, questions or ideas, please contact one of the following persons.
 
-Website Editor:  
+Data Protection Officer of Bayer AG:  
 
 
-Katharina Sprenkamp  
+Thomas Beyer  
 Bayer AG  
-Communications  
+Corporate Office  
 Building W 11  
 51368 Leverkusen, Germany  
 [E-mail](https://secure.bayer.com/bayer-group/contact.aspx?lang=en)
