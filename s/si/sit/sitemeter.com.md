@@ -1,82 +1,203 @@
-> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615002153id_/http%3A//sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemeter.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Site Meter - Counter and Statistics Tracker
 
-**General**
+|     
+---  
+|  [   home](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=home)  
+---  
+   learn more  
+[How Does Site Meter Work?](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=howworks)  
+Site Meter Basic  
+[Tour](https://web.archive.org/flash/basic_account/basic_account.html)  
+[Demo Stats](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=samplestats&HELP=ON)  
+[Meter Options](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=counterstyles)  
+[Sign Up](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=signupoptions)  
+Site Meter Premium  
+[Tour](https://web.archive.org/flash/premium_tour/premium_tour.html)  
+[Demo Stats](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=sampleprostats&HELP=ON)  
+[Pricing](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=premiumprices)  
+[Sign Up](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=signupoptions)  
+[Product Comparison](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=productcomparison)  
+[FAQ-General Info](http://support.sitemeter.com/index.php?_m=knowledgebase&_a=view&parentcategoryid=1&pcid=0&nav=0)  
+   news + announcements  
+[News/Announcements Blog ](http://sitemeter.wordpress.com/)  
+   support + service  
+[KnowledgeCenter](http://support.sitemeter.com/)  
+[Submit Support Request](http://support.sitemeter.com/index.php?_m=tickets&_a=submit)  
+[Upgrade Account](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=signupoptions)  
+   about us  
+[Contact Info](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=contact)  
+[Privacy Policy](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacy)  
+[Key Terms](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms)  
+[Financial and Health Interest-Base Segments](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyfh)  
+[Terms of Service](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=termsofservice)  
+[Join Us](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=joinus)  
+|   |   
 
-SiteMeter ("SiteMeter", "we" or "us") is committed to your online privacy and protecting any and all personally identifiable information ([1](https://web.archive.org/?a=privacy#1)) ("Personally Identifiable Information") about you that we may collect and store as a result of our business activities with you. This Privacy Policy (this "Policy") outlines the type of information we may collect, how we might use such information, and the choices you have regarding the Personally Identifiable Information we may possess about you. 
 
-We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personally Identifiable Information, or your dealings with this website, please feel free to contact us by submitting a [support request](http://support.sitemeter.com/index.php?_m=tickets&_a=submit) to us. 
+### PRIVACY POLICY
 
-We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personally Identifiable Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at [www.sitemeter.com.](https://web.archive.org/)
+### Last Updated on November 4, 2013
 
-**SiteMeter Business Customer Privacy**
+Interactive Media Holdings, Inc. is a digital media company comprised of a family of companies that includes the [Vindico](http://vindico.com/), [Specific Media](http://specificmedia.com/) and [Site Meter](http://www.sitemeter.com/) businesses (collectively, “IMH,” “we,” or “us”). This Privacy Policy explains the information we collect, how we use that information and the choices we offer, including how to opt-out of certain collection and use of that information. The IMH family of companies also includes [Myspace](http://myspace.com/). This Privacy Policy does not apply to Myspace. The privacy policy for Myspace is located [here](http://myspace.com/pages/privacy). 
 
-_Collection of Personally Identifiable Information_
+We take the issue of user privacy on the internet very seriously. The following is intended to be a plain English explanation of our practices. 
 
-Customers who use the products and services available through our website (collectively, the "Services") do so voluntarily. In order to use our Services, a customer is required to create an account by registering and providing us with basic contact, billing and website information, including, but not limited to, such customer's name, email address, credit card information and website URL. By providing us with Personally Identifiable Information, customers are consenting to the collection, use and disclosure of such Personally Identifiable Information in accordance with the terms and conditions set forth in this Policy. 
+This Privacy Policy describes key aspects of our privacy practices, including: 
 
-_How We Use Personally Identifiable Information_
+  * The information we collect and how we collect it.
+  * How we use that information.
+  * How we share information.
+  * The choices we offer, including how to opt-out of interest-based advertising.
 
-Any Personally Identifiable Information collected and stored by us is used strictly for billing purposes, contacting our customers, evaluating a prospective customer's website content, and for such other purposes as are described in this Policy. SiteMeter does not share any customer Personally Identifiable Information with any third party other than those business partners which are directly involved in managing our day to day business operations, such as, without limitation, our billing and payment processes. 
 
-SiteMeter reserves the right to disclose your Personally Identifiable Information without notice or consent as it deems necessary (a) to conform to applicable law; (b) when we believe that disclosure is necessary to protect our rights and property; (c) to protect the safety of our users, us, or other third parties; (d) to comply with any judicial proceeding, court order, or legal process served on us; and/or (e) pursuant to an acquisition, merger, sale of assets or other business transfer. 
 
-_Direct Email_
+If you are not familiar with terms like cookies, IP addresses and pixels, we suggest that you read about these and other [key terms](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#key_terms) first. 
 
-SiteMeter customers may, from time to time, receive “SiteMeter Newsletters” sent via email from our authorized email sender. Customers who agree to our Terms of Service Agreement and create an account with SiteMeter consent to receive such emails and other messages of interest. Customers wishing not to receive the SiteMeter Newsletter may opt-out of receiving such emails by selecting the opt-out option at the bottom of all newsletter emails. 
+We always welcome comments and questions on our Privacy Policy, so please do not hesitate to contact us with any comments or questions at [privacy@interactivemediaholding.com](mailto:privacy@interactivemediaholding.com). 
 
-_Log Files_
+Please note that this Privacy Policy does not apply to the practices of third parties that own or operate the websites and other internet connected platforms where any of our advertisements are displayed or that otherwise utilize our services, or any third party websites and platforms that are linked to from our websites or services. Please be aware that we are not responsible for these third party sites and platforms in any way including without limitation, the privacy practices of these websites and platforms (and/or their third party owners or operators). For information about those third parties’ practices, we encourage you to carefully review the privacy policies governing those websites and platforms. 
 
-By accessing our website, our internet servers automatically record information that your internet browser sends when you visit a website. These logs may contain information such as your internet protocol (IP) address, browser version, domain name, language, date and time, the referring website and information in your cookie files. 
+**I. Information we collect**
 
-_Third Party Advertisements_
+We receive and collect information in order to provide and improve our services, such as to serve ads or provide content that is more relevant to users. 
 
-The advertisements appearing on our website from time to time are provided by a variety of our third party advertising partners. We only share website usage information about our users with reputable third party advertisers for the sole purpose of better targeting our website banner advertisements. 
+We collect information in a number of ways, including the following: 
 
-_SiteMeter Website Cookies_
+  * **Information you give us.** We may collect information that you provide to us yourself through one of our corporate websites, for example, when you sign up to receive our email distributions, inquire about or sign up for one of our services or apply for a job through our websites. Many times, the information you provide includes [personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information), like your name, email address, telephone number or credit card.
+  * **Information we get from your use of or interaction with our services.** We receive and collect information when you use our services or otherwise interact with our advertising, analytics and other services. This interaction may occur on websites owned or controlled by us or by third-parties, supported mobile devices, consumer electronics devices, and on other online or technical mechanisms or devices. The information we collect includes: 
+    * **Cookies, pixels, unique identifiers and other web technologies.** We use [cookies](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#cookies), [pixels](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#pixels), [unique identifiers](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ui) and other web technologies when you interact with services we offer to our partners, such as our advertising and analytics services. We may also use web [crawlers](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#crawlers), [embedded scripts](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#embedded_script) and [user panels](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#user_panel) to verify ad execution and to collect other data on ads that you see, including where you see them, how they are displayed and for how long they are displayed. To learn about the choices we offer regarding opting out of some of these technologies, including how to opt-out of interest-based advertising, please click here. Third party advertisers that serve ads on our websites and services and other vendors may also use their own [cookies](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#cookies) and similar web technologies. We do not control the use of these [cookies](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#cookies) and similar web technologies, or how your data is used by those third parties.
+    * **Request-based information.** Request-based information is passed to us by your computer browser, mobile device or other consumer electronics device automatically each time you interact with websites, platforms, applications or devices that use our advertising, analytics or other services. Request-based information may include: 
+      * browser type (e.g., Microsoft Internet Explorer, Mozilla Firefox, or Apple Safari) 
+      * device hardware model, operating system (e.g., whether you are using a device running Microsoft Windows, Android, Mac OS, iOS, etc.) and unique device identifiers
+      * [IP (internet protocol) address](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ip_address), including whether multiple devices have connected to the internet from the same [IP address](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ip_address) or a single device has connected to the internet from multiple [IP addresses](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ip_address).
+    * **Web browsing information.** We collect information about which websites you have interacted with, including the web address of the page where you interact with our advertising or other services and the URL of the webpage that referred you to that page. We also collect information about the subject matter of those websites and other information on your’ interaction with those websites, including the specific content and advertising you consume and interact with on those websites. 
+    * **Performance information.** We monitor the sales, signups or visits to certain predetermined pages on our partners’ websites. We reconcile these page ‘hits’ back to the ads that were shown to allow us to manage advertising campaign delivery, and report on this to our partners.
+    * **Session information.** Session information relates to user, campaign, and interest-based history and is used for frequency capping and interest-based delivery of advertising and other content. Session information is gathered in a number of ways, including from the website visited, mobile or other digital platform application, and clicks registered by the ’applicable device.
+    * **Log information.** When you use our services or view our ads or other content provided by us, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#server_logs). This may include: 
+      * details of how you used our service, such as your clicks on our ads 
+      * [IP address(es)](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ip_address)
+      * device event information such as hardware settings, browser type, browser language, the date and time of your request and referral URL 
+      * [cookies](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#cookies) and [unique identifiers](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ui) that may uniquely identify your browser
+  * **Information from affiliates and third parties.**
+    * **Information from affiliates.** We may receive information from our affiliates regarding your use of our services not covered by this Privacy Policy, such as information regarding the contents of your Myspace profile (such as your age, gender, Myspace connections and location). We may combine data from one service with information from our other services, and with information we receive from our affiliates and third parties. 
+    * **Information from third parties.** We partner with third-parties to improve our services and to allow us to provide services through mobile and other consumer electronics devices. These third parties may provide us with certain information, including automatically collected information such as [IP address](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ip_address), device type, operating system, and, in some cases, a [unique identifier](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ui), as well as location-based data such as Wi-Fi, cell tower, GPS or diagnostic location information, contextual information, and demographic information including age, gender and zip code.
 
-To allow our customers the convenience of not having to remember their login information when accessing our website, SiteMeter may place a temporary or persistent "cookie" on your computer's hard drive. These cookies are simple, harmless text files that remember the internet browser you use to access the internet. However, if you do no want to receive cookies, you may adjust the settings in your internet browser to reject cookies or to alert you when a cookie is placed on your computer([2](https://web.archive.org/?a=privacy#2)). We do not collect or store any Personally Identifiable Information via cookies. 
 
-**General Internet User Privacy**
 
-In order to gather and aggregate statistical data for our customers, we may from time to time place persistent or temporary cookies on a visitor's hard drive when visiting a customer's website. These cookies are not capable of tracking, retaining, or storing any Personally Identifiable Information, and they are used for no other reason than to gather the same general internet information that is available to all internet service providers, search engines, and websites. Examples of this information include, without limitation, a visitor's general location based on IP address, information from the visitor's browser such as browser type, type of operating system, keywords used while searching, websites visited, monitor resolution settings. 
+**II. How we use the information we collect**
 
-SiteMeter may from time to time also authorize and facilitate the use of cookies from trusted third party business partners to gather and aggregate additional, anonymous, and non-Personally Identifiable Information data from general internet visitors for the purpose of providing our customers with additional information about their viewing audience. 
+**A. Personal information you give us**
 
-SiteMeter does not gather, retain or store any data from these third party partners. SiteMeter has also chosen to partner only with businesses that have shown a strong commitment to online privacy and have represented and warranted to SiteMeter that any and all data collected on our behalf is non-Personally Identifiable Information. 
+[Personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information) you provide to us through the use of our corporate websites – for example, in order to sign up for an email distribution, inquire about or sign up for our services or to apply for a job with us – is generally used for the purpose for which it was provided. We may also use your [personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information) in order to send you emails from time to time about our services, respond to your inquiries or in order to provide our vendors and subcontractors your [personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information) in connection with performing services for us. Additionally, we may use your [personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information) for other purposes permitted under this Privacy Policy, such as to protect or comply with legal rights and obligations, to complete a merger or sale of assets or for additional purposes with your consent. We may also collect [personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information) on behalf of a partner that has been identified to you. In such instances, we will collect and use that information in accordance with the privacy policy that is posted at the point of collection and we will not be liable for usage of that information made by the applicable partner. 
 
-_SiteMeter does not condone, support, or participate in any activities that could potentially gather, retrieve or store any Personally Identifiable Information about or from internet users._
+**B. Information that we collect through your use of our services and the internet or that we receive from third parties**
 
-**Children's Online Privacy**
+We use the information we collect to improve our services and to deliver a more personalized web experience. This includes providing advertising and content that we believe is more relevant to you and providing more accurate analytics and reporting to our clients and partners. 
 
-SiteMeter does not do business with any person under the age of 18 and anyone using our Services must be at least 18 years of age. If we become aware that a person under the age of 18 has provided us with Personally Identifiable Information, we will discontinue the use of such information and remove it from our active systems. To our knowledge, we are in full compliance with all children's online privacy guidelines and practices. 
+The information that we collect and receive may be used for purposes including: 
 
-**Data Security**
+  * to operate and improve our services, including to create interest-based and other use-based advertising segments, to provide more personalized advertisements, to more precisely direct advertising to you and to present offers, products and programs to you on our behalf and on behalf of our business partners
+  * to fulfill your requests for products, programs, and services
+  * to communicate with you and respond to your inquiries
+  * to conduct research about and analyze your use of our services
+  * to provide reporting to our partners about the performance of our advertising, analytics and other services
 
-The security of your Personally Identifiable Information is important to us. When you enter sensitive information (such as credit card information) on our registration forms, we encrypt that information using secure socket layer technology (SSL). 
+Moreover, information we obtain from third parties about you may be appended to information that we otherwise have about you in order to improve the products and services we provide or for other business purposes. Because our services continually are evolving, we reserve the right to use the information that we collect for other legal purposes that are consistent with this Privacy Policy, even if not specifically described herein. 
 
-We follow generally accepted industry standards to protect the Personally Identifiable Information collected by us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personally Identifiable Information, we cannot guarantee its absolute security. 
+**C. Public Information**
 
-Your Personally Identifiable Information may be stored on computers systems maintained by an agent or service provider of SiteMeter, each of which will be bound by an agreement to protect the confidentiality of your Personally Identifiable Information. Our computer systems are located in the United States of America, but the computer systems of our service providers may be located in another country. Your submission of Personally Identifiable Information constitutes your consent to the transfer and storage of your information across international borders. 
+If you choose to submit content to any public area of our websites or services, your content will be considered “public” and will be accessible by anyone, including us, and will not be subject to the privacy protections set forth in this Privacy Policy unless otherwise required by law. We encourage you to exercise caution when making decisions about what information you disclose in such public areas. 
 
-**Links to Other Websites**
+**III. How we share your information**
 
-SiteMeter's website contains links to other sites that are not owned or controlled by SiteMeter. Please be aware that we are not responsible for the privacy practices of such third party websites and this Policy does not govern such other websites or your use of them. This Policy applies only to information collected by our website. 
+**A. To deliver services**
 
-We encourage you to be aware when you leave our site and to read the privacy policies of each and every website that collects personally identifiable information. 
+In order to facilitate our delivery of advertising, analytics and other services, we may use or share the information we collect, including [interest-based segments](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ibs) and user interest profiles containing demographic information, location information, gender, age, interest information and information about your computer, device, or group of devices, including your [IP address](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ip_address), with our affiliates and third parties, such as our service providers, data processors, business partners and other third parties. 
 
-(1) For a comprehensive list of definitions and what constitutes "personally identifiable information" please visit <http://www.w3.org/TR/1998/WD-P3P10-harmonization-19980330>
+**B. With third party clients and partners**
 
-(2) For more information Regarding Cookies please see - <http://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp>
+Our online advertising services are used by advertisers, websites, applications and other companies providing online or internet connected advertising services. We may share information, including the information described in section III.A. above, with our clients and partners to enable them to deliver or facilitate the delivery of online advertising. We strive to ensure that these parties act in accordance with applicable law and industry standards, but we do not have control over these third parties. When you opt-out of our services, we stop sharing your interest-based data with these third parties. Click here for more information on opting out. 
 
-Additional Information Regarding Online Privacy Can Be Found At: <http://www.privacyalliance.org/>  
-[http://www.bbbonline.org](http://www.bbbonline.org/)  
-<http://www.truste.org/>
+**C. To protect or comply with our legal rights and obligations**
 
-**Mailing Address**  
-SiteMeter, Inc.  
-8721 Santa Monica Blvd.  
-Suite 960  
-Los Angeles, CA  
-90069-4507
+In addition to any other uses permitted in this Privacy Policy, there may be instances when we may disclose information we collect and receive where we have, in our discretion, a good faith belief that such disclosure is necessary in order to: (i) protect or defend our legal rights or property or those of our affiliates, employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of members of the public, including responding to emergencies where there appears to be a danger of death or injury to any person; (iii) protect against fraud or for risk management purposes and to investigate potential related issues; or (iv) comply with the law, law enforcement, or legal process or proceedings. 
+
+**D. To complete a merger or sale of assets**
+
+If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, or participate in any other similar business combination, we may transfer all or part of our data to the party or parties involved in the transaction as part of that transaction. You acknowledge that such transfers may occur, and that we and any purchaser of our business or assets may continue to collect, use and disclose your information in compliance with this Privacy Policy. 
+
+**E. With your consent**
+
+We may also share your information, including your [personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information), when we have your consent to do so. 
+
+**IV. Your choices**
+
+**A. Interest-based advertising opt-out**
+
+We offer an “opt-out cookie” to block the placement of our behavioral advertising cookies on your system for five years from the time you opt out. When we detect our opt-out cookie on your browser, we do not serve you with interest-based advertising. The opt-out cookie is browser and device specific. Therefore, if you use multiple devices, multiple browsers or have multiple users on a single device, you will need to perform the opt-out operation for each device, browser and user. If you delete your cookies, change browsers, or use a different device, you will need to opt-out again. Browser settings that block all cookies may prevent this opt-out from operating correctly and certain privacy software may delete the opt-out cookie or cause it to function incorrectly. Furthermore, the opt-out cookie is not effective on devices that do not accept or otherwise support cookies, such as iOS based mobile devices, internet connected televisions and other non-cookie based connected devices and applications. 
+
+You may install our opt-out cookie by clicking the button below: 
+
+Please note that if you choose to opt-out of interest-based advertising, it does not mean you will no longer receive advertising on the internet. However, it does mean that the display advertising you see will not be behaviorally targeted by us to your interests or preferences, so long as the opt-out cookie remains in place. Further, except for the specific restrictions noted above, our opt-out cookies do not otherwise prevent us from continuing to collect, maintain or use information as described herein. 
+
+**B. Platform and App-Based Opt-Out**
+
+Opting out of behaviorally targeted advertisements associated with PC, mobile, or other digital platform applications (also referred to as “apps”) and internet connected devices, such as iOS based mobile phones, internet connected televisions and other non-cookie based connected device platforms, requires a different process than opting-out of browser-based behavioral targeting. Opting-out in this context requires you to follow the process implemented by the application owner, platform device manufacturer, or third-party advertising network partners that control the placement of ads on the relevant app, device or other platform. Opting out on these apps, devices and platforms is a third-party process, and we take no responsibility for the actions or inactions those third parties with respect to their respective opt-out mechanisms, if any. 
+
+**C. Unsubscribe Opt-Out**
+
+If you would like to unsubscribe or opt-out of our use of your [personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information) that you have provided to us, all such unsubscribe or opt-out requests should be sent to us at [privacy@interactivemediaholding.com](mailto:privacy@interactivemediaholding.com) and we will process your request within a reasonable time after receipt. We are not responsible for removing your [personal information](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#personal_information) from the lists of any third party who has previously been provided your information in accordance with this Privacy Policy or your consent, such as a sponsor. You should contact such third parties directly. 
+
+**D. Other important information and links**
+
+For more information on the products and services covered by this Privacy Policy, please click [here](http://specificmedia.com/), [here](http://vindico.com/), or [here](http://sitemeter.com/). Please click [here](http://www.sitemeter.com/?a=termsofservice) to review the terms of use governing Site Meter’s services. 
+
+Specific Media and Vindico are members of the Network Advertising Initiative (NAI). The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [www.networkadvertising.org](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/www.networkadvertising.org).
+
+**V. Security**
+
+We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your information. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. 
+
+**VI. Health and financial related information**
+
+We create non-sensitive health and financial related [interest-based segments](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ibs) as part of our services, including general [interest-based segments](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ibs) such as “Health::Medical Centers” and “Finance::Insurance,” and custom [interest-based segments](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ibs) such as “Health::Dieting::Acai Berry” and “Health::Contact Lens.” However, we recognize that consumers may have differing opinions regarding which data segments are sensitive. Therefore, we encourage you to click [here](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyfh) for a list of our general health and financial related [interest-based segments](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ibs). We do not use [interest-based segments](https://web.archive.org/web/20131213140013id_/http%3A//www.sitemeter.com/?a=privacyterms#ibs) to determine credit worthiness or for insurance underwriting or employment eligibility purposes. 
+
+**VII. Children’s privacy**
+
+We are very sensitive to the importance of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children. We do not knowingly employ or offer services or target advertising towards or collect information from children under the age of 13. Although we make reasonable efforts to ensure that children do not use our services and are not behaviorally targeted (i.e., we do not knowingly provide targeted advertising to partner websites whose audience is comprised of primarily children under the age of 13), we cannot guarantee that your child will not be exposed to advertising provided by us, or that we have not received information related to your child’s online activities. If you believe your child has provided us with personally identifiable information, or registered at one of our websites, please contact us at [privacy@interactivemediaholding.com](mailto:privacy@interactivemediaholding.com) to have the data provided by and associated with your child deleted. 
+
+**VIII. Storage in the United States**
+
+This Privacy Policy is governed by the laws of the United States of America. Our servers are maintained in the United States of America. By using our services, you freely and specifically give us your consent to export your information to the USA and to store and use it in the USA as specified in this Privacy Policy. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA. 
+
+**IX. Data retention**
+
+We retain information that we collect and receive in non-aggregate form for as long as is reasonably necessary for the purposes for which it was collected, which in many cases is 12 months or less from your last interaction with our products or services, unless a longer retention period is required by law or is necessary in order to comply with regulatory audits, court orders, legal proceedings, or law enforcement requests. 
+
+**X. Changes to Privacy Policy**
+
+We will continue to evaluate this Privacy Policy in order to keep up with changing user needs, enhanced technologies, and as we develop new service offerings, and we may make changes to the policy accordingly. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. When changes are made to this Privacy Policy, we will revise the “Effective Date” found at the beginning of this Privacy Policy. 
+
+If we make any material changes to our privacy practices that may impact you, we will prominently post notice of the changes on our website(s) for a period of at least 30 days. We recommend that you check the Privacy Policy frequently to inform yourself of any changes. 
+
+**XI. Specific product practices**
+
+Please click [here](http://myspace.com/pages/privacy) to review the Myspace privacy policy. 
+
+**XII. Questions and comments**
+
+Questions and comments about our Privacy Policy should be directed to [privacy@interactivemediaholding.com](mailto:privacy@interactivemediaholding.com) or mailed to: 
+
+Privacy Officer   
+Interactive Media Holdings, Inc.   
+4 Park Plaza, Suite 1500   
+Irvine, CA 92614 
+
+  
+|     
+---|---|---  
+  
+  
+[ ](http://s40.sitemeter.com/stats.asp?site=s40sitemeterhtml)
