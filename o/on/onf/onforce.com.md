@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613124328id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213083923id_/http%3A//www.onforce.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Security Policies - OnForce
+# Privacy Policy - OnForce
 
 OnForce has created this Privacy Statement in order to demonstrate our firm commitment to privacy. This Privacy Statement is hereby incorporated in our Terms and Conditions of Use and by registering for our service, you accept the terms of this Privacy Statement. 
 
