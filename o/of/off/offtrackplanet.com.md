@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offtrackplanet.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630083306id_/http%3A//offtrackplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offtrackplanet.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213230721id_/http%3A//www.offtrackplanet.com/privacy) for the most accurate reproduction.*
 
 # Off Track Planet
 
