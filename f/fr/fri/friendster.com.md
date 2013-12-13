@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625194130id_/http%3A//www.friendster.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213040411id_/http%3A//www.friendster.com/privacy_policy) for the most accurate reproduction.*
 
 # Play Free Online Game | Free Online Games at Friendster
 
