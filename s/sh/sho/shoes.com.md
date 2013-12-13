@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512104713id_/http%3A//www.shoes.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213075406id_/http%3A//www.shoes.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Shoes.com
 
