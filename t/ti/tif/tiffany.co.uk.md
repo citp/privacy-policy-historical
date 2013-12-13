@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531054352id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213090629id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
 
-# Tiffany & Co. | Privacy Policy | United Kingdom
-
-## Privacy Policy
+# Tiffany & Co. | Privacy Policy
 
 [http://www.tiffany.co.uk](http://www.tiffany.co.uk/) "Website" is a site which is operated by Tiffany and Company and its subsidiaries (collectively, "Tiffany & Co.", "Group", "we", "us", "our",).
 
@@ -18,25 +16,23 @@ In general, you can use this Website without giving us any information.  Howeve
 
 We may collect the following information:
 
-  * account registration information including your name, telephone number, postal address and email address;
-  * billing information, transaction and credit card information (should you make a purchase with us);
-  * if you contact us, we may keep a record of that correspondence; and
-  * information regarding your personal or professional interests, demographics, experiences with our products and contact preferences in order to provide you with further correspondence about our products and services. 
-
+-account registration information including your name, telephone number, postal address and email address;  
+-billing information, transaction and credit card information (should you make a purchase with us);  
+-if you contact us, we may keep a record of that correspondence; and  
+-information regarding your personal or professional interests, demographics, experiences with our products and contact preferences in order to provide you with further correspondence about our products and services.    
 
 
 ### What do we do with the information we collect?
 
 We use this information to provide you with a better service, and in particular for the following reasons:
 
-  * internal record keeping;
-  * to improve our products and services;
-  * to communicate with you by email, telephone or post if you have ordered or purchased products from us, either regarding the order or purchase or other matters regarding transactions between us or your customer relationship with us;
-  * to communicate with you with regard to your Tiffany.com account, or your Tiffany & Co. Business Account;
-  * if you have purchased a product or requested a catalogue from us, you will be placed on the Tiffany & Co. mailing list and will receive periodic mailings by post from us (if you do not wish to receive a catalogue and/or periodic mailings by post please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 to let us know and you will be removed from our mailing list);
-  * to contact you by email, telephone, SMS, MMS or post according to your preferences, in order to share information with you about our products, services and events that may be of interest to you;
-  * to contact you for market research purposes, if you have not objected to such use. Please note that you can object to the use of your data for market research purposes at any time. To do so please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 to let us know.
-
+-internal record keeping;  
+-to improve our products and services;  
+-to communicate with you by email, telephone or post if you have ordered or purchased products from us, either regarding the order or purchase or other matters regarding transactions between us or your customer relationship with us;  
+-to communicate with you with regard to your Tiffany.com account, or your Tiffany & Co. Business Account;  
+-if you have purchased a product or requested a catalogue from us, you will be placed on the Tiffany & Co. mailing list and will receive periodic mailings by post from us (if you do not wish to receive a catalogue and/or periodic mailings by post please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 to let us know and you will be removed from our mailing list);  
+-to contact you by email, telephone, SMS, MMS or post according to your preferences, in order to share information with you about our products, services and events that may be of interest to you;  
+-to contact you for market research purposes, if you have not objected to such use. Please note that you can object to the use of your data for market research purposes at any time. To do so please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 to let us know.  
 
 
 ### Direct marketing
@@ -49,9 +45,8 @@ We would also like to provide you with the information above by email.  However
 
 If you are a customer or you have previously asked us for information on our products:
 
-  * We may contact you regarding your purchase or other matters regarding transactions between us or your customer relationship with us, or send you information on our range of products by email, unless you have asked us not to do so; and
-  * We may also use your email address to share information about our products, services and events that may be of interest to you by way of Tiffany & Co. informational emails, unless you have asked us not to do so.
-
+-We may contact you regarding your purchase or other matters regarding transactions between us or your customer relationship with us, or send you information on our range of products by email, unless you have asked us not to do so; and  
+-We may also use your email address to share information about our products, services and events that may be of interest to you by way of Tiffany & Co. informational emails, unless you have asked us not to do so.  
 
 
 Otherwise, when you provide us with personal information, we will ask you whether you would like us to send you Tiffany & Co. informational emails.
@@ -62,13 +57,12 @@ If you decide at any time that you no longer wish to receive marketing emails fr
 
 We will not transfer or disclose your personal information to third parties other than to: 
 
-  * the suppliers we engage to help us run our business;
-  * our affiliates, that is any member of our Group (meaning Tiffany and Company and its subsidiaries), as defined by applicable local law, in order to process your data for the same purposes or within the same activity as indicated in this Privacy Policy; or
-  * a purchaser or potential purchaser of our business,
+-the suppliers we engage to help us run our business;  
+-our affiliates, that is any member of our Group (meaning Tiffany and Company and its subsidiaries), as defined by applicable local law, in order to process your data for the same purposes or within the same activity as indicated in this Privacy Policy; or  
+-a purchaser or potential purchaser of our business,  
 
 
-
-unless we have your permission or are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use ](https://web.archive.org/web/20130531054352id_/http%3A//www.tiffany.co.uk/Service/Policy_ter.aspx) or [Terms of Sale ](https://web.archive.org/web/20130531054352id_/http%3A//www.tiffany.co.uk/Service/Policy_tos.aspx)and other agreements; or to protect the rights, property or safety of Tiffany & Co., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction within the framework of the relevant data protection law. 
+unless we have your permission or are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use ](https://web.archive.org/web/20131213090629id_/http%3A//www.tiffany.co.uk/Service/AboutTermsOfUse.aspx) or [Terms of Sale ](https://web.archive.org/web/20131213090629id_/http%3A//www.tiffany.co.uk/Service/AboutTermsOfSale.aspx)and other agreements; or to protect the rights, property or safety of Tiffany & Co., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction within the framework of the relevant data protection law. 
 
 Given that we are an international company, this process may include sending personal information to other countries, whose data protection laws may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area. Please see the section on 'Security and storage' below.
 
@@ -106,10 +100,9 @@ Cookies are small files that store information on your hard drive or browser tha
 
 We do not use any information obtained from cookies identifying individual customers for marketing purposes. We use cookies to:
 
-  * record your session information (such as the particular products you purchase from our Website);
-  * record your specific information on the web pages you select to view; and
-  * retain your answer to our question regarding residency.
-
+-record your session information (such as the particular products you purchase from our Website);  
+-record your specific information on the web pages you select to view; and  
+-retain your answer to our question regarding residency.  
 
 
 ### Which cookies do we use?
