@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incontact.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606043822id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incontact.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213222657id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | inContact
 
@@ -48,17 +48,22 @@ inContact offers various communications-related services, including local and lo
 
 ### Customer Rights
 
-CPNI is subject to federal and certain state laws and regulations. inContact is fully committed to complying with these CPNI laws and regulations. You have the right to protection of your confidential information and inContact has the duty to protect that information.
+In the normal course of providing services to its users and customers, inContact collects and maintains certain customer proprietary network information (“CPNI”). CPNI includes the types of telecommunications and interconnected VoIP services Customer currently purchases or subscribes to, how Customer uses those services (for example, Customer’s calling records), and billing information related to those services. Customer’s telephone number, name, and address do not constitute CPNI.
 
-If you prefer that inContact not use, disclose, or allow access to your CPNI to offer you our communications- related products and services to which you do not already subscribe, you may "opt-out" – that is, you may direct us not to make these disclosures across additional product lines within inContact. Your decision to opt-out will not affect the provision of any services to which you currently subscribe. IF WE DO NOT HEAR FROM YOU WITHIN 33 DAYS OF THE MAILING DATE OF THIS NOTIFICATION, WE WILL ASSUME THAT YOU APPROVE OUR USE OF YOUR CPNI FOR THE PURPOSES OF PROVIDING YOU WITH INFORMATION ABOUT OUR OTHER COMMUNICATIONS-RELATED SERVICES. YOU HAVE THE RIGHT TO DISAPPROVE OUR USE OF YOUR CPNI AND MAY DENY OR WITHDRAW OUR RIGHT TO USE YOUR CPNI AT ANY TIME. Your approval or denial of approval for the use of CPNI is valid until such time as your telephone services are discontinued or you affirmatively revoke or limit such approval or denial. If you have previously opted-out, you do not need to respond to this notice in order to maintain your current opt-out status. However, if you opt-out now, or maintain opt-out status, inContact’s ability to offer you certain services to which you do not currently subscribe, including promotions and cost-saving bundled services, may be limited.
+inContact does not sell, trade, or otherwise share Customer’s CPNI with anyone outside of inContact and those parties authorized to represent inContact to offer inContact’s services or to perform functions on inContact’s behalf related to inContact’s services, except as the law may require or Customer may authorize.  
+
+Federal law generally permits inContact to use CPNI in providing telecommunications and interconnected VoIP services to Customer, including billing and collections for those services.  inContact is also permitted to use or disclose CPNI to offer Customer communications services of the same type that Customer already purchases from inContact.  inContact may also use or disclose Customer CPNI for legal or regulatory reasons such as to respond to a court order, to investigate fraud, to protect inContact’s rights or property, to protect against the unlawful use of inContact’s services, or to protect other users.
 
 ### How to Contact Us to Opt-Out
 
-If you wish to opt-out or change your previous CPNI opt-out selection, please state your preference in writing to inContact at the following address:
+Customer may elect to prohibit inContact’s use of Customer’s CPNI to market services other than services of the same type that Customer already purchases from inContact by providing inContact with Customer’s “opt-out” notice within thirty (30)  calendar days of Customer’s Service commencement.  If you wish to opt out or change your previous CPNI opt-out selection, please state your preference in writing to inContact at the following address:
 
 inContact, Inc.  
 Kimm Partridge  
-Regulatory Compliance Officer  
-7730 S. Union Park Ave, Suite 500, Midvale, UT 84047
+Corporate Secretary  
+7730 S. Union Park Ave, Suite 500  
+Midvale, UT 84047.   
 
-Updated 12/21/2010
+Customer must include the following information in an opt-out request:  Name, account number, contact phone number, billing address and a clear statement that Customer would like to opt out of inContact marketing campaigns for services other than the type Customer already purchases from inContact.  If Customer fails to opt out in writing within such timeframe, Customer will be deemed to have given inContact consent to use Customer’s CPNI to market services other than services of the same type that Customer already purchases from inContact.  Restricting inContact’s use of Customer CPNI will not affect inContact’s provision of any service, nor will it necessarily eliminate all types of inContact marketing.
+
+Updated 10/28/2013
