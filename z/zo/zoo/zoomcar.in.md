@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the zoomcar.in privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617021143id_/http%3A//www.zoomcar.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomcar.in privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213014309id_/http%3A//www.zoomcar.in/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Zoomcar.in
 
 This Privacy Policy (the “Policy”) sets out how Zoom, Inc. (“Zoom”, “we”, “us” and/or “our”) collects, uses, shares and protects any information that you give us when you use this website (the “Site”). Zoom is committed to ensuring that your privacy is protected as your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about our users in order to provide, protect, maintain and improve our services, we feel you should fully understand the Policy surrounding the capture and use of that information. Please read the Policy carefully.
 
 http://www.zoomcar.in is owned and operated under legal name ZoomCar India Private Limited
+
+  
+
 
 ### Collection and Use of Personal Information:
 
@@ -20,6 +23,9 @@ Driver and Vehicle Information: As a member of Zoom’s Site, you authorize us t
 
 You have the right to request that Zoom discontinue use of your personal information. To withdraw your consent to our collection and processing of your information at any time, you may do so by simply changing your settings or closing your account.
 
+  
+
+
 ### Collection and Use of Non-Personal Information:
 
 We also collect non-personal information – data in a form that does not permit direct association with any specific individual, including IP addresses, usage details and identifying technologies. We may use, transfer, collect and disclose non-personal information for any purpose. If we do combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined.
@@ -28,11 +34,17 @@ Aggregate Information: We may share non-personally identifiable information (suc
 
 Third-party ad servers or ad networks may serve advertisements on the Zoom Site. These third-party ad servers or ad networks may automatically receive your IP address when they serve ads to your Internet browser. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. We do not provide any personally identifiable information to these third-parties without your consent. However, please note that if an advertiser asks Zoom to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The Zoom Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers.
 
+  
+
+
 ### Cookies:
 
 We use various technologies, including “cookies”, to collect non-identifiable information. A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. To enhance our Service, some Zoom pages use cookies, sent by Zoom or its third party vendors, or other technologies. You may control the effect of cookies through your browser settings, however some features of Zoom’s Service may not work properly if your use of cookies is disabled.
 
 We may also use Web beacon or other technologies, often in conjunction with cookies, to enhance our Service on a number of pages of Zoom’s website. A non-identifiable notice of a visitor’s visit to a page on Zoom’s site is generated and recorded, and which may be processed by us or by our suppliers. To disable some of these features, you may disable cookies in your web browser’s settings. Web beacon and other technologies will still detect visits to these pages, but the notices they generate are disregarded and cannot be associated with other non-identifiable cookie information.
+
+  
+
 
 ### Information Sharing:
 
@@ -52,9 +64,15 @@ We reserve the right to transfer any personal information we have about you in t
 
 We partner with outside companies to provide you with additional services related to Zoom, such as ride-sharing or parking benefits. When you purchase, register, or otherwise express interest in a product or service offered by a third party through Zoom or sponsored on our site, you consent to our sharing your personal information with those parties. Participation in rewards programs, discount offers, contests, or other programs that involve third parties, authorizes Zoom to share your personal information with those parties. A third party’s use of your information is bound by contracts and agreements between Zoom and the third party. We only share information reasonably needed to provide additional services, and such shared information may be bound by other privacy agreements. By sharing this information, you agree that Zoom is not liable or responsible for the actions or inactions of third parties. 
 
+  
+
+
 ### Links to Third-Party Websites:
 
 This Site may contain links to third-party websites, products, and services. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties. We cannot be responsible for these policies.
+
+  
+
 
 ### Information Security:
 
@@ -62,15 +80,24 @@ We take precautions – including administrative, technical, and physical measur
 
 When you use our services or post on the Site, some of the Personal Information you share is visible to other users and can be read, collected, or used by them. You are responsible for such Personal Information you choose to submit in these instances. For example, if you list your name and email address on the site, that information is public. Please take care when using these features. Further, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.
 
+  
+
+
 ### Updates to the Policy:
 
 Please note that this Policy may change from time to time. We will post any Policy changes on the Site and without prior notice to you. Please review the Policy each time you use the Site. By your continued use of the Site, you impliedly consent to the terms of the revised Policy.
+
+  
+
 
 ### Misc:
 
 While Zoom may retain any correspondence sent by you, Zoom it does not collect or save any information from children 15 years of age and younger.
 
 Zoom reserves the right to remove or edit content, refuse service, terminate accounts, or cancel plans or orders at its sole discretion.
+
+  
+
 
 ### How to Contact Us:
 
