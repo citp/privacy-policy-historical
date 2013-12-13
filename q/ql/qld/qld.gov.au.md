@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qld.gov.au privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608223142id_/https%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qld.gov.au privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213115559id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Queensland Government
 
-The Queensland Government manages personal information in line with the [_Information Privacy Act 2009_ (PDF, 836 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf) ( http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf ).
+The Queensland Government manages personal information in line with the [_Information Privacy Act 2009_ (PDF, 836 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
 
 We collect and manage your personal information as described on this page, unless stated otherwise. 'Personal information' may include your name, address, phone number, email address, age, gender, your employer, and your position title.
 
@@ -53,4 +53,4 @@ Where this site contains links to non-Queensland Government websites, the Queens
 
 ## More information
 
-[Email us](mailto:Government.Gateway@qld.gov.au) ( mailto:Government.Gateway@qld.gov.au ) if you would like to know more about information privacy.
+[Email us](mailto:Government.Gateway@qld.gov.au) if you would like to know more about information privacy.
