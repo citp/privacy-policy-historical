@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdinsider.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614191855id_/http%3A//wsdinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdinsider.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213024758id_/http%3A//wsdinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – WSD Insider
 
