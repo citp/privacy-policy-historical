@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectmind.com privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311104204id_/http%3A//www.perfectmind.com/SocialSite/Object/Records/PrivacyPolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectmind.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213040956id_/http%3A//www.perfectmind.com/academy/privacy) for the most accurate reproduction.*
 
 # Small Business Software - Management, Marketing, Billing
 
@@ -6,11 +6,11 @@
 
 ## **Privacy Policy**
 
-### **Effective October 15, 2012**
+Effective September 27, 2013 
 
- This privacy statement describes how PerfectMIND collects and uses the personal information you provide on our websites and platforms: PerfectMIND and Championsway. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy statement describes how PerfectMIND collects and uses the personal information you provide on our websites and platforms: PerfectMIND and Championsway. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-PerfectMIND, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and [TRUSTe’s TRUSTed Cloud Program Requirements ](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@Perfectmind.com](mailto:info@Perfectmind.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers information that is collected through this website and service PerfectMIND and Championsway and does not cover information that may be collected through our mobile applications or downloadable software.
+PerfectMIND, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/) and [TRUSTe’s TRUSTed Cloud Program Requirements ](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@Perfectmind.com](mailto:info@Perfectmind.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers information that is collected through this website and service PerfectMIND and Championsway and does not cover information that may be collected through our mobile applications or downloadable software.
 
 This privacy policy covers our collection, use and disclosure of information we collect through our website, [www.perfectmind.com](http://www.perfectmind.com/) and [www.championsway](http://www.championsway/)[.com](http://www.perfectmind.com/) and our service PerfectMIND and Championsway. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged PerfectMIND.
 
@@ -40,7 +40,7 @@ We may also disclose your personal information
 You can log in to our site using sign-in services such as Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.  
 
 **How Do We Protect Kids' Privacy?**  
-Consistent with the Children's [ **Online Privacy Protection Act**](http://en.wikipedia.org/wiki/Online_Privacy_Protection_Act) of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files.
+Consistent with the Children's [ **Online Privacy Protection Act**](http://en.wikipedia.org/wiki/Online_Privacy_Protection_Act) of 1998, we will never knowingly request personal information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files.
 
 **Information Collected for Our Customers:**  
 PerfectMIND collects information under the direction of its customers, and has no direct relationship with the individuals whose personal data it processes. PerfectMind works with its  customers to help them provide notice to their clients concerning, the purpose for which personal information is collected.  
@@ -48,19 +48,24 @@ PerfectMIND may transfer personal information to companies that help us provide 
 PerfectMIND will retain personal data we process on behalf of our Customers for as long as needed provide services to our Customer. PerfectMIND will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **What Are Cookies?  
-**How do we use cookies on this site? A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie. 
+**How do we use cookies on this site? A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personal information in your cookie. 
 
 We use cookies in order to improve your shopping experience. When you visit our site, your cookie helps us keep track of your order as you shop at our site. If you are a registered customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to monitor and maintain information about your use of our site. If you have not registered with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests and promotions. 
 
 We also use cookies to track and maintain the identity of the website you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other websites.
 
-The use of cookies by our service providers (i.e. Google, Facebook, AddThis, LivePerson) is not covered by our privacy statement.  We do not have access to these cookies.  Our service providers may use cookies to gather usage statistics of this website.
+The use of cookies by our service providers (i.e. Google, Facebook, AddThis, LivePerson) is not covered by our privacy policy.  We do not have access to these cookies.  Our service providers may use cookies to gather usage statistics of this website.
+
+**Behavioral Targeting / Re-Targeting**  
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads. 
+
+We use Google AdSense to publish ads on this site.  When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.   You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
 **Third Party Sites and Links:**  
  You may see various links throughout our site that lead to you another website, outside of perfectmind.com. These sites may include our affiliates, partners, or other sites that we believe are useful resources to our visitors. Because these links are to third party sites, perfectmind.com is not responsible for the privacy practices or any privacy issues that may arise on the third party sites. Please refer to the respective third party site for their privacy policies.
 
 **Other Third Party Tracking:**  
- Our third party partners employ clear gifs (a.k.a. web  beacons/web bugs), images, scripts and frames that help them better manage content on our site. We do not tie the information gathered to our customers’ or users’ personally identifiable information.  
+ Our third party partners employ clear gifs (a.k.a. web  beacons/web bugs), images, scripts and frames that help them better manage content on our site. We do not tie the information gathered to our customers’ or users’ personal information.  
  You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a registered user to allow you access to your account information.
 
 **How Do We Make Sure Your Order Information Is Secure?**  
@@ -68,7 +73,7 @@ The use of cookies by our service providers (i.e. Google, Facebook, AddThis, Liv
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100 per cent secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact [info@Perfectmind.com](mailto:info@Perfectmind.com).
 
 **Links to Other Websites:  **  
- Our site includes links to other websites whose privacy practices may differ from those of PerfectMIND. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
+ Our site includes links to other websites whose privacy practices may differ from those of PerfectMIND. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy statement of any website you visit.
 
 **PerfectMIND Lounge:**  
  Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@Perfectmind.com](mailto:info@Perfectmind.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
@@ -83,8 +88,8 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 **Data Retention:**  
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account    or request that we no longer use your information to provide you services contact us at [info@Perfectmind.com](mailto:info@Perfectmind.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Access to Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page, by emailing our Customer Support at [info@Perfectmind.com](mailto:info@Perfectmind.com) or by contacting us by telephone or postal mail at the contact information listed below. 
+**Access to Personal Information**  
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page, by emailing our Customer Support at [info@Perfectmind.com](mailto:info@Perfectmind.com) or by contacting us by telephone or postal mail at the contact information listed below. 
 
   **Notification of Privacy Policy Changes**  
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
