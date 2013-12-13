@@ -1,20 +1,17 @@
-<!--The following is the downloaded HTML source of the sportingcharts.com privacy policy that was archived on 2013-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607010828id_/http%3A//www.sportingcharts.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportingcharts.com privacy policy that was archived on 2013-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213191720id_/http%3A//www.sportingcharts.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
   <meta charset="UTF-8">
   <link rel="Shortcut Icon" href="/images/favicon.ico">
   <link rel="stylesheet" href="/css/reset.css" media="screen">
-  <link rel="stylesheet" href="/css/styles.css?v=1.2" media="screen">
+  <link rel="stylesheet" href="/css/styles.css?v=1.6" media="screen">
   <link type="text/css" href="/css/smoothness/jquery-ui-1.9.2.custom.min.css" rel="stylesheet">  
   <link type="text/css" href="/css/chosen.css" rel="stylesheet">  
   
-  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="http://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=197072523695723"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/knockout-2.2.0.js"></script>
-  <script type="text/javascript" src="/ScriptLibraries.ashx?library=jQueryLibs&amp;v=1.1"></script>
-  <script type="text/javascript" src="/ScriptLibraries.ashx?library=SCLibs&amp;v=1.7"></script>
-  
-  <script type="text/javascript" src="/scripts/NewsLetterBoxLogic.js"></script>
-  
+  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="http://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=197072523695723"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/ScriptLibraries.ashx?library=jQueryLibs&amp;v=1.15"></script>
+  <script type="text/javascript" src="/ScriptLibraries.ashx?library=SCLibs&amp;v=2.11"></script>
+	
   
   <title>SportingCharts.com | Privacy Policy</title>
 
@@ -30,8 +27,9 @@
     <meta property="og:url" content="www.sportingcharts.com">    
     <meta property="og:description" content="Changing the way people view and analyze sports statistics. Covering NFL, NBA, MLB, and NHL with stats, charts and analysis. Enhance your sports betting, fantasy play, and overall sports knowledge.">
   
-  
-  <script type="text/javascript">
+	
+	<script type="text/javascript" src="/scripts/NewsLetterBoxLogic.js"></script>
+	  <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-26748238-1']);
       _gaq.push(['_setDomainName', '.sportingcharts.com']);
@@ -39,68 +37,34 @@
 
       (function () {
           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
   </script>
-<script type="text/javascript">
-    $(document).ready(function () {
-
-
-        function megaHoverOver() {
-            $(this).find(".sub").stop().fadeTo('fast', 1).show();
-
-            //Calculate width of all ul's
-            (function ($) {
-                jQuery.fn.calcSubWidth = function () {
-                    rowWidth = 0;
-                    //Calculate row
-                    $(this).find("ul").each(function () {
-                        rowWidth += $(this).width();
-                    });
-                };
-            })(jQuery);
-
-
-        }
-
-        function megaHoverOut() {
-            $(this).find(".sub").stop().fadeTo('fast', 0, function () {
-                $(this).hide();
-            });
-        }
-
-
-        var config = {
-            sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
-            interval: 100, // number = milliseconds for onMouseOver polling interval    
-            over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
-            timeout: 500, // number = milliseconds delay before onMouseOut    
-            out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
-        };
-
-        $("ul#menu li .sub").css({ 'opacity': '0' });
-        $("ul#menu li").hoverIntent(config);
-
-        $(function () {
-            // Tabs
-            $('#tabs').tabs();
-
-            //hover states on the static widgets
-            $('#dialog_link, ul#icons li').hover(
-              function () { $(this).addClass('ui-state-hover'); },
-              function () { $(this).removeClass('ui-state-hover'); }
-            );
-        });
-
-        $('input[title!=""]').hint();
-		/*$(".searchBox").keydown(function (e) { if (e.keyCode == 13) { window.location = "/search.aspx?q=" + escape($(this).val()); } });*/
-		$(".searchBox").DynamicSearchBar();
-    });
+		<script type="text/javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + 
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
 </script>
-    <link href="http://plus.google.com/104695831919305381994" rel="publisher">
-	<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+	<script type="text/javascript">
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/101304068/ROS_300x250', [300, 250], 'div-gpt-ad-1378500117254-0').addService(googletag.pubads());
+	googletag.defineSlot('/101304068/ROS_Box', [336, 280], 'div-gpt-ad-1378500117254-1').addService(googletag.pubads());
+	googletag.defineSlot('/101304068/ROS_Leaderboard', [728, 90], 'div-gpt-ad-1378500117254-2').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});
+</script>
 </head>
 
 <body>
@@ -125,19 +89,22 @@
             <a href="/"><img src="/images/sporting-charts-logo.jpg" alt="Sporting Charts" title="Sporting Charts"></a>
             </div><!--left-->
             <div class="right">
-             <!-- AdSpeed.com Serving Code 7.9.5 for [Zone] ROS_Leaderboard [Any Dimension] -->
-<script type="text/javascript" src="http://g.adspeed.net/ad.php?do=js&amp;zid=38564&amp;wd=-1&amp;ht=-1&amp;target=_top"></script>
-<!-- AdSpeed.com End -->
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div><!--right-->
+            <!-- ROS_Leaderboard -->
+<div id="div-gpt-ad-1378500117254-2" style="width:728px; height:90px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378500117254-2'); });
+</script>
+</div>
+
+</div><!--right-->
         </div><!--logo container-->
         <div class="nav-container">
           <ul id="menu">
             <li class="homeNav"><a href="/">Home</a></li>
-            <li><a href="/nfl/">NFL</a>
+            <li><a href="#">NFL</a>
                <div class="sub">
                 <div class="secondary-nav">
-                 <a href="/nfl/">NFL Home</a><a href="/nfl/dictionary/">NFL Dictionary</a><a href="/stats/nfl/">NFL Statistics</a>
+					<a href="/nfl/">NFL Home</a><a href="/nfl/dictionary/">NFL Dictionary</a><a href="/stats/nfl/">NFL Statistics</a><a href="/stats/nfl/team/">NFL Team Stats</a><a href="/stats/nfl/player/">NFL Player Stats</a>
                </div>
                <div class="clear"></div>
               <ul>
@@ -199,7 +166,7 @@
                 </ul>
             </div>
                 </li>
-            <li><a href="/mlb/">MLB</a>
+            <li><a href="#">MLB</a>
                 <div class="sub">
                 <div class="secondary-nav">
               <a href="/mlb/">MLB Home</a><a href="/mlb/dictionary/">MLB Dictionary</a><a href="/stats/mlb/">MLB Statistics</a>
@@ -258,7 +225,7 @@
                 </ul>
             </div>
                 
-            </li><li><a href="/nba/">NBA</a>
+            </li><li><a href="#">NBA</a>
                          <div class="sub">
                <div class="secondary-nav">
                  <a href="/nba/">NBA Home</a><a href="/nba/dictionary/">NBA Dictionary</a><a href="/stats/nba/">NBA Statistics</a>
@@ -310,89 +277,106 @@
                     <li><a href="/nba/teams/6/dallas-mavericks/">Dallas Mavericks</a></li>
                     <li><a href="/nba/teams/10/houston-rockets/">Houston Rockets</a></li>
                     <li><a href="/nba/teams/29/memphis-grizzlies/">Memphis Grizzlies</a></li>
-                    <li><a href="/nba/teams/3/new-orleans-hornets/">New Orleans Hornets</a></li>
+                    <li><a href="/nba/teams/3/new-orleans-pelicans/">New Orleans Pelicans</a></li>
                     <li><a href="/nba/teams/24/san-antonio-spurs/">San Antonio Spurs</a></li>
                 </ul>
             </div>
                </li>
-            <li><a href="/nhl/">NHL</a>
+            <li><a href="#">NHL</a>
                 <div class="sub">
                <div class="secondary-nav">
-				   <a href="/nhl/">NHL Home</a><a href="/nhl/dictionary/">NHL Dictionary</a><a href="/stats/nhl/">NHL Statistics</a>
+				   <a href="/nhl/">NHL Home</a><a href="/nhl/dictionary/">NHL Dictionary</a><a href="/nhl/icetrack/">NHL Ice Track</a><a href="/stats/nhl/team/">NHL Team Stats</a><a href="/stats/nhl/player/">NHL Player Stats</a>
                </div>
                <div class="clear"></div>
-                   <ul>
-                  <li><h3 class="nav">Pacific</h3></li>
-                    <li><a href="/nhl/teams/4978/anaheim-ducks/">Anaheim Ducks</a></li>
-                    <li><a href="/nhl/teams/4962/dallas-stars/">Dallas Stars</a></li>
-                    <li><a href="/nhl/teams/4961/los-angeles-kings/">Los Angeles Kings</a></li>
-                    <li><a href="/nhl/teams/4977/phoenix-coyotes/">Phoenix Coyotes</a></li>
-                    <li><a href="/nhl/teams/4971/san-jose-sharks/">San Jose Sharks</a></li>
-                </ul>
-            
-                <ul>
-                  <li><h3 class="nav">Northwest</h3></li>
-                    <li><a href="/nhl/teams/4956/calgary-flames/">Calgary Flames</a></li>
-                    <li><a href="/nhl/teams/4970/colorado-avalanche/">Colorado Avalanche</a></li>
-                    <li><a href="/nhl/teams/4959/edmonton-oilers/">Edmonton Oilers</a></li>
-                    <li><a href="/nhl/teams/4983/minnesota-wild/">Minnesota Wild</a></li>
-                    <li><a href="/nhl/teams/4975/vancouver-canucks/">Vancouver Canucks</a></li>
-                </ul>
-                      <ul class="biglist">
-                  <li><h3 class="nav">Central</h3></li>
-                    <li><a href="/nhl/teams/4957/chicago-blackhawks/">Chicago Blackhawks</a></li>
-                    <li><a href="/nhl/teams/4982/columbus-blue-jackets/">Columbus Blue Jackets</a></li>
-                    <li><a href="/nhl/teams/4958/detroit-red-wings/">Detroit Red Wings</a></li>
-                    <li><a href="/nhl/teams/4980/nashville-predators/">Nashville Predators</a></li>
-                    <li><a href="/nhl/teams/4972/st-louis-blues/">St Louis Blues</a></li>
-                </ul>
-                
-                <ul class="mt">
-                  <li><h3 class="nav">Northeast</h3></li>
+                   <ul class="biglist">
+                  <li><h3 class="nav">Atlantic</h3></li>
                     <li><a href="/nhl/teams/4954/boston-bruins/">Boston Bruins</a></li>
                     <li><a href="/nhl/teams/4955/buffalo-sabres/">Buffalo Sabres</a></li>
-                    <li><a href="/nhl/teams/4963/montreal-canadiens/">Montreal Canadiens</a></li>
-                    <li><a href="/nhl/teams/4967/ottawa-senators/">Ottawa Senators</a></li>
+					<li><a href="/nhl/teams/4958/detroit-red-wings/">Detroit Red Wings</a></li>
+					<li><a href="/nhl/teams/4979/florida-panthers/">Florida Panthers</a></li>
+					<li><a href="/nhl/teams/4963/montreal-canadiens/">Montreal Canadiens</a></li>
+					<li><a href="/nhl/teams/4967/ottawa-senators/">Ottawa Senators</a></li>
+					<li><a href="/nhl/teams/4973/tampa-bay-lightning/">Tampa Bay Lightning</a></li>
                     <li><a href="/nhl/teams/4974/toronto-maple-leafs/">Toronto Maple Leafs</a></li>
-                </ul> 
-             
-             <ul class="mt">
-                  <li><h3 class="nav">Southeast</h3></li>
-                    <li><a href="/nhl/teams/4960/carolina-hurricanes/">Carolina Hurricanes</a></li>
-                    <li><a href="/nhl/teams/4979/florida-panthers/">Florida Panthers</a></li>
-                    <li><a href="/nhl/teams/4973/tampa-bay-lightning/">Tampa Bay Lightning</a></li>
-                    <li><a href="/nhl/teams/4976/washington-capitals/">Washington Capitals</a></li>
-                    <li><a href="/nhl/teams/4981/winnipeg-jets/">Winnipeg Jets</a></li>
                 </ul>
-               <ul class="biglist mt">
-                  <li><h3 class="nav">Atlantic</h3></li>
-                    <li><a href="/nhl/teams/4964/new-jersey-devils/">New Jersey Devils</a></li>
+            
+                <ul class="biglist">
+                  <li><h3 class="nav">Metropolitan</h3></li>
+                    <li><a href="/nhl/teams/4960/carolina-hurricanes/">Carolina Hurricanes</a></li>
+					<li><a href="/nhl/teams/4982/columbus-blue-jackets/">Columbus Blue Jackets</a></li>
+					<li><a href="/nhl/teams/4964/new-jersey-devils/">New Jersey Devils</a></li>
                     <li><a href="/nhl/teams/4965/new-york-islanders/">New York Islanders</a></li>
                     <li><a href="/nhl/teams/4966/new-york-rangers/">New York Rangers</a></li>
                     <li><a href="/nhl/teams/4968/philadelphia-flyers/">Philadelphia Flyers</a></li>
                     <li><a href="/nhl/teams/4969/pittsburgh-penguins/">Pittsburgh Penguins</a></li>
+					<li><a href="/nhl/teams/4976/washington-capitals/">Washington Capitals</a></li>
+					</ul><br>
+                      <ul class="biglist">
+                  <li><h3 class="nav">Central</h3></li>
+                    <li><a href="/nhl/teams/4957/chicago-blackhawks/">Chicago Blackhawks</a></li>
+					<li><a href="/nhl/teams/4970/colorado-avalanche/">Colorado Avalanche</a></li>
+					<li><a href="/nhl/teams/4962/dallas-stars/">Dallas Stars</a></li>
+					<li><a href="/nhl/teams/4983/minnesota-wild/">Minnesota Wild</a></li>
+					<li><a href="/nhl/teams/4980/nashville-predators/">Nashville Predators</a></li>
+					<li><a href="/nhl/teams/4972/st-louis-blues/">St Louis Blues</a></li>
+					<li><a href="/nhl/teams/4981/winnipeg-jets/">Winnipeg Jets</a></li>
                 </ul>
+                		<ul class="mt">
+                  <li><h3 class="nav">Pacific</h3></li>
+                    <li><a href="/nhl/teams/4978/anaheim-ducks/">Anaheim Ducks</a></li>
+					<li><a href="/nhl/teams/4956/calgary-flames/">Calgary Flames</a></li>
+					<li><a href="/nhl/teams/4959/edmonton-oilers/">Edmonton Oilers</a></li>
+					<li><a href="/nhl/teams/4961/los-angeles-kings/">Los Angeles Kings</a></li>
+                    <li><a href="/nhl/teams/4977/phoenix-coyotes/">Phoenix Coyotes</a></li>
+                    <li><a href="/nhl/teams/4971/san-jose-sharks/">San Jose Sharks</a></li>
+                    <li><a href="/nhl/teams/4975/vancouver-canucks/">Vancouver Canucks</a></li>
+                </ul> 
             </div>
                </li>
-            <li><a href="/dictionary/">Dictionary</a>
+			  <li><a href="/dictionary/">Dictionary</a>
             <div class="sub medium">
                 <div class="secondary-nav">
                   <a href="/nfl/dictionary/">NFL</a><a href="/mlb/dictionary/">MLB</a><a href="/nba/dictionary/">NBA</a><a href="/nhl/dictionary/">NHL</a><a href="/sports-betting/dictionary/">Sports Betting</a>
                </div>
               </div> 
             </li>
-            <li><a href="/chartbuilder/buildchart.aspx">ChartBuilder</a></li>
-            <li class="newsletterNav"><a href="/articles/reports/30-most-important-fantasy-football-tips-landing.aspx">Free Reports</a></li> 
+            <li><a href="#">Playground</a>
+			  <div class="sub">
+				  <div class="secondary-nav">
+					  <a href="/chartbuilder/buildchart.aspx">Chart Builder</a>
+					  <a href="/nhl/icetrack/">Ice Track</a>
+				  </div>
+				  <ul style="width: 400px;">
+					  <li style="width: 100%">
+						  <div>
+						  	<h3 class="nav"><a href="/chartbuilder/buildchart.aspx">Chart Builder | NFL MLB NHL NBA</a></h3>
+							  <div style="padding-left: 45px;">
+								Visualize and compare player and team statistics both past and present.
+							  </div>
+						  </div>
+					  </li>
+					  <li style="width: 400px;">
+						  <div style="width: 100%">
+							  <h3 class="nav"><a href="/nhl/icetrack/">Ice Track | NHL</a></h3>
+							  <div style="padding-left: 45px;">
+								  Compare the shot and goal locations of NHL players and teams with heatmaps and more.
+							  </div>
+						  </div>
+					   </li>
+                </ul>
+				</div>
+			  </li>
+			  <li class="newsletterNav"><a href="/nfl/teams/matchup/">NFL Matchups</a></li> 
             </ul>
         </div><!--nav-container-->
       <!-- <span style="color: #FF0000">Alert:</span> -->
         <div class="nav-secondary-container">
           <ul class="nav-secondary">
               <li><span style="color: #FF0000">Alert:</span></li>  
-            	<li><a href="/nhl/teams/4969/pittsburgh-penguins/">Pittsburgh Penguins</a></li>
+			  <li><a href="http://www.sportingcharts.com/nhl/icetrack/">NHL Fans! - Check out our new Shot and Goal Heatmaps</a></li>
+			  <!--  <li><a href="/mlb/teams/230/detroit-tigers/">Detroit Tigers</a></li>
 			  <li><a href="/nhl/teams/4957/chicago-blackhawks/">Chicago Blackhawks</a></li>
-              	<li><a href="/nba/teams/14/miami-heat/">Miami Heat</a></li>
-			  <li><a href="/nba/teams/24/san-antonio-spurs/">San Antonio Spurs</a></li>
+              	<li><a href="/nba/teams/14/miami-heat/">Miami Heat</a></li> -->
               <li style="float:right;"><input type="text" class="searchBox" title="Search Players, Teams or Definitions..."></li>
            
            </ul>
@@ -523,7 +507,7 @@ Last updated on November 1st, 2011</p>
          <ul class="footer-follow-module">
                   <li><a href="http://twitter.com/sportingcharts"><span class="footer-twitter-btn"></span></a></li>
                   <li><a href="http://www.facebook.com/sportingcharts"><span class="footer-fb-btn"></span></a></li>
-                    <li><a href="http://plus.google.com/104695831919305381994"><span class="footer-gp-btn"></span></a></li>
+                    <li><a href="http://plus.google.com/+Sportingcharts" rel="publisher"><span class="footer-gp-btn"></span></a></li>
               
                 </ul><!--footer-follow-module-->   
          </div><!--footer-content-left-->
@@ -532,11 +516,87 @@ Last updated on November 1st, 2011</p>
             </div><!--footer-content-right-->
         </div><!--footer-content-->
      </div><!--footer-container-->
-    <script type="text/javascript">
-        var infolink_pid = 389465;
-        var infolink_wsid = 0;
-    </script>
-    <!--<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main .js"></script>-->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-yKVCnqd5pLfm6"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-yKVCnqd5pLfm6.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+	
+<!-- Scripts -->
+<script type="text/javascript">
+    $(document).ready(function () {
+
+
+        function megaHoverOver() {
+            $(this).find(".sub").stop().fadeTo('fast', 1).show();
+
+            //Calculate width of all ul's
+            (function ($) {
+                jQuery.fn.calcSubWidth = function () {
+                    rowWidth = 0;
+                    //Calculate row
+                    $(this).find("ul").each(function () {
+                        rowWidth += $(this).width();
+                    });
+                };
+            })(jQuery);
+
+
+        }
+
+        function megaHoverOut() {
+            $(this).find(".sub").stop().fadeTo('fast', 0, function () {
+                $(this).hide();
+            });
+        }
+
+
+        var config = {
+            sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+            interval: 100, // number = milliseconds for onMouseOver polling interval    
+            over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+            timeout: 500, // number = milliseconds delay before onMouseOut    
+            out: megaHoverOut, // function = onMouseOut callback (REQUIRED) 
+			'activate_action':'click'
+        };
+
+        $("ul#menu li .sub").css({ 'opacity': '0' });
+        $("ul#menu li").hoverIntent(config);
+
+        $(function () {
+            // Tabs
+            $('#tabs').tabs();
+
+            //hover states on the static widgets
+            $('#dialog_link, ul#icons li').hover(
+              function () { $(this).addClass('ui-state-hover'); },
+              function () { $(this).removeClass('ui-state-hover'); }
+            );
+        });
+
+        $('input[title!=""]').hint();
+		$(".searchBox").DynamicSearchBar();
+    });
+</script>
 
 
 
