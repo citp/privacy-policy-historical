@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candere.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615111306id_/http%3A//www.candere.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candere.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213014446id_/http%3A//www.candere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Thank you for visiting Candere.com. Candere respects your privacy and we underst
 
   **Access to correction**
 
- Candere gives you access to the personal information that we have collected about you and the ability to correct any errors in such information. For instructions on how to access and/or make corrections to your personal information please contact our offices at 1-800-200-4014.
+ Candere gives you access to the personal information that we have collected about you and the ability to correct any errors in such information. For instructions on how to access and/or make corrections to your personal information please contact our offices at +91 22 28898568.
 
   **Children's privacy**
 
