@@ -1,101 +1,105 @@
-> *The following text is extracted and transformed from the metastock.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411032943id_/http%3A//metastock.com/Company/Legal/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metastock.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213054119id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - MetaStock.com
 
-Equis International has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the following Web sites: www.equis.com, www.metastock.com, www.qchartsmetastockpro.com, and www.reutersdatalink.com ("The Sites").
+This Privacy Statement relates solely to the online information collection and use practices of our Web Sites located at [www.metastock.com](http://www.metastock.com/), [www.qchartsmetastockpro.com](http://www.qchartsmetastockpro.com/), [http://forum.equis.com](http://forum.equis.com/), [ www.echarts.com](http://www.echarts.com/), [www.equis.com ](http://www.echarts.com/) and [www.reutersdatalink.com](http://www.echarts.com/) (these “Web Sites”), and not to any subdomains of these Web Sites. We recognize that many visitors and users of these Web Sites are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
-What we use your personal information for
+Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [ sales@MetaStock.com](mailto:sales@metastock.com)
 
-We use your IP address to help diagnose problems with our servers, and to administer the Web sites.
+####  What Information Do We Collect?
 
-A "cookie" is a piece of software, which may be sent to your computer. Cookies enable us to collect information about how our web sites and services are being used and to manage them more efficiently. Until you have registered, the cookie will only track general usage patterns and technical information about your computer type and will not be used to identify you individually. We also use agents with your computer to assist with our diagnosis of technical problems and therefore to obtain information about software versions installed and data transmitted, for software compliance purposes and for you/your company to receive software updates, new releases or additional software. Sometimes you can refuse or remove these agents but that means you will not receive this additional software and may suffer service problems and you may lose all rights to support. We therefore do not recommend that you remove or tamper with these agents.
+When you visit this Web Site, you may provide us with two types of information (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of this Web Site’s content or services. 
 
-Where advertising is served on to our web sites there may be cookies used to collect technical information and generic usage information but third party advertisers will not be able to relate this to you as an individual without your consent.
+####  Personal Information We Collect About You
 
-Registration forms on the sites may require users to provide contact information (such as name and email address). We use customer contact information from registration forms to send the user information about our company. The customer contact information is also used to contact the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+We may collect the following personal information about you:
 
-The sites may use order forms for customers to request information, products, and services. We collect customer contact information (such as name and email address) and financial information (such as account or credit card numbers). Contact information from order forms is used to fulfill orders and send information about our company to our customers. The customer contact information is also used to contact customers when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information is used to bill the customer for products and services.
+Personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis 
 
-On the sites, we may run contests in which users are asked for contact information (such as name and email address). Contact information from contests is used to send participants information about our company. Participant contact information may also be used to contact the participant when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+General user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of this Web Site’s content or services. 
 
-Calls to Help Desks
+MetaStock relationship data: This is data we obtain from our interactions with you, and may include details of the calls you have made to our sales or help desk, visits made to you by our staff, MetaStock (MetaStock) marketing materials you have received, your email communication with our staff, data about your preferred activities for marketing events or the MetaStock events you have attended. Calls made to MetaStock may be monitored and recorded for training and review processes. 
 
-Calls to telephone help desks may be recorded for quality control, regulatory and monitoring purposes.
+Credit card data: If you are subscribing to our products as an individual, we collect your credit card information in order to maintain your services. 
 
-International Transfer of Your Information
+Product usage data: This is data we obtain about your usage of MetaStock products and may include when and which products you have used and the content and functionality you have used in those products. 
 
-Because our services and the Reuters Group are international, personal data may be made available internationally, including in countries which do not have data protection laws, or laws which provide as much protection as in the country of origin. We seek to require those to whom we transfer your data to protect it and your privacy. This way we work to protect personal data transferred to countries which do not have data protection laws or whose laws are less strict
+Subscription data: This is data we obtain from our interactions with you and may include the products or data sets to which you subscribe or which you are enabled to access. 
 
-Security
+Surveys, competitions, prize draws: This is data you may provide when you participate in our competitions, prize draws or surveys. 
 
-The sites have security measures in place to protect the loss, misuse and alteration of information under our control.
+Cookies: Cookies are bits of software that are placed on your computer's hard drive when you visit certain MetaStock financial and media products. We use cookies to help us identify product features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are using a particular product. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all the product features. 
 
-Storage Methods and Duration
+IP Address: An IP address is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you use our professional financial and media products, we may view the IP address of the device you use to connect to those products. We use this information to determine the location of the device and to determine the number of devices simultaneously accessing the product.
 
-We may store your information in our databases, such as our Customer Relationship database, for reference. The information may be retained and used by us for a reasonable period, reflecting our need to answer queries or resolve problems, provide improved and new services and any data retention requirements of the law. This means we may retain information after an individual ceases to use our services or after the individual has ceased interacting with us. Except where the law, authorities or regulatory bodies require us to retain it for longer, we retain Traffic Data for a reasonable period after the Traffic Data was generated, including in some circumstances (such as with firewall logs or fault data) after any bill has been paid. The details of money laundering checks, user authentication or verification checks and details of trading or other regulated activity may be retained for so long as the law or the regulator requires or evidence of the trade is required.
+####  Personally Identifiable Information You Choose to Provide
 
-Passing your Information to Third Parties
+We may ask for certain personal information from you which is necessary to provide you with the content and/or services you request. For example some of the services which ask you to provide personal information include:
 
-Except where the law permits or unless you specifically agree, we do not sell or rent your personal data to others outside the Reuters Group.
-
-In some instances, we may pass information to third parties involved in the relevant Reuters Group service (such as to stock exchanges or third party information and software providers) who wish to manage and check the distribution of their information/software and obtain payment for it. They may then match it with the data they have for this purpose. You will generally know if such a transfer of your personal data happens, except if the third parties are simply working on our behalf as our subcontractors, administrators (such as companies that process credit card payments) or our professional advisers or if the data is required to be disclosed by law or to a regulator – then we might not inform you.
-
-If we sell a business division to another company and your personal data is used by that business then your data may be transferred to the buyer along with the business for them to use in the same way.
-
-Choice/Opt-Out
-
-The sites provide users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
-
-The sites give users the following options for removing their information from our database to not receive future communications, or to no longer receive our service.
-
-  * Send email to [sales@equis.com](mailto:sales@equis.com)  
- 
-  * Send mail to the following postal address:
-
-90 South 400 West  
-Suite 620  
-Salt Lake City, UT 84101
-
-  * Call either of the following telephone numbers: 800-508-9180 or 801-265-8886
+  * Newsletters and subscriptions 
+  * Contributing to blogs or to the forum website 
+  * Sharing pictures and videos 
+  * Submitting questions or feedback 
+  * Webinars, free books 
+  * Purchase of MetaStock products
 
 
 
-Change/Modify
+####  How Do We Use the Information We Collect?
 
-The sites give users the following options for changing and modifying information previously provided.
+Information about how we use your personal information is provided on our web-pages at the point you submit your personal information to us. Further We may use the personal information you provide us for the purpose of fulfilling our contractual obligations with you or your employer. Specifically, we may use your personal information as follows:
 
-  * Send email to [sales@equis.com](mailto:sales@equis.com)  
- 
-  * Send mail to the following postal address:
-
-90 South 400 West  
-Suite 620  
-Salt Lake City, UT 84101
-
-  * Call either of the following telephone numbers: 800-508-9180 or 801-265-8886
+  * **Administration:** We may use the personal information we collect about you to provide our products and services to you and to assist you in your use of our products. This may include setting up your access to a product, providing assistance or training for your use of the product, alerting you to product changes or maintenance periods and invoicing you or your employer for your use of the product. 
 
 
 
-Interception of Mail
+We may also use the personal information you provide us for the purposes of pursuing MetaStock legitimate business interests. Specifically, we may use your personal information as follows
 
-We may intercept some mail and email addressed to individuals in Equis. The reasons we may do this are related to security of Equis, its staff and others, for detection and prevention of crime and to identify correct recipients or to make sure mail is dealt with during staff absence. In the case of emails, we may reject, delay or remove content from emails which have a nature, content or attachments which may disrupt our systems or because they may pose security issues such as viruses. We may also filter out emails which contain certain content on the basis that content is offensive or the email is unwanted or spam. In certain circumstances this may unfortunately result in "innocent" emails being affected but we do try and reduce such occurrences.
+  * **Product/Service development, testing and improvement** : We may use the personal information we collect about you to develop, test and improve our products. Where we use your personal information in this way we have a policy of anonymizing the information where possible. We may also ask you to participate in surveys to improve our products and service delivery to you. Our surveys allow for customers to remain anonymous. Personal information obtained in our surveys may also be combined in an aggregate form. We use the data obtained through our surveys to plan and implement developments of, and enhancements to, our products, product ranges and areas of customer service. 
+  * **Marketing** : We may use certain information you provide to offer you products and services that we believe may be of interest to you or for market research purposes. If you don't wish to receive such offers or to be contacted directly, you may opt out (unsubscribe) as described below.
+  * We may provide access to your personally identifiable information when legally required to do so, to co-operate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of these Web Sites, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for those limited purposes . 
 
-Links to Other Sites
 
-The sites may contain links to other sites. The Reuters Group is not responsible for the privacy practices or the content of such Web sites.
 
-Definitions
+####  How Do You Access and/or Modify Your Personal Information?
 
-Reuters Group means Reuters Group plc and subsidiaries or corporate entities as they exist from time to time and in which Reuters Group plc has a direct or indirect ownership interest of 50% or more. This includes some companies which do not have the word "Reuters" in their corporate name and which use other brands such as Yankee, Tower, Lipper, Instinet, Radianz, ICor, Multex Investor or Bridge.
+If you visit this Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by contacting [ sales@metastock.com](mailto:sales@metastock.com). You will have the opportunity to access and revise certain personally identifiable information. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. 
 
-Contacting the Web Site
+####  How Do You Change your Preferences or Unsubscribe from Receiving Information or Marketing?
+
+If you would like to change your preferences or unsubscribe from receiving any of the information that you have requested from us, including marketing material, you may do this by contacting [sales@metastock.com](mailto:sales@metastock.com).
+
+####  Data Security
+
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
+
+####  Consent to Transfer
+
+Please be aware that as MetaStock is a global company, we may transfer your personal information to countries that may not guarantee the same level of protection for personal information as the one in which you reside. We are taking appropriate steps to provide an adequate level of protection to your personal information and no matter where you live, your personal information will be processed in accordance with the other provisions of this Privacy Statement. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+
+#### Thomson Reuters
+
+MetaStock uses Thomson Reuters permissioning and authentication systems to allow you access to MetaStock, MetaStock Pro, and MetaStock XENITH. By subscribing to or for any of these services your information will be automatically shared with Thomson Reuters to allow you access to the products you have purchased. By sharing information with Thomson Reuters you agree to their privacy policies: http://thomsonreuters.com/privacy_policy/ and other software policies that they may have. 
+
+####  Exchanges
+
+Exchanges reserve the right to contact any subscribers to their exchanges for any reason. When you subscribe to a real-time exchange (such as the New York Stock Exchange, or the London Metals Exchange), MetaStock is required to pass your contact information to that exchange. Typically client exchange communication will come from MetaStock but each exchange you have subscribed to reserves the right to contact you directly.
+
+#### Third Party Add-ons
+
+Select MetaStock add-ons use third party systems to authenticate and authorize usage to allow you access to products. In order for you to be able to access an add-on that uses these third party systems, MetaStock must share your information with a third party. MetaStock strives to have confidentiality agreements with these vendors to ensure that your information is not misused or shared, however, we cannot guarantee the usage of third party systems through systems and services that we do not maintain. If you have questions on which of the add-ons use these third party systems please contact MetaStock sales. By using any of these products, you agree to have your information shared with a third party. 
+
+####  Links
+
+These Web Sites contain links to third party sites as well as to other sites owned and/or operated by MetaStock. Please be aware that MetaStock is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other MetaStock sites may differ significantly from the privacy policy of these Web Sites. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site. 
+
+####  Contacting the Web Site
 
 If you have any questions regarding this privacy statement, the practices of the sites, or your dealings with the Web sites, you can contact:
 
-Equis Webmaster  
-Equis International  
-90 South 400 West  
-Suite 620  
-Salt Lake City, UT 84101
+MetaStock  
+4548 South Atherton Drive  
+Suite 200  
+Salt Lake City, UT 84123
 
-[webmaster@equis.com](mailto:webmaster@equis.com)
+© MetaStock 2013 
