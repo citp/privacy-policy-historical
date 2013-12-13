@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restorm.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603030932id_/http%3A//restorm.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restorm.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213223903id_/http%3A//restorm.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy • restorm.com
 
