@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629141444id_/http%3A//www.pinkcherry.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213074435id_/http%3A//www.pinkcherry.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PinkCherry Sex Toys Canada
 
@@ -26,4 +26,6 @@ How do you keep my information discreet on my credit card statement and shipping
 
 We use a plain box and ship under our parent company TBMBM, Inc. Your credit card statement will also show TBMBM, Inc.
 
-If you have any further questions please do not hesitate to contact us at [cs@pinkcherry.ca](mailto:cs@pinkcherry.ca).
+If you have any further questions 
+
+[please click here to contact us,](https://web.archive.org/contacts)
