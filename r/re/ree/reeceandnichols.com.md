@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620193348id_/http%3A//www.reeceandnichols.com/Content/Content.aspx%3FFooterID%3D183793) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213125344id_/http%3A//www.reeceandnichols.com/Content/Content.aspx%3FFooterID%3D183793) for the most accurate reproduction.*
 
-# PRIVACY |
+# Reece & Nichols
 
 At Reece & Nichols Realtors, we recognize that you expect privacy and security when it comes to information that personally identifies you and allows you to be individually contacted ("Personal Information"). Reece & Nichols Realtors has adopted the following privacy policy because we understand the need to safeguard the information you may be providing to us at our web site.
 
