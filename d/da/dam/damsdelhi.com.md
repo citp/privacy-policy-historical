@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damsdelhi.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613103531id_/http%3A//www.damsdelhi.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damsdelhi.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214000208id_/http%3A//www.damsdelhi.com/privacy_policy.php) for the most accurate reproduction.*
 
 # DAMS, NEET PG
 
