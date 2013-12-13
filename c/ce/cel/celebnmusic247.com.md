@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebnmusic247.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614050429id_/http%3A//celebnmusic247.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebnmusic247.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213160512id_/http%3A//celebnmusic247.com/privacy-policy) for the most accurate reproduction.*
 
-# CelebNMusic247.com | Privacy Policy | The Truth Be Told | Celebnmusic247
+# CelebNMusic247: Hollywood Buzz | Celebrity Dish | Reality Tea
 
 ### Privacy Policy
 
@@ -42,7 +42,7 @@
 
 #### **Third Party Advertising**
 
-> Ads appearing on this Web site may be delivered to users by CelebNMusic247 or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by CelebNMusic247 and does not cover the use of cookies by any advertisers. If you’d like to opt out of any data collection in regards to our advertisements, please go here: [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+> We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 #### **Security**
 
