@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115222928id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213160456id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for FishLore.com - Tropical Fish Information
 
 **PRIVACY POLICY**  
-
-
 Welcome to FishLore.com (the "Site").
 
 We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by FishLore.com (collectively, "Services") ("Authorized Customers").
@@ -56,12 +54,12 @@ We provide Visitors and Authorized Customers with a mechanism to delete/deactiva
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
 **Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We **strongly** encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We **strongly** encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. Some external links are monetized by VigLink or SkimLinks.
 
-© **FishLore.com - Tropical Fish Information** , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
+© **FishLore.com - Aquarium Fish Information** , All rights reserved.  
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
 * * *
 
-© FishLore.com - [Tropical Fish Information](http://www.fishlore.com/)  
-[SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm) | [Aquarium Fish SiteMap](http://www.fishlore.com/FishLore_SiteMap2.htm) | [Aquarium Fish Dictionary](http://www.fishlore.com/fishdictionary/dictionary.htm) | [Fish Blog](http://blog.fishlore.com/)
+© Fish Lore.com - providing tropical fish tank and aquarium information for freshwater fish and saltwater fish keepers.  
+[SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm) | [Aquarium Fish SiteMap](http://www.fishlore.com/FishLore_SiteMap2.htm) | [Aquarium Fish Dictionary](http://www.fishlore.com/fishdictionary/dictionary.htm) | [Fish Blog](http://blog.fishlore.com/) | [Privacy Policy](http://www.fishlore.com/PrivacyPolicy.htm) | [Contact Us](http://www.fishlore.com/fishforum/sendmessage.php)
