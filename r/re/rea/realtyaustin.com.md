@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the realtyaustin.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501010304id_/http%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyaustin.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213180700id_/http%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Realty Austin Privacy Policy
 
-##  **Realty Austin's Privacy Policy**
+## **Realty Austin's Privacy Policy**
 
-Effective date: 5/23/2011 
-
-Realty Austin has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirement](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at (512) 241-1300.  If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
-
- **Information Collection, Use, and Sharing**
+**Information Collection, Use, and Sharing**
 
 In order to use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the listings and services on our site in which you have expressed interest.
 
@@ -24,7 +20,7 @@ You may choose to stop receiving our newsletter or marketing emails by following
 
 **Your Access to and Control Over Information**
 
-You can do the following at any time by contacting us at 512-241-1300, via email at realtor@realtyaustin.com or by logging into your account. 
+You can do the following at any time by contacting us at 512-241-1300, via email at realtor@realtyaustin.com or by logging into your account.
 
     •    See what data we have about you, if any.
 
@@ -50,11 +46,11 @@ We use "cookies" on this site. A cookie is a piece of data stored on a site visi
 
 The use of cookies by our [partners, affiliates, tracking utility company, service providers] is not covered by our privacy statement.  We do not have access or control over these cookies.  Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order to keep track of your home preferences, etc.]
 
-**Web beacons** ****
+**Web beacons**
 
 Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
- **Customer Testimonials/Comments/Reviews**
+**Customer Testimonials/Comments/Reviews**
 
 We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
 
@@ -72,13 +68,13 @@ From time-to-time our site requests information via surveys or contests. Partici
 
 **Data Retention**
 
- We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at realtor@realtyaustin.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at realtor@realtyaustin.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Notification of Privacy Statement Changes**
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 512-241-1300 or via email at realtor@realtyaustin.com. 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 512-241-1300 or via email at realtor@realtyaustin.com.
 
 **Physical Address:**
 
