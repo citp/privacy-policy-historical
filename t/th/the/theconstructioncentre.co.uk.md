@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconstructioncentre.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627104802id_/http%3A//www.theconstructioncentre.co.uk/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstructioncentre.co.uk privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213093132id_/http%3A//www.theconstructioncentre.co.uk/information/privacy.html) for the most accurate reproduction.*
 
 # The Construction Centre - Privacy
 
@@ -40,7 +40,7 @@ We have a policy of continual improvement of our site. We therefore collect info
 
 ### Use of cookies
 
-Our cookie policy can be found [here](https://web.archive.org/web/20130627104802id_/http%3A//www.theconstructioncentre.co.uk/information/cookies.html)
+Our cookie policy can be found [here](https://web.archive.org/web/20131213093132id_/http%3A//www.theconstructioncentre.co.uk/information/cookies.html)
 
 With regards to Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) (used to serve ads on this site):
 
