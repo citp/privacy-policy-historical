@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handbags.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204830id_/http%3A//www.handbags.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbags.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213041115id_/http%3A//www.handbags.com/help/privacypolicy) for the most accurate reproduction.*
 
 # 
 
