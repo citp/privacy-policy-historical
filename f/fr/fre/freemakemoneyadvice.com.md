@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freemakemoneyadvice.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612210703id_/http%3A//www.freemakemoneyadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemakemoneyadvice.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213040551id_/http%3A//www.freemakemoneyadvice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Disclosure Policy Free MAKE MONEY Advice
+# Privacy & Disclosure Policy
 
 ### Privacy Policy
 
@@ -53,7 +53,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 From time to time we may revise its Privacy Policy if we make material changes to this policy, we will notify you here, either by email, or by means of a notice on our home page. Please check back periodically for any updates.
 
-Read [more](http://privacy.magnetic.is/w3c/policy.html).
+Read more.
 
 ### Disclosure policy
 
