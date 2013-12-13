@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esker.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514203249id_/http%3A//www.esker.com/safe-harbor-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esker.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213013929id_/http%3A//www.esker.com/safe-harbor-privacy-policy.asp) for the most accurate reproduction.*
 
 # Safe Harbor Privacy Policy
 
@@ -145,7 +145,7 @@ Esker will retain your personal information for as long as your account is activ
 Esker will work with you to resolve any concerns you may have about this Policy. To ask questions regarding this Policy or any of Esker's privacy practices, request the deletion of personal information, or issue a complaint, you can contact Esker via email or mail at the following address: 
 
 Esker, Inc.  
-Attn: General Counsel  
+Attn: General Counsel/Chief Compliance Officer-Esker, Inc.  
 1212 Deming Way, Suite 350  
 Madison, WI 53717  
 usprivacy@esker.com  
@@ -157,4 +157,4 @@ Esker may amend this Policy from time-to-time, consistent with the requirements 
 
 ## Last Updated
 
-July 2, 2012
+June 6, 2013 
