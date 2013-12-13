@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adirondacksolutions.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618052139id_/http%3A//adirondacksolutions.com/Privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adirondacksolutions.com privacy policy that was archived on 2013-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213010211id_/http%3A//www.adirondacksolutions.com/Privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 al//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
@@ -104,7 +104,7 @@
         //form element UserLogin required check
         if( !_CF_hasValue(_CF_this['UserLogin'], "TEXT", false ) )
         {
-            _CF_onError(_CF_this, "UserLogin", _CF_this['UserLogin'].value, "You must enter a username.");
+            _CF_onError(_CF_this, "UserLogin", _CF_this['UserLogin'].value, "You must enter an email address.");
             _CF_error_exists = true;
         }
 
@@ -147,6 +147,7 @@
 					<area shape="rect" coords="10,6,307,47" href="/ResetPassword.cfm">
 				</map>
 				<div id="login">
+					
 					<form name="form" id="form" action="/LoginCheck.cfm" method="post" onsubmit="return _CF_checkform(this)">
 						<table border="0" cellpadding="3" cellspacing="3" class="floatright">
 							<tbody><tr>
@@ -154,7 +155,7 @@
 								<td align="right"><span class="highlightorange">MyASI</span> <span class="whitetext">Login</span></td>
 							</tr>
 							<tr>
-								<td class="whitetext">Username</td>
+								<td class="whitetext">Email</td>
 								<td><input name="UserLogin" type="text" id="UserLogin" class="logininput"></td>
 							</tr>
 							<tr>
@@ -168,6 +169,7 @@
 						</tbody></table>
 						</form>
 
+					
 				</div>
 			</div>
 		</div>
@@ -195,8 +197,6 @@
 									<li><a href="/dim/">Data Interface Module</a></li>
 								
 									<li><a href="/parkadmin/">Parking Administrator</a></li>
-								
-									<li><a href="/guest_pass/">GuestPass Tracker</a></li>
 								
 									<li><a href="/conf_host/">The Conference Host</a></li>
 								
