@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biowebspin.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530104601id_/http%3A//www.biowebspin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biowebspin.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213154726id_/http%3A//www.biowebspin.com/more/privacy-policy) for the most accurate reproduction.*
 
-# Biowebspin | Privacy Policy
+# Privacy Policy - Biowebspin | Biowebspin
 
 Biowebspin pays a lot of attention to the security and good use of its members data.
 
