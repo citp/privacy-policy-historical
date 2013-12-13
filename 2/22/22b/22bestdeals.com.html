@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 22bestdeals.com privacy policy that was archived on 2013-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130518161335id_/http%3A//www.22bestdeals.com/pages/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 22bestdeals.com privacy policy that was archived on 2013-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213013518id_/http%3A//www.22bestdeals.com/pages/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,184 +18,117 @@ Privacy Policy - 22BestDeals.com</title>
 <meta name="Revisit-After" content="7 days">
 <meta name="Language" content="en-us">
 <link rel="shortcut icon" href="http://www.22bestdeals.com/images/favicon.ico">
-<link rel="stylesheet" href="http://www.22bestdeals.com/css/front/bestdeals_style.css" type="text/css">
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.22bestdeals.com/css/ie.css"><![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="http://www.22bestdeals.com/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://www.22bestdeals.com/js/custom.js"></script>
-<script src="http://www.22bestdeals.com/js/jquery.tabSlideOut.v1.3.js"></script>
 
-    <script type="text/javascript">
-    $(function(){
-        $('#slide-out-div').tabSlideOut({
-            tabHandle: '.handle',                     //class of the element that will become your tab
-            pathToTabImage: 'http://www.22bestdeals.com/images/get_quote1.png', //path to the image for the tab //Optionally can be set using css
-            imageHeight: '180px',                     //height of tab image           //Optionally can be set using css
-            imageWidth: '41px',                       //width of tab image            //Optionally can be set using css
-            tabLocation: 'right',                      //side of screen where tab lives, top, right, bottom, or left
-            speed: 300,                               //speed of animation
-            action: 'click',                          //options: 'click' or 'hover', action to trigger animation
-            topPos: '200px',                          //position from the top/ use if tabLocation is left or right
-            leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
-            fixedPosition: true                    //options: true makes it stick(fixed position) on scroll
-        });
-
-    });
-</script>
-<!-------------------------------Js & css for zoom------------------------------->
-<script type="text/javascript" src="http://www.22bestdeals.com/highslide/highslide-with-gallery.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.22bestdeals.com/highslide/highslide.css">
-
+<link href="http://www.22bestdeals.com/css/front/bestd_style.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="http://www.22bestdeals.com/css/front/header_slide.css" type="text/css" media="screen">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="http://www.22bestdeals.com/js/jquery.js"></script>
+  <script type="text/javascript" src="http://www.22bestdeals.com/js/scripts.js"></script>
+  <!--product slider-->
+  <link href="http://www.22bestdeals.com/css/front/carousel.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="http://www.22bestdeals.com/js/carousel.js"></script>
 <script type="text/javascript">
-	hs.graphicsDir = 'http://www.22bestdeals.com/highslide/graphics/';
-	hs.align = 'center';
-	hs.transitions = ['expand', 'crossfade'];
-	hs.outlineType = 'rounded-white';
-	hs.wrapperClassName = 'controls-in-heading';
-	hs.fadeInOut = false;
-	//hs.dimmingOpacity = 0.75;
 
-	// Add the controlbar
-	if (hs.addSlideshow) hs.addSlideshow({
-		//slideshowGroup: 'group1',
-		interval: 1000,
-		repeat: false,
-		useControls: true,
-		fixedControls: false,
-		overlayOptions: {
-			opacity: 1,
-			position: 'top right',
-			hideOnMouseOut: false
-		}
-	});
+  $(document).ready(function() {
+        
+        //options( 1 - ON , 0 - OFF)
+        var auto_slide = 0;
+            var hover_pause = 0;
+        var key_slide = 0;
+        
+        //speed of auto slide(
+        var auto_slide_seconds = 5000;
+        /* IMPORTANT: i know the variable is called ...seconds but it's 
+        in milliseconds ( multiplied with 1000) '*/
+        
+        /*move he last list item before the first item. The purpose of this is 
+        if the user clicks to slide left he will be able to see the last item.*/
+        $('#carousel_ul li:first').before($('#carousel_ul li:last')); 
+        
+        //check if auto sliding is enabled
+        if(auto_slide == 1){
+            /*set the interval (loop) to call function slide with option 'right' 
+            and set the interval time to the variable we declared previously */
+            var timer = setInterval('slide("right")', auto_slide_seconds); 
+            
+            /*and change the value of our hidden field that hold info about
+            the interval, setting it to the number of milliseconds we declared previously*/
+            $('#hidden_auto_slide_seconds').val(auto_slide_seconds);
+        }
+  
+        //check if hover pause is enabled
+        if(hover_pause == 1){
+            //when hovered over the list 
+            $('#carousel_ul').hover(function(){
+                //stop the interval
+                clearInterval(timer)
+            },function(){
+                //and when mouseout start it again
+                timer = setInterval('slide("right")', auto_slide_seconds); 
+            });
+  
+        }
+  
+        //check if key sliding is enabled
+        if(key_slide == 1){
+            
+            //binding keypress function
+            $(document).bind('keypress', function(e) {
+                //keyCode for left arrow is 37 and for right it's 39 '
+                if(e.keyCode==37){
+                        //initialize the slide to left function
+                        slide('left');
+                }else if(e.keyCode==39){
+                        //initialize the slide to right function
+                        slide('right');
+                }
+            });
+
+        }
+        
+        
+  });
+
+//FUNCTIONS BELLOW
+
+//slide function  
+function slide(where){
+    
+            //get the item width
+            var item_width = $('#carousel_ul li').outerWidth() + 10;
+            
+            /* using a if statement and the where variable check 
+            we will check where the user wants to slide (left or right)*/
+            if(where == 'left'){
+                //...calculating the new left indent of the unordered list (ul) for left sliding
+                var left_indent = parseInt($('#carousel_ul').css('left')) + item_width;
+            }else{
+                //...calculating the new left indent of the unordered list (ul) for right sliding
+                var left_indent = parseInt($('#carousel_ul').css('left')) - item_width;
+            
+            }
+            
+            
+            //make the sliding effect using jQuery's animate function... '
+            $('#carousel_ul:not(:animated)').animate({'left' : left_indent},500,function(){    
+                
+                /* when the animation finishes use the if statement again, and make an ilussion
+                of infinity by changing place of last or first item*/
+                if(where == 'left'){
+                    //...and if it slided to left we put the last item before the first item
+                    $('#carousel_ul li:first').before($('#carousel_ul li:last'));
+                }else{
+                    //...and if it slided to right we put the first item after the last item
+                    $('#carousel_ul li:last').after($('#carousel_ul li:first')); 
+                }
+                
+                //...and then just get back the default left indent
+                $('#carousel_ul').css({'left' : '-210px'});
+            });
+           
+}
+  
 </script>
-<!------------------------------------------------------------------------------------->
-<script language="javascript"> 
-	$(function()  { $("div.scroll_part").scrollable({size: 4});
-	
-	$("#help").submit(function(){
-		dataString = $("#help").serialize();
-	
-		$.ajax({
-		type: "POST",
-		url: "index.php?c=help&m=submit",
-		data: dataString,
-		dataType: "json",
-		success: function(data) {
-		
-		
-			if(data.output == "invalid"){ 
-							/*$("#help_ajax").html("<div class='help_ajax'>Error in Submission, Please Retry.</div>"); */
-							alert('Error in Submission, Please Retry');
-			} else {
-							/*$("#help_ajax").html("<div class='help_ajax'>Thanks, Your Request Has Been Submitted.</div>");*/
-							$("#full_name").val('');
-							$("#phone_no").val(''); 
-						//	$("#subject").val('');
-							$("#comment").val(''); 
-							alert('Thanks, Your Request Has Been Submitted. Our Representative will soon get in touch with you.');
-			}
-		}
-		
-		
-		});
-		
-		return false;			
-		
-
-	});
-	
-		$("#subscribe_newsletter").submit(function(){
-		
-		dataString = $("#subscribe_newsletter").serialize();
-	
-		$.ajax({
-		type: "POST",
-		url: "index.php?c=help&m=newsletter_subscribe",
-		data: dataString,
-		dataType: "json",
-		success: function(data) {
-		
-		
-			if(data.output == "invalid"){ 
-							/*$("#help_ajax").html("<div class='help_ajax'>Error in Submission, Please Retry.</div>"); */
-							alert('Please insert correct values');
-			} else {
-							/*$("#help_ajax").html("<div class='help_ajax'>Thanks, Your Request Has Been Submitted.</div>");*/
-							$("#newsletter_name").val('');
-							$("#newsletter_email").val(''); 
-							alert('Thank you for subscribing our special offers and product promotions');
-			}
-		}
-		
-		
-		});
-		
-		return false;			
-		
-
-	});
-
-	});
-</script>
-<script type="text/javascript">
-function submit_feedback()
-{
-if(document.customer_feedback.c_name.value=='' || document.customer_feedback.c_name.value==0){
- alert('Please Enter Your Name');
- document.customer_feedback.c_name.focus();
- return false;
-}
-if(document.customer_feedback.c_email.value=='' || document.customer_feedback.c_email.value==0){
- alert('Please Enter Your Email Id');
- document.customer_feedback.c_email.focus();
- return false;
-}
-var frmEmail1 =document.customer_feedback.c_email.value.toLowerCase();
-if (document.customer_feedback.c_email.value != 0) 
-{
-var frmEmailformat = /^[^@\s]+@([-a-z0-9]+\.)+([a-z]{2}|com|net|edu|org|gov|mil|int|biz|pro|info|arpa|aero|coop|name|museum)$/;
-if (!frmEmailformat.test(frmEmail1)) 
-	{
-		alert('Please enter valid email id');
-		document.customer_feedback.c_email.select();
-		return false;
-	}
-		
-}
-if(document.customer_feedback.c_feedback.value=='' || document.customer_feedback.c_feedback.value==0){
- alert('Please Enter Your Feedback');
- document.customer_feedback.c_feedback.focus();
- return false;
-}
-var xmlhttp;
-if (window.XMLHttpRequest)
-  {// code for IE7+, Firefox, Chrome, Opera, Safari
-  xmlhttp=new XMLHttpRequest();
-  }
-else
-  {// code for IE6, IE5
-  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  }
-xmlhttp.onreadystatechange=function()
-  {
-  if (xmlhttp.readyState==4 && xmlhttp.status==200)
-    {
-    if(xmlhttp.responseText=='0'){
-	 alert('Error in submission please try again');
-	}else{
-	 alert('Thank you for your valuable feedback.');
-	 document.customer_feedback.c_name.value='';
-	 document.customer_feedback.c_email.value='';
-	 document.customer_feedback.c_feedback.value='';
-	}
-    }
-  }
-if(document.customer_feedback.feed_submit.value!=''){
-xmlhttp.open("GET","index.php?c=front&m=add_feedback&name="+document.customer_feedback.c_name.value+"&email="+document.customer_feedback.c_email.value+"&feed="+document.customer_feedback.c_feedback.value,true);
-}
-xmlhttp.send();
-}
-</script>
+<script type="text/javascript" src="http://www.22bestdeals.com/js/bestmenu.js"></script>
 <script type="text/javascript">
 var _qevents = _qevents || [];
 
@@ -212,7 +145,6 @@ _qevents.push({
 qacct:"p-f3l07n001Ij9o"
 });
 </script></head>
-
 <!-- Quantcast Tag -->
 
 
@@ -223,24 +155,37 @@ qacct:"p-f3l07n001Ij9o"
 </noscript>
 <!--End Quantcast Tag -->
 
-
-<div id="outerDivHome"> <div class="topMenu" style="font:14px arial !important;">
-<div class="contactUs" style="margin:5px 0px 0px 628px;"><!--<a href="http://www.22bestdeals.com/pages/contact-us.html">Contact Us</a>--></div><!--<img src="images/call_us.png" alt="Call Us : 09310408880" style="margin:5px 104px 0px 338px; float:left; display:inline;" class="png"/>-->
-
-<img src="http://www.22bestdeals.com/images/22_top_menu.gif" alt="Call Us : 09310508880" style="margin:0px 0px 0px 23px; float:left; display:inline;">
-
-<div class="fbsignnew" style="line-height:23px !important;">
-<!--<div class="fbsign">-->
-        <a href="http://www.22bestdeals.com/signin.html" style="color:#fff;">Log In</a>
-	/ <a href="http://www.22bestdeals.com/billing-info.html" style="color:#fff;">Register</a>
-	 |<a href="http://www.22bestdeals.com/my_orders.html" style="color:#fff; margin:4px">My Account</a>
-	 |<a href="http://www.22bestdeals.com/contact-us.html" style="color:#fff; margin:4px">Need Help?</a>
-	 	 
-	 
-</div>
-<div class="fbicon" style="margin-top:3px !important;">
-<div id="fb-root"> <script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<div id="fb-root"></div><script>		
+<div id="wrapper">
+<script type="text/javascript">
+function get_search(form){
+	var xmlhttp;
+	if (window.XMLHttpRequest)
+	{// code for IE7+, Firefox, Chrome, Opera, Safari
+	xmlhttp=new XMLHttpRequest();
+	}
+	else
+	{// code for IE6, IE5
+	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	xmlhttp.onreadystatechange=function()
+	{
+	if (xmlhttp.readyState==4 && xmlhttp.status==200)
+	{
+	alert(form.search.value);
+	
+	}
+	}
+	xmlhttp.open("GET","index.php?c=search&m=track_user_search&v_keyword="+document.getElementById('search_1').value,true);
+	xmlhttp.send();	
+		
+	}
+</script>
+<div class="bg_head_1">
+<div id="header_top">
+<div style="float:left;"><img src="http://www.22bestdeals.com/bestdimages/header_top.jpg" alt="Call us on 09310508880"></div>
+<div class="top_bg">
+<!--<div id="fb-root"> </div>-->
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div><script>		
 		function logoutFacebookUser() {
 			FB.logout(function(response) {
 			  window.location.reload();
@@ -251,56 +196,59 @@ qacct:"p-f3l07n001Ij9o"
 		
 		function fbActionConnect() {
 			FB.login(function(response) {
-			  if (response.session) {
-			  	//alert('logged in');
-			  	window.location = "./connect.php";
-			    if (response.perms) {
-			    	//alert('perm ok');
-			    }
-			    else {
-			    }
+			  if (response.authResponse) {
+			   window.location='http://www.22bestdeals.com/index.php?c=fb&m=merafblogin';
 			  }
 			  else {
 			  }
 			}, {perms:'read_stream,publish_stream,email'});
 		}
 	    
-	    window.fbAsyncInit = function() {FB.init({appId: 185233561531820, status: true, cookie: true, xfbml: true});};(function() {var e = document.createElement('script'); e.async = true;e.src = document.location.protocol +'//connect.facebook.net/en_US/all.js';document.getElementById('fb-root').appendChild(e);}());</script><a href="javascript:" onclick="fbActionConnect();"><img src="http://www.22bestdeals.com/images/fb_bt_small.png" alt="Facebook Icon" border="0">
-</a></div>
+	    window.fbAsyncInit = function() {FB.init({appId: 185233561531820, status: true, cookie: true, xfbml: true});};(function() {var e = document.createElement('script'); e.async = true;e.src = document.location.protocol +'//connect.facebook.net/en_US/all.js';document.getElementById('fb-root').appendChild(e);}());</script><a href="http://www.22bestdeals.com/signin.html"><img src="http://www.22bestdeals.com/bestdimages/login.png" alt="Log In"></a>
+<a href="http://www.22bestdeals.com/signin.html"><img src="http://www.22bestdeals.com/bestdimages/register.png" alt="Register"></a>
+<a href="http://www.22bestdeals.com/my-orders.html"><img src="http://www.22bestdeals.com/bestdimages/my_account.png" alt="My Account"></a>
+<a href="http://www.22bestdeals.com/contact-us.html"><img src="http://www.22bestdeals.com/bestdimages/need_help.png" alt="Need Help"></a>
+<a href="http://www.22bestdeals.com/bulk-order.html"><img src="http://www.22bestdeals.com/bestdimages/bulk_orders.jpg" alt="Bulk Orders"></a>
 </div>
-<div class="logoSearch">
-<!--<div class="dontMiss"><img id="openlightboxeyed" src="images/cash.jpg"  alt="Don't Miss Rs. 100 Cash Discount" border="0" class="disco" style="cursor:pointer;" /></div>-->
-<!--<a href="javascript:void(window.open('http://www.22bestdeals.com/livezilla/chat.php','','width=590,height=610,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="images/live.png"  alt="Live Chat" class="chat png"/></a>-->
-
-</div>  <div class="menuBody"> <div class="logo"><a href="http://www.22bestdeals.com/"><img src="http://www.22bestdeals.com/images/22bestlogo.png" alt="22Bestdeals Logo " border="0" class="png"></a></div>
-<div class="logoSearch">
+</div><!--end of header top-->
 </div>
+<div class="bg_head">
+<div style="clear:both;"></div>
+<div class="header_top">
+<div id="logo"><a href="http://www.22bestdeals.com/"><img src="http://www.22bestdeals.com/bestdimages/22bestlogo.png" alt="22bestdeals.com"></a></div>
+<div class="search_top">
+<form method="get" action="http://www.22bestdeals.com/">
+<div>
+<input id="search_1" name="search_val" type="text" class="search_top_input" onblur="if(this.value==''){this.value='What are you looking for?';}" onfocus="if(this.value=='What are you looking for?'){this.value='';}" value="What are you looking for?"></div>
+<div><input name="Submit" type="submit" class="lens" value=" " onclick="return get_search(this);">
+</div>
+</form>
 <a href="http://www.22bestdeals.com/index.php?c=front&amp;m=checkout" title="Items in your cart">
-<div id="shoping">
-0 Item(s)
-</div></a>
-<div class="mainMenu">
-  <ol>
-    <li><img src="http://www.22bestdeals.com/images/menu_left.png"><a href="http://www.22bestdeals.com/">Today's Deals</a><img src="http://www.22bestdeals.com/images/menu_right.png"></li>
-    <li><img src="http://www.22bestdeals.com/images/menu_left.png"><a href="http://www.22bestdeals.com/all-best-deals.html">Best 22 Deals</a><img src="http://www.22bestdeals.com/images/menu_right.png"></li>
-    <li><img src="http://www.22bestdeals.com/images/menu_left.png"><a href="http://www.22bestdeals.com/other-deals.html">Other Deals</a><img src="http://www.22bestdeals.com/images/menu_right.png"></li>
-	<li><img src="http://www.22bestdeals.com/images/menu_left.png"><a href="http://www.22bestdeals.com/special-deals.html" style="padding-top:7px !important;"><img style="margin:-6px; width:173px;" src="http://www.22bestdeals.com/images/tab2.jpg"></a><img src="http://www.22bestdeals.com/images/menu_right.png"></li>
-  </ol>
+<div id="shopping"><p>0 Item(s)</p></div>
+</a>
+</div><!--end of serach top -->
+<div id="menu">
+<div id="menu-container" class="menu_ul">
+<ul id="navigationMenu">
+<li><a href="http://www.22bestdeals.com/" class="normalMenu">Best 22 Deals</a></li>
+<li><a href="http://www.22bestdeals.com/d-household-1242.html" class="normalMenu">Household</a></li>
+<li><a href="http://www.22bestdeals.com/d-kitchen-1243.html" class="normalMenu">Kitchen</a></li>
+<li><a href="http://www.22bestdeals.com/d-health-6.html" class="normalMenu">Health</a></li>
+<li><a href="http://www.22bestdeals.com/d-fashion-3.html" class="normalMenu">Fashion</a></li>
+<li><a href="http://www.22bestdeals.com/other-deals.html" class="normalMenu">Others</a></li>
+</ul>
 </div>
-<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/today_deals_new.jpg">
-<!--<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/today_deals.jpg" />-->
-<!--<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/pre_deals.jpg" />-->
-<!--<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/product_landing_banner.png" />-->
-<!--<img style="margin:0px; border: solid 1px #bdbdbd;" src="http://www.22bestdeals.com/images/other_deals.jpg" />-->
-    <div class="bodyNewHome "> <!-- Main Div Start Here-->
-<div id="about">
-  <div class="top"></div>
-  <div class="mid">
-    <h1>Privacy Policy</h1>
-    <br>
-    <br>
-  
-    <span><p>22bestdeals and its affiliates respect your privacy. This Privacy Policy provides succinctly in the manner your data is collected and used by 22bestdeals. You are advised to please read the Privacy Policy carefully. By accessing the services provided by 22bestdeals you agree to the collection and use of your data by 22bestdeals in the manner provided in this Privacy Policy.</p>
+</div>
+<div class="clear"></div> 
+<div style="background-image:url(http://www.22bestdeals.com/bestdimages/bottom_menu_bg.jpg); background-repeat:repeat-x; height:9px; position:relative; top:-10px;"></div> 
+<div style="clear:both;"></div>
+</div><!--end of header top --><div style="clear:both;"></div>
+<div style="background:#FFFFFF; float:left; padding-bottom:3px; ">
+<div><img src="http://www.22bestdeals.com/bestdimages/coupon.jpg" width="953" height="53"></div>
+<div id="title_bg" style="width:953px; margin-bottom:10px;"><div class="title"> Privacy Policy </div></div>
+	<div class="text_para">
+<p>
+</p><p>22bestdeals and its affiliates respect your privacy. This Privacy Policy provides succinctly in the manner your data is collected and used by 22bestdeals. You are advised to please read the Privacy Policy carefully. By accessing the services provided by 22bestdeals you agree to the collection and use of your data by 22bestdeals in the manner provided in this Privacy Policy.</p>
 <p><b>We want you to:</b></p>
 <p>• Feel comfortable using our website</p>
 <p>• Feel secure submitting your information to us</p>
@@ -308,12 +256,11 @@ qacct:"p-f3l07n001Ij9o"
 <p>• Know that by using our website you are consenting to the collection of certain data. We are committed to protect your personal privacy. 22bestdeals will not share your telephone number or email address, except when it is needed to deliver a product or service you ordered.</p>
 <p>• We will not disclose your account information. In other words, we will never rent or sell your name, address, email address or personal details to any third party.</p>
 <p>• We do not store any credit card details at our end. This information is collected primarily to ensure that we are able to fulfill your requirements and to facilitate&nbsp;a truly personalized shopping experience.</p>
-<p>• However, in case of a situation wherein we are obliged to comply with law or a statutory obligation or a legal process, we would be compelled to provide information about a customer.</p></span> </div>
-  <div class="bottom"></div>
+<p>• However, in case of a situation wherein we are obliged to comply with law or a statutory obligation or a legal process, we would be compelled to provide information about a customer.</p><p></p>
 </div>
-<!-- Main Div End Here--> </div>
-  </div>
-  <script language="Javascript">
+</div>
+<div class="clear"></div><div class="clear"></div>
+<script type="text/javascript" language="javascript">
       <!--
       function isNumberKey(evt)
       {
@@ -325,87 +272,148 @@ qacct:"p-f3l07n001Ij9o"
       }
       //-->
 </script>
-<div id="footer">
-  <div class="footerMiddle">
-    <div class="payment">
-	<div class="payment_option">
-	<div class="brand"> <img src="http://www.22bestdeals.com/images/creditcard.jpg" alt="credit card" border="0"> <img src="http://www.22bestdeals.com/images/debitcard.jpg" alt="debit card" border="0"> <img src="http://www.22bestdeals.com/images/cheque.jpg" alt="bank cheque" border="0"> <img src="http://www.22bestdeals.com/images/netbanking.jpg" alt="net banking" border="0"> <img src="http://www.22bestdeals.com/images/dd.jpg" alt="demand draft" border="0"> <img src="http://www.22bestdeals.com/images/bank_deposit.jpg" alt="bank deposit" border="0"> <img src="http://www.22bestdeals.com/images/cod.jpg" alt="cash on delivery" border="0"> </div>
+<script language="javascript"> 
+function newsletter_subs()
+{
+
+if(document.getElementById('newsletter_email').value=='' || document.getElementById('newsletter_email').value==0){
+ alert('Please insert your valid email id');
+ return false;
+}
+var xmlhttp;
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	 
+	 if(xmlhttp.responseText=='invalid'){
+	  alert('Please insert correct values');
+	 }else{
+	  document.getElementById('newsletter_email').value='';
+	  alert('Thank you for subscribing our special offers and product promotions');
+	 }
+    }
+  }
+xmlhttp.open("POST","index.php?c=help&m=newsletter_subscribe&newsletter_email="+document.getElementById('newsletter_email').value,true);
+xmlhttp.send();
+}
+</script>
+<div id="page_footer">
+	<div class="area"><h2>Corporate Information</h2>
+	<p><a href="http://www.22bestdeals.com/pages/about-22best-deals.html">About 22bestdeals</a></p>
+	<p><a href="http://www.22bestdeals.com/pages/partner-with-us.html">Partner With Us</a></p>
+	<p><a href="http://www.22bestdeals.com/contact-us.html">Contact Us</a></p>
+	<p><a href="http://www.22bestdeals.com/pages/terms-and-conditions.html">Terms &amp; Conditions</a></p>
+	<p><a href="http://www.22bestdeals.com/pages/privacy-policy.html">Privacy Policy</a></p>
+	<p><a href="http://www.22bestdeals.com/payment-options.html">Payment Options</a></p>
+	<p><a href="http://www.22bestdeals.com/testimonial.html">Testimonials</a></p>
+	<p><a href="http://atdoorstepindia.com" target="_blank">Partner's Site</a></p>
+	</div>
+	<div class="area"><h2>Some Important Links</h2>
+	<p><a href="http://www.22bestdeals.com/">Best 22 Deals</a></p>
+	<!--<p><a href="air-sofa-bed.html">Air Sofa Bed</a></p>-->
+	<p><a href="http://www.22bestdeals.com/blog">Our Blog</a></p>
+	<p><a href="http://www.22bestdeals.com/how-to-buy.html">How to Buy?</a></p>
+	<p><a href="http://www.22bestdeals.com/track-your-order.html">Track Your Order</a></p>
+	<p><a href="http://www.22bestdeals.com/pages/sitemap.html">Sitemap</a></p>
+	</div>
+	<div class="area"><h2>Connect With Us </h2>
+	<div class="clear"></div>
+	<div class="social_networks">
+	<div class="social_network"><a href="https://plus.google.com/104944661557687114011" class="googleplus"><img src="http://www.22bestdeals.com/bestdimages/googleplus.png" border="0" style="margin-top:3px;"><div class="social_link_text">Google+</div></a></div>
+	<div class="social_network"><a href="https://twitter.com/22bdeals" class="twitter"><img src="http://www.22bestdeals.com/bestdimages/twitter_icon.png" border="0"><div class="social_link_text">Twitter</div></a></div>
+	<div class="social_network"><a href="http://www.youtube.com/22bestdeals" class="googleplus"><img src="http://www.22bestdeals.com/bestdimages/youtube_icon.png" style="margin-top:5px;" border="0"><div class="social_link_text">You Tube</div></a></div>
+	<div class="social_network"><a href="http://www.22bestdeals.com/rss.xml" class="rss"><img src="http://www.22bestdeals.com/bestdimages/rssicon.png" width="25" height="26" style="margin-top:3px;" border="0"><div class="social_link_text">RSS</div></a>
+	</div>
+	<!--<div class="social_network">
+	<g:plusone size="medium" annotation="none"></g:plusone>
+	<script type="text/javascript">
+	(function() {
+	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	po.src = 'https://apis.google.com/js/plusone.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+	</script>
+	</div>-->
 	</div>
 	</div>
-    <div class="corLink padBottomBrand">
-      <div class="topLink">
-        <ul>
-          <li><a href="http://www.22bestdeals.com/pages/about-22best-deals.html">About 22bestdeals</a></li>
-          <li><a href="http://www.22bestdeals.com/pages/partner-with-us.html">Partner With Us</a></li>
-          <li><a href="http://www.22bestdeals.com/contact-us.html">Contact Us</a></li>
-          <li><a href="http://www.22bestdeals.com/pages/terms-and-conditions.html">Terms &amp; Conditions</a></li>
-          <li><a href="http://www.22bestdeals.com/pages/privacy-policy.html">Privacy Policy</a></li>
-		  <li><a href="http://www.22bestdeals.com/payment-options.html">Payment Options</a></li>
-		  <!--<li><a href="http://www.22bestdeals.com/suggest-a-deal.html">Suggest a Deal</a></li>-->
-        </ul>
-      </div>
-    </div>
-    <div class="corLink padBottomBrand">
-      <div class="topLink someLink">
-        <ul>
-          <!--<li><a href="pages/all-category.html">All Categories</a></li>-->
-          <li><a href="http://www.22bestdeals.com/pages/sitemap.html">Sitemap</a></li>
-          <!--<li><a href="http://www.22bestdeals.com/pages/help-center.html">Help Center</a></li>-->
-		  <li><a href="http://www.22bestdeals.com/">Today's Deals</a></li>
-		  <li><a href="http://www.22bestdeals.com/all-best-deals.html">Best 22 Deals</a></li>
-		  <li><a href="http://www.22bestdeals.com/other-deals.html">Other Deals</a></li>
-		  <li><a href="http://www.22bestdeals.com/air-sofa-bed.html">Air Sofa Bed</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="news22best">
-      <div class="links"> <span>Enter your Name &amp; email ID to sign up for our special offers and product promotions:</span>
-        <form method="post" id="subscribe_newsletter">
-          <!--<label>Name :</label>
-          <input name="newsletter_name" id="newsletter_name" type="text" class="inputFooter" />-->
-          <label>E-Mail ID :</label>
-          <input name="newsletter_email" id="newsletter_email" type="text" class="inputFooter">
-          <input name="news_submit" type="submit" class="submitButton" value=" ">
-        </form>
-        <p style="margin-top:13px !important;">Connect With Us:</p>
-        <a href="http://www.facebook.com/22shoppe" target="_blank"><img src="http://www.22bestdeals.com/images/facebookIcon.gif" alt="Facebook" border="0"></a> <a href="http://www.youtube.com/22bestdeals" target="_blank"><img src="http://www.22bestdeals.com/images/youtubeIcon.gif" alt="YouTube" border="0"></a> <a href="https://twitter.com/22bdeals" target="_blank"><img src="http://www.22bestdeals.com/images/twitterIcon.gif" alt="Twitter" border="0"></a> <a href="http://www.22bestdeals.com/rss_22.html" target="_blank"><img src="http://www.22bestdeals.com/images/rssicon.jpg" alt="RSS" border="0"></a>
-		<div style="float:right; margin-top:10px;"> <!-- Place this render call where appropriate -->
-	    <g:plusone size="medium" annotation="none"></g:plusone>
-		<script type="text/javascript">
-		(function() {
-		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		po.src = 'https://apis.google.com/js/plusone.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-		})();
-		</script></div>
-		<span class="copyColor ">Copyright © 2012 - 2013 22bestdeals.com</span> </div>
-		</div>
-      
-    
-  </div>
+	<div class="area"><h2>Payment Options</h2>
+	<div style="float:left; z-index:1000;"><img src="http://www.22bestdeals.com/bestdimages/payment_option.jpg" alt="Payment Options"></div>
+	</div>
+	<div class="suscrib">
+	<h2 style="margin-left:0px !important;">Offer Alerts - Never Miss a Great Deal</h2>
+	<form id="subscribe_newsletter">
+	<span style="color:#CCCCCC; font-style:italic;">Enter your email address to sign up for our special offers and promotions</span>
+	<div><input name="newsletter_email" id="newsletter_email" type="text" class="subs_input">
+	<input name="news_submit" type="button" class="subscrib_button" value=" " onclick="newsletter_subs();"></div>
+	</form>
+	
+	</div><!--end of suscribe-->
+	<div class="securePayem">
+		<!--<h3>22bestdeals has Safe & Secure Payment Gateway</h3>	-->
+		<div style="float:right;"><img src="http://www.22bestdeals.com/bestdimages/01PcIcompliAnt.jpg" alt="PCI Complaint"></div>
+	</div><!--end of securepaym-->
+	<div class="clear"></div>
+	<div style="width:953px; margin-left:10px; margin-top:3px;">
+	
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		
+		<div class="fb-like" data-href="http://www.facebook.com/22shoppe" data-width="450" data-colorscheme="dark" data-show-faces="true" data-send="true"></div>
+	
+	</div>
+	<div class="clear"></div>
+	<div align="center" style="color:#CCCCCC;">Copyright © 2010 - 2013 22bestdeals.com</div>
 </div>
 <form name="form1">
  <input type="hidden" name="rrttuu" id="rrttuu" value="0">
-</form> </div>
-<!--<div id="slide-out-div">
-            <a class="handle">Content</a>
-			<div id="sideBarContents">
-			<div id="target" class="delete" style="cursor:pointer"><img src="http://www.22bestdeals.com/images/delete.png"></div>  
-		<form name="customer_feedback">
-      
-            <label style="margin-top:0px !important"> Name: </label>
-            <input style="margin-top:0px !important" name="c_name" id="c_name"  type="text">
-          
-			<label> Email: </label>
-            <input name="c_email" id="c_email" type="text">
-           
-          <label> Feedback: </label>
-            <textarea  name="c_feedback" rows="3" cols="4"></textarea>
-            <label> </label>
-            <input class="get_bttn" type="button" name="feed_submit" value=" " onclick="return submit_feedback();" />
-        </form>
-            </div>
-</div>-->
+</form><!--end of page footer-->
+<p id="back-top">
+		<a href="#top"><span></span></a>
+</p>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
+</div>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -421,4 +429,4 @@ qacct:"p-f3l07n001Ij9o"
 </script>
 
 
-</body></html>
+</div></body></html>
