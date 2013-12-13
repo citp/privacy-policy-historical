@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followinginmyshoes.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613042742id_/http%3A//followinginmyshoes.com/rachel_lacy/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followinginmyshoes.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213081944id_/http%3A//followinginmyshoes.com/rachel_lacy/disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Following In My Shoes | Texas Mom Blog
 
