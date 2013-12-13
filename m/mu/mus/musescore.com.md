@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musescore.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523040607id_/http%3A//musescore.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musescore.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213072123id_/http%3A//musescore.com/legal/privacy) for the most accurate reproduction.*
 
 # MuseScore Privacy Policy | MuseScore.com
 
