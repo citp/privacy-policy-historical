@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611190339id_/http%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.in privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213184509id_/http%3A//www.nestle.in/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Nestlé India
 
@@ -22,4 +22,4 @@ Nestlé may change this Privacy Policy, change, modify or withdraw access to thi
 
 This Agreement is governed by the laws of the Republic of India. This Agreement is deemed to have been signed and executed in New Delhi, India and you expressly submit yourself to the exclusive jurisdiction of the Indian Laws and the Courts in New Delhi, India only, in respect of any disputes arising in any manner out of or relating to this site. You expressly waive any objection of whatsoever nature to Indian jurisdiction and agree not to raise any objection or take any plea as to Indian jurisdiction on the ground of forum inconvenient, delay, expense, hardship or otherwise howsoever. 
 
-Please [click here](https://web.archive.org/info/copyright) for copyright. 
+[Please click here for copyright.](https://web.archive.org/info/copyright)
