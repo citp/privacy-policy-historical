@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drinkhint.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507131845id_/http%3A//www.drinkhint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinkhint.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213044558id_/http%3A//www.drinkhint.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy / Terms of Use
 
-Hint Inc. (Hint Essence Water) recognizes the importance of protecting the privacy of personal information collected from users of our Web site. By accessing our Web site, you are assenting to the terms of this Privacy Statement and the terms of the user agreement.
+Hint Inc. (hint essence water) recognizes the importance of protecting the privacy of personal information collected from users of our Web site. By accessing our Web site, you are assenting to the terms of this Privacy Statement and the terms of the user agreement.
 
 ### INFORMATION COLLECTION AND USE
 
@@ -16,7 +16,7 @@ Hint Inc. will use your financial information to bill you for products and servi
 
 ### Contests and Promotions:
 
-When entering a contest or other promotional feature, Hint Inc. may ask for the user's contact information (such as name, address and email address) and demographic information (such as zip code). The contact information will be used so we are able to administer the contest and promotions and to notify winners. The demographic information will be used for purposes of monitoring or improving the Web site. Participation in these contests and promotions is completely voluntary.
+When entering a contest or other promotional feature, Hint Inc. may ask for the user’s contact information (such as name, address and email address) and demographic information (such as zip code). The contact information will be used so we are able to administer the contest and promotions and to notify winners. The demographic information will be used for purposes of monitoring or improving the Web site. Participation in these contests and promotions is completely voluntary.
 
 ### Newsletters:
 
@@ -28,7 +28,7 @@ Hint Inc. takes precautions to protect the personal information we collect from 
 
 ### LINKS
 
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other Web sites that you may link to from the Hint Inc. Web site. We ask our users to be aware that when they enter other Web sites they will be subject to privacy practices that may differ from ours. We encourage you to read the privacy statement of each Web site that you link to and that collects personally identifiable information. 
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other Web sites that you may link to from the Hint Inc. Web site. We ask our users to be aware that when they enter other Web sites they will be subject to privacy practices that may differ from ours. We encourage you to read the privacy statement of each Web site that you link to and that collects personally identifiable information.
 
 ### CONSENT AND NOTIFICATION OF CHANGES
 
@@ -36,4 +36,4 @@ By using our Web site, you consent to the collection and use of personal informa
 
 ### FEEDBACK
 
-Hint Inc. welcomes your questions, comments, and concerns about privacy. Please send any and all feedback pertaining to this, or any other issue to [info@drinkhint.com](mailto:info@drinkhint.com). 
+Hint Inc. welcomes your questions, comments, and concerns about privacy. Please send any and all feedback pertaining to this, or any other issue to [info@drinkhint.com](mailto:info@drinkhint.com).
