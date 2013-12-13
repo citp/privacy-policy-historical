@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613035434id_/http%3A//www.jckonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213041740id_/http%3A//www.jckonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JCK
 
