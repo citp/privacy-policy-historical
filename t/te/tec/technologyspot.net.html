@@ -1,0 +1,665 @@
+<!--The following is the downloaded HTML source of the technologyspot.net privacy policy that was archived on 2013-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213185801id_/http%3A//www.technologyspot.net/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+<title>Privacy – Technology Spot</title> 
+<meta name="description" content="Technology Spot is designed to provide daily technology news on the latest gadgets, including software, hardware and gadgets from around the world.">
+<meta name="keywords" content="Technology News,gadgets, gadget, laptop, notebook, computer, desktop">
+	<link rel="stylesheet" href="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/style.css" type="text/css" media="screen">
+    <link rel="shortcut icon" href="">
+    <link rel="shortcut icon" href="" type="image/x-icon">
+    <meta name="generator" content="Magazine3 Framework Version 3.0">
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="Technology Spot RSS Feed" href="http://www.technologyspot.net/feed/">
+	<link rel="pingback" href="http://www.technologyspot.net/xmlrpc.php">
+	<script type="text/javascript" src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/js/jquery-1.4.4.min.js"></script>
+	<script type="text/javascript" src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/js/ddsmoothmenu.js"></script> 
+    <script type="text/javascript" src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/js/jquery.tools.min.js"></script>
+ <script type="text/javascript">
+var $ = jQuery.noConflict();
+$(document).ready(function() {
+
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+
+});
+</script>
+ <script type="text/javascript">
+$(document).ready(function() {
+	//Tooltips
+	$(".tip_trigger").hover(function(){
+		tip = $(this).find('.tip');
+		tip.show(); //Show tooltip
+	}, function() {
+		tip.hide(); //Hide tooltip		  
+	}).mousemove(function(e) {
+		var mousex = e.pageX + 20; //Get X coodrinates
+		var mousey = e.pageY + 20; //Get Y coordinates
+		var tipWidth = tip.width(); //Find width of tooltip
+		var tipHeight = tip.height(); //Find height of tooltip
+		
+		//Distance of element from the right edge of viewport
+		var tipVisX = $(window).width() - (mousex + tipWidth);
+		//Distance of element from the bottom of viewport
+		var tipVisY = $(window).height() - (mousey + tipHeight);
+		  
+		if ( tipVisX < 20 ) { //If tooltip exceeds the X coordinate of viewport
+			mousex = e.pageX - tipWidth - 20;
+		} if ( tipVisY < 20 ) { //If tooltip exceeds the Y coordinate of viewport
+			mousey = e.pageY - tipHeight - 20;
+		} 
+		tip.css({  top: mousey, left: mousex });
+	});
+});
+
+</script>
+	 <script type="text/javascript">
+ $(document).ready(function() {
+
+ $("div.scrollable").scrollable({
+
+		size: 3,
+		items: '#thumbs',   
+		hoverClass: 'hover',
+		speed: 400,
+		keyboard: false,
+		clickable: false
+
+	}).navigator();	
+	  
+  		
+});
+</script>
+  
+ <script type="text/javascript">   
+
+  // when the DOM is ready...        
+
+$(document).ready(function () {      
+
+  // load the ticker                 
+
+	createTicker();                    
+
+});                                  
+
+function createTicker(){             
+
+	// put all list elements within #ticker-area into array   
+
+	var tickerLIs = $("#ticker-area ul").children();          
+
+	tickerItems = new Array();                                
+
+	tickerLIs.each(function(el) {                             
+
+		tickerItems.push( jQuery(this).html() );                
+
+	});                                                       
+
+	i = 0                                                     
+
+	rotateTicker();                                           
+
+}                                                           
+
+function rotateTicker(){                                    
+
+	if( i == tickerItems.length ){                            
+
+	  i = 0;                                                  
+
+	}                                                         
+
+  tickerText = tickerItems[i];                              
+
+	c = 0;                                                    
+
+	typetext();                                               
+
+	setTimeout( "rotateTicker()", 5000 );                     
+
+	i++;                                                      
+
+}                                                           
+
+var isInTag = false;                                        
+
+function typetext() {	                                      
+
+	var thisChar = tickerText.substr(c, 1);                   
+
+	if( thisChar == '<' ){ isInTag = true; }                  
+
+	if( thisChar == '>' ){ isInTag = false; }                 
+
+	$('#ticker-area').html("&nbsp;" + tickerText.substr(0, c++));   
+
+	if(c < tickerText.length+1)                                     
+
+		if( isInTag ){                                                
+
+			typetext();                                                 
+
+		}else{                                                        
+
+			setTimeout("typetext()", 28);                               
+
+		}                                                             
+
+	else {                                                          
+
+		c = 1;                                                        
+
+		tickerText = "";                                              
+
+	}	                                                              
+
+}                                                                 
+
+  </script> 
+			
+	   	<link rel="alternate" type="application/rss+xml" title="Technology Spot » Privacy Comments Feed" href="http://www.technologyspot.net/privacy/feed/">
+<script type="text/javascript" src="http://www.technologyspot.net/wp-includes/js/comment-reply.min.js?ver=3.5"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.technologyspot.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.technologyspot.net/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Advertise" href="http://www.technologyspot.net/advertise/">
+<meta name="generator" content="WordPress 3.5">
+<link rel="canonical" href="http://www.technologyspot.net/privacy/">
+  
+      <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css">
+       <link href="http://fonts.googleapis.com/css?family=Molengo" rel="stylesheet" type="text/css">
+       <link href="http://fonts.googleapis.com/css?family=Droid+Serif:regular,bold&amp;subset=latin" rel="stylesheet" type="text/css">
+       <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+ 
+
+<link rel="canonical" href="http://www.technologyspot.net/privacy/">
+</head>
+
+<body>
+
+<div id="wrapper">
+
+	<header><div id="topmenu">
+<div id="topmenuleft">
+			<div id="topMenu" class="ddsmoothmenu"><ul id="menu-top" class="menu"><li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-75"><a href="http://www.technologyspot.net/">Home</a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://www.technologyspot.net/abou/">About</a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://www.technologyspot.net/contact-us/">Contact us</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://www.technologyspot.net/advertise/">Advertise</a></li>
+</ul></div></div>
+<div id="topmenuright">
+ <ul>
+ <li id="rssb">
+ Sat, Dec 2013 </li>
+ <li class="rssnav"><a href="">RSS</a></li>
+ <li><a href="">Newsletter</a></li>
+ </ul>
+</div>
+</div>
+	 
+     <div id="logowrap">
+     <div id="logo"><a href="http://www.technologyspot.net"><img src="/wp-content/uploads/logo.png" alt=""></a></div>
+     <div id="logohead">
+     <div id="headad">  
+    <a href="http://click.linksynergy.com/fs-bin/click?id=gf3OtEQKPbE&amp;offerid=291620.12&amp;subid=0&amp;type=4"><img border="0" alt="Anti-Glare_Screen_Protectors" src="http://ad.linksynergy.com/fs-bin/show?id=gf3OtEQKPbE&amp;bids=291620.12&amp;subid=0&amp;type=4&amp;gridnum=1"></a> 
+     </div>
+     <div id="twfb">
+     <ul>   <li>  <a href="" target="_blank"><img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/facebook.png" alt="Become a Fan!"></a></li>
+ <li> 
+   <a href="http://twitter.com/" class="tip_trigger"><img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/twitter.png" alt="Follow On Twitter"><span class="tip">    <ul id="twitter_update_list">
+    </ul>
+    <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script><script type="text/javascript" src="http://twitter.com/statuses/user_timeline/.json?callback=twitterCallback2&amp;count=1"></script>
+
+</span></a>
+     </li>
+   
+      <li> <a href=""><img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/rssicon.png" alt="Subcribe to Our RSS Feed"></a></li>
+     </ul>
+     </div>
+     </div>
+     <div id="cb"></div>
+     </div>    <div id="cb"></div>
+		<nav>
+	<div id="navigation">
+			<div id="nav" class="ddsmoothmenu1"><ul id="menu-main" class="menu"><li id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63"><a href="http://www.technologyspot.net/category/cellphones/">Cellphones</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64"><a href="http://www.technologyspot.net/category/digital-cameras/">Digital cameras</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65"><a href="http://www.technologyspot.net/category/gadgets/">Gadgets</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66"><a href="http://www.technologyspot.net/category/gaming/">Gaming</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67"><a href="http://www.technologyspot.net/category/laptops/">Laptops</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-68"><a href="http://www.technologyspot.net/category/news/">News</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69"><a href="http://www.technologyspot.net/category/reviews/">Reviews</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70"><a href="http://www.technologyspot.net/category/tablets/">tablets</a></li>
+</ul></div></div>
+		</nav>
+      
+	 
+	</header>
+
+
+
+
+<section>    
+  <div id="headgal">
+  	<div id="featured" style="padding-left: 14px !important;">
+	<a class="prevPage browse left"></a>
+		<div class="scrollable" style="height: 60px !important">	
+		<div id="thumbs"> 	
+  
+   
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/apple-iphone-5s-iphone-5c-official/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/iphone_5C-colors-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="iphone_5C-colors"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/apple-iphone-5s-iphone-5c-official/" title="Apple iPhone 5S, iPhone 5C Official">Apple iPhone 5S, iPhone 5C Official</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/playstation-4-exclusive-deep-down-trailer-released/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/Deep-Down-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Deep-Down"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/playstation-4-exclusive-deep-down-trailer-released/" title="PlayStation 4 Exclusive Deep Down Trailer Released">PlayStation 4 Exclusive Deep Down Trailer Released</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/lg-to-introduce-worlds-first-lcd-panel-with-intels-widi-tech/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/LGWI-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="LGWI"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/lg-to-introduce-worlds-first-lcd-panel-with-intels-widi-tech/" title="LG to introduce world’s first LCD panel with Intel’s WiDi tech">LG to introduce world’s first LCD panel with Intel’s WiDi tech</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/apples-iphone-5c-teaser-video-leaked-online/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/iphone-5c-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="iphone-5c"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/apples-iphone-5c-teaser-video-leaked-online/" title="Apple’s iPhone 5C Teaser Video Leaked Online">Apple’s iPhone 5C Teaser Video Leaked Online</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/nvidia-tegra-note-stops-by-fcc-revealing-more-specs/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/tegra-note-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="tegra-note"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/nvidia-tegra-note-stops-by-fcc-revealing-more-specs/" title="NVIDIA Tegra Note Stops by FCC Revealing More Specs">NVIDIA Tegra Note Stops by FCC Revealing More Specs</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/dell-expands-workstation-portfolio-with-new-laptops-and-towers/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/Dell-Precision-M4800_M6800-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Dell-Precision-M4800_M6800"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/dell-expands-workstation-portfolio-with-new-laptops-and-towers/" title="Dell Expands Workstation Portfolio with new Laptops and Towers">Dell Expands Workstation Portfolio with new Laptops and Towers</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/nikon-launches-coolpix-s02-digital-camera-with-1080p-video-quality-and-13-3mp-sensor-at-ifa-2013/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/s900-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="s900"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/nikon-launches-coolpix-s02-digital-camera-with-1080p-video-quality-and-13-3mp-sensor-at-ifa-2013/" title="Nikon launches Coolpix S02 digital camera with 1080p video quality and 13.3MP sensor at IFA 2013">Nikon launches Coolpix S02 digital camera with 1080p video quality and 13.3MP sensor at IFA 2013</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/garmin-zumo-390lm-motorcycle-gps-device-now-available/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/zumo390lm-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="zumo390lm"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/garmin-zumo-390lm-motorcycle-gps-device-now-available/" title="Garmin Zumo 390LM Motorcycle GPS Device Now Available">Garmin Zumo 390LM Motorcycle GPS Device Now Available</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/call-of-duty-strike-team-hits-ios/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/Strike-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Strike"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/call-of-duty-strike-team-hits-ios/" title="Call of Duty: Strike Team hits iOS">Call of Duty: Strike Team hits iOS</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/lenovo-announces-vibe-x-5-inch-smartphone/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/Lenovo-Vibe-X-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Lenovo-Vibe-X"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/lenovo-announces-vibe-x-5-inch-smartphone/" title="Lenovo Announces Vibe X 5-Inch Smartphone">Lenovo Announces Vibe X 5-Inch Smartphone</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/microsoft-surface-pro-2-details-leak-ahead-of-launch/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/Surface2-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Surface2"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/microsoft-surface-pro-2-details-leak-ahead-of-launch/" title="Microsoft Surface Pro 2 details leak ahead of launch">Microsoft Surface Pro 2 details leak ahead of launch</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  
+				<div class="slidesingle">
+			 <span id="slidesingleimg">
+<a href="http://www.technologyspot.net/asus-re-announces-transformer-pad-infinity-tf701t/"><img width="50" height="45" src="http://www.technologyspot.net/wp-content/uploads/asus-transformer-pad-2-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="asus-transformer-pad-2"></a>	</span>		
+ 					<h2><a href="http://www.technologyspot.net/asus-re-announces-transformer-pad-infinity-tf701t/" title="ASUS Re-Announces Transformer Pad Infinity TF701T">ASUS Re-Announces Transformer Pad Infinity TF701T</a></h2>
+					<div id="cb"></div>
+			 	</div>
+					  	 
+			</div><!-- /#thumbs -->			 
+		</div> <!-- /#scrollable -->
+		<a class="nextPage browse right"></a>
+	<div id="theticker">
+    <div id="m3ticker">
+       <div id="tickimg">        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/youarehere.png" alt="">    </div>  
+          <div id="m3crumbs">	<div id="crumbs"><a href="http://www.technologyspot.net">Home</a> » <span class="current">Privacy</span></div></div>
+   <div id="cb"></div>
+    </div>  <div class="navi"></div>  <div id="cb"></div>
+    </div>
+    </div><!-- /#featured -->        
+ <div id="content" style="width: 100% !important;">	
+	
+		<article class="post">
+			<h2>  Privacy</h2>
+			<div class="pmetasingle"> Posted By <b><a href="http://www.technologyspot.net/author/admin/" title="View all posts by Martin Nemko">Martin Nemko </a></b>  
+            	       On Friday, November 9th, 2012
+ With <a href="#comments"> 0 Comments</a>  
+
+        
+            </div>
+			<div class="entry" style="width: 970px !important;">
+			  <p align="left">The terms ‘Technologyspot.net’ and ‘www.Technologyspot.net’ are used in this document (or Agreement) to refer to the Web site itself.</p>
+<p align="left">
+</p><p align="left">Privacy issues are a high priority for us at www.Technologyspot.net and we follow standard industry practices to maintain your personal information. Please read the following to learn more about our privacy policy.</p>
+<p align="left">
+</p><p align="left">Technologyspot.net does not spam or sell/lease its user information to third parties.</p>
+<p align="left">
+</p><p align="left">Policy Coverage</p>
+<p align="left">
+</p><p align="left">This Privacy Policy covers Technologyspot.net’s treatment of personally identifiable information that Technologyspot.net collects when you are on the www.Technologyspot.net site, and when you use Technologyspot.net’s services. This policy also covers Technologyspot.net’s treatment of any personally identifiable information that Technologyspot.net’s business partners share with Technologyspot.net. This policy does not apply to the practices of companies that Technologyspot.net does not own or control, or to people that Technologyspot.net does not employ or manage.</p>
+<p align="left">
+</p><p align="left">Personal Information Collected by Technologyspot.net</p>
+<p align="left">
+</p><p align="left">ONLINE REGISTRATION: In order to become a Technologyspot.net forum member, you must first create a forum member account on Technologyspot.net by providing information about yourself including but not limited to name, email address, country, ZIP/postal code, birth date, a brief summary of yourself and a password. Technologyspot.net checks for the validity of the email addresses.</p>
+<p align="left">
+</p><p align="left">OPTIONAL PROFILE INFORMATION: Once your provide the basic information to create an forum account, you will have the opportunity to provide additional information in the Profile section describing your skills, interests, professional and academic background and favorites. Provision of this additional information beyond what is required at registration is entirely optional; it allows you to better identify yourself and create superior networking opportunities with others through shared contexts. but enables you to better identify yourself and find new opportunities on Technologyspot.net. Your Profile information can only be viewed by other Technologyspot.net visitors or registered members or members of your personal network only depending on the option you choose.</p>
+<p align="left">
+</p><p align="left">RECOGNIZING YOU AS A Technologyspot.net FORUM MEMBER: For Technologyspot.net to recognize you as a registered member, you must login with your login email and password. At the time of login, you will have the option to instruct the site to remember you so when you come back the next time to use Technologyspot.net, you would not have to login with your email and password. As is common in the industry, Technologyspot.net uses the technology of cookies and forum page log files to monitor user registration, to recognize registered members when they revisit the site and to track site usage. Our ability to identify you as a registered member allows us to customize the Technologyspot.net experience and to protect your personal information based on your account settings.</p>
+<p align="left">
+</p><p align="left">INTERNET COMMUNICATION PROTOCOL INFORMATION: The communication standards of the Internet industry transmit the URL of the site from which you visit www.Technologyspot.net, the IP address of your computer, the IP address of your ISP, various attributes of your computer such as operating system, resolution and browser software, and the date and time of your various requests for pages on www.Technologyspot.net. Technologyspot.net file logging system automatically logs all of this information in its log files for its analysis.</p>
+<p align="left">
+</p><p align="left">NEWSLETTER SUBSCRIPTIONS: Visitors to Technologyspot.net may also sign up with their name and email address for a variety of newsletters that Technologyspot.net produces with varying frequency (e.g., News headlines) without having to register. Technologyspot.net confirms the subscription by sending an email to the email address specified before sending the newsletter.</p>
+<p align="left">
+</p><p align="left">Use of Information by Technologyspot.net</p>
+<p align="left">
+</p><p align="left">Technologyspot.net is an online website that offers a variety of services designed to connect people from around the world. The information, whether personal information of any form of self-expression is used to help you describe yourself to other users. Technologyspot.net also collects additional information in order to operate and improve our service. www.Technologyspot.net is the sole owner of the information collected on the Technologyspot.net site.</p>
+<p align="left">
+</p><p align="left">VISIBILITY OF PUBLIC CREATIVE CONTRIBUTIONS: In addition to being a social and professional networking site, Technologyspot.net also provides a variety of forums for its members to express themselves in the form of articles, columns, opinions, comments, reviews, art and photographs. Since this expression is linked to the member’s identity and the expression is in the public domain, the compilation of a member’s creative contributions to Technologyspot.net will be visible to all visitors of Technologyspot.net whether or not they are registered members of Technologyspot.net.</p>
+<p align="left">
+</p><p align="left">VISIBILITY OF PRIVATE MESSAGES WITHIN NETWORK: You will be able to create and share messages within your personal forum network. The visibility of these private notes will be restricted to your network unless you or one of the members in your network choose to forward it to others within or outside www.Technologyspot.net.</p>
+<p align="left">
+</p><p align="left">SHARING OF INFORMATION WITH THIRD PARTIES: Technologyspot.net takes your privacy very seriously. Technologyspot.net will never sell, rent, or otherwise provide your personally identifiable information to any third parties unless it is to carry out your instructions and to provide specific services. As an example, we send your information to a credit card processing company to process a payment you have made for the use of a Technologyspot.net service. These third parties are bound by strict confidentiality agreements which limit their use of such information. In addition, Technologyspot.net may share your information to send direct mailers or complimentary coupons/offers to a mailing agency to process postal mailing. Again, such an agency would be bound by strict confidentiality agreements that limit their use of such information.</p>
+<p align="left">
+</p><p align="left">EMAIL COMMUNICATIONS: Technologyspot.net generally communicates with you as a registered forum member of Technologyspot.net through the primary email that you have specified at the time of registration. This is also used as the login text string in conjunction with the password to authenticate you on the www.Technologyspot.net site. Your email and password are never shared with anybody within or outside Technologyspot.net. Technologyspot.net uses this email address to send you three types of communications:</p>
+<p align="left">
+</p><p align="left">Sending you emails related to the proper functioning of your account (e.g. when you receive a response to a classified you have posted on Technologyspot.net or when you receive an invitation to join the personal network of another person). Sending you newsletters that you have subscribed to. Sending you occasional announcements about changes in Technologyspot.net’s policies or promotions introduction of new services.</p>
+<p align="left">Please note that these email communications may contain commercial messages of advertisers; however, Technologyspot.net does not provide your personal information or emails to any of the advertisers; we just include the advertising banners they provide us in the emails that we send. As always you can opt out of the newsletters or promotional announcements.</p>
+<p align="left">
+</p><p align="left">PARTNERING WITH OTHERS: Technologyspot.net may partner with other online services to offer a combined service. Whenever we offer such combined services, Technologyspot.net will make it clear who the partner is and it will be entirely up to you to use or not to use the service. Where any personal information is passed along to the partner you will be informed prior to that sharing.</p>
+<p align="left">
+</p><p align="left">PROVISION OF AGGREGATE DEMOGRAPHIC INFORMATION TO THIRD PARTIES: Technologyspot.net reserves the right to provide aggregate demographic information of its member base to advertisers and others so as to attract pertinent advertisers to advertise on Technologyspot.net. We do not share personal information of individual users with advertisers.</p>
+<p align="left">
+</p><p align="left">COMMUNICATIONS TO OTHERS FROM YOU THROUGH Technologyspot.net: You will be able to send emails to others – members and non-members – through the Technologyspot.net system. For example, you may send a comment on an article written by another member. Or you may send an email notification to a non-member to see an article. In these instances, these emails will list your name and email address in the header of the message. The recipients of these emails initiated by you will get to know your name and email address. Technologyspot.net is not responsible for how these recipients use this information. Your contact information will only be shared with another member only if both of you indicated you would like to establish contact with each other.</p>
+<p align="left">
+</p><p align="left">COMMUNICATIONS FROM OTHERS TO YOU THROUGH Technologyspot.net: Only registered forum members of Technologyspot.net are allowed to communicate with you through Technologyspot.net through a form on Technologyspot.net. Unless and until you respond to this email, they will not get to know your email address. You may, however, choose an account setting that prevents any other member from contacting you or inviting you to join their personal network.</p>
+<p align="left">
+</p><p align="left">CHILDREN’S PRIVACY: Protecting the privacy of young children is especially important. For that reason, Technologyspot.net does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Technologyspot.net. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at martnek@powdermail.com.</p>
+<p align="left">
+</p><p align="left">LINKS TO OTHER WEB SITES: We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.</p>
+<p align="left">
+</p><p align="left">THIRD PARTY ADVERTISEMENTS AND TECHNOLOGIES: Technologyspot.net uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: http://www.networkadvertising.org/managing/opt_out.asp</p>
+<p align="left">
+</p><p align="left">(i) Entities that are not affiliated with Associate, such as Gaikai (collectively, “Providers”) may provide certain products and/or services (e.g., the Gaikai Service) on behalf of Associate; and</p>
+<p align="left">(ii) Associate may disclose and/or share with Gaikai (as a Provider) certain data and other information regarding visitors’ usage of the Associate Site (collective, “Usage Data”), and/or regarding the individuals who access and use the Gaikai Service and the Licensed Content by means of the Associate Sites, and may allow Gaikai (as a Provider) to collect and use certain Usage Data and other information regarding such individuals, their respective computer system configurations and performance characteristics, and their use of the Gaikai Service and the Licensed Content. Such information may include information that is not personally identifiable (e.g., computer CPU, graphics card, stability of Internet connectivity, latency, etc.), and may also include personally identifiable information regarding such individuals (e.g., email addresses, etc.) and/or information that some jurisdictions consider to be personally identifiable information, such as an IP address. Gaikai’s collection, retention and use of any and all such information shall be subject to Gaikai’s corporate privacy policy, as posted on http://www.gaikai.com/privacy, which policy may be amended by Gaikai from time to time, at its sole discretion, both during and after the term of the Agreement.</p>
+<p align="left">
+</p><p align="left">NOTIFICATION PROCEDURES: It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Technologyspot.net in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.</p>
+<p align="left">
+</p><p align="left">CHANGES TO OUR PRIVACY POLICY: If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at martnek@powdermail.com.</p>
+<p align="left">
+</p><p align="left">DISCLOSURES REQUIRED BY LAW: It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.</p>
+<p align="left">
+</p><p align="left">This privacy policy was last modified on October 1st, 2012.</p>
+<p>&nbsp;</p>
+			</div>
+						<div class="ptags"></div>
+		</article>
+	<div id="related" class="clearfix">
+	<div id="sharemark">
+<div style="float: left;"><h1>Share This &gt; </h1></div>
+ <div class="share"> <ul>   <li>  <a href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent('http://www.technologyspot.net/privacy/')+'&amp;title='+encodeURIComponent('Privacy'),'delicious', 'toolbar=no,width=550,height=550'); return false;"> 
+
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/delicious.png" alt="Add to Delicious" border="0"></a> 
+                      </li>  
+                      <li>
+                      <a href="javascript:var d=document,f='http://www.facebook.com/share',l=d.location,e=encodeURIComponent,p='.php?src=bm&amp;v=4&amp;i=1245532349&amp;u='+e(l.href)+'&amp;t='+e(d.title);1;try{if (!/^(.*\.)?facebook\.[^.]*$/.test(l.host))throw(0);share_internal_bookmarklet(p)}catch(z) {a=function() {if (!window.open(f+'r'+p,'sharer','toolbar=0,status=0,resizable=1,width=626,height=436'))l.href=f+p};if (/Firefox/.test(navigator.userAgent))setTimeout(a,0);else{a()}}void(0)" onclick="return wait_for_load(this, event, function() { return false });" id="share_bookmark" title="Share on Facebook">
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/facebookicon.png" border="0"></a>
+                      </li>
+                      <li>
+                      <a href="http://friendfeed.com/?url=http://www.technologyspot.net/privacy/&amp;title=Privacy" target="_blank">
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/friendfeed.png" alt="Share on FriendFeed" border="0"></a> </li>
+                                          <li>
+
+                      <a href='javascript:(function(){var a=window,b=document,c=encodeURIComponent,d=a.open("http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk="+c(b.location)+"&amp;title="+c(b.title),"bkmk_popup","left="+((a.screenX||a.screenLeft)+10)+",top="+((a.screenY||a.screenTop)+10)+",height=420px,width=550px,resizable=1,alwaysRaised=1");a.setTimeout(function(){d.focus()},300)})();'> 
+
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/google.png" border="0"> </a>
+
+                      </li>
+
+                      
+
+               <li><a href="http://digg.com/submit?phase=2&amp;url=http://www.technologyspot.net/privacy/&amp;title=Privacy"><img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/digg.png" alt="Digg"></a></li>
+
+                        <li><a href="http://twitter.com/home?status=Currently reading http://www.technologyspot.net/privacy/"><img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/twittericon.png" alt="" width="32px" height="32px"></a></li>
+
+                      <li>  
+
+                      <a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"> 
+
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/reddit.png" alt="submit to reddit" border="0"> </a>
+
+                      </li>
+
+                   
+
+                      <li>
+
+                      <a href="javascript:location.href='http://www.myspace.com/Modules/PostTo/Pages/?c='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title)"> 
+
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/myspace.png" border="0"> </a>
+
+                      </li>
+
+                     
+                     
+                      <li>   
+
+                      <a href="http://www.stumbleupon.com/submit?url=http://www.technologyspot.net/privacy/&amp;title=Privacy">
+
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/stumbleupon.png" border="0"></a>    
+                      </li>
+                      <li>   
+                      <a href="javascript:void(document.location='http://technorati.com/faves?sub=favthis&amp;add='+escape(document.location))">
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/technorati.png" border="0"></a> 
+                      </li>
+                        <li>   
+                      <a href="RSS">
+                        <img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/rssiconsingle.png" border="0"></a> 
+                      </li>            </ul>
+        </div>
+	<div id="cb"></div>
+</div>
+</div> <div id="cb"></div>
+		<!-- You can start editing here. --> 
+<div class="comments-box"> <a name="comments" id="comments"></a>
+      <!-- If comments are open, but there are no comments. -->
+         	 
+  <div id="respond">     
+    <h2>Leave a comment</h2>
+    <div class="cancel-comment-reply"> <small>
+      <a rel="nofollow" id="cancel-comment-reply-link" href="/privacy/#respond" style="display:none;">Click here to cancel reply.</a>      </small> </div>
+        <form action="http://www.technologyspot.net/wp-comments-post.php" method="post" id="commentform">
+            <p>
+        <input class="author" type="text" value="Your Name..." onclick="this.value='';" name="author" id="author" size="22" tabindex="1">
+        <label for="author"><small>
+        (Required)        </small></label>
+      </p>
+      <p>
+        <input class="email" type="text" value="Your Email..." onclick="this.value='';" name="email" id="email" size="22" tabindex="2">
+        <label for="email"><small>(Will not be published)
+         (Required)        </small></label>
+      </p>
+      <p>
+        <input class="url" type="text" value="Your Website..." onclick="this.value='';" name="url" id="url" size="22" tabindex="3">
+        <label for="url"><small>(Optional)</small></label>
+      </p>
+      
+      <p>
+        <textarea name="comment" id="comment" tabindex="4"></textarea>
+      </p>
+           <p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>
+      <p>
+        <input class="submit" name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment">
+        <input type="hidden" name="comment_post_ID" value="61" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+      </p>
+          </form>
+      </div>
+  </div>
+ </div>  
+ </div>
+	</section>
+
+</div><!-- #wrapper -->
+
+	<footer>
+
+    <div id="footer1">     <div id="footerwrapper1"> 
+
+    <div id="fsidebar1">                                            
+
+       		
+
+                  
+
+    </div>
+
+    <div id="fsidebar2">                                            
+
+       		
+
+                  
+
+    </div> 
+
+    <div id="fsidebar3">                                            
+
+       		
+
+                  
+
+    </div>   
+
+     <div id="fsidebar4">
+
+    <div class="widget">
+
+    <ul>
+
+    <h3>About Our Site</h3>
+
+    <ul>
+  	
+
+<p>Technology Spot&nbsp;is designed to provide up to the minute daily technology news on the latest advances in the technology sector including software, hardware and gadgets from around the world.</p>
+<p>Technology Spot&nbsp;features in-depth reviews on the latest devices with impartial coverage of the features and developments of new technology.</p>
+		
+
+ </ul>
+
+    </ul>
+
+    </div>
+
+    </div>     <div style="clear: both;"> </div> 
+
+    </div>  </div>
+
+ <div id="footer2">  <div id="footerwrapper2"> 
+
+<div id="fotnav">
+
+		 	<ul id="fnav">  <center> 
+
+<div id="fotnav" class="ddsmoothmenu1"><ul id="menu-footer" class="menu"><li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://www.technologyspot.net/abou/">About</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-61 current_page_item menu-item-71"><a href="http://www.technologyspot.net/privacy/">Privacy</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://www.technologyspot.net/contact-us/">Contact us</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="http://www.technologyspot.net/advertise/">Advertise</a></li>
+</ul></div>
+      </center>	</ul> 
+
+         	</div> 
+
+      <div id="fotbot">
+
+      <div class="fotlogoleft"> 
+
+        <div class="fotcopy">
+
+   © 2010 Technology Spot - All Rights Reserved 
+
+        </div>     
+
+		  </div>
+
+	   	<div class="fotlogoright">
+
+	   	 <ul id="skyline"> 
+
+<li id="pad1">  <a href=""><img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/fot-fb.png" alt="Become a Fan!"></a></li>
+
+<li id="pad1">  <a href="http://twitter.com/"><img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/fot-twitter.png" alt="Follow On Twitter"></a></li>
+
+<li id="pad1"> <a href=""><img src="http://www.technologyspot.net/wp-content/themes/techblog-single-pro-psd/images/fot-feed.png" alt="Subcribe to Our RSS Feed"></a></li>
+
+<li>
+
+      	<form method="get" id="footersearch" action="http://www.technologyspot.net/">
+
+			           <input type="text" name="s" value="Search News - Enter Keyword" onblur="if(this.value=='') this.value='Search News - Enter Keyword';" onfocus="if(this.value=='Search News - Enter Keyword') this.value='';" id="s">
+
+			<input type="submit" value=" " id="searchsubmit">
+
+		   </form> 
+
+</li>  
+
+     
+
+       </ul>
+
+	   	</div>
+
+    	<div id="cb"></div>
+
+   </div>
+
+  </div>   
+
+	</div></footer>
+
+
+
+
+
+
+
+</body></html>
