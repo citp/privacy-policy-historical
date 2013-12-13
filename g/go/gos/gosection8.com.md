@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118072717id_/http%3A//www.gosection8.com/Main/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213174921id_/http%3A//www.gosection8.com/Main/privacy_policy.aspx) for the most accurate reproduction.*
 
 # GoSection8.com - Section 8 Rental Housing & Apartments Listing Service for Landlords & Tenants
-
-## Privacy Policy
 
 This website (“Website”) is operated by Affordable Housing Network, LLC (“AHN” or the “Company”).  This privacy policy governs only the collection of information at the Website, and does not govern the collection of information through other means. Because our business will continue to evolve, we reserve the right to change this Privacy Policy from time to time.  Upon any change, we will post the revised policy here, and change the Effective Date noted above.  You are encouraged to check this page periodically so that you are aware of any changed.  If we do make changes, we may send to you, and you agree to receive (unless you have opted-out), an email notifying you about the changes.
 
@@ -33,7 +31,7 @@ We reserve the right to disclose, share and/or otherwise transfer user informati
 
 **To update, correct or delete you user information**
 
-If at any time you would like us to correct or change any of your personal information on file, feel free to contact (info(at)gosection8.com) or by phone at 562.416.7199. Please be sure to include your email address, full name, and password(s) if you have any. We will process your submission in a timely fashion, and usually respond within 2-3 business days.
+If at any time you would like us to correct or change any of your personal information on file, feel free to contact (info(at)gosection8.com) or by phone at 866-466-7328. Please be sure to include your email address, full name, and password(s) if you have any. We will process your submission in a timely fashion, and usually respond within 2-3 business days.
 
 **Public Forums**
 
@@ -51,7 +49,7 @@ AHN's Website may contain links to other sites that are not under our control. T
 
 **Opting Out**
 
-Users have the option to opt-out of any email marketing related communications at any time simply by sending an email to (optout(at)gosection8.com). You also can call 561-416-7199 or write to us at Affordable Housing Network Customer Service, 1300 North federal Highway, Suite 101, Boca Raton, Florida 33432, to opt-out of email and/or postal mail marketing communications.
+Users have the option to opt-out of any email marketing related communications at any time simply by sending an email to (optout(at)gosection8.com). You also can call 866-466-7328 or write to us at Affordable Housing Network Customer Service, 5000 T-Rex Ave, Suite 150, Boca Raton, Florida 33431, to opt-out of email and/or postal mail marketing communications.
 
 **Collection and Transfer To The United States**
 
@@ -63,10 +61,10 @@ This site is not intended for children under the age of 13. We will not knowingl
 
 **Other Questions? Feedback?**
 
-Please let us know if there are other questions you have about your Website experience at (info(at)gosection8.com) or call us directly at 561-416-7199. Our customer service hours are Monday through Friday 8AM to 5PM Eastern Time.
+Please let us know if there are other questions you have about your Website experience at (info(at)gosection8.com) or call us directly at 866-466-7328. Our customer service hours are Monday through Friday 8AM to 5PM Eastern Time.
 
 **Dispute Resolution**
 
 If you feel that AHN is not abiding by its posted privacy, you should contact us by email at (optout(at)gosection8.com).  We will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. 
 
-Affordable Housing Network, LLC, Attn.: Customer Service, 1300 North Federal Highway, Suite 101, Boca Raton, Florida 33432. 
+Affordable Housing Network, LLC, Attn.: Customer Service, 5000 T-Rex Ave, Suite 150, Boca Raton, Florida 33431. 
