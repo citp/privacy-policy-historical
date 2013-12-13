@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theblogfarm.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519010423id_/http%3A//www.theblogfarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogfarm.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213211343id_/http%3A//www.theblogfarm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Blog Farm
+# Privacy Policy | The Blog Farm
 
 The Blog Farm shall be referred to as TBF within this document.
 
