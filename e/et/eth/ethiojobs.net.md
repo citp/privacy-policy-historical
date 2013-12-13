@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethiojobs.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610061126id_/http%3A//ethiojobs.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiojobs.net privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213143459id_/http%3A//www.ethiojobs.net/privacy-policy) for the most accurate reproduction.*
 
 # Jobs in Ethiopia by Ethiojobs.net: Privacy Policy
 
