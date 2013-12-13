@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sonesta.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614033233id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonesta.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213205432id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.*
 
-# Sonesta Hotels, Resorts & Nile Cruises - Sonesta Boston, Miami, New Orleans, St. Maarten, Chile, Colombia, Peru, Egypt
+# Sonesta Collection – Hotels . Resorts . Suites
 
 At Sonesta International Hotels Corporation (Sonesta), we are committed to protecting your privacy and safeguarding your personally identifiable information, sometimes referred to as “PII”. We have provided this Privacy Policy as an explanation of the information we collect, how we use it, how the use of this information can benefit your experience on our web sites and during your relationship with us, with whom and for what purposes we may share the information, and the choices you can make about our use of the information.
 
