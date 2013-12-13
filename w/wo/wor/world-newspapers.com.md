@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-newspapers.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407214140id_/http%3A//www.world-newspapers.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-newspapers.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213123948id_/http%3A//www.world-newspapers.com/disclaimer.html) for the most accurate reproduction.*
 
 # World-Newspapers.com - Privacy Policy
 
