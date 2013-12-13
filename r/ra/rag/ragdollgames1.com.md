@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragdollgames1.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623011210id_/http%3A//www.ragdollgames1.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragdollgames1.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213085601id_/http%3A//www.ragdollgames1.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy, Ragdoll Games
 
