@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619203028id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213021636id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FirstShowing.net
 
@@ -38,7 +38,7 @@ Some of our advertising partners may use cookies on our site. Our advertising pa
 <http://www.google.com/doubleclick/>  
 <http://affiliates.sideshowtoy.com/>  
 <http://affiliate-program.amazon.com/>  
-<http://pubgears.com/>
+[http://studybreakmedia.com/](http://www.studybreakmedia.com/)
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FirstShowing.net's Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
