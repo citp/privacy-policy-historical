@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donnahay.com.au privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621052218id_/http%3A//donnahay.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donnahay.com.au privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213151036id_/http%3A//www.donnahay.com.au/privacy) for the most accurate reproduction.*
 
 # Donna Hay - Donna Hay
 
