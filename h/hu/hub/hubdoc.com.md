@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503031244id_/http%3A//www.hubdoc.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213025144id_/http%3A//hubdoc.com/support/privacy) for the most accurate reproduction.*
 
 # Hubdoc - Privacy Policy
 
 This Privacy Policy has been prepared by Hubdoc™ Inc. (“Hubdoc”). This Privacy Policy sets out the manner in which Hubdoc collects, uses, discloses and otherwise manages personal information. This Privacy Policy applies to the privacy practices on our website, www.hubdoc.com (the “Website”).
 
-Hubdoc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program certification is limited to only that information collected through www.hubdoc.com. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@hubdoc.com.](mailto:info@hubdoc.com)  If you are not satisfied with our response you can [contact TRUSTe.](https://feedback-form.truste.com/watchdog/request)
+Hubdoc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program certification is limited to only that information collected through www.hubdoc.com. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@hubdoc.com.](mailto:info@hubdoc.com) If you are not satisfied with our response you can [contact TRUSTe.](https://feedback-form.truste.com/watchdog/request)
 
 ### Collection and Use of Personal information
 
@@ -36,7 +36,7 @@ We will not disclose, trade, rent, sell or otherwise transfer your personal info
 
 Your personal information may be maintained and processed by service providers in the U.S. or other foreign jurisdictions, and personal information may be accessed by law enforcement authorities in such jurisdictions. Service providers are provided with the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes.
 
- **Sale of Business:**   We may transfer any information we have about you as an asset in conjunction with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings).
+ **Sale of Business:**   We may transfer any information we have about you as an asset in conjunction with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings). You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 **Legal:**   Hubdoc and its service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required or permitted by applicable Canadian, U.S. or other law. We may also disclose personal information where necessary for the establishment, exercise or a defence of legal claims, or as otherwise permitted by law.
 
@@ -52,6 +52,10 @@ Your personal information may be maintained and processed by service providers i
 
 We have implemented measures designed to help protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to help protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. When you provide us with sensitive information (such as your linked account credentials), we encrypt the transmission of that information using secure socket layer technology (SSL). No collection or transmission of information over the Internet or other publicly accessible communications networks can be guaranteed to be fully secure, however, and therefore, we cannot ensure or warrant the security of any such information. If you have any questions about security on our Website, you can contact us at the information at the end of this privacy policy.
 
+### Social Media Feature
+
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ### Access and Removal of Your Personal Information
 
 You have the right to access, update and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies by contacting us at the contact information provided below or by logging into your account and making the applicable changes in your Profile. You may also request that we delete a third party account and we will cease collecting personal information from the third party account or your personal information and delete relevant account credentials. We will respond to your request to access within 30 days.
@@ -66,6 +70,6 @@ This Privacy Policy may be updated periodically to reflect changes to our person
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us at: [info@hubdoc.com](mailto:info@hubdoc.com)  or via postal mail at 1881 Yonge Street, Suite 712, Toronto, Ontario M4S 3C4.
 
-Last updated: **December 6, 2012**
+Last updated: **November 1, 2013**
 
 [Sign up, it's free.](https://app.hubdoc.com/signup)
