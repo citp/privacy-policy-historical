@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vdog.tv privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803214019id_/http%3A//vdog.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdog.tv privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213183818id_/http%3A//www.vdog.tv/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
