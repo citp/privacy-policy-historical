@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonevalidator.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615010755id_/http%3A//www.phonevalidator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonevalidator.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213221546id_/http%3A//www.phonevalidator.com/privacy.html) for the most accurate reproduction.*
 
 # Phone Number Batch Processing | PhoneValidator.com
 
@@ -16,6 +16,6 @@ Any questions or notices related to privacy must be directed via email using the
 
 Version date: 10-2-2012
 
-[RETURN HOME](https://web.archive.org/web/20130615010755id_/http%3A//www.phonevalidator.com/default.aspx)  
+[RETURN HOME](https://web.archive.org/web/20131213221546id_/http%3A//www.phonevalidator.com/default.aspx)  
   
 (C) 2012 Crime Time Publishing Co., Inc. All rights reserved.
