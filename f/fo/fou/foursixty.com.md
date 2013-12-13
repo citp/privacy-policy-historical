@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foursixty.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526034635id_/http%3A//foursixty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foursixty.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213160139id_/http%3A//foursixty.com/privacy) for the most accurate reproduction.*
 
-# Foursixty >> Privacy Policy
+# Foursixty
 
 This Privacy Policy explains how Foursixty Inc. ("we", "us", "our" or "Foursixty") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of Foursixty’s websites, apps, services, code, and/or software (collectively, the "Services").
 
