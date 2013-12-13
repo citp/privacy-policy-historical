@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsm-publishing.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613042110id_/http%3A//dsm-publishing.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsm-publishing.co.uk privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213041712id_/http%3A//dsm-publishing.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DSM Publishing
 
@@ -26,7 +26,8 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 Personally Identifiable Information collected by DSM Publishing Limited is securely stored and is not accessible to third parties or employees of DSM Publishing Limited, except for use as indicated above.
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [info@dsm-publishing.com](mailto:info@dsm-publishing.com)
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us here:  [dsm-publishing.com/contact/](http://dsm-publishing.com/contact/) and filling in the contact form.[  
+](mailto:info@dsm-publishing.com)
 
 **Are Cookies Used on the Site?**  
 Cookies are used for a variety of reasons. We may use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
@@ -67,19 +68,4 @@ Other Third Party ad servers or ad networks may also use cookies to track users�
 **Changes to this Privacy Statement  
 **The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of **DSM Publishing** , then please do not hesitate to contact me at **[info@dsm-publishing.com](mailto:info@dsm-publishing.com "mailto:info@dsm-publishing.com").**
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=We%20understand%20that%20privacy%20online%20is%20important%20to%20users%20of%20our%20Site%2C%20especially%20when%20conducting%20business.%0D%0AThis%20statement%20governs%20our%20privacy%20policies%20with%20respect%20to%20those%20users%20of%20the%20Site%20%28%22Visitors%22%29%20who%20visit%20without%20transacting%20business%20and%20Vis "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&srcTitle=DSM+Publishing+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20Policy&source=DSM+Publishing+&summary=We%20understand%20that%20privacy%20online%20is%20important%20to%20users%20of%20our%20Site%2C%20especially%20when%20conducting%20business.%0D%0AThis%20statement%20governs%20our%20privacy%20policies%20with%20respect%20to%20those%20users%20of%20the%20Site%20%28%22Visitors%22%29%20who%20visit%20without%20transacting%20business%20and%20Vis "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fdsm-publishing.com%2Fabout%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
+If you have any questions regarding the privacy policy of **DSM Publishing** , then please do not hesitate to contact me at [dsm-publishing.com/contact/](http://dsm-publishing.com/contact/) by filling in the contact form.
