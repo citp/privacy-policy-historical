@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524235748id_/http%3A//bangalore.citizenmatters.in/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213081447id_/http%3A//bangalore.citizenmatters.in/pages/privacy-policy) for the most accurate reproduction.*
 
-# Citizen Matters: Privacy Policy
+# Privacy Policy - Citizen Matters, Bangalore
 
-##  Privacy Policy 
+Privacy Policy
 
-citizenmatters.in collects identifying information about individuals only when individuals voluntarily provide such information. We use personal information collected from you with information recorded by the server when you visit the citizenmatters.in website (like the URL, IP address, browser type and language, and the date and time of your request) to provide a better user experience, including customizing content for you.
+Citizen matters collects identifying information about individuals only when individuals voluntarily provide such information. We use personal information collected from you with information recorded by the server when you visit the citizenmatters.in website (like the URL, IP address, browser type and language, and the date and time of your request) to provide a better user experience, including customising content for you.
 
 citizenmatters.in uses cookies and other technologies for better online experience, or in situations that require session data or require user verification.
 
@@ -15,3 +15,7 @@ Oorvani Media will not sell or make available such information to unrelated thir
 We will occasionally analyse such information and we may share the results of such analyses with advertisers and other third parties. And under any circumstance, citizenmatters.in will refer only to general, aggregate usage data from these analyses - never specific identifying information.
 
 Oorvani Media may change the policy anytime by posting changes online.
+
+[](https://web.archive.org/web/20131213081447id_/http%3A/pages/karnataka-assembly-elections-2013)
+
+[](https://web.archive.org/web/20131213081447id_/http%3A/pages/water-news)
