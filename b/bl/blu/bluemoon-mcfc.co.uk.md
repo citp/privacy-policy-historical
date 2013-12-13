@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bluemoon-mcfc.co.uk privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610145803id_/http%3A//bluemoon-mcfc.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemoon-mcfc.co.uk privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213030231id_/http%3A//bluemoon-mcfc.co.uk/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Manchester City, Man City - Bluemoon-MCFC
+
+[Home](https://web.archive.org/Default.aspx "Home") > Privacy Policy
+
+* * *
 
 ## What information do we collect?
 
@@ -35,5 +39,3 @@ Occasionally, at our discretion, we may include or offer third party products or
 ## Your Consent
 
 By using our site, you consent to our privacy policy.
-
-[ ](http://www.adobe.com/go/getflashplayer)
