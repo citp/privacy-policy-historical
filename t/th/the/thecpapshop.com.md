@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecpapshop.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602203104id_/http%3A//www.thecpapshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecpapshop.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213092128id_/http%3A//www.thecpapshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,16 @@ Below is a list of information we may collect and store once consent has been ma
   * any correspondence or information submitted through on our Site or corresponding email, chat or phone call;
   * other information from your interaction with our Sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the Sites, ad data, IP address and standard web log information;
   * other information from third parties, such as such as demographic and traffic data, prescriptions.
+  * **Information Specific to Google:**
+
+    * We have implemented Google Analytics features based on Display Advertising in order to advertise online (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting) and as a result:
+      * Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+      * We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.
+      * Please review the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+      * Be aware that third-party vendors, including Google, show our ads on sites across the Internet.
+      * We (and our third-party vendors, including Google) use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+      * We (and third-party vendors, including Google) use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+      * We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics.
 
 
 
