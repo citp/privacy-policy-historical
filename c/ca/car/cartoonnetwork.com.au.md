@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515215224id_/http%3A//www.cartoonnetwork.com.au/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213012028id_/http%3A//www.cartoonnetwork.com.au/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network Australia | Free Games and Online Video from Ben 10, Gumball and Adventure Time!
 
@@ -90,7 +90,7 @@ For information collected on our Apps, you can stop all collection of informatio
 
 If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please contact us at the following e-mail address, mailing address and telephone number: 
 
-Email: [_privacyasiapac@turner.com_](https://web.archive.org/web/20130515215224id_/http%3A//www.cartoonnetwork.com.au/parents/privacyasiapac@turner.com)   
+Email: [_privacyasiapac@turner.com_](mailto:privacyasiapac@turner.com)   
 Mailing Address: Turner Privacy Officer   
 Turner Broadcasting System Asia Pacific, Inc.   
 30/F Oxford House, Taikoo Place, 979 King's Road,   
