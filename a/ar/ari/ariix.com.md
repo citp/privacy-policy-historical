@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariix.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613151410id_/http%3A//www.ariix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariix.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213162022id_/http%3A//www.ariix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ARIIX
 
