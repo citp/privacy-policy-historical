@@ -1,48 +1,48 @@
-> *The following text is extracted and transformed from the 1staudiovisual.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613025427id_/http%3A//www.1staudiovisual.co.uk/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1staudiovisual.co.uk privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213095950id_/http%3A//www.1staudiovisual.co.uk/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policies : 1staudiovisual UK
 
 | 
 
-**_Mrs Johnson  ,Says :_**
+**_Dan Sturby  ,Says :_**
 
-Finally a website company that does what it promises, thank you so much for the excellent service, will recommend you to friends and family.
+Saved £300 on a Panasonic 60" Plasma TV (TX-P60ZT65B), delivered free of charge 2 days after ordering.
 
-**_Terry C  ,Says :_**
+**_Colin Thomas  ,Says :_**
 
-Love the new TV, thanks for the fast delivery and discount on the warranty :)
+Thank you for the friendly advice on which TV would be best for our Family, we have had the TV (Samsung 8 Series) for 2 weeks now and couldn't be happier. Again many thanks and good luck.
 
-**_Delighted Customer  ,Says :_**
+**_John Price-Dixon  ,Says :_**
 
-1st class service from 1st audio visual
+excellent service from ordering to delivery.
 
-**_John Richardson  ,Says :_**
+**_Danny  ,Says :_**
 
-The consignment has arrived safely. Thank you Paul for your help and assistance in resolving the problem.
+Great price and service, TV was delivered 2 days after ordering. Highly recommended.
 
-**_Ringo  ,Says :_**
+**_Nigel B  ,Says :_**
 
-I absolutely recommend these guys for price and a quality service. I ordered on a Saturday, raised a question on Sunday which was answered early on Monday and was delivered, as promised, on Thursday.
+Excellent service and price A++++
 
-**_Dan Bridger  ,Says :_**
+**_AD Installation Company  ,Says :_**
 
-Thank you Paul, great telly and comms. I have left a very positive review. Kind regards, Dan.
+Thanks for keeping welll informed to the progress of the large order recently placed with you for 53 TVs and DVD Players, everything was delivered on time and in perfect condition, we will be sure to use you again in the future.
 
-**_Dan Bridger  ,Says :_**
+**_Jamie Harris  ,Says :_**
 
-Excellent product and price.\r\n\r\nVery good communications throughout.\r\n\r\n\r\nThank you,\r\n\r\nDan.
+Thanks for the great service and quick delivery, everything is set up and looks awesome. (Samsung UE55F8000 and Soundbar)
 
-**_Dave S  ,Says :_**
+**_Mark Britton  ,Says :_**
 
-Cheapest price online and delivered in perfect condition 2 days after ordering for free, will use again in the future
+1st class service from 1st audio visual, TV received 2 days after ordering. (Samsung UE55F8000)
 
-**_James Baker  ,Says :_**
+**_subha  ,Says :_**
 
-My Samsung 55F8000 arrived yesterday in perfect condition, set it up last night and it looks fantastic, thanks for the great price and service.
+I would like to give 1st audiovisual a big thank for delivering my TV on time . I am very much satisfied with the itme and your service had lived my expectation . Massive screen with An ultra clear picture quality certainly brings a smile on my face . Its worth every penny I spent on this TV . I would definitely use your service again and again . Regards
 
-**_Neil Couston  ,Says :_**
+**_Ollie J  ,Says :_**
 
-TC received today in perfect order, looks great, thanks for the great service
+The UE65F8000 is brilliant and service from 1stAV was spot on, thanks.
 
 |  |  |  |   |   
 ---|---|---  
