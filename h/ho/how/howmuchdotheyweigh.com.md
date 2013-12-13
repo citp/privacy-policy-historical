@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howmuchdotheyweigh.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526211745id_/http%3A//www.howmuchdotheyweigh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmuchdotheyweigh.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213124015id_/http%3A//www.howmuchdotheyweigh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
