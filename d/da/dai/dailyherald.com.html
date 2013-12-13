@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the dailyherald.com privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606043855id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailyherald.com privacy policy that was archived on 2013-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213123956id_/http%3A//www.dailyherald.com/article/99999999/SERVICES0101/859255635) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Daily Herald Privacy Policy - DailyHerald.com</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta http-equiv="content-language" content="en">
 		<meta name="keywords" content="newspaper, chicago, suburbs, tribune, suntimes, local, national, sports, bulls, sox, cubs, bears, blackhawks">
 		<meta name="description" content="This Privacy Policy outlines the information that we collect through dailyherald.com and how we use that information, so that you can decide whether and how you wish to provide information to us.">
 		<meta name="robots" content="noarchive">
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<meta http-equiv="content-language" content="en">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@dailyherald">
+		<meta property="twitter:account_id" content="8960722">
 		<meta name="twitter:url" content="http://www.dailyherald.com/article/99999999/services0101/859255635/">
 		<meta name="twitter:title" content="Daily Herald Privacy Policy">
 		<meta name="twitter:description" content="This Privacy Policy outlines the information that we collect through dailyherald.com and how we use that information, so that you can decide whether and how you wish to provide information to us.">
@@ -21,6 +22,7 @@
 		<meta property="og:site_name" content="Daily Herald">
 		<meta property="fb:admins" content="69402980">
 		<meta property="fb:app_id" content="105603449548761">
+		<link href="https://plus.google.com/+dailyherald" rel="publisher">
 		<link href="http://www.dailyherald.com/favicon.ico" rel="shortcut icon" type="imag/x-icon">
 		<link href="http://www.dailyherald.com/favicon.ico" rel="icon" type="imag/x-icon">
 		<link href="/article/99999999/services0101/859255635/" rel="canonical">
@@ -30,7 +32,7 @@
 		<link href="/rss/feed/?feed=entlife" rel="alternate" type="application/rss+xml" title="Top DailyHerald.com Life &amp; Entertainment headlines">
 		<link href="/css/static/main.css" rel="stylesheet" type="text/css">
 		<link href="/css/static/article.css" rel="stylesheet" type="text/css">
-		<script type="text/javascript" src="/js/jquery/jquery-1.7.1.min.js"></script>
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery/jquery-1.7.1.min.js"></script>
 		<script type="text/javascript" src="/js/global_v2.js?updated=20121127"></script>
 		<script type="text/javascript" src="/js/article.js"></script>
 		<!-- Page Tag Info -->
@@ -43,103 +45,34 @@
 					headline:'Daily Herald Privacy Policy',
 					byline:'',
 					type:'Article',
-					restriction:'metered',
+					restriction:'open',
+					tags:'',
 					search:'',
 					user:dhGlobalObj.isSubscriber() ? 'subscriber' : 'not authenticated',
 					hierarchy:function() {
-						return this.server.toLowerCase()+((this.section[0] != '')?','+this.section[0].toLowerCase()+((this.section[1] != '')?','+this.section[1].toLowerCase()+((this.section[2] != '')?','+this.section[2].toLowerCase()+((this.section[3] != '')?','+this.section[3].toLowerCase():''):''):'') :'');
+						return ''+((this.section[0] != '')?this.section[0].toLowerCase()+((this.section[1] != '')?','+this.section[1].toLowerCase()+((this.section[2] != '')?','+this.section[2].toLowerCase()+((this.section[3] != '')?','+this.section[3].toLowerCase():''):''):'') :'');
 					},
 					url:function() {
 						return 'http://' + this.server.toLowerCase() + '/article/99999999/services0101/859255635/';
 					}
 				},
 				openX:{
-					adGroups:[ 13072 ],
 					contentTopics:[  ],
 					//pageUrl:'http://dailyherald.com' + '/article/99999999/services0101/859255635/',
 					customVariables:''
-				},
-				apt:{
-					publisherId:'20175253771',
-					siteName:'Daily Herald',
-					type:'',
-					topicId:'',
-					topic1:'',
-					topic2:'',
-					topic3:'',
-					customCategory:'',
-					customSection:'Article',
-					positions:'ipatf_1x1',
-					buildSlots:function() {
-						var slots = {};
-						var posArr = this.positions.split( ',' );
-						for (var i = 0; i < posArr.length; i++ ) {
-							var slot = {};
-							slot.ad_size_list = [ posArr[ i ].split( '_' )[ 1 ] ];
-							slot.ad_delivery_mode = posArr[ i ].split( '_' )[ 0 ];
-							slot.ad_format_list = [ "Standard Graphical", "Rich Media" ];
-							slot.cstm_content_cat_list = this.customCategory ? this.customCategory.split( /,\s*/ ) : [];
-							slot.content_type_list = this.type ? [ this.type ] : [];
-							slot.clk_dest = "_blank";
-							slots[ posArr[ i ] ] = slot;
-						}
-						return slots;
-					},
-					iFrameAd:function( adSize, adLocation ) {
-						var dimensions = adSize.split( 'x' );
-						document.write( '<' + 'ifra' + 'me src="http://open.ad.yieldmanager.net/a1?V=4&ctLng=enus&rTy=ac&pubId=' + t_data.apt.publisherId + '&site=' + t_data.apt.siteName + '&sz=' + adSize + '&dlv=' + adLocation + '&conTy=' + t_data.apt.type + '&cCat=' + t_data.apt.customCategory + '&cSctn=' + t_data.apt.customSection + '&cTopId=' + t_data.apt.topicId + '" width="' + dimensions[ 0 ] + '" height="' + dimensions[ 1 ] + '" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" style="border:0px;" scrolling="no" class="aptAd"></' + 'if' + 'rame>' );
-					}
 				}
 			}
 		/* ]]> */
 		</script>
 		<!-- /Page Tag Info -->
-<script type="text/javascript">
-/* <![CDATA[ */
-	var pdh_ppLogin = ( document.location.search.replace( /.*[?&]pplogin=true.*/, 'true' ) == 'true' );
-	var pdh_ppZone = pdh_ppLogin ? 'JXdeChFbepiORwZGI1pqR8' : 'lEyIZY_FSnLrVKGDrpTcNz';
-	var pdh_ppBorder = pdh_ppLogin ? 'C-Vt07ZBAD6qgndVAtgfEn' : '2abGN7KpJSduhWzx2xn4iV';
-/* ]]> */
-</script>
-<style type="text/css">
-	#gregbox-outer {
-		border: 6px solid #053a6c !important
-	}
-	#gregbox-signInTab {
-		background:url("http://i-ppjol.s3.amazonaws.com/signin/pp_sign-in_button-053a6c.png") no-repeat scroll 0 0 transparent !important;
-	}
-	* html #gregbox-content {
-		border: 6px solid #053a6c !important;
-	}
-	#pp-branding {
-		background-color: #053a6c !important;
-	}
-</style>
-<script type="text/javascript" src="http://s.ppjol.net/pp.js">
-/* <![CDATA[ */
-	{
-		'zone':pdh_ppZone,
-		'mode':'universal',
-		'customPreCheck':'preCheckDailyherald100843',
-		'border':pdh_ppBorder,
-		'cookieCheck':'safari session',
-		//'cookieCheckCloseAction':'deny',
-		'debug':0
-	}
-/* ]]> */
-</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-	function preCheckDailyherald100843( $ ) {
-		if ( ( !pdh_ppLogin ) && ( document.referrer.search( 'facebook.com' ) > 0 || document.referrer.search( 'yahoo.com' ) > 0 || document.referrer.search( 'google.com' ) > 0 ) ) {
-			return 0;
-		}
-		else {
-			return 1;
-		}
-	}
-/* ]]> */
-</script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-39205744-5', 'dailyherald.com');
+			ga('send', 'pageview');
+		</script>
 
 
 
@@ -155,8 +88,7 @@
 		<!-- End OpenX Ad Code !-->
 
 		<script type="text/javascript" src="/js/yahoo/contextual.js"></script>
-
-	<script src="https://web.archive.org/web/20131003202506/http://www.dailyherald.com/section/thirdparty/?mime=text%2Fjavascript?random=6.6594748141914595" type="text/javascript" id="loadScript"></script></head>
+	<script src="https://web.archive.org/web/20131003202506/http://www.dailyherald.com/section/thirdparty/?mime=text%2Fjavascript?random=1.7109828772823832" type="text/javascript" id="loadScript"></script></head>
 	
 	<body>
 		<!-- Begin Omniture Code !-->
@@ -232,11 +164,12 @@
 
 					<div id="logoBar">
 						<a href="/" id="homeRef">&nbsp;</a>
-						<a href="http://eedition.dailyherald.com/time-is-running-out/?destination=http%3A%2F%2Feedition.dailyherald.com" id="headerSTABox">
+						<!--<a href="http://eedition.dailyherald.com/time-is-running-out/?destination=http%3A%2F%2Feedition.dailyherald.com" id="headerSTABox">-->
+						<a href="http://eedition.dailyherald.com/" id="headerSTABox">
 							<div class="staMessageOneOld">Get the<br> Daily Herald<br> your way<br> every day!</div>
 							<div class="staMessageTwoOld">in Print<br> eEdition<br> Phone<br> Tablet</div>
-							<div class="staMessageOne">Our <span style="font-size:18px;"><span style="color:#7dd3ff;">e</span>-edition</span> trial is ending soon.</div>
-							<div class="staMessageTwo">Click here for uninterrupted access.</div>
+							<div class="staMessageOne">Read today's e-edition.</div>
+							<div class="staMessageTwo">A replica of<br> Daily Herald's print edition.</div>
 						</a>
 					</div>
 
@@ -317,11 +250,11 @@
 					
 
 					<ul id="mainNav" class="autoPad">
-						<li class="first">
-							<a href="/" style="padding-left: 10px; padding-right: 10px; width: 25px;">Home</a>
+						<li class="first active current">
+							<a href="/" style="padding-left: 17px; padding-right: 17px; width: 25px;">Home</a>
 							<ul>
 								<li>
-									<a href="/archive/site/20130605/" class="archiveLink">Wednesday, June 5th Stories</a>
+									<a href="/archive/site/20131213/" class="archiveLink">Friday, December 13th Stories</a>
 								</li>
 								<li>
 									<a href="http://eedition.dailyherald.com/">E-Edition</a>
@@ -347,7 +280,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="/news/" style="padding-left: 10px; padding-right: 10px; width: 33px;">News</a>
+							<a href="/news/" style="padding-left: 17px; padding-right: 17px; width: 33px;">News</a>
 							<ul>
 								<li>
 									<a href="/news/county/cook/">Cook Co.</a>
@@ -385,7 +318,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="/sports/" style="padding-left: 10px; padding-right: 10px; width: 45px;">Sports</a>
+							<a href="/sports/" style="padding-left: 17px; padding-right: 17px; width: 45px;">Sports</a>
 							<ul>
 								<li>
 									<a href="/sports/prep/">High School</a>
@@ -429,7 +362,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="/business/" style="padding-left: 10px; padding-right: 10px; width: 56px;">Business</a>
+							<a href="/business/" style="padding-left: 17px; padding-right: 17px; width: 56px;">Business</a>
 							<ul>
 								<li>
 									<a href="http://finance.dailyherald.com/dailyherald/">Stocks &amp; Markets</a>
@@ -455,22 +388,19 @@
 							</ul>
 						</li>
 						<li>
-							<a href="/entlife/" style="padding-left: 10px; padding-right: 10px; width: 131px;">Life &amp; Entertainment</a>
+							<a href="/entertainment/" style="padding-left: 17px; padding-right: 17px; width: 93px;">Entertainment</a>
 							<ul>
 								<li>
 									<a href="/entlife/celebrities/">Celebrities</a>
 								</li>
 								<li>
-									<a href="/entlife/food/">Food</a>
-								</li>
-								<li>
-									<a href="/entlife/health/">Health &amp; Fitness</a>
-								</li>
-								<li>
-									<a href="/realestate/homegarden/">Home &amp; Garden</a>
-								</li>
-								<li>
 									<a href="/entlife/movies/">Movies</a>
+								</li>
+								<li>
+									<a href="/entertainment/dining/">Dining</a>
+								</li>
+								<li>
+									<a href="/entertainment/literature/">Literature</a>
 								</li>
 								<li>
 									<a href="/entlife/music/">Music</a>
@@ -485,18 +415,41 @@
 									<a href="/entlife/theater/">Theater</a>
 								</li>
 								<li>
+									<a href="/calendar/">Events Calendar</a>
+								</li>
+								<li>
+									<a href="/short-and-sweet/">Short and Sweet Theater Reviews</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="/lifestyle/" style="padding-left: 17px; padding-right: 17px; width: 59px;">Lifestyle</a>
+							<ul>
+								<li>
+									<a href="/entlife/food/">Food</a>
+								</li>
+								<li>
+									<a href="/entlife/health/">Health &amp; Fitness</a>
+								</li>
+								<li>
+									<a href="/realestate/homegarden/">Home &amp; Garden</a>
+								</li>
+								<li>
+									<a href="/lifestyle/suburban-parent/">Suburban Parent</a>
+								</li>
+								<li>
 									<a href="/entlife/travel/">Travel</a>
 								</li>
 								<li>
 									<a href="http://celebrate.dailyherald.com/dailyherald/Celebrations.asp">Celebrations</a>
 								</li>
 								<li>
-									<a href="/realestate/homegarden/summer/">Backyard Contest</a>
+									<a href="/lifestyle/food/cookchallenge/">Cook of the Week Challenge</a>
 								</li>
 							</ul>
 						</li>
 						<li>
-							<a href="/discuss/" style="padding-left: 10px; padding-right: 10px; width: 49px;">Discuss</a>
+							<a href="/discuss/" style="padding-left: 17px; padding-right: 17px; width: 49px;">Discuss</a>
 							<ul>
 								<li>
 									<a href="/topics/letters-to-the-editor/">Letters to the Editor</a>
@@ -510,104 +463,47 @@
 							</ul>
 						</li>
 						<li class="classified">
-							<a href="http://classifieds.dailyherald.com/classified/autos/" class="classified" style="padding-left: 10px; padding-right: 10px; width: 38px;">Autos</a>
+							<a href="http://classifieds.dailyherald.com/classified/" class="classified" style="padding-left: 17px; padding-right: 17px; width: 73px;">Classifieds</a>
 							<ul>
 								<li>
-									<a href="http://classifieds.dailyherald.com/classified/autos/">New &amp; Used</a>
+									<a href="http://classifieds.dailyherald.com/classified/ad_index.asp">Place an Ad</a>
 								</li>
 								<li>
-									<a href="http://classifieds.dailyherald.com/classified/autos/forsalebyowner/">For Sale by Owner</a>
+									<a href="http://classifieds.dailyherald.com/classified/autos/">Autos</a>
 								</li>
 								<li>
-									<a href="http://classifieds.dailyherald.com/classified/results.asp?c=9300&amp;st=b&amp;p=1&amp;pp=&amp;a=">Classic</a>
+									<a href="http://www.dailyherald.com/realestate/">Real Estate</a>
 								</li>
 								<li>
-									<a href="http://classifieds.dailyherald.com/classified/results.asp?c=8500&amp;st=b&amp;p=1&amp;pp=&amp;a=">Motorcycles</a>
-								</li>
-								<li>
-									<a href="http://classifieds.dailyherald.com/classified/results.asp?c=09600&amp;st=b&amp;p=1&amp;pp=&amp;a=">Wanted</a>
-								</li>
-							</ul>
-						</li>
-						<li class="classified">
-							<a href="/realestate/" class="classified" style="padding-left: 10px; padding-right: 10px; width: 75px;">Real Estate</a>
-							<ul>
-								<li>
-									<a href="http://www.dailyherald.com/realestate/">Find a Home / Rental</a>
-								</li>
-								<li>
-									<a href="/realestate/">Real Estate News</a>
-								</li>
-								<li>
-									<a href="/realestate/homegarden/">Home &amp; Garden</a>
-								</li>
-								<li>
-									<a href="/realestate/columns/">Columns</a>
+									<a href="http://classifieds.dailyherald.com/jobs/">Jobs</a>
 								</li>
 								<li>
 									<a href="http://classifieds.dailyherald.com/classified/realestate/propertytransfers/">Property Transfers</a>
 								</li>
 								<li>
-									<a href="/realestate/foreclosures/">Foreclosures</a>
-								</li>
-								<li>
-									<a href="http://classifieds.dailyherald.com/classified/ad_index.asp">Place an Ad</a>
-								</li>
-								<li>
-									<a href="/realestate/homegarden/summer/">Backyard Contest</a>
-								</li>
-							</ul>
-						</li>
-						<li class="classified">
-							<a href="http://classifieds.dailyherald.com/jobs/" class="classified" style="padding-left: 10px; padding-right: 10px; width: 30px;">Jobs</a>
-							<ul>
-								<li>
-									<a href="http://classifieds.dailyherald.com/jobs/">Find a Job</a>
-								</li>
-								<li>
-									<a href="http://classifieds.dailyherald.com/jobs/post/">Post a Job</a>
-								</li>
-								<li>
-									<a href="http://my.local-jobs.monster.com/resume/listresumes.aspx?ch=DAILYHERALD">Post Your Resume</a>
-								</li>
-							</ul>
-						</li>
-						<li class="classified">
-							<a href="http://classifieds.dailyherald.com/classified/" class="classified" style="padding-left: 10px; padding-right: 10px; width: 73px;">Classifieds</a>
-							<ul>
-								<li>
-									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=7000">Merchandise For Sale</a>
-								</li>
-								<li>
-									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=4000">Legal Notices</a>
-								</li>
-								<li>
-									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=4000">Business Opportunities</a>
-								</li>
-								<li>
-									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=4000">Announcements</a>
-								</li>
-								<li>
-									<a href="http://classifieds.dailyherald.com/classified/ad_index.asp">Place an Ad</a>
-								</li>
-							</ul>
-						</li>
-						<li class="classified">
-							<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=7000" class="classified" style="padding-left: 10px; padding-right: 10px; width: 58px;">Shopping</a>
-							<ul>
-								<li>
-									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=7000">Merchandise For Sale</a>
+									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=7000">Merchandise for Sale</a>
 								</li>
 								<li>
 									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=0000">Business Service Directory</a>
 								</li>
 								<li>
-									<a href="http://classifieds.dailyherald.com/classified/results.asp?c=7550&amp;st=b&amp;p=1&amp;pp=&amp;a=">Garage Sales</a>
+									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=4000">Announcements</a>
+								</li>
+								<li>
+									<a href="http://classifieds.dailyherald.com/classified/browse.asp?c=4000">Legal Notices</a>
 								</li>
 							</ul>
 						</li>
-						<li class="active current">
-							<a href="http://www.dailyherald.com/info/" style="padding-left: 14px; padding-right: 14px; width: 96px;">Services &amp; Info</a>
+						<li class="classified">
+							<a href="/sales-flyers/" class="classified" style="padding-left: 17px; padding-right: 17px; width: 82px;">Sales Flyers</a>
+							<ul>
+								<li>
+									<a href="/sales-flyers/">Latest Weekly Ads</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="http://www.dailyherald.com/info/" style="padding-left: 23px; padding-right: 23px; width: 96px;">About Us / Help</a>
 							<ul>
 								<li>
 									<a href="http://www.dailyherald.com/info/#general">General Information</a>
@@ -648,7 +544,7 @@
 								<div id="storyHead">
 									
 									<div class="boxW2 boxNormal" id="storyPubBar">
-<!--										<span id="storyPub" class="recent">Article posted: </span>-->
+<!--										<span id="storyPub" class="recent">Article updated: 2/27/2013 10:39 AM</span>-->
 									</div>
 
 									<h1 class="stakHead">Daily Herald Privacy Policy</h1>
@@ -657,6 +553,7 @@
 
 
 									
+
 
 
 
@@ -998,12 +895,15 @@
 									<li><a href="http://classifieds.dailyherald.com/classified/realestate/propertytransfers/">Property Transfers</a></li>
 								</ul>
 								<ul class="catBar">
-									<li class="catName"><a href="/entlife/">Life &amp; Entertainment</a></li>
+									<li class="catName"><a href="/entertainment/">Entertainment</a></li>
+									<li><a href="/entlife/movies/">Movies</a></li>
+									<li><a href="/puzzles/">Puzzles</a></li>
+								</ul>
+								<ul class="catBar">
+									<li class="catName"><a href="/lifestyle/">Lifestyle</a></li>
 									<li><a href="/entlife/food/">Food</a></li>
 									<li><a href="/entlife/health/">Health &amp; Fitness</a></li>
 									<li><a href="/realestate/homegarden/">Home &amp; Garden</a></li>
-									<li><a href="/entlife/movies/">Movies</a></li>
-									<li><a href="/puzzles/">Puzzles</a></li>
 									<li><a href="/entlife/travel/">Travel</a></li>
 									<li><a href="http://celebrate.dailyherald.com/dailyherald/Celebrations.asp">Celebrations</a></li>
 								</ul>
