@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalmtb.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518161639id_/http%3A//www.vitalmtb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalmtb.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213162442id_/http%3A//www.vitalmtb.com/privacy-policy) for the most accurate reproduction.*
 
 # Vital MTB
 
@@ -63,10 +63,10 @@ This site makes user profiles, blogs, photo and video galleries chat rooms, foru
 
 Contacting us:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: Privacy@VitalMediaNetwork.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: privacy@vitalmedianet.com
 
 Or
 
-Vital Media Network, Inc. Customer Care (Privacy) 2151 Michelson, #144 Irvine, CA 92612 (949) 478-4820 
+Vital Media Network, Inc. Customer Care (Privacy) 2151 Michelson, #150 Irvine, CA 92612 (949) 478-4820 
 
-Updated: April 8, 2011
+Updated: June 25, 2013
