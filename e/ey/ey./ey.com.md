@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511133042id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213172106id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
 
-# Privacy - Ernst & Young - United States
+# Privacy - EY - United States
 
 Ernst & Young intends for ey.com to complement the services that the firm provides. This statement, set forth below, is our privacy statement for the United States Web site. Also, set forth below is our [Safe Harbor statement](https://web.archive.org/US/en/Home/Privacy_Safe_Harbor) which concerns the transfer of personal data from the European Union to the United States. These privacy statements describe the practices we follow to respect the privacy of all visitors to this site.
 
