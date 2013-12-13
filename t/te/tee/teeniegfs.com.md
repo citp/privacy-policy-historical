@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teeniegfs.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601183024id_/http%3A//teeniegfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeniegfs.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213083454id_/http%3A//teeniegfs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
