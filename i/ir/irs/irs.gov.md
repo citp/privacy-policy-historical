@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629083212id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213123416id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
 [Para ver esta página en español haga clic aquí](https://web.archive.org/Spanish/La-Pol%C3%ADtica-de-Confidencialidad-del-IRS).
 
 **IRS Privacy Policy  
-****Your Privacy Right** **s  
+Your Privacy Rights  
 IRS Office of Privacy  
 [Access to Privacy Impact Assessments](https://web.archive.org/uac/Access-to-Privacy-Impact-Assessments)  
 [Statistical Information](https://web.archive.org/uac/Statistical-Information-on-IRS.gov)  
 [Security](https://web.archive.org/uac/Security-on-the-IRS.gov-Website)  
 [If You Send Us Information Online  
-](https://web.archive.org/uac/If-You-Send-Us-Information-Online)[Customer Surveys  
-](https://web.archive.org/uac/Customer-Surveys)****[Cookies](https://web.archive.org/uac/Cookies-on-IRS.gov)  
+](https://web.archive.org/uac/If-You-Send-Us-Information-Online)[Customer Satisfaction Surveys](http://www.irs.gov/uac/Customer-Satisfaction-Surveys)  
+[Cookies](https://web.archive.org/uac/Cookies-on-IRS.gov)  
 [Links to Other Sites](https://web.archive.org/uac/Links-to-Other-Websites)**
 
 * * *
@@ -36,7 +36,7 @@ The IRS is committed to protecting the privacy rights of America's taxpayers. Th
 The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
 
 Director, [Office of Privacy, Governmental Liaison and Disclosure  
-](https://web.archive.org/uac/Office-of-Privacy,-Governmental-Liaison-and-Disclosure)Internal Revenue Service  
+](https://web.archive.org/uac/Privacy,-Governmental-Liaison-and-Disclosure-At-a-Glance)Internal Revenue Service  
 Room 7050 OS:P  
 1111 Constitution Ave. NW  
 Washington, DC 20224
@@ -49,4 +49,4 @@ _**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from
 
 For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the [TIGTA website](http://www.treas.gov/tigta).
 
-Page Last Reviewed or Updated: 30-Apr-2013
+Page Last Reviewed or Updated: 04-Sep-2013
