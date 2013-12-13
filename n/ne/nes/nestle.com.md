@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623214341id_/http%3A//www.nestle.com/info/yourdata) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nestle.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213021641id_/http%3A//www.nestle.com/info/yourdata) for the most accurate reproduction.*
 
 # Privacy Notice | Nestlé Global
 
 ## Key Questions and Answers
-
-Thank you for visiting this website. We hope you enjoy learning more about Nestlé and our products.
 
 Nestlé respects your right to privacy in the on-line world when you use this website or our mobile applications and communicate electronically with us. We have therefore developed this Privacy Notice to inform you how Nestlé S.A. (“Nestlé”, “we,” or “our”) collects, stores, uses and processes the personal information you provide us through this website and/or our mobile applications operated by Nestlé (“website and/or our applications”). 
 
@@ -39,21 +37,13 @@ To simply browse this website and/or our applications, we do not ask you to prov
 Personal information is only collected with your consent (i.e., if you knowingly provide it to us through one of the online forms available on this website and/or our applications) and will usually take the form of: 
 
   * Registration or sign-up (“general website/application registration”); Sign up for a newsletter that is specific to a website and/or our applications and that is not included under general website/application registration; 
-
   * Surveys and polls; 
-
   * Message boards and other interactive activities; 
-
   * Send to a friend; 
-
   * Feedback, questions, or comments through our “Contact Us” form; 
-
-  * Information submitted in a business capacity (e.g., resumes, media requests, etc.);
-
+  * Information submitted in a business capacity (e.g., resumes, media requests, etc.); 
   * Online recruitment (e.g. apply for job vacancies at Nestlé by posting your CV); 
-
-  * Any other request that requires the submission of personal information.
-
+  * Any other request that requires the submission of personal information. 
 
 
 
@@ -93,17 +83,23 @@ There are two types of surveys or polls that may be conducted on this website an
 
 
 
-  * **Message boards and other interactive features** We may provide interactive features that allow you to post or publish messages, stories, pictures, or artwork on this website and/or our applications. Although we strive to protect those who use and participate in these activities, we encourage you to be wary of giving out personal information or images about yourself in public areas such as on a message board or other online community-type feature. Such information can be collected and used by people you don't know. As such, we cannot guarantee the security and privacy of, and are not responsible for, any information you post in these areas. Your use of these features is at your own risk. To request removal of your personal information from our blog or community forum, please [Contact Us](https://web.archive.org/info/contactus/contact-us-landing "Contact Us"). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * **Message boards and other interactive features**
 
-Please note that if we choose to post a picture or message that you provide us through one of these features, we may post, along with the picture or message, certain information about you, such as your username, first name, first initial of your last name, and/or city and state of residence.
+We may provide interactive features that allow you to post or publish messages, stories, pictures, or artwork on this website and/or our applications. Although we strive to protect those who use and participate in these activities, we encourage you to be wary of giving out personal information or images about yourself in public areas such as on a message board or other online community-type feature. Such information can be collected and used by people you don't know. As such, we cannot guarantee the security and privacy of, and are not responsible for, any information you post in these areas. Your use of these features is at your own risk. To request removal of your personal information from our blog or community forum, please [Contact Us](https://web.archive.org/info/contactus/contact-us-landing "Contact Us"). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-
-
-  * **Send to a friend** Personal information requested for one-time use features (typically, names and email addresses) is used on a one-time basis (e.g., to send the communication) and is not further retained by us.
+Please note that if we choose to post a picture or message that you provide us through one of these features, we may post, along with the picture or message, certain information about you, such as your username, first name, first initial of your last name, and/or city and state of residence. 
 
 
 
-  * **Business-related information** Please be advised that in some areas of this website and/or our applications, you may be able to submit information about yourself or the company you represent in a business capacity. These areas may include a career section where you can submit a resume or job application online or a section or contact form to handle media requests. Although any personal information gathered in this context is used exclusively for its intended purpose (e.g., a resume will be used for the job application process only), such information is not otherwise subject to the terms of this Privacy Policy.
+  * **Send to a friend**
+
+Personal information requested for one-time use features (typically, names and email addresses) is used on a one-time basis (e.g., to send the communication) and is not further retained by us.
+
+
+
+  * **Business-related information**
+
+Please be advised that in some areas of this website and/or our applications, you may be able to submit information about yourself or the company you represent in a business capacity. These areas may include a career section where you can submit a resume or job application online or a section or contact form to handle media requests. Although any personal information gathered in this context is used exclusively for its intended purpose (e.g., a resume will be used for the job application process only), such information is not otherwise subject to the terms of this Privacy Policy.
 
 
 
@@ -136,13 +132,17 @@ When doing any promotion involving another company, we may provide a separate li
 
 
 
-  * **Legal and Business Transfers** We may also disclose your personal information if we are required to do so by law, or if in our good faith judgment, such action is reasonably necessary to comply with legal processes, to respond to any claims, or to protect the safety or rights of Nestlé, its customers, or the public. 
+  * **Legal and Business Transfers**
+
+We may also disclose your personal information if we are required to do so by law, or if in our good faith judgment, such action is reasonably necessary to comply with legal processes, to respond to any claims, or to protect the safety or rights of Nestlé, its customers, or the public. 
 
 In the event of a merger or acquisition of all or part of Nestlé by another company, or in the event that Nestlé were to sell or dispose of all or a part of the Nestlé business, the acquirer would have access to the information maintained by that Nestlé business, which could include personal information, subject to applicable law. Similarly, personal information may be transferred as part of a corporate reorganization, insolvency proceeding, or other similar event, if permitted by and done in accordance with applicable law. 
 
 
 
-  * **Aggregate Information** We may share aggregated demographic or survey information with third parties, but this information is in anonymous form and does not contain any personal information. The aggregate information that we share may include anonymous information that is captured through the use of cookies and other similar tracking technology, as explained in Question 8.
+  * **Aggregate Information**
+
+We may share aggregated demographic or survey information with third parties, but this information is in anonymous form and does not contain any personal information. The aggregate information that we share may include anonymous information that is captured through the use of cookies and other similar tracking technology, as explained in Question 8.
 
 
 
@@ -180,9 +180,11 @@ Return to top  
 
 Nestlé does make use of tracking technologies (“Cookies”, “IP Addresses”, Log Files”, “Web Beacons”) to gather certain information such as browser type and operating system, referring page, path through site, domain of ISP etc. for the purpose of improving the use and functionality of our websites and to better understand how visitors use this website and/or our applications and the tools and services offered on it. Tracking technologies help us tailor this website and/or our applications to your personal needs. 
 
-  * **Cookies** We use Cookies to improve the use and functionality of this website and/or our applications and to better understand how visitors use this website and/or our applications and the tools and services offered on it. The storage of Cookies on your computer provides an easy and convenient way for us to personalize or enhance your experience on this website and/or our applications and to make your next visit more enjoyable.
+  * **Cookies**
 
-If you like to learn more about Nestlé’s policy on Cookies and your rights, please visit the [Nestlé Cookies Policy](https://web.archive.org/info/cookies "Nestlé Cookies Policy").
+We use Cookies to improve the use and functionality of this website and/or our applications and to better understand how visitors use this website and/or our applications and the tools and services offered on it. The storage of Cookies on your computer provides an easy and convenient way for us to personalize or enhance your experience on this website and/or our applications and to make your next visit more enjoyable.
+
+If you like to learn more about Nestlé’s policy on Cookies and your rights, please visit the [Nestlé Cookies Policy](https://web.archive.org/info/cookies "Nestlé Cookies Policy"). 
 
 
 
