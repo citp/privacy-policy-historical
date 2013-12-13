@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laughtertab.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613052306id_/http%3A//laughtertab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughtertab.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213083928id_/http%3A//laughtertab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,10 +19,34 @@ laughtertab.com does use cookies to store information about visitors preference
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-  * Google Ad sense
-  * Lijit Ad Network
-  * Qadraba Adnetwork
-  * Clicksor Adnetowrk
+  * –Rubicon Project
+
+–Lijit FM
+
+–OpenX Market Supply
+
+–Pulse Point
+
+–Qadabra
+
+–CPM Star
+
+–Criteo Market
+
+–MGID
+
+–Sonobi Media
+
+–MadAdsMedia
+
+–Q1 Media
+
+–Google Adsense
+
+–CPX Interactive
+
+–Google DFP
+
 
 
 
