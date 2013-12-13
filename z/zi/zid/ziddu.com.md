@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ziddu.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623035123id_/http%3A//www.ziddu.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziddu.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213010840id_/http%3A//www.ziddu.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Free Software Downloads | Free Web Hosting | Download Free Movies
+# Free Web Hosting | Free File Hosting | Share Documents Online | Mp3 Songs Download
 
 When you register with us, we may ask you to provide us with certain personal information, including, but not limited to, your name and email address. 
 
