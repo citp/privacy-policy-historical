@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405130254id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213074922id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy notes from AccuWebHosting.Com
 
@@ -26,20 +26,21 @@ It is the information which is provided by the user for various purposes and col
 
 We use client information to: 
 
-  1. Provide technical assistance upon their written or telephonic requests; during such interaction information are provided to our technical and billing personnel who have signed-up the Intellectual Property Right Agreement with us and are bound to follow our Privacy Policy; 
-  2. Complete the registration formalities with hosting registrar; here some information like name, address, phone numbers, IP Address, etc., are made available for public access through WHOIS report as per the mandatory requirement of domain name registration process; 
+  1. Provide technical assistance upon their written or telephonic requests; during such interaction information are provided to our technical and billing personnel who have signed-up the Intellectual Property Right Agreement with us and are bound to follow our Privacy Policy;
+  2. Complete the registration formalities with hosting registrar; here some information like name, address, phone numbers, IP Address, etc., are made available for public access through WHOIS report as per the mandatory requirement of domain name registration process;
 
 
 
 ### **Divulgence of Information:**
 
-Our client should note that in the following exceptions we may divulge the information; 
+Our client should note that in the following exceptions we may divulge the information;
 
   * 1.1 With a lawful consent of originator;
   * 1.2 To a person authorized to provide technical assistance to our clients;
   * 1.3 To a law enforcement agency as the case may be;
   * 1.4 To a Domain Name Registrar;
 
+  
 
 
 ### **Client Confirmation:**
