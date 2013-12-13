@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crushingcandies.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519060721id_/http%3A//www.crushingcandies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushingcandies.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213191738id_/http%3A//www.crushingcandies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.crushingcandies.com%2Fprivacy-policy%2F&media=http%3A%2F%2Fsphotos-h.ak.fbcdn.net%2Fhphotos-ak-prn1%2F32169_471441519586620_144802284_n.jpg&description=Privacy+Policy)
 
 The CrushingCandies privacy policy was developed in order to protect your data and give you valuable info on the way they are stored and used. Occasionally, it receives upgrades which aim at protecting them more effectively.
 
