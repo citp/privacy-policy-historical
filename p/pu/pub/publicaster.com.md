@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicaster.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625222240id_/http%3A//www.whatcounts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicaster.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213040431id_/http%3A//www.whatcounts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
