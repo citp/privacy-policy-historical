@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the propertyportalwatch.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614233233id_/http%3A//www.propertyportalwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyportalwatch.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213130622id_/http%3A//www.propertyportalwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Property Portal Watch
 
-## Internet Privacy Policy
-
-### 1\.  Introduction
+## 1\.  Introduction
 
 ### 1.1.  About Us
 
@@ -12,19 +10,15 @@ This website (www.propertyportalwatch.com) is operated by Classified Ad Ventures
 
 This policy sets out:
 
-a)           what kind of information we collect;
+  1. what kind of information we collect;
+  2. how we collect it;
+  3. why we collect it;
+  4. how we use and disclose it;
+  5. security;
+  6. how to seek access to and update your personal information; and
+  7. how to contact us.
 
-b)           how we collect it;
 
-c)           why we collect it;
-
-d)           how we use and disclose it;
-
-e)           security;
-
-f)            how to seek access to and update your personal information; and
-
-g)           how to contact us.
 
 ### 1.2.  National Privacy Principles
 
@@ -34,7 +28,7 @@ We may, from time to time, review and update this policy, including to take acco
 
 This policy was last updated in June 2011
 
-### 2\.  What information do we collect and hold?
+## 2\.  What information do we collect and hold?
 
 ### 2.1.  Collection of information
 
@@ -54,45 +48,39 @@ If, at any time, you provide personal or other information about someone other t
 
 If you do not give us any of the personal information which we ask you for, it may affect our ability to meet our obligations to you.
 
-### 3\.  Use and disclosure
+## 3\.  Use and disclosure
 
 ### 3.1.  How we use your information
 
 We use your personal information for the purposes for which it was collected and related purposes (which are normally obvious when we collect it), including to:
 
-a)           provide you with news and information about our products and services or a third party business which we believe may be of interest to you;
+  1. provide you with news and information about our products and services or a third party business which we believe may be of interest to you;
+  2. provide our services to you, to manage and account for the services, and to improve the services
+  3. manage our relationships with you;
+  4. provide you with information about events or other products or services that may interest you or them;
+  5. facilitate our internal business operations, including to verify your identity and to fulfil our legal requirements.
 
-b)           provide our services to you, to manage and account for the services, and to improve the services
 
-c)           manage our relationships with you;
-
-d)           provide you with information about events or other products or services that may interest you or them;
-
-e)           facilitate our internal business operations, including to verify your identity and to fulfil our legal requirements.
 
 ### 3.2.  How we disclose your information
 
 We may disclose personal information for the purposes for which it was collected, and also:
 
-a)           to any person where necessary or desirable in connection with our provision of services to you, such as to regulatory authorities, or other partners or advisors (whether in Australia or overseas)
+  1. to any person where necessary or desirable in connection with our provision of services to you, such as to regulatory authorities, or other partners or advisors (whether in Australia or overseas)
+  2. to other members of the Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy).
+  3. on a confidential basis to external service providers so that they can provide financial, administrative or other services in connection with the operation of our business,
+  4. that are our agents, business partners or joint venture entities or partners;
+  5. in connection with any sale of our business (or any part of it);
+  6. as required by law subject to our professional obligations, as permitted under the National Privacy Principles; and
+  7. with your consent.
 
-b)           to other members of the Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy).
 
-c)           on a confidential basis to external service providers so that they can provide financial, administrative or other services in connection with the operation of our business,
-
-d)           that are our agents, business partners or joint venture entities or partners;
-
-e)           in connection with any sale of our business (or any part of it);
-
-f)            as required by law subject to our professional obligations, as permitted under the National Privacy Principles; and
-
-g)           with your consent.
 
 ### 3.3.  Opting out
 
 You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you – for example, by unsubscribing from e-newsletters and other marketing or promotional material sent by us. You can do so by either clicking on an unsubscribe link at the end of an email or by contacting [editor@propertyportalwatch.com](mailto:editor@propertyportalwatch.com)
 
-### 4\.  Information security
+## 4\.  Information security
 
 We take reasonable steps to protect all information which we hold (including your personal information) from misuse, loss, unauthorised access, modification or disclosure.
 
@@ -100,7 +88,7 @@ We take reasonable steps to hold information securely in electronic or physical 
 
 You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws).
 
-### 5\.  Access and correction
+## 5\.  Access and correction
 
 You may request at any time access to and to update personal information we hold about you. We may charge you a fee where access is provided. We may refuse to provide access if the National Privacy Principles allow us to do so.
 
