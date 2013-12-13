@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wysada.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528140612id_/http%3A//wysada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wysada.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213053251id_/http%3A//wysada.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WYSADA
 
@@ -43,18 +43,10 @@ We may also release your information when we believe is appropriate. For example
 **Customer care**  
 Please contact our Customer Care team during business hours for immediate assistance:
 
-Email us at: [**support@wysada.com**](mailto:support@wysada.com)   
-Toll Free inside UAE: **800WYSADA or 800 997232**  
-Outside UAE: **+971 800 997232  
-** Jordan: **+962 78 7773999  
-**
-
-Hours of operation from Saturday to Thursday:   
-Jordan: **8:00am-8:00pm**  
-KSA: **8:00am-8:00pm**  
-UAE: **9:00am-9:00pm**
-
-Holiday: Friday. 
+**Our Address:**   
+Al Barsha1-Bedaya Building 3rd floor Office no.307  
+Dubai, Dubai 487084  
+UAE 
 
 **Your Consent**   
 By using our site, you consent to our web site privacy policy.
