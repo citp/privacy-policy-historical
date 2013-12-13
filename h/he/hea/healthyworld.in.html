@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the healthyworld.in privacy policy that was archived on 2013-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614054705id_/http%3A//www.healthyworld.in/Articles.asp%3FID%3D5) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthyworld.in privacy policy that was archived on 2013-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213175503id_/http%3A//www.healthyworld.in/Articles.asp%3FID%3D5) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=467503109949151"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=467503109949151"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
 <script type="text/javascript">
 if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
   else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
@@ -27,6 +27,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -42,8 +43,31 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.4.92"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -68,7 +92,25 @@ var Config_CDN_URL = '/'
 <meta name="language" content="english"> 
 <meta name="norton-safeweb-site-verification" content="igenpop8o1wswlgj5tihdp-otbum0t6m6cl05efud5gasnmlt-dvplnvnx3yrk0qkh4qxqk1tdii2j0pti0ddul1tsexa0swdarcxbi1gl6u60pw9t6ke3-m8vnjao-z">
 <!--<title>Healthy World - for anything on Health (India)</title>-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42419529-1', 'healthyworld.in');
+  ga('send', 'pageview');
+
+</script>
+<!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
+_atrk_opts = { atrk_acct:"YLK2i1aoZM000b", domain:"healthyworld.in",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=YLK2i1aoZM000b" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+<!--<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-34733783-1']);
   _gaq.push(['_trackPageview']);
@@ -77,7 +119,7 @@ var Config_CDN_URL = '/'
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script>
+</script>-->
 <!-- DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
 DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -88,6 +130,59 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 <meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot">
 <meta name="webutation-site-verification" content="webutationdeda44aae0f9ad0feda71d136d7f4b4d">
 <meta property="fb:admins" content="538445432">
+<meta name="p:domain_verify" content="ad9175d8aae478b2b47aec932c266b03">
+<!--i46TcPWj1X1gixkDrdu2LbwKZ_8-->
+<script src="//www.yotpo.com/js/yQuery.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var yotpo_app_key = "OHgoDhqC0PvR1VsmWgPsbDo7PJKgSvm4TERCs2az";
+yQuery(document).ready(function(){
+if (location.pathname == "/ProductDetails.asp" || 
+location.pathname.indexOf("-p/") != -1 || 
+location.pathname.indexOf("_p/") != -1) { 
+var pname = yQuery('meta[property="og:title"]').attr('content');
+var pid = yQuery('.product_code').text() ? yQuery('.product_code').text() : yQuery('input[name="ProductCode"]').val();
+var purl = yQuery(location).attr('href');
+var pimg = yQuery('#product_photo').attr('src');
+var pdescription = yQuery('#ProductDetail_ProductDetails_div').text();
+pdescription = yQuery.trim(pdescription);
+
+var div = document.createElement("div");
+div.setAttribute('class', 'yotpo reviews');
+div.setAttribute('data-appkey', 'OHgoDhqC0PvR1VsmWgPsbDo7PJKgSvm4TERCs2az');
+div.setAttribute('data-domain', 'http://healthyworld.in');
+div.setAttribute('data-product-id', pid);
+div.setAttribute('data-product-models', '');
+div.setAttribute('data-name', pname);
+div.setAttribute('data-url', purl);
+div.setAttribute('data-description', pdescription);
+div.setAttribute('data-image-url', pimg);
+div.setAttribute('data-bread-crumbs', '');
+
+yQuery('#vCSS_mainform').after(div);
+
+var blplaceholder = document.getElementById('yotpo-bottomline-placeholder');
+if (blplaceholder != null) {
+
+var bldiv = document.createElement("div");
+bldiv.setAttribute('class', 'yotpo bottomLine');
+bldiv.setAttribute('data-appkey', 'OHgoDhqC0PvR1VsmWgPsbDo7PJKgSvm4TERCs2az');
+bldiv.setAttribute('data-domain', 'http://healthyworld.in');
+bldiv.setAttribute('data-product-id', pid);
+bldiv.setAttribute('data-product-models', '');
+bldiv.setAttribute('data-name', pname);
+bldiv.setAttribute('data-url', purl);
+bldiv.setAttribute('data-description', pdescription);
+bldiv.setAttribute('data-image-url', pimg);
+bldiv.setAttribute('data-bread-crumbs', '');
+blplaceholder.insertBefore(bldiv, blplaceholder.firstChild);
+
+}
+yQuery(".yotpo").yotpo();
+}
+
+});
+//]]> </script>
 </head>
 <!-- #################### FREE TEMPLATE INFO VFAD-Y-SPD-062011 #################### -->
 <body>
@@ -111,24 +206,77 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
             <a>Free Delivery in Delhi-NCR, Mumbai-Thane, Pune</a> | <a>Order by Call</a> | <a>Personalized Service!</a> | <a>Passionate about your health</a> | <a>4000+ products & services for your health</a>
     </div>-->
 		<div id="headerTop">
-			<a href="http://www.healthyworld.in/">Home</a> | <a href="http://www.healthyworld.in/aboutus.asp">About Us</a> | <a href="http://www.healthyworld.in/myaccount.asp">My Account</a> | <a href="http://www.healthyworld.in/shoppingcart.asp">View Cart</a> | <a href="http://www.healthyworld.in/help.asp">Site Help / FAQs</a> |<a href="http://www.healthyworld.in/Articles.asp?ID=250">Write to Us</a>
+			<a href="http://www.healthyworld.in/">Home</a> | <a href="http://www.healthyworld.in/know">Knowledge Zone</a> | <a href="http://www.healthyworld.in/aboutus.asp">About Us</a> | <a href="http://www.healthyworld.in/myaccount.asp">My Account</a> | <a href="http://www.healthyworld.in/shoppingcart.asp">View Cart</a> | <!--<a href="http://www.healthyworld.in/help.asp">Site Help / FAQs</a> |--><a href="http://www.healthyworld.in/Articles.asp?ID=250">Write to Us</a>
 		</div>
 		<div>
 
-			<img src="/v/vspfiles/assets/images/healthy world logo.jpg" alt="" height="115">
+<!--			<img src="/v/vspfiles/assets/images/healthy world logo.jpg" alt=""  height="115">-->
+<!--			<a href="http://www.healthyworld.in"><img src="/v/vspfiles/assets/images/hw_logo_transparent_lo.jpg" alt="Healthy World"  top=15, width=210, height="115></a><img src="/v/vspfiles/assets/images/free_shipping.jpg" alt="" height="70">-->
+			<a href="http://healthyworld.in"><img src="/v/vspfiles/assets/images/hw_logo_transparent_lo.jpg" alt="" top="15," width="210," height="115"></a><a><img src="/v/vspfiles/assets/images/phone_order_healthy_world_3.jpg" alt="" height="70"></a>
 <!--			<img src="/v/vspfiles/assets/images/hw_logo_transparent.jpg" alt=""  height="80">-->
 <!--<img src="/v/vspfiles/assets/images/home_page.jpg" alt="" >-->
-<img src="/v/vspfiles/assets/images/free_shipping.jpg" alt="" height="70">
-
 		</div>
 		<!-- #################### SEARCH BOX -->
 		<div id="display_search">
-			<div>
-				<a></a>Queries? Delhi- 9818530249, Mumbai- 9819556694, Pune- 9923229877
-			</div>
+			<!--<div>-->
+<!--				<a></a>Queries? Delhi- 9818530249, Mumbai- 9819556694, Pune- 9923229877-->
+				   <!--Customer Care / Phone Order: +91 8767 120 120 / +91 77 57 9798 77 (9am-7pm)-->
+.
+			<!--</div>-->
 			<form action="http://www.healthyworld.in/SearchResults.asp" method="get" name="SearchBoxForm">
-				<input type="text" value="Search for health items" name="Search" class="txtbox" id="search_input" onfocus="if (this.value == 'Search for health items') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search for health items';}"><img src="/v/vspfiles/assets/images/search_icon.jpg" border="0" align="top" style="cursor: pointer;" onclick="document.forms['SearchBoxForm'].submit();" alt="Submit" width="50" height="30">
+				<input type="text" value="Search for health items" name="Search" class="txtbox" id="search_input" onfocus="if (this.value == 'Search for health items') {this.value = '';}" onblur="if (this.value == 'Search for health items') {this.value = '';}"><img src="/v/vspfiles/assets/images/search_icon.jpg" border="0" align="top" style="cursor: pointer;" onclick="document.forms['SearchBoxForm'].submit();" alt="Submit" width="50" height="30">
 			</form>
+<!--<table border="0" <tr><td width="640">
+<script>
+
+function displayResult(senddata)
+{
+document.getElementById("result").value=senddata
+}
+
+
+
+function displayResults()
+{
+var q=document.getElementById("question").value
+var x=document.getElementById("result").value
+
+if (x=="diseases")
+window.open("http://www.healthyworld.in/kb_results.asp?RefineBy_Category=&s="+q+"&Submit=Search");
+else if(x=="products")
+window.open("http://www.healthyworld.in/SearchResults.asp?Search="+q,"_parent");
+else
+window.open("http://www.healthyworld.in/SearchResults.asp?Search="+q,"_parent");
+}
+
+
+function convertEnterToTab() {
+      if(event.keyCode==13)
+            {
+          var q=document.getElementById("question").value
+var x=document.getElementById("result").value
+alert('Hi,you are searching for products / information related to '+q);
+if (x=="diseases")
+window.open("http://www.healthyworld.in/kb_results.asp?RefineBy_Category=&s="+q+"&Submit=Search");
+else if(x=="products")
+window.open("http://www.healthyworld.in/SearchResults.asp?Search="+q,"_parent");
+else
+window.open("http://www.healthyworld.in/SearchResults.asp?Search="+q,"_parent");
+
+
+           }
+}
+    document.onkeydown = convertEnterToTab;    
+  </script>
+
+<form>
+<input type="hidden" id="result">
+<input type="text" value="Search for health items" name="Search" class="txtbox" id="question" onfocus="if (this.value == 'Search for health items') {this.value = '';}" onblur="if (this.value == '') {this.value = '';}" />
+<input type="radio" name="senddata" onclick="displayResult(this.value)" value="diseases">I have an issue, want to know solutions for it<br>
+<input type="radio" name="senddata" onclick="displayResult(this.value)" value="products" checked>I am looking for a product – give me options<br>-->
+<!--<div align="center"><img src="/v/vspfiles/assets/images/search_icon.jpg" border="0" align="top" style="cursor: pointer;" onclick="displayResults()" alt="Submit"/></div>-->
+<!--</form>
+</td><td><img src="/v/vspfiles/assets/images/search_icon.jpg" border="0" align="top" style="cursor: pointer;" onclick="displayResults()"   alt="Submit" height="29"/></td><tr></table>-->
 		</div>
 	</div>
 	<!-- #################### TOP NAVIGATION #################### -->
@@ -142,16 +290,31 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 </div>
 		<div class="clear">
 		</div>
-	</div>
+		<div class="placeholder">
+		</div>
+		<!-- #################### LIST ITEMS OR ROLLOVER COLORS OR ROLLOVER COLORS POPOUT #################### -->
+		<div id="display_menu_2" class="menu">
+<script type="text/javascript">var breadCrumb="||";</script>
+<script type="text/javascript">display_menu_2();</script><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(8)" onselectstart="return 0" id="menu8" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 170px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="170" id="tbl8"><tbody><tr id="pTR59"><td width="170" id="el59" onmouseover="h$(59)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl59"><tbody><tr id="td59"><td id="_imgO59"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img59" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(59)" name="mM1" onfocus="_iF0C(59)" href="http://www.healthyworld.in/category-s/1817.htm" class="nav" id="lnk59" style="border:none;background:transparent;display:block;">Diabetic Special</a></td></tr></tbody></table></td></tr><tr id="pTR60"><td width="170" id="el60" onmouseover="h$(60)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl60"><tbody><tr id="td60"><td id="_imgO60"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img60" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(60)" name="mM1" onfocus="_iF0C(60)" href="http://www.healthyworld.in/category-s/2079.htm" class="nav" id="lnk60" style="border:none;background:transparent;display:block;">Sinusitis</a></td></tr></tbody></table></td></tr><tr id="pTR61"><td width="170" id="el61" onmouseover="h$(61)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl61"><tbody><tr id="td61"><td id="_imgO61"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img61" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(61)" name="mM1" onfocus="_iF0C(61)" href="http://www.healthyworld.in/category-s/2056.htm" class="nav" id="lnk61" style="border:none;background:transparent;display:block;">Metabolism Boosters</a></td></tr></tbody></table></td></tr><tr id="pTR62"><td width="170" id="el62" onmouseover="h$(62)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl62"><tbody><tr id="td62"><td id="_imgO62"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img62" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(62)" name="mM1" onfocus="_iF0C(62)" href="http://www.healthyworld.in/category-s/2058.htm" class="nav" id="lnk62" style="border:none;background:transparent;display:block;">Anti-Oxidants</a></td></tr></tbody></table></td></tr><tr id="pTR63"><td width="170" id="el63" onmouseover="h$(63)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl63"><tbody><tr id="td63"><td id="_imgO63"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img63" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(63)" name="mM1" onfocus="_iF0C(63)" href="http://www.healthyworld.in/category-s/1972.htm" class="nav" id="lnk63" style="border:none;background:transparent;display:block;">Heart-Healthy Special</a></td></tr></tbody></table></td></tr><tr id="pTR64"><td width="170" id="el64" onmouseover="h$(64)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl64"><tbody><tr id="td64"><td id="_imgO64"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img64" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(64)" name="mM1" onfocus="_iF0C(64)" href="http://www.healthyworld.in/category-s/2014.htm" class="nav" id="lnk64" style="border:none;background:transparent;display:block;">Gluten-Free</a></td></tr></tbody></table></td></tr><tr id="pTR65"><td width="170" id="el65" onmouseover="h$(65)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl65"><tbody><tr id="td65"><td id="_imgO65"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img65" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(65)" name="mM1" onfocus="_iF0C(65)" href="http://www.healthyworld.in/category-s/2059.htm" class="nav" id="lnk65" style="border:none;background:transparent;display:block;">Hyper Thyroidism</a></td></tr></tbody></table></td></tr><tr id="pTR66"><td width="170" id="el66" onmouseover="h$(66)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl66"><tbody><tr id="td66"><td id="_imgO66"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img66" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(66)" name="mM1" onfocus="_iF0C(66)" href="http://www.healthyworld.in/category-s/2060.htm" class="nav" id="lnk66" style="border:none;background:transparent;display:block;">Hypo Thyroidism</a></td></tr></tbody></table></td></tr><tr id="pTR67"><td width="170" id="el67" onmouseover="h$(67)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl67"><tbody><tr id="td67"><td id="_imgO67"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img67" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(67)" name="mM1" onfocus="_iF0C(67)" href="http://www.healthyworld.in/category-s/2015.htm" class="nav" id="lnk67" style="border:none;background:transparent;display:block;">Ulcerative Colitis</a></td></tr></tbody></table></td></tr><tr id="pTR68"><td width="170" id="el68" onmouseover="h$(68)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl68"><tbody><tr id="td68"><td id="_imgO68"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img68" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(68)" name="mM1" onfocus="_iF0C(68)" href="http://www.healthyworld.in/category-s/2055.htm" class="nav" id="lnk68" style="border:none;background:transparent;display:block;">Weight Gain</a></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink8" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
+</div>
+		<div class="clear">
+		</div>
+</div>
 	<!--  -->
 	<!-- #################### CONTENT #################### -->
 	<div id="content">
 		<!-- #################### LEFT COLUMN #################### -->
 		<div id="leftnav">
 			<!-- #################### NAV MENU PROMOTIONS -->
-			<div id="display_promotions_999"><div class="fb-like" data-href="http://facebook.com/yourhealthyworld" data-send="false" data-layout="box_count" data-width="220" data-show-faces="false"></div></div>
+			<div id="display_promotions_999"><a><img src="/v/vspfiles/assets/images/free_shipping_new.jpg" alt="" align="" width="140" border="0px"></a><div><hr></div>
+<img src="/v/vspfiles/assets/images/3banner1.jpg" alt="h" align="" width="140" border="0px"><br>
+<img src="/v/vspfiles/assets/images/3banner2.jpg" alt="w" align="" width="140" border="0px"><br>
+<a href="http://www.healthyworld.in/Articles.asp?ID=372" target="_blank"><img src="/v/vspfiles/assets/images/3banner3.jpg" alt="c" align="" width="140" border="0px"></a><br><a href="http://healthyworld.in/know"><img src="/v/vspfiles/assets/images/hw knowledge zone.jpg" alt="" align="" width="140" border="0px"></a><div><hr></div><a href="https://twitter.com/healthyworldin" target="_blank"><img src="/v/vspfiles/assets/images/twitter.jpg" width="20" height="20"></a><a href="https://www.facebook.com/yourhealthyworld" target="_blank"><img src="/v/vspfiles/assets/images/images-(9).jpg" width="20" height="20"></a><a href="http://www.linkedin.com/company/healthy-world" target="_blank"><img src="/v/vspfiles/assets/images/linkedin.jpg" width="20" height="20"></a><a href="http://pinterest.com/healthyworld/" target="_blank"><img src="/v/vspfiles/assets/images/pinterest.jpg" width="20" height="20"></a><a href="https://plus.google.com/104986872877593159918/posts" target="_blank"><img src="/v/vspfiles/assets/images/gplus.jpg" width="20" height="20"></a></div>
 			<!-- #################### CHOOSE LIST ITEM OR TREE EXPAND OR ROLLOVER COLORS POPOUT #################### -->
+
 			<div id="search_refinement_filters"></div>
+
+
 			<div id="DropDown_ShopBy_Manufacturer" class="menu"><script type="text/javascript">
 function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 	if (arg_value !== "") {
@@ -170,152 +333,147 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Alpen">Alpen</option>
 <option value="American+Garden">American Garden</option>
 <option value="Arya+Monk+Tea">Arya Monk Tea</option>
+<option value="Atharva">Atharva</option>
 <option value="Bagrrys">Bagrrys</option>
+<option value="Barnier">Barnier</option>
 <option value="Basilur">Basilur</option>
 <option value="Batchelors+Soup">Batchelors Soup</option>
-<option value="Baxters">Baxters</option>
+<option value="Belvoir">Belvoir</option>
 <option value="Bio+Foods">Bio Foods</option>
 <option value="Bisto">Bisto</option>
 <option value="Blue+Dragon">Blue Dragon</option>
+<option value="Blue+Elephant">Blue Elephant</option>
+<option value="Bob%27s+Red+Mill">Bob's Red Mill</option>
 <option value="Bonne+Maman">Bonne Maman</option>
+<option value="Bonomelli+Polenta">Bonomelli Polenta</option>
 <option value="Borges">Borges</option>
-<option value="BPKomfort">BPKomfort</option>
-<option value="Cal%2DLite">Cal-Lite</option>
 <option value="Camellia+Twigs">Camellia Twigs</option>
 <option value="Campbells">Campbells</option>
-<option value="Canz">Canz</option>
 <option value="Capilano">Capilano</option>
+<option value="Caviar+Calvisius">Caviar Calvisius</option>
 <option value="Chamong">Chamong</option>
 <option value="Chilliguard">Chilliguard</option>
-<option value="Cobra">Cobra</option>
-<option value="Cravers">Cravers</option>
+<option value="Clearspring">Clearspring</option>
+<option value="Clipper+Teas">Clipper Teas</option>
+<option value="Confitures+%28France%29">Confitures (France)</option>
+<option value="Coronation">Coronation</option>
 <option value="Crystal+Light">Crystal Light</option>
-<option value="Dakini">Dakini</option>
-<option value="Dean%27s">Dean's</option>
+<option value="Danesi">Danesi</option>
 <option value="Delaviuda">Delaviuda</option>
-<option value="Disano+Pasta">Disano Pasta</option>
+<option value="Delouis">Delouis</option>
+<option value="Dolce">Dolce</option>
+<option value="Dormen">Dormen</option>
+<option value="Dorset+Muesli">Dorset Muesli</option>
 <option value="Dr+Morepen">Dr Morepen</option>
-<option value="Ecofarms">Ecofarms</option>
+<option value="Eat+Natural">Eat Natural</option>
 <option value="El+Almendro">El Almendro</option>
-<option value="Epicure">Epicure</option>
-<option value="EuroGold">EuroGold</option>
+<option value="Enerzal">Enerzal</option>
 <option value="Feel+Free+%2D+Adult+Diapers">Feel Free - Adult Diapers</option>
 <option value="Filiberto+Bianconi">Filiberto Bianconi</option>
-<option value="Forest+Feast">Forest Feast</option>
+<option value="Friends+Diapers">Friends Diapers</option>
 <option value="Gaia">Gaia</option>
-<option value="Garden+Snacks">Garden Snacks</option>
 <option value="Gatorade">Gatorade</option>
-<option value="Golden+Crown">Golden Crown</option>
-<option value="Granola+Ladoo">Granola Ladoo</option>
 <option value="Green+Giant">Green Giant</option>
 <option value="Guardian+Brands">Guardian Brands</option>
 <option value="Hardikar">Hardikar</option>
+<option value="HealthVit">HealthVit</option>
+<option value="Healthy+Alternative">Healthy Alternative</option>
 <option value="Herbal+Hills">Herbal Hills</option>
-<option value="Hermell">Hermell</option>
+<option value="Himalaya+Drug+Company">Himalaya Drug Company</option>
+<option value="Honey+%28France%29">Honey (France)</option>
 <option value="Honey+%2D+Organic">Honey - Organic</option>
-<option value="Huntley+%26+Palmers">Huntley &amp; Palmers</option>
-<option value="Ibero+Olive+Oil">Ibero Olive Oil</option>
-<option value="Jahagirdar">Jahagirdar</option>
+<option value="Inlife+Supplements">Inlife Supplements</option>
 <option value="Jamie+Oliver">Jamie Oliver</option>
 <option value="Jay+Tea">Jay Tea</option>
 <option value="Jivo+Canola+Oil">Jivo Canola Oil</option>
-<option value="Jordan%27s">Jordan's</option>
+<option value="Joint+Coach">Joint Coach</option>
+<option value="Joint+Expert">Joint Expert</option>
 <option value="JSB+Healthcare+Devices">JSB Healthcare Devices</option>
 <option value="Kare%2Din+Adult+Diapers">Kare-in Adult Diapers</option>
-<option value="Kato+Fruit+Juice">Kato Fruit Juice</option>
+<option value="Karma+Organics">Karma Organics</option>
 <option value="Knockout">Knockout</option>
-<option value="Krisa+Chocolates">Krisa Chocolates</option>
+<option value="Koh%2DKae">Koh-Kae</option>
 <option value="Lady+Liberty">Lady Liberty</option>
-<option value="Lock%2Dn%2DLock">Lock-n-Lock</option>
-<option value="Malia+Bar">Malia Bar</option>
+<option value="Lindsay">Lindsay</option>
+<option value="Macadamia+Nuts">Macadamia Nuts</option>
 <option value="Mangajo">Mangajo</option>
 <option value="Manna+Foods">Manna Foods</option>
-<option value="McVities+India">McVities India</option>
+<option value="Mariani">Mariani</option>
 <option value="McVities+International">McVities International</option>
 <option value="Meghsons">Meghsons</option>
 <option value="Melrose">Melrose</option>
 <option value="Mo+Fruits">Mo Fruits</option>
+<option value="MondoVino">MondoVino</option>
 <option value="Monin">Monin</option>
-<option value="My+Lab+Yogi">My Lab Yogi</option>
 <option value="Naturals">Naturals</option>
 <option value="Nature+Valley">Nature Valley</option>
 <option value="Nice+and+Natural">Nice and Natural</option>
 <option value="Nutrivalue">Nutrivalue</option>
-<option value="Ocean+Spray">Ocean Spray</option>
-<option value="Oliveta+Olive+Oil">Oliveta Olive Oil</option>
-<option value="Opera">Opera</option>
 <option value="Organic+India">Organic India</option>
 <option value="Organic+Nation">Organic Nation</option>
 <option value="Orgran">Orgran</option>
+<option value="Pack+My+Bag">Pack My Bag</option>
 <option value="Planters">Planters</option>
-<option value="Popitas+Popcorn">Popitas Popcorn</option>
+<option value="Ponti+%28Italy%29">Ponti (Italy)</option>
 <option value="Post+Cereals">Post Cereals</option>
 <option value="Pristine">Pristine</option>
 <option value="Rafael+Salgado+Olive+oil">Rafael Salgado Olive oil</option>
 <option value="Raj+Thermometers">Raj Thermometers</option>
-<option value="Red+Label+Natural+Care">Red Label Natural Care</option>
-<option value="Ricela+Rice+Bran+Oil">Ricela Rice Bran Oil</option>
-<option value="Ritz">Ritz</option>
-<option value="Roasty+Tasty">Roasty Tasty</option>
 <option value="Roland">Roland</option>
-<option value="Ryvita">Ryvita</option>
 <option value="San+Remo">San Remo</option>
 <option value="Santangelo">Santangelo</option>
+<option value="Sea+Salt+%28France%29">Sea Salt (France)</option>
 <option value="Sericha">Sericha</option>
-<option value="Seville+Premium">Seville Premium</option>
 <option value="Soul%2DCentric">Soul-Centric</option>
 <option value="Sourenee+Tea">Sourenee Tea</option>
 <option value="Spearmint+Tea">Spearmint Tea</option>
-<option value="Spice+Supreme">Spice Supreme</option>
-<option value="Spighe+De+Campo">Spighe De Campo</option>
 <option value="Strombss">Strombss</option>
+<option value="Sun+Sweet">Sun Sweet</option>
 <option value="Sunny+Select">Sunny Select</option>
-<option value="Teekanne">Teekanne</option>
+<option value="Super+Ayurveda">Super Ayurveda</option>
+<option value="Sweet+Home+Farm">Sweet Home Farm</option>
+<option value="Syren">Syren</option>
+<option value="Taj+Mahal">Taj Mahal</option>
 <option value="Tender+Cactus">Tender Cactus</option>
+<option value="TePe">TePe</option>
 <option value="Typhoo">Typhoo</option>
 <option value="Unived">Unived</option>
 <option value="Vazar">Vazar</option>
-<option value="Vedamrita">Vedamrita</option>
 <option value="Vedantika">Vedantika</option>
-<option value="Verdor">Verdor</option>
 <option value="Vicks">Vicks</option>
 <option value="Virgin+Coconut+Oil">Virgin Coconut Oil</option>
+<option value="Vista+Nutrition">Vista Nutrition</option>
 <option value="Weetabix">Weetabix</option>
-<option value="Wheatgrass+%2D+Fresh">Wheatgrass - Fresh</option>
-<option value="Wonderful+Dry+Fruits">Wonderful Dry Fruits</option>
 <option value="Wonka">Wonka</option>
-<option value="Ybarra+Olive+Oil">Ybarra Olive Oil</option>
+<option value="Zenith+Nutrition">Zenith Nutrition</option>
+<option value="Zimm">Zimm</option>
 </select></form></div>
-			<h3 style="color:#ffffff; background-color:#006600;">Disease Management</h3>
-			<div id="display_menu_2" class="menu">
+	               <!-- <h3 style="color:#ffffff; background-color:#006600;">Health Foods</h3>
+			<div id="display_menu_1" class="menu">
 <script type="text/javascript">var breadCrumb="||";</script>
-<script type="text/javascript">display_menu_2();</script><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(8)" onselectstart="return 0" id="menu8" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 170px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="170" id="tbl8"><tbody><tr id="pTR59"><td width="170" id="el59" onmouseover="h$(59)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl59"><tbody><tr id="td59"><td id="_imgO59"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img59" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(59)" name="mM1" onfocus="_iF0C(59)" href="http://www.healthyworld.in/category-s/1817.htm" class="nav" id="lnk59" style="border:none;background:transparent;display:block;">Diabetic Special</a></td></tr></tbody></table></td></tr><tr id="pTR60"><td width="170" id="el60" onmouseover="h$(60)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl60"><tbody><tr id="td60"><td id="_imgO60"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img60" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(60)" name="mM1" onfocus="_iF0C(60)" href="http://www.healthyworld.in/category-s/2079.htm" class="nav" id="lnk60" style="border:none;background:transparent;display:block;">Sinusitis</a></td></tr></tbody></table></td></tr><tr id="pTR61"><td width="170" id="el61" onmouseover="h$(61)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl61"><tbody><tr id="td61"><td id="_imgO61"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img61" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(61)" name="mM1" onfocus="_iF0C(61)" href="http://www.healthyworld.in/category-s/2056.htm" class="nav" id="lnk61" style="border:none;background:transparent;display:block;">Metabolism Boosters</a></td></tr></tbody></table></td></tr><tr id="pTR62"><td width="170" id="el62" onmouseover="h$(62)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl62"><tbody><tr id="td62"><td id="_imgO62"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img62" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(62)" name="mM1" onfocus="_iF0C(62)" href="http://www.healthyworld.in/category-s/2058.htm" class="nav" id="lnk62" style="border:none;background:transparent;display:block;">Anti-Oxidants</a></td></tr></tbody></table></td></tr><tr id="pTR63"><td width="170" id="el63" onmouseover="h$(63)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl63"><tbody><tr id="td63"><td id="_imgO63"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img63" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(63)" name="mM1" onfocus="_iF0C(63)" href="http://www.healthyworld.in/category-s/1972.htm" class="nav" id="lnk63" style="border:none;background:transparent;display:block;">Heart-Healthy Special</a></td></tr></tbody></table></td></tr><tr id="pTR64"><td width="170" id="el64" onmouseover="h$(64)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl64"><tbody><tr id="td64"><td id="_imgO64"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img64" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(64)" name="mM1" onfocus="_iF0C(64)" href="http://www.healthyworld.in/category-s/2014.htm" class="nav" id="lnk64" style="border:none;background:transparent;display:block;">Gluten-Free</a></td></tr></tbody></table></td></tr><tr id="pTR65"><td width="170" id="el65" onmouseover="h$(65)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl65"><tbody><tr id="td65"><td id="_imgO65"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img65" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(65)" name="mM1" onfocus="_iF0C(65)" href="http://www.healthyworld.in/category-s/2059.htm" class="nav" id="lnk65" style="border:none;background:transparent;display:block;">Hyper Thyroidism</a></td></tr></tbody></table></td></tr><tr id="pTR66"><td width="170" id="el66" onmouseover="h$(66)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl66"><tbody><tr id="td66"><td id="_imgO66"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img66" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(66)" name="mM1" onfocus="_iF0C(66)" href="http://www.healthyworld.in/category-s/2060.htm" class="nav" id="lnk66" style="border:none;background:transparent;display:block;">Hypo Thyroidism</a></td></tr></tbody></table></td></tr><tr id="pTR67"><td width="170" id="el67" onmouseover="h$(67)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl67"><tbody><tr id="td67"><td id="_imgO67"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img67" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(67)" name="mM1" onfocus="_iF0C(67)" href="http://www.healthyworld.in/category-s/2015.htm" class="nav" id="lnk67" style="border:none;background:transparent;display:block;">Ulcerative Colitis</a></td></tr></tbody></table></td></tr><tr id="pTR68"><td width="170" id="el68" onmouseover="h$(68)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl68"><tbody><tr id="td68"><td id="_imgO68"><img onload="_p2(8,this)" border="0" style="display:block;" id="_img68" src="/v/vspfiles/templates/210/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(68)" name="mM1" onfocus="_iF0C(68)" href="http://www.healthyworld.in/category-s/2055.htm" class="nav" id="lnk68" style="border:none;background:transparent;display:block;">Weight Gain</a></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink8" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
-</div>
-			<h3 style="color:#ffffff; background-color:#006600;">Minerals</h3>
+<script type="text/javascript">display_menu_1();</script>
+</div>-->
+	                <!--<h3 style="color:#ffffff; background-color:#006600;">Essential Nutrients</h3>
+			<div id="display_menu_8" class="menu"></div>-->
+			<h3 style="color:#ffffff; background-color:#006600;">Disease Management</h3>
 			<div id="display_menu_3" class="menu">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">display_menu_3();</script><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(9)" onselectstart="return 0" id="menu9" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 170px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="170" id="tbl9"><tbody><tr id="pTR69"><td width="170" id="el69" onmouseover="h$(69)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl69"><tbody><tr id="td69"><td id="_imgO69"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img69" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(69)" name="mM1" onfocus="_iF0C(69)" href="http://www.healthyworld.in/category-s/1933.htm" class="nav" id="lnk69" style="border:none;background:transparent;display:block;">Calcium</a></td></tr></tbody></table></td></tr><tr id="pTR70"><td width="170" id="el70" onmouseover="h$(70)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl70"><tbody><tr id="td70"><td id="_imgO70"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img70" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(70)" name="mM1" onfocus="_iF0C(70)" href="http://www.healthyworld.in/category-s/2011.htm" class="nav" id="lnk70" style="border:none;background:transparent;display:block;">Chromium</a></td></tr></tbody></table></td></tr><tr id="pTR71"><td width="170" id="el71" onmouseover="h$(71)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl71"><tbody><tr id="td71"><td id="_imgO71"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img71" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(71)" name="mM1" onfocus="_iF0C(71)" href="http://www.healthyworld.in/category-s/2076.htm" class="nav" id="lnk71" style="border:none;background:transparent;display:block;">Copper</a></td></tr></tbody></table></td></tr><tr id="pTR72"><td width="170" id="el72" onmouseover="h$(72)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl72"><tbody><tr id="td72"><td id="_imgO72"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img72" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(72)" name="mM1" onfocus="_iF0C(72)" href="http://www.healthyworld.in/category-s/1932.htm" class="nav" id="lnk72" style="border:none;background:transparent;display:block;">Iron</a></td></tr></tbody></table></td></tr><tr id="pTR73"><td width="170" id="el73" onmouseover="h$(73)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl73"><tbody><tr id="td73"><td id="_imgO73"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img73" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(73)" name="mM1" onfocus="_iF0C(73)" href="http://www.healthyworld.in/category-s/2007.htm" class="nav" id="lnk73" style="border:none;background:transparent;display:block;">Magnesium</a></td></tr></tbody></table></td></tr><tr id="pTR74"><td width="170" id="el74" onmouseover="h$(74)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl74"><tbody><tr id="td74"><td id="_imgO74"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img74" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(74)" name="mM1" onfocus="_iF0C(74)" href="http://www.healthyworld.in/category-s/2008.htm" class="nav" id="lnk74" style="border:none;background:transparent;display:block;">Manganese</a></td></tr></tbody></table></td></tr><tr id="pTR75"><td width="170" id="el75" onmouseover="h$(75)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl75"><tbody><tr id="td75"><td id="_imgO75"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img75" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(75)" name="mM1" onfocus="_iF0C(75)" href="http://www.healthyworld.in/category-s/2010.htm" class="nav" id="lnk75" style="border:none;background:transparent;display:block;">Phosphorus</a></td></tr></tbody></table></td></tr><tr id="pTR76"><td width="170" id="el76" onmouseover="h$(76)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl76"><tbody><tr id="td76"><td id="_imgO76"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img76" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(76)" name="mM1" onfocus="_iF0C(76)" href="http://www.healthyworld.in/category-s/2012.htm" class="nav" id="lnk76" style="border:none;background:transparent;display:block;">Potassium</a></td></tr></tbody></table></td></tr><tr id="pTR77"><td width="170" id="el77" onmouseover="h$(77)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl77"><tbody><tr id="td77"><td id="_imgO77"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img77" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(77)" name="mM1" onfocus="_iF0C(77)" href="http://www.healthyworld.in/category-s/2077.htm" class="nav" id="lnk77" style="border:none;background:transparent;display:block;">Selenium</a></td></tr></tbody></table></td></tr><tr id="pTR78"><td width="170" id="el78" onmouseover="h$(78)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl78"><tbody><tr id="td78"><td id="_imgO78"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img78" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(78)" name="mM1" onfocus="_iF0C(78)" href="http://www.healthyworld.in/category-s/2009.htm" class="nav" id="lnk78" style="border:none;background:transparent;display:block;">Sodium</a></td></tr></tbody></table></td></tr><tr id="pTR79"><td width="170" id="el79" onmouseover="h$(79)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl79"><tbody><tr id="td79"><td id="_imgO79"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img79" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(79)" name="mM1" onfocus="_iF0C(79)" href="http://www.healthyworld.in/category-s/2078.htm" class="nav" id="lnk79" style="border:none;background:transparent;display:block;">Sulphur</a></td></tr></tbody></table></td></tr><tr id="pTR80"><td width="170" id="el80" onmouseover="h$(80)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl80"><tbody><tr id="td80"><td id="_imgO80"><img onload="_p2(9,this)" border="0" style="display:block;" id="_img80" src="/v/vspfiles/templates/210/images/Template/Menu3_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(80)" name="mM1" onfocus="_iF0C(80)" href="http://www.healthyworld.in/category-s/2075.htm" class="nav" id="lnk80" style="border:none;background:transparent;display:block;">Zinc</a></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink9" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div>
 </div>
-	                <h3 style="color:#ffffff; background-color:#006600;">Vitamins</h3>
-			<div id="display_menu_8" class="menu">
+			<!--<h3 style="color:#ffffff; background-color:#006600;">Services</h3>
+			<div id="display_menu_2" class="menu">
 <script type="text/javascript">var breadCrumb="||";</script>
-<script type="text/javascript">display_menu_8();</script><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(10)" onselectstart="return 0" id="menu10" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 170px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="170" id="tbl10"><tbody><tr id="pTR81"><td width="170" id="el81" onmouseover="h$(81)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl81"><tbody><tr id="td81"><td id="_imgO81"><img onload="_p2(10,this)" border="0" style="display:block;" id="_img81" src="/v/vspfiles/templates/210/images/Template/Menu8_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(81)" name="mM1" onfocus="_iF0C(81)" href="http://www.healthyworld.in/category-s/1854.htm" class="nav" id="lnk81" style="border:none;background:transparent;display:block;">Vitamin A</a></td></tr></tbody></table></td></tr><tr id="pTR82"><td width="170" id="el82" onmouseover="h$(82)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl82"><tbody><tr id="td82"><td id="_imgO82"><img onload="_p2(10,this)" border="0" style="display:block;" id="_img82" src="/v/vspfiles/templates/210/images/Template/Menu8_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(82)" name="mM1" onfocus="_iF0C(82)" href="http://www.healthyworld.in/category-s/1848.htm" class="nav" id="lnk82" style="border:none;background:transparent;display:block;">Vitamin B</a></td><td width="1" style="font-size:1px;"><img id="simg82" onload="_p2(10,this)" src="/v/vspfiles/templates/210/images/Template/Menu8_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR83"><td width="170" id="el83" onmouseover="h$(83)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl83"><tbody><tr id="td83"><td id="_imgO83"><img onload="_p2(10,this)" border="0" style="display:block;" id="_img83" src="/v/vspfiles/templates/210/images/Template/Menu8_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(83)" name="mM1" onfocus="_iF0C(83)" href="http://www.healthyworld.in/category-s/1850.htm" class="nav" id="lnk83" style="border:none;background:transparent;display:block;">Vitamin C</a></td></tr></tbody></table></td></tr><tr id="pTR84"><td width="170" id="el84" onmouseover="h$(84)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl84"><tbody><tr id="td84"><td id="_imgO84"><img onload="_p2(10,this)" border="0" style="display:block;" id="_img84" src="/v/vspfiles/templates/210/images/Template/Menu8_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(84)" name="mM1" onfocus="_iF0C(84)" href="http://www.healthyworld.in/category-s/1851.htm" class="nav" id="lnk84" style="border:none;background:transparent;display:block;">Vitamin D</a></td></tr></tbody></table></td></tr><tr id="pTR85"><td width="170" id="el85" onmouseover="h$(85)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl85"><tbody><tr id="td85"><td id="_imgO85"><img onload="_p2(10,this)" border="0" style="display:block;" id="_img85" src="/v/vspfiles/templates/210/images/Template/Menu8_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(85)" name="mM1" onfocus="_iF0C(85)" href="http://www.healthyworld.in/category-s/1852.htm" class="nav" id="lnk85" style="border:none;background:transparent;display:block;">Vitamin E</a></td></tr></tbody></table></td></tr><tr id="pTR86"><td width="170" id="el86" onmouseover="h$(86)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl86"><tbody><tr id="td86"><td id="_imgO86"><img onload="_p2(10,this)" border="0" style="display:block;" id="_img86" src="/v/vspfiles/templates/210/images/Template/Menu8_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(86)" name="mM1" onfocus="_iF0C(86)" href="http://www.healthyworld.in/category-s/2002.htm" class="nav" id="lnk86" style="border:none;background:transparent;display:block;">Vitamin H</a></td></tr></tbody></table></td></tr><tr id="pTR87"><td width="170" id="el87" onmouseover="h$(87)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl87"><tbody><tr id="td87"><td id="_imgO87"><img onload="_p2(10,this)" border="0" style="display:block;" id="_img87" src="/v/vspfiles/templates/210/images/Template/Menu8_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(87)" name="mM1" onfocus="_iF0C(87)" href="http://www.healthyworld.in/category-s/1853.htm" class="nav" id="lnk87" style="border:none;background:transparent;display:block;">Vitamin K</a></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink10" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(11)" onselectstart="return 0" id="menu11" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
-</div>
- 		<!--<h3 style="color:#ffffff; background-color:#006600;">Special Themes</h3>
-			<div id="display_menu_7" class="menu">
-<script type="text/javascript">var breadCrumb="||";</script>
-<script type="text/javascript">display_menu_7();</script>
+<script type="text/javascript">display_menu_2();</script>
 </div>-->
+ 		<!--<h3 style="color:#ffffff; background-color:#006600;">Special Themes</h3>
+			<div id="display_menu_7" class="menu"></div>-->
 			<!--<h3 style="color:#ffffff; background-color:#006600;">Special Needs</h3>
 			<div id="display_menu_4" class="menu"></div>-->
-			<h3 style="color:#ffffff; background-color:#006600;">Origin of Brands</h3>
-			<div id="display_menu_6" class="menu">
-<script type="text/javascript">var breadCrumb="||";</script>
-<script type="text/javascript">display_menu_6();</script><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(12)" onselectstart="return 0" id="menu12" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 167px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl12"><tbody><tr id="pTR96"><td id="el96" onmouseover="h$(96)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl96"><tbody><tr id="td96"><td id="_imgO96"><img onload="_p2(12,this)" border="0" style="display:block;" id="_img96" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(96)" name="mM1" onfocus="_iF0C(96)" href="http://www.healthyworld.in/category-s/1923.htm" class="nav" id="lnk96" style="border:none;background:transparent;display:block;">Australia</a></td><td width="1" style="font-size:1px;"><img id="simg96" onload="_p2(12,this)" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR97"><td id="el97" onmouseover="h$(97)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl97"><tbody><tr id="td97"><td id="_imgO97"><img onload="_p2(12,this)" border="0" style="display:block;" id="_img97" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(97)" name="mM1" onfocus="_iF0C(97)" href="http://www.healthyworld.in/category-s/1866.htm" class="nav" id="lnk97" style="border:none;background:transparent;display:block;">Europe</a></td><td width="1" style="font-size:1px;"><img id="simg97" onload="_p2(12,this)" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR98"><td id="el98" onmouseover="h$(98)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl98"><tbody><tr id="td98"><td id="_imgO98"><img onload="_p2(12,this)" border="0" style="display:block;" id="_img98" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(98)" name="mM1" onfocus="_iF0C(98)" href="http://www.healthyworld.in/category-s/1867.htm" class="nav" id="lnk98" style="border:none;background:transparent;display:block;">India(National)</a></td><td width="1" style="font-size:1px;"><img id="simg98" onload="_p2(12,this)" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR99"><td id="el99" onmouseover="h$(99)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl99"><tbody><tr id="td99"><td id="_imgO99"><img onload="_p2(12,this)" border="0" style="display:block;" id="_img99" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(99)" name="mM1" onfocus="_iF0C(99)" href="http://www.healthyworld.in/category-s/2046.htm" class="nav" id="lnk99" style="border:none;background:transparent;display:block;">India(Regional)</a></td><td width="1" style="font-size:1px;"><img id="simg99" onload="_p2(12,this)" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR100"><td id="el100" onmouseover="h$(100)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl100"><tbody><tr id="td100"><td id="_imgO100"><img onload="_p2(12,this)" border="0" style="display:block;" id="_img100" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(100)" name="mM1" onfocus="_iF0C(100)" href="http://www.healthyworld.in/category-s/1924.htm" class="nav" id="lnk100" style="border:none;background:transparent;display:block;">Middle East</a></td><td width="1" style="font-size:1px;"><img id="simg100" onload="_p2(12,this)" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR101"><td id="el101" onmouseover="h$(101)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl101"><tbody><tr id="td101"><td id="_imgO101"><img onload="_p2(12,this)" border="0" style="display:block;" id="_img101" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(101)" name="mM1" onfocus="_iF0C(101)" href="http://www.healthyworld.in/category-s/1865.htm" class="nav" id="lnk101" style="border:none;background:transparent;display:block;">North America</a></td><td width="1" style="font-size:1px;"><img id="simg101" onload="_p2(12,this)" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR102"><td id="el102" onmouseover="h$(102)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl102"><tbody><tr id="td102"><td id="_imgO102"><img onload="_p2(12,this)" border="0" style="display:block;" id="_img102" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(102)" name="mM1" onfocus="_iF0C(102)" href="http://www.healthyworld.in/category-s/1925.htm" class="nav" id="lnk102" style="border:none;background:transparent;display:block;">Rest of Asia</a></td><td width="1" style="font-size:1px;"><img id="simg102" onload="_p2(12,this)" src="/v/vspfiles/templates/210/images/Template/Menu6_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink12" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(13)" onselectstart="return 0" id="menu13" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(14)" onselectstart="return 0" id="menu14" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(15)" onselectstart="return 0" id="menu15" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(16)" onselectstart="return 0" id="menu16" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(17)" onselectstart="return 0" id="menu17" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(18)" onselectstart="return 0" id="menu18" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(19)" onselectstart="return 0" id="menu19" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(20)" onselectstart="return 0" id="menu20" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(21)" onselectstart="return 0" id="menu21" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(22)" onselectstart="return 0" id="menu22" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(23)" onselectstart="return 0" id="menu23" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(24)" onselectstart="return 0" id="menu24" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(25)" onselectstart="return 0" id="menu25" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(26)" onselectstart="return 0" id="menu26" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(27)" onselectstart="return 0" id="menu27" style="padding:0px;;border:1px solid #d7d3cf;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
-</div>
+			<!--<h3 style="color:#ffffff; background-color:#006600;">Origin of Brands</h3>
+			<div id="display_menu_6" class="menu"></div>
 			<!-- #################### CHOOSE LIST ITEM OR TREE EXPAND OR ROLLOVER COLORS POPOUT #################### -->
 			<!--
-			<h3 style="color:#ffffff; background-color:#006600;">Minerals</h3>
+			<h3 style="color:#ffffff; background-color:#006600;">Disease Management</h3>
 			<div id="display_menu_3" class="menu">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">display_menu_3();</script>
@@ -330,7 +488,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
             <td>
 			<b>Privacy Policy</b><br>
 <br>
-<b>What information do we collect?</b><br><br><ul><li>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</li><li>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.</li><li>We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.</li><li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li></ul><br><b>How do we use your information?</b><br><br>We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<ul><li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li><li>To allow us to better service you in responding to your customer service requests.</li><li>To quickly process your transactions.</li><li>To administer a contest, promotion, survey or other site feature.</li><li>We add your email ID to our weekly newsletter, 'Tatva' on health &amp; Wellness. If you would no longer like to receive the newsletter from us, please unsubscribe to it ('unsubscribe' option within the newsletter itself).</li></ul><br><b>How do we protect visitor information?</b><br><br>We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.<br><br><br><b>Do we use "cookies"?</b><br><br>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<br><br>We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.<br><br><br><b>Do we disclose the information we collect to outside parties?</b><br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Healthy World - for anything on Health (India). It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.<br><br>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><br><b>How can you opt-out, remove or modify information you have provided to us?</b><br><br>To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.<br><br>To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.<br><br><br><b>Third party links</b><br><br>In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).<br><br><br><b>Changes to our policy</b><br><br>If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.<b>This policy was last modified on January 18, 2012.</b><br><br><br><b>Questions and feedback</b><br><br>We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.<br><br><br><b>Online Policy Only</b><br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><br><b>Terms and Conditions</b><br><br>Please also visit our <a href="terms.asp">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website.<br><br><br><b>Your consent</b><br><br>By using our site, you consent to our privacy policy.<br><br><br>
+<b>What information do we collect?</b><br><br><ul><li>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</li><li>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.</li><li>We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.</li><li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li></ul><br><b>How do we use your information?</b><br><br>We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<ul><li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li><li>To allow us to better service you in responding to your customer service requests.</li><li>To quickly process your transactions.</li><li>To administer a contest, promotion, survey or other site feature.</li><li>We add your email ID to our weekly newsletter, 'Tatva' on health &amp; Wellness. If you would no longer like to receive the newsletter from us, please unsubscribe to it ('unsubscribe' option within the newsletter itself).</li></ul><br><b>How do we protect visitor information?</b><br><br>We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.<br><br><br><b>Do we use "cookies"?</b><br><br>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<br><br>We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.<br><br><br><b>Do we disclose the information we collect to outside parties?</b><br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Healthy World. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.<br><br>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><br><b>How can you opt-out, remove or modify information you have provided to us?</b><br><br>To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.<br><br>To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.<br><br><br><b>Third party links</b><br><br>In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).<br><br><br><b>Changes to our policy</b><br><br>If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.<b>This policy was last modified on January 18, 2012.</b><br><br><br><b>Questions and feedback</b><br><br>We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.<br><br><br><b>Online Policy Only</b><br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><br><b>Terms and Conditions</b><br><br>Please also visit our <a href="terms.asp">Terms and Conditions</a> section establishing the use, disclaimers, and limitations of liability governing the use of our website.<br><br><br><b>Your consent</b><br><br>By using our site, you consent to our privacy policy.<br><br><br>
 
             </td>
         </tr>
@@ -346,29 +504,64 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <div id="footer">
 	<div class="placeholder">
 	</div>
-	<div id="footerTop">
+<!--<img src='/a/i/blank.gif' width='12' height='12' name='placeholder'/>-->
+
+<h3><a style="text-decoration: none; border-bottom: 1px solid #999999">Healthy World in Media</a></h3>
+<div align="center"><table><tbody><tr>
+
+<td><a href="http://www.nextbigwhat.com/justees-ishopinternational-healthyworld-in-joognu-297/&#10;" target="_blank"><img src="/v/vspfiles/assets/images/next1.jpg" onmouseover="this.src='/v/vspfiles/assets/images/next.jpg'" onmouseout="this.src='/v/vspfiles/assets/images/next1.jpg'"></a></td>
+
+
+
+<td><a href="http://yourstory.in/2012/02/better-safe-than-sorry-advocates-delhi-startup-healthy-world/" target="_blank"><img src="/v/vspfiles/assets/images/urstory1.jpg" onmouseover="this.src='/v/vspfiles/assets/images/urstory.jpg'" onmouseout="this.src='/v/vspfiles/assets/images/urstory1.jpg'"></a></td>
+
+<td><a href="http://blog.foundermates.com/my-biggest-illusion-about-entrepreneurship-if-i-can-grow-a-large-business-at-27-annually-i-can-build-a-large-business-from-scratch-at-same-growth-rate/" target="_blank"><img src="/v/vspfiles/assets/images/founder1.jpg" onmouseover="this.src='/v/vspfiles/assets/images/founder.jpg'" onmouseout="this.src='/v/vspfiles/assets/images/founder1.jpg'"></a></td>    
+
+
+<td><a href="http://wirelessduniya.com/2013/08/28/exclusive-interview-puru-gupta-sreejith-moolayil-founders-of-healthyworld-in-an-ecommerce-health-solutions-venture/&#10;" target="_blank"><img src="/v/vspfiles/assets/images/wduniya1.jpg" onmouseover="this.src='/v/vspfiles/assets/images/wduniya.jpg'" onmouseout="this.src='/v/vspfiles/assets/images/wduniya1.jpg'"></a></td>
+
+
+
+</tr>
+<tr>
+<td><a href="http://www.readstartups.com/HealthyWorld" target="_blank"><img src="/v/vspfiles/assets/images/read1.jpg" onmouseover="this.src='/v/vspfiles/assets/images/read.jpg'" onmouseout="this.src='/v/vspfiles/assets/images/read1.jpg'"></a></td>  
+
+<td><a href="http://startupbeat.com/2013/10/07/featured-startup-pitch-healthy-world-id3486/&#10;" target="_blank"><img src="/v/vspfiles/assets/images/startup1.jpg" onmouseover="this.src='/v/vspfiles/assets/images/startup.jpg'" onmouseout="this.src='/v/vspfiles/assets/images/startup1.jpg'"></a></td>  
+
+<td><a href="http://startoholics.in/2013/10/healthy-world-wellness-health-care-solutions-personified/" target="_blank"><img src="/v/vspfiles/assets/images/start1.jpg" onmouseover="this.src='/v/vspfiles/assets/images/start.jpg'" onmouseout="this.src='/v/vspfiles/assets/images/start1.jpg'"></a></td>
+
+<td><a href="http://www.retailopia.com/2013/09/healthyworldin-your-health-and-wellness.html&#10;" target="_blank"><img src="/v/vspfiles/assets/images/retail1.jpg" onmouseover="this.src='/v/vspfiles/assets/images/retail.jpg'" onmouseout="this.src='/v/vspfiles/assets/images/retail1.jpg'"></a></td>
+
+
+</tr></tbody></table></div>
+	<div class="placeholder">
+	</div>	
+<div id="footerTop">
 		<!-- #################### MAILING LIST SECTION -->
 		<div id="eList">
 			<div class="title">
-				 Sign Up For Our Newsletter, Tatva:
+				 Stay updated on Health!
 			</div>
 			<form name="MailingList" method="post" action="http://www.healthyworld.in/MailingList_subscribe.asp">
 				<input type="text" id="elist_input" name="emailaddress" value="enter email address" onfocus="if (this.value == 'enter email address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter email address';}">
 				<input type="submit" name="Submit" id="elist_submit" value="Submit">
 			</form>
 		</div>
+                <!--<div><a href="https://twitter.com/healthyworldin" target="_blank"><img src="/v/vspfiles/assets/images/twitter.jpg" width="20" height="20"></a><a href="https://www.facebook.com/yourhealthyworld" target="_blank"><img src="/v/vspfiles/assets/images/images-(9).jpg" width="20" height="20"></a><a href="http://www.linkedin.com/company/healthy-world" target="_blank"><img src="/v/vspfiles/assets/images/linkedin.jpg" width="20" height="20"></a><a href="http://pinterest.com/healthyworld/" target="_blank"><img src="/v/vspfiles/assets/images/pinterest.jpg" width="20" height="20"></a><a href="https://plus.google.com/104986872877593159918/posts" target="_blank"><img src="/v/vspfiles/assets/images/gplus.jpg" width="20" height="20"></a></div>-->
 		<ul>
 			<li class="title">Company</li>
-			<li><a href="http://healthyworld.net.in" target="_blank">Corporate Website</a></li>
-			<li><a href="http://www.healthyworld.in/Articles.asp?ID=5">Privacy &amp; Security</a></li>
-			<li><a href="http://www.healthyworld.in/terms.asp">Legal Statement</a></li>
+			<li><a href="http://www.healthyworld.in/aboutus.asp">About Us</a></li>
+                        <li><a href="http://www.healthyworld.in/Articles.asp?ID=262">Our Team</a></li>
+                        <li><a href="http://www.healthyworld.in/Articles.asp?ID=369">Our Partners</a></li>			
+                        <li><a href="http://www.healthyworld.in/Articles.asp?ID=268">Work with us</a></li>			
 		</ul>
 		<ul>
 			<li class="title">Shopping Services</li>
-			<li><a href="http://www.healthyworld.in/aboutus.asp">About Us</a></li>
                         <li><a href="http://www.healthyworld.in/help.asp">FAQ's</a></li>
 			<li><a href="http://www.healthyworld.in/articles.asp?ID=57">Shipping</a></li>
-			<!--<li><a href="http://www.healthyworld.in/pindex.asp">Product Index</a></li>-->
+			<li><a href="http://www.healthyworld.in/Articles.asp?ID=5">Privacy &amp; Security</a></li>
+			<li><a href="http://www.healthyworld.in/terms.asp">Legal Statement</a></li>
+<!--<li><a href="http://www.healthyworld.in/pindex.asp">Product Index</a></li>-->
 			<!--<li><a href="http://www.healthyworld.in/cindex.asp">Category Index</a></l>-->
 		</ul>
 		<ul>
@@ -379,10 +572,12 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 		</ul>
 		<ul>
 			<li class="title">Customer Service</li>
-			<li><a href="mailto:sales@healthyworld.in?subject=Contact Us">Contact Us</a></li>
 			<li><a href="http://www.healthyworld.in/help.asp">Site Help</a></li>
-			<li><a href="http://tatva-healthyworld.blogspot.com/" target="_blank">Our Blog</a></li>
-			<!--<li><a href="http://www.healthyworld.in/affiliate_info.asp">Become an Affiliate</a></li>        -->
+                        <li><a>Customer Speak</a></li>
+                        <li><a href="http://healthyworld.in/know">Knowledge Base</a></li>
+			<li><a href="mailto:sales@healthyworld.in?subject=Contact Us">Contact Us</a></li>
+
+
 		</ul>
 		<div class="clear">
 		</div>
@@ -390,8 +585,8 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 	<div id="footerBottom">
 		<a href="http://www.healthyworld.in/terms.asp">Copyright ©
 		<script type="text/javascript">document.write((new Date()).getFullYear());</script>2020
-		 &nbsp;Healthy World - for anything on Health (India). All Rights Reserved.</a><a href="http://www.volusion.com" title="Shopping Cart Software" class="footer colors_background2_text" target="_blank">Shopping Cart Software</a> by Volusion.
-	</div>
+		 &nbsp;Healthy World. All Rights Reserved.</a><a href="http://www.volusion.com" title="Shopping Cart Software" class="footer colors_background2_text" target="_blank">Shopping Cart Software</a> by Volusion.
+</div>
 </div>
 <!-- ==========================================================================================
 				VOLUSION LINK
