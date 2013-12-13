@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tournamentpools.com privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314190919id_/http%3A//www.tournamentpools.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tournamentpools.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213014240id_/http%3A//tournamentpools.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Tournament Pools Privacy Policy
 
