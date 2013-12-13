@@ -1,148 +1,163 @@
-> *The following text is extracted and transformed from the appsgeyser.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304213038id_/http%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsgeyser.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213015943id_/http%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.*
 
 # AppsGeyser - Create Android Apps from any web content
 
-## PRIVACY POLICY
+**PRIVACY POLICY**
 
-Your privacy is important to BESTTOOLBARS. This statement discloses the information practices for BESTTOOLBARS Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
+PLEASE READ THIS DOCUMENT CAREFULLY.  IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE APPSGEYSER WEBSITE, PRODUCTS, OR SERVICES.  PLEASE NOTE THAT BY CONTINUING TO USE APPSGEYSER SERVICES OR WEBSITE YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.
 
-To return to the Site, please use the "Back" button on your browser or close this window. 
+Your use of APPSGEYSER Website and Services, as those terms are defined in this privacy policy ( ** _Privacy Policy)_** is subject to this Privacy Policy and APPSGEYSER **_Terms of Service_** , available at http://www.appsgeyser.com/tos/. 
 
-  
-**   Personal information   
-**   
+Your privacy is important to APPSGEYSER, its partners and affiliates (collectively **_APPSGEYSER_** , **_we_** , **_us_** , or **_our_** ). This Privacy Policy is created to inform you of the type of information that APPSGEYSER may gather and track, and discloses our practices regarding the information gathered and stored in connection with our web site ( ** _Website_** ) and Serivces, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.  We ask that you read this Privacy Policy carefully prior to using any of APPSGEYSER Websites, or purchasing any products or services made available by APPSGEYSER, its partners and affiliates (collectively referred to as our **_Services_** ). 
 
+This Privacy Policy contains numerous general and technical details describing the steps that we take to protect your privacy.  We have organized this Privacy Policy by major topic areas so that you can quickly locate the information of most interest to you.  Meeting your needs and expectations forms the foundation of everything that we do, including protecting your privacy.
 
-In general, you can visit BESTTOOLBARS on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you. 
+If after reviewing this Privacy Policy, you still have questions or privacy concerns, please contact us at support@appsgeyser.com 
 
-You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail id, to correspond with you, to process an order, or to provide you with a subscription. You may give us your credit card details to buy something from us, or a description of your education and work experience in connection with a job opening at BESTTOOLBARS that you wish to be considered for. We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so.
+  **Summary**
 
-**   Using and Sharing Personal Information   
-**   
+This Privacy Policy will inform you of the following: 
 
+(1)   description of personally identifiable information (belonging to you and third parties) collected by APPSGEYSER, its partners and affiliates; 
 
-The following paragraphs describe in more detail how BESTTOOLBARS may use your personal information and with whom we may share it. Depending on the type of BESTTOOLBARS Web site you are visiting, one or more of the paragraphs may apply. For example, if you order a product from an BESTTOOLBARS Web site, your information will be handled as described in such paragraphs as Fulfilling Your Transaction Request and Marketing Use. 
+(2)   how the collected information is used;
 
-  
-**   Fulfilling your transaction request   
-**   
+(3)   with whom the collected information may be shared;
 
+(4)   choices available to you regarding the collection, use, and distribution of such information;
 
-If you request something from an BESTTOOLBARS Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information with others, for instance, other parts of BESTTOOLBARS, BESTTOOLBARS's Business Partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes. 
+(5)   security procedures that are in place to protect against the loss, misuse, or alteration of personally identifiable information under control of APPSGEYSER, its partners and affiliates; and 
 
-  
-**   Marketing Use   
-**   
+(6)   instructions how you can access and correct inaccuracies in the information collected about you. 
 
+**Changes in the Privacy Policy**
 
-The information you provide to BESTTOOLBARS on certain BESTTOOLBARS Web sites may also be used by BESTTOOLBARS and selected third parties for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way. 
+This Privacy Policy was last updated on 2013-11-13.  APPSGEYSER reserves the right to modify this Privacy Policy at any time by posting such changes on its Website.  Please check the revision date to determine if this Privacy Policy has been modified since you last reviewed it.  Your continued use of any portion of the APPSGEYSER Website, or Services subsequent to the posting of an updated Privacy Policy will constitute your acceptance of all such changes. 
 
-  
-**   BESTTOOLBARS Human Resources Web Sites (including Recruitment)   
-**   
+We want you to always be aware of what personal and other information we collect, how we use it, and under what circumstances we may disclose it.  All personal information we collect will be handled according to the Privacy Policy in effect at the time the information is collected.  If the Privacy Policy changes in any significant respect, we will not use your personal data in a manner that is inconsistent with the Privacy Policy in effect at the time your information was collected without your permission.  
 
+From time to time, we may find the need to make changes to this Privacy Policy.  Upon notice given by one or more of the following means: upon notice given to you after you login to your Account (as such term defined in Terms of Service http://www.appsgeyser.com/tos/), by email communication to the email address provided by you when you setup your account or otherwise on record for your account, or by written mail communication to the address on record for your account. You will be given the opportunity to opt-out, provided that, if you choose to opt-out all or part of the service or products may no longer be available to you. If as the result of such changes, you want to alter the ways in which APPSGEYSER is allowed to use your personal information, you can do so by following the procedure described in Section Creating and Updating Your Personal Account and Preferences. You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the service or products after such notice has been given with the following exception: if at the time you provide personal information to APPSGEYSER you limit how such information will be used to communicate with you, either by APPSGEYSER or by third parties, APPSGEYSER will not change your preference in this regard without your express consent. 
 
-In connection with a job application or inquiry, whether advertised on an BESTTOOLBARS Web site or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout BESTTOOLBARS and its related entities for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration. 
+**Personal information**
 
-  
-**   Information for Business Partners   
-**   
+We do not collect personally identifiable information from your computer when you browse our Website.  This means that, unless you voluntarily provide us with your personally identifiable information, such as an email address or name, we will not know your name, your e-mail address, or any other personally identifiable information.  There may be circumstances, however, where you voluntarily provide information to us, or where APPSGEYSER, its partners or affiliates, may request information from you in order to provide certain requested Services. 
 
+You may choose to give us personal information in a variety of situations. For example, you may choose to give us information such as your name, address, or e-mail in order to correspond with us, to process an order, or for us to provide you with a subscription to our Services. When using our Services, you may need to provide us with your credit card information, or provide us with personal information concerning your education and work experience in connection with a job opening at APPSGEYSER, in the form of a résumé or a Curriculum Vitae ( ** _CV_** ).  We respect your choices regarding use of personal information provided to us, and you have the option of requesting that your personal information not be used  beyond fulfilling your request for Services or other information..  In addition to personal information that may be collected from you, APPSGEYSER may automatically collect certain technical information, including  Media Access Control ( ** _MAC_** ) address, mobile device identifiers (if used to access the Website or Services), International Mobile Equipment Identity ( ** _IMEI_** ), and time-stamped logs of messages sent and received, and network status (WiFi, etc.) ** __** We collect this information in order to make the Website and Services function correctly and to provide you with the content that you see on the Website.
 
-If you represent a BESTTOOLBARS Business Partner, you may visit a BESTTOOLBARS Web site intended specifically for BESTTOOLBARS Business Partners. We may use information provided on that site to administer and develop our business relationship with you, the Business Partner you represent, and BESTTOOLBARS Business Partners generally. For instance, this may involve using your information to send you details of BESTTOOLBARS Business Partner programs. It may also include sharing certain information with other Business Partners (subject to any confidentiality obligations that may exist), or BESTTOOLBARS customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes. 
+Unless expressly provided otherwise, personal information that you provide while you are visiting the website of a partner or affiliate of APPSGEYSER will be subject to the privacy policy posted on that partner or affiliates website, and personal information that you provide while on our Website in conjunction with that parnters or affiliates service will be subject to this Privacy Policy.  For instance, credit card or PayPal® information entered as part of the filling out a purchase form or registration process collected by a third partys registration and/or merchant services is subject to that third partys privacy policies.  You should be aware that APPSGEYSER agreements with service providers, partners, or affiliates, often provide that they will share with APPSGEYSER personal information collected from you.  In such instances, APPSGEYSER may use this information in a manner consistent with this Privacy Policy.
 
-  
-**   BESTTOOLBARS Supplier Administration   
-**  
+**Using and Sharing Personal Information**
 
+The following paragraphs describe in more detail how APPSGEYSER may use your personal information and with whom we may share it. Depending on the type of APPSGEYSER Website you are visiting, one or more of the paragraphs may apply. For example, if you order a product from a APPSGEYSER Website, your information will be handled as described in such paragraphs as Fulfilling Your Transaction Request and Marketing Use. 
 
-If you represent a BESTTOOLBARS supplier, you may visit a BESTTOOLBARS Web site intended specifically for use by BESTTOOLBARS suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of BESTTOOLBARS, BESTTOOLBARS's Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other BESTTOOLBARS suppliers generally. 
+**Fulfilling Your Transaction Request**
 
-**   BESTTOOLBARS Discussion Forums and Chat Rooms   
-**   
+If you request a Service from the APPSGEYSER Website, or for example, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information with other service providers, or with other parts of APPSGEYSER, APPSGEYSER' Business Partners, financial institutions, shipping companies, postal or government authorities (for example, U.S. or international Customs authorities for international shipments), or as otherwise required or permitted by law, as further detailed in our Disclosures Required By Law section below.  In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes. 
 
+**Marketing Use**
 
-If you participate in a BESTTOOLBARS discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside BESTTOOLBARS, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of BESTTOOLBARS. 
+The information you provide to APPSGEYSER on certain APPSGEYSER websites may also be used by APPSGEYSER and selected third parties for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way.  Additionally, you are always free to opt-out or unsubscribe from marketing lists, surveys or other email communications that we may occasionally send by contacting us at support@appsgeyser.com and requesting that your email be removed from our emailing lists. 
 
-  
-**   Other BESTTOOLBARS Web Site Notices   
-**   
+**APPSGEYSER Human Resources Websites (including Recruitment)**
 
+APPSGEYSER is committed to protecting the privacy of applicants who apply for positions through any of the APPSGEYSER websites.   You may provide us with information about yourself, such as a résumé or CV in connection with a job application or inquiry, whether advertised on a APPSGEYSER Website or otherwise, We may use this information throughout APPSGEYSER and its related websites solely for the purpose of employment consideration and an applicants personal information will not be used or disclosed to a third party for any purpose other than that for which it was collected, unless we are legally required to disclose the information..  We maintain records of applicants who apply for positions for future consideration but you have the option to request that we delete any stored information we may have regarding your application for employment. 
 
-In some cases, specific BESTTOOLBARS Web sites may contain other notices about their use and the information practices applicable to those sites. 
+**Information for Business Partners**
 
-**   Our Worldwide Practices   
-**   
+If you represent a APPSGEYSER Business Partner, you may visit a APPSGEYSER website intended specifically for APPSGEYSER Business Partners. We may use information provided on that site to maintain, enhance or develop our business relationship with you, the Business Partner you represent, and APPSGEYSER Business Partners generally. For instance, this may involve using your information to send you details of APPSGEYSER Business Partner programs. It may also include sharing certain information with other Business Partners (subject to all privacy protections and confidentiality obligations that may exist), or other APPSGEYSER customers or prospects. We may also contact you as part of customer satisfaction surveys or for market research purposes in connection with a particular transaction or program.
 
+  **APPSGEYSER Supplier Administration**
 
-BESTTOOLBARS is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. 
+If you represent a APPSGEYSER supplier, you may visit a APPSGEYSER website intended specifically for use by APPSGEYSER suppliers. If you visit a APPSGEYSER website designated for suppliers, we may use the information you provide on those websites in order to facilitate any future transactions that APPSGEYSER may enter into with you.  For example, this may include sharing information with other APPSGEYSER websites, APPSGEYSER's Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent, and/or other APPSGEYSER suppliers generally. 
 
-Our privacy practices are designed to provide protection for your personal information, all over the world.
+**APPSGEYSER Discussion Forums and Chat Rooms**
 
-We may share your personal information within BESTTOOLBARS and transfer it to countries in the world where we do business.
+If you participate in a APPSGEYSER discussion forum or chat room, you should be aware that the information you provide may become available to others who may have access to that discussion forum or chat room.  While we strive to only use the information you provide in forums or chat rooms to deliver our Services or improve the functioning of our Website, information provided through forums or chat rooms may be used within APPSGEYSER websites and potentially shared with our partners or affiliates.   Individual forums and chat rooms may have additional rules and conditions, and it is the users responsibility to abide by those conditions.  Also, please note that APPSGEYSER may not review the information from and communication by users of its discussion forums or chat rooms.  APPSGEYSER expressly disclaims responsibility for and liabilities resulting from any information or communications from and/or between users of any of APPSGEYSER discussion forums or chat rooms.  Each users opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of APPSGEYSER, its partners or affiliates.  Users are warned they may be individually liable for anything they communicate using the APPSGEYSER discussion forum or chat room, including but not limited to defamatory, discriminatory, false or unauthorized information. Users are cautioned that they are responsible for complying with the requirements of applicable copyright and trademark laws and regulations. 
 
-Some countries may provide less legal protection for your information. In such countries BESTTOOLBARS will still handle information in the manner we describe here.
+For more information on APPSGEYSER policy regarding notifications of copyright and trademark infringement please see our Terms of Services, available at  http://www.appsgeyser.com/tos/
 
-  
-**   Information Security and Quality   
-**   
+**Other APPSGEYSER Web Site Notices**
 
+In some cases, specific APPSGEYSER websites may contain other notices about their use and the information practices applicable to those sites. 
 
-We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality. 
+**Information Relating to Children**
 
-  
-**   Supplementing Information   
-**   
+Our Website and any products or Services available on our Website are  **not**  directed to children under 13 years of age.  However, despite our intent, we recognize that children under the age of 13 may access our Website or use our Services. Parents and legal guardians may request for us to review, delete, or stop the collection of their childs personally identifiable information by contacting us at: support@appsgeyser.com. For additional information and resources regarding child online privacy, please visit the Federal Trade Commission Web site at: [http://www.ftc.gov](http://www.ftc.gov/)/. 
 
+**Our Worldwide Practices**
 
-From time to time we may supplement information you give us via a BESTTOOLBARS Web site with information from other sources, such as information validating your address or other available information about businesses. This is to help us maintain the accuracy of the information we collect and to help us provide a better service. 
+APPSGEYSER is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders.  Our privacy practices are designed to comply with stringent data protection requirements in order to protection your personal information, regardless of where it is sent.  However, we may share your personal information with other APPSGEYSER websites, partners or affiliates, who may be located in other countries.  While some countries may provide less legal protection to personal data or information, we will strive to handle all transferred personal data or information in the manner described in this Privacy Policy.
 
-**   Use of Suppliers   
-**   
+APPSGEYSER Website and Services may use the internet infrastructure of different worldwide jurisdictions, so use of the Website or Services may be subject to the laws of various jurisdictions, including the laws of the United States and the European Union. For example, personally identifiable information collected in the European Union and its Member States is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and the subsequent legislation adopted in the EU Member States. 
 
+**Information Security and Quality**
 
-In some cases BESTTOOLBARS uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is BESTTOOLBARS's practice to require such suppliers to handle information in a manner consistent with BESTTOOLBARS's policies. 
+We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption software when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality. 
 
-Circumstances may arise in which, whether for strategic or other business reasons, BESTTOOLBARS decides to sell, buy, merge or otherwise reorganise businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is BESTTOOLBARS´s practice to seek appropriate protection for information in these types of transactions.
+**Supplementing Information**
 
-**   Cookies, Web Beacons and Other Technologies**
+From time to time we may supplement information you provide to us via the APPSGEYSER Website with information from other sources, such as information validating your Internet Protocol ( ** _IP_** ) address or other available information about businesses. This is done to help us maintain the accuracy of the information we collect, to improve the Website, and to help us provide you with better services. 
 
-We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on BESTTOOLBARS Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." BESTTOOLBARS or others on BESTTOOLBARS's behalf may use this data to analyze trends and statistics and to help us provide better customer service. 
+**Use of Suppliers**
 
-Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in a non-identifiable format and combine it with other non-identifiable information such as clickstream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. This information is not reviewed at an individual level. If you do not want your transaction details used in this manner you can disable your cookies.
+APPSGEYSER may use suppliers to collect, use, analyze and otherwise process information on its behalf. It is APPSGEYSER' practice to require such suppliers to handle information in a manner consistent with APPSGEYSER' data collection policies and privacy protections.  If you would like more information about our suppliers, please contact us at support@appsgeyser.com.     
 
-We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some BESTTOOLBARS pages use cookies, sent by BESTTOOLBARS or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
+**Mergers and Acquisitions**
 
-Some BESTTOOLBARS Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across BESTTOOLBARS's Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies.
+Circumstances may arise in which, whether for strategic or other business reasons, APPSGEYSER decides to sell, buy, merge or otherwise reorganize it businesses. In such transactions, customer information generally is one of the transferred business assets but will remain subject to any pre-existing Privacy Policy (unless, of course, the user consents otherwise). Also, in the event that APPSGEYSER or ToolbarStudio Inc., or substantially all of its assets are acquired, user information may be one of the transferred assets.  These transactions may involve the disclosure of personal information to prospective or actual purchasers, or receiving such information from sellers. It is APPSGEYSER´ practice to seek appropriate protection for all disclosed personal information in these types of transactions wherever possible.
 
-If you turn off cookies, Web beacon and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded. 
+**Cookies, Web Beacons and Other Technologies**
 
-**   Service Quality Monitoring**
+The APPSGEYSER Website uses cookie and web beacon technology.  Cookies are short pieces of data generated by a web server that a website stores on a users computer.  Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together.  Cookies also enable us to collect certain non-identifiable information and customize our Website and offerings to your needs and provide you with a better online experience with us. 
 
-Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is BESTTOOLBARS's general practice to monitor and in some cases record such calls for staff training or quality assurance purposes. 
+For example, we keep track of the domains from which people visit, and we also measure visitor activity on APPSGEYSER Web sites, but we do so in ways that keep the information non-identifiable.  This information is sometimes known as "clickstream data" and APPSGEYSER, its partners, affiliates, or others on APPSGEYSER' behalf may use this data to analyze trends and statistics and to help us provide better customer service. 
 
-Certain companies help us deliver interactive online advertising such as banner ads. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. After it is collected the information is aggregated so it is not identifiable to a specific individual. If, however, you would prefer that these companies not collect such information, please visit [http://www.networkadvertising.org/](http://www.networkadvertising.org/) and follow the "opt-out" instructions. 
+In addition, cookies are used to: 
 
-On occasion, we may personalize and customize Web sites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with BESTTOOLBARS and information you have provided to us. While you are visiting these Web sites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these Web sites is usually presented as a personalized URL in an e-mail, a notice on a Web site registration page, or as a response to you logging on to a certain Web site. 
+●     measure usage of various pages on our Website to help us make our information more pertinent to your needs and easy for you to access; 
 
-If you choose to visit one of these Web sites, you are agreeing to let BESTTOOLBARS collect information about your visits and also to its association with other information about you and your relationship with BESTTOOLBARS. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.
+●     identify and categorized the internet webpages from which the visitor came to the Website and observe their browsing patterns; and 
 
-**   Disclosures Required By Law**
+●     provide functionality such as online orders, APPSGEYSER Services and other functions that we believe would be of interest and value to you. 
 
-Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. 
+The types of cookies that we use are referred to as session cookies and persistent cookies.    Session cookies are temporary and are automatically deleted once you leave the Website.  Persistent cookies remain on your computer hard drive until you delete them.  Cookies do not, under ordinary circumstances, corrupt or damage your computer, programs, or computer files.
 
-**   Links to non-BESTTOOLBARS Web sites**
+In addition, the service providers we use to serve and host our advertisements, and/or deliver our e-mails may use session and persistent cookies, to track the number of times the Website is accessed and whether the site was accessed from an advertisement.  There are no cookies in the advertisements or e-mails.  A cookie is placed on your computer only if and when you click on an advertisement or open the e-mail.  The cookie generated from the advertisement or e-mail does not contain any personally identifiable information and will remain on your hard drive until you delete it. 
 
-BESTTOOLBARS Web sites may contain links to other Web sites. BESTTOOLBARS is not responsible for the privacy practices or the content of those other Web sites. 
+You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so may adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our Website.  Please also note that if you turn off cookies, web beacon and other technologies will still detect visits to our website, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded. 
 
-This privacy statement was last updated on September 15, 2002. A notice will be posted on our Web site home page for 30 days whenever this privacy statement is changed in a material way. 
+Web beacons are used in combination with cookies to help website operators understand how visitors interact with their websites. A web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. As opposed to cookies, which are stored on a users computer hard drive, web beacons are embedded invisibly on web pages and are about the size of the period at the end of this sentence. These web beacons are not tied to personally identifiable information. The use of a web beacons allows the site to measure the actions of the visitor opening the page that contains the web beacon. It makes it easier to follow and record the activities of a recognized browser, such as the path of pages visited at a website.  APPSGEYSER may use the information provided by web beacons to develop a better understanding of how the Websites users use the Website, and to facilitate those users interactions with the Website.  APPSGEYSER may make the aggregate data obtained from web analytics (including from our third party analytics providers, if applicable) publicly available. If this data is made available, none of the information will be personally identifying information or potentially-personally identifying information.
 
-**   Privacy Questions and Access**
+Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in a non-identifiable format and combine it with other non-personally identifiable information such as click-stream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. This information is not reviewed at an individual level. If you do not want your transaction details used in this manner you can disable your cookies through your web browser.
 
-If you have a question about this statement, you can send an email to the BESTTOOLBARS Web site coordinator. The address for this is [prvcy@softomate.com](mailto:prvcy@softomate.com). You can also contact us at this address if you have a question about BESTTOOLBARS's handling of your information. 
+**Service Quality Monitoring By Phone**
 
-If you wish to obtain a copy of particular information you provided to BESTTOOLBARS, or if you become aware the information is incorrect and you would like us to correct it contact us at [mailto:prvcy@softomate.com](mailto:prvcy@softomate.com).
+Certain transactions that users perform on our Website may also involve contact between users and APPSGEYSER by phone. Please be aware that it is APPSGEYSER' general practice to monitor and in some cases record such calls for staff training or quality assurance purposes. 
 
-Before BESTTOOLBARS is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe.
+**Online Advertising**
 
-Please use the Back button on your browser or close this window to return to your previous location.
+Certain companies help us deliver interactive online advertising such as banner ads. These companies may collect and use information about our users to help us better understand the types of offers, promotions, and advertising that are most appealing to our users. All information collected in this way is aggregated so it is not personally identifiable to any specific individual. If you would prefer that these companies not collect such information, please visit [http://www.networkadvertising.org/](http://www.networkadvertising.org/) and follow the "opt-out" instructions. 
+
+**Personalized URL Link**
+
+On occasion, we may personalize and customize websites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with APPSGEYSER and information you have provided to us. While you are visiting these websites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these websites is usually presented as a personalized URL in an e-mail, a notice on a website registration page, or as a response to you logging on to a certain website. 
+
+If you choose to visit one of these websites, you are agreeing to let APPSGEYSER collect information about your visits and also to APPSGEYSER use and association of such collected information with other information about you and your relationship with APPSGEYSER. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.
+
+**Disclosures Required By Law**
+
+Although we will always strive to guard your identity, we may disclose your personally identifiable information without your permission in limited circumstances.  We will only do so if we have a good-faith belief that disclosure is reasonably necessary to: (1) comply with laws, regulations, or government requests; or (2) to investigate or protect against harmful activities to our guests, visitors, partners, affiliates, or property (including the Website), or to others.  If we are required by law enforcement or judicial authorities to provide your personally identifiable information, we will only do so upon receipt of appropriate documentation.  We may also disclose personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating this Privacy Policy, the terms of their agreements with APPSGEYSER, or to protect the safety of our users and the public.  We may also disclose your information to investigate violations of our Terms of Service disclosures, available at http://www.appsgeyser.com/tos/.  Please know that we do not take this responsibility lightly.  Your privacy is of paramount importance to us. 
+
+**Links to non-APPSGEYSER Websites**
+
+APPSGEYSER Website may contain links to other websites, advertisers, services, special offers, events, or products that are not owned or controlled by APPSGEYSER.  We do not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services. If you access any such third-party website, service or content from a APPSGEYSER website, you do so at your own risk and you agree that APPSGEYSER will have no liability arising from your use of or access to any third-party website, service, or content.  APPSGEYSER is not responsible for the privacy practices, terms of use, or the content or opinion of other websites. 
+
+**Privacy Questions and Access**
+
+If you have a question about this statement, you can send an email to the APPSGEYSER Website coordinator at support@appsgeyser.com. You can also contact us at this address support@appsgeyser.com if you have a question about APPSGEYSER's handling of your information. 
+
+If you wish to obtain a copy of particular information you provided to APPSGEYSER, or if you become aware the information is incorrect and you would like us to correct it, please contact us at support@appsgeyser.com.
+
+When you contact  APPSGEYSER, we may ask you to verify your identify before providing you with any information or correcting any inaccuracies. Once a request for information or for a correction is made, we will endeavor to respond within an appropriate timeframe.
+
+Copyright © 2013  ToolbarStudio Inc.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of ToolbarStudio Inc. and/or its licensors and protected by copyright laws and international intellectual property treaties.  APPSGEYSER and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of ToolbarStudio Inc.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the ToolbarStudio Inc or third party trademarks or logos without the prior written consent of ToolbarStudio Inc or the applicable trademark owner is strictly prohibited.
