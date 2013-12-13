@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529175021id_/http%3A//www.xmission.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213234013id_/http%3A//xmission.com/legal) for the most accurate reproduction.*
 
-# XMission - Legal
+# commitment to privacy | privacy statement | privacy policy :: USA - XMission
 
 #### Privacy Statement
 
-XMission has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
+XMission has created this **privacy statement** in order to demonstrate our firm **commitment to privacy**. The following discloses our information gathering and dissemination practices.
 
 ##### Personal Information Collection and Use
 
 Most of the information given to XMission in the registration process, or at any other time is for XMission's use only. XMission is the sole owner of this information and we will not sell, share, or rent this information to others. A court order is the only way that this information can be accessed by another party or organization. The one exception to this is the “Online Name” field that's filled out during registration. When someone runs the UNIX “finger” command on an account (e.g., 'finger username@shell.xmission.com'), it will show this “Online Name”. This will also be displayed on a new customer's default Web page. This is the only information that is made public and you, as a customer, may elect to put anything you'd like (or nothing at all) in this particular field. It can also be modified at any time. XMission does not offer services or sell products to children and does not request or knowingly collect personally identifiable contact information from anyone under the age of 13.
-
-##### Shared and Unlimited Web Hosting on XMission
-
-Shared and Unlimited resources on XMission are intended to support a large number of customer and a wide array of web services. XMission makes every commercially reasonable effort to provide the best services possible so long as the subscriber's use of the service complies with these terms. It is expected that subscribers will practice efficiency in web coding, database usage, storage optimization, and bandwidth transfers to not adversely impact others on the shared hosting services. The term "unlimited" does not allow a small number of users to disproportionately utilize any of the provided features. We expect our subscribers to play fair and be realistic in their expectations regarding shared hosting services. This service is architected to host websites for personal and business applications. XMission does not provide unlimited space for online storage, file backups, documents, MySQL tables, log files, ISOs, warez, and etc. Other unacceptable items include: IRC scripts/bots, anonymizers, IP scanners, bruteforce programs, mail bombers, commercial audio/video streaming, fraudulent sites, sites that link to inappropriate content, filesharing/ptp activities, and topsites. Inodes are not to exceed more than 250,000 on any shared account. Violation of any of these terms may result in immediate termination with or without notice. Should your sites require dedicated resources, which we highly recommend for businesses which depend on their web sites to generate revenue, XMission encourages you to try our enterprise [ cloud hosting service ](https://web.archive.org/web/20130529175021id_/http%3A/cloud_hosting) .
 
 ##### System Logs
 
@@ -34,11 +30,11 @@ Personally identifiable consumer information is shared with Authorize.Net, the c
 
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by contacting [ accounting@xmission.com ](mailto:accounting@xmission.com) or by calling 801-539-0852. The person changing the information MUST be the contact on the account. Normally, the contact is the person who opened the account or a person who was assigned to the account by the business. To change the information, you must be able to verify that you are, in fact, the contact on the account.
 
-All account contact changes must be completed by the customer using an XMission Contact Addition Form. Customers can request this form from any XMission employee. This form should be completed, printed on the customer's business letterhead, and returned to XMission via FAX, postal mail, or secure email. If sent via email, the digital copy must be in a readable format (e.g. PDF, JPG) and emailed to [billing@xmission.com](https://web.archive.org/web/20130529175021id_/http%3A//www.xmission.com/%E2%80%9Dmailto:billing@xmission.com%E2%80%9D) An XMission staff member will send a confirmation email to the customer to verify that the email address is valid for the company. When the customer responds to that confirmation email, he or she can be added as a contact.
+All account contact changes must be completed by the customer using an XMission Contact Addition Form. Customers can request this form from any XMission employee. This form should be completed, printed on the customer's business letterhead, and returned to XMission via FAX, postal mail, or secure email. If sent via email, the digital copy must be in a readable format (e.g. PDF, JPG) and emailed to [billing@xmission.com](https://web.archive.org/web/20131213234013id_/http%3A//xmission.com/%E2%80%9Dmailto:billing@xmission.com%E2%80%9D) An XMission staff member will send a confirmation email to the customer to verify that the email address is valid for the company. When the customer responds to that confirmation email, he or she can be added as a contact.
 
 ##### Notification of Changes
 
-If we ever need to change our privacy policy, we will post those changes on this page. We will also send an email announcement so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Rest assured that XMission has no intention of disclosing or selling customer information in the future.
+If we ever need to change our **privacy policy** , we will post those changes on this page. We will also send an email announcement so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Rest assured that XMission has no intention of disclosing or selling customer information in the future.
 
 ##### Contacting XMission
 
