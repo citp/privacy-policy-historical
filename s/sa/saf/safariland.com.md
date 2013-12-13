@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safariland.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613234745id_/http%3A//safariland.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safariland.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213222435id_/http%3A//www.safariland.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Safariland™ - Privacy Policy
 
@@ -47,7 +47,7 @@ Upon request via postal mail, e-mail, or telephone, we will provide users a summ
 Attn: Webmaster  
 13386 International Parkway  
 Jacksonville, FL 32218  
-E-mail: [webmaster@safariland.com](mailto:webmaster@safariland.com)  
+E-mail: [safarialnd.webmaster@safariland.com](mailto:safariland.webmaster@safariland.com)  
 800-347-1200 
 
 In addition, you may at any time opt out of having your personal information used for any and all purposes by contacting us by any means identified above.
