@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629074741id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithclipart.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213142514id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,15 @@ Personal Information Used for Promotional Purposes
 
 **
 
-We may send you information from time to time about Sharefaith promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from SHarefaith by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com) and, for third party promotional offerings, by contacting the source of that promotional offering. **
+We may send you information from time to time about Sharefaith promotional offerings. However, we will not share your Personal Information with any third party without your prior consent. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from SHarefaith by using the UNSUBSCRIBE link provided in all marketing emails, or by sending e-mail to [Contact@FaithClipart.com](mailto:contact@FaithClipart.com) and, for third party promotional offerings, by contacting the source of that promotional offering. 
+
+We sometimes use the non-personal identifiable information that we collect to improve the design, content and promotion of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, upgrades or services through banner ads and other ad-material. 
+
+Sharefaith uses services such as Google Analytics for Sharefaith DisplayAds. That includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit our website. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing. Sharefaith uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. 
+
+Sharefaith and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) together to inform, optimize, and serve ads based on visitor's past visits to our website. 
+
+The end user can unsubscribe from these advertisements at any time by clicking on the opt-out button on the banner or by using GoogleÃ¢??s opt-out browser [add-on](https://tools.google.com/dlpage/gaoptout/). **
 
 Children's Privacy
 
