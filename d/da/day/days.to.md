@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the days.to privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613053715id_/http%3A//days.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the days.to privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213040704id_/http%3A//days.to/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | days.to
 
