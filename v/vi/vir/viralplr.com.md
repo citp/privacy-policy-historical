@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralplr.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427001837id_/http%3A//viralplr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralplr.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213135840id_/http%3A//viralplr.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
