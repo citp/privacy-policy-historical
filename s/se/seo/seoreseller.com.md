@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoreseller.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509112548id_/http%3A//www.seoreseller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoreseller.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213043708id_/http%3A//www.seoreseller.com/privacy-policy) for the most accurate reproduction.*
 
-# Reseller SEO Privacy Policy Details | seoreseller.com
+# Reseller SEO Privacy Policy Details | SEOReseller.com
 
 Our company, seoreseller.com, is committed to protecting your privacy. Please read the Online Privacy Statement regarding the privacy practices of our website found on www.seoreseller.com. Please note that this statement applies only to the collection and use of information obtained online and not to data gathered offline. By using our site, you consent to our website’s privacy policy. When you visit our website, expect to be notified of the following:
 
