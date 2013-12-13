@@ -1,0 +1,347 @@
+<!--The following is the downloaded HTML source of the freelinkdirectory.ws privacy policy that was archived on 2013-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213041324id_/http%3A//www.featuredlinkdirectory.ws//page/terms-and-conditions-1) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        
+        <title>Terms and conditions</title>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+            var DOC_ROOT = 'http://www.featuredlinkdirectory.ws';
+        </script>
+        
+        
+	<link rel="stylesheet" type="text/css" href="/templates/DevXGreen/style/column.css">
+	<link rel="stylesheet" type="text/css" href="/templates/DevXGreen/style/form.css">
+	<link rel="stylesheet" type="text/css" href="/templates/DevXGreen/style/main_min.css">
+        <link rel="stylesheet" type="text/css" href="/templates/DevXGreen/style/colors/default-theme.css">
+         <!--[if IE 7]>
+   	<link rel="stylesheet" type="text/css" href="/templates/DevXGreen/style/ie7.css" />
+	  <![endif]-->
+
+        
+        <link rel="stylesheet" type="text/css" href="/templates/Core/DefaultFrontend/style/select2.css">
+        <link rel="stylesheet" type="text/css" href="/templates/Core/DefaultFrontend/style/fg.menu.css">
+        <link rel="stylesheet" type="text/css" href="/templates/Core/DefaultFrontend/style/theme/jquery-ui-1.8.23.custom.css">
+
+
+        
+        
+        
+        <meta name="generator" content="PHP Link Directory 5.1.5">
+
+        
+        
+                <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+        
+        
+            <script type="text/javascript">
+             var $ = jQuery.noConflict();
+            </script>
+        
+
+        <script type="text/javascript" src="/javascripts/jquery/jquery.select2.js"></script>
+        <script type="text/javascript" src="/javascripts/jquery/jquery.fg.menu.js"></script>
+
+        <style type="text/css">
+body {
+
+
+}
+</style>
+
+        <script type="text/javascript" src="/javascripts/jquery/jquery.wookmark.js"></script><script type="text/javascript" src="/javascripts/zeroclipboard/ZeroClipboard.js"></script>
+        
+    </head>
+    <body>
+    <div class="wrap">
+        <div class="masthead">
+            <div>
+                <div class="phpld-wbox">
+                    <div class="userPanel">
+            <a href="/login" class="btn-slide">Login</a>
+        &nbsp;|&nbsp;
+        <a href="/user/register" title="Register new user">Register</a>
+        </div>
+
+                    <div class="phpld-clearfix"></div>
+
+                    <div class="header">
+                        <div class="headerLogo">
+                                <h1><a href="/">Featured Link Directory</a></h1>
+
+                        </div>
+                        
+<script type="text/javascript">
+
+var servername = ""+"/Search/ajaxSearchLinks/";
+
+function split( val ) {
+    return val.split( /,\s*/ );
+}
+
+function extractLast( term ) {
+    return split( term ).pop();
+}
+
+function linkFormatResult(link) {
+    //<![CDATA[
+    var markup = "<hr \/><div class='listing-list-item ajax-search-result'>";
+    markup += "<div class='link-info'><div class='listing-title'><a href='"+link.url+"'><b>" + link.title + "</b></a></div>";
+    if (link.description !== undefined) {
+        markup += "<div class='description'><a href='"+link.url+"'>" + link.description + "</a></div>";
+    }
+    markup += "</div></div>"
+    return markup;
+    //]]>
+}
+
+
+function linkFormatSelection(link) {
+     return link.title;
+}
+
+var currEnteredData = null;
+
+jQuery(document).ready(function($){
+    $("#autoquery").select2({
+        placeholder:"Search for a link",
+        minimumInputLength:1,
+        ajax:{
+            url:servername,
+            dataType:'json',
+            quietMillis:100,
+            allowClear:true,
+            data:function (term, page) { // page is the one-based page number tracked by Select2
+                return {
+                    linkQuery: {q: term, loc: $("#autoquery-location").val()}, //search term
+                    page_limit:100 // page size
+                };
+            },
+        results:function (data, page) {
+            // notice we return the value of more so Select2 knows if more results can be loaded
+            for (x in data.result) {
+                data.result[x].id = data.result[x].url;
+            }
+            data.result.unshift({'id':data.url, 'title':currEnteredData, 'url':'/search?search='+currEnteredData})
+            return {results:data.result};
+        }
+    },
+
+    formatResult:linkFormatResult, // omitted for brevity, see the source of this page
+
+    formatSelection:linkFormatSelection // omitted for brevity, see the source of this page
+
+    }).on('change', function(event){
+
+        document.location.href = $(this).val();
+
+    });
+
+
+
+    jQuery(".select2-search input[type='text']").keyup(function(event){
+        currEnteredData = jQuery(this).val();
+
+    });
+
+	jQuery("#search_form").submit(function(){
+		jQuery("#autoquery").val(currEnteredData);		
+	});	
+
+});
+
+
+
+</script>
+
+
+
+ <form class="phpld-form headerSearch" action="/search" method="get" id="search_form">
+	<div class="phpld-columnar phpld-equalize" style="overflow: visible">
+     	<div class="phpld-fbox-text float-left" style="margin-top:5px;">
+        	<input name="search" maxlength="150" id="autoquery" style="width: 400px;" value="">
+    	</div>
+    	<div class="phpld-fbox-button float-left " style="position:absolute; margin-top:7px;">  
+        	<input class="button phpld-searchbutton" type="submit" value="GO">
+    	</div>
+	</div>
+</form>
+
+                    </div>
+                </div>
+            </div>
+            
+            <div class="phpld-clearfix"></div>
+
+            <div id="nav">
+                <div class="phpld-wbox">
+                    <div class="phpld-hlist">
+                        <ul><li><a href="http://www.featuredlinkdirectory.ws/submit">Submit Link</a></li><li><a href="http://www.featuredlinkdirectory.ws/latest">Latest Links</a></li><li><a href="http://www.featuredlinkdirectory.ws/top">Top Hits</a></li><li><a href="http://www.featuredlinkdirectory.ws/contact">Contact</a></li><li><a href="http://www.featuredlinkdirectory.ws/rss">Rss</a></li><li><a href="http://www.featuredlinkdirectory.ws//page/terms-and-conditions-1">Terms &amp; Privacy</a></li></ul>
+                   </div>
+                </div>
+            </div>
+        </div>
+        <div class="phpld-wbox">
+        <div class="phpld-clearfix"></div>
+        <div class="content-wrapper"><div class="path">    <div class="breadcrumbs">
+            <span>
+            <a href="http://www.featuredlinkdirectory.ws/">                Featured Link Directory
+            </a>
+                            <span class="divider">/</span>
+                    </span>
+                    <span>
+                            Terms and conditions
+            
+                    </span>
+                </div>
+</div><div class="phpld-column linearize-level-1"><div class="phpld-col2" style="float:right;width:25%"><div class="phpld-cbox"><div class="phpld-grid phpld-full phpld-widget" id="widget_14">
+    <div class="boxTop"></div>
+            <h2>Recommended</h2>
+        <div class="listingsList">
+    
+
+
+<div class="phpld-grid listing-style-list" style="position: relative;">
+            <div class="phpld-gbox  featured">
+            <div class="listing-list-item listing-list linearize-level-1">
+        <h4>    		<a class="listing-title" id="ID_1" href="http://www.cyberma.us" rel="nofollow">
+    Cyberma Corporation
+</a>
+</h4>
+        <div class="phpld-box list-headline"><span class="date"> Jul 30, 2013 | </span><div class="listing-categories"><ul>
+            <li><a href="http://www.featuredlinkdirectory.ws/Business/business-consulting/">Consulting</a></li>
+            <li><a href="http://www.featuredlinkdirectory.ws/Internet/seo-services/">SEO services</a></li>
+            <li><a href="http://www.featuredlinkdirectory.ws/Business/marketing-sites/">Marketing</a></li>
+    </ul>
+</div></div>
+                    <div class="page-rank">    PR: 0
+    <div class="prg">
+    <div class="prb" style="width: 0px"></div>
+</div>
+</div>
+                <div class="phpld-clearfix"></div>
+        <div class="description listing-field">
+                Welcome to Cyberma Corporation! Our company can provide a helping hand to your business in several areas. We specialize in  Business development ,  Marketing strategy and SEO. &nbsp;We are a US based
+... <a class="readMore" href="http://www.featuredlinkdirectory.ws/listing/cyberma-corporation-1" title="Read more about: Cyberma Corporation">Read&nbsp;more</a>
+
+
+
+        </div>
+        <div class="phpld-clearfix"></div>
+            <div class="phpld-clearfix"></div>
+</div>
+
+        </div>
+    </div>
+
+</div>
+</div>
+</div></div><div class="phpld-col3" style="margin-left:10px;margin-right:25%;"><div class="phpld-cbox"><div class="phpld-grid phpld-full phpld-widget" id="widget_2">
+    <div class="boxTop"></div>
+        <h1>Terms and conditions</h1>
+<div class="description">
+    <strong>Introduction<br></strong><br>By using our website in any way, the user confirms that he/she has read and understand these terms and conditions.<br>This website is maintained by Cyberma Corporation (www.cyberma.us). We aim to provide a high quality content to our visitors without spam and low quality links.&nbsp;<br>Our visitors are allowed to submit a link for free or choose one of the paid severvices. Link submission might be declined without any explanation. If a submission of any paid plan is declined, we guarantee full refund to the payer within 48 hours.<br><br>The following links are not allowed in our directory:<br>- gambling<br>- adult content<br>- spam websites<br>- websites without any content<br><br><br>We reserve the right to evaluate and decline any submission to keep our directory valid and useful. Every submission is human checked.<br><br><br><strong>Refund policy</strong><br><br>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">Paid submissions can be refunded within 14 days after the payment. After this term, no refunds are possible. Contact us directly with refund requests as we solve each case individually.<strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;"><br><br></strong><strong>Reserved rights<br></strong>We reserve a right to reject any submission without a reason. If we decide to reject a paid submission, the full amount will be refunded within 7 days. However, if the website is approved and then changes its content in such manner that violates our rules or any law, we can withdraw any submission and block the user's account. In this case, no refund is available.<strong><br><br>Personal Information</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">As a visitor to the site, you can engage in many activities without providing any Personal Information.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">When you order products or services as a featuredlinkdirectory.ws subscriber, we may collect the following Personal Information from you:</p>
+<ul style="margin: 0px 0px 15px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; list-style: none none; color: #4f5153; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Contact information such as your name, phone number, address and email address</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Billing information such as the number, expiration date, card type and billing address of your credit card</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Demographic information such as your job title, job description and company name and company type.</li>
+</ul>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">If you submit content to&nbsp;featuredlinkdirectory.ws&nbsp;for licensing, you may be asked to provide the following information:</p>
+<ul style="margin: 0px 0px 15px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; list-style: none none; color: #4f5153; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Contact information such as your name, phone number, primary address, and email address.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;"><span style="line-height: 21px;">featuredlinkdirectory.ws</span>&nbsp;will verify this information by asking you to either: a) upload a scan of a government issued ID (which will be stored on our servers); or b) provide a credit card number. Your credit card number will be used solely for the purpose of verifying your name and address. The credit card number will not be stored.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Payment and contributor information including, but not limited to, payout method, payout email, desired display name, skill level, content focus, etc.</li>
+</ul>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">As is true of most websites, when you use the Site,&nbsp;featuredlinkdirectory.ws&nbsp;or third parties authorized by&nbsp;featuredlinkdirectory.ws&nbsp;may also collect certain technical and routing information about your computer to facilitate your use of the Site and its services. For example, we may log environmental variables, such as browser type, operating system, CPU speed, and the Internet Protocol (IP) address of your computer. We use these environmental variables to facilitate and track your use of the Site and its services.&nbsp;featuredlinkdirectory.ws&nbsp;also uses such environmental variables to measure traffic patterns on the Site. To better understand the needs of our visitors to the Site we may occasionally match such information with your Personal Information.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">In order to reduce errors in our database, authenticate our users, and prevent abuse of our system, we may on occasion supplement the Personal Information you submit to us with information from third-party sources. For example, we may supplement your contact information with address information provided by the U.S. Postal Service to qualify your information and prevent errors in our database. As permissible, we may also supplement the information you provide to us with demographic and other information (such as age or interest in photography) stored in third-party databases in order to make it more likely that marketing communications we send will be of interest to you.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Information Sharing with third parties</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">featuredlinkdirectory.ws uses one or more outside credit card processing companies to bill you for our goods and services. To the best of our knowledge, these companies do not retain, share, store or use personally identifiable information for any other purpose.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We also share Personal Information with certain companies that perform services on our behalf. We only share the Personal Information which is necessary for them to perform those services. We require any company with which we may share Personal Information to protect that data in a manner consistent with this policy and to limit the use of such Personal Information to the performance of services for&nbsp;featuredlinkdirectory.ws.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We do not sell or otherwise provide Personal Information to other companies for the marketing of their own products or services.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Usage of your personal information</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We do not sell, rent or share your personally identifiable information to or with third parties in any way other than as disclosed in this Privacy Policy.&nbsp;featuredlinkdirectory.ws&nbsp;collects your information in order to record and support your participation in the activities you select.&nbsp;featuredlinkdirectory.ws&nbsp;or one of our trusted partners may use this information to:</p>
+<ul style="margin: 0px 0px 15px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; list-style: none none; color: #4f5153; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Process your financial transactions.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Send you order / renewal confirmations.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Register your rights, if any, to technical support or other benefits that may be made available to registered users.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Respond to customer service requests, questions and concerns.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Administer your account.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Send you requested product or service information.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Keep you informed about special offers and services of&nbsp;<span style="line-height: 21px;">featuredlinkdirectory.ws</span>&nbsp;and selected third parties.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Administer promotions and sweepstakes you enter and notify you of the results.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Investigate, prevent or take action regarding illegal activities and/or violations of our Terms of Service.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Meet our research and product/service development needs and to improve our Site, services and offerings; and</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Customize your experience, including targeting our services and offerings to you.</li>
+</ul>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We store information that we collect through cookies, log files, transparent images, and/or third party sources to create a summary of your preferences. We tie your personally identifiable information, and/or your membership usage history, to information in the summary, in order to provide tailored promotions and marketing offers, to improve the content of the site for you and/or to determine your preferences.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We further reserve the right to disclose your Personal Information as required by law (e.g., to comply with a subpoena, warrant, court order, or legal process served on&nbsp;featuredlinkdirectory.ws&nbsp;) and when we believe that disclosure is necessary to protect our rights, avoid litigation, protect your safety or the safety of others, investigate fraud, and/or respond to a government request. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Data Retention</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We will retain your information for as long as your account is active or as needed to provide you services. If you wish to delete your account or request that we no longer use your information to provide you services contact us at&nbsp;<a style="margin: 0px; padding: 0px; vertical-align: baseline; background-color: transparent; outline: none; color: #212121; text-decoration: none;" href="mailto:support@yourwebgraphics.com">support@</a>featuredlinkdirectory.ws. We will respond to your request within 30 days. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Unsubscribing</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">You may "opt out" of receiving&nbsp;featuredlinkdirectory.ws&nbsp;s email updates, newsletters and/or partner emails by clicking on the&nbsp;"My Account"&nbsp;link on the Site and making the appropriate selections. The choice to opt out of such communications is also generally available during the sign-up process.&nbsp;featuredlinkdirectory.ws&nbsp;will still contact you when there are changes to the Terms of Service or Submitter Terms &amp; Conditions, as applicable. In addition, we will still send you service-related announcements including, but not limited to, a registration email, benefit notification emails, emails automatically triggered by actions you took on the Site and bill related notices. Generally, you may not opt-out of these communications, which are not promotional in nature. If you wish not to receive them, you have the option of deactivating your account</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><a style="margin: 0px; padding: 0px; vertical-align: baseline; background-color: transparent; outline: none; color: #212121;" name="protection"></a><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Personal Information and its Protection</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">The Personal Information that you provide in connection with the use of the Site is protected in several ways.</p>
+<ul style="margin: 0px 0px 15px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; list-style: none none; color: #4f5153; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Access by you to your account profile is available through a password and unique customer ID selected by you. This password is encrypted. You should strive to use a strong, alpha-numeric password which you should not divulge to anyone.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Your Personal Information resides on a secure server that only selected&nbsp;<span style="line-height: 21px;">featuredlinkdirectory.ws</span>&nbsp;personnel and contractors have access to via password.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">Your Personal Information is encrypted whenever it is transmitted to&nbsp;<span style="line-height: 21px;">featuredlinkdirectory.ws</span>.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">We strive to protect the Personal Information submitted to us, both during transmission and once</li>
+</ul>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We strive to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. While we use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Tracking Technology</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">The Site may automatically collect information as you browse, such as Internet Service Provider, browser type and version, operating system and device type, average time spent on our site(s), pages viewed, information accessed, the Internet Protocol (IP) address used to connect your computer to the Internet and other relevant statistics. Such information is sometimes referred to as web analytics and/or clickstream data.</span></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We and our partners may use cookies and action tags to keep track of your visits, preferences and profile information.</p>
+<ul style="margin: 0px 0px 15px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; list-style: none none; color: #4f5153; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">A cookie is a small, unique text file that a website can send to your computer when you visit a site. We may use session cookies, which terminate when a user closes his or her browser, and/or persistent cookies, which remain on the user's computer until manually deleted. Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you do not want us to deploy cookies to your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie on your computer. Rejecting cookies may affect your ability to use the Site.</li>
+<li style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; list-style: none none;">An action tag is similar to a cookie. Action tags help us identify and track the performance of web pages on the Site, allowing us to measure the performance and quality of the Site and to manage Site content. In addition, we may use action tags in emails. This allows us to gauge the effectiveness of certain communications and the effectiveness of marketing campaigns by showing, for example, how many emails have been opened.</li>
+</ul>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">Electronic tracking technologies are used to enhance your experience on the Site, including allowing you to remain logged in on the Site. Cookies and pixel tags may also be used to collect general usage and aggregated statistical information that does not identify you personally. However, we and our third party partners may use cookies to store some of your preferences (including limited Personal Information) or to display relevant content based upon what you view on our site.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Online Community</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. Any information you post to a public bulletin board or chat room, such as the Forum For Contributors (the "Forums"), is available to all persons accessing that location.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">Your email address will not automatically be posted on the Forums unless you modify the default setting to permit that. Your email address will then be available to all persons accessing the Forums. In addition, any information that you choose to include in your profile can be viewed by all visitors to the Forums. You can change your profile.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Referral Program Emails</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site.&nbsp;featuredlinkdirectory.ws&nbsp;stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">Your friend may contact&nbsp;<a style="margin: 0px; padding: 0px; vertical-align: baseline; background-color: transparent; outline: none; color: #212121; text-decoration: none;" href="mailto:support@yourwebgraphics">support@</a>featuredlinkdirectory.ws&nbsp;to request that we remove this information from our database.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Privacy Complaints</strong></p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">featuredlinkdirectory.ws takes its users' privacy concerns seriously. If you believe that&nbsp;featuredlinkdirectory.ws&nbsp;has not complied with this Privacy Policy with respect to your Personal Information, you may contact the responsible manager at cyberma@cyberma.us. In your email please describe in as much detail as possible the ways in which you believe that the YourWebGraphics.com&nbsp;Privacy Policy has not been complied with. We will investigate your complaint promptly.&nbsp;</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact our Privacy Officer at&nbsp;<a style="margin: 0px; padding: 0px; vertical-align: baseline; background-color: transparent; outline: none; color: #212121; text-decoration: none;" href="mailto:support@yourwebgraphics.com">support@</a>featuredlinkdirectory.ws.</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px 0px 22px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; line-height: 21px; color: #4f5153; font-family: Arial, Helvetica, sans-serif;"><strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent;">Cyberma Corporation</strong><br>5348 Vegas Dr&nbsp;<br>Las Vegas<br>Nevada 89108&nbsp;<br>USA</p>
+</div>
+</div>
+</div></div></div></div><div class="footer">Powered By: <a href="http://www.phplinkdirectory.com" title="powered by PHP Link Directory"> PHP Link Directory </a></div></div></div><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42829411-1', 'featuredlinkdirectory.ws');
+  ga('send', 'pageview');
+
+</script><script type="text/javascript">
+    /* <![CDATA[ */
+    var root = '';
+    
+    var a = document.getElementsByTagName("a");
+    for(i = 0; i< a.length; i++)
+        if(a[i].id != '')
+            a[i].onclick = count_link;
+    function count_link(event) {
+        i = new Image();
+        i.src= root+'/cl.php?id='+this.id;
+        return true;
+    }
+
+    
+    /* ]]> */
+</script>
+</body></html>
