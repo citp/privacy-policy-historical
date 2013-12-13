@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614222859id_/http%3A//utshob.com/index.php%3Fmain_page%3Dpage%26id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213130208id_/http%3A//utshob.com/index.php%3Fmain_page%3Dpage%26id%3D9) for the most accurate reproduction.*
 
 # Privacy Policy
 
