@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upcity.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172030id_/http%3A//upcity.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcity.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213031334id_/http%3A//upcity.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Inbound Marketing for Small Business | SEO Software from UpCity
+# SEO Software from UpCity | Inbound Marketing for Small Business
 
 ## Privacy Policy
 
@@ -8,8 +8,8 @@ This is the web site of UpCity LLC, a provider of [SEO Software](http://upcity.c
 
 Our postal address is:
 
-1333 N. Kingsbury St., Suite 204  
-Chicago, IL, 60642
+372 W. Ontario, Suite 301  
+Chicago, IL, 60654
 
 We can be reached via e-mail at [info@upcity.com](mailto:info@upcity.com) or you can reach us via the [see contact page](http://upcity.com/company/contact).
 
