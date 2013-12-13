@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the harryanddavid.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618234311id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harryanddavid.com privacy policy that was archived on 2013-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213155701id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
         
-<!-- Response served Tue Jun 18 16:43:11 PDT 2013
-     App Server: mpecdb7Cell01\WC_becprod5_node\WC_becprod5 -->
-<script type="text/javascript" async="" src="https://insight.torbit.com/v1/insight.min.js"></script><script src="//sec.levexis.com/clientfiles/v3/harryanddavid.js" async=""></script><script type="text/javascript">
+<!-- Response served Fri Dec 13 07:57:01 PST 2013
+     App Server: mpecdb7Cell01\WC_becprod5_node\WC_becprod5 --><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+
+<script type="text/javascript" async="" src="https://secure-cdn.mplxtms.com/s/MasterTMS.min.js#588"></script><script async="" type="text/javascript" src="//sec.levexis.com/clients/harryanddavid/3.js"></script><script type="text/javascript">
 var isMobile = false;
 </script>
 
 <script type="text/javascript"> 	
 	dojoConfig = {parseOnLoad: false, has: {'dojo-firebug':false, 'dojo-debug-messages': false},
- useCommentedJson: true, packages: [{name:"wc", location:"../wc"}, {name:"CommonAssets", location: "../../CommonAssets"}, {name:"bec", location:"../../CommonAssets/javascript/bec"}], locale: 'en-us'}; 
+ useCommentedJson: true, packages: [{name:"wc", location:"../wc"}, {name:"CommonAssets", location: "../../CommonAssets"}, {name:"bec", location:"../../CommonAssets/javascript/bec"}, {name:"CommonAssets/mobile", location: "../../CommonAssets/mobile"}, {name:"bec/mobile", location:"../../CommonAssets/mobile/javascript/bec/mobile"}], locale: 'en-us'}; 
 </script>
 <script type="text/javascript" src="/wcsstore/dojo173/dojo/dojo.js"></script><script type="text/javascript">
 	var langId = '-1';
@@ -41,6 +42,10 @@ var isMobile = false;
 	<script type="text/javascript">
 		var tmEnabled = true;
 		dojo.require("bec.vendors.TagMan");
+		dojo.addOnLoad(function()
+		{
+			new bec.vendors.TagMan();	
+		});
 	</script>
 	
 
@@ -51,6 +56,10 @@ tmParams = {
 	grandTotal: '',
 	productTotal: '',
 	productIds: '',
+	productNames: '',
+	productCategories: '',
+	taxes: '',
+	adjustedShipping: '',
 	itemNumbers: '',
 	superItems: '',
 	qtys: '',
@@ -64,59 +73,79 @@ tmParams = {
 	catPath: '',
 	isMobile: (typeof isMobile !== 'undefined' && isMobile === true) ? 'true' : '',
 	isMobile_int: (typeof isMobile !== 'undefined' && isMobile === true) ? '1' : '0',
-	pageType: ''
+	pageType: '',
+	custCity: '',
+	custState: '',
+	site_type: 'BROWSER'
 	};
 </script><!--  BEGIN Partner Feed PartnerFeedSiteWideTagManHead -->
 	<!-- HD: TagMan -->
 	<script language="JavaScript" type="text/javascript">				
-		(function (w) {
-			w.tm2BootPosition = 0;
-			w.tm2BootAsync = true;
-			w.tmPageId = 3;
-			w.tmParam = {tm_prtot : tmParams.productTotal,tm_smcid : tmParams.smcid,levrev : tmParams.grandTotal,tm_amts : tmParams.amounts,tm_promocode : tmParams.itemNumbers,tm_productids : tmParams.productIds,tm_items : tmParams.productIds,tm_qty : tmParams.qtys,tm_prices : tmParams.prices,tm_cid : tmParams.cid,tm_quantities : tmParams.qtys,levordref : tmParams.orderNumber,tm_superitem : tmParams.superItems,tm_nxjstrde : tmParams.nxjstrde,tm_nxjcsid : tmParams.nxjcsid,tm_criteo : tmParams.superItems,tm_adjustproductamt: tmParams.adjustedProductPrice,tm_categorypath: tmParams.catPath, tm_ismobile: tmParams.isMobile, tm_pagetype: tmParams.pageType, tm_ismobile_int: tmParams.isMobile_int};
-			var conf = { host: 'pfna.levexis.com',
-				account: 'harryanddavid',
-				version: '3',
-				async: true,
-				cdn: (location.protocol === 'https:') ? 'sec.levexis.com' : 'res.levexis.com',
-				waitService: 'wt.tagman.com',
-				waitTest: false,
-				bootstrap: true,
-				param: w.tmParam || {} };
-			// do not change values below this line
-			function ap(sr , ol) {
-			     var e = document.createElement('script'); 
-			     e.src = sr;
-			     e.async = true;
-			     if (ol) {
-			    	e.onload = e.onerror = function() { if (!this.loaded) { ol(); this.loaded = true; } };
-				e.onreadystatechange = function() { if (this.readyState === 'complete' || this.readyState === 'loaded') { this.onload(); } };
-			     }
-			     var s = document.getElementsByTagName('script')[0];
-			     s.parentNode.insertBefore( e , s);
-			}	
-			w.TMAN = w.TMAN || {};	
-		     	w.TMAN.startTime = +new Date();
-			w.TMAN.asyncLoader = function() {
-			      TMAN.addContainer( new TMAN.Container(conf.account, w.tmPageId, conf) );
-			};
-			var tm = '//' + conf.cdn + '/clientfiles/v' + conf.version + '/' + conf.account + '.js'; 
-			if (conf.waitService && conf.waitTest) ap ( '//' + conf.waitService + '/wait/0/' + Math.random() , function() { TMAN.waitLatency=new Date() - TMAN.startTime; } );
-			if (conf.async) {
-			     w.TMAN.position = {};
-			     w.TMAN.doTags = function(p) { TMAN.currentPosition = p; };
-			     w.TMAN.addParam = function(n,v) {
-				w.tmParam[n]=v;
-			     };
-			     ap(tm);	
-			} else {
-			     document.write('<script src="' + tm + '"><\/script>');
-			}
-		})(window);
+		// client configurable parameters
+	  window.tmParam = {
+	    "aff_check":"",
+	    "cse_check":"",
+	    "currency":"",
+	    "tm_custcity":tmParams.custCity,
+    	"tm_custstate":tmParams.custState,
+	    "levordref":tmParams.orderNumber,
+	    "levrev":tmParams.grandTotal,
+	    "partnerhip_check":"",
+	    "path_last_cush":"",
+	    "path_last_HD":"",
+	    "path_last_wolf":"",
+	    "tm_productcategories":tmParams.productCategories,
+	    "tm_productnames":tmParams.productNames,
+	    "tm_shipamt":tmParams.adjustedShipping,
+	    "tm_sitetype":(typeof isMobile !== "undefined" && isMobile === true || (typeof isTablet !== "undefined" && isTablet === true)) ? (typeof isTablet !== "undefined" && isTablet === true ? "Tablet" : "Mobile") : "Desktop",
+	    "socmedia_check":"",
+	    "tm_taxamt":tmParams.taxes,
+	    "tm_adjustproductamt":tmParams.adjustedProductPrice,
+	    "tm_amts":tmParams.amounts,
+	    "tm_categorypath":tmParams.catPath,
+	    "tm_cid":tmParams.cid,
+	    "tm_criteo":tmParams.superItems,
+	    "tm_ismobile":tmParams.isMobile,
+	    "tm_ismobile_int":tmParams.isMobile_int,
+	    "tm_items":tmParams.productIds,
+	    "tm_nxjcsid":tmParams.nxjcsid,
+	    "tm_nxjstrde":tmParams.nxjstrde,
+	    "tm_orders":"",
+	    "tm_pagetype":tmParams.pageType,
+	    "tm_prices":tmParams.prices,
+	    "tm_productid":"",
+	    "tm_productids":tmParams.productIds,
+	    "tm_promocode":tmParams.itemNumbers,
+	    "tm_prtot":tmParams.productTotal,
+	    "tm_qty":tmParams.qtys,
+	    "tm_quantities":tmParams.qtys,
+	    "tm_smcid":tmParams.smcid,
+	    "tm_superitem":tmParams.superItems,
+          "tm_event":"none",
+          "tm_eventlabel":""
+	  };
 	</script>
-<!--  END Partner Feed PartnerFeedSiteWideTagManHead --><!-- END IMPORT: tagman.jsp --><!--  BEGIN Partner Feed PartnerFeedSiteWideHeadTop -->
-<script type="text/javascript">var TBRUM=TBRUM||{};TBRUM.q=TBRUM.q||[];TBRUM.q.push(['mark','firstbyte',(new Date).getTime()]);(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src=document.location.protocol+'//insight.torbit.com/v1/insight.min.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b)})();</script>
-<script>TMAN.doTags(TMAN.position.TOP_HEAD);</script><!--  END Partner Feed PartnerFeedSiteWideHeadTop --><!-- BEGIN CoremetricsBase.jspf -->
+	<script language="JavaScript" type="text/javascript">	
+		var tmIsValid = true;
+  	if(typeof hasSubmittedConvTags !== "undefined" && hasSubmittedConvTags === true)
+  		tmIsValid = false;
+  	
+  	if(tmIsValid)
+  	{
+			(function(d,s){
+		    var client = 'harryanddavid';
+		    var siteId = 3;
+		     
+		    //  do not edit
+		    var a=d.createElement(s),b=d.getElementsByTagName(s)[0];
+		    a.async=true;a.type='text/javascript';
+		    a.src='//sec.levexis.com/clients/'+client+'/'+siteId+'.js';
+		    a.tagman='st='+(+new Date())+'&c='+client+'&sid='+siteId;
+		    b.parentNode.insertBefore(a,b);
+		  })(document,'script');
+		}
+	</script>		
+<!--  END Partner Feed PartnerFeedSiteWideTagManHead --><!-- END IMPORT: tagman.jsp --><!--  BEGIN Partner Feed PartnerFeedSiteWideHeadTop --><!--  END Partner Feed PartnerFeedSiteWideHeadTop --><!-- BEGIN CoremetricsBase.jspf -->
 
 <script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 <script language="javascript1.1" src="/wcsstore/CommonAssets/javascript/cmcustom.js" type="text/javascript"></script>
@@ -140,6 +169,7 @@ tmParams = {
 	var cmSearchResults = "";
 	var cmAttributes = "";
 	var rememberMeShopper = false;
+	var cmDisplayType = "";
 	
 	// Initialize Coremetrics
 	dojo.addOnLoad(function() {
@@ -152,13 +182,6 @@ tmParams = {
 <script type="text/javascript" src="/content/common/scripts/csd.js"></script>
 <script type="text/javascript" src="/content/Hand/include/js/csd.js"></script>
 
-    <script type="text/javascript">
-        if(window.location.protocol == 'http:')
-        {
-            console.debug('Including the SLI css file');
-            document.write("<link rel='stylesheet' href='" + window.location.protocol + "//assets.resultspage.com/autosuggest/autosuggest.css' media='screen' type='text/css' />");
-        }
-    </script>
 
 <link href="/content/Hand/images/favicon.ico" rel="shortcut icon">
 <!-- START IMPORT: liveperson.jspf -->
@@ -201,10 +224,12 @@ tmParams = {
 		});
 	</script>
 <!-- END: janrainconfig -->
-	<script type="text/javascript">
-		var tlEnabled = true;
-	</script>
-<!--  BEGIN Content Spot espotHTMLHead --><meta name="p:domain_verify" content="544ff0d157df719f6012ce69b68a7180"><meta http-equiv="content-language" content="en-us"><!--  END Content Spot espotHTMLHead --><!--  BEGIN Partner Feed PartnerFeedSiteWideHead -->
+<script language="JavaScript" src="/wcsstore/CommonAssets/javascript/vendors/Tealeaf/tealeaf-w3c-hd.js" type="text/JavaScript"></script>
+
+
+<script type="text/javascript">
+	var tlEnabled = true;
+</script><!--  BEGIN Content Spot espotHTMLHead --><meta name="p:domain_verify" content="544ff0d157df719f6012ce69b68a7180"><meta http-equiv="content-language" content="en-us"><!--  END Content Spot espotHTMLHead --><!--  BEGIN Partner Feed PartnerFeedSiteWideHead -->
 <script type="text/javascript">
 dojo.addOnLoad(function(){try{
     /* _______________ can edit below this line _______________ */                              
@@ -240,160 +265,297 @@ dojo.addOnLoad(function(){try{
 <!-- Maxymiser script start -->
 <script type="text/javascript" src="//service.maxymiser.net/cdn/harryanddavid/js/mmcore.js"></script>
 <!-- Maxymiser script end -->
-
-<script>
-document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/foresee/foresee-trigger.js"></scr' + 'ipt>');
-</script><script type="text/javascript" src="/content/Hand/include/foresee/foresee-trigger.js"></script>
-<!--  END Partner Feed PartnerFeedSiteWideHead --><!--  BEGIN Partner Feed PartnerFeedSiteWideHeadBottom --><script>TMAN.doTags(TMAN.position.BOTTOM_HEAD);</script><!--  END Partner Feed PartnerFeedSiteWideHeadBottom -->
+<!--  END Partner Feed PartnerFeedSiteWideHead --><!--  BEGIN Partner Feed PartnerFeedSiteWideHeadBottom --><!--  END Partner Feed PartnerFeedSiteWideHeadBottom -->
 			<link rel="canonical" href="http://www.harryanddavid.com/h/view/custserv-security">          
         <title>Customer Service | Privacy Policy</title>
     <link rel="stylesheet" type="text/css" href="/content/Hand/include/styles/information.css">
+		<script type="text/javascript">
+		  
+var catalogQuickOrder;
+function getCatalogQuickOrder()
+{
+    if(!catalogQuickOrder)
+    {
+/*
+        //seemed we had a timing issue so used the following, but requiring wc/service/common seemed to be an issue for that     
+        loadCQO();
+*/    
+        require(["bec/order/CatalogQuickOrder"], 
+        function(CatalogQuickOrder)
+        {
+		    catalogQuickOrder = new CatalogQuickOrder('http://www.harryanddavid.com/h/cqo/', '<span class="icon-error"></span> Please enter the item number.');
+	    });
+    }    
+    return catalogQuickOrder;    
+}
+/*
+function loadCQO()
+{
+    //block until modules are loaded
+    require(["dojo/_base/Deferred"],
+    function(Deferred)
+    {
+        var loadIt = new Deferred(); 
+    
+        //when loadIt is resolved call returnIt
+        Deferred.when(loadIt, returnIt);
+        
+        require(["CommonAssets/javascript/bec/becpopup", "bec/order/CatalogQuickOrder"], 
+        function(popuplib, CatalogQuickOrder)
+        {
+            //catalogQuickOrder = new CatalogQuickOrder('http://www.harryanddavid.com/h/cqo/', '<span class="icon-error"></span> Please enter the item number.');
+            catalogQuickOrder = new CatalogQuickOrder();
+            loadIt.resolve(catalogQuickOrder);    //do deferred callback
+        });        
+        
+        function returnIt(value)
+        {
+            return value;
+        }
+    });
+}
+*/
+
+		</script>
 	<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/visitor/addons/deploy2.asp?site=76633839&amp;d_id=1&amp;default=simpleDeploy"></script><script src="/content/Hand/include/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 	<body class=" linux js applewebkit applewebkit_537_36 applewebkit_537 headlesschrome headlesschrome_69_0_3494_0 headlesschrome_69 safari safari_537_36 safari_537">
-	
 	<!-- Start Header.jsp -->
-<div id="container">
-	<div id="header" class="clearfix">
-		<!-- START INCLUDE FILE: HeaderLogo.jsp -->
-<div class="logo"><a href="http://www.harryanddavid.com/"></a></div>
-<!-- END INCLUDE FILE: HeaderLogo.jsp --><!-- Start TopUtilityLeft.jsp -->
-
-<div class="utility-left">
-	
-<div class="search clearfix">
-	
-		<form id="search" name="search" method="get" action="http://www.harryanddavid.com/search/go?gf=1&amp;w=" enctype="x-www-form-urlencoded" onsubmit="bec.util.search.submit();return false;">
-			<input type="hidden" name="storeId" value="10455">
-			<input type="hidden" name="catalogId" value="10002">
-			<input type="hidden" name="langId" value="-1">
-			<input type="hidden" name="ts" value="v4">
-			<input type="hidden" name="asug">
-			<input type="hidden" name="sliItemsInCart" id="sliItemsInCart" value="">	
-			
-			<input type="text" name="w" id="sli_search_rac" class="search-input" autocapitalize="off" placeholder="Keyword">
-			
-<a dojotype="bec.widget.Button" id="btn-search" onclick="bec.util.searchSLI.submit();return false; " class="button CTA-secondary" href="#Search">
-				<span class="icon-small search"></span>
-			</a>	
-
-		</form>
-	
-</div>
-
-	<div class="links">
-		<span class="giftlist-link">
-			
-<span id="giftlistIcon"><a href="https://www.harryanddavid.com/h/giftlist?giftlist=1" target="_parent">Your Gift History</a></span>
-<span id="giftlistIconTip" dojotype="dijit.Tooltip" connectid="giftlistIcon" position="below" style="display:none">
-   <div id="tooltip-header-giftlist">Your personal Gift History is a reminder for returning customers of gifts you've sent from Harry &amp; David at this time last year, as well as the names and addresses of the gift recipients for easy re-ordering.</div> 
-</span>
-                       
-		</span>
-		|
-	    
-	    <span class="favoriteslist-link">
-	        <a href="http://www.harryanddavid.com/h/interestitem" target="_parent">Your Favorites</a>
-	    </span>
+<div id="container" class="">
+	<span data-dojo-type="bec/widget/Header" id="header">
+		<div id="header-bar" class="clearfix ">
+			<!-- Start TopUtilityLeft.jsp --><div id="header-bar-left" class="clearfix">
+  <div id="header-bar-item-help" class="header-bar-item header-bar-item-first header-bar-menu" onclick="return true">
+    <div id="header-bar-item-help-title" class="header-bar-menu-inner">
+    	Need Help? <span class="icon icon-arrow-menu"></span>
+    	<a href="need_help" name="needHelp" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+    </div>
+    <div id="header-bar-help-menu-dropdown" class="header-bar-menu-dropdown">
+      <div class="lpChat">
+        <div id="lpChatHeaderButton"></div>
+      </div> 
+      <div class="header-bar-help-menu-item">
+        Call us any time<br>
+        <b>1-877-322-1200</b><br>
+        <!-- START hours --><!--Sun.&ndash;Sat. 5AM&ndash;10PM PST--><!-- END hours -->
+      </div>
+      <a class="header-bar-help-menu-link" href="mailto:service@harryanddavid.com">Prefer email:<br><b>service@harryanddavid.com</b></a>
+      <a class="header-bar-help-menu-link" href="/h/view/custserv-faq">Read our <b>FAQs</b></a>
+    </div>
+  </div>
+  <div id="header-bar-item-store-locator" class="header-bar-item header-bar-menu" onclick="return true">
+    <div id="header-bar-item-store-locator-title" class="header-bar-menu-inner">
+    	Store Locator <span class="icon icon-arrow-menu"></span>
+    	<a href="store_locator" name="storeLocator" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+    </div>
+    <div id="header-bar-store-locator-menu-dropdown" class="header-bar-menu-dropdown">
+      <div class="header-bar-menu-description">
+        Find a Harry &amp; David store near you.
+      </div>
+      <form id="header-bar-store-locator-form" action="/h/storelocator">
+        <input id="header-bar-store-locator-input" class="header-bar-input" name="location" type="text" placeholder="Enter a city, state, or ZIP">
+        <span id="header-bar-store-locator-button" class="header-bar-menu-button button CTA-secondary"><span class="icon icon-magnifying-glass"></span></span>
+      </form>
+    </div>
+  </div>
+  <div id="header-bar-item-email" class="header-bar-item header-bar-item-last header-bar-menu" onclick="return true">
+    <div id="header-bar-item-email-title" class="header-bar-menu-inner">
+    	Email Sign Up <span class="icon icon-arrow-menu"></span>
+    	<a href="email_signUp" name="emailSignUp" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
 	</div>
+    <div id="header-bar-email-menu-dropdown" class="header-bar-menu-dropdown">
+      <div class="header-bar-menu-description">
+        We give you the heads up on <b>daily deals</b> and <b>special events</b>.
+        So you’re always in the know.
+      </div>
+      <!-- BEGIN: BECEmailSignUp.jsp -->
+<div class="error" id="header-bar-email-error" style="display:none;"></div>
+<!-- No espot named espotEmailSignUpMessageheader-bar found. -->
+<form dojotype="dijit.form.Form" id="header-bar-email-form" name="header-bar-email-form" method="post" action="https://r.harryanddavid.com/pub/rf">
+	<input type="hidden" name="_ri_" value="X0Gzc2X%3DWQpglLjHJlYQGkqzczfazcgaCmCE3sofk5bk4zczdvRVwjpnpgHlpgneHmgJoXX0Gzc2X%3DWQpglLjHJlYQGnW23EtTbUsAJio4zgIzgzgWDlkFf">
+	<input type="hidden" name="HD_SUBSCRIBER" value="IN">
+	<input type="hidden" name="NEWSLETTER" value="HWEB">
+	<input type="hidden" name="HD_WELCOME_EX" value="1">
+	
+	<div id="header-bar-email-wrapper" class="clearfix">
+		<div id="header-bar-email-input-wrapper">
+			<div id="header-bar-email-input">
+				
+			<input dojotype="bec.widget.EmailValidationTextbox" id="email_address_header-bar" name="email_address_" required="true" maxlength="100" size="35" trim="true" lowercase="true" autocapitalize="off" regexp="^[a-zA-Z0-9._-]+@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,4}$" value="" autocomplete="on" invalidmessage="Your email is formatted incorrectly,<br/> please try again." placeholder="Enter your email address">
+      
+				<a href="email_address_footer_input" name="emailAddressFooterInput" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+			</div>
+			<div id="header-bar-logon-input">
+		        <input dojotype="bec.widget.RetypeValidationTextbox" id="email_address_confirm_header-bar" name="email_address_confirm_header-bar" required="true" maxlength="100" size="35" trim="true" lowercase="true" casesensitive="false" autocapitalize="off" value="" comparefieldid="email_address_header-bar" placeholder="Confirm your email address" invalidmessage="Email addresses don't match,<br/> please try again.">
+		        <a href="email_address_confirm_footer_input" name="emailAddressConfirmFooterInput" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+	        </div>		
+		</div>	
+		<div id="header-bar-email-button-wrapper">
+			<button id="emailBtn" type="submit" class="button header-bar-email-button CTA-secondary" tabindex="0">
+	           Submit
+	        </button>
+		</div>
+		
+		<div id="header-bar-email-input-error"></div>
+	</div>
+</form>
+<script type="text/javascript">
+    dojoParse("email_address_header-bar", "bec.widget.EmailValidationTextbox");
+    dojoParse("email_address_confirm_header-bar", "bec.widget.RetypeValidationTextbox");
+    dojoParse("header-bar-email-form", "dijit.form.Form");
+</script>
+
+    </div>
+  </div>
 </div>
 <!-- End TopUtilityLeft.jsp --><!-- Start TopUtilityRight.jsp -->
-<div class="utility-right">
+
+<div id="header-bar-right" class="clearfix">
+	<a id="header-bar-item-giftlist" class="header-bar-item header-bar-item-first header-bar-link" href="https://www.harryanddavid.com/h/giftlist?giftlist=1">Your Gift History <span class="icon icon-arrow-emphasize"></span></a>						
 	
-	<div class="clearfix">
+	<a id="header-bar-item-track" class="header-bar-item header-bar-link" href="https://www.harryanddavid.com/h/orderstatus">Track your order <span class="icon icon-arrow-link"></span></a>
+	
+	
+			<a href="#sign-in" id="header-bar-item-sign-in" class="header-bar-item header-bar-link" onclick="openLogonPanel();return false;" target="_parent">Sign In</a>
 		
-			<div class="cart">
-				<a href="http://www.harryanddavid.com/h/orderitem?orderId=*" class="clearfix" target="_parent">
-				    <div class="inner">
-					    <div class="label head">Your cart</div>
-					    <span class="label subhead">Items:</span>
-					    <span dojotype="wc.widget.RefreshArea" id="itemsInCartArea" controllerid="itemsInCartAreaController" islayoutcontainer="false" dolayout="false">
-						    <!-- START: runningcart.jsp  --><span id="spanItemsInCart" class="count">0</span><!-- . --><!-- END: runningcart.jsp  -->
-			    	    </span>
-			    	</div>
-		    	</a>
-	    	</div>
-	    	<script type="text/javascript">dojoParse("itemsInCartArea", "wc.widget.RefreshArea");</script>	
+		<a id="header-bar-item-cart" class="header-bar-link header-bar-item header-bar-item-last" href="http://www.harryanddavid.com/h/orderitem?orderId=*" target="_parent">
+			<span class="icon icon-cart"></span> Cart: 
+			<span dojotype="wc.widget.RefreshArea" id="itemsInCartArea" controllerid="itemsInCartAreaController">
+			    <!-- START: runningcart.jsp  --><span id="spanItemsInCart" class="count">0</span><!-- . --><!-- END: runningcart.jsp  -->
+	   	    </span>
+		</a>
+	   	<script type="text/javascript">dojoParse("itemsInCartArea", "wc.widget.RefreshArea");</script>	
+	
+	<div id="signInContainer" dojotype="bec.widget.PopupPanelContainer">
+		 <div id="signInDropDown" dojotype="bec.widget.PopupPanel" panelurl="UserArea/AccountSection/LogonSubsection/BECLogonFormDropDown.jsp" parentid="signInContainer" titletext="Sign In" placementcontainerid="container" width="270" focusfield="logonId"></div>
+			
+		<div id="forgotPassword" dojotype="bec.widget.PopupPanel" panelurl="UserArea/AccountSection/LogonSubsection/BECForgotPassword.jsp" parentid="signInContainer" titletext="Sign In - Forgot Password" placementcontainerid="container" width="270" focusfield="userName_logonId"></div>
 		
-		
-		<div class="header-promotion-top-right">
-		   <!-- BEGIN: Espot [espotPromotionalHeaderBanner] -->
+		<div id="createAccountDropDown" dojotype="bec.widget.PopupPanel" panelurl="UserArea/AccountSection/RegistrationSubsection/BECLightRegistrationForm.jsp" parentid="signInContainer" titletext="Create Account" placementcontainerid="container" width="405" focusfield="email1_2"></div>	
+	</div>
+	<div dojotype="wc.widget.RefreshArea" id="minicart" class="panel" style="display:none;" controllerid="itemAddAreaController">
+		<div class="titlebar clearfix"><span class="titleText">Added to Cart</span>
+		<span class="close"><a href="#" onclick="dojo.publish('modelChanged/hideAddOrderItem');return false;" class="sprite-close-small"></a></span></div>
+		<div class="content"></div>
+	</div>
+	<script type="text/javascript">
+		dojoParse("minicart", "wc.widget.RefreshArea");
+		dojoParse("signInContainer", "bec.widget.PopupPanelContainer");
+		dojoParse("signInDropDown", "bec.widget.PopupPanel");
+		dojoParse("forgotPassword", "bec.widget.PopupPanel");
+		dojoParse("createAccountDropDown", "bec.widget.PopupPanel");
+	</script>
+</div>
+<!-- End TopUtilityRight.jsp -->
+		</div>
+		<div id="header-main" class="clearfix">
+			<!-- START INCLUDE FILE: HeaderLogo.jsp -->
+<a id="header-main-logo" href="http://www.harryanddavid.com/"></a>
+<!-- END INCLUDE FILE: HeaderLogo.jsp -->
+			
+			<div id="header-main-banner">
+			  <!-- BEGIN: Espot [espotPromotionalHeaderBanner] -->
 			<div id="espotPromotionalHeaderBanner" class="genericESpot">
 				<div class="caption" style="display:none">[espotPromotionalHeaderBanner]</div>
-		<img src="/content/common/images/paypal/btn_paypal_accepting_new.gif">
+		<a href="http://www.harryanddavid.com/h/clickinfo?intv_id=225863&amp;mpe_id=133256&amp;evtype=CpgnClick&amp;storeId=10455&amp;catalogId=10002&amp;giftlist=1&amp;fromLink=true&amp;URL=http%3A%2F%2Fwww.harryanddavid.com%2Fgifts%2Fstore%2FBECGiftListItemDisplay%3FstoreId%3D10455%26catalogId%3D10002%26giftlist%3D1%26fromLink%3Dtrue"><img src="/content/Hand/images/espots/heading/giftHistory-headerBug.png"></a>
 		</div>	
 		<!-- END: Espot [espotPromotionalHeaderBanner] -->
-		</div>
-	</div>
-	
-	
-			<div class="login">
-				<a href="#sign-in" target="_parent" onclick="openLogonPanel();return false;" class="sign-in">Sign In</a>
 			</div>
 		
-	<div class="account">
-	
-		<span class="my-account">
-			<a href="http://www.harryanddavid.com/h/useraccount" target="_parent">Your Account</a>
-		</span>
-		<span class="separator">|</span>
-		
-		<span class="email-catalog-link">
 			
-<span id="emailSignupIcon"><a href="#email-catalog-link" onclick="showEmailSignUpDialog();return false;" target="_parent">Sign-up for Email</a></span>
-<span id="emailSignupIconTip" dojotype="dijit.Tooltip" connectid="emailSignupIcon" position="below" style="display:none">
-   <div id="tooltip-header-emailsignup">Get Special Offers by signing up for exclusive email offers, sales, and special events.</div> 
-</span>
-                       
-		</span>
-	</div>
-	<div class="phone">
-		877-322-1200
-	</div>
-</div>
-
-<div id="signInContainer" dojotype="bec.widget.PopupPanelContainer" islayoutcontainer="false" dolayout="false">
-	 <div id="signInDropDown" dojotype="bec.widget.PopupPanel" panelurl="UserArea/AccountSection/LogonSubsection/BECLogonFormDropDown.jsp" parentid="signInContainer" titletext="Sign In" placementcontainerid="header" width="270" focusfield="logonId" dolayout="false"></div>
+	<form id="header-main-search" name="header-main-search" method="get" action="http://www.harryanddavid.com/search/go?gf=1&amp;w=" enctype="x-www-form-urlencoded" onsubmit="bec.util.searchSLI.submit();return false;">
+		<input type="hidden" name="storeId" value="10455">
+		<input type="hidden" name="catalogId" value="10002">
+		<input type="hidden" name="langId" value="-1">
+		<input type="hidden" name="ts" value="v4">
+		<input type="hidden" name="asug">
+		<input type="hidden" name="sliItemsInCart" id="sliItemsInCart" value="">	
 		
-	<div id="forgotPassword" dojotype="bec.widget.PopupPanel" panelurl="UserArea/AccountSection/LogonSubsection/BECForgotPassword.jsp" parentid="signInContainer" titletext="Sign In - Forgot Password" placementcontainerid="header" width="270" focusfield="userName_logonId" dolayout="false"></div>
+		<input type="text" name="w" id="sli_search_rac" class="search-input" autocapitalize="off" tabindex="0" placeholder="Keyword">
+			<a href="search_input" name="searchInput" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+		
+		<a id="header-main-search-button" href="javascript:this.click();" onclick="bec.util.searchSLI.submit();return false;" tabindex="0">
+			<span id="header-main-search-button-icon" class="icon icon-magnifying-glass"></span>			
+			</a><a href="search_button" name="searchButton" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+		
+	</form>
 	
-	<div id="createAccountDropDown" dojotype="bec.widget.PopupPanel" panelurl="UserArea/AccountSection/RegistrationSubsection/BECLightRegistrationForm.jsp" parentid="signInContainer" titletext="Create Account" placementcontainerid="header" width="405" focusfield="email1_2" dolayout="false"></div>	
-</div>
-<div dojotype="wc.widget.RefreshArea" id="minicart" class="panel" style="display:none;" controllerid="itemAddAreaController" dolayout="false">
-	<div class="titlebar clearfix"><span class="titleText">Added to Cart</span>
-	<span class="close"><a href="#" onclick="dojo.publish('modelChanged/hideAddOrderItem');return false;" class="sprite-close-small"></a></span></div>
-	<div class="content"></div>
-</div>
-<script type="text/javascript">
-	dojoParse("minicart", "wc.widget.RefreshArea");
-	dojoParse("signInContainer", "bec.widget.PopupPanelContainer");
-	dojoParse("signInDropDown", "bec.widget.PopupPanel");
-	dojoParse("forgotPassword", "bec.widget.PopupPanel");
-	dojoParse("createAccountDropDown", "bec.widget.PopupPanel");
-</script>
-<!-- End TopUtilityRight.jsp -->
-	</div>	
-	<div id="menu" class="clearfix"><div class="separator first"></div><div id="menu-gift-baskets-tower-boxes" preload="false" dojotype="bec.menu.MenuContentPane" position="left" topcatidentifier="gift-baskets-tower-boxes" menuname="Gift Baskets &amp;<br/>Towers" altmenuname="Gift Baskets &amp; Towers" menuurl="http://www.harryanddavid.com/h/gift-baskets-tower-boxes?cm_sp=fonav-_-giftbasketstowerboxes-_-giftbasketstowerboxes" class="menu"><a href="http://www.harryanddavid.com/h/gift-baskets-tower-boxes" class="base">Gift Baskets &amp;<br>Towers</a></div><div class="separator"></div><div id="menu-fruit-gift" preload="false" dojotype="bec.menu.MenuContentPane" position="left" topcatidentifier="fruit-gift" menuname="Pears &amp;<br/>Fresh Fruit" altmenuname="Pears &amp; Fresh Fruit" menuurl="http://www.harryanddavid.com/h/fruit-gift?cm_sp=fonav-_-fruitgift-_-fruitgift" class="menu"><a href="http://www.harryanddavid.com/h/fruit-gift" class="base">Pears &amp;<br>Fresh Fruit</a></div><div class="separator"></div><div id="menu-monthly-fruit-clubs" preload="false" dojotype="bec.menu.MenuContentPane" position="left" topcatidentifier="monthly-fruit-clubs" menuname="Fruit<br/>Clubs" altmenuname="Fruit Clubs" menuurl="http://www.harryanddavid.com/h/monthly-fruit-clubs?cm_sp=fonav-_-monthlyfruitclubs-_-monthlyfruitclubs" class="menu"><a href="http://www.harryanddavid.com/h/monthly-fruit-clubs" class="base">Fruit<br>Clubs</a></div><div class="separator"></div><div id="menu-chocolates-sweets-candy" preload="false" dojotype="bec.menu.MenuContentPane" position="left" topcatidentifier="chocolates-sweets-candy" menuname="Chocolates &amp;<br/>Sweets" altmenuname="Chocolates &amp; Sweets" menuurl="http://www.harryanddavid.com/h/chocolates-sweets-candy?cm_sp=fonav-_-chocolatessweetscandy-_-chocolatessweetscandy" class="menu"><a href="http://www.harryanddavid.com/h/chocolates-sweets-candy" class="base">Chocolates &amp;<br>Sweets</a></div><div class="separator"></div><div id="menu-gourmet-foods" preload="false" dojotype="bec.menu.MenuContentPane" position="right" topcatidentifier="gourmet-foods" menuname="Gourmet<br/>Foods" altmenuname="Gourmet Foods" menuurl="http://www.harryanddavid.com/h/gourmet-foods?cm_sp=fonav-_-gourmetfoods-_-gourmetfoods" class="menu"><a href="http://www.harryanddavid.com/h/gourmet-foods" class="base">Gourmet<br>Foods</a></div><div class="separator"></div><div id="menu-flowers-plants" preload="false" dojotype="bec.menu.MenuContentPane" position="right" topcatidentifier="flowers-plants" menuname="Flowers &amp;<br/>Plants" altmenuname="Flowers &amp; Plants" menuurl="http://www.harryanddavid.com/h/flowers-plants?cm_sp=fonav-_-flowersplants-_-flowersplants" class="menu"><a href="http://www.harryanddavid.com/h/flowers-plants" class="base">Flowers &amp;<br>Plants</a></div><div class="separator"></div><div id="menu-holiday-gifts-occasions" preload="false" dojotype="bec.menu.MenuContentPane" position="right" topcatidentifier="holiday-gifts-occasions" menuname="Holidays &amp;<br/>Special Occasions" altmenuname="Holidays &amp; Special Occasions" menuurl="http://www.harryanddavid.com/h/holiday-gifts-occasions?cm_sp=fonav-_-holidaygiftsoccasions-_-holidaygiftsoccasions" class="menu"><a href="http://www.harryanddavid.com/h/holiday-gifts-occasions" class="base">Holidays &amp;<br>Special Occasions</a></div><div class="separator"></div><div id="menu-gift-on-sale" preload="false" dojotype="bec.menu.MenuContentPane" position="right" topcatidentifier="gift-on-sale" menuname="Sales &amp;<br/>Specials" altmenuname="Sales &amp; Specials" menuurl="http://www.harryanddavid.com/h/gift-on-sale?cm_sp=fonav-_-giftonsale-_-giftonsale" class="menu"><a href="http://www.harryanddavid.com/h/gift-on-sale" class="base">Sales &amp;<br>Specials</a></div><div class="separator last"></div></div>
-<script type="text/javascript">
-	dojoParseNode("menu");
-	// resize menus removed
-</script>
+	
+	<script type="text/javascript">
+		var sliJsProtocol = (("https:" == document.location.protocol) ? "https:" : "http:");
+		var sliURL = sliJsProtocol + '//harryanddavid.resultspage.com/search?ts=rac&w=';
+		var sliHostName = "harryanddavid.resultspage.com";
+		console.debug("sliJsProtocol: " + sliJsProtocol);
+	</script>
+
+		</div>
 		
+		<div id="menu" class="clearfix"><div class="separator first"></div>
+<div id="menu-holiday-gifts-occasions" preload="false" dojotype="bec.menu.MenuContentPane" position="left" topcatidentifier="holiday-gifts-occasions" menuname="Holidays &amp; Occasions" altmenuname="Holidays &amp; Occasions" menuurl="http://www.harryanddavid.com/h/holiday-gifts-occasions?cm_sp=fonav-_-holidaygiftsoccasions-_-holidaygiftsoccasions" class="menu" menutype="standard">
+	
+	<a href="http://www.harryanddavid.com/h/holiday-gifts-occasions" class="base">Holidays &amp; Occasions</a>
+</div>
+<div class="separator"></div>
+<div id="menu-gift-baskets-tower-boxes" preload="false" dojotype="bec.menu.MenuContentPane" position="left" topcatidentifier="gift-baskets-tower-boxes" menuname="Gift Baskets &amp; Towers" altmenuname="Gift Baskets &amp; Towers" menuurl="http://www.harryanddavid.com/h/gift-baskets-tower-boxes?cm_sp=fonav-_-giftbasketstowerboxes-_-giftbasketstowerboxes" class="menu" menutype="standard">
+	
+	<a href="http://www.harryanddavid.com/h/gift-baskets-tower-boxes" class="base">Gift Baskets &amp; Towers</a>
+</div>
+<div class="separator"></div>
+<div id="menu-fruit-gift" preload="false" dojotype="bec.menu.MenuContentPane" position="left" topcatidentifier="fruit-gift" menuname="Pears &amp; Fruit" altmenuname="Pears &amp; Fruit" menuurl="http://www.harryanddavid.com/h/fruit-gift?cm_sp=fonav-_-fruitgift-_-fruitgift" class="menu" menutype="standard">
+	
+	<a href="http://www.harryanddavid.com/h/fruit-gift" class="base">Pears &amp; Fruit</a>
+</div>
+<div class="separator"></div>
+<div id="menu-monthly-gift-clubs" preload="false" dojotype="bec.menu.MenuContentPane" position="right" topcatidentifier="monthly-gift-clubs" menuname="Monthly Clubs" altmenuname="Monthly Gift Clubs" menuurl="http://www.harryanddavid.com/h/monthly-gift-clubs?cm_sp=fonav-_-monthlygiftclubs-_-monthlygiftclubs" class="menu" menutype="club">
+	
+	<a href="http://www.harryanddavid.com/h/monthly-gift-clubs" class="base">Monthly Clubs</a>
+</div>
+<div class="separator"></div>
+<div id="menu-chocolates-sweets-candy" preload="false" dojotype="bec.menu.MenuContentPane" position="right" topcatidentifier="chocolates-sweets-candy" menuname="Chocolates &amp; Sweets" altmenuname="Chocolates &amp; Sweets" menuurl="http://www.harryanddavid.com/h/chocolates-sweets-candy?cm_sp=fonav-_-chocolatessweetscandy-_-chocolatessweetscandy" class="menu" menutype="standard">
+	
+	<a href="http://www.harryanddavid.com/h/chocolates-sweets-candy" class="base">Chocolates &amp; Sweets</a>
+</div>
+<div class="separator"></div>
+<div id="menu-gourmet-foods" preload="false" dojotype="bec.menu.MenuContentPane" position="right" topcatidentifier="gourmet-foods" menuname="Food &amp; Wine" altmenuname="Food &amp; Wine" menuurl="http://www.harryanddavid.com/h/gourmet-foods?cm_sp=fonav-_-gourmetfoods-_-gourmetfoods" class="menu" menutype="standard">
+	
+	<a href="http://www.harryanddavid.com/h/gourmet-foods" class="base">Food &amp; Wine</a>
+</div>
+<div class="separator"></div>
+<div id="menu-flowers-plants" preload="false" dojotype="bec.menu.MenuContentPane" position="right" topcatidentifier="flowers-plants" menuname="Flowers &amp; Plants" altmenuname="Flowers &amp; Plants" menuurl="http://www.harryanddavid.com/h/flowers-plants?cm_sp=fonav-_-flowersplants-_-flowersplants" class="menu" menutype="standard">
+	
+	<a href="http://www.harryanddavid.com/h/flowers-plants" class="base">Flowers &amp; Plants</a>
+</div>
+<div class="separator last"></div></div>
+<script type="text/javascript">dojoParseNode("menu");</script>
+		
+	</span>
+	<script type="text/javascript">
+		dojoParse("header", "bec/widget/Header");
+	</script>	
 	
 	<div id="page" class="clearfix"><div class="strip-left"></div><div class="strip-right"></div> <!-- No espot named espotPromotionalBanner found. --><!-- No espot named espotCompanyBanner found. --><!-- BEGIN: Espot [espotHeaderBanner] -->
 			<div id="espotHeaderBanner" class="genericESpot">
 				<div class="caption" style="display:none">[espotHeaderBanner]</div>
-		<a id="banner" href="http://www.harryanddavid.com/h/clickinfo?intv_id=193341&amp;mpe_id=10013&amp;evtype=CpgnClick&amp;cm_sp=sitewide-_-bb-_-4thofjuly&amp;URL=http%3A%2F%2Fwww.harryanddavid.com%2Fh%2Fholiday-gifts-occasions%2F4th-of-july-gifts%3Fcm_sp%3Dsitewide-_-bb-_-4thofjuly"><img src="/content/Hand/images/espots/belt/130617-independence-day.png"></a>
+		<a class="banner banner-30-70 banner-theme-sale-red clearfix" href="http://www.harryanddavid.com/h/clickinfo?intv_id=227870&amp;mpe_id=10013&amp;evtype=CpgnClick&amp;cm_sp=sitewide-_-bb-winterweekendevent&amp;URL=http%3A%2F%2Fwww.harryanddavid.com%2Fh%2Fgifts-on-sale%2Fgifts-with-free-shipping%3Fcm_sp%3Dsitewide-_-bb-winterweekendevent">
+  <div class="banner-30-70-leadin">Free Shipping</div>
+  <div class="banner-30-70-right">
+    <span class="banner-30-70-offer"></span>
+    <span class="banner-30-70-subtext" style="font-size:22px;">Send our best Christmas gifts with free standard shipping</span>
+    <span class="banner-30-70-action">▸</span>
+  </div>
+</a>
 		</div>	
-		<!-- END: Espot [espotHeaderBanner] --><!-- End Header.jsp -->
-		<div id="navigation" style="height: 3912px;">
-			<!-- START INCLUDE FILE: i-include.html -->
+		<!-- END: Espot [espotHeaderBanner] --><!-- No espot named espotCookieFirstTime found. -->	
+	<div id="cookieDetectionError" class="error" style="display:none;"></div>
+<!-- End Header.jsp -->
+		<div id="navigation">
+			<!-- START INCLUDE FILE: information-menu.html -->
 
 <div class="close">
-  <a href="/h/view/information">Community Information</a>
-  <div class="collapse" style="display: none;">
+  <a class="top-level" href="/h/view/information">Community Information</a>
+  <div class="collapse">
     <a href="/h/view/harvest-report">Harvest Report</a>
     <a href="/h/view/s-recipe">Recipes</a>
-    <div class="collapse" style="display: none;">
+    <div class="collapse">
       <a href="/h/view/stores-featured-recipes">Featured in Stores</a>
       <a href="/h/view/Recipes-Appetizers">Appetizers</a>
       <a href="/h/view/Recipes-Beverages">Beverages</a>
@@ -406,23 +568,24 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
   </div>
 </div>
 <div class="close">
-  <a class="bypass" href="/h/view/storefront">Our Stores</a>
-  <div class="collapse" style="display: none;">
-    <a href="/h/view/storefront">Store Locations</a>
-    <a href="/h/view/moose-munch-for-troops">Store Events</a>
-    <a href="/h/view/stores-featured-recipes">Featured Store Recipes</a>
+  <a class="top-level" data-bypass="true" href="/h/storelocator">Our Stores</a>
+  <div class="collapse">
+    <a href="/h/storelocator" data-aliases="/h/storelocatorcontent">Store Locations</a>
+    <a href="/h/view/moose-munch-for-troops">Moose Munch for the Troops</a>
+    <!-- <a href="/h/view/stores-tasting-events">Tasting Events</a> -->
+    <a href="/h/view/stores-featured-recipes">Featured Recipes</a>
     <a href="/h/view/s-career">Retail Careers</a>
-    <div class="collapse" style="display: none;">
+    <div class="collapse">
       <a href="/h/view/s-jobinfo">Position Overviews</a>
       <a href="/h/view/s-jobbenefits">Career Benefits</a>
     </div>
   </div>
 </div>
 <div class="close">
-  <a href="/h/view/gift-services">Shopping Services</a>
-  <div class="collapse" style="display: none;">
+  <a class="top-level" href="/h/view/gift-services">Shopping Services</a>
+  <div class="collapse">
     <a href="/h/view/harry-david-coupons">Coupons</a>
-    <a href="/gifts/store/BECGiftListItemDisplay?storeId=10455&amp;catalogId=10002&amp;giftlist=1&amp;URL=BECGiftListView">Gift List<sup>™</sup></a>
+    <a href="/gifts/store/BECGiftListItemDisplay?storeId=10455&amp;catalogId=10002&amp;giftlist=1&amp;URL=BECGiftListView">Gift History</a>
     <a href="/h/view/gc-giftcardland">Gift Cards</a>
     <a href="/h/view/4ys-cards">Greeting Cards</a>
     <a href="/h/view/gift-announce">Gift eNouncements</a>
@@ -433,17 +596,8 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
   </div>
 </div> 
 <div class="close">
-  <a href="/h/view/corporategifts">Business Gifts</a>
-  <div class="collapse" style="display: none;">
-    <a href="/h/view/b2b-customgifts">Personalized Gifts</a>
-    <a href="/h/view/4ys-cards-b2b">Branded and Personalized Greeting Cards</a>
-    <a href="/h/view/b2b-contactus">Contact Us</a>
-    <div class="note"><b>Call 1-800-248-5567</b> for easy ordering, or to discuss custom options.</div>
-  </div>
-</div>
-<div class="close">
-  <a href="/h/view/about01">About Us</a>
-  <div class="collapse" style="display: none;">
+  <a class="top-level" href="/h/view/about01">About Us</a>
+  <div class="collapse">
     <a href="/h/view/hdgreenpromise">Green Promise</a>
     <a href="/h/view/tours">Factory Tours</a>
     <a href="/h/view/a-career">Career Opportunities</a>
@@ -452,9 +606,8 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
     </div>
 </div>
 <div class="close">
-  <a href="/h/view/customerserv">Customer Service</a>
-  <div class="collapse current" style="display: none;">
-    <a href="/h/view/custserv-updates-peanut-butter-recall">Customer Updates</a>
+  <a class="top-level" href="/h/view/customerserv">Customer Service</a>
+  <div class="collapse">
     <a href="/h/view/custserv-howto">How to Place An Order</a>
     <a href="/h/view/custserv-ordhist">View Tracking History</a>
     <a href="/h/view/custserv-cutoff">Holiday Shipping Cut-Off Dates</a>
@@ -475,7 +628,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
   <a href="/gifts/store/BECContactUsView?langId=-1&amp;storeId=10455&amp;catalogId=10002">Contact Us</a>
 </div>
   
-<!-- END INCLUDE FILE: i-include.html -->
+<!-- END INCLUDE FILE: information-menu.html -->
 
 		</div>
 	
@@ -486,7 +639,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
       <div class="top"></div>
       <div class="middle">
         <h2>Privacy Policy</h2>
-        <p>Effective: July 18, 2012</p>
+        <p>Effective: September 12, 2013</p>
         <ul class="contents">
           <li><a href="#InfoCollect">Information We Collect</a></li>
           <li><a href="#Using">Using the Information We Collect</a></li>
@@ -608,7 +761,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
         <p></p>
       
         <p>
-          Our toll-free customer service lines are available 5 AM - 9 PM PST, Monday thru Friday and 6 AM - 7 PM PST on Saturday and Sunday (subject to change).
+          Our toll-free customer service lines are available <!-- START hours -->5 AM - 10 PM PST, Sunday thru Saturday<!-- END hours --> (subject to change).
         </p>
         <p>
           By providing personal information through this Website you explicitly agree to our collection and use of all
@@ -748,8 +901,11 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
           so that you are recognized when you return to the Website. We may use persistent cookies to enable us to
           provide services to you, including, “Remember Me,” order history, address book, My Gift History,
           etc. If you would like to deactivate our ability to analyze your browsing activity, please email Customer
-          Service. If you reject certain cookies, you may still browse our Website; however, you may not be able to
-          purchase or have access to all of our services.
+          Service. We may also use technologies such as our own cookies to provide you with enhanced online display
+          advertising. To opt out of advertising provided by Harry &amp; David, click
+          <a href="http://dtmc.harryanddavid.com/adinfo/adchoices_fpc.html?cid=2557&amp;cname=Harry%20%26%20David&amp;cmagic=168082&amp;clogo=harry_and_david.png">here</a>.
+          If you reject certain cookies, you may still browse our Website; however, you may not be able to purchase
+          or have access to all of our services.
         </p>
         <p>
           We may use third-party service providers to serve ads on our behalf across the Internet and sometimes on
@@ -863,7 +1019,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
     <script type="text/javascript">
     <!--
       var cmPageName = "custserv-security -AND- Customer Service | Privacy Policy";
-      $.Artare.initialize({ Navigation: { mode: 'serverside' } });
+      initLeftNavigation();
     -->
     </script>
     
@@ -872,35 +1028,36 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
 			<div class="clear"></div>
 		<!-- Start Footer.jsp -->
 
-<div class="banners cleafix">
-	<!-- No espot named espotFooterBanner1 found. -->
-			<div class="spacer"><img src="/content/common/images/spacer.gif"></div>
-		<!-- No espot named espotFooterBanner2 found. -->
-			<div class="spacer"><img src="/content/common/images/spacer.gif"></div>
-		<!-- No espot named espotFooterBanner3 found. -->
-	<div class="clear"></div>
-	<div class="banner">
-		<!-- No espot named espotFooterBanner found. -->
-	</div>
-</div>
-
-<div id="fb-root"></div>
+		<div class="banners cleafix">
+			<!-- No espot named espotFooterBanner1 found. -->
+					<div class="spacer"><img src="/content/common/images/spacer.gif"></div>
+				<!-- No espot named espotFooterBanner2 found. -->
+					<div class="spacer"><img src="/content/common/images/spacer.gif"></div>
+				<!-- No espot named espotFooterBanner3 found. -->
+			<div class="clear"></div>
+			<div class="banner">
+				<!-- No espot named espotFooterBanner found. -->
+			</div>
+		</div>
+		
+		<div id="fb-root"></div>
 <div id="footer">
   <div class="columns clearfix">
     <div class="column-links clearfix">
       <div class="left">
         <div class="heading">Customer Service</div>
         <a href="http://www.harryanddavid.com/h/view/customerserv">Customer Service Center</a><br>
-        <a href="/gifts/store/BECOnlineOrderHistory?authType=Normal&amp;catalogId=10002&amp;langId=&amp;storeId=10455">Order Status</a><br>
+        <a href="https://www.harryanddavid.com/h/orderstatus?authType=Normal">Order Status</a><br>
         <a href="http://www.harryanddavid.com/h/view/custserv-handling">Shipping Information</a><br>
-        <a href="/gifts/store/BECDisplayCustomerPreferences?preferencecenter=1&amp;catalogId=10002&amp;langId=&amp;storeId=10455">Email &amp; Catalog Preferences</a><br>
+        <a href="https://www.harryanddavid.com/h/customer-preferences?preferencecenter=1">Email &amp; Catalog Preferences</a><br>
+        <a href="http://www.harryanddavid.com/h/view/gift-announce">Gift e-Nouncement</a><br>
         <a href="http://www.harryanddavid.com/h/view/harvest-report">Harvest Report</a><br>
-        <a href="/gifts/store/BECCatalogRequestView?catalogId=10002&amp;langId=&amp;storeId=10455">Catalog Request</a><br>
+        <a href="https://www.harryanddavid.com/h/catalog-request">Catalog Request</a><br>
         <a href="http://www.harryanddavid.com/h/view/custserv-faq">Customer Care FAQs</a><br>
-        <a href="/gifts/store/BECContactUsView?catalogId=10002&amp;langId=&amp;storeId=10455">Contact Us</a>
+        <a href="https://www.harryanddavid.com/h/contact-us">Contact Us</a>
         
         <div class="heading">Business Gifts</div>
-        <a href="http://www.harryanddavid.com/h/view/corporategifts">Business Gifting Services</a><br>
+        <a href="http://www.harryanddavid.com/h/view/corporate-and-business-gifts">Business Gifting Services</a><br>
         <a href="http://www.harryanddavid.com/h/business-corporate-gifts/favorite-business-corporate-gifts">Shop Top Business Gifts</a>
         
         <div class="heading">About Us</div>
@@ -950,31 +1107,65 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
           We give you the heads up on <b>daily deals</b> and <b>special events</b>.<br>
           So you’re always in the know.
         </div>
-        <form method="post" action="https://r.harryanddavid.com/pub/rf">
-          <input type="hidden" name="_ri_" value="X0Gzc2X%3DWQpglLjHJlYQGkqzczfazcgaCmCE3sofk5bk4zczdvRVwjpnpgHlpgneHmgJoXX0Gzc2X%3DWQpglLjHJlYQGnW23EtTbUsAJio4zgIzgzgWDlkFf">
-          <input type="hidden" name="HD_SUBSCRIBER" value="IN">
-          <input type="hidden" name="NEWSLETTER" value="HWEB">
-          <input type="hidden" name="HD_WELCOME_EX" value="1">
-          <input type="email" placeholder="Enter your email address" value="" maxlength="100" autocomplete="off" id="EMAIL_ADDRESS_" name="EMAIL_ADDRESS_">
-          <span class="button CTA-secondary" style="cursor: pointer;">Sign Up</span>
-        </form>
+        <!-- BEGIN: BECEmailSignUp.jsp -->
+<div class="error" id="footer-email-error" style="display:none;"></div>
+<!-- No espot named espotEmailSignUpMessagefooter found. -->
+<form dojotype="dijit.form.Form" id="footer-email-form" name="footer-email-form" method="post" action="https://r.harryanddavid.com/pub/rf">
+	<input type="hidden" name="_ri_" value="X0Gzc2X%3DWQpglLjHJlYQGkqzczfazcgaCmCE3sofk5bk4zczdvRVwjpnpgHlpgneHmgJoXX0Gzc2X%3DWQpglLjHJlYQGnW23EtTbUsAJio4zgIzgzgWDlkFf">
+	<input type="hidden" name="HD_SUBSCRIBER" value="IN">
+	<input type="hidden" name="NEWSLETTER" value="HWEB">
+	<input type="hidden" name="HD_WELCOME_EX" value="1">
+	
+	<div id="footer-email-wrapper" class="clearfix">
+		<div id="footer-email-input-wrapper">
+			<div id="footer-email-input">
+				
+			<input dojotype="bec.widget.EmailValidationTextbox" id="email_address_footer" name="email_address_" required="true" maxlength="100" size="35" trim="true" lowercase="true" autocapitalize="off" regexp="^[a-zA-Z0-9._-]+@(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,4}$" value="" autocomplete="on" invalidmessage="Your email is formatted incorrectly,<br/> please try again." placeholder="Enter your email address">
+      
+				<a href="email_address_footer_input" name="emailAddressFooterInput" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+			</div>
+			<div id="footer-logon-input">
+		        <input dojotype="bec.widget.RetypeValidationTextbox" id="email_address_confirm_footer" name="email_address_confirm_footer" required="true" maxlength="100" size="35" trim="true" lowercase="true" casesensitive="false" autocapitalize="off" value="" comparefieldid="email_address_footer" placeholder="Confirm your email address" invalidmessage="Email addresses don't match,<br/> please try again.">
+		        <a href="email_address_confirm_footer_input" name="emailAddressConfirmFooterInput" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+	        </div>		
+		</div>	
+		<div id="footer-email-button-wrapper">
+			<button id="emailBtn" type="submit" class="button footer-email-button CTA-secondary" tabindex="0">
+	           Submit
+	        </button>
+		</div>
+		
+		<div id="footer-email-input-error"></div>
+	</div>
+</form>
+<script type="text/javascript">
+    dojoParse("email_address_footer", "bec.widget.EmailValidationTextbox");
+    dojoParse("email_address_confirm_footer", "bec.widget.RetypeValidationTextbox");
+    dojoParse("footer-email-form", "dijit.form.Form");
+</script>
+
       </div>
       <div class="row clearfix">
         <div class="cell left gift-cards">
-          <div class="icon icon-gift-card"></div>
+        <a class="icon icon-gift-card" href="http://www.harryanddavid.com/h/view/gc-giftcardland"></a>  
           <div class="heading">Gift Cards</div>
           <div class="description">Always the perfect gift.</div>
           <a href="http://www.harryanddavid.com/h/view/gc-giftcardland">Send a Gift Card <span class="icon icon-arrow-link"></span></a>
         </div>
         <div class="cell right store-locator">
           <div class="icon icon-store-locator"></div>
-          <div class="heading">Store Locator</div>
+          <a class="heading" href="http://www.harryanddavid.com/h/storelocator">Store Locator</a>
           <div class="description">
             Find a Harry &amp; David store near you.
           </div>
-          <form action="http://www.harryanddavid.com/h/view/storefront">
-            <input type="text" placeholder="Enter a city, state, or ZIP" name="location">
-            <span class="button CTA-secondary" style="cursor: pointer;"><span class="icon icon-magnifying-glass"></span></span>
+          <form action="http://www.harryanddavid.com/h/storelocator">
+            <input id="store_location" type="text" placeholder="Enter a city, state, or ZIP" name="location">
+            	<a href="store_location_input" name="storeLocationInput" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+            
+            <span id="store_location_submit" class="button CTA-secondary" style="cursor: pointer;">
+            	<span class="icon icon-magnifying-glass"></span>
+            	<a href="store_location_submit" name="storeLocationSubmit" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
+            </span>
           </form>
         </div>
       </div>
@@ -985,9 +1176,9 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
   </a>
   <div class="footing clearfix">
     <div class="device mobile">
-      <a href="http://www.harryanddavid.com/?cm_sp=Footer-_-MobileSiteLink-_-GoToMobileSite&amp;devicePref=MOBILE">
-        <span class="icon icon-device-mobile"></span> Mobile Site <span class="icon icon-arrow-emphasize"></span>
-      </a>
+        <a href="#goMobileSite" onclick="goMobileSite();">
+            <span class="icon icon-device-mobile"></span> Mobile Site <span class="icon icon-arrow-emphasize"></span>
+        </a>
     </div>
     <div class="device tablet">
       <a href="http://t.harryanddavid.com/?cm_sp=Footer-_-TabletSiteLink-_-GoToTabletSite">
@@ -1005,7 +1196,9 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
     </div>
   </div>
 </div>
-<!-- BEGIN: cmCreateTag.jsp -->
+
+	</div> <!-- //end of "page" -->
+</div> <!-- //end of "container" --><!-- BEGIN: cmCreateTag.jsp -->
 <script type="text/javascript"><!--
 	try 
 	{	
@@ -1134,6 +1327,179 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
 	}
 </script>
 <!-- END: cmInitiateTags.jsp --><!-- No espot named espotFooterSiteWide found --><!--  BEGIN Partner Feed PartnerFeedSiteWideFooter -->
+<script>
+document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/foresee/foresee-trigger.js"></scr' + 'ipt>');
+</script><script type="text/javascript" src="/content/Hand/include/foresee/foresee-trigger.js"></script>
+
+	<!-- Start Dotomi Tag -->
+	<script type="text/javascript">
+			var becDotomi = {
+	    	promoId: "",
+	    	
+	    	//Abandon props
+	    	categoryName: "",
+	    	subCategoryName: "",
+	    	userId: (typeof customerId !== "undefined") ? customerId : "",
+	    	productId: "",
+	    	productImagePath: "",
+	    	customerType: "",
+	    	
+	    	//Transaction props
+	    	orderId: "",
+	    	orderTotal: "",
+	    	orderDiscount: "0",
+	    	productTotal: "",
+	    	productList: [],
+	    	
+				promoIdList: {
+					"HomePage": 1,
+					"Category": 2,
+					"SubCategory": 3,
+					"Product":	4,
+					"ShoppingCart_Page": 5,
+					"Search": 6,
+					"ThankYou_Page": 100
+				},
+				
+				findPromoListId: function(pageName)
+				{
+					var promoId = "";
+					
+					try
+					{
+						//Find PromoId
+						for(promoIdName in this.promoIdList)
+						{
+							if(promoIdName == pageName)
+								promoId = this.promoIdList[promoIdName];
+						}
+						
+						//Handle Category/Product page
+						if(promoId == "")
+						{					
+							//Product Page
+							if(typeof superItem !== "undefined" && superItem != "")
+							{
+								promoId = this.promoIdList["Product"];
+								this.productId = tmParams.superItems;				
+								this.productImagePath = dojo.query("#productImage img")[0].src;
+								
+								var pos = location.href.indexOf("/h/");
+								var url = location.href.substring(pos).split("/");
+								
+								if(url.length > 3 && url[2] != tmParams.superItems)
+								{
+									this.categoryName = url[2];
+									
+									if(url.length == 5) //Sub level category
+									{
+										this.subCategoryName = url[3];
+									}
+								}
+							}
+							//Category Page
+							else if(pageName.indexOf("Cat:") == 0)
+							{
+								if(vcCategoryPath.indexOf("_") == -1)
+								{
+									promoId = this.promoIdList["Category"];
+									this.categoryName = vcCategoryPath;
+								}
+								else
+								{
+									promoId = this.promoIdList["SubCategory"];
+									
+									var catArr = vcCategoryPath.split("_");
+									this.categoryName = catArr[0];
+									this.subCategoryName = catArr[1];
+								}
+							}							
+						}
+						
+						//Shopping Cart
+						if(promoId == 5)
+						{
+							//Grab first item and populate prod_id and prod_img
+							this.productId = tmParams.superItems.split("|")[0];
+							this.productImagePath = dojo.query(".image img")[0].src;
+						}
+						
+						//Order Confirmation
+						if(promoId == 100)
+						{
+							this.orderId = tmParams.orderNumber;
+							this.orderTotal = tmParams.grandTotal;
+							this.subTotal = tmParams.productTotal;
+														
+							//Build product list
+							var superItemsArr = tmParams.superItems.split("|");
+							var itemPriceArr = tmParams.prices.split("|");
+							var quantityArr = tmParams.qtys.split("|");
+							var adjustedItemPriceArr = tmParams.adjustedProductPrice.split("|");
+							
+							for(idx in superItemsArr)
+							{
+								var tempObj = {};
+								
+								tempObj.item = superItemsArr[idx];
+								tempObj.amount = itemPriceArr[idx];
+								tempObj.quantity = quantityArr[idx];
+								tempObj.discount = tempObj.amount - adjustedItemPriceArr[idx];
+								
+								this.productList.push(tempObj);
+							}
+							
+							//Discount
+							var discount = 0;
+							for(idx in itemPriceArr)
+							{
+								discount = discount + parseFloat(itemPriceArr[idx]);
+							}
+							this.orderDiscount = this.subTotal - Math.round(discount * 100)/100;
+						}						
+					}
+					catch(e)
+					{
+						console.error("Unable to find promo list ID. " + e);
+					}
+					
+					this.promoId = promoId;
+				}
+			}
+			becDotomi.findPromoListId(cmPageName);	    
+	    
+	    <!--
+	    var MasterTmsUdo = {         
+	    "abandon": 
+	    {
+				"promo_id": becDotomi.promoId,
+				"user_id": becDotomi.userId,
+				"platform": "",
+				"category": becDotomi.categoryName, 
+				"sub_category": becDotomi.subCategoryName, 
+				"prod_id": becDotomi.productId, 
+				"prod_img": becDotomi.productImagePath, 
+				"source": "", 
+				"customer_type": becDotomi.customerType
+			},
+	    "transaction": 
+	    {
+				"promo_id": becDotomi.promoId,
+				"platform": "",		
+		    "user_id": becDotomi.userId,
+				"transaction_id": becDotomi.orderId,
+				"order_total": becDotomi.orderTotal,
+				"order_discount": becDotomi.orderDiscount,
+				"order_subtotal": becDotomi.subTotal,
+				"currency": "USD",
+				"productlist" :  becDotomi.productList
+	 		}
+	 };
+	(function(e){var t="588",n=document,r,i,s={http:"http://cdn.mplxtms.com/s/MasterTMS.min.js",https:"https://secure-cdn.mplxtms.com/s/MasterTMS.min.js"},o=s[/\w+/.exec(window.location.protocol)[0]];i=n.createElement("script"),i.type="text/javascript",i.async=!0,i.src=o+"#"+t,r=n.getElementsByTagName("script")[0],r.parentNode.insertBefore(i,r),i.readyState?i.onreadystatechange=function(){if(i.readyState==="loaded"||i.readyState==="complete")i.onreadystatechange=null}:i.onload=function(){try{e()}catch(t){}}})(function(){});
+	 //-->
+	</script>
+	<!-- End Dotomi Tag -->
+
 	<script>
 		var footLinks = dojo.query("#footer .links li a");
 		
@@ -1144,51 +1510,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
 			}
 		});
 	</script>
-
-            <div id="TMAN_BOTTOM_BODY"></div> 
-            <script> 
-                TMAN.doTags(TMAN.position.BOTTOM_BODY); 
-                try
-                {
-                    var headEl = document.getElementsByTagName("head")[0];		
-            	    dojo.query("div",headEl).orphan();
-            	}
-            	catch (e)
-            	{
-            	    console.error("TMAN_Fix Error: " + e);
-            	}
-            </script>
-        <!--  END Partner Feed PartnerFeedSiteWideFooter --><script type="text/javascript">
-	
-var catalogQuickOrder;
-
-function getCatalogQuickOrder()
-{
-    if (!catalogQuickOrder)
-    {
-        dojo.require("bec.order.CatalogQuickOrder");
-	    catalogQuickOrder = new bec.order.CatalogQuickOrder();
-	    if (catalogQuickOrder)
-	    {
-	        catalogQuickOrder.setProductDisplayUrl('http://www.harryanddavid.com/h/cqo/');
-	        catalogQuickOrder.setEmptyErrorMessage('Please enter the item number.');
-	        catalogQuickOrder.setMissingRecipMessage('Missing recipient. Please specify a recipient for this item.');
-	        catalogQuickOrder.setUnavailableErrorMessage('We&acute;re sorry, but the item you selected is unavailable at this time.');
-	    }
-    }
-    
-    return catalogQuickOrder;
-}
-
-
-	    var sliJsProtocol = (("https:" == document.location.protocol) ? "https:" : "http:");
-	    var sliURL = sliJsProtocol + '//harryanddavid.resultspage.com/search?ts=rac&w=';
-	    console.debug("sliJsProtocol: " + sliJsProtocol);
-	    document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsProtocol + '//assets.resultspage.com/js/rac/sli-rac.0.4.css" /%3E'));
-	    document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsProtocol + '//harryanddavid.resultspage.com/rac/sli-rac.css" /%3E')); 
-	    document.write(unescape('%3Cscript src="' + sliJsProtocol + '//harryanddavid.resultspage.com/rac/sli-rac.config.js" type="text/javascript"%3E%3C/script%3E')); 
-	
-</script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.4.css"><link rel="stylesheet" type="text/css" href="https://harryanddavid.resultspage.com/rac/sli-rac.css"><script src="https://harryanddavid.resultspage.com/rac/sli-rac.config.js" type="text/javascript"></script><!--  End of Footer.jsp -->
+<!--  END Partner Feed PartnerFeedSiteWideFooter --><!--  End of Footer.jsp -->
 		
 	
-</div></div></body></html>
+</body></html>
