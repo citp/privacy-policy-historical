@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429185902id_/http%3A//www.healthhype.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213141356id_/http%3A//www.healthhype.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthhype.com
 
@@ -6,7 +6,7 @@
 
  **PRIVACY POLICY**
 
-Version Date: 2-16-2010
+Version Date: 9-16-2013
 
  **GENERAL**
 
@@ -34,7 +34,7 @@ A “Web Cookie” is a string of information that a website stores on a user’
 
  ** _Third Party Advertisers_**
 
-We use third-party advertising companies to serve ads and collect information when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. For more information about this practice, and to understand your opt-out choices, please [click here.](http://www.networkadvertising.org/choices/) Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
+We use third-party advertising companies to serve ads and collect information when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ Web Cookies simultaneously. For more information about this practice, and to understand your opt-out choices, please click here. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
 
  ** _Web Beacons_**
 
@@ -54,7 +54,7 @@ BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE 
 
  ** _Online Forums and Public Postings; Other Collections_**
 
-Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users’ use of the Website. We provide areas on our Websites where you can post information about yourself and others and communicate with others or upload content. Such postings are governed by our [Terms of Use](http://www.healthhype.com/terms-of-use-2). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.
+Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users’ use of the Website. We provide areas on our Websites where you can post information about yourself and others and communicate with others or upload content. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.
 
  ** _Company Communications_**
 
@@ -112,7 +112,7 @@ Company may, in its sole discretion, change this Privacy Policy from time to tim
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.  
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.  
 **CALIFORNIA** **PRIVACY RIGHTS**
 
 California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.
