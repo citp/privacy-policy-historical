@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the geckoandfly.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615073450id_/http%3A//www.geckoandfly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckoandfly.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214062204id_/http%3A//www.geckoandfly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Updated: September 27, 2013
 
 ### Privacy Policy for www.geckoandfly.com
 
@@ -32,7 +34,27 @@ www.geckoandfly.com has no access to or control over these cookies that are used
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.geckoandfly.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
-|   
----|---
+  
+  
+
+
+### Recommended For You
+
+  
+[](http://www.geckoandfly.com/12431/15-tech-company/) |  | [](http://www.geckoandfly.com/12519/download-norton-360-review/) |  | [](http://www.geckoandfly.com/13143/50-things-smartphone-replaced-will-replace-future/) |  | [](http://www.geckoandfly.com/13248/40-free-motivational-inspirational-quotes-wallpapers-posters/)  
+---|---|---|---|---|---|---  
+[15 Creative Tech Office Designs](http://www.geckoandfly.com/12431/15-tech-company/) |  | [Symantec Norton 360 Version 6.0](http://www.geckoandfly.com/12519/download-norton-360-review/) |  | [50 Things Your Smartphone Replaced](http://www.geckoandfly.com/13143/50-things-smartphone-replaced-will-replace-future/) |  | [40 Motivational Wallpaper Quotes](http://www.geckoandfly.com/13248/40-free-motivational-inspirational-quotes-wallpapers-posters/)  
+  
+[](http://www.geckoandfly.com/11028/tutorial-stop-all-facebook-game-request-and-notifications/) |  | [](http://www.geckoandfly.com/13189/7-impressive-online-cv-resume-template-successful-job-hunting/) |  | [](http://www.geckoandfly.com/13249/35-inspirational-typography-hd-wallpapers-desktop-iphone-android/) |  | [](http://www.geckoandfly.com/12473/15-interesting-geeky-catch-phase-and-30-life-quotes/)  
+---|---|---|---|---|---|---  
+[Block Facebook Game Requests](http://www.geckoandfly.com/11028/tutorial-stop-all-facebook-game-request-and-notifications/) |  | [7 Creative Online CV Resume](http://www.geckoandfly.com/13189/7-impressive-online-cv-resume-template-successful-job-hunting/) |  | [35 Inspirational HD Wallpapers](http://www.geckoandfly.com/13249/35-inspirational-typography-hd-wallpapers-desktop-iphone-android/) |  | [15 Geeky Catch Phrase and Insulting Quotes](http://www.geckoandfly.com/12473/15-interesting-geeky-catch-phase-and-30-life-quotes/)  
+  
+
+
+### Amazing and Touching Story
+
+[](http://www.geckoandfly.com/1716/japanese-cannibal-feast-could-be-korean-taiwanese/) |  | [](http://www.geckoandfly.com/993/what-is-wrong-with-her/) |  | [](http://www.geckoandfly.com/1457/the-hidden-tiger-optical-illusion/) |  | [](http://www.geckoandfly.com/10394/steve-jobs-vs-bill-gates-jokes/)  
+---|---|---|---|---|---|---  
+[Japanese Chinese Korean Cannibalism](http://www.geckoandfly.com/1716/japanese-cannibal-feast-could-be-korean-taiwanese/) |  | [What is Wrong with the Little Girl?](http://www.geckoandfly.com/993/what-is-wrong-with-her/) |  | [Illusion - Can You Find the Tiger?](http://www.geckoandfly.com/1457/the-hidden-tiger-optical-illusion/) |  | [Steve Jobs vs Bill Gates Jokes](http://www.geckoandfly.com/10394/steve-jobs-vs-bill-gates-jokes/)
