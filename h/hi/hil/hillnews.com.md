@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424123048id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215002251id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Hill - covering Congress, Politics, Political Campaigns and Capitol Hill | TheHill.com
+# Privacy Policy | TheHill
 
-**A **THE HILL’S PRIVACY POLICY****
+**THE HILL'S PRIVACY POLICY**
 
-This Privacy Policy is applicable to The Hill’s Web site, thehill.com (the "Site"), and all Hill web sites. This Privacy Policy explains how we collect information from you and other users of the Site and how we use such information.
+This Privacy Policy is applicable to The Hill's Web site, thehill.com (the "Site"), and all Hill web sites. This Privacy Policy explains how we collect information from you and other users of the Site and how we use such information.
 
-**The Information We Collect and Use**
+ **The Information We Collect and Use**
 
- _Non-personally identifiable information_
+Non-personally identifiable information
 
 We may collect and use non-personally identifiable information and data from you when you are visiting the Site through the standard operation of our Internet servers. Non-personally identifiable information collected from you may include user Internet Protocol (IP) addresses, browser types, domain names, and anonymous statistical data regarding your use of the Site. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify particular visitors to the Site.
 
 The Site also collects information through the use of "cookies." Cookies are small text files that a website can use to recognize repeat users, facilitate the user's ongoing access to and use of a website, allow the site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies work by assigning a unique number to the user that has no meaning outside the assigning site. If you do not want information collected from you through our use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you with certain features available on the Site.
 
- _Personally Identifiable Information_
+Personally Identifiable Information
 
 We collect personally identifiable information about you when you specifically and knowingly provide such information voluntarily on the Site, including, but not limited to, during the following interactions: (1) when you register on the Site and when you later log-on with your user name and password; (2) when you sign-up to subscribe to a service, a newsletter, or ask to be added to our mailing lists for other products or services; (3) when you place an order for products or services; (4) when you participate in a promotional offer; (5) when you provide feedback in an online survey; (6) when you submit other content and suggestions.
 
@@ -64,8 +64,6 @@ e-mail: [help@thehill.com](mailto:help@thehill.com)
 
 This Privacy Policy is effective as of March 21, 2005. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.
 
- **What If You Do Not Agree To The Terms Of This Privacy Policy?**
+What If You Do Not Agree To The Terms Of This Privacy Policy?
 
 As a subscriber to the Site, or otherwise by using the Site, you signify that you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not make any use of the Site.
-
-The contents of this site are © 2013 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc.
