@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolmonies.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613064100id_/http%3A//lolmonies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolmonies.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214063114id_/http%3A//lolmonies.com/privacy.html) for the most accurate reproduction.*
 
 # Terms & Conditions
 
