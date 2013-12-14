@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615055814id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214093248id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
 
 # Buy and Sell anything in Ireland | Easy to use – BuyandSell.ie
 
@@ -43,13 +43,3 @@ Buyandsell, its directors, employees, servants and agents, affiliates or other r
 ### Amendments
 
 BuyandSell reserves the right in its sole discretion to amend this privacy policy at any time, and you should regularly check this privacy policy for any amendments.
-
-**Congratulations** close
-
-### Your Voucher has been accepted. Your Ad will be live within 15 minutes.
-
-You will receive an email in the next 15 minutes, confirming that your Ad is live on BuyandSell.ie If you have not received your confirmation within this time, please check your spam filter.   
-To avoid messages reaching spam in the future, you should add   
-[noreply@buyandsell.ie](mailto:noreply@buyandsell.ie) to your address book. 
-
-If you have any queries about how we proof ads, please contact our support team
