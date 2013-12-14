@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikeafamilylivemagazine.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509022652id_/http%3A//www.ikeafamilylivemagazine.com/gb/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikeafamilylivemagazine.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214210341id_/http%3A//ikeafamilylivemagazine.com/gb/en/privacy) for the most accurate reproduction.*
 
 # IKEA UK Privacy Policy
 
