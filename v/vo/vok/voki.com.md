@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the voki.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527191820id_/http%3A//www.voki.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voki.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214033408id_/http%3A//www.voki.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
 Oddcast recognizes that Voki users value their right to privacy and want to be assured that any personal information that they provide to us will be used in accordance with their wishes. Oddcast is committed to ensuring that you are fully informed as to how your personal information will be used and that it will be kept secure. 
-
-  1. What information do we collect?
-  2. Purpose for which we use Information
-  3. Sharing of Information which Third Parties
-  4. Security
-  5. Cookies
-  6. Links
-  7. Chat Rooms and Newsgroups
-  8. Children
-  9. Access, Modification and Accuracy of Information
-  10. Retention and Storage of Information
-  11. Change of Privacy Policy
-  12. Business Transfers
-  13. Acceptance of Terms
-  14. Contact Us
-
-
 
 **1\. What information do we collect?**
 
