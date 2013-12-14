@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the affbuzz.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402180521id_/http%3A//affbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affbuzz.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215002737id_/http%3A//affbuzz.com/page/privacy) for the most accurate reproduction.*
 
-# Affbuzz.com - Affiliate Marketing News & Blog Aggregator
+# AffBuzz.com : Privacy Policy
 
 affiliate marketing news aggregator
-
-  
-
 
 ## Privacy Policy
 
