@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italychronicles.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605223832id_/http%3A//italychronicles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italychronicles.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214142822id_/http%3A//italychronicles.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Italy Chronicles
 
