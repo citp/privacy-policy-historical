@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615003534id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215005505id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Save 35-70% Every Day at Sierra Trading Post.
+# Privacy Policy: Save up to 70% at Sierra Trading Post.
 
 This policy will be effective starting February 11, 2013
 
@@ -23,9 +23,11 @@ The information collected using these tools may include your IP address, browser
 
 Companies acting on our behalf may combine the information collected from your visit to our Website with other information they have collected previously. Your web browser may tell you how to be notified when you receive certain types of cookies and how to restrict, reject or disable certain cookies. 
 
-This section of our Privacy Notice provides details about interest-based online advertising (also called "targeted advertising" or "behavioral advertising"), and your choices with respect to this type of advertising.
+This section of our Privacy Notice provides details about interest-based online advertising (also called "targeted advertising", “remarketing”, or "behavioral advertising"), Google Analytics, and your choices with respect to this type of advertising.
 
-We work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on other websites because we contract with Google and other similar companies to target our ads based on information they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts. You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising at <http://www.aboutads.info/choices/>. Because that opt-out page is specific to the individual browser used to visit it, and because that page is not operated by the TJX Businesses, we are unable to perform the opt-out on your behalf.
+We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising at <http://www.aboutads.info/choices/> and edit or opt-out your Google Display Network ads’ preferences at <http://www.google.com/ads/preferences/>. Because those opt-out and preference control pages are specific to the individual browser used to visit it, and because that page is not operated by the TJX Businesses, we are unable to perform the opt-outs on your behalf.
 
 When we collect information from you, we may use it for a number of purposes, including to:
 
