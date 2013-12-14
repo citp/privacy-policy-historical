@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enchantedsavings.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613212246id_/http%3A//enchantedsavings.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enchantedsavings.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214032356id_/http%3A//enchantedsavings.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Enchanted Savings
 
