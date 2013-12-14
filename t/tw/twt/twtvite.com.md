@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twtvite.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611175717id_/http%3A//twtvite.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twtvite.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214084838id_/http%3A//twtvite.com/home/privacy) for the most accurate reproduction.*
 
 # Twtvite | Privacy Policy
 
-We collect the e-mail addresses of those who communicate with us via e-mail. We aggregate information on what pages visitors access or visit (using a web analytics service - [I-stats](http://i-stats.com/)) and information volunteered by visitors, such as site registration or web surveys.
+We collect the e-mail addresses of those who communicate with us via e-mail. We aggregate information on what pages visitors access or visit (using a web analytics service - [Google Analytics](http://google.com/analytics)) and information volunteered by visitors, such as site registration or web surveys.
 
 The information we collect is used to improve the content of our websites and the quality of our services.
 
