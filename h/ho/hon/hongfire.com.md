@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hongfire.com privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303161145id_/http%3A//www.hongfire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hongfire.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214113311id_/http%3A//www.hongfire.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
