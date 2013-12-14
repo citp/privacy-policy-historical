@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seicane.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523122301id_/http%3A//www.seicane.com/customer-service%23answer2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seicane.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214090315id_/http%3A//www.seicane.com/customer-service%23answer2) for the most accurate reproduction.*
 
 # Customer Service
 
@@ -13,10 +13,9 @@
 
 
 Shipping & Delivery
-    Total delivery time is composed of two parts. The first part is the processing time. This is the time from when your payment is received to when we gather up all the items and package them. The second part is the actual shipping time. This is the time that it takes for the package to be delivered by the couriers to the destination. Express shipping normally takes 3-5 days. Processing takes 1-3 days normally.We ship to over 200 countries worldwide!  
-
-    Shipping with couriers is insured and can be tracked online. Once your goods are sent out we will email you with a tracking number so you can trace your delivery any time you want. 
-    We offer Shipping Insurance for the total of US$ 1.99 to protect your package against any lost or damaged shipments. If a missing issue arises, we will reship your order immediately.
+    Total delivery time is composed of two parts. The first part is the processing time. This is the time from when your payment is received to when we gather up all the items and package them. The second part is the actual shipping time. This is the time that it takes for the package to be delivered by the couriers to the destination. Express shipping normally takes 3-5 days. Processing takes 1-5 days normally.We ship to over 200 countries worldwide!
+    Once your goods are sent out we will email you with a tracking number so you can trace your delivery any time you want. 
+     If a missing issue arises, we will reship your order immediately.
 Privacy & Security
     Scope
     This statement applies to Seicane Web Sites Worldwide.
@@ -31,16 +30,14 @@ To correct inaccuracies in Seicane’s record of your personal information respo
 Questions about this statement or about Seicane's handling of your information may be sent to: admin@seicane.com 
 Returns & Exchanges
     All of our products are covered by a 12-month warranty, for  replace and repair.
-    New condition within 30 days of purchase for a full product refund. Product may not be returned in used condition unless defective by manufacturer's warranty.  
-
+    New condition within 30 days of purchase for a full product refund. Product may not be returned in used condition unless defective by manufacturer's warranty.
     In practice, it is possible for you to discuss any return issue with us, and provide our return code and address to you. Then you can post a faulty item back to us in China and we can ship the replacement directly to you. Obviously this is the most suitable solution when you are in different countries.
-    In terms of customer support and technical support for devices, the responsibility rests with the vendor, i.e. You if you are drop-shipping. We will of course provide as much help to you as we can, and with technical questions it may simply be a matter of relaying our information to you
+    In terms of customer support and technical support for devices, the responsibility rests with the vendor, i.e. You if you are drop-shipping. We will of course provide as much help to you as we can, and with technical questions it may simply be a matter of relaying our information to you,and 100% Satisfaction guaranteed .
 Ordering
     seicane.com currently ships small and medium sized orders by international couriers. 
     The shipping rates can be previewed inside the seicane.com online shop system. You can just click on the " **[Estimated Shipping And Tax](http://www.seicane.com/checkout/cart/ "Estimate Shipping and Tax")** " and choose the country you want to ship to, Shipping fees will be estimated by our system automatically. 
 Payment, Pricing & Promotions
-    We do currently accept international  PayPal,Western Union,Credit card,HSBC. If you have any questions,please feel free to **[contact us](http://www.seicane.com/contacts "contact us")**.  
-
+    We do currently accept international  PayPal,Western Union,Credit card,HSBC. If you have any questions,please feel free to **[contact us](http://www.seicane.com/contacts "contact us")**.
 Viewing Orders
     Once your order is shipped, you will receive an email from us. In this email, there should be the tracking information for your packages as well as the website in which you could **[track your order](http://www.seicane.com/sales/guest/form "Track Your Order")** at. 
 Updating Account Information
