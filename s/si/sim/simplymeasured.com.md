@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplymeasured.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615223628id_/http%3A//simplymeasured.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymeasured.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214030236id_/http%3A//simplymeasured.com/privacy) for the most accurate reproduction.*
 
-# Simply Measured, Inc – Privacy Policy | Simply Measured
+# Simply Measured, Inc - Privacy Policy | Simply Measured
 
-**Last Updated:** September 1, 2011 ****
+**Last Updated:** October 1, 2013
 
 **Our Commitment to Your Privacy**
 
@@ -80,7 +80,7 @@ We may occasionally update this policy. When we do, we will also revise the “l
 Should you have other questions or concerns about this privacy policy, please contact us using the following contact information:
 
 **Simply Measured, Inc.**  
-**1507 Belmont Ave**  
-**Suite 200**  
-**Seattle, WA 98122**  
+**2211 Elliott Ave**  
+**Suite 310**  
+**Seattle, WA 98121**  
 **us@simplymeasured.com**
