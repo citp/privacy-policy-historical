@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the homesthetics.net privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616093457id_/http%3A//www.homesthetics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesthetics.net privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214231352id_/http%3A//www.homesthetics.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Homesthetics
+# Privacy Policy | Homesthetics - Inspiring ideas for your home.
+
+[
+
+### __Privacy Policy
+
+](http://www.homesthetics.net/privacy-policy/)
 
 **Privacy Policy of Homesthetics**
 
-[Homesthetics](http://homesthetics.net/) , will always respect your privacy and will always be committed to protect the personal information you may provide us through our website.
+[Homesthetics](http://homesthetics.com/) , will always respect your privacy and will always be committed to protect the personal information you may provide us through our website.
 
-The Privacy Policy is meant to explain what information may be collected by [Homesthetics](http://homesthetics.net/), how we use this information, and under what circumstances we may disclose the information to third parties if needed.  
+The Privacy Policy is meant to explain what information may be collected by [Homesthetics](http://homesthetics.com/), how we use this information, and under what circumstances we may disclose the information to third parties if needed.  
 **  
 The Information We Gather and How We Use It**
 
@@ -29,9 +35,9 @@ We have implemented security measures that we consider reasonable and appropriat
 
 **Cookies**
 
-To save you comment’s information every time you visit our website [Homesthetics](http://homesthetics.net/), we place a little text file called a “cookie” on your hard drive. It sits in your web browser directory.
+To save you comment’s information every time you visit our website [Homesthetics](http://homesthetics.com/), we place a little text file called a “cookie” on your hard drive. It sits in your web browser directory.
 
-A cookie allows us to store your profile information on your computer and lets our website retrieve it when you visit our site. No other website can use or view the cookie set by [Homesthetics](http://homesthetics.net/).
+A cookie allows us to store your profile information on your computer and lets our website retrieve it when you visit our site. No other website can use or view the cookie set by [Homesthetics](http://homesthetics.com/).
 
 Cookies are meant to help us create a faster web experience by remembering your address and email information, so you don’t have to re-type it you want to take part in a conversation or leave your opinion by using the comment section.
 
@@ -39,11 +45,11 @@ We may use cookies on the website for the purpose of monitoring your and other u
 
 **Links to Other Sites**
 
-[Homesthetics](http://homesthetics.net/) has some specific links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new website.
+[Homesthetics](http://homesthetics.net/) has some specific links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new website.
 
 **Restriction of Liability**
 
-[Homesthetics](http://homesthetics.net/) makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
+[Homesthetics](http://homesthetics.net/) makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
 
 **Changes to our Privacy Policy**
 
@@ -51,4 +57,4 @@ We may change some of the statements in this Privacy Policy at any time. We will
 
 Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof and if it`s the case and if we make any changes to this privacy policy stated above, we will post them on our website in order to keep you in touch, in this way you will always know what personal data we collect, how we use it, and what your legal rights are.
 
-If you have any other concerns or questions please [**contact us**](http://homesthetics.net/contact/).
+If you have any other concerns or questions please  **contact  us**.
