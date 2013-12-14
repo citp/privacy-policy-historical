@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postfreeadshere.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613043525id_/http%3A//www.postfreeadshere.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postfreeadshere.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214144940id_/http%3A//www.postfreeadshere.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Classifieds, Free Classifieds, Online Classifieds, Free Ads | Post Free Ads Here
 
