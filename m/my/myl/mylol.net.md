@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503112930id_/http%3A//www.mylol.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214084753id_/http%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
 
-# MyLOL Privacy
+# Teen Dating - MyLOL - Teen APP
 
-**This web site is owned and managed by Mylol.net.**
+**This web site is owned and managed by Mylol.**
 
   
-To reach us via e-mail, you can email privacy@mylol.net 
+To reach us via e-mail, you can email support@mylol.com 
 
 This privacy policy sets out how Mylol.net uses and protects any information that you give Mylol when you use this website.
 
@@ -14,6 +14,9 @@ Mylol is committed to ensuring that your privacy is protected. Should we ask you
 By using mylol.net, you signify your agreement to our privacy policy as stated above. Note that this policy may be revised periodically without notice. Please re-read this policy prior to submitting any personal information if you have concerns about how your information is being collected and used. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Tuesday 23 September 2008. 
 
 What we collect
+
+  
+
 
 We may collect the following information:
 
@@ -66,10 +69,10 @@ Controlling your personal information
 Personal information collected may be transferred and shared in the event of a sale of Mylol.net You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes where such a box is available
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [privacy@mylol.net](mailto:privacy@mylol.net) Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page. Registrants can un-register by writing to [ admin@mylol.net](mailto:admin@mylol.net). Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings. 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@mylol.com](mailto:support@mylol.com) Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page. Registrants can un-register by writing to [ support@mylol.com](mailto:support@mylol.com). Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings. 
 
 We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to admin@mylol.net. 
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to support@mylol.com. 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
