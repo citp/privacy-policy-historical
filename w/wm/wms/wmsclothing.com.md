@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wmsclothing.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615004732id_/http%3A//www.wmsclothing.com/cgi-bin/category.cgi%3Fcategory%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmsclothing.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214025728id_/http%3A//www.wmsclothing.com/cgi-bin/category.cgi%3Fcategory%3Dsecurity) for the most accurate reproduction.*
 
-# Free DropShip Wholesaler Lingerie Shoes Sexy Adult Toys
+# Lingerie Wholesale Shoes Adult Toys DropShip Free Sexy Wigs Costumes
 
   
 
