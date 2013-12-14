@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615132257id_/http%3A//www.adppayroll.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214094540id_/http%3A//www.adppayroll.com.au/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | ADP Australia
+# Privacy
 
 **Application of this Policy**
 
