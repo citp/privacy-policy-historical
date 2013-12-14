@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buy-hosting.net privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510232620id_/http%3A//www.buy-hosting.net/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buy-hosting.net privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214043302id_/http%3A//www.buy-hosting.net/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Buy-Hosting.net
 
