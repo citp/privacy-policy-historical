@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authoritynutrition.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613115953id_/http%3A//authoritynutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritynutrition.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215003911id_/http%3A//authoritynutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Google, as a third party vendor, uses cookies to serve ads on this site.
 
 Google’s use of the DART cookie enables it to serve ads to users based on their visits to this site and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy/ads/).
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/policies/technologies/ads/).
 
 ## What we use your information for
 
