@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emilyslist.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612174846id_/http%3A//emilyslist.org/node/335) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emilyslist.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214220553id_/http%3A//emilyslist.org/node/335) for the most accurate reproduction.*
 
 # Privacy Policy | EMILY's List
 
@@ -78,8 +78,8 @@ If you have any questions about our privacy policy, the information we have coll
 
 EMILY's List
 
-1120 Connecticut Avenue, NW
+180 M Street NW
 
-Suite 1100
+Suite 375N
 
 Washington, DC 20036
