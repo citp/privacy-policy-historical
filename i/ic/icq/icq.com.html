@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icq.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622214421id_/http%3A//www.icq.com/legal/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icq.com privacy policy that was archived on 2013-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131214021045id_/http%3A//www.icq.com/legal/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title></title>
@@ -395,7 +395,6 @@ style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" /></div></no
 						<iframe id="login_box_iframe" name="login_box_iframe" src="" frameborder="0" scrolling="no"></iframe>
 					</div>
 				</div>
-				</div>
 
 <div class="layout_2">
 	<div class="clmn clmn_001"> 
@@ -568,7 +567,7 @@ ICQ may update this Privacy Policy from time to time, therefore you should revie
 	</div>
 </div>
 		</div></div>
-		
+		</div>
 		<div class="icq_footer">
 			<div class="icq_footer_content">
 				<div class="icq_footer_content_1">
@@ -741,7 +740,7 @@ ICQ may update this Privacy Policy from time to time, therefore you should revie
 				}
 				catch (e) {}
 			}
-				
+
 			function hideIframeOverlay(){
 				$("#overlay5").children('a.close').trigger('click');
 			}
@@ -851,7 +850,13 @@ $("a[rel]").each(function(){
 $(".triggerOverlay").click(function(){return false;});
 
 
-				$('#login_box iframe').attr('src','https://www.icq.com/login-box/en?dest=http://www.icq.com/legal/privacypolicy/&r='+Math.round(Math.random()*100000));
+				var lgfarme = $('#login_box iframe');
+				var k_session = getCookie('karma_session');
+				lgfarme.attr('src','https://www.icq.com/login-box/en?dest=http://www.icq.com/legal/privacypolicy/&r='+Math.round(Math.random()*100000));
+				k_session && lgfarme.load(function(){
+					if( ! getCookie('karma_session') ) window.location.reload();
+				});
+
 				if( isUIn ) var headerSelector='header_userbox_button';
 				else var headerSelector='header_login_button';
 
@@ -928,8 +933,8 @@ $(".triggerOverlay").click(function(){return false;});
 						if ($(this).hasClass('webICQ')){
 							sOptions = "resizable=yes ,width=300 ,height=600 ,directories=no,titlebar=no,scrollbars=no,status=no,menubar=no,toolbar=no,location=yes";
 							window.open(href,"_blank", sOptions);
-							if (post_url)
-								setTimeout(function() {window.location = post_url;}, 20000);
+						//	if (post_url)
+						//		setTimeout(function() {window.location = post_url;}, 20000);
 							return false;
 						}
 
@@ -938,8 +943,8 @@ $(".triggerOverlay").click(function(){return false;});
 								window.open(href);
 							}else{
 								setTimeout(function() {window.location = href;}, 200);
-								if (post_url)
-									setTimeout(function() {window.location = post_url;}, 20000);
+						//		if (post_url)
+						//			setTimeout(function() {window.location = post_url;}, 20000);
 							}
 						}
 						return false;
@@ -953,4 +958,5 @@ $(".triggerOverlay").click(function(){return false;});
 			-->
 		</script>
 	
+
 </body></html>
