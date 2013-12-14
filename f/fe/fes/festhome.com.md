@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2012-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120907150002id_/http%3A//www.festhome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214094932id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
 
-# Festhome.com - Políticas de Privacidad
+# Festhome - Políticas de Privacidad
 
 We are committed to safeguarding the privacy of our website visitors; this policy details how we will treat your personal information.
 
@@ -20,7 +20,7 @@ We may collect, store and use the following kinds of personal information ;
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
-We may use both ?session? cookies and ?persistent? cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
+We may use both "session" cookies and "persistent" cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiration date.
 
@@ -28,7 +28,7 @@ We use Google Analytics to analyse the use of this website. Google Analytics gen
 
 Our advertisers/payment services providers may also send you cookies.
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking ?Tools?, ?Internet Options?, ?Privacy?, and selecting ?Block all cookies? using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of this and many other websites.
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of this and many other websites.
 
 * ### Using your personal information
 
@@ -44,7 +44,7 @@ We may use your personal information to:
   6. send you general (non-marketing) commercial communications;
   7. send you email notifications which you have specifically requested;
   8. send to you our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
-  9. provide third parties with statistical information about our users ? this information will not be used to identify any individual user;
+  9. provide third parties with statistical information about our users: this information will not be used to identify any individual user;
   10. deal with enquiries and complaints made by or about you relating to the website;
 
 
@@ -53,7 +53,7 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services provider, Moneybookers and TPV Online. You can review the Moneybooker?s and TPV Online?s privacy policy at www.moneybookers.com and www.tpv-online.com. We will share information with Moneybookers and TPV Online only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
+All our website financial transactions are handled through our payment services provider, Moneybookers and TPV Online. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
 * ### Disclosures
 
@@ -101,7 +101,7 @@ We may also notify you of changes to our privacy policy by email.
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
-  1. the payment of a fee (currently fixed at �10.00); and
+  1. the payment of a fee (currently fixed at 10.00€); and
   2. the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
 
 
