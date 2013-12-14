@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the eyeearn.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628092930id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeearn.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214060415id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
 TripleClicks members are saving up to 99% on these items, which are being bid on right now!
 
-TCredits - 300 pack
+Canon PowerShot A2300 16.0 MP Digital Camera (silver or black)
 
-Current Price: $1.25*
-
-[BID NOW!](https://web.archive.org/pb.php?atype=X)
-
-Samsung Chromebook 
-
-Current Price: $1.39*
+Current Price: $4.44*
 
 [BID NOW!](https://web.archive.org/pb.php?atype=F)
 
 TCredits - 300 pack
 
-Starting In: 00:00:30*
+Current Price: $0.03*
+
+[BID NOW!](https://web.archive.org/pb.php?atype=X)
+
+Wireless 5-in-1 Headphones & 50 TCredits
+
+Starting In: 25m*
 
 Bid on these items  
 before they're gone!
@@ -52,7 +52,3 @@ We retain this information for a period of time to allow for the possibility of 
 ##### **What about phone numbers and addresses?**
 
 We request a phone number on order forms in case we need to contact you about your order. We NEVER sell, rent, or loan our list of customer phone numbers, nor any other information about customers. If you order a product or service sold by one of our E-Commerce Associates, they will be provided your phone number in case they need to contact you about your order. They are, of course, also provided your shipping address.
-
-Copyright © 2013, Carson Services, Inc. 
-
-a
