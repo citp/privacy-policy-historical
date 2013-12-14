@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123542id_/http%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214092241id_/http%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
 
 # OpinionSquare – Take Surveys and Earn Cash and Prizes
 
@@ -22,7 +22,7 @@ About Our Trees for Knowledge Campaign
 
 Worldwide carbon dioxide emissions have more than doubled over the last 10 years, and too much carbon dioxide in the atmosphere may be one of the major causes of global warming. But planting trees can help reduce the effects of carbon dioxide. That’s why comScore has partnered with Trees for the Future to establish our Trees for Knowledge campaign. Since 1988, Trees for the Future has helped thousands of communities in Central America, Africa, and Asia improve their livelihoods and their environment by planting nearly 50 million trees. Working with Trees for the Future, we have donated millions of trees on behalf of members of our research community, so that we are not only improving the Internet, we’re improving the environment as well.
 
-PRIVACY POLICY & USER LICENSE AGREEMENT
+PRIVACY POLICY, USER LICENSE AGREEMENT, AND PATENT NOTICE
 
   
 
@@ -40,7 +40,7 @@ In order to participate in this program, you must:
   * Be the parent or legal guardian of anyone under 18 having access to such computer;
   * Own or control the computers that you allow to be configured to use this system;
   * If your household subscribes to a TV service, be the TV service subscriber for your household, or be authorized to enter into this agreement on behalf of that TV service subscriber;
-  * Not be employed or related to an individual employed by an unaffiliated market research company; and
+  * Not be employed or related to an individual employed by an unaffiliated market research company or online publisher; and
   * Acknowledge and agree to allow the software to operate as described herein, including allowing the software to automatically upgrade provided that any such upgrades do not change the functionality of the software beyond what is described in this privacy policy and user license agreement.
 
 
@@ -124,7 +124,7 @@ What if I wish to stop participating in this program?
   
 
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20111101123542id_/http%3A//www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20131214092241id_/http://www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated. 
 
@@ -216,7 +216,7 @@ Third Party Products and Services: We neither endorse nor accept responsibility 
 
 ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement. 
 
-This Agreement is effective as of October 13, 2011.
+This Agreement is effective as of September 26, 2013.
 
 Whom can I contact if I have additional questions?
 
@@ -234,14 +234,17 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 1142
+LP 1335
+
+[](http://secure.trust-guard.com/certificates/4734)
 
 |   
 ---  
   
   
-  
-|  OpinionSquare has earned the WebTrust for Online Privacy Seal of assurance for our privacy practices employed as part of our online research services.  
+[]()
+
+|  OpinionSquare has earned the WebTrust for Online Privacy Seal of assurance for our privacy practices employed as part of our online research services. Read More  
 ---|---  
   
   
