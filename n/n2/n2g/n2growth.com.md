@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630140252id_/http%3A//www.n2growth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214015524id_/http%3A//www.n2growth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
