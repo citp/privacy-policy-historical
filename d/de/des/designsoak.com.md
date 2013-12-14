@@ -1,8 +1,42 @@
-> *The following text is extracted and transformed from the designsoak.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417175335id_/http%3A//www.designsoak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designsoak.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214151621id_/http%3A//www.designsoak.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Design Soak Magazine
 
-This Privacy Policy governs the manner in which Soak Design Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.designsoak.com/](https://web.archive.org/web/20130417175335id_/http://www.designsoak.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Soak Design Magazine.
+## Notice about Cookies on Design Soak Magazine
+
+The Privacy Policy is located further down this page.
+
+### This site uses Cookies: What are they?
+
+“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website.
+
+### How does ‘Design Soak Magazine’ use Cookies?
+
+Cookies allow us to provide you with a more personal and interactive experience on our websites.
+
+[http://www.designsoak.com](https://web.archive.org/web/20131214151621id_/http%3A//) does use persistent cookies, which stay on your computer or mobile media device even after you have gone offline.
+
+Design Soak Magazine will use different types of cookies at various different pages of your use of our websites, these types of cookies include:
+
+### Essential Cookies
+
+These cookies are essential to the running Design Soak Magazine, such as Session cookies, which enable you to carry out some essential functions on this website like maintaining login details for the session or a transaction. The Session cookies are not stored on your computer and will expire when you close your web browser session.
+
+### 3rd Party Advertising Cookies
+
+Many of our websites carry advertising. A certain amount of this advertising is tailored to the individual user. This “onsite behavioural targeting” uses cookies to discover general information about the pages you visit. The tracking system is anonymised and therefore it does not know who you are; it simply uses the limited information available to it to serve adverts to you, which it believes are relevant.
+
+### Tracking/User Analysis Cookies
+
+Many of our websites also use cookies to track how many individual unique users we have and how often they visit Bauer Media’s websites. We use 3rd party companies for this service such as Google Analytics provided by Google.
+
+### What to do if you want to control the use of Cookies?
+
+You have the ability to accept or decline cookies using your web browser, but please be aware that for some parts of our websites to work you will need to accept cookies. Cookies can be removed or declined by changing your web browser settings. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/). Please be aware that this is 3rd party website and as such Design Soak Magazine accept no liability for the instructions given on this site.
+
+———————————————-
+
+This Privacy Policy governs the manner in which Soak Design Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.designsoak.com/](https://web.archive.org/web/20131214151621id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by Soak Design Magazine.
 
 **Personal identification information**
 
@@ -62,8 +96,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Soak Design Magazine](https://web.archive.org/web/20130417175335id_/http://www.designsoak.com/)  
-[http://www.designsoak.com/](https://web.archive.org/web/20130417175335id_/http://www.designsoak.com/)  
+[Soak Design Magazine](https://web.archive.org/web/20131214151621id_/http%3A//)  
+[http://www.designsoak.com/](https://web.archive.org/web/20131214151621id_/http%3A//)  
 DesignSoak {at} andrewkelsall {.dot} om
 
 This document was last updated on June 13, 2011
