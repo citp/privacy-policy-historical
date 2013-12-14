@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedepot.ca privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124051109id_/http%3A//www.homedepot.ca/content/customer-support/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedepot.ca privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214193237id_/http%3A//www.homedepot.ca/content/customer-support/privacy-and-security) for the most accurate reproduction.*
 
 # The Home Depot | Customer Support | Privacy FAQ
 
@@ -59,11 +59,11 @@ We advertise employment opportunities on our Sites. In connection with a job app
 
 The Home Depot uses personal information, including information provided to us from our Service Providers, to continually assess and improve the products and services we offer. We would also like to inform you of products and services, sales and special offers that might benefit you. When you register online or participate in a survey, you will have the opportunity to sign up for emails about our products, services, sales and special offers. 
 
-We may also send you mail, email or call you with information about our product and service offerings if you have provided us with your name and address, email address or phone numbers at our Stores, Call Centres or Sites. If you would like to stop receiving such promotional information from Home Depot Canada, please see the Privacy Preferences/Opt-Out section of this Privacy and Security Statement or go to [www.homedepot.ca/privacy-preference](https://secure.homedepot.ca/content/customer-support/privacy-preference) for further instructions on how to register your preferences.
+We may also send you mail, email or call you with information about our product and service offerings if you have provided us with your name and address, email address or phone numbers at our Stores, Call Centres or Sites. If you would like to stop receiving such promotional information from Home Depot Canada, please see the Privacy Preferences/Opt-Out section of this Privacy and Security Statement or go to [www.homedepot.ca/privacypreferences](https://web.archive.org/content/customer-support/privacy-preference) for further instructions on how to register your preferences.
 
 #### Privacy Preferences / Opt-Out:
 
-We offer an online privacy preference page at [www.homedepot.ca/privacypreferences](https://secure.homedepot.ca/content/customer-support/privacy-preference) where you can register or change your preferences to receive or not receive marketing materials sent by phone, email and mail. You may update these preferences at any time. Please allow sufficient time for your preferences to be processed.
+We offer an online privacy preference page at [www.homedepot.ca/privacypreferences](https://web.archive.org/content/customer-support/privacy-preference) where you can register or change your preferences to receive or not receive marketing materials sent by phone, email and mail. You may update these preferences at any time. Please allow sufficient time for your preferences to be processed.
 
 For purposes of this Privacy Statement, The Home Depot U.S., The Home Depot Mexico and Home Decorators Collection are considered separate businesses. If you have provided information directly to either of these businesses and want to register or change your preferences you must do so directly with that business. The Privacy Statements and privacy preference options for these businesses may be viewed at [www.homedepot.com/privacy](http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=Privacy_Security&langId=-1&storeId=10051&catalogId=10053), [www.homedepot.com.mx/privacy](http://www.homedepot.com.mx/wps/portal/homedepot/acerca/privacidad) and [www.homedecorators.com/privacy](http://www.homedecorators.com/privacy/).
 
@@ -169,7 +169,7 @@ No data transmission over the Internet can be guaranteed to be 100% secure. Whil
 
 The Home Depot is comprised of a family of companies and divisions brought together to provide you with a full suite of home or office improvement products and services.
 
-[Click here](http://www.homedepot.ca/communityaffairs/content/en_CA/CAHomepage.html) for more information.
+[Click here](http://www.homedepot.ca/corporate-affairs) for more information.
 
 ### How to Contact Us
 
@@ -177,7 +177,7 @@ We want to assure you that The Home Depot is dedicated to protecting your privac
 
   * calling us at 1-800-553-3199
   * accessing your registration information on our Sites
-  * registering or changing your privacy preferences at [www.homedepot.ca/privacypreferences](https://secure.homedepot.ca/content/customer-support/PrivacyPreferencesDisplay)
+  * registering or changing your privacy preferences at [www.homedepot.ca/privacypreferences](https://web.archive.org/content/customer-support/privacy-preference)
   * writing us at the address below (please include your email address and phone number with your correspondence along with the information needed to support your request): 
 
 Home Depot of Canada Inc.  
@@ -189,6 +189,6 @@ M3C 4H9
 
 
 
-Pour la version française de la déclaration de confidentialité, voir [Déclaration sur la sécurité et la confidentialité](https://web.archive.org/contenu/service-a-la-clientele/privacy-faq). 
+Pour la version française de la déclaration de confidentialité, voir [Déclaration sur la sécurité et la confidentialité](https://web.archive.org/contenu/service-a-la-clientele/securite-et-confidentialite). 
 
 Last updated: June 16, 2010.
