@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellad2.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613125142id_/http%3A//ellad2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellad2.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215005517id_/http%3A//ellad2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Beading Tutorials and Patterns by Ellad2
 
