@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtv.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615213757id_/http%3A//www.gtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtv.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214180601id_/http%3A//www.gtv.com/privacy-policy) for the most accurate reproduction.*
 
 # GTV | Interactive Video Network
 
