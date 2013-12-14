@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proporta.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621002907id_/http%3A//www.proporta.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proporta.co.uk privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214190111id_/http%3A//www.proporta.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Proporta
+# Privacy Policy | Proporta
 
 ## Privacy and Data Security  
   
@@ -39,7 +39,7 @@ Back to top of page
   
 ### Information about you  
   
-When a customer registers at proporta.com we ask for information such as your name, email address, postal address, and contact details, and then we keep a record of this information. All this is necessary so we can recognise you as a registered customer, pass on the correct details with your order, and ensure that you are happy with the service you receive.
+When a customer registers at proporta.co.uk we ask for information such as your name, email address, postal address, and contact details, and then we keep a record of this information. All this is necessary so we can recognise you as a registered customer, pass on the correct details with your order, and ensure that you are happy with the service you receive.
 
 We keep a record of any email correspondence you send us, so we can track any problems or concerns you've had. 
 
@@ -99,9 +99,9 @@ These cookies are used to work out what country you are in from information supp
   
 ###  Website analytics cookies  
   
-Each time a user visits our website, web analytics software provided by Google Analytics  generates an anonymous analytics cookie. These cookies can tell us whether or not you have visited the site before. Your browser will tell us if you have these cookies, and if you don't, we generate new ones. This allows us to track how many individual unique users we have, and how often they visit the site. 
+Each time a user visits our website, web analytics software provided by Google Analytics generates an anonymous analytics cookie. We use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site. We also use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics.
 
-These cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address. If you wish to opt out of these cookies, follow this link:  <http://tools.google.com/dlpage/gaoptout>  
+These cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address. If you wish to opt out of these cookies, follow this link:<http://tools.google.com/dlpage/gaoptout>  
   
 ###  Registration / Login cookies  
   
@@ -115,12 +115,16 @@ We believe that setting this cookie enhances your internet experience. However, 
   
 ###  Advertising Cookies  
   
-Proporta uses cookies to help with its' targeted advertising. For example, we may use cookies set by a third party to more accurately target advertising to you. For example, if you visit the Proporta website then visit other 3rd party websites, we may display advertisements about Proporta on these sites. These cookies are anonymous - they store information about the content you are browsing, but not about who you are.
+Proporta uses cookies to help with its targeted advertising. Proporta uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. Proporta and third-party vendors use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
+
+These cookies are anonymous - they store information about the content you are browsing, but not about who you are.
 
 We also set anonymous cookies on certain other sites that we advertise on. If you receive one of those cookies, we may then use it to identify you (anonymously) as having visited that site if you later visit the Proporta website and purchase something.  
   
 ### How do I turn cookies off?  
   
+[Google Ads Settings](http://www.google.com/settings/ads)
+
 All internet browsers like Internet Explorer or Safari allow you to change your cookies and turn them on or off. These settings are normally found in the 'options' or 'preferences' menu of your browser. The following links may be helpful, otherwise try the 'Help' option in your browser.
 
 Cookie settings in Internet Explorer  
