@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the akhoni.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601024811id_/http%3A//www.akhoni.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akhoni.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214150154id_/http%3A//www.akhoni.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Akhoni
 
-[ ](https://www.facebook.com/akhonioffers/app_517695168292446 "Banglalink Priyojon bonus")
-
 ### Privacy Policy
 
-This Privacy Statement ( **“Privacy Statement”** ) clarifies how Akhoni.com uses personal information. 
+This Privacy Statement ( **“Privacy Statement”** ) clarifies how Akhoni.com uses personal information.
 
 **1\. Types of Personal Information We Collect**
 
-Personal Information is information that can be used to identify, locate, or contact an individual. It also includes other information that may be associated with Personal Information. We collect the following types of Personal Information: 
+Personal Information is information that can be used to identify, locate, or contact an individual.It also includes other information that may be associated with Personal Information. We collect the following types of Personal Information:
 
-**Contact Information** that allows us to communicate with you, such as your name, postal addresses, email addresses, social media website user account names, telephone numbers, or other addresses at which you receive communications from or on behalf of Akhoni. 
+**Contact Information** that allows us to communicate with you, such as your name, postal addresses, email addresses, social media website user account names, telephone numbers, or other addresses at which you receive communications from or on behalf of Akhoni.
 
-**Transaction Information** about how you purchase and redeem 
+**Transaction Information** about how you purchase and redeem
 
-**Financial Account Information** as needed to process payments for Akhoni.com that you buy, such as your credit or debit card number, expiration date. 
+**Financial Account Information** as needed to process payments for Akhoni.com that you buy, such as your credit or debit card number, expiration date.
 
 **2\. How Akhoni.com Collects Personal Information**
 
@@ -44,4 +42,4 @@ We will not disclose your Personal Information to third parties.
 
 **5\. Accessing and Correcting Personal Information**
 
-You may correct your information by signing in your account. Or you may also email to info@akhoni.com. If you want to close your account or have other questions or requests, please contact us [here](http://akhoni.com/ContactUs). 
+You may correct your information by signing in your account. Or you may also email to info@akhoni.com. If you want to close your account or have other questions or requests, please contact us [here](http://pixelnet.nextmp.net/akhoni/contacts).
