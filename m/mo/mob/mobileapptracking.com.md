@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobileapptracking.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620163720id_/http%3A//www.mobileapptracking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileapptracking.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214031435id_/http%3A//www.mobileapptracking.com/privacy-policy) for the most accurate reproduction.*
 
-# Mobile App Marketing Resources | MobileAppTracking
+# Privacy Policy | MobileAppTracking
 
 Do you want to opt-out of our services? This page is solely for Clients and Customers of HasOffers, Inc. d/b/a MobileAppTracking. If you are an End User and want to opt-out of our tracking and analytics services, you must go here: [https://www.optoutmobile.com](https://www.optoutmobile.com/)
 
@@ -60,9 +60,9 @@ We may disclose your personal information if required to do so by law or court o
 
 You acknowledge that you provide your personal information to HasOffers with knowledgeable consent and at your own risk. 
 
-8\. _**PROTECTION OF CHILDRENS' PERSONAL INFORMATION**_. 8. We do not knowingly collect or solicit personal information from children or knowingly allow children to register on our Website. If you are a child, please do not attempt to register or send any information to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child we will delete that information as quickly as possible. If you believe that we might have any personal information from or about a child, please contact us at [privacy+mat@hasoffers.com](mailto:privacy+mat@hasoffers.com). 
+8\. _**PROTECTION OF CHILDRENS' PERSONAL INFORMATION**_. We do not knowingly collect or solicit personal information from children or knowingly allow children to register on our Website. If you are a child, please do not attempt to register or send any information to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child we will delete that information as quickly as possible. If you believe that we might have any personal information from or about a child, please contact us at [privacy+mat@hasoffers.com](mailto:privacy+mat@hasoffers.com). 
 
-**Our Customers may not use the Platform or any other HasOffers Service to collect personal information about children without parental notice and consent.**
+**Pursuant to our Terms of Service and this Privacy Policy, our Customers may not use the Platform or any other HasOffers Service in a manner that does not comply with federal, state, or international law, including but not limited to the Children’s Online Privacy Protection Act of 1998 (which may require parental notice and consent prior to the collection of personal information about children).**
 
 For the purposes of this provision, the definitions of “personal information” and “children” (and their translational and linguistic equivalents) are defined by the jurisdiction where the Customer is operating. In the United States, federal regulations related to the collection of personal information from children are codified at 15 U.S.C. 6501, et seq. 
 
