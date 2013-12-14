@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507142031id_/https%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214073446id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
 
 # University of Essex :: University of Essex Privacy Policy :: Website privacy and cookies policy
 
 ## What is this statement and what does it cover?
 
-This statement explains what information we gather when you visit the University of Essex website and informs you how this information is used and protected. The University hosts a number of websites on various webservers: this policy covers websites hosted at www.essex.ac.uk, www2.essex.ac.uk, courses.essex.ac.uk, blogs.essex.ac.uk, forums.essex.ac.uk moodle.essex.ac.uk, libwww.essex.ac.uk, and perception.essex.ac.uk; other University of Essex webservers have their own privacy policies. University web pages link to external websites: the University has no responsibility for privacy or other legal issues relating to these external sites. 
+This statement explains what information we gather when you visit our website and informs you how this information is used and protected. The University hosts a number of websites on various webservers: this policy covers websites hosted at www.essex.ac.uk, www2.essex.ac.uk, courses.essex.ac.uk, blogs.essex.ac.uk, forums.essex.ac.uk moodle.essex.ac.uk, libwww.essex.ac.uk, and perception.essex.ac.uk; other University of Essex webservers have their own privacy policies. Our web pages link to external websites: the University has no responsibility for privacy or other legal issues relating to these external sites. 
 
 This privacy policy, and the ways in which personal data may be gathered and processed via this website, are subject to review and development and any such changes will only be notified by this page.
 
-**This policy was last reviewed on 14 May 2012.**
+**This policy was last reviewed on 08 May 2013.**
 
 ## What data is collected?
 
@@ -41,7 +41,7 @@ Cookies are small text files stored on your computer. They relate to a specific 
 
 You can control the use of cookies on your computer by adjusting your web browser preferences, choosing to allow them, block them, only allow them from selected sites or only allow certain types of cookies. Restricting cookies for a site may interfere with some of the functionality of that site, though. 
 
-Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20130507142031id_/https%3A//www.essex.ac.uk/site/our_cookies.aspx).
+Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20131214073446id_/http%3A//www.essex.ac.uk/site/our_cookies.aspx).
 
 For more information about cookies please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -62,7 +62,7 @@ Data relating to webserver requests are used for completion of the current activ
 Personal data will not be passed on to third parties and will remain confidential, unless explicitly stated (eg if a web form is gathering data to be passed on to an external partner). The four exceptions to this are:
 
   * Log files and other data may be analysed by the University's external support providers when investigating faults and other technical issues relating to webserver performance.
-  * Many University of Essex web pages include tracking code which allows Google Analytics to record usage and traffic information. These data are held on Google servers, are used for reporting and analysis within the University, and are not shared with any other parties. They are not used to identify individuals.
+  * Many University of Essex web pages include tracking code which allows Google Analytics to record usage and traffic information. These data are held on Google servers, are used for reporting and analysis by the University and a limited number of external consultants; they are not shared with any other parties. They are not used to identify individuals.
   * Data entered by the user for online ordering of certain goods and services are passed to our credit card-processing partner Netbanx together with a unique transaction number when required for the purpose of processing online orders and payments. Such data is also stored by the University in accordance with the Data Protection Act 1998. University web pages do not gather details of your credit or debit card.
   * Data may be passed to the police and other authorities where it is required in the investigation of illegal activities and security breaches.
 
