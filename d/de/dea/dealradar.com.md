@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealradar.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615031111id_/http%3A//www.dealradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealradar.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214024947id_/http%3A//www.dealradar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dealradar.com :: Local Offers | Restaurant Deals | Spa Deals | Local Deals | Deal-a-Day Sites
 
@@ -10,9 +10,9 @@ Dealradar.com is committed to maintaining the privacy of your personal informati
 
 ##### 1\. WHAT INFORMATION DO WE COLLECT?
 
-**Information you give us:** We collect information from you when you register on our site, subscribe to our mailings or feeds, respond to a survey or fill out a form. As appropriate, you may be asked to enter your name, e-mail address, living and work address. You may, however, visit our site without registering or providing these details.
+**Information you give us:** We collect information from you when you register on our site, subscribe to our mailings or feeds, respond to a survey or fill out a form. As appropriate, you may be asked to enter your name, e-mail address, living and work address. You may, however, visit our site without registering or providing these details. 
 
-**Information we gather from your use of our services and from 3rd Party Data partners:** We collect information about the offers and content you click on with our site, and if you end up purchasing those offers. This is both for business purposes and to allow us to understand how you are using our site.
+**Information we gather from your use of our services and from 3rd Party Data partners:** We collect information about the offers and content you click on with our site, and if you end up purchasing those offers. This is both for business purposes and to allow us to understand how you are using our site. 
 
 Additionally, we work with third parties who use cookies and other technologies to gather and provide interest data that allows us to effectively personalize content on this site. We use the information collected in conjunction with information gathered through our website and information you provide voluntarily in order to provide you with a personalized experience. Our current partners who assist in the personalization of your experience are listed below. Please review each data provider`s privacy policy to learn more about their respective privacy practices, including opting-out from any information they gather.
 
@@ -21,7 +21,7 @@ Additionally, we work with third parties who use cookies and other technologies 
 
 
 
-If you prefer to NOT see personalized content that is relevant to you and your interests, please [click here](https://web.archive.org/select_your_city?edit_personalization=true) and follow the "What's This?" link to update your preferences. Please note that if you choose to opt-out, you are only opting-out of personalized content on this website, and only for the current computer and browser you are using. If you delete or turn off cookies, this option will be reset. 
+If you prefer to NOT see personalized content that is relevant to you and your interests, please click here and follow the "What's This?" link to update your preferences. Please note that if you choose to opt-out, you are only opting-out of personalized content on this website, and only for the current computer and browser you are using. If you delete or turn off cookies, this option will be reset. 
 
 ##### 2\. WHAT DO WE USE YOUR INFORMATION FOR?
 
