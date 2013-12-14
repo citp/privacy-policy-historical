@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treato.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616083707id_/http%3A//treato.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treato.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214041620id_/http%3A//treato.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Treato - Privacy Policy
 
@@ -18,7 +18,9 @@ Our systems may automatically send cookies and other programs designed to gather
 
 You may block and remove our Cookies through your browser and operating system, but this may impair and hinder the Website functionality and availability. 
 
-Currently we are using Google Analytics to analyze the audience of the website and improve our content. No personal information is collect from Google Analytics. For further information on the privacy policy concerning Google Analytics, please visit: 
+Currently we are using Google Analytics to analyze the audience of the website and improve our content. As part of this effort, we are also using Google Analytics Demographics and Interest Reporting to better understand our audience and improve the site to meet it needs. No personal information is collect from Google Analytics. For further information on the privacy policy concerning Google Analytics, please visit: 
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads)
 
 Use of Information
 
