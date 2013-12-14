@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the bigwords.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530211550id_/http%3A//www.bigwords.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigwords.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214035617id_/http%3A//www.bigwords.com/help/privacy) for the most accurate reproduction.*
 
 # BIGWORDS.com | Buy or Rent Cheap Textbooks | Sell Textbooks | Textbook Buyback | Compare New and Used Textbook Prices
 
 Privacy Statement for BIGGER Words, Inc.
 
-**Privacy**  
 Simply stated, we don't sell or trade your information - ever - period - done. If you ever want off our list, use the contact button at the top and bottom of every page, and tell us what you want.
 
 Here's that statement in a more lawyer friendly format.
 
-**BIGWORDS.com Privacy Policy**
+## About Us
 
-**About Us  
-**This is a privacy policy for BIGGER Words, Inc.. Our homepage on the Web is located at [ http://www.bigwords.com](http://www.bigwords.com/). The full text of our privacy policy is available on the Web at [ http://www.bigwords.com/help/privacy/](https://web.archive.org/help/privacy/) Users may go to [ http://www.bigwords.com/help/privacy/](https://web.archive.org/help/privacy/) for information on how to opt-in or opt-out of use of their information. 
+This is a privacy policy for BIGGER Words, Inc.. Our homepage on the Web is located at [ http://www.bigwords.com](http://www.bigwords.com/). The full text of our privacy policy is available on the Web at [ http://www.bigwords.com/help/privacy/](https://web.archive.org/help/privacy/) Users may go to [ http://www.bigwords.com/help/privacy/](https://web.archive.org/help/privacy/) for information on how to opt-in or opt-out of use of their information. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
@@ -25,21 +23,23 @@ We invite you to contact us if you have questions about this policy. You may con
 
 You may contact us by e-mail at [ bigwords@bigwords.com](mailto:bigwords@bigwords.com). 
 
-**Dispute Resolution and Privacy Seals**   
+## Dispute Resolution and Privacy Seals
+
 We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
 
   * **New Dispute** : Click on "contact" or "email us" at the top or bottom of this or any page. Tell us the problem, and we will work with you to resolve it promptly. 
 
 
 
-**Additional Information**   
+## Additional Information
+
 This policy is valid for 4 weeks from the time that it is loaded by a client. 
 
-**Data Collection**   
+## Data Collection
+
 P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately.
 
-**Group "Basic information"**   
-
+## Group "Basic information"
 
 We collect the following information: 
 
@@ -63,7 +63,8 @@ The following explanation is provided for why this data is collected:
 
 > Data collected from all Web users: access logs, and search strings (if entered).
 
-**Group "Cookies"**   
+## Group "Cookies"
+
 We collect the following information: 
 
   * HTTP cookies
@@ -87,7 +88,8 @@ The following explanation is provided for why this data is collected:
 
 > Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
 
-**Cookies**   
+## Cookies
+
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
 
 Our site makes use of cookies. Cookies are used for the following purposes: 
@@ -101,7 +103,8 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 
 
-**Compact Policy Summary**   
+## Compact Policy Summary
+
 The compact policy which corresponds to this policy is: 
     
     
