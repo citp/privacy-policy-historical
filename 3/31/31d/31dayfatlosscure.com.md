@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 31dayfatlosscure.com privacy policy that was archived on 2013-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130106002915id_/http%3A//www.31dayfatlosscure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 31dayfatlosscure.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214011909id_/http%3A//www.31dayfatlosscure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 31 Day Fat Loss Cure
 
