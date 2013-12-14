@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610205059id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215001933id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
 
-# Diabetic Connect
+# Our Privacy Policy | Diabetic Connect
 
-**Last Updated: 09/26/2012**
+**Last Updated: 11/14/13**
 
 #### Introduction / About Alliance Health Networks ("Alliance Health")
 
@@ -27,7 +27,7 @@ In an effort to further our mission to empower consumers and help enable a more 
 
 When you register to join an Alliance Health community and/or register for offers available through our advertising partners you consent to sharing information about yourself, Personally Identifiable Information, so that we can make our services and the services of our partners available to you.
 
-When you join an Alliance Health community, you may set up your personal profile, set and update privacy settings, form relationships with other members, send messages, perform searches and queries, and transmit information through various channels.
+When you join an Alliance Health community, you may set up your personal profile, set and update privacy settings, form relationships with other members, send messages, perform searches and queries, and transmit information through various channels. The profile you create on site will be publicly accessible unless otherwise indicated. You may change your privacy settings by visiting your community profile page. 
 
 By clicking the "Accept" button during registration or by using our sites, you explicitly accept or "opt-in", without limitation or qualification, to the collection, use and transfer of Personally Identifiable Information provided by you in the manner described in this Privacy Policy; as well as in our Terms of Use.
 
@@ -226,6 +226,12 @@ Personally Identifiable Information, personal information, and other information
 
 If you choose to use our invitation service to tell a friend about our site, we will ask you for information relevant to the invitation process, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. We do not store this email communication or your any information you provide about your friend.
 
+#### Blog/Forum
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Pinterest this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 #### Your Rights As a User; Access/Choice
 
 You control which (if any) of the details of your membership profile can be viewed by other members of the community.
@@ -242,7 +248,7 @@ We will retain your Personally Identifiable Information as long as your account 
 
 You may choose to stop receiving Alliance Health newsletters or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com). You may also opt-out of the community by following the instruction in the Updating Personally Identifiable Information section above.
 
-#### Alliance Health Reponse Timeframe
+#### Alliance Health Response Timeframe
 
 We will respond to your request to access within 30 business days.
 
@@ -281,7 +287,7 @@ Any improper collection or misuse by unauthorized third parties of Personally Id
 
 We reserve the right to modify this Privacy Policy and our Terms of Use at any time, so please review them frequently.
 
-If we make material changes to either our Privacy Policy or our Terms of Use, we will notify you here, or by email, or by means of a notice on our home page.
+If we make material changes to either our Privacy Policy or our Terms of Use, we will notify you here, or by email, or by means of a notice on our home page prior to the change becoming effective..
 
 Although this Privacy Policy is not a contract and does not create any legal rights, it does serve as an expression of our commitment to protecting Personally Identifiable Information.
 
@@ -293,7 +299,7 @@ Your use of the site and any services provided by Alliance Health after any chan
 
 [ ](https://privacy.truste.com/privacy-seal/Alliance-Health-Networks/validation?rid=fbf340a1-6401-40cd-9968-31e73635a8b8 "TRUSTe online privacy certification")
 
-Alliance Health Networks ("Alliance Health") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.diabeticconnect.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@alliancehealth.com](mailto:privacy@alliancehealth.com). If you are not satisfied with our response you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).
+Alliance Health Networks ("Alliance Health") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.diabeticconnect.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@alliancehealth.com](mailto:privacy@alliancehealth.com). If you are not satisfied with our response you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
 #### Children
 
