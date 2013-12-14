@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615033612id_/http%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214025258id_/http%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ###### Making sure everything works smoothly.
 
-Effective Date: 5/23/2012
+Effective date: 5/23/2012, last edit: 7/04/2013
 
 LiveChat, Inc. privacy policy contains information about collecting users’ personal data, products and services offered or performed by LiveChat, Inc. and the manner of its processing. We respect the right to privacy of our software users and take reasonable steps for the user to be familiar with the manner in which rendered accessible information via http://www.livechatinc.com/ website and our mobile application is processed. Due to the implementation of comprehensive security regulations, personal data provided by our website and mobile application users is of highest security standards. The acceptance of terms and conditions for the use of any LiveChat, Inc. services or deciding on using or purchasing any product offered by LiveChat, Inc. means accepting LiveChat, Inc. Privacy Policy.
 
-[ ](https://privacy.truste.com/privacy-seal/LIVECHAT,-Inc-/validation?rid=e32cb001-24ef-4783-bd3e-305a87ac03ef "TRUSTe European Safe Harbor certification") LiveChat, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software provided by third parties. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@livechatinc.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+## Safe Harbor Compliance
 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx) [ ](http://www.export.gov/safeharbor) LiveChat, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. LiveChat, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LiveChat, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+We are self-certifying to both the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework:
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, LiveChat, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact LiveChat, Inc. at [support@livechatinc.com](mailto:support@livechatinc.com).
+
+LiveChat, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by LiveChat, Inc., please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
 ## Provided data
 
