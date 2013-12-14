@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktwits.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529154056id_/http%3A//stocktwits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktwits.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214134705id_/http%3A//stocktwits.com/privacy) for the most accurate reproduction.*
 
 # StockTwits Privacy Policy
 
