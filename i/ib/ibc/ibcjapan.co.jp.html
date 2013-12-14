@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ibcjapan.co.jp privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617034252id_/http%3A//www.ibcjapan.co.jp/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ibcjapan.co.jp privacy policy that was archived on 2013-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131214035913id_/http%3A//www.ibcjapan.co.jp/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Respecting Our Customers' Privacy | IBC Japan’s Privacy Policy</title>
@@ -37,47 +37,58 @@
 </head>
 <body>
 <div id="container">
-	<div id="siteoptions">
-				<div class="highoptions">
-			<div class="signup">
-				<p><span>It's easy and FREE!</span> <a rel="nofollow" href="application.asp">Sign Up Now</a></p>
-			</div>
-			<div class="login">
-				<form id="frmLogin" method="POST" name="frmLogin">
-					<p><span>User ID</span> <input type="text" class="txtInternetID logininfo" name="txtInternetID" value="" tabindex="0"> 
-					   <span>Password</span> <input type="password" class="txtInternetPass logininfo" name="txtInternetPass" value=""> 
-					   <input class="loginbutton" type="submit" value="Login">
-					   <span class="remember_me_container">
-						   <span>Remember Me</span> 
-						   <input style="background:transparent;border:0; margin-top:-4px; height:20px;" type="checkbox" name="cxRememberMe">
-						</span>   
-					</p>
-				</form>
-			</div>
-			
-			<script>
-				$('.txtInternetID').focus();
-			</script>
-			
-			<!-- <div class="countryselection">
-				<select name="countryselection">
-					<option value="">Select Country</option>
-				</select>
-			</div> -->
-		 </div>
-		 <div class="lowoptions">
-		     <p class="homepage"><a href="http://www.ibcjapan.co.jp">Home</a></p>
-			 <ul class="languageoption">
-				 <li class="noborder"><a rel="nofollow" href="#" class="langchange" title="eng">English</a></li>
-				 <!-- <li><a rel="nofollow" href="#" title="rus" class="langchange">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a></li> -->
-				 <li><a rel="nofollow" href="#" title="spa" class="langchange">Español</a></li>
-				 <!-- <li><a rel="nofollow" href="#" title="jap" class="langchange">&#26085;&#26412;&#35486;</a></li>   -->
-			 </ul>
-			 <form style="display:none;" action="/privacypolicy.asp" id="LanguageForm" method="post">
-			 </form>
-			 <p class="forgotpassword"><label style="text-decoration:underline;font-weight:bold; color: blue; text-decoration:underline;">Forgot your password?</label> <a class="chere" rel="nofollow" href="#">Click here</a></p>
-			 <p><label class="disclaimer disclaimer_eng">(Uncheck if on a shared computer)</label></p>
-		 </div>
+	<div id="header">
+		<div id="siteoptions">
+			    <ul id="leftoptions">
+        <li id="home">
+            <span>It's easy and FREE!</span> 
+            <a href="http://www.ibcjapan.co.jp"><span>&nbsp;</span>Home</a>
+        </li>
+        <li id="signup">
+            <a href="application.asp">Sign Up Now</a>
+        </li>
+    </ul>
+    <ul id="rightoptions">
+        <li id="login">
+            <form id="frmLogin" method="POST" name="frmLogin" action="/my_login.asp">
+              <p>
+                <span>User ID</span> 
+                <input type="text" class="txtInternetID logininfo" name="txtInternetID" value="" tabindex="0"> 
+
+                <span>Password</span>
+                <input type="password" class="txtInternetPass logininfo" name="txtInternetPass" value="">
+
+                <input class="loginbutton" type="submit" value="Login">
+
+                <span class="rememberme">
+                   <span>Remember Me</span> 
+                   <input type="checkbox" name="cxRememberMe">
+                </span>   
+              </p>
+
+              <input type="hidden" id="ref" name="ref" value="{{PRELOGREF}}">
+              <input type="hidden" id="chassisno" name="chassisno" value="{{CHASSISNO}}">
+              <input type="hidden" id="status" name="status" value="{{PRELOGREFSTAT}}">
+              <input id="checklistFrom" type="hidden" value="{{checklistFrom}}">
+              <input id="checklistStatus" type="hidden" value="{{checklistStatus}}">
+            </form>
+        </li>
+        
+        <li id="language" class="languageoption">
+            <span><a rel="nofollow" href="#" class="langchange" title="eng">English</a></span>
+            <span class="noborder"><a rel="nofollow" href="#" title="spa" class="langchange">Español</a></span>
+        </li>
+        <form id="LanguageForm" method="post" action="/privacypolicy.asp" style="display:none;"> </form>
+
+        <li id="forgotpassword" class="forgotpassword">
+            <label>Forgot your password?</label> 
+            <a class="chere" rel="nofollow" href="#">Click here</a>
+        </li>
+        <li id="disclaimer">
+            <p><label class="disclaimer disclaimer_eng">(Uncheck if on a shared computer)</label></p>
+        </li>
+    </ul>
+		</div>
 	</div>
 	<div id="subcontainer">
 		 <div id="insideheader">
@@ -239,6 +250,7 @@
 		</div>
 	</div>
 </div>
+
 <script type="text/javascript" src="/js/pngfix.js"></script>
 
 <script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
