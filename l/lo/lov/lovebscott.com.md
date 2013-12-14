@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovebscott.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530142052id_/http%3A//lovebscott.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebscott.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214051358id_/http%3A//lovebscott.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | B. Scott videos, photos and blog: Official website
+# Privacy Policy - B. Scott | Celebrity Entertainment News, Fashion, Music and Advice
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -35,6 +35,8 @@ opt-out of this type of advertising, you can visit <http://www.aboutads.info/c
 The contents of this statement may be altered at any time, at our discretion.
 
 **Disclaimer** : This site does not claim any ownership of any of the media (music, videos, etc.) presented on this site. The media presented is intended for promotional use only.
+
+All images on lovebscott.com are readily available on the internet and believed to be in public domain. Images posted are believed to be published according to the U.S Copyright Fair Use Act (title 17, U.S. Code.)
 
 If you are the copyright owner and would like your media removed, please contact info@lovebscott.com.
 
