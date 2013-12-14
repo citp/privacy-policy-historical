@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eveningflavors.com privacy policy that was archived on 2013-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613232555id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eveningflavors.com privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215004304id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
   <title> Privacy Policy - Online Bangalore Restaurants, Pubs, Parties Guide from eveningflavors.com </title>
@@ -14,11 +14,62 @@
    Bangalore, India with www.eveningflavors.com">
 
 
-  <link type="text/css" rel="stylesheet" href="/newCommonStyle.css"><link type="text/css" rel="stylesheet" href="/HomePageNew/HomePageNewCommomnStyle.css"><link rel="shortcut icon" href="http://images.eveningflavors.com/CheckDomain/images/favicon.ico"></head>
+  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/js/jquery.js"></script><script type="text/javascript" src="/jqueryJs/homePage.js"></script><script type="text/javascript" src="/jqueryJs/homePageForArea.js"></script><script type="text/javascript" src="/loginPopup/popup.js"></script><script type="text/javascript">
+var click_is_inside1=false;
+var check=false;
+
+   $(document).ready(function() {
+      $('#profile_setting').click(function(){ 
+        click_is_inside1=true; 
+       }, function(){ 
+        click_is_inside1=false; 
+       });
+
+  $('body').click(function(){ 
+        if(!click_is_inside1) $('#dropdown').hide();
+		click_is_inside1=false; 
+		  check=false;
+             });
+           });
+
+ 
+function showDiv1(){
+	var div1=document.getElementById("dropdown");
+	 var div2=document.getElementById("picName");
+     var attr=div1.getAttribute("style");
+	
+
+	if(check==true && click_is_inside1==false){
+  	 div1.setAttribute("style", "display:none");
+     check=false;
+	}
+	else if(check == false && click_is_inside1 ==false && attr=="display:block"){
+      div1.setAttribute("style", "display:none");
+	}
+	else{
+	div1.setAttribute("style", "display:block");
+	div2.setAttribute("style", "background-color: #7C3F05");
+	check=true;
+	}	
+}
+</script><link type="text/css" rel="stylesheet" href="/newCommonStyle.css"><link type="text/css" rel="stylesheet" href="/HomePageNew/HomePageNewCommomnStyle.css"><link type="text/css" rel="stylesheet" href="/js/BookingConfirm.css"><link rel="shortcut icon" href="http://images.eveningflavors.com/CheckDomain/images/favicon.ico"></head>
 
 
 
 
+
+
+
+
+
+
+	
+
+
+	
+<!-- newPopUp combine with homePage.js -->
+
+    
 
 
 
@@ -31,13 +82,9 @@
 	<!-- Get the menu bar type, default selection is home tab -->
 
 	<!--Navigation Menu Bar Script-->
-	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
-    <script type="text/javascript" src="/js/newAjax-DynamicList.js"></script>
+	
 <!--<script type="text/javascript" src="/js/RegistrationPopUp/newPopUp.js"></script> -->
-	<script type="text/javascript" src="/jqueryJs/homePage.js"></script>
-	<script type="text/javascript" src="/jqueryJs/homePageForArea.js"></script>
-<!-- newPopUp combine with homePage.js -->
-
+	
 
 	<script type="text/javascript">
 		function getSearchDetails(){
@@ -75,6 +122,7 @@
     <input type="hidden" name="CheckMenuType" value="null">
 
 
+
 <div id="topHeadingBar">
 
  	<div id="wrapper" align="left" width="100%">
@@ -83,37 +131,41 @@
 				<tbody><tr valign="middle">
 					<td>
 						<font color="white" style="font-size: 13px;"><b>Your City :</b></font>
-						<a href="/Mumbai/" style="text-decoration:none">
+						<a href="/Bangalore/" style="text-decoration:none">
 							<font face="Arial" size="2px" color="#f0592a">
-								<b>Mumbai |</b>
+								<b>Bangalore |</b>
 							</font>
 						</a>
 						
-								&nbsp;&nbsp;<a href="/Bangalore/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Bangalore</font></b></a>
-						
-								&nbsp;&nbsp;<a href="/Pune/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Pune</font></b></a>
-						
-								&nbsp;&nbsp;<a href="/Delhi/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Delhi</font></b></a>
-						
-								&nbsp;&nbsp;<a href="/Kolkata/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Kolkata</font></b></a>
-						
+						&nbsp;&nbsp;<a href="/Mumbai/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Mumbai</font></b></a>
+				   
+						&nbsp;&nbsp;<a href="/Pune/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Pune</font></b></a>
+				   
+						&nbsp;&nbsp;<a href="/Delhi/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Delhi</font></b></a>
+				   
+						&nbsp;&nbsp;<a href="/Kolkata/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Kolkata</font></b></a>
+				   
+						&nbsp;&nbsp;<a href="/Hyderabad/" style="text-decoration:none"><b><font face="Arial" size="2px" color="#FFFFFF">Hyderabad</font></b></a>
+				   
 					</td>
 				</tr>
 			</tbody></table>
 		</div>
+		
 		<div id="signInHeader">
 			<table border="0px">
 				<tbody><tr valign="left">
 					
 						<td>
 							<font color="#f0592a" style="font-family: Arial;font-size : 9pt;"><b>For Booking and Info Call :</b></font>
-							<font color="white" style="font-size: 13pt;"><b>022 - 30987888
+							<font color="white" style="font-size: 13pt;"><b>080 - 40894999
  </b></font>
 						</td>
 					
 				</tr>
 			</tbody></table>
 		 </div>
+		
        	 <div id="topHeaderBody" border="0">
 			<div id="topHeaderLogoBarLeft">
 				<div id="topHeaderlogoBox" width="100%" border="1">
@@ -130,12 +182,12 @@
 				</div>
 				<form method="get" name="searchRestForm" action="">
 					<div id="HomePageTopSearchEngine" style="margin-left:65px;">
-						  <input type="hidden" name="city" value="Mumbai">
+						  <input type="hidden" name="city" value="Bangalore">
 						  <input type="hidden" name="checkRequestPage" value="quickSearch">
-						  <input type="text" id="keywordInput" class="ForRestaurantSearch" name="inputForQuickSearch" maxlength="40" value="restaurants,cuisine,ambience" style="font-size: 13px; font-weight:bold; font-family: Arial; color:#5c5b5b; width:230px;height:25px;padding-top:2px;padding-left:5px;padding-bottom:3px; background-color:#f7f7f7;" onfocus="doClearText(this)" onkeyup="ajax_showGenericSearchSuggestedSimilarWords(this,'getCountriesByLetters',event,'Mumbai','ajax_listOfOptions','/Restaurants-Pubs-GenericSearch-Process/suggestword.jsp')" autocomplete="off">
+						  <input type="text" id="keywordInput" class="ForRestaurantSearch" name="inputForQuickSearch" maxlength="40" value="restaurants,cuisine,ambience" style="font-size: 13px; font-weight:bold; font-family: Arial; color:#5c5b5b; width:230px;height:25px;padding-top:2px;padding-left:5px;padding-bottom:3px; background-color:#f7f7f7;" onfocus="doClearText(this)" onkeyup="ajax_showGenericSearchSuggestedSimilarWords(this,'getCountriesByLetters',event,'Bangalore','ajax_listOfOptions','/Restaurants-Pubs-GenericSearch-Process/suggestword.jsp')" autocomplete="off">
 					</div>
 					<div id="HomePageTopSearchEngine" style="margin-left:0px;">
-						 <input type="text" id="areaInput" class="ForAreaSearch" name="placeLookingInput" maxlength="40" value="areas in mumbai" style="font-size: 13px; font-weight:bold; font-family: Arial; color:#5c5b5b; width:230px;height:25px;padding-top:2px;padding-left:5px;padding-bottom:3px; background-color:#f7f7f7;" onfocus="doClearText(this)" onkeyup="ajax_showGenericSearchSuggestedSimilarWordsForRestaurantArea(this,'getCountriesByLetters',event,'Mumbai','ajax_listOfOptions','/Restaurants-Pubs-GenericSearch-Process/suggestionRestaurantAreasCityWise.jsp')" autocomplete="off">
+						 <input type="text" id="areaInput" class="ForAreaSearch" name="placeLookingInput" maxlength="40" value="areas in bangalore" style="font-size: 13px; font-weight:bold; font-family: Arial; color:#5c5b5b; width:230px;height:25px;padding-top:2px;padding-left:5px;padding-bottom:3px; background-color:#f7f7f7;" onfocus="doClearText(this)" onkeyup="ajax_showGenericSearchSuggestedSimilarWordsForRestaurantArea(this,'getCountriesByLetters',event,'Bangalore','ajax_listOfOptions','/Restaurants-Pubs-GenericSearch-Process/suggestionRestaurantAreasCityWise.jsp')" autocomplete="off">
 					</div>
 					<div id="HomePageTopGoButton" style="margin-left:0px;">
 						<a href="javascript:getSearchDetails();" style="text-decoration:none" id="searchValueButton" border="0px;">
@@ -148,87 +200,159 @@
 		<div id="headerBodyMenu">
 		         <ul class="ultopnav">
 						<li id="Home" class="">
-							<a href="/Mumbai/" style="margin-top:6px;">
+							<a href="/Bangalore/" style="margin-top:6px;">
 								<img src="/images/HomepageImages/transparent.gif" border="0" class="homePageSprite homeImg">
 							</a>
 						</li>
 					
 						<li id="Restaurants" class="">
-							<a href="/Restaurant/Mumbai/" style="margin-top:6px;"><font>Restaurants</font></a>
-							<span>
-								<a href="/Speciality-Restaurant/Mumbai/">Speciality Restaurants</a> |
-								<a href="/Review-Restaurants/Mumbai/">Restaurant Reviews</a> |
-								<a href="/Special-Offers/Mumbai/">Restaurant Offers</a> |
+							<a href="/Restaurant/Bangalore/" style="margin-top:6px;"><font>Restaurants</font></a>
+						<span>
+								<a href="/Restaurants/Bangalore/Area/">Restaurant By Area</a> |
+								<a href="/Restaurants/Bangalore/Cuisines/">Restaurant By Cuisine</a> |
+								<a href="/Speciality-Restaurant/Bangalore/">Speciality Restaurants</a> |
+								
+								<!--<a href="/Gift-Coupons/Bangalore/">Restaurant Gift Coupons</a> |  -->
+								<a href="/fivestar/Bangalore/" style="margin-top:6px;">Five Star</a> |
 								
 							</span>
 						</li>
 					
 					
 						<li id="Buffet" class="">
-							<a href="/Buffet-Lunch-Dinner-Restaurants/Mumbai/" style="margin-top:6px;">Buffet</a>
-							<!--
+							<a href="/Buffet-Lunch-Dinner-Restaurants/Bangalore/" style="margin-top:6px;">Buffet</a>
 							<span>
-								<a href="/Lunch-Buffet/Mumbai/">Lunch Buffet</a> |
-								<a href="/Dinner-Buffet/Mumbai/">Dinner Buffet</a> |
-								<a href="/Breakfast-Buffet/Mumbai/">Breakfast Buffet</a> |
-								<a href="/MidNight-Buffet/Mumbai/">MidNight Buffet</a> |
-								<a href="/Brunch/Mumbai/">Brunch</a> |
-								<a href="/buffet/Mumbai/">More</a> |
+								<a href="/Lunch-Buffet/Restaurants/Bangalore/">Lunch Buffet</a> |
+								<a href="/Dinner-Buffet/Restaurants/Bangalore/">Dinner Buffet</a> |
+								<a href="/Breakfast-Buffet/Restaurants/Bangalore/">Breakfast Buffet</a> |
+								<a href="/MidNight-Buffet/Restaurants/Bangalore/">Midnight Buffet</a> |
+								<a href="/Brunch/Restaurants/Bangalore/">Brunch</a> |
 							</span>
-							-->
 						</li>
 					
 					
+					 
+						
+							<li id="Offers" class="">	
+								<a href="/Special-Offers/Bangalore/" style="margin-top:6px;"> Offers</a> 
+								</li>	
+					
+					
+					
 						<li id="PubsBars" class="">
-							<a href="/Pubs-Bars/Mumbai/Nightclubs/" style="margin-top:6px;">Pubs &amp; Bars</a>
+							<a href="/Pubs-Bars/Bangalore/Nightclubs/" style="margin-top:6px;">Pubs &amp; Bars</a>
 							
+							<!--
+							<span>
+								<a href="/Clubs-With-Dance-Floor/Bangalore/20/Bars/">Clubs With Dance Floor</a> |
+								<a href="/Late-Night-Open/Bangalore/19/Bars/">Late Night Open</a> |
+								<a href="/Lounges-With-Food/Bangalore/18/Bars/">Lounges With Food</a> |
+								<a href="/Lounges/Bangalore/17/Bars/">Lounges</a> |
+								<a href="/Rock-Music-Bars/Bangalore/16/Bars/">Rock Bars</a> |
+								<a href="/Pubs-Bars/Bangalore/Nightclubs/">More</a> |
+							</span>
+							-->
 						
-							</li><li id="PlanAParty" class="">
+						
+							</li><li id="Parties" class="">
+								<a href="/Party/Bangalore/" style="margin-top:6px;">Parties</a>
+								<span>
+									<a style="text-decoration:none; margin-left:170px;"></a>|
+									<a href="/DJ-Parties/Bangalore/">DJ Parties</a> |
+									<a href="/Food-Festival/Bangalore/">Food Festival</a> |
+									<a href="/Karaoke-Night/Bangalore/">Karaoke Night</a> |
+									<a href="/Live-Performance/Bangalore/">Live Performance</a> |
+								</span>
+							</li>
+						
+						
+							<li id="PlanAParty" class="">
 								<a href="/Plan-a-party/" style="margin-top:6px;">Plan a party</a>
-								<!--<span>
-									<a href="/Planing/Corporate-Party/Mumbai/">Corporate Parties</a> |
-									<a href="/Plan/Special-Occasion-Party/Birthday-party/Mumbai/">Birthday Party</a> |
-									<a href="/Planing/Wedding-Party/Mumbai/">Wedding Party Planner</a> |
-									<a href="/Planing/Get-Together-Party/Mumbai/">Get Together</a> |
-									<a href="/Planing/Casual-Outing-Party/Mumbai/">Casual Outing</a> |
-									<a href="/Plan-a-party/">More</a> |
-								</span>-->
+								<span>
+									<a style="text-decoration:none; margin-left:75px;"></a>|
+									<a href="/Planing/Corporate-Party/Bangalore/">Corporate Parties</a> |
+									<a href="/Planing/Special-Occasion-Party/Bangalore/">Special Occasion Parties</a> |
+									<a href="/Planing/Wedding-Party/Bangalore/">Wedding Parties</a> |
+									<a href="/Planing/Get-Together-Party/Bangalore/">Get Together Parties</a> |
+									<a href="/Planing/Casual-Outing-Party/Bangalore/">Casual Outing</a> |
+								<!--<a href="/Plan-a-party/">More</a> |-->
+								</span>
 							</li>
 						
 						
-						
-							<li id="Parties" class="">
-								<a href="/Party/Mumbai/" style="margin-top:6px;">Parties</a>
+							<li id="Resorts" class="">
+								<a href="/Resorts/Bangalore/" style="margin-top:6px;">Resorts</a>
+							
+								<span>
+									<a style="text-decoration:none; margin-left:150px;"></a>|
+									<a href="/Resorts/Bannerghatta-Road/Bangalore/">Bannerghatta Road</a> |
+									<a href="/Resorts/Tumkur-Road/Bangalore/">Tumkur Road</a> |
+									<a href="/Resorts/Mysore-Road/Bangalore/">Mysore Road</a> |
+									<a href="/Resorts/Kanakapura-Road/Bangalore/">Kanakapura Road</a> |
+									<a href="/Resorts/Hosur-Road/Bangalore/">Hosur Road</a> |
+								</span>
+							
 							</li>
+						
 						
 						
 						<!--
 							<li id="GiftCoupon">
-								<a href="/Mumbai/" style="margin-top:6px;">Gift Coupon</a>
+								<a href="/Bangalore/" style="margin-top:6px;">Gift Coupon</a>
 							</li>
 						-->
 						
 						
 							<li id="Blogs" class="">
-								<a href="/Blogs-Eveningflavors/EFlavors-Blog/" style="margin-top:6px;">Blogs</a>
+								<a href="http://blog.eveningflavors.com/" style="margin-top:6px;">Blogs</a>
 							</li>
 						
-
-				  </ul>
-				  <div id="loginStyle">
-					
-
-
- 
-		 <p style="margin-right:10px;margin-top:5px">
-	      <a href="/myaccount/MyAccountHomepage.jsp?userType=1&amp;page=Signup" style="text-decoration:none"><font color="white">Login</font></a>
-	    </p>
+						
+							<li class="">
+								<a href="/new-year-parties/Bangalore/" style="margin-top:6px;">New Year Parties
+								<img src="/images/new_icon.gif" height="15" width="20" align="top" style="border:0px;">
+								</a>
+							</li>
+						
+                 	<!--
+							<li>
+								<a href="/fivestar/Bangalore/"style="margin-top:6px;">Five Star</a>
+							</li>
+							-->
+				
+				 
+					  
+		<div style="margin-left:930px;margin-top:3px;border-right:0px;">
+	  <a id="clickPopUp" href="/loginPopup/loginPopup.jsp?userType=1&amp;page=Signup" title="" class="thickbox1" style="text-decoration:none;margin-top:6px;"><font color="white">Login</font></a>
+	    </div>
+		
 	
+				
+			</ul>  
+			<ul id="dropdown" style="display:none;">
+		
+            <a href="/RightNavigationCrudResponse.jsp?myAccount=Details"> <li id="spanid">
+              <font size="2">My Profile </font>
+			 </li> </a>
 
-
-
-				  </div>
-			</div>
+               <a href="/RightNavigationCrudResponse.jsp?myAccount=MyBooking"><li id="spanid"><font size="2">My Booking </font>
+                </li></a>
+       
+             <a href="/profile/userProfile/0/">  <li id="spanid"> <font size="2">Reviews </font>
+              </li></a>
+          
+              <a href="/RightNavigationCrudResponse.jsp?myAccount=InviteFriend">  <li id="spanid"> 
+			   <font size="2">Invite Friends 
+			   </font>
+			   </li></a>
+			
+              <a href="/LogoutAction.jsp?myAccount=Logout&amp;city=" style="">  <li id="spanid">  
+		        <font size="2"> Sign Out </font>
+			   </li></a>
+          
+         
+		 </ul>
+		
 <div id="bodyDown">
 	<div id="displayFooterHead">
 			<table border="0">
@@ -355,13 +479,11 @@
 </div>
 <div id="FooterRightDisp">
 		<div id="faceBookPluginForRightSpace">
-			
-
-
-	  <h4 class="FBFanPage-heading" style="border-bottom:1px solid #facdbf"><a href="https://www.facebook.com/EveningFlavors.India?sk=app_4949752878" style="text-decoration: none;color: #825507;"> Facebook Fanpage </a> </h4>
-	  <span>
-		<iframe src="http://www.facebook.com/plugins/fan.php?api_key=288523881080&amp;connections=8&amp;css=http%3A%2F%2Fwww.eveningflavors.com%2Fcss%2Ffb.css%3F12&amp;height=240&amp;id=295591175295&amp;locale=en_US&amp;logobar=false&amp;sdk=joey&amp;stream=false&amp;width=240" class="fb_ltr" style="border: medium none; overflow: hidden; height: 240px; width: 240px;" id="295591175295" scrolling="no"></iframe>
-	  </span>
+			<span>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FEveningFlavors.India%3Ffref%3Dts&amp;width=240&amp;height=290&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=true&amp;header=true" scrolling="no" frameborder="0" style="border:none; 
+overflow:hidden; width:240px; height:290px;" allowtransparency="true">
+</iframe>
+</span>
 		</div>
 
 </div>
@@ -452,10 +574,11 @@
 	<div id="FooterLeft">
 
 		<p class="footerLink" style="line-height: 18px; margin-top: 15pt; margin-bottom: 0pt; margin-left: 30px;">
+			<a href="http://www.eveningflavors.com/new-year-parties/null/"><font face="Arial" color="white" style="font-size: 8pt;"><strong>NEW YEAR EVENTS</strong></font></a><br>			
 			<!-- <a href="/Testimonial/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> TESTIMONIALS</strong></font></a><br> -->
 			<a href="/Feedback/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> SEND FEEDBACK</strong></font></a><br>
 			<a href="/Blogs-Eveningflavors/EFlavors-Blog/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> BLOGS</strong></font></a><br>
-			<a href="/Mumbai/NewsLetter/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> NEWS LETTERS</strong></font></a><br>
+			<a href="/null/NewsLetter/"><font face="Arial" color="white" style="font-size: 8pt;"><strong> NEWS LETTERS</strong></font></a><br>
 			<a href="/blogs/rssfeed.jsp"><font face="Arial" color="white" style="font-size: 8pt;"><strong>RSS&nbsp;<img src="/images/feed-icon.gif" border="0"></strong></font><br></a>
 		</p>
 	</div>
@@ -491,4 +614,4 @@
 </div>
   
 
-  </div></body></html>
+  </div></div></body></html>
