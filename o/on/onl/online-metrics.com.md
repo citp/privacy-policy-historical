@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-metrics.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620123524id_/http%3A//online-metrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-metrics.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214073006id_/http%3A//online-metrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlineMetrics
 
@@ -26,6 +26,6 @@ This online privacy policy applies only to information collected through our web
 
 By using our site, you consent to our privacy policy. If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on November 24, 2012.
+This policy was last modified on December 8, 2013.
 
 [Contact us here](http://online-metrics.com/contact-us/ "Drop us a message") if you have any questions regarding this privacy policy.
