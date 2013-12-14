@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tickerreport.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612220919id_/http%3A//tickerreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickerreport.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214011157id_/http%3A//tickerreport.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy - Ticker Report
+# Privacy Policy
 
 Your privacy is important to us.  This Privacy Policy is here so that you may review how we collect make use of the information gained by your visitation to our servers.  The following outlines our privacy policy.
 
