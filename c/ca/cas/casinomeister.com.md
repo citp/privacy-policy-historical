@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519083331id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214065615id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
 
 # Legal Statement and Privacy Policy at Casinomeister
 
@@ -19,7 +19,7 @@ Consumers can access this information by contacting me [here ](http://www.casino
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, or unique identifiers.
 
 **Cookies:**  
-Cookies are used in our banner serving software and in our forum. No information is obtained from the user except information from the users' browsers to ensure that different banners are displayed while the user navigates through the site. Cookies used in the forum enable users to have their browsers remember their passwords. This can be turned off by the user in "user control panel" in the forum.
+Cookies are used in our banner serving software and in our forum. No information is obtained from the user except information from the users' browsers to ensure that different banners are displayed while the user navigates through the site. Cookies used in the forum enable users to have their browsers remember their passwords. This can be turned off by the user in "user control panel" in the forum. We also use cookies to ensure you have only one account in our forum. If you wish to have more than one account in our forum (business and civilian, etc.), or you share your computer with your wife, boyfriend, pet goat, and they would like to open an account, please contact us.
 
 **Security:**   
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
