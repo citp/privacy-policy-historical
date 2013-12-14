@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourezlist.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614225346id_/http%3A//yourezlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourezlist.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214035125id_/http%3A//yourezlist.com/privacy.php) for the most accurate reproduction.*
 
 # Your EZ List! Viral List Builder | Instant Commissions | Free Traffic
 
-[](http://yourezlist.com/bannerclick.php?code=8a4032b5acf0ee3b57dd489ce6a672c1)  
+[](http://yourezlist.com/bannerclick.php?code=f4b07d294dfcef75e0df28129945d986)  
 
 
 Your EZ List Privacy Policy
@@ -39,7 +39,7 @@ Links: This web site contains links to other web sites. Please note that when yo
 
 "EZ Traffic, EZ List Building & EZ Commissions!"
 
-Copyright (c) Your EZ List All Rights Reserved - Part of the [Trax Web](http://traxweb.com/)
+Copyright (c) Your EZ List All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php) | [ _Recommended Site of The Day_](http://yourezlist.com/recommends.php)
 
