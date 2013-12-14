@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monetizepros.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415062017id_/http%3A//monetizepros.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monetizepros.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214025658id_/http%3A//monetizepros.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MonetizePros
 
@@ -7,6 +7,8 @@
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information or other personal information.
 
 We also collect information when you visit our site, via cookies and via web stats programs. We collect technical information such as your IP address, Web browser, and other information.
+
+Please note that we also participate in the Google AdWords Remarketing program. Certain information about you will be shared with Google and other partners, per the terms of this program.
 
 ### What do we use your information for?
 
@@ -43,7 +45,7 @@ Our website, products and services are all directed to people who are at least 1
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://monetizepros.com/blog/terms.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://monetizepros.com/terms.
 
 ### Your Consent
 
@@ -51,4 +53,4 @@ By using our site, you consent to our online privacy policy.
 
 ### Changes to our Privacy Policy
 
-This privacy policy is subject to change without notice and was last updated on March 5, 2013. If you have any questions, contact us at info@monetizepros.com.
+This privacy policy is subject to change without notice and was last updated on December 4, 2013. If you have any questions, contact us at info@monetizepros.com.
