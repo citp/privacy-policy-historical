@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212073917id_/http%3A//www.answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214204507id_/http%3A//www.answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Answers in Genesis
 
@@ -106,7 +106,7 @@ If you have questions or concerns about any information on this page, please fee
 
 View our [GuideStar](http://www.guidestar.org/controller/searchResults.gs?action_gsReport=1&npoId=96473) ministry information profile.
 
-View our [2009 Annual Report](https://web.archive.org/assets/pdf/about/2009_annual_report.pdf).
+View our [2012 Annual Report](https://web.archive.org/assets/pdf/about/2012-annual-report.pdf) (PDF).
 
 For more information, see our [Published Content Use Policy and Guidelines](https://web.archive.org/about/use-policy) and [Statement of Accountability](https://web.archive.org/about/soa). 
 
@@ -114,4 +114,4 @@ Thank you!
 
 Back to Top 
 
-Last Updated: 07/15/2009
+Last Updated: 01/24/2013
