@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myaadhaarcard.in privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615014244id_/http%3A//www.myaadhaarcard.in/%3Fpage_id%3D846) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myaadhaarcard.in privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214022804id_/http%3A//www.myaadhaarcard.in/%3Fpage_id%3D846) for the most accurate reproduction.*
 
 # Privacy Policy | My Aadhaar Card
 
@@ -24,18 +24,19 @@ IP addresses are used by your computer every time you are connected to the Inter
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
   
+**Advertising Policy**
+
+We also Use a Third Party Advertising network called Google AdSense and this party may place DART Cookies in your Browser to know about your personal preferences to target the ads more efficiently. We have no access to or control over these cookies which are used by third-party advertisers. If you feel that you want to opt out of this, then you can do so here - http://www.google.com/privacy/ads 
+
+  
 **How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
-
-www.myaadhaarcard.in will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
-
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+Broadly speaking, we use only your email information to notify you for new posts on this website and that too only if you subscribe to us through Google FeedBurner platform. We assure that your email information is safe with us and is not shared with a third-party at any cost.
 
 **  
-A Special Note About Children**
+Note About Children**
 
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
+Since we do not host mature content, children are also eligible to use our web site. This website is safe for person with any age including children. 
 
   
 **How Do We Protect Your Information and Secure Information Transmissions?**
