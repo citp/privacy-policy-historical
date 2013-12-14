@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydishrecipes.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610205634id_/http%3A//dailydishrecipes.com/disclosuresprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydishrecipes.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214013755id_/http%3A//dailydishrecipes.com/disclosuresprivacy-policy) for the most accurate reproduction.*
 
 # Disclosures/Privacy Policy | Daily Dish Recipes
 
