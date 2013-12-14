@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrolinktrains.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614191652id_/http%3A//metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolinktrains.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214161024id_/http%3A//www.metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metrolink
 
