@@ -1,0 +1,1795 @@
+<!--The following is the downloaded HTML source of the marketingignite.com privacy policy that was archived on 2013-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131214143430id_/http%3A//www.marketingignite.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Marketing Ignite</title>
+<meta http-equiv="Content-Type" content="text/html;  charset=ISO-8859-1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="resource-type" content="document">
+<meta name="page-topic" content="Development Services">
+<meta name="clientbase" content="Global">
+<meta name="distribution" content="World Wide Web">
+<meta name="audience" content="all">
+<meta name="expires" content="NEVER">
+ <link href="style.php" rel="stylesheet" type="text/css">
+ 
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-923125-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<html:style type="text/css" media="screen,projection"></html:style><style type="text/css">.highslide img {cursor: url(highslide/graphics/zoomin.cur), pointer !important;}</style></head>
+<body>
+<table width="779" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tbody><tr><td><style type="text/css">
+.xtextnotify {
+	font-size:8px;
+	font-weight:bold;
+	color:#FFFF00;
+}
+
+.referesh_captcha{	color:#FFF; font-size:10px;}
+.referesh_captcha a{	color:#FFF; font-size:10px; text-decoration:none;}
+.referesh_captcha a:hover{ color:#FF9B01;}
+
+</style>
+<link href="anylink.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="anylink.js"></script>
+<script type="text/javascript" src="capfoto.js"></script>
+<script src="javascript.php" type="text/javascript"></script>
+<script type="text/javascript" src="highslide/highslide.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery-cycle.js"></script>
+<script type="text/javascript" src="js/rotation.js"></script>
+<link rel="stylesheet" type="text/css" href="highslide/highslide.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="cycle.css">
+<!--
+	2) Optionally override the settings defined at the top
+	of the highslide.js file. The parameter hs.graphicsDir is important!
+-->
+
+<script type="text/javascript">
+hs.registerOverlay({
+	overlayId: 'closebutton',
+	position: 'top right',
+	fade: 2 // fading the semi-transparent overlay looks bad in IE
+});
+
+
+hs.graphicsDir = 'highslide/graphics/';
+hs.wrapperClassName = 'borderless';
+</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+$(document).ready(function(){
+
+$("#lets_talk_form_submit").click(function(){
+
+
+		var name = $("#lets_talk_form_name").val().trim();
+		
+		var email = $("#lets_talk_form_email").val().trim();
+		
+		var phone = $("#lets_talk_form_phone").val().trim();
+		
+		var website = $("#lets_talk_form_website").val().trim();
+		
+		var validation_code = $("#lets_talk_form_validation_code").val().trim();
+
+
+
+		var dataString = 'name='+ name + '&email=' + email + '&phone=' + phone + '&website=' + website + '&validation_code=' + validation_code;
+
+		//alert(dataString);
+
+		
+		//if((name == '') || (name != 'Name') || (email == '')  || (email != 'Email')|| (phone == '') || (phone != 'Phone') || (website == '')|| (website != 'Website') || (validation_code == ''))
+		if((name == '') || (name == 'Name') || (email == '')  || (email == 'Email')|| (phone == '') || (phone == 'Phone') || (validation_code == ''))
+
+		{
+
+			var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+
+			//alert(name);
+
+			if((name == '') || (name == 'Name'))
+
+			{
+
+				alert("Please enter your name!");
+
+				$("#lets_talk_form_name").focus();
+
+				return false;
+
+			}
+
+			else if((email == '') || (email == 'Email'))
+
+			{
+
+				alert("Please enter your email!");
+
+				$("#lets_talk_form_email").focus();
+
+				return false;
+
+			}
+
+			else if(!emailReg.test(email))
+
+			{
+
+				alert("Please check your email format!");
+
+				$("#lets_talk_form_email").focus();
+
+				return false;
+
+			}
+			
+			else if((phone == '') || (phone == 'Phone'))
+
+			{
+
+				alert("Please enter your phone!");
+
+				$("#lets_talk_form_phone").focus();
+
+				return false;
+
+			}
+			
+			/*else if((website == '') || (website == 'Website'))
+
+			{
+
+				alert("Please enter your website!");
+
+				$("#lets_talk_form_website").focus();
+
+				return false;
+
+			}*/
+			
+			else if(validation_code == '')
+
+			{
+
+				alert("Please enter validation code!");
+
+				$("#lets_talk_form_validation_code").focus();
+
+				return false;
+
+			}
+
+		}
+
+		else
+
+		{
+
+			$.ajax({
+
+			type: "POST",
+
+			url: "lets-talk-ajax.php",
+
+			data: dataString,
+
+			success: function(data){ //alert(data);
+
+			if(data == 1)
+
+			{	
+
+				//alert("Your message sent to admin successfully.");
+
+				//$('img.captcha').attr("src", 'captchacreate.php?' + rand);
+				window.location.href= 'thankyou.php';
+
+				
+
+			}
+
+			else if(data == 2)
+
+			{
+
+				alert("Verification code does not match!");
+
+				$('img.captcha').attr("src", 'captchacreate.php?' + rand);
+
+			}
+
+			else
+
+			{
+
+				alert("There is some problem. Please try again later.");
+
+				$('img.captcha').attr("src", 'member/ajax/captchacreate.php?' + rand);
+
+			}
+
+			}
+
+		});
+
+		}
+
+		return false;	
+
+	});
+	});
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(e) {
+    $('#refresh_captcha_link').click(function(e) {
+        e.preventDefault();
+		$('#captcha_img').attr('src', $('#captcha_img').attr('src')+'?'+Math.random());
+    });
+});
+</script>
+
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0" style="background:#015e8b;">
+  <tbody><tr>
+    <td height="36" width="100%" style="background-image:url(images/topback.gif);padding-right:10px; " align="right"><table cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td align="left" width="670" style="font-size:11px;"><h1 style="font-size:11px; float:left; font-weight:normal; padding-right:45px;"><a href="http://www.marketingignite.com" style="color:#333;">Thailand's Leading Internet Marketing Company and SEO Provider</a></h1>
+            <a href="http://twitter.com/#!/marketingignite" target="_blank"><img src="images/twitter.png" width="16" height="16" border="0px;"></a> <a href="http://www.linkedin.com/company/marketing-ignite-co-ltd" target="_blank"><img src="images/linkedin.png" width="16" height="16" border="0px;"></a> <a href="http://feeds.feedburner.com/MarketingIgniteBlog" target="_blank"><img src="images/rss.png" width="16" height="16" border="0px;"></a> <a href="https://plus.google.com/115967672993910207726" target="_blank" rel="author" title="Johan Hedin"><img src="images/gplus1.png" border="0px;" width="16" height="16"></a>
+            <g:plusone size="small" href="https://plus.google.com/115967672993910207726"></g:plusone>            <a href="http://www.facebook.com/Marketingignite" target="_blank"><img src="images/facebook.png" border="0px;" width="16" height="16"></a>
+            <div class="fb-like" data-href="http://www.facebook.com/Marketingignite" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false" data-font="arial"></div></td>
+          <td width="15" align="center"><img alt=" " src="images/spacer.gif" width="9" height="7" style="background-image:url(images/ico_home.gif); background-repeat:no-repeat;"></td>
+          <td width="42" align="center"><a href="http://www.marketingignite.com" class="toplinks">Home</a></td>
+          <td width="10" align="center"><img alt=" " src="images/spacer.gif" width="1" height="9" style="background-image:url(images/ico_sep.gif); background-repeat:no-repeat;"></td>
+          <td width="11" align="center"><img alt=" " src="images/spacer.gif" width="8" height="8" style="background-image:url(images/ico_faq.gif); background-repeat:no-repeat;"></td>
+          <td width="33" align="center"><a rel="nofollow" href="faq.php" class="toplinks">FAQ</a></td>
+          <td width="10" align="center"><img alt=" " src="images/spacer.gif" width="1" height="9" style="background-image:url(images/ico_sep.gif); background-repeat:no-repeat;"></td>
+          <td width="14" align="center"><img alt=" " src="images/spacer.gif" width="7" height="8" style="background-image:url(images/ico_sitemap.gif); background-repeat:no-repeat;"></td>
+          <td width="60" align="left" style="padding-left:5px;"><a rel="nofollow" href="sitemap.php" class="toplinks">Sitemap</a></td>
+          <td width="32" align="center"><a href="processmap.php?country=ja&amp;pageurl=/privacy-policy.php" class="toplinks"><img src="japan.gif" alt="Japan" style="border:0"></a></td>
+          <td width="41" align="center"><a href="processmap.php?country=th&amp;pageurl=/privacy-policy.php" class="toplinks"><img src="Thai.gif" border="0" alt="Thai"></a></td>
+          <td width="32" align="center"><a href="processmap.php?country=us&amp;pageurl=/privacy-policy.php" class="toplinks"><img src="usa.jpg" border="0" alt="USA"></a></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="175"><div class="banner_area">
+        <div class="banner_left_area">
+          <div class="Slider_area">
+            <div class="header-panel">
+              <div id="headerAnim" style="overflow: hidden;">
+                <div class="slideShow" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 3; opacity: 1;">
+                  <div class="banner_logo_area"><a href="http://marketingignite.com"><img src="images/banner_logo.png" alt=""></a></div>
+                  <div><img src="images/banner_text.png" alt=""></div>
+                  <div class="slider_text"> <a href="contact.php">Contact Us</a> Today to Discuss Your Project </div>
+                </div>
+                <div class="slideShow" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 1;">
+                  <div class="banner_logo_area"><a href="http://marketingignite.com"><img src="images/banner_logo.png" alt=""></a></div>
+                  <div><img src="images/banner_text1.png" alt=""></div>
+                  <div class="slider_text">It Begins with Intelligent Strategy and <br>
+                    Ends With Successful Results </div>
+                </div>
+              </div>
+            </div>
+            <div id="nav"><a href="#" class="activeSlide">1</a><a href="#">2</a></div>
+          </div>
+        </div>
+        <div class="banner_right_area">
+          <form name="lets_talk_form" id="lets_talk_form" action="/privacy-policy.php" method="post">
+            <div>
+              <input name="lets_talk_form_name" type="text" value="Name" id="lets_talk_form_name" class="banner_input_area" onblur="if (this.value == ''){this.value = 'Name'; }" onfocus="if (this.value == 'Name') {this.value = ''; }">
+            </div>
+            <div>
+              <input name="lets_talk_form_email" type="text" value="Email" id="lets_talk_form_email" class="banner_input_area" onblur="if (this.value == ''){this.value = 'Email'; }" onfocus="if (this.value == 'Email') {this.value = ''; }">
+            </div>
+            <div>
+              <input name="lets_talk_form_phone" type="text" value="Phone" id="lets_talk_form_phone" class="banner_input_area" onblur="if (this.value == ''){this.value = 'Phone'; }" onfocus="if (this.value == 'Phone') {this.value = ''; }">
+            </div>
+            <div>
+              <input name="lets_talk_form_website" type="text" value="Website" id="lets_talk_form_website" class="banner_input_area" onblur="if (this.value == ''){this.value = 'Website'; }" onfocus="if (this.value == 'Website') {this.value = ''; }">
+            </div>
+            <div>
+            <img class="captcha" src="captchacreate.php" style="float:left;" alt="" title="Verification code" id="captcha_img">
+            
+              <input name="lets_talk_form_validation_code" type="text" value="" id="lets_talk_form_validation_code" class="banner_input_area1" maxlength="5">
+             
+              <input name="lets_talk_form_submit" id="lets_talk_form_submit" type="button" value="Let's Talk" class="banner_btn_area">
+            </div>
+            <div class="referesh_captcha">Can't read the image? <a href="" id="refresh_captcha_link">Click here to refresh</a></div>
+          </form>
+        </div>
+      </div></td>
+  </tr>
+  <tr>
+    <td height="30"><table cellspacing="0" cellpadding="0" width="100%" background="/images/menu_bg.jpg">
+        <tbody><tr>
+          <td width="5"></td>
+          <td align="center"><a href="http://www.marketingignite.com"><span class="title1">HOME</span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="seo training courses"></td>
+          <td align="center" class="title"><a href="http://www.marketingignite.com/serviceform.php" onmouseover="dropdownmenu(this, event, 'servicemenu')"><span class="title1">SERVICES</span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="search engine optimization training"></td>
+          <td align="center" class="title"><a href="http://www.marketingignite.com/about.php" onmouseover="dropdownmenu(this, event, 'aboutusmenu')"><span class="title1"><nobr>ABOUT US</nobr></span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="online marketing courses"></td>
+          <td align="center"><a href="http://www.marketingignite.com/contact.php"><span class="title1"><nobr>CONTACT US</nobr></span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="SEO Training And Courses"></td>
+          <td align="center" class="title"><a href="#"><span class="title1" onmouseover="dropdownmenu(this, event, 'freetoolsmenu')"><nobr>FREE SEO TOOLS</nobr></span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="pay per click services"></td>
+          <td align="center"><a href="http://www.marketingignite.com/testimonials.php"><span class="title1">CLIENTS</span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="Professional SEO Services "></td>
+          <td align="center"><a href="http://www.marketingignite.com/marketing-resources.php" target="_blank"><span class="title1">SEO RESOURCES</span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="online marketing company"></td>
+          <td align="center"><a href="http://www.marketingignite.com/partner-program.php"><span class="title1"><nobr>PARTNER</nobr></span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="seo services company"></td>
+          <td align="center"><a href="http://www.marketingignite.com/blog"><span class="title1"><nobr>BLOG</nobr></span></a></td>
+          <td><img src="/images/menu_divider.jpg" alt="learn seo"></td>
+          <td align="center"><a href="http://www.marketingignite.com/video"><span class="title1"><nobr>VIDEO</nobr></span></a></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+<div id="servicemenu" class="anylinkcss" style="text-align:left"> <a href="http://www.marketingignite.com/SEO-Training-Course/">Online SEO Training</a> <a href="http://www.marketingignite.com/pay-per-click.php">Pay Per Click Search Engines</a> <a href="http://www.marketingignite.com/SEO-Services-Thailand.php">Search Engine Optimization</a> <a href="http://www.marketingignite.com/social-media-services.php">Social Media Services</a> <a href="http://www.whiteboardexplainers.com" target="_blank"><span class="xtextnotify">NEW</span>&nbsp;Explainer Videos </a> <a href="http://www.marketingignite.com/affiliate-marketing.php">Affiliate Marketing </a> <a href="http://www.marketingignite.com/online-media-buy.php">Online Media Buy</a> <a href="http://www.marketingignite.com/autoresponders.php">Multiple Auto responders</a> <a href="http://www.marketingignite.com/consulting.php">Consultation</a> <a href="http://www.marketingignite.com/website-performance-analysis.php">Website Performance Analysis</a> <a href="http://www.marketingignite.com/link-campaign.php">Link Campaign</a> <a href="http://www.marketingignite.com/web-copywriting.php">Web Copywriting</a> <a href="http://www.marketingignite.com/web-design.php">Webdesign</a> <a href="http://www.marketingignite.com/hotel-internet-marketing.php">Hotel Internet Marketing</a> <a href="http://www.marketingignite.com/actors.php">Video Marketing</a> <a href="http://www.marketingignite.com/webhosting.php">Web Hosting</a> </div>
+<div id="aboutusmenu" class="anylinkcss" style="text-align:left"> <a href="http://www.marketingignite.com/about.php">About Us</a> <a rel="nofollow" href="http://www.marketingignite.com/faq.php">FAQ's</a> </div>
+<div id="freetoolsmenu" class="anylinkcss" style="text-align:left"> <a href="http://www.marketingignite.com/marketing-resources.php">43 Free Marketing Tools</a> <a href="http://www.marketingignite.com/online-marketing-articles.php">Online Marketing Articles</a> <a href="http://www.marketingignite.com/keyword-analyzer.php">Keyword Analyzer</a> <a href="http://www.marketingignite.com/free-search-engine-submission.php">Free Submission</a> <a href="http://www.marketingignite.com/meta-tags-generator.php">Meta Tags Generator</a> <a href="http://www.marketingignite.com/link-popularity-check.php">Link Popularity Check</a> <a href="http://www.marketingignite.com/keyword-suggestion-tools.php">Keyword Suggestion Tool</a> <a href="http://www.marketingignite.com/broken-link-checker.php">Broken Links Checker</a> <a href="http://www.marketingignite.com/sitemap-generator.php">Sitemap Generator</a> <a href="http://www.marketingignite.com/robots-generator.php">Robots.txt File Generator</a> <a href="http://www.marketingignite.com/backlink-checker.php">Backlink Checker</a> <a href="http://www.marketingignite.com/google-pagerank-prediction.php">Google PageRank Prediction</a> <a href="http://www.marketingignite.com/google-banned-checker.php">Google Banned Checker</a> <a href="http://www.marketingignite.com/html-optimizer.php">Html Optimizer</a> <a href="http://www.marketingignite.com/website-speed-test.php">Website Speed Test</a> <a href="http://www.marketingignite.com/reciprocal_link_checker.php">Reciprocal Link Checker</a> <a href="http://www.marketingignite.com/link-price-calculator.php">Link Price Calculator</a> <a href="http://www.marketingignite.com/htaccess-url-rewrite.php">.htaccess URL Rewrite</a> <a href="http://www.marketingignite.com/cloaking-checker.php">Cloaking Checker</a> <a href="http://www.marketingignite.com/marketing-resources.php">and more...</a> </div>
+</td></tr>
+<tr><td height="100%">
+
+<table cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr>
+<td bgcolor="#01547C"><img alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" width="5"></td>
+<td width="230" align="right" valign="top" style="background-color:#01547C" class="main-left-bar">
+<style type="text/css">
+.style11 a {
+text-decoration:underline;
+}
+/*.styleforform input, textarea, select{
+color: #000;
+background: #569CBE;
+border: 1px solid #003651;
+scrollbar-base-color: #3190BE;
+}*/
+.dek {
+font-family:Arial;
+font-size:14px;
+color:#fff;
+font-weight:bold;
+text-align:justify;
+}
+.yellowtext {
+font-family:Arial;
+font-size:8px;
+font-weight:bold;
+color:#FFFF00;
+<style type="text/css">
+
+}
+.bodyText strong {
+	font-size:16px !important;
+}
+</style>
+<script language="JavaScript" type="text/javascript">
+
+function OpenWin(url,name,w,h){
+	var ht=h+150;
+	window.open(url,name,'width='+w+',height='+ht+',titlebar=0,menubar=no,status=no,location=no,toolbar=no,scrollbars=no');
+	
+}
+</script>
+<link href="style.css" rel="stylesheet" type="text/css">
+<table cellspacing="0" cellpadding="0" width="235">
+<tbody><tr><td height="5px;">&nbsp;</td></tr>
+  <tr> 
+    <td align="center" width="215" style="background-image:url(images/img_callus.jpg); width:215px; height:129px; background-position:center; background-repeat:no-repeat; padding-top:20px;"><br>
+</td>
+  </tr>
+    <tr>
+          <td>&nbsp;</td>
+        </tr>
+  <tr> 
+    <td align="center" height="37" style="background-image:url(images/hd_marketing.png); background-position:center; background-repeat:no-repeat;"><img alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif"><br>
+</td>
+  </tr>
+    <tr>
+          <td>&nbsp;</td>
+        </tr>
+  <tr> 
+    <td align="right"> <table cellspacing="0" cellpadding="0" width="95%">
+    <tbody><tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left">&nbsp;&nbsp;<span class="yellowtext">NEW</span><a href="http://www.whiteboardexplainers.com" class="leftlinks">Explainer Videos </a></td>
+        </tr>
+           <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+		<tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="http://www.marketingignite.com/SEO-Training-Course/" class="leftlinks">Online SEO Training</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="pay-per-click.php" class="leftlinks">Pay 
+            Per Click Search Engines</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="http://www.marketingignite.com/SEO-Services-Thailand.php" class="leftlinks">Search 
+            Engine Optimization</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="online-media-buy.php" class="leftlinks">Online 
+            Media Buy </a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="autoresponders.php" class="leftlinks">Multiple 
+            Auto Responders</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="affiliate-marketing.php" class="leftlinks">Affiliate 
+            Marketing </a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="consulting.php" class="leftlinks">Consultation</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="website-performance-analysis.php" class="leftlinks">Website 
+            Performance Analysis</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="link-campaign.php" class="leftlinks">Link 
+            Campaign</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="web-copywriting.php" class="leftlinks">Web 
+            Copywriting</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr>
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="http://www.marketingignite.com/hotel-internet-marketing.php" class="leftlinks">Hotel Internet Marketing</a></td>
+        </tr>
+<tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="web-design.php" class="leftlinks">Webdesign</a></td>
+        </tr>
+     	<tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="actors.php" class="leftlinks">Video Marketing</a></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr> 
+          <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+          <td style="padding-right:10px; " align="left"><a href="webhosting.php" class="leftlinks">Web Hosting</a></td>
+        </tr>
+				<tr> 
+          <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="1" bgcolor="#585857"></td>
+        </tr>
+        <tr>
+          <td rowspan="2"><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+           <td style="padding-right:10px; " align="left"><a href="marketing-resources.php" class="leftlinks">Free Marketing Tools</a></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr valign="top"> 
+    <td height="10"><script type="text/javascript" src="http://forms.aweber.com/form/09/530898709.js"></script></td>
+  </tr>
+  <tr><td>&nbsp;</td></tr>
+  
+  <tr> 
+    <td height="10"></td>
+  </tr>
+  
+   <tr> 
+    <td height="10"></td>
+  </tr>
+  
+  
+	
+  <tr> 
+    <td height="10" align="center"><script type="text/javascript" src="http://download.skype.com/share/skypebuttons/buttons/transparent_dropdown/dropdown.js"></script> 
+</td>
+  </tr>
+  <tr> 
+    <td height="2" align="center"></td>
+  </tr>
+  <tr> 
+    <td height="10" align="center"> 
+      <div id="skypeTransparentDrp"> 
+        <div id="skypeDropdown-transparent-head" style="height:31px;"><a href="skype:marketing-ignite?call" onclick="return skypeCheck();" id="skypeTransparentDrp-Call"><img src="images/spacer.gif" alt="" name="skypeTransparentDrpCall" width="143" height="31" border="0" id="skypeTransparentDrpCall" style="background-image:url(images/call.png); background-repeat:no-repeat;"></a><a href="#" id="skypeTransparentDrp-Switch" onclick="return false;"><img src="images/spacer.gif" alt="" name="skypeTransparentDrpArrow" width="30" height="31" border="0" id="skypeTransparentDrpArrow" style="background-image:url(images/right-skype.gif); background-repeat:no-repeat;" onmouseover="skypeTransparentDrpDown()" onmouseout="skypeTransparentDrpUp();"></a></div>
+        <div id="skypeDropdown-transparent" style="display: none;"> <a href="skype:marketing-ignite?chat" onclick="return skypeCheck();"><img src="images/spacer.gif" onmouseover="skpBtnOvr(this)" onmouseout="skpBtnOut(this)" width="173" height="26" id="SkpTranspBtn-2" alt="" style="background-image:url(images/2.png); background-repeat:no-repeat;"></a> 
+          <a href="skype:marketing-ignite?add" onclick="return skypeCheck();"><img src="images/spacer.gif" onmouseover="skpBtnOvr(this)" onmouseout="skpBtnOut(this)" width="173" height="26" id="SkpTranspBtn-3" alt="" style="background-image:url(images/3.png); background-repeat:no-repeat;"></a> 
+          <a href="skype:marketing-ignite?userinfo" onclick="return skypeCheck();"><img src="images/spacer.gif" onmouseover="skpBtnOvr(this)" onmouseout="skpBtnOut(this)" width="173" height="26" id="SkpTranspBtn-5" alt="" style="background-image:url(images/5.png); background-repeat:no-repeat;"></a> 
+          <a href="skype:marketing-ignite?sendfile" onclick="return skypeCheck();"><img src="images/spacer.gif" onmouseover="skpBtnOvr(this)" onmouseout="skpBtnOut(this)" width="173" height="31" id="SkpTranspBtn-6" alt="" style="background-image:url(images/6.png); background-repeat:no-repeat;"></a>        </div>
+      </div>
+	  </td>
+  </tr>
+  <tr> 
+    <td align="center">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td align="center" style="display:none;"> <table cellspacing="0" cellpadding="0" width="217">
+        <tbody><tr> 
+          <td height="37" style="background-image:url(images/hd_clients.gif); background-repeat:no-repeat; background-position:center;"><img alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif"></td>
+        </tr>
+        <tr> 
+          <td><table cellspacing="0" cellpadding="0" style="border-bottom:1pt solid #BBBBBB;border-left:1pt solid #BBBBBB;border-right:1pt solid #BBBBBB" class="txt" width="217">
+              <tbody><tr> 
+                <td width="100%" align="center"> 
+						<table cellspacing="0" cellpadding="0" width="95%" class="txt1">
+						<tbody><tr> 
+						  <td><marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="1" scrolldelay="30" direction="up" width="190" height="200"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+							  <tbody><tr>
+								<td><p>&nbsp;</p>
+	 We have been using Marketing Ignite for more than 7 years now and we are 
+	very pleased with the progress throughout all these years.  Marketing Ignite
+	is a big part of our success and we cannot live without you.<br>
+	<br>
+	 
+	
+	<strong>Pat Robertson</strong><br>
+	<strong>Category:</strong> Vacation Rentals<br>
+	<strong>Country:</strong> U.S.A<br>
+	---------------------------------<br>
+	<br>
+	 
+	
+	Just wanted to let you know that you have done a terrific job
+	on optimizing our website. After 3 months we have numberous top 10
+	placements in Google, Yahoo and MSN.<br><br>
+	 
+	<strong>Steven Walker</strong><br> 
+	<strong>Category:</strong> Real Estate<br>
+	<strong>Country:</strong> U.S.A<br>
+	 
+	---------------------------------<br>
+	<br>
+	 
+	We have implemented some of your online marketing advice and we can see a 
+	dramatic improvement in the amount of increased inquiries on our website.
+	Thanks for helping us save time, make more money, and get up to speed quickly.
+	We would never be able to do this ourselves.<br><br>
+	 
+	<strong>Lauren Wilkinson</strong><br>
+	<strong>Category:</strong> Investments<br>
+	<strong>Country:</strong> Australia<br>
+	 
+	
+	---------------------------------<br>
+	<br>
+	 
+	I am very impressed with Marketing Ignite and their savy internet
+	marketing techniques they have implemented on our website.  We have
+	definitely seen a steady rise in traffic and sale on our website.
+	Keep up the great work and thanks so far.<br><br>
+	 
+	<strong>Umaporn Petchsimoung</strong><br>
+	<strong>Category:</strong> Travel<br>
+	<strong>Country:</strong> Thailand<br>
+	 
+	
+	---------------------------------<br>
+	<br>
+	 
+	Marketing Ignite Co. Ltd has proven be be a great investment for 
+	our online marketing efforts.  Since start our online sales have 
+	more than trippled.  Thanks a million for all the work done on our
+	website so far.<br><br>
+	 
+	<strong>Catherine Hoover</strong><br>
+	<strong>Category:</strong> Flowers<br>
+	<strong>Country:</strong> U.S.A<br>
+	 
+	---------------------------------<br>
+	<br>
+	 
+	Wow, our website conversion rate increased 352% after implementing 
+	your online marketing techniques on our website.
+	Before we did not know what how to sell more on our site but now
+	we have definitely been enlightened.  We are forever thankful.<br><br>
+	 
+	
+	<strong>Bob Maguire</strong><br>
+	<strong>Category:</strong> Travel<br>
+	<strong>Country:</strong> England<br>
+	---------------------------------<br>
+	<br>
+	<span class="txt1">From over 8 years of online marketing experience under our belt, here 
+	are some testimonials of some satisfied clients.  Please note that
+	we cannot display website addresses due to privacy reasons. However,
+	we will provide actual URL's to qualified clients.</span>
+	<!-- END SCROLLER CONTENT -->
+	</td>
+							  </tr>
+							</tbody></table>
+	</marquee>                      </td>
+						</tr>
+					  </tbody></table>
+			    </td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="50"></td>
+  </tr>
+  <tr> 
+    <td height="10" align="center" class="txt1"><b>As seen in...</b></td>
+  </tr>
+  <tr> 
+    <td height="10"></td>
+  </tr>
+  <tr> 
+    <td height="5" align="center"></td>
+  </tr>
+  <tr> 
+    <td align="center"></td>
+  </tr>
+  <tr> 
+    <td align="center"></td>
+  </tr>
+  <tr> 
+    <td width="215" height="125" align="center" style="background-image:url(images/send-to-friend.gif); background-repeat:no-repeat; background-position:center;"><a href="#" onclick="OpenWin('send-to-friend.php?p_id=',name,500, 200);" class="orangelink"><img src="images/spacer.gif" border="0" alt="" width="196" height="125"></a>    </td>
+	</tr><tr>
+	  <td align="center"></td>
+  </tr>
+	<tr>
+      <td align="center">
+      <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+      <td><img align="absmiddle" src="images/seal2.gif" alt=" " border="0"></td>
+      <td>&nbsp;</td>
+      <td><a href="http://www.internettradebureau.com/cgi-bin/hl/details.cgi?id=4560" target="_blank" rel="nofollow"><img src="images/itb.gif" alt="" border="0"></a></td>
+      </tr></tbody></table>
+      </td>
+  </tr>
+	<tr>
+      <td align="center"></td>
+  </tr>
+	<tr>
+      <td height="25" align="center"><a href="http://www.emarketingassociation.com/validation_marketingignite.htm" target="_blank" rel="nofollow"><img src="images/seal1.gif" alt="Marketing Ignite : Search engine Positioning, marketing " border="0"></a></td>
+  </tr>
+	<tr>
+      <td align="center"></td>
+  </tr>
+	<tr>
+      <td align="center"></td>
+  </tr>
+	<tr>
+	<td align="center"></td>
+	</tr>
+	<tr>
+	  <td align="center"><!-- GeoTrust Verified Domain[tm] Smart Icon tag. Do not edit. -->
+<script language="JavaScript" type="text/javascript" src="http://smarticon.geotrust.com/vdom.js"></script>
+<!-- end GeoTrust Smart Icon tag -->
+<a href="http://www.internettradebureau.com/cgi-bin/hl/details.cgi?id=4560" target="_blank" rel="nofollow"></a></td>
+  </tr>
+	<tr>
+	<td align="center"></td>
+	</tr>
+  
+</tbody></table>
+</td>
+<td width="1"></td>
+<td width="600" align="center" valign="top">
+<!-- middle part-->
+
+<table cellspacing="0" cellpadding="0" width="90%" class="txt">
+<tbody><tr>
+  <td height="10" align="left"></td>
+</tr>
+<tr>
+  <td height="10" align="left"></td>
+</tr>
+<tr>
+  <td height="10" align="left">    <strong class="txtorangeb">Privacy Policy </strong> </td>
+</tr>
+<tr>
+  <td height="10" align="left"></td>
+</tr>
+<tr>
+  <td height="10" align="left"></td>
+</tr>
+<tr><td height="10" align="left"><p align="justify">Marketing Ignite Co. Ltd.,&nbsp; believes that strong internet privacy is crucial for the ongoing success of the Internet.&nbsp;&nbsp; Marketing Ignite will never release your personal information to anyone else without your consent. Your privacy is very important to us and we will not jeopardize your trust. <br>
+      <br>
+      <strong class="txtorangeb">Information Collection and Use: </strong>
+    </p><p align="justify">Marketing Ignite only collects information that you enter on our site so we will be able to respond to your questions and requests.&nbsp; We do by no means distribute or share (sell or rent) this information to anyone ever.&nbsp; <br>
+        <br>
+        <br>
+        <strong class="txtorangeb">Use Of Traffic Data </strong></p>
+    <p align="justify"><strong class="txtorangeb">          </strong>Every time a visitor comes to Marketing Ignite website, we collect some information to improve the overall quality of the user's online experience at our site. At Marketing Ignite, we collect referral data, which means we record the address of the last URL a user visited prior entering Marketing Ignite website.&nbsp;Marketing Ignite receives your IP address each time you view a web page from our site. Your IP address is not linked to your email address or any other personally identifiable information. Your IP address may be used for various purposes such as collect browser and platform type, visitor information for purposes of service improvement, but no one will be able to identify you or contact you. Website visitor behavior information is compiled in aggregate and does not represent individually identifiable information. <br>
+          <br>
+          <br>
+          <strong class="txtorangeb">Use Of Data From Paid Submissions Or Optimization Services </strong><br>
+          <br>
+          All website information details from our advertisers provided for our pay per click search engines services will only be forwarded to Yahoo, Google, and MSN.&nbsp; However, we will not provide your email address to these engines.&nbsp; Instead we will provide them our own email address. <br>
+          <br>
+          <strong class="txtorangeb">Policy Amendments </strong><br>
+          <br>
+    Marketing may amend this Privacy Policy from time to time. If we make any substantial changes in the way we use your personal information, or introduce new products and services, this policy will be updated and we will notify you by posting a prominent announcement on the site. <br>
+    If you have questions or suggestions, send an email<br>
+    <br>
+    Marketing Ignite cannot and does not assume any responsibility for any actions or omissions of third parties. <br>
+    </p>
+    <p> 
+    
+    </p></td></tr>
+<tr><td><div align="left"></div>
+  </td></tr>
+</tbody></table>
+
+
+<!-- middle part--></td>
+<td width="1"></td>
+<td bgcolor="#01547C" width="200" valign="top" align="left" style="padding-left:10px;" class="main-right-bar"> <script language="javascript" type="text/javascript">
+function checkEmail()
+{
+//alert('ok');
+
+		 if(document.emailit.name.value=="")
+		  {
+		   alert("Please enter your Name");
+		   document.emailit.name.focus();
+		   return false;
+		  }
+		 if(document.emailit.email.value=="")
+		 {
+			 alert("Please enter your E-mail Id!");
+			 document.emailit.email.focus();
+			 return false;
+		}
+		if(document.emailit.email.value!="")
+ 		 {
+        remail=/^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		if(!remail.test(document.emailit.email.value))
+		{
+		alert("Please enter valid email address");
+		document.emailit.email.focus();
+		return false;
+		}
+	}
+		 if(document.emailit.phone.value=="")
+		 {
+			 alert("Please enter your phone number!");
+			 document.emailit.phone.focus();
+			 return false;
+		}
+		 if(document.emailit.country.value=="")
+		 {
+			 alert("Please select Country");
+			 document.emailit.country.focus();
+			 return false;
+		}
+		
+		 if(document.emailit.txtNumber.value=="")
+		 {
+			 alert("Please enter Verification Code!");
+			 document.emailit.txtNumber.focus();
+			 return false;
+		}
+return true;
+ }
+			
+</script>
+<style type="text/css">
+.hdbg {
+	background:url(../images/hd_bg.jpg);
+	background-repeat:no-repeat;
+	text-align:center;
+	width:185px;
+}
+/*.styleforform input, textarea, select{
+color: #000;
+background: #569CBE;
+border: 1px solid #003651;
+scrollbar-base-color: #3190BE;
+text-align:left;
+}*/
+</style>
+
+<table cellpadding="0" cellspacing="0" id="rightcontent" width="166">
+
+<tbody><tr>
+  	<td align="center">
+		<p></p><table width="194" class="smltxt">
+		<tbody><tr><td align="center"><br><!--<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="220" height="115" id="Clients" align="middle">
+		  <param name="allowScriptAccess" value="sameDomain" />
+		  <param name="allowFullScreen" value="false" />
+		  <param name="movie" value="Clients.swf" />
+		  <param name="quality" value="high" />
+		  <param name="bgcolor" value="#01547c" />
+		  <embed src="Clients.swf" quality="high" bgcolor="#01547c" width="220" height="115" name="Clients" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+		</object>-->
+        
+        <!-- <a href="testimonials.php"><div id="slide"><img class="Showing" src="slides/slide01.jpg" width="220" />
+						<img class="Showing" src="slides/slide02.jpg" width="220" />
+						<img class="Showing" src="slides/slide03.jpg"  width="220"/>
+						<img class="Showing" src="slides/slide04.jpg" width="220" />
+						<img class="Showing" src="slides/slide05.jpg" width="220" />
+						</div></a>-->
+                      <a href="testimonials.php">  <div style="width:220px; height:115px;" id="slide">
+                          <img class="Showing" src="slides/slide01.jpg" width="220" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 6; opacity: 1;">
+						<img class="Showing" src="slides/slide02.jpg" width="220" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">
+						<img class="Showing" src="slides/slide03.jpg" width="220" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;">
+						<img class="Showing" src="slides/slide04.jpg" width="220" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">
+						<img class="Showing" src="slides/slide05.jpg" width="220" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">
+                        </div></a>
+        <br><br></td>
+		  </tr>
+		
+		<tr><td>&nbsp;</td></tr>
+		<tr><td style="padding-right:0px;">
+		
+		<a href="images/update1.jpg" class="highslide" onclick="return hs.expand(this)" style="color:#092e51; text-decoration:none; font-weight:bold;">
+		
+		<!--<a href="javascript:CaricaFoto('../images/update1.jpg')">--><img src="../images/thbm-update1.jpg" border="0"></a><br><a href="javascript:CaricaFoto('../images/update1.jpg')"></a></td></tr>
+		<tr><td colspan="1"><p>The Managing Director <strong>Johan Hedin</strong> spoke at the BMN New Digital Media Marketing Conference in Bangkok about how to maximize your SEO campaign in Google using the latest Technologies &amp; Trends.</p></td>
+  		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+		  <td width="60%">
+			<p class="dek">Find Us Here</p>
+			<p>Marketing Ignite Co. Ltd.<br>
+
+2922/144 Charn Issara Tower 2<br>
+
+4th Fl. Suite 406<br>
+
+New Petchburi Road<br>
+
+Bangkapi, Huay Kwang<br>
+
+Bangkok 10320
+		<br>
+		+66 (0)2-716-5622  (Office)<br>
+	<!--+66 (0)2-231-1565   (Fax)--></p>
+			<p>Marketing Ignite Co. Ltd.<br>
+			11734 Wilshire Blvd C1105<br>
+			Los Angeles CA 90025<br>
+			U.S.A.<br><br>
+			  + 1 (310) 584-7293 (US Office)</p><br>
+	
+			  <a href="http://www.marketingignite.com/contact.php"><span class="dek">Click here for directions</span></a><p></p></td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		</tbody></table></td>
+  </tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td style="padding-top:10px;" align="center"><h1>Subscribe to RSS Feeds</h1>
+<a href="http://feeds.feedburner.com/MarketingIgniteBlog" class="feed-icon" target="_blank"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate" border="0"></a></td></tr>
+<tr><td style="padding-top:25px;" align="center"><h1>Share This</h1><a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" alt="" border="0"></a>
+      <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script></td></tr>
+<tr><td style="padding-top:25px; text-align:left" valign="bottom"><h1><a href="/video">Online Marketing Videos</a></h1></td></tr>
+<tr><td valign="top">
+	<table cellspacing="0" cellpadding="0" width="100%">
+			<tbody><tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; letter-spacing:-0.3px; font-size:10px;"><a href="/video/seo" class="leftlinks">Search Engine Optimization</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/video/socialmedia" class="leftlinks">Social Media Marketing</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/video/conversion" class="leftlinks">Website Sales Conversion</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+		  </tbody></table>
+</td></tr>
+<tr><td style="padding-top:15px;" valign="bottom"><h1><a href="/blog">Marketing Articles</a></h1></td></tr>
+<tr><td valign="top">
+	<table cellspacing="0" cellpadding="0" width="100%">
+			<tbody><tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing" src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; letter-spacing:-0.3px; font-size:10px;"><a href="/blog/affiliate" class="leftlinks">Affiliate Marketing</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/blog/strategy" class="leftlinks">SEO Strategy</a></td>
+			</tr><tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/blog/socialmedia" class="leftlinks">Website Promotion</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/blog/seo/onsite" class="leftlinks">On-site Optimization</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/blog/seo/offsite" class="leftlinks">Off-site Optimization</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/blog/ppc" class="leftlinks">Pay-Per-Click Advertising</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/blog/conversion" class="leftlinks">Website Sales Conversion</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+			<tr> 
+			  <td><img height="6" width="9" alt="Marketing Ignite : Search engine Positioning, marketing " src="images/spacer.gif" style="background-image:url(images/bullet1.gif); background-repeat:no-repeat;"></td>
+			  <td style="padding-right:10px; "><a href="/blog/socialmedia" class="leftlinks">Social Media Marketing</a></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#0F0F0E"></td>
+			</tr>
+			<tr> 
+			  <td colspan="2" height="1" bgcolor="#585857"></td>
+			</tr>
+		  </tbody></table>
+</td></tr>
+<!-- News for Company Page // 7/9/10 -->
+<tr><td style="padding-top:15px;" valign="bottom"><h1><a href="/blog">Marketing Ignite in the News!</a></h1></td></tr>
+<tr><td valign="top">
+	<table cellspacing="3" cellpadding="3" width="100%">
+			<tbody><tr align="center"><td align="center">
+			<a href="../images/news/Google-News.jpg" class="highslide" onclick="return hs.expand(this)">
+	<img src="../images/Google-News.png" alt="Marketing Ignite in Google News!"></a>
+	<div id="closebutton" class="highslide-overlay closebutton" onclick="return hs.close(this)" title="Close"></div>
+	</td></tr>
+			<tr><td align="center">
+			<a href="../images/news/Yahoo-News.jpg" class="highslide" onclick="return hs.expand(this)">
+	<img src="../images/Yahoo-News.png" alt="Marketing Ignite in Yahoo! News"></a>
+			</td></tr>
+			<tr><td align="center">
+			<a href="../images/news/Usa-Today.jpg" class="highslide" onclick="return hs.expand(this)">
+	<img src="../images/usa-today.png" alt="Marketing Ignite in USA Today!" width="85"></a>
+	</td></tr>
+			<tr align="center"><td><p class="style11">Click on each icon to view the news SERP.</p></td></tr>
+		  </tbody></table>
+</td></tr>
+</tbody></table>
+
+</td>
+</tr>
+
+
+</tbody></table>
+
+
+</td></tr>
+<tr><td align="center"><link href="style.css" rel="stylesheet" type="text/css">
+<!--<script type="text/javascript" src="formCheck.js"></script>-->
+ <script language="javascript" type="text/javascript">
+
+
+function checkService()
+{
+//alert('ok');
+
+		if(document.getElementById('name1').value==""){
+				 alert("Please enter your Name!");
+ 				  document.getElementById('name1').focus();
+				  return false;
+				  }
+		if(document.getElementById('email1').value==""){
+				 alert("Please enter your E-mail Id!");
+				  document.getElementById('email1').focus();
+				  return false;
+				  }
+		 if((/^[a-zA-Z0-9._-]+@([a-zA-Z0-9.-]+\.)+[a-zA-Z.]{2,5}$/).exec(document.getElementById('email1').value)== null){
+				  alert("Please enter valid E-mail address!");
+				  document.getElementById('email1').focus();
+				  return false;
+				}	
+		if(document.getElementById('phone1').value==""){
+				 alert("Please enter your Telephone No.!");
+				 document.getElementById('phone1').focus();
+				  return false;
+				  }
+		if(isNaN(document.getElementById('phone1').value))
+				  {
+				 alert(" Telephone No. must be numeric!");
+				 document.getElementById('phone1').focus();
+				  return false;				  
+				  }
+		if(document.getElementById('country1').value==""){
+				 alert("Please select Country!");
+				  document.getElementById('country1').focus();
+				  return false;
+				  }
+		
+		if(document.getElementById('txtNumber1').value==""){
+				 alert("Please enter Verification Code!");
+				  document.getElementById('txtNumber1').focus();
+				  return false;
+				  }
+		
+			
+				return true;
+				
+			 }
+			
+</script>
+<table width="1024" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tbody><tr>
+        <td align="center" class="txtbigblack" width="100%" colspan="5">
+            <table cellspacing="0" cellpadding="0" width="100%">
+                <tbody><tr>
+                    <td width="100%" style="background-image:url(images/footer_back.gif); background-repeat : repeat-x;" align="center" class="txtbigblack" height="30">                        <strong>Fill Out the Form Below and Receive a Free Website Evaluation</strong>
+                                                </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr> 
+<tr><td align="center" bgcolor="#f3f2f2">
+<form method="post" action="" name="emailit1" target="_top" class="styleforform">
+ <a name="sform"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="4" class="txt">
+              				
+							<tbody><tr>
+              				  <td height="10" colspan="2" class="style2"></td>
+	    </tr>
+              				<tr align="center">
+              				  <!--<td class="style2">&nbsp;</td> -->
+	                          <td colspan="2" align="left" class="style2" bgcolor="e9e9e9" style="padding:10px;"><span>
+	                                                          </span><strong>An experienced internet marketing&nbsp;professional will contact you shortly&nbsp;to discuss your marketing needs, 
+objectives, and strategies to&nbsp;boost website traffic and sales on your website
+                              </strong></td>
+		  </tr>
+              				<tr align="center">
+              				  <td colspan="2" class="style2"><b></b>
+							  <script type="text/javascript">		</script>
+		    												
+							  </td>
+		  </tr>
+              				<tr>
+              				  <td class="style2">&nbsp;</td>
+              				  <td align="left" class="style2">&nbsp;</td>
+		  </tr>
+              				<tr>
+                				<td width="40%" class="style2"><div align="right" class="style2">Your Name&nbsp;</div></td>
+                				<td width="60%" align="left" class="style2"><div align="left">
+             <input name="name1" type="text" class="style2" value="" size="30" id="name1" style="width:302px; height:25px; border:solid 2px #cecbcb;">
+              			      </div></td>
+              </tr>
+              <tr>
+                <td class="style2"><div align="right" class="style2">Email&nbsp;</div></td>
+                <td align="left" class="style2"><div align="left">
+                  <input name="email1" type="text" class="style2" id="email1" value="" size="30" style="width:302px; height:25px; border:solid 2px #cecbcb;">
+              </div></td>
+              </tr>
+              <tr>
+                <td class="style63"><div align="right" class="style79">Telephone (enter only digits and NO characters)&nbsp;</div></td>
+                <td align="left" class="style63"><div align="left">
+                  <input name="phone1" type="text" class="style2" id="phone1" value="" size="30" style="width:302px; height:25px; border:solid 2px #cecbcb;">
+                </div></td>
+              </tr>
+              <tr>
+                <td class="style63"><div align="right" class="style2">Country&nbsp;</div></td>
+                <td align="left" class="style63"><div align="left">
+                  <select name="country1" class="style2" style="width:302px; height:25px; border:solid 2px #cecbcb;" id="country1">
+                    <option value="" selected=""> --------- </option>
+                    <option value="USA">United States of America</option>
+                    <option value="UK">United Kingdom</option>
+                    <option value="---"> --------- </option>
+                    <option value="Abu Dhabi">Abu Dhabi</option>
+                    <option value="Afghanistan">Afghanistan</option>
+                    <option value="Albania">Albania</option>
+                    <option value="Algeria">Algeria </option>
+    
+                    <option value="American Samoa">American Samoa</option>
+    
+                    <option value="Andorra">Andorra</option>
+    
+                    <option value="Angola">Angola</option>
+    
+                    <option value="Anguilla">Anguilla</option>
+    
+                    <option value="Antigua">Antigua </option>
+    
+                    <option value="Argentina">Argentina</option>
+    
+                    <option value="Armenia">Armenia </option>
+    
+                    <option value="Aruba">Aruba</option>
+    
+                    <option value="Australia">Australia</option>
+    
+                    <option value="Austria">Austria</option>
+    
+                    <option value="Azerbaijan">Azerbaijan</option>
+    
+                    <option value="Bahamas">Bahamas</option>
+    
+                    <option value="Bahrain">Bahrain</option>
+    
+                    <option value="Bangladesh">Bangladesh</option>
+    
+                    <option value="Barbados">Barbados</option>
+    
+                    <option value="Belarus">Belarus</option>
+    
+                    <option value="Belgium">Belgium</option>
+    
+                    <option value="Belize">Belize</option>
+    
+                    <option value="Benin">Benin</option>
+    
+                    <option value="Bermuda">Bermuda</option>
+                    <option value="Bhutan">Bhutan</option>
+                    <option value="Bolivia">Bolivia</option>
+                    <option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+                    <option value="Botswana">Botswana</option>
+                    <option value="Brazil">Brazil</option>
+                    <option value="British Virgin Islands (Tortola)">British Virgin Islands (Tortola)</option>
+                    <option value="Brunei Darussalam">Brunei Darussalam </option>
+                    <option value="Bulgaria">Bulgaria</option>
+                    <option value="Burkina Faso">Burkina Faso</option>
+                    <option value="Burma">Burma</option>
+                    <option value="Burundi">Burundi</option>
+                    <option value="Cambodia">Cambodia</option>
+                    <option value="Cameroon">Cameroon</option>
+                    <option value="Canada">Canada</option>
+                    <option value="Cape Verde">Cape Verde</option>
+                    <option value="Cayman Islands">Cayman Islands</option>
+    
+                    <option value="Central African Republic">Central African Republic</option>
+    
+                    <option value="Chad">Chad</option>
+    
+                    <option value="Chile">Chile</option>
+    
+                    <option value="China">China</option>
+    
+                    <option value="Christmas Island">Christmas Island</option>
+    
+                    <option value="Cocos Islands">Cocos Islands</option>
+    
+                    <option value="Colombia">Colombia</option>
+    
+                    <option value="Comoros">Comoros</option>
+    
+                    <option value="Congo">Congo</option>
+    
+                    <option value="Congo(Rep.Democratique)">Congo(Rep.Democratique)</option>
+    
+                    <option value="Cook Islands">Cook Islands</option>
+    
+                    <option value="Costa Rica">Costa Rica</option>
+    
+                    <option value="Cote D'Ivoire">Cote D'Ivoire</option>
+    
+                    <option value="Croatia">Croatia</option>
+    
+                    <option value="Cuba">Cuba</option>
+    
+                    <option value="Curacao (Netherlands Antillen)">Curacao (Netherlands Antillen)</option>
+    
+                    <option value="Cyprus" <strong="">&gt;Cyprus</option>
+    
+                    <option value="Czech Republic">Czech Republic</option>
+    
+                    <option value="Denmark">Denmark</option>
+    
+                    <option value="Djibouti">Djibouti</option>
+    
+                    <option value="Dominica">Dominica</option>
+    
+                    <option value="Dominican Republic">Dominican Republic</option>
+    
+                    <option value="Dubai">Dubai</option>
+    
+                    <option value="Ecuador">Ecuador</option>
+    
+                    <option value="Egypt">Egypt</option>
+    
+                    <option value="El Salvador">El Salvador</option>
+    
+                    <option value="Equatorial Guinea">Equatorial Guinea</option>
+    
+                    <option value="Eritrea">Eritrea</option>
+    
+                    <option value="Espana">Espana</option>
+    
+                    <option value="Estonia">Estonia</option>
+    
+                    <option value="Ethiopia">Ethiopia</option>
+    
+                    <option value="Falkland Islands">Falkland Islands</option>
+    
+                    <option value="Faroe Islands">Faroe Islands</option>
+    
+                    <option value="Fiji">Fiji</option>
+    
+                    <option value="Finland">Finland</option>
+    
+                    <option value="France">France</option>
+    
+                    <option value="French Guiana">French Guiana</option>
+    
+                    <option value="French Polynesie">French Polynesie</option>
+    
+                    <option value="Gambia">Gabon</option>
+    
+                    <option value="Gambia">Gambia</option>
+    
+                    <option value="Georgia">Georgia</option>
+    
+                    <option value="Germany">Germany</option>
+    
+                    <option value="Ghana">Ghana</option>
+    
+                    <option value="Gibraltar">Gibraltar</option>
+    
+                    <option value="Great Britain">Great Britain</option>
+    
+                    <option value="Greece">Greece</option>
+    
+                    <option value="Greenland">Greenland</option>
+    
+                    <option value="Grenada">Grenada</option>
+    
+                    <option value="Guadeloupe">Guadeloupe</option>
+    
+                    <option value="Guam">Guam</option>
+    
+                    <option value="Guatemala">Guatemala</option>
+    
+                    <option value="Guinea">Guinea</option>
+    
+                    <option value="Guinea Bissau">Guinea Bissau</option>
+    
+                    <option value="Guyana">Guyana</option>
+    
+                    <option value="Haiti">Haiti</option>
+    
+                    <option value="Holland">Holland</option>
+    
+                    <option value="Honduras">Honduras</option>
+    
+                    <option value="Hong Kong">Hong Kong</option>
+    
+                    <option value="Hungary">Hungary</option>
+    
+                    <option value="Iceland">Iceland</option>
+    
+                    <option value="India">India</option>
+    
+                    <option value="Indonesia">Indonesia</option>
+    
+                    <option value="Iran">Iran</option>
+    
+                    <option value="Iraq">Iraq</option>
+    
+                    <option value="Ireland">Ireland</option>
+    
+                    <option value="Israel">Israel</option>
+    
+                    <option value="Italy">Italy</option>
+    
+                    <option value="Ivory Coast">Ivory Coast</option>
+    
+                    <option value="Jamaica">Jamaica</option>
+    
+                    <option value="Japan">Japan </option>
+    
+                    <option value="Johnston Island">Johnston Island</option>
+    
+                    <option value="Jordan">Jordan</option>
+    
+                    <option value="Kazakhstan">Kazakhstan</option>
+    
+                    <option value="Kenya">Kenya</option>
+    
+                    <option value="Kiribati">Kiribati</option>
+    
+                    <option value="Korea (Republic Of)">Korea (Republic Of)</option>
+    
+                    <option value="Korea Democratic People's Republic">Korea Democratic People's Republic</option>
+    
+                    <option value="Kuwait">Kuwait</option>
+    
+                    <option value="Kyrgystan">Kyrgystan</option>
+    
+                    <option value="Laos People's Democratic Republic">Laos People's Democratic Republic</option>
+    
+                    <option value="Latvia">Latvia</option>
+    
+                    <option value="Lebanon">Lebanon</option>
+    
+                    <option value="Lesotho">Lesotho</option>
+    
+                    <option value="Liberia">Liberia</option>
+    
+                    <option value="Liechtenstein">Liechtenstein</option>
+    
+                    <option value="Lithuania">Lithuania</option>
+    
+                    <option value="Luxembourg">Luxembourg</option>
+    
+                    <option value="Lybyan Arab Jamahiriya">Lybyan Arab Jamahiriya</option>
+    
+                    <option value="Macau">Macau</option>
+    
+                    <option value="Macedonia">Macedonia</option>
+    
+                    <option value="Madagascar">Madagascar</option>
+    
+                    <option value="Malawi">Malawi</option>
+    
+                    <option value="Malaysia">Malaysia</option>
+    
+                    <option value="Maldives">Maldives</option>
+    
+                    <option value="Mali">Mali</option>
+    
+                    <option value="Malta">Malta</option>
+    
+                    <option value="Marshall Islands">Marshall Islands</option>
+    
+                    <option value="Martinique">Martinique</option>
+    
+                    <option value="Mauritania">Mauritania</option>
+    
+                    <option value="Mauritius">Mauritius</option>
+    
+                    <option value="Mayotte">Mayotte</option>
+    
+                    <option value="Mexico">Mexico</option>
+    
+                    <option value="Micronesia">Micronesia</option>
+    
+                    <option value="Midway Island">Midway Island</option>
+    
+                    <option value="Moldova">Moldova</option>
+    
+                    <option value="Monaco">Monaco</option>
+    
+                    <option value="Mongolia">Mongolia</option>
+    
+                    <option value="Montserrat">Montserrat</option>
+    
+                    <option value="Morocco">Morocco</option>
+    
+                    <option value="Mozambique">Mozambique</option>
+    
+                    <option value="Myanmar (Birmanie)">Myanmar (Birmanie)</option>
+    
+                    <option value="Namibia">Namibia</option>
+    
+                    <option value="Nauru">Nauru</option>
+    
+                    <option value="Nepal">Nepal</option>
+    
+                    <option value="Netherlands">Netherlands</option>
+    
+                    <option value="Netherlands Antilles">Netherlands Antilles</option>
+    
+                    <option value="New Caledonia">New Caledonia</option>
+    
+                    <option value="New Zealand">New Zealand</option>
+    
+                    <option value="Nicaragua">Nicaragua</option>
+    
+                    <option value="Niger">Niger</option>
+    
+                    <option value="Nigeria">Nigeria</option>
+    
+                    <option value="Niue">Niue</option>
+    
+                    <option value="Norfolk Island">Norfolk Island</option>
+    
+                    <option value="Northern Mariana Islands(Saipan)">Northern Mariana Islands(Saipan)</option>
+    
+                    <option value="Norway">Norway</option>
+    
+                    <option value="Oman">Oman</option>
+    
+                    <option value="Pakistan">Pakistan</option>
+    
+                    <option value="Palau">Palau</option>
+    
+                    <option value="Palestine">Palestine</option>
+    
+                    <option value="Panama">Panama</option>
+    
+                    <option value="Papua New Guinea">Papua New Guinea</option>
+    
+                    <option value="Paraguay">Paraguay</option>
+    
+                    <option value="Peru">Peru</option>
+    
+                    <option value="Philippines">Philippines</option>
+    
+                    <option value="Poland">Poland</option>
+    
+                    <option value="Portugal">Portugal</option>
+    
+                    <option value="Puerto Rico">Puerto Rico</option>
+    
+                    <option value="Qatar">Qatar</option>
+    
+                    <option value="Reunion Island">Reunion Island</option>
+    
+                    <option value="Romania">Romania</option>
+    
+                    <option value="Russia">Russia</option>
+    
+                    <option value="Rwanda">Rwanda</option>
+    
+                    <option value="Saint Barthelemy">Saint Barthelemy</option>
+    
+                    <option value="Saint Martin"> Saint Martin</option>
+    
+                    <option value="Samoa Independent State Of">Samoa Independent State Of</option>
+    
+                    <option value="Samoa, American">Samoa, American</option>
+    
+                    <option value="San Marino">San Marino</option>
+    
+                    <option value="Sao Tome and Principe">Sao Tome and Principe</option>
+    
+                    <option value="Saudi Arabia">Saudi Arabia</option>
+    
+                    <option value="Senegal">Senegal</option>
+    
+                    <option value="Seychelles">Seychelles</option>
+    
+                    <option value="Sierra Leone">Sierra Leone</option>
+    
+                    <option value="Singapore">Singapore</option>
+    
+                    <option value="Slovak Republic">Slovak Republic</option>
+    
+                    <option value="Slovenia">Slovenia</option>
+    
+                    <option value="Solomon Island">Solomon Island</option>
+    
+                    <option value="Somalia">Somalia</option>
+    
+                    <option value="South Africa">South Africa</option>
+    
+                    <option value="Spain">Spain</option>
+    
+                    <option value="Sri Lanka">Sri Lanka</option>
+    
+                    <option value="St Christopher (St Kitts) Nevis">St Christopher (St Kitts) Nevis</option>
+    
+                    <option value="St Helene (Ascension Island)">St Helene (Ascension Island)</option>
+    
+                    <option value="St Martin (Netherlands Antillen)">St Martin (Netherlands Antillen)</option>
+    
+                    <option value="St Pierre Et Miquelon">St Pierre Et Miquelon</option>
+    
+                    <option value="St Vincent and the Grenadines">St Vincent and the Grenadines</option>
+    
+                    <option value="St. Lucia">St. Lucia</option>
+    
+                    <option value="Sudan">Sudan</option>
+    
+                    <option value="Suriname">Suriname</option>
+    
+                    <option value="Swaziland">Swaziland</option>
+    
+                    <option value="Sweden">Sweden</option>
+    
+                    <option value="Switzerland">Switzerland</option>
+    
+                    <option value="Syria">Syria</option>
+    
+                    <option value="Taiwan">Taiwan</option>
+    
+                    <option value="Tajikistan">Tajikistan</option>
+    
+                    <option value="Tanzania">Tanzania</option>
+    
+                    <option value="Thailand">Thailand</option>
+    
+                    <option value="Togo">Togo</option>
+    
+                    <option value="Tonga">Tonga</option>
+    
+                    <option value="Trinidad and Tobago">Trinidad and Tobago</option>
+    
+                    <option value="Tunisia">Tunisia</option>
+    
+                    <option value="Turkey">Turkey</option>
+    
+                    <option value="Turkmenistan">Turkmenistan</option>
+    
+                    <option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+    
+                    <option value="Tuvalu">Tuvalu</option>
+    
+                    <option value="Uganda">Uganda</option>
+    
+                    <option value="Ukraine">Ukraine</option>
+    
+                    <option value="United Arab Emirates">United Arab Emirates</option>
+    
+                    <option value="UK">United Kingdom</option>
+    
+                    <option value="USA">United States of America</option>
+    
+                    <option value="Uruguay">Uruguay</option>
+    
+                    <option value="Uzbekistan">Uzbekistan</option>
+    
+                    <option value="Vanuatu">Vanuatu</option>
+    
+                    <option value="Venezuela">Venezuela</option>
+    
+                    <option value="Vietnam">Vietnam</option>
+    
+                    <option value="Virgin Islands">Virgin Islands</option>
+    
+                    <option value="Virgin Islands British">Virgin Islands British</option>
+    
+                    <option value="Wake Island">Wake Island</option>
+    
+                    <option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option>
+    
+                    <option value="Yemen">Yemen</option>
+                    <option value="Yugoslavia">Yugoslavia</option>
+                    <option value="Zambia">Zambia</option>
+                    <option value="Zimbabwe">Zimbabwe</option>
+                </select>
+                </div></td>
+              </tr>
+			  			  <tr>
+			    <td align="right" valign="top">Comments/Query</td>
+			    <td align="left"><textarea name="comment1" cols="35" rows="5" id="comment1" style="width:302px; height:75px; border:solid 2px #cecbcb;"></textarea></td>
+			  </tr>
+			  <tr>
+                <td align="right">Enter Verification Code(Given Below) </td>
+                <td align="left"><input name="txtNumber1" type="text" class="style2" id="txtNumber1" size="30" style="width:302px; height:25px; border:solid 2px #cecbcb;"></td>
+	      </tr>
+			  <tr>
+                <td></td>
+                <td align="left"><img src="randomImage.php"></td>
+	      </tr>
+			  <tr>
+			    <td></td>
+			    <td align="left">&nbsp;</td>
+	      </tr>
+			  <tr><td></td>
+			    <td align="left">
+                			    <!--<input name="Submit_below" type="image" id="Submit22" value='Submit My Request' src="images/submit-request.gif"  style="border:none;" onclick="return checkService();" /> -->
+				
+				<input name="Submit_below" type="submit" id="Submit22" value="" onclick="return checkService();" style="background:url(images/submit-request.gif) no-repeat left top; width:154px; height:34px; border:none; cursor:pointer;">
+				
+								</td>
+			  </tr>
+		      <tr align="center">
+		        <td colspan="2" class="txt">&nbsp;</td>
+          </tr>
+	      <tr align="center"><!--<td class="txt">&nbsp;</td> -->
+		    <td colspan="2" align="left" class="txt" bgcolor="e9e9e9" style="padding:10px;"><strong>Please Note:</strong> We will never ever share or sell your information. The information you provide here is
+	        purely to contact and discuss your marketing needs. For more information, please read our <a rel="nofollow" href="privacy-policy.php" class="orangelink">privacy policy</a></td>
+	      </tr>
+	  </tbody></table>
+ </a><input name="hdnNumber" type="hidden" id="hdnNumber" value="">
+</form>
+
+
+</td></tr>
+</tbody></table>
+
+ </td></tr>
+<tr><td><table width="1024" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<tbody><tr>
+  <td height="25" align="center" valign="middle"><a href="http://jigsaw.w3.org/css-validator/check/referrer" target="_blank">
+  </a>    </td>
+</tr>
+<tr><td height="40"><table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img alt="Marketing Ignite : Search engine Positioning, marketing " src="images/footer_left.gif"></td>
+<td width="100%" style="background-image:url(images/footer_back.gif);" align="center"><span class="txtblack">Copyright © 1999-2013 by Marketing Ignite Co. Ltd. All Rights Reserved</span></td>
+<td><img alt="Marketing Ignite : Search engine Positioning, marketing " src="images/footer_right.gif"></td></tr></tbody></table></td></tr>
+<tr><td height="5"></td></tr>
+<tr><td><table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td></td><td>&nbsp;</td>
+<td width="100%" class="txt" align="center">
+
+<a href="http://www.marketingignite.com/pay-per-click.php" class="footlinks">Pay Per Click Search Engines</a>  |  <a href="http://www.marketingignite.com/SEO-Services-Thailand.php" class="footlinks">Search Engine Optimization</a>  |  <a href="http://www.marketingignite.com/affiliate-marketing.php" class="footlinks">Affiliate Marketing</a>  |  <a href="http://www.marketingignite.com/online-media-buy.php" class="footlinks">Online Media Buy</a><br>
+<a href="http://www.marketingignite.com/autoresponders.php" class="footlinks">Multiple Auto Responders</a>  |  <a href="http://www.marketingignite.com/consulting.php" class="footlinks">Consultation</a>  |  <a href="http://www.marketingignite.com/website-performance-analysis.php" class="footlinks">Website Performance Analysis</a>  |  <a href="http://www.marketingignite.com/link-campaign.php" class="footlinks">Link Campaign</a><br>
+<a href="http://www.marketingignite.com/web-copywriting.php" class="footlinks">Web Copywriting</a>  | <a href="http://www.marketingignite.com/hotel-internet-marketing.php" class="footlinks">Hotel Internet Marketing</a> |  <a href="http://www.marketingignite.com/exit-surveys.php" class="footlinks">Exit Survey</a>  |  <a href="http://www.marketingignite.com/web-design.php" class="footlinks">Webdesign</a>  |  <a href="http://www.marketingignite.com/actors.php" class="footlinks">Video Marketing</a><br>  <a href="http://www.marketingignite.com/contact.php" class="footlinks">Contact Us</a>  |  <a href="http://www.marketingignite.com/testimonials.php" class="footlinks">Testimonials</a> | <a rel="nofollow" href="http://www.marketingignite.com/faq.php" class="footlinks">FAQ</a>  |  <a href="http://www.marketingignite.com/sitemap.php" class="footlinks">Sitemap</a>  |  <a href="http://www.marketingignite.com/partner-program.php" class="footlinks">Partner Program</a>  |  <a rel="nofollow" href="http://www.marketingignite.com/privacy-policy.php" class="footlinks">Privacy Policy</a>  |   <a rel="nofollow" href="http://www.marketingignite.com/guest-blogger-guidelines.php" class="footlinks">Guest Blogging Opportunities</a><br>
+<a href="http://www.marketingignite.com/blog" class="footlinks">Marketing Blog</a>  |  <a href="http://www.marketingignite.com/marketing-resources.php" class="footlinks">Free Marketing Tools</a>  |  <a href="http://www.marketingignite.com" class="footlinks">Home</a>  |  <a href="http://www.marketingignite.com/about.php" class="footlinks">About Us</a> | 
+<a rel="nofollow" href="http://www.marketingignite.com/careers.php" class="footlinks">Careers</a>  |  <a href="http://www.marketingignite.com/online-marketing.php" class="footlinks">Online Marketing</a>
+  |  <a href="http://www.marketingignite.com/internet-marketing.php" class="footlinks">Internet Marketing</a>  |  <a href="http://www.whiteboardexplainers.com" class="footlinks">Explainer Videos </a><br>International SEO Clients <a href="http://www.marketingignite.com/Singapore-SEO-Services.php">Singapore</a>
+
+</td>
+<td>&nbsp;</td>
+<td></td></tr></tbody></table></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td height="5"></td></tr>
+</tbody></table>
+
+
+<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="highslide/graphics/outlines/drop-shadow.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
