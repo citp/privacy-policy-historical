@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601150800id_/http%3A//www4.lehigh.edu/about/privacy.aspx%3Ffooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214035450id_/http%3A//www4.lehigh.edu/about/privacy.aspx%3Ffooter) for the most accurate reproduction.*
 
 # Lehigh University: About Lehigh: Privacy Policy
 
