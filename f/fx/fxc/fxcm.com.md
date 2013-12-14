@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615000633id_/http%3A//www.fxcm.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214040031id_/http%3A//www.fxcm.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy @ FXCM
+# Privacy Policy, Security Infor for Clients & Applicants @ FXCM
 
 FXCM respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients, current clients, and applicants.
 
