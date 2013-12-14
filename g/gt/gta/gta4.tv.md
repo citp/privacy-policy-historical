@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gta4.tv privacy policy that was archived on 2013-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130103080646id_/http%3A//www.igta5.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gta4.tv privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214094104id_/http%3A//www.igta5.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
