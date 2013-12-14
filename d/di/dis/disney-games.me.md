@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney-games.me privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612142701id_/http%3A//disney-games.me/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney-games.me privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214022133id_/http%3A//disney-games.me/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Disney Games
 
