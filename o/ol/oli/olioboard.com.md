@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227075110id_/http%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214024951id_/https%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olioboard
 
@@ -75,97 +75,6 @@ We may allow third-parties, including IAC companies, advertising companies, and 
 **Web Beacons:**  
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.  
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. 
-
-Add our clipper to your browser & you can easily save items from any website directly to your Olioboard library & sets.
-
-Add to Olioboard ← Right-click and select "Add to Favorites" then select "Links"
-
-**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Internet Explorer.**
-
-  * 1. Make sure your bookmarks bar is open. To do this, right click in your browser header and select **"Links"**.
-
-  * 2. Right-click the **"Add to Olioboard"** button and select **"Add to Favorites"**
-
-  * 3. A pop up window will appear. Select **"Links"** in the **"Create In"** drop down field and click the **"Add Button"**. That’s it.
-
-  * 4. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
-
-
-
-
-Add to Olioboard ← Right-click and select "Add to Favorites" then select "Favorites Bar"
-
-**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Internet Explorer.**
-
-  1. Make sure your bookmarks bar is open. To do this, right click in your browser header and select **"Favourites Bar"**.
-
-  2. Right-click the **"Add to Olioboard"** button and select **"Add to Favorites"**
-
-  3. A pop up window will appear. Select **"Favourites Bar"** in the **"Create In"** drop down field and click the **"Add Button"**. That’s it.
-
-  4. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
-
-
-
-
-**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Internet Explorer.**
-
-  1. Make sure your bookmarks bar is open. To do this, right click in your browser header and select **"Favorites Bar"**.
-
-  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
-
-  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
-
-
-
-
-**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Opera.**
-
-  1. Make sure your bookmarks bar is open. To do this, click the **Opera Logo** in the top left, then **Toolbars** , then **Bookmarks Bar**.
-
-  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
-
-  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
-
-
-
-
-**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Safari.**
-
-  1. Make sure your bookmarks bar is open. To do this, click the options menu then **"Show Bookmarks Bar"**.
-
-  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
-
-  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
-
-
-
-
-**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Firefox.**
-
-  1. Make sure your bookmarks bar is open. To do this, click **options** , then **Bookmarks Toolbar**.
-
-  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
-
-  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
-
-
-
-
-**Follow these steps to Install the "Add to Olioboard" Browser Clipper in Google Chrome.**
-
-  1. Make sure your bookmarks bar is open. To do this, click the **options menu**. Then click **"Tools"** , then **"Always Show Bookmarks Bar"**.
-
-  2. Drag the **"Add to Olioboard"** button to your bookmarks bar. You’re done.
-
-  3. When you see an image you want to save, click the **"Add to Olioboard"** option in your bookmarks bar and then click the image you want to save to your olioboard account. You can save items directly to your library or to a specific set. Enjoy!
-
-
-
-
-I'm Finished! or No, Thanks.
-
-Back to Create Account
 
 ## 1\. Your Acceptance
 
