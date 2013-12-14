@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604222527id_/http%3A//illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214011652id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
 
 # Recommended Site - Married Dating UK - Illicit Encounters® - Extra marital affairs and dating
 
@@ -36,9 +36,10 @@ Choice/Opt-Out : Our site provides users the opportunity to delete their profile
 
 Email messages on this site are scanned for the sole purpose of detecting fraudulent activity.
 
-Data Quality/Access : Users can change any information provided by using the "Modify Profile" feature.  
- 
+Data Quality/Access : Users can change any information provided by using the "Modify Profile" feature.
+
+Payment Card Details : We do not store credit card details nor do we share customer details with any 3rd parties.
 
 Contacting the Web Site : If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please do not hesitate to contact us.
 
-[Back]()
+[Back](http://buildersencounters.co.uk/help/faq/id/3)
