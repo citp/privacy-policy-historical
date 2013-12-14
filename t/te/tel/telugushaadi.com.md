@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugushaadi.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613230057id_/http%3A//www.telugushaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugushaadi.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214124101id_/http%3A//www.telugushaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
 
 # Shaadi.com Privacy Policy Indian matrimonial web site - free listing matrimonials - TeluguShaadi.com
 
@@ -158,7 +158,7 @@ Your friend's email address: Throughout Shaadi.com, you have the option to send 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [email us](https://web.archive.org/customer-relations/faq/write-to-us) or contact us at.
 
 **Shaadi.com**  
-People Interactive (I) Pvt. Ltd. 83/C , Hansraj Pragji Building, Next to TATA Motors, Off Dr. E. Moses Road, Worli, Mumbai - 400018 Phone: 1-860-5003456 (Standard Charges apply) 
+People Interactive (I) Pvt. Ltd. 83/C , Hansraj Pragji Building, Next to TATA Motors, Off Dr. E. Moses Road, Worli, Mumbai - 400018 Phone: 1860-200-3456 (Standard Charges apply) 
 
 
 
