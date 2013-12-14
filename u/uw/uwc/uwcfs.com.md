@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the uwcfs.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304085406id_/http%3A//www.uwcfs.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcfs.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214115151id_/http%3A//www.mayzusfs.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | UWC Financial Services
+# Privacy policy | Mayzus Financial Services
 
-UWC Financial Services Ltd (hereafter called "UWCFS") considers you as its registered user and your privacy important. 
+Mayzus Financial Services Ltd (hereafter called "Mayzus Financial Services") considers you as its registered user and your privacy important. 
 
-#### UWCFS Privacy and Use of Personal Information
+#### Mayzus Financial Services Privacy and Use of Personal Information
 
-UWCFS Ltd complies with the Data Protection Act 1998 with respect to information about its customers’ private information. We make every effort to conduct appropriate management and maintain accuracy and confidentiality of information. However, information that is already in the public domain is not considered confidential.   
+MayzusFS Ltd complies with the Data Protection Act 1998 with respect to information about its customers’ private information. We make every effort to conduct appropriate management and maintain accuracy and confidentiality of information. However, information that is already in the public domain is not considered confidential.   
 You as our customer take full responsibility for informing us about any changes that may occur in your personal details such as change of address, or change of name. You confirm that you will inform us in writing about any such changes, and provide us with the photocopies of documentary evidence so that we can keep our records updated. 
 
 #### 1\. The information you will provide us with is used
 
-  * \- to facilitate UWCFS services and ensure secure transaction processing;
+  * \- to facilitate Mayzus Financial Services services and ensure secure transaction processing;
   
 
   * \- to keep customer records updated;
@@ -51,21 +51,21 @@ Please note that the service we provide for you may require us giving informatio
 
 
 
-UWCFS may have to give your personal information to persons(s) or organizations located in countries outside EEA (European Economic Area) that do not have laws to protect customers’ personal information. 
+MayzusFS may have to give your personal information to persons(s) or organizations located in countries outside EEA (European Economic Area) that do not have laws to protect customers’ personal information. 
 
 #### 2\. Types of information required
 
-The most general types of information UWCFS requires are customers’ up-to-date proof of address, name, date of birth, sex, and telephone number. Corporate entities will also be asked for a copy of their memorandum and articles of association, list of current shareholders and director’s last annual return; ID and proof of address of beneficial owners; directors and powers of attorney, where applicable. 
+The most general types of information Mayzus Financial Services requires are customers’ up-to-date proof of address, name, date of birth, sex, and telephone number. Corporate entities will also be asked for a copy of their memorandum and articles of association, list of current shareholders and director’s last annual return; ID and proof of address of beneficial owners; directors and powers of attorney, where applicable. 
 
 #### 3\. Applications regarding customers’ data
 
-The data protection legislation gives the customers the right to access the personal data that UWCFS has about them.   
-Unless there is a particular reason, UWCFS approves customer requests regarding disclosure of their information to third parties after checking that the applicant is the person concerned. Additionally, in case of inaccurate information that we know about, we will apply the necessary changes to it.  
-If you as a customer require information or require information to be disclosed to a third party, UWCFS is entitled to charge you a minor fee for any administrative work and costs involved in producing this information. 
+The data protection legislation gives the customers the right to access the personal data that Mayzus Financial Services has about them.   
+Unless there is a particular reason, Mayzus Financial Services approves customer requests regarding disclosure of their information to third parties after checking that the applicant is the person concerned. Additionally, in case of inaccurate information that we know about, we will apply the necessary changes to it.  
+If you as a customer require information or require information to be disclosed to a third party, Mayzus Financial Services is entitled to charge you a minor fee for any administrative work and costs involved in producing this information. 
 
 #### 4\. Customer inquiries and complaints
 
-All customer inquiries regarding disclosure or correction of information should be directed to the following UWCFS contact details: 
+All customer inquiries regarding disclosure or correction of information should be directed to the following Mayzus Financial Services contact details: 
 
 **Privacy Policy Inquiries:**
 
@@ -73,7 +73,7 @@ Tel: +44 (0) 208 956 2251
 Fax: +44 (0) 203 397 4818  
 
 
-UWC Financial Services Ltd  
+Mayzus Financial Services Ltd  
 869 High Road,  
 London, N12 8QA, UK
 
@@ -93,12 +93,12 @@ We preserve the right to monitor, record, store and use any telephone, email or 
 
 #### 7\. Money laundering and terrorist financing
 
-UWCFS may be required by statute to make a disclosure to the Serious Organized Crime Agency in case any transactions are suspected that involve money laundering or terrorist financing. In case of a disclosure related to your transactions, UWCFS may not be able to inform you about it or about its reason, and will have to delay your transactions for a certain period of time. 
+MayzusFS may be required by statute to make a disclosure to the Serious Organized Crime Agency in case any transactions are suspected that involve money laundering or terrorist financing. In case of a disclosure related to your transactions, Mayzus Financial Services may not be able to inform you about it or about its reason, and will have to delay your transactions for a certain period of time. 
 
 #### 8\. Consenting to our terms
 
 By consenting to the terms and conditions described above, you agree to your data being shared outside the EU/EEA, where necessary. 
 
-Authorized and regulated by FSA as Authorised Payment Institution under registration number 566505  
+Authorized and regulated by FCA as Authorised Payment Institution under registration number 566505  
 HM Revenue & Customs MLR No 12492642  
 Data Protection Number Z2309500 
