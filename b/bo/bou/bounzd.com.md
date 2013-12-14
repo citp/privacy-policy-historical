@@ -1,60 +1,49 @@
-> *The following text is extracted and transformed from the bounzd.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619235902id_/http%3A//www.bounzd.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bounzd.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214144953id_/http%3A//www.bounzd.com/privacypolicy) for the most accurate reproduction.*
 
 # Bounzd – Privacy Policy
 
-#### The privacy policy of BounzD is framed in such a manner as to guide you on how BounzD Ltd. ("we", "us" or "BounzD team" the creator, operator and owner of BounzD service) uses and safeguards information and resources you provide in using the Software and Service.
+#### The privacy policy of BounzD is framed in such a manner as to guide you on how BounzD Ltd. ("we", "us", “Waybeo” or "BounzD team" the creator, operator and owner of BounzD service) uses and safeguards information and resources you provide in using the Software and Service.
 
 #### Overview
 
-BounzD provides voice call via internet without using a phone. With the help of our services, you can communicate with others through voice communication and /or other forms of communication. 
+BounzD provides browser and phone based voice communication/call tracking services that connects a website visitor with the website owner/administrator. 
 
-#### Information usage
+#### Usage Details
 
-**WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER ANY PERSONAL INFORMATION COLLECTED THROUGH SOFTWARE OR SERVICE TO ANY THIRD PARTY OUTSIDE THE BOUNZD NETWORK, WHICH INCLUDES OUR TRUSTED PARTNERS. WE MAY ENGAGE A THIRD PARTY IN ORDER TO CARRY OUT OUR COMMUNICATION AND/OR MARKETING ON OUR BEHALF. WE SHALL PROVIDE INFORMATION COLLECTED THROUGH THE NETWORK TO OTHER USERS IN THE NETWORK ONLY WITH YOUR EXPLICIT PERMISSION AS GRANTED BY YOU THROUGH THE APPLICABLE SETTINGS AVAILABLE IN THE SOFTWARE.**
+Your usage details such as time, frequency, duration and pattern of use, features used and the amount of storage used will be recorded by us in order to enhance your experience of the BounzD services and to help us provide you the best possible service.
 
-In case, we and/or our units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party acquiring our assets. In the event we do so, we shall place a prominent notice of the sale on the homepage of our corporate website, with links to information as to how you can change your privacy preferences.
+#### Contents of your User Account
 
-#### Information collection
+We store and maintain files, documents, call records, emails and other data stored in your user account at our hosted environment. In order to prevent loss of data due to errors or system failures, we also keep backup copies of data including the contents of your user account. Hence your files and data may remain on our servers even after deletion or termination of your user account. We assure you that the contents of your user account will not be disclosed to anyone except in circumstances specifically mentioned in this Privacy Policy Statement and Terms of Services.
 
-Bounzd collects three types of information when you register for our services:
+#### Script Usage
 
-**
+Our customers are provided with a script that can be placed in any webpage to receive calls from visitors. BounzD script embedded in website and other online channels collect Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in to provide our customers with the trends, track of visitor's movements and to provide analytics related to call flow and conversion from website.
 
-  1. Personal details sent to us as a result of registration.
-  2. Usage Information that is provided passively or generated automatically during your use of BounzD services.
-  3. Your SIP / Gtalk / Skype account Information.
+#### Cookies
 
-**
+BounzD script use temporary and permanent cookies to enhance your experience of our Services. Temporary cookies will be removed from visitor's computer each time they close your browser. A permanent cookie will be stored in visitor's computer to remember the visitor's count of browsing the URL where BounzD script is being used. Turning off cookies may not support the usage of BounzD services. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page where BounzD script is available to document traffic and for website analytics without collecting any Personal Information.
 
-Personal information includes information required in order for the Software to verify your identity and provide you with the Services. This includes your BounzD login and password, email ,company website ,phone number and other data required for registration.
+#### Links from our website
 
-We shall not pass on, the above mentioned information to any third party. It can be used by the BounzD team only to organize your access to our service and for some marketing analysis.
+Some pages of our website contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide Personal Information, without assuring yourselves of the Privacy Policy Statement of other websites. 
 
-The BounzD website also contains a blog where your feedback is accessible by the public as well as by the BounzD team.
+#### With whom we share Information
 
-Your feedback sent via BounzD e-mail is accessible by the BounzD team only.
+We may need to disclose Personal Information/information entered by the visitor using BounzD services to our affiliates, service providers and business partners solely for the purpose of providing BounzD Services to you. In such cases we'll also ensure that such affiliates, service providers and business partners comply with this Privacy Policy Statement and adopt appropriate confidentiality and security measures. We will obtain your prior specific consent before we share or disclose your Personal Information to any person outside Waybeo for any purpose that is not directly connected with providing BounzD Services to you. We may share generic aggregated information related to calls and web analytics not linked to any Personal Information regarding visitors and users with our business partners and advertisers. Please be aware that laws in various jurisdictions in which we operate may obligate us to disclose user information and the contents of your user account to the local law enforcement authorities under a legal process or an enforceable government request. In addition, we may also disclose Personal Information and contents of your user account to law enforcement authorities if such disclosure is determined to be necessary by Waybeo in our sole and absolute discretion for protecting the safety of our users, employees, or the general public.
 
-We reserve the right to utilize this information for marketing purposes, for instance by displaying selected comments on our website or in other communications.
+#### Accessing, Updating and Removing Personal Information
 
-From time to time, we may send you surveys or solicit your feedback. We use surveys to gauge user interest in new products and premiums we may offer. We may ask for your feedback on site features. We shall use the information we gather to improve our sites and provide a more meaningful experience to our users. We may also use the information to alert you about offers and products in which you have expressed an interest in.
+We provide users with access to their Personal Information. Users may correct, update or remove any such Personal Information either by accessing their user account or by contacting BounzD Customer Support Services. Such changes may take up to 48 hours to take effect. We respond to all enquiries within 30 days.
 
-Usage information consists of the number of calls, calls duration, dialed numbers, calls content.
+#### Investigation of Illegal Activity
 
-We do not provide information on calls, call duration , dialled phone numbers ,number of page hits and calls content to any third party.   
-SIP account information consists of SIP requisites you enter in order to redirect calls using the BounzD services. Skype account information consists of Skype ID you enter in order to redirect calls using the BounzD services. Gtalk account information consists of Gtalk ID you enter in order to redirect calls using BounzD services.This information is not provided to any third party.
+We may need to provide access to your Personal Information and the contents of your user account to our employees and service providers for the purpose of investigating any suspected illegal activity or potential violation of the terms and conditions for use of BounzD Services. However, BounzD will ensure that such access is in compliance with this Privacy Policy Statement and subject to appropriate confidentiality and security measures.
 
-#### No spyware/software download
+#### Enforcement of Privacy Policy
 
-You shouldn't install any specific software to use BounzD services, and our site pages do not install any software to your system.
+We make every effort, including periodic reviews to ensure that Personal Information provided by you is used in conformity with this Privacy Policy Statement. If you have any concerns regarding our adherence to this Privacy Policy Statement or the manner in which Personal Information is used for the purpose of providing BounzD Services, kindly contact BounzD Customer Support Services at [support@bounzd.com](mailto:support@bounzd.com). We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.
 
-#### Confidentiality & Privacy of data
+#### Notification of Changes
 
-We use secure technology to protect any information you provide us. The collected passive information is stored in the secure databases.
-
-#### Delete/Deactivation Policy
-
-In case you wish to delete any personal information you submitted to BounzD, you may do so by contacting us at support@BounzD.com. We shall notify you of our receipt of your request. We shall use commercially reasonable efforts to functionally delete all such information (excluding any information necessary in order to detect fraudulent use) from our database within fifteen working days from the date of the receipt of your request
-
-#### Modification of Privacy Policy.
-
-We reserve the right to modify the provisions of this Privacy Policy if deemed necessary. We may not inform you of these changes on our website.
+Any changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving all email notifications from us. You will not receive email notification of minor changes to the Privacy Policy Statement. If you are concerned about how your Personal Information is used, you should check back at <http://www.bounzd.com/privacy.html> periodically.
