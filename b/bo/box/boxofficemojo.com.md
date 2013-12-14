@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficemojo.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606044244id_/http%3A//boxofficemojo.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficemojo.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214022924id_/http%3A//boxofficemojo.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Box Office Mojo Privacy Policy
 
