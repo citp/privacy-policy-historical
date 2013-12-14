@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobinterviewquestions.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615071717id_/http%3A//www.jobinterviewquestions.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobinterviewquestions.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214160444id_/http%3A//www.jobinterviewquestions.org/privacy-policy) for the most accurate reproduction.*
 
 # Job Interview Questions: Privacy Policy
 
