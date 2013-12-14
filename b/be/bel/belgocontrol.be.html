@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the belgocontrol.be privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531030909id_/http%3A//www.belgocontrol.be/belgoweb/publishing.nsf/Content/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the belgocontrol.be privacy policy that was archived on 2013-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131214212409id_/http%3A//www.belgocontrol.be/belgoweb/publishing.nsf/Content/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -189,34 +189,45 @@ function check_feedback_climatology_EN()
 var msg = "";	
 var send = "true";
 
-	if (Feedback.Organisation.value== "") 
-		{msg = msg + "- name of organisation\n"
+	if (Feedback.FirstName.value== "") 
+		{msg = msg + "- First name\n"
 		send = "false";}
-	if (Feedback.contactperson.value== "") 
-		{msg = msg + "- contact person\n"
+	if (Feedback.LastName.value== "") 
+		{msg = msg + "- Name\n"
+		send = "false";}
+                if (Feedback.Email.value== "") 
+		{msg = msg + "- Email\n"	
+		send = "false";}
+                if (Feedback.Phone.value== "") 
+		{msg = msg + "- Phone\n"
 		send = "false";}
 	if (Feedback.Address.value== "" | Feedback.Address.value== " ") 
-		{msg = msg + "- address\n"
+		{msg = msg + "- Address\n"
 		send = "false";}
-	if (Feedback.Phone.value== "") 
-		{msg = msg + "- phone\n"
+	if (Feedback.CompanyType.value== "") 
+		{msg = msg + "- Type of company\n"	
 		send = "false";}
-	if (Feedback.Email.value== "") 
-		{msg = msg + "- email\n"	
+	if (Feedback.Organisation.value== "") 
+		{msg = msg + "- Company name\n"
 		send = "false";}
-      if (Feedback.DataRequest.value== "" | Feedback.DataRequest.value== " ") 
-		{msg = msg + "- request description\n"
+	if (Feedback.JobTitle.value== "") 
+		{msg = msg + "- Job title\n"
 		send = "false";}
-	if (Feedback.AeronauticalUser.value== "") 
-		{msg = msg + "- aeronautical user\n"
+               if (Feedback.data_objective.value== "") 
+		{msg = msg + "- Objective\n"
 		send = "false";}
-	if (Feedback.DataMetServ.value== "") 
-		{msg = msg + "- will you provide meteo services\n"
+                if (Feedback.Locations.value== "") 
+		{msg = msg + "- Location\n"
 		send = "false";}
-      if (Feedback.DataNonMetServ.value== "") 
-		{msg = msg + "- will you provide non-meteo services\n"
+                if (Feedback.Data_validity_from.value== "") 
+		{msg = msg + "- Data validity (from)\n"
 		send = "false";}
- 
+                if (Feedback.Data_validity_to.value== "") 
+		{msg = msg + "- Data validity (to)\n"
+		send = "false";}
+               if (Feedback.data_type.value== "") 
+		{msg = msg + "- Type of data\n"
+		send = "false";}
 	if (send=="true")
 		{Feedback.submit();}
 	else
@@ -227,35 +238,46 @@ function check_feedback_climatology_NL()
 {
 var msg = "";	
 var send = "true";
+if (Feedback.FirstName.value== "") 
+		{msg = msg + "- Voornaam\n"	
+		send = "false";}
+if (Feedback.LastName.value== "") 
+		{msg = msg + "- Naam\n"	
+		send = "false";}
+if (Feedback.Email.value== "") 
+		{msg = msg + "- Email\n"	
+		send = "false";}
+if (Feedback.Phone.value== "") 
+		{msg = msg + "- Telefoon\n"
+		send = "false";}
+if (Feedback.Address.value== "" | Feedback.Address.value== " ") 
+		{msg = msg + "- Adres\n"
+		send = "false";}
+if (Feedback.CompanyType.value== "") 
+		{msg = msg + "- Type bedrijf \n"
+		send = "false";}
+if (Feedback.Organisation.value== "") 
+		{msg = msg + "- Naam van het bedrijf\n"
+		send = "false";}
+if (Feedback.JobTitle.value== "") 
+		{msg = msg + "- Functietitle\n"
+		send = "false";}
+if (Feedback.data_objective.value== "") 
+		{msg = msg + "- Doel\n"
+		send = "false";}
+ if (Feedback.Locations.value== "") 
+		{msg = msg + "- Locatie\n"
+		send = "false";}
+ if (Feedback.Data_validity_from.value== "") 
+		{msg = msg + "- Geldigheidsperiode (van)\n"
+		send = "false";}
+  if (Feedback.Data_validity_to.value== "") 
+		{msg = msg + "- Geldigheidsperiode (tot)\n"
+		send = "false";}
+   if (Feedback.data_type.value== "") 
+		{msg = msg + "- Type gegevens\n"
+		send = "false";}
 
-	if (Feedback.Organisation.value== "") 
-		{msg = msg + "- name van organisatie\n"
-		send = "false";}
-	if (Feedback.contactperson.value== "") 
-		{msg = msg + "- contactpersoon\n"
-		send = "false";}
-	if (Feedback.Address.value== "" | Feedback.Address.value== " ") 
-		{msg = msg + "- adres\n"
-		send = "false";}
-	if (Feedback.Phone.value== "") 
-		{msg = msg + "- telefoon\n"
-		send = "false";}
-	if (Feedback.Email.value== "") 
-		{msg = msg + "- email\n"	
-		send = "false";}
-	 if (Feedback.DataRequest.value== "" | Feedback.DataRequest.value== " ") 
-		{msg = msg + "- omschrijving gevraagde gegevens\n"
-		send = "false";}
-	if (Feedback.AeronauticalUser.value== "") 
-		{msg = msg + "- bent u luchtvaartgebruiker\n"
-		send = "false";}
-	if (Feedback.DataMetServ.value== "") 
-		{msg = msg + "- will you provide meteo services\n"
-		send = "false";}
-      if (Feedback.DataNonMetServ.value== "") 
-		{msg = msg + "- will you provide non-meteo services\n"
-		send = "false";}
- 
 	if (send=="true")
 		{Feedback.submit();}
 	else
@@ -267,32 +289,44 @@ function check_feedback_climatology_FR()
 var msg = "";	
 var send = "true";
 
-	if (Feedback.Organisation.value== "") 
-		{msg = msg + "- nom de l' organisation\n"
+	if (Feedback.FirstName.value== "") 
+		{msg = msg + "- Prénom\n"
 		send = "false";}
-	if (Feedback.contactperson.value== "") 
-		{msg = msg + "- personne de contact\n"
+	if (Feedback.LastName.value== "") 
+		{msg = msg + "- Nom\n"
+		send = "false";}
+                if (Feedback.Email.value== "") 
+		{msg = msg + "- Email\n"	
+		send = "false";}
+                if (Feedback.Phone.value== "") 
+		{msg = msg + "- Téléphone\n"
 		send = "false";}
 	if (Feedback.Address.value== "" | Feedback.Address.value== " ") 
-		{msg = msg + "- adresse\n"
+		{msg = msg + "- Adresse\n"
 		send = "false";}
-	if (Feedback.Phone.value== "") 
-		{msg = msg + "- téléphone\n"
+	if (Feedback.CompanyType.value== "") 
+		{msg = msg + "- Type d'entreprise\n"	
 		send = "false";}
-	if (Feedback.Email.value== "") 
-		{msg = msg + "- email\n"	
+	if (Feedback.Organisation.value== "") 
+		{msg = msg + "- Nom de l'entreprise\n"
 		send = "false";}
-	 if (Feedback.DataRequest.value== "" | Feedback.DataRequest.value== " ") 
-		{msg = msg + "- description de la demande\n"
+	if (Feedback.JobTitle.value== "") 
+		{msg = msg + "- Fonction\n"
 		send = "false";}
-	if (Feedback.AeronauticalUser.value== "") 
-		{msg = msg + "- êtes-vous usager aéronautique\n"
+               if (Feedback.data_objective.value== "") 
+		{msg = msg + "- Objectif\n"
 		send = "false";}
-	if (Feedback.DataMetServ.value== "") 
-		{msg = msg + "- données utilisées pour un service météo\n"
+                if (Feedback.Locations.value== "") 
+		{msg = msg + "- Localisation\n"
 		send = "false";}
-      if (Feedback.DataNonMetServ.value== "") 
-		{msg = msg + "- données utilisées pour un service non météo\n"
+                if (Feedback.Data_validity_from.value== "") 
+		{msg = msg + "- Validité des données (du)\n"
+		send = "false";}
+                if (Feedback.Data_validity_to.value== "") 
+		{msg = msg + "- Validité des données (au)\n"
+		send = "false";}
+               if (Feedback.data_type.value== "") 
+		{msg = msg + "- Type de donnée\n"
 		send = "false";}
  
 	if (send=="true")
