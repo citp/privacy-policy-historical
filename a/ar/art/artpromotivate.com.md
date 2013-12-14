@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artpromotivate.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606044719id_/http%3A//www.artpromotivate.com/p/privacy-policy-and-disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artpromotivate.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214014041id_/http%3A//www.artpromotivate.com/p/privacy-policy-and-disclosure.html) for the most accurate reproduction.*
 
-# Artpromotivate: Privacy Policy and Disclosure
+# Privacy Policy and Disclosure - Artpromotivate
 
 **Privacy Policy and Disclosure  for www.ArtProMotivate.com**
 
@@ -59,4 +59,7 @@ LinkConnector.com
 Wix.com  
 Ejunkie.com  
 Problogger.com  
-NorthLightShop.com 
+NorthLightShop.com  
+Artbizcoach.com  
+Webydo.com  
+Ecwid.com 
