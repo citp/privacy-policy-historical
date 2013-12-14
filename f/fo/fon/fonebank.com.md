@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519045504id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214172542id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fonebank.com
 
