@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lecreuset.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426164031id_/http%3A//cookware.lecreuset.com/cookware/privacy_10151_-1_20002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecreuset.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214092507id_/http%3A//cookware.lecreuset.com/cookware/privacy_10151_-1_20002) for the most accurate reproduction.*
 
 # Le Creuset - Privacy Policy
 
@@ -101,7 +101,7 @@ The Children's Online Privacy Protection Act that took effect on April 21, 2000 
 Under California Civil Code sections 1798.83-1798.84 California residents are entitled to ask LeCreuset.com for a notice describing what categories of personal customer information LeCreuset.com shares with third parties or corporate affiliates for those third parties’ or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address:LeCreuset.com   
 Attn: Consumer Services Department  
 114 Bob Gifford Blvd.  
-Early Branch, SC 29914   
+Early Branch, SC 29916   
  
 
 In your request, please specify that you want a copy of "Your Le Creuset of America’s California Privacy Rights Notice." Allow 30 days for a response.
