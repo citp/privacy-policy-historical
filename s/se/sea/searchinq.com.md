@@ -1,100 +1,68 @@
-> *The following text is extracted and transformed from the searchinq.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchinq.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214052606id_/http%3A//www.searchinq.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# SearchInQ - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Mailing Address**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+###  SearchInQ
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  
+PO Box 680951  
+Franklin, TN 37068| | 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### PRIVACY POLICY
 
-**Information Collection and Use**
+This privacy statement was first created on 11/27/2004 and updated on Feb 1, 2013. SearchInQ has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, [www.SearchInQ.com](http://www.searchinq.com/). 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Upon reading this privacy statement, you will know:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site.
+  2. The organization collecting the information.
+  3. How the information is used.
+  4. With whom the information may be shared.
+  5. What choices are available to you regarding collection, use and distribution of the information.
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under SearchInQ's control.
+  7. How you can access and correct any inaccuracies in the information collected about you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Questions regarding this statement should be directed to the SearchInQ site administrator by sending an email message to support at SearchInQ.com or writing to us at the following address:
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+SearchInQ  
+UTN Enterprises, Inc.  
+PO Box 680951  
+Franklin, TN 37068 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+To return to the SearchInQ home page, please [click here](http://www.searchinq.com/).
 
-**Security**
+ **SearchInQ's Privacy Statement**  
+SearchInQ is the sole owner of the information it gathers on its site. SearchInQ will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Web site.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+What Information is Collected and How it is Used? 
 
-**Updating Your Information**
+  * **Adding Your Site**  
+We collect contact information such as name, email address, IP address, and company information such as company name, Web site description and URL. This information is used to add your website to the directory.
+  *   
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * **Contacting Us**  
+We use an email form located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and functionality, or review and discard the information. Your personal information is only shared with third parties with your explicit permission.
+  *   
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * **Logged Files and Cookies**  
+The SearchInQ Web site logs IP addresses and browser types for search engine and reader trend purposes. These logs will be analyzed to improve the value of the directory. A user's session will be tracked, but the user will be anonymous. We do, however link IP addresses to any "site submissions" to track our sales and marketing campaigns. This information does not contain any personally identifiable information.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+This Web site does use cookies in the forums.
 
-      iii.      You may call us at: (480) 505-8800
+**Third Party Links**  
+SearchInQ lists websites in virtually every subject available. Given the nature of the field that we are in, we link to thousands of different websites. Please note that these Web sites' privacy policies may differ from those of SearchInQ. We encourage you to read the privacy statement of any Web site you may visit.
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Choices Regarding the Use of Your Information 
 
-**Compliance with Laws and Law Enforcement**
+**Security**  
+Protecting your privacy and your information is a top priority at SearchInQ. We have taken careful measures to prevent the loss, misuse, and alteration of your information and our database. Once we receive your information that was entered into our web site, it is stored into a secure mysql database. Your information is only accessible to our employees who need it in order to perform their jobs.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+ **Notification of Changes**  
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change.
