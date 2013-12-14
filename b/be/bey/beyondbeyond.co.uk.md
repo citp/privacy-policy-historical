@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613042931id_/http%3A//beyondbeyond.co.uk/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215005027id_/http%3A//beyondbeyond.co.uk/blog/privacy-policy) for the most accurate reproduction.*
 
-# Beyond Beyond ™ - UK Wedding Blog & Wedding Magazine| International Wedding Blog | Free iPad Wedding Magazine | Photography, Style, Design & Inspiration
+# Beyond Beyond ™ Wedding Blog - UK Wedding Blog & Wedding Magazine| International Wedding Blog | Free iPad Wedding Magazine | Photography, Style, Design & Inspiration
 
 This Privacy Policy governs the manner in which Beyond Beyond & Beyond The Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.beyondbeyond.co.uk](http://www.generateprivacypolicy.com/account/policies/edit/www.beyondbeyond.co.uk) website (“Site”). This privacy policy applies to the Site and all products and services offered by Beyond Beyond & Beyond The Magazine.
 
@@ -68,7 +68,6 @@ hello@beyondbeyond.co.uk
 
 This document was last updated on December 08, 2012
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fbeyondbeyond.co.uk%2Fblog%2Fprivacy-policy%2F&media=&description=Privacy%20Policy) |   
----|---  
-  
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fbeyondbeyond.co.uk%2Fblog%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+
  
