@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perryellis.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407182432id_/http%3A//www.perryellis.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perryellis.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214032306id_/http%3A//www.perryellis.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Perry Ellis Privacy Policy
 
@@ -19,7 +19,7 @@ Any changes to our privacy policy and practices on the Site will be reflected on
   * Does Perry Ellis disclose your information to others?
   * How does Perry Ellis protect a child's privacy?
   * Does PerryEllis.com have links to other web sites?
-  * [Copyright and Trademark Notice](http://www.perryellis.com/terms/terms,default,pg.html "http://www.perryellis.com/page/peterms")
+  * [Copyright and Trademark Notice](http://www.perryellis.com/terms.html "http://www.perryellis.com/page/peterms")
 
 
 
@@ -53,12 +53,12 @@ Perry Ellis follows industry-standard practices to protect the security of Perso
 ### Does Perry Ellis disclose your information to others?
 
 Perry Ellis does not sell, rent or trade any Personal Information you provide to us with third parties for their marketing purposes.  We may share your Personal Information as follows:  
-We may use third party service providers to provide specific business support services to us which may involve limited access to your Personal Information, for example, assisting us in fulfilling your transactions and customer service inquiries, executing surveys, conducting and administering promotions, updating your customer information record in our database, deploying our promotional offers to you, or fulfilling your request to [unsubscribe](http://www.perryellis.com/email-unsub/email-unsub,default,pg.html) from our email. We do not authorize those third parties to make any other use of your information.   
+We may use third party service providers to provide specific business support services to us which may involve limited access to your Personal Information, for example, assisting us in fulfilling your transactions and customer service inquiries, executing surveys, conducting and administering promotions, updating your customer information record in our database, deploying our promotional offers to you, or fulfilling your request to [unsubscribe](http://www.perryellis.com/email-unsub.html) from our email. We do not authorize those third parties to make any other use of your information.   
 If you make a purchase on our Site, we may share your Personal Information and payment card data with others, for example with a payment card processing company and/or a shipping or fulfillment company, to complete your purchase and process your order.
 
 We may disclose your Personal Information with other parties when you consent to the disclosure or when it is required or permitted by law, regulation, legal process or enforceable government request.  
 We also may disclose Personal Information to other third parties in conjunction with entering into an agreement for the sale of our stock or assets or if we are involved in bankruptcy proceedings.  The recipient of Personal Information following such actions may have privacy policies that differ from those in this Privacy Policy.   
-We honor every request to [unsubscribe](http://www.perryellis.com/email-unsub/email-unsub,default,pg.html) from receipt of emails within ten (10) days of receiving the request, not only for promotional emails that Perry Ellis sends,. As such, in compliance with the CAN-SPAM Act of 2003, Perry Ellis will provide to such companies the email address of anyone who has submitted to Perry Ellis an [unsubscribe](http://www.perryellis.com/email-unsub/email-unsub,default,pg.html) request, provided such company agrees not to disclose or use such email address for any other purpose than honoring your request to not receive Perry Ellis promotional emails.   
+We honor every request to [unsubscribe](http://www.perryellis.com/email-unsub.html) from receipt of emails within ten (10) days of receiving the request, not only for promotional emails that Perry Ellis sends,. As such, in compliance with the CAN-SPAM Act of 2003, Perry Ellis will provide to such companies the email address of anyone who has submitted to Perry Ellis an [unsubscribe](http://www.perryellis.com/email-unsub.html) request, provided such company agrees not to disclose or use such email address for any other purpose than honoring your request to not receive Perry Ellis promotional emails.   
 Perry Ellis reserves the right to use and/or disclose to others non-Personal Information about your demographics and use of our Site in a manner that does not reveal your identity.
 
 ### How does Perry Ellis protect a child's privacy?
@@ -67,7 +67,7 @@ In keeping with the Children's Online Privacy Protection Act, Perry Ellis will n
 
 ### Does Perry Ellis.com have links to other web sites?
 
-There may be links on our Site to the websites of others. When you click onto one of these links, you are leaving Perry Elli’s Site and accessing another party's website. These other websites are not under our control and may collect Personal Information from you. Our Privacy Policy does not address the information, privacy and security practices or policies of any other website. For more information, please read our [copyright, trademark, and site usage policy](http://www.perryellis.com/terms/terms,default,pg.html "http://www.perryellis.com/page/peterms").   
+There may be links on our Site to the websites of others. When you click onto one of these links, you are leaving Perry Elli’s Site and accessing another party's website. These other websites are not under our control and may collect Personal Information from you. Our Privacy Policy does not address the information, privacy and security practices or policies of any other website. For more information, please read our [copyright, trademark, and site usage policy](http://www.perryellis.com/terms.html "http://www.perryellis.com/page/peterms").   
 Please send any concerns regarding our Privacy Policy to [legal@perryellis.com](mailto:legal@perryellis.com).
 
 Effective: February 17, 2011
