@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627192612id_/http%3A//www.ironmountain.com/Utility/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214073734id_/http%3A//www.ironmountain.com/Utility/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,7 +84,7 @@ As we provide more services on our websites and as privacy laws and regulations 
 
 **How we protect and store your information.**
 
-Iron Mountain takes seriously the security of the information it collects. Iron Mountain has therefore implemented technology and security policies and procedures intended to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information appropriate to the nature of the data concerned. In addition, Iron Mountain has certified its compliance with the Safe Harbor frameworks designed to satisfy the "adequacy" requirement under the European Directive on Data Protection and the Swiss Federal Data Protection Act. 
+Iron Mountain takes seriously the security of the information it collects. Iron Mountain has therefore implemented technology and security policies and procedures intended to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information appropriate to the nature of the data concerned. In addition, Iron Mountain complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Iron Mountain has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Iron Mountain's certification, please visit <http://www.export.gov/safeharbor/>.
 
 Personal Information collected via this Web site is stored on servers in the USA, and these servers are subject to Iron Mountain's IT security policies and procedures. If you are located in another jurisdiction, you should be aware that your Personal Information once collected will be transferred to our servers, and the USA currently does not have uniform data protection laws. 
 
@@ -116,4 +116,4 @@ _From its valued employees (including prospective and former employees)_ , Iron 
 
 If you have any questions about our privacy policy, please contact our Vice President of Privacy at 1-800-935-6966, ext. 8477 (if calling from within the USA) or 617 535 8477 (if calling from outside the USA) or via e-mail at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com) or by writing to Vice President of Privacy, Iron Mountain, 745 Atlantic Avenue, Boston, MA 02111, USA.
 
-This policy was last updated August 1, 2012.
+This policy was last updated August 9, 2013.
