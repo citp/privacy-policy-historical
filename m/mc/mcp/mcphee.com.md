@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcphee.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615044911id_/http%3A//mcphee.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcphee.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214072127id_/http%3A//mcphee.com/shop/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
