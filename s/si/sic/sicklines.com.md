@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sicklines.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614035021id_/http%3A//www.sicklines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sicklines.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214222004id_/http%3A//www.sicklines.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - Sick Lines – mountain bike reviews, news, videos | Your comprehensive downhill and freeride mountain bike resource
 
