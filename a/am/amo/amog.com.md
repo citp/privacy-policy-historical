@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the amog.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514042220id_/http%3A//amog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amog.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214054545id_/http%3A//amog.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | AMOG
+# Privacy Policy
 
 AMOG.COM PRIVACY POLICY  
-Last Updated: May 2012
+Last Updated: October 2013
 
 1\. Purpose
 
