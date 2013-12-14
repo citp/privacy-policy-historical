@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614235602id_/http%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214025319id_/http%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,8 @@ We collect information from you when you place an order or subscribe to our news
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
 
 We use Google Analytics to analyze our visitor traffic in order to improve our products and services, and as part of that your IP address and time of visit is recorded. You may, however, visit our site anonymously through a VPN, or by disabling javascript in your browser or using a plugin that blocks trackers.
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Sovereign Man website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
 ## What do we use your information for?
 
