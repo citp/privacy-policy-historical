@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509153324id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyms.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214082925id_/http%3A//skinnyms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
