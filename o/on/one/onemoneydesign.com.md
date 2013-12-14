@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onemoneydesign.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614143033id_/http%3A//www.onemoneydesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemoneydesign.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214115706id_/http%3A//www.onemoneydesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - One Money Design
+# Privacy Policy - one money design
 
 Privacy Policy for **http://www.onemoneydesign.com**
 
