@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagepluscellular.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605200630id_/https%3A//www.pagepluscellular.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagepluscellular.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214102342id_/https%3A//www.pagepluscellular.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page Plus Cellular
 
@@ -17,7 +17,7 @@ When you visit [www.pagepluscellular.com](https://web.archive.org/ "Home"), we c
 
 **Use of Cookies**
 
-In order to improve the online experience of both site visitors and registered users, Page Plus Cellular may place information-gathering cookies on your computer’s hard drive. Our cookies serve two purposes:
+In order to improve the online experience of both site visitors & registered users, Page Plus Cellular may place information-gathering cookies on your computer’s hard drive. Our cookies serve two purposes:
 
   * To gather information about how individuals use our site in order to make it more functional and easier to access.
   * To help registered users navigate directly to Web pages they need to access in order to complete their online business quickly and easily.
