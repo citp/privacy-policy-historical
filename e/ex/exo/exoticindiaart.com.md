@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502232729id_/http%3A//exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214034900id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Indian Artwork - Gold Jewelry Paintings and Buddha Statues - Exotic India Art
 
@@ -79,7 +79,7 @@ This site gives users the following options for removing their information from 
 **Correct/Update**  
 If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within the “My Account” section of the site once you have logged in or by emailing our Customer Support at [info@exoticindiaart.com](mailto:info@exoticindiaart.com). We will respond to your access request within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer user your information to provide you services contact us at info@exoticindiaart.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer user your information to provide you services contact us at info@exoticindia.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
 **Customer Testimonials/Comments**  
 We post customer testimonials/comments on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial or comment to post their name along with their testimonial or comment. To request removal of your personal information from our testimonials or comments, contact us at [privacy@exoticindiaart.com](mailto:privacy@). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
