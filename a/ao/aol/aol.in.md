@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aol.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531151143id_/http%3A//www.coolage.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.in privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214034311id_/http%3A//www.coolage.in/privacy-policy) for the most accurate reproduction.*
 
 # AOL INDIA PRIVACY POLICY - Coolage
 
-### AOL INDIA PRIVACY POLICY
+ 
 
 When you use and/or register with and use [http://m.coolage.in](http://m.coolage.in/) or [http://www.coolage.in](http://www.coolage.in/) ("AOL India Web sites"), you gain access to the enhanced websites, services and other content and offerings from AOL Online India Private Limited ("AOL India") and its affiliates (collectively, "AOL"). When you register with AOL, you provide personally identifiable information (your "AOL India information"). This Policy explains the information practices that apply to your AOL India information, as well as the choices you can make about the ways this information is used by AOL.
 
