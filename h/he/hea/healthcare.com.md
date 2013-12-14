@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605104142id_/http%3A//www.healthcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214021059id_/http%3A//www.healthcare.com/privacy-policy) for the most accurate reproduction.*
 
 # HealthCare.com
 
@@ -11,7 +11,7 @@ In general, you can visit our Site without telling us who you are or revealing a
 
 
 **Non-Personally Identifiable Information**  
-HealthCare.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation, and will be used only as a source of anonymous statistical information.
+HealthCare.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, we receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Healthcare.com or advertisements and other content served by or on behalf of Healthcare.com on other Web sites. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation, and will be used only as a source of anonymous statistical information.
 
 This information may include: 
 
@@ -25,7 +25,7 @@ This information may include:
 
 
 **Personally Identifiable Information**  
-HealthCare.com collects no personally identifiable information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, HealthCare.com.com does collect personally identifiable information from our users at several different points on our Web site.
+HealthCare.com collects no personally identifiable information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, Healthcare.com receives and stores any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our site features. We use the information that you provide for such purposes as responding to your search requests.
 
 **Registration**  
 In order to use some areas of this web site, you must first complete the registration form. If you as choose to register for "Take Control of Your Health" and "Advertise with Us", we request certain personally identifiable information from you such as your email address, gender, age and zip code. This information is used to improve the content of our web, review purposes, customize the content and/or layout of our page for each individual visitor, notify consumers about updates to our Web site, contact consumers for marketing purposes and aggregate information on what pages our consumers access or visit.  
@@ -34,7 +34,7 @@ In order to use some areas of this web site, you must first complete the registr
 **Placing an Order**  
 When you place an order, we require you to provide us with PII. We use this information to give you a customized experience and to process the orders that you place with us. When you place an order, we automatically establish your own registration account ("Personal Account") where information used in placing such order (including billing address, email address, telephone number(s) is saved. Your Personal Account is password protected from third parties. Upon confirmation of your order, you will receive an email from sales@healthcare.com that will include your password from us. You may access your Personal Account by signing in with that password. Afterward, you may change your password, edit your PII or request a password reminder at any time. Our database stores your billing and delivery information, and will automatically transfer it to the order form each time you place an order so that you do not have to re-enter this information when you sign in at subsequent visits.
 
-To keep your information safe, you must choose a good password. At HealthCare.com passwords must be at least for characters, a-z and 0 -9 with at list one letter and one number. Our password field is case - sensitive.
+To keep your information safe, you must choose a good password. At HealthCare.com passwords must be at least four characters, a-z and 0 -9 with at list one letter and one number. Our password field is case - sensitive.
 
 **Opt-Out Policy**  
 We provide you the opportunity to opt-out of having your PII used for certain purposes, when we ask for this information. For example, if you register as a HealthCare.com user but do not wish to receive any additional marketing material from us, you can indicate your preference on our sign-up form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at contact@healthcare.com. We also offer an opportunity to opt-out of certain communications on our member profile pages.
