@@ -1,12 +1,25 @@
-> *The following text is extracted and transformed from the eveningflavors.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613232555id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningflavors.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215004304id_/http%3A//eveningflavors.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Bangalore Restaurants, Pubs, Parties Guide from eveningflavors.com
 
-**For Booking and Info Call :** **022 - 30987888**
+**For Booking and Info Call :** **080 - 40894999**
 
 [](https://web.archive.org/)
 
 **Plan and book your dining and partying venue**
+
+  * [ ](https://web.archive.org/Bangalore/)
+  * [Restaurants](https://web.archive.org/Restaurant/Bangalore/) [Restaurant By Area](https://web.archive.org/Restaurants/Bangalore/Area/) | [Restaurant By Cuisine](https://web.archive.org/Restaurants/Bangalore/Cuisines/) | [Speciality Restaurants](https://web.archive.org/Speciality-Restaurant/Bangalore/) |  [Five Star](https://web.archive.org/fivestar/Bangalore/) | 
+  * [Buffet](https://web.archive.org/Buffet-Lunch-Dinner-Restaurants/Bangalore/) [Lunch Buffet](https://web.archive.org/Lunch-Buffet/Restaurants/Bangalore/) | [Dinner Buffet](https://web.archive.org/Dinner-Buffet/Restaurants/Bangalore/) | [Breakfast Buffet](https://web.archive.org/Breakfast-Buffet/Restaurants/Bangalore/) | [Midnight Buffet](https://web.archive.org/MidNight-Buffet/Restaurants/Bangalore/) | [Brunch](https://web.archive.org/Brunch/Restaurants/Bangalore/) | 
+  * [ Offers](https://web.archive.org/Special-Offers/Bangalore/)
+  * [Pubs & Bars](https://web.archive.org/Pubs-Bars/Bangalore/Nightclubs/)
+  * [Parties](https://web.archive.org/Party/Bangalore/) | [DJ Parties](https://web.archive.org/DJ-Parties/Bangalore/) | [Food Festival](https://web.archive.org/Food-Festival/Bangalore/) | [Karaoke Night](https://web.archive.org/Karaoke-Night/Bangalore/) | [Live Performance](https://web.archive.org/Live-Performance/Bangalore/) | 
+  * [Plan a party](https://web.archive.org/Plan-a-party/) | [Corporate Parties](https://web.archive.org/Planing/Corporate-Party/Bangalore/) | [Special Occasion Parties](https://web.archive.org/Planing/Special-Occasion-Party/Bangalore/) | [Wedding Parties](https://web.archive.org/Planing/Wedding-Party/Bangalore/) | [Get Together Parties](https://web.archive.org/Planing/Get-Together-Party/Bangalore/) | [Casual Outing](https://web.archive.org/Planing/Casual-Outing-Party/Bangalore/) | 
+  * [Resorts](https://web.archive.org/Resorts/Bangalore/) | [Bannerghatta Road](https://web.archive.org/Resorts/Bannerghatta-Road/Bangalore/) | [Tumkur Road](https://web.archive.org/Resorts/Tumkur-Road/Bangalore/) | [Mysore Road](https://web.archive.org/Resorts/Mysore-Road/Bangalore/) | [Kanakapura Road](https://web.archive.org/Resorts/Kanakapura-Road/Bangalore/) | [Hosur Road](https://web.archive.org/Resorts/Hosur-Road/Bangalore/) | 
+  * [Blogs](http://blog.eveningflavors.com/)
+  * [New Year Parties  ](https://web.archive.org/new-year-parties/Bangalore/)
+
+
 
 EveningFlavors.com  takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
