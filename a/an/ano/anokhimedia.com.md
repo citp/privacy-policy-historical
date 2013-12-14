@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614002734id_/http%3A//anokhimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214062213id_/http%3A//www.anokhimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # ANOKHI MEDIA - Privacy Policy
 
