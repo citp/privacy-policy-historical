@@ -1,37 +1,92 @@
-> *The following text is extracted and transformed from the charlottetilbury.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621031918id_/http%3A//www.charlottetilbury.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlottetilbury.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214023423id_/http%3A//www.charlottetilbury.com/help/security-privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Charlotte Tilbury
+# Security & Privacy Policy - Charlotte Tilbury
 
-**Your information**
+This privacy policy sets out how Charlotte Tilbury Beauty Ltd uses and protects any information that you disclose when you use this website. Charlotte Tilbury Beauty Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Charlotte Tilbury Beauty Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-The personal information about yourself which you give us – your name and email address – will be private to us and I promise we won’t give it away or sell it to anyone else. Obviously, on occasion, you may share certain details about yourself with other people, for example, when you post messages or other stuff to the site, when others can see things about you and who you are. If you do this, that is your choice and nothing to do with us or our own duty to protect the information you give us ourselves directly. Our duty is in relation to the information you give us in confidence and which we won’t share with others.
+## What we collect
 
-(Of course, if this information is required as part of some legal process, or if we reasonably need to disclose it to somehow protect ourselves or the public, then that’s different.)
+We may collect the following information:
 
-Obviously I don’t do everything on this website myself – sometimes my team and I rely on third party providers to do things for us. If this involves these third parties having access to any personal information, our arrangements with them will always mean this is done in total confidence and only for the purpose for which we enlist their help with the site, and that they will not be entitled to use that information themselves or to share it with anyone else.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-In using the site, we may learn other things about our users, for example about the operating systems they use, their browser versions, domain names and IP addresses and the details of any website they are referred to us from.
 
-You have the right to see the personal information we hold about you. You may do this at any time by requesting that information from us (by writing to us or by emailing or calling us). We may ask you questions to ensure we are dealing with the right person before responding to such a request and we also have the right to charge a processing fee in so doing. In addition, if you want to change or delete any of your personal information which you have given us previously, you can, whenever you like. Just get in touch via the [Contact](http://www.charlottetilbury.com/blog/contact/ "Contact") form or by post to 18 Lonsdale Road, London NW6 6RD.
 
-On occasion, we may contact you to make sure our records are up to date and accurate or we may ask users update their own registered details by notice on the site itself. ****
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-**The Internet**
+## What we do with the information we gather
 
-In giving us information, you are obviously submitting it to us via the internet. Whilst we will do everything (within reason) to protect the privacy of that information once it is received by us, the actual transmission of the information across the Internet is not our responsibility and no-one can guarantee to you that that part of the process is entirely secure, and so we can’t be responsible for that part of the process either. ****
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-**Things we may do with your information**
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-Once we have your information, unless you request otherwise we may email you with ideas we have or goods or services or events (ours or those of other organisations) we think you might be interested in, because of what we know about you. We may also on occasion ask you to participate in surveys we are running or things like that. If at any time you don’t wish to receive any more of these messages, you may opt-out of receiving them and we will tell you how to do this in any such message we do send you.
 
-**Other websites**
 
-When this site links to another website, we’re not responsible for that site’s contents or privacy policy and you should check these yourself where relevant.
+## Security
 
-**Changes to this policy**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-We reserve the right to change this privacy policy at any time. If you’re worried about this, please keep checking back on this page. ****
+## How we use cookies
 
-**Cookies**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-This site uses cookies. Find out more about our [Cookies Policy](http://www.charlottetilbury.com/blog/cookies). ****
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at customercare@charlottetilbury.com 
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Customer Care, Charlotte Tilbury Beauty Ltd, 18 Lonsdale Road, London, NW6 6RD. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
