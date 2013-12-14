@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507042315id_/http%3A//ebird.org/content/ebird/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215001642id_/http%3A//ebird.org/content/ebird/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — eBird
+# Privacy Policy | eBird
 
-eBird is designed to gather and disseminate information about bird distribution and abundance across the Western Hemisphere. 
+eBird is designed to gather and disseminate information about bird distribution and abundance across the Western Hemisphere.
 
 ### Submitted Information
 
@@ -16,7 +16,7 @@ Because a primary goal of eBird is to maintain a universally accessible, central
 
 eBirders are able to view their personal observations and the observations of others, so please be aware that your observations of sensitive species and their locations will be available to other eBird users.
 
-As conservation organizations, the Cornell Lab of Ornithology and the National Audubon Society seek to limit disturbance to birds especially at sensitive locations such as nest and roost sites. If you are not familiar with the American Birding Association's [Principles of Birding Ethics](http://www.aba.org/about/ethics.html), we encourage you to review them.
+As conservation organizations, the Cornell Lab of Ornithology and the National Audubon Society seek to limit disturbance to birds especially at sensitive locations such as nest and roost sites. If you are not familiar with the American Birding Association’s [Principles of Birding Ethics](http://www.aba.org/about/ethics.html), we encourage you to review them.
 
 ### Cookies
 
@@ -24,10 +24,10 @@ Cookies are pieces of data that we store on your computer to tie your informatio
 
 Internet browsers allow you to determine whether or not to accept cookies (check under the preferences or options in the browser menu). If you decide not to accept cookies, you can still use the eBird site, but you will need to re-enter login information each time you visit.
 
-**Great Backyard Bird Count**
+### Great Backyard Bird Count
 
-Participants in the Great Backyard Bird Count may wish to review the [GBBC privacy policy](http://www.birdsource.org/gbbc/faqs-1/privacy) as well.
+Participants in the Great Backyard Bird Count may wish to review the [GBBC privacy policy](http://www.birdsource.org/gbbc/faqs-1/privacy) as well.
 
 ### Changes to This Privacy Policy
 
-We may occasionally update or amend eBird's Privacy Statement. If we make changes, we will post the changes here.
+We may occasionally update or amend eBird’s Privacy Statement. If we make changes, we will post the changes here.
