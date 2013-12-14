@@ -1,100 +1,136 @@
-> *The following text is extracted and transformed from the xtremedownload.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremedownload.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214051003id_/http%3A//www.wedownload.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# weDownload
 
-**Go Daddy Respects Your Privacy**
+This website collects some Personal Data of its Users.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Information rights and express consent
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+According to what is set forth in current Privacy Policy, WeDownload Ltd., as owner of the Website, informs the User that files containing personal data from users and customers have been created by WeDownload, which accepts responsibility for the files, duly filed with the corresponding public entity.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+WeDownload does not sell or rent its users' personal data to third parties with commercial purposes without the user' prior consent. However, WeDownload is enabled to disclose personal data in order to (i) fulfill a legal requirement, (ii) demand the fulfillment of our policies, (iii) answer claims regarding the breach or protection of any third party's rights or its property or security, in the event they are affected by advertisements or contents. WeDownload is enabled, as well, to share or transfer your personal information to:
 
-**Information Collection and Use**
+Personal Data
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+The Personal Data and Browser Data (hereinafter collectively referred to as "Data"), automatically collected from this website (hereinafter the "Site"), by means of automated systems or freely entered by the User or the Interested Party, are collected for the purposes, and processed, as follows below.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Parties processing the data
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Owner of the Data Processing System**  
+WeDownload Ltd. - Agiou Prokopiu Street, 13- 2406 Egkomi, Nicosia, Cyprus,  
+contact at wedownload.com
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Kinds of Data
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The Data that may be collected by this Site are name, surname, address, phone number, email, fax, social security number, IP address and other Data relating to the User’s identity or technical access to the Site by the User. When Sensitive Personal Data are transferred (personal data revealing racial or ethnic, religious, philosophical or other beliefs, political opinions, membership of political parties, trade unions, associations or organizations of a religious, philosophical or political nature, and personal data disclosing information about health and sex life), it may be necessary to obtain consent in order to process them.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+The Browser Data referring to the technical use of the Site must be collected, and transfer is not optional. The User may freely provide the remaining Data, including personal information, unless it is expressly indicated otherwise. Failure to process certain Data (e.g. contact details, or addresses, or data concerning behavior or user preferences, etc.) may make it impossible for the Site to provide its services.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+If the User utilizes the Site to publish or otherwise share Personal Data with third parties, he or she assumes full responsibility: the User states possession of the right to communicate or disclose personal data to third parties, and that they have received prior information thereto, thus relieving the Site of all responsibility for their improper use following disclosure or dissemination.
 
-**Security**
+Mode and place of processing of the information obtained
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Method of Processing**  
+The Data Controller processes the Data of the Interested Parties and Users in a lawful and proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Processing is carried out using computers and / or telematic means, with organizational methods and logics strictly related to the stated purposes. In addition to the owner, in some cases, access to the Data may be available to personnel involved in the organization of the Site (administrative, commercial, marketing, legal, system administrators) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Managers by the Owner of the Processing procedure. The updated list of Managers can be requested from the Owner by contacting the above address at any time.
 
-**Updating Your Information**
+**Place**  
+The Data are processed at the headquarters of the Data Controller. Any processing of Data outside one of the EU Member States may require the consent of the User or the Interested Party.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Time**  
+The Data are kept for the time necessary to perform the service requested by the User, and the User can always ask for removal from the servers of the Site for legitimate reasons.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The use of the collected Data
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+the provision of the service or delivery of goods for sale purchased on the Site, and more generally, for administrative and accounting or technical purposes; 
 
-      iii.      You may call us at: (480) 505-8800
+  * The Provision Of The Service
+  * a response to specific requests for information by the User;
+  * a User update on new products or services provided by the Site or concerning particular business offers;
+  * the User to be informed of any Site maintenance or inconvenience;
+  * any commercial profiling of the User;
+  * to display banners related to User interests (behavioral targeting / advertising);
+  * defense by the Website Owner, in court or in the stages leading to possible legal action, against improper use of the same or related services by the User.
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Some forms of processing (sending promotional information, commercial profiling, behavioral advertising, geolocation, etc.) may require the express consent of the User or the Interested Party. Specific information may be shown on the pages of the Site in connection with particular services or processing of Data provided by the User or by the Interested Party.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Services provided by this website
 
-**Compliance with Laws and Law Enforcement**
+The use of Data for additional purposes by the Data Controller, or for services for which it is necessary to collaborate with third parties, listed below, may in some cases require the free and specific consent of the User or the Interested Party.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Geolocation**  
+This Website may collect, use, and share User location Data in order to provide location-based services. Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, this Site may track your location Data.
 
-**Third Party Service Providers**
+The personal data collected are: Geographic position.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Purpose of the information collected and Services utilized on the website
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The purpose of the treatment of the personal information, the personal information collected and any suppliers of third party services involved are mentioned hereinafter.
 
-**Supplementation of Information**
+**Google Adsense (Google)**  
+The advertising services, provided by third parties, may allow the Website to use User’s Data for commercial communication purposes displayed in the form of banners and other advertisements on the Website based on Users’ interests.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Google Adsense is an advertising service that indexes, also through automatic means such as web spider or crawler, all or part of the Data of the User's Website. Google may also record through special "DoubleClick" cookies the User's behavior in his/her interaction with the User's Website. The cookies are used by Google and third parties to show different advertisements on the basis of User’s previous behavior.
 
-**Contests/Surveys**
+The Users may decide to disable all the DoubleClick cookies by clicking on: [www.google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/settings/ads/onweb/optout?hl=en)
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Place of Data Processing: USA: [google.com/privacy/ads/](http://google.com/privacy/ads/)
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+The personal data collected are: Cookie and IP.
 
-**Tell-A-Friend**
+**Google Analytics (Google)**  
+The analytics services contained in this section, provided by third parties, are used to track User behavior and, in case of profiling, they can require the User's express consent.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Google Analytics is a web analysis service supplied by Google, Inc. ("Google"), which uses "cookies" to collect Users’ Personal Data which are forwarded to, and deposited on, Google's servers in the United States. Google uses the Data collected to (i) track and examine the Website’s usage, (ii) prepare reports on the Website’s activities for the website managers and (iii) supply other optional services. Google may use the Data collected to carry out behavioral targeting of the Website’s Users. Google does not associate the user's IP address with any other information in Google's possession. Any refusal to utilize the cookies, by selecting the appropriate setup on your browser, may prevent the use of some functions of this Website.
 
-**What Happens to my Personal Information if I Opt Out?**
+Place of Data Processing: USA More information: [www.google.com/intl/en/analytics/privacyoverview.html](http://www.google.com/intl/en/analytics/privacyoverview.html)
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+The personal data collected are: Cookie and IP.
 
-**Transfer of Data Abroad**
+**Information provided by minors**  
+Users older than fourteen years old are able to register into the website without their parents' or tutors' prior consent.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+In the event the User is a minor under fourteen, their parents' or tutors' prior consent is required for the handling of the minor's personal data. The minor will be never asked about other members of his/her family's professional or economic situation or their privacy.
 
-**Changes in Our Practices**
+The Rights of Interested Parties
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Those persons to whom the Data refer, have the right, at any time, to obtain confirmation of the existence or otherwise of information by consulting the Data Controller, to learn about their contents and origin, to verify their accuracy or to ask for their integration, cancellation, update or correction, their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Processor at the address cited in the "Data Controller" section.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**Right to Access, Correct and Cancel Data**  
+The User is entitled to access this information, correct it if there are mistakes and cancel their WeDownload account.
 
-**Contacting Our Site**
+Users can exercise these rights via the configuration menu in their personal profile, which they can access using their email address and password. If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at:   
+WeDownload Ltd.  
+Agiou Prokopiu Street, 13- 2406 Egkomi, Nicosia, Cyprus,  
+contact at wedownload.com
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+**Modification of the Data Protection Policy**  
+WeDownload reserves the right to modify this policy to adapt it to future legislative or case law developments.
 
-* * *
+Definitions and legal references
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**Personal information**  
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
+
+**Browsing Details**  
+Details collected automatically from the site, including the IP addresses or domain names of the computers utilized by the users who connect to the site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file obtained in reply, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of provenance, the features of the browser and the operating system utilized by the visitor, the various time details per visit (for instance the time spent on each page) and the details about the path followed within the site with special reference to the sequence of pages visited, other parameters about the operating system and the user’s IT environment.
+
+**User**  
+Means the individual user of the Site’s services or products
+
+**Interested Party**  
+Indicates the subject to which the Personal Data refers, using the services or the products of the site.
+
+**Data Processor**  
+The natural person, legal person, public administration or any other organization, association or organization designated by the Data Controller for the Personal Data processing system.
+
+**Data Controller**  
+The natural person, legal person, public administration or any other organization, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Site.
+
+**Legal information**  
+This privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of cookies.
+
+This privacy statement applies solely to the Site and is not meant to refer to other sites whose links are possibly contained therein.
+
+_Last modified: 9th May 2012_
