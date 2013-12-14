@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the clickmeeting.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507064632id_/http%3A//www.clickmeeting.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickmeeting.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214101802id_/http%3A//www.clickmeeting.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Video Conferencing, Web Conference - Privacy Policy - ClickMeeting
 
 ## Privacy Policy
+
+Effective Date: 07/08/2013
 
 This Privacy Policy statement discloses the privacy practices for ClickMeeting (http://www.clickmeeting.com/), a site hosted by by Implix Sp.z.o.o. hereinafter referred to as "Implix".
 
@@ -28,7 +30,7 @@ With active consent, the user's email address can be used to send them newslette
 
 The user agrees and acknowledges that their information collected through this Site and related Services or in connection with the ClickMeeting Service may be transferred across national boundaries and stored and processed in any of the countries around the world in which Implix maintains offices, including the United States.
 
-Information that is provided by meeting organizers such as: Participant name, email address and any other business contact and meeting subject contact **are considered confidential to the purchaser of the meeting**. When the meeting attendee registers with one of our users for an online transmission, that information is provided to the meeting organizer. Implix may store that information to fulfill our obligations to our users. Implix will not use the information to send marketing information for Implix services or third party offers to attendees. The user should be aware that any personally identifiable information they submit while in-session and chatting can be read, collected or used by the meeting organizer and other meeting participants. Implix will not view information except as necessary to appropriately support the service.
+Information that is provided by meeting organizers such as: Participant name, email address and any other business contact and meeting subject contact **are considered confidential to the purchaser of the meeting**. When the meeting attendee registers with one of our users for an online transmission, that information is provided to the meeting organizer. Implix may store that information to fulfill our obligations to our users. Implix will not use the information to send marketing information for Implix services or third party offers to attendees. The user should be aware that any personal information they submit while in-session and chatting can be read, collected or used by the meeting organizer and other meeting participants. Implix will not view information except as necessary to appropriately support the service.
 
 Implix collects only personal information that the user chooses to provide voluntarily registering to our ClickMeeting Service. Implix shall advise the user which information is mandatory to provide and what they do not have to enclose.
 
@@ -38,7 +40,7 @@ The user's Implix and ClickMeeting account information, username, password and u
 
 ## User Access and Choice
 
-If your personally information changes, or if you no longer desire our service, you may correct, update, remove or request deletion by making the change on our member information page, by emailing our Customer Support at [support@clickmeeting.com](mailto:support@clickmeeting.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+If your personal information changes, or if you no longer desire our service, you may correct, update, remove or request deletion by making the change on our member information page, by emailing our Customer Support at [support@clickmeeting.com](mailto:support@clickmeeting.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -84,7 +86,7 @@ The use of cookies by any partners, affiliates, tracking utility company or serv
 
 ## Web Beacons
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information.
 
 ## Information Security
 
@@ -110,7 +112,7 @@ ClickMeeting in-meeting information is encrypted from the beginning till the end
 
 
 
-Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[Support@Implix.com](mailto:support@implix.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[support@implix.com](mailto:support@implix.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
   * _**\- Public Webpage**_
 
@@ -134,13 +136,19 @@ Our web site offers you the opportunity to import your contacts via a CSV file i
 
 
 
-With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [_Support@Implix.com_](mailto:support@implix.com).
+With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [_support@implix.com_](mailto:support@implix.com).
 
   * _**\- Social Media Widgets**_
 
 
 
-Our Web site includes Social Media Features, such as the Facebook Like button and the Google +1 Button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site includes Social Media Features, such as the Facebook Like button and the Google +1 Button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+  * _**\- Facebook Connect**_
+
+
+
+You can log in to our site using Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 ## Changes to this Policy
 
@@ -150,4 +158,10 @@ We may update this privacy statement to reflect changes to our information pract
 
 We need the user's help in keeping the Personal Information they have shared with us accurate and up-to-date.
 
-For additional inquiries about the privacy of the user's information, they can always contact Implix via email at [support@clickmeeting.com](https://web.archive.org/web/20130507064632id_/http%3A//www.clickmeeting.com/support@clickmeeting.com), by calling 1-877-725-425-2.
+For additional inquiries about the privacy of the user's information, they can always contact Implix via email at [support@clickmeeting.com](https://web.archive.org/web/20131214101802id_/http%3A//www.clickmeeting.com/support@clickmeeting.com), by calling 1-877-725-425-2.
+
+**IMPLIX Sp. z o.o.**  
+ul.Arkońska 6, A3   
+80-387 Gdańsk, POLAND.
+
+[](https://privacy.truste.com/privacy-seal/Implix-Sp-z-o-o-/validation?rid=61c378c4-d8d5-4dfc-aad6-d6de80a9323f "TRUSTe online privacy certification")
