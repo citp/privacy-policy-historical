@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525044241id_/http%3A//www.magazines.com/help/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214182449id_/http%3A//www.magazines.com/help/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy | Magazines.com
 
@@ -34,19 +34,15 @@ Note: Even if you choose to not receive some marketing emails from us, you will 
 
 ### The Way We Use Information:
 
-We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to the publisher in order to quickly fulfill your order, provide you with discounted subscription rates and qualify you for free magazine subscription offers. Because your information is shared with the publisher, the information is governed by the privacy policies of the recipients of the information. We also use the information to provide you with information about magazine subscriptions and other products and services. 
-
-PAID CONSUMER MAGAZINES: Magazines.com does not share email addresses with other parties, including the publishers. Magazines.com does not provide any other personal information to any other businesses (besides the publisher of the magazine to which you've subscribed). 
-
-FREE TRADE MAGAZINES: Magazines.com does not share your email address with any other parties, besides the publisher who requires an email address as part of the qualification process. Occasionally, we may provide personally identifiable information, voluntarily provided on free trade magazine qualification forms, to third parties who provide products and services that Magazines.com believes readers may be interested in purchasing, obtaining, or learning more about. To request that your information not be shared with third parties, please [contact us](https://www.magazines.com/on/demandware.store/Sites-mags-us-Site/default/CustomerService-ContactUs). 
+We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to our third party fulfillment partners, such as magazine publishers, in order to quickly fulfill your order. For email addresses specifically, Magazines.com does not share this information with other parties, except when you purchase a digital magazine subscription and your email address is required to authenticate that digital subscription with the magazine publisher. Because your information is shared with our third party fulfillment partners, the information is governed by the privacy policies of the recipients of the information. We also use the information to provide you with information about our other products and services and in an effort to provide you with a superior customer experience. 
 
 ### Cookies
 
-Although we use cookies for web site optimization reasons, we do not use cookies to collect any personal information (cookies are small files downloaded to your computer to record movements within web sites). 
+Cookies are small files downloaded to your computer to record movements within web sites. We use cookies for web site optimization reasons, but do not use cookies to collect any personal information. We also use cookies to improve the performance of our advertising on other websites. To opt-out of our data collection for targeted advertising on other sites, [ click here to Opt Out Now](http://webmedia.magazines.com/optout.html). 
 
 ### Tracking
 
-We do use tracking software to observe user traffic patterns throughout our site. But we do not correlate this information with data about individual users. Tracking information is used only to determine which areas of our site users like and don't like, and how well each page performs on behalf of our guests. This helps us continue to build a better service for you. We also monitor search terms and titles entered at our site as a means of knowing what interests our customers. But we don't track which terms a particular user enters. 
+We do use tracking software to observe user traffic patterns throughout our site. But we do not correlate this information with data about individual users. Tracking information is used only to determine which areas of our site users like and don't like, and how well each page performs on behalf of our guests. This helps us continue to build a better service for you. We also monitor search terms and titles entered at our site as a means of knowing what interests our customers; however, we do not track which terms a particular user enters. 
 
 ### Security
 
@@ -54,7 +50,7 @@ When you place orders, we provide the use of a secure server. The secure server 
 
 ### Fair Credit Billing Act
 
-We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
+The safety of every online transaction is important to us. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
 ### How You Can Access Or Correct Your Information
 
@@ -64,4 +60,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ### How To Contact Us
 
-If you ever have any questions about what information we collect and how we use it, [please contact us](https://www.magazines.com/on/demandware.store/Sites-mags-us-Site/default/CustomerService-ContactUs). 
+If you ever have any questions about what information we collect and how we use it, [please contact us](http://www.magazines.com/on/demandware.store/Sites-mags-us-Site/default/CustomerService-ContactUs). 
+
+Magazines.com reserves the right to modify or amend this privacy policy at any time. It is our policy to post any changes we make to our privacy policy on this page, and the date this policy was last revised is identified at the top of this page. We encourage you to periodically review this page for the latest information on our privacy practices. You will be notified of any material changes to this privacy policy which are less protective of your information prior to such changes becoming effective. We may notify you of these changes by email reminders, by notice on this site, or by other acceptable means. 
