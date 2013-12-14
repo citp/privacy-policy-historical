@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youradchoices.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605103836id_/http%3A//www.youradchoices.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youradchoices.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214145754id_/http%3A//www.youradchoices.com/privacy.aspx) for the most accurate reproduction.*
 
 # Your AdChoices - How interest based advertising finds you
 
