@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616024427id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215054634id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consumer-Rankings
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.consumer-rankings.com/seal_m "Validate TRUSTe privacy certification")
 
-This privacy statement describes how our Web site [www.consumer-rankings.com](https://web.archive.org/) collects and uses personal information. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how our web site [www.consumer-rankings.com](https://web.archive.org/) owned and controlled by Centerfield Media Holdings, LLC ("Consumer-Rankings.com", "we", "us" or "our") collects and uses personal information.
 
 [www.consumer-rankings.com](https://web.archive.org/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -89,6 +89,18 @@ In some cases, we may require the use third party vendors, outside companies, to
 
 When you sign up for our services, we will share only as much information as is necessary for the provision of those services. We require that all third parties, hired by Consumer-Rankings.com, comply with our Privacy Policy in order to keep your information safe and secure. These third parties are prohibited from using or sharing your personally identifiable information for any purpose other than the job they were hired to do.
 
+### Social Media
+
+Our web site may include social media features, such as a Facebook Like button and widgets such as a Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Any social media feature is either hosted by a third party or hosted directly on our site. Your interaction with any of these features is governed by the privacy policy of the company providing it.
+
+### Public Forums
+
+Our web site may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. Without limiting anything contained herein, where you are able to post comments to our blog by using the Facebook social plugin, we are not responsible for any information you choose to submit through this feature. To request removal of your personal information from our blog or community forum, contact us at the email address listed below. To request removal of your personal information from our blog or community forum that you posted by logging into Facebook, please contact Facebook directly. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+### Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, then contact us at the email address contained herein. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
+
 ### Updating Your Information
 
 If you want to access or update the personal information you submitted to Consumer-Rankings.com please e-mail us at [customerservice@Consumer-Rankings.com](mailto:customerservice@Consumer-Rankings.com) or write us at the following address.
@@ -122,6 +134,6 @@ For more information on how your personally identifiable information is collecte
 
 PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.
 
-LAST UPDATED 04-15-2011
+LAST UPDATED 09-05-2013
 
-Copyright © Consumer-Rankings.com, 2012 All Rights Reserved.
+Copyright © Consumer-Rankings.com, 2013 All Rights Reserved.
