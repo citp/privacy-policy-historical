@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wbponline.com privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524083545id_/http%3A//wbponline.com/Static/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wbponline.com privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215091240id_/http%3A//wbponline.com/Static/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -7,12 +7,15 @@
     <meta name="description" content="WBP Online is a prime source for latest financial market news. It offers free real time quotes, streaming charts, fastest economic calendar, real-time forex data">
     <title>WBP Online - PrivacyPolicy</title>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link href="/Content/css?v=gV7PghvNDs9OM7bS8FllAPwkRzzynVM04uu4P46gAas1" rel="stylesheet">
+    <link href="/Content/css?v=I1vL3TEExty7DS8ZeBnZGJ_KZJqyJY0eSKpn9EeqfT81" rel="stylesheet">
 
     
-    <script type="text/javascript" async="" src="//d2uct1yuzshd76.cloudfront.net/5f4ec805fcc34b2c311c101b3f4002d84162.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js" type="text/javascript"></script>
     <script src="/Scripts/x.js" type="text/javascript"></script>
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/knockout/2.2.1/knockout-min.js"></script>
 
     <script src="http://cdnjs.cloudflare.com/ajax/libs/json3/3.2.3/json3.min.js"></script>
 
@@ -20,10 +23,13 @@
     <script src="/bundles/core?v=5kWNKoFDnZ2UczcHynWg-twqE1OvYRPLsS64uPS90Xo1"></script>
 
 
-    
-    <script src="/bundles/hc?v=inBpWpOurbpxQgBHNcVfhyyKmErjXpY22XEQQO1YZOA1"></script>
+    <script src="/bundles/utils?v=nka7kwb9Kjl2tVM43qRoCJNVtClRN1HgWCkc8gtc4ws1"></script>
 
-    <script src="/bundles/default?v=Y0QT9GiaLHWJfNyfmNGr4Kr7mqSwlG4-p5YhqjTnQW81"></script>
+
+    
+    <script src="/bundles/hc?v=vdWpC01_vHQLhw6awA6BOyA4PGmQTQmGaZyLXltQENg1"></script>
+
+    <script src="/bundles/default?v=JiINmexII4TuQtf7Y0nv0G7uFxKCPTAybgw4rBHUHaw1"></script>
 
 
     
@@ -43,20 +49,7 @@
 </script> 
 
 <!-- foretaster / wbponline.com -->
-<script type="text/javascript">
 
-    function foretaste(r)
-    {
-        setTimeout(function ()
-        {
-            var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true; f.src = r;
-            s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
-        }, 1);
-    }
-
-    foretaste('//d2uct1yuzshd76.cloudfront.net/5f4ec805fcc34b2c311c101b3f4002d84162.js');
-
-</script>
 
 
 
@@ -90,48 +83,228 @@
 <div id="Widget_TopBanner" class="WidgetContainer" data-name="TopBanner" data-url="/Widgets/TopBanner" data-state-hash="undefined" data-refresh-interval="0" data-configuration="">
     
 
-    
-      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-      <script type="text/javascript" src="../../../../Scripts/swfobject.js"></script>
-      <script type="text/javascript">
-         swfobject.embedSWF("../../../../Areas/Widgets/Scripts/Banner/wbp_feco_468x60_01.swf", "banner-top", "468", "60", "9.0.0");
-         
-      </script>
-    
-    
-      <div id="banner-top">
-        <a href="http://wbponline.com/Products">
-         <img width="468" height="60" alt="F-ECO" src="../../../../Content/images/banner_468x60_2.png">
-        </a>
-   </div>
-  
-
+<script type="text/javascript" src="../../../../Scripts/swfobject.js"></script>
+<script type="text/javascript">
+    swfobject.embedSWF("../../../../Areas/Widgets/Scripts/Banner/wbp_feco_468x60_01.swf", "banner-top", "468", "60", "9.0.0");
+</script>
+ 
+<div id="banner-top">
+    <a href="http://wbponline.com/Products">
+        <img width="468" height="60" alt="F-ECO" src="../../../../Content/images/banner_468x60_2.png">
+    </a>
+</div>
 
 </div>
+
+        </div>
+        <div style="width: 310px; float:left; padding: 8px 5px 5px 10px; ">
+            <div class="header-login">
+        <a class="register clearfix" href="/Account/LoginOrRegister">
+            
+            Log in or Register
+        </a>
+
+    <script type="text/ecmascript">
+        $(function ()
+        {
+            $(".header-login").hover(
+                function ()
+                {
+                    $(".header-login ul").stop(true, true).slideDown('fast');
+                },
+                function ()
+                {
+                    $(".header-login ul").stop(true, true).slideUp('fast');
+                }
+            );
+        });
+
+    </script>
+</div>
+
+            <div class="time-zone-select">
+    <div class="clock"></div>
+    <div class="clock-utc">&nbsp;</div>
+</div>
+
+<div class="time-zone-select-dialog ui-helper-hidden">
+    <table>
+        <tbody data-bind="foreach: timeZones">
+            <tr data-bind="css: { 'selected' : $parent.classSelected($data.timeZoneId) }">
+                <td data-bind="attr: { 'data-id': id }"><a class="select" href="#" data-bind="    text: displayName, click: function(data, event) { $parent.selectZone($data.id()) }"></a></td>
+            </tr>
+        </tbody>
+    </table>
+     
+</div>
+
+<script type="text/javascript">
+
+
+    timeZone.setUtcOffset(0);
+    console.log("timeZone.utcOffset", timeZone.utcOffset);
+    timeZone.timeZoneId = "UTC";
+
+    function TimeZoneModel(data) {
+        this.id = ko.observable(data.Id);
+        this.displayName = ko.observable(data.DisplayName);
+        this.timeZoneId = data.Id;
+    }
+
+    function TimeZoneViewModel() {
+        var self = this;
+
+        var url = WebApiRootUrl + "timezones/get?callback=?";
+
+        var defaultTimeZone = { id: "UTC", displayName: "UTC" };
+
+        self.timeZones = ko.observableArray(
+        [
+            defaultTimeZone
+        ]);
+
+        self.selectedTimeZone = ko.observable();
+
+        self.classSelected = function(timeZoneId)
+        {
+            if (timeZoneId == self.selectedTimeZone())
+            {
+                return true;
+            }
+
+            return false;
+        };
+        
+        self.selectZone = function(timeZoneId)
+        {
+            timeZone.timeZoneId = timeZoneId;
+            $.cookie('timezone_id', escape(timeZone.timeZoneId), { path: '/', domain: '.wbponline.com', expires: 30 });
+
+                
+            if (timeZone) { timeZone.resetUtcOffset(); }
+            $(".time-zone-select-dialog").dialog("close");
+                
+        };
+
+        self.loadData = function () {
+            $.getJSON(url)
+            .done(function (data) 
+            {
+                self.selectedTimeZone(timeZone.timeZoneId);
+
+                var mapped = $.map(data, function (item) { return new TimeZoneModel(item); });
+                self.timeZones(mapped);
+            });
+        };
+    }
+
+    var vm = new TimeZoneViewModel();
+
+    
+    // vm.timeZones(defaultTimeZone);
+    ko.applyBindings(vm);
+
+    $(function () {
+        //console.log("beafore load", vm.selectedTimeZone());
+
+        $(".time-zone-select").off("click").click(function(eventObject)
+        {
+            vm.loadData();
+
+            $(".time-zone-select-dialog").dialog(
+            {
+                dialogClass: "thin-dialog",
+                modal: true,
+                title: 'Select Your Time Zone',
+                width: 500,
+                height: 400,
+                show:
+                {
+                    effect: "none"
+                }
+            });
+
+
+
+        });
+
+        timeZone.onReset(function(timeZoneId, utcOffset) {
+        	$(".newsdate").each(function () {
+        		var miliseconds = $(this).data("time") + (timeZone.getOffset() * 60 * 1000);
+        		var newtime = new Date(miliseconds);
+
+        		var hours = newtime.getUTCHours();
+        		var period = hours > 12 ? 'PM' : 'AM';
+        		hours = hours > 12 ? hours - 12 : hours;
+        		var newminutes = newtime.getUTCMinutes() < 10 ? '0' + newtime.getUTCMinutes() : newtime.getUTCMinutes();
+        		var newhours = hours < 10 ? '0' + hours : hours;
+        		var timetext = "&nbsp;" + newhours + ':' + newminutes + ' ' + period;
+        		$(this).html(timetext);
+        	});
+
+        });
+        console.log("timezone OnReset");
+        //timeZone.onReset(function(timeZoneId) { console.log("timezone OnReset", timeZoneId); });
+    });
+</script>
+
+
             
         </div>
         <div style="float: right;">
-        <div style=" margin-top: 5px; margin-right: 5px;">
-            <div style="color: #dc7222; text-decoration: none;">
-    
+            <form action="/Search?Page=1" class="search-form" method="get"><input id="Query" name="Query" type="text" value="">        <button type="submit"></button>
+</form>
 
-        <h3 class="title">
-            <a href="/Account/LoginOrRegister" id="loginLink" style="color:#ffffff; text-decoration: none;">Log in or Register</a>
-        </h3>
-</div>
+<script>
+    var searchSuggestionApi = WebApiRootUrl + "/Search/Suggest";
 
-        </div>
-        <div style="float:right; margin-top: 20px; margin-right: 5px;">
-            
-            
-        </div>
+    $(function ()
+    {
+        $(".search-form button").click(function(event)
+        {
+            var length = $(".search-form #Query").val().length;
+
+            if (length && length < 2)
+            {
+                event.preventDefault();
+            }
+        });
+
+        $(".search-form #Query").autocomplete({
+            minLength: 2,
+            source: function (request, response) {
+                $.ajax({
+                    url: searchSuggestionApi,
+                    dataType: "jsonp",
+                    data: {
+                        Query: request.term
+                    },
+                    success: function (data) {
+                        response($.map(data, function (item) {
+                            return {
+                                label: item,
+                                value: item
+                            };
+                        }));
+                    }
+                });
+            },
+            select: function(event, ui)
+            {
+                $(this).val(ui.item.value);
+                $(".search-form button").click();
+            }
+        });
+    });
+</script>
+
         </div>
     </div>
     <div class="clear">
     </div>
     <div class="grid_12 alpha" id="mainMenu">
         <ul class="l menu">
-                <li class="i  ">                                                                       
+                <li class="i  ">
                     <div class="menu_header_begin" style="width:22px; left:2px;"></div>
                     <a class="a menu_header" href="/" style="left:24px; width:30px;">Home</a>
                     <div class="menu_header_end" style="width:22px; left:53px;"></div>
@@ -149,7 +322,7 @@
                 <li class="i  ">
                     <div class="menu_header_begin" style="width:22px;  left:226px;"></div>
                     <a class="a menu_header" href="/Static/USMarkets" style="left:248px; width:68px;">US Markets</a>
-                   <div class="menu_header_end" style="width:22px;  left:315px;"></div>
+                    <div class="menu_header_end" style="width:22px;  left:315px;"></div>
                 </li>
                 <li class="i  ">
                     <div class="menu_header_begin" style="width:22px;  left:337px;"></div>
@@ -182,11 +355,12 @@
         </ul>
     </div>
 
-    <div class="clear" style="height:6px">
+    <div class="clear" style="height: 6px">
     </div>
     
 </div>
-<div class="clear" style="height:10px"> </div> 
+<div class="clear" style="height: 10px"></div>
+
         <div class="grid_12">
 
 <script type="text/javascript">
@@ -333,201 +507,30 @@
 
 
 <script type="text/javascript">
-    $(document).ready(function () {
-        var qt = new quotetable.instance('quotetable-item',
-        [
-            gfd.symbols[20],
-            gfd.symbols[22],
-            gfd.symbols[100000],
-            gfd.symbols[100004],
-            gfd.symbols[1130],
-            gfd.symbols[970],
-            gfd.symbols[1042],
-            gfd.symbols[653],
-            gfd.symbols[100044],
-            gfd.symbols[24],
-            gfd.symbols[36],
-            gfd.symbols[32]
-        ]);
-        qt.start();
-    });
-</script>
-
-        </div>
-
-        
-        <div class="clear">
-        </div>
-
-        <div class="grid_12">
-
-<script type="text/javascript">
-    $(function ()
-    {
-            WidgetFramework.prototype.InitWidget("Widget_EcalendarPopup");
-    });
-
-    var Widget_EcalendarPopupPrototype = Widget_EcalendarPopupPrototype || {};
-
-</script>
-<div id="Widget_EcalendarPopup" class="WidgetContainer" data-name="EcalendarPopup" data-url="/Widgets/EcalendarPopup" data-state-hash="d41d8cd98f00b204e9800998ecf8427e" data-refresh-interval="10000" data-configuration="">
-    
-
-
-	<div class="empty" style="height:2px"></div>
-
-
-<script type="text/javascript">
-
-	var cnt = "0";
-	var valuesActual = "";
-	var n = valuesActual.split("|");
-
-	var ecalendarPopup = {};
-
-	ecalendarPopup.item = function (id,name,country,surveyStr,actualStr,priorStr,releaseDate) {
-		this.id = id;
-		this.name = name;
-		this.country = country;
-		this.surveyStr = surveyStr;
-		this.actualStr = actualStr;
-		this.priorStr = priorStr;
-		this.releaseDate = releaseDate;
-		this.dirty = true;
-
-		this.released = function(){
-			return this.actualStr != '-';
-		}
-	}
-
-	ecalendarPopup.data = function() {
-		this.update = function(){
-			var unreleased = 0;
-			var dirty = 0;
-			var nextReleaseTime = 0;
-
-			for (var row = 0; row < ecalendarPopup.items.length; ++row){
-				var item = ecalendarPopup.items[row];
-
-				if (item.dirty) ++dirty;
-			
-				if (!item.released())
-				{
-					++unreleased;
-					if (nextReleaseTime == 0 || item.releaseDate < nextReleaseTime)
-					nextReleaseTime = item.releaseDate;
-				}
-			}
-
-			this.unreleased = unreleased;
-			this.dirty = dirty;
-			this.nextReleaseTime = nextReleaseTime;
-			this.countdownFinished = unreleased == 0 && dirty == 0;
-		}
-	}
-
-	ecalendarPopup.init = function () {
-		ecalendarPopup.isCountdownFinished = false;
-		
-		ecalendarPopup.items = new Array();
-
-
-		ecalendarPopup.d = new ecalendarPopup.data();
-		ecalendarPopup.d.update();
-
-		if (!window.ecalendarPopupRegistered) {
-			window.ecalendarPopupRegistered = true;
-			push.addClockHandler(ecalendarPopup.onClock);
-			push.addEcalReleaseHandler(ecalendarPopup.onEcalRelease);
-			push.subscribeClock();
-			push.subscribeEcalRelease();
-		}
-	}
-
-	ecalendarPopup.onEcalRelease = function(ecalRelease) {
-		for (var row = 0; row < ecalendarPopup.items.length; ++row){
-			var item = ecalendarPopup.items[row];
-
-			if (!item.released() && item.id == ecalRelease.indicatorInstanceId){
-				item.actualStr = ecalRelease.actualString;
-				item.dirty = true;
-			}
-		}
-
-		ecalendarPopup.d.update();
-	}
-
-	ecalendarPopup.onClock = function (time) {
-		if (ecalendarPopup.d.countdownFinished)
-			return;
-
-		var anyDirty = false;
-		for (var row = 0; row < ecalendarPopup.items.length; ++row) {
-			var item = ecalendarPopup.items[row];
-
-			if (item.dirty) {
-				anyDirty = true;
-				if (item.released()){
-					if (ecalendarPopup.items.length == 1) {
-						$("#span-actual-" + row).removeClass("countdown-actual-waiting-high");
-					} else {
-						$("#span-actual-" + row).removeClass("countdown-actual-waiting");
-					}
-					
-					$("#span-actual-" + row).addClass("countdown-actual");
-					$("#span-actual-" + row).text(item.actualStr);
-				}
-				
-				item.dirty = false;
-			}
-		}
-
-		if (anyDirty){
-			ecalendarPopup.d.update();
-		}
-		
-		if (ecalendarPopup.d.unreleased <= 0) {
-			$("#countdown-clock-value").text("Released");
-
-			ecalendarPopup.isCountdownFinished = true;
-			
-			$("#clock").removeClass("countdown-clock");
-			$("#clock").addClass("countdown-clock-final");
-
-			return;
-		}
-
-		var remain = ecalendarPopup.d.nextReleaseTime - time;
-		if (remain <= 0) {
-			$("#countdown-clock-value").text("Waiting");
-			ecalendarPopup.d.countdownFinished = true;
-
-			$("#clock").removeClass("countdown-clock");
-			$("#clock").addClass("countdown-clock-final");
-
-			return;
-		}
-
-		var min = Math.floor(remain / 60000);
-		if(min<10) {
-			min='0' + min;
-		}
-		var sec = Math.floor((remain % 60000)/1000);
-		if (sec < 10) {
-			sec = '0' + sec;
-		}
-
-		$("#countdown-clock-value").text(min + ":" + sec);
-	}
-
-
-	$(document).ready(function() {
-		ecalendarPopup.init();
+	$(document).ready(function () {
+		gfd.addInitialiseCompletedHandler(function () {
+			var qt = new quotetable.instance('quotetable-item',
+			[
+				gfd.symbols[20],
+				gfd.symbols[22],
+				gfd.symbols[100000],
+				gfd.symbols[100004],
+				gfd.symbols[1130],
+				gfd.symbols[970],
+				gfd.symbols[1042],
+				gfd.symbols[653],
+				gfd.symbols[100044],
+				gfd.symbols[24],
+				gfd.symbols[36],
+				gfd.symbols[32]
+			]);
+			qt.start();
+		});
 	});
 </script>
-</div>
+
         </div>
-        <div class="clear">
+        <div class="clear" style="height: 8px">
         </div>
         <div id="content" class="grid_12">
             
@@ -661,7 +664,7 @@
     <div id="copyright" class="legal">
         <div id="c7">
             <ul>
-                <li>Copyright © 2012 <a href="#">World Business Press Online</a>, a.s. All rights
+                <li>Copyright © 2013 <a href="#">World Business Press Online</a>, a.s. All rights
                     reserved.</li>
                 <li><a href="/Static/Disclaimer">Disclaimer</a></li>
                 <li><a href="#"></a><a href="/Static/PrivacyPolicy">Privacy Policy</a></li>
