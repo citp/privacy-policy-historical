@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620013651id_/http%3A//www.vodafone.ie/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215160815id_/http%3A//www.vodafone.ie/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Vodafone Ireland
+# Vodafone Ireland's Privacy Policy
 
 Vodafone Ireland Limited (hereinafter referred to as "Vodafone" "us" "we" or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws.
 
@@ -56,19 +56,19 @@ Type of Record or Information| Retention Period
 
 Interconnect call records (i.e. the records of calls made to or received from other networks) are retained for 12 months for inter-operator billing purposes.
 
-For legal purposes call traffic records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes.  
+For legal purposes call traffic records will be retained for a period of 2 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes.  
   
  **Business Call Traffic Details** (actual record of call, i.e. time of call, caller, number called, duration of call, etc)| 6 months plus current month (max.) for our purposes (as described above and in our general terms and conditions e.g. market research, product development). 
 
 Interconnect call records (i.e. the records of calls made to or received from other networks) are retained for 12 months for inter-operator billing purposes. 
 
-For legal purposes call records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes. Business customers may elect to avail of ancillary services that may retain their call details for longer periods. This retention will only take place where the customer has agreed to the additional service.  
+For legal purposes call records will be retained for a period of 2 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes. Business customers may elect to avail of ancillary services that may retain their call details for longer periods. This retention will only take place where the customer has agreed to the additional service.  
   
  **Data Service Usage Details** (WAP site visits, web site visits, live! Use, text alert subscriptions)| 6 months plus current month (max.) for our purposes (as described above and in our general terms and conditions). This data does not include content.
 
-For legal purposes usage records will be retained for a period of 3 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone’s commercial purposes.  
+For legal purposes usage records will be retained for a period of 12 months to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone’s commercial purposes.  
   
- **Cookies**|  Cookies are stored on a per session basis only to aid your navigation of our web-sites. Persistent cookies may be set to store display related preferences. Depending on your browser you may also be able to control cookie use by altering your browser settings.  
+ **Cookies**|  Cookies are stored on a per session basis only to aid your navigation of our web-sites. Persistent cookies may be set to store display related preferences. Depending on your browser you may also be able to control cookie use by altering your browser settings. See more  
  **Invoices & Statements**| 6 years plus current year for invoices and statements.
 
 The call detail element of your standard bill will be severed and deleted after 6 months, as described above.  
@@ -77,29 +77,29 @@ The call detail element of your standard bill will be severed and deleted after 
   
 ## Cookies
 
- **16.** We will make limited use of cookies for certain online services (e.g. My Vodafone) where your account details are accessible. For security purposes cookies are used to maintain current session details (e.g. user name, site preferences). These cookies reside in the temporary internet file of your PC and are set to expire 30 minutes after your last action or when you elect to log off. Cookies with longer expiry dates may occasionally be used to store your display preferences. These cookies do not contain any user-specific details (such as user names or passwords).
+ **16\. What are cookies and how do we use them?** Cookies are tiny text files that are stored on your computer, tablet or mobile phone when you visit a website in order to help the website work efficiently, to help us analyse the way our website works and how we can improve it, and to ensure that the website functions to the optimum. We make some use of cookies on vodafone.ie for certain online services (e.g. in My Vodafone and the eShop) where your account details are accessible but for your security these cookies are only used to maintain session details (e.g. logon, site preferences etc.) and do not contain any user-specific details (such as user names, passwords or bank details). We take looking after your details seriously – we're always monitoring and improving how we protect your personal information.
 
- **17.** Depending on the type of browser you are using, you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of the web browser for specific details about cookie security.
+ ** **17.  ** How to control cookies in your browser? **Depending on the type of browser you are using (e.g. Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, Safari etc.), you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of the web browser for specific details about cookie security. For more details on cookies and how to control them, visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Go to AboutCookies.org") (please note this link opens a new window or browser tab).
 
-## Access to your Information
+##  **Access to your Information**
 
- **18.** You are entitled to copies of your Data kept by us. Requests should be in writing* and should be addressed to Office of Customer and Channel Management, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18. Please quote your name, address and your mobile and/or account number. We will take all reasonable steps to confirm your identity before issuing any copy Data.
+18\. You are entitled to copies of your Data kept by us. Requests should be in writing* and should be addressed to Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18. Please quote your name, address and your mobile and/or account number. We will take all reasonable steps to confirm your identity before issuing any copy Data.
 
-## Information Security
+##  **Information Security**
 
- **19.** Vodafone is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information.
+19\. Vodafone is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information.
 
- **20.** Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Vodafone cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
+20\. Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Vodafone cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
 
- **21.** It may be necessary to transfer your personal information to other group companies or service providers located in countries outside of the European Economic Area (EEA)**. This may happen where our servers or suppliers and service providers are based outside of the EEA or where you use our services and products while visiting countries outside of the EEA. The data protection and other laws of these countries may not be as comprehensive as those in Ireland or the EU - in these instances we will take steps to ensure that your privacy rights are respected.
+21\. It may be necessary to transfer your personal information to other group companies or service providers located in countries outside of the European Economic Area (EEA)**. This may happen where our servers or suppliers and service providers are based outside of the EEA or where you use our services and products while visiting countries outside of the EEA. The data protection and other laws of these countries may not be as comprehensive as those in Ireland or the EU - in these instances we will take steps to ensure that your privacy rights are respected.
 
-## General
+##  **General**
 
- **22.** If you have any query about Vodafone's data protection policy or practices, please write to: Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18 or send an email to dataprotection@vodafone.ie
+22\. If you have any query about Vodafone's data protection policy or practices, please write to: Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18 or send an email to dataprotection@vodafone.ie
 
- **23.** This policy should be read in conjunction with the general terms and conditions of this website and the general terms and conditions that apply to your use of Vodafone’s mobile telephony services where more details of the use we make of your data is outlined.
+23\. This policy should be read in conjunction with the general terms and conditions of this website and the general terms and conditions that apply to your use of Vodafone’s mobile telephony services where more details of the use we make of your data is outlined.
 
- **24.** We reserve the right to amend or modify this Data Protection Policy at any time in response to changes in applicable data protection and privacy legislation.
+24\. We reserve the right to amend or modify this Data Protection Policy at any time in response to changes in applicable data protection and privacy legislation.
 
 * - We may charge a small fee to cover the administration costs. This fee is set by the Data Protection Commissioner from time to time
 
