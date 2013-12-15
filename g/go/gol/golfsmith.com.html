@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the golfsmith.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615164411id_/http%3A//www.golfsmith.com/ps/display%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the golfsmith.com privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215192840id_/http%3A//www.golfsmith.com/ps/display%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="imagetoolbar" content="no">
@@ -189,7 +189,7 @@ function logout_click()
    
    <script type="text/javascript" src="/ischat.js"></script> 
  
-    <script language="JavaScript">document.write('<img src="http://admin.instantservice.com/resources/smartbutton/6304/24194/available.gif?'+Math.floor(Math.random()*10001)+'" style="width:0;height:0;visibility:hidden;position:absolute;" onLoad="agents_available(24194,\'PS\')" onError="agents_not_available(\'ps\')">');</script><img src="http://admin.instantservice.com/resources/smartbutton/6304/24194/available.gif?8967" style="width:0;height:0;visibility:hidden;position:absolute;" onload="agents_available(24194,'PS')" onerror="agents_not_available('ps')"><div id="liveHelp"></div>
+    <script language="JavaScript">document.write('<img src="http://admin.instantservice.com/resources/smartbutton/6304/24194/available.gif?'+Math.floor(Math.random()*10001)+'" style="width:0;height:0;visibility:hidden;position:absolute;" onLoad="agents_available(24194,\'PS\')" onError="agents_not_available(\'ps\')">');</script><img src="http://admin.instantservice.com/resources/smartbutton/6304/24194/available.gif?3362" style="width:0;height:0;visibility:hidden;position:absolute;" onload="agents_available(24194,'PS')" onerror="agents_not_available('ps')"><div id="liveHelp"></div>
 
       <div id="cart"><p><a href="/checkout/cart" id="CartTotal" title="View Your Shopping Cart" name="ps-Header+View-Cart"><strong>$0.00</strong></a></p></div>
   <div id="siteHelp">
@@ -220,22 +220,45 @@ function logout_click()
 <!-- ================= -->
 <!-- ================= -->
 <!-- ****************** DO NOT EDIT ABOVE THIS LINE ****************** -->
-
+<!-- ENDECA START -->
+    <link rel="stylesheet" type="text/css" href="/css/auto-suggest.css">
 	<!-- ================= -->
 	<!-- ================= -->
 	<div id="nav">		<!-- NAV DIV - Primary, Secondary, and Tertiary Navigation -->
 	<!-- ================= -->
 
-		<div id="nav1">		<!-- The class "widerSearch" can be added to increase the width of the Search Box when necessary -->
+		<div id="nav1" class="widerSearch">		<!-- The class "widerSearch" can be added to increase the width of the Search Box when necessary -->
 
 			<div id="nav1-search">
-				<form method="get" action="/search" id="search" name="search" style="width: 420px;">
-					<div id="nav1-search_text" style="width: 220px;">						
+				<form method="get" action="/search" id="search" name="search" style="width: 420px;" autocomplete="off" onsubmit="if(this.Ntt.value == '')return false;">
+                    <div id="nav1-search_text" style="width: 220px;">						
                     <label for="site_search"><strong>Search Golfsmith:</strong></label>
-						<input style="width: 175px;" id="site_search" name="s" type="text" onclick="ClearSearchBox(this);" value="Search / Item #">
+                    	<!--<input type="hidden" value="1" name="Dy">-->
+    					<!--<input type="hidden" value="1" name="Nty">-->
+						<input style="width: 175px;" id="site_search" name="Ntt" type="text" onclick="ClearSearchBox(this);" value="Search / Item #">
 						<input id="submitSearch_btn" type="submit" value="">
 					</div>
-					<div id="nav1-search_brand" style="width: 150px;">
+				</form>
+
+				<script src="/javascript/endeca-auto-suggest.js" type="text/javascript"></script>
+
+				<script type="text/javascript">
+					$(document).ready(
+						function(event){
+							$("#site_search").endecaSearchSuggest(
+							{
+								minAutoSuggestInputLength: 3,
+								autoSuggestServiceUrl: 'http://endecalb.gsicorp.com/golfsmith-assembler/autosuggest.json/browse',
+								collection: "/content/Shared/Auto-Suggest Panels",
+								searchUrl: '/',
+								containerClass:'dimSearchSuggContainer',
+								defaultImage:''
+							});
+						}
+					); 
+				</script>
+				<form method="get" action="/search">
+					<div id="nav1-search_brand" style="width: 150px; float:right; margin-right:-40px;">
 						<label for="brand_search">Shop by Brand:</label>
 						<select id="brand_search" onchange="window.location.href=this.value; return false" style="width: 150px; display: none;" class="selectBox">
 							<option value="">Shop by Brand</option>
@@ -252,6 +275,7 @@ function logout_click()
 <option value="/brand/footjoy">FootJoy</option>
 <option value="/brand/garmin">Garmin</option>
 <option value="/brand/golf_pride">Golf Pride</option>
+<option value="/brand//hank-haney">Hank Haney</option>
 <option value="/brand/lamkin">Lamkin</option>
 <option value="/brand/macgregor">MacGregor</option>
 <option value="/brand/maggie_lane">Maggie Lane</option>
@@ -272,17 +296,15 @@ function logout_click()
 <option value="/brand/winn">Winn</option>
 </optgroup>
 <optgroup id="group2" label="Shop All Brands">
+<option value="/search/3bays">3BAYS</option>
 <option value="/search/ab-golf-designs">AB Golf Designs</option>
-<option value="/search/accu-net">Accu-Net</option>
 <option value="/search/adams">Adams</option>
 <option value="/search/adidas">adidas</option>
-<option value="/search/agile-fitness">Agile Fitness</option>
 <option value="/search/allstar-awards">Allstar Awards</option>
-<option value="/search/arnie">Arnie</option>
 <option value="/search/ashworth">Ashworth</option>
 <option value="/search/asics">Asics</option>
 <option value="/search/athalon">Athalon</option>
-<option value="/search/avon">Avon</option>
+<option value="/search/aveo">AVEO</option>
 <option value="/search/back-9-originals">Back 9 Originals</option>
 <option value="/search/backjoy">Backjoy</option>
 <option value="/search/bag-boy">Bag Boy</option>
@@ -291,22 +313,19 @@ function logout_click()
 <option value="/search/bass">Bass</option>
 <option value="/search/bat-caddy">Bat-Caddy</option>
 <option value="/search/bella-crystal">Bella Crystal</option>
+<option value="/search/bettinardi">Bettinardi</option>
 <option value="/search/bionic-technologies">Bionic Technologies</option>
 <option value="/search/birdie-ball">Birdie Ball</option>
+<option value="/search/black-clover">Black Clover</option>
 <option value="/search/black-widow">Black Widow</option>
 <option value="/search/boccieri-golf">Boccieri Golf</option>
 <option value="/search/bogey-pro-golf">Bogey Pro Golf</option>
 <option value="/search/booklegger">Booklegger</option>
-<option value="/search/bracketron">Bracketron</option>
 <option value="/search/bridgestone">Bridgestone</option>
-<option value="/search/bugatchi">Bugatchi</option>
 <option value="/search/bushnell">Bushnell</option>
-<option value="/search/caddiesak">CaddieSak</option>
 <option value="/search/caddydaddy-golf">CaddyDaddy Golf</option>
 <option value="/search/callaway">Callaway</option>
 <option value="/search/callaway-golf-eyewear">Callaway Golf Eyewear</option>
-<option value="/search/calvin-klein">Calvin Klein</option>
-<option value="/search/cart-clamp">Cart Clamp</option>
 <option value="/search/cart-tek">Cart-Tek</option>
 <option value="/search/castle-bay">Castle Bay</option>
 <option value="/search/cgi-sports-memories">CGI Sports Memories</option>
@@ -339,7 +358,6 @@ function logout_click()
 <option value="/search/drizzle-stik">Drizzle Stik</option>
 <option value="/search/ecco">Ecco</option>
 <option value="/search/energy-athletic">Energy Athletic</option>
-<option value="/search/enmon-accessories">Enmon Accessories</option>
 <option value="/search/ep-pro">EP Pro</option>
 <option value="/search/evertan">Evertan</option>
 <option value="/search/evolve-golf">Evolve Golf</option>
@@ -349,13 +367,13 @@ function logout_click()
 <option value="/search/f2">F2</option>
 <option value="/search/fairwaypro">FairwayPro</option>
 <option value="/search/footjoy">FootJoy</option>
-<option value="/search/fore-concepts">Fore Concepts</option>
+<option value="/search/foresight-sports">Foresight Sports</option>
+<option value="/search/fourteen-golf">Fourteen Golf</option>
 <option value="/search/fridge-to-go">Fridge to Go</option>
 <option value="/search/frogg-toggs">Frogg Toggs</option>
 <option value="/search/frogger">Frogger</option>
 <option value="/search/g_fore">G/FORE</option>
 <option value="/search/garmin">Garmin</option>
-<option value="/search/glove-branders">Glove Branders</option>
 <option value="/search/glove-it">Glove It</option>
 <option value="/search/gofit">GoFit</option>
 <option value="/search/golf-buddy">Golf Buddy</option>
@@ -369,35 +387,31 @@ function logout_click()
 <option value="/search/golfstream">Golfstream</option>
 <option value="/search/great-golf-memories">Great Golf Memories</option>
 <option value="/search/greenkeeper">Greenkeeper</option>
-<option value="/search/gripit-rite">Gripit Rite</option>
+<option value="/search/greg-norman">Greg Norman</option>
 <option value="/search/haas-jordan">Haas-Jordan</option>
 <option value="/search/hank-haney">Hank Haney</option>
-<option value="/search/harley-davidson">Harley Davidson</option>
 <option value="/search/heater-craft">Heater Craft</option>
 <option value="/search/heavy-putter">Heavy Putter</option>
 <option value="/search/hello-kitty-golf">Hello Kitty Golf</option>
 <option value="/search/hirzl">HIRZL</option>
 <option value="/search/hornungs">Hornungs</option>
-<option value="/search/hugo-boss">Hugo Boss</option>
 <option value="/search/hydro-flask">HYDRO FLASK</option>
 <option value="/search/igotcha">Igotcha</option>
 <option value="/search/inside-approach">Inside Approach</option>
-<option value="/search/insta-golf-shoes">Insta Golf Shoes</option>
-<option value="/search/izod">Izod</option>
+<option value="/search/ion">iON</option>
+<option value="/search/izod">IZOD</option>
 <option value="/search/izzo">Izzo</option>
 <option value="/search/jamie-sadock">Jamie Sadock</option>
 <option value="/search/jba-awards">JBA Awards</option>
 <option value="/search/jef-world-of-golf">Jef World of Golf</option>
+<option value="/search/j.g.-hickory">J.G. Hickory</option>
 <option value="/search/kentwool">Kentwool</option>
 <option value="/search/kikkor-golf">Kikkor Golf</option>
 <option value="/search/killer-bee">Killer Bee</option>
-<option value="/search/kimbra-studios">Kimbra Studios</option>
-<option value="/search/lacoste">Lacoste</option>
 <option value="/search/lamkin">Lamkin</option>
 <option value="/search/laser-link">Laser Link</option>
 <option value="/search/leantwo">LeanTwo</option>
 <option value="/search/leupold">Leupold</option>
-<option value="/search/lija">Lija</option>
 <option value="/search/links-choice">Links Choice</option>
 <option value="/search/loomis-golf">Loomis Golf</option>
 <option value="/search/lynx">Lynx</option>
@@ -412,13 +426,11 @@ function logout_click()
 <option value="/search/momentus">Momentus</option>
 <option value="/search/mydallions">Mydallions</option>
 <option value="/search/never-compromise">Never Compromise</option>
-<option value="/search/new-balance-sport-monitors">New Balance Sport Monitors</option>
-<option value="/search/nextt-golf">Nextt Golf</option>
+<option value="/search/nexbelt">Nexbelt</option>
 <option value="/search/nickel-putter">Nickel Putter</option>
 <option value="/search/night-flyer">Night Flyer</option>
 <option value="/search/nike">Nike</option>
 <option value="/search/no-sox">No Sox</option>
-<option value="/search/noslice">NoSlice</option>
 <option value="/search/nyx-golf">NYX Golf</option>
 <option value="/search/oakley">Oakley</option>
 <option value="/search/odyssey">Odyssey</option>
@@ -437,19 +449,18 @@ function logout_click()
 <option value="/search/polar">Polar</option>
 <option value="/search/polara">Polara</option>
 <option value="/search/power-balance">Power Balance</option>
-<option value="/search/precept">Precept</option>
 <option value="/search/pride-golf-tee-co.">Pride Golf Tee Co.</option>
 <option value="/search/pro-active-sports">Pro Active Sports</option>
 <option value="/search/procircuit">ProCircuit</option>
 <option value="/search/professional-golf">Professional Golf</option>
-<option value="/search/proline-sports">Proline Sports</option>
 <option value="/search/psp-golf">PSP Golf</option>
 <option value="/search/puma">Puma</option>
 <option value="/search/pure-grips">PURE Grips</option>
 <option value="/search/putting-shark">Putting Shark</option>
+<option value="/search/rife-putters">RIFE Putters</option>
 <option value="/search/rj-sports">RJ Sports</option>
+<option value="/search/rope-it">Rope It</option>
 <option value="/search/royal-products">Royal Products</option>
-<option value="/search/rule-golf">Rule Golf</option>
 <option value="/search/sabona">Sabona</option>
 <option value="/search/samsonite">Samsonite</option>
 <option value="/search/san-diego-hat-company">San Diego Hat Company</option>
@@ -459,7 +470,6 @@ function logout_click()
 <option value="/search/seemore">SeeMore</option>
 <option value="/search/sharpie">Sharpie</option>
 <option value="/search/skb">SKB</option>
-<option value="/search/skirt-sports">Skirt Sports</option>
 <option value="/search/sklz">SKLZ</option>
 <option value="/search/skygolf">SkyGolf</option>
 <option value="/search/skyhorse-publishing">Skyhorse Publishing</option>
@@ -467,7 +477,6 @@ function logout_click()
 <option value="/search/sofibella">Sofibella</option>
 <option value="/search/softspikes">Softspikes</option>
 <option value="/search/solstice-arts">Solstice Arts</option>
-<option value="/search/sonocaddie">Sonocaddie</option>
 <option value="/search/spitzer">Spitzer</option>
 <option value="/search/sport-haley">Sport Haley</option>
 <option value="/search/sport+store">sport+store</option>
@@ -478,10 +487,8 @@ function logout_click()
 <option value="/search/sri-monogramming">SRI Monogramming</option>
 <option value="/search/srixon">Srixon</option>
 <option value="/search/starpro-greens">StarPro Greens</option>
-<option value="/search/starting-time">Starting Time</option>
 <option value="/search/stealth">Stealth</option>
 <option value="/search/stinger-tees">Stinger Tees</option>
-<option value="/search/stitch-golf">Stitch Golf</option>
 <option value="/search/stx">STX</option>
 <option value="/search/sun-mountain">Sun Mountain</option>
 <option value="/search/sun-products">Sun Products</option>
@@ -489,6 +496,7 @@ function logout_click()
 <option value="/search/sunice">Sunice</option>
 <option value="/search/superstroke">SuperStroke</option>
 <option value="/search/swing-thought">Swing Thought</option>
+<option value="/search/swingbyte">Swingbyte</option>
 <option value="/search/synlawn">SYNLawn</option>
 <option value="/search/tacki-mac">Tacki Mac</option>
 <option value="/search/tail">Tail</option>
@@ -498,22 +506,18 @@ function logout_click()
 <option value="/search/technasonic">Technasonic</option>
 <option value="/search/tee-pal">Tee Pal</option>
 <option value="/search/tee-pal-pro">Tee Pal Pro</option>
-<option value="/search/teeter">Teeter</option>
 <option value="/search/tef-tee">Tef Tee</option>
 <option value="/search/the-littlest-golfer">The Littlest Golfer</option>
-<option value="/search/the-mully">The Mully</option>
 <option value="/search/the-perfect-putting-aid">The Perfect Putting Aid</option>
 <option value="/search/the-white-ball">The White Ball</option>
 <option value="/search/tifosi">Tifosi</option>
 <option value="/search/tiger-shark">Tiger Shark</option>
 <option value="/search/tilley">Tilley</option>
 <option value="/search/titleist">Titleist</option>
-<option value="/search/top-flite">Top Flite</option>
 <option value="/search/total-gym-fitness">Total Gym Fitness</option>
 <option value="/search/tour-edge">Tour Edge</option>
 <option value="/search/tour-striker">Tour Striker</option>
 <option value="/search/tour-trek">Tour Trek</option>
-<option value="/search/towelmate">TowelMate</option>
 <option value="/search/tpk">TPK</option>
 <option value="/search/travis-mathew">Travis Mathew</option>
 <option value="/search/trion:z">Trion:Z</option>
@@ -521,18 +525,16 @@ function logout_click()
 <option value="/search/truestrike">TrueStrike</option>
 <option value="/search/twisttee">TwistTee</option>
 <option value="/search/under-armour">Under Armour</option>
+<option value="/search/us-kids">US Kids</option>
 <option value="/search/ust-mamiya">UST Mamiya</option>
 <option value="/search/vista-design-studios">Vista Design Studios</option>
 <option value="/search/wilson-staff">Wilson Staff</option>
 <option value="/search/winn">Winn</option>
 <option value="/search/winning-edge-designs">Winning Edge Designs</option>
-<option value="/search/yardage-tag">Yardage Tag</option>
 <option value="/search/yes-golf">Yes Golf</option>
-<option value="/search/zengyro">Zengyro</option>
 <option value="/search/zero-friction">Zero Friction</option>
 <option value="/search/zero-restriction">Zero Restriction</option>
 <option value="/search/zevo">Zevo</option>
-<option value="/search/zoom-boom-golf">Zoom Boom Golf</option>
 <option value="/search/ztech">ZTech</option>
 </optgroup>
 					
@@ -540,17 +542,17 @@ function logout_click()
 					</div>
 				</form>
 			</div>
-
+<!-- ENDECA END -->
 			<ul id="nav1-links" style="float:left;">
 <!-- ACTIVE -->	<li id="nav1-golfStore"><a class="on" href="/ps/" name="ps+nav1+Golf-Store">Golf Store</a></li>
-				<li id="nav1-outlet"><a href="/ol/" name="ps+nav1+Outlet">Outlet</a></li>
+				<li id="nav1-preOwned"><a href="/ol/" name="ps+nav1+Outlet">Outlet</a></li>
 				<!--<li id="nav1-giftCenter"><a href="/ps/display?page=ps/holiday-gift-center" name="ps+nav1+Gift-Center">Gift Center</a></li>-->
 				<!--<li id="nav1-saleClearance"><a href="/ol/" name="ps+nav1+Sale+Clearance">Sale &amp; Clearance</a></li>	
-		<li id="nav1-preOwned"><a href="/ol/" name="ps+nav1+Sale+Clearance">Sale &amp; Clearance</a></li>	-->
-            <li id="nav1-giftCenter"><a href="/ps/display?page=ps/fathers-day-gift-center" name="ps+nav1+Fathers-Day-Gift-Center">Father's Day Gift Center</a></li>
+				<li id="nav1-preOwned"><a href="/ol/" name="ps+nav1+Sale+Clearance">Sale &amp; Clearance</a></li>	-->
+            	<!-- <li id="nav1-giftCenter"><a href="/ps/display?page=ps/fathers-day-gift-center" name="ps+nav1+Fathers-Day-Gift-Center">Father's Day Gift Center</a></li> -->
 				<li id="nav1-clubmaking"><a href="/cm/" name="ps+nav1+Clubmaking">Clubmaking</a></li>
 				<li id="nav1-women"><a href="/ws/" name="ps+nav1+Womens">Women</a></li>
-				<!-- <li id="nav1-tennis"><a href="/ts/" name="ps+nav1+Tennis">Tennis</a></li> -->
+				<li id="nav1-outlet"><a href="/stores" name="ps+nav1+Stores">Stores</a></li>
 			</ul>
 		</div>
 
@@ -596,7 +598,7 @@ function logout_click()
 							<li><a href="/ps/search/grip-kits" name="ps+nav3+Golf-Clubs+c3+Grip-Kits">Grip Kits</a></li>
 							<li><a href="/ps/search/golf-club-accessories" name="ps+nav3+Golf-Clubs+c3+Club-Accessories">Club Accessories</a></li>
 							<li><a href="/customclub" name="ps+nav3+Golf-Clubs+c3+Custom-Fitting">Custom Fitting</a></li>
-							<li><a href="/display?page=ps_difference_tradein" name="ps+nav3+Golf-Clubs+c3+Trade-In-Your-Clubs">Trade-In Your Clubs</a></li>							
+							<!-- <li><a href="/display?page=ps_difference_tradein" name="ps+nav3+Golf-Clubs+c3+Trade-In-Your-Clubs">Trade-In Your Clubs</a></li> -->							
 						</ul>
 					</div>
 					
@@ -635,7 +637,6 @@ function logout_click()
 							<li><a href="/ps/search/mens-socks" name="ps+nav3+Shoes+c3+Mens-Socks">Men’s Socks</a></li>
 							<li><a href="/ps/search/womens-socks" name="ps+nav3+Shoes+c3+Womens-Socks">Women’s Socks</a></li>
 							<li><a href="/ps/display?page=ea_shoe_sizing" name="ps+nav3+Shoes+c3+Size-Chart">Size Chart</a></li>
-							<li><a href="/search/tennis-shoes" name="ps+nav3+Shoes+c3+Tennis-Shoes">Tennis Shoes</a></li>
 						</ul>
 					</div>
 					
@@ -651,14 +652,12 @@ function logout_click()
 					<div>
 						<ul>							
 							<li class="li_heading" title="Men’s Golf Apparel: Short Sleeve Shirts, Long Sleeve Shirts, T-Shirts, Pants, Shorts, Belts, Golf Shoes, Golf Socks, Golf Gloves, Headwear, Sweaters and Vests, Outerwear, Sunglasses, Watches and Men’s Outlet Apparel">Men’s Golf Apparel</li>	<!-- Tertiary Title -->							
-							<li><a href="/ps/display?page=after-18-golf-apparel/spring2012/after-18" name="ps+nav3+Apparel+c1+After-18">After 18</a></li>
 							<li><a href="/ps/search/mens-polos" name="ps+nav3+Apparel+c1+Polos">Polos</a></li>
 							<li><a href="/ps/search/mens-mocks" name="ps+nav3+Apparel+c1+Mocks">Mocks</a></li>
 							<li><a href="/ps/search/mens-t-shirts" name="ps+nav3+Apparel+c1+T-Shirts">T-Shirts</a></li>
 							<li><a href="/ps/search/mens-pants" name="ps+nav3+Apparel+c1+Pants">Pants</a></li>
 							<li><a href="/ps/search/mens-shorts" name="ps+nav3+Apparel+c1+Shorts">Shorts</a></li>
 							<li><a href="/search/?Gx=BIGTALL" name="ps+nav3+Apparel+c1+Big&amp;Tall">Big and Tall Apparel</a></li>
-                            <li><a href="/search/?Gx=RSRTAPPRL" name="ps+nav3+Apparel+c1+Resort+Wear">Resort Wear</a></li>
 							<li><a href="/ps/search/mens-belts" name="ps+nav3+Apparel+c1+Belts">Belts</a></li>
 							<li><a href="/ps/search/mens-golf-shoes" name="ps+nav3+Apparel+c1+Shoes">Shoes</a></li>
 							<li><a href="/ps/search/mens-socks" name="ps+nav3+Apparel+c1+Socks">Socks</a></li>
@@ -739,9 +738,9 @@ function logout_click()
 						<ul>
 							<li class="li_heading" title="GPS and Rangefinders: Golf GPS Units, Golf Rangefinders, Golf Launch Monitors, Golf Swing Trainers and Outlet Technology">Golf Technology</li>	<!-- Tertiary Title -->
 							<li><a href="/ps/search/gps-systems" name="ps+nav3+GPS-Rangefinders+c1+GPS-Systems">GPS Systems</a></li>
-							<li><a href="/ps/display/?page=ps/gps-watches" name="ps+nav3+GPS-Rangefinders+c1+GPS-Watches">GPS Watches</a></li>
+							<li><a href="/ps/search?Ntt=GPS+Watch" name="ps+nav3+GPS-Rangefinders+c1+GPS-Watches">GPS Watches</a></li>
 							<li><a href="/ps/search/rangefinders" name="ps+nav3+GPS-Rangefinders+c1+Rangefinders">Rangefinders</a></li>							
-							<li class="save"><a href="/ps/search/outlet+gps-rangefinders" name="ps+nav3+GPS-Rangefinders+c1+Outlet-Technology">Outlet Technology</a></li>
+							<!-- <li class="save"><a href="/ps/search/outlet+gps-rangefinders" name="ps+nav3+GPS-Rangefinders+c1+Outlet-Technology">Outlet Technology</a></li> -->
 						</ul>
 					</div>
 					
@@ -875,7 +874,7 @@ function logout_click()
 							<li class="li_heading" title="Related Categories: Push &amp; Pull Carts, Push &amp; Pull Cart Accessories, Personalized Golf Bags, Golf Bag Accessories, Golf Bag Storage, Outlet Bags">Related Categories</li>	<!-- Tertiary Title -->
 							<li><a href="/ps/search/golf-push-pull-carts" name="ps+nav3+Bags+c3+Push-Pull-Carts">Push &amp; Pull Carts</a></li>
 							<li><a href="/ps/search/?Gx=ELCCARTS" name="ps+nav3+Bags+c3+Electric-Carts">Electric Carts</a></li>
-							<li><a href="/ps/search/golf-push-pull-cart-accessories" name="ps+nav3+Bags+c3+Push-Pull-Cart-Accessories">Push &amp; Pull Cart Accessories</a></li>
+							<!-- <li><a href="/ps/search/golf-push-pull-cart-accessories" name="ps+nav3+Bags+c3+Push-Pull-Cart-Accessories">Push &amp; Pull Cart Accessories</a></li> -->
 							<li><a href="/ps/search/personalized-golf-bags" name="ps+nav3+Bags+c1+Personalized-Golf-Bags">Personalized Golf Bags</a></li>
 							<li><a href="/ps/search/golf-bag-accessories" name="ps+nav3+Bags+c3+Golf-Bag-Accessories">Golf Bag Accessories</a></li>
 							<li><a href="/ps/search/golf-bag-storage" name="ps+nav3+Bags+c3+Golf-Bag-Storage">Golf Bag Storage</a></li>
@@ -898,7 +897,7 @@ function logout_click()
 							<li class="li_heading" title="Golf Accessories: Ball Retrievers, Cart Accessories, Cleaning &amp; Repair, Gloves, Headcovers, On Course Accessories, Personalized Accessories, Sunglasses, Tees, Towels, Umbrellas and Outlet Accessories">Golf Accessories</li>	<!-- Tertiary Title -->
 							<li><a href="/ps/search/golf-push-pull-carts" name="ps+nav3+Accessories+c1+Push-Pull-Carts">Push &amp; Pull Carts</a></li>
 							<li><a href="/ps/search/?Gx=ELCCARTS" name="ps+nav3+Accessories+c1+Electric-Carts">Electric Carts</a></li>
-							<li><a href="/ps/search/golf-push-pull-cart-accessories" name="ps+nav3+Accessories+c1+Push-Pull-Cart-Accessories">Push &amp; Pull Cart Accessories</a></li>
+							<!-- <li><a href="/ps/search/golf-push-pull-cart-accessories" name="ps+nav3+Accessories+c1+Push-Pull-Cart-Accessories">Push &amp; Pull Cart Accessories</a></li> -->
                             <li><a href="/ps/search/golf-ball-retrievers" name="ps+nav3+Accessories+c1+Ball-Retrievers">Ball Retrievers</a></li>
 							<li><a href="/ps/search/golf-cart-accessories" name="ps+nav3+Accessories+c1+Cart-Accessories">Cart Covers &amp; Accessories</a></li>
 							<li><a href="/ps/search/cleaning-repair-accessories" name="ps+nav3+Accessories+c1+Cleaning-Repair">Cleaning &amp; Repair</a></li>
@@ -1019,17 +1018,17 @@ function logout_click()
               </li>
               <li><a href="/ps/display?page=ps/collegiategolfgear" name="ps+nav3+Team+c1+Shop-NCAA-by-Team">Shop NCAA by Team</a></li>
 							<li><a href="/ps/display?page=ps/nfl-golf-gear" name="ps+nav3+Team+c1+Shop-NFL-by-Team">Shop NFL by Team</a></li>
-							<li><a href="/browse.php?Gx=10COLLTEAM" name="ps+nav3+Team+c1+Shop-All-NCAA">Shop All NCAA</a></li>
-							<li><a href="/browse.php?Gx=NFL2011" name="ps+nav3+Team+c1+Shop-All-NFL">Shop All NFL</a></li>
+							<li><a href="/search/?Gx=NCAATEAM13" name="ps+nav3+Team+c1+Shop-All-NCAA">Shop All NCAA</a></li>
+							<li><a href="/search/?Gx=NFLTEAM13" name="ps+nav3+Team+c1+Shop-All-NFL">Shop All NFL</a></li>
 						</ul>
 					</div>
                     
 					<div class="list_links">
 						<ul>
 							<li class="li_heading" title="Team Apparel: NCAA Apparel, NFL Apparel, MLB Apparel, NBA Apparel, NHL Apparel">Team &amp; Collegiate Apparel</li>	<!-- Tertiary Title -->
-							<li><a href="/ps/search/ncaa-apparel" name="ps+nav3+Team+c2+NCAA-Apparel">NCAA Apparel</a></li>
-				<!--		<li><a href="/ps/search/nfl-apparel" name="ps+nav3+Team+c2+NFL-Apparel">NFL Apparel</a></li> -->
-							<!-- <li><a href="/ps/search/mlb-apparel" name="ps+nav3+Team+c2+MLB-Apparel">MLB Apparel</a></li>	-->						
+							<li><a href="/search/?Ntt=NCAATEAM13&amp;Ntk=p_forecast&amp;Ne=2&amp;Gp=1&amp;N=4294965587+1127" name="ps+nav3+Team+c2+NCAA-Apparel">NCAA Apparel</a></li>
+						    <li><a href="/search/?Ntt=NFLTEAM13&amp;Ntk=p_forecast&amp;Ne=2&amp;Gp=1&amp;N=4294965587+1127" name="ps+nav3+Team+c2+NFL-Apparel">NFL Apparel</a></li>
+							<li><a href="/search?Ne=2&amp;s=MLB&amp;Ntt=MLB&amp;N=4294965587+1127&amp;Ntk=All" name="ps+nav3+Team+c2+MLB-Apparel">MLB Apparel</a></li>				
 							<li><a href="/display?page=sitewide/myjoys" name="ps+nav3+Team+c2+NCAA-MyJoys-Shoes">NCAA MyJoys Shoes</a></li>	
 							<li><a href="/display?page=sitewide/myjoys" name="ps+nav3+Team+c2+MLB-MyJoys-Shoes">MLB MyJoys Shoes</a></li>	
 				<!--		<li><a href="/ps/search/nba-apparel" name="ps+nav3+Team+c2+NBA-Apparel">NBA Apparel</a></li> -->
@@ -1117,8 +1116,8 @@ function logout_click()
 							<li><a href="/ps/search/gift-baskets" name="ps+nav3+Gifts+c1+Gift-Baskets">Gift Baskets</a></li>
 							<li><a href="/ps/search/junior-gifts" name="ps+nav3+Gifts+c1+Junior-Gifts">Junior Gifts</a></li>
 							<li><a href="/ps/search/novelty-gifts" name="ps+nav3+Gifts+c1+Novelty-Gifts">Novelty Gifts</a></li>
-				<!--		<li><a href="/ps/search/seasonal-gifts" name="ps+nav3+Gifts+c1+Seasonal-Gifts">Seasonal Gifts</a></li> -->
-							<li class="save"><a href="/ps/search/outlet+gifts-novelties" name="ps+nav3+Gifts+c1+Outlet-Gifts">Outlet Gifts</a></li>
+				<!--		<li><a href="/ps/search/seasonal-gifts" name="ps+nav3+Gifts+c1+Seasonal-Gifts">Seasonal Gifts</a></li>
+							<li class="save"><a href="/ps/search/outlet+gifts-novelties" name="ps+nav3+Gifts+c1+Outlet-Gifts">Outlet Gifts</a></li> -->
 						</ul>
 					</div>
 					
@@ -1249,10 +1248,10 @@ function logout_click()
 	<!-- ================= -->
 <!-- ================= -->
 <!-- ================= -->
-<div id="site_promo">      <a href="/ps/display?page=ps/fathers-day-sale&amp;scode=WEB323SAL" title="Father's Day Sale">
-        <img src="/_site_images/promo_banners/header_banner_WEB323SAL.png" alt="Father's Day Sale">       </a>
-     </div><div id="mobile_promo" class="mobile-only">      <a href="/ps/display?page=ps/fathers-day-sale&amp;scode=WEB323SAL" title="Father's Day Sale">
-        <img src="/_site_images/mobile_banners/mobile-banner-WEB323SAL.png" alt="Father's Day Sale"></a>
+<div id="site_promo">      <a href="/display/?page=sitewide/free_shipping_exclusions&amp;scode=WEB349FSH" title="Free Shipping Over $75">
+        <img src="/_site_images/promo_banners/header_banner_WEB349FSHc.png" alt="Free Shipping Over $75">       </a>
+     </div><div id="mobile_promo" class="mobile-only">      <a href="/display/?page=sitewide/free_shipping_exclusions&amp;scode=WEB349FSH" title="Free Shipping Over $75">
+        <img src="/_site_images/mobile_banners/mobile-banner-WEB349FSHc.png" alt="Free Shipping Over $75"></a>
     </div> 
  <!-- <div class="mobile-only">
  	<a href="/ps/display/?page=sitewide/mobile-offer&scode=W8Z9PLBY"><img src="/_site_images/mobile_banners/mobile-15-off-order.png" alt="15% Off Entire Order" /></a>
@@ -1363,334 +1362,19 @@ function logout_click()
 <li style="float:left; width:900px;padding-left:15px;"><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
 
 	<div class="product_image">
-		<a href="/product/30076106/danbury-collegiate-croco-print-leather-belt-black-" title="Danbury Collegiate Croco Print Leather Belt (Black)">
-			<img src="/images/30076106_thm.jpg" alt="Danbury Collegiate Croco Print Leather Belt (Black)">
+		<a href="/product/30101456/superstroke-flatso-mid-17-putter-grip" title="SuperStroke Flatso Mid 17" putter="" grip"="">
+			<img src="/images/30101456_thm.jpg" alt="SuperStroke Flatso Mid 17" putter="" grip"="">
 		</a>
 	</div>
 	<br class="clear">
 	<p class="product_name">
-		<a href="/product/30076106/danbury-collegiate-croco-print-leather-belt-black-" title="Danbury Collegiate Croco Print Leather Belt (Black)">
-			<span class="name_brand">Danbury</span>
+		<a href="/product/30101456/superstroke-flatso-mid-17-putter-grip" title="SuperStroke Flatso Mid 17" putter="" grip"="">
+			<span class="name_brand">SuperStroke</span>
 			<br>
-			<span class="name_description">Collegiate Croco Print Leather Belt (Black)</span>
+			<span class="name_description">Flatso Mid 17" Putter Grip</span>
 		</a>
 	</p>
 	<p class="product_price">$29.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30027901/golf-gifts-gallery-history-of-golf-accessory-box" title="Golf Gifts &amp; Gallery History of Golf Accessory Box">
-			<img src="/images/290071_thm.jpg" alt="Golf Gifts &amp; Gallery History of Golf Accessory Box">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30027901/golf-gifts-gallery-history-of-golf-accessory-box" title="Golf Gifts &amp; Gallery History of Golf Accessory Box">
-			<span class="name_brand">Golf Gifts &amp; Gallery</span>
-			<br>
-			<span class="name_description">History of Golf Accessory Box</span>
-		</a>
-	</p>
-	<p class="product_price">$49.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30077251/titleist-nxt-tour-s-personalized-golf-balls-yellow-" title="Titleist NXT Tour S Personalized Golf Balls (Yellow)">
-			<img src="/images/30077251_thm.jpg" alt="Titleist NXT Tour S Personalized Golf Balls (Yellow)">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30077251/titleist-nxt-tour-s-personalized-golf-balls-yellow-" title="Titleist NXT Tour S Personalized Golf Balls (Yellow)">
-			<span class="name_brand">Titleist</span>
-			<br>
-			<span class="name_description">NXT Tour S Personalized Golf Balls (Yellow)</span>
-		</a>
-	</p>
-	<p class="product_price">
-            <span class="was">Was: $35.99</span><br>
-            <span class="now">Now: $31.99</span>
-            <span class="save">Save 11%</span></p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30082200/pga-tour-gift-set" title="PGA Tour Gift Set">
-			<img src="/images/30082200_thm.jpg" alt="PGA Tour Gift Set">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30082200/pga-tour-gift-set" title="PGA Tour Gift Set">
-			<span class="name_brand">PGA Tour</span>
-			<br>
-			<span class="name_description">Gift Set</span>
-		</a>
-	</p>
-	<p class="product_price">$29.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30056531/footjoy-men-s-stasof-golf-glove" title="FootJoy Men's StaSof Golf Glove">
-			<img src="/images/310799_thm.jpg" alt="FootJoy Men's StaSof Golf Glove">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30056531/footjoy-men-s-stasof-golf-glove" title="FootJoy Men's StaSof Golf Glove">
-			<span class="name_brand">FootJoy</span>
-			<br>
-			<span class="name_description">Men's StaSof Golf Glove</span>
-		</a>
-	</p>
-	<p class="product_price">
-            <span class="was">Was: $20.99</span><br>
-            <span class="now">Now: $19.99</span>
-            <span class="save">Save 4%</span></p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30025795/mydallions-personalized-combo-set-14-club-links-6-ball-markers-" title="Mydallions Personalized Combo Set (14 Club Links &amp; 6 Ball Markers)">
-			<img src="/images/240161_thm.jpg" alt="Mydallions Personalized Combo Set (14 Club Links &amp; 6 Ball Markers)">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30025795/mydallions-personalized-combo-set-14-club-links-6-ball-markers-" title="Mydallions Personalized Combo Set (14 Club Links &amp; 6 Ball Markers)">
-			<span class="name_brand">Mydallions</span>
-			<br>
-			<span class="name_description">Personalized Combo Set (14 Club Links &amp; 6 Ball Markers)</span>
-		</a>
-	</p>
-	<p class="product_price">$69.99</p>
-
-</div>
-</div></li><li style="float:left; width:900px;padding-left:15px;"><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30096321/team-effort-ncaa-embroidered-microfiber-towel" title="Team Effort NCAA Embroidered Microfiber Towel">
-			<img src="/images/30096321_thm.jpg" alt="Team Effort NCAA Embroidered Microfiber Towel">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30096321/team-effort-ncaa-embroidered-microfiber-towel" title="Team Effort NCAA Embroidered Microfiber Towel">
-			<span class="name_brand">Team Effort</span>
-			<br>
-			<span class="name_description">NCAA Embroidered Microfiber Towel</span>
-		</a>
-	</p>
-	<p class="product_price">$24.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30037559/clubhouse-collection-bronzed-male-golfer-statue-10-x-7-" title="Clubhouse Collection Bronzed Male Golfer Statue (10" x="" 7")"="">
-			<img src="/images/306412_thm.jpg" alt="Clubhouse Collection Bronzed Male Golfer Statue (10" x="" 7")"="">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30037559/clubhouse-collection-bronzed-male-golfer-statue-10-x-7-" title="Clubhouse Collection Bronzed Male Golfer Statue (10" x="" 7")"="">
-			<span class="name_brand">Clubhouse Collection</span>
-			<br>
-			<span class="name_description">Bronzed Male Golfer Statue (10" x 7")</span>
-		</a>
-	</p>
-	<p class="product_price">$39.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30079344/pro-active-sports-men-s-g-stats-book" title="Pro Active Sports Men's G Stats Book">
-			<img src="/images/30079344_thm.jpg" alt="Pro Active Sports Men's G Stats Book">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30079344/pro-active-sports-men-s-g-stats-book" title="Pro Active Sports Men's G Stats Book">
-			<span class="name_brand">Pro Active Sports</span>
-			<br>
-			<span class="name_description">Men's G Stats Book</span>
-		</a>
-	</p>
-	<p class="product_price">$5.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30082144/macgregor-tourney-junior-set-ages-7-9-" title="MacGregor Tourney Junior Set (Ages 7-9)">
-			<img src="/images/30082144_thm.jpg" alt="MacGregor Tourney Junior Set (Ages 7-9)">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30082144/macgregor-tourney-junior-set-ages-7-9-" title="MacGregor Tourney Junior Set (Ages 7-9)">
-			<span class="name_brand">MacGregor</span>
-			<br>
-			<span class="name_description">Tourney Junior Set (Ages 7-9)</span>
-		</a>
-	</p>
-	<p class="product_price">$149.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30083986/cgi-sports-memories-framed-art-augusta-national-12th-hole-golden-bell-with-red-leather-frame-27-x-32-" title="CGI Sports Memories Framed Art - Augusta National 12th Hole Golden Bell with Red Leather Frame (27" x="" 32")"="">
-			<img src="/images/30083986_thm.jpg" alt="CGI Sports Memories Framed Art - Augusta National 12th Hole Golden Bell with Red Leather Frame (27" x="" 32")"="">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30083986/cgi-sports-memories-framed-art-augusta-national-12th-hole-golden-bell-with-red-leather-frame-27-x-32-" title="CGI Sports Memories Framed Art - Augusta National 12th Hole Golden Bell with Red Leather Frame (27" x="" 32")"="">
-			<span class="name_brand">CGI Sports Memories</span>
-			<br>
-			<span class="name_description">Framed Art - Augusta National 12th Hole Golden Bell with Red Leather Frame (27" x 32")</span>
-		</a>
-	</p>
-	<p class="product_price">$149.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30076105/danbury-collegiate-croco-print-leather-belt-brown-" title="Danbury Collegiate Croco Print Leather Belt (Brown)">
-			<img src="/images/30076105_thm.jpg" alt="Danbury Collegiate Croco Print Leather Belt (Brown)">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30076105/danbury-collegiate-croco-print-leather-belt-brown-" title="Danbury Collegiate Croco Print Leather Belt (Brown)">
-			<span class="name_brand">Danbury</span>
-			<br>
-			<span class="name_description">Collegiate Croco Print Leather Belt (Brown)</span>
-		</a>
-	</p>
-	<p class="product_price">$29.99</p>
-
-</div>
-</div></li><li style="float:left; width:900px;padding-left:15px;"><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30051253/devant-personalized-signagraph-towel" title="Devant Personalized Signagraph Towel">
-			<img src="/images/309507p_thm.jpg" alt="Devant Personalized Signagraph Towel">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30051253/devant-personalized-signagraph-towel" title="Devant Personalized Signagraph Towel">
-			<span class="name_brand">Devant</span>
-			<br>
-			<span class="name_description">Personalized Signagraph Towel</span>
-		</a>
-	</p>
-	<p class="product_price">$19.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30080568/danbury-men-s-collegiate-leather-front-pocket-wallet" title="Danbury Men's Collegiate Leather Front-Pocket Wallet">
-			<img src="/images/30080568_thm.jpg" alt="Danbury Men's Collegiate Leather Front-Pocket Wallet">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30080568/danbury-men-s-collegiate-leather-front-pocket-wallet" title="Danbury Men's Collegiate Leather Front-Pocket Wallet">
-			<span class="name_brand">Danbury</span>
-			<br>
-			<span class="name_description">Men's Collegiate Leather Front-Pocket Wallet</span>
-		</a>
-	</p>
-	<p class="product_price">$29.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30082143/macgregor-tourney-junior-set-ages-4-6-" title="MacGregor Tourney Junior Set (Ages 4-6)">
-			<img src="/images/30082143_thm.jpg" alt="MacGregor Tourney Junior Set (Ages 4-6)">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30082143/macgregor-tourney-junior-set-ages-4-6-" title="MacGregor Tourney Junior Set (Ages 4-6)">
-			<span class="name_brand">MacGregor</span>
-			<br>
-			<span class="name_description">Tourney Junior Set (Ages 4-6)</span>
-		</a>
-	</p>
-	<p class="product_price">$129.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30096648/swingtip-golf-swing-analyzer" title="SwingTip Golf Swing Analyzer">
-			<img src="/images/30096648_thm.jpg" alt="SwingTip Golf Swing Analyzer">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30096648/swingtip-golf-swing-analyzer" title="SwingTip Golf Swing Analyzer">
-			<span class="name_brand">SwingTip</span>
-			<br>
-			<span class="name_description">Golf Swing Analyzer</span>
-		</a>
-	</p>
-	<p class="product_price">$129.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30037524/clubhouse-collection-golf-motif-chess-set" title="Clubhouse Collection Golf Motif Chess Set">
-			<img src="/images/306377_thm.jpg" alt="Clubhouse Collection Golf Motif Chess Set">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30037524/clubhouse-collection-golf-motif-chess-set" title="Clubhouse Collection Golf Motif Chess Set">
-			<span class="name_brand">Clubhouse Collection</span>
-			<br>
-			<span class="name_description">Golf Motif Chess Set</span>
-		</a>
-	</p>
-	<p class="product_price">$79.99</p>
-
-</div>
-</div><div style="width:130px; margin:5px 5px; float:left;"><div class="promoteStyle_product">
-
-	<div class="product_image">
-		<a href="/product/30038247/nike-power-distance-soft-personalized-golf-balls" title="Nike Power Distance Soft Personalized Golf Balls">
-			<img src="/images/307109p_thm.jpg" alt="Nike Power Distance Soft Personalized Golf Balls">
-		</a>
-	</div>
-	<br class="clear">
-	<p class="product_name">
-		<a href="/product/30038247/nike-power-distance-soft-personalized-golf-balls" title="Nike Power Distance Soft Personalized Golf Balls">
-			<span class="name_brand">Nike</span>
-			<br>
-			<span class="name_description">Power Distance Soft Personalized Golf Balls</span>
-		</a>
-	</p>
-	<p class="product_price">
-            <span class="was">Was: $21.99</span><br>
-            <span class="now">Now: $15.99</span>
-            <span class="save">Save 27%</span></p>
 
 </div>
 </div>		
@@ -1710,30 +1394,7 @@ function logout_click()
 		
         <!-- 2/21/2013 - Daily Deal module code added to the footer so that it can be persistent in the mobile navigation -->
     <div id="box1" class="standard_merch" style="display:none;">
-		<div class="qbd_modal-email" id="qbd">				<div id="qbd_top">						<h5>Daily Deal</h5><p id="help_hover" class="help">What is This?<span id="help_desc" class="help_content">Daily Deals are hand-selected offers available in limited quantities, for a limited time at an extreme discount. <span class="save">When a deal is over the next deal will become available.</span> Daily Deals are available <strong>online only</strong>, can only be shipped to your location and are <strong>excluded from all other promotions and discounts.</strong> Adding a Daily Deal item to your cart does not ensure your order of that item and available quantities are updated based on completed transactions. Daily Deal items are not eligible for price-matching. 
-</span></p>
-		<script>		
-		$("#help_hover").hover( function () { 
-		 $("#help_desc").show(); }, function () { 
-		$("#help_desc").hide(); } );
-		</script>
-								<p id="qbd_top_limit">Limit <span>2</span> Per Customer</p>					<a href="#" onclick="return showAddToDOTD();" id="qbd_modal_email">Click here</a><div id="modal_addEmail" title="Daily Deal Email Sign Up"></div>					</div>					<div id="qbd_mid">						<div id="qbd_mid_bg">							<div id="qbd_product">							<div id="qbd_product_image"><a title="Get Your Izod Men's Micro Cargo Short" href="/product/30096993/izod-men-s-micro-cargo-short?cm_sp=Daily_Deal-_-30096993-_-Image_Link"><img alt="Get Your Izod Men's Micro Cargo Short" src="https://a248.e.akamai.net/f/248/9086/10h/origin-d3.scene7.com/is/image/Golfsmith/30096993_im_STO_________0_gsi?hei=100&amp;wid=100&amp;op_sharpen=1"></a></div>							<p id="qbd_product_title"><a title="Get Your Izod Men's Micro Cargo Short" href="/product/30096993/izod-men-s-micro-cargo-short?cm_sp=Daily_Deal-_-30096993-_-Text_Link">IZOD Micro Cargo Short</a></p>							</div>							<div id="qbd_deal">								<div id="qbd_deal_timeQty">									<p id="qbd_timeQty_time"></p>									<p id="qbd_timeQty_qty">15</p>								</div>								<div id="qbd_deal_pricing">									<p id="qbd_pricing_price">$29.93</p>									<p id="qbd_pricing_savings">Save 37%</p>									<p id="qbd_pricing_was">Was: $48.00</p>								</div>								<div id="qbd_deal_buy">								<p id="qbd_buy_button"><a title="Get Your Izod Men's Micro Cargo Short" href="/product/30096993/izod-men-s-micro-cargo-short?cm_sp=Daily_Deal-_-30096993-_-Button_Link">Get Yours</a></p>								</div>							</div>                          <div id="qbd_email">                          	<form name="qbd_form" action="" method="post" onsubmit="return save_email('qbd_email_input')"><label for="qbd_email_input">Email Me the Next Deal</label>
-                                                    	<div id="qbd_email_address">
-                                                        	<input id="qbd_email_input" class="disabled" type="text" value="Your Email Address" onclick="return fill_clear_email('clear',this)" onblur="return fill_clear_email('fill',this)">
-																<input type="button" id="qbd_email_submit" title="Sign Up for Daily Deal Emails" onclick="return save_email('qbd_email_input')">
-                                                        </div>
-                                                        </form>
-											</div>
-                                                        <div id="qbd_email_confirm" style="display:none">
-<h4>You Have Successfully Signed Up!</h4>
-<p>Check your inbox for a confirmation email.</p>
-</div>							<br class="clear">							<!--[if IE 6]>							<br class="clear" />							<![endif]-->						</div>					</div>					<div id="qbd_btm">&nbsp;</div>				</div>		 
-			<script>	
-				DisplayFormat = "%%H%%:%%M%%:%%S%%";
-				LeadingZero = true;
-				CountBack(14811);
-				refresh_qbd(1144);			
-			  </script>	</div>	
+			</div>	
     <!-- -->
         
 		<!-- BEGIN TOPPER -->
@@ -1778,7 +1439,7 @@ function logout_click()
 					<li>
 						<a href="/wfapp" title="Apply for a Golfsmith Credit Card" name="ps-Footer+Promote+Credit-Cards+Img"><img src="/_site_images/_site_footer/creditCards_spot.jpg" alt="Apply for a Golfsmith Credit Card"></a>
 						<h4><a href="/wfapp" title="Apply for a Golfsmith Credit Card" name="ps-Footer+Promote+Credit-Cards+H4">Golfsmith Credit Cards</a></h4>
-						<p>Special Financing Available!<br><a class="carrot_link" href="/wfapp" title="Apply for a Golfsmith Credit Card" name="ps-Footer+Promote+Credit-Cards+Apply-Today">Apply Today</a></p>
+						<p>Special Financing Available! Subject to credit approval. Minimum monthly payments required.*<br><a class="carrot_link" href="/wfapp" title="Apply for a Golfsmith Credit Card" name="ps-Footer+Promote+Credit-Cards+Apply-Today">See Details</a></p>
 					</li>
 				</ul>
 				<br class="clear no_ie7">
@@ -1879,9 +1540,9 @@ function logout_click()
 								<li><a href="/ps/display?page=ps_difference_9090" title="Playability Guarantee" name="ps-Footer+Programs+Playability-Guarantee">Playability Guarantee</a></li>
 								<!--<li><a href="/ps/display?page=golfsmith_team_rewards" title="Team Rewards" name="ps-Footer+Programs+Team-Rewards">Team Rewards</a></li>
 								<li><a href="/ps/display?page=golfsmith_player_rewards_info" title="Player Rewards" name="ps-Footer+Programs+Player-Rewards">Player Rewards</a></li>-->
-								<li><a href="/ps/display?page=golfsmith_golfclub_info" title="USGA Handicap Service" name="ps-Footer+Programs+USGA-Handicap-Card">USGA Handicap Service</a></li>
+								<li><a href="/ps/display?page=golfsmith_golfclub_info" title="Handicap Service" name="ps-Footer+Programs+Handicap-Card">Handicap Service</a></li>
 								<li><a href="/ps/display?page=ps_difference_clubvantage" title="Golfsmith Clubvantage" name="ps-Footer+Programs+Golfsmith-Clubvantage">Golfsmith Clubvantage</a></li>
-								<li><a href="/ps//display?page=ps_difference_tradein" title="Club Trade-in Program" name="ps-Footer+Programs+Club-Trade-In-Program">Club Trade-in Program</a></li>
+								<!-- <li><a href="/ps//display?page=ps_difference_tradein" title="Club Trade-in Program" name="ps-Footer+Programs+Club-Trade-In-Program">Club Trade-in Program</a></li> -->
 								<li><a href="/sponsorship" title="Tournament Sponsorship Program" name="ps-Footer+Programs+Tournament-Sponsorships">Tournament Solutions</a></li>
 								<li><a href="/ps/display/?page=ps/golfsmith-ajga" title="AJGA Partnership" name="ps-Footer+Programs+AJGA-Partnership">AJGA Partnership</a></li>                                
 								
@@ -1917,7 +1578,7 @@ function logout_click()
 			<div id="catchAll_brandImages">
 				<ul class="no_listStyle">
 					<li><a href="/brand/adams" title="Adams Golf" name="ps-Footer+Brand-Logos+Adams-Golf"><img src="/_site_images/_sitewide/brands/grey/adams_s.gif" alt="Adams Golf"></a></li>
-					<li><a href="/brand/adidas_golf" title="adidas Golf" name="ps-Footer+Brand-Logos+adidas-Golf"><img src="/_site_images/_sitewide/brands/grey/adidasGolf_s.gif" alt="adidas Golf"></a></li><li><a href="/ps/display?page=after-18-golf-apparel/spring2012/after-18" title="After18 Golf Apparel" name="ps-Footer+Brand-Logos+After18-Golf-Apparel"><img src="/_site_images/_sitewide/brands/grey/after18.gif" alt="After18 Golf Apparel"></a></li>
+					<li><a href="/brand/adidas_golf" title="adidas Golf" name="ps-Footer+Brand-Logos+adidas-Golf"><img src="/_site_images/_sitewide/brands/grey/adidasGolf_s.gif" alt="adidas Golf"></a></li>
 					<li><a href="/brand/callaway" title="Callaway Golf" name="ps-Footer+Brand-Logos+Callaway"><img src="/_site_images/_sitewide/brands/grey/callaway_s.gif" alt="Callaway Golf"></a></li>
 					<li><a href="/brand/cleveland" title="Cleveland Golf" name="ps-Footer+Brand-Logos+Cleveland"><img src="/_site_images/_sitewide/brands/grey/cleveland_s.gif" alt="Cleveland Golf"></a></li>
 					<li><a href="/brand/cobra" title="Cobra Golf" name="ps-Footer+Brand-Logos+Cobra"><img src="/_site_images/_sitewide/brands/grey/cobra_s.gif" alt="Cobra Golf"></a></li>
@@ -1945,7 +1606,6 @@ function logout_click()
 				<ul class="no_listStyle">
 					<li><a href="/ps/search/adams" title="Adams Golf" name="ps-Footer+Brand-Link+Adams-Golf">Adams&nbsp;Golf</a></li>
 					<li><a href="/ps/search/adidas" title="adidas Golf" name="ps-Footer+Brand-Link+adidas-Golf">adidas&nbsp;Golf</a></li>
-                    <li><a href="/ps/display?page=after-18-golf-apparel/spring2012/after-18" title="After18 Apparel" name="ps-Footer+Brand-Link+after18-Golf">After18&nbsp;Golf Apparel</a></li>
 					<li><a href="/ps/search/callaway" title="Callaway Golf" name="ps-Footer+Brand-Link+Callaway-Golf">Callaway&nbsp;Golf</a></li>
 					<li><a href="/ps/search/cleveland" title="Cleveland Golf" name="ps-Footer+Brand-Link+Cleveland-Golf">Cleveland&nbsp;Golf</a></li>
 					<li><a href="/ps/search/cobra" title="Cobra Golf" name="ps-Footer+Brand-Link+Cobra-Golf">Cobra&nbsp;Golf</a></li>
@@ -2013,7 +1673,7 @@ function logout_click()
     
     <!--*********************END ROSERVICE************************** -->
 
-    </div>
+    <div class="dimSearchSuggContainer"></div></div>
 
     <!--[if IE]>
     </div>
@@ -2039,4 +1699,4 @@ function logout_click()
     </script>
     <script src="/ci/landing.js">
     </script>
-    <ul class="selectBox-dropdown-menu selectBox-options" style="display: none;"><li class="selectBox-optgroup">Brand Stores</li><li><a rel="/brand/adams">Adams</a></li><li><a rel="/brand/adidas_golf">adidas</a></li><li><a rel="/brand/ashworth">Ashworth</a></li><li><a rel="/brand/bridgestone">Bridgestone</a></li><li><a rel="/brand/bushnell">Bushnell</a></li><li><a rel="/brand/callaway">Callaway</a></li><li><a rel="/brand/cleveland">Cleveland</a></li><li><a rel="/brand/cobra">Cobra</a></li><li><a rel="/brand/ecco">Ecco</a></li><li><a rel="/brand/footjoy">FootJoy</a></li><li><a rel="/brand/garmin">Garmin</a></li><li><a rel="/brand/golf_pride">Golf Pride</a></li><li><a rel="/brand/lamkin">Lamkin</a></li><li><a rel="/brand/macgregor">MacGregor</a></li><li><a rel="/brand/maggie_lane">Maggie Lane</a></li><li><a rel="/brand/mizuno">Mizuno</a></li><li><a rel="/brand/nike_golf">Nike</a></li><li><a rel="/brand/odyssey">Odyssey</a></li><li><a rel="/brand/ping">Ping</a></li><li><a rel="/brand/puma">Puma</a></li><li><a rel="/brand/skygolf">SkyGolf</a></li><li><a rel="/brand/snake_eyes">Snake Eyes</a></li><li><a rel="/brand/taylormade">TaylorMade</a></li><li><a rel="/brand/titleist">Titleist</a></li><li><a rel="/brand/tour_edge">Tour Edge</a></li><li><a rel="/brand/tour_trek">Tour Trek</a></li><li><a rel="/brand/under_armour">Under Armour</a></li><li><a rel="/brand/ust">UST Mamiya</a></li><li><a rel="/brand/wilson-golf">Wilson Staff</a></li><li><a rel="/brand/winn">Winn</a></li><li class="selectBox-optgroup">Shop All Brands</li><li><a rel="/search/ab-golf-designs">AB Golf Designs</a></li><li><a rel="/search/accu-net">Accu-Net</a></li><li><a rel="/search/adams">Adams</a></li><li><a rel="/search/adidas">adidas</a></li><li><a rel="/search/agile-fitness">Agile Fitness</a></li><li><a rel="/search/allstar-awards">Allstar Awards</a></li><li><a rel="/search/arnie">Arnie</a></li><li><a rel="/search/ashworth">Ashworth</a></li><li><a rel="/search/asics">Asics</a></li><li><a rel="/search/athalon">Athalon</a></li><li><a rel="/search/avon">Avon</a></li><li><a rel="/search/back-9-originals">Back 9 Originals</a></li><li><a rel="/search/backjoy">Backjoy</a></li><li><a rel="/search/bag-boy">Bag Boy</a></li><li><a rel="/search/ballbrite">BallBrite</a></li><li><a rel="/search/ballzee">Ballzee</a></li><li><a rel="/search/bass">Bass</a></li><li><a rel="/search/bat-caddy">Bat-Caddy</a></li><li><a rel="/search/bella-crystal">Bella Crystal</a></li><li><a rel="/search/bionic-technologies">Bionic Technologies</a></li><li><a rel="/search/birdie-ball">Birdie Ball</a></li><li><a rel="/search/black-widow">Black Widow</a></li><li><a rel="/search/boccieri-golf">Boccieri Golf</a></li><li><a rel="/search/bogey-pro-golf">Bogey Pro Golf</a></li><li><a rel="/search/booklegger">Booklegger</a></li><li><a rel="/search/bracketron">Bracketron</a></li><li><a rel="/search/bridgestone">Bridgestone</a></li><li><a rel="/search/bugatchi">Bugatchi</a></li><li><a rel="/search/bushnell">Bushnell</a></li><li><a rel="/search/caddiesak">CaddieSak</a></li><li><a rel="/search/caddydaddy-golf">CaddyDaddy Golf</a></li><li><a rel="/search/callaway">Callaway</a></li><li><a rel="/search/callaway-golf-eyewear">Callaway Golf Eyewear</a></li><li><a rel="/search/calvin-klein">Calvin Klein</a></li><li><a rel="/search/cart-clamp">Cart Clamp</a></li><li><a rel="/search/cart-tek">Cart-Tek</a></li><li><a rel="/search/castle-bay">Castle Bay</a></li><li><a rel="/search/cgi-sports-memories">CGI Sports Memories</a></li><li><a rel="/search/champ">Champ</a></li><li><a rel="/search/classic-accessories">Classic Accessories</a></li><li><a rel="/search/cleveland">Cleveland</a></li><li><a rel="/search/clicgear">Clicgear</a></li><li><a rel="/search/club-champ">Club Champ</a></li><li><a rel="/search/club-clean">Club Clean</a></li><li><a rel="/search/club-glove">Club Glove</a></li><li><a rel="/search/clubhouse-collection">Clubhouse Collection</a></li><li><a rel="/search/cobra">Cobra</a></li><li><a rel="/search/coleman">Coleman</a></li><li><a rel="/search/consistent-tee">Consistent Tee</a></li><li><a rel="/search/creative-covers">Creative Covers</a></li><li><a rel="/search/creative-creatures">Creative Creatures</a></li><li><a rel="/search/crocs">crocs</a></li><li><a rel="/search/cutter-&amp;-buck">Cutter &amp; Buck</a></li><li><a rel="/search/danbury">Danbury</a></li><li><a rel="/search/dancin'-dogg">Dancin' Dogg</a></li><li><a rel="/search/daphne">Daphne</a></li><li><a rel="/search/datrek">Datrek</a></li><li><a rel="/search/dawgs">Dawgs</a></li><li><a rel="/search/dead-aim-putters">Dead Aim Putters</a></li><li><a rel="/search/deuce-brand">Deuce Brand</a></li><li><a rel="/search/devant">Devant</a></li><li><a rel="/search/dfx-sports-&amp;-fitness">DFX Sports &amp; Fitness</a></li><li><a rel="/search/dkny">DKNY</a></li><li><a rel="/search/doorworks">DoorWorks</a></li><li><a rel="/search/drizzle-stik">Drizzle Stik</a></li><li><a rel="/search/ecco">Ecco</a></li><li><a rel="/search/energy-athletic">Energy Athletic</a></li><li><a rel="/search/enmon-accessories">Enmon Accessories</a></li><li><a rel="/search/ep-pro">EP Pro</a></li><li><a rel="/search/evertan">Evertan</a></li><li><a rel="/search/evolve-golf">Evolve Golf</a></li><li><a rel="/search/eyeline">Eyeline</a></li><li><a rel="/search/ez-cure-golf">EZ Cure Golf</a></li><li><a rel="/search/fj-wescott">FJ Wescott</a></li><li><a rel="/search/f2">F2</a></li><li><a rel="/search/fairwaypro">FairwayPro</a></li><li><a rel="/search/footjoy">FootJoy</a></li><li><a rel="/search/fore-concepts">Fore Concepts</a></li><li><a rel="/search/fridge-to-go">Fridge to Go</a></li><li><a rel="/search/frogg-toggs">Frogg Toggs</a></li><li><a rel="/search/frogger">Frogger</a></li><li><a rel="/search/g_fore">G/FORE</a></li><li><a rel="/search/garmin">Garmin</a></li><li><a rel="/search/glove-branders">Glove Branders</a></li><li><a rel="/search/glove-it">Glove It</a></li><li><a rel="/search/gofit">GoFit</a></li><li><a rel="/search/golf-buddy">Golf Buddy</a></li><li><a rel="/search/golf-genie">Golf Genie</a></li><li><a rel="/search/golf-gifts-&amp;-gallery">Golf Gifts &amp; Gallery</a></li><li><a rel="/search/golf-gym">Golf Gym</a></li><li><a rel="/search/golf-pride">Golf Pride</a></li><li><a rel="/search/golf-shop-live">Golf Shop Live</a></li><li><a rel="/search/golfjoc">GolfJOC</a></li><li><a rel="/search/golfsmith">Golfsmith</a></li><li><a rel="/search/golfstream">Golfstream</a></li><li><a rel="/search/great-golf-memories">Great Golf Memories</a></li><li><a rel="/search/greenkeeper">Greenkeeper</a></li><li><a rel="/search/gripit-rite">Gripit Rite</a></li><li><a rel="/search/haas-jordan">Haas-Jordan</a></li><li><a rel="/search/hank-haney">Hank Haney</a></li><li><a rel="/search/harley-davidson">Harley Davidson</a></li><li><a rel="/search/heater-craft">Heater Craft</a></li><li><a rel="/search/heavy-putter">Heavy Putter</a></li><li><a rel="/search/hello-kitty-golf">Hello Kitty Golf</a></li><li><a rel="/search/hirzl">HIRZL</a></li><li><a rel="/search/hornungs">Hornungs</a></li><li><a rel="/search/hugo-boss">Hugo Boss</a></li><li><a rel="/search/hydro-flask">HYDRO FLASK</a></li><li><a rel="/search/igotcha">Igotcha</a></li><li><a rel="/search/inside-approach">Inside Approach</a></li><li><a rel="/search/insta-golf-shoes">Insta Golf Shoes</a></li><li><a rel="/search/izod">Izod</a></li><li><a rel="/search/izzo">Izzo</a></li><li><a rel="/search/jamie-sadock">Jamie Sadock</a></li><li><a rel="/search/jba-awards">JBA Awards</a></li><li><a rel="/search/jef-world-of-golf">Jef World of Golf</a></li><li><a rel="/search/kentwool">Kentwool</a></li><li><a rel="/search/kikkor-golf">Kikkor Golf</a></li><li><a rel="/search/killer-bee">Killer Bee</a></li><li><a rel="/search/kimbra-studios">Kimbra Studios</a></li><li><a rel="/search/lacoste">Lacoste</a></li><li><a rel="/search/lamkin">Lamkin</a></li><li><a rel="/search/laser-link">Laser Link</a></li><li><a rel="/search/leantwo">LeanTwo</a></li><li><a rel="/search/leupold">Leupold</a></li><li><a rel="/search/lija">Lija</a></li><li><a rel="/search/links-choice">Links Choice</a></li><li><a rel="/search/loomis-golf">Loomis Golf</a></li><li><a rel="/search/lynx">Lynx</a></li><li><a rel="/search/macgregor">MacGregor</a></li><li><a rel="/search/maggie-lane">Maggie Lane</a></li><li><a rel="/search/matzie">Matzie</a></li><li><a rel="/search/mcarthur">McArthur</a></li><li><a rel="/search/mcdavid">McDavid</a></li><li><a rel="/search/medallist">Medallist</a></li><li><a rel="/search/medicus">Medicus</a></li><li><a rel="/search/mizuno">Mizuno</a></li><li><a rel="/search/momentus">Momentus</a></li><li><a rel="/search/mydallions">Mydallions</a></li><li><a rel="/search/never-compromise">Never Compromise</a></li><li><a rel="/search/new-balance-sport-monitors">New Balance Sport Monitors</a></li><li><a rel="/search/nextt-golf">Nextt Golf</a></li><li><a rel="/search/nickel-putter">Nickel Putter</a></li><li><a rel="/search/night-flyer">Night Flyer</a></li><li><a rel="/search/nike">Nike</a></li><li><a rel="/search/no-sox">No Sox</a></li><li><a rel="/search/noslice">NoSlice</a></li><li><a rel="/search/nyx-golf">NYX Golf</a></li><li><a rel="/search/oakley">Oakley</a></li><li><a rel="/search/odyssey">Odyssey</a></li><li><a rel="/search/ogio">Ogio</a></li><li><a rel="/search/orange-whip">Orange Whip</a></li><li><a rel="/search/oregon-mudders">Oregon Mudders</a></li><li><a rel="/search/p3proswing">P3ProSwing</a></li><li><a rel="/search/peanuts">Peanuts</a></li><li><a rel="/search/penguin">Penguin</a></li><li><a rel="/search/pga-tour">PGA Tour</a></li><li><a rel="/search/phiten">Phiten</a></li><li><a rel="/search/physician-endorsed">Physician Endorsed</a></li><li><a rel="/search/ping">Ping</a></li><li><a rel="/search/ping-apparel">Ping Apparel</a></li><li><a rel="/search/pinnacle">Pinnacle</a></li><li><a rel="/search/polar">Polar</a></li><li><a rel="/search/polara">Polara</a></li><li><a rel="/search/power-balance">Power Balance</a></li><li><a rel="/search/precept">Precept</a></li><li><a rel="/search/pride-golf-tee-co.">Pride Golf Tee Co.</a></li><li><a rel="/search/pro-active-sports">Pro Active Sports</a></li><li><a rel="/search/procircuit">ProCircuit</a></li><li><a rel="/search/professional-golf">Professional Golf</a></li><li><a rel="/search/proline-sports">Proline Sports</a></li><li><a rel="/search/psp-golf">PSP Golf</a></li><li><a rel="/search/puma">Puma</a></li><li><a rel="/search/pure-grips">PURE Grips</a></li><li><a rel="/search/putting-shark">Putting Shark</a></li><li><a rel="/search/rj-sports">RJ Sports</a></li><li><a rel="/search/royal-products">Royal Products</a></li><li><a rel="/search/rule-golf">Rule Golf</a></li><li><a rel="/search/sabona">Sabona</a></li><li><a rel="/search/samsonite">Samsonite</a></li><li><a rel="/search/san-diego-hat-company">San Diego Hat Company</a></li><li><a rel="/search/scoreband">Scoreband</a></li><li><a rel="/search/scotty-cameron">Scotty Cameron</a></li><li><a rel="/search/second-skin">Second Skin</a></li><li><a rel="/search/seemore">SeeMore</a></li><li><a rel="/search/sharpie">Sharpie</a></li><li><a rel="/search/skb">SKB</a></li><li><a rel="/search/skirt-sports">Skirt Sports</a></li><li><a rel="/search/sklz">SKLZ</a></li><li><a rel="/search/skygolf">SkyGolf</a></li><li><a rel="/search/skyhorse-publishing">Skyhorse Publishing</a></li><li><a rel="/search/snake-eyes">Snake Eyes</a></li><li><a rel="/search/sofibella">Sofibella</a></li><li><a rel="/search/softspikes">Softspikes</a></li><li><a rel="/search/solstice-arts">Solstice Arts</a></li><li><a rel="/search/sonocaddie">Sonocaddie</a></li><li><a rel="/search/spitzer">Spitzer</a></li><li><a rel="/search/sport-haley">Sport Haley</a></li><li><a rel="/search/sport+store">sport+store</a></li><li><a rel="/search/sports-illustrated">Sports Illustrated</a></li><li><a rel="/search/sportseat">Sportseat</a></li><li><a rel="/search/sporty-chic">Sporty Chic</a></li><li><a rel="/search/spotless-swing">Spotless Swing</a></li><li><a rel="/search/sri-monogramming">SRI Monogramming</a></li><li><a rel="/search/srixon">Srixon</a></li><li><a rel="/search/starpro-greens">StarPro Greens</a></li><li><a rel="/search/starting-time">Starting Time</a></li><li><a rel="/search/stealth">Stealth</a></li><li><a rel="/search/stinger-tees">Stinger Tees</a></li><li><a rel="/search/stitch-golf">Stitch Golf</a></li><li><a rel="/search/stx">STX</a></li><li><a rel="/search/sun-mountain">Sun Mountain</a></li><li><a rel="/search/sun-products">Sun Products</a></li><li><a rel="/search/sundog">Sundog</a></li><li><a rel="/search/sunice">Sunice</a></li><li><a rel="/search/superstroke">SuperStroke</a></li><li><a rel="/search/swing-thought">Swing Thought</a></li><li><a rel="/search/synlawn">SYNLawn</a></li><li><a rel="/search/tacki-mac">Tacki Mac</a></li><li><a rel="/search/tail">Tail</a></li><li><a rel="/search/taylormade">TaylorMade</a></li><li><a rel="/search/team-effort">Team Effort</a></li><li><a rel="/search/team-golf">Team Golf</a></li><li><a rel="/search/technasonic">Technasonic</a></li><li><a rel="/search/tee-pal">Tee Pal</a></li><li><a rel="/search/tee-pal-pro">Tee Pal Pro</a></li><li><a rel="/search/teeter">Teeter</a></li><li><a rel="/search/tef-tee">Tef Tee</a></li><li><a rel="/search/the-littlest-golfer">The Littlest Golfer</a></li><li><a rel="/search/the-mully">The Mully</a></li><li><a rel="/search/the-perfect-putting-aid">The Perfect Putting Aid</a></li><li><a rel="/search/the-white-ball">The White Ball</a></li><li><a rel="/search/tifosi">Tifosi</a></li><li><a rel="/search/tiger-shark">Tiger Shark</a></li><li><a rel="/search/tilley">Tilley</a></li><li><a rel="/search/titleist">Titleist</a></li><li><a rel="/search/top-flite">Top Flite</a></li><li><a rel="/search/total-gym-fitness">Total Gym Fitness</a></li><li><a rel="/search/tour-edge">Tour Edge</a></li><li><a rel="/search/tour-striker">Tour Striker</a></li><li><a rel="/search/tour-trek">Tour Trek</a></li><li><a rel="/search/towelmate">TowelMate</a></li><li><a rel="/search/tpk">TPK</a></li><li><a rel="/search/travis-mathew">Travis Mathew</a></li><li><a rel="/search/trion:z">Trion:Z</a></li><li><a rel="/search/true-linkswear">True Linkswear</a></li><li><a rel="/search/truestrike">TrueStrike</a></li><li><a rel="/search/twisttee">TwistTee</a></li><li><a rel="/search/under-armour">Under Armour</a></li><li><a rel="/search/ust-mamiya">UST Mamiya</a></li><li><a rel="/search/vista-design-studios">Vista Design Studios</a></li><li><a rel="/search/wilson-staff">Wilson Staff</a></li><li><a rel="/search/winn">Winn</a></li><li><a rel="/search/winning-edge-designs">Winning Edge Designs</a></li><li><a rel="/search/yardage-tag">Yardage Tag</a></li><li><a rel="/search/yes-golf">Yes Golf</a></li><li><a rel="/search/zengyro">Zengyro</a></li><li><a rel="/search/zero-friction">Zero Friction</a></li><li><a rel="/search/zero-restriction">Zero Restriction</a></li><li><a rel="/search/zevo">Zevo</a></li><li><a rel="/search/zoom-boom-golf">Zoom Boom Golf</a></li><li><a rel="/search/ztech">ZTech</a></li></ul></body></html>
+    <ul class="selectBox-dropdown-menu selectBox-options" style="display: none;"><li class="selectBox-optgroup">Brand Stores</li><li><a rel="/brand/adams">Adams</a></li><li><a rel="/brand/adidas_golf">adidas</a></li><li><a rel="/brand/ashworth">Ashworth</a></li><li><a rel="/brand/bridgestone">Bridgestone</a></li><li><a rel="/brand/bushnell">Bushnell</a></li><li><a rel="/brand/callaway">Callaway</a></li><li><a rel="/brand/cleveland">Cleveland</a></li><li><a rel="/brand/cobra">Cobra</a></li><li><a rel="/brand/ecco">Ecco</a></li><li><a rel="/brand/footjoy">FootJoy</a></li><li><a rel="/brand/garmin">Garmin</a></li><li><a rel="/brand/golf_pride">Golf Pride</a></li><li><a rel="/brand//hank-haney">Hank Haney</a></li><li><a rel="/brand/lamkin">Lamkin</a></li><li><a rel="/brand/macgregor">MacGregor</a></li><li><a rel="/brand/maggie_lane">Maggie Lane</a></li><li><a rel="/brand/mizuno">Mizuno</a></li><li><a rel="/brand/nike_golf">Nike</a></li><li><a rel="/brand/odyssey">Odyssey</a></li><li><a rel="/brand/ping">Ping</a></li><li><a rel="/brand/puma">Puma</a></li><li><a rel="/brand/skygolf">SkyGolf</a></li><li><a rel="/brand/snake_eyes">Snake Eyes</a></li><li><a rel="/brand/taylormade">TaylorMade</a></li><li><a rel="/brand/titleist">Titleist</a></li><li><a rel="/brand/tour_edge">Tour Edge</a></li><li><a rel="/brand/tour_trek">Tour Trek</a></li><li><a rel="/brand/under_armour">Under Armour</a></li><li><a rel="/brand/ust">UST Mamiya</a></li><li><a rel="/brand/wilson-golf">Wilson Staff</a></li><li><a rel="/brand/winn">Winn</a></li><li class="selectBox-optgroup">Shop All Brands</li><li><a rel="/search/3bays">3BAYS</a></li><li><a rel="/search/ab-golf-designs">AB Golf Designs</a></li><li><a rel="/search/adams">Adams</a></li><li><a rel="/search/adidas">adidas</a></li><li><a rel="/search/allstar-awards">Allstar Awards</a></li><li><a rel="/search/ashworth">Ashworth</a></li><li><a rel="/search/asics">Asics</a></li><li><a rel="/search/athalon">Athalon</a></li><li><a rel="/search/aveo">AVEO</a></li><li><a rel="/search/back-9-originals">Back 9 Originals</a></li><li><a rel="/search/backjoy">Backjoy</a></li><li><a rel="/search/bag-boy">Bag Boy</a></li><li><a rel="/search/ballbrite">BallBrite</a></li><li><a rel="/search/ballzee">Ballzee</a></li><li><a rel="/search/bass">Bass</a></li><li><a rel="/search/bat-caddy">Bat-Caddy</a></li><li><a rel="/search/bella-crystal">Bella Crystal</a></li><li><a rel="/search/bettinardi">Bettinardi</a></li><li><a rel="/search/bionic-technologies">Bionic Technologies</a></li><li><a rel="/search/birdie-ball">Birdie Ball</a></li><li><a rel="/search/black-clover">Black Clover</a></li><li><a rel="/search/black-widow">Black Widow</a></li><li><a rel="/search/boccieri-golf">Boccieri Golf</a></li><li><a rel="/search/bogey-pro-golf">Bogey Pro Golf</a></li><li><a rel="/search/booklegger">Booklegger</a></li><li><a rel="/search/bridgestone">Bridgestone</a></li><li><a rel="/search/bushnell">Bushnell</a></li><li><a rel="/search/caddydaddy-golf">CaddyDaddy Golf</a></li><li><a rel="/search/callaway">Callaway</a></li><li><a rel="/search/callaway-golf-eyewear">Callaway Golf Eyewear</a></li><li><a rel="/search/cart-tek">Cart-Tek</a></li><li><a rel="/search/castle-bay">Castle Bay</a></li><li><a rel="/search/cgi-sports-memories">CGI Sports Memories</a></li><li><a rel="/search/champ">Champ</a></li><li><a rel="/search/classic-accessories">Classic Accessories</a></li><li><a rel="/search/cleveland">Cleveland</a></li><li><a rel="/search/clicgear">Clicgear</a></li><li><a rel="/search/club-champ">Club Champ</a></li><li><a rel="/search/club-clean">Club Clean</a></li><li><a rel="/search/club-glove">Club Glove</a></li><li><a rel="/search/clubhouse-collection">Clubhouse Collection</a></li><li><a rel="/search/cobra">Cobra</a></li><li><a rel="/search/coleman">Coleman</a></li><li><a rel="/search/consistent-tee">Consistent Tee</a></li><li><a rel="/search/creative-covers">Creative Covers</a></li><li><a rel="/search/creative-creatures">Creative Creatures</a></li><li><a rel="/search/crocs">crocs</a></li><li><a rel="/search/cutter-&amp;-buck">Cutter &amp; Buck</a></li><li><a rel="/search/danbury">Danbury</a></li><li><a rel="/search/dancin'-dogg">Dancin' Dogg</a></li><li><a rel="/search/daphne">Daphne</a></li><li><a rel="/search/datrek">Datrek</a></li><li><a rel="/search/dawgs">Dawgs</a></li><li><a rel="/search/dead-aim-putters">Dead Aim Putters</a></li><li><a rel="/search/deuce-brand">Deuce Brand</a></li><li><a rel="/search/devant">Devant</a></li><li><a rel="/search/dfx-sports-&amp;-fitness">DFX Sports &amp; Fitness</a></li><li><a rel="/search/dkny">DKNY</a></li><li><a rel="/search/doorworks">DoorWorks</a></li><li><a rel="/search/drizzle-stik">Drizzle Stik</a></li><li><a rel="/search/ecco">Ecco</a></li><li><a rel="/search/energy-athletic">Energy Athletic</a></li><li><a rel="/search/ep-pro">EP Pro</a></li><li><a rel="/search/evertan">Evertan</a></li><li><a rel="/search/evolve-golf">Evolve Golf</a></li><li><a rel="/search/eyeline">Eyeline</a></li><li><a rel="/search/ez-cure-golf">EZ Cure Golf</a></li><li><a rel="/search/fj-wescott">FJ Wescott</a></li><li><a rel="/search/f2">F2</a></li><li><a rel="/search/fairwaypro">FairwayPro</a></li><li><a rel="/search/footjoy">FootJoy</a></li><li><a rel="/search/foresight-sports">Foresight Sports</a></li><li><a rel="/search/fourteen-golf">Fourteen Golf</a></li><li><a rel="/search/fridge-to-go">Fridge to Go</a></li><li><a rel="/search/frogg-toggs">Frogg Toggs</a></li><li><a rel="/search/frogger">Frogger</a></li><li><a rel="/search/g_fore">G/FORE</a></li><li><a rel="/search/garmin">Garmin</a></li><li><a rel="/search/glove-it">Glove It</a></li><li><a rel="/search/gofit">GoFit</a></li><li><a rel="/search/golf-buddy">Golf Buddy</a></li><li><a rel="/search/golf-genie">Golf Genie</a></li><li><a rel="/search/golf-gifts-&amp;-gallery">Golf Gifts &amp; Gallery</a></li><li><a rel="/search/golf-gym">Golf Gym</a></li><li><a rel="/search/golf-pride">Golf Pride</a></li><li><a rel="/search/golf-shop-live">Golf Shop Live</a></li><li><a rel="/search/golfjoc">GolfJOC</a></li><li><a rel="/search/golfsmith">Golfsmith</a></li><li><a rel="/search/golfstream">Golfstream</a></li><li><a rel="/search/great-golf-memories">Great Golf Memories</a></li><li><a rel="/search/greenkeeper">Greenkeeper</a></li><li><a rel="/search/greg-norman">Greg Norman</a></li><li><a rel="/search/haas-jordan">Haas-Jordan</a></li><li><a rel="/search/hank-haney">Hank Haney</a></li><li><a rel="/search/heater-craft">Heater Craft</a></li><li><a rel="/search/heavy-putter">Heavy Putter</a></li><li><a rel="/search/hello-kitty-golf">Hello Kitty Golf</a></li><li><a rel="/search/hirzl">HIRZL</a></li><li><a rel="/search/hornungs">Hornungs</a></li><li><a rel="/search/hydro-flask">HYDRO FLASK</a></li><li><a rel="/search/igotcha">Igotcha</a></li><li><a rel="/search/inside-approach">Inside Approach</a></li><li><a rel="/search/ion">iON</a></li><li><a rel="/search/izod">IZOD</a></li><li><a rel="/search/izzo">Izzo</a></li><li><a rel="/search/jamie-sadock">Jamie Sadock</a></li><li><a rel="/search/jba-awards">JBA Awards</a></li><li><a rel="/search/jef-world-of-golf">Jef World of Golf</a></li><li><a rel="/search/j.g.-hickory">J.G. Hickory</a></li><li><a rel="/search/kentwool">Kentwool</a></li><li><a rel="/search/kikkor-golf">Kikkor Golf</a></li><li><a rel="/search/killer-bee">Killer Bee</a></li><li><a rel="/search/lamkin">Lamkin</a></li><li><a rel="/search/laser-link">Laser Link</a></li><li><a rel="/search/leantwo">LeanTwo</a></li><li><a rel="/search/leupold">Leupold</a></li><li><a rel="/search/links-choice">Links Choice</a></li><li><a rel="/search/loomis-golf">Loomis Golf</a></li><li><a rel="/search/lynx">Lynx</a></li><li><a rel="/search/macgregor">MacGregor</a></li><li><a rel="/search/maggie-lane">Maggie Lane</a></li><li><a rel="/search/matzie">Matzie</a></li><li><a rel="/search/mcarthur">McArthur</a></li><li><a rel="/search/mcdavid">McDavid</a></li><li><a rel="/search/medallist">Medallist</a></li><li><a rel="/search/medicus">Medicus</a></li><li><a rel="/search/mizuno">Mizuno</a></li><li><a rel="/search/momentus">Momentus</a></li><li><a rel="/search/mydallions">Mydallions</a></li><li><a rel="/search/never-compromise">Never Compromise</a></li><li><a rel="/search/nexbelt">Nexbelt</a></li><li><a rel="/search/nickel-putter">Nickel Putter</a></li><li><a rel="/search/night-flyer">Night Flyer</a></li><li><a rel="/search/nike">Nike</a></li><li><a rel="/search/no-sox">No Sox</a></li><li><a rel="/search/nyx-golf">NYX Golf</a></li><li><a rel="/search/oakley">Oakley</a></li><li><a rel="/search/odyssey">Odyssey</a></li><li><a rel="/search/ogio">Ogio</a></li><li><a rel="/search/orange-whip">Orange Whip</a></li><li><a rel="/search/oregon-mudders">Oregon Mudders</a></li><li><a rel="/search/p3proswing">P3ProSwing</a></li><li><a rel="/search/peanuts">Peanuts</a></li><li><a rel="/search/penguin">Penguin</a></li><li><a rel="/search/pga-tour">PGA Tour</a></li><li><a rel="/search/phiten">Phiten</a></li><li><a rel="/search/physician-endorsed">Physician Endorsed</a></li><li><a rel="/search/ping">Ping</a></li><li><a rel="/search/ping-apparel">Ping Apparel</a></li><li><a rel="/search/pinnacle">Pinnacle</a></li><li><a rel="/search/polar">Polar</a></li><li><a rel="/search/polara">Polara</a></li><li><a rel="/search/power-balance">Power Balance</a></li><li><a rel="/search/pride-golf-tee-co.">Pride Golf Tee Co.</a></li><li><a rel="/search/pro-active-sports">Pro Active Sports</a></li><li><a rel="/search/procircuit">ProCircuit</a></li><li><a rel="/search/professional-golf">Professional Golf</a></li><li><a rel="/search/psp-golf">PSP Golf</a></li><li><a rel="/search/puma">Puma</a></li><li><a rel="/search/pure-grips">PURE Grips</a></li><li><a rel="/search/putting-shark">Putting Shark</a></li><li><a rel="/search/rife-putters">RIFE Putters</a></li><li><a rel="/search/rj-sports">RJ Sports</a></li><li><a rel="/search/rope-it">Rope It</a></li><li><a rel="/search/royal-products">Royal Products</a></li><li><a rel="/search/sabona">Sabona</a></li><li><a rel="/search/samsonite">Samsonite</a></li><li><a rel="/search/san-diego-hat-company">San Diego Hat Company</a></li><li><a rel="/search/scoreband">Scoreband</a></li><li><a rel="/search/scotty-cameron">Scotty Cameron</a></li><li><a rel="/search/second-skin">Second Skin</a></li><li><a rel="/search/seemore">SeeMore</a></li><li><a rel="/search/sharpie">Sharpie</a></li><li><a rel="/search/skb">SKB</a></li><li><a rel="/search/sklz">SKLZ</a></li><li><a rel="/search/skygolf">SkyGolf</a></li><li><a rel="/search/skyhorse-publishing">Skyhorse Publishing</a></li><li><a rel="/search/snake-eyes">Snake Eyes</a></li><li><a rel="/search/sofibella">Sofibella</a></li><li><a rel="/search/softspikes">Softspikes</a></li><li><a rel="/search/solstice-arts">Solstice Arts</a></li><li><a rel="/search/spitzer">Spitzer</a></li><li><a rel="/search/sport-haley">Sport Haley</a></li><li><a rel="/search/sport+store">sport+store</a></li><li><a rel="/search/sports-illustrated">Sports Illustrated</a></li><li><a rel="/search/sportseat">Sportseat</a></li><li><a rel="/search/sporty-chic">Sporty Chic</a></li><li><a rel="/search/spotless-swing">Spotless Swing</a></li><li><a rel="/search/sri-monogramming">SRI Monogramming</a></li><li><a rel="/search/srixon">Srixon</a></li><li><a rel="/search/starpro-greens">StarPro Greens</a></li><li><a rel="/search/stealth">Stealth</a></li><li><a rel="/search/stinger-tees">Stinger Tees</a></li><li><a rel="/search/stx">STX</a></li><li><a rel="/search/sun-mountain">Sun Mountain</a></li><li><a rel="/search/sun-products">Sun Products</a></li><li><a rel="/search/sundog">Sundog</a></li><li><a rel="/search/sunice">Sunice</a></li><li><a rel="/search/superstroke">SuperStroke</a></li><li><a rel="/search/swing-thought">Swing Thought</a></li><li><a rel="/search/swingbyte">Swingbyte</a></li><li><a rel="/search/synlawn">SYNLawn</a></li><li><a rel="/search/tacki-mac">Tacki Mac</a></li><li><a rel="/search/tail">Tail</a></li><li><a rel="/search/taylormade">TaylorMade</a></li><li><a rel="/search/team-effort">Team Effort</a></li><li><a rel="/search/team-golf">Team Golf</a></li><li><a rel="/search/technasonic">Technasonic</a></li><li><a rel="/search/tee-pal">Tee Pal</a></li><li><a rel="/search/tee-pal-pro">Tee Pal Pro</a></li><li><a rel="/search/tef-tee">Tef Tee</a></li><li><a rel="/search/the-littlest-golfer">The Littlest Golfer</a></li><li><a rel="/search/the-perfect-putting-aid">The Perfect Putting Aid</a></li><li><a rel="/search/the-white-ball">The White Ball</a></li><li><a rel="/search/tifosi">Tifosi</a></li><li><a rel="/search/tiger-shark">Tiger Shark</a></li><li><a rel="/search/tilley">Tilley</a></li><li><a rel="/search/titleist">Titleist</a></li><li><a rel="/search/total-gym-fitness">Total Gym Fitness</a></li><li><a rel="/search/tour-edge">Tour Edge</a></li><li><a rel="/search/tour-striker">Tour Striker</a></li><li><a rel="/search/tour-trek">Tour Trek</a></li><li><a rel="/search/tpk">TPK</a></li><li><a rel="/search/travis-mathew">Travis Mathew</a></li><li><a rel="/search/trion:z">Trion:Z</a></li><li><a rel="/search/true-linkswear">True Linkswear</a></li><li><a rel="/search/truestrike">TrueStrike</a></li><li><a rel="/search/twisttee">TwistTee</a></li><li><a rel="/search/under-armour">Under Armour</a></li><li><a rel="/search/us-kids">US Kids</a></li><li><a rel="/search/ust-mamiya">UST Mamiya</a></li><li><a rel="/search/vista-design-studios">Vista Design Studios</a></li><li><a rel="/search/wilson-staff">Wilson Staff</a></li><li><a rel="/search/winn">Winn</a></li><li><a rel="/search/winning-edge-designs">Winning Edge Designs</a></li><li><a rel="/search/yes-golf">Yes Golf</a></li><li><a rel="/search/zero-friction">Zero Friction</a></li><li><a rel="/search/zero-restriction">Zero Restriction</a></li><li><a rel="/search/zevo">Zevo</a></li><li><a rel="/search/ztech">ZTech</a></li></ul></body></html>
