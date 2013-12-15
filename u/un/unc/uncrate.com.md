@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uncrate.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624080616id_/http%3A//uncrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncrate.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215024833id_/http%3A//uncrate.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Uncrate
 
-The digital magazine for guys who love stuff. Five awesome new things are posted every day. We've found 10273 things since 2005. Subscribe to our [daily email](http://uncrate.com/subscribe/) or follow us on [Facebook](http://www.facebook.com/uncrate), [Twitter](http://twitter.com/uncrate), [Instagram](http://instagram.com/uncrate), & [Tumblr](http://uncrate.tumblr.com/). 
+The digital magazine for guys who love stuff. Five awesome new things are posted every day. We've found 9862 things since 2005. Subscribe to our [daily email](http://uncrate.com/subscribe/) or follow us on [Facebook](http://www.facebook.com/uncrate), [Twitter](http://twitter.com/uncrate), [Instagram](http://instagram.com/uncrate), & [Tumblr](http://uncrate.tumblr.com/). 
 
 The policies below are applicable to Uncrate.com. Any questions or comments you may have regarding this privacy policy, contact [Zombiecorp](http://www.zombiecorp.com/).
 
