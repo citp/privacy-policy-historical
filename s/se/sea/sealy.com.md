@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603093622id_/http%3A//sealy.com/Privacy-and-Regulations.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215223651id_/http%3A//www.sealy.com/Privacy-and-Regulations.aspx) for the most accurate reproduction.*
 
 # Sealy | Sealy.com Privacy | Terms & Conditions
 
