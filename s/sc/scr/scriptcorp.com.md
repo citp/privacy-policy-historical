@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptcorp.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615234811id_/http%3A//www.scriptcorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptcorp.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215124402id_/http%3A//www.scriptcorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,5 +24,3 @@ If you have any questions about this privacy statement, please contact us at adm
 [](http://www.scriptcorp.com/site-review/)
 
 Main Categories 
-
-[](http://awebdesk.com/emailmarketing?&alskey=pi-7-42t-m)
