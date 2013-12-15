@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asuswebstorage.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424005255id_/https%3A//service.asuswebstorage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asuswebstorage.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215163247id_/https%3A//service.asuswebstorage.com/privacy) for the most accurate reproduction.*
 
 # Online backup, file sync, for pad, PC, Android and iPhone - ASUS WebStorage
 
