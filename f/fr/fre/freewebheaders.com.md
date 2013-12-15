@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebheaders.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615003445id_/http%3A//www.freewebheaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebheaders.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215163842id_/http%3A//www.freewebheaders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Web Headers
 
@@ -10,8 +10,8 @@ All ‘FreeWebHeaders.com’ members mailing lists are voluntary. We will never 
 
 ‘FreeWebHeaders.com’ does record and track IP addresses, browser information (such as version, make and model), and referring links (i.e. how you got to the page). This information helps us analyze site traffic patterns and usage as well as improve our product offering and quality of service.
 
-This site may contain links to other sites. Although we are very selective in choosing these links, ‘FreeWebHeaders.com’ does not assume any responsibility for or make any warranties about the privacy practices or the content of such Web sites.
+This site may contain links to other sites. Although we are very selective in choosing these links, ‘FreeWebHeaders.com’ does not assume any responsibility for or make any warranties about the privacy practices or the content of such Websites.
 
-Protecting your privacy is one of our highest priorities, but as with all Web sites, ours may be vulnerable to service interruptions, intentional attacks, or other events that may compromise the security of our site and the information contained therein (including that which you provide). Accordingly, by submitting such information, you acknowledge and agree that ‘FreeWebHeaders.com’ is not responsible for any direct or consequential damages that may result from such events.
+Protecting your privacy is one of our highest priorities, but as with all Websites, ours may be vulnerable to service interruptions, intentional attacks, or other events that may compromise the security of our site and the information contained therein (including that which you provide). Accordingly, by submitting such information, you acknowledge and agree that ‘FreeWebHeaders.com’ is not responsible for any direct or consequential damages that may result from such events.
 
 Note: If you have any questions about this privacy statement, the practices of this site, or your dealings with the ‘FreeWebHeaders.com’ Web site, please don’t hesitate to [contact us](http://www.freewebheaders.com/contact/ "Contact us!").
