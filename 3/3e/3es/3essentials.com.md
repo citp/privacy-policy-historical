@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3essentials.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231919id_/http%3A//www.3essentials.com/tos-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3essentials.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215145107id_/http%3A//www.3essentials.com/tos-privacy.asp) for the most accurate reproduction.*
 
 # 3Essentials Hosting - Privacy Policy
 
@@ -21,7 +21,7 @@
 8\. _Contact_. Should you have any questions regarding this Privacy Policy, you may contact 3Essentials, Inc. directly via telephone/fax at 800-706-2908 or write to us at the following address:
 
 3Essentials, Inc.  
-2600 Gateway Center Blvd  
+2300 Gateway Center Blvd  
 Suite 101  
 Morrisville, NC 27560
 
