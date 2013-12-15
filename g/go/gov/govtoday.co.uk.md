@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the govtoday.co.uk privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612014829id_/http%3A//www.govtoday.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtoday.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215042119id_/http%3A//www.govtoday.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  Privacy Policy 
 
 Published on Wednesday, 04 April 2012 11:56 
-     Posted by Administrator 
+     Written by Administrator 
 
   
 **General Users**
@@ -31,5 +31,3 @@ Cookies enable us to identify your device, or you when you have logged in. We us
 We don’t sell the information collected by cookies, nor do we disclose the information to third parties, except where required by law (for example to government bodies and law enforcement agencies).
 
 If you wish to control what cookies are set on your device through the govtoday website then you can find out how to do this in Managing Cookies.
-
-The views expressed in the contents below are those of our users and do not necessarily reflect the views of GovToday.
