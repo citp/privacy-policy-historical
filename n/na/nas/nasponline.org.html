@@ -1,158 +1,79 @@
-<!--The following is the downloaded HTML source of the nasponline.org privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615030246id_/http%3A//www.nasponline.org/about_nasp/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nasponline.org privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215181123id_/http%3A//www.nasponline.org/about_nasp/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-			
-		<style type="text/css">
-		<!--
-		body {
-			margin: 0; 
-			padding: 0;
-			text-align: center; 
-			color: #000000;
-		}
-		.oneColFixCtr #container {
-			width: 960px;  
-			background: #FFFFFF;
-			margin: 0 auto;
-			border: none;
-			text-align: left;
-		}
-		.oneColFixCtr #mainContent {
-			background: #FFFFFF;
-		}
-		.style1 {color: #FFFFFF}
-		.watermarked {
-			background-color:#F0F8FF;
-			color:gray;
-			font-size: 10px;
-			border: 1px inset #999999;
-			height: 10px;
-			width: 80px;
-			margin-left: 28px;
-		}	
-		#newHeader {
-			float:left;
-			background:url(/images/Headers-960/interiorNASPheader.jpg) top left no-repeat;
-			width:960px;
-			height:96px;
-		}
-		.breadcrumbStyle {
-			float:left;
-			position:relative;
-			margin-top:0px;
-			border:0px solid #CCC;
-			font-size:.9em;
-			vertical-align:middle;
-		}	
-		.breadcrumbStyle a:hover {
-			color:red;
-		}	
-		.breadcrumbHomeStyle {
-			vertical-align:middle;
-			}	
-
-		html>body #nav li.current1 > a {
-		background: #EEEDD8 url(/images/icons/arrow_out.png) no-repeat right center;
-		color:#222;
-		background-position: 97% 50%; 
-		}
-
-		html>body #subnav ul li.current1 a, html>body #subnav ul li.current1 a:hover, html>body #subnav ul li.current1 a, html>body #subnav ul li.current1 a:hover{
-			background: #E8F3FF url(/images/2arrow_gray_right.png) no-repeat left center;
-			padding-right:20px;
-			font-weight:bold;
-			color: #000; 
-			z-index:3;
-		}
-		 html>body #subnav ul li.current1 a:hover{color:#000; }
- 
-		-->
-		</style>
-		
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	NASP - Website Privacy Policy
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+				
 		<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script> 
+		<script type="text/javascript" src="/scripts/styles.js"></script>
+		<script type="text/javascript" src="/facebox/facebox.js"></script>
+		<script type="text/javascript" src="/navigation/highlightNav_main.js"></script>
+
 		<script type="text/JavaScript">
-		<!--
-			document.domain = 'nasponline.org';
+			//Set Page Domain (Errors on Testing)
+			try{
+				document.domain = 'nasponline.org';
+			}
+			catch(err){}
+			//Popup Function For iWeb (Login / Etc)
 			function openWindow(theURL,winName) { //v2.0
 				window.open(theURL,winName,"toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=834,height=754");
 			}
-	
-			sfHover = function() {
-				var sfEls = document.getElementById("nav").getElementsByTagName("LI");
-				for (var i=0; i<sfEls.length; i++) {
-					sfEls[i].onmouseover=function() {
-						this.className+=" sfhover";
-					}
-					sfEls[i].onmouseout=function() {
-						this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-					}
-				}
-			}
-			if (window.attachEvent) window.attachEvent("onload", sfHover);
-		//-->
+			//Menu Hover Color Change
+			$(document).ready(function(){
+				$('#nav li').mouseover(function(){$(this).addClass("sfhover");});
+				$('#nav li').mouseout(function(){$(this).removeClass("sfhover");});
+			});
 		</script>
 		<script type="text/javascript">
-		<!--
+			//Analytics Script
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		//-->
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript" language="javascript" src="/scripts/styles.js"></script>
 		<script type="text/javascript">
-		<!--
+			//Analytics Track Page
 			try {
 				var pageTracker = _gat._getTracker("UA-772889-1");
 				pageTracker._trackPageview();
 			} catch(err) {}
-		-->
 		</script>
 		<script type="text/javascript"> 
-		<!--
+			//Accordion (w/ first set to closed)
 			$(document).ready(function(){
-				//Set default open/close settings
-				$('.acc_container').hide(); //Hide/close all containers
-				//$('.acc_trigger:first').addClass('active').next().show(); //Add "active" class to first trigger, then show/open the immediate next container
-
-				//On Click
+				$('.acc_container').hide(); 
+				//$('.acc_trigger:first').addClass('active').next().show(); 
 				$('.acc_trigger').click(function(){
-					if( $(this).next().is(':hidden') ) { //If immediate next container is closed...
-						$('.acc_trigger').removeClass('active').next().slideUp(); //Remove all .acc_trigger classes and slide up the immediate next container
-						$(this).toggleClass('active').next().slideDown(); //Add .acc_trigger class to clicked trigger and slide down the immediate next container
+					if( $(this).next().is(':hidden') ) { 
+						$('.acc_trigger').removeClass('active').next().slideUp(); 
+						$(this).toggleClass('active').next().slideDown(); 
 					}
-					return false; //Prevent the browser jump to the link anchor
+					return false; 
 				});
 			});
-		-->
 		</script> 
-
-
-		<script src="/facebox/facebox.js" type="text/javascript"></script>
 		<script type="text/javascript">
-		<!--
+			//Facebox
 			jQuery(document).ready(function($) {
 				$('a[rel*=facebox]').facebox({
 					loading_image : '/facebox/loading.gif',
 					close_image   : '/facebox/closelabel.gif'
 				}) 
 			})
-		-->
 		</script>
 		<script type="text/javascript">
-		<!--
-		$(document).ready(function(){
-			$('#login-trigger').click(function(){
-				$(this).next('#login-content').slideToggle();
-				$(this).toggleClass('active');
-				if ($(this).hasClass('active')) $(this).find('span').html('&#x25B2;')
-				else $(this).find('span').html('&#x25BC;')
-			})
-		});
-		-->
+			//Login DropDown
+			$(document).ready(function(){
+				$('#login-trigger').click(function(){
+					$(this).next('#login-content').slideToggle();
+					$(this).toggleClass('active');
+					if ($(this).hasClass('active')) $(this).find('span').html('&#x25B2;')
+					else $(this).find('span').html('&#x25BC;')
+				})
+			});
 		</script>
-
 		<script type="text/javascript">
-		<!--
+			//Form Toggling
 			$(document).ready(function(){
 				$('#newsearchbox').find(':input').focus(function(){
 					if ($(this).next(':input').attr('disabled') !== undefined){
@@ -166,9 +87,6 @@
 						}
 					})
 				})
-	
-				//facebox is populated by clone method at first click (after eventbinding)
-				//this requires  >=jquery 1.7
 				$('a[rel*=facebox]').click(function(){
 					$('#facebox #login-content2').find(":input").on('focus', function(){
 						$('#login-content2').find(":input").each(function(index){
@@ -178,21 +96,10 @@
 						})
 					})
 				})
-	
 			});
-		-->
 		</script>
-
-		<link rel="stylesheet" href="/styles/logininfo.css" type="text/css"><link rel="stylesheet" href="/styles/new-header2.css" type="text/css">
-		<link rel="stylesheet" href="/css/message-boxes.css" type="text/css">
-
-		<link rel="stylesheet" href="/styles/interiorNASPstyle960_2col.css" type="text/css"><link rel="stylesheet" href="/styles/interiorprint.css" type="text/css" media="print"><link rel="stylesheet" href="/facebox/facebox.css" type="text/css" media="screen"><link rel="stylesheet" href="/styles/login.css" type="text/css"><link rel="stylesheet" href="/styles/top_menu.css" type="text/css"><link href="/GridViewCSSThemes/YahooGridView.css" rel="stylesheet" type="text/css">
-		<!--[if lt IE 9]>
-			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-		<script src="/navigation/highlightNav_main.js"></script>
-		
 		<script type="text/javascript" language="javascript">
+			//message box?
 			$(document).ready(function(){
 				$(window).scroll(function(){
 					$('#message_box').animate({top:($(window).scrollTop()+200)+"px" },{queue: false, duration:0});  
@@ -202,6 +109,77 @@
 				});
 			});
 		 </script>
+		 <style type="text/css">
+			body {
+				margin: 0; 
+				padding: 0;
+				text-align: center; 
+				color: #000000;
+			}
+			.oneColFixCtr #container {
+				width: 960px;  
+				background: #FFFFFF;
+				margin: 0 auto;
+				border: none;
+				text-align: left;
+			}
+			.oneColFixCtr #mainContent {
+				background: #FFFFFF;
+			}
+			.style1 {color: #FFFFFF}
+			.watermarked {
+				background-color:#F0F8FF;
+				color:gray;
+				font-size: 10px;
+				border: 1px inset #999999;
+				height: 10px;
+				width: 80px;
+				margin-left: 28px;
+			}	
+			#newHeader {
+				float:left;
+				background:url(/images/Headers-960/interiorNASPheader.jpg) top left no-repeat;
+				width:960px;
+				height:96px;
+			}
+			.breadcrumbStyle {
+				float:left;
+				position:relative;
+				margin-top:0px;
+				border:0px solid #CCC;
+				font-size:.9em;
+				vertical-align:middle;
+			}	
+			.breadcrumbStyle a:hover {
+				color:red;
+			}	
+			.breadcrumbHomeStyle {
+				vertical-align:middle;
+				}	
+			
+			html>body #nav li.current1 > a {
+				background: #EEEDD8 url(/images/icons/arrow_out.png) no-repeat right center;
+				color:#222;
+				background-position: 97% 50%; 
+			}
+			
+			html>body #subnav ul li.current1 a, html>body #subnav ul li.current1 a:hover, html>body #subnav ul li.current1 a, html>body #subnav ul li.current1 a:hover {
+				background: #E8F3FF url(/images/2arrow_gray_right.png) no-repeat left center;
+				padding-right:20px;
+				font-weight:bold;
+				color: #000; 
+				z-index:3;
+			}
+			html>body #subnav ul li.current1 a:hover {
+				color:#000; 
+			}
+		</style>
+		<link rel="stylesheet" href="/styles/new-header2.css" type="text/css">
+		<link rel="stylesheet" href="/css/message-boxes.css" type="text/css">
+		<link rel="stylesheet" href="/styles/interiorNASPstyle960_2col.css" type="text/css"><link rel="stylesheet" href="/styles/interiorprint.css" type="text/css" media="print"><link rel="stylesheet" href="/facebox/facebox.css" type="text/css" media="screen"><link rel="stylesheet" href="/styles/login.css" type="text/css"><link rel="stylesheet" href="/styles/top_menu.css" type="text/css"><link rel="stylesheet" href="/GridViewCSSThemes/YahooGridView.css" type="text/css">
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
  
 		
 	<style type="text/css">
@@ -224,17 +202,16 @@
 	}
 	-->	
 	</style>
-<title>
-	NASP - Website Privacy Policy
-</title></head>
+	
+</head>
 	<body class="oneColFixCtr">
 		<a name="top"></a>
-		<div id="container">
-			<form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGGN0bDAwJGN0bDAwJGtlZXBsb2dnZWRpbgUVY3RsMDAkY3RsMDAkYnRuR29vZ2xlBRljdGwwMCRjdGwwMCRrZWVwbG9nZ2VkaW4yyv0MOWMmmpbO/kyDTGdjdTn1nSQ=">
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwLsu8jVBQLl+POXBwLw4vWHDALY+N6JBwK05tuDAgLp4ai0CgK+98DcCgKa/dn6DwKp/tvCCAKMmZrWDALoue33DYxbX/o/Ae23rsXUiFCEyHpEEqG2">
 			
+		<div id="container">
+			<form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm" class="formfield">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGGN0bDAwJGN0bDAwJGtlZXBsb2dnZWRpbgUVY3RsMDAkY3RsMDAkYnRuR29vZ2xlBRljdGwwMCRjdGwwMCRrZWVwbG9nZ2VkaW4yx/gLiQn4yhhBtoCqwvbBIfNaWQ8=">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwKyzYaABgLl+POXBwLw4vWHDALY+N6JBwK05tuDAgLp4ai0CgK+98DcCgKa/dn6DwKp/tvCCAKMmZrWDALoue33DSWwjEv2DHbdGHC1ZeFuS3Z6pKL9">
 				<div id="newHeader">
 					<a href="/" class="homeArea"></a>
 					
@@ -244,7 +221,7 @@
 						<ul>
 							<li id="login">
 								
-								<a id="login-trigger" href="#">Log in <span>â–¼</span></a>
+								<a id="login-trigger" href="#">Log in <span>▼</span></a>
 								
 								<div id="login-content">
 									<fieldset id="inputs">
@@ -276,8 +253,47 @@
 						<input type="image" name="ctl00$ctl00$btnGoogle" id="ctl00_ctl00_btnGoogle" disabled="disabled" title="Search" class="newsearchboxIcon" src="/images/icons/search-icon.png" border="0">
 					</div>
 				</div>
-
-				<img src="/images/popsbar_960.jpg" alt="Populations" border="0" usemap="#Map1">
+				
+				<!--
+				<style type="text/css">
+					#population_bar{
+						position:absolute;
+						top:110px;
+						margin:0px auto;
+						width:960px;
+						height:25px;
+						background:#65655d;
+					}
+					#population_bar a{
+						text-decoration:none;
+						color:#F0F0F0;
+						font-size:12px;
+						display:block;
+						margin:4px 40px;
+						float:left;
+					}
+					#population_bar a:hover {
+						color:#F0F0F0;
+					}
+					#population_bar a:active {
+						color:#F0F0F0;
+					}
+					#population_bar a img{
+						float:left;
+						border:0px;
+					}
+				</style>
+				<div id="population_bar">
+					<div style="margin:0px 30px 0px 90px;">
+					<a href="/students/index.aspx">Students</a>
+					<a href="/earlycareer/index.aspx">Early Career</a>
+					<a href="/families/index.aspx">Families</a>
+					<a href="/educators/index.aspx">Educators</a>
+					<a href="/membership/my-account.aspx"><img src="/images/icons/my-account-icon.jpg" /> View My Account</a>
+					</div>
+				</div>
+				-->
+				<img src="/images/popsbar_960.jpg" alt="Populations" border="0" usemap="#Map1" id="popsbar">
 				<map name="Map1" id="Map1">
 					<area shape="rect" coords="151,4,217,21" href="/students/index.aspx">
 					<area shape="rect" coords="273,5,358,22" href="/earlycareer/index.aspx">
@@ -285,13 +301,13 @@
 					<area shape="rect" coords="564,6,640,20" href="/educators/index.aspx">
 					<area shape="rect" coords="683,5,813,20" href="/membership/memberupdate.aspx">
 				</map>
-
+				
 
 				<table width="100%" cellpadding="0" cellspacing="0">
 					<tbody><tr>
 						<td colspan="2" style="padding-left:10px; padding-top:10px">
 							
-							<span id="ctl00_ctl00_SiteMapPath1" class="breadcrumbStyle"><a href="#ctl00_ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=L2zSpoeLSULbjzfsEHzNnlWJB6S0bK9eJNipUktRxauvXmEN_jCiStk8pdWL-RsBdt0UhbvMb1et_APi6IFZ-AI5zEU1&amp;t=634965248330717424" border="0"></a><a id="ctl00_ctl00_SiteMapPath1_SkipLink"></a></span>
+							<span id="ctl00_ctl00_SiteMapPath1" class="breadcrumbStyle"><a href="#ctl00_ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=ty6SUxi4nNIbLFGMooFhQC3-gAbiMQcItvIz-69h5-1w2LvULAXX9psjqAv3SGkQcm48GBQE8TL87DJlNfT_i4557po1&amp;t=635220627349517519" border="0"></a><a id="ctl00_ctl00_SiteMapPath1_SkipLink"></a></span>
 						</td>
 					</tr>
 					<tr>
@@ -363,6 +379,7 @@
 		</ul>
 	</div>
 
+								
 								<div id="bottomnav">
 									<ul>
 										<li><a href="javascript:print();"><img src="/images/interiormenus/printpage.jpg" border="0" alt="Print This Page"></a></li>
@@ -370,6 +387,7 @@
 									</ul>
 								</div>
 								<br>
+								
 							</div>
 						</td>
 						<td width="780" style="padding-left: 20px; padding-right: 20px; padding-bottom:20px; padding-top:15px">
@@ -402,6 +420,7 @@ We  are not responsible for the content of external Internet sites. You are advi
 					</tr>
 				</tbody></table>
 				<div id="face_login" style="display:none;">
+					<h2 style="margin: -10px 0 0 10px;">Log in</h2>
 					<div style="width:300px;" id="login2">
 						<div id="login-content2">
 							<fieldset id="inputs2">
@@ -427,32 +446,10 @@ We  are not responsible for the content of external Internet sites. You are advi
 
 			</form>
 		</div>
-		<style type="text/css">
-#footer {
-margin:0 auto;
-width:940px;
-padding:10px;
-background-color:#666666;
-margin-top:0px;
-height:125px;
-font-size:.9em;
-font-weight:normal;
-color:#FFF;
-}
-#footer a{
-color:#CCC;
-text-decoration:none;
-}
-#footer a:hover{
-text-decoration:underline;
-font-weight:normal;
-color:#FFF;
-}
-</style>
-<div id="footer">
-<p>National Association of School Psychologists, 4340 East West Highway, Suite 402, Bethesda, MD  20814<br>
-Phone: (301) 657-0270 <span class="style1">|</span> Toll Free: (866) 331-NASP <span class="style1">|</span> Fax: (301) 657-0275 <span class="style1">|</span> TTY: (301) 657-4155</p>
-<p><a href="http://www.nasponline.org/sitemap.aspx" class="footerlink">Site Map</a> <span class="style1">|</span> <a href="http://www.nasponline.org/resources/rssfeeds.aspx" class="footerlink">RSS Feeds</a> <span class="style1">|</span> <a href="http://www.nasponline.org/copyright.aspx" class="footerlink">Copyright</a>  <span class="style1">|</span> <a href="http://www.nasponline.org/about_nasp/faqs_main.aspx" class="footerlink">FAQs</a> <span class="style1">|</span> <a href="http://www.nasponline.org/about_nasp/meet_staff.aspx" class="footerlink">Contact Us</a> <span class="style1">|</span> <a href="/about_nasp/privacy-policy.aspx" class="footerlink">Privacy Policy</a></p>
+		<div id="footer">
+	<p>National Association of School Psychologists, 4340 East West Highway, Suite 402, Bethesda, MD  20814
+	<br>Phone: (301) 657-0270 <span>|</span> Toll Free: (866) 331-NASP <span>|</span> Fax: (301) 657-0275 </p>
+	<p><a href="/sitemap.aspx">Site Map</a> <span>|</span> <a href="/resources/rssfeeds.aspx">RSS Feeds</a> <span>|</span> <a href="/copyright.aspx">Copyright</a>  <span>|</span> <a href="/about_nasp/faqs_main.aspx">FAQs</a> <span>|</span> <a href="/about_nasp/meet_staff.aspx">Contact Us</a> <span>|</span> <a href="/about_nasp/privacy-policy.aspx">Privacy Policy</a></p>
 </div>
 
 	
