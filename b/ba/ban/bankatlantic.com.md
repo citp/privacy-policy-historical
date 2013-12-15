@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426211748id_/http%3A//bbt.com/bbtdotcom/privacy-and-security/default.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatlantic.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215021047id_/http%3A//www.bbt.com/bbtdotcom/privacy-and-security/default.page) for the most accurate reproduction.*
 
 # BB&T – Privacy and Security
 
