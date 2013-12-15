@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 91mobiles.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517093415id_/http%3A//www.91mobiles.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 91mobiles.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215112714id_/http%3A//www.91mobiles.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 91Mobiles
 
@@ -9,7 +9,7 @@ At 91mobiles, we respect the privacy of our users and the importance of the info
 
 We may collect information that can identify you ("personal information"), such as your name and email address, your preferences, your phone numbers, in case you happen to be owner of a brand or business when you (or other users) provide it to us when using our website or in some other manner. 
 
-We may collect “Non-Personal Information” – information that cannot be used to identify you – via Cookies, even if you have not registered with or provided any Personal Information to 91mobiles.com 
+We may collect �Non-Personal Information� � information that cannot be used to identify you � via Cookies, even if you have not registered with or provided any Personal Information to 91mobiles.com 
 
 We also may collect other types of information in the following ways when you visit our website: 1\. Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.   
 2\. We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.   
@@ -22,7 +22,7 @@ We also may collect other types of information in the following ways when you vi
 **Usage of such information**  
 
 
-We may use information to: * Fulfill your requests for products and services, or those made in the “My” page;   
+We may use information to: * Fulfill your requests for products and services, or those made in the �My� page;   
 * Offer products and services that may be of interest to you;   
 * Facilitate use of our website;   
 * Manage your account and your preferences;   
