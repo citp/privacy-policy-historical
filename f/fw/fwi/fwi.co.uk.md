@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617172806id_/http%3A//fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215162424id_/http%3A//fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Farmers Weekly
 
@@ -21,15 +21,15 @@ We will use contact details provided by you as part of any registration process 
 
 Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by 
 
-[clicking here](https://web.archive.org/login/mainlogin/) ...
+[clicking here](https://web.archive.org/disable/login/mainlogin/) ...
 
 We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by 
 
-[registering your preference here](https://web.archive.org/login/mainlogin/) ...
+[registering your preference here](https://web.archive.org/disable/login/mainlogin/) ...
 
 If you wish to alter any of your registration details 
 
-[please click here](https://web.archive.org/login/mainlogin/) ...  
+[please click here](https://web.archive.org/disable/login/mainlogin/) ...  
 **  
 Voluntary Information **
 
