@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danpatrick.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611202344id_/http%3A//www.danpatrick.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danpatrick.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215024649id_/http%3A//www.danpatrick.com/terms-conditions-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms, Conditions and Privacy Policy » The Dan Patrick Show | Official Home
 
