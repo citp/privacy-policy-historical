@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprental.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615060848id_/http%3A//iprental.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprental.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215181321id_/http%3A//www.iprental.com/privacy) for the most accurate reproduction.*
 
 # IPRental - Privacy Policy
 
