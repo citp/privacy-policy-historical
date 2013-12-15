@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architectureartdesigns.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614021438id_/http%3A//www.architectureartdesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureartdesigns.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215014450id_/http%3A//www.architectureartdesigns.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Architecture, Art, Desings - Daily source for inspiration and fresh ideas on Architecture, Art and Design
+# Privacy Policy | ArchitectureArtDesign.com
 
 Privacy Policy for www.architectureartdesigns.com 
 
