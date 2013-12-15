@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldstaramateurs.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625015530id_/http%3A//worldstaramateurs.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldstaramateurs.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215124639id_/http%3A//www.worldstaramateurs.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,3 +61,40 @@ Unfortunately, the transmission of information via the Internet is not completel
 YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
+
+### Porn Videos From Our Friends
+
+  * [ ](http://www.amateursxposed.com/5/i-love-wit-dat-azz/ "I love wit dat azz")
+
+##### I love wit dat azz
+
+  * [ ](http://www.amateursxposed.com/511/dick-down-her-throat/ "Dick down het throat")
+
+##### Dick down het throat
+
+  * [ ](http://www.amateursxposed.com/10/juicy-cameltoe-pussy/ "Juicy cameltoe pussy")
+
+##### Juicy cameltoe pussy
+
+  * [ ](http://www.amateursxposed.com/3/all-azz-n-big-dick/ "All azz n big dick")
+
+##### All azz n big dick
+
+  * [ ](http://www.amateursxposed.com/518/suck-her-cream-off-my-dick/ "Suck her cream off my dick")
+
+##### Suck her cream off my dick
+
+  * [ ](http://www.amateursxposed.com/539/50-inch-of-sweet-black-ass/ "50 inch of sweet black ass")
+
+##### 50 inch of sweet black ass
+
+  * [ ](http://www.amateursxposed.com/529/her-pussy-is-one-of-the-best/ "Her pussy is one of the best")
+
+##### Her pussy is one of the best
+
+  * [ ](http://www.amateursxposed.com/176/i-would-put-a-babe-in-that-pussy/ "I would put a baby in that pussy")
+
+##### I would put a baby in that pussy
+
+
+
