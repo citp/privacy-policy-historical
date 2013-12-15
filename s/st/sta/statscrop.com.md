@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statscrop.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603084052id_/http%3A//www.statscrop.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statscrop.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215165852id_/http%3A//www.statscrop.com/about/privacy) for the most accurate reproduction.*
 
 # StatsCrop Privacy Policy
 
