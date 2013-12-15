@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630004149id_/http%3A//michaelbaisden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215034107id_/http%3A//michaelbaisden.com/privacy-policy) for the most accurate reproduction.*
 
-# Michael Baisden – Privacy Policy
+# Privacy Policy | Michael Baisden
 
 This site is owned by Citadel Broadcasting Corporation (“Citadel”) and/or its subsidiaries.  Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
@@ -10,7 +10,7 @@ Citadel collects information to assist us in delivering a superior level of prod
 It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you.  In addition, your personal information helps us keep you posted on the latest product announcements, updates, special offers, promotions, and events that you might like to hear about.
 
 What information we collect.  
-The information we learn from customers helps us personalize and continually improve your experience with our products and services.  Here are the types of information we gather. 
+The information we learn from customers helps us personalize and continually improve your experience with our products and services.  Here are the types of information we gather.
 
   * Automatic Information:Our servers automatically collect certain non-personally identifying information, such as your computer’s IP address, the type of browser in use, and pages viewed, streams viewed or listened to and when you visit our Sites. We use this information to understand how visitors navigate through our Sites and use our products, to enhance your experience while using our Sites, and to make the materials we post as valuable to visitors as possible. We do not link this information to personally identifiable information.
   * Information You Give Us:We receive and store any information you enter during account creation or any information you voluntarily provide us in any other way. You can choose not to provide certain personally identifiable information, but then you might not be able to take advantage of many of our features.  We use the personally identifiable information that you provide to us for such purposes as responding to your requests, customizing your experience, improving our product, and communicating with you.
@@ -67,4 +67,4 @@ We may revise this Privacy Policy to keep it up to date with Citadel’s current
 Privacy questions.  
 If you have questions or concerns about Citadel’s Privacy Policy or data processing or use, please send an email to [privacy@citadelinteractive.com](mailto:privacy@citadelinteractive.com) to contact us. We will respond to your inquiry within 30 days.
 
-(Last updated August 2007) 
+(Last updated August 2007)
