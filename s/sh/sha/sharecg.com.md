@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512200333id_/http%3A//www10.sharecg.com/policy/privacy_policy.php%3FPSID%3Dacb338aea3829f7174ca92aa79a03861) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215233916id_/http%3A//www10.sharecg.com/policy/privacy_policy.php%3FPSID%3De524c93a0dbba567f249fed6f2606fe5) for the most accurate reproduction.*
 
 # IBSystems, Inc., Privacy Policy
 
