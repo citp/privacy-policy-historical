@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the 38degrees.org.uk privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515022640id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 38degrees.org.uk privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215151327id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/33048834.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="//cdn.optimizely.com/js/274510221.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
@@ -89,8 +89,41 @@ function loadSignupCounterXeno(ids, targ){
 <script src="/index.php/js/cc/" type="text/javascript"></script>
 <script src="/index.php/js/global/" type="text/javascript"></script>
 <script src="/index.php/js/action-counter" type="text/javascript"></script>
+<script src="//c.shpg.org/25/sp.js"></script>
 <!--[if IE 6]><script type="text/javascript">ie6 = true;</script><![endif]-->
+<script>
+jQuery(document).ready(function(){
+//Find the reason box
+$reasonBox = jQuery("textarea[name=reason]");
+$reasonRow = $reasonBox.parent().parent().parent().parent().parent().parent();
 
+//Add in the combo box
+$reasonDropRow = $reasonRow.clone();
+
+$reasonDropRow.find("textarea").after(jQuery('<select name="reason-box"><option value=""></option><option value="too many emails">You\'re sending me too many emails</option><option value="disagree">I disagree with 38 Degrees campaigns</option><option value="other email">I\'m moving to a different email address</option><option value="other">Other</option></select>'));
+$reasonDropRow.find("textarea").remove();
+$reasonRow.before($reasonDropRow);
+
+//Handle for the drop down
+$reasonDropBox = $reasonDropRow.find("select");
+
+$reasonRow.find("span").html("Other reason: ");
+
+//Hide it
+$reasonRow.css("display","none");
+
+//Set the combo box to automatically update the reason box, unless set to 'other' in which case it appears
+$reasonDropBox.change(function(){
+	if ($reasonDropBox.val() === 'other'){
+		$reasonBox.val("");  //hide the value and make visible
+		$reasonRow.css("display","inline-block");
+	} else {
+		$reasonBox.val($reasonDropBox.val());
+		$reasonRow.css("display","none");
+	}
+});
+});
+</script>
 </head>
 
 <body class="interior ">
@@ -170,7 +203,11 @@ function loadSignupCounterXeno(ids, targ){
 <p><strong>10. Updating information</strong><br> Please let us know if the personal information which we hold about you needs to be corrected or updated by contacting us via emailtheteam@38degrees.org.uk</p>
 <p><strong>11. Unsubscribing<br> </strong>You may unsubscribe from 38 Degrees at any time by going to http://38degrees.org.uk/unsubscribe/ or by contacting emailtheteam@38degrees.org.uk</p>
 <p><strong>12.Contact</strong> <br> If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email emaitheteam@38degrees.org.uk or by post to:</p>
-<p><em>The Data Protection Manager<br> 38 Degrees<br> 8 Angel Gate<br> City Road<br> London EC1V 2SJ </em></p>
+<p><em>The Data Protection Manager<br> </em></p>
+<p><em>38 Degrees</em></p>
+<p><em> Room 126</em></p>
+<p><span style="font-style: italic;">40 Bowling Green Lane</span></p>
+<p><em> London EC1R 0NE</em></p>
 <p>&nbsp;</p>
 <div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 242px; width: 1px; height: 1px;">All our website financial transactions are handled through our payment<br> services provider, Paypal. You should only provide your personal<br> information to Paypal after reviewing the Paypal privacy policy<br> (available at <a href="http://www.paypal.com/" target="_blank">www.paypal.com</a>). &nbsp;We will share information with Paypal<br> only to the extent necessary for the purposes of processing payments<br> you make via our website. We do not store your financial or credit<br> card details.</div>
 
@@ -219,7 +256,8 @@ function loadSignupCounterXeno(ids, targ){
 						}
 					</script>
 
-					<a href="//twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+					<a href="https://twitter.com/38_degrees" class="twitter-follow-button" data-show-count="false">Follow @38_degrees</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 				</div><!--close div#section-->
 				<!-- ********************** -->
@@ -276,27 +314,13 @@ function loadSignupCounterXeno(ids, targ){
 
 </script>
 <!-- end GA tag -->
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
-<!-- ClickTale Bottom part -->
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">
-document.write(unescape("%3Cscript%20src='"+
- (document.location.protocol=='https:'?
-  'https://clicktale.pantherssl.com/':
-  'http://s.clicktale.net/')+
- "WRc3.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://clicktale.pantherssl.com/WRc3.js" type="text/javascript"></script>
-<script type="text/javascript">
-var ClickTaleSSL=1;
-if(typeof ClickTale=='function') ClickTale(9686,0.0146,"www02");
-</script>
-<!-- ClickTale end of Bottom part -->
 
-
+<script type="text/javascript">
+// #Petition effect!
+if (jQuery("a[name=petition]").length > 0){
+location.href = "#petition";
+}
+</script>
 
 
 
