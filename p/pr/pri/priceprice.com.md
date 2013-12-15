@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceprice.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617050545id_/http%3A//ph.priceprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceprice.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215161045id_/http%3A//ph.priceprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Priceprice.com - Privacy Policy
 
@@ -33,7 +33,7 @@ Kakaku.com, Inc.
 * For any complaint or inquiry regarding personal information received by the Company, please use the following e-mail address or postal address. 
 
 Privacy Committee Office, Kakaku.com, Inc.  
-E-mail: [support@priceprice.com](mailto:support@priceprice.com)   
+E-mail: [support_ph@priceprice.com](mailto:support_ph@priceprice.com)   
 Postal Address: Ebisu i-Mark Gate (Daikanyama Digital Gate Building)  
 3-5-7 Ebisu Minami, Shibuya-ku, Tokyo 150-0022 Japan
 
@@ -44,7 +44,7 @@ The following matters are hereby announced publicly in accordance with the Act o
 
 1\. Business operator handling personal information (pursuant to item (i), paragraph (1), Article 24 of the Act)  
 Kakaku.com, Inc.  
-Contact: Privacy Committee Office E-mail: [support@priceprice.com](mailto:support@priceprice.com)
+Contact: Privacy Committee Office E-mail: [support_ph@priceprice.com](mailto:support_ph@priceprice.com)
 
 2\. Matters pertaining to the public announcement of the purpose of utilization of personal information (pursuant to paragraph (1), Article 18of the Act) and matters to be placed in an accessible condition for the person concerned with the retained personal data (pursuant to paragraph (1), Article 24 of the Act) 
 
@@ -87,7 +87,7 @@ Kakaku.com, Inc.Ebisu i-Mark Gate (Daikanyama Digital Gate Building),
 
 (2) Documents and forms to be submitted for filing Certain Requests  
 Please supply the documents specified in A and B below.  
-A. An application form for Certain Requests regarding personal information (please request the application form by an e-mail to [support@priceprice.com](mailto:support@priceprice.com))  
+A. An application form for Certain Requests regarding personal information (please request the application form by an e-mail to [support_ph@priceprice.com](mailto:support_ph@priceprice.com))  
 Print out the form and fill in the required information.  
 B. A document for personal identification (such as a photocopy of the applicant’s driving license, passport, student identification card and health insurance certificate) 
 
@@ -95,7 +95,7 @@ B. A document for personal identification (such as a photocopy of the applicant�
 When filing Certain Requests by proxy, please enclose the documents specified below in addition to those specified in A and B above. 
 
 (Filing with a letter of proxy)   
-i) A copy of the letter of proxy (please request the application form by an e-mail to [support@priceprice.com](mailto:support@priceprice.com))  
+i) A copy of the letter of proxy (please request the application form by an e-mail to [support_ph@priceprice.com](mailto:support_ph@priceprice.com))  
 This copy must bear the signature and registered seal of the person associated with the personal information.   
 ii) A copy of the certificate of seal registration  
 iii) A document for personal identification of the proxy (such as a photocopy of the proxy’s driving license, passport and health insurance certificate)
@@ -124,7 +124,7 @@ The Company might not meet Certain Requests in the following cases. In this even
 The Company’s contact for complaints  
 Privacy Committee Office  
 Kakaku.com, Inc.  
-E-mail: [support@priceprice.com](mailto:support@priceprice.com)   
+E-mail: [support_ph@priceprice.com](mailto:support_ph@priceprice.com)   
 Ebisu i-Mark Gate (Daikanyama Digital Gate Building)  
 3-5-7 Ebisu Minami, Shibuya-ku, Tokyo 150-0022 Japan
 
