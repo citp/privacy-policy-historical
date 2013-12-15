@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets4homes.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613091350id_/http%3A//www.pets4homes.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets4homes.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215020153id_/http%3A//www.pets4homes.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pets4Homes
 
