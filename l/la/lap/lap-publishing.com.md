@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508234548id_/https%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216003621id_/https%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
 
 # LAP Publishing | Imprint and Privacy Policy
 
@@ -6,7 +6,7 @@
 
 LAP LAMBERT Academic Publishing is a trademark of:
 
-AV Akademikerverlag GmbH & Co. KG  
+OmniScriptum GmbH & Co. KG  
 Heinrich-Böcking-Straße 6-8  
 66121 Saarbrücken  
 Germany
@@ -16,7 +16,7 @@ Fax: +49 681 9100-988
 
 Email: info[at]lap-publishing.com
 
-AV Akademikerverlag GmbH & Co. KG is responsible for content according to §5 TMG
+OmniScriptum GmbH & Co. KG is responsible for content according to §5 TMG
 
 Register court/number: Handelsregister Amtsgericht Saarbrücken HRA 10356  
 Identification Number (Verkehrsnummer): 13955  
@@ -28,23 +28,25 @@ Register court/number: Handelsregister Amtsgericht Saarbrücken HRB 18918
 
 Managing director/Geschäftsführer: Thorsten Ohm (CEO)
 
-Website created by: AV Akademikerverlag GmbH & Co. KG, Heinrich-Böcking-Straße 6-8  
+Dieses Impressum gilt auch für die Facebookseite <https://www.facebook.com/lappublishing>.
+
+Website created by: OmniScriptum GmbH & Co. KG, Heinrich-Böcking-Straße 6-8  
 66121 Saarbrücken, Germany
 
 ## Legal notice:
 
-All data and information accessible via the websites of AV Akademikerverlag GmbH & Co. KG are subject to constant monitoring. However, intermediate changes or errors cannot be excluded. Therefore, AV Akademikerverlag GmbH & Co. KG assumes no guarantee or liability for currentness, completeness or accuracy of the information provided. AV Akademikerverlag GmbH & Co. KG has no influence whatsoever on the current or future design or contents of third-party Internet pages which are directly or indirectly referred to (via so called “links”). Therefore, AV Akademikerverlag GmbH & Co. KG expressly dissociates from all contents of any linked pages. The sole liability for the information presented on any linked pages lies with the provider of the pages to which a link refers. AV Akademikerverlag GmbH & Co. KG cannot be held responsible for any of such contents.
+All data and information accessible via the websites of OmniScriptum GmbH & Co. KG are subject to constant monitoring. However, intermediate changes or errors cannot be excluded. Therefore, OmniScriptum GmbH & Co. KG assumes no guarantee or liability for currentness, completeness or accuracy of the information provided. OmniScriptum GmbH & Co. KG has no influence whatsoever on the current or future design or contents of third-party Internet pages which are directly or indirectly referred to (via so called “links”). Therefore, OmniScriptum GmbH & Co. KG expressly dissociates from all contents of any linked pages. The sole liability for the information presented on any linked pages lies with the provider of the pages to which a link refers. OmniScriptum GmbH & Co. KG cannot be held responsible for any of such contents.
 
 ## Privacy Policy:
 
-AV Akademikerverlag GmbH & Co. KG understands that the data protection laws must be adhered to. This is to inform you of the steps that we take to protect your rights. We consider personal details to be a) any information you provide in order to complete our forms, e.g. your e-mail address, any order and invoice details, as well as postal address and payment terms b) any data retrieved through authentication and tracking logs. By using our website, you agree to this personal information being collected and stored in our databases. We take reasonable precautions to protect the safety, integrity and privacy of your personal details. AV Akademikerverlag GmbH & Co. KG uses your data to provide you with the products and services that you order from us. Upon ordering any product or service with AV Akademikerverlag GmbH & Co. KG, you agree that AV Akademikerverlag GmbH & Co. KG may use your e-mail address in the aforementioned ways. Authentication and tracking logs are used to create user statistics. These details do not contain any retraceable personal information. AV Akademikerverlag GmbH & Co. KG reserves the right to have these logs and databases analysed by third-party service providers. Here, too, we will do everything to protect the safety, integrity and intimacy of your data.  
+OmniScriptum GmbH & Co. KG understands that the data protection laws must be adhered to. This is to inform you of the steps that we take to protect your rights. We consider personal details to be a) any information you provide in order to complete our forms, e.g. your e-mail address, any order and invoice details, as well as postal address and payment terms b) any data retrieved through authentication and tracking logs. By using our website, you agree to this personal information being collected and stored in our databases. We take reasonable precautions to protect the safety, integrity and privacy of your personal details. OmniScriptum GmbH & Co. KG uses your data to provide you with the products and services that you order from us. Upon ordering any product or service with OmniScriptum GmbH & Co. KG, you agree that OmniScriptum GmbH & Co. KG may use your e-mail address in the aforementioned ways. Authentication and tracking logs are used to create user statistics. These details do not contain any retraceable personal information. OmniScriptum GmbH & Co. KG reserves the right to have these logs and databases analysed by third-party service providers. Here, too, we will do everything to protect the safety, integrity and intimacy of your data.  
 Should you have any further questions regarding data security policy, please contact our data security officer.
 
-e-mail: datenschutz[at]akademikerverlag.de
+e-mail: datenschutz[at]omniscriptum.de
 
 ## Piwik Privacy Policy:
 
-AV Akademikerverlag GmbH & Co. KG uses on this website “Piwik”, an open source (GPL licensed) web analytics software that is available under http://piwik.org/ . Piwik uses " Cookies" i.e textfiles which will be saved on your computer making it possible for us to analyze the use of our website.
+OmniScriptum GmbH & Co. KG uses on this website “Piwik”, an open source (GPL licensed) web analytics software that is available under http://piwik.org/ . Piwik uses " Cookies" i.e textfiles which will be saved on your computer making it possible for us to analyze the use of our website.
 
 The information about your use of this website (including your IP address) is generated by the cookie and is transferred to our hosting service provider in Germany and stored for analysis. That means we use the collected information to evaluate the use of our website and to compile reports about it.
 
@@ -61,13 +63,3 @@ If you visit one of our websites, which contains such a plugin, your internet br
 By integrating the plugin, Facebook receives the information that a corresponding website of ours has been viewed. If you are logged into Facebook, Facebook can assign your visit to your account. If you interact with the plugins, for example you confirm the “Like” button or make a comment, the corresponding information from your browser is sent directly to Facebook and saved there as well.
 
 To find out the purpose and extent of the collection of data, the further processing and usage of your data by Facebook as well as your rights and possible settings in this regard to protect your privacy please consider the privacy statement of Facebook.
-
-## Revoking the Contract
-
-The contract can be revoked in written form (e.g. letter, fax or e-mail) within 14 days without giving explanation or – if the item has been delivered before deadline – by returning the item. The revocation term starts with receiving this instruction in written form, however not before the delivery of the item to the recipient (not before returning the same items and not before receiving the first part of the items) and not before the fulfillment of our mandatory obligations according to article 246, paragraph 2 in junction with paragraph 1, section 1 and 2 of the preamble of German Civil Code, as well as our obligations according to paragraph 312g, section 1, sentence 1 of the German Civil Code in junction with Article 246 paragraph 3 of the preamble of the German Civil Code. In order to retain the terms of revoking the contract, the contract’s revocation or the received item(s) must be sent or returned in due time. The revocation should be sent to:
-
-AV Akademikerverlag GmbH & Co. KG, Heinrich-Böcking-Straße 6-8, 66121 Saarbrücken, Germany, Fax: +49 681 9100-988, E-Mail: info[at]lap-publishing.com
-
-## Effects of revocation
-
-In the event of an effective revocation, the mutual services received must be returned and the potential benefits (e.g. interest) must be re-compensated. If you do not return the value of services (for example the prerogative of usage), return it only partially or return it in a worsened state, you must compensate the value of the item or the service. You must compensate the value of damaged articles, used services and gains only if the use and damages have occurred as a result of the usage of the item that exceeds the examination of the properties and functions. The “examination of the properties and functions” refers to the testing and evaluation of the respective item in person as it would be possible and common in a store. Items sent as packages are to be sent back at our own risk. You must pay the cost of returning the item if the item received is the same as the item ordered and if the price of the item to be returned does not exceed EUR 40 or if – in the case of a higher price – at the time the revocation is declared, you have not paid for the item or made a partial payment as agreed in the contract. Otherwise, the returning of the item is free of charge. If the article cannot be sent as a package, it will be collected from your location. If the item is damaged, it must be replaced or reimbursed within 30 days. Your deadline period begins when you send the revocation or return the item, and ours begins when we receive it.
