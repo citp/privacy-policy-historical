@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606130632id_/http%3A//www.consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215192909id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
 
 # Advocacy Privacy Policy | Consumers Union
 
@@ -200,7 +200,7 @@ If you have any questions or concerns about the ConsumersUnion.org Privacy Polic
 
 If you feel that we have not followed our Consumers Union Privacy Policy please let us know by sending an email to actions@cu.consumer.org or calling us at 512-477-4431. Additionally, you may contact your state or local consumer protection office, the Better Business Bureau, or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at www.ftc.gov.
 
-If you are a subscriber to Consumer Reports or any of our other publications, [click here](https://web.archive.org/web/20130606130632id_/http://consumersunion.org/about/advocacy-privacy-policy/If%20you%20are%20a%20subscriber%20to%20Consumer%20Reports%20or%20any%20of%20our%20other%20publications,%20click%20here%20%20http://www.consumerreports.org/cro/2012/10/privacy-policy-highlights/index-htm) to review the Consumer Reports privacy policy.
+If you are a subscriber to Consumer Reports or any of our other publications, [click here](https://web.archive.org/web/20131215192909id_/http%3A//consumersunion.org/about/If%20you%20are%20a%20subscriber%20to%20Consumer%20Reports%20or%20any%20of%20our%20other%20publications,%20click%20here%20%20http://www.consumerreports.org/cro/2012/10/privacy-policy-highlights/index-htm) to review the Consumer Reports privacy policy.
 
 ### CHANGES TO THIS PRIVACY POLICY
 
