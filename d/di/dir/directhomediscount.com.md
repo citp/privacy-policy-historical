@@ -1,51 +1,54 @@
-> *The following text is extracted and transformed from the directhomediscount.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613011511id_/http%3A//clubs.directbuy.com/content/privacy.htm%3Fiframe%3Dtrue%26width%3D100%25%26height%3D100%25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directhomediscount.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215200749id_/http%3A//clubs.directbuy.com/content/privacy.htm%3Fiframe%3Dtrue%26width%3D100%25%26height%3D100%25) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+DirectBuy is a member organization, and the privacy of our members and those who visit our web properties is important to us.  To help you better protect your privacy we provide this notice explaining our information practices. Please note that this Privacy Policy applies to information obtained through this Website only. Other services accessed through other DirectBuy websites – including others websites to which we provide links – operate under their own policies, and we encourage you to review the policies on these other sites as you visit them. They may and likely will collect data from you per their own Privacy Policy or other such policy, and DirectBuy does not control these.  Additionally, by posting such a link or reference or redirect, DirectBuy is providing a convenience to you.  These do not constitute an endorsement, sponsorship, or recommendation of any kind by DirectBuy of the site, the products, the services, or the policies of the site.
 
-We at DirectBuy ® understand that you value your privacy and we strive to respect that privacy when you are using our services. This Privacy Policy describes what information we gather from you, how we use that information and what we do to protect it. By using the DirectBuy ® website, you are expressly consenting to the information handling practices described in this policy.
+By using the Website on which this Policy is found, you consent to the collection, storage, use and disclosure of information as described in this Policy.
 
-**Information We Collect From You**
+## Information Collection
 
-Our websites' servers collect and retain technical information regarding visits to our website such as the IP address assigned to the computer visiting the site, the type of browser used by a visitor and the operating system running the user's connections to the service. This data is not linked to you. It is used in the aggregate to analyze the ways in which our site is used, and how we can improve the user experience, and may be shared, in the aggregate, with third parties such as advertisers.  Our websites' servers also collect the email address of users who request information on our company's services by entering their email addresses.
+When you visit this Website, we may request that you provide us with certain personally identifiable information, such as name, address, e-mail address, phone and fax number, and other information. If you are a DirectBuy member placing an order, we may request credit card or other payment information necessary to complete your order. In addition, we may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., AT&T, Yahoo).
 
-**Information Relating to Children**
+## Use of Personal Information
 
-You must be at least eighteen (18) years of age to use the DirectBuy ® Services. Any person who provides their information to DirectBuy ® represents to DirectBuy ® that they are 18 years of age or older. DirectBuy ® is in no way directed at children under 18 years of age. We will not knowingly collect personal information of children under 18 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it. 
+We use the personal information you provide about yourself to operate this Website, keep you posted on the benefits of your membership, to fulfill your requests for products, programs, and services (e.g., membership, merchandise, or information on our events), to communicate with you about DirectBuy, our offerings, events and promotions, to respond to your inquiries about our offerings; to prevent or respond to prohibited or illegal activities; to enforce the terms of use of this Website, this privacy policy, the Membership Agreement, or the Membership Guide; to customize, measure, and improve the performance of our Websites and advertising; and to compare information for accuracy and verify it with third parties. We also use this information to communicate with you, such as to contact you about your membership or account with us.
 
-**How We Use Your Information**
+We may also use personal information for internal functions such as research, data analysis, and auditing to develop DirectBuy’s products, services, and communications with members and non-members. This information may also be used if you enter into a contest, sweepstakes, or other similar promotion. We may use your personal information to administer these programs.  
 
-DirectBuy ® uses your personal information in the following general ways: To provide you with the DirectBuy ® services, to allow for your identification and authentication onto the DirectBuy ® website, to contact you for billing and administrative functions, and for internal research and reporting purposes. We also use the information provided by you in surveys for purposes of monitoring or improving the use and satisfaction of the DirectBuy ® service.
+We may supplement information we receive online with information from other sources to assist us in evaluating and improving our Website and online products, programs, and services, to determine your preferences so that we can tailor our Website, products, programs and services to you.
 
-We may also send you site and service announcement updates with important information about the service through the email address you provide. We may also notify you about special promotions available through trusted partners. You can opt-out of receiving these promotional emails, but not service related messages, at any time either through a link in emails we send you.
+## Use of Non-Personal Information
 
-**Cookies**
+We use the non-personal information that we collect to improve the performance, design and content of our Websites and to enable us to personalize your Website experience. We also may use this information in the aggregate to analyze usage of our Websites, as well as to offer you products, programs, or services.  The following are some examples of non-personal information that we collect and how we may use it:
 
-Cookies are pieces of information that your browser receives from Web sites and stores on your computer's hard drive. Information in cookies includes preferences you select while visiting a particular Web site. For example, by storing cookies on your hard drive, you'll return to a specific Web site with the same settings you used on a previous visit. We do require cookies in order to manage and individual visits the DirectBuy ® site. Certain cookies are also used to determine how you were referred to the DirectBuy ® site as well as your browsing and buying activities, in order that we can determine the success of any particular online marketing campaign. If you have cookies turned off, you may not be able to access the DirectBuy ® service. If you enter our pages from the site of one of DirectBuy ®'s partners, our system will recognize the path you have taken. DirectBuy ® advertises on such partners' sites or we've entered into a promotional partnership with them. We track the number of visitors that these partners send us to see the success of our online marketing or promotional campaign. These partners will not know your personal information, unless you have given it to them separately or consent to give it to them through us.
+  * We may collect information such as occupation, area code, zip code, and locale so that we can better increase our knowledge of member behavior and better our services, products, and advertising.
 
-**Disclosure of Personal Information to Third Parties**
+  * We may also collect information about activities on our website.  This information is aggregated and used to help us provide more useful information to website visitors and to understand which parts of our website, products, and services are of the most interest.  Aggregated data is considered non-personal information for the purposes of this Privacy Policy
 
-We do not sell, rent or share your personal information with non-affiliated third parties for direct marketing purposes or otherwise, without your consent. We do, however, share your information with trusted third party contractors who provide services for us. These third party contractors are prohibited from using the information we provide for purposes other than performing services for us.
 
-We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person and violations of DirectBuy ® terms of use.
 
-Finally, we may transfer information, including any personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change regarding our website.
 
-**Third Party Sites Appearing on the DirectBuy ® Site**
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
-The DirectBuy ® website contains links to and advertisements for sites operated by third parties whose policies regarding the handling of personal information may differ from ours. While we endeavor to associate only with reputable sites, DirectBuy ® cannot be responsible for the information handling practices of these other sites.
+If you provide us with an email address that is not listed in your member account information, we may permanently store that email address and associate it with your membership. 
 
-**Protecting your information**
+## Disclosures to Third Parties
 
-DirectBuy ® makes reasonable efforts safeguard your personal information. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and the site, and the site and you, will be free from unauthorized access by third parties. Your use of the site and disclosure of your personal information is at your own risk.
+Strategic partners, agents and contractors to whom we provide access to personally identifiable information are required to protect this information in a manner that is consistent with this Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for us.
 
-If DirectBuy ® learns of a security breach through which sensitive personal information may have been compromised, we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site.
+We may disclose personally identifiable information in response to a legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of your Membership Agreement or the Membership Guide, these policies and terms, or as otherwise permitted or required by law and consistent with legal requirements. We may share your personally identifiable information with strategic partners in order to provide you with services associated with your membership or your use of this website. In addition, we may transfer information about you to a third party if we are acquired by or merged with another company.  
 
-**Changes to this Privacy Policy**
+## Cookies and Other Technology
 
-This policy is effective as of January 1, 2007.  As we update and expand our services, we may make changes to this policy. If the changes result in materially less protection for your personal information than that provided in this policy, we will make reasonable efforts to contact you and obtain your consent to the changes before using information that we have previously collected.
+DirectBuy’s website, interactive applications, email messages, online services, and advertisements may use cookies and other technologies such as pixel tags and web beacons.  These technologies can help us better understand user activity, tell us which parts of our website people have visited, and enable us to measure the effectiveness of advertisements and web searches.  For additional information about the use of this technology please see the paragraphs below.   
 
-**Contact Information**
+Many of our web pages use "cookies” to enhance your experience with our Website and to assist us in providing appropriate website experiences for consumers, Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, providing this information on this Website. We use cookies on certain webpages to help analyze our webpage flow, customize the Website and advertising, measure promotional effectiveness, and promote trust and safety. We also use cookies to identify you and maintain your logged-in status.
 
-If you have any questions or suggestions regarding our Privacy Policy, please contact us at _[DirectBuy@ActiveEmailCompliance.com](mailto:DirectBuy@ActiveEmailCompliance.com)._
+We offer certain features that are available only through the use of cookies. You can decline cookies if your browser permits, although doing so may interfere with your use of some of the features on this Website.
+
+As is the common practice of most websites, we may gather some information automatically and store it in log files.  This information may include things like Internet Protocol (IP) addresses, browser type and language, computer device type, internet services provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.
+
+This information may be used to examine and identify trends, to manage the site, to learn about user activity on the site, and to gather demographic information about our Members or visitors.  DirectBuy may use this information to tailor our marketing and advertising services.
+
+Pixel tags may be used to allow us to send email messages in a format that users can read.  Pixel tags can tell us whether an email has been opened.  This information could potentially be used to increase, reduce, or eliminate messages sent to Members or prospects.
