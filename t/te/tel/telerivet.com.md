@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telerivet.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611092816id_/http%3A//telerivet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telerivet.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215035805id_/http%3A//telerivet.com/privacy) for the most accurate reproduction.*
 
 # Telerivet: Privacy Policy
 
@@ -6,7 +6,7 @@ _Updated: January 13, 2013_
 
 Welcome to Telerivet, the online and mobile service of Telerivet, Inc. ("Telerivet," "we," "us," or "our"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Service](http://telerivet.com/terms).
+Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Service](https://web.archive.org/terms).
 
 ### What is the purpose of this Privacy Policy?
 
