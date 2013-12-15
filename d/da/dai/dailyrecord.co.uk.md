@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyrecord.co.uk privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612153541id_/http%3A//www.dailyrecord.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrecord.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215055122id_/http%3A//www.dailyrecord.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Daily Record - Scotland's newspaper
 
