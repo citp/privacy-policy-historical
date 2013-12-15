@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyclechat.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502211431id_/http%3A//www.cyclechat.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclechat.net privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215130923id_/http%3A//www.cyclechat.net/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CycleChat Cycling Forums
+# Privacy Policy | CycleChat Cycling Forum
 
 CycleChat is owned and operated by Clickfinity Limited and ("we") are committed to protecting and respecting your privacy whilst using any of our websites, products and services and any information provided by you, by which you can be identified, will only be used in accordance with this privacy policy.
 
