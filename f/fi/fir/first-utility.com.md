@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the first-utility.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615043749id_/http%3A//www.first-utility.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first-utility.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215074302id_/http%3A//www.first-utility.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# privacy
 
 ###  Privacy policy
 
 First Utility Limited ("We" "Us" or "Our") takes your privacy seriously. This Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential.
 
-Please read this Privacy Policy carefully. Once you use this web site or our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy and the Web Site Terms and Conditions of use.  
-If you are a customer of first:utility, you have indicated through the registration process that you have read and accepted the service terms and conditions, detailed on this website and this Privacy Policy. You must not use Our Web Site or any services available via it if you do not accept this Privacy Policy, the Web Site and service Terms and Conditions.
+Please read this Privacy Policy carefully. Once you use this web site or our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy and the Web Site Terms and Conditions of use.
+
+If you are a customer of First Utility, you have indicated through the registration process that you have read and accepted the service terms and conditions, detailed on this website and this Privacy Policy. You must not use Our Web Site or any services available via it if you do not accept this Privacy Policy, the Web Site and service Terms and Conditions.
 
 **1\. Your details: What we hold and the purposes for which information is used**
 
@@ -55,7 +56,7 @@ We use this information for a number of purposes such as:
 
 5\. To update or maintain your account details or to communicate with you by letter, email or telephone
 
-6\. To let you know about our products, services or campaigns that we think may be of interest to you.  If you choose to partially complete your online application and select “Save For Later” we will send you an email providing information of how you can access your application.  Once you become a first: utility customer we will send you a confirmation & welcome email.  If you wish to unsubscribe from emails you can contact us at any time.
+6\. To let you know about our products, services or campaigns that we think may be of interest to you.  If you choose to partially complete your online application and select “Save For Later” we will send you an email providing information of how you can access your application.  Once you become a First Utility customer we will send you a confirmation & welcome email.  If you wish to unsubscribe from emails you can contact us at any time.
 
 7\. To disclose information about you and the services We provide you with to your new utility supplier should you wish to change your supply. 
 
@@ -69,7 +70,7 @@ We use this information for a number of purposes such as:
 
 **3.      ****How your smart meter data is used**
 
-If you sign up to our 'smart as standard' service you will receive a free meter upgrade. This means we will replace you gas and electricity meters with smart meters. Once these meters are up and running they will record your electricity usage every 30 minutes and your gas usage daily. These reads will be stored in your smart meters and sent to us daily via a mobile communication message.  These reads will be added your personal online account and you will have access to them 48 hours after they have been collected. The reads will be displayed in easy to read graphs and can be viewed daily, weekly, monthly or yearly.  You will also have the opportunity to download the data in a CSV file format. Only you have access to this information which is accessed using a unique username and password that you will be asked to set up once you have registered for gas and electricity with us. Your meter data will also be used by us to calculate how much gas and electricity you have used. This information will be used in your monthly bill and may be shared anonymously with third parties in order to improve first utility's products and services.
+If you sign up to our 'smart as standard' service you will receive a free meter upgrade. This means we will replace you gas and electricity meters with smart meters. Once these meters are up and running they will record your electricity usage every 30 minutes and your gas usage daily. These reads will be stored in your smart meters and sent to us daily via a mobile communication message.  These reads will be added your personal online account and you will have access to them 48 hours after they have been collected. The reads will be displayed in easy to read graphs and can be viewed daily, weekly, monthly or yearly.  You will also have the opportunity to download the data in a CSV file format. Only you have access to this information which is accessed using a unique username and password that you will be asked to set up once you have registered for gas and electricity with us. Your meter data will also be used by us to calculate how much gas and electricity you have used. This information will be used in your monthly bill and may be shared anonymously with third parties in order to improve First Utility's products and services.
 
 If you decide to switch to another supplier we will use the smart meter reads to provide a closing read to your new supplier. This is to ensure you are only charged for the gas and electricity you have used while you are still on supply with us.
 
@@ -91,13 +92,13 @@ Information transmitted from our IHDs is sent either using private networks or i
 
 Cookies are small text files that are placed on your computer by websites that you visit or emails that you open. They are used extensively in order to make websites work, or work more efficiently as well as provide marketing information to owners of the website.
 
-By using this website and /or using services provided via it you agree to the use of cookies, either via the first:utility website, email or SMS communications.
+By using this website and /or using services provided via it you agree to the use of cookies, either via the First Utility website, email or SMS communications.
 
-The following cookies maybe used on your visit to the first:utility website  including the online customer account area .
+The following cookies maybe used on your visit to the First Utility website  including the online customer account area .
 
 a)    Persistent cookies, for example are used to avoid the need for you to tell us your account details at each visit.
 
-b)    Email cookies which are set on your computer by an email from first:utility.
+b)    Email cookies which are set on your computer by an email from First Utility.
 
 c)    Third party cookies that are used by our sales partners, affiliate network or our online advertising supplier.
 
@@ -111,7 +112,7 @@ Our web site may contain links to other websites which are outside our control a
 
 8\. **Overseas Data Transfers**
 
-first utility partners with various trusted organisations to provide its services which are located outside or which use suppliers which are located outside of the European Economic Area ("EEA").   The data that we collect from you may therefore be transferred to, and stored at, a destination outside the EEA (for example in the US and in China).
+First Utility partners with various trusted organisations to provide its services which are located outside or which use suppliers which are located outside of the European Economic Area ("EEA").   The data that we collect from you may therefore be transferred to, and stored at, a destination outside the EEA (for example in the US and in China).
 
 These third parties may be engaged in, amongst other things, providing services such as analytical research services and direct marketing. 
 
