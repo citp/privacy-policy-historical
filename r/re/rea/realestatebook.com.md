@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realestatebook.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306195828id_/http%3A//www.realestatebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestatebook.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215184921id_/http%3A//www.realestatebook.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | RealEstateBook.com
 
 ## Privacy Policy
 
-Network Communications, Inc. is committed to safeguarding your privacy online whenever you use any of our Websites, including (but not limited to) RealEstateBook.com. We encourage you to review the following Privacy Policy so that you may understand how your personal information will be treated as you make full use of our many offerings.
+NewPoint Media Group, LLC is committed to safeguarding your privacy online whenever you use any of our Websites, including (but not limited to) RealEstateBook.com. We encourage you to review the following Privacy Policy so that you may understand how your personal information will be treated as you make full use of our many offerings.
 
 ### What personally identifiable information about me do you collect?
 
@@ -102,6 +102,6 @@ We encourage parents to create a safe place for children on the Internet. Parent
 
 ### Where can you get additional information about us or our Websites?
 
-Our Websites are owned and operated by Network Communications, Inc., 2305 Newpoint Parkway, Lawrenceville, GA 30043. For further information about our company, please visit our company's Website.
+Our Websites are owned and operated by NewPoint Media Group, LLC, 2305 Newpoint Parkway, Lawrenceville, GA 30043. For further information about our company, please visit our company's Website.
 
 Additionally, if you have any questions about this Privacy Policy, please contact [webmaster@realestatebook.com](mailto:webmaster@realestatebook.com)
