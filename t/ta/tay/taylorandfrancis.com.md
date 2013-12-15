@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616183718id_/http%3A//www.taylorandfrancis.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215174713id_/http%3A//www.taylorandfrancis.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Taylor & Francis
 
