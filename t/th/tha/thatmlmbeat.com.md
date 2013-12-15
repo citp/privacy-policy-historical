@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thatmlmbeat.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617054253id_/http%3A//thatmlmbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatmlmbeat.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215161012id_/http%3A//thatmlmbeat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | thatMLMbeat
+# Privacy Policy
 
 **PRIVACY POLICY**
 
-Last Updated: August 3, 2009
+Last Updated: June 17, 2013
 
 http://thatMLMbeat.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
 
@@ -29,6 +29,12 @@ http://thatMLMbeat.com expects its partners, advertisers and affiliates to respe
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. http://thatMLMbeat.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
 You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of http://thatMLMbeat.com and this policy.
+
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
 
 **Children**
 
