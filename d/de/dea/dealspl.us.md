@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealspl.us privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621040447id_/http%3A//dealspl.us/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealspl.us privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215213756id_/http%3A//dealspl.us/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Dealsplus
+# Privacy Policy - dealspl.us
 
 Here at dealsplus we recognize that your privacy is very important, and to keep you informed about our privacy practices we ask that you please read the guidelines described below. Keep in mind that because dealsplus is a growing website and internet technologies are constantly evolving, these guidelines are subject to change and any said changes will be posted on this page. Any material changes from current practices will be posted on the main page of this website to serve as notice. dealsplus is not responsible for the content or the privacy policies of websites to which it may link.
 
