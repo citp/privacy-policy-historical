@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucanews.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216214618id_/http%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucanews.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215012504id_/http%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ucanews.com
+# UCA News Privacy Policy
 
 **Contents**
 
@@ -30,11 +30,12 @@
 
 The protection of private and confidential information is fundamental to UCAN trading as UCAN or its associated websites:
 
-[www.cathnewschina.com](http://www.cathnewschina.com/)  
-[www.cathnewsindia.com](http://www.cathnewsindia.com/)  
-[www.cathnewsindonesia.com](http://www.cathnewsindonesia.com/)  
-[www.cathnewskorea.com](http://www.cathnewskorea.com/)  
-[www.cathnewsphil.com](http://www.cathnewsphil.com/)
+[UCAN China](http://china.ucanews.com/)  
+[UCAN India](http://www.ucanindia.in/)  
+[UCAN Indonesia](http://indonesia.ucanews.com/)  
+[UCAN Korea](http://korea.ucanews.com/)  
+[UCAN Philippines](http://philippines.ucanews.com/)  
+[UCAN Vietnam](http://vietnam.ucanews.com/)
 
 UCAN is committed to safeguarding personal information it holds on behalf of its viewers and is committed to do so in accordance with international best practice.
 
