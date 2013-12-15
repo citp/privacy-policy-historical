@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515022640id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215151327id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
 
 # 38 Degrees | Privacy policy
 
@@ -80,10 +80,15 @@ Please let us know if the personal information which we hold about you needs to 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email emaitheteam@38degrees.org.uk or by post to:
 
 _The Data Protection Manager  
-38 Degrees  
-8 Angel Gate  
-City Road  
-London EC1V 2SJ _
+_
+
+_38 Degrees_
+
+_Room 126_
+
+40 Bowling Green Lane
+
+_London EC1R 0NE_
 
 All our website financial transactions are handled through our payment  
 services provider, Paypal. You should only provide your personal  
