@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbponline.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524083545id_/http%3A//wbponline.com/Static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbponline.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215091240id_/http%3A//wbponline.com/Static/PrivacyPolicy) for the most accurate reproduction.*
 
 # WBP Online - PrivacyPolicy
 
