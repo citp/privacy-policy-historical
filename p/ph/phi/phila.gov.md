@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616014855id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phila.gov privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215142749id_/http%3A//www.phila.gov/privacy/index.html) for the most accurate reproduction.*
 
 # PHILA.GOV | Welcome to the City of Philadelphia
 
-[**Notice of Privacy Practices**](https://web.archive.org/web/20130616014855id_/http%3A//www.phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
-
-[**HIPAA Privacy Statement**](https://web.archive.org/web/20130616014855id_/http%3A//www.phila.gov/pdfs/HIPAA_Privacy_Statement.pdf) Click to download or print this document in an Adobe Portable Document Format (PDF) file.
+[**City of Philadelphia eGovernment Privacy statement**](https://web.archive.org/web/20131215142749id_/http%3A//www.phila.gov/pdfs/Phila.gov_Privacy_Statement.pdf)Click to download or print this document in an Adobe Portable Document Format (PDF) file.
 
 **City of Philadelphia  
 eGovernment and Health Information Privacy Statement**
@@ -26,3 +24,18 @@ The City of Philadelphia does collect general Internet based information for sta
 
 **Security  
 **The City of Philadelphia is committed to data security and the data quality of personally identifiable information that is either available from or collected by our Website and has taken reasonable precautions to protect such information from loss, misuse, or alteration. When any online bill-pay application on the Website accepts credit cards or other particularly sensitive information for its online bill-pay services, it encrypts all ordering information, such as your name and credit card number, in order to protect its confidentiality, and will not retain your information longer than is necessary to complete the transaction. Unless a particular web page on the City's Website indicates that encryption technology is being used, the user should not assume that information uploaded through that web page to the City's web server will be treated as confidential. If a user submits information to the City's server through a web page containing visible indicators of active encryption technology, the City will take all reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence, or any other act resulting in disclosure. 
+
+## HIPAA
+
+Notice of Privacy Practices
+
+  
+
+
+  * [ Ambulatory Health Services (AHS)](http://www.phila.gov/health/pdfs/AHSNPPFinalFinal091713.pdf)
+  * [ Behavioral Health and Intellectual disAbility Services (DBHIDS)](http://dbhids.org/assets/Forms--Documents/OBHIDSNPP.pdf?v=091113)
+  * [ Emergency Medical Services (EMS)](http://www.phila.gov/FIRE//pdfs/notice_privacypractices.pdf)
+  * [ Public Health Laboratory](http://www.phila.gov/health/pdfs/LaboratoryNPP091713.pdf)  
+
+
+
