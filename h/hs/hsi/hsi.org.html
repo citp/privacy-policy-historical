@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2013-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614012008id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsi.org privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215010824id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3314:0';
-CONVIO.pageSessionID = 'hvjag5hur8.app341b';
-CONVIO.pageSessionName = 'JServSessionIdr004';
+CONVIO.pageSessionID = 'FA0DFD20479306DDE1AA65A6285FDB50.app338b';
+CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1371172807642"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1387069704114"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -70,6 +70,9 @@ deleteCookie("CONVIO.referrer");
 	<script src="http://www.hsi.org/assets/js/jquery.js" type="text/javascript"></script>
 	<script src="http://www.hsi.org/assets/js/jquery-cycle.js" type="text/javascript"></script>
 	<script src="http://www.hsi.org/assets/js/global.js" type="text/javascript"></script>
+        <!--CMK06282013: Adding Lunametrics analytics code-->
+        <script src="http://www.hsi.org/assets/js/lunametrics/xdomain.js"></script>
+        <script src="http://www.hsi.org/assets/js/lunametrics/lunametrics-youtube_v2.js"></script>
 	<!--[if lte IE 6]>
 		<script src="http://www.hsi.org/assets/js/pngfix.js" type="text/javascript"></script>
 		<link rel="stylesheet" type="text/css" href="http://www.hsi.org/assets/css/ie6.css" />
@@ -121,7 +124,6 @@ function openDir( form ) {
 } 
 </script>  
 
-
  
 
 <link rel="image_src" href="http://www.hsi.org/assets/images/global/hsi-logo.png">
@@ -130,13 +132,43 @@ function openDir( form ) {
 
 <!-- end header assets js css -->
 
-<!-- GOOGLE ANALYTICS -->
+<!--Include Google Analytics-->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Standard dependencies for embedded COM content -->
+<link rel="stylesheet" type="text/css" href="http://action.humanesociety.org/css/FunctionalStyles.css">
+<script type="text/javascript" src="http://action.humanesociety.org/yui3/yui/yui-min.js"></script>
+<script type="text/javascript" src="http://action.humanesociety.org/js/utils.js"></script>
+<script type="text/javascript" src="http://action.humanesociety.org/js/convio/modules.js"></script>
+<script type="text/javascript">
+var Y;
+if (!Y) {
+  Y = YUI({
+    base: 'http://action.humanesociety.org/yui3/',
+    debug: false,
+    modules: getModules('http://action.humanesociety.org/','convio',false)
+  });
+}
+</script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-21170263-1']);
   _gaq.push(['_setDomainName', 'hsi.org']);
+  _gaq.push(['_addIgnoredRef', 'hsi.org']);
   _gaq.push(['_setReferrerOverride', CONVIO.referrer]);
+  _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -147,6 +179,10 @@ function openDir( form ) {
 
 </script>
 
+
+
+
+<!--End Google Analytics-->
 
 <style>
 #page-head #country-name {border-top:none}
@@ -383,20 +419,21 @@ function openDir( form ) {
   
 
  <option value="#">HSI OFFICES/AFFILIATES</option>
-         <option value="http://www.hsi.org.au/">HSI Australia</option>
-          <option value="/world/canada/">HSI Canada</option>
-          <option value="/world/europe/">HSI Europe</option>
- <option value="http://www.hsi.org">HSI Global</option>
+         <option value="http://www.hsi.org.au/">HSI/Australia</option>
+          <option value="/world/canada/">HSI/Canada</option>
+           <option value="http://www.hsi.org">HSI/Global</option>
 
-          <option value="/world/india/">HSI India</option>
-          <option value="/world/latin_america/">HSI Latin America</option>
-          <option value="/world/united_kingdom/">HSI United Kingdom</option>
-          <option value="http://www.humanesociety.org/" target="_blank">Humane Society of the US</option>
+          <option value="/world/india/">HSI/India</option>
+          <option value="/world/latin_america/">HSI/Latin America</option>
+          <option value="/world/united_kingdom/">HSI/United Kingdom</option>
+          <option value="http://www.humanesociety.org/" target="_blank">Humane Society of the U.S.</option>
 <option value="#"> </option>
 <option value="#">MAJOR PROGRAMS</option>
            <option value="/world/bhutan/">Bhutan</option>
            <option value="/world/brazil/">Brazil</option>
            <option value="/world/china/">China</option>
+<option value="/world/europe/">Europe</option>
+
            <option value="/world/haiti/">Haiti</option>
            <option value="/world/mexico/">Mexico</option>
 
@@ -420,13 +457,11 @@ http://www.hsi.org/includes/header-global.html
 
 -->
 
-<!-- 6/28/11 adding donate link for country -->
-<div id="top_donate"><a href="http://action.humanesociety.org/site/Donation2?df_id=6520&amp;6520.donation=form1&amp;s_src=onetimeweb&amp;s_subsrc=homepage_toplink">Donate</a></div>
+<!-- 6/28/11 adding donate link for country   TY: modified 09/23/13-->
 
 
 
-
-
+<div id="top_donate"><a href="https://hsi.netdonor.net/ea-action/action?ea.client.id=104&amp;ea.campaign.id=17381&amp;ea.tracking.id=website">Donate</a></div>
 
 
 </div>
@@ -632,18 +667,32 @@ Humane Society International
 
   
 </p>
+<style><!--
+p.date {
+    color: #99938F;
+    display: none;
+    font-size: 11px;
+    font-weight: bold;
+    margin-bottom: 3px;
+   display: none;
+}
+--></style>
 <p>Humane Society International (HSI) is committed to your right to privacy and to keeping your personal information private. You can visit the Humane Society International web site without telling us who you are or revealing any identifying information about yourself. However, because our web site includes areas in which visitors can provide personally identifying information, we have developed this Privacy Policy to inform you of our policies and practices regarding information we collect about you.</p>
 <p>This Privacy Policy governs the URL <a href="http://www.hsi.org/">http://www.hsi.org</a> and certain electronic communications sent out by HSI. This web site is owned and operated by Humane Society International for the benefit of its members and other visitors interested in the protection of all animals. Our headquarters is located at 2100 L Street, NW, Washington, DC 20037 USA. HSI reserves the right to modify or amend this Privacy Policy at any time and for any reason. Any changes to this Privacy Policy will be preceded by a notice posted to this Privacy Policy at least ten (10) days prior to the effective date of such change.</p>
-<h2>How We Collect Information About You</h2>
-<p>Information You Voluntarily Provide. HSI collects and maintains certain personal information about you when you send us an e-mail or complete any of our online forms, such as when you request information from us, make a donation, subscribe to one of our online newsletters, request to become a member, or forward a web page, electronic postcard, electronic ballot, or electronic newsletter. Such information may include your name, mailing address, and e-mail address; it may also include the e-mail addresses of those to whom you forward HSI electronic content, and any other information collected in the forms. You may be asked to provide credit card information to become a member of HSI, contribute to HSI, purchase certain information or materials from HSI, or subscribe to various HSI publications.</p>
-<p>Other Information. HSI.org also collects certain other information that cannot identify you personally when you visit our web site. This information includes your IP address and your domain name. HSI.org logs these IP addresses and domain names, and aggregates them for system administration and to monitor the use of our site. We use the aggregated information to measure the number of visits to our site, the average time spent on our site, the number of pages viewed, and various other site statistics. This monitoring helps us to provide a more useful and engaging online experience to HSI.org visitors, and helps us to improve the quality of our content.</p>
+<h2>How we collect information about you</h2>
+<p></p>
+<p><strong>Information you voluntarily provide<br></strong>HSI collects and maintains certain personal information about you when you send us an e-mail or complete any of our online forms, such as when you request information from us, make a donation, subscribe to one of our online newsletters, request to become a member, or forward a web page, electronic postcard, electronic ballot, or electronic newsletter. Such information may include your name, mailing address, and e-mail address; it may also include the e-mail addresses of those to whom you forward HSI electronic content, and any other information collected in the forms. You may be asked to provide credit card information to become a member of HSI, contribute to HSI, purchase certain information or materials from HSI, or subscribe to various HSI publications.</p>
+<p><strong>Other information<br></strong>Hsi.org also collects certain other information that cannot identify you personally when you visit our web site. This information includes your IP address and your domain name. HSI.org logs these IP addresses and domain names, and aggregates them for system administration and to monitor the use of our site. We use the aggregated information to measure the number of visits to our site, the average time spent on our site, the number of pages viewed, and various other site statistics. This monitoring helps us to provide a more useful and engaging online experience to HSI.org visitors, and helps us to improve the quality of our content.</p>
 <p>HSI uses cookies in order to make the results available for your on-site searches. Cookies are not used for any other reason on this site. A cookie is a small file that is sent out by a web site, accepted by the user's browser, and placed on the user's hard drive. You can always set your browser to warn of cookies being placed, and then chose which cookies you want to accept. HSI does not match any information gathered by cookies with personal information you may have voluntarily submitted to HSI.</p>
-<h2>Ways Information About You Is Used</h2>
+<p>HSI uses remarketing with Google Adwords and Analytics to display content-specific advertisements to visitors&nbsp;who have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.</p>
+<p>HSI and other third-party vendors, including Google, use first-party and third-party cookies together to inform and serve ads based on a visitor’s past visits to our website.</p>
+<p>You may opt out of Google's use of cookies by visiting Google's <a href="http://www.google.com/settings/ads" target="_blank">Ads Settings</a> at any time. Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative <a href="http://www.networkadvertising.org/choices/" target="_blank">opt-out page</a>.</p>
+<h2>Ways information about you is used</h2>
 <p>We may use the information you voluntarily provided to contact you regarding animal-related issues we feel you may be interested in, to keep you updated regarding HSI's programs, and to extend an invitation to you to support our programs. We may also send such information to the people whose e-mail addresses you provide when forwarding HSI electronic content. When we do so, our sole intent is to enlarge our family of informed animal advocates and organizational supporters. Every recipient of our electronic communications can quickly and easily "opt out" of future such communications by following the instructions on any electronic communication we send.</p>
 <p>From time to time, we may make such voluntary information, excluding credit card information (which will never be disclosed), available to HSI affiliate organizations or to sponsors or licensees that provide special programs or services we think you might find interesting or beneficial. HSI uses very strict standards in determining which reputable companies become sponsors and licensees, to ensure that such organizations are committed to the protection of visitors' privacy and committed to the goals of HSI. If your volunteered personal information will be used in any manner other than as stated above, such use shall be specifically posted. If you wish to update or remove your information, or if you do not wish your information to be shared with affiliated third parties, please e-mail us at <a href="mailto:info@hsi.org">info@hsi.org</a>. You may also unsubscribe at any time in every issue of our newsletters.</p>
-<p>Other. From time to time, HSI may link to other web sites not affiliated with HSI. HSI attempts to link only to those web sites which also respect a visitor's privacy and the goals of HSI. However, HSI cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that HSI currently links to, please inform HSI by contacting us at <a href="mailto:info@hsus.org">info@hsus.org</a>. For more information regarding linking to HSI's web sites, please read "Linking to HSI.org" on our web site.</p>
-<p>Security. HSI uses generally accepted, industry-standard security systems, software, and encryption technologies to protect against unauthorized access to HSI servers, equipment, and other components of our online presence. This includes using industry-standard security systems to protect credit card processing information.</p>
-<p>Contacting HSI. If you would like to contact HSI about correcting information we might have collected, or if you have any questions about this Privacy Policy, please e-mail us at <a href="mailto:info@hsi.org">info@hsi.org</a> or write to us at Webmaster, HSI, 2100 L Street, NW, Washington, DC 20037 USA.</p>
+<p><strong>Other<br></strong>From time to time, HSI may link to other web sites not affiliated with HSI. HSI attempts to link only to those web sites which also respect a visitor's privacy and the goals of HSI. However, HSI cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that HSI currently links to, please inform HSI by contacting us at <a href="mailto:info@hsus.org">info@hsus.org</a>. For more information regarding linking to HSI's web sites, please read "Linking to HSI.org" on our web site.</p>
+<p><strong>Security<br></strong>HSI uses generally accepted, industry-standard security systems, software, and encryption technologies to protect against unauthorized access to HSI servers, equipment, and other components of our online presence. This includes using industry-standard security systems to protect credit card processing information.</p>
+<p><strong>Contacting HSI<br></strong>If you would like to contact HSI about correcting information we might have collected, or if you have any questions about this Privacy Policy, please e-mail us at <a href="mailto:info@hsi.org">info@hsi.org</a> or write to us at Webmaster, HSI, 2100 L Street, NW, Washington, DC 20037 USA.</p>
 <p>&nbsp;</p>  
 </div>
 </div>
@@ -655,7 +704,7 @@ Humane Society International
 
 <ul id="action">
 
-	<li id="donate"><a href="https://secure.humanesociety.org/site/Donation2?df_id=6520&amp;6520.donation=form1&amp;s_src=onetimeweb&amp;s_subsrc=right">Donate</a></li>
+	<li id="donate"><a href="http://hsi.org/donation/">Donate</a></li>
 
 
 
@@ -824,7 +873,7 @@ CONVIO.user.isAnonymous = true;
 
          <div style="height: 60px;">&nbsp;</div>
 	<div id="foot">	
-<div id="item-430289554" style="display: inline;">
+<div id="item-251330195" style="display: inline;">
 
 
 
@@ -837,14 +886,16 @@ CONVIO.user.isAnonymous = true;
 <li><a href="http://www.hsi.org/" class="raquo">© 2013 Humane Society International</a></li>
 <li><a href="http://www.hsi.org/privacy_policy.html" class="raquo">Privacy Policy</a> 
 </li><li><a href="http://www.hsi.org/sitemap.html" class="raquo">Site Map</a> 
-</li><li><a href="http://www.hsi.org/forms/contact.html" class="raquo">Contact Us</a>
 </li><li><a href="http://www.hsi.org/news/media_contacts/" class="raquo">Media Contacts</a>
 
 </li><li><a class="raquo" id="foot_rss" href="http://www.hsi.org/system/rss/channel.jsp?feedID=249759104">Subscribe</a></li> 
 <li><a class="raquo" id="foot_twitter" href="http://www.twitter.com/hsiglobal">Twitter</a> 
 </li><li><a class="raquo" id="foot_facebook" href="http://www.facebook.com/hsiglobal">Facebook</a> </li></ul>
 <br>
-<ul><li>Contributions to Humane Society International are tax-deductible to the extent permitted by law in your country. HSI's tax identification number is 52-1769464.</li></ul>
+<ul>
+<li>For information, questions or to donate: From North America, call 866-614-4371. From elsewhere, please email <a style="text-decoration:underline" href="mailto:info@hsi.org">info@hsi.org</a>.</li>
+<li style="padding-top:5px;">Contributions to Humane Society International are tax-deductible to the extent permitted by law in your country. HSI's tax identification number is 52-1769464.</li>
+</ul>
 
 
 </div>
@@ -854,10 +905,114 @@ CONVIO.user.isAnonymous = true;
 
 </div>  
 
+<div id="item-481850598" style="display: inline;">
 
 
 
-<!-- Powered by Convio -->
-<!-- 10.12.0.42:8901 -->
+
+
+  
+
+ 
+<!-- begin HSI donation splashbox -->
+
+<!-- Combo-handled YUI CSS files: --> 
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?&#10;&#10;2.6.0/build/container/assets/skins/sam/container.css"> 
+<!-- Combo-handled YUI JS files: --> 
+<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.6.0/build/yahoo-dom-event/yahoo-dom-event.js&amp;2.6.0/build/container/container-min.js&amp;2.6.0/build/cookie/cookie-min.js"></script> 
+ 
+<style type="text/css"> 
+
+
+/* Background image goes here */ 
+.splash {position:relative; background-image:url("http://www.hsi.org/assets/images/windowshade/humane_gifts_2013.png");background-repeat:no-repeat; width: 735px;height:498px;}
+.splash-close-text {position:absolute; top:0px; left:710px; }
+.splash-form-submit {position:absolute; top:225px; left:60px; }
+
+
+
+#splashbox {color: white !Important;border: 2px #999;border: 3px black;*}
+#splashbox_c {z-index:1000;}
+.splash img {border:0;}
+.splash-form-radio-35 {position:absolute; top:386px; left:565px; font: bold 16px Arial;color: white !Important;}
+.splash-continue-text {position:absolute; top:0px; left:12px; }
+.mask {-moz-opacity: 0.8; opacity:.80;filter: alpha(opacity=80);background-color:#2f2f2f;}
+
+</style> 
+ 
+<div id="splashbox" class="splash"> 
+  <div class="splash-close-text"> 
+    <a href="#" onclick="NoThankYou();return false;"><img src="http://www.hsi.org/assets/images/windowshade/close.png" border="0" alt="close"></a> 
+  </div> 
+  
+<!-- Link image goes here-->
+<div class="splash-form-submit"><a href="https://secure.humanesociety.org/site/SPageServer?pagename=HSI_Humane_Gifts_Holidays_USD_Select&amp;s_src=windowshade"><img src="http://www.hsi.org/assets/images/windowshade/button_explore_green.png" alt="shop now"></a>
+</div>
+
+
+</div> 
+ 
+<script type="text/javascript"> 
+
+//Added by CMK11102012, for use in disabling windowshade via URL param
+function getParameterByName(name) {
+  name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+  var regexS = "[\\?&]" + name + "=([^&#]*)";
+  var regex = new RegExp(regexS);
+  var results = regex.exec(window.location.search);
+  if(results == null)
+    return "";
+  else
+    return decodeURIComponent(results[1].replace(/\+/g, " "));
+}  
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+}
+ 
+function NoThankYou(){
+  HideDialog();
+}
+ 
+ 
+function HideDialog(){
+  setCookie("humane_gift_2013_splash_hsi","true",2);
+ 
+  dialog.hide();
+}
+ 
+//CMK11102012: Added second test to conditional, checking query string for "ws=hide".
+//If that param and value are found, don't show the windowshade
+if (document.cookie.indexOf("humane_gift_2013_splash_hsi") == -1 && getParameterByName('ws') != 'hide') {
+
+  var dialog;
+  YAHOO.util.Event.addListener(window, "load", function() {
+    dialog = new YAHOO.widget.Dialog("splashbox", {
+      fixedcenter: true,
+      visible: false,
+      modal: true,
+      close: false,
+      constraintoviewport: true
+    });
+    dialog.render(document.body);
+    dialog.show();
+  });
+} else {
+  document.getElementById("splashbox").style.display = "none";
+
+}
+</script> 
+
+<!-- **END SPLASHBOX** -->
+
+</div>
+
+
+
+
+
+<!-- 10.12.0.40:8901 -->
 
 </div></body></html>
