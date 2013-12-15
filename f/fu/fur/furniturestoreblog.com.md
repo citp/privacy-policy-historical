@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the furniturestoreblog.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530010540id_/http%3A//www.furniturefashion.com/2007/03/06/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturestoreblog.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215163915id_/http%3A//www.furniturefashion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for this Website
+# Privacy Policy - Furniture Fashion
 
-At FurnitureFashion.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit FurnitureFashion.com, and how we safeguard your information. We never sell your personal information to third parties.
+[](http://www.furniturefashion.com/)
+
+At FurnitureFashion.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit FurnitureFashion.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 **Log Files**
 
@@ -18,11 +20,11 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
   1. Google, as a third party vendor, uses cookies to serve ads on this site.
   2. Google’s use of the DART cookie enables it to serve ads to users based on their visit to your sites and other sites on the Internet.
-  3. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  3. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://valueclickmedia.com/member_privacy.shtml](http://www.valueclickmedia.com/legal/privacy/display-member "ValueClick Media privacy policy.")
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://valueclickmedia.com/member_privacy.shtml](http://www.valueclickmedia.com/legal/privacy/display-member "ValueClick Media privacy policy.")
 
 **Notice Regarding Online Behavioral Advertising.**
 
