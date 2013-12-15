@@ -1,34 +1,61 @@
-> *The following text is extracted and transformed from the sourceradio.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040451id_/http%3A//www.sourceradio.com/modules.php%3Fname%3DDocs%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceradio.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215124651id_/http%3A//www.themovievault.net/legal/privacy-policy) for the most accurate reproduction.*
 
-# SourceRadio - E-Sports News, Frag Videos, Downloads & More!
+# Privacy Policy
 
-We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at **SourceRadio**. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
+A privacy policy is a legal document that discloses some or all of the ways a party gathers, uses, discloses and manages a customer's data. The exact contents of a privacy policy will depend upon the applicable law and may need to address the requirements of multiple countries or jurisdictions.
 
- ** _Information Collection_**  
- **SourceRadio** is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
+##### What information do we collect?
 
- ** _Cookies_**  
-A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Advertisers connected to **SourceRadio** at times require cookies to tract statistics about products and locations, but at no time are these linked to any personal identification. At this time, **SourceRadio** uses cookies only for login convenience.
+We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
 
- ** _Log Files_**  
- **SourceRadio** keeps log files on broad fields to analyze trends, track user movements, and gather data for demographic locations. This is not attached in anyway to visitor's personal identification.
+When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
- ** _Sharing_**  
-At this time, **SourceRadio** does not share any information with advertisers, merchants, or any other third party.
+##### What do we use your information for?
 
- ** _Links_**  
-Links to other sites outside of **SourceRadio** do not apply to this privacy statement. We are not responsible for privacy policies of other websites linked to **SourceRadio**. Please read the privacy statement of each website linked to **SourceRadio** for information and data use for visitor's personal identification. Our privacy statement applies solely to **SourceRadio**.
+Any of the information we collect from you may be used in one of the following ways:
 
- ** _Contests_**  
-At any particular time, **SourceRadio** will conduct contests for our visitor's. Visitor participation for these contests is voluntary, and in no way requires the visitor to give out personal information when choosing not to enter in the contest. Collected information may include contact information and demographic information, such as name, e-mail, address, state, ect. This information will be used to notify the winners and award prizes.
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
 
- ** _Newsletter_**  
-After registering for a Membership, you are given the choice of subscribing to our Newsletter. You can either elect to subscribe or unsubscribe at any time. All information stored on our database is not shared or sold to any third party what so ever. Subscribers wishing to unsubscribe to our newsletter can uncheck the option in their account, using the 'Your Information' link.
 
- ** _Sending to a Friend_**  
-When a visitor chooses to send News, Articles, Reviews, ect, to a friend, the names and e-mail addresses are **not** logged. **SourceRadio** will send the friend a one-time e-mail inviting them to visit our site. **SourceRadio** will never send another e-mail to the visitor or friend for any purpose.
 
- ** _Changes of our Policy_**  
-If and when our policy statement changes, visitors with Memberships in our databases will be notified of the changes, and provided a link to this page to view the changes. If a visitor decides that our policy does not benefit them, they can use the opt-out option at anytime.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-If you have any questions, comments, or suggestions about these Legal Notices, please use our [Contact Form](https://web.archive.org/web/20090617040451id_/http%3A//www.sourceradio.com/modules.php?name=Contact).
+##### How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+
+##### Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+##### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+##### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+##### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+##### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.themovievault.net](http://www.themovievault.net/)
+
+##### Your Consent
+
+By using our site, you consent to our [privacy policy.](https://web.archive.org/legal/privacy-policy)
+
+##### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on March 16th, 2013
