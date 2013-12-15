@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobrapido.com.pk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615030302id_/http%3A//pk.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.com.pk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215183630id_/http%3A//pk.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
@@ -11,7 +11,10 @@ The Personal Data is either collected automatically or provided voluntarily. Fai
 
 Jobrapido Srl (hereinafter "Jobrapido") is the Data Controller. Contact info:  
 Jobrapido Srl  
-Via Paleocapa, 7 - 20121 Milan (MI) – Italy  
+Via Paleocapa, 7 - 20121 Milan (MI) - Italy  
+Tax code and VAT number: IT11876271005  
+Company registered at the Chamber of Commerce of Milan  
+Fully paid up share capital: € 5.000.000  
 pk@jobrapido.com
 
 2.    Data collected during navigation
