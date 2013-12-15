@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617124253id_/http%3A//www.racedepartment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215174447id_/http%3A//www.racedepartment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Blurring the line between real and virtual motorsports
 
 ## **What information do we collect?**
 
@@ -36,7 +36,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We use third-party advertising companies (i.e. Google Adsense and VigLink) to serve ads or affiliate links when you visit our web site as a guest (or in some occassions as a registered member). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies (i.e. Google Adsense and Skimlinks) to serve ads or affiliate links when you visit our web site as a guest (or in some occassions as a registered member). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ## **California Online Privacy Protection Act Compliance**
 
@@ -64,7 +64,7 @@ By using our site, you consent to our [websites privacy policy](http://www.race
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on June 1 2013
+This policy was last modified on September 14 2013
 
 ## **Contacting Us**
 
