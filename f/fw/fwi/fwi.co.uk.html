@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the fwi.co.uk privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617172806id_/http%3A//fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fwi.co.uk privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215162424id_/http%3A//fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="HtmlNode" lang="en-GB" xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><script async="" type="text/javascript" src="https://du8783wkf05yr.cloudfront.net/rbi_uk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/jquery-1.9.0.min.js"></script><script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/jquery-migrate-1.0.0.min.js"></script><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="HtmlNode" lang="en-GB" xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2362.js?439586" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://du8783wkf05yr.cloudfront.net/rbi_uk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/jquery-1.9.0.min.js"></script><script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/jquery-migrate-1.0.0.min.js"></script><title>
 	Privacy policy - Farmers Weekly
 </title><meta id="Keywords" name="keywords" content=""><meta id="Description" name="description" content="Farmers Weekly - Privacy policy"><meta id="Language" http-equiv="content-language" content="en-GB"><meta id="Robots" name="robots" content="index, follow, noodp, noydir">
 		<link rel="shortcut icon" href="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/favicon.ico" type="image/x-icon">
@@ -10,7 +10,7 @@
 <!--Adobe TnT-->
 <script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/Adobe/mbox.js"></script>
 <!-- Adobe AAM Tag Insertion Manager-->
-<script type="text/javascript" src="http://rbi.demdex.net/event?d_stuff=1&amp;d_dst=1&amp;d_rtbd=json&amp;d_cts=1&amp;d_cb=aam_tnt_cb"></script>
+<script type="text/javascript" src="//rbi.demdex.net/event?d_stuff=1&amp;d_dst=1&amp;d_rtbd=json&amp;d_cts=1&amp;d_cb=aam_tnt_cb"></script>
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@FarmersWeekly">
 <meta name="twitter:creator" content="@FarmersWeekly">
@@ -39,6 +39,75 @@
 </script>
 <meta name="gwa_userID" content="">
 <meta name="gwa_authStatus" content="Logged Out">
+<!-- Jquery Includes -->
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCf6kqFLcpIhMwRccW2rCBuwP6quD1phLo&amp;sensor=false"></script> 
+<script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/rbi.weather.min.1.1.js"></script>
+<script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/jquery.seymore.min.js"></script>
+<script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/postscribe.min.js"></script>
+<script type="text/javascript" src="//d1tonmtsu3o0js.cloudfront.net/VPP/Global/JS/jquery/rbi.fwi.js"></script>
+<!-- Category Mappings -->
+<script>
+var mappings = {
+    'Livestock': 'livestock',
+    'Arable': 'arable',
+    'Dairy': 'dairy',
+    'Poultry': 'poultry',
+    'Machinery': 'machinery',
+    'Wreckers Yard': 'wreckers-yard',
+    'Renewables': 'landing-page/farmenergy',
+    'Sheep': 'livestock/sheep',
+    'Other': 'more/?newstitle=xxx&cat=xxx'
+};
+</script>
+
+<!-- NavWeather -->
+<script>
+$(function () {
+    RefreshWeather("NavWeather", true);
+    $('#NavWeather').click(function () {
+        window.location.href = '/weather/';
+    });
+
+    setTimeout(function(){ 
+        var src = $('#Icon img').attr('src');
+        if(src){
+            var reg = new RegExp('/.*?weather/(.*?)-icon.png', 'gim');
+            var currentWeather = src.replace(reg, '$1');
+            if (shortAddress == 'UK') {
+                SEOSetting('gwa_localVar5', 'default:' + currentWeather);
+            } else {
+                SEOSetting('gwa_localVar5', currentWeather);
+            }
+        }
+    }, 2000); 
+
+});
+
+function SEOSetting(name, value) {
+    var myMetaTags1 = new Array(name, value);
+    var myMetaTagsArray = new Array(myMetaTags1);
+    gwa_trackInPageAction(location.href, myMetaTagsArray);
+}
+
+</script>
+<!-- Breadcrumb -->
+<script type="text/javascript">
+$(function() {
+    if($('.rbi-brc-currentitem').length > 0){
+    //Obtains the current channel from the CCP provided breadcrumb
+    currentItem = $('.rbi-brc-currentitem').html();
+    currentItem = currentItem.replace(' ', '');
+    //Shows the nested UL containing the channel elements
+    if($('#top-nav > ul > li .' + currentItem).length > 0){
+    $('#top-nav > ul > li .' + currentItem).show();
+    }
+    //Adds the class to the list element of the current channel and displays it
+    $('#' + currentItem + 'Channel').addClass('currentChannel');
+    }
+});
+</script>
 <meta name="gwa_siteSection2" content="Static pages">
 <meta name="gwa_pageName" content="Fwi|Static pages|Privacy policy - Farmers Weekly">
 <meta name="gwa_contentHierarchy" content="Fwi|Static pages|Privacy policy - Farmers Weekly">
@@ -65,11 +134,11 @@
 <meta name="WT.cg_N" content="-">
 <meta name="WT.cg_S" content="-">
 <meta name="author" content="Reed Business Information Limited">
-<meta name="copyright" content="Copyright 2013 Reed Business Information. All rights reserved"><script type="text/javascript" src="/RbiWebCms/SiteEntities/Functions/Navigation/Includes/jscript/hover.js"></script><script type="text/javascript" src="/RbiWebCms/SiteEntities/Functions/Navigation/Includes/jscript/superfish.js"></script></head>
+<meta name="copyright" content="Copyright 2013 Reed Business Information. All rights reserved"></head>
 <body>
     <form name="MainForm" method="post" action="/StaticPages/Privacypolicy/" id="MainForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5NjUwNDU5MjkPZBYCAgEPFgIeBGxhbmcFBWVuLUdCFgQCARBkZBYKAgMPFgIeB2NvbnRlbnRlZAIEDxYCHwEFH0Zhcm1lcnMgV2Vla2x5IC0gUHJpdmFjeSBwb2xpY3lkAgUPFgIfAQUFZW4tR0JkAgYPFgIfAQUcaW5kZXgsIGZvbGxvdywgbm9vZHAsIG5veWRpcmQCBw8WAh4HVmlzaWJsZWhkAgMQZGQWAgIDD2QWBgIBD2QWAmYPDxYEHgtfaXNFZGl0YWJsZWgeCV9sYXN0VHlwZQUHRGVmYXVsdGQWAmYPZBYCZg9kFgJmDxYEHgVjbGFzcwUdcmJpLWZseC1oZWFkZXJDb250YWluZXItaW5uZXIeCGRpc2FibGVkZBYUAgEPFgYfBQUccmJpLWZseC1oZWFkZXJDb250YWluZXItY29sMR4Fc3R5bGUFQmJhY2tncm91bmQtY29sb3I6VHJhbnNwYXJlbnQ7d2lkdGg6MTAwJTtkaXNwbGF5OmlubGluZTtmbG9hdDpsZWZ0Ox8GZBYCAgEPFgQfBmQfBQUicmJpLWZseC1oZWFkZXJDb250YWluZXItY29sMS1pbm5lchYCAgEPZBYGZg9kFgJmDw8WBB8DaB8EBQdEZWZhdWx0ZBYCZg9kFgJmD2QWAmYPFgQfBQUUcmJpLWZseC10b3BiYXItaW5uZXIfBmQWFAIBDxYGHwUFE3JiaS1mbHgtdG9wYmFyLWNvbDEfBwVCYmFja2dyb3VuZC1jb2xvcjpUcmFuc3BhcmVudDt3aWR0aDoxMDAlO2Rpc3BsYXk6aW5saW5lO2Zsb2F0OmxlZnQ7HwZkFgICAQ8WBB8GZB8FBRlyYmktZmx4LXRvcGJhci1jb2wxLWlubmVyFgICAQ9kFgICAg9kFgJmDxYEHwUFFnJiaS1mbHgtdG9wc3RyaXAtaW5uZXIfBmQWFAIBDxYGHwUFFXJiaS1mbHgtdG9wc3RyaXAtY29sMR8HBUJiYWNrZ3JvdW5kLWNvbG9yOlRyYW5zcGFyZW50O3dpZHRoOjEwMCU7ZGlzcGxheTppbmxpbmU7ZmxvYXQ6bGVmdDsfBmQWAgIBDxYEHwZkHwUFG3JiaS1mbHgtdG9wc3RyaXAtY29sMS1pbm5lchYCAgEPZBYCAgEPZBYEAgEPFgIfAmcWAmYP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">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5NjUwNDU5MjkPZBYCAgEPFgIeBGxhbmcFBWVuLUdCFgQCARBkZBYKAgMPFgIeB2NvbnRlbnRlZAIEDxYCHwEFH0Zhcm1lcnMgV2Vla2x5IC0gUHJpdmFjeSBwb2xpY3lkAgUPFgIfAQUFZW4tR0JkAgYPFgIfAQUcaW5kZXgsIGZvbGxvdywgbm9vZHAsIG5veWRpcmQCBw8WAh4HVmlzaWJsZWhkAgMQZGQWAgIDD2QWBgIBD2QWAmYPDxYEHgtfaXNFZGl0YWJsZWgeCV9sYXN0VHlwZQUHRGVmYXVsdGQWAmYPZBYCZg9kFgJmDxYEHgVjbGFzcwUdcmJpLWZseC1oZWFkZXJDb250YWluZXItaW5uZXIeCGRpc2FibGVkZBYUAgEPFgYfBQUccmJpLWZseC1oZWFkZXJDb250YWluZXItY29sMR4Fc3R5bGUFQmJhY2tncm91bmQtY29sb3I6VHJhbnNwYXJlbnQ7d2lkdGg6MTAwJTtkaXNwbGF5OmlubGluZTtmbG9hdDpsZWZ0Ox8GZBYCAgEPFgQfBmQfBQUicmJpLWZseC1oZWFkZXJDb250YWluZXItY29sMS1pbm5lchYCAgEPZBYGZg9kFgJmDw8WBB8DaB8EBQdEZWZhdWx0ZBYCZg9kFgJmD2QWAmYPFgQfBQUUcmJpLWZseC10b3BiYXItaW5uZXIfBmQWFAIBDxYGHwUFE3JiaS1mbHgtdG9wYmFyLWNvbDEfBwVCYmFja2dyb3VuZC1jb2xvcjpUcmFuc3BhcmVudDt3aWR0aDoxMDAlO2Rpc3BsYXk6aW5saW5lO2Zsb2F0OmxlZnQ7HwZkFgICAQ8WBB8GZB8FBRlyYmktZmx4LXRvcGJhci1jb2wxLWlubmVyFgICAQ9kFgICAg9kFgQCAQ8WAh8CZxYCZg9kFgICAQ8WAh8GZBYEAgEPDxYEHgtOYXZpZ2F0ZVVybAUXL3JlZ2lzdGVyL3JlZ2lzdGVybWFpbi8eBFRleHQFCFJlZ2lzdGVyZGQCAw8PFgQfCAURL2xvZ2luL2xvZ2lubWFpbi8fCQUFTG9naW5kZAIDDxYCHwJoZAIDDxYCHwZkFgICAQ8WAh8GZGQCBQ8WAh8GZBYCAgEPFgIfBmRkAgcPFgIfBmQWAgIBDxYCHwZkZAIJDxYCHwZkFgICAQ8WAh8GZGQCCw8WAh8GZBYCAgEPFgIfBmRkAg0PFgIfBmQWAgIBDxYCHwZkZAIPDxYCHwZkFgICAQ8WAh8GZGQCEQ8WAh8GZBYCAgEPFgIfBmRkAhMPFgIfBmQWAgIBDxYCHwZkZAIBD2QWAmYPFgQfBQUZcmJpLWZseC1BZHZlcnRQYW5lbC1pbm5lch8GZBYUAgEPFgYfBQUYcmJpLWZseC1BZHZlcnRQYW5lbC1jb2wxHwcFQ2JhY2tncm91bmQtY29sb3I6VHJhbnNwYXJlbnQ7d2lkdGg6MjMwcHg7ZGlzcGxheTppbmxpbmU7ZmxvYXQ6bGVmdDsfBmQWAgIBDxYEHwZkHwUFHnJiaS1mbHgtQWR2ZXJ0UGFuZWwtY29sMS1pbm5lchYCAgEPZBYCAgEPZBYCZg8PFgQfA2gfBAUHRGVmYXVsdGQWAmYPZBYCZg9kFgJmDxYEHwUFDXJiaS1mbHgtaW5uZXIfBmQWFAIBDxYGHwUFDHJiaS1mbHgtY29sMR8HBQt3aWR0aDoxMDAlOx8GZBYCAgEPFgQfBmQfBQUScmJpLWZseC1jb2wxLWlubmVyZAIDDxYCHwZkFgICAQ8WAh8GZGQCBQ8WAh8GZBYCAgEPFgIfBmRkAgcPFgIfBmQWAgIBDxYCHwZkZAIJDxYCHwZkFgICAQ8WAh8GZGQCCw8WAh8GZBYCAgEPFgIfBmRkAg0PFgIfBmQWAgIBDxYCHwZkZAIPDxYCHwZkFgICAQ8WAh8GZGQCEQ8WAh8GZBYCAgEPFgIfBmRkAhMPFgIfBmQWAgIBDxYCHwZkZAIDDxYIHwUFGHJiaS1mbHgtQWR2ZXJ0UGFuZWwtY29sMh8HBUNiYWNrZ3JvdW5kLWNvbG9yOlRyYW5zcGFyZW50O3dpZHRoOjc1MHB4O2Rpc3BsYXk6aW5saW5lO2Zsb2F0OmxlZnQ7HwZkHwJnFgICAQ8WBB8GZB8FBR5yYmktZmx4LUFkdmVydFBhbmVsLWNvbDItaW5uZXIWAgIBD2QWAmYPZBYCZg8PFgQfA2gfBAUHRGVmYXVsdGRkAgUPFgIfBmQWAgIBDxYCHwZkZAIHDxYCHwZkFgICAQ8WAh8GZGQCCQ8WAh8GZBYCAgEPFgIfBmRkAgsPFgIfBmQWAgIBDxYCHwZkZAINDxYCHwZkFgICAQ8WAh8GZGQCDw8WAh8GZBYCAgEPFgIfBmRkAhEPFgIfBmQWAgIBDxYCHwZkZAITDxYCHwZkFgICAQ8WAh8GZGQCAg9kFgJmDw8WBB8DaB8EBQdEZWZhdWx0ZBYCZg9kFgJmD2QWAmYPFgQfBQUUcmJpLWZseC1oZWFkZXItaW5uZXIfBmQWFAIBDxYGHwUFE3JiaS1mbHgtaGVhZGVyLWNvbDEfBwVCYmFja2dyb3VuZC1jb2xvcjpUcmFuc3BhcmVudDt3aWR0aDoxMDAlO2Rpc3BsYXk6aW5saW5lO2Zsb2F0OmxlZnQ7HwZkFgICAQ8WBB8GZB8FBRlyYmktZmx4LWhlYWRlci1jb2wxLWlubmVyFgICAQ9kFgRmD2QWAmYPFgQfBQUNcmJpLWZseC1pbm5lch8GZBYUAgEPFgYfBQUMcmJpLWZseC1jb2wxHwcFQmJhY2tncm91bmQtY29sb3I6VHJhbnNwYXJlbnQ7d2lkdGg6MTAwJTtkaXNwbGF5OmlubGluZTtmbG9hdDpsZWZ0Ox8GZBYCAgEPFgQfBmQfBQUScmJpLWZseC1jb2wxLWlubmVyZAIDDxYCHwZkFgICAQ8WAh8GZGQCBQ8WAh8GZBYCAgEPFgIfBmRkAgcPFgIfBmQWAgIBDxYCHwZkZAIJDxYCHwZkFgICAQ8WAh8GZGQCCw8WAh8GZBYCAgEPFgIfBmRkAg0PFgIfBmQWAgIBDxYCHwZkZAIPDxYCHwZkFgICAQ8WAh8GZGQCEQ8WAh8GZBYCAgEPFgIfBmRkAhMPFgIfBmQWAgIBDxYCHwZkZAIBD2QWAmYPFgQfBQUXcmJpLWZseC1ub1BhZGRpbmctaW5uZXIfBmQWFAIBDxYGHwUFFnJiaS1mbHgtbm9QYWRkaW5nLWNvbDEfBwVBYmFja2dyb3VuZC1jb2xvcjpUcmFuc3BhcmVudDt3aWR0aDo1MCU7ZGlzcGxheTppbmxpbmU7ZmxvYXQ6bGVmdDsfBmQWAgIBDxYEHwZkHwUFHHJiaS1mbHgtbm9QYWRkaW5nLWNvbDEtaW5uZXJkAgMPFggfBQUWcmJpLWZseC1ub1BhZGRpbmctY29sMh8HBUFiYWNrZ3JvdW5kLWNvbG9yOlRyYW5zcGFyZW50O3dpZHRoOjUwJTtkaXNwbGF5OmlubGluZTtmbG9hdDpsZWZ0Ox8GZB8CZxYCAgEPFgQfBmQfBQUccmJpLWZseC1ub1BhZGRpbmctY29sMi1pbm5lcmQCBQ8WAh8GZBYCAgEPFgIfBmRkAgcPFgIfBmQWAgIBDxYCHwZkZAIJDxYCHwZkFgICAQ8WAh8GZGQCCw8WAh8GZBYCAgEPFgIfBmRkAg0PFgIfBmQWAgIBDxYCHwZkZAIPDxYCHwZkFgICAQ8WAh8GZGQCEQ8WAh8GZBYCAgEPFgIfBmRkAhMPFgIfBmQWAgIBDxYCHwZkZAIDDxYCHwZkFgICAQ8WAh8GZGQCBQ8WAh8GZBYCAgEPFgIfBmRkAgcPFgIfBmQWAgIBDxYCHwZkZAIJDxYCHwZkFgICAQ8WAh8GZGQCCw8WAh8GZBYCAgEPFgIfBmRkAg0PFgIfBmQWAgIBDxYCHwZkZAIPDxYCHwZkFgICAQ8WAh8GZGQCEQ8WAh8GZBYCAgEPFgIfBmRkAhMPFgIfBmQWAgIBDxYCHwZkZAIDDxYCHwZkFgICAQ8WAh8GZGQCBQ8WAh8GZBYCAgEPFgIfBmRkAgcPFgIfBmQWAgIBDxYCHwZkZAIJDxYCHwZkFgICAQ8WAh8GZGQCCw8WAh8GZBYCAgEPFgIfBmRkAg0PFgIfBmQWAgIBDxYCHwZkZAIPDxYCHwZkFgICAQ8WAh8GZGQCEQ8WAh8GZBYCAgEPFgIfBmRkAhMPFgIfBmQWAgIBDxYCHwZkZAICD2QWAmYPFgIfBQUVcmJpLWZseC1Db250ZW50LWlubmVyFgQCAQ8WBB8FBRRyYmktZmx4LUNvbnRlbnQtY29sMR8HBUNiYWNrZ3JvdW5kLWNvbG9yOlRyYW5zcGFyZW50O3dpZHRoOjgxOHB4O2Rpc3BsYXk6aW5saW5lO2Zsb2F0OmxlZnQ7FgICAQ8WAh8FBRpyYmktZmx4LUNvbnRlbnQtY29sMS1pbm5lcmQCAw8WBh8FBRRyYmktZmx4LUNvbnRlbnQtY29sMh8HBUNiYWNrZ3JvdW5kLWNvbG9yOlRyYW5zcGFyZW50O3dpZHRoOjE2MnB4O2Rpc3BsYXk6aW5saW5lO2Zsb2F0OmxlZnQ7HwJnFgICAQ8WAh8FBRpyYmktZmx4LUNvbnRlbnQtY29sMi1pbm5lchYCAgEPZBYCZg9kFgJmDw8WBB8DaB8EBQdEZWZhdWx0ZBYCZg9kFgJmD2QWAmYPFgQfBQUNcmJpLWZseC1pbm5lch8GZBYUAgEPFgYfBQUMcmJpLWZseC1jb2wxHwcFC3dpZHRoOjEwMCU7HwZkFgICAQ8WBB8GZB8FBRJyYmktZmx4LWNvbDEtaW5uZXJkAgMPFgIfBmQWAgIBDxYCHwZkZAIFDxYCHwZkFgICAQ8WAh8GZGQCBw8WAh8GZBYCAgEPFgIfBmRkAgkPFgIfBmQWAgIBDxYCHwZkZAILDxYCHwZkFgICAQ8WAh8GZGQCDQ8WAh8GZBYCAgEPFgIfBmRkAg8PFgIfBmQWAgIBDxYCHwZkZAIRDxYCHwZkFgICAQ8WAh8GZGQCEw8WAh8GZBYCAgEPFgIfBmRkAgMPZBYCZg8PFgQfA2gfBAUHRGVmYXVsdGQWAmYPZBYCZg9kFgJmDxYEHwUFFXJiaS1mbHgtRm9vdGVycy1pbm5lch8GZBYUAgEPFgYfBQUUcmJpLWZseC1Gb290ZXJzLWNvbDEfBwVBYmFja2dyb3VuZC1jb2xvcjpUcmFuc3BhcmVudDt3aWR0aDo2NiU7ZGlzcGxheTppbmxpbmU7ZmxvYXQ6bGVmdDsfBmQWAgIBDxYEHwZkHwUFGnJiaS1mbHgtRm9vdGVycy1jb2wxLWlubmVyZAIDDxYIHwUFFHJiaS1mbHgtRm9vdGVycy1jb2wyHwcFQWJhY2tncm91bmQtY29sb3I6VHJhbnNwYXJlbnQ7d2lkdGg6MzQlO2Rpc3BsYXk6aW5saW5lO2Zsb2F0OmxlZnQ7HwZkHwJnFgICAQ8WBB8GZB8FBRpyYmktZmx4LUZvb3RlcnMtY29sMi1pbm5lcmQCBQ8WAh8GZBYCAgEPFgIfBmRkAgcPFgIfBmQWAgIBDxYCHwZkZAIJDxYCHwZkFgICAQ8WAh8GZGQCCw8WAh8GZBYCAgEPFgIfBmRkAg0PFgIfBmQWAgIBDxYCHwZkZAIPDxYCHwZkFgICAQ8WAh8GZGQCEQ8WAh8GZBYCAgEPFgIfBmRkAhMPFgIfBmQWAgIBDxYCHwZkZGSUqrRhdGuXx2FvMZjtZtBxSPgz7g==">
 </div>
 
 
@@ -89,28 +158,12 @@
 			<div class="flx-topbar control"><div id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FunctionPicker_ctl00_ctl00_MainFlexColumnsPanel" class="rbi-flx-topbar-inner">
 	<div class="rbi-flx-topbar-col1" style="background-color:Transparent;width:100%;display:inline;float:left;">
 		<div class="rbi-flx-topbar-col1-inner">
-			<div class="rtx control">
-<div class="rbi-rtx-inner">
-    
-    <div id="top-nav">
-<ul>
-<li class="first"><a href="/login/loginmain/">Sign in</a></li>
-<li class="register"><a href="/Register/registermain/">Register</a></li>
-<li class="rss-ico"><a href="/staticpages/RSS/">RSS</a></li>
-<li id="privacy_cookies"><a href="/staticpages/Privacypolicy/">Cookies &amp; privacy</a></li>
-<li id="second_drop" class="submen"><a class="hascontent" href="/StaticPages/promo-video-page/">About us</a> <ol class="subone">
-<li><a href="/staticpages/contactus/">Contact us</a></li>
-<li><a href="/media-centre/">Advertise</a></li>
-<li><a href="http://www.fwi.co.uk/marketingsubscription-pages/fw2013-005/?intcmp=SUBS-aboutus-tlaunchaboutus&amp;promcode=2938">Subscribe</a></li>
-<li><a href="/Sitemap/SiteMap.html">Sitemap</a></li>
-<li><a href="/staticpages/Termsandconditions/">Terms &amp; conditions</a></li>
-<li><a href="/staticpages/disclaimer/">Disclaimer</a></li>
-<li><a href="/staticpages/Privacypolicy/">Privacy policy</a></li>
-</ol> </li>
-</ul>
+			<div class="rmd-dhide control">
+<div class="rbi-rmd-inner">
+
+ <script src="http://cdn.fwi.co.uk/VPP/Global/JS/fwi-redesign/jquery.cycle.all.js"></script><script src="http://cdn.fwi.co.uk/VPP/Global/JS/fwi-redesign/script.js"></script> 
 </div>
-</div>
-<div class="rbi-rtx-base"><span></span></div>
+<div class="rbi-rmd-base"><span></span></div>
 </div><div class="rmd-dhide control">
 <div class="rbi-rmd-inner">
 
@@ -120,7 +173,6 @@ $(function(){
 
 var link = $('#top-nav li.first a:first');
 var url = link.attr('href') + '?returnUrl=' + encodeURI(document.location);
-
 link.attr('href', url);
 
 });
@@ -128,26 +180,12 @@ link.attr('href', url);
 </script>
 </div>
 <div class="rbi-rmd-base"><span></span></div>
-</div><div class="flx-topstrip control"><div id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_MainFlexColumnsPanel" class="rbi-flx-topstrip-inner">
-	<div class="rbi-flx-topstrip-col1" style="background-color:Transparent;width:100%;display:inline;float:left;">
-		<div class="rbi-flx-topstrip-col1-inner">
-			<div class="rmd-SocialIconsSmall control">
-<div class="rbi-rmd-inner">
-
-<img src="https://d1tonmtsu3o0js.cloudfront.net/VPP/Global/FWi/social_media_icons.png" border="0" usemap="#Map">
-<map name="Map" id="Map"><area shape="rect" coords="0,-1,15,15" href="https://www.facebook.com/farmersweeklyuk" target="_blank">
-<area shape="rect" coords="19,0,37,15" href="https://twitter.com/intent/user?screen_name=FarmersWeekly" target="_blank">
-<area shape="rect" coords="39,-1,56,16" href="http://www.linkedin.com/company/farmers-weekly" target="_parent"><area shape="rect" coords="60,-1,77,16" href="http://www.youtube.com/user/FarmersWeeklyVideo" target="_blank">
-<area shape="rect" coords="80,-4,97,16" href="https://plus.google.com/+farmersweekly/posts" target="_blank">
-</map>
-</div>
-<div class="rbi-rmd-base"><span></span></div>
 </div><div class="viper aut aut control">
 <div class="inner">
     
-            <span id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_FlexColumn1_ctl01_ExternalLoginView_ExternalLogin" class="form_actions">
-                <a id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_FlexColumn1_ctl01_ExternalLoginView_RegisterLink" class="register" href="/link/2e1241947d3d4d8190a47feed44ec387.aspx">Register</a>
-                <a id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_FlexColumn1_ctl01_ExternalLoginView_LoginLink" class="loginstatus" href="/link/7ae35fe8e6a247d0aa7b94506b84b65e.aspx">Login</a>
+            <span id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_ExternalLoginView_ExternalLogin" class="form_actions">
+                <a id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_ExternalLoginView_RegisterLink" class="register" href="/register/registermain/">Register</a>
+                <a id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_ExternalLoginView_LoginLink" class="loginstatus" href="/login/loginmain/">Login</a>
             </span>
         
     
@@ -157,21 +195,25 @@ link.attr('href', url);
 <div class="base">
     <span></span>
 </div>
-</div><div>
-
+</div><div class="rtx control">
+<div class="rbi-rtx-inner">
+    
+    <div id="superNav">
+<ul>
+<li class="selected"><a href="http://www.fwi.co.uk">FWI</a></li>
+<li><a href="http://classified.fwi.co.uk/">Classified</a></li>
+<li><a href="http://jobs.fwi.co.uk/">Jobs</a></li>
+<li><a href="http://www.fwi.co.uk/property/">Property</a></li>
+<li><a href="http://academy.fwi.co.uk/">Academy</a></li>
+<li><a href="http://awards.fwi.co.uk/">Awards</a></li>
+<li><a href="http://www.farmplan.co.uk">Farmplan</a></li>
+<li><a href="http://www.fwi.co.uk/community/">Community</a></li>
+<li class="cookies"><a href="http://www.fwi.co.uk/staticpages/Privacypolicy/">Cookies &amp; Privacy</a></li>
+<li class="subs"><a href="http://www.fwi.co.uk/marketingsubscription-pages/fw2013-005october/?intcmp=SUBS-navbar-navbarall&amp;promcode=3044">Subscribe</a></li>
+</ul>
 </div>
-		</div>
-	</div>
-	
-	
-	
-	
-	
-	
-	
-	
-	
 </div>
+<div class="rbi-rtx-base"><span></span></div>
 </div><div>
 
 </div>
@@ -206,7 +248,7 @@ link.attr('href', url);
 <script type="text/javascript">
   var ord = window.ord || Math.floor(Math.random() * 1e16);
   document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=1;type=landingpage;dcopt=ist;sz=1x1;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=1;type=landingpage;dcopt=ist;sz=1x1;ord=73047291943051?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=1;type=landingpage;dcopt=ist;sz=1x1;ord=907937112781525?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/N6831/jump/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=1;type=landingpage;dcopt=ist;sz=1x1;ord=123456789?">
 <img src="http://ad.doubleclick.net/N6831/ad/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=1;type=landingpage;dcopt=ist;sz=1x1;ord=123456789?" width="1" height="1" />
@@ -248,7 +290,7 @@ link.attr('href', url);
         <!-- FarmersWeeklyInteractive/Landingpage -->
 <script type="text/javascript">
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=2;type=landingpage;sz=728x90;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=2;type=landingpage;sz=728x90;ord=73047291943051?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=2;type=landingpage;sz=728x90;ord=907937112781525?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/N6831/jump/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=2;type=landingpage;sz=728x90;ord=123456789?">
 <img src="http://ad.doubleclick.net/N6831/ad/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=2;type=landingpage;sz=728x90;ord=123456789?" />
@@ -278,43 +320,104 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 </div><div class="flx-header control"><div id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_FunctionPicker_ctl00_ctl00_MainFlexColumnsPanel" class="rbi-flx-header-inner">
 	<div class="rbi-flx-header-col1" style="background-color:Transparent;width:100%;display:inline;float:left;">
 		<div class="rbi-flx-header-col1-inner">
-			<div class="flx-SiteMenu control"><div id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_MainFlexColumnsPanel" class="rbi-flx-SiteMenu-inner">
-	<div class="rbi-flx-SiteMenu-col1" style="background-color:Transparent;width:232px;display:inline;float:left;">
-		<div class="rbi-flx-SiteMenu-col1-inner">
-			<div class="rtx control">
-<div class="rbi-rtx-inner">
-    
-    <p><iframe scrolling="no" height="50" frameborder="0" width="220" align="left" allowtransparency="true" src="http://www.fwi.co.uk/iframes/newweather.aspx" style="overflow: hidden;"></iframe></p>
+			<div class="flx control"><div id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_MainFlexColumnsPanel" class="rbi-flx-inner">
+	<div class="rbi-flx-col1" style="background-color:Transparent;width:100%;display:inline;float:left;">
+		<div class="rbi-flx-col1-inner">
+			<div class="rmd control">
+<div class="rbi-rmd-inner">
+
+<div id="PrimaryNavigationWeather">
+    <div id="NavWeather"></div>
+    <div id="top-nav">
+    	<ul>
+        	<li><a id="HomeChannel" href="/">Home</a>
+                <ul class="Home">
+                    <li><a href="/livestock/bovine-tb/">Badger cull</a></li>
+                    <li><a href="/business/cap-reform/">CAP reform</a></li>
+                    <li><a href="/rural-living/young-farmers/">Young farmers</a></li>
+                    <li><a href="/rural-crime/">Crime</a></li>
+                    <li><a href="/health-and-safety/">Health &amp; safety</a></li>
+                    <li><a href="/video/">Videos</a></li>                    <li><a href="/events/">Events</a></li>
+                    <li><a href="/weather/">Weather</a></li>
+                </ul>
+            </li>
+           <li><a id="MachineryChannel" href="/machinery">Machinery</a>
+                <ul class="Machinery">
+                    <!--<li><a href="/powerfarming/reviews-and-tests/tractors-reviews-and-tests/">Tractors</a></li>
+                    <li><a href="/powerfarming/reviews-and-tests/telehandlers-reviews-and-tests/">Telehandlers</a></li>-->
+                    <li><a href="/machinery/atv-utv/">ATVs/UTVs</a></li>
+                    <li><a href="/machinery/4x4-reviews/">4x4s and pickups</a></li>
+                    <!--<li><a href="/powerfarming/reviews-and-tests/combines-reviews-and-tests/">Combines</a></li>-->
+                    <li><a href="/staticpages/wreckers-yard/">Wreckers yard</a></li>
+                </ul>
+            </li>
+        	<li class="Business"><a id="BusinessChannel" href="/business/">Business</a>
+                <ul class="Business">
+                    <li><a href="/prices-trends/">Markets &amp; trends</a></li>
+                    <li><a href="/landing-page/farmenergy/">Farm energy</a></li>
+                    <li><a href="/business/policy/">Policy</a></li>
+                    <!--<li><a href="#">Land & property</a></li>
+                    <li><a href="#">SFP</a></li>-->
+        	</ul>
+            </li>
+        	<li><a id="ArableChannel" href="/arable">Arable</a>
+                <ul class="Arable">
+        	    	<li><a href="/arable/wheat/">Wheat</a></li>
+                    <li><a href="/arable/oilseed-rape/">OSR</a></li>
+                    <li><a href="/arable/potatoes/">Potatoes</a></li>
+                    <li><a href="/arable/sugar-beet/">Sugar beet</a></li>
+                    <li><a href="/arable/barley/">Barley</a></li>
+                    <li><a href="/arable/farmer-focus">Farmer focus</a></li>
+                    <li><a href="/blogs/crop-watch/">Crop watch</a></li>
+       			</ul>
+            </li>
+        	<li><a id="LivestockChannel" href="/livestock">Livestock</a>
+                <ul class="Livestock">
+                    <li><a href="/dairy/">Dairy</a></li>
+        	    <li><a href="/livestock/beef/">Beef</a></li>
+                    <li><a href="/livestock/sheep/">Sheep</a></li>
+                    <li><a href="/livestock/pigs/">Pigs</a></li>
+                    <li><a href="/livestock/farmer-focus/">Farmer focus</a></li>
+                    <li><a href="/blogs/livestock-and-sales-blog/">Taking stock</a></li>
+       			</ul>
+            </li>
+        	<li><a id="PoultryChannel" href="/poultry">Poultry</a>
+                <ul class="Poultry">
+                    <!--<li><a href="#">Layers</a></li>
+                    <li><a href="#">Broilers</a></li>
+                    <li><a href="#">Other poultry</a></li>
+                    <li><a href="#">Management</a></li>
+                    <li><a href="#">Buildings</a></li>
+                    <li><a href="#">Business</a></li>-->
+       		</ul>
+            </li>
+        	<li><a id="RuralLivingChannel" href="/rural-living">Farm life</a>
+                <ul class="RuralLiving">
+                    <li><a href="/blogs/rural-life/">Field day</a></li>
+                    <li><a href="/competition/">Competitions</a></li>
+                    <li><a href="/community/">Forums</a></li>
+                    <li><a href="/community/photos/">Photos</a></li>
+                    <li><a href="http://fwi.muddymatches.co.uk/">Dating</a></li>
+       		</ul>
+            </li>
+
+        	<li class="first"><a href="/login/loginmain/">Log-In</a>
+            </li>
+            
+        	<li class="register"><a href="/register/registermain/">Register</a>
+            </li>
+        </ul>
+
+    </div>
 </div>
-<div class="rbi-rtx-base"><span></span></div>
+</div>
+<div class="rbi-rmd-base"><span></span></div>
 </div><div>
 
 </div>
 		</div>
 	</div>
-	<div class="rbi-flx-SiteMenu-col2" style="background-color:Transparent;width:748px;display:inline;float:left;">
-		<div class="rbi-flx-SiteMenu-col2-inner">
-			<span class="noindex"><div class="nav-TopMenu control" id="MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FlexColumn2_ctl00">
-				<script type="text/javascript">
-					$(document).ready(function(){
-					
-					
-						$('#MainContent_ctl01_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl02_FunctionPicker_ctl00_ctl00_FlexColumn1_ctl00_FlexColumn2_ctl00 .nav-list').superfish({
-							pathClass : 'OnPage',
-							delay : 250,
-							autoArrows: false,
-							dropShadows: false,
-							pathLevels: 1
-						});
-					});
-				</script>
-
-<div class="nav-inner"><ul class="nav-list"><li class="nav-first nav-linkitem "><a href="http://www.fwi.co.uk/" title=""><span class="nav-tlt">Home</span></a><ul><li class="nav-linkitem "><a href="/livestock/" title=""><span>Livestock</span></a></li><li class="nav-linkitem "><a href="/arable/" title=""><span>Arable</span></a></li><li class="nav-linkitem "><a href="/dairy/" title=""><span>Dairy</span></a></li><li class="nav-linkitem "><a href="/poultry/" title=""><span>Poultry</span></a></li><li class="nav-linkitem "><a href="/machinery/" title=""><span>Machinery</span></a></li><li class="nav-linkitem "><a href="/staticpages/wreckers-yard/" title=""><span>Wreckers Yard</span></a></li><li class="nav-linkitem "><a href="/landing-page/farmenergy/" title=""><span>Renewables</span></a></li><li class="nav-linkitem "><a href="/MarketingSubscription-pages/crops/" title=""><span>Crops Tools</span></a></li><li class="nav-linkitem "><a href="/StaticPages/lp-index-page" title=""><span>A-Z</span></a></li><li class="nav-linkitem "><a href="/CrimeRegister/" title=""><span>Crime</span></a></li><li class="nav-linkitem "><a href="/powerfarming/" title=""><span>Power Farming</span></a></li></ul></li><li class="nav-linkitem "><a href="/business/" title=""><span class="nav-tlt">Business</span></a><ul><li class="nav-linkitem "><a href="/prices-trends/" title=""><span>Prices &amp; Trends</span></a></li><li class="nav-linkitem "><a href="/landing-page/farmenergy/" title=""><span>Renewables</span></a></li><li class="nav-linkitem "><a href="/legislation/" title=""><span>Legislation</span></a></li><li class="nav-linkitem "><a href="/taxation/" title=""><span>Taxation Guides</span></a></li><li class="nav-linkitem "><a href="/diversification/" title=""><span>Diversification</span></a></li></ul></li><li class="nav-linkitem "><a href="http://classified.fwi.co.uk/" title=""><span class="nav-tlt">Buy &amp; Sell</span></a><ul><li class="nav-linkitem "><a href="http://classified.fwi.co.uk/" title=""><span>New Search</span></a></li><li class="nav-linkitem "><a href="http://classified.fwi.co.uk/account/adverts-by-email" title=""><span>Email Alerts</span></a></li><li class="nav-linkitem "><a href="http://classified.fwi.co.uk/account/saved-searches" title=""><span>Saved Searches</span></a></li></ul></li><li class="nav-linkitem "><a href="http://jobs.fwi.co.uk/" title=""><span class="nav-tlt">Jobs</span></a><ul><li class="nav-linkitem "><a href="http://jobs.fwi.co.uk/advancedsearch/" title=""><span>Search Jobs</span></a></li></ul></li><li class="nav-linkitem "><a href="/property/" title=""><span class="nav-tlt">Property</span></a><ul><li class="nav-linkitem "><a href="http://property.fwi.co.uk/" title=""><span>New Search</span></a></li><li class="nav-linkitem "><a href="http://property.fwi.co.uk/account/adverts-by-email" title=""><span>Email Alerts</span></a></li><li class="nav-linkitem "><a href="http://property.fwi.co.uk/account/saved-searches" title=""><span>Saved Searches</span></a></li></ul></li><li class="nav-linkitem "><a href="/opinions-blogs-home/" title=""><span class="nav-tlt">Blogs</span></a><ul><li class="nav-linkitem "><a href="/blogs/agribusiness/" title=""><span>Agribusiness blog</span></a></li><li class="nav-linkitem "><a href="/blogs/livestock-and-sales-blog/" title=""><span>Taking Stock</span></a></li><li class="nav-linkitem "><a href="/blogs/rural-life" title=""><span>Field Day</span></a></li><li class="nav-linkitem "><a href="/blogs/crop-watch/" title=""><span>Crop Watch</span></a></li><li class="nav-linkitem "><a href="/blogs/lincolnshire-farming-blog/" title=""><span>Mouth of the Wash</span></a></li><li class="nav-linkitem "><a href="/blogs/feathered-forager/" title=""><span>Feathered Forager</span></a></li></ul></li><li class="nav-linkitem "><a href="/community/" title=""><span class="nav-tlt">Forums &amp; photos</span></a><ul><li class="nav-linkitem "><a href="/community/default.aspx" title=""><span>FWiSpace Home</span></a></li><li class="nav-linkitem "><a href="/community/blogs/default.aspx" title=""><span>FWiSpace blogs</span></a></li><li class="nav-linkitem "><a href="/community/forums/default.aspx" title=""><span>Forums</span></a></li><li class="nav-linkitem "><a href="/community/photos/default.aspx" title=""><span>Photos</span></a></li><li class="nav-linkitem "><a href="/community/controlpanel/default.aspx" title=""><span>Control Panel</span></a></li></ul></li><li class="nav-linkitem "><a href="/academy/" title=""><span class="nav-tlt">Academy</span></a><ul><li class="nav-linkitem "><a href="/academy/" title=""><span>All</span></a></li><li class="nav-linkitem "><a href="/academy/arable/" title=""><span>Arable</span></a></li><li class="nav-linkitem "><a href="/academy/business/" title=""><span>Business</span></a></li><li class="nav-linkitem "><a href="/academy/livestock/" title=""><span>Livestock</span></a></li><li class="nav-linkitem "><a href="/academy/machinery/" title=""><span>Machinery</span></a></li><li class="nav-linkitem "><a href="/academy/poultry/" title=""><span>Poultry</span></a></li></ul></li><li class="nav-linkitem "><a href="/events/" title=""><span class="nav-tlt">Events</span></a><ul><li class="nav-linkitem "><a href="/events/" title=""><span>Calendar</span></a></li><li class="nav-linkitem "><a href="/awards-website/awards-home/" title=""><span>FW Awards</span></a></li><li class="nav-linkitem "><a href="/landing-page/livestock/dairy-event/" title="Dairy Event"><span>Dairy Event</span></a></li></ul></li><li class="nav-linkitem "><a href="/rural-living/" title=""><span class="nav-tlt">Rural Living</span></a><ul><li class="nav-linkitem "><a href="/blogs/rural-life" title=""><span>Field Day blog</span></a></li><li class="nav-linkitem "><a href="http://www.facebook.com/pages/Farmers-Weekly/17050705902" title=""><span>FWi on Facebook</span></a></li><li class="nav-linkitem "><a href="http://twitter.com/farmersweekly" title=""><span>FW on Twitter</span></a></li><li class="nav-linkitem "><a href="http://fwi.muddymatches.co.uk/" title=""><span>Online Dating</span></a></li><li class="nav-linkitem "><a href="/competition/" title=""><span>Competitions</span></a></li></ul></li><li class="nav-linkitem "><a href="http://awards.fwi.co.uk/" title=""><span class="nav-tlt">Awards</span></a></li><li class="nav-linkitem "><a href="/video/" title=""><span class="nav-tlt">Videos</span></a><ul><li class="nav-linkitem "><a href="/video/" title=""><span>News</span></a></li><li class="nav-linkitem "><a href="/video/business/" title=""><span>Business</span></a></li><li class="nav-linkitem "><a href="/video/arable/" title=""><span>Arable</span></a></li><li class="nav-linkitem "><a href="/video/cropwatch/" title=""><span>Crop Watch</span></a></li><li class="nav-linkitem "><a href="/video/livestock/" title=""><span>Livestock</span></a></li><li class="nav-linkitem "><a href="/video/machinery/" title=""><span>Machinery</span></a></li><li class="nav-linkitem "><a href="/video/poultry/" title=""><span>Poultry</span></a></li><li class="nav-linkitem "><a href="/video/ruralliving/" title=""><span>Rural Living</span></a></li><li class="nav-linkitem "><a href="/video/fwipromos/" title=""><span>FWi Promos</span></a></li><li class="nav-linkitem "><a href="/video/fwiawards/" title=""><span>FW Awards</span></a></li></ul></li></ul></div>
-</div><!--/noindex --></span><div>
-
-</div>
-		</div>
-	</div>
+	
 	
 	
 	
@@ -439,7 +542,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
     
     <p><span style="font-family: Arial;"><span style="text-decoration: underline;"><strong>PRIVACY STATEMENT</strong></span><br> <br> This website is owned and operated by </span><a href="http://www.rbi.co.uk/rb2_about/rb2_about_profile.htm"><span style="font-family: Arial;">Reed Business Information Limited</span></a><br> <span style="font-family: Arial;">Information we collect from our customers and users of our websites may be used in the following ways.<br> <br> <strong>Subscription Services </strong></span></p>
 <p><span style="font-family: Arial;">Personal information provided as part of the registration process for any publication, product or service is used to manage your subscription and to enable us to provide a better service. <br> </span><strong><span style="font-family: Arial;">&nbsp;<br> Payment details </span></strong></p>
-<p><span style="font-family: Arial;">Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you.&nbsp; If you do not wish us to store and use the information for future transactions, please contact us. <br> &nbsp;<br> </span><span style="font-family: Arial;"><strong>Contact details<br> </strong><br> We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.<br> <br> Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.&nbsp; If you do not wish to be contacted for this purpose, you may register your preferences by </span><a href="/login/mainlogin/"><span style="font-family: Arial;">clicking here</span></a><span style="font-family: Arial;"> ...<br> <br> We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.&nbsp; You may at any time opt-out of receiving further e-mails by </span><a href="/login/mainlogin/"><span style="font-family: Arial;">registering your preference here</span></a><span style="font-family: Arial;"> ...<br> <br> If you wish to alter any of your registration details </span><a href="/login/mainlogin/"><span style="font-family: Arial;">please click here</span></a><span style="font-family: Arial;"> ...<br> </span><strong><br> <span style="font-family: Arial;">Voluntary Information </span></strong></p>
+<p><span style="font-family: Arial;">Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you.&nbsp; If you do not wish us to store and use the information for future transactions, please contact us. <br> &nbsp;<br> </span><span style="font-family: Arial;"><strong>Contact details<br> </strong><br> We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.<br> <br> Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.&nbsp; If you do not wish to be contacted for this purpose, you may register your preferences by </span><a href="/disable/login/mainlogin/"><span style="font-family: Arial;">clicking here</span></a><span style="font-family: Arial;"> ...<br> <br> We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.&nbsp; You may at any time opt-out of receiving further e-mails by </span><a href="/disable/login/mainlogin/"><span style="font-family: Arial;">registering your preference here</span></a><span style="font-family: Arial;"> ...<br> <br> If you wish to alter any of your registration details </span><a href="/disable/login/mainlogin/"><span style="font-family: Arial;">please click here</span></a><span style="font-family: Arial;"> ...<br> </span><strong><br> <span style="font-family: Arial;">Voluntary Information </span></strong></p>
 <p><span style="font-family: Arial;">We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion.<br> <br> <strong>Statistical information </strong></span></p>
 <p><span style="font-family: Arial;">Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information. <br> &nbsp;<br> <strong>Security </strong></span></p>
 <p><span style="font-family: Arial;">Your personal data will be held on a secure server. Our sites are equipped with the latest security devices/firewalls. <br> &nbsp;<br> <strong>Access to Data </strong></span></p>
@@ -494,7 +597,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
         <!-- FarmersWeeklyInteractive/Landingpages-->
 <script type="text/javascript">
   document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=5;type=landingpage;sz=160x600;ord=' + ord + '?"><\/script>');
-</script><script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=5;type=landingpage;sz=160x600;ord=73047291943051?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N6831/adj/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=5;type=landingpage;sz=160x600;ord=907937112781525?"></script>
 <noscript>
 <a href="http://ad.doubleclick.net/N6831/jump/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=5;type=landingpage;sz=160x600;ord=123456789?">
 <img src="http://ad.doubleclick.net/N6831/ad/FarmersWeeklyInteractive/338;sec0=338;sec1=Privacypolicy;slot=1;tile=5;type=landingpage;sz=160x600;ord=123456789?" width="160" height="600" />
@@ -545,8 +648,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 <li><a title="About us" href="/StaticPages/promo-video-page/">About us</a> <span class="pipe"> | </span></li>
 <li><a title="Contact Us" href="/staticpages/contactus/">Contact us</a> <span class="pipe"> | </span></li>
 <li><a title="Advertise" href="/mediacentre/">Advertise</a> <span class="pipe"> | </span></li>
-<li><a title="Subscribe" href="http://www.fwi.co.uk/marketingsubscription-pages/fw2013-005/?intcmp=SUBS-footernavbar-tlaunchfooternavbar&amp;promcode=2940">Subscribe</a> <span class="pipe"> | </span></li>
-<li><a title="Sitemap" href="/Sitemap/SiteMap.html">Sitemap</a> <span class="pipe"> | </span></li>
+<li><a title="Subscribe" href="http://www.fwi.co.uk/marketingsubscription-pages/fw2013-005october/?intcmp=SUBS-footernav-footernavall&amp;promcode=3035">Subscribe</a> <span class="pipe"> | </span></li>
 <li><a title="Terms &amp; Conditions" href="/staticpages/Termsandconditions/">Terms &amp; Conditions</a><span class="pipe"> | </span></li>
 <li><a title="Disclaimer" href="/staticpages/disclaimer/">Disclaimer</a> <span class="pipe"> | </span></li>
 <li><a title="Privacy" href="/staticpages/Privacypolicy/">Privacy policy</a></li>
@@ -556,7 +658,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
 </div><div class="rtx control">
 <div class="rbi-rtx-inner">
     
-    <p style="text-align: left; color: #626262;"><a href="http://www.reedbusiness.com/">© 2012 Reed Business Information Limited</a></p>
+    <p style="text-align: left; color: #626262;"><a href="http://www.reedbusiness.com/">© 2013 Reed Business Information Limited</a></p>
 </div>
 <div class="rbi-rtx-base"><span></span></div>
 </div><div>
@@ -571,10 +673,11 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6
     
     <ul class="service">
 <li class="service"><span class="services">Services: </span></li>
-<li><a title="Sign up to FWi RSS Feeds" href="/staticpages/RSS/">RSS</a><span class="pipe"> | </span></li>
 <li><a title="Sign up to FWi Email Newsletters" href="/login/loginnewsletter/">E-Newsletters</a><span class="pipe"> | </span></li>
+<li><a title="Company Link" href="http://fwi.verticalsearchworks.com/" target="_blank">Company Link</a><span class="pipe"> | </span></li>
 <li><a title="View FWi Blogs" href="/opinions-blogs-home/">Blogs</a><span class="pipe"> | </span></li>
-<li><a title="View FWi Videos" href="http://www.fwi.co.uk/video/">Videos</a><span class="pipe"> | </span></li>
+<li><a title="View FWi Videos" href="/video/">Videos</a> |</li>
+<li><a title="RSS" href="/StaticPages/rss/">RSS</a></li>
 </ul>
 </div>
 <div class="rbi-rtx-base"><span></span></div>
@@ -688,6 +791,14 @@ pageTracker._trackPageview();
         }                                            
    (document, 'script'));                                              
 </script>
+<!-- Crazy Egg Start -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2362.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!-- Crazy Egg End -->
 
     <!-- analytics finish -->
     </form>
