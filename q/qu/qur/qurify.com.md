@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qurify.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616223342id_/http%3A//www.visualead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qurify.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215031334id_/http%3A//www.visualead.com/privacy-policy) for the most accurate reproduction.*
 
 # Visualead - About Privacy | Design with QR Codes | Visualead
 
@@ -67,4 +67,4 @@ Visualead may update this policy. We will notify you about significant changes i
 Questions:  
 If you have any questions about this Privacy Policy or concerns about the way we process your personal information, please contact us at privacy@visualead.com  
 Terms of Use:  
-Our [Terms of Use](https://web.archive.org/terms-of-use/language:itl/) apply to this Privacy Policy.
+Our [Terms of Use](https://web.archive.org/terms-of-use/) apply to this Privacy Policy.
