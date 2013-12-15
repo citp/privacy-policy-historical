@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamsf1.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616001506id_/http%3A//williamsf1.com/footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamsf1.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215030805id_/http%3A//williamsf1.com/footer/Privacy-Policy) for the most accurate reproduction.*
 
 # Williams F1
 
