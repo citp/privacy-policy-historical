@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savingsinseconds.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616153815id_/http%3A//www.savingsinseconds.com/pr-selective/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingsinseconds.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215171538id_/http%3A//www.savingsinseconds.com/pr-selective/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Savings in Seconds
 
-**0** Flares **0** Flares ×
+**0** Flares Filament.io **0** Flares ×
 
 The privacy of our visitors to is important to us.
 
