@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zohraa.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427092100id_/http%3A//zohraa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zohraa.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215122517id_/http%3A//zohraa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Online Shopping for women - Latest Designer, wedding, bridal Sarees and Salwar Kameez on Sale | Indian salwar suits designs | Zohraa.com Bollywood Fashion
+# Privacy Policy | Zohraa.com
 
 Zohraa and its affiliates respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Zohraa. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Zohraa you agree to the collection and use of your data by Zohraa in the manner provided in this Privacy Policy.
 
@@ -60,11 +60,11 @@ We use your personal information to:
 
 **Generally, we use anonymous traffic information to:**
 
-  * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective 
-  * recognize your access privileges to our Websites 
-  * track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings 
-  * make sure that you don't see the same ad repeatedly 
-  * help diagnose problems with our server 
+  * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective
+  * recognize your access privileges to our Websites
+  * track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings
+  * make sure that you don't see the same ad repeatedly
+  * help diagnose problems with our server
   * administer our websites, track your session so that we can understand better how people use our sites
 
 
@@ -75,9 +75,9 @@ We will not use your financial information for any purpose other than to complet
 
 We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
 
-  * we have your permission 
-  * to provide products or services you've requested 
-  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Zohraa's terms of use or to defend against legal claims 
+  * we have your permission
+  * to provide products or services you've requested
+  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Zohraa's terms of use or to defend against legal claims
   * Special circumstances such as compliance with subpoenas, court orders, requests/order, notices from legal authorities or law enforcement agencies requiring such disclosure
 
 
@@ -98,11 +98,8 @@ We reserve the right to change or update this policy at any time by placing a pr
 
 **Our Office Address**
 
-D-4129, Oberoi Garden Estate  
-Chandivali Farm Rd,   
-Chandivali,  
-Andheri (E)  
-Mumbai - 400 072
-
-
-
+Haridhara Market  
+2nd Floor, Office No. 110  
+Anjurphata,  
+Bhiwandi - 421302  
+Dist - Thane, Maharashtra
