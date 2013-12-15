@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quebles.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412140907id_/http%3A//www.quebles.com/General/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quebles.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215024520id_/http%3A//www.quebles.com/General/Privacy) for the most accurate reproduction.*
 
 # Privacy: Quebles.com
 
