@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the legalvision.com.au privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614083445id_/http%3A//legalvision.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalvision.com.au privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215032209id_/http%3A//legalvision.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LegalVision
 
 This privacy policy sets out how we, LV Australia Pty. Ltd., will use and protect any information that you provide when you use this website.
 
-We are committed to ensuring that your privacy is protected. Should we ask you to provide any information by which you can be identified when using this website, we assure you that it will only be used in accordance with this privacy policy.
+We are committed to ensuring that your privacy is protected. Should we ask you to provide any information by which you can be identified when using this website, we assure you that it will only be used in accordance with this privacy policy and the Australian Privacy Principles. If you do not wish to provide personal information to us then you do not have to do so, but it may effect your use of this website or the products and services offered on it.
 
 We may change this privacy policy from time to time by updating this page. You should check this page regularly to ensure that you are happy with any changes. This privacy policy is effective from 01 November 2012.
 
@@ -30,14 +30,15 @@ We collect this information for the following reasons:
   2. for internal record keeping;
   3. to circulate promotional emails **** about new products, special offers or other information which we think you may find interesting;
   4. to contact you (by telephone, email or mail) for market research purposes;
-  5. to customise the website according to your interests; and
-  6. to customise documents according to your needs.
+  5. direct marketing;
+  6. to customise the website according to your interests; and
+  7. to customise documents according to your needs.
 
 
 
 **Security**
 
-We are committed to ensuring that the information you provide to us is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure that information.
+We are committed to ensuring that the information you provide to us is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure that information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.
 
 **How we use cookies**
 
@@ -64,6 +65,10 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are legally required to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you in accordance with applicable law. A small fee may be payable. If you would like a copy of the information which we hold about you please email us at help@legalvision.com.au.
+You may request details of personal information which we hold about you in accordance with applicable law. A small fee may be payable for the provision of the information. If you would like a copy of the information which we hold about you please email us at help@legalvision.com.au. We will respond within a reasonable time.
 
-If you believe that any information we are holding about you is incorrect or incomplete, please email us as soon as possible at help@legalvision.com.au. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding about you is inaccurate, out of date, incomplete, irrelevant or misleading, please email us as soon as possible at help@legalvision.com.au. We will respond to any request within a reasonable time and will endeavour to promptly correct any information found to be incorrect so that the information is accurate, up to date, complete, relevant and not misleading.
+
+**Complaints**
+
+If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach then please email us as soon as possible at help@legalvision.com.au setting out details of the breach. We will promptly investigate your complaint and respond to you in writing within 28 days setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint. 
