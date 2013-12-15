@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617031359id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215160852id_/http%3A//www.sellmytimesharenow.com/main/index/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
