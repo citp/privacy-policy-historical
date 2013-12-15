@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501112741id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215045548id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | JustAnswer
 
-[](http://www.truste.org/ivalidate.php?url=www.justanswer.com&sealid=101)
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.justanswer.com&sealid=101)
 
 Effective February 8, 2012
 
@@ -10,7 +10,7 @@ Inherent to transacting on the Internet is the collection of some personal infor
 
 JustAnswer® is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet, by promoting the use of fair information practices. JustAnswer has elected to disclose its information practices as a sign of its commitment to privacy, as well as have its privacy practices reviewed for compliance by TRUSTe.
 
-For queries and concerns pertaining to the Site, click [HERE](http://www.justanswer.com/help/contact.aspx) to contact us. In the event your privacy-related query is not acknowledged within a reasonable time frame, or is not addressed to your satisfaction, you may contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe shall then work as a liaison to help us resolve your concerns.
+For queries and concerns pertaining to the Site, click [HERE](http://www.justanswer.com/help/contact.aspx) to contact us. In the event your privacy-related query is not acknowledged within a reasonable time frame, or is not addressed to your satisfaction, you may contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. TRUSTe shall then work as a liaison to help us resolve your concerns.
 
 **Because your privacy is important to us, JustAnswer® operates by the following principles.**
 
