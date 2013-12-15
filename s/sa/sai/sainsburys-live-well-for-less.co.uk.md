@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburys-live-well-for-less.co.uk privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614130253id_/http%3A//www.sainsburys.co.uk/sol/iw_container_page.jsp%3FpageRef%3Dsites/www/site_furniture/Site_Furniture_PP.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburys-live-well-for-less.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215234223id_/http%3A//www.sainsburys.co.uk/sol/iw_container_page.jsp%3FpageRef%3Dsites/www/site_furniture/Site_Furniture_PP.page) for the most accurate reproduction.*
 
 # Privacy policy - Sainsbury's
 
@@ -133,7 +133,7 @@ Online communities
 
 Sainsbury’s microsites
     Back to top
-    • Sainsbury’s has a number of microsites operating within the Group that are used to provide information about specific products and services and/or joint ventures. Sainsbury’s microsites include Sainsbury’s Energy, Sainsbury’s Little Ones and Sainsbury’s Tu Clothing.  
+    • Sainsbury’s has a number of microsites operating within the Group that are used to provide information about specific products and services and/or joint ventures. Sainsbury’s microsites include Sainsbury’s Energy, Sainsbury’s Little Ones, Sainsbury's Active Kids and Sainsbury’s Tu Clothing.  
 • Please note that although Sainsbury’s microsites may be Sainsbury’s branded, Sainsbury’s is not necessarily the sole registered data controller for the personal data processed on these sites. As such your use of Sainsbury’s microsites may be governed by alternative Privacy Policies and Online Terms and Conditions set out on those sites and you should check that you have read and understood these privacy policies and terms and conditions when visiting these sites. 
     
 
