@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615163511id_/http%3A//www.yoogiscloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215161552id_/http%3A//www.yoogiscloset.com/privacy-policy) for the most accurate reproduction.*
 
-# Yoogi's Closet - Privacy Policy
+# Privacy Policy
 
 Yoogi’s Closet, Inc. (" ** _Yoogi’s Closet_** ") takes the safeguarding of your security and personal information seriously. Please read the following to learn more about our Privacy Policy. If you have any questions about Yoogi’s Closet's information collection practices, email us at [privacy@yoogiscloset.com](mailto:privacy@yoogiscloset.com).
 
