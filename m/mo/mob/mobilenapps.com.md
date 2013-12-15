@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobilenapps.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615012210id_/http%3A//www.mobilenapps.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilenapps.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215191636id_/http%3A//www.mobilenapps.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Mobile & Apps
 
 1\. Non-Registered Users:  
 Certain content and tools on the www.mobilenapps.com Web site, such as news articles, pictures, graphics, stock quotes, are available to all users without registration. Mobile & Apps does not collect any personally identifiable information from you when you visit these areas of the www.mobilenapps.com Web site.
