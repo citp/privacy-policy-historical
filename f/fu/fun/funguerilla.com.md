@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funguerilla.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616015043id_/http%3A//funguerilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funguerilla.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215053854id_/http%3A//funguerilla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -Fun Guerilla - Fighting Boredom with Funny and Amazing
+# Privacy Policy - Fun Guerilla - Fighting Boredom with Funny and Amazing
 
 **Fun Guerilla** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
