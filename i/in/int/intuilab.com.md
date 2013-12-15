@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuilab.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614015205id_/http%3A//intuilab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuilab.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215013845id_/http%3A//www.intuilab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IntuiLab
 
@@ -23,6 +23,12 @@ A cookie is a small data file that certain websites write to Users’ computer�
 
 **IP Addresses**  
 When you visit IntuiLab Web sites, or launch Composer and Player, the Company collects your Internet Protocol (“IP”) addresses. Doing so enables IntuiLab 1) for the Web: to track and aggregate non-personal information, 2) for Composer/Player: to check license status and product stability. For example, IntuiLab uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s websites.
+
+###  **IntuiFace**
+
+With the Free Edition of Composer, the .ifx file - i.e. the XML-based text file used by IntuiFace to store the structure of an experience - is uploaded onto IntuiLab servers from time to time for internal use only, enabling investigation of usage statistics and product enhancement. IntuiFace never uploads media (such as videos, images, docs, etc.) referenced by the uploaded .ifx file.
+
+With the Pro and Enterprise Editions of Composer, neither the .ifx file nor related media are uploaded onto IntuiLab servers with one exception: the .ifx file will be uploaded when the user grants Composer permission to send a crash report to IntuiLab as an aid in troubleshooting.
 
 ###  **IntuiPad**
 
