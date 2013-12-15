@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616232257id_/https%3A//www.xmind.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215160835id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - XMind: Professional & Powerful Mind Mapping Software
-
-Professional & Powerful Mind Mapping Software
+# Privacy Policy - XMind: The Most Professional Mind Map Software
 
 The privacy policy of XMind, Ltd. covers the collection and use of personal data. This information may be collected any time you have interactive contact with us, such as when you buy our products and services, interact with our websites and online forums, or communicate with our sales or technical support staff. Your privacy is important to us. Our practices in handling your personal information are described in more detail below.
 
@@ -30,6 +28,9 @@ We may also ask for personal information related to your use of our products and
 ### INFORMATION THAT IS PUBLICLY AVAILABLE
 
   * When you create an account on the Site, some information about your account and your account activity will be provided to other users of the Site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), the country and the number of content items you have viewed.
+
+
+
   * Your account name (not your email address) is displayed to other users when you engage in certain activity on the Site, such as when you upload content or send messages through the Site. Other users can contact you through messages and comments.
   * You may also have some personal information that will be visible to other users on your home page(which is the public facing page for your account on the Site)[] This may include a profile picture, your name, public maps, gender, or other details.
   * If you choose to add certain features to your home page, then these features and your activity associated with these features will be displayed to other users and may be aggregated and shared with your confirmed contacts or other users. Such shared activity may include what content you favorite, what content you rated and what content you have uploaded.
@@ -67,3 +68,5 @@ If you have any comments or questions related to this privacy policy, please con
   * Skype: support.xmind
 
 
+
+Back to Top
