@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosh.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601145424id_/http%3A//sosh.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosh.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216000641id_/http%3A//sosh.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Sōsh :: San Francisco
 
@@ -42,4 +42,4 @@ This Site is not directed to children under 18. We do not knowingly collect pers
 
 ## 7\. Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@offlinelabs.com](mailto:privacy@offlinelabs.com) or at: Attn: Vivek Patel, Privacy Officer 330 Townsend Street, Suite 206 San Francisco, CA 94107
+If you have any questions about this Privacy Policy, please contact us at [privacy@offlinelabs.com](mailto:privacy@offlinelabs.com) or at: Attn: Vivek Patel, Privacy Officer 1355 Market Street Street, Suite 210 San Francisco, CA 94103
