@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616060545id_/http%3A//www.fye.com//stores/fye/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215161018id_/http%3A//www.fye.com//stores/fye/privacy-policy.jsp) for the most accurate reproduction.*
 
 # f.y.e. - Privacy Policy
 
