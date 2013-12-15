@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616112408id_/http%3A//www.au.timeout.com/sydney/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215160918id_/http%3A//www.au.timeout.com/sydney/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Time Out Sydney
 
@@ -14,10 +14,10 @@ Although we will comply with this Privacy Statement in respect of information pr
 **1\. Collecting personal information**  
 The information you provide to us is collected to enhance your use of the Site, to improve the Site, to process your competition entries, and to keep you informed of relevant upcoming events and activities. It is also collected to allow the functions and services offered on the Site to be provided to you. We will collect personal information directly from you where required, which may include your name, email address, gender and age.
 
-**2\. Cookies and Time Out**  
-We use cookies to track your use of our Site. This ensures that, for example, if you are a subscriber, you can roam freely within our subscriber-based Site without typing in a password to access each page. We do not track any of your activity as it relates to your individual movements throughout our Site, only as an aggregate of data in conjunction with users to our Site as a whole. Your movements are not tracked once you leave our Site. You should be able to configure your computer so that it disables "cookies" or does not accept them, however this may affect your ability to use all the functions contained on the Site.
+**2\. Cookies, tracking and Time Out**  
+We use cookies to track your use of our Site. This ensures that, for example, if you are a subscriber, you can roam freely within our subscriber-based Site without typing in a password to access each page. We do not track any of your activity as it relates to your individual movements throughout our Site, only as an aggregate of data in conjunction with users to our Site as a whole. You should be able to configure your computer so that it disables "cookies" or does not accept them eg as "Do not track", however this may affect your ability to use all the functions contained on the Site.
 
-Our Site uses ad servers (such as DoubleClick) to serve the advertisements that you see on pages of our Site (Advertisers). The Advertisers may use cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Advertisers please contact us (see below).  
+Our Site uses ad servers (such as DoubleClick) to serve the advertisements that you see on pages of our Site (Advertisers). The Advertisers may use cookies or your location to help target ads to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Advertisers please contact us (see below).  
 **  
 3\. Use and disclosure of information**  
 We will not disclose information that personally identifies you to any third party other than as set out in this Privacy Statement.
