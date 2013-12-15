@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhane.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615003012id_/http%3A//www.bhane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhane.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215155139id_/http%3A//www.bhane.com/privacy) for the most accurate reproduction.*
 
 # privacy | bhane
 
@@ -58,4 +58,4 @@ F88 Okhla Ind'l Area, Phase 1
 
 New Delhi, India 110019
 
-sma@bhane.com
+smasoftech@bhane.com
