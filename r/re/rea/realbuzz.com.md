@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614011832id_/http%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbuzz.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215010829id_/http%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UK, US & AU | realbuzz
 
@@ -10,7 +10,7 @@ Thank you for visiting realbuzz.com (either or both being the Website). Your pri
 
 Your use of the Website is subject to the terms of this Privacy policy and the Website’s Terms of use, so please read this Privacy policy and each Website’s Terms of use before using the Website.
 
-[realbuzz.com Terms of use](https://web.archive.org/web/20130614011832id_/terms-of-use/)  
+[realbuzz.com Terms of use](https://web.archive.org/web/20131215010829id_/terms-of-use/)  
 
 
 **Personal information**
@@ -133,4 +133,4 @@ We may update this policy at any time at our sole discretion. The Website will a
 
 **How to contact us**
 
-If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/web/20130614011832id_/contact-us/).
+If you have any questions or concerns about this Privacy policy please [contact us](https://web.archive.org/web/20131215010829id_/contact-us/).
