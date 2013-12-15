@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zello.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616123729id_/http%3A//zello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zello.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215030710id_/http%3A//zello.com/privacy) for the most accurate reproduction.*
 
-# Zello. Live conversation.
+# Zello. Live conversations.
 
 We value your privacy. This Privacy Policy applies to your usage of the software and services provided by Zello Inc ("Services"). We only collect your information in order to improve the Services and will never sell or share your information with other legal entities for commercial purposes,except in the cases when it's required as a part of the Services you requested. 
 
