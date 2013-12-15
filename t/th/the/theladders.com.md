@@ -1,88 +1,160 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623221331id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216003213id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Updated February 17, 2013**
+**Updated July 21, 2013**
 
-This "Privacy Policy" is part of the Terms of Use <http://www.theladders.com/theladders-terms-use> for TheLadders.com and its associated websites (collectively, the "Website"). This Privacy Policy covers the Website and is designed to assist You in understanding how we will use the information You provide when You use the Website, as well as how we will use other information that we collect based on that use. By using the Website, You consent to the information collection and use practices described in this Privacy Policy. 
+This Privacy Policy describes the how TheLadders.com, Inc. (" **TheLadders** ") collects, uses and discloses the Personal Information we collect about you when you use TheLadders website (the " **Site** ") or mobile application (the " **App** ") and the services available through each (the " **Services** "). 
 
-If You have questions or concerns regarding this Privacy Policy, You should contact us at [help@theladders.com](mailto:help@theladders.com) or at 137 Varick Street, 8th Floor, New York, NY 10013, ATTN: Legal. 
+By using the Site, the App or the Services, you consent to the information collection and use practices described in this Privacy Policy. Your use of our Site, App or Services, and any dispute over privacy, is subject to this Privacy Policy and our Terms of Use, including its applicable limitations on damages and the resolution of disputes. Please read this Privacy Policy to learn more about the ways in which we collect, use and protect your Personal Information. 
 
-"Personal Information" means information that would allow a third party to learn your identity or contact You, including, for example, Your full name, address, telephone number, or email address. 
+For the purposes of this Privacy Policy, **"Personal Information"** means information that would allow a third party to learn your identity or contact you, including, for example, your full name, address, telephone number, email address, or credit card number. 
 
-Please read this Privacy Policy to learn more about the ways in which we collect, use and protect Your Personal Information. If we make any material changes to this Privacy Policy, we will notify You in accordance with the process described in the Terms of Use. 
+Information We Collect
 
-**Disclosure of Personal Information**
+How We Use The Information We Collect
 
-We do not sell or rent Your Personal Information to third parties for the purposes of marketing the products or services provided by those third parties to You. We use other third parties to provide Web analytics on our site. When You sign up for TheLadders.com, we will share aggregate click data as necessary for the third party to provide that service. Although we may disclose aggregated information about the use of our Website, that information does not contain Personal Information. We may share Personal Information with our contractors and service providers solely for the purpose of maintaining, enhancing, or adding to the functionality of the Website. In the case of criminal investigations, including but not limited to fraud or alleged illegal activity, we may share Your Personal Information with law enforcement, government, and/or credit card issuing banks. 
+Disclosure of Personal Information
 
-In accordance with California Civil Code Section 1798.83, we will not provide Your Personal Information to third parties for their marketing purposes. California residents may request further information about our compliance with this law by emailing [CaliforniaPrivacy@theladders.com](mailto:CaliforniaPrivacy@theladders.com). Please note that we are only required to respond to one request per customer per year and we are not required to respond to requests made by means other than through this email address.
+Use of "Cookies" and Other Tracking Technologies.
 
-As TheLadders.com continues to develop its business, TheLadders.com might sell or buy lines of business or assets. If all or substantially all of TheLadders.com's business (or a line of business) or assets (or the assets of a line of TheLadders.com's business) are acquired by a third party, Personal Information of TheLadders.com users will generally be one of the transferred business assets. We reserve the right to include Your collected Personal Information and other information we collect as described herein as an asset in any such transfer to a third party. 
+Third-Party Ad Networks
 
-**Information We Collect and How We Use That Information**
+Customer Reviews and User Generated Content
 
-Our basic registration forms require Users to provide contact information, including name, email address, zip code, and income information. We use this information to contact You about the services on our Website in which You have expressed interest or about enhancements or changes to the Website. Should You choose to purchase services, Your credit card information will be stored. We use your credit card information for billing purposes only. If we have trouble processing Your order, we will use Your contact information to contact You. We also use Personal Information to provide You with targeted job information. 
+How To Access and Update Your Personal Information
 
-Your credit card information will be kept completely private.
+Newsletters and Communications from Us
 
-When you post a resume or create a profile, all information posted will be visible and available for download to recruiters, hiring managers and companies seeking employees. All recruiters and hiring managers are believed by TheLadders.com to be legitimately seeking applicants for available positions. Recruiters and hiring managers may share your resume with other recruiters or hiring managers. 
+Tell-A-Friend
 
-In Your use of the Website or TheLadders' mobile application, we also store such information as jobs You've applied to, jobs You've viewed, Your resume, and similar information. We track clickstream data to monitor utilization and to improve customer experience. Certain anonymous information such as title, educational institution, years of experience, areas of expertise and jobs you've applied to may be disclosed in statistics provided to jobseekers through Website features or TheLadders's mobile application, but your name and contact information will not be disclosed through such features. 
+Security
 
-We use other third parties to provide credit card processing services on our Website. When You sign up for Premium membership, we will only process Your full payment information including credit cards through a third party payment processor that is Payment Card Industry Data Security Standard (PCI DSS) compliant <https://www.pcisecuritystandards.org/security_standards/>. 
+Third Party Websites
 
-We post customer reviews on our Website, which may contain Personal Information such as the customer's name. We obtain the customer's consent prior to posting the review to post their name along with their review. 
+Changes to this Privacy Policy
 
-If Your Personal Information changes, or if You wish to cancel your account, You may correct, update, or deactivate it by making the change on our member information page or by emailing our Customer Support at [help@theladders.com](mailto:help@theladders.com). 
+Contact Us
 
-We will retain and use your information as set forth herein and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+### Information We Collect
 
-**Newsletters**
+We may collect information about you directly from you and from third party sources, as well as automatically through your use of our Site, App and Services.
 
-If You wish to subscribe to our email communications, we will use Your name and email address to send the newsletter to You. We provide You with a way to way to unsubscribe. Please see the "Choice/Opt-out" section.
+Information We Collect Directly From Jobseekers. We collect information from you when you register for or use our Services including: name, email address, photograph, zip code, current or past employers, dates of employment and income information as well as other information that you submit as part of your profile or that may be useful in helping us to match you with job opportunities. 
 
-**Choice/Opt-out**
+Information We Collect Directly From Recruiters or Employers. We collect information from you when you register for or use our Services, including name, email address, photograph, zip code, company name, as well as other information that you submit as part of your profile or job posting that may be useful in helping us to match you with candidates for your available jobs.
 
-When You register for our Website, we use Your email address to send You internal communications from TheLadders.com. If You've registered to receive email communications from us and later change Your mind, You may contact us to have Your name removed from our distribution lists. You may opt-out of any of our communications by changing Your Account Settings. Please go to Account Settings and indicate from which distribution lists You would like to have Your name removed. 
+Payment Information. If you make a purchase (e.g., subscribe to our Se'rvices), we will collect and store your credit card number and other payment information, which we will use only to process your payments. 
 
-**Internet Protocol Address**
+Other Information About Your Use. We also collect and store information about your use of the Site, App and Services, such as jobs you've applied to, jobs you've viewed, the resumes you've posted, and similar information. 
 
-Like most websites, we collect Internet Protocol ("IP") address from all visitors to the Website. An IP address is a number that is automatically assigned to Your computer when You use the Internet. We use IP addresses to help diagnose problems with our server, administer our Website, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Website, and deliver customized, personalized content. 
+Information We Collect From Other Sources. We may also collect information about you from other publicly available sources, which we may combine with the other Personal Information we have collected about you.
 
-**Tell-A-Friend**
+Information We Collect Automatically. We track clickstream data and other data to monitor utilization and to improve customer experience. We use this information to help diagnose problems with our server, administer our Site and App, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Site, App, and our Services, and to deliver customized, personalized content. We also may use your location information to customize information that we provide to you. We may use this information in the aggregate. We also may combine this information with Personal Information that we have collected about you.
 
-If You choose to use our referral service to tell a friend about our site, we will ask You for Your friend's name and email address. We will automatically send Your friend a one-time email inviting him or her to visit the site. TheLadders.com stores this information for the sole purpose of sending this one-time email, tracking the success of our referral program, and following up with additional information if the friend has opted-in.
+  * Site Data. We automatically collect the following information about your use of our Site through cookies, web beacons, and other technologies: your domain name; browser type and operating system; web pages you view; links you click; your IP address; the length of time you visit our Site and use our Services; the referring URL, or the website that led you to our Site. 
+  * App Data. If you download our App, we will collect your location information (if you grant us permission); your time and actions in our App; and from where you downloaded our App. 
 
-Your friend may contact us at [help@theladders.com](mailto:help@theladders.com) to request that we remove this information from our database.
+  
 
-**Use of "Cookies"**
 
-Like most websites, we may use cookies to enhance Your experience on our Website. Cookies are pieces of information that some websites transfer to the computer that is browsing that website and are used for record-keeping purposes. Use of cookies makes web-surfing easier by performing certain functions such as saving Your passwords and Your personal preferences regarding Your use of the particular website. We do link the information we store in cookies to any Personal Information You enter into Your account settings on the Website. This link is only used internally for Website usage tracking and for re-marketing TheLadders' product and services to you.
+### How We Use The Information We Collect
 
-As the use of cookies is considered industry standard, Your browser is probably set to accept cookies. However, if You would prefer not to receive cookies, You can alter the configuration of Your browser to refuse cookies. If You choose to have Your browser refuse cookies, our Website will not function properly.
+We retain and use the information we collect about you for the following reasons: 
 
-Our third party advertising partner(s) employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers' personally identifiable information. This information is used by TheLadders for internal use only and is not sold or rented to third parties for purposes of marketing the products or services provided by those third parties.
+  * To provide our Services to you, to communicate with you about your use of our Services, to respond to your inquiries, to fulfill your orders, process your payments and for other customer service purposes. 
+  * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site, App or Services. 
+  * To understand how users access and use our Site, App and Services, both on an aggregated and individualized basis, in order to improve our Site, App and Services and respond to user desires and preferences. 
+  * To personalize content and recommendations, and to send marketing and other promotional information, including information about jobs and other products and services in which we think you may be interested. 
+  * As necessary to comply with our legal obligations, resolve disputes, enforce our agreements (including this Privacy Policy and the Terms of Use), to protect or defend our rights, to investigate, prevent, or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the safety of any person. 
+  * We may also use aggregate or de-identified information about users for other marketing, research and other purposes. 
 
-**Security**
+  
 
-TheLadders.com has implemented and follows industry standard measures to protect against unauthorized access to and unlawful interception or processing of Personal Information. Unfortunately, no data transmission over the Internet is 100% secure. While we strive to protect Your Personal Information, we cannot ensure or warranty the security of any such Personal Information.
 
-**Other Web sites**
+### Disclosure of Personal Information
 
-Our Website contains links to other websites. Please note that when You click on one of these links, You are entering another website over which TheLadders.com has no control and will bear no responsibility. Often these websites require You to enter Your Personal Information as You apply for a job directly with the hiring company. We encourage You to read the privacy statements on all such websites as their policies may differ from ours.
+We do not sell or rent your Personal Information to third parties so that those third parties can market their own products or services to you. We may, however, disclose the information we collect about you, including your Personal Information, as follows:
 
-**Legal Disclaimer**
+  * Information Disclosed to Recruiters. If you post a resume or create a profile, all information posted will be visible and available for download to recruiters, hiring managers and companies seeking employees. If you "like" a job on our Site or App we will share your name, contact information and other relevant information with the recruiter or hiring manager for the job you have applied to or chosen to "like." All recruiters and hiring managers are believed by us to be legitimately seeking applicants for available positions; however, we are not liable for the actions of these recruiters or hiring managers and their use of your information is not subject to this Privacy Policy. Recruiters and hiring managers may share your profile and/or resume with others in connection with their search for candidates for available positions. 
+  * Information Disclosed to Jobseekers. If you are a recruiter or employer and you have created a profile or job posting, all information that you post will be visible to jobseekers seeking job opportunities. All jobseekers are believed by us to be legitimately seeking job opportunities, however, we are not liable for the actions of these jobseekers and their use of your information is not subject to this Privacy Policy. 
+  * Affiliates. We may share the information we collect about you with our subsidiaries or affiliated companies, and their use of your Personal Information will be subject to this Privacy Policy. 
+  * Service Providers. We may share Personal Information with our contractors and service providers who perform functions on our behalf. For example, we use third parties to provide credit card processing services on our Site, and we will disclose your credit card and billing information to such third parties so that they may process your payment on our behalf. 
+  * Legal Process. We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a subpoena. 
+  * To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which Company is involved. 
+  * Business Transfers. If we are acquired by or merged with another company, if all or substantially all of our business (or a line of business) or assets (or the assets of a line of our business) are acquired by a third party, Personal Information of TheLadders.com users will generally be one of the transferred business assets. We also may transfer your Personal Information in the event of a bankruptcy or reorganization. 
+  * De-identified Information We Share with Other Job Seekers. We may share certain anonymous or de-identified information about you-such as your job title, educational history, years of experience, areas of expertise, salary range and other jobs you have applied to-with other job seekers, but your name and contact information will not be disclosed in such instances. 
+  * Aggregate Information. We may also share other aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes. 
 
-We may disclose Your Personal Information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with legal process served on TheLadders.com.
+  
 
-As such, we cannot ensure that Your Personal Information will not be disclosed to third parties. For example, we may be legally obligated to disclose information to the government or third parties under certain circumstances, or third parties may circumvent our security measures to unlawfully intercept or access transmissions or private communications.
 
-HISTORICAL MODIFICATIONS:  
----  
-Date | Description of Material Modification  
-02/17/13 | Use and disclosure of information collected for statistical features on the Website  
-08/12/11 | Retention of information in "Information We Collect" section  
-11/19/09 | Addition of California Privacy Rights provision  
-11/19/09 | Notice of re-marketing of TheLadders' products & services to Use  
-11/19/09 | Notice of use of third party web beacons for internal use only
+### Use of "Cookies" and Other Tracking Technologies.
+
+We use cookies and other tracking technologies (including technologies designed specifically for mobile applications) to collect information about you and about your use of our Site, App and Services. We may combine this information with other personal information we collect from you. We use this information to enhance and personalize your experience while using of Site, App and Services, to track user activities in order to understand how users use our Services, and to improve our Site, App and Services.
+
+Cookies. Cookies are pieces of information that some websites transfer to your computer, through your web browser, for record-keeping purposes. Use of cookies makes web-surfing easier by performing certain functions such as saving your passwords and your preferences regarding use of the particular website. Cookies also allow us to track your activities at our Site. 
+
+Third Party Cookies. We may also engage third parties to track and analyze Site data. We use the data collected by such third parties to help us administer and improve the quality of the Site and to analyze Site usage. Such third parties may combine the information that we provide about you with other information that they have collected. This Policy does not cover such third parties' use of the data.
+
+Disabling Cookies. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The "Help" portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. If you disable cookies, however, our Site will not function properly.
+
+Clear GIFs. We and our third party service providers and third party advertising partner(s) may clear gifs (a.k.a. pixel tags/Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of website users. In contrast to cookies, which are stored on a user's computer hard drive, clear GIFs are embedded invisibly on webpages and are about the size of the period at the end of this sentence. We may use clear GIFs, in connection with our Site, to among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage. We may tie the information gathered by clear gifs to our customers' Personal Information. We and our third party service providers also use clear GIFs in HTML e-mails to our users, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded.
+
+Local Storage Objects. We may use Flash Local Storage Objects ("Flash LSOs") to store your Site preferences and to personalize your visit. Flash LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot control, delete, or disable the acceptance of Flash LSOs through your web browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go to the [Adobe Flash Player Help Page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html), choose "[Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html)" and follow the instructions. To see the Flash LSOs currently on your computer, choose "[Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)" and follow the instructions to review and, if you choose, to delete any specific Flash LSO.
+
+Third Party Analytics. We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site and, to the extent permitted, our Application. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance and user experiences. We do not share your personal information with these third parties.
+
+### Third-Party Ad Networks
+
+We use third parties such as network advertisers to display advertisements on our Sites or other websites. Network advertisers are third parties that display advertisements based on your visits to our Site as well as other websites. This enables us and these third parties to target advertisements by displaying ads for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third party's specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our services, as well as aggregate or non-personally identifiable information about visitors to our Site and users of our service. 
+
+You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: [www.networkadvertising.org/optout_nonppii.asp](https://web.archive.org/web/20131216003213id_/http%3A//www.theladders.com/www.networkadvertising.org/optout_nonppii.asp) (NAI) and [www.aboutads.info/choices](https://web.archive.org/web/20131216003213id_/http%3A//www.theladders.com/www.aboutads.info/choices) (DAA). 
+
+Opting out of one or more NAI member or DAA member networks (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you. It does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you later erase your cookies, use a different computer or change web browsers, your NAI or DAA opt-out may no longer be effective. Additional information is available on NAI's and DAA's respective websites.
+
+### Customer Reviews and User Generated Content
+
+In some instances we may select and post customer reviews on our Site and App, which may contain Personal Information such as the customer's name. We will obtain your consent to use your name, prior to posting the review. Also, in certain parts of the Site, we may invite you to post content on our Site, including your comments, pictures, and any other information that you would like to be available to other users or recruiters on our Site. If you post such content, it will be available to recruiters and other users of the Site. Your posting may also become public and TheLadders cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy. 
+
+If you would like us to remove your name, review or other content from our Site, you may contact us at [unsubscribe@theladders.com](mailto:unsubscribe@theladders.com). Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or App for a period of time.
+
+### How To Access and Update Your Personal Information
+
+If your Personal Information changes, or if you wish to cancel your account, you may do so by making the change on our member information page or by emailing our Customer Support team at [unsubscribe@theladders.com](mailto:unsubscribe@theladders.com). Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or App for a period of time.
+
+### Newsletters and Communications from Us
+
+We may send newsletters or other promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. You may also opt-out of any of our communications by changing your Account Settings. Please go to Account Settings and indicate from which distribution lists you would like to have your name removed. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.
+
+### Tell-A-Friend
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend an email inviting him or her to visit the site. TheLadders.com stores this information for the sole purpose of sending this one-time email, tracking the success of our referral program, and following up with additional information if the friend has opted-in. Your friend may contact us at [unsubscribe@theladders.com](mailto:unsubscribe@theladders.com) to request that we remove this information from our database.
+
+### Security
+
+TheLadders.com has implemented and follows reasonable security measures to protect against unauthorized access to and unlawful interception or processing of Personal Information. Unfortunately, no data transmission over the Internet is 100% secure. While we strive to protect your Personal Information, we cannot ensure or warranty the security of any such Personal Information.
+
+### Third Party Websites
+
+Our Site and App may contain links to other websites or mobile applications. Please note that when you click on one of these links, you are entering another website over which TheLadders.com has no control and will bear no responsibility. Often these websites require you to enter your Personal Information as you apply for a job directly with the hiring company. We encourage you to read the privacy statements on all such websites as their policies may differ from ours.
+
+### Changes to this Privacy Policy
+
+This Privacy Policy is current as of the Updated Date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at <http://www.theladders.com/theladders-privacy>. If we make a material modification to these this Privacy Policy, we will notify you by sending an email to the email address you have provided in your account (if any), and by other means where appropriate. 
+
+### Contact Us
+
+If you have questions or concerns regarding this Privacy Policy, you should contact us at
+
+[unsubscribe@theladders.com](mailto:unsubscribe@theladders.com) or at 137 Varick Street, 8th Floor, New York, NY 10013, ATTN: Legal. 
+
+RECENT HISTORICAL MODIFICATIONS:
+
+Date Description of Material Modification 
+
+7/14/13 Update for mobile application, general reorganization and clarification changes 
+
+02/17/13 Use and disclosure of information collected for statistical features on the Site 
+
+08/12/11 Retention of information in "Information We Collect" section
