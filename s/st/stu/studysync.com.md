@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studysync.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529113222id_/http%3A//www.studysync.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studysync.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215103520id_/http%3A//www.studysync.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StudySync
 
@@ -43,3 +43,5 @@ StudySync® constantly strives to provide the best products and services. Becaus
 ###  Contact Us about Privacy
 
 If you have any questions or concerns about this Privacy Policy or our software or website practices, please contact us at [info@studysync.com](mailto:info@studysync.com).
+
+﻿ 
