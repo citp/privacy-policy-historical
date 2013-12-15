@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techivian.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621012921id_/http%3A//techivian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techivian.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215182228id_/http%3A//techivian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techivian
 
