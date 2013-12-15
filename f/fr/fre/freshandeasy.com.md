@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshandeasy.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616055333id_/http%3A//www.freshandeasy.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshandeasy.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215052242id_/http%3A//www.freshandeasy.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Fresh & Easy Online Privacy Policy | Fresh & Easy
 
