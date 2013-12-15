@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511124707id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215215113id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@
 
 ******** | 
 
-[Home](https://web.archive.org/web/20130511124707id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20131215215113id_/http%3A//www.nanotech-now.com/) > Privacy
 
 ## Privacy Notice:
 
@@ -48,6 +48,8 @@ We use these summary statistics to help us make our site more useful to visitors
   
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
+
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)  
   
 ---  
@@ -62,6 +64,8 @@ We use these summary statistics to help us make our site more useful to visitors
 |  Full-service, expert consulting   
  [Learn More](https://web.archive.org/NanoStrategies.htm) |   
   
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
+
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
