@@ -1,86 +1,68 @@
-> *The following text is extracted and transformed from the freestufffinder.com privacy policy that was archived on 2005-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051004093249id_/http%3A//www.freestufffinder.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestufffinder.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215044104id_/http%3A//freestufffinder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy freestufffinder.com
+# Privacy Policy - Free Stuff Finder
 
-Our foremost concern is to protect your privacy and provide a safe online experience for everyone. This privacy policy concerns the information collected through the freestufffinder.com website. It is designed to help visitors understand what kind of information we collect from our sites, and how we deal with this information once we gather it.
+This Privacy Policy governs the manner in which Simple Life Media LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.freestufffinder.com](http://www.freestufffinder.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Simple Life Media LLC.
 
-The purpose behind the collection of information is to make our services easier to use and also to provide a more satisfying user experience and establish a personalized relationship with the users. We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships
+**Personal identification information**
 
-From time to time, freestufffinder.com may inform you about new products or services, which may affect this policy. We expect that this policy will be updated in the future. These updates and any other privacy conditions related to these services will be posted on this page without notification. However, the effective date of the Privacy Policy will always be posted. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**The information we collect  
-**
+**Non-personal identification information**
 
-While surfing on the net you could possibly register with one or several sites affiliated with our site, order a product or a service, express via an online posting or letter to the editor, your opinion about a subject, participate in sweepstakes or other promotions or request free stuff or simply participate in one of many online forums. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-In the process of filling these orders, or facilitating your participation, we have the right to collect information about you including your name, email address, gender, personal interests, occupation and in some cases your postal mailing address. We may also collect personal information from you through your use of survey and feedback forms and every time you email us your details.
+**Web browser cookies**
 
-Sometimes, you may submit information about a friend of yours or a member of your family like emails, names, and telephone numbers or whatever to send a greeting card or to invite this person to share information with you. 
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Following registration, we will employ a registration cookie to recognize a subscriber and his or her access privileges on our website(s). This information is also used to monitor site usage. We can also log from your browser the sites you visit, your internet service provider and your IP Address (the location of your computer on the internet.)
+**How we use collected information**
 
-**How we use the information**  
+Simple Life Media may collect and use Users personal information for the following purposes:
 
-
-Our mission is to improve our most popular services and promote the unfamiliar ones. As we aim to establish a personalized relationship with you, the information we collect about you is used to communicate with you. We can also contact you to notify you when you have won one of our contests or to express our appreciation for your registration with us.
-
-We use your email to send you newsletters, promotional offers and surveys, your address to mail gifts and sweepstakes offered to you, and your phone number to notify winners who have not responded to our e-mails.
-
-Sometimes, you provide information about other people. We use this information to send them your gifts or cards. We may as well offer them products, programs, or services. Our members, who need to verify and update their own information, may have access to it, but they cannot view other members' information.
-
-In fact, the personal information we get from our clients is meant to be analyzed in order to improve our site's design and content. We eventually can implement the statistical analyses of the user behaviour to measure his relative interest in the multiple site areas.
-
-As far as advertising is concerned, the use of information about you will help us to target banner and box advertising on the site and so to inform advertisers how many users have viewed their advertisements.
-
-Accordingly, the information you purposely provide us with will facilitate research and give anonymous direct and indirect reporting for internal and external clients. However, we may disclose personally identifiable information in response to legal process, for example, in response to a court order or to a law enforcement agency's request.
-
-We cannot guarantee that personally identifiable information that we collect about you will never be disclosed despite our appropriate measures to safeguard against unauthorized disclosures of information.  
-Occasionally, the information that we receive online will reinforce our marketing strategy about products and services that you are interested in.
-
-**Collection of information by third -party sites and sponsors  
-**
-
-Sometimes, we make use of the services of external companies like data processors who will not reveal personal details to any other organizations or to use your data for any other additional purposes
-
-From time to time, we will present the opportunity to choose offers from the third parties, which do not belong to us. Once you accept these offers, we will transfer your information to the third parties under permission. However, you must take into consideration that our privacy policies may differ from those of a third party.
-
-In addition, our users are free to send articles or links by E-mail to other parties. We cannot keep any email address of either the sender or the recipient unless you are a member of our site.
-
-**Cookies**  
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
-Cookies are a standard Internet technology that allows us to track the site's traffic. Cookies are a small files stored by the browser program on your computer's hard drive. Cookies cannot provide us your e-mail address or other personally identifiable information about you unless you register at one of our sites. By doing so, it would be possible for Cookies to identify registered users without any need to ask for registration details every time you access one of our sites. The use of cookies makes our system more efficient since we realize how to improve the content and the marketing of our site.   
-You are able to accept or refuse cookies by changing your browser settings. Our web sites can be seen even if you do choose to block the cookie function on your browser. Member area cookies are also used to define valid members, to save access to their particular member information and to improve their experience on the site. 
 
-**Links**  
+**How we protect your information**
 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Our web site may link you to other sites that have their own privacy policy that we are not responsible for. In this case, we are inviting our visitors to read carefully the privacy policy of each site, which they are linked to.
+**Sharing your personal information**
 
-**Confidentiality and security**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
+**Third party websites**
 
-In order to assure you an appropriate amount of security and to protect the information we collect from you, we are equipped with physical, electronic, and managerial procedures to safeguard and help to prevent unauthorized access, maintain data security, and correctly use the information we collect online.  
-However, although we take all the possible measures to protect our websites and all information about our clients, we want you to know that no Internet data transmission can completely be secure from access by unintended recipients. Thus, you use our site at your own risk.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Your personal information will be exposed only to employees whom we reasonably believe will be able to provide products or services for you. This is restriction is limited to their proper duty. We can not be responsible for any unlawful activity participated in by one or more of our employees.
+**Advertising**
 
- **How you can access or correct information:**  
-You have the right to review, correct or change any personal information you have provided. You may also request that we remove your name from our mailing list. However, to protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. You can also unsubscribe from any newsletters or opt out of various promotional emailing at any time you want.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Children's privacy**  
+**Google Adsense**
 
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-We do not collect personal information about children under the age of 13. However, only in some serious exceptions a 13 years old child can enter the site and registered on line but we will not contact him directly about special offers or marketing purposes.   
-In addition, if a child -under the age of 13- submits personal information without the permission of his parents to this Web site, we will automatically delete the information as soon as we discover it and do not use it for any other purpose.   
-We advise parents to control their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. They can also choose in which activities he or she would like the child to participate. 
+**Compliance with children’s online privacy protection act**
 
-**Changes to this privacy policy**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
+**Changes to this privacy policy**
 
-To maintain the highest protection for our users and to comply with a changing environment, we may, from time to time, make changes to this policy. We recommend that you should re-visit this privacy policy occasionally to learn of new privacy practices or changes to our policy.
+Simple Life Media LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**How to contact us:**  
+**Your acceptance of these terms**
 
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-It is important to us to know what visitors have to say about our services, and our policies. If you have any questions about our privacy, policy please contacts us via e-mail at privacy @ freestufffinder.com
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.freestufffinder.com/contact-us/).
+
+_This document was last updated on January 20, 2013_
