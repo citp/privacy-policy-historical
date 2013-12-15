@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616204219id_/http%3A//www.wellcomecollection.org/about-this-site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcomecollection.org privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215192858id_/http%3A//www.wellcomecollection.org/about-this-site/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Wellcome Collection
 
@@ -54,4 +54,4 @@ If you have any questions about data protection or require further information, 
 
 * * *
 
-This privacy policy covers the [Wellcome Trust website](http://www.wellcome.ac.uk/), the [Wellcome Collection website](http://www.wellcomecollection.org/), the [Wellcome Library website](http://library.wellcome.ac.uk/), the [Wellcome Images website](http://images.wellcome.ac.uk/) and the [Wellcome Collection Conference Centre website](http://www.wellcomecollectionconference.org/). Other websites linked to from these sites are not covered by this policy.
+This privacy policy covers the [Wellcome Trust website](http://www.wellcome.ac.uk/), the [Wellcome Collection website](http://www.wellcomecollection.org/), the [Wellcome Library website](http://wellcomelibrary.org/), and the [Wellcome Images website](http://images.wellcome.ac.uk/). Other websites linked to from these sites are not covered by this policy.
