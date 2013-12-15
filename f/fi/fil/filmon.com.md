@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmon.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606015505id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmon.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215150157id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
 
-# Privacy Policy WEB TV | Free web tv | Free Live Television | Live Tv Channels | VIDEO ON DEMAND | Free streaming tv | Free streaming tv channels
+# Privacy Policy Free Live Tv | Online Tv | Live Tv for Free | Film On | Best Social Tv | Battlecam
 
 ### Our privacy practices
 
