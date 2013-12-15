@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614005459id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215032730id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
 
 # » Legal
 
