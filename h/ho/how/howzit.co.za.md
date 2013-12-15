@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howzit.co.za privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613040829id_/http%3A//howzit.co.za/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howzit.co.za privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215155215id_/http%3A//www.howzit.co.za/policy) for the most accurate reproduction.*
 
 # Howzit! Free advertising Classifieds and Website Directory
 
