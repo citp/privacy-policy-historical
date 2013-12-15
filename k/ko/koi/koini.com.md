@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koini.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404050304id_/http%3A//www.koini.com%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koini.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215174629id_/http%3A//www.koini.com%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Koini
 
@@ -18,7 +18,7 @@ This Privacy Policy applies only to personally identifiable information ("PII") 
 
 (a) your first and last name; (b) a home or other physical address for you (including street name and name of a city or town); (c) your e-mail address or other online contact information, including, without limitation, an instant messaging user identifier or a screen name that reveals an individual's e-mail address or other PII; (d) your or telephone number; (e) your or Social Security number; (f) a persistent identifier (such as a customer number) relating to you held in a "cookie" (explained in more detail below) where such identifier is associated with PII; (g) a combination of your last name or a photograph with other information such that the combination permits physical or online contacting; or (h) non-personally identifiable information ("NPI") concerning you that we collect online when it is combined with your PII. 
 
-For the purpose of this Agreement, NPI might include certain data that does not by itself individually identify you for example, web usage information (e.g., browser type) and demographic information (e.g., age range, gender, certain preferences, etc.). 
+For the purpose of this Agreement, NPI might include certain data that does not by itself individually identify you ? for example, web usage information (e.g., browser type) and demographic information (e.g., age range, gender, certain preferences, etc.). 
 
 When we refer to "aggregate information" in this Privacy Policy, we mean NPI about you that is combined with other individuals information for statistical evaluation. 
 
@@ -36,7 +36,7 @@ B. What information we do collect
 
 In order to access services and community features offered by Our Websites, you must first register with us and create an account. When you register, we will ask you for certain of your PII including, without limitation, your full name, mailing address, e-mail address, phone number, birth date and credit card number and/or other payment information. As part of the registration process, we may also ask you for certain NPI, including, without limitation, your communication and marketing preferences. 
 
-If you have signed up via KoiniSecure.com and wish to add your children to Koini we will also ask for PII about the children you wish to have listed on your account, including, without limitation, their full name, and certain NPI, such as their age and gender in order to better personalize our service. 
+If you have signed up via koinisecure.com and wish to add your children to Koini we will also ask for PII about the children you wish to have listed on your account, including, without limitation, their full name, and certain NPI, such as their age and gender in order to better personalize our service. 
 
 At the time you register your children for an account with us, you will need to create a user name and password for each child. PLEASE DO NOT USE ANY PII IN OR AS YOUR CHILDREN'S USER NAMES AS THIS INFORMATION WILL BE VISIBLE TO OTHERS ON OUR WEBSITES. 
 
@@ -114,7 +114,7 @@ You can review and edit your Registration Data at any time by visiting your acco
 
 You can review and edit your marketing preferences at any time by visiting your notifications dashboard . 
 
-You can request deactivation of your account with us via the Koini dashboard or remove a child from your account by visiting your KoiniSecure.com account dashboard. If you ask us to delete yours or one of your children's accounts, it will be deactivated. We may, however, store your or your children's PII for a certain period of time prior to deletion in order to discourage fraudulent activity. 
+You can request deactivation of your account with us via the Koini dashboard or remove a child from your account by visiting your koinisecure.com account dashboard. If you ask us to delete yours or one of your children's accounts, it will be deactivated. We may, however, store your or your children's PII for a certain period of time prior to deletion in order to discourage fraudulent activity. 
 
 Please note that any information that we have copied, including your Registration Data, may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. Data in back-up storage cannot be retrieved in the ordinary course of business. 
 
@@ -134,7 +134,7 @@ PLEASE KEEP IN MIND THAT NO METHOD OF TRANSMISSION OVER THE INTERNET, OR METHOD 
 
 VII. Children's Privacy Through Koini.com 
 
-Enabling parents to understand and control the scope of their children's activities on the Internet is why we created Koini.com and the parental control platforms associated with it. Your account dashboard on KoiniSecure.com is where you can create, review, update or delete your children's profiles, review and approve friends they can communicate with and the websites they will be permitted to visit (if you utilise the free Koini Browser). 
+Enabling parents to understand and control the scope of their children's activities on the Internet is why we created Koini.com and the parental control platforms associated with it. Your account dashboard on koinisecure.com is where you can create, review, update or delete your children's profiles, review and approve friends they can communicate with and the websites they will be permitted to visit (if you utilise the free Koini Browser). 
 
 Social networking websites typically encourage a great deal of personal information to be shared and exchanged so it is important that parents and children understand the risks inherent in sharing this information online. We encourage parents to learn about and to discuss online safety with their children and to advise them never to share their PII online in screen names, blogs, on message boards, in IM, chat rooms or otherwise. 
 
