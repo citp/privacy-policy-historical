@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ukti.gov.uk privacy policy that was archived on 2013-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625203818id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ukti.gov.uk privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215103431id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<title>Privacy and Cookies</title>
@@ -10,6 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <meta name="google-site-verification" content="A8XJXDuw96Wu_UOrFq0C08X-u7-k-Z9TZ1RTqreVuOw">
 <meta name="msvalidate.01" content="F0B33AEEF5C783C44DEA698CA38D030D">
+<meta name="description" content="UK Trade &amp; Investment (UKTI) helps UK-based exporters succeed globally and assists overseas companies to bring high quality investment to the UK">
 <link type="text/css" rel="stylesheet" href="/styles/main.css">
 <link type="text/css" href="/styles/jquery-ui-1.7.2.custom.css" rel="Stylesheet">
 <link type="text/css" href="/styles/contrast.css" rel="alternative stylesheet" title="contrast" disabled="">
@@ -254,51 +255,7 @@ document.write('<iframe style="position:absolute; visibility:hidden; width:1px; 
 
 
 
-    <div id="surveyBanner" style="display: block;">
-        <p><b></b> <br>
-         <br>
-        <a href="">Proceed to survey</a> - <a href="javascript:setSurveyCookie();hideSurveyBanner()">No thank you</a></p>
-    </div>
-
-    <script language="JavaScript" type="text/javascript">
-        function setSurveyCookie() {
-            expiryDate = new Date();
-            expiryDate.setTime(expiryDate.getTime() + 30 * 24 * 60 * 60 * 1000);
-            document.cookie = 'seen_survey_message=true; expires' + expiryDate.toGMTString() + '; path=/';
-        }
-
-        function getSurveyCookie() {
-            if (document.cookie.length > 0) {
-                c_start = document.cookie.indexOf('seen_survey_message=')
-                if (c_start != -1)
-                    return "true"
-            }
-            
-            return "";
-        }
-
-        function checkSurveyCookie(){
-            var cookieFound = getSurveyCookie();
-            if(cookieFound != null && cookieFound == "true"){
-                hideSurveyBanner();
-            }else{
-                showSurveyBanner();
-            }
-        }
-        
-        function hideSurveyBanner(){
-            var ele = document.getElementById("surveyBanner");
-            ele.style.display = "none";
-        }
-        
-        function showSurveyBanner() {
-            var ele = document.getElementById("surveyBanner");
-            ele.style.display = "block";
-        }
-
-        checkSurveyCookie();
-    </script>
-    <div id="cookieBanner" style="display: block;">
+    <div id="cookieBanner" style="display: none;">
         <p>UKTI uses cookies so we can deliver services through the website. Please read our <a href="http://www.ukti.gov.uk/uktihome/privacypolicy.html">'Cookie Policy'</a> to find out more.</p>
     </div>
 
@@ -577,8 +534,6 @@ You Are Here :
         </li>
     </ul>
 
-        <span class="seperator"> </span>
-        <span><a href="/uktihome/item/email/110347.html" class="email_this" title="Email This">Email this</a></span>
 		<span class="seperator"> </span>
         <span><a href="/uktihome/item/print/110347.html" class="print_this" target="_blank" title="Print This">Print this</a></span>
 	</div>
