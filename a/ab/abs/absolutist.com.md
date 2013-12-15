@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614015213id_/http%3A//absolutist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215040428id_/http%3A//absolutist.com/privacy.html) for the most accurate reproduction.*
 
 # Absolutist Privacy Policy
 
