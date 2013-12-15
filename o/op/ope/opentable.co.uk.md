@@ -1,140 +1,105 @@
-> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621124555id_/http%3A//www.toptable.co.uk/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215175355id_/http%3A//www.toptable.co.uk/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # toptable privacy policy | toptable
 
-##  Effective June, 2012
+##  **Last Updated: November 7, 2013**
 
-OpenTable International Limited, along with its parent company, subsidiaries or other affiliated companies ("toptable"), is committed to safeguarding your privacy. This Privacy Policy describes toptable's policies and procedures on the collection, use and disclosure of the information collected through [http://toptable.co.uk](https://web.archive.org/), mobile applications owned or operated solely by toptable (hereinafter referred to collectively as the "toptable Websites").
+This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by OpenTable International Limited ("toptable" or "We"). This Policy applies to consumer users of toptable’s websites, applications and other online services (collectively, "Sites").
 
-###  About the toptable Network
+Restaurants you reserve through toptable and social networking services you may choose to use with toptable may also collect, use and share information about you. toptable’s policy does not cover these or any other third parties or their services. For information about third-party privacy practices, please consult with them directly.
 
-Each of the restaurants listed on the toptable Websites has adopted toptable's proprietary Electronic Reservation System ("the toptable System") to replace their traditional pen-and-paper reservation books. The toptable Websites interact with restaurants' toptable Systems to find available tables, to secure, change or cancel online reservations, and to confirm that reservations were honoured. While an individual restaurant's table inventory is accessible to the toptable Websites to perform these functions, other diner information that may be stored by that restaurant (for example, credit card numbers or reminders about diner preferences) is not accessible to the toptable Websites. Similarly, the toptable Websites pass pertinent information to the toptable System in individual restaurants as required to secure or cancel online reservations, for example. However, individual restaurants cannot access any information from the toptable Websites. In some instances a restaurant may operate its own website and collect a myriad of diner/user information directly as part of the online reservation process. In those cases, only the information passed directly to the toptable Website to complete the transaction is stored by the toptable Website (e.g. diner name, phone and email address).
+**INFORMATION WE COLLECT**
 
-An online reservation may also be made through a restaurant's website or via a toptable affiliate's web link. Similarly, your personal information is passed through from these sites onto the toptable System. If you choose to make a reservation through these channels, you may not be entitled to receive dining points or other benefits as you would as a Registered User through the toptable Website.
+We collect information about you in various ways when you use our Sites. We use this information to, among other things, provide the functionality and improve the quality of the Sites, and personalize your experience. For example, we may collect your name, email address, postal address, phone number, billing information, survey responses, demographics, primary dining city, current and prior restaurant reservation details, contact information of friends you invite, favorite restaurants, special restaurant requests, password and other information you choose to provide to us on our Sites. If you use our mobile application, in addition to the above, we may also collect your mobile device ID, your precise location data and the locations you select. For certain services on our Sites, a credit card number may be required. We may also obtain information from other sources, such as third-party sites, applications and services (each, a “Third-Party Platform”) through which you connect with us, and combine that with information we collect on our Sites. 
 
-This document describes how toptable Website user information is collected, stored, used and, in specific instances, shared with restaurants via their toptable System.
+When you visit our Sites, some information is automatically collected. For example, when you visit our Sites your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our site are logged automatically. We also collect information about your usage and activity on our Sites.
 
-###  Information you will be asked to provide when using the toptable Websites
+**Cookies.   **We, and third parties with whom we partner, may use cookies, web beacons, local shared objects (sometimes called “flash cookies”), and similar similar technology in connection with your use of the Site (“Cookies”). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Among other things, cookies help us improve our Sites and your experience. For example, we use cookies to see whether you are logged in, which areas and features are popular and to count visits to our Sites. Cookies may also transmit information about you and your use of the Site, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. We may access information contained in cookies placed on your device by a Third-Party Platform as permitted by the terms of your agreement and privacy settings with such Third-Party Platform. We may share this information with the Third-Party Platform for their use as permitted by the terms of your agreement and privacy settings with such Third-Party Platform.
 
-There are two ways you can make restaurant reservations online using the toptable Websites.
+**HOW WE USE INFORMATION WE COLLECT**
 
-####  Unregistered Users:
+We use personal information collected through our Sites for purposes described in this Policy or disclosed to you on our Sites or in connection with our services. For example, we may use your information to:
 
-As an **Unregistered User** , you will be asked to provide a name and a telephone number in order to complete the reservation, as you usually would be when making a reservation over the phone. In addition, you will be asked to provide an email address to which toptable will send automated service messages pertaining to your reservation. toptable will use this email address for no other purpose unless you have consented to receive marketing communications from either toptable or from restaurants at which you've made online reservations. Unregistered Users cannot earn toptable Dining Rewards points or save their dining preferences for future visits.
+  * make and change your reservations;
+  * offer you, or provide you with, products and services, such as dining gift certificates;
+  * operate and improve our Sites, products and services;
+  * understand you and your preferences to enhance, personalize and customize your experience and enjoyment using our Sites, products and services, such as understanding your dining history to make recommendations about other restaurants you may like;
+  * process and deliver contest entries and rewards;
+  * display relevant advertising;
+  * respond to your comments and questions and provide customer service;
+  * send you related information, including confirmations, invoices, SMS messages, technical notices, updates, security alerts and support and administrative messages;
+  * communicate with you and send you marketing information about new contests, offers, promotions, rewards, upcoming events and other news about services offered by toptable, our subsidiaries and affiliates, select restaurants and our other selected partners;
+  * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service; and
+  * protect, investigate and deter against fraudulent, unauthorized or illegal activity.
 
-####  Registered Users:
 
-If you choose to register with toptable (become a **Registered User** ) in order to take advantage of toptable's Dining Rewards programme and other benefits, you will be asked to provide a name, a telephone number, an email address, a password of your choice and your primary dining city and/or postcode. You may choose not to receive marketing communications from toptable or from the restaurant at which you've made an online reservation, other than automated service messages pertaining to your reservation.
 
-For select restaurants and/or holidays, a valid credit card number may be required to secure a reservation through the toptable Websites. In either case the credit card information will be shared with the restaurant at which the reservation is being made, just as would occur with a phone reservation requiring credit card information. All credit card information is encrypted during transmission and stored by a trusted third party. The third party credit card vendor is prohibited from using this information for any purpose other than storing the credit card.
+toptable may transfer, store and process your personal information in the United States and other countries that may provide for different data protection rules than the country in which you reside. By using the Site or submitting your personal information you consent to the transfer of your personal information to countries outside the European Economic Area. For information about how we protect your information in the United States, please see details about our Safe Harbor Program below.
 
-Users should understand that all information shared during the registration and reservation processes is encrypted during transmission. Such information is stored on secure servers that are located in the United Kingdom and/or the United States. The United Kingdom and the United States may have data protection laws that are not consistent with those of other countries or each other. If toptable transfers your information outside of your host country, toptable will take steps to ensure that your privacy rights continue to be protected.
+**HOW WE SHARE INFORMATION**
 
-###  Information accessible to restaurants
+**Information Shared With Restaurants**
 
-When you make a restaurant reservation using the toptable Websites, your name and telephone number are provided to that restaurant, just as would occur if you were making a reservation over the phone. Your email address is not provided to that restaurant unless you specifically indicate that you are interested in receiving emails from that restaurant. You also have the option of providing special preferences or comments regarding your reservation, which toptable will pass on to that restaurant.
+When you make a reservation through our Sites, your information is provided to us and to the restaurants with whom you choose to reserve.  In order to facilitate your reservation, your information is provided to that restaurant, just as it would if you made a reservation over the phone, by email to the restaurant or on the restaurant’s website. If you provide a mobile phone number, restaurants may send you text messages regarding your reservation. Some restaurants also require you to provide a credit card number to secure your reservation.  We may also share with the restaurants additional information such as information about your dining preferences and history, or information that we collect via Third-Party Platforms.  You also have the option of making special preferences or comments about your reservation that toptable will pass on to that restaurant.
 
-toptable will only share the information specified above with the restaurant at which you have made reservations using the toptable Websites. Restaurants cannot use their toptable System to access information pertaining to diners or dining histories from other restaurants, with the exception that restaurants under the same corporate ownership may elect to share diner information between restaurant properties.
+We may share with restaurants summary reports of feedback from recent diners. If you provide comments about a restaurant, these will be shared with that restaurant. We will not tie your comments with other information that can identify you, but a restaurant may be able to tell who you are from your comments, particularly, if you give your name in the comments or provide contact information such as an email address.
 
-Restaurants may receive summary reports of feedback from recent diners. If you provide comments about a restaurant (via the Dining Feedback Form, described below) these will be shared with that restaurant anonymously. However there is the potential that a restaurant may associate a particular feedback with your dining reservation. You may choose not to be anonymous while submitting your comments if you specify your identity or provide contact information such as an email address for the restaurant to use in response to your feedback.
+Information you choose to share with a restaurant when you make a reservation may be used by the restaurant for their own purposes. toptable does not control the privacy practices of restaurants. Please contact the restaurant directly if you want to learn about their privacy practices. 
 
-###  Email from toptable
+**Information You Share Socially**
 
-toptable sends automated service messages pertaining to upcoming or recent restaurant reservations, such as confirmations, reminders, and/or invitations to provide diner feedback. While you cannot unsubscribe from all service messages, you may select not to receive future diner feedback invitation emails by following the "unsubscribe" instructions provided.
+Our Sites may allow you to connect and share your actions, comments, content, and information publicly or with friends. We may also allow you to connect with us, share on and use Third-Party Platforms, including those on which toptable has a presence.  
 
-Where you have consented to receive marketing communications from toptable, you may from time to time receive communications relating to special offers and/or toptable dining recommendations. You may unsubscribe from the toptable email list at any time by following the directions provided in the email communications, by replying to the marketing communications with "Unsubscribe" in the subject line, or by visiting your Profile page and choosing to opt out from receiving marketing communications.
+Please be mindful of your own privacy needs and the privacy needs of others as you choose whom to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. toptable also does not control the privacy practices of Third-Party Platforms. Please contact those sites and services directly if you want to learn about their privacy practices.
 
-###  Email from restaurants
+**Sharing with Others**
 
-You may also consent to receive marketing communications from the restaurant at which you've made a reservation. toptable plays no role in the content, frequency, timing or unsubscription process of any restaurant's marketing communications. If you would like to unsubscribe from a restauran's marketing communications, please contact the appropriate restaurant directly.
+We do not share your personal information with third parties other than as described above and as follows:
 
-###  Mobile
+·         We may share personal information when you agree to our sharing of your information with other third parties (such as the restaurants at which you make reservations) for their own marketing purposes subject to their separate privacy policies.
 
-When you visit or use the toptable Websites on a mobile device, toptable may collect information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services and information, as well as to produce aggregate statistical data for the improvement of services offered by the toptable Websites. We outsource some of our technical, tracking and reporting functions, and other services to third parties. We may share information from or about you with them so that they can perform their services. Most mobile devices allow you to turn off location services. For more information about how to do this, please contact your mobile service carrier or your device manufacturer.
+·         We may share personal information with affiliates, third-party vendors, consultants and other service providers who work for us.
 
-###  Social media
+·         We may share aggregate statistical data for the improvement of services offered by the toptable Sites.
 
-You can choose to access certain third party social media web sites and services through the toptable Websites. When you do so, you are sharing information with those sites, and the information you share will be governed by their privacy policies. You can modify your privacy settings with those third parties directly. toptable does not control the privacy policies of such third parties and assumes no responsibility or liability for the actions of such third parties.
+·         We also use the services of third parties to provide us with services such as data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement.
 
-###  Purposes of use of your personal information
+·         We may disclose your personal information to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of toptable our agents, customers, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of toptable, its customers, or any person.
 
-toptable may use your personal information for the following purposes:
+·         We may sell, transfer, divest, or disclose all or a portion of our business or assets to another company in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding.
 
-  1. to secure your reservation at the toptable restaurant you've selected, by providing your name and contact phone number to that restaurant
-  2. to provide you with products and services of the toptable Websites
-  3. to provide you with information about the services of the toptable Websites
-  4. to provide services which Registered Users are entitled to under applicable terms and conditions
-  5. to produce aggregate statistical data for the improvement of services offered by the toptable Websites
-  6. to provide you with restaurant recommendations based on your dining history
-  7. for any other purposes related to those above
+We may also share aggregated or de-identified information with third parties in our discretion.
 
+**SECURITY OF YOUR PERSONAL INFORMATION**
 
+toptable takes reasonable steps to help protect your personal information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration and destruction.
 
-###  Viewing your profile and changing your personal information
+**YOUR INFORMATION CHOICES AND CHANGES**
 
-Once a Registered User logs on to the toptable Websites, that user can view his or her personal information stored by toptable by clicking on the "My profile" link at the top of the page. In addition to being able to view your recent toptable reservation history and Dining Feedback submissions, every user may also view and change the following personal information: name, email address, password, phone number, primary dining city, birthday (if it has been provided by the user), address (if it has been provided by the user), special requests that should be forwarded to restaurants when making reservations (if they have been provided by the user), and whether that user would like to receive marketing communications from toptable. A user may also be eligible to provide and share restaurant notes and feedback for some past reservations that have been honoured. The user at any time may contact toptable to request that all personal information be deactivated.
+You may opt out of receiving marketing and promotional emails from toptable by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.  You may also send requests about your contact preferences, changes to your information including requests to opt-out of sharing your personal information with third parties to our contact information below. 
 
-###  Cookies, web beacons and logging
+**Cookie choices.   **Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.  If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites. The method for diabling cookies may vary by device and browser, but can usually be found in preferences or security settings.
 
-Log-in areas on the toptable Websites require that your browser accept cookies. A cookie is a small amount of information that is sent from a web server to your browser and stored on your computer's hard drive. toptable uses cookies to verify that you are properly signed in, to display information for your primary dining location, and to highlight your pending reservations, for example. toptable may also use cookies from time to time to measure your response to new aspects of the websites and/or emails in an effort to continually improve customer service and website usability. Please be aware that a cookie cannot spread computer viruses, retrieve any other data from your hard drive, or capture your email address.
+**Application location choices.   **Most mobile devices allow you to turn off location services. For more information about how to do this, please contact your mobile service carrier or your device manufacturer.
 
-You can erase or block cookies from your computer if you wish to do so (your internet browser help screen or manual will thoroughly explain this process), but certain toptable services, as well as parts of the website, may not work correctly or will not work at all if your browser is set not to accept cookies.
+**CONTACTING TOPTABLE**
 
-Web pages may contain electronic images (called a "single-pixel GIF" or "web beacon") that are used to count users who have visited that page, or to access certain cookies.
+You are entitled to know what personal data we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us using the contact information provided below. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you and we may also require you to provide us with appropriate identification.
 
-###  How toptable uses your personal information
+For questions about accessing, changing or deleting your personal information visit http://www.toptable.co.uk or contact customer support at 020 7299 2949.
 
-toptable will  **never  **sell, rent, loan or otherwise distribute any of your personal information (including but not limited to your name, email address, phone number or any other identifiable information about you) to any third party without your prior express written consent or except as described in this Privacy Policy.  toptable does pass certain information on to restaurants at which you make reservations as described above.  In addition, toptable also provides personal information to its affiliates or other trusted businesses or persons to process it for toptable, based on toptable’s instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+For questions or opinions on toptable's privacy policy, contact toptable via email at http://support.toptable.co.uk/app/ask/c/ or by postal mail at: toptable, Attn: Legal Department, 15 Worship Street, London EC2A 2DT United Kingdom.
 
-toptable uses aggregate data (based partly on IP addresses of website visitors) collected through its website to analyse website usability, system performance and usage trends. While this data, in its aggregate form only, may be shared with third parties with whom toptable works to analyse it, the data will only be shared under the strictest terms of confidentiality.
+**SAFE HARBOR PROGRAM**
 
-Specifically, through an association with a company named Omniture, Inc. ("Omniture"), toptable may use web beacons and the SiteCatalyst Analytics auditing software to track page views and entry and exit points to and from toptable Websites. Omniture may place and analyse the cookies on your internet browser to help determine the effectiveness of toptable advertising and marketing campaigns. The data collected will only be used in an aggregate form and will not contain any personally identifiable information, and only toptable and Omniture will have access to this aggregate data. Omniture is legally bound to toptable under strict confidentiality provisions and will never share any of this data with any third party or use this information for any other purpose not described herein. You may choose to opt-out of Omniture's analysis of your browsing behavior on the toptable Websites. To learn more about Omniture, the SiteCatalyst Analytics software or to exercise your opt-out choices, please visit <http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy>.
+toptable is a participant in the U.S.-EU Safe Harbor program and the U.S.-Swiss Safe Harbor program.  We have certified that we adhere to the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles. For more information about the Safe Harbor program and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor Web site.
 
-In addition, through an association with a company named Emailcenter, toptable uses web beacons and cookies to monitor behavior with respect to email sent by toptable to Registered Users who have opted to receive email from toptable.
+**BBB Safe Harbor Privacy Dispute Resolution**
 
-If you choose to provide feedback on your dining experience by completing a Dining Feedback Form, any feedback you provide may be shared with other diners to enhance information on the toptable Websites and/or with restaurants to let restaurants know how they are doing. Your feedback will not be publicised in a way that is attributable to you by name, email address, or any other identifiable form unless you choose to provide that information within the Dining Feedback Form itself, use functions that enable you to send your Dining Feedback Form to others, or make the information public on any portions of your registered-user Profile. However, there is the potential that a restaurant may associate a particular feedback with your dining reservation.  In addition, through an association with a company named BazaarVoice, your feedback will be processed by BazaarVoice  and your name, email address or any other identifiable form you have chosen to provide within the Dining Feedback Form will be collected by and accessible to BazaarVoice.
+In compliance with the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles, toptable commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact toptable via email at info@toptable.com or by mail at: toptable, Attn: Legal Department, 1 Montgomery Street 7th Floor, San Francisco, CA 94104.
 
-Notwithstanding anything to the contrary in this privacy policy, toptable may be required to disclose user and personal information in response to inquiries by formal law enforcement, or in cases permitted by the United States’ CAN-SPAM Act of 2003 (CAN-SPAM), the European Union's Safe Harbor Provisions ("Safe Harbor"), Japan's Personal Information Protection Act ("PIPA"), or other related privacy laws and regulations.
+toptable has further committed to refer unresolved privacy complaints under the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by toptable, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-###  How restaurants may use your personal information
+**CHANGES TO THIS POLICY**
 
-Restaurants in the toptable network primarily use diner information provided through the toptable Websites to secure the desired reservations. Additionally, as noted above, if the user has given permission to a restaurant to send email to that user's address, the restaurant may then contact the diner with special announcements or offers. If permission is not given, the user's email address will not be passed on to the restaurant.
-
-toptable restaurants want to provide you with the best possible service so that you will visit them again. One way restaurants can distinguish themselves is by recognising returning diners and recalling their special preferences. For this reason, a restaurant may use its toptable System to take note of your special requests, allergies, special occasions or other pertinent information that will help the restaurant serve you better during your next visit. If a restaurant chooses to note your preferences, that information may be typed into its toptable System manually just as a restaurant might write a note on an index card. This data belongs to the restaurant, since it is a product of that restaurant's relationship with you. toptable does not access or use this information, and it is not shared with any other toptable restaurant or third party, other than, perhaps, a restaurant under the same ownership. toptable does create back-up copies of all information stored on the toptable System for that restaurant, to assist in the restoration process in the event of data loss.
-
-As specified previously, for select restaurants and/or holidays, you may be required to provide valid credit card information that will be passed on to and handled by the restaurants individually in order to secure the reservation. Please contact the restaurant(s) directly for inquiries on how they will manage your credit card information.
-
-The restaurants within toptable's network are separate businesses from toptable. While toptable encourages them to comply with data protection requirements, toptable will not be responsible if these restaurants fail to comply with respect to your information. Any complaints or inquiries regarding use of your information by a toptable restaurant, or marketing communications from a toptable restaurant, should be addressed directly to the restaurant in question.
-
-Restaurants within the toptable network may also have their own websites. toptable is not responsible for how these restaurants may collect your personal information through their own websites. Please contact the appropriate restaurant regarding its website's privacy policy (if applicable) and how it will access or use your personal information.
-
-###  How toptable protects your registration information:
-
-toptable uses a state-of-the-art multi-layer encryption algorithm and makes its best efforts to ensure that all of your user information is secure. In addition, toptable stores all of your personal information on a secure server. toptable employs a staff that regularly maintains the security of all personal information stored, and that continually monitors and implements changes and improvements that become available in the electronic data security industry.
-
-###  Disclosure, correction, suspension of use of personal information:
-
-If you wish to have toptable disclose to you the personal information held by toptable and the means through which toptable obtained such information, or if you desire the information's correction, suspension of use, or to be informed of the purpose of use by toptable, please contact toptable (contact information is provided in the "Contacting toptable" section below). Upon receiving the request, toptable shall meet such request pursuant to the provisions of each applicable privacy regulation after it confirms that such request has been made by you personally.
-
-In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation of toptable, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us.
-
-###  Contacting toptable:
-
-####  United States and Europe
-
-For questions regarding how to access and change your personal information visit [http://www.toptable.co.uk](https://web.archive.org/) or contact customer support at 020 7299 2949.
-
-For questions or opinions on toptable's privacy policy, contact toptable via [email](http://support.toptable.co.uk/app/ask/c/) or by mail at: toptable, Attn: Legal Department, 15 Worship Street, London EC2A 2DT United Kingdom.
-
-###  Safe Harbor Program
-
-toptable is a participant in the U.S.-EU Safe Harbor programme and the U.S.-Swiss Safe Harbor programme. We have certified that we adhere to the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Pri"nciples. For more information about the Safe Harbor programme and to view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeHarbor/).
-
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
-[](http://www.export.gov/safeharbor)
-
-####  BBB Safe Harbor Privacy Dispute Resolution
-
-In compliance with the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles, toptable commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact toptable via email at [info@toptable.co.uk](mailto:info@toptable.co.uk) or by mail at: toptable, Attn: Legal Department, 15 Worship Street, London EC2A 2DT United Kingdom.
-
-toptable has further committed to refer unresolved privacy complaints under the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by toptable, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/european-dispute-resolution/consumer/) for more information and to file a complaint.
+toptable may change this Policy from time to time in accordance with the toptable Terms of Use. You agree you will review this Policy periodically. If we make any changes to this Policy, we will change the "Last Updated" date above. You are free to decide whether or not to accept the modified Policy, but accepting the Policy is required for you to continue using the Sites. **If you do not agree to the modified Policy, your sole recourse is to terminate your use of the Sites.**
