@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zx-10r.net privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629214949id_/http%3A//www.verticalscope.com/aboutus/forum-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zx-10r.net privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215165958id_/http%3A//www.verticalscope.com/aboutus/forum-privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -71,3 +71,6 @@ If you have questions or suggestions about this privacy statement, or your own p
 
 * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
 * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookiesusing your browser privacy setting. 
+* Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+* Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+* Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). 
