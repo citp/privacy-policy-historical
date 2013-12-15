@@ -1,23 +1,26 @@
-> *The following text is extracted and transformed from the microhost.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419173845id_/http%3A//microhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microhost.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215214847id_/http%3A//www.microhost.com/privacy.html) for the most accurate reproduction.*
 
-# Terms of Service - MicroHost.com Cheap Web Site Hosting
+# MicroHost - Privacy Policy
 
-This Privacy Policy governs the manner in which MicroHost.com Cheap Web Site Hosting collects, uses, maintains and discloses information collected from users of this Web site (each, a "User").
+Register a .com .net .org and many other   
+domains **from $9.95/year!**
 
- **Privacy**  
-Users' privacy is very important to MicroHost.com Cheap Web Site Hosting. MicroHost.com Cheap Web Site Hosting is committed to safeguarding the information Users entrust to MicroHost.com Cheap Web Site Hosting. This web site is not directed at children under 13 years of age.
+MicroHost will help you setup your  
+new website within minutes, with  
+our technicians available 24/7! 
 
- **The Information We Collect**  
-MicroHost.com Cheap Web Site Hosting may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. MicroHost.com Cheap Web Site Hosting may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
+MicroHost will transfer your  
+account **FREE of charge!** Check it  
+out with our professionals.
 
- **How We Use Information**  
-MicroHost.com Cheap Web Site Hosting may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by MicroHost.com Cheap Web Site Hosting and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with MicroHost.com Cheap Web Site Hosting and such affiliates, independent contractors and business partners. MicroHost.com Cheap Web Site Hosting may also use information collected through our Web site for research regarding the effectiveness of the Web site and the marketing, advertising and sales efforts of MicroHost.com Cheap Web Site Hosting, its trusted affiliates, independent contractors and business partners.
+**Collected Private Information**
 
- **Disclosure of Information**  
-MicroHost.com Cheap Web Site Hosting may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of MicroHost.com Cheap Web Site Hosting's business.
+As you sign up for service with MicroHost Web Hosting, we collect your personal information including your name, e-mail address, billing address, security question, credit card or other payment information and a password.
 
- **Maintenance of Information**  
-Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
+We may also collect the URL from which you linked into our site, your IP address, and your browser type and version, all of which are collected in an anonymous manner without being linked to any of your personal information.
 
- **Questions**  
-Users may direct questions concerning this Privacy Policy by using the Contact Us form located on our web site.
+**Use of Customer Information**
+
+Customer privacy is something we take very seriously at MicroHost. We do not, and have never, sold or disseminated (except in cases where required to by law by law enforcement agencies) the personal information of our customers to any parties outside of MicroHost Web Hosting. We use customer information for the purposes of creating and maintaining individual customer accounts, contacting customers in case of a problem with their account, sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, and to provide technical support. All of our development is done in-house, and hence no contracted parties will ever have access to individual customer information.
+
+Please note that the contact information that you provide to us is used to register your domain name and is, by the very nature of the domain registration system, available for public viewing in many places on the Internet via the use of the ‘whois’ tool.
