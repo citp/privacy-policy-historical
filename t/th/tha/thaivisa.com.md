@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaivisa.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424010729id_/http%3A//www.thaivisa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaivisa.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215070428id_/http%3A//www.thaivisa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Thaivisa
 
@@ -47,6 +47,3 @@ We use outside ad companies to display ads on our site. These ads may contain co
 If you would like to find out more about this or have any questions please contact us.
 
 Do you have questions? [Visit our forum](http://www.thaivisa.com/forum/forum/1-thai-visas-residency-and-work-permits/)
-
-  
-
