@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kurtgeiger.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614085549id_/http%3A//www.kurtgeiger.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurtgeiger.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215024817id_/http%3A//www.kurtgeiger.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Kurt Geiger | Cookies & Privacy
 
@@ -50,6 +50,7 @@ First party cookies are displayed in the below table.
 Cookie name | Cookie expiry | Cookie purpose  
 ---|---|---  
 KG_USER_LOCATION | Browser closed | With the launch of our American Kurt Geiger website ([us.kurtgeiger.com](http://us.kurtgeiger.com/)), this cookie helps to remember where in the world a user is visiting our website from. If a customer would prefer to shop from our American website, the cookie remembers that as well.  
+nowelcomepopup | 24 hours | With the launch of our Kurt Geiger Welcome program. This cookie is used to determine whether a visitor had been displayed with the welcome program popup windows previously.  
 CATEGORY_INFO | Browser closed | When browsing any of our product listing pages, this cookie remembers what filtering was applied on previous page views, to enhance the browsing experience.  
 VIEWED_PRODUCT_IDS | Browser closed | This cookie remembers what products were viewed by the customer on previous page views, to enhance the browsing experience  
 CART | 24 hours | A unique id that is associated with a customer's shopping bag is kept in this cookie. This is basically so that our website has got access to this information at all times throughout a customer's visit.  
