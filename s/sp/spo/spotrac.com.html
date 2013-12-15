@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the spotrac.com privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617020243id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spotrac.com privacy policy that was archived on 2013-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215160858id_/http%3A//www.spotrac.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy for Spotrac</title>
-<link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/style.css">
+<link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/style_new.css">
 <link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/menu.css">
 <link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/trac.css">
 <script id="hs-analytics" src="//js.hubspot.com/analytics/1582124700000/207348.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
@@ -12,16 +12,128 @@
 
 <body>
 <div id="everything">
-	<link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/ipad.css" media="only screen and (device-width: 768px)">
-<link rel="shortcut icon" href="http://www.spotrac.com/images/favicon.ico">
+	<link rel="shortcut icon" href="http://www.spotrac.com/images/favicon.ico">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/style.css"> 
-<link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/header.css"> 
+<link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/style_new.css"> 
+<link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/header_new.css"> 
+<link rel="stylesheet" media="all and (min-device-width: 320px) and (max-device-width: 480px)" href="http://www.spotrac.com/css/header_small.css">
 <link rel="stylesheet" type="text/css" href="http://www.spotrac.com/css/menu.css">
- <script>
+<script type="text/javascript">
+$(document).ready(function(){	
+	
+	/*//global vars
+	var searchBox = $("#mainSearch");
+	var searchBoxDefault = "Search a player, team, position…";
+	
+	//Effects for both searchbox
+	searchBox.focus(function(e){
+		$(this).addClass("active");
+	});
+	searchBox.blur(function(e){
+		$(this).removeClass("active");
+	});
+	
+	
+	//Searchbox2 show/hide default text if needed
+	searchBox.focus(function(){
+		if($(this).attr("value") == searchBoxDefault) $(this).attr("value", "");
+	});
+	searchBox.blur(function(){
+		if($(this).attr("value") == "") $(this).attr("value", searchBoxDefault);
+	});
+	*/
+
+	$('div#cancel').attr('style','background-position:0 0;cursor:none');
+
+	$('div#cancel').click(function(){
+		$('#mainSearch').val('')
+		$('div#cancel').attr('style','background-position:0 0;cursor:none');
+		
+		$('div#searchwrap').html('').css("display","none");
+	});
+
+
+	var inputTimer;
+	$("input[name='search']").keyup(function(e){
+
+		 //if(e.keyCode != 27){
+		//	 clearTimeout(inputTimer);
+		//	inputTimer = setTimeout(searchFunction, 300); //fires after 1 second
+		// }
+	});
+	
+	$("a.surprise").click(function(){
+		$.ajax({
+			type: 'post',
+			url: 'http://www.spotrac.com/search/surprise/',
+			data: 'ajax=true',
+			success: function(data) {
+				window.location.href=data;
+			}
+		});
+		
+		return false;
+	});
+	
+});
+
+function searchFunction()
+{	
+	//$("div#contentwrap.main").html('').css("min-height","500px");
+	//$("div#searchwrap").slideDown(100);
+	
+	var val = $("input[name='search']").val();
+	
+	if(val!="")
+	{
+		//$('#searchNav form div#cancel').attr('style','background-position:center bottom;cursor:pointer');
+	}
+	else
+	{
+		$('div#cancel').attr('style','background-position:0 0;cursor:none');
+		$("#searchCats").show();
+		$('div#searchTransactions.overlay').html('');
+		$('div#playerInfo').show();
+	}
+
+	if(val.length>=3)
+	{
+		$('div#search-loader').show();
+		$("#searchCats").hide();
+			
+		$.ajax({
+			type: 'post',
+			url: 'http://www.spotrac.com/search/index2/',
+			data: 'search='+val+'&section=&ajax=1',
+			success: function(data) {
+				$('div#searchwrap').html(data).slideDown(100);;
+				$('div#search-loader').hide();
+				$('div#cancel').attr('style','background-position:0 -30px; cursor:pointer');
+			}
+		});
+	}
+}
+</script>
+<script>
 	$(document).ready(function(){
 		$("ul#dailySpotFeature").css('visibility','visible').css('display','none').slideDown('slow').delay(10000).slideUp();
 	});
+	
+	$(window).scroll(function() {    
+    
+	  var s = $(window).scrollTop();
+	  
+	  if(s==0)
+	  {
+		  $("div.header-container").removeClass("header-shadow");
+	  }
+	  else
+	  {
+		  $("div.header-container").addClass("header-shadow");
+	  }
+   
+    });
+
 	</script>
 	<style>/*#contentwrap { margin-top:-65px !important;}
 	#offer { background-color:#0798D4;  background-position:initial initial;
@@ -41,137 +153,165 @@
 	<div id="headerwrap">
 
 		<div id="header">
-				
-			<a href="http://www.spotrac.com/"><img src="http://www.spotrac.com/images/logo.png" alt="Spotrac: The Spot for Sports Contracts" class="logo" width="250" height="80"></a>
-			
-			<div>
-				<ul id="mainNav2" class="dropdown">
-					<li id="mlb"><a href="http://www.spotrac.com/mlb/" title="MLB Contracts &amp; Salaries"></a>
-						<ul class="sub_menu">
-							<li><a href="http://www.spotrac.com/mlb/" title="MLB Team Salaries">Teams</a></li>
-							<li><a href="#">Trackers  »</a>
-								<ul class="sub_menu">
-                                    <li><a href="http://www.spotrac.com/cap-tracker/mlb/" title="MLB Payroll Tracker">Team Payroll</a></li>
-									<li><a href="http://www.spotrac.com/free-agents/mlb/" title="MLB Free Agents">Free Agents</a></li>
-							        <li><a href="http://www.spotrac.com/mlb-trade-tracker/" title="MLB Trade Tracker">Trade Tracker</a></li>                              
-									<li><a href="http://www.spotrac.com/arbitration-tracker/" title="MLB Arbitration">Arbitration Tracker</a></li>
- 									<li><a href="http://www.spotrac.com/college-tracker/mlb/" title="MLB College Tracker">College Tracker</a></li>
-									                               </ul>
+			<div class="header-container">
+            	<div class="header-left">
+					<a href="http://www.spotrac.com/"><img src="http://www.spotrac.com/images/logo.png" alt="Spotrac: The Spot for Sports Contracts" class="logo" width="225" height="72"></a>
+					                </div>
+				<div class="header-right">
+                        <ul id="mainNav2" class="dropdown">
+                            <li id="mlb"><a href="http://www.spotrac.com/mlb/" title="MLB Contracts &amp; Salaries"></a>
+                                <ul class="sub_menu">
+                                    <li><a href="http://www.spotrac.com/mlb/" title="MLB Team Salaries">Teams</a></li>
+                                    <li><a href="#">Trackers  »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/cap-tracker/mlb/" title="MLB Payroll Tracker">Team Payroll</a></li>
+                                            <li><a href="http://www.spotrac.com/free-agents/mlb/" title="MLB Free Agents">Free Agents</a></li>
+                                            <li><a href="http://www.spotrac.com/mlb-trade-tracker/" title="MLB Trade Tracker">Trade Tracker</a></li>                              
+                                            <li><a href="http://www.spotrac.com/arbitration-tracker/" title="MLB Arbitration">Arbitration Tracker</a></li>
+                                            <li><a href="http://www.spotrac.com/college-tracker/mlb/" title="MLB College Tracker">College Tracker</a></li>
+                                                                                   </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/rankings/mlb/" title="Top MLB Rankings">Rankings »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/rankings/mlb/">Total Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/mlb/average/">Average Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/career-earnings/mlb/">Career Earnings</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/transactions/mlb/" title="MLB Transactions">Transactions</a>
+                                </li></ul>
+                             </li>
+                            <li id="nba"><a href="http://www.spotrac.com/nba/" title="NBA Contracts &amp; Salaries"></a>
+                                <ul class="sub_menu">
+                                    <li><a href="http://www.spotrac.com/nba/" title="NBA Team Salaries">Teams</a></li>
+                                    <li><a href="#">Trackers  »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/cap-tracker/nba/" title="NBA Cap Tracker">Team Cap</a></li>
+                                            <li><a href="http://www.spotrac.com/free-agents/nba/" title="NBA Free Agents">Free Agents</a></li>
+                                            <li><a href="http://www.spotrac.com/option-tracker/nba/" title="NBA Option Tracker">Option Tracker</a></li>
+                                           <li><a href="http://www.spotrac.com/nba-trade-tracker/" title="NBA Trade Tracker">Trade Tracker</a></li>                              
+                                            <li><a href="http://www.spotrac.com/draft-tracker/nba/" title="NBA Draft Tracker">Draft Tracker</a></li>
+                                            <li><a href="http://www.spotrac.com/college-tracker/nba/" title="NBA College Tracker">College Tracker</a></li>
+                                            <li><a href="http://www.spotrac.com/fines-tracker/nba/" title="NBA Fines Tracker">Fines Tracker</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/rankings/nba/" title="Top NBA Rankings">Rankings »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/rankings/nba/">Total Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nba/average/">Average Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nba/cap-hit/">Cap Hits</a></li>
+                                            <li><a href="http://www.spotrac.com/career-earnings/nba/">Career Earnings</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/transactions/nba/" title="NBA Transactions">Transactions</a>
+                                </li></ul>
                             </li>
-							<li><a href="http://www.spotrac.com/top-salaries/mlb/" title="Top MLB Leaders">Leaders »</a>
-								<ul class="sub_menu">
-									<li><a href="http://www.spotrac.com/top-salaries/mlb/">Total Salaries</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/mlb/average/">Average Salaries</a></li>
-									<li><a href="http://www.spotrac.com/career-earnings/mlb/">Career Earnings</a></li>
-								</ul>
-							</li>
-							<li><a href="http://www.spotrac.com/transactions/mlb/" title="MLB Transactions">Transactions</a>
-						</li></ul>
-					</li>
-					<li id="nba"><a href="http://www.spotrac.com/nba/" title="NBA Contracts &amp; Salaries"></a>
-						<ul class="sub_menu">
-							<li><a href="http://www.spotrac.com/nba/" title="NBA Team Salaries">Teams</a></li>
-							<li><a href="#">Trackers  »</a>
-								<ul class="sub_menu">
-                                    <li><a href="http://www.spotrac.com/cap-tracker/nba/" title="NBA Cap Tracker">Team Cap</a></li>
-									<li><a href="http://www.spotrac.com/free-agents/nba/" title="NBA Free Agents">Free Agents</a></li>
-							        <li><a href="http://www.spotrac.com/nba-trade-tracker/" title="NBA Trade Tracker">Trade Tracker</a></li>                              
-									<li><a href="http://www.spotrac.com/draft-tracker/nba/" title="NBA Draft Tracker">Draft Tracker</a></li>
-									<li><a href="http://www.spotrac.com/college-tracker/nba/" title="NBA College Tracker">College Tracker</a></li>
-									<li><a href="http://www.spotrac.com/fines-tracker/nba/" title="NBA Fines Tracker">Fines Tracker</a></li>
-                                </ul>
+                            <li id="nfl"><a href="http://www.spotrac.com/nfl/" title="NFL Contracts &amp; Salaries"></a>
+                                <ul class="sub_menu">
+                                    <li><a href="http://www.spotrac.com/nfl/" title="NFL Team Salaries">Teams</a></li>
+                                    <li><a href="http://www.spotrac.com/rankings/nfl/" title="Top NFL Rankings">Rankings »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/rankings/nfl/">Base Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nfl/average/">Average Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nfl/cap-hit/">Cap Hits</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nfl/guaranteed/">Guaranteed $</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nfl/signing-bonus/">Signing Bonus</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nfl/franchise-tag/">Franchise Tag</a></li>
+                                            <li><a href="http://www.spotrac.com/career-earnings/nfl/">Career Earnings</a></li>
+                                            <li><a href="http://www.spotrac.com/top-dead/nfl/">Dead Money</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Trackers »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/cap-tracker/nfl/" title="NFL Cap Tracker">Team Cap</a></li>
+                                            <li><a href="http://www.spotrac.com/free-agents/nfl/" title="NFL Free Agents">Free Agents</a></li>
+                                            <li><a href="http://www.spotrac.com/nfl-trade-tracker/" title="NFL Trade Tracker">Trade Tracker</a></li>
+                                            <li><a href="http://www.spotrac.com/draft-tracker/nfl/" title="NFL Draft Tracker">Draft Tracker</a></li>
+                                            <li><a href="http://www.spotrac.com/college-tracker/nfl/" title="NFL College Tracker">College Tracker</a></li>
+                                            <li><a href="http://www.spotrac.com/fines-tracker/nfl/" title="NFL Fines Tracker">Fines Tracker</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/transactions/nfl/" title="NFL Transactions">Transactions</a>
+                                </li></ul>
                             </li>
-							<li><a href="http://www.spotrac.com/top-salaries/nba/" title="Top NBA Leaders">Leaders »</a>
-								<ul class="sub_menu">
-									<li><a href="http://www.spotrac.com/top-salaries/nba/">Total Salaries</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nba/average/">Average Salaries</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nba/cap-hit/">Cap Hits</a></li>
-									<li><a href="http://www.spotrac.com/career-earnings/nba/">Career Earnings</a></li>
-								</ul>
-							</li>
-							<li><a href="http://www.spotrac.com/transactions/nba/" title="NBA Transactions">Transactions</a>
-						</li></ul>
-					</li>
-					<li id="nfl"><a href="http://www.spotrac.com/nfl/" title="NFL Contracts &amp; Salaries"></a>
-						<ul class="sub_menu">
-							<li><a href="http://www.spotrac.com/nfl/" title="NFL Team Salaries">Teams</a></li>
-							<li><a href="http://www.spotrac.com/top-salaries/nfl/" title="Top NFL Leaders">Leaders »</a>
-								<ul class="sub_menu">
-									<li><a href="http://www.spotrac.com/top-salaries/nfl/">Base Salaries</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nfl/average/">Average Salaries</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nfl/cap-hit/">Cap Hits</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nfl/guaranteed/">Guaranteed $</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nfl/signing-bonus/">Signing Bonus</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nfl/franchise-tag/">Franchise Tag</a></li>
-									<li><a href="http://www.spotrac.com/career-earnings/nfl/">Career Earnings</a></li>
-								</ul>
-							</li>
-							<li><a href="#">Trackers »</a>
-								<ul class="sub_menu">
-									<li><a href="http://www.spotrac.com/cap-tracker/nfl/" title="NFL Cap Tracker">Team Cap</a></li>
-									<li><a href="http://www.spotrac.com/free-agents/nfl/" title="NFL Free Agents">Free Agents</a></li>
-									<li><a href="http://www.spotrac.com/nfl-trade-tracker/" title="NFL Trade Tracker">Trade Tracker</a></li>
-									<li><a href="http://www.spotrac.com/draft-tracker/nfl/" title="NFL Draft Tracker">Draft Tracker</a></li>
-									<li><a href="http://www.spotrac.com/college-tracker/nfl/" title="NFL College Tracker">College Tracker</a></li>
-									<li><a href="http://www.spotrac.com/fines-tracker/nfl/" title="NFL Fines Tracker">Fines Tracker</a></li>
-								</ul>
-							</li>
-							<li><a href="http://www.spotrac.com/transactions/nfl/" title="NFL Transactions">Transactions</a>
-						</li></ul>
-					</li>
-					<li id="nhl"><a href="http://www.spotrac.com/nhl/" title="NHL Contracts &amp; Salaries"></a>
- 						<ul class="sub_menu">
-							<li><a href="http://www.spotrac.com/nhl/" title="NHL Team Salaries">Teams</a></li>
-							<li><a href="#">Trackers »</a>
-								<ul class="sub_menu">
-									<li><a href="http://www.spotrac.com/cap-tracker/nhl/" title="NHL Cap Tracker">Team Cap</a></li>
-									<li><a href="http://www.spotrac.com/free-agents/nhl/" title="NHL Free Agents">Free Agents</a></li>
-									<li><a href="http://www.spotrac.com/nhl-trade-tracker/" title="NHL Trade Tracker">Trade Tracker</a></li>
-																																			</ul>
-							</li>
-							<li><a href="http://www.spotrac.com/top-salaries/nhl/" title="Top NHL Leaders">Leaders »</a>
-								<ul class="sub_menu">
-									<li><a href="http://www.spotrac.com/top-salaries/nhl/">Base Salaries</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nhl/average/">Average Salaries</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nhl/cap-hit/">Cap Hits</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/nhl/signing-bonus/">Signing Bonus</a></li>
-									<li><a href="http://www.spotrac.com/career-earnings/nhl/">Career Earnings</a></li>
-								</ul>
-							</li>
-							<li><a href="http://www.spotrac.com/transactions/nhl/" title="NHL Transactions">Transactions</a>
-						</li></ul>
-					</li>
-					<li id="mls"><a href="http://www.spotrac.com/mls/" title="MLS Salaries"></a>
- 						<ul class="sub_menu">
-							<li><a href="http://www.spotrac.com/mls/" title="MLS Team Salaries">Teams</a></li>
-							<li><a href="#">Trackers »</a>
-								<ul class="sub_menu">
-									<li><a href="http://www.spotrac.com/draft-tracker/mls/" title="MLS Draft Tracker">Draft Tracker</a></li>
-                            	</ul>
+                            <li id="nhl"><a href="http://www.spotrac.com/nhl/" title="NHL Contracts &amp; Salaries"></a>
+                                <ul class="sub_menu">
+                                    <li><a href="http://www.spotrac.com/nhl/" title="NHL Team Salaries">Teams</a></li>
+                                    <li><a href="#">Trackers »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/cap-tracker/nhl/" title="NHL Cap Tracker">Team Cap</a></li>
+                                            <li><a href="http://www.spotrac.com/free-agents/nhl/" title="NHL Free Agents">Free Agents</a></li>
+                                            <li><a href="http://www.spotrac.com/nhl-trade-tracker/" title="NHL Trade Tracker">Trade Tracker</a></li>
+                                                                                                                                                                            </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/rankings/nhl/" title="Top NHL Rankings">Rankings »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/rankings/nhl/">Base Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nhl/average/">Average Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nhl/cap-hit/">Cap Hits</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/nhl/signing-bonus/">Signing Bonus</a></li>
+                                            <li><a href="http://www.spotrac.com/career-earnings/nhl/">Career Earnings</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/transactions/nhl/" title="NHL Transactions">Transactions</a>
+                                </li></ul>
                             </li>
-							<li><a href="http://www.spotrac.com/top-salaries/mls/" title="Top MLS Leaders">Leaders »</a>
-								<ul class="sub_menu">
-									<li><a href="http://www.spotrac.com/top-salaries/mls/">Base Salaries</a></li>
-									<li><a href="http://www.spotrac.com/top-salaries/mls/cap-hit/">Cap Hits</a></li>
-                                </ul>
+                            <li id="mls"><a href="http://www.spotrac.com/mls/" title="MLS Salaries"></a>
+                                <ul class="sub_menu">
+                                    <li><a href="http://www.spotrac.com/mls/" title="MLS Team Salaries">Teams</a></li>
+                                    <li><a href="#">Trackers »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/draft-tracker/mls/" title="MLS Draft Tracker">Draft Tracker</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/rankings/mls/" title="Top MLS Rankings">Rankings »</a>
+                                        <ul class="sub_menu">
+                                            <li><a href="http://www.spotrac.com/rankings/mls/">Base Salaries</a></li>
+                                            <li><a href="http://www.spotrac.com/rankings/mls/cap-hit/">Cap Hits</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="http://www.spotrac.com/transactions/mls/" title="MLS Transactions">Transactions</a>
+                                </li></ul>
                             </li>
-							<li><a href="http://www.spotrac.com/transactions/mls/" title="MLS Transactions">Transactions</a>
-						</li></ul>
-					</li>
-					<li id="daily"><a href="http://www.spotrac.com/premium/"></a>
-						<ul id="dailySpotFeature" class="sub_menu">
-							<li>
-                                                        <a href="http://www.spotrac.com/premium/research/nfl/extending-the-2010-nfl-draft-333/" title="Extending the 2010 NFL Draft" style="height:auto" target="_blank">
-							<img class="daily-feature-image" src="http://www.spotrac.com/assets/images/crop/1044_USATSI_5853114_160074578_lowres.jpg" width="100" alt="Extending the 2010 NFL Draft">
-							<div class="daily-feature-title">Extending the 2010 NFL Draft</div>
-							<div class="daily-feature-more">» Read More</div>
-							</a>
-                            </li>
+                            <li id="daily"><a href="http://www.spotrac.com/premium/"></a>
+                                                            </li>
                         </ul>
-					</li>
-				</ul>
-							</div>
+                </div>
+           
+				                
+			<div class="header-search">
+                <form accept-charset="utf-8" method="post" action="http://www.spotrac.com/search/searchRedirect/" autocomplete="off" class="form-wrapper cf">
+										<div class="searchLeft">
+						<div class="searchBack searchCancel">
+                        	<input class="text" id="mainSearch" type="text" placeholder="Search a player, team, position…" value="" name="search" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search a player, team, position…'">
+							<button type="submit">Go</button>
+							                   
+						</div>
+					</div>
+					<div id="cancel"></div>
+				</form>
+				<a href="#" class="surprise">Surprise Me</a>
+				<div class="search"><div id="searchwrap"></div></div>
+			</div>
+			<div class="header-premium">
+                    	<a class="premium-logo" href="http://www.spotrac.com/premium/"><img src="http://www.spotrac.com/images/premium-logo-nav.png"></a>
+                        <span class="account-info">
+                        	<span><a href="http://www.spotrac.com/premium/">Tools</a></span>
+							                            <span><a href="http://www.spotrac.com/premium/login/">Login</a></span>
+                                                    </span>
+                
+            </div>
+            <div class="header-socials">
+               	<ul id="social-list">
+						<li style="width:85px !important;background:none !important;margin-top:6px;margin-left:10px;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="spotrac" style="width:80px;">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
+						<li style="width:95px !important;background:none !important;margin-top:6px;"><iframe src="http://www.facebook.com/plugins/like.php?app_id=152185691527861&amp;href=http://www.spotrac.com//privacy&amp;send=false&amp;layout=button_count&amp;width=75&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden;width:95px;height:21px;" allowtransparency="true"></iframe></li>
+						<li class="twitter" style=""><a href="http://www.twitter.com/spotrac" target="_blank">Twitter</a></li>
+						<li class="facebook" style=""><a href="http://www.facebook.com/spotrac" target="_blank">Facebook</a></li>
+											</ul>
+               </div>
+               
 		</div>
+        </div>
 	</div>
 		<div id="contentwrap">
 		<div id="content">
@@ -202,9 +342,9 @@
    				<div id="posts">
 	<h4>Recent Daily Spots</h4>
 	<fieldset class="rsslib">
-						<ul><li><a href="http://www.spotrac.com/blog/understanding-peyton-mannings-contract-restructure/">Understanding Peyton Manning’s Contract Restructure</a><br>May 20, 2013</li>
-<li><a href="http://www.spotrac.com/blog/robinson-canos-next-contract/">Robinson Cano’s Next Contract</a><br>May 10, 2013</li>
-<li><a href="http://www.spotrac.com/blog/predicting-the-next-clayton-kershaw-contract/">Predicting the next Clayton Kershaw Contract</a><br>May 09, 2013</li>
+						<ul><li><a href="http://www.spotrac.com/blog/lingering-nfl-offseason-questions/">Lingering NFL Offseason Questions</a><br>Dec 13, 2013</li>
+<li><a href="http://www.spotrac.com/blog/best-worst-value-nfl-players-through-week-14/">Best &amp; Worst: Value Players Through Week 14</a><br>Dec 10, 2013</li>
+<li><a href="http://www.spotrac.com/blog/nfl-injured-reserve-week-14/">NFL Injured Reserve: Week 14</a><br>Dec 10, 2013</li>
 </ul>
 	</fieldset>
 	<a href="http://www.spotrac.com/blog" class="more">» Read More</a>
@@ -240,7 +380,7 @@ google_ad_height = 250;
 		<div class="listblock">
 			<h3>Special Features</h3>
 			<ul>
-				<li><a href="http://www.spotrac.com/blog/">Premium Services</a></li>
+				<li><a href="http://www.spotrac.com/premium/">Premium Services</a></li>
 				<li><a href="http://www.spotrac.com/blog/">The Daily Spot Blog</a></li>
 								<li><a href="http://www.spotrac.com/free-agents/">Free Agent Tracker</a></li>
 				<li><a href="http://www.spotrac.com/top-salaries/">Top Salaries</a></li>
