@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327210630id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215150250id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Techstreet Privacy Statement
+# Privacy Policy & Practices
 
 Your privacy is important to Techstreet, a Thomson Reuters business, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via websites and mobile applications operated by Techstreet, a Thomson Reuters business, and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline. 
 
 Our website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites. 
 
-Techstreet Privacy Statement - Highlights
+### Techstreet Privacy Statement - Highlights
 
 This statement applies to the online collection of personal information via websites operated by Techstreet, a Thomson Reuters business, and its worldwide affiliated companies and subsidiaries. Highlights of the Online Privacy Statement follow immediately below, or read the 
 
 Full Text. 
 
-What personal information is collected and how is that information used?
+### What personal information is collected and how is that information used?
 
   * We collect information about our users in three ways: directly from the user (such as when ordering a product, registering an account or signing up for a newsletter), from our Web server logs, and through cookies. 
   * We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. 
@@ -22,7 +22,7 @@ What personal information is collected and how is that information used?
 
 More Details
 
-How is my personal information protected?
+### How is my personal information protected?
 
   * We have implemented certain appropriate security measure to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. 
   * However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures. 
@@ -32,7 +32,7 @@ How is my personal information protected?
 
 More Details
 
-Who has access to the personal information?
+### Who has access to the personal information?
 
   * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement. 
   * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access. 
@@ -42,9 +42,9 @@ Who has access to the personal information?
 
 More Details
 
-How may I correct, amend or delete my personal information, or update my preferences?
+### How may I correct, amend or delete my personal information, or update my preferences?
 
-  * You may update your preferences at any time on the Communication Preferences page, accessible [here](http://www.techstreet.com/cgi-bin/infoUpdate)
+  * You may update your preferences at any time on the Communication Preferences page, accessible by [logging in](https://web.archive.org/sessions/new) and then going to "My Account" 
   * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilize the "unsubscribe" mechanism within the communications that you receive from us. 
   * If you have any additional questions or concerns related to this statement and/or our practices, please contact us via email at [techstreet.service@thomsonreuters.com](mailto:techstreet.service@thomsonreuters.com) or via phone at 1-734-780-8000. 
 
@@ -54,7 +54,7 @@ More Details
 
 Back To Top
 
-SCOPE
+### SCOPE
 
 Your privacy is important to Techstreet, a Thomson Reuters Business. In this Privacy Statement, you can learn what kind of information we collect, when and how we might use that information, how we protect the information, who has access to it, and what choices you have with respect to your personal information. 
 
@@ -62,9 +62,10 @@ This Privacy Statement applies only to information collected online from the use
 
 Our website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites and if you have any questions about the privacy practices associated with those sites, please review the privacy statement posted on each site. 
 
-__Please read this Privacy Statement in its entirety to understand the following:__
+__Please read this Privacy Statement in its entirety to understand the following:__   
 
-WHAT PERSONAL INFORMATION DOES THOMSON REUTERS COLLECT AND HOW DOES IT USE THAT INFORMATION?
+
+### WHAT PERSONAL INFORMATION DOES THOMSON REUTERS COLLECT AND HOW DOES IT USE THAT INFORMATION?
 
 We collect information about our users in three ways: directly from the user, from our Web server logs, and through cookies. We use the information primarily to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it. 
 
@@ -100,7 +101,7 @@ The use of cookies is relatively standard. Most browsers are initially set up to
 
 Back To Top
 
-HOW DOES TECHSTSREET PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
+### HOW DOES TECHSTSREET PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
 
 We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a date center with restricted access and appropriate monitoring and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. However, please note that we cannot guarantee that unauthorized persons will always be unable to defeat our security measures. 
 
@@ -108,7 +109,7 @@ Also, please note that we may store and process your personal information in sys
 
 Back To Top
 
-WHO HAS ACCESS TO THE INFORMATION?
+### WHO HAS ACCESS TO THE INFORMATION?
 
 We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows: 
 
@@ -127,12 +128,12 @@ Your access to some of our services and content may be password protected. We re
 
 Back To Top
 
-HOW MAY I CORRECT, AMEND OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
+### HOW MAY I CORRECT, AMEND OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
 
   
 
 
-  * You may update your preferences at any time on the Communications Preferences page, accessible [here](http://www.techstreet.com/cgi-bin/infoUpdate)
+  * You may update your preferences at any time on the Communications Preferences page, accessible by [logging in](https://web.archive.org/sessions/new) and then going to "My Account" 
 
 
 
@@ -143,7 +144,7 @@ Ann Arbor, MI 48104
 Phone: 1-734-780-8000  
 E-Mail: [techstreet.service@thomsonreuters.com](mailto:techstreet.service@thomsonreuters.com)
 
-PRIVACY STATEMENT CHANGES
+### PRIVACY STATEMENT CHANGES
 
 If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on April 7, 2011. 
 
