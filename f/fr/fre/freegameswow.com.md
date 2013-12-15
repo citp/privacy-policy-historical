@@ -1,49 +1,37 @@
-> *The following text is extracted and transformed from the freegameswow.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430185004id_/http%3A//freegameswow.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegameswow.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215143955id_/http%3A//www.freegameswow.com/privacy-policy) for the most accurate reproduction.*
 
-# Contact Us
+# Freegameswow.com Privacy Policy
 
-## Privacy Policy
+##  Privacy Policy 
 
-## Personal Information
+**What information do we collect?**
 
-freegameswow.com is committed to protecting your privacy online. freegameswow.com does not collect any personal information.
+We collect information from you when you fill out a form.
 
-## IP address and logging
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+**What do we use your information for?**
 
-## Third Party Advertising
+Any of the information we collect from you may be used in one of the following ways:
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
+To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
+**Do we use cookies?**
 
-## Third Party Cookies
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-## Liability
+Do we disclose any information to outside parties?
 
-It is freegameswow.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, freegameswow.com will disable and remove games in question within 7 days.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.  
+**Third party links**
 
-## External Links
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
+**Your Consent**
 
-freegameswow.com site contains links to other sites. freegameswow.com is not responsible for the privacy practices or the content of such Web sites.
+By using our site, you consent to our web site privacy policy.
 
-## Terms of Use
+Changes to our Privacy Policy
 
-When visiting freegameswow.com website and/or using its any software, game, you fully agree with it on its “Privacy Policy” and “Terms of Use” conditions. If you do not agree on any of these conditions, you are not allowed to use the website and or its services. freegameswow.com has the right to update and modify the policies any time. The visitors always should check the related pages to see updates.
-
-## Access Restrictions
-
-freegameswow.com website is suitable the visitors over 13 year age, the younger visitors are suggested to use its service and games together with their parents.
-
-## Proprietary Rights of the Games
-
-Most of the published games are submitted or suggested to us by their creators, proprietary rights owners. freegameswow.com cannot confirm if they have respected the others intellectual properties or rights. Upon receiving notification in accordance with any related copyright organization or owner, freegameswow.com will immediately disable and remove games in question.
-
-## Outgoing and Incoming Links
-
-freegameswow.com does not accept any responsibility about the websites which are linking to our website and the outgoing links in the games published at the website.
-
-## Advertisements
-
-freegameswow.com does not accept any responsibility about the advertisements which are published at the website.
+If we decide to change our privacy policy, we will post those changes on this page.
