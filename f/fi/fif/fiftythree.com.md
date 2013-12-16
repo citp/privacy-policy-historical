@@ -1,109 +1,132 @@
-> *The following text is extracted and transformed from the fiftythree.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628132510id_/http%3A//www.fiftythree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiftythree.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216183721id_/http%3A//www.fiftythree.com/privacy) for the most accurate reproduction.*
 
-# Privacy | FiftyThree
+# Privacy Policy | FiftyThree
 
-POSTED FEBRUARY 23, 2012
+FiftyThree, Inc. (“FiftyThree,” or “we”) wants you to be familiar with the type of information we collect from you, and how we use it. Through this Privacy Policy, we describe the information we collect on FiftyThree.com (the “Site”), through our downloadable Paper application (“Paper” or “App”). The App and Site also interact with our hardware “Pencil” stylus in a way that may transmit information. When we refer to our “Services,” we mean any combination of our App, Site, Pencil, customer service system, or any other tool, interface, or functionality related to any or all of the above. By using the Services, you agree that you are accepting the practices that we have outlined in this Policy, and that you consent to having your data transferred to and/or processed in the United States, where our facilities are located.
 
-This Privacy Policy describes the policies and procedures of FiftyThree, Inc. ("we", "our" or "us") on the collection, use and disclosure of your information on www.fiftythree.com (the "Site") and the services, features, content or applications (including our Paper app for iPad (the "Application") we offer (collectively with the Site, the "Services"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+This Privacy Policy describes the information we collect through the Services, how we may use that information and with whom we may share it. This Privacy Policy is organized according to the sections below:
 
-WHAT DOES THIS PRIVACY POLICY COVER?
+  * Information We Obtain
+  * How We Use the Information We Obtain
+  * Sharing of Information
+  * Your Choices
+  * Policy to California Customers
+  * Security
+  * Updates To Our Privacy Policy
+  * How To Contact Us
 
-This Privacy Policy covers the treatment of personally identifiable information ("Personal Information") gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications ("Third Party Services") that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-WHAT INFORMATION DO WE COLLECT?
+## Information We Obtain
 
-The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
+There are three ways in which we may obtain personally identifying information from you: you may submit it; we collect it automatically through our site; or we collect it automatically through Paper and other tools. Different types of information may be collected on each channel, and you should understand both how we do this and what types of information we collect on each channel.
 
-INFORMATION YOU REQUEST: 
+## Information You Submit
 
-In responding to your requests for information or in connection with signing up for updates about using our Application or our Services, we may use your contact information to send you information about our Services. You may unsubscribe from these messages by following the instructions at the bottom of the applicable e-mail. 
+You may choose to provide us with personal information through the Services, such as through forms, account portals, interfaces and interactions with other customer support portals and channels:
 
-User Content:
+  * Contact information, such as your name and email address.
+  * Other information about yourself, such as your age, gender, location, date of birth, language preference or interests.
+  * Your photograph.
+  * Information related or connected to a social media account that you use to sign up or log in to the Services, or when you associate that account with our Services. For instance, when you associate your Facebook account with our Services, we may receive your public profile (name, profile picture, age range, gender, language, country and other public information), your friend list and your email address. If you sign up, log in with or associate other social media accounts with our Services, such as Twitter or Tumblr, we may obtain similar information from those platforms.
+  * You may also submit original content to us, which is covered under licenses set forth in our Terms of Use, describing other rights that you grant to us and other users.
 
-Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
 
-FINANCIAL INFORMATION:
 
-We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the "Payment Processor"), and use and storage of that information is governed by the Payment Processor's applicable terms of service and privacy policy.
+## Information We Collect by Automated Means On Our Site
 
-IP ADDRESS INFORMATION AND OTHER INFORMATION COLLECTED AUTOMATICALLY:
+We also may collect certain information from you by automated means, using technologies such as cookies, Web server logs, Web beacons and JavaScript.
 
-We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
+Cookies are files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device. Our Site may use HTTP cookies, HTML5 cookies and other types of local storage (such as browser-based or plugin-based local storage). Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site or other websites and online services.
 
-Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
+In conjunction with the gathering of information through cookies, our Web servers may log information such as your device type, operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Services. They also may log information about your interaction with this Site, such as which pages you visit. To control which Web servers collect information by automated means, we may place tags on our Web pages called “Web beacons,” which are small files that link Web pages to particular Web servers and their cookies. We also may send instructions to your device using JavaScript or other computer languages to gather the sorts of information described above and other details your interactions with the Site.
 
-Email Communications:
+We may use third-party Web analytics Services on our Site, such as those of Google Analytics. These services providers use the technology described above to help us analyze how users use the Site. The information collected by the technology (including your IP address) will be disclosed to or collected directly by these services providers, who use the information to evaluate your use of the Site. To learn about opting out of Google Analytics, please [click here](http://tools.google.com/dlpage/gaoptout).
 
-We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
+If you use Paper, we may collect the following information by automated means:
 
-Information Collected Using Cookies:
+  * The type of device you use and its operating system.
+  * Identification details of your device, such as any unique device identifier such as an IDFA (for iOS) or MAC address.
+  * IP address of your device.
+  * Other information about your device, such as your device hardware model, operating system version, or mobile network information.
+  * Information about your use of Paper.
+  * Any data associated with and identifying the stylus or other hardware or tools you are using in connection with our Services, including how you use that stylus to interact with Paper and our Services. This might include, for instance, information about service usage, frequency of usage, content placed or accessed, and communications you make available through your use of the Services;
+  * If we collect device-based, precise geo-location information, we will provide notice to you of that collection and our purpose for doing so.
 
-Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet. 
 
-Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services. 
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services.
+## How We Use the Information We Collect
 
-This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer. 
+We may use the information we collect through the Services to provide the Services and fulfill the immediate purpose for which it was requested, as well as for other purposes. These purposes may include:
 
-Aggregate Information:
+  * Providing, administering and communicating with you about products, services, events and promotions (including by sending you newsletters and other marketing communications).
+  * Performing diagnostics and analysis to evaluate how our Services operate, and how people are using them.
+  * Processing, evaluating and responding to your requests, inquiries and applications.
+  * Managing our customer information databases.
+  * Administering contests, sweepstakes and surveys.
+  * Customizing your experience with our Services.
+  * Operating, evaluating and improving our business (including developing new products and services; managing our communications; performing market research, data analytics and data appends; determining and managing the effectiveness of our advertising and marketing; analyzing our products and Services; and performing accounting, auditing, billing, reconciliation and collection activities).
+  * Protecting against and preventing fraud, unauthorized transactions, security issues, claims and other liabilities, and managing risk exposure and quality.
+  * Complying with and enforcing applicable legal requirements, industry standards and our policies and terms, such as our _Terms of  Use_.
+  * Providing customer support and diagnostic assistance, for instance, by reviewing information collected from the “Pencil” stylus or other hardware and tools you use.
 
-We collect statistical information about how users use the Services ("Aggregate Information"). This statistical information is not Personal Information and cannot be tied back to you or your web browser.
 
-How, and With Whom, Is My Information Shared?
 
-Some of the information generated through the Services is shared publicly or with third parties.
+Sometimes, we may combine certain parts of this information. For instance, when we provide you with customer support or other assistance, we may combine your account information and other personal information you’ve provided to us with information about your usage of the App, the Services, or the Pencil.
 
-Your Activity on the Services:
+## Sharing of Information
 
-Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted publicly on the Site or otherwise through the Services.
+We may share or allow you to share personal information as part of the Services. For example your user name and other account details may be associated with content and comments you post on or through the Services. We may allow you to post information to your social network account if your settings allow for such sharing. When you do this, Information you submit to a third-party widget or plugin on our Services, such as the Twitter widget in Paper, is collected directly by the provider of that widget or plugin and is not subject to our Privacy Policy.
 
-Please also remember that if you choose to provide Personal Information using certain public features of the Services, then that information may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
+We may share personal information we collect on the Services with certain Services providers, who provide customer or technical support, billing support, shipping and order fulfillment, marketing and email services, data support and services, and other operational services that help us offer our own Services to you.
 
-IP Address Information:
+We also may disclose information about you (i) if we are required to do so by law, regulation or legal process, such as a court order or subpoena; (ii) in response to requests by government agencies, such as law enforcement authorities; or (iii) when we believe disclosure is necessary or appropriate to prevent physical, financial or other harm, injury or loss; or (iv) in connection with an investigation of suspected or actual unlawful activity. We also may disclose aggregated or non-identifiable information to third parties in a manner that does not identify particular users.
 
-While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy. 
+If we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation), then the information we have collected from you will likely be part of that transfer, as well.
 
-Information You Elect to Share:
+  1. **Your  Choices**
 
-You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services.
+Where applicable, you may amend your preferences regarding how we communicate with you by updating your profile or settings within your Paper account or contacting us as described in the How to Contact Us section below. You also may use certain settings features Paper to modify certain preferences regarding the sharing functionality of the app. You may unsubscribe from marketing-oriented emails by clicking on the “unsubscribe” link in those emails.
 
-Aggregate Information:
+  2. **Shopify**
 
-We may share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
+Our “store” is hosted on servers operated and hosted by Shopify, Inc. Shopify provides us with the online e-commerce platform that allows us to sell certain of our products and services to you, such as certain hard goods we offer. Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-Email Communications with Us:
+When you make a payment on our store, Shopify stores your credit card data, and is required to follow Payment Card Industry (PCI) rules, such as regarding encryption and deletion of purchase transaction information. For more information about Shopify, you may also want to read Shopify’s [Terms of Service](http://www.shopify.com/legal/terms) or [Privacy Policy](http://www.shopify.com/legal/privacy). You may also be required to accept these or other terms provided by Shopify, when you visit the “store.” If you agree to those terms, that agreement is with Shopify, not with us.
 
-As part of the Services, you may occasionally receive email and other communications from us. 
+  3. **Policy to California  Customers**
 
-Information Shared with Our Agents: 
+Subject to certain limitations under California Civil Code § 1798.83, if you are a California resident, you may ask us to provide you with (i) a list of certain categories of personal information that we have disclosed to certain third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of certain third parties that received personal information from us for their direct marketing purposes during that calendar year. We do not, however, share your personal information with marketers, subject to the above statute.
 
-We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
+  4. **Security**
 
-Information Disclosed Pursuant to Business Transfers: 
+Although we may take certain precautions that we believe may help protect against unauthorized access to our Services or related systems, no security is perfect. We make no promises regarding the security, integrity, availability or retention of the information collected or handled by our Services or related systems. For more details, please refer to the “Disclaimers” section of our _Terms of  Use_.
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
+  5. **Accessing or Changing Your Account  Information**
 
-Information Disclosed for Our Protection and the Protection of Others: 
+If you need to change or delete any personal information comprising your account (such as your name or email address), you may do so in your account settings in the App, or you may contact us at support@fiftythree.com. Please note that we may retain (and may be required to maintain) certain information for a period of time, for legal, accounting, or anti-fraud purposes.
 
-We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+  6. **Updates to Our Privacy  Policy**
 
-Information We Share With Your Consent: 
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. To inform you of any material changes, we will post the updated Privacy Policy on our Site for a period of time and indicate at the top of the Privacy Policy when it was updated.
 
-Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+  7. **Users From Outside the United  States**
 
-What Choices Do I Have Regarding My Information?
+The Services are provided, supported and hosted in the United States. Use of the Services is governed by United States law. If you are using the Services from outside of the United States, please be aware that any information we collect under this Policy may be transferred to, stored and processed in the United States. The data protection and other laws of the United States are not always as comprehensive as those in other countries. By using the Services, you consent to your information being transferred to our facilities.
 
-You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
+  8. **Users Under Thirteen Years of  Age**
 
-You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
+The Services are not intended for users under thirteen years of age, and if you are under thirteen years of age, please do not use the Services, or provide us with any information. Any ratings for the App or the Services provided by any third party shall have no bearing on this restriction.
 
-What Happens When There Are Changes to this Privacy Policy?
+  9. **No Third Party  Rights**
 
-We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+This Privacy Policy does not create rights enforceable by third parties.
 
-What If I Have Questions or Concerns? 
+  10. **How to Contact  Us**
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [legal@fiftythree.com](mailto:legal@fiftythree.com). We will make every effort to resolve your concerns.
+If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please send a detailed message to [legal@fiftythree.com](mailto:legal@fiftythree.com). Thank you.
+
+
+
+
+**Effective Date** : November 19, 2013
