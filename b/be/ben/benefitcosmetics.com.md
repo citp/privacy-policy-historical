@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitcosmetics.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525123311id_/http%3A//www.benefitcosmetics.com/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitcosmetics.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216171231id_/http%3A//www.benefitcosmetics.com/help/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy > Benefit Cosmetics
 
