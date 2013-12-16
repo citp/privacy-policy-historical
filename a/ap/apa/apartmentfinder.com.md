@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508113654id_/http%3A//www.apartmentfinder.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216180250id_/http%3A//www.apartmentfinder.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Apartment Finder
 
@@ -10,7 +10,7 @@ We may collect different types of information in several different ways from our
 
 You may browse our Websites without submitting any personal information. We may ask you for personal information at other times, including (but not limited to) when you request information about a property, enter a sweepstakes, contest, or promotion sponsored by us or one of our partners or you may provide us with personal information when you send us a letter or email message, such as if you report a problem with our Websites or services. If you contact us, we may keep a record of that correspondence.
 
-From time to time, we also may ask visitors to complete surveys that we use for research purposes. Wherever we collect personal information, the information you provide will be subject to the terms of this Policy. In addition, we may use IP addresses to analyze trends, administer the site, track visitor's movement, and gather broad demographic information for aggregate use. IP addresses, however, will not be linked to your personally identifiable information.
+From time to time, we also may ask visitors to complete surveys that we use for research purposes. Wherever we collect personal information, the information you provide will be subject to the terms of this Policy. In addition, we may use IP addresses to analyze trends, administer the site, track visitor's movement, and gather broad demographic information for aggregate use.
 
 Finally, our sites also may contain links and advertisements to other Websites that are operated by other companies or persons. Therefore, we do not control the privacy policies of those sites. This Policy statement only applies to information collected and maintained by us.
 
@@ -33,7 +33,7 @@ We use third-party companies to serve ads when you visit our Websites. These com
 
 Our primary goal in collecting personally identifiable and other information is to provide you, the visitor, with a customized experience on our Websites. This includes personalization services and many other types of services. By knowing a little about you, we are able to deliver more relevant advertisements and content, and hence a better and more valuable service, to you. For example, the more we know about the type of home or community in which you are interested, the more appropriate information we can deliver to you.
 
-In addition, we do research on our visitors' demographics, interests, and behavior based on the information provided to us when requesting more information, during a promotion, from our server log files, or from surveys. We do this to better understand and serve our visitors. This research is compiled and analyzed on an aggregated basis and may be shared with advertisers or business partners. We also collect IP addresses for system administration and to report aggregate, non-personally identifiable information to our advertisers and partners. For this purpose, no personally identifiable information will be linked to any information that can identify any individual person.
+In addition, we do research on our visitors' demographics, interests, and behavior based on the information provided to us when requesting more information, during a promotion, from our server log files, or from surveys. We do this to better understand and serve our visitors. This research is compiled and analyzed on an aggregated basis and may be shared with advertisers or business partners.
 
 **Who besides you is collecting my information?**
 
