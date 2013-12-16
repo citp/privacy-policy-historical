@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghafla.co.ke privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516043423id_/http%3A//www.ghafla.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghafla.co.ke privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216125533id_/http%3A//www.ghafla.co.ke/privacy-policy) for the most accurate reproduction.*
 
 # Uncategorised - Privacy Policy
 
@@ -7,7 +7,7 @@
 Details
      Category: [Uncategorised](http://www.ghafla.co.ke/privacy-policy/2-uncategorised)
      Created on Monday, 15 October 2012 11:47 
-     Hits: 13463 
+     Hits: 19561 
 
 We are committed to protecting user privacy. This Privacy Policy is designed to tell you about our practices in relation to the collection, use, and storage of information that you may provide via this Website at www.ghafla.co.ke (hereinafter referred to as "Website"). Please be sure to read this entire Privacy Policy before using or submitting information to this Website.
 
