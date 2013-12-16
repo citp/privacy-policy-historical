@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moofarmland.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616210537id_/http%3A//rockyou.com/ry/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moofarmland.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216051742id_/http%3A//rockyou.com/ry/privacypolicy) for the most accurate reproduction.*
 
 # About Us | Privacy Policy
 
@@ -42,7 +42,7 @@ Flash LSOs
 
 We use local shared objects, also known as Flash cookies, to store your preferences, such as volume control or high game score, or to display content to personalize your visit based upon what you view on our site. Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](https://web.archive.org/web/20130616210537id_/http%3A//rockyou.com/ry/#117118).
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](https://web.archive.org/web/20131216051742id_/http%3A//rockyou.com/ry/#117118).
 
 Resume Submission
 
