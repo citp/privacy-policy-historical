@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogyarchives.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608064952id_/http%3A//www.archives.com/%3F_act%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogyarchives.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216143503id_/http%3A//www.archives.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Archives
 
@@ -76,3 +76,5 @@ If you would like to stop receiving newsletters and marketing message emails fro
 
 Find your ancestors, discover new connections, and trace your family tree as far back as possible with Archives!   
 _Click the button below to try it for free!_
+
+[Start 7-Day Free Trial »](https://web.archive.org/web/20131216143503id_/http%3A//www.archives.com/GA.aspx?_act=checkoutOrg "7-day free trial")
