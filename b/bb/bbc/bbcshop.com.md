@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617012020id_/http%3A//www.bbcshop.com/help/security-and-privacy/scat/securityandprivacy/%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216054944id_/http%3A//www.bbcshop.com/help/security-and-privacy/scat/securityandprivacy/%23privacypolicy) for the most accurate reproduction.*
 
 # Security and Privacy at BBC Shop
 
@@ -269,7 +269,7 @@ BBC Shop is a division of BBC Worldwide Limited (BBCW, We, Us), a wholly owned s
 
 Back to top
 
-If you have any questions regarding BBC Shop, its goods, services or an order that you have placed, please contact us by: (a) emailing us at bbcshop@bbc.co.uk; (b) completing the feedback form available [**here**](https://www.bbcshop.com/scat/contactus); (c) calling us on 0844 848 9799 (Monday - Friday 08:30-18:00 - all UK calls will be charged at national rates); or (d) by faxing us on 01795 414 555. 
+If you have any questions regarding BBC Shop, its goods, services or an order that you have placed, please contact us by: (a) emailing us at [bbcshop@bbc.com](mailto:bbcshop@bbc.com); (b) completing the feedback form available [**here**](https://www.bbcshop.com/scat/contactus); (c) calling us on 0844 846 1417 (Monday - Friday 08:30-18:00 - all UK calls will be charged at national rates). 
 
 Back to top
 
@@ -302,7 +302,7 @@ Back to top
 
 All orders are subject to acceptance by us and availability of the requested item(s). After placing an order, you will receive an email from us acknowledging that we have received your order. It will state what the item(s) you have ordered are, the cost (including VAT and postage and packaging) and delivery, invoice and cancellation details. If your order has been unsuccessful, you will be made aware of the reason why and possible explanations. Please note that this acknowledgment email does not mean that your order has been accepted – your order constitutes an offer to us to purchase goods or services. All orders are subject to acceptance by us and we will confirm such acceptance by sending you an email confirming that we have dispatched the item(s) to you (the Dispatch Confirmation). That email shall represent our legal acceptance of the offer you made to purchase the item(s) and the contract between us (the Contract) will only be formed (and we will debit your account) when we send you the Dispatch Confirmation. 
 
-If we confirm to you that some but not other item(s) that you have ordered have been dispatched, those item(s) that have not been dispatched will not form part of the Contract. In the event of any change, such as a change in price or expected delivery date between completion of your order and Contract formation, we shall inform you and you shall at that point have the right to either (i) accept such change (in which case your email reply will represent a new offer which we will accept upon notification of dispatch) or (ii) reject such change (in which case your email reply will represent a withdrawal of your order, or the relevant part of your order as the case may be). If you have already paid for the item(s), we will refund the full aount no later than 30 days after the date of your order. 
+If we confirm to you that some but not other item(s) that you have ordered have been dispatched, those item(s) that have not been dispatched will not form part of the Contract. In the event of any change, such as a change in price or expected delivery date between completion of your order and Contract formation, we shall inform you and you shall at that point have the right to either (i) accept such change (in which case your email reply will represent a new offer which we will accept upon notification of dispatch) or (ii) reject such change (in which case your email reply will represent a withdrawal of your order, or the relevant part of your order as the case may be). If you have already paid for the item(s), we will refund the full amount no later than 30 days after the date of your order. 
 
 Back to top
 
@@ -424,26 +424,81 @@ Back to top
 
 
 
+## Verified by Visa and Mastercard SecureCode 
+
+  
+
+
 ### 1\. Visa and Mastercard SecureCode 
 
 Verified by Visa and Mastercard SecureCode are new services that protect your card details with a personal password in order to provide greater security to online shoppers. 
 
-In order for Verified by Visa and Mastercard Secure Code to work, you will need to register your card with a password (which will be known only by you). You only need to do this once, then whenever you use the card to shop online, you will be asked to enter the password during the checkout process.
+In order for Verified by Visa and Mastercard Secure Code to work, you will need to register your card with a password (which will be known only by you). You only need to do this once, then whenever you use the card to shop online, you will be asked to enter the password during the checkout process. 
 
-If you are not already registered for Verified by Visa or Mastercard Secure Code, you may be asked by your bank to register your card during the BBC Shop online checkout process and you will be directed to your bank's website to do so. If you would like to register your card without placing an order online at BBC Shop, you will need to contact the bank that issued your credit card.
+If you are not already registered for Verified by Visa or Mastercard Secure Code, you may be asked by your bank to register your card during the BBC Shop online checkout process and you will be directed to your bank's website to do so. If you would like to register your card without placing an order online at BBC Shop, you will need to contact the bank that issued your credit card. 
 
 If you have previously registered for Verified by Visa or Mastercard Secure Code, you will be prompted to enter your password when placing your order online at BBC Shop. 
 
 For further information regarding these services visit: 
 
-**Verified by Visa click[here ****](http://www.visaeurope.com/personal/onlineshopping/main.jsp) **.
+**Verified by Visa click[h ere](http://www.visae%20%20urope.com/personal/o%20%20nlineshopping/main.js%20%20p)**.
 
-**Mastercard Secure please click[here](http://www.mastercard.com/securecd/welcome.do)**. 
-
-****
-
-****
+**Mastercard Secure please click[h ere](http://www.mast%20%20ercard.com/securecd/w%20%20elcome.do)**. 
 
 Back to top
 
-****
+## EU Delivery Terms and Conditions
+
+  
+
+
+### 1\. Introduction to EU Delivery Terms and Conditions
+
+Delivery to an EU Member State (other than the UK) of any goods purchased from BBC Worldwide Limited on www.bbcshop.com (“BBC Shop”) is provided to you by Technicolor Video Services Ltd (“TECHNICOLOR”, “We” or “Us”). BBC Worldwide Limited (“BBCW”) sell, but do not deliver, goods to customers located in EU Member States (other than the UK). This page sets out the terms and conditions on which delivery of such goods is provided by Technicolor. Please read these terms and conditions carefully before ordering any goods from the BBC shop and confirming your delivery option. By choosing to accept delivery of your goods to an EU Member State (other than the UK), you are contracting with Technicolor and you agree to be bound by these terms and conditions. These terms and conditions are subject to change at any time, and it is your responsibility to check these terms and conditions regularly before ordering any goods in case there are any changes. 
+
+Back to top
+
+Once BBCW accepts your order to purchase goods, BBCW shall confirm such acceptance by sending you an email confirming that Technicolor has dispatched the goods(s) to you (the “Dispatch Confirmation”). The contract between you and BBCW for the purchase of the goods, and also the contract between you and TECHNICOLOR for the delivery of the goods, takes effect when BBCW sends you the Dispatch Confirmation. 
+
+You will be charged for the delivery service when the order you submit on the BBC Shop is accepted by BBCW. Upon receipt of your order, BBCW will collect your payment for the delivery service by Technicolor on behalf of Technicolor.
+
+Back to top
+
+### 3\. Availability and Delivery
+
+Information regarding delivery times is clearly displayed on the BBC Shop next to the goods. If no delivery date is specified, your order will be fulfilled within 30 days of the date of the Dispatch Confirmation, unless there are exceptional circumstances. 
+
+When We deliver the goods, you (or the recipient of the goods if different), may be required to sign on receipt of delivery. This signature will be used as proof that we have delivered the goods.
+
+All goods will be delivered to the address that you indicate when you complete the ‘delivery’ page of the BBC Shop. We currently deliver to the countries listed at [insert link to page]. 
+
+Back to top
+
+The goods will be at your risk from the time of delivery.   
+Ownership of the goods will only pass to you when BBCW receives full payment of all sums due in respect of the goods, including delivery charges. 
+
+Back to top
+
+All delivery charges shown on the BBC shop are inclusive of any taxes where applicable.   
+If you order goods for delivery outside the UK, they may be subject to import duties and taxes which are levied when the delivery reaches the specified destination. You will be responsible for payment of any such import duties and taxes. Please note that we have no control over these charges and cannot predict their amount. Please contact your local customs office for further information before placing your order.
+
+Please also note that you must comply with all applicable laws and regulations of the country for which the goods are destined. We are not liable for any breach by you of any such laws.
+
+Back to top
+
+### 6\. Data Protection and Privacy Policy
+
+In order to provide you with a delivery service, we will need to provide your personal information to our delivery partners so that they can arrange with you the delivery of the goods.
+
+We will process your personal information, and provide it to our delivery partners, in accordance with our privacy policy which is incorporated into these terms and conditions, a copy of which can be found here [insert link to TECHNICOLOR privacy policy]
+
+Back to top
+
+[](http://www.bbcshop.com/help/scat/help)
+
+or
+
+[](http://www.bbcshop.com/page/home)
+
+  
+
