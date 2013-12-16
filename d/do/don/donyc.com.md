@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the donyc.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616102721id_/http%3A//donyc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donyc.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216035036id_/http%3A//donyc.com/privacy) for the most accurate reproduction.*
 
-# DoNYC | NYC Music, Art, Theater, Happy Hours & Fun
+# doNYC | NYC Music, Art, Theater, Happy Hours & Fun
 
 Your privacy is critically important to us. We have a few fundamental principles:
 
-  * We don’t ask you for personal information unless we have a good reason. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
-  * We don’t share your personal information with anyone except to operate our business, comply with the law, develop and improve our services, or protect our rights and the rights of third parties.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
-  * In our services, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and where possible, permanently deleted.
+  * We don't ask you for personal information unless we have a good reason. (We can't stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don't share your personal information with anyone except to operate our business, comply with the law, develop and improve our services, or protect our rights and the rights of third parties.
+  * We don't store personal information on our servers unless required for the on-going operation of one of our services.
+  * In our services, we aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and where possible, permanently deleted.
 
 
 
 This is our privacy policy which incorporates these principles. This policy applies to all of our operations and activities on this website.
 
-We (DoNYC) operate this website (donyc.com), using the Local Platform™ provided to us under a subscription agreement by DoStuff Media, LLC (DoStuff). It is our policy to respect your privacy regarding any information we may collect while operating our website.
+We (doNYC) operate this website (doNYC), using the Local Platform™ provided to us under a subscription agreement by DoStuff Media, LLC (DoStuff). It is our policy to respect your privacy regarding any information we may collect while operating our website.
 
 ## We Are Part of the DoStuff Network
 
-Our website is powered by DoStuff’s Local Platform™. All of the information we are given through this website is necessarily shared with DoStuff, because DoStuff develops, hosts and operates the web application that powers this website. In turn, DoStuff shares this information with other websites in the DoStuff Network – that is, third parties that have subscribed to a software platform offered by DoStuff, including but not limited to the Local Platform, Event Calendar Partner Platform, and the Festival Platform. Sharing information among the websites in the DoStuff Network allows our website to be rich with content about bands, events, and other non-personally identifiable information.
+Our website is powered by DoStuff's Local Platform™. All of the information we are given through this website is necessarily shared with DoStuff, because DoStuff develops, hosts and operates the web application that powers this website. In turn, DoStuff shares this information with other websites in the DoStuff Network — that is, third parties that have subscribed to a software platform offered by DoStuff, including but not limited to the Local Platform, Event Calendar Partner Platform, and the Festival Platform. Sharing information among the websites in the DoStuff Network allows our website to be rich with content about bands, events, and other non-personally identifiable information.
 
 Personally identifiable information given to us is shared with DoStuff as the developer, host and operator of the software that powers our site. Your personally identifiable information is not, however, shared with any other website in the DoStuff Network unless you choose to register or login at that particular website.
 
@@ -25,17 +25,17 @@ Every website in the DoStuff Network has adopted a privacy policy identical to t
 
 ## Website Visitors
 
-Like most website operators, we collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our website so we can make appropriate changes and improvements. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of our website, or by telling advertisers how many page views our website delivers, or the average number of unique visitors that come to our website in a month.
+Like most website operators, we collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our website so we can make appropriate improvements and so we can provide information about products and offerings from ourselves and from select third party partners that our visitors may be interested in. So that DoStuff, the sites in the DoStuff Network, and our select third party partners can improve and serve you better.
 
 We also collect potentially personally-identifying information like Internet Protocol (IP) addresses. We do not use such information to identify our visitors, however, and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below.
 
-## Gathering of Personally-Identifying Information
-
-Certain visitors to our website choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. For example, we ask visitors who sign up for an account at our website to provide an email address. Those who engage in transactions with us are asked to provide additional information, including as necessary the personal and financial information required to process the requested transactions. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with us. We do not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-
 ## Aggregated Statistics
 
-We may collect statistics about the behavior of visitors to our website. For instance, we may monitor the most popular events on the website. We may display this information publicly or provide it to others. However, we do not disclose personally-identifying information other than as described below.
+We may collect non-personally identifying information about the behavior of visitors to our website. For instance, we may monitor the most popular events on the website. We may display this information publicly or provide it to others. However, we do not disclose personally-identifying information other than as described below.
+
+## Gathering of Personally-Identifying Information
+
+Certain visitors to our website choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. For example, we ask visitors who sign up for an account at our website to provide an email address. Those who engage in transactions with us are asked to provide additional information, including as necessary the personal and financial information required to process the requested transactions. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with us. We do not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ## Use and Protection of Personally-Identifying Information
 
@@ -47,7 +47,7 @@ We will not rent or sell potentially personally-identifying and personally-ident
 
 We may disclose potentially personally-identifying and personally-identifying information when we believe in good faith that it is required by law or legal process, or reasonably necessary to protect, assert or defend the property or rights of us, third parties or the public at large.
 
-If you join our site, or if you log into our site using credentials you set at another site in the DoStuff Network, and you have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with us and our products. We primarily use our various blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it without intentionally identifying you in order to help us clarify or respond to your request or to help us support other users.
+If you join our site, or if you log into our site using credentials you set at another site in the DoStuff Network, and you have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with us and our products. We primarily use our various blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it without intentionally identifying you in order to help us clarify or respond to your request or to help us support other users.
 
 We will not use your personally identifiable information to send unrelated commercial email (spam), and will not authorize anyone else to do so.
 
@@ -55,7 +55,7 @@ We take all measures reasonably necessary to protect against the unauthorized ac
 
 ## Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. We use cookies to help us identify and track visitors, their usage of our website, and their website access preferences.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. We use cookies to help us identify and track visitors, their usage of our website, and their website access preferences.
 
 In addition, DoStuff may set a cookie on your computer when you visit our site or another site in the DoStuff Network. DoStuff may use this cookie to learn about how you use of the DoStuff Network and what you are interested in, so that DoStuff and the sites in the DoStuff Network can improve and serve you better. If you are a registered user, this cookie will be tied to your user account and your personally identifiable information; however, DoStuff will only share your personally identifiable information with those sites in the DoStuff Network where you choose to register or log in.
 
@@ -77,7 +77,7 @@ Although most changes are likely to be minor unless we introduce a new service t
 
 If you feel that we are not abiding by this privacy policy, or if you have any other questions or concerns, please contact us at the following address:
 
-jon@donyc.com
+donyc@donyc.com
 
 You should also provide a copy of your complaint, question or concern to DoStuff:
 
