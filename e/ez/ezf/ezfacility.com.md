@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezfacility.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611104134id_/http%3A//www.ezfacility.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezfacility.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216053400id_/http%3A//www.ezfacility.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,4 +102,4 @@ EZFacility reserves the right to change this Privacy Statement. EZFacility will 
 
 ## 12\. Contacting Us
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to EZFacility Privacy by emailing [info@ezfacility.com](mailto:info@ezfacility.com) or by mailing EZFacility, 700 Hicksville Rd, Suite 110, Bethpage, NY, 11714.
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to EZFacility Privacy by emailing [info@ezfacility.com](mailto:info@ezfacility.com) or by mailing EZFacility, 67 Froehlich Farm Blvd., Woodbury, NY, 11797.
