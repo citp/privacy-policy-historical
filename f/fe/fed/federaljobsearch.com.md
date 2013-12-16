@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federaljobsearch.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616100427id_/http%3A//www.americajob.com/americajob/pages/Terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federaljobsearch.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216120719id_/http%3A//www.americajob.com/americajob/pages/Terms.aspx) for the most accurate reproduction.*
 
 # 
 
