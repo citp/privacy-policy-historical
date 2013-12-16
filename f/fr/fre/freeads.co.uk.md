@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629181254id_/http%3A//www.freeads.co.uk/info/privacy%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216213502id_/http%3A//www.freeads.co.uk/info/privacy%23privacy) for the most accurate reproduction.*
 
 # Freeads.co.uk - Classified ads
 
@@ -21,6 +21,8 @@ We also use cookies for additional purposes including:
 
 
 There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to freeads.co.uk and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for one 6 months from your last visit to freeads.co.uk and enable us to remember you on subsequent visits. 
+
+We also collect your data for Google Remarketing, Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting. You can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). 
 
 ## Use and disclosure of personal information
 
