@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527164216id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216041524id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Bleacher Nation | Chicago Cubs News, Rumors, and Commentary
 
@@ -62,9 +62,9 @@ If you decide to visit Bleacher Nation, your visit and any possible dispute over
 
 **Effective Date of this Privacy Policy**
 
-This Privacy Policy is effective as of 5/17/2011 and last updated 12/19/2012.
+This Privacy Policy is effective as of 5/17/2011 and last updated 11/23/2013.
 
-## Terms of Use
+## Terms of Use and Commenting Policy
 
 The web pages available at bleachernation.com, and all linked pages, are owned and operated by Bleacher Nation, and are accessed by you under the Terms of Use described below.
 
@@ -78,21 +78,25 @@ You agree, through your use of this service, that you over 13 years old and have
 
 You agree, through your use of this service, that you will be respectful, as appropriate, of other users and the administrators of this site, and that you will follow the law. Specifically, you agree that you will not use this service for purposes not reasonably intended by Bleacher Nation, including, but not limited to:
 
-  1. to abuse, harass, threaten, impersonate or intimidate other Bleacher Nation users;
-  2. to post or transmit any content that is infringing, libelous, defamatory, obscene, pornographic, abusive, offensive, profane, or otherwise violates any law or right of any third party, or content that contains homophobia, ethnic slurs or religious intolerance;
+  1. to abuse, harass, threaten, impersonate, or intimidate other Bleacher Nation users;
+  2. to post or transmit any content that is infringing, libelous, defamatory, obscene, pornographic, abusive, offensive, profane, or otherwise violates any law or right of any third party, or content that contains homophobia, racial/ethnic slurs or insults, or religious intolerance;
   3. for any illegal or unauthorized purpose. If you are an international user, you agree to comply with all local laws regarding online conduct and acceptable content;
   4. to post or transmit any communication or solicitation designed or intended to obtain password, account, or private information from any Bleacher Nation user;
   5. to create or submit unwanted email (i.e., spam) to any other Bleacher Nation users or any URL;
   6. to violate any laws in your jurisdiction (including but not limited to copyright laws);
   7. with the exception of accessing RSS feeds, you will not use any robot, spider, scraper or other automated means to access Bleacher Nation for any purpose without our express written permission. Additionally, you agree that you will not: (i) take any action that imposes, or may impose in our sole discretion an unreasonable or disproportionately large load on our infrastructure; (ii) interfere or attempt to interfere with the proper working of the site or any activities conducted on the site; or (iii) bypass any measures we may use to prevent or restrict access to the site;
-  8. attempt to impersonate another user or person;
-  9. sell or otherwise transfer your profile.
+  8. to attempt to impersonate another user or person;
+  9. to sell or otherwise transfer your profile;
+  10. to unfairly insult, attack, deride or threaten players, managers, executives or other persons affiliated with MLB (i.e., name-calling, personal insults, threatening comments, aggressive language, etc. – this is not designed to stamp out reasoned or fair/thoughtful criticism); or
+  11. to engage in behavior that is not in the interest of facilitating enjoyable, productive discussion (i.e., disruptive comments; excessive caps, exclamation points, and/or text-speak; “trolling;” comments designed to annoy, irritate, or otherwise inflame the passions of other users). Disagreements are fine and encouraged. Persistent, irritating behavior is not.
 
 
 
 You agree, through your use of this service, not to post any copyrighted material unless the copyright is owned by you or by this site. You may post a small portion of copyrighted material if you attribute authorship, and source it with a link.
 
 You agree, through your use of this service, not to post directly any sexually explicit material – specifically, you agree not to post any pictures/videos/etc. that we nerds in the internet world would characterize as “NSFW.”
+
+You agree, through your use of this service, that the administrator and/or any moderators will determine, in their best discretion, whether your participation in the site violates any of the above, and whether corrective action is necessary.
 
 You agree, through your use of this service, that you understand that Bleacher Nation does not make any representations or warranties as to the accuracy or completeness of content posted on this site. **Bleacher Nation hereby disclaims all warranties in connection with the content posted on this site**.
 
