@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dsexvilla.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627200603id_/http%3A//www.3dsexvilla.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dsexvilla.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216093935id_/http%3A//www.3dsexvilla.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 3D Sexvilla 2.0 - Privacy Policy
 
