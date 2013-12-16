@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the b4tea.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425115221id_/http%3A//b4tea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b4tea.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216101738id_/http%3A//b4tea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | B4Tea.com
+# Privacy Policy
 
 **Privacy Policy**
 
