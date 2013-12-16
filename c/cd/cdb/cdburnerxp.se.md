@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622031957id_/http%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216204828id_/http%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
 
 # CDBurnerXP: Privacy Policy
 
