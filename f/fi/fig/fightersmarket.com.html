@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fightersmarket.com privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617044302id_/http%3A//www.fightersmarket.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fightersmarket.com privacy policy that was archived on 2013-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216064735id_/http%3A//www.fightersmarket.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -16,6 +16,7 @@
 <script type="text/javascript" async="" src="//service.optify.net/opt-v2.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -31,8 +32,31 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.4.92"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -148,9 +172,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Brazil+Combat">Brazil Combat</option>
 <option value="Break+Point">Break Point</option>
 <option value="Bull+Terrier">Bull Terrier</option>
-<option value="Clinch+Gear">Clinch Gear</option>
 <option value="Contract+Killer">Contract Killer</option>
-<option value="Cryo+Productions">Cryo Productions</option>
 <option value="Dethrone+Royalty">Dethrone Royalty</option>
 <option value="Do+or+Die">Do or Die</option>
 <option value="Dragao">Dragao</option>
@@ -158,6 +180,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Fighting+Sports">Fighting Sports</option>
 <option value="Fuji">Fuji</option>
 <option value="Gameness">Gameness</option>
+<option value="Gawakoto">Gawakoto</option>
 <option value="Gracie">Gracie</option>
 <option value="Hayabusa">Hayabusa</option>
 <option value="Isami">Isami</option>
@@ -169,21 +192,20 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Krugans">Krugans</option>
 <option value="Manto">Manto</option>
 <option value="Matman">Matman</option>
+<option value="Meerkatsu">Meerkatsu</option>
 <option value="Moya+Brand">Moya Brand</option>
 <option value="NoGi">NoGi</option>
 <option value="OTM">OTM</option>
 <option value="Prana+Kimonos">Prana Kimonos</option>
 <option value="Punch+Town">Punch Town</option>
-<option value="Rapid+Rehydration">Rapid Rehydration</option>
-<option value="Red+Nose">Red Nose</option>
 <option value="RevGear">RevGear</option>
 <option value="Ronin">Ronin</option>
 <option value="Scramble">Scramble</option>
 <option value="Shock+Doctor">Shock Doctor</option>
-<option value="Spider+Guard">Spider Guard</option>
 <option value="Sprawl">Sprawl</option>
 <option value="Storm">Storm</option>
 <option value="Submission+FC">Submission FC</option>
+<option value="Tatami">Tatami</option>
 <option value="Tatami+Fightwear">Tatami Fightwear</option>
 <option value="Training+Mask">Training Mask</option>
 <option value="Triumph+United">Triumph United</option>
@@ -247,23 +269,11 @@ function mSubClk1(src, popup)
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Bull-Terrier-kimonos-s/243.htm" title="Bull Terrier kimonos">Bull Terrier</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
 			<a href="http://www.fightersmarket.com/gameness-gi-s/187.htm" title="gameness gi">Gameness</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Hayabusa-Gis-s/196.htm" title="Hayabusa Gis">Hayabusa</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/venum-gi-s/191.htm" title="venum gi">Venum</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Scramble-Kimonos-s/256.htm" title="Scramble Kimonos">Scramble</a>
+			<a href="http://www.fightersmarket.com/Bull-Terrier-kimonos-s/243.htm" title="Bull Terrier kimonos">Bull Terrier</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -271,27 +281,11 @@ function mSubClk1(src, popup)
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Do-or-Die-Gi-s/249.htm" title="Do or Die Gi">Do or Die</a>
+			<a href="http://www.fightersmarket.com/Gawakoto-Kimonos-s/259.htm" title="Gawakoto Kimonos">Gawakoto</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Moya-Brand-Kimonos-s/247.htm" title="Moya Brand Kimonos">Moya Brand</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Prana-Kimonos-s/257.htm" title="Prana Kimonos">Prana Kimonos</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="/Jiu-Jitsu-Gis/Brazil-Combat-Kimonos_s/176.htm" title="brazil combat kimonos">Brazil Combat</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Break-Point-Gi-s/200.htm" title="Break Point Gi">Break Point</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="/Jiu-Jitsu-Gis/Manto-Kimonos_s/167.htm" title="manto kimonos">Manto</a>
+			<a href="http://www.fightersmarket.com/Scramble-Kimonos-s/256.htm" title="Scramble Kimonos">Scramble</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -299,7 +293,7 @@ function mSubClk1(src, popup)
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Black-Eagle-Gi-s/244.htm" title="Black Eagle Gi">Black Eagle</a>
+			<a href="http://www.fightersmarket.com/31Fifty-Gi-31-50-Gi-s/260.htm" title="31Fifty Gi, 31/50 Gi">31Fifty</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -307,7 +301,35 @@ function mSubClk1(src, popup)
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/category-s/190.htm" title="">On The Mat</a>
+			<a href="http://www.fightersmarket.com/venum-gi-s/191.htm" title="venum gi">Venum</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="http://www.fightersmarket.com/Hayabusa-Gis-s/196.htm" title="Hayabusa Gis">Hayabusa</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="/Jiu-Jitsu-Gis/Brazil-Combat-Kimonos_s/176.htm" title="brazil combat kimonos">Brazil Combat</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="/Jiu-Jitsu-Gis/Manto-Kimonos_s/167.htm" title="manto kimonos">Manto</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="http://www.fightersmarket.com/Prana-Kimonos-s/257.htm" title="Prana Kimonos">Prana Kimonos</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="http://www.fightersmarket.com/Royal-Combat-s/258.htm" title="Royal Combat">Royal Combat</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="http://www.fightersmarket.com/Break-Point-Gi-s/200.htm" title="Break Point Gi">Break Point</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="http://www.fightersmarket.com/Moya-Brand-Kimonos-s/247.htm" title="Moya Brand Kimonos">Moya Brand</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -315,23 +337,23 @@ function mSubClk1(src, popup)
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Isami-Gis-s/198.htm" title="Isami Gis">Isami</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="/Jiu-Jitsu-Gis/Red-Nose-Kimonos_s/102.htm" title="red nose kimonos">Red Nose</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="/Jiu-Jitsu-Gis/Dragao-Kimonos_s/174.htm" title="dragao kimonos">Dragao</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
 			<a href="http://www.fightersmarket.com/Submission-FC-s/212.htm" title="Submission FC">Submission FC</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Clinch-Gear-Gi-s/252.htm" title="Clinch Gear Gi">Clinch Gear</a>
+			<a href="http://www.fightersmarket.com/Isami-Gis-s/198.htm" title="Isami Gis">Isami</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="http://www.fightersmarket.com/Do-or-Die-Gi-s/249.htm" title="Do or Die Gi">Do or Die</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="http://www.fightersmarket.com/Black-Eagle-Gi-s/244.htm" title="Black Eagle Gi">Black Eagle</a>
+			</td></tr>
+			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
+			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
+			<a href="/Jiu-Jitsu-Gis/Dragao-Kimonos_s/174.htm" title="dragao kimonos">Dragao</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -347,7 +369,7 @@ function mSubClk1(src, popup)
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/kids-kimonos-s/21.htm" title="kids kimonos">Kids Gis &amp; Belts</a>
+			<a href="http://www.fightersmarket.com/kids-kimonos-s/21.htm" title="kids kimonos">Kids Gis &amp; Gear</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr1(this);" onmouseout="mSubOut1(this);" onclick="mSubClk1(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu1_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -427,14 +449,6 @@ function mSubClk2(src, popup)
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu2_Bullet_End.gif" alt="" align="absmiddle"> 
 			<a href="http://www.fightersmarket.com/Cutting-Weight-s/209.htm" title="Cutting Weight">Cutting Weight</a>
 			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr2(this);" onmouseout="mSubOut2(this);" onclick="mSubClk2(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu2_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/dvds-s/78.htm" title="dvds">BJJ DVDs</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr2(this);" onmouseout="mSubOut2(this);" onclick="mSubClk2(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu2_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/instructional-dvds-s/147.htm" title="instructional dvds">Instructional DVDs</a>
-			</td></tr>
 </tbody></table>
 </div>
 				<div id="display_menu_3" class="nav_menu">
@@ -463,10 +477,6 @@ function mSubClk3(src, popup)
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr3(this);" onmouseout="mSubOut3(this);" onclick="mSubClk3(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu3_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/tank-tops-s/112.htm" title="tank tops">Tank Tops</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr3(this);" onmouseout="mSubOut3(this);" onclick="mSubClk3(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu3_Bullet_End.gif" alt="" align="absmiddle"> 
 			<a href="http://www.fightersmarket.com/hoodies-s/106.htm" title="hoodies">Hoodies</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr3(this);" onmouseout="mSubOut3(this);" onclick="mSubClk3(this);">
@@ -475,15 +485,7 @@ function mSubClk3(src, popup)
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr3(this);" onmouseout="mSubOut3(this);" onclick="mSubClk3(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu3_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/gi-jackets-s/155.htm" title="gi jackets">Gi Jacket</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr3(this);" onmouseout="mSubOut3(this);" onclick="mSubClk3(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu3_Bullet_End.gif" alt="" align="absmiddle"> 
 			<a href="http://www.fightersmarket.com/hats-s/107.htm" title="hats">Hats</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr3(this);" onmouseout="mSubOut3(this);" onclick="mSubClk3(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu3_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/beanies-s/108.htm" title="beanies">Beanies</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr3(this);" onmouseout="mSubOut3(this);" onclick="mSubClk3(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu3_Bullet_End.gif" alt="" align="absmiddle"> 
@@ -534,10 +536,6 @@ function mSubClk4(src, popup)
 			<tr><td class="nav subnav" onmouseover="mSubOvr4(this);" onmouseout="mSubOut4(this);" onclick="mSubClk4(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu4_Bullet_End.gif" alt="" align="absmiddle"> 
 			<a href="http://www.fightersmarket.com/Training-Pads-s/227.htm" title="Training Pads">Training Pads</a>
-			</td></tr>
-			<tr><td class="nav subnav" onmouseover="mSubOvr4(this);" onmouseout="mSubOut4(this);" onclick="mSubClk4(this);">
-			<img src="/v/vspfiles/templates/fm10/images/Template/Menu4_Bullet_End.gif" alt="" align="absmiddle"> 
-			<a href="http://www.fightersmarket.com/Ankle-Support-s/235.htm" title="Ankle Support">Ankle Support</a>
 			</td></tr>
 			<tr><td class="nav subnav" onmouseover="mSubOvr4(this);" onmouseout="mSubOut4(this);" onclick="mSubClk4(this);">
 			<img src="/v/vspfiles/templates/fm10/images/Template/Menu4_Bullet_End.gif" alt="" align="absmiddle"> 
