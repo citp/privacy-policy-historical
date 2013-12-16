@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615034256id_/http%3A//www.lightingshowplace.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216033721id_/http%3A//www.lightingshowplace.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Security & Privacy
 
 Our postal address is:  
-282 Convair Ave.  
-Chico, CA 95973
+402 Otterson Drive, Suite 100  
+Chico, CA 95928
 
 We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 375-3410, which is our customer service call center.
 
@@ -56,5 +56,9 @@ Information about our customers is an important part of our business, and we are
 ## Conditions of Use, Notices, and Revisions
 
 If you choose to visit LightingShowplace.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at LightingShowplace.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
+
+## Update to Privacy Policy
+
+The Privacy Policy was last updated Jan. 1, 2010.
 
 **Copyright © 2000-2012 LightingShowplace.com, Inc. All Rights Reserved.**
