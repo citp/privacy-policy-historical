@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talentlms.com privacy policy that was archived on 2013-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130107044526id_/http%3A//www.talentlms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentlms.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216152724id_/http%3A//www.talentlms.com/privacy) for the most accurate reproduction.*
 
-# TalentLMS - Cloud based, Lean and Complete LMS with an emphasis on Usability and easy Course creation
+# TalentLMS - Privacy Policy
 
 TalentLMS provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of TalentLMS.com (this "Site"). This Privacy Policy applies only to information that you provide to us through this Site. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site at [Privacy policy](http://www.talentlms.com/privacy). 
 
