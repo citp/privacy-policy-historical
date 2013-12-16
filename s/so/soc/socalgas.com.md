@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523023254id_/http%3A//www.socalgas.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216134743id_/http%3A//www.socalgas.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # SoCalGas - Privacy Policy
 
@@ -28,6 +28,8 @@ Examples of Personal Information you may submit include your name, mailing addre
 SoCalGas uses this Personal Information to provide services, conduct its business, and improve our visitors’ experience on our web site.
 
 **Non Personal Information** : “Non Personal Information” refers to information that does not identify a specific individual by itself or in combination with other Non Personal Information. SoCalGas may collect Non Personal Information by using cookies, agents, or through the collection of traffic data and location information.
+
+**Do Not Track:** At this time, our web site does not respond to Do Not Track (DNT) signals sent from your web browser. Additionally, we use a variety of third-party services to help provide our services and to help us understand the use of our web site. These third-party service providers may collect information sent by your browser as part of a web page request, even if you have enabled your browser’s DNT functionality.
 
 **Cookies:** SoCalGas’s web site may store cookies on your computer or other device to allow us to monitor your use of the web site. No attempts are made to identify individual users unless actions are taken to identify yourself by an “opt in,” for example:
 
@@ -108,4 +110,4 @@ Please note, however, that information regarding these contacts or correspondenc
 
 Please also see our [Privacy Notice](https://web.archive.org/privacy-notice.shtml) regarding the privacy of your energy usage information.
 
-_Effective April 2012_
+_Effective December 2013_
