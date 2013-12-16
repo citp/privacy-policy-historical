@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abeka.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615031220id_/http%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abeka.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216094114id_/http%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # A Beka Book :: Privacy Policy
 
@@ -6,7 +6,7 @@ ABeka.com is operated by _A Beka Book, Inc._ (“ _A Beka Book_ ”), an affilia
 
 We respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the ABeka.com website and related applications.
 
-Last Updated: November 4, 2009
+Last Updated: November 27, 2013
 
 ## Information we may collect
 
@@ -26,6 +26,8 @@ We may use information to:
 
   * Fulfill your requests for products and services;
   * Offer products and services that may be of interest to you;
+  * Provide address information and individual shopping interests to select companies whose products or services may be of interest to you;
+  * Send you catalogs or other promotional materials on behalf of other companies;
   * Process payment for products or services you order;
   * Customize the content you see on our website;
   * Facilitate use of our website;
@@ -41,12 +43,15 @@ We may use information to:
 We will not share your personal information with others except as indicated below. We may share personal information with: 
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other PCC affiliates; and
+  * Other PCC affiliates;
+  * Other select companies whose products or services may be of interest to you; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
 
 
 We may share aggregated, non-personal information.
+
+We may allow third-party companies, including AddThis, Google, and DoubleClick, to collect certain anonymous information when you visit our website in part to inform, optimize, and serve ads based on your past visits to our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. We may use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 ## Your choices
 
