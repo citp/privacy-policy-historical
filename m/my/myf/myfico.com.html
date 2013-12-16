@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myfico.com privacy policy that was archived on 2013-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613072008id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myfico.com privacy policy that was archived on 2013-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216091417id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head id="ctl00_Head1">
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn.optimizely.com/js/61135178.js"></script>
@@ -18,7 +18,8 @@
     <meta property="og:image" content="http://www.myfico.com/Images/myFICO_Icon_NEW_100x100.png">
   
     <link rel="canonical" href="http://www.myFICO.com/policy/privacypolicy.aspx">
-  <link id="ctl00_DefaultStyleSheet" rel="stylesheet" type="text/css" media="all" href="/css/fico.css?v=1304"><link id="ctl00_linkGoogleCSS" href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,700,500,700italic" rel="stylesheet" type="text/css"> 
+  <link id="ctl00_DefaultStyleSheet" rel="stylesheet" type="text/css" media="all" href="/css/fico.css?v=1304"><link id="ctl00_linkGoogleCSS" href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css"> 
+ 
 
   <!--[if lte ie 8]>
   <style>
@@ -30,31 +31,44 @@
   
   
     
- 
-  <script type="text/javascript" src="/Include/jquery-1.8.2.min.js"></script> 
-  <script type="text/javascript" src="/Include/jquery.cookie.js"></script> 
-  <script type="text/javascript" src="/Include/newsHover.js"></script> 
-  
+
+      <script type="text/javascript" src="/Include/jquery-1.8.2.min.js"></script>
+    
+    <script type="text/javascript" src="/Include/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/Include/newsHover.js"></script>
   
   
   </head><body id="ctl00_myFICOMasterBody"><input type="hidden" id="hdnEsEn" value="Español">
-  <link rel="P3Pv1" href="/w3c/p3p.xml">      
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-33347452-1']);
-    _gaq.push(['_setDomainName', 'myfico.com']);
-    _gaq.push(['_trackPageview']);
+  <link rel="P3Pv1" href="/w3c/p3p.xml">
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-33347452-1']);
+      _gaq.push(['_setDomainName', 'myfico.com']);
+      _gaq.push(['_trackPageview']);
 
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>    
-
+      (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  
 
 
    
+  <!--[if lte IE 7]>
+  <div id="oodb">Your browser is out of date and some features on our site may be incompatible. Please <a id="iemsg" target="_blank" href="http://windows.microsoft.com/ie">update</a> your browser.<a id="iemsg_x" href="javascript:void(0)">X</a></div>
+  <script>
+    
+  if (document.cookie.indexOf("oodb") < 0) {
+    document.getElementById( 'oodb' ).style.display = 'block';
+    }
+    $("#iemsg_x, #iemsg").click(function () {
+      document.cookie = "oodb=true; path=/";
+      document.getElementById( 'oodb' ).style.display = 'none';
+    })
+  </script>
+  <![endif]-->
   <div id="main_m">
 
 <script type="text/javascript">
@@ -69,8 +83,11 @@
     'NewUser': $.cookie('NewUser'),
     'FicoOneTu': $.cookie('FicoOneTu'),
     'FicoOneEq': $.cookie('FicoOneEq'),
+    'FicoOneEx': $.cookie('FicoOneEx'),
+    'FicoCom': $.cookie('FicoCom'),
     'FicoFqm': $.cookie('FicoFqm'),
-    'FicoSws': $.cookie('FicoSws'),
+    'FicoSwa': $.cookie('FicoSwa'),
+    'FicoSwm': $.cookie('FicoSwm'),
     'FicoSwft': $.cookie('FicoSwft'),
     'FicoKit': $.cookie('FicoKit'),
     'Ficoldf': $.cookie('Ficoldf')
@@ -79,7 +96,7 @@
   // Show NPS survey only on member pages, e.g. member home, score watch or FQM pages and report pages
   var currentUri = document.location.pathname;
   var urisToShowSurveyOn = new Array('^/MemberCenter/', '^/report/', '^/cpp/', '^/scorewatch/');
-  var urisToNOTShowSurveyOn = new Array('^/MemberCenter/Error_Page.aspx', '^/ScoreWatch/Startup');
+  var urisToNOTShowSurveyOn = new Array('^/MemberCenter/Error_Page.aspx', '^/ScoreWatch/Startup', '^/Report/Fico3Bureau/');
   var showNpsSurvey = false;
   for (var i = 0; i < urisToShowSurveyOn.length; i++) {
     var pattern = new RegExp(urisToShowSurveyOn[i], 'i');
@@ -114,14 +131,14 @@
     
     
         <ul>
-          <li id="fibasket"><a href="https://shop.myfico.com/order/checkout.php?LANG=en&amp;SHOPURL=http%3a%2f%2fwww.myfico.com%2fPolicy%2fPrivacyPolicy.aspx&amp;ORDERSTYLE=nLXG4pa5kH4&amp;ava_showCrossSelling=1&amp;ava_hideCart=0&amp;ava_userIsLogged=0&amp;PHASH=635b7f38dfaa615c5b59696c824583ee" manual_cm_re="MasterPage-_-TertiaryHeaderNav-_-UtilNavBasket" id="lnkCart">Cart&nbsp;</a>
+          <li id="fibasket"><a href="https://shop.myfico.com/order/checkout.php?LANG=en&amp;SHOPURL=http%3a%2f%2fwww.myfico.com%2fpolicy%2fprivacypolicy.aspx&amp;ORDERSTYLE=nLXG4pa5kH4&amp;ava_showCrossSelling=1&amp;ava_hideCart=0&amp;ava_userIsLogged=0&amp;PHASH=635b7f38dfaa615c5b59696c824583ee" manual_cm_re="MasterPage-_-TertiaryHeaderNav-_-UtilNavBasket" id="lnkCart">Cart&nbsp;</a>
             
           </li>
           <li id="login"><a href="https://www.myFICO.com/SystemAccess/Login.aspx" manual_cm_re="MasterPage-_-TertiaryHeaderNav-_-UtilNavLogin">Log In</a></li>
           <li id="support"><a href="http://myfico.custhelp.com/app/answers/list/" manual_cm_re="MasterPage-_-TertiaryHeaderNav-_-UtilNavSupport">Support</a></li>
           
             <li id="lang">
-              <form action="https://espanol.myFICO.com/Policy/PrivacyPolicy.aspx?mpactionid=56" method="post" id="languagetoggleform" onsubmit="">
+              <form action="https://espanol.myFICO.com/policy/privacypolicy.aspx?mpactionid=56" method="post" id="languagetoggleform" onsubmit="">
                 <input type="hidden" name="scookies" value="">
                 <input type="submit" name="submit" value="Español" class="language">
               </form>
@@ -197,10 +214,8 @@
             <li><a href="http://www.myFICO.com" manual_cm_re="MasterPage-_-BreadCrumb-_-Home">Home</a></li><li id="end">Privacy Policy</li>
           </ul>
          
-        <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="MTUwNjQyNDcyOABL9G5v1PtxnNg6dBUIj4CUispeOq/idEcMJoEWL1A8yQTeNIed9w0p2pa+xx8xv6gQxevZZNALrEl5F4iOeG7k2B7cN7U0AQxluwZBIyOQsHZhtsmk8hp3vP+luQhKVs/hG6aQOb+XyCYzfq5FDXtURMrW1art9CIXkKBXr/ffemmbeGTaFaHmWnot4BVYENnlGiC9ETCsw2sjzoKHrrbmsLBZDLnP0uAO6cNX9VOPUpbGzYEKeoeOuV4QOPXf+qjL4oIszVzuuAODvX/tgL9zVLT8UeLi3Anb2AkZxFoCCHnDh8hXGHV3xzsdsuURyGx2vi0+zw4copOQ/0b0mpfYCHOwRtf2tDPT6/DlCzWnw+vuZQvUIXxlS+nHbPVVzfqBndCl9uUkeTt+pqWmI97JX4pRIngleo4659/paet1p0BjUU7TDOhfx4kMmaNRUK7DAEk/E4IdwoXN0rc56D85Sykdu2DNdr+ssDktoYUYrO0zacY2z+yX5rEv7tkT2JNvkHBYBGLTwELun1RJqPqv0tO8/j+EujOMRmJ5mrjZi7wIT0vsZhfBEKqYUvm5so7z0iU04l5n7ehJlliJhmkoPRG+IqZM52KxQFWfqJU0EjIuuyK6Cvd8dyCMQgyoWaDpJEJ/2VbctZx6rAcWV8uuoPoAdroi4JC+IWZtWeb4xctEW1+KakGwsYIKG+sLFZL6Jo/h6MkAyyHhdtZmXlR9DUzRpnJPdb26IY1k0wXUKyq4oIoKVkeA2fcgByKE8TGBey1dkQx/7kCy7g0KpJDt8EaxKCvoJtTBUikk+cf49JqYnQwSEUhjJLn45iI5ncOiXCHonF3hom/3Yzld7uSt7gVoJYV1aX8tTeP/Cp7WIhrQo5BVQEW/U80y6OHCnTxlIlEYholcUsawsV/kmc8QESUgNBQ+TcH+PXK3OS1YZUJj68Ef2lpku4jBwwW23yCwdrDYIM6WY4j4Cs5+PGcf9ynovKhinv08RlzmPrgfZjTNkIvPUeojPngoiyeWEx+OjA13olf5k0ydLq+PqgPzrsOS+9pS9J64zFwmvZy8Wk42APXsOEi/YEvxDtj+H+swxvry/3PMaQcN3gHipD7Noz8b+48vYqLZeRIq4nSy8trj1T0zmhUaaK3RakUgWpCm9FoPd4uv8JBWDGDalN4ZG4DfnDuXS42yJDChP3U4GuslI+87U55ogx8jK9fLuNKufIF1utvy++hNRtGos8FtHniT1l0lPd4wsaJSrqtjAPANV7HcwcOcaYA1p/SF0vb2URt812gSwdKmLVKI+P7+PaPMkV0hl4O6l06orleHHsmMFFeZThCc9ZMBJMQSFfxBNg80A7EuOYY57GJc12nT">
-</div>
+        <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="MTY4NDQ1MzUxOAAI7OkpQloNNwdCMXYK13wbde3GQ7aERt7jsxwvRHIw6qCODggxvRdadRccw7xapavH5EN56Cy/Ow1iCl2Ko9gqT4Z6xNcVOt3ond9zHXdZ0mabgWOfb6MbCi9Mj4ZLDXCmbJmuSLqA0p7sszRiEN5eo05jSLug8+TSRcP0t1/2tpd0tS4rAmiz5fAAQLybryDcJH8THFCKu2GMQDuABY3VI9ssA9vrW60kDvDU3d62Z6cAGiiRPEqT9UQa3ZqwhWo5rlesQdIaioFoK/UY8cSOCKZS5JRGppnJurf+XxtuWEI0wnsxSAY7ign1Yx9gVAe4wF8ZYa/idrLFQHmP+y7KeqMBiiCWgZfRYkSjUcNnu0bXGDfM/QHLNozqse/mRsXyQ9bmu+oEu5X+mWr+653uIhvcXlkqN77WL206tqM/vUMtGHNMbGMO1OxZH86llsFvgQTu0wHfV2CBFyg9Wr9ZXq4tf6ndOu8p0RPpy2c1bBbx8ODDyiN2n7CRwE0urj8GRUngbdUVlkTEyfMRCID9usLK5byosxFsoloIzWmgibTPuoWtPDPhr5Tmc+TCPSlKWS+DvTFqyVhZUvcG+9p6efFZ3+XoPXIAkbkbV0pIDt1nIWVD85gSQ7CO/CsS1ouYLSVGxav3XttL3CYgQcfMi4Ow45Ta9jKlWk8bOQ4M9upgYtKuwVt3gpHq2rV4R3fWREUBiyoqOTcf5XaFc3csVMX6MTCeKzr4ofbhxbK5kJderQ5Vb9Ewwt4SxIAw6QBeuH0EjZAXHWtC/enndwTn72XMvm1R1I3Em0pN7YSu5Z0jTAQLhYlmb56lSiNDNr+A1TBeY70QZsuvl55aU2zHSQiIKUTkcyG3icLYD+xf9MmMSUepTk9kNFOfx4VHO+wXgBjYKtUp+Exj+jzkJNzSNKI3NVvM0QkQzB5KN4x4EVy8Zwk6/oXvvBmXy/qxDoefaYrdYnaSw1M7GRUakPWIPlObra1/hRWR7i3h8mrxwqNbkSABEqBesr0y5YToh06t7hG/kyZ3oHz1unlHp5/tC4XhQ+olvaMl8ZT1qPhbvYFsp/Gr+PQJcw91IpYQiXbnteCFKqYdmdtJvlcbvZ4Janwf6d6JRepaiFmm1ohTMt9EGgLsgOareMVVC7V+3DomsqMkXPoSCeayZpIgePzG/UV4AbCwyjqnY+1yE59bYW7PvL/N2k79csebP1EmwDGyF+jR4/raMrQQaCBe1heBM8fVCHwRDKwa5wtM98YNr3QSERrLtj7kwI2jkQaFq7BeEGjCGOn0xUtCAkzNocb9UMwbKvcZ/ghs/NeFPFL578nqGkselkayMdudjMnPJON+pTBhXFv7Yp8zCLM9KhWZ5n9RbfGqomCTNRMHCQut+qsEd7H19uzxFLVeapPtVM79nYJooMkt/DPGHcY9ydg1NZZRsL/8EE/ioOoHCLg6vqScBYvDcxAxZpjmqv3sYIFWNXdVDZLB6C94zBlsNtMv">
 
     
           <input type="hidden" value="Server_01" id="trace_servername">
@@ -256,7 +271,7 @@ We may collect <u>Personal Information</u> from credit bureaus if it is necessar
 
 <p>
 
-  When you visit this Web site we may collect and store, either directly or through the use of a third party tracking system, the IP address of the computer making the request (this may not be the IP address of your personal computer, but the IP address assigned to your Internet connection by your Internet service provider or company network); the URL that is being requested; the date and time of the request; the browser type and operating system used to make the request; and the referring URL. We also may collect aggregate search terms from search engine referrals to determine what information visitors are searching for when they find our Web Sites.
+  When you visit this Web site we may collect and store, either directly or through the use of a third party tracking system, the IP address of the computer making the request (this may not be the IP address of your personal computer, but the IP address assigned to your Internet connection by your Internet service provider or company network); the URL that is being requested; the date and time of the request; the browser type and operating system used to make the request; and the referring URL. We also may collect aggregate search terms from search engine referrals to determine what information visitors are searching for when they find our Web Sites. We do not permit other parties to collect personally identifiable information about your online activities over time and across different Web sites when you use our Web site or service.
 
 </p>
 
@@ -370,7 +385,7 @@ Your Opt-Out Choices
 </strong>
 
 
-With respect to <i>Personal Information</i>, you have the ability to opt out of certain types of information sharing and communications. You may tell us not to:
+With respect to <i>Personal Information</i>, we do not honor electronic do-not-track signals sent by your browser when you visit our site or other mechanisms that would give you the ability to exercise choice regarding the collection of Personal Information about your online activities over time and across third party Web sites, but you have the ability to opt out of certain types of information sharing and communications. You may tell us not to:
 
 </p>
 
@@ -477,6 +492,7 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
       </div>
       <div style="clear:both;"></div>
     </div>
+    <div style="clear:both;"></div>
   </div>
   
         
@@ -492,8 +508,8 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
 		 
 		  <div class="trustLabel">
 			  <div class="ftr_seal_fico"><a href="/Products/Products.aspx" manual_cm_re="MasterPage-_-TrustLabel-_-FICOSeal"><img style="padding: 0px; border: none;" id="Img1" src="http://www.myFICO.com/images/Fico_seal.png" alt="FICO Score - The Score that matters"></a></div>
-			  <div class="ftr_seal_verisign" style="height:60px;margin-top:26px;"><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.myFICO.com&amp;lang=en" target="_blank"><img src="http://www.myFICO.com/images/store/vseal.gif" alt="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications."></a></div>
-			  <div class="ftr_seal_bbb"><a target="_blank" id="bbblink" href="http://www.bbb.org/greater-san-francisco/business-reviews/financial-services/wwwmyficocom-in-san-rafael-ca-37316#bbblogo" title="www.myfico.com is a BBB Accredited Financial Service in San Rafael, CA" style=" width: 151px; height: 57px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="http://www.myFICO.com/images/framework/bbb-seal-for-37316.png" width="151" height="57" alt="www.myfico.com is a BBB Accredited Financial Service in San Rafael, CA"></a></div>
+			  <div class="ftr_seal_verisign" style="height:60px;margin-top:26px;"><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.myFICO.com&amp;lang=en" target="_blank" rel="nofollow"><img src="http://www.myFICO.com/images/store/vseal.gif" alt="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications."></a></div>
+			  <div class="ftr_seal_bbb"><a target="_blank" id="bbblink" class="sehzbum" href="http://www.bbb.org/greater-san-francisco/business-reviews/financial-services/fair-isaac-corporation-in-san-rafael-ca-37316#bbbseal" title="Fair Isaac Corporation is a BBB Accredited Financial Service in San Rafael, CA" style="display: block;position: relative;overflow: hidden; width: 150px; height: 57px; margin: 0px; padding: 0px;" rel="nofollow"><img style="padding: 0px; border: none;" id="bbblinkimg" src="//seal-goldengate.bbb.org/logo/sehzbum/fair-isaac-corporation-37316.png" width="300" height="57" alt="Fair Isaac Corporation is a BBB Accredited Financial Service in San Rafael, CA"></a><script type="text/javascript">var bbbprotocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-goldengate.bbb.org' + unescape('%2Flogo%2Ffair-isaac-corporation-37316.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-goldengate.bbb.org/logo/fair-isaac-corporation-37316.js" type="text/javascript"></script></div>
       </div>
 		
   </div>
@@ -505,9 +521,9 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
       <div id="hSocialmedia"><span class="ntext">FOLLOW US</span> <img src="http://www.myFICO.com/images/chrome/new-social.png" width="152" height="31" border="0" alt="Social Media" usemap="#social-media">
       <map name="social-media">
         <area shape="rect" coords="0,0,30,30" href="https://www.facebook.com/myFICO" target="_blank" alt="Facebook">
-        <area shape="rect" coords="42,0,72,30" href="http://twitter.com/#!/myfico" target="_blank" alt="Twitter">
+        <area shape="rect" coords="42,0,72,30" href="http://twitter.com/myfico" target="_blank" alt="Twitter">
         <area shape="rect" coords="82,0,112,30" href="http://pinterest.com/myfico/" target="_blank" alt="Pinterest">
-        <area shape="rect" coords="122,0,152,30" href="http://gplus.to/myfico" target="_blank" alt="Google+">          
+        <area shape="rect" coords="122,0,152,30" href="http://gplus.to/myfico" target="_blank" alt="Google+" rel="publisher">          
       </map>
 		    <div id="newsletterSignUp">
     	   <span class="ntext subscribe">SUBSCRIBE TO myFICO EMAIL <a href="#1" id="newsLHelp" rel="newsletter"><img class="clearFloat" src="http://www.myFICO.com/images/chrome/q_mark.png" alt=""></a>
@@ -530,58 +546,32 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
   <div id="middle_footer">   	
     <div id="sitemap">      
       <div id="expandedfooter">
-        
+        		
 		      <ul id="memberFooter"> 
-		        <li class="topic"><a href="https://www.myFICO.com/systemaccess/login.aspx" manual_cm_re="MasterPage-_-FooterNav-_-Topic-Members">MEMBERS</a></li>
-			      <li>
-			      
-			        <a href="https://www.myFICO.com/systemaccess/login.aspx" manual_cm_re="MasterPage-_-FooterNav-_-Topic-LogIn">Log In</a>		
-			      
-			      </li>			      
-			      <li><a href="https://www.myFICO.com/MemberCenter/" manual_cm_re="MasterPage-_-FooterNav-_-Topic-MemberCenter">Member Center</a></li>		
-			      <li><a href="http://myfico.custhelp.com/app/answers/list/" manual_cm_re="MasterPage-_-FooterNav-_-YourAccount-CustomerSupport">Customer Support</a></li> 			      
+		        <li class="topic"><a href="https://www.myFICO.com/Products/FICOOne/" manual_cm_re="MasterPage-_-FooterNav-_-Quick-Links">Quick Links</a></li>
+			      <li><a href="http://www.myFICO.com/Products/FICOOne/" manual_cm_re="MasterPage-_-FooterNav-_-ProductFicoStandard">FICO Standard</a></li>
+            <li><a href="http://www.myFICO.com/Products/FICOKit/" manual_cm_re="MasterPage-_-FooterNav-_-ProductFICOKit">Suze Orman</a></li>		  
+			      <li><a href="https://www.myFICO.com/loancenter/mortgage/calculators/loanbalancelimit.aspx" manual_cm_re="MasterPage-_-FooterNav-_-Mortgage-calculator">Mortgage calculator</a></li>		
+			      <li><a href="https://www.myFICO.com/Goals/CreditCards/HowCreditCardsWork.aspx" manual_cm_re="MasterPage-_-FooterNav-_-Secured-creditcards">Secured credit cards</a></li> 			      
 			    </ul>		      
-        
-		      <ul> 
-			      <li class="topic"><a href="http://www.myFICO.com/Products/Products.aspx" manual_cm_re="MasterPage-_-FooterNav-_-ProductOverview">PRODUCTS</a></li>					
-            <li><a href="http://www.myFICO.com/Products/ScoreWatch/" manual_cm_re="MasterPage-_-FooterNav-_-ProdServ-ProductScoreWatch">Score Watch</a></li>
-            <li><a href="http://www.myFICO.com/Products/IDF/Description.aspx" manual_cm_re="MasterPage-_-FooterNav-_-ProductFQM">Quarterly Monitoring</a></li>	
-            <li><a href="http://www.myFICO.com/Products/FICOOne/Description.aspx" manual_cm_re="MasterPage-_-FooterNav-_-ProductFicoStandard">FICO Standard</a></li>	
-            <li><a href="http://www.myFICO.com/Products/FICOKit/" manual_cm_re="MasterPage-_-FooterNav-_-ProductFICOKit">Suze Orman's FICO Kit</a></li>		
-            <li><a href="http://www.myFICO.com/Products/IDFreeze/Description.aspx" manual_cm_re="MasterPage-_-FooterNav-_-ProductIDFreeze">IDFreeze</a></li>      						
-            <li><a href="http://www.myFICO.com/Products/PropertyReport/" manual_cm_re="MasterPage-_-FooterNav-_-ProductPropertyReport">Property Reports</a></li>
-          </ul>
-		      <ul> 
-			      <li class="topic"><a href="http://www.myFICO.com/HelpCenter/FICOScores/" manual_cm_re="MasterPage-_-FooterNav-_-HelpCenter">CREDIT GOALS</a></li>			      
-			      
-			        <li><a href="http://www.myFICO.com/HelpCenter/FICOScores/" manual_cm_re="MasterPage-_-FooterNav-_-HC-FICOScores">Monitor my financial health</a></li> 
-            
-            <li><a href="http://www.myFICO.com/HelpCenter/Mortgages/" manual_cm_re="MasterPage-_-FooterNav-_-HC-Mortgages">Lower my mortgage rates</a></li> 
-			      <li><a href="http://www.myFICO.com/Credit-Cards/" manual_cm_re="MasterPage-_-FooterNav-_-HC-CreditCards">Reduce my interest rate</a></li>
-			      <li><a href="http://www.myFICO.com/HelpCenter/DebtManagement/" manual_cm_re="MasterPage-_-FooterNav-_-HC-DebtManagement">Minimize my debt</a></li> 
-			      <li><a href="http://www.myFICO.com/HelpCenter/Autos/" manual_cm_re="MasterPage-_-FooterNav-_-HC-Auto">Lower my auto rates</a></li> 
-			      <li><a href="http://www.myFICO.com/HelpCenter/StudentLoans/" manual_cm_re="MasterPage-_-FooterNav-_-HC-StudentLoans">Payoff my student loans</a></li> 
-			      <li><a href="http://www.myFICO.com/HelpCenter/More/Identity_Theft.aspx" manual_cm_re="MasterPage-_-FooterNav-_-HC-More">Prevent identity theft</a></li>
-		      </ul>  		            
+                    
 		      <ul> 
 			      <li class="topic"><a href="http://www.myFICO.com/CreditEducation/" manual_cm_re="MasterPage-_-FooterNav-_-EducationCenter">FICO SCORES</a></li>		
 			      <li><a href="http://www.myFICO.com/CreditEducation/CreditScores.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-AboutFICOScores">Credit scores</a></li>
 			      <li><a href="http://www.myFICO.com/CreditEducation/WhatsInYourScore.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-WhatsInYourFICOScore">What's in your score</a></li>
-			      <li><a href="http://www.myFICO.com/CreditEducation/WhatsNotInYourScore.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-WhatsNotInYourScore.aspx">What's not in your score</a></li>
-			      <li><a href="http://www.myFICO.com/CreditEducation/ScoringHelps.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-ScoringHelps.aspx">How scoring helps you</a></li>
-			      <li><a href="http://www.myFICO.com/CreditEducation/FactsFallacies.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-FactsFallacies.aspx">Facts and fallacies</a></li>			      
+			      <!--<li><a href="http://www.myFICO.com/CreditEducation/improveyourscore.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-ImproveYourScore">Improve your Score</a></li>-->
+			      <li><a href="http://www.myFICO.com/CreditEducation/CreditChecks.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-Creditchecks">Credit checks</a></li>
+			      <!--<li><a href="http://www.myFICO.com/CreditEducation/questions/free-credit-report.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-Freecredtireport">Free credit report</a></li>-->		      
 			      <li><a href="http://www.myFICO.com/CreditEducation/CreditReports.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-AboutCreditReports">Credit reports</a></li>
-			      <li><a href="http://www.myFICO.com/CreditEducation/questions/" manual_cm_re="MasterPage-_-FooterNav-_-EC-questions">Credit Q&amp;A</a></li>
+			      <li><a href="http://www.myFICO.com/CreditEducation/rights/sampleletter.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-Creditdisputeletter">Credit dispute letter</a></li>
 			      <li><a href="http://www.myFICO.com/CreditEducation/calculators/" manual_cm_re="MasterPage-_-FooterNav-_-EC-calculators">Calculators</a></li>				            
 		      </ul>
 		      <ul> 
-			      <li class="topic"><a href="http://www.myFICO.com/SavingsCenter/Credit-Cards.aspx?qsid=Cards_All_MasterPage_Foot" manual_cm_re="MasterPage-_-FooterNav-_-SavingsCenter">SAVINGS CENTER</a></li>		
-			      <li><a href="http://www.myFICO.com/SavingsCenter/Credit-Cards.aspx?qsid=Cards_All_MasterPage_Foot" manual_cm_re="MasterPage-_-FooterNav-_-SC-CreditCards">Credit cards</a></li>
-			      <li><a href="http://www.myFICO.com/SavingsCenter/Home-Loans.aspx?qsid=Mort_All_MasterPage_Foot" manual_cm_re="MasterPage-_-FooterNav-_-SC-HomeLoans">Home loans</a></li>	
-					  <li><a href="http://www.myFICO.com/SavingsCenter/Deposits.aspx?qsid=Depo_All_MasterPage_Foot" manual_cm_re="MasterPage-_-FooterNav-_-SC-Deposits">Savings accounts</a></li>
-					  <li><a href="http://www.myFICO.com/SavingsCenter/Auto-Insurance.aspx?qsid=AuIn_All_MasterPage_Foot" manual_cm_re="MasterPage-_-FooterNav-_-SC-AutoInsurance">Auto insurance</a></li>
+			      <li class="topic"><a href="http://www.myFICO.com/SavingsCenter/More-Savings.aspx" manual_cm_re="MasterPage-_-FooterNav-_-SavingsCenter">WHAT'S NEW</a></li>		
+			      <li><a href="http://www.myFICO.com/SavingsCenter/More-Savings.aspx" manual_cm_re="MasterPage-_-FooterNav-_-SC-MoreSavings">More Savings</a></li>
+			      <li><a href="http://www.myFICO.com/CreditEducation/Questions/three-credit-scores.aspx" manual_cm_re="MasterPage-_-FooterNav-_-EC-threeCreditScores">Do I Need to know all 3 of my Credit Scores?</a></li>	
 		      </ul>		      
-		      <ul> 
+		      <ul id="lfulnb"> 
 			      <li class="topic"><a href="https://www.myFICO.com/Forum/Redirect.aspx" manual_cm_re="MasterPage-_-FooterNav-_-Community">COMMUNITY</a></li>		
 			      <li><a href="http://ficoforums.myfico.com/fico/board?board.id=creditcard" manual_cm_re="MasterPage-_-FooterNav-_-Community-CreditCards">Credit cards</a></li> 
 			      <li><a href="http://ficoforums.myfico.com/fico/board?board.id=loans" manual_cm_re="MasterPage-_-FooterNav-_-Community-MortgageLoans">Mortgage loans</a></li> 
@@ -606,7 +596,7 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
     <div id="copyright">
       Copyright ©2001-2013 
       
-        <a class="noPad" href="http://www.fico.com" target="_blank">Fair Isaac Corporation</a>.&nbsp;
+        <a class="noPad" href="/consumer-division-of-FICO.aspx" target="_blank">Fair Isaac Corporation</a>.&nbsp;
       
       
         All rights reserved. 
@@ -621,17 +611,13 @@ or 1-800-319-4433, or send correspondence to:<br>Customer Care Team<br>
         </span>
       
 			<div clear="both" style="height:7px"></div>	 
-      FICO and myFICO are registered trademarks of Fair Isaac Corporation. 
+      FICO, myFICO, Score Watch, The score lenders use, and The Score That Matters are registered trademarks of Fair Isaac Corporation. 
       
-        Equifax Credit Report is a trademark of Equifax, Inc. and its affiliated companies. 
-        Score Watch is a registered trademark of Equifax, Inc. and its affiliated companies.
-       
-        Many factors affect your FICO Score and the interest rates you may receive. 
-        Fair Isaac is not a credit repair organization as defined under federal or state law, including the Credit Repair Organizations Act. 
-        Fair Isaac does not provide "credit repair" services or advice or assistance regarding "rebuilding" or "improving" your credit record, 
-        credit history or credit rating. 
+        Equifax Credit Report is a trademark of Equifax, Inc. and its affiliated companies.
       
-        <a href="http://www.ftc.gov/credit" target="_blank">FTC's website on credit.</a>
+      Many factors affect your FICO Score and the interest rates you may receive. Fair Isaac is not a credit repair organization as defined under federal or state law, including the Credit Repair Organizations Act. Fair Isaac does not provide "credit repair" services or advice or assistance regarding "rebuilding" or "improving" your credit record, credit history or credit rating.<br>
+      
+        <a href="http://www.ftc.gov/credit" target="_blank" rel="nofollow">FTC's website on credit.</a>
        
       
     </div>
@@ -663,7 +649,6 @@ function InitGlobals() {
 
 
 
-
  
     $(document).ready(function() {
       $("#utilnav #utils ul li#lang input.language").click(function() {
@@ -671,7 +656,10 @@ function InitGlobals() {
       });
     });
 </script>
-   
+
+ 
+
+
 
 
 
@@ -708,12 +696,13 @@ function InitGlobals() {
   
 
   
-  <span id="order_content"></span>
-  <div id="processing_anim">
-    <img src="/images/store/ajax-loader.gif" width="32" height="32">
-  </div>
-  <script type="text/javascript" src="/Include/order.js"></script>
+    <span id="order_content"></span>
+    <div id="processing_anim">
+      <img src="/images/store/ajax-loader.gif" width="32" height="32">
     </div>
+    <script type="text/javascript" src="/Include/order.js"></script>
+    </div>
+  
 
 
 </body></html>
