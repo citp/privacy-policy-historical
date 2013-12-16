@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the samplelettersworld.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617172134id_/http%3A//www.samplelettersworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplelettersworld.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216110040id_/http%3A//www.samplelettersworld.com/privacy-policy) for the most accurate reproduction.*
 
 # SampleLettersWorld.com - Privacy Policy
 
 | [](http://www.samplelettersworld.com/)  
 ---|---  
   
-##  Privacy Policy 
-
 SampleLettersWorld.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 ## What This Privacy Policy Covers
