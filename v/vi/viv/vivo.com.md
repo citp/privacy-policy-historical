@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vivo.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515184729id_/http%3A//www.realnetworks.com/about-us/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivo.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216155119id_/http%3A//www.realnetworks.com/privacy-policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | RealNetworks
 
 **REALNETWORKS, INC., AND AFFILIATED ENTITIES**
 
-_This document was last updated Dec 11, 2012._
+_This document was last updated September 25, 2013._
 
 This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and worldwide subsidiaries, and RealNetworks divisions operating under different trade names, including GameHouse and Zylom (collectively "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes both personal and non-personal information when you use our products, services and websites.
 
@@ -78,6 +78,8 @@ We collect non-personal information that does not permit direct association with
 
 
 
+We also may share or disclose your personal information or the content of files you upload using RealNetworks’ products or services to comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
+
 **THIRD PARTY ADVERTISING – GENERAL  
 ** We allow third-party advertising companies to serve ads when you visit our websites or interact with our products or services. These companies use non-personal information about your visits in order to provide advertisements of interest to you. 
 
@@ -127,13 +129,13 @@ Separate RealNetworks products, services and lines of business may send separate
 
 To access your account information and preferences, select "Manage My Account" from the menus in the RealPlayer (usually under the "Help" menu) or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
 
-If you created an account with RealNetworks, you may review and update your account on the web at [www.real.com](http://www.real.com/ "www.real.com") or by selecting "My Account," and logging in using your name and password. If you have forgotten a username or password, you can use our [online help resources ](http://service.real.com/ "online help resources ")or contact customer service at: (866) 834-5509 Monday - Friday, 8 am - 5 PM Pacific Time.
+If you created an account with RealNetworks, you may review and update your account on the web at [www.real.com](http://www.real.com/ "www.real.com") or by selecting "My Account," and logging in using your name and password. If you have forgotten a username or password, you can use our [online help resources ](http://service.real.com/ "online help resources ")or contact customer service at: 1-866-420-5780 Monday - Friday, 8 am - 5 PM Pacific Time.
 
 ## USE OF COOKIES
 
 We use cookies, web beacons, pixel tags, and similar technologies to provide you with a tailored experience.
 
-**For more information on our use of cookies, please see our[cookie policy](https://web.archive.org/web/20130515184730id_/http://www.realnetworks.com/privacy-policy/cookies.aspx)**
+**For more information on our use of cookies, please see our[cookie policy](https://web.archive.org/web/20131216155119id_/http%3A//www.realnetworks.com/privacy-policy/cookies.aspx)**
 
 ## CHANGES TO OUR PRIVACY POLICY
 
@@ -167,7 +169,7 @@ Privacy Policy Group
 RealNetworks, Inc.  
 P.O. Box 91123  
 Seattle, WA 98111-9233  
-<https://real.custhelp.com/app/ask/support_type/1>  
+[https://realnetworks.zendesk.com/anonymous_requests/new ](https://realnetworks.zendesk.com/anonymous_requests/new)
 
 ## SPECIFIC TOPICS
 
