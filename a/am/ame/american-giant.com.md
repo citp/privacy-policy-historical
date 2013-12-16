@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american-giant.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615160423id_/http%3A//www.american-giant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american-giant.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216080016id_/http%3A//www.american-giant.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Giant
 
@@ -7,7 +7,7 @@
 
 ## PRIVACY POLICY
 
-Date of Last Revision: Feb 1, 2012
+Date of Last Revision: Oct 14, 2013
 
 At American Giant ("AMERICAN GIANT," "we," or "us"), we are committed to the privacy of our customers. This Privacy Policy ("Policy") describes how personal information is collected from users of the AMERICAN GIANT website at [www.american-giant.com](http://www.american-giant.com/) (the "Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy.
 
@@ -61,13 +61,10 @@ When you register for an account on the Site, we ask you to create a password. T
 
 To opt-out of receiving marketing or other promotional communications from us, to access, change or delete your personal information maintained by us, or to otherwise change your choices about how we use your personal information we provide you with the following options: you may (1) follow the "Unsubscribe" instructions contained in the communication from us; (2) e-mail us at customerservice@american-giant.com or (3) write to us at the following address with your request:
 
-American Giant
-
-ATTN: Customer Service
-
-3171 21st St.
-
-San Francisco, CA 94110
+American Giant  
+ATTN: Customer Service  
+161 Natoma St.  
+San Francisco, CA 94105
 
 Opt-out requests will not apply to transactional service messages, including security alerts and notices about your current account and services.
 
