@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admanmedia.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430222306id_/http%3A//www.admanmedia.com/en/politicaprivacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admanmedia.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216232939id_/http%3A//www.admanmedia.com/en/politicaprivacidad) for the most accurate reproduction.*
 
 # ADman Media . Privacy
 
