@@ -1,92 +1,8 @@
-> *The following text is extracted and transformed from the dollargeneral.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004123817id_/http%3A//www.dollargeneral.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollargeneral.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216094455id_/http%3A//www.dollargeneral.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Dollar General
 
-[ ](https://web.archive.org/home/index.jsp "Dollar General")
-
-  * [ Office & School ](https://web.archive.org/category/index.jsp?categoryId=11640643 "Office & School")
-    * [Paper & Notebooks](https://web.archive.org/family/index.jsp?categoryId=11666357)
-    * [Envelopes & Labels](https://web.archive.org/family/index.jsp?categoryId=11666358)
-    * [Tape, Glues & Adhesives](https://web.archive.org/family/index.jsp?categoryId=11666361)
-    * [Markers](https://web.archive.org/family/index.jsp?categoryId=11666362)
-    * [Pens & Pencils](https://web.archive.org/family/index.jsp?categoryId=11666364)
-    * [Desk Supplies](https://web.archive.org/family/index.jsp?categoryId=12257543)
-    * [Arts & Crafts](https://web.archive.org/family/index.jsp?categoryId=11666365)
-    * [Scrapbooking & Paper Crafts](https://web.archive.org/family/index.jsp?categoryId=11666368)
-    * [Backpacks](https://web.archive.org/family/index.jsp?categoryId=13158067)
-  * [ Household ](https://web.archive.org/category/index.jsp?categoryId=11640641 "Household")
-    * [Cleaning](https://web.archive.org/category/index.jsp?categoryId=11655078)
-    * [Paper & Plastic](https://web.archive.org/category/index.jsp?categoryId=11655079)
-    * [Party Supplies](https://web.archive.org/category/index.jsp?categoryId=11655080)
-    * [Kitchen & Dining](https://web.archive.org/category/index.jsp?categoryId=11655081)
-    * [Bed & Bath](https://web.archive.org/category/index.jsp?categoryId=11655082)
-    * [Home Decor](https://web.archive.org/category/index.jsp?categoryId=11655083)
-    * [Batteries & Electronics](https://web.archive.org/category/index.jsp?categoryId=11655084)
-    * [Auto & Hardware](https://web.archive.org/category/index.jsp?categoryId=11655085)
-    * [Pet Products](https://web.archive.org/category/index.jsp?categoryId=11666341)
-    * [Clothing Care](https://web.archive.org/family/index.jsp?categoryId=12774455)
-  * [ Food ](https://web.archive.org/category/index.jsp?categoryId=11640642 "Food")
-    * [Canned Goods & Mixes](https://web.archive.org/family/index.jsp?categoryId=11666347)
-    * [Candy & Gum](https://web.archive.org/family/index.jsp?categoryId=11666350)
-    * [Chips, Pretzels & Nuts](https://web.archive.org/family/index.jsp?categoryId=11666351)
-    * [Cereal & Breakfast](https://web.archive.org/family/index.jsp?categoryId=11666352)
-    * [Spices](https://web.archive.org/family/index.jsp?categoryId=11666353)
-    * [Coffee & Tea](https://web.archive.org/family/index.jsp?categoryId=11666355)
-  * [ Health & Beauty ](https://web.archive.org/category/index.jsp?categoryId=11640640 "Health & Beauty")
-    * [Oral Care](https://web.archive.org/category/index.jsp?categoryId=11655074)
-    * [Medicine Cabinet](https://web.archive.org/category/index.jsp?categoryId=11655075)
-    * [Vitamins](https://web.archive.org/family/index.jsp?categoryId=11666191)
-    * [Cosmetics](https://web.archive.org/category/index.jsp?categoryId=11655076)
-    * [Fragrances](https://web.archive.org/family/index.jsp?categoryId=12587411)
-    * [Hair Care](https://web.archive.org/category/index.jsp?categoryId=11655077)
-    * [Skin Care](https://web.archive.org/family/index.jsp?categoryId=11666208)
-    * [Nail Care](https://web.archive.org/family/index.jsp?categoryId=11852910)
-    * [Eye Care](https://web.archive.org/family/index.jsp?categoryId=11852987)
-    * [Feminine Care](https://web.archive.org/family/index.jsp?categoryId=11666210)
-    * [Shaving](https://web.archive.org/family/index.jsp?categoryId=11666211)
-    * [Family Planning](https://web.archive.org/family/index.jsp?categoryId=12682895)
-    * [Soap & Body Wash](https://web.archive.org/family/index.jsp?categoryId=11666213)
-    * [Deodorants & Antiperspirants](https://web.archive.org/family/index.jsp?categoryId=11666214)
-    * [Adult Incontinence](https://web.archive.org/family/index.jsp?categoryId=11855169)
-    * [Nutritional Supplements](https://web.archive.org/family/index.jsp?categoryId=12829004)
-  * [ Apparel & Accessories ](https://web.archive.org/category/index.jsp?categoryId=11640644 "Apparel & Accessories")
-    * [Slippers](https://web.archive.org/family/index.jsp?categoryId=12807938)
-    * [Women](https://web.archive.org/category/index.jsp?categoryId=11655086)
-    * [Men](https://web.archive.org/category/index.jsp?categoryId=11655087)
-    * [Girls](https://web.archive.org/category/index.jsp?categoryId=11655088)
-    * [Boys](https://web.archive.org/category/index.jsp?categoryId=11655089)
-  * [ Baby ](https://web.archive.org/category/index.jsp?categoryId=11640645 "Baby")
-    * [Baby Apparel & Accessories](https://web.archive.org/family/index.jsp?categoryId=11666400)
-    * [Childrens Medicine](https://web.archive.org/family/index.jsp?categoryId=11855082)
-    * [Diapers & Wipes](https://web.archive.org/family/index.jsp?categoryId=11666409)
-    * [Feeding & Nursing](https://web.archive.org/family/index.jsp?categoryId=11666401)
-    * [Health & Safety](https://web.archive.org/family/index.jsp?categoryId=11666402)
-    * [Baby Bath & Skincare](https://web.archive.org/family/index.jsp?categoryId=11666403)
-  * [ Toys ](https://web.archive.org/category/index.jsp?categoryId=11640646 "Toys")
-    * [Action Figures](https://web.archive.org/family/index.jsp?categoryId=15246556)
-    * [Active Play](https://web.archive.org/family/index.jsp?categoryId=11666420)
-    * [Arts & Crafts](https://web.archive.org/family/index.jsp?categoryId=11666365)
-    * [Dress-up & Accessories](https://web.archive.org/family/index.jsp?categoryId=12770840)
-    * [Learning & Pretend ](https://web.archive.org/family/index.jsp?categoryId=11666425)
-    * [Preschool Toys](https://web.archive.org/family/index.jsp?categoryId=15237766)
-    * [Puzzles & Games](https://web.archive.org/family/index.jsp?categoryId=11666422)
-    * [Toys & Stuffed Animals](https://web.archive.org/family/index.jsp?categoryId=11666417)
-    * [Vehicles & RC](https://web.archive.org/family/index.jsp?categoryId=15237776)
-  * [ Seasonal ](https://web.archive.org/category/index.jsp?categoryId=11640647 "Seasonal")
-    * [Halloween Candy](https://web.archive.org/category/index.jsp?categoryId=15570996)
-    * [Office & School](https://web.archive.org/category/index.jsp?categoryId=11640643)
-    * [Outdoor Living](https://web.archive.org/category/index.jsp?categoryId=11655090)
-    * [Cough, Cold & Flu](https://web.archive.org/family/index.jsp?categoryId=11666186)
-  * [ For Teachers and Businesses ](https://web.archive.org/category/index.jsp?categoryId=11787529 "For Teachers and Businesses")
-    * [Cleaning Supplies](https://web.archive.org/category/index.jsp?categoryId=11817902)
-    * [Classroom Supplies](https://web.archive.org/category/index.jsp?categoryId=11817903)
-    * [Office Supplies](https://web.archive.org/category/index.jsp?categoryId=11817904)
-    * [Kitchen Supplies](https://web.archive.org/category/index.jsp?categoryId=11817906)
-    * [Storage & Organization](https://web.archive.org/category/index.jsp?categoryId=11817907)
-
-
-
-Last Modified: December 22, 2011
+Last Modified: November 14, 2012
 
 We respect your privacy and value the trust you place in Dollar General. We want to ensure that you understand the type of information we gather about you and how we use it. This Privacy Policy explains how we collect, use and protect this information and the choices you have regarding our use of that information. We take your privacy very seriously and will notify you (as required by law) and thoroughly investigate any discovered security breach incidents.
 
@@ -142,8 +58,9 @@ We operate cameras in our retail stores (the "Retail Stores") for security and o
 This privacy policy outlines Dollar General's information collection practices when you:
 
   * Visit [www.dollargeneral.com](http://www.dollargeneral.com/) (our "Website"), whether accessed through a computer or a mobile device. However, this privacy policy does not apply to information, including Personally Identifiable Information, that you reveal or post in any public forum on our Website, websites linked to our Website, or any other websites;
-  * Visit any of our Retail Stores; and
-  * Call, e-mail or otherwise communicate with us.
+  * Visit any of our Retail Stores; 
+  * Call, e-mail or otherwise communicate with us; and
+  * Use the Dollar General software application ("Application") on a mobile device (please see Section 11 below for the terms of our policy that relate to the Application specifically). 
 
 
 
@@ -251,13 +168,41 @@ Information Relating to Services Provided by Our Service Providers
 
 Dollar General owns the information we collect on our Website. Our Website does contain links to other websites. Please be aware that we do not control and are not responsible for the content, security and privacy practices of such websites. By using the Website, you agree to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you may not use our Website. Please note that the Website is intended for visitors of the United States and those not governed by privacy policies of other countries. Users from the European Union are advised not to disclose any Personally Identifiable Information (as defined below) to Dollar General. Information sent to us will be housed on servers located in the United States. Do not send us any information unless you consent to the application of United States law and to the use and disclosure of your information consistent with this Privacy Policy.
 
-## 11\. Can Dollar General change this Privacy Policy?
+## 11\. Mobile Application Privacy Policy 
 
-. 
+### A. What information does the Application collect and how it is used? 
 
-We first posted this policy on our Website on January 30, 2003, and updated this policy on May 31, 2007, June 15, 2009, August 30, 2011, September 6, 2011 and December 22, 2011. We reserve the right to change, modify or amend this policy at any time, so we encourage you to review it periodically. We will post any changes to this Privacy Policy here so that you will always be aware of our privacy practices. Please refer back to this Privacy Policy regularly. Your continued use of our Website following our posting of any such changes will mean that you accept such changes.
+Information you voluntarily choose to provide  
+Our Application does not collect any Personally Identifiable Information. Some examples of the types of information that may be collected when you use the Application are:
 
-## 12\. Your California Privacy Rights
+  * Your email address when you sign up for e-mails; 
+  * Your cell phone number when you sign up for mobile text messages regarding special offers; 
+  * Your zip code when you use specific services within the Application. 
+
+
+
+Information We Automatically Collect   
+Each time you visit the Application, it may automatically collect certain types of information. Some examples of information we may collect automatically include: 
+
+  * Location information (zip code only) for the purpose of delivering a store location list or store specific advertising circular; 
+  * The type of mobile device you use; 
+  * The IP address of your mobile device; 
+  * Your mobile operating system; 
+  * The type of mobile Internet browsers you use; 
+  * The temporary or persistent unique device identifiers; and 
+  * Aggregate information about the way customers are using the Application.
+
+
+
+### B. How can you opt out of information collection? 
+
+You may stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You may opt-out from allowing us to have access to your location zip code information data by adjusting the permissions in your mobile device. 
+
+## 12\. Can Dollar General change this Privacy Policy?
+
+We first posted this policy on our Website on January 30, 2003, and updated this policy on May 31, 2007, June 15, 2009, August 30, 2011, September 6, 2011, December 22, 2011 and November 14, 2012. We reserve the right to change, modify or amend this policy at any time, so we encourage you to review it periodically. We will post any changes to this Privacy Policy here so that you will always be aware of our privacy practices. Please refer back to this Privacy Policy regularly. Your continued use of our Website following our posting of any such changes will mean that you accept such changes.
+
+## 13\. Your California Privacy Rights
 
 If you are a California resident you have the right to request and receive information regarding the disclosure of your Personally Identifiable Information by Dollar General or any of our affiliates to a third party for its direct marketing purposes. Any such requests for information can be made by sending any email to [privacypolicy@dollargeneral.com](mailto:privacypolicy@dollargeneral.com) or by writing us at:
 
