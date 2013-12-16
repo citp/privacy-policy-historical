@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skoda-auto.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204200430id_/http%3A//new.skoda-auto.com/en/system/pages/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skoda-auto.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216051042id_/http%3A//new.skoda-auto.com/en/system/pages/privacy-statement.aspx) for the most accurate reproduction.*
 
-# ŠKODA - Privacy Statement
+# Privacy Statement - ŠKODA
 
 ## Declaration of personal data protection principles at the ŠKODA AUTO website
 
@@ -53,7 +53,7 @@ This website uses the ŠKODA CIS website for registration. If you want to regist
 We may update this declaration in case of need. If this happens, we will alter the last update date in this declaration. We will inform you of amendments to this declaration in a notice we place on our website’s homepage or send directly to registered users. We recommend regularly viewing this declaration, so that you are kept informed of how we help protect the personal data you have made available to us. Further use of this service means you consent to the declaration about the protection of personal data and its updates. 
 
 **Contract information**  
-If you think that ŠKODA AUTO has not complied with this declaration, please contact us by email at the following address: [info@skodainfo](mailto:info@skodainfo). cz. If your complaint is legitimate, we will identify the problem and then resolve it.
+If you think that ŠKODA AUTO has not complied with this declaration, please contact us by email at the following address: [info@skodainfo.cz](mailto:info@skodainfo.cz). If your complaint is legitimate, we will identify the problem and then resolve it.
 
 
 
