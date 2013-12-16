@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyaudio.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607075903id_/http%3A//www.diyaudio.com/index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyaudio.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216033642id_/http%3A//www.diyaudio.com/index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # diyAudio - Privacy Policy
 
