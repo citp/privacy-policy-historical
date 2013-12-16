@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeywell.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602154729id_/http%3A//honeywell.com/privacy/pages/en.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeywell.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216192022id_/http%3A//honeywell.com/privacy/pages/en.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
