@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the geniusbeauty.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527080238id_/http%3A//geniusbeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusbeauty.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216095420id_/http%3A//geniusbeauty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Geniusbeauty.com: Magazine for Beautiful Women
+# Privacy Policy | Geniusbeauty
+
+[Home](http://geniusbeauty.com/) Privacy Policy
 
 ### What information do we collect?
 
@@ -13,17 +15,17 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 
 Any of the information we collect from you may be used in one of the following ways:
 
-#### To personalize your experience
+#### 1\. To personalize your experience
 
-(your information helps us to better respond to your individual needs)
+Your information helps us to better respond to your individual needs
 
-#### To improve our website
+#### 2\. To improve our website
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We continually strive to improve our website offerings based on the information and feedback we receive from you
 
-#### To send periodic emails
+#### 3\. To send periodic emails
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+The email address you provide, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 ### Do we use cookies?
 
@@ -39,10 +41,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Third party ads
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/)
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
 
 ### Your Consent
 
 By using our site, you consent to our privacy policy.  
-This policy was last modified on 3.08.2011  
-This policy is powered by Free Privacy Policy and Rhino Support web-based support software.
+This policy was last modified on 10.11.2013
