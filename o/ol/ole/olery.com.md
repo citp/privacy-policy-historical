@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618012545id_/http%3A//www.olery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216075950id_/http%3A//www.olery.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Olery
+# Privacy | Olery
 
 We attach great importance to protecting the privacy of visitors to our Website and of our customers. In our processing of any personal data, we therefore exercise due care and fully comply with the requirements of the Personal Data Protection Act (Wet Bescherming Persoonsgegevens, Wbp). European data protection legislation, such as the Dutch Wbp, is among the strictest and most privacy-friendly in the world.
 
-US citizens may be familiar with the [Safe Harbour Framework](https://www.export.gov/safeharbor/ "Safe Harbour Framework") and private-sector privacy certification services such as the TRUSTe seal; the European privacy rules which we are bound by, provide even stronger privacy protection in that they are not just voluntary and enforced by a commercial company on their clients, but mandated by law and enforced by an official, governmental Data Protection Authority (DPA; college bescherming persoonsgegevens, Cbp).
+US citizens may be familiar with the [Safe Harbour Framework](https://www.export.gov/safeharbor/ "Safe Harbour Framework") and private-sector privacy certification services such as the TRUSTe seal; the European privacy rules which we are bound by, provide even stronger privacy protection in that they are not just voluntary and enforced by a commercial company on their clients, but mandated by law and enforced by an official, governmental Data Protection Authority (DPA; college bescherming persoonsgegevens, Cbp).
 
-This privacy statement tells you how we collect, use, and protect your personal information. Definitions of the terms indicated with a capitalized first letter are included in the [Terms of Service](http://www.olery.com/terms "Terms of Service").
+This privacy statement tells you how we collect, use, and protect your personal information. Definitions of the terms indicated with a capitalized first letter are included in the [Terms of Service](http://www.olery.com/terms "Terms of Service").
 
 ## 1\. Recording and processing data
 
@@ -126,4 +126,4 @@ We retain the right to amend this statement. We recommend that you regularly acc
 
 ## 8\. Viewing and amending your personal data
 
-If you have any questions about our privacy policy or about viewing, amending or deleting your personal data, you can contact us via e-mail at: [info@olery.com](mailto:info@olery.com).
+If you have any questions about our privacy policy or about viewing, amending or deleting your personal data, you can contact us via e-mail at: [info@olery.com](mailto:info@olery.com).
