@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyboardthat.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508081230id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyboardthat.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216064351id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Storyboard That
 
@@ -25,5 +25,6 @@ If you have any questions or comments about this Privacy Policy or our use of yo
   11. Clever Prototypes, LLC and messages posted/advertising forwards through Clever Prototypes, LLC may contain links or references to other websites. Clever Prototypes, LLC is not responsible for the privacy policies of any third party site or for how they treat information about their users. These third party sites may place their own cookies on your computer, collect data, or solicit personal information. You may be consenting to those websites through use of ours. We encourage you to read the privacy policies or statements and terms of service for each of the other websites you visit.
   12. Certain information is used in the aggregate to provide analytics to Clever Prototypes, LLC. This information is not tied to you personally but may contain demographic information about our users in part or as a whole. This aggregate and non-personally identifiable information may be used by Clever Prototypes, LLC and shared with or sold to third-parties.
   13. From time to time Clever Prototypes will delete data associated with inactive accounts. We retain the rights to leave any public storyboard on our website and still attribute it to the original author’s username.
+  14. Clever Prototypes complies with applicable laws and regulations for the United States of America, where we and our servers are located
 
 
