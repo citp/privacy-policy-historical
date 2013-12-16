@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the pushfire.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529170206id_/http%3A//pushfire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushfire.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216090702id_/http%3A//pushfire.com/privacy) for the most accurate reproduction.*
 
-# Privacy - PushFire
+# Privacy - PushFire™
 
-This is the web site of PushFire, LLC.
+This is the web site of PushFire™, Inc.
 
 We can be reached via email at info@pushfire.com or by postal mail at:
 
-PushFire, LLC  
-20820 Park Row – Suite A, Katy, TX 77449  
+PushFire™ Inc.  
+607 Park Grove Lane – Suite B, Katy, TX 77450  
 Katy, TX 77449
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the email address (where possible).
