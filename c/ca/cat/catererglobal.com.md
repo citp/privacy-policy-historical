@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325094634id_/http%3A//www.catererglobal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216105729id_/http%3A//www.catererglobal.com/staticpages/40/privacy-policy) for the most accurate reproduction.*
 
-# Catererglobal.com - Privacy Policy - International Hospitality Jobs - Hotel and catering jobs abroad
+# Sitemap | Catererglobal.com
 
 At Catererglobal.com, we make every effort to comply with our obligations under the 1998 Data Protection Act.
 
