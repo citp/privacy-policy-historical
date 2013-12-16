@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the dailymarkets.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616224542id_/http%3A//www.dailymarkets.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymarkets.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216165751id_/http%3A//www.dailymarkets.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  * [Subscribe by RSS](http://www.dailymarkets.com/rss.xml)
-  * [Email/Share Page](http://www.addtoany.com/share_save)
+  * [](https://web.archive.org/rss.xml)
   *   *   * 
 
 
@@ -33,9 +32,6 @@ We use third-party advertising companies to serve ads when you visit our website
 
 This site may be compensated by credit card issuers when a reader applies for a credit card through the links on this site.
 
-  * [Subscribe by RSS](http://www.dailymarkets.com/rss.xml)
-  * [Email/Share Page](http://www.addtoany.com/share_save)
+  * [](https://web.archive.org/rss.xml)
   *   *   * 
 
-
-Enter your E-mail address to subscribe to DailyMarkets.com for FREE
