@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513134609id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216025633id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
