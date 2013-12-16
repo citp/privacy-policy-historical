@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617111143id_/http%3A//www.gp.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216101804id_/http%3A//www.gp.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Georgia-Pacific Privacy Notice
 
@@ -6,7 +6,7 @@
 
 Your privacy is important to us. This Privacy Notice details how we, Georgia-Pacific LLC and our subsidiaries, affiliates, and partners may collect, use, and share information about you as you use our Internet services. Our Internet services include:
 
-  * our [websites;](https://web.archive.org/web/20130617111143id_/http%3A//www.gp.com/privacy/privacysites.asp)
+  * our [websites;](https://web.archive.org/web/20131216101804id_/http%3A//www.gp.com/privacy/privacysites.asp)
   * our online advertisements and promotions;
   * our online communications with you;
   * our mobile applications; and
@@ -26,14 +26,14 @@ We collect information about you by several means, including:
 
 
 
-We collect both personal information, that is, information that identifies you, and other information that is not connected to your identity. Please click [here](https://web.archive.org/web/20130617111143id_/http%3A//www.gp.com/privacy/index.asp#howwecollect) for a more detailed description.
+We collect both personal information, that is, information that identifies you, and other information that is not connected to your identity. Please click [here](https://web.archive.org/web/20131216101804id_/http%3A//www.gp.com/privacy/index.asp#howwecollect) for a more detailed description.
 
   
 
 
 ### How we use and share your information
 
-We use your information to communicate with you about our products, services, and promotions, including via online advertising, to get your feedback on our products and services, to manage and improve our business and our online presence, and for other purposes we describe in the Privacy Notice. We may share your information with certain service providers and marketing partners, if we are required to provide the data by law, or as part of the sale of any portion of our company. We do not share your personal information with third parties except as described in this Privacy Notice. Please click [here](https://web.archive.org/web/20130617111143id_/http%3A//www.gp.com/privacy/index.asp#howweuse) for more information.
+We use your information to communicate with you about our products, services, and promotions, including via online advertising, to get your feedback on our products and services, to manage and improve our business and our online presence, and for other purposes we describe in the Privacy Notice. We may share your information with certain service providers and marketing partners, if we are required to provide the data by law, or as part of the sale of any portion of our company. We do not share your personal information with third parties except as described in this Privacy Notice. Please click [here](https://web.archive.org/web/20131216101804id_/http%3A//www.gp.com/privacy/index.asp#howweuse) for more information.
 
   
 
@@ -49,7 +49,7 @@ We offer you certain choices about how we collect, use, and share information ab
 
 
 
-Please click [here](https://web.archive.org/web/20130617111143id_/http%3A//www.gp.com/privacy/index.asp#yourchoices) for more information.
+Please click [here](https://web.archive.org/web/20131216101804id_/http%3A//www.gp.com/privacy/index.asp#yourchoices) for more information.
 
 Information Practices
 
