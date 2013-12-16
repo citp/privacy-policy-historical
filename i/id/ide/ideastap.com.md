@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideastap.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613022223id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideastap.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216205357id_/http%3A//www.ideastap.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
