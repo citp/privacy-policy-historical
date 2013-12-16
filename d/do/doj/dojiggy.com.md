@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dojiggy.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614193241id_/http%3A//www.dojiggy.com/app/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dojiggy.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216050213id_/http%3A//www.dojiggy.com/app/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement | DoJiggy
 
@@ -13,14 +13,13 @@ The information we collect is: used for internal review and archived for histori
   5. It is necessary to protect the rights, property, or safety of DoJiggy, our users, or others, which may include the exchange of information with other organizations for fraud protection and/or risk reduction.
   6. In the event that DoJiggy is acquired, customer account information may be one of the transferred assets.
 
-This site collects cookies. This website uses cookies. Cookies set by our website can be read by our web server and may contain information provided by you, or certain limited information commonly provide by your network connection, such as IP number, type of browser, operating system, etc. This information is used only in connection with the purposes outlined here. Information about the general use of our website will be stored and reviewed. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+
+
+This website uses cookies. Cookies set by our website can be read by our web server and may contain information provided by you, or certain limited information commonly provide by your network connection, such as IP number, type of browser, operating system, etc. This information is used only in connection with the purposes outlined here. Information about the general use of our website will be stored and reviewed. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
 
 Web site activity data is analyzed. This website uses web analytics software, to help us analyze how users use the site. We use this information solely for the purpose of evaluating general usage of the website, by compiling reports on website activity and related internet usage. This information may be transferred to trusted third parties, processing this information on our behalf, and who handle that information securely and confidentially, consistent with our privacy and security policies. By using this website, you consent to the processing of this web activity in the manner and for the purposes set out above. No personal information is cross referenced in these reports and the information reported is aggregate in nature.
 
 Registration for certain services is required. In order to use free trial or to purchase services, visitors and/or members must first complete our registration form. During registration a user must give certain contact information, but we never sell or give away this information, without express permission from the user. It is only gathered to contact the user about services on our site for which s/he has expressed interest. It is required that we gather certain unique identifiers (username, password, etc.), only to permit authorized access to this site.
-
-
-
 
 We require information from the user on our order form. We have an order form, and collect personal information sufficient to process credit card or eCheck orders. A user must provide contact information (such as name, email, and shipping address) and possibly financial information (such as credit card number, expiration date). If we have trouble processing an order, we use the information to contact the user. This information is used for shipping and billing purposes and to complete customer orders and maintain their payment history. This information is stored for later reference for billing and subscription management.
 
