@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aft.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616192104id_/http%3A//www.aft.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aft.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216192535id_/http%3A//www.aft.org/privacy.cfm) for the most accurate reproduction.*
 
 # AFT - A Union of Professionals - Privacy Policy and Terms of Use
 
