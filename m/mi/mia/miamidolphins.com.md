@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501123737id_/http%3A//www.miamidolphins.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216185741id_/http%3A//www.miamidolphins.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Miami Dolphins | Privacy Policy
 
@@ -8,7 +8,7 @@ This privacy policy applies to the Miami Dolphins' website located at [www.Miami
 
 The Website is operated by the Miami Dolphins.
 
-Miami Dolphins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.MiamiDolphins.com](http://prod.www.dolphins.clubs.nfl.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Miami Dolphins is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.MiamiDolphins.com](http://prod.www.dolphins.clubs.nfl.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Scott Stone at [dolphins@miamidolphins.com](mailto:dolphins@miamidolphins.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php.TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) will then serve as a liaison with us to resolve your concerns.
 
