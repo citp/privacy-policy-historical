@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apmmusic.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506045108id_/http%3A//www.apmmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmmusic.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216185728id_/http%3A//www.apmmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - APM Music
 
-This Web site is owned and operated by Associated Production Music LLC (the “Site”). You can contact us at 6255 Sunset Blvd., Suite 820, Hollywood, CA 90028. Associated Production Music LLC has created this privacy statement is order to demonstrate our firm commitment to our visitors’ privacy. The following discloses our information gathering and dissemination practices for apmmusic.com.
+This Web site is owned and operated by Associated Production Music LLC (the “Site”). You can contact us at 6255 Sunset Blvd., Suite 900, Hollywood, CA 90028. Associated Production Music LLC has created this privacy statement is order to demonstrate our firm commitment to our visitors’ privacy. The following discloses our information gathering and dissemination practices for apmmusic.com.
 
 The Site may only be used or otherwise accessed by persons 18 years of age or older. See [Terms and Conditions](http://www.apmmusic.com/index.php?option=com_content&view=article&id=147&Itemid=83). If we reasonably believe that someone under 18 years of age has provided us with personal information, we will make reasonable efforts to remove such personal information from our database.
 
