@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gov.nl.ca privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628154124id_/http%3A//www.gov.nl.ca/disclaimer/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.nl.ca privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217000657id_/http%3A//www.gov.nl.ca/disclaimer/index.html) for the most accurate reproduction.*
 
 # Disclaimer/Copyright/Privacy Statement | Government of Newfoundland and Labrador
 
-[Francais](https://web.archive.org/web/20130628154124id_/http%3A//www.gov.nl.ca/disclaimer/francais.html)
+[Francais](https://web.archive.org/web/20131217000657id_/http%3A//www.gov.nl.ca/disclaimer/francais.html)
 
 The following policies govern the operation and management of this Web site:
 
