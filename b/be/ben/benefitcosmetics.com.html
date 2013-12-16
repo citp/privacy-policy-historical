@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the benefitcosmetics.com privacy policy that was archived on 2013-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525123311id_/http%3A//www.benefitcosmetics.com/help/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benefitcosmetics.com privacy policy that was archived on 2013-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216171231id_/http%3A//www.benefitcosmetics.com/help/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
     
@@ -38,24 +38,23 @@
 		// Get MobileOptOut from queryString
 	    var mobileQuery = getQueryString();
 	    if (mobileQuery) {
-	    	mobileQuery = mobileQuery["MobileOptOut"];
+	    	mobileCookie = mobileQuery["MobileOptOut"];
 	    }
 	    
 	    // Update MobileOptOut cookie
-		if (mobileQuery == "0" || mobileQuery == "1" || mobileQuery == "2") {
-			setCookie("MobileOptOut", mobileQuery);
+		if (mobileCookie == "0" || mobileCookie == "1") {
+			setCookie("MobileOptOut", mobileCookie);
 		}
 		
 		// Redirect
-		if (isMobile && mobileQuery == "0") {
+		if (isMobile && mobileCookie == "0") {
 			window.location = "http://m.benefitcosmetics.com?MobileOptOut=0";
 		}
 		else if (isMobile && mobileCookie != "1" && mobileCookie != "2") {
-			window.location = "http://m.benefitcosmetics.com";
-		}
-		
-		//loc = window.location.href;
-		//window.location = loc.replace(/:\/\/.*benefitcosmetics.com)|.:\/\/*frontend_dev.php/, "://m.benefitcosmetics.com");
+			var loc = window.location.href;
+			window.location = loc.replace(/:\/\/.*benefitcosmetics.com|.:\/\/*frontend_dev.php/, "://m.benefitcosmetics.com");
+			//window.location = "http://m.benefitcosmetics.com";
+		}		
 	</script>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -87,7 +86,7 @@
 	})();
 	</script>
 	<!-- End Monetate tag. -->
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/optimized/optimized_US_13_04_1.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/optimized/optimized_US_13_10_1.css">
 <link rel="stylesheet" type="text/css" media="print" href="/benCorePlugin/css/print.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/footer-us.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://fonts.googleapis.com/css?family=Montserrat">
@@ -116,17 +115,6 @@
 
 
 <script type="text/javascript">window.adjust_hover_for_flash_sale=false</script>
-
-<script type="text/javascript">
- //    (function(d){
- //      var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
- //      p.type = 'text/javascript';
- //      p.async = true;
- //      p.src = '//assets.pinterest.com/js/pinit.js';
- //      f.parentNode.insertBefore(p, f);
- //    }(document));
-</script>
-
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 
@@ -136,7 +124,6 @@
 <!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
 <body> <!--<![endif]-->
-	<div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -191,7 +178,7 @@
 						<li id="hdrLogout" style="display: none;"><a href="/account/logout">Log Out</a></li>
 						<li id="hdrMyAccount" style="display: none;"><a href="/account/myaccount">My Account</a></li>
 
-						<li id="hdrLoginCreate" style="display: none;"><a href="/account/signIn">Log In / Create Account</a></li>
+						<li id="hdrLoginCreate" style=""><a href="/account/signIn">Log In / Create Account</a></li>
 
 						<li><a href="/brand/storeLocator">Store Locator</a></li>
 						<!-- <li><a class="exacttarget" href="#">Email Sign Up</a></li> -->
@@ -237,65 +224,48 @@
 	<div id="nav" class="nav-black">
 		<!--begin nav --><ul class="cms-primary-nav megamenu">
 <li>
-<a href="/product/collection/whatsnew" data-omni="what's new">WHAT'S NEW</a> <div class="submenu ksPsIT8Uxc">
+<a href="/whatsnew" data-omni="what's new">WHAT'S NEW</a> <div class="submenu nn2_whatsnew">
 <div class="clearfix">
 <div class="block-8 left right-dashed-border-pink">
 <div class="cms-primarynav-links-top">
 <ul class="cms-primarynav-links">
 <li>
-<h4> <a href="/product/collection/whatsnew" data-omni="what's new>what's new">WHAT'S NEW</a>
+<h4> <a href="/whatsnew" data-omni="what's new>just in">JUST IN</a>
 </h4>
 </li>
-<li> <a href="/product/view/fakeup" data-omni="what's new>fakeup">fakeup</a>
+<li> <a href="/product/collection/holidaysets" data-omni="what's new>holiday sets">holiday sets</a>
 </li>
-<li> <a href="/product/view/fine-one-one" data-omni="what's new>fine-one-one">fine-one-one</a>
+<li> <a href="/product/view/lollitint" data-omni="what's new>lollitint">lollitint</a>
 </li>
-<li> <a href="/product/view/new-longwear-powder-shadow" data-omni="what's new>longwear powder shadow">longwear powder shadow</a>
+<li> <a href="/product/view/gimme-brow" data-omni="what's new>gimme brow">gimme brow</a>
 </li>
-<li> <a href="/product/view/new-creaseless-cream-shadow" data-omni="what's new>creaseless cream shadow">creaseless cream shadow</a>
+<li> <a href="/product/view/rockateur" data-omni="what's new>rockateur">rockateur</a>
 </li>
-<li> <a href="/product/view/new-ultra-plush-lip-gloss" data-omni="what's new>ultra plush lip gloss">ultra plush lip gloss</a>
+<li> <a href="/product/view/stay-flawless" data-omni="what's new>stay flawless">stay flawless</a>
+</li>
+</ul>
+<ul class="cms-primarynav-links">
+<li>
+<h4> <a href="/product/collection/topsellers" data-omni="what's new>top sellers">TOP SELLERS</a>
+</h4>
+</li>
+<li> <a href="/product/view/theyre-real" data-omni="what's new>they're real!">they're real!</a>
+</li>
+<li> <a href="/product/view/the-porefessional" data-omni="what's new>the porefessional">the POREfessional</a>
+</li>
+<li> <a href="/product/view/benetint" data-omni="what's new>benetint">benetint</a>
+</li>
+<li> <a href="/product/view/dandelion" data-omni="what's new>dandelion">dandelion</a>
+</li>
+<li> <a href="/product/view/that-gal" data-omni="what's new>&quot;that gal&quot;">"that gal"</a>
 </li>
 </ul>
 </div>
 </div>
 <div class="block-8-promo">
 <ul class="cms-primarynav-promotions">
-<li> <a href="/product/view/fakeup">
-<img src="/medias/sys_master/8799876644894.png" title="" alt=""></a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</li>
-<li>
-<a href="/product/collection/topsellers" data-omni="top sellers">TOP SELLERS</a> <div class="submenu nn2_topsellers">
-<div class="clearfix">
-<div class="block-8 left right-dashed-border-pink">
-<div class="cms-primarynav-links-top">
-<ul class="cms-primarynav-links">
-<li>
-<h4> <a href="/product/collection/topsellers" data-omni="top sellers>top sellers">TOP SELLERS</a>
-</h4>
-</li>
-<li> <a href="/product/view/theyre-real" data-omni="top sellers>they're real!">they're real!</a>
-</li>
-<li> <a href="/product/view/the-porefessional" data-omni="top sellers>the porefessional">the POREfessional</a>
-</li>
-<li> <a href="/product/view/its-potent-eye-cream" data-omni="top sellers>it's potent">it's potent</a>
-</li>
-<li> <a href="/product/view/benetint" data-omni="top sellers>benetint">benetint</a>
-</li>
-<li> <a href="/product/view/hello-flawless" data-omni="top sellers>&quot;hello flawless!&quot; powder">"hello flawless!" powder</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="block-8-promo">
-<ul class="cms-primarynav-promotions">
-<li> <a href="/brand/beautyschool/shadefinders/hello-flawless-oxygen-wow">
-<img src="/medias/sys_master/8798593908766.png" title="" alt=""></a>
+<li> <a href="/product/view/gimme-brow?intid=navmod_whatsnew_gimmebrow">
+<img src="/medias/sys_master/8801345896478.png" title="" alt="gimme brow! brow-volumizing fiber gel"></a>
 </li>
 </ul>
 </div>
@@ -383,16 +353,18 @@
 </ul>
 <ul class="cms-primarynav-links">
 <li>
-<h4> <a href="/product/browse" data-omni="makeup>by dilemma">BY DILEMMA</a>
+<h4> <a href="/beauty-er" data-omni="makeup>by dilemma">BY DILEMMA</a>
 </h4>
 </li>
-<li> <a href="/product/browse?rand=1337635879&amp;classification%5B%5D=dilemma.undereyes" data-omni="makeup>dark circles">Dark Circles</a>
+<li> <a href="/beauty-er#dilemma=lashes/short-straight" data-omni="makeup>short &amp; straight lashes">Short &amp; Straight Lashes</a>
 </li>
-<li> <a href="/product/browse?rand=1337635879&amp;classification%5B%5D=dilemma.sparsebrows" data-omni="makeup>sparse brows">Sparse Brows</a>
+<li> <a href="/beauty-er#dilemma=lashes/skimpy-sparse&amp;solution=" data-omni="makeup>skimpy &amp; sparse lashes">Skimpy &amp; Sparse Lashes</a>
 </li>
-<li> <a href="/product/browse?rand=1337908593&amp;classification%5B%5D=dilemma.unevenskintone" data-omni="makeup>uneven skintone">Uneven Skintone</a>
+<li> <a href="/beauty-er#dilemma=eyes/puffy-eyes&amp;solution=" data-omni="makeup>puffy eyes">Puffy Eyes</a>
 </li>
-<li> <a href="/product/browse?rand=1337908634&amp;classification%5B%5D=dilemma.visiblepores" data-omni="makeup>visible pores">Visible Pores</a>
+<li> <a href="/beauty-er#dilemma=eyes/tired-eyes-dark-circles&amp;solution=" data-omni="makeup>tired eyes &amp; dark circles">Tired Eyes &amp; Dark Circles</a>
+</li>
+<li> <a href="/beauty-er#dilemma=eyes/fine-lines-dryness&amp;solution=" data-omni="makeup>fine lines &amp; dryness">Fine Lines &amp; Dryness</a>
 </li>
 </ul>
 </div>
@@ -417,7 +389,7 @@
 </ul>
 <ul class="cms-primarynav-links">
 <li>
-<h4> <a href="/product/collection/lastchance" data-omni="makeup>last chance!">LAST CHANCE!</a>
+<h4> <a href="/nicepackage" data-omni="makeup>build your custom kit">BUILD YOUR CUSTOM KIT</a>
 </h4>
 </li>
 </ul>
@@ -425,8 +397,8 @@
 </div>
 <div class="block-8-promo">
 <ul class="cms-primarynav-promotions">
-<li> <a href="/product/view/fine-one-one">
-<img src="/medias/sys_master/8799614926878.png" title="" alt=""></a>
+<li> <a href="/product/collection/holidaysets?intid=navmod_makeup_holiday%20sets">
+<img src="/medias/sys_master/8802148745246.png" title="" alt="Shop all limited-edition Holiday Sets!"></a>
 </li>
 </ul>
 </div>
@@ -490,7 +462,7 @@
 </div>
 <div class="block-8-promo">
 <ul class="cms-primarynav-promotions">
-<li> <a href="/product/category/skincare/diagnostic">
+<li> <a href="/product/category/skincare/diagnostic?intid=navmod_skincare">
 <img src="/medias/sys_master/8798594301982.png" title="" alt=""></a>
 </li>
 </ul>
@@ -508,24 +480,24 @@
 <h4> <a href="/brand/gifts" data-omni="gifts>gifts">GIFTS</a>
 </h4>
 </li>
+<li> <a href="/brand/gifts#holiday13_cheekbones" data-omni="gifts>fake cheekbones fast!">Fake cheekbones fast!</a>
+</li>
+<li> <a href="/brand/gifts#holiday13_glow" data-omni="gifts>create a jolly glow!">Create a jolly glow!</a>
+</li>
+<li> <a href="/brand/gifts#holiday13_eyebright" data-omni="gifts>instant eye brighteners!">Instant eye brighteners!</a>
+</li>
 <li>
 </li><li>
-</li><li>
-</li><li> <a href="/brand/gifts#ELS_eyeshadow" data-omni="gifts>eye love eyeshadows">Eye Love Eyeshadows</a>
-</li>
-<li> <a href="/brand/gifts#ELS_mascara" data-omni="gifts>eye love mascara">Eye Love Mascara</a>
-</li>
-<li> <a href="/brand/gifts#ELS_concealers" data-omni="gifts>eye love eye concealer">Eye Love Eye Concealer</a>
-</li>
-<li> <a href="/brand/gifts#ELS_eyekits" data-omni="gifts>eye love eye kits">Eye Love Eye Kits</a>
+</li><li> <a href="/brand/gifts#fragrancegifts" data-omni="gifts>fragrance">Fragrance</a>
 </li>
 </ul>
 </div>
 </div>
 <div class="block-8-promo">
 <ul class="cms-primarynav-promotions">
-<li> <a href="/brand/gifts">
-<img src="/medias/sys_master/8798782521374.png" title="" alt=""></a>
+<li>
+</li><li> <a href="/product/collection/holidaysets?intid=navpromo_gifts_holidaysets">
+<img src="/medias/sys_master/8802245836830.png" title="" alt=""></a>
 </li>
 </ul>
 </div>
@@ -558,13 +530,13 @@
 <h4> <a href="/brand/beautyschool/getthelook" data-omni="beauty school>get the look">GET THE LOOK</a>
 </h4>
 </li>
-<li> <a href="/brand/beautyschool/getthelook/eyegotcha" data-omni="beauty school>eye gotcha!">Eye Gotcha!</a>
-</li>
 <li> <a href="/brand/beautyschool/getthelook/blushingbeauty" data-omni="beauty school>blushing beauty">Blushing Beauty</a>
 </li>
-<li> <a href="/brand/beautyschool/getthelook/daretogobare" data-omni="beauty school>dare to go bare">Dare To Go Bare</a>
+<li> <a href="/brand/beautyschool/getthelook/glowingmyway" data-omni="beauty school>glowing my way">Glowing My Way</a>
 </li>
-<li> <a href="/brand/beautyschool/getthelook/licensetobronze" data-omni="beauty school>license to bronze">License to Bronze</a>
+<li> <a href="/brand/beautyschool/getthelook/eyegotcha" data-omni="beauty school>eye gotcha!">Eye Gotcha!</a>
+</li>
+<li> <a href="/brand/beautyschool/getthelook/daretogobare" data-omni="beauty school>dare to go bare">Dare To Go Bare</a>
 </li>
 </ul>
 <ul class="cms-primarynav-links">
@@ -572,11 +544,15 @@
 <h4> <a href="/brand/beautyschool/videos" data-omni="beauty school>videos">VIDEOS</a>
 </h4>
 </li>
-<li> <a href="/brand/beautyschool/videos/detail/fakeupfulllength" data-omni="beauty school>curious case of fakeup">Curious case of fakeup</a>
+<li> <a href="/brand/beautyschool/videos/detail/DIANETAR" data-omni="beauty school>how to apply they're real mascara">How to apply they're real mascara</a>
 </li>
-<li> <a href="/brand/beautyschool/videos/detail/outthedoorinaflash" data-omni="beauty school>out the door in a flash">Out the Door in a Flash</a>
+<li> <a href="/brand/beautyschool/videos/detail/allaboutbrows" data-omni="beauty school>tips &amp; tricks: all about brows">Tips &amp; Tricks: All About Brows</a>
 </li>
-<li> <a href="/brand/beautyschool/videos/detail/tiredeyes" data-omni="beauty school>easy tips for bright eyes">Easy Tips for Bright Eyes</a>
+<li> <a href="/brand/beautyschool/videos/detail/flawlessface" data-omni="beauty school>tips &amp; tricks: flawless face">Tips &amp; Tricks: Flawless Face</a>
+</li>
+<li> <a href="/brand/beautyschool/videos/detail/contouring" data-omni="beauty school>tips &amp; tricks: contouring">Tips &amp; Tricks: Contouring</a>
+</li>
+<li> <a href="/brand/beautyschool/videos/detail/godaytonight" data-omni="beauty school>go day to night!">Go Day to Night!</a>
 </li>
 </ul>
 <ul class="cms-primarynav-links">
@@ -613,8 +589,55 @@
 </div>
 <div class="block-8-promo">
 <ul class="cms-primarynav-promotions">
-<li> <a href="/brand/beautyschool/beyondthegloss/the-porefessional">
+<li> <a href="/brand/beautyschool/beyondthegloss/the-porefessional?intid=navmod_beautyschool_pore">
 <img src="/medias/sys_master/8798599020574.png" title="" alt=""></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="/brand/boutiqueoverview/boutiqueoverview" data-omni="brow bars &amp; boutiques">BROW BARS &amp; BOUTIQUES</a> <div class="submenu pcZANN700l">
+<div class="clearfix">
+<div class="block-8 left right-dashed-border-pink">
+<div class="cms-primarynav-links-top">
+<ul class="cms-primarynav-links">
+<li>
+<h4> <a href="/product/category/services" data-omni="brow bars &amp; boutiques>services">SERVICES</a>
+</h4>
+</li>
+<li> <a href="/product/view/brow-wax" data-omni="brow bars &amp; boutiques>brow wax">brow wax</a>
+</li>
+<li> <a href="/product/view/airbrush-tan" data-omni="brow bars &amp; boutiques>airbrush tan">airbrush tan</a>
+</li>
+<li> <a href="/product/view/brow-tint" data-omni="brow bars &amp; boutiques>brow tint">brow tint</a>
+</li>
+<li> <a href="/product/view/bikini-wax" data-omni="brow bars &amp; boutiques>bikini wax">bikini wax</a>
+</li>
+<li> <a href="/product/view/facial-wax" data-omni="brow bars &amp; boutiques>facial wax">facial wax</a>
+</li>
+<li> <a href="/product/view/makeup-application" data-omni="brow bars &amp; boutiques>makeup application">makeup application</a>
+</li>
+</ul>
+<ul class="cms-primarynav-links">
+<li>
+<h4> <a href="/brand/boutiqueoverview/boutiqueoverview" data-omni="brow bars &amp; boutiques>stores">STORES</a>
+</h4>
+</li>
+<li> <a href="/brand/boutiqueoverview/boutiques" data-omni="brow bars &amp; boutiques>boutiques">Boutiques</a>
+</li>
+<li> <a href="/brand/boutiqueoverview/browbars" data-omni="brow bars &amp; boutiques>brow bars">Brow Bars</a>
+</li>
+<li> <a href="/brand/boutiqueoverview/browmapping" data-omni="brow bars &amp; boutiques>brow mapping">Brow Mapping</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="block-8-promo">
+<ul class="cms-primarynav-promotions">
+<li> <a href="/brand/storeLocator?intid=navmod_storelocator">
+<img src="/medias/sys_master/8798584930334.png" title="" alt=""></a>
 </li>
 </ul>
 </div>
@@ -644,7 +667,7 @@
 </div>
 <div class="block-8-promo">
 <ul class="cms-primarynav-promotions">
-<li> <a href="/brand/socialclub/aroundtheworld">
+<li> <a href="/brand/socialclub/aroundtheworld?intid=navmod_benefitaroundtheworld">
 <img src="/medias/sys_master/8798593974302.png" title="" alt=""></a>
 </li>
 </ul>
@@ -671,24 +694,12 @@
 <li> <a href="/brand/aboutus/awards" data-omni="about us>awards">Awards</a>
 </li>
 </ul>
-<ul class="cms-primarynav-links">
-<li>
-<h4> <a href="/brand/boutiqueoverview/boutiqueoverview" data-omni="about us>stores">STORES</a>
-</h4>
-</li>
-<li> <a href="/brand/boutiqueoverview/boutiques" data-omni="about us>boutiques">Boutiques</a>
-</li>
-<li> <a href="/brand/boutiqueoverview/browbars" data-omni="about us>brow bars">Brow Bars</a>
-</li>
-<li> <a href="/brand/boutiqueoverview/browmapping" data-omni="about us>brow mapping">Brow Mapping</a>
-</li>
-</ul>
 </div>
 </div>
 <div class="block-8-promo">
 <ul class="cms-primarynav-promotions">
-<li> <a href="/brand/storeLocator">
-<img src="/medias/sys_master/8798594695198.png" title="" alt=""></a>
+<li> <a href="/nicepackage?intid=navmod_aboutus_nicepackage">
+<img src="/medias/sys_master/8801320632350.png" title="" alt=""></a>
 </li>
 </ul>
 </div>
@@ -705,6 +716,8 @@
 <h4> <a href="/brand/offers" data-omni="offers>offers">OFFERS</a>
 </h4>
 </li>
+<li> <a href="/nicepackage" data-omni="offers>build your custom kit">Build your Custom Kit</a>
+</li>
 <li> <a href="/product/collection/sale" data-omni="offers>sale">Sale</a>
 </li>
 <li>
@@ -715,7 +728,7 @@
 </div>
 <div class="block-8-promo">
 <ul class="cms-primarynav-promotions">
-<li> <a href="/product/collection/whatsnew">
+<li> <a href="/product/collection/whatsnew?intid=navmod_offers_freeship">
 <img src="/medias/sys_master/8798594367518.png" title="" alt=""></a>
 </li>
 </ul>
@@ -1027,31 +1040,17 @@ San Francisco, California 94104
 					<li><a class="flag-usa flag" href="/">US</a></li>
                     <li><a class="flag-uk flag" href="http://www.benefitcosmetics.co.uk">UK</a></li>
 					<li><a class="flag-china flag" href="http://www.benefitcosmetics.com.cn/">CN</a></li>
-					<li><a class="flag-de" href="http://www.benefitcosmetics.de">DE</a></li>
-                    <li><a class="flag-fr" href="http://www.benefitcosmetics.fr">FR</a></li>
+					<li><a class="flag-de flag" href="http://www.benefitcosmetics.de">DE</a></li>
+                    <li><a class="flag-fr flag" href="http://www.benefitcosmetics.fr">FR</a></li>
 				</ul>
 			</li>
 		</ul>    
 	</div>
 	</footer>
 
-<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-
-<script type="text/javascript">
-// (function(d){
-//   var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
-//   p.type = 'text/javascript';
-//   p.async = true;
-//   p.src = '//assets.pinterest.com/js/pinit.js';
-//   f.parentNode.insertBefore(p, f);
-// }(document));
-
-</script>
-
-
-
-
-
+<!--[if gt IE 7]><!-->
+    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<!--<![endif]-->
 
     </div> <!--! end of #container -->
     
@@ -1413,7 +1412,7 @@ San Francisco, California 94104
 
 <script>
 	var addThisVars = {
-		shareUrl : '/product/shareMyBag',
+		shareUrl : '',
 		svcs : {
 			email: 'Email', 
 			facebook: 'Facebook', 
@@ -1433,15 +1432,18 @@ San Francisco, California 94104
 <![endif]-->
 
     
-    <script type="text/javascript" src="/js/optimized/optimized_US_13_04_1.js?1366930285"></script>
+    <script type="text/javascript" src="/js/optimized/optimized_US_13_10_1.js?1381264766"></script>
+<script type="text/javascript" src="/benCorePlugin/js/jquery.cookie/jquery.cookie.js"></script>
+<script type="text/javascript" src="/benCorePlugin/js/modules/account/scripts.js"></script>
 <script type="text/javascript" src="/js/sifr.js"></script>
     
+	        <script src="//benefitcosmetics.ugc.bazaarvoice.com/static/0554-en_us/bvapi.js"></script>
 	      
             
         <!-- Code for Action: Benefit Cosmetics - Tracking -->
         <!-- Begin Rocket Fuel Conversion Action Tracking Code Version 7 -->
-        <iframe src="https://p.rfihub.com/ca.gif?rb=893&amp;ca=20490359&amp;ra=1369485192" style="display:none;padding:0;margin:0" width="0" height="0"></iframe> <!--New version-->
-        <!--<iframe src='https://p.rfihub.com/ca.html?rb=893&ca=20473847&ra=1369485192' style='display:none;padding:0;margin:0' width='0' height='0'></iframe> old version-->
+        <iframe src="http://p.rfihub.com/ca.gif?rb=893&amp;ca=20490359&amp;ra=1387198950" style="display:none;padding:0;margin:0" width="0" height="0"></iframe> <!--New version-->
+        <!--<iframe src='http://p.rfihub.com/ca.html?rb=893&ca=20473847&ra=1387198950' style='display:none;padding:0;margin:0' width='0' height='0'></iframe> old version-->
         <!-- End Rocket Fuel Conversion Action Tracking Code Version7 -->
 	
 
@@ -1510,8 +1512,23 @@ window.onload = function(){
 }());
 </script>
 <!-- End AdRoll pixel -->
+<!-- BEGIN Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1060071055;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1060071055/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","33136fde77","466455","YwFbZBRWCkMFAhddXFpLd18UWgVcDRsGUHJXEFBfCBhO",0,288,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","33136fde77","466455","YwFbZBRWCkMFAhddXFpLeFMSXgteSwkGWEMbFEtZEFYHSTQOD11QTQ==",0,592,new Date().getTime(),"","","","",""]);</script>
 
-
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<!-- END Google Code for Remarketing Tag -->
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
