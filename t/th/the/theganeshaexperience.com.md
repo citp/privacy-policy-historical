@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theganeshaexperience.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617012633id_/http%3A//theganeshaexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theganeshaexperience.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216111804id_/http%3A//theganeshaexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # : Privacy Policy
 
