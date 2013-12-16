@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemistwarehouse.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603223427id_/http%3A//www.chemistwarehouse.com.au/AboutUs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistwarehouse.com.au privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216214942id_/http%3A//www.chemistwarehouse.com.au/AboutUs/privacy.asp) for the most accurate reproduction.*
 
 # Chemist Warehouse - Australia's Cheapest Online Pharmacy
 
