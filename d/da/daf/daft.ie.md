@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609225000id_/http%3A//www.daft.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216205546id_/http%3A//www.daft.ie/privacy) for the most accurate reproduction.*
 
 # Daft.ie : Information
 
@@ -75,7 +75,7 @@ We will not otherwise disclose, sell or distribute your information to any third
 
 ###  Access to, changing or removing the information we hold 
 
-Registered users of this Site can update their information, change settings or cancel their membership on their page once signed in. 
+Registered users of this Site can update their information or change their settings once signed in. Registered users can cancel their membership by contacting [supportdesk@daft.ie](mailto:supportdesk@daft.ie). 
 
 Non-registered and registered users of this Site can request we provide them with a copy of the personally identifiable information we hold via [supportdesk@daft.ie](mailto:supportdesk@daft.ie). You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date. We may charge a small administration fee to cover the data search, preparation and delivery. 
 
@@ -98,7 +98,11 @@ adserver_ccid | "roi", "ni", "c1"-"c32", "ct1"-"ct6" | Remembers the last county
 cookie_user_id | User ID | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user log out  
 cookie_uid | User ID | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user log out  
 cookie_notice | 1 |  Whether the user has seen the sitewide notice regarding the use of cookies on Daft.ie.  | 1 year from being set  
-daft_last_search | Json representation of last search filters used | Used to generate the recently searched properties for the homepage | 1 month from being set  
+daft_last_search | Json representation of last search filters used |  Used to generate the recently searched properties for the homepage  | 1 month from being set  
+dgo | 1 |  Used to signify that a mobile user does not wish the site to open in the app  | 1 month from being set  
+sailthrough_viewed | Number of times the slide-out notice has been seen |  Used to limit number of times slide-out notice is seen by a user  | 1 year from being set  
+sailthrough_seen | Name of slide-out campaign seen |  Used to record the type of slide-out notice seen  | 1 year from being set  
+sailthrough_dismissed | 1 |  Used to signify that a slide-out notice has been dismissed by a user  | 1 year from being set  
   
 In addition to the above cookies set by Daft, cookies may also be set by a number of our site partners. 
 
@@ -108,12 +112,11 @@ __utma | Randomly generated number | Usage stats | 2 years
 __utmb | Randomly generated number | Usage stats | 30 minutes  
 __utmc | Randomly generated number | Usage stats | On browser exit  
 __utmz | Randomly generated number | Usage stats | 6 months  
-Adtech.de (Ad serving)  
-CfP | "1" | This is a unique ID for the browser, so we know if an ad has already been seen | On browser exit  
-JEB2 | Alphanumeric string | This is a unique ID for the browser, so we know if an ad has already been place | 2 years  
 Comscore (Audience Measurement)   
 UID | Hexadecimal-ip-numerical | User id | 1 year, 354 days  
 UIDR | Numerical (same as end of UID) | Real user id | 1 year, 354 days  
+pool.distilled.ie (Network Targeting)   
+__cfduid | Hexadecimal-ip-numerical | User identifier | 6 years  
   
 We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing France property adverts to someone in Paris, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
