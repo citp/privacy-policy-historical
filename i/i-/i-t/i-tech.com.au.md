@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616121426id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216041130id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20130616121426id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20131216041130id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -60,27 +60,27 @@ We use cookies as a way to give you better service. They personalize your shoppi
   
 | [Specials](http://www.i-tech.com.au/Special.aspx)  
 ---  
-| [ Cyberoam CR35wING - 6x GbE ports, 802.11 b/ g/ n, 2300 Mbps Firewall Throughput, 210 Mbps UTM Throughput ](http://www.i-tech.com.au/products/141396_Cyberoam_CR35wING___6x_GbE_ports.aspx)  
+| [ Netgear New ReadyNAS RN21243E 4x3TB E RN21243E-100AJS ](http://www.i-tech.com.au/products/155965_Netgear_New_ReadyNAS_RN21243E_4x3TB.aspx)  
 ---  
-$884.00   
-Regular Price $1,017.00  
-Your save $133.00  
-[ Leadtek Geforce GTX 680 PCI-E 3.0 4GB 256-bit DDR5, Base: 1006 Boost:1058/ 6008 MHz, 2x DVI, ](http://www.i-tech.com.au/products/146155_Leadtek_Geforce_GTX_680_PCI_E_3_0.aspx)  
-$572.00   
-Regular Price $674.00  
-Your save $102.00  
-[ TUCANO Microfibra Script MacBook Pro 17in - grey BFUS-MB17-GV ](http://www.i-tech.com.au/products/142159_TUCANO_Microfibra_Script_MacBook.aspx)  
-$24.00   
-Regular Price $29.00  
-Your save $5.00  
-[ MAGELLAN EXPLORIST 310 EU MG00310 ](http://www.i-tech.com.au/products/95612_MAGELLAN_EXPLORIST_310_EU_MG00310.aspx)  
-$195.00   
-Regular Price $299.00  
-Your save $104.00  
-[ HP L2314(C4H43AA) 23" IPS w/ LED Backlight, 14MS (GtG), 16:9, 1920X1080, DVI-D+HDMI+VGA, Tilt, 3 ](http://www.i-tech.com.au/products/145263_HP_L2314_C4H43AA__23__IPS_w__LED.aspx)  
-$218.00   
-Regular Price $254.00  
-Your save $36.00  
+$2,450.00   
+Regular Price $2,958.00  
+Your save $508.00  
+[ EPSON EB-420 2500 LUMEN XGA, 3LCD, 4:3, CONTRAST RATIO 3000:1, 3.8KG V11H447053 ](http://www.i-tech.com.au/products/151056_EPSON_EB_420_2500_LUMEN_XGA__3LCD.aspx)  
+$879.00   
+Regular Price $1,042.00  
+Your save $163.00  
+[ Microsoft Windows 7 Home Premium 64-bit with SP1 - 1pk OEM DVD ](http://www.i-tech.com.au/products/154511_Microsoft_Windows_7_Home_Premium.aspx)  
+$125.00   
+Regular Price $145.00  
+Your save $20.00  
+[ IN WIN C583 ATX MID TOWER, BLACK & SILVER, 400W 80+ GOLD, FRONT USB3.0 + HD AUDIO, 12CM REAR FAN ](http://www.i-tech.com.au/products/161454_IN_WIN_C583_ATX_MID_TOWER__BLACK.aspx)  
+$116.00   
+Regular Price $133.00  
+Your save $17.00  
+[ Gigabyte U35F-4701H (9WU35F002-AU-A-004) U35F, I7-4500U, 15.6"HD, GT750M 4GB, 8GBDDR3, 32GBSSD+1TB ](http://www.i-tech.com.au/products/162273_Gigabyte_U35F_4701H__9WU35F002_AU.aspx)  
+$1,785.00   
+Regular Price $2,053.00  
+Your save $268.00  
   
   
 ---  
