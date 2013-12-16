@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kshownow.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620090104id_/http%3A//www.kshownow.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kshownow.net privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216160955id_/http%3A//www.kshownow.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | kshownow | korean shows with english subs
+# Privacy Policy | kshownow | korean shows with english subtitles
 
 **Privacy Policy for www.kshownow.net**    
   
