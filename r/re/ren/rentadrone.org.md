@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the rentadrone.org privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628040011id_/http%3A//www.livenewschat.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentadrone.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216094511id_/http%3A//www.livenewschat.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Live News Stream Chat - Latest News Headlines
-
-[](http://www.hupso.com/share/)
+# Privacy Policy | LNC – Live News Stream & Chat – Breaking News Blog
 
 Last Update: 08.10.2012
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information ( **not** including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit networkadvertising.org.
 
-Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address.
 
@@ -66,4 +63,4 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using email below. 
 
-mail(at)livenewschat.eu
+mail(at)livenewschat(dot)tv
