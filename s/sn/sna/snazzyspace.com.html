@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the snazzyspace.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430165849id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snazzyspace.com privacy policy that was archived on 2013-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216140125id_/http%3A//www.snazzyspace.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en" xml:lang="en"><head> 
 	<title>SnazzySpace.com - Privacy Policy!</title>
@@ -11,30 +11,98 @@
 	<meta name="keywords" content="">
 	<meta name="Revisit-After" content="1 Days">
 	<link rel="stylesheet" type="text/css" href="http://www.snazzyspace.com/stylesheets.css">
-	<link rel="stylesheet" type="text/css" href="http://www.snazzyspace.com/buttonPro.css">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=516930508331087"></script><script src="http://code.jquery.com/jquery-latest.min.js"></script>
-	<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-	<script src="http://platform.tumblr.com/v1/share.js"></script>
 	<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-	<script src="https://raw.github.com/garand/Sticky/master/jquery.sticky.js"></script>
-
-	<script> 
-		$(document).ready(function(){
-			$("#scroller").sticky({topSpacing:35});
-			$("#header").sticky({topSpacing:0});	
-			$("#sharebar").sticky({topSpacing:48});			
-			$("#toplead").sticky({topSpacing:35});			
-			$("#sky").sticky({topSpacing:35});				
-		});
-	</script>
-
-<!-- BEGIN POP-UNDER -->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=373660219405997"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <!-- social locker for jquery (copy this and check path correctness) -->
+  <script src="http://www.snazzyspace.com/js/jquery.op.sociallocker.min.js"></script>
+  <link type="text/css" rel="stylesheet" href="http://www.snazzyspace.com/css/jquery.op.sociallocker.min.css">
+  
+  
+ <!-- BEGIN POP-UNDER -->
 <script type="text/javascript">
 var cache_buster=Math.random((new Date()).getMilliseconds())*100000000000000000;
 document.write(unescape('%3Cscript type=\"text/javascript\" src="http://ggo.directrev.com/a?type=oas_pop&sid=S0000987&cid=S0000987&fc=1&hr=1&cm=1&cb='+cache_buster+'\"%3E%3C/scr'+'ipt%3E'));
-</script><script type="text/javascript" src="http://ggo.directrev.com/a?type=oas_pop&amp;sid=S0000987&amp;cid=S0000987&amp;fc=1&amp;hr=1&amp;cm=1&amp;cb=59688880612324000"></script>
-<!-- END POP-UNDER -->
+</script><script type="text/javascript" src="http://ggo.directrev.com/a?type=oas_pop&amp;sid=S0000987&amp;cid=S0000987&amp;fc=1&amp;hr=1&amp;cm=1&amp;cb=78211390263327660"></script>
+<!-- END POP-UNDER --> 
+	
+  <!-- [USAGE] -->
+    
+  <script>
+  // -
+    // Notice: read the documentation that comes with the plugins to get more details 
 
+    // IMPORTANT: this is an obligatory wrapper, it runs after loading a page
+    jQuery(document).ready(function ($) {
+
+        // use your own selector to choose content what you want to lock
+        $(".to-lock").sociallocker({
+   
+            // text that appears above the social buttons
+            // any html tags available, for example: "<strong>My locker message</strong>"
+            text: {
+                header: "The theme code is locked.",
+                message: "To view this theme's codes just click one of the buttons below."
+            },
+
+            // a theme name that will be used, 
+            // by default available: secrets, dandyish, glass
+            theme: "glass",
+
+            // the order of the social buttons
+            // you can remove this option to use the default order
+            // available buttons:
+            // - facebook:  facebook-like, facebook-share, 
+            // - twitter:   twitter-tweet, twitter-follow,
+            // - google:    google-plus, google-share (experimental, doesn't work in IE and Opera).
+            // - seporator: # (use it to add a new line)
+            buttons: {
+                order: ["facebook-like", "twitter-tweet", "google-plus"]
+            },
+            
+            // twitter options
+            // check out the documentation to learn more about twitter options
+            twitter: {
+                tweet: {
+                    // url to tweet
+                    url: "http://www.snazzyspace.com",
+                    // text that will be preloaded to tweet
+                    text: "Awesome site for twitter backgrounds, tumblr themes and heaps more!"
+                }
+            },
+
+            // facebook options
+            // check out the documentation to learn more about facebook options
+            facebook: {
+                like: {
+                    // url to like
+                    url: "https://www.facebook.com/snazzyspacedotcom"
+                },
+                share: {
+                    title: 'share it',
+                    url: "http://www.snazzyspace.com"
+                },				
+                // facebook app id (get the one here: https://developers.facebook.com/apps
+                // it's obligatory option, dont forget to set it
+                appId: "427542137301809"
+            },
+
+            // google options
+            google: {
+                plus: {
+                    // url to +1
+                    url: "http://www.snazzyspace.com"
+                }
+            }
+        });
+    });
+  </script>
+
+
+	<script src="http://www.snazzyspace.com/jquery-ui.js"></script>
+	<script src="http://platform.tumblr.com/v1/share.js"></script>
+
+
+		
      <script language="JavaScript" type="text/javascript">  
      function gotourl(url){ 
       window.location= url;        
@@ -52,101 +120,52 @@ submitted = true;
 }
 //--></script> 
 
+<script>
+function sticky_relocate() {
+    var window_top = $(window).scrollTop();
+    var div_top = $('#sticky-anchor').offset().top;
+    if (window_top > div_top) {
+        $('#sticky').addClass('stick');
+    } else {
+        $('#sticky').removeClass('stick');
+    }
+    var div_top2 = $('#sticky-anchor2').offset().top;
+    if (window_top > div_top2) {
+        $('#sticky2').addClass('stick');
+    } else {
+        $('#sticky2').removeClass('stick');
+    }	
+    var div_top3 = $('#sticky-anchor3').offset().top;
+    if (window_top > div_top2) {
+        $('#sticky3').addClass('stick');
+    } else {
+        $('#sticky3').removeClass('stick');
+    }		
+}
 
-<script type="text/javascript">
-   var puShown = false;
-
-   function doOpen(url)
-   {
-           if ( puShown == true )
-           {
-                   return true;
-           }
-
-           win = window.open(url, 'wmPu', 'toolbar,status,resizable,scrollbars,menubar,location,height=800,width=1024');
-           if ( win )
-           {
-                   win.blur();
-                   puShown = true;
-           }
-           return win;
-   }
-   
-   
-   function setCookie(name, value, time)
-   {
-       var expires = new Date();
-       
-       expires.setTime( expires.getTime() + time );
-       
-       document.cookie = name + '=' + value + '; expires=' + expires.toGMTString();
-   }
-   
-   
-   function getCookie(name) {
-       var cookies = document.cookie.toString().split('; ');
-       var cookie, c_name, c_value;
-       
-       for (var n=0; n<cookies.length; n++) {
-           cookie  = cookies[n].split('=');
-           c_name  = cookie[0];
-           c_value = cookie[1];
-           
-           if ( c_name == name ) {
-               return c_value;
-           }
-       }
-       
-       return null;
-   }
-
-
-   function initPu()
-   {
-           if ( document.attachEvent )
-           {
-                   document.attachEvent( 'onclick', checkTarget );
-           }
-           else if ( document.addEventListener )
-           {
-                   document.addEventListener( 'click', checkTarget, false );
-           }
-   }
-   
-   
-   function checkTarget(e)
-   {
-       if ( !getCookie('picpop') ) {
-           var e = e || window.event;
-           var win = doOpen('http://www.tumblr.com/follow/itsanarchy');
-           
-           setCookie('picpop', 1, 24*60*60*1000);
-       }
-   }
-
-   initPu();
+$(function () {
+    $(window).scroll(sticky_relocate);
+    sticky_relocate();
+});
 </script>
-
 
 
 </head>
 <body onload="breakout_of_frame();">
+
+
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=516930508331087";
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=373660219405997";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
 
-<div style="position:absolute; top:3px; right:3px;">
-	<a href="http://www.tumblr.com/follow/itsanarchy" target="_blank">
-		<img src="http://www.snazzyspace.com/images/follow.png" border="0">
-	</a>
-</div>
 
 
 
@@ -163,49 +182,52 @@ function breakout_of_frame()
 
 
 
+
+<div id="header">
+<a href="http://www.snazzyspace.com">
+	<img src="http://www.snazzyspace.com/images/header.gif" alt="SnazzySpace.com">
+</a>
+</div>
+
 <div id="container">
 
-<a href="http://www.snazzyspace.com">
-<div id="header">
-</div>
-</a>
 
+ 
 
 <div id="left">
 
 
+
+						
+						
+						
 							<div class="linkbox">
 									<span class="tumblr heading">Tumblr</span>
-									
-									<a href="http://www.snazzyspace.com/tumblr-themes/page/1">Tumblr Themes</a>								
+									<a href="http://www.snazzyspace.com/">Homepage</a>	
+									<a href="http://www.snazzyspace.com/image-effects/">Photo Effects</a>											
+									<a href="http://www.snazzyspace.com/tumblr-themes/page/1">Tumblr Themes</a>		
+									<a href="http://www.snazzyspace.com/backgrounds/page/1">Tumblr Backgrounds</a>											
 									<a href="http://www.snazzyspace.com/scrollbars/page/1">Tumblr Scrollbars</a>
+									<a href="http://www.snazzyspace.com/music-players/">Tumblr Music Players</a>									
 									<a href="http://www.snazzyspace.com/follower-tracker/">Tumblr Follower Counter</a>
 									<a href="http://www.snazzyspace.com/follower-tracker/">Find out who unfollows you!</a>
 									<a href="http://www.snazzyspace.com/generators/viewer-counter/">Tumblr Viewer Counter</a>
-									<a href="http://www.snazzyspace.com/music-players/">Tumblr Music Players</a>
 									<a href="http://www.snazzyspace.com/banner-creator/">Banner Maker</a>
 									<a href="http://www.snazzyspace.com/cursors/1">Tumblr Cursors</a>
 									<a href="http://www.snazzyspace.com/tumblr/codes.php">Tumblr Codes</a>
+									<a href="http://www.snazzyspace.com/moving-objects.php">Tumblr Moving Objects</a>									
 							</div>
 							
 
-<div class="advert" id="scroller">
-		<script type="text/javascript"><!--
-		google_ad_client = "ca-pub-4898280731079854";
-		/* snaz_mains_square */
-		google_ad_slot = "4022646870";
-		google_ad_width = 300;
-		google_ad_height = 250;
-		//-->
-		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-</div>
-
-	
-	
-	
-
+							<div id="sticky-anchor"></div>
+							<div id="sticky">								
+								<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+								<!-- snaz_left_rec -->
+								<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8807721346347111" data-ad-slot="9534551781"></ins>
+								<script>
+								(adsbygoogle = window.adsbygoogle || []).push({});
+								</script>							
+							</div>
 
 
 						<div class="linkbox">
@@ -216,39 +238,44 @@ function breakout_of_frame()
 
 						<div class="linkbox">
 							<span class="facebook heading">Facebook</span>						
+							<a href="http://www.snazzyspace.com/track-unfriend/">Facebook Friend Tracker</a>
 							<a href="http://www.snazzyspace.com/facebook-covers/page/1">Facebook Covers</a>
 							<a href="http://www.snazzyspace.com/display-name-symbols.php">Text Symbols</a>
+						</div>		
+
+						<div class="linkbox">
+							<span class="chrome heading">Chrome</span>						
+							<a href="http://www.snazzyspace.com/chrome-themes/page/1">Chrome Themes</a>
 						</div>							
 							
+						<div class="linkbox">
+							<span class="apple heading">Apple</span>						
+							<a href="http://www.snazzyspace.com/iphone-wallpapers/page/1">iPhone Wallpapers</a>
+						</div>		
+
+						<div class="linkbox">
+							<span class="youtube heading">YouTube</span>						
+							<a href="http://www.snazzyspace.com/youtube-banners/page/1">YouTube Banners</a>
+						</div>			
+
+						<div class="linkbox">
+							<span class="desktop heading">Desktop</span>						
+							<a href="http://www.snazzyspace.com/desktop-wallpapers/page/1">Desktop Wallpapers</a>
+						</div>							
+					
+
 						<div class="linkbox">
 							<span class="google heading">Google</span>						
 							<a href="http://www.snazzyspace.com/google-homepages/page/1">Google Homepages</a>
-						</div>							
-							
-						<div class="linkbox">
-							<span class="blogger heading">Blogger</span>						
-							<a href="http://www.snazzyspace.com/blogger-templates/page/1">Blogger Templates</a>
-						</div>							
+						</div>	
 
 
-
-<div class="advert" id="scroller">
-		<!-- BEGIN ATF 300PX X 250PX -->
-		<iframe width="300px" height="250px" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ad.directrev.com/RealMedia/ads/adstream_sx.ads/S0000988/1[randomNo]@x04"><A HREF='http://ad.directrev.com/RealMedia/ads/click_nx.ads/S0000988/1[randomNo]@x04'><IMG SRC='http://ad.directrev.com/RealMedia/ads/adstream_nx.ads/S0000988/1[randomNo]@x04'></A></iframe>
-		<!-- END ATF 300PX x 250PX -->
-</div>
-							
-								<div class="imgfx">
-									<a href="#"><img border="0" src="http://www.snazzyspace.com/image-effects/icons/static.gif"></a>
-									<a href="#"><img border="0" src="http://www.snazzyspace.com/image-effects/icons/fscroller.gif"></a>
-									<a href="#"><img border="0" src="http://www.snazzyspace.com/image-effects/icons/fire.gif"></a>
-									<a href="#"><img border="0" src="http://www.snazzyspace.com/image-effects/icons/3d.gif"></a>
-									<a href="#"><img border="0" src="http://www.snazzyspace.com/image-effects/icons/motionblur.gif"></a>
-									<a href="#"><img border="0" src="http://www.snazzyspace.com/image-effects/icons/flasher.gif"></a>
-									<a href="#"><img border="0" src="http://www.snazzyspace.com/image-effects/icons/snow.gif"></a>	
-									<div class="clear"></div>
-								
-								</div>
+							<div id="sticky-anchor"></div>
+							<div id="sticky">
+								<!-- BEGIN ATF 300PX X 250PX -->
+								<iframe width="300px" height="250px" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ad.directrev.com/RealMedia/ads/adstream_sx.ads/S0000988/1[randomNo]@x04"><A HREF='http://ad.directrev.com/RealMedia/ads/click_nx.ads/S0000988/1[randomNo]@x04'><IMG SRC='http://ad.directrev.com/RealMedia/ads/adstream_nx.ads/S0000988/1[randomNo]@x04'></A></iframe>
+								<!-- END ATF 300PX x 250PX -->
+							</div>
 
 
 
@@ -260,23 +287,26 @@ function breakout_of_frame()
 
 <div id="middle">
 
-<div align="center" class="advert" id="toplead">
-		<script type="text/javascript"><!--
-		google_ad_client = "ca-pub-4898280731079854";
-		/* snaz_top_lead */
-		google_ad_slot = "2964716077";
-		google_ad_width = 728;
-		google_ad_height = 90;
-		//-->
-		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-</div>
 
 
 
+		<div class="messBox">
 		<p class="header">Privacy Policy</p>
 		<p class="information">Below is our privacy policy</p>
+		</div>
+
+	
+	
+	
+							<div id="sticky-anchor2"></div>
+							<div id="sticky2">
+									<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+									<!-- snaz_lead -->
+									<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8807721346347111" data-ad-slot="2011284984"></ins>
+									<script>
+									(adsbygoogle = window.adsbygoogle || []).push({});
+									</script>
+							</div>
 
 
 
@@ -307,7 +337,6 @@ If you have any questions regarding our privacy policy, terms of use, or anythin
 
 
 
-
 <div align="center">
 <a href="http://www.facebook.com/snazzyspacedotcom" target="_blank">
 <img src="http://www.snazzyspace.com/images/facebooklikepage.gif" border="0">
@@ -315,10 +344,10 @@ If you have any questions regarding our privacy policy, terms of use, or anythin
 </div>
 
 
-<div align="center" class="advert">
-	<!-- BEGIN ATF 728PX X 90PX -->
-	<iframe width="728px" height="90px" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ad.directrev.com/RealMedia/ads/adstream_sx.ads/S0000988/1[randomNo]@x01"><A HREF='http://ad.directrev.com/RealMedia/ads/click_nx.ads/S0000988/1[randomNo]@x01'><IMG SRC='http://ad.directrev.com/RealMedia/ads/adstream_nx.ads/S0000988/1[randomNo]@x01'></A></iframe>
-	<!-- END ATF 728PX x 90PX -->
+<div align="center">
+<!-- BEGIN ATF 728PX X 90PX -->
+<iframe width="728px" height="90px" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ad.directrev.com/RealMedia/ads/adstream_sx.ads/S0000988/1[randomNo]@x01"><A HREF='http://ad.directrev.com/RealMedia/ads/click_nx.ads/S0000988/1[randomNo]@x01'><IMG SRC='http://ad.directrev.com/RealMedia/ads/adstream_nx.ads/S0000988/1[randomNo]@x01'></A></iframe>
+<!-- END ATF 728PX x 90PX -->
 </div>
 
 
@@ -365,23 +394,25 @@ If you have any questions regarding our privacy policy, terms of use, or anythin
 
 
 <div id="farRight">
-	<div class="advert skyscraper">
-			<!-- BEGIN ATF 160PX X 600PX -->
-			<iframe width="160px" height="600px" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ad.directrev.com/RealMedia/ads/adstream_sx.ads/S0000988/1[randomNo]@x07"><A HREF='http://ad.directrev.com/RealMedia/ads/click_nx.ads/S0000988/1[randomNo]@x07'><IMG SRC='http://ad.directrev.com/RealMedia/ads/adstream_nx.ads/S0000988/1[randomNo]@x07'></A></iframe>
-			<!-- END ATF 160PX x 600PX -->
-	</div>
-	<div id="sky" class="advert skyscraper">
-			<script type="text/javascript"><!--
-			google_ad_client = "ca-pub-4898280731079854";
-			/* SkySnaz */
-			google_ad_slot = "2429566472";
-			google_ad_width = 160;
-			google_ad_height = 600;
-			//-->
-			</script>
-			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-			</script>
-	</div>	
+
+							<div id="sticky-anchor3"></div>
+							<div id="sticky3">
+									<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+									<!-- snaz_sky -->
+									<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8807721346347111" data-ad-slot="3488018187"></ins>
+									<script>
+									(adsbygoogle = window.adsbygoogle || []).push({});
+									</script>
+							</div>
+							
+							<div id="sticky-anchor3"></div>
+							<div id="sticky3">
+<iframe width="160px" height="600px" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ad.directrev.com/RealMedia/ads/adstream_sx.ads/S0000988/1[randomNo]@x07"><A HREF='http://ad.directrev.com/RealMedia/ads/click_nx.ads/S0000988/1[randomNo]@x07'><IMG SRC='http://ad.directrev.com/RealMedia/ads/adstream_nx.ads/S0000988/1[randomNo]@x07'></A></iframe>
+							</div>							
+							
+
+
+	
 </div>
 
 
@@ -400,6 +431,7 @@ If you have any questions regarding our privacy policy, terms of use, or anythin
 	 </div>
 
 		<div id="footLinkss">
+			<a href="http://www.iampumped.com">Gym Posters</a>
 			<a href="http://www.snazzyspace.com/privacy.php">Privacy Policy</a>
 			<a href="http://www.snazzyspace.com/DMCA.php">DMCA Policy</a>
 			<a href="http://www.snazzyspace.com/contact-us.php">Contact Us</a>
@@ -425,7 +457,6 @@ If you have any questions regarding our privacy policy, terms of use, or anythin
 
 </script>
 
-<script src="http://adexcite.com/ads/video/controller.php?eid=11583"></script>
 
 
 </body></html>
