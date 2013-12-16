@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzleplay.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602004019id_/http%3A//www.idealinternet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzleplay.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216101548id_/http%3A//www.idealinternet.com/privacy.html) for the most accurate reproduction.*
 
 # Ideal Internet
 
@@ -22,3 +22,7 @@ We use third-party advertising companies to serve ads when you visit our Website
 If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated. We will not notify you of any amendments or updates to this Privacy Policy. It is your responsibility to check this Privacy Policy often for any changes hereto.
 
 **copyright 2008/2010 Ideal Internet, Inc. All Rights Reserved.**
+
+**Warning** : include(../sidebar.php): failed to open stream: No such file or directory in **/var/www/html/idealinternet.com/idealinternet.com/page/privacy.php** on line **31**
+
+**Warning** : include(): Failed opening '../sidebar.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in **/var/www/html/idealinternet.com/idealinternet.com/page/privacy.php** on line **31**
