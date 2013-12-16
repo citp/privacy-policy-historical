@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thefuntimesguide.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430081410id_/http%3A//thefuntimesguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefuntimesguide.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216074736id_/http%3A//thefuntimesguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Fun Times Guide
+# Privacy Policy | The Fun Times Guide
 
 At TheFunTimesGuide.com, we appreciate your readership, and we place a high value on your personal privacy.
 
-**Personal Information**
+ **Personal Information**
 
   * We will never sell your personal information.
   * We do not store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings.
@@ -17,11 +17,12 @@ At TheFunTimesGuide.com, we appreciate your readership, and we place a high valu
 
 
 
-**Advertising Cookies**
+ **Advertising Cookies**
 
   * To maintain a site that is free of charge, we display advertisements on our website.
   * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
   * Google’s use of the DART cookie enables it and its partners to serve ads based on your visit to TheFunTimesGuide.com and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
   * In addition to [Google](http://www.google.com/privacy_ads.html), the third-party vendors and ad networks serving ads at TheFunTimesGuide.com include the following: [Amazon](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496), [Chitika](http://chitika.com/privacy_policy.php), [Commission Junction](http://www.cj.com/privacy_web_user.html), [DoubleClick](http://www.google.com/doubleclick/privacy/), [Grab Networks](http://corp.grabnetworks.com/privacy-policy), [IdeaLab](http://www.postup.com/privacy), [LinkShare](http://www.linkshare.com/legal/privacy/), [PubMatic](http://www.pubmatic.com/privacy-policy), [Six Apart](http://sixapart.com/privacy/), and [YieldBuild](http://yieldbuild.com/pages/privacy). You may opt out of cookies at each of their respective sites or by visiting the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+  * We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) .
 
 
