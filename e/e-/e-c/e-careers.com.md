@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-careers.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617044241id_/http%3A//e-careers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-careers.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216210603id_/http%3A//e-careers.com/privacy-policy) for the most accurate reproduction.*
 
 # e-Careers - Privacy Policy
 
