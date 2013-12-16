@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comarch.com privacy policy that was archived on 2013-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504110242id_/http%3A//www.comarch.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comarch.com privacy policy that was archived on 2013-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216194646id_/http%3A//www.comarch.com/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
         <title>COMARCH - Privacy Policy in the Comarch Capital Group</title>
@@ -19,7 +19,7 @@
 <link href="http://www.comarch.com/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link href="http://www.comarch.com/sigma/css/style.css" media="screen" rel="stylesheet" type="text/css">
 
-        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/2203.js?438991" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.comarch.com/js/libraries_jquery_new.js"></script>
+        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/2203.js?438991" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.comarch.com/js/libraries_jquery_new.js"></script>
 <script type="text/javascript" src="http://www.comarch.com/js/init_plus.js"></script>
 <script type="text/javascript" src="http://www.comarch.com/sigma/js/include.js"></script>
 <script type="text/javascript" src="http://www.comarch.com/js/cookieInfo_en.js"></script>
@@ -52,7 +52,53 @@
             });
         </script>
 
+                    <!-- begin top widget -->
+            
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-4606221-58']);
+        _gaq.push(['_trackEvent']);
+	_gaq.push(['_trackPageview']);
+
+	_gaq.push(['t2._setAccount', 'UA-8577574-2']);
+        _gaq.push(['t2._trackEvent']);
+	_gaq.push(['t2._trackPageview']);
+
+	_gaq.push(['t3._setAccount', 'UA-4119314-6']);
+        _gaq.push(['t3._trackEvent']);
+	_gaq.push(['t3._trackPageview']);
+	
+	_gaq.push(['t4._setAccount', 'UA-2772794-8']);
+        _gaq.push(['t4._trackEvent']);
+	_gaq.push(['t4._trackPageview']);
+
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/2203.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "0bca80d2-abee-4241-b8a8-d4fba3ebc33a", doNotHash: false, doNotCopy: true, hashAddressBar: false});</script>
+
+
+            <!-- end top widget -->
         
+		
     </head>
     <body id="mainPage">
         
@@ -61,15 +107,17 @@
     <script type="text/javascript">
            var form_url = '/quick-contact-main-page';
        $(function() {
-			   $('.showButton').click(function(){
+			   $('.showButton.quickContactButton').click(function(){
 
-				if($(this).parent('.quickContactOpen').length > 0){
-					return false;
-				}
-					$('.quickContact .quickContactDetails').html('Please wait');
+                    var $parent = $(this).parent('.quickContact');
+
+    				if( $parent.hasClass('.quickContactOpen') ){
+    					return false;
+    				}
+					$parent.find('.quickContactDetails').html('Please wait');
 					
 					$.get(form_url + "/?type=quick_contact", function(_data) {					
-						$('.quickContact .quickContactDetails').html(_data);
+						$parent.find('.quickContactDetails').html(_data);
 
 					});
 						
@@ -79,7 +127,7 @@
     
     <div class="quickContact">
         <a href="#" class="showButtonText">Quick contact</a>
-        <span class="showButton"></span>
+        <span class="showButton quickContactButton"></span>
         <div class="boxContent">
             <div class="quickContactDetails">
                 
@@ -137,7 +185,7 @@
 	<li class="industries ">
 		<a href="http://www.comarch.com/solutions"><span>Products</span></a>		
 <div class="submenu  "><div class="wrapper">    <div class="column"><ul>	    <li>
-           <a href="http://www.comarch.com/telecommunications"><span>BSS/OSS for Telecommunications</span></a>        </li>
+           <a href="http://www.comarch.com/telecommunications/#products"><span>BSS/OSS for Telecommunications</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/business-inteligence"><span>Business Intelligence</span></a>        </li>
         	    <li>
@@ -151,10 +199,12 @@
         	    <li>
            <a href="http://www.comarch.com/erp"><span>Enterprise Resource Planning</span></a>        </li>
         	    <li>
-           <a href="http://www.comarch.com/it-management"><span>IT Management</span></a>        </li>
+           <a href="http://www.comarch.com/telecommunications/products/resource-management/field-service-management"><span>Field Workforce Management</span></a>        </li>
         	    <li>
-           <a href="http://www.comarch.com/security"><span>IT Security</span></a>        </li>
+           <a href="http://www.comarch.com/it-management"><span>IT Management</span></a>        </li>
         </ul></div><div class="column"><ul>	    <li>
+           <a href="http://www.comarch.com/security"><span>IT Security</span></a>        </li>
+        	    <li>
            <a href="http://www.comarch.com/telecommunications/solutions-services/internet-of-things/m2m-platform"><span>M2M</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/mobile-applications"><span>Mobile Applications</span></a>        </li>
@@ -179,7 +229,7 @@
 	<li class=" ">
 		<a href="http://www.comarch.com/"><span>Industries</span></a>		
 <div class="submenu  "><div class="wrapper">    <div class="column"><ul>	    <li>
-           <a href="http://www.comarch.com/telecommunications"><span>Telecommunications</span></a>        </li>
+           <a href="http://www.comarch.com/telecommunications/#solutions-services"><span>Telecommunications</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/trade-and-services/markets/retail"><span>Retail</span></a>        </li>
         	    <li>
@@ -192,14 +242,16 @@
            <a href="http://www.comarch.com/finance/industries/banking"><span>Banking</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/finance/industries/capital-markets"><span>Capital Markets</span></a>        </li>
-        </ul></div><div class="column"><ul>	    <li>
-           <a href="http://www.comarch.com/automotive"><span>Automotive</span></a>        </li>
         	    <li>
+           <a href="http://www.comarch.com/automotive"><span>Automotive</span></a>        </li>
+        </ul></div><div class="column"><ul>	    <li>
            <a href="http://www.comarch.com/finance/industries/financial-services"><span>Financial Services</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/finance/industries/insurance"><span>Insurance</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/trade-and-services/markets/consumer-products"><span>Consumer Products</span></a>        </li>
+        	    <li>
+           <a href="http://www.comarch.com/trade-and-services"><span>Services</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/trade-and-services/markets/industrial-manufacturing"><span>Industrial Manufacturing</span></a>        </li>
         	    <li>
@@ -221,7 +273,7 @@
         	    <li>
            <a href="http://www.comarch.com/cloud-computing"><span>Cloud Computing</span></a>        </li>
         	    <li>
-           <a href="http://www.comarch.com/trade-and-services/our-solutions/comarch-enterprise-marketing-management-platform/comarch-smart-analytics/"><span>Customer Analytics Services</span></a>        </li>
+           <a href="http://www.comarch.com/trade-and-services/our-solutions/comarch-enterprise-marketing-management-platform/customer-analytics/"><span>Customer Analytics</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/trade-and-services/our-solutions/it-infrastructure/comarch-data-center"><span>Data Center</span></a>        </li>
         	    <li>
@@ -230,6 +282,8 @@
            <a href="http://www.comarch.com/trade-and-services/our-solutions/it-infrastructure/integrationoutsourcing-1/comarch-it-audits/"><span>It Audits</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/it-integration"><span>IT Integration</span></a>        </li>
+        	    <li>
+           <a href="http://www.comarch.com/trade-and-services/our-solutions/comarch-enterprise-marketing-management-platform/loyalty-consulting/"><span>Loyalty Consulting </span></a>        </li>
         </ul></div><div class="column"><ul>	    <li>
            <a href="http://www.comarch.com/network-telecommunication/"><span>Managed Services</span></a>        </li>
         	    <li>
@@ -240,6 +294,8 @@
            <a href="http://www.comarch.com/outsourcing"><span>Outsourcing</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/trade-and-services/our-solutions/document-management-systems-dms/comarch-ecm-professional-services/"><span>Professional services</span></a>        </li>
+        	    <li>
+           <a href="http://www.comarch.com/trade-and-services/our-solutions/comarch-enterprise-marketing-management-platform/program-management-services/"><span>Program Management Services </span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/training-center"><span>Training</span></a>        </li>
         	    <li>
@@ -276,6 +332,8 @@
         	    <li>
            <a href="http://www.comarch.com/investors/analysts-and-recommendations"><span>Analysts&amp;Recommendations</span></a>        </li>
         	    <li>
+           <a href="http://www.comarch.com/investors/dividend"><span>Dividend</span></a>        </li>
+        	    <li>
            <a href="http://www.comarch.com/investors/contact"><span>Contact</span></a>        </li>
             </ul></div>
 
@@ -286,8 +344,6 @@
 	<li class="career ">
 		<a href="http://www.comarch.com/career"><span>Career</span></a>		
 <div class="submenu  "><div class="wrapper">    <div class="column"><ul>	    <li>
-           <a href="http://www.comarch.com/career/news"><span>News</span></a>        </li>
-        	    <li>
            <a href="http://www.comarch.com/career/career-at-comarch"><span>Career at Comarch</span></a>        </li>
         	    <li>
            <a href="http://www.comarch.com/career/worldwide-jobs"><span>Worldwide Jobs</span></a>        </li>
@@ -349,7 +405,6 @@
 <li><a href="http://www.comarch.com/company/quality">Quality</a></li>
 <li><a href="http://www.comarch.com/company/research--development">Research &amp; Development</a></li>
 <li><a href="http://www.comarch.com/company/supervisory-board">Supervisory Board</a></li>
-<li><a href="http://www.comarch.com/company/worldwide-offices">Worldwide Offices</a></li>
 </ul>
 </li>
 </ul>
@@ -406,9 +461,6 @@
           
         <li class="">
            <a href="http://www.comarch.com/company/supervisory-board">Supervisory Board</a>        </li>
-          
-        <li class="">
-           <a href="http://www.comarch.com/company/worldwide-offices">Worldwide Offices</a>        </li>
     
   
   							
@@ -507,13 +559,13 @@ $(document).ready(function(){
     <div class="socialPortalLink">
       <ul>
                     <li>
-			 <a target="_blank" href="http://twitter.com/Comarch_Finance" onclick="_gaq.push(['_trackSocial', 'twitter', 'http://www.comarch.com/company/privacy-policy/'])"><img src="http://www.comarch.com/files_eu/file_1408/ico_03.png" alt="  Follow our updates on Twitter" style="width: 24px; ">  Follow our updates on Twitter</a>            </li>
+			 <a target="_blank" href="http://twitter.com/Comarch_Finance" onclick="multipleEvents( 'twitter', 'http://www.comarch.com/company/privacy-policy/')"><img src="http://www.comarch.com/files_eu/file_1408/ico_03.png" alt="  Follow our updates on Twitter" style="width: 24px; ">  Follow our updates on Twitter</a>            </li>
                     <li>
-			 <a target="_blank" href="http://www.linkedin.com/company/comarch" onclick="_gaq.push(['_trackSocial', 'linkedin', 'http://www.comarch.com/company/privacy-policy/'])"><img src="http://www.comarch.com/files_eu/file_1408/ico_07.png" alt="  Connect with us on LinkedIn" style="width: 24px; ">  Connect with us on LinkedIn</a>            </li>
+			 <a target="_blank" href="http://www.linkedin.com/company/comarch" onclick="multipleEvents( 'linkedin', 'http://www.comarch.com/company/privacy-policy/')"><img src="http://www.comarch.com/files_eu/file_1408/ico_07.png" alt="  Connect with us on LinkedIn" style="width: 24px; ">  Connect with us on LinkedIn</a>            </li>
                     <li>
-			 <a target="_blank" href="http://www.facebook.com/pages/Comarch-Telecom/173358131733" onclick="_gaq.push(['_trackSocial', 'facebook', 'http://www.comarch.com/company/privacy-policy/'])"><img src="http://www.comarch.com/files_eu/file_1408/ico_05.png" alt="  Become our fan on Facebook" style="width: 24px; ">  Become our fan on Facebook</a>            </li>
+			 <a target="_blank" href="http://www.facebook.com/pages/Comarch-Telecom/173358131733" onclick="multipleEvents( 'facebook', 'http://www.comarch.com/company/privacy-policy/')"><img src="http://www.comarch.com/files_eu/file_1408/ico_05.png" alt="  Become our fan on Facebook" style="width: 24px; ">  Become our fan on Facebook</a>            </li>
                     <li>
-			 <a target="_blank" href="http://www.youtube.com/user/ComarchTV" onclick="_gaq.push(['_trackSocial', 'youtube', 'http://www.comarch.com/company/privacy-policy/'])"><img src="http://www.comarch.com/files_eu/file_1408/ico_09.png" alt="  Watch us on YouTube" style="width: 24px; ">  Watch us on YouTube</a>            </li>
+			 <a target="_blank" href="http://www.youtube.com/user/ComarchTV" onclick="multipleEvents( 'youtube', 'http://www.comarch.com/company/privacy-policy/')"><img src="http://www.comarch.com/files_eu/file_1408/ico_09.png" alt="  Watch us on YouTube" style="width: 24px; ">  Watch us on YouTube</a>            </li>
         
        </ul>
       <div class="clearfix"></div>
@@ -558,42 +610,6 @@ $(document).ready(function(){
         </footer>
         <!-- .footer -->
 
-                    <!-- begin top widget -->
-                
-
-
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-4606221-58']);
-	_gaq.push(['_trackPageview']);
-
-	_gaq.push(['t2._setAccount', 'UA-8577574-2']);
-	_gaq.push(['t2._trackPageview']);
-
-	_gaq.push(['t3._setAccount', 'UA-2772794-8']);
-	_gaq.push(['t3._trackPageview']);
-	
-	_gaq.push(['t4._setAccount', 'UA-4119314-6']);
-	_gaq.push(['t4._trackPageview']);
-
-
-	(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
-
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName('script')[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/2203.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-
-
-
-            <!-- end top widget -->
                     <!-- Q6HKO63D8VIE0IKVC5J3 -->
     
 
