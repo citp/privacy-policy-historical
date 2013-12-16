@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528172605id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216183425id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer
 
