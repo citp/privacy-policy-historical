@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonightsgirlfriend.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630114826id_/http%3A//www.tonightsgirlfriend.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonightsgirlfriend.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216230712id_/http%3A//www.tonightsgirlfriend.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,6 +76,6 @@ You must promptly notify us if your credit card, user name, or password is lost,
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. Specifically, in the event that Company elects to share Cookies information in the future, you will be notified via an update to this Privacy Policy or notice posted to the Site and at that time have the option to cease using the Site and/or terminate your membership. Your continued use of the Site after receiving such notice indicates your agreement to the sharing of Cookies information.
 
-All membership questions can be answered by submitting a ticket to: [http://support.tonightsgirlfriend.com](http://support.tonightsgirlfriend.com/).
+All membership questions can be answered by submitting a ticket to: [http://support.latouraineinc.com](http://support.latouraineinc.com/).
 
 If you have any questions about this Privacy Policy, our practices related to this Site, or if you would like to have us remove your information from our database, please feel free to contact us at the following email address: [policies@tonightsgirlfriend.com](mailto:policies@tonightsgirlfriend.com) .
