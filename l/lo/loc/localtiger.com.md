@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the localtiger.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511045024id_/http%3A//www.localtiger.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localtiger.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216075049id_/http%3A//www.localtiger.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Local Information, Tourism & City Guides - localtiger.com
 
-This site (including the URLs localtiger.com, localtiger.co.uk, localtiger.co.za, localtiger.co.nz, localtiger.de and localtiger.ru) is the responsibility of LRR Technologies (Hyderabad) Private Limited. We want you to:
+This site (including the URLs localtiger.com, localtiger.co.uk, localtiger.co.za, localtiger.co.nz, localtiger.ca, localtiger.de and localtiger.ru and other URLs with "localtiger" in them owned by us) is the responsibility of LRR Technologies (Hyderabad) Private Limited. We want you to:
 
   1. feel comfortable using our web sites
   2. feel secure submitting information to us
@@ -28,7 +28,7 @@ We may collect the following personally identifiable information about you:
   1. name
   2. email address
   3. ZIP/Postal code
-  4. demographic profile (like your age, gender,occupation,education and durables owned)
+  4. demographic profile (like your age, gender, occupation, education and durables owned)
   5. interests (such as news, sports, travel and so on)
   6. financial information (like account or credit card numbers)
   7. opinions of features on our website(s).
@@ -41,7 +41,7 @@ WHO COLLECTS THE INFORMATION?
   2. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey or contest.
   3. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.
   4. The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites.
-  5. We may make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone.
+  5. We may make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use, and you should exercise caution when disclosing your personal information to anyone.
 
 
 
@@ -107,9 +107,9 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
 IN WHAT WAYS CAN THIRD PARTY ADVERTISING WORK? 
 
-We use Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We allow Google and other third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e. g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION? 
 
