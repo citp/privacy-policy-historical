@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtracer.aero privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601025826id_/http%3A//www.sita.aero/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtracer.aero privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216133714id_/http%3A//www.sita.aero/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SITA.aero
 
