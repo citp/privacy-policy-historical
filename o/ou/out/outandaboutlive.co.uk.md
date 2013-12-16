@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616011307id_/http%3A//www.outandaboutlive.co.uk/Information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216042657id_/http%3A//www.outandaboutlive.co.uk/Information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Out and About Live
 
