@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minhtan.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518014332id_/http%3A//www.minhtan.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minhtan.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216142057id_/http%3A//www.minhtan.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
 
 # Privacy policy - Minh Tan Online store - Music, Video And More...
 
