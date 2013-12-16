@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615222953id_/http%3A//www.perfectorigins.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216033444id_/http%3A//perfectorigins.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Perfect Origins :: About Us
 
@@ -98,7 +98,7 @@ Where to Direct Questions About Our Privacy Policy: If you have any questions ab
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
-Opting Out: Should you wish to no longer receive email communication from us, simply send an email to: unsubscribe@perfectorigins.com and we will remove you from our database. Also, at the bottom of any email you might receive from us is an unsubscribe link that, when clicked, will automatically unsubscribe you.
+Opting Out: Should you wish to no longer receive email communication from us, simply send an email to: support@perfectorigins.com and request to be removed and we will remove you from our database. Also, at the bottom of any email you might receive from us is an unsubscribe link that, when clicked, will automatically unsubscribe you.
 
 Copyright © 2013  
 
