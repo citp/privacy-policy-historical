@@ -1,45 +1,111 @@
-> *The following text is extracted and transformed from the zentyal.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528175741id_/http%3A//www.zentyal.org/legal-notice-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zentyal.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216070713id_/http%3A//www.zentyal.com/legal-notice) for the most accurate reproduction.*
 
-# Legal notice and privacy policy | Zentyal - The Linux Small Business Server
+# Legal notice and Privacy Policy | Zentyal, the Linux small business server | Zentyal - Easy IT for small business
+
+### Legal notice and Privacy Policy
+
+###### Please find below the Legal Notice and Privacy Policy of Zentyal S.L.
+
+## LEGAL NOTICE
 
 ### About Zentyal
 
-Zentyal is the trade mark of the services of eBox Tecnologies, S.L. (hereinafter, EBOX), a company in force and duly constituted in accordance with the Spanish Law, with Tax Identity number B65160798 and home offices in Zaragoza (Spain), c/ María de Luna num. 11, N 19, and inscribed in the Commercial Registry of Zaragoza, book 3619, paper 180, leaf Z-46369. 
+This website belongs to Zentyal, S.L. (hereinafter, “ZENTYAL”), a company in force and duly constituted in accordance to Spanish Law, with Tax Identity number B99201444 and home offices in Zaragoza (Spain), c/ Eduardo Ibarra no. 6, and inscribed in the Commercial Registry of Zaragoza, book 3619, paper 180, leaf Z-46369.
 
-According to Spanish Act 34/2002, of July 11th, on Information Society Services and Electronic Commerce, we inform that you can contact us through our address info@zentyal.com, phone number +34 976 73 35 06 of fax +34 976 73 37 19. 
+ZENTYAL is the company who sponsors and owns the software for Linux-based servers “Zentyal”, available at [zentyal.org](http://www.zentyal.org/ "www.zentyal.org"). As an open source company, we are in touch, promote and foster the development and growth of free software solutions. In this sense, we are members of [Open Invention Network](http://www.openinventionnetwork.com/ "Open Innovation Network"), an organization that provides a safe and patent free ecosystem for the development of Linux.
 
-Our public opening hours are from 9am to 2pm and from 5pm to 8pm, Monday to Friday.
+For general questions you can contact us through our [contact section](http://www.zentyal.com/en/company/contact-us/ "Contact Zentyal"), via email at info@zentyal.com and by phone at +34 976 29 26 85.
+
+For sales, please contact through [www.zentyal.com/en/contact-sales](http://www.zentyal.com/en/contact-sales "Contact Zentyal Sales Team").
+
+Our public opening hours are from 10am to 6pm hours (CET), Monday to Friday.
+
+### Contributions to Zentyal
+
+Zentyal encourages and welcomes the participation and contributions of the community to the development, expansion and improvement of our products or services.
+
+To contribute into community sections (zentyal.org) you must register, accept and comply with the conditions herein.
+
+Your user name and password are confidential. You must keep private and contact us in case of theft, loss or misuse of them. Otherwise, you will be liable for the consequences or damages caused by any fraudulent or improper use.
+
+User expressly declares that he/she is able to accept, understand and assume the rights and obligation herein.
+
+The purpose of community sections is to provide information, help or a space for discussion and debate between Zentyal users. Users agree to respect other participants’ opinions and to use this space and tools in accordance with the above. In particular users shall not (a) introduce or transmit, by any means, content that may be illegal, dangerous or could be harmful or offensive to third parties’ rights or interests, (b) disclose any personal, private, confidential or secret data without authorization or consent, (c) introduce or transmit, by any means, material that may contain viruses or any software or applications that might be used to interrupt, modify, destroy, limit or control a computer or any files or data included in it, (d) prohibit, limit or modify Zentyal’s website operation or contents, (e) remove or collect any information or personal data without the corresponding authorization or consent, (f) introduce or transmit, by any means, commercial or promotional information, chain letters, pyramid schemes or any other similar content without prior content.
 
 ### Intellectual Property
 
-The service and their integrated elements are property of EBOX and protected under intellectual property laws and international treaties, included but not limited the software source and object code, user interfaces, databases, structure, design, images, sounds, texts, manuals, diagrams and other components, except were indicated. Any breach of the applicable legislation and these terms will be prosecuted according to Law.
+This website and their content or elements are property of Zentyal and protected under intellectual property laws and international treaties, included but not limited the software source and object code, user interfaces, databases, structure, design, images, sounds, texts, manuals, diagrams and other components.
 
-The name and logos of “Zentyal”, and domain names www.zentyal.com, www.zentyal.org or www.zentyal.es are registered and protected as trademarks and domain names regulation. EBOX allows the use of this trade mark provided reflects faithfully the owners’ products or services, without implying or grant any intellectual property right.
+The above will not apply to content management software, plugins, themes and components owned by third parties.
 
-### Personal Data Protection
+Zentyal participates in the development and improvement of other open source projects. Any code contributed to them is copyright of the author, and will be submitted and governed by the license and other conditions set out in the relevant project. 
 
-Through this website we collect and process personal data, necessary for responding your petitions, questions and suggestions about our products and services. Those data where included in our databases, which are registered in the Spanish Data Protection Authority Registry.
+Zentyal software is open source and is released under [GNU General Public License version 2](https://gnu.org/licenses/gpl.html "GNU General Public License") or higher, which means anyone is allowed to copy, distribute or modify our software under the terms of this licenses.
 
-Sending any information through our contact form or to any of our address, phone or mail, you agree and allow the processing of your data according to these terms, and for commercial purposes.
+We really appreciate any contribution for the development of our software and its documentation, so any code submitted to the project will be released directly under GNU General Public License version 2 or higher. Any user who participates in any way in our community agrees to the following conditions and is responsible, if applicable, of any violation of third parties’ rights. 
 
-Any personal data will be processed according to the European Directive 95/46/CE, of the European Parliament and the Council of October 24 1995, on the protection of individuals with regard to the processing of personal data and on the free movement of such data, as well as according to the Spanish Act 15/1999, of December 13, of Personal Data Protection, and its development regulation. 
+The names and logos of “Zentyal” and domain names www.zentyal.com, www.zentyal.org, or www.zentyal.es are registered and protected as trademarks and domain names regulation. Zentyal allows the use of this trade mark provided reflects faithfully the owners’ products or services, without implying or grants any intellectual property right.
 
-Data will be processed confidencially by applying the security measures established in the above mentioned legislation to avoid unlawful access, use, manipulation, damage, or loss, and will not be shared with third parties except in the indicated cases and according to Law. Where expressly indicated, data marked with an asterisk (*) will be mandatory. 
+The Zentyal software is open source, based on the popular Linux distribution Ubuntu. The Zentyal Software Community Edition is available under the terms of the.
 
-Nevetheless, users can, at any moment, request information of your personal details (access), object to this processing, change or ask for removing them, according to Spanish and European Law, just sending us the request to any contact address, providing your identity by means of a photocopy of your National Identity Card, Passport Number or equivalent.
+The above mentions do not imply any recognition of ownership, license, right or power beyond the terms strictly indicated. In any case, User is committed to use those contents and software pursuant the above terms, and to protect them as a third party good.
 
-IP address belonging to the computer from which the user is accessing the service, browser and version, display settings, operating system and referrers (including words used on search engines) are used by us to analyse website traffic, manage links and website content for statistical purposes. Users where anonymised during those processes, and EBOX will not try to connect IP address with users personal data.
+Any failure to comply with the following terms may constitute an illegal activity, which may be prosecuted under applicable law.
 
-### Google Analytics
-
-This website uses Google Analytics, a web service provided by Google, Inc., a Delaware company with home offices at 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, USA. Google Analytics uses its own cookies to help analyze how users use this website. The information generated by the cookie, including your IP address, will be transmitted to and processed by Google in United States of America. Google will use this data, referring pages and searches, location data, and other surfing habits, to collect information on the use of this website, compiling activity reports and providing other services related to Internet use. The use of this information is solely responsibility of Google, which establishes in their conditions that may be transmitted to third parties when required by law or where such third parties process the information on Google’s behalf. Google indicates that they will not associate your IP address with any other data held by the company.
+The names and logos of third parties contained in this website or documentation may be protected as trademarks and property of their respective owners.
 
 ### Limitation of Liability
 
-The contents of this website are provided just for information purposes, not being necessarily complete, updated and fully descriptive of out products or services features, thus can not be considered as part of a commercial offer. 
+The contents of this website are provided just for information purposes. Our products and services are permanently evolving, so the contents of the website are not necessarily exhaustive or clearly descriptive of their full features, and cannot integrate a commercial offer or raise any claim, except as indicated in our store legal terms.
 
-EBOX assumes no liability for any damage arising from the use of this information.
+Users are liable for their actions or contents introduced in the community spaces. Zentyal, the administrators or moderators will take care of the community spaces but they are not required to monitor and control such content or information, so they refuse any liability related or in connection to them.
 
-In relation to third parties’ content, including links, EBOX liability will be limited according to the Spanish Act 34/2002, of July 11th, on Information Society Services and Electronic Commerce.
+In any case, if you consider that any content fails to comply with these terms, or otherwise may be considered illegal, please contact us in order to take the appropriate actions.
 
-**Copyright © 2012. eBox Technologies, S.L., Spain. All rights reserved.**
+**Copyright © Zentyal, S.L., Spain. Almost all rights reserved.**
+
+## PRIVACY POLICY
+
+### General
+
+Through this website we collect and process personal data, necessary to manage the relationships with our customers, prospects, users and contributors, and for responding their petitions, questions and suggestions about our products and services. Those data, including your IP address will be incorporated into our databases, which are registered in the Spanish Data Protection Authority Registry, and processed in accordance with the European Directive 95/46/CE, of the European Parliament and the Council of October 24 1995, on the protection of individuals with regard to the processing of personal data and on the free movement of such data, as well as according to Spanish Act 15/1999, of December 13, on Personal Data Protection and its development regulation.
+
+The owner of those databases and controller of such data is Zentyal, S.L., a company in force and duly constituted in accordance to Spanish Law, with Tax Identity number B99201444 and home offices in Zaragoza (Spain), c/ Eduardo Ibarra no. 6.
+
+Data will be processed confidentially by applying the security measures established in the above mentioned legislation to avoid unlawful access, use, manipulation, damage, or loss, and will not be shared with third parties except in the indicated cases and according to Law. Where expressly indicated, data marked with an asterisk (*) will be mandatory.
+
+By registering and accessing to any section of this website or by sending your data through our contact forms and to any of the addresses indicated on this website, you fully accept and authorize the use and processing of the provided data in accordance with the corresponding purposes.
+
+Nevertheless, you can, at any moment, request information of your personal details (access), object to this processing, change or ask for removing them, according to Spanish and European Law, just sending us the request to any contact address mentioned in the Privacy Policy or to [info@zentyal.com](mailto:info@zentyal.com "Contact Zentyal"), providing your identity by means of a photocopy of your National Identity Card, Passport Number or equivalent.
+
+### Subscription to newsletter
+
+Subscribing to our newsletter means that you will regularly receive in your email inbox news and exclusive promotions relating our activities and services.
+
+You may refuse to receive those communications and request your email removal from our lists at any moment just replying to the sender with the subject “UNSUBSCRIBE”.
+
+### Community
+
+By registering and participating in our community sections (forums and mailing lists, documentation, translations or code) your expressly allow us to process your data to manage those contributions and guarantee a proper use of the community.
+
+Your username (nick) will be public and provided in connection with your contributions. We also publish on our website a list of contributors. If you do not want to appear on it, please let us know.
+
+### Events
+
+The information you provide when registering at any Zentyal events may be used by us to contact you to notify future activities, products or services.
+
+### Cookies and navigation data
+
+This website uses cookies for security reasons, to manage registered user sessions, interact with social networks, analyze visits and activities of anonymous or registered users, and to keep the selected language in your navigation through our pages. Any action other than blocking these cookies with the provided tool implies consent for installation and usage.
+
+You can disable social network and analysis cookies with this tool, or subsequently delete them through your browser options. The rest of the cookies are required for providing our services, so its rejection may affect website access and functionalities.
+
+Some browsing information regarding your IP address is stored daily in our log files. Specifically, your IP address, your browser, screen definition, language, operating system, and referrals (including any criteria introduced in a search engine), that may analyze trends, administer website content and linking, and process statistical information relating visitors. User remains anonymous throughout thir process and we will not make any effort to associate your IP address with any other personal data.
+
+### Google Analytics
+
+This website uses [Google Analytics](http://www.google.com/analytics/ "Google Analytics"), a web service provided by Google, Inc., a Delaware company with home offices at 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, USA. Google Analytics uses its own cookies to help analyze how users use this website. The information generated by the cookie, including your IP address, will be transmitted to and processed by Google in United States of America. Google will use this data, referring pages and searches, location data, and other surfing habits, to collect information on the use of this website, compiling activity reports and providing other services related to Internet use. The use of this information is solely responsibility of Google, which establishes in their conditions that may be transmitted to third parties when required by law or where such third parties process the information on Google’s behalf. Google indicates that they will not associate your IP address with any other data held by the company.
+
+### Pardot
+
+We also use [Pardot](http://www.pardot.com/ "Pardot"), a Marketing Automation solution provided by Pardot LLC, a company with home offices at 950 East Paces Ferry Rd, Suite 3300, Atlanta, GA 30326, United States of America. Pardot also use their own cookies, and guarantees the confidentiality of users’ data. In any case, the processing of such data is performed under the service they provided us, ensuring they do not use those data for any other pursposes without prior authorization, and also in accordance with the standards of the European Union personal data regulation.
