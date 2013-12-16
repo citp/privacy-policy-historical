@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbowatch.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622052206id_/http%3A//hbowatch.com/hbowatch-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbowatch.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216090759id_/http%3A//hbowatch.com/hbowatch-com-privacy-policy) for the most accurate reproduction.*
 
 # HBOWatch.com Privacy Policy
 
