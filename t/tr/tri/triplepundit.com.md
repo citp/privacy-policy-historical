@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triplepundit.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424164150id_/http%3A//www.triplepundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplepundit.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216154605id_/http%3A//www.triplepundit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TriplePundit
 
