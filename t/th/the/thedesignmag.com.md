@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedesignmag.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115080429id_/http%3A//thedesignmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedesignmag.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216014031id_/http%3A//thedesignmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We use IP information to evaluate trends, provide our website and hosts, track a
 Your Web internet browser has the in-built facility for storing small text data files – “cookies” – that hold information which allows a web page to recognize your consideration. We use biscuits to save your choices and sign in information, and offer customized performance. You can decline biscuits by changing your internet browser settings, but be aware that this will turn off some of the performance on the Thedesignmag.com’s web page. More information about biscuits can be found at http://en.wikipedia.org/wiki/HTTP_cookie.
 
 **Disclosing Information**  
-We do not reveal any individual information obtained about you from this web page to third events. This does not implement to associates that offer solutions to you depending on links offered within your CPanel accessibility and management, wherein information will be shared to assist in your use of extra services involved with your web host [account](http://thedesignmag.com/account/ "account")  
+We do not reveal any individual information obtained about you from this web page to third events. This does not implement to associates that offer solutions to you depending on links offered within your CPanel accessibility and management, wherein information will be shared to assist in your use of extra services involved with your web host account  
 We may use individual information to keep in touch with you and inform you of improvements associated with our business. We may also reveal combination, unknown information depending on information gathered from customers to potential partners, our associates, and reputable third events. We take all available actions to select associates and companies that are moral and offer similar privacy security to their clients and the community. We do not create any representations about the methods and policies about these companies.
 
 **Correcting/Updating Personal Information**  
