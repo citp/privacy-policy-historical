@@ -1,10 +1,29 @@
-> *The following text is extracted and transformed from the liteforex.org privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622094717id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216093853id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
-  * [LiteForex](https://web.archive.org/)
-→
-  * [Privacy Policy](https://web.archive.org/privacy/)
+[](http://www.liteforex.com/)
+
+  * [Client's Profile](https://secure.liteforex.com/en/)
+  * Live Chat 
+
+
+
+[](http://www.liteforex.com/company/awards/100-world-finance/)
+
+LiteForex respects each individual's right to privacy
+
+[ Opentrading account ](https://secure.liteforex.com/en/profile/register/)
+
+  * [About us](http://www.liteforex.com/company/)
+  * [Our history](http://www.liteforex.com/company/history/)
+  * [Mission](http://www.liteforex.com/company/mission/)
+  * [Advantages](http://www.liteforex.com/company/advantages/)
+  * [Аchievements](http://www.liteforex.com/company/achievements/)
+  * [Company news](http://www.liteforex.com/trading/company-news/)
+  * [Career](http://www.liteforex.com/career/)
+  * [Contacts](http://www.liteforex.com/contacts/)
+  * [Regulatory documents](http://www.liteforex.com/company/documents/)
 
 
 
