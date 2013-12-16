@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skysa.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329073823id_/http%3A//www.skysa.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skysa.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216225033id_/http%3A//www.skysa.com/page/privacy) for the most accurate reproduction.*
 
 # Free Website Apps, Toolbar, Chat Room, Website IM, and more. Easy Copy and Paste HTML Code.
 
@@ -19,6 +19,7 @@ Skysa gathers information about users in the following way:
   1. **Electronic Newsletters Policy (Dispatches)** We will offer a free electronic newsletter to users. Skysa gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
   2. **Polling Policy** We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Skysa may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
   3. **Surveys Policy** Skysa may occasionally conduct user surveys to better server our customers. We never share any of this information about specific individuals with any third party. 
+  4. **Messaging Apps** When using our user-to-user messaging apps (including Chat Room, Instant Messaging and Friends IM), messages are never stored on our servers for more than 60 seconds. Identifiable individual user activity is never stored either. This provides the highest level of data security to your end users, as we are not storing any of the data. In addition to this, if you are using SSL on your site, all user-to-user communication will travel securely with full encryption to and from our servers. 
 
 
 
