@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527152517id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216164129id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -29,7 +29,7 @@ Any time you visit a page on the internet, you send quite a bit of information t
 
 The data logged may be used by us to solve technical problems with the site and, in cases of abuse of this site, to investigate the abuse.
 
-We also use web analytics services to get a general idea of the kinds of traffic our websites get in order to provide better services and to set benchmarks for how we are doing in meeting the OKFN’s goals.
+We also use web analytics services to get a general idea of the kinds of traffic our websites get in order to provide better services and to set benchmarks for how we are doing in meeting the OKFN's goals.
 
 Again, if you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
 
@@ -38,7 +38,7 @@ Our policy is only to release the data we collect in the following circumstances
   * As required by law, such as in response to a valid request from law enforcement.
   * To designated third parties to resolve or investigate abuse complaints.
   * When the information is related to spiders or bots, usually when investigating technical issues.
-  * For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user’s Internet Service Provider.
+  * For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user's Internet Service Provider.
   * If necessary to defend legal claims against us by third parties.
   * When we deem it necessary to protect the property or rights of the user community, or this website.
 
@@ -65,4 +65,4 @@ We make no guarantee that the information that you provide us will be secure.
 ### Page Information
 
 Author(s): Mads Soegaard  
-URL: http://www.interaction-design.org/about/privacy.html 
+URL: http://interaction-design.org/about/privacy.html 
