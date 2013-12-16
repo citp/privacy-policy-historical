@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217160506id_/http%3A//www.myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproviderguide.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216214342id_/http%3A//www.myproviderguide.com/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy - My Provider Guide
 
@@ -18,26 +18,20 @@ To prevent unauthorized access, to maintain data accuracy, and ensure the correc
 
 ## Latest Discussion Board Posts [](https://web.archive.org/discussions)
 
-**Posted By: _adx1979_** on 12/17 at 12:38 am 
+**[Fake and Stolen pictures](https://web.archive.org/discussions/viewtopic.php?p=2979&sid=02d1881b78a8a29cedb09e3d22098f42#p2979) **
 
-**[Escorts do you need a REAL website?](https://web.archive.org/discussions/viewtopic.php?p=2118#p2118) **
+_...en pictures of BeyoncÃ© on backpage knowing damn well it's not the actual BeyoncÃ©. I don't see the real problem with the pics. Besides the pics could be old and the real owner looks nothing like th..._
 
-_Hello there and how are you. My name is Alex and the nature of my inquiry is to ask you for a quote for a preexisting entertainment site (hence) an escort agency AKA Torontogfecompanions (hence) The site URL is http://www.torontogfecompanions.co..._
+Posted By: [lexine](https://web.archive.org/discussions/memberlist.php?mode=viewprofile&u=65693&sid=02d1881b78a8a29cedb09e3d22098f42) on 12/15 at 8:53 am 
 
-**Posted By: _adx1979_** on 12/17 at 12:15 am 
+**[5 Star Beautiful Blonde Model - Highly Reviewed](https://web.archive.org/discussions/viewtopic.php?p=2978&sid=02d1881b78a8a29cedb09e3d22098f42#p2978) **
 
-**[* * * One-Week Website Special - Respond by June 5th! * * *](https://web.archive.org/discussions/viewtopic.php?p=2117#p2117) **
+_... Also, please consider, that I require a basic screening for all new friends WITHOUT EXCEPTIONS . Please have references or verification info prepared when contacting me. I love to travel and I am a..._
 
-_Hello there and how are you. My name is Alex and the nature of my inquiry is to ask you for a quote for a preexisting entertainment site (hence) an escort agency AKA Torontogfecompanions (hence) The site URL is http://www.torontogfecompanions.co..._
+**[Fake and Stolen pictures](https://web.archive.org/discussions/viewtopic.php?p=2977&sid=02d1881b78a8a29cedb09e3d22098f42#p2977) **
 
-**Posted By: _adx1979_** on 12/16 at 11:58 pm 
+_...ith you that her pics are being posted by other females. There is only one way to check it out, call her... I don't recall an email address which would have been much easier, especially if you are in ..._
 
-**[$250 Complete - All-In-One Website Package (must see!)](https://web.archive.org/discussions/viewtopic.php?p=2116#p2116) **
+**[Once in a millennium. Petite,can play sub w/limits respected](https://web.archive.org/discussions/viewtopic.php?p=2976&sid=02d1881b78a8a29cedb09e3d22098f42#p2976) **
 
-_Hello there and how are you. My name is Alex and the nature of my inquiry is to ask you for a quote for a preexisting entertainment site (hence) an escort agency AKA Torontogfecompanions (hence) The site URL is http://www.torontogfecompanions.co..._
-
-**Posted By: _adx1979_** on 12/16 at 11:55 pm 
-
-**[Escorts? Want more bookings? Check this out!](https://web.archive.org/discussions/viewtopic.php?p=2115#p2115) **
-
-_Hello there and how are you. My name is Alex and the nature of my inquiry is to ask you for a quote for a preexisting entertainment site (hence) an escort agency AKA Torontogfecompanions (hence) The site URL is http://www.torontogfecompanions.co..._
+_...ultimately cause people to acquire Gram-negative, facultative anaerobic, rod-shaped bacterium Submissive roleplay, ** no marking allowed ** ** No bodily function / excretion play ** Any a..._
