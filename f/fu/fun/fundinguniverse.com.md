@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundinguniverse.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629172516id_/http%3A//fundinguniverse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundinguniverse.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216150020id_/http%3A//www.fundinguniverse.com/privacy.php) for the most accurate reproduction.*
 
 # Find Funding with Banks, Investors, and Other Funding Sources | FundingUniverse
 
