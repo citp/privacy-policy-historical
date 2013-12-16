@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cardeck.co.uk privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403023141id_/http%3A//www.cardeck.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardeck.co.uk privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216050420id_/http%3A//www.cardeck.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
-# Cardeck.co.uk – New & used cars for sale
-
-## Privacy Policy
+# Privacy Policy | Cardeck
 
   * We are committed to safeguarding the privacy of our website (http://www.cardeck.co.uk) visitors; this policy sets out how we will treat your personal information.
   * Our website uses cookies. We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website.
@@ -53,7 +51,7 @@ In addition, we may disclose your personal information:
     * (b) in connection with any ongoing or prospective legal proceedings;
     * (c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
     * (d) to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and
-    * (d) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+    * (e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 Except as provided in this privacy policy, we will not provide your information to third parties. 
   * ### 5\. International data transfers
 
@@ -91,6 +89,6 @@ If you have any questions about this privacy policy or our treatment of your per
   * ### 12\. Data controller
 
 The data controller responsible in respect of the information collected on this website is Enberry Limited.   
-Our data protection registration number is [Me and Julian to register the No].
+Our data protection registration number is Z3640706.
 
 
