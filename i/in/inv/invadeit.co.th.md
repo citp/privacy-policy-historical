@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invadeit.co.th privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616121656id_/http%3A//www.invadeit.co.th/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invadeit.co.th privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216042100id_/http%3A//www.invadeit.co.th/privacy) for the most accurate reproduction.*
 
 # invadeIT - Computer Online Thailand
 
