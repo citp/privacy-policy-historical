@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621022004id_/http%3A//www2.hull.ac.uk/page_elements/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216023248id_/http%3A//www2.hull.ac.uk/legal/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy and Cookies - University of Hull
+
+Last updated on 7/2/2013 Print this page
 
 ## Privacy Policy
 
@@ -79,7 +81,3 @@ Use of this Site is subject to our [Terms and Conditions](https://web.archive.or
 ### Warning
 
 Our Site provides links to other sites. We are not responsible for their data protection policies. You should check their privacy policies if you are concerned.
-
-* * *
-
-_Page last updated by Marketing Dept on 6/27/2012_
