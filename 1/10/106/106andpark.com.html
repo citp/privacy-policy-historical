@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 106andpark.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622031929id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 106andpark.com privacy policy that was archived on 2013-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216225016id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     
@@ -12,6 +12,10 @@
     <meta name="google-site-verification" content="kbRSzEgXdDDzZ6Clwv9bGHe_wBIxQdC1bS_suBV9W2I"> 
 
     <meta name="date" content="2010-12-30">
+    
+
+ 	<!-- video  verticals meta tags -->
+    
     
     
     <!--  facebook meta tags -->
@@ -26,7 +30,9 @@
 
     <meta property="og:description" content="">
 
-    <meta property="og:image" content="http://www.bet.com/content/dam/betcom/defaults/icon_default_asset.jpg.custom214x120x20.dimg/icon-default-asset.jpg">
+    <meta property="og:image" content="http://www.bet.com/content/dam/betcom/defaults/icon_default_asset.jpg.custom1200x675x20.dimg/icon-default-asset.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="675">
 
 
     <meta property="fullImage" content="http://www.bet.com/content/dam/betcom/defaults/icon_default_asset.jpg.custom0x0.dimg">
@@ -37,6 +43,7 @@
     
     <link rel="stylesheet" type="text/css" class="nostatic" href="/etc/designs/betcom_fonts.css">
     <link rel="stylesheet" type="text/css" href="http://www1.betstatic.com/etc/designs/betcom.css">
+    
     <link rel="stylesheet" type="text/css" href="/etc/designs/ui.tabs.css" media="all">
     
     <link rel="stylesheet" href="http://www1.betstatic.com/etc/designs/betcom/kickapps/combined.css" type="text/css">
@@ -116,7 +123,22 @@
     var timestampDart = Number(new Date());
     </script>
     
-    
+    <!-- AAM cookie code integration (BETCQ-9921) -->
+    <script type="text/javascript">
+    function get_aamCookie(c_name) {
+        var i, x, y, ARRcookies = document.cookie.split(";");
+        for (i = 0; i < ARRcookies.length; i++) {
+            x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+            y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+            x = x.replace(/^\s+|\s+$/g, "");
+            if (x == c_name) {
+                return unescape(y);
+            }
+        }
+    }
+    </script>
+
+
     
  <!-- Google Analytics tracking -->   
  <script type="text/javascript"> 
@@ -218,13 +240,15 @@ More info available at http://www.omniture.com -->
 
 <script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/js/tracking-init.js"></script>
 <script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/js/s_code.js"></script>
+    <!--  DIL(AAM) Code integration (BETCQ-9921) -->
+<script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/js/dil_code.js"></script>
 <script language="JavaScript" type="text/javascript">
 
 //Name of the page
 s.pageName= 'privacy-policy'
 
 //Server name
-s.server = 'bet-cqpublish-006.811.mtvi.com'
+s.server = 'bet-cqpublish-001.811.mtvi.com'
 
 //Site sections and Sub sections
 s.channel='privacy-policy'
@@ -556,9 +580,11 @@ function omnitureLogin(){
         
         <script type="text/javascript">
 var ordValue='ord='+timestampDart+';?';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1371787294135;"+ordValue+"'>\x3C/script>";
+var aamBetdfpValue = get_aamCookie('betdfp');
+var aamUuidValue = get_aamCookie('aam_uuid')+ ';';
+var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1387233878734;"+ aamBetdfpValue +'&etc&u='+ aamUuidValue + ordValue+"'>\x3C/script>";
 document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1371787294135;ord=1580425713953;?"></script>
+</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1387233878734;undefined&amp;etc&amp;u=undefined;ord=1580425714803;?"></script>
         
         
         </div>
@@ -570,7 +596,7 @@ document.write(out);
 <!-- START sub nav -->
 <div class="bq_rightsubnav">
     <ul id="topmenu_list">
-        <li class="bq_hilite"><a href="http://www.bet.com/shows/bet-awards/bet-experience.html?CID=BETXHEADNAV">BET Experience</a></li>
+        <li class="bq_hilite"><a href="#" onclick="javascript:displayNewsletters();">Newsletters</a></li>
         
     </ul>
 </div>
@@ -612,41 +638,36 @@ s.eVar28='SN_Video';
 s.eVar28='SN_Video'; 
  s.events='event18'; 
  s.tl(this,'o','Video');"><span>Music Videos</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/hip-hop-awards/2012/cyphers-playlist.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/shows/being-mary-jane/being-mary-jane-all-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='SN_Video'; 
  s.events='event18'; 
- s.tl(this,'o','Video');"><span>HHA Cyphers</span></a></li>
+ s.tl(this,'o','Video');"><span>Being Mary Jane</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/tiny-and-toya/tiny-and-toya-all-videos-new.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='SN_Video'; 
+ s.events='event18'; 
+ s.tl(this,'o','Video');"><span>Tiny and Toya</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/the-game/the-game-all-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='SN_Video'; 
  s.events='event18'; 
  s.tl(this,'o','Video');"><span>The Game</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/hip-hop-awards/2013/video-playlists/cypher-playlist.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='SN_Video'; 
+ s.events='event18'; 
+ s.tl(this,'o','Video');"><span>HHA Cyphers</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/video/musicnews/exclusive-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='SN_Video'; 
  s.events='event18'; 
  s.tl(this,'o','Video');"><span>BET Music News</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/sunday-best/sunday-best-all-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='SN_Video'; 
- s.events='event18'; 
- s.tl(this,'o','Video');"><span>Sunday Best</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/lets-stay-together.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='SN_Video'; 
- s.events='event18'; 
- s.tl(this,'o','Video');"><span>Let's Stay Together</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/real-husbands-of-hollywood.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/shows/real-husbands-of-hollywood/real-husbands-of-hollywood-all-video.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='SN_Video'; 
  s.events='event18'; 
  s.tl(this,'o','Video');"><span>Real Husbands of Hollywood</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/the-sheards.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='SN_Video'; 
- s.events='event18'; 
- s.tl(this,'o','Video');"><span>The Sheards</span></a></li>
 <li class="bq_last"><a href="http://www.bet.com/video/browse-popular-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='SN_Video'; 
@@ -665,21 +686,21 @@ s.eVar28='SN_Photos';
 s.eVar28='SN_106&amp;Park'; 
  s.events='event18'; 
  s.tl(this,'o','106 &amp; Park');"><span>106 &amp; Park</span></a></li>
-<li><a href="http://www.bet.com/shows/the-game.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li><a href="http://www.bet.com/shows/real-husbands-of-hollywood.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
-s.eVar28='SN_TheGame'; 
+s.eVar28='SN_RealHusbands'; 
  s.events='event18'; 
- s.tl(this,'o','The Game');"><span>The Game</span></a></li>
-<li><a href="http://www.bet.com/shows/being-mary-jane.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.tl(this,'o','Real Husbands');"><span>Real Husbands</span></a></li>
+<li><a href="http://www.bet.com/shows/td-jakes-mind-body-and-soul.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
-s.eVar28='SN_BeingMaryJane'; 
+s.eVar28='SN_TDJakes'; 
  s.events='event18'; 
- s.tl(this,'o','Being Mary Jane');"><span>Being Mary Jane</span></a></li>
-<li><a href="http://www.bet.com/shows/bet-awards.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.tl(this,'o','TD Jakes');"><span>TD Jakes</span></a></li>
+<li><a href="http://www.bet.com/shows/soul-train-awards.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
-s.eVar28='SN_BETAwards'13'; 
+s.eVar28='SN_SoulTrainAwards'; 
  s.events='event18'; 
- s.tl(this,'o','BET Awards '13');"><span>BET Awards '13</span></a></li>
+ s.tl(this,'o','Soul Train Awards');"><span>Soul Train Awards</span></a></li>
 </ul>
 </div>
 </div>
@@ -724,6 +745,11 @@ s.eVar28='MN_Shows';
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>106 &amp; Park</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/apollo-live.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Shows'; 
+ s.events='event18'; 
+ s.tl(this,'o','Shows');"><span>Apollo Live</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/bet-awards.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
@@ -749,11 +775,11 @@ s.eVar28='MN_Shows';
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>Bobby Jones Gospel</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/celebration-of-gospel.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/shows/black-girls-rock.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>Celebration of Gospel</span></a></li>
+ s.tl(this,'o','Shows');"><span>Black Girls Rock</span></a></li>
 <li class="bq_last"><a href="http://www.bet.com/shows/the-game.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
@@ -762,16 +788,16 @@ s.eVar28='MN_Shows';
 </ul>
 </li>
 <li class="bq_last"><span></span><ul>
-<li class="bq_first"><a href="http://www.bet.com/shows/keyshia-and-daniel.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/shows/hip-hop-awards/2013/splash.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>Keyshia &amp; Daniel: Family First</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/lets-stay-together.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.tl(this,'o','Shows');"><span>Hip Hop Awards 2013</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/lift-every-voice.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>Let's Stay Together</span></a></li>
+ s.tl(this,'o','Shows');"><span>Lift Every Voice</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/new-shows.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
@@ -782,21 +808,26 @@ s.eVar28='MN_Shows';
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>Real Husbands of Hollywood</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/rip-the-runway.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/shows/scandal.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>Rip The Runway</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/the-sheards.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.tl(this,'o','Shows');"><span>Scandal</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/soul-train-awards.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>The Sheards</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/sunday-best.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.tl(this,'o','Shows');"><span>Soul Train Awards</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/td-jakes-mind-body-and-soul.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>Sunday Best</span></a></li>
+ s.tl(this,'o','Shows');"><span>TD Jakes Presents: Mind, Body &amp; Soul</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/wendy-williams.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Shows'; 
+ s.events='event18'; 
+ s.tl(this,'o','Shows');"><span>Wendy Williams</span></a></li>
 <li class="bq_last"><a href="http://www.bet.com/shows.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
@@ -813,16 +844,16 @@ s.eVar28='MN_Celebs';
  s.tl(this,'o','Celebs');"><span>Celebs</span></a><ul class="bq_mainnavList bq_twoCol">
 <li class="bq_first"><span></span><ul>
 <li class="bq_first"><span></span></li>
+<li class="bq_first"><a href="http://www.bet.com/celebrities/movies/mandela-long-walk-to-freedom.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Mandela: Long Walk to Freedom</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/celebrities/exclusive-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Celebs'; 
  s.events='event18'; 
  s.tl(this,'o','Celebs');"><span>Exclusive Celeb Videos</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/video/celebrity/celebrity-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_Celebs'; 
- s.events='event18'; 
- s.tl(this,'o','Celebs');"><span>Celebrity Videos</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/celebrities/browse-celebrity-photos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Celebs'; 
@@ -848,30 +879,25 @@ s.eVar28='MN_Celebs';
 s.eVar28='MN_Celebs'; 
  s.events='event18'; 
  s.tl(this,'o','Celebs');"><span>Entertainment Spotlight</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/blogs/head-over-heels.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_Celebs'; 
- s.events='event18'; 
- s.tl(this,'o','Celebs');"><span>Head Over Heels</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/blogs/picture-this.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_Celebs'; 
- s.events='event18'; 
- s.tl(this,'o','Celebs');"><span>Picture This</span></a></li>
-<li class="bq_last"><a href="http://www.bet.com/blogs/what-the-flick.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/blogs/what-the-flick.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Celebs'; 
  s.events='event18'; 
  s.tl(this,'o','Celebs');"><span>What The Flick</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/news/fashion-and-beauty/black-celebrity-style.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Black Celebrity Style</span></a></li>
+<li class="bq_last"><a href="http://www.bet.com/news/fashion-and-beauty/black-hair.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Black Hair</span></a></li>
 </ul>
 </li>
 <li class="bq_last"><span></span><ul>
 <li class="bq_first"><span></span></li>
-<li class="bq_first"><a href="http://www.bet.com/topics/h/halle-berry.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_Celebs'; 
- s.events='event18'; 
- s.tl(this,'o','Celebs');"><span>Halle Berry</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/topics/j/jennifer-hudson.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Celebs'; 
@@ -892,11 +918,36 @@ s.eVar28='MN_Celebs';
 s.eVar28='MN_Celebs'; 
  s.events='event18'; 
  s.tl(this,'o','Celebs');"><span>Tyler Perry</span></a></li>
-<li class="bq_last"><a href="http://www.bet.com/topics/w/will-smith.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/topics/k/kerry-washington.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Celebs'; 
  s.events='event18'; 
- s.tl(this,'o','Celebs');"><span>Will Smith</span></a></li>
+ s.tl(this,'o','Celebs');"><span>Kerry Washington</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/topics/c/chris-brown.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Chris Brown</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/topics/b/beyonce.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Beyoncé</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/topics/k/kanye-west.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Kanye West</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/topics/r/rihanna.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Rihanna</span></a></li>
+<li class="bq_last"><a href="http://www.bet.com/topics/g/gabrielle-union.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Gabrielle Union</span></a></li>
 </ul>
 </li>
 </ul>
@@ -943,11 +994,16 @@ s.eVar28='MN_Music';
 s.eVar28='MN_Music'; 
  s.events='event18'; 
  s.tl(this,'o','Music');"><span>Black Music Month</span></a></li>
-<li class="bq_last"><a href="http://www.bet.com/music/photos/instagram-photos-of-the-week/instagram-photos-of-the-week.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/music/photos/instagram-photos-of-the-week/instagram-photos-of-the-week.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Music'; 
  s.events='event18'; 
  s.tl(this,'o','Music');"><span>Instagram Photos of the Week</span></a></li>
+<li class="bq_last"><a href="http://www.bet.com/shows/hip-hop-awards/cypher.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Music'; 
+ s.events='event18'; 
+ s.tl(this,'o','Music');"><span>Hip Hop Awards Cypher</span></a></li>
 </ul>
 </li>
 <li class="bq_last"><span></span><ul>
@@ -1033,20 +1089,25 @@ s.eVar28='MN_News';
 s.eVar28='MN_News'; 
  s.events='event18'; 
  s.tl(this,'o','News');"><span>Global</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/news/health.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_last"><a href="http://www.bet.com/news/health.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_News'; 
  s.events='event18'; 
  s.tl(this,'o','News');"><span>Health</span></a></li>
-<li class="bq_last"><a href="http://www.bet.com/topics/b/bet-com-s-financial-help-desk.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_News'; 
- s.events='event18'; 
- s.tl(this,'o','News');"><span>Financial Help Desk</span></a></li>
 </ul>
 </li>
 <li class="bq_last"><span></span><ul>
 <li class="bq_first"><span></span></li>
+<li class="bq_first"><a href="http://www.bet.com/news/features/bet-remembers-nelson-mandela.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_News'; 
+ s.events='event18'; 
+ s.tl(this,'o','News');"><span>Nelson Mandela</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/news/features/bet-goes-pink.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_News'; 
+ s.events='event18'; 
+ s.tl(this,'o','News');"><span>BET Goes Pink</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/topics/t/trayvon-martin.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_News'; 
@@ -1090,7 +1151,7 @@ s.eVar28='MN_News';
 
 
 
-<form action="http://search.bet.com/searchresults.html">
+<form action="http://www.bet.com/searchresults.html">
     <a class="bq_hlinkSearch" href="#">
         <img src="http://www1.betstatic.com/etc/designs/betcom/img/icon_search_a7a7a7.png" width="20" height="20" alt="">
     </a>
@@ -1409,9 +1470,11 @@ We caution that most wireless transmissions are not secured and there is a great
         
         <script type="text/javascript">
 var ordValue='ord='+timestampDart+';?';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1371787295046;"+ordValue+"'>\x3C/script>";
+var aamBetdfpValue = get_aamCookie('betdfp');
+var aamUuidValue = get_aamCookie('aam_uuid')+ ';';
+var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1387233879477;"+ aamBetdfpValue +'&etc&u='+ aamUuidValue + ordValue+"'>\x3C/script>";
 document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1371787295046;ord=1580425713953;?"></script>
+</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1387233879477;undefined&amp;etc&amp;u=undefined;ord=1580425714803;?"></script>
         
         
         </div>
@@ -1457,9 +1520,11 @@ document.write(out);
         
         <script type="text/javascript">
 var ordValue='ord='+timestampDart+';?';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1371787295115;"+ordValue+"'>\x3C/script>";
+var aamBetdfpValue = get_aamCookie('betdfp');
+var aamUuidValue = get_aamCookie('aam_uuid')+ ';';
+var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1387233879514;"+ aamBetdfpValue +'&etc&u='+ aamUuidValue + ordValue+"'>\x3C/script>";
 document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1371787295115;ord=1580425713953;?"></script>
+</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1387233879514;undefined&amp;etc&amp;u=undefined;ord=1580425714803;?"></script>
         
         
         </div>
@@ -1525,7 +1590,7 @@ document.write(out);
         <div id="bq_siteSearchBottomV02">
             <div id="searchBottomV02LabelWrap">SEARCH</div>
             <div id="searchBottomV02FieldWrap">
-                <form action="http://search.bet.com/searchresults.html">
+                <form action="http://www.bet.com/searchresults.html">
                    <input name="q" id="txtsearch_footer" class="bq_textbox bq_txtsearch" type="text" value="">
                    <script type="text/javascript">
                 $(document).ready(function () {
@@ -1571,11 +1636,11 @@ document.write(out);
 
 <div class="bq_footerV02LinksCol"><h5>BET Shows</h5><ul>
 <li><a href="http://www.bet.com/shows/106-and-park.html"><span>106 &amp; Park</span></a></li>
-<li><a href="http://www.bet.com/shows/lets-stay-together.html"><span>Let's Stay Together</span></a></li>
-<li><a href="http://www.bet.com/shows/rip-the-runway.html"><span>Rip The Runway</span></a></li>
+<li><a href="http://www.bet.com/shows/bet-awards.html"><span>BET Awards '13</span></a></li>
+<li><a href="http://www.bet.com/shows/being-mary-jane.html"><span>Being Mary Jane</span></a></li>
 <li><a href="http://www.bet.com/shows/real-husbands-of-hollywood.html"><span>Real Husbands</span></a></li>
-<li><a href="http://www.bet.com/shows/second-generation-wayans.html"><span>2nd Gen Wayans</span></a></li>
-<li><a href="http://www.bet.com/shows/the-game.html"><span>The Game</span></a></li>
+<li><a href="http://www.bet.com/shows/td-jakes-mind-body-and-soul.html"><span>TD Jakes</span></a></li>
+<li><a href="http://www.bet.com/shows/black-girls-rock.html"><span>Black Girls Rock!</span></a></li>
 </ul>
 </div>
 </div>
@@ -1740,6 +1805,7 @@ document.write(out);
 <div id="bq_footerv02Col06" class="bq_footerV02LinksCol"><h5>Affiliates</h5><ul>
 <li><a href="http://www.centrictv.com/" target="_blank" rel="nofollow"><span>Centric TV</span></a></li>
 <li><a href="http://m.bet.com/"><span>BET Mobile</span></a></li>
+<li><a href="https://www.mycontrolcard.com/" target="_blank" rel="nofollow"><span>Control Card</span></a></li>
 </ul>
 </div>
 </div>
@@ -1812,7 +1878,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
     
 	
 	<!--  BuzzFeed code begins -->
-	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=bet.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580425714038"></script></div>
+	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=bet.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580425715110"></script></div>
 	<script type="text/javascript">
 	(function( ){
 	BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
