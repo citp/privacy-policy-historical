@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617014349id_/http%3A//www.zsl.org/info/legal/content/privacy-policy%2C193%2CAR.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216053529id_/http%3A//www.zsl.org/info/legal/content/privacy-policy%2C193%2CAR.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
