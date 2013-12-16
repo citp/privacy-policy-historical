@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funjak.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608045400id_/http%3A//funjak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funjak.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216015215id_/http%3A//funjak.com/privacy-policy) for the most accurate reproduction.*
 
 # Funjak
 
