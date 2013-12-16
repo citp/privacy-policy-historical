@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upliftingfamilies.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618043748id_/http%3A//upliftingfamilies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upliftingfamilies.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216214618id_/http%3A//upliftingfamilies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
