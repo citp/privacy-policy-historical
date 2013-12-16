@@ -1,100 +1,115 @@
-> *The following text is extracted and transformed from the victory100.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victory100.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216083246id_/http%3A//victory100.com/privacy.aspx) for the most accurate reproduction.*
 
-# Legal Agreement
+# Victory100
 
-**Go Daddy Respects Your Privacy**
+Effective Date: January 1, 2013
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+To review material modifications and their effective dates scroll to the bottom of the page.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Victory100 Partners, LP ("Victory100") owns and operates this victory100.com website business. All references to "we", "us", this "website" or this "site" shall be construed to mean Victory100. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Protected Information (defined below), that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+HOW WE MODIFY THIS PRIVACY POLICY
 
-**Information Collection and Use**
+We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Regarding Protected Information (defined below), if any modifications are materially less restrictive on our use or disclosure of the Protected Information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+THE TYPES OF INFORMATION WE COLLECT
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Protected Information. We collect information from you that is protected for purposes of privacy and data security (“Protected Information”). Protected Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, credit card information including credit card number, expiration date, and billing address, and location data.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Non-Personal Information. We reserve the right to collect anonymous information such as your browser type, the URL of the previous website you visited, your computer’s operating system and Internet protocol (IP) Address, Internet domain and host name, your Internet Service provider, your clickstream data, and the dates and times that you may access this site and specific pages ("Non-Personal Information”). Non-Personal Information is essentially anonymous when collected; however, it’s possible that Non-Personal Information could be used to identify you.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+HOW AND WHEN WE COLLECT INFORMATION
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Protected Information. We collect Protected Information at the time you provide it to us. We collect Protected Information through sign-up forms and as part of your registration for an account, product, or service from this website. Protected Information that we collect may vary with the each sign-up or registration.
 
-**Security**
+Your Communications With Us. We collect Protected Information that we receive from you as you communicate with us.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Passive and Analytical Information. We reserve the right to monitor your use of this site. As you navigate through this site, Non-Personal Information may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons.
 
-**Updating Your Information**
+HOW WE USE YOUR INFORMATION
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We use your Protected Information for the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may use your Protected Information to send you emails and/or pre-recorded phone messages (see EMAIL AND PRE-RECORDED PHONE MESSAGES; OPT-OUT below).
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We reserve the right to tie or link your Protected Information to Non-Personal Information, as follows: link your email address (Personal Information) with information collected by a cookie regarding the length of time you visit our site (Non-Personal Information). In these cases, the Non-Personal Information will be considered Protected Information, and our policies discussed below regarding disclosure of Protected Information will apply. 
 
-      iii.      You may call us at: (480) 505-8800
+We reserve the right to make full use of Non-Personal Information. For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use. 
 
-       iv.      You may fax us at: (480) 505-8844
+HOW WE DISCLOSE YOUR INFORMATION
 
-**Sending Emails**
+General Disclosure Policy. We reserve the right to disclose your Personal-Covered Information as described below. We reserve the right to disclose Non-Personal Information without restriction.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Disclosure to Affiliated Entities. We reserve the right to provide your Protected Information to any affiliated entities we may have, including our subsidiaries. Affiliated entities are entities that we legally control (by voting rights) or that control us.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Disclosure to Service Providers for Website Operations. We reserve the right to disclose your Protected Information to our trusted service providers that assist us with the operation and maintenance of this site. For example, we may use third parties to process payments, host our servers, provide security, and provide production, fulfillment, optimization, analytics, and reporting services. We will take commercially reasonable efforts to cause these third parties to agree to hold your information in confidence or to disclose information only to third parties that we believe in good faith have instituted and follow privacy and security policies that are acceptable to us.
 
-**Compliance with Laws and Law Enforcement**
+Disclosure to Successors. If we are acquired by or merged with a third party entity, or if we sell this website business or a line of business from this website, we reserve the right to transfer your Protected Information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right to transfer your Protected Information to protect our rights or as required by law.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Disclosure Incident to Legal Process and Enforcement. We reserve the right to disclose your Protected Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), or (ii) to investigate or enforce violations of our rights or the security of this site.
 
-**Third Party Service Providers**
+Disclosure to our Affiliates and Resellers; Your California Privacy Rights. We reserve the right to disclose your Protected Information to any of our (i) affiliates that referred you to our site for purposes of sales by us, and (ii) resellers that may re-sell our products or services to you. We may also disclose your Protected Information to any marketing partners that may participate in the offer or related fulfillment. Understand that you originated with these affiliates and resellers, and that the information you may provide to them is subject to their privacy policies also. California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of their Personal Information to third parties for purposes of direct marketing. You may request further information about our compliance with California Civil Code Section 1798.83 at the following email address: compliance.officer-at-victory100.com. Please note that we are only required to respond to one request per registrant each year, and we are not required to respond to requests made by means other than through this the address provided above.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Disclosure When We Act as an Affiliate or Reseller for Others. We may act as an affiliate or reseller for certain of our marketing partners for purposes of selling their products or services to you, and we reserve the right to right to disclose your Protected Information to them for purposes of transaction processing, fulfillment, and support. These marketing partners may also email you regarding complimentary products or services, however, you have two ways to opt out of receiving these emails – (i) contact us (as provided below under the Contact Us heading) with a request to opt out, or (ii) wait until you receive an email from them and then unsubscribe.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Disclosure to Third Parties For Direct Marketing Without Restriction; Your California Privacy Rights. We reserve the right to share your Protected Information with third parties for direct marketing purposes without restriction. California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of their Personal Information to third parties for purposes of direct marketing. You may request further information about our compliance with California Civil Code Section 1798.83 at the following email address: compliance.officer-at-victory100.com. Please note that we are only required to respond to one request per registrant each year, and we are not required to respond to requests made by means other than through this the address provided above.
 
-**Supplementation of Information**
+SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+3rd Party Cookies for Web Analytics and Reporting. We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf.
 
-**Contests/Surveys**
+3rd Party Cookies for Serving Behavioral Ads; Flash Cookies. We reserve the right to serve our ads and third party ads on our site that are targeted to your interests ("3rd Party Behavioral Ads"). 3rd Party Behavioral Ads are served by 3rd party advertising services that use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site and other websites. This information is your “behavioral data”. 3rd Party Behavioral Ads do not use your Personal Information. Instead, they associate your behavioral data on visited sites with your computer, so that the ads your computer sees on this site are more likely to be relevant to your interests. These advertising services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. We will provide notice and the opportunity to opt-out of receiving 3rd Party Behavioral Ads; however, the 3rd party advertising services that serve ads on our site may use Flash cookies which may make it more difficult to opt-out effectively. Flash cookies are not the same as “browser cookies”. Flash cookies consist of an Adobe Flash Media Player local shared object (LSO) that is used for tracking purposes. The Adobe Flash Media Player is software that enables users to view content on their computers. Flash cookies are also accompanied by a browser cookie. If you delete the browser cookie, the Flash cookie will automatically create (or re-spawn) a replacement for the browser cookie. For information on how to delete a Flash cookie, visit http://kb2.adobe.com/cps/526/52697ee8.html or search the Web for “How to delete flash cookie”. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+3rd Party Cookies for Crediting Purchases To Affiliates; Flash Cookies. We reserve the right to use 3rd party cookies, including Flash cookies, for purposes of crediting any purchase you may make on this site to one of our affiliate marketing partners that may have referred you to us. These cookies will only be used for purposes of crediting sales to the referring affiliate and not for other purposes such as serving behavioral ads. Flash cookies are not the same as “browser cookies”. Flash cookies consist of an Adobe Flash Media Player local shared object (LSO) that is used for tracking purposes. The Adobe Flash Media Player is software that enables users to view content on their computers. Flash cookies are also accompanied by a browser cookie. If you delete the browser cookie, the Flash cookie may automatically create (or re-spawn) a replacement for the browser cookie. However, recent announcements indicate that IE 8 and IE 9 browsers have been updated to also delete Flash cookies with an their “delete browsing history” feature. For more information, Google “How to delete flash cookie”.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Participation in Google’s Adsense Network. We reserve the right to participate in Google's AdSense network for purposes of serving 3rd Party Behavioral Ads. Google uses DoubleClick's DART cookie in its AdSense network. You may opt out of the use of the DART cookie. For information regarding how to opt out, go to http://www.google.com/privacy_ads.html .
 
-**Tell-A-Friend**
+Web Beacons. A web beacon is an electronic image placed in the code of a web page. We reserve the right to use web beacons to monitor the traffic patterns of users from one of our pages to another and to improve our site’s performance.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+DATA SECURITY
 
-**What Happens to my Personal Information if I Opt Out?**
+We will implement reasonable and appropriate security procedures consistent with prevailing industry standards to protect data from unauthorized access by physical and electronic intrusion. Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your Protected Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+When you transmit Protected Information through our registration process or if you purchase products or services, we encrypt that information in transit using secure socket layer technology (SSL).
 
-**Transfer of Data Abroad**
+After the secure transfer of your Protected Information, the information is maintained and stored with 128-bit encryption.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE
 
-**Changes in Our Practices**
+Any Protected Information which we may collect on this site will be stored and processed in our servers located only in the United States. By using this site, if you reside outside the United States, you consent to the transfer of Protected Information outside your country of residence to the United States.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+UPDATING PROTECTED INFORMATION
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Upon request, we will permit you to request or make changes or updates to your Protected Information for legitimate purposes. We request identification prior to approving such requests. We reserve the right to decline any requests that are unreasonably repetitive or systematic, require unreasonable time or effort of our technical or administrative personnel, or undermine the privacy rights of others. We reserve the right to permit you to access your Protected Information in any account you establish with this site for purposes of making your own changes or updates, and in such case, instructions for making such changes or updates will be provided where necessary.
 
-**Contacting Our Site**
+EMAIL AND PRE-RECORDED PHONE MESSAGES; OPT-OUT
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA.
 
-* * *
+If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events or offers from us. If you prefer not to receive these periodic email messages, you may opt-out by following the instructions in the email. Some of these emails from us may contain promotional offers on behalf of third party marketing partners which we select; however, in these instances, we do NOT share your Protected Information with the third party marketing partner for purposes of the mailing; we do the mailing for them. However, if you do click on any of the links to their websites or accept any of these promotional offers, your click-through information and any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you supply us with your phone number you may receive periodic pre-recorded messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events or offers from us. If you prefer not to receive periodic pre-recorded messages, you may opt-out by following the instructions in the message.
+
+LINKS TO OTHER SITES; ONLINE ADS
+
+This site may contain links to other websites with whom we have a business relationship. These links may include online advertisements that we deem to be appropriate. If you do click on any of the links to their websites or accept any of their promotional offers, your click-through information and any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them.
+
+CHILDREN’S ONLINE POLICY
+
+We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please contact our site as provided below under "Contact Us", and be sure to include in your message the same login information that your child submitted.
+
+CONTACT US
+
+If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at: 
+
+Victory100 Partners, LP  
+Attn: Privacy Policy Officer  
+6029 N Mcdonald St  
+Melissa, TX, 75454-233
+
+\--  
+Material Modifications Since January 1, 2013: none.
