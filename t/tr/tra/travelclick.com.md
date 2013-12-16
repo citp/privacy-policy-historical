@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelclick.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617051835id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelclick.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216042516id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This Privacy Policy applies to TravelClick, Inc. and its subsidiaries (collectiv
 
 Personal information that we receive from or on behalf of third parties, including our customers and business partners, is governed by the privacy policies of the respective entity collecting such information. For example, the personal information that we receive from individuals using our Services to make a hotel reservation belongs to the hotel property. We are not responsible for the policies or actions of our customers or business partners with respect to personal information.
 
-We adhere to the Safe Harbor Principles of the United States Department of Commerce in our handling of personal information transferred from the European Union to the United States. To learn more about the Safe Harbor Program, and to view Travel Click’s certification of adherence to these Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+We adhere to the Safe Harbor Principles of the United States Department of Commerce in our handling of personal information transferred from the European Union to the United States. To learn more about the Safe Harbor Program, and to view TravelClick’s certification of adherence to these Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement, please visit www.export.gov/safeharbor.
 
 #### Notice
 
@@ -32,7 +32,7 @@ We may utilize third party service providers to help us manage our business and 
 
 TravelClick may, however, disclose any personal information as required by law, court order or other valid legal processes or in connection with a merger, acquisition, reorganization or sale of TravelClick, any of TravelClick’s business lines, or all or substantially all of TravelClick's assets or a TravelClick business line’s assets.
 
-#### **Choice**
+####  **Choice**
 
 Should you sign up for our email list and then change your mind and no longer wish to receive e-mail or periodic mailings from us in the future, please let us know by sending an e-mail to [Unsubscribe@travelclick.com](mailto:Unsubscribe@travelclick.com) with your email address in the subject line. 
 
@@ -40,15 +40,15 @@ If you do not want your personal information to be used or transferred to third 
 
 You can also adjust your Internet browser settings to refuse cookies. However, some TravelClick features and services may not operate properly or as quickly if your cookies are disabled.
 
-#### **Access**
+####  **Access**
 
 We will provide you with access to your personal information stored on our active servers upon request, subject to a reasonable handling charge. You may correct or update such information by sending an email to [cs@travelclick.com](mailto:cs@travelclick.com), with “privacy policy update” in the subject line. We will also delete your personal information from our active servers, upon your written request, unless we are required to retain it by law or other legal obligation. 
 
-#### **Privacy Policy Updates**
+####  **Privacy Policy Updates**
 
 If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you.
 
-#### **Additional Information/Questions**
+####  **Additional Information/Questions**
 
 Your satisfaction is important to us. If you have additional questions or concerns, or if you have a complaint regarding the use or maintenance of your personal information by TravelClick, please contact us at [cs@travelclick.com](mailto:cs@travelclick.com).
 
