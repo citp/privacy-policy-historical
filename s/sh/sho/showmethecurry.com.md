@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603075359id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216112524id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
 
 # Indian Recipes, Cooking Videos, Healthy Recipes, Vegetarian Recipes, North and South Indian Recipies - ShowMeTheCurry.com
 
@@ -15,15 +15,6 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.networkadvertising.org/managing/opt_out.asp)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically. 
-
-Recipe Search  
----  
-  
-
-
-[Prestige Pressure Cooker Sale](http://showmethecurry.com/shop/?brand=Prestige&name=Pressure-Cookers&code=289825) 
-
-
 
 ShowMeTheCurry is not just for the amateur cook or newbie to Indian cooking. Browse through our extensive collection of Indian cooking videos to select from a variety of North Indian Recipes, Punjabi Recipes, South Indian Recipes, Gujarati Recipes, Bengali Recipes, Rajasthani Recipes, Thai Recipes, Indo Chinese Recipes, Kerala Recipes. Our recipe videos include Vegetarian Indian Recipes, Vegan Recipes, Healthy Indian Recipes as well as Nonveg Indian Recipes.
 
