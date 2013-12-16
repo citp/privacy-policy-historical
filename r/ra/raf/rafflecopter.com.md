@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629111504id_/http%3A//www.rafflecopter.com/rafl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216043753id_/http%3A//www.rafflecopter.com/rafl/privacy) for the most accurate reproduction.*
 
 # Rafflecopter - Privacy Policy :)
 
@@ -134,13 +134,13 @@ Effective October 15th 2012
 
 ## Blogger
 
-$7.99/mo.
+$7.99/month
 
 | 
 
 ## Business
 
-$59.99/mo.  
+$59.99/month  
   
 ---|---  
   
@@ -178,6 +178,8 @@ $59.99/mo.
   
 Upgrade to blogger
 
-| 
+_easy to cancel at any time_ | 
 
 Upgrade to business
+
+_easy to cancel at any time_
