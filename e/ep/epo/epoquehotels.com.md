@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the epoquehotels.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412093358id_/http%3A//www.epoquehotels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoquehotels.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216042434id_/http%3A//www.epoquehotels.com/en/resources/privacy) for the most accurate reproduction.*
 
-# EPOQUE HOTELS: Privacy Policy
+# Privacy Policy
 
-## Epoque Hotels : A new trend in hospitality. The luxury collection of Design & Boutique Hotels.
-
-## Epoque Hotels 
+### Epoque Hotels 
 
 At Epoque Hotels we respect your privacy. None of the personal data given to us by clients or by a third party will be shared, sold or given to anyone other than the hotel involved without your permission. Any information provided by our customers is treated as confidential and will not be used for other purposes that do not regard your booking or booking request. 
 
@@ -28,22 +26,4 @@ Information on bookings will be kept in our system but are kept strictly confide
 
 #### Newsletter
 
-Our bimonthly Newsletter is double opt-in and will be received by [E-mail subscription](https://web.archive.org/newsletter) and confirmation. The information collected will be strictly used to add the subscriber to our newsletter contact list. Subscribers will not be contacted for any other purposes. We do not lend or sell our newsletter subscription list to anyone, for any reason. You can unsubscribe at any time by clicking on the link at the bottom of the newsletter and, you will no longer receive our newsletters. 
-
-If you have any questions feel free to contact us: 
-
-**EPOQUE HOTELS**  
-800 West Avenue Suite 335  
-Miami Beach, FL 33139  
-Tel: (+1) 305 538 9697 Fax: (+1) 305 535 9723  
-Email: [info@epoquehotels.com](mailto:info@epoquehotels.com)
-
-## EPOQUE HOTELS:
-
-A new trend in hospitality.
-
-Discover our collection of over 300 innovative and creative boutique hotels located in major destinations [worldwide](https://web.archive.org/directory.html).
-
-[Epoque Hotels Presentation](https://web.archive.org/downloads/flashpresent/)
-
-[Home](http://www.epoquehotels.com/) » Frequently asked questions
+Our bimonthly Newsletter is double opt-in and will be received by [E-mail subscription](https://web.archive.org/en/resources/newsletter) and confirmation. The information collected will be strictly used to add the subscriber to our newsletter contact list. Subscribers will not be contacted for any other purposes. We do not lend or sell our newsletter subscription list to anyone, for any reason. You can unsubscribe at any time by clicking on the link at the bottom of the newsletter and, you will no longer receive our newsletters. 
