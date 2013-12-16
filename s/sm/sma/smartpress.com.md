@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartpress.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618021702id_/http%3A//smartpress.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpress.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216214136id_/http%3A//smartpress.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartpress.com
 
@@ -49,8 +49,8 @@ Smartpress.com allows customers the option to opt-out of marketing communicatio
 Our postal address is:
 
 Smartpress.com   
-102 Jonathan Blvd N.   
-Chaska, MN 55318
+18781 Lake Dr. East   
+Chanhassen, MN 55317
 
 We can be reached via email at info@smartpress.com or by telephone at (888) 934-6909.
 
