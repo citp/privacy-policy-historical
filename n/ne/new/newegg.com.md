@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607225924id_/http%3A//www.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216132408id_/http%3A//www.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Newegg.com - Computer Parts, PC Components, Laptop Computers, LED LCD TV, Digital Cameras and more!
 
@@ -37,20 +37,20 @@ Memphis, TN 38120
 1-800-GO-FEDEX  
 [www.fedex.com](http://www.fedex.com/) |  _UPS Corporate Headquarters_  
 55 Glenlake Parkway, NE  
-Atlanta , GA 30328  
-United States  
+Atlanta, GA 30328  
+1-800-PICK-UPS  
 [www.ups.com](http://www.ups.com/) |  _US Postal Service Headquarters_  
 475 L'Enfant Plaza, SW  
-Washington DC  
+Washington, DC 20260  
 1-800-ASK-USPS  
 [www.usps.com](http://www.usps.com/)  
 ---|---|---  
   
-We may frame or mask another web site so that the look, feel and interface simulate the experience of browsing a genuine Newegg.com web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third party sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping. 
+We may frame or mask another website so that the look, feel and interface simulate the experience of browsing a genuine Newegg.com web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third party sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping. 
 
 As our business continues to evolve, we may acquire or sell business units or subsidiaries. Customer information is one of the business assets that would be transferred in these types of transactions. In such a situation, your personally identifiable information would only be used in a manner consistent with our pre-existing Privacy Notice. 
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+We reserve the right to disclose your personally identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website. 
 
 ##  Testimonials
 
@@ -66,7 +66,7 @@ Newegg.com does not sell products for purchase by children. Youth-oriented produ
 
 ##  Links
 
-This website contains links to other sites. Please be aware that Newegg.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. 
+This website contains links to other sites. Please be aware that Newegg.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. 
 
 ##  Security
 
@@ -74,11 +74,11 @@ Newegg.com takes precautions to protect its customers' information. When you sub
 
 When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected with the best encryption software currently available in the industry - SSL. Newegg.com uses the most advanced form of SSL software available: 128-bit encryption by VeriSign. To learn more about SSL, follow this link [ www.verisign.com](http://www.verisign.com/). 
 
-Access to all of our users' information is restricted. Newegg.com operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. If you wish to have your financial information removed at the time of your order, you may opt to have your financial information deleted from our records upon completion of your order. Otherwise, you may contact us at [ webmaster@newegg.com](mailto:webmaster@newegg.com) or call toll free 1-800-390-1119 to request that your information be deleted from our database. For future transactions, you will be required to re-enter your information. 
+Access to all of our users' information is restricted. Newegg.com operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. If you wish to have your financial information removed at the time of your order, you may opt to have your financial information deleted from our records upon completion of your order. Otherwise, you may contact us at [ webmaster@newegg.com](mailto:webmaster@newegg.com), or call toll free 1-800-390-1119, to request that your information be deleted from our database. For future transactions, you will be required to re-enter your information. 
 
 All Newegg.com servers, including web servers and database servers, are housed and maintained in secure locations. Access to the database is strictly monitored and protected from outside access. Internet access is restricted and protected by multiple Checkpoint and Cisco firewalls and password protection. The servers on which we store personally identifiable information are kept in a secured environment, inside a secured and locked room. All backups are stored and locked in a high-level security room. Only personnel with proper security clearance have access to these restricted areas. Tape backups are not permitted to leave the premises without prior authorization. 
 
-All employees are kept up-to-date on our security and privacy practices. Every quarter, in addition to any time a new policy is added, Newegg.com employees are notified and/or reminded about the importance we of privacy and what they can do to ensure that customers' information remains protected at all times. 
+All employees are kept up-to-date on our security and privacy practices. Every quarter, in addition to any time a new policy is added, Newegg.com employees are notified and/or reminded about the importance of privacy, and what they can do to ensure that customers' information remains protected at all times. 
 
 If you have any questions or concerns about Newegg.com's security practices, you can send us an email at [service@newegg.com](mailto:service@newegg.com). 
 
@@ -109,5 +109,5 @@ The Privacy Policy contained herein became officially effective June 1, 2005.
 ##  Address
 
 Newegg.com   
-9997 Rose Hills Road,  
-Whittier, CA. 90601 
+9997 Rose Hills Road  
+Whittier, CA 90601 
