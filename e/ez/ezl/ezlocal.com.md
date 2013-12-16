@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezlocal.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618002752id_/http%3A//ezlocal.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezlocal.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216091004id_/http%3A//ezlocal.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | EZlocal
 
@@ -55,9 +55,9 @@ We reserve the right to change this privacy policy at any time. You agree to obt
 EZlocal takes our users' privacy concerns seriously. If you believe that EZlocal has not complied with this Privacy Policy with respect to your personal information, you may write to EZlocal at the following address or by sending and email to privacy@ezlocal.com. 
 
 EZlocal  
-1 Parkview Plaza  
-Suite 250  
-Oakbrook Terrace, IL 60181
+2001 Butterfield Road  
+Suite 310  
+Downers Grove, IL 60515
 
 In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
