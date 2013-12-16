@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215062955id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcat.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216041102id_/http%3A//www.oclc.org/worldcat/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy [WorldCat]
+# Privacy Policy
 
-## PRIVACY POLICY
+## OCLC ONLINE COMPUTER LIBRARY CENTER, INC.
+
+### PRIVACY POLICY
 
 ### About OCLC
 
@@ -10,7 +12,7 @@ OCLC Online Computer Library Center, Inc. ("OCLC") is a nonprofit, membership, c
 
 ### How and What Information is Collected
 
-> (1) Personally identifiable information 
+> (1) Personally identifiable information
 > 
 >   1. Personally identifiable information may be collected in conjunction with necessary processes. This information may include, but are not limited to: (1) First and last name, (2) Address, (3) ZIP/Postal Code, (4) Email address, (5) Telephone number, (6) Affiliated library information, or (7) Credit card numbers and other billing information.
 > 
@@ -61,7 +63,7 @@ The purposes for collecting information and contacting you are:
 >  (6) Delivering newsletters  
 >  (7) Providing notification of service expiration dates.  
 >  (8) Facilitating participation in an OCLC Open Forum or Review  
->  (9) Compiling aggregate statistical and academic analysis 
+>  (9) Compiling aggregate statistical and academic analysis
 > 
 > (1) Sometimes OCLC may identify a new purpose outside of the stated purposes listed above and it will provide notification or, if the purpose involves the use of sensitive information, it will seek your consent to use and disclose personal information for that purpose.
 > 
@@ -77,11 +79,11 @@ The purposes for collecting information and contacting you are:
 
 At times, OCLC partners with third parties to complete the stated purposes, and the third parties may require use of personally identifiable information. For instance, information must be disclosed to process orders through the online store, interact with Regional Service Providers, and to market products or services to you. We have taken reasonable steps to ensure the protection of your information, and to prevent the loss, misuse, or alteration of that information.
 
-OCLC uses a third party service for the management and delivery of its opt-in e-mail communication. Their privacy policy can be found at <http://www.whatcounts.com/company/privacy.html>. Information related to the delivery and effectiveness of e-mail communications, such as aggregate open and click-through rates, are provided to and used by OCLC to help deliver the best content to the subscriber. 
+OCLC uses a third party service for the management and delivery of its opt-in e-mail communication. Their privacy policy can be found at <http://www.whatcounts.com/company/privacy.html>. Information related to the delivery and effectiveness of e-mail communications, such as aggregate open and click-through rates, are provided to and used by OCLC to help deliver the best content to the subscriber.
 
 We currently contract with online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes pages visited, searches conducted, items selected, and library sites visited. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which designs are most effective for delivering visitors to libraries, and what kinds of marketing efforts our visitors respond to most positively. Although our marketing company manages the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, offers and marketing strategy, you can opt out of our ability to analyze such data by visiting <http://www.omniture.com/privacy/2o7>.
 
-This web site contains links to other sites.  Such links do not imply OCLC's endorsement or guarantee of the products, information or recommendations provided by any third party site. Please be aware that OCLC is not responsible for the privacy practices of such other sites. We encourage our end-users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+This web site contains links to other sites. Such links do not imply OCLC's endorsement or guarantee of the products, information or recommendations provided by any third party site. Please be aware that OCLC is not responsible for the privacy practices of such other sites. We encourage our end-users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
 ### Opt-Out Features
 
@@ -108,4 +110,10 @@ If you have any questions regarding our policies, please contact [privacy@oclc.o
 > > OCLC Online Computer Library Center, Incorporated  
 >  Customer Service, ATTN: Privacy  
 >  6565 Kilgour Place  
->  Dublin, Ohio 43017-3395 
+>  Dublin, Ohio 43017-3395
+
+* * *
+
+[Copyright ©](https://web.archive.org/worldcat/community/copyright.en.html) 2001-2013 OCLC. All rights reserved.  |  [Privacy Policy](https://web.archive.org/worldcat/community/privacy.en.html)  |  [Terms and Conditions](https://web.archive.org/worldcat/community/terms.en.html)
+
+WorldCat is provided by [OCLC Online Computer Library Center, Inc.](https://web.archive.org/home.en.html) on behalf of its member libraries.
