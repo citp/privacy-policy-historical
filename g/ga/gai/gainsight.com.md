@@ -1,61 +1,85 @@
-> *The following text is extracted and transformed from the gainsight.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630075302id_/http%3A//www.gainsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainsight.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216044720id_/http%3A//www.gainsight.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Gainsight
 
-We at Gainsight, Inc. (“Company,” “we,” “us,” “our”) know you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our Privacy Policy.  **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
+### Privacy Policy
 
-Remember that your use of our Services is at all times subject to the [Terms of Use](https://web.archive.org/terms-service) , which incorporates this Privacy Policy.  Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](https://web.archive.org/terms-service). 
+Gainsight, Inc. respects individual privacy and values the confidence of its customers, business partners and others who may use our services. Not only do we strive to collect, use and disclose personal information in a manner consistent with the laws of the countries in which we do business, but we also aim to uphold the highest ethical standards in our business practices. This Safe Harbor Privacy Policy (the "Policy") sets forth the privacy principles that Gainsight, Inc. follows with respect to transfers of personal information between the United States and member states of the European Union, Iceland, Liechtenstein and Norway (the European Economic Area).
 
- ** _What Does This Privacy Policy Cover?_**
+#### Safe Harbor
 
-This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage.  We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize and improve our services, to allow you to register for events and/or services with us, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, to provide and improve the Services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect personal privacy, Gainsight, Inc. adheres to the Safe Harbor Principles.
 
-As noted in the [Terms of Use](https://web.archive.org/terms-service), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at 650.532.8155.We gather various types of Personal Information from our users, as explained more fully below.  We may use this Personal Information to personalize and improve our services, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties, as described below.
+#### Scope
 
- ** _What Information Does Company Collect?_**
+This Safe Harbor Privacy Policy (the "Policy") applies to all personal information received by Gainsight, Inc. in the United States in any format including electronic, paper or verbal.
 
- **Information You Provide to Us:**
+#### Definitions
 
-We receive and store any information you knowingly provide to us.  For example, we collect Personal Information, including but not limited to, your name, title, company, email address, phone number, address, location and browser information. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features.  We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.
+For purposes of this Policy, the following definitions shall apply: "Gainsight, Inc." will refer to its application service described at ([www.gainsight.com](http://www.gainsight.com/)). "Personal information" means any information or set of information that identifies or could be used by Gainsight, Inc. or its agents to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information. "Sensitive personal information" means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, Gainsight, Inc. will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
 
-If you have provided us with a means of contacting you, we may use such means to communicate with you. For example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Services.  Also, we may receive a confirmation when you open a message from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by sending an email to [marketing@gainsight.com](mailto:marketing@gainsight.com).  Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. 
+#### Adherence to European Union Safe Harbor Privacy Principles
 
- **Information Collected Automatically:**
+Gainsight, Inc. complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Gainsight, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
-Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, device identification, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or feature you requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people.  You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. if you click on a link to a third party website or service, such third party may also transmit cookies to you.  Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices.
+To learn more about the Safe Harbor program, and to view Gainsight’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-When we collect the usage information described above, we only use this data in aggregate form, and not in a manner that would identify you personally.  For example, this aggregate data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible. 
+#### Law Enforcement; Subpoenas
 
- ** _Will Company Share Any of the Personal Information it Receives?_**
+Gainsight, Inc. may disclose Personal Data, including the data you submit to the Service, with or without notice (a) if required by a subpoena or other judicial or administrative order, (b) where required by law, or (c) at our sole discretion, where we deem it necessary to protect the safety of any individual or the general public or to prevent violation of our User Agreement or the rights of Gainsight, Inc. or any third party.
 
-We neither rent nor sell your Personal Information in personally identifiable form to anyone. However, we may share your Personal Information with third parties as described in this Section:
+#### Gainsight, Inc. and its Affiliates
 
- **Aggregated Personal Information that’s no longer personally identifiable.   **We may anonymize your Personal Information so that you are not individually identified, and provide that information to our partners. We may also provide aggregate usage information to our partners, who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. However, we never disclose aggregate information to a partner in a manner that would identify you personally, as an individual.
+Although Gainsight, Inc. currently operates as an independent corporation incorporated in the USA, any subsidiaries, joint ventures, or other companies under a common control (collectively, "affiliates"), it may in the future share some or all of your Personal Data with these affiliates, in which case it will require our affiliates to honor this Privacy Policy.
 
- **Affiliated Businesses and Third Party Websites We Do Not Control:** In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through the Services (either alone or jointly with us).  You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
+#### Change of Ownership
 
- **Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.  Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
+In the event of a change in ownership, or a direct merger or acquisition with another entity, we reserve the right to transfer all of Gainsight, Inc. User information, including Personal Data, to a separate entity. We will use commercially reasonable efforts to notify you (by posting on our website or an email to the email address you provide when you register) of any change in ownership, merger or acquisition of Gainsight, Inc. assets by a third party, and you may choose to modify any of their registration information at that time.
 
- **Business Transfers:** We may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that would be transferred.  Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
+#### SECURITY
 
- **Protection of Company and Others:** We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [Terms of Use](https://web.archive.org/terms-service) and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. 
+Gainsight, Inc. uses industry standard security measures to protect against the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by Gainsight, Inc. in a secure operating environment that is not available to the public, Gainsight, Inc. cannot guarantee complete security. Further, while we take reasonable steps to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "crackers" from obtaining this information.
 
- ** _Is Personal Information about me Secure?_**
+#### UPDATING OR REMOVING USER INFORMATION
 
-We endeavor to protect the privacy of your Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+You may, at any time, choose to correct or update the information you have submitted to Gainsight, Inc., by updating your account on our website ([www.gainsight.com](http://www.gainsight.com/)).  
+If you cancel your account, your Personal Data and other information may be retained in our archive or backup records.
 
-The Services may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
+#### Privacy Principles
 
- ** _What Choices Do I Have?_**
+The privacy principles in this Policy are based on the Safe Harbor Principles.
 
-You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
+ **1.  NOTICE:** Where Gainsight, Inc. collects personal information directly from individuals in the EEA, it will inform them about the purposes for which it collects and uses personal information about them, the types of non-agent third parties to which Gainsight, Inc. discloses that information, and the choices and means, if any, Gainsight, Inc. offers individuals for limiting the use and disclosure of their personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to Gainsight, Inc., or as soon as practicable thereafter, and in any event before Gainsight, Inc. uses the information for a purpose other than that for which it was originally collected.
 
-You may request deletion of your information by emailing us at [marketing@gainsight.com](mailto:marketing@gainsight.com). Please note that some information may remain in our records, for example in our archives, after your request of deletion of such information. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Please also note that comments you post publicly on our Website, such as comments on our blog posts, will remain visible to the public.  If you have any questions about viewing or updating information we have on file about you, please contact us at [marketing@gainsight.com](mailto:marketing@gainsight.com).
+ **2.  CHOICE:** Where Gainsight, Inc. collects personal information directly from individuals in the EEA, Gainsight, Inc. will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive personal information, Gainsight, Inc. will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. Gainsight, Inc. will provide individuals with reasonable mechanisms to exercise their choices.
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties.  If you are a California resident and would like a copy of this notice, please submit a written request to: [legal@gainsight.com](mailto:legal@gainsight.com).
+ **3.  ONWARD TRANSFERS TO AGENTS:** Gainsight, Inc. will obtain assurances from its agents that they will safeguard personal information consistent with this Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding. Where Gainsight, Inc. has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, Gainsight, Inc. will take reasonable steps to prevent or stop the use or disclosure.
 
- ** _Questions or Concerns_**
+ **4.  SECURITY: **Gainsight, Inc. will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [legal@gainsight.com](mailto:legal@gainsight.com), and we will try to resolve your concerns.
+ **5.  DATA INTEGRITY: **Gainsight, Inc. will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Gainsight, Inc. will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current.
 
- _Effective Date: April 12, 2013_
+ **6.  ACCESS: **Upon request, Gainsight, Inc. will grant individuals reasonable access to personal information that it holds about them. In addition, Gainsight, Inc. will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
+
+ **7.  ENFORCEMENT: **Gainsight, Inc. will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that Gainsight, Inc. determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.
+
+#### Dispute Resolution
+
+Any questions or concerns regarding the use or disclosure of personal information should be directed to Gainsight, Inc. at the address given below. Gainsight, Inc. will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy.
+
+#### Privacy Complaints
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Gainsight, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Gainsight, Inc. at:
+
+Gainsight, Inc.  
+Safe Harbor  
+191 Castro Street, 2nd Floor  
+Mountain View, CA 94041
+
+Or via email at [safeharbor@gainsight.com](mailto:safeharbor@gainsight.com)
+
+Gainsight, Inc. has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Gainsight, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints for](http://www.bbb.org/us/safe-harbor-complaints%C2%A0for) more information and to file a complaint.
+
+#### Changes to this Safe Harbor Privacy Policy
+
+This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles. Appropriate public notice will be given concerning material amendments or changes to this Policy.
