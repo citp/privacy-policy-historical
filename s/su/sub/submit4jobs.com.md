@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the submit4jobs.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503044656id_/http%3A//power.pereless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submit4jobs.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216131346id_/http%3A//power.pereless.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pereless
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.pereless.com/seal_m "Validate TRUSTe privacy certification")  
-**Updated Date: 02-18-2013**
+[](https://privacy.truste.com/privacy-seal/P3-Inc-/validation?rid=b519216c-454c-459c-adca-ea31979588ea "TRUSTe European Safe Harbor certification")
+
+**Updated Date: 10-29-2013**
 
 **Pereless Privacy Statement**
 
@@ -58,6 +59,9 @@ The Pereless Systems Website contains links for users to contact us directly.  
 
 **Links to 3 rd Party Sites**  
 Our Site includes links to other Web sites whose privacy practices may differ from those of Pereless Systems. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+**Social Media Widgets**  
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Security**  
 Pereless Systems has implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.  This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected as stated above both online and off-line.  All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative or sales representative) are granted access to personally identifiable information.
