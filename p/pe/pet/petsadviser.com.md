@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129151355id_/http%3A//petsadviser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216035341id_/http%3A//www.petsadviser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,13 +18,14 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners may include ….
 
 Google Adsense  
+Pet360 Media Network  
 Google Affiliate Network  
 Amazon Affiliates  
-Cafepress  
-Po.st  
 … others may be added from time to time.
 
-These and other third-party ad servers or ad networks use technology to the advertisements and links that appear on petsadviser.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Pets Adviser is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+These and other third-party ad servers or ad networks use technology to the advertisements and links that appear on petsadviser.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
 Petsadviser.com has no access to or control over these cookies that are used by third-party advertisers.
 
@@ -32,4 +33,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-_We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://networkadvertising.org/)._
+_We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/)._
+
+**Share it now!**
