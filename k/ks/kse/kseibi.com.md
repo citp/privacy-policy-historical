@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kseibi.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125082316id_/http%3A//www.kseibi.com/En/About-Kseibi/Privacy-Policy/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kseibi.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216073911id_/http%3A//www.kseibi.com/En/About-Kseibi/Privacy-Policy/Privacy-Policy.php) for the most accurate reproduction.*
 
 # KSEIBI Privacy Center
 
