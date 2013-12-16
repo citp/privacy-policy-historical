@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slutload.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616101754id_/http%3A//www.slutload.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slutload.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216210504id_/http%3A//www.slutload.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy SlutLoad ™ -
 
@@ -11,13 +11,13 @@ We do not provide any facility for sending or receiving private or confidential 
 
 * ### Data Collected
 
-Users can view content without a username and password, and without any information being collected and processed. However the user’s IP address will be recorded in the event that there is any misappropriation of information and/or content.
+Users can view content without a username and password, and without any information being collected and processed. However the user�s IP address will be recorded in the event that there is any misappropriation of information and/or content.
 
 A username and password is required for a number of additional features. Personal information may be requested at time of registration, including an email address. Personal information may be added on a voluntary basis after registration. All this data with the exception of the email address and IP address becomes publicly accessible information.
 
 Personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
 
-When you visit our Website, we may send one or more cookies to your computer that uniquely identifies your browser session. Our Website uses both session cookies and persistent cookies. If you delete your persistent cookie, some of our Website’s features may not function properly.
+When you visit our Website, we may send one or more cookies to your computer that uniquely identifies your browser session. Our Website uses both session cookies and persistent cookies. If you delete your persistent cookie, some of our Website�s features may not function properly.
 
 When you visit our Website, our servers may automatically capture information that your web browser sends, including but not limited to: the web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 
