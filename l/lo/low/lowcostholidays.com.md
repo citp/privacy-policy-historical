@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607122525id_/http%3A//www.lowcostholidays.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216140746id_/http%3A//www.lowcostholidays.com/privacy.htm) for the most accurate reproduction.*
 
 # Low Cost Holidays | Search for cheap holidays, all inclusive holiday deals and city breaks
 
-lowcostholidays.com is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK. When making a booking we will need to collect information from you which is necessary to process your booking. This includes, but is not limited to, your name, postal address and email address. Unless we have your consent, we will only disclose personal data to third parties if this is required for the purpose of fulfilling your booking.
+lowcostholidays.com is committed to protecting your privacy and maintaining the security of any personal information received from you. When making a booking we will need to collect information from you which is necessary to process your booking. This includes, but is not limited to, your name, postal address and email address. Unless we have your consent, we will only disclose personal data to third parties if this is required for the purpose of fulfilling your booking.
 
 This is subject to the proviso that we may disclose your data to certain permitted third parties, such as our own professional advisors, who are bound by confidentiality codes, and when we are legally obliged to do so. We do not sell, rent or exchange your personal information with any third party for commercial reasons.
 
@@ -17,3 +17,11 @@ When you first access the lowcostholidays.com web site, we send an instruction t
 We also store information about what types of holidays are being searched for, what pages are being viewed and how customers are interacting with our web site, so we can better understand the needs of our customers. On occasions, we use this data so that if you visit our site more than once, we can save you time by remembering what you searched for on previous visits.
 
 We do not record any personal information about you in the cookie stored on your computer and we do not sell or pass on any of the information we capture about how our website is being used by our customers.
+
+We are now using Display Advertising with Google.This allows us to record that a user’s computer has seen our advertising, which then gives a unique identifier and at the same time records basic information about what type of browser and computer operating system you are using.
+
+For your privacy it does not store any personal information about you (such as your email address).
+
+You can at any time choose to go the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?hl=en_GB&sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX) and opt out Google Analytics for Display Advertising and customise Google Display Network.
+
+For further information please do visit [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
