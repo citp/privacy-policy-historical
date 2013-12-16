@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newamericamedia.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627123346id_/http%3A//newamericamedia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newamericamedia.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216164314id_/http%3A//newamericamedia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New America Media
 
@@ -8,7 +8,7 @@ Thank you for visiting newamericamedia.org. Your privacy is important to us. The
 
 **Subscription:** When you subscribe to our newsletters, magazines, or directory, we use your email or postal address information to send you the items. We may periodically call or email you about up coming events such as professional workshops, newsmaker briefings, polls sessions, expo and award ceremonies or about new products or services. We may share your information with a limited pool of partner organizations/foundations who may contact you via mail/email with services or products we think will be of value or interest to you. If you do not wish to receive such third-party mailings, please contact Dana Levine at [<dlevine@newamericamedia.org>](mailto:dlevone@newamericamedia.org) with your full name, address, email address and we will remove your name from our shared lists.
 
-**NAM Directory:** We post basic information about our ethnic media partners’ organizations in our NAM Directory, which includes contact information for the Editor/Publisher and Advertising Manager. Our media partners have access to their accounts to update their information. They may remove themselves from the Directory by contacting Elena Shore at [<eshore@newamericamedia.org>](https://web.archive.org/web/20130627123346id_/http://newamericamedia.org/privacy-policy/eshore@newamericamedia.org).
+**NAM Directory:** We post basic information about our ethnic media partners’ organizations in our NAM Directory, which includes contact information for the Editor/Publisher and Advertising Manager. Our media partners have access to their accounts to update their information. They may remove themselves from the Directory by contacting Elena Shore at [<eshore@newamericamedia.org>](https://web.archive.org/web/20131216164314id_/http://newamericamedia.org/privacy-policy/eshore@newamericamedia.org).
 
 **Secure online purchase:** When you make a purchase at the NAM online store, your credit card and payment account information is transacted in an encrypted form on secure servers.
 
@@ -16,6 +16,6 @@ Thank you for visiting newamericamedia.org. Your privacy is important to us. The
 
 **Comments and Email Story to a Friend features:** We do not use these email addresses and you will not receive any email or other communications from NAM as a result of having used these features.
 
-**Advertising:** We feature advertising banners on our website hosted by third party servers. Some of the servers used by our advertising partners may use cookies to track your "click-stream" (your viewing and/or purchasing behavior). Any data they collect is separate from that collected by NAM.
+**Advertising:** We feature advertising banners on our website hosted by third party servers. Some of the servers used by our advertising partners may use cookies to track your "click-stream" (your viewing and/or purchasing behavior, browser type, time and date and subject of advertisements clicked or scrolled over). This online behavioral advertising (OBA) may be used to select advertisements that are likely to be of interest to the viewer. Any data they collect is separate from that collected by NAM.
 
 This policy may be updated from time to time, so please check back periodically.
