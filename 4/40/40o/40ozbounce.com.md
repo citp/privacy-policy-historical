@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 40ozbounce.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610063354id_/http%3A//40ozbounce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 40ozbounce.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216132408id_/http%3A//www.40ozbounce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
