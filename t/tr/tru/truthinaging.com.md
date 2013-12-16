@@ -1,56 +1,90 @@
-> *The following text is extracted and transformed from the truthinaging.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127055704id_/http%3A//truthinaging.com/truth-in-aging-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthinaging.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216083204id_/http%3A//www.truthinaging.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Truth In Aging Privacy Policy
+# Privacy Policy
 
-This privacy statement covers Truth In Aging.
+## What we collect
 
-Information Collection
+We may collect the following information:
 
-Truth In Aging may collect information from our users at several different points on the site or newsletters. Accord Media, the publisher of Truth In Aging, is the sole owner of the information collected on Truth In Aging.com
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Comments and Posts
 
-Truth In Aging users can choose to write comments or posts on the site. To leave a comment, users must submit information including a valid email address. Truth In Aging uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
 
-Newsletters and VIP Club membership
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-Accord Media offers email newsletters. To sign up to receive regular emails, users must submit information including a valid email address. This information will be used in aggregate form to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
+## What we do with the information we gather
 
-Cookies  
-Truth In Aging may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Third Party Cookies
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-Log Files
 
-Like most standard Web site servers we use log files. These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.  We use this information to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+## Security
 
-Legal Disclaimer
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Though we make every effort to preserve user privacy, Truth In Aging may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
+## How we use cookies
 
-Business Transitions
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-In the event Truth In Aging or Accord Media goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Links
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Truth In Aging contains links to other sites. Please be aware that Truth In Aging is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Truth In Aging.
+## Links to other websites
 
-Third Party Cookies
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Some of our business partners may use cookies on our site (for example, advertisers). Truth In Aging has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Truth In Aging only and does not cover the use of cookies by any advertisers.
+## Controlling your personal information
 
-Third Party Advertising
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at customerservice@truthinaging.com
 
-Notification of Changes
 
-Whenever Truth In Aging changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
-Contact Information
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you have any questions or suggestions regarding our privacy policy, please contact marta@truthinaging.com, or by mail to Truth In Aging, 241 West 36 Street, PH, New York, NY 10018.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
