@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiss.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617005942id_/http%3A//www.kiss.com/privacy-policy%3Fcf%3Dfooternav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiss.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216045859id_/http%3A//www.kiss.com/privacy-policy%3Fcf%3Dfooternav) for the most accurate reproduction.*
 
 # Privacy Policy | Kiss.com
 
