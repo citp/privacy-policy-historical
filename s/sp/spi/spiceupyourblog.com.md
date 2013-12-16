@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiceupyourblog.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629144054id_/http%3A//www.spiceupyourblog.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiceupyourblog.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216210157id_/http%3A//www.spiceupyourblog.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Spice Up Your Blog
 
