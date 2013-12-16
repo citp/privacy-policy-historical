@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatgamesforyou.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604025840id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatgamesforyou.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217002437id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Information Security Policy - ArcadeTown.com
 
