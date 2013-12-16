@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestrank.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117064502id_/http%3A//www.bestrank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestrank.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216132930id_/http%3A//www.bestrank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Rank
 
