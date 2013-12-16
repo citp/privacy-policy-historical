@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the kiss.com privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617005942id_/http%3A//www.kiss.com/privacy-policy%3Fcf%3Dfooternav) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kiss.com privacy policy that was archived on 2013-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216045859id_/http%3A//www.kiss.com/privacy-policy%3Fcf%3Dfooternav) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6617.js?439029" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/207171800.js" type="text/javascript"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6617.js?439029" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="//cdn.optimizely.com/js/207171800.js" type="text/javascript"></script>
 <meta charset="utf-8">
 <title>Privacy Policy | Kiss.com</title>
 <!-- Uncomment to make IE8 render like IE7 -->
@@ -23,10 +23,25 @@
 <link href="/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
 <link href="/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="0CUaSxfYtrPn8whD8f08ERwIjE7LHU0PA3XiFzD5SNU=" name="csrf-token">
+<meta content="q+bW7WnhifB4NWB5COMLiY7EeShr+oeRdQpalBUr/Wo=" name="csrf-token">
 <!-- Included CSS Files -->
-<link href="//f.fontdeck.com/s/css/lHktLH+EZVsrc3lUJSCPbV3ixAY/www.kiss.com/25519.css" media="screen" rel="stylesheet" type="text/css">
-<link href="//d3402d9voj72wh.cloudfront.net/assets/phoenix-ee2c4cf4891a8ea91779c73ee548adbd.css" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+//<![CDATA[
+      WebFontConfig = { fontdeck: { id: '25519' } };
+
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+        '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+
+//]]>
+</script>
+<link href="//d3402d9voj72wh.cloudfront.net/assets/phoenix-a75fba2d52139381392c6e8d120fd0ad.css" media="screen" rel="stylesheet" type="text/css">
 <!-- Included JS Files -->
 <script src="//d3402d9voj72wh.cloudfront.net/assets/polyfill-cb9052a495d177c474bd141857e27fe3.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -40,6 +55,24 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
+
+      // This snippet tracks the rank of the page where the visitor came from.
+      // http://cutroni.com/blog/2013/01/14/a-new-method-to-track-keyword-ranking-using-google-analytics/
+      if (document.referrer.match(/google.com/gi) && document.referrer.match(/cd/gi)) {
+        var myString = document.referrer;
+        var r        = myString.match(/cd=(.*?)&/);
+        var rank     = parseInt(r[1], 10);
+        var kw       = myString.match(/q=(.*?)&/);
+
+        if (kw[1].length > 0) {
+          var keyWord  = decodeURI(kw[1]);
+        } else {
+          keyWord = "(not provided)";
+        }
+
+        var p        = document.location.pathname;
+        _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+      }
 
 //]]>
 </script>
@@ -205,7 +238,7 @@ In General. We may use information that we collect about you to:
 </div>
 
 <div class="overlay"></div>
-<script src="//d3402d9voj72wh.cloudfront.net/assets/application-4c9153df574619007b76acde846472d2.js" type="text/javascript"></script>
+<script src="//d3402d9voj72wh.cloudfront.net/assets/application-8b73bfe474867b567f018480ef189452.js" type="text/javascript"></script>
 
 <script type="text/javascript">
   //<![CDATA[
@@ -221,18 +254,33 @@ In General. We may use information that we collect about you to:
 
 //]]>
 </script>
+<script type="text/javascript">
+//<![CDATA[
+      var PF_APPID = "26946aee22371885";
+      setTimeout(function(){
+        var d = document; 
+        s = d.createElement('script');
+        s.type = 'text/javascript'; s.async = true;
+        s.src = ("https:" == document.location.protocol) ? 
+          "https://ssl.pathful.com/js/scripts/secure.js"
+          : "http://s.pathful.com/js/scripts/capture.js";
+        document.body.appendChild(s, d);
+      }, 1);
+
+//]]>
+</script>
 
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
 e.type="text/javascript";
 e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "rpm-images.newrelic.com/42/eum/rum.js";
+  "js-agent.newrelic.com/nr-100.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-3.newrelic.com","888fe1d082","1178758","J1daEktdW1oARRcSQQVMXQUWQkVfE1ZbGA==",0,41,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-5.newrelic.com","888fe1d082","1178758","J1daEktdW1oARRcSQQVMXQUWQkVfE1ZbGA==",0,15,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script type="text/javascript" async="" src="https://ssl.pathful.com/js/scripts/secure.js"></script></body></html>
