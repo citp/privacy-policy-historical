@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go2inbox.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429083901id_/http%3A//www.go2inbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2inbox.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216183737id_/http%3A//www.go2inbox.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy | go2inbox.com
 
