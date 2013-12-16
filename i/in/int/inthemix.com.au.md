@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inthemix.com.au privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606045437id_/http%3A//www.inthemix.com.au/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthemix.com.au privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216232050id_/http%3A//www.inthemix.com.au/about/privacy-statement) for the most accurate reproduction.*
 
 # About inthemix.com.au
 
