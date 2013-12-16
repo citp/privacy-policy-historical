@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mockbank.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613064711id_/http%3A//www.mockbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mockbank.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216114308id_/http%3A//www.mockbank.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MockBank
+# Privacy Policy | MockBank- Mock tests for banking and PSU exams- IBPS, RBI, SEBI, NABARD, LIC, NIC, SSC, UPSC etc.
 
 **MockBank Privacy Policy**
 
-Thank you for visiting the MockBank site, (the “Site”). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the way your information is collected and used at MockBank. Your membership in and use of the MockBank program indicates your understanding of and agreement with, the policy expressed herein.
+Thank you for visiting www.MockBank.com, (the “Site”). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the way your information is collected and used at www.MockBank.com. Your membership in and use of www.MockBank.com indicates your understanding of and agreement with, the policy expressed herein.
 
-MockBank is owned and operated by SourceWeb Pvt Ltd, a Gurgaon based Company. SourceWeb Pvt Ltd respects the privacy of visitors to the Site and the security of the data that visitors provide. This Privacy Policy explains what type of information we collect, and what we do with that information. The Privacy Policy may change from time to time so please check it frequently.
+www.MockBank.com is owned and operated by MockBank, a Gurgaon based sole proprietorship firm. MockBank respects the privacy of visitors to the Site and the security of the data that visitors provide. This Privacy Policy explains what type of information we collect, and what we do with that information. The Privacy Policy may change from time to time so please check it frequently.
 
 _The Information We Collect_
 
@@ -16,7 +16,7 @@ We also may collect certain non-personally identifiable information when you vis
 
 _With Whom Do We Share Information?_
 
-Other companies that provide services on our Site, or that advertise or link on our Site, may use cookies or collect other information about you when you go to their Site. SourceWeb Pvt Ltd does not control the collection or use of information by these companies. You should contact these companies directly if you have any questions about their privacy policies or their collection or use of information about you.
+Other companies that provide services on our Site, or that advertise or link on our Site, may use cookies or collect other information about you when you go to their Site. MockBank does not control the collection or use of information by these companies. You should contact these companies directly if you have any questions about their privacy policies or their collection or use of information about you.
 
 _How We Use the Information_
 
@@ -26,9 +26,9 @@ We sometimes use this information to communicate with you, such as to notify you
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a notice. We also may disclose such information in response to a law enforcement agency’s request. Agents and contractors of SourceWeb Pvt Ltd who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy, by for example, not using the information for any purpose other than to carry out the services they are performing for SourceWeb Pvt Ltd.
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a notice. We also may disclose such information in response to a law enforcement agency’s request. Agents and contractors of MockBank who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy, by for example, not using the information for any purpose other than to carry out the services they are performing for MockBank
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. You understand and agree that you are entering your personal information aware of and willing to accept risks associated with the provision of that information including but not limited to unauthorized or unintended disclosure of that information, and that you release and hold harmless, SourceWeb Pvt Ltd, their officers, agents, employees, attorneys, managers and those acting on their behalf of and from all debts, demands, actions, cause of actions, suits, damages, and any and all claims, demands and liability whatsoever of any nature both in law and equity against each other which either party now has or has ever had to this date, including but not limited to, any claims arising in connection with the use or disclosure of your personal information by any third party not under the direct control of SourceWeb Pvt Ltd.
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. You understand and agree that you are entering your personal information aware of and willing to accept risks associated with the provision of that information including but not limited to unauthorized or unintended disclosure of that information, and that you release and hold harmless MockBank, their officers, agents, employees, attorneys, managers and those acting on their behalf of and from all debts, demands, actions, cause of actions, suits, damages, and any and all claims, demands and liability whatsoever of any nature both in law and equity against each other which either party now has or has ever had to this date, including but not limited to, any claims arising in connection with the use or disclosure of your personal information by any third party not under the direct control of MockBank
 
 _Collection of Information by Third-Party Sites and Sponsors_
 
@@ -42,8 +42,8 @@ We use cookies to understand site usage and to improve the content and offerings
 
 _Our Commitment to Security_
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. While SourceWeb Pvt Ltd strives to protect your personal information, it cannot guarantee or warrant the security of the information you transmit to us, and if you choose to use our Site, you do so at your own risk. SourceWeb Pvt Ltd has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Only authorized employees have access to the information you provide us. There are strict rules on all authorized persons who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make every effort to prevent such unfortunate occurrences.
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. While MockBank strives to protect your personal information, it cannot guarantee or warrant the security of the information you transmit to us, and if you choose to use our Site, you do so at your own risk. MockBank has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. Only authorized employees have access to the information you provide us. There are strict rules on all authorized persons who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make every effort to prevent such unfortunate occurrences.
 
 _Illegal Use_
 
-Using MockBank to transmit any material (by email, instant messaging, posting or otherwise) that, intentionally or unintentionally, violates any applicable local, state, national, international law, or any rules or regulations promulgated hereunder is prohibited.
+Using www.MockBank.com to transmit any material (by email, instant messaging, posting or otherwise) that, intentionally or unintentionally, violates any applicable local, state, national, international law, or any rules or regulations promulgated hereunder is prohibited.
