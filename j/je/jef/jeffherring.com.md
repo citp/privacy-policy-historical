@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffherring.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601023354id_/http%3A//jeffherring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffherring.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216154011id_/http%3A//jeffherring.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Profitable Content Marketing – Articles marketing and more – Jeff Herring's Blog
 
