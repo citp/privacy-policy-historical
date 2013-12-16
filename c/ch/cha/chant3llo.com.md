@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chant3llo.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615012911id_/http%3A//chant3llo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chant3llo.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216112522id_/http%3A//chant3llo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chant3llo's Blog
 
@@ -21,6 +21,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-_A huge thank you to[JenSense](https://web.archive.org/web/20130615012911id_/http://chant3llo.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D) for providing this wonderful AdSense Privacy Policy!!_
+_A huge thank you to[JenSense](https://web.archive.org/web/20131216112522id_/http://chant3llo.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D) for providing this wonderful AdSense Privacy Policy!!_
 
 Please also see my [Disclosure Policy](http://chant3llo.com/disclosure-policy/ "Disclosure Policy")
