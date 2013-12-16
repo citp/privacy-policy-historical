@@ -1,115 +1,29 @@
-> *The following text is extracted and transformed from the ayushvedainformatics.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212063008id_/http%3A//www.ayushvedainformatics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayushvedainformatics.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216061445id_/http%3A//www.ayushvedainformatics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ayushveda Informatics India Pvt. Ltd.
+# Privacy Policy | Ayushveda Informatics
 
-We, at Ayushvedainformatics.com, take your privacy very seriously and abide by the following policy to ensure your satisfaction. If you have any concerns, please do not hesitate to write to us.
+The website www.ayushvedainformatics.com created & managed by Ayushveda Informatics, has information related to varied web-based services including website design/development, SEO (search engine optimization), & social marketing. We have taken care of all the website design/development standards and compliance regulations, at the time of creating content for the website; we also keep updating our website to keep it most current, and in that parlance we reserve the full rights to alter, and/or update data at anytime, and with no prior notice. We inform everyone that company cannot be held responsible in case of any wrong or no longer valid statements, quotes, descriptions, and has no liability attached in condition of losses incurred from faulty information. Additionally, the company has the right to start legal action against persons who misuse, alter, reproduce the content/information that we have made available on the website.
 
-**What information does Ayushvedainformatics.com collect/track about me?**
+### Data Privacy policy
 
-Ayushvedainformatics's sole purpose is to promote the knowledge of Ayurveda world. Any doctor can apply for iayurveda service to get a free webpage, submit his/her articles and particiapte in Free Consultation.   
-The public (visitors, other members, or anyone not employed by Ayushvedainformatics.com) cannot use the information we gather to identify specific individuals.  
-Visitors to our site may browse, search and view articles or features without entering any personal information.   
-Ayushvedainformatics.com gathers two types of information. Information members submit to us and information not directly submitted by members.
+In context of data privacy policy, we abide by each and every international legal regulations and our data privacy policy is attuned to standards set up for the protection and safety of data collected from visitors to our website. Ayushveda Informatics maintains complete confidentiality of data obtained from the internet and our website, and ensure no physical/mental harm is caused to the person, whose data gets collected by us. Personal data that we have the knowledge of will be kept confidential, the privacy of it will be maintained, and the information contained within will be utilized only for the purpose it was provided to us. No third party will get access to the information, and/or data without prior permission, and will not be in any way transferred to them. 
 
-**Information members submit to us.**
+### Right Over Intellectual Property
 
-**Public:**  
-We define public information (gender, age and height) as personal information that will be displayed on Ayushvedainformatics.com but cannot be used to identify a particular member. The personal information we gather may or may not include: customer-specified Ayushvedainformatics.com username, gender, age, religion, income range, occupation, preference/lifestyle information and general geographic location. 
+Ayushveda informatics logos seen on the website are protected by international Trademark laws. So are exclusive property of Ayushveda Informatics, and a third party is prohibited to use them without approvals from the concerned company. Pictures, Images, Charts, Graphic illustrations, Texts, Data published on the website may get utilized/transferred/reproduced/ modified, only after having approvals from Ayushveda Informatics.
 
-**Private:**  
-We define private information as information that allows others to contact a member through means other than Ayushvedainformatics.com. It includes information about the member other than what is displayed on the site  
-This information is gathered from members and guests who apply for the various services Ayushvedainformatics.com offers. This information includes, but is not limited to: email address, first name, last name, , a user-specified password, mailing address, zip code and telephone number. 
+### Information Collected
 
-**Surveys & Contests:**  
-From time-to-time Ayushvedainformatics.com requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age, etc.). 
+Users of our website are given the option to furnish their name, contact information, and Query to Ayushveda Informatics and that is used by us to make contact with the requesting user with answers and other necessary details based on the query submitted.
 
-**Ayushvedainformatics.com's Partners:**  
-The Partners program is a vehicle for other sites to link to the Ayushvedainformatics.com site. No personal member information is exchanged with Ayushvedainformatics partners. 
+### Opt-out Policy
 
-**Information not directly submitted by members to Ayushvedainformatics.com**
+If at any time in future you want to remove/unsubscribe/delete your contacts/e-mail information from our end, you merely have to send an e-mail at [ business@ayushvedainformatics.com](mailto:business@ayushvedainformatics.com) and you will be notified within 48 hrs. via e-mail prior to initiating any actions, that we’ll be taking in response to the request made.
 
-**Aggregate:**  
-This information -- browser type and IP address -- is general in nature and is gathered for all users of Ayushvedainformatics.com. It cannot be and is not used to identify any individual user. 
+### Changes To Our Privacy policy
 
-**What does Ayushvedainformatics.com do with the information it collects/tracks?**
+Ayushveda Informatics reserves the full right to alter/amend/remove this privacy statement at anytime it deems necessary and without a particular reason for doing that. All information furnished in this policy document doesn’t create or intends to create a contract/agreement between Ayushveda and any user visiting Ayushveda Informatics website or supplying any type of personal identification information.
 
-Ayushvedainformatics.com uses the information it collects in the following ways.
+### Our Portfolio
 
-**Information members submit to us.**
-
-**Public:**  
-Public information supplied by the member is intended to be viewed by visitors to the site. This information is used by visitors for searching purposes. Public information cannot be used to identify a specific member by name, address, etc. 
-
-**Private:**  
-We primarily use email addresses submitted by members to verify enrollment and when forwarding anonymous e-mails from ad responders. Respondees' email addresses are not disclosed to the responder. We also use members email addresses to send news/updates regarding our site, but the member may choose not to receive emails of this type by unsubscribing.
-
-Email addresses may also be used in private correspondence with members for customer service. All other private information submitted by members is confidential and will not be disclosed except as required by law or to protect members of Ayushvedainformatics.com. All private information can be updated or deleted by the member at any time. 
-
-**Surveys & Contests:**  
-Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information will be used for monitoring or improving user-satisfaction. 
-
-**Ayushvedainformatics.com's Partners:**  
-Information submitted by the Ayushvedainformatics partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between Ayushvedainformatics.com and the Ayushvedainformatics partner. Ayushvedainformatics partners cannot view or access private information about Ayushvedainformatics.com members.
-
-**Information not directly submitted by members to Ayushvedainformatics.com**
-
-**Aggregate:**  
-This information -- browser type and IP address -- is general in nature and is gathered for all members of Ayushvedainformatics.com. It cannot be linked to any individual user. 
-
-With whom does Ayushvedainformatics.com share the information it collects/tracks?
-
-Except where you are expressly informed otherwise or as described immediately below.
-
-We do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your membership.
-
-If you register with Ayushvedainformatics.com through one of our co-branded versions, your registration and profile information may be shared with the co-branding partner solely for the purpose of fulfilling the services provided by the co-branded site and any related promotional offers.
-
-We encourage you to review the privacy policy of the co-branded partner for questions about their use of your personally identifiable information and how you can modify or delete it.
-
-**Tell me about links with other sites.**
-
-Ayushvedainformatics.com does provide links to other sites but is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by Ayushvedainformatics.com 
-
-**Tell me about Cookies.**
-
-Ayushvedainformatics.com uses cookies to deliver various services and to keep track of your personal preferences. A cookie is a small text file that can be entered into the memory of your browser to help a site recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that allows Internet services to make content improvements and conduct targeted advertising.
-
-If you do not want information to be collected through cookies, use the browser's function that allows a user to deny the cookie feature. You can also delete cookie files from your computer at your discretion.
-
-Please note that the use of cookies is a necessary part of the Ayushvedainformatics.com technology and is necessary if you wish to access Ayushvedainformatics.com. If you disable the cookie feature on your browser or delete cookie files from your computer, you may not be able to access certain features/services on Ayushvedainformatics.com. Cookies may also be necessary to provide you with certain features like customized look and feel, customized information, etc.
-
-Ayushvedainformatics.com uses cookies to provide its services, to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit different pages on our site, and for other purposes. We do not and will not use cookies to collect private information from any user!
-
-Also, please note that cookies are used only to recollect information sent to your computer from Ayushvedainformatics.com. We cannot access any information not sent by Ayushvedainformatics.com.
-
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
-
-**Tell me about Ayushvedainformatics.com's policy on correcting, updating or removing personal information.**
-
-Ayushvedainformatics.com gives users several options for modifying or removing their information from our database. Please visit the My Ayushvedainformatics page to modify/remove your information or contact us. 
-
-**Changes in Ayushvedainformatics.com's privacy policy.**
-
-If we change our privacy policy, we will prominently post a link to those changes on our homepage so that our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.
-
-Users will have a choice to allow/disallow Ayushvedainformatics.com the use of their information in this different manner, and we will then use information in accordance with the privacy policy under which the information was collected.
-
-**Tell me about security of my personal information.**
-
-Ayushvedainformatics.com takes every precaution to protect its users' information. When users submit sensitive information via the website, the information is protected both online and offline.
-
-All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees (customer service representative) who need the information to perform a specific job are granted access to personally identifiable information.
-
-If you have any questions about the security at our website, please contact us. 
-
-**Tell me about e-mail choice/opt-out policy.**
-
-Our users are given the opportunity to 'opt-out' of having information used for purposes not directly related to our site at the point where we ask for the information.
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by following the instructions contained in the email. 
-
-**Tell me how to contact Ayushvedainformatics.com.**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact us. 
+[](http://www.ayushvedainformatics.com/complete-portfolio/ "Complete Portfolio")
