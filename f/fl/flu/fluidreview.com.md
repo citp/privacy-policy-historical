@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluidreview.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627154447id_/http%3A//fluidreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluidreview.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216114955id_/http%3A//fluidreview.com/privacy) for the most accurate reproduction.*
 
 # FluidReview - Privacy Policy
 
