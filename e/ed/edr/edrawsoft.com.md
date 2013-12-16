@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edrawsoft.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602051907id_/http%3A//www.edrawsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrawsoft.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216223342id_/http%3A//www.edrawsoft.com/privacy.php) for the most accurate reproduction.*
 
 # Edraw Privacy
 
-[](https://web.archive.org/web/20130602051907id_/http%3A//www.edrawsoft.com/products.php)
+[](https://web.archive.org/web/20131216223342id_/http%3A//www.edrawsoft.com/products.php)
 
 ### Privacy
 
