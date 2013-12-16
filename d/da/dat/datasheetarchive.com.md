@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526170214id_/http%3A//www.datasheetarchive.com/about.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216140550id_/http%3A//www.datasheetarchive.com/about.html%23privacy) for the most accurate reproduction.*
 
 # Advertising Cookie, Datasheet Collection, and Privacy Policies | Datasheet Archive
 
