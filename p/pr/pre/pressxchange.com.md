@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pressxchange.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609094322id_/http%3A//www.pressxchange.com/en/help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressxchange.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216045054id_/http%3A//www.pressxchange.com/en/help/Privacy) for the most accurate reproduction.*
 
-# pressXchange.com
+# Read the pressXchange Privacy Policy
 
 pressXchange.com, is owned by Haymarket Media Group Limited ("Haymarket") , which is committed to protecting and respecting your privacy.
 
