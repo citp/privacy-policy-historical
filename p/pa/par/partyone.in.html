@@ -1,0 +1,346 @@
+<!--The following is the downloaded HTML source of the partyone.in privacy policy that was archived on 2013-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216062155id_/http%3A//partyone.in/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Plan My Party</title>
+<link href="styles/master.css" rel="stylesheet" type="text/css">
+<link href="styles/login.css" rel="stylesheet" type="text/css">
+<link href="styles/popup.css" rel="stylesheet" type="text/css">
+<link href="styles/jquery.bxslider.css" rel="stylesheet" type="text/css">
+<!-- jQuery Form Validation -->
+	<link rel="stylesheet" href="js/libs/formValidator/developr.validationEngine.css?v=1">
+</head>
+
+<body>
+	<!--Header Section -->
+	<div id="header">
+    	 <!-- Analytics Code Starts Here -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-46362516-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+ 
+ <div class="headerWrapper">
+			<div class="logo">
+            	<a href="index.php"><img src="images/partyone.png" alt="Party One"></a>
+            </div>
+            <div class="headerRight">
+                <div class="quickLinks">
+                <ul>
+                	<li><img src="images/bangaloreonly.jpg" alt="For Bangalore Only"></li>
+                	<li class="phone">+91 9900076139</li>
+                	<li class="mail"><a href="mailto:contact@partyone.in">info@partyone.in</a></li>
+                </ul>
+                   <!-- <a href="javascript:void(0)"><img src="images/bangaloreonly.jpg" alt="For Bangalore Only" /></a>
+                    <a href="javascript:void(0)"><img src="images/helpline.jpg" alt="Help Line" /></a>
+                    <a href="mailto:contact@partyone.in"><img src="images/email.jpg" alt="Email" /></a>-->
+                </div><a href="javascript:void(0)" class="login">login</a>
+            			<a href="javascript:void(0)" class="register">register</a>
+            			<div class="successMSG"></div>
+
+            <div class="quickcart radiusAll" id="basketTitleWrap">
+            	<span class="toplline"></span> <a href="#">0</a> items&nbsp;&nbsp;|&nbsp;&nbsp;Rs <a href="#">0</a>
+            </div>
+
+
+            <!--Login Box -->
+                        <div id="form-login" class="scratch-metal">
+			<form method="post" action="signin.php" id="loginForm" class="input-wrapper blue-gradient glossy" title="Login">
+				<ul class="inputs black-input large">
+					<!-- The autocomplete="off" attributes is the only way to prevent webkit browsers from filling the inputs with yellow -->
+					<li><span class="icon-user mid-margin-right"></span><input type="text" name="Llogin" id="Llogin" value="" class="input-unstyled validate[required]" placeholder="Login" tabindex="1"></li>
+					<li><span class="icon-lock mid-margin-right"></span><input type="password" name="Lpass" id="Lpass" value="" class="input-unstyled validate[required]" placeholder="Password" tabindex="2"></li>
+				</ul>
+
+				<p class="button-height">
+					<button type="Button" class="button glossy float-right" id="login">Login</button>
+					<!-- <input type="checkbox" name="remind" id="remind" value="1" checked="checked" class="mid-margin-right with-tooltip" title="Enable auto-login">
+					<label for="remind">Remind me</label>  -->
+				</p>
+			</form>
+			<form method="post" action="signin.php" id="fgpwdForm" class="input-wrapper blue-gradient glossy" title="Forgot Password" style="display:none">
+				<ul class="inputs black-input large">
+					<!-- The autocomplete="off" attributes is the only way to prevent webkit browsers from filling the inputs with yellow -->
+					<li><span class="icon-user mid-margin-right"></span><input type="text" name="fglogin" id="fglogin" value="" class="input-unstyled validate[required]" placeholder="Enter Email" tabindex="1"></li>
+				
+				</ul>
+
+				<p class="button-height">
+					<button type="Button" class="button glossy float-right" id="fgpwdSubmitForm">Submit</button>
+				</p>
+			</form>
+            <p>
+                <a href="#" class="frgot">Forgot Password</a>
+                <a href="#" class="gotoLogin" style="display:none;">Goto Login</a>
+                <span class="errMsg" style="color:red;"></span>
+                <a href="javascript:void(0)" class="close">Close</a>
+            </p>
+		</div>
+
+            <!--Registation Box -->
+
+            <div id="form-register" class="scratch-metal">
+			<form method="post" action="signin.php" id="signInForm" class="input-wrapper blue-gradient glossy" title="Register">
+            	<ul class="inputs black-input large">
+					<!-- The autocomplete="off" attributes is the only way to prevent webkit browsers from filling the inputs with yellow -->
+					<li><span class="icon-card mid-margin-right"></span><input type="text" name="name" id="name" value="" class="input-unstyled validate[required]" placeholder="Your Name" tabindex="1"></li>
+					<li><span class="icon-mob mid-margin-right"></span><input type="text" name="mobile" id="mobile" value="" class="input-unstyled validate[required,custom[number],minSize[10],maxSize[13]]" placeholder="Mobile Number" tabindex="2"></li>
+				</ul>
+				<ul class="inputs black-input large">
+					<!-- The autocomplete="off" attributes is the only way to prevent webkit browsers from filling the inputs with yellow -->
+					<li><span class="icon-mail mid-margin-right"></span><input type="text" name="email" id="email" value="" class="input-unstyled validate[required,custom[email]]" placeholder="Your Email" tabindex="3"></li>
+					<li><span class="icon-lock mid-margin-right"></span><input type="password" name="pass" id="pass" value="" class="input-unstyled validate[required]" placeholder="Password" tabindex="4"></li>
+				</ul>
+
+				<p class="button-height">
+					<input type="button" class="button glossy fLeft" id="Signup" name="Signup" value="Register">
+				</p>
+			</form>
+            <a href="javascript:void(0)" class="close">Close</a>
+
+		</div>
+
+           
+    	<!-- Cart details -->
+        	<div class="cartDetails">
+				<div class="Cartwrapper">
+                    <ul class="cartItems">
+						
+                    </ul>
+                    <a href="javascript:void(0)" class="close">Close</a>
+                </div>
+                <div class="checkoutBar">
+                	<span class="totalAmound">Rs. 00.00</span>
+                	<a href="javascript:void(0)" class="checkout">Check out</a>
+                </div>            </div>
+
+
+          <div class="divider"></div>
+            <ul class="mainnav">
+                <li><a href="index.php">Return Gifts</a></li><li><a href="decorative.php">Party Supplies</a></li>                <!-- <li><a href="javascript:void(0);" class="PHS">Party Halls</a></li>    -->
+                <li><a href="javascript:void(0);" class="ADS">Additional Services</a></li>
+            </ul>
+            
+            	<a href="javascript:void(0)" class="checkoutPink">Check Out</a>
+            <ul class="accountnav">
+                              <li><a href="contact.php">Contact Us</a></li>
+            </ul>
+            </div>
+            
+            <!-- Login/SignUp PopUp Starts Here -->
+            
+      </div>
+    </div>
+    <!--Banner Section -->
+    <div id="banner" class="inner">
+   	  	<div class="wrapper">
+       		<div class="bridcom"><a href="index.php">home</a>&nbsp;&nbsp;»&nbsp;&nbsp;<span>privacy policy</span></div> 
+       </div>
+    </div>
+    <div class="wrapper paddTB10">
+		<div id="fullPage">
+                    <div id="fullpageContent">
+        	<h2>Privacy Policy</h2>
+			<p>We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.</p>
+            
+            <h5>1 . Collection of Personally Identifiable Information and other Information</h5>
+            <p>When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.</p>
+            <p>In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Website. We may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analysed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.</p>
+           
+           <p>We use data collection devices such as "cookies" on certain pages of the Website to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie".
+We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re-enter your password more frequently during a session.</p>
+			<p>Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties.</p>
+            <p>If you choose to buy on the Website, we collect information about your buying behaviour.</p>
+            <p>If you transact with us, we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders.</p>
+            <p>If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.</p>
+            
+            <p>If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you.</p>
+            <p>By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.</p>
+            <p>We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up a free account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.</p>
+            <h5>2. Use of Demographic / Profile Data / Your Information</h5>
+            <p>We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect money; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.</p>
+            <p>In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our Website.</p>
+            <p>We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.</p>
+            <p>We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in and to display content according to your preferences.</p>
+            <p><strong>Cookies</strong></p>
+            <p>A "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer's hard drive. The cookies do not contain any of your personally identifiable information.</p>
+            <h5>3. Sharing of personal information</h5>
+             <p>We may share personal information with our other corporate entities and affiliates to help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.</p>
+
+<p>We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.</p>
+
+<p>We and our affiliates will share / sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.</p>   
+			<h5>4. Security Precautions</h5>    
+            <p>Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.</p>  
+            
+            <h5>5. Your Consent</h5>
+            <p>By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy.</p>
+
+<p>If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
+        </div>
+                </div>
+    </div>
+    <div id="footer">
+    	<div class="wrapper">
+           
+            <div class="copyright">
+            	<a href="#" class="socialIcon twitter">@Twitter</a>
+                <a href="#" class="socialIcon facebook">@facebook</a>
+                <a href="#" class="socialIcon linkedin">@linkedin</a>
+            |&nbsp;&nbsp;<a href="privacypolicy.php">Privacy Policy</a>
+                 |&nbsp;&nbsp;<a href="termsandconditions.php">Terms &amp; Conditions</a>
+                 |&nbsp;&nbsp;<a href="securitypayment.php">Secure Shopping</a>
+                 |&nbsp;&nbsp;<a href="returns.php">Delivery and Returns</a>
+                 |&nbsp;&nbsp;<a href="faq.php">FAQ's</a>
+                |&nbsp;&nbsp;<a href="contact.php">Contact Us</a>
+		    <span>2013 Andor Tech India Pvt Ltd. All rights reserved</span>
+            </div>
+        </div>
+    </div>
+
+	<div class="bgoverlayBlk"></div>
+
+    <!--Product Detail PopUp -->
+    <div class="productDetails">
+
+	</div>
+
+<link href="SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js/jquery-1.8.3.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/jQueryRotate.2.2.js"></script>
+<script src="js/jquery.raty.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery.bxslider.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
+<script src="js/jquery.form.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery.zoom.js"></script>
+<script src="js/scrollpagination.js" type="text/javascript"></script>
+<script src="js/jquery-cookie/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery-cookie/component.json" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery-cookie/cookie.jquery.json" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery-cookie/package.json" type="text/javascript" charset="utf-8"></script>
+<!-- jQuery Form Validation -->
+	<script src="js/libs/formValidator/jquery.validationEngine.js?v=1"></script>
+	<script src="js/libs/formValidator/languages/jquery.validationEngine-en.js?v=1"></script>
+<script src="js/include.js"></script>
+<script>
+$(function(){
+	$('.infiLoad').scrollPagination({
+		'contentPage': 'products.php', // the url you are fetching the results
+		'contentData': {}, // these are the variables you can pass to the request, for example: children().size() to know which page you are
+		'scrollTarget': $(window), // who gonna scroll? in this example, the full window
+		'heightOffset': 100, // it gonna request when scroll is 10 pixels before the page ends
+		'beforeLoad': function(){ // before load function, you can display a preloader div
+			$('#loading').fadeIn();
+		},
+		'afterLoad': function(elementsLoaded){ // after loading content, you can use this function to animate your new elements
+			 $('#loading').fadeOut();
+			 var i = 0;
+			 $(elementsLoaded).fadeInWithDelay();
+			/* if ($('.infiLoad').children().size() > 100){ // if more than 100 results already loaded, then stop pagination (only for testing)
+			 	$('#nomoreresults').fadeIn();
+				$('.infiLoad').stopScrollPagination();
+			 } */
+		}
+	});
+
+	// code for fade in element by element
+	$.fn.fadeInWithDelay = function(){
+		var delay = 0;
+		return this.each(function(){
+			$(this).delay(delay).animate({opacity:1}, 200);
+			delay += 100;
+		});
+	};
+
+});
+
+$(document).ready(function(e) {
+	$('.bxslider').bxSlider({mode: 'vertical', minSlides: 3,auto:true});
+	$('#loginForm, #signInForm').validationEngine();
+    $('#rate').raty({
+	  half  : true,
+	  score : 0.5,
+	  cancel: true,
+	  cancelHint	: 'remove my rating!',
+	  cancelPlace	: 'right',
+	  click: function(score, evt) {
+						alert('ID: ' + $(this).attr('id') + '\nscore: ' + score + '\nevent: ' + evt);
+					}
+	});
+
+	$('.str0').raty({
+	  half  : true,
+	  score : 0,
+	  readOnly	: true,
+	});
+	$('.str05').raty({
+	  half  : true,
+	  score : 0.5,
+	  readOnly	: true,
+	});
+	$('.str1').raty({
+	  half  : true,
+	  score : 1,
+	  readOnly	: true,
+	});
+	$('.str1_5').raty({
+	  half  : true,
+	  score : 1.5,
+	  readOnly	: true,
+	});
+	$('.str2').raty({
+	  half  : true,
+	  score : 2,
+	  readOnly	: true,
+	});
+	$('.str2_5').raty({
+	  half  : true,
+	  score : 2.5,
+	  readOnly	: true,
+	});
+	$('.str3').raty({
+	  half  : true,
+	  score : 3,
+	  readOnly	: true,
+	});
+	$('.str3_5').raty({
+	  half  : true,
+	  score : 3.5,
+	  readOnly	: true,
+	});
+	$('.str4').raty({
+	  half  : true,
+	  score : 4,
+	  readOnly	: true,
+	});
+	$('.str4_5').raty({
+	  half  : true,
+	  score : 4.5,
+	  readOnly	: true,
+	});
+	$('.str5').raty({
+	  half  : true,
+	  score : 5,
+	  readOnly	: true,
+	});
+});
+$(function() {
+    	$( "#selectable" ).selectable();
+  	});
+$(function() {
+      priceSet(0,parseInt($('#endPrice').val()),parseInt($('#minPrice').val()),parseInt($('#maxPrice').val()));
+  });
+</script>
+
+
+
+</body></html>
