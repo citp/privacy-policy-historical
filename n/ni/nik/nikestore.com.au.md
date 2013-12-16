@@ -1,87 +1,142 @@
-> *The following text is extracted and transformed from the nikestore.com.au privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322221137id_/http%3A//www.nikestore.com.au/www/585/1001127/displayarticle/1001357.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikestore.com.au privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216040342id_/http%3A//www.nikestore.com.au/get-help/profile/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nikestore.com.au – Nike Australia’s Official Online Store
+# Privacy Policy
 
-Nike is strongly committed to protecting your privacy while interacting with our content, products and services. We want to provide a safe and secure environment. 
+_Effective July 31, 2013_
 
-The purpose of this Privacy Policy is to tell you what kind of information we may gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our policy allows you to choose what kind and how much information you provide to us and to control how we use whatever information you give us. Our goal is to provide you with a satisfying experience while allowing you to control your privacy and to give you a means to voice any questions or concerns you may have. 
+_ _ This NIKE Digital Privacy Policy ( ** _Privacy Policy_** ) describes how NIKE Australia Pty Ltd ( ** _NIKE_** or **_we_** ) collects and uses your information through a variety of digital means. By accessing or using this website, or mobile application or other NIKE product or service accessed or downloaded via this website, on any computer, mobile phone, tablet, console or other device (collectively, **_Device_** ), by registering a profile or by ordering a product, you consent to our Privacy Policy. NIKE may modify this Privacy Policy at any time effective upon its posting on this website. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](https://web.archive.org/get-help/profile/terms-of-use).
 
-This policy applies only to Nike and not to other companies' or organisations' websites to which Nike is linked. 
+While this Privacy Policy is intended to generally describe our privacy practices, our goal is to also provide more detailed information at times when it's most meaningful to you. Please look for these notices within our NIKE services.
 
-Collecting Information  
-Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. For more information, see "Cookies and Pixel Tags" section below.
+## COLLECTING INFORMATION
 
-We request information from you (which may include name, address, telephone number, email address, gender and when necessary, credit card information) when you:
+If you do not provide us with information described below, we may not be able to provide you with the services you require.
 
-  * Register 
-  * Purchase 
-  * Request to receive communications 
-  * Participate in a promotion or other website feature
+**What You Give Us**
 
+We collect information you give us or permit us to access. Information may include, but is not limited to, your name, image, birth date, email and physical address, telephone number, gender, contact lists, social media information and profile, location (GPS) information, activity and performance information, user reviews and when necessary, credit card information.
 
+**What We Collect From You**
 
-In order to better understand your preferences and better serve you, we may combine information you give us online with other information from Nike sources, transactions and communications. This may include data from Nike stores, direct mail, events, or online marketing. We may also combine that information with data that is publicly available and data that we receive from other reputable sources. This data may include postal address updates and demographic data. All data combined and stored with online data is protected by this privacy policy.
+We may automatically collect information regarding your interaction with, and use of, our products and services. Information we may collect includes, but is not limited to, your telephone number, Device identifier and hardware information, IP address, browser type and language, cookie information, system type, whether you have enabling software to access certain features, access times, referring website URLs, information about your purchases and use of this website and other information about your interactions with us.
 
-Using Information  
-We may use the information we collect to:
+**What We Collect From other NIKE Interactions and Third Parties**
 
-  * Customize and/or personalize your communications and shopping experience 
-  * Better respond to your customer service inquiries 
-  * Communicate with you about your purchase, account information, or customer service needs 
-  * Communicate with you about our products and events, and for other promotional purposes 
-  * Improve our business 
-  * Administer contests, promotions, surveys or other website features
+We may combine information you give us with other information from NIKE sources, transactions and communications. This may include, but is not limited to, information from NIKE stores (including those that are outside the NIKE Family (see definition below)), direct mail, catalogs, events, products and applications, or other NIKE interactions. We may also combine that information with data that is publicly available and data from third parties. We also collect information about gift recipients provided by the giver.
 
+**Children's Privacy**
 
+We do not knowingly collect or solicit personal information from or about children under 13 years old.
 
-If you purchase a product from [www.nikestore.com.au](http://www.nikestore.com.au/) you can choose to be added to our direct mail list.
+**Links to other sites**
 
-Sharing Information  
-For the purpose of operating our business, there will be occasions where it will be necessary for Nike to disclose your personal information to third parties. We may transfer information between Nike and our preferred service providers who use that information only to conduct Nike business. For example, they may handle Nike's credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We may also share your information to administer a website feature (e.g., music download or race registration) and in that case will notify you before you give us your information. We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information.
+This website may contain links to other websites, including websites operated by other members of the NIKE Family.  NIKE is not responsible for the privacy practices or the content of such other websites.  The privacy policies applicable to such other websites may differ substantially from this Privacy Policy so we advise you to read them before using those websites.  NIKE will not be liable for any use of those websites.
 
-On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
+## USING INFORMATION
 
-Under no circumstances will Nike sell or receive payment for licensing or disclosing your personal information. 
+We may use your information for the following purposes:
 
-Security- Protecting Your Information  
-Nike operates secure data networks using a 3rd Party Vendor [Powerfront Pty Ltd](http://www.nikestore.com.au/scripts/redir.asp?link=http%3A//www.powerfront.com/) that are designed to protect your privacy and security. We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure.
+Enable Your Use
 
-Cookies and Pixel Tags **  
-**A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online browsing and shopping experience.
-
-For example, we use cookies to:
-
-  * Remember the items in your Shopping Cart 
-  * Recognize you when you return to our website 
-  * Analyse visitor behaviour
+  * Enhance, customize and personalize your NIKE experiences and communications.
+  * Enable you to use NIKE features, such as running routes, race registrations, placing an order, setting up a profile, posting a user review and other activities.
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. 
+Operate, Improve and Analyze
 
-We also use pixel tags - tiny graphic images - to help us analyse your online behaviour. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us.
+  * Operate, provide, improve and maintain NIKE's products and services, including analyzing user behavior and trends.
+  * Send you administrative messages and other information about NIKE. Communicate with you about your purchase, account information or customer service.
+  * Send you or a gift recipient a product ordered through the Platform.
 
-We may use pixel tags to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
-We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising. 
 
-Unsubscribing, Removing or Modifying Your Information  
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Nike or would like to update or change your personal information or preferences, follow the instructions below.
+Provide and Conduct Marketing and Promotions
 
-To unsubscribe from an email, please follow the instructions in any email you receive. You can also send a request. Be sure to include your first and last name and account email address in the "message" box.
+  * Communicate with you about our products, services and events, and for other promotional purposes.
+  * Administer contests, promotions, events, surveys or other features.
+  * Display relevant marketing to you.
 
-If you would like your name and address removed from Nike's direct mailing list or if you would like to update your mailing information, you can email us a request. Be sure to include your first and last name and mailing address in the "message" box.
 
-Please note, if you have unsubscribed from any Nike communications, due to production schedules, you may receive communications already in production. Also, if you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.
 
-Children's Privacy  
-We do not knowingly collect personal information from children under 13.
+## SHARING INFORMATION
 
-Policy Changes  
-We may change our privacy policy from time to time. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy was last modified on July 1, 2009.
+**NIKE Family**
 
-Questions, Feedback or Concerns  
-We welcome your questions, comments, and concerns about privacy. Please contact us via the ‘[contact us](http://www.nikestore.com.au/www/585/1001127/displayarticle/1001448.html)’ link on the website or by calling the Nike Contact Centre on 1300 440 134. 
+We may provide your information to NIKE, Inc. companies and affiliates, including Converse and Hurley ( ** _NIKE Family_** ), some of which may be outside Australia. NIKE Family entities will use your information for the same purposes that we do.
 
-Terms and Conditions  
-Please also visit our [Terms and Conditions](http://www.nikestore.com.au/www/585/1001127/displayarticle/1001358.html) section that explains other terms governing the use of our website.
+**NIKE Store Operators**
+
+We may provide your information to operators outside the NIKE Family of stores that sell NIKE products for data management, email distribution, market research, information analysis, and promotions.
+
+**Gift Recipients**
+
+We may provide your information to recipients of products you order as gifts.
+
+**Service Providers**
+
+We may transfer your information to NIKE Family's service providers to conduct our business. For example, they may handle credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We may also share your information to administer features (eg, music download, race registration, or workout routine).
+
+**By Law or to Protect Rights**
+
+We may disclose information upon governmental request, in response to a court order, when required by law, to enforce our policies, or to protect our or others' rights, property or safety. We may share information to prevent illegal uses of NIKE's products and services or violations of the [Terms and Conditions](https://web.archive.org/get-help/profile/terms-of-use), or to defend ourselves against third‑party claims. We may also share information with companies assisting in fraud protection or investigation.
+
+**Business Transfers**
+
+Your information may be transferred to a third party as a part of our business assets in a sale of a part or all of NIKE. If this should happen, notice will be provided by posting to the website or other form of communication.
+
+## PUBLIC SHARING
+
+**Default Sharing**
+
+When you join or use certain services, you agree to publicly share a basic amount of information, which may include your username, city location, and profile picture.
+
+**Sharing You Choose**
+
+You may choose to share certain information. In order to participate in certain features, you may have to adjust your privacy settings and share more information. You may also choose to share your activity on other platforms, such as Facebook and Twitter. Please read the privacy policies of those platforms, because your NIKE activity published on those platforms will no longer be governed by NIKE's Privacy Policy.
+
+**NIKE Sharing**
+
+Information that is publicly shared may be used by NIKE for promotional purposes.
+
+**Disclosure of information outside Australia**
+
+We may disclose your information outside Australia to members of the NIKE Family or our service providers located in New Zealand, the United States and various other countries from time to time.
+
+**Protecting Information**
+
+_Security Measures_
+
+We use a variety of security measures, including encryption and authentication tools, to help protect your information. NIKE operates secure data networks using third party vendors. We use secure servers when you place orders. All credit card information you supply is transmitted via Secure Socket Layer ( ** _SSL_** ) technology and then encrypted within our, or our service providers, databases.
+
+_No Guarantee_
+
+However, like other companies, NIKE cannot guarantee the security or confidentiality of the information you provide to us.
+
+## COLLECTION TOOLS
+
+**How We Collect Information**
+
+NIKE automatically collects information within our products and services or stored by your browser or Device. We use a variety of methods to collect this information, including, but not limited to, cookies and pixel tags/web beacons ( ** _Collection Tools_** ).
+
+**Turning off Collection Tools**
+
+If you turn off certain Collection Tools, you may not have access to many features that make your experience more efficient and some of our services and features may not function properly. However, you can still place product orders over the telephone by contacting our customer service.
+
+## CHOICES
+
+**Modifying or Deleting Your Information**
+
+You can modify or delete your profile within certain NIKE services, through your account. Your information previously posted may still be publicly viewable. NIKE may keep information and content in our backup files and archives.
+
+You may also seek access to or correction of the personal information we hold about you by contacting us in one of the ways described on the [Contact Us](https://web.archive.org/get-help/contact-us) page.
+
+If you wish to complain about a breach of an applicable data protection or privacy law, you can contact us in writing or by email (see the [Contact Us](https://web.archive.org/get-help/contact-us) page). Please include your name, address and/or email address when you contact us, as well as the nature of the complaint and all relevant information to assist us in responding to your complaint. We will acknowledge your complaint as soon as practicable after receiving your correspondence or email, and will let you know the next steps in dealing with your complaint. You may also be entitled to make a complaint to the Office of the Australian Information Commissioner.
+
+**Communication/Unsubscribe/Opt-Out**
+
+To unsubscribe and stop receiving messages, please change your settings or follow the instructions in the email, text message, notification or other message type. If you have unsubscribed from any NIKE communications, due to production schedules, you may receive communications already in production. Regardless of the settings you select, NIKE may send you service‑related communications.
+
+## TERMS OF USE
+
+Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our [Terms of Use](https://web.archive.org/get-help/profile/terms-of-use). Please visit our [Terms of Use](https://web.archive.org/get-help/profile/terms-of-use), which explains other terms governing the use of our products and services.
