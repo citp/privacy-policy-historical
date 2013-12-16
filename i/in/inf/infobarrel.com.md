@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infobarrel.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513170436id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobarrel.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216022912id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - InfoBarrel
 
-By  Oct 27, 2008 Edited Jun 23, 2011 1 0
+By  Oct 27, 2008 Edited Nov 16, 2013 1 0
 
 ## Infobarrel.com Privacy Policy
 
@@ -47,6 +47,3 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please call us at 604-992-9697 or send us an email via our [contact form](https://web.archive.org/Contact_Us).
-
-  
-
