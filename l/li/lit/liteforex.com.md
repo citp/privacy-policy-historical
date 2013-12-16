@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623195340id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216093853id_/http%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
@@ -13,15 +13,19 @@
 
 LiteForex respects each individual's right to privacy
 
-[ Opentrading account ](https://secure.liteforex.com/en/profile/register)
-* [About us](https://web.archive.org/company/)
-* [Our history](https://web.archive.org/company/history/)
-* [Mission](https://web.archive.org/company/mission/)
-* [Advantages](https://web.archive.org/company/advantages/)
-* [Аchievements](https://web.archive.org/company/achievements/)
-* [Company news](https://web.archive.org/trading/company-news/)
-* [Career](https://web.archive.org/career/)
-* [Contacts](https://web.archive.org/contacts/)
+[ Opentrading account ](https://secure.liteforex.com/en/profile/register/)
+
+  * [About us](http://www.liteforex.com/company/)
+  * [Our history](http://www.liteforex.com/company/history/)
+  * [Mission](http://www.liteforex.com/company/mission/)
+  * [Advantages](http://www.liteforex.com/company/advantages/)
+  * [Аchievements](http://www.liteforex.com/company/achievements/)
+  * [Company news](http://www.liteforex.com/trading/company-news/)
+  * [Career](http://www.liteforex.com/career/)
+  * [Contacts](http://www.liteforex.com/contacts/)
+  * [Regulatory documents](http://www.liteforex.com/company/documents/)
+
+
 
 LiteForex respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.
 
