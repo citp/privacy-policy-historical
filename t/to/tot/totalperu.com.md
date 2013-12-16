@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316143608id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216043512id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA Notification for Peru Expat and Travel
-
-| 
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-  
-
-
-* * *
-
-**Top Searches:** • dmca peru • expat iquitos • peru and dmca • peru dmca • classifieds ads in peru • free classifieds in peru • contact privacy information dmca policy • dmca in peru • post classified ads ie • iquitos expat • 4post free classified ads in peru •  
-
-
-| 
 
 * * *
 
@@ -284,15 +264,3 @@ To be effective, the notification must be in writing and contain the following i
 6\. your statement, made under penalty of perjury, that the information contained in your notification is accurate, and that you are the copyright owner or are authorized to act on the owner's behalf.
 
 * * *
-
-| 
-
-**Disclaimer**
-
-Important information.
-
-| This page is part of a social network. People change choose to participate here for personal, commercial or other reasons. Please keep in mind that posts or other information here may be: 1) advertisements and not personal opinions, and 2) that any products or services mentioned here may not work exactly as the promoter describes or promises.
-
-Please verify all claims and use an escrow service for any signficiant purchases.  
-  
----|---
