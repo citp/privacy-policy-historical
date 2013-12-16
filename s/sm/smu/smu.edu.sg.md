@@ -1,51 +1,6 @@
-> *The following text is extracted and transformed from the smu.edu.sg privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602091039id_/http%3A//smu.edu.sg/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smu.edu.sg privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216222858id_/http%3A//smu.edu.sg/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Singapore Management University (SMU)
-
-  * PROGRAMMES
-
-SMU is composed of six distinguished schools, each offering an undergraduate programme that transforms you to your fullest potential.
-
-[](http://smu.edu.sg/taxonomy/degree-type/undergraduate)
-
-Postgraduate studies at SMU are tailored to groom leaders and entrepreneurs through a proven innovative teaching platform and world-class research.
-
-[](http://smu.edu.sg/programmes/%5Bname_1%5D)[](http://smu.edu.sg/taxonomy/degree-type/postgraduate)
-
-Research-oriented individuals and established professionals undertake leading-edge research independently, becoming future thought leaders in specialised fields.
-
-[](http://smu.edu.sg/programmes/%5Bname_1%5D)[](http://smu.edu.sg/taxonomy/degree-type/doctoral)
-
-Management education delivered via collaboration with recognised scholars, industry experts, and teaching specialists.
-
-[](http://smu.edu.sg/programmes/%5Bname_1%5D)[](http://smu.edu.sg/taxonomy/degree-type/executive-development)
-
-Continuing education courses at all six schools across all fields specially developed for busy working professionals.
-
-[](http://smu.edu.sg/programmes/%5Bname_1%5D)[](http://smu.edu.sg/taxonomy/degree-type/professional)
-
-  * RESEARCH & LIBRARY
-
-University-level competencies which span the whole campus
-
-[Perspectives@SMU](http://smu.edu.sg/perspectives "Go to Perspectives@SMU") is an online resource that offers regularly updated business insights, information and research from a variety of sources.
-
-The Case Writing Initiative is a joint venture between the Office of Strategic Planning and Centre for Teaching Excellence to promote case writing and case teaching.
-
-## [TOPICS](http://smu.edu.sg/topics)
-
-See articles, faculty, publications, news and events related to the topics SMU is focusing on.
-
-  * ACADEMICS
-
-  * ABOUT
-
-  * CONNECT
-
-  * INFO FOR
-
-
-
 
 **Singapore Management University Privacy Statement**
 
