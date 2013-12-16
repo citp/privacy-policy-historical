@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usfinancepost.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615020609id_/http%3A//usfinancepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfinancepost.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216142537id_/http%3A//usfinancepost.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Finance Post
+# Privacy Policy - Finance Post
 
 PRIVACY POLICY
 
-#### **Updated February 25, 2013 [ If you have any questions about the Privacy Policy, please[contact](http://usfinancepost.com/contact-us "Contact Us") Finance Post Media through [Contact Us](http://usfinancepost.com/contact-us "Contact Us") page or call 312-422-5546 or FAX: 312-422-5589]**
+####  **Updated February 25, 2013 [ If you have any questions about the Privacy Policy, please[contact](http://usfinancepost.com/contact-us "Contact Us") Finance Post Media through [Contact Us](http://usfinancepost.com/contact-us "Contact Us") page or call (888)-258-8420]**
 
 Welcome to USFinancePost.com (“Website”), an interactive online service operated by The Finance Post News Company and its subsidiaries (“us”, “we”, or “our”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).
 
@@ -63,4 +63,4 @@ I. SOLE STATEMENT
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
 
-#### **Updated February 25, 2013 [ If you have any questions about the Privacy Policy, please  [contact](http://usfinancepost.com/contact-us "Contact Us") Finance Post Media through [Contact Us](http://usfinancepost.com/contact-us "Contact Us") page or call 312-422-5546 or FAX: 312-422-5589]**
+####  **Updated February 25, 2013 [ If you have any questions about the Privacy Policy, please  [contact](http://usfinancepost.com/contact-us "Contact Us") Finance Post Media through [Contact Us](http://usfinancepost.com/contact-us "Contact Us") page or call (888)-258-8420]**
