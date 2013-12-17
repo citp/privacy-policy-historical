@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ztod.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618022557id_/http%3A//www.ztod.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ztod.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217195506id_/http%3A//www.ztod.com/legal/privacy) for the most accurate reproduction.*
 
 # ZTOD Privacy Policy
+
+Return to [ZTOD](http://www.ztod.com/)
 
 This Privacy Policy applies to the following websites: (1) www.ztod.com (collectively, the "Sites", or individually, a "Site"). 
 
@@ -43,10 +45,6 @@ We agree to use commercially reasonable efforts to protect the information you h
 ## Third Party Sources of Information
 
 From time to time and in order to enhance our services, we may supplement the information we receive from you with information we obtain from third party sources. 
-
-## Children
-
-Collect personally identifiable information from them. We encourage parents and legal guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. 
 
 ## Correction/Updating Personal Information
 
