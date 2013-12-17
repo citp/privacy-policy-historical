@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1-day.co.nz privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516091812id_/http%3A//www.1-day.co.nz/content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-day.co.nz privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217065009id_/https%3A//www.1-day.co.nz/content/PrivacyPolicy) for the most accurate reproduction.*
 
 # 1-day - Privacy Policy
 
@@ -54,7 +54,7 @@ Your credit card details are not held by 1-day and cannot be accessed by 1-day s
   * 1-day Gift Vouchers are not redeemable for cash.
   * 1-day Gift Vouchers are not refundable.
   * Valid up until the date recorded on the front of the Gift Voucher.
-  * Recipients may only use 1-day Online Gift Vouchers for purchases online at [www.1-day.co.nz](http://www.1-day.co.nz/) or [www.1-daytee.co.nz](http://www.1-daytee.co.nz/).
+  * Recipients may only use 1-day Online Gift Vouchers for purchases online at [www.1-day.co.nz](http://www.1-day.co.nz/)
   * The Gift Voucher will not be replaced if lost, stolen, or destroyed.
   * Each Gift Voucher is identified by individual code that must not be changed or copied by purchaser.
   * The purchaser is not allowed to transfer, re-assign, or re-sell Gift Voucher.
