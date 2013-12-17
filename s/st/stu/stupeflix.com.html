@@ -1,21 +1,123 @@
-<!--The following is the downloaded HTML source of the stupeflix.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618093531id_/http%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stupeflix.com privacy policy that was archived on 2013-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217025239id_/http%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head profile="http://www.w3.org/2005/10/profile">
+  
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script>
+  var BrowserFeatures = {
+    UPDATE_YOUR_BROWSER_URL: "/en/update-your-browser/",
+
+    "xhr2": function(){
+      // all three of these details report consistently across all target browsers:
+      return ((!!(window.ProgressEvent))
+        || (!!(window.FormData))
+        || (window.XMLHttpRequest && "withCredentials" in new XMLHttpRequest()));
+    },
+
+    "canvas": function() {
+        var elem = document.createElement('canvas');
+        return !!(elem.getContext && elem.getContext('2d'));
+    },
+
+    "inputPlaceholder": function(){
+      return "placeholder" in document.createElement("input");
+    },
+
+    "textareaPlaceholder": function(){
+      return "placeholder" in document.createElement("textarea");
+    },
+
+    "touchevents": function(){
+      return ('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch;
+    },
+
+    "inlinesvg": function(){
+      var div = document.createElement('div');
+      div.innerHTML = '<svg/>';
+      return (div.firstChild && div.firstChild.namespaceURI) == "http://www.w3.org/2000/svg";
+    },
+
+    "transform2D": function(){
+      var prefixes = 'transform WebkitTransform MozTransform OTransform msTransform'.split(' ');
+      var el = document.createElement('div');
+      var support = false;
+
+      prefixes.forEach(function(prefix){
+        if(!support) support = document.createElement('div').style[prefix] !== undefined;
+      });
+
+      return support;
+    },
+
+    "html5video": function(mimeType){
+      var video = document.createElement('video');
+      if(mimeType !== undefined) return video !== undefined && video.canPlayType(mimeType) !== "";
+      return video !== undefined;
+    },
+
+    "html5audio": function(mimeType){
+      var audio = document.createElement('audio');
+      if(mimeType !== undefined) return audio !== undefined && audio.canPlayType(mimeType) !== "";
+      return audio !== undefined;
+    },
+    
+    support: function(requirements){
+      var supported = true;
+      var features = requirements.split(/\s*,\s*/);
+      for(var i=0, l=features.length; i < l; i++){
+        if(features[i]){
+          var params = features[i].split(":");
+          var name = params.shift();
+          supported &= (this[name] && this[name].apply(undefined, params));
+        }
+      }
+      return supported;
+    },
+
+    require: function(requirements){
+      if(!this.support(requirements)){
+        window.location.replace(this.UPDATE_YOUR_BROWSER_URL.concat(
+          "?browser-requirements=",encodeURIComponent(requirements),
+          "&next=",encodeURIComponent(window.location.href)));
+      }
+    }
+  };
+
+  (function(){
+    var url = window.location.toString();
+    function GET(name){
+      var res = (new RegExp("(\\?|&)"+name+"=([^&]+)(&|$)")).exec(url);
+      if(res) return decodeURIComponent(res[2]);
+    }
+    var requirements = GET("browser-requirements");
+    if(requirements){
+      if(BrowserFeatures.support(requirements)){
+        window.location.replace(GET("next") || "/");
+      }
+    }else{
+      BrowserFeatures.require("");
+    }
+  })();
+</script>
+
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="format-detection" content="telephone=no">
+  <meta name="apple-itunes-app" content="app-id=694164275">
   
   
   <title>Privacy Policy - Stupeflix</title>
-  <link rel="icon" type="image/png" href="//dhkqztuxzrxqf.cloudfront.net/platform/favicon.png">
-  <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Indie Flower&amp;subset=latin">
-  <link type="text/css" rel="stylesheet" href="/static/fonts.css">
 
   
-  <link rel="stylesheet" href="//dhkqztuxzrxqf.cloudfront.net/studio/builds/studio-6bd21fa130a7c5bd6358f63c85a58dd7.css" type="text/css" charset="utf-8">
-  <link rel="stylesheet" href="//dhkqztuxzrxqf.cloudfront.net/player/1.34/style-min.css" type="text/css" charset="utf-8">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/player/1.34/player-min.js"></script>
+  
+  <link rel="shortcut icon" href="//dhkqztuxzrxqf.cloudfront.net/platform/favicon.ico">
+  <link rel="stylesheet" href="/static/builds/fonts-1e5b3ff01eb32ae0c31ff0eba9c731ea.css" type="text/css" charset="utf-8">
+
+  
+  <link rel="stylesheet" href="//dhkqztuxzrxqf.cloudfront.net/studio/builds/studio-d050be61c24f72caaddec4786af47616.css" type="text/css" charset="utf-8">
+  <link rel="stylesheet" href="//dhkqztuxzrxqf.cloudfront.net/player/1.36/style-min.css" type="text/css" charset="utf-8">
+<script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/player/1.36/player-min.js"></script>
   <script type="text/javascript" src="/jsi18n/studio/"></script>
   
   
@@ -79,24 +181,23 @@ _gaq.push(['_trackPageview']);
 
 </script>
 
-</head>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+
+<body class=" thin terms_page">
+<div id="fb-root"></div>
 
 
-
-  <body class=" thin terms_page">
-  <div id="fb-root"></div>
   
-  
-    <div id="page">
-      
+  <div id="page">
+    
 <div id="topnav"><div class="inner">
-  <a href="/" id="logo" title="Stupeflix"><img src="//dhkqztuxzrxqf.cloudfront.net/studio/images/stupeflix small.png" alt="Logo Stupeflix"></a>
+  <a href="/" id="logo" title="Stupeflix">Stupeflix</a>
   <div class="navigation">
   
     <a class="nav-item nav-link" href="/en/features/">Features</a>
     <a class="nav-item nav-link" href="/en/gallery/">Gallery</a>
     <a class="nav-item nav-link" href="/en/pricing/">Pricing</a>
-    <a class="nav-item nav-link" href="http://ios.stupeflix.com?tn=1" target="_blank">iPhone</a>
+    <a class="nav-item nav-link" href="http://replayapp.com?tn=1" target="_blank">iPhone</a>
     <a class="nav-item nav-link" href="/accounts/login/">Log In</a>
   
     <div class="nav-item create">
@@ -120,11 +221,11 @@ _gaq.push(['_trackPageview']);
 
 
 
-      
+    
 <div id="messages" style="height: 0px"></div>
 
-      <div id="body"><div class="inner">
-      
+    <div id="body"><div class="inner">
+    
   
   <div class="page longtext">
     
@@ -207,10 +308,10 @@ _gaq.push(['_trackPageview']);
     
   </div>
 
-      </div></div>
-      <div id="largeFooterPlaceHolder"></div>
-    </div>
-    
+    </div></div>
+    <div id="largeFooterPlaceHolder"></div>
+  </div>
+  
 <div id="footer" class="large-footer">
 
   <div id="footer-navigation-button" class="footer-navigation-button">
@@ -233,7 +334,7 @@ _gaq.push(['_trackPageview']);
         <li><a href="/en/realestate/">Real Estate</a></li>
         <li><a href="/en/education/">Education</a></li>
         <li><a href="http://developer.stupeflix.com/" target="_blank">Developers</a></li>
-        <li><a href="http://ios.stupeflix.com?ft=1" target="_blank">iPhone</a></li>
+        <li><a href="http://replayapp.com?ft=1" target="_blank">iPhone</a></li>
       </ul>
       
       <ul>
@@ -273,10 +374,11 @@ _gaq.push(['_trackPageview']);
 
 
   
-  
-  
-    <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/platform/builds/platform-994e589189f2245b69c7081c7e1d92b3.js"></script>
-    <script type="text/javascript" charset="utf-8">
+
+
+
+  <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/platform/builds/platform-269067585f087417d81a06931eb4311e.js"></script>
+  <script type="text/javascript" charset="utf-8">
   if(Platform.BrowserFeature.support("touchevents")){
     window.document.body.addClass("touchevents"); // Add touch support class on body
     window.addEvent("load", function(){
@@ -284,9 +386,9 @@ _gaq.push(['_trackPageview']);
     });
   }
 </script>
-    <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/studio/builds/studio-3e7aafb751289fba14dd693d061e75a3.js"></script>  
-    
-    
+  <script type="text/javascript" charset="utf-8" src="//dhkqztuxzrxqf.cloudfront.net/studio/builds/studio-5958160f8b597e0203fe904288300418.js"></script>  
+  
+  
 <script type="text/javascript" charset="utf-8">
 
   
@@ -308,24 +410,23 @@ Mobile.NavigationManager.register($("topnav-mobilenav-button"), $("topnav-mobile
 
 </script>
 
-    <script type="text/javascript" charset="utf-8">
-      Studio.enableTips();
-    </script>
-  
-  
-  <script type="text/javascript">
-    window.addEvent("load", function() {
-      var request = new Request({
-        url: '/core/log-client-rendering-time/',
-        data: {
-          'view_name': 'studio_marketing_views__privacy_policy__GET',
-          'start_time': '1371548131.36'
-        }
-      });
-      request.send();
-    });
+  <script type="text/javascript" charset="utf-8">
+    Studio.enableTips();
   </script>
 
 
 
-</body></html>
+<noscript>
+  <div id="no-script">
+    <div id="topnav_naked"><div class="inner">
+  <a href="/" id="logo" title="Stupeflix">Stupeflix</a>
+</div></div>
+
+    <div class="container">
+      <p>This website requires javascript to be enabled.</p>
+      <a target="_blank" href="http://www.activatejavascript.org/">Please enable javascript in your web browser</a>
+    </div>
+  </div>
+</noscript>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","cedafdc7e2","2565365","NlxbMEcFXhdRUxUMVg8WfxFbB0QNX15OFk0UXVALGwlRFltVFQxXBhdPDVATQ15AQggTWAJAZhRaCFkHSQ==",0,46,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
