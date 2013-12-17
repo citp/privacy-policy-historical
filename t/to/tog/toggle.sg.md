@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toggle.sg privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318045457id_/http%3A//www.toggle.sg/static.aspx%3Fdesc%3DPrivacy%2BPolicy%26Page%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggle.sg privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217173204id_/http%3A//www.toggle.sg/static.aspx%3Fdesc%3DPrivacy%2BPolicy%26Page%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,3 +61,7 @@ This policy is subject to any existing laws of the Republic of Singapore in rela
 ####  Contact MediaCorp Pte Ltd
 
 If you would like to contact us for any reason regarding our privacy policy or practices, please send your e-mail to [support@toggle.sg](mailto:support@toggle.sg)
+
+Should you require any other queries, please send an email to [enquiry@toggle.sg](mailto:enquiry@toggle.sg), call us at +65 6388 3888, or write to Toggle Customer Care, Caldecott Broadcast Centre, Andrew Road Singapore 299939. 
+
+To unsubscribe from our email newsletter, please email to [enquiry@toggle.sg](mailto:enquiry@toggle.sg) and type "Unsubscribe". 
