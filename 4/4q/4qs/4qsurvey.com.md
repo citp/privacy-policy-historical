@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4qsurvey.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606104120id_/http%3A//www.4qsurvey.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4qsurvey.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217163955id_/http%3A//www.4qsurvey.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPerceptions
 
