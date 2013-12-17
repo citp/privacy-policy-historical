@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestead-and-survival.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617172649id_/http%3A//homestead-and-survival.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestead-and-survival.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217195238id_/http%3A//homestead-and-survival.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Homestead and Survival
 
