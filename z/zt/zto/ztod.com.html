@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ztod.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618022557id_/http%3A//www.ztod.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ztod.com privacy policy that was archived on 2013-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217195506id_/http%3A//www.ztod.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -11,18 +11,51 @@
   <meta name="description" content="ZTOD Privacy Policy">
   <meta name="keywords" content="">
 
-  <link rel="shortcut icon" href="/img/site/ztod/favicon.ico">
+  <link rel="shortcut icon" href="/media/ztod/favicon.ico">
 
-    <link href="http://www.ztod.com/css/default/fonts.css" media="all" type="text/css" rel="stylesheet">
+    
+    <link href="/css/fonts.css" media="all" type="text/css" rel="stylesheet">
 
-        <link href="http://static.cdn.ztod.com/css/ztod/main-min.1371464521.css" media="all" type="text/css" rel="stylesheet">
+        <link href="http://static.cdn.ztod.com/css/main-min.1386614157.css" media="all" type="text/css" rel="stylesheet">
   
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://static.cdn.ztod.com/js/default/jwplayer.5.10/jwplayer.js"></script>
+    <link href="http://static.cdn.ztod.com/themes/ztod_black/main.1383936251.css" media="all" type="text/css" rel="stylesheet">
 
-    <script src="http://static.cdn.ztod.com/js/default/modernizr.custom.80111.js"></script>
+    
+  <!--[if IE 6]>
+    <link rel="stylesheet" href="/css/default/jquery.lightbox.ie6.css">
+  <![endif]-->
+
+  <!--[if IE 7]>
+    <link rel="stylesheet" href="/css/default/font-awesome-ie7.min.css">
+  <![endif]-->
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    if (typeof prev_sw == 'undefined') prev_sw = 0;
+    function checkSize() {
+      mobile = (sw < 641) ? true : false,
+      tabletPortrait = (sw > 640 && sw < 769) ? true : false,
+      tabletLandscape = (sw > 768 && sw < 1025) ? true : false,
+      desktop = (sw > 1024) ? true : false;
+
+      //If mobile specific site
+      if ("" == "mobile") {
+        mobile = true;
+        tabletPortrait = tabletLandscape = desktop = false;
+      }
+
+      //If tablet specific site
+      if ("" == "tablet") {
+        tabletPortrait = true;
+        mobile = tabletLandscape = desktop = false;
+      }
+    }
+    sw = document.documentElement.clientWidth;
+    checkSize();
+    prev_sw = sw;
+  </script>
 
 </head>
-  <body>
+  <body class="">
 
         <!-- MOBILE MENU -->
 <div id="js-flyout-menu" class="flyout-menu" style="display:none;">
@@ -32,8 +65,8 @@
       <li><a href="http://www.ztod.com/videos/highest-rated">Highest Rated</a></li>
       <li><a href="http://www.ztod.com/videos/most-viewed">Most Viewed</a></li>
             <li><a href="http://www.ztod.com/videos/coming-soon">Coming Soon</a></li>
-            <li><a href="http://www.ztod.com/videos">All Videos</a></li>
-    <li class="title">DVDS:</li>
+                  <li><a href="http://www.ztod.com/videos">All</a></li>
+          <li class="title">DVDS:</li>
       <li><a href="http://www.ztod.com/features/most-recent">Most Recent</a></li>
       <li><a href="http://www.ztod.com/features/highest-rated">Highest Rated</a></li>
       <li><a href="http://www.ztod.com/features/most-viewed">Most Viewed</a></li>
@@ -47,28 +80,25 @@
             <li><a href="http://www.ztod.com/pornstars">All Pornstars</a></li>
       </ul>
 </div>
+
     <div id="js-content" class="content">
-      <header class="clearfix">
+      <div id="header" class="clearfix">
   <div class="wrapper">
 
     <!-- Touch Menu Button -->
     <div class="icon-reorder btn-mheader js-menu-btn visible-mobile"></div>
 
     <!-- LOGO -->
-    <a href="http://www.ztod.com/" class="logo"><img src="http://static.cdn.ztod.com/img/site/ztod/logo.png" alt="ZTOD brought to you by Zero Tolerance - we love porn"></a>
-
-    <div class="float-right">
-      <!-- Touch Search Button -->
-            <!-- Touch Login Button -->
-              <a href="http://www.ztod.com/login" class="btn-mheader visible-mobile" style="padding-top:0;padding-bottom:0;font-size:1.1em;line-height:3.3;">Login</a>
-        <a href="http://www.ztod.com/join" class="join sprite-main sprite-header-join visible-mobile">Join</a>
+          <a href="http://www.ztod.com/" class="logo"><img src="http://static.cdn.ztod.com/img/logo.1382614108.png" alt="ZTOD brought to you by Zero Tolerance - we love porn"></a>
+        <div class="float-right">
+                    <a href="http://www.ztod.com/login" class="btn-mheader visible-mobile" style="padding-top:0;padding-bottom:0;font-size:1.1em;line-height:3.3;">Login</a>
+        <a href="http://www.ztod.com/join" class="btn-mheader join sprite-main sprite-header-join visible-mobile">Join</a>
           </div>
 
-    <nav class="hidden-mobile">
-            <a href="http://www.ztod.com/join" class="join sprite-main sprite-header-join">Join</a>
-            <ul id="menu">
+    <div class="nav hidden-mobile">
+      <ul id="menu">
                 <li>
-          <a href="http://www.ztod.com/">Home</a>
+          <a href="http://www.ztod.com/" class="icon"><i class="icon-home icon-2x"></i></a>
         </li>
                 <li>
           <a href="http://www.ztod.com/videos">Scenes</a>
@@ -77,8 +107,8 @@
             <li><a href="http://www.ztod.com/videos/highest-rated">Highest Rated</a></li>
             <li><a href="http://www.ztod.com/videos/most-viewed">Most Viewed</a></li>
                         <li><a href="http://www.ztod.com/videos/coming-soon">Coming Soon</a></li>
-                        <li><a href="http://www.ztod.com/videos">All</a></li>
-          </ul>
+                                    <li><a href="http://www.ztod.com/videos">All</a></li>
+                      </ul>
         </li>
         <li>
           <a href="http://www.ztod.com/features">DVDs</a>
@@ -100,14 +130,17 @@
             <li><a href="http://www.ztod.com/pornstars/highest-rated">Highest Rated</a></li>
             <li><a href="http://www.ztod.com/pornstars/most-viewed">Most Viewed</a></li>
                         <li><a href="http://www.ztod.com/pornstars/coming-soon">Coming Soon</a></li>
-                        <li><a href="http://www.ztod.com/pornstars">All</a></li>
-          </ul>
+                                    <li><a href="http://www.ztod.com/pornstars">All</a></li>
+                      </ul>
         </li>
                   <li>
             <a href="http://www.ztod.com/login">Members</a>
           </li>
+          <li>
+            <a href="http://www.ztod.com/join" class="join">Join</a>
+          </li>
               </ul>
-    </nav>
+    </div>
   </div>
 
     <div class="search-bar js-search-form">
@@ -118,11 +151,14 @@
       </form>
     </div>
   </div>
-</header>      <div class="wrapper">
+</div>
+      <div class="wrapper">
 
-        <nav class="breadcrumb hidden-mobile"><p></p></nav>
+        <nav class="nav breadcrumb hidden-mobile"><p></p></nav>
 
-        <h1>Privacy policy</h1>
+        <p>Return to <a href="http://www.ztod.com/">ZTOD</a></p>
+
+<h1>Privacy policy</h1>
 
 <p>
 	This Privacy Policy applies to the following websites: (1) www.ztod.com (collectively, the "Sites", or individually, a "Site").
@@ -177,11 +213,6 @@
 	From time to time and in order to enhance our services, we may supplement the information we receive from you with information we obtain from third party sources.
 </p>
 
-<h2>Children</h2>
-<p>
-	Collect personally identifiable information from them. We encourage parents and legal guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit.
-</p>
-
 <h2>Correction/Updating Personal Information</h2>
 <p>
 	If a user's personally identifiable information changes (such as phone number), or if a user no longer desires our service, you may contact us to correct or update this information.
@@ -205,41 +236,45 @@
 	<br><br>
 	For www.ztod.com and its related sites, please <a href="mailto:support@ztod.com" rel="nofollow">contact us</a>.
 </p>
+
       </div><!-- /.wrapper -->
-      <footer>
+      <div id="footer">
   <div class="wrapper">
     <div class="row">
     	<div class="col1_of_3">
         <!-- LOGO -->
-        <div class="logo"><img src="http://static.cdn.ztod.com/img/site/ztod/logo.png" alt="ZTOD"></div>
+        <div class="logo"><img src="http://static.cdn.ztod.com/img/logo.1382614108.png" alt="ZTOD"></div>
         <div class="copyright">©Copyright 2002-2013 ztod.com</div>
-        <nav>
+        <div class="nav">
           <div class="no-wrap">
             <ul>
               <li><a href="http://www.ztod.com/videos">Videos</a></li>
               <li><a href="http://www.ztod.com/features">DVDs</a></li>
               <li><a href="http://www.ztod.com/pornstars">Pornstars</a></li>
+              <li><a href="http://www.ztod.com/sitemap/ztod/sitemap.html">Sitemap</a></li>
             </ul>
           </div>
-        </nav>
-        <nav>
+        </div>
+      </div>
+      <div class="col2_of_3">
+                <p>All transactions are handled securely and discretely by our authorized merchants. Please visit <a href="https://segpaycs.com" target="_blank">SEGPAYEU.COM</a>, our authorized sales agent, or please visit <a href="https://www.epoch.com" target="_blank">EPOCH.COM</a>, our authorized sales agent. For your convenience, all subscriptions will automatically recur unless cancelled.</p>
+                <p>All models appearing on this website are 18 years or older. <a href="http://www.ztod.com/legal/2257">Click here</a> for records required pursuant to 18 U.S.C. 2257 Record Keeping Requirements Compliance Statement. By entering this site you swear that you are of legal age in your area to view adult material and that you wish to view such material.</p>
+        <div class="nav">
           <div class="no-wrap">
             <ul>
+              <li><a href="http://webmasters.ztod.com"><b>Webmaster Program</b></a></li>
               <li><a href="http://www.ztod.com/support">Support</a></li>
               <li><a href="http://www.ztod.com/legal/2257">2257</a></li>
               <li><a href="http://www.ztod.com/legal/terms">Terms</a></li>
               <li><a href="http://www.ztod.com/legal/privacy">Privacy</a></li>
             </ul>
           </div>
-        </nav>
-      </div>
-      <div class="col2_of_3">
-                <p>All transactions are handled securely and discretely by our authorized merchants. Please visit <a href="https://segpaycs.com" target="_blank">SEGPAYEU.COM</a>, our authorized sales agent, or please visit <a href="https://www.epoch.com" target="_blank">EPOCH.COM</a>, our authorized sales agent. For your convenience, all subscriptions will automatically recur unless cancelled.</p>
-                <p>All models appearing on this website are 18 years or older. <a href="http://www.ztod.com/legal/2257">Click here</a> for records required pursuant to 18 U.S.C. 2257 Record Keeping Requirements Compliance Statement. By entering this site you swear that you are of legal age in your area to view adult material and that you wish to view such material.</p>
+        </div>
       </div>
     </div>
   </div>
-</footer>    </div><!-- /.content -->
+</div>
+    </div><!-- /.content -->
 
         <script type="text/javascript">
       site_domain = 'ztod.com';
@@ -250,21 +285,48 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/js/default/jquery-1.8.0.min.js"><\/script>')</script><script src="/js/default/jquery-1.8.0.min.js"></script>
 
-        <script src="http://static.cdn.ztod.com/js/default/respond.min.js"></script>
+        <script src="http://static.cdn.ztod.com/js/respond.min.1382614108.js"></script>
 
-        <script src="http://static.cdn.ztod.com/js/default/jquery-ui-1.10.3.custom.min.js"></script>
-    <script src="http://static.cdn.ztod.com/js/default/royalslider/jquery.royalslider.min.js"></script>
-    <script src="http://static.cdn.ztod.com/js/default/royalslider/jquery.easing-1.3.js"></script>
-    <script src="http://static.cdn.ztod.com/js/default/select2.js"></script>
-    <script src="http://static.cdn.ztod.com/js/default/imager.js"></script>
-
-              <script src="http://static.cdn.ztod.com/js/ztod/main-min.1371464521.js"></script>
-    
-        
         <link href="/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy">
     <link href="/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect">
     <script src="/cross-domain/respond.proxy.js"></script>
-    
+
+        <script type="text/javascript">
+      //On resize set screen size variables
+      $(window).resize(function () {
+        sw = document.documentElement.clientWidth;
+        checkSize();
+        prev_sw = sw;
+      });
+    </script>
+
+        <script type="text/javascript">
+      function deferJS() {
+
+                  var deferScripts = [
+            'http://static.cdn.ztod.com/js/main-min.1386614154.js',
+            'http://static.cdn.ztod.com/js/select2.1382614108.js',
+            'http://static.cdn.ztod.com/js/imager.1382614108.js',
+          ];
+        
+        for (var i = 0; i < deferScripts.length; i++) {
+          var element = document.createElement("script");
+          element.type = 'text/javascript';
+          element.src = deferScripts[i];
+          document.body.appendChild(element);
+        }
+
+      }
+
+      if (window.addEventListener)
+        window.addEventListener("load", deferJS, false);
+      else if (window.attachEvent)
+        window.attachEvent("onload", deferJS);
+      else
+        window.onload = deferJS;
+    </script>
+
+                
         <script type="text/javascript">
       var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-35129505-1']);
@@ -277,5 +339,7 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     </script>
-  
-</body></html>
+
+          
+
+<script type="text/javascript" src="http://static.cdn.ztod.com/js/main-min.1386614154.js"></script><script type="text/javascript" src="http://static.cdn.ztod.com/js/select2.1382614108.js"></script><script type="text/javascript" src="http://static.cdn.ztod.com/js/imager.1382614108.js"></script></body></html>
