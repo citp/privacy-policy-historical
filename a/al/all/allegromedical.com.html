@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526164859id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2013-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217211633id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -16,8 +16,8 @@
 
 
 	<style type="text/css" media="all">
-		@import "http://static.allegromedical.com/include/css/tandoori.combined.tidy.dss"; 
-		@import "http://static.allegromedical.com/include/css/popupAndAjax.css";
+		@import "http://static.allegromedical.com/include/css/tandoori.combined.tidy.dss?c=13"; 
+		@import "http://static.allegromedical.com/include/css/popupAndAjax.css?c=12";
 	</style>
 
 	<style type="text/css" media="print">@import "http://static.allegromedical.com/include/css/print.css";</style>
@@ -31,9 +31,12 @@
 		return +new Date;
 	}
 	</script>
-	<script type="text/javascript" src="http://static.allegromedical.com/include/js/jquery-1.3.2.min.js"></script>
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	
+	
 	<script type="text/javascript">jQuery.noConflict();</script>
-	<script type="text/javascript" src="http://static.allegromedical.com/include/js/jquery.submenu.js"></script>
+	<script type="text/javascript" src="http://static.allegromedical.com/include/js/jquery.submenu.js?c=12"></script>
 
 	<!--[if lte IE 6]>
 	<style type="text/css">
@@ -55,38 +58,13 @@
 	</script>
 	<![endif]-->
 
-	<script src="http://static.allegromedical.com/include/js/tandoori.combined.yui.js" type="text/javascript"></script>
+	<script src="http://static.allegromedical.com/include/js/tandoori.combined.yui.js?c=12" type="text/javascript"></script>
 
 
-	<script type="text/javascript" src="http://static.allegromedical.com/include/js/jquery.plugins.min.js"></script>
-	<script type="text/javascript" src="http://static.allegromedical.com/include/js/ecat-subscribe.js"></script>
+	<script type="text/javascript" src="http://static.allegromedical.com/include/js/jquery.plugins.min.js?c=12"></script>
+	<script type="text/javascript" src="http://static.allegromedical.com/include/js/ecat-subscribe.js?c=12"></script>
 
 	<script type="text/javascript">
-
-		jQuery(function () {
-			try {
-			if ( 'https:' != document.location.protocol ) {
-			    stickyFooter();
-			
-			    jQuery(window)
-			        .scroll(stickyFooter)
-			        .resize(stickyFooter);
-			    jQuery('#stickyFooterSubscriptionForm').submit( function () {
-				    if ( email_check(jQuery('#stickyFooter #ecatEmail').attr('value')) ) {
-				    	jQuery(".footerSticky-close").trigger('click');
-			    		return true;
-			    	}
-			    	else {
-				    	jQuery('#stickyFooter #ecatEmail').css('color','red');
-				    	jQuery('#stickyFooter #ecatEmail').attr('value','Please enter a valid email address');
-				    	return false;
-			    	}
-			    });
-		    }
-		    }
-		    catch(e) {
-		    }
-		});
 
 		jQuery(document).ready(function () 
 		{
@@ -94,7 +72,7 @@
 			{
 				if ( 'https:' != document.location.protocol ) 
 				{
-				    stickyFooter()
+				    ecatModalPopup();
 			    }
 		    }
 		    catch(e) 
@@ -131,10 +109,10 @@
 					jQuery(".ecatcontent").hide();
 					if (data == "Yes")
 					{
-						_gaq.push(['_trackPageview','/ajax/eCatModalPopup/subscribe']);
+						_gaq.push(['_trackPageview','/' + 'ajax' + '/' + 'eCatModalPopup' + '/' + 'subscribe']);
 						var split = jQuery('#banner-across-top-promo-code').html().split(": ")
 						jQuery(".ecatPromoText").show();
-						jQuery(".ecatPromoText2").html("<span style='color:#FF7F00'>Use gift code </span><span style='color:#000'>" + split[1] + " </span><span  style='color:#FF7F00'>when you checkout.</span>");
+						jQuery(".ecatPromoText2").html("<span style='color:#FF7F00'>Use gift code </span><span style='color:#000'>" + split[1] + " </span><span  style='color:#FF7F00'>when you checkout.</span><BR><span style='font-size: 14px; font-weight:normal; color: #444;'>*Some restrictions may apply. <span style='text-decoration:underline;cursor:pointer; cursor:hand' class='promo-text' onClick='jQuery(\"#greyBoxClose\").click(); setTimeout(function(){jQuery(\".promo-text\").click();}, 750);return false;'>See Details</span>&raquo;</span>");
 						jQuery(".ecatPromoText2").show();
 						jQuery(".ecatModalBk").css('background-image','url(http://static.allegromedical.com/images/browse/modal-subscribed.png)');
 						jQuery(".modalecatclose").attr('onClick',"jQuery('#noecat').click(); ");
@@ -148,6 +126,11 @@
 			});
 		}
 
+		function justClosePopupModal()
+		{
+		    jQuery.cookie("stickyFooter_subscribe", "true", { expires: 182, path: '/' });
+			jQuery("#greyBoxClose").click()		
+		}
 
 
 		
@@ -296,7 +279,7 @@
 
 		function checkSearchBox()
 		{
-			var defText = "Search 35,253 products";
+			var defText = "Search 37,257 products";
 			var str = jQuery.trim(jQuery("#searchfield").val());
 			if (str != "" && str != defText)
 			{
@@ -346,9 +329,8 @@
 			<td class="ajaxMainData" style="background-color: transparent">
 		<div class="ecatModalBk" style="width:695px;height: 355px; background: transparent url('http://static.allegromedical.com/images/browse/modal-offer.png') no-repeat;">
 		<br>
-		
 		<div style="width:695px;height:25px;">
-			<div class="modalecatclose" style="cursor:pointer; cursor:hand; float:right;width:30px; height: 20px;" onclick="jQuery('#greyBoxClose').click();">
+			<div class="modalecatclose" style="cursor:pointer; cursor:hand; float:right;width:30px; height: 20px;" onclick="justClosePopupModal()">
 				<form action="#" method="POST" onsubmit="ajaxSubscribe(this); return false;">
 					<input id="noecat" style="visibility:hidden" type="submit" name="Nope" value="No Thanks">
 					<input type="hidden" name="action" value="No">
@@ -392,18 +374,6 @@
 		<div id="body">
 		
 				<!-- Google Analytics Content Experiment code -->
-				<script>function utmx_section(){}function utmx(){}(function(){var
-				k='44248-8',d=document,l=d.location,c=d.cookie;
-				if(l.search.indexOf('utm_expid='+k)>0)return;
-				function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
-				indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
-				length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
-				'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
-				'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
-				'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
-				valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-				'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
-				</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=44248-8&amp;utmx=&amp;utmxx=&amp;utmxtime=1582530769730" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
 				<!-- End of Google Analytics Content Experiment code -->
 			<div id="navigation">
 					<img id="logo" style="top: 2em;" src="http://static.allegromedical.com/images/logo_standard.jpg" alt="Medical Supplies" usemap="#allegro_logo_map">
@@ -411,7 +381,10 @@
 					<area coords="0,0,273,48" href="/" alt="Medical Supplies">
 					</map>
 				
-<div id="countdowncontainer">	<script type="text/javascript" src="/include/js/jquery.countdown.min.js"></script>
+
+<div id="promoHeaderRotatorDiv">
+	<div>
+<div id="countdowncontainer">	<script type="text/javascript" src="http://static.allegromedical.com/include/js/jquery.countdown.min.js"></script>
 	
 	
 	<script type="text/javascript">
@@ -428,12 +401,12 @@
 		        }, error: function(http, message, exc) {
 		            time = new Date();
 		    }});*/
-		    time = new Date(1369586938929);
+		    time = new Date(1387314993282);
 		    return time; 
 		}
 	
 		jQuery(".banner-countdown-timer .timer").countdown({ 
-			until: new Date(1369638000000),
+			until: new Date(1387522800000),
 			compact: true,
 			format:'DHMS',
 			onExpiry: closePromoTimer,
@@ -445,11 +418,11 @@
 </div>
 <div id="banner-across-top">
         <div id="banner-across-top-promo-info">
-                <div id="banner-across-top-promo-code">Use Gift Code: may5013</div>
+                <div id="banner-across-top-promo-code">Use Gift Code: fsdec13</div>
         	<div class="promo-text hand-cursor" id="banner-across-top-details">*See Details »</div>
-		<div id="banner-across-top-offer-end" style="display:none">Offer Ends 2013-05-27</div>
+		<div id="banner-across-top-offer-end" style="display:none">Offer Ends 2013-12-20</div>
 	</div>
-        <div id="banner-across-top-promo-text">50% OFF LIST - NO MINIMUM PURCHASE</div>
+        <div id="banner-across-top-promo-text">FREE SHIPPING OVER $50</div>
 	<div class="banner-ends-in">Hurry,<br>Ends in:</div>
 	<div class="banner-countdown-timer"><div class="timer"></div></div>
 </div>
@@ -470,7 +443,7 @@
 			<td class="ajaxMainData">
 <br>
 			<div id="promo-text" class="promo-text" style="height:323px;overflow:auto;">
-<div id="gpdiv"><p>50% Off List - No Minimum Purchase. Use gift certificate code <span class="bold">may5013</span> at checkout. Offer Ends Midnight Tonight.</p>
+<div id="gpdiv"><p>FREE Shipping over $50. Use gift certificate code <span class="bold">fsdec13</span> at checkout. Offer Ends Midnight Thursday.</p>
 
 <p>Most products on Allegro Medical qualify for our offers. Due to restrictions the following products have been excluded from all Allegro Medical promotions and offers online:</p>
 
@@ -512,6 +485,30 @@ jQuery(document).ready( function()
 </script>
 	</div>
 
+	</div>
+	
+</div>
+
+<script type="text/javascript" src="http://static.allegromedical.com/include/js/jquery.cycle.full.min.js?c=12"></script>
+
+<script type="text/javascript">
+jQuery(function() {
+	jQuery('#promoHeaderRotatorDiv').cycle({
+		fx: "scrollDown",
+		timeout: 7000,
+		delay:  0,
+		autostop: 0,
+		width: '100%',
+		height: '44px',
+		fit: true,
+		before: function() { 
+			jQuery(this).find('.promoHeaderProductPromo').show(); 
+		}
+	});
+});
+</script>
+
+					
 					<br>
 
 						<div id="cartlinks">
@@ -521,9 +518,6 @@ jQuery(document).ready( function()
 		jQuery(document).ready(function()
 		{
 				//Add elements that contain the selectors for font size changes. These elements are added right after the 'cartlinks' element 
-				jQuery('#font-div').append("<span id='fontlinks'></span>");
-				
-					jQuery('#fontlinks').html("<a onClick='smallFontClick()' href='/siteFontSize.do?value=1&origPath="+window.location.href+"'>Font +</a>");
 				
 				jQuery("#right-menu-cart").hoverIntent(configCartOverlay);
 				jQuery(".cart-overlay").hoverIntent(configCartOverlay);
@@ -639,7 +633,7 @@ jQuery(document).ready( function()
 		}
 </script>
 
-<style>
+<style type="text/css">
 	#right-menu-container {
 		position:absolute; 
 		top:0px; 
@@ -710,14 +704,14 @@ jQuery(document).ready( function()
 
 	.help-overlay {
 		position: absolute;
-	    right: 199px;
+	    right: 152px;
 	    top: 0;
 	    z-index: 999;
    	}
 
 	.acc-overlay {
 		position: absolute;
-	    right: 235px;
+	    right: 189px;
 	    top: 0;
 	    z-index: 999;
    	}
@@ -749,7 +743,7 @@ jQuery(document).ready( function()
 	</div>
 	<div id="right-menu-content">
 		<div id="right-menu-detail">
-			<div style="float:left;width:46%;text-align:center">
+			<div style="float:left;width:59%;text-align:center">
 							<span id="signinlink" style="border: none">
 							<a style="margin-top:37px;" class="bluelink" href="/signIn.do?successPath=%2Fsupport%2FprivacyPolicy.do%3F">Sign In/Register</a></span>
 			</div>
@@ -801,7 +795,7 @@ jQuery(document).ready( function()
 			</div>
 		</div>
 
-		<div class="help-overlay" style="display: none; top: 26px; right: 196px; margin: 0px;padding:8px;  border: 1px solid #AAAAAA; background-color: #fff">
+		<div class="help-overlay" style="display: none; top: 26px; margin: 0px;padding:8px;  border: 1px solid #AAAAAA; background-color: #fff">
 			<a class="gn_main_1_cs_item" title="Order Status" href="/tracking/tracking.do"><span>How do I check my order status?</span></a><br>
 			<a class="gn_main_1_cs_item" title="Return" href="/myaccount/findReturn.do"><span>How do I do a return?</span></a><br>
 			<a class="gn_main_1_cs_item" title="Return Policy" href="/support/returnPolicy.do"><span>What is Allegro's return policy?</span></a><br>
@@ -814,7 +808,7 @@ jQuery(document).ready( function()
 			</div>
 		</div>
 
-		<div class="acc-overlay" style="display: none; top: 26px; right: 218px; margin: 0px;padding:8px;  border: 1px solid #AAAAAA; background-color: #fff">
+		<div class="acc-overlay" style="display: none; top: 26px; right: 176px; margin: 0px;padding:8px;  border: 1px solid #AAAAAA; background-color: #fff">
 			<a class="gn_main_1_cs_item" title="Order Status" href="/tracking/tracking.do"><span>Order status</span></a><br>
 			<a class="gn_main_1_cs_item" title="View Return" href="/myaccount/findReturn.do"><span>View return</span></a><br>
 		</div>
@@ -837,7 +831,7 @@ jQuery(document).ready( function()
 						<div style="width:240px;padding: 7px 0px 0 0">
 							<form action="/browse/browseProducts.do" onsubmit="return checkSearchBox()">
 								<div id="search_fields">
-									<input id="searchfield" style="color:#999" name="searchPhrase" type="text" value="Search 35,253 products" onfocus="if (this.value.indexOf('Search') > -1) { this.value = ''; jQuery('#searchfield').css({color:'#000'}); }" onblur="if (this.value == '') { this.value='Search 35,253 products';  jQuery('#searchfield').css({color:'#999'});} ">
+									<input id="searchfield" style="color:#999" name="searchPhrase" type="text" value="Search 37,257 products" onfocus="if (this.value.indexOf('Search') > -1) { this.value = ''; jQuery('#searchfield').css({color:'#000'}); }" onblur="if (this.value == '') { this.value='Search 37,257 products';  jQuery('#searchfield').css({color:'#999'});} ">
 									<input type="submit" value="Search">
 								</div>
 							</form>
@@ -1036,106 +1030,6 @@ jQuery(document).ready( function()
 				<div style="vertical-align:top;float:left" id="sidebar">
 
 
-	<div id="recentlyViewedItems" class="sidebaritem">
-		<label class="title">
-			Recently Viewed
-		</label>
-
-	<div id="rvMiniProd207273" class="hand-cursor sidebar-prod">
-		<div class="sidebarProductBlock">
-			<a href="/personal-care-c532/t-foam-seat-cushion-t-foam-seat-cushion-p207273.html"><img src="http://images.allegrocentral.com/3D/7E/T-Foam-Seat-Cushion-207273-PRODUCT-SMALL_IMAGE.jpg" alt="T-Foam Seat Cushion" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
-		</div>
-
-		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/personal-care-c532/t-foam-seat-cushion-t-foam-seat-cushion-p207273.html"> T- Foam Seat Cushion</a>
-			
-			<br>
-			<span class="retail-price">$76.50</span>
-			<span class="our-price">$47.81</span>
-				
-
-				
-		</div>
-	</div>
-	<script type="text/javascript">miniProductPageAjax('207273','rvMiniProd207273', 'recentlyViewed', '#000099');</script>
-					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
-
-	<div id="rvMiniProd157461" class="hand-cursor sidebar-prod">
-		<div class="sidebarProductBlock">
-			<a href="/personal-care-c532/comfort-bath-cleansing-system-p157461.html"><img src="http://images.allegrocentral.com/7D/D9/comfort-bath-personal-cleansing-washcloths-4pk-157461-SMALL_0.jpg" alt="Comfort Bath Personal Bathing Wipes - Bathing Wipe Washcloths - 4 Pack" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
-		</div>
-
-		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/personal-care-c532/comfort-bath-cleansing-system-p157461.html"> Comfort Bath Personal Bathing Wipes - Ba...</a>
-			
-			<br>
-			<span class="retail-price">$37.62</span>
-			<span class="our-price">$23.51</span>
-				
-
-				
-		</div>
-	</div>
-	<script type="text/javascript">miniProductPageAjax('157461','rvMiniProd157461', 'recentlyViewed', '#000099');</script>
-					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
-
-	<div id="rvMiniProd562195" class="hand-cursor sidebar-prod">
-		<div class="sidebarProductBlock">
-			<a href="/cushions-covers-backs-c544/gel-e-2-wheelchair-cushions-with-gel-bladder-p562195.html"><img src="http://images.allegrocentral.com/EC/69/gel-e-2-wheelchair-cushions-with-gel-bladder-562195-SMALL_0.jpg" alt="Gel-E 2&quot; Wheelchair Cushions with Gel Bladder " width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
-		</div>
-
-		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/cushions-covers-backs-c544/gel-e-2-wheelchair-cushions-with-gel-bladder-p562195.html"> Gel- E 2" Wheelchair Cushions with Gel B...</a>
-			
-			<br>
-			<span class="retail-price">$66.82</span>
-			<span class="our-price">$41.76</span>
-				
-
-				
-		</div>
-	</div>
-	<script type="text/javascript">miniProductPageAjax('562195','rvMiniProd562195', 'recentlyViewed', '#000099');</script>
-					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
-
-	<div id="rvMiniProd561500" class="hand-cursor sidebar-prod">
-		<div class="sidebarProductBlock">
-			<a href="/catheters-c539/latex-coude-foley-catheter-10ml-p561500.html"><img src="http://images.allegrocentral.com/74/44/latex-coude-foley-catheter-10ml-561500-SMALL_0.jpg" alt="Latex Coude Foley Catheter 10ML 5cc" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
-		</div>
-
-		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/catheters-c539/latex-coude-foley-catheter-10ml-p561500.html"> Latex Coude Foley Catheter 10ML 5cc</a>
-			
-			<br>
-			<span class="retail-price">$14.21</span>
-			<span class="our-price">$8.88</span>
-				
-
-				
-		</div>
-	</div>
-	<script type="text/javascript">miniProductPageAjax('561500','rvMiniProd561500', 'recentlyViewed', '#000099');</script>
-					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
-
-	<div id="rvMiniProd562336" class="hand-cursor sidebar-prod">
-		<div class="sidebarProductBlock">
-			<a href="/bathroom-assists-c517/padded-transfer-bench-and-commode-combo-p562336.html"><img src="http://images.allegrocentral.com/12/C9/padded-transfer-bench-and-commode-combo-562336-SMALL_0.jpg" alt="Padded Transfer Bench and Commode Combo" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
-		</div>
-
-		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/bathroom-assists-c517/padded-transfer-bench-and-commode-combo-p562336.html"> Padded Transfer Bench and Commode Combo</a>
-			
-			<br>
-			<span class="retail-price">$190.27</span>
-			<span class="our-price">$118.92</span>
-				
-
-				
-		</div>
-	</div>
-	<script type="text/javascript">miniProductPageAjax('562336','rvMiniProd562336', 'recentlyViewed', '#000099');</script>
-					<div style="clear:both"></div>
-	</div>
 
 <div>
 	<div id="ecatalog" class="sidebaritem">
@@ -1150,7 +1044,7 @@ jQuery(document).ready( function()
 				<li style="overflow:visible">Coupons</li>
 				<li style="overflow:visible">Unbeatable Deals</li>
 			</ul>
-			<form action="/support/subscriptionCenter.do" method="GET">
+			<form action="https://www.allegromedical.com/support/subscriptionCenter.do" method="post">
 				<div>
 						<input name="email" style="width:155px" type="text" value="enter email address" id="ecatEmail" onfocus="erase(this); return false" onkeyup="updateEcatEmail(this)" onblur="revert(this); return false">
 						<input name="referringPage" type="hidden" id="referringPage" value="%2Fsupport%2FprivacyPolicy.do%3F">
@@ -1164,7 +1058,7 @@ jQuery(document).ready( function()
 						<script type="text/javascript" src="http://static.allegromedical.com/include/js/ecat-subscribe.js"></script>
 				</div>
 			</form>
-			<form action="/support/subscriptionCenter.do" target="_self" method="get"> 
+			<form action="https://www.allegromedical.com/support/subscriptionCenter.do" target="_self" method="opst"> 
 			   <input id="eCatEmail" type="hidden" name="email" value=""><br> 
 			   <input type="submit" value="Manage Subscription"> 
 			</form>
@@ -1443,13 +1337,13 @@ jQuery(document).ready( function()
 		<tbody><tr>
 			<td>
 				<img src="http://static.allegromedical.com/images/icons/secure-reliable-hdr.jpg" alt="Secure &amp; Reliable On-Line Shopping" style="display:block">
-				<a target="_BLANK" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ALLEGROMEDICAL.COM&amp;lang=en"><img src="http://static.allegromedical.com/images/icons/norton-secured-logo.jpg" alt="Verisign"></a>&nbsp;&nbsp;
+				<a target="_BLANK" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ALLEGROMEDICAL.COM&amp;lang=en"><img src="http://static.allegromedical.com/images/icons/norton-secured-logo.jpg" alt="Verisign"></a>
 				<a target="_BLANK" href="https://www.mcafeesecure.com/RatingVerify?ref=www.allegromedical.com"><img src="http://static.allegromedical.com/images/icons/mcafee-secure-logo.jpg" alt="McAfee Secure"></a>
-				<a target="_BLANK" href="http://www.bbb.org/central-northern-western-arizona/business-reviews/hospital-and-medical-equipment-and-supplies/allegro-medical-inc-in-mesa-az-9000823/#bbbonlineclick"><img src="http://static.allegromedical.com/images/icons/bbb-aplus-logo.jpg" alt="BBB Accredited Business"></a>&nbsp;
 				<a href="/support/privacyPolicy.do" rel="nofollow"><img src="http://static.allegromedical.com/images/icons/e-privacy-logo.jpg"></a>
+				<a target="_BLANK" href="http://www.resellerratings.com/store/AllegroMedical"><img src="http://static.allegromedical.com/images/icons/eprivacy-logo-06.jpg" alt="Reseller Ratings"></a>
 			</td>
 			<td style="border-left:1px solid #AAA">
-				<img src="http://static.allegromedical.com/images/icons/follow-am-hdr.jpg" alt="Follow Allegro Medical on Facebook &amp; Twitter" style="display:block">
+				<img src="http://static.allegromedical.com/images/icons/connect-with-us.jpg" alt="Connect with Allegro Medical on Facebook &amp; Twitter" style="margin-left:10px;margin-top:8px;display:block">
 				<a href="http://www.facebook.com/pages/AllegroMedicalcom/74867746000"><img src="http://static.allegromedical.com/images/icons/facebook-logo.jpg" alt="Allegro on Facebook" style="margin-left:9px"></a>
 				<a href="http://twitter.com/#!/AllegroMedical"><img src="http://static.allegromedical.com/images/icons/twitter-logo.jpg" alt="Allegro on Twitter"></a>
 				<a href="/blog/feed"><img src="http://static.allegromedical.com/images/icons/rss-logo.jpg" alt="RSS Logo"></a>
@@ -1494,6 +1388,28 @@ jQuery(document).ready( function()
 
 
 
+	<script type="text/javascript">
+		var google_tag_params = {
+			ecomm_prodid: '',
+			ecomm_pagetype: 'other',
+			ecomm_totalvalue: ''
+		};
+	</script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 1072682089;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072682089/?value=0&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+	
 
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -1503,43 +1419,26 @@ var CID='10205';
 
 <script type="text/javascript">
 	var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-	document.write(unescape("%3Cscript src='" + biJsHost + "s1.listrakbi.com/scripts/script.js?m=ikcdXnlnDIhz&v=1' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s1.listrakbi.com/scripts/script.js?m=ikcdXnlnDIhz&amp;v=1" type="text/javascript"></script>
+	document.write(unescape("%3Cscript src='" + biJsHost + "cdn.listrakbi.com/scripts/script.js?m=ikcdXnlnDIhz&v=1' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://cdn.listrakbi.com/scripts/script.js?m=ikcdXnlnDIhz&amp;v=1" type="text/javascript"></script>
 <script type="text/javascript">
-	_ltk.Click.Submit();
+	
+	if ( "http:" == document.location.protocol ) {
+		jQuery(document).ready( function() {
+			try{
+				_ltk.SCA.CaptureEmail('ecatEmail');
+			}
+			catch(e) {}
+		});
+	}
+	
+	try{
+		_ltk.Click.Submit();
+	}
+	catch(e) {}
 </script>
 
 <!-- END: buySAFE Seal -->
-
-		<div id="stickyFooter">
-		<form action="/support/subscriptionCenter.do" target="_blank" method="get" id="stickyFooterSubscriptionForm">
-			<div class="footerSticky">
-				<div class="footerBar">
-					<div class="outerBdr">
-						<div class="innerBdr">
-							<div id="ctl00_pnlEmailSignup" class="emailSignup">
-							
-							<div class="footerSticky-close">X</div>
-							<div class="footerStickyText">
-							    Join 250,000+ Subscribers. Special Discounts, Coupons &amp; Deals:
-							</div>
-							
-							<input name="email" style="" type="text" class="text" value="enter email address" id="ecatEmail" onfocus="erase(this); return false" onblur="revert(this); return false">
-							<input name="referringPage" type="hidden" id="referringPage" value="%2Fsupport%2FprivacyPolicy.do%3F">
-		  					<input name="action" type="hidden" value="add">
-							<input class="submit" type="submit" value="Signup">
-						
-							<script type="text/javascript" src="http://static.allegromedical.com/include/js/ecat-subscribe.js"></script>
-					
-							</div>
-							<div class="clear">&nbsp;</div>
-							
-						</div>
-					</div>
-				</div>
-			</div>
-		</form>
-		</div>
 
 
 
