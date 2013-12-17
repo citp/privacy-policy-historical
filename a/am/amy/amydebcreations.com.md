@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amydebcreations.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424111252id_/http%3A//amydebcreations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amydebcreations.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217170446id_/http%3A//amydebcreations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
