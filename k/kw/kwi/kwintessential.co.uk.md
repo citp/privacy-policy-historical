@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwintessential.co.uk privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618181837id_/http%3A//www.kwintessential.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwintessential.co.uk privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217234856id_/http%3A//www.kwintessential.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Cookies and Personal Information
 
@@ -93,4 +93,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 **Contact us**
 
-For more information or to clarify any points with regards to our privacy policy, please call 01460 279 900. 
+For more information or to clarify any points with regards to our privacy policy, please call 01460 279 900.
