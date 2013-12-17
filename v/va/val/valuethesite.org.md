@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuethesite.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620120437id_/http%3A//valuethesite.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuethesite.org privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217031928id_/http%3A//valuethesite.org/privacy-policy) for the most accurate reproduction.*
 
 # Valuethesite.org Privacy Policy
 
