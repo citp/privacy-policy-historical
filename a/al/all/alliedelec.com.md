@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliedelec.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424144541id_/http%3A//www.alliedelec.com/customerservice/legalprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedelec.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217211451id_/http%3A//www.alliedelec.com/customerservice/legalprivacy.aspx) for the most accurate reproduction.*
 
 # Allied Electronics - Privacy Policy
 
