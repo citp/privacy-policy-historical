@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicksplat.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618010248id_/http%3A//www.nick-asia.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicksplat.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217185555id_/http%3A//www.nick-asia.com/info/privacy) for the most accurate reproduction.*
 
 # Nick Asia | Privacy Policy
 
