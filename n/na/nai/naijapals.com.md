@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijapals.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618005101id_/http%3A//www.naijapals.com/%3FL%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijapals.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218002421id_/http%3A//www.naijapals.com/%3FL%3Dinfo.privacy) for the most accurate reproduction.*
 
 # Info | Privacy - Naijapals - Naijapals - Naijapals
 
@@ -16,7 +16,7 @@ Data can be collected and processed when our website is in operation by you. The
 Circumstances may arise when we may need to gather information about your computer to help provide appropriate services or products to you. The data gathered is solely statistical data, which may be shared with advertisers.   
 The facts collected about you are statistical only. No identifying information will be shared about our visitors and how they made use of our site. No personal details will ever be shared.   
 Cookies are used to collect general online usage by using a cookie file. If used this cookie file is downloaded without prompting. It will be placed on your hard drive with information transferred to the hard drive allowing the cookies to be used for data collection. A cookie is used to improve any services/ products, or overall website characteristic we offer you.   
-Any computer has the option to decline cookies. Your web browser options include an “enable” button to decline cookies. It is imperative that you understand by declining cookies you may be limiting your access to sections of our website.   
+Any computer has the option to decline cookies. Your web browser options include an ?enable? button to decline cookies. It is imperative that you understand by declining cookies you may be limiting your access to sections of our website.   
 If our advertisers use cookies it will result from a click on their advertisement, and we do not have control over their cookies if used. 
 
 **3\. Use of Your Information**   
