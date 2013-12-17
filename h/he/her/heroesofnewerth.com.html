@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heroesofnewerth.com privacy policy that was archived on 2013-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608123304id_/http%3A//www.heroesofnewerth.com/documents/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heroesofnewerth.com privacy policy that was archived on 2013-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217203659id_/http%3A//www.heroesofnewerth.com/documents/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 		<title>Heroes of Newerth - Documents - Policy</title>
@@ -21,133 +21,133 @@
 		
 		<!-- Javascript -->
 		<script type="text/javascript">
-			$(document).ready(function()
-			{				
-				$('.drop').hover(function(){
-					if ($(this).hasClass('com'))
-						$(this).parent('.mNav').find('.com').addClass('hovering');
-					
-					if ($(this).hasClass('gui'))
-						$(this).parent('.mNav').find('.gui').addClass('hovering');
-						
-					if ($(this).hasClass('sto'))
-						$(this).parent('.mNav').find('.sto').addClass('hovering');
-						
-					if ($(this).hasClass('med'))
-						$(this).parent('.mNav').find('.med').addClass('hovering');
-						
-					if ($(this).hasClass('for'))
-						$(this).parent('.mNav').find('.for').addClass('hovering');
-						
-					if ($(this).hasClass('ser'))
-						$(this).parent('.mNav').find('.ser').addClass('hovering');
-				}, function(){
-					if ($(this).hasClass('com') && $(this).parent('.mNav').find('.com').hasClass('hovering'))
-						$(this).parent('.mNav').find('.com').removeClass('hovering');
-					
-					if ($(this).hasClass('gui') && $(this).parent('.mNav').find('.gui').hasClass('hovering'))
-						$(this).parent('.mNav').find('.gui').removeClass('hovering');
-						
-					if ($(this).hasClass('sto') && $(this).parent('.mNav').find('.sto').hasClass('hovering'))
-						$(this).parent('.mNav').find('.sto').removeClass('hovering');
-						
-					if ($(this).hasClass('med') && $(this).parent('.mNav').find('.med').hasClass('hovering'))
-						$(this).parent('.mNav').find('.med').removeClass('hovering');
-						
-					if ($(this).hasClass('for') && $(this).parent('.mNav').find('.for').hasClass('hovering'))
-						$(this).parent('.mNav').find('.for').removeClass('hovering');
-						
-					if ($(this).hasClass('ser') && $(this).parent('.mNav').find('.ser').hasClass('hovering'))
-						$(this).parent('.mNav').find('.ser').removeClass('hovering');
+				$(document).ready(function()
+				{
+					$('.drop').hover(function() {
+						if ($(this).hasClass('com'))
+							$(this).parent('.mNav').find('.com').addClass('hovering');
+
+						if ($(this).hasClass('gui'))
+							$(this).parent('.mNav').find('.gui').addClass('hovering');
+
+						if ($(this).hasClass('sto'))
+							$(this).parent('.mNav').find('.sto').addClass('hovering');
+
+						if ($(this).hasClass('med'))
+							$(this).parent('.mNav').find('.med').addClass('hovering');
+
+						if ($(this).hasClass('for'))
+							$(this).parent('.mNav').find('.for').addClass('hovering');
+
+						if ($(this).hasClass('ser'))
+							$(this).parent('.mNav').find('.ser').addClass('hovering');
+					}, function() {
+						if ($(this).hasClass('com') && $(this).parent('.mNav').find('.com').hasClass('hovering'))
+							$(this).parent('.mNav').find('.com').removeClass('hovering');
+
+						if ($(this).hasClass('gui') && $(this).parent('.mNav').find('.gui').hasClass('hovering'))
+							$(this).parent('.mNav').find('.gui').removeClass('hovering');
+
+						if ($(this).hasClass('sto') && $(this).parent('.mNav').find('.sto').hasClass('hovering'))
+							$(this).parent('.mNav').find('.sto').removeClass('hovering');
+
+						if ($(this).hasClass('med') && $(this).parent('.mNav').find('.med').hasClass('hovering'))
+							$(this).parent('.mNav').find('.med').removeClass('hovering');
+
+						if ($(this).hasClass('for') && $(this).parent('.mNav').find('.for').hasClass('hovering'))
+							$(this).parent('.mNav').find('.for').removeClass('hovering');
+
+						if ($(this).hasClass('ser') && $(this).parent('.mNav').find('.ser').hasClass('hovering'))
+							$(this).parent('.mNav').find('.ser').removeClass('hovering');
+					});
+
+					$('body').css("min-height", $(window).height() - 300 + "px");
+					$('#mainContent').css("min-height", $(window).height() - 300 + "px");
+
+					//START Smooth Scroll Anchors
+					//console.log($(".scroll").length);
+					$(".scroll").click(function(event) {
+						event.preventDefault();
+						var $anchor = $('#' + this.hash.substring(1));
+
+						//Mobile
+						if ($('body').hasClass('mobile')) {
+							$('html,body').animate({
+								scrollTop: $anchor.offset().top - 20
+							}, 600);
+						}
+						else {
+							$('html,body').animate({
+								scrollTop: $anchor.offset().top - 50
+							}, 600);
+						}
+					});
+					//END Smooth Scroll Anchors
 				});
 
-				$('body').css("min-height",$(window).height()-300+"px");
-				$('#mainContent').css("min-height",$(window).height()-300+"px");
+				var hideTimer = null;
 
-				//START Smooth Scroll Anchors
-				//console.log($(".scroll").length);
-				$(".scroll").click(function(event) {
-					event.preventDefault();
-					var $anchor = $('#' + this.hash.substring(1));
-
-					//Mobile
-					if ($('body').hasClass('mobile')) {
-						$('html,body').animate({
-							scrollTop: $anchor.offset().top - 20
-						}, 600);
-					}
-					else {
-						$('html,body').animate({
-							scrollTop: $anchor.offset().top - 50
-						}, 600);
-					}
+				// Resize Window Effects
+				$(window).resize(function()
+				{
+					$('body').css("min-height", $(window).height() - 300 + "px");
+					$('#mainContent').css("min-height", $(window).height() - 300 + "px");
 				});
-				//END Smooth Scroll Anchors
-			});
 
-			var hideTimer = null;
+				// Dropdown Menu
+				function showMenu(div)
+				{
+					$('#' + div).stop().fadeTo("fast", 1).show();
 
-			// Resize Window Effects
-			$(window).resize(function()
-			{
-				$('body').css("min-height",$(window).height()-300+"px");
-				$('#mainContent').css("min-height",$(window).height()-300+"px");
-			});
+					if (hideTimer != null) {
+						clearTimeout(hideTimer);
+						hideTimer = null;
+					}
 
-			// Dropdown Menu
-			function showMenu(div)
-			{
-				$('#'+div).stop().fadeTo("fast", 1).show();
+					if (div != "news")
+						hideIt("news");
 
-				if (hideTimer != null) {
-					clearTimeout(hideTimer);
-					hideTimer = null;
+					if (div != "guides")
+						hideIt("guides");
+
+					if (div != "community")
+						hideIt("community");
+
+					if (div != "store")
+						hideIt("store");
+
+					if (div != "services")
+						hideIt("services");
+
+					if (div != "forums")
+						hideIt("forums");
+
+					if (div != "media")
+						hideIt("media");
 				}
 
-				if (div != "news")
-					hideIt("news");
-
-				if (div != "guides")
-					hideIt("guides");
-
-				if (div != "community")
-					hideIt("community");
-
-				if (div != "store")
-					hideIt("store");
-
-				if (div != "services")
-					hideIt("services");
-
-				if (div != "forums")
-					hideIt("forums");
-
-				if (div != "media")
-					hideIt("media");
-			}
-
-			function hideMenu(div)
-			{
-				hideTimer = setTimeout(function()
+				function hideMenu(div)
 				{
-					$("#"+div).fadeTo("fast", 0, function()
+					hideTimer = setTimeout(function()
 					{
-						$(this).hide();
-					});
-				}, 200);
-			}
+						$("#" + div).fadeTo("fast", 0, function()
+						{
+							$(this).hide();
+						});
+					}, 200);
+				}
 
-			function showIt(div)
-			{
-				$('#'+div).show();
-			}
+				function showIt(div)
+				{
+					$('#' + div).show();
+				}
 
-			function hideIt(div)
-			{
-				$('#'+div).hide();
-			}
+				function hideIt(div)
+				{
+					$('#' + div).hide();
+				}
 		</script>
-		
+
 		<style>
 			/* MOBILE AKA SMALL WINDOWS */
 			@media screen and (max-width: 1100px) {
@@ -155,19 +155,19 @@
 					position: relative;
 					margin: auto;
 				}
-				
+
 				#loginBar .centerIt {
 					max-width: 1060px;
 				}
-				
+
 				.addSpace {
 					width: 183px;
 				}
 
 				/* PURE MOBILE */
 							}
-			</style>
-		
+		</style>
+
 		<style>	
 	
 body {
@@ -203,18 +203,18 @@ background-image: url("/images/default_04.jpg");
 							</form>
 						</div>
 										</div>
-				
+
 				<!-- Social Buttons -->
 				<div id="social" class="left">
 					<a target="_blank" class="facebook left" href="http://www.facebook.com/heroesofnewerth"></a>
 					<a target="_blank" class="twitter left" href="http://www.twitter.com/heroesofnewerth"></a>
 					<a target="_blank" class="youtube left" href="http://www.youtube.com/s2games"></a>
 					<a target="_blank" class="reddit left" href="http://www.reddit.com/r/heroesofnewerth"></a>
-					<div class="fb-like left" data-href="http://www.facebook.com/heroesofnewerth" data-send="false" data-width="450" data-show-faces="false" data-font="tahoma" data-colorscheme="dark"></div>				
+					<div class="fb-like left" data-href="http://www.facebook.com/heroesofnewerth" data-send="false" data-width="450" data-show-faces="false" data-font="tahoma" data-colorscheme="dark"></div>
 				</div>
 			</div>
 		</div>
-		
+
 		<div id="mLeaves"></div>
 
 		<!-- Main Navigation -->
@@ -229,7 +229,7 @@ background-image: url("/images/default_04.jpg");
 			<div class="mNav navLeft left">
 				<a href="/landing/community/" class="button com left" onmouseover="showMenu('community')" onmouseout="hideMenu('community')"><p class="bold uppercase yellow fontM">COMMUNITY</p></a>
 				<div class="drop com fontXXXS regular" id="community" onmouseover="showMenu('community')" onmouseout="hideMenu('community')">
-					<a href="/news/">NEWS</a>
+					<!--<a href="/news/">NEWS</a>-->
 					<a href="http://www.honcast.com/">HONCAST</a>
 					<a href="http://www.hontour.com/">HON TOUR</a>
 					<a href="/ladder/">PLAYER LADDER</a>
@@ -293,7 +293,7 @@ background-image: url("/images/default_04.jpg");
 			<div id="errorBar" class="subTitle" onclick="hideIt('errorBar');">
 				<p class="subTitle">Error - This is a list of what has happened / what has gone wrong!</p>
 			</div>
-			
+
 			<div class="wrapper">
 				<div class="addSpace"></div>
 				<!-- CSS -->
@@ -395,7 +395,7 @@ ul {
 	collected.</p>
 </div>				<div class="floatClear"></div>
 			</div>
-			
+
 			<div id="lightbox_notMedia" class="parent_panel"></div>
 		</div>
 
@@ -466,7 +466,7 @@ ul {
 
 				<div id="details" class="left regular fontXXS greyDark">
 					©2013 S2 Games, All Rights Reserved. <br>
-					<a href="/documents/policy/">PRIVACY POLICY</a> | <a href="/documents/media/">MEDIA POLICY</a> | <a href="/documents/partners/">PARTNERS</a> | <a href="/documents/credits/">CREDITS</a> | <a href="http://www.s2games.com/careers.php">JOBS</a>
+					<a href="/documents/tos/">TERMS OF SERVICE</a> | <a href="/documents/policy/">PRIVACY POLICY</a> | <a href="/documents/media/">MEDIA POLICY</a> | <a href="/documents/partners/">PARTNERS</a> | <a href="/documents/credits/">CREDITS</a> | <a href="http://www.s2games.com/careers.php">JOBS</a>
 				</div>
 			</div>
 		</div>
@@ -480,85 +480,85 @@ ul {
 			<p><span class="ui-icon ui-icon-alert left" style="margin: 0 7px 20px 0;"></span><span id="dialog-message-contents"></span></p>
 		</div>
 		<script type="text/javascript">
-			var Login = {
-				Login: function(nickname, password, ret)
-				{
-					if (nickname && password)
+				var Login = {
+					Login: function(nickname, password, ret)
 					{
-						var loginObj = {
-							"nickname" : nickname,
-							"password" : password,
-						}
-						$.ajax(
+						if (nickname && password)
 						{
-							url: '/login/login/?ajax=1',
-							type: 'post',
-							data: loginObj,
-							dataType: 'json'
-						}).done(function(data, textStatus, jqXHR)
-						{
-							if (jqXHR.getResponseHeader('ajax-redirect'))
-							{
-								window.location.href = jqXHR.getResponseHeader('ajax-redirect');
-								return;
+							var loginObj = {
+								"nickname": nickname,
+								"password": password,
 							}
-							if (data.error == false)
+							$.ajax(
+									{
+										url: '/login/login/?ajax=1',
+										type: 'post',
+										data: loginObj,
+										dataType: 'json'
+									}).done(function(data, textStatus, jqXHR)
 							{
-								// Redirect if requested
-								if (ret)
+								if (jqXHR.getResponseHeader('ajax-redirect'))
 								{
-									document.location.href = ret;
+									window.location.href = jqXHR.getResponseHeader('ajax-redirect');
+									return;
+								}
+								if (data.error == false)
+								{
+									// Redirect if requested
+									if (ret)
+									{
+										document.location.href = ret;
+									}
+									else
+									{
+										document.location.href = document.location.href;
+									}
+									return;
 								}
 								else
 								{
-									document.location.href = document.location.href;
-								}
-								return;
-							}
-							else
-							{
-								$('#dialog-message-contents').html(data.errorList);
-								$('#dialog-message').prop('title', 'Login Error').dialog({
-									modal: true,
-									buttons: {
-										Ok: function() {
-											$(this).dialog('close');
+									$('#dialog-message-contents').html(data.errorList);
+									$('#dialog-message').prop('title', 'Login Error').dialog({
+										modal: true,
+										buttons: {
+											Ok: function() {
+												$(this).dialog('close');
+											}
 										}
-									}
-								});
-							}
-						});
-					}
-				},
-				Logout: function()
-				{
-					$.post('/login/logout/', {}, function(data)
+									});
+								}
+							});
+						}
+					},
+					Logout: function()
 					{
-						document.location.href = "/";
-					}, 'json');
-				}
-			};
+						$.post('/login/logout/', {}, function(data)
+						{
+							document.location.href = "/";
+						}, 'json');
+					}
+				};
 
-			/* <![CDATA[ */
-			var google_conversion_id = 1002261595;
-			var google_conversion_label = "w6FDCIXejwQQ25j13QM";
-			var google_custom_params = window.google_tag_params;
-			var google_remarketing_only = true;
-			/* ]]> */
+				/* <![CDATA[ */
+				var google_conversion_id = 1002261595;
+				var google_conversion_label = "w6FDCIXejwQQ25j13QM";
+				var google_custom_params = window.google_tag_params;
+				var google_remarketing_only = true;
+				/* ]]> */
 
-			/* OUR ORIGINALY GOOGLE ANALYTICS */
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-35559700-1']);
-			_gaq.push(['_trackPageview']);
+				/* OUR ORIGINALY GOOGLE ANALYTICS */
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-35559700-1']);
+				_gaq.push(['_trackPageview']);
 
-			(function() {
-				var ga = document.createElement('script');
-				ga.type = 'text/javascript';
-				ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(ga, s);
-			})();
+				(function() {
+					var ga = document.createElement('script');
+					ga.type = 'text/javascript';
+					ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(ga, s);
+				})();
 		</script>
 		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 		</script>
@@ -566,7 +566,7 @@ ul {
 			<div style="display:inline;">
 				<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002261595/?value=0&amp;label=w6FDCIXejwQQ25j13QM&amp;guid=ON&amp;script=0"/>
 			</div>
-		</noscript>			
+		</noscript>
 		<div class="floatClear"></div>
 	
 
