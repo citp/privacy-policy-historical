@@ -1,7 +1,32 @@
-<!--The following is the downloaded HTML source of the musicmagpie.co.uk privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620103027id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicmagpie.co.uk privacy policy that was archived on 2013-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217044009id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head><script language="javascript1.1" type="text/javascript">
+// Script contents copyright Citrix Systems 2007, and implementation covered by international intellectual property laws.  
+// change nothing below here
+var g_csma_Start = _csma_NSISOD(new Date());
+var _csma_NS_IID='00000000-0000-1000-9678-005056b03e6a';
+var _vsvrname = _csma_trimmer('MMUKWEB-STAGE-TEST(77.239.96.7:80).7:443)                                                                                                                                         ');
+var _vsvr_svc = _csma_trimmer('MMUKWeb-IIS3(192.168.2.124:80)                                                                                                                                                    ');
+function _csma_trimmer(s)
+{
+  var cB = s.indexOf(")");
+  return s.substring(0,cB+1);
+}
+var g_csma_NS_PSD='&iid='+_csma_NS_IID+'&xid=01575a05-d535-12af-9678-005056b03e6a&esnsid=00000000000035275534&reqrtb=00000000001999613070&reqstb=00000000001999613323&resrtb=00000000001999626558&resstb=00000000001999626558&vsvrname='+ _vsvrname + '&vsvr_svc=' + _vsvr_svc;var g_csma_PageEndData='';var g_csma_i=0;var g_csma_c=0;
+function _csma_NSGB(e){_csma_NSLR('test.aspx?s=x');}
+function _csma_NSI(e){_csma_NSLR('test.aspx?s=i');g_csma_i=1;}
+function _csma_NSDC(e){_csma_NSLR('test.aspx?s=c');g_csma_c=1;}
+function _csma_NSDL(e){if(document.readyState=="complete"){_csma_NSDC(e);}else if(document.readyState=="interactive"){_csma_NSI(e);}}
+function _csma_NSTC(o){var d=50,c=100,i=0;for(i=0;i<c;i++){if(!o.complete){setTimeout('return;',d);}else {break;}}}
+function _csma_NSISOD(dt){return ''+dt.getUTCFullYear()+'-'+(dt.getUTCMonth()+1)+'-'+dt.getUTCDate()+'T'+dt.getUTCHours()+':'+dt.getUTCMinutes()+':'+dt.getUTCSeconds()+'.'+dt.getUTCMilliseconds()+'Z'+dt.getTimezoneOffset();}
+if(window.attachEvent&&document.attachEvent){document.attachEvent('onreadystatechange',_csma_NSDL);window.attachEvent('onbeforeunload',_csma_NSGB);} else if(window.addEventListener){window.addEventListener('DOMContentLoaded',_csma_NSI,false );window.addEventListener('load',_csma_NSDC,false);window.addEventListener('unload',_csma_NSGB,false);}
+function _csma_NSSS(o,t){ o.src='/ens10/app/ext/suser/'+t; }
+function _csma_NSLR(m){var s=new String(document.location);var o=new Image ();if(o){var dt=new Date();var l=s.indexOf('?');var p=(l<0)?document.location:s.substr(0,l);_csma_NSSS(o,m+'&p='+escape(p)+'&dt='+_csma_NSISOD(dt)+'&st='+g_csma_Start+'&fi='+g_csma_i+'&fc='+g_csma_c+g_csma_NS_PSD+g_csma_PageEndData);_csma_NSTC(o);}}
+</script>
+
+
+
 <title>musicMagpie - Selling your music CDs, DVDs, games, blu-rays, mobiles, iPads, iPhones, iPods and Technology products? Sell for cash the best prices paid</title>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Content-Language" content="en-gb">
@@ -52,6 +77,67 @@
 				{	var mymsg = new Array();
 					mymsg[0] = "Ooops... you haven't entered anything! Please enter your item before clicking 'Get Value'";
 					mymsg[1] = "Aaah shucks... you've just clicked 'Get Value' - we need to know what you want to sell first!";
+					alert(mymsg[getRandomInt (0, 1)]);					
+					return false
+				}
+				if(document.sellit.barcode.value.length >0 && document.sellit.barcode.value.length <8) // Potentially a barcode
+				{	alert("Please enter in a minimum of 8 digits")
+					return false
+				}
+					
+				if(document.sellit.barcode.value.length <13) // is a barcode but lets lpad it
+				{	var dif =  13 -	parseInt(document.sellit.barcode.value.length);
+					var padZero = "";
+					for(i = 1;i<=dif;i++)
+					{	padZero += "0";
+					}
+					document.sellit.barcode.value = padZero + document.sellit.barcode.value;
+					document.getElementById("entry_type").value = "media";
+					return true
+				}
+				
+				if(document.sellit.barcode.value.length >13) // is an IMEI number 15 or 17 chars
+				{	//
+					// Make sellit.action go to Alive 4.0 for IMEI
+					document.getElementById("entry_type").value = "nmi";
+					document.sellit.action="http://www.musicmagpie.co.uk/sellit.asp";
+				}
+				break;
+			
+			
+			case true:
+				// not numeric so alpha / none-media
+				//
+				if(!document.getElementById('prodid').value == "")
+				{	document.getElementById("entry_type").value = "nm";
+					document.sellit.action="http://www.musicmagpie.co.uk/sellit.asp";
+					return true
+				}
+				else
+				{	/*var id = document.sellit.barcode.value.toLowerCase().indexOf('apple');
+					if(parseInt(id)>0)
+					{  document.sellit.barcode.value = document.sellit.barcode.value.substring(id,document.sellit.barcode.value.length)
+					}*/
+					document.getElementById("entry_type").value = "nm";
+					document.sellit.action="http://www.musicmagpie.co.uk/sellit.asp";
+					return true
+				}
+				
+				break;
+			
+		}
+	}
+	function s2_s3_validate_data()
+	{	document.getElementById("barcode").value = rtrim(document.getElementById("barcode").value);
+		switch (isNaN(document.getElementById("barcode").value))
+		{	
+			case false: 
+				// is numeric so barcode or IMEI
+				//
+				if(document.sellit.barcode.value == "") // Potentially a barcode
+				{	var mymsg = new Array();
+					mymsg[0] = "Ooops... you haven't entered anything! Please enter your item before clicking 'Get Value'";
+					mymsg[1] = "Aaah shucks... you've just clicked '+' button - we need to know what you want to sell first!";
 					alert(mymsg[getRandomInt (0, 1)]);					
 					return false
 				}
@@ -192,21 +278,7 @@ document.write('<link rel="stylesheet" href="https://www.musicmagpie.co.uk/css/n
 				<table border="0" align="right" cellpadding="0" cellspacing="0">
 				  <tbody><tr> 
 					<td height="61" align="right" valign="top">
-					  <script>
-					  if ("https:" != document.location.protocol) { <!-- begin ad tag (tile=1) -->
-					  
-						
-					
-                        //<![CDATA[
-                        ord=Math.random()*10000000000000000;
-                        document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/muscmgpiead21/;tile=1;sz=468x60;ord=' + ord + '?"><\/script>');
-                        //]]>
-
-                        
-                        
-                        <!-- end ad tag -->
-						} 
-						</script>
+	
 					</td>
 				  </tr>
 				</tbody></table>  
@@ -413,7 +485,11 @@ document.write('<link rel="stylesheet" href="https://www.musicmagpie.co.uk/css/n
                                       <p class="myaccount_text"><span class="style_sellit"><strong>Information collected</strong></span><br>
                                         musicMagpie.co.uk collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our web site and other sites accessible from them. We also collect information about the transactions you undertake.<br>
                                         <br>
-                                      We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and site use which enables us to improve the service we provide.</p>
+                                      We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and site use which enables us to improve the service we provide.<br><br>
+If you have given us permission, we will send you marketing emails. 
+If you wish to stop these emails, please unsubscribe using the unsubscribe link contained in every email we send. 
+You can also contact us at Black &amp; White House, Hulley Rd, Hurdsfield Industrial Estate, Macclesfield, SK10 2AF or call us at 0870 495 1283 or email <span class="style_sellit"><a href="mailto:customerservices@musicmagpie.co.uk" target="_blank" class="style_sellit">customerservices@musicmagpie.co.uk</a></span> to unsubscribe.
+</p>
                                       <p class="myaccount_text"><span class="style_sellit"><strong>Use of your information and your preferences</strong></span><br>
                                         We will use your information to provide and personalise our service and to detect and prevent fraud. We will also use your contact details to communicate with you. We may use your information to send you offers and news about musicMagpie.co.uk products and services or those of other carefully selected companies which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes. We like to hear your views to help us improve our service. From time to time, we may contact you by post, email, telephone or fax to ask your opinions.<br>
                                         <br>
@@ -453,25 +529,23 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 //-->
 </script>
-<table width="171" border="0" cellspacing="0" cellpadding="0">
+<table width="171" border="0" align="right" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><table width="171" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td height="5" valign="top"><img src="images/spacer.gif" width="171" height="13"></td>
+    <td height="5" valign="top"><img src="http://www.musicmagpie.co.uk/images/spacer.gif" width="171" height="13"></td>
   </tr>
 </tbody></table>
-<table width="171" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="171" height="42" align="center" valign="middle"><script>if ("https:" != document.location.protocol) {
- <!-- begin ad tag (tile=2) -->
 
-//<![CDATA[
-ord=Math.random()*10000000000000000;
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/muscmgpiead21/;tile=2;sz=120x600,160x600;ord=' + ord + '?"><\/script>');
-//]]>
-}
-</script>
-<!-- end ad tag --></td>
+<table width="171" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="171" height="42" align="center" valign="middle"><div align="center">
+</div></td>
+  </tr>
+</tbody></table></td>
   </tr>
 </tbody></table>
+
  </td>
                         <td width="19" rowspan="2" align="right" valign="top" class="right_background"><img src="images/Hor_right.gif" width="19" height="59"></td>
                       </tr>
@@ -494,4 +568,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
         </tbody></table></td>
     </tr></tbody></table>
 
+<script language="javascript1.1" type="text/javascript">
+g_csma_PageEndData='&reqrte=00000000001999613197&reqste=00000000001999613323&resrte=00000000001999628058&resste=00000000001999628058&crtt=00000000000000000100&ct=text/html; charset=utf-8                                                                                                                                                          ';
+</script>
 </body></html>
