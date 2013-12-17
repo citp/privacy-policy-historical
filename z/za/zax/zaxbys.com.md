@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaxbys.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629221828id_/http%3A//www.zaxbys.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaxbys.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217161216id_/http%3A//www.zaxbys.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Zaxby's - Privacy Policy
 
