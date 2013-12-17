@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihomefinder.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502022445id_/http%3A//www.ihomefinder.com/homepage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihomefinder.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217225027id_/http%3A//www.ihomefinder.com/homepage/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iHomefinder
 
@@ -16,7 +16,7 @@ iHomefinder collects personal information when you sign up for an account with i
 
 ### Information Sharing and Disclosure
 
-iHomefinder does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide MLS Data, Products Features or Services you’ve requested, when we have your permission, or under the following circumstances:
+iHomefinder does not rent, sell, or share personal information about you, or any data collected via your iHomefinder account, with other people or nonaffiliated companies except to provide MLS Data, Products Features or Services you’ve requested, when we have your permission, or under the following circumstances:
 
 We provide the information to our partners, including but not limited to office administrators, designer of the website you use or to the MLS to which you or your agent belong, or any other third party who works on your behalf with an express written agreement, or with iHomefinder under our own confidentiality agreements. Our partners and service providers do not have any independent right to share this information.
 
@@ -28,7 +28,7 @@ iHomefinder will transfer information about you if iHomefinder is acquired by or
 
 ### Cookies
 
-iHomefinder sets cookies in your browser when you log in to the Property Organizer and/or Control Panel in order to provide you with various data and related services. In addition, our company website uses a Google AdWords conversion tracking feature that sets a cookie in your browser if you click on one of our AdWords ads.
+iHomefinder sets cookies in your browser when you log in to the Property Organizer and/or Control Panel in order to provide you with various data and related services. In addition, our company website uses Google AdWords and Bing Ads conversion tracking features that set a cookie in your browser if you click on one of our ads. Third-party vendors, including Google, use cookies to serve iHomefinder ads across the internet, based on your past visits to [www.ihomefinder.com](http://www.ihomefinder.com/). You can opt out of Google’s use of cookies by visiting [Google’s Ads Settings](http://www.google.com/settings/ads). You can also opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Changes to this Privacy Policy
 
