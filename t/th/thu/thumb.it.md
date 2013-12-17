@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thumb.it privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605205150id_/http%3A//thumb.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumb.it privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217063929id_/http%3A//thumb.it/privacy) for the most accurate reproduction.*
 
 # Thumb - Privacy Policy
 
 #### THUMB'S PRIVACY STATEMENT
 
-Welcome to Thumb! Thumb, Inc. (“ **Thumb** ,” “ **Opinionaided** ,” “ **we** ,” “ **us** ,” or “ **our** ”) operates this website ( **thumb.it** ) (the “ **Site** ”) as well as a number of related services, including our mobile applications (collectively, the “ **Services** ”). The focus of our Site and Service is to let You get opinions, give opinions, communicate with other users, and connect with people like you.
+Welcome to Thumb! Ypulse, Inc. (“ **Ypulse** ,” “ **Thumb** ,” “ **Opinionaided** ,” “ **we** ,” “ **us** ,” or “ **our** ”) operates this website ( **thumb.it** ) (the “ **Site** ”) as well as a number of related services, including our mobile applications (collectively, the “ **Services** ”). The focus of our Site and Service is to let You get opinions, give opinions, communicate with other users, and connect with people like you.
 
 Privacy is of great importance to us whether You are a “ **Visitor** ” (which means that you simply browse the Site (defined below)) or a “ **Member** ” of Thumb (which means you have either registered with Thumb or established an account). Visitors and Members are individually referred to as a “ **User** ,” and collectively, as “ **Users** ” Because we gather important information from our Users, we have established this Privacy Statement as a means to communicate our information collection, use and dissemination practices.
 
@@ -53,7 +53,7 @@ Personal Information. We will use your Personal Information to:
 
 We may also use your Personal Information to create Anonymous Information records by excluding information that makes the information personally identifiable to you.
 
-We may send you communications via email about the Site and Services. You can opt out of receiving certain communications from the Site by clicking the “Unsubscribe” link at the bottom of each email or by emailing us at [support@thumb.it](mailto:support@thumb.it "Email: support@thumb.it"). Please note that even if you unsubscribe or opt-out, we may still send you Site and Service related communications (e.g., emails related to your Account).
+We may send you communications via email about the Site and Services. You can opt out of receiving certain communications from the Site by clicking the “Unsubscribe” link at the bottom of each email. Please note that even if you unsubscribe or opt-out, we may still send you Site and Service related communications (e.g., emails related to your Account).
 
 Profile Information, Questions and Responses
 
@@ -110,6 +110,6 @@ The Site or Services may contain links to other websites that are not owned or c
 
 **Changes to this Privacy Policy.** This Privacy Policy is subject to revision from time to time on a going-forward basis. We will post any revised version of the Privacy Policy on this page. If we make any material changes to it, we will also send you notice thereof to the last email address you have provided to us. Continued use of our Services following notice of such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-**Contact Us.** If you have questions or concerns about our Privacy Policy, please contact us by sending an email to: [legal@thumb.it](mailto:legal@thumb.it "Email: legal@thumb.it").
+**Contact Us.** If you have questions or concerns about our Privacy Policy, please contact us by sending an email to: [help@thumb.it](mailto:help@thumb.it "Email: help@thumb.it").
 
-This Policy was last revised: March 16, 2013.
+This Policy was last revised: July 11, 2013.
