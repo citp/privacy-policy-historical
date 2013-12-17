@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blablacar.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519044603id_/http%3A//www.blablacar.com/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blablacar.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217094958id_/http%3A//www.blablacar.com/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
 
-# Privacy and Data Protection Policy | BlaBlaCar
+# Privacy and Data Protection Policy | BlaBlaCar.com
 
 ##  1\. General
 
