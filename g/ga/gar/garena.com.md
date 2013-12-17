@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garena.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617223255id_/http%3A//intl.garena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garena.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217193829id_/http%3A//intl.garena.com/privacy) for the most accurate reproduction.*
 
 # Garena - The Official Site
 
