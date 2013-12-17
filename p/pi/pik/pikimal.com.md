@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619032455id_/http%3A//pikimal.com/terms/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218001955id_/http%3A//pikimal.com/terms/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pikimal
 
@@ -6,11 +6,11 @@
 
 Last updated June 1st, 2012
 
-WebKite provides the functionality for the web site hosted at [pikimal.com](https://web.archive.org/) (the "Site") and related services (the "Services") to enable our clients to easily build data-driven sites, to build an understanding of language, and to create fact and data-drive web-sites which enable people to make better decisions. WebKite values the privacy of the users, subscribers, publishers members, and others who visit the Site of Services (collectively or individually, "Users"). In the normal course of business these facts may be shared, without limitation, with the licensee of WebKite and the operator of this site. By using the Site or Services, you expressly consent to the information handling practices described in this notice. This Privacy Notice is subject to the Pikimal Terms of Service. Your use of the Site and Services are subject at all times to this Privacy Notice and the [Terms of Service](https://web.archive.org/terms/of/use).
+WebKite provides the functionality for the web site hosted at [pikimal.com](https://web.archive.org/) (the "Site") and related services (the "Services") to enable our clients to easily build data-driven sites, to build an understanding of language, and to create fact and data-driven web-sites which enable people to make better decisions. WebKite values the privacy of the users, subscribers, publishers, members, and others who visit the Site or Services (collectively or individually, "Users"). In the normal course of business these facts may be shared, without limitation, with the licensee of WebKite and the operator of this site. By using the Site or Services, you expressly consent to the information handling practices described in this notice. This Privacy Notice is subject to the Pikimal Terms of Service. Your use of the Site and Services are subject at all times to this Privacy Notice and the [Terms of Service](https://web.archive.org/terms/of/use).
 
 ## The Information Pikimal Collects
 
-In order to use the Site or Services, users may register with the site and in the process we may collect certain user-provided, personally identifiable information including name and email address. Our server logs automatically collect information, such as your IP address, pages you access, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
+In order to use the Site or Services, users may register with the site and in the process we may collect certain user-provided, personally identifiable information including name and email address. Our server logs automatically collected information, such as your IP address, pages you access, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.
 
 We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience. We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
 
@@ -80,4 +80,4 @@ This Privacy Notice may be revised periodically without further notice to you an
 
 ## Pikimal Contact Information
 
-Please contact Pikimal LLC with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: PIkimal, 700 River Ave, Suite 440, Pittsburgh, PA, 15212 or by email. We will respond to your inquiry within 45 days of its receipt.
+Please contact Pikimal LLC with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: WebKite, 700 River Ave, Suite 440, Pittsburgh, PA, 15212 or by email. We will respond to your inquiry within 45 days of its receipt.
