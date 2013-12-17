@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the billofrightsinstitute.org privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617170045id_/http%3A//billofrightsinstitute.org/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the billofrightsinstitute.org privacy policy that was archived on 2013-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217235324id_/http%3A//billofrightsinstitute.org/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="margin-top: 0px !important;"><head>
 
@@ -143,6 +143,9 @@ div.display_none {display:none;}
 <link rel="stylesheet" id="wp-e-commerce-dynamic-css" href="http://billofrightsinstitute.org/index.php?wpsc_user_dynamic_css=true&amp;category&amp;ver=3.8.7.6.493073" type="text/css" media="all">
 <link rel="stylesheet" id="wpsc-gold-cart-css" href="http://billofrightsinstitute.org/wp-content/plugins/gold_cart_plugin/css/gold_cart.css?ver=3.3.1" type="text/css" media="all">
 <link rel="stylesheet" id="wpsc-gold-cart-grid-view-css" href="http://billofrightsinstitute.org/wp-content/plugins/gold_cart_plugin/css/grid_view.css?ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="stripe-payment-css-css" href="http://billofrightsinstitute.org/wp-content/plugins/wp-stripe/css/wp-stripe-display.css?ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="stripe-widget-css-css" href="http://billofrightsinstitute.org/wp-content/plugins/wp-stripe/css/wp-stripe-widget.css?ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="stripe-thickbox-css" href="http://billofrightsinstitute.org/wp-content/plugins/wp-stripe/css/wp-stripe-thickbox.css?ver=3.3.1" type="text/css" media="all">
 <script type="text/javascript" src="http://billofrightsinstitute.org/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
 <script type="text/javascript" src="http://billofrightsinstitute.org/wp-content/plugins/wp-e-commerce/wpsc-core/js/wp-e-commerce.js?ver=3.8.7.6.493073"></script>
 <script type="text/javascript" src="http://billofrightsinstitute.org/wp-content/plugins/wp-e-commerce/wpsc-core/js/jquery.infieldlabel.min.js?ver=3.8.7.6.493073"></script>
@@ -164,6 +167,14 @@ var WPSC_GoldCart = {"thickboxFix":"1","displayMode":"grid","itemsPerRow":"2","p
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://billofrightsinstitute.org/wp-content/plugins/gold_cart_plugin/js/gold_cart.js?ver=3.3.1"></script>
+<script type="text/javascript" src="https://js.stripe.com/v1/?ver=3.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpstripekey = "pk_test_sG5trVJflPPZxw2pZqQgeovZ";;
+var ajaxurl = "http:\/\/billofrightsinstitute.org\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://billofrightsinstitute.org/wp-content/plugins/wp-stripe/js/wp-stripe.js?ver=3.3.1"></script>
 			<!-- Gold Cart Plugin custom styles -->
 			<style type="text/css">
 				.product_grid_display .product_grid_item {
@@ -350,7 +361,7 @@ ssc.parentNode.insertBefore(wsc, ssc);})();
 <li><ul id="menu-educator-programs-events-menu" class="menu"><li id="menu-item-1795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1795"><a href="http://billofrightsinstitute.org/programs-events/educators-programs-events/about-our-teacher-programs/">About our Programs</a></li>
 <li id="menu-item-4156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4156"><a href="http://billofrightsinstitute.org/programs-events/educators-programs-events/upcomingseminars/">Upcoming Seminars</a></li>
 <li id="menu-item-9387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9387"><a href="http://billofrightsinstitute.org/programs-events/educators-programs-events/upcomingseminars/register-for-a-seminar/">Register for a Seminar</a></li>
-<li id="menu-item-12158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12158"><a href="https://billofrightsinstitute.org/ff-2013/">Founders Fellowship 2013</a></li>
+<li id="menu-item-12158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12158"><a href="http://billofrightsinstitute.org/ff-2014/">Founders Fellowship 2014</a></li>
 <li id="menu-item-4155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4155"><a href="http://billofrightsinstitute.org/programs-events/educators-programs-events/for-administrators/">For Administrators</a></li>
 </ul></li>
 
@@ -359,10 +370,10 @@ ssc.parentNode.insertBefore(wsc, ssc);})();
 <ul id="menuItemSub3b" class="menuItemSub">
 
 <li class="menuItemFirst"><a class="subNavHeaders" href="">Student</a></li>
-<li><ul id="menu-student-programs-events-menu" class="menu"><li id="menu-item-4161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4161"><a href="http://billofrightsinstitute.org/programs-events/students-programs-events/academy/">2013 Constitutional Academy</a></li>
+<li><ul id="menu-student-programs-events-menu" class="menu"><li id="menu-item-4161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4161"><a href="http://billofrightsinstitute.org/programs-events/students-programs-events/academy/">2014 Constitutional Academy</a></li>
 <li id="menu-item-9824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9824"><a href="http://billofrightsinstitute.org/programs-events/students-programs-events/scholarship/">We The Students Scholarship Contest</a></li>
 <li id="menu-item-10566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10566"><a href="http://billofrightsinstitute.org/programs-events/students-programs-events/eaglescout/">Eagle Scout Competition</a></li>
-<li id="menu-item-1796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1796"><a href="http://billofrightsinstitute.org/programs-events/students-programs-events/contest/">Being an American Essay Contest</a></li>
+<li id="menu-item-13896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13896"><a href="http://billofrightsinstitute.org/programs-events/students-programs-events/constitution-clubs/">Constitution Clubs</a></li>
 </ul></li>
 
 </ul><!--End Menu Item Sub3-->
@@ -529,7 +540,7 @@ ssc.parentNode.insertBefore(wsc, ssc);})();
 <div>
 <div>
 <p>The Bill of Rights Institute (Institute) respects individuals’ concerns about the privacy of their information. This Privacy Policy applies to personal information the Institute collects both online and offline. The Policy describes the types of personal information we may collect, how we may use that personal information and with whom we may share it, as well as the measures we take to help protect the security of the personal information. We also tell you how you can contact us to update or remove your personal information or receive answers to questions you may have about our privacy practices. Please note that this policy applies only to sites maintained by the Institute, and not to websites maintained by other organizations to which we may link.</p>
-<p>By registering for an online Institute Account, using this site and/or any of the Institute’s online or mobile products and services, and/or attend an in-person program you agree to the Institute’s Privacy Policy. By registering, you agree that the Institute may process your data in accordance with the following privacy policy and that you will abide by the Institute’s Terms and Conditions.</p>
+<p>By registering for an online Institute Account, using this site and/or any of the Institute’s online or mobile products and services (such as DocsofFreedom.org), and/or attend an in-person program you agree to the Institute’s Privacy Policy. By registering, you agree that the Institute may process your data in accordance with the following privacy policy and that you will abide by the Institute’s Terms and Conditions.</p>
 <p>IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY INSTITUTE SITE, ONLINE OR MOBILE PRODUCT OR SERVICE OR PROGRAMS. If we change our privacy policy, we will post those changes to this privacy statement, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our online Privacy Policy.</p>
 <h3><strong>Personal Information We May Collect About You</strong></h3>
 <p>We may collect personal information, such as name, email and postal address, telephone number, academic information, and financial information from customers, job applicants, employees, contractors, vendors, and other individuals through our websites or by other means, such as email, fax, postal mail, mobile applications, or telephone. In addition, prize winners may be required to provide their Social Security or other identification number for tax purposes.</p>
@@ -678,8 +689,8 @@ Arlington, VA 22203</p>
 
 <ul>
 
-<li><ul id="menu-pre-footer-menu-1" class="menu"><li id="menu-item-4734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4734"><a href="/programs-events/students-programs-events/constitutional-academy/">Constitutional Academy</a></li>
-<li id="menu-item-4735" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4735"><a href="http://billofrightsinstitute.org/products-page/">Bill of Rights Bookstore</a></li>
+<li><ul id="menu-pre-footer-menu-1" class="menu"><li id="menu-item-4734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4734"><a href="http://billofrightsinstitute.org/programs-events/students-programs-events/academy/">Constitutional Academy</a></li>
+<li id="menu-item-4735" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4735"><a href="http://store.billofrightsinstitute.org/">Bill of Rights Bookstore</a></li>
 </ul></li>
 
 </ul><!--End PreFooter Menu Group 1-->
@@ -814,7 +825,17 @@ According to CIRCLE, 67% of non-college bound youth report that they can make "l
 
 
 
+<script type="text/javascript">
+	var tb_pathToImage = "http://billofrightsinstitute.org/wp-includes/js/thickbox/loadingAnimation.gif";
+	var tb_closeImage = "http://billofrightsinstitute.org/wp-content/plugins/wp-stripe/images/thickbox_close.png";
+</script>
 <div id="su-footer-links" style="text-align: center;"></div><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js?ver=3.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/billofrightsinstitute.org\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/billofrightsinstitute.org\/wp-includes\/js\/thickbox\/tb-close.png"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://billofrightsinstitute.org/wp-includes/js/thickbox/thickbox.js?ver=3.1-20111117"></script>
  
 
 
