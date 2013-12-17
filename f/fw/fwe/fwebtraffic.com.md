@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fwebtraffic.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609004052id_/http%3A//www.profitclicking.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwebtraffic.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217122325id_/http%3A//www.adclickxpress.com/home/legal/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies
+# Ad Click Xpress :: Privacy Policies
 
 **What information about you do we gather and maintain?**
 
