@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sermoncentral.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523230713id_/http%3A//www.sermoncentral.com/articleb.asp%3Farticle%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermoncentral.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217042931id_/http%3A//www.sermoncentral.com/articleb.asp%3Farticle%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We respect the privacy of our website visitors, newsletter subscribers, those who answer our surveys, and those who fill out our questionnaires.
 
-**It is our policy:  **  
+**It is our policy:**  
 
   * To respect the purpose for which our site visitors gave us information.We may use your data to provide you with information about goods, services or events which may be of interest to you and we may contact you about these by email, post or telephone.
   * Not to sell or rent our lists to third parties for email marketing. Of course, we may sell advertising in our email publications to other companies.
@@ -16,7 +16,7 @@ We respect the privacy of our website visitors, newsletter subscribers, those wh
 
 We may collect and process the following data about you:-
 
-  1. Information provided by filling in forms on our site at [www.sermoncentral.com](http://www.sermoncentral.com/) ("our site"). This includes information provided at the time of registering to use our site, subscribing to our newsletters, or requesting information from us. We may also ask you for information when you report a problem with our site.
+  1. Information provided by filling in forms on our site at [www.sermoncentral.com](http://www.sermoncentral.com/) ("our site"). This includes information provided at the time of registering to use our site, subscribing to our newsletters, or requesting information from us. We may also ask you for information when you report a problem with our site.
   2. If you contact us, we may keep a record of that correspondence.
   3. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   4. Details of transactions you carry out through our site and of the fulfilment of your orders.
@@ -26,7 +26,7 @@ We may collect and process the following data about you:-
 
 Although we do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site, any transmission is at your own risk. Once we have received your information, we will use strict procedures and security procedures to try to prevent unauthorized access
 
-**IP  Addresses and Cookies**
+**IP Addresses and Cookies**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about our users browser actions and patents, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computers hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us
 
@@ -39,9 +39,13 @@ We may collect information about your computer, including where available your I
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser settings so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
+**Tracking Pixels**
+
+We collect non-personally identifiable information through the use of tracking pixels. A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with.
+
 **Disclosure Of Your Information**
 
-We may disclose your personal information to any division of our company.   
+We may disclose your personal information to any division of our company.   
 We may disclose your personal information to third parties:-
 
   1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
@@ -59,6 +63,4 @@ Our site may, from time to time, contain links to and from websites for advertis
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@sermoncentral.com](mailto:support@sermoncentral.com?subject=Privacy%20Policy%20Inquiry). 
-
-Copyright 2003-2013 | Outreach, Inc., All rights reserved.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@sermoncentral.com](mailto:support@sermoncentral.com?subject=Privacy%20Policy%20Inquiry). 
