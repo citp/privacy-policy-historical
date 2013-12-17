@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the totalfratmove.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427001648id_/http%3A//totalfratmove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalfratmove.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217011201id_/http%3A//totalfratmove.com/privacy) for the most accurate reproduction.*
 
 # TotalFratMove.com | Privacy Policy » |
 
 Your privacy on the Internet is important to us. As a part of the operation of totalfratmove.com, we gather your e-mail address only when you submit it to subscribe to our newsletter. We respect your privacy and will not share or sell your e-mail address to a third party. However, we may use it to contact you regarding site updates, news, and information.
 
-The foregoing policy is effective as of March 2010, and Grandex LLC reserves the right to change this policy at any time. Please check this page periodically for changes. This statement and policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+The foregoing policy is effective as of March 2010, and Grandex Inc reserves the right to change this policy at any time. Please check this page periodically for changes. This statement and policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
 ### Third party advertising
 
