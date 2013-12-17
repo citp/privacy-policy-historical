@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homehound.com.au privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015339id_/http%3A//www.homehound.com.au/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homehound.com.au privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217190911id_/http%3A//www.homehound.com.au/privacy%2Bpolicy) for the most accurate reproduction.*
 
-# Privacy Policy - homehound.com.au
+# Privacy Policy
 
 This statement has been produced with reference to the guidelines set out by the Office of the Federal Privacy Commissioner, Australia. For more information visit: [www.privacy.gov.au ](http://www.privacy.gov.au/). 
 
