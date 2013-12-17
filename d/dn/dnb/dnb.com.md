@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525053920id_/http%3A//www.dnb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217205147id_/http%3A//www.dnb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | D&B
 
@@ -127,7 +127,7 @@ By using our website, you hereby consent to our collection, use, management, ret
 
 ### U.S.-EU and U.S.-Swiss Safe Harbor Framework
 
-We participate in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as established by the U.S. Department of Commerce and as it relates to the transfer of personal data from the European Union and Switzerland to the United States. As part of our participation in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, we have partnered with TRUSTe in order to address and resolve potential disputes regarding our compliance with these Safe Harbor Frameworks.
+We participate in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as established by the U.S. Department of Commerce and as it relates to the transfer of personal data from the European Union and Switzerland to the United States. To learn more about the Safe Harbor program, and to view Dun & Bradstreet’s certification, please visit <http://www.export.gov/safeharbor/>. As part of our participation in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, we have partnered with TRUSTe in order to address and resolve potential disputes regarding our compliance with these Safe Harbor Frameworks.
 
 This dispute resolution program covers both offline data collection (e.g. personal information collected through our call centers or via postal mail) and online data collection (e.g. personal information collected via the Internet). If you have any complaints regarding our compliance with relevant aspects of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, you should first contact us at:
 
@@ -164,4 +164,4 @@ Short Hills, NJ 07078
 
 This online privacy notice is applicable to the following U.S. D&B websites: [www.dnb.com](https://web.archive.org/), [www.dnbi.com](https://sso.dnbi.com/cas/login), [www.dnbisolutions.com](http://www.dnbisolutions.com/), [www.zapdata.com](http://www.zapdata.com/), [www.dnboptimizer.com](http://www.dnboptimizer.com/) and [www.dnbgov.com](http://www.dnbgov.com/). Other U.S. and non-U.S. D&B websites have different online privacy notices and information management practices.
 
-Effective Date, March 31, 2010
+Effective Date, November 19, 2013
