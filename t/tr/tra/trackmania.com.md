@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackmania.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518092306id_/http%3A//www.ubi.com/UK/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackmania.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217095439id_/http%3A//www.ubi.com/UK/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
