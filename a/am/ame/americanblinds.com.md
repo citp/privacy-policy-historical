@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617223531id_/http%3A//www1.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217194143id_/http%3A//www.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.*
 
-# 
+# Privacy and Security | American Blinds and Wallpaper
 
 **Privacy and Security**
 
 This privacy policy is for American Blinds, Wallpaper & More. Our homepage on the Web is located at[ www.americanblinds.com](http://century.dev.blinds.net/). The full text of our privacy policy is stated below. Users may go to our registration section to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
-**American Blinds & Wallpaper  
+**American Blinds  
 Att: E-Commerce Dept.  
 ** 1302 Waugh Dr, #943  
 Houston, TX 77019-3908
@@ -21,7 +21,7 @@ Privacy/Security Dispute: If you have a question regarding our privacy policy or
 Additional Information
 
 **  
-This policy is valid until 31 January 2011 at 12:00:00 EST.
+This policy is valid until 31 January 2014 at 12:00:00 EST.
 
 **Data Collection**  
 P3P stands for “The Platform for Privacy Policies”, documentation which is maintained at the World Wide Web Consortium (W3C). P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains one data group. The data practices of this group are explained below. 
