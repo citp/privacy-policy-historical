@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androidheadlines.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602121807id_/http%3A//androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidheadlines.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217094323id_/http%3A//www.androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Android News - AndroidHeadlines.com
+# Privacy Policy | Androidheadlines.com
 
 **What information do we collect?**
 
