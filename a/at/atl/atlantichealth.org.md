@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantichealth.org privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018234008id_/http%3A//www.atlantichealth.org/atlantic/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantichealth.org privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217083447id_/http%3A//www.atlantichealth.org/atlantic/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -7,7 +7,8 @@ Atlantic Health System website is maintained by Atlantic Health System, 475 Sout
 **OUR COMMITMENT TO YOUR PRIVACY:**  
 We are dedicated to maintaining the privacy of your medical information. In conducting our services, we will create records regarding you and the treatment and services we provide to you (including records relating to psychiatric treatment, drug and alcohol treatment or abuse or HIV status, if any). These records are our property, however we are required by law to maintain the privacy of medical and health information about you and to provide you with a notice of our legal duties and privacy practices with respect to Protected Health Information.
 
-To read the Notice of Privacy Practices, [click here >](https://web.archive.org/Files/Public/Documents/Notice%20of%20Privacy%20Practices.pdf)
+[Notice of Privacy Practices >](https://web.archive.org/Files/Public/Documents/Notice%20of%20Privacy%20Practices.pdf)  
+[Aviso Sobre Practicas De Privacidad >](https://web.archive.org/Files/Public/Documents/Aviso%20Sobre%20Practicas%20De%20Privacidad.pdf)
 
 **HOW Atlantic Health System USES INFORMATION PROVIDED BY YOU:** **  
 **[www.atlantichealth.org](https://web.archive.org/atlantic) or any other Atlantic Health System site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. If you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment.
