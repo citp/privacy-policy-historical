@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thenorthwestern.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616181623id_/http%3A//www.thenorthwestern.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenorthwestern.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217212942id_/http%3A//www.thenorthwestern.com/section/privacy) for the most accurate reproduction.*
 
-# privacy | The Oshkosh Northwestern | thenorthwestern.com
+# PRIVACY | Northwestern Media | thenorthwestern.com
 
 Last Updated: January 3, 2013
 
@@ -122,7 +122,7 @@ Become a subscriber today to enjoy these benefits:
 
 
 
-[View subscription options](https://web.archive.org/section/subscription-options?gps-source=SUBPW11)
+[View subscription options](https://web.archive.org/section/subscription-options&gps-source=CPPWOPT)
 
 ## You now have full access.
 
