@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junowebdesign.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617032019id_/http%3A//www.junowebdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junowebdesign.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217032750id_/http%3A//www.junowebdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JunoWebDesign.com
 
@@ -32,3 +32,5 @@ JunoWebDesign may update this policy at any time. Please check daily at 8PM GMT 
 ### Questions
 
 Any questions about this Privacy Policy should be addressed by email to info at junowebdesign dot com.
+
+Get started now, contact Juno Web design on 0845 544 1766
