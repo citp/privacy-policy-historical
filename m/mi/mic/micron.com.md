@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314131002id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217154802id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Micron Technology, Inc.
 
