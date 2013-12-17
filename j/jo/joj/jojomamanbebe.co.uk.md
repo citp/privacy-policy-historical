@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jojomamanbebe.co.uk privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618023138id_/http%3A//www.jojomamanbebe.co.uk/pu%2Bjojo-maman-bebe%2Bprivacy-policy%2B1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jojomamanbebe.co.uk privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217195922id_/http%3A//www.jojomamanbebe.co.uk/pu%2Bjojo-maman-bebe%2Bprivacy-policy%2B1) for the most accurate reproduction.*
 
 # JoJo Maman Bébé Privacy Policy
-
-Privacy Policy 
 
 When you place an order with _[JoJo Maman Bébé](http://www.jojomamanbebe.co.uk/)_ we ask you to provide us with certain personal information such as name, address and email to enable us to fulfill your order and communicate efficiently with you. We are registered with the Data Protection Act and store your data in accordance with this act. 
 
@@ -25,8 +23,6 @@ Secure Sockets Layer (SSL) Technology
 The security of your order information and personal details (including your credit or debit card details) is very important to us and we have made every effort to make security a priority when you are ordering from the website. We use up-to-the-minute Secure Sockets Layer (SSL) technology to assure that your personal information is encrypted. This ensures that your credit card details remain scrambled when they pass over the web. Your card details are not held on the internet and once payment has been validated and authorisation approved, the card details are deleted. We use verify by visa to protect your card against unauthorised use and give you extra protection and peace of mind when you're shopping with us. 
 
 You can confirm the security of your connection to the checkout page by checking the bottom of your browser window. When the connection is secure you will see a closed lock. You can also independently check the validity of this website by clicking [here](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.jojomamanbebe.co.uk&lang=en)
-
-Cookies 
 
 What are cookies?  
 
