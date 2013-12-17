@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tcm.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516145318id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcm.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217024323id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.*
 
 # Turner Broadcasting Sytem, Inc. Online Privacy Statement
 
-### Turner Broadcasting Sytem, Inc. Online Privacy Statement
+## Turner Broadcasting Sytem, Inc. Online Privacy Statement
 
 Thank you for visiting TCM.com, a site presented to you by Turner Broadcasting System, Inc. ("Turner"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated websites ("Turner Network"), which includes any sites or services owned, operated or offered by or on behalf of Turner or its affiliates.
 
