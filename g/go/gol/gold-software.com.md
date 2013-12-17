@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gold-software.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617152636id_/http%3A//www.gold-software.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold-software.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217142435id_/http%3A//www.gold-software.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy policy
 
