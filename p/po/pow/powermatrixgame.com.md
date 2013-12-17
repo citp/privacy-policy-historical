@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermatrixgame.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624185909id_/http%3A//www.siemens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermatrixgame.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217071739id_/http%3A//www.siemens.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Siemens Global Website
 
@@ -9,6 +9,13 @@ Protecting the security and privacy of your personal data is important to Siemen
 #### Personal data
 
 Through our Web sites, Siemens will not collect any personal data about you (e.g. your name, address, telephone number or e-mail address), unless you voluntarily choose to provide us with it (e.g. by registration, survey), respectively, provide your consent, or unless otherwise permitted by applicable laws and regulations for the protection of your personal data.
+
+#### Use of Adobe Analytics
+
+On our Web site we use Adobe Analytics in order to constantly improve the site and/or identify errors. For this purpose certain data is stored such as the Web site visited, including its metadata, the Internet pages referring to Siemens, the time at which the Web site was called up and the browser used. 
+
+In order to exclude data aggregation and analysis by Adobe Analytics occasioned by your visit to this Web site, [please click here](http://www.d1.sc.omtrdc.net/optout.html?locale=en_US&second=1&second_has_cookie=0). This will set an exclusion cookie in your browser. While it contains no personal data, it enables Adobe Analytics technically to recognize your preference on a permanent basis.   
+If you delete this exclusion cookie or change your computer or Internet browser, you must set the exclusion cookie again.
 
 #### Purpose of Use
 
