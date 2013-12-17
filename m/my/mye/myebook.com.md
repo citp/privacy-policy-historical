@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myebook.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613044402id_/http%3A//www.myebook.com/index.php%3Foption%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myebook.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217050056id_/http%3A//www.myebook.com/index.php%3Foption%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Myebook - get it out there!
 
