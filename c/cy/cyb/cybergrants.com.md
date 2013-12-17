@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530213205id_/http%3A//www.cybergrants.com/cg_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217135624id_/http%3A//www.cybergrants.com/cg_privacy.shtml) for the most accurate reproduction.*
 
 # CyberGrants
 
@@ -74,6 +74,8 @@ CyberGrants needs your help in keeping the personal data you have shared with us
 Dispute resolution for Safe Harbor issues is handled through eTrust. They may be contacted through <http://etrust.org/>
 
 Questions regarding this Privacy Statement or the information practices of the Company's Web site should be directed to the CyberGrants Information Security Officer at [iso@cybergrants.com](mailto:iso@cybergrants.com) or by mailing CyberGrants ISO, 300 Brickstone Square, Suite 601, Andover MA 01810.
+
+_Revised and posted as of December 12, 2012_
 
 [ ](http://www.etrust.org/cert/389797.html)
 
