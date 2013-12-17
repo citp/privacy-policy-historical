@@ -1,164 +1,203 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606123456id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217173429id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Personal Information Confidentiality - Privacy - Allianz Australia
 
-Protecting your privacy and the confidentiality of your personal information is important to us, as it is fundamental to the way we conduct business.
+## Privacy
 
-Allianz is sensitive to privacy issues and treats very seriously the ongoing trust our customers have placed in us. 76 million customers in more than 70 countries trust their information to the worldwide Allianz Group.
+This Privacy Policy sets out how Allianz* collects, stores, uses and discloses personal information.
 
-You can relax knowing that Allianz aspires to Insurance Industry best practice procedures and believe we have robust systems in place for handling and protecting your private information.
+Where required by law, we will provide you privacy information (in the form of a Privacy Notice or other privacy disclosure documentation) specific to the products or services you want to obtain from us or specific to your dealings with us.
 
-  
+## What is ʻpersonal informationʼ?
 
+Personal information is information or an opinion about an identified individual, or an individual who is reasonably identifiable:
 
-## Who is Allianz?
-
-Allianz is an Australian, wholly owned subsidiary of Allianz SE, one of the world's largest general insurance and financial service providers.
-
-Our address is 2 Market Street, Sydney, NSW, 2000. We can be reached via email at customerservice@allianz.com.au or by calling 13 2664.
-
-  
-
-
-## What is "personal information"?
-
-Personal information is any information whereby your identity may be ascertained.
-
-  
-
-
-##  What is the purpose for the collection of your personal information?
-
-Where it is possible we will collect personal information directly from you. The personal information collected and maintained by Allianz comprises your name, address, contact details and information specific to your product preference. 
-
-However, in some circumstances we will need to collect your personal information from third parties. These circumstances may include collection of your personal information from an insurance investigator or a medical practitioner for the purposes of assessing your claim under the insurance policy.
-
-When you give personal information about other individuals, we and our agents rely on you to have made or make them aware:
-
-    * that you will or may provide their information to us; 
-    * the types of third parties to whom the information my be provided; 
-    * the relevant purposes we and the third parties will disclose it to, will use it for; and 
-    * how they can access it.
+  * whether the information or opinion is true or not; and
+  * whether the information or opinion is recorded in a material form or not.
 
 
 
-We rely on you to have obtained their consent on these matters. If you have not done or will not do either of these things, you must tell us or our agents before you provide the relevant information.
+## What kinds of personal information do we collect and hold?
 
-For some policies we also collect and maintain your sensitive information. This comprises information about your health, membership of any trade unions or professional associations and any criminal convictions you may have.
+The personal information collected and maintained by Allianz generally includes your name, date of birth, gender, address, contact details and information specific to the product or service you decide to purchase from us, such as details of any property being insured, or your dealings with the specific Allianz business.
 
-The information requested allows us to assess risks, write and administer your insurance cover and claims. 
+For some policies, we also collect and maintain your sensitive information. This includes information about your health, genetics, membership of any trade unions or professional associations and any criminal convictions you may have.
 
-If we do not collect your personal information we will not be able to do business with you.
+For employment applications, we collect your name, address, contact details, current and past employment information, educational qualifications and professional associations. We also collect information about and proof of your residency status, the name and contact details of your referees and other information required for recruitment purposes. Where we seek your consent to conduct a background check, we also collect details of your proof of identity from you.
 
-  
+## How do we collect your personal information?
 
+Where it is possible, we collect your personal information directly from you in person, in writing, over the telephone, by facsimile, through our online services (including our virtual online assistant and any online chat functions) and/or by electronic messages. In some circumstances, we may also collect it from:
 
-## Disclosure of your personal information to third parties
-
-We disclose personal information to third parties who we believe are necessary to assist us and them in providing the relevant services and products. For example, in handling claims, we may have to disclose your personal and other information to third parties such as other insurers, reinsurers, loss adjusters, external claims data collectors, investigators, and agents or other parties as required by law. We limit the use and disclosure of any personal information provided by us to them to the specific purpose for which we supplied it.
-
-In providing the relevant products and services to you, we may share your personal information with related companies within Allianz.
-
-Personal information for the purposes specified above may be shared on a confidential basis with:
-
-    * our related body corporates; 
-    * our distributors and agents; 
-    * other insurers and reinsurers; 
-    * insurance reference bureaus; 
-    * government agents; 
-    * data collection and verification agencies; 
-    * loss adjusters and assessors; 
-    * repairers and suppliers; 
-    * investigators and recovery agents; 
-    * police, law and credit enforcement bodies and agencies; 
-    * legal advisors; 
-    * medical, health and case managers and service providers; 
-    * actuaries and accountants; 
-    * contracted advisors and service providers; 
-    * professional and other organisations; 
-    * your employer; 
-    * other parties as required by law and/or 
-    * the agent of any of these.
+  * your agents or representatives, for example your insurance broker, your legal advisers, your family member who applies for a policy that covers you or is instructed by you to deal with us;
+  * third parties who you have asked to provide your personal information to us, including your referees and your insurer;
+  * our agents and service providers;
+  * other insurers and insurance reference bureaus;
+  * people who are involved in a claim or assist us in assessing, investigating, processing or settling claims, including third parties claiming under your policy, witnesses, medical service providers, external claims data collectors and verifiers, and your employer;
+  * third parties who may be arranging insurance cover for a group that you are a part of;
+  * law enforcement, dispute resolution, statutory and regulatory bodies;
+  * marketing organisations, including through the use of purchased lists;
+  * industry databases;
+  * publicly available sources such as the Internet and telephone directories; and/or
+  * the general public when it is unsolicited and may be relevant to a particular policy or fraud investigation.
 
 
 
-  
+Unless we are required or permitted by law to collect sensitive information about you, we will only do so by obtaining your consent.
 
+If you nominate individuals to be covered by your insurance policy, you should direct them to this Privacy Policy and make them aware of the content of any privacy notice we provide you.
 
-## Direct marketing and your privacy
+If you decide to complete an online application form, the information that you enter into the online form will only be collected by us if you submit your online application. If at any stage you cancel your application prior to submitting your application, the information you have entered up to that point will be automatically deleted.
 
-From time to time we may advise or offer you information on other Allianz products or services that may be relevant and of interest to you. If you do not wish to receive these offers or information, please complete our online "Opt Out" form below or call the Allianz Direct Marketing Privacy Service Line – Phone: 1800 000 284. EST 9am–5pm, Mon-Fri.
+## Website tracking
 
-  
+We may collect information about your visit to our site to assist us to measure and improve our website. Examples of information that we collect include: day and time of your visit, whether you have visited our website previously, whether you used a search engine to find us and some geographical information about what country and state you are in.
 
-
-## Contacting us about access and correction of your personal information
-
-Allianz aims to ensure that your personal information is accurate, up to date and complete. Please contact us on 1300 360 529 EST 9am – 5pm, Mon-Fri if you would like to seek access to, or revise your personal information or feel that the information we currently have on record is incorrect or incomplete.
-
-If you believe that the privacy of your personal information at Allianz has been interfered with, you may lodge a complaint by contacting us on 1300 360 529 EST 9am – 5pm, Mon-Fri or in writing to Corporate Compliance, Allianz Australia Limited, GPO Box 4049, Sydney, NSW, 2001. Your complaint will be managed and resolved through our internal Privacy Complaint Procedure.
-
-If however, you are not satisfied with the way Allianz has handled your complaint you may contact the Office of the Federal Privacy Commissioner ("OFPC") on 1300 363 392.
-
-  
-
-
-## Website Privacy Statement
-
-In the course of using our sites you may provide Allianz with personal information. Allianz will use all reasonable measures to protect any such information from being used for any other purpose other than the provision of Allianz or any Related Bodies Corporates insurance products or services.
-
-  
-
-
-### Data transmitted over the Internet
-
-Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although Allianz strives to protect such information, we cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.
-
-If you decide to complete an online application form, the information that you enter into the online form will only be collected by us if you submit your online application. If at any stage you cancel your application prior to submitting your application, the information you have entered up to that point will be automatically deleted. 
-
-  
-
-
-### Advertising and tracking
-
-We may collect information about your visit to our site to assist us with measuring and improving our website. Examples of information that we collect include day and time of your visit, whether you have visited our website previously, whether you used a search engine to find us and some geographical information about what country and state you are in.
-
-We use Site Intelligence to collect visitor information so that we can better understand how to improve our products and services to you. One of the primary methods used by this tool is the placement of cookies. Cookies are small information files that an end user's Web browser places on that user's computer when a Website is visited. For information on disabling these cookies, please go to the privacy settings section within your browser. In addition to the session cookie, Site Intelligence uses other data collection methods such as appending query strings to an image request. However, at no other point is the data collected within Site Intelligence sent overseas or shared with 3rd parties and all data is securely stored by Allianz. 
+We use Google Analytics to collect visitor information so that we can better understand how to improve our products and services for you. One of the primary methods used by this tool is the placement of cookies. Cookies are small information files that an end user's web browser places on their computer when a website is visited. For information on disabling these cookies, please go to the privacy settings section within your browser. In addition to the session cookie, Google Analytics uses other data collection methods such as appending query strings to an image request. We store the data generated by Google Analytics securely and do not share it with third parties.
 
 We also use other external companies for the following purposes:
 
+  * for web hosting services for this website; and/or
+  * to gather non-personal information (using cookies) in order to evaluate the website’s effectiveness, for example online marketing activities.
+
+
+
+## Email
+
+We retain the content of any email that you send to us if we believe we have a legal requirement to do so. Your email message content may be monitored by our employees for security issues, including where email abuse is suspected; our response to you may be monitored for quality assurance issues.
+
+## For what purposes do we collect, hold and use your personal information?
+
+We collect, hold and use your personal information for the purposes of providing our products and services and managing our business. This may include:
+
+  * arranging and administering insurance;
+  * assessing risks and underwriting insurance;
+  * assessing, investigating, processing and settling claims, including managing workers compensation return to work programs;
+  * marketing our services and products and those of our related companies, brokers, intermediaries and business partners that may interest you;
+  * conducting customer research and analytics in relation to our service and products, and improving our service and products;
+  * handling complaints and disputes;
+  * training our employees, agents and representatives;
+  * detecting, investigating and preventing fraud;
+  * identifying and contacting individuals who do business with us; and/or
+  * assessing and processing employment applications.
+
+
+
+Personal information (including sensitive information) collected for workers compensation claims will only be used in connection with the business of providing workers compensation claim services or for purposes required by workers compensation regulators or by law.
+
+## Who do we disclose your personal information to and why?
+
+We may disclose your personal information to others for the purposes specified in the section above. This may include disclosure to:
+
+  * our related companies;
+  * our distributors and agents;
+  * other insurers and reinsurers;
+  * insurance reference bureaus;
+  * government, law enforcement, dispute resolution, statutory, regulatory or enforcement bodies and agencies;
+  * external data collection and verification agencies;
+  * loss adjusters and assessors;
+  * repairers and suppliers;
+  * investigators and recovery agents;
+  * medical and health service providers, case managers and rehabilitation consultants;
+  * our advisers (including legal, actuary and accounting advisers) and service providers, including marketing organisations and debt collecting agents;
+  * professional and other organisations;
+  * your employer;
+  * parties that we have an insurance scheme in place with under which you purchased your policy, such as a financier or motor vehicle manufacturer or dealer;
+  * the agent and contractor of any of the third parties above; and/or
+  * other parties as required by law.
+
+
+
+We may also disclose your personal information (but not sensitive information) to others we have business arrangements with to enable them to offer their products and services to you.
+
+We will not disclose your sensitive information for any purpose, other than the purpose for which it was collected, or a directly related secondary purpose, unless you otherwise consent.
+
+## Disclosure to overseas recipients
+
+In some instances, your personal information might be disclosed to other companies in the Allianz Group, business partners, reinsurers and service providers (including providers of our virtual online assistant and any online chat function) that may be located overseas. The countries in which these recipients may be located will vary from time to time, but may include Canada, Germany, New Zealand, United Kingdom, United States of America and other countries where the Allianz Group has a presence (a list of which is available on the Allianz Group website www.allianz.com) or engages subcontractors.
+
+We do not disclose your personal (including sensitive) information to recipients outside of Australia when it is collected for the following insurance products:
+
+  * life insurance; 
+  * consumer credit insurance; 
+  * workers compensation insurance in New South Wales and Victoria; 
+  * Treasury Managed Fund; and 
+  * compulsory third party insurance in South Australia. 
+
+
+
+We regularly review the security of our systems used for sending personal information overseas. Any information disclosed may only be used for the purposes of collection detailed previously and for system administration.
+
+## Direct marketing and your privacy
+
+From time to time, we may use your personal information to advise you about or offer you other products or services that may be relevant and of interest to you. If you do not want to receive these offers from us (including product or service offerings from us on behalf of our brokers, intermediaries and/or our business partners), please complete our online Opt Out form below, or call the telephone numbers in the Contacting us about access and correction of your personal information section below.
+
+[Online “Opt Out” form](https://web.archive.org/privacy/optout.nsf/InternetOptOut?OpenForm)
+
+In some instances, we may disclose your personal information (but not sensitive information) to others we have business arrangements with to enable them to offer their products and services to you.
+
+We do not use or disclose sensitive information for the purposes of direct marketing.
+
+Personal information, which is not sensitive information, that is collected for workers compensation insurance and compulsory third party insurance in South Australia will not be used or disclosed to others for direct marketing, customer or market research purpose unless required by the regulator.
+
+## How do we hold your personal information?
+
+We may hold your personal information in a number of ways, including:
+
+  * in our computer systems or databases, which may involve storing data on storage or computer systems provided by third party suppliers;
+  * in paper records; and/or
+  * in telephone recordings.
+
+
+
+Where it has been collected from our or your agent, or our service providers, they may also hold copies of your personal information.
+
+We may combine personal information we receive about you with other information we hold about you. This includes information received from third parties and information collected for different products and services.
+
+## Links to external sites
+
+We may include links to external sites that we consider contain content relevant to the information that you were seeking from us. Where these links occur, we accept no responsibility for the accuracy of the content, the privacy or security of those sites or your reliance on any information contained within any such site.
+
+## Contacting us about access to, and correction of, your personal information
+
+Allianz aims to ensure that your personal information is accurate, up to date, complete and relevant. If you would like to seek access to, or revise, your personal information, or feel that the information we currently have on record is incorrect or incomplete, please contact us using the following contact details:
+
+Privacy enquiry | Phone  
+---|---  
+Life insurance and Consumer Credit Insurance | 13 1000 EST 9am-6pm  
+Monday to Friday  
+Workers Compensation insurance | 1300 130 664 EST 8:30am-5pm  
+Monday to Friday  
+CTP South Australia | 1300 137 331 EST 8:30am-5pm  
+Monday to Friday  
+All other privacy enquiries, including general insurance, CTP (except South Australia) and warranty products | 1300 360 529 EST 8am-6pm  
+Monday to Friday  
   
+## Making a complaint
 
+If you believe that we have interfered with your privacy in our handling of your personal information, you may lodge a complaint by contacting us on the above contact details or in writing to: Corporate Compliance, Allianz Australia Limited, GPO Box 4049, Sydney, NSW 2001.
 
-    * For webhosting services for this website, 
-    * To gather non-personal information (using cookies) in order to evaluate the effectiveness of online marketing activities, for example.
+We will attempt to resolve your complaint in accordance with our Complaints Resolution Process. You can obtain a copy of our [Complaints Resolution Process](http://www.allianz.com.au/aalaus/aalaus.nsf/File?Open&s=aucu+complaints+and+disputes+brochure) by contacting us or going to the following web address:  
+http://www.allianz.com.au/aalaus/aalaus.nsf/File?Open&s=aucu+complaints+and+disputes+brochure.
 
+If you are unhappy with the resolution of your complaint or with the way that Allianz has handled your complaint through the Complaints Resolution Process, you may be able to refer the matter to the Financial Ombudsman Service (FOS) subject to its Terms of Reference or the Office of the Australian Information Commissioner. The contact details for these bodies are as follows:
 
+Financial Ombudsman Service Limited
 
-  
+GPO Box 3  
+Melbourne VIC 3001  
+1300 78 08 08  
+[www.fos.org.au](http://www.fos.org.au/)
 
+Office of the Australian Information Commissioner
 
-### Call recording
+GPO Box 5218  
+Sydney NSW 2001  
+1300 363 992  
+[www.oaic.gov.au](http://www.oaic.gov.au/)
 
-Allianz may record incoming and / or outgoing telephone calls for training or verification purposes. If you require access to a recorded call, a copy or appropriate access will be provided by Allianz where available. It should be noted that not all calls are recorded by Allianz and therefore not all calls will be accessible upon request.
+## Changes to this Privacy Policy
 
-  
+We may make changes to this Privacy Policy from time to time for any reason. We will publish changes to this Privacy Policy on this website.
 
-
-### Email
-
-We will retain the content of any e-mail that you send us, if we believe that we have a legal requirement to do so. Your e-mail message content may be monitored by our employees for security issues including where e-mail abuse is suspected; our response to you may be monitored for quality assurance issues.
-
-  
-
-
-### SPAM
-
-SPAM means unsolicited advertising material sent via email. Allianz does not send this type of communication. If you have provided your email address to Allianz we may however use this to promote our products, where you have indicated your permission to do so. If you receive an email from Allianz at any time and no longer wish to receive this type of communication, you can forward an email, including the Allianz email address from whom you received your email, to [unsubscribe@allianz.com.au](mailto:unsubscribe@allianz.com.au). We will then remove your email from our records within 5 business days of receiving your instructions.
-
-  
-
-
-### Site linking policy
-
-We may include links to external sites that we consider contain information relevant to the information that you were seeking with us. Where these links occur, we accept no responsibility for the accuracy of the content of those sites or your reliance on any information contained within any such site.
+*Allianz means Allianz Australia Limited and its wholly owned subsidiaries, excluding companies operating the following businesses: Club Marine (www.clubmarine.com.au), Hunter Premium Funding (www.hpf.com.au), Ken Tame (www.kentame.com.au), and Primacy (www.primacyua.com.au) which have their own privacy policies. Overseas subsidiaries have their own privacy policies where required by local privacy laws. This Privacy Policy also covers the Allianz Marine & Transit business (www.allianzmarineandtransit.com.au).
