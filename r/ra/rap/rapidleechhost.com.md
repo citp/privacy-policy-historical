@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidleechhost.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523092714id_/http%3A//www.estrowebservices.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidleechhost.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217204640id_/http%3A//www.estrowebservices.com/privacy.php) for the most accurate reproduction.*
 
 # Estro Web Services Private Limited - Privacy Policy
 
