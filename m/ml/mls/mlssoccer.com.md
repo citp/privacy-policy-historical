@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlssoccer.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103325id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlssoccer.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217041322id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MLSsoccer.com
 
