@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytrippen.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510121514id_/http%3A//www.daytrippen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrippen.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217113004id_/http%3A//www.daytrippen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Daytrippen Privacy Policy Statement
 
@@ -32,4 +32,4 @@ Google, as a third party vendor, uses cookies to serve ads on your site.
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
 Users may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html). Editor’s Note: Comments that appear on the site are not the opinion of DayTrippen.com, but only of the comment writer. Personal attacks, offensive language and unsubstantiated allegations are not allowed. 
 
-For more information please contact us.  [info@daytrippen.com](https://web.archive.org/web/20130510121514id_/http%3A//www.daytrippen.com/&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#105;n&#102;&#111;&#x40;&#100;a&#x79;t&#x72;i&#x70;&#112;&#101;n.c&#x6f;&#x6d;)
+For more information please contact us. [info@daytrippen.com](mailto:info@daytrippen.com)
