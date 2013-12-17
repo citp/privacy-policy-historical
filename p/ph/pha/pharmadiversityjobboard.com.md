@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pharmadiversityjobboard.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602063744id_/http%3A//www.pharmadiversityjobboard.com/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmadiversityjobboard.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217152642id_/http%3A//www.pharmadiversityjobboard.com/cm/privacy) for the most accurate reproduction.*
 
 # Privacy policy: Pharma diversity job board - diversity job board, pharmaceutical jobs
+
+[](http://www.dogapplause.com/)
 
 PharmaDiversity is committed to protecting your privacy. We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes. We have created this Privacy Policy to demonstrate our commitment to protecting information you submit. When you register or complete a Job Agent with us, you are able to cancel, delete or opt out of your account at anytime. Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in this Privacy Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails and job alerts from us, as described below.
 
