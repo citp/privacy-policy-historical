@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlinevision.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603165544id_/http%3A//inlinevision.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlinevision.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217095055id_/http%3A//inlinevision.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InlineVision: Web Design / E-Commerce / PPC / Social Media | Las Vegas, NV
 
@@ -6,7 +6,7 @@
 
 ###### Online Privacy Statement
 
-This Privacy Policy applies to all of the products, services and websites offered by [ninanet site solutions, LLC](http://ninanet.com/), its subsidiaries, divisions, brands or affiliated companies (collectively, our “Brands and Services”), including inlineVision.  
+This Privacy Policy applies to all of the products, services and websites offered by inlineVision, its subsidiaries, divisions, brands or affiliated companies (collectively, our “Brands and Services”).  
 We respect your privacy and are committed to protecting the personal information you share with us. This statement describes how we collect and use your personal information to provide services that you request or when you choose to provide us with your personal information. 
 
 We comply with, and are certified by, the U.S. Department of Commerce for Safe Harbor Certification of its Privacy Statement.   
