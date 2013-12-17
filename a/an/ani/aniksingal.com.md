@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aniksingal.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101214611id_/http%3A//aniksingal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aniksingal.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217114952id_/http%3A//aniksingal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Anik Singal - Self Help To Transform Your Life
+# Privacy Policy | Anik Singal - The Fighting Entrepreneur
 
 Thank you for visiting the AnikSingal.com (“AnikSingal.com”) personal data management and e-commerce Internet web site (“Site”) located at the URL www.AnikSingal.com.  
 This Privacy Policy details certain policies governing AnikSingal.com’s use of personally identifiable information provided to AnikSingal.com via this Site.
