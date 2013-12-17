@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muhlenberg.edu privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616170831id_/http%3A//muhlenberg.edu/main/aboutus/oit/about/policies_procedures/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muhlenberg.edu privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217205335id_/http%3A//muhlenberg.edu/main/aboutus/oit/about/policies_procedures/privacy.html) for the most accurate reproduction.*
 
 # Muhlenberg College: Information Technology - Muhlenberg College Web Privacy Statement
 
