@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueappeal.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604070556id_/http%3A//valueappeal.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueappeal.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217165746id_/http%3A//www.valueappeal.com/privacy.aspx) for the most accurate reproduction.*
 
 # ValueAppeal - Appeal Your Property Tax Assessment
 
