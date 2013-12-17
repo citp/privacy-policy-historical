@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the speaktoselltraining.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622195651id_/http%3A//www.theinvisibleclose.com/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaktoselltraining.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217115029id_/http%3A//www.theinvisibleclose.com/articles/privacy) for the most accurate reproduction.*
 
 # Privacy | The Invisible Close | Sales Nuggets
+
+## Privacy
 
 For each visit to our Web site, our Web server automatically recognizes only the visitor’s IP address, but not the e-mail address, unless the visitor volunteers their e-mail address to us by filling out a Web form.
 
