@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425031200id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217150930id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Andhrawishesh.com
 
@@ -67,15 +67,16 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 All information gathered on WISHESH DIGITAL MEDIA is securely stored within the WISHESH DIGITAL MEDIA controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
-If you have any questions about our security practices, please send an email to us at [privacy@wishesh.com](mailto:privacy@wishesh.com)
+If you have any questions about our security practices, please send an email to us at [info@andhrawishesh.com](mailto:info@andhrawishesh.com)
 
 ## Enforcement of Privacy Policy
 
-We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used on our websites, kindly contact WISHESH DIGITAL MEDIA Support Services at [support@wishesh.com](mailto:support@wishesh.com) or write to the following address:
+We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used on our websites, kindly contact WISHESH DIGITAL MEDIA Support Services at [info@andhrawishesh.com](mailto:info@andhrawishesh.com) or write to the following address:
 
 **WISHESH DIGITAL MEDIA Pvt. Ltd** ,  
 Plot No:26, Nagarjuna Hills  
 Panjagutta   
 Hyderabad, A.P.   
 India - 500 082  
-Ph: 040 - 23352804
+Ph: 040 - 23352804  
+Fax: 91.40. 233.555.35 
