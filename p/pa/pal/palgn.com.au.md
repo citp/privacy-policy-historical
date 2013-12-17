@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palgn.com.au privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507120820id_/http%3A//palgn.com.au/page/9/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgn.com.au privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217011254id_/http%3A//palgn.com.au/page/9/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - PAL Gaming Network
 
