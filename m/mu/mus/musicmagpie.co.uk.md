@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmagpie.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103027id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmagpie.co.uk privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217044009id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # musicMagpie - Selling your music CDs, DVDs, games, blu-rays, mobiles, iPads, iPhones, iPods and Technology products? Sell for cash the best prices paid
 
@@ -8,6 +8,8 @@ Entertainment Magpie Limited T/A musicMagpie.co.uk is committed to protecting yo
 musicMagpie.co.uk collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our web site and other sites accessible from them. We also collect information about the transactions you undertake.
 
 We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and site use which enables us to improve the service we provide.
+
+If you have given us permission, we will send you marketing emails. If you wish to stop these emails, please unsubscribe using the unsubscribe link contained in every email we send. You can also contact us at Black & White House, Hulley Rd, Hurdsfield Industrial Estate, Macclesfield, SK10 2AF or call us at 0870 495 1283 or email [customerservices@musicmagpie.co.uk](mailto:customerservices@musicmagpie.co.uk) to unsubscribe. 
 
 **Use of your information and your preferences**  
 We will use your information to provide and personalise our service and to detect and prevent fraud. We will also use your contact details to communicate with you. We may use your information to send you offers and news about musicMagpie.co.uk products and services or those of other carefully selected companies which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes. We like to hear your views to help us improve our service. From time to time, we may contact you by post, email, telephone or fax to ask your opinions.
