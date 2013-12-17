@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616223011id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveaccess.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217030833id_/http%3A//www.loveaccess.com/privacy.htm%3Fbrief%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | LoveAccess.com
 
-### Effective Date: March 10, 2002
+### Effective Date: Decemeber 11, 2013
 
-LoveAccess.com is a product of LifeAccess.com Inc. 
+LoveAccess.com is a product of Life Access Holdings Inc. 
 
 Our postal address is   
-**77 Accord Park Drive Unit B-10  
-Norwell MA 02061**
+**7460 Warren Parkway, Suite 255  
+Frisco, TX 75034**
 
 We can be reached via e-mail at [info@LoveAccess.com](mailto:info@LoveAccess.com)
 
 LoveAccess.com is committed to protecting your privacy. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information. This privacy policy may be modified in the future and will be posted on our website.
 
-LoveAccess.com is a product of LifeAccess.com, Inc. (d/b/a [RoommateAccess.com](http://www.roommateaccess.com/) or [ApartmentAccess.com](http://www.apartmentaccess.com/) or [LoveAccess.com](http://www.loveaccess.com/)). You may have reached this website from a LifeAccess affiliate, in which case their name may appear at the top of the page. If so, please be aware that this website was customized by LifeAccess.com, Inc. for the affiliate, that LifeAccess may share your information with the affiliate and that during your visit to this website the affiliate may independently collect other information from you. You should make note of the affiliate's privacy policy for your own knowledge and protection.
+LoveAccess.com is a product of Life Access Holdings, Inc. (d/b/a [LoveAccess.com](http://www.loveaccess.com/)). You may have reached this website from a LifeAccess affiliate, in which case their name may appear at the top of the page. If so, please be aware that this website was customized by Life Access Holdings, Inc. for the affiliate, that Life Access may share your information with the affiliate and that during your visit to this website the affiliate may independently collect other information from you. You should make note of the affiliate's privacy policy for your own knowledge and protection.
 
 In addition to the information we collect directly from you, we also monitor and track usage of our website, viewing and traffic patterns, customer behavior, and other similar information. We use this information, as well as all of your personal information, for internal business and administrative purposes to improve our website, our product and service offerings, our operations, and our customer service. We may also use your personal information from time to time to send you special offers, new products, services, promotions, and other similar information.
 
