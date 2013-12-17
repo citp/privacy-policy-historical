@@ -1,33 +1,27 @@
-<!--The following is the downloaded HTML source of the funcinemas.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531011610id_/https%3A//www.funcinemas.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funcinemas.com privacy policy that was archived on 2013-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217082701id_/https%3A//www.funcinemas.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-	Untitled Page
-</title><meta name="description" content="Book FunCinemas Movie Tickets, Fun Cinemas Movie Tickets, Cinema Tickets, Discounts and Offers, Fun Reward, Online booking."><meta name="keywords" content="online ticket booking movies, movie tickets, online movie ticket, films tickets, hindi movies tickets, ticket booking."><meta name="author" content="Funcinemas"><meta name="rating" content="general"><link type="text/css" href="css/master.css" rel="stylesheet" media="screen"><link href="css/slideshow.css" rel="stylesheet" type="text/css"><link href="css/dropdown-booking.css" rel="stylesheet" type="text/css"><link type="text/css" href="css/structure.css" rel="stylesheet" media="screen">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>:: Fun Cinemas ::</title>
+	<link href="css/slideshow.css" rel="stylesheet" type="text/css">
+	<link href="css/booking.css" rel="stylesheet" type="text/css">
+	<link href="css/dropdown.css" rel="stylesheet" type="text/css">
+    <link type="text/css" href="css/master.css" rel="stylesheet" media="screen">
+	
+    <link type="text/css" href="css/structure.css" rel="stylesheet" media="screen">
+    
      
     <!-- styles needed by jScrollPane -->
     <link type="text/css" href="css/jquery.jscrollpane.css" rel="stylesheet" media="all">
-
-	<style type="text/css">
-	.udetails { 
-		visibility:hidden;
-		display:none;
-	    width:368px;
-	    height:0px;
-	    position:fixed;
-	    top:145px;
-	    left:700px;
-	}
-	
-	</style>
+	<script src="scripts/booking.js">
+	</script>
 	<script src="scripts/jquery.min.js">
 	</script>
-
-	<script language="javascript" src="scripts/slideshow-dropdown-booking.js">
+    <script language="javascript" src="scripts/dropdown.js">
+    </script>
+	<script src="scripts/slideshow.js">
 	</script>
-
-
-
 	
     <!-- the mousewheel plugin - optional to provide mousewheel support -->
     <script type="text/javascript" src="scripts/jquery.mousewheel.js"></script>
@@ -73,6 +67,7 @@
             }
             isTalkie = false;
             document.getElementById('funreward').style.visibility = "visible";
+            changepagecontent(cityname,cityid);
 	    }
         document.getElementById("ddlcityheader").innerHTML = cityname;
 	    document.getElementById("openMovieButton").setAttribute("onclick","OpenShowTable('"+cityid+"','"+cityname+"');");
@@ -142,9 +137,21 @@
         modalwidth=800;
         modalheight=510; 
         makeRequest( "PreBookingPopUp.aspx?FilmID="+FilmID,"TrailerID=" );
-    }    
+    } 
+       
 	</script>	
-
+	<style type="text/css">
+	.udetails { 
+		visibility:hidden;
+		display:none;
+	    width:368px;
+	    height:0px;
+	    position:fixed;
+	    top:145px;
+	    left:700px;
+	}
+	
+	</style>
 	
 </head>
 <body>
@@ -164,7 +171,7 @@
                     <li style="background-image:url('image/drop-down-bg.png' ); background-repeat:no-repeat;  padding-right: 30px; ">
                         <a style="width:210px" href="javascript:void(0);" onclick="mopen('citylist')" onmouseout="mclosetime()" id="ddlcityheader">Select City</a>
                         <div id="citylist" onmouseover="mcancelclosetime()" onmouseout="mclosetime()" class="citylist">
-                            <a id="13" href="javascript:void(0);" onclick="openMovie('13','Ambala');">Ambala</a><a id="20" href="javascript:void(0);" onclick="openMovie('20','Amritsar');">Amritsar</a><a id="11" href="javascript:void(0);" onclick="openMovie('11','Bengaluru');">Bengaluru</a><a id="21" href="javascript:void(0);" onclick="openMovie('21','Bhatinda');">Bhatinda</a><a id="23" href="javascript:void(0);" onclick="openMovie('23','Bhopal');">Bhopal</a><a id="3" href="javascript:void(0);" onclick="openMovie('3','Chandigarh');">Chandigarh</a><a id="25" href="javascript:void(0);" onclick="openMovie('25','Coimbatore ');">Coimbatore </a><a id="4" href="javascript:void(0);" onclick="openMovie('4','Delhi');">Delhi</a><a id="22" href="javascript:void(0);" onclick="openMovie('22','Dibrugarh');">Dibrugarh</a><a id="15" href="javascript:void(0);" onclick="openMovie('15','Gwalior');">Gwalior</a><a id="5" href="javascript:void(0);" onclick="openMovie('5','Jaipur');">Jaipur</a><a id="18" href="javascript:void(0);" onclick="openMovie('18','Kota');">Kota</a><a id="7" href="javascript:void(0);" onclick="openMovie('7','Lucknow');">Lucknow</a><a id="1" href="javascript:void(0);" onclick="openMovie('1','Mumbai');">Mumbai</a><a id="8" href="javascript:void(0);" onclick="openMovie('8','Panipat');">Panipat</a><a id="26" href="javascript:void(0);" onclick="openMovie('26','Ranchi');">Ranchi</a>
+                            <a id="13" href="javascript:void(0);" onclick="openMovie('13','Ambala');">Ambala</a><a id="20" href="javascript:void(0);" onclick="openMovie('20','Amritsar');">Amritsar</a><a id="11" href="javascript:void(0);" onclick="openMovie('11','Bengaluru');">Bengaluru</a><a id="21" href="javascript:void(0);" onclick="openMovie('21','Bhatinda');">Bhatinda</a><a id="23" href="javascript:void(0);" onclick="openMovie('23','Bhopal');">Bhopal</a><a id="3" href="javascript:void(0);" onclick="openMovie('3','Chandigarh');">Chandigarh</a><a id="25" href="javascript:void(0);" onclick="openMovie('25','Coimbatore');">Coimbatore</a><a id="4" href="javascript:void(0);" onclick="openMovie('4','Delhi');">Delhi</a><a id="22" href="javascript:void(0);" onclick="openMovie('22','Dibrugarh');">Dibrugarh</a><a id="15" href="javascript:void(0);" onclick="openMovie('15','Gwalior');">Gwalior</a><a id="12" href="javascript:void(0);" onclick="openMovie('12','Hyderabad');">Hyderabad</a><a id="5" href="javascript:void(0);" onclick="openMovie('5','Jaipur');">Jaipur</a><a id="27" href="javascript:void(0);" onclick="openMovie('27','Khanna');">Khanna</a><a id="18" href="javascript:void(0);" onclick="openMovie('18','Kota');">Kota</a><a id="7" href="javascript:void(0);" onclick="openMovie('7','Lucknow');">Lucknow</a><a id="1" href="javascript:void(0);" onclick="openMovie('1','Mumbai');">Mumbai</a><a id="8" href="javascript:void(0);" onclick="openMovie('8','Panipat');">Panipat</a><a id="26" href="javascript:void(0);" onclick="openMovie('26','Ranchi');">Ranchi</a>
                         </div>
                     </li>
                 </ul>
@@ -177,7 +184,9 @@
 			        
 		    	    
 		            </div>
-			        <div id="userbox" class="udetails" style=" z-index:-50"><div id="imagestring" style="visibility:hidden; display:none">2</div>
+			        <div id="userbox" class="udetails" style=" z-index:-50">
+
+<div id="imagestring" style="visibility:hidden; display:none">2</div>
 <div id="loginPanel">
 	
 	<div class="login-box box-round-corner box-shadow">
@@ -192,8 +201,8 @@
 	          <input type="password" size="30" id="txtPassword">
 	          <input class="submit" type="button" value="Sign on" onclick="checkloginform()">
 			</form></div>
-	          <p style="margin-left:14px; margin-top:20px; clear:left;">
-	            <a href="FRKnowMore.aspx">BENEFITS</a> |&nbsp;&nbsp;<a href="FunRewardsFAQ.aspx">FAQs</a>|&nbsp;&nbsp;<a href="FRRenew.aspx">RENEW</a> |&nbsp;&nbsp;<a href="FRRegister.aspx">ENROl NOW !</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+	          <p style="margin-left:70px; margin-top:20px; clear:left;">
+	            <a href="FRKnowMore.aspx">BENEFITS</a> |&nbsp;&nbsp;<a href="FunRewardsFAQ.aspx">FAQs</a> | &nbsp;&nbsp;<a href="#" onclick="Openforget()">Forgot Password?</a> &nbsp;&nbsp;&nbsp;&nbsp;</p>
 	          </div>
 			
 	</div>
@@ -206,7 +215,7 @@
 	</div>
 	<!--   Header End -->
    <div class="content">
-        
+         
             <div class="main-nav" id="funcmenus">
                 <a href="Default.aspx"><img src="image/home-nav.png" alt="Fun Cinema home page" width="67" height="28" border="0"></a>
                 <a href="Trailers.aspx"><img src="image/trailers-nav.png" alt="Trailers on fun cinema" width="79" height="28" border="0"></a>
@@ -232,7 +241,8 @@
 	
             
 		<div class="content-footer FL">
-		
+
+<br><br>		
 		
 		<h3>E-City Ventures Sites</h3>              
 		<ul class="content-footer-list">
@@ -350,22 +360,9 @@ function showtooltip() {
 function hidetooltip() {    
     document.getElementById('tooltip').style.visibility = "hidden";
 }
+
+
 </script>
-
-<script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-    try {
-        var pageTracker = _gat._getTracker("UA-2757623-1");
-        pageTracker._trackPageview();
-    }
-    catch (err) { }
-</script>
-
-<div id="HelpTip" style="visibility:hidden; position:absolute; top:inherit; left:inherit; z-index:10000; "></div>
-
 
 
 		</body></html>
