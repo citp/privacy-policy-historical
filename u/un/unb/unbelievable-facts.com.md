@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unbelievable-facts.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602131038id_/http%3A//www.unbelievable-facts.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbelievable-facts.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217150936id_/http%3A//www.unbelievable-facts.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy |Unbelievable Facts|
+# Privacy Policy
 
 This privacy policy tells you how we use personal information collected at _WWW.UNBFACTS.BLOGSPOT.IN_ Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.  
   
