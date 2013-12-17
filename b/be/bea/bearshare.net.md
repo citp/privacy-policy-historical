@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearshare.net privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616045736id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.net privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217151515id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,6 +73,17 @@ We occasionally hire other companies to provide limited services on our behalf, 
 In an endeavor to improve the customer experience we may also purchase marketing data from third parties and add it to our existing user database, to better target our features, services and offers in which we think you may be interested. To enrich our profiles of existing customers, we may tie this information to personally identifiable information that you have given to us.
 
 In addition to the foregoing, we may disclose your personally identifiable information if we believe such action is necessary to: (a) comply with the law or legal process served on Musiclab; (b) protect and defend the rights or property of Musiclab (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of BearShare services or members of the public.
+
+If you believe that Bearshare has charged you in error, you must contact us within 60 days of the charge being billed to your account, either by clicking on the support link in the Bearshare website (<http://support.bearshare.com/>) or click on "Contact support" in Bearshare application. 
+
+Bearshare reserves the right to refuse your refund request if Bearshare reasonably believes (i) that you are attempting to exploit this refund policy in violation of these terms, for example, by making repetitive refund requests in respect of the same Product; (ii) if you are in breach of these terms or (iii) if Bearshare reasonably suspects that you are using our Products or Software fraudulently or in contravention of these terms or that your User Account is being used by a third party fraudulently.
+
+All payments made prior to termination as provided herein, including any advance charge or payment for the subscription term during which you terminate your subscription, are nonrefundable. Termination of your subscription shall not relieve you of any obligations to pay accrued charges.
+
+Cancellation notice:  
+Please note that canceling your subscription (whether by email to us or in writing) will be performed through the Bearshare helpdesk by our ticketing system. Helpdesk hours are from Monday - Friday between 9am – 5pm (EST) (excluding federal U.S. holidays). Please be aware that if you open a support ticket, the ticket processing will commence 2 business days (i.e, 48 hours) after the opening time/date stamp of the ticket (U.S. weekdays days only), and _Bearshare deems the "receipt" of your ticket to be 48 hours after the ticket is opened_. If you choose to cancel your subscription, your subscription cancellation will be effective after the end of ticket processing.
+
+You have the right to regrets for purchasing your subscription. Our cooling-off policy rule gives you three days to cancel purchases and received a full refund extends until midnight of the third business day after the sale.
 
 ## Links
 
