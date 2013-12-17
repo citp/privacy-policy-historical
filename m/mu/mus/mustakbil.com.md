@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510081500id_/http%3A//www.mustakbil.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218003549id_/http%3A//www.mustakbil.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mustakbil.com
 
