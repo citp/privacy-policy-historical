@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bookmarklovers.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501162020id_/http%3A//bookmarklovers.com/privicypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarklovers.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217193430id_/http%3A//www.bookmarklovers.com/privicypolicy.html) for the most accurate reproduction.*
 
 # Bookmarklovers
 
 **PRIVACY POLICY**
-
-Last updated 20th February 2013
 
 BookmarkLovers.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
