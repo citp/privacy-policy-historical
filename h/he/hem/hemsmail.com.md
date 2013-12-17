@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the hemsmail.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606203906id_/http%3A//hemsmail.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemsmail.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217233337id_/http%3A//hemsmail.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy Policy Hems Mail : email Marketing India , SMTP Server, Bulk email
 
 ### Privacy Statement
 
-This privacy statement discloses the privacy practices for [www.hemsmail.com](http://www.hemsmail.com/)
+This privacy statement discloses the privacy practices for [www.hemsmail.com](http://www.hemsmail.com/)
 
 ### HemsTMMail has agreed to notify you of:
 
-* What personally identifiable information of yours or third party’s is collected from you through the web site
-* The organization that is collecting the information
-* How the information is used
-* With whom the information may be shared
-* What are the choices available to you with regards to collection, use and distribution of the information
-* What are the kind of security procedures that are in place to protect the loss, misuse or alteration of information that is under HemsTMMail’s control
-* How can you correct any inaccuracies in the information collected
+  * What personally identifiable information of yours or third party’s is collected from you through the web site
+  * The organization that is collecting the information
+  * How the information is used
+  * With whom the information may be shared
+  * What are the choices available to you with regards to collection, use and distribution of the information
+  * What are the kind of security procedures that are in place to protect the loss, misuse or alteration of information that is under HemsTMMail’s control
+  * How can you correct any inaccuracies in the information collected
+
+
 
 ### Information Collection and Use
 
@@ -64,3 +66,14 @@ If we decide to change our privacy policy, we will prominently post those change
 ### Legal Disclaimer
 
 Though we make every effort to preserve your privacy we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
+
+### UNSOLICITED EMAIL MESSAGES
+
+Policy against advertising our website using unsolicited email messages We require that all e-mails promoting Hems Mail or its services are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+
+If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department at: abuse@hemsmail.com. We will immediately investigate all allegations made related to unsolicited messages.
+
+Or write us at:  
+313, Rajpark Gali No. 6
+
+jaipur,Rajasthan,india-302004
