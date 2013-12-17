@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the magazineradar.com privacy policy that was archived on 2013-01-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130122090202id_/http%3A//www.magazineradar.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magazineradar.com privacy policy that was archived on 2013-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217031408id_/http%3A//www.mediaradar.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	
@@ -16,6 +16,9 @@
     <script language="javascript" type="text/javascript" src="/Content/Scripts/jQuery/plugins/jquery.hint.js"></script> 
     <script language="javascript" type="text/javascript" src="/Content/Scripts/jQuery/plugins/jquery.validate.min.js"></script>
     <script language="javascript" type="text/javascript" src="/Content/Scripts/TopNavigation.js"></script>
+    <script language="javascript" type="text/javascript" src="/Content/Scripts/jQuery/jquery.cookie.js"></script>
+    <script language="javascript" type="text/javascript" src="/Content/Scripts/fix_flash.js"></script>
+    
 <style type="text/css">
 
 .div-right-arrow  {
@@ -67,6 +70,27 @@
 .tl-square { position: relative; float: left; border-top: 1px solid #D6D2D1; border-left: 1px solid #D6D2D1; background-color: white; width: 6px; height: 6px; font-size: 1px; }
 .tr-square { position: relative; float: left; border-top: 1px solid #D6D2D1; border-right: 1px solid #D6D2D1; background-color: white; width: 6px; height: 6px; font-size: 1px; left: -2px; } 
 
+.splashScreen{
+    background: url('/Content/Images/MR-ModalWindow-Fixed.png') no-repeat scroll 0 0 transparent;    
+    display: inline;
+    height: 446px;
+    left: 149px;
+    position: absolute;
+    top: 51px;
+    width: 671px;
+    z-index: 3200;
+}
+    .splashExit{
+        cursor: pointer;
+        display: inline;
+        height: 30px;
+        right: 180px;
+        position: absolute;
+        top: 59px;
+        width: 30px;
+        z-index: 3200;
+    }
+
 </style>
 
 <script type="text/javascript" charset="utf-8">
@@ -80,20 +104,64 @@
         
     });
 
+    //$(document).ready(function () {        
+    //    if ($.cookie("splashScreen") == null) {            
+    //        $.cookie("splashScreen", 1, { expires: 365, path:'/'});
+    //    }
+    //    if (parseInt($.cookie("splashScreen")) < 3 && $.cookie("splashSession") == null) {
+    //        //var number = ++parseInt($.cookie("splashScreen"));
+    //        $.cookie("splashScreen", parseInt($.cookie("splashScreen")) + 1, { expires: 365, path: '/' });
+    //        $("#splashScreen").fadeIn(2000);//inside if
+    //        $("#splashExit").show();//inside if
+    //        $.cookie("splashSession", 'in', { path: '/' });
+    //    }
+    //    //splash screen
+    //    $('#splashScreen').click(function () {
+    //        event.stopPropagation();
+    //    });
+    //    $("#splashExit").click(function () {
+    //        $("#splashScreen").fadeOut(1000);
+    //        $("#splashExit").hide();
+            
+    //    });
+    //    $('html').click(function () {
+    //        $("#splashScreen").fadeOut(1000);
+    //        $("#splashExit").hide();
+    //    });
+    //});
+
+    ////flash overlap fix
+    //$(window).load(function () {
+    //    fix_flash();
+    //});
 </script> 
 
 
     
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script></head>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
 
 <!--[if IE 6]><div id="ie6"><![endif]--> 
-<!--[if IE 7]><div id="ie7"><![endif]--> 
+<!--[if IE 7]><div id="ie7">
+    <style type='text/css'>
+	.splashScreen {
+		background:none;
+		width: 671px;
+		height: 446px;
+        left: 149px;
+		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+			src='/Content/Images/MR-ModalWindow-Fixed.png', sizingMethod='scale'
+		);
+	}
+    </style>
+<![endif]--> 
 
 <div id="container">
     
     <div id="header">
+        <!-- splash screen name change -->
+        
 
         <!-- logo & top-nav -->
         <div style="height: 78px; padding-top: 20px; position: relative;">
@@ -106,7 +174,7 @@
         
             <div style="position: absolute; width: 990px; height: 58px; z-index: 100;">
             
-                <div style="position: absolute; top: 0px; left: 0px; width: 295px; height: 62px;"><a href="/"><img src="/Content/Images/logo.png" alt="logo" style="width: 295px; height: 62px; border: 0;"></a></div>
+                <div style="position: absolute; top: 0px; left: 0px; width: 295px; height: 62px;"><a href="/"><img src="/Content/Images/logo.png?v=2.0" alt="logo" style="width: 295px; height: 62px; border: 0;"></a></div>
                 
                 <div class="top-nav">
                 
@@ -126,11 +194,12 @@
                     </div>
                     <div class="top-sub-nav mouseover-timer-element">
                         <div class="tl-square mouseout-timer-element"></div><div class="t mouseout-timer-element"></div><div class="tr-round mouseout-timer-element"></div>
-                        <div class="m mouseout-timer-element">
-                            <a href="/Press/Index">Press</a>
+                        <div style="display:none;"><!--rebranding-->
+                            <div class="m mouseout-timer-element">
+                                <a href="/Press/Index">Press</a>
+                            </div>
+                            <div class="mouseout-timer-element" style="clear: both;"><div class="bl-square mouseout-timer-element"></div><div class="b mouseout-timer-element"></div><div class="br-square mouseout-timer-element"></div></div>
                         </div>
-                        <div class="mouseout-timer-element" style="clear: both;"><div class="bl-square mouseout-timer-element"></div><div class="b mouseout-timer-element"></div><div class="br-square mouseout-timer-element"></div></div>
-                        
                         <div class="tl-square mouseout-timer-element"></div><div class="t mouseout-timer-element"></div><div class="tr-round mouseout-timer-element"></div>
                         <div class="m mouseout-timer-element">
                             <a href="/AboutUs/Founders">Founders</a>
@@ -167,21 +236,23 @@
                     <div class="top-sub-nav mouseover-timer-element" style="left: 88px;">
                         <div class="tl-square mouseout-timer-element"></div><div class="t mouseout-timer-element"></div><div class="tr-round mouseout-timer-element"></div>
                         <div class="m mouseout-timer-element">
-                            <a href="/Products/Advertising">Advertising</a>
+                            <a href="/Products/Advertising">Overview</a>
                         </div>
-                        <div class="mouseout-timer-element" style="clear: both;"><div class="bl-square mouseout-timer-element"></div><div class="b mouseout-timer-element"></div><div class="br-square mouseout-timer-element"></div></div>
-                        
-                        <div class="mouseout-timer-element" style="clear: both; margin-top: -3px;"><div class="tl-square mouseover-timer-element"></div><div class="t mouseover-timer-element"></div><div class="tr-square mouseover-timer-element"></div></div>
-                        <div class="m mouseout-timer-element">
-                            <a href="/Products/EditCredits/">Edit Credits</a>
-                        </div>
-                        <div class="mouseout-timer-element" style="clear: both;"><div class="bl-square mouseover-timer-element"></div><div class="b mouseover-timer-element"></div><div class="br-square mouseover-timer-element"></div></div>
+                        <div style="display:none;"><!--rebranding-->
+                                    <div class="mouseout-timer-element" style="clear: both;"><div class="bl-square mouseout-timer-element"></div><div class="b mouseout-timer-element"></div><div class="br-square mouseout-timer-element"></div></div>
+                                    <div class="mouseout-timer-element" style="clear: both; margin-top: -3px;"><div class="tl-square mouseover-timer-element"></div><div class="t mouseover-timer-element"></div><div class="tr-square mouseover-timer-element"></div></div>
+                                    <div class="m mouseout-timer-element">
+                                        <a href="/Products/EditCredits/">Edit Credits</a>
+                                    </div>
+                                    <div class="mouseout-timer-element" style="clear: both;"><div class="bl-square mouseover-timer-element"></div><div class="b mouseover-timer-element"></div><div class="br-square mouseover-timer-element"></div></div>
 
-                        <div class="mouseout-timer-element" style="clear: both; margin-top: -3px;"><div class="tl-square mouseover-timer-element"></div><div class="t mouseover-timer-element"></div><div class="tr-square mouseover-timer-element"></div></div>
-                        <div class="m mouseout-timer-element">
-                            <a href="/Products/Advertising/DailyImpact">Screenshots</a>
+                                    <div class="mouseout-timer-element" style="clear: both; margin-top: -3px;"><div class="tl-square mouseover-timer-element"></div><div class="t mouseover-timer-element"></div><div class="tr-square mouseover-timer-element"></div></div>
+                                    <div class="m mouseout-timer-element">
+                                        <a href="/Products/Advertising/DailyImpact">Screenshots</a>
+                                    </div>
                         </div>
                         <div class="mouseout-timer-element" style="clear: both;"><div class="bl-round mouseover-timer-element"></div><div class="b mouseover-timer-element"></div><div class="br-round mouseover-timer-element"></div></div>
+                        
                     </div>
                 
                     <div class="top-nav-button mouseout-timer-element" style="z-index: 98;">
@@ -235,15 +306,15 @@
                         <div class="m mouseout-timer-element">
                             <a href="/ContactUs/Newsletter">Newsletter</a>
                         </div>
-                        <div class="mouseout-timer-element" style="clear: both;"><div class="bl-square mouseover-timer-element"></div><div class="b mouseover-timer-element"></div><div class="br-square mouseover-timer-element"></div></div>
-
-                        <div class="mouseout-timer-element" style="clear: both; margin-top: -3px;"><div class="tl-square mouseover-timer-element"></div><div class="t mouseover-timer-element"></div><div class="tr-square mouseover-timer-element"></div></div>
-
-
-                        <div class="m mouseout-timer-element">
-                            <a href="/ContactUs/Referral">Referral</a>  
+                        <div style="display:none;"><!--rebranding-->
+                            <div class="mouseout-timer-element" style="clear: both;"><div class="bl-square mouseover-timer-element"></div><div class="b mouseover-timer-element"></div><div class="br-square mouseover-timer-element"></div></div>
+                            <div class="mouseout-timer-element" style="clear: both; margin-top: -3px;"><div class="tl-square mouseover-timer-element"></div><div class="t mouseover-timer-element"></div><div class="tr-square mouseover-timer-element"></div></div>
+                            <div class="m mouseout-timer-element">
+                                <a href="/ContactUs/Referral">Referral</a>  
+                            </div>
                         </div>
-                        <div class="mouseout-timer-element" style="clear: both;"><div class="bl-round mouseover-timer-element"></div><div class="b mouseover-timer-element"></div><div class="br-round mouseover-timer-element"></div></div>
+                            <div class="mouseout-timer-element" style="clear: both;"><div class="bl-round mouseover-timer-element"></div><div class="b mouseover-timer-element"></div><div class="br-round mouseover-timer-element"></div></div>
+                        
                     </div>
                     
                 </div>
@@ -289,14 +360,14 @@
     <h1>Privacy Notice</h1>
     
     <p>
-        Contacting us via e-mail or registering for magazineradar.com reveals your e-mail
+        Contacting us via e-mail or registering for mediaradar.com reveals your e-mail
         address and any other information you include such as phone number and/or mailing
         address. We will use this information to help us process your registration, fulfill
         your request or respond to your inquiry. All of your personal information will be
         stored in a secure database in the United States of America. Access to this database
         is limited to authorized persons.</p>
     <p>
-        In addition, magazineradar.com may store a unique identification number, the username,
+        In addition, mediaradar.com may store a unique identification number, the username,
         and login status in a "cookie" on each visitor's computer. The identification number
         is retained and utilized to track usage of the web site in order to provide you
         with products or services you may be interested in, while the username and login
@@ -326,10 +397,10 @@
         please <a href="http://www.fetchback.com/optout.html">click here</a>.</p>
     <p>
         If at any time you would like your name removed, simply send a written request to
-        <a href="mailto:privacy@magazineradar.com">privacy@magazineradar.com</a> or to Privacy
-        Official, MagazineRadar, 252 W 37th Street, Suite 1001, New York, NY 10018.</p>
+        <a href="mailto:privacy@mediaradar.com">privacy@mediaradar.com</a> or to Privacy
+        Official, MediaRadar, 252 W 37th Street, Suite 1001, New York, NY 10018.</p>
     <p>
-        You can also send a written request to <a href="mailto:privacy@magazineradar.com">privacy@magazineradar.com</a>
+        You can also send a written request to <a href="mailto:privacy@mediaradar.com">privacy@mediaradar.com</a>
         if you would like to confirm the accuracy of the information we have collected from
         you, or if you have questions about the uses of this information.</p>
         
@@ -404,10 +475,29 @@
 </script> 
 
 <iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=1419" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+    
+<script type="text/javascript">
+    adroll_adv_id = "33IAWOQYVREVDDKYTWBTHU";
+    adroll_pix_id = "FRNVFLHQHVC25LS6KCALRD";
+    (function () {
+        var oldonload = window.onload;
+        window.onload = function () {
+            __adroll_loaded = true;
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+              document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            if (oldonload) { oldonload() }
+        };
+    }());
+</script>
 
 <!--[if IE 6]></div><![endif]-->
 <!--[if IE 7]></div><![endif]-->
 
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","d5c324fc27","2638392","ZFcEZkcCWhUHBkNbVl0dIl1BLVESJQpZRktcXgpXR0x8CQsAGGJLWkQHUUwzWwoPBk4=",0,31,new Date().getTime(),"3A74137165F0D7E8","","","",""]);</script>
 
-
-<script type="text/javascript">if (!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","d5c324fc27",572807,"ZFcEZkcCWhUHBkNbVl0dIl1BLVESJQpZRktcXgpXR0x8CQsAGGJLWkQHUUwzWwoPBk4=",0,31,new Date().getTime()])</script><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
