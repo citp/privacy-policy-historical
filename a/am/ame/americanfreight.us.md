@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617001545id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217220449id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.*
 
-# Privacy Statement | American Freight Furniture
+# Privacy Statement | American Freight
 
-| 
+|  | 
 
 [Home](http://www.americanfreight.us/) > Privacy-Statement  
   
@@ -82,9 +82,14 @@ If you have any questions or concerns about this privacy notice, the practices o
 
 Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
-|   |   
-| 
+**SMS Terms & Conditions**
 
+To stop receiving messages from our SMS shortcode service, reply STOP to any message. To receive more information regarding the SMS shortcode service, reply HELP to any message. The SMS Gateway provider is MessageMedia and provides American Freight with the ability to send SMS messages to the subscribed number for the purpose of delivering opted-in subscribers layaway information regarding payments.
+
+**Message & Data Rates May Apply.**   
+If you have questions regarding the service, you may contact American Freight at 740-363-2222 or MessageMedia at +1.866.751.8337. Under normal circumstances we expect to send out no more than 4msgs/month. The American Freight program is designed to notify the subscriber of delinquent layaway payments. It is not binding, and is subject to change without notice. This service may not be available on all carriers. To determine if your carrier is supported, please contact MessageMedia support at +1.866.751.8337.   
+   
+  
 Please read the following policy to understand how your personal information will be treated as you make full use of our many features.
 
 Information Collected
@@ -157,7 +162,14 @@ Questions
 
 If you have any questions or concerns about this privacy notice, the practices of this site or your interaction with this web site, please contact info at [contactus@americanfreight.us](mailto:contactus@americanfreight.us)
 
-Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)  
+Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+
+**SMS Terms & Conditions**
+
+To stop receiving messages from our SMS shortcode service, reply STOP to any message. To receive more information regarding the SMS shortcode service, reply HELP to any message. The SMS Gateway provider is MessageMedia and provides American Freight with the ability to send SMS messages to the subscribed number for the purpose of delivering opted-in subscribers layaway information regarding payments.
+
+**Message & Data Rates May Apply.**   
+If you have questions regarding the service, you may contact American Freight at 740-363-2222 or MessageMedia at +1.866.751.8337. Under normal circumstances we expect to send out no more than 4msgs/month. The American Freight program is designed to notify the subscriber of delinquent layaway payments. It is not binding, and is subject to change without notice. This service may not be available on all carriers. To determine if your carrier is supported, please contact MessageMedia support at +1.866.751.8337.   
+   
   
----  
-| [](http://www.americanfreight.us/register.php) | [](http://www.americanfreight.us/sitemap/)
+ 
