@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the astah.net privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507095106id_/http%3A//astah.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astah.net privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217112931id_/http%3A//astah.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Astah.net
 
 Change Vision adheres to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, and/or other identifiable information) and will not distribute or sell it to third parties.
 
-### Gathering and Use of Information
+## Gathering and Use of Information
 
   1. We will never share your information with third parties outside Change Vision unless you give express permission for us to do so, or unless we are required to do so under applicable law.
   2. In order to participate in some activities, you might be asked to provide some personally identifiable information. This could be in connection with the following: 
