@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icravefreebies.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520175215id_/http%3A//www.icravefreebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icravefreebies.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217111257id_/http%3A//www.icravefreebies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « I Crave Freebies
 
