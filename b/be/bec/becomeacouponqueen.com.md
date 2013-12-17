@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the becomeacouponqueen.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614141731id_/http%3A//becomeacouponqueen.com/disclaimer-privacy%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becomeacouponqueen.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217020159id_/http%3A//becomeacouponqueen.com/disclaimer-privacy%23Privacy) for the most accurate reproduction.*
 
-# Disclosure, Disclaimer & Privacy Policies -
+# Disclosure, Disclaimer & Privacy Policies - Become a Coupon Queen
 
 This page contains our Disclosure, Disclaimer and Privacy Policies.  
 
@@ -44,4 +44,4 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.  
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. [](http://www.spiceupyourblog.com/)
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fbecomeacouponqueen.com%2Fdisclaimer-privacy%2F&media=http%3A%2F%2F3.bp.blogspot.com%2F_rKG-ziTSNUQ%2FTQ5eV0U0EiI%2FAAAAAAAACik%2Fxo2eFaDbfrE%2Fs1600%2Fbest%2Bblogger%2Btips.png&description=Disclosure%2C%20Disclaimer%20%26%23038%3B%20Privacy%20Policies)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fbecomeacouponqueen.com%2Fdisclaimer-privacy%2F&media=http%3A%2F%2F3.bp.blogspot.com%2F_rKG-ziTSNUQ%2FTQ5eV0U0EiI%2FAAAAAAAACik%2Fxo2eFaDbfrE%2Fs1600%2Fbest%2Bblogger%2Btips.png&description=Disclosure%2C%20Disclaimer%20%26%23038%3B%20Privacy%20Policies)
