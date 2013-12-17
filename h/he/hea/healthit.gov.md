@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthit.gov privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615180719id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthit.gov privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217204516id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
 
-# HHS Privacy Policy Notice
+# HHS Privacy Policy Notice | HHS.gov
 
 Thank you for visiting our HHS website. This Privacy Policy applies to all HHS webpages.  
 
@@ -40,7 +40,7 @@ We retain the information only for as long as necessary to respond to your quest
 
 For more information, see:
 
-  * [Freedom of Information Act and the Privacy Act](http://publications.usa.gov/epublications/foia/foia.htm)
+  * [Freedom of Information Act and the Privacy Act](http://www.usa.gov/Topics/Reference-Shelf/FOIA.shtml)
   * [HHS Statement of Records Notices](http://www.hhs.gov/foia/privacy/sorns.html)
 
 
