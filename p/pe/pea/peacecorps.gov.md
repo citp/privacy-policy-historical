@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616042903id_/http%3A//www.peacecorps.gov/about/policies/general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217193826id_/http%3A//www.peacecorps.gov/about/policies/general) for the most accurate reproduction.*
 
 # General Policies | Peace Corps
 
@@ -56,4 +56,4 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:
 
-Last updated Jun 12 2013
+Last updated Nov 20 2013
