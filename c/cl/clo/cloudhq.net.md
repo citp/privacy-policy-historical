@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cloudhq.net privacy policy that was archived on 2012-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120801163020id_/https%3A//www.cloudhq.net/dropbox/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudhq.net privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217190504id_/https%3A//www.cloudhq.net/dropbox/privacy) for the most accurate reproduction.*
 
 # cloudHQ - Privacy & Security
 
 Overview
 
-July 7, 2011 
+July 7, 2013 
 
 Our Privacy policy is simple. Any information we receive from you will not be shared with anyone else, and we'll never use it for anything else without your consent. For example, we don't share your private information with advertisers or third parties. 
 
