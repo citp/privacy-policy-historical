@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-zpassny.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307221628id_/https%3A//www.e-zpassny.com/en/other/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-zpassny.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217083009id_/https%3A//www.e-zpassny.com/en/other/privacy.shtml) for the most accurate reproduction.*
 
 # E-ZPass® New York - Privacy Policy
 
