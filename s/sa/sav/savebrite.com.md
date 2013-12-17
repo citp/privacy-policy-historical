@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savebrite.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523135803id_/http%3A//www.savebrite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savebrite.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217232230id_/http%3A//www.savebrite.com/privacy) for the most accurate reproduction.*
 
-# - SaveBrite.com
+# Privacy Policy - SaveBrite.com
 
 This privacy policy sets out how savebrite.com uses and protects any information that you give savebrite.com when you use this website.
 
