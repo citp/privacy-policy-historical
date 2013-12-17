@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180458id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217080317id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Peachpit
 
@@ -28,7 +28,7 @@ We request information from the user on our order form. Here a user must provide
 
 ## Cookies
 
-A cookie is a piece of data stored on the user's hard drive tied to aggregate information about the user. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site. However, we have no access to or control over these cookies.
+A cookie is a piece of data stored on the user's hard drive tied to aggregate information about the user. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Users can turn off cookies in their internet browser and some browsers allow users to turn off certain designated cookies. Cookies can also enable us to (i) track and target the interests of our users to enhance the experience on our site, (ii) streamline future purchasing options, and (iii) show advertisements on other websites that are likely to be of some interest to you. Some of our business partners also use cookies on our site for these same purposes. However, we have no access to or control over these cookies and no personal information is shared with these business partners.
 
 ## Log Files
 
@@ -36,7 +36,9 @@ Like most standard web site servers we use log files. This includes internet pro
 
 ## Sharing
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+We will share anonymous demographic information and/or webpage browsing patterns and history with our partners and advertisers who work with us to provide products and services or to help us market our products and services to you. This is not linked to any personal information that can identify any individual person. As specified in the Cookies section above, users can turn off all or certain cookies in their browser settings if they so desire.
+
+We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 From time-to-time we partner with outside service providers and other vendors that provide enhanced functionality on our website that may be of interest to you. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. For example, we may contact customers who have not checked out to follow up on abandoned shopping carts or to see if there was a problem with their use of the site. These parties are not allowed to use Personally Identifiable Information except for the purpose of providing these services. Like newsletters and promotional or special offers that we may send to you, you may opt out of receiving these abandoned cart reminders at any time by simply unsubscribing from this service. Simply click the unsubscribe link at the bottom of your abandoned cart reminder, and you will be able to manage and/or remove your account information.
 
@@ -84,4 +86,4 @@ Users can always make an informed choice as to whether they should proceed with 
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. However, if you have removed your personal information you will not be contacted, nor will your information be used in this new manner.
 
-Effective Date: May 2013
+Effective Date: August 2013
