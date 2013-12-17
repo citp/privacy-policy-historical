@@ -1,41 +1,65 @@
-> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501192951id_/http%3A//www.phoolwala.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217081250id_/http%3A//www.phoolwala.com/page/privacy-policy/190) for the most accurate reproduction.*
 
-# Send Flowers to Kolkata, Send Flower to Kolkata, Send Flowers and gifts to Kolkata, Sending flowers to Kolkata, Send Flowers and cakes to Kolkta
+# Gifts India: Phoolwala.com Privacy Policy to Send Gifts to India
 
-Phoolwala.com is the sole owner of the information collected on Phoolwala.com. This privacy statement applies only to information collected by this Web site.
+**Privacy Policy: Phoolwala.com**
 
-**Communications from the Site**
+Phoolwala.com gathers personal information to help improve our products and customer support, to communicate with our customers, to process your orders, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from us. We recognize and respect the importance of maintaining the privacy of our customers, registered members and users, and have established this Privacy Policy as a result. 
 
-**Special Offers and Updates**  
-We may occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications.
+**1.   How do we handle my contact information which I enter during the purchasing process?**
 
-**Press Releases and Newsletters**  
-If you request to receive our press release(s) or newsletter(s), we will use your name and email address to send these documents to you. Out of respect for your privacy, please contact us if you subsequently wish to be removed from this mailing list. 
+  All customers’ contact information, choice of bouquets, and delivery date entered at the Delivery Information Form during the purchasing process are stored in our secured merchant server database. All the printouts for record purpose are securely kept. 
 
-**Service-related Announcements**  
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email advising you of this.   
+2.  **For what purpose will my contact information be used?**
+
+ Customer's contact information will be used for the following purposes:   
+  a. Market Analysis Such information as customer's choice of flowers/gifts, country of the senders and the recipients, are used to identify markets that need our services. The information and the result of analysis are solely meant for internal use and will be kept confidentially.  
+b. Channel for Communicating Purchase and Delivery Status Sender's email will be used as a channel for communicating purchase status (e.g. confirmation of purchase by forwarding the receipt to the customer) and delivery status (e.g. update customer if the order has been fulfilled).   
+c. Products Update Sender and recipient's email addresses will be used for forwarding new products updates.  
+d. Festival and Other Promotions: Sender and recipient's email addresses will be used for Festival and Other Promotions. 
+
+3.  **Do we collect and store my credit card information?**
+
+No. We do not collect and store your credit card information. We do not get any idea of Credit Card number. During the purchasing process, you will enter your credit card information directly into the form posted by the credit card payment gateway. Hence, all your credit card information will be collected and secured by the credit card payment gateway directly in most secured way.
+
+**Corrections**
+
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to admin@phoolwala.com.  
+Registered users can modify and update their membership information (including name, mailing address, telephone number and email address) by accessing the password-protected "Edit Profile" page.
+
+  
+**Your Consent and Changes to this Policy  
 **  
-Legal Disclaimer**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.  
-If you no longer wish to receive our press releases, newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at baghelji@gmail.com
+Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features  are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified.
 
-**Clear Gifs (Web Beacons/Web Bugs)**  
-We do not use clear gifs (I.e. Web Beacons/Web Bugs) in our HTML-based emails.   
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users and to let companies know which emails recipients have opened, allowing them to gauge the effectiveness of certain communications and the effectiveness of their on-line marketing campaigns. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
+**Your Comments**
 
-**Links to Other Sites**  
-This privacy statement applies only to information collected by this Web site. This Web site contains links to other sites that are not owned or controlled by Ferns n Petals.. Please be aware that we, Phoolwala.com, are not responsible for the privacy practices of such other sites.  
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site you access to review their privacy practices.
+Phoolwala.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to 
 
-**Access to Personally Identifiable Information**   
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by emailing our Customer Support at baghelji@gmail.com or by contacting us by telephone or postal mail at the contact information listed below. 
+[admin@phoolwala.com](mailto:admin@phoolwala.com%22 "admin@phoolwala.com").
 
-**Security**  
-The security of your personal information is important to us. We do not use any encryption on our forms, as we do not collect credit card numbers, social security numbers or any other sensitive information that can be used in identity theft.
+**Marketing Policy**
 
-**Business Transitions**  
-In the event Phoolwala.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+1\. **Who does Phoolwala.com send email offers to?**
 
-**Changes in this Privacy Statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement on the homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
-We reserve the right to modify this privacy statement at any time, so please review it periodically. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+Phoolwala.com sends email offers to individuals who would require their services for sending gifts to India.
+
+2\. **How does Phoolwala.com get email addresses for it's email offers?**
+
+Phoolwala.com, as a web marketer, procures opt-in email lists from partner sites. Users have an option to opt for receiving newsletter and offer mail while registering on Phoolwala.com. 
+
+3\. **How often does Phoolwala.com send emails to people on the email lists?**
+
+Phoolwala.com generally sends emails announcing special gifts for festive seasons, promotional discounts and new arrivals once a month. However, the recipient always has the option of removing their email address from our list. Information on how to do this is always contained at the bottom of every email offer. If the recipient chooses this option, they will not get further email offers from Phoolwala.com. 
+
+4\. **Can Phoolwala.com affiliates send email offers on behalf of Phoolwala.com?**
+
+Phoolwala.com affiliates can send emails on behalf of Phoolwala.com only to people who have opted-in to receive such email offers. If an affiliate is found to be sending unsolicited email, their affiliation is revoked immediately. 
+
+5\. **How do I Opt out from receiving promotional communication?**
+
+If you want Opt out from Phoolwala.com’s newsletter list, you can simply reply to the mail with UNSUBSCRIBE in its subject. 
+
+6\. **What can I do if I find unsolicited mail from a Phoolwala.com affiliate?**
+
+We encourage you to contact immediately to our Customer Support. Please give us as much details as you can. 
