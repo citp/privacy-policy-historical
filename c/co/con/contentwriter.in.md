@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2013-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130214015615id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217033404id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Content Writer . India - Online Writing Services | Outsource Content Writing To India
 
@@ -23,6 +23,11 @@ This Privacy Policy may be modified at any time without any prior notice. Please
 
   * **Advertisements** **** Contentwriter.in may display third party advertisements and other kinds of ads on the web pages. Visitors should use their own discretion before clicking on these ads or visiting third party website links. 
 
+
+  * **Third Party Links Within Your Content Listings & Contributions The Contributing Author (of articles, stories, poems, musings, & other listings) on our website gives us complete rights to insert relevant advertisements or third-party advertising links within their contributed content and link to third-party websites. **
+
+
+  * **Contentwriter.in may insert** **** such links within user contributed content such as articles, poems, stories & musings from time to time. If you do not want us to include third-party advertising in your contributed content, please mention this specifically while submitting your content. In such a case, we may or may not publish your contributions on our website. 
 
 
   * External Links This site contains links to other sites. Contentwriter.in is not responsible for the privacy practices or the content of such Web sites. Please use your own discretion before visiting these websites. 
