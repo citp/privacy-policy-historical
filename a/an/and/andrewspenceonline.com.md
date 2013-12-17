@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the andrewspenceonline.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530043339id_/http%3A//www.andrewspenceonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewspenceonline.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217111556id_/http%3A//www.andrewspenceonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Andrew Spence - The Laptop Zentrepreneur
+# Privacy Policy | Andrew Spence - Marketing Doesn't Take Magic
 
-____Andrew Spence Online and All Related Websites
+Andrew Spence Online and All Related Websites
 
 Andrew Spence (“we” or “us” or “Andrew Spence”) has established this Privacy Policy to explain how it protects and manages the personal information that we collect from you online.
 
