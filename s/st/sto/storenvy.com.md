@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storenvy.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501225617id_/http%3A//support.storenvy.com/customer/portal/articles/93982-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storenvy.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023224id_/http%3A//support.storenvy.com/customer/portal/articles/93982-privacy-policy) for the most accurate reproduction.*
 
 # STORENVY | Privacy Policy
 
