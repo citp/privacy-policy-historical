@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artuji.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410083634id_/http%3A//www.artuji.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artuji.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218204845id_/http%3A//www.artuji.com/privacy-policy) for the most accurate reproduction.*
 
-# Artuji Privacy Policy | Artuji
+# Privacy Policy - Artuji
 
 Your privacy is respected here in my site, [www.artuji.com](http://www.artuji.com/ "Artuji"). Please read below the disclosures regarding information gathering and dissemination practices for this web site.
 
