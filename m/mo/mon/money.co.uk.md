@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429201754id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218073043id_/http%3A//www.money.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # money.co.uk Privacy Policy
 
@@ -14,21 +14,19 @@ We may collect, store and use the following kinds of personal information:
 
 (c) information that you provide when using our reminder service (which may include your insurance and other financial services renewal and/or expiry dates, and details of your insurance and other financial services providers);
 
-(d) information that you provide when using our "broadband postcode" search (which may include your postcode and phone number);
+(d) information that you provide when using a product search or completing an enquiry form (including your personal information, postcode, phone number and details relating to your requirements);
 
-(e) information that you provide when completing an enquiry form (including your personal details and details relating to your requirements);
+(e) information that you provide when entering a prize competition on the website;
 
-(f) information that you provide when entering a prize competition on the website;
+(f) information that you provide to enable us to fulfil any prize won by you (which may include your postal address or bank details);
 
-(g) information that you provide to enable us to pay any prize won by you (which may include your postal address or bank details);
+(g) information about purchases of financial products that you make on third party websites after you follow a hyperlink on our website (including the product purchased, the product provider and the date and time of the purchase);
 
-(h) information about purchases of financial products that you make on third party websites after you follow a hyperlink on our website (including the product purchased, the product provider and the date and time of the purchase);
+(h) information supplied to us when you sign up to our money saving newsletter via a third party promotion, including via email campaigns, competition sites and survey websites (including your title, first name, surname and email address and in some cases your address and gender);
 
-(i) information supplied to us when you sign up to our money saving newsletter via a third party promotion, including via email campaigns, competition sites and survey websites (including your title, first name, surname and email address and in some cases your address and gender);
+(i) information you post on the site (including deals, discussions, responses, questions, answers, comments, journal entries, photos, action plans, tips, reviews and success stories); and
 
-(j) information you post on the site (including deals, discussions, responses, questions, answers, comments, journal entries, photos, action plans, tips, reviews and success stories); and
-
-(k) any other information that you choose to send to us (including testimonials, feedback and questions).
+(j) any other information that you choose to send to us (including testimonials, feedback and questions).
 
 ### 2\. Cookies
 
@@ -54,6 +52,8 @@ Specifically we use cookies on money.co.uk as follows:
   * to record your preferences relating to money.co.uk ‘Feedback’ the cookies we use are dzFBpreference and dzFBlater. These allow us to hide the ‘Feedback’ prompt or remind you if you opt to leave feedback later and are deleted once you close your browser
   * to track recommendations via our ‘tell a friend’ functionality we use the cookie memberReferralId
   * to store information about overlays we use the cookie money_ugc_overlay
+  * to temporarily store a user-selected value whilst loging in we use cookie money_alert_waiting
+  * to enable the user to switch to desktop version from mobile site we use the cookie desktopMode
 
 
 
@@ -75,21 +75,21 @@ You can find out more about cookies by visiting <http://www.aboutcookies.org/> o
 
 3.1 Personal information submitted on this website will be used for the purposes specified in this Privacy Policy or in relevant parts of the website.
 
-3.2 Information provided via our broadband postcode search will be used for the purpose of providing you with details of available broadband services.
+3.2 Information you enter into a product search or enquiry form may be:
 
-3.3 If you submit a mortgage enquiry form, we may forward your personal information to a mortgage broker network, who will in turn pass your details to one or more FSA regulated mortgage brokers. 
+(a)  shared with a third party so we are able to provide you with information about the products and/or services you requested. This may include introducing you to a broker who will either contact you direct to discuss your requirements or arrange for a qualified advisor to do so on their behalf. All the companies we work with are FCA regulated where relevant.
 
-3.4 Information that you provide when completing a mortgage enquiry form will be used to provide you with an introduction to a relevant mortgage broker. If you opt to subscribe to our money saving email on submitting your mortgage enquiry, we will record your post code against your account, for the purpose of statistical analysis only.
+(b) stored internally and held against your money.co.uk profile if we detect you have a money.co.uk account.
 
-3.5 If you enter a competition, we may use your personal information to manage any competition entries you submit, validate such competition entries, and send you any prizes you may win.
+3.3 If you enter a competition, we may use your personal information to manage any competition entries you submit, validate such competition entries, and send you any prizes you may win.
 
-3.6 If you sign up for our reminders service, we may use your personal information to send you email reminders regarding the renewal or expiry of your insurance policies or the expiry of an introductory offer on a financial product you hold. If you give your consent, we may also provide this information to third parties to enable them to notify you of suitable products and services at the appropriate time.
+3.4 If you sign up for our reminders service, we may use your personal information to send you email reminders regarding the renewal or expiry of your insurance policies or the expiry of an introductory offer on a financial product you hold. If you give your consent, we may also provide this information to third parties to enable them to notify you of suitable products and services at the appropriate time.
 
-3.7 If you sign up to receive our Money Saving newsletter or any other newsletter, we will use your personal information to send you the newsletter and manage your subscription.
+3.5 If you sign up to receive our newsletters, we will use your personal information to send you the newsletter and manage your subscription.
 
-3.8 If you sign up to receive Alerts we will use your personal information to send you Alert emails based on the companies, categories and tags you have selected, and to manage your subscription.
+3.6 If you sign up to receive Alerts we will use your personal information to send you Alert emails based on the companies, categories and tags you have selected, and to manage your subscription.
 
-3.9 More generally, we may use your personal information to:
+3.7 More generally, we may use your personal information to:
 
 (a) administer and enable your use of the website;
 
@@ -137,7 +137,7 @@ Information that we collect may be stored and processed in and transferred betwe
 
 6.5 You have control and responsibility over the privacy settings on your account. 3 privacy settings are available: public (anyone can view post), friends only (only “friends” can view post) or private (only the member who submitted the post can view post). These privacy settings can be applied to your action plan progress, your journals, your photos, who can send you private messages and who can view activity within your profile. However, if you respond to a post made by another user, the privacy setting of your post will default to the privacy setting of the post you are responding to. These privacy setting may be expanded in the future to include other types of content posted to the website.
 
-6.6 Some user content will be published on the website (such as blog comments, questions and answers, success stories, tips, reviews and testimonials).
+6.6 Some user content will be published on the website (such as blog comments, questions and answers, success stories, tips, ratings, reviews and testimonials).
 
 6.7 Should you wish to keep your identity anonymous when you post on the website, this will be your sole responsibility.
 
