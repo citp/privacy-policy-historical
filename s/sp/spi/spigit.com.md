@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spigit.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123124712id_/http%3A//www.spigit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spigit.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218083109id_/http%3A//www.spigit.com/privacy) for the most accurate reproduction.*
 
 # Spigit | Privacy
 
