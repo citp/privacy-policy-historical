@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618090251id_/http%3A//www.hotelclub.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218201731id_/http%3A//www.hotelclub.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
