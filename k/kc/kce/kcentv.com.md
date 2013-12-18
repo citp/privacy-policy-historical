@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcentv.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619021527id_/http%3A//www.kcentv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcentv.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218224117id_/http%3A//www.kcentv.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - kcentv.com - KCEN HD - Waco, Temple, and Killeen
 
