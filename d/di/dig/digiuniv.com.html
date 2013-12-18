@@ -1,193 +1,215 @@
-<!--The following is the downloaded HTML source of the digiuniv.com privacy policy that was archived on 2012-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121104213400id_/http%3A//digiuniv.com/site/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digiuniv.com privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218220712id_/http%3A//www.digiuniv.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Welcome To DIGIUNIV</title>
-<link href="css/home.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="css/gallery.css" type="text/css" media="screen">
-<script type="text/javascript" src="js/jquery_005.js"></script>
-<script type="text/javascript" src="js/reflection.js"></script>
-<script type="text/javascript" src="js/jquery_004.js"></script>
-<script type="text/javascript">
-jQuery(function($) {
-	$("img.reflect").reflect({height:35,opacity:0.2});
-});
+<title>Digiuniv</title>
+ <link rel="stylesheet" href="css/main.css" type="text/css">
+ <script type="text/javascript" src="js/CreateHTML5Elements.js"></script>
+ <script type="text/javascript" src="js/jquery-1.2.6.min.js"></script>
+  <script type="text/javascript" src="popup/js/offering-popup.js"></script>
+ <script type="text/javascript" src="popup/js/popupheader.js"></script>
+  <script type="text/javascript" src="popup/js/jquery.js"></script>
+   <script type="text/javascript" src="popup/js/academics-popup.js"></script>
+    <script type="text/javascript" src="popup/js/contact-popup.js"></script>
+ <link rel="stylesheet" href="popup/css/popup.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="popup/css/acdmi-popup.css" type="text/css" media="screen">
+   <link rel="stylesheet" href="popup/css/contact-popup.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="popup/css/offering-popup.css" type="text/css" media="screen">
+ <script type="text/javascript">
+	function slideSwitch() {
+    var $active = $('#slideshow DIV.active');
 
-$(document).ready(function() {
+    if ( $active.length == 0 ) $active = $('#slideshow DIV:last');
 
-	$('.control-panel').append('<ul class="nav"></ul>');
+    // use this to pull the divs in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+        : $('#slideshow DIV:first');
 
-	$('.stage-slider').cycle({ 
-		fx:     'fade', 
-		timeout: 10000,
-		speed: 750,
-		pager:  '.control-panel .nav',
-		pause:  1,
-		cleartype:  true,
-    	cleartypeNoBg:  true,
-		
-		pagerAnchorBuilder: function(idx, slide) { 
-        return '<li><a href="#"><img src="http://www.catpl.co.in/wp-content/themes/catbatic/images/blank.gif" width="16" height="16" alt="slide" /></a></li>'; 
-    } 
-		
-	});
-});
+    // uncomment below to pull the divs randomly
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
 
-</script>
-<script type="text/javascript" src="js/stepcarousel.js"></script>
-<script type="text/javascript">
-<!--
-$(document).ready(function() {
 
-	$('.post-slider.id-1111 .post-slide').cycle({ 
-		fx:     'scrollHorz', 
-		timeout: 0,
-		speed: 750,
-		easing: 'easeInOutExpo',
-		prev: '#leftnav-1111',
-		next: '#rightnav-1111'
-	});
+    $active.addClass('last-active');
 
-});
-
-$(document).ready(function(){
-$('.post-slider.id-1111 .galleryimg').append('<div class="hoverimg" style="height:60px"></div>');
-$('.post-slider.id-1111 .galleryvid').append('<div class="hovervid" style="height:60px"></div>');	
-});
-//-->
-</script>
-<script type="text/javascript">
-
-stepcarousel.setup({
-	galleryid: 'mygallery03', //id of carousel DIV
-	beltclass: 'belt', //class of inner "belt" DIV containing all the panel DIVs
-	panelclass: 'panel', //class of panel DIVs each holding content
-	autostep: {enable:true, moveby:1, pause:3000},
-	panelbehavior: {speed:500, wraparound:false, persist:true},
-	defaultbuttons: {enable: true, moveby: 1, leftnav: ['images/arrow.gif', -50, 15], rightnav: ['images/arrow.gif', 25, 15]},
-	statusvars: ['statusA', 'statusB', 'statusC'], //register 3 variables that contain current panel (start), current panel (last), and total panels
-	contenttype: ['inline'] //content setting ['inline'] or ['external', 'path_to_external_file']
-})
-
-</script>
-<style type="text/css">
-#mygallery03 {
-	overflow: hidden;
-	height: 78px;
-	width: 885px;
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
 }
-</style>
-</head>
-<body class="body-bg2">
-<div id="wrapper">
-  <div id="main">
-    <!--Header Start-->
-    <div class="header">
-      <div class="logo"><a href="../index.html"><img src="images/logo.jpg" alt="" width="250" height="56"></a></div>
-      <div class="header_social_tab"> <a href="http://www.facebook.com/Digiuniv.nysa?bookmark_t=page" target="_blank" class="facebookicon right"></a> <a href="https://twitter.com" target="_blank" class="twitter right"></a> </div>
-      <div class="callnow-tab">
-        <h2>Call +91 120 4348 911</h2>
-        <a href="http://beta.digiuniv.com/Signup.aspxLogin.aspx" class="signup">Sign In</a> <a href="http://beta.digiuniv.com/Signup.aspx" class="signup">Sign Up</a> </div>
-      <!--Nav Start-->
-      <div class="nav-tab">
-        <div class="nav">
-          <ul>
-            <li><a href="../index.html">Home</a></li>
-            <li></li><li><a href="about_us.html">About</a></li>
-            <!--<li><a href="#">Applicability</a></li> -->
-            <li><a href="modules_features.html">Modules &amp; Features</a></li>
-            <li><a href="contact_us.html" class="last">Contact</a></li>
-          </ul>
+
+$(function() {
+    setInterval( "slideSwitch()", 5000 );
+});
+
+</script>
+ 
+ <style>
+@font-face {
+ font-family: 'square721_btroman';
+ src: url('tt0246m_-webfont.eot');
+ src: url('tt0246m_-webfont.eot?#iefix') format('embedded-opentype'),  url('tt0246m_-webfont.woff') format('woff'),  url('tt0246m_-webfont.ttf') format('truetype'),  url('tt0246m_-webfont.svg#square721_btroman') format('svg');
+ font-weight: normal;
+ font-style: normal;
+}
+.square721_btroman {
+	font-family: 'square721_btroman',
+}
+body {
+	background-image: url(images/bgBody.png);
+}
+#page section .width320 p {
+	text-align: justify;
+}
+ </style>
+<script type="text/javascript"> 
+$(function() {
+		$('.prettyprint').hover(function(){
+ 
+		$(this).animate({
+			width : '800px',
+			overflow:'scroll',
+			float:'left'			
+		}, 300 );
+	}, function() {
+		$(this).animate({width:'180px'}, 300);
+	});
+});
+$(function() {
+		$('.prettyprint2').hover(function(){
+ 
+		$(this).animate({
+			width : '650px',
+			overflow:'scroll',
+			float:'right'			
+		}, 300 );
+	}, function() {
+		$(this).animate({width:'350px'}, 300);
+	});
+});
+</script>
+<script type="text/javascript" src="js/jquery_002.js"></script>
+<script type="text/javascript" src="js/jquery_003.js"></script>
+<script type="text/javascript" src="js/jquery_004.js"></script>
+
+ </head>
+
+<body style="zoom: 1;">
+<header>
+     <div style="width:980px; margin:auto">
+     <nav>
+       <ul>
+         <li style="margin-left:0px;"><a href="index.html">HOME</a></li>
+         <li><a href="about.html">ABOUT US</a></li>
+         <li><a href="our_offering.html">OUR OFFERINGS</a></li>
+		 <li><a href="contact.html">CONTACT US</a></li>
+       </ul>
+     </nav>
+     <!--<span class="flt-rt" style="text-align:center; margin-right:5px; font-family:'square721_btroman'; padding-top:12px; color:#fff; font-size:18px; line-height:16px">(Toll Free Number): 1800 – 180 - 1810</span>-->
+	 </div>
+   </header>
+<div id="page">
+     <!--------Rqeuest Popup------->
+      <div id="popupContact2" align="center">
+      <h3 style="text-align:left;">Request a demo</h3>
+       <a id="popupContact2Close"><img src="images/close.png"></a>
+        <div id="enquiry_form">
+        <form>
+       	 <div class="flt-lt">
+          <label>Contact Person <span>*</span></label>
+          <div class="clear"></div>
+          <input type="text" value=" ">
+            <div class="clear"></div>
+            <label>Email Address <span>*</span></label>
+            <div class="clear"></div>
+            <input type="text">
+            <div class="clear"></div>
+            <label>State <span>*</span></label>
+           <div class="clear"></div>
+            <input type="text">
+            <div class="clear"></div>
+          </div>
+            <div class="flt-lt">
+            <label>Organization's Name <span>*</span></label>
+            <div class="clear"></div>
+            <textarea></textarea>
+            <div class="clear"></div>
+            <label>Phone Number <span>*</span></label>
+           <div class="clear"></div>
+            <input type="text">
+            <div class="clear"></div>
+            <label>What is the best time to call you?<span>*</span></label>
+           <div class="clear"></div>
+            <input type="text">
+            <div class="clear"></div>
+            </div>
+             <div class="clear"></div>
+              <input type="reset" value="Reset">  <input type="submit" value="Submit"> 
+        </form>
+        <div class="clear"></div>
         </div>
+        
       </div>
-      <!--Nav Start-->
-    </div>
-    <!--Header End-->
-    <!--Banner Start-->
-    <div class="banner-tab-inner">
-      <div class="contact-form-panel">
-        <h2>Privacy Policy</h2>
-        <div class="inner-panel-full">
-         <img src="images/privacy_policy.png" alt="admission" align="right" style="margin-right:17px;">
-          <p> Any personal information, word document or video content that you voluntarily disclose Online (e.g., video comments, your profile page) may be collected and used by others.
-<br>
+       <div id="backgroundPopup2"></div>
+       
+       <!--------Rqeuest Popup------->
+   <div class="clear"></div>
+<!--header end-->
+<div class="clear" style="margin-top:5px;"></div>
+<!--blue strip-->
+   <div class="blue-strip">
+     <div id="page">
+       <div class="flt-lt"><a href="index.html"><img src="images/logo.jpg" alt="Digi univ" border="0" hspace="20"></a></div>
+       <div class="blue-strip-txt">
+         <p>DIGIUNIV is a web based Education Management Software that helps customers meet <br>
+           the increasing demands, save costs and gain a competitive edge.</p>
+       </div>
+     </div>
+   </div>
+   <!--blue strip-->
+<div class="clear"></div>
 
-Any sensitive information that you provide will be secured with all industry standard protocols and technology.
-<br>
-<br>
-
-<strong>We use cookies and web log files to:</strong>
-</p><ul>
-
-<li>store information so that you will not have to re-enter it during your next visit</li>
-<li>provide custom, personalized content and information</li>
-<li>monitor the effectiveness of our marketing campaigns.</li>
-
-</ul>
-<br>
-
-Persons who supply us with their telephone numbers or e-mail addresses on-line may receive telephone calls or emails from us with information regarding special promotions, new products and services or upcoming events.
-<br>
-
-It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
-<br>
-<br>
-
-<strong>Digiuniv</strong> may update this privacy policy. In the event of there being significant changes in the way we process your personally identifiable information, we will display a notice on this Site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.<p></p>
-        </div>
-      </div>
-    </div>
-    <!--Banner End-->
-    <!--Middle Start-->
-    <!--Middle end-->
-  </div>
+<br><br>
+<div style="background:#FFFFFF; overflow:auto">
+<section class="width630">
+	 <h3>Privacy Policy</h3>
+     <p><span class="blue_txt">Protecting  Your Personal Information</span><br>
+       Where personal information is  required, we use Secure Sockets Layer (SSL) encryption to transmit this data.  This is done to prevent the loss, misuse or alteration of the information you  have offered. While Digiuniv strives to protect the personal information you  submit to us. Once your information has been received by we will make our best  effort to ensure the safety and security on our systems.<br>
+       <br>
+       These companies will only be  provided the information they need to perform the service, and they are  strictly prohibited from using that information for any other purpose. One Software may occasionally  present a special contest or promotion sponsored by another company. You may be  asked to provide personal information in order to quality for this contest or  promotion. If your personal information will be shared with the sponsor(s), you  will be notified prior to your submission of personal information.
+       Finally, while we will make every  effort to preserve the privacy of our users, at times we may be required by law  to disclose personal information.<br>
+       <br>
+  <strong class="blue_txt">Security</strong><br>
+       This site has security measures in  place to protect the loss, misuse, and alteration of the information under our  control. When a user submits personal information, it is kept on a private  server not accessible from the Internet. This prevents any malicious use of  your information. <br>
+       <br>
+      All financial information that is  submitted to our websites is encrypted and is stored on private servers that  are not accessible from the Internet. Further, users can select to transmit  order information over a secure connection, which increases the security of  each transaction.</p>
+</section>
+<section class="width310" style="margin-top:40px">
+	<img src="images/privacy_policy.gif" width="274" height="221" vspace="10">
+</section> 
+ 
 </div>
-<!--Footer Start-->
-<div class="footer-inner">
-  <div class="footer_wrapper">
-    <div class="footer-link">
-      <ul>
-        <li><a href="#" style="font:bold 14px Verdana, Arial, Helvetica, sans-serif; border-bottom:1px dotted #fff; color:#00AFFE">Products</a></li>
-         <li><a href="admission_mgmt.html">digi-admission</a></li>
-        <li><a href="digi_fee.html">digi-fee management</a></li>
-        <li><a href="digi_academic.html">digi-academic suite</a></li>
-        <li><a href="digi_campus.html" class="last">digi-campus suite</a></li>
-      </ul>
-    </div>
-    <div class="footer-link">
-      <ul>
-        <li><a href="#" style="font:bold 14px Verdana, Arial, Helvetica, sans-serif; border-bottom:1px dotted #fff;  color:#00AFFE">Our Services</a></li>
-        <li><a href="#">Enterprise Solutions</a></li>
-        <li><a href="#">Customize Solutions</a></li>
-        <li><a href="#">Training &amp; Development</a></li>
-      </ul>
-    </div>
-    <!--<div class="footer-link">
-      <ul>
-       <li><a href="#" style="font:bold 14px Verdana, Arial, Helvetica, sans-serif; border-bottom:1px dotted #fff">Tour</a></li>
-        <li><a href="#">Support</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Add-ons</a></li>
-        <li><a href="#" class="last">API</a></li>
-      </ul>
-    </div> -->
-    <div class="footer-link">
-      <ul>
-        <li><a href="#" style="font:bold 14px Verdana, Arial, Helvetica, sans-serif; border-bottom:1px dotted #fff;  color:#00AFFE">Support</a></li>
-       <!-- <li><a href="#">Security</a></li>
-        <li><a href="#">Safeguards</a></li> -->
-        <li><a href="term_condition.html">Terms of Services</a></li>
-        <li><a href="privacy_policy.html" class="last">Privacy Policy</a></li>
-      </ul>
-    </div>
-    <div class="footer-mail">
-      <p class="mail-spc mail"><a href="mailto:mail.nysa@gmail.com" class="email">support@digiuniv.com</a></p>
-      <p class="copyright_font"> © 2012 NYSA Communications All rights reserved</p>
-    </div>
-  </div>
 </div>
-<!--Footer End-->
-
+<footer>
+      <div id="page" align="center">
+       <nav>
+         <ul>
+           <li><a href="about.html">About Us</a></li>
+ 
+           <li><a href="privacy_policy.html">Privacy Policy</a></li>
+           <li><a href="pdf/BROCHURE_DIGIUNIV.pdf" target="_blank">Download Brochure</a></li>
+ 
+           <li><a id="button2">Request a Qoute/Demo</a></li>
+         </ul>
+       </nav>
+     </div>
+   </footer>
+   <div class="footer_page">
+     <div class="clear"></div>
+     <p style="text-align:center; font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#757575; padding:10px;">© 2012 - 2013 Nysa Communication Pvt. Ltd. All rights reserved.</p>
+   </div>
 
 </body></html>
