@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thepaktv.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122130447id_/http%3A//www.thepaktv.com/forums/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaktv.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218235049id_/http%3A//www.thepaktv.me/forums/privacy%2520policy.php) for the most accurate reproduction.*
 
-# ThePakTv: Home of Pakistani Media - Privacy Policy of ThePakTv.com
+# ThePakTv: Watch Pakistani Dramas & Political Shows in High Quality - Privacy Policy of ThePakTv.com
 
 _Privacy Policy:_
 
 ThePakTv.com care about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. 
 
-By [registering](http://www.thepaktv.com/forums/register.php) to ThePakTv.com you are accepting the practices outlined in this Privacy Policy. 
+By [registering](http://www.thepaktv.me/forums/register.php) to ThePakTv.com you are accepting the practices outlined in this Privacy Policy. 
 
 We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site. 
 
