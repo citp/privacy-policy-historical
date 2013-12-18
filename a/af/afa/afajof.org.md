@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afajof.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617052307id_/http%3A//www.afajof.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afajof.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218142137id_/http%3A//www.afajof.org/privacy.html) for the most accurate reproduction.*
 
 # - American Finance Association
 
