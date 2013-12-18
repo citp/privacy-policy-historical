@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manipalworldnews.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619214902id_/http%3A//manipalworldnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manipalworldnews.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219001514id_/http%3A//manipalworldnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Manipal World News
 
-[](http://manipalproperty.com/) [](http://www.udupiproperties.com/)
+[](http://udupiproperty.co.in/) [](http://manipalworldnews.com/2013/11/19/malasa-builders/)
 
 Privacy policy
 
@@ -14,63 +14,87 @@ Get updates from Manipal World News
 
 [ ](http://manipalworldnews.com/reporter)
 
+Happy Birthday
+
+[](http://manipalworldnews.com/2013/12/09/rev-fr-valerian-mendonca/)
+
+Congratulations
+
+[](http://manipalworldnews.com/2013/11/30/david-winston-bangalore/)
+
+Happy Birthday Sister
+
+[](http://manipalworldnews.com/2013/11/30/sr-rosely-zelie-saldanha-hyderabad-ap/)
+
 Sad Demise
 
-[](http://manipalworldnews.com/2013/06/18/juliana-lewis91-kallianpur-bangalore/)
-
-Sad Demise
-
-[](http://manipalworldnews.com/2013/06/18/sharmila-lobo-41-kundottu/)
-
-Tribute to Fr Henry 
-
-[](http://manipalworldnews.com/2013/06/13/fr-henry-castelino-80/)
-
-Wedding Anniversary
-
-[ ](http://manipalworldnews.com/sandesh?id=86206)
+[](http://manipalworldnews.com/2013/11/22/elias-lasrado-84-laxmi-nagar-kallianpur/)
 
 Happy Birthday
 
-[ ](http://manipalworldnews.com/sandesh?id=83970)
+[](http://manipalworldnews.com/2013/11/22/freeda-cecilia-dsouza/)
+
+Congratulations
+
+[](http://manipalworldnews.com/2013/11/19/mrs-sahana-s-kunjathur/)
 
 Sad Demise
 
-[](http://manipalworldnews.com/2013/05/28/augustine-s-dsilva-89-of-santhekatte-kallianpur/)
+[](http://manipalworldnews.com/2013/11/13/%e0%b2%95%e0%b3%81%e0%b2%95%e0%b2%b0%e0%b3%8d%e0%b2%be%e0%b2%b2%e0%b3%81-%e0%b2%b0%e0%b2%a4%e0%b3%8d%e0%b2%a8%e0%b2%be%e0%b2%95%e0%b2%b0-%e0%b2%b6%e0%b3%86%e0%b2%9f%e0%b3%8d%e0%b2%9f%e0%b2%bf/)
 
 Happy Birthday
 
-[ ](http://manipalworldnews.com/sandesh?id=80770)
+[](http://manipalworldnews.com/2013/11/08/priyal-cornelio/)
+
+Happy Wedding Anniversary
+
+[](http://manipalworldnews.com/2013/11/05/pundalika-marathe-2/)
+
+Best wishes of Deepavali to all the people of this land.
+
+[](http://manipalworldnews.com/2013/11/02/most-rev-dr-gerald-isaac-lobo/)
 
 Sad Demise
 
-[](http://manipalworldnews.com/2013/05/26/manohar-oswald-cornelio-43-kinnimulky-udupi/)
-
-Happy Birthday 
-
-[ ](http://manipalworldnews.com/sandesh?id=79624)
-
-Sad Demise
-
-[](http://manipalworldnews.com/2013/04/03/alphonso-crasto-81-udyavar-udupi/)
-
-Sad Demise
-
-[](http://manipalworldnews.com/2013/04/02/%e0%b2%ac%e0%b2%82%e0%b2%9f%e0%b2%95%e0%b2%b2%e0%b3%8d%e0%b2%b2%e0%b3%81-%e0%b2%aa%e0%b3%8d%e0%b2%b0%e0%b2%ad%e0%b2%be%e0%b2%95%e0%b2%b0-%e0%b2%b2%e0%b2%be%e0%b2%82%e0%b2%9c%e0%b3%8b%e0%b2%b2%e0%b3%8d/)
+[](http://manipalworldnews.com/2013/10/25/victoria-dsilva-79udyavara/)
 
 Alliance
+
+Jingle Bells 2013
+
+[](http://manipalworldnews.com/2013/12/04/mangalore-i-c-y-m-milagres-desire-to-organize-jingle-bells-2013/)
+
+Manasa Residency 
+
+[](http://udupiproperty.co.in/projectDetails.php?projectId=1045)
+
+Penthouse For Sale.
+
+[](http://udupiproperty.co.in/propertyDetails.php?propertyId=4026)
+
+Reday Flats Available
+
+[](http://udupiproperty.co.in/adDetails.php?adId=96)
+
+House For Sale 
+
+[](http://www.manipalproperty.com/propertyDetails.php?propertyId=3994)
+
+Udupi Property
+
+[](http://udupiproperty.co.in/)
+
+Beach Property
+
+[](http://www.udupiproperties.com/propertyDetails.php?propertyId=3936&page=1&searchType=property&postTy)
+
+Position December 2013
+
+[](http://manipalproperty.com/propertyDetails.php?propertyId=3684&PHPSESSID=32dd566b16084b5f5c3f)
 
 For New Flats Booking
 
 [](http://manipalworldnews.com/2013/06/01/new-flats-booking/)
-
-Ready to occupy Flats
-
-[](http://manipalworldnews.com/2013/05/28/ready-to-occupy-flats-available/)
-
-Flats For Rent
-
-[](http://manipalworldnews.com/2013/05/28/green-fortune-flat-rent/)
 
 Shan Compupoint
 
@@ -80,30 +104,6 @@ Nidhiland
 
 [](http://www.nidhiland.com/vrindavan-apartments-mangalore.php)
 
-Smartlab.in
-
-[](http://manipalworldnews.com/2013/04/02/smartlab-in-taking-the-suspense-out-of-exams/)
-
-JULIE-YO Residency, New Flats Booking
-
-[](http://manipalworldnews.com/2013/01/05/julie-yo-residency-kundapura/)
-
-House For sale
-
-[](http://manipalworldnews.com/2013/01/04/ready-house-in-kalmady/)
-
-Books Available
-
-[](http://manipalworldnews.com/2012/12/24/books-available/)
-
-Udupi Manipal Property
-
-[](http://www.udupiproperties.com/)
-
-House For Sale
-
-[](http://manipalworldnews.com/2012/10/10/house-sale-karkala-bailur/)
-
 Royal Health Clinic
 
 [](http://www.royalhealthclinics.com/INDEX.html)
@@ -111,14 +111,6 @@ Royal Health Clinic
 Sri Vaishnavi Devi
 
 [](http://shrivaishnaviastrology.com/)
-
-Narayani Nest Udupi
-
-[](http://manipalworldnews.com/2012/09/19/narayani-nest-udupi/)
-
-[](http://manipalworldnews.com/weather)
-
-[](http://manipalworldnews.com/matrimonial)
 
 #### SMS News Alerts
 
@@ -136,16 +128,19 @@ Find a Property to Buy Sale or Rent
 
 Manipal World News Poll
 
-What is your opinion about Gutka Ban ?
+Who is the best choice for PM?
 
-Good for Health  
-
-
-Bad for Farmers  
+Rahul Gandhi  
 
 
-Political stunt  
+Narendra Modi  
 
 
-None of the above  
+Priyanka Vadra  
+
+
+Mulayam Singh Yadav  
+
+
+None of above  
 
