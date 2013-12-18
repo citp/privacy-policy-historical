@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the dealersocket.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013346id_/http%3A//www.dealersocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealersocket.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218111426id_/http%3A//www.dealersocket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DealerSocket®
+# Privacy Policy - DealerSocket
 
-## Privacy Policy
+At DealerSocket, we recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use DealerSocket’s services, as well as some of the steps we take to safeguard it. 
 
-At DealerSocket, we recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use DealerSocket's services, as well as some of the steps we take to safeguard it. 
-
-The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or email address. 
+The following principles apply to the personally identifying information we ask for and that you provide. “Personally identifying information” is information that individually identifies you, such as your name, physical address or email address. 
 
 ### Data Collection
 
@@ -18,7 +16,7 @@ When we require personally identifying information, we will inform you about the
 
 ### Cookies
 
-Upon your first visit to DealerSocket, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. DealerSocket does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some DealerSocket features or services may not function properly without cookies. 
+Upon your first visit to DealerSocket, a cookie is sent to your computer that uniquely identifies your browser. A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. DealerSocket does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some DealerSocket features or services may not function properly without cookies. 
 
 ### Information Sharing
 
@@ -50,7 +48,7 @@ Please note this Privacy Policy will change from time to time. We will post thos
 
 If you have any additional questions, please feel free to contact us any time at: 
 
-DealerSocket Inc.   
-PO Box 74866   
-San Clemente, CA 92673   
+DealerSocket Inc.  
+PO Box 74866  
+San Clemente, CA 92673  
 [legal@dealersocket.com](mailto:legal@dealersocket.com?subject=Privacy%20Policy)
