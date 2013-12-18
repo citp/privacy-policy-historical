@@ -1,6 +1,26 @@
-> *The following text is extracted and transformed from the leafly.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620234754id_/http%3A//www.leafly.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leafly.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218054727id_/http%3A//www.leafly.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Leafly
+
+[](https://web.archive.org/)
+
+  * [ **Explore**
+
+Strains & More
+
+](https://web.archive.org/explore)
+  * [ **Find**
+
+Dispensaries & Delivery
+
+](https://web.archive.org/finder)
+  * [
+
+News & Culture
+
+](https://web.archive.org/news)
+
+
 
 ## Your privacy is critically important to us.
 
@@ -32,3 +52,9 @@ A cookie is a string of information that a website stores on a visitor’s compu
 Although most changes are likely to be minor, Leafly may change its Privacy Policy from time to time, and in Leafly’s sole discretion. Leafly encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 This privacy policy was graciously appropriated from Automattic who were generous enough to have made it available under a [Creative Commons Share Alike](http://go2.wordpress.com/?id=725X1342&site=automattic.wordpress.com&url=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F2.5%2F&sref=http%3A%2F%2Fautomattic.com%2Fprivacy%2F) license. Visit them at [Wordpress.com](http://www.wordpress.com/).
+
+Leafly operates in compliance with state laws regarding access to cannabis. Are you at least 21 years old or a valid medical marijuana patient?
+
+We’re sorry, we can’t let you in.
+
+*If you keep seeing this age prompt whenever you visit Leafly.com, please enable cookies in your web browser. Thank you!
