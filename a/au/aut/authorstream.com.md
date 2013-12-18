@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorstream.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530180148id_/http%3A//www.authorstream.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorstream.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218013400id_/http%3A//www.authorstream.com/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy on authorSTREAM
 
