@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackmytrip.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603125250id_/http%3A//hackmytrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackmytrip.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218060647id_/http%3A//hackmytrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hack My Trip
 
@@ -23,5 +23,9 @@ Hack My Trip does not sell or share any personal information without your permis
 #### Controlling Your Privacy
 
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+
+#### Affiliate Marketing
+
+**Disclaimer: This content is not provided or commissioned by the credit card issuer. Opinions expressed here are author’s alone, not those of the credit card issuer, and have not been reviewed, approved or otherwise endorsed by the credit card issuer. This site may be compensated through the credit card issuer Affiliate Program.**
 
 Any questions, comments, or concerns can be addressed to me by email at [scottrick@hackmytrip.com](mailto:scottrick@hackmytrip.com).
