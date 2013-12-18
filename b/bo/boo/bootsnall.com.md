@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510105137id_/http%3A//www.bootsnall.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218135549id_/http%3A//www.bootsnall.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | BootsnAll Travel Blog
+
+[Privacy Policy](http://www.bootsnall.com/privacy.shtml "Permanent Link to Privacy Policy")
+    
 
 This is a web site of BootsnAll.com. We can be reached via e-mail [via this online form](http://help.bootsnall.com/).
 
