@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the songsblasts.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618030152id_/http%3A//www.songsblastss.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songsblasts.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218082304id_/http%3A//www.songsblastss.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Advertisement   
+
 
 At www.songsblastss.com, the privacy of our visitors is of extreme importance to us . This privacy policy document outlines the types of personal information is received and collected by www.songsblastss.com and how it is used.
 
