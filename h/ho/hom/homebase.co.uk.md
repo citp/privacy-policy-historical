@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebase.co.uk privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614080300id_/http%3A//www.homebase.co.uk/webapp/wcs/stores/servlet/HomebaseStaticPageSecondLevel%3FlangId%3D110%26storeId%3D10151%26includeName%3DHBCustomerServiceArticles/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebase.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218083408id_/http%3A//www.homebase.co.uk/webapp/wcs/stores/servlet/HomebaseStaticPageSecondLevel%3FlangId%3D110%26storeId%3D10151%26includeName%3DHBCustomerServiceArticles/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy policy from Homebase Helping to Make Your House a Home
 
