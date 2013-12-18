@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002851id_/http%3A//www.mensjournal.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218101031id_/http%3A//www.mensjournal.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MensJournal.com
 
