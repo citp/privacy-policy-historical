@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quttera.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615182749id_/http%3A//quttera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quttera.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218142751id_/http%3A//quttera.com/privacy) for the most accurate reproduction.*
 
-# Quttera | FREE Online Heuristic URL Scanner
+# FREE Online Website Malware Scanner | Website Security Monitoring & Malware Removal | Quttera
 
 **What information do we collect?**
 
