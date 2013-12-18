@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618090801id_/http%3A//www.dell.ca/content/topics/segtopic.aspx/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218215851id_/http%3A//www.dell.ca/content/topics/segtopic.aspx/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Find a Laptop, Notebook, Desktop, Server, Printer, Software, Service, Monitor or TV at Dell. | Dell Canada
 
@@ -8,7 +8,7 @@ Effective date: December 1, 2012
 
 This privacy statement governs the Personal Information we collect from our customers and online from our website users ("you"), through Dell products, services, software, websites, contacts, or our relationship with you. **"Personal Information"** means information about an identifiable individual as more particularly described under applicable privacy legislation, and includes name, telephone number, and email address but generally does not include business contact information.
 
-The Privacy Statement applies to Dell Canada Inc., Dell Financial Services Canada Limited and their respective Canadian corporate affiliates (collectively, "Dell", "we", "us" or "our"). This Privacy Statement does not apply to our Service Providers or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with whom you interact with whom you interact.
+The Privacy Statement applies to Dell Canada Inc., Dell Financial Services Canada Limited and their respective Canadian corporate affiliates* (collectively, "Dell", "we", "us" or "our"). This Privacy Statement does not apply to our Service Providers or to any other third parties, even if their websites are linked to our website. We recommend you review the privacy statements of the other parties with whom you interact with whom you interact.
 
 Please refer to your warranty statements and Dell's Return Policy for policies that apply to information contained on hard drives returned to Dell.
 
@@ -186,9 +186,10 @@ Contact Us
 
 If you would like to contact us for any reason regarding our privacy practices, including for information regarding our policies and procedures with respect to Service Providers outside of Canada, you may write to us or email us at the following addresses:
 
-Dell Canada Inc.                                                            Dell Financial Services Canada Limited  
-Attention: Privacy                                                            Attention: Privacy  
-155 Gordon Baker Road, Suite 501                          155 Gordon Baker Road, Suite 501  
-Toronto, Ontario M2H 3N5                                           Toronto, Ontario M2H 3N5  
-Email: [privacy@dell.com](mailto:privacy@dell.com).                                             Email: [privacy@dell.com](mailto:privacy@dell.com).  
+Dell Canada Privacy Department.                                                              
+155 Gordon Baker Road, Suite 501                            
+Toronto, Ontario M2H 3N5                                             
+Email: [privacy@dell.com](mailto:privacy@dell.com).                                               
 
+
+*As of the Effective Date of this Statement, Dell's Canadian corporate affiliates include Dell Canada Inc., Quest Software Canada Inc., and Dell Financial Services Canada Limited. 
