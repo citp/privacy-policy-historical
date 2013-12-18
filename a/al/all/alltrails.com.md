@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltrails.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529172332id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltrails.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023656id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AllTrails.com
 
@@ -72,7 +72,7 @@ Information Sharing and Disclosure
 YOUR CALIFORNIA PRIVACY RIGHTS:
     
 
-California Civil Code Section 1798.83 permits customers of AllTrails who are California residents to request certain information regarding its disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy_at_alltrails_dot_com](mailto:privacy@alltrails.com) or write us: AllTrails, Inc., 260 King Street #709, San Francisco, California 94107. 
+California Civil Code Section 1798.83 permits customers of AllTrails who are California residents to request certain information regarding its disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy_at_alltrails_dot_com](mailto:privacy@alltrails.com) or write us: AllTrails, Inc., 111 Pine Street, Suite 1605, San Francisco, California 94111. 
 
 Changing or Deleting Your Information
     
@@ -117,4 +117,4 @@ Contacting Us
 
 If you have any questions about this Privacy Policy, please contact us at [privacy_at_alltrails_dot_com](mailto:privacy@alltrails.com) or at: 
 
-AllTrails, Inc.  260 King Street #709  San Francisco, CA 94107 
+AllTrails, Inc. 111 Pine Street, Suite 1605 San Francisco, CA 94111
