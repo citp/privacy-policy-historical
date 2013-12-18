@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actiontrip.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619022317id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.actiontrip.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actiontrip.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218235710id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.actiontrip.com) for the most accurate reproduction.*
 
 # Privacy Policy - CraveOnline
 
