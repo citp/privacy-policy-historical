@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613195013id_/http%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021742id_/https%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy. This policy explains the accepted privacy practices for our services at [www.cognifit.com](http://www.cognifit.com/), including the purchase and online use of the CogniFit software and suite of applications and any future software, product, neurons or applications (the **"Websites"** **"Product"** and **"Products"** respectively, or collectively: the **"Services"** ). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. You can access our Privacy Policy here.
+We respect your privacy. This policy explains the accepted privacy practices for our services at [www.cognifit.com](http://www.cognifit.com/), including the purchase and online use of the CogniFit software and suite of training programs and any future software, product, neurons or training programs (the **"Websites"** **"Product"** and **"Products"** respectively, or collectively: the **"Services"** ). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. You can access our Privacy Policy here.
 
 This policy is incorporated by reference to the Websites' Terms and Conditions ( **"Terms of Use"** ).
 
@@ -35,7 +35,7 @@ We may use personally identifiable information for the following purposes:
   * to take any action in any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with the Services;
   * to transmit or transfer your personal information to locations other than your place of residence;
   * for any other purpose stipulated in this policy, or in the Terms of Use.
-  * to recommend new applications and features, and/or to offer further Services.
+  * to recommend new training programs and features, and/or to offer further Services.
 
 
 
