@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvsmacktalk.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617103620id_/http%3A//www.tvsmacktalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvsmacktalk.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218084004id_/http%3A//www.tvsmacktalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - T.V.S.T.
+# Privacy Policy | T.V.S.T.
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -25,4 +25,4 @@ If you have any questions regarding the privacy policy of TV Smack Talk You Post
 
 Last updated Sat, 11 Jun 2011 07:43
 
-(197)
+(874)
