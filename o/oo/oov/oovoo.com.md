@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oovoo.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624171550id_/http%3A//www.oovoo.com/TermsAndPolicies.aspx%3Fpname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oovoo.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020259id_/http%3A//www.oovoo.com/TermsAndPolicies.aspx%3Fpname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Video & Chat with ooVoo
 
@@ -140,6 +140,6 @@ We will retain your Personal Information for the period necessary to fulfill the
 
 ### CONTACTING US
 
-If you have any questions about this Privacy Policy, please contact us by sending an e-mail to [support@oovooinsiders.com](mailto:support@oovooinsiders.com). Please note that information you submit through e-mail may not be secure; so please do not include credit card information or other sensitive information in your messages to us.  
+If you have any questions about this Privacy Policy, please contact us by sending an e-mail to [privacy@oovoo.com](mailto:privacy@oovoo.com). Please note that information you submit through e-mail may not be secure; so please do not include credit card information or other sensitive information in your messages to us.  
   
 ---|---
