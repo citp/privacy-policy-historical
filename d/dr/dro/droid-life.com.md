@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the droid-life.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514062149id_/http%3A//www.droid-life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droid-life.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218030954id_/http%3A//www.droid-life.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Droid Life
+# Privacy Policy | Droid Life
 
 Droid Life takes your privacy very seriously and the following privacy guide outlines our policies in regards to what information we collect from you, and how we use this information.
 
