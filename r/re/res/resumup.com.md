@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumup.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524163704id_/http%3A//resumup.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumup.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218024005id_/http%3A//resumup.com/pages/policy) for the most accurate reproduction.*
 
 # ResumUP.com | Go Visual — Get Visible
 
@@ -17,6 +17,8 @@ By registering for a Resumup.com Account, you may have the option to sign in usi
 You expressly authorize us to collect and use your Submitted Information in connection with your use of the Resumup.com Services. You further acknowledge and agree that Resumup.com may, but is not obligated to, maintain copies of your Submitted Information indefinitely, or delete any or all Submitted Information, at our sole discretion.
 
 We may receive and store certain types of information whenever you interact with the Website and/or Resumup.com Service. Resumup.com may choose to automatically receive and record information on our server logs from your browser including your IP address, cookie information, and the page you requested.
+
+You have the right to assign to your personal page a short (sub-domain) name replacing the id ordinal number for web addressing purposes. The sub-domain name cannot be selected from the words and names the use of which is prohibited in accordance with these Terms, legislation and international legal acts, including without limitation obscene words, names registered as trademarks, brand names and commercial designations, unless you are their exclusive owner. We reserve the right to remove or reclaim any user sub-domain name if we believe it is appropriate.
 
 Except as described in this Privacy Policy, your personal information will be used only by Resumup.com and its controlled subsidiaries and affiliates, and your personal information will not be disclosed to any other third party without your consent.
 
