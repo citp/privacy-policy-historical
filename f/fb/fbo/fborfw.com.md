@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121080542id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218211536id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.*
 
 # FBorFW.com is The Official Website of Lynn Johnston's comic strip For Better or For Worse.
 
@@ -55,10 +55,10 @@ We use third-party advertising companies to serve ads when you visit our Website
 Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to design@fborfw.com, or you can reach us by fax at Attn: Privacy Policy 705.752.4589. You can also write us at: 
 
 FBorFW.com Privacy Policy  
-P.O. Box 100  
-Corbeil, ON   
+P.O. Box 850  
+Callander, ON   
 Canada  
-P0H 1K0  
+P0H 1H0  
 
 
 We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for on-line purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it. Unfortunately, no electronic communication over the internet can be guaranteed 100% secure and Entercom Canada Inc. cannot warrant the security of any information that you submit to us, and you do so at your own risk.
