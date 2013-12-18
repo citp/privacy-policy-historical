@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405015735id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020524id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
 
 # CleverMedia, Inc.
 
