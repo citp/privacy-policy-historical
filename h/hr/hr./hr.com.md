@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618111512id_/http%3A//www.hr.com/en/about_us/privacy_information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hr.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218224509id_/http%3A//www.hr.com/en/about_us/privacy_information) for the most accurate reproduction.*
 
 # Privacy Information - The Human Resources Social Network
 
