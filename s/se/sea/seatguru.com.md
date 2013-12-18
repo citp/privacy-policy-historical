@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423222055id_/http%3A//www.seatguru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023724id_/http%3A//www.seatguru.com/privacy.php) for the most accurate reproduction.*
 
 # SeatGuru Privacy Policy
 
