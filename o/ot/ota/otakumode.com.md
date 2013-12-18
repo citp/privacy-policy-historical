@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621013242id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020936id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
 
 # Tokyo Otaku Mode β | Privacy Policy
 
@@ -102,13 +102,13 @@ We may also disclose your Personal Information with your permission.
 
 We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
 
-By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at.
+By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at **[support@tokyootakumode.com](mailto:support@tokyootakumode.com)**.
 
 ## CHILDREN'S PRIVACY
 
 We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
 
-We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at **[support@tokyootakumode.com](mailto:support@tokyootakumode.com)**. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child's account.
 
 ## INTERNATIONAL USERS
 
@@ -120,7 +120,7 @@ If you are visiting from the European Union or other regions with laws governing
 
 ## UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
 
-If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to.
+If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to **[support@tokyootakumode.com](mailto:support@tokyootakumode.com)**.
 
 ## CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
@@ -137,5 +137,7 @@ Tokyo Otaku Mode Inc.
 Taito-ku  
 Tokyo 110-0016  
 Japan
+
+[support@tokyootakumode.com](mailto:support@tokyootakumode.com)
 
 Last updated on March 23, 2013
