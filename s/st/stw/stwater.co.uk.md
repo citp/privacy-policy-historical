@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519060505id_/http%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218043001id_/http%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy : Legal : Severn Trent Water
 
-Here at Severn Trent we adhere to the Data Protection Act 1998, when dealing with your personal details. The information below should answer any questions you may have about this but please do [contact us](http://www.stwater.co.uk/contactus) if you have any further queries.
+Here at Severn Trent we adhere to the Data Protection Act 1998, when dealing with your personal details. The information below should answer any questions you may have about this but please do [contact us](http://www.stwater.co.uk/about-us/contact-details/) if you have any further queries.
 
 ## What information do we collect?
 
@@ -39,4 +39,4 @@ Please note there is a small charge for this service.
 
 ## Contact us
 
-If you have any further questions about the way we manage your data you can [email us](mailto:customercare.severntrent.co.uk) or call us on 08457 500 500.
+If you have any further questions about the way we manage your data you can [email us](mailto:customercare@severntrent.co.uk) or call us on 08457 500 500.
