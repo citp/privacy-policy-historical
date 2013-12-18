@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the help.ecwid.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606003459id_/http%3A//www.ecwid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help.ecwid.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020140id_/http%3A//www.ecwid.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ecwid: E-Commerce Widgets
 
@@ -128,4 +128,4 @@ We may amend this Privacy Policy at any time by posting the amended terms on Ecw
 
 ## Contacting Us
 
-If you have any questions about this Privacy Policy or Ecwid’s information practices, please contact us via these channels: <http://www.ecwid.com/help.html#contact_us>, by sending an email to [info@ecwid.com](mailto:info@ecwid.com) or by mailing your correspondence to Ecwid Privacy, 800 El Camino Real, Suite 180, Mountain View, CA 94040.
+If you have any questions about this Privacy Policy or Ecwid’s information practices, please contact us via these channels: <http://www.ecwid.com/help.html#contact_us>, by sending an email to [info@ecwid.com](mailto:info@ecwid.com) or by mailing your correspondence to Ecwid Privacy, 144 West D Street, Suite 103, Encinitas, California 92024, USA.
