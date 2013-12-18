@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618165640id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218234958id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# FaucetDirect.com: Security & Privacy
+# Faucets, Kitchen Faucets, Bathroom Fixtures, Sinks & Faucet Parts - FaucetDirect.com
 
 ## Our Company
 
 Our postal address is:  
-P.O. Box 7990  
-Chico, CA 95927
+402 Otterson Drive, Suite 100  
+Chico, CA 95928
 
 We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 864-2555, which is our customer service call center.
 
