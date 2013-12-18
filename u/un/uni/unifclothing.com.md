@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the unifclothing.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622031328id_/http%3A//unifclothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unifclothing.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218193946id_/http%3A//unifclothing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | UNIF
+# Privacy
 
-**Privacy Policy**  
 When accessing our Website, UNIF will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
 If you visit our site to read or download information on our pages, we collect and store only the following information about you:
@@ -17,4 +16,6 @@ The information collected is for statistical purposes. UNIF may use software pro
 
 For site security purposes and to ensure that this service remains available to all users, UNIF uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-UNIF will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+UNIF will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection
+
+:) UNIF
