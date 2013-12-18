@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coorslight.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015536id_/http%3A//coorslight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coorslight.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218203128id_/https%3A//www.coorslight.com/privacy) for the most accurate reproduction.*
 
 # Coors Light® Privacy Policy
 
