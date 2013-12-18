@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628222140id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020044id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | 8tracks radio
 
