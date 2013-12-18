@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423095957id_/http%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023947id_/http%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Terms of Service](https://web.archive.org/legal/terms) | [Privacy Policy](https://web.archive.org/legal/privacy) | [Copyright](https://web.archive.org/legal/copyright) Last modified on Jan 02, 2009
+[Terms of Service](https://web.archive.org/legal/terms) | [Privacy Policy](https://web.archive.org/legal/privacy) | [Copyright](https://web.archive.org/legal/copyright) Last modified on May 14, 2013
 
-Heyzap understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, platforms, websites, or other affiliated ventures operated by Smart Balloon, Inc. Throughout this Policy, "Heyzap" and "We" refers to Smart Balloon, Inc. and its affiliates. "You" or "Users" refers to you, our users - everyone who uses, subscribes to, publishes through, joins, or visits Heyzap. The "Heyzap Platform" refers to the applications, platform, web site and services controlled, operated or produced by Smart Balloon, Inc.
+Heyzap understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, platforms, websites, or other affiliated ventures operated by Smart Balloon, Inc. Throughout this Policy, "Heyzap" and "We" refers to Smart Balloon, Inc. and its affiliates. "You" or "Users" refers to you, our users - everyone who uses, subscribes to, publishes through, advertises through, joins, or visits Heyzap. The "Heyzap Platform" refers to the applications, platform, web site and services controlled, operated or produced by Smart Balloon, Inc.
 
-By using the Heyzap Platform, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Heyzap Platform Terms of Use. Your use of the Heyzap Platform and any personal information you provide through the Heyzap Platform are subject at all times to this Privacy Policy and the Terms of Use.
+By using the Heyzap Platform, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Heyzap Platform Terms of Use. Your use of the Heyzap Platform and any personal information you provide through the Heyzap Platform are subject at all times to this Privacy Policy and the Terms of Use. This policy explains how information is collected and used by Heyzap.
 
 ### TABLE OF CONTENTS
 
@@ -17,20 +17,25 @@ By using the Heyzap Platform, you expressly consent to the information handling 
   3. 3\. When Heyzap Discloses Information
   4. 4\. Your Choices
   5. 5\. Advertisers
-  6. 6\. Data Security
-  7. 7\. Children‘s Privacy
-  8. 8\. International Visitors
-  9. 9\. In the Event of Merger or Sale
-  10. 10\. Third Parties
-  11. 11\. Changes and Updates to this Privacy Policy
-  12. 12\. Heyzap Contact Information
+  6. 6\. Advertisers and COPPA
+  7. 7\. Data Security
+  8. 8\. Children‘s Privacy
+  9. 9\. International Visitors
+  10. 10\. In the Event of Merger or Sale
+  11. 11\. Third Parties
+  12. 12\. Changes and Updates to this Privacy Policy
+  13. 13\. Heyzap Contact Information
 
 
 
   
-1\. The Information Heyzap Collects: Information You Provide: You may provide to Heyzap what is generally called "personally identifiable" information (such as your name, age, zip code, email address, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Heyzap Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Heyzap Platform.
 
-"Automatically Collected" Information: When you access the Heyzap Platform (including through your computer or your mobile device) or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique user ID, version of software installed, system type, your listening preferences, the content and pages that you access on the Heyzap Platform, and the dates and times that you visit the Heyzap Platform.
+
+### 1\. The Information Heyzap Collects:
+
+Information You Provide: You may provide to Heyzap personal information (such as your name, age, zip code, email address, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Heyzap Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Heyzap Platform.
+
+"Automatically Collected" Information: When you access the Heyzap Platform (including through your computer or your mobile device) or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), MAC Address, a unique device or advertiser ID, version of software installed, system type, your listening preferences, the content and pages that you access on the Heyzap Platform, and the dates and times that you visit the Heyzap Platform.
 
 "Cookies" Information: When you access the Heyzap Platform, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Heyzap may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Heyzap Platform. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings.
 
@@ -66,57 +71,47 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 ### 5\. Advertisers
 
-Heyzap allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Heyzap Platform. These third-party ad servers or ad networks may use technology to send, directly to your browser, the advertisements that appear within the Heyzap Platform and they automatically receive your IP Address and other automatically collected information when this happens. Such third-party ad servers may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
+Heyzap allows other companies, called advertisers, third-party ad servers or ad networks, referred to herein as “Advertisers,” to serve advertisements within the Heyzap Platform. Heyzap may use technology to send, directly to mobile devices, the advertisements that appear within the Heyzap Ad Network and Application and will receive automatically collected information when this happens. Heyzap may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of advertisements and to personalize advertising content. Please note that if an advertiser asks Heyzap to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the Advertiser may conclude that you fit the description of the audience that they were trying to reach.
 
-Heyzap does not provide your personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Heyzap to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach.
+You should consult the respective privacy policies of these third-party Advertisers. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers. Heyzap reserves the right to add or remove Advertisers at its discretion and Heyzap may not at all times list such updated ad network partners in this Privacy Policy.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Heyzap reserves the right the add or remove third-party ad networks or ad servers in its discretion and Heyzap may not at all times list such updated ad network or ad server partners in this Privacy Policy.
+### 6\. Advertisers and COPPA 
 
-### 6\. Our Commitment to Data Security:
+Heyzap will not knowingly target any advertisements to children under the age of 13. Heyzap will not knowingly collect information about children under the age of 13, and if we become aware of the collection of such knowledge, will purge that information from our systems immediately.
+
+By using the Heyzap SDK, advertisers are agreeing not to use our services to provide advertisements to children under 13 and are ensuring their own compliance to COPPA standards. The Heyzap SDK is not to be used in any child-directed applications. If an advertiser becomes aware that their application has come into conflict with COPPA, the advertiser is required to report this to Heyzap immediately. 
+
+### 7\. Our Commitment to Data Security:
 
 Heyzap uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Heyzap, and you do so at your own risk. Once we receive your transmission of information, Heyzap makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 If Heyzap learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Heyzap may post a notice on the Heyzap Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at privacy@Heyzap.com.
 
-### 7\. Our Commitment to Children‘s Privacy:
+### 8\. Our Commitment to Children‘s Privacy:
 
-If you are under 13 years of age, then please do not use or access THE HEYZAP PLATFORM at any time or in any manner.
+Protecting the privacy of children is especially important. For that reason, Heyzap does not allow users under 13 years of age to access the Heyzap product nor does Heyzap knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. Heyzap requires that advertising partners confirm their game’s audience does not target, in whole or in part, users under the age of the 13. If Heyzap learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Heyzap Platform, then Heyzap will take the appropriate steps to delete this information.
 
-Protecting the privacy of young children is especially important. For that reason, Heyzap does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If Heyzap learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Heyzap Platform, then Heyzap will take the appropriate steps to delete this information.
+If you are the parent or legal guardian of a child under 13 who has become Heyzap Platform member, then please contact Heyzap at privacy@Heyzap.com to have that child‘s account terminated and information deleted. 
 
-If you are the parent or legal guardian of a child under 13 who has become Heyzap Platform member, then please contact Heyzap at privacy@Heyzap.com to have that child‘s account terminated and information deleted.
-
-The following are some resources that may help parents and legal guardians in monitoring and limiting your childrens‘ access to certain types of material on the Internet. While Heyzap does not endorse these products, we provide information about them as a public service to our community.
-
-  * "OnGuard Online," maintained by the Federal Trade Commission.
-  * WiredSafety
-  * Netsmartz.org
-  * The Child Safety Network
-  * Control Kids
-  * Cyber Sitter
-  * Net Nanny
-
-
-
-### 8\. International Visitors:
+### 9\. International Visitors:
 
 For Users visiting the Heyzap Platform from the European Union or other non-U.S. territories, please note that any data you enter into the Heyzap Platform will be transferred outside the European Union or such other non-U.S. territory for use by Heyzap and its affiliates for any of the purposes described herein. In addition, because Heyzap operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Heyzap Platform, you hereby expressly consent to such transfers of your data to the United States or other countries.
 
-### 9\. In the Event of Merger or Sale:
+### 10\. In the Event of Merger or Sale:
 
 In the event that Heyzap is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.
 
-### 10\. Third Parties
+### 11\. Third Parties
 
 Except as otherwise expressly provided otherwise, this document addresses only the use and disclosure of information we collect from you or that you disclose to us. If you disclose your information to others besides Heyzap, whether they are users of the Heyzap Platform or on other sites or services, different rules may apply to their use or disclosure of the information you disclose to them. Heyzap does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.
 
-### 11\. Changes and Updates to this Privacy Policy:
+### 12\. Changes and Updates to this Privacy Policy:
 
-This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the Heyzap Platform constitutes your agreement to this Privacy Policy and any future revisions.
+This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "last modified" date above. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the Heyzap Platform constitutes your agreement to this Privacy Policy and any future revisions.
 
 For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.
 
-### 12\. Heyzap Contact Information:
+### 13\. Heyzap Contact Information:
 
 Please contact Heyzap with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 251 Kearny St. 3rd Floor, San Francisco, CA 94108 or by email: privacy@Heyzap.com We will respond to your inquiry within 30 days of its receipt.  
 
