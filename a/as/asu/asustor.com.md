@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asustor.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503091621id_/http%3A//www.asustor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asustor.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218054301id_/http%3A//www.asustor.com/privacy) for the most accurate reproduction.*
 
 # ASUSTOR - Innovation Makes a Difference
 
