@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the onlinejobsjunction.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502124409id_/http%3A//onlinejobsjunction.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobsjunction.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218030648id_/http%3A//www.onlinejobsjunction.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Online Jobs in India, Online Jobs, Online Jobs From Home
-
-  
-
+# Online Jobs from Home, Online Survey Jobs, Part time online jobs
 
 PRIVACY POLICY  
 We, at OnlineJobsJunction.com thank you for trusting us with your personal information. We respect your privacy and are committed to safe use of information shared by you.
@@ -19,6 +16,3 @@ If you do not want to receive e-mail from us in the future, please let us know b
 OnlineJobsJunction.com may from time to time revise its privacy policy. You should therefore periodically visit this page, so you are aware of any such revisions.
 
 If you have any questions about our privacy policy and/or the practices of our web site, you can contact us at contact[at]OnlineJobsJunction.com
-
-  
-
