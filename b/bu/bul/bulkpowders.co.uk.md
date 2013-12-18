@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618011120id_/http%3A//helpdesk.bulkpowders.co.uk/index.php%3F/Knowledgebase/Article/View/2/2/privacy-and-data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218140001id_/http%3A//helpdesk.bulkpowders.co.uk/index.php%3F/Knowledgebase/Article/View/2/2/privacy-and-data-policy) for the most accurate reproduction.*
 
 # Privacy and Data Policy
 
-**Data Security**
+**BULK POWDERS™  Data Security**
 
 How will you protect my data online?
 
@@ -34,7 +34,7 @@ While these cookies do not store any personal details relating to you or your cr
 The list below explains how we and our selected third party web partners use cookies and why:
 
   * Google Analytics, allowing us to understand how visitors are interacting with site processes, to allow us to optimise the site to drive better performance.
-  * Targeting cookies (Criteo, Affiliate Window, Google) are used to track referrals from other sites, allowing us to track the success of our marketing campaigns and better target relevant information to our users.
+  * Targeting cookies (Criteo, Captify, Affiliate Window, Google) are used to track referrals from other sites, allowing us to track the success of our marketing campaigns and better target relevant information to our users.
 
 
 
@@ -58,11 +58,11 @@ How safe are my credit or debit card details on your site?
 
 We know that security is a major concern to many of our customers. We have put a very secure system in place so you can feel completely at ease when shopping with us over the Internet.
 
-We feel confident that credit card information entered on our site will not be accessed by any unauthorised person or company. Our secure sockets layer (SSL) uses 128-bit encryption, which is the highest level possible. Once your order has been transferred to our order processing system all credit card details are removed from the website as an added precaution and our sales order processing system and internal network are protected by the latest proxy technology. This does mean you have to give your card details every time you place an order with us but this minor inconvenience does ensure that it is totally safe to shop with BulkPowders.
+We feel confident that credit card information entered on our site will not be accessed by any unauthorised person or company. Our secure sockets layer (SSL) uses 128-bit encryption, which is the highest level possible. Once your order has been transferred to our order processing system all credit card details are removed from the website as an added precaution and our sales order processing system and internal network are protected by the latest proxy technology. This does mean you have to give your card details every time you place an order with us but this minor inconvenience does ensure that it is totally safe to shop with BULK POWDERS.
 
-Do you have ISIS (Internet Shopping is Safe) accreditation? You can shop online with us in confidence as the ISIS logo certifies that we have
+Do you have Trusted Shop (Internet Shopping is Safe) accreditation? You can shop online with us in confidence as the Trusted Shop logo certifies that we have
 
-  * Registered with the ISIS programme and undertaken to trade in a manner that is legal, decent, honest, truthful and fair. 
+  * Registered with the Trusted Shop programme and undertaken to trade in a manner that is legal, decent, honest, truthful and fair. 
   * Had our website and service reviewed and monitored by IMRG (Interactive Media Retail Group). 
   * Had our business, VAT and Data Protection registrations checked by IMRG. 
 
@@ -72,21 +72,21 @@ Do you have ISIS (Internet Shopping is Safe) accreditation? You can shop online 
 
 Can I be removed from your mailing list?
 
-BulkPowders will send you special offers and promotions by post and email. If you do not want to receive offers and promotions by email, you can [unsubscribe](mailto:sales@bulkpowders.co.uk?subject=Email%20unsubscribe) here. Please remember it can take up to 21 days to fully remove you from our email mailing list so you may receive one or two more. If you do not want to receive offers and promotions by post, let us know at [sales@bulkpowders.co.uk](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018 (Monday - Friday 9.00am to 6.00pm). Our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
+BULK POWDERS™ will send you special offers and promotions by post and email. If you do not want to receive offers and promotions by email, you can [unsubscribe](mailto:sales@bulkpowders.co.uk?subject=Email%20unsubscribe) here. Please remember it can take up to 21 days to fully remove you from our email mailing list so you may receive one or two more. If you do not want to receive offers and promotions by post, let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018 (Monday - Friday 9.00am to 6.00pm). Our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
 
 **Why did I receive your brochure when I didn't request it?**
 
   
-We may have received your details from a third party company. If you do not wish to receive information from us, please email us at [sales@bulkpowders.co.uk](mailto:sales@bulkpowders.co.uk). Please note that although we will take you off our mailing list as soon as you ask us, our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
+We may have received your details from a third party company. If you do not wish to receive information from us, please email us at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk). Please note that although we will take you off our mailing list as soon as you ask us, our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
 
 **Can I go back on your Mailing List?**
 
-If you have previously asked us not to send offers but have changed your mind please let us know by calling us on 0844 736 4222 (Monday - Friday 9.00am to 6.00pm) or email us at sales@bulkpowders.co.uk.
+If you have previously asked us not to send offers but have changed your mind please let us know by calling us on 0844 736 4222 (Monday - Friday 9.00am to 6.00pm) or email us at sales@bulkpowders.com.
 
 **Will you pass my data on to third parties?**
 
-BulkPowders will never pass on your email address to a third party for marketing purposes. 
+BULK POWDERS™ will never pass on your email address to a third party for marketing purposes. 
 
-From time to time we may send you details by post from companies whose products and services may be of interest to you. If you wish to opt-out of third party offers and promotions let us know at [sales@bulkpowders.co.uk](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018. 
+From time to time we may send you details by post from companies whose products and services may be of interest to you. If you wish to opt-out of third party offers and promotions let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018. 
 
 We respect your privacy and are committed to protect it.
