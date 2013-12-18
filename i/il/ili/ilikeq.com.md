@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilikeq.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607044653id_/http%3A//ilikeq.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilikeq.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021920id_/http%3A//ilikeq.com/about/privacy) for the most accurate reproduction.*
 
 # Who do you like? | Ilikeq.com
 
