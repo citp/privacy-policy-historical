@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the chronoblade.com privacy policy that was archived on 2013-03-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130302153653id_/http%3A//chronoblade.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chronoblade.com privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218010122id_/http%3A//chronoblade.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8">
 	<title>ChronoBlade Privacy</title>
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<link rel="stylesheet" href="/cdn/josefin/stylesheet.css?cache=v0_0_4" type="text/css" charset="utf-8">
-	<link rel="stylesheet" href="/cdn/css.css?cache=v0_0_4" type="text/css" charset="utf-8">
-	<script src="http://s3.amazonaws.com/chronoblade/cdn/js/yui/yui.js"></script>
+	<link rel="stylesheet" href="/cdn/josefin/stylesheet.css?cache=v0_0_11" type="text/css">
+	<link rel="stylesheet" href="/cdn/css.css?cache=v0_0_11" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Marcellus+SC" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Marcellus" rel="stylesheet" type="text/css">
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=367135626693224"></script><script src="//s3.amazonaws.com/chronoblade/cdn/js/yui/yui.js"></script>
 	<!--[if gte IE 9]>
 	  <style type="text/css">
 	    .box.bg .mask {
@@ -17,6 +19,16 @@
 	<![endif]-->
 </head>
 <body class="privacy subpage">
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+	  		var js, fjs = d.getElementsByTagName(s)[0];
+	  		if (d.getElementById(id)) return;
+	  		js = d.createElement(s); js.id = id;
+	  		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=" + 367135626693224;
+	  		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
 <div class="privacy box bg top">
 	<div class="btm">
 		<div class="bdy">
@@ -28,73 +40,38 @@
 <div class="pg-content-container">
 <div class="box navbar">
 	<a class="logo" href="/"></a>
-	<a class="fb" href="https://www.facebook.com/Chronoblade"></a>
-	<a class="twitter" href="https://twitter.com/nWayGames"></a>
+    <div id="socialButtonBox">
+        <a target="_blank" class="socialButton yt" href="https://www.youtube.com/user/nWayGames"></a>
+        <a target="_blank" class="socialButton twitter" href="https://twitter.com/nWayGames"></a>
+        <a target="_blank" class="socialButton fb" href="https://www.facebook.com/Chronoblade"></a>
+        <div class="socialButton fb-like" data-href="http://www.facebook.com/chronoblade" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-colorscheme="dark"></div>
+    </div>
 	<ul class="menu">
-		<li class="first"><a href=""></a></li>
-		<li class="second hasSubmenu"><a href="/multiverse/">GAME</a></li>
-		<li class="third"><a href="http://forums.chronoblade.com" target="cbforum">FORUMS</a></li>
-		<li class="fourth"><a href="/beta/">BETA</a></li>
-		<li class="fifth"><a href=""></a></li>
+        <li class="first hasSubmenu"><a href="/multiverse/">Game</a>
+            <ul class="submenu">
+                <li><a href="/multiverse/">Multiverse</a></li>
+                <li><a href="/heroes/">Heroes</a></li>
+                <li><a href="/faq/">FAQ</a></li>
+            </ul>
+        </li>
+        <li class="second hasSubmenu"><a href="/screenshots/">Media</a>
+            <ul class="submenu">
+                <li><a href="/screenshots/">Screenshots</a></li>
+                <li><a href="/art/">Art</a></li>
+                <li><a href="/video/">Video</a></li>
+                <li><a href="/wallpaper/">Wallpaper</a></li>
+            </ul>
+        </li>
+		<li class="third"><a href="/chronoblog/">Dev Diary</a></li>
+		<li class="fourth"><a href="http://forums.chronoblade.com" target="cbforum">Forums</a></li>
 	</ul>
 	<a class="nWay" href="http://www.nway.com"></a>
 </div>
-<ul class="second submenu">
-	<li><a href="/multiverse/">MULTIVERSE</a></li>
-	<li><a href="/heroes/">HEROES</a></li>
-	<li><a href="/faq/">FAQ</a></li>
-	<li class="ftr"></li>
-</ul>
-
-<script>
-	YUI().use("node", "event", "transition", function (Y) {
-		/*
-		Y.all(".menu .hasSubmenu").on("click", function(evt) {
-			evt.halt();
-		});
-		*/
-		var TRANSITION_DURATION = '0.5';
-		var SUBMENU_1_H = "200px";
-		
-		Y.all(".menu a").on("hover", function(evt){
-			Y.all(".submenu").transition({
-				duration: TRANSITION_DURATION,
-				easing: 'ease-out',
-				height: '0px'
-		    });
-		});
-
-		Y.all(".menu .hasSubmenu a").on("hover", function(evt){
-			var a = evt.target;
-			var li = a.get('parentNode').getAttribute("class").split("hasSubmenu")[0];
-			if(!li) return;
-
-			//(a.get('tagName').toLowerCase() !== 'a') || a.setStyle("boxShadow", "0 0 11px red");
-			li = ".submenu." + li;
-			Y.one(li).transition({
-				duration: TRANSITION_DURATION,
-				easing: 'ease-in',
-				height: SUBMENU_1_H
-		    });
-		});
-
-		Y.all(".submenu").on("hover", null, function(evt) {
-			Y.all(".submenu").transition({
-				duration: TRANSITION_DURATION,
-				easing: 'ease-out',
-				height: '0px'
-		    });
-		});
-	});
-</script>
-<div class="subpage box beta hide" id="signupbox">
-	<button id="betasignupbtn">Beta Sign Up</button>
-	<div class="signupiframe assistant hide" id="betasignupassistant">
-		<button id="closebetaassistant"></button>
-		<iframe src="http://eepurl.com/pmz_P"></iframe>
-	</div>
-</div><div class="privacy box sublayout top">
-	<img src="/cdn/sub/privacy/privacy.png?cache=v0_0_4" border="0" class="title">
+<div class="subpage box beta" id="signupbox">
+	<a href="//apps.facebook.com/chronoblade/?kt_type=ad&amp;kt_st1=website&amp;kt_st2=CB_web_ALL_web_web_080113__&amp;kt_st3=PlayNowButton" id="betasignupbtn">Play Now</a>
+</div>
+<div class="privacy box sublayout top">
+	<img src="/cdn/sub/privacy/privacy.png?cache=v0_0_11" border="0" class="title">
 	<div class="ft">
 		<div class="bd">
 			<div class="contents">
@@ -311,79 +288,26 @@
 </ul>			</div>
 		</div>
 	</div>
-</div><script src="/cdn/gallery-lightbox.js?cache=v0_0_4"></script> 
-<script src="/cdn/simpler-panel.js?cache=v0_0_4"></script> 
-<script>/*
-	YUI({
-    	gallery: 'gallery-2011.04.20-13-04'
-	}).use('node', 'event', 'gallery-yui-slideshow', function (Y) {
-		var slideshow = new Y.Slideshow( {
-			srcNode: '#imagerotator',
-        	autoplay: true,
-        	interval: 4,
-        	pauseOnHover: false,
-        	duration: .7,
-			transition: {
-				slideIn: {
-					before: {
-						top: 0,
-						left: '-cW',
-						opacity: 0
-					},
-					transition: {
-						left: 0,
-						opacity: 1
-					}
-				},
-
-				slideOut: {
-					before: {
-						top: 0,
-						opacity: 1
-					},
-					transition: {
-						top: 'cH',
-						opacity: 0
-					}
-				}
-			}
-		});
-
-		slideshow.render();
-	});*/
-	
+</div>
+<script src="/cdn/gallery-lightbox.js?cache=v0_0_11"></script> 
+<script src="/cdn/simpler-panel.js?cache=v0_0_11"></script> 
+<script>
 	YUI().use("node", "event", "transition", "panel", function (Y) {
-		var signupbox = Y.one("#signupbox");
-		signupbox.replaceClass('hide', 'show');
-		
-		var betasignupbtn = Y.one("#betasignupbtn"),
-			betasignupassistant = Y.one("#betasignupassistant"),
-			closebetaassistant = Y.one("#closebetaassistant"),
-			betasignupassistantiframe = Y.one("#betasignupassistant iframe");
-		
-		betasignupbtn.on("click", function (e) {
-				betasignupassistant.replaceClass('hide', 'show');
-		});
-		
-		closebetaassistant.on("click", function (e) {
-				betasignupassistant.replaceClass('show', 'hide');
-				betasignupassistantiframe.set('src', 'http://eepurl.com/pmz_P');
-		});
-		
 			});
 
-	YUI().use("gallery-lightbox", function (Y) { Y.Lightbox.init(); });
+    YUI().use("gallery-lightbox", function (Y) { Y.Lightbox.init({
+        overlayDuration: 0.1,
+        OVERLAY_DURATION: 0.1
+    }); });
 	YUI().use("simpler-panel", function (Y) { 
-		//Y.all(".simplerpanel").on("click", function(e) {
-			Y.SimplerPanel.init({
-				rel			: "video",
-				background	: "url(/cdn/trailer_dock_updated_for_web.png?cache=v0_0_4) no-repeat scroll left top transparent",
-				height		: 490,
-				width		: 998,
-				padding		: "85px 71px",
-				content		: '<object type="application/x-shockwave-flash" data="http://www.youtube.com/v/vBIJVt05jwc?version=3&amp;hl=en_US&amp;rel=0" width="853" height="480"><param name="movie" value="http://www.youtube.com/v/vBIJVt05jwc?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param></object>'
-			});
-		//}); 
+        Y.SimplerPanel.init({
+            rel			: "video",
+            background	: "url(/cdn/trailer_dock_updated_for_web.png?cache=v0_0_11) no-repeat scroll left top transparent",
+            height		: 490,
+            width		: 998,
+            padding		: "85px 71px",
+            content		: '<object type="application/x-shockwave-flash" data="http://www.youtube.com/v/sTWnEndE1zM?version=3&amp;hl=en_US&amp;rel=0" width="853" height="480"><param name="movie" value="http://www.youtube.com/v/sTWnEndE1zM?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param></object>'
+        });
 	});
 
 	var _gaq = _gaq || [];
@@ -396,7 +320,26 @@
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
-</script></div>
+
+    YUI().use('node', function (Y) {
+        function trackLink(href) {
+            _gaq.push(['_trackEvent', 'extlink', href]);
+            window.setTimeout(function () {
+                document.location.href = href;
+            }, 200);
+        }
+        Y.all('.navbar a, #betasignupbtn').each(function (el) {
+            var node = el.getDOMNode();
+            if (node && node.href) {
+                el.on('click', function (e) { 
+                    e.preventDefault();
+                    trackLink(node.href); 
+                });
+            }
+        });
+    });
+</script>
+</div>
 <div class="globalfooter">
 	<a href="http://nway.com/?page_id=6">About Us</a>
 	<a href="/terms/">Terms of Service</a>
