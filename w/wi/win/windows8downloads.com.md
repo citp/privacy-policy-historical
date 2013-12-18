@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows8downloads.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615022113id_/http%3A//www.windows8downloads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows8downloads.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218082428id_/http%3A//www.windows8downloads.com/privacy.html) for the most accurate reproduction.*
 
 # Windows 8 Downloads - free Windows 8 software downloads
 
@@ -11,11 +11,14 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 **Advertisers**  
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
+**Download**  
+We may use third parties’ technology to operate and manage the download and installation process of our products. For the terms of service and privacy policy of the InstallCore technology which may be used by us. [More info here](http://www.installcore.com/legal/terms-of-service/).
+
 **What are cookies?**  
 From time to time, Windows 8 Downloads or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of Windows 8 Downloads's Network of Web sites you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Sites. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20130615022113id_/http%3A//www.windows8downloads.com/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here](https://web.archive.org/web/20131218082428id_/http%3A//www.windows8downloads.com/contact.html).
 
 ## Saved Downloads
 
