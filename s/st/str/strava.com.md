@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strava.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621070326id_/http%3A//www.strava.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strava.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218015841id_/http%3A//www.strava.com/privacy) for the most accurate reproduction.*
 
 # Strava | Privacy
 
@@ -10,7 +10,7 @@ Your privacy is critically important to us. We at Strava, Inc. ("Strava") have a
 
 
 
-Strava respects your right to privacy and shares your concern about the security of any data you may submit to Strava via Strava's websites and related services (the "Site"), currently accessible at www.strava.com. The following statement (the "Privacy Policy") discloses the guidelines Strava has established for protecting the information you provide to Strava during your visit to the Site.
+Strava respects your right to privacy and shares your concern about the security of any data you may submit to Strava via Strava's websites and related services (the "Site"), currently accessible at [www.strava.com](http://www.strava.com/). The following statement (the "Privacy Policy") discloses the guidelines Strava has established for protecting the information you provide to Strava during your visit to the Site.
 
 The Site is owned, operated, and maintained by:
 
@@ -25,13 +25,13 @@ Strava only collects personal information about you if you voluntarily choose to
 
 To use the core functionality of the Site, you must first complete the registration form at the Site and agree to our Terms and Conditions. During registration you will be required to provide personal information such as your name and email address. Strava does not knowingly collect information from children under 13 years old. If we or a third party service provider requires a birth date to order a specific product or service, you will not be able to enter a birth date that indicates that you are less than 13 years old.
 
-There are several other opportunities on the Site for you to share personal information about yourself with Strava. This may include information about you such as your equipment and activities, your biking routes, your name, and your zip code and e-mail address. Strava will also collect your credit card or other payment information if you choose to become a Strava Member. If you choose to share any personal information with Strava, Strava may store it and use it for internal research and other Strava marketing purposes, including e-mailing you with special promotions and other programs of interest. If the information is sent as part of a website evaluation, Strava may also use the information to contact you about your comments. If you opt-in for the Strava newsletter during registration, Strava will use your email address to send you newsletters with updates and news about Strava. You may remove your name from our email list by updating your profile in the Account section or by emailing support@strava.com. Strava does not share, rent or sell your information to another company in ways other than disclosed in this privacy statement.
+There are several other opportunities on the Site for you to share personal information about yourself with Strava. This may include information about you such as your equipment and activities, your biking routes, your name, and your zip code and e-mail address. Strava will also collect your credit card or other payment information if you choose to become a Strava Member. If you choose to share any personal information with Strava, Strava may store it and use it for internal research and other Strava marketing purposes, including e-mailing you with special promotions and other programs of interest. If the information is sent as part of a website evaluation, Strava may also use the information to contact you about your comments. If you opt-in for the Strava newsletter during registration, Strava will use your email address to send you newsletters with updates and news about Strava. You may remove your name from our email list by updating your profile in the Account section or by emailing [support@strava.com](mailto:support@strava.com). Strava does not share, rent or sell your information to another company in ways other than disclosed in this privacy statement.
 
 When you visit the Site, a cookie will be stored on your computer. Generally, cookies work by assigning to your computer a unique number that has no meaning outside of Strava. Strava's cookies do not contain any personally identifying information; Strava uses them to provide features such as personalization, to save your member ID and to keep track of your shopping cart. Strava may also use cookies to assist it in delivering content specific to your interests. Additionally, after you've entered your member ID and password during a session on Strava's website, Strava saves that information so you don't have to re-enter it repeatedly during that session. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Not accepting cookies may make certain features of the Site unavailable to you. Strava may use your IP address to identify you, to administer the Site and to assist in diagnosing problems with Strava's server.
 
 Like most standard Web site servers the Site uses log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. In addition, Strava uses Google Analytics as a method of tracking site statistics and user behavior on the Site.
 
-You may decide to send Strava personally identifying information in an e-mail message which might contain information or inquiries about Strava's products or services. Strava will use this information to identify you as a Strava member and to respond to the electronic mail. Strava will only use the information obtained to resolve the issue identified in the e-mail. Strava never sells e-mail addresses. You may change or request deletion of your personal information by contacting support@strava.com.
+You may decide to send Strava personally identifying information in an e-mail message which might contain information or inquiries about Strava's products or services. Strava will use this information to identify you as a Strava member and to respond to the electronic mail. Strava will only use the information obtained to resolve the issue identified in the e-mail. Strava never sells e-mail addresses. You may change or request deletion of your personal information by contacting [support@strava.com](mailto:support@strava.com).
 
 Strava will only share your personal information with third parties if:
 
@@ -58,7 +58,7 @@ Most browsers have the ability to notify you if you change between secure and in
 
 ### If my credit card company determines that there are fraudulent charges on my account, what should I do?
 
-If your credit card company determines that there are fraudulent charges on your account that are the result of the use of your credit card at the Site and they hold you liable for the unauthorized changes, please contact Strava immediately. You can contact Strava by e-mail at [support@strava.com](mailto:support@strava.com) or postal mail:
+If your credit card company determines that there are fraudulent charges on your account that are the result of the use of your credit card at the Site and they hold you liable for the unauthorized changes, please contact Strava immediately. You can contact Strava by e-mail at [](mailto:support@strava.com)[support@strava.com](mailto:support@strava.com) or postal mail:
 
 Strava, Inc.   
 PO Box 32   
@@ -69,15 +69,15 @@ You should carefully review security/privacy policies of any third party sites a
 
 ## Does Strava offer opt-out or opt-in services?
 
-Yes. If you choose to stop receiving emails from Strava, please follow the unsubscribe instructions within each email communication or send an email to support@strava.com. Strava will not provide or share any mailing lists or other information about you to another company or service for promotional purposes. Any service related emails (to confirm a purchase, etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested.
+Yes. If you choose to stop receiving emails from Strava, please follow the unsubscribe instructions within each email communication or send an email to [support@strava.com](mailto:support@strava.com). Strava will not provide or share any mailing lists or other information about you to another company or service for promotional purposes. Any service related emails (to confirm a purchase, etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested.
 
 ## What if information I have previously submitted has changed?
 
-If you need to correct, amend or delete submitted information that is inaccurate please contact Strava at support@strava.com. Strava will respond to your email request within 7-10 business days. In addition, you may correct, amend or delete submitted information that is inaccurate by visiting "Edit Profile" on the Site.
+If you need to correct, amend or delete submitted information that is inaccurate please contact Strava at [support@strava.com](mailto:support@strava.com). Strava will respond to your email request within 7-10 business days. In addition, you may correct, amend or delete submitted information that is inaccurate by visiting "Edit Profile" on the Site.
 
 ## What about the blog?
 
-Strava maintains a relationship with an outside service provider to administer the online Blog site that can be accessed through Strava's site at http://blog.strava.com/ (the "Blog"). The Blog maintains the look and feel of the Site, but any personal information you provide on the Blog is stored by the outside service provider. Any personal information submitted on the Blog is wholly governed by the privacy policy of the outside service provider, which can be found at http://www.wordpress.com/privacy. Strava recommends that you read that privacy policy before submitting any personal information on the Blog. Although the Blog pages may have Strava branding, the outside service provider is prominently identified so that you are aware of who is collecting your personal information.
+Strava maintains a relationship with an outside service provider to administer the online Blog site that can be accessed through Strava's site at <http://blog.strava.com/> (the "Blog"). The Blog maintains the look and feel of the Site, but any personal information you provide on the Blog is stored by the outside service provider. Any personal information submitted on the Blog is wholly governed by the privacy policy of the outside service provider, which can be found at <http://www.wordpress.com/privacy>. Strava recommends that you read that privacy policy before submitting any personal information on the Blog. Although the Blog pages may have Strava branding, the outside service provider is prominently identified so that you are aware of who is collecting your personal information.
 
 If you use the Blog, you should be aware that any personally identifiable information you submit in the comment field can be read, collected, or used by other users of these forums indefinitely, and could be used to send you unsolicited messages. Strava is not responsible for the personally identifiable information you choose to submit via the Blog.
 
@@ -91,6 +91,6 @@ While Strava continues to work hard to protect your personal information, no dat
 
 ## Contact Strava
 
-Strava welcomes your questions and comments about security and privacy. Please send any questions or comments via e-mail to [support@strava.com](mailto:support@strava.com).
+Strava welcomes your questions and comments about security and privacy. Please send any questions or comments via e-mail to [](mailto:support@strava.com)[support@strava.com](mailto:support@strava.com).
 
 Last updated March 25, 2009.
