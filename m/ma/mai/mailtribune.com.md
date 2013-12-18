@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mailtribune.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616181542id_/http%3A//www.mailtribune.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailtribune.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218034704id_/http%3A//www.mailtribune.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Mailtribune.com -
 
-## Dow Jones Local Media Group Privacy Policy
+## Local Media Group Privacy Policy
 
 **Effective as of July 6, 2011**
 
 ## INTRODUCTION:
 
-This Privacy Policy describes how Dow Jones Local Media Group, Inc. ("DJLMG," "us" or "we"), publisher of Mail Tribune and mailtribune.com, will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data"). 
+This Privacy Policy describes how Local Media Group, Inc. ("LMG," "us" or "we"), publisher of Mail Tribune and mailtribune.com, will collect and use your personally identifiable information ("PII") (that is -- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data"). 
 
 This Policy applies to PII and Related Data received by us from consumers when they visit, register or subscribe to the online editions of mailtribune.com, and related services or sites that link to this Privacy Policy. 
 
-From time to time DJLMG may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
+From time to time LMG may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII or Related Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes. 
 
 ## INFORMATION THAT WE COLLECT:
 
@@ -38,7 +38,7 @@ We may use cookies and similar tools to relate your use of our web sites to PII 
 
 ## NOTICE
 
-**Third Party Web Sites.** Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with a Mail Tribune, mailtribune.com or other DJLMG logo, even though they are not operated or maintained by us. For example, the eSouthernOregon and ShopOurValley sections of mailtribune.com offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links. 
+**Third Party Web Sites.** Our web sites link to web sites operated by other companies. Some of these third party sites may be co-branded with a Mail Tribune, mailtribune.com or other LMG logo, even though they are not operated or maintained by us. For example, the eSouthernOregon and ShopOurValley sections of mailtribune.com offers a collection of third party services, such as career counseling, reference checks, recruiter databases and other services, through such links. 
 
 We're not responsible for the privacy practices of web sites operated by third parties that are linked to or integrated with our sites or for the privacy practices of third party Internet advertising companies. Once you've left our site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you. 
 
@@ -54,7 +54,7 @@ Our web sites may also be linked to sites operated by companies affiliated with 
 
 IF YOU ELECT TO MAKE YOUR RESUME VIEWABLE BY EMPLOYERS, ALL INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) THAT YOU INCLUDE IN YOUR RESUME MAY BE VIEWED BY RECRUITERS AND EMPLOYERS. YOU SHOULD NOT ENTER ANY INFORMATION IN THE BODY OF YOUR RESUME THAT YOU WISH TO REMAIN CONFIDENTIAL. 
 
-We do not screen the credentials of employers or recruiters before allowing them to conduct searches in our database. Dow Jones is not responsible for the retention, use or privacy practices of that employer or recruiter after it has received your information. 
+We do not screen the credentials of employers or recruiters before allowing them to conduct searches in our database. Local Media Group is not responsible for the retention, use or privacy practices of that employer or recruiter after it has received your information. 
 
 You may remove your resume from our searchable database at any time. However, third parties who accessed the database or obtained a copy of your resume may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use or privacy of resumes in these instances. 
 
@@ -77,17 +77,17 @@ You may remove your resume from our searchable database at any time. However, th
 
 Information about your activities on our sites and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests. 
 
-We may combine the information that we collect from you with information that you provide to us in connection with your use of other Dow Jones products, services and web sites, or information we collect from third parties. 
+We may combine the information that we collect from you with information that you provide to us in connection with your use of other Local Media Group products, services and web sites, or information we collect from third parties. 
 
 **Sharing your Information**
 
-Except as set forth herein, or if we inform you otherwise at the time of data collection, we will not share your PII or Related Data outside of Dow Jones. 
+Except as set forth herein, or if we inform you otherwise at the time of data collection, we will not share your PII or Related Data outside of Local Media Group. 
 
 **Affiliates:** We may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. 
 
 **Service Providers:** We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access (see "Access" below) to your PII and Related Data solely for the purpose of providing these services to us or on our behalf. 
 
-**Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of Dow Jones, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Dow Jones sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction. 
+**Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of Local Media Group, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Local Media Group sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction. 
 
 **Corporate, Third-Party, and Student Subscriptions:** If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. If you have a student subscription associated with a professor or school, we may notify your professor or school to confirm your subscription, access or use. When providing these notices, we may reveal limited amounts of your personally identifiable information such as your name or email address. 
 
@@ -133,13 +133,13 @@ We retain your information for as long as necessary to permit us to use it for t
 
 ## TRANSFER TO U.S. OR OTHER COUNTRIES
 
-Your information may be stored and processed in the United States or any other country where Dow Jones has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country. 
+Your information may be stored and processed in the United States or any other country where Local Media Group has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country. 
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
 California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their own direct marketing purposes. To make such a request, please write to us at: 
 
-Dow Jones Local Media Group  
+Local Media Group  
 Attn: Sean Polay, Product Manager, Distributed Media  
 P.O. Box 580  
 Middletown, NY 10940
@@ -148,4 +148,4 @@ and include your name and the address to which you would like us to respond.
 
 ## REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [sean.polay@dowjones.com](mailto:sean.polay@dowjones.com). 
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [sean.polay@localmediagroupinc.com](mailto:sean.polay@localmediagroupinc.com). 
