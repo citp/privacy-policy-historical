@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the countryroad.com.au privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509094103id_/http%3A//www.countryroad.com.au/information/115456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryroad.com.au privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218031209id_/http%3A//www.countryroad.com.au/information/115456) for the most accurate reproduction.*
 
 # Country Road
 
-## Privacy Policy
+## 1 Privacy commitment
 
-We are committed to protecting the privacy of any information provided by our customers. We have developed internal procedures consistent with the National Privacy Principles outlined in the Australian Privacy Act 1988 and the Privacy Principles in the New Zealand Privacy Act 1993. This statement sets out our practices relating to information collection, use and disclosure.
+Country Road Limited ACN 006 759 182 and its associated companies (“we”, “our” or us”) recognise the trust you are placing in us through your dealings with us. We do everything we can to maintain that trust. Our staff are employed on the basis that they will protect information about you. This is our corporate standard. Under law, your rights to privacy are also protected. Privacy laws place strict requirements on us to treat certain information collected as confidential, to store your information securely and to allow you easy access to check and correct your information.
 
-We recommend you read through this policy carefully. If you have any queries, please Contact Us.
+## 2 Scope of our Privacy policy
 
-Personal information collected from customers will depend on the type of service provided.
+Our Privacy Policy explains how we gather information about you and how we may store, maintain and use that information. Our Privacy Policy applies to this website and any other website created or hosted by us from time to time on which this Privacy Policy appears including for our brands Country Road, Trenery, Witchery and Mimco (“Our Brands”).
 
-**CUSTOMER SERVICE**
+## 3 When do we collect information about you?
 
-We are sometimes required to collect personal information in the normal course of providing services for our customers.
+At times, we are required to collect personal information in the normal course of providing services for our customers.
 
-These services include:
+These services apply across Our Brands and include:
 
   * Issuing a Cardholder Program card
   * Processing lay-by purchases
@@ -22,7 +22,7 @@ These services include:
   * Processing online purchases and payments
   * Registering an online account
   * Maintaining client books
-  * Customer Service lines
+  * Customer Service lines (including social media channels such as facebook and twitter)
   * Processing credit card payments
   * Processing cheque payments
   * Providing tailoring instructions
@@ -32,76 +32,90 @@ These services include:
   * Accepting gift voucher payments
   * Recording customer accident details
   * Processing cash refunds
+  * Maintaining detailed information on our websites
 
 
 
-Under these circumstances customers provide us with personal information such as their name, address, phone number, credit card details, email address etc.
+Also, we make use of “cookies” on our websites. A cookie is a small software message sent to your web browser by our web server. Your browser stores the message in a file and the message is then sent back to our servers each time your browser requests a page from our servers.
 
-Personal information collected from our customers is used to customise our services, plan product development and for communication purposes only. All information collected is safely and securely stored.
+We use cookies to gain statistics on which areas of our sites attract traffic. We also use cookies to improve your experience of our websites. For example, cookies allow us to recognise whether or not you are returning to our websites. This may allow us to alert you to products or offers which we think you might be interested in viewing.
 
-**CARDHOLDER PROGRAM AND OFFER COMMUNICATIONS**
+Most Internet browsers are set up to accept cookies. If you do not wish to receive cookies, you will need to adjust the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer.
 
-Our Cardholder Program offers customers the opportunity to receive rewards such as invitations to sales events, special offers, gift vouchers and the delivery of marketing communications. Customers may also receive information and related offers via email.
+When you click on links and banners on our sites that take you to third-party websites, you will be subject to that third-party's privacy policies. While we support the protection of privacy on the internet, we cannot be held responsible for the actions of any third-party websites. 
 
-To receive communications from us, certain personal information is required. We use this information to facilitate communication with and understand the needs of our customers as well as conduct customer research. Other optional information collected may be used to plan future events, offers, products, store locations etc.
+## 4 What information do we collect?
 
-Any information collected will be safely and securely stored and managed by us.
+We may collect the following information from you:
 
-We value our customers and do not share information with any other organisations other than related corporations and those third parties directly related with the above activities (i.e. mailing houses, data bureaus, email providers and research companies). When we share any such information with these third parties we have strict confidentiality agreements in place, prohibiting any use of this information other than the task for which we are engaging them.
+#### ·                         your name and contact details, such as your physical address, email address and phone number;
 
-**HEAD OFFICE**
+#### ·                         your gender, birthdate and occupation;
 
-Information collected at Head and Regional Offices will be generated in a number of ways, including:
+#### ·                         your company name (if applicable);
 
-  * Employment applications and resumes
-  * Trade references
-  * Contract arrangements
-  * Staff travel arrangements
+#### ·                         the name of the domain from which you access the internet;
 
+#### ·                         the date and time you access our sites;
 
+#### ·                         the internet address of the website from which you linked directly to our sites; and
 
-Any information collected is safely and securely stored and only used for the purposes for which it was collected.
+#### ·                         other information you may supply to us.
 
-**GENERAL**
+## 5 Why do we collect this information?
 
-We may share some of the personal information we collect with our related corporations and service providers, contractors who help us provide services or trading partners. Where applicable information is shared with third parties or trading partners we have strict confidentiality agreements in place, prohibiting any use of this information other than the purpose for which it was provided. We may be required by law to disclose the information collected. In such circumstances, only information that we are required to disclose as a matter of law would be provided.
+We use the information to customise our services and plan product development so that we can provide you with relevant consumer information and notify you of products and special offers that may be of interest to you across Our Brands.  It is also collected so that we may provide value-added services and marketing and remarketing across Our Brands through our websites or other social media channels.
 
-We would like to assure you that personal information will not be divulged except as set out above.
+## 6 Do WE share personal information with third parties?
 
-**WEBSITE AND CREDIT CARD SECURITY**
+We may disclose information we hold to our directors, officers, employees and other associated companies within our corporate group for business purposes or marketing or remarketing purposes through our websites or other social media channels.
 
-We take website and credit card security extremely seriously and always endeavour to
+We may also disclose information to service providers or contractors who help us provide services (for example, for marketing or remarketing purposes through our websites or other social media channels).  Where applicable information is shared with these third parties, they are obliged to observe the confidential nature of such information and are prohibited from using any or all of this information other than for the purpose for which it was provided.  We will also disclose information to a law enforcement agency if we are requested to do so by that agency in relation to suspected unlawful activity.
 
-provide a secure, safe platform from which to conduct online transactions. Country Road (countryroad.com.au and m.countryroad.com.au) and Trenery (trenery.com.au and m.trenery.com.au) use the industry standard Secure Sockets Layer (SSL) protocol, which encrypts information as it is transmitted over the internet. This encryption scrambles details such as credit card numbers, billing details and delivery addresses so that other computers are unable to decipher the information, ensuring privacy and security.
+Some of our associated companies with whom we share personal information may be located overseas, including in South Africa and New Zealand. These associated companies will often be subject to privacy and confidentiality obligations dictated by laws in their own jurisdictions. Nevertheless, we will take such steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach relevant privacy law or principles.
 
-To ensure you are accessing a secure server, look for the unbroken key or closed lock symbol located either at the bottom left or top right of your browser window. If it appears, then SSL is active. You can double-check by looking at the URL. If SSL is active, then the first characters of the URL will read ‘https’ rather than just ‘http.’ It is important for you to protect against unauthorised access to your password and your computer. Ensure you log out when you have finished visiting Country Road (countryroad.com.au and m.countryroad.com.au) and Trenery (trenery.com.au and m.trenery.com.au).
+We will not sell or trade your personal information.
 
-Our websites use cookies, enabling us to improve the content, reliability and functionality of our websites, evaluate the effectiveness of advertising and track usage patterns. Accepting a cookie will not give us access to any data on your computer other than the data stored in the cookie. You may experience a loss of functionality as a result of configuring your web browser not to accept cookies.
+## 7 Promotional communications
 
-**LINKING TO THIRD PARTY WEBSITE**
+We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information from us, please let us know by clicking on the “unsubscribe link”/”update our preferences” at the bottom of any of our communications, or by clicking into your account and manage the level of communication which you want to receive from us across Our Brands.
 
-When you click on links and banners on our website that take you to third-party websites, you will be subject to their privacy policies. While we support the protection of privacy on the internet, Country Road cannot be held responsible for the actions of any third-party websites.
+## 8 Personal information access
 
-**ACCESSING YOUR ONLINE INFORMATION**
+You may review, change or delete personal information related to your use of our websites. To access your information, simply sign into your account and click on your name on the top navigational menu - this will take you to "My Profile". If you would like to know what information we hold about you please contact our Privacy Manager via the details set out at the bottom of this page.
 
-Personal information provided by you online can be viewed and changed if the information provided is incorrect or out of date. If you still have questions, please Contact Us.
+If you discover that there is an error or information is missing, please update your details online by signing on and visiting “My Profile” and editing the relevant details.
 
-**HOW TO ACCESS YOUR INFORMATION**
+We will try to ensure that all information we collect, use or disclose about you in accordance with this Privacy Policy is accurate, complete and up-to-date. We expect that you will promptly notify us of any changes to your personal information.
 
-Our 'open book' information policy means you can access all the information you have provided to us online and make any necessary changes. You can request to view your information in writing to Country Road Customer Service or by contacting us on 1800 801 911 (Australia) or 0800 105 655 (New Zealand). We welcome your feedback to correct any inaccuracies.
+## 9 Anonymity
 
-**SECURITY**
+You have the option of using a pseudonym when dealing with us so as not to identify yourself fully to us. Please bear in mind, however, that we will be unable to provide certain services to you unless you disclose your correct identity.
 
-We understand the importance of your information and we treat it as strictly confidential. We have appropriate physical, electronic and managerial procedures in place to safeguard and secure the information we collect to prevent unauthorised access or disclosure, maintain data accuracy and ensure the appropriate use of information.
+## 10 Security
 
-**YOUR RIGHTS**
+We understand the importance of your personal information and have appropriate procedures in place to safeguard and secure the information we collect to prevent unauthorised access or disclosure, maintain data accuracy and ensure the appropriate use of information.
 
-While information is sought from you for the sole purpose of improving our service levels, you have the right to either refuse to provide details about yourself or remain anonymous. Of course, some of our services can only be provided if we have certain information. If you are not completely satisfied with anything set out in this privacy policy, you are entitled to either query this practice or lodge a complaint with our Privacy Officer or the Office of the Privacy Commissioner. All such enquiries or complaints will be handled with impartiality and discretion.
+We take website and credit card security extremely seriously and always endeavour to provide a secure, safe platform from which to conduct online transactions.  We use the industry standard Secure Sockets Layer (SSL) protocol, which encrypts information as it is transmitted over the internet. This encryption scrambles details such as credit card numbers, billing details and delivery addresses so that other computers are unable to decipher the information, ensuring privacy and security.
 
-Your information may also be used for the purpose of introducing other products that we believe might be of interest to you. If you do not wish to receive such communications you may opt out by selecting the "opt out" options available on our website. You can also make an opt out request in store, in writing to Customer Service, or contacting us on 1800 801 911 (Australia) or 0800 105 655 (New Zealand).
+To ensure you are accessing a secure server, look for the unbroken key or closed lock symbol located either at the bottom left or top right of your browser window. If it appears, then SSL is active. You can double-check by looking at the URL. If SSL is active, then the first characters of the URL will read ‘https’ rather than just ‘http.’ It is important for you to protect against unauthorised access to your password and your computer.
 
-**CHANGES TO OUR PRIVACY POLICY**
+Ensure you sign out when you have finished visiting our websites especially if you have accessed the websites from a shared computer.
 
-We reserve the right to change this privacy policy from time to time by publishing the revised privacy policy on our website. We encourage you to check this policy regularly for any modifications or updates. Your continued use of our services after any changes have been posted on our websites indicates your acceptance of those changes.
+## 11 General
 
-If you have any questions regarding our privacy policy or any other matter, please Contact Us.
+By using our websites, you are consenting to the collection of information by us in accordance with this Privacy Policy.  Please note that we reserve our right to amend, remove or vary this policy without notice.  You should check this page regularly to take notice of any changes we may have made to this policy.
+
+## 12 Privacy complaints
+
+If you believe that we have breached your privacy rights in any way, or you would like to discuss any issues about our privacy policy please contact our Privacy Manager on admin@countryroad.com.au.
+
+All such enquiries or complaints will be taken seriously and handled with impartiality and discretion.
+
+If you wish to submit a complaint, please provide us with all relevant details such as the date and time of the incident or communication, the circumstances surrounding the event and your concerns about what was said or done.  You will also receive an acknowledgment from us within 7 days confirming receipt of your complaint. 
+
+Once you have submitted your complaint we will assess it to determine whether or not you have complained about a privacy issue which is covered by the relevant privacy laws. If you have complained about something which is not appropriately dealt with under privacy law, we will write to you and explain why our Privacy Manager is unable to address your complaint.
+
+If you have complained about something which the relevant privacy laws cover, we will thoroughly investigate all aspects of your complaint including ascertaining the relevant facts and what your expectations are for any resolution.  During our investigation we may need to seek further information from you as to the nature of or factual circumstances surrounding your complaint. 
+
+We will endeavour to respond to you at all times promptly and to offer a practical solution which is consistent with our legal obligations. 
