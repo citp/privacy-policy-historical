@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appforpcs.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618025819id_/http%3A//www.appforpcs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appforpcs.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218162750id_/http%3A//www.appforpcs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | App for PCs
+# Privacy Policy of App for PCs
 
 This privacy policy sets out how [AppforPCs.com](http://www.appforpcs.com/ "Viber for PC") uses and protects any information that you give when you use this website.
 
@@ -42,7 +42,7 @@ You can find more information about cookies at:
 
   * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
   * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit� [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
 
 
 
@@ -92,3 +92,6 @@ A small fee will be payable.
 If you would like a copy of the information held on you please write to:
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+
+**GD Star Rating**  
+ _a WordPress rating system_
