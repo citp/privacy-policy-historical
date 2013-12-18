@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509020835id_/http%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021133id_/http%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tradesy
 
