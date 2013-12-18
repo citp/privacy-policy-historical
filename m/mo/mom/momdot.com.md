@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momdot.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525113209id_/http%3A//www.momdot.com/abouttrisha/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momdot.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021417id_/http%3A//www.momdot.com/abouttrisha/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Influential Mom Blogger, Brand Ambassador, Blog Network
+# Privacy Policy - Influential Mom Blogger, Mom Blog Brand Ambassador, PR Friendly
 
 This is the web site of **MomDot**.
 
@@ -33,4 +33,6 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 
 If you feel that this site is not following its stated information policy, you may contact us at the above email address.
 
-If you enjoyed this post, please consider leaving a comment or sharing with your favorite site. My two favorite ways to share great finds are Facebook and StumbleUpon. Thank you so much for visiting!
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.momdot.com%2Fabouttrisha%2Fprivacy-policy%2F&&description=Privacy+Policy)
+
+If you enjoyed this post, please consider leaving a comment or sharing with your favorite site. My two favorite ways to share great finds are Facebook and Pinterest. Thank you so much for visiting!
