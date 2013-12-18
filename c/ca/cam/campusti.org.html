@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the campusti.org privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615105935id_/http%3A//directory.campusti.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the campusti.org privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218231507id_/http%3A//directory.campusti.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>CampusTI::Privacy Policy</title>
@@ -44,6 +44,7 @@ function MM_swapImage() { //v3.0
 }
 //-->
 </script>
+<script src="/jquery-1.10.2.js"></script>
 </head>
 
 <body http:="" images.ientrymail.com="" campusti="" directory="" bodybg.jpg="">
@@ -67,7 +68,7 @@ function MM_swapImage() { //v3.0
 	<td width="391"><img src="http://images.ientrymail.com/campusti/directory/logo.jpg" alt="campusti" width="391" height="120" border="0"></td>
 	<td width="324"><script type="text/javascript" language="JavaScript"><!--
 printImage();
-//--></script><img src="http://images.ientrymail.com/campusti/directory/rotate/rotate1.jpg" height="120" width="324"></td>	
+//--></script><img src="http://images.ientrymail.com/campusti/directory/rotate/rotate4.jpg" height="120" width="324"></td>	
 	<td align="left"><img src="http://images.ientrymail.com/campusti/directory/right_top.jpg" width="285" height="120" border="0"></td>
 	</tr>
 	
@@ -124,8 +125,8 @@ printImage();
  <tr>
  <td class="leftcolumn" rowspan="2">
 	 <div class="welcome">
-	 <form action="/search.html" method="post">
-		<input name="q" type="text" value="">
+	 <form id="search-submit" method="post">
+		<input id="qu" type="text" value="">
 			<input type="submit" value="Search">
 		 </form>
 	 </div>
@@ -137,7 +138,17 @@ printImage();
 	<td>
 <div style="float:right;">
 <a href="/submit.html"><img src="http://images.ientrymail.com/campusti/directory/submit.gif" border="0" alt="Add Your Link Today!"></a></div>
-</td></tr><tr><td class="maincolumn"><b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
+</td></tr><tr><td class="maincolumn">
+<script>
+    $("#search-submit").submit(function(e){
+                e.preventDefault();
+                var qq = $('#qu').val();
+              window.location.href = '/sch' + '.html' + '?q=' + qq;
+              return FALSE;
+            });
+
+  </script>
+<b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
 
 <br><br>
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
