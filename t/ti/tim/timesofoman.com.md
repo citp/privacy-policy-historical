@@ -1,6 +1,61 @@
-> *The following text is extracted and transformed from the timesofoman.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620141353id_/http%3A//www.timesofoman.com/Times/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofoman.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219001150id_/http%3A//www.timesofoman.com/Times/Privacy.aspx) for the most accurate reproduction.*
 
 # Times of Oman :: Privacy
+
+---  
+  
+Fri, Jan 31, 2020
+
+  * Weather
+  * |   
+---  
+  
+  
+Max |  : |     
+Min |  : |     
+Sunrise |  : |     
+Sunset |  : |     
+Humidity |  : |     
+  
+  * Prayer Time
+  * Fajar |  : |  05.23 am   
+---|---|---  
+Dhuhr |  : |  12.09 pm   
+Asar |  : |  03:09 pm   
+Magrib |  : |  05.29 pm   
+Isha |  : |  06.45 pm   
+  * Oil Price
+  *   * Gold Price
+  * **Price in RO**  
+  
+---  
+24ct / gm |  : |  15.40   
+22ct / gm |  : |  15.00   
+  
+
+
+  * Currency Rates
+  * **Forex Rates vs R01**  
+  
+---  
+US Dollar |  : |  2.58   
+Euro |  : |  1.87   
+Pound |  : |  1.58   
+Indian Rs. |  : |  159.82   
+Pak Rs. |  : |  274.73   
+Bangla Taka |  : |  198.81   
+  
+
+
+
+
+
+[](http://www.timesofoman.com/BannerControls/BannerView.aspx?BnrID=48)
+
+  
+
+
+| 
 
 [](http://www.timesofoman.com/BannerControls/BannerView.aspx?BnrID=8)
 
@@ -104,11 +159,11 @@ If you need further assistance or have queries about our use of personal informa
 ######  Thursday \- [MORE](http://www.timesofoman.com/NewsSection/Thursday.aspx)  
   
 ---  
-|  **[ Graveyard social classes](http://www.timesofoman.com/News/Article-18356.aspx)**
+|  **[ Over the cuckoo’s nest](http://www.timesofoman.com/News/Article-26943.aspx)**
 
 by Saleh Al Shaibany
 
-While we were queuing up to wait for our turn to condole the family of the deceased, a man behind me...  
+The thing to remember is that depression paralyses your life and causes a lot of anxiety to your fam...  
   
 ---  
   
@@ -118,25 +173,11 @@ While we were queuing up to wait for our turn to condole the family of the decea
 ######  Travel \- [MORE](http://www.timesofoman.com/NewsSection/Travel.aspx)  
   
 ---  
-|  **[ Gorgeous Greece](http://www.timesofoman.com/News/Article-18361.aspx)**
+|  **[ Tale of Tallinn](http://www.timesofoman.com/News/Article-26938.aspx)**
 
-by Simon Calder/The Independent
+by Will Hawkes/The Independent
 
-Friendly, beautiful and with a wealth of cultural attractions, Thessaloniki, Greece's second city, i...  
-  
----  
-  
-  
-| 
-
-######  Health \- [MORE](http://www.timesofoman.com/NewsSection/Health.aspx)  
-  
----  
-|  **[ Wave off neck pain](http://www.timesofoman.com/News/Article-18355.aspx)**
-
-by Prema Nagesh
-
-Here are few basic neck movements that you can practice every one to two hours. These neck movements...  
+A winter’s break in the Estonian capital reveals snowy scenery, a Christmas market and small craft s...  
   
 ---  
   
@@ -156,5 +197,22 @@ Horoscope is a kind of "psychological map" which shows certain patterns of every
 ---  
   
   
+| 
+
+######  HI \- [MORE](http://www.timesofoman.com/NewsSection/HI.aspx)  
   
-[](http://www.timesofoman.com/BannerControls/BannerView.aspx?BnrID=9)
+---  
+|  **[ Lure of white](http://www.timesofoman.com/News/Article-26956.aspx)**
+
+by Hubert Vaz/Hi
+
+Munich is a popular destination in Germany that dresses up in white for Christmas, beckoning tourist...  
+  
+---  
+  
+  
+  
+[](http://www.timesofoman.com/BannerControls/BannerView.aspx?BnrID=9)  
+  
+  
+
