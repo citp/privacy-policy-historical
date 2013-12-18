@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618104048id_/http%3A//www.explosm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218222941id_/https%3A//www.explosm.net/privacy) for the most accurate reproduction.*
 
 # Explosm.net - Home of Cyanide & Happiness
 
@@ -100,5 +100,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-matt (at) explosm.net    
-
+matt (at) explosm.net 
