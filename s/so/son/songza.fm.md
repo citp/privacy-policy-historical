@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songza.fm privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630201131id_/http%3A//songza.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songza.fm privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022155id_/http%3A//songza.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Songza
 
@@ -7,6 +7,8 @@ For information not covered below, please see the [Terms of Service](https://web
 ## Information We Collect
 
 We store information that we collect through cookies, log files, and clear gifs to create a "profile" of your preferences. Personally identifiable information is used by Songza in order to provide tailored services and to improve the content of the site for you. Non-personally identifiable information is used by Songza and Songza's advertising partners in order to provide tailored advertisements that increase the relevance of the products to you whenever possible. 
+
+We do not collect personally identifiable Information from children we know to be under the age of 13, and no part of the Songza service or website is directed to children under the age of 13. If we discover that personally identifiable information from users under the age of 13 was collected, we will endeavor to delete any such information from our files. 
 
 ## Who We Share Information With
 
