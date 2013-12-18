@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theunion.com privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515120555id_/http%3A//apps.theunion.com/utils/uiincludes/privacypolicy2.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theunion.com privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218101650id_/http%3A//apps.theunion.com/utils/uiincludes/privacypolicy2.php) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 	<meta charset="utf-8">
@@ -29,10 +29,12 @@
         var jsInternetCode = '%%jsInternetCode%%';
     </script>
 
-    <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script><script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script><script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
-   	<script type="text/javascript" src="http://apps.theunion.com/utils/branding/v1/assets/ad-code.js"></script>
-	<script type="text/javascript" src="http://apps.theunion.com/utils/branding/v1/assets/common-min.js"></script>
-	
+    <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+    <script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+	<script type="text/javascript" src="http://apps.theunion.com/utils/branding/v1/assets/jquery.dfp.min.js"></script>
+	<script type="text/javascript" src="http://apps.theunion.com/utils/branding/v1/assets/ad-code.js"></script>
+	<script type="text/javascript" src="http://apps.theunion.com/utils/branding/v1/assets/common-min.js"></script>	
     
     <script type="text/javascript">	
 	// Quantcast Tag, part 1
@@ -263,6 +265,13 @@ float:left;
 {
  width:400px;  
 }
+.ad-disclaimer {
+  background: url("http://www.greeleytribune.com/csp/mediapool/sites/SwiftShared/assets/img/advertisement.gif") no-repeat scroll right 62px transparent;
+  padding-bottom: 15px;
+}
+#div-gpt-ad-728x90.ad-disclaimer, #div-gpt-ad-728x90-dart.ad-disclaimer, #div-gpt-ad-728x90-top.ad-disclaimer {
+  background-position: right 95px;
+}
 </style>
 </head>
 <body>
@@ -273,7 +282,7 @@ float:left;
 	</div>
        <div class="col2">
 		<script type="text/javascript">
-		renderAd('search');
+		renderAd('search', adUnit);
 		</script>
 	</div>
 </div>
@@ -288,7 +297,7 @@ float:left;
 
 <div id="swift-leaderboard">
 	<script type="text/javascript">
-		renderAd('top');
+		renderAd('top', adUnit);
 	</script>
 </div>
 
@@ -298,7 +307,7 @@ float:left;
 <div id="swift-right-rail" style="">
 	<div class="tile shadow banner" id="tile1">
 		<script type="text/javascript">
-			 renderAd('tile');
+			 renderAd('tile', adUnit);
 		</script>
 	</div>
 </div>
@@ -447,6 +456,16 @@ a:link, a:visited, a:hover, a:active{text-decoration:none;}
         <p>©2005 - 2013 <a href="http://www.swiftcom.com/" title="Visit Swift Communications, Inc." target="_blank">Swift Communications, Inc.</a></p>
     </div>
 </div>
+<script type="text/javascript">
 
+	// enable DFP ads
+	var dfpSitekw = $(document).data('swift.sitekw');
+	var dfpPlatform = $(document).data('swift.platform');	
+	$.dfp({
+		dfpID : '5195',
+		setUrlTargeting : false,
+		setTargeting : {"sitekw" : dfpSitekw, "platform" : dfpPlatform}
+	});
+</script>
 
 </body></html>
