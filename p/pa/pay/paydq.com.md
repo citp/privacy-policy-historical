@@ -1,63 +1,37 @@
-> *The following text is extracted and transformed from the paydq.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424053433id_/http%3A//paydq.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydq.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219001033id_/http%3A//www.cds-global.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | PayDQ
+# Privacy Policy | About CDS Global | cds-global.com
 
-**Updated September 26, 2007.** PAYDQ is committed to protecting your privacy and the privacy of your customers. Please note, this privacy statement pertains to this website only.
+## Purpose of this Privacy Policy
 
-## Collection of your Personal Information
+This privacy policy describes CDS Global's policies with respect to the collection of personally identifiable information from the Web site to which this policy is linked. The Web site to which this policy applies is the home page, and related pages, of CDS Global's corporate Web site, operating under the URL "[www.cds-global.com](http://www.cds-global.com/)." CDS Global is an international data management company. Our clients are magazine publishers, direct marketing firms and other businesses. The services CDS Global provides its clients are described on this Web site.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as receiving information about PAYDQ products and services, ordering e-mail newsletters, joining a limited-access service, signing up for an event or training, or when purchasing, downloading and/or registering PAYDQ products. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function and information about your company.
+## Information to which this Privacy Policy does not Apply
 
-The Site may collect certain information about your visit such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the website from which you linked directly to our Site. This information is used to help improve the Site, analyze trends, and administer the Site. 
+This privacy policy only applies to the Web site operating under the URL "[www.cds-global.com](http://www.cds-global.com/)" (and the underlying pages that operate under that primary URL) to which this policy is linked. Any information you provide when you visit a Web site other than that covered by this policy (including other Web sites affiliated with CDS Global and its business, such as [www.cdsglobal.co.uk](http://www.cdsglobal.co.uk/), [www.cdsglobal.ca](http://www.cdsglobal.ca/) or [www.cdsglobal.com.au](http://www.cdsglobal.com.au/)) is subject to the privacy policies posted on those Web sites, whether such Web sites are run and owned by subsidiaries or affiliates of CDS Global or by third parties. This policy also does not apply to information you may provide to use offline.
 
-## Use of Your Personal Information
+## What is Personally Identifiable Information?
 
-The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
+"Personally identifiable information" is information that can be used to identify you as an individual. Personally identifiable information includes your name and address in association with any sensitive information unique to you such as your social security number, driver's license, marital status, financial information, credit card numbers or bank accounts.
 
-In support of these uses, PAYDQ may use personal information to provide you with more effective customer service, to improve the Site and any related PAYDQ products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests.
+## No Personally Identifiable Information Collected
 
-PAYDQ may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on PAYDQ or the Site; (b) protect and defend the rights or property of PAYDQ and our family of websites; or (c) act in urgent circumstances to protect the personal safety of PAYDQ employees or agents, users of PAYDQ products or services, or members of the public.
+[CDS-Global.com](http://www.cds-global.com/) does not collect any personally identifiable information on this site.
 
-## Control of Your Personal Information
+## Cookies
 
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of PAYDQ and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted.
+[CDS-Global.com](http://www.cds-global.com/) (or third-party service providers on our behalf) may set and access cookies on your computer. A cookie is a small amount of data (often including a unique identifier) that is sent to your browser from a Web site's computers and stored on your computer's hard drive. CDS Global uses cookies to understand site usage and to improve the content and offerings on our site.
 
-PAYDQ.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service.
+Our cookies contain no personally identifiable information.
 
-## Subscribe or Cancel Subscriptions to Newsletters or Offers
+[CDS-Global.com](http://www.cds-global.com/) (or third-party service providers on our behalf) may also use cookies to collect aggregate information about Web site users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose. If you do not want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our sites may not function efficiently.
 
-You can access your personal information by contacting PAYDQ.com as described at the bottom of this statement, or through alternative means of access described by the service. For example, if you are a PAYDQ client, you can review and edit your personal information by contacting our National Client Service Manager Monday through Friday, between the hours of 8 a.m. and 5 p.m. CT at 1-888-741-1647 Extension 1000.
+## IP Address
 
-## Security of Your Personal Information
+Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our servers, gather broad demographic information and administer our Web site.
 
-PAYDQ is committed to protecting the security of your personal information and that of your customers. We use a variety of security technologies and procedures to help protect personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption such as the Secure Socket Layer (SSL) protocol.
+## Changes to Privacy Policy and Notice
 
-Return to top
+CDS Global may change this policy from time to time at our discretion. Your continued use of this site indicates your consent to this privacy policy and any amended versions of it.
 
-## Use of Cookies
-
-We do not use cookies on this Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a Web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation and so on. When you return to the website, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites you visit. 
-
-## Enforcement of this Privacy Statement
-
-If you have questions regarding this statement, you should contact PAYDQ.com. 
-
-## Changes to this Statement
-
-We may occasionally update this privacy statement. When we do, we will also revise the “last updated” date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our website or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
-
-## Contact Information
-
-PAYDQ welcomes your comments regarding this privacy statement. If you believe that PAYDQ has not adhered to this privacy statement, please contact us electronically or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.'
-
-PayDQ.com privacy  
-PayDQ  
-25 Main Place, Suite 400  
-Council Bluffs, Iowa 51503-0970  
-E-mail: [info@PayDQ.com](mailto:info@paydq.com)
-
-Return to top
+This policy was last updated May 2008.
