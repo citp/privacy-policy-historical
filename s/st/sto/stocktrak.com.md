@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618211109id_/http%3A//stocktrak.com/public/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218220155id_/http%3A//www.stocktrak.com/public/about/privacy.aspx) for the most accurate reproduction.*
 
 # StockTrak is a Stock Game with Online Stock Market Games and Day Trading Online
 
