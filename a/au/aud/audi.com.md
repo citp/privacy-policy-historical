@@ -1,73 +1,58 @@
-> *The following text is extracted and transformed from the audi.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210211416id_/http%3A//www.audiusa.com/us/brand/en/tools/imprint/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audi.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218202110id_/http%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
 
-# Privacy > Audi of America
+# Privacy policy | Audi USA
 
-Privacy Policy
-    
+It is our sincere hope at Audi of America ("Audi") that what is now a purely digital relationship will evolve into a more personal one. Your privacy is important to us. To better protect your privacy we provide this Privacy Policy, which explains our information practices across all of Audi's websites and digital properties, including mobile versions of our site and mobile applications (each an "Audi Property" and collectively, the "Audi Properties"). Your use of any Audi Property constitutes your agreement to the terms of this Privacy Policy.
 
-It is our sincere hope at Audi of America that what is now a purely digital relationship will evolve into a more personal one. A relationship built on trust. Our policy on privacy is simple and unwavering. We would also remind you that audiusa.com is a private, copyrighted site and intended solely for personal use. And now that we've taken care of the business that our attorneys advised us had to be stated, let's get back to something more exciting, more promising: Audi and you.
+##### The Information We Collect
 
-Should you have other questions or concerns about this privacy policy, please email us at:
+When you visit the Audi Properties, we may collect certain personally identifiable information you choose to disclose to us, such as your name, postal address, telephone number, and email address. We may also collect user-generated content you choose to publish on the Audi Properties. 
 
-For information on how to opt out of certain advertising campaigns, please visit:
+The Audi Properties also may passively collect non-personal and aggregated information that is automatically sent to us by your web browser or device, including your Internet Service Provider and IP address, the date and time you access the Audi Property, the pages you have accessed while visiting the Audi Property, and the Internet address from which you accessed the Audi Property.
 
-Our Commitment to Privacy
-    
+We may receive information from third party sources, such as Audi authorized dealerships, and incorporate it with your personal information.
 
-Your privacy is important to us. To better protect your privacy we provide this Privacy Policy, which explains our online information practices and the choices you can make about the way your information is collected and used. To make this Privacy Policy easy to find, we make it available on our homepage and at every point where personally identifiable data may be requested.
+##### How We Use and Share Information
 
-The Information We Collect
-    
+We may use your personal information in a number of ways, such as to send promotional emails to you, to enter you into contests and sweepstakes, to participate in our online communities, to conduct surveys and market research, to provide product materials and updates on new products and services, to respond to queries, and to provide order status and order tracking information to you. We may use your personal information for marketing research and marketing purposes, which may include sharing it with Audi authorized dealerships, for customer service purposes, with outside research companies, or with service providers that provide marketing, research, or other services for us, including service providers that may be located outside of the United States. If you choose to save information, such as a vehicle configuration, on the Audi Properties, we may contact you to follow up on your interest in our cars.  
 
-This Privacy Policy applies to all information collected or submitted on the audiusa.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages include:
+We may share your personal information (a) within the Audi family of companies, which includes parents, corporate affiliates, subsidiaries, business units and other companies that share common ownership, including Audi AG, (b) with other corporate partners, agencies and vendors working with Audi, and (c) with your vehicle's satellite radio and/or wireless service provider, if applicable, in order to enable those service providers to contact you with important information about your vehicle's satellite or wireless services and for their own marketing purposes.  In addition, we may share your personal information to comply with law or legal requirements, enforce or apply our Terms of Use and other agreements, or protect our rights, property, or safety of our users, or others. We do not share your personal information with unaffiliated third parties for their marketing purposes, unless you consent to such sharing.
 
-• Name  
-• Address  
-• E-mail address  
-• Survey questions  
-• Phone number  
-• Credit card/Debit card information
+Personal information received from Audi authorized dealerships may, in some cases, be used and shared in these ways.
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected may include:
+If we or some or all of our assets are acquired by another company, including through a sale in connection with bankruptcy, that company will possess the information collected by us, and it will assume the rights and obligations regarding your information as described in this Privacy Policy.
 
-• Name  
-• Address  
-• Phone number
+We may share non-personal and aggregate information with our advertising agencies and other third-party affiliates to customize the design of the Audi Properties.
 
-How We Use Information
-    
+##### Online Advertising
 
-We use return e-mail addresses to answer the e-mail we receive. We may also use these e-mail addresses to provide order status and order tracking information, and to respond to queries.
+To provide you with a more relevant and interesting experience, Audi may work with third party companies to display ads or customize the content of the Audi Properties.  These companies may use cookies (a small text file), pixels, tags, or similar technologies that are placed in browsers to gather information about your visits to an Audi Property, as well as your visits elsewhere on the Internet.  These companies use this information to provide you with more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance ("DAA"). The DAA offers a choice mechanism with respect to certain types of data collection and use. We adhere to the DAA’s Self-Regulatory Principles for Online Behavioral Advertising. Visit [www.aboutads.info](http://www.aboutads.info/) to exercise choice with respect to participants of the DAA. If you change computers, devices, or browsers, use multiple computers, devices, or browsers, or delete your cookies, you may need to repeat this process for each computer, device, or browser.
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
+To opt-out of receiving promotional email messages from us, please click on the "Unsubscribe" link contained at the bottom of each email.
 
-We may use non-identifying and aggregate information to better design our website and share with our advertising agencies. For example, we may tell an advertising agency that x number of individuals visited a certain area on our website, or that y number of men and z number of women filled out our registration form, but we would not disclose anything that could be used to personally identify those individuals. If you choose to register or receive products or materials from us, or to otherwise give us personal information, we may store some or all of that personal information and use it for marketing research and marketing purposes, which may include sharing it with Audi Authorized dealerships or with various suppliers that provide marketing, research, or other services for us. To enhance your experience on Audi brand websites, we might use information you provide to us through your My Audi account to pre-populate forms with your name, address, phone, and email address. If you choose to save information, such as a vehicle configuration, on our website(s), we may contact you to follow up on your interest in our cars. In such cases, we may employ an outside research company to call you on our behalf.
+##### Our Commitment to Children's Privacy
 
-We will never sell your personal information to any other company.
+Audi does not knowingly collect personal information from visitors under the age of 13. The Audi Properties are general audience websites or digital properties directed at general audiences.  In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information.
 
-In the event of a criminal investigation or a suspected illegal activity, we may be requested by law enforcement agencies to share certain personal information.
+##### External Links
 
-A Word On "Cookies"
-    
+The Audi Properties may contain links to other websites, including social networks, advertisers, individual dealer's websites, and websites belonging to other third parties.  Some of these sites may share a similar "look and feel" to the Audi Properties.  Such sites may include social media sites, including Facebook and Twitter, websites affiliated with Audi Financial Services, and other third party sites including individual dealer websites.  Please be aware that we are not responsible for the privacy practices of other websites.  We encourage you to read the privacy policies provided by other websites before you provide personal information to them.
 
-"Cookies" are small items of data that some websites either write to your hard drive upon your visit to their site(s) or store in the browser. These data files contain information the site can use to organize the pages you have visited on a particular website. Some of our websites may use "cookie" technology to measure site activity and tailor information to fit your personal interests. In this way, we can deliver tailor-made information suiting your personal interests upon your next visit to our site(s). Our use of "cookie" technology is, thus, to provide you with a more individualized delivery of information and an optimal viewing experience.
+##### Changes to this Privacy Policy
 
-Pixel Tags
-    
+From time to time, we may update this Privacy Policy.  We will notify you of any material changes to our Privacy Policy by updating this page.  We encourage you periodically to check this site to learn about the information we collect, use, and share.  Your continued use of any of the Audi Properties affirms your agreement to such changes.
 
-We may use "pixel tags", which are small graphic files that allow us to monitor the use of our websites. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears; the URL (Uniform Resource Locator) of the page on which the pixel tag appears; the time the page containing the pixel tag was viewed;the type of browser that fetched the pixel tag; and the identification number of any cookie (please see A word on "Cookies") on the computer previously placed by that server. When corresponding with you via HTML capable email, we may use "format sensing" technology, which allows pixel tags to let us know whether you received and opened our e-mail.
+##### Your California Privacy Rights
 
-Our Commitment To Data Security
-    
+As described in this Privacy Policy, from time to time we may make your personal information available to third parties. If you do not want us to share your personal information with third parties, you may opt-out of this information sharing by emailing us at auditalk@audi.com or by contacting us via the contact information provided below.
 
-Because your privacy is important to us, we have installed safeguards to secure the credit card information we collect online. Our e-commerce site uses Secure Sockets Layer (SSL) encryption technology supported by Microsoft Internet Explorer, Netscape Navigator/Communicator, and other popular browsers to protect your online transactions. SSL encrypts your credit card number, name, address, and phone number before they travel over the Internet. We also use additional technologies and measures to prevent unauthorized access or disclosure, maintain data accuracy, and ensure appropriate use of this information.
+##### Contact Us
 
-Our Commitment to Children's Privacy
-    
+Should you have other questions or concerns about this privacy policy, please email us at: auditalk@audi.com
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+You may also contact us by phone, 24 hours a day, at: 1-800-822-2834
 
-How You Can Access or Correct Your Information
-    
-
-For your information on the e-commerce site, you can access and maintain all your personally identifiable information that we collect online by visiting the Account Information section of our website. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+And by mail at:  
+Audi Customer Experience Center  
+3800 Hamlin Road  
+Auburn Hills, MI 48326
