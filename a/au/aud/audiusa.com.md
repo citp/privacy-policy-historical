@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiusa.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613060907id_/http%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiusa.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218202110id_/http%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Audi USA
 
@@ -6,7 +6,7 @@ It is our sincere hope at Audi of America ("Audi") that what is now a purely dig
 
 ##### The Information We Collect
 
-When you visit the Audi Properties, we may collect certain personally identifiable information you choose to disclose to us, such as your name, postal address, telephone number, and email address.  
+When you visit the Audi Properties, we may collect certain personally identifiable information you choose to disclose to us, such as your name, postal address, telephone number, and email address. We may also collect user-generated content you choose to publish on the Audi Properties. 
 
 The Audi Properties also may passively collect non-personal and aggregated information that is automatically sent to us by your web browser or device, including your Internet Service Provider and IP address, the date and time you access the Audi Property, the pages you have accessed while visiting the Audi Property, and the Internet address from which you accessed the Audi Property.
 
@@ -26,7 +26,7 @@ We may share non-personal and aggregate information with our advertising agencie
 
 ##### Online Advertising
 
-To provide you with a more relevant and interesting experience, Audi may work with third party companies to display ads or customize the content of the Audi Properties.  These companies may use cookies (a small text file), pixels, tags, or similar technologies that are placed in browsers to gather information about your visits to an Audi Property, as well as your visits elsewhere on the Internet.  These companies use this information to provide you with more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance ("DAA"). The DAA offers a choice mechanism with respect to certain types of data collection and use. Visit www.aboutads.info to exercise choice with respect to participants of the DAA. If you change computers, devices, or browsers, use multiple computers, devices, or browsers, or delete your cookies, you may need to repeat this process for each computer, device, or browser.
+To provide you with a more relevant and interesting experience, Audi may work with third party companies to display ads or customize the content of the Audi Properties.  These companies may use cookies (a small text file), pixels, tags, or similar technologies that are placed in browsers to gather information about your visits to an Audi Property, as well as your visits elsewhere on the Internet.  These companies use this information to provide you with more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance ("DAA"). The DAA offers a choice mechanism with respect to certain types of data collection and use. We adhere to the DAA’s Self-Regulatory Principles for Online Behavioral Advertising. Visit [www.aboutads.info](http://www.aboutads.info/) to exercise choice with respect to participants of the DAA. If you change computers, devices, or browsers, use multiple computers, devices, or browsers, or delete your cookies, you may need to repeat this process for each computer, device, or browser.
 
 To opt-out of receiving promotional email messages from us, please click on the "Unsubscribe" link contained at the bottom of each email.
 
