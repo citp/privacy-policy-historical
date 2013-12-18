@@ -1,95 +1,59 @@
-> *The following text is extracted and transformed from the pcuser.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524143251id_/http%3A//www.pcuser.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcuser.com.au privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218224954id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PC User
+# Privacy Policy « Future PLC
 
-At ACP Magazines Ltd (ACP), we are committed to protecting and maintaining your privacy. As part of our normal operations we may collect your information. This Privacy Policy describes the type of information we may collect and what may happen to that information.
+  1. **Introduction** : This policy covers the processing of personal data by Future plc and its associated UK group companies ( **“Future”** , **“we”** or **“us”** ) whose registered address is at Beauford Court, 30 Monmouth Street, Bath, BA1 2BW.Future is committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want our websites to be safe and enjoyable for everyone. Under the Data Protection Act 1998 and related laws, we have a legal duty to protect the personal information we collect from you. 
 
-This policy applies to all publications published by ACP. It also covers websites relating to ACP publications hosted by third parties.
+If you have any concerns, questions or comments about this privacy policy or the website you can contact us using the contact details in paragraph 12 of this policy.
 
-This statement is designed to tell you as much as possible about how ACP uses and manages personal information provided to, or collected by ACP. We believe you should be made aware of our practices so you can make informed decisions about how you allow us to use your information.
+  2. **The types of personal information we collect and how we collect it:** **Information you provide upon registration** : in order to make use of certain services provided through the website such as the forums and email newsletters, you will either need to: (a) register an account with us. When you do so, you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes; (b) log in using a social media account of your choice. When you do so, we will be provided with certain information about you from the social media site, as specified when you log in. You will be able to select how we use your information for marketing purposes. You can update your marketing preferences at any time by following the instructions to amend your details in the account registration section. We will only use your information in accordance with your instructions and as set out in this privacy policy. 
 
-ACP is bound by and supports the National Privacy Principles contained in the Commonwealth Privacy Act. As a media organisation, ACP publicly commits to the standards set out below under the heading “Media Organisation Privacy Standards” in relation to it acts and practices carried out in the course of journalism.
+**Information you provide upon ordering a product or service from us** : if you order a product or service from us, you will need to provide certain personal details so that the order can be fulfilled. In some cases, we will direct you to a third party partner site which will collect this information from you and fulfill your order. For example, if you order a subscription to one or more of our publications, you may be able to access those products through a digital newsstand such as Google Play or the Apple Newsstand. If you do, you will need to provide certain information about your subscription to the digital newsstand. The digital newsstand may need to verify that information with our print subscription fulfillment provider. The digital newsstand will only use the information that you and our print subscription fulfillment provider provide, to enable them to fulfill your order unless you agree otherwise.
 
-In this ever changing world ACP may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to ACP's operations. All personal information held by ACP will be governed by ACP's most recent policy.
+**Information you provide upon entering a promotion or competition** : if you enter a promotion or competition you will either need to register an account with us or provide certain personal information which will be used in accordance with the terms of the promotion or competition.
 
-Any questions regarding this statement or complaints regarding privacy should be sent to ACP’s Privacy Officer at ACP Magazines Ltd., 54-58 Park Street, SYDNEY  NSW   2001
+**Information you provide when taking part in a poll or survey** : if you take part in a poll or survey you will either need to register an account with us or provide certain personal information to us which we will use in accordance with the terms of the poll or survey.
 
-##### What kind of personal information does ACP collect and how does ACP collect it?
+**Games** : if you register to play a game through this site, you may be asked to provide personal information.
 
-ACP collects a range of personal information from members of the public.
+**Demographic and other data** : this website uses cookies, web analytics and web logs to collect information about your use of our site, information about your computer such as your computer’s IP address and browser type, demographic data and, if you arrived at our site via a link from a third party site, the URL of the linking page. If you have registered an account with us, it may also collect your name and email address. The data collected through cookies, web analytics and web logs may be transferred to third parties. For more information on how this website uses cookies, see our [cookie policy](https://web.archive.org/cookies-policy/).
 
-ACP collects most information directly from you.  We collect this information so you can subscribe to publications, join our loyalty clubs, advertise in our magazines, request a product or service from ACP, complete a survey or questionnaire, enter a competition or an event, seek employment, or communicate with ACP by e-mail, telephone or in writing.
+**Email communications** : we use web beacons in our emails to track the success of our marketing campaigns. If you open an email from us, we can see which of the pages of our website you visited. Our web beacons don’t store any information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened an email from us. We may keep track of the emails that we send you. We also keep a record of what communications you have selected to receive or not to receive. If you would like to opt out of receiving such emails, please click the “unsubscribe” link in the email and follow the instructions.
 
-Sometimes ACP may be provided with personal information about an individual from a third party, for example from third parties who give gift subscriptions.
+**Information from other sources** : we may receive information about you from other sources (eg missing information about your postal or email addresses) and add it to the personal information we hold about you.
 
-In general, the type of personal information ACP collects and holds could include (but is not limited to) name, address, contact details, and gender.
+  3. **How we use the information that we collect** We own the information we collect through this website. We will use it, as applicable, to: 
+    * provide you with services or information that you have requested or products or services that you have ordered, such as magazine subscriptions;
+    * contact you regarding your registered account with us;
+    * confirm or fulfill an order you have submitted
+    * inform you if you have won a prize
+    * monitor or improve the performance of, and products and services available through, this website
+    * customise the advertising and content that you see
+    * monitor compliance with our terms and conditions of use of this website, enforce our rights and protect the safety of others including investigating and if necessary removing any content about which we receive a complaint
+    * send you promotional materials or special offers on our behalf or on behalf of our group companies and marketing partners. If you do not want to receive this marketing information you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk), giving your email address and details of the information you no longer wish to receive
+    * for any purpose if we are required to do so by any law or other regulatory or government authority
 
-##### How ACP uses Personal Information
+Please note that if you upload or post any information to a public part of the Website, we may use it in accordance with our [terms and conditions](https://web.archive.org/terms-and-conditions/) of use and it may be viewed and used by others. Future accepts no responsibility for this.
 
-ACP uses personal information for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose.
+By providing us with your personal information, you consent to us: (a) processing your information as set out in this privacy policy and in any other manner you expressly consent to; (b) processing your sensitive personal data, such as health data (if provided); and (c) transferring your information to countries or jurisdictions which do not provide the same level of data protection as the UK, if necessary for these purposes. If we do make such a transfer, we will, if appropriate, put a contract in place to ensure that your information is protected.
 
-In general, ACP uses personal information for the following purposes:
+  4. **Who we may share your personal information with** **Agents** : we use third parties to perform certain functions on our behalf including fulfilling orders, sending emails, organising and managing competitions, promotions, surveys or polls, removing repetitive information from customer lists, comment hosting, website analysis, data analysis, translation services and processing credit card payments. They will have access to your personal information if necessary to perform their function but they cannot use it or disclose it for any other purpose, unless you have specifically given them consent to do so. 
 
-  * to provide publications to readers of its publications;
-  * to provide other products or services which are requested from ACP, including advertising services;
-  * to help ACP manage and enhance its products and services;
-  * to communicate with readers of its publications;
-  * to provide people with ongoing information about ACP's products and services in which they may have an interest;
-  * unless requested not to, ACP may provide your personal information to third parties which may in turn  provide your information  to other third parties for marketing purposes.
+**Aggregate Information** : we may share aggregate, non-personally identifiable information, such as demographics and website usage statistics, with advertisers, sponsors and other organisations.
 
+**Option to receive marketing information from associated third parties** : throughout the website you may be given the opportunity to receive marketing information which may be of interest to you from associated third parties. Only if you elect to receive such information, will we share your personal information with our associated third parties and they are only permitted by us to use it for the purpose of providing you with the marketing information you have requested. The use of your personal information by such third parties will be subject to their own privacy policy and practices. We are not responsible for the privacy policy or practices of any such third party. If you do not want to receive marketing information from associated companies you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk), giving your email address and details of the information you no longer wish to receive.
 
+**Products or services offered in partnership with third parties** : certain products or services available through this website may be provided to you in partnership with a third party. That third party may require you to disclose personal information to them in order to receive such products or services. If you request a product or service offered in partnership with a third party, the identity of the third party will be disclosed to you and your personal information will be transferred to that third party. The use of your personal information by that third party is subject to its privacy policy and practices and we are not responsible for the same.
 
-In many cases where ACP asks you to provide ACP with information about yourself, if you do not provide ACP with that information ACP will not be able to provide you with the relevant product or service.
+**Group Companies** : we only share your personal information with our group companies if you have elected to receive marketing information from them which may be of interest to you. They are only permitted by us to use it for the purpose of providing you with the marketing information you have requested. The use of your personal information by our group companies will be subject to their own privacy policies and practices. If you do not want to receive marketing information from our group companies you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk), giving your email address and details of the information you no longer wish to receive.
 
-**Links to Third Party Websites from ACP Websites**
+**Third-Party Ad Serving and Audience and Traffic Measurement Services** : we may use a third-party network advertiser to serve the advertisements on this website or we may use an audience or traffic measurement service to analyse the traffic on this website. Network advertisers are third parties that display advertisements based on your visits to this website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. Audience and traffic measurement services allow us to collect anonymous traffic and behavioural information from the website by monitoring anonymous visitor activity. This website’s advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser.
 
-ACP operates a number of websites relating to its products and services and general business, including magshop.com.au and acpmagazines.com.au. To the extent that ACP Websites contain links to sites operated by third parties and not related to ACP products, services or events (“Linked Websites”), the Linked Websites are not controlled by ACP and we are not responsible for the privacy practices of those companies. Before disclosing your personal information to Linked Websites, we advise you to examine their privacy polices.
-
-##### Ordering Third Party product
-
-When you order a product supplied by a third party supplier (“Third Party Supplier”) through ACP or an ACP Website, we forward your contact information to the relevant Third Party Supplier. In those instances, your information will be governed by the privacy policy of the Third Party Supplier.
-
-##### Our Use of Cookies  through ACP Websites
-
-Cookies are small pieces of information that are stored by your browser on your computers hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide the functionality you require when visiting ACP Websites (for example, to place items in your shopping cart on magshop.com.au) and personalises your internet experience.
-
-##### To whom might ACP disclose Personal Information?
-
-ACP may disclose personal information it collects about you to a related company. The company to which information is disclosed is bound to use it for the same purpose as the information was collected, unless otherwise permitted by law.
-
-ACP may also provide your information to:
-
-  * newsagents for the purpose of fulfilling subscriptions to ACP publications;
-  * Organisations who are sponsoring or otherwise involved with or participating in a promotion, competition or survey;
-  * other companies or individuals ACP engages to perform functions on behalf of ACP, such as mailing a subscription, processing credit card information, mailing of information or prizes, data analysis, telemarketing, research, and advertising;
-  * anyone you authorise ACP to disclose information to.
+  5. **Maintenance and storage of information** : Your information is collected and stored on servers which are owned and maintained by or on behalf of Future and its group companies. We may keep your information for a reasonable period for the purposes set out in this privacy policy.
+  6. **Links to other websites** : this website contains links to a wide variety of other websites and we display advertisements from third parties on our website. We may monetise some of these links through the use of third party affiliate programmes. Notwithstanding such affiliate programmes, we are not responsible for the content or privacy policies of these websites or for third party advertisers, even if they use the website’s logo as part of a co-branding agreement, nor for the way in which information about their users is treated. Before submitting any personal information to such websites, you should check their privacy policy.
+  7. **Security** : In accordance with our requirements under the Data Protection Act 1998, we will adopt appropriate security procedures to help prevent unauthorised access to your information. Future shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this website including any of your information.
+  8. **A note for parents concerning privacy** : this website is a general audience website. On the website, we do not currently knowingly collect any personal information from children under the age of sixteen. If, in the future, we collect personally identifiable information from children on the Website, we will do so in compliance with all relevant laws and regulations including, without limitation, obtaining parental consent where necessary. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit [www.google.co.uk/goodtoknow/familysafety](http://www.google.co.uk/goodtoknow/familysafety) and the [GetNetWise website](http://www.getnetwise.org/) to learn more about parental control tools.
+  9. **Policy changes** : By using this website you agree to the terms of this privacy policy and our [terms of use](https://web.archive.org/terms-and-conditions/). We may amend this privacy policy and the [terms of use](https://web.archive.org/terms-and-conditions/) from time to time. If we do so, we will post an updated version on this website. You will be bound by the new terms upon your continued use of this website.
+  10. **Questions about this website and the information we hold about you** : if you have any general questions about this website or the information we have collected about you and how we use it, you can contact the Future New Media Team at Future Publishing Limited, Beauford Court, 30 Monmouth Street, Bath, BA1 2BW, telephone 00 44 1225 442244, email [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk). If you have any questions about your information including what we hold and how it is used, you can contact us at [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk). You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
 
 
-
-ACP may decide to buy or sell assets which form part of or relate to its business. In any such transaction, personal information will usually be one of the transferred assets and will be disclosed to the purchaser.
-
-##### How does ACP treat Sensitive Information?
-
-In referring to 'sensitive information' ACP means information relating to a person's racial or ethnic origin, membership of political bodies, religions, trade unions or other professional or trade association, sexual preferences, criminal record and health information.
-
-If you decide to provide ACP with sensitive information, it is ACP's policy that this information will be used and disclosed only for the purpose for which it was provided or a directly related secondary purpose, unless you agree otherwise or use or disclosure of this information is allowed by law.
-
-##### Management and security of personal information
-
-ACP has appointed a Privacy Officer to oversee ACP's management of personal information in accordance with this policy and the Commonwealth Privacy Act.  ACP has also directed staff that personal information must be dealt with in accordance with this policy and that personal information must be kept secure from unauthorised access or disclosure.
-
-##### Updating Personal Information
-
-ACP endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. ACP encourages you to contact it as soon as possible in order to update any personal information it holds about you. ACP's contact details are set out below.
-
-The National Privacy Principles require ACP to not store personal information longer than necessary. Where ACP no longer requires any personal information that it holds, that personal information will be destroyed or ACP will remove from it any details that will identify individuals.
-
-##### You have the right to check what Personal Information ACP holds about you
-
-Under the Commonwealth Privacy Act, you have the right to obtain access to any personal information which ACP holds about you and to advise ACP of any perceived inaccuracy.  There are some exceptions to this right set out in the Act.
-
-To make a request to access any information ACP holds about you, please contact ACP in writing as set out below. ACP will require you to verify your identity and specify what information you require.  ACP may charge a fee to cover the cost of verifying your application and locating, retrieving, reviewing and copying any material requested. If the information sought is extensive, ACP will advise of the likely cost in advance and can help to refine your request if required.
-
-##### How to contact ACP
-
-If you would like to make an access request or wish to provide feedback about this policy, please contact ACP by writing to ACP’s Privacy Officer at ACP Magazines Ltd., 54-58 Park Street, SYDNEY  NSW   2001 or via e-mail [privacyofficer@acpmagazines.com.au](mailto:privacyofficer@acpmagazines.com.au).
