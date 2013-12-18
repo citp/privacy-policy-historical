@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gameguyz.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512232352id_/http%3A//www.gameguyz.com/page/privacy-policy-for-gameguyz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameguyz.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218195944id_/http%3A//www.gameguyz.com/page/privacy-policy-for-gameguyz.html) for the most accurate reproduction.*
 
 # Privacy Policy for gameguyz
 
 **Privacy Policy for gameguyz**
 
-Gameguyz promises to protect your privacy. You accept this policy and agree with it when you sign up to be an on-line visitor of our website. We have adopted a companywide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us.
+ Gameguyz is promise to protecting your privacy. You accept this policy and agree with it when you sign up to be an on-line visitor of our website. We have adopted a companywide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us.
 
 ## What information we collect and why we collect it?
 
@@ -29,6 +29,12 @@ NOTE: any of your personal information will never be sold or shared with other p
 You can change your subscription to our website by updating your account profile by selecting "Your Account Settings" and then modifying the options in "Alert Settings".
 
 GAMEGUYZ.COM may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on our company or the site; (b) protect and defend the rights or property of our company, including the GAMEGUYZ.COM Web site; or (c) act under exigent circumstances to protect the personal safety of users of GAMEGUYZ.COM, its web sites, or the public.
+
+**How do we use your content?**
+
+We provide you with some services that allow you to submit content. You will own the intellectual property rights of the content. That is to say, what belongs to you stays yours. We will also provide you some services to access and remove content. In some of our services, there are terms or settings that narrow the scope of our use of the content submitted in those services. Please make sure you have the necessary rights to grant us the license for any content you submit to our Services.
+
+You can find more details about how Gameguyz uses and stores content in the privacy policy or additional terms for particular services. If you submit feedback or suggestions about our services, we may use your feedback or suggestions without obligation to you.
 
 ## How do we use the cookies?
 
