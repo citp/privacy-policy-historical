@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitepronews.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630040044id_/http%3A//www.sitepronews.com/sitepronews-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepronews.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218194837id_/http%3A//www.sitepronews.com/sitepronews-privacy-statement) for the most accurate reproduction.*
 
-# SiteProNews Privacy Statement SiteProNews | SiteProNews
+# SiteProNews Privacy Statement | SiteProNews
 
 #### Privacy Policy Overview
 
@@ -14,9 +14,9 @@ SiteProNews collects minimal personal information when you subscribe to one of o
 
 SiteProNews uses email address information to deliver newsletters to your Inbox and to send you announcements and carefully screened offers and information from our partners and certain vendors.
 
-Subscriber information is received through the Jayde Online Network of web sites which include ExactSeek.com, EzineHub.com, GoArticles.com, AllBusinessNews.com, FreewareFind.com, OnSeek.com, Aesop.com, MaxPromo.com, SitesOnDisplay.com, Best-SearchEngine.com and, of course, SiteProNews.com, as well as through partner sites such as NetMechanic.com, FortuneCity.com, AAAScreensavers.com, EZSkins.com, SubmitPlus.com, MySiteInc.com, FreeTechMail.org and hundreds of other sites carrying our subscriber form.
+Subscriber information is received through the Jayde Online Network of web sites which include ExactSeek.com, SitesOnDisplay.com, Blog-Search.com, FreeWebSubmission.com and, of course, SiteProNews.com, as well as through various partner sites carrying our subscriber form.
 
-Webmasters who submit web sites to ExactSeek.com should familiarize themselves with ExactSeek.com privacy policy which specifically outlines that contact information collected during the site submission process may be used to provide them with free newsletters such as SiteProNews, AllBusinessNews and SEO-News as well as for announcements, carefully screened offers etc. Details regarding ExactSeek’s privacy policy can be found by clicking the link below:  
+Webmasters who submit web sites to ExactSeek.com should familiarize themselves with ExactSeek.com privacy policy which specifically outlines that contact information collected during the site submission process may be used to provide them with free newsletters such as SiteProNews and SEO-News as well as for announcements, carefully screened offers etc. Details regarding ExactSeek’s privacy policy can be found by clicking the link below:  
 [http://www.exactseek.com/privacy.html](http://exactseek.com/privacy.html)
 
 #### Information Sharing and Disclosure
