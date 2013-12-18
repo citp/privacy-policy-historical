@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618093040id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218220126id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
 
 # TheJournal.ie - Read, Share and Shape the News
 
@@ -37,7 +37,7 @@ Technical details in connection with visits to this website are logged for our s
 
 
 
-We also use outside providers for web-site statistics. Please note that to provide statistics these use visitors’ IP addresses but do not have access to users’ usernames or email addresses. The primary provider we use is Google Analytics. You can find further information on the information which it collects at <http://www.google.com/analytics/>.
+We also use outside providers for web-site statistics. Please note that to provide statistics these use visitors’ IP addresses but do not have access to users’ usernames or email addresses. The primary provider we use is Google Analytics. You can find further information on the information which it collects at <http://www.google.com/analytics/>. TheJournal.ie also use Mouseflow web analytics, further information is available at <http://mouseflow.com/privacy/>
 
 ### Cookies
 
