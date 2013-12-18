@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625192558id_/http%3A//www.peoplesmart.com/%3F_act%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218070117id_/http%3A//www.peoplesmart.com/%3F_act%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - PeopleSmart
 
@@ -8,7 +8,7 @@
 
 ## TRUSTe
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.peoplesmart.com/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.peoplesmart.com/seal_m "Validate TRUSTe privacy certification")
 
 PeopleSmart.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
