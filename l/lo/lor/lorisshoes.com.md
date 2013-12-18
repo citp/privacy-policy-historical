@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorisshoes.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616104435id_/http%3A//www.lorisshoes.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorisshoes.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218141229id_/http%3A//www.lorisshoes.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Statement describes how we collect and use your information and giv
 
 We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our site, so you can feel comfortable and secure when shopping. When you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, the site is secured through Secure Sockets Layer (SSL). We always use industry-standard encryption technologies when transferring and receiving your personal information on our site. Pages requesting personal information should always have one of these icons.
 
-###  What are 'cookies' and how does use them?
+###  What are 'cookies' and how do we use them?
 
 A "cookie" is a small data file that contains a unique identifier. Cookies can be used to store personal information about you on your computer. The cookie ensures that only the computer used to select items will have access to products you have chosen and billing information you've entered. Using a cookie is the safest way to make sure that only you can see the contents of your shopping cart and order form. 
 
@@ -19,6 +19,10 @@ LorisShoes.com does not believe in storing your personal information on a cookie
 ###  Can I copy anything from the site?
 
 By law, the material displayed on the site may not be downloaded for anything other than non-commercial and personal use, and then only if copyright and other proprietary notices contained on the materials are retained.
+
+All images on LorisShoes.com are readily available in various places on the internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the US Copyright Fair Use Act.
+
+If you believe that any content appearing on LorisShoes.com infringes on your copyright, please let us know … and the infringing material will be removed as soon as possible.
 
 ###  And...Last but not least...
 
