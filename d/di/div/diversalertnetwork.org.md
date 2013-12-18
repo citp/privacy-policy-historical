@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302232436id_/http%3A//www.diversalertnetwork.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218114252id_/http%3A//www.diversalertnetwork.org/privacypolicy) for the most accurate reproduction.*
 
 # DAN | Dive Safety & Insurance - Divers Alert Network
 
