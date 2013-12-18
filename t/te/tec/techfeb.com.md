@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techfeb.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505102910id_/http%3A//www.techfeb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfeb.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218045251id_/http%3A//www.techfeb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of TechFeb
+# TechFeb | Privacy Policy
 
-****TechFeb.com**** from time to time collect name, email address and/or details of website visitors. This may include the content of the mailing lists, any blog comments entered or any content in any other section. These details will not be passed onto any other third party or other organization unless we are required to by government or other law enforcement authority.
+****TechFeb.com**** from time to time collect name, email address and details of website visitors. This may include the content of the mailing lists, any blog comments entered or any content in any other section. These details will not be passed onto any other third party or other organization unless we are required to by government or other law enforcement authority.
 
 If you contribute content, such as discussion comments, to the site, your contribution may be publicly displayed including personally identifiable information.
 
@@ -18,17 +18,9 @@ Comments are welcome. However, tasteless and insulting comments may be deleted. 
 
 This policy will be updated from time to time. If we make significant changes to this policy after that time a notice will be posted on the main pages of the website. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-If you feel that **TechFeb.com** is not following its stated information policy, you may contact us using the [contact us](http://www.techfeb.com/contact-us/) form.
-
-Our postal address is:  
-_Sandeep Yadav for **TechFeb.com**_  
-_Shanti Nager, Street No. 4,_  
-_Bhiwani-127021, Haryana,_  
-_INDIA_
-
 ### Advertisement Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **techfeb.com _[at]gmail.com_**.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **sandeeprhce5 _[at]gmail.com_**.
 
 At [www.techfeb.com](http://www.techfeb.com/) , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.techfeb.com](http://www.techfeb.com/) and how it is used.
 
@@ -60,7 +52,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you feel that **TechFeb.com** is not following its stated information policy, you may contact us using the  [contact us](http://www.techfeb.com/contact-us/) form.
+If you feel that **TechFeb.com** is not following its stated information policy, you may contact us using the [contact us](http://www.techfeb.com/contact-us/) form.
 
 _Sandeep Yadav for **TechFeb.com**_  
 _Shanti Nager, Street No. 4,_  
