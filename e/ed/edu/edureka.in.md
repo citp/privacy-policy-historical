@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edureka.in privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529041633id_/http%3A//www.edureka.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edureka.in privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218073443id_/http%3A//www.edureka.in/privacy-policy) for the most accurate reproduction.*
 
-# Edureka’s e learning solutions for IT professionals and students.
+# Privacy Policy | Edureka
 
 This web site is owned and operated by Brain4ce Education Solutions Pvt. Ltd. ("we", "our", or "us" or the "Company"). We understand and value your privacy. We want to make your experience online satisfying and safe. This privacy policy (the "Policy") governs information you provide to us or we learn from your use of this web site (the "Site") and tells you how we may collect, use, and in some instances share this information. Our policies may differ from other service offerings and you should carefully review the terms of service and this privacy notice before using these services. 
 
@@ -58,8 +58,8 @@ If you have questions or concerns regarding this Policy, please contact us by em
 
 
 [**Edureka.in**](https://web.archive.org/)  
-No-845,  
-2nd Cross,7th Main,  
-HAL 2nd Stage,  
-Indiranagar,  
-Bangalore-560038, India Effective: June 27, 2012 
+Unit Nos : 501-503,  
+5th Floor, Delta Block,  
+Sigma Soft Tech Park,  
+Varthur Road,  
+Bangalore-560066, India 
