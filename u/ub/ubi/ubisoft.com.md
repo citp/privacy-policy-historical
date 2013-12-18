@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ubisoft.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629072727id_/http%3A//ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubisoft.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218010424id_/http%3A//www.ubi.com/US/Info/Info.aspx%3Ftagname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
 PRIVACY STATEMENT
 
-Last updated October 1st, 2012
+Last updated July 10, 2013
 
 OUR PRIVACY COMMITMENT
 
@@ -75,7 +75,7 @@ We may partner with third party online advertising companies to deliver advertis
 
 **Information Received From Third Parties**
 
-We also may obtain certain non-personal information about you from third parties.  This information may include demographic, geographic, psychographic and other usage information that does not personally identify an individual user and may be associated with anonymous device ID and/or a console identification number.  You may also choose to participate in a third party applications or features (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect and share (or the third party to collect and share) information about you, including personal information.  If you access the Services through a third-party connection or log-in, we may also collect your user ID and/or username associated with that third-party service, and any information you have made public in connection with that service or with the third party shares with partner services.  In addition, we may receive information about you if other users of a third party web site give us access to their providers and you are one of their "connections" or information about you is otherwise accessible through your "connections" webpage, profile page, or similar page on a social networking or other third party website or interactive service.  The collection and use of this information is pursuant to such third party's information collection practices, which are typically outlined in a privacy policy like this one, provided on the third party's website or in an application.  This Policy does not apply to information received from third parties, and Ubisoft is not responsible for the privacy and security practices and policies of such third parties. 
+We also may obtain certain non-personal information about you from third parties.  This information may include demographic, geographic, psychographic and other usage information that does not personally identify an individual user and may be associated with anonymous device ID and/or a console identification number.  You may also choose to participate in a third party applications or features (such as one of our social network applications or a similar application or feature on a third party website) through which you allow us to collect and share (or the third party to collect and share) information about you, including personal information.  If you access the Services through a third-party connection or log-in, we may also collect your user ID and/or username associated with that third-party service, and any information you have made public in connection with that service or with the third party shares with partner services.  In addition, we may receive information about you if other users of a third party web site give us access to their providers and you are one of their "connections" or information about you is otherwise accessible through your "connections" webpage, profile page, or similar page on a social networking or other third party website or interactive service.  The collection and use of this information is pursuant to such third party's information collection practices, which are typically outlined in a privacy policy like this one, provided on the third party's website or in an application.  This Policy does not apply to information received from third parties, and Ubisoft is not responsible for the privacy and security practices and policies of such third parties. 
 
 We also may supplement the information we collect about you through the Services with our information from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you.  We may combine the information we receive from these third parties with information we collect through the Services.  In those cases, we will apply this Policy to any personal information received, unless we have disclosed otherwise. 
 
@@ -132,9 +132,9 @@ We are not responsible for the actions of third party service providers or other
 
 **Q4.   What choices do you have about the collection, use, and sharing of your personally identifiable information?  **
 
-A4.  As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by visiting your profile section or contacting us at [support.ubi.com](http://support.ubi.com/) or at [ubisoft@custhelp.com](mailto:ubisoft@custhelp.com). If you contact us by email, please include the name of the website you used to register and the email address you used to register with us so we can verify your request. 
+A4.  As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by visiting your profile section or contacting us at [support.ubi.com](http://support.ubi.com/) or at [support@ubisoft.com](mailto:support@ubisoft.com). If you contact us by email, please include the name of the website you used to register and the email address you used to register with us so we can verify your request. 
 
-**_Your California Privacy Rights_** :  The following applies solely to California residents who have an established business relationship with Ubisoft.  If we collect personal information from you, we may make the personal information available to third parties for their marketing and promotional purposes.  If you decide that you do not want us to share your personal information with these companies for their marketing and promotional purposes, please send an e-mail to [ubisoft@custhelp.com](mailto:ubisoft@custhelp.com). In this email, state that you would like Ubisoft to not share your personal information with third parties for their marketing purposes.  You opt out request will be processed within thirty (30) days of the date of which we receive it. 
+**_Your California Privacy Rights_** :  The following applies solely to California residents who have an established business relationship with Ubisoft.  If we collect personal information from you, we may make the personal information available to third parties for their marketing and promotional purposes.  If you decide that you do not want us to share your personal information with these companies for their marketing and promotional purposes, please send an e-mail to [support@ubisoft.com](mailto:support@ubisoft.com). In this email, state that you would like Ubisoft to not share your personal information with third parties for their marketing purposes.  You opt out request will be processed within thirty (30) days of the date of which we receive it. 
 
 **Q5.   Do we collect information for children under the age of 13?**
 
@@ -190,7 +190,7 @@ If you do not wish to receive promotional e-mails, texts, or other communication
 A9.  If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to [privacy@ubisoft.com](mailto:privacy@ubisoft.com) or write us: 
 
 Ubisoft, Inc.Attn: Privacy Rights Administrator  
-625 Third Street, 3rd floor, San Francisco, 94107 CA, USA
+625 Third Street San Francisco, 94107 CA, USA
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it. 
 
@@ -201,8 +201,8 @@ ESRB
 Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-[privacy@esrb.org](https://web.archive.org/web/20130629072727id_/http%3A//ubi.com/US/Info/privacy@esrb.org)
+[privacy@esrb.org](https://web.archive.org/web/20131218010424id_/http%3A//www.ubi.com/US/Info/privacy@esrb.org)
 
-Last updated October 1st, 2012
+Last updated July 10, 2013
 
 Print friendly version 
