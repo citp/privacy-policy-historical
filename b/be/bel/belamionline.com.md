@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belamionline.com privacy policy that was archived on 2012-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120801181555id_/http%3A//www.belamionline.com/signup/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belamionline.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218141331id_/http%3A//www.belamionline.com/signup/privacy.aspx) for the most accurate reproduction.*
 
 # BELAMI PRIVACY POLICY
 
