@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509142641id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218075939id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Minnesota Vikings | Privacy Policy
 
-[](http://www.vikings.com/)
+Posted: October 17, 2013
+
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=94c27c07-0757-40ae-99fe-29bdce339579 "TRUSTe online privacy certification")
+
+  
+
+
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=fd2a1f33-9499-4c98-b0e8-42b039495fac "TRUSTe online privacy certification")
 
 This privacy policy applies to the Minnesota Vikings' website located at [www.vikings.com](http://www.vikings.com/) and [www.minnesotavikings.com](http://www.minnesotavikings.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
-The Website is operated by the Minnesota Vikings Football, LLC. 
+The Website is operated by the Minnesota Vikings Football, LLC.
 
-The Minnesota Vikings is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.vikings.com](http://www.vikings.com/) and [www.minnesotavikings.com](http://www.minnesotavikings.com/) . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+The Minnesota Vikings has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.vikings.com and www.minnesotavikings.com  and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.vikings.com/footer/contact-us.html).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-If you have questions or concerns regarding this statement, you should first contact Ryan Cardinal at 952-918-8502. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](https://www.truste.org/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
-When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.   
 Please read the information below to learn more about our data collection policies and practices.
 
 1\. Types Of Information That May Be Collected   
@@ -25,7 +31,7 @@ Please read the information below to learn more about our data collection polici
 8\. Notification Of Changes And Your Acceptance Of The Privacy Policy  
 9\. Correcting/Updating Personal Information  
 10\. Your California Privacy Rights  
-11\. Questions About This Privacy Policy 
+11\. Questions About This Privacy Policy
 
 The following are the types of information we may collect: 
 
@@ -50,6 +56,12 @@ Contests or Sweepstakes: We periodically operate contests and sweepstakes throug
 Surveys or Voting: From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. 
 
 Cookies: As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Cookies are not tied to personal information.
+
+**Third Party Cookies**  
+The use of cookies by our [partners, affiliates, tracking utility company, service providers] is/is not covered by our privacy statement. We do/do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.] 
+
+**Web beacons**  
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
@@ -91,17 +103,20 @@ The Internet offers children wonderful educational and entertainment resources. 
 
 By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing us at [website@vikings.nfl.com](mailto:website@vikings.nfl.com), [admin@vikingscontests.com](mailto:admin@vikingscontests.com), [admin@vikingsnewsletter.com](mailto:admin@vikingsnewsletter.com). 
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update, delete or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing us at [website@vikings.nfl.com](mailto:website@vikings.nfl.com), [admin@vikingscontests.com](mailto:admin@vikingscontests.com), [admin@vikingsnewsletter.com](mailto:admin@vikingsnewsletter.com).
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes. As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
 
   Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.  
 If you are a California resident and have questions about our compliance with this law, please send an email to website@vikings.nfl.com or write to us at: CA Privacy Rights, Minnesota Vikings, 9520 Viking DriveEden Prairie MN 55344.
 
-If you have any questions about this privacy policy or the privacy practices of this Website, contact the Minnesota Vikings at [website@vikings.nfl.com](mailto:website@vikings.nfl.com).
+If you have any questions about this privacy policy or the privacy practices of this Website, contact the Minnesota Vikings at [website@vikings.nfl.com](mailto:website@vikings.nfl.com).  
+ 
 
 Questions regarding this statement should be directed to:  
 Attn: Website Privacy Policy  
 Minnesota Vikings  
 9520 Viking Drive  
-Eden Prairie MN 55344 
+Eden Prairie MN 55344
