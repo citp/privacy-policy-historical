@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solesociety.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516184234id_/http%3A//www.solesociety.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solesociety.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021119id_/http%3A//www.solesociety.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ The information we gather from customers enables us to personalize and improve o
 
 **Personal Information You Provide to Us:**
 
-We receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected may include your name, email address, gender, zip code, country, IP address, browser information, third-party account credentials (for example, your log-in credentials for Facebook or other third party sites) and, if you make a purchase through our Website, your credit card number, credit card security code, expiration date, billing address, and shipping address.  If you provide your third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Accounts”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account information transmitted to the Company’s Website is covered by this Privacy Policy. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features, and you may not be able to complete a purchase through the Website. The Personal Information you provide is used for such purposes as allowing you to purchase items, improving the content of the Website, customizing the advertising and content you see, and communicating with you about specials and new features. We do not direct any of our content specifically to children. Users of our Website are required to be at least 18 years old, and any user under 18 is not an authorized user. Additionally, if we learn that a user is under 13 years of age, we will promptly delete any Personal Information we have collected about that user.
+We receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected may include your name, email address, gender, zip/postal code, country, IP address, browser information, third-party account credentials (for example, your log-in credentials for Facebook or other third party sites) and, if you make a purchase through our Website, your credit card number, credit card security code, expiration date, billing address, and shipping address.  If you provide your third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Accounts”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account information transmitted to the Company’s Website is covered by this Privacy Policy. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features, and you may not be able to complete a purchase through the Website. The Personal Information you provide is used for such purposes as allowing you to purchase items, improving the content of the Website, customizing the advertising and content you see, and communicating with you about specials and new features. We do not direct any of our content specifically to children. Users of our Website are required to be at least 18 years old, and any user under 18 is not an authorized user. Additionally, if we learn that a user is under 13 years of age, we will promptly delete any Personal Information we have collected about that user.
 
 **Personal Information Collected Automatically:**
 
@@ -60,7 +60,7 @@ Company allows you to access the following information about you for the purpose
 
 E-mail address  
 gender  
-zip code  
+zip/postal code  
 country  
 Shipping & Billing information
 
@@ -78,7 +78,7 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 **QUESTIONS OR CONCERNS**
 
-If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to customercare@SoleSociety.com, and we will make every effort to resolve your concerns. You may also phone us at 1-877-765-3009, or write to us at:
+If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to customercare@SoleSociety.com, and we will make every effort to resolve your concerns. You may also phone us at (877) 765-3009, or write to us at:
 
 **Sole Society**  
 8511 Steller Drive  
