@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the causes.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618093137id_/http%3A//causes.com/privacy%3Fctm%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the causes.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020626id_/https%3A//www.causes.com/privacy) for the most accurate reproduction.*
 
-# Causes Privacy Policy | causes.com
+# Causes Privacy Policy · Causes
 
 _This Privacy Policy was last revised on June 6, 2013._
 
@@ -8,7 +8,7 @@ Causes created this application to make it simple for users to share information
 
 This Privacy Policy is designed to help you understand what information you may provide, how we use and share the information and how we will not use or share information, and your choices when using the Causes application, located at www.causes.com and apps.facebook.com/causes, (the "Application"). We will not use or share your information with anyone, except as described in this Privacy Policy. 
 
-If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at [privacy@causes.com](mailto:privacy@causes.com) or Privacy Department, Causes, 88 Kearny St, Suite 2100, San Francisco, CA 94108 United States. 
+If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at [privacy@causes.com](mailto:privacy@causes.com) or Privacy Department, Causes, 548 4th St, San Francisco, CA 94107-1621 United States. 
 
 We operate under the principle that you should have control over your information including how it is shared with others. To learn more about our privacy practices, read on! 
 
@@ -81,5 +81,5 @@ Causes takes reasonable precautions to protect our users' information. Your acco
 You can choose to opt out of receiving emails from Causes by clicking on the "unsubscribe" link in any such email, or visiting the email preference by visiting your [email preference page](https://web.archive.org/account/email) or [unsubscribe page](https://web.archive.org/unsubscribe). Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective. Your unsubscribe or email preference change will be processed promptly, and in no event longer than 10 business days. Alternatively, you may email us at [privacy@causes.com](mailto:privacy@causes.com) or reach us at the following contact information: 
 
 Causes   
-88 Kearny Street, Suite 2100   
-San Francisco, CA 94108 
+548 4th St   
+San Francisco, CA 94107-1621 
