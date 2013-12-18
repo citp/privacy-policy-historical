@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinlove.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508075955id_/http%3A//www.latinlove.org/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlove.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020304id_/http%3A//www.latinlove.org/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # Latin Love
 
@@ -27,8 +27,8 @@ Options are:
 
   * You find an OPT-OUT link in every email you receive from us at the bottom of the email.
   * When you are logged in at the site you go to menu "My membership". There you find a button to delete your profile.
-  * Send us an e-mail to **_[info@latinlove.org](mailto:info@latinlove.org?subject=Questions%20for%20Latin%20Love)_** to let us know that you would like to opt out of future correspondence and we will remove you from our lists.
-  * Send us a fax to +49 911 308 44 77 844 with your email address you used to register at Latin Love and your member ID ****
+  * Send us an e-mail to **_[info@latinlove.org](mailto:info@latinlove.org?subject=Questions%20for%20Latin%20Love%20not-logged-in)_** to let us know that you would like to opt out of future correspondence and we will remove you from our lists.
+  * Send us a fax to +49 911 308 44 77 844 with your email address you used to register at Latin Love and your member ID **not-logged-in**
 
 
 
@@ -75,7 +75,7 @@ Please remember what you should do whenever you voluntarily provide personal inf
 
 ## 9\. Self-control
 
-IK Softwareportal GmbH allows compliance with the Privacy Policy regularly checked by an independent data protection officer. Please contact with any questions about privacy on our first customer. If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Ingo Legner. You can reach him at: **[info@derschild.de](mailto:info@derschild.de?subject=Privacy%20request%20for%20Latin%20Love)** . 
+IK Softwareportal GmbH allows compliance with the Privacy Policy regularly checked by an independent data protection officer. Please contact with any questions about privacy on our first customer. If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Ingo Legner. You can reach him at: **[info@derschild.de](mailto:info@derschild.de?subject=Privacy%20request%20for%20Latin%20Love%20not-logged-in)** . 
 
 ## 1\. Content
 
@@ -88,11 +88,11 @@ The author is not responsible for any contents linked or referred to from his pa
 
 ## 3\. Copyright
 
-The author intended not to use any copyrighted material for the publication or, if not possible, to indicate the copyright of the respective object. The copyright for any material created by the author is reserved. Any duplication or use of objects such as images, diagrams, sounds or texts in other electronic or printed publications is not permitted without the author's agreement. 
+The author intended not to use any copyrighted material for the publication or, if not possible, to indicate the copyright of the respective object. The copyright for any material created by the author is reserved. Any duplication or use of objects such as images, diagrams, sounds or texts in other electronic or printed publications is not permitted without the author"s agreement. 
 
 ## 4\. Legal validity of this disclaimer
 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
 | | | |   
   
-[Books](https://web.archive.org/amazonbooklinks.php) | [Freeware](https://web.archive.org/freeware.php?l=en&randm=3&randw=5) | [Languages](https://web.archive.org/languages_all.php?l=en&randm=3&randw=5) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=3&randw=5) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=3&randw=5) | [Feedback](https://web.archive.org/ikfeedback.php?l=en)
+[Books](https://web.archive.org/amazonbooklinks.php) | [Freeware](https://web.archive.org/freeware.php?l=en&randm=5&randw=9) | [Languages](https://web.archive.org/languages_all.php?l=en&randm=5&randw=9) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=5&randw=9) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=5&randw=9) | [Feedback](https://web.archive.org/ikfeedback.php?l=en)
