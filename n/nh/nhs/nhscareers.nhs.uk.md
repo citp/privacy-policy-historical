@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619012233id_/http%3A//www.nhscareers.nhs.uk/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218065751id_/http%3A//www.nhscareers.nhs.uk/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NHS Careers
 
@@ -6,7 +6,7 @@
 
 ## How we use information you give to us
 
-This page explains how NHS Employers uses any information you give to us, and the way we protect your privacy. Protecting the privacy and personal data of the visitors to our site is of the utmost importance to us.
+This page explains how Health Education England uses any information you give to us, and the way we protect your privacy. Protecting the privacy and personal data of the visitors to our site is of the utmost importance to us.
 
 ### The Data Protection Act
 
@@ -22,7 +22,7 @@ If you provide feedback on our website we will only use it to develop and improv
 
 ### Statement coverage
 
-This privacy statement only covers the NHS Careers website at http://www.nhscareers.nhs.uk. It does not cover links within this site to other websites.
+This privacy statement only covers the NHS Careers website at . It does not cover links within this site to other websites.
 
 ### Security
 
@@ -44,7 +44,7 @@ Log files are files created by a web or proxy server which contains all of the a
 
 ### Accessibility
 
-The NHS Careers website has been designed to be accessible to as many people as possible. If you have any questions about the accessibility of this website, please [contact us](http://www.nhscareers.nhs.uk/contact.aspx).
+The NHS Careers website has been designed to be accessible to as many people as possible. If you have any questions about the accessibility of this website, please [contact us](https://web.archive.org/contact.aspx).
 
 ### Standards compliance
 
@@ -52,7 +52,7 @@ Our aim is that all pages comply with Priority 1 and Priority 2 guidelines of th
 
 ### Navigation
 
-A 'Skip navigation' hyperlink at the top of each page allows users of screen readers to jump straight to the main content on each page. A [Site guide](https://web.archive.org/footer/privacy-policy/ "Privacy policy") and a [search facility](https://web.archive.org/search/ "Search") have also been provided to help with finding information.
+A 'Skip navigation' hyperlink at the top of each page allows users of screen readers to jump straight to the main content on each page. A [search facility](https://web.archive.org/search/ "Search") have also been provided to help with finding information.
 
 ### Adobe PDF files
 
