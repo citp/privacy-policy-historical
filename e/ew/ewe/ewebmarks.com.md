@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewebmarks.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618035307id_/http%3A//www.ewebmarks.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewebmarks.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218153358id_/http%3A//www.ewebmarks.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › Ewebmarks.com : Source of Social News, Community & Social Bookmarking | Freely Submit Content, High Pagerank Web Bookmarks, Rss Feed & Web Blog | Easily Store and Search Interesting Articles
 
