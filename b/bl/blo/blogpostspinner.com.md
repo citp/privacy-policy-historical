@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogpostspinner.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618010311id_/http%3A//blogpostspinner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogpostspinner.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218122453id_/http%3A//blogpostspinner.com/privacy) for the most accurate reproduction.*
 
 # Privacy |
 
