@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shirtoid.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619032118id_/http%3A//shirtoid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shirtoid.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218214035id_/http%3A//shirtoid.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Shirtoid
 
