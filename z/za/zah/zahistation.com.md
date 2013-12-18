@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zahistation.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515090624id_/http%3A//www.zahistations.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zahistation.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218110545id_/http%3A//www.zahistations.net/privacy.php) for the most accurate reproduction.*
 
 # Zahistation - Privacy
 
