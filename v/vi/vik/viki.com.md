@@ -1,85 +1,96 @@
-> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613035206id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218015807id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
 
-# Www.viki.com
+# Viki
 
 ## Information We Collect
 
-We collect information as follows. First, when you create an account on the Website, we collect personally identifiable information, including your name, email address, nationality and language, and, if you purchase services, credit and debit card information, PayPal information, mobile payment information and/or other payment information depending on the payment option you select. Second, we automatically collect information when you visit the Website or use the Viki Services. We also automatically collect non- personally identifiable information from your computer and browser, including your IP address, software and hardware attributes, the page you request, and cookie and Web beacon information. Non-personal information means information that does not allow someone to identify you individually.
+**When you create an account and use our Service, we collect the following types of information from you:**
 
-## How we use information we collect
-
-**We use the information we collect about you for the following general purposes:**
-
-  1. contacting you;
-  2. customizing the content and advertising you view;
-  3. fulfilling your requests for products or services;
-  4. identifying the comments you post on the Website;
-  5. improving the Viki Services;
-  6. conducting research;
-  7. compiling aggregate data for internal and external business purposes; 
-  8. preventing potentially illegal activities;
-  9. protecting our rights and other uses in accordance with our Terms of Service; and 
-  10. for any other purpose disclosed to you at the time we collect your personally identifiable information. 
+  * Name;
+  * Contact information such as your email address;
+  * Demographics information such as what country you are in; what your language preferences are; your age and gender;
+  * Payment data such as credit card information and PayPal account information ; and
+  * Any other information, such as profile picture, videos, content, and bio, you provide us.
 
 
 
-## Disclosure of information
+If you create an Account using, or otherwise connect your Account to, your Facebook account, we will also collect information provided to us by Facebook including for example your: name; email address; birthday; geographic location; interests; profile picture; gender; networks; user ID; list of friends; and any information you have made public on your Facebook account. 
 
-**We may share information that we have collected about you with other users if you voluntarily make the information public, including by**
+We automatically collect information about how you use our services, for example, pages you have viewed, the television shows, movies, music videos or other content that you view or favorite, subtitles or segments of content that you edit, genres you prefer, and searches you make. We also collect certain technical information about your device including your Internet protocol address, geo-location information (city and country), your browser type, language and identifying information, your operating system and application version, device types, device model and manufacturer, device identifiers, and your device operating system type and version. 
 
-  1. creating an account on the Website (whereby your account name and certain account information will be provided to other users of the Website), 
-  2. adding certain information to your channel page, and
-  3. submitting videos or sending messages through the Website.
+We also use cookies, Web beacons, and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Cookies are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which usually stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Web beacons are digital images that are used to log information on the Services or in our emails. We use Web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We also use Web beacons to tell if you open or act on our emails. 
 
+Others, including third party analytics service providers and advertising partners may also collect personally identifiable information about your online activities over time and across different Web sites when you use our Services, including as described in this Privacy Policy. This Policy does not apply to and we are not responsible for those other parties. 
 
+Third party analytics services may use cookies and web beacons through our Site (for example Google Analytics for Display Advertisers) and platform device identifiers and software agents on and through our mobile Services (for example Flurry) to provide us with information about how you use and interact with our Site. 
 
-Also, we may share personal information with companies and organizations that we hire/contract with to perform services for us (for example, processing credit and debit card, mobile and PayPal payments)
+We use local shared objects, also known as "Flash cookies,” to store your preferences or to display content based upon what you view on our websites to personalize your visit. Third parties may also provide certain features on our websites, collect information about your Web browsing activities, and display advertising based upon your Web browsing activity using Flash cookies to collect and store information. Flash cookies are different from other cookies because of the amount of, type of, and way in which data is stored. To learn about privacy and storage settings for Flash cookies click here: [ http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118) (or in the EU <http://www.youronlinechoices.com/>). 
 
-In addition, we may disclose your personal information to comply with legal requirements, like law, regulation, warrant, subpoena, court order, or with a regulator or law enforcement agency or personnel, or in connection with a corporate sale, merger, acquisition, reorganization, dissolution or similar event.
+## Sharing Of Your Information
 
-## Email addresses
+The Viki Services may allow you to connect and share your actions, comments, content, profile, and information publicly or with other people. You may control some of the categories of personal information shared via your profile from the account settings menu on the Site. Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. 
 
-If you have provided your email address on the Website and have opted in, we may send you emails informing you of any major changes to the Website, or any pertinent information about the content on Viki.com. If you do not want to receive these emails, please make a change to your email preference in your Viki.com profile page.
+By connecting your account to Facebook, you are instructing Viki to share your viewing history (information about videos you have viewed) with Facebook, and other users of Facebook and the Viki services, and you expressly give Viki permission to disclose and share your viewing history. If you do not want your viewing history to be shared via Facebook, you should not connect your account to Facebook. You can turn off sharing by disconnecting your account from Facebook. We are not responsible for the use or re-sharing by others of any of your viewing history once it is made public. If you do not want your viewing history to be made public, you should not use the Viki Services and/or you should adjust your Facebook privacy settings accordingly. We are not responsible for and we do not control Facebook’s privacy practices. Please review Facebook’s privacy policy for information about how they use your information. 
 
-## Choice and Access to Personal Information
+## How Viki Uses Your Information
 
-We want to keep personal information accurate. To correct or update your personal information, please visit your account profile page.
+**Viki generally uses your information to:**
 
-## Links to Other Web Sites
-
-The Website may link to Web sites of other companies or organizations. These links are provided for your convenience. This Privacy Policy does not apply to these links. We do not control these Web sites and are not responsible for their operation or content. Please review the privacy policy for each Web site you visit.
-
-## Cookies and Web Beacons
-
-Cookies are small data files that are sent to your Web browser and placed on your computer's hard drive when you visit a Web site. You can set your Web browser to accept or decline cookies. Some sections of our Web site may not work properly if you decline cookies.
-
-A Web beacon or similar means (collectively, "Pixel Tags") is a small string of code that provides a way for us to deliver a small graphic image (usually invisible) on a Web page or in an email. Pixel Tags can recognize certain types of information on your browser, check whether you have viewed a particular Web page or email message, and determine, among other things, the time and date on which you viewed the Pixel Tag and the IP address of the computer from which it was viewed.
-
-**We use cookies, Pixel Tags and log file information to**
-
-  1. store information so that you will not have to re- enter it during your visit or the next time you visit the Website; 
-  2. provide custom, personalized content and information;
-  3. monitor the effectiveness of our marketing campaigns and
-  4. monitor aggregate metrics such as total number of visitors, pages viewed, etc. 
+  * Facilitate the creation of and secure your account on our network;
+  * Identify you as a user in our system;
+  * Provide, personalize, and improve the Services;
+  * Communicate with you about your use of the Services;
+  * Develop new products and services,
+  * Customize the advertising you view and recommend content;
+  * Fulfill your requests;
+  * Identify the comments you post;
+  * Send newsletters, surveys, offers and promotional materials related to the Services and for other marketing purposes of Viki;
+  * Protect, investigate, and prevent potentially fraudulent, unauthorized, or illegal activities;
+  * Protect our rights and the rights of other users; and
+  * As otherwise described in this Privacy Policy or in notices we provided to you.
 
 
 
-## Third-party Advertisers
+We use your payment information to charge you for paid content or memberships and subscriptions that you request. We may also use your information to verify your geographic location. We may use your geographic location data (city and country) to personalize our Service, to recommend content, determine whether the content you have requested is available in your location. We also aggregate and anonymize all information we collect. We may use or share your aggregated and anonymized data for any purposes allowed by applicable law.
 
-We permit advertisements to be delivered to you by third party Internet advertising companies (also called "ad networks" or "network advertisers"). These companies may use cookies, Web beacons and other technologies to collect non-personally identifiable information about your visits to the Website to deliver advertisements to you, measure their effectiveness and personalize advertising content. We do not have access to or control over cookies, Web beacons or other technologies that they may use. We are not responsible for the privacy practices of third party advertisers. You should check the privacy policy of the third party advertiser to determine how it handles any personally identifiable information it separately collects from you. Please be aware that we do not warn you when you have chosen to link through to another Web site or property from the Website. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/ "Network Advertising Initiative") offers information about Internet advertising companies, including about how to opt-out of their information collection.
+## How Viki Discloses Your Information
 
-## Transfer of Information to Other Countries
+We may share your information as follows:
 
-Our processing of the information that it collects may involve the transfer of that information to various countries around the world. By submitting your information to us via the Website or in connection with your interactions with us offline, you consent to such transfers and to the processing of this information in various countries around the world.
+  * We may share your personal information with your consent or at your direction.
+  * We may also share your information with others who perform services on our behalf.
+  * We may disclose your information if we believe we are required to do so by law, or to comply with a court order, judicial or other government subpoena, or warrant.
+  * We also may disclose your information if we believe doing so is appropriate or necessary to prevent any liability, or fraudulent, abusive, or unlawful uses or to protect Viki and our Services; or any rights, property, or personal safety of Viki or others.
+  * In the event that Viki is acquired by or merged with another company or involved in any other business deal (or negotiation of a business deal) involving sale or transfer of all or part of our business or assets, we may transfer or assign your information as part of the transaction. Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred as a business asset.
+
+
+
+We may also share aggregated and anonymized data with our partners, advertisers and other third parties. For example, we may tell studios how many times a particular episode of a television series was watched and by which demographics. 
+
+## Third Party Advertisers
+
+We permit advertisements to be delivered to you by third party Internet advertising companies (also called ad networks or network advertisers). These companies may use cookies, Web beacons, platform device identifiers, software agents, and other technologies to collect non-personally identifiable information about your visits over time on our Service and across other websites to deliver advertisements to you targeted to your interests, measure their effectiveness and personalize advertising content, and to understand the usage and visitation of the Services and the other applications and websites tracked by these advertising companies. We do not have access to or control over cookies, Web beacons, platform device identifiers, software agents, or other technologies that they may use. We are not responsible for the privacy practices of third party advertisers. You should check the privacy policy of the third party advertiser to determine how it handles information it separately collects from you. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers information about some of the Internet advertising companies we may use. To learn about interest based advertising by Tremor visit [Tremor’s privacy policy](http://tremorvideo.com/about-us/privacy/). To learn about Apple’s interest based advertising visit [Apple’s privacy policy](http://www.apple.com/privacy/). 
 
 ## Security
 
-We take reasonable steps to protect personal information from loss and misuse. No Internet transmission is 100% secure. We use reasonable physical, technical, and administrative measures to safeguard personally identifiable information in our possession against loss, theft and unauthorized use, disclosure, or modification. Some email sent to or from the Website may not be secure. Please consider this when sending information to us by email.
+Viki takes commercially reasonable steps to help protect your Information against loss, misuse and unauthorized access, or disclosure. No company can fully prevent security risks, however. To help protect yourself and your information, choose a unique password for our Services and do not use a password on our Services that you would use on any other website or online service. 
 
-## Children's Privacy
+## Dispute Resolution
 
-We do not intentionally collect personal information from children under age 13. If we discover that a child has provided us with personal information online through the Website, we will take reasonable steps to delete this information. If you believe we may have accidentally received personal information from a child under age 13, please immediately contact us at [privacy@viki.com](mailto:privacy@viki.com).
+If you believe that Viki has not adhered to this Statement, please contact Viki by e-mail at [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com"). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Viki are unable to reach a resolution to the dispute, you and Viki will settle the dispute exclusively under the rules of the American Arbitration Association ([www.adr.org](https://web.archive.org/web/20131218015807id_/http%3A//www.viki.com/www.adr.org)). 
 
-## Changes to this Privacy Policy
+## Information Choices 
 
-We may modify, alter or update this Privacy Policy at any time, so we encourage you to review this Privacy Policy frequently. We will not provide individual notice to you of changes to this Privacy Policy, but when we make updates to this Privacy Policy, we will update the last revised date set forth above.
+You may opt out of receiving promotional emails from Viki by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your personal information, including changes to your contact preferences, changes to or deletions of your information or content you post, and requests to opt-out of sharing your personal information with third parties by emailing [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com"). Please note that deletion of your information or content does not ensure complete or comprehensive removal of the content or information posted on the Services. 
+
+Viki gives you certain choices about how we collect personally identifiable information as described in this Policy. But we may not recognize or respond to your Web browser’s “do not track” signal and other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party Web sites or online services. Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site including certain opt-out cookies. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [ http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118) (or in the EU <http://www.youronlinechoices.com/>). 
+
+We encourage you to review the privacy policies of our third party advertisers to learn about your choices about information they collect from you. In addition, the [Network Advertising Initiative offers](http://www.networkadvertising.org/) offers information about some of the Internet advertising companies we may use, including how to opt-out of interest based advertising they deliver. To opt-out of interest based advertising by Tremor visit [Tremor’s privacy policy](http://tremorvideo.com/about-us/privacy/). To learn how to opt-out of interest based advertising by Apple visit the [iAd support page](http://support.apple.com/kb/HT4228). To learn how to opt out of Flurry Analytics mobile tracking and personalized ads/recommendations from Flurry visit [Flurry’s privacy policy](http://www.flurry.com/privacy-policy.html). To opt-out of Google Analytics web tracking you can download [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
+
+## Changes and Updates to this Privacy Policy
+
+From time to time, we may revise the Privacy Policy. To help you stay current of any changes, we note the date the Privacy Policy was last updated above. 
+
+## Viki Contact Information
+
+Please contact Viki with any questions or comments about this Privacy Policy, your Information, our third-party disclosure practices, or your consent choices via [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com"). You can also request access to or that we correct or delete your personal information at any time by emailing [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com"). 
