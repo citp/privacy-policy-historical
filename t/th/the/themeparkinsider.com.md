@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619021306id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeparkinsider.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218065845id_/http%3A//www.themeparkinsider.com/privacy) for the most accurate reproduction.*
 
 # Protecting Your Privacy on Theme Park Insider
 
@@ -32,3 +32,14 @@ As a community-driven website, we are only as successful as our readers allow us
 
 Thanks for visiting,  
 [Robert Niles](http://www.themeparkinsider.com/contact/), Founder and Editor, ThemeParkInsider.com
+
+_May we suggest the following book for holiday reading?_
+
+[
+
+### Stories from a Theme Park Insider
+
+](http://www.amazon.com/gp/product/B005CK59EU/ref=as_li_ss_tl?ie=UTF8&tag=statistieverywri&linkCode=as2&camp=1789&creative=390957&creativeASIN=B005CK59EU)
+
+What's it like to work in a theme park? _Stories from a Theme Park Insider_ takes you inside the famous tunnels and backstage at Walt Disney World's Magic Kingdom for a look at how theme parks really work, sharing the funny moments and embarrassments that can happen when your job is someone else's vacation.  
+Order now: [Kindle](http://www.amazon.com/gp/product/B005CK59EU/ref=as_li_ss_tl?ie=UTF8&tag=statistieverywri&linkCode=as2&camp=1789&creative=390957&creativeASIN=B005CK59EU) | [iBooks](https://itunes.apple.com/us/book/stories-from-theme-park-insider/id450803847?ls=1) | [Paperback](http://www.amazon.com/gp/product/0983813019/ref=as_li_ss_tl?ie=UTF8&tag=statistieverywri&linkCode=as2&camp=1789&creative=390957&creativeASIN=0983813019) | [Kindle (UK)](http://www.amazon.co.uk/gp/product/B005CK59EU/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B005CK59EU&linkCode=as2&tag=violinistcom-21)
