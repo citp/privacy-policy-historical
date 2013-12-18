@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620141219id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218015845id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.*
 
 # piZap - free online photo editor - fun photo effects editor
 
@@ -153,9 +153,4 @@ We respect other people's rights, and expect you to do the same.
 
 
 |    
----|---|---  
-  
-Welcome to piZap online photo editor. PiZap is a free, easy, online photo editor and collage making tool. Edit your pics, make cool picture collages, and decorate your images with filters and stickers. Get creative with 1000's of borders, collage templates, backgrounds, stickers, free timeline covers, and funny webcam effects. PiZap Photo Editor te permite añadir fotos, collages, fotomontajes , efectos, marcos, fondos para fotos, efectos de cámara web y filtros. Gracias por usar piZap! 
-
-© 2013 piZap ®  
-
+---|---|---
