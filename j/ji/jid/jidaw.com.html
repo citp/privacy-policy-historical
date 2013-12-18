@@ -1,680 +1,310 @@
-<!--The following is the downloaded HTML source of the jidaw.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618084136id_/http%3A//jidaw.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jidaw.com privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218025311id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head>
-<title>JIDAW.COM: Privacy Policy</title>
-<meta name="keywords" content="Jidaw.com, Privacy, Policy, Jidaw, Jidaw Systems Limited, Jidaw Systems, IT, IT career, certification">
-<meta name="Description" content="Projects Executed By Jidaw Systems ">
-
-<style>
-TD{font-family:arial,helvetica; font-size:10pt}
-A:hover{font-style: italic;  color:800000}
-BODY{background-color:white}
-.f {color:#767676}
-</style>
-<script language="JavaScript">
-<!--
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-// -->
-
-function MM_timelinePlay(tmLnName, myID) { //v1.2
-  //Copyright 1997 Macromedia, Inc. All rights reserved.
-  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,propNum,theObj,firstTime=false;
-  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
-  tmLn = document.MM_Time[tmLnName];
-  if (myID == null) { myID = ++tmLn.ID; firstTime=true;}//if new call, incr ID
-  if (myID == tmLn.ID) { //if Im newest
-    setTimeout('MM_timelinePlay("'+tmLnName+'",'+myID+')',tmLn.delay);
-    fNew = ++tmLn.curFrame;
-    for (i=0; i<tmLn.length; i++) {
-      sprite = tmLn[i];
-      if (sprite.charAt(0) == 's') {
-        if (sprite.obj) {
-          numKeyFr = sprite.keyFrames.length; firstKeyFr = sprite.keyFrames[0];
-          if (fNew >= firstKeyFr && fNew <= sprite.keyFrames[numKeyFr-1]) {//in range
-            keyFrm=1;
-            for (j=0; j<sprite.values.length; j++) {
-              props = sprite.values[j]; 
-              if (numKeyFr != props.length) {
-                if (props.prop2 == null) sprite.obj[props.prop] = props[fNew-firstKeyFr];
-                else        sprite.obj[props.prop2][props.prop] = props[fNew-firstKeyFr];
-              } else {
-                while (keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]) keyFrm++;
-                if (firstTime || fNew==sprite.keyFrames[keyFrm-1]) {
-                  if (props.prop2 == null) sprite.obj[props.prop] = props[keyFrm-1];
-                  else        sprite.obj[props.prop2][props.prop] = props[keyFrm-1];
-        } } } } }
-      } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
-      if (fNew > tmLn.lastFrame) tmLn.ID = 0;
-  } }
-}
-
-function MM_timelineGoto(tmLnName, fNew, numGotos) { //v2.0
-  //Copyright 1997 Macromedia, Inc. All rights reserved.
-  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,lastKeyFr,propNum,theObj;
-  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
-  tmLn = document.MM_Time[tmLnName];
-  if (numGotos != null)
-    if (tmLn.gotoCount == null) tmLn.gotoCount = 1;
-    else if (tmLn.gotoCount++ >= numGotos) {tmLn.gotoCount=0; return}
-  jmpFwd = (fNew > tmLn.curFrame);
-  for (i = 0; i < tmLn.length; i++) {
-    sprite = (jmpFwd)? tmLn[i] : tmLn[(tmLn.length-1)-i]; //count bkwds if jumping back
-    if (sprite.charAt(0) == "s") {
-      numKeyFr = sprite.keyFrames.length;
-      firstKeyFr = sprite.keyFrames[0];
-      lastKeyFr = sprite.keyFrames[numKeyFr - 1];
-      if ((jmpFwd && fNew<firstKeyFr) || (!jmpFwd && lastKeyFr<fNew)) continue; //skip if untouchd
-      for (keyFrm=1; keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]; keyFrm++);
-      for (j=0; j<sprite.values.length; j++) {
-        props = sprite.values[j];
-        if (numKeyFr == props.length) propNum = keyFrm-1 //keyframes only
-        else propNum = Math.min(Math.max(0,fNew-firstKeyFr),props.length-1); //or keep in legal range
-        if (sprite.obj != null) {
-          if (props.prop2 == null) sprite.obj[props.prop] = props[propNum];
-          else        sprite.obj[props.prop2][props.prop] = props[propNum];
-      } }
-    } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
-  }
-  tmLn.curFrame = fNew;
-  if (tmLn.ID == 0) eval('MM_timelinePlay(tmLnName)');
-}
-
-function MM_initTimelines() { //v4.0
-    //MM_initTimelines() Copyright 1997 Macromedia, Inc. All rights reserved.
-    var ns = navigator.appName == "Netscape";
-    var ns4 = (ns && parseInt(navigator.appVersion) == 4);
-    var ns5 = (ns && parseInt(navigator.appVersion) > 4);
-    document.MM_Time = new Array(2);
-    document.MM_Time[0] = new Array(1);
-    document.MM_Time["Timeline1"] = document.MM_Time[0];
-    document.MM_Time[0].MM_Name = "Timeline1";
-    document.MM_Time[0].fps = 15;
-    document.MM_Time[0][0] = new String("behavior");
-    document.MM_Time[0][0].frame = 84;
-    document.MM_Time[0][0].value = "MM_timelineGoto('Timeline1','1')";
-    document.MM_Time[0].lastFrame = 84;
-    document.MM_Time[1] = new Array(1);
-    document.MM_Time["Timeline2"] = document.MM_Time[1];
-    document.MM_Time[1].MM_Name = "Timeline2";
-    document.MM_Time[1].fps = 15;
-    document.MM_Time[1][0] = new String("behavior");
-    document.MM_Time[1][0].frame = 59;
-    document.MM_Time[1][0].value = "MM_timelineGoto('Timeline2','1')";
-    document.MM_Time[1].lastFrame = 59;
-    for (i=0; i<document.MM_Time.length; i++) {
-        document.MM_Time[i].ID = null;
-        document.MM_Time[i].curFrame = 0;
-        document.MM_Time[i].delay = 1000/document.MM_Time[i].fps;
-    }
-}
-//-->
-</script>
+<!DOCTYPE html><html lang="en" class="cufon-active cufon-ready"><head>
+    <title>Jidaw Systems - Privacy Policy</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="privacy, policy, statement, information">
+    <meta name="description" content="Jidaw System's Privacy Policy">
+    <link rel="shortcut icon" href="images/logo.gif">    
+    <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/grid_12.css">
+    <link rel="stylesheet" type="text/css" href="admin/css/bootstrap.css"> 
+    <link rel="stylesheet" type="text/css" media="screen" href="css/tabs.css">           
+    <link rel="shortcut icon" href="images/logo.jpg">
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="js/jquery-1.7.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+    <script src="js/Vegur-L_300.font.js"></script>
+    <script src="js/Vegur-M_500.font.js"></script>
+    <script src="js/Vegur-R_400.font.js"></script>
+    <script src="js/cufon-replace.js"></script>
+    <script src="js/FF-cash.js"></script>
+    <script src="js/tabs.js"></script>
+	<!--[if lt IE 8]>
+       <div style=' clear: both; text-align:center; position: relative;'>
+         <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+        </a>
+      </div>
+    <![endif]-->
+    <!--[if lt IE 9]>
+   		<script type="text/javascript" src="js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+	<![endif]-->
 </head>
-
-<body bgcolor="#ffffff" text="#000000" link="#0000FF" vlink="#800080" alink="#FF0000" topmargin="0" leftmargin="0" onload="MM_timelinePlay('Timeline1');MM_timelinePlay('Timeline2');" style="text-align: center">
-<a name="link"></a> 
-<div align="center">
-
-<div align="center">
-  <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" id="table38">
-    <tbody><tr>
-		<!-- Row 1 Column 1 -->
-		<td>
-            <a href="http://www.jidaw.com"><img src="http://www.jidaw.com/anilogo.gif" width="72" height="97" alt="There is no preparation without execution" border="0">
-            </a>
-	  </td>
-		<!-- Row 1 Column 2 -->
-		<td align="top">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" id="table39">
-		<tbody><tr>
-			<td align="right" bgcolor="#ffffff" height="24">
-<table width="100%" border="0" cellspacing="0" cellpadding="0" id="table40">
-	<tbody><tr>
-		<td>&nbsp;	</td>
-		<td>&nbsp;
-			
-</td>
-		<td width="265">&nbsp;
-			
-</td>
-	</tr>
-	<tr>
-		<td valign="top">	<img src="http://www.jidaw.com/horizontalnm.gif" width="296" height="24" alt="">
-
-		<a name="top"></a>
-
-		</td>
-		<td valign="top">
-			
-<font size="+1"><i>( <font color="#808040"><b>MASTERCOMPUTERS</b></font> )</i>
-</font>
-		</td>
-		<td width="265">
-			
-<table border="1" width="100%" id="table43" style="border-width: 0px">
-	<tbody><tr>
-		<td bordercolor="#000000">
-		<p align="center"><font size="3">Advertise Online</font></p>
-		<p align="center"><font size="3">Call on: 08035007778</font></p></td>
-	</tr>
-</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-					</td>
-		</tr>
-			<tr>
-			<td height="25">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" id="table41">
-    <tbody><tr>
-      <td width="35">&nbsp;</td><td width="63">&nbsp;</td><td width="48">&nbsp;</td><td width="78">&nbsp;</td><td width="73">&nbsp;</td><td width="55">&nbsp;</td><td width="68">&nbsp;</td><td width="68">&nbsp;</td><td width="60">&nbsp;</td><td width="45">&nbsp;</td>
-    </tr>
-    <tr>
-      <td width="35"><font size="-2">
-		<a href="http://www.jidaw.com/index.html" style="text-decoration: none">
-				HOME</a></font> </td><td width="63"><font size="-2">
-		<a href="http://www.jidaw.com/about.html" style="text-decoration: none">
-				ABOUT US</a></font> </td><td width="48"><font size="-2">
-		<a href="http://www.jidaw.com/digitalnigeria.html" style="text-decoration: none">
-				NIGERIA</a></font> </td><td width="78"><font size="-2">
-		<a href="http://www.jidaw.com/contact.html" style="text-decoration: none">
-				CONTACT US</a></font> </td><td width="73"><font size="-2">
-		<a href="http://www.jidaw.com/links.html" style="text-decoration: none">
-				RESOURCES</a></font> </td><td width="55"><font size="-2">
-		<a title="network training, ccna training, a+ certification, networking, mcse training, microsoft certification, instructor-led, cisco certification, computer, training, courses, IT, I.T., education, train, tutorials, cisco training, comptia training, and more......" href="http://www.jidaw.com/training.html" style="text-decoration: none">
-				TRAINING</a></font> </td><td width="68"><font size="-2">
-		<a href="http://www.jidaw.com/e-learn.html" style="text-decoration: none">
-				E-LEARNING</a></font> </td><td width="68"><font size="-2">
-		<a href="http://www.jidaw.com/certification.html" style="text-decoration: none">
-				CERTIFICATION</a></font> </td><td width="60"><font size="-2">&nbsp;<a href="http://www.jidaw.com/sitemap.html" style="text-decoration: none">
-                    SITEMAP</a></font> </td><td width="45"><font size="-2">
-		<a href="http://www.jidaw.com/help2.html" style="text-decoration: none">
-				HELP</a></font> </td>
-    </tr>
-    <tr>
-      <td width="35">&nbsp;</td><td width="63">&nbsp;</td><td width="48">&nbsp;</td><td width="78">&nbsp;</td><td width="73">&nbsp;</td><td width="55">&nbsp;</td><td width="68">&nbsp;</td><td width="68">&nbsp;</td><td width="60">&nbsp;</td><td width="45">&nbsp;</td>
-    </tr>
-	<tr>
-		<!-- Row 1 Column 1 --><!-- Row 1 Column 2 --><!-- Row 1 Column 3 --><!-- Row 1 Column 4 --><!-- Row 1 Column 5 --><!-- Row 1 Column 6 --><!-- Row 1 Column 7 --><!-- Row 1 Column 8 --><!-- Row 1 Column 9 -->
-	</tr>
-</tbody></table>
-
-			</td>
-		</tr>
-
-		<tr>
-			<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" id="table42">
-<tbody><tr> 
-                  <td align="center">
-<p style="margin-top: 0; margin-bottom: 0">
-<!-- Admedien - ad code starts 728 90-->
-<span id="show_ads_dad422d699fbcc5029aa86f28d39898a_70"></span>
-<script language="javascript" type="text/javascript" src="http://admedien.com/show-ads.js"></script>
-<script language="javascript">
-if (window.ads_dad422d699fbcc5029aa86f28d39898a ){ ads_dad422d699fbcc5029aa86f28d39898a+= 1;}else{ ads_dad422d699fbcc5029aa86f28d39898a =1;}
-ads_dad422d699fbcc5029aa86f28d39898a_70=ads_dad422d699fbcc5029aa86f28d39898a;
-timer_dad422d699fbcc5029aa86f28d39898a70=window.setInterval(function(){
-if(window.gc4ca4238a0b923820dcc509a6f75849b){
-setTimeout("showAdsforContent(70,728,90,'http://admedien.com/publisher-show-ads.php',"+ads_dad422d699fbcc5029aa86f28d39898a_70+",'ads_dad422d699fbcc5029aa86f28d39898a')",1000*(ads_dad422d699fbcc5029aa86f28d39898a_70 -1));
-window.clearInterval(timer_dad422d699fbcc5029aa86f28d39898a70);}},100);
-ads_dad422d699fbcc5029aa86f28d39898a_70_position=0;
-</script>
-<!-- Admedien - ad code  ends -->				
-
-</p>
-					</td>
-                </tr>
-
-              </tbody></table>
-
-			</td>
-		</tr>
-		
-		</tbody></table>
-
-
-		</td>
-		</tr>
-</tbody></table>
-
-</div> 
-
-<table border="1" width="1000" id="table11" style="border-width: 0px">
-	<tbody><tr>
-		<td style="border-style: none; border-width: medium">&nbsp;</td>
-		<td style="border-style: none; border-width: medium">&nbsp;
-		</td>
-		<td style="border-style: none; border-width: medium">&nbsp;</td>
-	</tr>
-</tbody></table>
-<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<table border="1" width="1000" id="table25" style="border-width: 0px">
-	<tbody><tr>
-		<td style="border-style: none; border-width: medium">
-		<p style="margin-top: 0; margin-bottom: 0"><font face="Arial">
-		<a target="_blank" href="http://www.careeraware.com" style="text-decoration: none">
-		<font color="#000000">Home</font></a> &gt;
-		<font color="#000000">
-		<a target="_blank" style="text-decoration: none" href="http://www.jidaw.com/certarticles/index.html">
-		<font color="#000000">Career Content</font></a></font></font></p><p style="margin-top: 0; margin-bottom: 0">&nbsp;</p><div style="border-bottom-style: solid; border-bottom-width: 1px; padding-bottom: 1px">
-			<p style="margin-top: 0; margin-bottom: 0"></p></div>
-		<p style="margin-top: 0; margin-bottom: 0">
-	  <font face="Calibri" size="6">PRIVACY</font></p></td>
-	</tr>
-</tbody></table>
-<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
-<table border="1" width="1000" id="table26" style="border-width: 0px">
-	<tbody><tr>
-		<td valign="top" style="border-style: none; border-width: medium"><blockquote>
-		  <blockquote>
-		    <p align="left"><font size="2" face="Arial"><!-- Begin: addynamo  336 280 begins -->
-<script type="text/javascript">
-	<!--
-	var _adynamo_client = "6a956f6c-bf99-41ed-b3c4-72dfa6649772";
-	var _adynamo_width = 336;
-	var _adynamo_height = 280;
-	//-->
-</script>
-<script type="text/javascript" src="http://static.addynamo.net/ad/js/deliverAds.js"></script>
-<!-- End: addynamo -->Thank 
-		      you for visiting Jidaw.com and reviewing our privacy policy. Our Policy 
-		      is to respect and protect the privacy of our users. This policy statement 
-		      tells you how we collect information from you and how we use it. The 
-		      information we receive depends upon what you do when visiting our 
-		      site. </font></p>
-            <p align="left">&nbsp;</p>
-            <p align="left"><font face="Arial"><strong><font size="2">Your 
-              Email Address: </font></strong><font size="2"><br>
-                When you sign up for some of our services such as the IT Career Newsletter, 
-                Book contest, job link, you enter your email address and a variety 
-                of other personal information if you provide it to us in an E-mail 
-                or a request for information, on a registration form, or on a feedback 
-                or comment form on our site. Neither your email address nor any other 
-                information is ever made public to others by us. This information 
-                is used exclusively by us. </font></font></p>
-            <p align="left"><font size="2" face="Arial"> We use this information to send e-mail and messages to our users on 
-              our content, about our company, and promotional material from our 
-              partners and/or advertisers. <br>
-              We will not disclose, sell or transfer any personal information to 
-              any third party unless required by law or authorized to do so by you. </font></p>
-            <p align="left"><font size="2" face="Arial"><br>
-              Any addition demographic information collected is used solely by us 
-              to gain a better understanding of who our audience is and to respond 
-              to your requests and to provide better services to you, our clients.. 
-              Should you send us an email, we may also use your email address to 
-              respond to your feedback. </font></p>
-            <p align="left">&nbsp;</p>
-            <p align="left"><font face="Arial"><strong><font size="2">Statistical 
-              Data: </font></strong><font size="2"><br>
-                For site management, we will collect and store non-personal information 
-                (i.e.: the name of domain from which you access the Internet; the 
-                date and time you access our site; the Internet address of the web 
-                site from which you linked directly to our site; and the information 
-                you view while visiting our web site) about your visit. This information 
-                is collected for statistical purposes.&nbsp; </font></font></p>
-            <p align="left"><font size="2" face="Arial"> Our server collects this information 
-              for such purposes as assessing what information is of most and least 
-              interest, determining technical design specifications, and identifying 
-              system performance or problem areas. We use the information we collect 
-              to measure the number of visitors to the different sections of our 
-              site, and to help us make our site more useful to visitors. This information 
-              is only used by Jidaw.com and your specific data is never shared with 
-              others. </font></p>
-            <p align="left">&nbsp;</p>
-            <p align="left"><b><font face="Arial">Third Party Advertising: data 
-              collection of non-personally identifying information:</font></b></p>
-            <p align="left"><font face="Arial">We use third-party advertising 
-              companies to serve ads when you visit our website. These companies 
-              may use information (not including your name, address, email 
-              address, or telephone number) about your visits to this and other 
-              websites in order to provide advertisements about goods and services 
-              of interest to you. If you would like more information about this 
-              practice and to know your choices about not having this information 
-              used by these companies, </font> <a target="_blank" href="http://www.google.com/privacy_ads.html"> click here</a><font face="Arial">.</font></p>
-            <p align="left">&nbsp;</p>
-            <p align="left" style="margin-top: 0; margin-bottom: 0"><b> <font face="Arial">Copyright</font></b></p>
-            <p align="justify" style="margin-top: 0; margin-bottom: 0"> <font face="Arial">All content included on this site is the property 
-              of Jidaw or its content suppliers. This site or any portion of this 
-              site may not be reproduced, duplicated, copied, sold, resold, 
-              visited, or otherwise exploited without the consent of Jidaw.</font></p>
-            <p align="left">&nbsp;</p>
-            <p align="left"><font face="Arial"><strong><font size="2">How 
-              to contact us</font></strong><font size="2"><br>
-                If you have questions or concerns regarding this statement, you should 
-                first contact us through the form on this page: </font></font><font size="2" face="Arial"><a href="http://www.jidaw.com/contact.html">http://www.jidaw.com/contact.html</a></font></p>
-            <p align="left"><strong><font size="2" face="Arial">(FOR 
-              THE PURPOSES OF THIS POLICY JIDAW.COM INCLUDES AND REFERS TO JIDAW 
-              SYSTEMS LIMITED)</font></strong></p>
-			<p align="left">&nbsp;
-			<!-- Admedien - ad code starts 160 600 -->
-<span id="show_ads_dad422d699fbcc5029aa86f28d39898a_72"></span>
-<script language="javascript" type="text/javascript" src="http://admedien.com/show-ads.js"></script>
-<script language="javascript">
-if (window.ads_dad422d699fbcc5029aa86f28d39898a ){ ads_dad422d699fbcc5029aa86f28d39898a+= 1;}else{ ads_dad422d699fbcc5029aa86f28d39898a =1;}
-ads_dad422d699fbcc5029aa86f28d39898a_72=ads_dad422d699fbcc5029aa86f28d39898a;
-timer_dad422d699fbcc5029aa86f28d39898a72=window.setInterval(function(){
-if(window.gc4ca4238a0b923820dcc509a6f75849b){
-setTimeout("showAdsforContent(72,160,600,'http://admedien.com/publisher-show-ads.php',"+ads_dad422d699fbcc5029aa86f28d39898a_72+",'ads_dad422d699fbcc5029aa86f28d39898a')",1000*(ads_dad422d699fbcc5029aa86f28d39898a_72 -1));
-window.clearInterval(timer_dad422d699fbcc5029aa86f28d39898a72);}},100);
-ads_dad422d699fbcc5029aa86f28d39898a_72_position=0;
-</script>
-<!-- Admedien - ad code  ends -->
-			</p>
-            <p>&nbsp;</p>
-</blockquote>
-    </blockquote></td>
-		
-		
-		<td width="12" style="border-style: none; border-width: medium">&nbsp;</td>
-		<td width="445" valign="top" style="border-style: none; border-width: medium">
-		<table border="1" width="98%" id="table27" style="border-width: 0px">
-			<tbody><tr>
-				<td style="border-style: none; border-width: medium">&nbsp;
-					
-					<!-- AddThis Button BEGIN -->
-				<div class="addthis_toolbox addthis_default_style ">
-					<a class="addthis_button_facebook_like" fb:like:layout="button_count">
-					</a><a class="addthis_button_tweet"></a>
-					<a class="addthis_counter addthis_pill_style"></a></div>
+<body>
+<!--==============================header=================================-->
+<header>
+  <div class="main"><a href="index.html"><img src="images/logo.gif" alt="" align="left" style="padding-bottom:5px; padding-right:5px; margin-top:5px;height:70px;"></a>
+    <h1><span style="font-size:40px; color:#CCC">Jidaw <span style="color:#00A8F9">Systems</span></span><br>
+      <div style="color:fff; margin-top:5px; color:#FFF">(MASTERCOMPUTERS)</div>
+    </h1>
+      <div style="float:right; font-size:11px">
+      <form action="search.html" method="get">
+      <p>
+      <input type="text" name="find" style="margin-top:10px;" placeholder="Search for content">
+      <input type="submit" value="Search" name="search">
+      </p>
+      </form>
+      </div>
+    <nav>
+      <ul class="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+                <li><a href="category/IT_Career">IT Career</a></li>
+                <li><a href="category/ICT_Nigeria">ICT Nigeria</a></li>
+                <li><a href="category/Youth">Youth</a></li>
+                <li><a href="category/Innovation">Innovation</a></li>
+                <li><a href="category/Children">Children</a></li>
+                <li><a href="category/IT_News">IT News</a></li>
+                <li><a href="category/Training">Training</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+              <li><a href="sitemap.html">Site Map</a></li>            
+      </ul>
+    </nav>
+  </div>
+</header>   
+<!--==============================content================================-->
+<section id="content" class="border subpage-content"><div class="ic"></div>
+	<div class="container_12">
+        <div align="center" style="padding-bottom:5px; padding-left:20px;  width:725px; float:left;">
+            <a href="http://nigeriacomputers.com/category/career-development/"><img src="images/banner1.jpg"></a>
+        </div>
+    
+      <div class="advert" align="center">
+     
+    <h1>Advertise Here!</h1>
+    Call 
+    +234 (0) 8035007778
+        </div>
+    
+      <div class="grid_8" style="overflow:none;">
+      <hr>
+          <div class="pad-1">
+          
+              <h2 class="h2"><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 109px; height: 40px;"><canvas width="138" height="40" style="width: 138px; height: 40px; top: 0px; left: -1px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 85px; height: 40px;"><canvas width="104" height="40" style="width: 104px; height: 40px; top: 0px; left: -1px;"></canvas><cufontext>Policy</cufontext></cufon></h2>
+              <p></p><div align="left" style="padding-right:5px; float:left; overflow:none;">
+                <img src="images/banner2.jpg">
+    
+    </div>
+    
+    <p></p>&nbsp;Thank you for visiting Jidaw.com and reviewing our privacy policy. Our Policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. The information we receive depends upon what you do when visiting our site.
+<p>&nbsp; </p>
+    <p align="left"><strong>Your Email Address: </strong><br>
+      When you sign up for some of our services such as the IT Career Newsletter, Book contest, job link, you enter your email address and a variety of other personal information if you provide it to us in an E-mail or a request for information, on a registration form, or on a feedback or comment form on our site. Neither your email address nor any other information is ever made public to others by us. This information is used exclusively by us.</p>
+    <p align="left">We use this information to send e-mail and messages to our users on our content, about our company, and promotional material from our partners and/or advertisers. <br>
+      We will not disclose, sell or transfer any personal information to any third party unless required by law or authorized to do so by you.</p>
+    <p align="left"><br>
+      Any addition demographic information collected is used solely by us to gain a better understanding of who our audience is and to respond to your requests and to provide better services to you, our clients.. Should you send us an email, we may also use your email address to respond to your feedback.</p>
+    <p align="left">&nbsp;</p>
+    <div align="left" style="padding-right:5px; padding-bottom:5px; width:170px; float:left; min-height:600px;">
+            <a href="http://nigeriacomputers.com/?s=%22career+development%22"><img src="images/banner3.jpg"></a>
+          </div>
+    <p align="left"><strong>Statistical Data:</strong><br>
+      For site management, we will collect and store non-personal information (i.e.: the name of domain from which you access the Internet; the date and time you access our site; the Internet address of the web site from which you linked directly to our site; and the information you view while visiting our web site) about your visit. This information is collected for statistical purposes.</p>
+    <p align="left">Our server collects this information for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors. This information is only used by Jidaw.com and your specific data is never shared with others.</p>
+    <p align="left">&nbsp;</p>
+    <p align="left"><strong>Third Party Advertising: data collection of non-personally identifying information:</strong></p>
+    <p align="left">We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a target="_blank" href="http://www.google.com/privacy_ads.html">click here</a>.</p>
+    <p align="left">&nbsp; </p>
+    <p align="left"><strong>Copyright</strong></p>
+    <p align="justify">All content included on this site is the property of Jidaw or its content suppliers. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited without the consent of Jidaw.</p>
+    <p align="left">&nbsp; </p>
+    <p align="left"><strong>How to contact us</strong><br>
+      If you have questions or concerns regarding this statement, you should first contact us through the form on this page:<a href="http://www.jidaw.com/contact.html">http://www.jidaw.com/contact.html</a></p>
+    <p align="left"><strong>(FOR THE PURPOSES OF THIS POLICY JIDAW.COM INCLUDES AND REFERS TO JIDAW SYSTEMS LIMITED)</strong></p>
+    <hr><br>
+              
+          <h2 style="font-size:36px"></h2>
+          </div>
+      </div>
+      <div class="grid_4">
+      <hr>
+        <div class="pad-1">
+        
+  <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4ce69b1a33370ab4"></script>
 <!-- AddThis Button END -->
-			  </td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium">&nbsp;
-								<a href="http://ng.linkedin.com/in/jidaw">
-				<img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Jidaw List's profile on LinkedIn"></a>
-				</td>
-			</tr>
-			<tr>
-				<td align="center" style="border-style: none; border-width: medium">&nbsp;
-					<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-<script>
-new TWTR.Widget({
-  version: 2,
-  type: 'profile',
-  rpp: 9,
-  interval: 6000,
-  width: 400,
-  height: 745,
-  theme: {
-    shell: {
-      background: '#333333',
-      color: '#ffffff'
-    },
-    tweets: {
-      background: '#000000',
-      color: '#ffffff',
-      links: '#4aed05'
-    }
-  },
-  features: {
-    scrollbar: false,
-    loop: false,
-    live: false,
-    hashtags: true,
-    timestamp: true,
-    avatars: false,
-    behavior: 'all'
-  }
-}).render().setUser('jidawlist').start();
-</script>
-
-					
-			  </td>
-			</tr>
-			<tr>
-				<td align="center" valign="top" style="border-style: none; border-width: medium">&nbsp;<p>&nbsp;<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjidawsystems&amp;width=350&amp;connections=48&amp;stream=false&amp;header=false&amp;height=730" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:350px; height:730px;" allowtransparency="true" name="I3"></iframe>&nbsp;
-
-			  </p></td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-		</tbody></table>
-		<p>&nbsp;
-			
-		  <table border="1" width="445" id="table20" style="border-width: 0px">
-				<tbody><tr>
-					<td width="220" rowspan="3" style="border-style: none; border-width: medium">
-					<p style="margin-top: 0; margin-bottom: 0">&nbsp;
- 							<a href="http://www.jidaw.com/training.html">
-							<img src="http://www.jidaw.com/banner/mastercomputers160600.gif" alt="IT Training and Certification" border="0">
-							</a>
-				  </p></td>
-					<td width="221" align="center" style="border-style: none; border-width: medium" bgcolor="#BFC2BE">
-					<p style="margin-top: 0; margin-bottom: 0"><b>
-					<font face="Arial" color="#FFCC66" size="7">Career. Jobs. 
-					Empower. IT.</font></b></p>
-					<p style="margin-top: 0; margin-bottom: 0"><font size="4">Wishing you the best in your 
-					Career Development. Be Creative and Persevere ...You will get there</font></p><p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				</tr>
-				<tr>
-					<td width="221" align="center" style="border-style: none; border-width: medium">&nbsp;</td>
-				</tr>
-				<tr>
-					<td width="221" align="center" style="border-style: none; border-width: medium" bgcolor="#BFC2BE">
-					<p style="margin-top: 0; margin-bottom: 0">&nbsp;
-							 <!-- Facebook Badge START -->
-					<a rel="nofollow&quot;" href="http://www.facebook.com/mastercomputers" title="Jidaw List" target="_TOP">
-					<img src="http://badge.facebook.com/badge/1598867285.2373.942631150.png" alt="Jidaw List" style="border: 0px;"></a><br>
-<!-- Facebook Badge END -->
-					</p></td>
-				</tr>
-		</tbody></table>
-		<table border="1" width="445" id="table30" style="border-width: 0px">
-			<tbody><tr>
-				<td width="88" style="border-style: none; border-width: medium">&nbsp;</td>
-				<td width="276" style="border-style: none; border-width: medium">&nbsp;</td>
-				<td width="88" style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td width="88" style="border-style: none; border-width: medium">&nbsp;</td>
-				<td width="276" bgcolor="#BFC2BE" style="border-style: none; border-width: medium">
-							<b><font size="4">Recommended Links</font></b><p>
-							<font face="Arial">
-							<a style="text-decoration: none; font-weight: 700" target="_blank" href="http://www.careeraware.com/employ/index.html">
-							<font color="#FF0000">Jobs in Nigeria</font></a></font></p>
-							<p><font face="Arial">
-							<a target="_blank" href="http://www.jidaw.com/netseminar.html" style="text-decoration: none; font-weight: 700">
-							<font color="#FF0000">Free Career Development 
-							Seminar</font></a></font></p>
-							<p>
-							<font color="#FF0000" face="Arial">
-							<a target="_blank" style="text-decoration: none; font-weight: 700" href="http://www.careeraware.com/content/index.html">
-							<font color="#FF0000">Jobs &amp; Career Tips</font></a></font></p>
-							<p>
-							<font color="#FF0000" face="Arial">
-							<a target="_blank" style="font-weight: 700; text-decoration: none" href="http://www.jidaw.com/training.html">
-							<font color="#FF0000">IT Training &amp; Certification</font></a></font></p><p>
-							<font color="#FF0000" face="Arial">
-							<a target="_blank" style="font-weight: 700; text-decoration: none" href="http://www.nigeriacomputers.com/">
-							<font color="#FF0000">Nigeria Computers</font></a></font></p></td>
-				<td width="88" style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-		</tbody></table>
-		</p><p>&nbsp;</p>
-		<table border="1" width="100%" id="table44">
-			<tbody><tr>
-				<td style="border-style: none; border-width: medium">
-				<div style="background-color: #FFFFFF">
-		<p align="center">
-		<span lang="EN" style="font-family: Calibri; font-weight:700">
-		<font size="6" color="#C8DC56">DISRUPT THE STATUS QUO!</font></span></p>
-		<table border="1" width="100%" id="table45" bgcolor="#C0C0C0" style="border-width: 0px">
-			<tbody><tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">&nbsp;</td>
-				<td style="border-style: none; border-width: medium" align="justify">&nbsp;</td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>1.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">Ideas are not enough. You must be action 
-						oriented to improve your future.</font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>2.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">Don't just think but act. You get results 
-						not only from thinking but from acting.</font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>3.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">You have ideas. You want to achieve. You 
-						want opportunity. </font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>4.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">But what are you still doing in your 
-						comfort zone? The comfort zone is a dangerous place.</font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>5.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">"I wanted to", "I was going to" cannot 
-						put on a light bulb, not to talk of moving you forward. </font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>6.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">Aren't you tired of hoping and 
-						criticizing? Stop defending status quo that locks you 
-						down. </font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>7.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">GO on the offensive now with your IT 
-						Education. </font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>8.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">What is the use of ideas without action? </font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>9.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">Start becoming the achiever you deserve 
-						to be.</font></span></p>
-				<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">
-				<font face="Arial" color="#FFFFFF"><b>10.</b></font></td>
-				<td style="border-style: none; border-width: medium" align="justify">
-				<p style="margin-top: 0; margin-bottom: 0">
-						<span lang="EN" style="font-family: Arial; font-weight:700">
-						<font size="3">MAKE SURE THERE IS NO STANDING ROOM FOR 
-						EXCUSES.</font></span></p></td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-			<tr>
-				<td style="border-style: none; border-width: medium" align="right" bgcolor="#000000">&nbsp;</td>
-				<td style="border-style: none; border-width: medium" align="justify">&nbsp;</td>
-				<td style="border-style: none; border-width: medium">&nbsp;</td>
-			</tr>
-		</tbody></table>
-				</div>
-				</td>
-		  </tr>
-		</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<table border="1" width="1000" id="table29" style="border-width: 0px">
-	<tbody><tr>
-		<td style="border-style: none; border-width: medium">&nbsp;</td>
-		<td style="border-style: none; border-width: medium">&nbsp;</td>
-	</tr>
-	<tr>
-		<td style="border-style: none; border-width: medium"><i><font size="-2"><a href="#top">Page Top</a></font></i></td>
-		<td style="border-style: none; border-width: medium">&nbsp;</td>
-	</tr>
-</tbody></table>
-<p>Original content provided by Jidaw.com. Copyright © 1989-2012 
-		Jidaw Systems Limited All rights reserved.</p>
-			<table width="1000" border="0" cellspacing="0" cellpadding="0" id="table47">
-    <tbody><tr>
-      <td width="35"><font size="-2"><a href="http://www.jidaw.com/index.html">
-				HOME</a></font> </td><td width="63"><font size="-2"><a href="http://www.jidaw.com/about.html">
-				ABOUT US</a></font> </td><td width="48"><font size="-2"><a href="http://www.jidaw.com/digitalnigeria.html">
-				NIGERIA</a></font> </td><td width="78"><font size="-2"><a href="http://www.jidaw.com/contact.html">
-				CONTACT US</a></font> </td><td width="73"><font size="-2"><a href="http://www.jidaw.com/links.html">
-				RESOURCES</a></font> </td><td width="55"><font size="-2"><a title="network training, ccna training, a+ certification, networking, mcse training, microsoft certification, instructor-led, cisco certification, computer, training, courses, IT, I.T., education, train, tutorials, cisco training, comptia training, and more......" href="http://www.jidaw.com/training.html">
-				TRAINING</a></font> </td><td width="68"><font size="-2"><a href="http://www.jidaw.com/e-learn.html">
-				E-LEARNING</a></font> </td><td width="68"><font size="-2"><a href="http://www.jidaw.com/certification.html">
-				CERTIFICATION</a></font> </td><td width="60"><font size="-2">&nbsp;<a href="http://www.jidaw.com/sitemap.html">
-                    SITEMAP</a></font> </td><td width="45"><font size="-2"><a href="http://www.jidaw.com/help2.html">
-				HELP</a></font> </td>
-    </tr>
-	<tr>
-		<!-- Row 1 Column 1 --><!-- Row 1 Column 2 --><!-- Row 1 Column 3 --><!-- Row 1 Column 4 --><!-- Row 1 Column 5 --><!-- Row 1 Column 6 --><!-- Row 1 Column 7 --><!-- Row 1 Column 8 --><!-- Row 1 Column 9 -->
-	</tr>
-</tbody></table>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<!-- AddThis Smart Layers BEGIN -->
+<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51fe1f3e0df8ca5c"></script>
 <script type="text/javascript">
-_uacct = "UA-292247-1";
-urchinTracker();
-</script>	
+  addthis.layers({    'theme' : 'dark',
+    'share' : {
+      'position' : 'left',
+      'numPreferredServices' : 5
+    },  
+    'whatsnext' : {},  
+    'recommended' : {
+      'title': 'Recommended for you:'
+    } 
+  });
+</script>
+<!-- AddThis Smart Layers END -->
+<div class="tabs">
+  <ul class="nav">
+    <li class="selected"><a href="#tab-1">Latest</a></li>
+    <li><a href="#tab-2">Popular</a></li>
+  </ul>
+  <div id="tab-1" class="tab-content" style="display: block;">
+    <div class="inner">
+            <div class="wrap block-3 border-1"> <img src="admin/pictures/page/thumbs/thumb-default.jpg" alt="" class="img-indent" width="70">
+        <div class="extra-wrap">
+          <p class="color-1" style="font-size:16px;"><b>Students face the Reality</b></p>
+          <div class="story"> Truly there is potential in the youth. We at Jidaw do not just see but we are amazed by the potentia </div>
+          <b>
+            <time>
+              2013-09-28 | 07:15 am            </time>
+            </b>
+          <p class="color-2"><a href="page/Students_face_the_Reality" class="link">Read more</a></p>
+        </div>
+      </div>
+            <div class="wrap block-3 border-1"> <img src="admin/pictures/page/thumbs/thumb-default.jpg" alt="" class="img-indent" width="70">
+        <div class="extra-wrap">
+          <p class="color-1" style="font-size:16px;"><b>Securing Nigeria's Future through ICT: The Role of Youths 2</b></p>
+          <div class="story"> Empowerment is about knowledge. The youth need REAL knowledge and appreciation about ICT - what ICT  </div>
+          <b>
+            <time>
+              2013-09-28 | 07:10 am            </time>
+            </b>
+          <p class="color-2"><a href="page/Securing_Nigerias_Future_through_ICT_The_Role_of_Youths_2" class="link">Read more</a></p>
+        </div>
+      </div>
+            <div class="wrap block-3 border-1"> <img src="admin/pictures/page/thumbs/thumb-default.jpg" alt="" class="img-indent" width="70">
+        <div class="extra-wrap">
+          <p class="color-1" style="font-size:16px;"><b>Securing Nigeria's Future through ICT: The Role of Youths 1</b></p>
+          <div class="story"> How should Nigeria plan for its future? What is Nigeria's future? Is oil Nigeria's future?  </div>
+          <b>
+            <time>
+              2013-09-28 | 07:07 am            </time>
+            </b>
+          <p class="color-2"><a href="page/Securing_Nigerias_Future_through_ICT_The_Role_of_Youths_1" class="link">Read more</a></p>
+        </div>
+      </div>
+            <div class="wrap block-3 border-1"> <img src="admin/pictures/page/thumbs/thumb-default.jpg" alt="" class="img-indent" width="70">
+        <div class="extra-wrap">
+          <p class="color-1" style="font-size:16px;"><b>Nigeria Computer Society pays courtesy visits to Ministry of CommTech and NITDA</b></p>
+          <div class="story"> Delegations from the Nigeria Computer Society led by its President, Professor David O. Adewumi recen </div>
+          <b>
+            <time>
+              2013-09-28 | 07:02 am            </time>
+            </b>
+          <p class="color-2"><a href="page/Nigeria_Computer_Society_pays_courtesy_visits_to_Ministry_of_CommTech_and_NITDA" class="link">Read more</a></p>
+        </div>
+      </div>
+          </div>
+  </div>
+  <div id="tab-2" class="tab-content" style="display: none;">
+    <div class="inner">
+            <div class="wrap block-3 border-1"> <img src="admin/pictures/page/thumbs/thumb-default.jpg" alt="" class="img-indent" width="70">
+        <div class="extra-wrap">
+          <p class="color-1" style="font-size:16px;"><b>Don't joke with Desire</b></p>
+          <div class="story"> Planning and research are important in your training adventure. But are those all it takes to succee </div>
+          <b>
+            <time>
+              2013-09-28 | 06:16 am            </time>
+            </b>
+          <p class="color-2"><a href="page/Dont_joke_with_Desire" class="link">Read more</a></p>
+        </div>
+      </div>
+            <div class="wrap block-3 border-1"> <img src="admin/pictures/page/thumbs/thumb-default.jpg" alt="" class="img-indent" width="70">
+        <div class="extra-wrap">
+          <p class="color-1" style="font-size:16px;"><b>ICT Regulatory and Professional Activities Nigeria</b></p>
+          <div class="story"> Sectoral and National bodies exist to take care of the interests of different players in Nigeriaâ� </div>
+          <b>
+            <time>
+              2013-09-28 | 06:21 am            </time>
+            </b>
+          <p class="color-2"><a href="page/ICT_Regulatory_and_Professional_Activities_Nigeria" class="link">Read more</a></p>
+        </div>
+      </div>
+            <div class="wrap block-3 border-1"> <img src="admin/pictures/page/thumbs/thumb-default.jpg" alt="" class="img-indent" width="70">
+        <div class="extra-wrap">
+          <p class="color-1" style="font-size:16px;"><b>Level of OSS deployment and usage in Nigeria</b></p>
+          <div class="story"> Where is Open Source Software (OSS) in Nigeria? What is the state of OSS in Nigeria?  </div>
+          <b>
+            <time>
+              2013-09-28 | 06:30 am            </time>
+            </b>
+          <p class="color-2"><a href="page/Level_of_OSS_deployment_and_usage_in_Nigeria" class="link">Read more</a></p>
+        </div>
+      </div>
+            <div class="wrap block-3 border-1"> <img src="admin/pictures/page/thumbs/thumb-default.jpg" alt="" class="img-indent" width="70">
+        <div class="extra-wrap">
+          <p class="color-1" style="font-size:16px;"><b>The purpose: Knowledge gives birth to Value</b></p>
+          <div class="story"> Why do you learn? How do you determine if your learning effort is worthwhile? </div>
+          <b>
+            <time>
+              2013-09-28 | 06:25 am            </time>
+            </b>
+          <p class="color-2"><a href="page/The_purpose_Knowledge_gives_birth_to_Value" class="link">Read more</a></p>
+        </div>
+      </div>
+          </div>
+  </div>
+</div>
+<p align="center">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjidawsystems&amp;width=260&amp;connections=43&amp;stream=false&amp;header=false&amp;height=235" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:235px;" allowtransparency="true" name="I3"></iframe>
+</p>
+<p align="center">
+</p><h2><cufon class="cufon cufon-canvas" alt="follow " style="width: 101px; height: 40px;"><canvas width="130" height="40" style="width: 130px; height: 40px; top: 0px; left: -1px;"></canvas><cufontext>follow </cufontext></cufon><a href="https://twitter.com/jidawlist" target="_blank"><cufon class="cufon cufon-canvas" alt="@jidawlist" style="width: 150px; height: 40px;"><canvas width="175" height="40" style="width: 175px; height: 40px; top: 0px; left: -1px;"></canvas><cufontext>@jidawlist</cufontext></cufon></a></h2>
+<a class="twitter-timeline" href="https://twitter.com/jidawlist" data-widget-id="389948470351499264">Tweets by @jidawlist</a>
+<script>!function(d,s,id){var 
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<p></p>
+<div style="border:#09F solid dotted; background:#E8F3FF; padding:5px; width:100%;">
+<div class="lists wrap">
+                    	<ul class="list-1 border-2">
+</ul>
+          </div></div>
 
-		
+                     <div align="center"></div>
+                        <h4 class="color-3"></h4>
+</div>
+      </div> 
+      <div class="grid_12"></div>       
+      <div class="clear"></div>
+    </div>
+</section> 
+<!--==============================footer=================================-->
+<footer>
+  <div id="footer">
+    <!-- ####################################################################################################### -->
+    <div class="fl_left">
+            <address style="width:300px; margin-left:0px;">
+        Tel:  234-1-7940562,  234-1-8958064<br>        Mobile:  234-8052647395,  234-7052509148,  234-8035007778<br>                Email:         <a href="mailto:training@jidaw.com">training@jidaw.com</a>
+        ,         <a href="mailto:info@jidaw.com">info@jidaw.com</a>
+        <br>      </address>
+    </div>
+    <div class="fl_right">
+      <div id="social">
+        <p><strong style="color:#999">Stay Up to Date With Whats Happening</strong></p>
+        <ul>
+                    <li><a style="background-position:0 0;" href="http://twitter.com/jidawlist" target="_blank" title="Join us on Twitter">Twitter</a></li>
+                    <li><a style="background-position:-142px 0;" title="Join us on Facebook" target="_blank" href="https://www.facebook.com/mastercomputers?fref=ts">Facebook</a></li>
+                    <li><a style="background-position:-71px 0;" title="Join us on Google+" target="_blank" href="http://www.linkedin.com/company/378386?trk=tyah">LinkedIn</a></li>
+                  </ul>
+      </div>
+    </div>
+    <div id="copyright">
+    <p class="fl_left"><a href="admin/dashboard.php"><img src="images/admin.gif" alt="Admin Login" style="padding-bottom:2px; height:26px;" title="Admin Login"></a></p>
+    <p class="fl_left">Original content provided by <a href="http://www.jidaw.com">Jidaw.com</a>. Copyright © 2013 All rights reserved.</p>
+    <p class="fl_right">Powered by <a target="_blank" title="Visit our Website" href="http://bandpesolutions.com">&nbsp;<img src="images/bnp.gif" width="37" height="21" align="absmiddle" style="border:#F9F">&nbsp;B&amp;P e-solutions</a></p>
+  </div>
+        <div align="center"><a href="http://nigeriacomputers.com/tech-news/development-advisory-support-and-consulting-nigeria/">Web Services</a> | <a href="http://nigeriacomputers.com/tech-news/development-advisory-support-and-consulting-nigeria/">ICT DASC</a> | <a href="http://www.ebusinessnigeria.com/ebusiness/subscribe.html">Newsletter</a> | <a href="http://www.jidaw.com/contact.html">Contact</a> | <a href="http://www.jidaw.com/about.html">About</a> |<a href="http://www.jidaw.com/privacy.html">Privacy Policy</a> | <a href="http://www.jidaw.com/disclaimer.html">Disclaimer</a> | <a href="http://www.jidaw.com/sitemap.html">Sitemap</a></div>
 
-</div></body></html>
+    <!-- ####################################################################################################### -->
+  </div>
+</footer>
+<script>
+	Cufon.now();
+</script>
+
+</body></html>
