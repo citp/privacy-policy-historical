@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517120703id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218071707id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Kroger
 
@@ -72,7 +72,7 @@ The Kroger Co.
 Cincinnati, OH 45202  
 
 
-This privacy policy was posted and is effective as of July 10, 2009. We reserve the right to change our privacy policy at any time. You can always view the current Privacy Policy by clicking on the Privacy Policy link at the bottom of any page of [OwensMarket.com](http://www.owensmarket.com/) . 
+This privacy policy was posted and is effective as of July 10, 2009. We reserve the right to change our privacy policy at any time. You can always view the current Privacy Policy by clicking on the Privacy Policy link at the bottom of any page of[Kroger.com](http://%2Cwww.kroger.com/). 
 
 ## The Kroger family of stores includes:
 
