@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616054025id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218035040id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
 
 # North Point Ministries
 
@@ -22,7 +22,7 @@ NPM may place an electronic "cookie" in the browser files of a guest's computer.
 
 ### Our Use Of Analytics
 
-NPM may use Google Analytics to help us gather details about usage of our websites. Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. For more information please visit <http://www.google.com/policies/privacy/>.
+NPM may use Google Analytics to help us gather details about usage of our websites. Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. For more information please visit <http://www.google.com/policies/privacy/>.
 
 ### Internet Communication
 
