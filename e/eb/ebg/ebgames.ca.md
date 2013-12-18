@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebgames.ca privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521135131id_/http%3A//www.ebgames.ca/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.ca privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218072532id_/http%3A//www.ebgames.ca/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Buy New and Used Games | EBGames
 
