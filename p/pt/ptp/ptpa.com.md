@@ -1,143 +1,178 @@
-> *The following text is extracted and transformed from the ptpa.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116072135id_/http%3A//www.ptpamedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptpa.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218054509id_/http%3A//ptpa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - PTPA
 
-### Information We Collect and How We Use It
+**PTPA.com Privacy Policy**
 
-##### Information You Provide Us.
+**PTPA.COM PRIVACY POLICY**
 
-PTPA Media collects personal information from you when you register with our site, update your profile, interact with other members, and use various features of our site. To register with PTPA Media, you must provide your name and e-mail address, and may also provide your date of birth and postal/zip code.
+This privacy policy applies to users of the PTPA.com website (the “Site”) which is a part of PTPA Media Inc.This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
-We also may request and retain information about your interests and activities, your opinion about products and services that we offer or are offered by a third party, your demographic information, your interaction with other users, and your use of the website. From time to time, we may ask you to respond to surveys or other requests for information, and we'll collect the information you provide. We may also collect information from you when you participate in giveaways and promotions offered on our Site.
+**1\. Scope**
 
-### Information Other Sources Provide Us.
+This privacy policy applies only to the Site. It does not apply to information collected through any other website or to the practices of companies that PTPA Media does not control. Please note that the Site may contain links to other websites. If you click on a link to another website, this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
 
-We may also periodically obtain both personal and non-personal information about you from business partners, contractors, other third parties and public resources, and add it to other information we have collected. 
+**2\. What information the Site collects**
 
-All personally identifiable information that we collect may become part of your PTPA Media profile, and may be used by PTPA Media as provided in this Privacy Policy or as disclosed at the time you provide the information or as otherwise agreed by you. 
+We limit the personal information that we collect to what is necessary for the purposes that we have identified. The types of information that we collect include:
 
-##### Information You Provide Us About Others.
+**Information you provide directly to us:**
 
-We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, information that may interest them or messages (such as invitations) through our system, we may store your personal information and the personal information of each such recipient. 
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
 
-### Use of Other Technology To Collect Information
+• Registration and contact information, such as name, email address, postal address, phone number, and mobile number;  
+• username and password;  
+• information posted in community discussions and other interactive online features;  
+• search queries conducted on the Site; and  
+• correspondence you send to us.  
+**Information automatically collected when you visit and interact with the Site:**
 
-##### Web Log Files.
+When you visit and interact with the Site, certain information may be collected automatically, including:
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+• your computer’s Internet Protocol (IP) address;  
+• your browser type and operating system;  
+• the web pages you were visiting immediately before and after you came to the Site;  
+• activities within community discussions;  
+• web pages and advertisements that you view, and links that you click on, within the Site;  
+• information about the searches you perform on the Site and how you use the results of those searches;  
+• information about the services that you use on the Site, how frequently you use them; and your responses to the offerings and advertisements presented on the Site, including those available through third party websites  
+• your bandwidth speed and information about the software programs that are installed on your computer;  
+• aggregated data about email click-through rates and user video viewing;  
+• location data and other information about mobile devices used to access and interact with the Site;  
+• standard server log information; and  
+• information collected through HTML cookies, Flash cookies, web beacons, and similar technologies.
 
-We use this information to analyze trends, to administer the website, to track users’ movements around the Website, and to gather demographic information about our user base as a whole. We may also use individual information we collect through web logs to send you targeted offers and other communications. 
+For more information, please see our discussion of cookies and other technologies.
 
-##### Cookies.
+**Information we collect from other sources:**
 
-When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site, personalize your online experience, and help provide information that is relevant to you. 
+We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:
 
-cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. 
+• if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;  
+• demographic data, such as age range, gender, and interests;  
+• advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and  
+• unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.  
+Please note that the Site may combine the information that we collect with information we obtain from third-party sources.
 
-Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to use some of the interactive features offered on our website. 
+**3\. How We Use the Information that We Collect**
 
-Some of our business partners (e.g., advertisers) use cookies on the website. We have no access to or control over these cookies. [See the “Third Parties” section.] 
+We collect information for one or more of the following purposes:
 
-##### Clear Gifs (Web Beacons/Web Bugs
+**Email Communications:**
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. Information gathered by clear gifs may be tied to our members’ personally identifiable information. 
+We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to the Site, and promotional messages about our own or our marketing partners’ products and services. If you signed up for one of our email newsletters, we also will send you the newsletter that you requested.
 
-Clear gifs may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. We also use clear gifs in our HTML-based e-mails to let us know which e-mails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+**Mobile Communications:**
 
-### Uses of Information
+With your consent, we may use your mobile number to send you promotions, notifications, or other services.
 
-##### In General.
+**Advertising:**
 
-We may use information that we collect about you to create and manage your member profile, feature you in one or more areas of our site, communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties, develop and display content and advertising tailored to your interests on our site and on other sites, perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others, administer contests and giveaways, enforce our terms and conditions, and manage our business. If other uses are contemplated for information we are asking you to provide, they will be described to you at the time of collection. 
+In order to provide our readers with free access to our content, we display advertisements on the Site. To create a more customized online experience for you, some of the ads you may receive are tailored to your preferences using information collected through cookies, web beacons, and other sources, such as ad networks which help us to present customized content and advertisements on the Site. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of cookies and other technologies. 
 
-PTPA Media has the right, but not the obligation, to monitor any activity and content associated with the public and private forums and interactive areas on our Site. Please review our Terms of Service for more information regarding your appropriate use of these areas. 
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on third party advertising. Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
 
-### Sharing of Your Information
+**User Accounts:**
 
-##### Personal information. 
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators.
 
-We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. 
+**Request Fulfillment:**
 
-We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, giveaways, surveys and other features offered through our website, by phone, or by mail. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose. 
+We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.
 
-When you engage in promotions offered through our website or other services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or giveaways. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your e-mail address and other information to that merchant. 
+**Statistical Analysis:**
 
-Any third parties to whom we may disclose personal information may have their own privacy policies, which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of or to otherwise contact those third parties. These entities or their servers may be located either inside or outside the United States. 
+In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site’s functionality, and to better tailor our content and design to suit our visitors’ needs.
 
-##### Aggregated and Non-Personal Information.
+**Enforcement:**
 
-We may share aggregated and non-personal information we collect on the site. We may also share it with third parties to develop and deliver targeted marketing on our websites, on websites of third parties, or by other means. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website or other content and services that we hope you and other customers will find of interest and to target content and advertising. 
+We may use the information that we collect to meet legal and regulatory requirements, to prevent illegal activities, to enforce the Site’s Terms and Conditions, and to otherwise protect our rights and the rights of our users.
 
-##### Legal Matters; Safety.
+**4\. Information Sharing**
 
-We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or may expose us to legal liability. Additionally, we may disclose your information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat. 
+PTPA.com values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
 
-##### Sale of Business or Assets.
+• We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site.  
+• We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.  
+• If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.  
+• We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy.  
+• We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s Terms and Conditions, or as otherwise required by law.  
+• We may share information about you to respond to court orders, search warrants, judicial proceedings, subpoenas, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.  
+• In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.  
+Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on cookies and other technologies and third party advertising.
 
-In the event that PTPA Media, substantially all of its assets, or a line of business are acquired or merged with another company, personally identifiable information of our members may be one of the assets sold or merged in connection with that transaction. PTPA Media will notify our members of such a change in ownership or transfer of assets by posting a notice on our site. 
+**5\. Third-party Services**
 
-### Communications from the Website
+To customize your experience on the Site and to simplify the Site’s registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the Site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us.
 
-##### Special Offers and Updates.
+When you allow us to access your data through a third-party service to create a Site profile, we may use this data for several purposes, including:
 
-We consistently have the opportunity to send you information on products, services, special deals, and promotions offered by PTPA Media and/or a third party. In cases where PTPA Media is presenting an offer by a third party, the offer will be brought to you by PTPA Media and typically fulfilled by the third party. If you accept the offer, you will become a customer of the company that is fulfilling the offer and we will not have control over their use of the personally identifiable information that you provide to them when you accept the offer. 
+• Creating relationships automatically within our system. For example, if you connect to us via a service with a public friend list, like Twitter, we may check to see if any people you follow on Twitter are also Site members. If we find a match, we will replicate your Twitter relationship with those members, setting them to be fans, followers, or friends on our Site.  
+• Suggesting relationships. For example, if you connect via a service that has a private contact list (like Google and Yahoo!), we check for people in your contacts who are Site members and suggest that you become a fan of these users. This process is not automatic; you must affirmatively choose to become a fan of these suggested users.  
+• Populating a list of potential friends to whom you can send emails. When users share content with their friends using, for example, the forward-to-a-friend feature on the Site, we may use friend lists from third-party services to create a list of contacts to whom you may choose to send the email message.  
+• Populating a list of potential friends to whom you can send service-specific messages. For example, we may use friend lists from a third-party service to create a list of contacts to whom you may choose to send an invitation to view an interactive slideshow.  
+• To enhance and personalize your experience on the Site. When you are connected via a third-party service, we may access certain account information, such as your profile picture, what stories are popular in your network, and what your friends are saying about certain articles or blog posts, in order to enhance and personalize your experience on the Site.  
+In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.
 
-##### E-Mail and Newsletters.
+Please note that you may disconnect third party accounts at any time. Click on your profile on the top right of the screen to adjust your profile settings. You also may be able to modify your privacy settings directly with the third-party service. To modify your Facebook privacy settings, [click here](http://www.facebook.com/settings/?tab=privacy). To modify your Twitter privacy settings, [click here](https://twitter.com/account/settings).
 
-PTPA Media may use your information to send you e-newsletters, updates and communications about PTPA Media. You may opt-out of receiving future emails as described at the bottom of each communication from PTPA Media. If you don’t want to opt-out of all communications be sure to select ‘Update Profile and Subscription Preferences’ instead of ‘Unsubscribe From All Emails’. Unsubscribing from all emails, ultimately removes you from program participation as well. 
+Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.  
+**6\. Your Choices**
 
-##### Service-Related Announcements.
+We are committed to offering you meaningful privacy choices regarding the collection, use, and disclosure of your personal information. This includes the opportunity to:
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+**Deactivate your account**
 
-### Customer Service
+You can deactivate your account at any time by e-mailing deactivate@ptpamedia.com. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our Terms and Conditions.
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming e-mail to verify you. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by e-mail or telephone, in accordance with your wishes 
+**Cookies and Other Technologies**
 
-### Third Parties
+As discussed in the sections on cookies and other technologies and third party advertising, some information is collected about you automatically through cookies and other technologies to customize your online experience. You can opt out of the use of your information for targeting purposes through the following procedures:
 
-##### Ad Servers.
+• Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative (“NAI”). To opt out of having information collected by NAI member companies used for behavioural advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit http://networkadvertising.org/managing/opt_out.asp.  
+• Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser.  
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.
 
-We may use third party advertising service providers and/or technologies to serve ads when you visit our website, or in our e-mail newsletters. If your browser is set up to accept cookies, our third-party advertising service providers and/or technologies may place cookies or web beacons on your computer when you visit our Site or interact with our email messages. Please note that this happens whether or not you click on an advertisement placed by these companies. 
+Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on third party advertising and visit the [Digital Advertising Alliance](http://www.aboutads.info/consumers) website.
 
-##### Surveys/Contests.
+**7\. Access**
 
-We may use a third-party service provider to conduct surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. 
+We will make available to you any of your personal information that we have collected, used or disclosed upon request. Please contact us at privacy@ptpamedia.com.
 
-##### Links to Other Sites
+**8\. Accuracy**
 
-The Website contains links to other sites that are not owned or controlled by PTPA Media. Please be aware that the PTPA Media is not responsible for the privacy practices of such other websites. 
+We ensure that your personal information is accurate, complete, and up-to-date. You can challenge the accuracy of the information and request amendments as appropriate by contacting us at privacy@ptpamedia.com.
 
-We encourage you to be aware when you leave PTPA Media's website, and to read the privacy statements of each and every website that collects personally identifiable information. 
+**9\. Confidentiality and Security**
 
-##### Access to Personally Identifiable Information
+We have privacy and security practices in place to safeguard your personal information. We retain personal information only as long as necessary to fulfill the purposes for which it was collected and as permitted or required by law. We also limit access to information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Moreover, we have adopted commercially reasonable technical, physical, and administrative procedures to help protect your personal information from loss or theft and unauthorized access, disclosure, copying, use, or modification.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your member profile page, or by e-mailing us at info@ptpamedia.com or by contacting us by telephone or postal mail at the contact information listed below. We are, however, unable to update or delete any of your personally identifiable information that has been shared with a third party as permitted in this Privacy Policy. 
+Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.  
+**  
+10\. Information May Be Collected, Transferred, Stored, or Processed Outside of Canada**
 
-##### Opt-out
+PTPA.com and its third party partners to whom we disclose information under this policy may perform activities outside of Canada and potentially collect, transfer, store, and process your personal information in other countries. As a result, your information may be subject to the laws of those countries. These laws may not be equivalent to the privacy and data protection laws in Canada. Information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries. By using this Site or providing us with your information, you consent to the potential collection, transfer, storage, and processing of information in other countries.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by e-mailing us at, or through the contact information, below. If you don’t want to opt-out of all communications be sure to select ‘Update Profile and Subscription Preferences’ instead of ‘Unsubscribe From All Emails’. Unsubscribing from all emails, ultimately removes you from program participation as well. 
+**11\. Children’s Guidelines**
 
-##### Security
+We do not knowingly collect personal information from children under 13. If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible. If you believe that we may have collected information from a child under 13, please contact us at privacy@ptpamedia.com.
 
-PTPA Media has taken appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information. 
+**12\. Changes to the Privacy Policy**
 
-We want you to feel confident using our website, but no system can be completely secure. So although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. You should also take care with how you handle and disclose your personal information. 
+We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the “Effective Date.” We will also notify you of any substantive changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary email address specified in your account. Your continued use of the account following notice of a change means that you agree to and accept the new terms of the privacy policy. If you do not agree with any changes made or with the new terms of the policy, you must immediately stop using the account and deactivate it.
 
-##### Children’s Privacy
+**13\. Addressing Your Concerns**
 
-We are committed to protecting the privacy of children. You should be aware that the Website is not intended or designed to attract children under the age of 13. We do not collect personally identifiable information from any person we actually know is a child under the age of 13. 
+We have implemented policies and practices to give effect to this policy, including training and communicating with our employees the importance of privacy. We regularly monitor our procedures and security measures to ensure that they remain effective and that they are being properly administered. If you have questions about this privacy policy, please contact our privacy team as follows:
 
-##### Changes in this Privacy Statement
+**By Email:**  
+privacy@ptpamedia.com
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+**In Writing:**  
+Chief Privacy Officer  
+PTPA Media Inc.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page. 
+176 Rivermede Rd. Unit #3
 
-##### International Users
-
-The PTPA Media web site is hosted in Canada. If you are using the website from outside the Canada, by providing your information to this site, you are consenting to the transfer of your information to the Canada for processing and maintaining in accordance with this Privacy Policy and our Terms of Use. You are also consenting to the application of Canadian law in all matters concerning this Site. 
-
-##### Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 176 Rivermede Road, Concord, Ontario, Canada www.ptpamedia.com email: info@ptpamedia.com 905-738-1447 
+Concord, Ontario L4C5S8  
+Effective Date: June 28, 2011
