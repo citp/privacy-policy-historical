@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqwallbase.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618093112id_/http%3A//hqwallbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqwallbase.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218220130id_/http%3A//hqwallbase.com/privacy-policy) for the most accurate reproduction.*
 
 # hqWallbase.com - Privacy policy
 
@@ -17,5 +17,3 @@ During your visit, we do not collect any personally identifiable information abo
 **Image copyright**
 
 All the images are copyrighted by their respective owners. Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them. If you are a copyright holder of a specific image and wish your image to be removed, please [contact us](https://web.archive.org/contact/).
-
-Page generated in 0.0004 seconds.
