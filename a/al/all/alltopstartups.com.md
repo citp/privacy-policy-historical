@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltopstartups.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523174654id_/http%3A//alltopstartups.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltopstartups.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219001444id_/http%3A//alltopstartups.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Alltopstartups.com
 
