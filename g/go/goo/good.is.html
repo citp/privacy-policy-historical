@@ -1,23 +1,12 @@
-<!--The following is the downloaded HTML source of the good.is privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515194052id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the good.is privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218022706id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" class="controller-pages action-show"><head><script type="text/javascript" async="" src="https://secure.quantserve.com/quant.js"></script><script type="text/javascript" async="" src="http://widgets.outbrain.com/outbrain.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.1.min.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script type="text/javascript">(function() { 
-        window._sf_startpt = new Date().getTime();
-      
-      }).call(this);
-      
-    </script><meta name="viewport" content="width=device-width">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="/assets/application-7d7a34d71c657aa5e5741cc7b1c57029.css" media="all" rel="stylesheet" type="text/css">
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" class="controller-pages action-show"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="http://widgets.outbrain.com/outbrain.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="/assets/application-a3b457b982f3ca4599830f27ab1bc37b.css" media="all" rel="stylesheet" type="text/css">
     <link href="http://registration.good.is/stylesheets/vendor/simplemodal/basic_plain.css" media="all" rel="stylesheet" type="text/css">
-    <link href="http://registration.good.is/stylesheets/compiled/registration/registration.css" media="all" rel="stylesheet" type="text/css"><!--[if lte IE 8]><script type="text/javascript">(function() { 
-        window.location = '/ie.html';
-      
-      }).call(this);
-      
-    </script><![endif]--><meta content="authenticity_token" name="csrf-param">
-    <meta content="BTUiJtbLxADF3kqkjWkJeu3drQQcXqJB6fbaUsQMXH8=" name="csrf-token"><link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><script src="/assets/top-b066af9c6968de7c19cd79fddef7f2ac.js" type="text/javascript"></script><script type="text/javascript">production_rails_env = true</script>
-    <script type="text/javascript">(function() { 
-        if ($.cookie('prefer_full_site') !== '1' && /Android|IEMobile|Windows Phone|webOS|iPhone|iPad|iPod|BlackBerry|Googlebot-Mobile|SymbianOS/i.test(navigator.userAgent)) {
+    <link href="http://registration.good.is/stylesheets/compiled/registration/registration.css" media="all" rel="stylesheet" type="text/css"><!--[if lte IE 8]><script type="text/javascript">window.location = '/ie.html'; </script><![endif]--><meta content="authenticity_token" name="csrf-param">
+    <meta content="KOuYabFS8VXbH9UOmi6O9COE3MbvPDRx4ETnTqbUxEs=" name="csrf-token"><link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><script src="/assets/top-711ecbf47b3e5bbebb89744c7a7ee53a.js" type="text/javascript"></script><script type="text/javascript">production_rails_env = true; 
+      (function() {
+        if ($.cookie('fmt') !== 'd' && /Android|IEMobile|Windows Phone|webOS|iPhone|iPad|iPod|BlackBerry|Googlebot-Mobile|SymbianOS/i.test(navigator.userAgent)) {
           if (window.location.href.indexOf('full_site=1') < 0 && window.location.href.indexOf('http://m.') < 0) {
             if (production_rails_env) {
               window.location = window.location.href.replace('http://www.', 'http://m.');
@@ -26,10 +15,7 @@
             }
           }
         }
-      
-      }).call(this);
-      
-    </script>
+      }).call(this);</script>
     <meta name="keywords" content="GOOD, GOOD Magazine, Business, Creativity, Education, The GOODest">
     <meta name="robots" content="noodp,noydir">
     <link rel="publisher" href="https://plus.google.com/104087403146129498303"><meta content="GOOD - Privacy Policy" property="og:title">
@@ -41,13 +27,18 @@
     <title>Privacy Policy | GOOD</title>
     <meta property="description" content="GOOD is a collaboration of individuals, businesses, and nonprofits pushing the world forward. Since 2006 we've offered a website, magazine, videos, and events for people who give a damn.">
     <meta property="og:description" content="GOOD is a collaboration of individuals, businesses, and nonprofits pushing the world forward. Since 2006 we've offered a website, magazine, videos, and events for people who give a damn."><script type="text/javascript">var GOOD = {
-        loadScript: function (src) {
-          var referenceElement = document.getElementsByTagName('script')[0];
-          var script = document.createElement('script');
-          script.type = 'text/javascript';
-          script.async = true;
-          script.src = src;
-          referenceElement.parentNode.insertBefore(script, referenceElement);
+        loadScript: function (src, callback) {
+          // For comscore
+          if (typeof callback == 'function') {
+            $.getScript(src, callback);
+          } else {
+            var referenceElement = document.getElementsByTagName('script')[0];
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.async = true;
+            script.src = src;
+            referenceElement.parentNode.insertBefore(script, referenceElement);
+          }
         }
       };</script><script type="text/javascript">var _gaq = _gaq || [];
       _gaq.push(
@@ -55,18 +46,28 @@
         ['_setDomainName', '.good.is'],
         ['_addIgnoredRef', 'good.is'],
         ['_trackPageview']
-      );</script><script type="text/javascript">(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.1.min.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?
-      g=a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.identify people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1})(document,window.mixpanel||[]);
-      mixpanel.init("154fb94c33b5ea7f4a492239214f498a");</script></head>
+      );
+      GOOD.loadScript(('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');</script><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+      typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+      b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+      mixpanel.init("154fb94c33b5ea7f4a492239214f498a");
+      mixpanel.set_config({track_pageview:false});</script><script type="text/javascript">var _prum = [['id', '524b1021abe53db203000000'], ['mark', 'firstbyte', (new Date()).getTime()]];
+      (function() {
+          var s = document.getElementsByTagName('script')[0]
+            , p = document.createElement('script');
+          p.async = 'async';
+          p.src = '//rum-static.pingdom.net/prum.min.js';
+          s.parentNode.insertBefore(p, s);
+      })();</script></head>
   <body><header>
       <section>
         <div class="logo"><a href="/">GOOD</a></div><div id="logged-out-actions"></div>
-        <div class="actions"><form accept-charset="UTF-8" action="/" class="search collapsed" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="BTUiJtbLxADF3kqkjWkJeu3drQQcXqJB6fbaUsQMXH8="></div><input data-search-route="/search" id="q" name="q" placeholder="What are you looking for?" type="text"><button name="button" type="submit">Search</button><label>find topics, members, or keywords...</label>
+        <div class="actions"><form accept-charset="UTF-8" action="/" class="search collapsed" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="KOuYabFS8VXbH9UOmi6O9COE3MbvPDRx4ETnTqbUxEs="></div><input data-search-route="/search" id="q" name="q" placeholder="What are you looking for?" type="text"><button name="button" type="submit">Search</button><label>find topics, members, or keywords...</label>
                 <div id="search_error">We couldn't find any suggestions matching your keyword</div>
                 <div class="header-spinner">
                   <div class="outer"></div>
                   <div class="inner"></div>
-                </div></form><div id="action_buttons"><a href="/explore" class="explore">Explore</a><a href="/posts/new" class="post" data-authenticated="" data-redirect="/posts/new" id="submission_form_button">Post</a></div>
+                </div></form><div id="action_buttons"><a href="/explore" class="explore">Explore</a><a href="/posts/new" class="post" data-authenticated="" data-redirect="/posts/new" data-track-event="Clicked Post" data-track-target="post" id="submission_form_button">Post</a></div>
           <div id="login_js"></div>
           <div id="notifications_js"></div>
         </div>
@@ -77,24 +78,16 @@
         currentUserPanel = new good.citizen.views.CurrentUserPanel({
           el: '#login_js',
           currentUser: good.citizen.currentUser
-        });
-      
-        currentUserPanel.render();
-      
-        notification = new good.citizen.views.NotificationsView;
-      
-        $(notification.el).undelegate();
-      
+        }); 
+        currentUserPanel.render(); 
+        notification = new good.citizen.views.NotificationsView; 
+        $(notification.el).undelegate(); 
         loggedOutPanel = new good.citizen.views.LoggedOutPanel({
           el: '#logged-out-actions',
           currentUser: good.citizen.currentUser
-        });
-      
+        }); 
         loggedOutPanel.render();
-      
-      }).call(this);
-      
-    </script><div class="notice">
+      }).call(this);</script><div class="notice">
       <div id="notice-message-wrapper">
         <div class="inner-wrapper">
           <div id="notice-message"></div>
@@ -108,7 +101,7 @@
         <h1 class="static">Privacy Policy</h1>
       </div></div>
     <div class="main">
-      <div class="right-sidebar"><div class="right-sidebar-top"><div id="backbone_136864685250521"></div></div><nav>
+      <div class="right-sidebar"><div class="right-sidebar-top"><div id="backbone_138733362644611"></div></div><nav>
           <ul><li class="about"><a href="/about"><i></i>About</a></li><li class="advertise"><a href="/about/advertise"><i></i>Advertise</a></li><li class="contact"><a href="/about/contact"><i></i>Contact</a></li><li class="communityguidelines"><a href="/about/communityguidelines"><i></i>Community Guidelines</a></li><li class="jobs"><a href="http://www.good.is/about/jobs"><i></i>Jobs</a></li><li class="support"><a href="http://support.good.is/"><i></i>Support</a></li><li class="privacy current"><a href="/about/privacy"><i></i>Privacy</a></li><li class="terms"><a href="/about/terms"><i></i>Terms</a></li></ul>
         </nav>
         <section class="in_the_wild">
@@ -119,7 +112,7 @@
           <div class="legal">
             <p>Last Updated on June 28, 2012.</p>
             <p>This Privacy Policy discloses the privacy practices for GOOD.is, GOOD Finder, GOOD Maker, GOOD Mobile, the Daily GOOD, the GOOD Store, and GOOD Magazine online (collectively referred to as “GOOD”). If you have questions or concerns about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:</p>
-            <p>Privacy Policy Coordinator (Web)<br>GOOD Worldwide, LLC<br>6380 Wilshire Blvd<br>15th Floor<br>Los Angeles, CA 90048</p>
+            <p>Privacy Policy Coordinator (Web)<br>GOOD Worldwide Inc<br>6380 Wilshire Blvd<br>15th Floor<br>Los Angeles, CA 90048</p>
             <p>Please read this Privacy Policy carefully. You can access the Privacy Policy anytime at www.good.is/privacy. Your use and/or registration on any aspect of GOOD will constitute your agreement to this Privacy Policy. This privacy policy does not cover information collected elsewhere, including, without limitation, offline and on sites linked to from GOOD.</p>
             <p>1. What this Policy Covers. This policy covers our treatment of information that we obtain when you visit GOOD. This policy does not cover the privacy practices of third parties that we do not own or control, such as our partners or advertisers. In addition we may provide links to other services and on occasion links to other sites that may interest you. All of these sites own independently of GOOD and they have their own privacy and security practices. For your best on-line experience, we encourage you to review their privacy policies before submitting personal information to them.</p>
             <p>2. Information GOOD Gathers. Information GOOD gathers generally falls into two categories: (1) personally identifiable information, which is gathered with your specific knowledge and consent, for instance when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your email address, name, and phone number, and (2) non-personally identifiable information collected through technology, which includes tracking information collected as you navigate use of GOOD.</p>
@@ -154,7 +147,7 @@
             <p>7.1. Security of Account Information. Your member account information is password-protected. We will not share your password with anyone. Please do not share your password with anyone, and remember to change your password from time to time, to keep your account information secure.</p>
             <p>7.2. Network Security. We have implemented a variety of commercially standard encryption and security technologies and procedures to protect information, including your personal information, stored in our computer systems from unauthorized access. Please be aware that no method of transmission over the internet, or method of electronic storage, is 100% secure, thus we strive to use commercially acceptable means to protect your personal information, but we cannot guarantee its absolute security.</p>
             <p>7.3. Management Procedures. We also maintain standard physical and electronic procedural safeguards that limit access to your personally identifiable information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personally identifiable information.</p>
-            <p>8. For Our Canadian Members and Visitors. Canadian citizens, except under circumstances defined by law, are entitled to access their own personally identifiable information collected by GOOD by writing to: Web Director, GOOD Worldwide, LLC, 6380 Wilshire Blvd., 15th Floor, Los Angeles, California 90048. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the personally identifiable information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and of the identity of the person requesting the change. If you wish additional information about our personal identifiable management, to access, correct or have us investigate any matters in relation to your personally identifiable information, please contact our Web Director at the address provided above.</p>
+            <p>8. For Our Canadian Members and Visitors. Canadian citizens, except under circumstances defined by law, are entitled to access their own personally identifiable information collected by GOOD by writing to: Web Director, GOOD Worldwide Inc, 6380 Wilshire Blvd., 15th Floor, Los Angeles, California 90048. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the personally identifiable information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and of the identity of the person requesting the change. If you wish additional information about our personal identifiable management, to access, correct or have us investigate any matters in relation to your personally identifiable information, please contact our Web Director at the address provided above.</p>
             <p>9. Special Note For Our International Visitors. GOOD's website is intended for and directed to users in the United States. If you are accessing the GOOD website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use and disclosure that differ from United States laws, please be advised that through your continued use of the GOOD website which is governed by U.S. law, this Privacy Notice and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.</p>
             <p>10. Updates to Our Privacy Policy. Our service is evolving and developing. From time to time, we will review and make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at good.is/privacy. We encourage you to visit this site frequently to stay up to date on our current policy.</p>
           </div>
@@ -167,14 +160,14 @@
     <div id="fb-root"></div><footer>
       <div class="footer-content">
         <div class="links">
-          <h2>Where people share what's good to learn and do. <a href="" class="join" data-authenticated="register">Join our community</a></h2>
+          <h2>Creative Solutions for Living Well + Doing Good. <a href="" class="join" data-authenticated="register">Join our community</a></h2>
           <ul>
             <li><a href="/about">About</a></li>
             <li><a href="/about/contact">Contact</a></li>
             <li><a href="http://support.good.is/">Support</a></li>
             <li><a href="/about/advertise">Advertise</a></li>
             <li><a href="http://www.good.is/about/jobs">Jobs</a></li>
-            <li><a href="http://www.good.is/subscriptions">Subscriptions</a></li>
+            <li><a href="http://news.good.is/subscriptions/new">Subscriptions</a></li>
             <li><a href="http://shop.good.is">Online Store</a></li>
             <li><a href="http://www.goodcorps.com">GOOD/Corps</a></li>
             <li><a href="http://m.good.is/?mobile_site=1">Mobile Site</a></li>
@@ -205,111 +198,64 @@
           <li><a href="http://support.good.is/">Support</a></li>
           <li><a href="/about/advertise">Advertise</a></li>
           <li><a href="http://www.good.is/about/jobs">Jobs</a></li>
-          <li><a href="http://www.good.is/subscriptions">Subscriptions</a></li>
+          <li><a href="http://news.good.is/subscriptions/new">Subscriptions</a></li>
           <li><a href="http://shop.good.is">Online Store</a></li>
           <li><a href="http://www.goodcorps.com">GOOD/Corps</a></li>
           <li><a href="http://m.good.is/?mobile_site=1">Mobile Site</a></li>
           <li>Privacy</li>
           <li><a href="/about/terms">Terms</a></li>
-          <li class="company"><a href="/">GOOD Worldwide, LLC © 2013</a></li>
+          <li class="company"><a href="/">GOOD Worldwide Inc © 2013</a></li>
         </ul>
       </div>
-    </div><script src="/assets/bottom-23c69fed81111ade2222333420702812.js" type="text/javascript"></script>
+    </div><script src="/assets/bottom-a5369fafd07136fb4b985fada90a56c1.js" type="text/javascript"></script>
     <script src="//connect.facebook.net/en_US/all.js" type="text/javascript"></script>
-    <script src="//maps.googleapis.com/maps/api/js?libraries=places&amp;sensor=false" type="text/javascript"></script>
     <script src="http://registration.good.is/javascripts/vendor/jquery-form/jquery.form.js" type="text/javascript"></script>
     <script src="http://registration.good.is/javascripts/registration.js" type="text/javascript"></script>
     <script src="http://registration.good.is/javascripts/vendor/simplemodal/jquery.simplemodal.js" type="text/javascript"></script>
     <script src="http://registration.good.is/javascripts/parseuri.js" type="text/javascript"></script><script type="text/javascript">good.citizen.env = "production";
       good.citizen.facebookAppId = "122966314909";
-      good.citizen.RegistrationServer = "http://registration.good.is";</script><script type="text/javascript">GOOD.loadScript(('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');</script><div class="OUTBRAIN" data-src="http://www.good.is/about/privacy" data-widget-id="tr_1" data-ob-template="good"></div>
-    <script type="text/javascript">(function() { 
-        GOOD.loadScript('http://widgets.outbrain.com/outbrain.js');
-      
-      }).call(this);
-      
-    </script><script type="text/javascript">(function() {
-        var subdomain; 
-        window._qevents = window._qevents || [];
-      
-        _qevents.push({
-          qacct: 'p-4c0hwNZOgOTw'
-        });
-      
-        subdomain = document.location.protocol === 'https:' ? 'https://secure' : 'http://edge';
-      
-        GOOD.loadScript(subdomain + '.quantserve.com/quant.js');
-      
-      }).call(this);
-      
-    </script>
+      good.citizen.RegistrationServer = "http://registration.good.is";</script><div class="OUTBRAIN" data-src="http://www.good.is/about/privacy" data-widget-id="tr_1" data-ob-template="good"></div>
+    <script type="text/javascript">GOOD.loadScript('http://widgets.outbrain.com/outbrain.js'); </script><script type="text/javascript">var _qevents = _qevents || []; 
+      (function() {
+      var elem = document.createElement('script');
+      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+      elem.async = true;
+      elem.type = "text/javascript";
+      var scpt = document.getElementsByTagName('script')[0];
+      scpt.parentNode.insertBefore(elem, scpt);
+      })(); 
+      _qevents.push({
+      qacct:"p-4c0hwNZOgOTUw"
+      });</script>
     <noscript>
       <div style="display:none;">
         <img src="http://pixel.quantserve.com/pixel/p-4c0hwNZOgOTUw.gif" height="1" width="1" alt="Quantcast" />
       </div>
-    </noscript><script type="text/javascript">(function() { 
-        $(function() {
-          var subdomain;
-          subdomain = document.location.protocol === 'https:' ? 'https://sb' : 'http://b';
-          return GOOD.loadScript(subdomain + '.scorecardresearch.com/beacon.js', function() {
-            return COMSCORE.beacon({
-              c1: 2,
-              c2: 7280709,
-              c3: '',
-              c4: '',
-              c5: '',
-              c6: '',
-              c15: ''
-            });
+    </noscript><script type="text/javascript">GOOD.loadScript(
+        (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js',
+        function () {
+          COMSCORE.beacon({
+            c1: 2,
+            c2: 7280709,
+            c3: '',
+            c4: '',
+            c5: '',
+            c6: '',
+            c15: ''
           });
-        });
-      
-      }).call(this);
-      
-    </script>
-    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=7280709&c3=&c4=&c5=&c6=&c15=&cj=1" alt="" /></noscript><script type="text/javascript">(function() { 
-        $(function() {
-          return GOOD.loadScript(document.location.protocol + '//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0670.js?' + Math.floor(new Date().getTime() / 3600000));
-        });
-      
-      }).call(this);
-      
-    </script>
-    <script type="text/javascript">(function() { 
-        $(function() {
-          var hostname, loadChartbeat, oldonload;
-          window._sf_async_config = {
-            uid: 2224,
-            domain: window.location.hostname
-          };
-          window._sf_endpt = new Date().getTime();
-          hostname = 'https:' === document.location.protocol ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/';
-          loadChartbeat = function() {
-            return GOOD.loadScript(hostname + 'js/chartbeat.js');
-          };
-          oldonload = window.onload;
-          return window.onload = typeof window.onload !== 'function' ? loadChartbeat : function() {
-            oldonload();
-            return loadChartbeat();
-          };
-        });
-      
-      }).call(this);
-      
-    </script>
-          <script type="text/javascript">(function() { 
+        }
+      );</script>
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7280709&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="" /></noscript>
+          <script type="text/javascript">(function() {
               new good.citizen.views.AutocompleteSearchView({
                 el: $('#q')
               }, {
                 autoSelect: true,
                 showPrompts: true
               });
-            
-            }).call(this);
-            
-          </script><script type="text/javascript">
+            }).call(this);</script><script type="text/javascript">
     //<![CDATA[
-    new good.citizen.views.FacebookFriendsView({el: '#backbone_136864685250521', currentUser: good.citizen.currentUser});
+    new good.citizen.views.FacebookFriendsView({el: '#backbone_138733362644611', currentUser: good.citizen.currentUser});
     //]]>
     </script><script type="text/javascript">
     //<![CDATA[
@@ -332,11 +278,11 @@ NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
 e.type="text/javascript";
 e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+  "js-agent.newrelic.com/nr-100.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","ac23ada85c","108133","dw5ZFxcLCQ1UERYTAFMEREwWDAoW",0,87,new Date().getTime(),"","","","",""]);</script>
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+NREUMQ.push(["nrfj","beacon-3.newrelic.com","ac23ada85c","108133","dw5ZFxcLCQ1UERYTAFMEREwWDAoW",0,22,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
