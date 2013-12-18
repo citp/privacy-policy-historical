@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501100140id_/http%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218200818id_/http%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | RAC | RAC
 
