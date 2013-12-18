@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606110755id_/http%3A//eroi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219005035id_/http%3A//eroi.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Digital Marketing Agency eROI, Portland
 
