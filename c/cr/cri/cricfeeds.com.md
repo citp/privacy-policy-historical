@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricfeeds.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616112850id_/http%3A//www.cricfeeds.com/%3Fpage_id%3D411) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricfeeds.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218134058id_/http%3A//www.cricfeeds.com/%3Fpage_id%3D411) for the most accurate reproduction.*
 
 # Cricfeeds, B2B Cricket Service, Privacy Policy - Cricfeeds
 
