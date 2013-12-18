@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectmanagement.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618200810id_/http%3A//www.projectmanagement.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectmanagement.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219003714id_/http%3A//www.projectmanagement.com/privacy.cfm) for the most accurate reproduction.*
 
 # ProjectManagement.com - Projectmanagement.com Privacy Policy
 
