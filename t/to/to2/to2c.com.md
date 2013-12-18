@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the to2c.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619220253id_/http%3A//www.to2c.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the to2c.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219002559id_/http%3A//www.to2c.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy -To2c.com
 
