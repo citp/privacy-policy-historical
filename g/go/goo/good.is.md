@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515194052id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022706id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GOOD
 
@@ -9,7 +9,7 @@ Last Updated on June 28, 2012.
 This Privacy Policy discloses the privacy practices for GOOD.is, GOOD Finder, GOOD Maker, GOOD Mobile, the Daily GOOD, the GOOD Store, and GOOD Magazine online (collectively referred to as “GOOD”). If you have questions or concerns about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
 Privacy Policy Coordinator (Web)  
-GOOD Worldwide, LLC  
+GOOD Worldwide Inc  
 6380 Wilshire Blvd  
 15th Floor  
 Los Angeles, CA 90048
@@ -82,7 +82,7 @@ We may also use the information to communicate with you about new features, prod
 
 7.3. Management Procedures. We also maintain standard physical and electronic procedural safeguards that limit access to your personally identifiable information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personally identifiable information.
 
-8\. For Our Canadian Members and Visitors. Canadian citizens, except under circumstances defined by law, are entitled to access their own personally identifiable information collected by GOOD by writing to: Web Director, GOOD Worldwide, LLC, 6380 Wilshire Blvd., 15th Floor, Los Angeles, California 90048. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the personally identifiable information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and of the identity of the person requesting the change. If you wish additional information about our personal identifiable management, to access, correct or have us investigate any matters in relation to your personally identifiable information, please contact our Web Director at the address provided above.
+8\. For Our Canadian Members and Visitors. Canadian citizens, except under circumstances defined by law, are entitled to access their own personally identifiable information collected by GOOD by writing to: Web Director, GOOD Worldwide Inc, 6380 Wilshire Blvd., 15th Floor, Los Angeles, California 90048. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the personally identifiable information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and of the identity of the person requesting the change. If you wish additional information about our personal identifiable management, to access, correct or have us investigate any matters in relation to your personally identifiable information, please contact our Web Director at the address provided above.
 
 9\. Special Note For Our International Visitors. GOOD's website is intended for and directed to users in the United States. If you are accessing the GOOD website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use and disclosure that differ from United States laws, please be advised that through your continued use of the GOOD website which is governed by U.S. law, this Privacy Notice and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.
 
