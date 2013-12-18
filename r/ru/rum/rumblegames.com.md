@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rumblegames.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619223942id_/https%3A//www.rumblegames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumblegames.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218010312id_/https%3A//www.rumblegames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rumble
 
-_**Last Updated: March 14, 2012**_
+_**Last Updated: December 1, 2013**_
 
 Rumble Entertainment, Inc. (“ _ **Rumble**_ ” or “ _ **we**_ ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personal Information we receive from users of our immersive and accessible social games (each a “ _ **Game**_ ”) which we make available on our site at [www.rumblegames.com](http://www.rumblegames.com/) (“ _ **Rumble Site**_ ”) as well as, in our discretion, on a number of third party-platforms, including social networks (each a “ _ **Third Party Platform**_ ”). As used in this Privacy Policy, “ _ **Personal Information**_ ” refers to information about you that can be used to contact or identify you.
 
@@ -68,6 +68,20 @@ Our Game contains links to other websites.  If you choose to visit an advertise
 **Our Policy Toward Children**
 
 This Game is not directed to children under 13. We do not knowingly collect personal information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [info@rumblegames.com](mailto:info@rumblegames.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+
+**Safe Harbor Compliance**
+
+Rumble Entertainment complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Rumble Entertainment has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Rumble Entertainment’s certification, please visit <http://www.export.gov/safeharbor/>
+
+For questions or complaints/disuptes about Safe Harbor, please use the email addresses provided under the "Contacting Us" section.
+
+In the event, that complaints and disputes that cannot be resolved between Rumble Entertainment and the complainant, Rumble Entertainment has agreed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities (DPAs) to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner of Switzerland.  The panel may be contacted at [ec-dppanel-secr@ec.europa.eu](mailto:ec-dppanel-secr@ec.europa.eu) and individual EU DPAs may be contacted directly via the information provided at <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>
+
+. 
+
+The contact information for the Swiss FDPIC can be found at:  <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>
+
+. 
 
 **Contacting Us**
 
