@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govhs.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616044138id_/http%3A//thevhscollaborative.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govhs.org privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219004509id_/http%3A//thevhscollaborative.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The VHS Collaborative
 
