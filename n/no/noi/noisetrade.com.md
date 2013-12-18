@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the noisetrade.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628042101id_/http%3A//noisetrade.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisetrade.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218064302id_/http%3A//www.noisetrade.com/info/privacy) for the most accurate reproduction.*
 
 # NoiseTrade | Thousands of Albums. Completely Free. Completely Legal.
-
-### Privacy Policy
 
 NoiseTrade respects visitors to and the users of our site and their privacy. We respect the trust our registered users and other visitors have in us. Therefore, this online Privacy Policy tells you about the information NoiseTrade collects through the features and services available on NoiseTrade.com (the "Site"), and how we use that information. 
 
@@ -11,7 +9,7 @@ By using our services and accessing our Site, you are consenting to the informat
 If we decide to change our Privacy Policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our Privacy Policy whenever you visit this Site for any updates or changes.   
 Please see our Terms and Conditions of Use (the "Site Terms") for a more detailed legal explanation of our general online policies. If any conflict exists between the Site Terms and our Privacy Policy, the Site Terms shall prevail.
 
-Information About You
+**Information About You**
 
 The following details the types of information we collect and how we use it.
 
@@ -26,7 +24,7 @@ The following details the types of information we collect and how we use it.
 
 You can, however, opt-out from inclusion in our collection of information by emailing us directly at [unsubscribe@noisetrade.com](mailto:unsubscribe@noisetrade.com) or the artists whose sound recordings are included in our services collection of information, by contacting them directly through their web-services.
 
-Registration with NoiseTrade and Transactional Data
+**Registration with NoiseTrade and Transactional Data**
 
 When you register on our Site, you are required to submit an e-mail address (which is your User ID for the Site), password and additional personal information. We also collect and store access information related to your account.
 
@@ -40,7 +38,7 @@ We use both your Personally Identifiable Information and certain Non-Personally-
 
 We may share your Personally Identifiable Information and certain Non-Personally-Identifiable with artists and related music industry professionals promoted through the services of the Site.
 
-Security
+**Security**
 
 NoiseTrade takes commercially reasonable precautions to safeguard your information against theft and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
