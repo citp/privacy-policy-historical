@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the legalservicesindia.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511074000id_/http%3A//www.legalserviceindia.com/objective.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalservicesindia.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218061651id_/http%3A//www.legalserviceindia.com/objective.htm) for the most accurate reproduction.*
 
-# Legal Service India
-
-**Legal Service India.com Privacy Notice**  
-March 1, 2002/  Updated July 8th, 2006
+# Objective of legal service India
 
 **Our Commitment To Privacy  
 **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected from or submitted to the following Legal Service India.com Web site(s), but to make this notice easier to read we will refer here only "our Web site", meaning either Legal Service India.com or lawyerssearch.com.
+This notice applies to all information collected from or submitted to the following Legal Service India.com Web site(s), but to make this notice easier to read we will refer here only "our Web site", meaning either Legal Service India.com, legalservicesindia.com and legalservices.co.in
 
 Our Web site contains links to other Web sites operated by third parties. Legal Service India.com is not responsible for the privacy practices or policies of such third party Web sites.
 
@@ -51,3 +48,9 @@ If you would like to contact us for any reason regarding our privacy practices, 
 **E-Mailing address** : 
 
 [admin@legalserviceindia.com](mailto:admin@legalserviceindia.com)
+
+  
+[Home](http://www.legalserviceindia.com/) | [About Us](http://legalserviceindia.com/about_us.htm) | [Privacy](http://www.legalserviceindia.com/objective.htm) | [Terms of use](http://www.legalserviceindia.com/Disclaimerlsi.htm) | [ F A Q](http://legalservices.co.in/m/faq/home/) | [ Divorce by mutual consent](http://www.legalserviceindia.com/helpline/mutual_consent_divorce.htm) | [Lawyers](http://www.legalserviceindia.com/lawyers/lawyers_home.htm) | [Submit article](http://www.legalserviceindia.com/articles/articles.html) | [ Sitemap](http://www.legalserviceindia.com/sitemap.htm) | [ Contact Us](http://www.legalserviceindia.com/contact%20us.htm)  
+  
+legal Service India.com is Copyrighted under the Registrar of Copyright Act ( Govt of India) © 2000-2013  
+ISBN No: 978-93-82417-01-9
