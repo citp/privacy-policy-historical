@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkedblogs.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610234316id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkedblogs.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022541id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetworkedBlogs by Ninua
 
