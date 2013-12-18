@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the wnmlive.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526155837id_/http%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wnmlive.com privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218020521id_/http%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# wnm-live: http://ogp.me/ns/fb/wnm-live# website: http://ogp.me/ns/website#"><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# wnm-live: http://ogp.me/ns/fb/wnm-live# website: http://ogp.me/ns/website#"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
 	WNM Live :: Privacy Policy
 </title><meta name="apple-itunes-app" content="app-id=492698719"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="robots" content="index, follow"><meta name="Language" content="en"><!-- Facebook Open Graph Tags !-->
 <meta property="fb:app_id" content="153644678059870">
@@ -13,17 +13,34 @@
 <meta name="description" content="WNM Live is a social discovery platform for finding new friends that share your same interests.  Meet new people living nearby and connect with them in real-time!">
 <meta property="og:image" content="http://www.wnmlive.com/images/IconForFacebook.jpg">
 <meta property="og:site_name" content="WNM Live">
-<meta name="application-name" content="WNM Live"><meta name="application-url" content="http://www.wnmlive.com"><meta name="msApplication-ID" content="24305SynergeTechSolutions.WNMLive"><meta name="msApplication-PackageFamilyName" content="24305SynergeTechSolutions.WNMLive_an2zgyhbfsy48"><link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/pleoflkphepabkcioilkeinbngbdimnl"><link rel="shortcut icon" href="/favicon.ico"><link rel="icon" href="/images/32.png" sizes="32x32"><link rel="icon" href="/images/48.png" sizes="48x48"><link id="wnmStyles" rel="stylesheet" media="screen, projection" type="text/css" href="/styles/wnmlive-1-24-1-3.css"><link id="mobileStyles" rel="stylesheet" media="screen, projection" type="text/css"><meta name="HandheldFriendly" content="True"><meta name="MobileOptimized" content="1000"><meta name="viewport" content="width=1000,user-scalable=1"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><script src="/script/1-24-1-3/wnm-scripts.js" type="text/javascript"></script>
+<meta name="application-name" content="WNM Live"><meta name="application-url" content="http://www.wnmlive.com"><meta name="msApplication-ID" content="24305SynergeTechSolutions.WNMLive"><meta name="msApplication-PackageFamilyName" content="24305SynergeTechSolutions.WNMLive_an2zgyhbfsy48"><meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link id="wnmStyles" rel="stylesheet" type="text/css" href="/styles/wnmlive-1-28-0-7.css"><link id="standardMobileStyleLink" rel="stylesheet" type="text/css" media="screen and (max-width: 800px)" href="/styles/current/mobile.css">
     <style type="text/css">
-        table#policy p {
-            text-align: justify;
+        .top-of-page-responsive {
+            width: 320px;
+            height: 50px;
+            margin-left: auto;
+            margin-right: auto;
         }
-        .auto-style1 {
-            width: 100px;
+
+        @media(min-width: 800px) {
+            .top-of-page-responsive {
+                width: 728px;
+                height: 90px;
+            }
         }
     </style>
-
+    <script type="text/javascript" src="/script/1-28-0-7/wnm-scripts.js"></script>
     <script type="text/javascript">
+
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement("style");
+            msViewportStyle.appendChild(
+              document.createTextNode(
+                "@-ms-viewport{width:auto!important}"
+              )
+            );
+            document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+        }
 
         var pushClient;
         var isLoggedIn = WNM.Web.Scripts.Auth.get_isLoggedIn();
@@ -36,95 +53,96 @@
 
         (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
 
+        (function (e, b) {
+            if (!b.__SV) {
+                var a, f, i, g; window.mixpanel = b; a = e.createElement("script"); a.type = "text/javascript"; a.async = !0; a.src = ("https:" === e.location.protocol ? "https:" : "http:") + '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js'; f = e.getElementsByTagName("script")[0]; f.parentNode.insertBefore(a, f); b._i = []; b.init = function (a, e, d) {
+                    function f(b, h) { var a = h.split("."); 2 == a.length && (b = b[a[0]], h = a[1]); b[h] = function () { b.push([h].concat(Array.prototype.slice.call(arguments, 0))) } } var c = b; "undefined" !==
+                    typeof d ? c = b[d] = [] : d = "mixpanel"; c.people = c.people || []; c.toString = function (b) { var a = "mixpanel"; "mixpanel" !== d && (a += "." + d); b || (a += " (stub)"); return a }; c.people.toString = function () { return c.toString(1) + ".people (stub)" }; i = "disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" "); for (g = 0; g < i.length; g++) f(c, i[g]);
+                    b._i.push([a, e, d])
+                }; b.__SV = 1.2
+            }
+        })(document, window.mixpanel || []);
+        mixpanel.init("3ab7200bcce135fe098bbae74e49155a");
     </script>
-
-    <!--
-                                                                .--.__
-                                                      .~ (@)  ~~~---_
-                                                     {     `-_~,,,,,,)
-                                                     {    (_  ',
-                                                      ~    . = _',
-                                                       ~-   '.  =-'
-                                                         ~     :
-      .                                             _,.-~     ('');
-      '.                                         .-~        \  \ ;
-        ':-_                                _.--~            \  \;      _-=,.
-          ~-:-.__                       _.-~                 {  '---- _'-=,.
-             ~-._~--._             __.-~                     ~---------=,.`
-                 ~~-._~~-----~~~~~~       .+++~~~~~~~~-__   /
-                      ~-.,____           {   -     +   }  _/
-                              ~~-.______{_    _ -=\ / /_.~
-                                   :      ~--~    // /         ..-
-                                   :   / /      // /         ((
-                                   :  / /      {   `-------,. ))
-                                   :   /        ''=--------. }o
-                      .=._________,'  )                     ))
-                      )  _________ -''                     ~~
-                     / /  _ _
-                    (_.-.'O'-'.        RAAAWR - Stop looking at our code :-P
-
-        !-->
+    
+    
+    <style type="text/css">
+        table#policy p {
+            text-align: justify;
+        }
+        .auto-style1 {
+            width: 100px;
+        }
+    </style>
 
 </head>
-<body class="ticker">
+<body id="bodyTag" class="ticker">
     <form method="post" action="/legal/privacy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
 
-
-<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yCTa65MGTy6p8wpH3HSDVTAXGpO0KhIM4PRyoIBVrvx1iu9DaOVJez0YQlq4n763fDNhme-4kjfKWp_4iEKwAKUesAOHLP0WZkvNevzibxBPdcS1M9X3HMKzoWFQKR4fJU_gcSg1&amp;t=6119e399" type="text/javascript"></script>
         
-        <div id="header">
-            <div class="webLogoContainer noticker" onclick="window.location='/';">
-                <img class="webLogo" src="/images/web-logo.png" alt="WNM Live Logo">
-            </div>
+<div id="header">
+    <div class="webLogoContainer noticker pull-left" onclick="window.location='/';">
+        <img class="webLogo" src="/images/web-logo.png" alt="WNM Live Logo">
+    </div>
 
-            <div id="account-header">
-                <table id="loginBox" cellspacing="0" cellpadding="1" align="right" style="margin: 0px 0px 0px 0px; height: 70px;">
-	<tbody><tr>
-		<td>
-                <a href="/login" class="button">Login</a>
-            </td>
-		<td>
-                <a href="/Register" class="button">Register</a>
-            </td>
-	</tr>
-</tbody></table>
-
-
-
-            </div>
-            <div class="menuUnCollapse" style="display: none">
-                <a href="javascript:WNM.Web.Scripts.NavMenu.showNavMenu()">
-                    <img src="/images/uncollapse.png"><span> Show Menu </span>
-                    <img src="/images/uncollapse.png"></a>
-            </div>
-            <div class="siteHeader">
-            </div>
+    <div class="account-links">
+        <div id="PageHeader_LoginButtons" class="loginButtons pull-right">
+            <a class="btn btn-primary left-margin" href="/login">Login</a>
+            <a class="btn btn-primary left-margin" href="/Register">Register</a>
         </div>
-        <table cellpadding="0" cellspacing="0" class="wrap back-white" style="min-height: 500px;" id="mainTbl">
-            <tbody><tr>
-                <td id="left-column">
 
-                    
-<input type="hidden" id="SelectedMenuItemID" value="" onchange="$('#GroupStatusLi-' + this.value).addClass('selected');">
+        
+    </div>
+    <div class="menuUnCollapse" style="display: none">
+        <a class="btn btn-primary" href="javascript:WNM.Web.Scripts.NavMenu.showNavMenu()">
+            <span>Menu </span>
+            <span class="caret"></span></a>
+    </div>
+    <div class="siteHeader">
+    </div>
+</div>
+<div id="mobile-header">
+    <a class="btn btn-primary " href="javascript:WNM.Web.Scripts.NavMenu.toggleMobileNavMenu()">
+        <span>Menu </span>
+        <span class="caret"></span></a>
+    <div class="pull-right left-margin" id="mobile-header-alerts">
+        <a class="btn btn-default NewMessageIcon" href="/messages" title="New Messages"><span style="color: black;" class="glyphicon glyphicon-envelope"></span></a>
+        <a class="btn btn-default watchedPostCountDiv" style="margin-left: 5px;" href="/live-stream#watched" title="New Watched Post Comments"><span style="color: black;" class="glyphicon glyphicon-eye-open"></span></a>
+    </div>
+    <span id="mobilePageTitle" onclick="window.location='/';">WNM Live</span>
+</div>
+
+        <div class="wrap back-white" id="mainTbl">
+            <div id="left-column">
+                
+<input type="hidden" id="SelectedMenuItemID" value="" onchange="$('#GroupStatusLi-' + this.value).addClass('active');">
 
 
 <div id="sideMenuControl_LoggedOutLinks">
-    <div class="NavMenuBar" style="margin-right: 0px;">
-        <div class="navHeader">WNM Live</div>
-        <ul class="navItems">
+    <div class="panel">
+        <div class="panel-heading">
+            <h3 class="panel-title">Menu</h3>
+        </div>
+
+        <ul class="nav nav-pills nav-stacked">
             <li><a id="sideMenuControl_sideNavLink6" href="/login">Login</a></li>
 
             <li><a id="sideMenuControl_sideNavLink7" href="/register">Register</a></li>
 
         </ul>
-        <br>
-        <div class="navHeader">Info</div>
-        <ul class="navItems">
+        <hr>
+        <div class="panel-heading">
+            <h3 class="panel-title">Info</h3>
+        </div>
+
+        <ul class="nav nav-pills nav-stacked">
 
             <li><a id="sideMenuControl_sideNavLink12" href="/about">About</a></li>
 
@@ -132,30 +150,48 @@
 
             <li><a id="sideMenuControl_sideNavLink16" href="/apps">Apps</a></li>
 
-            <li><a id="sideMenuControl_sideNavLink17" href="/press">Press</a></li>
+            <li class="mobileHidden"><a id="sideMenuControl_sideNavLink17" href="/press">Press</a></li>
 
-            <li><a id="sideMenuControl_sideNavLink20" href="/support">Support</a></li>
+            <li><a id="sideMenuControl_sideNavLink20" href="http://help.wnmlive.com/">Support</a></li>
         </ul>
     </div>
 </div>
 
-
-
-
-                    <br>
-                    <div id="sideAd" style="text-align: center">
-                        <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=wnmlive&amp;show_count=true&amp;show_screen_name=false" style="width: 150px; height: 21px; border: none; overflow: hidden; margin-bottom: 10px;"></iframe>
-                        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fwnmlive&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21&amp;appId=153644678059870" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px; height: 21px; margin-top: 10px;" allowtransparency="true"></iframe>
-
+                <br>
+                <div class="social-links" style="text-align: center">
+                    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=wnmlive&amp;show_count=true&amp;show_screen_name=false" style="width: 150px; height: 21px; border: none; overflow: hidden; margin-bottom: 10px;"></iframe>
+                    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fwnmlive&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21&amp;appId=153644678059870" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px; height: 21px; margin-top: 10px;" allowtransparency="true"></iframe>
+                </div>
+                <br>
+                <div class="ads">
+                    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <ins class="adsbygoogle" style="display: inline-block; width: 160px; height: 600px" data-ad-client="ca-pub-8323710826257213" data-ad-slot="7710575358"></ins>
+                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                </div>
+            </div>
+            <div id="content-column">
+                <div class="content">
+                    <div id="msg" class="alert alert-danger fade in" style="text-align: center; display: none;">
+                        <button type="button" class="close" data-dismiss="alert">×</button>
+                        <span id="msgText"></span>
                     </div>
-                </td>
-                <td id="content-column">
-                    <div class="content">
-                        
-    <h1>Privacy Policy</h1>
+                    <div class="top-of-page-responsive" style="margin-bottom: 15px; margin-top: 10px;"><ins class="adsbygoogle top-of-page-responsive" style="display: inline-block" data-ad-client="ca-pub-8323710826257213" data-ad-slot="4076000951"></ins></div>
+                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                    
+
+    <div class="panel basicPagePanel">
+        <div class="panel-heading">
+            <h1 class="panel-title">
+                  
+Privacy Policy
+
+            </h1>
+        </div>
+        <div class="panel-body">
+            
     <div id="legalText">
 
-        <div align="left" class="legalText box">
+        <div align="left" class="legalText">
                     <h3>Last updated: 
                  December 29, 2012</h3>
             <p>
@@ -300,10 +336,13 @@
         </div>
     </div>
 
-                    </div>
-                </td>
-            </tr>
-        </tbody></table>
+        </div>
+    </div>
+
+
+                </div>
+            </div>
+        </div>
         <div id="_footer" class="wrap back-white">
             <div id="footer">
                 <div class="content">
@@ -314,15 +353,15 @@
                     </div>
                     <span id="copyright">Copyright © 2013 WNM Live</span>
                 </div>
+                <div class="content version">
+                    WNM Live Server Version
+                        1.28.0.7
+                </div>
             </div>
         </div>
-        <br>
-        <br>
-        <div id="msg" title="Alert" style="display: none">
-            <p id="msgText">
-            </p>
-        </div>
-                
+        <script type="text/javascript" src="/Client.ashx"></script>
+
+        
 <script type="text/javascript">
 
     hbMsg=0; hbPost=0;
@@ -331,331 +370,24 @@
 
     WNM.Web.Scripts.Heart.HeartModel.updateUI(hbMsg, hbPost);
 
-    $(document).ready(function () { WNM.Web.Scripts.Messages.ChatModel.get_openMessages().loadOpenMessages(); Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler); jQueryifyPage(); });
+    $(document).ready(function () { WNM.Web.Scripts.Messages.ChatModel.get_openMessages().loadOpenMessages(); });
 
-    function EndRequestHandler(sender, args) { jQueryifyPage(); }
+    
 
 </script>
         <!--
 Copyright:     Copyright © SynergeTech Solutions, Inc 2013
 Company:       SynergeTech Solutions, Inc
-Build Version: 1.24.1.3
-File Version:  1.24.1.3
+Build Version: 1.28.0.7
+File Version:  1.28.0.7
 Host:          Windows Azure Cloud Services
-Instance:      RD00155D311D6A
+Instance:      RD00155D3122D7
 Warnings:      None
 Errors:        None
 !-->
 
         
-<div id="view-profile-dialog" style="display: none; height: 600px;">
-    <div id="profile-div" style="border: none; background: rgb(249, 249, 249)">
-        <a data-bind="visible: isVerified" title="Verified Profile" style="float: right; border: none;" href="/verify">
-            <img src="/images/app/labels/verified.png"></a>
-        <ul style="border: none;">
-            <li><a href="#page1">Overview</a></li>
-            <li><a href="#page2">More</a></li>
-            <li><a href="#page3">Gifts</a></li>
-            <li><a href="#page4">Photos</a></li>
-            <li><a href="#page5">Activity</a></li>
-            <li><a href="#page8">Groups</a></li>
-            <li><a href="#page6">Following</a></li>
-            <li><a href="#page7">Followers</a></li>
-        </ul>
-        <div id="page1" class="profilePage">
-            <a data-bind="attr: { href: WNM.Web.Scripts.Utils.getRawImageUrl(displayImageID), title: displayName }" class="lightbox">
-                <div data-bind="style: { backgroundImage: 'url(\'' + WNM.Web.Scripts.Utils.getImageUrl(displayImageID, 150) + '\')', height: '150px', width: '150px', margin: '0px 12px 12px 0px', float: 'left' }" class="wnmImage">
-                </div>
-            </a>
-            <p>
-                <span class="headerLabel">Location Last Updated</span><br>
-                <span data-bind="text: lastContactAgo"></span>
-            </p>
-            <p>
-                <span class="headerLabel">Distance</span><br>
-                <span data-bind="text: distanceText()"></span>
-            </p>
-            <table width="300px" cellpadding="0" cellspacing="0">
-                <tbody>
-                    <tr>
-                        <td>
-                            <span class="headerLabel">Age</span><br>
-                            <span data-bind="text: ageText()"></span>
-                        </td>
-                        <td>
-                            <span class="headerLabel">Gender</span><br>
-                            <span data-bind="text: genderText()"></span>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-            <div style="margin-top: -8px; clear: left" data-bind="template: { name: 'badgeTemplate', foreach: badges }">
-            </div>
-            <div>
-                <p data-bind="visible: intrests.length > 0">
-                    <span class="headerLabel">Interests</span><br>
-                    <span style="white-space: pre-wrap" data-bind="text: intrests"></span>
-                </p>
-                <p data-bind="visible: additionalInformation.length > 0">
-                    <span class="headerLabel">Additional Info</span><br>
-                    <span style="white-space: pre-wrap" data-bind="text: additionalInformation"></span>
-                </p>
-            </div>
-        </div>
-        <div id="page2" class="profilePage">
-            <div>
-                <div id="fieldsDiv" style="display: block; height: auto;" data-bind="template: { name: &quot;fieldTemplate&quot;, foreach: profileFields }">
-                </div>
-                <p>
-                    <span class="headerLabel">Device Type(s)</span><br>
-                    <span data-bind="text: deviceType"></span>
-                </p>
-            </div>
-        </div>
-        <div id="page3" class="profilePage">
-            <div style="margin-top: -8px; clear: left" data-bind="template: { name: 'giftTemplate', foreach: gifts }">
-            </div>
-            <div data-bind="visible: gifts.length < 1" style="padding: 25px 10px 10px 10px">
-                <strong>This user has not received any gifts yet.</strong>
-            </div>
-            <div style="clear: left">
-            </div>
-        </div>
-        <div id="page4" class="profilePage">
-            <div id="photos-div" style="display: block; height: auto;" data-bind="template: { name: &quot;photoTemplate&quot;, foreach: photos }">
-            </div>
-            <div data-bind="visible: photos.length < 1" style="padding: 25px 10px 10px 10px">
-                <strong>This user has not uploaded any additional photos.</strong>
-            </div>
-            <div style="clear: left">
-            </div>
-        </div>
-        <div id="page5" class="profilePage">
-            <div id="live-stream-div" style="display: block; height: auto;" data-bind="template: { name: &quot;postsTemplate&quot;, foreach: posts }">
-            </div>
-            <div data-bind="visible: posts().length < 1" style="padding: 25px 10px 10px 10px">
-                <strong>This user does not have any activity to display.</strong>
-            </div>
-        </div>
-        <div id="page6" class="profilePage">
-            <div id="favorite-list-div" style="display: block; height: auto;" data-bind="template: { name: &quot;profileFavoriteTemplate&quot;, foreach: favorites }">
-            </div>
-            <div data-bind="visible: favorites.length < 1" style="padding: 25px 10px 10px 10px">
-                <strong>This user does not have any favorite users.</strong>
-            </div>
-        </div>
-        <div id="page7" class="profilePage">
-            <div id="favorited-by-div" style="display: block; height: auto;" data-bind="template: { name: &quot;profileFavoriteTemplate&quot;, foreach: favoritedBy }">
-            </div>
-            <div data-bind="visible: favoritedBy.length < 1" style="padding: 25px 10px 10px 10px">
-                <strong>This user has not been favorited by any users.</strong>
-            </div>
-        </div>
-        <div id="page8" class="profilePage">
-            <input type="button" class="button" value="Invite to Join Group" data-bind="click: showInviteDialog, visible: WNM.Web.Scripts.Groups.GroupStatusViewModel.instance.getCanInviteState()">
-            <ul id="groups-list" style="display: block; height: auto;" data-bind="foreach: groups">
-                <li data-bind="text: groupName"></li>
-            </ul>
-            <div data-bind="visible: groups.length < 1" style="padding: 25px 10px 10px 10px">
-                <strong>This user is not a member of any groups.</strong>
-            </div>
-        </div>
-    </div>
-    <div id="inviteDialog" title="Invite to Join Group" style="display: none; width: 350px;">
-        <p>
-            Which group would you like to invite the user to join?
-        </p>
-        <select id="sendInviteGroupID" data-bind="options: WNM.Web.Scripts.Groups.GroupStatusViewModel.instance.getInvitableGroups(), optionsText: 'name',optionsValue: 'groupID', optionsCaption: 'Select a group...'"></select>
-    </div>
-</div>
-<div id="badgeDialog" title="Badge Details" style="display: none">
-    <p id="badgeName" style="font-weight: bold">
-    </p>
-    <p id="badgeDesc">
-    </p>
-</div>
-<script type="text/html" id="fieldTemplate">
-    <p data-bind="visible: value.length > 0">
-        <span class="headerLabel" data-bind="text: name"></span>
-        <br>
-        <span data-bind="text: value"></span>
-    </p>
-</script>
-<script type="text/html" id="badgeTemplate">
-    <img data-bind="attr: { src: '/images/app/badges/' + imageId + '.png' },  click: show" width="36" height="36" style="margin-right: 10px; cursor: pointer" />
-</script>
-<script type="text/html" id="giftTemplate">
-    <div style="text-align: center; float: left; margin: 10px 10px 10px 10px;">
-        <img data-bind="attr: { src: '/images/app/gifts/gift_' + imageId + '.png', title: givenByDisplayName }" width="50" height="50" /><br>
-        <span data-bind="text: givenByDisplayName"></span>
-    </div>
-</script>
-<script type="text/html" id="photoTemplate">
-    <a data-bind="attr: { href: WNM.Web.Scripts.Utils.getRawImageUrl(photoId) }"
-        class="lightbox">
-        <div data-bind="style: { backgroundImage: 'url(\'' + WNM.Web.Scripts.Utils.getImageUrl(photoId, 150) + '\')', height: '125px', width: '125px', margin: '12px 12px 12px 12px', float: 'left' }"
-            class="wnmImage">
-        </div>
-    </a>
-</script>
-<script type="text/html" id="postsTemplate">
-    <table class="newsFeedPost fullwidth" data-bind="attr: { 'postid': id }">
-        <tbody>
-            <tr>
-                <td class="profileImage">
-                    <a data-bind="attr: { href: WNM.Web.Scripts.Utils.getRawImageUrl($data.displayImageID) }"
-                        class="lightbox">
-                        <div data-bind="style: { backgroundImage: 'url(\'' + WNM.Web.Scripts.Utils.getImageUrl($data.displayImageID, 65) + '\')', height: '65px', width: '65px' }"
-                            class="wnmImage">
-                        </div>
-                    </a>
-                </td>
-                <td>
-                    <div class="newPost" data-bind="visible: isUnread()">
-                        NEW
-                    </div>
-                    <div class="profileName">
-                        <a href="#" data-bind="click: showProfile, text: displayName" class="nounder"></a>
-                        <img data-bind="visible: isVIP" src="/images/app/labels/vip.png" style="height: 10px;" align="top" title="VIP User" height="10" width="23" />
-                        <img data-bind="visible: isVerified" src="/images/app/labels/verified.png" style="height: 10px;" align="top" title="Verified Profile" height="10" width="40" />
-                        <span class="ranking" data-bind="text: getUserRankText()" style="font-size: 9pt" title="WNM Rank"></span>
-                    </div>
-                    <div class="contentText" data-bind="text: postText">
-                    </div>
-                    <div class="contentImage" data-bind="visible: imageID.length > 1">
-                        <a data-bind="attr: { href: WNM.Web.Scripts.Utils.getRawImageUrl($data.imageID) }"
-                            class="lightbox largeImg">
-                            <img data-bind="attr: { src: WNM.Web.Scripts.Utils.getImageUrl($data.imageID, 200) }"
-                                height="200" />
-                        </a>
-                    </div>
-                </td>
-            </tr>
-            <tr data-bind="visible: commentCount() === 0 && !commentBoxVisible()">
-                <td></td>
-                <td>
-                    <a class="noCommentLink" href="#" data-bind="visible: isLoggedIn, click: showCommentBox">Be the first to
-               comment!</a>
-                </td>
-            </tr>
-            <tr data-bind="visible: commentBoxVisible() || comments().length > 0">
-                <td></td>
-                <td>
-                    <div class="inputtext fullwidth" style="padding-right: 20px; padding-left: 4px;">
-                        <img src="/images/attach.png" class="attachIcon" title="Attach Photo" data-bind="visible: isLoggedIn, click: function() { imageCommentPostEntityId = id; $('#dialog-attach-photo').dialog('open'); }" />
-                        <input id="messageText" type="text" class="fullwidth" maxlength="4000" autocomplete="off"
-                            data-bind="attr: { id: 'commentBox_' + id }, event: { keypress: commentKeyPress }, disable: !isLoggedIn, value: (isLoggedIn ? '' : 'Please login to post a comment.')"
-                            placeholder="Write a comment..." />
-                    </div>
-                </td>
-            </tr>
-            <tr data-bind="visible: commentCount() > 0">
-                <td></td>
-                <td class="showMoreComments" data-bind="visible: comments().length === 0">
-                    <a class="commentLink" href="#" data-bind="click: loadComments"><strong>View <span data-bind="text: commentCount()"></span>&nbsp;comment<span data-bind="visible: commentCount() > 1">s</span></strong>&nbsp;(&nbsp;last comment posted <span data-bind="text: lastCommentAgo()"></span>&nbsp;)</a>
-                </td>
-                <td class="showMoreComments" data-bind="visible: comments().length > 0" style="height: 24px; vertical-align: middle">
-                    <a href="#" data-bind="click: loadComments">Refresh Comments</a> - <a href="#" data-bind="click: hideComments">Hide Comments</a>
-                </td>
-            </tr>
-        </tbody>
-        <tbody data-bind="template: { name: 'commentsTemplate', foreach: comments }">
-        </tbody>
-        <tbody>
-            <tr>
-                <td></td>
-                <td>
-                    <div class="postInfo">
-                        Posted <span class="highlight" data-bind="text: postedAgo(), attr: { 'title': datePosted }"></span>from <span class="highlight" data-bind="visible: location().length > 0, text: location(), attr: { 'title': distance }"></span><span class="highlight" data-bind="visible: location().length < 1, text: distance"></span>· <a data-bind="attr: { href: 'http://www.wnmlive.com/post/' + id }, visible: isLoggedIn">View Post</a>
-                        · <a href="#" data-bind="visible: isLoggedIn, click: toggleWatching, text: isFollowing() ? 'Stop Watching' : 'Watch'"></a>· <a href="#" data-bind="visible: isLoggedIn, click: reportPost">Report</a>
-                    </div>
-                </td>
-        </tbody>
-    </table>
-</script>
-<script type="text/html" id="commentsTemplate">
-    <tr class="commentRow">
-        <td></td>
-        <td class="comment">
-            <table>
-                <tbody>
-                    <tr>
-                        <td class="commentProfilePhoto">
-                            <a data-bind="attr: { href: WNM.Web.Scripts.Utils.getRawImageUrl(displayImageID) }" class="lightbox">
-                                <div data-bind="style: { backgroundImage: 'url(\'' + WNM.Web.Scripts.Utils.getImageUrl(displayImageID, 45) + '\')', height: '45px', width: '45px' }" class="wnmImage"></div>
-                            </a>
-                        </td>
-                        <td>
-                            <div class="profileName"><a href="#" data-bind="click: showProfile, text: displayName" class="nounder" style="font-size: 11px"></a></div>
-                            <div class="contentText" data-bind="visible: imageID.length < 2, text: postText"></div>
-                            <div class="contentImage" data-bind="visible: imageID.length > 1">
-                                <a data-bind="attr: { href: WNM.Web.Scripts.Utils.getRawImageUrl(imageID) }" class="lightbox">
-                                    <div data-bind="style: { backgroundImage: 'url(\'' + WNM.Web.Scripts.Utils.getImageUrl(imageID, 80) + '\')', height: '80px', width: '80px' }" class="wnmImage"></div>
-                                </a>
-                            </div>
-                            <div class="postInfo">
-                                Posted <span class="highlight" data-bind="text: postedAgo(), attr: { 'title': datePosted }"></span>from <span class="highlight" data-bind="visible: location().length > 0, text: location(), attr: { 'title': distance }"></span><span class="highlight" data-bind="visible: location().length < 1, text: distance"></span>
-                            </div>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </td>
-    </tr>
-</script>
-<script type="text/html" id="profileFavoriteTemplate">
-    <table class="fullwidth" cellpadding="0" cellspacing="0">
-        <tbody>
-            <tr data-bind="attr: { id: 'ProfilePeopleListRow_' + deviceProfileID }, click: showProfilePage" class="wnmRow">
-                <td class="img">
-                    <a data-bind="attr: { href: WNM.Web.Scripts.Utils.getRawImageUrl(displayImageID), title: displayName }" class="lightbox">
-                        <div data-bind="style: { backgroundImage: 'url(\'' + WNM.Web.Scripts.Utils.getImageUrl(displayImageID, 65) + '\')', height: '65px', width: '65px' }" class="wnmImage"></div>
-                    </a>
-                </td>
-                <td class="details">
-                    <span class="info" data-bind="text: displayName"></span>
-                    <br>
-                    <span data-bind="text: overviewText()"></span>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</script>
-
-        
-<div id="chatBoxes" data-bind="template: { name: 'chatMessagesTemplate', foreach: conversations, afterAdd: chatAdded, afterRender: chatRendered }"></div>
-<script type="text/html" id="chatMessagesTemplate">
-    <div data-bind="attr: { 'id': 'chatbox_' + otherPartyProfileId }, style: { right: rightMargin(), bottom: '0px', display: 'block' }, event: { mouseover: chatWindowMouseOver, mouseout: chatWindowMouseOut }" class="chatbox">
-        <div class="chatboxhead">
-            <div class="actionsDiv" style="display: none;">
-                <a href="javascript:void(0)" data-bind="click: openWindowForMessage" title="Popout Window">
-                    <img src="/images/popout-small.png" /></a><a href="javascript:void(0)" data-bind="click: getLatest" title="Get Latest Messages"><img src="/images/refresh-small.png" /></a>
-            </div>
-            <div class="chatboxtitle"><a href="javascript:void(0)" data-bind="click: viewProfile, text: otherPartyDisplayName, title: otherPartyDisplayName" /></div>
-            <div class="chatboxoptions">
-                <a href="javascript:void(0)" data-bind="click: toggleMinimized, text: isChatWindowMinimized() ? '+' : '-'" title="Toggle visibility" style="margin-right: 5px"></a><a href="javascript:void(0)" data-bind="    click: closeChat" title="Close">X</a>
-            </div>
-            <br clear="all" />
-        </div>
-        <div class="chatboxcontent" data-bind="visible: !isChatWindowMinimized()">
-            <a data-bind="visible: areMoreMessages() && convoMessages().length > 0, click: getMore" style="display: block; width: 100%" href="javascript:void(0)">Show older...</a>
-            <div data-bind="template: { name: 'chatMsgTemplate', foreach: convoMessages }"></div>
-        </div>
-        <div class="chatboxinput" data-bind="visible: !isChatWindowMinimized()">
-            <textarea class="chatboxtextarea" data-bind="event: { keypress: messageKeyPress, focus: resetUnreadCount, blue: lostFocus }"></textarea>
-        </div>
-    </div>
-</script>
-<script type="text/html" id="chatMsgTemplate">
-    <div class="chatboxmessage">
-        <span class="chatboxmessagefrom" data-bind="text: senderName"></span>:  <span class="chatboxmessagecontent contentText" data-bind="    text: message, visible: imageId.length <= 3 && !isVoiceMessage"></span><a class="voice-msg-link" data-bind="    click: playVoiceMessage, visible: isVoiceMessage">Play voice message</a>
-        <div class="msgPicture" data-bind="visible: imageId.length > 3">
-            <a data-bind="attr: { href: WNM.Web.Scripts.Utils.getRawImageUrl(imageId) }" class="lightbox">
-                <div data-bind="style: { backgroundImage: 'url(\'' + WNM.Web.Scripts.Utils.getImageUrl(imageId, 125) + '\')', height: '125px', width: '125px' }" class="wnmImage"></div>
-            </a>
-        </div>
-    </div>
-</script>
+<div id="chatBoxes" data-bind="template: { name: '/templates-4/chatbox', foreach: conversations, afterAdd: chatAdded }"></div>
 <div style="display: none">
     <audio id="newMessageAudio">
         <source src="/misc/message.mp3" type="audio/mp3">
@@ -666,47 +398,123 @@ Errors:        None
 
         
         
+<div id="miniProfileDiv" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" onclick="$('#miniProfileDiv').modal('hide');" aria-hidden="true">×</button>
+                <div class="label-container pull-right">
+                   <span data-bind="visible: isGold" class="label label-warning" style="cursor: pointer;" onclick="window.location='/gold';">GOLD</span>&nbsp;<span data-bind="visible: isStaff" class="label label-danger">Staff</span>&nbsp;<span data-bind="    visible: isAdmin" class="label label-danger">Admin</span>&nbsp;<span data-bind="    visible: isVIP" class="label label-info">VIP</span>&nbsp;<span data-bind="    visible: isVerified" class="label label-success">Verified</span>&nbsp;
+                </div>
+                <h4 class="modal-title" data-bind="text: displayName"></h4>
+            </div>
+            <div class="modal-body">
+
+                <div class="row">
+                    <div class="col-lg-4" style="text-align: center;">
+                        <img alt="Profile Photo" class="img-circle" data-bind="attr: { src: displayImageUrl }, css: { gold: isGold }">
+                    </div>
+
+                    <div class="col-sm-4">
+                        <dl>
+                            <dt>Distance</dt>
+                            <dd data-bind="text: distance"></dd>
+                            <dt>Last Online</dt>
+                            <dd data-bind="text: lastContactAgo"></dd>
+                        </dl>
+                    </div>
+                    <div class="col-sm-4">
+                        <dl>
+                            <dt data-bind="visible: age().length > 0">Age</dt>
+                            <dd data-bind="visible: age().length > 0, text: age"></dd>
+                            <dt data-bind="visible: gender().length > 0">Gender</dt>
+                            <dd data-bind="visible: gender().length > 0, text: gender"></dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="row" data-bind="visible: interests().length > 0">
+                    <div class="col-xs-12">
+                        <dl>
+                            <dt>Interests</dt>
+                            <dd data-bind="text: interests"></dd>
+                        </dl>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12" data-bind="template: { name: '/templates-4/badge', foreach: badges, afterAdd: enableBadgePopover }">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+
+                <button data-bind="click: showFullProfilePage" type="button" class="btn btn-default ">View Profile</button>
+
+                <div class="btn-group" data-bind="visible: isLoggedIn">
+                    <button data-bind="click: openChat" type="button" class="btn btn-default ">Message</button>
+                    <button type="button" class="btn btn-default dropdown-toggle " data-toggle="dropdown">
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a data-bind="click: sendGift" href="#">Send Gift</a></li>
+                    </ul>
+                </div>
+
+                <button data-bind="visible: isLoggedIn, click: toggleFavorite, css: { 'btn-primary': isFavorite }, text: isFavorite() ? 'Unfollow' : 'Follow'" type="button" class="btn btn-default "></button>
+
+                <div class="btn-group" data-bind="visible: isLoggedIn">
+                    <button type="button" data-bind="click: blockUser" class="btn btn-danger ">Block</button>
+                    <button type="button" class="btn btn-danger dropdown-toggle " data-toggle="dropdown">
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a data-bind="click: report" href="#">Report</a></li>
+                    </ul>
+                </div>
+
+                <button data-bind="click: admin" type="button" class="btn btn-info adminHidden">ADMIN</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var miniProfileManager;
+    $(function () {
+        miniProfileManager = new WNM.Web.Scripts.Profile.MiniProfile();
+        miniProfileManager.init();
+    });
+</script>
+
+        
 <div id="peoplePanel">
-    
+
     <div class="mousescroll">
         <div id="panelPeople" style="display: none;">
 
             <div data-bind="visible: recentlyMessaged().length > 0">
                 <div class="header">
-                    <h4>Recent Contacts</h4>
+                    <h4>Recent</h4>
                 </div>
-                <div id="sideBar_recentlyMessagedDiv" data-bind="template: { name: 'personSideBarTemplate', foreach: recentlyMessaged }"></div>
+                <div id="sideBar_recentlyMessagedDiv" data-bind="template: { name: '/templates-4/personSideBar', foreach: recentlyMessaged }"></div>
             </div>
             <div data-bind="visible: followed().length > 0">
                 <div class="header">
                     <h4>Following</h4>
                 </div>
-                <div id="sideBar_followingDiv" data-bind="template: { name: 'personSideBarTemplate', foreach: followed }"></div>
+                <div id="sideBar_followingDiv" data-bind="template: { name: '/templates-4/personSideBar', foreach: followed }"></div>
             </div>
             <div data-bind="visible: online().length > 0">
                 <div class="header">
                     <h4>Online</h4>
                 </div>
-                <div id="sideBar_onlineDiv" data-bind="template: { name: 'personSideBarTemplate', foreach: online }"></div>
-                <div class="moreUsers" data-bind="visible: areMoreOnlineUsers"><a data-bind="click: getMoreOnlineUsers">Show more</a></div>
+                <div id="sideBar_onlineDiv" data-bind="template: { name: '/templates-4/personSideBar', foreach: online }"></div>
+                <div class="moreUsers" data-bind="visible: areMoreOnlineUsers"><a data-bind="    click: getMoreOnlineUsers">Show more</a></div>
             </div>
         </div>
     </div>
     <div id="panelLoading">
-        <img src="/images/panel-indicator.gif" title="Loading data...">
+        <img width="70" height="23" src="/images/panel-indicator.gif" title="Loading data...">
     </div>
 </div>
-<script type="text/html" id="personSideBarTemplate">
-    <div class="person" data-bind="click: openItem">
-        <div data-bind="style: { backgroundImage: 'url(\'' + WNM.Web.Scripts.Utils.getImageUrl(displayImageID, 35) + '\')', height: '35px', width: '35px' }" class="wnmImage">
-            <div class="badge" data-bind="visible: badgeCount() > 0, text: badgeCount"></div>
-            <div title="Online Now!" class="onlineBadge" data-bind="visible: isOnline"></div>
-        </div>
-        <div class="displayName" data-bind="text: displayName"></div>
-        <div class="lastOnline" data-bind="text: lastOnline, visible: !isOnline()"></div>
-    </div>
-    <div style="clear: left"></div>
-</script>
 <script type="text/javascript">
 
     $(function () {
@@ -721,7 +529,6 @@ Errors:        None
             <img class="webLogo" src="/images/web-logo.png" alt="WNM Live Logo">
         </div>
     </form>
-    <script type="text/javascript" src="/client.ashx"></script>
 
 
 </body></html>
