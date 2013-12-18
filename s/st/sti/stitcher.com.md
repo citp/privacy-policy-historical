@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2013-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130418233551id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022656id_/http%3A//www.stitcher.com/privacy) for the most accurate reproduction.*
 
 # Stitcher Radio | Privacy Statement
 
 Stitcher knows that you care about how your personal information is used and shared and we take your privacy seriously. This Privacy Policy discloses our privacy practices and the possible uses of the information that Stitcher, Inc. (“Stiticher”) gathers via our website at [http://www.stitcher.com](http://www.stitcher.com/), the Stitcher mobile application, and any other submissions by you to Stitcher (together, the “Services”). This Privacy Policy is supplementary to our [Terms of Use](http://www.stitcher.com/terms.php). 
 
-BY INSTALLING, USING, REGISTERING FOR OR OTHERWISE ACCESSING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY AND GIVE AN EXPLICIT AND INFORMED CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT INSTALL, USE, REGISTER TO OR OTHERWISE ACCESS THE SERVICES. 
+**BY INSTALLING, USING, REGISTERING FOR OR OTHERWISE ACCESSING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY AND GIVE AN EXPLICIT AND INFORMED CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT INSTALL, USE, REGISTER TO OR OTHERWISE ACCESS THE SERVICES.**
 
 Stitcher may update this Privacy Policy from time-to-time at our sole discretion. It is your responsibility to review the Privacy Policy for any changes each time that you use our Services and you are bound by such changes. Use of the Services by you following the posting of a new privacy policy on our website at [http://www.stitcher.com](http://www.stitcher.com/) constitutes your acceptance of the Privacy Policy as modified. 
 
