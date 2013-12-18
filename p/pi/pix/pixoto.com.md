@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixoto.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515194448id_/http%3A//www.pixoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixoto.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023000id_/http%3A//www.pixoto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixoto
 
