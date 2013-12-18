@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the carnival.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122002955id_/http%3A//www.carnival.com/cms/Static_Templates/privacypolicy.aspx%3Ficid%3DCC_Footer_82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnival.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218195914id_/http%3A//www.carnival.com/about-carnival/legal-notice/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Carnival.com
+# Privacy Policy | Legal | Carnival Cruise Lines
 
-This website is owned and operated by Carnival Cruise Lines, a division of Carnival Corporation ("Carnival"). Carnival is committed to respecting and protecting your privacy and helping you make the most of your time on the Internet within a trusted environment. The Carnival Privacy Policy (“Privacy Policy”) applies to the carnival.com website and governs its data collection, usage and services. This Privacy Policy discloses how we collect, protect, use and share information gathered about you on our website. If you use this site you explicitly agree to the terms and conditions of the Privacy Policy in effect at the time of your use. We hope that this disclosure will help increase your confidence in our website and enhance your experience on the Internet. Please read our Privacy Policy to understand:
-
-Information We Collect  
-Site Use Information  
-Use of Cookies  
-Information You Provide to Us  
-Email Promotions  
-Sweepstakes  
-Child Privacy  
-Your Access to Your Information  
-Disclosing Information to Third Parties  
-Affiliate Marketing Opt Out   
-Your California Privacy Rights  
-Transportation Security Administration Secure Flight Notice  
-Security Procedures to Protect Information  
-Inapplicability of Privacy Policies of any Linked Sites or Other Parties  
-Changes to this Privacy Policy  
-Your Comments are Appreciated
+This website is owned and operated by Carnival Cruise Lines, a division of Carnival Corporation ("Carnival"). Carnival is committed to respecting and protecting your privacy and helping you make the most of your time on the Internet within a trusted environment. The Carnival Privacy Policy (“Privacy Policy”) applies to the carnival.com website and governs its data collection, usage and services. This Privacy Policy discloses how we collect, protect, use and share information gathered about you on our website. If you use this site you explicitly agree to the terms and conditions of the Privacy Policy in effect at the time of your use. We hope that this disclosure will help increase your confidence in our website and enhance your experience on the Internet. Please read our Privacy Policy to understand::
 
 **Information We Collect**  
 You can visit our website without divulging any personally identifiable information including your email address. Our website does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis, such as when registering at our website or accessing our cruise booking application. Carnival uses such information collected primarily to provide better customer service to you, to improve and customize the content you see, to provide the products, services or membership benefits you request, and to contact you about special promotions and new products.
@@ -43,8 +26,9 @@ When you register we collect information which may include your name, address, g
 
 Information collected in My Cruise Manager may include Profile Information for yourself and those traveling with you. By providing us with the Profile Information of any third party, you are agreeing and acknowledging that you have the express right and authority to do so on their behalf.
 
-  
+Information collected in My Cruise Manager may include Profile Information for yourself and those traveling with you. By providing us with the Profile Information of any third party, you are agreeing and acknowledging that you have the express right and authority to do so on their behalf.
 
+Information collected through the Fun Job online application may include name, address, telephone and fax numbers, email address, age, education history, military service, immigration status and employment history. Job applicants may choose to provide this information by mail or fax instead of through the site. 
 
 Passengers are not required to use Online Check-in to submit information before they begin their cruise; the same information, which is required before boarding, can be provided over the telephone by calling 1-888-CARNIVAL or can be provided at the point of embarkation. Using Online Check-in will speed up your boarding process because information is submitted in advance. This information may be shared with governmental agencies including Customs or the Department of Homeland Security, with medical staff and with Carnival personnel. Carnival is required to share certain passenger information with local government agencies depending on clearance procedures at the port of call. We may keep your credit card and passport information on file and on our servers to enable you to make purchases on board more easily, to facilitate your boarding procedure and other transactions between us, and to resolve disputes as may arise between us and you.
 
@@ -69,9 +53,6 @@ You are responsible for the accuracy and completeness of all information you pro
 **Disclosing Information to Third Parties**  
 We do not sell our customers' information to third parties but we may share your information with our affiliated companies or with third parties. We will reveal personal information to unaffiliated third parties only if: (1) you request or authorize it; (2) the information is provided to help complete a transaction for you; (3) the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our Legal Notices or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.); (4) the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, customer information may be one of the transferred assets); (5) the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, sending emails about our products or services, etc.) or with whom we may have cooperative or joint marketing arrangements; (6) the information is shared with third parties for their marketing use, or (7) to others as described in this Privacy Policy. We may also gather aggregated data about you and disclose such aggregated (but not personally identifiable) information to third parties for promotional or other purposes. 
 
-  
-
-
 **Affiliate Marketing Opt Out**  
 Federal law gives you the right to limit some but not all marketing from Carnival. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from Carnival. 
 
@@ -82,18 +63,12 @@ Your choice to limit marketing offers will apply for 5 years from when you tell 
 **Your California Privacy Rights**  
 Carnival may disclose your personal information to our affiliates or other third parties for their use in the marketing of their products or services (as opposed to Carnival products or services) to you unless you tell us not to. In order to opt out of such sharing or for further information, please email: [privacypolicy@carnival.com](mailto:privacypolicy@carnival.com) or contact us toll free at **1-888-CARNIVAL.**
 
-  
-
-
 **Transportation Security Administration Secure Flight Notice**  
 The Transportation Security Administration (TSA) requires you to provide your full name, date of birth and gender for the purpose of watch list screening under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R. parts 1540 and 1560 for all commercial air travel within, into or out of the United States which is booked on or after August 15, 2009. 
 
 You may also provide your Redress Number, if available. If you book commercial air travel within, into or out of the United States in conjunction with your voyage we will request this information from you and forward it to the TSA as required by law. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area. 
 
 TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies or to review the system of records notice and the privacy impact assessment, please see the TSA Web site at www.tsa.gov.
-
-  
-
 
 **Security Procedures to Protect Information**  
 Security of personal information is extremely important to us. Carnival employs security measures consistent with standard industry practice to prevent unauthorized access to your personal information collected on and used by Carnival at this site. Our site uses SSL (Secure Sockets Layer) security technology to encrypt information you provide to us through the Site, but any information you provide us by email is unencrypted. SSL is an industry-standard protocol for encryption over the internet. Data transmission over the internet is never 100% secure.
@@ -106,16 +81,9 @@ Carnival's site may contain links to other sites such as our affiliates and thir
 **Changes to this Privacy Policy**  
 We will occasionally amend this Privacy Policy to reflect company and customer feedback and we reserve the right to make changes to this Privacy Policy at any time. The use of your information is subject to the Privacy Policy and Terms of Use in effect at the time of use. The provisions contained in this Privacy Policy supersede all previous notices or policies regarding our privacy practices with respect to this site. We post the effective date of our Privacy Policy on our site. We encourage you to check our site frequently to see the current Privacy Policy to be informed of how Carnival is committed to protecting your information and providing you with improved content on our website in order to enhance your online cruise planning experience. If we make material changes to this Privacy Policy we will post the revised Privacy Policy and the revised effective date on this site.
 
-  
-
-
 **Your Comments are Appreciated**  
-If you have any questions, comments or complaints regarding our Privacy Policy, you can contact us via telephone at **1-888-CARNIVAL** , or email: [privacypolicy@carnival.com](mailto:privacypolicy@carnival.com). If you have questions, comments or complaints not related to the Privacy Policy (e.g. reservations, cruise experience, marketing material, etc.), you can check the [Customer Service](https://web.archive.org/cms/fun/cruise_control/customer_service.aspx) area of this website. This site is owned and operated by Carnival Cruise Lines, a division of Carnival Corporation, which controls any information submitted through this site.
+If you have any questions, comments or complaints regarding our Privacy Policy, you can contact us via telephone at **1-888-CARNIVAL** , or email: [privacypolicy@carnival.com](mailto:privacypolicy@carnival.com). If you have questions, comments or complaints not related to the Privacy Policy (e.g. reservations, cruise experience, marketing material, etc.), you can check the [Customer Service](https://web.archive.org/content/customer_service.aspx) area of this website. This site is owned and operated by Carnival Cruise Lines, a division of Carnival Corporation, which controls any information submitted through this site.
 
 Effective Date: April 30, 2012.
 
-© 2012 Carnival Corporation, All rights reserved. 
-
-  
-  
-
+© 2013 Carnival Corporation, All rights reserved. 
