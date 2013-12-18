@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629041746id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023709id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
@@ -70,7 +70,7 @@ If you connect to Viator using Facebook, we may show you reviews, photos and tou
 
 You can also choose to access third-party social media websites and services through Viator (such as Facebook and Twitter). When you do so, you are sharing information with those sites, and the information you share is governed by their privacy policies.
 
-Some of the Personal Information we collect is shared with our service partners (e.g. tour operators) who are directly involved in fulfilling the purchases you have made from us. We only provide our service providers with your name and your local contact details, if you provide them (e.g., your hotel name for pick-ups and drop-offs, your local phone number, your mobile phone number, etc.) We do not provide our service providers with any other Personal Information. If you decide to provide any Personal Information directly to a service provider, we recommend that you review the service provider's privacy policy to determine how such service provider may use or disclose your Personal Information.
+Some of the Personal Information we collect is shared with our service partners (e.g. tour operators) who are directly involved in fulfilling the purchases you have made from us. We only provide our service providers with your name and your local contact details, if you provide them (e.g., your hotel name for pick-ups and drop-offs, your local phone number, your mobile phone number, your email address, etc.) We do not provide our service providers with any other Personal Information. If you decide to provide any Personal Information directly to a service provider, we recommend that you review the service provider's privacy policy to determine how such service provider may use or disclose your Personal Information.
 
 We also share your Personal Information with third parties contracted to provide us with marketing and data reporting services who are bound by an obligation of confidentiality and with other third-party marketing partners.
 
