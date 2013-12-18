@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fbdown.net privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609051603id_/http%3A//fbdown.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbdown.net privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218094216id_/http%3A//fbdown.net/privacy.php) for the most accurate reproduction.*
 
-# FBDOWN.net - Privacy Policy
+# Facebook Video Downloader Online - Privacy Policy
 
 This Privacy Policy governs the manner in which Facebook Video Downloader collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://fbdown.net](http://fbdown.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Facebook Video Downloader.
 
@@ -62,9 +62,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://fbdown.net](http://fbdown.net/)  
 contact@ztuts.com
 
-This document was last updated on May 10, 2013
-
-1\. Put the URL of the Video you want to Download.  
-2\. Click Download button to grab the video  
-3\. Right Click then Save as to download the video.  
-
+This document was last updated on November 15, 2013
