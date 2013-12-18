@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the wishwall.me privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515204313id_/http%3A//www.wish.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wishwall.me privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218021951id_/http%3A//www.wish.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# contextlogic-wish: http://ogp.me/ns/apps/contextlogic-wish# ">
 <meta property="og:site_name" content="Wish">
-<meta property="og:image" content="http://d3e8r6ddw4pe50.cloudfront.net/img/wicon_200.png?v=57aed4">
+<meta property="og:image" content="https://main.cdn.wish.com/img/wicon_200.png?v=57aed4">
 <meta property="fb:app_id" content="227791440613076">
 <meta property="fb:admins" content="122613039,122613985,500406911">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -18,7 +18,7 @@ Wish | Privacy Policy
 </title>
 <!-- description: keep this to ~150 characters, and remember that double quotes cut off the description -->
 <meta name="description" content="
-Learn more about ContextLogic's privacy policy, including what kind of information we collect and how we use it.
+Learn more about ContextLogic\'s privacy policy, including what kind of information we collect and how we use it.
 ">
 <!-- keywords: a comma-separated list that will be looked at by search engines -->
 <meta name="keywords" content="
@@ -31,21 +31,22 @@ wish,wishwall,wish wall,discount,discounts,win,free,rewards,product recommendati
 
 
 <!-- Note: Keyframes is here because there's some weirdness with the combination of blessed/sass that causes problems when imported using sass -->
-<link rel="stylesheet" type="text/css" href="http://d3e8r6ddw4pe50.cloudfront.net/css/keyframes.css?v=1f7894">
-<link rel="stylesheet" type="text/css" href="http://d3e8r6ddw4pe50.cloudfront.net/css/base_web.css?v=bcc924">
+<link rel="stylesheet" type="text/css" href="https://main.cdn.wish.com/css/keyframes.css?v=1f7894">
+<link rel="stylesheet" type="text/css" href="https://main.cdn.wish.com/css/base_web.css?v=b6c594">
 
 
-<link rel="stylesheet" type="text/css" href="http://d3e8r6ddw4pe50.cloudfront.net/css/document.css?v=115364">
-<link rel="stylesheet" type="text/css" href="http://d3e8r6ddw4pe50.cloudfront.net/css/site_side_nav.css?v=0ffa14">
+<link rel="stylesheet" type="text/css" href="https://main.cdn.wish.com/css/document.css?v=115364">
+<link rel="stylesheet" type="text/css" href="https://main.cdn.wish.com/css/site_side_nav.css?v=0ffa14">
 
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://d3e8r6ddw4pe50.cloudfront.net/css/ie7.css?v=122e34" />
+<link rel="stylesheet" type="text/css" href="https://main.cdn.wish.com/css/ie7.css?v=122e34" />
 <![endif]-->
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://d3e8r6ddw4pe50.cloudfront.net/css/ie8.css?v=d41d84" />
+<link rel="stylesheet" type="text/css" href="https://main.cdn.wish.com/css/ie8.css?v=d41d84" />
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://d3e8r6ddw4pe50.cloudfront.net/css/en.css?v=d41d84">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+
+<link rel="stylesheet" type="text/css" href="https://main.cdn.wish.com/css/en.css?v=d41d84">
+<script type="text/javascript" async="" src="//widget.uservoice.com/Pcmeu8pG0lqCctkMtJY0w.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 var JiffyParams = {
 uid : "page.privacy-policy"
 }
@@ -62,16 +63,25 @@ console.log("staticURL(" + path + ") was called!");
 return '/static/' + path;
 }
 </script>
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
-</script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js">
-</script>
 <script type="text/javascript">
-var cl_pixel_tracking=true;
+// this function is used to make sure that a url stays within the app
+// type domain
+function appTypeSafeUrl(path) {
+if (path.indexOf('/') == 0) {
+if (window.appType == 1 && path.indexOf('/lyke/') != 0) {
+path = '/lyke' + path
+}
+}
+return path;
+}
 </script>
 
-<script type="text/javascript" src="http://d3e8r6ddw4pe50.cloudfront.net/js/lib/require.min.js?v=977c94"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js">
+</script>
+
+<script type="text/javascript" src="https://main.cdn.wish.com/js/lib/require.min.js?v=977c94"></script>
 
 <script type="text/javascript">
 require.config({
@@ -111,12 +121,13 @@ You need to enable JavaScript to use this awesome site!
 
 
 <div id="container">
+
 <div id="header" class="logged-out-header">
 <div id="header-content" class="liquid-width">
 <div id="header-left">
 <a id="logo" href="/">
 
-<img src="http://d3e8r6ddw4pe50.cloudfront.net/img/headerlogo.png?v=abddd4">
+<img src="https://main.cdn.wish.com/img/headerlogo.png?v=c31164">
 
 </a>
 
@@ -124,13 +135,14 @@ You need to enable JavaScript to use this awesome site!
 </div>
 <div id="header-right" class="right">
 
-<div id="login-btn" class="fb-login-button cronkite" data-tid="1807">
+<div id="login-btn" class="login-button cronkite" data-tid="1807">
 Sign In
 </div>
 
 </div>
 </div>
 </div>
+
 
 <div id="subheader-banner">
 <div class="header-dropdown-banner">
@@ -142,7 +154,7 @@ Sign In
 Get amazing offers on products you love
 </span>
 <span class="learn-more-nav">
-<img src="http://d3e8r6ddw4pe50.cloudfront.net/img/downarrow.png?v=004fe4" class="arrow">
+<img src="https://main.cdn.wish.com/img/downarrow.png?v=004fe4" class="arrow">
 <span class="small-text">Learn More</span>
 </span>
 </div>
@@ -161,15 +173,15 @@ Get amazing offers on products you love
 <ul class="info-list">
 <li class="info-item">
 <div class="item-picture">
-<img src="http://d3e8r6ddw4pe50.cloudfront.net/img/how1.png?v=b00284">
+<img src="https://main.cdn.wish.com/img/how1.png?v=b00284">
 </div>
 <div class="item-text">
-Wish on Items You Like
+Save Items You Like
 </div>
 </li>
 <li class="info-item">
 <div class="item-picture">
-<img src="http://d3e8r6ddw4pe50.cloudfront.net/img/how2.png?v=9b3094">
+<img src="https://main.cdn.wish.com/img/how2.png?v=9b3094">
 </div>
 <div class="item-text">
 Organize Wish Lists
@@ -177,7 +189,7 @@ Organize Wish Lists
 </li>
 <li class="info-item">
 <div class="item-picture">
-<img src="http://d3e8r6ddw4pe50.cloudfront.net/img/how3.png?v=543e84">
+<img src="https://main.cdn.wish.com/img/how3.png?v=543e84">
 </div>
 <div class="item-text">
 Get Amazing Offers
@@ -194,33 +206,43 @@ Get Amazing Offers
 Shopping Made Fun
 </h2>
 <div class="fb-login-button fb-join-btn cronkite" data-tid="1805">
+<div class="fb-join-icon">&nbsp;</div>
 <div class="fb-join-text">
-Join via Facebook
+Sign up with Facebook
+</div>
+</div>
+<div class="email-signup-button cronkite grey-btn" data-tid="1810">
+<div class="email-join-icon">&nbsp;</div>
+<div class="email-join-text">
+Sign up with email
 </div>
 </div>
 <div class="facepile soft-hide">
-<div class="fb-facepile" data-size="large" data-app_id="227791440613076" data-max-rows="1" data-width="500" data-colorscheme="dark" <="" div="">
+<div class="fb-facepile" data-size="large" data-app_id="227791440613076" data-max-rows="1" data-width="500" data-colorscheme="dark">
+</div>
 </div>
 </div>
 <div id="basic-functionality-header" class="liquid-width clearfix">
 <div class="left left-div">
 <div class="left promo-text">
-Wish on items from our recommendations below
+Save items from our recommendations below
 </div>
-<img src="http://d3e8r6ddw4pe50.cloudfront.net/img/ic_bluearrowDown.png?v=958f64" class="arrow-down right">
+<img src="https://main.cdn.wish.com/img/ic_bluearrowDown.png?v=958f64" class="arrow-down right">
 </div>
 <div class="or-button">OR</div>
 <div class="right right-div">
 <div class="left promo-text">
-Upload items to your wishlist by clicking Add Product
+Edit your Wishlists on your profile
 </div>
-<img src="http://d3e8r6ddw4pe50.cloudfront.net/img/ic_bluearrowUp.png?v=df54f4" class="arrow-up right">
+<img src="https://main.cdn.wish.com/img/ic_bluearrowUp.png?v=df54f4" class="arrow-up right">
 </div>
-<img src="http://d3e8r6ddw4pe50.cloudfront.net/img/cancel.png?v=686294" class="close-btn">
+<img src="https://main.cdn.wish.com/img/cancel.png?v=686294" class="close-btn">
 </div>
+
 
 </div>
 
+<div id="content-wrapper">
 <div id="content" class="center soft-hide liquid-width">
 <div id="content-inner">
 
@@ -391,7 +413,7 @@ If we change our privacy policies and procedures, we will post those changes on 
 Your California Privacy Rights
 </div>
 <div class="section-body">
-California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties' direct marketing purposes. As stated in this Privacy Policy, ContextLogic will not sell or share your Personal Information with non-ContextLogic companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at privacy@ContextLogic.com or write to us at ContextLogic Privacy Policy, 20 California St. 4th Floor, San Francisco, CA 94111.
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties\' direct marketing purposes. As stated in this Privacy Policy, ContextLogic will not sell or share your Personal Information with non-ContextLogic companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at privacy@ContextLogic.com or write to us at ContextLogic Privacy Policy, 20 California St. 4th Floor, San Francisco, CA 94111.
 </div>
 </div>
 <div class="last-updated">
@@ -422,6 +444,8 @@ Last Updated: Dec 1, 2011
 <div id="padding-for-slider" class="hide"></div>
 </div>
 </div>
+<a href="#" id="contact-user-voice"></a>
+</div>
 <div id="footer">
 <div id="footer-content">
 <div id="footer-links">
@@ -444,18 +468,29 @@ Merchants<sup> New</sup>
 </div>
 </div>
 </div>
-<div id="wish-feedback" style="display:none;"></div>
+
 
 <div id="fb-root"></div>
 
-<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script src="https://connect.facebook.net/en_US/all.js"></script>
+
 
 <script type="text/javascript">
 var commerce_cookie_urls = {
 'iscommerc' : 'cmrc_em_c',
-'fb_cmpgn' : 'cmrc_ad_c'
+'fb_cmpgn' : 'cmrc_ad_c',
+'cmrc_ref' : 'cmrc_ref_c'
 };
 var commerce_onsite_view = 'cmrc_site_v';
+</script>
+<script type="text/javascript">
+var appTypeDisplayName="Wish";
+</script>
+<script type="text/javascript">
+var appTypeDeepLink="wish";
+</script>
+<script type="text/javascript">
+var appType=0;
 </script>
 <script type="text/javascript">
 var pageParams={};
@@ -470,10 +505,10 @@ var fb_appid="227791440613076";
 var debug=false;
 </script>
 <script type="text/javascript">
-var fb_permissions=["email","user_interests","friends_interests","user_likes","friends_likes","user_birthday","friends_birthday","user_education_history","friends_education_history","user_location","friends_location","user_hometown","friends_hometown","user_relationships","friends_relationships","publish_actions"];
+var fb_permissions=["email","user_interests","user_likes","user_birthday","friends_birthday","user_location","user_hometown","publish_actions"];
 </script>
 <script type="text/javascript">
-var sweeper_uuid="c9a700bfe4c045febe4c2d18faa1799e";
+var sweeper_uuid="09c3dc08a5dd43e69b40d7ab9e93036a";
 </script>
 <script type="text/javascript">
 var browser_type=null;
@@ -501,41 +536,80 @@ var userObj=null;
 </script>
 
 <script>
+window.country_code = null;
+window.currency_code = "USD";
 window.locale_info = {};
 window.locale_info['locale'] = "en";
 window.locale_info['locale_json'] = null;
 </script>
+<!-- Friend JS -->
 
 <script type="text/javascript">
 var CONTEST_NAME_MAX_LENGTH=300;
 </script>
 <!-- For A/B testing -->
 <script type="text/javascript">
-var fixed_feed_male_gt_24_exp="control"
+var commerce_theme_header_exp="control"
 </script><script type="text/javascript">
-var save_share_buttons_web_old_user_exp="control"
+var commerce_theme_tile_exp="control"
 </script><script type="text/javascript">
-var save_share_buttons_web_new_user_exp="control"
+var mobile_gwallet_checkout_offer_exp="control"
 </script><script type="text/javascript">
-var personalized_feed_algo_exp="control"
+var hide_zero_inventory_variation_exp="control"
 </script><script type="text/javascript">
-var bold_header_text_exp="control"
+var ct_random_only_x_left_exp="control"
+</script><script type="text/javascript">
+var auto_convert_european_size_exp="control"
+</script><script type="text/javascript">
+var auto_add_fake_size_exp="control"
+</script><script type="text/javascript">
+var handle_prepaid_exp="control"
+</script><script type="text/javascript">
+var mobile_handle_prepaid_exp="control"
+</script><script type="text/javascript">
+var web_stripe_checkout_exp="control"
+</script><script type="text/javascript">
+var mobile_gwallet_stripe_checkout_exp="control"
+</script><script type="text/javascript">
+var stripe_checkout_exp="control"
+</script><script type="text/javascript">
+var web_c2c_exp="control"
+</script><script type="text/javascript">
+var feed_add_to_cart_exp="control"
+</script><script type="text/javascript">
+var positive_rating_sort_exp="control"
+</script><script type="text/javascript">
+var unlimited_gift_card_exp="control"
+</script><script type="text/javascript">
+var friend_profile_gift_it_exp="control"
+</script><script type="text/javascript">
+var mobile_gifting_related_products_exp="control"
+</script><script type="text/javascript">
+var mobile_gifting_notes_exp="control"
+</script><script type="text/javascript">
+var mobile_c2c_exp="control"
+</script><script type="text/javascript">
+var mobile_hide_paypal_exp="control"
+</script><script type="text/javascript">
+var mobile_birthday_promo_tiles_exp="control"
+</script><script type="text/javascript">
+var cond_prob_related_products_exp="control"
+</script><script type="text/javascript">
+var cond_prob_v2_exp="control"
+</script><script type="text/javascript">
+var feed_commerce_2_exp="control"
 </script><script type="text/javascript">
 var curated_feed_female_shopping_exp="control"
 </script><script type="text/javascript">
-var curated_feed_male_lt_22_exp="control"
+var gecko_feed_android_exp="control"
 </script><script type="text/javascript">
-var nuser_curated_feed_female_20_to_30_exp="control"
+var gecko_feed_ios_exp="control"
 </script><script type="text/javascript">
-var curated_feed_female_gt_31_exp="control"
+var female_curated_first_exp="control"
 </script><script type="text/javascript">
-var nuser_curated_feed_female_lt_19_exp="control"
+var male_curated_first_exp="control"
 </script><script type="text/javascript">
-var curated_feed_male_gt_23_exp="control"
-</script><script type="text/javascript">
-var tagged_recommend_exp="control"
-</script><script type="text/javascript">
-var post_signup_modal_experiment_exp="control"
+var i18n_female_commerce_exp="control"
 </script><script type="text/javascript">
 var large_recommend_modal_exp="control"
 </script><script type="text/javascript">
@@ -543,34 +617,77 @@ var male_over28_feed_exp="control"
 </script><script type="text/javascript">
 var feed_different_signal_exp="control"
 </script><script type="text/javascript">
-var dynamic_reward_take_two_exp="control"
-</script><script type="text/javascript">
-var mobile_feed_recommend_2_exp="control"
-</script><script type="text/javascript">
-var mobile_show_product_tags_exp="control"
-</script><script type="text/javascript">
-var mobile_more_related_products_exp="control"
-</script><script type="text/javascript">
-var mobile_swipe_product_details_exp="control"
-</script><script type="text/javascript">
-var mobile_image_optimization_exp="control"
-</script><script type="text/javascript">
-var mobile_product_detail_inline_actions_exp="control"
-</script><script type="text/javascript">
-var mobile_recommend_for_gift_card_exp="control"
-</script><script type="text/javascript">
-var mobile_kiip_exp="control"
-</script><script type="text/javascript">
-var mobile_recommend_feed_widget_exp="control"
-</script><script type="text/javascript">
 var wtr_bucket_exp="control"
-</script>
-<script type="text/javascript">
-var save_share_buttons_web_exp=false;
+</script><script type="text/javascript">
+var commerce_bucket_feed_exp="control"
+</script><script type="text/javascript">
+var mobile_facebook_autofill_exp="control"
+</script><script type="text/javascript">
+var android_signup_method_exp="control"
+</script><script type="text/javascript">
+var ios_email_signup_exp="control"
+</script><script type="text/javascript">
+var web_email_signup_exp="control"
+</script><script type="text/javascript">
+var mobile_new_user_commerce_theme2_exp="control"
+</script><script type="text/javascript">
+var mobile_old_user_commerce_theme2_exp="control"
+</script><script type="text/javascript">
+var mobile_psuedo_localized_currency_exp="control"
+</script><script type="text/javascript">
+var mobile_google_checkout_exp="control"
+</script><script type="text/javascript">
+var mobile_custom_fulfilled_text_exp="control"
+</script><script type="text/javascript">
+var braintree_settle_on_ship_exp="control"
+</script><script type="text/javascript">
+var stripe_settle_on_ship_exp="control"
+</script><script type="text/javascript">
+var female_signup_flow_new_feed_exp="control"
+</script><script type="text/javascript">
+var male_signup_flow_new_feed_exp="control"
+</script><script type="text/javascript">
+var i18n_male_signup_flow_new_feed_exp="control"
+</script><script type="text/javascript">
+var show_wished_in_commerce_feed_exp="control"
+</script><script type="text/javascript">
+var mobile_ct2_variable_shipping_price_exp="control"
+</script><script type="text/javascript">
+var mobile_ct2_new_home_and_browse_exp="control"
+</script><script type="text/javascript">
+var mobile_ct2_new_home_and_browse_ios_exp="control"
+</script><script type="text/javascript">
+var mobile_ct2_new_home_and_browse_male_exp="control"
+</script><script type="text/javascript">
+var mobile_ct2_new_home_and_browse_ios_male_exp="control"
+</script><script type="text/javascript">
+var filter_bad_c2c_sellers_exp="control"
+</script><script type="text/javascript">
+var new_c2c_seller_page_exp="control"
+</script><script type="text/javascript">
+var mobile_google_checkout_offer_tile_exp="control"
+</script><script type="text/javascript">
+var mobile_save_for_price_us_male_exp="control"
+</script><script type="text/javascript">
+var mobile_save_for_price_us_female_exp="control"
+</script><script type="text/javascript">
+var mobile_save_for_price_i18n_female_exp="control"
+</script><script type="text/javascript">
+var mobile_save_for_price_i18n_male_exp="control"
+</script><script type="text/javascript">
+var mobile_live_support_exp="control"
+</script><script type="text/javascript">
+var mobile_native_gifting_menu_exp="control"
+</script><script type="text/javascript">
+var mobile_trusted_signup_logo_us_exp="control"
+</script><script type="text/javascript">
+var mobile_trusted_signup_logo_i18n_exp="control"
+</script><script type="text/javascript">
+var mobile_inactive_user_signup_flow_exp="control"
 </script>
 <!-- For client side image links -->
 <script type="text/javascript">
-var s3_main_image_url="https:\/\/s3-us-west-1.amazonaws.com\/sweeper-production-contestimage\/";
+var s3_main_image_url="https:\/\/d1zog42tnv16ho.cloudfront.net\/";
 </script>
 <script type="text/javascript">
 var s3_extra_images_url="https:\/\/d1g6p02fzf9bto.cloudfront.net\/";
@@ -578,16 +695,35 @@ var s3_extra_images_url="https:\/\/d1g6p02fzf9bto.cloudfront.net\/";
 <!-- For event ID mappings -->
 
 
-<script type="text/javascript" src="http://d3e8r6ddw4pe50.cloudfront.net/build-js-en/simple_page.js?v=3e13e4"></script>
+<script type="text/javascript" src="https://main.cdn.wish.com/build-js-en/simple_page.js?v=632134"></script>
 
 <!-- For handling https -->
 <script>
-window.protocol = "http";
+window.protocol = "https";
 </script>
 
 <div id="inlined-popup"></div>
 
+<script>
+UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/Pcmeu8pG0lqCctkMtJY0w.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+UserVoice.push(['set', {
+accent_color : '#448dd6',
+trigger_color : 'white',
+trigger_background_color : '#6aba2e'
+}]);
+UserVoice.push(['identify', {
+email : "unknown",
+name : "unknown",
+id : "unknown",
+type : "NOT LOGGED IN",
+account: {
+name : "unknown",
+id : "unknown",
+}}]);
+
+UserVoice.push(['addTrigger', '#contact-user-voice', { mode: 'contact' }]);
+</script>
 
 
 
-</div></body></html>
+</body></html>
