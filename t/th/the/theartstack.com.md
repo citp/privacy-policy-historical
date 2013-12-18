@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theartstack.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520091436id_/http%3A//theartstack.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartstack.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022033id_/http%3A//theartstack.com/pages/privacy) for the most accurate reproduction.*
 
-# ArtStack
+# ArtStack - art online
 
 ArtStack Limited ("ArtStack", "we", "us" or "our") is committed to protecting and respecting your privacy. This policy (together with our Terms of Use www.theartstack.com/pages/terms) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand how we will treat your personal data. For data protection purposes, the data controller is ArtStack Limited, incorporated and registered in England and Wales (Company number 7793201), whose registered office is 9th Floor, 107 Cheapside, London, EC2V 6DN, United Kingdom.
 
