@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the decoholic.org privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619011840id_/http%3A//decoholic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decoholic.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218223722id_/http%3A//decoholic.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Decoholic.org
+# Privacy Policy - Decoholic
 
 Decoholic never sell your personal information to third parties.
 
