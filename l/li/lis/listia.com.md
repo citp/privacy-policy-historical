@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listia.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629122242id_/http%3A//www.listia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listia.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023201id_/http%3A//www.listia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Listia.com Auctions for Free Stuff
 
@@ -32,3 +32,5 @@ Upon request we provide site visitors with access to contact information (e.g., 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated information policy, you may contact Us at the above e-mail address. 
+
+BBB Profile: [Listia Reviews](http://www.bbb.org/sanjose/business-reviews/internet-shopping/listia-in-mountain-view-ca-1000004929)
