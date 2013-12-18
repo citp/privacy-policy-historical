@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reverbnation.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630201135id_/http%3A//www.reverbnation.com/main/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reverbnation.com privacy policy that was archived on 2013-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218022227id_/http%3A//www.reverbnation.com/main/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,6 +9,7 @@
   <meta name="author" content="eMinor">
   <meta name="copyright" content="Copyright (c) by eMinor.  All Rights Reserved.">
   <meta name="keywords" content="songs, lyrics, music">
+  <meta name="globalsign-domain-verification" content="uA3HXlqwygDE05SIMENXziRJJfWhv_QYARYZPBIjSp">
   <link rel="canonical" href="http://www.reverbnation.com/main/privacy">
   <link rel="shortcut icon" href="http://gp1.wac.edgecastcdn.net/802892/production_static/images/favicon.ico">
   <meta property="fb:app_id" content="2498397125">
@@ -22,35 +23,38 @@
   <meta name="twitter:site" value="@ReverbNation">
   
 
-  <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.js"></script><script type="text/javascript">
+  <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">
     window.onload = function() {
       window.onloadCalled = true;
     };
     if (location.href.match(/#\!((\/|\?){1}.*)/) ) location.href = RegExp.$1;
     Reverb = window["Reverb"] || {}; Reverb.env = 'production';
     window.logTime = function(message){}
+
+    window.CKEDITOR_BASEPATH = 'https://gp1.wac.edgecastcdn.net/802892/production_static/javascripts/ckeditor/'
     
   </script>
 
-    <link href="http://gp1.wac.edgecastcdn.net/802892/production_static/stylesheets/compiled/v3/main.css?1372366263" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://gp1.wac.edgecastcdn.net/802892/production_static/stylesheets/compiled/v3/main.css?1387226651" media="screen" rel="stylesheet" type="text/css">
 
   <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="//gp1.wac.edgecastcdn.net/802892/production_static/assets/v3_common-datauri.css?1372366256" media="screen" rel="stylesheet" type="text/css">
+<link href="//gp1.wac.edgecastcdn.net/802892/production_static/assets/v3_common-datauri.css?1387226647" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 <!--[if lte IE 7]>
-<link href="//gp1.wac.edgecastcdn.net/802892/production_static/assets/v3_common.css?1372366256" media="screen" rel="stylesheet" type="text/css" />
+<link href="//gp1.wac.edgecastcdn.net/802892/production_static/assets/v3_common.css?1387226647" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 
   
 
-      <script src="//gp1.wac.edgecastcdn.net/802892/production_static/assets/v3_common.js?1372366256" type="text/javascript"></script>
+      <script src="//gp1.wac.edgecastcdn.net/802892/production_static/assets/v3_common.js?1387226647" type="text/javascript"></script>
 
+    <link href="http://gp1.wac.edgecastcdn.net/802892/production_static/stylesheets/compiled/v3/control_room.css?1387226651" media="screen" rel="stylesheet" type="text/css">
 
 
   <script type="text/javascript">
     (function(){
-      var date_parts = "2013-6-30".split("-"), p = parseInt
+      var date_parts = "2013-12-17".split("-"), p = parseInt
 
       Reverb.TODAY = new Date(p(date_parts[0]), (p(date_parts[1]) - 1), p(date_parts[2]))
     })();
@@ -58,13 +62,14 @@
     $j = jQuery.noConflict();
     window.IMAGE_CACHE_SERVER = "http://gp1.wac.edgecastcdn.net/802892/production_static";
     window.GAPI_CONFIG = {"accessKey":"AIzaSyD8wq_rgQMnDzVzYQldTbUzrkrR58dQhs8","clientId":"780260991283.apps.googleusercontent.com"};
+    window.google_key = "AIzaSyD8wq_rgQMnDzVzYQldTbUzrkrR58dQhs8";
 
     jQuery(function(){
       logTime("Dom loaded after")
       
         Reverb.HeaderMessage.clear();
 
-      setupInlinePlayer( {force: false, pass: "6f9c9799bc12580c5240d1b7193ef629", has_user: false, rn_user: "", debugMode: false } );
+      MusicPlayer.setup( {force: false, pass: "b7913c085aaea7982d363116cc117b8e", has_user: false, rn_user: "", debugMode: false } );
     });
   </script>
 
@@ -80,29 +85,22 @@
 </script>
 
   <script src="//cdn.optimizely.com/js/52073969.js"></script>
-  <!-- start Mixpanel -->
-<script type="text/javascript">
+  <script type="text/javascript">
   Reverb = window["Reverb"] || {};
-  Reverb.Mixpanel = Reverb.Mixpanel || {};
-  Reverb.Mixpanel.onloaded = [];
-  Reverb.Mixpanel.loaded = false;
+  Reverb.Mixpanel = Reverb.Mixpanel || {onloaded: [], loaded: false};
 
-  (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
-  b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
-  '//cdn.mxpnl.com/libs/mixpanel-2.2.js';d=c.getElementsByTagName("script")[0];
-  a._i=[];a.init=function(b,c,f){function d(a,b){
-  var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
-  Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
-  f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
-  'track_forms','register','register_once','unregister','identify','alias','name_tag',
-          'set_config','people.set','people.increment','people.track_charge','people.append'];
-  for(e=0;e< h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;d.parentNode.insertBefore(b,d);})(document,window.mixpanel||[]);
+  <!-- start Mixpanel -->
+  (function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");
+    a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+      typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g< i.length;g++)f(c,i[g]);
+    b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+  <!-- end Mixpanel -->
 
   mixpanel.init("ab0889532ba21199bab26025f9001ffd", {
     cookie_name: 'ab0889532ba21199bab26025f9001ffd_mixpanel', 
     loaded: function() {
       Reverb.log("Mixpanel activated.");
-      var autoParams = ['fb_source', 'fb_og_action', 'fb_og_object']; // utm_* are handled by mixpanel js
+      var autoParams = ['fb_source', 'fb_og_action', 'fb_og_object']; // utm parameters are also automatically copied to registered properties by the mixpanel js sdk, so don't add them here
       for (var i = 0; i < autoParams.length; i++) {
         var paramName = autoParams[i],
             paramValue = jQuery.getParameterByName(paramName);
@@ -121,7 +119,7 @@
     }
   });
 </script>
-<!-- end Mixpanel -->
+
 
 </head>
 
@@ -146,7 +144,7 @@
 
   <!-- logo -->
   <div id="reverbnation_logo_container" style="float:left;margin-right:5px;display:block">
-    <a href="/"><img alt="Reverbnation" height="30" id="ReverbNation" src="http://gp1.wac.edgecastcdn.net/802892/production_static/images/v3/standard_resources/rn_logos/reverbnation.png?1372149349" style="float:left;margin-top:8px" width="150"></a>
+    <a href="/"><img alt="Reverbnation" height="30" id="ReverbNation" src="http://gp1.wac.edgecastcdn.net/802892/production_static/images/v3/standard_resources/rn_logos/reverbnation.png?1386669203" style="float:left;margin-top:8px" width="150"></a>
   </div>
 
   <!-- search -->
@@ -157,7 +155,7 @@
 
   <script>
     $j(function($) {
-      $('#header_search input[type=text]').quickSearch({ search_path: '//search.reverbnation.com/search/quick.json', use_jsonp: true, musicians_gatekeeper_open: false });
+      $('#header_search input[type=text]').quickSearch({ search_path: '//gp1.wac.edgecastcdn.net/802892/production_search/search/quick.json', use_jsonp: true, musicians_gatekeeper_open: true, country_code: "US", should_record_performance_fn: function() { return false; /* Reverb.env != 'production' || Math.floor(Math.random() * 100) < 1 */ } });
     });
 
     $j('#search_submit_button').bind('click', function() {
@@ -186,7 +184,7 @@
       <div class="not_logged_in">
     <a class="no_navigate" href="/user/login" onclick="modal_open('/user/login_modal',null, {animTarget:this});; return false;" rel="nofollow">Log In</a>
     &nbsp;
-    <a href="/signup" class="standard_button size_small style_primary rounded">Signup For Free</a>
+    <a href="https://www.reverbnation.com/signup" class="standard_button size_small style_primary rounded">Sign Up For Free</a>
   </div>
 
   </div>
@@ -216,10 +214,9 @@
 </script>
 
   </div>
-  
-    <div id="docked_footer">
-      <div id="loading_gif">
-  <img alt="16x16_black" height="16" src="http://gp1.wac.edgecastcdn.net/802892/production_static/images/spinners/16x16_black.gif?1372149349" width="16">
+  <div id="docked_footer">
+    <div id="loading_gif">
+  <img alt="16x16_black" height="16" src="http://gp1.wac.edgecastcdn.net/802892/production_static/images/spinners/16x16_black.gif?1386669203" width="16">
   <span>Loading...</span>
 </div>
 
@@ -437,13 +434,12 @@
   MusicPlayer.bindPlaylist();
 </script>
 
-    </div>
-  
+  </div>
 </div>
 <noscript>
 <div id="warning_for_disabled_js_users" style="margin: 0 auto;position: relative;text-align: center; width: 980px;background:#555555; color:white; padding:10px;font-size:18px;line-height:26px;">
   <div style="float:left;">
-    <img alt="Noscript_exclamation" src="http://gp1.wac.edgecastcdn.net/802892/production_static/images/v3/front_facing/page_header/noscript_exclamation.png?1372149349" />
+    <img alt="Noscript_exclamation" src="http://gp1.wac.edgecastcdn.net/802892/production_static/images/v3/front_facing/page_header/noscript_exclamation.png?1386669203" />
   </div>
   <div style="float:left;margin-left:10px;text-align:left;">
     ReverbNation makes heavy use of javascript<br/>
@@ -454,9 +450,7 @@
 </noscript>
 
 
-  <div id="shadowcontainer" class="position:relative;z-index:-1">
-    <div id="maincontainer">
-
+<div id="page_header_message" class="clearfix hidden"></div>
 
 <div id="page_contents">
   
@@ -472,15 +466,17 @@
 
 
   
-    
 
 
 
 
 
 
-    
-  <div class="main_page privacy_policy page_body_wrapper">
+
+  
+
+
+<div class="main_page privacy_policy page_body_wrapper">
   <h1 class="page_header_">ReverbNation<span class="subheader_"> / Privacy Policy</span></h1>
 	Welcome to ReverbNation.com
     ("RN"), owned, produced and operated by eMinor Inc. Unless
@@ -722,9 +718,9 @@
     eMinor, Inc. <br>
     P.O. Box 2086<br>Durham, NC 27702
 </div>
-<script src="//gp1.wac.edgecastcdn.net/802892/production_static/assets/v3_extras.js?1372366256" type="text/javascript"></script><script type="text/javascript">
+<script src="//gp1.wac.edgecastcdn.net/802892/production_static/assets/v3_extras.js?1387226647" type="text/javascript"></script><script type="text/javascript">
   global_dim_overlay = new dimoverlay();
-  Reverb.Navigate.initialize_history();
+  Reverb.Navigate.initialize(false);
   CURRENT_PAGE_OBJECT = '';
 </script>
 <script type="text/javascript">
@@ -760,8 +756,59 @@
   });
 
   logTime("Lazy content load");
-</script><script type="text/javascript">logTime('Inline javascript loaded')</script>
-</div>
+</script>
+<script type="text/javascript">
+    jQuery(function(){
+      var tracked_songs = {}
+
+      var getSongId = function(sound){
+        return sound.cfg.song_id
+      }
+
+      var getCurrentTimestamp = function(){
+        return (new Date()).getTime()
+      }
+
+      var handleStreamRequest = function(sound){
+        var id = getSongId(sound)
+        if(id){
+          tracked_songs[id] = getCurrentTimestamp()
+        }
+      }
+
+      var handleStreamProgress = function(sound){
+        var id = getSongId(sound)
+        if(id && tracked_songs[id]){
+          var elapsed = getCurrentTimestamp() - tracked_songs[id]
+          tracked_songs[id] = null
+          trackResult(id, elapsed)
+        }
+      }
+
+      var trackResult = function(song_id, value){
+		if(Math.random()*100 <= 1){ // ~ 1% // </=>
+          Reverb.Mixpanel.trackEvent('song.stream',{
+            time_to_start_listening: value+'',
+            song_id: song_id+'',
+            user: 'unknown'
+          })
+        }
+
+      }
+
+
+      Reverb.playerReady(function(){
+        MusicPlayer.getInstance().bind({
+          'music_player:init_sound': function(e, sound){
+            handleStreamRequest(sound)
+          },
+          'music_player:progress': function(e, sound){
+            handleStreamProgress(sound)
+          }
+        })
+      })
+    })
+  </script><script type="text/javascript">logTime('Inline javascript loaded')</script></div>
 
   <div id="page_footer">
     <div class="footer_transition"></div>
@@ -795,7 +842,8 @@ jQuery(window).load(function() {
     <a href="/label-promotion">Managers</a><br>
     <a href="/venue-promotion">Venues</a><br>
     <a href="/fan-promotion">Fans</a><br>
-    <a href="/promoter-promotion">Promoters</a>
+    <a href="/promoter-promotion">Promoters</a><br>
+    <a href="/musicianpages">Musicians</a>
   </div>
   <div class="footer_column">
     <span class="column_header">Support</span><br>
@@ -803,6 +851,7 @@ jQuery(window).load(function() {
     <a href="/main/privacy">Privacy Policy</a><br>
     <a href="http://help.reverbnation.com" target="_blank">FAQ</a><br>
     <a href="mailto:abuse@reverbnation.com?subject=Abuse%20on%20page%20%2Fmain%2Fprivacy">Report Abuse</a><br>
+    <a href="mailto:dmca@reverbnation.com?body=Page%20in%20Question%3A%0A%0ABrief%20Synopsis%20of%20Infringement%3A&amp;subject=Reporting%20Infringement">Report Infringement</a><br>
     <a href="/main/refund_policy">Refund Policy</a><br>
     <a href="/user/forgot_password">Forgot Password</a>
   </div>
@@ -843,6 +892,7 @@ jQuery(window).load(function() {
     <span class="column_header">Mobile</span><br>
     <a href="/band-promotion/your_own_mobile_app">Your Own Mobile App</a><br>
     <a href="/band-promotion/mobile_control_room">Mobile Control Room</a><br>
+    <a href="/band-promotion/mobile_gig_finder">Gig Finder App</a><br>
   </div>
   <div class="footer_column tight">
     <span class="column_header">Shows</span><br>
@@ -859,22 +909,19 @@ jQuery(window).load(function() {
   </div>
   <div class="clearfix"></div>
 
-  <span style="color:#f1f1f1;">v.ap_checkout_rf-14973-g619bf43 web4.reverbnation.lan - RAILS 2.3.18</span>
+  <span style="color:#f1f1f1;">v.ap_checkout_rf-22071-g3c7e2e1 web13.reverbnation.lan - RAILS 2.3.18</span>
+  <p class="copyright_notice">eMinor, Inc. (c) 2013</p>
 </div>
 
-  </div>
-
-    </div>
   </div>
 
 <div id="dim_overlay" style="" ondblclick="modal_close();"></div>
 <div id="general_edit_container" class="float_edit_holder"></div>
 <div id="general_edit_container2" class="float_edit_holder"></div>
 
-
-  <div class="sticky_right_nav" id="sticky_right_nav">
-    
-  </div>
+<div class="sticky_right_nav" id="sticky_right_nav">
+  
+</div>
 
 
 
