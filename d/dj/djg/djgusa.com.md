@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the djgusa.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618221020id_/http%3A//www.djgusa.com/usa/eng/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djgusa.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218073421id_/http%3A//www.djgusa.com/usa/eng/Privacy) for the most accurate reproduction.*
 
-# Dorel Juvenile Group | Privacy Policy
+# Dorel Juvenile USA | DJGUSAPrivacy Policy
 
 This document sets forth the online Privacy Policy (the "Privacy Policy") of Dorel Juvenile Group, Inc. ("Dorel") for this website (the "Site"). By using or accessing this Site you signify your acknowledgment and assent to this Privacy Policy. If you have objections to the Privacy Policy, you should not access or use this Site. This Privacy Policy does not govern privacy practices associated with offline activities or the collection of information other than through the Site. This Privacy Policy is intended to help you understand how Dorel collects, uses and safeguards the personal information you provide on our Site. "Personal information" is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains.
 
