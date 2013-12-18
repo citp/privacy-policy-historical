@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handymanclub.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630064608id_/http%3A//namginc.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handymanclub.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219001948id_/http%3A//namginc.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -140,7 +140,7 @@ You may inform us if you wish to remove your personal information from our datab
 
   •         Motorcycle Riders Club of America = memberservices@ridersclubofamerica.com
 
-  •         Golf Partners Club = memberservice@partnersclubonline.com
+  •         Golf Partners Club = memberservice@golfpartnersclub.com
 
   •         National Street Machine Club = memberservices@streetmachineclub.com
 
@@ -153,8 +153,8 @@ You may inform us if you wish to remove your personal information from our datab
 4.    You can send your request via U.S. Postal Service to the following mailing address.  As indicated, please provide the specific club name in the first line of the address:
 
   [insert club name]  
-P.O. Box 3401  
-Minnetonka, MN 55343
+P.O. Box 1108  
+Charlotte, NC 28201-1207
 
   Please note: We are not responsible for removing information from third-party lists or entities with which we have shared your information pursuant to this policy.
 
