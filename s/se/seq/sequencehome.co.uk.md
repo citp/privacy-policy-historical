@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sequencehome.co.uk privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510043728id_/http%3A//www.sequencehome.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sequencehome.co.uk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219062434id_/http%3A//www.sequencehome.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Sequence
 
@@ -84,3 +84,5 @@ AddThis a social bookmarking service, allowing visitors to bookmark an item usin
 
 **5\. How to contact Sequence (UK) Limited**  
 5.1 We welcome your views about the Site and our Privacy Policy. If you would like to contact us with any enquiries or comments please send an e-mail to [website.feedback@sequencehome.co.uk](mailto:website.feedback@sequencehome.co.uk)
+
+5.2 If you wish to make a data subject access request (a request for access to your personal data) under the Data Protection Act 1998, please write to the Sequence (UK) Ltd at Group Legal Services, Bridgegate House, 5 Bridge Place, Lower Bridge Street, Chester CH1 1SA or email to [julian.kelbrick@sequencehome.co.uk](mailto:julian.kelbrick@sequencehome.co.uk) or to [faye.davies@sequencehome.co.uk](mailto:faye.davies@sequencehome.co.uk) and we shall acknowledge your request and confirm what we will need from you to carry out your request.
