@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cafepress.com privacy policy that was archived on 2013-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625031726id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cafepress.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219203601id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta charset="utf-8">
@@ -7,9 +7,13 @@
 <meta property="fb:admins" content="500076499,100002225233306">
 
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-LTCW"></script><script type="text/javascript">
-  var TBRUM=TBRUM||{};TBRUM.q=TBRUM.q||[]; TBRUM.q.push(['mark','firstbyte',(new Date).getTime()]);
-</script>
+<!--[if lt IE 8]> 
+	<script src="//content.cafepress.com/js/oldBrowserPopup.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+	<script src="//content.cafepress.com/CP2.0/js/vendor/html5shiv.js"></script>
+<![endif]-->
+
 
 
 
@@ -17,7 +21,7 @@
 <meta name="keywords" content="cafepress">
 <meta name="description" content="Part of the help pages at CafePress.com.">
 
-<script language="Javascript">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-LTCW"></script><script language="Javascript">
 <!--
 
 
@@ -37,13 +41,61 @@ function PremHelpLink(myfile, mytext) {
 </script>
 
 <!-- Start Includes -->
-<link rel="stylesheet" name="globalcss" href="http://content.cpcache.com/css/framework.min.css?v=e9d819e9602d2619367eeb5eb1162c69" type="text/css" media="all">
+<link rel="stylesheet" name="globalcss" href="http://content.cpcache.com/css/framework.min.css?v=1e316b7cf810e62a5a5f9a40ab07c2fa" type="text/css" media="all">
+<link rel="stylesheet" href="http://content.cpcache.com/mobile2.0/css/fonts.css?v=0ae29c14997b5785eccd953ad0b41a95">
+<link rel="stylesheet" href="http://content.cpcache.com/mobile2.0/css/global.css?v=3af0a70a63cc1631ba8647c8b10f13bc">
+
+<!--[if lt IE 8]> 
+<script type="text/javascript">
+    //old IE check
+
+	(function oldBrowserFunc(){
+	    if(typeof(jQuery) !== "undefined" && $.cookie('oldBrowser') !== "true") {	
+			(function(){
+				var cpLightbox = function(html, width){  
+		                if ($('.dialogcp').length == 0) {
+		                    var contents = $('<div class="dialogcp">'+html+'</div>').appendTo('body');
+		                } else { 
+		                    var contents = $('.dialogcp').html(html);
+		                }
+		                if (!width) {width = 'auto'}
+		                
+		                var contentbox = contents.dialog({  
+		                    width : width, 
+		                    modal : true, 
+		                    hide: 'fade', 
+		                    show: 'fade'
+		                });
+
+		                $('.ui-widget-overlay').click(function() {contentbox.dialog('close')})
+		            }
+		        cpLightbox("<div style='text-align: center; font-size: 14px; color: #333333; '><h3 style='font-size: 22px; line-height: 24px; color: #333333;'>CafePress.com does not support your current browser. </h3><br /> Please update your browser to fully utilize the features of CafePress.com.<br /><br /> We recommend using the latest version of <a style='color:#79a618;' href='https://www.google.com/intl/en/chrome/browser/'>Google Chrome</a>, <a style='color:#79a618;' href='http://www.mozilla.org/en-US/firefox/new/'>Firefox</a>, <a style='color:#79a618;' href='http://www.apple.com/safari/'>Safari</a>, or <a style='color:#79a618;' href='http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages'>Internet Explorer</a>. </div>");
+		        $.cookie('oldBrowser', 'true');
+			})();
+		} else {
+
+			function create(htmlStr) {
+			    var frag = document.createDocumentFragment(),
+			        temp = document.createElement('div');
+			    temp.innerHTML = htmlStr;
+			    while (temp.firstChild) {
+			        frag.appendChild(temp.firstChild);
+			    }
+			    return frag;
+			}
+
+			var fragment = create("<div style='text-align: center; font-size: 14px; color: #333333; '><h3 style='font-size: 22px; line-height: 24px; color: #333333;'>CafePress.com does not support your current browser. </h3><br /> Please update your browser to fully utilize the features of CafePress.com.<br /><br /> We recommend using the latest version of <a style='color:#79a618;' href='https://www.google.com/intl/en/chrome/browser/'>Google Chrome</a>, <a style='color:#79a618;' href='http://www.mozilla.org/en-US/firefox/new/'>Firefox</a>, <a style='color:#79a618;' href='http://www.apple.com/safari/'>Safari</a>, or <a style='color:#79a618;' href='http://windows.microsoft.com/en-us/internet-explorer/ie-10-worldwide-languages'>Internet Explorer</a>. </div>");
+			document.body.insertBefore(fragment, document.body.childNodes[0]);
+		}
+
+	})()
+
+</script>
+<![endif]-->
 <!--[if IE]>
 <style type="text/css">#global-frame,#pnlPageContent,#footerContainer{min-height:0;}div{min-height:0}#divPageContent,#ResultsBannerContainer,#ResultsHeaderContainer,#global-header-row3 div{min-height:auto}ul{min-height:0}</style>
 <![endif]-->
-<!--[if IE 7]>
-<style type="text/css">#global-header-row1{overflow:hidden}</style>
-<![endif]-->
+
 
 
 
@@ -101,7 +153,11 @@ window.cafepress.tracking.productFamily = '';
 window.cafepress.tracking.salesChannel = 'Other';
 window.cafepress.tracking.abTestString = '';
 window.cafepress.tracking.businessUnit = 'Retail';
-window.cafepress.tracking.searchTerm = '';
+
+       window.cafepress.tracking.searchQuery = '';
+       window.cafepress.tracking.searchTerm = '';
+
+
 window.cafepress.tracking.trafficMedium = 'Unknown';
 window.cafepress.tracking.utmTracking = '';
 	
@@ -127,7 +183,7 @@ Copyright 1997-2005 Omniture, Inc. -->
 	var AFFILIATE_CJ_PID="";
 	var LANDING_PAGE_MEMBER_NO="";
 	var AnalyzableVisitorExperimentAssignment="";
-	var VisitorId="54FE8E5AA08DD4ACEDAD6B09552B2A0F:52571FAFCFFB8F8998105630AF49B57C";
+	var VisitorId="B0799DB74DCDE38E09B82CC551B0A336:3C33D013E277D7CF6202DD8FBC1A999B";
 	var notpurchase_channel_CSR="False";
 	var AFFILIATE_TYPE="";
 	var AFFILIATE_MEMBER_NO="";
@@ -141,19 +197,19 @@ Copyright 1997-2005 Omniture, Inc. -->
 <!-- End SiteCatalyst code variables version: H.2. -->
 
 	<!-- Omniture Code Ends -->
-<script src="http://content.cpcache.com/js/allglobal.manualv2.min.js?v=644dd6d4bf2ff47f28c627c862cb36b1" type="text/javascript"></script>
-<!--test-->
-<script type="text/javascript">
-$(document).ready(function (){
-$("#cartItemCount").html("<u>"+window.cafepress.cartItemCount+"</u>");
-});
-</script>
+<script type="text/javascript" src="http://content.cpcache.com/js/allglobal.manualv2.min.js?v=1ee4289264e03bf39efa14f8b331ad3a"></script>
+<script type="text/javascript" src="http://content.cpcache.com/js/header.js?v=fb6930022a63548887211d240657e533"></script>
 
 
 
-<script type="text/javascript">
-  var TBRUM=TBRUM||{};TBRUM.q=TBRUM.q||[]; TBRUM.q.push(['mark','firstbyte',(new Date).getTime()]);
-</script>
+
+<!--[if lt IE 8]> 
+	<script src="//content.cafepress.com/js/oldBrowserPopup.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+	<script src="//content.cafepress.com/CP2.0/js/vendor/html5shiv.js"></script>
+<![endif]-->
+
 
 </head>
 <body>
@@ -161,1068 +217,633 @@ $("#cartItemCount").html("<u>"+window.cafepress.cartItemCount+"</u>");
 <div id="global-frame">
 
   <div id="global-header-bg"></div>
-
-
-
-<div id="global-header">
-	<div id="global-header-row1" class="global-header-row">
-		<!--[if IE]>
-<style type="text/css">
-input[type=submit],input[type=reset],input[type=button]{filter:chroma(color=#000000);}
-</style>
+	<!--[if lt IE 9]> 
+<style type="text/css">#global-header-cart a{ font-size: 1.4em; }</style>
 <![endif]-->
 <style type="text/css">
-/*CAF-882*/
-.logo13 {display: block;float: left;}
-#countrySelector {float: left;top:50px; width:25px;}
-#countrySelector .button {width: auto}
-#countrySelector .currencytext {display: none}
-#countrySelector .downarrow {margin: 5px 0 0 -5px}
-#global-filter-drop {border:1px solid #efefef !important;}
-.global-searchbox, .global-filter, #global-filter-drop {box-shadow: none !important; -o-box-shadow:none !important; -moz-box-shadow: none !important;}
-.global-searchbox {border-top: 1px solid #efefef !important;border-left: 1px solid #efefef!important;border-bottom: 1px solid #efefef!important;}
-#global-header-row1 {overflow: hidden!important;padding: 10px 0 0;height: 16px;margin: 0 auto; background: white}
-#global-header-row1-right a {font-weight: normal}
-#global-header-row1-left {left: 165px; margin: 0; float:left;}
-#global-header-row1-left li {float: left;}
-#global-header-row2-bottom {top:7px;}
-#global-header-row1-right {right: 0; top:0 !important; margin: 0; padding-top:0; float: right; position: relative;}
-#global-header-row1-left li {padding-right:8px;border-right: 1px solid #9cc73f; height: auto;}
-#global-header-row1-left li.last {border-right: none; padding-right: none}
-.speechtail {background-position: 125px 15px}
-#global-header-searchform {width: 600px}
-.global-searchbox {width: 436px}
-.acctlinks13 {float: left;display: block;padding: 10px 0 10px 10px;background: #efefef;height: 42px; width:80px;margin-left: 5px;}
-.acctlinks13 ul {margin: 0;line-height: 14px;}
-.acctlinks13 .signin {cursor: pointer;height: 45px; overflow: hidden;}
-.acctlinks13:hover {height: auto;}
-.acctlinks13:hover .signin {height: auto;}
-.acctlinks13 .upper {text-transform: uppercase;font-weight: bold;font-size: 12px;display: block;float: left;margin-bottom: 2px;}
-.acctlinks13 .upper a {text-decoration: none}
-#global-header-cart {width:60px;float: left;display: block;padding: 10px;background: #efefef;height: 42px; margin-left: 5px;right: 0;top: 0}
-#cartLabel {top:0;position: relative;text-transform: uppercase;width: auto;font-size: 12px;width: auto; text-align: center;}
-#cartLabel:hover {color:#79a618;}
-#global-header-carticon {background:url('http://content.cpcache.com/global/img/spritescommon_CAF-882v2.png') no-repeat -399px -36px;width:45px; padding: 0; height: 26px; left: 17px; top:27px;}
-#cartItemCount {top: 26px;left: 21px; font-size:15px;font-weight: normal;}
-#cartLabel {color: #363636}
-#globalPromoContainer {display:none;/*height: 18px; max-width: 400px;border-bottom: none;*/}
-#global-header-row2 {height: 90px}
-.expandpromo {display: none; margin-left: 8px}
-.expandpromo a {color:#79A618 !important}
-.promoClose {display:block;text-transform: uppercase;cursor: pointer;padding: 5px;margin: 5px;position: absolute;right: 0;top:0;}
-#tippyTopContainer img {display: block;margin: auto}
+#bfriday { display: none; background: #000; color: #fff; font-size: 1.8em; line-height: 1.4em; text-align: center; padding: 2.25%;}
+#bfriday i { color: #ffc400; font-size: .8em; }
+#bfriday div { display: inline-block; }
+.bfriday-bold { font-weight: bold; }
+.gold { color: #ffc400 }
+@media all and (max-width: 570px){
+    #bfriday { display: block; }
+ }
 </style>
-
-
-<ul id="global-header-row1-left">      
-<li class="last"></li>
-<li class="last expandpromo"><a rel="nofollow" href="#">See Today's Deals »</a></li>
-</ul>
-
-
-<!--<<ul id="global-header-row1-left">      
-<li class="last">CANVAS FLASH SALE that's perfect for mom! $38 for a 16x20 Canvas &nbsp;<a style="font-weight:normal;font-size:8px;cursor:pointer" onClick='window.open( "http://www.cafepress.com/cp/popup/index.aspx?page=saledetails_2", "myWindow", 
-	"height = 350, width = 400")'>CLICK HERE</a></li>
-</ul>-->
-
-<ul id="global-header-row1-right">      
-	<li class="last">
-		<a rel="nofollow" onclick="window.open( &quot;http://www.cafepress.com/cp/info/help/help_popup.aspx?page=help_guarantee.aspx&quot;, &quot;myWindow&quot;, 
-	&quot;height = 350, width = 300&quot;)" style="cursor:pointer">100% Satisfaction</a>
-	</li>
-	<li style="display:none"></li>
-</ul>
-
-
-	</div>
-	<div id="global-header-row2" class="global-header-row">
-		<div id="global-logo" class="speechtail">
-		<a class="logo13" href="http://www.cafepress.com" title="CafePress"><img id="countryLogo" src="http://content.cpcache.com/global/img/cafepress-us.gif" width="112" height="67" alt="CafePress" title="CafePress" style="margin:2px 0 0 2px;"></a>
-
-<div id="countrySelector">
-  <div class="button">
-    <div class="flag"></div><div class="currencytext">$ USD</div>
-    <div class="downarrow"></div>
-  </div>
-  <div id="countrySelectorPopup">
-    <div id="moreSites">
-      More International Sites
-      <ul>
-          <li>
-            <a href="http://www.cafepress.com.au">
-              <div class="flag au"></div>
-              Australia
-            </a>
-          </li>
-        
-          <li>
-            <a href="http://www.cafepress.ca">
-              <div class="flag ca"></div>
-              Canada
-            </a>
-          </li>
-        
-          <li>
-            <a href="http://www.cafepress.de">
-              <div class="flag de"></div>
-              Deutschland
-            </a>
-          </li>
-          <li>
-            <a href="http://www.cafepress.es">
-              <div class="flag es"></div>
-              España
-            </a>
-          </li>
-          <li>
-            <a href="http://www.cafepress.fr">
-              <div class="flag fr"></div>
-              France
-            </a>
-          </li>
-          <li>
-            <a href="http://www.cafepress.co.uk">
-              <div class="flag gb"></div>
-              United Kingdom
-            </a>
-          </li>
-      <li>
-            <a href="http://www.cafepress.com">
-              <div class="flag us"></div>
-              United States &amp; Worldwide
-            </a>
-          </li>
-      </ul>
-    </div>
-    <div id="currencySelector">
-      Change currency:
-      <select id="currencyOptions">
-          <option value="AUD">
-            $ AUD Australian Dollar
-          </option>
-          <option value="CAD">
-            $ CAD Canadian Dollar
-          </option>
-          <option value="EUR">
-            € EUR Euro
-          </option>
-          <option value="GBP">
-            £ GBP Pound Sterling
-          </option>
-          <option value="USD" selected="selected">
-            $ USD US Dollar
-          </option>
-      </select>
-    </div>
-  </div>
+<div id="bfriday" class="bb">
+    <div>Big Holiday Savings! <span class="bfriday-bold">20% OFF* </span></div><div>&nbsp;your entire order</div>
+    <div><span class="gold">Use code: <span class="bfriday-bold">HOLISAV</span></span><a href="http://www.cafepress.com/cp/popup/index.aspx?page=saledetails_affiliate2" target="_blank"> <i class="icon-info-sign"></i></a></div>
 </div>
 
-		
-
-		</div>
-		<div id="global-header-row2-top">
-			
-
-		</div>
-		<div id="global-header-row2-bottom">
-			<div id="global-header-searchform">
-  <form id="searchBarForm" name="searchBarForm" action="http://www.cafepress.com/cp/catalogExp/RedirectWithSEOURL.aspx" method="post">
-    <input id="c" name="c" value="100001" type="hidden">
-	<span id="global-filter-drop">
-	<span id="filter-value">All&nbsp;
-	</span>
-	<span class="filter-after"></span>
-	</span>
-	
-	<!--FOR WALL ART--><label id="departmentSearchlbl" style="display:none">Department</label>
-	
-    <input type="text" id="q" class="textinput global-searchbox" name="q" value="">
-    <input type="submit" id="global-searchbutton" value="Search" class="effects">
-  </form>
-</div>
-
-<div class="filter-popup">
-<ul class="selectReplacement">
-	<li value="100001">All</li>
-	<li value="100002">T-shirts</li>
-	<li value="202667">Baby Clothing</li>
-	<li value="100104">Bags</li>
-	<li value="202573">Canvas Art</li>
-	<li value="202774">Decorative Accessories</li>
-	<li value="202524">Drinking Glasses</li>
-	<li value="100148">Greeting Cards</li>
-	<li value="100245">Hats &amp; Caps</li>
-	<li value="202454">iPad Cases</li>
-	<li value="202063">iPhone Cases</li>
-	<li value="202482">Jewelry</li>
-	<li value="202667">Kids Clothing</li>
-	<li value="202748">Kitchen Accessories</li>
-	<li value="100214">Magnets</li>
-	<li value="100139">Mugs</li>
-	<li value="100152">Note Cards</li>
-	<li value="202696">Pet Stuff</li>
-	<li value="100165">Posters</li>
-	<li value="100193">Stickers</li>
-	<li value="100031">Sweatshirts &amp; Hoodies</li>
-	<li value="202690">Travel Accessories</li>
-	<li value="100144">Water Bottles </li>
-	<li value="100001"><a href="http://www.cafepress.com/+all" style="color:#636363; text-decoration:none">View All Products</a></li>
-
-
-	</ul>
-</div>
-
-			<div class="acctlinks13">
-	<ul class="signin">
-		<li id="signin"><div class="upper"><a rel="nofollow" class="signin-label" href="https://members.cafepress.com/login.aspx?passthru=yes">Sign In</a></div></li>
-		<li class="clear"></li>
-		<li id="youraccount"><a rel="nofollow" href="https://www.cafepress.com/cp/members/login.aspx?passthru=yes&amp;goto=/cp/members/index.aspx">Your Account</a></li>
-		<li><a href="https://members.cafepress.com/login.aspx?passthru=yes&amp;goto=https://members.cafepress.com/account/orderhistory.aspx" rel="nofollow">Track Order</a></li>
-		<li><a rel="nofollow" href="http://www.cafepress.com/cp/info/help/">Get Help</a></li>
-		<li><a href="/cp/shopkeepers/index.aspx?page=make-money">Sell</a></li>
-		<li><a href="/+pressboards+gifts">pressboards<sup>TM</sup></a></li>
-	</ul>
-</div>
-
-<div id="global-header-cart">
-	  <a rel="nofollow" href="http://www.cafepress.com/cp/viewcart.aspx?s=search">
-		<img id="global-header-carticon" src="http://content.cpcache.com/global/img/sprite-pixel.gif">
-		<span id="cartLabel">My Cart</span>
-		<span id="cartItemCount" class="global-header-cartcount"></span><br>
-		<span id="displayCurrencyForUK"></span>
-	  </a>
-</div>
-
-
-		</div>
-	</div>
-	<div id="global-header-row3" class="global-header-row">
-		<ul id="global-nav">
-			<li class="nav-1" id="sbproduct"><a class="L1">Shop by Product </a>
-				<div class="nav-tab">
-				<div class="nav-content">
-					<ul class="nav-menu">
-					<li class="nav-2 active"><a href="http://www.cafepress.com/+t-shirts" alt="T-shirts">T-shirts</a>
-						<div class="sub-menu first-menu">
-                        	<div class="nav-col1">
-							<a href="http://www.cafepress.com/+mens-t-shirts">Mens</a>
-                            <a href="http://www.cafepress.com/+womens-t-shirts">Womens</a>
-							<a href="http://www.cafepress.com/+kids-clothing">Kids</a>
-							<a href="http://www.cafepress.com/+baby-clothing">Baby</a><br>
-                            <a href="http://www.cafepress.com/+t-shirts">T-shirts</a>
-							<a href="http://www.cafepress.com/+long_sleeve_tees">Longsleeve</a>
-							<a href="http://www.cafepress.com/+tank-tops">Tank Tops</a>
-							<a href="http://www.cafepress.com/+performance-dry-t-shirts">Performance Dry</a>
-							<a href="http://www.cafepress.com/+womens-maternity">Maternity</a>
-							<a href="http://www.cafepress.com/+womens-plus-sizes">Plus Size</a>
-							<a href="http://www.cafepress.com/+polos">Polos</a>
-							
+<div id="tippyTopContainer"></div>
+<div class="header-border">
+<div class="header-wrap clearfix">
+    <!-- nav -->
+    <div class="all-wrap clearfix">
+    <div class="center-wrapper">
+      <div class="nav-search clearfix">
+            <ul class="nav">
+                <li class="nav-tab uc" id="nav-shop"><a href="http://www.cafepress.com/+all+gifts">Shop</a>
+                    <div class="sub-nav clearfix" id="sub-nav-shop">
+                        <div class="triangle-up"></div>
+                        <h3 class="uc touch-title">Browse By Department</h3>
+                          <ul class="column-main main-menu main-menu-apparel">
+                            <h4><a href="http://www.cafepress.com/+clothing">T-Shirts &amp; Clothing</a></h4>
+                            <div class="list-wrap">
+                                <li><a href="http://www.cafepress.com/+t-shirts">T-shirts <span class="hot">sale!</span></a></li>
+                                <li><a href="http://www.cafepress.com/+mens-t-shirts">Men's T-Shirts</a></li> 
+                                <li><a href="http://www.cafepress.com/+womens-t-shirts">Women's T-Shirts</a></li>
+                                <li><a href="http://www.cafepress.com/+baby-clothing">Baby Clothing</a></li>
+                                <li><a href="http://www.cafepress.com/+long_sleeve_tees">Long Sleeve T-Shirts</a></li>
+                                <li><a href="http://www.cafepress.com/+sweatshirts-hoodies">Sweatshirts &amp; Hoodies</a></li>
+								<li><a href="http://www.cafepress.com/+custom-embroidered-jackets+gifts">Jackets</a></li>
+                                <li><a href="http://www.cafepress.com/+pajamas">Pajamas</a></li>
+                                <li><a href="http://www.cafepress.com/+polos">Polos</a></li>
+                                <li><a href="http://www.cafepress.com/+tank-tops">Tank Tops</a></li>
+                                <li><a href="http://www.cafepress.com/+womens-maternity">Maternity <span class="hot">top seller!</span></a></li>
+                                <li><a href="http://www.cafepress.com/+womens-plus-sizes">Plus Sizes</a></li>
+                                <li><a href="http://www.cafepress.com/+clothing?cat=203597">Activewear</a></li>
+                                <li><a href="http://www.cafepress.com/+clothing?cat=203678">Loungewear</a></li>
+                                <li><a href="http://www.cafepress.com/+clothing">View All »</a></li>
                             </div>
-                            <div class="nav-col2">
-                            <a href="http://www.cafepress.com/+iron-man-movie+t-shirts">Iron Man 3 t-shirts</a>
-							<a href=" http://www.cafepress.com/+marathon+t-shirts">Marathon t-shirts</a>
-						    <a href="http://www.cafepress.com/+funny+t-shirts">funny t-shirts</a>
-                            <a href="http://www.cafepress.com/+pitchperfectmovie+t-shirts">Pitch Perfect t-shirts</a>
-                            <a href="http://www.cafepress.com/+fragglerock+t-shirts">Fraggle Rock t-shirts</a>
-                            <a href="http://www.cafepress.com/+startrektv+t-shirts">Star Trek t-shirts</a>
-							<a href="http://www.cafepress.com/+t-shirts">All T-shirts »</a>
+                          </ul>
+                                <ul>
+                                    <h4><a href="http://www.cafepress.com/+kids-baby" alt="Kids &amp; Baby">Kids &amp; Baby</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+baby-bodysuits">Baby Bodysuits <span class="hot">sale!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+baby-hat">Baby Hats</a></li>
+                                    <li><a href="http://www.cafepress.com/+baby-bibs">Baby Bibs</a></li>
+                                    <li><a href="http://www.cafepress.com/+kids-clothing">Kids Clothing</a></li>
+                                    <li><a href="http://www.cafepress.com/+kids-baseball-jerseys">Kids Baseball Jerseys</a></li>
+                                    <li><a href="http://www.cafepress.com/+kids-baby">View all »</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    <h4><a href="http://www.cafepress.com/+accessories">Accessories</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+bags">Bags</a></li>
+                                    <li><a href="http://www.cafepress.com/+hats-caps">Hats &amp; Caps</a></li>
+                                    <li><a href="http://www.cafepress.com/+footwear">Footwear</a></li>
+                                    <li><a href="http://www.cafepress.com/+jewelry">Jewelry <span class="hot">sale!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+accessories?cat=203224">Personal Accessories</a></li>
+                                    <li><a href="http://www.cafepress.com/+accessories">View all »</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    
+                                    <h4><a href="http://www.cafepress.com/+drinkware">Drinkware</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+mugs">Mugs <span class="hot">sale!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+water-bottles">Water Bottles</a></li>
+                                    <li><a href="http://www.cafepress.com/+flasks">Flasks <span class="hot">top seller!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+drinking-glasses">Drinking Glasses</a></li>
+                                    <li><a href="http://www.cafepress.com/+shot-glasses">Shot Glasses</a></li>
+                                    <li><a href="http://www.cafepress.com/+drinkware">View all »</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    
+                                    <h4><a href="http://www.cafepress.com/+wall-art">Wall art</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+posters">Posters</a></li>
+                                    <li><a href="http://www.cafepress.com/+framed-prints">Framed Prints</a></li>
+                                    <li><a href="http://www.cafepress.com/+wall-decals">Wall Decals</a></li>
+                                    <li><a href="http://www.cafepress.com/make/photo-on-canvas/">Photo On Canvas</a></li>
+                                    <li><a href="http://www.cafepress.com/+canvas-art">Canvas Art</a></li>
+                                    <li><a href="http://www.cafepress.com/+wall-art">View all »</a></li>
+                                    </div>
+                                </ul>
+                                
+                                <ul>
+                                    
+                                    <h4><a href="http://www.cafepress.com/+home">Home</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+ornaments">Ornaments <span class="hot">holiday!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+christmas+stocking?personalize=1">Stockings <span class="hot">holiday!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+kitchen-accessories">Kitchen Accessories</a></li>
+                                    <li><a href="http://www.cafepress.com/+shower-curtains">Shower Curtains <span class="hot">top seller!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+decorative-accessories">Home Décor</a></li>
+                                    <li><a href="http://www.cafepress.com/+pillows">Pillows</a></li>
+                                    <li><a href="http://www.cafepress.com/+home">View all »</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    
+                                    <h4><a href="http://www.cafepress.com/+cases">Cases &amp; Covers</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+iphone-cases">iPhone Cases</a></li>
+                                    <li><a href="http://www.cafepress.com/+samsung-cases">Samsung Cases</a></li>
+                                    <li><a href="http://www.cafepress.com/+ipod-touch-cases">iPod Touch Cases</a></li>
+                                    <li><a href="http://www.cafepress.com/+ipad-cases">iPad Cases</a> </li>
+                                    <li><a href="http://www.cafepress.com/+laptop-skins">Laptop Skins</a></li>
+                                    <li><a href="http://www.cafepress.com/+cases">View all »</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    
+                                    <h4><a href="http://www.cafepress.com/+hobbies">Hobbies</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+stickers-flair">Stickers &amp; Flair</a></li>
+                                    <li><a href="http://www.cafepress.com/+car-accessories">Auto <span class="hot">top seller!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+pet-stuff">Pet Stuff</a></li>
+                                    <li><a href="http://www.cafepress.com/+travel-accessories">Travel Accessories</a></li>
+                                    <li><a href="http://www.cafepress.com/+yoga-mats">Yoga Mats</a></li>
+                                    <li><a href="http://www.cafepress.com/+hobbies">View all »</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    
+                                    <h4><a href="http://www.cafepress.com/+stationery">Stationery</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+holiday+greeting_cards">Holiday Photo Cards <span class="hot">holiday!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+greeting_cards">Greeting Cards <span class="hot">sale!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/+note_cards">Note Cards</a></li>
+                                    <li><a href="http://www.cafepress.com/+invitations">Invitations</a></li>
+                                    <li><a href="http://www.cafepress.com/+calendars">Calendars</a></li>
+                                    <li><a href="http://www.cafepress.com/+journals">Journals</a></li>
+                                    <li><a href="http://www.cafepress.com/+stationery">View all »</a></li>
+                                    </div>
+                                </ul>
+
+                                <ul class="holiday-row">
+                                    <h4><a href="http://www.cafepress.com/+holiday-ideas+decorative-accessories">Holiday:</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+holiday-ideas+ornaments">Ornaments </a></li> 
+                                    <li><a href="http://www.cafepress.com/+holiday+greeting_cards">Photo Cards </a></li>
+                                    <li><a href="http://www.cafepress.com/+holiday+greeting_cards?page=2">Holiday Greeting Cards </a></li>
+                                    <li><a href="http://www.cafepress.com/+holiday-party+invitations">Invitations</a></li>
+                                    <li><a href="http://www.cafepress.com/+christmas+stocking?personalize=1">Stockings</a></li>
+                                    <li><a href="http://www.cafepress.com/+christmas+womens-maternity">Christmas Maternity Shirts</a></li>
+                                    <li><a href="http://www.cafepress.com/+christmas+pajamas">Christmas PJs</a></li>
+                                    <li><a href="http://www.cafepress.com/+holiday+t-shirts">Holiday Tees</a></li>
+                                    </div>
+                                </ul>
+                        
+                        <div class="clearfix sub-nav-extra">
+                            <div class="sne-signin">
+                                <span class="signin-button green-button"><a href="http://members.cafepress.com/login.aspx">Sign In</a></span>
+                                <span class="signup-button green-button"><a href="http://members.cafepress.com/login.aspx">Sign Up</a></span>
                             </div>
-						</div>
-					</li>
-				
-					<li class="nav-2"><a href="http://www.cafepress.com/+clothing" alt="Clothing">Clothing</a>
-						<div class="sub-menu">
-						
-							<a href="http://www.cafepress.com/+sweatshirts-hoodies">Sweatshirts &amp; Hoodies</a>
-							<a href="http://www.cafepress.com/+t-shirts">T-shirts</a>
-							<a href="http://www.cafepress.com/+tank-tops">Tank Tops</a>
-							<a href="http://www.cafepress.com/+performance-dry-t-shirts">Performance Dry T-shirts</a>
-							<a href="http://www.cafepress.com/+polos">Polos</a>
-							<a href="http://www.cafepress.com/+pajamas">Pajamas</a>
-							<a href="http://www.cafepress.com/+pants">Bottoms</a>
-							<a href="http://www.cafepress.com/+underwear-panties">Underwear &amp; Panties</a>
-							<a href="http://www.cafepress.com/+flip-flops">Flip Flops</a>
-							<a href="http://www.cafepress.com/+clothing">All Clothing »</a>
-						</div>
-					</li>
-				
-					<li class="nav-2"><a href="http://www.cafepress.com/+kids-baby" alt="Kids &amp; Baby">Kids &amp; Baby</a>
-						<div class="sub-menu">
-						
-							<div class="nav-col1">
-							
-                            <a href="http://www.cafepress.com/+baby-clothing">Baby Clothing</a>
-                            <a href="http://www.cafepress.com/+baby-bodysuits">Baby Bodysuits</a> 
-							<a href="http://www.cafepress.com/+baby-bibs">Baby Bibs</a>
-							<a href="http://www.cafepress.com/+baby-hat">Baby Hats</a>
-							<a href="http://www.cafepress.com/+baby-blanket">Baby Blankets</a>
-							<!-- <a href="http://www.cafepress.com/+toys">Toys</a> -->
-							<a href="http://www.cafepress.com/+teddy_bears">Teddy Bears</a>
-							
-							</div>
-							<div class="nav-col2">
-                            <a href="http://www.cafepress.com/+kids-clothing">Kids Clothing</a>
-                            <a href="http://www.cafepress.com/+kids-baseball-jerseys">Kids Baseball Jerseys</a>
-							<a href="http://www.cafepress.com/+kids-water-bottles">Kids Water Bottles</a>
-							<!-- <a href="http://www.cafepress.com/+flip-flops">Kids Flip Flops</a> -->
-                            <a href="http://www.cafepress.com/+toys">Kids Toys</a>
-                            <a href="http://www.cafepress.com/+lunch-bag">Kids Lunch Bags</a>
-							<!-- <a href="http://www.cafepress.com/make/3d-photo-gifts/catalog/8x10_3d_frames">Photo Frames</a>
-							<a href="http://www.cafepress.com/make/3d-photo-gifts/catalog/bookmarks">Bookmarks</a>
-                            				<a href="http://www.cafepress.com/make/3d-photo-gifts/catalog/rulers_6_inch">Rulers</a> -->
-                            				<a href="http://www.cafepress.com/make/3d-photo-gifts/catalog/backpack_tags">Backpack Tags</a>
-							<a href="http://www.cafepress.com/+kids-baby">All Kids &amp; Baby »</a>
-							</div>
-						</div>
-					</li>
-					
-					<li class="nav-2"><a href="http://www.cafepress.com/+accessories" alt="Accessories">Accessories</a>
-						<div class="sub-menu">
-						
-							<div class="nav-col1">
-							<a href="http://www.cafepress.com/+aprons">Aprons</a>
-							<a href="http://www.cafepress.com/+flip-flops">Flip Flops</a>
-							<a href="http://www.cafepress.com/+travel-accessories">Travel Accessories</a>
-							<a href="http://www.cafepress.com/+hats-caps">Hats &amp; Caps</a>
-							<a href="http://www.cafepress.com/+jewelry">Jewelry</a>
-							<a href="http://www.cafepress.com/+necklaces">Necklaces</a>
-                            <a href="http://www.cafepress.com/+charms">Charms</a>
-							<a href="http://www.cafepress.com/+bracelets">Bracelets</a>
-							<a href="http://www.cafepress.com/+earrings">Earrings</a>
-							<a href="http://www.cafepress.com/+keychains">Keychains</a>
-							</div>
-							<div class="nav-col2">
-							<a href="http://www.cafepress.com/+wallets">Wallets</a>
-							<a href="http://www.cafepress.com/+bags">Bags</a>
-							<a href="http://www.cafepress.com/+tote-bags">Tote Bags</a>
-							<a href="http://www.cafepress.com/+messenger-bags">Messenger Bags</a>
-							<a href="http://www.cafepress.com/+shoulder-bags">Purses &amp; Shoulder Bags</a>
-							<a href="http://www.cafepress.com/+bags?cat=203251">Diaper Bags</a>
- 							<a href="http://www.cafepress.com/+lunch-bag">Lunch Bags</a>
-							<a href="http://www.cafepress.com/+gym-bags">Gym Bags</a>
-							<a href="http://www.cafepress.com/+accessories?cat=203224">Personal Accessories</a>
-							<a href="http://www.cafepress.com/+accessories?cat=203242">Kids Accessories</a>
-                            <a href="http://www.cafepress.com/+accessories">All Accessories »</a>
-							</div>
-						</div>
-					</li>
-					
-					<li class="nav-2"><a href="http://www.cafepress.com/+drinkware" alt="Drinkware">Drinkware</a>
-						<div class="sub-menu">
-						    <div class="nav-col1">
-							<a href="http://www.cafepress.com/+mugs">Mugs</a>
-							<a href="http://www.cafepress.com/+water-bottles">Water Bottles</a>
-							<a href="http://www.cafepress.com/+thermos"><span style="text-transform:uppercase; color:#363636; font-size:12px; display:inline;">T</span>hermos<sup class="reg">®</sup></a>
-							<a href="http://www.cafepress.com/+can-coolers">Can Coolers</a>
-							<a href="http://www.cafepress.com/+steins">Steins</a>
-							<a href="http://www.cafepress.com/+drinking-glasses">Drinking Glasses</a>
-							
-                            </div>
-                            <div class="nav-col2">
-                            <a href="http://www.cafepress.com/+shot-glasses">Shot Glasses</a>
-							<a href="http://www.cafepress.com/+coasters">Drink Coasters</a>
-							<a href="http://www.cafepress.com/+flasks">Flasks</a>
-							<a href=" http://www.cafepress.com/+fitness+water-bottles">Fitness Water Bottles</a>
-                            <br>
-                            <a href="http://www.cafepress.com/+drinkware">All Drinkware »</a>
-							</div>
-						</div>
-					</li>
-					
-					<li class="nav-2"><a href="http://www.cafepress.com/+wall-art" alt="Wall Art">Wall Art</a>
-						<div class="sub-menu">
-						
-							<div class="nav-col1">
-							<a href="http://www.cafepress.com/+calendars">Calendars</a>
-							<a href="http://www.cafepress.com/+posters">Posters</a>
-							<a href="http://www.cafepress.com/+framed-prints">Framed Prints</a>
-							<a href="http://www.cafepress.com/+canvas-art">Canvas Art</a>
-							<a onclick="javascript:document.cookie='wallart-substrate=Board'" href="http://www.cafepress.com/+framed-prints">Mounted Prints</a>
-							<a href="http://www.cafepress.com/+wall-decals">Wall Decals</a>
-							</div>
-							<div class="nav-col2">
-							<a href="http://www.cafepress.com/+fathead">Fathead<sup class="reg">®</sup> Decals </a>
-							<a href="http://www.cafepress.com/+banners">Banners</a>
-							<a href="http://www.cafepress.com/+clocks">Clocks</a>
-                            <a href="http://www.cafepress.com/make/3d-photo-gifts/catalog/8x10_3d_frames">3D Photo Frames</a>
-							<a href="http://www.cafepress.com/make/photo-on-canvas">Your Photo on Canvas</a>
-                            <a href="http://www.cafepress.com/make/photo-on-metal/">Your Photo on Metal</a>
-							<a href="http://www.cafepress.com/+wall-art">All Wall Art »</a>
-							</div>
-						</div>
-					</li>
-					
+                            <h4>Best Sellers in:</h4>
+                            <ul class="clearfix sne-wide">
+                                <li><a href="http://www.cafepress.com/bestsellers/products/t-shirts" alt="T-shirts">T-shirts</a></li>
+                                <li><a href="http://www.cafepress.com/bestsellers/products/sweatshirts-hoodies" alt="Sweatshirts">Sweatshirts</a></li>
+                                <li><a href="http://www.cafepress.com/bestsellers/products/mugs" alt="Mugs">Mugs</a></li>
+                                <li><a href="http://www.cafepress.com/bestsellers/products/baby-bodysuits" alt="Baby Onesies">Baby Bodysuits</a></li>
+                                <li><a href="http://www.cafepress.com/bestsellers/products/pajamas" alt="Pajamas">Pajamas</a></li>
+                                <li><a href="http://www.cafepress.com/bestsellers/products/iphone-cases" alt="iPhone Cases">iPhone Cases</a></li>
+                                <li><a href="http://www.cafepress.com/bestsellers/products/aprons" alt="Aprons">Aprons</a></li>
+                                <li><a href="http://www.cafepress.com/bestsellers/products/bags" alt="Bags">Bags</a></li>
+                                <li><a href="http://www.cafepress.com/bestsellers/products/shower-curtains" alt="Shower Curtains">Shower Curtains</a></li>
+                            </ul>
+                            <h4 class="sale-link"><a class="red" href="http://www.cafepress.com/+sale+gifts">Shop Sales <i class="icon-tag"></i></a></h4>
+                        </div>
                     
-                    
-					<li class="nav-2"><a href="http://www.cafepress.com/+home" alt="Home">Home</a>
-						<div class="sub-menu">
-						
-							<div class="nav-col1">
-                            <a href="http://www.cafepress.com/+kitchen-accessories">Kitchen &amp; Entertaining</a>
-                            <a href="http://www.cafepress.com/+kitchen-accessories?cat=202892">Bar &amp; Wine Accessories</a>
-                            <a href="http://www.cafepress.com/+plates">Plates and Platters</a>
-                            <a href="http://www.cafepress.com/+kitchen-accessories?cat=202901">Kitchen Storage</a>
-                            <a href="http://www.cafepress.com/+trays">Serving Trays</a>
-                            <a href="http://www.cafepress.com/+coasters">Coasters</a>
+    					<!-- <div class="saleGifts clearfix">
+                               
+                            <h4><a style="color:red;" href="http://www.cafepress.com/+sale+gifts">Sale</a></h4> <h4><a href="http://www.cafepress.com/+gifts">Gifts</a></h4>
                             
-                            <a href="http://www.cafepress.com/+home?cat=202914">Living Room</a>
-                            <a href="http://www.cafepress.com/+clocks">Clocks</a>
-                            <a href="http://www.cafepress.com/+rugs">Rugs</a>
-                            <a href="http://www.cafepress.com/+pillows">Pillows</a>
-                            <a href="http://www.cafepress.com/+picture-frames">Picture Frames</a>
-                            <a href="http://www.cafepress.com/+blankets">Throw Blankets</a>
+    						<ul class="clearfix">
+                                <li><a alt="Personalized Gifts" href="http://www.cafepress.com/make/personalized-gifts">Personalized Gifts</a></li>
+                                <li><a alt="Photo Gifts<" href="http://www.cafepress.com/photo-gifts#design=68639582">Photo Gifts</a></li>
+                                <li><a alt="Stocking Stuffers" href="http://www.cafepress.com/+inexpensive+gifts">Stocking Stuffers</a></li>
+                             </ul>
+    						 
+    						 <ul class="clearfix">   
+    							<li><a alt="Gifts Under $25" href="http://www.cafepress.com/+holidaygiftsunder25+gifts">Gifts Under $25</a></li>
+                                <li><a alt="Gifts Under $35" href="http://www.cafepress.com/+holidaygiftsunder35+gifts">Gifts Under $35</a></li>
+                                <li><a alt="Gifts Under $50" href="http://www.cafepress.com/+holidaygiftsunder50+gifts">Gifts Under $50</a></li>
+                              </ul>
+    						 
+    						 <ul class="clearfix">  
+    							<li><a alt="Gifts for Him" href="http://www.cafepress.com/+mens+gifts">Gifts for Him</a></li>
+                                <li><a alt="Gifts for Her" href="http://www.cafepress.com/+womens+gifts">Gifts for Her</a></li>
+                                <li><a alt="Gifts for Kids" href="http://www.cafepress.com/+kids+gifts">Gifts for Kids</a></li>
+                            </ul>
+    						
+    						<ul class="clearfix">  
+    							<li><a alt="Likeable Gifts" href="http://www.cafepress.com/cp/fb/recommendations/">Likeable Gifts</a></li>
+                                <li><a alt="Most Pinned" href="http://www.cafepress.com/+most-pinned+gifts">Most Pinned</a></li>
+                                <li><a alt=" Holiday Photo Cards" href="http://www.cafepress.com/+holiday+greeting_cards"> Holiday Photo Cards</a></li>
+                            </ul>
+                        </div> -->
+
+    				</div>
+                
+				</li>
+                <li class="nav-tab uc" id="nav-create"><a href="http://www.cafepress.com/make/design-your-own">Create</a>
+                    <div class="sub-nav clearfix" id="sub-nav-create">
+                        <div class="triangle-up"></div>
+                        <div class="column-main main-menu">
+                            <ul>
+                                <li><h4><a class="hpdyo" href="http://www.cafepress.com/make/design-your-own" alt="Design your own">Design Your Own Products</a></h4></li>
+                                <li><h4><a href="http://www.cafepress.com/make/custom-apparel" alt="Clothing">Clothing</a></h4></li>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/make/custom-t-shirts">T-shirts <span class="hot">Top Seller!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/make/custom-hoodies-sweatshirts">Hoodies &amp; Sweatshirts</a></li>
+                                    <li><a href="http://www.cafepress.com/make/custom-baby-clothing">Baby Clothes &amp; Gear</a></li>
+									<li><a href="http://www.cafepress.com/make/custom-flip-flops">Flip Flops</a></li>
+                                    </div>
+                               
+                                   <li><h4><a href="http://www.cafepress.com/make/custom-home-office" alt="Home">Home</a></h4></li> 
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/make/custom-mugs">Mugs <span class="hot">Top Seller!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/make/custom-drinking-glasses">Drinking Glasses</a></li>
+                                    <li><a href="http://www.cafepress.com/make/custom-water-bottles">Water Bottles</a></li>
+									<li><a href="http://www.cafepress.com/make/custom-pillows">Pillows <span class="hot">Top Seller!</span></a></li>
+                                    <li><a href="http://www.cafepress.com/make/custom-aprons">Aprons</a></li>
+                                    <li><a href="http://www.cafepress.com/make/photo-on-canvas">Your Photo On Canvas</a></li>
+									<li><a href="http://www.cafepress.com/make/custom-clocks">Clocks</a></li>
+									<li><a href="http://www.cafepress.com/make/custom-shower-curtains">Shower Curtains</a></li>
+                                	</div>
+                            </ul>
+								
+                            <ul>
+								<li><h4>&nbsp;</h4></li>
+                                <li><h4><a href="http://www.cafepress.com/make/custom-seasonal-products" alt="Seasonal">Seasonal</a></h4></li>
+								<div class="list-wrap">
+								<li><a href="http://www.cafepress.com/make/personalized-ornaments">Ornaments <span class="hot">Top Seller!</span></a></li>
+                                <li><a href="http://www.cafepress.com/make/custom-stockings">Christmas Stockings</a></li>
+								<li><a href="http://www.cafepress.com/make/custom-photo-calendars">Calendars</a></li>
+								</div>
+								<li><h4><a href="http://www.cafepress.com/+cafepressgroups+gifts" alt="Groups &amp; Teams">Groups &amp; Teams</a></h4></li>
+								<div class="list-wrap">
+                                <li><a href="http://www.cafepress.com/+custom-embroidered-jackets+gifts">Custom Jackets <span class="hot">Top Seller!</span></a></li>
+                                <li><a href="http://www.cafepress.com/+custom-team-uniforms+gifts">Team Uniforms</a></li>
+                                <li><a href="http://www.cafepress.com/+cafepressgroups-brands+gifts">Top Brands <span class="new">(new!)</span></a></li>
+                                <li><a href="http://www.cafepress.com/+custom-embroidery+gifts">Embroidered Apparel</a></li>
+								</div>
+								<li><h4><a href="http://www.cafepress.com/make/custom-accessories" alt="Accessories">Accessories</a></h4></li>
+								<div class="list-wrap">
+                                <li><a href="http://www.cafepress.com/make/custom-iphone-cases">iPhone Cases</a></li>
+                                <li><a href="http://www.cafepress.com/make/custom-bags">Bags</a></li>
+                                <li><a href="http://www.cafepress.com/+monopoly+gifts">Custom <span style="text-transform:uppercase !important;">Monopoly</span><span class="new">(new!)</span></a></li>
+                                <li><a href="http://www.cafepress.com/make/design-your-own">See All »</a></li>
+								</div>
+							</ul>
+                            <img class="nav-design-img" src="http://content.cpcache.com/global/img/nav-design-1.jpg">
+                        </div>
+
+                        
+
+                        <div class="column-main main-menu">
+                            <ul>
+                                <li><h4><a href="http://www.cafepress.com/photo-gifts" alt="Photo Gifts">Photo Gifts</a></h4></li>
+								 <li><a href="http://www.cafepress.com/photo-gifts?category=photo-t-shirts">Photo T-Shirts</a></li>
+								<li><a href="http://www.cafepress.com/photo-gifts?category=photo-kids-and-baby">Photo Baby Gifts</a></li>
+								<li><a href="http://www.cafepress.com/photo-gifts?category=photo-pillow">Photo Pillows</a></li>
+								<li><a href="http://www.cafepress.com/photo-gifts?category=photo-mug">Photo Mugs</a></li>
+								<li><a href="http://www.cafepress.com/photo-gifts?category=photo-clock">Photo Clocks</a></li>
+								<li><a href="http://www.cafepress.com/make/photo-on-canvas/">Photo on Canvas</a></li>
+                                <li><a href="http://www.cafepress.com/make/photo-on-metal">Photo on Metal</a></li>
+								<li><a href="http://www.cafepress.com/photo-gifts?category=photo-bag">Photo Bags</a></li>
+								<li><a href="http://www.cafepress.com/photo-gifts?category=photo-cases">Photo Cases</a></li>
+                                <li><a href="http://www.cafepress.com/make/custom-photo-books">Photo Books</a></li>
+                                <li><a href="http://www.cafepress.com/photo-gifts?category=Photo-jewelry">Photo Jewelry</a></li>
+								<li><a href="http://www.cafepress.com/photo-gifts?category=photo-blankets">Photo Blankets</a></li>
+                                
+                                <!--<li><a href="http://www.cafepress.com/photo-gifts?category=photo-calendar">Photo Calendars</a></li>
+                                <li><a href="http://www.cafepress.com/photo-gifts?category=photo-button">Photo Buttons</a></li>
+                                <li><a href="http://www.cafepress.com/photo-gifts?category=photo-ornament">Photo Ornaments</a></li>
+                                <li><a href="http://www.cafepress.com/make/3D-photo-gifts">3D Photo Gifts</a></li>
+                                <li><a href="http://www.cafepress.com/photo-gifts">See all &raquo;</a></li>-->
+                            </ul>
+                            <img class="nav-design-img" src="http://content.cpcache.com/global/img/PhotoGifts-cnbdropdown-holiday.jpg">
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-tab uc" id="nav-sell"><a href="http://www.cafepress.com/cp/shopkeepers/index.aspx?page=make-money">Sell</a>
+                    <div class="sub-nav clearfix" id="sub-nav-sell">
+                        <div class="triangle-up"></div>
+                        <div class="column-main">
+                            <h4>Sell on CafePress</h4>
+                            <p>Transform your creativity into beautiful products, sell them on CafePress and make money.  It's easy and fun.</p>
+                            <a id="learnmore" href="http://www.cafepress.com/cp/shopkeepers/index.aspx?page=make-money">Learn more</a>
+                        </div>
+                        <div class="column-last">
+                            <img class="nav-design-img" src="http://content.cpcache.com/global/img/sell-dropdown.png" width="550">
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-tab uc" id="nav-gifts"><a class="red" href="http://www.cafepress.com/+christmas+gifts"><i class="icon-gift"></i> Gifts</a>
+                    <div class="sub-nav clearfix" id="sub-nav-gifts">
+                        <div class="triangle-up"></div>
+                        <div class="column-main">
+                            <ul>
+                                <h4>Home &amp; Party Guides</h4>
+                                <div class="list-wrap">
+                                <li><a href="http://www.cafepress.com/+holiday+greeting_cards">Holiday Cards </a></li>
+                                <li><a href="http://www.cafepress.com/+holiday-party+invitations">Holiday Invitations</a></li>
+                                <li><a href="http://www.cafepress.com/+holiday-ideas+decorative-accessories">Holiday Décor</a></li>
+                                <li><a href="http://www.cafepress.com/+fun-holiday-party-ideas+gifts">Holiday Party Ideas</a></li>
+                                <li><a href="http://www.cafepress.com/make/personalized-ornaments">Personalized Ornaments</a></li>
+                                <li><a href="http://www.cafepress.com/+holiday-ideas+ornaments ">Holiday Ornaments</a></li>
+								<li><a href="http://blog.cafepress.com/?p=13130">Fun Christmas Ideas</a></li>
+                                </div>
+                            </ul>
+							
+							<ul>
+                                <h4><a href="http://www.cafepress.com/+christmas+gifts">Gift Guides »</a></h4>
+                                <div class="list-wrap">
+                                <li><a href="http://www.cafepress.com/+holidaygiftsunder25+gifts">Gifts under $25</a></li>
+                                <li><a href="http://www.cafepress.com/+holidaygiftsunder35+gifts">Gifts under $35</a></li>
+                                <li><a href="http://www.cafepress.com/+holidaygiftsunder50+gifts">Gifts under $50</a></li>
+                                <li><a href="http://www.cafepress.com/+holiday+t-shirts">Holiday T-Shirts</a></li>
+                                <li><a href="http://www.cafepress.com/+personalized-holiday+gifts">Personalized Gifts</a></li>
+                                <li><a href="http://www.cafepress.com/photo-gifts#design=68639582 ">Photo Gifts</a></li>
+                                <li><a href="http://www.cafepress.com/+inexpensive+gifts ">Stocking Stuffers</a></li>
+                                </div>
+                            </ul>
                             
-                            
-							</div>
-							<div class="nav-col2">
-                            <a href="http://www.cafepress.com/+office-supplies">Home Office</a>
-                            <a href="http://www.cafepress.com/+bedding">Bedroom</a>
-                            <a href="http://www.cafepress.com/+shadestoink+gifts">Lampshades</a>
-                            <a href="http://www.cafepress.com/+curtains">Curtains</a>
-                            <a href="http://www.cafepress.com/+bedding">Bedding</a>
-							<a href="http://www.cafepress.com/+keepsake_boxes">Keepsake Boxes</a>
-							<a href="http://www.cafepress.com/+bathroom-decor">Bathroom</a>
-							<a href="http://www.cafepress.com/+shower-curtains">Shower Curtains</a>
-                            <a href="http://www.cafepress.com/+toiletry-bags">Toiletry Cases</a>
-							<a href="http://www.cafepress.com/+pet-stuff">Pet Stuff</a>
-							<a href="http://www.cafepress.com/+yoga-mats">Yoga Mats</a>
-                            <a href="http://www.cafepress.com/+ornaments">Ornaments</a>
+                            <div class="gifts-by-recipient">
+                                <ul>
+                                    <h4><a href="http://www.cafepress.com/+gifts-for-him+gifts">Gifts for Him »</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+modern-man+gifts">Modern Man</a></li>
+                                    <li><a href="http://www.cafepress.com/+geek-men+gifts">Geek Inside</a></li>
+                                    <li><a href="http://www.cafepress.com/+unique-dad+gifts">Dad of All Trades</a></li>
+                                    <li><a href="http://www.cafepress.com/+hipster-dude+gifts">Hipster Dude</a></li>
+                                    <li><a href="http://www.cafepress.com/+sports-lover+gifts">Sports Lover</a></li>
+                                    <li><a href="http://www.cafepress.com/+funny-guy+gifts">Funny Guy</a></li>
+                                    <li><a href="http://www.cafepress.com/+gym-rat+gifts">Gym Rat</a></li>
+                                    <li><a href="http://www.cafepress.com/+men-entertainment-junkie+gifts">Entertainment Junkie</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    <h4><a href="http://www.cafepress.com/+gifts-for-her+gifts">Gifts for Her »</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+fitness-freak+gifts">Fitness Freak</a></li>
+                                    <li><a href="http://www.cafepress.com/+nerd-girl+gifts">Nerdy-Hipster Chick</a></li>
+                                    <li><a href="http://www.cafepress.com/+artistic-women+gifts">Artsy Pants</a></li>
+                                    <li><a href="http://www.cafepress.com/+funny-girl+gifts">Funny Girl</a></li>
+                                    <li><a href="http://www.cafepress.com/+cute-her+gifts">Cute as a Button</a></li>
+                                    <li><a href="http://www.cafepress.com/+retro-women">Retro Gal</a></li>
+                                    <li><a href="http://www.cafepress.com/+stay-at-home-mom+gifts">Domestic Diva</a></li>
+                                    <li><a href="http://www.cafepress.com/+women-entertainment-junkie+gifts">Entertainment Junkie</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    <h4><a href="http://www.cafepress.com/+gifts-for-kids+gifts">Gifts for Kids/Babies »</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+funny-baby-and-kids+gifts">Witty One</a></li>
+                                    <li><a href="http://www.cafepress.com/+superhero-kids-babies+gifts">Super Hero Fanatic</a></li>
+                                    <li><a href="http://www.cafepress.com/+sports-kids-babies+gifts">Sports Superstar</a></li>
+                                    <li><a href="http://www.cafepress.com/+cute-kids-babies+gifts">Cutie Pie</a></li>
+                                    <li><a href="http://www.cafepress.com/+kids-babies-animal-lover+gifts">Animal Lover</a></li>
+                                    <li><a href="http://www.cafepress.com/+dreamer-kids-babies+gifts">Dreamer</a></li>
+                                    </div>
+                                </ul>
+                                <ul>
+                                    <h4><a href="http://www.cafepress.com/+gifts-for-teens+gifts ">Gifts for Teens »</a></h4>
+                                    <div class="list-wrap">
+                                    <li><a href="http://www.cafepress.com/+hipster-teen+gifts">Hipster</a></li>
+                                    <li><a href="http://www.cafepress.com/+techie-teens+gifts">Techie</a></li>
+                                    <li><a href="http://www.cafepress.com/+entertainment-lover-teen+gifts">Entertainment Lover</a></li>
+                                    <li><a href="http://www.cafepress.com/+funny-teen+gifts">Funny One</a></li>
+                                    <li><a href="http://www.cafepress.com/+sports-teen+gifts">Sports Fanatic</a></li>
+                                    <li><a href="http://www.cafepress.com/+girly-girl+gifts">Girly Girl</a></li>
+                                    </div>
+                                </ul>
                             </div>
-						</div>
-					</li>	
-					<li class="nav-2"><a href="http://www.cafepress.com/+cases" alt="Departments">Cases</a>
-						<div class="sub-menu">
-						
-							<a href="http://www.cafepress.com/+iphone-cases">iPhone Cases</a>
-							<a href="http://www.cafepress.com/+samsung-cases">Samsung Cases</a>
-							<a href="http://www.cafepress.com/+blackberry-cases">Blackberry Cases</a>
-							<a href="http://www.cafepress.com/+ipod-touch-cases">iPod Touch Cases</a>
-							<a href="http://www.cafepress.com/+ipad-cases">iPad Cases &amp; Sleeves</a>
-							<a href="http://www.cafepress.com/+kindle-sleeves">Kindle Sleeves</a>
-							<a href="http://www.cafepress.com/+nook-covers">Nook Covers</a>
-							<a href="http://www.cafepress.com/+laptop-skins">Laptop Skins</a>
-							<a href="http://www.cafepress.com/+cases">All Cases, Sleeves, &amp; Skins »</a>
-						</div>
-					</li>
-					
-					<li class="nav-2"><a href="http://www.cafepress.com/+stickers-flair" alt="Departments">Stickers &amp; Flair</a>
-						<div class="sub-menu">
-						
-							<div class="nav-col1">
-							<a href="http://www.cafepress.com/+stickers">Stickers</a>
-							<a href="http://www.cafepress.com/+bumper-stickers">Bumper Stickers</a>
-							<a href="http://www.cafepress.com/+wall-decals">Wall Decals</a>
-							<a href="http://www.cafepress.com/+laptop-skins">Laptop Skins</a>
-							<a href="http://www.cafepress.com/+bottle-labels">Bottle Labels</a>
-							<a href="http://www.cafepress.com/+car-magnets">Car Magnets</a>
-							<a href="http://www.cafepress.com/+hitch-covers">Hitch Covers</a>
-							<a href="http://www.cafepress.com/+license-plates">License Plates</a>
-                            <a href="http://www.cafepress.com/+license_plate_frames">License Plate Frames</a>
-							</div>
-							<div class="nav-col2">
-                            <a href="http://www.cafepress.com/+flags">Car Flags</a>
-							<a href="http://www.cafepress.com/+magnets">Refrigerator Magnets</a>
-							<a href="http://www.cafepress.com/+buttons">Buttons</a>
-							<a href="http://www.cafepress.com/+patches">Patches</a>
-							<a href="http://www.cafepress.com/make/custom-stamps">Custom Stamps</a>
-							<a href="http://www.cafepress.com/+balloons">Balloons</a>
-							<a href="http://www.cafepress.com/+golf-balls">Golf Balls</a>
-                            <a href="http://www.cafepress.com/+yard-signs">Yard Signs</a>						
-							<a href="http://www.cafepress.com/+stickers-flair">All Stickers &amp; Flair »</a>
-							</div>
-						</div>
-					</li>
-					
-					<li class="nav-2"><a href="http://www.cafepress.com/+stationery" alt="Departments">Stationery</a>
-						<div class="sub-menu">
-						
-							<div class="nav-col1">
-							<a href="http://www.cafepress.com/+calendars">Calendars</a>
-							<a href="http://www.cafepress.com/+greeting_cards">Greeting Cards</a>
-							<a href="http://www.cafepress.com/+invitations">Invitations <br>&amp; Announcements</a>
-							<!--<a href="http://www.cafepress.com/make/birth-announcements">Birth Announcements</a>-->
-							<a href="http://www.cafepress.com/+note_cards">Thank You Cards <br>&amp; Note Cards</a>
-							</div>
-							<div class="nav-col2">
-							<a href="http://www.cafepress.com/+postcards">Postcards</a>
-							<a href="http://www.cafepress.com/make/3d-photo-gifts">3D &amp; Animated Cards</a>
-							<a href="http://www.cafepress.com/+business-cards">Business Cards</a>
-							<a href="http://www.cafepress.com/+journals">Journals</a>
-                            <a href="http://www.cafepress.com/+notepads">Notepads</a>
-							<a href="http://www.cafepress.com/+labels">Labels</a>
-							<a href="http://www.cafepress.com/make/custom-stamps">Custom Stamps</a>
-							<a href="http://www.cafepress.com/+puzzles">Puzzles</a>
-							<a href="http://www.cafepress.com/+stationery">All Stationery »</a>
-							</div>
-						</div>
-					</li>
-					</ul>
-				</div>
-				</div>
-			</li>
-<!--Interest-->
-			<li class="nav-1" id="sbinterest"><a class="L1">Shop by Interest </a>
-				<div class="nav-tab">
-				<div class="nav-content">
-					<ul class="nav-menu">
-					<li class="nav-2 active"><a href="#" alt="Best Selling">Best Selling <span style="color:#cc0000; display:inline; font-size:10px">new!</span></a>
-						<div class="sub-menu first-menu">
-							<div class="nav-col1">
-							<span></span>
-							<a href="http://www.cafepress.com/bestsellers/products/t-shirts" alt="Best Selling T-shirts">T-shirts</a>
-							<a href="http://www.cafepress.com/bestsellers/products/sweatshirts-hoodies" alt="Best Selling Sweatshirts">Sweatshirts</a>
-							<a href="http://www.cafepress.com/bestsellers/products/pajamas" alt="Best Selling Pajamas">Pajamas</a>
-							<a href="http://www.cafepress.com/bestsellers/products/baby-bodysuits" alt="Best Selling Pajamas">Bodysuits</a>
-							<a href="http://www.cafepress.com/bestsellers/products/baby-bibs" alt="Best Selling Pajamas">Baby Bibs</a>
-							<a href="http://www.cafepress.com/bestsellers/products/aprons" alt="Best Selling Pajamas">Aprons</a>
-							<a href="http://www.cafepress.com/bestsellers/products/hats" alt="Best Selling Pajamas">Hats</a>
-							<a href="http://www.cafepress.com/bestsellers/products/mugs" alt="Best Selling Pajamas">Mugs</a>
-							</div>
-							<div class="nav-col2">
-							<span></span>
-							<a href="http://www.cafepress.com/bestsellers/products/water-bottles" alt="Best Selling Water Bottles">Water Bottles</a>
-							<a href="http://www.cafepress.com/bestsellers/products/bags" alt="Best Selling Bags">Bags</a>
-							<a href="http://www.cafepress.com/bestsellers/products/iphone-cases" alt="Best Selling iPhone Cases">iPhone Cases</a>
-							<a href="http://www.cafepress.com/bestsellers/products/shower-curtains" alt="Best Selling Shower Curtains">Shower Curtains</a>
-							<a href="http://www.cafepress.com/bestsellers/products/cards" alt="Best Selling Greeting Cards">Greeting Cards</a>
-							<a href="http://www.cafepress.com/bestsellers/products/calendars" alt="Best Selling Calendars">Calendars</a>
-							<a href="http://www.cafepress.com/bestsellers/products/ornaments" alt="Best Selling Ornaments">Ornaments</a>
-							<a href="http://www.cafepress.com/bestsellers/products/clocks" alt="Best Selling Clocks">Clocks</a>
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+gifts" alt="Gifts">Unique Gifts <span style="color:#cc0000; display:inline; font-size:10px">new!</span></a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Gift Topics</p>
-							<a href="http://www.cafepress.com/+cool+gifts" alt="Cool Gifts">Cool Gifts</a>
-							<a href="http://www.cafepress.com/+cute+gifts" alt="Cute Gifts">Cute Gifts</a>
-							<a href="http://www.cafepress.com/+fun+gifts" alt="Fun Gifts">Fun Gifts</a>
-							<a href="http://www.cafepress.com/+funny+gifts" alt="Funny Gifts">Funny Gifts</a>
-							<a href="http://www.cafepress.com/+gag+gifts" alt="Gag Gifts">Gag Gifts</a>
-							<a href="http://www.cafepress.com/+geek+gifts" alt="Geek Gifts">Geek Gifts</a>
-							<a href="http://www.cafepress.com/+humor+gifts" alt="Geek Gifts">Humor Gifts</a>
-							<a href="http://www.cafepress.com/photo-gifts" alt="Geek Gifts">Photo Gifts</a>
-							<a href="http://www.cafepress.com/+humor+gifts" alt="Photo Gifts">Retro Gifts</a>
-							<a href="http://www.cafepress.com/+vintage+gifts" alt="Vintage Gifts">Vintage Gifts</a>
-							
-							</div>
-							<div class="nav-col2" style="margin-top:4px;">
-							<p class="sub-head"></p><br>
-							<a href="http://www.cafepress.com/+mens+gifts " alt="Gifts for Him">Gifts for Him</a>
-							<a href="http://www.cafepress.com/+womens+gifts " alt="Gifts for Her">Gifts for Her</a>
-							<a href="http://www.cafepress.com/+kids+gifts" alt="Gifts for Kids &amp; Baby">Gifts for Kids &amp; Baby</a>
-							<a href="http://www.cafepress.com/+pet+gifts" alt="Gifts for Pets">Gifts for Pets</a>
-							<a href="http://www.cafepress.com/+home+gifts" alt="Gifts for the Home">Gifts for the Home</a>
-							<a href="http://www.cafepress.com/+holidaygiftsunder50+gifts" alt="Gifts under $50">Gifts under $50</a>
-							<a href="http://www.cafepress.com/+holidaygiftsunder35+gifts" alt="Gifts under $35">Gifts under $35</a>
-							<a href="http://www.cafepress.com/+holidaygiftsunder25+gifts" alt="Gifts under $25">Gifts under $25</a>
-							
-							<a href="http://www.cafepress.com/make/personalized-gifts" alt="Personalized Gifts">Personalized Gifts</a>
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+funny+gifts" alt="Funny">Funny</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Funny Topics</p>
-							<a href="http://www.cafepress.com/+funny-sayings+gifts" alt="Funny Sayings">Funny Sayings</a>
-							<a href="http://www.cafepress.com/+business-humor+gifts" alt="Business Humor">Business Humor</a>
-							<a href="http://www.cafepress.com/+demotivational+gifts" alt="Demotivational">Demotivational</a>
-							<a href="http://www.cafepress.com/+humorous+gifts" alt="Humorous">Humorous</a>
-							<a href="http://www.cafepress.com/+political-humor+gifts" alt="Political Humor">Political Humor</a>
-							<a href="http://www.cafepress.com/+adult-humor+gifts" alt="Adult Humor">Adult Humor</a>
-							<a href="http://www.cafepress.com/+funny-vintage+gifts" alt="Funny Vintage">Funny Vintage</a>
-							<a href="http://www.cafepress.com/+college-humor+gifts" alt="College Humor">College Humor</a>
-							<a href="http://www.cafepress.com/+drinking+gifts" alt="Drinking">Drinking</a>
-							<a href="http://www.cafepress.com/+novelty+gifts" alt="Novelty">Novelty</a>
-							<a href="http://www.cafepress.com/+offensive+gifts" alt="Offensive">Offensive</a>
-							<!--<a href="http://www.cafepress.com/+zombie+gifts" alt="Zombie">Zombie</a>-->
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Funny Products</p>
-							<a href="http://www.cafepress.com/+funny-sayings+t-shirts" alt="Funny Saying T-shirts">Funny Saying T-shirts</a>
-							<a href="http://www.cafepress.com/+funny+mugs" alt="Funny Mugs">Funny Mugs</a>
-							<a href="http://www.cafepress.com/+demotivational+posters" alt="Demotivational Posters">Demotivational Posters</a>
-							<a href="http://www.cafepress.com/+funny+bumper-stickers" alt="Funny Stickers">Funny Stickers</a>
-							<a href="http://www.cafepress.com/+funny+womens-maternity" alt="Funny Maternity T-shirts">Funny Maternity T-shirts</a>
-							<a href="http://www.cafepress.com/+adult-humor+mugs" alt="Adult Humor Mugs">Adult Humor Mugs</a>
-							<a href="http://www.cafepress.com/+funny-vintage+t-shirts" alt="Funny Vintage T-shirts">Funny Vintage T-shirts</a>
-							<a href="http://www.cafepress.com/+funny+posters" alt="Funny Posters">Funny Posters</a>
-							<a href="http://www.cafepress.com/+drinking+t-shirts" alt="Drinking T-shirts">Drinking T-shirts</a>
-							<a href="http://www.cafepress.com/+novelty+mugs" alt="Novelty Mugs">Novelty Mugs</a>
-							<a href="http://www.cafepress.com/+offensive+t-shirts" alt="Offensive T-shirts">Offensive T-shirts</a>
-							<!--<a href="http://www.cafepress.com/+zombie+t-shirts" alt="Zombie T-shirts">Zombie T-shirts</a>-->
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+geek+gifts" alt="Geek">Geek <span style="color:#cc0000; display:inline; font-size:10px">new!</span></a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Geek Topics</p>
-							<a href="http://www.cafepress.com/+bigbangtheorytv+gifts" alt="Big Bang Theory">The Big Bang Theory</a>
-							<a href="http://www.cafepress.com/+science+gifts" alt="Science">Science</a>
-							<a href="http://www.cafepress.com/+nerd+gifts" alt="Nerd">Nerd</a>
-							<a href="http://www.cafepress.com/+computer-geek+gifts" alt="Computer Geek">Computer Geek</a>
-							<a href="http://www.cafepress.com/+chemistry+gifts" alt="Chemistry">Chemistry</a>
-							<a href="http://www.cafepress.com/+dork+gifts" alt="Dork">Dork</a>
-							<a href="http://www.cafepress.com/+gamer+gifts" alt="Gamer">Gamer</a>
-							<a href="http://www.cafepress.com/+pi+gifts" alt="Pi">Pi</a>
-							<a href="http://www.cafepress.com/+engineer+gifts" alt="Engineer">Engineer</a>
-							<a href="http://www.cafepress.com/+thinkgeek+gifts" alt="ThinkGeek ">ThinkGeek </a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Geek Products</p>
-							<a href="http://www.cafepress.com/+geek+t-shirts" alt="Geek T-Shirts">Geek T-Shirts</a>
-							<a href="http://www.cafepress.com/+geek+posters" alt="Geek Posters">Geek Posters</a>
-							<a href="http://www.cafepress.com/+geek+iphone-cases" alt="Geek iPhone Cases">Geek iPhone Cases</a>
-							<a href="http://www.cafepress.com/+geek+mugs" alt="Geek Mugs">Geek Mugs</a>
-							<a href="http://www.cafepress.com/+math+t-shirts" alt="Math T shirts">Math T shirts</a>
-							<a href="http://www.cafepress.com/+nerd+t-shirts" alt="Nerd T-Shirts">Nerd T-Shirts</a>
-							<a href="http://www.cafepress.com/+bigbangtheorytv+t-shirts" alt="Big Bang Theory T-Shirts">The Big Bang Theory T-Shirts</a>
-							<a href="http://www.cafepress.com/+periodic-table+mugs" alt="Periodic Table Mugs">Periodic Table Mugs</a>
-							<a href="http://www.cafepress.com/+pi+t-shirts" alt="Pi T-Shirts">Pi T-Shirts</a>
-							<a href="http://www.cafepress.com/+star-trek+t-shirts" alt="Star Trek T-Shirts">Star Trek T-Shirts</a>
-							</div>
-						</div>
-					</li>
-					<!--<li class="nav-2"><a href="http://www.cafepress.com/+political+gifts" alt="Political">Political</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Political Topics</p>
-							<a href="http://www.cafepress.com/+election-2012+gifts" alt="Election 2012">Election 2012</a>
-							<a href="http://www.cafepress.com/+romney-ryan+gifts" alt="Romney Ryan">Romney Ryan</a>
-							<a href="http://www.cafepress.com/+obama+gifts"alt="Obama">Obama</a>
-							<a href="http://www.cafepress.com/+anti-obama+gifts" alt="Anti Obama">Anti Obama</a>
-							<a href="http://www.cafepress.com/+gary-johnson+gifts" alt="Gary Johnson">Gary Johnson</a>
-							<a href="http://www.cafepress.com/+mitt-romney+gifts" alt="Mitt Romney">Mitt Romney</a>
-							<a href="http://www.cafepress.com/+propaganda+gifts" alt="Propaganda">Propaganda</a>
-							<a href="http://www.cafepress.com/+republican+gifts" alt="Republican">Republican</a>
-							<a href="http://www.cafepress.com/+democrat+gifts" alt="Democrat">Democrat</a>
-							<a href="http://www.cafepress.com/+liberal+gifts" alt="Liberal">Liberal</a>
-							<a href="http://www.cafepress.com/+right-wing+gifts" alt="Right Wing">Right Wing</a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Political Products</p>
-							<a href="http://www.cafepress.com/+obama+t-shirts" alt="Obama T-shirts">Obama T-shirts</a>
-							<a href="http://www.cafepress.com/+obama+bumper-stickers" alt="Obama Stickers">Obama Stickers</a>
-							<a href="http://www.cafepress.com/+romney+t-shirts" alt="Romney T-shirts">Romney T-shirts</a>
-							<a href="http://www.cafepress.com/+romney-ryan+bumper-stickers" alt="Romney Ryan Stickers">Romney Ryan Stickers</a>
-							<a href="http://www.cafepress.com/+political+buttons" alt="Political Buttons">Political Buttons</a>
-							<a href="http://www.cafepress.com/+political+posters" alt="Political Posters">Political Posters</a>
-							<a href="http://www.cafepress.com/+conversative+bumper-stickers" alt="Conversative Stickers">Conversative Stickers</a>
-							<a href="http://www.cafepress.com/+republican+bumper-stickers" alt="Republican Stickers">Republican Stickers</a>
-							<a href="http://www.cafepress.com/+democrat+bumper-stickers" alt="Democrat Stickers">Democrat Stickers</a>
-							<a href="http://www.cafepress.com/+propoganda+posters" alt="Propoganda Posters">Propoganda Posters</a>
-							<a href="http://www.cafepress.com/+political+yard-signs" alt="Political Yard Signs">Political Yard Signs</a>
-							</div>
-						</div>
-					</li>-->
-					<li class="nav-2"><a href="http://www.cafepress.com/+military+gifts" alt="Military">Military</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Military Topics</p>
-							<a href="http://www.cafepress.com/+army+gifts" alt="Army">Army</a>
-							<a href="http://www.cafepress.com/+navy+gifts" alt="Navy">Navy</a>
-							<a href="http://www.cafepress.com/+marines+gifts" alt="Marines">Marines</a>
-							<a href="http://www.cafepress.com/+air-force+gifts" alt="Air Force">Air Force</a>
-							<a href="http://www.cafepress.com/+war+gifts" alt="War">War</a>
-							<a href="http://www.cafepress.com/+veteran+gifts" alt="Veteran">Veteran</a>
-							<a href="http://www.cafepress.com/+army-girlfriend+gifts" alt="Army Girlfriend">Army Girlfriend</a>
-							<a href="http://www.cafepress.com/+army-mom+gifts" alt="Army Mom">Army Mom</a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Military Products</p>
-							<a href="http://www.cafepress.com/+army+t-shirts" alt="Army T-shirts">Army T-shirts</a>
-							<a href="http://www.cafepress.com/+navy+sweatshirts-hoodies" alt="Navy Hoodies">Navy Hoodies</a>
-							<a href="http://www.cafepress.com/+army+hats-caps" alt="Army Hats">Army Hats</a>
-							<a href="http://www.cafepress.com/+air-force+posters" alt="Air Force Posters">Air Force Posters</a>
-							<a href="http://www.cafepress.com/+war+posters" alt="War Posters">War Posters</a>
-							<a href="http://www.cafepress.com/+veteran+bumper-stickers" alt="Veteran Stickers">Veteran Stickers</a>
-							<a href="http://www.cafepress.com/+army-girlfriend+tank-tops" alt="Army Girlfriend Tank Tops">Army Girlfriend Tank Tops</a>
-							<a href="http://www.cafepress.com/+army-mom+t-shirts" alt="Army Mom T-shirts">Army Mom T-shirts</a>
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+occupations+gifts" alt="Occupations">Occupations</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Occupations Topics</p>
-							<a href="http://www.cafepress.com/+teacher+gifts" alt="Teacher">Teacher</a>
-							<a href="http://www.cafepress.com/+doctor+gifts" alt="Doctor">Doctor</a>
-							<a href="http://www.cafepress.com/+nurse+gifts" alt="Nurse">Nurse</a>
-							<a href="http://www.cafepress.com/+lawyer+gifts" alt="Lawyer">Lawyer</a>
-							<a href="http://www.cafepress.com/+fireman+gifts" alt="Fireman">Fireman</a>
-							<a href="http://www.cafepress.com/+cop+gifts" alt="Cop">Cop</a>
-							<a href="http://www.cafepress.com/+engineer+gifts" alt="Engineer">Engineer</a>
-							<a href="http://www.cafepress.com/+accountant+gifts" alt="Accountant">Accountant</a>
-							<a href="http://www.cafepress.com/+medical+gifts" alt="Medical">Medical</a>
-							<a href="http://www.cafepress.com/+boss+gifts" alt="Boss">Boss</a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">&nbsp;</p>
-							<a href="http://www.cafepress.com/+chef+gifts" alt="chef">Chef</a>
-							<a href="http://www.cafepress.com/+pharmacist+gifts" alt="Pharmacist">Pharmacist</a>
-							<a href="http://www.cafepress.com/+pilot+gifts" alt="pilot">Pilot</a>
-							<a href="http://www.cafepress.com/+quilters+gifts" alt="Quilters">Quilters</a>
-							<a href="http://www.cafepress.com/+scientist+gifts" alt="scientist">Scientist</a>
-							<a href="http://www.cafepress.com/+mathematician+gifts" alt="mathematician">Mathematician</a>
-							<a href="http://www.cafepress.com/+phd+gifts" alt="PHD">PhD</a>
-							<a href="http://www.cafepress.com/+dancer +gifts" alt="dancer ">Dancer </a>
-							<a href="http://www.cafepress.com/+musician+gifts" alt="musician">Musician</a>
-							<a href="http://www.cafepress.com/+writer+gifts" alt="writer">Writer</a>
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+sports+gifts" alt="Sports &amp; Hobbies">Sports &amp; Hobbies</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Sports Topics</p>
-							<a href="http://www.cafepress.com/+skiing+gifts" alt="Skiing">Skiing</a>
-							<a href="http://www.cafepress.com/+snowboarding+gifts" alt="Snowboarding">Snowboarding</a>
-							<a href="http://www.cafepress.com/+ice-skate+gifts" alt="Ice Skating">Ice Skating</a>
-							<a href="http://www.cafepress.com/+hockey+gifts" alt="Hockey">Hockey</a>
-							<a href="http://www.cafepress.com/+running+gifts" alt="Running">Running</a>
-							<a href="http://www.cafepress.com/+baseball+gifts" alt="Baseball">Baseball</a>
-							<a href="http://www.cafepress.com/+basketball+gifts" alt="Basketball">Basketball</a>
-							<a href="http://www.cafepress.com/+football+gifts" alt="Football">Football</a>
-							<a href="http://www.cafepress.com/+soccer+gifts" alt="Soccer">Soccer</a>
-							<a href="http://www.cafepress.com/+gymnastics+gifts" alt="Gymnastics">Gymnastics</a>
-							<a href="http://www.cafepress.com/make/custom-uniforms" alt="Team Sportswear ">Team Sportswear </a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Hobby Topics</p>
-							<a href="http://www.cafepress.com/+astronomy+gifts" alt="Astronomy">Astronomy</a>
-							<a href="http://www.cafepress.com/+baking+gifts" alt="baking">Baking</a>
-							<a href="http://www.cafepress.com/+dance+gifts" alt="Dance">Dance</a>
-							<a href="http://www.cafepress.com/+gardening+gifts" alt="gardening">Gardening</a>
-							<a href="http://www.cafepress.com/+writer+gifts" alt="writer">Writers</a>
-							<a href="http://www.cafepress.com/+grilling+gifts" alt="Grilling">Grilling</a>
-							<a href="http://www.cafepress.com/+knitting+gifts" alt="Knitting">Knitting</a>
-							<a href="http://www.cafepress.com/+drummer+gifts" alt="drummer">Drummer</a>
-							<a href="http://www.cafepress.com/+quilting+gifts" alt="quilting">Quilting</a>
-							<a href="http://www.cafepress.com/+sew+gifts" alt="sewing">Sewing</a>
-							<a href="http://www.cafepress.com/+scrapbooking+gifts" alt="scrapbooking">Scrapbooking</a>
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+whatshot+gifts" alt="Movie &amp; TV">Entertainment</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Entertainment <br>Topics</p>
-							<a href="http://www.cafepress.com/+walking-dead+gifts" alt="The Walking Dead">The Walking Dead</a>
-							<a href="http://www.cafepress.com/+mad-men+gifts" alt="Mad Men">Mad Men</a>
-							<a href="http://www.cafepress.com/+castletv+gifts" alt="Castle">Castle</a>
-							<a href="http://www.cafepress.com/+bigbangtheorytv+gifts" alt="The Big Bang Theory">The Big Bang Theory</a>
-							<a href="http://www.cafepress.com/+supernaturaltv+gifts" alt="Supernatural">Supernatural</a>
-							<a href="http://www.cafepress.com/+tedisreal+gifts" alt="Ted The Movie">Ted The Movie</a>
-							<a href="http://www.cafepress.com/+twilight+gifts" alt="The Twilight Saga">The Twilight Saga</a>
-							<a href="http://www.cafepress.com/+hungergamesmovie+gifts" alt="The Hunger Games">The Hunger Games</a>
-							<a href="http://www.cafepress.com/+iron-man-movie+gifts" alt="Iron Man 3 ">Iron Man 3 </a>
-							<a href="http://www.cafepress.com/+thehangovermovie+gifts" alt="The Hang Over">The Hang Over</a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Entertainment <br>Products</p>
-							<a href="http://www.cafepress.com/+walking-dead+t-shirts" alt="The Walking Dead T-Shirts">The Walking Dead T-Shirts</a>
-							<a href="http://www.cafepress.com/+mad-men+office-supplies" alt="Mad Men Office Accessories">Mad Men Office Accessories</a>
-							<a href="http://www.cafepress.com/+castletv+t-shirts" alt="Castle T-Shirts">Castle T-Shirts</a>
-							<a href="http://www.cafepress.com/+bigbangtheorytv+t-shirts" alt="Big Bang Theory T-shirts">Big Bang Theory T-shirts</a>
-							<a href="http://www.cafepress.com/+supernaturaltv+t-shirts" alt="Supernatural T-shirts">Supernatural T-shirts</a>
-							<a href="http://www.cafepress.com/+iron-man-movie+iphone-cases" alt="Iron Man 3 iPhone cases">Iron Man 3 iPhone® cases</a>
-							<a href="http://www.cafepress.com/+twilight+posters" alt="Twilight Posters">Twilight Posters</a>
-							<a href="http://www.cafepress.com/+hungergamesmovie+posters" alt="Hunger Games Posters">Hunger Games Posters</a>
-							<a href="http://www.cafepress.com/+iron-man-movie+mugs" alt="Iron Man 3 mugs">Iron Man 3 mugs</a>
-							<a href="http://www.cafepress.com/+thehangovermovie+t-shirts" alt="The Hang Over T-shirts">The Hang Over T-shirts</a>
-							</div>
-						</div>
-					</li>
-					
-					<!--<li class="nav-2"><a href="http://www.cafepress.com/+birthday+gifts" alt="Birthdays">Birthdays</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Birthday Topics</p>
-							<a href="http://www.cafepress.com/+30th-birthday+gifts" alt="30Th Birthday">30th Birthday Gifts</a>
-							<a href="http://www.cafepress.com/+40th-birthday+gifts" alt="40Th Birthday">40th Birthday Gifts</a>
-							<a href="http://www.cafepress.com/+50th-birthday+gifts" alt="50Th Birthday">50th Birthday Gifts</a>
-							<a href="http://www.cafepress.com/+60th-birthday+gifts" alt="60Th Birthday">60th Birthday Gifts</a>
-							<a href="http://www.cafepress.com/+funny-birthday+gifts" alt="Funny Birthday Gifts">Funny Birthday Gifts</a>
-							<a href="http://www.cafepress.com/+cptemplate-birthday+gifts" alt="Personalized Birthday Gifts">Personalized Gifts</a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Birthday Products</p>
-							<a href="http://www.cafepress.com/+birthday+t-shirts" alt="Birthday T-shirts">Birthday T-shirts</a>
-							<a href="http://www.cafepress.com/+birthday+hats-caps" alt="Birthday Hats">Birthday Hats</a>
-							<a href="http://www.cafepress.com/+birthday+invitations" alt="Birthday Invitations">Birthday Invitations</a>
-							<a href="http://www.cafepress.com/+birthday+cards" alt="Birthday Cards">Birthday Cards</a>
-							<a href="http://www.cafepress.com/+birthday+balloons" alt="Birthday Balloons">Birthday Balloons</a>
-							<a href="http://www.cafepress.com/+birthday+shot-glasses" alt="Birthday Shot Glasses">Birthday Shot Glasses</a>
-							
-							<a href="http://www.cafepress.com/+birthday+gifts" alt="Birthdays">See all Birthday Gift ideas &raquo;</a>
-							</div>
-						</div>
-					</li>-->
-					<li class="nav-2"><a href="http://www.cafepress.com/+kids+gifts" alt="Kids">Kids</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Kid Topics</p>
-							<a href="http://www.cafepress.com/+big-sister+gifts" alt="Big Sister">Big Sister</a>
-							<a href="http://www.cafepress.com/+big-brother+gifts" alt="Big Brother">Big Brother</a>
-							<a href="http://www.cafepress.com/+funny-baby+gifts" alt="Funny Baby">Funny Baby</a>
-							<a href="http://www.cafepress.com/+new-baby+gifts" alt="New Baby">New Baby</a>
-							<a href="http://www.cafepress.com/+cartoon+gifts" alt="Cartoon">Cartoon</a>
-							<a href="http://www.cafepress.com/+twins+gifts" alt="Twins">Twins</a>
-							<a href="http://www.cafepress.com/+baby-boy+gifts" alt="Baby Boy">Baby Boy</a>
-							<a href="http://www.cafepress.com/+little-brother+gifts" alt="Little Brother">Little Brother</a>
-							<a href="http://www.cafepress.com/+baby-girl+gifts" alt="Baby Girl">Baby Girl</a>
-							<a href="http://www.cafepress.com/+littler-siste+gifts" alt="Little Sister">Little Sister</a>
-							<a href="http://www.cafepress.com/+kids-birthdays+gifts" alt="Kids Birthdays">Kids Birthdays</a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Kid Products</p>
-							<a href="http://www.cafepress.com/+big-sister+t-shirts" alt="Big Sister Shirts">Big Sister Shirts</a>
-							<a href="http://www.cafepress.com/+big-brother+t-shirts" alt="Big Brother Shirts">Big Brother Shirts</a>
-							<a href="http://www.cafepress.com/+little-brother+t-shirts" alt="Little Brother T-shirts">Little Brother T-shirts</a>
-							<a href="http://www.cafepress.com/+little-sister+t-shirts" alt="Little Sister T-shirts">Little Sister T-shirts</a>
-							<a href="http://www.cafepress.com/+funny-baby+clothing" alt="Funny Baby Clothing">Funny Baby Clothing</a>
-							<a href="http://www.cafepress.com/+cartoon+posters" alt="Cartoon Posters">Cartoon Posters</a>
-							<a href="http://www.cafepress.com/+cute+baby-blankets" alt="Cute Baby Blankets">Cute Baby Blankets</a>
-							<a href="http://www.cafepress.com/+funny+baby-bibs" alt="Funny Bibs">Funny Bibs</a>
-							<a href="http://www.cafepress.com/+cute+baby-hats" alt="Cute Baby Hats">Cute Baby Hats</a>
-							<a href="http://www.cafepress.com/+kids+wall-decals" alt="Kids Wall Decals">Kids Wall Decals</a>
-							<a href="http://www.cafepress.com/+kids-birthday+t-shirts" alt="Kids Birthday T-shirts">Kids Birthday T-shirts</a>
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+animals+gifts" alt="Animals &amp; Pets">Animals &amp; Pets</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Animal &amp; Pet Topics</p>
-							<a href="http://www.cafepress.com/+dogs+gifts" alt="Dogs">Dogs</a>
-							<a href="http://www.cafepress.com/+cats+gifts" alt="Cats">Cats</a>
-							<a href="http://www.cafepress.com/+zebras+gifts" alt="Zebras">Zebras</a>
-							<a href="http://www.cafepress.com/+panda-bears+gifts" alt="Panda Bears">Panda Bears</a>
-							<a href="http://www.cafepress.com/+honey-badger+gifts" alt="Honey Badger">Honey Badger</a>
-							<a href="http://www.cafepress.com/+horses+gifts" alt="Horses">Horses</a>
-							<a href="http://www.cafepress.com/+butterfly+gifts" alt="Butterfly">Butterfly</a>
-							<a href="http://www.cafepress.com/+monkey+gifts" alt="Monkey">Monkey</a>
-							<a href="http://www.cafepress.com/+turtle+gifts" alt="Turtle">Turtle</a>
-							<a href="http://www.cafepress.com/+penguin+gifts" alt="Penguin">Penguin</a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Animal &amp; Pet Products</p>
-							<a href="http://www.cafepress.com/+chimpanzee+t-shirts" alt="Chimpanzee T-shirts">Chimpanzee T-shirts</a>
-							<a href="http://www.cafepress.com/+turtle+iphone-cases" alt="Turtle iPhone Cases">Turtle iPhone Cases</a>
-							<a href="http://www.cafepress.com/+animal+t-shirts" alt="Animal T-shirts">Animal T-shirts</a>
-							<a href="http://www.cafepress.com/+honey-badger+t-shirts" alt="Honey Badger T-shirts">Honey Badger T-shirts</a>
-							<a href="http://www.cafepress.com/+panda-bear+t-shirts" alt="Panda Bear T-shirts">Panda Bear T-shirts</a>
-							<a href="http://www.cafepress.com/+dragon+earrings" alt="Dragon Earrings">Dragon Earrings</a>
-							<a href="http://www.cafepress.com/+dog+posters" alt="Dog Posters">Dog Posters</a>
-							<a href="http://www.cafepress.com/+horse+license-plates" alt="Horse License Plates">Horse License Plates</a>
-							<a href="http://www.cafepress.com/+monkey+t-shirts" alt="Monkey T-shirts">Monkey T-shirts</a>
-							<a href="http://www.cafepress.com/+dog+pet-apparel" alt="Dog T-Shirts">Dog T-Shirts</a>
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+causes+gifts" alt="Causes">Causes</a>
-						<div class="sub-menu">
-							<div class="nav-col1">
-							<p class="sub-head">Causes Topics</p>
-							<a href="http://www.cafepress.com/+cancer-awareness+gifts" alt="Cancer Awareness">Cancer Awareness</a>
-							<a href="http://www.cafepress.com/+breast-cancer+gifts" alt="Breast Cancer">Breast Cancer</a>
-							<a href="http://www.cafepress.com/+autism-awareness+gifts" alt="Autism Awareness">Autism Awareness</a>
-							<a href="http://www.cafepress.com/+gay-pride+gifts" alt="Gay Pride">Gay Pride</a>
-							<a href="http://www.cafepress.com/+stand-up-to-cancer+gifts" alt="Stand Up to Cancer">Stand Up to Cancer</a>
-							<a href="http://www.cafepress.com/+peta+gifts" alt="PETA">PETA</a>
-							<a href="http://www.cafepress.com/+ovarian-cancer+gifts" alt="Ovarian Cancer">Ovarian Cancer</a>
-							<a href="http://www.cafepress.com/+fight-like-a-girl+gifts" alt="Fight Like a Girl">Fight Like a Girl</a>
-							</div>
-							<div class="nav-col2">
-							<p class="sub-head">Causes Products</p>
-							<a href="http://www.cafepress.com/+breast-cancer-survivor+t-shirts" alt="Breast Cancer Survivor T-shirts">Breast Cancer Survivor T-shirts</a>
-							<a href="http://www.cafepress.com/+stand-up-to-cancer+t-shirts" alt="Stand up to Cancer T-shirts">Stand up to Cancer T-shirts</a>
-							<a href="http://www.cafepress.com/+breast-cancer+buttons-pins" alt="Breast Cancer Pins">Breast Cancer Pins</a>
-							<a href="http://www.cafepress.com/+cancer-sucks+t-shirts" alt="Cancer Sucks Shirts">Cancer Sucks Shirts</a>
-							<a href="http://www.cafepress.com/+ovarian-cancer+t-shirts" alt="Ovarian Cancer T-shirts">Ovarian Cancer T-shirts</a>
-							<a href="http://www.cafepress.com/+lung-cancer+t-shirts" alt="Lung Cancer T-shirts">Lung Cancer T-shirts</a>
-							<a href="http://www.cafepress.com/+autism+t-shirts" alt="Autism T-shirts">Autism T-shirts</a>
-							<a href="http://www.cafepress.com/+autism" alt="Autism Jewelry">Autism Jewelry</a>
-							</div>
-						</div>
-					</li>
-					</ul>
-				</div>
-				</div>
-			</li>
-<!--Brand-->
-			<li class="nav-1" id="sbbrand"><a class="L1">Shop by Brand </a>
-				<div class="nav-tab">
-				<div class="nav-content">
-					<ul class="nav-menu">
-					<li class="nav-2 active"><a href="http://www.cafepressinc.com/brands/">Our Brands</a>
-						<div class="sub-menu first-menu">
-						<span></span>
-							<div class="nav-col1" style="width:135px">
-							<p style=""></p>
-							<a id="canvasd" class="brand-logos" href="http://www.cafepress.com/+canvasondemand" alt="Canvas on Demand" target="_blank"></a>
-							<span>CanvasOnDemand.com takes photos &amp; transforms them into amazing canvas works of art.</span>
-							<br>							
-							<a id="logosport" class="brand-logos" href="http://www.cafepress.com/+logosportswear" alt="Logo Sports Wear" target="_blank"></a>
-							<span>LogoSportswear.com empowers groups, teams, schools, and organizations to Design and Buy custom sportswear.</span>
-							
-							</div>
-							<div class="nav-col2" style="width:160px">
-							<p style=""></p>
-							<a id="invitationb" class="brand-logos" href="http://www.invitationbox.com/" alt="Invitationbox" target="_blank"></a>
-							<span>InvitationBox.com provides a vast collection of personalized invitations, announcements and stationery to help celebrate life's most important milestones.</span>
-							<br>
-							<a id="canvasb" class="brand-logos" href="http://www.cafepress.com/+greatbigcanvas" alt="Great Big Canvas" target="_blank"></a>
-							<span>GreatBigCanvas.com is the premium provider of canvas wall art and panoramic canvas photos.</span>
-							
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a class="" href="http://www.cafepress.com/+brands+gifts/seeall" alt="">Our Partners</a>
-						<div class="sub-menu">
-						<span></span>
-							<div class="nav-col1">
-							<a href="http://abctvstore.cafepress.com/abcstore" alt="ABC">ABC</a>
-							<a href="http://www.cafepress.com/+bigbangtheorytv+gifts" alt="The Big Bang Theory">The Big Bang Theory</a>
-							<a href="http://www.cafepress.com/cartoonnetwork" alt="Cartoon Network">Cartoon Network</a>
-							<a href="http://www.cafepress.com/fathead_wall_graphics/s__fathead" alt="Fathead">Fathead<sup class="reg">®</sup></a>
-							<a href="http://www.cafepress.com/+friendstv+gifts" alt="Friends">Friends</a>
-							<a href="http://www.cafepress.com/garfield" alt="Garfield">Garfield</a>
-							<a href="http://www.cafepress.com/+hungergamesmovie+gifts" alt="The Hunger Games">The Hunger Games</a>
-							<a href="http://www.cafepress.com/+mad-men+gifts" alt="Mad Men">Mad Men</a>
-							<a href="http://national-geographic.cafepress.com/art" alt="National Geographic">National Geographic Art Store</a>
-							<a href="http://www.cafepress.com/snoopystore" alt="Peanuts">Peanuts</a>
-							</div>
-							<div class="nav-col2">
-							<a href="http://www.cafepress.com/+replayphotos+gifts" alt="Replay Photos">Replay Photos</a>
-							<!--<a href="#" alt="SIGG">SIGG<sup>TM</sup></a>-->
-							<a href="http://www.cafepress.com/someecards" alt="Someecards">Someecards</a>
-							<a href="http://www.cafepress.com/+startrektv+gifts" alt="Star Trek">Star Trek</a>
-							<a href="http://www.cafepress.com/+team-coco+gifts" alt="Team Coco">Team Coco</a>
-							<a href="http://www.cafepress.com/+tedisreal+gifts" alt="Ted">Ted</a>
-							<a href="http://www.cafepress.com/+thermos" alt="Thermos products">Thermos<sup class="reg">®</sup> products</a>
-							<a href="http://www.cafepress.com/+twilight+gifts" alt="The Twilight Saga">The Twilight Saga</a>
-							<a href="http://www.cafepress.com/+thewizardofozmovie+gifts" alt="The Wizard of Oz">The Wizard of Oz</a>
-							<a href="http://xbox.cafepress.com/" alt="XBOX">XBOX</a>
-							<a href="http://www.cafepress.com/+brands+gifts/seeall">All Partners »</a>
-							</div>
-						</div>
-					</li>
-					</ul>
-				</div>
-				</div>
-			</li>		
-			<li class="nav-1" id="sbSell">
-				<a href="http://www.cafepress.com/cp/shopkeepers/index.aspx?page=make-money" class="">Sell</a>
-			</li>
-			<li class="nav-1" id="sbgift"><a href="http://www.cafepress.com/+gifts" alt="Gift Ideas">Gift Ideas</a>
-				<div class="nav-tab" style="height:420px">
-				<div class="nav-content" style="height:420px;">
-				<ul class="nav-menu">
-					<li class="nav-2"><a href="http://www.cafepress.com/+mens+gifts " alt="Gifts for Him">Gifts for Him</a>
-					</li><li class="nav-2"><a href="http://www.cafepress.com/+womens+gifts" alt="Gifts for Her">Gifts for Her</a></li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+kids+gifts" alt="Gifts for Kids &amp; Baby">Gifts for Kids</a></li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+pet+gifts" alt="Gifts for Pets">Gifts for Pets</a></li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+home+gifts" alt="Gifts for the Home">Gifts for Home</a></li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+holidaygiftsunder50+gifts" alt="Gifts under $50">Gifts under $50</a></li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+holidaygiftsunder35+gifts" alt="Gifts under $35">Gifts under $35</a></li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+holidaygiftsunder25+gifts" alt="Gifts under $25">Gifts under $25</a></li>
-                    <li class="nav-2"><a href="http://www.cafepress.com/+inexpensive+gifts" alt="Affordable Gifts">Affordable Gifts</a></li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+likeable+gifts" alt="Likeable Gifts">Likeable Gifts</a> <span style="color:#cc0000; display:inline; font-size:11px">new!</span></li>
-					
-					<li class="nav-2"><a href="http://www.cafepress.com/make/personalized-gifts" alt="Personalized Gifts">Personalized Gifts</a></li>
-					<li class="nav-2"><a href="http://www.cafepress.com/+gifts" alt="See All Gifts">See All Gifts »</a></li>
-				</ul>
-				</div>
-				</div>
-			</li>
-<!--Design-->
-			<li class="nav-1" id="sbdesign"><a href="http://www.cafepress.com/make/design-your-own" class="L1 sbdesign">DESIGN YOUR OWN</a>
-				<div class="nav-tab">
-				<div class="nav-content">
-					<ul class="nav-menu">
-					<li class="nav-2 active"><a class="hpdyo" href="http://www.cafepress.com/make/design-your-own" alt="Design your own">DESIGN YOUR OWN</a>
-						<div class="sub-menu first-menu">
-						<span></span>
-							<div class="nav-col1">
-							<p style="display:none"></p>
-							<a href="http://www.cafepress.com/make/custom-t-shirts">T-shirts <span style="color:#cc0000; display:inline">(hot!)</span></a>
-							<a href="http://www.cafepress.com/make/custom-baby-gear">Baby Clothes &amp; Gear</a>
-							<a href="http://www.cafepress.com/make/custom-mugs">Mugs <span style="color:#cc0000; display:inline">(hot!)</span></a>
-							<a href="http://www.cafepress.com/make/custom-drinking-glasses">Drinking Glasses</a>
-							<a href="http://www.cafepress.com/make/custom-water-bottles">Water Bottles</a>
-							<a href="http://www.cafepress.com/make/custom-flip-flops">Flip Flops</a>
-							<a href="http://www.cafepress.com/make/custom-tote-bags">Bags</a>
-							<a href="http://www.cafepress.com/make/custom-iphone-cases">iPhone Cases <span style="color:#cc0000; display:inline">(hot!)</span></a>
-                            <a href="http://www.cafepress.com/make/custom-photo-books">Photo Books <span style="color:#cc0000; display:inline">(new!)</span></a>
-							<a href="http://www.cafepress.com/make/custom-hoodies-sweatshirts">Hoodies &amp; Sweatshirts <span style="color:#cc0000; display:inline">(hot!)</span></a>
-							<a href="http://www.cafepress.com/+cafepressgroups-brands+gifts">Brands <span style="color:#cc0000; display:inline">(new!)</span></a>
-							<a href="http://www.cafepress.com/make/custom-stickers">Stickers</a>
-							<a href="http://www.cafepress.com/+cafepressgroups+gifts">Groups &amp; Teams <span style="color:#cc0000; display:inline">(new!)</span></a>
-							<a href="http://www.cafepress.com/+custom-embroidery+gifts">Custom Embroidery <span style="color:#cc0000; display:inline">(new!)</span></a>
-							<!--<a href="http://www.cafepress.com/+cpgroupsjackets+gifts">Embroidered Jackets <span style="color:#cc0000; display:inline">(new!)</span></a>-->
-							<a href="http://www.cafepress.com/make/photo-on-canvas/">Your Photo on Canvas</a>
-							<a href="http://www.cafepress.com/make/photo-on-metal/">Your Photo on Metal</a>
-							<a href="http://www.cafepress.com/make/3D-photo-gifts">3D Photo Gifts</a>
-							<a href="http://www.cafepress.com/+custom-golf-jersey+gifts">Custom Golfwear <span style="color:#cc0000; display:inline">(new!)</span></a>
-							<br>
-							<a href="http://www.cafepress.com/make/design-your-own">View All Design Your Own »</a>
-							</div>
-						</div>
-					</li>
-					<li class="nav-2"><a href="http://www.cafepress.com/photo-gifts" alt="Photo Gifts">Photo Gifts</a>
-						<div class="sub-menu">
-						<span></span>
-							<div class="nav-col1">
-							<a href="http://www.cafepress.com/make/photo-on-metal">Photo on Metal</a>
-							<a href="http://www.cafepress.com/make/photo-on-canvas/">Photo on Canvas</a>
-							<a href="http://www.cafepress.com/photo-gifts?category=photo-t-shirts">Photo T-Shirts</a>
-							<a href="http://www.cafepress.com/photo-gifts?category=photo-kids-and-baby">Photo Baby Gifts</a>
-							<a href="http://www.cafepress.com/photo-gifts?category=photo-clock">Photo Clocks</a>
-							<a href="http://www.cafepress.com/photo-gifts?category=photo-mug">Photo Mugs</a>
-							<a href="http://www.cafepress.com/photo-gifts?category=photo-calendar">Photo Calendars</a>
-							<a href="http://www.cafepress.com/photo-gifts?category=photo-bag">Photo Bags</a>
-							<a href="http://www.cafepress.com/photo-gifts?category=photo-button">Photo Buttons</a>
-							<a href="http://www.cafepress.com/photo-gifts?category=photo-ornament">Photo Ornaments</a>
-							<a href="http://www.cafepress.com/make/3D-photo-gifts">3D Photo Gifts</a>
-                            <a href="http://www.cafepress.com/make/custom-photo-books">Photo Books</a>
-							</div>
-						</div>
-					</li>
-					</ul>
-				</div>
-				</div>
-			</li>
-		</ul>
+                        </div>
+                        
+                    </div>
+                </li>
+            </ul>
+            <div id="global-header-searchform" data-trans="-90">
 
+              <form id="searchBarForm" name="searchBarForm" action="http://www.cafepress.com/cp/catalogExp/RedirectWithSEOURL.aspx" method="post">
+                <input id="c" name="c" value="100001" type="hidden">
+                <span id="global-filter-drop" class="search-outline">
+                    <span id="filter-value">All&nbsp;</span>
+                    <span class="filter-after"><sup>▼</sup></span>
+                </span>
+                
+                <!--FOR WALL ART--><label id="departmentSearchlbl">Department</label>
+                
+                <input type="text" id="q" class="textinput global-searchbox search-outline ui-autocomplete-input" name="q" value="" placeholder="Find products you love" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+                <input type="submit" id="global-searchbutton" value="GO" class="effects">
+                <div id="touch-search-close">x</div>
+              </form>
+              <div class="filter-popup" style="display: none;">
+                <ul class="selectReplacement">
+                    <li value="100001">All</li>
+                    <li value="100002">T-shirts</li>
+                    <li value="202667">Baby Clothing</li>
+                    <li value="100104">Bags</li>
+                    <li value="202573">Canvas Art</li>
+                    <li value="202774">Decorative Accessories</li>
+                    <li value="202524">Drinking Glasses</li>
+                    <li value="100148">Greeting Cards</li>
+                    <li value="100245">Hats &amp; Caps</li>
+					<li value="202474">Invitations</li>
+                    <li value="202454">iPad Cases</li>
+                    <li value="202063">iPhone Cases</li>
+                    <li value="202482">Jewelry</li>
+                    <li value="202813">Kids Clothing</li>
+                    <li value="202748">Kitchen Accessories</li>
+                    <li value="100214">Magnets</li>
+                    <li value="100139">Mugs</li>
+                    <li value="100152">Note Cards</li>
+                    <li value="202696">Pet Stuff</li>
+                    <li value="100165">Posters</li>
+                    <li value="100193">Stickers</li>
+                    <li value="100031">Sweatshirts &amp; Hoodies</li>
+                    <li value="202690">Travel Accessories</li>
+                    <li value="100144">Water Bottles </li>
+                    <li value="100001"><a href="http://www.cafepress.com/+all" style="color:#636363; text-decoration:none">View All Products</a></li>
+                </ul>
+              </div>
+            </div>
+            <!-- sub navs -->
+            
+            
+            
+        </div>
+      </div>
+    <!-- logo -->
+    <div class="left-wrapper clearfix" data-trans="0">
+      <a class="logo13" href="http://www.cafepress.com" title="CafePress"><img id="countryLogo" style="margin-left:-78px" src="http://content.cpcache.com/global/img/logos/CP_Logo_holiday_2013.png" alt="CafePress" title="CafePress"></a>
+      <a class="logo13-mobile" href="http://www.cafepress.com" title="CafePress"><i class="icon-cp-logo icon-2x" alt="CafePress" title="CafePress"></i></a>
+      <div id="countrySelector">
+        <div class="button">
+          <div class="flag"></div><div class="currencytext">$ USD</div>
+          <div class="downarrow"></div>
+        </div>
+        <div id="countrySelectorPopup">
+          <div id="moreSites">
+            More International Sites
+            <ul>
+                <li>
+                  <a href="http://www.cafepress.com.au">
+                    <div class="flag au"></div>
+                    Australia
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="http://www.cafepress.ca">
+                    <div class="flag ca"></div>
+                    Canada
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="http://www.cafepress.de">
+                    <div class="flag de"></div>
+                    Deutschland
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.cafepress.es">
+                    <div class="flag es"></div>
+                    España
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.cafepress.fr">
+                    <div class="flag fr"></div>
+                    France
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.cafepress.co.uk">
+                    <div class="flag gb"></div>
+                    United Kingdom
+                  </a>
+                </li>
+            <li>
+                  <a href="http://www.cafepress.com">
+                    <div class="flag us"></div>
+                    United States &amp; Worldwide
+                  </a>
+                </li>
+            </ul>
+          </div>
+          <div id="currencySelector">
+            Change currency:
+            <select id="currencyOptions">
+                <option value="AUD">
+                  $ AUD Australian Dollar
+                </option>
+                <option value="CAD">
+                  $ CAD Canadian Dollar
+                </option>
+                <option value="EUR">
+                  € EUR Euro
+                </option>
+                <option value="GBP">
+                  £ GBP Pound Sterling
+                </option>
+                <option value="USD" selected="selected">
+                  $ USD US Dollar
+                </option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="right-wrapper clearfix" data-trans="0">
+        <ul class="signin" id="signin-id">
+            <li id="signin">
+              <a rel="nofollow" class="signin-label" href="https://members.cafepress.com/login.aspx?passthru=yes">Sign In</a>
+              <div class="sub-nav clearfix" id="sub-nav-account">
+                <div class="triangle-up"></div>
+                  <ul>
+                      <i class="indicator"></i>
+                      <li id="signin-menu-signin"><a href="http://members.cafepress.com/login.aspx">Sign In</a></li>
+                      <li><a href="http://members.cafepress.com/dashboard">Dashboard</a></li>
+                      <li><a href="http://www.cafepress.com/cp/catalogexp/member_wishlists.aspx">Favorites</a></li>
+                      <li id="signin-menu-profile"><a href="http://members.cafepress.com/login.aspx">View Profile</a></li>
+                      <li><a href="https://members.cafepress.com/login.aspx?passthru=yes&amp;goto=https://members.cafepress.com/account/orderhistory.aspx">Orders</a></li>
+                      <li><a href="https://members.cafepress.com/login.aspx?passthru=yes&amp;goto=http://members.cafepress.com/mydesigns">My Designs</a></li>
+                      <li id="signin-menu-shops"><a href="https://members.cafepress.com/login.aspx?passthru=yes&amp;goto=http://members.cafepress.com/stores/">Shops</a></li>
+                      <li><a href="https://members.cafepress.com/login.aspx?passthru=yes&amp;goto=http://members.cafepress.com/salesreport/?tab=orderTab">Reports</a></li>
+                      <li><a href="https://members.cafepress.com/login.aspx?passthru=yes&amp;goto=http://members.cafepress.com/editprofile">Settings</a></li>
+                      <li><a class="header-help" href="">Help</a></li>
+                  </ul>
+              </div> 
+            </li>
+        </ul>
+        <div id="header-help" class="header-help">?</div>
+        <div class="touch-item" id="global-header-cart">
+          <a rel="nofollow" href="http://www.cafepress.com/cp/viewcart.aspx?s=search">
+            <i class="icon-cp-cart icon-large"></i>
+            <span id="cartItemCount" class="global-header-cartcount">0</span>
+            <span id="displayCurrencyForUK"></span>
+          </a>
+        </div>
+        <ul class="touch-nav clearfix">
+            <li class="touch-item bb" id="touch-item-menu"><i class="touch-menu icon-reorder icon-large"></i></li>
+            <li class="touch-item bb" id="touch-item-search"><i class="touch-search icon-search icon-large"></i></li>
+        </ul>   
+               
+    </div>
+    </div>
+    
+    
+    <div class="help-overlay"></div>
+    <div id="help-popup">
+        <div class="help-content">
+            <div class="help-close">X</div>
+            <h4> How can we help?</h4>
+            <div class="help-box no-margin">
+                <i class="icon-group" data-type="chat"></i>
+                <div class="tagline">Chat with a real person*</div>
+                <div>
+                    <a id="_lpChatBtn" class="green-button" href="https://sales.liveperson.net/hc/74058960/?cmd=file&amp;file=visitorWantsToChat&amp;site=74058960&amp;byhref=1&amp;imageUrl=http://content.cpcache.com/global/img/livechat/" target="chat74058960GN" onclick="javascript:window.open('https://sales.liveperson.net/hc/74058960/?cmd=file&amp;file=visitorWantsToChat&amp;site=74058960&amp;imageUrl=http://content.cpcache.com/global/img/livechat/&amp;referrer='+escape(document.location),'chat74058960','width=475,height=400,resizable=yes');return false;">Live Chat</a>
+                </div>
+            </div>
+            <div class="help-box">
+                <i class="icon-truck" data-type="track"></i>
+                <div class="tagline">Track your order</div>
+                <div><a class="green-button" href="http://www.cafepress.com/help/trackorder" rel="nofollow">Track Order</a></div>
+            </div>
+            <div class="help-box">
+                <i class="icon-copy" data-type="browse"></i>
+                <div class="tagline">Browse our help page</div>
+                <div><a class="green-button" rel="nofollow" href="http://www.cafepress.com/cp/info/help/">Go to Help</a></div>
+            </div>
+            <div class="help-links">
+                <a rel="nofollow" onclick="window.open( &quot;http://www.cafepress.com/cp/info/help/help_popup.aspx?page=help_guarantee.aspx&quot;, &quot;myWindow&quot;, 
+    &quot;height = 350, width = 300&quot;)" style="cursor:pointer">100% Satisfaction Guarantee »</a>
+    			
+				<span>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Check out the </span><a class="green" href="http://thecafe.cafepress.com/forums">CafePress Forums here »</a>
+            </div>
+        </div>
+    </div>
 
-		
-		<div class="clear"></div>
-	</div>
-</div>
-<!-- end global header -->
+</div> <!--end header wrap-->
+</div> <!--end header border-->
+
+	<!-- end global header -->
+
+  
 
 
 <!-- Start Main Content -->
 
-<div class="layout margin-top" id="helpContent">
+
 
 <a name="top"></a>
 
 
+<section id="generalContent">
+    <div class="wrapper">
+        <ul class="crumb desktop">
+            <li><a href="http://www.cafepress.com">Home</a>&nbsp;&gt;&nbsp;</li>
+    	
+    		<li><a href="http://www.cafepress.com/cp/info/help/">Customer Service</a>&nbsp;&gt;&nbsp;</li> 
+    		<li>Privacy Policy</li>
+    	</ul>
+    
+    		<h1 class="help-page">Privacy Policy</h1>
+    	
 
-	<div class="breadCrumb">
-	<a href="/cp/info/">Home</a> &gt; 
-	
-		<a href="/cp/info/help/">Customer Service</a> &gt; 
-		<span class="breadCrumbIndicator">Privacy Policy</span>
-		</div>
 
-		<h1>Privacy Policy</h1>
-	
+        <div class="content-entry">
+        
 
 <strong>Effective Date:  April 24, 2013</strong><p></p>
 
@@ -1336,7 +957,11 @@ input[type=submit],input[type=reset],input[type=button]{filter:chroma(color=#000
 <p class="xsmallText"><a href="#top"><strong>top</strong></a></p>
 
 
-</div>
+        </div>
+
+
+    </div>
+</section>
 
 
 <!-- End Content, Start Footer Include -->
@@ -1347,241 +972,251 @@ input[type=submit],input[type=reset],input[type=button]{filter:chroma(color=#000
 
 
 <div id="footerContainer">
-	<div id="global-footer-cap"></div>
-
-<div id="global-footer-band" class="">
-  <div class="layout layout-bigbox">
-        <h3>CafePress - The world's largest selection of artist-designed t-shirts, clothing, accessories, housewares and gifts.</h3>
-        <a class="bloglink" href="http://blog.cafepress.com/">READ OUR BLOG</a>
-  </div>
-</div>
-
-<div id="global-footer">
-  <div class="layout layout-bigbox">
-    <div class="block block-5col">
-      <div class="col">
-        <div class="box">
-          <p class="bold">TOP DEPARTMENTS</p>
-          <a href="http://www.cafepress.com/+posters">Posters</a><br>
-          <a href="http://www.cafepress.com/+iphone-cases">Iphone 5 Cases</a><br>
-          <a href="http://www.cafepress.com/+t-shirts">T-Shirts</a><br>
-          <a href="http://www.cafepress.com/+greeting_cards">Greeting Cards</a><br>
-          <a href="http://www.cafepress.com/+sweatshirts-hoodies">Hoodies</a><br>
-          <a href="http://www.cafepress.com/+invitations">Invitations</a><br>
-          <a href="http://www.cafepress.com/+shower-curtains">Shower Curtains</a><br>
-          <a href="http://www.cafepress.com/+clocks">Wall Clocks</a><br>
-          <a href="http://www.cafepress.com/+pajamas">Pajamas</a><br>
-          <a href="http://www.cafepress.com/+mugs">Coffee Mugs</a><br>
-          <a href="http://www.cafepress.com/+bedding">Bedding</a><br>
-		  <a href="http://www.cafepress.com/+pillows">Throw Pillows</a><br>
-        </div>
-      </div>
-      <div class="col">
-        <div class="box">
-          <p class="bold">POPULAR T-SHIRTS</p>
-          <a href="http://www.cafepress.com/+cool+t-shirts">Cool T Shirts</a><br>
-          <a href="http://www.cafepress.com/+funny+t-shirts">Funny Shirts</a><br>
-          <a href="http://www.cafepress.com/+i-love+t-shirts">I Love T shirts</a><br>
-          <a href="http://www.cafepress.com/+vintage+t-shirts">Vintage T-Shirts</a><br>
-          <a href="http://www.cafepress.com/+zombie+t-shirts">Zombie Shirts</a><br>
-          <a href="http://www.cafepress.com/+crazy+t-shirts">Crazy Shirts</a><br>
-          <a href="http://www.cafepress.com/+cool+t-shirts">Cool Shirts</a><br>
-          <a href="http://www.cafepress.com/+big-sister+t-shirts">Big Sister T-Shirts</a><br>
-          <a href="http://www.cafepress.com/+retro+t-shirts">Retro T-Shirts</a><br>
-          <a href="http://www.cafepress.com/+doctorwho+t-shirts">Dr Who T shirts</a><br>
-          <a href="http://www.cafepress.com/+geek+t-shirts">Geek T Shirts</a><br>
-		  <a href="http://www.cafepress.com/+mustache+t-shirts">Mustache T shirts</a><br>
-        </div>
-      </div>
-      <div class="col">
-        <div class="box">
-          <p class="bold">DESIGN YOUR OWN</p>
-          <a href="/make/personalized-gifts">Personalized Gifts</a><br>
-          <a href="/make/custom-stickers">Custom Stickers</a><br>
-          <a href="/make/custom-t-shirts">Design Your Own T Shirt</a><br>
-          <a href="/make/custom-stationery">Personalized Stationery</a><br>
-          <a href="/make/custom-greeting-cards">Personalized Greeting Cards</a><br>
-          <a href="/make/custom-invitations">Custom Invitations</a><br>
-          <a href="/make/custom-mugs">Personalized Coffee Mugs</a><br>
-          <a href="/make/3d-photo-gifts">Photo Gifts</a><br>
-          <a href="/make/custom-iphone-cases">Custom iPhone 5 Cases</a><br>
-          <a href="/make/custom-photo-calendars">Custom Calendar</a><br>
-          <a href="/make/custom-picture-frames">Personalized Picture Frames</a><br>
-		  <a href="/make/custom-aprons">Personalized Aprons</a><br>
-        </div>
-      </div>
-      <div class="col">
-        <div class="box">
-          <p class="bold">CUSTOMER SERVICE</p>
-          <a href="http://www.cafepress.com/cp/info/help/" rel="nofollow">Help / FAQs</a><br>
-          <a href="https://members.cafepress.com/login.aspx?goto=https://members.cafepress.com/account/orderhistory.aspx" rel="nofollow">Order Status</a><br>
-          <a href="http://www.cafepress.com/cp/info/help/index.aspx?page=shipping.aspx" rel="nofollow">Shipping</a><br>
-          <a href="http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-1969659929527487589/view_results!PAGETYPE?category=25" rel="nofollow">Returns</a><br>
-          <a href="https://members.cafepress.com/login.aspx?passthru=yes&amp;goto=/" rel="nofollow">My Account</a><br>
-          <a href="http://www.cafepress.com/content/cp-partners/main.html">Become an Affiliate</a><br>
-          <a href="http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-328079215619249773/escalate!PAGETYPE?VisitorProfile=cafepress" rel="nofollow">Contact Us</a><br>
-		  <a href="http://www.cafepress.com/cp/learn/index.aspx?page=free_shipping" rel="nofollow">Free Shipping Offer</a><br>
-		  <a href="http://members.cafepress.com/giftcertificates/product_details.aspx">Buy Gift Certificates</a><br><br>
-        </div>
-      </div>
-      <div class="col col-last emailBox">
-        
-      </div>
-    </div>
-    <div class="block block-full">
-      <div class="col">
-        <div class="box" id="intlLinks">
-          <ul class="floatfix">
-            <li class="bold">INTERNATIONAL SITES:</li>
-            <li id="footerAUS">
-              <span class="flag"></span>
-              <a href="http://www.cafepress.com.au">Australia</a>
-            </li>
-            <li id="footerCAN">
-              <div class="flag"></div>
-              <a href="http://www.cafepress.ca">Canada</a>
-            </li>
-            <li id="footerFR">
-              <div class="flag"></div>
-              <a href="http://www.cafepress.fr">France</a>
-            </li>
-            <li id="footerDE">
-              <div class="flag"></div>
-              <a href="http://www.cafepress.de">Germany</a>
-            </li>
-            <li id="footerES">
-              <div class="flag"></div>
-              <a href="http://www.cafepress.es">Spain</a>
-            </li>
-            <li id="footerUK">
-              <div class="flag"></div>
-              <a href="http://www.cafepress.co.uk">United Kingdom</a>
-            </li>
-            <li id="footerUS">
-              <div class="flag"></div>
-              <a href="http://www.cafepress.com">United States &amp; Worldwide</a>
-            </li>
-          </ul>
-        </div> 
-        <div class="clear"></div>       
-
-        <div id="cp_inc_brands_container">
-            <div id="cp_inc_brands">OUR BRANDS</div>
-            
-            <div id="cp_inc_ribbon">
-                <div class="cp_ribbon_brand"><a href="http://www.cafepress.com" title="CafePress">CafePress</a>&nbsp;&nbsp;<a href="" data-type="cp_brand_cp" class="toggle">[+]</a></div>
-                <div class="cp_ribbon_brand"><a href="http://www.canvasondemand.com" title="Canvas on Demand" target="_blank">Canvas on Demand</a>&nbsp;&nbsp;<a href="" data-type="cp_brand_cod" class="toggle">[+]</a></div>
-                <div class="cp_ribbon_brand"><a href="http://www.greatbigcanvas.com" title="Great Big Canvas" target="_blank">Great Big Canvas</a>&nbsp;&nbsp;<a href="" data-type="cp_brand_gbc" class="toggle">[+]</a></div>
-                <div class="cp_ribbon_brand"><a href="http://www.imagekind.com" title="ImageKind" target="_blank">ImageKind</a>&nbsp;&nbsp;<a href="" data-type="cp_brand_ik" class="toggle">[+]</a></div>
-                <div class="cp_ribbon_brand cp_ribbon_ibox"><a href="http://www.invitationbox.com" title="Invitation Box" target="_blank">Invitation Box</a>&nbsp;&nbsp;<a href="" data-type="cp_brand_ib" class="toggle">[+]</a></div>
-                <div class="cp_ribbon_brand"><a rel="nofollow" href="http://www.logosoftwear.com" title="LogoSportswear" target="_blank">LogoSportswear</a>&nbsp;&nbsp;<a href="" data-type="cp_brand_lsw" class="toggle">[+]</a></div>
-                <div style="clear: both;"></div>
-            </div>
-                
-            <div id="cp_inc_ribbon_items">
-                <div class="cp_brand_node" id="cp_brand_cp">
-                    <a href="http://www.cafepress.com/+funny+t-shirts" title="Funny T Shirts">Funny T Shirts</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.cafepress.com/+cool+t-shirts" title="Cool T Shirts">Cool T Shirts</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.cafepress.com/+mugs" title="Coffee Mugs">Coffee Mugs</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.cafepress.com/+vintage+t-shirts" title="Vintage T Shirts">Vintage T Shirts</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.cafepress.com/+political+t-shirts" title="Political T Shirts">Political T Shirts</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.cafepress.com/+womens-maternity" title="Maternity Shirts">Maternity Shirts</a>
-                </div>
-                <div class="cp_brand_node" id="cp_brand_cod">
-                    <a href="http://www.canvasondemand.com/canvas-prints-from-photos.asp" title="Canvas Prints from Photos" target="_blank">Canvas Prints from Photos</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.canvasondemand.com/canvas-photo.asp" title="Photo On Canvas" target="_blank">Photo On Canvas</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.canvasondemand.com/large-canvas-digital-prints.asp" title="Large Canvas Prints" target="_blank">Large Canvas Prints</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.canvasondemand.com/canvas-digital-photo.asp" title="Digital Photo Canvas" target="_blank">Digital Photo Canvas</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.canvasondemand.com/customized-canvas-prints" title="Canvas Prints" target="_blank">Canvas Prints</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.canvasondemand.com/photos-to-canvas.asp" title="Photo To Canvas" target="_blank">Photo To Canvas</a>
-                </div>
-                <div class="cp_brand_node" id="cp_brand_gbc">
-                    <a href="http://www.greatbigcanvas.com/large-art-prints" title="Large Art Prints" target="_blank">Large Art Prints</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/canvas-artwork" title="Canvas Artwork" target="_blank">Canvas Artwork</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/big-canvas-prints" title="Big Canvas" target="_blank">Big Canvas</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/wall-prints" title="Wall Prints" target="_blank">Wall Prints</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/oversized-art" title="Oversized Art" target="_blank">Oversized Art</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/wall-art" title="Wall Art" target="_blank">Wall Art</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/canvas-art-prints" title="Canvas Art Prints" target="_blank">Canvas Art Prints</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/large-wall-art" title="Large Wall Art" target="_blank">Large Wall Art</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/abstract-wall-art" title="Abstract Art" target="_blank">Abstract Art</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://www.greatbigcanvas.com/canvas-prints" title="Canvas Prints" target="_blank">Canvas Prints</a>
-                </div>
-                <div class="cp_brand_node" id="cp_brand_ik">
-                    <a href="http://imagekind.com/digital-photography-art_print" title="Digital Painting" target="_blank">Digital Painting</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://imagekind.com/shop/wall-art.aspx" title="Art Prints" target="_blank">Art Prints</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://imagekind.com/digital-posters" title="Digital Art" target="_blank">Digital Art</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://imagekind.com/shop/landing/customframing/default.aspx" title="Framed Photos" target="_blank">Framed Photos</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://imagekind.com/bathroom-art_print" title="Bathroom Art" target="_blank">Bathroom Art</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://imagekind.com/best-selling-art-prints" title="Wall Art" target="_blank">Wall Art</a>&nbsp;&nbsp;|&nbsp;
-                    <a href="http://imagekind.com/kitchen-art_print" title="Kitchen Art" target="_blank">Kitchen Art</a>
-                </div>
-                <div class="cp_brand_node cp_ribbon_ibox" id="cp_brand_ib">
-                    <a rel="nofollow" href="http://www.invitationbox.com/birthdayinvitations.html" target="_blank">Birthday Party Invitations</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.invitationbox.com/baby-shower-invitations.html" target="_blank">Baby Shower Invitations</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.invitationbox.com/bridalshower.html" target="_blank">Bridal Shower Invitations</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.invitationbox.com/wedding-invitations.html" target="_blank">Elegant Wedding Invitations</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.invitationbox.com/birth-announcements.html" target="_blank">Photo Birth Announcements</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.invitationbox.com/christmascards.html" target="_blank">Photo Holiday Cards</a>
-                </div>
-                <div class="cp_brand_node" id="cp_brand_lsw">
-                    <a rel="nofollow" href="http://www.logosoftwear.com/" title="Custom Shirts" target="_blank">Custom Shirts</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.logosoftwear.com/" title="Custom T-shirts" target="_blank">Custom T-shirts</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.logosoftwear.com/caps.php" title="Custom Caps" target="_blank">Custom Caps</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.logosoftwear.com/customsweatshirts.php" title="Custom Sweatshirts" target="_blank">Custom Sweatshirts</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.logosoftwear.com/workwear.php" title="Custom Workwear" target="_blank">Custom Workwear</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.logosoftwear.com/jackets.php" title="Custom Jackets" target="_blank">Custom Jackets</a>&nbsp;&nbsp;|&nbsp;
-                    <a rel="nofollow" href="http://www.teamsportswear.com/" title="Custom Team Uniforms" target="_blank">Custom Team Uniforms</a>
-                </div>
-            </div>
-        </div>
-        <hr>
-        
-        <div class="box">
-          <ul id="footerLinks" class="floatfix">
-            <li><a href="http://www.cafepress.com/cp/info/about/" rel="nofollow">About CafePress</a></li>
-            <li><a href="http://www.cafepress.com/cp/info/help/" rel="nofollow">Help</a></li>
-            <li><a href="http://www.cafepress.com/cp/info/help/index.aspx?page=privacy_policy.aspx">Privacy Policy</a></li>
-            <li><a href="http://www.cafepress.com/cp/info/help/index.aspx?page=iprights.aspx">Intellectual Property Policy</a></li>
-            <li><a href="http://www.cafepress.com/cp/info/help/index.aspx?page=cup.aspx">Content Usage Policy</a></li>
-            <li><a href="http://www.cafepress.com/cp/tags/">Tags</a></li>
-            <li><a href="http://www.cafepress.com/cp/products/">Products</a></li>
-            <li class="li-last"><a href="http://www.cafepress.com/cp/sitemap/">Sitemap</a></li>
-          </ul>
-          <p>All Content Copyright © 1999-2013<a href="http://www.cafepressinc.com">CafePress Inc.</a> Use of this web site constitutes acceptance of the <a href="/cp/info/help/tos.aspx" rel="nofollow">Terms of Service</a>.</p>
-        </div>
-      </div>
-    </div>
-    
-    <div class="email-sidebar" style="display:none">
-        <div class="box grey keep-right">
-          <div class="closeEmail"></div>
-            <p class="bold grey">GET SPECIAL OFFERS FROM CAFEPRESS!</p>
-            <p>Enter your email address to receive special offers and promotions from CafePress.</p>
-            <form autocomplete="off" action="http://www.cafepress.com/ws/registeremail" method="post" id="emailSignupForm">
-            <input type="text" name="email" class="inputText signUpEmail " data-watermark="Email Address" value="Email Address">
-            <div class="footerEmail">
-              <input type="checkbox" name="age">
+		<footer class="bb">
+		<div class="wrapper">
+			<form id="emailSignupForm" method="post" action="http://www.cafepress.com/ws/registeremail" autocomplete="off">
+				<label for="email">Get Exclusive Offers:</label>
+          <div class="email-wrap">
+	            <input type="email" placeholder="Email Address" class="inputText signUpEmail" name="email" required="">
+	            <button class="button uc" type="submit">Subscribe</button>
+              <div class="email-checkbox">
+                <div id="emailSuccess"></div>
+              <input type="checkbox" name="age" required="">
               <label class="agBoxInfo">By checking this box I certify that as of today I am at least 13 years of age</label>
+              </div>
+              <div class="info"></div>
+          </div>
+	        </form>
+	        <div class="footer-social">
+	        	Follow CafePress: 
+            <div class="fs-links-wrap">
+	        	<a href="https://www.facebook.com/cafepress" target="_blank" alt="facebook"><i class="icon-facebook"></i></a>
+	        	<a href="https://twitter.com/cafepress" target="_blank" alt="twitter"><i class="icon-twitter"></i></a>
+	        	<a href="http://pinterest.com/cafepressinc/" target="_blank" alt="pinterest"><i class="icon-pinterest"></i></a>
             </div>
-            <div class="info"></div>
-            <input type="submit" disabled="disabled" value="SIGN UP" class="inputSubmit ">
-            </form>
-        </div>
+            <br>
+            
+            <a class="refer-friend" href="http://www.cafepress.com/+referafriend+gifts">Refer a friend, earn $10!</a>
+
+	        </div>
+	        <div class="footer-ribbon-wrap clearfix">
+	        	<ul>
+	        		<h4 class="uc"><i class="icon-question-sign"></i>Help</h4>
+	        		<div class="footer-list-wrap">
+	        			<li><a href="https://members.cafepress.com/login.aspx?passthru=yes&amp;goto=https://members.cafepress.com/account/orderhistory.aspx">Track Order</a></li>
+	        			<li><a href="http://www.cafepress.com/cp/info/help/">FAQs</a></li>
+	        			<li><a href="http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-1969659929527487589/view_results!PAGETYPE?category=25">Returns</a></li>
+	        			<li><a href="http://www.cafepress.com/cp/info/help/index.aspx?page=shipping.aspx">Shipping</a></li>
+	        			<li><a href="http://members.cafepress.com/giftcertificates/product_details.aspx">Gift Certificates</a></li>
+	        			<li><a href="http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-328079215619249773/escalate!PAGETYPE?VisitorProfile=cafepress">Contact Us</a></li>
+	        		</div>
+	        	</ul>
+	        	<ul>
+	        		<h4 class="uc"><i class="icon-group"></i>About</h4>
+	        		<div class="footer-list-wrap">
+	        			<li><a href="http://www.cafepress.com/cp/info/about/" rel="nofollow">About CafePress</a></li>
+	        			<li><a href="http://blog.cafepress.com/">Blog</a></li>
+	        			<li><a href="http://www.cafepress.com/cp/info/help/index.aspx?page=privacy_policy.aspx">Privacy Policy</a></li>
+	        			<li><a href="http://www.cafepress.com/cp/info/help/index.aspx?page=iprights.aspx">Intellectual Property Policy</a></li>
+                <li><a href="http://www.cafepress.com/cp/info/help/index.aspx?page=cup.aspx">Content Usage Policy</a></li>
+	        			<li><a href="http://www.cafepress.com/cp/sitemap/">Sitemap</a></li>
+	        			<li><a href="http://www.cafepress.com/cp/tags/">Tags</a></li>
+                <li><a href="http://www.cafepress.com/+all+gifts">Products</a></li>
+	        		</div>
+	        	</ul>
+	        	<ul>
+	        		<h4 class="uc"><i class="icon-tags"></i>Our Brands</h4>
+	        		<div class="footer-list-wrap">
+                		<li><a href="http://www.canvasondemand.com" title="Canvas on Demand" target="_blank">Canvas on Demand</a></li>
+                		<li><a href="http://www.greatbigcanvas.com" title="Great Big Canvas" target="_blank">Great Big Canvas</a></li>
+                		<li><a href="http://www.imagekind.com" title="ImageKind" target="_blank">ImageKind</a></li>
+                		<li><a href="http://www.invitationbox.com" title="Invitation Box" target="_blank">Invitation Box</a></li>
+                		<li><a rel="nofollow" href="http://www.logosoftwear.com" title="LogoSportswear" target="_blank">LogoSportswear</a></li>
+						<li><a href="http://www.tfund.com" title="Tfund" target="_blank">Tfund</a></li>
+	        		</div>
+	        	</ul>
+	        	<ul>
+	        		<h4 class="uc"><i class="icon-globe"></i>International</h4>
+	        		<div class="footer-list-wrap">
+	        			<li class="footerAUS">
+            			  <div class="flag"></div>
+            			  <a href="http://www.cafepress.com.au">Australia</a>
+            			</li>
+            			<li class="footerCAN">
+            			  <div class="flag"></div>
+            			  <a href="http://www.cafepress.ca">Canada</a>
+            			</li>
+            			<li class="footerFR">
+            			  <div class="flag"></div>
+            			  <a href="http://www.cafepress.fr">France</a>
+            			</li>
+            			<li class="footerDE">
+            			  <div class="flag"></div>
+            			  <a href="http://www.cafepress.de">Germany</a>
+            			</li>
+            			<li class="footerES">
+            			  <div class="flag"></div>
+            			  <a href="http://www.cafepress.es">Spain</a>
+            			</li>
+            			<li class="footerUK">
+            			  <div class="flag"></div>
+            			  <a href="http://www.cafepress.co.uk">United Kingdom</a>
+            			</li>
+            			<li class="footerUS">
+            			  <div class="flag"></div>
+            			  <a href="http://www.cafepress.com">United States &amp; Worldwide</a>
+            			</li>
+	        		</div>
+	        	</ul>
+
+
+	        </div>
+
+	        <section>
+	<div class="seolinks">
+
+        <ul class="seolink-box">
+          <p>TOP DEPARTMENTS:</p>
+          <li><a href="http://www.cafepress.com/+posters">Posters</a></li>
+          <li><a href="http://www.cafepress.com/+iphone-cases">iPhone 5 Cases</a></li>
+          <li><a href="http://www.cafepress.com/+t-shirts">T-Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+greeting_cards">Greeting Cards</a></li>
+          <li><a href="http://www.cafepress.com/+sweatshirts-hoodies">Hoodies</a></li>
+          <li><a href="http://www.cafepress.com/+invitations">Invitations</a></li>
+          <li><a href="http://www.cafepress.com/+shower-curtains">Shower Curtains</a></li>
+          <li><a href="http://www.cafepress.com/+clocks">Wall Clocks</a></li>
+          <li><a href="http://www.cafepress.com/+pajamas">Pajamas</a></li>
+          <li><a href="http://www.cafepress.com/+mugs">Coffee Mugs</a></li>
+          <li><a href="http://www.cafepress.com/+bedding">Bedding</a></li>
+		  <li><a href="http://www.cafepress.com/+pillows">Throw Pillows</a></li>
+        </ul>
+      
+     
+        <ul class="seolink-box">
+          <p>POPULAR T-SHIRTS:</p>
+          <li><a href="http://www.cafepress.com/+cool+t-shirts">Cool T Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+funny+t-shirts">Funny Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+i-love+t-shirts">I Love T shirts</a></li>
+          <li><a href="http://www.cafepress.com/+vintage+t-shirts">Vintage T-Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+zombie+t-shirts">Zombie Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+crazy+t-shirts">Crazy Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+cool+t-shirts">Cool Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+big-sister+t-shirts">Big Sister T-Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+retro+t-shirts">Retro T-Shirts</a></li>
+          <li><a href="http://www.cafepress.com/+doctorwho+t-shirts">Dr Who T shirts</a></li>
+          <li><a href="http://www.cafepress.com/+geek+t-shirts">Geek T Shirts</a></li>
+		  <li><a href="http://www.cafepress.com/+mustache+t-shirts">Mustache T shirts</a></li>
+        </ul>
+ 
+      
+        <ul class="seolink-box">
+          <p>DESIGN YOUR OWN:</p>
+          <li><a href="/make/personalized-gifts">Personalized Gifts</a></li>
+          <li><a href="/make/custom-stationery">Personalized Stationery</a></li>
+          <li><a href="/make/custom-greeting-cards">Personalized Greeting Cards</a></li>
+          <li><a href="/make/custom-mugs">Personalized Coffee Mugs</a></li>
+          <li><a href="/make/3d-photo-gifts">Photo Gifts</a></li>
+          <li><a href="/make/custom-photo-calendars">Custom Calendar</a></li>
+          <li><a href="/make/custom-picture-frames">Personalized Picture Frames</a></li>
+		  <li><a href="/make/custom-aprons">Personalized Aprons</a></li>
+        </ul>
+
+	</div>
+
+	</section>
+  <div class="feedback-icon"><a alt="feedback">+</a></div>
+
+<div class="feedback">
+
+  <form id="feedback-form-template" class="feedback-form" action="javascript:cafepress.globalHeader.feedbackModuleHandler();">
+  <h3>Help us improve CafePress!</h3>
+    <p>Send us your feedback, comments and questions below:</p>
+    <div class="form-row">
+      <select required="" id="feedback-category" class="green">
+        <option value="">*Select a Category</option>
+        <option value="Question">Question</option>
+        <option value="Bug">Report a Bug</option>
+        <option value="General Feedback">General Feedback</option>
+      </select>
     </div>
 
-  </div>
+    <div class="form-row">
+      <label for="email" class="green">*Email:</label>
+      <input type="text" id="feedback-email" name="feedback-email" class="email" placeholder="Your email address" required="">
+    </div>
+
+    <textarea class="feedback-textarea" rows="6" max-length="500" name="feedback-message" placeholder="Write your message here" required=""></textarea>
+
+    <input type="submit" value="SEND" class="button send">
+    <div class="error-msg">Please fill in all fields</div>
+  </form>
+
+  
 </div>
 
-<div id="emailSuccess"></div>
+  <!-- <div class="share-win">
+        <span class="share-win-heading"><i class="icon-share"></i>SHARE<br>& WIN<br>$1,000</span>
+        <span class="share-win-content">
+            <i class="icon-facebook share-win-icon"></i>
+            <i class="icon-twitter share-win-icon"></i>
+            <i class="icon-pinterest share-win-icon"></i>
+            <i class="icon-envelope share-win-icon"></i>
+        </span>
+        <span class="share-win-hide">Hide</span>
+    </div>
 
+    <div class="share-win-popup" id="share-win-popup">
+        <h1>Share this page & you could win $1,000 with CafePress!</h1>
+        <a class="share-leader-board">View Contest Leaderboard &raquo;</a>
+
+         <div class="share-preview">
+
+            <p>Add a note to your message:</p>
+            <textarea class="share-textarea" placeholder="Enter your message here"></textarea>
+            <img width="100" height="100" src="http://i1.cpcache.com/product/780116547/sweatshirt.jpg?color=AshGrey&height=100&width=100">
+            <div class="message">
+                <p>Hey Check out CafePress.com</p>
+                <p>I'm sharing my fave designs from CafePress to get a chance to win a $1000. Click through and you can, too.</p>
+            </div>
+            <div class="share-buttons">
+                <span style="background: #365798; color: #fff"><i class="icon-facebook-sign"></i> Share</span>
+                <span style="background: #9de0eb"><i class="icon-twitter"></i> Share</span>
+                <span style="background: #f72c00; color:#fff"><i class="icon-pinterest"></i> Share</span>
+                <span style="background: #fff; border: 1px solid #ddd;"><i class="icon-envelope"></i> Share</span>
+            </div>
+         </div>
+         
+         <ul class="share-win-about">
+             <p>Turn your love of CafePress into a chance to win big money. Share our great designs and products on Facebook, Twitter, Pinterest and email.</p>
+             <li> For Facebook, you'll receive 1 entry and 1 point for each friend you refer back to our site(no entries/points just for sharing).</li> 
+             <li>For Twitter, Pinterest and email, you'll receive 1 point and 1 entry when you share.</li>
+         </ul>
+
+        
+        <div class="share-win-footer">
+            <ul>
+                <li>See Official Rules</li>
+                <li>Powered by SocialAnnex</li>
+                <li>Safe & Secure <i class="icon-lock"></i></li>
+            </ul>
+        </div>
+
+    </div> -->
+
+
+	        <div class="copyright">
+	        	All Content Copyright © 1999-2013 CafePress Inc. Use of this web site constitutes acceptance of the <a onclick="window.open(&quot;http://www.cafepress.com/cp/popup/index.aspx?page=terms_policies&quot;, &quot;myWindow&quot;, &quot;height = 450, width = 925, scrollbars=1&quot;)" target="_blank" rel="nofollow" class="pointer" style="text-decoration: underline; cursor:pointer">Terms of Service.</a>
+	        </div>
+	        <div id="scanalert"><a href="javascript:void(window.open('https://www.scanalert.com/RatingVerify?ref=www.cafepress.com'));"><img width="115" height="30" border="0" src="http://images.scanalert.com/meter/www.cafepress.com/32.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited  by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></div>
+	    </div>
+	</footer>
 
 	
 <!--Universal-->
 
 	<!--Cats Code Begin-->
 		
-		<div id="instrumentation" style="display:none; color:white">{"SumOfAllMeasurementsBelowReportingThreshold":1}</div>
+		<div id="instrumentation" style="display:none; color:white">{"SumOfAllMeasurementsBelowReportingThreshold":2}</div>
 	<!--Cats Code End-->
 
 
@@ -1591,13 +1226,49 @@ input[type=submit],input[type=reset],input[type=button]{filter:chroma(color=#000
 
 </div>
 <!-- Google Tag Manager -->
+
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-LTCW"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-LTCW');</script>
+<!--[if IE]>
+	<script type="text/javascript">
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-LTCW');
+
+	</script>
+<![endif]-->
+<!--[if !IE]><!-->
+<script>
+//load GTM on non mobile
+
+if (window.cafepress && cafepress.globalHeader && cafepress.globalHeader.matchMedia){
+	var gtmLoaded = false;
+	cafepress.globalHeader.matchMedia(570, function(mq){
+		if(!gtmLoaded) {
+			if(!mq || !mq.matches) {
+				(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-LTCW');
+				gtmLoaded = true;
+		
+			}
+		}
+	});
+} else {
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-LTCW');
+	gtmLoaded = true;
+}
+</script>
+ <!--<![endif]-->
+
 <!-- End Google Tag Manager -->
 
 
