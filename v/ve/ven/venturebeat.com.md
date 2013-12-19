@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venturebeat.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612232637id_/http%3A//venturebeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturebeat.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219094228id_/http%3A//venturebeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VentureBeat
 
