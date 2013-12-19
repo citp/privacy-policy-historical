@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hellomagazine.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530171554id_/http%3A//www.hellomagazine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellomagazine.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219231950id_/http%3A//www.hellomagazine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - hellomagazine.com, HELLO!
 
 ### PRIVACY POLICY
 
-This Privacy Policy is an integral part of this Web Site´s [Legal Notice](https://web.archive.org/web/20130530171554id_/http%3A//www.hellomagazine.com/disclaimer.html)
+This Privacy Policy is an integral part of this Web Site´s [Legal Notice](https://web.archive.org/web/20131219231950id_/http%3A//www.hellomagazine.com/disclaimer.html)
 
 1\. In accordance with current data protection regulations, Users, being those persons accessing the Web Site and/or sending a request or email to the Web Site or completing a Web Site form or registration process, are informed that any personal data provided through or to the Web Site may be processed by HOLA, S.L (hereinafter, the Entity), as Data Controller and/or by HELLO, Ltd, as Data Processor of the Entity (hereinafter, the Data Controller), for the following purposes: 
 
@@ -53,4 +53,10 @@ In addition, in order to meet the above responsibility regarding accuracy, it is
 
 6\. Regarding personal data, Users are granted the rights to access, rectify, cancel and object. These rights can be exercised by notifying the Entity in writing at the contact address provided on the Web Site.
 
-**© 2001-2012 HELLO! All rights reserved.**
+Miguel Ángel, 1 28010 Madrid
+
+Tel.: +34 91 781 18 00
+
+To cancel your subscription to our newsletter and alerts go to [this page](http://www.hellomagazine.com/unsubscribe/)
+
+**© 2001-2013 HELLO! All rights reserved.**
