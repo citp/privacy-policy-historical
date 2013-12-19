@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421150951id_/http%3A//www.huskyenergy.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219164911id_/http%3A//www.huskyenergy.com/privacystatement) for the most accurate reproduction.*
 
 # Husky Energy - Privacy Statement
 
@@ -40,12 +40,13 @@ Husky uses the services of many third parties in its business, some of which are
   * road, well, pipeline and other facilities construction and/or maintenance contractors;
   * environment, health and safety consultants;
   * geophysical, engineering, environmental, or other consultants;
-  * credit rating agencies, credit providers and financial institutions; and
-  * government authorities.
+  * credit rating agencies, credit providers and financial institutions;
+  * government authorities; and
+  * ethics reporting system management providers.
 
 
 
-Except where permitted or required by law, personal information will only be provided to third parties for the purposes of allowing them to provide goods or services to Husky or to permit Husky to carry out its activities. For personal information that is required to be collected with consent, notification shall be given to affected parties before such personal information is collected by, or transferred to, a service provider outside of Canada. For specific inquiries regarding the collection, use, disclosure or storage of personal information by service providers outside of Canada, please contact the Privacy Officers as set out below.
+Except where permitted or required by law, personal information will only be provided to third parties for the purposes of allowing them to provide goods or services to Husky or to permit Husky to carry out its activities. For personal information that is required to be collected with consent, notification shall be given to affected parties before such personal information is collected by, or transferred to, a service provider outside of Canada. Husky currently contracts a third party service provider, EthicsPoint, to provide integrated hotline and web-based ethics reporting systems, software and services. EthicsPoint may collect, transfer and store Personal Information in the United Kingdom, in accordance with the Husky Privacy Policy and under the instruction of Husky. For specific inquiries regarding the collection, use, disclosure or storage of personal information by service providers outside of Canada, please contact the Privacy Officers as set out below.
 
 If any third party acts in a manner inconsistent with the principles in this Privacy Statement, this will be considered to be a serious issue for which appropriate action may be taken by Husky.
 
@@ -67,7 +68,7 @@ If you do refuse or withdraw your consent, please be aware that this may affect 
 
  _(d) Contacting Husky_
 
-Husky has appointed two Privacy Officers to oversee all aspects of Husky's privacy policy and practices. The Privacy Officers are the Senior Vice President, Legal & Corporate Secretary and the Senior Vice President, Human & Corporate Resources. If you have any privacy related questions or concerns, you may contact Husky's Ethics Help Line online by selecting the following link: [Ethics Help Line](https://secure.ethicspoint.ca/domain/media/en/gui/100344/index.html), or by telephone at 1-855-275-5925. Alternatively, you may contact the Privacy Officers at: 
+Husky has appointed two Privacy Officers to oversee all aspects of Husky's privacy policy and practices. The Privacy Officers are the Senior Vice President, General Counsel & Secretary and the Senior Vice President, Human & Corporate Resources. If you have any privacy related questions or concerns, you may contact Husky's Ethics Help Line online by selecting the following link: [Ethics Help Line](https://secure.ethicspoint.ca/domain/media/en/gui/100344/index.html), or by telephone at 1-855-275-5925. Alternatively, you may contact the Privacy Officers at: 
 
 Husky Energy Inc.  
 Attention: Privacy Officers  
