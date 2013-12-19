@@ -1,82 +1,42 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629155040id_/http%3A//marketing.platts.com/forms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219043905id_/http%3A//www.mhfi.com/privacy) for the most accurate reproduction.*
 
-# Platts Privacy
+# McGraw Hill Financial | Corporate Privacy Policy
 
-##### Privacy and Cookie Notice for Platts
+**Revised and posted May, 2013**
 
-**WHAT PERSONALLY IDENTIFIABLE INFORMATION (“PII”) DOES PLATTS COLLECT ABOUT YOU?**
+McGraw Hill Financial’s Customer Privacy Policy is an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our Customers. The Policy guides how we collect, store, and use information about Customers and Prospects, and is periodically assessed against new technologies, business practices and our Customers' changing needs.
 
-  * Contact information that you provide to us, such as your name, title and organization, address, telephone number, fax number, or e-mail address.
-  * Contact information obtained via other companies’ marketing lists.
+McGraw Hill Financial may, from time to time, modify this Customer Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location. ****
 
+Please note that Privacy and Cookie Notices advising Customers and Prospects as to the specific uses that are being made of their Personally Identifiable Information by specific businesses within McGraw Hill Financial may also be modified from time to time to reflect changes in business practices. Those changes will appear in the relevant Privacy and Cookie Notice.
 
+McGraw Hill Financial also complies with applicable non-U.S. laws that impose additional responsibilities on McGraw Hill Financial beyond those stated in this Policy, particularly in connection with the treatment of Personally Identifiable Information about its Customers and Prospects.
 
-**WHY DOES PLATTS COLLECT PII?**
+Our Policy recognizes two kinds of personal data that receive protection. **Personally Identifiable Information** , which includes, for example, e-mail addresses, billing information, employment status and "Click Stream" data from the use of cookies or other tools that track user activity on a web site or online service. A subset of that category, **Sensitive Data** , receives additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as specific salary, net worth or individual portfolio information) and information about specific medical conditions.
 
-  * To process your transactions, maintain your account, ensure your adherence to our terms of use, and respond to your inquiries.
-  * To provide you with information about services and products that we believe may be of interest to you offered by Platts and other parts of our parent company, McGraw Hill Financial.
+McGraw Hill Financial is committed to using all reasonable efforts to abide by the following Policy statement:
 
-
-
-**HOW DOES PLATTS SHARE YOUR PII?**
-
-  * With our vendors to perform services on our behalf.
-  * Potentially in conjunction with a sale or similar transfer of a business.
-  * When legally compelled or for other legal purposes.
-  * With other parts of McGraw Hill Financial whose services and products might be of interest to you.
-
-
-
-**IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:**
-
-Submit the form below or e-mail us at: [marketingops@platts.com](mailto:marketingops@platts.com) with the following instructions:
-
-I do not want to be contacted by Platts via these methods for marketing purposes:  | Email|   
----|---  
-Mail|   
-Telephone|   
-E-mail|   
-   
-| I do not want to be contacted by Platts through any method for marketing purposes.   
-  
-We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
-
-To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [marketingops@platts.com](mailto:marketingops@platts.com) or Privacy Official, Platts, 1111 Bagby #2200, Houston, TX 77002.
-
-**COOKIE USAGE**
-
-**Please note that by using this site, you consent to the use of the cookies described below.**
-
-Platts or our third-party service providers may use cookies (or other anonymous tracking technologies that do not collect personally identifiable information) when you visit our web site. A “cookie” is a small text file placed on your computer or device, which helps our web site function better. We may use the following types of cookies on this web site:
-
-“Strictly necessary” cookies, which have to be set to allow us to deliver the site to you and to provide specific services that you request from us. The services offered by this site that require cookies to function include:
-
-  * account log-in
-  * shopping basket/online store
-  * billing
-  * comments/blog features
+  1. **Collection.** Personally Identifiable Information will only be collected to the extent that McGraw Hill Financial deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally Identifiable Information on web site message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of McGraw Hill Financial.  
+ **  
+**
+  2. **Notification.** Customers and Prospects will be notified (usually at the point where Personally Identifiable Information is collected) as to the uses the business may make of the Personally Identifiable Information collected from them.   
+** **
+  3. **Choice: Opt Out for External Distribution of Personally Identifiable Information.** Customers and Prospects will be given the opportunity to refuse permission for External Distribution of their name, address or other Personally Identifiable Information through an Opt Out mechanism. External Distribution does not include certain limited distributions such as sharing Personally Identifiable Information with an entity working on behalf of McGraw Hill Financial to serve our customers; transfer of Personally Identifiable Information in conjunction with the sale or similar transfer of a business; or the disclosure of Personally Identifiable Information in connection with legal proceedings, investigations of crimes or other wrongdoing. However, sharing Personally Identifiable Information with an entity working on behalf of McGraw Hill Financial or transferring Personally Identifiable Information in conjunction with the sale or similar transfer of a business is considered an Onward Transfer and will be handled as described below.    
+ ** **
+  4. **Security.** Appropriate safeguards will be implemented in an effort to ensure the security, integrity and privacy of Personally Identifiable Information about our Customers and Prospects.   
+** **
+  5. **Access: Review and Correction.** Procedures have been developed through which Customers and Prospects can, upon request, review and correct the Personally Identifiable Information that has been collected from them by McGraw Hill Financial.  These procedures may not, however, compromise the security, integrity and privacy of either McGraw Hill Financial’s own proprietary databases or databases licensed from third-party companies.   
+** **
+  6. **Sensitive Data.** The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy. Sensitive Data will not be rented or otherwise made available for External Distribution outside McGraw Hill Financial (although it may be made available through Onward Transfer as described below). Customers and Prospects will be given the opportunity to refuse permission for their Sensitive Data to be distributed outside of the business that collected the Sensitive Data through use of an Opt Out mechanism for Internal Distribution within McGraw Hill Financial.   
+** **
+  7. **Onward Transfer.** Whenever McGraw Hill Financial permits a third party outside of McGraw Hill Financial to access Personally Identifiable Information through either External Distribution or Onward Transfer, commercially appropriate procedures will be followed to help ensure that the Information is used only for authorized purposes and by authorized persons in a manner consistent with the choices Customers and Prospects have made under this Policy, and that the security, integrity and privacy of the information is maintained. Please note that our web sites may contain links to other web sites that have their own privacy policies and practices. While McGraw Hill Financial will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, McGraw Hill Financial cannot make any guarantees with respect to the actions or policies of such third parties.
 
 
 
-“Performance” or “Analytics” cookies, which help us to collect information about how visitors use our site, and helps us with site analysis and improvements. Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally.
+**Questions and comments?** McGraw Hill Financial’s Customer Privacy Policy has been developed out of respect for the privacy preferences and choices of our Customers and Prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns. Each business within McGraw Hill Financial has designated a Privacy Official to implement our Customer Privacy Policy for its respective Customers and Prospects. The Privacy Official’s contact information is on each of our business’s web sites that collect data from you.
 
-“Functionality” cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other Web sites.
+The Corporation also has a standing Privacy Steering Committee, which oversees implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and Customer expectations.
 
-You can change your web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
+The Co-Chairs of the Committee are also charged with handling unresolved Customer concerns. You can reach the Co-Chairs by writing to McGraw Hill Financial’s Privacy Manager at [privacy@mhfi.com](mailto:privacy@mhfi.com) or Privacy, McGraw Hill Financial, 1200 G Street, NW, Suite 200, Washington, D.C. 20005. To ensure that we follow our stated Policy, we conduct periodic and random reviews of our web sites and other products and services. The results of our reviews are shared with senior management. In addition, a [Report to Customers](https://web.archive.org/privacy/customer-report) is made available annually.
 
-  * [Internet Explorer](http://support.microsoft.com/kb/196955)
-  * [Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
-  * [Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
-  * [Safari](http://support.apple.com/kb/PH5042)
-  * [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
-
-
-
-If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer’s instructions on how to manage cookies.
-
-[Click here](http://www.mhfi.com/privacy) for more information about McGraw Hill Financial’s Customer Privacy Policy.
-
-Last updated: June 2013. Future revisions to this Privacy and Cookie Notice will be posted at this location.
-
-  
-
+Please read our [Corporate Privacy and Cookie Notice](https://web.archive.org/privacy/corporate-privacy-and-cookie-notice), which applies specifically to any PII that may be collected through our Corporate web site.
