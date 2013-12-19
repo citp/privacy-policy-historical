@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scenelog.eu privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606120957id_/http%3A//scenelog.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenelog.eu privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219022338id_/http%3A//scenelog.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scenelog.eu
 
