@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404152309id_/http%3A//ucas.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219175705id_/http%3A//www.ucas.com/privacy-policy) for the most accurate reproduction.*
 
-# UCAS - Privacy statement
+# Privacy policy | UCAS
 
-## Privacy policy
+[](https://web.archive.org/) > Privacy policy
 
 **Updated 18 December 2012**
 
-UCAS and our Group of Companies, which means UCAS and its subsidiaries from time to time and their subsidiaries, ("we", "us", "our" or "UCAS" as the context requires) are committed to protecting and respecting your privacy.
-
-This policy (together with the [terms of use of our website](https://web.archive.org/terms_and_conditions) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our policy regarding your personal data and how we will treat it.
+This policy (together with the [terms of use of our website](https://web.archive.org/terms-and-conditions) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our policy regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act) and this privacy policy:
 
   * "data controller" is UCAS, UCAS Media Limited and/or any of UCAS Group of Companies from time to time.
   * "personal information" is any information about you, which you provide to us from time to time as set out in this privacy policy.
   * "application" is the process of applying for student entry to courses offered by institutions of further and higher education which form the membership of UCAS. The application is updated with any revisions, including decisions from the higher education establishments and examination results received during the remainder of the application cycle.
-  * "Declaration" is the declaration which you will be asked to confirm when finalising your application. The declaration is accessible from the following links: [declaration for 2012 entry](http://www.ucas.com/help/contract12/index.html); [declaration for 2013 entry ](http://www.ucas.com/help/contract13/index.html)or is set our in our document entitled "How to apply" which is available from the address below.
-  * "website" is any of [www.ucas.com](http://www.ucas.com/), [www.ucas.ac.uk](http://www.ucas.ac.uk/) or [www.ucasmedia.com](http://www.ucasmedia.com/) or any other website, RSS feed or phone application operated by us from time to time.
+  * "Declaration" is the declaration which you will be asked to confirm when finalising your application. The [declaration is accessible here](https://web.archive.org/privacy-policy/declaration "Declaration") or is set out in our document entitled "How to apply", which is available from the address below.
+  * "website" is any of [www.ucas.com](http://www.ucas.com/), [www.ucas.ac.uk](http://www.ucas.ac.uk/) or [www.ucasmedia.com](http://www.ucasmedia.com/) or any other website, RSS feed or phone application operated by us from time to time.
 
- 
 
-[View the privacy policy for UCAS Card](https://web.archive.org/ucascard/privacypolicy)
+
+[View the privacy policy for UCAS Card](https://web.archive.org/ucas-card-terms-and-conditions#privacypolicy)
 
 #### 1 Information which we collect about you
 
@@ -54,27 +52,27 @@ We may collect and process the following information about you:
 #### 3 Communicating with you
 
   1. The information we collect from you in connection with your application will include (without limitation) your name; postal and email address; and telephone numbers, both home and mobile. If any of these details change, it is important that you tell us straight away so that we can communicate with you about your application.
-  2. We will normally communicate with you by electronic means in respect of any application made by you. 
-  3. You may contact us by any of the methods set out on our [Contact us](https://web.archive.org/about_us/contact_us) page of the website. If you have any questions about our use of your personal data, please write to the Company Secretary at UCAS, Rosehill, New Barn Lane, Cheltenham, Glos GL52 3LZ.
+  2. We will normally communicate with you by electronic means in respect of any application made by you.
+  3. You may contact us by any of the methods set out on our [Contact us](http://www.ucas.com/about_us/contact_us) page of the website. If you have any questions about our use of your personal data, please write to the Company Secretary at UCAS, Rosehill, New Barn Lane, Cheltenham, Glos GL52 3LZ.
   4. Where you wish for us to do so we will communicate with you in the Welsh language. Please tick the appropriate checkbox in the Apply product or on the application form to request this.
 
 
 
 #### 4 Commercial mailings from UCAS Media
 
-  1. From time to time we may use your personal information to send you general information ('Mailings') by post, email or SMS, such as (without limitation), information relating to career information (relevant to your chosen subjects). If you are unsuccessful in your application and become unplaced, we may send you information from education establishments who have spaces on courses available. 
+  1. From time to time we may use your personal information to send you general information ('Mailings') by post, email or SMS, such as (without limitation), information relating to career information (relevant to your chosen subjects). If you are unsuccessful in your application and become unplaced, we may send you information from education establishments who have spaces on courses available.
   2. In addition, from time to time, we would like to make use of your personal information to send you promotional information about (without limitation) products and services which may be of interest to you. Commercial mailings may include information sent by the UCAS Group on behalf of carefully selected third parties; these can include information on student discounts, travel, banking, and professional associations. Please note that except as set out in this privacy policy or data protection statement, your details will not be released to any third party.
   3. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
   4. If you do not wish your personal information to be used by us to send you third party mailings by post you must ensure that you tick the appropriate box on the registration page.
-  5. If you wish to receive third party information by text, email or both you should tick the appropriate boxes on the registration page. 
-  6. You may, at any time, withdraw your permission for UCAS to use your personal information for the purposes of sending mailings by ticking the appropriate boxes in the Apply or Track applications, or by writing to the Company Secretary, UCAS, Rosehill, New Barn Lane, Cheltenham, Glos GL52 3LZ or by emailing us at [ucasmedia@ucas.ac.uk](mailto:UCAS%20Media)
+  5. If you wish to receive third party information by text, email or both you should tick the appropriate boxes on the registration page.
+  6. You may, at any time, withdraw your permission for UCAS to use your personal information for the purposes of sending mailings by ticking the appropriate boxes in the Apply or Track applications, or by writing to the Company Secretary, UCAS, Rosehill, New Barn Lane, Cheltenham, Glos GL52 3LZ or by emailing us at [ucasmedia@ucas.ac.uk](mailto:UCAS%20Media).
 
 
 
 #### 5 IP addresses, cookies and links
 
   1. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify you as an individual.
-  2. UCAS may use cookies. A cookie is a small amount of data which is stored on your computer and which is revealed to UCAS when you use this network. UCAS uses cookies only to make it easier to identify you when using the network. UCAS does not use cookies to collect additional information about you. You can configure your web browser not to accept cookies, although this may hinder the functionality of the network for you. [View more information about UCAS cookies](https://web.archive.org/about_us/cookies).
+  2. UCAS may use cookies. A cookie is a small amount of data which is stored on your computer and which is revealed to UCAS when you use this network. UCAS uses cookies only to make it easier to identify you when using the network. UCAS does not use cookies to collect additional information about you. You can configure your web browser not to accept cookies, although this may hinder the functionality of the network for you. [View more information about UCAS cookies](https://web.archive.org/cookies).
   3. Please note that our advertisers may also use cookies, over which we have no control.
   4. The website may contain links that make it easy for you to visit other websites. UCAS does not have any control over these websites. Therefore, if you use these links to leave UCAS and visit websites operated by third parties, UCAS cannot be responsible for the protection and privacy of any information that you provide whilst visiting these websites.
 
