@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispyprice.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513073752id_/http%3A//www.ispyprice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispyprice.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219032649id_/http%3A//www.ispyprice.com/privacy) for the most accurate reproduction.*
 
 # Privacy : iSpyPrice.com
 
@@ -64,6 +64,6 @@ By using our site, you consent to our web site privacy policy.
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[www.ispyprice.com](http://chatterpatter.com/)
+[www.ispyprice.com](http://ispyprice.com/)
 
 info@ispyprice.com
