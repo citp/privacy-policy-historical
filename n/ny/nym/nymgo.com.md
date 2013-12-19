@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nymgo.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618111122id_/http%3A//nymgo.com/EN/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymgo.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219020112id_/http%3A//nymgo.com/EN/privacy-policy) for the most accurate reproduction.*
 
-# NYMGO
+# International Calls from Nymgo
 
 Nymgo privacy policy
 
