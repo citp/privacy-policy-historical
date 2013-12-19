@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scoopon.com.au privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620140224id_/http%3A//scoopon.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopon.com.au privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219085117id_/http%3A//www.scoopon.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Scoopon Deals | Privacy Policy
+# Privacy Policy
 
   1. General Statement 
     1. Scoopon Pty Ltd (Scoopon) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth).
