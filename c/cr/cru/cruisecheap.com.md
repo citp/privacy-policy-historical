@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecheap.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618022611id_/http%3A//www.cruisecheap.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecheap.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219044949id_/http%3A//www.cruisecheap.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
