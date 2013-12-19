@@ -1,0 +1,809 @@
+<!--The following is the downloaded HTML source of the purexinsiders.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219231444id_/http%3A//www.purexinsiders.com%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<title>Privacy Policy - Purex Insiders</title>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+// <![CDATA[
+function setLoginFlag() {
+	//Check for presence of /members/ link in navigation.
+	if(jQuery("#FrontendMainMenu").find("a[href='/members/']").length >= 1) {
+		window.loggedIn = true;
+	}
+	else {
+		window.loggedIn = false;
+	}
+}
+
+function sliderResize() {
+	jQuery("#full-slider-wrapper").height("100px").find("div").each(function() {
+		jQuery(this).height("100px");
+	});
+}
+
+function menuReformat() {
+	if(window.loggedIn) {
+		var $rootUL = jQuery("#FrontendMainMenu").find("ul.rootGroup");
+		var $subUL = jQuery("#FrontendMainMenu").find("a[href='/members/']").parent().find("ul.level1");
+		var $subLi = $subUL.children("li");
+	
+		//Hide Members Only.
+		$subUL.parents("li").hide();
+
+		//Move subnav under root.
+		$rootUL.find("li.last").removeClass("last").addClass("break");
+		$rootUL.append($subLi.removeClass("first").detach());
+		
+		//Hide NMO- entries.
+		jQuery("#FrontendMainMenu").find("ul>li>a>span:contains('NMO-')").parent().parent().hide();
+	}
+	else {
+		//Strip NMO- from labels.
+		var $li = jQuery("#FrontendMainMenu").find("ul>li>a>span:contains('NMO-')");
+		$li.each(function() {
+			$this = jQuery(this);
+			$this.text($this.text().substring(4));
+		});
+	}
+	
+	//Show the Main Menu.
+	jQuery("#FrontendMainMenu").show();
+}
+
+function sidebarReformat() {
+	//Select all sidebar anchors.
+	var $a = jQuery("#LoginFormOrProfileNav").find("a");
+	
+	//Remove text nodes.
+	$a.parent().html($a.parent().html().replace(/<br[^>]*>/gi,"").replace(/»/g,""));
+	
+	//Refresh selection.
+	$a = jQuery($a.selector);
+	
+	//Reformat with wrappers.
+	$a.wrap("<div style='display:none' />");
+	
+	//Add text labels.
+	$a.prepend("» ");
+
+	//Hide all links, then show desired.
+	$a.parent().hide();
+	$a.filter("a:contains('Manage Profile')").parent().show();
+	$a.filter("a:contains('Messages')").parent().show();
+	$a.filter("a:contains('Connections')").parent().show();
+
+	//Show the Sidebar Menu.
+	jQuery("#LoginFormOrProfileNav").show();
+}
+
+function RadMenuReinit() {
+	window["FrontendMainMenu"].Initialize({"EnableAutoScroll":true,"Skin":"YMPublic","Flow":0,"Enabled":true},{});
+}
+
+function languageSelectionInit() {
+	//Only continue if not logged in.
+	if(!window.loggedIn)
+	{
+		//Load ddSlick.
+		jQuery("head").append("<script src='/resource/resmgr/Javascript/jquery.ddslick-custom.js'><\/script>");
+
+		//Initialize language selection dropdown.
+		jQuery(document).ready(function()
+		{
+			//Check to see if we are on a language page, and select the correct input.
+			if(location.search.indexOf("page=Espanol") != -1)
+			{
+				jQuery("#languageSelection").find("option[value*='page=Espanol']").prop("selected", true);
+			}
+			if(location.search.indexOf("page=Francais") != -1)
+			{
+				jQuery("#languageSelection").find("option[value*='page=Francais']").prop("selected", true);
+			}
+			
+			//Show language selection.
+			jQuery("#languageSelectionWrapper").css("display", "inline-block");
+		
+			//Initialize language selection dropdown.
+			jQuery("#languageSelection").ddslick(
+			{
+				background: "none",
+				width:144,
+				onSelected: function(data)
+				{
+					//Get previous selection.
+					var selectedPrevious = jQuery("#"+data.original.attr("id")).data("selectedIndexPrevious");
+
+					//If a previous selection exists.
+					if(selectedPrevious != undefined)
+					{
+						//If previous selection is different than the current selection.
+						if(data.selectedIndex != selectedPrevious)
+						{
+							//Store previous selection.
+							jQuery("#"+data.original.attr("id")).data("selectedIndexPrevious", data.selectedIndex);
+							window.location = data.selectedData.value;
+						}
+					}
+					else
+					{
+						//Store previous selection.
+						jQuery("#"+data.original.attr("id")).data("selectedIndexPrevious", data.selectedIndex);
+					}
+				}
+			});
+
+			//Attach Language tag and click event.
+			jQuery("<a href='#languageSelection'>Language</a> ").insertBefore("#languageSelection").click(function(event)
+			{
+				event.preventDefault();
+				setTimeout(function()
+				{
+					jQuery(".dd-selected").trigger("click");
+				}, 10);
+			});
+			
+			//Height fix.
+			jQuery("#languageSelection").find(".dd-selected-text").css("lineHeight", "20px");
+
+			//Add padding to center footer.
+			jQuery(jQuery("#FooterContentArea").children("div")[0]).prepend("<span style=\"display:inline-block;width:86px;\"> </span>");
+		});
+	}
+}
+
+function communityGroupsFormFix() {
+	if(jQuery("#SearchForm").length >= 1)
+	{
+		var divs;
+		var labelWidth = (jQuery.browser.msie && jQuery.browser.version < 9.0) ? 100 : 85;
+
+		divs = jQuery("form[name='FilterForm']").find("div");
+		jQuery(divs[0]).width(labelWidth);
+		jQuery(divs[1]).find("select")
+		.width(200)
+		.css("border", "1px solid #C7C7C7")
+		.css("line-height", "24px")
+		.css("height", "24px");
+
+		divs = jQuery("#SearchForm").find("div");
+		jQuery(divs[0]).width(labelWidth);
+		jQuery(divs[1]).find("input").width(194);
+
+		jQuery("#SearchForm").find("input[type='submit']").parent().css("margin-top", "-32px").css("margin-left", "10px");
+	}
+}
+
+function contactLinkRename() {
+	var toolbar = jQuery("#Toolbar");
+	toolbar.find("a:contains('Contact Us')").text("Support");
+	toolbar.show();
+}
+
+function ideaBoxIntroText() {
+	if(jQuery("#SpTitleBar span:contains('Idea Box')").length == 1)
+	{
+		jQuery("#SpTitleBar").parent().after("<tr><td><p class=\"margin-top md\" style=\"padding: 16px;\">Do you have a great idea to improve the Purex Insiders Community? Add it to the Idea Box below and members can vote on which ideas they like the best.</p></td></tr>");
+	}
+}
+
+function supportLinksFix() {
+	if(window.loggedIn) {
+		jQuery("#FooterContentArea").find("a:contains('Contact Us')").attr("href", "http://support.purexinsiders.com/").text("Support");
+		jQuery("#Toolbar_bg").find("a:contains('Support')").attr("href", "http://support.purexinsiders.com/");
+	}
+	else {
+		jQuery("#Toolbar_bg").find("a:contains('Support')").text("Contact Us");
+	}
+}
+
+function newsShareRemove() {
+	if(jQuery("#SpTitleBar:contains('News')").length >= 1)
+	{
+		jQuery("a:contains('Email to a Friend')").hide();
+	}
+}
+
+function init() {
+	if (arguments.callee.done) return;
+	arguments.callee.done = true;
+	if (_timer) clearInterval(_timer);
+
+	setLoginFlag();
+	sliderResize();
+	menuReformat();
+	sidebarReformat();
+	RadMenuReinit();
+	languageSelectionInit();
+	communityGroupsFormFix();
+	contactLinkRename();
+	ideaBoxIntroText();
+	supportLinksFix();
+	newsShareRemove();
+};
+
+/* DOM READY CODE */
+
+/* for Mozilla/Opera9 */
+if(document.addEventListener) {
+	document.addEventListener("DOMContentLoaded", init, false);
+}
+
+/* for Internet Explorer */
+/*@cc_on @*/
+/*@if(@_win32)
+	document.write("<script id=__ie_onload defer src=javascript:void(0)><\/script>");
+	var script = document.getElementById("__ie_onload");
+	script.onreadystatechange = function() {
+		if(this.readyState == "complete") {
+			init(); // call the onload handler
+		}
+	};
+/*@end @*/
+
+/* for Safari */
+if(/WebKit/i.test(navigator.userAgent)) { // sniff
+	var _timer = setInterval(function() {
+		if(/loaded|complete/.test(document.readyState)) {
+			init(); // call the onload handler
+		}
+	}, 10);
+}
+
+/* for other browsers */
+window.onload = init;
+
+/* /DOM READY CODE */
+// ]]>
+</script>
+		<link rel="stylesheet" type="text/css" href="/global_inc/site_templates/YM-TC-01/combined.css?_v=1.53.103.481&amp;context=sp">
+		<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/container/assets/skins/sam/container.css">
+		<link rel="stylesheet" type="text/css" href="/global_graphics/skins/MemberCustomPageMenu/yuimenu.css">
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="/global_inc/site_templates/YM-TC-01/ie.css">
+		<style type="text/css">
+			#CustomPageBody,
+			div.ContributedContent {
+				padding-bottom: expression(this.scrollWidth > this.offsetWidth ? 17 : 0); }
+		</style><![endif]-->
+		
+		<!--@@DG_PRINT_BASE_URL@@
+			IMPORTANT! DO NOT MOVE OR MODIFY -->
+
+		
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/dragdrop/dragdrop-min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/container/container-min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/menu/menu-min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/json/json-min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/combined.js?context=sp&amp;_v=1.42"></script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-43056554-10'], ['_setDomainName', 'none'], ['_setAllowLinker', true], ['_trackPageview']);_gaq.push(['YM._setAccount', 'UA-2449742-47'], ['YM._setDomainName', 'none'], ['YM._setAllowLinker', true], ['YM._trackPageview']);
+			(function() {
+		        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	            })();
+			</script>
+	
+		<script type="text/javascript">
+			addEventHandler_OnLoad(function(){CheckMultipartForms(true)});
+		
+			var m_pulse = new Pulse('');
+			m_pulse.Start();
+		</script>
+	
+		
+			<script type="text/javascript">
+				YAHOO.util.Event.onDOMReady(getChats);
+				addEventHandler_OnUnload(function() { if (m_ChatTID) clearTimeout(m_ChatTID) });
+			</script>
+		
+
+	<link rel="stylesheet" type="text/css" href="/global_inc/RadControls/Menu/Scripts/4_3_2/menu.css"><link rel="stylesheet" type="text/css" href="/global_inc/RadControls/Menu/Skins/YMPublic/styles.css"></head>
+
+
+	<body id="PageBody" onunload="try{if(m_blnDoBodyUnload) Body_OnUnload();}catch(e){}" xmlns="http://www.w3.org/1999/xhtml">
+		
+		<div id="LeaderContentArea">
+			<!--YMPSTITLE=TgBBAA==/YMPSTITLE--></div>
+		
+		<table id="PageContainer" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td id="Head">
+				<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Open+Sans:400,700,600:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+<div id="header">
+<a href="/" id="logo"></a>
+</div>
+
+
+<style type="text/css">
+      #Head
+      {
+          background-image: url('/graphics/bg_top.gif');
+      }
+  </style></td>
+		</tr>
+		<tr>
+			<td id="Toolbar_bg"><div id="Toolbar">
+					<a href="/general/?type=CONTACT">Contact Us</a> &nbsp; | &nbsp; <a href="/login.aspx">Sign In</a> &nbsp; | &nbsp; <a href="/general/register_start.asp">Apply</a>
+			</div></td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td id="LeftRail1"><div id="LeftRail2">
+					
+						<div id="QuickSearch">
+							<div id="QuickSearchHead">
+								Community Search</div>
+							<form id="QuickSearchForm" name="QuickSearchForm" action="/search/all.asp">
+		<div id="QuickSearchFormInner1" class="ui-widget">
+			<input id="QuickSearchForm_bst" name="bst" maxlength="50" value="Enter search criteria..." @"onfocus="QuickSearchForm_OnFocus();">
+		</div>
+		<div id="QuickSearchFormInner2"><a href="#" id="QuickSearchSubmit" onclick="return QuickSearchForm_DoSubmit();">Search&nbsp;»</a></div>
+</form><script type="text/javascript">
+function QuickSearchForm_DoSubmit()
+{
+		var QuickSearchForm = document.QuickSearchForm;
+     if(QuickSearchForm)
+     {
+			ClearDefaultValue(QuickSearchForm.bst);
+         QuickSearchForm.submit();
+     }
+		return false;
+}
+$(document).ready(function ()
+{
+		$("#QuickSearchForm_bst").click(function()
+		{
+			if ($("#QuickSearchForm_bst").val() == "Enter search criteria...")
+				$("#QuickSearchForm_bst").val('');
+			});
+			$("#QuickSearchForm_bst").blur(function ()
+			{
+				if ($("#QuickSearchForm_bst").val() == '')
+					$("#QuickSearchForm_bst").val('Enter search criteria...');
+				});
+				$("#QuickSearchForm_bst").autocomplete({
+					minLength: 3,
+					delay: 1000,
+					source: function (request, response)
+					{
+						$.ajax({
+						url: url = '/general/CategorySearchReciever.aspx?SearchTerm=' + $("#QuickSearchForm_bst").val() + "&cb=" + getCurrentTime(),
+						dataType: "json",
+						data: {
+						featureClass: "P",
+						style: "full",
+						maxRows: 20,
+						name_startsWith: request.term
+					},
+					success: function (data)
+					{
+						response($.map(data.CatalogSearchSuggestions, function (item)
+						{
+							return item;
+						}));
+					}
+				});
+			},
+			focus: function (event, ui)
+			{
+				return false;
+			},
+			select: function (event, ui)
+			{				document.location.href = ui.item.url;
+				return false;
+			},
+			open: function ()
+			{
+				$(this).removeClass("ui-corner-all").addClass("ui-corner-top");
+			},
+			close: function ()
+			{
+				$(this).removeClass("ui-corner-top").addClass("ui-corner-all");
+			}
+         }).data("autocomplete")._renderItem = function (ul, item)
+         {
+				var linkText = "";
+             var index = parseInt(item.index);
+				if (item.category != "")
+				{
+					linkText = item.category + ": ";
+				}
+				linkText += item.desc;
+             if (index > 0)
+             {
+					return $("<li>").data("item.autocomplete", item).append("<a href=" + item.url + ">" + linkText + "</a>").appendTo(ul);
+             }
+				else
+             {
+                 return $("<li class=\"FirstAutoCompleteItem\">").data("item.autocomplete", item).append(linkText).appendTo(ul)
+             }
+         }
+	});
+</script></div>
+
+						<table border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td id="LeftRailNav">
+								<div id="FrontendMainMenu" class="radmenu RadMenu_YMPublic ">
+	<!-- 4.3.2 --><script type="text/javascript" src="/global_inc/RadControls/Menu/Scripts/4_3_2/RadMenu.js"></script><span id="FrontendMainMenuStyleSheetHolder" style="display:none;"></span><script type="text/javascript">RadControlsNamespace.AppendStyleSheet(false, 'FrontendMainMenu', '/global_inc/RadControls/Menu/Scripts/4_3_2/menu.css');</script><script type="text/javascript">RadControlsNamespace.AppendStyleSheet(false, 'FrontendMainMenu', '/global_inc/RadControls/Menu/Skins/YMPublic/styles.css');</script><ul class="vertical rootGroup" style="width: 110px;">
+		<li class="item first"><a href="/" id="FrontendMainMenu_m0" class="link " style="width: 179px;"><span class="text">Home</span></a></li><li class="item"><a href="/?page=Insiders_Benefits" id="FrontendMainMenu_m1" class="link " style="width: 110px;"><span class="text">Insiders Benefits</span></a></li><li class="item"><a href="/?page=Testimonials" id="FrontendMainMenu_m2" class="link " style="width: 136px;"><span class="text">Testimonials</span></a></li><li class="item"><a href="/?page=Partners" id="FrontendMainMenu_m3" class="link " style="width: 166px;"><span class="text">Partners</span></a></li><li class="item"><a href="/?page=Code_of_Conduct" id="FrontendMainMenu_m4" class="link " style="width: 109px;"><span class="text">Code of Conduct</span></a></li><li class="item"><a href="/general/register_start.asp" id="FrontendMainMenu_m5" class="link " style="width: 135px;"><span class="text">NMO-Apply</span></a></li><li class="item last"><a href="/?page=About_Us" id="FrontendMainMenu_m6" class="link " style="width: 156px;"><span class="text">About Us</span></a></li>
+	</ul><input type="hidden" id="FrontendMainMenu_Hidden" name="FrontendMainMenu"><script type="text/javascript">window["FrontendMainMenu"] = RadMenu.Create("FrontendMainMenu");window["FrontendMainMenu"].Initialize({"EnableAutoScroll":true,"Skin":"YMPublic","Flow":0,"Enabled":true},{});</script>
+</div></td>
+						</tr>
+						</tbody></table>
+
+						
+						<table id="FeaturedMembers" border="0" cellpadding="0" cellspacing="0" style="display:none; width:100%">
+						<tbody class="ContentPanel_Style5">
+						<tr>
+							<td class="ContentPanelHead">
+								Featured Members</td>
+						</tr>
+						<tr>
+							<td class="ContentPanelText">
+								<p></p>
+							</td>
+						</tr>
+						</tbody></table>
+						
+						<div id="LeftRailContentArea">
+							<!--YMPSTITLE=TgBBAA==/YMPSTITLE--></div>
+					</div></td>
+					<td id="CenterColumn"><div id="SpMain">
+					<!--@@DG_PRINT_PAGE_BEGIN@@
+						IMPORTANT! DO NOT MOVE OR MODIFY -->
+							
+<script type="text/javascript" src="/global_inc/js/favorite.js"></script>
+
+<style type="text/css">
+	#tat_table {
+		z-index:99;
+	}
+	#FavoriteEditorTitle {
+		margin: 0;
+	}
+</style>
+<div class="yui-skin-sam">
+<div id="FavoriteOptsPanel" style="visibility:hidden;">
+	<div id="FavoriteOptsPanelBody" class="bd">
+		<div id="FormErrors" style="display:none">
+			<div class="infobox">
+				<ul id="FormErrorList" class="redalert"></ul>
+			</div><br>
+		</div>
+			<form id="FavoriteEditor" name="FavoriteEditor" onsubmit="return FavoriteEditor_Submit(this)" style="display:none; margin: 0 10px 0 10px;">
+			<input type="hidden" id="FavoriteID" name="FavoriteID" value="">
+			<input type="hidden" id="strFavoriteTypeID_FK" name="strFavoriteTypeID_FK" value="">
+			<input type="hidden" id="strFavoriteParameters" name="strFavoriteParameters" value="">
+			<input type="hidden" name="strCommand" value="">
+			<input type="hidden" id="blnFavoriteReload" value="">
+			<table border="0" cellspacing="12" cellpadding="0">
+				<tbody><tr>
+					<td align="center"><img src="/global_graphics/icons/star_32x32.gif" border="0" width="32" height="32"></td>
+					<td><h2 id="FavoriteEditorTitle">Edit This Favorite</h2></td>
+				</tr>
+				<tr>
+					<td>Name:</td>
+					<td><input type="text" id="strTitle" name="strTitle" value="" size="40" maxlength="100">
+					<input type="hidden" name="ERR_strTitle" value="strTitle|Name|20|1||100">
+					</td>
+				</tr>
+				<tr>
+					<td>Category:</td>
+					<td>
+						<input type="text" id="strCategory" name="strCategory" value="" size="40" autocomplete="off" maxlength="100">
+						<input type="hidden" name="ERR_strCategory" value="strCategory|Category|20|0||100">
+					</td>
+				</tr>
+				<tr>
+					<td>Share:</td>
+					<td>
+						<input id="blnIsPrivate0" type="radio" value="0" name="blnIsPrivate"><label for="blnIsPrivate0">Yes</label>
+						<input id="blnIsPrivate1" type="radio" value="1" name="blnIsPrivate"><label for="blnIsPrivate1">No, Keep Private</label>
+						<input type="hidden" name="ERR_blnIsPrivate" value="blnIsPrivate|Share -- Yes/No, Keep Private|20|1||0">
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center" style="padding-top:10px;">
+						<input type="submit" id="FavoriteEditor_btnSubmit" value="Submit" class="formbutton" onclick="return FavoriteEditor_btnSubmit_OnClick(this);">
+						<input type="button" value="Cancel" class="formbutton" onclick="YAHOO.container.FavoriteOpts.hide();">
+						<input type="submit" id="FavoriteEditor_btnDelete" value="Delete" class="formbutton" style="display:none;" onclick="return FavoriteEditor_btnDelete_OnClick(this);">
+					</td>
+				</tr>
+			</tbody></table>
+			<input type="hidden" name="__ASPVIEWSTATE" value="c9acc5e146f293c1c4d7e95550671ec591fedeb4cd55b883da7b25c9e8a658e81f54e2df695b24c02471a986db032e9f9f1402b6ae7d7f11827bddf1e2418574c05f0cef03aee541175ea6bb3f59a9321c9f7184bebfb5feeb64b3a79cfda044237dbad9935701dcc5d5d78919ebaf5054f3364d4606c798b04115e008a4cfc07eaece">
+			</form>
+	</div>
+</div></div>
+
+
+
+<script type="text/javascript" src="/global_inc/js/hit_highlighter.js"></script>
+<script type="text/javascript">
+function Window_OnLoad()
+{
+	highlightDtSearchTerms('CustomPageBody');
+	highlightDtSearchTerms('ResourceCollection');
+}
+
+addEventHandler_OnLoad(Window_OnLoad);
+</script>
+
+<style type="text/css">
+.ScoreControl
+{
+	display:block;
+	float:left;
+}
+</style>
+
+<table id="SpSubHead" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td id="SpTitleBar">
+Privacy Policy
+	</td>
+</tr>
+
+
+</tbody></table>
+
+<table id="SpContent" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td id="SpContent_Container">
+
+		<script type="text/javascript" src="/global_inc/js/ContentScores.js"></script>
+	
+	<div id="CustomPageBody"><p class="margin-top"><strong>Thank you for visiting our web site. This web site belongs to and is operated by Henkel Corporation or one of its subsidiary or affiliated companies ("Henkel"). Henkel is committed to protecting and safeguarding your privacy on this web site. This Privacy Policy outlines the information Henkel may be collecting from visitors to this web site and how we will use and protect that information.</strong></p>
+
+<p><em>Effective as of February 2010.</em></p>
+
+<p>This Privacy Policy applies to Henkel's North America web site only and does not apply to third party web sites accessible via hyperlinks from this web site.</p>
+
+<p><strong>1. Consent to this Privacy Policy</strong></p>
+
+<p>By using our web site in any way, such as browsing or interacting, you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with this Privacy Policy, you should not use this web site. Henkel reserves the right to change or remove this Privacy Policy at our discretion, without prior notice to you. We encourage you to visit this area frequently to stay informed as your continued use of our web site following the posting of changes to these terms means that you consent to such changes. To make this policy easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.</p>
+
+<p><strong>2. What Information Is Collected</strong></p>
+
+<p>We collect two types of information about visitors:</p>
+
+<p>Personally Identifiable Information: Personally identifiable information is any information which can be used to identify an individual, such as a name, address, telephone number, social security number, billing and shipping information, credit card information, e-mail address or other information that you voluntarily provide to us about yourself. When you visit our web site, we will not collect any personally identifiable information about you unless you provide it to us voluntarily. You can visit our web sites without telling us who you are or revealing personally identifiable information about yourself, in which case you may however be unable to participate in certain product promotions or receive product information. From time to time, Henkel may offer sweepstakes, contests and surveys. Participation in these promotions is completely voluntary and the user therefore has a choice whether or not to disclose this information. In the event you wish to enter a sweepstakes, contest or survey but do not wish us to maintain your personal information for any purpose unrelated to the sweepstakes, contest or survey, you may notify us, and provide a description of the specific sweepstakes, contest or survey to: <a href="mailto:henkelprivacy@us.henkel.com">henkelprivacy@us.henkel.com</a>.</p>
+
+<p>Please note that we will only collect personally identifiable information revealing social security numbers, driver's license information, racial or ethnic origin, financial information, political opinions, religious or philosophical beliefs, union membership, health information, sex life or criminal convictions with your explicit opt in consent, and only to the extent necessary for the provision of the services offered by our web site. If you apply for a US employment position via our careers centre you may be asked to provide information on your gender or race where permitted by law. You should understand that, if provided, this information will only be used in accordance with applicable law. Providing this information is strictly voluntary and you will not be subject to any adverse action or treatment if you choose not to provide this information.</p>
+
+<p>Aggregate and Statistical Data: Henkel may collect certain non-personally identifiable aggregate data called web log information (such as your web browser, operating system, pages visited, etc.) and use cookies or web beacons (see definitions below) when you visit some of our web pages. For instance, when you visit one of our web sites, our webserver will automatically recognize some non-personal information, including but not limited to the date and time you visited our site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS) and the domain name and address of your internet server (e.g., AOL). We also may collect your Internet Protocol (IP) address. An IP address is a number that is assigned to your computer when you use the Internet. The IP address data that we collect does not contain any personally identifiable information about you and is used to administer our site, to determine the numbers of different visitors to the site and to gather broad demographic data. We do not use cookies to retrieve information that is unrelated to your visit to or your interaction with this web site.</p>
+
+<p>In some cases we may also collect information that you voluntarily submit, such as general statistical information (e.g., age, gender, household size, zip/postal code, preferences or interests).</p>
+
+<p><strong>3. How Information Is Collected</strong></p>
+
+<p>Personally Identifiable Information: Henkel collects personally identifiable information from our web site visitors only on a voluntary basis. Such information may be collected from you if you choose to participate in the following via our web site: web site registrations, contests, sweepstakes, questionnaires, surveys, consumer service contacts, employment inquiries, product purchases, or other similar activities requiring the submission of personally identifiable information. We may enhance or merge the information that you provide with information about you obtained from third parties for the same purpose.</p>
+
+<p>Aggregate and Statistical Data: Cookies and web beacons are used to collect non-personal information automatically from visitors to our site. A "cookie" is a small piece of data that can be sent by a webserver to your computer, which then may be stored by your browser on your computer's hard drive. Cookies help us in many ways to make your visit to our web site more convenient and meaningful to you. For example, cookies allow us to tailor a web site or advertisement to better match your interests and preferences, or to save you the trouble of re-entering certain information in some registration areas. Web beacons are electronic files on our web site that allow us to count users who have visited that page or to access certain cookies.</p>
+
+<p>Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to utilize or learn more about these functions. If you disable cookies, however, you may not be able to use certain personalized functions of this web site.</p>
+
+<p>Statistical non-personally identifying information (e.g., gender, zip code, etc.) is only collected if you voluntarily submit it to us.</p>
+
+<p><strong>4. Use of Information</strong></p>
+
+<p>Personally Identifiable Information: We collect, maintain and use personally identifiable information you have voluntarily submitted to our web site for the following purposes:</p>
+
+<ul>
+<li>helping to establish and verify the identity of users;</li><li>opening, maintaining, administering and servicing users profiles, accounts or memberships;</li>
+<li>processing, servicing or enforcing transactions and sending related communications;</li>
+<li>providing services and support to users;</li>
+<li>providing you with information about employment opportunities, administering the application process and considering you for employment if you apply for a job or an internship via our careers centre;</li>
+<li>to conduct sweepstakes, surveys and contests, and to provide the results thereof;</li>
+<li>improving the web site, including tailoring it to users' preferences;</li>
+<li>providing users with product or service updates, promotional notices and offers, and other information about Henkel;</li>
+<li>responding to your questions, inquiries, comments and instructions; and</li>
+<li>maintaining the security and integrity of our systems.</li>
+</ul>
+
+<p>Aggregate and Statistical Data: Henkel uses web log information (such as your web browser, operating system, pages visited, etc.) to help us design our web site, to identify popular features, and for other managerial purposes. However, such information may also be used if necessary to help identify any person attempting to break into or damage our web site. We may share such information, possibly along with personally identifiable information, with law enforcement agencies if we believe that we have evidence of a violation of computer security or other laws.</p>
+
+<p><strong>5. Data Sharing and Storage</strong></p>
+
+<p>Personally Identifiable Information: Henkel may use unaffiliated companies such as agents or contractors to help it maintain and operate its web site, to provide you with services that you have requested, to perform outsourced recruitment functions for us, or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. These companies are restricted from using this data in any way other than to provide services for Henkel.</p>
+
+<p>Henkel reserves the right to release your personally identifiable information if required to do so by law, search warrant, subpoena, court order or upon request of government authorities. We may also provide your personally identifiable information to third parties in connection with the sale or transfer of a business to which you submitted your information. Henkel may also share your personally identifiable information with its affiliated companies and subsidiaries, some of which may be located outside of the United States.</p>
+
+<p>Henkel will not give or sell your personally identifiable information to any other third party without your consent, unless required by law or disclosed to you at the time when the information is collected.</p>
+
+<p>Your personally identifiable information will be stored for a reasonable amount of time in Henkel databases located in the United States, and will be automatically transferred to these databases for storage and maintenance.</p>
+
+<p><strong>6. Security</strong></p>
+
+<p>Henkel is committed to keeping secure the data you provide us and will take reasonable precautions to protect your personal information from loss, misuse or alteration. Agents or contractors of Henkel who have access to your personal information in connection with providing services for Henkel are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for Henkel. If transactions are offered on this site, transaction information is transmitted to and from us in encrypted form using industry-standard secure connections to help protect such information from interception. Please be aware, however, that any email or other transmission you send through the Internet cannot be completely protected against unauthorized interception.</p>
+
+<p><strong>7. Children</strong></p>
+
+<p>Henkel has no intention of collecting any personal information from individuals under 13 years of age, and users under age 13 should not submit any personal information to us. Where appropriate, Henkel will specifically instruct children not to submit such information on our web sites or advertisements. If a child has provided us with personal information, a parent or guardian of that child may contact us at the e-mail address or address listed in Section 10 of this Privacy Policy if they would like this information deleted from our records. We will use reasonable effort to delete the child's information from our databases.</p>
+
+<p><strong>8. Your Choices and Regarding Your Personal Information</strong></p>
+
+<p>You are in control of the personally identifiable information you provide to Henkel via our web sites.</p>
+
+<p>If you have submitted personally identifiable information through a Henkel web site and you would like to have that information deleted from our databases, please contact our Privacy Coordinator via e-mail at <a href="mailto:henkelprivacy@us.henkel.com">henkelprivacy@us.henkel.com</a>, or send a letter to: Privacy Coordinator, Communications Department, Henkel of America Inc.; One Henkel Way; Rocky Hill, CT 06067. We will then use reasonable efforts to remove your personal information from our files and confirm to you that your personally identifiable information has been deleted (save for an archival copy which is not accessible by you or third parties on the internet). The archival copy is retained only for as long as Henkel reasonably considers necessary for audit and record purposes. If third parties previously accessed your personally identifiable information we are not able to delete the information or copies thereof from their systems.</p>
+
+<p>You may also contact us through either of the above methods to request the personal information that Henkel has collected about you through its web sites. Before providing you with your personally identifiable information or correcting, updating or deleting such information, we reserve the right to verify and authenticate your identity and the personally identifiable information to which you have requested access. Access to or correction, updating or deletion of your personally identifiable information may be denied or limited by Henkel as otherwise permitted by applicable law. We will respond to information access requests within 30 days of receipt. If we require additional time to provide access to your information, we will acknowledge receipt of your request within 30 days and promptly supplement our response within the time period required by applicable law.</p>
+
+<p>If you have created a resume using our careers center you may access to, review, correct, update, change or delete your account profile information or resume at any time. Simply log into your account, go to your profile or resume, and make the necessary changes. You may delete your resume from our online database at any time by accessing your account.</p>
+
+<p><strong>9. Links to Other sites</strong></p>
+
+<p>Our sites may contain links to other web sites. Henkel is not responsible for the privacy practices or the content of the other web sites. Please note that the privacy policies applicable to such third party web sites may differ significantly from the Henkel Privacy Policy, so we advise you to please read them carefully before using those sites. Henkel cannot be held liable for any actions by or content of such third party web sites.</p>
+
+<p>Our web pages might be equipped with plug-ins of the social network facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). Such plug-ins might in particular be Facebook's "Like" button respectively. If you access one of our web pages that is equipped with such a plug-in, your internet browser will make a direct connection to the Facebook servers and the plug-in will be displayed on the screen through communication to your browser. The plug-in will inform the Facebook server which of our web pages you have visited. If you are a member of Facebook and are logged on to Facebook user account while visiting our web page, Facebook will relate this information to your Facebook user account. On making use of any of the plug-in functions (e.g. clicking the "Like" button, leaving a comment), this information will also be related to your Facebook user account; Further information on the collection and use of data by Facebook and on the rights and possibilities available to you for protecting your privacy in this context can be found in Facebook's data protection information. If you want to avoid that Facebook is able to relate the visit of our web page to your Facebook user account, you have to log-off your Facebook user account prior to visiting our web pages.</p>
+
+<p><strong>10. Queries and Complaints</strong></p>
+
+<p>Henkel is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by <a href="mailto:henkelprivacy@us.henkel.com">henkelprivacy@us.henkel.com</a>, or send us a letter to:</p>
+
+<p>Henkel Privacy Inquiries
+<br>
+Communications Department<br>Henkel Corporation
+<br>
+One Henkel Way
+<br>
+Rocky Hill, CT 06067</p>  </div>
+
+	<div id="ResourceCollection">
+		
+	
+	<script type="text/javascript">
+	function LaunchThis(sender, strURL)
+	{
+		window.open (strURL);	
+		return false;
+	}
+	
+	function NewCollection(Collection)
+	{
+		window.location = "/members/resource_collection_item_edit.asp?id=" + Collection + "&groupID=";
+		return false;
+	}
+	
+	function ModifyThis(Collection, ItemID)
+	{
+		window.location = "/members/resource_collection_item_edit.asp?id=" + Collection + "&groupID=&itemID=" + ItemID;
+		return false;
+	}
+	</script>
+
+	</div></td>
+</tr>
+</tbody></table><!--END SpContent-->
+
+
+<div id="PageBase_RaiseAlert" class="yui-skin-sam"></div>
+
+
+<div class="yui-skin-sam">
+<div id="ContextualHelp" style="visibility:hidden">
+	<div id="ContextualHelpHead" class="hd"></div>
+	<div id="ContextualHelpBody" class="bd"></div>
+</div>
+<div id="SpNavBarSub" style="visibility:hidden">
+	<div id="SpNavBarSubBody" class="bd"></div>
+</div></div>
+
+
+					<!--@@DG_PRINT_PAGE_END@@
+						IMPORTANT! DO NOT MOVE OR MODIFY -->
+						
+					</div></td>
+					<td id="RightRail1"><div id="RightRail2">
+
+						
+						<div id="LoginFormOrProfileNav" class="ContentPanel_Style1">
+							<div class="ContentPanelHead">
+								Member Sign-In</div>
+							<div class="ContentPanelText">
+								<script language="javascript" type="text/javascript" src="/global_inc/js/jquery.data.js"></script><script language="javascript" type="text/javascript" src="/global_inc/js/jquery.watermark.min.js"></script><script type="text/javascript">
+                             $(document).ready(function () {
+                             $('.loginuser').watermark('Username');
+                             $('.loginpass').watermark('Password');});</script><form id="LoginForm" action="https://purexinsiders.site-ym.com/Login.aspx?returl=" method="post"><input type="hidden" name="ERR_u" value="u|Username|20|1||0"><input type="hidden" name="ERR_p" value="p|Password|20|1||0"><p></p><div id="LoginUserName"><input class="small loginuser" type="text" name="u" size="20" maxlength="255" value=""></div><div id="LoginPassword"> <br>
+                        <input class="small loginpass" type="password" name="p" size="20" maxlength="64" autocomplete="off"></div><p></p>
+                        <p id="RememberMe"><input id="FrontendControls_RememberMe" type="checkbox" name="rememberme" value="true" checked=""><label for="FrontendControls_RememberMe">Remember Me</label></p>
+                        <p id="LoginSubmit"><input type="submit" name="btn_submitLogin" value="Sign In" class="formbutton">
+							<img class="securesubmit" src="/global_graphics/icons/securesubmit.png" title="Secured with SSL encryption."></p></form><p id="LoginForgot"><a href="/general/email_pass.asp">Forgot your password?</a></p><p id="LoginRegister"><a href="/general/register_start.asp">Haven't registered yet?</a></p></div>
+						</div>
+
+						<table id="LatestNews" border="0" cellpadding="0" cellspacing="0" style="display:none; width:100%">
+						<tbody class="ContentPanel_Style2">
+						<tr>
+							<td class="ContentPanelHead">
+								<div class="MoreLink">
+									<a href="/news/">more</a></div>
+								Latest News</td>
+						</tr>
+						<tr>
+							<td><div class="ContentPanelText">
+									<div class="RestrictedAccessText"><p>This feature is restricted to registered members.</p><p>If you are already a member of the community,<br><a href="/login.aspx">click here to sign in.</a></p><p>If you have not yet registered,<br><a href="/general/register_start.asp">click here to get connected!</a></p></div></div></td>
+						</tr>
+						</tbody></table>
+						
+						<table id="UpcomingEvents" border="0" cellpadding="0" cellspacing="0" style="display:none; width:100%">
+						<tbody class="ContentPanel_Style3">
+						<tr>
+							<td class="ContentPanelHead">
+								<div class="MoreLink">
+									<a href="/events/event_list.asp">more</a></div>
+								Calendar</td>
+						</tr>
+						<tr>
+							<td><div class="ContentPanelText">
+									<p>The upcoming calendar is currently empty.</p><p><a href="/events/event_list.asp?cid=&amp;show=past">Click here to view past events and photos »</a></p></div></td>
+						</tr>
+						</tbody></table>
+
+	  <div class="spacer_1h"></div>
+	  
+		<table id="Surveys" border="0" cellpadding="0" cellspacing="0" style="display:none; width:100%">
+			<tbody class="ContentPanel_Style4">
+				<tr>
+					<td class="ContentPanelHead">Reporting Forms</td>
+				</tr>
+				<tr>
+					<td><div class="ContentPanelText"></div></td>
+				</tr>
+			</tbody>
+		</table>
+	
+						<div id="RightRailContentArea">
+							<!--YMPSTITLE=TgBBAA==/YMPSTITLE--></div>
+					</div></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+		<tr>
+			<td id="Foot">
+				<!--footer --></td>
+		</tr>
+		</tbody></table>
+		
+		<div id="FooterContentArea">
+			<!--YMPSTITLE=TgBBAA==/YMPSTITLE--><div style="margin-top: 20px; text-align: center; font-size: 12px; color: #aaa;"><a href="/?page=About_Us">About Us</a> | <a href="/general/?type=CONTACT">Contact Us</a> | <a href="/?page=Privacy_Policy">Privacy Policy</a> | <a href=" /?page=Terms_and_Conditions">Terms and Conditions</a>
+
+<div id="languageSelectionWrapper" style="display: none">
+ | <select id="languageSelection">
+<option data-imagesrc="/resource/resmgr/Language_Icons/flag_usa.png" value="/">English</option>
+<option data-imagesrc="/resource/resmgr/Language_Icons/flag_spain.png" value="/?page=Espanol">Español</option>
+<option data-imagesrc="/resource/resmgr/Language_Icons/flag_france.png" value="http://www.henkelinsiders.com/">Français Canadien</option>
+</select>
+</div>
+
+</div> </div>
+		
+		<div id="Copyright">
+			Membership Software &nbsp;::&nbsp; <a href="/ams/legal-privacy.htm">Legal/Privacy</a><!-- Copyright (c) 1998-2013 YourMembership.com Inc. All Rights Reserved. Copyright: Certain elements of this website are: Copyright (c) 1998-2013, YourMembership.com, Incorporated. YourMembership.com, Incorporated provides a limited license to use its Copyrights to the entity from whose web page you are viewing. Certain elements of this website may also be copyrighted by that entity; please see its Terms of Use or contact the organization for more information. General information about copyright laws can be found at: http://www.copyright.gov/. For more specific information, please consult an attorney. --></div>
+		
+		
+		
+	
+
+
+
+
+<!--END_OF_FILE-->
+</body></html>
