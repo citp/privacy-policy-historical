@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolhunting.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604041011id_/http%3A//www.coolhunting.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolhunting.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219094742id_/http%3A//www.coolhunting.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Cool Hunting
 
-Updated 3 June 2013
+Updated 11 November 2013
 
 ### Privacy Promise
 
@@ -10,7 +10,7 @@ Captain Lucas, Inc. (“Captain Lucas”) takes very seriously the private natur
 
 1\. PERSONAL INFORMATION. Personal information is information that may be used to identify who you are or information that is reasonably believed to be used to identify you. Such information may include your name, email, or phone number. 
 
-a.  In order to send you e-mail from Captain Lucas (if any), we need your e-mail address. Similarly, in order to supply you with text messaging services (if any), we need your phone number and your provider information. To provide you with additional services, we may also request your name, geographical coordinates, and telephone number. Captain Lucas does not collect any other personal information that you do not expressly provide. 
+a.  In order to send you e-mail from Captain Lucas (if any), we need your e-mail address. Similarly, in order to supply you with text messaging services (if any), we need your phone number and your provider information. Captain Lucas allows you to create a user account, and in order to access your account, we will be collecting your e-mail address, account user name, and account password; or your username or email address used for your social media accounts. You do not need to create a user account to access the website. To provide you with additional services, we may also request your name, geographical coordinates, and telephone number. Captain Lucas does not collect any other personal information that you do not expressly provide. 
 
 b.  Captain Lucas will not sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission. Captain Lucas may share your personal information for the purpose of delivering our e-mail to you or as required by law. Though we make every effort to preserve user privacy, Captain Lucas may need to disclose personal information when required by law and when we have a good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process that Captain Lucas receives. 
 
@@ -38,7 +38,7 @@ c.  COOKIES. Most web browsers are set to accept cookies by default, but you ca
 
 8\. BUSINESS TRANSITIONS. In the event Captain Lucas goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
-9\. SOCIAL MEDIA. Captain Lucas allows you to share content from the Website to others on your social media platforms such as Facebook or Twitter. This Privacy Promise does not apply to these social platforms and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices. 
+9\. SOCIAL MEDIA. Captain Lucas allows you to share content from the Website to others on your social media platforms such as Facebook or Twitter, and allows you to log in to our Website through your social media platforms. This Privacy Promise does not apply to these social platforms and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices. 
 
 10\. LINKS TO OTHER SITES. As part of the service, Captain Lucas may create links allowing you to access third party sites. Captain Lucas is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites' individual privacy policies in order to determine how they treat user information. 
 
