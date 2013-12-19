@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619015215id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptationgifts.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219042557id_/http%3A//www.temptationgifts.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | TemptationGifts.com
 
-Temptation Gifts are dedicated to protecting the privacy of our customers and those that visit our website. You should be able to find helpful information below on how we handle any data collected and details on our policy regarding cookies.
+Temptation Gifts prides itself on providing exceptional customer service online, just as we do in our stores. You can find helpful and useful information on these pages, and you can always take a look at what other customers have said about us on our [Customer Comments](http://www.temptationgifts.com/customer-comments) page.
 
-Data Protection   |   Cookies
+[Last Posting Dates for Christmas Orders](http://www.temptationgifts.com/christmas-posting-dates/)  |   [Help & FAQs](http://www.temptationgifts.com/help-faqs/)   |    [UK Delivery](http://www.temptationgifts.com/uk-delivery/)   |   [International Delivery](http://www.temptationgifts.com/international-delivery/)   |   [Returns Policy](http://www.temptationgifts.com/returns-policy/)   |   [Privacy & Cookies](http://www.temptationgifts.com/privacy-cookies/)   |   [Full Ts & Cs](http://www.temptationgifts.com/terms-conditions/)
 
 * * *
 
