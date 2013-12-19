@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515150952id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219122111id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | MyDEAL.com.my - Malaysia at half the price!
+# Privacy Policy | MyDEAL.com.my - Best Deals in Malaysia
 
 Your privacy is important to us. This privacy statement provides guidelines and conditions regarding the personal information that MYDEAL.com.my collects, and the ways in which MYDEAL.com.my uses that personal information.
 
@@ -22,7 +22,8 @@ Send to you products / information that we deem relevant before / during / after
 Supply to you services that you purchase  
 Send you statements and invoices  
 Collect payments from you; and  
-Send you marketing communications
+Send you marketing communications  
+Every email sent to a user will contain an unsubscribe link for users to unsubscribe from
 
 Where MYDEAL.com.my discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
@@ -63,4 +64,5 @@ MyDeal Sdn. Bhd.
 Unit 15-01, 15th Floor  
 Menara Multi-Purpose  
 No.8 Jalan Munshi Abdullah  
-50100 Kuala Lumpur
+50100 Kuala Lumpur  
+Phone: +(603) 2721 4925
