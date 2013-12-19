@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qu.edu.qa privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620222228id_/http%3A//www.qu.edu.qa/legal_notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qu.edu.qa privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219231540id_/http%3A//www.qu.edu.qa/legal_notice.php) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer
 
-Last modified: March 20, 2012 14:34:15.
+Last modified: November 09, 2013 10:35:16.
 
 ## Privacy Policy
 
@@ -20,9 +20,13 @@ You can access our website homepage and browse our site without disclosing your 
 Users surfing and reading information on the website can expect QU, just as any other website, to collect and store the following anonymous information about your visit:
 
   * The operating system and browser your computer uses.
+
   * Any search engine you were using before arriving to the website.
+
   * The date and time of your visit.
+
   * The URLs of the pages you visit on the website.
+
 
 
 
