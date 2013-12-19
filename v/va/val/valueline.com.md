@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the valueline.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619014842id_/http%3A//www.valueline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueline.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219055031id_/http%3A//www.valueline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Our Commitment to Your Privacy:**
 
-Your privacy is important to us and we are strongly committed to protecting your privacy. This privacy policy applies to information we may collect from you or that you may provide when you visit our web sites [www.valueline.com]() and [www.valuelinepro.com](http://www.valuelinepro.com/) (collectively, the “Web sites”), or when you interact with our advertising and applications on third-party web sites and services, if those advertising or applications include links to this policy. This policy also applies to information we collect offline when you subscribe to the print editions of Value Line publications. 
+Your privacy is important to us and we are strongly committed to protecting your privacy. This privacy policy applies to information we may collect from you or that you may provide when you visit our web sites www.valueline.com and [www.valuelinepro.com](http://www.valuelinepro.com/) (collectively, the “Web sites”), or when you interact with our advertising and applications on third-party web sites and services, if those advertising or applications include links to this policy. This policy also applies to information we collect offline when you subscribe to the print editions of Value Line publications. 
 
 **What Personal Information We Collect:**
 
@@ -50,7 +50,7 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 Value Line, Inc.   
 Attn: Legal Department   
-220 E 42nd Street, 6th FL   
+485 Lexington Avenue  
 New York, NY 10017 
 
 **How to Contact Us About Privacy Matters:**
@@ -61,4 +61,4 @@ If you would like to contact us for any reason concerning our privacy practices,
 
 We may update this Privacy Policy from time to time and will notify all users by posting the new policy on our Web Sites. Please check back here periodically to review our latest policy. 
 
-Updated: March 27, 2013 
+Updated: Sept. 10, 2013 
