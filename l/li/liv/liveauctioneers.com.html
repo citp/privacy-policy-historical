@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liveauctioneers.com privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610054155id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liveauctioneers.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219193305id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<title>LiveAuctioneers Privacy Policy - Live Auctioneers</title>
@@ -7,57 +7,82 @@
     
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
         
-        <link rel="STYLESHEET" type="text/css" href="http://d1zcdlqocabcs9.cloudfront.net/css/v3/popup-contact.css">
-        <link rel="STYLESHEET" type="text/css" href="http://d1zcdlqocabcs9.cloudfront.net/scripts/v24/facebox/facebox.css">
-        <link rel="shortcut icon" href="http://www.liveauctioneers.com/live_design/images/favicon.png">
+        <link type="text/css" rel="stylesheet" href="http://d1zcdlqocabcs9.cloudfront.net/live_styles/v1907512743/live_styles.css">        <link rel="shortcut icon" href="http://www.liveauctioneers.com/live_design/images/favicon.png">
                 
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/live_scripts/v3/jquery-1.7.2.min.js"></script>
-        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/scripts/v24/la.js"></script>
-        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/scripts/v25/facebox/facebox.js"></script>
-        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/live_scripts/v3/jquery.placeholder.min.js"></script>
-        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/live_scripts/v6/scripts.js"></script>
-        <script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/scripts/v34/lib/pv2/main.js"></script>
-        <script type="text/javascript" src="http://www.liveauctioneers.com/scripts/lib/pv2/constants.js"></script>
-        <script type="text/javascript" src="http://snapabug.appspot.com/snapabug.js"></script>
+                            <script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/333752fd-6349-4e52-91e0-0d6d55fb71a9.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/scripts/v1907512743/m_bundle.js"></script>
+        <script type="text/javascript" src="http://snapabug.appspot.com/snapabug.js" async=""></script>
+        
+        <script type="text/javascript">
+            DEFAULT_HOST = 'www.liveauctioneers.com';
+            DEFAULT_PROTOCOL = 'http';
+            DEFAULT_SSL_PROTOCOL = 'https';
+            RESOURCE_HOST = 'd1zcdlqocabcs9.cloudfront.net';
+            RESOURCE_PROTOCOL = 'http://';
+        </script>
         
         
-                <link type="text/css" rel="stylesheet" href="http://d1zcdlqocabcs9.cloudfront.net/live_styles/v47/live_styles.css">
+        
                 
                 <meta property="fb:app_id" content="143214215739939">
         
-            
     <script type="text/javascript">
         
     // <![CDATA[
 
         jQuery(document).ready(function($) {
-                                $('a[rel*=facebox]').facebox();
-                    
-                   //disgraceful hack of a fix, but this was the only way I could get facebox to stop from actually linking
-                   $('a[rel*=facebox]').each(function(){ 
-                       $(this).attr("ref", this.href)
-                   });
-                   $('a[rel*=facebox]').attr('href',"javascript:void(0);");
                                 if( location.search.indexOf('openlogin=1') > -1 ) {
                                     $('#loginid').trigger('click');
                             }
                     
-            if ($('.placeholder').length > 0) {
+            /*if ($('.placeholder').length > 0) {
                                     $('.placeholder').css('color', '#009ddb');
-                            }
-            })
+                            }*/
+
+            
+            $( "#frm_search input, #searchbox").autocomplete({
+                source : function(request, response) {
+					$.ajax({
+						url : "http://auto.liveauctioneers.com/ajax_scripts/suggest.php",
+                        dataType: "jsonp",
+                        data : {
+                            featureClass: "P",
+                            style: "full",
+                            maxRows: 12,
+                            term : request.term
+                        },
+						error: function(xhr,err ) {
+                            //console.log( xhr );
+                            //console.log(err);
+                        },
+                        success : function(data) {//TODO: after release of aliases fix auction links in response
+                            raw = data;
+                            //alert(data);
+                            //console.log(data);
+                            response(data.suggestions);
+                            makePullLinks($("ul.ui-autocomplete a"));
+                        }
+					});
+				},
+				minLength : 2,
+				select : function(event, ui) {
+					//console.log(ui.item ? "Selected: " + ui.item.label : "Nothing selected, input was " + this.value);
+				},
+				open : function() {
+					$(this).removeClass("ui-corner-all").addClass("ui-corner-top");
+				},
+				close : function() {
+					$(this).removeClass("ui-corner-top").addClass("ui-corner-all");
+				}
+				//,       appendTo:"#frm_search"
+			});
+			
+
+                        })
     // ]]>
     
     
     </script>
-        
-    <style type="text/css">
-        .placeholder {
-            color: #009ddb;
-        }
-    </style>
-    
-                <script type="text/javascript">
+            <script type="text/javascript">
 // <![CDATA[
   var _gaq = _gaq || [];
   var pluginUrl = 
@@ -66,82 +91,107 @@
   _gaq.push(['_setAccount', 'UA-30920-1']);
   _gaq.push(['_setDomainName', '.liveauctioneers.com']);
   _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 // ]]>
 </script>
 
-    </head>
+        </head>
 
-<body id="body_header">
+<body id="body_header" class="">
 <div id="overDiv" style="position:absolute;visibility:hidden;z-index:1000;"></div>
 <div class="header-shadow"></div>
 <!--WRAPPER-->
 <div class="wrapper">
 <div class="header-nav">
-  <div class="logo_container"><a href="http://www.liveauctioneers.com/"><img src="http://d1zcdlqocabcs9.cloudfront.net/live_design/images/trans.png" alt="Live Auctioneers online auctions" class="sprites logo"></a></div>
+  <div class="logo_container">
+      <a href="http://www.liveauctioneers.com/" id="home_logo">
+          <img src="http://d1zcdlqocabcs9.cloudfront.net/live_design/images/bidder_logo.png" alt="Live Auctioneers online auctions" class="livebidder">
+          <img src="http://d1zcdlqocabcs9.cloudfront.net/live_design/images/trans.png" alt="Live Auctioneers online auctions" class="logo">
+          <img src="http://d1zcdlqocabcs9.cloudfront.net/live_design/images/trans.png" alt="Live Auctioneers online auctions" class="sold_logo">
+          <img src="http://d1zcdlqocabcs9.cloudfront.net/live_design/images/trans.png" alt="Live Auctioneers online auctions" class="live_logo">
+      </a>
+  </div>
   <div class="header-menu">
-    <ul class="nav">
-      <li><a href="http://www.liveauctioneers.com/">Home</a></li>
-      <li class="about"><a href="#" id="_about">About</a></li>
-      <li class="news"><a href="#">News</a></li>
-      <li class="help last"><a href="#">Help</a></li>
+    <ul class="nav" id="header-menu-nav">
+      <li>
+          <a href="http://www.liveauctioneers.com/">Home</a>
+      </li>
+      <li class="about menu">
+        <div id="about-dropd" class="nav-dropdown">
+          <ul>
+            <li><a href="http://www.liveauctioneers.com/about.html">About Us</a></li>
+            <li><a href="http://www.liveauctioneers.com/team.html">Team</a></li>
+            <li class="last"><a href="http://www.liveauctioneers.com/careers.html">Careers</a></li>
+          </ul>
+        </div>
+          <a href="javascript:void(0);" id="_about">About</a>
+      </li>
+      <li>
+          <a href="javascript:void(0);" data-location="12-2013" onclick="window.location = window.location.protocol+'//'+window.location.host+'/auctioncalendar/'+$(this).data('location')">Calendar</a>
+      </li>
+      <li class="news menu">
+          <a href="javascript:void(0);">News</a>
+            <div id="news-dropd" class="nav-dropdown">
+              <ul>
+                <li><a href="http://auctioncentralnews.com/" rel="nofollow">Auction News</a></li>
+                <li class="last"><a href="http://www.liveauctioneers.com/pr/liveauctioneers_press.html">Company Press</a></li>
+              </ul>
+            </div>
+      </li>
+      <li class="help last menu">
+          <a href="javascript:void(0);">Help</a>
+            <div id="help-dropd" class="nav-dropdown">
+              <ul>              
+                                <li><a href="javascript:void(0);" onclick="return SnapEngage.startLink();">Live Help</a></li>
+                <li><a href="http://www.liveauctioneers.com/contact.html">Contact Us</a></li>
+                <li class="last"><a href="http://www.liveauctioneers.com/help/bidders/" class="faqs">FAQs</a></li>
+              </ul>
+            </div>
+      </li>
     </ul>
-    <div id="about-dropd" class="nav-dropdown l245">
-      <ul>
-        <li><a href="http://www.liveauctioneers.com/about.html">About Us</a></li>
-        <li><a href="http://www.liveauctioneers.com/team.html">Team</a></li>
-        <li class="last"><a href="http://www.liveauctioneers.com/careers.html">Careers</a></li>
-      </ul>
-    </div>
-    <div id="news-dropd" class="nav-dropdown l305">
-      <ul>
-        <li><a href="http://auctioncentralnews.com/" rel="nofollow">Auction News</a></li>
-        <li class="last"><a href="http://www.liveauctioneers.com/pr/liveauctioneers_press.html">Company Press</a></li>
-      </ul>
-    </div>
-    <div id="help-dropd" class="nav-dropdown l360">
-      <ul>
-        <li><a href="http://www.liveauctioneers.com/help/bidders/">FAQs</a></li>
-                <li><a href="#" onclick="SnapABug.initAsync('333752fd-6349-4e52-91e0-0d6d55fb71a9');SnapABug.allowScreenshot(false);SnapABug.setUserEmail('');SnapABug.startLink();">Live Help</a></li>
-        <li class="last"><a href="http://www.liveauctioneers.com/contact.html">Contact Us</a></li>
-      </ul>
-    </div>
   </div>
   
   <div class="fr cedemi cblue fs13">
     
-        <a class="btn_click" rel="facebox" href="http://www.liveauctioneers.com/nlogin/login/?from=hp"><div class="fl sprites header-nav-btn tc pointer opac-1 ">Sign In</div></a>
-                <a class="btn_click" href="http://www.liveauctioneers.com/sign-up"><div class="fl sprites header-nav-btn tc pointer opac-1 ml3 ">Create Account</div></a>
-                <script type="text/javascript">var latb_loggedin=false;</script>
+        <a class="btn_click" rel="facebox" href="http://www.liveauctioneers.com/nlogin/login/?from=hp" onclick="_gaq.push(['_trackEvent', 'Navigation', 'button', 'Sign in - bidders']);"><div class="fl sprites header-nav-btn tc pointer opac-1">Sign In</div></a>
+                <a class="btn_click no_pull" href="http://www.liveauctioneers.com/sign-up"><div class="fl sprites header-nav-btn tc pointer opac-1 ml3">Create Account</div></a>
+
+                    <script type="text/javascript">var latb_loggedin=false;</script>
                   
   </div>
 </div>
 
 <!--ACTION-->
 <div class="clear tc cedemi">
-  <a rel="nofollow" href="https://www.liveauctioneers.com/login/" class="a_decor">
-      <div class="fl sprites action-btn cwhite pointer">
+  <a rel="nofollow" href="https://www.liveauctioneers.com/dashboard" onclick="_gaq.push(['_trackEvent', 'Navigation', 'tab', 'Sign in - bidders']);" class="a_decor">
+      <div id="bidder_tab" class="fl sprites action-btn cwhite pointer">
         <div class="headertab">BIDDERS</div>
-        <div id="bidder_tab" class="sprites action-btn-selected dis_none"></div>
+        <div class="sprites action-btn-selected"></div>
       </div></a>
-  <a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/" class="a_decor"><div class="fl sprites action-btn cwhite pointer prelative z9 ml-1 "><div class="headertab">SELLERS</div><div id="auctioneer_tab" class="sprites action-btn-selected dis_none"></div></div></a>
+  <a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/" class="a_decor">
+    <div id="auctioneer_tab" class="fl sprites action-btn cwhite pointer prelative z9 ml-1">
+        <div class="headertab">
+            SELLERS
+        </div><div class="sprites action-btn-selected"></div>
+    </div></a>
     <div class="fl sprites search-bg prelative z9 ml-1 tl">
       <div class="prelative z99">
-    <form class="fl" id="frm_search" method="get" action="/search">
-                <div class="prelative z9 tl">
+    <form class="fl" id="frm_search" method="get" action="/search" onsubmit="return submitSearchForm('Top bar', this);">
+        
+<div class="prelative z9 tl">
     <div class="fl sprites search-bar-left_blue" style="">
         <div class="fr pointer sprites search-bar-right" onclick="$(this).parents('form').submit();"><div align="center" style="color:white; margin-top: 7px; font-size: 12px; font-weight: bold;">GO</div></div>
-        <input type="text" class="search cdgray ml15 jqtransformdone" id="" name="q" value="" placeholder="Search for items">
+        <input type="text" class="search cdgray ml15 jqtransformdone" id="search_top" name="q" value="" placeholder="Search for items">
     </div>
-</div>            </form>
+</div>        <input type="hidden" name="hasimage" value="true">
+    </form>
     </div>
-    <div class="sprites action-btn-search-selected dis_none searchbar_tab"></div>
+    <div class="sprites action-btn-search-selected searchbar_tab"></div>
   </div>
     </div>
 <!--//ACTION-->
@@ -149,6 +199,7 @@
 </div>
 <!--//WRAPPER-->    
 <div class="clear"></div>
+<div id="body-content">
 
 <div class="clear"></div>
 <div class="body-content">
@@ -212,48 +263,60 @@
     
     
     
+    
+    
+                
+    
 <script type="text/javascript">
     var currsym = htmlEncode('$');
 </script>
                     
-                                
-<div class="hotlive_auction_box online" style="margin-bottom: 25px;">
-    <div class="box_image_holder">
-                <a href="http://www.liveauctioneers.com/item/17850319_ivory-bunny-netsuke">
-            <img src="http://p2.la-img.com/1692/41363/17850319_1_m.jpg" class="box_image" title="IVORY BUNNY NETSUKE" alt="Lot ">
-        </a>
+                                        
+    <div id="mask_22740824">
+        <div align="center" style="display:none;">
+            <a href="/dashboard/messages">
+                <button class="red-btn">
+                UNDER REVIEW                </button>
+            </a>
+        </div>
+    </div>
+<div class="hotlive_auction_box online" style="margin-bottom: 25px;" rel="22740824">
+        <div class="box_image_holder">
+                <a href="http://www.liveauctioneers.com/item/22740824_oil-painting-on-board-attr-to-auto-greblier">
+                        <img src="http://p1.la-img.com/1243/48944/22740824_1_m.jpg" class="box_image" title="Oil Painting on Board Attr. to Auto Greblier" alt="Lot ">
+                    </a>
             </div>
     <div class="box_title">
         <div class="box_truncate">
-            <a href="http://www.liveauctioneers.com/item/17850319_ivory-bunny-netsuke" class="dark_text text_link" title="IVORY BUNNY NETSUKE">
-                206S: IVORY BUNNY NETSUKE
+            <a href="http://www.liveauctioneers.com/item/22740824_oil-painting-on-board-attr-to-auto-greblier" class="dark_text text_link" title="Oil Painting on Board Attr. to Auto Greblier">
+                157: Oil Painting on Board Attr. to Auto Greblier
             </a>
         </div>
                                 <!--  -->
         
         
-                                <div class="item_box_descr" title="Ivory Netsuke of Two Rabbits W/ Amber Eyes">
-            Ivory Netsuke of Two Rabbits W/ Amber Eyes
+                                <div class="item_box_descr" title="Attributed to Auto Greblier, 19th century  oil on bo…">
+            Attributed to Auto Greblier, 19th century  oil on bo…
         </div>
     </div>  <!-- //box_title -->
         <div class="house_name">
-            <a href="http://www.liveauctioneers.com/auctioneer/1692-clifton-auctions" class="dark_text text_link" title="Clifton Auctions">                Clifton Auctions
+            <a href="http://www.liveauctioneers.com/mg-neely-auction" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Auctioneer title', 'Hot lots']);" class="dark_text text_link" title="MG Neely Auction">                MG Neely Auction
             </a>        </div>
     <div class="box_detail">
         <div class="box_detail_status">
-                            <div>02:00 PM PT</div>
-                <div>Jun 18</div>
+                                            <div class="dark_text">Start Price</div>
+                <div class="startprice_online">$ 200</div>
                                                          <!-- //remaining -->
                    
         </div>  <!-- //light_text_box box_detail -->
                 <div class="box_flag us-flag" title="United States">
                     </div>
         <div class="box_save_icon">
-                                <a href="http://www.liveauctioneers.com/nlogin/login/17850319?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
+                                <a href="http://www.liveauctioneers.com/nlogin/login/22740824?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
                 </div> <!-- //box_save_icon -->
              </div>  <!-- //box_detail -->
         <div class="itemFooterSold">
-                    <a href="http://www.liveauctioneers.com/item/17850319_ivory-bunny-netsuke" class="btn_a">BID NOW</a>
+                    <a href="http://www.liveauctioneers.com/item/22740824_oil-painting-on-board-attr-to-auto-greblier" onclick="_gaq.push(['_trackEvent', 'Bidding', 'Bid now', 'Hot lots']);" class="btn_a">BID NOW</a>
                          </div>  <!-- //itemFooterSold -->
          <div class="bid-box-shadow clear"></div> 
                                     
@@ -266,48 +329,60 @@
     
     
     
+    
+    
+                
+    
 <script type="text/javascript">
     var currsym = htmlEncode('$');
 </script>
                     
-                                
-<div class="hotlive_auction_box online">
-    <div class="box_image_holder">
-                <a href="http://www.liveauctioneers.com/item/17866060_classical-style-bronze-figural-candelabra-h-25">
-            <img src="http://p2.la-img.com/359/41410/17866060_1_m.jpg" class="box_image" title="CLASSICAL STYLE BRONZE FIGURAL CANDELABRA H 25&quot;" alt="Lot ">
-        </a>
+                                        
+    <div id="mask_22823481">
+        <div align="center" style="display:none;">
+            <a href="/dashboard/messages">
+                <button class="red-btn">
+                UNDER REVIEW                </button>
+            </a>
+        </div>
+    </div>
+<div class="hotlive_auction_box online" rel="22823481">
+        <div class="box_image_holder">
+                <a href="http://www.liveauctioneers.com/item/22823481_lot-of-80-mid-1960s-topps-hall-of-famers-and">
+                        <img src="http://p2.la-img.com/1417/49098/22823481_1_m.jpg" class="box_image" title="LOT OF (80)+ MID 1960's TOPPS HALL OF FAMERS &amp;" alt="Lot ">
+                    </a>
             </div>
     <div class="box_title">
         <div class="box_truncate">
-            <a href="http://www.liveauctioneers.com/item/17866060_classical-style-bronze-figural-candelabra-h-25" class="dark_text text_link" title="CLASSICAL STYLE BRONZE FIGURAL CANDELABRA H 25&quot;">
-                62100: CLASSICAL STYLE BRONZE FIGURAL CANDELABRA H 25"
+            <a href="http://www.liveauctioneers.com/item/22823481_lot-of-80-mid-1960s-topps-hall-of-famers-and" class="dark_text text_link" title="LOT OF (80)+ MID 1960's TOPPS HALL OF FAMERS &amp;">
+                217: LOT OF (80)+ MID 1960's TOPPS HALL OF FAMERS &amp;
             </a>
         </div>
                                 <!--  -->
         
         
-                                <div class="item_box_descr" title="CLASSICAL STYLE BRONZE FIGURAL CANDELABRA, 19TH C., …">
-            CLASSICAL STYLE BRONZE FIGURAL CANDELABRA, 19TH C., …
+                                <div class="item_box_descr" title="ALL STARS INCLUDING FRANK ROBINSON, KILIBREW,  MARIS…">
+            ALL STARS INCLUDING FRANK ROBINSON, KILIBREW,  MARIS…
         </div>
     </div>  <!-- //box_title -->
         <div class="house_name">
-            <a href="http://www.liveauctioneers.com/auctioneer/359-dumouchelles" class="dark_text text_link" title="DuMouchelles">                DuMouchelles
+            <a href="http://www.liveauctioneers.com/echoes-antiques-and-auction-gallery-inc" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Auctioneer title', 'Hot lots']);" class="dark_text text_link" title="Echoes Antiques &amp; Auction Gallery, Inc.">                Echoes Antiques &amp; Auction Gallery, Inc.
             </a>        </div>
     <div class="box_detail">
         <div class="box_detail_status">
-                            <div>09:00 AM PT</div>
-                <div>Jun 16</div>
+                                            <div class="dark_text">Start Price</div>
+                <div class="startprice_online">$ 50</div>
                                                          <!-- //remaining -->
                    
         </div>  <!-- //light_text_box box_detail -->
-                <div class="box_flag us-flag" title="United States">
+                <div class="box_flag us-flag" title="">
                     </div>
         <div class="box_save_icon">
-                                <a href="http://www.liveauctioneers.com/nlogin/login/17866060?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
+                                <a href="http://www.liveauctioneers.com/nlogin/login/22823481?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
                 </div> <!-- //box_save_icon -->
              </div>  <!-- //box_detail -->
         <div class="itemFooterSold">
-                    <a href="http://www.liveauctioneers.com/item/17866060_classical-style-bronze-figural-candelabra-h-25" class="btn_a">BID NOW</a>
+                    <a href="http://www.liveauctioneers.com/item/22823481_lot-of-80-mid-1960s-topps-hall-of-famers-and" onclick="_gaq.push(['_trackEvent', 'Bidding', 'Bid now', 'Hot lots']);" class="btn_a">BID NOW</a>
                          </div>  <!-- //itemFooterSold -->
          <div class="bid-box-shadow clear"></div> 
                                     
@@ -330,56 +405,8 @@
 	<div class="clear"></div>
     </div>
         <!--WRAPPER-->
-
+</div>
 	
-
-
-<!-- This is the footer for pages other than bidder and auctioneers -->
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>	
-
-<script type="text/javascript">
-
-var current;
-var first;
-var last;
-var timeout;
-
-var topNewsFeed = function() {
-	return {
-
-		
-		load: function() {
-			var feed = new google.feeds.Feed(feedUrl);
-			feed.setNumEntries(10);
-			feed.load(function(result) {
-				if (!result.error) {
-					topNewsFeed.parse(result.feed.entries);
-				} else {
-					$("#list").removeClass("loading").addClass("error").text("An error occurred while attempting to load the feed.");
-				}
-			});
-		},
-		parse: function(entries) {
-			var feedMarkup = '';
-			for (var i = 0; i < entries.length; i=i+2) {
-				feedMarkup += '<li style="height:60px;"><div class="news-link1"><a rel="nofollow" target="_self" href="'+entries[i].link+'">'+entries[i].title+'</a></div><div class="news-link2"><a target="_self" href="'+entries[i+1].link+'">'+entries[i+1].title+'</a></div><div class="clear"></div></li>'	
-			}
-			$("#list").empty().append(feedMarkup)
-			
-		}
-			
-		
-	}
-}();
-
-$(document).ready(function() {
-		
-});
-
- var feedUrl = "http://auctioncentralnews.com/index.php?option=com_ninjarsssyndicator&feed_id=1&format=raw";
-		google.load("feeds", "1");
-		google.setOnLoadCallback(topNewsFeed.load);
-</script>
 
 
 
@@ -388,33 +415,35 @@ $(document).ready(function() {
 <div class="search-news-holder">
 	<!--WRAPPER-->
   <div class="wrapper">
-  	<!--NEWS-->
-            <!--//NEWS-->
     
     <!--ACTION-->
     <div class="tc cedemi">
       <a rel="nofollow" href="http://www.liveauctioneers.com/login/" class="a_decor">
-            <div class="fl sprites action-btn cwhite pointer ">
+            <div class="fl sprites action-btn cwhite pointer" id="bidder_lower_tab">
                 <div class="headertab fs16">
                     BIDDERS
                 </div>
-                            </div></a>
+                <div class="sprites search-action-btn-selected"></div>
+            </div></a>
       <a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/" class="a_decor">
-          <div class="fl sprites action-btn cwhite pointer prelative z9 ml-1 "><div class="headertab fs16">
+          <div class="fl sprites action-btn cwhite pointer prelative z9 ml-1" id="auctioneer_tab"><div class="headertab fs16">
               SELLERS
               </div>
               
-                          </div>
+                <div class="sprites search-action-btn-selected"></div>
+          </div>
       </a>
       <div class="fl sprites search-bg prelative z9 ml-1 tl">
         <div class="prelative z9 ml-1">
-        <form class="fl" id="frm_search" method="get" action="/search">
-                <div class="prelative z9 tl">
+        <form class="fl" id="frm_search" method="get" action="/search" onsubmit="return submitSearchForm('Bottom bar', this);">
+        
+<div class="prelative z9 tl">
     <div class="fl sprites search-bar-left_blue" style="">
         <div class="fr pointer sprites search-bar-right" onclick="$(this).parents('form').submit();"><div align="center" style="color:white; margin-top: 7px; font-size: 12px; font-weight: bold;">GO</div></div>
-        <input type="text" class="search cdgray ml15 jqtransformdone" id="" name="q" value="" placeholder="Search for items">
+        <input type="text" class="search cdgray ml15 jqtransformdone" id="search_bottom" name="q" value="" placeholder="Search for items">
     </div>
-</div>                </form>
+</div>        <input type="hidden" name="hasimage" value="true">
+        </form>
         </div>
         <div class="sprites search-footer-btn-selected dis_none searchbar_tab"></div>
       </div>
@@ -444,16 +473,17 @@ $(document).ready(function() {
       <div class="fl clgrayftr ml20 gothicbook w220 lh17">
       	<h6 class="cedemi fs15">For Bidders</h6>
         <ul class="bottom-links fs12">
-            <li><a href="http://www.liveauctioneers.com/search?q=&amp;org=yes">Search Live Items</a></li>
+                        <li><a href="javascript:void(0);" data-location="12-2013" onclick="window.location = window.location.protocol+'//'+window.location.host+'/auctioncalendar/'+$(this).data('location')">Auction Calendar</a></li>
             <li><a href="http://www.liveauctioneers.com/search_auctioneers.html">Search Auctioneers</a></li>
             <li><a href="http://www.liveauctioneers.com/all-auctions">All Auctions</a></li>
-            <li><a href="http://www.liveauctioneers.com/how_it_works.html">How It Works</a></li>
+            <li><a href="http://www.liveauctioneers.com/browse/archive/page1">Past Auctions</a></li>
+            <li><a href="http://www.liveauctioneers.com/video">Auctions with Video</a></li>
+            <li><a href="http://www.liveauctioneers.com/auction_results.html">Auction Results Database</a></li>
             <li><a href="http://www.liveauctioneers.com/bidder_features.html">Bidder Features</a></li>
             <li><a href="http://www.liveauctioneers.com/terminology.html">Auction Terminology</a></li>
-            <li><a href="http://www.liveauctioneers.com/auction_results.html">Auction Results Database</a></li>
-            <li><a href="http://www.liveauctioneers.com/browse/archive/page1">Past Auctions</a></li>
+            <li><a href="http://www.liveauctioneers.com/how_it_works.html">How It Works</a></li>
         </ul>
-        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/sign-up" class="cblue fs14 bigboldlink">Become a Live Bidder</a></h5>
+        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/sign-up" class="bigboldlink">Become a Live Bidder</a></h5>
       </div>
       <!--//FOR BIDDERS LINKS-->
       
@@ -464,12 +494,13 @@ $(document).ready(function() {
             <li><a href="http://www.liveauctioneers.com/features.html">Services &amp; Features</a></li>
             <li><a href="http://www.liveauctioneers.com/prservices.html">PR Services</a></li>
             <li><a href="http://www.liveauctioneers.com/testimonials.html">Seller Testimonials</a></li>
+            <li><a href="http://www.liveauctioneers.com/video">Auctions with Video</a></li>
             <li><a href="http://www.liveauctioneers.com/charity/index.html">Charity Auctions</a></li>
             <!-- li><a href="http://www.liveauctioneers.com/how_it_works_auctioneer.php">How It Works</a></li -->
-            <li><a rel="nofollow" href="http://www.liveauctioneers.com/LIVE2012">2012 In Review</a></li>
+            <li><a rel="nofollow" class="pull_link" href="http://www.liveauctioneers.com/LIVE2012">2012 In Review</a></li>
             <li><a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/">Seller Sign-In</a></li>
         </ul>
-        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/becomealiveauctioneer" class="cblue fs14 bigboldlink">Become a Live Seller</a></h5>
+        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/becomealiveauctioneer" class="bigboldlink">Become a Live Seller</a></h5>
       </div>
       <!--//FOR ACUTIONEERS LINKS-->
       
@@ -480,7 +511,7 @@ $(document).ready(function() {
           <li><a href="http://www.liveauctioneers.com/top20-visit-live-at-auction">Top 20 Visited Live Items</a></li>
           <li><a href="http://www.liveauctioneers.com/top20-sold-today-at-auction">Top 20 Highest Price Items Sold</a></li>
         </ul>
-        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/consignments/" class="cblue fs14 bigboldlink">Become a Consignor</a></h5>
+        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/consignments/" class="bigboldlink">Become a Consignor</a></h5>
       </div>
       <!--//FOR CONSIGNER LINKS--> 
     </div>
@@ -512,23 +543,19 @@ $(document).ready(function(){
 	      </div>
   <!--//WRAPPER-->
 </div>
+
 <!--//BID ITEMS-->
-
-
-<div id="SnapABug_W"></div>
-<div id="SnapABug_WP"></div>
-<div id="SnapABug_Applet"></div>
 <!--SITEMAP-->
 <div class="footer-container">
 	<!--WRAPPER-->
 	<div class="wrapper">
-  	<div class="fl sprites logo-footer"></div>
-    <div class="fl gothicbook fs11 cwhite mt25 ml15">Copyright © 2002–2013 LiveAuctioneers. All Rights Reserved.</div>
+  	<div class="logo-footer"></div>
+    <div class="footer_copyright">Copyright © 2002–2013 LiveAuctioneers. All Rights Reserved.</div>
     <div class="fr footer cedemi fs15">
     	<ul class="mt25">
       	<li><a href="http://www.liveauctioneers.com/mobile">Mobile</a></li>
-        <li class="ml15"><a href="https://www.facebook.com/LiveAuctioneers" target="_blank">Facebook</a></li>
-        <li class="ml15"><a href="https://twitter.com/auctioncentral" target="_blank">Twitter</a></li>
+        <li class="ml15"><a href="https://www.facebook.com/LiveAuctioneers" onclick="_gaq.push(['_trackEvent', 'Social media', 'Contact', 'Facebook']);" target="_blank">Facebook</a></li>
+        <li class="ml15"><a href="https://twitter.com/liveauctioneers" onclick="_gaq.push(['_trackEvent', 'Social media', 'Contact', 'Twitter']);" target="_blank">Twitter</a></li>
         <li class="ml15"><a href="http://www.liveauctioneers.com/newsletter.html">Newsletter</a></li>
         <li class="ml15"><a href="http://www.liveauctioneers.com/sitemap.html">Sitemap</a></li>
       </ul>
@@ -546,6 +573,17 @@ $(document).ready(function(){
 	  <!--//WRAPPER-->
 </div>
 <!--//SITEMAP-->
+<!-- begin SnapEngage code -->
+<script type="text/javascript">
+    (function() {
+    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/333752fd-6349-4e52-91e0-0d6d55fb71a9.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+    })();
+</script>
+<!-- end SnapEngage code -->
+
+
 
 
 </body></html>
