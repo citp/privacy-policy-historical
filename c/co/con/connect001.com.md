@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connect001.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504080539id_/http%3A//www.grappone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connect001.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219051549id_/http%3A//www.grappone.com/privacy.htm) for the most accurate reproduction.*
 
-# Grappone Auto Group | New Ford, Honda, Hyundai, Mazda, Toyota, Scion dealership in Bow, NH 03304
+# Grappone Automotive Group | New Ford, Honda, Hyundai, Mazda, Toyota, Scion dealership in Bow, NH 03304
 
 Our dealership takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our sites, we have developed a privacy statement to help you understand the terms and conditions surrounding the collection and use of that information. This statement discloses the types of information we gather, how it is used, and how you can gain access to and edit any data that we've collected about you at any time.
 
