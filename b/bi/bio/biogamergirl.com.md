@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the biogamergirl.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603030048id_/http%3A//www.biogamergirl.com/p/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biogamergirl.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219031001id_/http%3A//www.biogamergirl.com/p/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Policy | BioGamer Girl
+# Privacy Policy - BioGamer Girl
 
-Protecting your private information is our priority. This Statement of Privacy applies to the [http://www.biogamergirl.com](http://www.biogamergirl.com/) and BioGamer Girl Magazine and governs data collections and usage, For the purposes of this Privacy Policy, unless otherwise noted, all references to BioGamer Girl Magazine include [http://www.biogamergirl.com](http://www.biogamergirl.com/), BioGamer Girl, BGG Media and [http://www.bggafterdark.com](http://www.bggafterdark.com/). The BioGamer Girl website is a video game news, reviews, features and interview site. By using the BIoGamer Girl website, you consent to the data practices described in this statement. 
+Protecting your private information is our priority. This Statement of Privacy applies to the [http://www.biogamergirl.com](http://www.biogamergirl.com/) and BioGamer Girl Magazine and governs data collections and usage, For the purposes of this Privacy Policy, unless otherwise noted, all references to BioGamer Girl Magazine include [http://www.biogamergirl.com](http://www.biogamergirl.com/), BioGamer Girl, BGG Media, BGG After Dark, [http://bggafterdark.biogamergirl.com](http://bggafterdark.biogamergirl.com/), BGG Productions, Travew and [http://travew.biogamergirl.com](http://travew.biogamergirl.com/). The BioGamer Girl website is an entertainment website/magazine that contains movies, TV shows, events, and video game news, reviews, features and interview site. By using the BioGamer Girl website, you consent to the data practices described in this statement. 
 
 **Collection of your Personal Information**  
 BioGamer Girl may collect personally identifiable information, such as your name. If you purchase BioGamer Girl’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. BioGamer Girl may also collect anonymous demographic information, which is not unique to you, such as your age. We may gather additional personal or non-personal information in the future.
@@ -51,7 +51,7 @@ BioGamer Girl will occasionally update this Statement of Privacy to reflect comp
 **Contact Information**  
 BioGamer Girl welcomes your questions or comments regarding this Statement of Privacy. If you believe that BioGamer Girl has not adhered to this Statement, please contact BioGamer Girl at:
 
-BioGamer Girl Magazine  
+BioGamer Girl Magazine (BGG Entertainment)  
 P.O. Box 51  
 Fyffe, Alabama 35971
 
