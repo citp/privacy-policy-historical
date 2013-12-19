@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comfortsuites.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629120859id_/http%3A//www.choicehotels.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comfortsuites.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219081737id_/http%3A//www.choicehotels.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Choice Hotels Privacy and Security Policy
 
