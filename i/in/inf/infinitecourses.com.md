@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522091935id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219164442id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Infinite courses: Privacy Policy-Study in India, Higher Education in India
 
-|   
----  
-|  |    |  [Colleges](http://www.infinitecourses.com/Top-Colleges-In-India.aspx) |  [Institutes](http://www.infinitecourses.com/Institutes-Colleges-in-India.aspx) |  [Courses](http://www.infinitecourses.com/Diploma-Degree-PG-Courses-in-India.aspx) |  [Careers](http://www.infinitecourses.com/Career-options-in-India.aspx) |  [Distance Learning](http://www.infinitecourses.com/Distance-learning-education-in-India.aspx) |  [Universities](http://www.infinitecourses.com/Universities-in-India.aspx) |  [Schools](http://www.infinitecourses.com/Schools-in-India.aspx) |  [Entrance Exams](http://www.infinitecourses.com/Entrance-exams-in-india.aspx) |  [Coaching](http://www.infinitecourses.com/coaching-institutes-in-india.aspx) |  [Study Abroad](http://www.infinitecourses.com/StudyAbroad.aspx) |  [Jobs](http://www.infinitecourses.com/Jobs-in-India.aspx) |     
----|---|---|---|---|---|---|---|---|---|---|---|---  
-| 
+|  |    |  |  [ ](http://www.infinitecourses.com/) |  |   
+---|---|---  
+  
+[ ](http://www.studyabroaduniversities.com/)
 
+|     
+|  |    |  [Colleges](http://www.infinitecourses.com/Top-Colleges-In-India.aspx) |  [Institutes](http://www.infinitecourses.com/Institutes-Colleges-in-India.aspx) |  [Courses](http://www.infinitecourses.com/Diploma-Degree-PG-Courses-in-India.aspx) |  [Careers](http://www.infinitecourses.com/Career-options-in-India.aspx) |  [Distance Learning](http://www.infinitecourses.com/Distance-learning-education-in-India.aspx) |  [Universities](http://www.infinitecourses.com/Universities-in-India.aspx) |  [Schools](http://www.infinitecourses.com/Schools-in-India.aspx) |  [Exams](http://www.infinitecourses.com/Entrance-exams-in-india.aspx) |  [Coaching](http://www.infinitecourses.com/coaching-institutes-in-india.aspx) |  [ Study Abroad](http://www.infinitecourses.com/StudyAbroad.aspx) |  [Jobs](http://www.infinitecourses.com/Jobs-in-India.aspx) |  [Forums](http://forums.infinitecourses.com/) |     
+---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |    |   
 ---|---  
   | 
@@ -18,14 +20,11 @@ E.g. MBA, MCA, Engineering, Medical, Animation, IIM, IIT, etc.
 
 E.g. Mumbai, Delhi, Bangalore, Pune, USA, UK, etc.  
   
-   
   
   
-   
-|  |  |  |  |  |   
-  
----  
-|  Privacy Policy  |   
+|    
+|  |  Privacy Policy  |   
+---|---|---  
 | 
 
 **  PRIVACY POLICY**
@@ -41,12 +40,52 @@ E.g. Mumbai, Delhi, Bangalore, Pune, USA, UK, etc.
  The terms of this privacy policy are subject to change from time to time without any prior notice. 
 
 |   
-   
-   
-   
-   
+---  
+Post Your Reviews / Comments / Queries   
+  
+|  Name  |  :  |   
+---|---|---  
+Email  |  :  |  |  |  Mobile :  |   
+---|---|---  
+(Your Email and Mobile will not be shared with anyone. It is just for replying to your comments / queries / questions. Your Queries will be answered by the College or Institute or our expert counselors)  
+Verification Code  |  :  | 
+
+Can't see? Refresh!  
+  
+Enter the Above Code  |  :  |   
+|   
+Please Post your Reviews / Comments / Questions  |  :  |  |   
+---  
+  
+(Max 600 Characters allowed)  
+  
+|   
+  
+  |    |    
+
+
+| 
+
+Which Sports you like the most? 
+
+Cricket  
+
+
+Football  
+
+
+Table Tennis  
+
+
+Golf  
+
+
+Counter Strike  
+  
+---  
+  
+**Next Vote :** Vote for Your Prime Minister   
   
   
-   
-   
+  
  
