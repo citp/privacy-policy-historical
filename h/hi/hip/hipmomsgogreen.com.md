@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipmomsgogreen.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103232id_/http%3A//www.hipmomsgogreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipmomsgogreen.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219040039id_/http%3A//www.hipmomsgogreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hip Moms Go Green
 
