@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celsias.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619002722id_/http%3A//www.celsias.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celsias.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219050733id_/http%3A//www.celsias.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Use Celsias.com - reduce global °Celsius
 
@@ -27,4 +27,4 @@ You are responsible for not disclosing your user name or password to anyone.
 We recommend that you logout at the end of each session on Celsias.
 
 If you have any questions or concerns about your privacy at Celsias, [please  
-contact us here](mailto:info@celsias.com "Contact Celsias").
+contact us here](mailto:editor@celsias.com "Contact Celsias").
