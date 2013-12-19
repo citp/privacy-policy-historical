@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopify.ca privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424030941id_/http%3A//www.shopify.ca/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopify.ca privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219093815id_/http%3A//www.shopify.ca/legal/privacy) for the most accurate reproduction.*
 
 # Shopify Privacy Statement
 
