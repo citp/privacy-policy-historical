@@ -1,46 +1,134 @@
-> *The following text is extracted and transformed from the anything.lk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613051105id_/http%3A//www.anything.lk/en/colombo/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anything.lk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219113111id_/http%3A//wow.lk/pages/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy - WoW.lk
 
-|  |   
----|---|---  
-| 
+Digital Commerce Lanka (hereinafter referred to as "DCL" "us" "we" or "our") is committed to respect your privacy and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by wow.lk (hereinafter referred to as the “Site”). We at DCL are extremely proud of our commitment to protect your privacy. You can be assured that we will use your personal information only to support your continuing relationship with DCL. We are providing this Privacy Policy to help you understand how we collect, use and protect your information when you visit and/or order products through the Site. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This Privacy Policy should be read in conjunction with the terms and conditions of use for wow.lk and any separate terms and conditions issued by any other third party selling their products on the website [hereinafter referred to as the “Vendor”] whose products are listed herein.
 
-| Privacy Policy   
----  
-|   
----  
-|  Introduction  
----  
-Anything (Pvt) Limited, (herein after referred as Anything) including subsidiaries and affiliates provide you, its Services (herein after referred as “Website”) adhere to the Privacy Policy describe herein.   
-Thank you for visiting our Website (Anything.lk). This privacy policy tells you how we use personal information collected at this Website. Please read this privacy policy before using the Website or submitting any personal information. By using the Website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the Website to make sure that you understand how any personal information you provide will be used.  
-Note: the privacy practices set forth in this privacy policy are for this Website only. If you link to other Websites, please review the privacy policies posted at those sites.  
-   
-Collection of Information  
-Anything collects personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.  
-   
-Tracking (Cookie) Technology  
-The Website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Website, and understanding how visitors use the Website. Cookies can also help customize the Website for visitors. Personal information cannot be collected via cookies and other tracking technology. However, if you previously provided personally identifiable information, cookies may be tied to such information. An aggregate cookie and tracking information may be shared with third parties.  
-   
-Distribution of Information  
-Anything may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.  
-   
-Commitment to Data Security  
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) will have access to this information. All emails and newsletters from this site allow you to opt-out of further mailings.  
-   
-Privacy Contact Information  
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:  
-   
-Anything (Pvt) Limited   
-46 Jawatte Road,  
-Colombo 5   
-Telephone: (+94) 117 208 656  
-[Email: support@anything.lk ](mailto:support@anything.lk)  
-   
-Anything reserves the right to make changes to this policy. Any changes to this policy will be posted on the Website.  
-  
-   
-| 
+* * *
 
-|   
- 
+## Information we receive and how it is used
+
+We collect and store information about you to better enable a more intuitive and customized online retailing experience.
+
+**Your information**
+
+Your information is the information that's required when you sign up for the site, as well as the information you choose to share.
+
+  * **Registration information :** When you sign up for wow.lk, you are required to provide information such as your name, email address, and phone number.
+  * **Information you choose to share :** Your information also includes the information you choose to share via social media sites such Facebook and twitter, such as when you post a status update, upload a photo, or comment on a friend's story.
+  * **Information others share about you :** We may receive information about you via social and offline competition’s that we conduct on a regular basis. This information will be used by us to help us profile and target better offers to you.
+
+
+
+**Your information**
+
+We also receive other types of information about you:
+
+  * We receive data from the computer, mobile phone or other device you use to access wow, including when multiple users log in from the same device. This may include your IP address and other information such as your location, type of sites and pages visited etc.
+  * We receive data whenever you visit a website that is connected, affiliated or runs on the wow.lk platform. 
+  * Sometimes we get data from our advertising partners, agencies, activation partners etc which tells us where you connect to us from and how we can connect with you.
+
+
+
+* * *
+
+## Usage of Data
+
+DCL reserves the right to use and share information received and stored for marketing campaigns conducted for DCL and its Affiliates.
+
+* * *
+
+## Data Security
+
+We use a number of mechanisms (encryption, passwords, physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure. 
+
+* * *
+
+## Usernames and User IDs
+
+A username is your unique ID wow uses to identify you. You are free to browse the site without registering for a user ID as well.
+
+Your user ID and password must be kept secure at all times to avoid online impersonation
+
+* * *
+
+## Deleting and deactivating your account
+
+If you want to stop using your account, you can either  **deactivate**  or  **delete**  it.
+
+<http://www.anything.lk/en/colombo/customer/account/edit/>
+
+* * *
+
+## About social plugins
+
+Wow lets you login via your facebook and google accounts. You can also share wow content , comment on other users posts on the wow social sites. 
+
+Please note your posts will be deemed public and wow will not assume responsibility for any repercussions as a result.
+
+* * *
+
+## Cookies, pixels and other similar technologies
+
+Cookies and pixels are small pieces of data that are stored on your computer, mobile phone or other device.
+
+We use these to
+
+  * Understand your use of wow
+  * Understand how you use the internet, search and discover other products and services
+  * Enable more features and store information about you
+  * Monitor and understand the use of our products and services; and
+  * As a means of providing security for you and other users
+
+
+
+Most companies on the web use cookies (or other similar technological tools), including our advertising and Platform partners. For example, our Platform partners, advertisers or Page administrators may use cookies or similar technologies when you access their apps, ads, Pages or other content.
+
+* * *
+
+## Other General points to note
+
+**Who to contact for any disputes or resolution**
+
+For any disputes regarding our use of data and data privacy please contact
+
+Ahmed Irfan  
+Chief Marketing Officer  
+irfan@anything.lk  
+m. 94777334444 
+
+**Responding to legal requests and preventing harm**
+
+We may share your information based on legal requests and official sanction to prevent harm, crime or as part of an official investigation. Information shared will be your login details, type and nature of online transactions, payment methods and financing arrangements if any. 
+
+**Notifications and Other Messages**
+
+We will send you daily notifications via email or SMS upon your subscription to such content. You are free to unsubscribe to such content by selecting the unsubscribe option in your account settings
+
+**Third Party Content**
+
+DCL, similar to an Internet Service Provider, is a distributor (and not a publisher) of content supplied by third parties and Users. Accordingly, DCL has no more editorial control over such content than does a public library, bookstore or newsstand. Any opinions, advice, statements, services, offers, or other information or content expressed or made available by third parties, including information providers, or any other Users are those of the respective author(s) or distributors) and not of DCL. Neither DCL nor any third-party provider of information guarantees the accuracy, completeness, or usefulness of any content, nor its merchantability or fitness for any particular purpose. In many instances, the content available through this Website represents the opinions and judgments of the respective information provider, user, or other user not under contract with DCL. DCL neither endorses nor is responsible for the accuracy or reliability of any opinion, advice, or statement made on the Website by anyone other than authorised DCL employee spokespersons while acting in official capacities. Under no circumstances will DCL be liable for any loss or damage caused by an user's reliance on information obtained through the Website. It is the responsibility of user to evaluate the accuracy, completeness, or usefulness of any information, opinion, advice, etc., or other content available through the Website.
+
+The Website contains links to third party Web sites maintained by other content providers. These links are provided solely as a convenience to you and not as an endorsement by DCL of the contents on such third-party sites and DCL hereby expressly disclaims any representations regarding the content or accuracy of materials on such third-party Web sites. If user decides to access linked third-party Web sites, user does so at its own risk. Unless you have executed a written agreement with DCL expressly permitting you to do so, you may not provide a hyperlink to the Website from any other website. DCL reserves the right to revoke its consent to any link at any time in its sole discretion.
+
+**Termination**
+
+DCL may terminate this Agreement at any time. Without limiting the foregoing, DCL shall have the right to immediately terminate any passwords or accounts of User in the event of any conduct by User which DCL, in its sole discretion, considers to be unacceptable, or in the event of any breach by User of this Agreement. 
+
+**Indemnification**
+
+User agrees to defend, indemnify and hold harmless DCL, its subsidiaries and Business Associates, and their respective directors, officers, employees and agents from and against all claims and expenses, including attorneys' fees, arising out of the use of this Website and/or the Mini-sites by User.
+
+**Access requests**
+
+you can correct your personal data by clicking on account settings
+
+<http://www.anything.lk/en/colombo/customer/account/edit/>
+
+**Change of Control**
+
+If the ownership of our business changes, we may transfer your information to the new owner so they can continue to operate the service. But they will still have to honor the commitments we have made in this Data Use Policy.
+
+**Notice of Changes**
+
+If we make changes to this Data Use Policy we will notify you (for example, by pulication on the wow.lk homepage under “privacy policy. We will also provide you the opportunity to comment on this change within 7 days of the policy being updated.
