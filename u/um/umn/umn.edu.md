@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081612id_/http%3A//www1.umn.edu/twincities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219104345id_/http%3A//www1.umn.edu/twincities/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -28,5 +28,3 @@ If you have questions about this site, its collection of information, and its on
 
 Effective: February 2000  
 See [Revision History](http://policy.umn.edu/Policies/it/Web/ONLINEPRIVACY.html#900)
-
-* This site uses Google Analytics for gathering statistics about Web traffic. Use of cookies by Google Analytics is covered by their [privacy policy](http://www.google.com/privacypolicy.html). Web pages belonging to this site can be identified by page URLs that begin with the following: http://www.umn.edu/twincities/.
