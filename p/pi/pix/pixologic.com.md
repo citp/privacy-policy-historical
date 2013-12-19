@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixologic.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618111154id_/http%3A//pixologic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixologic.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219011317id_/http%3A//pixologic.com/privacy) for the most accurate reproduction.*
 
 # Pixologic :: Privacy
 
