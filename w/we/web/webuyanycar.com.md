@@ -1,30 +1,36 @@
-> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117222903id_/http%3A//www.webuyanycar.com/PrivacyAndCookiesPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219025614id_/http%3A//www.webuyanycar.com/PrivacyAndCookiesPolicy) for the most accurate reproduction.*
 
-# Sell My Car Online | Privacy Statement
+# Sell My Car Online | Privacy and Cookie Policy
 
-##  Privacy and Cookie Policy
-
-We ask you to provide us with some personal contact information when you use our website. This allows us to provide you with a valuation and details of your nearest webuyanycar.com branch. We may also use your information to send you marketing material such as our monthly newsletter which you may opt-out of at any point.
+We ask you to provide us with some personal contact information when you use our website. This allows us to provide you with a valuation, details of your nearest webuyanycar.com branch and reminders of any appointments you may book with us. We may also use your information to send you marketing material such email newsletters which you may opt-out of at any point.
 
 Your personal information will be held and used in accordance with the Data Protection Act 1998. We will not disclose such information to any unauthorised person or body but where appropriate will use such information in carrying out marketing activity.
 
+You have the right at any time to stop us from contacting you. If you want us to stop contacting you at any time please write to the Marketing Department, webuyanycar.com, Pennine House, Zebra Court, White Moss View, Middleton, Manchester M24 1UN and we will add your details to our suppression list.
+
+To opt-out of email communications you can click the unsubscribe link within the email you have received. Alternatively you can [visit our unsubscribe page](http://www.webuyanycar.com/Unsubscribe) where by entering your email address you will be given the option to opt-out of some, or all email and SMS communications.
+
+To opt-out of SMS communications you can reply to the message received with the word ‘STOP’. Alternatively you can visit our unsubscribe page where after entering the email address used to obtain your valuation you will be given the option to opt-out of SMS communications.
+
+If you have any questions or difficulties unsubscribing from email or SMS communications you can contact us at [talktous@webuyanycar.com](mailto:talktous@webuyanycar.com?subject=Unsubscribe%20enquiry).
+
+You have the right to obtain a copy of the information that we hold about you. You may request correction or removal of any information that you believe to be inaccurate. Any subject access request must be made in writing to the Marketing Department, Pennine House, Zebra Court, White Moss View, Middleton, Manchester M24 1UN.
+
+This privacy policy was last updated on 10th May 2013.
+
 We may sometimes use cookies stored on your computer after visiting our website to deliver personalised adverts while you browse the internet. If you wish to stop such adverts appearing please go to ‘internet options’ in your browser and select ‘clear cookies’.
 
-You have the right at any time to stop us from contacting you. If you want us to stop contacting you at any time please write to the Marketing Department,  webuyanycar.com, Pennine House, Zebra Court, White Moss View, Middleton, Manchester M24 1UN and we will add your details to our suppression list.
+**What are cookies?**
 
-You have the right to obtain a copy of the information that we hold about you. You may request correction or removal of any information that you believe to be inaccurate. Any subject access request must be made in writing to the Marketing Department, Pennine House, Zebra Court, White Moss View, Middleton, Manchester M24 1UN.
+A cookie is a small text file that can be stored by your computer’s hard drive that will then allow the site you are visiting to work, or work more efficiently, as well as provide information to the owner of the site.
 
-This privacy policy was last updated on 29th November 2010
+Like the majority of sites on the internet our site uses cookies. When you visit [www.webuyanycar.com](http://www.webuyanycar.com/) we collect standard internet log information and details of visitor behaviour patterns through the use of these cookies. We do this to find out things such as the number of visitors to the various parts of the site.
 
-**What are cookies, should I be worried?**
-
-Like the majority of sites on the internet our site uses cookies, when you visit www.webuyanycar.com we collect standard internet log information and details of visitor behaviour patterns through the use of these cookies. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone personally and to get the most from our site you will need to have cookies enabled. View this helpful guide to managing cookie. We do also have relationships with carefully-selected and monitored third party supplies, some of which are listed below, who may also set cookies during your visit to be used for remarketing purposes – in other words to show you different products and services based on what you appear to be interested in.
-
-**What actually is a cookie?**
-
-A cookie is a small text file that can be stored by your computer’s hard drive that will then allow the site you are visiting to work, or work more efficiently, as well as provide information to the owner of the site, in this case us, who will, based on this anonymous information, then note the areas that may need improving and improve the experience for you. Have you ever logged onto a site and it has remembered your username and password, a cookie would have done that.
+We collect this information in a way which does not identify anyone personally and to get the most from our site you will need to have cookies enabled. We do also have relationships with carefully-selected and monitored third party suppliers, some of which are listed below, who may also set cookies during your visit to be used for remarketing purposes – in other words to show you different products and services based on what you appear to be interested in.
 
 Cookies do not contain confidential or personal information about you, such as your address, telephone number or credit card details.
+
+**How do we use cookies?**
 
 We will not associate any data gathered from this site with any personally identifying information from any source. To understand more about which cookies we use and why we use them, please see the table below that explains a number of the cookies we use and why we use them.
 
@@ -40,7 +46,7 @@ The cookie records details of:
   * Vehicle transmission
   * Vehicle engine size
   * Vehicle sample image
-  * 3 closest branches and distances
+  * Closest branches and distances
 
 
 
@@ -91,104 +97,66 @@ We are giving you this information as part of our initiative to comply with rece
 
 When you visit webuyanycar.com you may notice some cookies that aren't related to us and carry a different name. If you go on to a web page that contains embedded content, for example from YouTube, you may be sent cookies from these websites, in this example, a YouTube cookie. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
 
-The business partners that may set third party cookies on webuyanycar.com are detailed in the list below.:
+The business partners that may set third party cookies on webuyanycar.com are detailed in the table below.:
 
-_Adobe/ Efficient Frontier_
+**P artner**
 
-**Name - Everesttech.net**
+| 
 
-The EF tracking solution enables us to track the online conversions of keywords and ads via PPC 
+**Name**
 
-This cookie does not collect any personal data. 
+| 
 
-_Criteo_
+**Purpose**
 
-**Name - uid, tst, udc, udi, uic, evt, dis**
+| 
 
-Criteo cookies keep the information of which pages you viewed, and in certain cases which products you bought. This data is anonymous and exclusively meant for statistical treatment. There is absolutely no way for Criteo to personally identify you, this visitor. 
+**More Information**  
+  
+---|---|---|---  
+  
+**Google Analytics**
 
-This is set to expire upto 13 months later. 
+| 
 
-_Maxymiser_
+**_utma, _utmz, _utmb, _utmc**
 
-**Name - pageRefreshed**
-
-This cookie is used to exclude doubling of actions after refreshing page. It is set only for people that get on next page after 'BookView' or people who have refreshed 'BookView'. The cookie will last for 10 seconds. 
-
-This provider is our website testing partner and you maybe shown slightly different version of our site from time to time. These different versions are usually very suttle and relate to things such as the position of a button on the page. This cookie does not collect any personal data
-
-_Brightroll_
-
-**Name - Brightroll**
-
-Brightroll.com is a domain used by Brightroll, an online video ad network. Brightroll use their own tags and pixels in order to deliver targeted advertisements to visitors in their network, and monitor performance of advertising activity. 
-
-There is no relation to personal data or personally identifiable information stored in these cookies. 
-
-_Doubleclick Floodlight_
-
-**Name - Doubleclick**
-
-Brightroll.com is a domain used by Brightroll, an online video ad network. Brightroll use their own tags and pixels in order to deliver targeted advertisements to visitors in their network, and monitor performance of advertising activity. 
-
-There is no relation to personal data or personally identifiable information stored in these cookies. 
-
-_Doubleclick Spotlight_
-
-**Name - Doubleclick**
-
-DoubleClick.net is a domain used by Google and this cookie is used in conjunction with a DoubleClick tag (a.k.a. Web Beacons or Pixel Tags) which is a tiny graphic. These help us deliver targeted advertisements to visitors to our website. 
-
-There is no relation to personal data or personally identifiable information stored in this cookie.
-
-_Google Analytics_
-
-**Name - _utma, _utmz, _utmb, _utmc**
+| 
 
 We use Google Analytics to better understand how our customers navigate to and through our website, how long customers spend visiting our content items and how often they return to visit our website. Google Analytics also assists our marketing colleagues to track the effectiveness of the money we spend on our digital marketing campaigns. Where a customer chooses to try our services, we are keeping an aggregate record of how long this takes. 
 
-Google Analytics cookies are completely anonymous, no personally identifiable information is passed, and is used only to better understand site interaction and improve overall user experience.
+| 
 
-_Affili.net_
+Google Analytics cookies are completely anonymous, no personally identifiable information is passed, and is used only to better understand site interaction and improve overall user experience.  
+  
+**Affili.net**
 
-**Name - affili_9029pv, affili_9029 (where 9029 is the unique advertiser reference)**
+| 
+
+**affili_9029pv, affili_9029 (where 9029 is the unique advertiser reference)**
+
+| 
 
 These cookies show us how you found our website and which website you came from. This helps us know which of our online marketing channels is most effective. They also allow us to reward some external websites for directing you to us. Anonymously track and record online user interactions on webuyanycar.com, when the traffic has originated from a affilinet publisher. 
 
-There is no relation to personal data or personally identifiable information stored in this cookie.
+| 
 
-_Clicktale_
+There is no relation to personal data or personally identifiable information stored in this cookie.  
+  
+**Clicktale**
 
-**Name - WRUID, WRIGNORE**
+| 
 
-This cookie is valid for 1 year and it determines whether a visitor should be recorded or not. If the value of this cookie is 0 then a visitor will not be recorded. If the value is greater than 0 then a visitor will be recorded. The cookie value will remain the same for the 1 year period until it expires. 
+**WRUID, WRIGNORE**
 
-There is no relation to personal data or personally identifiable information stored in this cookie.
+| 
 
-_Xaxis_
+Clicktale allows us to see where visitors look and click on different web pages by recording mouse movements. This cookie is valid for 1 year and it determines whether a visitor should be recorded or not. If the value of this cookie is 0 then a visitor will not be recorded. If the value is greater than 0 then a visitor will be recorded. The cookie value will remain the same for the 1 year period until it expires. 
 
-**Name - t.mookie1**
+| 
 
-This is a tracking cookie designed to keep track of how many times you visit a website and how long you stay, your browser type, your IP address, and other web surfing activities which are sent back to the cookie’s host site and will allow the marketing team to make better more accurate decisions about its marketing spend. 
-
-There is no relation to personal data or personally identifiable information stored in this cookie.
-
-_Yahoo_
-
-**Name - ad.yieldmanager.com**
-
-This is a tracking cookie designed to keep track of how many times you visit a website and how long you stay, your browser type, your IP address, and other web surfing activities which are sent back to the cookie’s host site and will allow the marketing team to make better more accurate decisions about its marketing spend. 
-
-There is no relation to personal data or personally identifiable information stored in this cookie.
-
-_Zap Trader_
-
-**Name - ib.adnxs.com**
-
-This is a tracking cookie designed to keep track of how many times you visit a website and how long you stay, your browser type, your IP address, and other web surfing activities which are sent back to the cookie’s host site and will allow the marketing team to make better more accurate decisions about its marketing spend. 
-
-There is no relation to personal data or personally identifiable information stored in this cookie.
-
+There is no relation to personal data or personally identifiable information stored in this cookie.   
+  
 **Managing Cookies**
 
 By using our site you except that we will drop the above cookies on your machine.
