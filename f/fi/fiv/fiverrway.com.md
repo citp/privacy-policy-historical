@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116042128id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219032158id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Fiverrway - Build your successful microjob website
+# Privacy Policy | Fiverrway - Build Your Successful Micro Job Website
 
 **What information do we collect?**
 
@@ -79,16 +79,11 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on june 17, 2010
+This policy was last modified on January 17, 2013
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://fiverrway.com
-
-Gura Ialomitei str  
-Bucharest, Bucharest 032595  
-Romania  
-fiverrway@fiverrway.com  
-
+[http://fiverrway.com](http://fiverrway.com/)  
+[fiverrway@fiverrway.com](mailto:fiverrway@fiverrway.com)
