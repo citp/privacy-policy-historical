@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617010235id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219231435id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
 
-# Hotpress Privacy Policy
+# Hotpress Privacy Policy | Hot Press
 
 hotpress.com and its associated companies respect your right to privacy and this statement sets out hotpress.com's policy towards safeguarding information which you disclose to us.
 
@@ -16,4 +16,5 @@ You should also be aware that where you link to another website from the hotpres
 
 Finally, you should be aware that personal information which you disclose by way of message boards or chat rooms can be collected and used by third parties who are unknown to you or to hotpress.com. Therefore, hotpress.com gives no guarantees in relation to the security of information which you disclose on line, and you acknowledge and agree that you do so at your own risk. You also acknowledge and agree that there are certain inherent risks in use of the Internet in respect of which hotpress.com has no liability.
 
-hotpress.com reserves the right in its sole discretion to amend this privacy statement at any time, and we should regularly check this privacy statement for any amendments. 
+hotpress.com reserves the right in its sole discretion to amend this privacy statement at any time, and we should regularly check this privacy statement for any amendments.   
+
