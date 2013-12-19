@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listitsellit.us privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620150629id_/http%3A//www.listitsellit.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listitsellit.us privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192822id_/http%3A//www.listitsellit.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ListitSellit.us - Free Classifieds All Ads Run free for 30 days
 
