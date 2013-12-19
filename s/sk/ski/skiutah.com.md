@@ -1,82 +1,65 @@
-> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603154423id_/http%3A//www.skiutah.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219044300id_/http%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Ski Utah - Your information source for skiing, snowboarding, lodging, and planning your vacation to ski Utah.
+# Privacy Policy - Ski Utah - Skiing & Snowboarding Vacations
 
-  
-**Ski Utah** uses its best efforts to protect the privacy of our customers ****. The following discloses the information gathering and dissemination practices for this Web site: [ Ski Utah ](http://www.skiutah.com/)
+Privacy Policy Statement
 
-####  Advertisers 
+This is the web site of Ski Utah  
+Our postal address is   
+150 W 500 S  
+Salt Lake City, UT 84101
 
-We use an outside advertising company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertising company, and we do not have access to this information. 
+We can be reached via e-mail at info@skiutah.com, or you can reach us by telephone at 801-534-1779.
 
-Some customer data is shared with the advertising companies. 
+**Collection and use of non-personal information**
 
-####  Registration Forms 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
+We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-Contact information from the registration forms is used to ship purchases, and information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
+The information we collect is used to improve the content of our Web page.  
+We have the right to reject any user content submitted for publication.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site .
 
-Unique identifiers (such as social security numbers) are collected from Web site visitors for use as account numbers in our record system, and are not shared with other entities.
+If you do not want to receive e-mail from us in the future, please let us know by writing to us at the above address.
 
-####  Order Forms 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the above address.You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by writing to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information such as email addresses. 
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding requests or orders they have placed on-line. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
-Contact information from the order forms is used to ship purchases, and information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing to us at the above address.
 
-####  Contests 
+Upon request we provide site visitors with access to a description of information that we maintain about them.  
+Consumers can access this information by writing to us at the above address.
 
-We run contests on our site in which we ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers.  
+Consumers can have this information corrected by sending us e-mail at the above address.
 
-Contact information from the contests is used to ship purchases, and information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers. 
+**Security of Personal Information**
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-####  External Links 
+**Opt-out**
 
-This site contains links to other sites. **Ski Utah** is not responsible for the privacy practices or the content of such Web sites. 
+You may choose to opt-out of targeted advertising from SkiUtah.com at any time.
 
-####  Public Forums 
+If you do not want to receive targeted ads displayed by SkiUtah.com, please contact Ski Utah at the address or phone number above. When you opt-out of Ski Utah advertising in this manger, opt-out cookie will be written to your browser.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+Ski Utah must maintain the opt-out cookie on your browser in order to recognize you as an opted-out consumer.  You must opt-out again if you clear that cookie from your browser, user a different browser, or use a new computer to access the Internet.
 
-####  Security 
+Even when you opt-out, we will continue to receive information about you, however, we will not sue this information in an advertising program if we read an opt-out cookie on your browser. We may still display ads to you, but those ads will not be tailored based on this information.
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. This web site takes every reasonable precaution to protect our users' information. When you submit sensitive information via the web site, your information is protected both online and off-line. Ski Utah employs security measures provided to us to protect the loss, or misuse, and alterations of the information under our control. 
+**Third Parties**
 
-####  Choice/Opt-Out 
+SkiUtah.com may contain links to other third-party websites. We are not responsible for the privacy practices or the content of these sites. If you have concerns about how other websites collect and use information about you, make sure to read that site’s privacy policy.
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us . 
+This Privacy Statement only applies to information receieved or collected by SkiUtah.com. SkiUtah.com does not control the privacy practices of third parties. Consumers who click on a link or advertisement, visit a third-party site, or interact with third-party content are subject to the privacy poloicies of those third parties, where applicable
 
-  1. You can send email to [ info@skiutah.com ](mailto:info@skiutah.com)
-  2. You can visit the following URL: [ www.skiutah.com/mlist.cgi ](https://web.archive.org/web/20010603154423id_/http%3A//www.skiutah.com/www.skiutah.com/mlist.cgi)
-  3. You can send mail to the following postal address:  Ski Utah 150West 500South SLC, UT 84101 
-  4. You can call the following telephone number: 1-801-534-1779 
+**Statement Changes**
 
-
-
-####  Data Quality/Access 
-
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can send email to [ info@skiutah.com ](mailto:info@skiutah.com)
-  2. You can visit the following URL: [ www.skiutah.com/mlist.cgi ](https://web.archive.org/web/20010603154423id_/http%3A//www.skiutah.com/www.skiutah.com/mlist.cgi)
-  3. You can send mail to the following postal address:  Ski Utah 150West 500South SLC, UT 84101 
-  4. You can call the following telephone number: 1-801-534-1779 
-
-
-
-##  Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-[ info@skiutah.com ](mailto:info@skiutah.com)
+Our privacy policy may change from time to time. We will not reduce your rights under this privacy policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice. 
