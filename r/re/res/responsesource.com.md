@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsesource.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620142703id_/http%3A//www.dwpub.com/w3c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsesource.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219234744id_/http%3A//www.dwpub.com/w3c) for the most accurate reproduction.*
 
 # Privacy policy | DWPub
 
@@ -52,6 +52,8 @@ Daryl Willcox Publishing will use your personal information for several reasons 
 
 We will not sell your personal information to third parties. We do not allow advertisers on our websites.
 
+Like many websites, we also use Google Analytics. These cookies are used to store information such as the time that the current visit occurred, whether the visitor has been to the site before and what site referred the visitor to the web page. User data is all anonymous.
+
 All financial transactions on the Daryl Willcox Publishing are handled through our payment provider, HSBC. You should only provide personal information to HSBC after reviewing the HSBC privacy policy available on their website. Due to the nature of our business we will share your personal information with HSBC only when it is necessary for the purposes of processing payments you make through our website.
 
 ### Who Daryl Willcox Publishing may disclose your personal information to
@@ -62,7 +64,7 @@ We may disclose information about you to any of our Employees, whenever it is re
 
 Cookies are parcels of text sent by a server to a web client (usually a browser) and then sent back unchanged by the client each time it accesses that server. Every time the user visits the webpage the cookie can be used to help identify them.
 
-We use session cookies on all the Daryl Willcox Publishing websites. These cookies help store your navigation preferences, web form information and login details. Session cookies do not reside on your computer permanently and will be deleted within 10 days.
+We use session cookies on all the Daryl Willcox Publishing websites. These cookies help store your navigation & language preferences, web form information and login details. Session cookies do not reside on your computer permanently and will be deleted within 10 days, except when you select any "Remember Me" functionality.
 
 Most modern browsers allow users to decide whether to accept cookies, but rejection makes some websites unusable, including ours.
 
