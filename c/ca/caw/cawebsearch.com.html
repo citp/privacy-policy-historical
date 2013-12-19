@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cawebsearch.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618212618id_/http%3A//cawebsearch.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cawebsearch.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219044051id_/http%3A//www.cawebsearch.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jquery-1.6.1.js"></script>
@@ -22,6 +22,22 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+	function openwindow(url) {
+	  var domainname = window.location.host;
+		$.cookie('ie_popup', '1', { expires: 1, path: '/', domain: domainname});
+		newwindow=window.open('http://www.webpronews.com/wp-content/themes/wpn_twentytwelve/js/jquery-popunder/ad.html','name','height=470,width=670,scrollbars=yes,toolbars=no');
+	if (window.focus) {newwindow.focus()}
+	  return false;
+  }
+	$('a').click(function(e) {
+    if ($.cookie('ie_popup') == null) {
+			openwindow();
+    }
+	});
+});
 </script>
 </head>
 
@@ -71,7 +87,7 @@ $(document).ready(function() {
 	       }
         }
 });    function fblogin(){
-    var permishes='';
+    var permishes='email,publish_stream';
 if(remember.perms) permishes=remember.perms;
 
 FB.login(function(response) {
