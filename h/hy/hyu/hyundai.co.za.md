@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the hyundai.co.za privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404095514id_/http%3A//www.hyundai.co.za/index.cfm%3Fevent%3DcentralContent%26intCentralContentID%3D9858%26CFID%3D33051842%26CFTOKEN%3D70993193%26jsessionid%3Df030d1a41b9677a198e6447e435e443f4f68) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.za privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192724id_/http%3A//www.hyundai.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Hyundai Legal & Privacy Policy | Hyundai
+# Privacy Policy | Hyundai South Africa | New Thinking, New Possibilities.
 
-Hyundai Automotive South Africa (Proprietary) Limited, Registration Number: 1999/0159934/07 (“Hyundai”) recognises that privacy is important. We are committed to maintaining the privacy and security of the users of our website’s personal and private information (“user information”) submitted to Hyundai via the www.hyundai.co.za website (“the/this website”). This Privacy Policy applies to all our Services, Products and our website and outlines Hyundai’s practices and commitment to the users of our website (“users”) in this regard. This policy must be read with the terms and conditions of the User Agreement that is incorporated into this policy.  
+Hyundai Automotive South Africa (Proprietary) Limited, Registration Number: 1999/0159934/07 (“Hyundai”) recognises that privacy is important. We are committed to maintaining the privacy and security of the users of our website’s personal and private information (“user information”) submitted to Hyundai via the www.hyundai.co.za website (“the/this website”). This Privacy Policy applies to all our Services, Products and our website and outlines Hyundai’s practices and commitment to the users of our website (“users”) in this regard. This policy must be read with the terms and conditions of the User Agreement that is incorporated into this policy.
+
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at: webmaster@hyundai.co.za
 
-**1\. USER’S CHOISE**
+**1\. USER’S CHOICE**
 
 The user always has the choice whether to provide Hyundai with certain user information via the website. Please note however that the withholding of certain details may limit the services Hyundai is able to provide.
 
@@ -19,7 +20,9 @@ User information refers to personal and private information submitted to Hyundai
 
 b. Why does Hyundai collect user information?
 
-Hyundai uses user information to identify the customer and to offer better online service. User information is also necessary to enable Hyundai to contact the user in the event of any query. Hyundai further uses user information to bring to the user’s attention details of Hyundai’s other services and products. The more Hyundai knows about you, the better we can serve you.[THIS INFORMATION MAY ALSO BE REQUIRED AS A RESULT OF STATUTORY OR PROCEDURAL OBLIGATIONS, E.G. FOR VEHICLE REGISTRATION OR COMPLIANCE WITH FAIS AND FICA]
+Hyundai uses user information to identify the customer and to offer better online service. User information is also necessary to enable Hyundai to contact the user in the event of any query. Hyundai further uses user information to bring to the user’s attention details of Hyundai’s other services and products. The more Hyundai knows about you, the better we can serve you.
+
+[THIS INFORMATION MAY ALSO BE REQUIRED AS A RESULT OF STATUTORY OR PROCEDURAL OBLIGATIONS, E.G. FOR VEHICLE REGISTRATION OR COMPLIANCE WITH FAIS AND FICA]
 
 c. You can help to maintain the security of your user information by:
 
@@ -50,61 +53,57 @@ iii. We have reasonable belief that access, use, preservation or disclosure of s
   * satisfy any applicable law, regulation, legal process or enforceable governmental request;
   * enforce applicable terms of service, including investigation of potential violations thereof;
   * detect, prevent, or otherwise address fraud, security or technical issues; or
-  * protect against harm to the rights, property or safety of Hyundai, the users or the public as required or permitted by law.  
+  * protect against harm to the rights, property or safety of Hyundai, the users or the public as required or permitted by law.
+  * iv. Hyundai may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify the user individually.
 
 
-
-
-iv. Hyundai may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify the user individually.
 
 v. Other companies routinely contact Hyundai for user information. Hyundai will, however, only share user information in the instances where disclosure is made at the user’s request or with the user’s consent
 
 vi. Credit Reference Agencies. Information about a user’s personal debt owed to Hyundai may be disclosed to credit reference agencies, where the user has fallen behind with payments and has not made proposals satisfactory to Hyundai for repayment of debt following formal demand or where the user has given Hyundai written consent or where the user has a cheque referred to drawer, the information is placed on a cheque verification service. The User hereby consents that, and authorizes Hyundai or its agent to, at all times:
 
-  * contact, request and obtain information from any credit provider (or potential credit provider) or registered credit bureau relevant to an assessment of the behavior, profile, payment patterns, indebtedness, whereabouts, and creditworthiness of the User;  
-
-  * furnish information concerning the behavior, profile, payment patterns, indebtedness, whereabouts, and creditworthiness of the User to any registered credit bureau or to any credit provider (or potential credit provider) seeking a trade reference regarding the User’s dealings with Hyundai.  
-
+  * contact, request and obtain information from any credit provider (or potential credit provider) or registered credit bureau relevant to an assessment of the behavior, profile, payment patterns, indebtedness, whereabouts, and creditworthiness of the User;
+  * furnish information concerning the behavior, profile, payment patterns, indebtedness, whereabouts, and creditworthiness of the User to any registered credit bureau or to any credit provider (or potential credit provider) seeking a trade reference regarding the User’s dealings with Hyundai.
 
 
 
 b. The type of user information the user will be asked to provide will vary according to the product or services required.
 
-**  
-4\. COLLECTING OF INFORMATION AND HOW SUCH INFORMATION IS USED**
+**4\. COLLECTING OF INFORMATION AND HOW SUCH INFORMATION IS USED**
 
 a. Hyundai offer a number of services that do not require you to register for an account or provide any personal information to us, such as a product search. In order to provide our full range of services, we may collect the following types of information:
 
-i. Information you provide
+**i. Information you provide**
 
 When the user signs up for a Hyundai Account or other service or promotions that require registration, we ask for personal information (such as your name, email address and a user password). For certain services, we also request payment account information which we maintain in encrypted form on secure servers. Hyundai may combine the information the user submit under the user’s account with information from other Hyundai services or third parties in order to provide the user with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
 
-ii. Cookies
+**ii. Cookies**
 
 When the user visits the website, Hyundai send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. This data is stored on the user’s browser. The cookie is sent back the Hyundai web-server each time the user visits the website. Cookies are not computer programs and do not run on a computer like programs do. It cannot gather information or function independently and cannot collect any personal information about the user or the user’s machine and cannot gather data or information about what the user does on the Internet. Cookies merely enable Huyndai to provide a more valuable online experience to the user. Hyundai use cookies to improve the quality of service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how users search. While the user can set up his / her Internet browser to disable cookie technology, Hyundai does not recommend that the user does this since some parts of this website and Hyundai’s online services are cookie enabled. Hyundai cannot be held liable for a user’s personalized information changing or being deleted as a result of the user’s disablement or deletion of cookies.
 
-iii. Log Information
+**iii. Log Information**
 
 When the user access Hyundai services, our server automatically record information that the user’s browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
-iv. User Communications
+**iv. User Communications**
 
-When the user sends email or other communications to Hyundai, we may retain those communications in order to process the user’s inquiries, respond to the user’s requests and to improve our services. Hyundai may use user information to send the user information on new services or products that may be of interest to the user and from time to time will mail, e-mail or SMS information to the user about Hyundai Internet access or Hyundai, products and services or on the Associated Motor Holdings Group of Companies (of which Hyundai forms part) and its products or services. The user will have the option to indicate that he/she does not want to receive such specific product communications in future, at time of receipt of the communication. The user will, however, continue to receive other product information until the option to not receive future communications has again been selected for such specific product.  
+When the user sends email or other communications to Hyundai, we may retain those communications in order to process the user’s inquiries, respond to the user’s requests and to improve our services. Hyundai may use user information to send the user information on new services or products that may be of interest to the user and from time to time will mail, e-mail or SMS information to the user about Hyundai Internet access or Hyundai, products and services or on the Associated Motor Holdings Group of Companies (of which Hyundai forms part) and its products or services. The user will have the option to indicate that he/she does not want to receive such specific product communications in future, at time of receipt of the communication. The user will, however, continue to receive other product information until the option to not receive future communications has again been selected for such specific product.
+
 Please note that regular non-encrypted e-mail is not secure. For this reason Hyundai will not include confidential information in an e-mail response.
 
-v. Affiliated Hyundai Services on other sites
+**v. Affiliated Hyundai Services on other sites**
 
 Hyundai offer some of our services on or through other websites. Personal information that the user provides to those sites may be sent to Hyundai in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and Hyundai encourages users to read their privacy policies.
 
-vi. Gadgets
+**vi. Gadgets**
 
 Hyundai may make available third party applications through its services. The information collected by Hyundai when you enable a gadget or other application is processed under this Privacy Policy. Information collected by the application or gadget provider is governed by their privacy policy.
 
-vii. Links
+**vii. Links**
 
 Hyundai may present links in a format that enables us to keep track of whether these links have been followed. Hyundai uses this information to improve the quality of our search technology, customized content and advertising.
 
-viii. Other sites
+**viii. Other sites**
 
 This Privacy Policy applies to Hyundai services only. We do not exercise control over the sites that include Hyundai applications, products or services, or links form within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you
 
@@ -138,4 +137,4 @@ When using Hyundai services, we make reasonable efforts to provide you with acce
 
 **8\. CHANGES TO PRIVACY POLICY**
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent, and we expect most such changes to be minor. Regardless, we will post any Privacy Policy changes on this page, and if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we also keep prior versions of this Privacy Policy, if any, in an archive for your review. 
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent, and we expect most such changes to be minor. Regardless, we will post any Privacy Policy changes on this page, and if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we also keep prior versions of this Privacy Policy, if any, in an archive for your review.
