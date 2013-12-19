@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzahut.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605055232id_/http%3A//www.pizzahut.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219204909id_/http%3A//www.pizzahut.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Pizza Hut
 
@@ -16,7 +16,7 @@
 
   * More Questions?  
 
-  * Our Sites and Children  
+  * Our Privacy Practices and Children  
 
   * Security  
 
@@ -27,7 +27,7 @@
 
 
 **About this Policy**   
-This policy describes our privacy practices for the websites where it is posted. It also applies to our practices for our mobile phone and text programs.
+This policy describes our privacy practices for the platforms where it is posted. This includes websites and apps. It also applies to our practices for our mobile phone and text programs. Except for the "Our Privacy Practices and Children" section, this policy applies to our practices for adult information. To learn more about our privacy practices and children, please [click here](http://www.pizzahut.com/privacypolicy.html#al8).
 
 Back to top »
 
@@ -67,16 +67,15 @@ We use your information as is disclosed at the time we collect the information a
 
 Back to top »
 
-**Information Sharing**  
-< C C C C/tr>
+**Information Sharing**
 
  **We may share your information as follows:**|  **Can you limit?**  
 ---|---  
 **With other Yum! Brands, Inc. companies and brands.** Other companies and brands including KFC and Taco Bell. For a copy of their privacy policies, click on their names in this section.|  **No**  
 **If we think we have to in order to comply with the law.** For example, we will disclose information to respond to a court order or subpoena. We may also disclose if a government agency or investigatory body requests.|  **No**  
 **In the event all or part of Pizza Hut transfers ownership.** For example, if there is a merger, acquisition or similar event, we will share information with the new owner. We may also sell off all or part of our customer lists as part of an asset sale.|  **No**  
-**With our vendors.** For example, we will share information with companies that help us deliver products and services. We also allow third parties like website hosting companies to collect information on our behalf.< Cbr>  
-|  **No**  
+**With our vendors.** For example, we will share information with companies that help us deliver products and services. We also allow third parties like website hosting companies to collect information on our behalf.   
+| **No**  
 **With our business partners in whose products or services we think you may be interested.** For example, if we run a joint promotion, you will be given the option to have your information shared with our co-promotion company. We might also offer another company’s products or services on our website. When necessary, we will give that company your information.|  **In some  
 circumstances**  
   
@@ -106,13 +105,19 @@ Plano, Texas 75024
 
 Back to top »
 
-**Our Sites and Children**
+**Our Privacy Practices and Children**
 
-To our knowledge, we do not collect personally identifiable information from children under 13. Other than our Book IT!® Program website, our sites are also not targeted to children. If you believe we have personally identifiable information about a child under 13, please email us at [customermaniac@pizzahut.com](mailto:customermaniac@pizzahut.com) or call us at 972-338-7700. If you chose to write, please use the address listed above and mark your letter to the attention of " **COPPA - Information Request**." 
+From time to time, we might create a special websites or apps for children. This includes our BookIt! programs. This section of the policy describes our privacy practices for these special offerings.
 
-Under the Children’s Online Privacy Protection Act ("COPPA"), you have the right to review and have any of your child’s information deleted (which you can do by contacting us as described here).You also have the right to refuse to permit further collection or use of your child’s information, also by contacting us as described here.
+**What We Collect and How We Collect It:** We collect limited personally information from children under 13. We only request that kids give us what is reasonably needed for them to participate in an activity. Information we collect might include name, email address, zip code, school grade, and/or age. We might also collect passive information like what activity the child did or completed, or what program the child used (such as, for example, the collection of minutes read, completion of activities, etc., which we may provide to the parent / legal guardian). We may collect this information directly from a child (for example, if they sign up for a promotion). We also collect information using passive tracking tools. 
 
-To learn more about how to protect your child online [read the helpful information provided by the FTC](http://www.onguardonline.gov/), which includes [this consumer education bulletin](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm). Parents, although we do not collect personally identifiable information from children under 13, you should be aware that under the Children's Online Privacy Protection Act, if we did collect such information, we would be prohibited from conditioning a child’s participation in an activity on the child’s disclosure of more personal information than is reasonably necessary to participate in such activity. 
+**How We Use Children's Information:** We use children's information as described in any request for parental consent. Unless permitted by law, we use children's information after getting parental consent. In some circumstances, we may not request parental consent. For example if we are only going to use the information one time to respond to a direct request, or if we are using information obtained from a child to get parental consent. We use children's information to administer our promotions. This might include notifying winners and prize fulfillment. We might also use children's information in connection with our Book It! programs and activities. We use information to improve children’s experiences with our website and our programs. We might use information for security purposes. 
+
+**Information Sharing and Platform Security:** We will share children's information if we're required to by law. We will share it if Pizza Hut transfers ownership. We will also share children's information with vendors who help us run our programs. We do not currently have any platforms that are designed to let children make their information publicly available. We use industry standard security practices to protect information but we cannot guarantee that you are completely secure. This site may have links to other websites that Pizza Hut may not own or operate. Our privacy practices do not apply to those sites. We don't have control over the content of those sites or their information collection practices.
+
+**Parent's Rights:** Under the Children's Online Privacy Protection Act you have the right to review and have any of your child's information deleted. You also have the right to tell us to stop collecting or using your child's information. Please contact us as provided in the [More Questions](http://www.pizzahut.com/privacypolicy.html#al7) section and reference COPPA INQUIRY.
+
+To learn more about how to protect your child online [read the helpful information provided by the FTC](http://www.onguardonline.gov/). Please also read [this consumer education bulletin](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm).
 
 Back to top »
 
@@ -136,8 +141,8 @@ Back to top »
 
 **Policy Updates**
 
-This Policy was updated on April 17, 2012. We will post any changes on the Site's homepage. Check [here](http://quikorder.pizzahut.com/QOcontent2/Files/PDF/PizzaHutWebsitePrivacyPolicy.pdf) for the most recent version of our policy. Where permitted by law, changes to our policy will be applied to information we already maintain. . 
+This Policy was updated on June 24, 2013 to include the Our Privacy Practices and Children section. We will post any changes on the Site's homepage. Check this page for the most recent updates to the Privacy Policy. Where permitted by law, changes to our policy will be applied to information we already maintain. 
 
 Back to top »
 
-**Effective as of April 17, 2012**
+**Effective as of June 24, 2013**
