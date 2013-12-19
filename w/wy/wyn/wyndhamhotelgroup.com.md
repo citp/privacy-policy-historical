@@ -1,36 +1,27 @@
-> *The following text is extracted and transformed from the wyndhamhotelgroup.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613032214id_/http%3A//www.wyndhamhotelgroup.com/terms-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamhotelgroup.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219020104id_/http%3A//www.wyndhamhotelgroup.com/terms-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Wyndham Hotel Group
 
 Close Close
 
-Stay and earn at more than 6,500 hotels and resorts* around the globe:
+Earn points or airline miles for qualified stays at nearly 7,000 locations across 14 hotel brands.
 
-Wyndham Hotels and Resorts®  
-TRYP  
-Wingate by Wyndham  
-Hawthorn Suites®  
-Microtel Inn & Suites by Wyndham®  
-Dream  
-Ramada®
+After just one qualified stay, you can earn enough points to redeem for a reward!
 
-Night  
-Baymont Inns & Suites®  
-Days Inn®  
-Super 8®  
-Howard Johnson®  
-Travelodge®  
-Knights Inn®
+Rewards begin with as few as 250 points!  
+\- Travel Accessories  
+\- Music Downloads  
+\- Magazines  
 
-Earn points or airline miles for qualified stays
 
-Enjoy free nights with no blackout dates†
+Or keep saving your points to redeem for:  
+\- Free Nights – starting at just 5,500 points  
+\- Gift Cards  
+\- Airline Miles  
+\- Merchandise & More  
 
-Choose from hundreds of other rewards such as gift cards, airline tickets and more
 
-Take advantage of exclusive member offers
-
-† Participating properties in the U.S. and Canada only.
+It's FREE to join!
 
 Enjoy all of the exclusive Wyndham Rewards® benefits available; including:
 
@@ -44,7 +35,7 @@ Review Reservation
 
 Search
 
-Review, change, or cancel reservations made online or by phone. If you need additional assistance, please call 1-800-468-8737 (1-605-229-8737 from outside the U.S. and Canada). 
+Review, change, or cancel reservations made on Wyndhamhotelgroup.com. If you need additional assistance, please call 1-800-468-8737 (1-605-229-8737 from outside the U.S. and Canada). 
 
 ## WYNDHAM HOTEL GROUP, LLC
 
@@ -56,11 +47,11 @@ Revised October 2008
 
 We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues.
 
-[Privacy Notice to California Customers](https://web.archive.org/web/20130613032214id_/http%3A//www.wyndhamhotelgroup.com/terms-policy/california_privacy_rights)
+[Privacy Notice to California Customers](https://web.archive.org/web/20131219020104id_/http%3A//www.wyndhamhotelgroup.com/terms-policy/california_privacy_rights)
 
-[Canadian Privacy Policy](https://web.archive.org/web/20130613032214id_/http%3A//www.wyndhamhotelgroup.com/terms-policy/canadian-privacy-policy)
+[Canadian Privacy Policy](https://web.archive.org/web/20131219020104id_/http%3A//www.wyndhamhotelgroup.com/terms-policy/canadian-privacy-policy)
 
-[Politique de confidentialité](https://web.archive.org/web/20130613032214id_/http%3A//www.wyndhamhotelgroup.com/terms-policy/canadian_french_privacy_policy)
+[Politique de confidentialité](https://web.archive.org/web/20131219020104id_/http%3A//www.wyndhamhotelgroup.com/terms-policy/canadian_french_privacy_policy)
 
 **Application**. This policy applies to residents of the United States, hotels of our Brands located in the United States, and Loyalty Program activities in the United States only. We do not accept the jurisdiction of any other laws over the above. This policy also applies only to our Customers. We have a separate policy governing any internet sites or extranet sites accessible only to the Franchisees and/or Brands.
 
