@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favorwarehouse.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619040820id_/http%3A//www.favorwarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favorwarehouse.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219070747id_/http%3A//www.favorwarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,3 +35,14 @@ We use third-party service providers including but not limited to Google, MSN, Y
 They may also use information about your visits to this and other websites to serve targeted advertisements for other goods and services. No personally identifiable information is used in this process.
 
 We also work with a third party to monitor site performance and identify opportunities to improve our products and services. We do not share personally identifiable information with these third parties.
+
+We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics.
+
+Data collected through the use of interest based audience data with Google Analytics is used to inform, optimize, and serve ads based on your browsing history.
+
+None of the date collected by us or through the use of any third party ever collects personally identifiable information under any circumstances.
+
+  * Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+  * You can also opt-out of Analytics Data collection by any site you visit by using the following browser add-on from Google: [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
+
