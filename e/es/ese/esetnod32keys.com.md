@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esetnod32keys.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529012142id_/http%3A//www.esetnod32keysfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esetnod32keys.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219152619id_/http%3A//www.esetnod32keysfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eset nod32 keys 2013,eset nod32 username and password 2013,eset 5 username and password 2013
 
@@ -34,15 +34,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 #### Incoming search terms:
 
   * eset smart security username and password 2013
-  * eset 5 may 2013
-  * http //www esetnod32usernameandpassword com/
-  * username eset nod4 may 2013
-  * esetnod32usernameandpassword
-  * esetnod32 biz
-  * eset nod32 antivirus 4 username and password eav
-  * free eset nod32 may 2013 key
-  * google search eset username keys com
-  * eset nod32 6 username and password 2013 free
 
 
 
