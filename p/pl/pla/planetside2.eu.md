@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetside2.eu privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128180159id_/http%3A//planetside2.eu/pages/privacy%3Fheight%3D70%2525%26iframe%3Dtrue%26style%3Dfalse%26width%3D70%2525) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetside2.eu privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220005631id_/http%3A//planetside2.eu/pages/privacy%3Fheight%3D70%2525%26iframe%3Dtrue%26style%3Dfalse%26width%3D70%2525) for the most accurate reproduction.*
 
 # Privacy - PlanetSide 2 PC Game
 
