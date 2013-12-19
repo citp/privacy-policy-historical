@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theranest.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618025041id_/http%3A//www.theranest.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theranest.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219094559id_/http%3A//www.theranest.com/home/privacy) for the most accurate reproduction.*
 
 # Software for Counselors, Therapists & Social Workers - Privacy
 
