@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the needforseatusa.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617065115id_/http%3A//www.needforseatusa.com/infopage.asp%3Fpage%3D45%26extra%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needforseatusa.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219053355id_/http%3A//www.needforseatusa.com/infopage.asp%3Fpage%3D45%26extra%3D1) for the most accurate reproduction.*
 
-# Privacy Policy
+# NEEDforSEAT USA's privacy policy
 
 The protection of your private information is very important to us. The following details how we handle your confidential data.
 
@@ -28,7 +28,7 @@ You have the right to free information about your stored data at any time as wel
 
 ## Contact party for privacy issues
 
-For questions concerning collection, processing or use of your personal information or for questions concerning accessing of information, amendments, suspension or deletion of data, as well as repealing of previously given authorization, [please use the form on our contact page](https://web.archive.org/web/20130617065115id_/http://www.needforseatusa.com/infopage.asp?page=5). You may also contact us by postal mail using the address provided on that page. 
+For questions concerning collection, processing or use of your personal information or for questions concerning accessing of information, amendments, suspension or deletion of data, as well as repealing of previously given authorization, [please use the form on our contact page](https://web.archive.org/web/20131219053355id_/http://www.needforseatusa.com/infopage.asp?page=5). You may also contact us by postal mail using the address provided on that page. 
 
 ## Revocation of the consent
 
