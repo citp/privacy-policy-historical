@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignitermedia.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620002854id_/http%3A//www.ignitermedia.com/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitermedia.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219055730id_/http%3A//www.ignitermedia.com/resources/privacy) for the most accurate reproduction.*
 
 # Privacy - Igniter Media
 
@@ -55,4 +55,4 @@ We give you the opportunity to remove your name from our postal mailing list so 
 
 #### Contacting Us
 
-If you have comments or questions about our online privacy policy, or would like more information about IM, or are experiencing technical trouble, please [contact us](https://web.archive.org/company/contact).
+If you have comments or questions about our online privacy policy, or would like more information about IM, or are experiencing technical trouble, please [contact us](https://web.archive.org/company/contact.company).
