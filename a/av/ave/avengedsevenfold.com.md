@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avengedsevenfold.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602010933id_/http%3A//www.warnerbrosrecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avengedsevenfold.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219161946id_/http%3A//www.warnerbrosrecords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warner Bros Records
 
