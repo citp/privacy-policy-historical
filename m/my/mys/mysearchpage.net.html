@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mysearchpage.net privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526094925id_/http%3A//www.mysearchpage.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysearchpage.net privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219180629id_/http%3A//www.mysearchpage.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,8 +7,22 @@
             <meta name="keywords" content="Search engine">
 	    <meta name="description" content="Your Personal Seach Page - Find Your Fun">
             <link href="css/style.css" rel="stylesheet" charset="utf-8">
+            <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="js/search.js"></script>
+            <script type="text/javascript">
 
-        </head>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-44563744-1']);
+  _gaq.push(['_setDomainName', 'mysearchpage.net']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>        </head>
 
         <body>
             <div id="container">
@@ -61,14 +75,42 @@
     <div id="footer">
         <br>
         <div class="nav">
-            <a href="/">MySearchPage.net</a> - <a href="privacy.php">Privacy</a> - <a href="terms.php">Terms</a><br>
+            <a href="/">MySearchPage.net</a>     <a href="privacy.php">Privacy</a>    <a href="terms.php">Terms</a><br>
         </div>
-        <div class="copy">Copyright © 2012 MySearchPage.net</div>
+        <!--<div class="copy">Copyright © 2013 MySearchPage.net</div>-->
         
     </div>
     <!--/footer end-->
     </div>
 
+        <script language="javascript">
+            var el = document.getElementById("search_btn");
+            el.addEventListener("click", avoidNSError, false); 
+            function avoidNSError()
+            {
+                var nAgt = navigator.userAgent;
+
+                if ((nAgt.indexOf("Chrome"))!=-1) 
+                {  
+                    _gaq.push(['_trackEvent', 'Search', 'Click']);
+                    
+                }
+                else if((verOffset=nAgt.indexOf("Firefox"))!=-1)
+                {
+                    ElementInterval = setInterval(function () {
+                    /* Tracking or other request code goes here */
+                    _gaq.push(['_trackEvent', 'Search', 'Click']);
+                    clearInterval(ElementInterval);
+                    },100);
+                }
+                else if((verOffset=nAgt.indexOf("MSIE"))!=-1)
+                {
+                    _gaq.push(['_trackEvent', 'Search', 'Click']);
+                }
+            };
+            
+        </script> 
     
+        
     
 </body></html>
