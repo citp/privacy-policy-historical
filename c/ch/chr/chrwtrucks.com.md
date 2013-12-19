@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrwtrucks.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527031141id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrwtrucks.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219090145id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.*
 
 # Global Privacy Policy - C.H. Robinson
 
@@ -93,6 +93,55 @@ To update your preferences, ask us to remove your information from our mailing l
 We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this policy.
 
 If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. C.H. Robinson has certified that it abides by the Safe Harbor privacy principles as set forth by the U.S. Department of Commerce regarding the collection, storage, use, transfer, and other processing of personal data transferred from the EEA or Switzerland to the United States. [Click here](https://web.archive.org/en/us/Privacy-Policy/Safe-Harbor/) to view our Safe Harbor Privacy Policy. For more information about the Safe Harbor privacy principles, visit [export.gov/safeharbor](http://export.gov/safeharbor/).
+
+The following C.H. Robinson entities in Europe may process personal data provided from the C.H. Robinson Europe website and/or may be considered the responsible party under your local law:
+
+C.H. Robinson Worldwide, Inc.: 14701 Charlson Road, Eden Prairie, Minnesota, USA 55347 (No EU VAT#).
+
+C.H. Robinson Europe B.V.: Parnassusweg 821, 1082 LZ Amsterdam, The Netherlands, Registration# 34184256, VAT# NL811514274B01 
+
+C.H. Robinson Belgium BVBA: Noorderplaats 5  
+2000 Antwerp, Registration# 0477976606, VAT# BE 0477976606 
+
+C.H. Robinson Czech Republic s.r.o.: Prague 3, Vinoh•rady, Vinohradskã 2396/184, Postal Code 130 00, Registration# 27250440, VAT# CZ 27250440
+
+C.H. Robinson France SAS: 6, rue du Colonel Rémy 14000 Caen, France, Registration# 322939265, VAT# FR 43322939265 
+
+C.H. Robinson Sourcing SAS: SITE AGROPARC, Bâtiment R.Barthes, BP 71563, 84916 AVIGNON CEDEX 9, France, Registration# 512330283, VAT# FR59512330283 
+
+C.H. Robinson Worldwide GmbH: Heidenkampsweg 100 Hamburg 20097, Germany, Registration# B 31 797, VAT# DE 118656348 
+
+C.H. Robinson Hungaria Szallitmanyozasi Kft.: Office Garden 2, Aliz utca. 2 1117 Budapest, Hungary, Registration# 01-09-706042, VAT# HU 12840937 
+
+C.H. Robinson Worldwide (Ireland) Limited: Unit 20, Shannon Business Centre, Shannon, County Clare, Registration# IE 90538, VAT# IE8233049C
+
+C.H. Robinson International Italy, S.r.l.: Viale Del Mulino 1 - Palazzo U10 Livello 2° 20090 Assago Milanofiori (MI) Italy, Registration# 04741940961, VAT# IT 04741940961 
+
+C.H. Robinson Luxembourg S.a.r.l.: Cubus C3 4 Rue Peternelchen Howald, 2370 Luxembourg, Registration# B 141.488, VAT# LU23145858
+
+C.H. Robinson Poland sp. z o.o.: Al Jana Pawla II 29 Warsaw, 00-867 Poland, Registration# 000013499, VAT# PL 5291481922 
+
+C.H. Robinson Ibérica, S.L.: Calle Gurdubay 5, Madrid, 28001, Spain, Registration# 8-73792, VAT# ESB 80434756
+
+C.H. Robinson Worldwide (UK) Limited: Units 8/9, Blackthorne Crescent Colnbrook SL3 0QR, United Kingdom, Registration# 1383545, VAT# GB 225433289 
+
+C.H. Robinson Sweden AB: Spannramen 1, Adress Göteborgsvägen 175, Post.nr 50463 Borås Sweden Registration # 556817-1390, VAT# SE556817139001
+
+C.H. Robinson Polska, S.A.: ul. Ostroroga 24 C, 01-163 Warszawa, Poland Registration Nr: (KRS) 0000281670 VAT Nr: PL525-23-92-290 
+
+Apreo Logistics GmbH: Rosenthalstrasse 30, 42369 Wuppertal, Germany Registration Nr: (HRB) 23411 VAT Nr: DE276568094 
+
+CHROBINSON Logistics and Transport Services Limited (Turkey): Veko Giz Plaza, Meydan Sokak No 3/45, Kat: 14, Oda: 1401, 34396, Maslak, Instanbul, Turkey, Registration # ITO - 856134, VAT# TR 209 056 8121, tax ID 2090568121
+
+Phoenix International Freight Services, Ltd. (Ireland): International Logistics Centre, Unit 1, North West Business Park, Ballycoolin, Dublin 15, Ireland, Registration # 304282, VAT# IE6324282V
+
+Phoenix International Freight Services, Ltd. (UK): Unit 2 Sycamore Rd, Trent Lane Ind Est, Castle Donington, Derby DE74 2NP United Kingdom, Registration Nr: 1447025, VAT Nr. GB30 970 32 68
+
+Phoenix International Freight Services, Ltd. (France): 165 Avenue du Bois de la pie, Parc de reflets – ZAC Paris Nord II, BP 18371, Roissy CDG Cedex 95706, Registration # 510036148, VAT# FR95510036148
+
+C.H. Robinson Switzerland GmbH: Stänzlergasse 4, Basel, 4051 Switzerland, Registration # CHE-374.524.846, VAT# CHE-374.524.846
+
+C.H. Robinson Austria GmbH: Kaiserjägerstraße 1 Innsbruck 6020, Austria, Registration # FN 401953 h, VAT# ATU 68252669 
 
 **How We Protect Personal Information**
 
