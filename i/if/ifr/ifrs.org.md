@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610144733id_/http%3A//www.ifrs.org/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219040946id_/http%3A//www.ifrs.org/Pages/PrivacyStatement.aspx%236) for the most accurate reproduction.*
 
 # IFRS - Privacy Statement and Cookies
 
@@ -68,9 +68,9 @@ The Foundation will also collect information to perform anonymised, statistical 
 
 * **Cookies**
 
-We may use technology to track the patterns of behaviour of visitors to the Site. This can include using a 'cookie', pieces of information that are transferred to an individual user's hard drive for record keeping purposes. At the present time, the cookie stores some information which you enter into the Site. This includes your name, log-in status, confirmation that you have read our terms and conditions and items in your shopping basket. It is possible for the Foundation to retrieve the information stored in the cookie. 
+We may use technology to track the patterns of behaviour of visitors to the Site. This can include using a 'cookie', pieces of information that are transferred to an individual user's hard drive for record keeping purposes. At the present time, the cookie stores some information which you enter into the Site and our eIFRS Web App. This includes your name, log-in status, confirmation that you have read our terms and conditions and (in relation to our Web Shop) items in your shopping basket. It is possible for the Foundation to retrieve the information stored in the cookie. 
 
-We use 'cookies' on this site to enable our system to recognise your computer and allow us to see how you use the Site. Most browsers allow you to stop receiving cookies. However, you should be aware that if you do disable cookies, you may not be able to log in, into registered user areas, or use our web shop. 
+We use 'cookies' on this site to enable our system to recognise your computer and allow us to see how you use the Site and the eIFRS Web App. Most browsers allow you to stop receiving cookies; however, you should be aware that if you do disable cookies, you may not be able to log in, into registered user areas, or use our Web Shop and/or our eIFRS Web App. 
 
 The cookies function by saving your Site preferences - as a result it is possible to speed up your future activities at the Site and allow the Foundation to provide you with information specifically tailored to your interests. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. To modify your browser settings click on the help section of your Internet browser and follow the instructions. 
 
