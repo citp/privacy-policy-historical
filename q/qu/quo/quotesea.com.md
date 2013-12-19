@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426044049id_/http%3A//www.quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219170616id_/http%3A//www.quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -45,5 +45,9 @@ quotesea will occasionally update this Statement of Privacy to reflect company a
 ### Random quotes
 
   
+
+
+[](https://web.archive.org/quotes/by/don-cooper)
+
   
 
