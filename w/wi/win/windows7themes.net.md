@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows7themes.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602013038id_/http%3A//windows7themes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7themes.net privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219214557id_/http%3A//windows7themes.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,11 +14,11 @@ support@windows7themes.net
 
 At www. **windows7themes.net** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.windows7themes.net and how it is used.
 
-### Log Files
+## Log Files
 
 Like many other Web sites, www.windows7themes.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### Cookies and Web Beacons
+## Cookies and Web Beacons
 
 www.windows7themes.net uses cookies to enhance downloads, but we do not collect any private information in any way and will never do.
 
