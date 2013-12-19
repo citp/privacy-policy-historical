@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mhfi.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506164936id_/http%3A//www.mhfi.com/tools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhfi.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219043905id_/http%3A//www.mhfi.com/privacy) for the most accurate reproduction.*
 
-# McGraw Hill Financial | Corporate Customer Privacy Policy
+# McGraw Hill Financial | Corporate Privacy Policy
 
 **Revised and posted May, 2013**
 
@@ -37,6 +37,6 @@ McGraw Hill Financial is committed to using all reasonable efforts to abide by t
 
 The Corporation also has a standing Privacy Steering Committee, which oversees implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and Customer expectations.
 
-The Co-Chairs of the Committee are also charged with handling unresolved Customer concerns. You can reach the Co-Chairs by writing to McGraw Hill Financial’s Privacy Manager at [privacy@mhfi.com](mailto:privacy@mhfi.com) or Privacy, McGraw Hill Financial, 1200 G Street, NW, Suite 200, Washington, D.C. 20005. To ensure that we follow our stated Policy, we conduct periodic and random reviews of our web sites and other products and services. The results of our reviews are shared with senior management. In addition, a [Report to Customers](https://web.archive.org/tools/privacy/customer-report) is made available annually.
+The Co-Chairs of the Committee are also charged with handling unresolved Customer concerns. You can reach the Co-Chairs by writing to McGraw Hill Financial’s Privacy Manager at [privacy@mhfi.com](mailto:privacy@mhfi.com) or Privacy, McGraw Hill Financial, 1200 G Street, NW, Suite 200, Washington, D.C. 20005. To ensure that we follow our stated Policy, we conduct periodic and random reviews of our web sites and other products and services. The results of our reviews are shared with senior management. In addition, a [Report to Customers](https://web.archive.org/privacy/customer-report) is made available annually.
 
-Please read our [Corporate Privacy and Cookie Notice](https://web.archive.org/tools/privacy/corporate-privacy-and-cookie-notice), which applies specifically to any PII that may be collected through our Corporate web site.
+Please read our [Corporate Privacy and Cookie Notice](https://web.archive.org/privacy/corporate-privacy-and-cookie-notice), which applies specifically to any PII that may be collected through our Corporate web site.
