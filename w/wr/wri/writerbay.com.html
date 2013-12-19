@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the writerbay.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602213227id_/http%3A//www.writerbay.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the writerbay.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219044841id_/http%3A//www.writerbay.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    
+        <meta name="robots" content="noindex, nofollow">     
+            
 <title>WriterBay.com - Privacy Policy</title>
 <meta name="description" content="Freelance writing jobs for professionals. Join us NOW and increase your income.">
 <meta name="keywords" content="freelance writing services, freelance writing jobs online, freelance writing work">
+
 
     <link href="http://www.writerbay.com/main.css" rel="stylesheet" media="all" type="text/css">
     <link href="http://www.writerbay.com/jquery.autocomplete.css" rel="stylesheet" media="all" type="text/css">
@@ -14,6 +16,64 @@
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.writerbay.com/jquery.min.js"></script>
     <script type="text/javascript" src="http://www.writerbay.com/jquery.popupWindow.js"></script>
     <script type="text/javascript" src="http://www.writerbay.com/jquery.autocomplete.min.js"></script>
+    <script type="text/javascript" src="graph/jquery.min.js"></script>
+    
+    <script type="text/javascript">
+jQuery.noConflict();
+</script>
+<script type="text/javascript">
+
+(function($){ 
+
+$(function () {
+    var chart;
+    
+    $(document).ready(function () {
+
+        $('#container').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false
+            },
+            title: {
+                text: ''
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true
+                    },
+                    showInLegend: false
+                }
+            },
+            series: [{
+                type: 'pie',
+                name: 'Continent',
+                data: [
+                    ['North America',   45.0],
+                    ['Europe',       26.8],
+                    ['Asia',     12.8],
+                    ['South America',    8.5],
+                    ['Other',     6.2]
+                ]
+            }]
+        });
+    });
+    
+});
+})(jQuery);
+</script>
+<!--[if lt IE 9]>
+
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+
+<![endif]-->
 </head>
 <body>
 <script type="text/javascript">
@@ -31,7 +91,7 @@
 
 </script>
 
-<div id="float_info" style="background-color: #000000; padding: 15px; position: absolute; z-index: 10; right: 0px; top: 300px; opacity: 0.8;">
+<div id="float_info" style="background-color: #000000; padding: 15px; position: absolute; z-index: 10; right: 0px; top: 300px; opacity: 0.8;border-radius: 4px 0 0 4px;">
     <span style="color: #ffffff; font: bold 14px Arial;">Need help?</span><br>
     <a style="color: #ffffff; font: 13px Arial;" href="http://www.writerbay.com/contact-us.html">Send us an email</a><br>
     <span style="color: #ffffff; font: bold 14px Arial;">Call us:</span><br>
@@ -50,7 +110,9 @@
        	
        </div>	
        <a class="top_menu_element" style="top: 25px; height: 50px; width: 230px;" title="freelance writing jobs online" href="http://www.writerbay.com/"></a>
-	   <a class="top_menu_login" style="top: 25px; margin-left: 855px; height: 50px; width: 100px;" title="freelance writing jobs online" href="https://manage.writerbay.com/"></a>
+	   <a href="https://www.facebook.com/pages/Writerbay/510788708989888"><img title="Facebook" style="position:absolute;margin:33px 0 0 245px;" src="img/social/facebook.png" height="40"></a>
+	   <a href="https://twitter.com/TwittWriterbay"><img title="Twitter" style="position:absolute;margin:33px 0 0 290px;" src="img/social/twitter.png" height="40"></a>
+	   <a class="top_menu_login" style="top: 25px; margin-left: 855px; height: 50px; width: 100px;" title="freelance writing jobs online" href="https://admin.writerbay.com/"></a>
        <a class="top_menu_apply" style="top: 74px; margin-left: 855px; height: 170px; width: 100px;" href="http://www.writerbay.com/apply.html#apply"></a>
        <a class="top_menu_element apply_button" href="http://www.writerbay.com/apply.html#apply">Apply now</a>
        <div style="position: absolute; margin-top: 83px;">
@@ -139,8 +201,20 @@ piwikTracker.enableLinkTracking();
 </div>
 <div class="footer" align="center">
   <div class="footer_info">
+
     <!--<a style="display:block;position:absolute;margin-left:800px;margin-top:70px;" href="http://www.dmca.com/Protection/Status.aspx?ID=d42292c4-8940-424a-af9b-2359b6d5c2e4" title="DMCA"> <img src="http://images.dmca.com/Badges/dmca_protected_24_120.png?ID=d42292c4-8940-424a-af9b-2359b6d5c2e4"  alt="DMCA.com" /></a>-->
-	<div>© Copyright WriterBay.com All Rights Reserved.&nbsp;&nbsp;<a href="http://www.writerbay.com/privacy-policy.html">Privacy Policy</a> | <a href="http://www.writerbay.com/agreements.html">Terms of Use</a> | <a href="http://www.writerbay.com/contact-us.html">Contact Us</a></div>
+       <div>© Copyright WriterBay.com All Rights Reserved.&nbsp;&nbsp;<a href="http://www.writerbay.com/privacy-policy.html">Privacy Policy</a> | <a href="http://www.writerbay.com/agreements.html">Terms of Use</a> | <a href="http://www.writerbay.com/contact-us.html">Contact Us</a> | <a href="http://www.writerbay.com/plagiarism.html">Plagiarism</a> | <a href="http://www.writerbay.com/payoneer.html">Payoneer</a>
+     
+      <ul class="footer_menu">
+        <li class="fmitem"><a href="http://india.writerbay.com/">Freelance Writing Jobs in India</a></li>
+        <li class="fmitem"><a href="http://usa.writerbay.com/">Freelance Writing Jobs in USA</a></li>
+        <li class="fmitem"><a href="http://uk.writerbay.com/">Freelance Writing Jobs in United Kingdom</a></li>
+        <li class="fmitem"><a href="http://philippines.writerbay.com/">Freelance Writing Jobs in Philippines</a></li>
+        <li class="fmitem"><a href="http://canada.writerbay.com/">Freelance Writing Jobs in Canada</a></li>
+	<li class="fmitem"><a href="http://science.writerbay.com/">Online Jobs for Technology Writers and Math Experts</a></li>
+     </ul>
+    </div>
+
       <!--<ul>
         <li><a href="http://www.writerbay.com/freelance-writer-jobs.html">Freelance Writer Jobs</a></li>
         <li><a href="http://www.writerbay.com/resume-writing-jobs.html">Resume Writing Jobs</a></li>
