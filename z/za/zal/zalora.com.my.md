@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.com.my privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602052048id_/http%3A//www.zalora.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.my privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219180415id_/http%3A//www.zalora.com.my/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -98,6 +98,10 @@ When you visit ZALORA, our company servers will automatically record information
 
 
 This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information. 
+
+As part of the above, ZALORA may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the Google Ads Settings (https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+ZALORA also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show ZALORA ads on sites across the Internet. ZALORA and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to ZALORA, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to ZALORA.
 
   
 
