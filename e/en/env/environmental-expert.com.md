@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the environmental-expert.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531205809id_/http%3A//cms.environmental-expert.com/administration/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmental-expert.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219100641id_/http%3A//xprt.com/administration/privacy.asp) for the most accurate reproduction.*
 
-# Environmental Expert.com. Environmental Business Information Center.
+# XPRT Business Information Center.
 
 So that you can better protect your privacy, Environmental Expert provides this notice explaining our online information practices and the choices you can make about the way your personal information is collected and used. If you do not agree with the practices explained in this policy, do not complete the User Registration form. 
 
@@ -64,4 +64,4 @@ Environmental Expert also links to a wide variety of other web sites. We are not
 
 Environmental Expert reserves the right to change this policy as required. Users who have signed up to use Environmental Expert will be notified of significant changes using the e-mail of record in their user profile. Users who have not signed up should review this policy periodically or prior to any subsequent use. 
 
-If you have any questions regarding this policy or wish to be removed from our database please [**contact us**](https://web.archive.org/web/20130531205809id_/http%3A//cms.environmental-expert.com/administration/contact_us.asp)
+If you have any questions regarding this policy or wish to be removed from our database please [**contact us**](http://xprt.com/PYB/contact_us.asp)
