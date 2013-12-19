@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602190719id_/http%3A//leadid.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219191326id_/http%3A//leadid.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # View LeadiD's Privacy Policy | LeadiD
 
