@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606043854id_/http%3A//www.stamps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamps.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219154329id_/http%3A//www.stamps.com/privacy-policy) for the most accurate reproduction.*
 
 # Stamps.com - Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.stamps.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Stamps-com/validation?rid=1309d495-3b11-485c-9f5a-00036c741dca "TRUSTe online privacy certification")
 
-Last updated: November 20, 2012
+Last updated: October 15, 2013
 
 Stamps.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-**NOTICE:[Click here](http://onguardonline.gov/index.html) for important information about safe surfing from the U.S. federal government.**
+**NOTICE:[Click here](http://www.onguardonline.gov/) for important information about safe surfing from the U.S. federal government.**
 
 What This Privacy Policy Covers
 
@@ -29,7 +29,7 @@ Information Collection and Use
     * Track the number of entries in our promotions.
     * Customize the advertising and content you see.
   * If you are uncomfortable having a cookie placed on your system, you may elect to turn off the cookie or delete existing cookies in your browser. If you turn off or delete the Stamps.com cookie, you may not be able to receive special offers or personalized content from Stamps.com.
-  * We use a third party tracking utility service that uses cookies to track and analyze aggregate user movement. We use a software technology called clear gifs that help us better manage content on our site by informing us what content is effective. We also use clear gifs and JavaScript in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. The clear gifs are not tied to any personally identifiable information by Stamps.com.
+  * We use a third party tracking utility service that uses cookies to track and analyze aggregate user movement. We use a software technology called clear gifs that help us better manage content on our site by informing us what content is effective. We also use clear gifs and JavaScript in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. The clear gifs are not tied to any personally identifiable information by Stamps.com. The use of cookies by our marketing and advertising partners is not covered by our privacy policy and we do not have access or control over these cookies. Cookies established by Stamps.com based on referrals from our marketing and advertising partners may change the advertising content and promotional offers you see.
 
 
 
@@ -41,7 +41,7 @@ Information Use Sharing and Customer Choice
     * Stamps.com uses credit card processors to provide services on our behalf. When you use our services, we will share your credit card and payment data as necessary for our credit card processors to provide that service. Stamps.com's credit card processors are prohibited from using your personally identifiable information for any other purpose.
     * We may use information provided to Stamps.com from the customer registration process to contact you if you do not complete the registration to see if you need assistance or are still interested in becoming a customer. You expressly consent that we may contact the phone number or email address provided to Stamps.com for this purpose.
     * We provide information to trusted partners who work on behalf of or with Stamps.com under confidentiality agreements. These companies may use your personal information to help Stamps.com communicate with you, for example, an e-mail service provider that helps Stamps.com administer e-mails or a third party calling service. These companies are acting on behalf of Stamps.com, and may not use or share this information for their own purposes.
-    * Stamps.com is regulated by the United States Postal Service (USPS). As part of the regulatory relationship, Stamps.com collects certain information about you on behalf of the USPS. The USPS also may send us tracking data from their scans of your mail and packages in the mailstream. Our uses for the data include informing you about the status of your mail and packages through options like Delivery Confirmation, fraud detection and aggregating the data to help the USPS and us provide you with better service. To learn more about the USPS's privacy policy, please visit the [USPS Privacy Policy](https://web.archive.org/go?http://www.usps.com/privacypolicy/). To learn more about USPS postage technology, PC Postage® and Stamps.com's relationship with the USPS, please visit the [USPS Postage Solutions](https://web.archive.org/go?https://www.usps.com/business/online-postage.htm) page.  
+    * Stamps.com is regulated by the United States Postal Service (USPS). As part of the regulatory relationship, Stamps.com collects certain information about you on behalf of the USPS. The USPS also may send us tracking data from their scans of your mail and packages in the mailstream. Our uses for the data include informing you about the status of your mail and packages through options like USPS Tracking, fraud detection and aggregating the data to help the USPS and us provide you with better service. To learn more about the USPS's privacy policy, please visit the [USPS Privacy Policy](http://about.usps.com/who-we-are/privacy-policy/welcome.htm). To learn more about USPS postage technology, PC Postage® and Stamps.com's relationship with the USPS, please visit the [USPS Postage Solutions](https://www.usps.com/business/online-postage.htm) page.  
 Information collected on behalf of USPS is used for their regulatory oversight function and is not used for other purposes.
     * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
     * We share information we believe is needed in order to investigate, prevent, or take action regarding suspected illegal activities, actual fraud, potential threats to the physical safety of any person, violations of Stamps.com's Service Agreement, or as otherwise required by law.
@@ -62,22 +62,25 @@ Confidentiality and Security
 
 
 
+Additional Information
+
+  * Links to Third Party Sites. Our site includes links to other Web sites whose privacy practices may differ from those of Stamps.com. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+  * Blogs. Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as set forth below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * Social Media Widgets. Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
+
 Changes to this Privacy Policy
 
-  * Stamps.com may update this policy. If we decide to change our privacy policy, we will post those changes to this privacy policy Web site, the Stamps.com Web site, and other places we deem appropriate so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-  * In the event Stamps.com materially changes the way it collects or uses personally identifiable information, we will notify users via email or by posting a notice on our Web site for 30 days.
+      * Stamps.com may update this policy. If we decide to change our privacy policy, we will post those changes to this privacy policy Web site, the Stamps.com Web site, and other places we deem appropriate so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+      * In the event Stamps.com materially changes the way it collects or uses personally identifiable information, we will notify users via email or by posting a notice on our Web site for 30 days prior to the change becoming effective.
 
+Access and Data Retention
 
-
-Access
-
-  * You may review the personal information the Stamps.com has collected from you by reviewing your account information in the Stamps.com software. Stamps.com will correct or delete any inaccurate information upon your request. In addition, you may access your account information through the email links provided in promotional emails sent to you by Stamps.com or in your welcome email.
-
-
+      * You may review the personal information the Stamps.com has collected from you by reviewing your account information in the Stamps.com software. Stamps.com will correct or delete any inaccurate information upon your request. In addition, you may access your account information through the email links provided in promotional emails sent to you by Stamps.com or in your welcome email.
+      * We will retain your personal information for as long as your account is active or as needed to provide you services. We will also retain and use your information as necessary to comply with our legal or regulatory obligations, resolve disputes, and enforce our agreements.
 
 Questions and Suggestions
 
-  * If you have questions or suggestions, please contact us at:
+      * If you have questions or suggestions, please contact us at:
 
 Stamps.com Inc.  
 Customer Care – Privacy Policy Issues  
@@ -85,13 +88,10 @@ Customer Care – Privacy Policy Issues
 El Segundo, CA 90245-5013  
 (310) 482-5800
 
-
-
-
 TRUSTe Privacy Program
 
-  * Stamps.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.stamps.com](http://www.stamps.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-  * The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the www.stamps.com site.
-  * If you have questions or concerns regarding this statement, you should first contact Customer Care as set forth above. If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process ([http://www.truste.org/consumers/watchdog_complaint.php](https://web.archive.org/go?http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will serve as a liaison with the Web site to resolve your concerns.
-
+      * Stamps.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) (http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+      * The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the www.stamps.com site.
+      * If you have questions or complaints regarding our privacy policy or practices, please contact Customer Care as set forth above. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+  
 
