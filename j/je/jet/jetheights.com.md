@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetheights.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510083010id_/http%3A//jetheights.com/contact-us/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetheights.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219032252id_/http%3A//jetheights.com/contact-us/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs in Nigeria at Jetheights Jobs
 
@@ -10,9 +10,9 @@ If you need more information or have questions about our policy, please feel fre
 
 We have created this Privacy Policy to demonstrate our firm commitment to protecting your privacy. This privacy policy applies solely to information collected in the[ Jetheights](http://jetheights.com/ " Jetheights").com website (the “Site”) and does not apply to any other information or web site, you can visit. Please check this Privacy Policy periodically as we update from time to time. This Privacy Policy is effective as of October 1, 2010. Each time you visit the site or provide us with information, you accept the practices described in this privacy policy at that time. You agree that by using the Site, you expressly and affirmatively consent to our use and disclosure of information that you provide, and your consent to receive email alerts or[ jobs](http://jetheights.com/ " jobs") if you are a subscriber.
 
-At[ Jetheights](http://jetheights.com/forum " Jetheights").com, the privacy of our visitors is very important to us.
+At Jetheights.com, the privacy of our visitors is very important to us.
 
-This privacy policy document defines ways how personal information is received and collected[ Jetheights](http://jetheights.com/forum " Jetheights").com and how it is used.
+This privacy policy document defines ways how personal information is received and collected Jetheights.com and how it is used.
 
 Logs
 
