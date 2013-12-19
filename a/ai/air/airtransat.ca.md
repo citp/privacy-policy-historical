@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024071116id_/http%3A//www.airtransat.ca/en/Footers/Footer/Privacy-policy-and-Legal-notice%3FID%3D765%26type%3Dgamme%26tmpl%3DGEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219130337id_/http%3A//www.airtransat.ca/en/Footers/Footer/Privacy-policy-and-Legal-notice%3FID%3D765%26type%3Dgamme%26tmpl%3DGEN) for the most accurate reproduction.*
 
 # Privacy | Air Transat
 
@@ -178,7 +178,7 @@ Should an individual feel that this Policy is not being complied with or should 
 
 ## Terms and Conditions of Carriage 
 
-Click [here](http://media.transattravel.com/Airtransat/_pdf/sched_EN_tarif.pdf) to open the Tariff containing rules applicable for the transportation of passengers and baggage or goods between points in Canada in the one hand and points outside Canada on the other hand.
+Click [here](http://staticcontent.transat.com/airtransat/pdf/EN/Tariff.pdf) to open the Tariff containing rules applicable for the transportation of passengers and baggage or goods between points in Canada in the one hand and points outside Canada on the other hand.
 
 ## Terms of use for the Air Transat site
 
@@ -189,6 +189,14 @@ Welcome to the site www.airtransat.ca (the “ **Site** ”). This Site provides
 We invite you to return and visit this page regularly, because it will be updated regularly. We reserve the right, upon our discretion, to modify in any which manner the present terms of use, without any prior notice. If you continue to access this present Site, and to use it, it signifies that you accept the modifications made to the Contract.
 
 You may terminate your agreement to be bound by the terms and conditions hereof by ceasing to use this Site and by destroying all information obtained from this Site together with any copies thereof and related documentation. Air Transat may terminate the Contract represented by your use of this Site at any time without notice if you breach any terms or conditions of the use of this Site. Such termination is without prejudice to all other rights and remedies which Air Transat may have at law as a result of your violation of the terms and conditions of the use of this Site.
+
+**Cookie**
+
+A cookie is a small non-executable file that is stored on your hard drive for the purpose of identifying your computer. This website uses cookies to remember information you gave use so that you don’t have to re-enter the information each time you visit this website. Cookies also help us understand which areas of our site are popular by showing us how you and others use our sites.
+
+While it is possible to make a booking on this website by having your browser’s Internet security set such that it will not accept cookies your online experience may be greatly reduced. Our cookies are not tied to personally identifiable information.
+
+This privacy statement covers the use of cookies by Air Transat only and does not cover the use of cookies by any third parties. Some of our business partners use cookies on our site. We have no access to or control over these cookies.
 
 **Jurisdiction**
 
