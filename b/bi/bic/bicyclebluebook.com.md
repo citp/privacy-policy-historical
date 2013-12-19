@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bicyclebluebook.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514222200id_/http%3A//www.bicyclebluebook.com/privacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicyclebluebook.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219060336id_/http%3A//www.bicyclebluebook.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - Bicycle Blue Book
+# Privacy Policy - Used Bikes - Bicycle Blue Book
 
-Bicycle Blue Book, LLC ("we," "our," and "us") believes that trust is the basis for successful communities and successful merchants. We fully understand that you care how information about you is used and shared, and we appreciate your trust that we will do so with a high level of security. We are committed to respecting your privacy and recognizing your need for appropriate protection and management of information that we collect from you. We (1) provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from us.
+Bicycle Book, LLC, DBA: Bicycle Blue Book ("we," "our," and "us") believes that trust is the basis for successful communities and successful merchants. We fully understand that you care how information about you is used and shared, and we appreciate your trust that we will do so with a high level of security. We are committed to respecting your privacy and recognizing your need for appropriate protection and management of information that we collect from you. We (1) provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from us.
 
 ##### Collecting Information About You
 
