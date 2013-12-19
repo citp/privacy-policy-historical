@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alisonkrauss.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327103411id_/http%3A//musiccitynetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alisonkrauss.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219114536id_/http%3A//musiccitynetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Music City Networks
 
