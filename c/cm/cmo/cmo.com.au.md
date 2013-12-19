@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmo.com.au privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614234233id_/http%3A//www.cmo.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmo.com.au privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219040454id_/http%3A//www.cmo.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CMO
 
@@ -6,7 +6,7 @@
 
 This website is owned and operated by IDG Communications Pty Ltd. (“IDG Australia”) ABN 14 001 592 650.
 
-IDG Australia is the owner and operator of: ARN, CIO Australia, Computerworld Australia, Australian PC World, CSO Australia, GoodGearGuide, Techworld, CFO World, CMO and the associated websites and the subdomains of these websites. IDG Australia is a subsidiary of International Data Group, Inc.
+IDG Australia is the owner and operator of: ARN, CIO Australia, Computerworld Australia, Australian PC World, CSO Australia, GoodGearGuide, Techworld, CFO World, CMO, CIO New Zealand, Computerworld New Zealand, PC World New Zealand, New Zealand Reseller News, and the associated websites and the subdomains of these websites. IDG Australia is a subsidiary of International Data Group, Inc.
 
 The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including, Computerworld, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes computerworld.com, cio.com, csoonline.com, infoworld.com, idgconnect.com, idgconnect.co.uk networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/). The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
 
@@ -49,7 +49,7 @@ There are two main ways we collect information from you:
 
 IDG Australia and its suppliers may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. IDG Australia may employ trusted third party specialists to process your data on our behalf in order to deliver the products and services to you in a more efficient manner.
 
-This personal data is stored on IDG Australia computers in Australia, and, because IDG Australia is part of the IDG Publishing Network, may be transferred to, stored and processed, inside Australia and/or outside of Australia by other members of our Group. In addition, if you consent to receive offerings from third party organisations, this personal data remains with IDG Australia who will send the third party offerings to you. Except as set forth below with regard to the provision of free resources, at no time will your personal data be transferred to such third party organisations. Finally, as stated above, your personal data may be transferred to and stored by third party specialists engaged by IDG to assist in the provision of the content and services you request. Such vendors may be located inside or outside of Australia. In all cases, we will only transfer your personal data outside Australia when IDG Australia can ensure that the recipient of the information is subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles.
+This personal data is stored on IDG Australia computers or cloud infrastructure (with multifaceted security mechanisms), managed in Australia, and, because IDG Australia is part of the IDG Publishing Network, may be transferred to, stored and processed, inside Australia and/or outside of Australia by other members of our Group. In addition, if you consent to receive offerings from third party organisations, this personal data remains with IDG Australia who will send the third party offerings to you. Except as set forth below with regard to the provision of free resources, at no time will your personal data be transferred to such third party organisations. Finally, as stated above, your personal data may be transferred to and stored by third party specialists engaged by IDG to assist in the provision of the content and services you request. Such vendors may be located inside or outside of Australia. In all cases, we will only transfer your personal data outside Australia when IDG Australia can ensure that the recipient of the information is subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles.
 
 From time to time IDG Australia and/or the IDG Publishing Network may invite you to register in order to receive such offerings as magazines, email newsletters, enter competitions, and receive goods or services from IDG Australia and/or the IDG Publishing Network websites. This may require you to confirm personal data such as your name, email address, and mailing address postcodes. This information is required by IDG Australia for security purposes, and enables IDG Australia to supply a reasonable level of services to users and our advertisers. We may also ask for information such as job function, job title, industry sector, company/ name and country. During registration, you will also be asked to choose a user name and password for future access to the relevant Website(s).
 
@@ -71,9 +71,28 @@ Except as otherwise set forth in this policy, IDG does not share any of your per
 
 **Ad Serving Technology**
 
-IDG Australia has contracted with DoubleClick, Google and other advertising serving technlology providers to serve all advertising on the IDG Network comprised of Web sites and email newsletters. When one of these providers serves ads to the user, it uses cookies to track certain types of non-personally identifiable information: for example, a user's IP address, browser version or type, operating system, service provider, and local time. In addition, IDG uses clear GIFs, or pixel tags, provided by DoubleClick to allow the browser's cookie to be recognised when the browser visits an IDG site. Information collected and shared through this technology is not personally identifiable (i.e., it does not include your name, address, telephone number, or email address). DoubleClick does share non-personally identifiable information, such as user profiles based on clickstream profile data, with IDG, but strictly in aggregate form.
+IDG Australia has contracted with DoubleClick, Google and other advertising serving technology providers to serve all advertising on the IDG Network comprised of Web sites and email newsletters. When one of these providers serves ads to the user, it uses cookies to track certain types of non-personally identifiable information: for example, a user's IP address, browser version or type, device name or type, operating system, service provider, and local time. In addition, IDG uses clear GIFs, or pixel tags, provided by DoubleClick to allow the browser's cookie to be recognised when the browser visits an IDG site. Information collected and shared through this technology is not personally identifiable (i.e., it does not include your name, address, telephone number, or email address). DoubleClick does share non-personally identifiable information, such as user profiles based on clickstream profile data, with IDG, but strictly in aggregate form.
 
-For more details about the information DoubleClick collects and the opportunity to opt out of such data collection, please visit: <http://www.doubleclick.net/privacy_policy>.
+For more details about the information DoubleClick collects and the opportunity to opt out of such data collection, please visit: <http://www.google.com.au/policies/technologies/ads/>.
+
+**Cookies**
+
+Cookies are pieces of information that are sent from a website and stored in a user's browser.
+
+IDG Australia websites may use cookies for the following purposes:
+
+  * To remember any preferences a user may have set while browsing one of IDG Australia's websites.
+  * To track usage patterns that help us improve our content and display relevant advertising to our users.
+
+
+
+The following sites provide instructions on how to manage cookies in commonly used browsers.
+
+  * Google Chrome - <https://support.google.com/chrome/answer/95647?hl=en>
+  * Mozilla Firefox - <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
+  * Microsoft Internet Explorer - <http://windows.microsoft.com/en-AU/internet-explorer/delete-manage-cookies>
+
+
 
 **IP Addresses**
 
@@ -81,7 +100,7 @@ Our Web server automatically records a visitor's domain and IP address. We use t
 
 **Security**
 
-IDG Australia has security measures in place to protect the loss, misuse, and alteration of the information we control. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall Web security. Access to personal user data is also limited to the database administrator(s).
+IDG Australia has security measures in place to protect the loss, misuse, and alteration of the information we or our cloud services providers, control. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall Web security. Access to personal user data is also limited to the database administrator(s).
 
 **Opt-Out**
 
@@ -111,4 +130,4 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-**LAST UPDATED** : May 3, 2013
+**LAST UPDATED** : August 15, 2013
