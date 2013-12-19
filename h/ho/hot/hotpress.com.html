@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the hotpress.com privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617010235id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotpress.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219231435id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<title>Hotpress Privacy Policy | Hot Press</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Hot Press is Ireland's legendary and highly controversial Music, Pop Culture, Entertainment, Politics &amp; Opinion Magazine. Featuring Music News, Reviews, Interviews, Movies, Gossip, Photo Galleries, Videos, Sex and much more">
-<title>Hotpress Privacy Policy</title>
+<meta name="description" content="hotpress.com and its associated companies respect your right to privacy and this statement sets out hotpress.com's policy towards safeguarding information which you disclose to us.">
 <link rel="stylesheet" type="text/css" href="/hpmastercss.css">
 <link rel="stylesheet" type="text/css" href="/css/hpnav-home.css">
 <link rel="stylesheet" type="text/css" href="/hparticletemplatecss.css">
@@ -43,7 +43,7 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2112208/0/225/ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2112208/0/225/ADTECH;loc=100;target=_blank;grp=560;misc=1580351704196"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/949/2112208/0/225/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/949/2112208/0/225/ADTECH;loc=300" border="0" width="728" height="90"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2112208/0/225/ADTECH;loc=100;target=_blank;grp=527;misc=1580351703871"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/949/2112208/0/225/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/949/2112208/0/225/ADTECH;loc=300" border="0" width="728" height="90"></a></noscript>
 <!-- End of JavaScript Tag --></div>
 <div id="signup"><p>not a member? <a href="/registration/">click here</a> to sign up</p></div>
 
@@ -53,13 +53,54 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 
 
 <div id="login"></div>
-<div id="usernamelogin"><form action="/login.php" method="post"><input type="text" name="username" value="Username"></form></div>
+<div id="usernamelogin"><form action="/login.php" method="post"><input class="loginfield" type="text" name="username" value="Username"></form></div>
                 <input type="hidden" name="return_url" value="/articles/article.php">
-         <div id="password"><input type="password" name="password"></div>
-<div id="loginbutton"><input type="image" class="loginbutton" src="/images/redesign/loginbutton.gif"></div>
+         <div id="password"><input class="loginfield" type="password" name="password"></div>
+<div id="loginbutton"><input type="image" class="loginbutton" src="/images/redesign/loginbutton.gif"></div><div id="forgotpass"><p><a href="/registration/reg_password_forgot.php">forgot password?</a></p></div>
+
 
 <div id="searchlogin"><form action="/archive/archive.php" method="post"><input class="searchbox" type="text" name="terms" value="Search Hot Press"></form></div>
 <div id="searchbuttonlogin"><input type="image" class="loginbutton" src="/images/redesign/search.gif"></div>
+
+<div id="facebookloginlogout">
+
+    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId: '<?php echo $facebook->getAppID() ?>',
+          cookie: true,
+          xfbml: true,
+          oauth: true
+        });
+        FB.Event.subscribe('auth.login', function(response) {
+          // alert('login');
+          window.location = '/users/fb-post-login.php';
+        });
+        FB.Event.subscribe('auth.logout', function(response) {
+          // alert('logout');
+          window.location = '/users/fb-post-logout.php';
+        });
+      };
+      (function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+          '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+      }());
+    function fbAuth() {
+        FB.login(function(response) {
+          if (response.authResponse) {
+            // alert('User fully authorize the app.');
+          } else {
+            // alert('User canceled login or did not fully authorize the app.');
+          }
+    }, { scope: 'email' });
+}
+    </script>
+
+</div>
+
 <div id="facebookicon"><a href="http://www.facebook.com/hotpressmagazine" class="imagelink" target="_blank"><img src="/images/redesign/facebook_32x32.png" class="pictureaslink"></a></div>
 <div id="twittericon"><a href="http://www.twitter.com/hotpress" class="imagelink" target="_blank"><img src="/images/redesign/twitter_32x32.png" class="pictureaslink"></a></div>
 </div>
@@ -74,7 +115,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
     <li><a href="/features/" id="features">Features</a></li>
     <li><a href="/politics/" id="politics">Politics</a></li>
     <li><a href="/features/filmreviews/" id="movies">Movies</a></li>
-    <li><a href="/features/comedy/" id="comedy">Comedy</a></li>
+    <li><a href="/fashion/" id="fashion">Fashion</a></li>
     <li><a href="/sex/" id="lifestyle">Lifestyle and Sex</a></li>
     <li><a href="/av/" id="multimedia">Audio and Video</a></li>
     <li><a href="/photos/" id="photos">Photos</a></li>
@@ -103,6 +144,8 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 
 
 <!-- HP ARTICLE CONTENT  -->
+<div id="articletopsection">
+
 <div id="articletemplatewrapper">
 
 <!-- ARTICLE LEFT COLUMN START -->
@@ -112,17 +155,29 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <div id="articlesubhead"><p class="articlesubhead">hotpress.com and its associated companies respect your right to privacy and this statement sets out hotpress.com's policy towards safeguarding information which you disclose to us.</p></div>
 <div id="dateposted">
 <p class="dateposted">
-, 01 Jan 2010</p>
+ 01 Jan 2010
+ </p>
+
+<script type="text/javascript">var switchTo5x=false;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "e9fcd341-c09f-46c5-8b69-a1f66be6fa98", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+<br><br>
+<span class="st_facebook_large" displaytext="Facebook"></span>
+<span class="st_twitter_large" displaytext="Tweet"></span>
+<span class="st_linkedin_large" displaytext="LinkedIn"></span>
+<span class="st_pinterest_large" displaytext="Pinterest"></span>
+<span class="st_googleplus_large" displaytext="Google +"></span>
+<span class="st_reddit_large" displaytext="Reddit"></span>
+<span class="st_sharethis_large" displaytext="ShareThis"></span>
+<span class="st_email_large" displaytext="Email"></span>
 </div>
   
 <div id="articlecontent"><img src="/images/redesign/defaults/hotpress_460x280.jpg" class="articleimage"><p class="articlefirstpara">While hotpress.com will never wilfully disclose information relating to you which could be used to identify you on an individual basis to any third party without first receiving your express permission, you acknowledge that hotpress.com may disclose certain registration information in the aggregate to a third party, or may use this information to direct information relating to topics, goods or services to you which we feel will be of interest to you.</p><p class="articlebody">In any case, where hotpress.com asks you for personal information, such as your name and address, from which you can be identified on an individual basis, we will only do this where we require that information for specific purposes, for example registration.  In every case, we will let you know what we intend doing with that information before collecting it, so that you can decide whether or not to furnish that information to us.  If at any time after giving us this information you decide that you no longer wish us to hold or use this information, or in the case that the information becomes out of date, you are free to notify us, and we will use all reasonable endeavours to remove or rectify the information promptly.</p><p class="articlebody">You acknowledge and agree that in certain circumstances we may be obliged to disclose personal information relating to you to third parties, for example, in order to conform to any requirements of law or to comply with any legal process, as well as to protect and defend the rights of property of hotpress.com and/or our other customers.</p><p class="articlebody">You should be aware that each time you visit a website, general information about your visit is retained.  Statistical and other analytical information is collected on an aggregate and non-individual specific basis of all browsers who visit the site.  This statistical and analytical information provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page and site at which they exited.  This information helps us monitor traffic on our website, so that we can manage the website's capacity and efficiency.  It also helps us to understand which parts of this website are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the website.  This type of non-personal information and data can be collected through the standard operation of our Internet servers and logs as well as "cookies".  One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables you to deny or accept cookies.  However, you should realise that cookies may be necessary in order to provide you with certain features such as the customised delivery of certain information.</p><p class="articlebody">You should also be aware that where you link to another website from the hotpress.com website, that hotpress.com has no control over that other website.  Accordingly, hotpress.com cannot guarantee that the controller of that website will respect your privacy in the same manner as hotpress.com.  </p><p class="articlebody">Finally, you should be aware that personal information which you disclose by way of message boards or chat rooms can be collected and used by third parties who are unknown to you or to hotpress.com.  Therefore, hotpress.com gives no guarantees in relation to the security of information which you disclose on line, and you acknowledge and agree that you do so at your own risk.  You also acknowledge and agree that there are certain inherent risks in use of the Internet in respect of which hotpress.com has no liability.</p><p class="articlebody">hotpress.com reserves the right in its sole discretion to amend this privacy statement at any time, and we should regularly check this privacy statement for any amendments.
-<br><br>
-<span class="articleBody">
-<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;services=reddit%2Cdigg%2Cfacebook%2Cmyspace%2Cdelicious%2Cstumbleupon%2Ctechnorati%2Cgoogle_bmarks%2Cyahoo_bmarks%2Cyahoo_myweb%2Cwindows_live%2Cpropeller%2Cfriendfeed%2Cnewsvine%2Cxanga%2Cmixx%2Cblinklist%2Cfurl%2Cmagnolia%2Cmister_wong&amp;style=default&amp;publisher=e9fcd341-c09f-46c5-8b69-a1f66be6fa98&amp;headerbg=%230d0d0c&amp;linkfg=%23907f4f"></script>
-</span>
+<br>
 </p></div>
 
-<div id="postedby"><p class="articleauthor"></p><div id="sharethis"><span class="st_sharethis" displaytext="ShareThis"></span></div></div>
+<div id="postedby"><p class="articleauthor"></p></div>
 </div>
 <!-- ARTICLE LEFT COLUMN END -->
 
@@ -132,7 +187,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <div id="articleisland"></div>
 <div id="artistrelatedcontentheader"><img src="/images/redesign/relatedcontent.gif" alt="Related Content"></div>
 
-<!-- MOST RECENT ARTICLES - Donal I intend to have the 5 newest artitles related to the artist appear here -->
+<!-- MOST RECENT ARTICLES -->
 <div id="latestrelatedarticles">
 <div id="latestrelatedarticlesheader">
   <p class="artistcontentheader">Latest Articles by </p>
@@ -140,18 +195,18 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <div id="mostrecentarticles">
 </div></div>
 
+<div id="latestrelatedvideos">
+<div style="width: 300px; height: 400px;" breakingburner-widget="HotPress/music"><script src="http://widget.breakingburner.com/js/jwidget.js"></script></div><iframe src="http://widget.breakingburner.com/ad/5165178417de85667f000000" height="250" width="300" id="breakingburner-iframe" frameborder="no" scrolling="no"></iframe>
+</div>
+
 </div>
 <!-- ARTICLE RIGHT COLUMN END -->
 
+</div> <!-- articletemplatewrapper -->
 
-</div>
-<!-- ARTICLE CONTENT END -->
-
-<!-- RELATED ARTICLEs START -->
-<!-- RELATED ARTICLEs END -->
 <!-- RIGHTHANDSIDE COLUMN CONTENT START -->
 <div id="hprighthandsidecontent">
-<a href="/2893481.html" style="text-decoration: none"><img src="http://www.hotpress.com/store/images/adm/9/9915/9915214_37-11.gif" width="165" border="0"></a><!--JavaScript Tag with group ID // Tag for network 949: Hot Press // Website: Hotpress.com // Page: ROS // Placement: ROS-Right-180 x 30 (2128987) // created at: Jul 2, 2009 1:42:42 PM-->
+<a href="http://www.hotpress.com/The-Pixies/news/Inside-the-new-Hot-Press/10385570.html" style="text-decoration: none"><img src="http://www.hotpress.com/store/images/adm/10/10601/10601213_Lilly-Allen-Cover-3724LR.jpg " width="165" border="0"></a><!--JavaScript Tag with group ID // Tag for network 949: Hot Press // Website: Hotpress.com // Page: ROS // Placement: ROS-Right-180 x 30 (2128987) // created at: Jul 2, 2009 1:42:42 PM-->
 <script language="javascript">
 <!--
 if (window.adgroupid == undefined) {
@@ -159,7 +214,7 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2128987/0/2220/ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2128987/0/2220/ADTECH;loc=100;target=_blank;grp=560;misc=1580351704206"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/949/2128987/0/2220/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/949/2128987/0/2220/ADTECH;loc=300" border="0" width="180" height="30"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2128987/0/2220/ADTECH;loc=100;target=_blank;grp=527;misc=1580351703925"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/949/2128987/0/2220/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/949/2128987/0/2220/ADTECH;loc=300" border="0" width="180" height="30"></a></noscript>
 <!-- End of JavaScript Tag --><!--JavaScript Tag with group ID // Tag for network 949: Hot Press // Website: Hotpress.com // Page: ROS // Placement: ROS-Right-160 x 600 (2112209) // created at: Jun 9, 2009 12:53:59 AM-->
 <script language="javascript">
 <!--
@@ -168,16 +223,23 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2112209/0/154/ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2112209/0/154/ADTECH;loc=100;target=_blank;grp=560;misc=1580351704207"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/949/2112209/0/154/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/949/2112209/0/154/ADTECH;loc=300" border="0" width="160" height="600"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/949/2112209/0/154/ADTECH;loc=100;target=_blank;grp=527;misc=1580351703929"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/949/2112209/0/154/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/949/2112209/0/154/ADTECH;loc=300" border="0" width="160" height="600"></a></noscript>
 <!-- End of JavaScript Tag -->
 </div>
 <!-- RIGHTHANDSIDE COLUMN CONTENT ENDS -->
+
+</div> <!-- End of articletopsection -->
+<!-- ARTICLE CONTENT END -->
+
+
+<!-- RELATED ARTICLEs START -->
+<!-- RELATED ARTICLEs END -->
 <!-- FOOTER STARTS -->
 <div id="hpfooter">
 <div id="footerleftcol">
 <div id="footerheading"><p class="footerheader">hotpress.com</p></div>
 <div id="mainfooterlinks"><ul>
-	<li><a href="http://www.hotpress.com/news/">News</a></li>
+	<li><a href="http://www.hotpress.com/latestnews/">News</a></li>
     <li><a href="http://www.hotpress.com/music/">Music</a></li>
    <li> <a href="http://www.hotpress.com/freemusicfriday/">Free Music Friday</a></li>
     <li><a href="http://www.hotpress.com/features/">Features</a></li>
@@ -202,8 +264,8 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 </div>
 
 <div id="footerheading"><p class="footerheader"></p></div>
-<div id="facebookfooter"><a href="http://www.facebook.com/home.php" class="imagelink"><img src="/images/redesign/facebook.png" class="pictureaslink"></a></div>
-<div id="twitterfooter"><a href="http://twitter.com/#!/hotpress" class="imagelink"><img src="/images/redesign/twitter.png" class="pictureaslink"></a></div>
+<div id="facebookfooter"><a href="https://www.facebook.com/hotpressmagazine" class="imagelink" target="_blank"><img src="/images/redesign/facebook.png" class="pictureaslink"></a></div>
+<div id="twitterfooter"><a href="http://twitter.com/#!/hotpress" class="imagelink" target="_blank"><img src="/images/redesign/twitter.png" class="pictureaslink"></a></div>
 
 </div>
 <div id="footermidcol">
@@ -213,11 +275,10 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <div id="footerlinks">
   <ul>
   	<li></li>
-	<li><a href="http://wordpress.hotpress.com/thecword/">Celina Murphy: The C Word</a></li>
   	<li><a href="http://wordpress.hotpress.com/annesexton/">Anne Sexton: Sexed Up</a></li>
-    
    <li> <a href="http://wordpress.hotpress.com/screenlover/">Roe McDermott: Screen Lover</a></li>
     <li> <a href="http://wordpress.hotpress.com/robsmith/">Rob Smith: Footbal El Mundo</a></li>
+<li><a href="http://wordpress.hotpress.com/moviesyoumighthavemissed/">Niall O'Flynn: Movies You Might Have Missed</a></li>
       </ul></div>
 <div id="footerheading">
   <p class="footerheader">Additional Sites on hotpress.com</p>
@@ -229,7 +290,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
     <li> <a href="http://www.hotpress.com/rockphoto/">Hot Press Rock Photo</a></li>
     <li> <a href="http://www.philiplynottexhibition.com/index.php">The Philip Lynott Exhibition</a></li>
 <li><a href="http://www.hotpress.com/homegrownsessions/">The INEC Homegrown Sessions</a></li>
-<li><a href="http://www.hotpress.com/htconephotojournalism">HTC One Hotpress Photojournalist </a></li>
+<li><a href="http://www.hotpress.com/htctakeone/">HTC TakeOne!</a></li>
 <li> <a href="http://www.hotpress.com/genrefree">Genre Free Compilation</a></li>
 <li> <a href="http://mix.hotpress.com">MIX 13: Music Industry Xplained</a></li>
 <li> <a href="http://www.hotpress.com/shoottothrill/">Shoot To Thrill: Make a Hot Press Cinema Ad</a></li>
@@ -240,9 +301,9 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <li> <a href="http://www.hotpress.com/joshritter/">Josh Ritter</a></li>
 <li> <a href="http://www.hotpress.com/eoinglackin/">Eoin Glackin</a></li>
 <li> <a href="http://www.hotpress.com/bitterrocc/">Bitter Rocc</a></li>
-
-  </ul></div>
-
+<li> <a href="http://www.hotpress.com/videoarchive/">Hot Press Video Archive</a></li>
+<li> <a href="http://hotpress.com/thewritetouch">The Write Touch</a></li>
+</ul></div>
 </div>
 <div id="footerrightcol">
 <div id="footerheading"><p class="footerheader">Contact Us</p></div>
@@ -285,8 +346,8 @@ Click<strong> <a href="http://www.hotpress.com/1278263.html">here</a></strong> t
 <!-- WRAPPER CLOSING DIV -->
 </div>
 
-<script type="text/javascript" src="scripts/jquery-1.4.3.min.js"></script>
-    <script type="text/javascript" src="scripts/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="/scripts/jquery-1.4.3.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.nivo.slider.pack.js"></script>
     <script type="text/javascript">
     $(window).load(function() {
         $('#slider').nivoSlider();
