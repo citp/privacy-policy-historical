@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618233343id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219123615id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,7 +18,7 @@ Users may opt-out of receiving future mailings; see the choice/opt-out section b
 Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with us or to provide any other personal information. If you're under 13, please do not provide us with any personal information about yourself.
 
 **External Links**  
-This site contains links to other sites. **The Owl Pages** is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **The Owl Pages** is not responsible for the privacy practices or the content of such Web sites. Linking to any site does not mean that The Owl Pages endorses or recommends any product or service thereon.
 
 **Public Forums**  
 This site uses forums, and in the future, may make chat rooms, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
