@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the starfishsolutions.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514072819id_/http%3A//www.starfishsolutions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfishsolutions.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219091202id_/http%3A//www.starfishsolutions.com/privacy.php) for the most accurate reproduction.*
 
 # About | Starfish Retention Solutions
 
 ### Privacy Policy
 
-**Updated March 6, 2012**
+**Updated October 4, 2013**
 
-The following privacy policy applies to personal data collected at the [www.starfishsolutions.com](https://web.archive.org/web/20130514072819id_/http%3A//www.starfishsolutions.com/www.starfishsolutions.com) Web site, and data collected for the Starfish CONNECT™ or Starfish EARLY ALERT™ offerings (collectively, the "Services"). Starfish Retention Solutions, Inc. and its affiliates (collectively "Starfish") are committed to protecting the privacy of its users. Because Starfish gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services. If you are using any of the Services through an educational or other institution that is a customer of Starfish, this policy does not supersede the terms of any agreements between Starfish and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party. Please make sure that you read the terms of any privacy policies that you enter into with parties other than Starfish, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties. 
+The following privacy policy applies to personal data collected at the [www.starfishsolutions.com](https://web.archive.org/web/20131219091202id_/http%3A//www.starfishsolutions.com/www.starfishsolutions.com) Web site, and data collected for the Starfish CONNECT™ or Starfish EARLY ALERT™ offerings (collectively, the "Services"). Starfish Retention Solutions, Inc. and its affiliates (collectively "Starfish") are committed to protecting the privacy of its users. Because Starfish gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services. If you are using any of the Services through an educational or other institution that is a customer of Starfish, this policy does not supersede the terms of any agreements between Starfish and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party. Please make sure that you read the terms of any privacy policies that you enter into with parties other than Starfish, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties. 
 
 Please review the following statement to understand how the information you provide to Starfish through the Services will be treated. 
 
@@ -46,14 +46,14 @@ All of your personal information is stored on servers at a location designed spe
 
 #### 7\. European Union Data Protection
 
-If you reside in the European Union, upon registration you will be indicating your explicit consent that the personal information you have provided may be transferred and stored in countries outside the EU, including the United States. If you fail to provide your consent, you will not be permitted to access the Services for which registration is required. Starfish abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+If you reside in the European Union, upon registration you will be indicating your explicit consent that the personal information you have provided may be transferred and stored in countries outside the EU, including the United States. If you fail to provide your consent, you will not be permitted to access the Services for which registration is required. Starfish complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Starfish has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Starfish’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
 In order to comply with the European Union's Safe Harbor Principles, Starfish commits to the resolution of complaints about your privacy and our collection or use of your personal information. We have committed to resolve any complaints by European Union citizens relating to this policy, which cannot be resolved directly with our company, through the EU Safe Harbor Dispute Resolution Procedure administered by the Council of Better Business Bureaus, Inc. 
 
 If you have any questions regarding this policy, please contact: 
 
-John Plunkett   
-Vice President of Marketing & Operations   
+Chris Kottke   
+Vice President of Finance & Administration   
 Starfish Retention Solutions, Inc.   
 1400 Key Boulevard, Suite 1050   
 Arlington, VA 22209   
