@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getolympus.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615122333id_/http%3A//www.getolympus.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getolympus.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219110044id_/http%3A//www.getolympus.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olympus
 
