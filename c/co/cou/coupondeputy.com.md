@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondeputy.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611104503id_/http%3A//coupondeputy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondeputy.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219073758id_/http%3A//coupondeputy.com/privacy.php) for the most accurate reproduction.*
 
 # CouponDeputy.com Privacy Policy
 
