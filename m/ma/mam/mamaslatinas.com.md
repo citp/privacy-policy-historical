@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mamaslatinas.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508184156id_/http%3A//www.mamaslatinas.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamaslatinas.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219104747id_/http%3A//www.mamaslatinas.com/about/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MamásLatinas
 
-**Effective: June 29, 2012** For the prior Privacy Policy, please click [here](http://www.mamaslatinas.com/about/archive/privacy_policy_07_12.php). 
+**Effective: June 05, 2013** For the prior Privacy Policy, please click [here](http://www.mamaslatinas.com/about/archive/privacy_policy_06_13.php). 
 
 At MamásLatinas, CMI Marketing, Inc. d/b/a MamásLatinas ("MamásLatinas") is committed to maintaining your privacy and your trust. This Privacy Policy explains how we collect, protect, use and share information about you when you use the MamásLatinas website (the "Site"). We hope this information increases your confidence in MamásLatinas and enhances your experience on our Site. Each time that you use the Site, you signify that you agree to be bound by the Terms of Service and this Privacy Policy. If you do not agree to the terms of this Privacy Policy you must discontinue using the Service and terminate your membership if you are a registered user. 
 
@@ -75,7 +75,9 @@ _Members_
 
 If you are a Member, we may use your Data, regardless of where we gathered such information, to determine what type of ad to display to you on the Sites. In addition, we may send certain demographic information, like ZIP code, age, and gender to our advertising network providers, so that the advertising you see is more relevant to you. These advertising network providers will only use such information to display an ad to you on the Site. 
 
-**Third Party Ad Servers.** We may use third party advertising technology to serve ads when you visit our Site. We may from time to time use various outside ad-serving companies to serve advertisements across the internet and on our Site. They may collect anonymous information about your visits to the Site and your interaction with our Service. They may also use information about your visits to the Site and other websites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or cookies, which are industry standard technologies, used by most major websites. No personally identifiable information is collected or used in this process from our Site. If you would like more information about this practice and to know your choices about not having this anonymous information used by a third party service provider, please visit these sites:<http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices/>. 
+_Interest-Based Advertising_
+
+For information on how MamásLatinas uses various technologies to features ads relevant to your interests, [**click here**](http://www.mamaslatinas.com/about/interest_based_ads.php). 
 
 **Sale of Business or Assets.** In the event that MamásLatinas, substantially all of its assets, or a line of business is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, PII and non-PII of our Members may be one of the assets sold or merged in connection with that transaction. Information about our Members may also need to be disclosed in connection with a commercial transaction where MamásLatinas or an affiliate, is seeking financing, investment, support or funding. In such transactions, personal information will be subject to the promises made in any pre-existing Privacy Policy in effect when the information was obtained. 
 
