@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the idbus.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611142602id_/http%3A//www.idbus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idbus.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219225042id_/http%3A//www.idbus.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | iDBUS
 
 ## ARTICLE 1: GENERAL PRINCIPLES
 
-1.1 SNCF-C6 is a simplified joint-stock company (SASU), with a share capital of 6.000.000 €, headquartered in 34 avenue du Commandant Mouchotte – 75014 Paris, registered with the register of companies under the number 519 037 147 (herein after referred to as « iDBUS») which is authorised to operate international regular transport of passengers by bus via the website [www.idbus.com](http://www.idbus.com/) (herein after referred to as the « Website »).
+1.1 SNCF-C6 is a simplified joint-stock company (SASU), with a share capital of 17.000.000 €, headquartered in Immeuble Lumière – 40 avenue des Terroirs de France - 75012 Paris (France), registered with the register of companies under the number 519 037 147 (herein after referred to as « iDBUS») which is authorised to operate international regular transport of passengers by bus via the website [www.idbus.com](http://www.idbus.com/) (herein after referred to as the « Website »).
 
 1.2 All personal data collected by iDBUS (herein after referred to as « Personal data») are processed in compliance with the European and French regulations applicable to the protection of personal data in particular with the Law number 78-017 of 6 January 1978 concerning computers, files and liberties (herein after referred to as the « French Data protection Act »). The processing of Personal data is registered with the CNIL (French Data protection authority) under the number n°1593987.
 
@@ -44,13 +44,13 @@
 
 ## ARTICLE 5: RIGHT TO OPPOSE
 
-5.1 You have the right to oppose to the processing of your Personal data and to the use of said data for the purposes of prospection, in particular of commercial nature. This right may be exercised by sending a letter to iDBUS Customer service located at SNCF-C6 - 103 avenue François Arago - 92000 Nanterre or by filling our electronic form in the « Help » section of the Website (subsection « Contact us »).
+5.1 You have the right to oppose to the processing of your Personal data and to the use of said data for the purposes of prospection, in particular of commercial nature. This right may be exercised by sending a letter to iDBUS Customer service located at SNCF-C6 - Immeuble Lumière – 40 avenue des Terroirs de France - 75012 Paris (France) or by filling our electronic form in the « Help » section of the Website (subsection « Contact us »).
 
 5.2 To unsubscribe from our newsletters you may click on the “unsubscribe” link situated at the bottom of all our newsletters. The unsubscribe requests are taken into account only if you further receive a confirmation message. In the event you do not receive the confirmation message, you may exercise the right to oppose as described in article 6.1 of the Policy.
 
 ## ARTICLE 6: RIGHT TO ACCESS, TO MODIFY, TO RECTIFY AND TO REMOVE
 
-6.1 You have the right to access, to modify, to rectify and to remove your Personal data which may be exercised by sending a letter to iDBUS Customer service located at SNCF-C6 - 103 avenue François Arago - 92000 Nanterre or by filling our electronic form in the « Help » section of the Website (subsection « Contact us »).
+6.1 You have the right to access, to modify, to rectify and to remove your Personal data which may be exercised by sending a letter to iDBUS Customer service located at SNCF-C6 - Immeuble Lumière – 40 avenue des Terroirs de France - 75012 Paris (France) or by filling our electronic form in the « Help » section of the Website (subsection « Contact us »).
 
 6.2 Before replying to a request of modification, rectification or removal of your Personal data, we may invite you to identify yourself.
 
