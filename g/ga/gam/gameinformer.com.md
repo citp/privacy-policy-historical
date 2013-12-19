@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502215448id_/http%3A//www.gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219203507id_/http%3A//www.gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
 
 # GameInformer.com Privacy Policy
 
 PRIVACY POLICY
 
-Last Updated: April 16, 2013 
+Last Updated: July 2, 2013 
 
 Welcome to Game Informer Online, the Web destination for readers of Game Informer magazine. 
 
@@ -137,7 +137,7 @@ Game Informer may disclose personal information to unrelated parties in special 
 
 Also, in the event of a sale, merger, reorganization, bankruptcy, or other similar event, Game Informer User information may be transferred to an entity that succeeds to Game Informer’s assets or business. 
 
-Game Informer is not targeting the Site or the Service to children, and Game Informer does not knowingly collect contact information from children under the age of 13. If you are under the age of 13, please do not email Game Informer, contact the Site, attempt to use the Service, submit information to the Site, or ask Game Informer to email you. If you are under the age of 18, you should get permission from a parent or guardian before you email Game Informer, contact the Site, attempt to use the Service, submit information to the Site, or ask Game Informer to email you.
+Game Informer is not targeting the Site or the Service to children, and Game Informer does not knowingly collect any information from children under the age of 13. If you are under the age of 13, please do not email Game Informer, contact the Site, attempt to use the Service, submit information to the Site, or ask Game Informer to email you. If you are under the age of 18, you should get permission from a parent or guardian before you email Game Informer, contact the Site, attempt to use the Service, submit information to the Site, or ask Game Informer to email you. If any responsible adult becomes aware that Game Informer, the Site or the Service have obtained information about a child under the age of 13, please contact us at [CustomerService@gameinformer.com](mailto:customerservice@gameinformer.com) and that information will be deleted.
 
   
 
