@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claires.co.uk privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610052937id_/http%3A//www.claires.co.uk/privacypolicy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claires.co.uk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219211832id_/http%3A//www.claires.co.uk/privacypolicy/content/fcp-content) for the most accurate reproduction.*
 
 # Claire's | Privacy Policy
 
@@ -86,7 +86,7 @@ Cookies are bits of electronic information that a website may transfer to a visi
 
 Our cookies do not contain any sensitive information, such as your name, address or payment details.
 
-We may also use cookies to tell us whether you have previously visited the Site. We also use cookies which may be set by third-parties with whom we have entered into agreements which may enable us to obtain other information about you as may be available from those third-parties, such as demographic data about you. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also use commonly available tools in your browser to remove cookies which may have been placed onto your computer. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that store cookies. Alternatively you may wish to visit [www.aboutcookies.org](https://web.archive.org/web/20130610052937id_/http%3A//www.claires.co.uk/privacypolicy/content/www.aboutcookies.org) which contains comprehensive information on how to manage cookies on a wide variety of browsers. However, please note that if you disable the use of cookies on your computer, some functionality of our site will not work you will not be able to shop on our Site, only browse. We will not use FLASH cookies, unless you are specifically notified that we intend to use them for a specific service, and you are given the opportunity to opt-out from receiving such cookies. FLASH cookies are cookies that are placed on your computer that are not removed through normal browser management tools, but the developer of the FLASH programming language currently has an on-line management tool to allow you to remove these FLASH cookies.
+We may also use cookies to tell us whether you have previously visited the Site. We also use cookies which may be set by third-parties with whom we have entered into agreements which may enable us to obtain other information about you as may be available from those third-parties, such as demographic data about you. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also use commonly available tools in your browser to remove cookies which may have been placed onto your computer. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that store cookies. Alternatively you may wish to visit [www.aboutcookies.org](https://web.archive.org/web/20131219211832id_/http%3A//www.claires.co.uk/privacypolicy/content/www.aboutcookies.org) which contains comprehensive information on how to manage cookies on a wide variety of browsers. However, please note that if you disable the use of cookies on your computer, some functionality of our site will not work you will not be able to shop on our Site, only browse. We will not use FLASH cookies, unless you are specifically notified that we intend to use them for a specific service, and you are given the opportunity to opt-out from receiving such cookies. FLASH cookies are cookies that are placed on your computer that are not removed through normal browser management tools, but the developer of the FLASH programming language currently has an on-line management tool to allow you to remove these FLASH cookies.
 
 ## OUR COOKIES POLICY
 
@@ -167,7 +167,7 @@ When visiting the Site your connection will be through and to servers located in
 
 ## UPDATING PERSONAL INFORMATION
 
-We prefer to keep your personal information accurate and up-to-date. If you have a registered account with us would like to change your contact information, please visit ‘My Account' section and update your personal information details.
+We prefer to keep your personal information accurate and up-to-date. If you have a registered account with us would like to change your contact information, please visit My Account section and update your personal information details.
 
 ## LINKS
 
@@ -181,4 +181,13 @@ Please note that no data transmitted over the Internet or stored and utilised fo
 
 ## QUESTIONS / CHANGES IN POLICY
 
-If you have questions or concerns with respect to our privacy policy, please contact us at enquiries@claires.co.uk. We may elect to change or amend our privacy policy; in such event, we will post the policy changes in our privacy policy on the Site.
+If you have questions or concerns with respect to our privacy policy, please contact us at help@clairesonline.co.uk. We may elect to change or amend our privacy policy; in such event, we will post the policy changes in our privacy policy on the Site.
+
+Claire's Public Liability Insurers are:
+
+XL Insurance Company Ltd  
+XL House  
+70 Gracechurch Street   
+London  
+EC3V 0XL  
+Phone +44 (0) 20 7933 7036, Fax +44 (0) 20 7469 1033 
