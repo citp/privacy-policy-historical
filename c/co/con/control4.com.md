@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the control4.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619063918id_/http%3A//www.control4.com/legal/%3Fshow%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the control4.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219025205id_/http%3A//www.control4.com/legal%3Fshow%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Control4 :: Legal - Home Automation and Smart Home Control
+# Legal | Privacy Policy | Control4
 
 ## Privacy Policy
 
@@ -59,11 +59,11 @@ Control4 takes precautions " including industry standard administrative, technic
 
 ### WHEN WE DISCLOSE YOUR PERSONAL INFORMATION
 
-_Generally_
+ _Generally_
 
 Be assured that Control4 does not sell or rent your contact information to other marketers. Your personal information may be shared with legal entities within the Control4 group who are obligated to and will safeguard it in accordance with this Privacy Policy. There are also times when it may be advantageous for Control4 to make certain personal information about you available to companies with whom Control4 has a strategic relationship or that provide products and services to you on our behalf, including your Control4 dealer of record. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. Control4 may also transfer its database, including personal information contained therein, to a third party who acquires all or substantially all of the assets or stock of Control4 whether by merger, acquisition, reorganization or otherwise.
 
-_In Connection with Legal Process or Investigation_
+ _In Connection with Legal Process or Investigation_
 
 Control4 will disclose your personal information to a third party if required to do so by law or if, in good faith, Control4 believes that such action is necessary to: (I) comply with the law or with legal process; (ii) protect and defend Control4's rights and property or prevent fraud; (iii) protect Control4 against abuse, misuse or unauthorized use of Control4's products or services; or (iv) protect the personal safety or property of personnel, users or the public. Among other things, this means that if you provide false or deceptive registration information or attempt to pose as someone else, information about you, including your computer's IP address, may be disclosed to a third party (including the recipient of an email) as part of any type of investigation into your actions.
 
@@ -91,4 +91,4 @@ Email: [privacy@control4.com](mailto:privacy@control4.com)
 
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-_Last updated: November 12, 2012_
+ _Last updated: November 12, 2012_
