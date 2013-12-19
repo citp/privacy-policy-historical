@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529104902id_/http%3A//www.directagents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219214850id_/http%3A//directagents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DirectAgents
 
@@ -32,37 +32,37 @@ Direct Agents, Inc.
 740 Broadway, Suite 701  
 New York, NY 10003
 
-Latest News
+New Blog Post
 
 Contact Us
 
-  * [](https://web.archive.org/work/samsung/)
+  * [](https://web.archive.org/work/andotherbrands/)
 
-Innovative solutions deliver business results for Samsung
-
-
-
-
-  * [](https://web.archive.org/work/scholastic/)
-
-PPC resources help attract teachers to Scholastic programs
+Monthly ROAS hitting as high as 1000% for &OtherBrands
 
 
 
 
-## Latest News
+  * [](https://web.archive.org/work/epromos/)
 
-  * [](http://directagents.com/spotlight/breaking-barriers-at-irce/)
+Increased customer acquisitions by 97% year over year.
 
-Direct Agents to Exhibit at IRCE June 4-6
+
+
+
+## New Blog Post
+
+  * [](http://directagents.com/blog/whats-new-at-direct-agents/)
+
+Now offering Trading Desk, GSP, SEO & Responsive Design
 
 
 
 
 ## Contact Us
 
-[](http://directagents.com/wp-content/themes/DA/free-marketing-consultation.php)
+[](http://directagents.com/wp-content/themes/DA/whitepaper-creative.php)
 
-[](http://directagents.com/wp-content/themes/DA/free-marketing-consultation-responsive.php)
+[](http://directagents.com/wp-content/themes/DA/whitepaper-creative-mobile.php)
 
-Request an Online Marketing Consultation 
+For Best Practices in Digital Marketing 
