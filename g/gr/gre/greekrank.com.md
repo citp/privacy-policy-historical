@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424133139id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219043843id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
 
-# Fraternity and Sorority Reviews, Ratings, & Rankings - GreekRank
-
-**GREEKRANK.COM - PRIVACY POLICY**
+# Report a rating, review, shoutout, or discussion post - GreekRank.com
 
 LAST REVISED: JANUARY 23, 2012
 
-YOU ARE USING AND/OR VIEWING THIS SITE AT YOUR OWN RISK. IF YOU ARE UNSURE OF WHAT THIS MEANS, PLEASE LEAVE THIS SITE NOW. IF YOU DO KNOW WHAT THIS MEANS, READ THESE TERMS OF USE BEFORE USING AND BROWSING THIS SITE.  
+  
 
+
+YOU ARE USING AND/OR VIEWING THIS SITE AT YOUR OWN RISK. IF YOU ARE UNSURE OF WHAT THIS MEANS, PLEASE LEAVE THIS SITE NOW. IF YOU DO KNOW WHAT THIS MEANS, READ THESE TERMS OF USE BEFORE USING AND BROWSING THIS SITE.
 
 We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit.
 
