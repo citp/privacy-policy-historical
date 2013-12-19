@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the webjet.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616143352id_/http%3A//www.webjet.com/webjet/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219234506id_/http%3A//www.webjet.com/Webjet/privacy) for the most accurate reproduction.*
 
-# Privacy and Security Information | Webjet
+# Privacy and Security Information
+
+Privacy Policy effective and last updated on December 12, 2013.  
+
 
 As a Webjet.com user, you are in control of all your travel-planning. We know you want to remain in control of your personal information, as well. 
 
@@ -64,9 +67,7 @@ Webjet operates the Website in the United States and, depending on your country 
 
 **ACCESS AND CORRECTION OF PERSONAL INFORMATION**
 
-You can request access to any personal information that we hold about you and ask us to correct any personal information which may be inaccurate, except where the law requires otherwise. To access, correct or raise inquiries concerning your personal information in our possession, please contact:
-
-Webjet Marketing North America, LLC., 607 S Magnolia Ave, Suite 2,  Tampa, Florida, 33606, United States
+You can request access to any personal information that we hold about you and ask us to correct any personal information which may be inaccurate, except where the law requires otherwise. To access, correct or raise inquiries concerning your personal information in our possession, please see the Advertising Cookies section below.
 
 **INFORMATION SECURITY**
 
@@ -78,13 +79,8 @@ To provide increased value to users of the Website, we may provide links to othe
 
 **ADVERTISING COOKIES**
 
-This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network, please see Travel Ad Networks privacy policy at [http://www.traveladnetwork.com/content/view/56/79/.](http://www.traveladnetwork.com/content/view/56/79/)
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>   
 
-Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness. You may opt out of accepting cookies at any time by clicking these links:
-
-To opt out of TravelAdvertising.com, go to [http://www.traveladnetwork.com/content/view/56/79/.](http://www.traveladnetwork.com/content/view/56/79/)
-
-To opt out of Atlas (Microsoft Advertising), go to <http://www.atlassolutions.com/optout.aspx.>
 
 **CHILDREN**
 
