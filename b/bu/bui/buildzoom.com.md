@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buildzoom.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329170329id_/http%3A//www.buildzoom.com/info/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildzoom.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219091003id_/http%3A//www.buildzoom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buildzoom
+# BuildZoom
 
 **What information do we collect?**
 
@@ -27,20 +27,24 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-****Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Childrens Online Privacy Protection Act Compliance**
 
-****We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Online Privacy Policy Only**
 
-****This online privacy policy applies only to information collected through our website and not to information collected offline.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Your Consent**
 
-****By using our site, you consent to our privacy policy.
+By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-****If we decide to change our privacy policy, we will post those changes on this page.
+If we decide to change our privacy policy, we will post those changes on this page.
