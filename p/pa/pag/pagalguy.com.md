@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318210730id_/http%3A//pagalguy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192515id_/http%3A//pagalguy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Help : PaGaLGuY
+# Privacy Policy : PaGaLGuY
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Web pages created or maintained by Inzane Labs Pvt. Ltd. without telling us who you are or revealing any Personal Information about yourself. 
 
@@ -14,4 +14,4 @@ Inzane Labs Pvt. Ltd. occasionally ties up with generic partners for hosting the
 
 This privacy policy is intended to be a generic guideline while using the products/services extended by Inzane Labs Pvt. Ltd. It extends to our website PaGaLGuY. 
 
-Inzane Labs Pvt. Ltd. reserves the right to change certain aspects of this policy as and when it deems fit. The users will always be notified of such changes and will be given an option to opt-out if they disagree with the revised policies. 
+Inzane Labs Pvt. Ltd. reserves the right to change certain aspects of this policy as and when it deems fit. The users will always be notified of such changes and will be given an option to opt-out if they disagree with the revised policies.
