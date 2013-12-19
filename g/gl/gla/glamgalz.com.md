@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamgalz.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531132538id_/http%3A//www.glamgalz.com/index.php/announcements/glamgalz.com-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamgalz.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219010140id_/http%3A//www.glamgalz.com/index.php/announcements/glamgalz.com-privacy-policy.html) for the most accurate reproduction.*
 
 # GlamGalz.com | GlamGalz.com Privacy Policy
 
@@ -6,7 +6,7 @@ GlamGalz.com Privacy Policy  |  [ ](http://www.glamgalz.com/index2.php?option=co
   
 Last Updated ( Saturday, 28 June 2008 )   
   
-| **Views** | 12161      
+| **Views** | 13489      
 ---|---  
   
 **Privacy Policy**
