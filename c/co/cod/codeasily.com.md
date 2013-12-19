@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the codeasily.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502173650id_/http%3A//codeasily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeasily.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219080750id_/http%3A//codeasily.com/privacy-policy) for the most accurate reproduction.*
 
-# CodEasily.com – Privacy Policy
+# Privacy Policy - CodEasily.com
+
+You are here: [Home](http://codeasily.com/ "CodEasily.com") / Privacy Policy
 
 CodEasily.com, has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -39,7 +41,7 @@ CodEasily.com, has created this privacy policy to demonstrate our commitment to 
 
 **Consent**
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to CodEasily.com. If you have provided personal information to CodEasily.com and no longer consent to its use or disclosure as outlined herein, please notify CodEasily.com at gmediafolder@gmail.com.
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to CodEasily.com. If you have provided personal information to CodEasily.com and no longer consent to its use or disclosure as outlined herein, please notify CodEasily.com at [gmediafolder@gmail.com](mailto:gmediafolder@gmail.com).
 
 
 
@@ -51,7 +53,7 @@ CodEasily.com, has created this privacy policy to demonstrate our commitment to 
 
 **Refund Policy**
 
-  * If you are not 100% satisfied with your purchase, you can either return your order for a full refund or exchange it for something else. You can return or exchange your purchase for up to 30 days from the purchase date. Returned or exchanged products must be in the condition you received them and in the original box and/or packaging.
+  * To preserve the rarity of our templates, we do not offer credits, exchanges, or refunds. All sales are final. No exceptions.
 
 
 
@@ -60,3 +62,7 @@ CodEasily.com, has created this privacy policy to demonstrate our commitment to 
   * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [gmediafolder@gmail.com](mailto:gmediafolder@gmail.com).
 
 
+
+© Copyright - CodEasily.com
+
+
