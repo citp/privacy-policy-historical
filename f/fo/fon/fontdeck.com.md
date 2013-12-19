@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontdeck.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080324id_/http%3A//fontdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontdeck.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219023101id_/http%3A//fontdeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fontdeck
 
@@ -14,7 +14,7 @@ Like most standard web site servers we use log files. This includes internet pro
 
 ### Cookies
 
-We use unintrusive first party cookies to enable you to log in and make purchases, to customise your web site experience and via Google Analytics to provide us with aggregated (non-personal) site analytics. See our [cookies](https://web.archive.org/web/20130501080324id_/http%3A//fontdeck.com/cookies.html) page for full details.
+We use unintrusive first party cookies to enable you to log in and make purchases, to customise your web site experience and via Google Analytics to provide us with aggregated (non-personal) site analytics. See our [cookies](https://web.archive.org/web/20131219023101id_/http%3A//fontdeck.com/cookies.html) page for full details.
 
 ## Site Communications
 
@@ -32,7 +32,7 @@ In the event Fontdeck LLC goes through a business transition, users will be noti
 
 ### Choice/Opt-out
 
-Users who no longer wish to receive promotional communications may opt-out of receiving these communications by replying with ‘unsubscribe’ in the subject line of the email, or email us at [rich@fontdeck.com](mailto:rich@fontdeck.com), telephone on +44 (0)845 838 6163, or write to Fontdeck LLC, 7070 Samuel Morse Dr Ste 150, Columbia MD 21046-3427, USA.
+Users who no longer wish to receive promotional communications may opt-out of receiving these communications by replying with ‘unsubscribe’ in the subject line of the email, or email us at [rich@fontdeck.com](mailto:rich@fontdeck.com), telephone on +44 (0)845 838 6163, or write to Fontdeck LLC, 11830 W Market Pl Ste F, Fulton MD 20759-2432, USA.
 
 ### Links
 
@@ -60,6 +60,6 @@ If, however, we are going to use users’ personally identifiable information in
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our policies, please contact us by emailing [rich@fontdeck.com](mailto:rich@fontdeck.com), telephoning **+44 (0)845 838 6163** , or write to Fontdeck LLC,  7070 Samuel Morse Dr Ste 150, Columbia MD 21046-3427, USA. 
+If you have any questions or suggestions regarding our policies, please contact us by emailing [rich@fontdeck.com](mailto:rich@fontdeck.com), telephoning **+44 (0)845 838 6163** , or write to Fontdeck LLC,  11830 W Market Pl Ste F, Fulton MD 20759-2432, USA. 
   *[MD]: Maryland
   *[USA]: United States of America
