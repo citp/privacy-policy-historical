@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nahuiollin.com privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318192336id_/http%3A//www.nahuiollin.com/ollin/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahuiollin.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219025730id_/http%3A//www.ollinarmcandy.com/ollin/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
