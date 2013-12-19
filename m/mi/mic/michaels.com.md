@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218153339id_/http%3A//www.michaels.com/Privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219210731id_/https%3A//www.michaels.com/Privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,9 +90,11 @@ We give you choices about how we communicate with you.
 
 _Electronic and Mobile Communications._ We only send you promotional mobile or email messages if you provide us with your contact information and opt in to receive the messages. You can stop receiving promotional mobile and email messages from Michaels by following the instructions provided in any such message you receive.
 
+You agree that by providing your wireless telephone number to Michaels you’re expressly consenting to receive automated marketing text messages from Michaels to the mobile number provided. Consent is not required to purchase goods or services. I further understand that my information will be used as described here and in the Michaels Privacy Policy available at [www.michaels.com/Privacy-Policy/privacyPolicy,default,pg.html](http://www.michaels.com/Privacy-Policy/privacyPolicy,default,pg.html) Up to 8 Msgs/Mo. from Michaels Alerts about promotions & inspiration. Msg&DataRatesMayApply, not all carriers covered.
+
 _Postal Mail._ Where permitted by law, we may mail you unsolicited offers or product information that we believe is of interest to you. You can stop receiving promotional postal mail from Michaels. Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from us by following those instructions.
 
-_Access._ You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” logging in with your username and password. If you have registered with [midesign.michaels.com/invitations](https://web.archive.org/web/20121218153339id_/http%3A//www.michaels.com/Privacy-Policy/midesign.michaels.com/invitations) and/or with [midesign.michaels.com/digitalphoto](http://midesign.michaels.com/digitalphoto), you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
+_Access._ You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” logging in with your username and password. If you have registered with [midesign.michaels.com/invitations](https://web.archive.org/web/20131219210731id_/https%3A//www.michaels.com/Privacy-Policy/midesign.michaels.com/invitations) and/or with [midesign.michaels.com/digitalphoto](http://midesign.michaels.com/digitalphoto), you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
 
 Top
 
@@ -200,9 +202,7 @@ We believe it is important to provide added protection for children online. We e
 
 We do not intend to collect personal information from children under 13 online. When we do collect personal information from children, we do so in compliance with applicable country children's data protection laws.
 
-U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children's Online Privacy Protection Act. [Click here](http://www.beinggirl.com/en_US/privacy.jsp) to read that Privacy Statement.
-
-[Click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html) to find out how to obtain a copy of the information your child has provided to Michaels, to update the information or instruct us to no longer contact your child.
+U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children's Online Privacy Protection Act.
 
 Top
 
@@ -322,7 +322,8 @@ To stop the messages coming to your phone, you can opt out of the program via SM
 
 ## Terms & Conditions
 
-By participating in the Company Mobile program, you are agreeing to the terms and conditions presented here. To view Privacy Policy, click here.
+Terms and Conditions  
+By participating in the Michaels Mobile Program, you agree to the terms and conditions stated herein.
 
   
 
@@ -330,7 +331,7 @@ By participating in the Company Mobile program, you are agreeing to the terms an
 ## Carriers Supported
 
 United States  
-AT&T, Boost Mobile, Cincinnati Bell, Cricket Communications, GetLisa, Interop – Appalachian Wireless, Interop – Bluegrass Cellular, Interop – Centennial Cellular Corp, Interop – COX TMI WIRELESS, LLC, Interop – GCI Comms aka Alaska DigiTel, Interop – Illinois Valley, Interop – Immix Wireless, Interop – Inland Cellular, Interop – Nex-Tech, Interop – United Wireless, Interop – West Central Cellular, Interop ECIT Cellular One of East Central, MetroPCS, Nextel Communications, Sprint, T-Mobile®, US Cellular Corp®, Verizon Wireless, Virgin Mobile USA
+AT&T, Boost Mobile, Cincinnati Bell, Cricket Communications, GetLisa, Appalachian Wireless, Bluegrass Cellular, Centennial Cellular Corp, COX TMI WIRELESS, LLC, GCI Comms aka Alaska DigiTel, Illinois Valley, Immix Wireless, Inland Cellular, Nex-Tech, United Wireless, West Central Cellular, ECIT Cellular One of East Central, MetroPCS, Nextel Communications, Sprint, T-Mobile®, US Cellular Corp®, Verizon Wireless, Virgin Mobile USA
 
 Canada  
 Airtel, Bell Mobility, DMTS Mobility, ICE Wireless, Lynx Mobility, Mobilicity, MTS Mobility, Public Mobile, Rogers Wireless, SakTel Mobility, Sogetel Mobility, TBayTel Mobility, Telus Mobility, Videotron Mobile, Wind Mobile
@@ -341,4 +342,4 @@ Top
 
 This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Branch Drive, Irving, Texas 75063.
 
-Last Updated: March 2012
+Last Updated: August 2013
