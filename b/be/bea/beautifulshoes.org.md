@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautifulshoes.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601112541id_/http%3A//beautifulshoes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulshoes.org privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219131122id_/http%3A//beautifulshoes.org/privacy-policy) for the most accurate reproduction.*
 
-# - Privacy Policy - BEAUTIFUL SHOES
+# Privacy Policy - BEAUTIFUL SHOES
 
 This Privacy Policy governs the manner in which Beautiful Shoes collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://beautifulshoes.org website (“Site”). This privacy policy applies to the Site and all products and services offered by Gossip World.
 
