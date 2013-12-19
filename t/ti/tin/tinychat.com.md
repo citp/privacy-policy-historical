@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinychat.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530131046id_/http%3A//tinychat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinychat.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219101253id_/http%3A//tinychat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tinychat
 
@@ -67,8 +67,8 @@ The Tinychat Platform contains links to other websites. If you choose to visit a
 
 **Our Policy Toward Children**
 
-The Tinychat Platform is not directed to children under 15. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@Tinychat.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+The Tinychat Platform is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@Tinychat.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@tinychat.com](mailto:privacy@tinychat.com). 
+If you have any questions about this Privacy Policy, please contact us at [support@tinychat.com](mailto:support@tinychat.com). 
