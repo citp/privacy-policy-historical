@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.sg privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619221113id_/http%3A//www.fool.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.sg privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192329id_/http%3A//www.fool.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Motley Fool
 
@@ -6,7 +6,7 @@
 
 The Motley Fool Singapore Pte. Ltd. (“The Motley Fool”) is committed to protecting and respecting your privacy.   This Privacy Policy describes how we may collect, use and disclose personal information of our users, readers and subscribers.
 
-If you have any queries or concerns regarding these practices, you should contact The Motley Fool at [privacy@fool.sg](mailto:privacy@fool.sg).
+**If you have any queries or concerns regarding these practices, you should contact The Motley Fool:**
 
 **The Information We Collect**
 
