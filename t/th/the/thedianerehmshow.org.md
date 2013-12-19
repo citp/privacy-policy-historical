@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedianerehmshow.org privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618163244id_/http%3A//wamu.org/about/website/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedianerehmshow.org privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219113910id_/http%3A//wamu.org/about/website/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WAMU 88.5 - American University Radio
 
@@ -32,7 +32,7 @@ If you have any questions about giving or pledging your support to WAMU, or if w
 WAMU 88.5 FM  
 American University  
 4400 Massachusetts Ave., NW  
-Brandywine Bldg.  
+WAMU Media Center  
 Washington, DC 20016-8082  
 "ATTN: Member Services Dept." 
 
