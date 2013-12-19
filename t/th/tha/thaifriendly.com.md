@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaifriendly.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516052250id_/http%3A//www.thaifriendly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaifriendly.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219105948id_/http%3A//www.thaifriendly.com/privacy.php) for the most accurate reproduction.*
 
 # Thai dating | Biggest free site in Thailand หาแฟนต่างชาติ หาแฟนฝรั่ง
 
