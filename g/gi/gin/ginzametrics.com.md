@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ginzametrics.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327192753id_/http%3A//www.ginzametrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ginzametrics.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219091058id_/http%3A//www.ginzametrics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Ginzametrics.com
+# Privacy Policy
 
-Your privacy is important to us. Ginzamarkets, Inc. (“Ginzametrics” or “we”) are providing this Privacy Policy (the “Policy”) to describe and explain our online information practices and the choices you can make about the way your information is collected and used. By using [www.ginzametrics.com](http://www.ginzametrics.com/) (the “Site”), our services or our products, you consent to the processing of information as set forth herein. If you create an account for our services (a “Business Customer”), we provide hosted software to relating to each Business Customer’s employees, consumers, patients, students, donors, volunteers, clients, supplies and other business partners (“data subjects”) around the world.
+Your privacy is important to us. Ginzamarkets, Inc. (“Ginzametrics” or “we”) are providing this Privacy Policy (the “Policy”) to describe and explain our online information practices and the choices you can make about the way your information is collected and used. By using [www.ginzametrics.com](http://www.ginzametrics.com/ "www.ginzametrics.com") (the “Site”), our services or our products, you consent to the processing of information as set forth herein. If you create an account for our services (a “Business Customer”), we provide hosted software to relating to each Business Customer’s employees, consumers, patients, students, donors, volunteers, clients, supplies and other business partners (“data subjects”) around the world.
 
-This Policy also describes the way we collect, use and disclose certain personal data we receive in the United States from the European Union and Switzerland (“EU and Swiss Personal Data”). With regard to EU and Swiss Personal Data of data subjects of Business Customers, we operate as a data processor, while the Business Customer functions as a data controller. For more information about Safe Harbor Principles or to access our certification statement, please review the U.S. Department of Commerce’s Web site at http://export.gov/safeharbor/.
+This Policy also describes the way we collect, use and disclose certain personal data we receive in the United States from the European Union and Switzerland (“EU and Swiss Personal Data”). With regard to EU and Swiss Personal Data of data subjects of Business Customers, we operate as a data processor, while the Business Customer functions as a data controller. For more information about Safe Harbor Principles or to access our certification statement, please review the U.S. Department of Commerce’s Web site at <http://export.gov/safeharbor/>.
 
 ## Information Gathering
 
@@ -18,14 +18,16 @@ For Business Customers, we operate under the assumption that it is generally the
 
 Ginzamarkets uses Personally Identifiable Information and Customer Information for the following general purposes:
 
-• to provide our products and services,  
-• for billing, identification and authentication,  
-• to analyze Site usage and improve our products and services,  
-• to contact you and deliver administrative notices and communications relevant to your use our products and services,  
-• for internal market research, troubleshooting problems, and detecting and protecting against error, fraud or other criminal activity,  
-• for distribution to third-party contractors that provide services to Ginzametrics and are bound by privacy restrictions at least as restrictive as those set forth in this Policy,  
-• to enforce our Terms of Use, and  
-• as otherwise set forth in the Policy.
+  * to provide our products and services, 
+  * for billing, identification and authentication, 
+  * to analyze Site usage and improve our products and services, 
+  * to contact you and deliver administrative notices and communications relevant to your use our products and services, 
+  * for internal market research, troubleshooting problems, and detecting and protecting against error, fraud or other criminal activity, 
+  * for distribution to third-party contractors that provide services to Ginzametrics and are bound by privacy restrictions at least as restrictive as those set forth in this Policy, 
+  * to enforce our Terms of Use, and 
+  * as otherwise set forth in the Policy. 
+
+
 
 The Personally Identifiable Information we collect is used to improve the content of our Site and the quality of our service, and is not shared with other organizations, except to provide or improve upon products or services that you’ve requested, or under the following circumstances: it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
 
@@ -67,11 +69,11 @@ The U.S.-EU Safe Harbor requires that members offer end users a choice to opt ou
 
 If you would like access to personal information about you that we hold, or correct, amend, or delete that information where it is inaccurate, please contact privacy@ginzametrics.com Privacy Manager, Ginzamarkets, Inc., 444 Castro Street, 12th Floor, Mountain View, CA 94041.
 
-We operate under the assumption that it is generally the obligation of a Business Customer as data controller to provide their data subjects a means of accessing their data. Under our current business model, we have no direct interaction with a Business Customer’s data subjects and so have no direct way for them to submit data-access requests to us. If a Business Customer receives a data-access request from a data subject about whom we host data and would like our assistance in responding to that request, please contact privacy@ginzametrics.com Privacy Manager, Ginzamarkets, Inc., 444 Castro Street, 12th Floor, Mountain View, CA 94041.
+We operate under the assumption that it is generally the obligation of a Business Customer as data controller to provide their data subjects a means of accessing their data. Under our current business model, we have no direct interaction with a Business Customer’s data subjects and so have no direct way for them to submit data-access requests to us. If a Business Customer receives a data-access request from a data subject about whom we host data and would like our assistance in responding to that request, please contact [privacy@ginzametrics.com](mailto:privacy@ginzametrics.com "privacy@ginzametrics.com") Privacy Manager, Ginzamarkets, Inc., 444 Castro Street, 12th Floor, Mountain View, CA 94041.
 
 ## US-EU and US-Swiss Safe Harbor Framework
 
-Ginzametrics complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ginzametrics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.
+Ginzametrics complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ginzametrics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://export.gov/safeharbor/>.
 
 In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should contact us at privacy@ginzametrics.com or Privacy Manager, Ginzamarkets, Inc., 444 Castro Street, 12th Floor, Mountain View, CA 94041.
 
@@ -83,4 +85,4 @@ Ginzamarkets may periodically update this policy. We will notify you about signi
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to privacy@ginzametrics.com.
+Any questions about this Privacy Policy should be addressed to [privacy@ginzametrics.com](mailto:privacy@ginzametrics.com "privacy@ginzametrics.com").
