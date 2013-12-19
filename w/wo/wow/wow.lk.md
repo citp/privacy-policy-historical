@@ -1,92 +1,134 @@
-> *The following text is extracted and transformed from the wow.lk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531171158id_/http%3A//www.wow.lk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow.lk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219113111id_/http%3A//www.wow.lk/pages/privacy_policy.htm) for the most accurate reproduction.*
 
-# WoW
+# Privacy Policy - WoW.lk
 
-Dialog Axiata PLC (hereinafter referred to as "Dialog" "us" "we" or "our") is committed to respect your privacy and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by wow.lk (hereinafter referred to as the “Site”). We at Dialog are extremely proud of our commitment to protect your privacy. You can be assured that we will use your personal information only to support your continuing relationship with Dialog. We are providing this Privacy Policy to help you understand how we collect, use and protect your information when you visit and/or order products through the Site. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This Privacy Policy should be read in conjunction with the terms and conditions of use for wow.lk and any separate terms and conditions issued by any other third party selling their products on the website [hereinafter referred to as the “Vendor”] whose products are listed herein.
-
-* * *
-
-## Personal Information Collection
-
-When you use the Site, we collect and store your personal information from you. Our primary goal in doing so is to provide a safe, efficient, smooth and customized experience. This allows us to provide services and features that are most likely to meet your needs, and to customize the Site to make your experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose. 
-
-You can browse and visit the Site without telling us who you are or revealing any personal information about your self. Once you give us your personal information you are not anonymous to us. To fully use our Site you will need to register using our online registration form, where you may be required to provide us with your contact and identity information billing information shipping information and other personal information as indicated on the forms throughout the Site. Where possible we indicate which fields are required and which fields are optional. You always have the option not to provide information by choosing not to use a particular service or feature on the Site. 
-
-We may automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our User’s demographics interests and behaviour to better understand, protect and serve our Users. This information is compiled and analyzed on an aggregate basis. This information may include the URL that you were redirected from (whether this URL is on our site or not), your computer browser information, and your IP address. 
-
-If you choose to buy on the Site, we collect information about your buying behaviour. 
-
-If you send us personal correspondence such as emails or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you. 
-
-If you register for a site on another web site or use a web site providing a service for Dialog or a web site that helps facilitates your activity on the Site, that web site may provide personal information about you and your transaction back to us.
+Digital Commerce Lanka (hereinafter referred to as "DCL" "us" "we" or "our") is committed to respect your privacy and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by wow.lk (hereinafter referred to as the “Site”). We at DCL are extremely proud of our commitment to protect your privacy. You can be assured that we will use your personal information only to support your continuing relationship with DCL. We are providing this Privacy Policy to help you understand how we collect, use and protect your information when you visit and/or order products through the Site. Please read the following policy to understand how your personal information will be treated as you make full use of the Site. This Privacy Policy should be read in conjunction with the terms and conditions of use for wow.lk and any separate terms and conditions issued by any other third party selling their products on the website [hereinafter referred to as the “Vendor”] whose products are listed herein.
 
 * * *
 
-## Non-personally identifying Information
+## Information we receive and how it is used
 
-We may also collect non-personal information about your visit to the Site, and other similar sites based on your browsing (click-stream) activities. This information may include the pages you browsed and products and services viewed or ordered for example. This helps us to manage and develop the Sites better, to provide you with a more enjoyable, customised service and experience in the future, and to help us to develop and deliver better products and services tailored to your individual interests and needs.
+We collect and store information about you to better enable a more intuitive and customized online retailing experience.
 
-* * *
+**Your information**
 
-## How will we use your information?
+Your information is the information that's required when you sign up for the site, as well as the information you choose to share.
 
-We use your personal information to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in the services provided by us, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy. 
+  * **Registration information :** When you sign up for wow.lk, you are required to provide information such as your name, email address, and phone number.
+  * **Information you choose to share :** Your information also includes the information you choose to share via social media sites such Facebook and twitter, such as when you post a status update, upload a photo, or comment on a friend's story.
+  * **Information others share about you :** We may receive information about you via social and offline competition’s that we conduct on a regular basis. This information will be used by us to help us profile and target better offers to you.
 
-You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve the Site's content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. 
 
-You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the terms and conditions and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time.
 
-* * *
+**Your information**
 
-## When will we disclose your information to others?
+We also receive other types of information about you:
 
-We may disclose information about you, your account and your personal information and data to (i) third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you on the Site. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced Site related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you. In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy. (ii) our affiliates, and joint ventures that are committed to serving your online trading needs and related services. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our affiliates and joint ventures follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. Dialog, its affiliates, its joint ventures, or any combination of such, will share some or all of your personal information with another business entity should we plan to, merge with, or be acquired by that business entity. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. (iii) where a user enters information on any form of an advertiser, the information is simultaneously collected by Dialog and the advertiser. The information is used by Dialog in accordance with the terms of this privacy policy and is used by the advertiser as per the advertiser’s prevalent privacy policies. Because we do not control the privacy practices of these advertisers, you should evaluate their practices before deciding to provide the said information. Dialog may also aggregate (gather up data across all user accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. (iv) therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we at Dialog may also be obliged to disclose your name, address, telephone number, email address, User ID history, fraud complaints, and purchasing history without any legal ramifications. 
+  * We receive data from the computer, mobile phone or other device you use to access wow, including when multiple users log in from the same device. This may include your IP address and other information such as your location, type of sites and pages visited etc.
+  * We receive data whenever you visit a website that is connected, affiliated or runs on the wow.lk platform. 
+  * Sometimes we get data from our advertising partners, agencies, activation partners etc which tells us where you connect to us from and how we can connect with you.
 
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-## Cookies
-
-We may use data collection devices such as “cookies” or other similar devices on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, verify user identity and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Site and you may be required to reenter your password more frequently during a session. 
-
-Additionally, you may encounter "cookies" or other similar devices on certain pages of the Site that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies by third parties.
 
 * * *
 
-## Information Security
+## Usage of Data
 
-Dialog recognises that its customers are increasingly concerned about how companies protect personal information from misuse and abuse and about privacy in general. Dialog is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and / or destruction. We use industry standards secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information. Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered. Dialog cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
-
-* * *
-
-## Links
-
-We may provide links to non-Dialog sites. We are not responsible for those other sites, their privacy policies or how they treat information about their users, and we advise you to check their privacy policies.
+DCL reserves the right to use and share information received and stored for marketing campaigns conducted for DCL and its Affiliates.
 
 * * *
 
-## Privacy Policy on Children
+## Data Security
 
-Children are not eligible to use our Site and we ask that minors (under the age of 18) do not submit any personal information to us. If you are under the age of 18, you cannot purchase any items on the Site. If you wish to purchase an item on the Site such purchase may be made by your legal guardian or parents who have registered as users of the Site.
-
-* * *
-
-## Privacy Policy Changes
-
-We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this policy from time to time. All changes made to this Privacy Policy are effective from the time they are posted on the website and your continued use of our sites after posting will constitute acceptance of, and agreement to be bound by, those changes.
+We use a number of mechanisms (encryption, passwords, physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure. 
 
 * * *
 
-## Contact
+## Usernames and User IDs
 
-If you have any further questions about our privacy practices, please feel free to contact us at:
+A username is your unique ID wow uses to identify you. You are free to browse the site without registering for a user ID as well.
 
-Dialog Axiata PLC  
-475 Union Place  
-Colombo  
-Srilanka
+Your user ID and password must be kept secure at all times to avoid online impersonation
 
-Web : http://www.wow.lk
+* * *
 
-Email : [wowme@wow.lk](mailto:wowme@wow.lk), [contact@wow.lk](mailto:contact@wow.lk)
+## Deleting and deactivating your account
 
-Contact Number : [+94 777 966 669](tel:777966669)
+If you want to stop using your account, you can either  **deactivate**  or  **delete**  it.
+
+<http://www.anything.lk/en/colombo/customer/account/edit/>
+
+* * *
+
+## About social plugins
+
+Wow lets you login via your facebook and google accounts. You can also share wow content , comment on other users posts on the wow social sites. 
+
+Please note your posts will be deemed public and wow will not assume responsibility for any repercussions as a result.
+
+* * *
+
+## Cookies, pixels and other similar technologies
+
+Cookies and pixels are small pieces of data that are stored on your computer, mobile phone or other device.
+
+We use these to
+
+  * Understand your use of wow
+  * Understand how you use the internet, search and discover other products and services
+  * Enable more features and store information about you
+  * Monitor and understand the use of our products and services; and
+  * As a means of providing security for you and other users
+
+
+
+Most companies on the web use cookies (or other similar technological tools), including our advertising and Platform partners. For example, our Platform partners, advertisers or Page administrators may use cookies or similar technologies when you access their apps, ads, Pages or other content.
+
+* * *
+
+## Other General points to note
+
+**Who to contact for any disputes or resolution**
+
+For any disputes regarding our use of data and data privacy please contact
+
+Ahmed Irfan  
+Chief Marketing Officer  
+irfan@anything.lk  
+m. 94777334444 
+
+**Responding to legal requests and preventing harm**
+
+We may share your information based on legal requests and official sanction to prevent harm, crime or as part of an official investigation. Information shared will be your login details, type and nature of online transactions, payment methods and financing arrangements if any. 
+
+**Notifications and Other Messages**
+
+We will send you daily notifications via email or SMS upon your subscription to such content. You are free to unsubscribe to such content by selecting the unsubscribe option in your account settings
+
+**Third Party Content**
+
+DCL, similar to an Internet Service Provider, is a distributor (and not a publisher) of content supplied by third parties and Users. Accordingly, DCL has no more editorial control over such content than does a public library, bookstore or newsstand. Any opinions, advice, statements, services, offers, or other information or content expressed or made available by third parties, including information providers, or any other Users are those of the respective author(s) or distributors) and not of DCL. Neither DCL nor any third-party provider of information guarantees the accuracy, completeness, or usefulness of any content, nor its merchantability or fitness for any particular purpose. In many instances, the content available through this Website represents the opinions and judgments of the respective information provider, user, or other user not under contract with DCL. DCL neither endorses nor is responsible for the accuracy or reliability of any opinion, advice, or statement made on the Website by anyone other than authorised DCL employee spokespersons while acting in official capacities. Under no circumstances will DCL be liable for any loss or damage caused by an user's reliance on information obtained through the Website. It is the responsibility of user to evaluate the accuracy, completeness, or usefulness of any information, opinion, advice, etc., or other content available through the Website.
+
+The Website contains links to third party Web sites maintained by other content providers. These links are provided solely as a convenience to you and not as an endorsement by DCL of the contents on such third-party sites and DCL hereby expressly disclaims any representations regarding the content or accuracy of materials on such third-party Web sites. If user decides to access linked third-party Web sites, user does so at its own risk. Unless you have executed a written agreement with DCL expressly permitting you to do so, you may not provide a hyperlink to the Website from any other website. DCL reserves the right to revoke its consent to any link at any time in its sole discretion.
+
+**Termination**
+
+DCL may terminate this Agreement at any time. Without limiting the foregoing, DCL shall have the right to immediately terminate any passwords or accounts of User in the event of any conduct by User which DCL, in its sole discretion, considers to be unacceptable, or in the event of any breach by User of this Agreement. 
+
+**Indemnification**
+
+User agrees to defend, indemnify and hold harmless DCL, its subsidiaries and Business Associates, and their respective directors, officers, employees and agents from and against all claims and expenses, including attorneys' fees, arising out of the use of this Website and/or the Mini-sites by User.
+
+**Access requests**
+
+you can correct your personal data by clicking on account settings
+
+<http://www.anything.lk/en/colombo/customer/account/edit/>
+
+**Change of Control**
+
+If the ownership of our business changes, we may transfer your information to the new owner so they can continue to operate the service. But they will still have to honor the commitments we have made in this Data Use Policy.
+
+**Notice of Changes**
+
+If we make changes to this Data Use Policy we will notify you (for example, by pulication on the wow.lk homepage under “privacy policy. We will also provide you the opportunity to comment on this change within 7 days of the policy being updated.
