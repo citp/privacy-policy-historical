@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the valueline.com privacy policy that was archived on 2013-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619014842id_/http%3A//www.valueline.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valueline.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219055031id_/http%3A//www.valueline.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><meta charset="utf-8">
 
 
-<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-site-verification" content="yGJPyHTMpHkt5exv2FEkkvwbvww-gc4BnM4qMbdrcXg"><script type="text/javascript" async="" src="https://web.archive.org/web/20130311112140/https://ssl.google-analytics.com/ga.js"></script><script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script>
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-site-verification" content="yGJPyHTMpHkt5exv2FEkkvwbvww-gc4BnM4qMbdrcXg"><script type="text/javascript" async="" src="https://web.archive.org/web/20140311235900/https://ssl.google-analytics.com/ga.js"></script><script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script>
 <script id="EktronThickBoxJS" type="text/javascript" src="/WorkArea/java/thickbox.js"></script>
 <script id="EktronDmsMenuJS" type="text/javascript" src="/WorkArea/DmsMenu/DmsMenu.js"></script>
 <script id="EktronWebToolBarJS" type="text/javascript" src="/WorkArea/java/webtoolbar.js"></script>
@@ -53,77 +53,30 @@
     
 	<title>Privacy Policy</title>
 
+
     <script type="text/javascript">
-        //   $("#Instbanner").hide();
-        $(document).ready(function () {
-            var BrowserName = "";
-            var BrowserVersion = "";
-            if ($.browser.msie) {
-                BrowserName = "MSIE";
-                BrowserVersion = $.browser.version;
+	$(document).ready(function () {
+//	   highlightLinkFirstWord();
+	});
 
-                if (BrowserVersion == "9.0") {
-                    $("#Instbanner").css('bottom', 'auto');
-                    $("#Instbanner").css('top', '42px');
-                }
-                //$("#Instbanner").show();
-               
-            }
-            adjustBanner();
-            $(window).bind("resize", resizeWindow);
-            function resizeWindow(e) {
-                adjustBanner();
-            }
+	function highlightLinkFirstWord() {
+	//alert('hey');
 
-            function adjustBanner() {
-                var o = $("#Instbanner");
-                var oWidth = o.width();
-                var windowWidth = $(window).width();
+          $('a').each(function () {
+              var h = $(this).html();
+              var index = h.indexOf(' ');
+              if (index == -1) {
+                  index = h.length;
+              }
 
-                var leftOffset = (windowWidth - oWidth) / 2;
-                $("#Instbanner").css("left", leftOffset);
-
-                //cookie
-                if (Get_Cookie("VBanner") == 0) {
-                    $("#Instbanner").hide();
-                }
-                else {
-                    $("#Instbanner").show();
-                }
-
-               
-            }
-        });
-
-       
-        function Get_Cookie(name) {
-            var start = document.cookie.indexOf(name + "=");
-            var len = start + name.length + 1;
-            if ((!start) && (name != document.cookie.substring(0, name.length))) return null;
-            if (start == -1) return null;
-            var end = document.cookie.indexOf(";", len);
-            if (end == -1) end = document.cookie.length;
-            return unescape(document.cookie.substring(len, end));
+              if (h.substring(0, index) == "BETA") {
+//                  $(this).html('<span class="betafirstword">' + h.substring(0, index) + '</span><br/>' + h.substring(index, h.length));
+              }
+          });
         }
-
-        function Set_Cookie(name, value, path, domain, expires, secure) {
-            var cookieString = name + "=" + escape(value) +
-        ((expires) ? ";expires=" + expires.toGMTString() : "") +
-        ((path) ? ";path=" + path : "") +
-        ((domain) ? ";domain=" + domain : "") +
-        ((secure) ? ";secure" : "");
-            document.cookie = cookieString;
-        }
-        function hideAD() {
-
-
-            //  alert(Get_Cookie("VBanner"));
-            Set_Cookie('VBanner', '0', '/', 'valueline.com');
-            $("#Instbanner").hide();
-        }
-          
-         
     </script>
+
+    
 
 <link id="EktronModalCss" href="/WorkArea/java/plugins/modal/ektron.modal.css" type="text/css" rel="stylesheet">
 
@@ -222,7 +175,7 @@
 		<a href="#" rel="normalview" class="default" title="default">default</a>
 		<a href="#" rel="largeview" class="larger" title="larger">larger</a>               
 	</div>
-    <ul id="mainNav"><li class="researchNav">     <a href="http://www.valueline.com/ResearchHub/" class="research">Research Hub</a>     <div class="sub">         <div class="arrow"><img src="/images/header/overlayArrow.png" width="33" height="22"></div>         <div class="row">	            <ul style="display:none;">             <li><h2 class="NoShow"></h2></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Stocks</h2></li>             <li><a class="" href="http://www.valueline.com/Stocks/">Overview</a></li>             <li><a class="" href="http://www.valueline.com/Dow30/index.aspx">Dow 30 Coverage</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlis.aspx">Investment Survey</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlispdf/stk5000/index.aspx">Investment Survey Plus</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlispdf/stk1800/index.aspx">Small &amp; Midcap Survey</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/otc/index.aspx">Special Situations</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlselect/index.aspx">Select</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/VLDivSelect/index.aspx">Dividend Select</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/condense/index.aspx">Value Line 600</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/dl-vlis.aspx">Analyzer</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Funds</h2></li>             <li><a class="" href="http://www.valueline.com/Funds/">Overview</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlmfpdf/www2login.aspx">Fund Advisor</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlmfpdf/www2login.aspx">Fund Advisor Plus</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/dl-mfs.aspx">Fund Survey for Windows</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Options</h2></li>             <li><a class="" href="http://www.valueline.com/Options/">Overview</a></li>             <li><a class="locked-green" href="http://www2.valueline.com/options">Options Survey</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Convertibles</h2></li>             <li><a class="" href="http://www.valueline.com/Convertibles/">Overview</a></li>             <li><a class="locked-green" href="http://www2.valueline.com/convertibles">Convertibles Survey</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">ETF</h2></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/xtfetf/index.aspx">ETF Professional</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Tools</h2></li>             <li><a class="" href="http://www.valueline.com/Tools/">Overview</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlispdf/stk1700/screener.aspx">Screener</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlispdf/stk1700/selected_intro.aspx">Model Portfolio</a></li>             <li><a class="locked-green" href="http://webserver18.valueline.com/Portfolio/index.html">Portfolio Tracker</a></li>             <li><a class="" href="http://www.valueline.com/Tools/Glossary.aspx">Glossary</a></li>             </ul>         </div>      </div>     </li><li class="marketsNav">     <a href="http://www.valueline.com/Markets/index.aspx" class="markets">Markets</a>     <div class="sub" id="short">         <div class="arrow"><img src="/images/header/overlayArrow.png" width="33" height="22"></div>         <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Markets/index.aspx" class="">Overview</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/markets/dailyupdates.aspx" class="">Daily Updates</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Markets/EconomicCalendar.aspx" class="">Economic Calendar</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Markets/Commentaries.aspx" class="">Commentary</a></h2></li>             </ul>         </div>      </div>     </li><li class="productsNav">     <a href="http://www.valueline.com/Products/" class="products">Products</a>     <div class="sub" id="short">         <div class="arrow"><img src="/images/header/overlayArrow.png" width="33" height="22"></div>         <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products" class="">Overview</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Stocks" class="">Stocks</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Funds" class="">Funds</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Options" class="">Options</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Convertibles" class="">Convertibles</a></h2></li>             </ul>          </div>          <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#ETFs" class="">ETFs</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Data_Licensing" class="">Data Licensing</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Research_Center" class="">Research Center</a></h2></li>             </ul>         </div>      </div>     </li><li class="investmentNav">     <a href="http://www.valueline.com/InvestmentEducation/index.aspx" class="investment">Investment Education</a>     <div class="sub" id="short">         <div class="arrow"><img src="/images/header/overlayArrow.png" width="33" height="22"></div>         <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/InvestmentEducation/index.aspx" class="">Overview</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a target="_blank" href="http://www3.valueline.com/pdf/VL_UserGuide.pdf" class="">Getting Started</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Tools/How_To_Use_Value_Line_Pages.aspx" class="">How To Use</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Tools/Sample_Reports.aspx" class="">Sample Reports</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www3.valueline.com/sup_howtoinvest.aspx" class="">Guides</a></h2></li>             </ul>          </div>          <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Tools/Educational_Articles/" class="">Articles</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www3.valueline.com/sup_faqs.aspx" class="">FAQs</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Tools/Glossary.aspx" class="">Glossary</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www3.valueline.com/dow30/index.aspx" class="">Free Reports</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/About/Ranking_System.aspx" class="">Ranks</a></h2></li>             </ul>         </div>      </div>     </li></ul>
+    <ul id="mainNav"><li class="researchNav">     <a href="http://www.valueline.com/ResearchHub/" class="research">Research Hub</a>     <div class="sub">         <div class="arrow"><img src="/images/header/overlayArrow.png" width="33" height="22"></div>         <div class="row">	            <ul style="display:none;">             <li><h2 class="NoShow"></h2></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Stocks</h2></li>             <li><a class="" href="http://www.valueline.com/Stocks/">Overview</a></li>             <li><a class="" href="http://www.valueline.com/Dow30/index.aspx">Dow 30 Coverage</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlis.aspx">Investment Survey</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlispdf/stk5000/index.aspx">Investment Survey Plus</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlispdf/stk1800/index.aspx">Small &amp; Midcap Survey</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/otc/index.aspx">Special Situations</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlselect/index.aspx">Select</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/VLDivSelect/index.aspx">Dividend Select</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/condense/index.aspx">Value Line 600</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/dl-vlis.aspx">Analyzer</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Funds</h2></li>             <li><a class="" href="http://www.valueline.com/Funds/">Overview</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlmfpdf/www2login.aspx">Fund Advisor</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlmfpdf/www2login.aspx">Fund Advisor Plus</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/dl-mfs.aspx">Fund Survey for Windows</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Options</h2></li>             <li><a class="" href="http://www.valueline.com/Options/">Overview</a></li>             <li><a class="locked-green" href="http://www2.valueline.com/options">Options Survey</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Convertibles</h2></li>             <li><a class="" href="http://www.valueline.com/Convertibles/">Overview</a></li>             <li><a class="locked-green" href="http://www2.valueline.com/convertibles">Convertibles Survey</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">ETF</h2></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/xtfetf/index.aspx">ETF Professional</a></li>             </ul>	            <ul class="border">             <li><h2 class="noLink">Tools</h2></li>             <li><a class="" href="http://www.valueline.com/Tools/">Overview</a></li>             <li><a class="" href="http://www.valueline.com/NewStockTools">BETA Equity Research Tools</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlispdf/stk1700/screener.aspx">Screener</a></li>             <li><a class="locked-green" href="http://www3.valueline.com/secure/vlispdf/stk1700/selected_intro.aspx">Model Portfolio</a></li>             <li><a class="locked-green" href="http://webserver18.valueline.com/Portfolio/index.html">Portfolio Tracker</a></li>             <li><a class="" href="http://www.valueline.com/Tools/Glossary.aspx">Glossary</a></li>             </ul>         </div>      </div>     </li><li class="marketsNav">     <a href="http://www.valueline.com/Markets/index.aspx" class="markets">Markets</a>     <div class="sub" id="short">         <div class="arrow"><img src="/images/header/overlayArrow.png" width="33" height="22"></div>         <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Markets/index.aspx" class="">Overview</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/markets/dailyupdates.aspx" class="">Daily Updates</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Markets/EconomicCalendar.aspx" class="">Economic Calendar</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Markets/Commentaries.aspx" class="">Commentary</a></h2></li>             </ul>         </div>      </div>     </li><li class="productsNav">     <a href="http://www.valueline.com/Products/" class="products">Products</a>     <div class="sub" id="short">         <div class="arrow"><img src="/images/header/overlayArrow.png" width="33" height="22"></div>         <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products" class="">Overview</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Stocks" class="">Stocks</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Funds" class="">Funds</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Options" class="">Options</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Convertibles" class="">Convertibles</a></h2></li>             </ul>          </div>          <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#ETFs" class="">ETFs</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Data_Licensing" class="">Data Licensing</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Products/#Research_Center" class="">Research Center</a></h2></li>             </ul>         </div>      </div>     </li><li class="investmentNav">     <a href="http://www.valueline.com/InvestmentEducation/index.aspx" class="investment">Investment Education</a>     <div class="sub" id="short">         <div class="arrow"><img src="/images/header/overlayArrow.png" width="33" height="22"></div>         <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/InvestmentEducation/index.aspx" class="">Overview</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a target="_blank" href="http://www3.valueline.com/pdf/VL_UserGuide.pdf" class="">Getting Started</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Tools/How_To_Use_Value_Line_Pages.aspx" class="">How To Use</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Tools/Sample_Reports.aspx" class="">Sample Reports</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www3.valueline.com/sup_howtoinvest.aspx" class="">Guides</a></h2></li>             </ul>          </div>          <div class="row">	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Tools/Educational_Articles/" class="">Articles</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www3.valueline.com/sup_faqs.aspx" class="">FAQs</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/Tools/Glossary.aspx" class="">Glossary</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www3.valueline.com/dow30/index.aspx" class="">Free Reports</a></h2></li>             </ul>	            <ul>             <li><h2 class=""><a href="http://www.valueline.com/About/Ranking_System.aspx" class="">Ranks</a></h2></li>             </ul>         </div>      </div>     </li></ul>
 
 </div>
 
@@ -244,7 +197,7 @@
             <h2>Privacy Policy</h2>
             <div id="ctl00_MainContent_ContentBlock1">
 	<div class="EktronAjaxLoading" align="left"><img src="/WorkArea/images/application/loading_big.gif" alt="Loading..."></div><p><strong>Our Commitment to Your Privacy:</strong> </p>
-<p>Your privacy is important to us and we are strongly committed to protecting your privacy. This privacy policy applies to information we may collect from you or that you may provide when you visit our web sites <a href="">www.valueline.com</a> and <a href="http://www.valuelinepro.com">www.valuelinepro.com</a> (collectively, the “Web sites”), or when you interact with our advertising and applications on third-party web sites and services, if those advertising or applications include links to this policy. This policy also applies to information we collect offline when you subscribe to the print editions of Value Line publications. </p>
+<p>Your privacy is important to us and we are strongly committed to protecting your privacy. This privacy policy applies to information we may collect from you or that you may provide when you visit our web sites <a>www.valueline.com</a> and <a href="http://www.valuelinepro.com">www.valuelinepro.com</a> (collectively, the “Web sites”), or when you interact with our advertising and applications on third-party web sites and services, if those advertising or applications include links to this policy. This policy also applies to information we collect offline when you subscribe to the print editions of Value Line publications. </p>
 <p><strong>What Personal Information We Collect:</strong> </p>
 <p>We collect personal information that you voluntarily provide on the Web sites, on third-party web sites and applications when you interact with our advertising and applications, or offline in connection with your subscription to the print editions of Value Line publications, which may include your name, address, e-mail address, credit card number, billing information, job title, name of your employer, etc. For example, we collect personal information when you register on the Web sites, purchase certain services or products, or submit the information to enter a sweepstakes, or other promotion. If you are using our portfolio-tracking feature, news services or any other feature, we collect and store whatever information you voluntarily provide. We recognize that any information you input into the portfolio-tracking feature is of special concern to you. We keep this information confidential and will not disclose it to unaffiliated parties. </p>
 <p>We may also collect information relating to your use of our Web sites through the use of various technologies. Please see Tracking Technologies section below for more details. </p>
@@ -266,11 +219,11 @@
 <p>You may send us an e-mail at <a href="mailto:infoprivacy@valueline.com">infoprivacy@valueline.com</a> to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement, cause the information to be incorrect, require disproportionate technical effort, or jeopardize the privacy of others. </p>
 <p><strong>Your California Privacy Rights</strong> </p>
 <p>If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to our affiliates and/or third parties for their direct marketing purposes. To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to <a href="mailto:infoprivacy@valueline.com">infoprivacy@valueline.com</a>. Please include “California Privacy Rights” in the Subject line of your email. You may also make such a request by writing to us at: </p>
-<address style="FONT-STYLE: normal; MARGIN-BOTTOM: 10px">Value Line, Inc. <br>Attn: Legal Department <br>220 E 42nd Street, 6th FL <br>New York, NY 10017 </address><p><strong>How to Contact Us About Privacy Matters:</strong> </p>
+<address style="font-style: normal; margin-bottom: 10px;">Value Line, Inc. <br>Attn: Legal Department <br>485 Lexington Avenue<br>New York, NY 10017 </address><p><strong>How to Contact Us About Privacy Matters:</strong> </p>
 <p>If you would like to contact us for any reason concerning our privacy practices, please email us at <a href="mailto:infoprivacy@valueline.com">infoprivacy@valueline.com</a>. </p>
 <p><strong>Changes to Our Privacy Policy:</strong> </p>
 <p>We may update this Privacy Policy from time to time and will notify all users by posting the new policy on our Web Sites. Please check back here periodically to review our latest policy. </p>
-<p>Updated: March 27, 2013 </p>
+<p>Updated: Sept. 10, 2013 </p>
 </div>
             
         </div>
@@ -279,7 +232,7 @@
     
 
 
-            
+       
         </div>
         
 
@@ -429,7 +382,7 @@
 
 
         <ul>
-         <span id="ctl00_FooterBar_Collection1"><li style="display: inline; border: solid; border-width: 0px 1px 0 0px; margin: 0 0.5em 0 0;"><a style="margin: 0px 5px 0px 0px;" href="http://www.valueline.com/About/Contact.aspx">Contact Value Line</a></li><li style="display: inline; border: solid; border-width: 0px 1px 0 0px; margin: 0 0.5em 0 0;"><a style="margin: 0px 5px 0px 0px;" href="http://www.surveymonkey.com/s/Value_Line_website_feedback">Feedback</a></li><li style="display: inline; border: solid; border-width: 0px 1px 0 0px; margin: 0 0.5em 0 0;"><a style="margin: 0px 5px 0px 0px;" href="http://www.valueline.com/About/Site_Map.aspx">Sitemap</a></li><li style="display: inline; border: solid; border-width: 0px 1px 0 0px; margin: 0 0.5em 0 0;"><a style="margin: 0px 5px 0px 0px;" href="http://www.valueline.com/enewsletters/">eNewletters</a></li><a style="margin: 0px 0px 0px 0px;" href="http://www.valueline.com/Products/">Subscribe</a><input name="ctl00$FooterBar$Collection1$ctl00$FooterBar$Collection1EktronClientManager" type="hidden" id="ctl00_FooterBar_Collection1_ctl00_FooterBar_Collection1EktronClientManager" value="EktronJS,EktronThickBoxJS,EktronDmsMenuJS,AjaxScript"></span>
+         <span id="ctl00_FooterBar_Collection1"><li style="display: inline; border: solid; border-width: 0px 1px 0 0px; margin: 0 0.5em 0 0;"><a style="margin: 0px 5px 0px 0px;" href="http://www.valueline.com/About/Contact.aspx">Contact Value Line</a></li><li style="display: inline; border: solid; border-width: 0px 1px 0 0px; margin: 0 0.5em 0 0;"><a style="margin: 0px 5px 0px 0px;" href="http://www.surveymonkey.com/s/Value_Line_website_feedback">Feedback</a></li><li style="display: inline; border: solid; border-width: 0px 1px 0 0px; margin: 0 0.5em 0 0;"><a style="margin: 0px 5px 0px 0px;" href="http://www.valueline.com/About/Site_Map.aspx">Sitemap</a></li><li style="display: inline; border: solid; border-width: 0px 1px 0 0px; margin: 0 0.5em 0 0;"><a style="margin: 0px 5px 0px 0px;" href="http://www.valueline.com/enewsletters/">eNewsletters</a></li><a style="margin: 0px 0px 0px 0px;" href="http://www.valueline.com/Products/">Subscribe</a><input name="ctl00$FooterBar$Collection1$ctl00$FooterBar$Collection1EktronClientManager" type="hidden" id="ctl00_FooterBar_Collection1_ctl00_FooterBar_Collection1EktronClientManager" value="EktronJS,EktronThickBoxJS,EktronDmsMenuJS,AjaxScript"></span>
             <!--<li><h3>Site Info</h3></li>-->
           <!--  <li><a href="/Terms.aspx">Terms & Conditions</a></li>
             <li><a href="/Privacy.aspx">Privacy</a></li>
