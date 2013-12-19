@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tvovermind.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222002629id_/http%3A//www.tvovermind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvovermind.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219105815id_/http%3A//www.tvovermind.com/privacy) for the most accurate reproduction.*
 
-# Privacy TVOvermind
-
-[](http://www.tvovermind.com/privacy "Privacy")
+# Privacy - TVOvermind
 
 **What information do we collect?**
 
@@ -10,7 +8,7 @@ We collect information from you when you register on our site, subscribe to our 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies[, click here.](http://www.networkadvertising.org./)
 
@@ -48,6 +46,8 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 **Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.tvovermind.com/terms/>
@@ -62,8 +62,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.tvovermind.com/contact-us/
 
-175 Main St  
-townsend, MA 01469admin@tvovermind.com  
-978-210-3800
+505 Paradise Rd. #108
 
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
+Swampscott, MA 01907
+
+admin@tvovermind.com  
+877-608-7868
