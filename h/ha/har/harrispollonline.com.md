@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218104225id_/http%3A//www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrispollonline.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219213017id_/http%3A//www.harrispollonline.com/PrivacyPolicy/tabid/1754/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # Harris Poll Online: Privacy Policy
 
-_Updated and Effective as of: July 24, 2012_
-
-[](http://www.truste.org/ivalidate.php?companyName=Harrisinteractive.com&sealid=102)
+_Updated and Effective as of: October 10, 2013_
 
 Harris Interactive Inc. (collectively with its affiliates, subsidiaries and divisions, "Harris Interactive" or "we" or "us"), a leading market research company, is firmly committed to protecting your privacy. We routinely review our security features and privacy practices, and enhance them to better protect your privacy. This Privacy Policy explains in general terms how we collect, store, use, and disclose your Personal Information (as defined below) and certain other information that we receive from you.
 
@@ -16,7 +14,7 @@ You acknowledge your consent to this Privacy Policy if you:
 
 
 
-Harris Interactive Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](https://surveyhelp.hpolsurveys.com/support/?ls=HIR). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+[](http://www.casro.org/?page=CASROSeal)
 
 We also participate in and adhere to the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland (the "Frameworks"). Information about the Safe Harbor program can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor). Our compliance with the Frameworks may be limited in certain cases to the extent necessary to meet national security, public interest, or law enforcement requirements.
 
