@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618020217id_/http%3A//www.beyondhollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219111617id_/http%3A//www.beyondhollywood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BeyondHollywood.com
 
@@ -30,4 +30,4 @@ BeyondHollywood.com contains links to other sites that we think are interesting 
 
 **Contacting Us  
 **  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the webmaster using this [email](mailto:general@beyondhollywood.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the webmaster using this general (at) beyondhollywood.com.
