@@ -1,52 +1,27 @@
-> *The following text is extracted and transformed from the rockdizfile.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232238id_/http%3A//rockdizfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockdizfile.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219030204id_/http%3A//rockdizfile.com/privacy.html) for the most accurate reproduction.*
 
-# RockDizFile.com - Easy way to share your files
+# Rockdizfile - Upload & Download for free
 
-RockDizFile (the "Company"), is thankful to have you accessing this web site (the "Site"). The Company wants to assure you that we respect your privacy because we know that trust is the key to any successful relationship. The following Privacy Policy describes the Company's commitment to protect your personal information.
+RockDizFile is committed to protecting your privacy online. We will not rent, sell or share your personal information with third parties, except when required by law.
 
-This Privacy Policy explains how the Company collects, uses and discloses your personal information. This Privacy Policy also explains the steps the Company has taken to ensure that your personal information is secure. Finally, this Privacy Policy explains your choices regarding the collection, use and disclosure of your personal information.
+What information do we collect?  
+RockDizFile doesn’t collect any personal information at the moment.
 
-THE COMPANY IS NOT RESPONSIBLE FOR THE CONTENT OR PRIVACY PRACTICES ON ANY WEB SITES NOT AFFILIATED WITH THE COMPANY TO WHICH THIS SITE LINKS.
+### Cookies & 3rd Party Advertisements
 
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in the e-mail that you receive. You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website. Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. 3rd party advertising companies may also use cookies for tracking purposes. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-## INFORMATION COLLECTION AND USE
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
 
-  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org.
 
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com.vclk.net/legal/privacy/display-web-user>. 
 
-  1. ### Information Collection
+### Your Consent
 
-\- The Company collects personal information from you at several different points and in different ways on this Site. The Company will provide opt-out instructions before using your personal information to contact you. The Company's primary goal in collecting personal information from you is to provide you with an efficient, meaningful and customized experience. For example, the Company can use your personal information to: 
-    * make this Site easier for you to use by not having to enter information more than once.
-    * help the Company show you content on this Site that is most relevant to you.
-    * alert you to updated information and services offered by the Company.
-  
+By using our website, you consent to the collection and use of your personal information by RockDizFile as outlined in this Privacy Policy.
 
-    1. **Registration** \- To use this Site you may be required to first complete an online registration form. During registration you will be prompted to provide to the Company certain personal information, and possibly credit reference information, including but not limited to your name, address, phone number and e-mail address. In addition, the Company may also ask you for your country of residence.
-    2. **Use** \- During your use of the Site, the Company may also collect information regarding your preferences with respect to the content that you view, so that it may provide a more customized and relevant browsing experience for you in the future.
-    3. **Your Content Files** \- Files that you may upload to the Site shall be protected as follows: RockDizFile does not guarantee that all files will be deleted from its services upon termination of your account; however RockDizFile will not use your information or your files except as set out on this Privacy Policy.
-    4. **Cookies and Other Technology** \- The Company may collect aggregated site-visitation statistical information through "cookies" and other technology, such as Clear GIF technology, which is also known as a "web beacon". Such aggregated statistical information is non-personal information. This Site employs cookies and web beacons to speed your navigation of the Site, recognize each user and its access privileges, and tracks a user's site usage. 
-      1. "Cookies" are small pieces of information that are stored by a user's Internet browser on a user's computer's hard drive. Most Internet browsers are initially set to accept cookies. A user can set his or her browser to refuse cookies, but the user will not be able to access or use portions of this Site. THIS SITE'S COOKIES DO NOT HAVE THE CAPABILITY OF INFILTRATING A USER'S HARD DRIVE AND GATHERING A USER'S PERSONAL INFORMATION.
-      2. "Web beacons" assist in delivering cookies and help the Company determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.
-  
+### Modification of Privacy Policy
 
-    5. **Log Files** \- The Site server automatically recognizes the Internet URL from which you access this Site. The Company may also log your Internet protocol ("IP") address for system administration and troubleshooting purposes. (An IP address indicates the location of your computer on the Internet.) The Company does not link an IP address to any personally identifiable information.
-  
-
-  2. ### Information Use and Disclosure
-
-    1. **Internal Use** \- The Company may identify you in connection with your use of certain aspects of this Site. For example, the Company may identify you by your viewing history, IP address, profile information, aggregate user data, and/or browser type. The Company may also request (although not require) other profile data including but not limited to: geographical information (such as zip code), personal interests, gender, education, occupation and income level. The Company may internally use your personal and non-personal information to track its users' demographics, improve the Company's marketing and promotional efforts, to improve the Site's content and/or layout, and to determine general marketplace information about visitors to this Site.
-    2. **External Use** \- The Company does not sell, rent, license or otherwise disclose your specific personal information or financial information to any third parties, but the Company may be required to disclose such information in response to a valid court order or if the Company is otherwise required to disclose such information by law, including without limitation, in response to investigations conducted by law enforcement agencies. If the Company should ever file for bankruptcy or merge with another company, the Company may sell or otherwise distribute the information you provide to us on this Web site to a third party or share your personal information with the company with which the Company merged. The Company does not use any outside companies to ship the Company products, to process customer orders or to process financial transactions.
-
-
-
-WHILE THE COMPANY HAS TAKEN EVERY COMMERCIALLY REASONABLE PRECAUTION TO SAFEGUARD YOUR PERSONAL INFORMATION, THE COMPANY CANNOT GUARANTEE COMPLETE SECURITY BECAUSE COMPLETE SECURITY DOES NOT PRESENTLY EXIST ON THE INTERNET. 
-
-## OPT OUT/CORRECTIONS
-
-Upon your request, the Company will (a) remove your personal information from the Company's database (which might cancel your subscription to this Site or a portion of this Site); or (b) correct or update your personal information. You can request that the Company remove, correct or update your personal information at the customer information section of this Site or by mailing, telephoning, or e-mailing your request to the Company's Customer Support department at rockdizfile@hotmail.com 
-
-## UPDATES TO THIS POLICY
-
-The Company encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated.
+RockDizFile may modify the Privacy Policy which will become effective immediately upon posting on the website. Your continued use of the website and any associated services indicates your acceptance of the Privacy Policy. 
