@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etihad.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613153346id_/http%3A//www.etihad.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etihad.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219231037id_/http%3A//www.etihad.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Etihad Airways Privacy Policy
 
