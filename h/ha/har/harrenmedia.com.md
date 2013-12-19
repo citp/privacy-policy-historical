@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrenmedia.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602040832id_/http%3A//www.harrenmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrenmedia.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219011040id_/http%3A//www.harrenmedia.com/privacy.html) for the most accurate reproduction.*
 
 # harrenmedia // Global knowlege, local results
 
