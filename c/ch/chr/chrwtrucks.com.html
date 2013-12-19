@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chrwtrucks.com privacy policy that was archived on 2013-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527031141id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chrwtrucks.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219090145id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head"><title>
 	Global Privacy Policy - C.H. Robinson
@@ -90,7 +90,8 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
     <script src="/Components/ChRobinson/Design/Scripts/jquery-ui-1.7.1.custom.min.js" type="text/javascript"></script>
     <script src="/Components/ChRobinson/Design/Scripts/jquery-ui-datepicker-localizations.js" type="text/javascript"></script>
     <script type="text/javascript" src="/Components/ChRobinson/Design/shadowbox-build-3.0b/shadowbox.js"></script>
-
+    <script src="http://jwpsrv.com/library/Gayl5vb1EeKOryIACusDuQ.js" type="text/javascript"></script>
+    
     <script type="text/javascript">
         Shadowbox.init({
             players: ["flv", "wmp", "swf", "html", "iframe", "img"],
@@ -141,7 +142,7 @@ return;
 }
 });
 </script>
-<meta name="description" content="C.H. Robinson is a leading global third party logistics (3PL) provider, offering multimodal supply chain, produce sourcing, and information services and executing strategic transportation solutions for shippers and contract carriers.">
+
         <!-- BEGIN Tynt Script -->
         <script type="text/javascript">
             if (document.location.protocol == 'http:') {
@@ -299,6 +300,9 @@ return;
 <a target="_blank" href="http://www.atozworldtrade.com/chrobinson/chrobinson.asp?node=codes">World Airport Locator</a>
 </li>
 <li>
+<a href="/en/us/Global-Services/Global-Trade-Resources/US-Ocean-LCL-Export-Sailing-Schedule/">U.S. Ocean LCL Export Sailing Schedule</a>
+</li>
+<li>
 <a href="/en/us/Global-Services/Global-Trade-Resources/Global-Trade-Library/">Global Trade Library</a>
 </li>
 </ul>
@@ -408,7 +412,7 @@ return;
 
     function populateLogin() {
         if ('False' == 'True') {
-            document.getElementById("username").value = '';
+            document.getElementById("username").value = unescape('');
             document.getElementById("service").value = '';
             document.getElementById("universalLoginForm").action = '';
             document.getElementById("remember").checked = true;
@@ -428,7 +432,7 @@ return;
             var action = document.getElementById("service").value;
             var expiredTime = new Date().getTime() + 365 * 24 * 60 * 60 * 1000;
             var expiredDate = new Date(expiredTime);
-            document.cookie = 'chrwRemember=username=' + user + '&action=' + action + '; expires=' + expiredDate.toUTCString() + '; path=/';
+            document.cookie = 'chrwRemember=username=' + escape(user) + '&action=' + action + '; expires=' + expiredDate.toUTCString() + '; path=/';
         }
         else {
             // Clear cookie
@@ -480,10 +484,10 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
     <form action="https://navisphere.chrobinson.com/login.aspx" method="post" name="universalLoginForm" id="universalLoginForm" onsubmit="return submitUniversalLogin();">
         <div>
             <input type="text" id="username" name="universalLoginUsername" value="Username" onfocus="ClearInput('Username', this.id);" tabindex="2"><br>
-            <input type="password" id="password" name="universalLoginPassword" value="Password" onfocus="ClearInput('Password', this.id);" tabindex="3"><br>
+            <input type="password" id="password" name="universalLoginPassword" value="Password" onfocus="ClearInput('Password', this.id);" tabindex="3" autocomplete="off"><br>
             
             <select id="service" name="universalLoginDropDown" tabindex="4">
-                <option value="https://navisphere.chrobinson.com/login.aspx" selected="">Navisphere</option><option value="https://www.chrwtrucks.com/Default.aspx">CHRWTrucks</option><option value="http://robinet.robinsoneurope.com:8080/login.aspx">CHREUTransport</option>
+                <option value="https://navisphere.chrobinson.com/login.aspx" selected="">Navisphere</option><option value="https://www.chrwtrucks.com/Default.aspx">CHRWTrucks</option><option value="http://robinet.robinsoneurope.com:8080/login.aspx">CHREUTransport</option><option value="https://ft2.phoenixtrack.com/cas/login?service=http://www.ft2.phoenixtrack.com/GlobalTracking/">FastTrack</option>
             </select>
 
             <input name="phmaincontent_0$ctl00$ctl01" type="submit" class="button primary" onclick="getIndex();s=s_gi(s_account);
@@ -567,6 +571,14 @@ s.tl(this,'o','Login');" tabindex="6" value="Login">
 		</div>
 		<div class="connect-link">
 			<a target="_blank" href="http://www.youtube.com/chrobinsonworldwide">YouTube</a>
+		</div>
+	</div>
+	<div class="connect-item">
+		<div class="connect-image">
+			<a target="_blank" href="http://blog.mytmc.com/"><img src="/en/us/-/media/ChRobinson/Callouts/Social Media/connect-connect.jpg" alt="Connect Chicklet" width="24" height="24"></a>
+		</div>
+		<div class="connect-link">
+			<a target="_blank" href="http://blog.mytmc.com/">Connect</a>
 		</div>
 	</div>
 
@@ -658,6 +670,32 @@ s.tl(this,'o','Login');" tabindex="6" value="Login">
 <p><b>Data Transfers</b></p>
 <p>We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this policy.</p>
 <p>If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. C.H.&nbsp;Robinson has certified that it abides by the Safe Harbor privacy principles as set forth by the U.S. Department of Commerce regarding the collection, storage, use, transfer, and other processing of personal data transferred from the EEA or Switzerland to the United States. <a href="/en/us/Privacy-Policy/Safe-Harbor/">Click here</a> to view our Safe Harbor Privacy Policy. For more information about the Safe Harbor privacy principles, visit <a href="http://export.gov/safeharbor/" target="_blank">export.gov/safeharbor</a>.</p>
+<p>The following C.H. Robinson entities in Europe may process personal data provided from the C.H. Robinson Europe website and/or may be considered the responsible party under your local law:</p>
+<p>C.H. Robinson Worldwide, Inc.: 14701 Charlson Road, Eden Prairie, Minnesota, USA 55347 (No EU VAT#).</p>
+<p>C.H. Robinson Europe B.V.: Parnassusweg 821, 1082 LZ Amsterdam, The Netherlands, Registration# 34184256, VAT# NL811514274B01 </p>
+<p>C.H. Robinson Belgium BVBA: Noorderplaats 5<br>
+2000 Antwerp, Registration# 0477976606, VAT# BE 0477976606 </p>
+<p>C.H. Robinson Czech Republic s.r.o.: Prague 3, Vinoh•rady, Vinohradskã 2396/184, Postal Code 130 00, Registration# 27250440, VAT# CZ 27250440</p>
+<p>C.H. Robinson France SAS: 6, rue du Colonel Rémy 14000 Caen, France, Registration# 322939265, VAT# FR 43322939265 </p>
+<p>C.H. Robinson Sourcing SAS: SITE AGROPARC, Bâtiment R.Barthes, BP 71563, 84916 AVIGNON CEDEX 9, France, Registration# 512330283, VAT# FR59512330283 </p>
+<p>C.H. Robinson Worldwide GmbH: Heidenkampsweg 100 Hamburg 20097, Germany, Registration# B 31 797, VAT# DE 118656348 </p>
+<p>C.H. Robinson Hungaria Szallitmanyozasi Kft.: Office Garden 2, Aliz utca. 2 1117 Budapest, Hungary, Registration# 01-09-706042, VAT# HU 12840937 </p>
+<p>C.H. Robinson Worldwide (Ireland) Limited: Unit 20, Shannon Business Centre, Shannon, County Clare, Registration# IE 90538, VAT# IE8233049C</p>
+<p>C.H. Robinson International Italy, S.r.l.: Viale Del Mulino 1 - Palazzo U10 Livello 2° 20090 Assago Milanofiori (MI) Italy, Registration# 04741940961, VAT# IT 04741940961 </p>
+<p>C.H. Robinson Luxembourg S.a.r.l.: Cubus C3 4 Rue Peternelchen Howald, 2370 Luxembourg, Registration# B 141.488, VAT# LU23145858</p>
+<p>C.H. Robinson Poland sp. z o.o.: Al Jana Pawla II 29 Warsaw, 00-867 Poland, Registration# 000013499, VAT# PL 5291481922 </p>
+<p>C.H. Robinson Ibérica, S.L.: Calle Gurdubay 5, Madrid, 28001, Spain, Registration# 8-73792, VAT# ESB 80434756</p>
+<p>C.H. Robinson Worldwide (UK) Limited: Units 8/9, Blackthorne Crescent Colnbrook SL3 0QR, United Kingdom, Registration# 1383545, VAT# GB 225433289 </p>
+<p>C.H. Robinson Sweden AB: Spannramen 1, Adress Göteborgsvägen 175, Post.nr 50463 Borås Sweden Registration # 556817-1390, VAT# SE556817139001</p>
+<div></div>
+<p>C.H. Robinson Polska, S.A.: ul. Ostroroga 24 C, 01-163 Warszawa, Poland Registration Nr: (KRS) 0000281670 VAT Nr: PL525-23-92-290 </p>
+<p>Apreo Logistics GmbH: Rosenthalstrasse 30, 42369 Wuppertal, Germany Registration Nr: (HRB) 23411 VAT Nr: DE276568094 </p>
+<p>CHROBINSON Logistics and Transport Services Limited (Turkey): Veko Giz Plaza, Meydan Sokak No 3/45, Kat: 14, Oda: 1401, 34396, Maslak, Instanbul, Turkey, Registration # ITO - 856134, VAT# TR 209 056 8121, tax ID 2090568121</p>
+<p>Phoenix International Freight Services, Ltd. (Ireland): International Logistics Centre, Unit 1, North West Business Park, Ballycoolin, Dublin 15, Ireland, Registration # 304282, VAT# IE6324282V</p>
+<p>Phoenix International Freight Services, Ltd. (UK): Unit 2 Sycamore Rd, Trent Lane Ind Est, Castle Donington, Derby DE74 2NP United Kingdom, Registration Nr: 1447025, VAT Nr. GB30 970 32 68</p>
+<p>Phoenix International Freight Services, Ltd. (France): 165 Avenue du Bois de la pie, Parc de reflets – ZAC Paris Nord II, BP 18371, Roissy CDG Cedex 95706, Registration # 510036148, VAT# FR95510036148</p>
+<p>C.H. Robinson Switzerland GmbH: Stänzlergasse 4, Basel, 4051 Switzerland, Registration # CHE-374.524.846, VAT# CHE-374.524.846</p>
+<p>C.H. Robinson Austria GmbH: Kaiserjägerstraße 1 Innsbruck 6020, Austria, Registration # FN 401953 h, VAT# ATU 68252669 </p>
 <p><b>How We Protect Personal Information</b></p>
 <p>We maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of information about you. Unfortunately, no Web site, server or database is completely secure or "hacker proof." We therefore cannot guarantee that information about you will not be disclosed, misused or lost by accident or by the unauthorized acts of others. C.H.&nbsp;Robinson never collects information for third party commercial marketing purposes nor does it create individual profiles or provide your information to any third party organization. C.H.&nbsp;Robinson will only share your information with third parties when and as you request or as otherwise required by law. </p>
 <p><b>Use of Our Web Sites by Children Under the Age of Thirteen</b></p>
@@ -699,15 +737,15 @@ United States<br>
 
 		</div>
 		
-<ul id="subnavigation"><li><a href="/en/us/Privacy-Policy/Safe-Harbor/">Safe Harbor Privacy Policy</a></li></ul>
+<ul id="subnavigation"><li><a href="/en/us/Privacy-Policy/Bill-of-Lading/">Bill of Lading Terms and Conditions</a></li><li><a href="/en/us/Privacy-Policy/Safe-Harbor/">Safe Harbor Privacy Policy</a></li></ul>
 
         
 	</div><!-- close content div -->
 </div><!-- close main div -->
         <div id="footer">
 	<div class="socialmedia-footer" style="width:120px; float:right;">
-	<a target="_blank" href="http://www.linkedin.com/company/c-h-robinson?trk=tabs_biz_home"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/linkedin-16.gif" alt="Linked In" width="16" height="16"></a><a href="http://twitter.com/#!/chrobinsoninc" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/twitter-16.gif" alt="Twitter" width="16" height="16"></a><a href="http://www.facebook.com/pages/CH-Robinson-Worldwide-Inc/46659056392" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/facebook-16.gif" alt="Facebook" width="16" height="16"></a><a href="http://www.youtube.com/chrobinsonworldwide" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/youtube-16.gif" alt="You Tube" width="16" height="16"></a><a href="http://blog.chrobinson.com/" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/transportfolio-16.gif" alt="Transportfolio - Blog" width="16" height="16"></a></div>
-	<p>© 1996-2013 C.H. Robinson Worldwide, Inc. All Rights Reserved. EOE 14701 Charlson Road, Eden Prairie, MN 55347-5076 | <a href="tel:1-855-229-6128" class="phoneFooter" onclick="s=s_gi('chr-chrobinsoncom09'); s.linkTrackVars='eVar11,events'; s.linkTrackEvents='event6'; s.eVar11='1-855-229-6128'; s.events='event6'; s.tl(this,'o','Phone Link');">1-855-229-6128</a> | <a href="tel:952-683-2800" class="phoneFooter" onclick="s=s_gi('chr-chrobinsoncom09'); s.linkTrackVars='eVar11,events'; s.linkTrackEvents='event6'; s.eVar11='952-683-2800'; s.events='event6'; s.tl(this,'o','Phone Link');">952-683-2800</a></p><p class="links"><a href="/en/us/Help/" class="nobreak">Help</a> <a href="/en/us/Site-Map/" class="nobreak">Site Map</a> <a href="/en/us/Privacy-Policy/" class="nobreak">Global Privacy Policy</a> <a href="/en/us/Privacy-Policy/Safe-Harbor/" class="nobreak">Safe Harbor Privacy Policy</a> <a href="/en/us/Terms-Of-Use/" class="nobreak">Terms Of Use</a> </p>
+	<a target="_blank" href="http://www.linkedin.com/company/c-h-robinson?trk=tabs_biz_home"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/linkedin-16.gif" alt="Linked In" width="16" height="16"></a><a href="http://twitter.com/#!/chrobinsoninc" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/twitter-16.gif" alt="Twitter" width="16" height="16"></a><a href="http://www.facebook.com/pages/CH-Robinson-Worldwide-Inc/46659056392" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/facebook-16.gif" alt="Facebook" width="16" height="16"></a><a href="http://www.youtube.com/chrobinsonworldwide" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/youtube-16.gif" alt="You Tube" width="16" height="16"></a><a href="http://blog.chrobinson.com/" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/transportfolio-16.gif" alt="Transportfolio - Blog" width="16" height="16"></a><a href="http://blog.mytmc.com/" style="margin-left:4px;" target="_blank"><img src="/en/us/-/media/ChRobinson/PageWrapper/Social Media/connect-16.png" alt="Connect Blog" width="16" height="16"></a></div>
+	<p>© 1996-2013 C.H. Robinson Worldwide, Inc. All Rights Reserved. EOE 14701 Charlson Road, Eden Prairie, MN 55347-5076 | <a href="tel:1-855-229-6128" class="phoneFooter" onclick="s=s_gi('chr-chrobinsoncom09'); s.linkTrackVars='eVar11,events'; s.linkTrackEvents='event6'; s.eVar11='1-855-229-6128'; s.events='event6'; s.tl(this,'o','Phone Link');">1-855-229-6128</a> | <a href="tel:952-683-2800" class="phoneFooter" onclick="s=s_gi('chr-chrobinsoncom09'); s.linkTrackVars='eVar11,events'; s.linkTrackEvents='event6'; s.eVar11='952-683-2800'; s.events='event6'; s.tl(this,'o','Phone Link');">952-683-2800</a></p><p class="links"><a href="/en/us/Help/" class="nobreak">Help</a> | <a href="/en/us/Site-Map/" class="nobreak">Site Map</a> | <a href="/en/us/Privacy-Policy/" class="nobreak">Global Privacy Policy</a> | <a href="/en/us/Privacy-Policy/Safe-Harbor/" class="nobreak">Safe Harbor Privacy Policy</a> | <a href="/en/us/Terms-Of-Use/" class="nobreak">Terms Of Use</a> | <a target="_blank" title="C.H. Robinson Careers" href="http://www.chrobinson.com/careers" class="nobreak">Careers</a></p>
 </div>
     </div> 
 
