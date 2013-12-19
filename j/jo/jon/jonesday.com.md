@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150147id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219024052id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
 
 # Jones Day | Privacy
 
@@ -12,7 +12,8 @@ Jones Day is committed to protecting your privacy. Please read the following Pri
 
 1\. What information we collect from you and how we use that information  
 2\. How we protect your information  
-3\. Questions about the Privacy Policy
+3\. Questions about the Privacy Policy  
+4\. Australian Privacy Act 1988
 
  **1\. What information we collect from you and how we use that information**  
 Jones Day does not collect any personally identifiable information from you ( _e.g._ , name, address, telephone number, e-mail address) unless you voluntarily choose to submit or otherwise disclose such information to us, including information submitted or disclosed by mail, telephone, fax, or electronically. We will not sell, trade, or rent your personally identifiable information to third parties. Jones Day will only use your information to respond to your request for information or, if appropriate, to consider your request for consideration of employment with Jones Day. If you wish to change any information submitted to Jones Day, or if you wish to opt out of our mailing list, please do so using the [publication unsubscribe](http://www.jonesday.com/pubs/unsubscribe.aspx) form on this site.
@@ -35,3 +36,6 @@ Jones Day
 901 Lakeside Avenue  
 Cleveland, OH  44114  
 Attention: Business Development and Communications 
+
+**4\. Australian Privacy Act 1988  
+** In Australia, Jones Day is bound by the National Privacy Principles ( **NPPs** ) contained in the _Privacy Act 1988_ (Cth) ( **Privacy Act** ).  [Read More](http://www.jonesday.com/en-US/australianprivacyact/FooterContent.aspx)
