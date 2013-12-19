@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dramasfun.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615073441id_/http%3A//dramasfun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramasfun.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219071536id_/http%3A//www.dramasfun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Watch online Pakistani Tv Dramas..
 
 Google Privacy Policy
 
@@ -31,5 +31,3 @@ DoubleClick DART Cookie
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
 Google Adsense
-
-Gravatars are small images that can show your personality. You can get your [**gravatar**](http://gravatar.com/) for free today!
