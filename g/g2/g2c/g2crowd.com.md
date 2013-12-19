@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613000337id_/http%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219074746id_/http%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
 
 # G2 Crowd - Privacy
 
-G2Crowd.com is an online service that provides recommendations, reviews, and best practice information for technology product and services. This Website is owned and operated by G2 Labs, Inc. (“G2”). More details about G2Labs, Inc. can be found below under www.g2labs.net. 
+G2Crowd.com is an online service that provides recommendations, reviews, and best practice information for technology product and services. This Website is owned and operated by G2 Crowd, Inc. (“G2”). More details about G2Crowd, Inc. can be found below under www.g2crowd.com. 
 
-We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Before submitting your personal information to our Website, please read this Policy carefully to learn about our privacy practices. By visiting G2 Labs’ Websites, www.g2crowd.com or www.g2labs.net, (“G2 Websites”) you are accepting the practices described herein. 
+We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Before submitting your personal information to our Website, please read this Policy carefully to learn about our privacy practices. By visiting G2 Crowd's Websites, www.g2crowd.com or www.g2crowd.com, (“G2 Websites”) you are accepting the practices described herein. 
 
   * What information we collect from you 
   * How we use your information 
@@ -107,7 +107,7 @@ If you are visiting our Web site from outside the United States, please be aware
 
 ##  Your California privacy rights 
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email legal@g2labs.net. 
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email legal@g2crowd.com. 
 
 ##  Changes to this Privacy Policy 
 
@@ -117,8 +117,8 @@ G2 may update this Privacy Policy in the future. We will notify our members abou
 
 If you have questions about this Privacy Policy, please contact us at: 
 
-Email: legal@g2labs.net   
-G2 Labs, Inc.   
+Email: legal@g2crowd.com   
+G2 Crowd, Inc.   
 1910 First Street, Suite 400   
 Highland Park, IL 60035 
 
