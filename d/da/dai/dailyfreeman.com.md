@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfreeman.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607005814id_/http%3A//www.journalregister.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreeman.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219110614id_/http%3A//www.dailyfreeman.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Journal Register Company
 
