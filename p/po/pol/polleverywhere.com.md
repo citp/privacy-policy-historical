@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105528id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219212907id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Poll Everywhere
+# Privacy policy | Poll Everywhere
 
 ## Updated February 9, 2012
 
