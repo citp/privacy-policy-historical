@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522044313id_/http%3A//www.myemoticons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219033645id_/http%3A//www.myemoticons.com/privacy.html) for the most accurate reproduction.*
 
 # FREE emoticons & smileys NEW from My Emoticons.com - express free emotions
 
@@ -17,10 +17,14 @@ This Privacy Policy pertains to the use of the "MyEmoticons" web site http://www
 
 ### Information Retention
 
-To preserve the integrity of website databases GreenTree Applications SRL procedure is to retain information submitted by users for an indefinite length of time. By submitting information to GreenTree Applications SRL you are consenting to store that information indefinitely. If required by applicable federal or state law, such as the Children's Online Privacy Protection Act (COPPA,) GreenTree Applications SRL will scramble and/or encrypt that information to make it unrecognizable. GreenTree Applications SRL will also respond to written user requests to scramble account information. If you wish to make such a request, which will require you to verify your identity, please [contact us](https://web.archive.org/contact.html).
+To preserve the integrity of website databases GreenTree Applications SRL procedure may be is to retain information submitted by users for an indefinite length of time. By submitting information to GreenTree Applications SRL you are consenting to store that information indefinitely. If required by applicable federal or state law, such as the Children's Online Privacy Protection Act (COPPA,) GreenTree Applications SRL will scramble and/or encrypt that information to make it unrecognizable. GreenTree Applications SRL will also respond to written user requests to scramble account information. If you wish to make such a request, which will require you to verify your identity, please [contact us](https://web.archive.org/contact.html).
 
   
 
+
+### Minors and Child Online Privacy Protection Act
+
+This web site and MyEmoticons is not intended for minors. We make no attempt to collect personally identifiable information from minors, especially children under the age of 14. We believe children should have permission from their parent or guardian to use this site, or MyEmoticons, or to submit personal information to us. Therefore, this site is not subject to the Child Online Privacy Protection Act. If you allow your minor child or a child for whom you are a legal guardian or caregiver to access and/or provide information to this web site, you agree that you will be solely responsible for the online conduct of the minor child. You agree that you will be solely responsible for monitoring that child's access to, and use of, this web site. And, you agree that you will be responsible for any consequences of the child's use of this site.
 
 ### Information Collection and Use
 
