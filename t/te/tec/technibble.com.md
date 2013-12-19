@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618111537id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219011320id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Technibble
 
