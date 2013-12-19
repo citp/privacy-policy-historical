@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615005156id_/http%3A//generatorhostels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219080431id_/http%3A//generatorhostels.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Generator Hostels
 
