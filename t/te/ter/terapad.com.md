@@ -1,33 +1,64 @@
-> *The following text is extracted and transformed from the terapad.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116045321id_/http%3A//www.terapad.com/index.cfm%3Ffa%3Dext_legal.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapad.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219053520id_/http%3A//www.htl.uk.com/privacy-policy) for the most accurate reproduction.*
 
-# Terapad - Legal > Privacy Policy
+# Privacy Policy - HTL
 
-[SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the [Terapad.com](http://www.terapad.com/ "Terapad Website") web site. The [Terapad.com](http://www.terapad.com/ "Terapad Website") web site is owned and operated by [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design")
+This privacy policy sets out how HTL Group uses and protects any information that you give HTL Group when you use this website.
 
-[SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") reserves the right to change, modify or update this statement at any time without notice.
+HTL Group is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-### Voluntary Submission
+HTL Group  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 15th Dec 2011.
 
-[SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") does not collect personally identifying information about any individual [Terapad.com](http://www.terapad.com/ "Terapad Website") web site user except when knowingly provided by such individual. For example, you might be asked for information when you register for using one of the site's features or to receive a newsletter. You always have the option not to provide the information requested. If you choose not to provide the information requested, you can still visit most of the [Terapad.com](http://www.terapad.com/ "Terapad Website") web site, but you may be unable to access certain options and services.
+##  What we collect
 
-### Cookies
+We may collect the following information:
 
-A cookie is a small data file that certain web sites write to your hard drive when you visit them. The only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") uses cookies solely to improve the visitors experience. For example, to keep track of the access rights assigned to a user, or to automatically fill-in repetitive forms with information previously provided. This could occur when posting a message on the discussion forums or submitting a profile.
+  * Name and title.
+  * Contact information including email address.
+  * Demographic information such as postcode, preferences and interests.
+  * Other information relevant to customer surveys and/or offers.
 
-Most web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from the [Terapad.com](http://www.terapad.com/ "Terapad Website") web site, you may not be able to use certain features of the site.
 
-### Browser Level Information
 
-[SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") web servers automatically collect information about a site user's IP address, browser type and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used - in an aggregated, anonymous manner - in the internal analysis of traffic patterns within the [Terapad.com](http://www.terapad.com/ "Terapad Website") web site. This information is automatically logged by most web sites.
+##  What we do with the information we gather
 
-### Use of Information
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-[SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") partially derives its revenues from advertising. In order to attract and retain advertisers, the aggregated, anonymous information that was gathered (as well as information from third-party market researchers) is used to describe [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") services to partners and to assist the advertisers and sponsors to better understand [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") audience. This is essential to keeping some of the [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") services free of charge to its users. [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") does not disclose personally identifying information about its users to these parties.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-[SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") may disclose information about its users when believing in good faith that the disclosure is required by law.
 
-Please be aware that [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") sponsors, advertisers or web sites that have links on the [Terapad.com](http://www.terapad.com/ "Terapad Website") web site may collect personally identifiable information about you. The information practices of those parties and web sites linked to [Terapad.com](http://www.terapad.com/ "Terapad Website") are not covered by this privacy statement.
 
-[Terapad.com](http://www.terapad.com/ "Terapad Website") users should also be aware that, when you voluntarily disclose personal information in bulletin boards or forums, that information may be collected by others and may result in unsolicited messages from others.
+##  Security
 
-The safety of children is very important to [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") Whilst [SiteJourney Ltd.](http://www.sitejourney.com/ "Content Management System and Web Design") will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children's Internet usage. Children should always ask a parent before sending any transmission over the Internet.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+##  How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+##  Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+##  Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@htl.uk.com](mailto:support@htl.uk.com).
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to  **HTL Group, 40 Beaufort Court, Canary Wharf, London, E14 9XL**.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
