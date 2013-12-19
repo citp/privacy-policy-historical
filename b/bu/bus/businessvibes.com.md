@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530165352id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219093316id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BusinessVibes
+# Private Policy | BusinessVibes | BusinessVibes
 
 Date of Last Revision: 6 Sep 2010
 
