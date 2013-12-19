@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603044630id_/http%3A//ultrasurf.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrasurf.us privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219061210id_/https%3A//ultrasurf.us/privacy.html) for the most accurate reproduction.*
 
 # Ultrareach - Privacy Policy
 
@@ -22,7 +22,7 @@ This document was last updated on July 14, 2008.
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
-UltraReach Internet Corporation is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing UltraReach.Com, you acknowledge and fully understand UltraReach Internet Corporation's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+UltraReach Internet Corporation is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand UltraReach Internet Corporation's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
   
 
