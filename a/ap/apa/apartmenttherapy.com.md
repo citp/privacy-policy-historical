@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmenttherapy.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628043123id_/http%3A//www.apartmenttherapy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmenttherapy.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219221901id_/http%3A//www.apartmenttherapy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Apartment Therapy
 
