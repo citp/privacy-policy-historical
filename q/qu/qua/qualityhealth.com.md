@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the qualityhealth.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613063128id_/http%3A//www.qualityhealth.com/privacyPolicy/footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityhealth.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219053723id_/http%3A//www.qualityhealth.com/privacyPolicy/footer) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated: April 12th, 2013 
+Updated: July 10th, 2013 
 
 [ ](http://www.truste.org/ivalidate.php?url=www.QualityHealth.com&sealid=101)
 
 ## Company Practices
 
-The following statement describes the overall company practices of QualityHealth (a doing-business-as designation of Marketing Technology Solutions, Inc., a Delaware corporation), along with its other affiliate and subsidiary companies (collectively "QualityHealth"), including advertising on its own network of websites as well as products and services offered by QualityHealth. This policy does not apply to the practices of companies that QualityHealth does not own or control, or to people that QualityHealth does not employ. 
+The following policy describes the overall company practices of QualityHealth (a doing-business-as designation of Marketing Technology Solutions, Inc., a Delaware corporation), along with its other affiliate and subsidiary companies (collectively "QualityHealth"), including advertising on its own network of websites as well as products and services offered by QualityHealth. This policy does not apply to the practices of companies that QualityHealth does not own or control, or to people that QualityHealth does not employ. 
 
 QualityHealth is very aware of the need to respect, and protect the privacy of its visitors. This privacy policy ("Policy") discloses the data collection methods and data usage practices of QualityHealth [(www.qualityhealth.com)](http://www.qualityhealth.com/). 
 
 Because this Policy pertains to information collected only directly through or from the QualityHealth network of sites, this Policy does not apply to personal information collected from offline resources and communications (for instance, if you send us a postal letter or give us a phone call). This Policy also does not apply to third party online resources to which the QualityHealth network of websites may link, where QualityHealth does not control the content, nor the privacy practices. 
 
-Quality Health has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [CustomerService@QualityHealth.com](mailto:customerservice@qualityhealth.com "Compose a new mail to CustomerService@QualityHealth.com"). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+Quality Health has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [CustomerService@QualityHealth.com](mailto:customerservice@qualityhealth.com "Compose a new mail to CustomerService@QualityHealth.com"). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 Please read this Policy carefully. Should any questions arise about this Policy or our data collection, use or disclosure practices, please contact us in any of the ways listed at the end of this Policy. Please also be sure to read our complete Terms of Use, of which this Privacy Policy is a part. 
 
@@ -45,7 +45,7 @@ We may use information collected in numerous ways, including but not limited to:
   * Improving the content and layout of QualityHealth sites; 
   * Statistical analysis of visitor behavior; 
   * Targeting advertising messages to visitors using QualityHealth third party technology partners once visitors leave the QualityHealth network of sites; 
-  * Contacting visitors regarding account status and changes to the Terms and Conditions, Privacy Statement, Terms of Use and other policies and agreements; 
+  * Contacting visitors regarding account status and changes to the Terms and Conditions, Privacy Policy, Terms of Use and other policies and agreements; 
   * Providing contact information to QualityHealth marketing partners you have explicitly authorized us to share your information with, and whose offers you have elected to receive via electronic delivery, telemarketing and direct mail; and 
   * Disclosing personal information to QualityHealth service providers who provide support for QualityHealth ongoing operations (e.g., to provide email newsletters). Please note that these providers will be instructed to contact you only if you request them to do so. 
 
@@ -53,7 +53,7 @@ We may use information collected in numerous ways, including but not limited to:
 
 QualityHealth does not send or support the delivery of unsolicited bulk e-mail (a.k.a. "spam"). 
 
-While QualityHealth may undertake efforts to see that any third party with whom QualityHealth shares personal information is under contractual obligation to use the personal information solely for the purposes for which the information was disclosed, such third parties are independent third parties over which QualityHealth exercises no control. QualityHealth is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices. 
+While QualityHealth may undertake efforts to see that any third party with whom QualityHealth shares personal information is under contractual obligation to use the personal information solely for the purposes for which the information was disclosed. We will share your personal information with third parties only in the ways that are described in this privacy policy. We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. Such third parties are independent third parties over which QualityHealth exercises no control. QualityHealth is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices. 
 
 ##  Market Research 
 
@@ -77,7 +77,8 @@ QualityHealth may disclose information about you and your use of the QualityHeal
 
 (i) Comply with the law and/or legal process where a formal request has been made (e.g. request from an administrative oversight agency, civil suit, subpoena, court order or judicial or administrative proceeding);   
 (ii) Protect or defend the rights and/or property of QualityHealth or others;   
-(iii) Enforce the QualityHealth Terms and Conditions and/or this Privacy Policy; (iv) Respond to claims that the content(s) of a communication violates the rights of another. 
+(iii) Enforce the QualityHealth Terms and Conditions and/or this Privacy Policy;   
+(iv) Respond to claims that the content(s) of a communication violates the rights of another. 
 
 Also, circumstances may arise where, for business reasons, QualityHealth may decide to reorganize, or divest all or part of its business through sale, assignment, merger or acquisition. In these circumstances, personal information may be shared with the actual or prospective purchasers or assignees. In such an event, we shall provide notice of any material change to this Privacy Policy, or our services, in the manner described in the Updates section of this Privacy Policy below. 
 
@@ -107,21 +108,25 @@ QualityHealth services and websites are not directed at children and are designe
 
 The QualityHealth network of sites, as well as the electronic messages sent as part of our services, may contain links to other sites or services. QualityHealth is not responsible for the privacy practices or the content of such third party sites. If you have a question about the privacy policy of those other sites, please contact them directly. 
 
+Our web site includes social media features, such as the Facebook button and widgets, or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+
 ##  Changing Your Status 
 
 As a convenience to our members, we provide a number of different opportunities to review and change information in your profile and to unsubscribe from our services. For example, you can go to the Web Site and log into your profile page to make desired changes. Similarly, each e-mail message you receive from us will contain one or more links to the Web Site that allow you to conveniently access this information. Alternatively, you can unsubscribe at any time by clicking [here](https://web.archive.org/unsubscribe). 
 
 To request that information which had previously been voluntarily provided be removed from our database, send an e-mail request to [CustomerService@QualityHealth.com](mailto:info@qualityhealth.com) . We will attempt to delete such information, where feasible, after we receive a request from you to delete information. At the current time, we are not able to offer users the ability to delete all information from our database. Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from our services. 
 
+We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 ##  Updates 
 
-QualityHealth reserves the right, at any time and without notice, to add to, update, change, modify or revise this Policy or our services by posting such change, update or modification on the Web Site. Any such addition, update, change, modification or revision will be effective immediately upon posting on the Web Site. Upon any material change to this Policy, or our services, we will also notify you via e-mail or by prominent notice on the site. 
+QualityHealth reserves the right, at any time and without notice, to add to, update, change, modify or revise this Policy or our services by posting such change, update or modification on the Web Site. Any such addition, update, change, modification or revision will be effective immediately upon posting on the Web Site. Upon any material change to this Policy, or our services, we will also notify you via e-mail or by prominent notice on the site prior to the change becoming effective. 
 
 If you do not accept the terms of this Policy, we ask that you do not register with us, or alternatively, [click here](https://web.archive.org/unsubscribe) to unsubscribe. 
 
 ##  Contact Us 
 
-If you have any questions about this privacy statement, the practices of this Web Site, or your dealings with this Web Site, you can contact: 
+If you have any questions about this privacy policy, the practices of this Web Site, or your dealings with this Web Site, you can contact: 
 
 QualityHealth   
 10 Exchange Place, 24th Floor   
