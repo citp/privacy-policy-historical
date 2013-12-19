@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parsons.edu privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619041823id_/http%3A//www.newschool.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parsons.edu privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192758id_/http%3A//www.newschool.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New School
 
