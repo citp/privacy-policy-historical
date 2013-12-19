@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irs.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619235755id_/http%3A//www.irs.com/pages/irscom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192739id_/http%3A//www.irs.com/pages/irscom-privacy-policy) for the most accurate reproduction.*
 
 # IRS.com Privacy Policy | US Tax Center
 
