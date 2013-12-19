@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the prettylittlething.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203051941id_/http%3A//www.prettylittlething.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylittlething.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219210610id_/http%3A//www.prettylittlething.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | PrettyLittleThing.com
 
-This privacy policy sets out how uses and protects any information that you give when you use this website. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+This privacy policy sets out how Prettylittlething.com uses and protects any information that you provide when you use this website. Prettylittlething.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Prettylittlething.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ## What we collect
 
 We may collect the following information:
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  * Name
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
 
 
@@ -48,8 +48,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@prettylittlething.com
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@prettylittlething.com
 
 
 
