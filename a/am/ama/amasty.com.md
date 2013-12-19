@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amasty.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526101702id_/http%3A//amasty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amasty.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219202618id_/http%3A//amasty.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Amasty
 
 Your privacy is important to Amasty.com.
 
@@ -48,4 +48,4 @@ This website contains links to other websites. Amasty.com is not responsible for
 
 ## Contact Amasty.com
 
-If you have any questions about this privacy policy or Amasty.com treatment of your personal information, please [contact us](https://web.archive.org/web/20130526101702id_/http%3A//amasty.com/contacts/).
+If you have any questions about this privacy policy or Amasty.com treatment of your personal information, please [contact us](https://web.archive.org/web/20131219202618id_/http%3A//amasty.com/contacts/).
