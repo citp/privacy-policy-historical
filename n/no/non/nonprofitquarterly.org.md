@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620235129id_/http%3A//nonprofitquarterly.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219234519id_/http%3A//www.nonprofitquarterly.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - NPQ - Nonprofit Quarterly
 
