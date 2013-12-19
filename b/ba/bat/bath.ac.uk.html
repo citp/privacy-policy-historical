@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bath.ac.uk privacy policy that was archived on 2013-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503091721id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bath.ac.uk privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219042807id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <title>
@@ -39,10 +39,14 @@
             
         
         
-
+        <!--[if lte IE 8]>
+            <link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+            <link href="//fonts.googleapis.com/css?family=Raleway:400" rel="stylesheet" type="text/css">
+            <link href="//fonts.googleapis.com/css?family=Raleway:200" rel="stylesheet" type="text/css">
+            <link href="//fonts.googleapis.com/css?family=Raleway:800" rel="stylesheet" type="text/css">
+            <link href="//fonts.googleapis.com/css?family=Raleway:600" rel="stylesheet" type="text/css">
+        <![endif]-->
         <link href="/common/css/global.css?colour=internal&amp;template=page&amp;columns=2" rel="stylesheet" media="screen" type="text/css">
-        <link href="/common/css/print.css?columns=2" rel="stylesheet" media="print" type="text/css">
-
 
         
         
@@ -104,9 +108,9 @@
                 <ul>
                 
                     
-                    <li><a href="http://www.bath.ac.uk/students/" class="internal">Students</a></li>
-                    <li><a href="http://www.bath.ac.uk/internal/staff/" class="internal">Staff</a></li>
-                    <li class="last"><a href="http://www.bath.ac.uk/index/" class="internal">A-Z</a></li>
+                    <li><a href="http://www.bath.ac.uk/students/index-routing.html" class="internal">Students</a></li>
+                    <li><a href="http://www.bath.ac.uk/staff/" class="internal">Staff</a></li>
+                    <li class="last"><a href="http://www.bath.ac.uk/index/" class="internal"><nobr>A-Z</nobr></a></li>
                     
                     
                 
@@ -117,7 +121,10 @@
                     <input type="image" name="submit" alt="go" src="/common/images/style/search_go.png" value="btnG" id="gsgo">
                     <input type="hidden" name="collection" value="website">
                 </form>
-                <a href="http://www.bath.ac.uk/"><img src="/common/images/style/logo.gif" alt="University of Bath homepage" title="University of Bath homepage"></a>
+                <a href="http://www.bath.ac.uk/">
+                        <!--[if gte IE 9]><!--><img title="University of Bath homepage" alt="University of Bath homepage" src="/common/svg/logo.svg"><!--<![endif]-->
+                        <!--[if lt IE 9]><img title="University of Bath homepage" alt="University of Bath homepage" src="/common/images/style/logo.gif"><![endif]-->
+                    </a>
             </div><!-- /header -->
             
             
@@ -358,7 +365,6 @@ Email: <a href="mailto:web-support@bath.ac.uk?subject=web%20privacy%20statement"
         </div><!-- /wrapper -->
         <div id="footerWrapper">
             <div id="explore">
-                <img src="/common/images/style/exploreTriangle.png" alt="Explore bar styling">
                 <ul>
                     <li><a href="http://www.bath.ac.uk/">Home</a></li>
                     <li><a href="http://www.bath.ac.uk/study/">Study</a></li>
@@ -366,10 +372,9 @@ Email: <a href="mailto:web-support@bath.ac.uk?subject=web%20privacy%20statement"
                     <li><a href="http://www.bath.ac.uk/podcast/">Podcasts</a></li>
                     <li><a href="http://www.bath.ac.uk/event/public-lectures/">Public lectures</a></li>
                     <li><a href="http://www.bath.ac.uk/jobs/">Jobs</a></li>
-                    <li><a href="http://www.bath.ac.uk/icia/">Arts</a></li>
-                    <li><a href="http://www.teambath.com">Sport</a></li>
+                    <li><a href="http://www.bath.ac.uk/arts/">Arts</a></li>
+                    <li><a href="http://www.bath.ac.uk/sport/">Sport</a></li>
                     <li><a href="http://www.bath.ac.uk/hospitality/">Hospitality</a></li>
-                    <li><a href="http://www.bath.ac.uk/play/">Play</a></li>
                     <li><a href="https://webmail.bath.ac.uk/">Webmail</a></li>
                     <li><a class="disclaimer" href="http://www.bath.ac.uk/web/disclaimer/">Disclaimer</a></li>
                     <li><a href="http://www.bath.ac.uk/web/privacy/">Privacy</a></li>
@@ -380,38 +385,57 @@ Email: <a href="mailto:web-support@bath.ac.uk?subject=web%20privacy%20statement"
                 </ul>
             </div><!-- /explore -->
             <div id="footer">
-                <!-- RIGHT COLUMN -->
-                <div id="footerExplore">
-                    <a class="exploreLink" href="http://www.bath.ac.uk/index/" title="More destination options">Explore the University</a>
-
-                    <div class="socialNetworks">
-                        <a href="http://www.facebook.com/uniofbath"><img src="/common/images/logos/facebook.png" alt="facebook" title="Visit our facebook page" height="43" width="21"></a>
-                        <a href="http://twitter.com/UniOfBath"><img src="/common/images/logos/twitter.png" alt="twitter" title="What we're saying on Twitter" height="44" width="63"></a>
-                    </div><!-- /socialNetworks -->
-
-                    <p>© 2013 <span id="updated">University of Bath</span></p>
-                </div><!-- /footerExploreAndFind -->
-                <!-- LEFT COLUMN -->
-                <div id="footerAddress">
-                    <h4>Contact information</h4>
+                <div id="footerAddress" class="footerAddress">
                     <div class="findPeople">
-                        <form onsubmit="return (this.q.value != '' &amp;&amp; this.q.value != 'search')" id="findpeople" name="findpeople" method="get" action="http://www.bath.ac.uk/contact/">
+                        <form action="http://www.bath.ac.uk/contact/" method="get" name="findpeople" id="findpeople" onsubmit="return (this.q.value != '' &amp;&amp; this.q.value != 'search')">
                             <label for="findpeopleinput">Person finder</label>
-                            <input alt="find people" value="Find people..." onblur="if (this.value == '') {this.value='Find people...'}" onfocus="if (this.value == 'Find people...') {this.value=''}" id="findpeopleinput" class="findPeopleInputBox" name="pgeneralsearch" type="text">
-                            <input alt="go" src="/common/images/style/findPeople_go.png" value="btnG" id="findpeoplego" name="submit" class="findPeopleSubmit" type="image">
-                            <input name="search" value="basic" type="hidden">
+                            <input type="text" name="pgeneralsearch" class="findPeopleInputBox" id="findpeopleinput" onfocus="if (this.value == 'Find people...') {this.value=''}" onblur="if (this.value == '') {this.value='Find people...'}" value="Find people...">
+                            <input type="image" class="findPeopleSubmit" name="submit" id="findpeoplego" src="http://www.bath.ac.uk/common/images/style/findPeople_go.png" alt="go">
+                            <input type="hidden" value="basic" name="search">
                         </form>
                     </div><!-- /findPeople -->
-                    <a class="mapLink" href="http://www.bath.ac.uk/about/gettinghere/">&nbsp;</a>
-                    <a href="http://www.bath.ac.uk/about/gettinghere/">Location &amp; maps</a>
                     
-                    <a class="email" href="mailto:info@bath.ac.uk">email us</a>
-                </div><!-- /footerAddress -->
-                <!-- CENTRE COLUMN -->
-                <div id="footerAwardContainer">
-                    <a class="uoty" href="http://www.bath.ac.uk/about/rankings/">We're 3rd in The Sunday Times University Guide league table</a>
-                    <a class="QAP" href="http://www.bath.ac.uk/about/rankings/queens-anniversary/index.html">The Queen's Anniversary Prize 2011</a>
-                </div><!-- /footerAwardContainer -->
+                    <a class="footerEmailLink" href="mailto:info@bath.ac.uk">email us</a>
+                    <a href="http://www.bath.ac.uk/about/gettinghere/" class="getting-here">Getting here</a>
+                </div>
+                <div id="footerAwardContainer" class="footerAwards">
+                    <div class="footer-ranking show-two">
+                        <a href="http://www.bath.ac.uk/about/rankings/guides/">
+                            <!--[if gte IE 9]><!--><img src="/common/svg/stug.svg" alt="The Times and Sunday Times name us as the Best Campus University for 2014"><!--<![endif]-->
+                            <!--[if lt IE 9]><img src="/common/images/style/stug.png" alt="The Times and Sunday Times name us as the Best Campus University for 2014" /><![endif]-->
+                        </a>
+                    </div>
+                    <div class="footer-ranking show-two">
+                        <a href="http://www.bath.ac.uk/about/rankings/national-student-survey/">
+                            <!--[if gte IE 9]><!--><img src="/common/svg/nss.svg" alt="We're 1st for student satisfaction in the 2013 National Student Survey"><!--<![endif]-->
+                            <!--[if lt IE 9]><img src="/common/images/style/nss.png" alt="We're 1st for student satisfaction in the 2013 National Student Survey" /><![endif]-->
+                        </a>
+                    </div>
+                    <div class="footer-ranking hide">
+                        <a href="http://www.bath.ac.uk/about/rankings/guides/">
+                            <!--[if gte IE 9]><!--><img src="/common/svg/st3rd.svg" alt="We're third in The Sunday Times Guide"><!--<![endif]-->
+                            <!--[if lt IE 9]><img src="/common/images/style/st3rd.png" alt="We're third in The Sunday Times Guide" /><![endif]-->
+                        </a>
+                    </div>
+                </div>
+                <div id="footerExplore" class="footerExplore">
+                    <a title="More destination options" href="http://www.bath.ac.uk/index/" id="exploreButton" class="footerExploreLink exploreLink">Explore the University</a>
+                    <div class="footerSocialNetworks">
+                        <a href="http://www.youtube.com/uniofbath">
+                            <!--[if gte IE 9]><!--><img alt="You Tube logo" src="/common/svg/youtube.svg"><!--<![endif]-->
+                            <!--[if lt IE 9]><img alt="You Tube logo" src="/common/images/logos/youtube.png" /><![endif]-->
+                        </a>
+                        <a href="http://www.facebook.com/uniofbath">
+                            <!--[if gte IE 9]><!--><img alt="Facebook logo" src="/common/svg/facebook.svg"><!--<![endif]-->
+                            <!--[if lt IE 9]><img alt="Facebook logo" src="/common/images/logos/facebook.png" /><![endif]-->
+                        </a>
+                        <a href="http://twitter.com/UniOfBath">
+                            <!--[if gte IE 9]><!--><img alt="Twitter logo" src="/common/svg/twitter.svg"><!--<![endif]-->
+                            <!--[if lt IE 9]><img alt="Twitter logo" src="/common/images/logos/twitter.png" /><![endif]-->
+                        </a>
+                    </div><!-- /socialNetworks -->
+                    <p>© 2013 University of Bath</p>
+                </div>
             </div><!-- /footer -->
         </div><!-- /footerWrapper -->
         <script src="/common/js/editpage.php" type="text/javascript"></script>
