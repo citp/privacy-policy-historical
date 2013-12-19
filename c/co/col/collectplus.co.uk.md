@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectplus.co.uk privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518041834id_/http%3A//www.collectplus.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectplus.co.uk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219174256id_/http%3A//www.collectplus.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Collect+ Courier Services
 
