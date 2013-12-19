@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508132943id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219084241id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
 
-# graduate-jobs.com Privacy Policy | Graduate Jobs UK and Graduate Schemes graduate-jobs.com
+# Privacy Policy | graduate-jobs.com
 
 ## Privacy Policy
 
 graduate-jobs.com UK Ltd ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with [our terms of use](https://web.archive.org/gco/tc.jsp) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our terms of use and any other documents referred to in our terms and this policy) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is
 
@@ -20,13 +20,13 @@ Phone: +44 20 7609 5400
 Registered company number: 03928623  
 Data Protection Act registration number: Z6515152
 
-Our nominated representative for the purpose of the Act is Gerry Wyatt .
+Our nominated representative for the purpose of the Act is Gerry Wyatt.
 
 ### Information We May Collect From You
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.graduate-jobs.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by graduate-jobs.com UK Ltd, and when you report a problem with our site.
+  * Information that you provide by filling in forms on our site www.graduate-jobs.com (“our site”). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by graduate-jobs.com UK Ltd, and when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
@@ -44,9 +44,19 @@ We may collect information about your computer, including where available your I
 
 For the same reason, we may obtain information about your usage by storing a cookie on your computer. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-If you register with us or if you continue to use our site, you agree to our use of cookies.
+When you visit our website a number of cookies are placed on your computer. Here is a [Wikipedia article about cookies](http://en.wikipedia.org/wiki/HTTP_cookie).
 
-To find out more about cookies on this website and how to delete cookies, please [see our cookies policy](https://web.archive.org/gco/Cookies.jsp).
+As part of the terms and conditions for using graduate-jobs.com, you consent to graduate-jobs.com (and third parties) placing cookies on your computer.
+
+We place a cookie on your computer called JSESSIONID which allows us to recognise whether or not you are logged in and many features of graduate-jobs.com rely on this cookie. Please see 'Session management' in the Wikipedia article. No personal information is stored in the cookie. The cookie is invalidated when you log out and is deleted when you close the browser. It is only available to graduate-jobs.com and never to any other website.
+
+Please note that our advertisers may also use cookies, over which we have no control.
+
+Some of the advertisements you see on our site are provided by third parties who specialise in serving and tracking advertising campaigns. They store cookies on your computer to help them compile anonymous statistics about the campaigns. Another third party collects data on our behalf so that we can measure website use and performance. They store anonymous information in a cookie.
+
+Some of our pages have Adobe Flash content. The Adobe Flash Player stores information about your player preferences in its own files on your computer.
+
+You can modify your browser and Flash player so that they will not accept cookies. [Click here](http://www.allaboutcookies.org/manage-cookies/) for instructions on how to manage cookies. Here are instructions on [managing Flash player settings](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). If you do disable cookies, many services on graduate-jobs.com will not work properly.
 
 ### Where We Store Your Personal Data
 
@@ -54,7 +64,7 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 ### Uses Made of the Information
 
@@ -74,7 +84,7 @@ If you do not want us to use your data in this way, or to pass your details on t
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-### Disclosure Of Your Information
+### Disclosure of Your Information
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
@@ -82,21 +92,21 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If graduate-jobs.com UK Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/gco/tc.jsp) and other agreements; or to protect the rights, property, or safety of graduate-jobs.com UK Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/gco/tc.jsp) and other agreements; or to protect the rights, property, or safety of graduate-jobs.com UK Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
 ### Your Rights
 
-If you wish us not to process your personal data for marketing purposeslease click on the unsubscribe link in any of the automated emails we send to you. You can also exercise the right at any time by contacting us at [Enquiries](mailto:enq@graduate-jobs.com) .
+If you wish us not to process your personal data for marketing purposes, please click on the unsubscribe link in any of the automated emails we send to you. You can also exercise the right at any time by contacting us at [Enquiries](mailto:enq@graduate-jobs.com) .
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-### Access To Information
+### Access to Information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-### Changes To Our Privacy Policy
+### Changes to Our Privacy Policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
