@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squeezemobi.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620143953id_/http%3A//squeezemobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squeezemobi.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192407id_/http%3A//squeezemobi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SqueezeMobi
 
