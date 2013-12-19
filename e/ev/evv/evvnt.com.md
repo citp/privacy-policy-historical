@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evvnt.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531043948id_/http%3A//evvnt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evvnt.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219201636id_/http%3A//evvnt.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Evvnt
+# Privacy Policy
 
 EVVNT LIMITED (“We”) are committed to protecting and respecting your privacy.
 
@@ -10,7 +10,7 @@ For the purpose of the Data Protection Act 1998 (the Act), We are the data contr
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site [www.evvnt.com](https://web.archive.org/web/20130531043948id_/http://evvnt.com/privacy/www.evvnt.com) (our site). This includes information provided at the time of registering to use our site, purchasing products or requesting further services. We may also ask you for information when you report a problem with our site.
+  * Information that you provide by filling in forms on our site [www.evvnt.com](https://web.archive.org/web/20131219201636id_/http://evvnt.com/privacy/www.evvnt.com) (our site). This includes information provided at the time of registering to use our site, purchasing products or requesting further services. We may also ask you for information when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
 Details of transactions you carry out through our site and of the fulfillment of your orders.
@@ -53,7 +53,7 @@ We may disclose your personal information to third parties:
 
 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. We will not pass on your data to third parties. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [hello@evvnt.com](https://web.archive.org/web/20130531043948id_/http://evvnt.com/privacy/hello@evvnt.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. We will not pass on your data to third parties. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [hello@evvnt.com](https://web.archive.org/web/20131219201636id_/http://evvnt.com/privacy/hello@evvnt.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -63,6 +63,6 @@ We take credit card payment via PayPal – safer, faster, more secure way to pay
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [hello@evvnt.com](https://web.archive.org/web/20130531043948id_/http://evvnt.com/privacy/hello@evvnt.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [hello@evvnt.com](https://web.archive.org/web/20131219201636id_/http://evvnt.com/privacy/hello@evvnt.com).
 
-Questions, comments and requests regarding payment should be addresses: [payment@evvnt.com](https://web.archive.org/web/20130531043948id_/http://evvnt.com/privacy/payment@evvnt.com).
+Questions, comments and requests regarding payment should be addresses: [payment@evvnt.com](https://web.archive.org/web/20131219201636id_/http://evvnt.com/privacy/payment@evvnt.com).
