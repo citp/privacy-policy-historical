@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cjinc.info privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605031152id_/http%3A//www.cjinc.info/2011/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjinc.info privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219172242id_/http%3A//www.cjinc.info/2011/10/privacy-policy.html) for the most accurate reproduction.*
 
 # Creative Jobs: Privacy Policy
 
