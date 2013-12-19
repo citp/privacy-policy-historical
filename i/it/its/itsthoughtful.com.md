@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsthoughtful.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010062008id_/http%3A//www.ugiftideas.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsthoughtful.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219121923id_/http%3A//www.ugiftideas.com/privacy.php) for the most accurate reproduction.*
 
 # uGiftIdeas: Privacy Policy
 
@@ -44,8 +44,8 @@ uGiftIdeas reserves the right to change this privacy policy, and/or any part the
 
 **Conditions of Use**
 
-If you decide to visit uGiftIdeas website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20121010062008id_/http%3A//www.ugiftideas.com/terms.php). 
+If you decide to visit uGiftIdeas website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20131219121923id_/http%3A//www.ugiftideas.com/terms.php). 
 
 **Questions**
 
-Please contact us with any questions regarding our privacy policy by emailing us at [admin@uGiftIdeas.com](mailto:admin@uGiftIdeas.com?subject=Privacy%20question). 
+Please contact us with any questions regarding our privacy policy by emailing us at [support@uGiftIdeas.com](mailto:support@uGiftIdeas.com?subject=Privacy%20question). 
