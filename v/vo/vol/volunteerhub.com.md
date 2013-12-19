@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531085017id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219052626id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - VolunteerHub Protects Volunteer Organizations
 
@@ -32,13 +32,13 @@ Personal information collected by VolunteerHub may be stored and processed in th
 
 Except as otherwise described in this statement, personal information you provide related to the Services will not be shared outside of CEI and its controlled subsidiaries and affiliates without your permission.
 
-With regard to personal information that is collected at registration from our users (e.g. name, user ID, email address), we present the option not to receive communications regarding the Services. Customers who no longer wish to receive communications may opt-out or unsubscribe from receiving these communications. Each communication will have a way to unsubscribe from that list. If you encounter any difficulty please email us at  .
+With regard to personal information that is collected at registration from our users (e.g. name, user ID, email address), we present the option not to receive communications regarding the Services. Customers who no longer wish to receive communications may opt-out or unsubscribe from receiving these communications. Each communication will have a way to unsubscribe from that list. If you encounter any difficulty please email us at .
 
 Please be aware that this privacy statement and the choices you make related to the Services will not apply to personal information you may have provided to CEI in the context of other, separately operated, CEI products or services.
 
 ### Access to Personal Information
 
-If your personally identifiable information changes, we will provide a way to correct or update your personal data. Customers can log in and click on the Your Account link to modify personal information. VolunteerHub customers also may contact  .
+If your personally identifiable information changes, we will provide a way to correct or update your personal data. Customers can log in and click on the Your Account link to modify personal information. VolunteerHub customers also may contact .
 
 ### Security of Your Personal Information
 
@@ -56,7 +56,7 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 ### Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should contact CEI by e-mail at  .
+If you have questions regarding this statement, you should contact CEI by e-mail at .
 
 ### Changes to the Privacy Statement
 
