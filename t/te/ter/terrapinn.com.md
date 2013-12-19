@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523131328id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219062209id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
 
 # Terrapinn | privacy
 
