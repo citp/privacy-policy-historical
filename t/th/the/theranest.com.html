@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theranest.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618025041id_/http%3A//www.theranest.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theranest.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219094559id_/http%3A//www.theranest.com/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Software for Counselors, Therapists &amp; Social Workers - Privacy</title>
@@ -15,11 +15,12 @@
     <meta property="og:description" content="Affordable Social Worker Software, Therapist software, Counseling software for human &amp; mental services.">
 
     <!--scripts -->
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/h2xcxghlki/analytics.min.js"></script><script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script type="text/javascript" async="" src="//tag.getdrip.com/9r3h5pkmps.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/h2xcxghlki/analytics.min.js"></script><script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="/Content/js/bootstrap.min.js"></script>
     <script src="/Content/js/theme.js"></script>
     <script src="/Content/js/jquery.colorbox.js"></script>
-    <script src="/Content/js/placeholderfallback.js"></script>
+    <script src="/Content/js/jquery.placeholder.min.js"></script>
+
     <!-- stylesheets and links -->
     <link href="/Content/css/bootstrap.css" rel="stylesheet">
     <link href="/Content/css/font-awesome.min.css" rel="stylesheet">
@@ -41,6 +42,13 @@
         analytics.load('h2xcxghlki');
     </script>
     <!--  end Segment.io -->
+    
+    <!--  Automatically checks if the browser natively supports the placeholder. If this is the case, the plugin won’t do anything. Otherwise - add placeholders -->
+    <script type="text/javascript">
+        $(function () {
+            $('input').placeholder();
+        })
+    </script>
 
     
 </head>
@@ -64,15 +72,16 @@
             </a>
 		  	<div class="nav-collapse collapse">
                 <ul class="nav pull-right">
-                    <li><a href="http://www.theranest.com/">Home</a></li>
+                    
                     <li><a href="http://www.theranest.com/home/features/">Features</a></li>
                     <li><a href="http://www.theranest.com/home/pricing/">Pricing</a></li>
+                    <li><a href="http://www.theranest.com/home/testimonials">Testimonials</a></li>
                     <li><a href="http://www.theranest.com/home/faq/">FAQ</a></li>
-                    <li><a href="http://www.theranest.com/home/contact/">Contact Us</a></li>
-                    <li><a href="http://www.theranest.com/home/aboutus/">About Us</a></li>
+                    <li><a href="http://www.theranest.com/home/contact/">Contact</a></li>
+                    <li><a href="http://www.theranest.com/home/aboutus/">About</a></li>
                     <li><a href="http://www.theranest.com/home/blog/">Blog</a></li>
                     <li>
-                        <a class="btn-header" href="http://www.theranest.com/home/pricing/">Sign up</a>
+                        <a class="btn-header" href="http://www.theranest.com/account/signup">Sign up</a>
                     </li>
                     <li><a class="btn-header" href="http://www.theranest.com/account/signin/">Sign in</a></li>
                 </ul>
@@ -181,7 +190,23 @@
 <!-- Analytics -->
 
 <!-- Analytics end -->
+       <!-- fb like -->
+    <div id="fb-root"></div>
 
+    <script>(function (d, s, id) {
+
+    var js, fjs = d.getElementsByTagName(s)[0];
+
+    if (d.getElementById(id)) return;
+
+    js = d.createElement(s); js.id = id;
+
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+
+    fjs.parentNode.insertBefore(js, fjs);
+
+}(document, 'script', 'facebook-jssdk'));</script>
+    <!-- end fb like -->
     <!-- starts footer -->
     <div id="footer">
         <div class="container">
@@ -196,8 +221,7 @@
                 <h3 class="pull-right">Contact Us</h3>
                 <div class="span4 contact_us">
                     <form class="form-horizontal" id="footercontactform" method="POST" action="/home/contact">
-
-                        <input name="__RequestVerificationToken" type="hidden" value="CYm0ep1fJtRvKLIG1Kp6V9EX98umY8eNwwcIj735d-ebOIyBRLq0tJohrRUGqFA_SGoEnhAyciKzkk9mXf0i5nGHkXhI7aot3FCq_D0eyjPW4iClEZz61aJ7NbM1">
+                        <input name="__RequestVerificationToken" type="hidden" value="aGMYB9WDEPqQy1INgDIohB7qym0R2xVv2v2DL-WywpSfS2gzeaGH6C_Psa3zJulZdNBGzcO4Gwwa39LpMl_V4nEPAbH8qdSGOTzJrrgy7nM5vTFgVWfhUSrTwwU1">
                         <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
 </ul></div>
                         <input id="ConfirmEmail" name="ConfirmEmail" style="display:none;" type="text" value="">
@@ -264,7 +288,20 @@
 
 
 
+<!-- Drip -->
+<script type="text/javascript">
+    var _dcq = _dcq || [];
+    var _dcs = _dcs || {};
+    _dcs.account = '6532593';
 
+    (function () {
+        var dc = document.createElement('script');
+        dc.type = 'text/javascript'; dc.async = true;
+        dc.src = '//tag.getdrip.com/9r3h5pkmps.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(dc, s);
+    })();
+</script>
 
 
 
@@ -276,7 +313,7 @@
     </script>
     <!-- Analytics end -->
 
-
+    
 
 
 
