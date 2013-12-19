@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbus.in privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630143031id_/http%3A//www.redbus.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbus.in privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219013537id_/http%3A//www.redbus.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # redBus - Privacy policy
 
@@ -11,7 +11,7 @@ Our privacy policy is subject to change at any time without notice. To make sure
 
 By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website. 
 
-By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the [Terms of Use](https://web.archive.org/web/20130630143031id_/http%3A//www.redbus.in/TermsAndConditions.aspx)
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the [Terms of Use](https://web.archive.org/web/20131219013537id_/http%3A//www.redbus.in/TermsAndConditions.aspx)
 
   
   
@@ -56,7 +56,7 @@ If redBus is involved in a merger, acquisition or asset sale, we will continue t
   
 
 
-Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access. For example, we use [McAfee Secure](https://www.mcafeesecure.com/RatingVerify?ref=www.redbus.in&cb=51) to protect users against identity theft & spyware; [Verisign.](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.redbus.in&lang=en) for cyber security; etc. 
+Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access. For example, we use [McAfee Secure](https://www.mcafeesecure.com/RatingVerify?ref=www.redbus.in&cb=51) to protect users against identity theft & spyware; etc. 
 
   
 
