@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628053504id_/http%3A//www.osram.com/osram_com/_metapages/privacy-policy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osram.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219173023id_/http%3A//www.osram.com/osram_com/_metapages/privacy-policy/index.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | OSRAM
 
 ##### OSRAM Commitment to Data Privacy Protection
 
@@ -45,7 +45,7 @@ When you access our Web sites, we may automatically (i.e., not by registration) 
 
 We use products of WiredMinds AG ([www.wiredminds.de](http://www.wiredminds.de/)) for marketing and optimization purposes. These products collect and process your personal data and use it to create usage profiles under a pseudonym. These usage profiles are fully anonymized where possible and appropriate. We and WiredMinds employ cookies and/or Web beacons (also known as tracking pixels) on this Web site. We transfer the data we collect about you, which may also include personal data, to WiredMinds or WiredMinds gathers this data directly. WiredMinds is entitled to use information that you leave behind by visiting our Web sites to create anonymized usage profiles. The data collected shall not be used to personally identify visitors to this Web site without the express permission of the party affected and shall not be merged with personal data about the bearer of the pseudonym. Any IP addresses recorded are anonymized immediately by deleting the last number block. Permission to collect and store data in the future may be revoked at any time.
 
-  * [Exclude from website tracking](http://ctsde15.wiredminds.de/track/cookie_mgr.php?mode=dont_track_ask&websitesel=0446aa8c813a734e&lang=en "Exclude from website tracking")
+  * [Exclude from website tracking](http://ctsde15.wiredminds.de/track/cookie_mgr.php?mode=dont_track_ask&websitesel=edcab1d0a1ce3d9d&lang=en "Exclude from website tracking")
 
 
 
