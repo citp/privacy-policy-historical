@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502022941id_/http%3A//easybib.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybib.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219150928id_/http%3A//www.easybib.com/company/privacy) for the most accurate reproduction.*
 
 # EasyBib: Privacy policy
 
@@ -22,4 +22,4 @@ EasyBib serves advertising, and ad networks may serve third party cookies that d
 
 Thank you for surfing with us, 
 
-[Darshan and Neal](https://web.archive.org/web/20130502022941id_/http%3A/company/contact) Imagine Easy Solutions LLC 
+[Darshan and Neal](https://web.archive.org/web/20131219150928id_/http%3A/company/contact) Imagine Easy Solutions LLC 
