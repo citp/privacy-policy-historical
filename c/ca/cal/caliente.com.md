@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caliente.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419074400id_/http%3A//www.caliente.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caliente.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219033516id_/http%3A//www.caliente.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Hot Local Dating at Caliente™
+# Latin Dating and Spanish Chat at Caliente™
 
 CALIENTE.COM PRIVACY POLICY 
 
@@ -54,4 +54,4 @@ If at any point we decide to use particular personally identifiable information 
 
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the "Account Settings" in your Caliente profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the "Account Settings" section of the Service, or otherwise opting-out of receipt of email communications from Caliente, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from Caliente. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy.
 
-If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@caliente.com](mailto:support@caliente.com) or by calling +1-786-522-2631. You can also send us mail to: Privacy Officer, Caliente Incorporated, 705 Washington Ave 2nd Floor Miami Beach, FL. 33139.
+If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@caliente.com](mailto:support@caliente.com) or by calling +1-305-712-6692. You can also send us mail to: Privacy Officer, Caliente Incorporated, 705 Washington Ave 2nd Floor Miami Beach, FL. 33139.
