@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073237id_/http%3A//www.cybercoders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219074408id_/http%3A//www.cybercoders.com/privacy) for the most accurate reproduction.*
 
 # CyberCoders' Privacy Policy | CyberCoders
 
