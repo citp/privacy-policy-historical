@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the startpage.com privacy policy that was archived on 2013-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514165253id_/https%3A//www.startpage.com/uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startpage.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219063458id_/https%3A//startpage.com/uk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+<script type="text/javascript" src="/js/swfobject_2.2.js"></script>
+<script type="text/javascript">jwplayer.key='9OTAGe6swAaUb3jUw7G+MUBBtPKR6rOHmrbjraHb0Og=';</script>
 <title>Privacy Policy</title>
 
 <script>
@@ -13,9 +16,273 @@ var linkback_url = "";
 var linkback_sitename = "";
 var a_quote = '"';
 
-function suggestCode(previewID, codeID, refresh) {
+var defaultWidth = 260;
+var saveMe = 0;
+var thisSiteDefaultText = "";
+var maxTextLength = 64;
+var minimumTextLength = 2;
+var maximumWidth = 768;
+var minimumWidth = 140;
 
-    var tb_array = new Array("target='_blank'", "target=_blank", 'target="_blank"');
+/**
+  * Make showWidthAndThisSite true when translations for all the languages are ready and 
+  * we wish to show 'This Site' field and 'Searchbox Width' textboxes
+  **/
+var showWidthAndThisSite = 0;
+var showThisSite         = 0;
+
+function isContentSafe(text) 
+{
+    var flag = false;
+
+    if( text.match(/^[\s\w\"\']+$/) ||
+        text.match(/^(http[s]*:\/\/)*[\d\w]+[\-\.]{1}[\w\d]+[\/]*/) ||
+        !text.match(/[<>\[\]\=\&\;\:\(\)\`\!\*\%\#\@\\]/)
+        ) {
+        flag = true;
+    }
+
+    return flag;
+}
+
+function isWidthAcceptable(width)
+{
+    width = width.replace(/^\s+/, "");
+    width = width.replace(/\s+$/, "");
+
+    if(!isContentSafe(width) || !width.match(/^[0-9]+$/) || width>maximumWidth || width<minimumWidth)
+        width = 0;
+
+    return width;
+}
+
+function isTextAcceptable(text)
+{
+    text = text.replace(/^\s+/, "");
+    text = text.replace(/\s+$/, "");
+
+    var textLength = text.length;
+    if(!isContentSafe(text) || textLength>maxTextLength || textLength<minimumTextLength || text.match(/^\s*$/))
+        text = "";
+
+    return text;
+}
+
+function updateThisSite(thisSiteValue, thisSiteId, thisSiteClass)
+{
+    if( isTextAcceptable(thisSiteValue) != "" ) {
+        jQuery("."+thisSiteClass).html(jQuery("#"+thisSiteId).val());
+        setWidth('searchbox_width', 'width_update_class');
+    } else {
+        jQuery("."+thisSiteClass).html(thisSiteDefaultText);
+    }
+    updateSearchBoxCode();
+}
+
+
+jQuery(document).ready(function(){
+    if( document.getElementById("searchbox_width") &&
+        document.getElementById("this_site") ) {
+        showWidthAndThisSite = 1;
+    }
+
+    if(showWidthAndThisSite) {
+        jQuery("#this_site").change(function() { 
+            updateThisSite(jQuery("#this_site").val(), "this_site", "thisSiteName");
+        });
+    }
+});
+
+function setWidth(widthFieldID, inputFieldClass) {
+
+    var width = 0;
+    if(isWidthAcceptable(jQuery("#"+widthFieldID).val()) != 0)
+        width = jQuery("#"+widthFieldID).val();
+    
+    var thisSiteText = "";
+    if(isTextAcceptable(jQuery("#this_site").val()) != "")
+        thisSiteText = jQuery("#this_site").val();
+    
+    var thisSiteLength = 0;
+    thisSiteLength = thisSiteText.length;
+
+    var minimumCalculatedWidthAccordingToThisSite = thisSiteLength*5.5 + 128;
+    var answer = 0;
+
+    if(thisSiteLength && width) {
+        if(width <= minimumCalculatedWidthAccordingToThisSite) {
+            answer = minimumCalculatedWidthAccordingToThisSite;
+        } else {
+            answer = width;
+        }
+
+    } else if(thisSiteLength && width==0) {
+        if( (minimumCalculatedWidthAccordingToThisSite <= defaultWidth) || minimumCalculatedWidthAccordingToThisSite > maximumWidth ) {
+            answer = defaultWidth;
+        } else {
+            answer = minimumCalculatedWidthAccordingToThisSite;
+        }
+        
+    } else if(thisSiteLength==0 && width) {
+        if( (width <= maximumWidth) && (width >= minimumWidth) && (width != saveMe)) {
+            answer = width;
+        }
+    }
+    
+    if( (answer >= maximumWidth) && (answer <= minimumWidth) )
+        answer = defaultWidth;
+    
+    if(answer)
+        jQuery("."+inputFieldClass).width(answer);
+    
+    saveMe = answer;
+    updateSearchBoxCode();
+    
+    return false;
+}
+
+function displayThisSiteTextField(thisSiteID) {
+
+    if(thisSiteID.match(/(2|3|8|9|10|11|12|13)/)) {
+        document.getElementById("this_site_ui").style.display = "";
+    } else {
+        document.getElementById("this_site_ui").style.display = "none";
+    }
+}
+
+var isFlashExists = '';
+var isChrome = '';
+var isFirefox = '';
+var isMac = '';
+
+$(document).ready(function(){
+    isFlashExists = swfobject.hasFlashPlayerVersion('10') ? true : false ;
+    isChrome      = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+    isFirefox     = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
+    isMac         = navigator.userAgent.toLowerCase().indexOf('macintosh') > -1;
+
+    if(isChrome) {
+	isFlashExists = ((typeof navigator.plugins != "undefined" && typeof navigator.plugins["Shockwave Flash"] == "object") || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) != false));
+    }
+	var http_host = get_http_host();
+    if(isFlashExists&&isFirefox&&isMac) {
+        if(http_host.indexOf('https://startpage') > -1)
+            changeVideoLinks();
+    }    
+    
+    jQuery(function() { 
+        if(isFlashExists) {
+            $('div[id^="audioElement_"]').each(function() {
+                var audio_file = $(this).children('a').attr('href');
+                $(this).html('');
+                jwplayer(this).setup({ 
+                    file: audio_file,
+                    flashplayer: '/jwplayer/jwplayer.flash.swf',
+                    primary: 'flash',
+                    width: '350',
+                    height: '25',
+                    analytics: {
+                        cookies: false,
+                        enabled: false
+                    }
+                });
+            });
+        } else {
+	    $('div[id^="audioElement_"]').each(function() {
+		$(this).children('a').attr('href','javascript:void(0)');
+	    });
+	}
+    });
+});
+
+function changeVideoLinks() { 
+    jQuery('.topopup').each(function(){jQuery(this).attr('onclick',jQuery(this).attr('onclick').replace('http://startpage','http://www.startpage'))});
+}
+
+function no_flash_alert(flash_alert_message) {
+    alert(flash_alert_message);
+}
+
+function addVideo(video_file,flash_alert_message) {
+    if(isFlashExists) {
+        jwplayer("sm-video").setup({
+            file: video_file,
+            primary: "flash",
+            width: 640,
+            height: 360,
+	    autostart: true,
+            wmode: "transparent",
+            events: {
+                onPlay: function(event){
+                    jwplayer().setControls(true);
+                }
+            },
+            analytics: {
+                cookies: false,
+                enabled: false
+            }
+        });
+    } else {
+        no_flash_alert(flash_alert_message);
+    }
+}
+
+jQuery(function($) {
+    $("a.topopup").click(function() {
+        if(isFlashExists) {
+            loading(); // loading
+            setTimeout(function(){ // then show popup, deley in .5 second
+                loadPopup(); // function show popup 
+            }, 500); // .5 second
+        }
+        return false;
+    });
+
+    $("div.close").click(function() {
+        jwplayer("sm-video").stop();
+        disablePopup();
+    });
+
+    function loading() {
+        $("div.toPopup").show();
+    }
+
+    function closeloading() {
+        $("div.toPopup").css('display','none');
+    }
+
+    var popupStatus = 0; // set value
+
+    function loadPopup() {
+        if(popupStatus == 0) { // if value is 0, show popup
+            closeloading(); // fadeout loading
+            $("#toPopup").fadeIn(0500); // fadein popup div
+            $("#backgroundPopup").css("opacity", "0.7"); // css opacity, supports IE7, IE8
+            $("#backgroundPopup").fadeIn(0001);
+            popupStatus = 1; // and set value to 1
+        }
+    }
+
+    function disablePopup() {
+        if(popupStatus == 1) { // if value is 1, close popup
+            $("#toPopup").fadeOut("normal");
+            $("#backgroundPopup").fadeOut("normal");
+            popupStatus = 0;  // and set value to 0
+            if (jwplayer().getState() != 'PAUSED') {
+                jwplayer().pause(true);
+            }
+        }
+    }
+
+});
+
+function suggestCode(previewID, codeID, refresh) {
+    if (showWidthAndThisSite) {
+        $('#searchbox_width').val('');
+        thisSiteDefaultText = $('#this_site_original_text').val();
+    }
+
+    var tb_array       = new Array("target='_blank' ", "target=_blank ", 'target="_blank" ');
     var previewID_html = htmlspecialchars_decode(document.getElementById(previewID).innerHTML);
     var codeID_html    = htmlspecialchars_decode(document.getElementById(codeID).value);
 
@@ -28,27 +295,47 @@ function suggestCode(previewID, codeID, refresh) {
         previewID_html = previewID_html.replace(tb_array[i],"");
     }
     if (theTarget == 1) {
-        codeID_html    = codeID_html.replace(/<form/i,"<FORM target='_blank' ");
-        previewID_html = previewID_html.replace(/<form/i,"<FORM target='_blank' ");
+        codeID_html    = codeID_html.replace(/<form/i,"<FORM target='_blank'");
+        previewID_html = previewID_html.replace(/<form/i,"<FORM target='_blank'");
+    }
+    if (showWidthAndThisSite) {
+       if ( ($('#this_site').val() != '') && (isTextAcceptable($('#this_site').val()) ) ) {
+         codeID_html = codeID_html.replace(thisSiteDefaultText+'<', $('#this_site').val() + '<');
+         previewID_html = previewID_html.replace(thisSiteDefaultText+'<', $('#this_site').val() + '<');
+       }
     }
 
-    /* LBStars-LBEnds */
+    /* LBStarts-LBEnds */
     var more_inputs = '';
+    if(!isContentSafe(linkback_url)) {
+        linkback_url = "";
+    }
+
+    if(!isContentSafe(linkback_sitename)) {
+        linkback_sitename = "";
+    }
+
     if (linkback_url != '') {
         more_inputs += '<input type=hidden name=linkback_url value="'+linkback_url+'">';
     }
-    if (linkback_sitename != '') {
-        more_inputs += '<input type=hidden name=linkback_sitename value="'+linkback_sitename+'">';
-    }
+
     codeID_html      = codeID_html.replace(/<!--LBS-->(.*?)<!--LBE-->/, "<!--LBS-->"+more_inputs+"<!--LBE-->");
     previewID_html   = previewID_html.replace(/<!--LBS-->(.*?)<!--LBE-->/, "<!--LBS-->"+more_inputs+"<!--LBE-->");
-
+    
     /* Update Values */
     document.getElementById(codeID).value        = codeID_html;
     document.getElementById(previewID).innerHTML = previewID_html;
 
-    /*alert(document.getElementById(codeID).value);*/
+    //updateSearchBoxCode();
+
+   /*alert(document.getElementById(codeID).value);*/
     return false;
+}
+
+
+function updateSearchBoxCode()
+{
+    document.getElementById('codeStartpageSearchBox').value = document.getElementById('previewStartpageSearchBox').innerHTML;
 }
 
 function htmlspecialchars_decode(str){
@@ -154,7 +441,7 @@ function htmlspecialchars(str){
 		li {
                         color:                  #200C71;
 			font-size:		12px;
-            line-height:25px;
+			line-height:25px;
         }
 		div.topdiv {
 			border:         1px solid #255BB1;
@@ -267,7 +554,6 @@ function htmlspecialchars(str){
             padding-bottom         :   0px;
 			background-color		:	#ffffff;
 			color				:	#200C71;
-			font-size			:	12pt;
 		}
 		div.content a:link {
 			color                           :       #200C71;
@@ -398,6 +684,13 @@ function htmlspecialchars(str){
 			color				:	#ffffff;
 			text-decoration     : underline;
 		}
+        .nomarginbottom {
+            margin-bottom       : 0px;
+            padding-bottom      : 0px;
+        }
+        .nomargintop {
+            margin-top          : 0px;
+        }
 
 .ibutton::-moz-focus-inner {border:0}
 .ibutton{background-image:url('/graphics/blue-bg.gif'); cursor:pointer; text-align:center; height:18px; font-family:Verdana;font-size: 10px; color: #13047D; font-weight: bold; border-top: 0px solid #006699;border-bottom: 0px solid #006699;border-left: 0px solid #006699;border-right: 0px solid #006699; margin-bottom:0px;padding-left:6px;padding-right:6px;}
@@ -438,8 +731,6 @@ width:600px;
 height:1px;
 } 
 
-	-->
-
 .fixstar
 {
 	background:url(/graphics/startpage_star.png);
@@ -448,9 +739,23 @@ height:1px;
 	height:9px;
 }
 	-->
+img {
+     border:none;
+    }
+<!--CSS for popup video box-->
+a:active, a:focus {outline:  none;ie-dummy: expression(this.hideFocus=true);}
+#sm-video{width:641px \0/ !important;}
+#sm-video object{margin-top:-40px;}
+#sm-video_wrapper > object {margin-top: -40px;}
+#toPopup {font-family: "lucida grande",tahoma,verdana,arial,sans-serif;background: none repeat scroll 0 0 #FFFFFF;border: 10px solid #000000;color: #333333;display: none;font-size: 14px;left: 50%; margin-top:-180px; margin-left: -340px;position: fixed;width: 640px; height:360px; z-index: 2; top:50%;}
+div.loader {background: url(/graphics/loading.gif) no-repeat scroll 0 0 transparent;height: 32px;width: 32px;display: none;z-index: 9999;top: -210px;left: 330px;position: relative;margin-left: -10px;}
+div.close {background: url(/graphics/close.png) no-repeat scroll 0 0 transparent;bottom: 24px;cursor: pointer;float: right;height: 40px;left: 35px;position: relative;width: 39px;}
+div#popup_content {margin-top:0px;}
+a.topopup{display:block;}
 
-	</style>
-	<!--[if lt IE 7]>
+</style>
+
+<!--[if lt IE 7]>
 
 <style type="text/css">
 
@@ -501,12 +806,26 @@ height:1px;
         },
         // Array containing information of various browsers.
         dataBrowser: [
-        {
+		{
+		    string: navigator.userAgent,
+			subString: "Mobile Safari",
+			identity: "Mobile Safari"
+		},
+		{
             string: navigator.vendor,
             subString: "Camino",
             identity: "Camino"
         },
-
+        {
+            prop: window.opera,
+            identity: "Opera"
+        },
+        {
+            string: navigator.userAgent,
+            subString: " OPR/",
+            identity: "Opera",
+			versionSearch: "OPR"
+        },
         {
             string: navigator.userAgent,
             subString: "Chrome",
@@ -534,10 +853,6 @@ height:1px;
             subString: "Apple",
             identity: "Safari",
             versionSearch: "Version"
-        },
-        {
-            prop: window.opera,
-            identity: "Opera"
         },
         {
             string: navigator.vendor,
@@ -584,6 +899,12 @@ height:1px;
             identity: "Explorer",
             versionSearch: "MSIE"
         },
+        { // for ie11, user-agent string has been modified 
+            string: navigator.userAgent,
+            subString: "Trident/7.0;",
+            identity: "Explorer",
+            versionSearch: "rv"
+        },
         {
             string: navigator.userAgent,
             subString: "Gecko",
@@ -600,6 +921,11 @@ height:1px;
         ],
     // Array containing information of various Operating system platforms.
     dataOS : [
+ 	    {
+		    string: navigator.userAgent, 
+			subString: "BB10",
+			identity: "BB10"
+ 	    },
         {
             string: navigator.platform,
             subString: "Win",
@@ -637,6 +963,53 @@ function bookmarkUrl(title, url){
     else if(document.all)// ie
         window.external.AddFavorite(url, title);
 }
+function findPos(obj) {
+	var curleft = curtop = 0;
+	if (obj.offsetParent) {
+		curleft = obj.offsetLeft;
+		curtop = obj.offsetTop;
+		while (obj = obj.offsetParent) {
+			curleft += obj.offsetLeft;
+			curtop += obj.offsetTop;
+		}
+	}
+	return [curleft,curtop];
+}
+
+var isMapDetailActive = false;
+var MapDetailTimeoutId;
+function showMapDetail() {
+	clearTimeout(MapDetailTimeoutId);
+	var offset = findPos(document.getElementById('mapd'));
+	var mapdl = document.getElementById('map-detail');
+	mapdl.style.left = (offset[0] - 10) + 'px';
+	mapdl.style.top = (offset[1] + 30) + 'px';
+	mapdl.style.display = 'block';
+	isMapDetailActive = true;
+
+	jQuery('#mapd').click( function(){
+		isMapDetailActive = true;
+		jQuery('#mapd').removeAttr("onmouseout").removeAttr("onmouseover");
+		jQuery('#map-detail').removeAttr("onmouseout").removeAttr("onmouseover");
+	});
+	jQuery('#map-detail a.popup_close').click( function(){
+		isMapDetailActive = false;
+		jQuery('#map-detail').hide();
+		document.getElementById('mapd').onmouseover = function(){showMapDetail()};
+		document.getElementById('mapd').onmouseout = function(){hideMapDetail()};
+		document.getElementById('map-detail').onmouseover = function(){isMapDetailActive = true; clearTimeout(MapDetailTimeoutId);};
+		document.getElementById('map-detail').onmouseout = function(){hideMapDetail()};
+	});
+
+}
+function checkAndHideMapDetail() {
+	if(!isMapDetailActive) {
+		document.getElementById('map-detail').style.display = 'none';
+		isMapDetailActive = false;
+	}
+}
+function hideMapDetail() { isMapDetailActive = false; MapDetailTimeoutId = setTimeout('checkAndHideMapDetail()', 10); }
+
 function getPreferenceParam(url) {
     var concatParam = '';
     if( (url.match(/(.*?)(&|\?)(prfh)(=)(.*?)($|&)/g)) || (url.match(/(.*?)(&|\?)(prf)(=)(.*?)($|&)/g)) ){ 
@@ -1490,10 +1863,21 @@ function makeHomePage (obj, page_url) {
 
 
 <body onload="highlight();">
+<!-- for video pop-up box -->
+<div id="toPopup">
+        <div class="close"></div>
+        <div id="popup_content">
+                <div id="sm-video" style="position: relative; display: block; width: 640px; height: 360px;">
+                Jwplayer Loading<div style="display: none;" id="sm-video_aspect"></div>
+                <div id="sm-video_jwpsrv" style="position: absolute; top: 0px; z-index: 10;"></div>
+        </div>
+        </div>
+</div>
+
 <table class="toptable" cellpadding="0" cellspacing="0" id="toptablex" background="/graphics/top_border.gif" style="background-repeat:repeat-x">
 <tbody><tr>
     <td valign="top" rowspan="2" style=" background:#5fa8dd url(/graphics/startpage_menubottom.gif) repeat-y">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%" style=" background:#4599d9 url(/graphics/startpage_menufullbg.jpg) repeat-x">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%" style=" background:#5ea6e0 url(/graphics/startpage_menufullbg.jpg) repeat-x">
 		  <tbody><tr>
 			<td class="tdmenu tdmenurepeat">
 				<a href="/uk/" border="0" class="addsettings"><img src="/graphics/startpage_aboutstartpage.gif" width="261" height="167" border="0" alt="Startpage.com"></a> 
@@ -1533,6 +1917,10 @@ function makeHomePage (obj, page_url) {
     <div class="menucell2"><a href="/do/preferences.pl?language_ui=english_uk" class="menulink addsettings">SETTINGS</a></div>
     <div><br></div>
 
+   <!--app<div class="menucell2"><a  href="/uk/mobile-app-features.html" class="menulink addsettings">MOBILE APP</a></div>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"/></div></td><td style="padding-right:4px;"><a href="/uk/mobile-app-features.html"  class="newsubsublink addsettings">Features</a></td></tr></table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"/></div></td><td style="padding-right:4px;"><a href="/uk/mobile-app-qa.html"  class="newsubsublink addsettings">Q & A</a></td></tr></table>
+    <div><br /></div>app-->
 
    <div class="menucell2"><a href="/uk/company-background.html" class="menulink addsettings">COMPANY INFO</a></div>
          <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="30" valign="middle"><div class="subsubcell"><img src="/graphics/spacer.gif" width="15" height="9"></div></td><td style="padding-right:4px;"><a href="/uk/company-background.html" class="newsubsublink addsettings">Company Background</a></td></tr></tbody></table>
@@ -1559,7 +1947,8 @@ function makeHomePage (obj, page_url) {
     <div class="menucell2"><br></div>
     <div class="menucell"><table cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/graphics/spacer.gif" width="15" height="9"></td><td><table border="0" cellspacing="0" cellpadding="0" width="130"><tbody><tr><td class="button" onmouseover="this.className='button_on';" onmouseout="this.className='button';" onclick="this.className='button_click';apply_preference_param();"> Home </td></tr></tbody></table></td></tr></tbody></table></div>
 			</td>
-		  </tr>
+	<td class="tdmenu tdmenurepeat" style="background:url('/graphics/startpage_menumiddle_repeat.jpg') repeat-x 0 167px; margin:0; width:1px" width="1"><img src="/graphics/spacer.gif" width="1" height="750">
+		  </td></tr>
 		</tbody></table>
 
 </td>
@@ -1567,33 +1956,62 @@ function makeHomePage (obj, page_url) {
   </tr>
   <tr>
 <td class="tdcontent" valign="top" id="td_content" name="td_content">
-<div style="float:right;margin:60px 15px 0 0;">Latest revision: May 2012</div><div style="padding-bottom:5px;background:none;" class="title">PRIVACY</div>
+<div style="float:right;margin:53px 15px 0 0;">Latest revision: June 2013<div><a id="older_revisions" href="javascript:void(0);" onmouseover="showRevisions();" onmouseout="hideRevision();" style="display:block;">Earlier versions</a></div></div><div id="revision" onmouseover="isActive = true; clearTimeout(revisionTimeoutId); " onmouseout="hideRevision2();"><p style="font-size:15px;"></p><ul><li><a href="/uk/2012/05/privacy-policy.html"> May 2012 </a></li>
+</ul><p></p><p style="clear:both;"></p></div>
+<script language="javascript" type="text/javascript">
+   var isActive = false; var revisionTimeoutId;
+   function eId(item) { return document.getElementById(item); }
+   function showRevisions() { clearTimeout(revisionTimeoutId); var revision = eId('revision'); revision.style.display = 'block'; isActive = true; $('#older_revisions').click( function(){ isActive = true; $('#older_revisions').removeAttr('onmouseout').removeAttr('onmouseover'); $('#revision').removeAttr('onmouseout').removeAttr('onmouseover'); }); $('#revision').click( function(){ isActive = false; $('#revision').hide(); eId('older_revisions').onmouseover = function(){showRevisions()}; eId('older_revisions').onmouseout = function(){hideRevision()}; eId('revision').onmouseover = function(){isActive = true; clearTimeout(revisionTimeoutId);}; eId('revision').onmouseout = function(){hideRevision2()}; });}
+function checkAndHideRevision() { if(!isActive) { eId('revision').style.display = 'none'; isActive = false; }}
+function hideRevision() { isActive = false; revisionTimeoutId = setTimeout('checkAndHideRevision()', 800); }
+function hideRevision2() { isActive = false; revisionTimeoutId = setTimeout('checkAndHideRevision()', 100); }
+</script><style type="text/css">
+         #revision {
+             width : 150px;
+             top : 140px;
+             right : 30px;
+             position:absolute;
+             z-index:10;
+             display: none;
+             color : #0E5398;
+             border : 1px solid #618bd7; 
+             border-radius : 10px;
+             box-shadow : 0 2px 3px 0 rgba(0, 0, 0, 0.2);
+             -webkit-border-radius : 10px;
+             -webkit-box-shadow : 0 2px 3px 0 rgba(0,0,0,0.2);
+             -moz-border-radius : 10px;
+             -moz-box-shadow : 0 2px 3px 0 rgba(0, 0, 0, 0.2);
+             margin : auto;
+             background-color: #fff;     
+             background : -webkit-gradient(linear, left bottom, left top, color-stop(0.25, white), color-stop(0, #F3F8FE));
+        }</style><div style="padding-bottom:5px;background:none;" class="title">PRIVACY</div>
 <div class="separator"><hr></div>
 <div class="subtitle" id="subTitle">Privacy Policy</div><div id="min-width"></div>
-<div class="content" style="padding-right: 30px;"><!--BODYCONTENT--><br style="line-height: 10px;"><span>In short:</span>                                                                                                                                            
-<h3 style="margin-top: 0;"> Startpage does NOT collect or share ANY personal information!  </h3>                                                                                                                                                                
+<div class="content" style="padding-right: 30px;"><!--BODYCONTENT--><br style="line-height: 10px;"><span>In short:</span>
+<h3 style="margin-top: 0;"> Startpage does NOT collect or share ANY personal information!<br>Nada. Zilch. Nothing. </h3>                                                                                                                                                                
 <p> The longer version: <br>                                                                                                                                                                                           
-Startpage is strongly committed to protecting the privacy of its user community.<br><br>This privacy policy details the - very limited - information Startpage.com ("Startpage") may gather and our disclosure policy. </p>
+Startpage is strongly committed to protecting the privacy of its user community.<br>This privacy policy details the - very limited and non-personal - information Startpage.com ("Startpage") may gather and our disclosure policy. </p>
 
-<h3>IP Addresses</h3>
-<p>The IP address that is associated with your search will NOT be recorded.<br>(The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Startpage in a very short time.)</p>
-<h3>Data Collection</h3>
-<p id="qdataab"><i>We don't collect any personal information on our visitors. Nada. Zilch. Zero.</i><br><br>When you use Startpage, we do not record your IP address, we do not record which browser you are using (Internet Explorer, Safari, Firefox, etc.), we do not record your computer platform (Windows, Mac, Linux, etc.), and we do not record your search words or phrases. In fact, the only information we do record is an aggregate total of how many searches are performed on our website each day (a measure of overall traffic), and those overall traffic numbers broken down by language.<br><br>Our zero data collection policy protects your privacy, since your IP address, browser, and platform information can be combined with other data to <a href="https://panopticlick.eff.org" target="_blank">uniquely identify</a> your computer, your location, or you. It is also important not to record search terms, since they can convey personal information as well. (Think of someone entering their own name and/or social security number.)</p>
-<h3>Cookies</h3>
-<p>Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites.<br>
+<h3 class="nomarginbottom">IP Addresses</h3>
+<p class="nomargintop"><i>The IP address that is associated with your search will NOT be recorded.</i><br><br>The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Startpage in a very short time.</p>
+<h3 class="nomarginbottom">Data Collection</h3>
+<p class="nomargintop" id="qdataab"><i>We don't collect any personal information on our visitors. Nada. Zilch. Zero.</i><br><br>When you use Startpage, we do not record your IP address, we do not record which browser you are using (Internet Explorer, Safari, Firefox, Chrome etc.), we do not record your computer platform (Windows, Mac, Linux, etc.), and we do not record your search words or phrases. In fact, the only information we do record is an aggregate total of how many searches are performed on our website each day (a measure of overall traffic), and those overall traffic numbers broken down by language, and statistics on a purely aggregate level.<br><br>This zero data collection policy protects your privacy, since your IP address, browser, and platform information can be combined with other data to <a href="https://panopticlick.eff.org" target="_blank">uniquely identify</a> your computer, your location, or you. It is also important not to record search terms, since they can convey personal information as well. (Think of someone entering their own name and/or social security number.)</p><h3 class="nomarginbottom">Cookies</h3>
+              <p class="nomargintop"><i>Startpage does not use identifying cookies.</i><br><br>Cookies are small pieces of data that are sent and saved to your computer's hard drive when visiting sites.<br>
 Startpage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days. <br>
 You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.<br>
 You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.<br>
-To promote a cookie-free internet, Startpage has recently launched a <a href="/uk/urlgenerator-details.html" target="_blank" onclick="window.open('/uk/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a href="/do/preferences.pl?language_ui=english_uk" target="_blank">SETTINGS</a> page.<br></p>
+To promote a cookie-free internet, Startpage has a <a href="/uk/urlgenerator-details.html" target="_blank" onclick="window.open('/uk/urlgenerator-details.html','','directories=no,location=no,scrollbars=yes,status=no,toolbar=no,menubar=no,height=500,width=1003'); return false;">URL generator</a> which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the <a href="/do/preferences.pl?language_ui=english_uk" target="_blank">SETTINGS</a> page.<br></p>
 <h3>External Links</h3>
-<p>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Startpage has no control, and who are not covered by this privacy policy. Startpage is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Startpage.com website.</p>
+<p>As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Startpage has no control, and who are not covered by this privacy policy. Startpage is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Startpage.com website. Startpage offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites. Furher information on this great privacy tool can be found <a href="/proxy/uk/help.html" target="blank">here</a>.</p>
 <h3>Email addresses</h3>
-<p>When you send comments, questions, suggestions, or feedback to Startpage via email, and include an email address and/or contact information Startpage may use this information to respond to you. Startpage will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Startpage company information. This service is opt-in and includes the option to unsubscribe.</p>
-<h3>Children Under 13 Years of Age</h3>
-<p>In light of the concern over protecting children's privacy online, Startpage does not knowingly request, collect, or share personally identifiable information from users under the age of 13.</p>
-<h3>Information Sharing</h3>
-<p>Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click <a href="/uk/information-sharing.html" target="_blank" onclick="window.open('/uk/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details. Startpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startpage, its users or the general public as required by law.</p><h3>Operator</h3>
-                  <p>Startpage.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist<br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. (</td><td valign="top"><a href="mailto:%72%6F%62%65%72%74%40%73%74%61%72%74%70%61%67%65%2E%63%6F%6D%2c%61%6c%65%78%40%73%74%61%72%74%70%61%67%65%2E%63%6F%6D">robert@startpage.com</a></td><td valign="top">)</td></tr></tbody></table></p><!--BODYCONTENT--></div>
+<p>When you send comments, questions, suggestions, or feedback to Startpage via email, and include an email address and/or contact information Startpage may use this information to respond to you. Startpage will not sell or disclose your contact information to any third parties. We may, however, very occasionally send emails to our users regarding Startpage company information. This service is opt-in and includes the option to unsubscribe.</p><h3 class="nomarginbottom">Children Under 13 Years of Age</h3>
+              <p class="nomargintop"><i>Note that we do not collect any personal data at all.</i><br><br>As a consequence Startpage does not knowingly request, collect, or share personally identifiable information from users under the age of 13 either. We feel protecting children's privacy online is very important.</p><h3 class="nomarginbottom">Information Sharing</h3>
+              <p class="nomargintop"><i>Startpage has no personal information to share.</i><br><br>Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click <a href="/uk/information-sharing.html" target="_blank" onclick="window.open('/uk/information-sharing.html','','scrollbars=auto,width=500,height=400,toolbars=0,resizable=yes');return false;">here</a> for details.</p><h3>Governmental requests</h3>
+                   <p>Startpage is headquartered in The Netherlands, Europe. Any request or demand from any government (including the US) to deliver user data, will be thoroughly checked by our lawyers, and we will not comply unless the law which actually applies to us would undeniably require it from us. And even in that hypothetical situation, we would refer to the fact we have no personal user data to share.<br>In the fourteen years we've been in business, we have never received such a request.<br><br>
+                      The only legitimate way that we see to make us start collecting personal information, is if there is a valid warrant or court order, obliging us to do so in relation to a specific user because that person is suspected to have committed a crime which is serious enough to warrant such a restriction of privacy.<br><br>
+                      Given the strong protection of the right to privacy in Europe, European governments cannot just start forcing service providers like us to implement a blanket spying program on their users. If that ever changed, we would fight this to the end.<br><br></p><h3>Your privacy, our future</h3>
+                   <p>We strongly believe that we have the legal right to safeguard the privacy of our users by not collecting and/or encrypting their personal information, and to keep doing so.</p><div align="center"><h3>Privacy.<br>It's not just our Policy - it's our Mission!</h3></div><h3>Operator</h3>
+                  <p>Startpage.com is owned and operated by Surfboard Holding BV, Postbus 1079,  3700 BB Zeist<br><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. (</td><td valign="top"><img src="/graphics/startpage_robert_email.gif"></td><td valign="top">)</td></tr></tbody></table></p><!--BODYCONTENT--></div>
 </td>
 <td valign="top" width="1" background="/graphics/startpage_right.gif" style="background-repeat:repeat-y; background-position:right"><img src="/graphics/spacer.gif" width="1" height="9"></td>
 </tr>
@@ -1642,7 +2060,8 @@ To promote a cookie-free internet, Startpage has recently launched a <a href="/u
             } else {
 				finalUrl += "ns_";
 			}
-            finalUrl += Lang + ".src";
+            //finalUrl += Lang + ".src";
+            finalUrl += Lang + ".xml";
             window.external.AddSearchProvider(finalUrl);
 			var language = get_language(Lang);
 			//load_img('/do/adviewtrack.pl?a=10&g=463&l=' + language);
@@ -1662,8 +2081,16 @@ To promote a cookie-free internet, Startpage has recently launched a <a href="/u
 		  //srcUrl += Lang + ".src";
 		  srcUrl += Lang + ".xml";
           var pngUrl = pathUrl + ".png"; 
-          //window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startpage", "Startpage Search");
-		  window.external.AddSearchProvider(srcUrl);
+
+		  //window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startpage", "Startpage Search");
+		  //window.external.AddSearchProvider(srcUrl);	
+		  // Check if any error in executing window.external.AddSearchProvider then use window.sidebar.addSearchEngine
+		  try
+		  {
+			  window.external.AddSearchProvider(srcUrl);
+		  }catch(err){
+			  window.sidebar.addSearchEngine(srcUrl, pngUrl, "Startpage", "Startpage Search");
+		  }
 		  var language = get_language(Lang);
 			//load_img('/do/adviewtrack.pl?a=10&g=463&l=' + language);
 			//load_img('/do/adviewtrack.pl?a=10&g=469&l=' + language);
@@ -1687,7 +2114,6 @@ To promote a cookie-free internet, Startpage has recently launched a <a href="/u
 			//load_img('/do/adviewtrack.pl?a=10&g=469&l=' + language);
 			load_img('/do/adviewtrack.pl?a=10.463,10.894,10.895&l=' + language);
         }
-
         if(browserType == 4) {
             // Browser is Chrome.
             var finalUrl = pathUrl + "_chrome_";
@@ -1696,10 +2122,31 @@ To promote a cookie-free internet, Startpage has recently launched a <a href="/u
             } else {
 				finalUrl += "ns_";
 			}
-            finalUrl += Lang + ".src";
+            //finalUrl += Lang + ".src";
+            finalUrl += Lang + ".xml";
             window.external.AddSearchProvider(finalUrl);
                         var language = get_language(Lang);
-                       load_img('/do/adviewtrack.pl?a=10.463,10.894&l=' + language);
+                       load_img('/do/adviewtrack.pl?a=10.463,10.894,10.895&l=' + language);
+        }
+
+		if(browserType == 5) {
+            // Browser is BB10.
+			if(http_host.indexOf('startpage.') != -1 || http_host.indexOf('ixquick.') != -1)
+		    {
+				var finalUrl = pathUrl + "_bb10_";
+			}else { // probabily dev2.webintensive instance
+				var finalUrl = ''+'/toolbar/searchbar/' + Lang + '/startpage_bb10_';		
+			}
+			if (http_plugin == 0) {
+               	finalUrl  += "secure_";
+            } else {
+				finalUrl += "ns_";
+			}
+            finalUrl += Lang + ".src";
+			//console.log (finalUrl);
+			window.external.AddSearchProvider(finalUrl);
+                        var language = get_language(Lang);
+                       load_img('/do/adviewtrack.pl?a=10.463,10.894,10.895&l=' + language);
         }
     }
 
