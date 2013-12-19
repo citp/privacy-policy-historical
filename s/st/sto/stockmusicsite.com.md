@@ -1,27 +1,6 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531182229id_/https%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219105845id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
-
-sound effects mp3 wav,  
-radio sounds effects,  
-game sound effects,  
-free downloads of sound effects,  
-ticking clock sound effects,  
-farting soundes,  
-movie editing noises downloads free,  
-horn sounds,  
-wolf howl sound,  
-free demonic audio recording effect downloads,  
-jackson 5 free sound effects,  
-rolling ball sound effect,  
-eagle sound effect,  
-sound effects free download,  
-tuba sound effect download,  
-free sfx,  
-free door bell sound effects mp3,  
-sound bites effects,  
-bbc sound effects library index,  
-different sound effects 
 
 | 
 
@@ -109,23 +88,23 @@ We know that you care how your information is used, and we appreciate your trust
   
 
 
-unusual sounds to download,  
-movie wavs,  
-funny sounds,  
-african sound effects,  
-lord of the rings sound effects,  
-hand held sound effects,  
-free fx sound effects,  
-monster zero sound eff,  
-time fx,  
-huntinghornsounds,  
-free downloadable safari sounds,  
-nuke sound effect,  
-star tours sound effects,  
-download free sound affects online,  
-drum roll sound effect,  
-vikings sounds,  
-free lorry sound effects,  
-audio clips sound effects,  
-sounds of nature free online download,  
-sound wav com 
+soundeffect,  
+archive sounds,  
+noises,  
+sound effects for garageband,  
+tv static sound effect free,  
+free stab sounds effects,  
+free sond effecs for pc,  
+filling vial sound effect,  
+free clapping sound effects,  
+space shuttle rocket sound effects,  
+free mp3 sound effects,  
+free downloads for sound effects,  
+free rain sounds download,  
+free gun sounds effects,  
+jaws sound clip,  
+colt handguns sounds effects 38cal,  
+need to download sounds of helicopters,  
+music effects,  
+productos audio profesional,  
+sfx 
