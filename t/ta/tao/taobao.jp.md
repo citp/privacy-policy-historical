@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taobao.jp privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143150id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taobao.jp privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219042157id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
 
 # MarkMonitor | Legal - Privacy Policy
 
@@ -28,6 +28,19 @@ Our site gives you the option of changing your personal information. You may mod
 
 We make every effort to maximize your privacy rights while you use this service. If you have any questions, concerns or comments, regarding our privacy policy or any other aspect of our service, please e-mail us at Email: [support@markmonitor.com.](mailto:support@markmonitor.com.)
 
+#### US
+
+1-800-745-9229  
++1-415-278-8400 
+
+#### Europe
+
++44 (0) 203 206 2220
+
+  * [Request Contact](https://web.archive.org/cta/request/)
+
+
+
 #### MarkMonitor   
 Shopping Report
 
@@ -35,4 +48,4 @@ New report challenges assumptions about consumers and counterfeits. [More](https
 
 #### Featured Case Study
 
-How Links of London improved e-commerce and marketing performance by fighting counterfeiters. [More](https://web.archive.org/cta/cs-linksoflondon/?Lead_Source_Mktg=WEBPRO)
+How Links of London improved e-commerce and marketing performance by fighting counterfeiters. [More](https://web.archive.org/download/cs/MarkMonitor_CaseStudy_Links_of_London.pdf)
