@@ -1,100 +1,99 @@
-> *The following text is extracted and transformed from the rocketresponder.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketresponder.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219045500id_/https%3A//www.rocketresponder.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# RocketResponder - Coming Soon
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Last Updated: August 2013
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**By using the site you consent to the collection, use and disclosure of your personal information in accordance with this policy.**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+RocketResponder is committed to protecting your privacy. This privacy policy tells you about our online collection, use and disclosure of personal information. The terms of this policy apply to all personal information collected by RocketResponder on the website RocketResponder and other country-specific RocketResponder websites which are linked to RocketResponder.
 
-**Information Collection and Use**
+This site is operated by TimTech LLC (RocketResponder), and may be accessed in USA and abroad. For personal information protection purposes, RocketResponder is the controller and, unless otherwise noted, is also the processor of the personal information. Information collected may be retained as long as it is reasonably required for the purposes it was collected.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Consent to Collection of Your Personal Information**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+When you visit this site, certain kinds of non-personal information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site's operation. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. Demographic information (e.g., your occupation, hobbies, gender, or interests) may also be collected and may be linked to your personal information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We only collect personal information about you after you have provided us with your consent to collect that specific information. By voluntarily providing this information to us, you consent to the collection and use of your personal information as set out in this privacy policy.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Personal information includes:**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+1\. information collected when you register including your member name and password, your name, your mailing address, email address, and phone number.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+2\. information collected when you make a purchase including your credit card number and billing address.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+3\. if you become a contributor, information collected when you sign-up as a contributor including (i) banking and other financial institution information required in order for us to compensate you; (ii) your social insurance number required in order for us to prepare tax information slips; and (iii) a copy of your photo identification (for example, your driver's license).
 
-**Security**
+You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Use of Your Personal Information**
 
-**Updating Your Information**
+RocketResponder collects and uses your personal information to:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+create and manage your membership account; process your transactions; provide customer service; perform research and analysis aimed at improving our products, services and technologies; to display content that is customized to your interests and preferences; to run contests, select entrants, and choose prize winners; to run Interactive Areas;
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Personal information collected by RocketResponder may be stored and processed in USA or any other country in which RocketResponder or its parent, affiliates, subsidiaries or agents maintain facilities, and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (including the right to have your personal information deleted), please contact us using the "Contact Information" below.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Disclosing Your Personal Information**
 
-      iii.      You may call us at: (480) 505-8800
+Except as set out in this privacy policy, RocketResponder does not disclose or sell your personal information to any third-parties.
 
-       iv.      You may fax us at: (480) 505-8844
+We may disclose your personal information to third-party service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, to provide data storage, to host websites, to fulfill orders and shipments, to assist in marketing, to conduct audits, etc. Those third-party service providers (i) shall be permitted to obtain only the personal information they need to provide the service, (ii) must protect personal information to the same extent as RocketResponder, and (iii) shall be prohibited from using it for any other purpose.
 
-**Sending Emails**
+If you have entered into and/or won an RocketResponder contest, we or a contest sponsor may publish your name and city of residence. Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company. We will notify you of such an occurrence as described in the "Changes to This Privacy Policy" section below. We reserve the right to disclose your personal information if required or permitted to do so by law.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Accessing Your Personal Information**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Update Profile" section of the site. You may also contact by email at http://support.RocketResponder for assistance.
 
-**Compliance with Laws and Law Enforcement**
+**Use of Cookies and Other Technologies**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+RocketResponder uses "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard drive. Cookies contain information, including personal information, that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, session identification number and your navigational history and preferences.
 
-**Third Party Service Providers**
+Cookies offer you many conveniences. They allow us to identify registered users when they return to the site. Cookies also save you time by eliminating the need to repeatedly enter the same information.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+In some cases, our third-party service providers may use cookies on our sites. We have no access to or control over these cookies. This privacy statement covers the use of cookies by RocketResponder only, and does not cover the use of cookies by third parties.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies but you will be able to perform basic navigation through the site.
 
-**Supplementation of Information**
+In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in promotional e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters. We do not use these images to collect personal information.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**Security of Your Personal Information**
 
-**Contests/Surveys**
+The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information including without limitation:
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+limiting access to your personal information to those of our employees who require it to provide services to you;
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+requiring employees to sign confidentiality agreements to protect customer and other confidential information;
 
-**Tell-A-Friend**
+ensuring that third-party service providers sign confidentiality agreements to maintain the confidentiality of your personal information and not to use it for any unauthorized purposes;
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+encrypting credit card information on our order forms using secure socket layer (SSL) technology; and
 
-**What Happens to my Personal Information if I Opt Out?**
+storing your personal information in secure computer systems which protect it from unauthorized access or use.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
 
-**Transfer of Data Abroad**
+If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**Forums & Other Interactive Services**
 
-**Changes in Our Practices**
+Our sites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at http://support.RocketResponder. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**Email Referrals**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+If you choose to use our email referral services to tell a friend about our products or services, we will ask you for your friend's name and email address. We will use that information to send your friend a one-time email inviting him or her to visit the site and review the product or service you have selected. We may use a third-party provider to administer this function, but any such third-party provider may only use the information submitted to facilitate this one-time email.
 
-**Contacting Our Site**
+**Children**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We do not intend to solicit or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, you shall not use or enter information on this site, including without limitation, any Interactive Areas of the site without parental consent. Please contact Customer Services at service@RocketResponder, to obtain the necessary parental consent forms.
 
-* * *
+**Links**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We may link to websites, including those of our subsidiaries and third-party content providers, that have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of such linked sites, and encourage you to become acquainted with them prior to use.
+
+**Changes to This Privacy Policy**
+
+We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the "last updated" date at the top of the policy. If there are material changes to this statement or in how RocketResponder will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites.
