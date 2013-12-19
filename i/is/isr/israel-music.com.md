@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620003056id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219043433id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
 
 # Israel Music - Privacy Policy
 
@@ -22,6 +22,6 @@ Tamuz Records Ltd.
 PO Box 3217  
 Herzliya, 4613101  
 ISRAEL  
-+1-888-3110274
++972-9-7423837
 
-Need help? We're available Sun-Fri 8am-3pm GMT at: +1-888-3110274 
+Call us Sun-Fri 8am-3pm GMT at: +972-9-7423837 / +972-54-4703744 
