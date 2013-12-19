@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the asda.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530095608id_/http%3A//asda.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219191437id_/http%3A//asda.com/help/privacy-policy.html) for the most accurate reproduction.*
 
-# ASDA Website - Privacy Policy
+# ASDA.com - Privacy Policy
 
 ## **Our Privacy Mission Statement:**
 
 > "At ASDA, we value the trust placed in us by customers, suppliers and colleagues who give us their personal data. Data security is one of our highest priorities and we aim to be as clear as possible about what we do with personal data and why we do it." 
 
-Jump to Cookie policy
-
 ## **Our Privacy Statement for ASDA websites**
 
 Your privacy is really important to us, and we understand how important it is to you. Our aim is to be as clear and open as possible about what we do and why we do it. ASDA is committed to the online privacy of all its users. 
 
-This Privacy Policy regulates the use by ASDA and its partner companies of the information you provide when using ASDA websites. It is to be read together with the [terms and conditions of use](http://groceries.asda.com/asda-estore/common/static/terms-and-conditionscontainer.jsp) of the website. 
+This Privacy Policy regulates the use by ASDA and its partner companies of the information you provide when using ASDA websites. 
 
 This ASDA website is run by the ASDA group of companies and its partners (" **we** ", " **us** ", " **our** ") 
 
 We run this site in order to promote products and services and, where these are provided by our partners, to be the link between our customers and our partners. Our partners may have their own privacy policies which you should also look at. 
 
-Where we talk about an order in this policy, this can mean an order for goods or services, registration on a site, an application for a quotation or application for a product or service or the opening of an account. 
+We run this site in order to promote products and services and, where these are provided by our partners, to be the link between our customers and our partners. Our partners may have their own privacy policies which you should also look at. 
 
 ## **Information We Collect**
 
@@ -44,8 +42,6 @@ To be able to order from us we have to collect certain information from you. As 
 
 **Third party information** \- if you give us information about another person, (for example if someone else is taking delivery for you or is included in the purchase of a product) you confirm that you have identified ASDA to them and told them what we will use their information for, as set out in this Privacy Policy and that they have given permission for us to be able to use their personal information in the manner described. 
 
-Personal information of you, or others you have told us about, will be used to ensure that the delivery is performed correctly, to get in touch with you (if required) and to get back to any communications from you. You (or others you have told us about) will not be sent marketing information unless you (or they) become a customer and provide us with any necessary consents. 
-
 **IP addresses** \- when you visit our site, we will automatically receive your IP address, a unique identifier for your computer or other access device. 
 
 You may also provide us with personal information if you contact customer services, if you enter promotions or competitions run by us or if you get in touch with us in some other way, for example by way of an email facility provided on the website. 
@@ -54,7 +50,7 @@ You may also provide us with personal information if you contact customer servic
 
 Our main uses of your information are explained above which in general is to process your orders, as well as to help us understand your needs and provide you with a better service. Your account may be used to store information about your previous purchases, personal preferences and shopping lists. But you should also be aware of the following uses - 
 
-**Marketing** \- we (including our group companies and partners) and carefully selected third parties may use the information we collect to inform you, by letter, phone, SMS or email, about special offers and new products and services that we think may be of interest to you and we may tell you about other organisations' products and services. We will tell you about this when we collect your information and **if you do not wish to receive these communications** , please let us know. You can change your mind at any time by going to the account facilities available on the website or by contacting our Data Protection Officer at the address below. You can also unsubscribe following the instructions that we will include in any communication, such as email or text, we send to you. 
+**Marketing** \- we (including our group companies and partners) and carefully selected third parties may use the information we collect to inform you, by letter, phone, SMS, push notification or equivalent, or email, about offers, products and services that we think may be of interest to you and we may tell you about other organisations' products and services. We will tell you about this when we collect your information and if you do not wish to receive these communications, please let us know. You can change your mind at any time by going to the account facilities available on the website or by contacting our Data Protection Officer at the address below. You can also unsubscribe following the instructions that we will include in any communication, such as email or text, we send to you. 
 
 **Customer care and correspondence** \- as part of our customer care procedures, we may follow-up, either by letter, phone, SMS or email, customers who have purchased goods or services from our website or who have posted comments about ASDA on the internet, for example to resolve a complaint or to ask for a testimonial. 
 
@@ -104,14 +100,13 @@ You can refuse cookies by activating the relevant setting on your browser. Howev
 
 ## **Who We Share The Information With**
 
-We will not sell, distribute or lease your personal information to third parties other than our subsidiaries, affiliates or parent companies unless you say we can (for example for carefully selected third parties to contact you) or are required by law. We may show your information to process and fulfil your order, to provide services you request, for internal business analysis purposes, for the purposes of fraud prevention or if ASDA itself, or any of our business is bought or sold. 
+We will not sell your personal information to third parties other than our subsidiaries, affiliates or parent companies unless you say we can (for example for carefully selected third parties to contact you) or are required by law. We may share your information with third parties to process and fulfil your order, to provide services you request, for business analysis purposes, for the purposes of fraud prevention or if ASDA itself, or any of our business is bought or sold. 
 
 **Market Research** \- we may provide information at an aggregated statistical level about our customers, sales, traffic patterns and related site information to third parties, but this information will not identify individuals. 
 
 **Processing by third parties** \- from time to time we may employ other companies and individuals to perform functions on our behalf. Examples include completing orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, confirming contact details, looking at information, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service (such as through our call centre staff located in the UK or South Africa). They have access to personal information needed to perform their functions, but may not use it for other purposes. They must also process the personal information as set out in this Privacy Policy and as permitted by the UK's Data Protection Act. 
 
-**International transfers** \- in order to carry out the steps set out above we may send your personal information outside of the European Economic Area and, if necessary, across international borders. The data protection laws in these countries may not be as comprehensive as in the European Economic Area. However, we have taken appropriate steps to make sure the same level of protection for the processing carried out in these countries as within the European Economic Area.   
-Any details you provide may be electronically sent to the US to our parent company Wal-Mart Stores Inc., which helps us in running our websites. However, any such information will be dealt with in accordance with the UK's Data Protection Act. 
+**International transfers** \- in order to carry out the steps set out above we may send your personal information outside of the European Economic Area and, if necessary, across international borders. The data protection laws in these countries may not be as comprehensive as in the European Economic Area. However, we have taken appropriate steps to make sure the same level of protection for the processing carried out in these countries as within the European Economic Area. Any details you provide may be electronically sent to the US to our parent company Wal-Mart Stores Inc., which helps us in running our websites. However, any such information will be dealt with in accordance with the UK's Data Protection Act. 
 
 ## **Storage of Data**
 
@@ -128,8 +123,7 @@ Great Wilson Street,
 Southbank,   
 Leeds, LS11 5AD 
 
-**Security** \- at ASDA, information security is very important and we have taken many steps to make sure your shopping experience with us is secure. Information about you will be kept safe and secure.   
-In order to prevent unauthorised access or disclosure of your information, we have put in place suitable physical, electronic and managerial procedures to protect and secure information that is collected online. 
+**Security** \- at ASDA, information security is very important and we have taken many steps to make sure your shopping experience with us is secure. Information about you will be kept safe and secure. In order to prevent unauthorised access or disclosure of your information, we have put in place suitable physical, electronic and managerial procedures to protect and secure information that is collected online. 
 
 **Keeping your information secure** \- to help us keep your information confidential you should: 
 
@@ -152,19 +146,17 @@ If you forget your password, you can request a new password, which will be email
 
 ASDA's mobile applications may include functionality to allow you to create a shopping list, search or add products to a favourites list using voice input or text, or by scanning bar codes, check price or product availability and print coupons, browse, search and buy ASDA.com products, locate the nearest ASDA store, track orders, find aisle locations for items on your shopping lists, order prescription refills, and view, share and print your online photos. 
 
-In addition to the information mentioned above, our mobile applications may collect certain information automatically, such as the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID) placed by us or our service providers, the unique identifier assigned by ASDA to your device, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use our mobile applications 
+In addition to the information mentioned above, our mobile applications may collect certain information automatically, such as the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID) placed by us or our service providers, the unique identifier assigned by ASDA to your device, your location, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use our mobile applications. 
 
-We may disclose or otherwise make available personal information about you to service providers that help with the operation of our mobile applications. These providers may collect device-specific information, such as a unique device identifier, when you use our website or one of our mobile applications. This information will not be associated in any way with your account at ASDA or any personal information that identifies who you are. The device identifier is used to improve services within our mobile applications such as barcode scanners or speech recognition. We require our service providers to keep your information secure. In addition, our service providers may not use or disclose personal information for any purpose other than providing the services on our behalf. We may also work with analytics companies to help us understand how our mobile applications are being used, such as the frequency and duration of usage. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can't identify you personally based on information they collect from our mobile applications or your use of them. 
+We may disclose or otherwise make available personal information about you to service providers that help with the operation of our mobile applications. These providers may collect device-specific information, such as a unique device identifier, when you use our website or one of our mobile applications. This information will not be associated in any way with your account at ASDA or any personal information that identifies who you are. The device identifier is used to improve services within our mobile applications such as barcode scanners or speech recognition. We require our service providers to keep your information secure. In addition, our service providers may not use or disclose personal information for any purpose other than providing the services on our behalf. We may also work with analytics companies to help us understand how our mobile applications are being used, such as the frequency and duration of usage. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can't identify you personally based on information they collect from our mobile applications or your use of them. These analytics providers may also have access to your device-specific information such as a unique device identifier. This information will not be associated in any way with your account at ASDA or any personal information that identifies who you are, and we require these service providers to keep your information secure. 
 
-These analytics providers may also have access to your device-specific information such as a unique device identifier. This information will not be associated in any way with your account at ASDA or any personal information that identifies who you are, and we require these service providers to keep your information secure. 
-
-There are multiple options for users of our mobile applications to opt-out of the collection and of your precise location information: 
+There are multiple options for users of our mobile applications to opt-out of the collection and of your location information: 
 
 Opt-out of all information collection by uninstalling our mobile applications – You can stop all collection of information by our mobile applications easily by uninstalling the mobile applications. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network. 
 
-Note: If you uninstall the mobile application from your device, the ASDA unique identifier associated with your device will continue to be stored. If you re-install the application on the same device, ASDA will be able to re-associate this identifier to your previous transactions. 
+Un-install - You can stop all collection of information by our mobile applications easily by uninstalling mobile applications. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace or network. Note: If you uninstall the mobile application from your device, the ASDA unique identifier associated with your device will continue to be stored. If you re-install the application on the same device, ASDA will be able to re-associate this identifier to your previous transactions. 
 
-You may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device. 
+Adjust permissions - You may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device. 
 
 ## **Links**
 
@@ -176,7 +168,7 @@ If we decide to change our Privacy Policy, we will post these changes on this we
 
 ## **Feedback**
 
-We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please [contact us.](https://asda.custhelp.com/app/helphome)
+We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please [contact us.](https://asda.custhelp.com/app/helphome). 
 
 ## **ASDA group of companies:**
 
@@ -197,5 +189,3 @@ West Yorkshire
 LS11 5AD   
 Registered in England & Wales, company No. 04562707   
 ICO registration no: Z1392501 
-
-Our site uses cookies. To find out what cookies we use and why we use them click here. If you carry on using our site we will assume you consent to us using cookies in this way. 
