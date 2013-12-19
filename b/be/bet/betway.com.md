@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616154746id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219215141id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Betway Online Casino and Betting :: Privacy Policy
 
 This site is operated by Sailboats Limited and Betway Limited (our “Site”). We have created this privacy policy (“Privacy Policy”) to outline our firm commitment to your privacy. Our policy is based on the Data Protection Act of Malta and the principles held within such law. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data. 
 
-By using [www.betway.com](https://web.archive.org/web/20130616154746id_/http%3A//betway.com/help/you) acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
+By using [www.betway.com](https://web.archive.org/web/20131219215141id_/http%3A//betway.com/help/you) acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
+
+## Communication and Opt-Out
+
+In registering a Practice or Real account, you hereby consent to us contacting you through any and all means of communication (whether in written or verbal form and including, but not limited to email, telephone and SMS) in respect of matters relating to your account. You may receive promotional emails and newsletters . To unsubscribe to any or all forms of communication please click the unsubscribe link found in our promotional emails or e-mail [support@betway.com](mailto:support@betway.com) or contact us via [Live Chat.](https://server.iad.liveperson.net/hc/34692421/?cmd=file&file=visitorWantsToChat&site=34692421&SESSIONVAR!skill=english%20Betway)
 
 ## How your Personal Data is stored and used
 
 During the registration process and when you subsequently use your Betway account, specific personal data (“Personal Data”) is collected including, but not limited to, first and last name, date of birth, credit card data, home or other physical address, email address, phone number or other contact data.
 
 Your Personal Data is held by us on servers based in Malta and elsewhere from time to time.
+
+The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by [clicking here](https://web.archive.org/myaccount/personalinformation) and following the simple steps.
 
@@ -48,4 +54,4 @@ Where there is a link from this website to another relevant site, this privacy p
 
 By marking the box labeled “Yes, I agree to the Terms and Conditions and that I am not resident in the US, Malta or Israel” during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our Terms and Conditions. We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site. 
 
-_13/09/12_
+Last updated: 26/11/2013 at 12:00 GMT
