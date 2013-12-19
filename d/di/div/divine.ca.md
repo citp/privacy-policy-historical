@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the divine.ca privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618030404id_/http%3A//www.divine.ca/en/divineca/privacy-policy/c_92) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divine.ca privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219050135id_/http%3A//www.divine.ca/en/divineca/privacy-policy/c_92) for the most accurate reproduction.*
 
-# Privacy Policy, divine.ca - divine.ca
+# Privacy Policy
 
 **  
 divine.ca PRIVACY POLICY**  
