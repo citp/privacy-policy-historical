@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527112450id_/http%3A//www.silkfred.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219112903id_/http%3A//www.silkfred.com/privacy) for the most accurate reproduction.*
 
 # SilkFred - The Online Destination for Emerging Designers
+
+Tis the season to shop and be merry. 20% off everything! Enter SHOPMERRY at checkout. Happy holidays love SF x
+
+  * [](https://web.archive.org/)
+  * [](https://web.archive.org/products/on_sale)
+    *       * [Women __](https://web.archive.org/womenswear?on_sale=true)
+    *       * [Men __](https://web.archive.org/menswear?on_sale=true)
+  * [](https://web.archive.org/account)
+    * [Log in](https://web.archive.org/sessions/login)
+
+
+
+Like Bag
+
+Your bag is empty. Browse our designer boutiques and hunt for something new [here](https://web.archive.org/boutiques).
 
 ### May 2012 1.1
 
