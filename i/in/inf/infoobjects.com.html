@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the infoobjects.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618220952id_/http%3A//www.infoobjects.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infoobjects.com privacy policy that was archived on 2013-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219063819id_/http%3A//www.infoobjects.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -55,8 +55,25 @@
 
 //build menu with DIV ID="myslidemenu" on page:
 droplinemenu.buildmenu("mydroplinemenu");
+
+/* Spotted Triforce Arts: this function re-aligns the submenu
+ * when the browser window is resized
+ */
+ $(window).resize(function() {
+    $('#menu-secondary-menu > .menu-item > ul.sub-menu').css('left',(Math.max(0,(($(window).width()-1272)/2)) + 196)+'px');
+});
 </script>
 
+
+
+<!-- SPOTTED TRIFORCE ARTS -->
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
 
 
 <script type="text/javascript">
@@ -109,12 +126,15 @@ droplinemenu.buildmenu("mydroplinemenu");
 	<link rel="alternate" type="application/rss+xml" title="InfoObjects » Feed" href="http://www.infoobjects.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="InfoObjects » Comments Feed" href="http://www.infoobjects.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="InfoObjects » privacy Comments Feed" href="http://www.infoobjects.com/privacy/feed/">
+<link rel="stylesheet" id="scap.flashblock-css" href="http://www.infoobjects.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=3.5" type="text/css" media="all">
+<link rel="stylesheet" id="scap.player-css" href="http://www.infoobjects.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=3.5" type="text/css" media="all">
 <link rel="stylesheet" id="BluPrintResetCss-css" href="http://www.infoobjects.com/wp-content/themes/akyuz/css/reset.css?ver=3.5" type="text/css" media="all">
 <link rel="stylesheet" id="BluPrintScreenCss-css" href="http://www.infoobjects.com/wp-content/themes/akyuz/css/blueprint/screen.css?ver=3.5" type="text/css" media="all">
 <link rel="stylesheet" id="BluPrintPrintCss-css" href="http://www.infoobjects.com/wp-content/themes/akyuz/css/blueprint/print.css?ver=1.0" type="text/css" media="print">
 <link rel="stylesheet" id="BluPrintIECss-css" href="http://www.infoobjects.com/wp-content/themes/akyuz/css/blueprint/ie.css?ver=3.5" type="text/css" media="all">
 <link rel="stylesheet" id="jqslidemenu_css-css" href="http://www.infoobjects.com/wp-content/themes/akyuz/functions/menu/jqueryslidemenu.css?ver=3.5" type="text/css" media="all">
 <link rel="stylesheet" id="AkyuzCSS-css" href="http://www.infoobjects.com/wp-content/themes/akyuz/style.css?ver=3.5" type="text/css" media="all">
+<script type="text/javascript" src="http://www.infoobjects.com/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js?ver=3.5"></script>
 <script type="text/javascript" src="http://www.infoobjects.com/wp-includes/js/comment-reply.min.js?ver=3.5"></script>
 <script type="text/javascript" src="http://www.infoobjects.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
 <script type="text/javascript" src="http://www.infoobjects.com/wp-content/themes/akyuz/functions/menu/jqueryslidemenu.js?ver=3.5"></script>
@@ -146,47 +166,51 @@ droplinemenu.buildmenu("mydroplinemenu");
 <body class="page page-id-496 page-template-default single-author singular">
 <header role="banner">
 
-	<div class="logo"><a target="_blank" href="/home/"><img src="http://www.infoobjects.com/wp-content/themes/akyuz/images/logo.png" width="196" height="80" border="0" alt=""></a></div>
+	<div class="logo"><a href="/home/"><img src="http://www.infoobjects.com/wp-content/themes/akyuz/images/logo.png" width="196" height="80" border="0" alt=""></a></div>
         
         <div class="fleft">
         	<div class="greybar"></div>
             
 
-<div id="mydroplinemenu" class="droplinebar"><ul id="menu-secondary-menu" class=""><li id="menu-item-1087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1087"><a>Big Data Experts</a>
+<div id="mydroplinemenu" class="droplinebar"><ul id="menu-secondary-menu" class=""><li id="menu-item-1087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1087"><a>Big Data</a>
 <ul class="sub-menu">
 	<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="http://www.infoobjects.com/big-data/">What’s Big Data?</a></li>
 	<li id="menu-item-868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-868"><a href="http://www.infoobjects.com/business-impact/">Business Impact</a></li>
 	<li id="menu-item-869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-869"><a href="http://www.infoobjects.com/cloud/">Using The Cloud</a></li>
 </ul>
 </li>
-<li id="menu-item-1088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088"><a>Technologies</a>
+<li id="menu-item-1090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1090"><a>Analytics</a>
 <ul class="sub-menu">
-	<li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-870"><a href="http://www.infoobjects.com/cloud/">Big Data in the Cloud</a></li>
-	<li id="menu-item-871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-871"><a href="http://www.infoobjects.com/hadoop/">Hadoop</a></li>
-	<li id="menu-item-1638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1638"><a href="http://www.infoobjects.com/our-full-capabilities/">Our full capabilities</a></li>
+	<li id="menu-item-2283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2283"><a href="http://www.infoobjects.com/analytics-overvie/">Overview</a></li>
+	<li id="menu-item-2313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2313"><a href="http://www.infoobjects.com/business-intelligence/">Business Intelligence</a></li>
+	<li id="menu-item-2284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2284"><a href="http://www.infoobjects.com/visualization/">Visualization</a></li>
 </ul>
 </li>
-<li id="menu-item-1089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1089"><a>Business Solutions</a>
+<li id="menu-item-1088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1088"><a>Technologies</a>
+<ul class="sub-menu">
+	<li id="menu-item-871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-871"><a href="http://www.infoobjects.com/hadoop/">Hadoop</a></li>
+	<li id="menu-item-2297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2297"><a href="http://www.infoobjects.com/java/">Java</a></li>
+	<li id="menu-item-2296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2296"><a href="http://www.infoobjects.com/pentaho/">Pentaho</a></li>
+	<li id="menu-item-1638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1638"><a href="http://www.infoobjects.com/our-full-capabilities/">Our Full Capabilities</a></li>
+</ul>
+</li>
+<li id="menu-item-1089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1089"><a>OUR SERVICES</a>
 <ul class="sub-menu">
 	<li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="http://www.infoobjects.com/projects/">Projects</a></li>
 	<li id="menu-item-874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://www.infoobjects.com/consultants/">Consultants</a></li>
-	<li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="http://www.infoobjects.com/training/">Training Programs</a></li>
-	<li id="menu-item-877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-877"><a target="_blank" href="http://www.q1a.com/q1a">Technical Skills Assesment</a></li>
-</ul>
-</li>
-<li id="menu-item-1090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1090"><a>Our Process</a>
-<ul class="sub-menu">
-	<li id="menu-item-878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-878"><a href="http://www.infoobjects.com/advisory/">Advisory services</a></li>
+	<li id="menu-item-878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-878"><a href="http://www.infoobjects.com/advisory/">Advisory Services</a></li>
 	<li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881"><a href="http://www.infoobjects.com/implementaions/">Implementation</a></li>
-	<li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="http://www.infoobjects.com/offer/">An offer you can’t refuse</a></li>
+	<li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876"><a href="http://www.infoobjects.com/training/">Training</a></li>
+	<li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="http://www.infoobjects.com/offer/">An Offer You Can’t Refuse</a></li>
 </ul>
 </li>
-<li id="menu-item-1091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1091"><a>ABOUT</a>
+<li id="menu-item-1091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1091"><a>ABOUT INFOOBJECTS</a>
 <ul class="sub-menu">
-	<li id="menu-item-1670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1670"><a href="http://www.infoobjects.com/whats-important/">What’s important</a></li>
+	<li id="menu-item-2289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2289"><a href="http://www.infoobjects.com/our-team/">Our Team</a></li>
+	<li id="menu-item-2290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2290"><a href="http://www.infoobjects.com/media/">Videos</a></li>
+	<li id="menu-item-1670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1670"><a href="http://www.infoobjects.com/whats-important/">What’s Important</a></li>
 	<li id="menu-item-1508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1508"><a target="_blank" href="http://www.infoobjects.com/clients/">Clients</a></li>
 	<li id="menu-item-883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-883"><a href="http://www.infoobjects.com/jobs/">Job Opportunities</a></li>
-	<li id="menu-item-1820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1820"><a href="http://www.infoobjects.com/hadooptraining/">Hadoop training classes</a></li>
 </ul>
 </li>
 </ul></div>
@@ -287,7 +311,7 @@ You are entitled to know whether we hold personal data about you and, if we do, 
 <li id="menu-item-863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a href="http://www.infoobjects.com/about-us/">About InfoObjects</a></li>
 <li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="http://www.infoobjects.com/employment/">Employment Opportunities</a></li>
 <li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-496 current_page_item menu-item-861"><a href="http://www.infoobjects.com/privacy/">Privacy Policy</a></li>
-<li id="menu-item-860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-860"><a target="_blank" href="http://www.q1a.com">Q1A Tech Tests</a></li>
+<li id="menu-item-860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-860"><a target="_blank" href="http://www.techtests.com">Tech Tests</a></li>
 <li id="menu-item-1401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1401"><a href="http://www.infoobjects.com/clients/">Clients</a></li>
 <li id="menu-item-859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-859"><a href="http://www.infoobjects.com/contact-us/">Contact Us</a></li>
 </ul></div><div class="siliconAngel">
@@ -300,6 +324,53 @@ You are entitled to know whether we hold personal data about you and, if we do, 
 	</footer><!-- #colophon -->
 
 
+	
+<!-- WP Audio player plugin v1.5 - http://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+	<script type="text/javascript">
+    soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+    soundManager.url = 'http://www.infoobjects.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+    function play_mp3(flg,ids,mp3url,volume,loops){
+      soundManager.createSound({
+        id:'btnplay_'+ids,
+        volume: volume,
+        url: mp3url
+      });
+
+      if(flg == 'play'){
+		//soundManager.stopAll();        
+		soundManager.play('btnplay_'+ids,{
+			onfinish: function() {
+				if(loops == 'true'){
+					loopSound('btnplay_'+ids);
+				}
+				else{
+					document.getElementById('btnplay_'+ids).style.display = 'inline';
+					document.getElementById('btnstop_'+ids).style.display = 'none';
+				}
+			}
+		});
+      }
+      else if(flg == 'stop'){
+        //soundManager.stop('btnplay_'+ids);
+    	soundManager.pause('btnplay_'+ids);
+      }
+    }
+    function show_hide(flag,ids){
+      if(flag=='play'){
+        document.getElementById('btnplay_'+ids).style.display = 'none';
+        document.getElementById('btnstop_'+ids).style.display = 'inline';
+      }
+      else if (flag == 'stop'){
+        document.getElementById('btnplay_'+ids).style.display = 'inline';
+        document.getElementById('btnstop_'+ids).style.display = 'none';
+      }
+    }
+    function loopSound(soundID) {
+    	window.setTimeout(function() {
+    		soundManager.play(soundID,{onfinish:function(){loopSound(soundID);}});
+    	},1);
+    }
+	</script>
 	
 	
 
@@ -410,5 +481,73 @@ $(document).ready(function(){
 		}
 		/****************************************************/		
 	});
+</script>
+
+<script type="text/javascript">
+/* SPOTTED TRIFORCE ARTS
+ * this code will float the contact/signup button panels of 
+ * tall .training_box'es automatically based on scroll values
+ */
+ 
+function floatPanels() {
+    $('.training_box').each(function() {
+        if ($(this).height() > 400) {
+            //figure out positioning
+            var box_top = $(this).position().top + 65;
+            var box_height = $(this).height();
+            var fold = $(window).scrollTop() + $(window).height();
+            var onscreen = ((box_top + 100) < fold);
+            var completed = ((box_top + box_height) < fold);
+    
+            //apply styles
+            if (onscreen && !completed) {
+                $(this).find('.track_box_panel').addClass('floatme').css('left',($(this).position().left+2-$(window).scrollLeft())+'px');
+            } else {
+                $(this).find('.track_box_panel').removeClass('floatme').css('left','0');
+            }
+        }
+    });
+}
+$(window).scroll(floatPanels);
+$(window).resize(floatPanels);
+$(function() {
+    floatPanels();
+});
+/* END SPOTTED TRIFORCE ARTS */
+</script>
+
+
+<script type="text/javascript">
+/* SPOTTED TRIFORCE ARTS
+ * this function shuffles the staff grid on the our-team page 
+ */
+
+function rearrangeProfiles() {
+	console.log('scss');
+    if ($('.jpr_team').length != 0) {
+        var deck = [];
+	var t= setTimeout(function() {
+            $('.team_member').each(function(index) {
+                deck[index] = $(this)[0].outerHTML;
+            });
+            shuffle(deck);
+            $('#team_box').html(deck.join(''));
+        },2000);
+    } 
+}
+    
+function shuffle(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    return array;
+}
+$(function() {
+   //rearrangeProfiles(); ### COMMENTED OUT AGAIN BECAUSE SOME PEOPLE ARE MORE EQUAL THAN OTHERS...
+});
+/* END SPOTTED TRIFORCE ARTS */
 </script>
 </body></html>
