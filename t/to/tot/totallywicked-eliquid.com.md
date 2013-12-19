@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallywicked-eliquid.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424091942id_/http%3A//www.totallywicked-eliquid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallywicked-eliquid.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219212404id_/http%3A//www.totallywicked-eliquid.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy / E Cigarettes and E Liquid from Totally Wicked
 
@@ -37,9 +37,3 @@ No information may be submitted to Totally Wicked E-liquid (USA) Inc. by pe
 ## Changes
 
 We may change this privacy policy, or change, modify or withdraw access to this Site, or the content of these pages at any time with or without notice.
-
-We, our company and our suppliers own the copyright, trademarks and all other intellectual property rights in all material and content on this website, which you may use, download and copy only for your own personal, non-commercial use. Any other use or reproduction of the material or content is strictly prohibited. You may not create any link to this website without our prior written consent, nor may you restrict or inhibit the use or enjoyment of it by anyone else.
-
-WARNING: Totally wicked makes no claims that the electronic cigarette will cure a smokers addiction to nicotine; the electronic cigarettes it sells serves the same purpose as a tobacco cigarette- it delivers its user nicotine. If you do suffer from the disease of Tobacco/Nicotine Dependence Syndrome and want to take steps to give up smoking or cut down the quantity of cigarettes you currently smoke. We recommend you visit your health care provider to discuss NRT (Nicotine Replacement Therapy) or a nicotine harm reduction programme.
-
-Please Note: We are not a pharmaceutical company and we do not produce medical products.
