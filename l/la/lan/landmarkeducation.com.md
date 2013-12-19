@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landmarkeducation.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613125918id_/http%3A//www.landmarkeducation.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkeducation.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219123608id_/http%3A//www.landmarkworldwide.com/ec/privacypolicy) for the most accurate reproduction.*
 
-# Landmark Education: Privacy Policy
+# 
 
 OVERVIEW  
 CHILDREN  
@@ -39,13 +39,13 @@ SECURITY
 USER GENERATED CONTENT  
 QUESTIONS AND UPDATES
 
-Landmark Education ("Landmark") has adopted the following Privacy Policy, which is applicable to all personally identifiable information that you provide to Landmark through LandmarkEducation.com as well as other Landmark websites and microsites (collectively the "Site") and the information that we collect through your use of the Site.
+Landmark Worldwide("Landmark") has adopted the following Privacy Policy, which is applicable to all personally identifiable information that you provide to Landmark through LandmarkWorldwide.com as well as other Landmark websites and microsites (collectively the "Site") and the information that we collect through your use of the Site.
 
-References to "Landmark", "we", "us" or "our" are references to: Landmark Education LLC of 353 Sacramento Street, Suite 200, San Francisco, CA 94111, USA.
+References to "Landmark", "we", "us" or "our" are references to: Landmark Worldwide LLC of 353 Sacramento Street, Suite 200, San Francisco, CA 94111, USA.
 
-Please also review the [LandmarkEducation.com Terms of Use](http://www.landmarkeducation.com/termsofuse.aspx) (the "Terms of Use"), which incorporate this Privacy Policy and govern your use of the Site.
+Please also review the [LandmarkWorldwide.com Terms of Use](http://www.landmarkworldwide.com/terms-of-use) (the "Terms of Use"), which incorporate this Privacy Policy and govern your use of the Site.
 
-Landmark may change this Privacy Policy periodically. Review our Privacy Policy available at <http://www.landmarkeducation.com/privacypolicy.aspx> regularly to be sure you are fully current with our practices and procedures in this area. If we make a material change that will affect the way that we use personally identifiable information that we already have collected about you, we will endeavor to notify you by posting a notice on our Site and sending an email to our registered users. We will post the last date of any change to this Privacy Policy at the bottom of this page. Your continued use of the Site will be subject to the then-current Privacy Policy. The following discloses our information gathering and dissemination practices for the Site:
+Landmark may change this Privacy Policy periodically. Review our Privacy Policy available at [http://LandmarkWorldwide.com/About_US/Privacy_Policy.aspx](http://www.landmarkworldwide.com/privacy-policy) regularly to be sure you are fully current with our practices and procedures in this area. If we make a material change that will affect the way that we use personally identifiable information that we already have collected about you, we will endeavor to notify you by posting a notice on our Site and sending an email to our registered users. We will post the last date of any change to this Privacy Policy at the bottom of this page. Your continued use of the Site will be subject to the then-current Privacy Policy. The following discloses our information gathering and dissemination practices for the Site:
 
 Overview  
 As part of the normal operation of the Site, we collect and, in some cases, may disclose personally identifiable information about you. This Privacy Policy describes the information, including personally identifiable information, that we collect about you and what may happen to that information.
@@ -69,7 +69,7 @@ Our primary goal in collecting your information, including your personally ident
 Marketing  
 We will use your personally identifiable information for marketing purposes. Among other purposes, we may send you communications via email, including promotional communications about products and services that we believe would be of interest to you.
 
-You may opt-out of the receipt of marketing communications from us by following the link contained in the email. Alternatively, if you have registered and paid for a course or have created an account on this Site, you may update your preferences on the [Update Records/Account page](http://www.landmarkeducation.com/my_account.aspx). Please note that it may take up to 10 days to process your request.
+You may opt-out of the receipt of marketing communications from us by following the link contained in the email. Alternatively, if you have registered and paid for a course or have created an account on this Site, you may update your preferences on the [Update Records/Account page](http://www.landmarkworldwide.com/my_account.aspx). Please note that it may take up to 10 days to process your request.
 
 If you opt out of receiving marketing communications from us, we will continue to send administrative notices and communications relevant to your use of the Site to you via email. You will also receive email confirmations if you register for a course online, subscribe to services, join a service as an Authorized User, or update records information.
 
@@ -107,19 +107,19 @@ Your Use of User Information
 Certain features of our Site enable you to have access to other users of our Site. For example, you may interact with other users through seminars and various forums. You are prohibited from disclosing personally identifiable information about another user, including Authorized Users, that you learn through these or other portions of our Site or otherwise, to any third party without our consent and the informed consent of such other user. Our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add any user to your mail list (email or physical mail) without their express written informed consent.
 
 Accessing and Changing Your Personally Identifiable Information  
-After setting up an account (creating a username and password) you can review and change specific information you submitted during the process of setting up the account or registering for a course, including your password, email address, occupation, marital status, name, address, city, state, zip code, country, and phone number by visiting the [Update Records/Account page](http://www.landmarkeducation.com/my_account.aspx).
+After setting up an account (creating a username and password) you can review and change specific information you submitted during the process of setting up the account or registering for a course, including your password, email address, occupation, marital status, name, address, city, state, zip code, country, and phone number by visiting the [Update Records/Account page](http://www.landmarkworldwide.com/my-account).
 
-If you would like to request a change to other information regarding your account or your participation in Landmark programs, you may contact us at [grad.records@landmarkeducation.net](mailto:grad.records@landmarkeducation.net).
+If you would like to request a change to other information regarding your account or your participation in Landmark programs, you may contact us at [grad.records@landmarkworldwide.com](mailto:grad.records@landmarkworldwide.com).
 
 If you are located in Canada and you require any information about your personal information under our custody and control, how such information is being used or disclosed by us, or if you require corrections to your personal information, you may submit your questions and requests in writing to our Privacy Officer:
 
 The Office of the Privacy Officer  
-Landmark Education LLC  
+Landmark Worldwide LLC  
 353 Sacramento Street  
 Suite 200  
 San Francisco, CA  
 94111, USA  
-Email: [legal@landmarkeducation.net](mailto:legal@landmarkeducation.net)  
+Email: [legal@landmarkworldwide.com](mailto:legal@landmarkworldwide.com)  
 Fax: 1-415-616-2452
 
 Retention of Data  
@@ -128,9 +128,9 @@ We will retain in our files and databases personally identifiable information fo
 Safe Harbor  
 With respect to the personal data we receive from countries in the European Economic Area and Switzerland, we have certified our adherence to the US-EU and the US-Swiss Safe Harbor Principles. You can find our Safe Harbor certification at <https://safeharbor.export.gov/list.aspx>. For more information about these Safe Harbor Principles, please visit the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor/>. To request a copy of our Safe Harbor Policy, please check our certification at <https://safeharbor.export.gov/list.aspx> or email [dataprivacy@themedco.com](mailto:dataprivacy@themedco.com).
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Landmark Education commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Landmark Education at [legal@landmarkeducation.net](mailto:legal@landmarkeducation.net).
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Landmark Worldwide commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Landmark Worldwide at [legal@landmarkworldwide.com](mailto:legal@landmarkworldwide.com).
 
-Landmark Education has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Landmark Education, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Landmark Worldwide has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Landmark Education, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 Storage of Data  
 The data that we collect from you may be transferred to, and stored, at a destination outside the European Economic Area ("EEA"), including in the United States. It may also be processed by staff operating outside the EEA who work for us (e.g., to fulfill your order or provide support services). By submitting your personal data, you agree to this transfer, storing or processing. 
@@ -145,8 +145,9 @@ User Generated Content
 Certain portions of our Site, such as our blogs and forums, permit user generated content. If you post content to our Site, all of the information that you post will be available to other persons visiting the Site. Your posting becomes public and we cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy.
 
 Questions and Updates  
-If you have any questions or suggestions about our privacy practices, please feel free to contact our Privacy Officer in writing at the address set out above or by email to the Privacy Officer at: [legal@landmarkeducation.net](mailto:legal@landmarkeducation.net).
+If you have any questions or suggestions about our privacy practices, please feel free to contact our Privacy Officer in writing at the address set out above or by email to the Privacy Officer at: [legal@landmarkworldwide.com](mailto:legal@landmarkworldwide.com).
 
 If you are located in Canada and you are dissatisfied with our handling of your personal information, we invite you to contact our Privacy Officer in writing, setting out the reasons for your concern. If, after our Privacy Officer has reviewed and responded to your concern, you remain dissatisfied, you may wish to contact the Office of the Information and Privacy Commissioner for your local province or state.
 
-This Privacy Policy is effective as of: 01/10/2013 
+This Privacy Policy is effective as of: 05/20/2013   
+
