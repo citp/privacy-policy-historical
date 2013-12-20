@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitrecord.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621085231id_/http%3A//www.hitrecord.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitrecord.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220120103id_/http%3A//www.hitrecord.org/privacy) for the most accurate reproduction.*
 
 # hitRECord - privacy
 
@@ -98,7 +98,7 @@ Marketing. We do not rent, sell, or share your Personal Information with other p
 
 As Required By Law and Similar Disclosures. We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect your, our or others’ rights, property, interests, including with respect to intellectual property or safety. 
 
-Merger, Sale, or Other Asset Transfers. Although we have no present intention to sell hitRECord.org o a third party, take the company public, go into bankruptcy or surrender control of the company, it is always possible that future circumstances may change and result in a change in control, merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale assets, or transition of the Site to another provider. In such an event, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. The use of your Personal Information following any of the foregoing events should be governed by the provisions of this Privacy Policy in effect at the time such Personal Information was collected. 
+Merger, Sale, or Other Asset Transfers. Although we have no present intention to sell hitRECord.org to a third party, take the company public, go into bankruptcy or surrender control of the company, it is always possible that future circumstances may change and result in a change in control, merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale assets, or transition of the Site to another provider. In such an event, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. The use of your Personal Information following any of the foregoing events should be governed by the provisions of this Privacy Policy in effect at the time such Personal Information was collected. 
 
 With Consent. We may also disclose your Personal Information with your permission. 
 
