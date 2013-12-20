@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517143726id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220161921id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STD Test Express
 
-[ ](https://privacy.truste.com/privacy-seal/Analyte-Media/validation?rid=2206ee15-de6c-4463-8fca-86d6d15c372d "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Analyte-Media/validation?rid=2206ee15-de6c-4463-8fca-86d6d15c372d "TRUSTe online privacy certification")
 
-[](http://www.ashastd.org/ashaseal.cfm)
+[ ](http://www.ashastd.org/ashaseal.cfm)
 
 We take your privacy very seriously. We believe in protecting your information in the same way we want ours protected. Analyte Physicians Group, S.C. and its authorized agents (including Analyte Health, Inc.) (collectively, "Analyte," "we" or "us"), encourage you to become familiar with this Privacy Policy and our [Terms and Conditions of Use](https://web.archive.org/terms-of-service/ "terms of use") . 
 
@@ -18,13 +18,15 @@ TRUSTe's mission, as an independent third party, is to accelerate online trust a
 
 We may collect certain identifying information from or about you in connection with your use of or submissions to the Site, including, but not limited to, your name, address, date of birth, email addresses, health information, health plan ("Plan") information and credit card number (together, "Collected Information"). Any health information about you will be collected in the course of providing services to you via the Site and telephone consultations. Our use of such health information is governed by our [Notice of Privacy Practices](https://web.archive.org/notice-of-privacy-practices/ "notice of privacy practices") . In addition, we may retain the content of, and metadata regarding, any correspondence you may have with us or our representatives, regardless of the mode of communication by which such correspondence was made. This information helps us to improve the Site and the online content, materials, and services that we make available on the Site, and to more effectively and efficiently respond to both current and future inquiries. 
 
-As with many other websites, the web servers used to operate the Site may collect certain data pertaining to you and the equipment and communications method that you use to access the Internet and our Site. For security reasons and to confirm the integrity of the Site, we may combine components of these data with Collected Information, which may identify you. Unless otherwise described in this Privacy Policy or our [Terms and Conditions of Use](https://web.archive.org/terms-of-service/ "terms of use") , such identifying information will be used solely for our business purposes. In addition, the information we collect may reveal such things as the Internet protocol ("IP") address assigned to your computer, specific pages that you accessed on the Site or prior to visiting the Site, and the length of time you spent at the Site. We may use this information to help administer the Site and the servers that provide the Site, generate statistical information, monitor and analyze Site traffic and usage patterns, and improve the Site’s content and content delivery, including any online content, materials, and services that we describe or make available on the Site. 
+As with many other websites, the web servers used to operate the Site may collect certain data pertaining to you and the equipment and communications method that you use to access the Internet and our Site. For security reasons and to confirm the integrity of the Site, we may combine components of these data with Collected Information, which may identify you. Unless otherwise described in this Privacy Policy or our [Terms and Conditions of Use](https://web.archive.org/terms-of-service/ "terms of use") , such identifying information will be used solely for our business purposes. In addition, the information we collect may reveal such things as the Internet protocol ("IP") address assigned to your computer, specific pages that you accessed on the Site or prior to visiting the Site, and the length of time you spent at the Site. We may use this information to help administer the Site and the servers that provide the Site, generate statistical information, monitor and analyze Site traffic and usage patterns, and improve the Site's content and content delivery, including any online content, materials, and services that we describe or make available on the Site. 
 
 In addition, our Site may send one or more "cookies" to your computer to improve the utility of the Site by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Please note that you may not be able to access the full functionality of our Site if cookies are disabled on your browser. 
 
 The use of cookies by our affiliates and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates and service providers use session ID cookies to make it easier for you to navigate our site, in order for you to find services available in your area, and facilitate our marketing efforts. 
 
 Our Web site includes widgets, such as Google Maps and embedded video players. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+
+In addition, our Site may use a third party web analytics service. These features may record mouse clicks, mouse movements, and scrolling activity as you navigate through the website. This Site does not use the feature to collect any personally identifiable information entered in this website or have the ability to view personally identifiable or health information. Furthermore, we do not track your browsing habits across websites we do not own. Your interactions with these features are governed by the privacy policy of the company providing it. You can choose to disable the Service [here](http://www.clicktale.net/disable.html). 
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@apgservices.com](mailto:info@apgservices.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
@@ -60,7 +62,7 @@ In addition to this Privacy Policy, Analyte provides a [Notice of Privacy Practi
 
 **Analyte Health**  
 328 South Jefferson Street  
-Suite 770  
+Suite 775  
 Chicago, IL 60661
 
 You may also [email us](mailto:info@apgservices.com). 
