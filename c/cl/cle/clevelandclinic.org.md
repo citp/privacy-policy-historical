@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104221600id_/http%3A//my.clevelandclinic.org/about-cleveland-clinic/about-this-website/privacy-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevelandclinic.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220100540id_/https%3A//my.clevelandclinic.org/about-cleveland-clinic/about-this-website/privacy-security.aspx) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -89,15 +89,9 @@ If you have any questions about our privacy policy or our use of information gat
 
 Last updated: 3/18/2009
 
-Copyright © 2000-2012 Cleveland Clinic. All Rights Reserved.
+Copyright © 2000-2013 Cleveland Clinic. All Rights Reserved.
 
-At the Cleveland Clinic Health System, we believe that your health information is personal. We keep records of the care and services that you receive at our facilities. We are committed to keeping your health information private.
-
-The Cleveland Clinic Health System Notice of Privacy Practices describes the privacy practices of the Cleveland Clinic Health System and its affiliated facilities (CCHS). 
-
-Download and view the [Notice of Privacy Practices](https://web.archive.org/Documents/Legal/npp.pdf).
-
-The Cleveland Clinic values your privacy and security. Your data is protected through Secure Socket Layer (SSL) 128-bit encryption, ensuring your confidential information is protected using both server authentication and data encryption technology.
+Cleveland Clinic values your privacy and security. Your data is protected through Secure Socket Layer (SSL) 128-bit encryption, ensuring your confidential information is protected using both server authentication and data encryption technology.
 
   * For more information, please review our [Website Terms of Use](https://web.archive.org/about-cleveland-clinic/about-this-website/terms-of-use.aspx) and Website Privacy Policy. 
 
