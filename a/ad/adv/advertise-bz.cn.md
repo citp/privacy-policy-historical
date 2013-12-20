@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertise-bz.cn privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619031118id_/http%3A//www.advertise-bz.cn/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertise-bz.cn privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220013918id_/http%3A//www.advertise-bz.cn/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # MGStyle Internetmarketing Privacy Policy
 
