@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the recyclart.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527105113id_/http%3A//www.recyclart.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recyclart.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220081037id_/http%3A//www.recyclart.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Recyclart
+# Privacy Policy - Recyclart
 
 **Privacy Policy for recyclart.org**
 
 At recyclart.org, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by recyclart.org and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, recyclart.org makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 recyclart.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on recyclart.org.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to recyclart.org and other sites on the Internet.
