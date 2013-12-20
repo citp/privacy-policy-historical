@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossrider.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625061407id_/http%3A//crossrider.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossrider.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220014512id_/http%3A//crossrider.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Crossrider Extensions
 
@@ -87,7 +87,7 @@ Please note that we are only required to respond to one request per customer eac
 Contact Information:
 
 Crossrider Advanced Technologies Ltd.  
-40 Lilienblum st.  
+21 Ha'arba'a st.  
 Tel-Aviv 65112  
 Israel  
 contact@crossrider.com
