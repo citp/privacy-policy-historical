@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendsmania.net privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605100724id_/http%3A//www.friendsmania.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsmania.net privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220191907id_/http%3A//www.friendsmania.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Govt Job in Pakistan, Newspaper Job Ads, Bank job in pakistan
 
 <!–NoAds–> **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make [it](http://www.friendsmania.net/pral-information-technology-company-job-it-business-accounting-professionals-17-dec-2012/) available on our homepage and at every point where personally identifiable information may be requested.
@@ -22,3 +22,9 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Government Jobs Pakistan, Jobs Pakistan, Bank Jobs Pakistan, Mobile Pakistan, Technology News, Telecom News & Updates then you may contact us at karimrose77@yahoo.com
+
+#### Related jobs:
+
+  * PrivacyPolicy
+
+
