@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606075035id_/http%3A//us.playstation.com/support/privacypolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220214541id_/http%3A//us.playstation.com/support/privacypolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Support - PlayStation.com
 
