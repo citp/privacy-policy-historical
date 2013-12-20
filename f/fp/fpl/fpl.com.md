@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607053406id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220065407id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # NextEra Energy, Inc. | Privacy Policy
 
@@ -178,7 +178,7 @@ You may have privacy rights under applicable state law in addition to those outl
 
 ## CONTACT US
 
-If you choose to email us through the “Contact Us” link on this site, you will be asked to provide information such as your name and email address so that one our employees can respond to your questions and comments. If however, you wish to submit your questions or comments via U.S. mail they can be mailed to:
+Submit your questions or comments via U.S. mail to:
 
 Attn: Customer Care  
 700 Universe Blvd.  
