@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the submitinme.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621125014id_/http%3A//www.submitinme.com/home/seo-service-privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the submitinme.com privacy policy that was archived on 2013-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220115641id_/http%3A//www.submitinme.com/home/seo-service-privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/ItemPage"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="ROBOTS" content="INDEX, FOLLOW"><title>
 	SIM SEO Services privacy policy
 </title>
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.Microsoft.com/ajax/jQuery/jquery-1.7.1.min.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KCNT9Q"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://ajax.Microsoft.com/ajax/jQuery/jquery-1.7.1.min.js"></script>
     <link rel="stylesheet" type="text/css" href="../sim-css/layout.css"><link rel="stylesheet" type="text/css" href="../sim-css/sim-responsive.css"><link rel="stylesheet" type="text/css" href="../sim-css/style.css"><link rel="stylesheet" type="text/css" href="../sim-css/icon.css"><link href="https://plus.google.com/114732931156704868348" rel="publisher">
      <!--[if lte IE 7]><script src="../sim-js/lte-ie7.js"></script><![endif]-->
     <!--[if lt IE 9]>
@@ -13,7 +13,7 @@
     <!--[if lt IE 9]>
 <script src="../sim-js/html5shiv.js"></script>
 <![endif]-->
-  <script src="../sim-js/default.js" type="text/javascript"></script>
+  
     
     <!-- menu Fixed-->
     <script type="text/javascript">
@@ -34,7 +34,7 @@
 
         });
     </script>
-    <!-- <script src="js/bootstrap.min.js"></script>-->
+    <script src="../js/bootstrap.js"></script>
     <!--[if IE 8]>
 	<script type="text/javascript">
 	jQuery(document).ready(function() {
@@ -54,23 +54,23 @@
 
         jQuery(document).ready(function () {
 
-            jQuery(".dropdown-toggle, .dropdown-menu").hover(function () {
-                jQuery("#navfull").show();
+//            jQuery(".dropdown-toggle, .dropdown-menu").hover(function () {
+//                jQuery("#navfull").show();
 
-            }, function () {
-                jQuery("#navfull").hide();
-            });
+//            }, function () {
+//                jQuery("#navfull").hide();
+//            });
 
-            jQuery(".dropdown-menu .dropdown-menu").hover(function () {
-                jQuery("#navfull").show();
+//            jQuery(".dropdown-menu .dropdown-menu").hover(function () {
+//                jQuery("#navfull").show();
 
-            }, function () {
-                jQuery("#navfull").show();
-            });
+//            }, function () {
+//                jQuery("#navfull").show();
+//            });
 
-            jQuery(".dropdown-toggle").click(function () {
-                jQuery("#navfull").show();
-            });
+//            jQuery(".dropdown-toggle").click(function () {
+//                jQuery("#navfull").show();
+//            });
 
 
         });
@@ -79,30 +79,138 @@
             jQuery(this).toggleClass("active"); return false;
         }
     </script>
-    <!-- Google Analytics Code Start -->
+ <!-- Google Analytics Code Start -->
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-782549-3']);
-        _gaq.push(['_setDomainName', 'submitinme.com']);
         _gaq.push(['_trackPageview']);
 
         (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
 
-    </script>
+</script>   
+    <!-- Google Analytics Code End -->
+     <!-- Google Analytics Scroll Tracking Script -->
+<script>
+    jQuery(function ($) {
+        // Debug flag
+        var debugMode = false;
+
+        // Default time delay before checking location
+        var callBackTime = 100;
+
+        // # px before tracking a reader
+        var readerLocation = 250;
+
+        // Set some flags for tracking & execution
+        var timer = 0;
+        var scroller = false;
+        var endContent = false;
+        var didComplete = false;
+
+        // Set some time variables to calculate reading time
+        var startTime = new Date();
+        var beginning = startTime.getTime();
+        var totalTime = 0;
+
+        // Track the aticle load
+        if (!debugMode) {
+            _gaq.push(['_trackEvent', 'Reading', 'ArticleLoaded', '', , true]);
+        }
+
+        // Check the location and track user
+        function trackLocation() {
+            bottom = $(window).height() + $(window).scrollTop();
+            height = $(document).height();
+
+            // If user starts to scroll send an event
+            if (bottom > readerLocation && !scroller) {
+                currentTime = new Date();
+                scrollStart = currentTime.getTime();
+                timeToScroll = Math.round((scrollStart - beginning) / 1000);
+                if (!debugMode) {
+                    _gaq.push(['_trackEvent', 'Reading', 'StartReading', '', timeToScroll]);
+                } else {
+                    // alert('started reading ' + timeToScroll);
+                }
+                scroller = true;
+            }
+
+            // If user has hit the bottom of the content send an event
+            if (bottom >= $('.pageSmall').scrollTop() + $('.pageSmall').innerHeight() && !endContent) {
+                currentTime = new Date();
+                contentScrollEnd = currentTime.getTime();
+                timeToContentEnd = Math.round((contentScrollEnd - scrollStart) / 1000);
+                if (!debugMode) {
+                    _gaq.push(['_trackEvent', 'Reading', 'ContentBottom', '', timeToContentEnd]);
+                } else {
+                    //alert('end content section ' + timeToContentEnd);
+                }
+                endContent = true;
+            }
+
+            // If user has hit the bottom of page send an event
+            if (bottom >= height && !didComplete) {
+                currentTime = new Date();
+                end = currentTime.getTime();
+                totalTime = Math.round((end - scrollStart) / 1000);
+                if (!debugMode) {
+                    if (totalTime < 60) {
+                        _gaq.push(['_setCustomVar', 5, 'ReaderType', 'Scanner', 2]);
+                    } else {
+                        _gaq.push(['_setCustomVar', 5, 'ReaderType', 'Reader', 2]);
+                    }
+                    _gaq.push(['_trackEvent', 'Reading', 'PageBottom', '', totalTime]);
+                } else {
+                    // alert('bottom of page ' + totalTime);
+                }
+                didComplete = true;
+            }
+        }
+
+        // Track the scrolling and track location
+        $(window).scroll(function () {
+            if (timer) {
+                clearTimeout(timer);
+            }
+
+            // Use a buffer so we don't call trackLocation too often.
+            timer = setTimeout(trackLocation, callBackTime);
+        });
+    });
+</script>
+
+    <!-- Google Analytics Rank Tracking Script -->
+<script type="text/javascript">
+    if (document.referrer.match(/google.([a-zA-Z]{2,5})/gi) && document.referrer.match(/cd/gi)) {
+        var myString = document.referrer;
+        var r = myString.match(/cd=(.*?)&/);
+        var rank = parseInt(r[1]);
+        var kw = myString.match(/q=(.*?)&/);
+
+        if (kw[1].length > 0) {
+            var keyWord = decodeURI(kw[1]);
+        } else {
+            keyWord = "(not provided)";
+        }
+
+        var p = document.location.pathname;
+        _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+    }
+</script>
     
     <meta name="description" content="SIM SEO Services privacy policy and other details like privacy, confidentiality, data security etc">
     <meta name="keywords" content="SEO Services privacy policy">
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body data-spy="scroll" data-target=".navbar" itemscope="" itemtype="http://schema.org/WebPage">
     <form name="aspnetForm" method="post" action="seo-service-privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIBD2QWDgIHDw8WBh4LTmF2aWdhdGVVcmwFD34vcmVnaXN0ZXIuYXNweB4IQ3NzQ2xhc3MFCHJlZ2lzdGVyHgRfIVNCAgJkZAIJDw8WBh8ABQx+L2xvZ2luLmFzcHgfAQUFbG9naW4fAgICZGQCDQ8WAh4EVGV4dAUKT3JkZXIgQ2FydGQCDw8WAh4HVmlzaWJsZWhkAhEPDxYGHwAFD34vcmVnaXN0ZXIuYXNweB8BBQhyZWdpc3Rlch8CAgJkZAITDw8WBh8ABQx+L2xvZ2luLmFzcHgfAQUFbG9naW4fAgICZGQCFw8WAh8DBQpPcmRlciBDYXJ0ZGRXTT65DiHOtz3Ce9iVoJ/5xXM91A==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIBD2QWEAIJDw8WBh4LTmF2aWdhdGVVcmwFD34vcmVnaXN0ZXIuYXNweB4IQ3NzQ2xhc3MFCHJlZ2lzdGVyHgRfIVNCAgJkZAILDw8WBh8ABQx+L2xvZ2luLmFzcHgfAQUFbG9naW4fAgICZGQCDw8WAh4EVGV4dAUKT3JkZXIgQ2FydGQCEQ8QDxYCHgdWaXNpYmxlaGRkFgFmZAITDxYCHwRoZAIVDw8WBh8ABQ9+L3JlZ2lzdGVyLmFzcHgfAQUIcmVnaXN0ZXIfAgICZGQCFw8PFgYfAAUMfi9sb2dpbi5hc3B4HwEFBWxvZ2luHwICAmRkAhsPFgIfAwUKT3JkZXIgQ2FydGRkkR4XJPZh60kt6CddOo+QaSjh2vU=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLWm+vXCQLSmJPmBQL0nIRfbICNOEc5UYGDZ/Si092BeNEIsIE=">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALy+oq+DALSmJPmBQL0nIRfAre3z9wJgXYA1xbfLm8vkeBW1qeb1BMJpP4=">
     
 <script type="text/javascript">
     $(document).ready(function () {
@@ -126,11 +234,29 @@
         //            $('.os-exclusive').show();
         //        else
         //            $('.os-exclusive').hide();
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 500) {
+                $('.scrollup').fadeIn();
+            } else {
+                $('.scrollup').fadeOut();
+            }
+        });
+        $('.scrollup').click(function () {
+            $("html, body").animate({ scrollTop: 0 }, 1000);
+            return false;
+        });
+        $('.livechat_on').click(function (e) {
+            _gaq.push(['_trackEvent', 'Live Chat', 'Chat', 'Live Chat SIM']);
+        });       
 
     });
+    function stop() {
+        return false;
+    }
 </script>
 <input type="hidden" name="ctl00$header$hdnUsername" id="hdnUsername">
 <input type="hidden" name="ctl00$header$hdnSession" id="hdnSession" value="false">
+ <input name="ctl00$header$priceterm" type="hidden" id="priceterm" value="USD">
 <!--header-->
 <header class="header">	
         <div class="container">
@@ -140,22 +266,32 @@
                  <a id="logo" itemprop="url" href="http://www.submitinme.com" title="SEO Services home"><img itemprop="logo" src="../img/logo.png" alt="Submitinme Logo"></a>
                   <a class="simHome" title="SEO Services home" href="http://www.submitinme.com">Submitinme Home</a>
                 </div>
-                <div class="span8">               
+                <div class="span8">  
+                             
                 <ul class="headerLogin">     
                 <li></li>         
                 <li class="hsignup"><a id="ctl00_header_lnkRegister" class="register" href="../register.aspx">Sign Up</a></li>                        
-				<li class="hsignin"><a id="ctl00_header_lnkSignIn" class="login" href="../login.aspx">Sign In</a></li>
+				<li class="hsignin"><a id="ctl00_header_lnkSignIn" class="login" rel="nofollow" href="../login.aspx">Sign In</a></li>
                  
                 <li class="horderpage"><a href="../inquiry/orderbasket.aspx">
                      Order Cart</a></li>
                 <li class="hcontact">
-                <a href="#">+91-4652-230776 /</a><a href="#" class="tgray"> 402776</a></li>
+                <a href="#"><img src="../images/flags/In-small.png"> +91-4652-230776</a><br><a href="#"><img src="../images/flags/USA-small.png"> +1 (619)-866-4776</a></li>
+              
                 
                 </ul>
+                <!--marquee-->                  
+                <div class="scroll-text">
+                <marquee behavior="scroll" scrolldelay="150" direction="left"><span>Trending:</span> <a href="../on-page-seo/google-penalty-recovery.aspx">Google Penalty Prevention &amp; Recovery Services</a></marquee>
+                    
                 </div>
-                 
+                <!--marquee end-->
+                </div>
+                  
                  </div>
-        </div>
+                  
+        </div>    
+                
         </header>
 <!--End Header-->
 <!--Navigation-->
@@ -175,9 +311,18 @@
                 <!-- Responsive Navbar Part -->
               <div class="nav-collapse collapse">
               <div class="float-logo"></div>
-               <ul class="nav">
+                  
+    <ul class="nav">
                 
-               <li><a href="../seo-packages/" data-toggle="dropdown" class="dropdown-toggle"><span class="icon-packages"></span>SEO PACKAGES <b class="caret"></b></a>
+                 <li><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="icon-packages"></span>FREE TOOLS <b class="caret"></b></a>
+               <ul class="dropdown-menu">                
+               <li><a href="http://tools.submitinme.com/"><span class="icon-earth"></span>FREE WEBSITE ANALYSIS<img alt="new services" class="new-service" src="../img/new-services3.gif"></a></li> 
+               <li><a href="../home/free-manual-backlink-audit.aspx"><span class="icon-link"></span>FREE BACKLINK AUDIT<img alt="new services" class="new-service" src="../img/new-services3.gif"></a></li>
+                <li><a target="_blank" href="http://tools.weburlopener.com/username-availability-check/"><span class="icon-thumbs-up"></span>CHECK BRAND NAME</a></li> 
+                 <li><a href="../home/responsive.aspx"><span class="icon-mobile"></span>RESPONSIVE DESIGN CHECK</a></li> 
+               </ul>
+               </li>
+                  <li><a class="dropdown-toggle" data-toggle="dropdown" href="../seo-packages/"><span class="icon-packages"></span>PACKAGES <b class="caret"></b></a>
                <ul class="dropdown-menu">
                <li><a href="../seo-packages/must-local-SEO-package.aspx"><span class="icon-mst-Local"></span>LOCAL SEO</a></li>
                <li><a href="../seo-packages/googledseo.aspx"><span class="icon-googled"></span>GOOGLED SEO</a></li>
@@ -188,71 +333,68 @@
                
                </ul>
                </li>  
-               <li><a data-toggle="dropdown" class="dropdown-toggle" href="#"><span class="icon-seo-service"></span>SEO SERVICES <b class="caret"></b></a>            <!-- Drop Down	 -->
-                    <ul class="dropdown-menu">
-                        <li class="dropdown-submenu"><a href="#"><span class="icon-seo-service"></span>Ecommerce</a>
-                        <ul class="dropdown-menu">
+               <li><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="icon-seo-service"></span>DIGITAL MARKETING <b class="caret"></b></a>            <!-- Drop Down	 -->
+                    <ul class="dropdown-menu sub-menu-middle idrop">
+                    
+                    <li class="idropdown-submenu"><a href="../digital-marketing/digital-marketing-services.aspx"><span class="icon-seo-service"></span>Individual Services <img alt="new services" class="new-service" src="../img/new-services3.gif"></a></li>
+                    
+                    <li class="idropdown-submenu"><a href="../on-page-seo/google-penalty-recovery.aspx"><span class="icon-link"></span>GOOGLE PENALTY REMOVAL</a></li> 
+                    
+                    <li class="idropdown-submenu"><a href="../video/video-distribution.aspx"><span class="icon-camera-2"></span>VIDEO DISTRIBUTION</a> </li>
+
+                    <li class="idropdown-submenu"><a href="../seo-packages/press-release-distribution.aspx"><span class="icon-Press-Release"></span>PR DISTRIBUTION</a></li> 
+                    
+                     <li class="idropdown-submenu"><a href="../on-page-seo/website-audit.aspx"><span class="icon-earth"></span>WEBSITE AUDIT</a></li>
+
+                      <li class="idropdown-submenu"><a href="../on-page-seo/keyword-research.aspx"><span class="icon-search"></span>KEYWORD RESEARCH</a></li>
+                      <li class="idropdown-submenu"><a href="../other-seo-services/document-sharing.aspx"><span class="icon-Document-sharing"></span>DOCUMENT SHARING</a></li>
+                       <li class="idropdown-submenu"><a href="../other-seo-services/android-apps-marketing.aspx"><span class="icon-android"></span>APPS MARKETING</a></li> 
+                         <li class="idropdown-submenu"><a href="../other-seo-services/event-distribution.aspx"><span class="icon-Event-Marketing"></span>EVENT MARKETING</a></li> 
+
+                    <li class="idropdown-submenu"><a href="#"><span class="icon-seo-service"></span>Ecommerce</a>
+                        <ul class="idropdown-menu">
+                        <li><a href="../ecommerce/ecommerce-solution.aspx"><span class="icon-Ecommerce"></span>X-MAS SPECIAL <img alt="new services" class="new-service" src="../img/new-services3.gif"></a></li>
                              <li><a href="../seo-packages/ecommerce-package.aspx"><span class="icon-Ecommerce"></span>PACKAGE</a></li>
                              <li><a href="../ecommerce/coupon-marketing.aspx"><span class="icon-Ecommerce"></span>COUPON MARKETING</a></li>
                             <li><a href="../ecommerce/social-stores.aspx"><span class="icon-Ecommerce"></span>SOCIAL STORES</a></li>
                                            
                           </ul>
                         </li>
-                                           
-                      <li class="dropdown-submenu"><a href="#" class="nVideo"><span class="icon-camera-2"></span>VIDEO</a>
-                            <ul class="dropdown-menu">
-                            <li><a href="../video/video-distribution.aspx"><span class="icon-video-sharing"></span>VIDEO DISTRIBUTION</a></li>  
-                                                                 
-                          </ul>
-                      </li>    
-                       <li class="dropdown-submenu"><a href="#" class="nDS"><span class="icon-Directory-Submission"></span>DIRECTORY SUBMISSION</a>
-                            <ul class="dropdown-menu">
-                            <li><a href="../directory-submission/directory-submission-package.aspx"><span class="icon-Directory-Submission"></span>PACKAGE</a></li>  
-                            <li><a href="../directory-submission/directory-submission.aspx"><span class="icon-Directory-Submission"></span>DIRECTORY SUBMISSION </a></li>  
-                            <li><a href="../directory-submission/affiliate-directory-submission.aspx"><span class="icon-affiliate-Dir"></span>AFFILIATE SUBMISSION</a></li>
-                                <li><a href="../directory-submission/Deep-Link-Directory-Submission.aspx"><span class="icon-Deep-Link"></span>DEEP LINK SUBMISSION</a></li>  
-                            <li><a href="../directory-submission/niche-directory-submission.aspx"><span class="icon-books"></span>NICHE SUBMISSION</a></li>  
-                                <li><a href="../directory-submission/country-directory-submission.aspx"><span class="icon-map"></span>COUNTRY SUBMISSION</a></li>  
-                            <li><a href="../directory-submission/special-directory-submission.aspx"><span class="icon-Directory-Submission"></span>SPECIAL SUBMISSION</a></li>  
-                         
-                                                                     
-                          </ul>
-                      </li> 
-                       <li class="dropdown-submenu"><a href="#" class="nOnPageSEO"><span class="icon-mobile-3"></span>ON PAGE SEO</a>
-                            <ul class="dropdown-menu">
-                            <li><a href="../on-page-seo/package.aspx"><span class="icon-mobile-3"></span>ON PAGE OPTIMIZATION</a></li>  
-                            <li><a href="../on-page-seo/structured-data.aspx"><span class="icon-file-xml"></span>STRUCTURED DATA </a></li>   
-                            <li><a href="../on-page-seo/page-speed-service.aspx"><span class="icon-page-speed"></span>PAGE SPEED SERVICE</a></li>
-                            <li><a href="../on-page-seo/keyword-research.aspx"><span class="icon-search"></span>KEYWORD RESEARCH</a></li> 
-                            <li><a href="../on-page-seo/website-audit.aspx"><span class="icon-earth"></span>WEBSITE AUDIT</a></li> 
-                            <li><a href="../on-page-seo/back-link-monitoring.aspx"><span class="icon-link"></span>Back Link Monitoring</a></li>                                        
-                          </ul>
-                      </li>  
-                      <li class="dropdown-submenu"><a href="#">Other Services</a>
-                            <ul class="dropdown-menu">
-                             <li><a href="../other-seo-services/android-apps-marketing.aspx"><span class="icon-android"></span>APPS MARKETING</a></li> 
-                            <li><a href="../other-seo-services/document-sharing.aspx"><span class="icon-Document-sharing"></span>DOCUMENT SHARING</a></li>
-                             <li><a href="../other-seo-services/event-distribution.aspx"><span class="icon-Event-Marketing"></span>EVENT MARKETING</a></li>                                                                 
-                          </ul>
-                      </li>                              
-                        
+                      
+                              <li class="idropdown-submenu"><a href="../directory-submission/directory-submission.aspx"><span class="icon-Directory-Submission"></span>DIRECTORY MARKETING</a></li>
+                       
                       </ul>
                       </li> 
-               <li><a href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="icon-socialMediaMarketing"></span>SOCIAL MEDIA <b class="caret"></b></a>
+                        <li><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="icon-mobile-3"></span>ON PAGE <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                             <li><a href="http://tools.submitinme.com/"><span class="icon-earth"></span>FREE WEBSITE ANALYSIS<img alt="new services" class="new-service" src="../img/new-services3.gif"></a></li> 
+                              <li><a href="../on-page-seo/google-penalty-recovery.aspx"><span class="icon-link"></span>GOOGLE PENALTY REMOVAL</a></li> 
+                              <li><a href="../on-page-seo/package.aspx"><span class="icon-mobile-3"></span>ON PAGE PACKAGE</a></li>  
+                            <li><a href="../on-page-seo/structured-data.aspx"><span class="icon-file-xml"></span>STRUCTURED DATA </a></li> 
+                               <li><a href="../on-page-seo/responsive-web-design.aspx"><span class="icon-mobile"></span>RESPONSIVE DESIGN</a></li>  
+                             <li><a href="../on-page-seo/website-audit.aspx"><span class="icon-earth"></span>WEBSITE AUDIT</a></li>                              
+                             <li><a href="../on-page-seo/keyword-research.aspx"><span class="icon-search"></span>KEYWORD RESEARCH</a></li>
+                              <li><a href="../on-page-seo/page-speed-service.aspx"><span class="icon-page-speed"></span>PAGE SPEED SERVICE</a></li>
+                          </ul>
+                      </li>  
+               <li><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="icon-socialMediaMarketing"></span>SOCIAL MEDIA <b class="caret"></b></a>
                      <!-- Drop Down	 -->
                     <ul class="dropdown-menu">
                         <li><a href="../seo-packages/social-media-package.aspx"><span class="icon-socialMediaMarketing"></span>SOCIAL MEDIA PACKAGE</a></li>
                         <li><a href="../social-media-marketing/branding.aspx"><span class="icon-thumbs-up"></span>BRANDING</a> </li>                  
                          <li><a href="../social-media-marketing/identity-protection.aspx"><span class="icon-lock"></span>IDENTITY PROTECTION</a> </li> 
-                                            
+                         <li><a href="../infographic-promotion/infographic-design-service.aspx"><span class="icon-images"></span>INFOGRAPHIC DESIGN</a></li>    
+                         <li><a href="../infographic-promotion/quotographic.aspx"><span class="icon-images"></span>QUOTOGRAPHIC DESIGN</a></li>
+                         <li><a href="../infographic-promotion/infographic-marketing.aspx"><span class="icon-images"></span>INFOGRAPHIC MARKETING</a></li>               
                       </ul>
                       </li>                                     
                 
                     
                     
-                       <li><a href="#" data-toggle="dropdown" class="dropdown-toggle"><span class="icon-pencil-2"></span>CONTENT <b class="caret"></b></a>
+                       <li><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="icon-pencil-2"></span>CONTENT <b class="caret"></b></a>
                      <!-- Drop Down	 -->
                     <ul class="dropdown-menu">
+                     <li><a href="../on-page-seo/content-creation.aspx"><span class="icon-pencil"></span>CONTENT CREATION <img alt="new services" class="new-service" src="../img/new-services3.gif"></a></li>   
                         <li><a href="../content/article-writing.aspx"><span class="icon-article-writing"></span>ARTICLE</a></li>
                         <li><a href="../content/press-release-writing.aspx"><span class="icon-pr-writing"></span>PRESS RELEASE</a> </li>                  
                         <li><a href="../content/blog-writing.aspx"><span class="icon-B-writing"></span>BLOG</a></li>
@@ -263,33 +405,36 @@
                     
                    
                    <li><a href="#mtalk" data-toggle="dropdown" class="dropdown-toggle"><span class="icon-Blog-Promotion"></span>Talk to us  <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu dlast">
+                    <li><a href="../home/staff.aspx"><span class="icon-users"></span> SIM Team</a></li>
                         <li><a href="../home/contact.aspx"><span class="icon-headphones"></span> Contact Us</a></li>
-                        <li><a rel="nofollow" href="http://www.facebook.com/SubmitINme" target="_blank"><span class="icon-facebook"></span> Facebook</a> </li>                  
-                        <li><a rel="nofollow" href="http://www.twitter.com/submitinme" target="_blank"><span class="icon-twitter"></span> Twitter</a></li>
-                        <li><a rel="nofollow" href="http://www.linkedin.com/company/submitinme" target="_blank"> <span class="icon-linkedin"></span> LinkedIn</a></li>
+                        <li><a target="_blank" href="https://plus.google.com/114732931156704868348" rel="nofollow"><span class="icon-google-plus"></span> Google +</a></li>
+                        <li><a target="_blank" href="http://www.facebook.com/SubmitINme" rel="nofollow"><span class="icon-facebook"></span> Facebook</a> </li>                  
+                        <li><a target="_blank" href="http://www.twitter.com/submitinme" rel="nofollow"><span class="icon-twitter"></span> Twitter</a></li>
+                        <li><a target="_blank" href="http://www.linkedin.com/company/submitinme" rel="nofollow"> <span class="icon-linkedin"></span> LinkedIn</a></li>
                        </ul></li>
                     
-                    
                   </ul>
+              
+
               <div class="float-links">
                <ul class="headerLogin">
               <li class="hsignup"><a id="ctl00_header_lnkRegister1" class="register" href="../register.aspx">Sign Up</a></li>
-             <li class="hsignin"><a id="ctl00_header_lnkSignIn1" class="login" href="../login.aspx">Sign In</a></li>
+             <li class="hsignin"><a id="ctl00_header_lnkSignIn1" class="login" rel="nofollow" href="../login.aspx">Sign In</a></li>
              
               <li class="horderpage"><a href="../inquiry/orderbasket.aspx">
                      Order Cart</a></li>
-              <li class="hcontact"><a href="#">+91-4652-230776 /</a><a href="#" class="tgray"> 402776</a></li>
+              <li class="hcontact">
+                <a href="#"><img src="../images/flags/In-small.png"> +91-4652-230776</a><br><a href="#"><img src="../images/flags/USA-small.png"> +1 (619)-866-4776</a></li>
               </ul>
               </div>    
                 </div><!--/.nav-collapse -->
-              </div><!-- /.navbar-inner -->
-       
-        
+              </div><!-- /.navbar-inner -->            
         
         
               </div>
             </nav>
+                       
 <!--End Navigation-->
 
     <div class="pageSmall">
@@ -384,7 +529,7 @@
         <div id="scCtnZ" class="c2">
         </div>
         <div id="sdCtnZ" class="c3">
-        <script type="text/javascript" src="https://image.providesupport.com/js/whitelake/safe-standard.js?ps_h=CtnZ&amp;amp;ps_t=1582137946535"></script></div>
+        <script type="text/javascript" src="https://image.providesupport.com/js/whitelake/safe-standard.js?ps_h=CtnZ&amp;amp;ps_t=1582541246191"></script></div>
         <script type="text/javascript">
                     //<![CDATA[
             var seCtnZ = document.createElement("script"); seCtnZ.type = "text/javascript"; var seCtnZs = (location.protocol.indexOf("https") == 0 ? "https" : "http") + "://image.providesupport.com/js/whitelake/safe-standard.js?ps_h=CtnZ&amp;ps_t=" + new Date().getTime(); setTimeout("seCtnZ.src=seCtnZs;document.getElementById('sdCtnZ').appendChild(seCtnZ)", 1)
@@ -397,7 +542,15 @@
     </div>
     
     
+<script type="text/javascript">
+    function windowOpen() {
+        myWindow = window.open('http://messenger.providesupport.com/messenger/whitelake.html', '_blank', 'width=600,height=700, scrollbars=no,resizable=no')
+
+        myWindow.focus()
+    }
+</script>
 <footer class="footer">
+<a href="#" class="scrollup">Top</a>
     	<div class="container">
        <!-- Row 1-->
         	<div class="row-fluid">
@@ -408,10 +561,10 @@
                 	<div class="line-list">
                     <h2>About</h2>
                     <ul class="foo-list">
-                    <li> <a href="../home/about-seo-services.aspx">About SIM</a></li>                   
-                    <li> <a href="../home/testimonials.aspx">Testimonials</a></li> 
-                    <li> <a href="../home/seo-service-privacy-policy.aspx">Privacy Policy</a></li>
-                    <li> <a href="../home/seo-service-terms.aspx">Terms &amp; Conditions</a></li>
+                    <li> <a href="../home/about-seo-services.aspx" rel="nofollow">About SIM</a></li>                   
+                    <li> <a href="../home/testimonials.aspx" rel="nofollow">Testimonials</a></li> 
+                    <li> <a href="../home/seo-service-privacy-policy.aspx" rel="nofollow">Privacy Policy</a></li>
+                    <li> <a href="../home/seo-service-terms.aspx" rel="nofollow">Terms &amp; Conditions</a></li>
                     
                     </ul>
                 	</div>
@@ -422,9 +575,9 @@
                 <div class="line-list">
                     <h2>News &amp; Media</h2>
                     <ul class="foo-list">
-                    <li> <a rel="nofollow" target="_blank" href="http://news.submitinme.com/">SEO News</a></li>
+                    <li> <a rel="nofollow" target="_blank" href="http://www.submitinme.com/news/">SEO News</a></li>
                     <li> <a rel="nofollow" target="_blank" href="http://www.submitinme.com/blogs/simtalk/">SEO Blog</a></li>
-                    <li> <a rel="nofollow" target="_blank" href="http://simlabs.submitinme.com/">SEO Lab</a></li>
+                    <li> <a rel="nofollow" target="_blank" href="http://www.submitinme.com/simlabs/">SEO Lab</a></li>
                     <li> <a href="../home/sitemap.aspx">Sitemap</a></li>
                     </ul>
                 	</div>
@@ -437,8 +590,8 @@
                     <h2>Partner</h2>
                     <ul class="foo-list">                   
                     <li><a href="../reseller/reseller-service.aspx">Reseller</a></li>
-                    <li><a href="../home/outsource.aspx">Outsource</a></li>
-                    <li> <a rel="nofollow" target="_blank" href="http://www.submitinme.com/affiliate/affiliates/index.php">Affiliate</a></li>
+                    <li><a href="../home/outsource.aspx" rel="nofollow">Outsource</a></li>
+                    <li> <a rel="nofollow" target="_blank" href="http://submitinme.postaffiliatepro.com/affiliates/">Affiliate</a></li>
                     <li> <a href="../home/career.aspx">Careers</a></li>
                     </ul>
                 	</div>
@@ -451,7 +604,7 @@
                     <ul class="foo-list">                   
                     <li><a rel="nofollow" target="_blank" href="http://faq.submitinme.com/">FAQ</a></li>
                     <li><a href="../home/contact.aspx">Contact Us</a></li>
-                    <li><a rel="nofollow" href="http://messenger.providesupport.com/messenger/whitelake.html" target="_blank">Live Support</a></li>
+                    <li><a rel="nofollow" onclick="windowOpen()">Live Support</a></li>
                     <li><a href="../home/customquote.aspx">Custom Quote</a></li>                    
                     </ul>
                 	</div>
@@ -472,8 +625,8 @@
                 <div class="span3">  
                                   
                  	 <ul class="foo-credential">
-                    <a rel="nofollow" href="http://members.nasscom.in/whitelake" target="_blank"><li class="foo-img1"></li></a>
-                   <a rel="nofollow" href="http://en.wikipedia.org/wiki/SubmitINme" target="_blank"> <li class="foo-img4"></li></a>
+                    <li class="foo-img1"></li>
+                   <li class="foo-img4"></li>
                     <a rel="nofollow" href="http://www.submitinme.com/images/isocertificate.jpg" target="_blank"><li class="foo-img3"></li></a>
                     <a rel="nofollow" href="http://www.dmca.com/Protection/Status.aspx?ID=3d0c71c3-a4b8-4b79-b053-d2e56ae67017" target="_blank"><li class="foo-img6"></li></a>
                     <li class="foo-img5"></li>
@@ -504,9 +657,10 @@
             
 <script type="text/javascript"><!--
     document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +
-"www.submitinme.com/affiliate/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
-</script><script id="pap_x2s6df8d" src="https://www.submitinme.com/affiliate/scripts/trackjs.js" type="text/javascript"></script>
+"submitinme.postaffiliatepro.com/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
+</script><script id="pap_x2s6df8d" src="https://submitinme.postaffiliatepro.com/scripts/trackjs.js" type="text/javascript"></script>
 <script type="text/javascript"><!--
+    PostAffTracker.setAccountId('default1');
     try {
         PostAffTracker.track();
     } catch (err) { }
@@ -535,6 +689,19 @@
             };
         } ());
     </script>
+
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KCNT9Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KCNT9Q');</script>
+<!-- End Google Tag Manager -->
+
 
 
 </body></html>
