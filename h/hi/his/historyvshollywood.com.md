@@ -1,23 +1,59 @@
-> *The following text is extracted and transformed from the historyvshollywood.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605101432id_/http%3A//www.chasingthefrog.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyvshollywood.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220015858id_/http%3A//www.historyvshollywood.com/read/privacy) for the most accurate reproduction.*
 
-# ChasingtheFrog.com PRIVACY POLICY
+# History vs. Hollywood Privacy Policy
 
-**ChasingtheFrog.com  
-WEBSITE PRIVACY POLICY  
-**  
-The purpose of this notice is to make visitors of ChasingtheFrog.com aware of our commitment to protect their personal information online. We also wish to explain how purchasing works through ChasingtheFrog.com.
+Last Updated: August 9, 2013
 
-**I. Collection of Personal Information  
-**The only personal information ChasingtheFrog.com obtains about you is information voluntarily provided by you. This can happen in two ways. 1\. Through e-mail we receive when corresponding with visitors. 2. By posting to our message boards (the online movie forums). This website does not collect additional information about individual visitors from other sources. This means that a person can visit our website and navigate through the website without giving us personal information. To gauge the effectiveness of our website, we may collect non-personal information about our members and visitors, such as Internet server and browser identification, the Internet service provider, clickstream information, the webpage from which a person enters our website, webpages visited at our site, duration of visit and domain type. This information does not reveal a visitor's personal identity.
+Thank you for visiting HistoryvsHollywood.com (“History vs. Hollywood”) Internet web sites (“Site(s)”) located at the URL www.historyvshollywood.com. This Privacy Policy details certain policies implemented throughout History vs. Hollywood governing History vs. Hollywood’s use of personally identifiable information about users of our Site(s).
 
-**II. Use of Personal Information  
-**We do not share or disclose your personal information with third parties.
+**Privacy Policy Updates**
 
-**III. Protection of Personal Information  
-**We require our staff to protect the privacy of all personal information collected over our website. Only individuals with specific authorization have access to databases containing visitor's personal information. The databases are protected in a secure facility. 
+Due to the Internet’s rapidly evolving nature, History vs. Hollywood may need to update this Privacy Policy from time to time. If so, History vs. Hollywood may or may not post a notice of the change and its updated Privacy Policy on our Site(s), so you are aware of what personally identifiable information we may collect and how we may use this information. To guarantee you are aware of our most recent updates to this Privacy Policy, it is best to check this page on a regular basis. If any modification is unacceptable to you, you shall cease using the Site(s). If you do not cease using this Site(s), you will be deemed to have accepted the change.
 
-**IV. Purchasing Through ChasingtheFrog.com  
-**We offer a large number of items that can be purchased through certain websites who we are in association with. We call these companies that conduct our e-commerce operations and/or order fulfillment "Operational Providers." These operational providers operate independently of ChasingtheFrog.com. When you purchase an item, our Operational Providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these Operational Providers, including your order or request, will be governed by the specific provider's terms of usage and privacy policies. We do not share your personal information with our providers nor do they share your personal information with us.
+**Information Collection and Use**
 
-**V. Notification of Changes in the Privacy Policy  
-**We will review our website privacy practices on a periodic basis, and we may modify our policies as we deem appropriate. We may also change or update our website Privacy Policy if we add new services or features and will post these changes in a revised policy available on our website. We encourage you to review our Privacy Policy and those of our Operational Providers (see item IV.) on a regular basis.
+You can generally visit our Site(s) without revealing any personally identifiable information about yourself. However, in certain sections of this Site(s), we may invite you to contact us with questions or comments or request information, submit feedback, information regarding bugs and patches, participate in a user forum and blogs or complete a registration form or contest entry form. Due to the nature of some of these activities, we may collect personally identifiable information that you submit, such as your name, email address, address, phone number and username. We may also collect additional personally identifiable information that you voluntarily include or transmit with your user submissions in the forums and blogs as well as in comments. Other users will be able to view who has posted, as well as any other personally identifiable information and/or other content you have posted to the Site(s) in the forums, blogs and comments. Additionally, some of our third party affiliate or partner companies may provide personally identifiable information to us.
+
+We may use your personally identifiable information to register you to use our Site(s) and services, deliver certain goods, services or information that you have requested, provide notices regarding goods or services you might want to purchase in the future, verify your authority to enter our Site(s) and improve the content and general administration of the Site(s) and out products.
+
+**Children’s Privacy**
+
+History vs. Hollywood recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Site(s) are not intended for children under the age of 13. History vs. Hollywood does not target its Site(s) to children under 13. History vs. Hollywood does not knowingly collect personally identifiable information from children under the age of 13.
+
+**Cookies**
+
+We may use small text files called cookies to improve overall experience on the Site(s). A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies generally do not permit us to personally identify you.
+
+**Aggregate Information**
+
+The Site(s) may track the total number of visitors to the Site(s), the number of visitors to each page of our Site(s), browser type, and IP addresses, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users’ movement, and gather broad demographic information for aggregate use.
+
+**Disclosure**
+
+We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our services and the Site(s) to you. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or in cooperation with any governmental investigation. We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which History vs. Hollywood participates or to a purchaser of all or substantially all of History vs. Hollywood’s assets to which the Site(s) relate.
+
+**Links to Third Party Sites**
+
+The Site(s) may provide links to other Web sites or resources over which History vs. Hollywood does not have control (“External Web Sites”). Such links do not constitute an endorsement by History vs. Hollywood of those External Web Sites. You acknowledge that History vs. Hollywood is providing these links to you only as a convenience, and further agree that History vs. Hollywood is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+
+**Purchasing**
+
+We offer a number of items that can be purchased through certain websites who we are in association with. We call these companies that conduct our e-commerce operations and/or order fulfillment “Operational Providers”. These operational providers operate independently of History vs. Hollywood. When you purchase an item, our Operational Providers will request your personal information to fulfill your order or request. The voluntary submission of your personal information to these Operational Providers, including your order or request, will be governed by the specific provider’s terms of usage and privacy policies. We do not share your personal information with our providers nor do they share your personal information with us.
+
+**Security**
+
+We may employ procedural and technological security measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. History vs. Hollywood may use secure socket layer, firewalls and other security measures to help prevent unauthorized access to your personally identifiable information.
+
+Updating Personally Identifiable Information and Questions:
+
+History vs. Hollywood provides you with the ability to update your user information. If you wish to review or correct your user information you have provided to us, you may update your login information online.
+
+If you have any questions regarding this Privacy Policy please contact us via our [Contact Us](https://web.archive.org/read/contact/) page.
+
+**Users Outside of the United States**
+
+Our computer systems are currently based in the United States, so your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site(s) as a visitor from outside the United States, by using the Site(s) you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
+
+This Privacy Policy was last updated: August 9, 2013
+
+This Privacy Policy is effective as of: August 9, 2013
