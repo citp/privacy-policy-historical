@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelity.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514110759id_/https%3A//www.fidelity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220072353id_/https%3A//www.fidelity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fidelity Investments
 
@@ -77,7 +77,7 @@ We may share personal information about you with various Fidelity corporate affi
 
 Additionally, if you interact with Fidelity directly as an individual investor (including joint account holders) or if Fidelity provides services to your employer or plan sponsor, we may exchange certain information about you with Fidelity financial services affiliates, such as our brokerage and insurance companies, for their use in marketing products and services as allowed by law.
 
-Information collected from investment professionals' customers is not shared with Fidelity affiliates for marketing purposes, except with your consent or the consent of your investment professional and as allowed by law.
+Information collected from investment professionals' customers is not shared with Fidelity affiliates for marketing purposes, except with your consent and as allowed by law.
 
  
 
@@ -172,5 +172,5 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
 
   
-Effective January 2013    
+Effective June 2013    
 ©1998-2013 FMR LLC. All Rights Reserved.
