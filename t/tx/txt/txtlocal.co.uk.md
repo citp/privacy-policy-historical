@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620090211id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221000801id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions by TextLocal Privacy Policy
-
-[**Sign Up Free**  
- **Full Access - Free Credits**  
- **Takes 60 Seconds**](https://web.archive.org/signup)
-
-### Our price promise
-
-We will match or beat any similar price offer.
-
-[Find out more](https://web.archive.org/uk-and-international-sms-text-prices)
-
-### Account Management
-
-Save time through our management services.
-
-[Find out more](https://web.archive.org/mobile-marketing-account-management)
-
-### Download our brochure
-
-Find out more about Textlocal and how we can help you.
-
-[Download](https://web.archive.org/mobile-marketing-guides/free-reports-and-guides)
 
 ## Legal Information
 
