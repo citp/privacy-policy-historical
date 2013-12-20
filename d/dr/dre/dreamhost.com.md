@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629000029id_/http%3A//www.dreamhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220145217id_/http%3A//www.dreamhost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DreamHost
 
@@ -10,7 +10,7 @@ We may also collect the URL from which you linked into our site, your IP address
 
 ## Use of Customer Information
 
-Customer privacy is something we take very seriously at DreamHost. We do not sell or disseminate (except in cases where required to by law enforcement agencies) the personal information of our customers to any parties outside of DreamHost or its parent company, New Dream Network, LLC for any purpose other than communicating messages provided by DreamHost. We use customer information for the purposes of creating and maintaining individual customer accounts, contacting customers in case of problems with their account(s), sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, to provide product and marketing updates, and to provide technical support.
+Customer privacy is something we take very seriously at DreamHost. We do not sell or disseminate (except in cases where required to by law enforcement agencies) the personal information of our customers to any parties outside of DreamHost for any purpose other than communicating messages provided by DreamHost. We use customer information for the purposes of creating and maintaining individual customer accounts, contacting customers in case of problems with their account(s), sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, to provide product and marketing updates, and to provide technical support.
 
 DreamHost may engage with companies or agencies that may come in contact with some customer data only in cases where that access is required to support DreamHost’s own goals and initiatives. Some optional partner offers and services may require customer information to be provided to third parties as a necessary part of establishing service with them.
 
