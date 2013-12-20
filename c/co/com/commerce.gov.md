@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611011236id_/http%3A//www.commerce.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220184501id_/http%3A//www.commerce.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Commerce
 
@@ -10,7 +10,7 @@ The specific practices outlined in this privacy statement apply to Web sites mai
 
 Some of our Web pages contain links to Web sites outside the Department of Commerce, including those of other federal agencies, state and local governments, and private organizations. Please be aware that when you follow a link to another site, you are then subject to the privacy policies of the new site. 
 
-**Your Rights under the Privacy Act** : Information concerning the Privacy Act can be found on the following Web site: <http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm>
+**Your Rights under the Privacy Act** : Information concerning the Privacy Act can be found on the following Web site: <http://www.usa.gov/Topics/Reference-Shelf/FOIA.shtml>
 
 **Automatic Collections:** For each HTTP (which is what your Web browser generates when you request a page or part of a page from a Web site) request received, we collect and store only the following information:
 
