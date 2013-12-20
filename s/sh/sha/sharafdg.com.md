@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharafdg.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601120239id_/http%3A//www.sharafdg.com/pages/PrivacyPolicy/pgid-22625.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharafdg.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220190352id_/http%3A//www.sharafdg.com/pages/PrivacyPolicy/pgid-22625.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
