@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621033223id_/http%3A//lowfares.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220122724id_/http%3A//www.lowfares.com/privacy) for the most accurate reproduction.*
 
 # Travel Comparison Shopping - Flights, Airfare, Hotels, Vacations - LowFares.com
 
