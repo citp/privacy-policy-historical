@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcashpalace.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615193347id_/http%3A//digitalcashpalace.com/about/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcashpalace.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221003132id_/http%3A//www.digitalcashpalace.com/about/terms-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions - Forex Brokers Portal
 
@@ -7,6 +7,10 @@
 U.S. Government Required Disclaimer, quoted:
 
 > Commodity Futures Trading Commission Futures, Currency and Options trading has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the futures and options markets. Don’t trade with money you can’t afford to lose. This is neither a solicitation nor an offer to Buy/Sell futures or options. No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this web site. The past performance of any trading system or methodology is not necessarily indicative of future results.
+
+Advertising disclaimer:
+
+Banners and Featured Brokers are for advertising only. We do not recommend any brokers and will not be responsibility for any loss you may have while trading with the brokers.
 
 #### Privacy Policy
 
@@ -42,7 +46,7 @@ We reserve the right to update this policy in other to adapt it to new legal req
 
 **1\. Use of the site**
 
-DigitalCashPalace.Com is a free resource about [Forex Brokers](http://digitalcashpalace.com/forex-brokers/ "Forex Brokers") with information about Brokers and service that brokers provide, [Forex Bonus](http://digitalcashpalace.com/promotions/ "Forex Bonus"), contests, Press, includes [Forex forum](http://digitalcashpalace.com/forum/ "Forex Forum"). Information and users reviews are for information reference only.
+DigitalCashPalace.Com is a free resource about [Forex Brokers](http://www.digitalcashpalace.com/forex-brokers-comparison/ "Forex Brokers") with information about Brokers and service that brokers provide, [Forex Bonus](http://www.digitalcashpalace.com/promotions/ "Forex Bonus"), [Forex contests](http://www.digitalcashpalace.com/brokers-contests/ "Forex Contests"), Press, includes [Forex forum](http://www.digitalcashpalace.com/forum/ "Forex Forum"). Information and users reviews are for information reference only.
 
 **2\. Liability**
 
