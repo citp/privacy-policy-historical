@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-today.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621060230id_/http%3A//www.go-today.com/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-today.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220115407id_/http%3A//www.go-today.com/security.aspx) for the most accurate reproduction.*
 
 # Go-today Vacation Packages & Travel Deals Security
 
@@ -33,7 +33,7 @@ Cookies are very small text files that your web browser manages for you. We have
 We use secure SSL (Secure Sockets Layer) encryption to protect data that is sent to us by our customers. You can be sure that when making a booking your personal information is protected as it is sent to us. 
 
 **Conditions of Use, Notices, and Revisions**  
-We reserve the right to change this Privacy Policy at any time to respond to changes in the law or in our business practices. All users of this website agree to this Privacy Policy and are bound by it. If you would like to comment on any aspect of this Privacy Policy, please [email us](https://web.archive.org/web/20130621060230id_/http%3A//www.go-today.com/email.aspx?e=general).
+We reserve the right to change this Privacy Policy at any time to respond to changes in the law or in our business practices. All users of this website agree to this Privacy Policy and are bound by it. If you would like to comment on any aspect of this Privacy Policy, please [email us](https://web.archive.org/web/20131220115407id_/http%3A//www.go-today.com/email.aspx?e=general).
 
  **Online Security**
 
