@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bundle.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606145206id_/http%3A//www.bundle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundle.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220221012id_/http%3A//www.bundle.com/privacy-policy) for the most accurate reproduction.*
 
 # Unbiased, data-driven ratings of the best restaurants, bars, spas, businesses | Bundle
 
@@ -7,8 +7,6 @@
 **Effective Date: January 4, 2011**
 
 Bundle Corporation ("Bundle", "us" or "we") is dedicated to maintaining your trust and confidence in the protection of the personal information that you disclose through Bundle.com (the "Website"). Safeguarding this information is Bundle's utmost priority, a non-negotiable promise from us to you. This disclosure is intended to explain how your personally identifiable information may be collected, handled and disclosed.
-
-Bundle Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contact@bundle.com](mailto:contact@bundle.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **What information do we collect and track?**
 
