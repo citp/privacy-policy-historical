@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621100834id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentwise.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221003539id_/http%3A//www.entertainmentwise.com/info/69) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Gossip, News & Photos, Movie Reviews, Competitions - Entertainmentwise
 
