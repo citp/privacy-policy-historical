@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welectronics.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630082957id_/http%3A//www.welectronics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welectronics.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220063707id_/http%3A//www.welectronics.com/privacy.html) for the most accurate reproduction.*
 
 # Overseas Electronics www.welectronics.com Privacy Policy
 
@@ -50,6 +50,8 @@ Welectronics.com is certified by McAfee™  Security. The McAfee SECURE™ Trus
 Welectronics.com accepts Google™  Checkout for payments on purchases. To access Google Checkout’s privacy policy please go to:  <https://checkout.google.com/files/privacy.html>
 
 Welectronics.com accepts Paypal™   for payments on purchases. To access Paypal’s Privacy Policy please go to: [ https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US) 
+
+Overseas Electronics Chicago and its Employees will never ask for a money gram or western union money transfer . we are not listed on alibaba or sell on Aliexpress . Give us a call or email us as we are available during our Business hours for any questions or Concerns.
 
 Questions:
 
