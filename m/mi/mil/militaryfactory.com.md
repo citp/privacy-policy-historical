@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629144207id_/http%3A//militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220115448id_/http%3A//www.militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# MilitaryFactory.com Privacy Policy
+# Military Factory Privacy Policy
 
-UPDATED: 10/30/2012
+## Because your privacy is important to us.
+
+UPDATED: 12/17/2013
 
 Your privacy is important to us!
 
@@ -34,7 +36,5 @@ You can chose to disable or selectively turn off cookies or third-party cookies 
 3rd Party Advertisements - TribalFusion, BurstMedia  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Affiliate Partners - Quinstreet  
-We are currently partnered with Quinstreet to deliver education-based results through their proprietary search engine. These ads appear across our site as interactive forms with user-initiated drop-down selected options (see the footer of this very page for a working example). Use of these forms is entirely at your discretion, though particularly useful to those seeking more information from institutions about programs currently offered or military benefits to enrollees. MilitaryFactory.com does NOT record any of the information you deliberately send to these schools requesting additional information.
-
-MILITARY FACTORY
+Affiliate Partner - Quinstreet  
+We are partnered with Quinstreet to deliver education-based results through their proprietary search engine. These ads appear across our site as interactive forms with user-initiated drop-down selected options or clearly marked banner advertising. Use of these forms is entirely at your discretion, though particularly useful to those seeking more information from institutions about programs currently offered or military benefits to enrollees. MilitaryFactory.com does NOT record any of the information you deliberately send to these schools requesting additional information.
