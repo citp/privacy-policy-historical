@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ebates.com privacy policy that was archived on 2013-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505004058id_/http%3A//www.ebates.com/privacy_policy.htm%3Fnavigation_id%3D18571) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebates.com privacy policy that was archived on 2013-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220174746id_/http%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html itemscope="" itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -9,31 +9,52 @@
 
 
 
-        <link rel="stylesheet" type="text/css" href="/global_files/layout2009/css/ebates.1.0.7.01.css">
-        <link rel="stylesheet" href="/help/global_files/css/help.1.0.7.02.css" type="text/css">
+        <link rel="stylesheet" type="text/css" href="/global_files/layout2009/css/ebates.1.0.9.04.b.css">
+        <link rel="stylesheet" href="/help/global_files/css/help.1.0.7.08.css" type="text/css">
         
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/global_files/js/jquery/jquery-1.6.4.min.js"></script>
-<script type="text/javascript" src="/scripts/ebates_nav.1.0.3.min.js"></script>
-<link rel="canonical" href="http://www.ebates.com/privacy_policy.htm">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/global_files/js/jquery/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/scripts/ebates_nav.1.0.5.min.js"></script>
+
+	<link rel="canonical" href="http://www.ebates.com/privacy_policy.htm">
+
         
         
 
 
 	</head>
-	
 		
 	        <body id="noTab" class="noSubTab">
-            <div id="container">
-            
-<div id="top-ribbon">
-	<div class="lt flt">
-		<ul>
-		<li><a href="/" class="home" target="_parent">Ebates Home</a></li>
-		<li><a href="/amazon.htm" class="amazon" target="_parent">Amazon</a></li>
-		<li><a href="/category/Travel_%26_Vacations/cat_id/54.htm" target="_parent">Travel</a></li>
-				<li><a href="/groupon.htm" target="_parent">Groupon</a></li>
-		</ul>
-	</div>
+            		
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	        <div id="container">
+            <div id="top-ribbon">
+	<div class="lt flt"><ul>
+
+	<li><a href="/" class="home" target="_parent">Ebates Home</a></li>
+	<li><a href="/amazon.htm" class="amazon" target="_parent">Amazon</a></li>
+
+	<li><a href="/category/travel-vacations.htm" class="travel" target="_parent">Travel</a></li>
+
+
+	<li><a href="/groupon.htm" class="groupon" target="_parent">Groupon</a></li>
+
+</ul></div>
 	<div class="mid flt"></div>
 	<div class="rt frt">
 					New to Ebates? <a href="/editUserInfos.do?navigation_id=18574">Sign up</a> Members <a href="/auth/getLogonForm.do?navigation_id=18574">Log in</a> 		
@@ -58,15 +79,22 @@
 			  });
 			};
 			
-			$(document).ready(function() {
-			  var e = document.createElement('script');
-			  e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-			  e.async = true;
-			  document.getElementById('fb-root').appendChild(e);
-			});
+			function async_load(){
+			var e = document.createElement('script');
+			e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+			e.async = true;
+			document.getElementById('fb-root').appendChild(e);
+			}
+
+			if(window.attachEvent){
+			window.attachEvent('onload', async_load);
+			}else{
+			window.addEventListener('load', async_load, false);
+			}
 			
-			function linkWithFacebook(fbAppId, siteRoot, urlAction){ 	
-				var url_info = 'https://www.facebook.com/dialog/oauth?client_id='+fbAppId+'&redirect_uri='+siteRoot+urlAction+'&display=popup';	
+			function linkWithFacebook(fbAppId, siteRoot, urlAction){
+                var finalUrlAction = urlAction+"?urlIdentifier="+encodeURIComponent(encodeURIComponent(browserUrlInfo));			
+				var url_info = 'https://www.facebook.com/dialog/oauth?client_id='+fbAppId+'&redirect_uri='+siteRoot+finalUrlAction+'&display=popup';	
 				if (unlock == "true"){
 				getLoginWithFacebook(url_info);
 				}
@@ -92,19 +120,14 @@
             
                                         <h3 class="ribbon">Online Rebates and Coupons at over 1,600 Stores!</h3>
                         <div id="header">
-              	<div id="max" class="ui2012">
+              	
+<div id="max" class="ui2012">
 	<div class="max-ebates flt ui2012"><a href="/" title="Go to the Ebates.com homepage"></a></div>
-	<div class="max-gb flt">
-									<a href="javascript:openNewWindow('/macys.com_8333-xfas?entity=76.9651.77.163&amp;navigation_id=21913','','')" title="Get a great deal at  Macy's with Coupons and Cash Back from Ebates!"><img src="/images/sales/2013/ros/q2/macys_50113.gif" alt="Get a great deal at  Macy's with Coupons and Cash Back from Ebates!" title="Get a great deal at  Macy's with Coupons and Cash Back from Ebates!"></a>
-			</div>
-    <div id="max-promo" class="max-promo flt" style="background: url(&quot;https://web.archive.org/images/sales/2013/promotions_1/mothers_day_042313/max.gif&quot;);">
-							<a href="/mothersday-gifts.htm?entity=76.9624.77.162" title="Shop for Mother's Day with Double Cash Back!"></a>
-			<script type="text/javascript">
-				var imgUrl = '/images/sales/2013/promotions_1/mothers_day_042313/max.gif';
-				var fullUrl = "url("+location.protocol +"//"+location.hostname+imgUrl+")";
-				document.getElementById("max-promo").style.background = fullUrl;
-			</script>
-		    </div>
+			<div class="max-gb flt">
+																					<a href="/livingsocial.com_11445-xfas?campaign_entity_id=15057667&amp;navigation_id=21913" rel="nofollow" target="_blank"><img src="/images/sales/2013/ros/q4/livingsocial_hpros_131220.jpg" alt="Get a great deal from LivingSocial plus 4.0% Cash Back from Ebates!" title="Get a great deal from LivingSocial plus 4.0% Cash Back from Ebates!"></a>
+		</div>
+	    <div id="max-promo" class="max-promo flt">                            <a href="http://www.ebates.com/holiday-sales.htm?src=homepage" title="Shop 2013 Holiday Sales and Deals with Double Cash Back!"><img src="/images/sales/2013/promotions_1/december_peak_120113/max.gif" alt="Shop 2013 Holiday Sales and Deals with Double Cash Back!" width="272" height="95"></a>
+     </div>
 </div>
               	<div id="topnav">
     <ul id="navtop">
@@ -113,7 +136,7 @@
 		<li id="nav-tab3"><a class="tab" href="/compare/prices.htm?navigation_id=18568">Products</a></li>
         <li id="nav-tab4"><a class="tab" href="/myebates.htm?navigation_id=18568">My Ebates</a></li>
         <li id="nav-tab5"><a class="tab" href="/referral/default.do?navigation_id=18568">Tell-A-Friend</a></li>
-        <li id="nav-tab6"><a class="tab" href="http://blog.ebates.com">Blog</a></li>
+        <li id="nav-tab6"><a class="tab" href="/blog/" target="_blank">Blog</a></li>
         <li id="nav-tab7"><a class="tab" href="/help.htm?navigation_id=18568">Help</a></li>
     </ul>
 	<div id="search">
@@ -121,7 +144,7 @@
 		<input name="query" type="hidden" id="query" value="">
 		<input name="position" type="hidden" id="position" value="submit">
 		<input name="type" type="hidden" value="suggest">
-		<label for="store_name"><input type="text" class="text textDefault ac_input" id="store_name" name="store_name" value="Search stores or coupons or products" onfocus="if(this.value=='Search stores or coupons or products') { this.value=''; this.className=this.className.replace(new RegExp(' textDefault\\b'), '');}" onblur="if(this.value==''){this.value='Search stores or coupons or products';}" autocomplete="off"><input type="image" class="image ui2012" alt="Search" title="Search" onclick="if(this.form.store_name.value == 'Search stores or coupons or products') { this.form.store_name.value = '';}" src="/global_files/layout2009/images/sprites/blank.gif" border="0"></label>
+		<label for="store_name"><input type="text" class="text textDefault" id="store_name" name="store_name" value="Search stores or coupons or products" onfocus="if(this.value=='Search stores or coupons or products') { this.value=''; this.className=this.className.replace(new RegExp(' textDefault\\b'), '');}" onblur="if(this.value==''){this.value='Search stores or coupons or products';}"><input type="image" class="image ui2012" alt="Search" title="Search" onclick="if(this.form.store_name.value == 'Search stores or coupons or products') { this.form.store_name.value = '';}" src="/global_files/layout2009/images/sprites/blank.gif" border="0"></label>
 		</form>
     </div>
 </div>
@@ -137,12 +160,13 @@
 <li id="sub-tab2"><span class="arrow-right ui2012 flt"></span><a href="/help/myaccount.htm" class="flt">My Account</a></li>
 <li id="sub-tab3"><span class="arrow-right ui2012 flt"></span><a href="/help/tell-a-friend.htm" class="flt">Tell-A-Friend</a></li>
 <li id="sub-tab4"><span class="arrow-right ui2012 flt"></span><a href="/help/howtojoin.htm" class="flt">How to use Ebates</a></li>
-<li id="sub-tab5"><span class="arrow-right ui2012 flt"></span><a href="/help/toolbar.htm" class="flt">Toolbar</a></li>
+<li id="sub-tab5"><span class="arrow-right ui2012 flt"></span><a href="/help/toolbar.htm" class="flt">Cash Back Button</a></li>
 <li id="sub-tab6"><span class="arrow-right ui2012 flt"></span><a href="/help/canada.htm" class="flt">Canada</a></li>
 <li id="sub-tab7"><span class="arrow-right ui2012 flt"></span><a href="/help/privacy-security.htm" class="flt">Privacy &amp; Security</a></li>
 <li id="sub-tab8"><span class="arrow-right ui2012 flt"></span><a href="/help/exclusions.htm" class="flt">Exclusions &amp; Limitations</a></li>
-<li id="sub-tab9"><span class="arrow-right ui2012 flt"></span><a href="/help/terms_and_conditions.htm" class="flt">Terms &amp; Conditions</a></li>
-<li id="sub-tab10"><span class="arrow-right ui2012 flt"></span><a href="/help/troubleshooting.htm" class="flt">Troubleshooting</a></li>
+<li id="sub-tab9"><span class="arrow-right ui2012 flt"></span><a href="/credit-card/exclusions.htm" class="flt">Credit Card Exclusions &amp; Limitations</a></li>
+<li id="sub-tab10"><span class="arrow-right ui2012 flt"></span><a href="/help/terms_and_conditions.htm" class="flt">Terms &amp; Conditions</a></li>
+<li id="sub-tab11"><span class="arrow-right ui2012 flt"></span><a href="/help/troubleshooting.htm" class="flt">Troubleshooting</a></li>
 </ul>
 </div>
 </div>
@@ -231,7 +255,7 @@
 </div>
 <div class="border-top">
 <h4><a name="10"></a> Third-party verification</h4>
-<p>Ebates is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site WWW.EBATES.COM . Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
+<p>Ebates is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site WWW.EBATES.COM . Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
 
 <p>If you have any questions or concerns regarding this statement, you should first contact <a href="/customer_care/home.htm">customer service</a>. If you do not receive acknowledgment of you inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Ebates to resolve your concerns.</p>
 
@@ -255,9 +279,10 @@
     	<div class="foot-max max-2 ui2012 flt"></div>
         <div class="foot-max-ad flt">
         	<div class="foot-banner flt">
-            	<a href="/toolbar/toolbar.htm" title="Get the Cash Back Browser App">
-                    <span class="never-miss">Never Miss Cash Back!</span>
-                    <span>Cash Back Browser App</span>
+            	
+                <a href="/mobile.htm?navigation_id=22442" title="New! Ebates for iOS">
+                    <span class="never-miss">New! Ebates for iOS</span>
+                    <span>For iPhone or iPad</span>
                     <img src="/global_files/layout2009/images/footer/btn-get-it.png" alt="Get It Now" title="Get It Now" class="frt">
                 </a>
             </div>
@@ -270,39 +295,47 @@
 <div id="footer-site" class="roundfoot">
 	<ul class="footer-list">
 		<li><h3 class="footer-list-hdr"><a href="/about.htm">About Ebates</a></h3></li>
+		<li><a href="/advertising.htm">Advertising &amp; Partnerships</a></li>
+		<li><a href="/bloggers.htm">Affiliates</a></li>
+		<li><a href="http://blog.ebates.com">Blog Archive</a></li>
+		<li><a href="/credit-card.htm">Cash Back Credit Card</a></li>
 		<li><a href="/help.htm" class="brdr">Customer Care</a></li>
 		<li><a href="/jobs.htm">Jobs</a></li>
+		<li><a href="/mobile.htm">Mobile Shopping</a></li>
 		<li><a href="/in_the_news/index.htm">Press</a></li>
-		<li><a href="/advertising.htm">Advertising &amp; Partnerships</a></li>
-		<li><a href="http://blog.ebates.com">Blog Archive</a></li>
 		<li><a href="/privacy_policy.htm">Privacy Policy</a></li>
-		<li><a href="/help/terms_and_conditions.htm">Terms &amp; Conditions</a></li>
+		<li><a href="http://products.ebates.com/">Products</a></li>
 		<li><a href="/site_map.htm">Site Map</a></li>
-		<li><a href="http://products.ebates.com">Products</a></li>
-        <li><a href="/bloggers.htm">Affiliates</a></li>
+		<li><a href="/help/terms_and_conditions.htm">Terms &amp; Conditions</a></li>
 	</ul>
 	<ul class="footer-list">
 		<li><h3 class="footer-list-hdr"><a href="/stores/all/index.htm">Most Popular Stores</a></h3></li>
 		<li><a href="/amazon.htm">Amazon</a></li>
-		<li><a href="/groupon.htm">Groupon</a></li>
-		<li><a href="/coupons/kohls.com/index.htm">Kohls</a></li>
-		<li><a href="/coupons/dsw.com/index.htm">DSW</a></li>
-		<li><a href="/coupons/enterprise.com/index.htm">Enterprise</a></li>
-		<li><a href="/coupons/jcp.com/index.htm">jcpenney</a></li>
-		<li><a href="/coupons/boscovs.com/index.htm">Boscov's</a></li>
-		<li><a href="/coupons/verabradley.com/index.htm">Vera Bradley</a></li>
+		<li><a href="/coupons/disneystore.com/index.htm">Disney Store</a></li>
+        <li><a href="/coupons/drugstore.com/index.htm">Drugstore.com</a></li>
+		<li><a href="/coupons/kohls.com/index.htm">Kohl's</a></li>
+		<li><a href="/coupons/macys.com/index.htm">Macy's</a></li>
+		<li><a href="/coupons/nordstrom.com/index.htm">Nordstrom</a></li>
+		<li><a href="/coupons/priceline.com/index.htm">Priceline</a></li>
+		<li><a href="/coupons/qvc.com/index.htm">QVC</a></li>
+		<li><a href="/coupons/sephora.com/index.htm">Sephora</a></li>
+		<li><a href="/coupons/staples.com/index.htm">Staples</a></li>
+		<li><a href="/coupons/walmart.com/index.htm">Walmart</a></li>
 		<li><a href="/stores/all/index.htm">See All Stores</a></li>
 	</ul>
 	<ul class="footer-list">
 		<li><h3 class="footer-list-hdr"><a href="/coupons/all/index.htm">Most Popular Coupon Codes</a></h3></li>
+		<li><a href="/category/electronics-photo.htm">Electronics Coupons</a></li>
+		<li><a href="/category/clothing.htm">Clothing Coupons</a></li>
 		<li><a href="/coupons/all/offer/Free-Shipping-4.htm">Free Shipping Codes</a></li>
-		<li><a href="/coupons/sears.com/index.htm">Sears Coupons</a></li>
-		<li><a href="/category/Travel_%26_Vacations/cat_id/54.htm">Travel Coupons</a></li>
-		<li><a href="/category/Electronics_%26_Photo/cat_id/8.htm">Electronics Coupons</a></li>
-		<li><a href="/category/Jewelry/cat_id/456.htm">Jewelry Coupons</a></li>
-		<li><a href="/coupons/victoriassecret.com/index.htm">Victoria's Secret Coupons</a></li>
-		<li><a href="/category/Gift_Cards/cat_id/468.htm">Gift Cards</a></li>
+		<li><a href="/category/games-toys.htm">Games &amp; Toy Coupons</a></li>
+		<li><a href="/category/gift-cards.htm">Gift Cards</a></li>
+		<li><a href="/category/health-beauty.htm">Health &amp; Beauty Coupons</a></li>
+		<li><a href="/category/jewelry.htm">Jewelry Coupons</a></li>
 		<li><a href="/coupons/printable/grocery/index.htm?grocery=true">Printable Coupons</a></li>
+		<li><a href="/coupons/sears.com/index.htm">Sears Coupons</a></li>
+		<li><a href="/category/travel-vacations.htm">Travel Coupons</a></li>		
+		<li><a href="/coupons/victoriassecret.com/index.htm">Victoria's Secret Coupons</a></li>
 		<li><a href="/coupons/all/index.htm">See All Coupons</a></li>
 	</ul>
 	<ul class="footer-list footer-social">
@@ -311,26 +344,64 @@
 		<li><a href="http://plus.google.com/u/0/b/100870976671858762102/100870976671858762102/posts" class="bld round" target="_blank"><span class="ftr-icon ftr-gp ui2012"></span>Join us on Google+</a></li>
 		<li><a href="http://twitter.com/Ebates" class="bld round" target="_blank"><span class="ftr-icon ftr-tw ui2012"></span>Follow us on Twitter</a></li>
 		<li><a href="http://pinterest.com/shopebates/" class="bld round" target="_blank"><span class="ftr-icon ftr-pn ui2012"></span>Ebates on Pinterest</a></li>
-		<li><a href="http://blog.ebates.com/ebates/" class="bld round" target="_blank"><span class="ftr-icon ftr-bl ui2012"></span>Check out our Blog</a></li>
+		<li><a href="/blog/" class="bld round" target="_blank"><span class="ftr-icon ftr-bl ui2012"></span>Check out our Blog</a></li>
 		<li><a href="/help/customer_care/other.htm" class="bld round"><span class="ftr-icon ftr-em ui2012"></span>Email Us</a></li>
 	</ul>
 </div>
 <div id="pge-ftr-legal">
-    <p class="logos"><a href="http://www.bbb.org/greater-san-francisco/business-reviews/tickets-and-coupons-printers-and-suppliers/ebates-shoppingcom-in-san-francisco-ca-20543" target="_blank" class="bbb ui2012"></a><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.ebates.com&amp;sealid=101" target="_blank" class="trust ui2012"></a>
-	<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.ebates.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.ebates.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam,
-	viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+    <p class="logos"><a href="http://www.bbb.org/greater-san-francisco/business-reviews/tickets-and-coupons-printers-and-suppliers/ebates-shoppingcom-in-san-francisco-ca-20543" target="_blank" class="bbb ui2012" rel="nofollow"></a><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.ebates.com&amp;sealid=101" target="_blank" class="trust ui2012" rel="nofollow"></a>
+	
 	</p>
 	<p class="rss">RSS: <a href="/feed/merchant-feed.xml">All Stores</a> | <a href="/feed/offer-feed.xml">All Coupons</a> | <a href="/cash-back/rss-feeds.htm" class="xml ui2012"></a></p>
     <p>©1998-2013 Ebates Performance Marketing, Inc. All rights reserved.</p>
 </div>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <script type="text/javascript">
 <!-- 
 	var suggetUrl = 'search.ecbsn.com/store/'; 
 //-->
 </script>
-<script type="text/javascript" src="/scripts/suggest/eba_suggest.1.0.0.min.js"></script>
-
+<script type="text/javascript" src="/scripts/suggest/eba_suggest.1.0.1.min.js"></script>
+<script type="text/javascript">
+var browserUrlInfo = "";
+$(document).ready(function() {
+	var urlPath = $(location).attr('pathname');
+	var urlParams = $(location).attr('search');
+	browserUrlInfo = urlPath + urlParams;
+	if(browserUrlInfo == "/"){
+	    browserUrlInfo = "/index.htm";
+	}
+	if($('input[name="urlIdentifier"]').closest("form")){
+	   var urlIdentifier = $('input[name="urlIdentifier"]').val();
+	   if(urlIdentifier != null && urlIdentifier.length > 0){
+		  $('input[name="urlIdentifier"]').val(browserUrlInfo + "|" + urlIdentifier);
+	   } else {
+		  $('input[name="urlIdentifier"]').val(browserUrlInfo);
+	   }
+	}
+});
+</script>
 <script type="text/javascript">
 	var isUserlogin = false;
 </script>
