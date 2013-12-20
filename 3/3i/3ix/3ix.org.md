@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3ix.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620170033id_/http%3A//www.3ix.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3ix.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112821id_/http%3A//www.3ix.org/privacy_policy.php) for the most accurate reproduction.*
 
 # www.3ix.org - 3iX Networks - Privacy Policy - Our commitment to protect your privacy
 
@@ -21,6 +21,10 @@
 > We may display your website address on our website or on our promotional material to our potential customers.
 > 
 > We may use your personal information for credit worthiness check, statistical and marketing analysis purposes, and research and development purposes.
+> 
+> [ ](http://www.netyes.com/affordable_web_design.php)
+> 
+> [](http://www.netyes.com/web_design_quote_form.php)
 > 
 > **How do we collect your Personal Information?**
 > 
