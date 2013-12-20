@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classimap.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531150114id_/http%3A//www.classimap.net/read/privacy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classimap.net privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220181338id_/http%3A//www.classimap.net/read/privacy_en) for the most accurate reproduction.*
 
 # Classimap.net - Page Site · Classimap.net
 
