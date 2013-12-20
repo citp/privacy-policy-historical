@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622232846id_/http%3A//www.findlaw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220120525id_/http%3A//www.findlaw.com/privacy) for the most accurate reproduction.*
 
 # FindLaw's Privacy Policy - FindLaw
 
-### FindLaw Statement of Online Privacy Practices
+### FindLaw Statement of Online Privacy Practices 
 
 ### Scope 
 
@@ -73,7 +73,7 @@ We collect information about our users in three ways: directly from the user, fr
 
 When you register for our services or order products via our site, we ask you to provide some personal information, for example, your name, address, phone number, email address, payment card information, and/or certain additional categories of information resulting from use of our websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don't wish to receive such offers, you may opt out (unsubscribe) as described below. 
 
-  * FindLaw Directory promotions: Email [wld.update@thomson.com](mailto:wld.update@thomson.com); include your name and contact information, and a message saying you'd like to stop receiving promotional materials
+  * FindLaw promotions: [Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=EMAILS)
 
 
 
@@ -128,7 +128,7 @@ We have implemented certain appropriate security measures to help protect your p
 
 Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this statement.
 
-http://company.findlaw.com/findlaw-s-privacy-policy.html 
+http://company.findlaw.com/findlaw-s-privacy-policy.html
 
 Back to top
 
@@ -156,9 +156,9 @@ Back to top
 
 **How may I correct, amend, or delete my personal information and/or update my preferences?**
 
-You may cancel your registration or update your preferences at any time. If you don't want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering, and/or utilize the "unsubscribe" mechanism within the communications that you receive from us.
+You may cancel your registration or update your preferences at any time.  If you don't want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering, and/or utilize the "unsubscribe" mechanism within the communications that you receive from us.
 
-  * FindLaw Directory promotions: Email [wld.update@thomson.com](mailto:wld.update@thomson.com); include your name and contact information, and a message saying you'd like to stop receiving promotional materials
+  * FindLaw  promotions: [Update your preferences](https://pc2.mypreferences.com/ThomsonReutersUSLegal/?ltid=EMAILS)
 
 
 
@@ -183,6 +183,6 @@ Back to top
 
 ### Privacy Statement Changes 
 
-If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on March 9, 2012. 
+If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on November 12, 2013.
 
 Back to top
