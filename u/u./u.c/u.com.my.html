@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the u.com.my privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601204955id_/http%3A//u.com.my/policies-terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the u.com.my privacy policy that was archived on 2013-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220054037id_/http%3A//www.u.com.my/policies-terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,11 +10,11 @@
 <link rel="shortcut icon" href="/sites/all/themes/umobile2/favicon.ico" type="image/x-icon">
 <meta name="keywords" content="u mobile,mobile,broadband,42mbps,prepaid,postpaid,free sms,free calls,mobile broadband,mobile postpaid,mobile prepaid,postpaid broadband,prepaid broadband,u28,u58,u88,free international sms,unlimited mobile internet,prepaid roaming in singapore,purchase sim pack online,facebook credits">
 <meta name="description" content="Enjoy Malaysia's fastest mobile broadband, only from U Mobile. Get Free SMS &amp; Calls when you need it most, plus free calls within U Mobile.">
-<meta property="og:title" content="U Mobile - Malaysia's Fastest Mobile Broadband, Free Calls and SMS">
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_c392f1c7d12065602db8fab7e6bfeee6.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_c33e9981e31cab61c771ebcc08685daa.css">
+<meta property="og:title" content="U Mobile - Malaysia's Fastest Mobile Broadband and First 4G LTE Provider">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_51519e572d20fc7f8cfbc48061587c7f.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_3367d36970fd49fa4cc2d4f6585cee12.css">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?c" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?m" />
 <![endif]-->
     
  
@@ -35,7 +35,7 @@
 </style>
 
   
-<script type="text/javascript" async="" src="http://sdscdn.userreport.com/userreport.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://my-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" src="/sites/all/themes/umobile2/js/jquery.js"></script>
+<script type="text/javascript" async="" src="https://sdscdn.userreport.com/userreport.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/sites/all/themes/umobile2/js/jquery.js"></script>
  <!--<script type="text/javascript" src="/sites/all/themes/umobile2/js/jquery.ui.widget.js"></script>-->
 <script type="text/javascript" src="/sites/all/themes/umobile2/js/cufon-yui.js"></script>
 <script type="text/javascript" src="/sites/all/themes/umobile2/js/font.js"></script>
@@ -87,17 +87,211 @@
 		active=ref;
 		document.getElementById(navButtons[ref]).style.top='-5px';
 	}
+	
+	function selfcare_block(){
+		if($('.selfcare_holder').is(":visible")){
+			$('.selfcare_right_shadow').css('visibility','hidden');
+			$('.selfcare_holder').hide();
+			$('.quicklinkers').find('.selfcare').removeClass('active');
+		}else{
+			$('.selfcare_right_shadow').css('visibility','visible');
+			$('.selfcare_holder').show();
+			$('.quicklinkers').find('.selfcare').addClass('active');
+		}
+		
+	}
+	
+	$(document).click(function(e) {
+		$('#msisdn_error,#pin_error,#msisdn_error2,#pin_error2').hide();
+		$('.selfcare_right_shadow').css('visibility','hidden');
+		$('.selfcare_holder').hide();
+		$('.quicklinkers').find('.selfcare').removeClass('active');
+	});
+	
+	$('#login_form').live('keypress', function(e) {
+		if (e.keyCode == 13 && e.target.type != "textarea") {
+			validate_login($(this));
+		}
+	});
+	
+	$('#login_form2').live('keypress', function(e) {
+		if (e.keyCode == 13 && e.target.type != "textarea") {
+			validate_login($(this));
+		}
+	});
+	
+	function isNumberKey(evt)
+	  {
+		 var charCode = (evt.which) ? evt.which : event.keyCode
+		 if (charCode > 31 && (charCode < 48 || charCode > 57))
+			return false;
+	
+		 return true;
+	  }
+	
+	function myblur(param){
+		var userType = $(param).closest('form').find('select[name="userType"]').val();
+		
+		if($(param).val() == '' || $(param).val() == '018'){
+			
+			if(userType!='2'){
+				$(param).css('color','#b1b1b1');
+				$(param).val('0181234567');
+			}
+		}
+	}
+	
+	function validate_login(param){
+		var error = false;
+		
+		var form = $(param).closest('form');
+		var userType = $(param).closest('form').find('select[name="userType"]').val();	
+		var msisdn = $(param).closest('form').find('input[name="msisdn"]').val();
+		var password = $(param).closest('form').find('input[name="password"]').val();
+		var err_login_via = $(param).closest('form').find('.err_login_via');
+		var pin_error = $(param).closest('form').find('.pin_error');
+		var msisdn_error = $(param).closest('form').find('.msisdn_error');
+	
+		if(userType=='1'){
+			$(err_login_via).html('Please enter your phone no.');
+		}else{
+			$(err_login_via).html('Please enter your username');
+		}
+		
+		$(msisdn_error).hide();
+		$(pin_error).hide();
+		
+		if(msisdn=='' || msisdn=='0181234567' || msisdn=='018'){
+			$(msisdn_error).fadeIn();
+			error = true;
+		}
+		
+		if(password==''){
+			$(pin_error).fadeIn();
+			error = true;
+		}
+		
+		if(!error){
+			$(form).submit();
+		}
+	}
+	
+	function changevia(param){
+		var msisdn = $(param).closest('form').find('input[name="msisdn"]');
+		var login_via = $(param).closest('form').find('.login_via');
+		
+		if($(param).val()=='1'){	
+			$(login_via).html("Phone No. :");
+			$(msisdn).css('color','#b1b1b1');
+			$(msisdn).attr('maxlength',11);
+			$(msisdn).val('0181234567');
+			$(msisdn).attr('onkeypress','return isNumberKey(event)');
+		}else{
+			$(login_via).html("Username :");
+			$(msisdn).removeAttr('maxlength');
+			$(msisdn).val('');
+			$(msisdn).removeAttr('onkeypress');
+		}
+	}
+	
+	var moveCursorToEnd;
+	
+	moveCursorToEnd = function(textField) {
+	  var endIndex;
+	  endIndex = textField.value.length;
+	  if (textField.setSelectionRange) {
+		return textField.setSelectionRange(endIndex, endIndex);
+	  }
+	};
 </script>
+
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 986232625;
+var google_conversion_label = "4ipuCKfknwYQse6i1gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/986232625/?value=0&amp;label=4ipuCKfknwYQse6i1gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 </head>
 
 
 <body class="subpage">
 <script type="text/javascript">
-  (function() {
+  $(function() {
     var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
     em.src = ('https:' == document.location.protocol ? 'https://my-ssl' : 'http://my-cdn') + '.effectivemeasure.net/em.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+	
+		
+	$('.clicker.selfcare').bind("mouseover",function(){
+		$('.selfcare_right_shadow').css('visibility','visible');
+		$('.selfcare_holder').show();
+		$('.quicklinkers').find('.selfcare').addClass('active');
+	});
+	
+	$('.clicker.selfcare').bind("mouseleave",function(){
+		$('.selfcare_right_shadow').css('visibility','hidden');
+		$('.selfcare_holder').hide();
+		$('.quicklinkers').find('.selfcare').removeClass('active');
+	});
+
+	$('#msisdn,#msisdn2').on('click', function() {
+		var userType = $(this).closest('form').find('select[name="userType"]').val();
+		$(this).css('color','#000000');
+	
+		if($(this).val() == '0181234567'){
+			
+			if(userType!='2' ){
+				
+				$(this).val('018');
+				moveCursorToEnd(this);
+				
+			}
+			
+		}
+		
+	});
+	
+	$('.submitbtt').click(function(e){
+		e.stopPropagation();
+		validate_login($(this));
+	});
+	
+	$('.selfcare_holder').click(function(e){
+		e.stopPropagation();
+		$('#msisdn_error,#pin_error,#msisdn_error2,#pin_error2').hide();
+	});
+	
+	$('.selfcare_holder').bind("mouseenter",function(e){
+		$('.selfcare_right_shadow').css('visibility','visible');
+		$('.selfcare_holder').show();
+		$('.quicklinkers').find('.selfcare').addClass('active');
+	});
+
+	
+	$('.selfcare_holder').bind("mouseleave",function(e){
+		e.stopPropagation();
+		$('.selfcare_right_shadow').css('visibility','hidden');
+		$('.selfcare_holder').hide();
+		$('.quicklinkers').find('.selfcare').removeClass('active');
+	});
+	
+	$('.selfcare_holder').find('select').bind("mouseleave",function(e){
+		e.stopPropagation();
+	});
+	
   })();
 </script>
 <noscript>
@@ -106,6 +300,8 @@
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
+
+
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
@@ -113,23 +309,124 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <script type="text/javascript">var switchTo5x=false;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher:'0b1dadfe-ed0c-4c72-a4b6-fc1094009796'});</script>
+<div class="quicklinkers">
+	<div class="centralize">
+    	    		<div class="selfcare_right_shadow"></div>
+    		<a class="clicker selfcare" href="#">Sign In / Register</a>
+              	<a class="clicker switch" href="/customer-service/switch-to-u-mobile">Switch to U Mobile</a>
+      	<a class="clicker store" href="/service-centres">Find a Store</a>
+      	<a class="clicker coverage" href="/coverage">Check Coverage</a>
+        
+                <div class="selfcare_holder" align="left">
+        	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td valign="top" align="left" class="selfcare_content" style="padding:15px 0px; text-align:left !important">
+                	<div class="cufon fontOrange font24" style="text-transform:uppercase; padding:3px 10px 10px 25px">Online Self Care</div>
+                	<form method="post" id="login_form2" action="http://www.u.com.my/index.php?q=/login&amp;st=s">
+                    <input type="hidden" value="umobile" name="login_form">
+                    <input type="hidden" value="" name="pre">
+                    
+                    <div class="selfcare_top">
+                                    
+                        <div class="font12">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr>
+                                <td width="85" valign="middle" style="padding:3px 0px; text-align:left !important"><strong>Select Type :</strong></td>
+                                <td style="padding:3px 0px; text-align:left !important">
+                                    <div class="input_skin">
+                                        <div class="left"></div><div class="mid">
+                                            <select name="userType" id="userType2" style="border:none; background:white !important; width:120px !important;height: 19px; font-size: 12px" onchange="changevia(this)">
+                                                <option value="1">Personal</option>
+                                                <option value="2">Corporate</option>
+                                            </select>
+                                        </div><div class="right"></div>
+                                    </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td valign="middle" style="padding:3px 0px; text-align:left !important"><strong id="login_via2" class="login_via">Phone No. :</strong></td>
+                                <td style="padding:3px 0px; text-align:left !important">
+                                    <div class="input_skin">
+                                        <div class="input_error msisdn_error" id="msisdn_error2">
+                                            <div class="input_error_holder">
+                                                <div class="edge"></div>
+                                                <table border="0" height="33" cellspacing="0" cellpadding="0">
+                                                  <tbody><tr>
+                                                    <td align="left" valign="top" class="l" width="7">&nbsp;</td>
+                                                    <td align="left" valign="middle" class="m err_login_via" id="err_login_via2">Please enter your phone no.</td>
+                                                    <td align="left" valign="top" class="r" width="7">&nbsp;</td>
+                                                  </tr>
+                                                </tbody></table>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="left"></div><div class="mid">
+                                            <input name="msisdn" id="msisdn2" type="text" style="width:120px !important; color:#b1b1b1" value="0181234567" onblur="myblur(this)" onkeypress="return isNumberKey(event)" maxlength="11" autocomplete="off">
+                                        </div><div class="right"></div>
+                                    </div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td valign="middle" style="padding:3px 0px; text-align:left !important"><strong>PIN:</strong></td>
+                                <td style="padding:3px 0px; text-align:left !important">
+                                    <div class="input_skin">
+                                        <div class="input_error pin_error" id="pin_error2">
+                                            <div class="input_error_holder">
+                                                <div class="edge"></div>
+                                                <table border="0" height="33" cellspacing="0" cellpadding="0">
+                                                  <tbody><tr>
+                                                    <td align="left" valign="top" class="l" width="7">&nbsp;</td>
+                                                    <td align="left" class="m" valign="middle">Please enter your PIN</td>
+                                                    <td align="left" valign="top" class="r" width="7">&nbsp;</td>
+                                                  </tr>
+                                                </tbody></table>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="left"></div><div class="mid"><input type="password" name="password" id="password2" onkeypress="return isNumberKey(event)" style="width:120px !important" maxlength="6"></div><div class="right"></div>
+                                    </div>
+                                </td>
+                              </tr>
+                            </tbody></table>
+                        </div>
+
+                    </div>
+                    
+                    <div style="margin-top:12px" align="center" class="fontOrange font11">
+                        <table border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            <td align="center">
+                                <a href="#" class="btt submitbtt">
+                                    <div class="left"></div><div class="mid">LOGIN</div><div class="right"></div>
+                                </a>
+                            </td>
+                          </tr>
+                        </tbody></table>
+                        <a href="http://www.u.com.my/index.php?q=password-recovery" style="color:#ff7b00 !important">Forgot PIN</a> | <a href="http://www.u.com.my/index.php?q=first-time-login" style="color:#ff7b00 !important">First Time Login</a>
+                    </div>
+                    </form>
+                </td>
+              </tr>
+              <tr>
+                <td height="12" valign="top"><img src="/sites/all/themes/umobile1/images/header/selfcare_bottom_shadow.png"></td>
+              </tr>
+            </tbody></table>
+        </div>
+            </div>
+</div>
 <div class="wrapper content">
 	<div id="header">
     	<a href="/" class="logo"></a>
         <div class="rightSection">
-        	<div class="quicklinkers">
-            	<a class="clicker switch" href="/customer-service/switch-to-u-mobile">Switch to U Mobile</a>
-            	<a class="clicker store" href="/service-centres">Find a Store</a>
-            	<a class="clicker coverage" href="/coverage">Check Coverage</a>
-            </div>
+        	
             <div class="spacer_20"></div>
             <div class="searchSection">
             	<table cellspacing="0" cellpadding="0" border="0" style="margin:0px;">
                     <tbody><tr>
-                        <td class="searchLeft" style="padding:0px;border:0px">&nbsp;</td>
-                        <td class="searchCenter" style="padding:0px;border:0px">
+                        <td class="searchLeft" style="padding:0px; vertical-align:middle !important">&nbsp;</td>
+                        <td class="searchCenter" style="vertical-align:middle !important">
 						<div id="block-search-0" class="block block-search region-odd even region-count-1 count-2"><div class="block-inner">
 
   
@@ -137,10 +434,10 @@
     <form action="/policies-terms-and-conditions/privacy-policy" accept-charset="UTF-8" method="post" id="search-block-form">
 <div><div class="container-inline">
   <div class="form-item" id="edit-search-block-form-1-wrapper">
- <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="Search this Site" class="form-text NormalTextBox txtSearch" onfocus="if (this.value == 'Search this Site') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search this Site';}">
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="Search" class="form-text NormalTextBox txtSearch" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}">
 </div>
 <input type="image" name="op" value="Search" id="edit-submit" class="form-submit" src="/sites/all/themes/umobile2/images/header/bg_search.png">
-<input type="hidden" name="form_build_id" id="form-51bf006deeaed8e84ed515085c8e1c3a" value="form-51bf006deeaed8e84ed515085c8e1c3a">
+<input type="hidden" name="form_build_id" id="form-9ccae0747f20445fbebcf92519e73f52" value="form-9ccae0747f20445fbebcf92519e73f52">
 <input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
  
 </div>
@@ -153,7 +450,10 @@
 					<!--	<input type="text" style="width:190px;" value="Search" onfocus="clickClear(this, 'Search')" onblur="clickRecall(this,'Search')" onclick="clickClear(this, 'Search')" name="searchKey"> -->
 						
 						</td>
-                     
+                     	<td style="padding-left:10px; vertical-align:middle !important">
+						                            <!--<a href="http://www.u.com.my/login"><img src="/sites/all/themes/umobile2/images/buttons/login_btt.png" /></a>-->
+                        			                    
+                    </td>
                     </tr>
                 </tbody></table>
             </div>
@@ -161,7 +461,7 @@
             	
             	<table border="0" cellspacing="5" cellpadding="0" style="height:30px;margin:0;">
                     <tbody><tr>
-                        <td style="background:none;"><span class="st_twitter_hcount" displaytext="Tweet"></span><span class="st_facebook_hcount" displaytext="Facebook"></span><a href="http://www.youtube.com/umobilesb" target="_blank"><img src="/sites/all/themes/umobile2/images/icons/icon_yt.png" border="0" style="vertical-align:bottom;"></a></td>
+                        <td style="background:none;"><span class="st_twitter_hcount" displaytext="Tweet"></span><span class="st_facebook_hcount" displaytext="Facebook"></span><span class="st_plusone_hcount" displaytext="Google +1"></span><a href="http://www.youtube.com/umobile" target="_blank"><img src="/sites/all/themes/umobile2/images/icons/icon_yt.png" border="0" style="vertical-align:bottom;"></a></td>
                     </tr>
                 </tbody></table>
             </div>
@@ -181,11 +481,12 @@
             <div class="divider"></div>
             <a href="#" class="bg cufon  clicker" id="broadbandMenu">Broadband</a>
             <div class="divider"></div>
-            <a href="#" class="bg cufon  clicker" id="vasMenu" title="Value Added Services">VAS</a>
+             <a href="#" class="bg cufon  clicker" id="vasMenu" title="Contents">Contents</a>
             <div class="divider"></div>
             <a href="#" class="bg cufon  clicker" id="customer_servicesMenu">Customer Service</a>
             <div class="divider"></div>
-            <a href="/bonus/food-and-beverage" class="bg cufon clicker" id="bonusMenu">Bonus</a>
+            <!--<a href="/bonus/food-and-beverage" class="bg cufon clicker" id="bonusMenu">Bonus</a>-->
+            <a href="/ucard/overview" class="bg cufon clicker" id="bonusMenu">U Card</a>
             <div class="divider"></div>
             <a href="#" class="bg cufon  clicker" id="allaboutusMenu">About Us</a> 
             
@@ -209,20 +510,8 @@
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
                         <div class="arrow">
-                            <div class="bgd cufon"> <a href="/phone-deals/blackberry" class="clicker  ">BlackBerryÃ‚Â®</a></div>
+                            <div class="bgd cufon"> <a href="/phone-deals/blackberry" class="clicker  ">BlackBerryÃƒÆ’Ã†â€™Ãƒâ€&nbsp;Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®</a></div>
                         </div>
-                    </div><!--submenucol-->
-                    <div class="submenucol">
-                        <div class="arrow">
-                            <div class="bgd cufon"><a href="/phone-deals/broadband-devices" class="clicker  ">Broadband Devices</a><br>
-                            </div>
-                        </div>
-                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
-                        <div class="arrow">
-                            <div class="bgd cufon"><a href="/phone-deals/windows-phone" class="clicker  ">Windows Phone</a><br>
-                            </div>
-                        </div>
-                        
                     </div><!--submenucol-->
                     <div class="submenucol">
                     <!--<div class="arrow">
@@ -242,7 +531,7 @@
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/postpaid-packages/new-postpaid-plans" class="clicker ">Postpaid</a><br>
+                            <div class="bgd cufon"><a href="/postpaid-packages/internet-share-plan" class="clicker ">Postpaid</a><br>
                             </div>
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
@@ -256,11 +545,11 @@
                             </div>
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
-                        <div class="arrow">
+                         <div class="arrow">
                             <div class="bgd cufon"><a href="/international-roaming/roaming-overseas" class="clicker ">International Roaming</a></div>
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
-                        <div class="arrow">
+                       <div class="arrow">
                             <div class="bgd cufon"> <a href="/unite" class="clicker ">Value Added Services</a></div>
                         </div>
                     </div><!--submenucol-->
@@ -268,7 +557,10 @@
                         <div class="arrow">
                             <div class="bgd cufon"><a href="/idd" class="clicker ">IDD </a> <br></div>
                         </div>
-                        
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/4g" class="clicker ">4G LTE</a> <br></div>
+                        </div>
                         
                     </div><!--submenucol-->
                 </div><!--plan_n_serviceSubmenu-->
@@ -280,7 +572,7 @@
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/phone-deals/bb7_pre" class="clicker ">Prepaid Plans</a><br>
+                            <div class="bgd cufon"><a href="/u-broadband/prepaid_plans" class="clicker ">Prepaid Plans</a><br>
                             </div>
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
@@ -294,7 +586,7 @@
                             </div>
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
-                         <div class="arrow">
+                        <div class="arrow">
                             <div class="bgd cufon"> <a href="/u-broadband/connection_troubleshooting_non_huawei_modem" class="clicker ">Troubleshooting</a><br>
                             </div>
                         </div>
@@ -318,50 +610,114 @@
                             <div class="bgd cufon"> <a href="/broadband/firmware-upgrade" class="clicker ">Firmware Upgrade</a></div>
                         </div>
                     </div><!--submenucol-->
-			
+
+                    <div class="submenucol">
+                        
+                    </div><!--submenucol-->
+                    
                 </div><!--broadbandSubmenu-->
                 <div class="container" id="vasSubmenu">
-                    <div class="submenucol">
+                   <!--submenucol--><!--<div class="submenucol">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/faqs/voicemail-service" class="clicker ">Voicemail</a><br>
+                            <div class="bgd cufon"><a href="/faqs/voicemail-service" class="clicker ">Voicemail</a><br/>
                             </div>
                         </div>
-                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
                         <div class="arrow">
-                            <div class="bgd cufon"> <a href="/faq/multi-conference-call" class="clicker ">Multiparty Call</a><br>
+                            <div class="bgd cufon"> <a href="/faq/multi-conference-call" class="clicker ">Multiparty Call</a><br/>
                             </div>
                         </div>
-                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
                         <div class="arrow">
                             <div class="bgd cufon"><a href="/downloads/planet-music" class="clicker ">Music</a></div>
                         </div>
-                    </div><!--submenu-->
+                    </div>
                     <div class="submenucol">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/value-added-services/friend-finder-service" class="clicker ">Friend Finder</a><br>
+                            <div class="bgd cufon"><a href="/value-added-services/friend-finder-service" class="clicker ">Friend Finder</a><br/>
                             </div>
                         </div>
-                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/downloads/news-desk" class="clicker ">News</a><br>
+                            <div class="bgd cufon"><a href="/downloads/news-desk" class="clicker ">News</a><br/>
                             </div>
                         </div>
-                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
                         <div class="arrow">
                             <div class="bgd cufon"><a href="/downloads/ULeYuan" class="clicker ">Chinese </a></div>
                         </div>
                        
-                    </div><!--submenucol-->
+                    </div>
                     <div class="submenucol">
                         <div class="arrow">
                             <div class="bgd cufon"><a href="/unite" class="clicker ">Unite</a></div>
                         </div>
-                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
                          <div class="arrow">
-                            <div class="bgd cufon"><a href="/value-added-services/biz-sms-blast" class="clicker ">Biz SMS Blast</a><br>
+                            <div class="bgd cufon"><a href="/value-added-services/biz-sms-blast" class="clicker ">Biz SMS Blast</a><br/>
                             </div>
                         </div>
-                        </div><!--submenucol-->
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
+                         <div class="arrow">
+                            <div class="bgd cufon"><a href="/cpa" class="clicker ">Content Provider Access</a><br/>
+                            </div>
+                        </div>
+                        </div>--><!--submenucol-->
+                    <!--submenucol--><div class="submenucol">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/u-store/overview" class="clicker ">U Store</a><br>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/u-store/games" class="clicker ">Games</a><br>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/u-store/entertainment" class="clicker ">Lifestyle</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="submenucol">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/u-store/social" class="clicker ">Social</a><br>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/u-store/sports" class="clicker ">Sports</a><br>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/u-store/news-alerts" class="clicker ">News Alerts</a>
+                            </div>
+                        </div>
+                       
+                    </div>
+                    <div class="submenucol">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/downloads/planet-music" class="clicker ">Music</a><br></div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                         <div class="arrow">
+                            <div class="bgd cufon"><a href="/value-added-services/friend-finder-service" class="clicker ">Friend Finder</a><br>
+                            </div>
+                        </div>
+                        <!--<img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
+                         <div class="arrow">
+                            <div class="bgd cufon"><a href="/cpa" class="clicker ">Content Provider Access</a><br/>
+                            </div>
+                        </div>-->
+					</div>
+                    <div class="submenucol">
+                        
+                        <!--<div class="arrow">
+                            <div class="bgd cufon"><a href="/value-added-services/biz-sms-blast" class="clicker ">Biz SMS Blast</a>
+                            </div>
+                        </div>-->
+					</div><!--submenucol-->
                 </div><!--vasSubmenu-->
                 <div class="container" id="customer_servicesSubmenu">
                     <div class="submenucol">
@@ -380,11 +736,11 @@
                         </div>
                     </div><!--submenucol-->
                     <div class="submenucol">
-                        <div class="arrow">
-                            <div class="bgd cufon"><a href="/value-added-services/friend-finder-service" class="clicker ">Friend Finder Service </a><br>
+                        <!--<div class="arrow">
+                            <div class="bgd cufon"><a href="/value-added-services/friend-finder-service" class="clicker ">Friend Finder Service </a><br/>
                             </div>
                         </div>
-                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />-->
                         <div class="arrow">
                             <div class="bgd cufon"><a href="/value-added-services/international-airtime-transfer" class="clicker ">International Airtime Transfer</a><br>
                             </div>
@@ -429,48 +785,92 @@
                     </div>
                     <div class="submenucol">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/all-about-u/important-notice" class="clicker ">Important Notice </a></div>
+                            <div class="bgd cufon"><a href="/all-about-u/important-notice" class="clicker ">Important Notice </a><br></div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/all-about-u/whistle-blower" class="clicker ">Whistle Blower</a><br>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/all-about-u/join-our-team" class="clicker ">Careers</a><br>
+                            </div>
                         </div>
                     </div>
                 </div>
+               
+               
+                <!--<div class="container" id="bonusSubmenu">
+                    <div class="submenucol">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/bonus/food-and-beverage" class="clicker ">Food & Beverage </a><br/>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/bonus/shopping-and-retail" class="clicker ">Shopping & Retail </a> <br/>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/bonus/travel-and-accommodation" class="clicker "	>Travel & Accommodation </a> </div>
+                        </div>
+                    </div>
+                    <div class="submenucol">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/bonus/entertainment" class="clicker "	>Entertainment</a><br/>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/bonus/other-merchants" class="clicker "	>Other Merchants</a><br/>
+                            </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png" />
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/bonus/how-do-i-enjoy" class="clicker "	>How Do I Enjoy This? </a></div>
+                        </div>
+                    </div>
+                    <div class="submenucol">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/bonus/join-us" class="clicker "	>Join Us As Merchant</a></div>
+                        </div>
+                        </a> </div>
+                </div>-->
+                
                 <div class="container" id="bonusSubmenu">
-                    <div class="submenucol">
+					<div class="submenucol">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/bonus/food-and-beverage" class="clicker ">Food &amp; Beverage </a><br>
+                            <div class="bgd cufon"><a href="/ucard/overview" class="clicker ">About U Card</a> <br>
                             </div>
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/bonus/shopping-and-retail" class="clicker ">Shopping &amp; Retail </a> <br>
-                            </div>
+                            <div class="bgd cufon"><a href="/ucard/signup" class="clicker ">Sign Up </a> </div>
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/bonus/travel-and-accommodation" class="clicker ">Travel &amp; Accommodation </a> </div>
+                            <div class="bgd cufon"><a href="/ucard/registration" class="clicker ">Card Activation</a> </div>
                         </div>
                     </div>
-                    <div class="submenucol">
+			<div class="submenucol">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/bonus/entertainment" class="clicker ">Entertainment</a><br>
+                            <div class="bgd cufon"><a href="/ucard/merchant" class="clicker ">Merchants </a> </div>
+                        </div>
+                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
+                        <div class="arrow">
+                            <div class="bgd cufon"><a href="/ucard/promotion" class="clicker ">Promotions</a> <br>
                             </div>
                         </div>
                         <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
                         <div class="arrow">
-                            <div class="bgd cufon"><a href="/bonus/other-merchants" class="clicker ">Other Merchants</a><br>
-                            </div>
-                        </div>
-                        <img src="/sites/all/themes/umobile2/images/header/hr-line.png">
-                        <div class="arrow">
-                            <div class="bgd cufon"><a href="/bonus/how-do-i-enjoy" class="clicker ">How Do I Enjoy This? </a></div>
+                            <div class="bgd cufon"><a href="/ucard/redemption" class="clicker ">Redemption</a> </div>
                         </div>
                     </div>
-                    <div class="submenucol">
-                        <div class="arrow">
-                            <div class="bgd cufon"><a href="/bonus/join-us" class="clicker ">Join Us As Merchant</a></div>
-                        </div>
-                         </div>
-                </div>
-            </div>        	<div class="right"></div>
+                </div>                
+            </div>        	
+		<div class="right"></div>
         </div>
     </div>
 	
@@ -498,9 +898,8 @@
 <li class="leaf"><a href="/policies-terms-and-conditions/blackberry-vas-service" title="BlackBerry® VAS Service - Terms &amp; Conditions">BlackBerry® VAS Service T&amp;C</a></li>
 <li class="leaf"><a href="/policies-terms-and-conditions/blackberry-12-month-contract" title="BlackBerry® 12 Month Contract - Terms &amp; Conditions">BlackBerry® 12 Month Contract T&amp;C</a></li>
 <li class="leaf"><a href="/policies-terms-and-conditions/blackberry-24-month-contract" title="BlackBerry® 24 Month Contract - Terms &amp; Conditions">BlackBerry® 24 Month Contract T&amp;C</a></li>
-<li class="leaf"><a href="/policies-terms-and-conditions/pop-star-contest" title="Pop Star 2012 Contest">Pop Star 2012 Contest T&amp;C</a></li>
-<li class="leaf"><a href="/policies-terms-and-conditions/privacy-policy" title="Policies, Terms &amp; Conditions - Privacy Policy" class="active">Privacy Policy</a></li>
-<li class="leaf last"><a href="/policies-terms-and-conditions/sas" title="U Mobile Kpop Contest">U Mobile Kpop Contest T&amp;C</a></li>
+<li class="leaf"><a href="/policies-terms-and-conditions/mgm-campaign" title="U Mobile MGM Campaign - Terms &amp; Conditions">MGM Campaign T&amp;C</a></li>
+<li class="leaf last"><a href="/policies-terms-and-conditions/privacy-policy" title="Policies, Terms &amp; Conditions - Privacy Policy" class="active">Privacy Policy</a></li>
 </ul></div></div>  </div>
 
   
@@ -638,17 +1037,17 @@
        <div id="footer-inner" class="region region-footer">
 
        
-        <div id="block-menu-menu-downloads" class="block block-menu region-odd odd region-count-1 count-3"><div class="block-inner">
+        <div id="block-menu-menu-u-store" class="block block-menu region-odd odd region-count-1 count-3"><div class="block-inner">
 
-      <h2 class="title">Downloads</h2>
+      <h2 class="title">U Store</h2>
   
   <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="/downloads/overview" title="">All Channels</a></li>
-<li class="leaf"><a href="/downloads/planet-music" title="Planet Music">Planet Music</a></li>
-<li class="leaf"><a href="/downloads/multiplayer-games" title="Multilayer Games">Multiplayer Games</a></li>
-<li class="leaf"><a href="/downloads/ULeYuan" title="U 乐园">U 乐园</a></li>
-<li class="leaf"><a href="/downloads/news-desk" title="">News Desk</a></li>
-<li class="leaf last"><a href="/downloads/ur-lifestyle" title="Ur Lifestyle">Ur Lifestyle</a></li>
+    <ul class="menu"><li class="leaf first"><a href="/u-store/games" title="">Games</a></li>
+<li class="leaf"><a href="/u-store/entertainment" title="">Lifestyle</a></li>
+<li class="leaf"><a href="/u-store/social" title="Social">Social</a></li>
+<li class="leaf"><a href="/u-store/sports" title="Sports">Sports</a></li>
+<li class="leaf"><a href="/u-store/news-alerts" title="News Alerts">News Alerts</a></li>
+<li class="leaf last"><a href="/downloads/planet-music" title="Music">Music</a></li>
 </ul>  </div>
 
   
@@ -664,8 +1063,7 @@
 <li class="leaf"><a href="/how/phone-settings" title="">Phone Settings</a></li>
 <li class="leaf"><a href="/how/overview" title="">How To Use</a></li>
 <li class="leaf"><a href="/faqs/overview" title="">FAQs</a></li>
-<li class="leaf"><a href="/support-contact" title="">Contact Us</a></li>
-<li class="leaf last"><a href="/cpa" title="">Content Provider Access</a></li>
+<li class="leaf last"><a href="/support-contact" title="">Contact Us</a></li>
 </ul>  </div>
 
   
@@ -676,7 +1074,8 @@
   
   <div class="content">
     <ul class="menu"><li class="leaf first"><a href="/postpaid-packages/new-postpaid-plans" title="">Postpaid Plans</a></li>
-<li class="leaf last"><a href="/enterprise/mobile-plans" title="">Enterprise Mobile Plans</a></li>
+<li class="leaf"><a href="/enterprise/mobile-plans" title="">Enterprise Mobile Plans</a></li>
+<li class="leaf last"><a href="/cpa" title="">Content Provider Access</a></li>
 </ul>  </div>
 
   
@@ -705,7 +1104,7 @@ function populate(id,password)
 <div id="box_personal">
   <div id="#loginform-container">
             <span id="box_personal_title"></span>
-    <form action="http://u.com.my/index.php?q=login" method="POST" name="login" id="login">
+    <form action="http://www.u.com.my/index.php?q=login" method="POST" name="login" id="login">
       <div id="#loginform-phone">
         <label>Phone No: </label>
         <select name="pre" class="pre" id="preCode">
@@ -730,18 +1129,18 @@ function populate(id,password)
         <input type="submit" name="login" value="Login">
         <input type="button" name="cancel" value="Cancel" onclick="closebox('box_personal')">
       </div>
-      - <a href="http://u.com.my/index.php?q=password-recovery">I forgot my password</a><br>
-      - <a href="http://u.com.my/index.php?q=password-recovery">First time login</a>
+      - <a href="http://www.u.com.my/index.php?q=password-recovery">I forgot my PIN</a><br>
+      - <a href="http://www.u.com.my/index.php?q=password-recovery">First time login</a>
       <input name="userType" type="hidden" value="1">
       <input name="login_form" type="hidden" value="umobile">
-      <input name="PrevURL" type="hidden" value="http://u.com.my/index.php?q=online-selfcare&amp;xr=91703705">
+      <input name="PrevURL" type="hidden" value="http://www.u.com.my/selfcare/index">
     </form>
   </div>
 </div>
 <div id="box_corporate">
   <div id="#loginform-container">
             <span id="box_corporate_title"></span>
-    <form action="http://u.com.my/index.php?q=login" method="POST" name="login" id="login">
+    <form action="http://www.u.com.my/index.php?q=login" method="POST" name="login" id="login">
       <div id="#loginform-phone">
         <label>Username: </label>
 		<input name="pre" type="hidden" value="">
@@ -755,10 +1154,10 @@ function populate(id,password)
         <input type="submit" name="login" value="Login">
         <input type="button" name="cancel" value="Cancel" onclick="closebox('box_corporate')">
       </div>
-      - <a href="http://u.com.my/index.php?q=password-recovery-corporate">I forgot my password</a><br>
+      - <a href="http://www.u.com.my/index.php?q=password-recovery">I forgot my PIN</a><br>
       <input name="userType" type="hidden" value="2">
       <input name="login_form" type="hidden" value="umobile">
-      <input name="PrevURL" type="hidden" value="http://u.com.my/index.php?q=corporate-page&amp;xr=993871378">
+      <input name="PrevURL" type="hidden" value="http://www.u.com.my/index.php?q=corporate-page&amp;xr=775610130">
     </form>
   </div>  
 </div>
@@ -767,7 +1166,7 @@ function populate(id,password)
   <li class="leaf first"><a href="javascript:;" title="" onclick="openbox('Corporate Login', 1,'box_corporate')">Corporate Account Login</a></li>
  
     <!--<li class="leaf last"><a href="/prepaid/sim-pack-purchase" title="">Purchase SIM Pack</a></li>-->
- <li class="leaf last"><a href="http://u.com.my/mgm" title="Member Get Member">Member Get Member</a></li>
+ <li class="leaf last"><a href="http://www.u.com.my/mgm" title="Member Get Member">Member Get Member</a></li>
 </ul>
 
 <a href="http://www.consumerinfo.my" style="float:left"><img src="/sites/all/themes/umobile2/images/footer/logo_01.png"></a>
@@ -807,9 +1206,9 @@ $("a[href^=http]").each(function(){
 </div>
   
   <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + gaJsHost + "stats.g.doubleclick.net/dc.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://stats.g.doubleclick.net/dc.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-3959812-19");
 pageTracker._initData();
@@ -820,7 +1219,7 @@ var _urq = _urq || [];
 _urq.push(['initSite', 'a3c1005d-cd19-4200-92b4-1c53ba3c578f']);
 (function() {
 var ur = document.createElement('script'); ur.type = 'text/javascript'; ur.async = true;
-ur.src = 'http://sdscdn.userreport.com/userreport.js';
+ur.src = 'https://sdscdn.userreport.com/userreport.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
 })();
 </script> 
