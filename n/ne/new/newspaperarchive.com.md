@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621070332id_/http%3A//newspaperarchive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220131343id_/http%3A//newspaperarchive.com/privacypolicy) for the most accurate reproduction.*
 
-# NewspaperARCHIVE.com - Search Old Newspaper Articles Online
+# NewspaperARCHIVE.com - Search Old Newspaper Articles Online - Privace Policy
 
 #### Holland Evening Sentinel November 22, 1963
 
