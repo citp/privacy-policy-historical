@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 30daydiabetescure.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601060215id_/http%3A//www.30daydiabetescure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 30daydiabetescure.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220090231id_/http%3A//www.30daydiabetescure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The 30-Day Diabetes Cure
 
