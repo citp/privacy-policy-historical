@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mngirlinla.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622085050id_/http%3A//mngirlinla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mngirlinla.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220102432id_/http%3A//mngirlinla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Minnesota Girl in LA
+# Privacy Policy | Minnesota Girl in the WorldMinnesota Girl in the World
 
 **What information do we collect?**
 
@@ -76,5 +76,3 @@ http://minnesotagirlinla.com
 , CAdemetrie1930@gmail.com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmngirlinla.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
