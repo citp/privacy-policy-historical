@@ -1,212 +1,108 @@
-> *The following text is extracted and transformed from the pixsta.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207003720id_/http%3A//www.empora.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixsta.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220011429id_/http%3A//pixsta.com/privacy) for the most accurate reproduction.*
 
-# Empora - Privacy Policy
+# Pokki Privacy Policy 2013-07-03 FINAL
 
-For the purposes of this Privacy Policy "We", "Our" and "Us" refers to Empora ltd. 
+Pokki Privacy Policy
 
-Summary 
+Pokki, Inc. (“we” or “Pokki”) understands that you care about your privacy, and we take your privacy seriously. To inform you about the ways your information may be collected and used, we have adopted this Pokki Privacy Policy, which describes what types of information we collect, how we may use such information, with whom we may share such information, the choices you can make, and how you can contact us about our privacy practices.  
 
-A key part of Our commitment to protecting your privacy is to explain how We collect and use your personal information and the choices you have about its use. We collect this information when you give it to Us or when you interact with any of the websites and services owned, affiliated or operated by Us. This policy does not apply to the practices of third parties that We do not own or control, or to individuals that We do not employ or manage. 
+1.     WHAT OUR POKKI PRIVACY POLICY COVERS
 
-The main types of information We collect online about you: 
+This Pokki Privacy Policy covers our treatment of information we collect when you are accessing our Pokki-related website(s) owned and operated by Pokki (the “Pokki Site” or “Pokki Sites”).  Such Pokki Sites include [http://www.pokki.com](http://www.pokki.com/), [http://www.tweeki.com](http://www.tweeki.com/), [http://www.inst.ag](http://www.inst.ag/) and our store (the “Pokki App Store”), a publicly available app marketplace located at www.pokki.com (or such other site operated by Pokki), and/or integrated with the Pokki Software (as defined below).  
 
-  * The information you provide to Us (e.g. registration details) 
-  * Technical information on how you use Our site (tracked through 'cookies' and server logs) 
-  * Email communications (e.g. when you open a marketing communication from Us) 
-  * Information from other sources (e.g. from Our retail partners) 
+This Pokki Privacy Policy also covers our treatment of information we collect when you use any of our Pokki-related services or products, including installing or using a web-connected desktop application utilizing the Pokki platform (a “Pokki App” or “Pokki Apps”), including the app management, discovery and notification menu built within the Pokki platform (the “Pokki Menu”) (the Pokki Apps and the Pokki Menu, collectively the “Pokki Software”).
 
+By visiting our Pokki Sites, using Pokki Software, or using any of our Pokki-related services or products, you acknowledge that you accept the practices and policies outlined in this Pokki Privacy Policy.
 
+Please note this policy does not apply to (and we are not responsible for) the practices of companies that we do not own or control or to individuals we do not employ or manage. When utilizing third party sites or software products, including Pokki Apps that may be provided by third parties, or Pokki Software or Pokki Sites that access or utilize third party sites or services, you should read the relevant privacy policies of those third parties for information regarding their privacy practices.
 
-The main ways We use this information: 
+2.     SUMMARY OF OUR POKKI PRIVACY POLICY
 
-  * For analysis about how each of Our customers use the site 
-  * To tailor Our site to better suit your needs 
-  * To fulfill your shopping requirements 
-  * To improve your experience on Our sites 
-  * To treat you more personally 
-  * To maintain your records 
-  * To send you appropriate marketing communications 
+Pokki maintains or provides multiple Pokki-related sites, products and services.  To better explain what information we collect, and how we use the information we collect, we have broken out our Pokki Privacy Policy into the following sections: 
 
+                Section 3:  WHAT WE COLLECT AND WHY.  This section explains what information we collect from: (a) users who install Pokki Software; (b) Pokki App developers and publishers; and (c) visitors to our Pokki Sites, including the Pokki App Store. 
 
+                Section 4:  HOW WE SHARE OR USE INFORMATION WE HAVE COLLECTED.  This section explains how we use your information, and why, as well as if and how we share your information. 
 
-The main way We let other selected companies use this information: 
+                Sections 5-10:  These sections discuss various topics, including how we protect any information we collect, your rights and choices, our compliance with the Children’s Online Privacy Protection Act, our storage and use of information from users outside the United States, how we may alert you of any changes to this Pokki Privacy Policy, and how you can contact us.   
 
-  * To provide you with a better experience on their own websites 
+3.     WHAT WE COLLECT AND WHY
 
+Cookies. When you visit our Pokki Sites, we will send you a cookie, which is a small file stored on your computer that allows us to uniquely identify it. Where required by applicable law, we obtain your consent for the use of cookies.  You may choose to delete or not accept our cookies as described under “Your Rights and Choices” below.  If you delete or choose not to accept our cookies, you may not be able to utilize all the features of our products and services.  
 
+Logs. When you install Pokki Software, or when you visit our Pokki Sites, we capture and store the data that your computer or web browser sends us. This data may include your operating system (OS) type, browser type, language, Internet Protocol (IP) address, the date and time of your request and the cookie ID (when you visit our Pokki Sites) or unique ID (when you install Pokki Software) that helps identify your computer. We may also determine your geographical information through your IP address to better understand the interaction of your location with your use of our Pokki Software and Pokki Sites.  However, we do not store or associate your IP address with any data we collect from you, and we only collect and store geographical information we have derived in aggregate form.    
 
-Your choices: 
+Usage Information. Generally, our Pokki Software automatically collects usage information with respect to particular Pokki Apps, or with respect to the Pokki Menu, such as the frequency with which a Pokki App or the Pokki Menu has been clicked or opened, and how long a Pokki App or Pokki Menu remains open. We also collect installation information, which may include information on whether a Pokki App or the Pokki Menu has been installed or uninstalled, and how long the Pokki Software has been installed on your system.  
 
-  * You can stop Us sending you marketing communications 
-  * You can delete or change the information which you have given Us 
+With respect to visitors to the Pokki Sites, we collect usage information such as the number and frequency of visitors, what pages have been visited, average time spent on pages, and other information which helps us determine which features on our Pokki Sites are most important to you and working effectively.  
 
+We only use the usage information we collect in aggregate form, that is, as a statistical measure to allow us to improve the Pokki platform.  We do not use such usage information to identify you, nor do we associate any usage information we collect with any information that may personally identify you, such as a name or address.    
 
+  
+Third Party Analytic Tools.  The Pokki Site, the Pokki Menu, and the Pokki Apps that we have developed, may use third party analytic tools that use cookies, web beacons, or other similar information gathering technologies to collect standard internet log information and usage information.  The information generated is used to compile statistical reports on user activity.  We will never (and will not allow any third party to) use the statistical reports to track or to collect any personal information of visitors to the Pokki Sites or users of Pokki software. We will not associate any information gathered from the statistical reports with any personal information from any source.    
 
-By visiting Our websites, submitting information or using any of Our products and services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Please note – this privacy policy applies to Our use of your information from 13 January 2010. 
+User Accounts.  If you have created a user account, we collect and maintain all information that you provide to us in connection with your creation of a Pokki user account, including personal information such as your name, email address, date of birth and photo (if you have chosen to upload a photo to your user account profile). The personal information you provide in connection with your account is used in order to help us manage your account and provide services and features in connection with your account.  We never associate any personal information you provide in connection with your account with any other information we may collect through the Pokki Sites or the Pokki Software.  
 
-Privacy Policy in full 
+Third Party Pokki Apps and Sites.  If you have installed a Pokki App provided by a third party, or a Pokki App that accesses third party sites or services, then that third party may also collect information regarding your usage of such Pokki App, or your access or usage of the third party sites or services accessed by such Pokki App.  Any information collected by a third party provider of a Pokki App, or a site or service accessed by a Pokki App, is governed by such third party providers’ privacy policies.  These third party sites or applications may also place their own cookies or other files on your computer, or may collect data or solicit personal information from you.  We do not exercise control over any third party sites that a Pokki App or other third party application, may link to.
 
-This website is owned and operated by Us. In the provision of the web based sites, pages, services and software, We and other data processors acting under Our control may collect, process, store and use aggregate information, and any information which may identify you (your "Personal Information") including any information provided to Us by you within your dedicated password protected section of our website (your “Personal Account”) in various different ways and for different purposes. We collect this information when you give this to Us or when you interact with Our websites. 
+Software Developer Accounts. If you are a software developer or publisher that uses the Pokki.com site to publish or distribute your Pokki App, we collect and maintain all information that you provide to us in connection with the Pokki App submission, review and approval process in order to help us manage your account and communicate with you regarding our review of a submitted Pokki App.
 
-You are in control of what information We collect about you. However, if you choose not to share your information, you may not be able to take advantage of some of Our website’s special features, such as creating a user profile or receiving email alerts. Access to some of Our services may require you to register with Us and open an account. We control the personal information you provide to Us when you register and when you use Our websites. We will process your Personal Information in accordance with this Privacy Policy and applicable law, and We take responsibility for the processing, disclosure, and use of that information, including use by a third party on Our behalf. 
+Communications; Other Information You Provide.  Any time you send us a communication, whether as a posting to our support pages, through email inquiries, or via postings or communications on social media sites or networks such as Facebook or Twitter, we may keep such communications so that we can respond to your requests or inquiries and help improve our services to you.  Posts to our Support pages located within support.pokki.com will display your user name as you have indicated it in your profile. The personal information you provide is used for such purposes as improving the content of our sites, customizing and improving our services, and communicating with you about our services.  We may use personal information you provide to communicate with you about specials and new features.  We will obtain your consent where required by applicable law.  You can opt out from receiving promotional communications at any time by following the unsubscribe instructions described in the email.
 
-There are 10 sections which underline Our commitment to your privacy. 
+4.     HOW WE USE OR SHARE INFORMATION WE HAVE COLLECTED
 
-  1. What data We collect from you
-  2. How We use the data We have collected
-  3. Your choices and marketing preferences
-  4. Who can your data be disclosed to?
-  5. Private online communications
-  6. How We keep your data secure
-  7. Links to partner websites
-  8. Amending your data
-  9. Personalising your experience with Us
+a.     For Pokki App Users Without a User Account. 
 
+We only use the information we collect from Pokki Software users without an account in aggregate form, that is, as a statistical measure, and not in a manner that would identify you, in order to allow us to improve the Pokki platform.  We do not sell or otherwise market this information to third parties. 
 
+For Pokki App Users With a User Account. 
 
-Our Privacy Policy is subject to the following important provisions: 
+If you have created a user account and have posted information on a leaderboard or reviewed a Pokki App, your first name and photo (if you have chosen to upload a photo to your user account profile) will be displayed with your review or leaderboard information on the Pokki Site or within the pertinent Pokki App.  If you have created a user account and have shared a Pokki App with another user, your first name and photo (if one has been uploaded to your user account profile) will be shared with users with which you have chosen to share a Pokki App.  In addition, we may use the email address you provided to communicate to you about products, services and promotions.  We may use your date of birth to verify your eligibility to use our services in accordance with our Terms of Use.  
 
-We (or data processors acting under Our control) will only disclose your information to third parties if you have consented (or not objected) to Us doing so. However, We may be obliged to disclose information about your Personal Account in the following circumstances: 
+b.     For Pokki App Developers and Publishers.  
 
-  * If We or an entity processing your information on Our behalf is compelled to do so by law
-  * In response to a valid, legally compliant request by a competent authority
-  * In special cases such as a physical threat to you or others
-  * Otherwise in accordance with applicable laws and regulations
+We may share your personal information with third party service providers for the purpose of approving and enabling your participation in the Pokki App Store. For example, processing and approving your Pokki App submissions, email, analyzing data, and providing other partner services. Our service providers do not have any right to use personal information we share with them beyond what is necessary to assist us and perform services on our behalf.  We require these service providers by contract to appropriately safeguard the privacy and security of personal information they process on our behalf.
 
+c.     For All Information We Collect.  We may also use or share your information as follows: 
 
+         Protection of Pokki and Others. We may share your personal information if we have a good faith belief that it is required to: (1) comply with law, regulation, subpoena or court order; (2) detect, prevent or otherwise address fraud, security or technical issues; (3) enforce the provisions of this Pokki Privacy Policy and/or any other agreements between you and Pokki, including investigation of potential violations thereof; or (4) protect against harm to the rights, property or safety of Pokki, its visitors, users and/or the public.
 
-Our commitment to your privacy: 
+         Business Transfers. If Pokki or substantially all of its assets are acquired, or in the unlikely event that Pokki goes out of business or enters bankruptcy, user information would be one of the assets that would be transferred to, or acquired by, a third party acquiror. Accordingly, we may transfer or assign all the information we have collected as part of a merger, acquisition, sale or other change of control. You acknowledge that such transfers may occur, and that we will use reasonable efforts to direct any acquiror to continue to use your personal information as set forth in this policy.
 
-1\. What data We collect from you. 
+       Usage Information. We may share usage information that we collect with partners and other third parties for the purpose of helping us improve the Pokki platform and the overall performance of our products and services, or allow us to provide recommendations. For example, utilizing data to determine the probability that a consumer will enjoy a specific Pokki App or product.  We do not authorize these partners and other third parties to use or disclose the information except as necessary to perform certain services on our behalf or comply with legal requirements.  We require them by contract to appropriately safeguard the privacy and security of the information they process in assisting us.  
 
-Depending on how you use Our websites, Personal Information may include: 
+         With Your Consent. Except as set forth above, we will only share your personal information with third parties with your prior consent.  If our business practices change in a way that we would need to share your personal information for purposes that are not compatible with the purposes for which we collected the information, we will ask for your additional consent.  
 
-A. Information provided by you when you register for a Personal Account, enter competitions or promotions, or take part in market research 
+         Marketing. We may use your personal information to send you marketing communications.  We will obtain your consent where required by applicable law.  
 
-B. Information about your online activities such as, your browsing patterns, click paths, searches you perform when using Our websites, and when you order products from Our online merchants/advertisers. Web usage data is received from your browser and recorded on Our server logs, including but not limited to, your Internet Protocol address, information about your geographic location, and "cookie" technology (visit Our Cookie Policy for more information on Our use of cookies and how to decline them). We may combine this web usage data with other information collected about you, for example, whether you arrived at Our site through a marketing email or promotional campaign, data about your user registration, or previous web usage data stored against a previous cookie set on your machine. 
+ 5.     INFORMATION SECURITY
 
-C. We may receive confirmation when you open an email sent by Us, such as news or promotions. It is clearly stated on each email how you can opt out of receiving further emails from Us (see section 3 to read more about your choices and marketing preferences) 
+We endeavor to take reasonable and appropriate security measures to guard against unauthorized access to the systems where we store your personal information. This includes technical and organizational measures such as internal reviews of our data collection, storage, and processing practices and security measures, as well as physical and electronic security measures in compliance with applicable security requirements. In addition, we authorize access to personal information only for those of our employees who require it to fulfill their job responsibilities.  However, despite the measures we take we cannot warrant the security of any information provided to us. 
 
-D. Records of your communications with Us (whether in writing, by email or by telephone) 
+6.     YOUR RIGHTS AND CHOICES
 
-E. Information from other sources for example purchases from retailers that you were referred to by Us. 
+Through the process provided on our site, we allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information. The types of information that you can access and update may change as our site changes. You may also contact us as set forth in the “Contact” section below to request access to, or update, your personal information.
 
-F. Technical and diagnostic information gathered or received when you use Our websites. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Internet Explorer, Firefox), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), the manner in which you connect to the Internet (e.g., your Internet Service provider and your connection speed through dial-up or broadband access) or data relating to computer malfunctions or problems occurring when you use your computer to access Our websites. Additionally, We may collect information about other software on your computer for protecting your security or improving your online experience. 
+You may request deletion of your account by sending an e-mail to [help@pokki.com](mailto:help@pokki.com) and responding affirmatively to any confirmation e-mails that we may send. Please note that some information may remain in our records after deletion of your account.  
 
-2\. In order to enhance your online experience with Our websites, We use your Personal Information to analyse and constantly improve the operations and services We offer. 
+If you are a user of our Pokki Sites, you also have the choice to stop accepting new cookies, to be notified when you receive a new cookie, and to disable existing cookies by using the privacy settings of your browser.  All major browsers allow you to block or delete cookies from your system. Please refer to the help section of your browser for more information.
 
-How We use the data We have collected: 
+Where we have requested your consent to use or share your personal information, you have the right to withdraw such consent, however, you may no longer be able to benefit from certain products and services. In addition, you may opt-out from receiving marketing communications from us, for example, by clicking on the relevant link included in such e-mail communications. 
 
-A. Information provided by you, as outlined in 1A. This helps Us build up a picture of your preferences and interests so that when you visit Our websites We can accurately respond to your requests by customising the offers and relevant information you see. We will also use this information to undertake sales and marketing research and to tailor Our marketing campaigns and email communications specifically to you, and your recent activity on Our site. We retain your registration information so that you can return to saved lists or content generated by yourself which provides you with a more personalised experience. We may contact you to ask for feedback on your experiences whilst using Our websites. 
+7.     CHILDREN'S ONLINE PRIVACY PROTECTION ACT
 
-B. Information provided when you interact with Our websites as in 1B. We try to ensure that Our website offers visitors exactly what they are looking for. Web usage data is used for statistical purposes and helps Us to measure the success of Our advertising campaigns, sales and marketing research, tracking page usage and targeting content for Our audience. It is not used in a manner that would identify you personally. It enables Us to understand how useful you find different sections of Our websites to be, so We can make Our websites and associated advertising/marketing appealing and relevant to as many users as possible. In addition, We may provide this type of statistical information to Our partners so that they too understand how people interact with their areas on Our websites, and may also provide you with an optimal Web experience. See section 4 to read more about who your Personal Information can be disclosed to. 
+In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect information about children under the age of 13.  We encourage parents and guardians to be familiar with the websites that their children visit.  The Federal Trade Commission ("FTC") regulates the means by which website operators collect and use personal information from children under 13, pursuant to COPPA.  For more information about COPPA and children's on-line privacy in general, visit the FTC's website at www.ftc.gov/privacy.  For safety tips on privacy visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/).
 
-Collection of the cookie data also helps save you time, for example if you are halfway through making a product selection, Our cookies will allow you to browse other areas of the website and return back to your search page and previous product selections. 
+8.     TRANSFERS
 
-C. Email confirmation as in 1C. If your computer supports this type of programme We use this information to help Us make emails more interesting and helpful. See section 3 to read more about your choices and marketing preferences 
+Our Pokki Sites, Pokki Apps, Pokki Menu, and other services and products are hosted by servers located in the United States.  If you are located outside the United States, your information will be transferred to our servers in the United States.  The United States may not have the same privacy and data protection laws as the country in which you are located when you are using our products and services. When we transfer your information to the United States, we will protect that information as described in this Pokki Privacy Policy. If you are located in the European Economic Area, or other regions of the world with laws governing international data transfers, we comply with applicable legal requirements such as to ensure adequate protection for data transfers.  By visiting our Pokki Sites, or using a Pokki App, the Pokki Menu, or any of our services or products, you consent to the transfer, storage and use of your information in the United States. 
 
-D. Communications with Us as in 1D are used to improve Our service to you and on occasion for the training and monitoring of Our staff. We may keep records in your account history of your complaints about other registered users online behavior, and any reported violation of Our Terms and Conditions of Usage that you or someone using your account may have committed. 
+9.     POLICY CHANGES
 
-E. Information from other sources as in 1E is used to enable Us to improve the personalisation of Our service and improve the product offering within Our websites. 
+We may make changes to this policy from time to time. If we make material changes in the way we use personal information, we will notify you by posting an announcement on our site or sending you an email and indicating the date of the latest changes to our policy. Users are bound by any changes to the Pokki Privacy Policy when he or she uses our site or services after such changes have been first posted, or in the case of substantial changes, 30 days upon posting those changes.
 
-F. Technical and diagnostic information as in 1F may be used to help diagnose problems with Our servers, to analyze trends, for system administration and to improve your online experience on Our websites. We don't link these addresses to any person's name or identity. 
+10.     CONTACT
 
-3\. Your choices and marketing preferences 
+Pokki, Inc. is the entity responsible for the processing of your personal information under this Pokki Privacy Policy.  Pokki, Inc is not responsible for the practices of any third party whose services and products you may use.  If you have feedback, questions or concerns about this Pokki Privacy Policy, contact us at Privacy, c/o Pokki, Inc., 510 Market St, Ste 301, San Diego, CA 92101 or email us at privacy@pokki.com.
 
-You can tell Us about your preferences regarding how your Personal Information is used for marketing purposes, and review and change your marketing preferences at any time by visiting your Personal Account or emailing [help@empora.com](mailto:help@empora.com). As stated previously, if you decide to not disclose some information, you may be unable to use certain features on Our websites for example, in order to receive an email alert for a product price watch you are required to submit your email address. 
-
-We offer you the opportunity to receive information about exclusive promotions, special offers and other news from Us. Unless you tell Us otherwise We may use your purchase history to communicate information We think may interest you. We'll only do this by email, SMS and other similar forms of communication where We're letting you know about Our services and promotions or promotions and news from Our partner merchants if you've told Us that you'd like this to happen. 
-
-You can sign up for direct marketing by registering on this website. You will also be asked if you want to receive direct marketing if you set up a Personal Account or if you enter a competition or register for a promotion with any of Our websites. Your details may be shared within Our group websites. We will normally send direct marketing by email if We have your email address. We may send you offers on behalf of other businesses such as Our partner merchants. However, when We do so, We do not give the other business your name and contact details. If you do not wish to receive these offers, please notify Us by e-mail at [help@empora.com](mailto:help@empora.com). See Section 4 to read more about who your data can be disclosed to. 
-
-If you would like Us to stop sending direct marketing to you, We offer simple ways to do this. Whenever you receive direct marketing you will be told how to unsubscribe. In addition, if you have a Personal Account you can change your marketing preferences at any time by amending your membership profile online, or by telephoning or writing to Us ([Contact Us](https://web.archive.org/corporate/contact/)). As the choices you make about your preferences and settings may not take effect immediately, it is possible you may receive a communication which you have requested not to receive during the period in which your request is being processed. 
-
-If you consented to receive marketing communications when you entered a competition or registered for a promotion you can tell Us that you do not wish to receive any more by writing, with your full name, address and other contact details ([Contact Us](https://web.archive.org/corporate/contact/)) 
-
-If you tell Us that you do not wish to receive further direct marketing, We will continue to send you important information about your Personal Account and any relevant legal notices. Please note that if you do not wish to receive any legal notices from Us, such as this Privacy Policy, those legal notices will still govern your use of Our websites, and you are responsible for reviewing such legal notices for changes. 
-
-From time to time We may run optional surveys. Surveys by or on behalf of Us are conducted in accordance with the Market Research Society and ICC/ESOMAR guidelines. These guidelines ensure that participation in any research is confidential and voluntary and that results do not identify individual respondents. For the purpose of surveys We may combine cookie or other data with your answers but We will ensure that this does not affect the anonymity of the results. 
-
-4\. Who can your data be disclosed to? 
-
-We neither rent nor sell your Personal Information to anyone. We may pass on your Personal Information (including contact details) to other companies whose products and services may be of interest to you but We will only do this where you've clearly indicated that you'd like this to happen. We share your personal information only as provided herein or with your consent, to the entities that are controlled by Us or to the entities described below: 
-
-A. Disclosure of your data to other businesses may be necessary to ensure the smooth provision to you of the products, services and information you request, such as Our merchant partners you may have been referred to from Our site. We work closely with a variety of such businesses that operate within Our websites or sell items to you within Our services. You can easily recognize when a third party business is associated with your transaction, as a new window will open to their site. For all online purchases that you may make from third parties when referred from Our websites, ensure that you review their privacy policies and contact them directly if you have any questions. They may have privacy policies that differ from Us, and they may therefore use Personal Information which you provide to them differently. 
-
-B. We employ other companies and people to perform tasks on Our behalf and need to share your information with them to provide products or services to you. Examples include sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, and providing marketing assistance. We may also provide your personal information to agents who will use it to verify aggregate usage data that We provide to Our partners. You hereby consent to Our sharing of your personal information for all the above purposes. 
-
-C. If We purchase or sell business units, take over other companies, (or are taken over) or carry out corporate reorganizations, your Personal Information may be disclosed or transferred along with other business assets, to actual or potential purchasers. However the Privacy Policy will remain binding and your Personal Information will be subject to appropriate confidentiality obligations. 
-
-D. We may release personal information when We believe in good faith that release is necessary to comply with the law; enforce or apply Our Terms and Conditions of Usage and other agreements; or protect the rights, property, or safety of Our websites, Our employees, Our users, or others. 
-
-E. Any personal information or content that you voluntarily disclose online (on discussion boards, in blogs, comments, messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your display name may be displayed to other users when you upload text, images or videos, leave comments or send messages through the Website and other users can contact you through messages and comments. Any images, captions, physical descriptions, personal interests or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public. 
-
-F. Accordingly, in operating this site, as outlined in this privacy policy, We may send data about site visitors through or to other countries, both inside and outside Europe. 
-
-5\. Private online communications 
-
-We do not read your private online communications. We honour the confidentiality of your private online communications in private chat rooms or email (including downloads). We do not read, or disclose to third parties, private communications when you use Our websites, without your consent, except where We or an affiliate processing your data on Our behalf is compelled to do so by law, or in response to a valid, legally compliant request by a competent authority, or during emergencies when We believe physical safety is at risk. Of course, what you write or post in public or member chat rooms and message boards is available to the public. 
-
-6\. How We keep your data secure 
-
-To help protect your Personal Information =,We use a variety of safeguards, including: 
-
-  * technical, administrative, and physical controls (such as restricted access facilities, intrusion prevention and detection systems, and dedicated security personnel and incident response teams) 
-  * encryption and authentication systems 
-  * passwords, and other methods including Account Security Questions and 
-  * agreements with contractors and vendors requiring them to protect the confidentiality, safety, and security of your information 
-
-
-
-Each and every one of Our employees must comply with Our Privacy Policy. We authorise Our employees to obtain access to your Personal Information only to perform their particular functions, and use technological and other control procedures to help limit such access. Employees who violate Our policies and practices are subject to disciplinary action. 
-
-We have established these safeguards to help prevent unauthorised access to or misuse of your Personal Information, but cannot guarantee that your Personal Information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorised acts by third parties that violate applicable law or Our policies). 
-
-We are a global organisation, and some of the computers and companies that process information on Our behalf are based in the USA and other countries outside the European Economic Area (the "EEA"). This means that your Personal Information (which may include information you provide about your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or concerning health or sex life) may be transferred to, processed and held both inside and outside the EEA. These countries may not have similar data protection laws to the EEA. However, if We transfer your information outside of the EEA in this way, We will take steps to ensure that your privacy rights continue to be protected in compliance with applicable data protection law and this Privacy Policy. 
-
-If you choose to create one, your Personal Account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. 
-
-You post information at your own risk. Although We allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your pages and information. Therefore, We cannot and do not guarantee that information you post on the website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the website. You understand and acknowledge that, even after removal, copies of your information may remain viewable in cached and archived pages or if other users have copied or stored your information. 
-
-7\. Links to and from partner websites 
-
-We use links to other Internet sites to improve your experience of Our website. We will always seek to make these links clear by opening them in a new window of your web browser. However, please be aware that these websites may be owned and run by other companies and organizations and are not under Our control. We do not endorse any such websites and We are not responsible for the information, material, products or services contained on or accessible through those websites. Your access and use of such websites remains solely at your own risk. 
-
-It is also likely that other websites may contain links to Our websites. Again, links to Our websites do not constitute an endorsement by Us of the website or the services offered through them. The privacy and security practices of websites linked to or from Our websites are not covered by this Privacy Policy, and We are not responsible for the privacy / security practices or the content of such websites, and cannot accept responsibility for any information you divulge to them. 
-
-8\. Amending your data 
-
-You can access your personal information through your Personal Account to correct, amend, or delete information that is inaccurate online or email [help@empora.com](mailto:help@empora.com) . Please note that some information may remain in Our records after editing or deleting your account information. 
-
-If you cancel your Personal Account, or We cancel your Personal Account (see Our Terms and Conditions of Usage), unless and until you indicate otherwise, your name and contact details may: be used by Us during and for a reasonable period of time after your Personal Account is cancelled for the purposes described in this Privacy Policy; and passed to selected third party suppliers of goods and services in accordance with this Privacy Policy until 6 months after your Personal Account is cancelled. 
-
-If you require any further guidance on updating the details We hold about you, please contact Us. [Contact Us](https://web.archive.org/corporate/contact/)
-
-9\. Personalising your experience with Us 
-
-We may use both Personal Information and other aggregated information to personalise your experience. This may include tailoring the content, communications, advertisements or promotions you receive. We may do this based on the details you have submitted, your expressed preferences and your online activity, how often you use the service, or the type of computer system you use, together with the activities and experiences of Our other users who We believe may have similar interests and preferences to you. We may supplement this data with publicly available consumer data, including demographic information, to help Us decide how to make your experience more relevant. 
-
-We may use navigational information about where you go on Our websites to better understand how they are used, and what content and advertisements Our users enjoy so that We can make Our sites better. 
-
-We may use cookies, web beacons or similar technologies to enhance and personalise your online experience and to enable Us to recognise you as a previous visitor to Our websites. (For more information on cookies please see [Our Cookie Policy](https://web.archive.org/corporate/cookies/).) The benefits and personalization provides the following 
-
-  * memory of the preferences and registration data that you give Us 
-  * authenticates your Screen Name before you can access your Personal Account for added security 
-  * enables you to participate in certain online activities, such as making sure that each person only votes in an online poll once 
-  * personalises features such as customised content (e.g. saved favourites) 
-
-
-
-**Extra notes on your Personal Information:**
-
-We may retain your Personal Information as long as is necessary for the purposes for which We collected it, or as is otherwise required by applicable law. We may process your Personal Information for a reasonable period after your use of Our websites ceases. 
-
-There may be developments in how We use your data - all such developments will be notified to you by updating this policy, which can be amended from time to time at Our discretion. Whenever We materially change the Privacy Policy, We will notify you by posting an announcement on Our websites or by sending you an email so you are always aware of what information We collect, how We use it, and under what circumstances if any, it is disclosed. Use of information We collect now is subject to the Privacy Policy in effect at the time such information is used. 
-
-If We collect any sensitive Personal Information, (for example about your health or lifestyle) We will not use this information without your explicit consent. 
-
-If We propose to use your Personal Information in a way which is not covered by this Privacy Policy, We will tell you how We propose to use it at the time We collect it. 
-
-If you have any questions about this Privacy Policy or its implementation, or if you have a concern or policy violation you wish to tell Us about, or wish to see the Personal Data We keep about you (as defined in the Data Protection Act 1988) you may Contact Us 
-
-By visiting Our websites, submitting information or using any of Our products and services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. If you have any questions or concerns regarding your privacy, please send a detailed message to [help@empora.com](mailto:help@empora.com). Your privacy is important to Us and We will make every effort to resolve your concerns. Please note – this privacy policy applies to Our use of your information from 13 January 2010. 
+Effective Date of this Pokki Privacy Policy:  July 9, 2013
