@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524084505id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220082338id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
 
 # MyShopping.com.au Privacy Policy
 
-[](http://www.myshopping.com.au/)|   
----|---  
-  
+| 
+
 June 22, 2007
 
 ## Maintaining your privacy
 
-iVirtual Pty Ltd owns and operates this site 'My Shopping'. We have created this Privacy Policy to demonstrate our commitment to maintaining the privacy and accuracy of your personal information. We take all reasonable precautions to ensure the personal information we collect, use and disclose is accurate and current. However, the accuracy of that information depends largely on the information you provide. Privacy of children This site is not directed at or intended for use by persons under the age of 13. We do not knowingly collect, store or disclose personal information of persons under the age of 13. If you are under 13 years of age, then please immediately exit from the site and do not use or access this site unless and until we receive verified parental consent for your continued use. We will take relevant action to delete the personal information of persons under the age of 13 where we learn such information has been collected and stored through the site without verified parental consent. 
+MyShopping Australial Pty Ltd owns and operates this site 'My Shopping'. We have created this Privacy Policy to demonstrate our commitment to maintaining the privacy and accuracy of your personal information. We take all reasonable precautions to ensure the personal information we collect, use and disclose is accurate and current. However, the accuracy of that information depends largely on the information you provide. Privacy of children This site is not directed at or intended for use by persons under the age of 13. We do not knowingly collect, store or disclose personal information of persons under the age of 13. If you are under 13 years of age, then please immediately exit from the site and do not use or access this site unless and until we receive verified parental consent for your continued use. We will take relevant action to delete the personal information of persons under the age of 13 where we learn such information has been collected and stored through the site without verified parental consent. 
 
 ## Collecting personal information
 
@@ -97,3 +96,5 @@ Phone: Privacy Hotline (in Australia) on 1300-363-992; or
 Web: www.privacy.gov.au  
 Post: The Federal Privacy Commissioner, GPO Box 5218, Sydney NSW 1042, Australia  
 
+
+| 
