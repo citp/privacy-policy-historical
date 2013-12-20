@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildflowercases.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105720id_/http%3A//www.wildflowercases.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildflowercases.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220073049id_/http%3A//www.wildflowercases.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wildflower cases
 
@@ -62,4 +62,4 @@ Email Address: wildflowercases [at] gmail.com 
 
 Telephone number: 323-552-9722 
 
-Effective as of April 18, 2012
+Effective as of April 18, 2012.
