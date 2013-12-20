@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513045156id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220115402id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -25,7 +25,7 @@ To download a copy of this Act, please click on [Information Privacy Act 2009 
 
 ### Your personal information
 
-Details about the personal information held by the department are outlined in the Department of Transport and Main Roads [Information Privacy Plan (PDF, 359 KB)](https://web.archive.org/~/media/Help/InformationPrivacyPlan.pdf). The plan details the steps this department will take to address its obligations under the Information Privacy Act 2009. 
+Details about the personal information held by the department, and the steps this department will take to address its obligations under the _Information Privacy Act 2009_ , can be obtained by emailing [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au). 
 
 ### When using online services
 
