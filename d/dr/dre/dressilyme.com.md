@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424051806id_/http%3A//dressilyme.com/help/helpdetails-43-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220230254id_/http%3A//www.dressilyme.com/help/helpdetails-43-4.html) for the most accurate reproduction.*
 
 # dressilyme.com
 
-[Ask Question](http://dressilyme.com/help/askquestion.html)Print this article
+[Ask Question](http://www.dressilyme.com/help/askquestion.html)Print this article
 
-### [<< Back to List](http://dressilyme.com/help/about-us.html)Privacy Policy
+### [<< Back to List](http://www.dressilyme.com/help/about-us.html)Privacy Policy
 
 Last updated:Apr 02, 2012 02:16 AM
 
@@ -43,5 +43,5 @@ Finally, we never use or share the personally identifiable information provided 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **How to Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at (86)755-86364044 or send us an email at [customer-care@dressilyme.com](mailto:customer-care@dressilyme.com).   
+Should you have other questions or concerns about these privacy policies, please call us at (86)755-86539709(CN) or send us an email at [customer-care@dressilyme.com](mailto:customer-care@dressilyme.com).   
 
