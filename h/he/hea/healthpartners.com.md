@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621113640id_/http%3A//www.healthpartners.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112502id_/http%3A//www.healthpartners.com/public/privacy) for the most accurate reproduction.*
 
-# Website privacy policy | HealthPartners
+# Website privacy policy
 
 **Effective as of: 06/12/2012**
 
@@ -12,9 +12,9 @@ We may change or supplement our Web Privacy Practices from time to time and we w
 
 ### **PRIVACY OF HEALTH INFORMATION**
 
-If you are a member of a HealthPartners health plan, please consult the [Health Plan Notice of Privacy Practices](https://web.archive.org/ucm/groups/public/@hp/@public/documents/documents/cntrb_032540.pdf) for a description of our privacy practices and the rights of our health plan members. If your employer is self-insured, please check with your employer for more information about your employer's health plan’s privacy practices.
+If you are a member of a HealthPartners health plan, please consult the [Health Plan Notice of Privacy Practices](https://web.archive.org/ucm/groups/public/@hp/@public/documents/documents/cntrb_009405.pdf) for a description of our privacy practices and the rights of our health plan members. If your employer is self-insured, please check with your employer for more information about your employer's health plan’s privacy practices.
 
-If you are a patient at a HealthPartners-affiliated clinic hospital, please consult the [Care Delivery Notice of Privacy Practices for Clinics, Hospitals and Other Care Providers Affiliated With HealthPartners](http://www.healthpartners.com/files/22751.pdf) for a description of our privacy practices and the rights of our clinic and hospital patients.
+If you are a patient at a HealthPartners-affiliated clinic hospital, please consult the [Notice of Privacy Practices for Clinics, Hospitals and Other Care Providers Affiliated with the HealthPartners and Park Nicollet Family of Care](http://www.healthpartners.com/files/22751.pdf) for a description of our privacy practices and the rights of our clinic and hospital patients.
 
 ### **WEB SITE PRIVACY**
 
