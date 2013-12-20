@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621083534id_/http%3A//www.nickjr.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112819id_/http%3A//www.nickjr.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Info for parents | Nick Jr
 
@@ -126,3 +126,5 @@ You have the right to request a copy of the information that Nick UK holds about
 (b) Nick UK shall comply with the requirements of the Data Protection Act 1998 (or any successive legislation which may come into effect from time to time). 
 
 (c) This policy is governed by and construed in accordance with the laws of England and if there are any disputes the courts of England shall have exclusive jurisdiction. 
+
+Last updated: July 2013
