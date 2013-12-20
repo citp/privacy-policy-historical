@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrestrict.li privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621043433id_/http%3A//unrestrict.li/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrestrict.li privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112821id_/http%3A//unrestrict.li/privacy_policy) for the most accurate reproduction.*
 
 # Unrestrict.li | Privacy Policy | Unrestricting your links!
 
