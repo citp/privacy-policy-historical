@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspca.org privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629114942id_/http%3A//www.mspca.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspca.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221002925id_/http%3A//www.mspca.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
