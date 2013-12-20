@@ -1,20 +1,26 @@
-> *The following text is extracted and transformed from the ufhealth.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620111331id_/http%3A//privacy.ufl.edu/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufhealth.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220020503id_/http%3A//privacy.ufl.edu/privacystatement.html) for the most accurate reproduction.*
 
 # Online/Internet Privacy Statement » Privacy » University of Florida
 
 ### A Note to Children and Parents
 
-The University of Florida websites are operated by the University of Florida and affiliated entities (see definitions below). The web sites are intended for use by adults, unless they are specifically labeled for children.
+The University of Florida Web sites are operated by the University of Florida and affiliated entities (see definitions below). In general, the Web sites are intended for use by adults, unless they are specifically labeled for children.  UF does not knowingly collect Personal Information from children under the age of 13.  If we learn that we have collected Personal Information of a child under the age of 13 that was not supplied to us voluntarily, we will delete that data from our systems. See the section below labeled _Children’s Online Activities and Programs_ for more specific information.
 
 Children – Some internet sites may ask you to share information about yourself. Before sending any information about yourself over the Internet to us or anyone else, be sure to ask your parents for permission.
 
-Parents – the University of Florida recommends that parents take an active role in their children’s use of the Internet. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet.
+Parents – the University of Florida recommends that parents take an active role in their children’s use of the Internet. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet.  Here are some tips:
+
+  * Teach children never to give Personal Information (such as name, address, phone number, school name, etc.) unless supervised by a parent or responsible adult.
+  * Know the sites your children are visiting and which sites are appropriate.
+  * Look for website privacy policies and know how your child’s information is treated.
+
+
 
 ### Commitment to Privacy
 
 The University of Florida values individuals’ privacy and actively seeks to preserve the privacy rights of those who share information with us. Your trust is important to us and we believe you have the right to know how information submitted through a university Web site is handled.
 
-We provide the following privacy notice to define UF’s web-based information policies and practices, and to assist you in protecting your privacy.
+We provide the following privacy notice to define UF’s Web-based information policies and practices, and to assist you in protecting your privacy.
 
 ### Privacy Notice
 
@@ -24,11 +30,11 @@ The following information explains the Internet privacy policy and practices the
 
 University Web space includes hundreds of sites with varying levels of University involvement and commitment as outlined below.
 
-#### Official University Web Sites
+### Official University Web Sites
 
 Except as noted, the information in this privacy notice applies to all official University of Florida Web sites, which are defined as the Web pages of university colleges, schools, departments, divisions or other units and any other sites specifically designated as official by a vice president, dean, department head or director. Official pages are generally recognizable by a standard page header and/or footer carrying the University logo, contact information and reference to this privacy statement.
 
-#### Unofficial Web Sites
+### Unofficial Web Sites
 
 Within the University of Florida domain – signified by the address “ufl.edu” or within the range of Internet protocol addresses assigned to the University of Florida – you may find Web sites over which the University has no editorial responsibility or control. Such sites are considered unofficial and include, but are not limited to, the Web pages of individual faculty members or students and the Web pages of student organizations and other entities not formally a part of the University. While UF encourages compliance with this Web Privacy Statement at such sites, in order to better understand the policies and practices under which they operate, please consult the privacy statements of individual sites or seek information directly from the persons responsible for those sites.
 
@@ -38,7 +44,7 @@ The Web Privacy Statement speaks generally to the information collected by or su
 
 When you access official UF Web pages, certain client information and essential and nonessential technical information (collectively referred to as access information) listed below is automatically collected. No other information is collected through our official Web sites except when you deliberately send it to us (for example, by clicking a link to send us an e-mail). Examples of the information you might choose to send us are listed below as “optional information.”
 
-#### Access Information (automatically collected)
+### Access Information (automatically collected)
 
 Client information: the Internet domain and Internet address of the computer you are using.
 
@@ -46,17 +52,17 @@ Essential technical information: identification of the page or service you are r
 
 Nonessential technical information: the Internet address of the Web site from which you linked directly to our Web site, and the “cookie information” used to direct and tailor information based on your entry path to the site.
 
-#### Optional information (deliberately sent)
+### Optional information (deliberately sent)
 
 E-mail: your name, e-mail address, and the content of your e-mail.
 
-Online forms: all the data you choose to fill in or confirm. This may include credit or debit card information if you are ordering a product or making a payment, as well as information about other people if you are providing it for delivery purposes, etc.
+Online forms: all the data you choose to fill in or confirm. This may include credit or debit card information if you are ordering a product or making a payment, as well as information about other people if you are providing it for delivery purposes, etc.  See below for more specific information about children’s online activities.
 
 ### The Way We Use Information
 
 As a general rule, UF does not track individual visitor profiles. We do, however, analyze aggregate traffic/access information for resource management and site planning purposes. UF reserves the right to use log detail to investigate resource management or security concerns.
 
-#### Access Information
+### Access Information
 
 Client information is used to route the requested Web page to your computer for viewing. In theory, the requested Web page and the routing information could be discerned by other entities involved in transmitting the requested page to you. We do not control the privacy practices of those entities.
 
@@ -68,7 +74,7 @@ Essential and nonessential technical information lets us respond to your request
 
 We also use non-identifying and aggregate information to better design our Web site. For example, we may determine that X number of individuals visited a certain area on our Web site, or that Y number of men and Z number of women filled out a particular registration form. But we do not disclose information that could identify those specific individuals.
 
-#### Optional Information:
+### Optional Information:
 
 Optional information enables us to provide services or information tailored more specifically to your needs, to forward your message or inquiry to another entity that is better able to do so, and to plan Web site improvements.
 
@@ -78,13 +84,40 @@ We generally use return e-mail addresses only to answer the e-mail we receive. S
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the purpose described without a clear notice on the particular site and without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-### Providing Information is Your Choice
+### Public Records Notice:  Providing Information is Your Choice
 
 There is no legal requirement for you to provide any information at our Web site. However, our Web site will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our Web site but may prevent certain features from working. For any optional information that is requested at the Web site, failure to provide the requested information will mean that the particular feature or service associated with that part of the Web page may not be available to you.
 
 Special Note: [S668.6076, F.S.](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0600-0699/0668/Sections/0668.6076.html) requires the University of Florida to post the following notice:
 
-Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to the University. Instead, contact the specific office or individual by phone or in writing.
+_Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to the University. Instead, contact the specific office or individual by phone or in writing._
+
+### Children’s Online Activities and Programs
+
+Some UF Web sites present UF-sponsored information or activities that are specifically designed for children.  However, the Web sites are intended to be used only by adults to voluntarily share information online, so that a child who is under the age of 13 can participate in these activities (e.g., summer camps, classes, programs) or so that the child can receive information mailed or e-mailed from UF (newsletters, class schedules, recruitment information). When a parent or legal guardian voluntarily signs their child up for one of these programs, the parent may be asked to provide:
+
+  * The child’s full name
+  * Full home mailing address
+  * Phone number
+  * Birthdate
+  * School, current grade level
+  * Email address
+  * Parent or legal guardian’s name and e-mail address
+
+
+
+The parent or legal guardian supplying the child’s information will be asked to acknowledge that they are, in fact, the parent or guardian who is legally authorized to disclose this information about the child.  UF, through its Web sites, does not condition participation in any of our online activities on the disclosure of more information than is reasonably necessary to participate in the activity.  This information will not be transferred, disclosed or shared with a third party and will not be used for other purposes.
+
+Parents or guardians have the right:
+
+  * To review personal information that has been recorded by a UF Web site about their child,
+  * To refuse to allow further collection of the information,
+  * To be given the choice of consenting to the collection and internal use of information, but prohibiting the disclosure of that information to third parties (unless disclosure is integral to the site or service, in which case, this will be clearly stated), and
+  * To require the deletion of any information that has been recorded.
+
+
+
+Contact information for UF is available below.  Contact information for specific Web sites is generally posted prominently on the site.
 
 ### Our Commitment To Data Security
 
@@ -94,4 +127,4 @@ The University of Florida is dedicated to preventing unauthorized data access, m
 
 Should you have other questions or concerns about these privacy policies and practices, please call us at (352) 273-1212 or (866) 876-4472 (toll-free), or send us an e-mail at [privacy@ufl.edu](mailto:privacy@ufl.edu).
 
-If you wish to review or change information gathered about you via an official University of Florida web site but you do not know how, the Privacy Office will assist in locating the persons responsible for that site so that you may make your request directly to them.
+If you wish to review or change information gathered about you via an official University of Florida Web site but you do not know how, the Privacy Office will assist in locating the persons responsible for that site so that you may make your request directly to them.
