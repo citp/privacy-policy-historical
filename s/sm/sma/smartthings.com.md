@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531105840id_/http%3A//smartthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220142336id_/http%3A//smartthings.com/privacy) for the most accurate reproduction.*
 
-# SmartThings - Privacy
-
-### Privacy
+# SmartThings' Privacy Policy
 
 _Effective Date: March 6, 2013_
 
