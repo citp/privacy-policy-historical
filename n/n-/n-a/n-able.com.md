@@ -1,61 +1,49 @@
-> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511023018id_/http%3A//www.n-able.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220171600id_/http%3A//www.n-able.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | N-able Technologies | Remote Network Monitoring & Desktop Management
 
   
 
 
-## What information do we collect online?
+## Please Read Carefully Prior To Using This Website
 
-  * **Web Site Usage:** We collect information automatically from visitors as they arrive at n-able.com. This information includes: IP addresses, Internet service providers, referring Web sites, Web browser and Operating System types, the pages accessed on the site and the time of each request. This information is used in the continued development and improvement of this site, and does not include any personal information.
-  * **Personal Information:** N-able Technologies does not collect any personal information about you when you visit www.n-able.com, unless you provide this information voluntarily. Any personal information collected on this site, which may include your name, email, postal address or phone number, is done so specifically when it is required.
-  * **Information via Email:** Emails, including resumes, sent to N-able Technologies may contain personal or other information. This information is provided on a voluntary basis. Unless otherwise specified, this information is used for contact purposes.
-  * **Information from Third Parties:** We may occasionally receive personal information from third parties in order to facilitate the delivery of products or business communications.
-  * **Surveys:** N-able Technologies conducts online surveys for our site visitors and our partners. These surveys are conducted on a voluntary basis. Information gathered during these surveys is used internally for product and site enhancements.
+The use of this N-able Technologies, Inc. and its subsidiaries and affiliates (“Company”) website (“Website”) is conditioned upon the acceptance of the terms and conditions contained in this Privacy Statement by the visitor to the Company Website (“User”); this Privacy Statement is part of and incorporated by reference into the Terms of Use of the Company Website. This Privacy Statement constitutes a legally binding agreement between User and Company. This Privacy Statement lists our current policies, but, as noted below, this Privacy Statement may be adjusted from time to time at Company’s discretion. By utilizing the Company Website, User expressly agrees to this Privacy Statement. Those who do not agree to be subject to this Privacy Statement may not, under any circumstances, use this Company Website.
 
+1\. Data Collection.
 
+User should be aware that portions of this Website contain functions for collecting and/or receiving User’s personal information, including User’s name and email address, information about User’s product purchases, any credit information provided as well as User’s access history of this Website. Company may also collect and track non-personally identifiable information about User including User’s IP address, the type of browser User employs, and the referrer ID.
 
-* * *
+2\. Entry by User/Update.
 
-## How do we use this information?
+Certain areas of this Website will require entry by the User of certain personal information as indicated above. Company requires that the actual User input such information and that such information be the most recent available and accurate. Please inform Company of any change of name, address, or other information. In addition, User may request that Company update, modify, or delete User’s registered information by sending an email to webmaster@n-able.com with the words “UPDATE USER INFORMATION” in the subject line.
 
-N-able Technologies does not sell or rent any customer or visitor information to other companies. We use the information we collect online in the following ways:
+3\. Use of User Information.
 
-  * **To respond to requests, orders or comments** when information is provided directly via email or an online form. Information may be provided to third parties in order to fulfill orders or to provide services on behalf of N-able Technologies. N-able will only provide necessary information to these companies. These companies are not permitted to use or distribute this information for any purpose other than to provide the services. N-able makes reasonable efforts to ensure that these third parties adhere to this policy.
-  * **For product and support improvement.** Information collected online, including survey and Web usage information is used in the continual development of our products and support.
-  * **To customize Web pages** with information relevant to you based on your geographical location, or your partnership with N-able Technologies.
-  * **To maintain email lists** in order to inform interested parties about our company, products and other information. These lists consist of email addresses that were provided on a voluntary basis. Individual responses to these emails may be tracked for follow-up purposes. Recipients may opt-out of these mailings by following the unsubscribe instructions within an email. We do not sell, rent or distribute email lists to other parties.
+Company reserves the right to compile, save, use within the scope of Company’s activities, and analyze any and all User data (registration data, use history, etc.). Company, its affiliates, subsidiaries, agents and contractors intend to use such User data for internal purposes only, including without limitation, for the purposes of providing User support, responding to User requests for information, and for contacting User. Company may provide aggregated statistics about users (including User) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including User.
 
+4\. Choice/Opt-Out.
 
+Company may periodically send User information regarding Company and its products. If User has been receiving such information and does not wish to continue receiving such information, please contact Company at webmaster@n-able.com, and let Company know that User no longer wishes to receive such information. Alternatively, User can simply reply to an email from Company and type “REMOVE” in the subject line.
 
-We may disclose your information when we believe it is necessary to do so in order to protect our rights or property and to enforce our terms of use and legal notices, as required or permitted by law, or at the request of government regulators or other law enforcement officials and the courts.
+5\. Disclosure of User Information.
 
-* * *
+Company will, to the extent possible, control User information, and, except as otherwise set forth herein, not disclose such User information to third parties. However, in the event disclosure of any User information by Company is required by law, Company may disclose such User information without the consent of User.
 
-## Opt Out of Communications
+6\. Cookies.
 
-At any time, you may choose to "opt out" of receiving communications from N-able, including marketing material, direct mail and product updates. To opt out of these communications, contact [webmaster@n-able.com](mailto:webmaster@n-able.com) or follow the unsubscribe instructions provided in the communication.
+A “cookie” is a piece of data stored on User’s hard drive containing information about the User. Company may use cookies in order to collect certain information about User, such as IP addresses (e.g., whether User is logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and type of computer and operating system being used. Company may collect such information in order to better operate the Website so as to enhance User’s use of the Website. By using cookies, Company is able to recognize User when User revisits the Website, and it is able to remember certain information about User, such as User’s contact information. Depending on the type of browser User is using, it may be set to alert User of cookies. User does not have to accept all cookies sent to User by the Company Website; however, depending on the particular cookie User rejects, User may not be able to use some of the features in the Website if a particular cookie is rejected.
 
-* * *
+7\. Third Party Sites.
 
-## Third Party Policies
+The Website may from time to time include, for User’s convenience, links to third party sites, which Company does not own or control and that are controlled by third parties. These links are for convenience only. If User utilizes third party links or moves to the third party sites, Company is not responsible for the availability, content, data collection, utilization of data, use of cookies, or otherwise on the third party sites. Company has no access to the third party sites or information collected by them and no control over any third party cookies. If User has any questions about how such third parties use cookies, collect information, or otherwise, User should contact such third parties directly.
 
-Sites that are accessible through www.n-able.com may be governed by their own privacy policies that differ from those expressed in this statement. The practices of these third parties are not governed by the policies of N-able Technologies. We encourage you to review and understand the policies of these organizations before providing any personal information.
+8\. Security.
 
-* * *
+Company uses reasonable security measures to safeguard information concerning, and submitted by, users. Despite the security measures employed by Company, users should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet, and User agrees and accepts the risks associated with the same.
 
-## Use of Public Forums
+9\. Modifications.
 
-Information provided in discussion forums, including the Partner Message Board, may be displayed publicly. N-able Technologies is not responsible for the use of this information by others who may view it.
+This Privacy Statement and the Terms of Use of the Company Website constitute the complete agreement between the parties with respect to their subject matter and supersede any prior agreement or communication. Company reserves the right to modify this Privacy Statement without prior notice. In the event Company updates or modifies this Privacy Statement, Company shall endeavor to post such updates or modifications on this Website following any such modifications. Therefore, User is advised to review this Privacy Statement occasionally, or at least every thirty (30) days. User’s continued use of this Website subsequent to Company’s notice of modification of this Privacy Statement shall constitute User’s acceptance of the modified Privacy Statement.
 
-* * *
-
-## Changes to this Policy
-
-N-able Technologies may occasionally modify or amend this policy. When we do, we will post the current policy on this page. Changes to this policy will not affect our use of previously provided information.
-
-* * *
-
-## Acceptance of this Policy
-
-By using N-able Technologies' Web site, you signify your acceptance of this policy. If you do not agree with the terms and conditions contained in this policy, please do not use this Web site.
+© 2013 N-able Technologies, Inc. All Rights Reserved.   
+Last Updated 2013
