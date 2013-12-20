@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the livebooks.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502040221id_/http%3A//livebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebooks.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220203956id_/http%3A//www.livebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - liveBooks
 
-### liveBooks, Inc. Privacy Policy
+### liveBooks Privacy Policy
 
-This Privacy Policy was last updated: May 2, 2012 
+This Privacy Policy was last updated: July 15, 2013 
 
 This Privacy Policy is effective as of: November 6, 2006 
 
-Thank you for visiting the Internet web site located at the following universal resource locator: [www.livebooks.com](http://www.livebooks.com/ "liveBooks") (the "Site"). This Privacy Policy details certain policies implemented throughout liveBooks, Inc. ("liveBooks") governing liveBooks' use of personally identifiable information provided to liveBooks via the Site, as well as through use of our software and services on or in connection with the Site. 
-
-#### Privacy Policy Updates
-
-Due to the Internet's rapidly evolving nature, liveBooks may need to update this Privacy Policy from time to time. If so, liveBooks will post its updated Privacy Policy on this page and post notice of the change so it is visible when users log-on for the first time after the change is posted so that you are always aware of what personally identifiable information we may collect and how we may use this information. liveBooks encourages you to review this Privacy Policy regularly for any changes. Your continued use of the Site will be subject to the then-current Privacy Policy. 
+Thank you for visiting the Internet web site located at the following universal resource locator: [www.livebooks.com](http://www.livebooks.com/ "liveBooks") (the "Site"). This Privacy Policy details certain policies governing liveBooks administrators’ (“liveBooks”) use of personally identifiable information provided to liveBooks via the Site, as well as through use of our software and services on or in connection with the Site. This Privacy Policy is incorporated into and subject to the liveBooks.com Terms of Use. By your use of and/or registration on liveBooks, you expressly consent to the use and disclosure of your personal information in the manner described in this Privacy Policy. If you do not agree to these terms, please do not use liveBooks. LiveBooks reserves the right to modify this Privacy Policy at any time without prior notice. The date of the most recent revision will appear on this page, and your continued use of liveBooks will constitute your acceptance of any revisions of this Privacy Policy. 
 
 #### Information Collection and Use
 
@@ -46,4 +42,4 @@ The Site may provide links to other Web sites or resources over which liveBooks 
 
 We may employ procedural and technological measures that are reasonably designed to protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction such as password protection and other internal restrictions and other security measures. 
 
-If you have any questions about this Privacy Policy, you may contact liveBooks by emailing [privacy@livebooks.com](mailto:privacy@livebooks.com "Email Us"). 
+If you have any questions about this Privacy Policy, you may contact liveBooks by emailing [privacy@weddingwire.com](mailto:privacy@weddingwire.com "Email Us"). 
