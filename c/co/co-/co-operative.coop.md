@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the co-operative.coop privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621001241id_/http%3A//www.co-operative.coop/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-operative.coop privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221003018id_/http%3A//www.co-operative.coop/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Co-operative Group
 
@@ -21,7 +21,7 @@
 
 Co-operative Group Limited ("we", "us" and "The Co-operative Group") is committed to ensuring our site is absolutely secure for you to use and takes great care to protect your information. 
 
-We may introduce you to our subsidiaries including The Co-operative Bank and Co-operative Insurance Society Limited and [other co-operative societies](http://www.co-operative.coop/corporate/aboutus/oursubsidiaries/ "Link to 'Our Subsidiaries' page") and carefully selected organisations (collectively referred to as "our Partners"). 
+We may introduce you to our subsidiaries, [other co-operative societies](http://www.co-operative.coop/corporate/aboutus/oursubsidiaries/ "Link to 'Our Subsidiaries' page"), and carefully selected organisations (collectively referred to as "our Partners"). 
 
 This privacy policy explains what information we collect about you, how we may use it, and the steps we take to ensure that it is kept secure. We also explain your rights and how to contact us.  Please note that this website provides links to other websites belonging to other organisations, which are provided for your convenience. We would recommend that you read the Privacy statement for every website that you visit. 
 
