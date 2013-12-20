@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621001705id_/http%3A//www.reachoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221005953id_/http%3A//www.reachoo.com/privacy) for the most accurate reproduction.*
 
-# Reachoo.com - Free Classifieds for cars, apartments, houses for rent, jobs, dating, pets and More! - Privacy
+# Reachoo.com. Free classifieds for cars, apartments, jobs, dating, for sale! - Privacy
 
 ### Your privacy is critically important to us. At Reachoo we have a few fundamental principles:
 
