@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babynamewizard.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530174612id_/http%3A//www.babynamewizard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamewizard.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220203848id_/http%3A//www.babynamewizard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Baby Name Wizard
+# Privacy Policy | Baby Name Wizard
 
 Your privacy is important to us and protecting personal information is a core value of Generation Grownup, LLC, parent company of BabyNameWizard.com. This privacy statement describes how Generation Grownup collects and uses the personal information you provide on our Web sites including [www.babynamewizard.com](http://www.babynamewizard.com/ "www.babynamewizard.com") and [www.namecandy.com](http://www.namecandy.com/ "www.namecandy.com"). It also describes the choices available to you regarding Generation Grownup’s use of your personal information and the steps you can take to access this information and to request that we correct or delete it.
 
