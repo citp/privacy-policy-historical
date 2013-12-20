@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misstravel.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603141022id_/http%3A//www.misstravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misstravel.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220143609id_/http%3A//www.misstravel.com/privacy) for the most accurate reproduction.*
 
 # MissTravel | #1 Travel Dating & Travel Companion Site
 
