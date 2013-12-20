@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the tapatalk.com privacy policy that was archived on 2012-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121211010518id_/http%3A//www.tapatalk.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tapatalk.com privacy policy that was archived on 2013-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220171316id_/http%3A//www.tapatalk.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta name="keywords" content="blackberry, android, s60, ipb, smf, nokia, ipod, forumapp, touchbb, tapatalk, mobiquo, iphone, skin, theme, forum, community, bbs, discuz, vbulletin, phpbb3,  mobile, discussion">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tapatalk Forum App - Empowering Forum Junkies on-the-go</title>
+<title>Tapatalk - Connecting Communities</title>
 <link rel="stylesheet" type="text/css" href="resources/stylesheets/home.css">
-<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/509e51a425d4770002000190.js"></script><script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/jquery.js"></script>
 </head>
 <body>
 
@@ -14,40 +14,63 @@
 	
 
 
+
+<meta name="twitter:description" content="Stay connected with your community on-the-go with this award-winning forum app">
+<meta name="twitter:card" content="app">
+<meta name="twitter:app:id:iphone" content="id307880732">
+<meta name="twitter:app:id:ipad" content="id307880732">
+<meta name="twitter:app:id:googleplay" content="com.quoord.tapatalkpro.activity">
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tapatalk - Empowering Forum Junkies on-the-go</title>
+<meta name="apple-itunes-app" content="app-id=585178888">
+<meta name="google-play-app" content="app-id=com.quoord.tapatalkpro.activity">
+<title>Tapatalk</title>
+<link rel="apple-touch-icon" href="/images/apple-touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-iphone4.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/apple-touch-icon-ipad3.png">
 
 <link rel="stylesheet" type="text/css" href="/resources/stylesheets/home.css">
+<link rel="stylesheet" type="text/css" href="/resources/chosen/chosen.css">
+
+<!-- App Indexing for Google Search -->
+<link href="android-app://com.quoord.tapatalkHD/tapatalk/support.tapatalk.com" rel="alternate">
+<link href="android-app://com.quoord.tapatalkpro.activity/tapatalk/support.tapatalk.com" rel="alternate">
+
 <script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="dygraph-combined.js"></script>
+
 <script type="text/javascript">
 $(document).ready(function(){
-	$(".top_list a").addClass("a_hover_out");
-	$(".top_list li").hover(function(){
-		var imgsrc = $(this).find("img").attr("src");
-		if(typeof(imgsrc) != 'undefined')
-		{
-			var arr = imgsrc.split(".");
-			var newsrc = arr[0] + "_select.png";
-			$(this).find("img").attr("src",newsrc);
-		}
-		$(this).find("a").addClass("a_hover");
-	},
-	function() {
-		var imgsrc = $(this).find("img").attr("src");
-		if(typeof(imgsrc) != 'undefined')
-		{
-			var arr = imgsrc.split("_select");
-			var newsrc = arr[0] + ".png";
-			$(this).find("img").attr("src",newsrc);
-		}
-		$(this).find("a").removeClass();
-		$(this).find("a").addClass("a_hover_out");
-	});
+    $(".top_list a").addClass("a_hover_out");
+    $(".top_list li").hover(function(){
+        var imgsrc = $(this).find("img").attr("src");
+        if(typeof(imgsrc) != 'undefined')
+        {
+            var arr = imgsrc.split(".");
+            var newsrc = arr[0] + "_select.png";
+            $(this).find("img").attr("src",newsrc);
+        }
+        $(this).find("a").addClass("a_hover");
+    },
+    function() {
+        var imgsrc = $(this).find("img").attr("src");
+        if(typeof(imgsrc) != 'undefined')
+        {
+            var arr = imgsrc.split("_select");
+            var newsrc = arr[0] + ".png";
+            $(this).find("img").attr("src",newsrc);
+        }
+        $(this).find("a").removeClass();
+        $(this).find("a").addClass("a_hover_out");
+    });
 });
+
 </script>
 
 
- <div id="popup_message_box" class="popup_message_box">
+
+<div id="popup_message_box" class="popup_message_box">
 
 	<div style="text-align:right;">
 		<span class="payment_box_red" style="float:left;margin-left:42px;margin-top:10px;font-weight:bold;margin-top:30px;color:#3b3b3b;font-size:20px">Thank you for registering,</span> 	
@@ -168,21 +191,22 @@ function closeResetPasswordBox()
 	</div>
 	<br>
 	<div style="width:575px;margin:auto;float:left;margin-top:20px">
-		  <form method="post" id="head_login_form" action="action_login.php">
-                <label for="username" class="login_dialog_label">Email Address:</label> 
+		  <form method="post" id="head_login_form" onsubmit="return false;">
+                <label for="username" class="login_dialog_label">Username / Email:</label> 
                 <input type="text" name="email" id="email" class="Login_dialog_text"><br>
-              
+   	
                 <div class="clear"></div>
-          </form>  
-	</div>
-	 <div class="image_container">
+         
+				</form></div>
+				 <div class="image_container">
              
-               <img class="submit" src="images/submit_image.png" style="float:left;" onclick="forgetpassword()">
+                <input type="image" class="submit" src="images/submit_image.png" style="float:left;" onclick="forgetpassword()">
                <img id="forget_password_loader" src="images/transparent_ajax_loader.gif" style="float:left;position:relative; bottom:6px;margin-top:10px;display:none">               
-          </div>
-            <div id="id_forget_password_error" style="float:left;margin-left:50px;font-size:14px;color:#b5482b"></div>
+         		 </div>
+          		  <div id="id_forget_password_error" style="float:left;margin-left:50px;font-size:14px;color:#b5482b"></div>
+            
 </div>
-	
+
 <!-- overview_payment_box -->
 
 <script type="text/javascript">
@@ -206,6 +230,8 @@ function showForgetPasswordBox(reg_name,reg_mail)
 
 	 document.getElementById('forget_password_box').style.top = (cHeight- 176)/2+scrollTop+'px';
  	 document.getElementById('forget_password_box').style.display = 'block';
+ 	  document.getElementById('forget_password_loader').style.display = 'none';
+ 	 	  document.getElementById('email').value = '';
  	 $('#reg_name').text(reg_name);
  	 $('#reg_email').text(reg_mail);
 }
@@ -258,9 +284,9 @@ function forgetpassword()
 
 
 </script>
-<div id="popon_login_id" style="display:none;">
-      <a href="#none" onclick="cancelLoginRegister()" style="background:url('../../images/login_dialog_background.png');"><img src="/images/login_dialog_close.png" style="float:right;z-index:10000;margin-right:20px;margin-top:20px"> </a> 
-     <div id="id_login_part" style="display:none" onkeypress="keyPressLogin(event)">
+<div id="popon_login_id" style="display:none;width:575px;">
+      <div onclick="cancelLoginRegister()" style="float:right;z-index:10000;margin-right:20px;margin-top:20px;cursor:pointer;"><img src="/images/login_dialog_close.png"> </div> 
+     <div id="id_login_part" style="display:none;width:575px;" onkeypress="keyPressLogin(event)">
           
          <a href="#none"><div id="login_dialog_register" class="login_dialog_tab_text_wraper"><span style="margin-left:120px;" class="login_dialog_tab_text">Login</span> 
           </div> </a> 
@@ -273,9 +299,9 @@ function forgetpassword()
           <div class="clear"></div>
           
           <div class="span"></div>
-          <form method="post" id="head_login_form" action="/action_login.php">
-                <label for="username" class="login_dialog_label">User Name:</label> 
-                <input type="text" name="username" id="id_login_username" class="Login_dialog_text"><br>
+          <form method="post" id="head_login_form" action="/action_login.php" onsubmit="return false;">
+                <label for="username" class="login_dialog_label">Username / Email:</label> 
+                <input type="text" name="username" id="id_login_username" class="Login_dialog_text" value=""><br>
                 <div class="clear"></div>
                 <div class="input_slab"></div>
                 <label for="password" class="login_dialog_label">Password:</label>
@@ -294,7 +320,7 @@ function forgetpassword()
       </div><!-- id_login_part -->
       
       
-      <div id="id_register_part" style="display:none">
+      <div id="id_register_part" style="display:none;width:575px;">
       
            <a href="#none"><div onclick="showLoginRegisterBox(&quot;login&quot;,&quot;&quot;,&quot;keep_target&quot;)" id="login_dialog_register" class="login_dialog_tab_text_wraper"><span style="color:#888888;margin-left:120px;" class="login_dialog_tab_text">Login</span> 
           </div> </a> 
@@ -311,10 +337,10 @@ function forgetpassword()
           <form method="post" action="" id="register_form" onkeypress="keyPressRegister(event)">
                
                 <div class="right_input">
-                    <label style="width:195px;" for="username" class="login_dialog_label">User Name:</label>  
+                    <label style="width:195px;" for="username" class="login_dialog_label">Username:</label>  
                     <input type="text" name="username" id="register_username" class="Login_dialog_text"><br>
                    <div class="input_slab"></div>
-                   <label style="width:195px;" for="password" class="login_dialog_label">password:</label>   
+                   <label style="width:195px;" for="password" class="login_dialog_label">Password:</label>   
                    <input type="password" name="password" id="register_password" class="Login_dialog_text"><br>
                     <div class="input_slab"></div>
                     <label style="width:195px;" for="password1" class="login_dialog_label">Re-enter Password:</label>   
@@ -327,13 +353,13 @@ function forgetpassword()
                     <input type="text" name="email1" id="re_email" class="Login_dialog_text"><br>
                 </div>
                 <div class="clear"></div>
-          
+           </form>
               <div class="image_container" style="margin-right:40px">
                   
                     <input type="image" class="submit" src="/images/submit_image.png" onclick="ajaxRegister()" style="float:left;">
                     <img id="register_done_loader" src="/images/transparent_ajax_loader.gif" style="position:absolute; margin-top:5px; display:none;float:right;">
                </div>
-          </form>
+         
           <div class="below_line">
                    <div id="id_register_error" style="float:left;margin-left:100px;font-size:14px;color:#b5482b"></div>
  
@@ -393,12 +419,17 @@ function ajaxLogin(target,username,password){
    var _url = "/ajax_login.php";
 	$.post(_url,
 			values, function(response) {
-					if(response == 'admin' || response == 'member'){
+					if(response == 'admin' || response == 'member' || response == 'v2'){
+						 if(navigator.userAgent.match(/MSIE/i) && response != 'v2') {
+							 alert("Tapatalk Manage Console may not work well with Internet Explorer. We recommend Firefox, Chrome or Safair");
+						 }						 
           				 if(tempTarget == undefined || tempTarget == null){//common login
               				  if(response == 'admin')
                  					window.top.location.href="/admin_landing.php";
             				  else if(response == 'member')
-               					  window.top.location.href="/landing.php";                
+               					  window.top.location.href="/landing.php"; 
+            				  else if(response == 'v2') 
+                				  window.top.location.href="/v2";              
          			 	 }else if(tempTarget == 'stay'){//stay on this page and do nothing
             				  cancelLoginRegister();
          			 	 }else {//redirect to target
@@ -442,7 +473,7 @@ function ajaxRegister()
              			ajaxLogin(null,username,password1);     
        			  }else{
              			loader.style.display = 'none';
-            			 errMsg.innerHTML=response;
+            			errMsg.innerHTML=response;
         		}
 	});
 
@@ -569,37 +600,38 @@ function close(id)
 </script>
 
 <!-- header start -->
-	<div class="header">
-		<div class="main">
-			<div class="header_left"><div class="headr_logo"><img src="/images/logo.png"></div></div>
-			<div class="header_right">
-				<div class="header_right_top">
-				<ul class="top_list">
-				                   	      	<li onclick="showLoginRegisterBox('register')"><a href="#none" class="a_hover_out"><img src="/images/Register_icon.png" style="vertical-align:middle"> &nbsp; Register</a></li>
-						<li><a class="a_hover_out">|</a></li>
-						<li onclick="showLoginRegisterBox('login')"><a href="#none" class="a_hover_out">Login</a></li>
-						
-	                         				<li><a class="a_hover_out">|</a></li>
-						<li><a href="https://twitter.com/tapatalk" "="" class="a_hover_out"><img src="/images/twitter_icon.png" style="vertical-align:middle;height:16px;"></a></li>
-					</ul>
-					
-				</div>
-				<div class="header_right_down">
-					<ul class="navigation">
-						<li><a href="/">Home</a></li>
-						<li><a href="/activate_tapatalk.php">Activate Tapatalk</a></li>
-						<li><a href="/build.php">Build Your Own</a></li>
-						<li><a href="/partners.php">Partners</a></li>
-						<li><a href="/support.php">Support</a></li>
-						<li><a href="/faq.php">FAQ</a></li>
-						<li><a href="/aboutus.php">About Us</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="hr"></div>
-	<!-- header end --><!-- header end -->
+    <div class="header">
+        <div class="main">
+            <div class="header_left"><div class="headr_logo"><img src="/images/logo.png"></div></div>
+            <div class="header_right">
+                <div class="header_right_top">
+                <ul class="top_list">
+                                              <li onclick="showLoginRegisterBox('register')"><a href="#none" class="a_hover_out"><img src="/images/Register_icon.png" style="vertical-align:middle"> &nbsp; Register</a></li>
+                        <li><a class="a_hover_out">|</a></li>
+                        <li onclick="showLoginRegisterBox('login')"><a href="#none" class="a_hover_out">Login</a></li>
+                        
+                                          <li><a class="a_hover_out">|</a></li>
+                        <li><a href="https://twitter.com/tapatalk" "="" class="a_hover_out"><img src="/images/twitter_icon.png" style="vertical-align:middle;height:16px;"></a></li>
+                    </ul>
+                    
+                </div>
+                <div class="header_right_down">
+                    <ul class="navigation">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/activate_tapatalk.php">Activate Tapatalk</a></li>
+                        <li><a href="/build.php">Build Your Own</a></li>
+                        <li><a href="/partners.php">Partners</a></li>
+                        <li><a href="/support.php">Support</a></li>
+                        <li><a href="/faq.php">FAQ</a></li>
+                        <li><a href="/aboutus.php">About Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hr"></div>
+    <!-- header end -->
+<!-- header end -->
 
 <!-- content start -->
 	<div class="content">
@@ -609,7 +641,7 @@ function close(id)
 			<div class="page_text">Tapatalk does not transmit your forum password and any of your conversation information to our server. All the communication are direct communication between your mobile device and the respective forum you are visiting.</div>		 
 			<div class="page_second_title">The Legal Jungle...</div>
 			 
-			<div class="page_text">Quoord Systems Limited, the owner of Tapatalk, is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site and Mobile Application, located at tapatalk.com and respective App Store. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site and mobile application following the posting of any amendment, modification or change shall constitute your acceptance thereof.</div>
+			<div class="page_text">Tapatalk, Inc., is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site and Mobile Application, located at tapatalk.com and respective App Store. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site and mobile application following the posting of any amendment, modification or change shall constitute your acceptance thereof.</div>
 			 
 			<div class="page_third_title">I. INFORMATION COLLECTED</div>
 			 
@@ -619,14 +651,12 @@ function close(id)
 			<div class="page_third_title">II. USE OF INFORMATION</div>
 			 
 			 
-			 
 			<div class="page_text">In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our company and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary. Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the opt-out section below.</div>
 			 
 			 
 			<div class="page_text">Non-personal demographic and profile data is used to tailor your experience at our site and our mobile application, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate non-personal basis.</div>
 			 
 			<div class="page_third_title">III. USE OF IP ADDRESSES</div>
-			 
 			 
 			<div class="page_text">We use your IP Address to help diagnose problems with our server, and to administer our Web site and Mobile Application.</div>
 			 
@@ -643,13 +673,13 @@ function close(id)
 			<div class="page_third_title">VI. OTHER WEB SITES; LINKS</div>
 			 
 			 
-			<div class="page_text">Our Web site contains links to other Web sites. Our Mobile Application may also contains links to other mobile application and Web sites. Quoord Systems Limited is not responsible for the privacy practices or the content of such Web sites and Mobile application.</div>
+			<div class="page_text">Our Web site contains links to other Web sites. Our Mobile Application may also contains links to other mobile application and Web sites. Tapatalk, Inc. is not responsible for the privacy practices or the content of such Web sites and Mobile application.</div>
 			 
 			 
 			<div class="page_third_title">VII. CORRECT; UPDATE</div>
 			 
 			 
-			<div class="page_text">Quoord Systems Limited allows its users the option to change or modify information previously provided. This may be done through the following methods:</div>
+			<div class="page_text">Tapatalk, Inc. allows its users the option to change or modify information previously provided. This may be done through the following methods:</div>
 			 
 			 
 			<div class="page_text">(1) e-mail the information to admin@tapatalk.com 
@@ -685,26 +715,13 @@ function close(id)
 	<div class="footer">
 		<div class="main">	
 	        <p align="center">&nbsp;</p>
-	        <p align="center">&nbsp;</p>
-	        <p align="center">&nbsp;</p>
 	        <div align="center">
-	            <div style="font-size:14px;color:#808070;">Tapatalk is a registered trademark of Quoord Systems Limited</div>
-	            <div style="margin-top:5px;margin-bottom:14px;font-size:15px;"><a href="/api.php">API</a> | <a href="/faq.php">FAQ</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/license.php">License Agreement </a>| © 2013 Quoord Systems Limited.</div>
+	            <div style="font-size:14px;color:#808070;">
+	            <a href="/api.php">API</a> | <a href="/faq.php">FAQ</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/license.php">License Agreement </a>| Copyright © 2013 Tapatalk Inc<br><br></div>
 	        </div>
+	        <p align="center"><img src="/images/aws.png" width="100" height="38">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/rackspace.png" width="135" height="40"></p>
       </div>
 	</div>
-<script type="text/javascript">
-  (function() {
-    window._pa = window._pa || {};
-    // _pa.orderId = "myUser@email.com"; // OPTIONAL: include your user's email address or order ID
-    // _pa.revenue = "19.99"; // OPTIONAL: include dynamic purchase value for the conversion
-    // _pa.onLoadEvent = "sign_up"; // OPTIONAL: name of segment/conversion to be fired on script load
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/509e51a425d4770002000190.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-  })();
-</script>
-
 
 	<!-- footer end --><!-- footer end -->
 
