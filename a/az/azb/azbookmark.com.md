@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azbookmark.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606033429id_/http%3A//www.arcadegamescentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azbookmark.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220054120id_/http%3A//www.arcadegamescentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Arcade Games Central: Privacy Policy
 
