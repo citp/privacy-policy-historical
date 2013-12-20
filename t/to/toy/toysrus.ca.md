@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621102523id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.ca privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112946id_/http%3A//www.toysrus.ca/helpdesk/panel/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Toys"R"Us/Babies"R"Us : Help Desk
 
@@ -25,7 +25,7 @@
 
 The "R"Us Family includes Toys"R"Us, Inc.; Babiesrus.com, LLC; Toys"R"Us (Canada) Ltd.; and their affiliates (collectively, the "R"Us Family members" or the "R"Us Family").
 
-This Privacy Policy outlines "R"Us Family practices regarding personal information collected (a) on our corporate website online at www.toysruscanada.ca or www.toysrusinc.ca (the "R"Us Site"); (b) online at www.toysrus.ca, www.babiesrus.ca, www.babies-r-us.ca, www.babiesruscanada.ca, www.kidsrus.ca, www.kids-r-us.ca, www.giftsrus.ca, www.sportsrus.ca, www.imaginarium.ca, www.rzone.ca and www.rzonecentral.ca (the "Online Store") (the "R"Us Site and the Online Store referred to collectively as "our websites") ; and (c) at kiosks located in the Toys"R"Us retail stores in Canada (the "Retail Stores").
+This Privacy Policy outlines "R"Us Family practices regarding personal information collected (a) on our corporate website online at [www.toysruscanada.ca](http://www.toysruscanada.ca/) or [www.toysrusinc.ca](http://www.toysrusinc.ca/) (the "R"Us Site"); (b) online at [www.toysrus.ca](http://www.toysrus.ca/), [www.babiesrus.ca](http://www.babiesrus.ca/), [www.babies-r-us.ca](http://www.babies-r-us.ca/), [www.babiesruscanada.ca](http://www.babiesruscanada.ca/), [www.kidsrus.ca](http://www.kidsrus.ca/), [www.kids-r-us.ca](http://www.kids-r-us.ca/), [www.giftsrus.ca](http://www.giftsrus.ca/), [www.sportsrus.ca](http://www.sportsrus.ca/), [www.imaginarium.ca](http://www.imaginarium.ca/), [www.rzone.ca](http://www.rzone.ca/) and [www.rzonecentral.ca](http://www.rzonecentral.ca/) (the "Online Store") (the "R"Us Site and the Online Store referred to collectively as "our websites") ; (c) at our Call Centre(s); and (d) at kiosks located in the Toys"R"Us retail stores in Canada (the "Retail Stores").
 
 _The "R"Us Family is committed to respecting your privacy through the protection of your personal information. When we collect your personal information, you can be confident that we handle and store it in a secure manner to protect your information from unauthorized access or disclosure. We only collect your personal information for the purposes specified in this Privacy Policy, and we will not sell your personal information to others._
 
@@ -34,7 +34,7 @@ Nothing in this Privacy Policy, or otherwise, will create, or add to, any right 
 **YOUR CONSENT**
 
 BY SUBMITTING PERSONAL INFORMATION TO THE "R"US FAMILY MEMBERS OR THEIR RESPECTIVE SERVICE PROVIDERS OR AGENTS VIA OUR WEBSITES OR AT KIOSKS LOCATED IN THE RETAIL STORES, YOU CONSENT TO OUR COLLECTION, USE AND DISCLOSE OF SUCH PERSONAL INFORMATION FOR THE PURPOSES DESCRIBED IN THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.  
-Subject to legal and contractual requirements, you may opt out of receiving communications from an Online Store by setting your communications preferences in the "Your Account" section of the Online Store or by calling 1-800-TOYSRUS (1-800-669-7787) and asking for assistance on how you may opt out of receiving online communications. You may also opt out of receiving such communications from an "R"Us Family member by calling 1-800-TOYSRUS (1-800-669-7787) and asking for assistance. Your personal information may be retained in the database to ensure that we honour your privacy requests to opt-out of certain communications, for record keeping purposes, for internal research and analysis, and the other purposes described in this Privacy Policy.If you provide us with personal information concerning another individual, you represent and warrant that you have all necessary authority and/or have obtained all necessary consents from such individual to enable us to collect, use and disclose such personal information for the purposes set forth in this Privacy Policy.
+Subject to legal and contractual requirements, you may opt out of receiving communications from an Online Store by setting your communications preferences in the "Your Account" section of the Online Store or by calling 1-800-TOYSRUS (1-800-869-7787) and asking for assistance on how you may opt out of receiving online communications. You may also opt out of receiving such communications from an "R"Us Family member by calling 1-800-TOYSRUS (1-800-869-7787) and asking for assistance. Your personal information may be retained in the database to ensure that we honour your privacy requests to opt-out of certain communications, for record keeping purposes, for internal research and analysis, and the other purposes described in this Privacy Policy.If you provide us with personal information concerning another individual, you represent and warrant that you have all necessary authority and/or have obtained all necessary consents from such individual to enable us to collect, use and disclose such personal information for the purposes set forth in this Privacy Policy.
 
  BACK TO TOP
 
@@ -98,7 +98,7 @@ Your personal information is processed and stored at Toys"R"Us (Canada) Ltd.'s c
 
 **Upon your written request to our Privacy Manager at Toys"R"Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, L4K 4M5, we will inform you of the existence, use and disclosure of your personal information by an "R"Us Family member, and subject to certain exceptions permitted by law, we will give you a reasonable opportunity to review your personal information collected by the applicable "R"Us Family member.**
 
-If at any time you want to update, change or correct the personal information that you submitted at the Online Store, you can adjust your communications preferences in the "Your Account" section of the Online Store or call 1-800-TOYSRUS (1-800-669-7787) and ask for assistance on how you may update, change or correct your information. If at any time you want to update or change the information that you submitted at a kiosk located in one of the Retail Stores, you can call 1-800-TOYSRUS (1-800-669-7787) and ask for assistance.
+If at any time you want to update, change or correct the personal information that you submitted at the Online Store, you can adjust your communications preferences in the "Your Account" section of the Online Store or call 1-800-TOYSRUS (1-800-869-7787) and ask for assistance on how you may update, change or correct your information. If at any time you want to update or change the information that you submitted at a kiosk located in one of the Retail Stores, you can call 1-800-TOYSRUS (1-800-869-7787) and ask for assistance.
 
  BACK TO TOP
 
@@ -116,13 +116,13 @@ The "R"Us Site and Online Store may contain links to other websites, including c
 
 **10\. How to contact us**
 
-If you have questions or concerns about this Privacy Policy, please send an email to privacymanager.ca@toysrus.com, call 1-800-TOYSRUS (1-800-669-7787) or write to our Privacy Manager at Toys"R"Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, LMK 4M5.
+If you have questions or concerns about this Privacy Policy, please send an email to privacymanager.ca@toysrus.com, call 1-800-TOYSRUS (1-800-869-7787) or write to our Privacy Manager at Toys"R"Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, LMK 4M5.
 
  BACK TO TOP
 
 **11\. Revisions to this Privacy Policy**
 
-This Privacy Policy may be updated and revised from time to time. If we make a change to this Privacy Policy, we will post an updated policy on our websites and in our Retail Stores, and the updated policy will be available on request by sending an email to privacymanager.ca@toysrus.com, by calling 1-800-TOYSRUS (1-800-669-7787) or by writing to our Privacy Manager at Toys"R"Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, LMK 4M5. This policy was last revised on July, 2007.
+This Privacy Policy may be updated and revised from time to time. If we make a change to this Privacy Policy, we will post an updated policy on our websites and in our Retail Stores, and the updated policy will be available on request by sending an email to privacymanager.ca@toysrus.com, by calling 1-800-TOYSRUS (1-800-869-7787) or by writing to our Privacy Manager at Toys"R"Us (Canada) Ltd., 2777 Langstaff Road, Concord, Ontario, LMK 4M5. This policy was last revised on July, 2007.
 
  BACK TO TOP
 
