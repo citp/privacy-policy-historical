@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicreads.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613062417id_/http%3A//www.epicreads.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicreads.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220023832id_/http%3A//www.epicreads.com/page/privacy) for the most accurate reproduction.*
 
 # Page Privacy
 
