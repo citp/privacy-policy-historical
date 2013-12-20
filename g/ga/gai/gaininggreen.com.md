@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaininggreen.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619232730id_/http%3A//www.gaininggreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaininggreen.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220012513id_/http%3A//www.gaininggreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gaining Green
 
