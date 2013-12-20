@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623211145id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220060906id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AlexandAlexa
 
