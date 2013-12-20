@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517122149id_/http%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220131404id_/http%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Survey Anyplace
 
@@ -81,4 +81,4 @@ The Website is operated from Belgium, and therefore Belgian law applies (includi
 
 Survey Anyplace reserves the right to make changes to and update this Privacy Policy from time to time. If we make any material changes to this Privacy Policy we will notify you by posting the new version of the Privacy Policy on the Site or may send each User a courtesy email.  It is your responsibility to check the Site for updates to this Privacy Policy.
 
-Last Updated: September 25, 2012
+Last Updated: September 5, 2013
