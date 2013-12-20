@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510105211id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220041446id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
 
 # Terms of Use - Jabil
 
@@ -208,7 +208,7 @@ Safe Harbor and Online Privacy Policy Data Subjects may contact Jabil US and US 
 
 Jabil Circuit, Inc.  
 US Safe Harbor Compliance  
-C/O Sangita Shah  
+C/O Marilyn Martin  
 10560 Dr. Martin Luther King Street North  
 St. Petersburg, FL 33716  
 Phone: 727-803-3945  
