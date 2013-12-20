@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caspio.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420155928id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspio.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220035213id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Caspio Privacy Statement
 
@@ -6,7 +6,7 @@
 
 ## For Website Users and Clients
 
-Last modified February 11, 2013.
+Last modified May 17, 2013.
 
 ### OVERVIEW
 
@@ -14,7 +14,7 @@ Caspio, Inc. is committed to respecting your privacy and the privacy of the info
 
 We want you to know that we are not in the business of selling or renting individuals' personal data to other companies for any purpose.
 
-Caspio, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html "TRUSTe Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover downloadable software and only covers the sites [www.caspio.com](https://web.archive.org/) and  [caspio.net](https://web.archive.org/).  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
+Caspio, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html "TRUSTe Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover downloadable software and only covers caspio.com webistes.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
 
 Caspio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Caspio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Caspio's certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -133,10 +133,4 @@ In providing services to our customers, it is Caspio's policy to use cookies onl
 
 ### COMMENTS AND SUGGESTIONS
 
-To contact us regarding this Privacy Statement, [contact us](https://web.archive.org/company/contact.aspx) on the Caspio.com website or write to Caspio at:
-
-**Address:**  
-Caspio, Inc.  
-Privacy  
-2953 Bunker Hill Lane, Suite 201  
-Santa Clara, CA 95054 USA
+To contact us regarding this Privacy Statement, [contact us](https://web.archive.org/company/contact.aspx) on the Caspio.com website.
