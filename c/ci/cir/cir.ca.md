@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cir.ca privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619050311id_/http%3A//cir.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cir.ca privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220074009id_/http%3A//cir.ca/privacy) for the most accurate reproduction.*
 
-# Circa News App | Privacy Policy
+# Circa News | News, Re-imagined
 
 _Last Updated: September 28, 2012_
 
@@ -34,10 +34,10 @@ We may reveal information to satisfy or comply with any law, regulation or legal
 
 **Links to Other Sites** Our service may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our privacy policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-**Modifying Your Information** If you want us to delete your account, please contact us at <http://circa.desk.com/> with your request. We'll take steps to delete your name and email address records as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+**Modifying Your Information** If you want us to delete your account, please contact us at <http://help.cir.ca/> with your request. We'll take steps to delete your name and email address records as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
 **Our Policy Toward Children** Our Services are not directed to children under 13 and we do not knowingly collect personal information from children under 13. If we learn that we have collected personal information of a child under 13 we will take steps to delete such information from our files as soon as possible, which may require terminating an account.
 
 **Changes to Privacy Policy** We may modify and revise this policy from time to time. If we make any material changes to this policy, we'll notify you of such changes by posting them on our website or by sending you an email or other notification, and we'll indicate when such changes will become effective.
 
-**Questions?** Please contact us at <http://circa.desk.com/> if you have any questions about our privacy policy.
+**Questions?** Please contact us at <http://help.cir.ca/> if you have any questions about our privacy policy.
