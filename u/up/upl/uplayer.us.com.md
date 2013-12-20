@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uplayer.us.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508054219id_/http%3A//www.uplayer.us.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uplayer.us.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220041254id_/http%3A//uplayer.us.com/privacy.php) for the most accurate reproduction.*
 
 # Download uPlayer Free
 
