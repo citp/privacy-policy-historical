@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecowatch.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603000706id_/http%3A//ecowatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecowatch.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220170744id_/http%3A//ecowatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – EcoWatch: Cutting Edge Environmental News Service
+# Privacy Policy | EcoWatch
 
 The web server collects certain non-personally identifiable information such as your computer’s operating system, browser type, and IP address. This information is only stored for 10 days, for the purpose of compiling site statistics.
 
