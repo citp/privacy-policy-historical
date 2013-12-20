@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619072322id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calloptionputoption.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220223340id_/http%3A//www.calloptionputoption.com/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy_policy
 
@@ -59,11 +59,9 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 **AN ISO 9001 : 2008 CERTIFIED COMPANY**
 
-**United States** ******1-866-878-0289**
-
 **India 09887766554**
 
-[](https://web.archive.org/web/20130619072322id_/http%3A//www.calloptionputoption.com/index.html)
+[](https://web.archive.org/web/20131220223340id_/http%3A//www.calloptionputoption.com/index.html)
 
 [](http://www.copyscape.com/dmca-takedown-notice-search/)
 
