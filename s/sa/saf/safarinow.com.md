@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safarinow.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622034126id_/http%3A//www.safarinow.com/cms/privacy/irie.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safarinow.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220113023id_/http%3A//www.safarinow.com/cms/privacy/irie.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Certain pages on our website have been structured so that you can access the **S
 
 However, should you wish to make full use of the **SafariNow** Portal you will be required to register and provide us with personal information and accordingly we have made this notice readily available on our home page and at the bottom of every page that collects personal information.
 
-**SafariNow** has developed its privacy practices in line with the South African draft bill on the Protection of Personal Information, the Canadian Standards Association's Model Code for the Protection of Personal Information as well as the U.S.-E.U. Safe Harbor principles.
+ **SafariNow** has developed its privacy practices in line with the South African draft bill on the Protection of Personal Information, the Canadian Standards Association's Model Code for the Protection of Personal Information as well as the U.S.-E.U. Safe Harbor principles.
 
 ### Applicability
 
@@ -45,7 +45,7 @@ We respect your privacy and undertake not to sell, rent, lease, or give away you
 
 Certain non-personal information may be collected while you are using the website. This will comprise of data about usage and service operation that is not associated with a specific personal identity.
 
-**SafariNow** may collect and use this non-personal information to evaluate how the **SafariNow** Portal is being used. 
+ **SafariNow** may collect and use this non-personal information to evaluate how the **SafariNow** Portal is being used. 
 
 Most non-personal data is collected via cookies or other analysis technologies.
 
@@ -53,33 +53,35 @@ The **SafariNow** Portal pages use cookies, Web beacons and other technologies f
 
 These technologies may vary, but in many cases may involve a small file stored locally on the computer used to access the **SafariNow** Portal, and may be used to store and collect information relating to your viewing and use of the **SafariNow** Portal. 
 
-Information collected through cookies is used to create a profile of our users. 
+Information collected through cookies is used to create a profile of our users and to optimize our advertising.
 
-A profile is stored information we keep on individual users that details their preferences, their use and request history and behavioral activity, and can minimise the need for you to re-enter information. 
+A profile is stored information we keep on individual users that details their preferences, their use and request history and behavioral activity, and can minimize the need for you to re-enter information. 
 
 Most cookies expire after a defined period of time, or you can delete your cookie file at any time. Most web browser software is initially set up to accept cookies. You can reset your web browser software to refuse cookies or to indicate when a cookie is being sent. 
 
 However, some parts of our Site will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized preferences, and/or may have difficulty completing transactions.
 
-**SafariNow** may collect your computer's IP (Internet Protocol) address and domain name address, the identity of your Internet service or access provider, the type of web browsing software you use, your computers operating system, the URL of the web page from which you came to visit our Site and the language you selected for your web browsing software (collectively referred to herein as clickstream data). 
+ **SafariNow** may collect your computer's IP (Internet Protocol) address and domain name address, the identity of your Internet service or access provider, the type of web browsing software you use, your computers operating system, the URL of the web page from which you came to visit our Site and the language you selected for your web browsing software (collectively referred to herein as clickstream data). 
 
 We use these technologies to identify our users, to help diagnose problems with our server, and to administer the **SafariNow** Portal and the services offered thereon.
 
-**SafariNow** needs and uses your personal information to provide you with the services you request and to help us better understand your needs and interests in the future. 
+ **SafariNow** needs and uses your personal information to provide you with the services you request and to help us better understand your needs and interests in the future. 
 
 Specifically, **SafariNow** uses your information to help you complete and process the transactions you have requested. 
+
+SafariNow may also use non-personal data, such as data from third parties in order to inform and optimize our marketing campaigns. Third party advertisers use non-personal data to show SafariNow ads on sites across the Internet to assist in marketing SafariNow to users. We advertise online, making use of third party vendors, including Google Remarketing. Visitors can opt out of Google Analytics for Display Advertising and can customize Google Display Network ads using Google’s [Ads Settings](https://www.google.com/settings/ads).
 
 Sensitive personal information (if collected) will only be used if you choose to allow us to do this in terms of your personal preferences and will be shared only with your express permission. 
 
 Personal data given to **SafariNow** may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. 
 
-### How **SafariNow** will share your information and with whom?
+### How will  **SafariNow** share your information and with whom?
 
-**SafariNow** will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. 
+ **SafariNow** will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. 
 
 **SafariNow** partners with other organizations who may provide you with the services requested through the **SafariNow** Portal. 
 
-These partner organisation are required to keep confidential the information received on behalf of **SafariNow** and may not use it for any purpose other than to carry out the services they are performing for **SafariNow**. 
+These partner organization are required to keep confidential the information received on behalf of **SafariNow** and may not use it for any purpose other than to carry out the services they are performing for **SafariNow**. 
 
 **SafariNow** will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law. 
 
@@ -87,7 +89,7 @@ The **SafariNow** Portal could merge with or be acquired by another business ent
 
 ### Privacy preferences
 
-**SafariNow** will not use your personal information for a different purpose than the one stated when you provided your data. 
+ **SafariNow** will not use your personal information for a different purpose than the one stated when you provided your data. 
 
 Examples of unrelated uses include sending communications about updated information, new services and marketing messages. 
 
@@ -95,7 +97,7 @@ You can, however, choose to receive these types of non-subscription communicatio
 
 ### Data Access, accuracy, amendments, retention & opting out
 
-**SafariNow** will try to keep your personal information accurate. We will provide you with access to your information, including making reasonable efforts to provide you with online access and the opportunity to change your information, if possible. 
+ **SafariNow** will try to keep your personal information accurate. We will provide you with access to your information, including making reasonable efforts to provide you with online access and the opportunity to change your information, if possible. 
 
 To protect your privacy and security, when doing so we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. 
 
@@ -111,7 +113,7 @@ To request a correction or cancellation, send an e-mail to the address provided 
 
 ### Security
 
-**SafariNow** undertakes to take all reasonable measures to protect the information you provide us. These measures include, but are not limited to preventing unauthorised access or disclosure, maintaining data accuracy, and ensuring the appropriate use of the information. 
+ **SafariNow** undertakes to take all reasonable measures to protect the information you provide us. These measures include, but are not limited to preventing unauthorised access or disclosure, maintaining data accuracy, and ensuring the appropriate use of the information. 
 
 **SafariNow** has in place appropriate physical and managerial procedures to safeguard the information we collect. 
 
