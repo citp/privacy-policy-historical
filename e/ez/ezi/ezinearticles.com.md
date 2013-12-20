@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinearticles.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601065021id_/http%3A//ezinearticles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinearticles.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220210247id_/http%3A//ezinearticles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EzineArticles.com Privacy Policy
 
