@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roanoke.edu privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621001540id_/http%3A//roanoke.edu/x28182.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roanoke.edu privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220114355id_/http%3A//roanoke.edu/x28182.xml) for the most accurate reproduction.*
 
 # Privacy Policy - Roanoke College - Salem, Virginia
 
