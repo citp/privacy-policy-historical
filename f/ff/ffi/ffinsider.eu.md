@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffinsider.eu privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424042456id_/http%3A//www.ffinsider.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffinsider.eu privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220164545id_/http%3A//www.ffinsider.eu/privacy.php) for the most accurate reproduction.*
 
 # Final Fantasy Insider - Privacy Policy
 
