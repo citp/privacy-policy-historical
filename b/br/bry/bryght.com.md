@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bryght.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627161636id_/http%3A//www.bryght.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bryght.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220072016id_/http%3A//www.bryght.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bryght - High end furniture without the markup
 
