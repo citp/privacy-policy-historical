@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621202017id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220215045id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# LightingDirect.com: Security & Privacy
+# Lighting - Home Lighting Fixtures, Chandeliers, Ceiling Fans, Lamps - LightingDirect.com
 
 LightingDirect.com is a website of Build.com, Inc. Our corporate website can be [viewed here](http://corp.improvementdirect.com/).
 
