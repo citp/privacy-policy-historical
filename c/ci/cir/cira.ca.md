@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603141700id_/http%3A//cira.ca/privacy/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220202855id_/http%3A//cira.ca/privacy/policy.html) for the most accurate reproduction.*
 
 # CIRA - Canadian Internet Registration Authority - Website Terms of Use
 
