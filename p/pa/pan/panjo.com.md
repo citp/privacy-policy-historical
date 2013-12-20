@@ -1,36 +1,38 @@
-> *The following text is extracted and transformed from the panjo.com privacy policy that was archived on 2013-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130214013203id_/http%3A//www.panjo.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panjo.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220012444id_/http%3A//panjo.com/Privacy) for the most accurate reproduction.*
 
-# Panjo - Privacy
+# Privacy
 
-The Panjo.com and DealBird.com Websites and affiliated Web properties (collectively, the "Website" located at (www.Panjo.com, www.Enthusify.com and www.DealBird.com) are subject to the following Privacy Policy (the “Policy”) and the Terms of Use.
+### Privacy Policy
+
+The Panjo.com Website and affiliated Web properties (collectively, the "Website" located at www.Panjo.com) are subject to the following Privacy Policy (the â€œPolicyâ€) and the Terms of Use.
 
 BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
-This Policy was last updated on February 20, 2012.
+This Policy was last updated on July 1, 2013.
 
   1. ### Overview
 
-The Website is owned and operated by Interactive Innovation Group, Inc. a Delaware corporation, and subject to the following Policy. Interactive Innovation Group, Inc. is committed to protecting your privacy online. Interactive Innovation Group is referred to herein as “IIG,” “we,” “us,” and “our;” the terms “you” and “your” when used in this Policy means any user of the Website.
+The Website is owned and operated by Interactive Innovation Group, Inc. a Delaware corporation, and subject to the following Policy. Interactive Innovation Group, Inc. is committed to protecting your privacy online. Interactive Innovation Group is referred to herein as â€œIIG,â€ â€œwe,â€ â€œus,â€ and â€œour;â€ the terms â€œyouâ€ and â€œyourâ€ when used in this Policy means any user of the Website.
 
 If we decide to change our Privacy Policy, we will post such changes to this Privacy Statement and other places we deem appropriate so you are aware of the information we collect, how we collect it, how we use it, and under what circumstances, if any, we disclose it. We will provide registered users with notice of changes to this policy.
 
 Except as limited below, we may use or disclose your information for business reasons in whatever manner as we see fit.
 
-To ensure the highest quality experience, we may use third-parties to operate certain portions of our Website and other services. All information collected from you may be shared with such third-parties.
+To ensure the highest quality experience, we may use third-parties to operate certain portions of our Website and other services. If you grant permission, information collected from you may be shared with such third-parties.
 
 Except as otherwise provided in this Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we may collect and/or transfer your information to a third-party. We also may provide links on our Website to unaffiliated third-party websites that may collect and use your personal information according to their privacy policies and terms of use. In those cases, the third-parties will govern how your information is collected and/or used.
 
   2. ### Information Collected
 
-In order to better provide you with content and access to products and services, we collect two types of information from you: personally identifiable information, including, but not limited to your name, address, and information submitted in creating your Account and Panjo Profile (together “Personally Identifiable Information”) and non-personally identifiable information. Our primary goal in collecting information from you is to provide an enjoyable and customized experience while using our Website.
+In order to better provide you with content and access to products and services, we collect two types of information from you: personally identifiable information, including, but not limited to your name, address, and information submitted in creating your Account and Panjo Profile (together â€œPersonally Identifiable Informationâ€) and non-personally identifiable information. Our primary goal in collecting information from you is to provide an enjoyable and customized experience while using our Website.
 
-    1. Personally Identifiable Information: We may use Personally Identifiable Information you provide in a limited number of ways. We may use your Personally Identifiable Information to (i) complete a transaction related to a Listing Item, (ii) provide you with information about us, (iii) enhance or update the Website; (iv) review your account to determine whether other Listing Items may be of interest to you; (v) conduct another transaction you request; (vi) compile demographic statistics about our users; (vii) make a record of your visit and log your IP address, the date and time of your visit to the Website, the Listing Items accessed, and the type of browser used; (viii) provide you with information about third-party products or services; and/or (ix) use in connection with business-related matters. We may also on occasion combine information about you that we have with information we obtain from other parties to enhance our ability to market to you Listing Items that may be of interest to you.
+    1. Personally Identifiable Information: We may use Personally Identifiable Information you provide in a limited number of ways. We may use your Personally Identifiable Information to (i) complete a transaction related to a Listing Item, (ii) provide you with information about us, (iii) enhance or update the Website; (iv) review your account to determine whether other Listing Items may be of interest to you; (v) conduct another transaction you request; (vi) compile demographic statistics about our users; (vii) make a record of your visit and log your IP address, the date and time of your visit to the Website, the Listing Items accessed, and the type of browser used; (viii) use in connection with business-related matters. We may also on occasion combine information about you that we have with information we obtain from other parties to enhance our ability to market to you Listing Items that may be of interest to you.
 
-    2. Demographic data also may be collected at our Website through the use of third-party tools. We may review the actions of the visitors of our Website on an aggregate basis to determine customers’ preferences. We also may conduct research on our visitors' demographics, interests, and Listing Items viewed based on the information collected in connection with use of our Website. We may use this data to tailor the visitor’s experience at our Website, to improve our marketing and promotional efforts, to statistically analyze Website usage, to improve our product offerings, service offerings, and to customize the content, layout, and/or services provided on our Website. We may receive reports from third-party ad servers, content servers, or web site analysis agents that tell us how many ads were presented and clicked upon or what content was served or viewed.
+    2. Demographic data also may be collected at our Website through the use of third-party tools. We may review the actions of the visitors of our Website on an aggregate basis to determine customersâ€™ preferences. We also may conduct research on our visitors' demographics, interests, and Listing Items viewed based on the information collected in connection with use of our Website. We may use this data to tailor the visitorâ€™s experience at our Website, to improve our marketing and promotional efforts, to statistically analyze Website usage, to improve our product offerings, service offerings, and to customize the content, layout, and/or services provided on our Website. We may receive reports from third-party ad servers, content servers, or web site analysis agents that tell us how many ads were presented and clicked upon or what content was served or viewed.
 
     3. Referral: If you choose to introduce a friend to Panjo, or buy a Listing Item for a friend, we will ask you for your friend's name and/or email address. We will automatically send your friend a one-time email with the Listing Item you purchased for him or her or inviting him or her to visit the Website. Panjo stores this information for the sole purpose of sending this one-time email, sending their Listing Item, and tracking the success of our referral program. A referred friend may contact us at info@panjo.com to request that we remove their information from our database.
 
-    4. Non-Personally Identifiable Information. Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy. This information may also be shared with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming. Non-Personally Identifiable Information may also be used to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable laws, and cooperate with law enforcement activities.
+    4. Non-Personally Identifiable Information. Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (â€œURLâ€) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (â€œIPâ€) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy. This information may also be shared with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming. Non-Personally Identifiable Information may also be used to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable laws, and cooperate with law enforcement activities.
 
 Though we will make every effort to preserve user privacy, pursuant to the terms of this Policy, we also may need to disclose Personally Identifiable Information when required by law or if we have a good-faith belief that the action is necessary to comply with a pending judicial proceeding, a court order or legal process served on us or to protect our rights or the rights of others, to fight fraud, identity theft, to ensure the integrity and operation of our business and systems, or to protect the rights, property or safety of the Website, our employees, shareholders or others.
 
@@ -46,7 +48,7 @@ We may display advertisements on our Website. By knowing a little about you, we 
 
     3. #### Newsletters, Promotional E-mails and Personalized On-line Advertisements
 
-We may offer newsletters, promotional e-mails, and personalized on-line advertisements as a service to our customers. We may send you newsletters and e-mails periodically listing current special Listing Items. You may “opt-out,” or unsubscribe from our newsletters, emails, or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter, or personalized on-line advertisement you receive from us, or by sending an e-mail to info@panjo.com and asking to opt out. Opting out may take up to six weeks to remove you from the database. If you have opted out of receiving all newsletters, all promotional emails, or all personalized on-line advertisements, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you otherwise subsequently sign up to receive newsletters, emails, or personalized on-line advertisements. Please Note: If you receive e-mails separately from third-party merchants, then all information that you choose to disclose to them will be subject to their privacy policy, terms of use, and opt- out procedures.
+We may offer newsletters, promotional e-mails, and personalized on-line advertisements as a service to our customers. We may send you newsletters and e-mails periodically listing current special Listing Items. You may â€œopt-out,â€ or unsubscribe from our newsletters, emails, or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter, or personalized on-line advertisement you receive from us, or by sending an e-mail to info@panjo.com and asking to opt out. Opting out may take up to six weeks to remove you from the database. If you have opted out of receiving all newsletters, all promotional emails, or all personalized on-line advertisements, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you otherwise subsequently sign up to receive newsletters, emails, or personalized on-line advertisements. Please Note: If you receive e-mails separately from third-party merchants, then all information that you choose to disclose to them will be subject to their privacy policy, terms of use, and opt- out procedures.
 
     4. #### Tracking Usage
 
@@ -54,7 +56,7 @@ We may track customers' traffic patterns throughout their online session, includ
 
       1. #### Cookies
 
-We may use cookies and may allow other third-parties to use cookies in the operation of our Website. A cookie is an industry-standard small file placed on your computer. Cookies allow us to “remember you” when you return to the Website to make your visits more relevant and to retrieve information from your prior visits. The cookie stores information about the searches that you have made and the items that you have viewed and allows us and other third-parties to replace non-relevant advertisements with ones that are more relevant to your presumed interests. You may delete cookies on your computer; however, if you enjoy the convenience of the Website remembering you, you are advised not to delete your cookies. Cookies generally do not permit us to personally identify you.
+We may use cookies and may allow other third-parties to use cookies in the operation of our Website. A cookie is an industry-standard small file placed on your computer. Cookies allow us to â€œremember youâ€ when you return to the Website to make your visits more relevant and to retrieve information from your prior visits. The cookie stores information about the searches that you have made and the items that you have viewed and allows us and other third-parties to replace non-relevant advertisements with ones that are more relevant to your presumed interests. You may delete cookies on your computer; however, if you enjoy the convenience of the Website remembering you, you are advised not to delete your cookies. Cookies generally do not permit us to personally identify you.
 
       2. #### Web Beacons
 
@@ -66,33 +68,25 @@ We may run promotions for merchants where you may visit a third-party merchant w
 
 Please be aware that our Website may contain links to other websites on the Internet that are owned and operated by third-parties. The information practices of those websites linking from or to our Website are not covered by this Policy. These other websites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies or ad servers, which place advertising on our Website, may collect information about you through the use of cookies when you view or click on their advertising. You should contact advertisers directly if you have any questions about their use of the information that they collect.
 
-    6. #### Co-Branded and Third-Party Offers
-
-We may disclose to certain companies or businesses with whom we may have formed a strategic alliance, or with approved third-parties (“Affiliated Companies”), your Personally Identifiable Information, including information such as your name, address and email address.
-
-    7. #### Sweepstakes and Promotional Offers
-
-From time to time we may share your Personally Identifiable Information with Affiliated Companies in connection with sweepstakes, contests and other promotional offers, including information such as your name, address, and email address.
-
-    8. #### Security
+    6. #### Security
 
 In order to most efficiently serve you, the purchase of Listing Items utilizing credit card transactions may be handled by established third-party banking, processing agents and distribution institutions. They may receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order, if applicable.
 
 We have put in place physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use your Personally Identifiable Information. The Website has industry-standard security measures in place to protect the loss, misuse, and alteration of the information under our control, and we make good faith efforts to store your Personally Identifiable Information in a secure operating environment. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your Personally Identifiable Information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. If we provide you with a user name and password to access portions of the Website, we disclaim any responsibility for a breach of privacy as a result of your willingly or inadvertently disclosing your user name and password to others.
 
-    9. #### Updating and Correcting Information
+    7. #### Updating and Correcting Information
 
 We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information on your Panjo Account. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. In addition, your information, even if deleted from a current database, may still exist within an archived database, as we periodically backup information.
 
-    10. #### Opting Out or Choosing Not to Provide Information
+    8. #### Opting Out or Choosing Not to Provide Information
 
 As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
 
 As a condition of creating a User Account and Profile with Panjo, we may on occasion send you Administrative and Promotional emails. We will send you information regarding your account activity, purchases, as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. "Administrative Emails" relate to a User's activity on the Website, and include emails regarding a particular User's account, requests or inquiries, and purchases of Listing Items.
 
-You may, however, opt out of Promotional Emails. Promotional Emails advertise Listing Items including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at info@panjo.com or by hitting the “unsubscribe” button at the bottom of any of our e-mails, or by opting out of Promotional Emails within your User Account.
+You may, however, opt out of Promotional Emails. Promotional Emails advertise Listing Items including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at info@panjo.com or by hitting the â€œunsubscribeâ€ button at the bottom of any of our e-mails, or by opting out of Promotional Emails within your User Account.
 
-    11. #### Acceptance of Terms
+    9. #### Acceptance of Terms
 
 By using our Website, you consent to our collection and use of this information in accordance with the terms set forth in this Policy.
 
@@ -112,11 +106,11 @@ Our Website is accessible around the world. By visiting the Website and providin
 
     4. #### California Residents
 
-California law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third-parties for their direct marketing purposes. To make such a request, please send an e-mail to info@panjo.com or write to us at: Interactive Innovation group, Inc. (d/b/a Panjo), 413 West Channel Road, Santa Monica, CA 90402.
+California law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third-parties for their direct marketing purposes. To make such a request, please send an e-mail to info@panjo.com or write to us at: Interactive Innovation group, Inc. (d/b/a Panjo), 820 Broadway, Santa Monica, CA 90401.
 
   5. ### Contacting Us
 
-If you have any comments or questions, you may send an e-mail to info@panjo.com or write to us at: Interactive Innovation Group, Inc. (d/b/a Panjo), 413 West Channel Road, Santa Monica, CA 90402.
+If you have any comments or questions, you may send an e-mail to info@panjo.com or write to us at: Interactive Innovation Group, Inc. (d/b/a Panjo), 820 Broadway, Santa Monica, CA 90401.
 
 
 
