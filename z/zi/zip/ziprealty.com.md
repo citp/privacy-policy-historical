@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507133544id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220041735id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # Homes for Sale, MLS Listings Search, Real Estate Agents -- Zip Realty
 
-**ZipRealty's Privacy Policy**
+Last updated: October 29, 2013 
 
-Last updated: February 22, 2013 
+ZipRealty Inc.'s ("ZipRealty" or "we") Privacy Policy is designed to help you understand how we collect, use, and share information provided by users on the ZipRealty website (defined to include web, mobile, or otherwise) and mobile applications (collectively the “Site”). 
 
-ZipRealty Inc.'s ("ZipRealty" or "we") Privacy Policy is designed to help you understand how we collect and use information on the ZipRealty website (defined to include web, mobile, or otherwise) (collectively the “Site”). 
-
-**By registering on or visiting the Site, you are acknowledging and accepting this Privacy Policy.** We may from time-to-time revise this Privacy Policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically. **Your continued use of the Site after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.**
+**By registering on or using the Site, you are acknowledging and accepting this Privacy Policy.** We may from time-to-time revise this Privacy Policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically for the latest information. **Your continued use of the Site after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.**
 
 **_The Information We Collect_**
 
-Personal Information is information that others can use to identify, locate, or contact you. When you register on or use the Site, or contact ZipRealty, you provide ZipRealty with certain Personal Information including, without limitation, your name, address, zip code, email address, telephone number, comments you make to forums and blogs available on the Site, information about whether you plan on buying and/or selling property, home search criteria, information about financing for the purchase of property and other information related to the sale and/or purchase of property. ZipRealty does not request or collect social security numbers, credit card numbers, or driver’s license numbers. If you register or log on to the Site through Facebook, you agree to allow Facebook to share additional information with ZipRealty including your name, email address, profile picture, gender, user ID, list of friends and any other information that you have made publicly available on Facebook. 
+Personal Information is information that others can use to identify, locate, or contact you. When you register on or use the Site, or contact ZipRealty, you may provide ZipRealty with certain Personal Information including, without limitation, your name, address, zip code, email address, telephone number, comments you make to forums and blogs available on the Site, information about whether you plan on buying and/or selling property, home search criteria, information about financing for the purchase of property and other information related to the sale and/or purchase of property. ZipRealty does not request or collect social security numbers, credit card numbers, or driver’s license numbers. If you register or log on to the Site through Facebook, you agree to allow Facebook to share additional information with ZipRealty including your name, email address, profile picture, gender, user ID, list of friends and any other information that you have made publicly available on Facebook. 
 
-Additionally, ZipRealty servers automatically record information sent by your browser when you use the ZipRealty Site, including Internet Protocol address, browser type and language, and date and time of request. We may also collect information using cookies, web beacons or similar technologies. 
+Additionally, ZipRealty servers automatically record information sent by your browser or created by your use of the ZipRealty Site, including Internet Protocol address, browser type and language, and date and time of request. We and through third parties that we may hire may also collect information using cookies, web beacons or similar technologies. For example, we use Flurry to track and report on the usage and browsing patterns on some of our mobile applications. For more information about Flurry and its privacy policy, please go to: [www.flurry.com/privacy-policy.html](http://www.flurry.com/privacy-policy.html). 
 
 When you send email or other communication to ZipRealty, we may retain those communications in order to process your inquiries, respond to your requests and improve our service. 
 
@@ -22,7 +20,7 @@ When you send email or other communication to ZipRealty, we may retain those com
 
 Depending on your use of the Site and the services you request from ZipRealty, we may use your Personal Information for the following purposes: 
 
-  * To enable ZipRealty Agents or other third-party real-estate professionals and their affiliated entities to contact you and provide personal service, or to provide you with personalized content, including email messages, E-Mail Alerts and/or search results. 
+  * To enable ZipRealty Agents or other third-party real-estate professionals and their affiliated entities to contact you via email, telephone, or SMS text messaging and provide personal service, or to provide you with personalized content, including email messages, E-Mail Alerts and/or search results. 
   * To facilitate all aspects of the sale and/or purchase (or potential sale and/or purchase) of real estate. 
   * For the purposes for which you provided the information, including to process and respond to inquiries and to contact you about services you have requested. 
   * To improve the features, content and navigability of the Site. 
@@ -38,9 +36,9 @@ In the future, we may sell some or all or our assets. In such transactions, cust
 
 ZipRealty may disclose your Personal Information: (i) to another entity for purposes of outsourcing one or more of the functions described in the previous section; (ii) to confirm or update information provided by you; (iii) to inform you of important information; (iv) as a part of a sale of assets as described in the previous section; (v) with other companies for the purposes of marketing products to you after obtaining your consent; and/or (vi) as otherwise authorized by you. 
 
-ZipRealty will provide you with opportunities to opt-in to share information with and receive information from ZipRealty or third parties. When you opt-in to share and receive information from ZipRealty or third parties, your information will be shared at ZipRealty's discretion. You may at any point withdraw your consent to share information with ZipRealty or third parties by sending an email with the subject "Do Not Share Information" to [privacy@ziprealty.com](mailto:privacy@ziprealty.com). Additionally, if you wish to opt out of emails received directly from third parties, you can follow the opt-out instructions in the emails they send you. ZipRealty will stop sharing your information within 10 (ten) days after receiving your request; provided, however, that information shared prior to that time will remain in the possession of ZipRealty or third parties and may continue to be used consistent with this Privacy Policy. 
+ZipRealty may provide you with opportunities to opt-in to share certain information with and receive information from ZipRealty or third parties. When you opt-in to share and receive information from ZipRealty or third parties, that information will be shared at ZipRealty's discretion. You may at any point withdraw your consent to share information with ZipRealty or third parties by sending an email with the subject "Do Not Share Information" to [privacy@ziprealty.com](mailto:privacy@ziprealty.com). Additionally, if you wish to opt out of emails received directly from third parties, you can follow the opt-out instructions in the emails they send you. ZipRealty will stop sharing your information within ten (10) days after receiving your request; provided, however, that information shared prior to that time will remain in the possession of ZipRealty or third parties and may continue to be used consistent with this Privacy Policy. 
 
-You can manage your email preferences by logging into your account through the Site, entering the "Your Account" section, and selecting "Email Preferences." You can also manage your subscriptions by following the subscription management instructions contained in commercial messages that we send you. 
+You can manage your communications preferences by logging into your account through the Site, entering the "My Account" section, and selecting "Communications Preferences." You can also manage your subscriptions by following the subscription management instructions contained in commercial messages that we send you. 
 
 For users who register or log on to the Site through Facebook, please refer to Facebook's privacy settings to determine how you may adjust the permissions and manage the interactivity between ZipRealty and Facebook. 
 
@@ -51,6 +49,12 @@ You may choose to work with companies who are third parties and who are not affi
 We may also share your information in response to a subpoena, legal order or official request, when we believe you have acted in violation of the [Terms of Use](https://web.archive.org/footer_pages/terms_of_use.jsp), or when we believe that doing so may protect your safety or the safety of others. 
 
 Information that is de-identified (stripped of any information that could be used to identify you) may be used by ZipRealty for any reason and shared freely with affiliates, the press, partners and third parties. This information is usually aggregated (combined with information from many other users), and may include information such as Site traffic patterns, trends, demographics, search patterns and other information. 
+
+**_Pre-Populated Accounts_**
+
+We may collect information about you from ZipRealty Agents or other third-party real-estate agents that you have previously contacted or have an established relationship with. Information collected may be used to pre-populate a ZipRealty account on your behalf. 
+
+You will be notified if a ZipRealty account is created on your behalf. You may choose not to use this account and you may opt out of future communications from ZipRealty by following the instructions in the account creation notification or by contacting us as described in the Contact section below. However, this does not prevent third parties you have shared information with from contacting you. You must contact those third parties for information on their communication choices. 
 
 **_Third-Party Advertising_**
 
@@ -76,7 +80,7 @@ If you are a California resident, you are entitled by law to request an Informat
 
 **_Account Deactivation_**
 
-Your ZipRealty account can be de-activated at any time by contacting [team@ZipRealty.com](mailto:team@ziprealty.com). However, you will not be able to access any of the services offered by ZipRealty if you choose to deactivate your account. 
+Your ZipRealty account can be de-activated at any time by contacting [team@ZipRealty.com](mailto:team@ziprealty.com). However, you will not be able to access any of the services offered by ZipRealty if you choose to deactivate your account. You can request that we delete information we have collected about you by contacting [team@ZipRealty.com](mailto:team@ziprealty.com). We will retain information needed to maintain a record of your requests and communications preferences. 
 
 **_Viewing and Updating Your Information_**
 
