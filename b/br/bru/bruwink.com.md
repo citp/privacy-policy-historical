@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruwink.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528135427id_/http%3A//www.bruwink.in/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruwink.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220213738id_/http%3A//www.bruwink.com/support/privacy.php) for the most accurate reproduction.*
 
 # Bruwink | Privacy Policy
 
