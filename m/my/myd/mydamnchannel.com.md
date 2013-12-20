@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydamnchannel.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512013743id_/http%3A//www.mydamnchannel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydamnchannel.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220081409id_/http%3A//www.mydamnchannel.com/privacy) for the most accurate reproduction.*
 
 # My Damn Channel » Privacy Policy
 
