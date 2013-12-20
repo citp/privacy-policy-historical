@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531060446id_/http%3A//hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220113512id_/http%3A//www.hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Hostway Web Solutions
 
-[](http://www.truste.org/ivalidate.php?url=www.hostway.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Hostway-Corporation/validation?rid=3eb5ca9d-aa1e-45df-b97f-70df5d8ed6df "TRUSTe European Safe Harbor certification")
 
 **Last updated May 13, 2013**
 
 Hostway Services, Inc. (“Hostway”) respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. We do not collect personally identifiable information about you when you visit our website at [http://www.hostway.com](https://web.archive.org/) (“Website”) unless you choose to provide that information to us or as specifically outlined in this Privacy Policy (“Policy”). This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at [www.hostway.com/legal/terms_of_use.html](https://web.archive.org/legal/terms_of_use.html). In order to fully understand your rights we encourage you to read this Policy.
 
-Hostway has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through  [www.hostway.com ](https://web.archive.org/) and does not cover information that may be collected after a customer logs into the customer interface on our Website . In addition, the TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@hostway.com](mailto:legal@hostway.com?subject=Legal%20Inquiry). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Hostway has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through  [www.hostway.com ](https://web.archive.org/) and does not cover information that may be collected after a customer logs into the customer interface on our Website . In addition, the TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at . If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Hostway complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
 
@@ -48,11 +48,11 @@ _Please note that we will also use your contact information to notify you of imp
 
 ### Newsletters or Promotional Communications
 
-Customers may opt out of receiving newsletters and/or promotional emails from Hostway by sending a request to [newsletter-unsubscribe@hostway.com](mailto:newsletter-unsubscribe@hostway.com?subject=Unsubscribe%20Me), by using the unsubscribe instructions included in each promotional communication, or by changing your email preferences in your account information. In this request, customers must identify their domain name and contact information. Customers may not opt out of receiving information from Hostway which is essential for maintaining or updating customers account or system information.
+Customers may opt out of receiving newsletters and/or promotional emails from Hostway by sending a request to , by using the unsubscribe instructions included in each promotional communication, or by changing your email preferences in your account information. In this request, customers must identify their domain name and contact information. Customers may not opt out of receiving information from Hostway which is essential for maintaining or updating customers account or system information.
 
 ###  Testimonials
 
-Hostway displays personal testimonials of satisfied customers on our Website in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@hostway.com](mailto:privacy@hostway.com?subject=Privacy%20Inquiry). 
+Hostway displays personal testimonials of satisfied customers on our Website in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at . 
 
 ###  Surveys or Contests
 
@@ -94,11 +94,11 @@ Our Website also includes social media features, such as the Facebook “Like”
 
 ###  How Can You Access or Delete Your Personal Information?
 
-You can access your personal information, such as your address and contact information, at anytime to correct, change or delete any of the data shared with us when you became a customer of Hostway. As a customer of Hostway you can access your personal information by clicking on the “Customer Login” link at the top of any Web page. Your account information is secure and is accessible by using a password that you select. If you need assistance or have questions about correcting information you can contact us via email at [support@hostway.com](mailto:support@hostway.com?subject=Customer%20Support%20Inquiry). Hostway will respond to access requests within 30 days.
+You can access your personal information, such as your address and contact information, at anytime to correct, change or delete any of the data shared with us when you became a customer of Hostway. As a customer of Hostway you can access your personal information by clicking on the “Customer Login” link at the top of any Web page. Your account information is secure and is accessible by using a password that you select. If you need assistance or have questions about correcting information you can contact us via email at . Hostway will respond to access requests within 30 days.
 
 ###  How Long Do We Keep Your Personal Information?
 
-We will retain your information for as long as your customer account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@hostway.com](mailto:support@hostway.com?subject=Customer%20Support%20Inquiry). We will retain and use your information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your customer account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at . We will retain and use your information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ###  Security
 
@@ -106,7 +106,7 @@ Hostway has security measures in place to help prevent the loss, misuse and alte
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Website, you can send email us at [privacy@hostway.com](mailto:privacy@hostway.com?subject=Privacy%20Inquiry).
+If you have any questions about security on our Website, you can send email us at .
 
 ###  Links 
 
@@ -124,7 +124,7 @@ We reserve the right to modify this Policy at any time, so please review it freq
 
 ### Contact Us
 
-If you have questions or concerns regarding this Policy, you should contact us by email at [privacy@hostway.com](mailto:privacy@hostway.com?subject=Privacy%20Inquiry).
+If you have questions or concerns regarding this Policy, you should contact us by email at .
 
 **Hostway Services, Inc.**   
 100 N Riverside Plaza  
