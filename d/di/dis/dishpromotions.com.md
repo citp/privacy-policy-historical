@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dishpromotions.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512135647id_/http%3A//dishpromotions.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishpromotions.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220160130id_/http%3A//dishpromotions.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # DISH Promotions | Privacy Policy | DISH Authorized Retailer
 
 [Home](https://web.archive.org/) > Privacy Policy
 
-Version 02/1/2011
+Version 05/22/2013
 
 This privacy notice discloses the privacy practices for dishpromotions.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -49,3 +49,8 @@ While we use encryption to protect sensitive information transmitted online, we 
 Contact us via telephone at 
 
 or [via email](mailto:sterling@sterlingsatellite.com).**
+
+Customer service hotline   
+1-855-299-6511
+
+[Looking for internet service? Click here](https://web.archive.org/web/20131220160130id_/http%3A//dishpromotions.com/dishnet.asp)
