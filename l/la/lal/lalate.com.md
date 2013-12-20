@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616213047id_/http%3A//news.lalate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220063419id_/http%3A//news.lalate.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
