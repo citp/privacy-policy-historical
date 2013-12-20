@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tapatalk.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211010518id_/http%3A//www.tapatalk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapatalk.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220171316id_/http%3A//www.tapatalk.com/privacy.php) for the most accurate reproduction.*
 
-# Tapatalk Forum App - Empowering Forum Junkies on-the-go
+# Tapatalk - Connecting Communities
 
 Privacy Policy
 
@@ -10,7 +10,7 @@ Tapatalk does not transmit your forum password and any of your conversation info
 
 The Legal Jungle...
 
-Quoord Systems Limited, the owner of Tapatalk, is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site and Mobile Application, located at tapatalk.com and respective App Store. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site and mobile application following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+Tapatalk, Inc., is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site and Mobile Application, located at tapatalk.com and respective App Store. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site and mobile application following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 I. INFORMATION COLLECTED
 
@@ -38,11 +38,11 @@ Our site has industry standard security measures in place to protect the loss, m
 
 VI. OTHER WEB SITES; LINKS
 
-Our Web site contains links to other Web sites. Our Mobile Application may also contains links to other mobile application and Web sites. Quoord Systems Limited is not responsible for the privacy practices or the content of such Web sites and Mobile application.
+Our Web site contains links to other Web sites. Our Mobile Application may also contains links to other mobile application and Web sites. Tapatalk, Inc. is not responsible for the privacy practices or the content of such Web sites and Mobile application.
 
 VII. CORRECT; UPDATE
 
-Quoord Systems Limited allows its users the option to change or modify information previously provided. This may be done through the following methods:
+Tapatalk, Inc. allows its users the option to change or modify information previously provided. This may be done through the following methods:
 
 (1) e-mail the information to admin@tapatalk.com   
 (2) visit the Community Support section of the site and follow the appropriate instructions.
