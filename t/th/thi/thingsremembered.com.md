@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thingsremembered.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626152652id_/https%3A//www.thingsremembered.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingsremembered.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220113013id_/http%3A//www.thingsremembered.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security at Things Remembered
 
-At Things Remembered your trust and satisfaction is of the utmost importance. We are committed to respecting the privacy and the security of your personal information and have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. This Policy was last revised on May 18, 2010.
+At Things Remembered your trust and satisfaction is of the utmost importance. We are committed to respecting the privacy and the security of your personal information and have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. This Policy was last revised on October 7, 2013.
 
   
 
@@ -15,6 +15,15 @@ At Things Remembered your trust and satisfaction is of the utmost importance. We
 ## Mailing Lists
 
 From time to time, we make our mailing list (including names and addresses only) and general shopping activities available to carefully selected companies whose products or services we believe may be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We do not share email addresses for this purpose. If you do not wish to receive mailings from these carefully selected companies, simply call Customer Service at 866.902.4438.
+
+**Back to top**
+
+  
+
+
+## Personal Information
+
+We may also share your personal information, and any transactions you conduct on our site or offline with us with a third-party advertising partner and its service providers in order to deliver you advertising tailored to your interests when you visit certain other websites. Data shared with our third-party partner is made anonymous. If you wish to not have your information shared for these purposes, please contact us at 866.902.4438.
 
 **Back to top**
 
@@ -79,10 +88,10 @@ Please note that when you make a purchase and provide us with your email address
 
 ## Cookies
 
-Thingsremembered.com uses your browser's "cookie" feature. A cookie is a small piece of text stored on a computer by a web browser. As text, cookies are not executable and therefore cannot replicate themselves and are not viruses. Cookies are used to ensure that items remain in your Shopping Bag while you continue shopping and to keep track of site preferences like your display name, home store and other session information. We do not use cookies to store personal information such as your credit card number. 
+Thingsremembered.com uses your browser's "cookie" feature. A cookie is a small piece of text stored on a computer by a web browser. As text, cookies are not executable and therefore cannot replicate themselves and are not viruses. Cookies are used to ensure that items remain in your Shopping Bag while you continue shopping and to keep track of site preferences like your display name, home store and other session information. We do not use cookies to store personal information such as your credit card number.. We may use technologies such as our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of advertising provided by us, click [here](http://dtmc.thingsremembered.com/adinfo/adchoices_fpc.html?cid=2547&cname=Things%20Remembered&cmagic=86ecfc&clogo=things_remembered.png). 
 
-Cookies enable you to take advantage of some of our most valuable services. In accordance with our Privacy Policy, the information contained in your thingsremembered.com cookie is confidential, never shared, and is solely used to enhance your shopping experience while on our website. Please note that certain pages of the Site may not function properly if cookies are turned off. Please consult your web browser's Help documentation for more information about how to turn cookies on and off within your browser.
+Cookies enable you to take advantage of some of our most valuable services. In accordance with our Privacy Policy, the information contained in your thingsremembered.com cookie is confidential, never shared, and is used to enhance your shopping experience while on our website. Please note that certain pages of the Site may not function properly if cookies are turned off. Please consult your web browser's Help documentation for more information about how to turn cookies on and off within your browser.
 
-We may use third party companies to assist us in understanding shoppers use of the site. To accomplish this, these companies may place cookies on your computer to receive information about your browsing and buying activity on the site, and help us to provide you with a better, more personalized shopping experience. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Things Remembered.
+We may use third party companies to assist us in understanding shoppers use of the site and to provide online display advertising tailored to their interests. To accomplish this, these companies may place cookies on your computer to receive information about your browsing and buying activity on the site, and help us to provide you with a better, more personalized shopping experience. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Things Remembered. To learn more, or to opt-out of receiving advertisements tailored to your interests, visit the Network Advertising Initiative at www.networkadvertising.org/choices. 
 
 **Back to top**
