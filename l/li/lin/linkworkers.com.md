@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkworkers.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603222114id_/http%3A//www.linkworkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkworkers.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220034108id_/http%3A//linkworkers.com/privacy.php) for the most accurate reproduction.*
 
 # Linkworkers - Privacy Policy
 
