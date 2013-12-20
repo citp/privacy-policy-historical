@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620140131id_/http%3A//www.jobscience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220031537id_/http%3A//www.jobscience.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Recruitment on the World's #1 CRM
 
