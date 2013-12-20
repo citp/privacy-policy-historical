@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onelogin.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629053143id_/http%3A//www.onelogin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelogin.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220115147id_/http%3A//www.onelogin.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OneLogin
+# Privacy Police | OneLogin
 
 **Effective as of March 23, 2012.**
 
@@ -8,7 +8,7 @@ When you register with OneLogin, Inc. (“OneLogin”) for a OneLogin account yo
 
 [](https://privacy.truste.com/privacy-seal/OneLogin/validation?rid=4094734b-bd20-4bf8-8c70-fac24b5dba2c "Validate TRUSTe privacy certification")
 
-OneLogin has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@onelogin.com](mailto:privacy@onelogin.com?subject=Privacy%20Policy). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+OneLogin has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@onelogin.com](mailto:privacy@onelogin.com?subject=Privacy%20Policy). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 [](http://safeharbor.export.gov/companyinfo.aspx?id=18980)
 
@@ -47,6 +47,10 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 As is true of most Web sites, we and our third party utility-tracking partners gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+
+## GoogleAnalytic and Display Advertising
+
+OneLogin uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. OneLogin and and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s Ads Preferences Manager.
 
 ## INFORMATION SHARING
 
