@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605053700id_/http%3A//picsart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220080435id_/http%3A//picsart.com/privacy) for the most accurate reproduction.*
 
 # Privacy / Picsart Artists Photos and Drawings Gallery
 
 Privacy Policy
 
-This Privacy Policy describes how PicsArt (" **PicsArt** ", " **picsart** ", "We", " **Us** ", or " **Our** ") protects your privacy when you use picsart (the " **Service** ") which includes the Web site located at www.picsart.com (the " **Site** ") and all picsart mobile phone applications (" **Mobile** ").
+This Privacy Policy describes how PicsArt (" **PicsArt** ", " **picsart** ", " **We** ", " **Us** ", or " **Our** ") protects your privacy when you use picsart (the " **Service** ") which includes the Web site located at www.picsart.com (the " **Site** ") and all picsart mobile phone applications (" **Mobile** ").
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SERVICE.
 
