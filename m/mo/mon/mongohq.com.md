@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513183456id_/http%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220084549id_/https%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Hosted MongoDB
 
-  * [Create a Support Ticket](https://web.archive.org/support/new_request.html)
-  * [Sign up for MongoHQ](http://www.mongohq.com/signup)
+  * [Contact Support](https://web.archive.org/support/new_request.html)
+  * [Sign up](https://www.mongohq.com/signup)
   * [Log in](https://app.mongohq.com/)
 
 
