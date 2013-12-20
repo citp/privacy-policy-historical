@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benefitfocus.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503052324id_/http%3A//www.benefitfocus.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitfocus.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220192027id_/http%3A//www.benefitfocus.com/about/privacy-statement) for the most accurate reproduction.*
 
-# Benefitfocus Privacy Statement : Benefit Administration Software : Human Resources Portal
+# Benefitfocus Privacy Statement | Benefitfocus
 
 At Benefitfocus, we value our relationship with you and place the highest importance on respecting and protecting your privacy. We want you to feel comfortable and confident when using our products and services and with entrusting your personal, company and benefit information to us.
 
