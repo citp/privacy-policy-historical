@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitask.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412073524id_/http%3A//hitask.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitask.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220113455id_/http%3A//hitask.com/privacy) for the most accurate reproduction.*
 
-# HiTask: Privacy policy
+# HiTask: Privacy Policy
 
 Human Computer respects your privacy. We developed Privacy Policy to show our engagement into defending your privacy and to opening our information and privacy practices for www.hitask.com. We keep the right to amend this Policy and will inform you of such amendments via email or our website. If you have questions about this Privacy Policy, please contact us at [privacy@hitask.com](mailto:privacy@hitask.com). 
 
