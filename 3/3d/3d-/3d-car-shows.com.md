@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623003309id_/http%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220042005id_/http%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy 3D Car Shows | 3D Car Shows
+# Privacy Policy 3D Car Shows
 
 This Privacy Policy governs the manner in which 3D Car Shows collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://3d-car-shows.com](http://3d-car-shows.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Car Shows.
 
@@ -83,5 +83,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [webmaster@3d-car-shows.com](mailto:webmaster@3d-car-shows.com)
 
 This document was last updated on December 05, 2011
-
-### Share and Enjoy
