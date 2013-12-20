@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618112956id_/http%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220055113id_/http%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
 
-# Privacy - hooktheory.com
+# Privacy - Hooktheory
 
 ### Policy last updated October 19, 2011
 
