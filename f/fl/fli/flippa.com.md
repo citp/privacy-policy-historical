@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920090512id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220204053id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
 
-# Flippa: The #1 Marketplace for Buying and Selling Websites
+# Flippa: Privacy Policy
 
 The privacy of your personal information is afforded the highest level of importance by **Flippa Pty Ltd** (ACN 135 570 713). We are bound by the Privacy Act 1988 (Cth) (“ **Act** ”) regarding the manner in which we handle your personal information and how we respond to your requests to access and correct it. While we take careful measurements to protect the confidentiality of information provided to us, we have adopted the Privacy Policy detailed in this document in compliance with the Act. This document sets out our information handling procedures and the rights and obligations that both you and we have in relation to your personal information.
 
