@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fai.ie privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528071754id_/http%3A//www.fai.ie/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D152%26Itemid%3D132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fai.ie privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220192202id_/http%3A//www.fai.ie/fai-privacy-statement.html) for the most accurate reproduction.*
 
-# FAI Privacy Statement | Football Association of Ireland Official Website
+# Football Association of Ireland - FAI Privacy Statement
 
 **General**  
-The Football Association of Ireland (FAI) respects your privacy and has created this statement to demonstrate our commitment to protecting it. In general you can visit the FAI on the web without identifying yourself and we will not collect any personal information about you on our website without your clear permission. Any information you do submit will be treated strictly in accordance with the Data Protection Acts, 1988 and 2003. 
+The Football Association of Ireland (FAI) respects your privacy and has created this statement to demonstrate our commitment to protecting it. In general you can visit the FAI on the web without identifying yourself and we will not collect any personal information about you on our website without your clear permission. Any information you do submit will be treated strictly in accordance with the Data Protection Acts, 1988 and 2003.
 
 **Scope**  
-The FAI websites are www.fai.ie, www.faivantageclub.com and www.eircomloi.ie. This statement outlines our privacy policy with regard to these websites. We are not responsible for the content or privacy practices of other linked websites.
+The FAI websites are www.fai.ie, www.airtricityleague.ie, www.summersoccerschools.ie, wnl.fai.ie, coaching.fai.ie, away.fai.ie, mcdonaldsfuturefootball.fai.ie & www.thirdlevelfootball.ie. This statement outlines our privacy policy with regard to these websites. We are not responsible for the content or privacy practices of other linked websites.
 
 **Technical Information**  
 Technical details of your visit to FAI websites are recorded. These include IP addresses, browser details and web search terms. This information will only be used for statistical and site management purposes. And to help us make our site more user friendly.
@@ -24,6 +24,10 @@ This includes data about usage and service operation that is not associated with
 
 **Cookies**  
 Cookies are small text files that a website can use in order to recognise visitors who revisit a site so as to facilitate their ongoing access to and use of the site. It enables usage behaviour to be tracked and aggregate data to be compiled that would facilitate more targeted advertising and improved content. Typically, cookies involve the assigning of a unique number to the visitor. One simple way to prevent the use of cookies it to activate the facility which is available in most web browsers that enables the user to deny or accept cookies. However, visitors should realise that certain cookies may be necessary in order to provide the visitor with certain features such as the customised delivery of certain information.
+
+If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org,](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of desktop browsers.
 
 **Children's Privacy**  
 The FAI is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests.
