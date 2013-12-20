@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.webs.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427004513id_/http%3A//www.webs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.webs.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220203050id_/http%3A//www.webs.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Webs
 
