@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstalk.ie privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528153340id_/http%3A//newstalk.ie/footer_pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk.ie privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220155820id_/http%3A//www.newstalk.ie/footer_pages/privacy.php) for the most accurate reproduction.*
 
 # Newstalk - Privacy Policy
 
@@ -16,7 +16,7 @@ By joining the Newstalk Nation Programme you agree to allow us to communicate wi
 
 The Use Of 'Cookies' 
 
-In order to enable us to provide you with a personalised browsing experience, this site uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website or providing access to certain site features (such as Badgeville). Disabling cookies could mean you are not able to use some features of the website. 
+In order to enable us to provide you with a personalised browsing experience, this site uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website or providing access to certain site features. Disabling cookies could mean you are not able to use some features of the website. 
 
 Please note that if you choose to opt-out of receiving cookies, you may lose some features and / or functionality of Newstalk.ie, for example - you won't be able to login with Newstalk ID. 
 
