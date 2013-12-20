@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vigrxplus.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413110825id_/http%3A//www.vigrxplus.com/emailpriv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vigrxplus.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220125106id_/http%3A//www.vigrxplus.com/emailpriv.html) for the most accurate reproduction.*
 
 # VigRX Plus Email and Privacy Policy
 
@@ -63,7 +63,7 @@ Copyright ©2013 Leading Edge Marketing. All rights reserved.
 
 Our promise to you is simple: If you're not thrilled with the difference VigRX Plus™ makes in your sex life, with: 
 
-  * Firmer, longer-lasting erections!
+  * Improved sexual performance!
   * Stamina and sex drive of a healthy teenager!
   * Orgasms so intense, you will be shocked... then thrilled!
 
@@ -71,4 +71,4 @@ Our promise to you is simple: If you're not thrilled with the difference VigRX P
 
 #### ... Then simply send us your empty VigRX Plus™ containers in the first 67 days and we will refund your entire purchase price -- no questions asked!
 
-[](https://web.archive.org/web/20130413110825id_/http%3A//www.vigrxplus.com/order.html)
+[](https://web.archive.org/web/20131220125106id_/http%3A//www.vigrxplus.com/order.html)
