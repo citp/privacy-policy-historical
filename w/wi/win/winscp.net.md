@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603054711id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220022319id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
 
 # WinSCP Privacy Policy :: WinSCP
 
@@ -47,7 +47,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ## How do we protect your information?
 
-We use PayPal to process your payments. PayPal offers the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. Please refer also to PayPal Privacy policy for details. 
+We use PayPal to process your payments. PayPal offers the use of a secure server. All supplied sensitive information is transmitted via Transport Layer Security (TLS) or Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. Please refer also to PayPal Privacy policy for details. 
 
 After a transaction, your private information (credit cards, social security numbers, etc.) will not be stored on our servers. 
 
