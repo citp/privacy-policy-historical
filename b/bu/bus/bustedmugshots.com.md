@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bustedmugshots.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620103411id_/http%3A//www.bustedmugshots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedmugshots.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220081612id_/http%3A//www.bustedmugshots.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# BustedMugshots.com
 
 When accessing our Website, Citizens Information Associates LLC will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
