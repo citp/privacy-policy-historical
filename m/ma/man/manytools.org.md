@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manytools.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609211547id_/http%3A//manytools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manytools.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220214456id_/http%3A//manytools.org/privacy-policy) for the most accurate reproduction.*
 
 # Manytools.org Privacy Policy
 
@@ -16,52 +16,52 @@ We may disclose personal information if required to do so by law or in the good-
 
 If you want to disable cookies, you can do so in your browser's configuration. More detailed information about cookie management on specific browsers can be found on their websites; [Internet Explorer](http://www.microsoft.com/info/cookies.htm), [Firefox](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html), [Safari](http://docs.info.apple.com/article.html?path=Safari/2.0/nl/ibr30.html).
 
-#### May 28, 2013
+#### November 23, 2013
 
 [
 
-### iOS touch icon generator
+### New: Ⓑⓤⓑⓑⓛⓔ text tool
+
+](http://manytools.org/facebook-twitter/bubble-text/ "Bubble text tool for Facebook, Twitter & E-mail")
+
+Stand out; use special characters in your tweets or e-mails.
+
+#### November 23, 2013
+
+[
+
+### New: Sᴍᴀʟʟᴄᴀᴘs text tool
+
+](http://manytools.org/facebook-twitter/smallcaps-text-tool/ "Smallcaps text tool for Facebook, Twitter & E-mail")
+
+Look like a Bᴀɴᴋ with Sᴍᴀʟʟᴄᴀᴘs in your status-updates or e-mails.
+
+#### November 21, 2013
+
+[
+
+### DNSSEC checker tool added
+
+](http://manytools.org/network/validate-dnssec-domain-name-server-security/ "Check DNSSEC domain name server security")
+
+Domain not resolving? Check your DNSSEC here.
+
+#### November 13, 2013
+
+[
+
+### Apple touch icon updated for retina
 
 ](http://manytools.org/http-html-text/apple-touch-icon-generator/ "Apple-touch-icon generator")
 
-I've just added a new apple-touch-icon generator; download your icons as .zip
+Thanks to Eric for pointing out our touch icon tool was a bit out of date, it now supports the new retina sizes & filenames.
 
-#### May 21, 2013
-
-[
-
-### Outage
-
-](http://manytools.org/ "Manytools.org")
-
-Due to a big outage in the datacenter (defective 400 Watt fuse), Manytools has been unreachable for a few hours. All systems are back up and running now, let's hope it stays that way! If you notice any irregularities, please let me know through the contact form. Thanks!
-
-#### May 6, 2013
+#### November 12, 2013
 
 [
 
-### Updates to the site! Lots of small improvements!
+### Image effects updated
 
-](http://manytools.org/finance/ "Finance")
+](http://manytools.org/image/colorize-filter/ "Colorize images")
 
-This week I'll be rolling out some updates to the site. I've updated its code, fixed some bugs & added a whole new 'Finance' section by popular request. Stay tuned!
-
-#### June 21, 2012
-
-[
-
-### CSS3 gradient generator in all colors & 360°
-
-](http://manytools.org/css3/gradients/ "CSS3 Gradient generator")
-
-Another nice one that's been in the making; CSS3 gradient tool. Generate cross browser 360° gradient code.
-
-#### May 21, 2012
-
-[
-
-### Updated: ❀ ✿ Facebook / Twitter icons ❁ ✾
-
-](http://manytools.org/facebook-twitter/icons/ "Text Smileys & Icons ✿ for Facebook ❦ Twitter")
-
-Stand out; use special characters in your tweets!
+We just updated the image effects (B/W, sepia & colorization), they now show live results in the browser (HTML5 / canvas support required).
