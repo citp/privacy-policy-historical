@@ -1,83 +1,43 @@
-> *The following text is extracted and transformed from the sitepointmarket.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604223540id_/http%3A//sitepointmarket.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepointmarket.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220204053id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
 
-# Classified Listing Guidelines
+# Flippa: Privacy Policy
 
-This is a privacy policy for SitePoint Pty Ltd. SitePoint Market respects your privacy. Below is an outline of the information that SitePoint Market gathers, how it’s used, and how you can “opt-out” 
+The privacy of your personal information is afforded the highest level of importance by **Flippa Pty Ltd** (ACN 135 570 713). We are bound by the Privacy Act 1988 (Cth) (“ **Act** ”) regarding the manner in which we handle your personal information and how we respond to your requests to access and correct it. While we take careful measurements to protect the confidentiality of information provided to us, we have adopted the Privacy Policy detailed in this document in compliance with the Act. This document sets out our information handling procedures and the rights and obligations that both you and we have in relation to your personal information.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
+## Collection of Information
 
-**SitePoint Pty Ltd**   
-48 Cambridge Street   
-Collingwood, Victoria 3066   
-Australia
+We will only collect personal information where it is reasonably necessary to do so for the conduct of our business. Any collection of personal information by us will be fair and lawful and will not be intrusive. Upon request you will be told the identity of the collecting entity, the purpose of the collection, details on how you can gain access to your personal information and any consequences of failing to give the information.
 
-You may contact us by email at [privacy@sitepoint.com](mailto:privacy@sitepoint.com)
+If it is reasonable and practical do so, we will collect personal information about you only from you. In the course of operating the business, however, it may be necessary to collect personal information from various external sources, including government agencies and other third parties.
 
-#### Site Visits:
+If we collect personal information about you from a third party we will, where appropriate, request that the third party inform you that we are holding such information, how we will use and disclose it, and that you may contact us to gain access to and correct and update the information. We will not, however, make any such request to any third party in circumstances where it would not be practical to do so.
 
-Whenever you request a page through your browser, navigation and clickstream data such as:
+## Use and Disclosure of Information
 
-  * your IP address, 
-  * browser and version, 
-  * operating system, 
-  * date and time and 
-  * the site from which you came
+In general, we will not use or disclose personal information about you otherwise than for the purpose of providing or offering goods and services to you, for any other purpose that you may reasonably expect, for any other purpose authorised by law, or for any other purposes disclosed to or authorised by you. This may include disclosures to organisations that provide us with professional advice, such as solicitors, accountants and business advisors.
 
+A number of laws require the provision of personal information to third parties, including the Australian Corporations Act 2001 (Cth). The precise information required to be provided will vary depending on the circumstances requiring disclosure of that information.
 
+We will, wherever possible, keep all personal information strictly confidential. Any disclosure that is required to be made to any third party will be made primarily for the purpose of providing or offering goods and services to you.
 
-are stored in a log file and/or database. Any search terms that you enter into the SitePoint Market Site Search are also logged. This information cannot be used to identify specific individuals, and is only used for:
+Any personal information submitted via our online form may need to be processed by a third party. By submitting personal information via an online form, you consent to the disclosure of that information to a third party, which may be located overseas, for the sole purpose of processing the online form.
 
-  * Website and system administration, 
-  * research and development, 
-  * anonymous user analysis, and 
-  * to provide accurate statistics to advertisers in the form of aggregated data. 
+We may also use or disclose personal information about you to avoid, lessen or prevent a serious emergency or crime. If we use or disclose personal information about you in those circumstances we will make a written record of such use or disclosure.
 
+## Information Security
 
+We will take reasonable steps to hold all hard copy and electronic records of your information in a secure manner to ensure that they are protected from unauthorised access, modification or disclosure. We will delete your personal information once it is no longer needed or required to be kept by law.
 
-This information is kept on a secure dedicated server hosted by [RackSpace](http://www.rackspace.com/) as well as servers within the SitePoint Market offices. 
+## Data Access and Correction
 
-The email addresses collected from subscriptions to the SitePoint newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out SitePoint Market communications (for example, the SitePoint Market newsletters). You will not receive any mailings you did not request. The email addresses collected at SitePoint Market are stored on a server hosted by SparkList. You can remove yourself from our list at any time by visiting <http://sitepoint.com/newsletter/manage.php>
+You may request access to your personal information at any time by sending a written request to our privacy officer by mail at Flippa Pty Ltd c/o 48 Cambridge St, Collingwood, VIC, 3066 Australia, by facsimile on 03 9090 8201 or by email to privacy@flippa.com. You do not need to provide a reason for your request. We may charge a small fee for providing access if it requires a significant amount of time to locate or collect your information or to present it in an appropriate form.
 
-The email addresses collected at SitePoint Market from subscribers to the opt-in lists (AKA "Information Announcement Lists") are used by Postmaster Direct to send announcements to individuals who requested them. You will not receive any mailings you did not request, and you can remove yourself at any time. Your email address will not be disclosed to any third party besides Postmaster Direct. Instructions for removal from these mailings are included in each individual email message that is sent to you. 
+In rare circumstances, and only where it is permitted under the Act, we may not be able to provide you with access to your information. For example, where the requested access will have an unreasonable impact upon the privacy of others or where we are required by law to withhold the information, we may refuse access. If we are unable to provide you with access, we will provide you with reasons for our refusal.
 
-When a contest/sweepstakes/survey is run on this site you may be asked to supply some personally identifying information like your name, email address and/or phone number. This information will only be used to notify winners of the contest/sweepstakes. Non-identifying information may be analyzed, aggregated and presented to third-parties to provide an overview of the demographics of our Network´s visitors. 
+If your personal information is out of date or incorrect, you may inform us of this and we will correct it for you.
 
-When a survey appears on the SitePoint Network, information is collected, compiled and analyzed on an aggregated basis. SitePoint Market may share this aggregated data with advertisers or business partners. 
+## Transfer of Information Overseas
 
-Cookies are a technology which can be used to provide you with tailored information from a Website. A cookie is an element of data that a Website can send to your browser, and which your browser may then store on your system. You can set your browser to notify you when you receive a cookie. Doing this will allow you to decide on a case-by-case basis whether to accept cookies or not. 
+By submitting personal information to Flippa, you consent to the transfer of that information to any jurisdiction in which Flippa conducts its business activities, including Australia and the United States, for the purpose of enabling Flippa to provide services to you.
 
-Cookies on this site are used by ourselves, our ad management system, and occasionally by advertisers who use 3rd party ad serving solutions. Cookies are used for: 
-
-  * ad tracking, 
-  * customization of content (i.e. not repeating pop-up windows), 
-  * storing login information, and 
-  * statistical site-traffic analysis. 
-
-
-
-The information collected during the registration process for the SitePoint Market Community is used to:
-
-  * contact members, 
-  * customize content based upon user preferences, 
-  * display member status, and 
-  * display the date of a member´s last visit. 
-
-
-
-Information collected in this process can also be used to prevent banned users from re-registering under a different username. The email address will only be seen by moderators and administrators if the "Keep your email address viewable to other users when you post notes?" option is set to **no**. Cookies may be sent to your browser to enable automatic log-ins upon further visits, as well as for content customization. 
-
-If you purchase products directly from SitePoint Market, your contact information and a transaction history will be kept by SitePoint Market. We may use the contact information to inform you about the status of your order, as well as to let you know about upcoming SitePoint Products. 
-
-Any postings in our Forums, Blogs, Articles, Community or Marketplace, should be considered public knowledge and will be accessible by search engine spiders. This includes any information you provode in the "profile" associated with any accounts you have at SitePoint Market. SitePoint Market will not retroactively edit your username, profile or posted messages.
-
-If you participate in the Marketplace, your contact information may be shared with the counter-party to any transactions you are entering into.
-
-Any messages sent through SitePoint Market's servers, including person-to-person communcations, are unencrypted and may be accessed by SitePoint Market Employees or Contractors.
-
-SitePoint Market complies with all law enforcement agency requests for information
-
-If you request sample chapters of one of SitePoint Market’s information products/books, your email address will be used for follow-up purposes. You may unsubscribe from these mailings at any time by clicking on the unsubscribe link.
-
-Any data collected will be used by ourselves and our agents. SitePoint Market hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets. 
-
-If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact [privacy@sitepoint.com](mailto:privacy%3Cspan%3E@%3C/span%3Esitepoint.com "Email us about our Privacy Policy")
+We will otherwise only transfer your personal information overseas if the transfer is to you or to one of your authorised representatives, with your expressed consent or otherwise in accordance with the National Privacy Principles. We will not send your information outside of Australia in any other circumstances.
