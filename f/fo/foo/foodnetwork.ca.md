@@ -1,27 +1,32 @@
-> *The following text is extracted and transformed from the foodnetwork.ca privacy policy that was archived on 2013-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130228152748id_/http%3A//www.shawmedia.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnetwork.ca privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112730id_/http%3A//www.shawmedia.ca/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Shaw Media
 
-  
+### Privacy Policy
 
+#### Introduction
 
-### Introduction
+Shaw Media Inc. (“Shaw Media”) and its affiliates and subsidiaries (collectively, the “Shaw Media Companies”) are committed to controlling the collection, use and disclosure of personal information provided by the customers and employees of each Shaw Media Company and have adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information.
 
-Shaw Media Inc. (“Shaw Media”) and its affiliates and subsidiaries (collectively, the “Shaw Media Companies”) are committed to controlling the collection, use and disclosure of personal information provided by the customers and employees of each Shaw Media Company and have adopted this Privacy Policy to ensure the accuracy, confidentiality and integrity of such personal information. 
+#### Application
 
-### Application
+This Privacy Policy applies to personal information that a Shaw Media Company collects, uses or discloses in respect of its customers or employees in the course of its commercial activities.
 
-This Privacy Policy applies to personal information that a Shaw Media Company collects, uses or discloses in respect of its customers or employees in the course of its commercial activities. 
-
-### Definitions
+#### Definitions
 
 The following defined terms are used throughout this Privacy Policy:
 
-**Shaw Media** – means Shaw Media Inc.
+ **Shaw Media** – means Shaw Media Inc.
 
-**Shaw Media Companies** \- means, collectively, Shaw Media Inc. and all of its subsidiaries with respect to their operations in Canada, and a Shaw Media Company means any one of them.
+ **Shaw Media Companies** \- means, collectively, Shaw Media Inc. and all of its subsidiaries with respect to their operations in Canada, and a Shaw Media Company means any one of them.
 
-**customer** – means an individual who:
+ **customer** – means an individual who:
+
+**employee** – means an employee, former employee or pensioner of a Shaw Media Company and, for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of Shaw Media.
+
+ **personal information** – means information about an identifiable individual, but does not include the name, title, or business address or telephone number of an employee of an organization. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, is not considered personal information.
+
+ **privacy legislation** \- means Canada’s federal private sector privacy legislation, the _Personal Information Protection and Electronic Documents Act_ (“PIPEDA”), and substantially similar provincial privacy legislation including Alberta’s _Personal Information Protection Act_ , British Columbia’s _Personal Information Protection Act_ , and Quebec’s _An Act respecting the protection of personal information in the private sector_.
 
 (a) | subscribes for, uses, or applies to use, the products or services of a Shaw Media Company;  
 ---|---  
@@ -35,17 +40,11 @@ The following defined terms are used throughout this Privacy Policy:
   
 (d) | enters a contest sponsored by a Shaw Media Company.  
   
-**employee** – means an employee, former employee or pensioner of a Shaw Media Company and, for the purposes of this Privacy Policy, includes the directors, shareholders and security holders of Shaw Media.
+#### The Ten Privacy Principles
 
-**personal information** – means information about an identifiable individual, but does not include the name, title, or business address or telephone number of an employee of an organization. Publicly available information, such as a public directory listing of names, addresses, telephone numbers and electronic addresses, is not considered personal information.
+This Privacy Policy has been developed in accordance with the standards set out in PIPEDA and is modelled after the Canadian Standards Association Model Code for the Protection of Personal Information, CAN/CSA-Q830-96. Accordingly, the ten principles of fair information practices (the “Principles”), as identified by the Canadian Standards Association, have been adopted by the Shaw Media Companies and represent a formal statement of the minimum requirements to be adhered to by each of the Shaw Media Companies for the protection of personal information collected from the customers and employees of the Shaw Media Companies.
 
-**privacy legislation** \- means Canada’s federal private sector privacy legislation, the _Personal Information Protection and Electronic Documents Act_ (“PIPEDA”), and substantially similar provincial privacy legislation including Alberta’s _Personal Information Protection Act_ , British Columbia’s _Personal Information Protection Act_ , and Quebec’s _An Act respecting the protection of personal information in the private sector_. 
-
-### The Ten Privacy Principles
-
-This Privacy Policy has been developed in accordance with the standards set out in PIPEDA and is modelled after the Canadian Standards Association Model Code for the Protection of Personal Information, CAN/CSA-Q830-96. Accordingly, the ten principles of fair information practices (the “Principles”), as identified by the Canadian Standards Association, have been adopted by the Shaw Media Companies and represent a formal statement of the minimum requirements to be adhered to by each of the Shaw Media Companies for the protection of personal information collected from the customers and employees of the Shaw Media Companies. 
-
-### Principle 1 – Accountability
+#### Principle 1 – Accountability
 
 _**Each Shaw Media Company is responsible for the personal information under its control and shall designate one or more individuals who shall be accountable for the company’s compliance with the procedures and principles set out in this Privacy Policy.**_
 
@@ -67,7 +66,7 @@ _**Each Shaw Media Company is responsible for the personal information under its
   
   | (c) | training and communicating to staff information about the Shaw Media policies and practices.  
   
-### Principle 2 – Identifying Purposes
+#### Principle 2 – Identifying Purposes
 
 _**Each Shaw Media Company will identify the purpose for which personal information is collected at or before the time the information is collected. The purposes for which personal information is collected, used or disclosed by a Shaw Media Company must be those that a reasonable person would consider are appropriate in the circumstances.**_
 
@@ -120,7 +119,7 @@ _**Each Shaw Media Company will identify the purpose for which personal informat
   
 2.9 | Anonymous or “non-personal” information gathered by a Shaw Media Company through its web site may be used for technical, research and analytical purposes. Information collected through surveys, existing files and public archives may be used by a Shaw Media Company to analyze its markets and to develop or enhance service offerings.  
   
-### Principle 3 – Consent
+#### Principle 3 – Consent
 
 _**Except where required or permitted by law, the knowledge and consent of the individual are required for the collection, use or disclosure of personal information.**_
 
@@ -159,7 +158,7 @@ _**Except where required or permitted by law, the knowledge and consent of the i
   
 3.8 | An individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. The Shaw Media Companies will inform individuals of the implications of withdrawing consent. Customers and employees may contact the relevant Shaw Media Company for more information regarding the implications of withdrawing consent.  
   
-### Principle 4 – Limiting Collection
+#### Principle 4 – Limiting Collection
 
 _**The Shaw Media Companies shall limit the collection of personal information to that which is necessary for the purposes identified by the company. Personal information shall be collected by fair and lawful means.**_
 
@@ -172,7 +171,7 @@ _**The Shaw Media Companies shall limit the collection of personal information t
   
 4.3 | The Shaw Media Companies use a browser feature called a "cookie" to collect information anonymously and track user patterns on Shaw Media websites. A cookie is a small text file that is placed on your hard disk by a website. "Cookies" contain a unique identification number that identifies your browser, but not you, to our computers each time you visit one of our websites. Cookies tell us which pages of our websites are visited and by how many people. The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on our websites.  
   
-### Principle 5 – Limiting Use, Disclosure and Retention
+#### Principle 5 – Limiting Use, Disclosure and Retention
 
 _**Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of the purposes for which it was collected.**_
 
@@ -220,7 +219,7 @@ _**Personal information shall not be used or disclosed for purposes other than t
   
 5.7 | Personal information shall be retained only as long as it remains necessary or relevant for the identified purposes or as required by law. Depending on the circumstances, where personal information has been used to make a decision about a customer or an employee, the relevant Shaw Media Company shall retain, for a period of time that is reasonably sufficient to allow for access by the customer or employee, either the actual information or the rationale for making the decision.  
   
-### Principle 6 – Accuracy
+#### Principle 6 – Accuracy
 
 _**Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.**_
 
@@ -233,7 +232,7 @@ _**Personal information shall be as accurate, complete and up-to-date as is nece
   
 6.3 | Customers and employees are responsible for advising the Shaw Media Companies of any inaccuracies or changes to their personal information. Please inform the Shaw Media Company to whom you provided your information of any change of name, address or other personal information. In the event you have questions about the accuracy of factual information we have collected about you, you will have access to that information in order to verify and update it. If a Shaw Media Company has disclosed inaccurate personal information about you to a third party, such company will be pleased to contact the third party in order to correct the personal information.  
   
-### Principle 7 – Safeguarding Personal Information
+#### Principle 7 – Safeguarding Personal Information
 
 _**Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.**_
 
@@ -252,7 +251,7 @@ _**Personal information shall be protected by security safeguards appropriate to
   
 7.5 | Personal information disclosed to third parties shall be protected by contractual agreement stipulating the confidentiality of the information and the purposes for which it is to be used.  
   
-### Principle 8 – Openness
+#### Principle 8 – Openness
 
 _**The Shaw Media Companies shall make readily available to its customers and employees specific information about its policies and practices relating to the management of personal information.**_
 
@@ -262,7 +261,7 @@ _**The Shaw Media Companies shall make readily available to its customers and em
   
 8.2 | Such information shall be made available to: (i) customers by writing to Shaw Media Inc., to the attention of the Privacy Officer at 630-3rd Ave. S.W., Calgary, AB, T3P 4L4 or at [privacy@shaw.ca](mailto:privacy@shaw.ca), and (ii) employees by contacting the Human Resources Department at the applicable Shaw Media Company.  
   
-### Principle 9 – Individual Access
+#### Principle 9 – Individual Access
 
 _**Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information and shall be given access to that information except where a Shaw Media Company is permitted or required by law not to disclose personal information to the individual customer or employee. An individual customer or employee shall be able to challenge the accuracy and completeness of the information disclosed to him or her and have it amended as appropriate.**_
 
@@ -284,9 +283,13 @@ _**Upon request, an individual shall be informed of the existence, use and discl
   
 9.6 | If you have any questions about the collection, use or disclosure of your personal information by a Shaw Media Company, or if you simply want to know whether we have any of your personal information on file, you may contact Shaw Media’s Privacy Officer at 630-3rd Ave. S.W., Calgary, AB, T2P 4L4 or at [privacy@shaw.ca](mailto:privacy@shaw.ca).  
   
-### Principle 10 – Challenging Compliance
+#### Principle 10 – Challenging Compliance
 
 _**An individual customer or employee shall be able to address a challenge concerning compliance with the principles in this Privacy Policy to his or her designated Privacy Officer.**_
+
+Any changes to our Privacy Policy and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this Privacy Policy when we feel it is appropriate to do so. You may determine when this Privacy Policy was last updated by referring to the date found at the bottom of this Privacy Policy.
+
+ _Last revised Thursday, November 25, 2010._
 
 10.1 | The Shaw Media Companies shall maintain procedures for addressing and responding to all inquiries or complaints from its customers and employees about the companies’ handling of personal information.  
 ---|---  
@@ -303,8 +306,8 @@ _**An individual customer or employee shall be able to address a challenge conce
   
 10.5 | Each Shaw Media Company has procedures in place to receive and respond to complaints or inquiries about its handling of personal information. Each Shaw Media Company will describe the complaint procedures to anyone who makes inquiries or lodges complaints.  
   
-### Updating This Privacy Policy
+#### Updating This Privacy Policy
 
 Any changes to our Privacy Policy and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this Privacy Policy when we feel it is appropriate to do so. You may determine when this Privacy Policy was last updated by referring to the date found at the bottom of this Privacy Policy.
 
-_Last revised Thursday, November 25, 2010._
+ _Last revised Thursday, November 25, 2010._
