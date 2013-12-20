@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitejabber.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517075332id_/http%3A//www.sitejabber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitejabber.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220142625id_/http%3A//www.sitejabber.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | SiteJabber
 
 ## SiteJabber Principles
 
