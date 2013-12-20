@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toasttab.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524143248id_/http%3A//www.toasttab.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toasttab.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221002453id_/http%3A//www.toasttab.com/content/privacy) for the most accurate reproduction.*
 
 # Toast Privacy Policy
 
@@ -78,4 +78,4 @@ Deactivating your account puts your account on hold. Other users will no longer 
 
 #### Deletion
 
-When you delete an account, it is permanently deleted from Toast. It typically takes about one month to delete an account, but some information may remain in backup copies and logs for up to 90 days. You should only delete your account if you are sure you never want to reactivate it. You can delete your account by contacting us at [help@toasttab.com](mailto:help@toasttab.com). 
+When you delete an account, it is permanently deleted from Toast. It typically takes about one month to delete an account, but some information may remain in backup copies and logs for up to 90 days. You should only delete your account if you are sure you never want to reactivate it. You can delete your account by contacting us at [info@toasttab.com](mailto:info@toasttab.com). 
