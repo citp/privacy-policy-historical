@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ok-magazine.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511140027id_/http%3A//www.okmagazine.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ok-magazine.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220211527id_/http%3A//okmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OK! Magazine
 
 ## PRIVACY POLICY
 
-This Privacy Policy discloses the privacy practices for okmagazine.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to "OK!" include okmagazine.com and American Media, Inc. Capitalized terms not defined herein shall have the meaning assigned to them in the okmagazine.com Terms and Conditions of Use.
+This Privacy Policy discloses the privacy practices for okmagazine.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to “OK!” include okmagazine.com and American Media, Inc. Capitalized terms not defined herein shall have the meaning assigned to them in the okmagazine.com Terms and Conditions of Use.
 
 _OK_! is committed to your right to privacy and will use your data only as set forth in our Privacy Policy below. Please read this information carefully. By using the Site you agree to our collecting and using your personal information as described below.
 
@@ -52,11 +52,11 @@ We will not sell your personal information to direct marketing companies or othe
 
 Tracking Information
 
-OK! logs non-personally-identifiable information, including IP address, profile information, aggregate user data, and browser type, from users and visitors to the Site. When you use the Site we may automatically issue your computer with a small piece of code (a "Cookie"). Cookies are files we transfer to your computer's hard disk. We can use Cookies to show us how you are using our Site and to collect demographic or statistical information about user behavior. OK! may also use other devices, such as Clear Gifs or Web Beacons to collect non-personally identifiable information. These devices allow us to analyze the popularity of the Site and to better manage and improve the service we provide to you, as well as to provide a varied selection of advertisements based upon your usage.
+OK! logs non-personally-identifiable information, including IP address, profile information, aggregate user data, and browser type, from users and visitors to the Site. When you use the Site we may automatically issue your computer with a small piece of code (a “Cookie”). Cookies are files we transfer to your computer’s hard disk. We can use Cookies to show us how you are using our Site and to collect demographic or statistical information about user behavior. OK! may also use other devices, such as Clear Gifs or Web Beacons to collect non-personally identifiable information. These devices allow us to analyze the popularity of the Site and to better manage and improve the service we provide to you, as well as to provide a varied selection of advertisements based upon your usage.
 
 Non-personally-identifiable data is used to manage the website, track usage and improve the website services. This information may be shared with third-parties, for purposes including providing more relevant services and advertisements to members. User IP addresses are also recorded for security and monitoring purposes.
 
-You may also be issued with a Cookie or other tracking device from our advertisers. Advertisers' use of Cookies is subject to their own privacy policies, which may differ from the OK! Privacy Policy.
+You may also be issued with a Cookie or other tracking device from our advertisers. Advertisers’ use of Cookies is subject to their own privacy policies, which may differ from the OK! Privacy Policy.
 
 Other Uses
 
@@ -64,7 +64,7 @@ Except as otherwise described in this Privacy Policy, OK! will not disclose pers
 
 OK! reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of OK! or substantially all of its assets to that successor in interest.
 
-Children's Guidelines
+Children’s Guidelines
 
 OK! does not knowingly collect or store any information, even in aggregate, about children under the age of 13.
 
@@ -80,11 +80,11 @@ What Is The Policy Regarding My OK! Member Communications?
 
 My OK! members can invite friends to join the service by sending invitation emails via our automated invitation system. OK! stores the email addresses that members provide to facilitate member to member communications. My OK! members may also store email addresses of people they know in their My OK! page and may choose to send invitations and other communications to those addresses.
 
-You may prevent My OK! email invitations and other messages from being sent to any email address you control by sending a single email with the subject "BLOCK" to [privacy@okmagazine.com](mailto:privacy@okmagazine.com). Please note that the email must come from the account you wish to block.
+You may prevent My OK! email invitations and other messages from being sent to any email address you control by sending a single email with the subject “BLOCK” to privacy@okmagazine.com. Please note that the email must come from the account you wish to block.
 
 How Is My Information Protected?
 
-Users' accounts are secured by user-created passwords. OK! takes precautions to ensure that user account information is kept private. We use reasonable measures to protect user information that is stored within our database.
+Users’ accounts are secured by user-created passwords. OK! takes precautions to ensure that user account information is kept private. We use reasonable measures to protect user information that is stored within our database.
 
 PLEASE NOTE THAT OK! CANNOT GUARANTEE THE SECURITY OF YOUR ACCOUNT INFORMATION. UNAUTHORIZED ENTRY OR USE, HARDWARE OR SOFTWARE FAILURE, AND OTHER FACTORS MAY COMPROMISE THE SECURITY OF MEMBER INFORMATION AT ANY TIME.
 
@@ -94,4 +94,4 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 
 Any Queries?
 
-If you have any queries or concerns about privacy on the Site, please contact us at: [privacy@okmagazine.com](mailto:privacy@okmagazine.com) or Privacy Policy Manager, OK! Magazine, American Media, Inc. 4 New York Plaza, New York, NY 10004, USA.
+If you have any queries or concerns about privacy on the Site, please contact us at: privacy@okmagazine.com or Privacy Policy Manager, OK! Magazine, American Media, Inc. 4 New York Plaza, New York, NY 10004, USA.
