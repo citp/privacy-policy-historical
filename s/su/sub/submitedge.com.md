@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530124657id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitedge.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220065348id_/http%3A//www.submitedge.com/policies.html) for the most accurate reproduction.*
 
 # SubmitEdge Privacy Policies
 
 ## Policies
+
+[Home](http://www.submitedge.com/) » Policies 
 
 SubmitEdge believes that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial and entertainment medium. To this end, unless you designate otherwise, the information you enter here will be known to only two parties: you and SubmitEdge. We pledge that SubmitEdge will not release your personal data to anyone else without your consent - period. You may change the status of whether you wish to receive SubmitEdge offers and communications at any time. When we do present information to our advertisers, unless you tell us otherwise, it is in the form of aggregate statistics compiled among all of our visitors' answers to survey questions as well as grouped on-site behavior. 
 
