@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016194559id_/http%3A//www.zoomerang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220010535id_/http%3A//zoompanel.com/corporate/privacy) for the most accurate reproduction.*
 
-# Survey Software Tool - Create Online Surveys - Zoomerang
+# ZoomPanel - Privacy Policy
 
-This privacy policy explains how SurveyMonkey collects, uses, transfers or otherwise handles personally identifiable information from you, a visitor to the Zoomerang, ZoomPanel and TrueSample websites operated by SurveyMonkey (collectively, the “ **Site** ”). 
+## ZoomPanel Privacy Policy
+
+Updated September 27, 2013.
+
+This privacy policy explains how Critical Mix collects, uses, transfers or otherwise handles personal information from you, a visitor to the ZoomPanel website operated by Critical Mix (collectively, the " **Site** "). 
 
 ### Scope
 
-This privacy policy only covers data collected through the Site. This privacy policy does not cover any other data collection or processing practices, including, without limitation, the practices of other web pages to which we link or of users of our services provided through the Site (e.g., users of our Zoomerang service). When we refer to this privacy policy in notices and consent requests related to surveys, special-purpose web pages or otherwise, this privacy policy applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection). 
-
-SurveyMonkey.com, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, [zoomerang.com](http://www.zoomerang.com/), [zoompanel.com](http://www.zoompanel.com/) and [truesample.com](http://www.truesample.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us using the details in the “Contact Us” section below. If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-SurveyMonkey.com, LLC complies with the [US-EU and US-Swiss Safe Harbor Frameworks](http://www.export.gov/safeharbor/) as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view SurveyMonkey.com, LLC’s certification, please visit <http://www.export.gov/safeharbor/>. 
+This privacy policy only covers data collected through the Site. This privacy policy does not cover any other data collection or processing practices, including, without limitation, the practices of other web pages to which we link or of users of our services provided through the Site. When we refer to this privacy policy in notices and consent requests related to surveys, special-purpose web pages or otherwise, this privacy policy applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection). 
 
 ### Types of Data and Collection Methods
 
-Through the Site, we collect data that you actively submit (“ **Actively Submitted Data** ”) as well as data that we collect about you from other sources (“ **Passively Tracked Data** ”): 
+Through the Site, we collect data that you actively submit (" **Actively Submitted Data** ") as well as data that we collect about you from other sources (" **Passively Tracked Data** "): 
 
 _Actively Submitted Data_ : When you request information, subscribe to a mailing list or for a service, register as a user, post to one of our forums or communities, send or respond to an online survey or otherwise actively send us data, we usually collect data such as your name, email address(es), telephone number(s), country of residency, and certain information related to the business you represent (if any). In connection with chargeable services, we will also collect payment information (e.g., credit card number and related verification information). In connection with our own surveys, directed at ZoomPanel members, we ask questions related to the topic of the survey. When you use our tools to send out your own surveys, you decide who to contact and what questions to ask. In each such instance, however, you will know what data we collect through the Site, because you have asked your survey respondents to actively submit it. 
 
@@ -36,11 +36,11 @@ We use cookies on our websites. Cookies are small bits of data we store on the d
 
   * _For security reasons_. We use cookies to authenticate your identity, such as confirming whether you are currently logged into our website.
   * _To provide you with personalized content_. We may store user preferences, such as your default language, in cookies to personalize the content you see.
-  * _To improve our services_. We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.
+  * _To improve our services_. We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users./li>
 
 
 
-The use of cookies by our third party service providers is not covered by our privacy policy. We do not have access or control over these cookies (other than allowing the third parties to set these cookies via our websites). For example, we use Google Analytics, which helps us to analyze usage of our websites. Google Analytics sets cookies to assist it to identify users and analyze their usage on an anonymous and/or aggregated basis. 
+The use of cookies by our third party service providers is not covered by our privacy policy. We do not have access or control over these cookies (other than allowing the third parties to set these cookies via our websites). For example, we use Google Analytics, which helps us to analyze usage of our websites. Google Analytics sets cookies to assist it to identify users and analyze their usage on an anonymous and/or aggregated basis. Our third party partners employ clear gifs (also known as page tags, web beacons or web bugs), images and scripts that assist us to manage ZoomPanel and the surveys we send out to ZoomPanel members. For example, some of these clear gifs gather information that is used to help us diagnose problems with email deliverability. Some of this information gathered is tied back to our users' accounts. 
 
 ### Web Beacons
 
@@ -48,7 +48,7 @@ Our web pages may contain electronic images known as web beacons (sometimes call
 
 ### Disclosures of Personal Information
 
-We are not in the business of selling or renting your information to telemarketers and do not share your personally identifiable information with others, except as follows: 
+We are not in the business of selling or renting your information to telemarketers and do not share your personal information with others, except as follows: 
 
   * We may share your information with affiliated companies for reward redemption and/or other market research opportunities.
   * If you use any of our services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us or is considering an enterprise account, we may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination.
@@ -56,7 +56,7 @@ We are not in the business of selling or renting your information to telemarkete
   * We may share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings.
   * We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
   * We reserve the right to use and disclose any information collected via the Site that is not in personally identifiable form.
-  * We do not share, sell, rent or trade your personally identifiable information with third parties for their promotional purposes.
+  * We do not share, sell, rent or trade your personal information with third parties for their promotional purposes.
 
 
 
@@ -68,25 +68,25 @@ When one of our users deploys our tools to send out survey response requests or 
 
 ### Tell A Friend
 
-If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. SurveyMonkey stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Critical Mix stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at the relevant email address in the “Contact Us” section below to request that we remove this information from our database. 
+Your friend may contact us at the relevant email address in the "Contact Us" section below to request that we remove this information from our database. 
 
 ### Co-branded Sites
 
-From time to time we may partner with third parties to provide co-branded sites. In the event that you provide personally identifiable information on such a site, this privacy policy will continue to apply, unless that site has its own privacy policy. You retain full rights to you data and may either contact us at the relevant email address in the “Contact Us” section below to change or remove your data or alternatively you may ask us for a contact at the third party who can provide this service. 
+From time to time we may partner with third parties to provide co-branded sites. In the event that you provide personal information on such a site, this privacy policy will continue to apply, unless that site has its own privacy policy. You retain full rights to you data and may either contact us at the relevant email address in the "Contact Us" section below to change or remove your data or alternatively you may ask us for a contact at the third party who can provide this service. 
 
 ### Opt-Out
 
-In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt-out of receiving further commercial emails, sharing of your information with our affiliates or to unsubscribe from services, please contact us at the relevant email address in the “Contact Us” section below. Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests. 
+In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt-out of receiving further commercial emails, sharing of your information with our affiliates or to unsubscribe from services, please contact us at the relevant email address in the "Contact Us" section below. Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests. 
 
 ### Access
 
-If personal information you have submitted through the Site is no longer accurate, current, or complete, and you wish to update it, or you wish to delete it, please update your profile on the Site (e.g. [www.zoompanel.com](http://www.zoompanel.com/)) or send an email to the relevant email address in the “Contact Us” section below. We will amend any information that is not updateable on the Site upon your email request. We will respond to your request to access promptly, but in any event within 30 days. 
+If personal information you have submitted through the Site is no longer accurate, current, or complete, and you wish to update it, or you wish to delete it, please update your profile on the Site (e.g. [www.zoompanel.com](http://www.zoompanel.com/)) or send an email to the relevant email address in the "Contact Us" section below. We will amend any information that is not updateable on the Site upon your email request. We will respond to your request to access promptly, but in any event within 30 days. 
 
 ### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you with services. If you wish to cancel your account or request that we no longer use your information to provide you with services, contact us at the relevant email address in the “Contact Us” section below. We will retain and use your information as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you with services. If you wish to cancel your account or request that we no longer use your information to provide you with services, contact us at the relevant email address in the "Contact Us" section below. We will retain and use your information as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements. 
 
 ### Security
 
@@ -94,7 +94,7 @@ Transmissions over the Internet are never 100% secure or error-free. We do, howe
 
 ### Children's Privacy
 
-The Site is intended for adults. We do not intentionally or knowingly collect personally identifiable information from children under the age of 13 and we request that individuals under the age of 13 not submit any personal information on the Site. 
+The Site is intended for adults. We do not intentionally or knowingly collect personal information from children under the age of 13 and we request that individuals under the age of 13 not submit any personal information on the Site. 
 
 ### Effective Date, Amendments
 
@@ -102,12 +102,6 @@ We reserve the right to change, modify, supplement or replace all or part of thi
 
 ### Contact Us
 
-If you have a query or request specific to a product, you may contact us at the following email addresses: 
+If you have a query or request specific to ZoomPanel, you may contact us at [help@zoompanelsupport.com](mailto:help@zoompanelsupport.com).
 
-  * TrueSample: [support@truesample.com](mailto:support@truesample.com) 
-  * Zoomerang: [support@zoomerang.com](mailto:support@zoomerang.com) 
-  * ZoomPanel: [survey@zoompanel.com](mailto:support@zoompanel.com) 
-
-
-
-Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You can contact us through this [privacy form](https://smforms.wufoo.com/forms/contact-surveymonkey-privacy/) or by mail to SurveyMonkey, 285 Hamilton Avenue, Suite 500, Palo Alto, CA 94301. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you can also contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison to resolve your concerns for any complaints arising from our TrueSample, Zoomerang and ZoomPanel websites. 
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You can contact us through this [contact us](mailto:help@zoompanelsupport.com) or by mail to ZoomPanel, 264 Riverside Ave, Westport, CT 06880 . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you can also contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison to resolve your concerns for any complaints. 
