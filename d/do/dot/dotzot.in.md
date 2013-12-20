@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotzot.in privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519024147id_/http%3A//dotzot.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotzot.in privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220211405id_/http%3A//dotzot.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Dotzot
 
@@ -15,8 +15,6 @@ Please also see the DELL's ‘Conditions of Carriage’ for terms of carriage, l
 Certain shipment data will be provided to the authorities of the country of transit or destination for customs and tax clearance or for security screening, as required by the laws of such country. The information provided would usually include: shipper name and address, receiver name and address, description of the goods, number of pieces, weight and value of shipment.
 
 For more information on this Privacy Policy, please refer to the detailed section on the privacy policy below.
-
-. 
 
 1\. Information collected about visitors to the DotZot web site:  
 The DELL web server uses an extended log file format which captures: date and time of visit, referring address (location from which a visitor comes to the DotZot website), type of Internet browser, and visitor's IP address. 
