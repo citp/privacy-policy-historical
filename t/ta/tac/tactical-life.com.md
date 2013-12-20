@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601221221id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220210337id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tactical Life
 
@@ -78,3 +78,7 @@ Questions regarding this statement or the privacy policies or procedures of this
 ### Effective Date
 
 This Privacy Policy is effective and was last updated on July 10, 2008. 10:47
+
+### **Contact Information**.
+
+Should you have any questions you may [contact us here>>](http://www.tactical-life.com/contact/)
