@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliaxe.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117231119id_/http%3A//www.affiliaxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliaxe.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220235827id_/http%3A//www.affiliaxe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
