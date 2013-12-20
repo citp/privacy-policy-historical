@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenfreebies.ca privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513023953id_/http%3A//signup.womenfreebies.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenfreebies.ca privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220205718id_/http%3A//signup.womenfreebies.ca/privacy.php) for the most accurate reproduction.*
 
 # WomenFreebies.ca | Privacy
 
@@ -72,8 +72,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [http://womenfreebies.ca](http://womenfreebies.ca/)  
-600 Terry Fox Drive, Suite 200  
-Ottawa, ON K2L 4B6  
+1338 Wellington Street West, Unit 200  
+Ottawa, ON K1Y 3B7  
 Canada
 
 Email: [sarah@womenfreebies.ca](mailto:sarah@womenfreebies.ca)  
