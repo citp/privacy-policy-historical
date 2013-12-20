@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digipathmedia.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530205902id_/http%3A//digipathmedia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digipathmedia.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221004437id_/http%3A//www.digipathmedia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
