@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621084004id_/http%3A//www.hollandandbarrett.com/account/customerservices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112751id_/https%3A//www.hollandandbarrett.com/account/customerservices/privacy) for the most accurate reproduction.*
 
 # Holland and Barrett - Privacy Policy
 
