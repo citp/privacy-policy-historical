@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvard.edu privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508213841id_/http%3A//www.harvard.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvard.edu privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220172824id_/http%3A//www.harvard.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Harvard University
 
@@ -15,6 +15,8 @@ We collect information from you when you access Harvard.edu and when you subscri
 We use your IP address to help diagnose problems with our server and to administer our website by identifying (1) which parts of our site are most heavily used, and (2) which portion of our audience comes from within the Harvard network. We do not link IP addresses to anything personally identifiable. This means that user sessions will be tracked, but the users will remain anonymous.
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+
+User information may be shared with third-party partners to the extent necessary to provide and improve web services or other communications to users. Any third parties who receive user information for this purpose are prohibited from using or sharing user information for any purpose other than providing services to users.
 
 We may also provide your information to third parties in circumstances where we believe that doing so is necessary or appropriate to: satisfy any applicable law, regulation, legal process or governmental request; detect, prevent or otherwise address fraud, security or technical issues; or protect the rights, property or safety of us, our users or others.
 
@@ -45,6 +47,26 @@ If you send us email messages, you should be aware that information disclosed in
 #### Email Policy
 
 We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes without your permission.
+
+#### User Generated Content (Including Comments and Profiles)
+
+We offer opportunities for you to engage in Gazette news discussions on http://news.harvard.edu/gazette/, including submitting comments and replies on selected news stories. Any information you disclose in your submission of comments, including name, email, website, and the comment itself is property of Harvard University and visible on internal servers. Additionally, information regarding name and comments shall be public on the Gazette news site once a comment or reply is approved for submission on the website. Comments are up to the discretion and approval of Harvard University moderators.
+
+If you choose to use http://news.harvard.edu/gazette (the "Site"), Harvard University’s mobile sites and applications, any of the features of these sites, including but not limited to RSS, API, software and other downloads (collectively, "the Services"), you will be agreeing to abide by all of the terms and conditions of these Terms of Service between you and Harvard University (“us" or "we").
+
+Harvard University reserves the right to reject or remove thereafter any content from appearing on its site that does not meet its user generated content policy.
+
+#### User Generated Content Terms of Use
+
+You shall not upload to, or distribute or otherwise publish on to the Gazette news website (“Services”) any libelous, defamatory, obscene, pornographic, abusive, or otherwise illegal material; any comment deemed to contain any of the above following. You agree that you will not deliberately disrupt discussions with repetitive messages, meaningless messages or "spam.” You agree not to use language that abuses or discriminates on the basis of race, religion, nationality, gender, sexual preference, age, region, disability, etc. You may not impersonate another user or a Harvard University or Gazette News staff member by choosing a similar screen name. You must disclose conflicts of interest. Any comments deemed containing the above will not be approved for distribution or, if approved, will removed thereafter.
+
+You acknowledge that any submissions you make to the Services (i.e., user-generated comments (each, a "Submission") may be edited, removed, modified, published, and displayed on the Gazette News website and you waive any rights you may have in having the material altered or changed in a manner not agreeable to you. Submissions made to the Services may also be included in our RSS feeds, APIs and made available for republishing through other formats.
+
+Harvard University reserves the right to delete, move, or edit Submissions that it deems abusive, defamatory, obscene, in violation of copyright or trademark laws, or otherwise unacceptable.
+
+By making a Submission, you are consenting to its display and publication on the Site and in the Services and for related online uses.
+
+When you share or recommend (with or without adding your own comments) any articles or content from the Services to your Facebook, Twitter, or Google+ profile, that action is governed by their respective Privacy Policies.
 
 #### Information Protection
 
