@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevector.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621173710id_/http%3A//www.freevector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevector.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221000747id_/http%3A//www.freevector.com/privacy) for the most accurate reproduction.*
 
 # FREE VECTOR PRIVACY
 
