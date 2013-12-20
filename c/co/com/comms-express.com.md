@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comms-express.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521235557id_/http%3A//www.comms-express.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comms-express.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220224759id_/http%3A//www.comms-express.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
