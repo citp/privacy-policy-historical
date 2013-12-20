@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyricskeeper.it privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130093030id_/http%3A//lyricskeeper.it/it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricskeeper.it privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220145708id_/http%3A//lyricskeeper.it/it/privacy) for the most accurate reproduction.*
 
-# Privacy | LyricsKeeper
+# Privacy
 
 Privacy Policy
 
