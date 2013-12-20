@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626001724id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220044851id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
 
 # U-Pack® Privacy Policy | U-Pack
 
