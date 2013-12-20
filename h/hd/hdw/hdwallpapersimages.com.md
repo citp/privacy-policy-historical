@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hdwallpapersimages.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618040144id_/http%3A//www.hdwallpapersimages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersimages.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220212807id_/http%3A//www.hdwallpapersimages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers Images
+
+[](http://www.hdwallpapersimages.com/wp-content/uploads/2012/12/Privacy-Policy-Sites1.jpg) 
 
 This Privacy Policy governs the manner in which HDWallpapersImages.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.hdwallpapersimages.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by HDWallpapersImages.com.
 
@@ -62,7 +64,16 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ## **Contacting Us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.hdwallpapersimages.com/contact) at:  
-[HDWallpapersImages.com](http://hdwallpapersimages.com/)  
-[HDWallpapersImages.com](http://hdwallpapersimages.com/)
+[HDWallpapersImages.com](http://hdwallpapersimages.com/)[  
+](http://hdwallpapersimages.com/)
 
-This document was last updated on November 05, 2012.
+## Our postal address is:
+
+Address: #09 Anand Vihar, Baltana, Zirakpur  
+S.A.S Nagar, Punjab, India.  
+Postal Address: 140604  
+Company Name: OSH Network  
+Cont: 09780188770  
+Email: admin(@)hdwallpapersimages.com
+
+This document was last updated on December 19, 2013.
