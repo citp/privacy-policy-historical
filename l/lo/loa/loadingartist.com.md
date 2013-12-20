@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadingartist.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525160242id_/http%3A//www.loadingartist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadingartist.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220115857id_/http%3A//www.loadingartist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Loading Artist
 
