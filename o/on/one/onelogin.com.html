@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onelogin.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629053143id_/http%3A//www.onelogin.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onelogin.com privacy policy that was archived on 2013-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220115147id_/http%3A//www.onelogin.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -7,12 +7,13 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="generator" content="WordPress 3.4.1"> <!-- leave this for stats -->
+  <meta name="generator" content="WordPress 3.5.2"> <!-- leave this for stats -->
   <meta name="viewport" content="width=device-width">
 
-  <title>Privacy Policy | OneLogin</title>
+  
+  <title>Privacy Police | OneLogin</title>
 
-  <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
   function trackOutboundLink(category, action, company_name, option_value) {
   	try {
       if(typeof(option_value) == 'undefined' || typeof(company_name) == 'undefined') {
@@ -29,9 +30,10 @@
   </script>
 
   <link rel="stylesheet" href="/wp-content/themes/onelogin/stylesheets/main.css">
+  <link rel="stylesheet" href="/wp-content/themes/onelogin/stylesheets/main-jp.css">
   <link rel="stylesheet" href="/wp-content/themes/onelogin/stylesheets/media-queries.css">
   <link rel="shortcut icon" href="/wp-content/themes/onelogin/images/favicon.png" type="image/x-icon">
-  <link rel="alternate" type="application/rss+xml" title="OneLogin RSS Feed" href="http://feeds.feedburner.com/onelogin/GRMx">
+  <link rel="alternate" type="application/rss+xml" title="OneLogin RSS Feed" href="http://www.onelogin.com/feed/">
   <link rel="pingback" href="http://www.onelogin.com/xmlrpc.php">
 
   <!--[if gte IE 9]>
@@ -63,48 +65,86 @@
 
     (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  
+
   </script>
 
   <!-- start Mixpanel -->
   <script type="text/javascript">
-    (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
-    b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
-    '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
-    d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
-    var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
-    Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
-    f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
-    'track_forms','register','register_once','unregister','identify','alias','name_tag','set_config',
-    'people.set','people.set_once','people.increment','people.track_charge','people.append'];
-    for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
-    mixpanel.init("048042ab90b4da88678a8455aaae0868", { loaded: function() { get_mixpanel_distinct_id() } });
-    var get_mixpanel_distinct_id = function() {
-      var d_id = mixpanel.get_distinct_id();
-      if ($("#signup-form").length > 0) {
-        $("<input id='mixpanel_distinct_id' type='hidden' name='mixpanel_distinct_id' value='" + d_id + "'>").appendTo("#signup-form")
+    var OLMixpanel = {
+      load_distinct_id_elem: function() {
+        var d_id = mixpanel.get_distinct_id(),
+            form = document.forms["signup-form"],
+            mixpanel_el = document.createElement('input');
+
+        mixpanel_el.setAttribute('name', 'mixpanel_distinct_id');
+        mixpanel_el.setAttribute('id',   'mixpanel_distinct_id');
+        mixpanel_el.setAttribute('value', d_id);
+        mixpanel_el.setAttribute('type',  'hidden');
+        form.appendChild(mixpanel_el);
+
+        return d_id;
       }
-      return d_id;
-    }
+    };
+
+    $(function(){
+      (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
+      b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
+      '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
+      a._i=[];a.init=function(b,c,f){function d(a,b){
+      var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
+      Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
+      f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
+      'track_forms','register','register_once','unregister','identify','alias','name_tag','set_config',
+      'people.set','people.set_once','people.increment','people.track_charge','people.append'];
+      for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;d.parentNode.insertBefore(b,d);})(document,window.mixpanel||[]);
+      mixpanel_resp = mixpanel.init("048042ab90b4da88678a8455aaae0868", { verbose: true, loaded: function() {
+        var distinct_id_interval = setInterval(function(){
+          if ($("#mixpanel_distinct_id").length > 0){
+            clearInterval(distinct_id_interval);
+          }else if ($("#signup-form").length > 0)
+            OLMixpanel.load_distinct_id_elem();
+        }, 2000);
+      } });
+      // Force mixpanel distinct_id creation for IE since "loaded" event is not working
+      if(typeof(mixpanel.get_distinct_id) == "function")
+        OLMixpanel.load_distinct_id_elem();
+    });
   </script>
   <!-- end Mixpanel -->
 
-  <link rel="stylesheet" id="fb_data_style-css" href="http://www.onelogin.com/wp-content/plugins/feedburner-form/control/fbstyle.css?ver=3.4.1" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.onelogin.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.2.1" type="text/css" media="all">
-<script type="text/javascript" src="http://www.onelogin.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+  <link rel="stylesheet" id="output-css" href="http://www.onelogin.com/wp-content/plugins/addthis/css/output.css?ver=3.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="fb_data_style-css" href="http://www.onelogin.com/wp-content/plugins/feedburner-form/control/fbstyle.css?ver=3.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.onelogin.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.2" type="text/css" media="all">
+<script type="text/javascript" src="http://cdn.bizible.com/scripts/bizible.js" async=""></script>
+<script type="text/javascript" src="http://www.onelogin.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.onelogin.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.onelogin.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Terms of Service" href="http://www.onelogin.com/terms/">
 <link rel="next" title="Dropbox Single Sign On (SSO) with Active Directory(AD)/LDAP" href="http://www.onelogin.com/partners/app-partners/dropbox/">
+<meta name="generator" content="WordPress 3.5.2">
+ 
+ 
 
-<!-- All in One SEO Pack 1.6.14.6 by Michael Torbert of Semper Fi Web Design[642,693] -->
+<!-- bs twitter meta tags 1.0 by Hugo Ballesteros of boahstudio -->
+<meta property="twitter:account_id" content="37033522">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@onelogin">
+<meta name="twitter:title" content="Privacy Police">
+<meta name="twitter:description" content="This is the official Privacy Policy of OneLogin.  OneLogin has implemented comprehensive security practices detailed herein.">
+<meta name="twitter:image" content="http://www.onelogin.com/wp-content/themes/onelogin/images/logo-twitter-card.png">
+<!-- /bs twitter meta tags -->
+
+<!-- All in One SEO Pack 2.0.2 by Michael Torbert of Semper Fi Web Design[646,697] -->
 <meta name="description" content="This is the official Privacy Policy of OneLogin. OneLogin has implemented comprehensive security practices detailed herein.">
+
 <link rel="canonical" href="http://www.onelogin.com/privacy/">
 <!-- /all in one seo pack -->
-</head>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style></head>
 
 <body id="privacy">
 
@@ -115,15 +155,23 @@
     <div class="inner col940">
       <a id="logo" href="/" alt="Web Single sign-on (SSO) for Cloud &amp; SaaS apps by OneLogin">OneLogin</a>
 
-      <div id="nav-container">
-        <div class="main-nav"><ul id="menu-main-nav" class="menu"><li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://www.onelogin.com/product/">Product</a></li>
-<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a title="Pricing" href="http://www.onelogin.com/pricing/">Pricing</a></li>
-<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://www.onelogin.com/testimonials/">Testimonials</a></li>
-<li id="menu-item-1918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1918"><a href="http://www.onelogin.com/partners/partner-up/">Partners</a></li>
-<li id="menu-item-3508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3508"><a href="http://www.onelogin.com/resources/">Resources</a></li>
-</ul></div>
-                <a id="nav-signup" class="button orange small gradient" href="/signup">Start Your Trial</a>
+                   <div class="main-nav" style="width:50px; padding-left:30px; ">
+          <ul id="menu-main-nav" class="menu">
+              <li id="menu-blog" style="background: none;"><a style="font-color: #69747a;" title="日本" href="http://www.onelogin.com/jp/product/"><b>日本</b></a></li>
+          </ul>
+       </div>
         
+      <a href="/company/careers"><img style="padding-top: 8px; padding-left: 20px; width:100px;" width="80%" src="http://www.onelogin.com/wp-content/themes/onelogin/images/hiring-button.png"></a>
+
+      <div id="nav-container">
+        <div class="main-nav"><ul id="menu-main-nav" class="menu"><li id="menu-item-7303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7303"><a href="http://www.onelogin.com/product/">Product</a></li>
+<li id="menu-item-7302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7302"><a title="Pricing" href="http://www.onelogin.com/pricing/">Pricing</a></li>
+<li id="menu-item-7301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7301"><a href="http://www.onelogin.com/testimonials/">Testimonials</a></li>
+<li id="menu-item-7320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7320"><a href="http://www.onelogin.com/partners/partner-up/">Partners</a></li>
+<li id="menu-item-7328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7328"><a href="http://www.onelogin.com/resources/">Resources</a></li>
+</ul></div>
+                		<a id="nav-signup" class="button orange small gradient" href="/signup">Start Your Trial</a>
+      	
         <div class="clear"></div>
       </div> <!-- /nav-container -->
 
@@ -137,11 +185,11 @@
 		<div class="entry">
 			<p><strong>Effective as of March 23, 2012.</strong></p>
 
-<p>When you register with OneLogin, Inc. (“OneLogin”) for a OneLogin account you can be certain that we have implemented comprehensive security practices to ensure that only you and those people you provide authorized access to can see your account. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.onelogin.com (the “Site”) and through our on-demand support platform, tools and services offered on the Site (the “Service”). The use of information collected through our service shall be limited to the purpose of providing the Service for which the Client has engaged OneLogin.</p> 
- 
+<p>When you register with OneLogin, Inc. (“OneLogin”) for a OneLogin account you can be certain that we have implemented comprehensive security practices to ensure that only you and those people you provide authorized access to can see your account. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.onelogin.com (the “Site”) and through our on-demand support platform, tools and services offered on the Site (the “Service”). The use of information collected through our service shall be limited to the purpose of providing the Service for which the Client has engaged OneLogin.</p>
+
 <div id="2f428e05-5126-4701-8c04-3dcc2041a4b5" style="float:right; margin-left:15px;"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/OneLogin/asc?rid=2f428e05-5126-4701-8c04-3dcc2041a4b5"></script><a href="//privacy.truste.com/privacy-seal/OneLogin/validation?rid=4094734b-bd20-4bf8-8c70-fac24b5dba2c" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/OneLogin/seal?rid=4094734b-bd20-4bf8-8c70-fac24b5dba2c" alt="Validate TRUSTe privacy certification"></a></div>
 
-<p>OneLogin has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s <a href="http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy" target="_new">Program Requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/" target="_new">TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@onelogin.com?subject=Privacy%20Policy">privacy@onelogin.com</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_new">TRUSTe here</a>.</p>
+<p>OneLogin has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s <a href="http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy" target="_new">Program Requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/" target="_new">TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@onelogin.com?subject=Privacy%20Policy">privacy@onelogin.com</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_new">TRUSTe here</a>.</p>
 
 
 <a href="http://safeharbor.export.gov/companyinfo.aspx?id=18980" target="_new"><img src="/wp-content/images/safeharbor.png" style="float:right; margin-left:15px;"></a>
@@ -151,26 +199,26 @@
 </p>
 
 
-  <h2>INFORMATION YOU PROVIDE</h2> 
+  <h2>INFORMATION YOU PROVIDE</h2>
   <p>When you register for the Service, we ask for information such as your name, company name and address, e-mail and phone number. If you sign up for the 14-day free trial account, you are not required to enter your credit card information until you decide to continue with a paid plan. OneLogin collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. OneLogin works with its Clients to help them provide notice to their customers concerning the purpose for which personal information is collected.</p>
 
 <p>OneLogin collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. OneLogin works with its Clients to help them provide notice to their customers concerning the purpose for which personal information is collected.</p>
 
 <p>OneLogin has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to OneLogin’s Client Administrator (the data controller). If the Client requests OneLogin to remove the data, we will respond to their request within 30 bueinss days.</p>
 
-<p>OneLogin uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on OneLogin’s behalf. OneLogin also uses third party intermediaries to send out emails on our behalf and provide customer support including via live chat software.</p> 
- 
-  <p>You can modify your account information at anytime by clicking on the Account link in the global navigation bar at the top of the screen or by emailing our Customer Support at <a href="mailto:support@onelogin.com">support@onelogin.com</a>. We will respond to your request to access within 30 days.  OneLogin’s practice is not to use such personal information for marketing purposes. OneLogin may use the collected personal information and other information OneLogin collects about your use of the Service to operate and make the Service available to You, for billing, identification and authentication, to contact you about your use of the Service, research purposes and to generally improve the content and functionality of the Service and Site. Onelogin will also send you periodic newsletters. If you no longer wish to receive these newsletters you may follow the unsubscribe instructions contained in each of the emails you receive.</p> 
- 
-  <p>OneLogin may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require that your personal information be transferred from Your current location to the offices and servers of OneLogin and the authorized third parties referred to here. Although OneLogin owns the software, code, databases, all rights to the OneLogin application, you retain all rights to your data.</p> 
+<p>OneLogin uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on OneLogin’s behalf. OneLogin also uses third party intermediaries to send out emails on our behalf and provide customer support including via live chat software.</p>
+
+  <p>You can modify your account information at anytime by clicking on the Account link in the global navigation bar at the top of the screen or by emailing our Customer Support at <a href="mailto:support@onelogin.com">support@onelogin.com</a>. We will respond to your request to access within 30 days.  OneLogin’s practice is not to use such personal information for marketing purposes. OneLogin may use the collected personal information and other information OneLogin collects about your use of the Service to operate and make the Service available to You, for billing, identification and authentication, to contact you about your use of the Service, research purposes and to generally improve the content and functionality of the Service and Site. Onelogin will also send you periodic newsletters. If you no longer wish to receive these newsletters you may follow the unsubscribe instructions contained in each of the emails you receive.</p>
+
+  <p>OneLogin may also transmit or share your personal information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require that your personal information be transferred from Your current location to the offices and servers of OneLogin and the authorized third parties referred to here. Although OneLogin owns the software, code, databases, all rights to the OneLogin application, you retain all rights to your data.</p>
 
 <p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
- 
-  <h2>COOKIES</h2> 
-  <p>When you visit the Site or use the Service, we use session “cookies” – a piece of information stored on your computer – to allow the Site or Service to uniquely identify your browser while you are logged in and to enable OneLogin to process your online transactions. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Session cookies also help us confirm your identity and are required in order to use the Service. OneLogin uses persistent cookies that only OneLogin can read and use, to identify you as a OneLogin customer and make it easier for you to log in to the Service. Users who disable their web browsers’ ability to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service.</p> 
+
+  <h2>COOKIES</h2>
+  <p>When you visit the Site or use the Service, we use session “cookies” – a piece of information stored on your computer – to allow the Site or Service to uniquely identify your browser while you are logged in and to enable OneLogin to process your online transactions. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Session cookies also help us confirm your identity and are required in order to use the Service. OneLogin uses persistent cookies that only OneLogin can read and use, to identify you as a OneLogin customer and make it easier for you to log in to the Service. Users who disable their web browsers’ ability to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service.</p>
 
   <p>The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use session ID cookies to trace user movement on the site.</p>
- 
+
   <h2>Clear Gifs</h2>
 <p>We employ [or our third party advertising partner employs] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie  the information gathered by clear gifs to our customers’ personally identifiable information.</p>
 
@@ -181,12 +229,15 @@
 
 <p>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. </p>
 
-  <h2>INFORMATION SHARING</h2> 
-  <p>Except as described in this policy, OneLogin will not give, sell, rent, or loan any identifiable personal information to any third party other than as outlined in this policy. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. OneLogin may also provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personally identifying information.</p> 
- 
-  <h2>PROTECTION OF INFORMATION</h2> 
-  <p>OneLogin maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure. If you have any questions about security on our Web site, you can contact us at <a href="mailto:privacy@onelogin.com?subject=Privacy%20Policy">privacy@onelogin.com</a>.</p> 
- 
+  <h2>GoogleAnalytic and Display Advertising</h2>
+  <p>OneLogin uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. OneLogin and and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s Ads Preferences Manager.</p>
+
+  <h2>INFORMATION SHARING</h2>
+  <p>Except as described in this policy, OneLogin will not give, sell, rent, or loan any identifiable personal information to any third party other than as outlined in this policy. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. OneLogin may also provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personally identifying information.</p>
+
+  <h2>PROTECTION OF INFORMATION</h2>
+  <p>OneLogin maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure. If you have any questions about security on our Web site, you can contact us at <a href="mailto:privacy@onelogin.com?subject=Privacy%20Policy">privacy@onelogin.com</a>.</p>
+
   <h2>LINKS TO OTHER SITES</h2>
   <p>This Web site contains links to other sites that are not owned or controlled by OneLogin. Please be aware that we, OneLogin, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.</p>
 
@@ -206,7 +257,7 @@
 <h2>CHANGES TO PRIVACY POLICY</h2>
 <p>OneLogin may update this policy from time to time. you can review the most current version of this privacy policy at any time at <a href="http://www.onelogin.com/privacy">http://www.onelogin.com/privacy</a>. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your only remedy, if you do not accept the terms of this privacy policy, is to discontinue use of the Site and Service.</p>
 
-  <h2>TERMS OF SERVICE</h2> 
+  <h2>TERMS OF SERVICE</h2>
   <p>When you access and use the Service, you are subject to the OneLogin Terms of Service.</p>
 
   <h2>Contact Us</h2>
@@ -226,29 +277,31 @@ San Francisco, CA 94105<br>
   <div class="inner col940 clearfix">
     <div class="left">
       <div class="links clearfix">
-        <div class="footer-links"><ul id="menu-footer" class="menu"><li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"><a href="http://www.onelogin.com/company/about/">Company</a></li>
-<li id="menu-item-789" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-789"><a href="http://www.onelogin.com/category/all/">Blog</a></li>
-<li id="menu-item-341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-341"><a href="http://support.onelogin.com/">Support</a></li>
-<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="http://www.onelogin.com/contact-us/">Contact Us</a></li>
-<li id="menu-item-2925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2925"><a href="https://app.onelogin.com/client/downloads">Browser Extensions</a></li>
-<li id="menu-item-3444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3444"><a href="http://app.onelogin.com/login">Login</a></li>
+        <div class="footer-links"><ul id="menu-footer" class="menu"><li id="menu-item-7315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7315"><a href="http://www.onelogin.com/company/about/">Company</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://www.onelogin.com/category/all/">Blog</a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="http://support.onelogin.com/">Support</a></li>
+<li id="menu-item-7316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7316"><a href="http://www.onelogin.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="https://app.onelogin.com/client/downloads">Browser Extensions</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://app.onelogin.com/login">Login</a></li>
 </ul></div>      </div> <!-- /links -->
       <p><a href="/privacy">Privacy</a> / <a href="/terms">Terms</a> © Copyright 2013 OneLogin, Inc. All rights reserved.</p>
     </div> <!-- /left -->
     
     <div class="right">
       <div class="phone">
-        <small>Call Us Toll Free</small>
+              <small>Call Us Toll Free</small>
         <span>(855)</span> 426-7227
+	   	      	
       </div> <!-- /phone -->
       
       <div class="social">
-        <!-- a id="facebook-icon" href="http://www.facebook.com/onelogin" target="_blank">Facebook</a -->
+                <!-- a id="facebook-icon" href="http://www.facebook.com/onelogin" target="_blank">Facebook</a -->
         <a id="twitter-icon" href="http://www.twitter.com/onelogin" target="_blank">Twitter</a>
         <a id="linkedin-icon" href="http://www.linkedin.com/company/720405?trk=tyah" target="_blank">LinkedIn</a>
+        <a id="google-icon" href="https://plus.google.com/101773081982187796511" target="_blank">Google+</a>
         <a id="rss-icon" href="http://www.onelogin.com/category/all/" target="_blank">RSS</a>
         <a id="email-icon" href="http://www.onelogin.com/contact-us/" target="_blank">Contact Us</a>
-      </div> <!-- /social -->
+              </div> <!-- /social -->
 
     </div> <!-- /right -->
     
@@ -322,7 +375,7 @@ San Francisco, CA 94105<br>
         </fieldset>
         <fieldset style="padding: 8px 0;">
           <label>&nbsp;</label>
-          <input type="checkbox" name="newsletter" checked="">Sign up for OneLogin's monthly newsletter
+          <input type="checkbox" name="newsletter">Sign up for OneLogin's monthly newsletter
         </fieldset>
         <fieldset class="submit">
             <input type="submit" name="download_whitepaper" id="submit-btn" class="gradient" value="Download Whitepaper">
@@ -341,12 +394,12 @@ San Francisco, CA 94105<br>
  set_referrer();
 </script>
 
-<script type="text/javascript">
+<!--<script type="text/javascript">
 document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https:":"http:") + "//snapabug.appspot.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script>
+</script>
 <script type="text/javascript">
 SnapABug.addButton('d45475f2-f097-4fbb-b1eb-bff3a3aef1d8',"0","20%");
-</script>
+</script>-->
 
 <script type="text/javascript">
   document.write(unescape("%3Cscript src='" + document.location.protocol + "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
@@ -356,17 +409,40 @@ SnapABug.addButton('d45475f2-f097-4fbb-b1eb-bff3a3aef1d8',"0","20%");
 <script type="text/javascript" language="javascript">llactid=18618</script>
 <script type="text/javascript" language="javascript" src="http://t6.trackalyzer.com/trackalyze.js"></script>
 
+<!-- Google Code for RLSA -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
-var addthis_options = "twitter,facebook,google_plusone_share,linkedin";
-var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_cobrand":"OneLogin"};
-var addthis_product = 'wpp-265';
-</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ff25eec05d09657"></script><script type="text/javascript"></script><script type="text/javascript" src="http://www.onelogin.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.js?ver=3.14"></script>
+/* <![CDATA[ */
+var google_conversion_id = 1027480521;
+var google_conversion_label = "LABXCOPx8QIQybf46QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1027480521/?value=0&label=LABXCOPx8QIQybf46QM&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-3.1';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51e47c641d4a475f"></script><script type="text/javascript" src="http://www.onelogin.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.36.0-2013.06.16"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/www.onelogin.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.onelogin.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.2.1"></script>
+<script type="text/javascript" src="http://www.onelogin.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.2"></script>
 <!--wp_footer-->
 
-</body></html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: onelogin.com @ 2013-12-20 03:51:47 by W3 Total Cache --></body></html>
