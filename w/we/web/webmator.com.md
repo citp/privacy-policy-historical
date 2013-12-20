@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmator.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119112856id_/http%3A//www.webmator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmator.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220165026id_/http%3A//www.webmator.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
