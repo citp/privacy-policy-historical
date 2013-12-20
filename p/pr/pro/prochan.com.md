@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prochan.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618004602id_/http%3A//www.prochan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prochan.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220010141id_/http%3A//www.prochan.com/privacy) for the most accurate reproduction.*
 
 # ProChan - Social networking communities
 
@@ -13,7 +13,6 @@
   * [Register](http://www.prochan.com/user?a=register) _(1)_
   * [Login](http://www.prochan.com/user?a=login) _(2)_
   * [Channels](http://www.prochan.com/channel?a=browse) _(3)_
-  * [Boards](http://www.prochan.com/board?a=browse) _(4)_
 
 
 
