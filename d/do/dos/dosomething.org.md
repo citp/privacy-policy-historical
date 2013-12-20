@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605015834id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220174546id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Do Something
 
