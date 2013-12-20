@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623015813id_/https%3A//ww.deluxe.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxe.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220060035id_/https%3A//ww.deluxe.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy - Businesses
 
@@ -133,7 +133,7 @@ E-mail:[deluxeforbusiness@deluxe.com](mailto:deluxeforbusiness@deluxe.com)
 
 #### TRUSTe Privacy Program
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.deluxe.com)
+[](https://privacy.truste.com/privacy-seal/Deluxe-Corporation/validation?rid=c8d0e53a-1c0b-41df-b9bd-5f02d604bced "TRUSTe online privacy certification")
 
 Deluxe Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
