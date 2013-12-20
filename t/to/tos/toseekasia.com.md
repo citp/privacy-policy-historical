@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toseekasia.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115061858id_/http%3A//toseekasia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toseekasia.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220014927id_/http%3A//toseekasia.com/policy) for the most accurate reproduction.*
 
 # Search - toseekasia.com
 
