@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622043706id_/https%3A//www.flashfxp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashfxp.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220062233id_/http%3A//www.flashfxp.com/privacy) for the most accurate reproduction.*
 
 # FlashFXP Privacy Policy
 
@@ -77,10 +77,10 @@ This policy was last modified on **August 3, 2012**
 **Contacting Us**   
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-OpenSight Software, LLC  
-5309 Oak Street, PMB #215  
-Quincy, Illinois 62305  
-United States
+OpenSight Software LLC  
+340 S LEMON AVE #9776  
+WALNUT, CA 91789  
+UNITED STATES
 
 [Online Contact Form](https://secure.flashfxp.com/portal/contact)
 
