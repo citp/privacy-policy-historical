@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143156id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220223316id_/http%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercy Corps
 
@@ -6,7 +6,7 @@ We are committed to respecting the privacy rights of all donors and visitors to 
 
 **Our General Policy**
 
-Mercy Corps recognizes the importance of protecting information we may collect from donors and visitors to our site. Our policy is to use the information we acquire from visitors and donors for internal purposes only, and we maintain appropriate security measures to keep this information private. 
+Mercy Corps recognizes the importance of protecting information we may collect from donors and visitors to our site. We maintain appropriate security measures to keep this information private. 
 
 Users can visit the site without revealing any information about themselves. If you choose to give us personal information via the Internet for the purposes of correspondence, processing a donation or subscribing to our email newsletter, then it is our intent to let you know how we will use such information.
 
@@ -22,11 +22,11 @@ You will be given the option to remove your name from our email list at the bott
 
 Mercy Corps' online and offline donation processing systems comply with PCI Security Standards, a set of comprehensive requirements for enhancing payment account data security. For more about these standards, [click here](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml).
 
-Our online donation processor, CharityWeb, hosts our secure giving pages on our PCI Compliant servers and uses high-grade encryption and the industry-standard https security protocol to ensure secure transactions. 
+Our online donation processor hosts our secure giving pages on PCI Compliant servers and uses high-grade encryption and the industry-standard https security protocol to ensure secure transactions.
 
 Independent external and internal audits ensure the privacy, security and appropriate processing of your information on our site.
 
-[Read our eight promises to donors here.](http://www.mercycorps.org/give/donorpledge)
+[Read our nine promises to donors here.](https://web.archive.org/web/20131220223316id_/http%3A//www.mercycorps.org/about-us/donor-pledge)
 
 **Use of Third-Party Software and Advertising Services**
 
@@ -37,6 +37,10 @@ We also use [Google Analytics](http://www.google.com/analytics/), [Quantcast](ht
 We do not receive or request any personally identifiable information from you unless you provide it.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Spam filter**
+
+To help us filter out spam we use a service called [Mollum](http://mollom.com/web-service-privacy-policy), a web service that tries to determine the quality of messages posted to a website, and particularly tries to determine whether these messages are to be considered as unsolicited messages. Mollom temporarily stores data you provide us when you add a comment -- which could include your message, name and IP address -- to perform complex statistical computations in order to assess the quality of your message (i.e., if it constitutes spam, abuse, etc.). You have the right to gain access to, correct and/or remove all personal data we store about you on Mollom's servers. [Click here to read Mollom's privacy policy.](http://mollom.com/web-service-privacy-policy)
 
 **Donations by Mail**
 
