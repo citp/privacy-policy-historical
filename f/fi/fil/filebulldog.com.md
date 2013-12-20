@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filebulldog.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529201723id_/http%3A//filebulldog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filebulldog.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220122649id_/http%3A//www.filebulldog.com/privacy) for the most accurate reproduction.*
 
 # Software and Driver Updates - FileBulldog.com
 
