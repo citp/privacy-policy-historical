@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodsam.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629145217id_/http%3A//www.goodsam.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsam.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220172233id_/http%3A//goodsam.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Good Sam Roadside Assistance
 
