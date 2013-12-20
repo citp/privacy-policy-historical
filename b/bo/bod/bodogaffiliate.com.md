@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622005942id_/http%3A//bettingpartners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220223458id_/http%3A//bettingpartners.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Betting Partners
 
