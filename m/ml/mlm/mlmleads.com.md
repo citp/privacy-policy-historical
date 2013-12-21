@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlmleads.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622233216id_/http%3A//mlmleads.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmleads.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221164935id_/http%3A//www.mlmleads.com/home/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# MLM Leads Privacy Policy
 
 MLMLeads.com is committed to customer service and we intend to continue that tradition by providing a private and secure browsing experience at MLMLeads.com. The following policy will help you to understand how we will treat your personal information. As we continue to improve our site and as we take advantage of developments in technology, this policy may change from time to time so please check this policy on an ongoing basis for revisions and updates.  
 
