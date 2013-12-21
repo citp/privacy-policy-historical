@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nukepedia.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405043306id_/http%3A//www.nukepedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nukepedia.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221065735id_/http%3A//www.nukepedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Nukepedia - Privacy Policy - Nukepedia
+# Privacy Policy - Nukepedia
 
 **OHUfx ltd.** ("We") are committed to respecting your privacy.
 
-This policy (together with [our terms of use](http://www.nukepedia.com/terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with [our terms of use](http://www.nukepedia.com/terms-of-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ## **I** **NFORMATION** ******WE** ******MAY** ******COLLECT** ******FROM** ******YOU**
 
@@ -64,7 +64,7 @@ If you do not want us to use your data in this way, or to pass your details on t
 
 We may disclose your personal information to third parties:
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](http://www.nukepedia.com/terms-of-use/) and other agreements; or to protect the rights, property, or safety of **OHUfx** , our contributors, visitors or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](http://www.nukepedia.com/terms-of-use) and other agreements; or to protect the rights, property, or safety of **OHUfx** , our contributors, visitors or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 ## **Y** **OUR** ******RIGHTS**
 
