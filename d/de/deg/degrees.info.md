@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601003544id_/http%3A//edu.degreesfinder.com/privacy-policy-edu.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degrees.info privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221061932id_/http%3A//edu.degreesfinder.com/privacy-policy-edu.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Last revised: March, 2012
 
-This privacy policy (this "Privacy Policy") applies to certain websites owned and/or operated by or on behalf of Adchemy, Inc. ("Adchemy", "us" or "we"). If you have arrived at this Privacy Policy by clicking on an authorized link maintained on a website which is owned or operated by us, then this Privacy Policy applies to such website (each such website, a "Site"). This Privacy Policy explains what information we collect on the Site and how we use such information. This Privacy Policy may also apply to information we collect from consumers other than through our websites, to the extent specifically disclosed or stated by us.
+This privacy policy (this "Privacy Policy") applies to certain websites owned and/or operated by or on behalf of XL Marketing Corp. ("XL Marketing", "us" or "we"). If you have arrived at this Privacy Policy by clicking on an authorized link maintained on a website which is owned or operated by us, then this Privacy Policy applies to such website (each such website, a "Site"). This Privacy Policy explains what information we collect on the Site and how we use such information. This Privacy Policy may also apply to information we collect from consumers other than through our websites, to the extent specifically disclosed or stated by us.
 
 Applicability  
 Please note that this Privacy Policy only applies to websites we own and operate if they link to this Privacy Policy. It does not apply to our websites which link to a different privacy policy, or which don't link to a privacy policy at all. Also, any third party websites you access from the Site are not covered by this Privacy Policy. The Site may provide you with access to third party websites in a couple of different ways. First, the Site may include clickable links to third party web sites, advertisements or other online material. Second, the Site may display third party web pages via iFrame technology. iFrames are windows in a webpage that allow you to view a different website without leaving the webpage. A third party website displayed through an iFrame may appear as a seamless part of the Site. If you click on a link to a third party website, or supply information to a third party website that is placed within our webpage, you are interacting with a third party's website. We encourage you to review the privacy policy of any other web site you access from the Site.
@@ -48,7 +48,7 @@ We have relationships with third party advertising companies to place advertisem
 **Your Choices**
 
   * **Providing Information.** You can always choose not to provide us with your personally identifiable information if you are not comfortable with our ability to use and share that information as set forth in this Privacy Policy. Note, however, that you may not have access to certain of our products and services (like our school matching service) if you decide not to provide us with your information.
-  * **Opting Out of Our Promotional Emails.** You may opt-out of receiving marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as "unsubscribe"), or by submitting your request to privacy@adchemy.com. Please allow 10 business days for us to process your opt-out request. Also, note that opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well.
+  * **Opting Out of Our Promotional Emails.** You may opt-out of receiving marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as "unsubscribe"), or by submitting your request to privacy@XL Marketing.com. Please allow 10 business days for us to process your opt-out request. Also, note that opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well.
   * **Declining Cookies.** If you do not want to accept our cookies, you can adjust your browser settings to decline cookies. You should note, however, that certain areas of the Site may not operate properly if you decide not to accept cookies.
   * **NAI Opt-Out.** Some third party advertising companies we use may collect information about you through cookies and other technologies in connection with their behavioral advertising programs (see "More About Cookies and Related Technology" Section, above, for additional information). Although we don't control the programs, practices, or policies of such third party advertising companies, the Network Advertising Initiative (NAI) maintains an opt-out tool which allows you to opt-out of participating in behavioral advertising programs of NAI member companies. To access the NAI opt-out tool and learn more about behavioral advertising, visit the NAI website at: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
@@ -61,10 +61,11 @@ Effective Date and Updates to this Privacy Policy
 This Privacy Policy is effective and was last revised as of the date indicated at the top of the document. We reserve the right to change this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you. We encourage you to check this page often for updates and revisions. Any updated Privacy Policy will be effective immediately upon posting.
 
 Contact Us  
-If you have any questions or comments relating to our website or this notice, please contact us by email at: [Privacy@adchemy.com](mailto:privacy@adchemy.com).
+If you have any questions or comments relating to our website or this notice, please contact us by email at: [Contact@XL Marketing.com](mailto:contact@xlmarketing.com).
 
 You may also send your questions or comments to our address:
 
-Adchemy, Inc.  
-Attention: Legal Department  
-1001 E. Hillsdale Blvd. 700W, Foster City, CA 94404
+XL Marketing Corp.  
+Privacy Officer  
+185 Madison Avenue, 5th Floor  
+New York, NY 10016
