@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the copyhackers.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502175012id_/http%3A//www.copyhackers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyhackers.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221160704id_/http%3A//www.copyhackers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Copywriting by Copy Hackers
+# Privacy Policy | Copywriting by Copy HackersCopywriting by Copy Hackers
 
 Last updated November 11, 2011
 
@@ -35,9 +35,3 @@ Although most changes are likely to be minor, COPY HACKERS may change its Privac
 
 **ABOUT THIS PRIVACY POLICY**  
 Our appreciation to Automattic Inc. for making their privacy policy available under a Creative Commons Sharealike license. We have used their privacy policy as the basis for ours. Read more here: http://automattic.com/privacy/
-
-_Loading..._
-
-Get high-converting copywriting strategies every Tuesday:
-
-100% spam-free.
