@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528070833id_/http%3A//www.checkpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221131021id_/http%3A//www.checkpoint.com/privacy.html) for the most accurate reproduction.*
 
 # Check Point Online Privacy Policy
 
