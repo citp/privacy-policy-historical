@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620195638id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handlesets.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221131147id_/http%3A//www.handlesets.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# Handlesets.com: Security & Privacy
+# Door Hardware, Door Knobs & Door Locks - Handlesets.com
 
 ## Our Company
 
