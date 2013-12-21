@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222248id_/https%3A//www.unb.ca/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221010009id_/http%3A//www.unb.ca/privacy) for the most accurate reproduction.*
 
-# UNB | Privacy
+# Privacy | UNB
 
 The University of New Brunswick is committed to protecting your personal information.
 
@@ -23,3 +23,5 @@ Our [myUNB](http://my.unb.ca/ "My.UNB") section uses cookies, small pieces of 
 ## Want to know more?
 
 For more information, or if you have questions or concerns regarding the protection of personal privacy at UNB, you can visit the [Right to Information and Protection of Privacy website](http://www.unb.ca/secretariat/rtippa/index.html) or consult the University Secretariat, University of New Brunswick, PO Box 4400, Fredericton, NB, E3B 5A3 [www.unb.ca/secretariat](http://www.unb.ca/secretariat) (506) 453-4613.
+
+ 
