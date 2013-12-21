@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517221843id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221095505id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Print File-Archival photo storage supplies and products - Privacy Policy
+# Print File | Archival Supplies | Photo Storage Products - Privacy Policy
 
+[](https://web.archive.org/web/20131221095505id_/http%3A//www.printfile.com/index.aspx)  
+  
 ---  
-|  | [   
-](https://web.archive.org/web/20130517221843id_/http%3A//www.printfile.com/index.asp?PageAction=VIEWCATS&Category=183)  
----  
-[   
-](https://web.archive.org/web/20130517221843id_/http%3A//www.printfile.com/index.asp?PageAction=Custom&ID=2)  
+| 
+
+[ ](https://web.archive.org/web/20131221095505id_/index.asp?PageAction=CONTACTUS) 
+
+|  |  [  
+](https://www.mcafeesecure.com/RatingVerify?ref=www.printfile.com)  
+---|---  
   
 [Home](https://web.archive.org/) > Privacy Policy
 
@@ -53,7 +57,14 @@ Back to top
 |   
 ---  
   
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.printfile.com)  
+Receive our latest   
+news and offers by email.
+
+[](http://app.streamsend.com/public/4RFN/p5M/subscribe)  
+  
 ---  
   
+Click to explore our  
+Electronic Catalog
 
+[](http://digital.turn-page.com/t/10424 "Open This Issue For Reading")
