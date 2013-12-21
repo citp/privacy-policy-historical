@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605081904id_/http%3A//teambox.com/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambox.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221050409id_/http%3A//teambox.com/more-info/security-privacy) for the most accurate reproduction.*
 
-# Security & Privacy
+# Security and Privacy | Our Policies to Protect You | Teambox
 
 #### Information we collect and store:
 
