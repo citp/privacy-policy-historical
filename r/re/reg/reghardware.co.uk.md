@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghardware.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627104338id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221012024id_/http%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
@@ -19,7 +19,7 @@ The Register site does record IP addresses and produces server logs - as all Web
 
 ### Cookies
 
-The Register site sets cookies in order to help with the management of its advertising and to enable certain user features. Read all about our cookies, and how to manage them [here](http://www.theregister.co.uk/Profile/cookies/).
+The Register site sets cookies in order to help with the management of its advertising and to enable certain user features. Read all about our cookies, and how to manage them [here](https://web.archive.org/Profile/cookies/).
 
 ### Advertising
 
