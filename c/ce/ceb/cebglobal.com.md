@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cebglobal.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526163814id_/http%3A//www.executiveboard.com/exbd/privacy/index.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebglobal.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221051718id_/http%3A//www.executiveboard.com/exbd/privacy/index.page) for the most accurate reproduction.*
 
 # Privacy Policy | CEB
 
