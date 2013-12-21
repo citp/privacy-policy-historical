@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607061109id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbridal.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221180840id_/http%3A//www.americanbridal.com/secure.html) for the most accurate reproduction.*
 
 # Privacy Policy & Site Security
 
@@ -16,8 +16,8 @@ In Addition:
 
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
 
-You are viewing: Privacy Policy & Site Security
+**Sign Up Today**  
+and we'll email you a  
+coupon for 15% off
 
-© 1997-2013 American Bridal™. All Rights Reserved.
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.americanbridal.com)
+[](https://web.archive.org/web/20131221180840id_/http%3A//www.americanbridal.com/ab-email-sign-up.html)
