@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the smartfares.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423152108id_/http%3A//www.smartfares.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartfares.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221053910id_/http%3A//www.smartfares.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement for SmartFares
 
 Round TripOne WayMulti-City
+
+Depart:
+
+Return:
 
 This document defines the policies and practices that SmartFares ("SmartFares") uses to protect your personal information. Our goal is to protect personal information you provide us whenever you contact us or use this web site ("Site"). By visiting or using the Site, you are agreeing to these policies and practices. 
 
