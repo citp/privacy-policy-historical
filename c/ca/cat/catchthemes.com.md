@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catchthemes.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603070836id_/http%3A//catchthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchthemes.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221130310id_/http%3A//catchthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Catch Themes
+# Privacy Policy | Premium WordPress Themes | Catch Themes
 
 The CatchThemes.com Privacy Policy is designed to help you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decision when using our site and our products and services. Catch Themes is a web design agency specializing in WordPress themes and plugins. Catch Theme is a part of Catch Internet Pvt. Ltd.
 
