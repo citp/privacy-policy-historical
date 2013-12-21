@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606065439id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221142801id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.co.uk: Privacy Policy
 
@@ -113,10 +113,11 @@ We may select and use different third parties from time to time to track website
 
 By using cookies and action tags together, we are able to gain valuable information to improve our Website and our Internet Products and measure the effectiveness of our advertising and marketing campaigns. We do not disclose any of your Personally Identifiable Information to our advertising partners through the use of cookies or action tags.
 
- ** _ **Social Media (Features) and Widgets**_**  
+[]() _ **Social Media (Features) and Widgets**_  
+Our Website includes social media features, buttons and widgets provided by third party social media platforms such as Facebook and Twitter (collectively, the “Features”). A Feature may collect your IP address and which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. This cookie may allow the social media platform to link the foregoing data with your user profile. The Features are either hosted by the third party platform or directly on our Website. Your interactions with these Features are governed by the privacy policy of the relevant platform. 
 
-
-Our Website includes social media features, buttons and widgets provided by third party social media platforms such as Facebook and Twitter (collectively, the “Features”). A Feature may collect your IP address and which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. This cookie may allow the social media platform to link the foregoing data with your user profile. The Features are either hosted by the third party platform or directly on our Website. Your interactions with these Features are governed by the privacy policy of the relevant platform.
+[]()_**Facebook Connect or other OpenID provider**_  
+You can log in to our Website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity.
 
  ** _ **Referral Programmes.**_**  
 
