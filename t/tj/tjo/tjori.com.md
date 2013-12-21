@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjori.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602124435id_/http%3A//www.tjori.com/open/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjori.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221124000id_/http%3A//www.tjori.com/privacy) for the most accurate reproduction.*
 
 # Tjori.com: Privacy Policy
 
