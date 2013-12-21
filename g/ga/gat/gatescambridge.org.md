@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatescambridge.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616052521id_/http%3A//www.gatescambridge.org/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatescambridge.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221085407id_/http%3A//www.gatescambridge.org/legal/privacy.asp) for the most accurate reproduction.*
 
 # Gates Cambridge Scholarships - Privacy Policy
 
