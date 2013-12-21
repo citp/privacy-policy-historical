@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blizzcon.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230134642id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzcon.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221015433id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
 
-# Blizzard Entertainment: Privacy Policy
+# Blizzard Entertainment:Privacy Policy
 
 ### Blizzard Entertainment® Online Privacy Policy
 
@@ -95,6 +95,10 @@ When you and a friend mutually agree to become Real ID friends, you will have ac
   * Rich Presence: You will see additional info on your friends list about what your Real ID friends are up to in Blizzard’s products and services in real time. 
 
 
+
+### What is Global Play? 
+
+Certain Blizzard games playable on Blizzard's Battle.net service feature "Global Play," which allows you to play with other players who are outside of the region associated with the creation of your Battle.net account. The Global Play feature requires that some or all of the personal information that you provided when you created your Battle.net account be transferred to servers operated by Blizzard in the regions where you wish to play. 
 
 ### What are cookies and clear gifs and how are they used?
 
