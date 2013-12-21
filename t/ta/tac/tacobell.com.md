@@ -1,48 +1,108 @@
-> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630071436id_/https%3A//www.tacobell.com/Company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221175442id_/http%3A//www.tacobell.com/Company/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Taco Bell
 
-## Taco Bell® Website Privacy Statement
+Our Policy describes how we treat personal information on the websites where it is located. This includes [www.fourthmeal.com](http://www.fourthmeal.com/), [www.catinabell.com](http://www.catinabell.com/), [www.feedthebeat.com.](http://www.feedthebeat.com/) and [www.tacobellforteens.org.](http://www.tacobellforteens.org/) It also applies to our mobile and social media apps.
 
-Taco Bell Corp. ("Taco Bell") is committed to protecting the privacy of personal information you may provide on the websites on which this policy appears, which sites include [www.tacobell.com](http://www.tacobell.com/), [www.fourthmeal.com](http://www.fourthmeal.com/), [www.feedthebeat.com](http://www.feedthebeat.com/), [www.tacobellforteens.org](http://www.tacobellforteens.org/), and other Taco Bell microsites and mobile websites (the "Site"). This Privacy Policy has been in effect since 7/11/2006, and was last updated on 4/12/2013. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.
+This policy does not apply to the websites and practices of Yum! Brands, Inc. or other members of Yum! Brands like Pizza Hut or KFC.It also does not apply to the practices of Yum Brands subsidiaries or other affiliates.This policy also does not describe the activities of any Taco Bell franchisees.
 
-## What information does Taco Bell collect about me on this Site?
+#### **Hey Taco Bell, what information do you collect?**
 
-Taco Bell collects personally identifiable information that you may voluntarily provide on online forms, which may include: user registration, sweepstakes registration, contact requests, guest comments, send-a-friend features, online surveys, application or other file download pages, and other online and mobile activities. The personally identifiable information (“Personal Information”) collected on this Site can include some or all of the following: your name, address, telephone number, e-mail addresses, credit card information, demographic information, and other information you may voluntarily provide or which may be collected as described herein. We will indicate at the time of collection when you have the choice whether or not to disclose Personal Information; however, some parts of the Site and some services may not be available, or may be more difficult to use if you choose not to disclose or have Personal Information shared. From time to time we may give you the option to receive future offers and updates. If you choose to opt-in, we will alert you to new features, special offers, updated information and new services.
+**Contact information**. For example, we might collect your name and street address if you sign up for our emails. We might also collect your phone number or email address.
 
-In addition to the Personal Information that you provide, as identified above, our Site may use technologies such as “cookies” to collect certain information and to provide visitors with tailored information upon each visit. Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site. Every time you visit our Site, our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system. You do not need to enable cookies to visit our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled. Taco Bell also uses cookies on the Site to identify an index key with Our e-cards (online postcards). Our web servers may also automatically identify your device by identifiers like IP or MAC addresses. Taco Bell may use this information for a variety of business purposes, including to analyze trends, administer the Site, track users’ movements and gather broad demographic information for aggregate use. Our web servers may also automatically identify your device by identifiers like IP or MAC addresses. Taco Bell may use this information for a variety of business purposes, including to analyze trends, administer the Site, track users’ movements and gather broad demographic information for aggregate use.  
- 
+**Payment information**. For example, we collect your gift card number to check your balance.We may also collect your credit card information.
 
-## What does Taco Bell do with the information collected?
+**Information you submit or post**. We collect the information you post in a public space on our website.
 
-Taco Bell may use your Personal Information for any of the following purposes: (1) to understand the use of the Site and make improvements; (2) to fulfill prizes; (3) to register visitors for online activities such as online ordering, sweepstakes, contests, surveys, employment applications, comment forms, or any other online or mobile interactive activities; (4) to respond to specific requests from visitors; (5) to obtain parental consent from visitors under 18 years of age, when necessary; (6) to provide any necessary notices to visitors or their parent or legal guardians if situations prompt such notification; (7) to protect the security or integrity of the Site if necessary; (8) to send notices of special promotions, offers or solicitations; (9) in general, to promote and market Taco Bell’s business and various products; (10) to respond to your request, including to send your friends messages at your request in send-a-friend features; and (11) as otherwise disclosed, including as may be disclosed at the time we collect your information.
+**Demographic information**. We may collect information like your gender and age.We may also collect information about a Taco Bell you visited.We might collect this when you give us customer feedback.
 
-## With whom does Taco Bell share information?
+**Other information**.If you use our website, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it.
 
-Taco Bell is a part of Yum! Brands, Inc. (“Yum Brands”). Yum Brands includes: KFC U.S. Properties, Inc., Taco Bell Corp., Pizza Hut, Inc., WingStreet, LLC, and Yum Restaurants International, Inc. Taco Bell may share Personal Information collected on this Site with any member of Yum Brands and any other future subsidiaries or affiliates. Taco Bell may share Personal Information with third parties under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law; (ii) in the event of a corporate sale, merger, acquisition, or similar event; or (iii) when working with third party companies to support the Site’s technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, conduct surveys, maintain a database of visitor information, offer downloadable applications for mobile devices, etc.). If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it is Taco Bell's policy to enter into written agreements with any third party receiving Personal Information, requiring the third party to comply with Taco Bell’s privacy policies and applicable laws.
+#### **And how do you collect it?**
 
-From time to time Taco Bell may offer online services or features in connection with a third party company (such as offering downloadable "store finder" mobile software supported by MSN's Virtual Earth) where information about you is collected directly by the third party. In such cases, data is typically not shared with Taco Bell, but is retained by the third party and used as described in their privacy policy.
+**We collect information directly from you**. For example, if you sign up for our emails or enter a sweepstakes. We also collect information if you make a purchase or fill out an online survey.
 
-## What choices do I have about how my information is used and how do I contact Taco Bell?
+**We collect information from you passively**. We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
 
-Users, who initially opted-in to receive future offers or promotional materials by e-mail may subsequently opt-out of receiving such e-mails by sending a message to [unsubscribe@tacobell.com](mailto:unsubscribe@tacobell.com). You may also follow the opt-out instructions on any advertising message you might receive. If you have any further questions concerning the Taco Bell’s Privacy Policy and the use of your Personal Information, please email webmaster@tacobell.com, write to Taco Bell® Corp., 1 Glen Bell Way, Irvine, CA 92618, Attention: Webmaster – Privacy Inquiry, or call the webmaster at 949/863-4000.
+**We get information about you from third parties.** For example, our business partners may give us information about you. Social media platforms may also give us information about you.
 
-## What security does Taco Bell use on this Site?
+#### **How do you use the info?**
 
-Taco Bell uses appropriate technical and procedural security measures to protect this Site and the data submitted by users. We cannot guarantee, however, that our standard measures will not prevent a third party from circumventing our security measures and unlawfully intercept or access transmissions or private communications, or where an error may occur in the administration of the Site. As such, Taco Bell recommends that you use caution whenever submitting Personal Information online.
+**We use information to respond to your requests or questions**. For example, we might use your information to respond to your customer feedback.We may use your friend’s email address if you use our send-a-friend feature.
 
-## Does Taco Bell's Site link to other sites?
+**We use information to improve our products and services**. We may use your information to make our website and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties.
 
-Yes. This Site may contain links to other websites that may not be owned or operated by Taco Bell. Taco Bell cannot control nor is responsible for the privacy practices or content of such other websites, and the terms of this policy do not apply to information collected on those sites. Taco Bell encourages you to read the privacy statements of each and every website that collects personally identifiable information.
+**We use information for security purposes**. We may use information to protect our company, our customers, and our websites.
 
-## How will Taco Bell notify me of changes to this Privacy Policy?
+**We use information for marketing purposes**. For example, we might send you information about new products and special offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting.If you register with us, we’ll enroll you in our email newsletter.We may also use push notifications on our mobile apps.
 
-This Privacy Policy has been in effect since July 11, 2006, and was last updated on 2/26/10. Taco Bell will post any changes on the Site’s Homepage, so visitors are always aware of any changes to what information we collect, how we use it, and under what circumstances we disclose it. If we decide to use your Personal Information in a manner different than first communicated, Taco Bell will notify users by e-mail to the e-mail addresses on record. Users will then be given a choice as to whether or not their Personal Information can be used in the new manner.
+**We use information to communicate with you about your account or our relationship**. We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.
 
-In the event that Taco Bell goes through a business transition, such as a merger, another company acquires Taco Bell or its Affiliates, or Taco Bell sells a portion of its assets, your personal information will, in most instances, be part of the assets transferred. Thirty days prior to the change of ownership or control, you will be informed of this exchange and its effects via prominent notice on our Site. If as a result of a business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be give the choice to opt-out.
+**We use information to talk to parents or guardians to get permission.** We may use contact information to get permission from parents for children who want to use our site.
 
-## What does Taco Bell do about children on its Site?
+**We use information as otherwise permitted by law**.
 
-Taco Bell's practice is not to collect information from children under 13 (or as otherwise prohibited by law), and Taco Bell does not knowingly collect any Personal Information online from children under 13 (or as otherwise prohibited by law). If you believe we have information about your child, please send an email to webmaster@tacobell.com or a write to Taco Bell® Corp., 1 Glen Bell Way, Irvine, CA 92618, Attention: Webmaster, Children's Online Privacy Act - Information Request, or by calling the webmaster at 949/863-4000. To learn more about how to protect your child online, we suggest you visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/) and read the helpful information provided by the FTC at [http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm)
+#### **What about sharing with third parties?**
 
-Effective as of 7/11/2006, last updated 4/12/2013
+**We may share information within the Yum! Brand family of companies.** This includes KFC, Pizza Hut, WingStreet, and Yum Restaurants International. This also includes future subsidiaries or affiliates.For a full list visit http://www.yum.com/brands/.
+
+**We may share information with third parties who perform services on our behalf**. For example, we share information with vendors who send emails for us.We may also share information with companies that operate our websites or run a promotion.
+
+**We may share information with our business partners.** For example, we will share information with third parties who co-sponsor a promotion or operate our “store finder” service. These partners may send you information about events and products by mail or email.
+
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.This might include fraud we think has happened during a sweepstakes or promotion.
+
+**We may share information with any successor to all or part of our business**. For example, if part of our business was sold we may give our customer list as part of that transaction.
+
+**We may share information for other reasons we may describe to you**.
+
+#### **Do I have certain choices about sharing and marketing practices?**
+
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, email us at unsubscribe@tacobell.com or follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you messages about your questions and purchases.
+
+**You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, _click here_. Your opt-out will be effective until you revoke it.Your opt-out will only affect the future sharing of information and will not be retroactive.
+
+**You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click _[here](http://www.tacobell.com/aboutourads)_.
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone.To modify the push notifications you get from our app, you can alter your preferences in your profile.
+
+#### **What does the policy have to say about children?**
+
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+
+Parents, you can learn more about how to protect children's privacy on-line [here](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
+
+#### **How safe is my info?**
+
+We use standard security measures. Keep in mind that the Internet is never 100% secure because there are always people out there who want to ruin it for everyone. We encourage you to use caution when using the Internet.
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+#### **We store information in the United States.**
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. Our sites and apps are subject to U.S. laws.
+
+#### **We may link to other sites or have third party services on our site we don’t control.**
+
+If you click on a link to a third party site, you will be taken to websites we do not control. This policy does not apply to the privacy practices of that website. Read the privacy policy of other websites and insurance carriers carefully. We are not responsible for these third party practices.
+
+Our site may also serve third party content that contains its own cookies or tracking technologies. To learn more, click [here](http://www.tacobell.com/aboutourads). We do not control the use of those technologies.  
+
+#### **Feel free to contact us if you have more questions.**
+
+If you have any questions about this Policy, please email us at webmaster@tacobell.com.
+
+You can also write to us or call at:    
+
+Taco Bell Corp.  
+1 Glen Bell Way  
+Irvine, CA 92618  
+Phone: (949) 863-4000
+
+#### **Stay tuned for updates.**
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+© 2013 Taco Bell Corp. All rights reserved.
+
+Effective as of 7/11/2006, last updated 11/12/2013
