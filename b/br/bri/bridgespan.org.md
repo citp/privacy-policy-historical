@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621184220id_/http%3A//www.bridgespan.org/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221155404id_/http%3A//www.bridgespan.org/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This privacy policy (“Policy”) describes the practices of The Bridgespan Group, Inc. ("Bridgespan") with respect to the gathering and use of personal information submitted to Bridgespan through the Bridgespan website (the "Bridgespan Site") and the Bridgestar website (the "Bridgestar Site", and together with the Bridgespan Site, the "Sites"). All capitalized terms not defined here, shall be given the same meaning as defined in the Bridgespan Group General Terms and Conditions ("Terms").
 
-This Policy does not cover Bridgespan’s confidentiality and privacy obligations to the employers and search firms that submit job listings and related employment information to Bridgespan in connection with the Bridgestar recruiting services. Such obligations are governed by a separate written agreement between each of the employers and search firms and Bridgespan. This Policy also does not apply to the practices of unrelated third-party service providers or companies accessed through links provided for your convenience from the Sites.
+This Policy does not cover Bridgespan’s confidentiality and privacy obligations to the employers and search firms that submit job listings and related employment information to Bridgespan in connection with recruiting services. Such obligations are governed by a separate written agreement between each of the employers and search firms and Bridgespan. This Policy also does not apply to the practices of unrelated third-party service providers or companies accessed through links provided for your convenience from the Sites.
 
 ####  What information we collect
 
