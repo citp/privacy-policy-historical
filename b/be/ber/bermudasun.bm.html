@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bermudasun.bm privacy policy that was archived on 2013-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619033215id_/http%3A//bermudasun.bm/Content/INTERACT/Privacy-Policy/Article/Privacy-Policy/81/854/47814) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bermudasun.bm privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221194756id_/http%3A//bermudasun.bm/Content/INTERACT/Privacy-Policy/Article/Privacy-Policy/81/854/47814) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us"><head><meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="Content-Style-Type" content="text/css"><title>
 	Bermuda Sun: Privacy Policy
@@ -8,7 +8,9 @@
     <script type="text/javascript" src="/Scripts/Ads.js"></script>
     <script type="text/javascript" src="/Scripts/Functions.js"></script>
     <script type="text/javascript" src="/Scripts/RotatingStory.js"></script>
+    <script type="text/javascript" src="/Scripts/PhotoGalleryThumbnails.js"></script>
     <script type="text/javascript" src="/Scripts/TabbedBox.js"></script>    
+    <script type="text/javascript" src="/scripts/jwplayer.js"></script>
     <script src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
         
 <script type="text/javascript">
@@ -69,15 +71,66 @@ fbDiv.data-href = window.location.href;
             alert('Ajax turned on.');
         }
     </script>
-<link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2013.1.417.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3adf833b2e-28ee-45e7-8320-6f2a9cb883d7%3aed2942d4%3afe53831e%3abc8339f7%3a45085116%3a9ad5c0b%3abf649b0%3ac9a390bf%3ac86a4a06%3a4c651af2%3a92753c09%3a91f742eb" type="text/css" rel="stylesheet">
+    <script>
+        $(document).ready(
+            function () {
+                $("a").hover(
+                    function () {
+                        if ($(this).hasClass("rmLink") == false && $(this).hasClass("IgnoreGlobalHoverStyle") == false) {
+                            if ($(this).parent().attr("class") != undefined) {
+                                if ($(this).parent().attr("class").indexOf("NavParentItem") == -1 && $(this).parent().attr("class").indexOf("NavChildItem") == -1) {
+                                    $(this).addClass("HyperlinkHoverStyle");
+                                }
+                            }
+                            else {
+                                $(this).addClass("HyperlinkHoverStyle");
+                            }
+                        }
+                    },
+                    function () {
+                        if ($(this).hasClass("rmLink") == false && $(this).hasClass("IgnoreGlobalHoverStyle") == false) {
+                            if ($(this).parent().attr("class") != undefined) {
+                                if ($(this).parent().attr("class").indexOf("NavParentItem") == -1 && $(this).parent().attr("class").indexOf("NavChildItem") == -1) {
+                                    $(this).removeClass("HyperlinkHoverStyle");
+                                }
+                            }
+                            else {
+                                $(this).removeClass("HyperlinkHoverStyle");
+                            }
+                        }
+                    }
+                );
+            }
+        );
+    </script>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <script>
+        $(document).ready(function () {
+            $("div").tooltip(
+                {
+                    content: function () {
+                        if ($(this).attr("id").indexOf("pnlTooltip") != -1) {
+                            return $(this).prop("title");
+                        }
+                    }
+                },
+
+                { tooltipClass: "custom-tooltip-styling" }
+        );
+        });
+    </script>
+<link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2013.3.1114.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a8d3dfe81-f887-4a80-ad14-8e882b52e5e6%3a53e1db5a%3ad126a8ef%3aed2942d4%3afe53831e%3abc8339f7%3a45085116%3a27c5704c%3ac86a4a06%3a4c651af2%3a92753c09%3a91f742eb" type="text/css" rel="stylesheet">
 
     <form method="post" action="47814" id="form1" style="height:100%; min-height:100%; margin:0px; padding:0px;">
 <input type="hidden" name="rsmManagement_TSM" id="rsmManagement_TSM" value="">
 <input type="hidden" name="rssmPublic_TSSM" id="rssmPublic_TSSM" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhkMDNhOTMzMmY0Nzc3NxgKBTZjdGwwMCRib2R5JGN0bDEzJHVjVmlkZW9zRGlzcGxheSRyZHBWaWRlb0xpYnJhcnlCb3R0b20PFCsABGRmAg9mZAVlY3RsMDAkYm9keSRDb250ZW50TW9kdWxlJGN0bDAwJHVjQXJ0aWNsZVRlbXBsYXRlZCRhY0NvbnRhaW5lciR1Y0NvbW1lbnRzJHVjQ29tbWVudHMkcmRwQ29tbWVudHNCb3R0b20PFCsABGRmAgpmZAUzY3RsMDAkYm9keSRjdGwxMyR1Y1ZpZGVvc0Rpc3BsYXkkcmRwVmlkZW9MaWJyYXJ5VG9wDxQrAARkZgIPZmQFWWN0bDAwJGJvZHkkQ29udGVudE1vZHVsZSRjdGwwMCR1Y0FydGljbGVUZW1wbGF0ZWQkYWNDb250YWluZXIkdWNDb21tZW50cyR1Y1NpZ251cCR3U2lnbnVwDxBkFCsBAWZmZAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgoFHWN0bDAwJGJvZHkkY3RsMDQkY3RsMDMkcm1NZW51BR5jdGwwMCRib2R5JGN0bDA3JHJiUXVpY2tTZWFyY2gFMGN0bDAwJGJvZHkkY3RsMTMkdWNWaWRlb3NEaXNwbGF5JHJsdlZpZGVvTGlicmFyeQUzY3RsMDAkYm9keSRjdGwxMyR1Y1ZpZGVvc0Rpc3BsYXkkcmRwVmlkZW9MaWJyYXJ5VG9wBTZjdGwwMCRib2R5JGN0bDEzJHVjVmlkZW9zRGlzcGxheSRyZHBWaWRlb0xpYnJhcnlCb3R0b20FJ2N0bDAwJGJvZHkkY3RsNDMkY3RsMDAkcmNFdmVudHNDYWxlbmRhcgUnY3RsMDAkYm9keSRjdGw0MyRjdGwwMCRyY0V2ZW50c0NhbGVuZGFyBR1jdGwwMCRib2R5JGN0bDQ5JGN0bDAxJHJtTWVudQUPY3RsMDAkcndtTWFzdGVyBQ5jdGwwMCRyd1JlcG9ydAVeY3RsMDAkYm9keSRDb250ZW50TW9kdWxlJGN0bDAwJHVjQXJ0aWNsZVRlbXBsYXRlZCRhY0NvbnRhaW5lciR1Y0FydGljbGVJbWFnZXMkcmRwQXJ0aWNsZUltYWdlcw8UKwAEZGYCAWZkBWljdGwwMCRib2R5JENvbnRlbnRNb2R1bGUkY3RsMDAkdWNBcnRpY2xlVGVtcGxhdGVkJGFjQ29udGFpbmVyJHVjQ29tbWVudHMkdWNTaWdudXAkd1NpZ251cCRXaXphcmRNdWx0aVZpZXcPD2RmZAUxY3RsMDAkYm9keSRjdGw0MyRjdGwwMCR1Y0V2ZW50U3VibWlzc2lvbiRkZGxTdGF0ZQ8UKwACZWVkBV5jdGwwMCRib2R5JENvbnRlbnRNb2R1bGUkY3RsMDAkdWNBcnRpY2xlVGVtcGxhdGVkJGFjQ29udGFpbmVyJHVjUmVsYXRlZFZpZGVvcyRyZHBBcnRpY2xlVmlkZW9zDxQrAARkZgIBZmQFYmN0bDAwJGJvZHkkQ29udGVudE1vZHVsZSRjdGwwMCR1Y0FydGljbGVUZW1wbGF0ZWQkYWNDb250YWluZXIkdWNDb21tZW50cyR1Y0NvbW1lbnRzJHJkcENvbW1lbnRzVG9wDxQrAARkZgIKZmTqdJoxGLBgjMbQ9tJvpDo/T2aUWZXin6GBXsIBGbVJwQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhkMGNjNzJjNTA2Mjk3ZhgIBTZjdGwwMCRib2R5JGN0bDEzJHVjVmlkZW9zRGlzcGxheSRyZHBWaWRlb0xpYnJhcnlCb3R0b20PFCsABGRmAg9mZAVlY3RsMDAkYm9keSRDb250ZW50TW9kdWxlJGN0bDAwJHVjQXJ0aWNsZVRlbXBsYXRlZCRhY0NvbnRhaW5lciR1Y0NvbW1lbnRzJHVjQ29tbWVudHMkcmRwQ29tbWVudHNCb3R0b20PFCsABGRmAgpmZAUxY3RsMDAkYm9keSRjdGw0NiRjdGwwMCR1Y0V2ZW50U3VibWlzc2lvbiRkZGxTdGF0ZQ8UKwACZWVkBV5jdGwwMCRib2R5JENvbnRlbnRNb2R1bGUkY3RsMDAkdWNBcnRpY2xlVGVtcGxhdGVkJGFjQ29udGFpbmVyJHVjQXJ0aWNsZUltYWdlcyRyZHBBcnRpY2xlSW1hZ2VzDxQrAARkZgIBZmQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYNBTRjdGwwMCRib2R5JGN0bDA0JGN0bDA3JHRpcEJhc2tldERvd25sb2FkQ29uZmlybWF0aW9uBR1jdGwwMCRib2R5JGN0bDA0JGN0bDAzJHJtTWVudQU0Y3RsMDAkYm9keSRjdGwwNCRjdGwwMyR0aXBCYXNrZXREb3dubG9hZENvbmZpcm1hdGlvbgUeY3RsMDAkYm9keSRjdGwwNyRyYlF1aWNrU2VhcmNoBSdjdGwwMCRib2R5JGN0bDQ2JGN0bDAwJHJjRXZlbnRzQ2FsZW5kYXIFJ2N0bDAwJGJvZHkkY3RsNDYkY3RsMDAkcmNFdmVudHNDYWxlbmRhcgUdY3RsMDAkYm9keSRjdGw1MiRjdGwwMSRybU1lbnUFNGN0bDAwJGJvZHkkY3RsNTIkY3RsMDEkdGlwQmFza2V0RG93bmxvYWRDb25maXJtYXRpb24FNGN0bDAwJGJvZHkkY3RsNTIkY3RsMDIkdGlwQmFza2V0RG93bmxvYWRDb25maXJtYXRpb24FHWN0bDAwJGJvZHkkY3RsNTIkY3RsMDMkcm1NZW51BTRjdGwwMCRib2R5JGN0bDUyJGN0bDAzJHRpcEJhc2tldERvd25sb2FkQ29uZmlybWF0aW9uBQ9jdGwwMCRyd21NYXN0ZXIFDmN0bDAwJHJ3UmVwb3J0BTNjdGwwMCRib2R5JGN0bDEzJHVjVmlkZW9zRGlzcGxheSRyZHBWaWRlb0xpYnJhcnlUb3APFCsABGRmAg9mZAVeY3RsMDAkYm9keSRDb250ZW50TW9kdWxlJGN0bDAwJHVjQXJ0aWNsZVRlbXBsYXRlZCRhY0NvbnRhaW5lciR1Y1JlbGF0ZWRWaWRlb3MkcmRwQXJ0aWNsZVZpZGVvcw8UKwAEZGYCAWZkBWJjdGwwMCRib2R5JENvbnRlbnRNb2R1bGUkY3RsMDAkdWNBcnRpY2xlVGVtcGxhdGVkJGFjQ29udGFpbmVyJHVjQ29tbWVudHMkdWNDb21tZW50cyRyZHBDb21tZW50c1RvcA8UKwAEZGYCCmZkzWNXfbTdkkXhG1KiuxdP91MqgA7Q1n4FA9uLGWMRu0Q=">
 
 
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=rsmManagement_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a89093640-ae6b-44c3-b8ea-010c934f8924%3aea597d4b%3bTelerik.Web.UI%2c+Version%3d2013.1.417.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3adf833b2e-28ee-45e7-8320-6f2a9cb883d7%3a16e4e7cd%3af7645509%3a2003d0b8%3a24ee1bba%3ae330518b%3a1e771326%3ac8618e41%3a7165f74%3aed16cbdc%3addbfcb67%3a4a0008d8%3aa51ee93e%3a59462f1%3a874f8ea2%3af46195d3%3a19620875%3a490a9d4e%3abd8f85e4" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=rsmManagement_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3af01b1325-3d40-437a-8da2-df3d86714220%3aea597d4b%3bTelerik.Web.UI%2c+Version%3d2013.3.1114.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a8d3dfe81-f887-4a80-ad14-8e882b52e5e6%3a16e4e7cd%3a874f8ea2%3af7645509%3a24ee1bba%3af46195d3%3a19620875%3acda80b3%3ae330518b%3a2003d0b8%3a88144a7a%3a1e771326%3ac8618e41%3a7165f74%3aed16cbdc%3aa51ee93e%3a59462f1%3a92fe8ea0%3afa31b949%3a490a9d4e%3abd8f85e4" type="text/javascript"></script>
 <script src="../../../../../../../AdGroups/Advertisement.asmx/js" type="text/javascript"></script>
 <script src="../../../../../../../Stats/CaptureStat.asmx/js" type="text/javascript"></script>
 <script src="../../../../../../../Services/Utility.asmx/js" type="text/javascript"></script>
@@ -97,21 +150,29 @@ fbDiv.data-href = window.location.href;
 		<div id="Zone1" style="width:1040px;  font-weight:normal; font-style:normal; text-decoration:none; clear:both; background:url(/FTP/background.jpg) repeat-y; ">
 			<div style="clear:both;">
 
-			</div><div id="body_d9668b68-fd8a-4518-b317-b211dd1349ef">
+			</div><div id="body_a7a29cdf-61c9-46d3-b6da-afc22d599390">
 
 			</div><div style="clear:both;">
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_1b8a2b00-fee6-429b-8da9-8b4a6f913143">
-				<div id="body_ctl04_pnlNestedLayout">
-					
-<div id="body_1b8a2b00-fee6-429b-8da9-8b4a6f913143_Zone1" style="width:1040px;  font-weight:normal; font-style:normal; text-decoration:none; clear:both; ">
-						<div id="body_ctl04_fe4d495c-3079-4699-8b35-d895ae50f9cf" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:20px; ">
+			</div><div id="body_0b3af602-a8c9-4972-824b-d2041b149bb0">
+				
+<div id="body_ctl04_pnlNestedLayout">
+					    
+<div id="body_0b3af602-a8c9-4972-824b-d2041b149bb0_Zone1" style="width:1040px;  font-weight:normal; font-style:normal; text-decoration:none; clear:both; ">
+						<div id="body_ctl04_6eb2d8b4-f801-4982-9b5d-a41a6918e671" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:20px; ">
 							<table id="body_ctl04_ctl02_tblAds" style="width:100%;">
 								<tbody><tr id="body_ctl04_ctl02_trAds">
-									<td id="body_ctl04_ctl02_tcAds"><div id="pnlAG1S854I1R2110568960">
-										<script type="text/javascript">LoadAd('pnlAG1S854I1R2110568960',1,854,null,1)</script>
+									<td id="body_ctl04_ctl02_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG1S854I1R950685140">
+										<script type="text/javascript">LoadAd('pnlAG1S854I1R950685140',1,854,null,1)</script>
 									</div></td>
 								</tr>
 							</tbody></table>
@@ -120,16 +181,103 @@ fbDiv.data-href = window.location.href;
 							</div>
 
 
-						</div>
-					</div><div id="body_1b8a2b00-fee6-429b-8da9-8b4a6f913143_Zone2" style="width:650px;  font-weight:normal; font-style:normal; text-decoration:none; float:left; ">
-						<div id="body_ctl04_afd1fbf7-e68e-44d3-b521-57d8c98d16e7">
-							<div style=" font-weight:normal; font-style:normal; text-decoration:none; padding-left:20px; padding-top:50px; padding-bottom:20px; ">
-								<a href="/"><img src="http://bermudasun.bm/Images/Images/57887.png"></a>
+						</div><div id="body_ctl04_3f33f15f-4c09-4a3f-b0ea-285757c30c8a" style=" text-align:center; font-weight:normal; font-style:normal; text-decoration:none; padding-right:8px; ">
+							<table id="body_ctl04_ctl06_tblAds" style="width:100%;">
+								<tbody><tr id="body_ctl04_ctl06_trAds">
+									<td id="body_ctl04_ctl06_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG8S854I0R412041495">
+										<script type="text/javascript">LoadAd('pnlAG8S854I0R412041495',8,854,null,0)</script>
+									</div></td>
+								</tr>
+							</tbody></table>
+
+
+
+						</div><div id="body_ctl04_234c4ae1-3e59-40f7-be59-3ab6c984faea" style=" background-color:#E01B39; font-weight:normal; font-style:normal; text-decoration:none; background-color:#E01B39; padding-top:5px; padding-bottom:5px; ">
+							<input type="hidden" name="ctl00$body$ctl04$ctl07$hfNavigationID" id="body_ctl04_ctl07_hfNavigationID" value="3">
+<input type="hidden" name="ctl00$body$ctl04$ctl07$hfChildBreakoutID" id="body_ctl04_ctl07_hfChildBreakoutID" value="4">
+<script type="text/javascript">
+    function ShowChildNavigationItems(tblChildNavigationID, childTableIDs) {
+        var navEmptyTable = document.getElementById("navEmptyTable");
+        if (navEmptyTable != null) {
+            // Hide the empty nav
+            navEmptyTable.removeAttribute('style');
+            navEmptyTable.setAttribute('style', 'display:none;');
+        }    
+
+        // Create an array from the pipe-delimited list of IDs
+        var idsArray = childTableIDs.split("|");
+
+        for (i = 0; i < idsArray.length; i++) {
+            // Compare the current item's ID with the ID in the array
+            if (tblChildNavigationID == idsArray[i]) {
+                // Get the <div> by ID
+                var tbl = document.getElementById(tblChildNavigationID);
+
+                if (tbl != null) {
+                    // Remove the current style and set the style to the global thumbnail highlight style
+                    tbl.removeAttribute('style');
+                    tbl.setAttribute('style', 'display:table; width:100%;');
+                }
+            }
+            else {
+                // Get the <div> by ID
+                var tbl = document.getElementById(idsArray[i]);
+
+                if (tbl != null) {
+                    // Remove the current style and set the style to the global thumbnail style
+                    tbl.removeAttribute('style');
+                    tbl.setAttribute('style', 'display:none; width:100%;');
+                }
+            }
+        }
+    }
+</script>
+
+
+
+
+
+
+
+
+
+<table id="body_ctl04_ctl07_tblNavigation" align="center" style="clear:both;">
+								<tbody><tr>
+									<td><a class="IgnoreGlobalHoverStyle" id="navItem2714" onmouseover="document.getElementById(&quot;navItem2714&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2714&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2714&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2714&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="/Content/NEWS/Nelson-Mandela-1918-2013/24/1327" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">Nelson Mandela 1918-2013</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2711" onmouseover="document.getElementById(&quot;navItem2711&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2711&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2711&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2711&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="http://www.sunshopper.bm" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">SUNSHOPPER</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2710" onmouseover="document.getElementById(&quot;navItem2710&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2710&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2710&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2710&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="http://www.sunemployment.bm" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">SUNEMPLOYMENT</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2641" onmouseover="document.getElementById(&quot;navItem2641&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2641&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2641&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2641&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="/Content/INTERACT/Advertise/Article/Advertise/81/852/47812" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">ADVERTISE</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2643" onmouseover="document.getElementById(&quot;navItem2643&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2643&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2643&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2643&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="https://www.facebook.com/BermudaSun" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">FACEBOOK</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2644" onmouseover="document.getElementById(&quot;navItem2644&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2644&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2644&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2644&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="http://twitter.com/BDASun" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">TWITTER</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2713" onmouseover="document.getElementById(&quot;navItem2713&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2713&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2713&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2713&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="http://www.linkedin.com/company/bermuda-sun" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">LINKEDIN</a></td>
+								</tr>
+							</tbody></table>
+
+<div id="body_ctl04_ctl07_pnlChildNavigations" style="clear:both;">
+
+							</div>
+
+<div id="body_ctl04_ctl07_pnlClearBoth" style="clear:both;">
+
+							</div>
+
+
+
+
+<div id="ctl00_body_ctl04_ctl07_tipBasketDownloadConfirmation" style="display:none;position:absolute;">
+								<!-- 2013.3.1114.40 --><input id="ctl00_body_ctl04_ctl07_tipBasketDownloadConfirmation_ClientState" name="ctl00_body_ctl04_ctl07_tipBasketDownloadConfirmation_ClientState" type="hidden">
 							</div>
 						</div>
-					</div><div id="body_1b8a2b00-fee6-429b-8da9-8b4a6f913143_Zone3" style="width:200px;  font-weight:normal; font-style:normal; text-decoration:none; float:left; ">
-						<div id="body_ctl04_ae647a3d-a518-4981-b3e0-843dd777cb2f" style=" font-weight:normal; font-style:normal; text-decoration:none; ">
-							<div style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:80px; padding-bottom:20px; ">
+					</div><div id="body_0b3af602-a8c9-4972-824b-d2041b149bb0_Zone2" style="width:650px;  font-weight:normal; font-style:normal; text-decoration:none; float:left; ">
+						<div id="body_ctl04_d364fd28-404f-4430-bdde-c15ce3bff12c">
+							<div style=" font-weight:normal; font-style:normal; text-decoration:none; padding-left:20px; padding-top:25px; padding-bottom:20px; ">
+								<a href="/"><img src="http://bermudasun.bm/Images/Images/57887.png" alt="An image."></a>
+							</div>
+						</div>
+					</div><div id="body_0b3af602-a8c9-4972-824b-d2041b149bb0_Zone3" style="width:200px;  font-weight:normal; font-style:normal; text-decoration:none; float:left; ">
+						<div id="body_ctl04_298d6f5e-43e1-47b9-b69f-332ceee1ceea" style=" font-weight:normal; font-style:normal; text-decoration:none; ">
+							<div style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:55px; padding-bottom:20px; ">
 								<table>
     <tbody>
         <tr>
@@ -144,38 +292,26 @@ fbDiv.data-href = window.location.href;
 </table>
 							</div>
 						</div>
-					</div><div id="body_1b8a2b00-fee6-429b-8da9-8b4a6f913143_Zone4" style="width:170px;  font-weight:normal; font-style:normal; text-decoration:none; padding-right:20px; padding-bottom:20px; float: left; ">
-						<div id="body_ctl04_1ea4431d-d92c-4768-aee4-f84ffe0064e4" style=" text-align:center; font-weight:normal; font-style:normal; text-decoration:none; padding-right:8px; ">
-							<table id="body_ctl04_ctl05_tblAds" style="width:100%;">
-								<tbody><tr id="body_ctl04_ctl05_trAds">
-									<td id="body_ctl04_ctl05_tcAds"><div id="pnlAG8S854I1R1325859166">
-										<script type="text/javascript">LoadAd('pnlAG8S854I1R1325859166',8,854,null,1)</script>
-									</div></td>
-								</tr>
-							</tbody></table>
-<div id="body_ctl04_ctl05_pnlClearBoth" style="clear:both; height:20px;">
-
-							</div>
-
-
-						</div><div id="body_ctl04_1d65402c-21ef-497e-8d63-b674819a132d">
+					</div><div id="body_0b3af602-a8c9-4972-824b-d2041b149bb0_Zone4" style="width:170px;  font-weight:normal; font-style:normal; text-decoration:none; padding-right:20px; padding-bottom:10px; float: left; ">
+						<div id="body_ctl04_d8b82491-5626-4d22-b6ad-8d40b061c8f8">
 							<div style=" font-weight:normal; font-style:normal; text-decoration:none; ">
-								<span style="width: 160px; text-align: center; font-family: sans-serif; font-size: 12px; display: block !important;"><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:00000.3.78016&amp;bannertypeclick=wu_macwhite" title="Bermuda International, Bermuda Weather Forecast" target="_blank"><img width="160" alt="Find more about Weather in Bermuda International, BE" src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_macwhite&amp;airportcode=TXKF&amp;ForcedCity=Bermuda International&amp;ForcedState=Bermuda&amp;wmo=78016&amp;language=EN"></a><br>
+								<br>
+<span style="width: 160px; text-align: center; font-size: 12px; display: block !important; font-family: sans-serif;"><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:00000.3.78016&amp;bannertypeclick=wu_macwhite" title="Bermuda International, Bermuda Weather Forecast" target="_blank"><img width="160" alt="Find more about Weather in Bermuda International, BE" src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_macwhite&amp;airportcode=TXKF&amp;ForcedCity=Bermuda International&amp;ForcedState=Bermuda&amp;wmo=78016&amp;language=EN"></a><br>
 </span>
 							</div>
 						</div>
-					</div><div id="body_1b8a2b00-fee6-429b-8da9-8b4a6f913143_Zone5" style="width:1040px;  font-weight:normal; font-style:normal; text-decoration:none; clear:both; ">
+					</div><div id="body_0b3af602-a8c9-4972-824b-d2041b149bb0_Zone5" style="width:1040px;  font-weight:normal; font-style:normal; text-decoration:none; clear:both; ">
 
-					</div><div id="body_1b8a2b00-fee6-429b-8da9-8b4a6f913143_Zone6" style="width:250px;  font-weight:normal; font-style:normal; text-decoration:none; float:left; background:url(/FTP/background_reversed_left.jpg) repeat-y; ">
-						<div id="body_ctl04_357f14ac-ef3e-4ae2-81a2-6fb781800e2c">
+					</div><div id="body_0b3af602-a8c9-4972-824b-d2041b149bb0_Zone6" style="width:250px;  font-weight:normal; font-style:normal; text-decoration:none; float:left; background:url(/FTP/background_reversed_left.jpg) repeat-y; ">
+						<div id="body_ctl04_26e579ad-cb1e-4f3e-bb70-c2624b0cd473">
 							<div style="font-family:Verdana; font-size:8pt; color:#E31836; font-weight:bold; font-style:normal; text-decoration:none; color:#E31836; padding-left:10px; padding-top:7px; height:21px; border-top-color: #ffffff; border-bottom-color: #ffffff; border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; ">
-								Wednesday, June 19, 2013
+								Saturday, December 21, 2013
 							</div>
 						</div>
-					</div><div id="body_1b8a2b00-fee6-429b-8da9-8b4a6f913143_Zone7" style="width:790px;  font-weight:normal; font-style:normal; text-decoration:none; float:left; background:url(/FTP/background_reversed_right.jpg) repeat-y; ">
-						<div id="body_ctl04_6df79049-9e19-48ba-aa34-d63850ab0838" style=" font-weight:normal; font-style:normal; text-decoration:none; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; ">
-							
-
+					</div><div id="body_0b3af602-a8c9-4972-824b-d2041b149bb0_Zone7" style="width:790px;  font-weight:normal; font-style:normal; text-decoration:none; float:left; background:url(/FTP/background_reversed_right.jpg) repeat-y; ">
+						<div id="body_ctl04_91d3277a-39b4-43a3-aecb-a4da698ade10" style=" font-weight:normal; font-style:normal; text-decoration:none; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; ">
+							<input type="hidden" name="ctl00$body$ctl04$ctl03$hfNavigationID" id="body_ctl04_ctl03_hfNavigationID" value="1">
+<input type="hidden" name="ctl00$body$ctl04$ctl03$hfChildBreakoutID" id="body_ctl04_ctl03_hfChildBreakoutID" value="1">
 <script type="text/javascript">
     function ShowChildNavigationItems(tblChildNavigationID, childTableIDs) {
         var navEmptyTable = document.getElementById("navEmptyTable");
@@ -217,51 +353,61 @@ fbDiv.data-href = window.location.href;
 <style type="text/css">#ctl00_body_ctl04_ctl03_rmMenu ul li {float:left; margin:0px; padding:0px 0 0px 0; line-height:27px;} #ctl00_body_ctl04_ctl03_rmMenu ul{display:inline-block; padding:0px;} #ctl00_body_ctl04_ctl03_rmMenu {text-align:center; padding:0 0px 0 0px;}</style>
 
 
+
+
 <div id="ctl00_body_ctl04_ctl03_rmMenu" class="RadMenu RadMenu_1rm rmSized 1rm">
-								<!-- 2013.1.417.40 --><ul class="rmRootGroup rmHorizontal">
-									<li class="rmItem rmFirst"><a href="http://bermudasun.bm" class="rmLink rmRootLink"><span class="rmText">HOME</span></a></li><li class="rmItem "><a href="/Content/NEWS/News-Section-Content/24/1279" class="rmLink rmRootLink"><span class="rmText">NEWS</span></a><div class="rmSlide">
+								<ul class="rmRootGroup rmHorizontal">
+									<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="http://bermudasun.bm"><span class="rmText">HOME</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/NEWS/News/24/270"><span class="rmText">NEWS</span></a><div class="rmSlide">
 										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/Content/NEWS/News/24/270" class="rmLink"><span class="rmText">News</span></a></li><li class="rmItem "><a href="/Content/NEWS/Crime/24/902" class="rmLink"><span class="rmText">Crime</span></a></li><li class="rmItem "><a href="/Content/NEWS/Human-Interest/24/896" class="rmLink"><span class="rmText">Human Interest</span></a></li><li class="rmItem "><a href="/Content/NEWS/Economy/24/899" class="rmLink"><span class="rmText">Economy</span></a></li><li class="rmItem "><a href="/Content/NEWS/Politics/24/901" class="rmLink"><span class="rmText">Politics</span></a></li><li class="rmItem "><a href="/Content/ELECTION-2012/171" class="rmLink"><span class="rmText">Election</span></a></li><li class="rmItem "><a href="/Content/NEWS/Education/24/900" class="rmLink"><span class="rmText">Education</span></a></li><li class="rmItem "><a href="/Content/NEWS/Environment/24/898" class="rmLink"><span class="rmText">Environment</span></a></li><li class="rmItem "><a href="/Content/NEWS/Labour---Immigration/24/897" class="rmLink"><span class="rmText">Labour &amp; Immigration</span></a></li><li class="rmItem "><a href="/Content/NEWS/Ministerial-Statements/24/903" class="rmLink"><span class="rmText">Ministerial Statements</span></a></li><li class="rmItem "><a href="/Content/NEWS/Press-Releases/24/895" class="rmLink"><span class="rmText">Press Releases</span></a></li><li class="rmItem "><a href="/Content/NEWS/Budget-2013/24/1301" class="rmLink"><span class="rmText">Budget 2013</span></a></li><li class="rmItem rmLast"><a href="/Content/NEWS/Breakaway/24/1307" class="rmLink"><span class="rmText">Breakaway</span></a></li>
-										</ul>
-									</div></li><li class="rmItem "><a href="/Content/BUSINESS/Business-Section-Content/72/1281" class="rmLink rmRootLink"><span class="rmText">BUSINESS</span></a><div class="rmSlide">
-										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/Content/BUSINESS/Business/72/205" class="rmLink"><span class="rmText">Business</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Economy/72/893" class="rmLink"><span class="rmText">Economy</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Insurance/72/892" class="rmLink"><span class="rmText">Insurance</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Finance/72/891" class="rmLink"><span class="rmText">Finance</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Tourism-&amp;-Hospitality/72/890" class="rmLink"><span class="rmText">Tourism &amp; Hospitality</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Retail/72/889" class="rmLink"><span class="rmText">Retail</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Technology/72/894" class="rmLink"><span class="rmText">Technology</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Law/72/1027" class="rmLink"><span class="rmText">Law</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Shipping/72/888" class="rmLink"><span class="rmText">Shipping</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/Columns/72/887" class="rmLink"><span class="rmText">Columns</span></a></li><li class="rmItem rmLast"><a href="/Content/BUSINESS/Press-Releases/72/1017" class="rmLink"><span class="rmText">Press Releases</span></a></li>
-										</ul>
-									</div></li><li class="rmItem "><a href="/Content/OPINION/Opinion-Section-Content/4/1282" class="rmLink rmRootLink"><span class="rmText">OPINION</span></a><div class="rmSlide">
-										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/Content/OPINION/Opinion/4/135" class="rmLink"><span class="rmText">Opinion</span></a></li><li class="rmItem "><a href="/Content/OPINION/Election-opinion/4/1211" class="rmLink"><span class="rmText">Election opinion</span></a></li><li class="rmItem "><a href="/Content/OPINION/Larry-Burchall/4/4" class="rmLink"><span class="rmText">Larry Burchall</span></a></li><li class="rmItem "><a href="/Content/OPINION/Tom-Vesey/4/16" class="rmLink"><span class="rmText">Tom Vesey</span></a></li><li class="rmItem "><a href="/Content/OPINION/Shawnette-Somner/4/1112" class="rmLink"><span class="rmText">Shawnette Somner</span></a></li><li class="rmItem "><a href="/Content/OPINION/Stuart-Hayward/4/18" class="rmLink"><span class="rmText">Stuart Hayward</span></a></li><li class="rmItem "><a href="/Content/OPINION/Letters/4/116" class="rmLink"><span class="rmText">Letters</span></a></li><li class="rmItem "><a href="/Content/OPINION/Burton-s-Banter/4/1300" class="rmLink"><span class="rmText">Burton's Banter</span></a></li><li class="rmItem "><a href="/Content/OPINION/Wise-Up/4/1302" class="rmLink"><span class="rmText">Wise Up</span></a></li><li class="rmItem rmLast"><a href="/Content/OPINION/Christopher-Famous/4/1308" class="rmLink"><span class="rmText">Christopher Famous</span></a></li>
-										</ul>
-									</div></li><li class="rmItem "><a href="/Content/SPORTS/Sports-Section-Content/8/1283" class="rmLink rmRootLink"><span class="rmText">SPORTS</span></a><div class="rmSlide">
-										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/Content/SPORTS/Sports/8/203" class="rmLink"><span class="rmText">Sports</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Cricket/8/48" class="rmLink"><span class="rmText">Cricket</span></a><div class="rmSlide">
+											<li class="rmItem rmFirst"><a class="rmLink" href="/Content/NEWS/News/24/270"><span class="rmText">News</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/SAGE-Report-2013/24/1329"><span class="rmText">SAGE Report 2013</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Press-Releases/24/895"><span class="rmText">Press Releases</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Human-Interest/24/896"><span class="rmText">Human Interest</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Labour---Immigration/24/897"><span class="rmText">Labour &amp; Immigration</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Environment/24/898"><span class="rmText">Environment</span></a><div class="rmSlide">
 												<ul class="rmVertical rmGroup rmLevel2">
-													<li class="rmItem rmFirst rmLast"><a href="/Content/Default/Cricket-fixtures/-3/1309" class="rmLink"><span class="rmText">Cricket fixtures</span></a></li>
+													<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/Content/Default/Marine-reserve/-3/1324"><span class="rmText">Marine reserve</span></a></li>
 												</ul>
-											</div></li><li class="rmItem "><a href="/Content/SPORTS/Football/8/105" class="rmLink"><span class="rmText">Football</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Olympics/8/250" class="rmLink"><span class="rmText">Olympics</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Sailing/8/121" class="rmLink"><span class="rmText">Sailing</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Basketball/8/119" class="rmLink"><span class="rmText">Basketball</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Bowling/8/106" class="rmLink"><span class="rmText">Bowling</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Boxing/8/117" class="rmLink"><span class="rmText">Boxing</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Cycling/8/125" class="rmLink"><span class="rmText">Cycling</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Equestrian/8/122" class="rmLink"><span class="rmText">Equestrian</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Golf/8/128" class="rmLink"><span class="rmText">Golf</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Gymnastics/8/129" class="rmLink"><span class="rmText">Gymnastics</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Martial-Arts/8/124" class="rmLink"><span class="rmText">Martial Arts</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Motor-Sports/8/251" class="rmLink"><span class="rmText">Motor Sports</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Rugby/8/132" class="rmLink"><span class="rmText">Rugby</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Pool-and-Snooker/8/244" class="rmLink"><span class="rmText">Pool and Snooker</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Softball/8/118" class="rmLink"><span class="rmText">Softball</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Squash/8/126" class="rmLink"><span class="rmText">Squash</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Swimming/8/134" class="rmLink"><span class="rmText">Swimming</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Tennis/8/104" class="rmLink"><span class="rmText">Tennis</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Track-&amp;-Field/8/101" class="rmLink"><span class="rmText">Track &amp; Field</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Triathlon/8/130" class="rmLink"><span class="rmText">Triathlon</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Youth-Sports/8/868" class="rmLink"><span class="rmText">Youth Sports</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Field-Hockey/8/133" class="rmLink"><span class="rmText">Field Hockey</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Columns/8/928" class="rmLink"><span class="rmText">Columns</span></a></li><li class="rmItem "><a href="/Content/SPORTS/Wells-at-Wembley/8/1299" class="rmLink"><span class="rmText">Wells at Wembley</span></a></li><li class="rmItem rmLast"><a href="/Content/SPORTS/Island-Games/8/1310" class="rmLink"><span class="rmText">Island Games</span></a></li>
-										</ul>
-									</div></li><li class="rmItem "><a href="/Content/LIFESTYLE/Lifestyle-Section-Content/9/1284" class="rmLink rmRootLink"><span class="rmText">LIFE</span></a><div class="rmSlide">
-										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/Content/LIFESTYLE/Lifestyle/9/230" class="rmLink"><span class="rmText">Lifestyle</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Movies/9/685" class="rmLink"><span class="rmText">Movies</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Bermuda-Sun-Coupons/9/1187" class="rmLink"><span class="rmText">Bermuda Sun Coupons</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Arts---Entertainment/9/908" class="rmLink"><span class="rmText">Arts &amp; Entertainment</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Music/9/909" class="rmLink"><span class="rmText">Music</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Community/9/910" class="rmLink"><span class="rmText">Community</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Health-and-Fitness/9/911" class="rmLink"><span class="rmText">Health and Fitness</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Food/9/912" class="rmLink"><span class="rmText">Food</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Travel/9/913" class="rmLink"><span class="rmText">Travel</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Fashion/9/914" class="rmLink"><span class="rmText">Fashion</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/Enter-Contests/9/1167" class="rmLink"><span class="rmText">Enter contests</span></a><div class="rmSlide">
+											</div></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Economy/24/899"><span class="rmText">Economy</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Education/24/900"><span class="rmText">Education</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Politics/24/901"><span class="rmText">Politics</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Crime/24/902"><span class="rmText">Crime</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Ministerial-Statements/24/903"><span class="rmText">Ministerial Statements</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/ELECTION-2012/171"><span class="rmText">Election</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Budget-2013/24/1301"><span class="rmText">Budget 2013</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Breakaway/24/1307"><span class="rmText">Breakaway</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Weekender/24/1316"><span class="rmText">Weekender</span></a><div class="rmSlide">
 												<ul class="rmVertical rmGroup rmLevel2">
-													<li class="rmItem rmFirst rmLast"><a href="/Content/Site-Forms/Site-Forms/Form-Content/Bermuda-Rocks-contest/-8/-8/35" class="rmLink"><span class="rmText">Bermuda Rocks contest</span></a></li>
+													<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/Content/NEWS/Sun-Girl---Sun-Guy/24/1317"><span class="rmText">Sun Girl / Sun Guy</span></a></li>
 												</ul>
-											</div></li><li class="rmItem "><a href="/Content/LIFESTYLE/BIFF-2013/9/1303" class="rmLink"><span class="rmText">BIFF 2013</span></a></li><li class="rmItem rmLast"><a href="/Content/LIFESTYLE/Bermemes-exclusive/9/1304" class="rmLink"><span class="rmText">Bermemes exclusive</span></a></li>
+											</div></li><li class="rmItem "><a class="rmLink" href="/Content/NEWS/Midweek/24/1318"><span class="rmText">Midweek</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/NEWS/Throne-Speech-2013/24/1202"><span class="rmText">Throne Speech 2013</span></a></li>
 										</ul>
-									</div></li><li class="rmItem "><a href="/Content/FAITH/Faith-Section-Content/42/1285" class="rmLink rmRootLink"><span class="rmText">FAITH</span></a><div class="rmSlide">
+									</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/BUSINESS/Business/72/205"><span class="rmText">BUSINESS</span></a><div class="rmSlide">
 										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/Content/FAITH/Faith/42/140" class="rmLink"><span class="rmText">Faith</span></a></li><li class="rmItem "><a href="/Content/FAITH/Pastor-Gary-Simons/42/573" class="rmLink"><span class="rmText">Pastor Gary Simons</span></a></li><li class="rmItem "><a href="/Content/FAITH/Walia-Ming/42/574" class="rmLink"><span class="rmText">Walia Ming</span></a></li><li class="rmItem rmLast"><a href="/Content/FAITH/Rev.-Maria-Seaman/42/575" class="rmLink"><span class="rmText">Rev. Maria Seaman</span></a></li>
+											<li class="rmItem rmFirst"><a class="rmLink" href="/Content/BUSINESS/Business/72/205"><span class="rmText">Business</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Shipping/72/888"><span class="rmText">Shipping</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Retail/72/889"><span class="rmText">Retail</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Tourism-&amp;-Hospitality/72/890"><span class="rmText">Tourism &amp; Hospitality</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Finance/72/891"><span class="rmText">Finance</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Economy/72/893"><span class="rmText">Economy</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Technology/72/894"><span class="rmText">Technology</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Columns/72/887"><span class="rmText">Columns</span></a><div class="rmSlide">
+												<ul class="rmVertical rmGroup rmLevel2">
+													<li class="rmItem rmFirst"><a class="rmLink" href="/Content/Default/Matters-in-Healthcare/-3/1320"><span class="rmText">Matters in Healthcare</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/Default/Ask-the-Expert/-3/1321"><span class="rmText">Ask the Expert</span></a></li>
+												</ul>
+											</div></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Insurance/72/892"><span class="rmText">Insurance</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Press-Releases/72/1017"><span class="rmText">Press Releases</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/BUSINESS/Law/72/1027"><span class="rmText">Law</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/BUSINESS/Boston--Strong-Ties-to-Bermuda/72/1326"><span class="rmText">Boston: Strong Ties to Bermuda</span></a></li>
 										</ul>
-									</div></li><li class="rmItem "><a href="/Content/FEATURES/Features-Section-Content/60/1286" class="rmLink rmRootLink"><span class="rmText">FEATURES</span></a><div class="rmSlide">
+									</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/OPINION/Opinion/4/135"><span class="rmText">OPINION</span></a><div class="rmSlide">
 										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/Content/FEATURES/Features/60/802" class="rmLink"><span class="rmText">Features</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Seniors-in-Focus/60/1035" class="rmLink"><span class="rmText">Seniors in Focus</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Holiday-Spirit-Gift-Guide-2012/60/1237" class="rmLink"><span class="rmText">Holiday Spirit Gift Guide 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Advertising-Agencies-2012/60/1188" class="rmLink"><span class="rmText">Advertising Agencies 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Animal-Tales/60/753" class="rmLink"><span class="rmText">Animal Tales</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Bacardi-150th-Anniversary-Special-Edition/60/1107" class="rmLink"><span class="rmText">Bacardi 150th Anniversary Special Edition</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Back-to-School-2012/60/1181" class="rmLink"><span class="rmText">Back to School 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Bermuda-Living/60/735" class="rmLink"><span class="rmText">Bermuda Living</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Boating-Guide-2012/60/1135" class="rmLink"><span class="rmText">Boating Guide 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Bulk-Buys/60/1238" class="rmLink"><span class="rmText">Bulk Buys</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Business-Bermuda-NEXUS/60/1139" class="rmLink"><span class="rmText">Business Bermuda NEXUS</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Centre-on-Philanthropy---Giving/60/1141" class="rmLink"><span class="rmText">Centre on Philanthropy - Giving</span></a></li><li class="rmItem "><a href="/Content/FEATURES/College-Fair-2012/60/1217" class="rmLink"><span class="rmText">College Fair 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Construction-2012/60/1136" class="rmLink"><span class="rmText">Construction 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Cool-Wheels-2012/60/1132" class="rmLink"><span class="rmText">Cool Wheels 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Cup-Match-Companion-2012/60/1173" class="rmLink"><span class="rmText">Cup Match Companion 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Fairytale-Weddings-2012/60/1105" class="rmLink"><span class="rmText">Fairytale Weddings 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Go-Green/60/765" class="rmLink"><span class="rmText">Go Green</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Hamilton-and-Beyond/60/728" class="rmLink"><span class="rmText">Hamilton and Beyond</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Health-Care-Directory-2012/60/1102" class="rmLink"><span class="rmText">Health Care Directory 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Heritage-Day-2012/60/1148" class="rmLink"><span class="rmText">Heritage Day 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Hurricane-Supplement-2012/60/1156" class="rmLink"><span class="rmText">Hurricane Supplement 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Newport-Bermuda-Race-2012/60/1162" class="rmLink"><span class="rmText">Newport-Bermuda Race 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Oh-Baby!-2012/60/1115" class="rmLink"><span class="rmText">Oh Baby! 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Parents'-Notes/60/1185" class="rmLink"><span class="rmText">Parents' Notes</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Party-Planner-2012/60/1124" class="rmLink"><span class="rmText">Party Planner 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Salute-to-Graduates-2012/60/1169" class="rmLink"><span class="rmText">Salute to Graduates 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Scholarship-Directory-2012/60/1121" class="rmLink"><span class="rmText">Scholarship Directory 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Scholarship-Recipients-2012/60/1184" class="rmLink"><span class="rmText">Scholarship Recipients 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Summer-Survival-2012/60/1137" class="rmLink"><span class="rmText">Summer Survival 2012</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Warwick-Academy-350th/60/1140" class="rmLink"><span class="rmText">Warwick Academy 350th</span></a></li><li class="rmItem "><a href="/Content/FEATURES/Water-Report-2012/60/1143" class="rmLink"><span class="rmText">Water Report 2012</span></a></li><li class="rmItem rmLast"><a href="/Content/FEATURES/World-Rugby-Classic-2012/60/1210" class="rmLink"><span class="rmText">World Rugby Classic 2012</span></a></li>
+											<li class="rmItem rmFirst"><a class="rmLink" href="/Content/OPINION/Larry-Burchall/4/4"><span class="rmText">Larry Burchall</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Tom-Vesey/4/16"><span class="rmText">Tom Vesey</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Stuart-Hayward/4/18"><span class="rmText">Stuart Hayward</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Letters/4/116"><span class="rmText">Letters</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Opinion/4/135"><span class="rmText">Opinion</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Shawnette-Somner/4/1112"><span class="rmText">Shawnette Somner</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Election-opinion/4/1211"><span class="rmText">Election opinion</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Burton-s-Banter/4/1300"><span class="rmText">Burton's Banter</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Wise-Up/4/1302"><span class="rmText">Wise Up</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Christopher-Famous/4/1308"><span class="rmText">Christopher Famous</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OPINION/Craig-Cannonier/4/1330"><span class="rmText">Craig Cannonier</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/OPINION/Marc-Bean/4/1331"><span class="rmText">Marc Bean</span></a></li>
 										</ul>
-									</div></li><li class="rmItem "><a href="/Content/ANNOUNCEMENTS/137" class="rmLink rmRootLink"><span class="rmText">NOTICES</span></a><div class="rmSlide">
+									</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/SPORTS/Sports/8/203"><span class="rmText">SPORTS</span></a><div class="rmSlide">
 										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/main.asp?SectionID=137" class="rmLink"><span class="rmText">Announcements</span></a></li><li class="rmItem "><a href="/main.asp?SectionID=65" class="rmLink"><span class="rmText">Legals &amp; Notices</span></a></li><li class="rmItem "><a href="/main.asp?SectionID=111" class="rmLink"><span class="rmText">Marriage Notices</span></a></li><li class="rmItem "><a href="http://www.sunemployment.bm/" class="rmLink"><span class="rmText">Government Careers</span></a></li><li class="rmItem "><a href="http://www.sunshopper.bm/community/milestones" class="rmLink"><span class="rmText">Milestones</span></a></li><li class="rmItem "><a href="http://www.sunshopper.bm/" class="rmLink"><span class="rmText">SunShopper Classifieds</span></a></li><li class="rmItem "><a href="/main.asp?SectionID=48" class="rmLink"><span class="rmText">Official Gazette</span></a></li><li class="rmItem "><a href="/main.asp?SectionID=16" class="rmLink"><span class="rmText">Event Calendar</span></a></li><li class="rmItem "><a href="http://twitter.com/BDASun" class="rmLink"><span class="rmText">Twitter</span></a></li><li class="rmItem "><a href="/Content/Default/Master/Article/Terms-of-Service/-3/-1/47813" class="rmLink"><span class="rmText">Terms of Service</span></a></li><li class="rmItem "><a href="https://paymentwizard.com/OrderForm.aspx?FormID=924" class="rmLink"><span class="rmText">Subscribe (overseas only)</span></a></li><li class="rmItem "><a href="/Content/INTERACT/Privacy-Policy/Article/Privacy-Policy/81/854/47814" class="rmLink"><span class="rmText">Privacy Policy</span></a></li><li class="rmItem "><a href="/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815" class="rmLink"><span class="rmText">House Rules</span></a></li><li class="rmItem "><a href="https://www.facebook.com/BermudaSun" class="rmLink"><span class="rmText">Facebook</span></a></li><li class="rmItem "><a href="/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100" class="rmLink"><span class="rmText">Contact Us</span></a></li><li class="rmItem "><a href="/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932" class="rmLink"><span class="rmText">Code of Practice</span></a></li><li class="rmItem "><a href="/Content/INTERACT/Advertise/Article/Advertise/81/852/47812" class="rmLink"><span class="rmText">Advertise</span></a></li><li class="rmItem "><a href="/main.asp?SectionID=150&amp;SubSectionID=917" class="rmLink"><span class="rmText">Obituaries</span></a></li><li class="rmItem rmLast"><a href="/Content/OBITUARIES/In-Memoriam/150/919" class="rmLink"><span class="rmText">In Memoriam</span></a></li>
+											<li class="rmItem rmFirst"><a class="rmLink" href="/Content/SPORTS/Cricket/8/48"><span class="rmText">Cricket</span></a><div class="rmSlide">
+												<ul class="rmVertical rmGroup rmLevel2">
+													<li class="rmItem rmFirst"><a class="rmLink" href="/Content/Default/Cricket-fixtures/-3/1309"><span class="rmText">Cricket fixtures</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/SPORTS/Cup-Match-2013/8/1311"><span class="rmText">Cup Match 2013</span></a></li>
+												</ul>
+											</div></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Track-&amp;-Field/8/101"><span class="rmText">Track &amp; Field</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Tennis/8/104"><span class="rmText">Tennis</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Football/8/105"><span class="rmText">Football</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Bowling/8/106"><span class="rmText">Bowling</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Boxing/8/117"><span class="rmText">Boxing</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Softball/8/118"><span class="rmText">Softball</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Basketball/8/119"><span class="rmText">Basketball</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Sailing/8/121"><span class="rmText">Sailing</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Equestrian/8/122"><span class="rmText">Equestrian</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Martial-Arts/8/124"><span class="rmText">Martial Arts</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Cycling/8/125"><span class="rmText">Cycling</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Squash/8/126"><span class="rmText">Squash</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Golf/8/128"><span class="rmText">Golf</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Gymnastics/8/129"><span class="rmText">Gymnastics</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Triathlon/8/130"><span class="rmText">Triathlon</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Rugby/8/132"><span class="rmText">Rugby</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Field-Hockey/8/133"><span class="rmText">Field Hockey</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Swimming/8/134"><span class="rmText">Swimming</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Sports/8/203"><span class="rmText">Sports</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Pool-and-Snooker/8/244"><span class="rmText">Pool and Snooker</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Olympics/8/250"><span class="rmText">Olympics</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Motor-Sports/8/251"><span class="rmText">Motor Sports</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Youth-Sports/8/868"><span class="rmText">Youth Sports</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Columns/8/928"><span class="rmText">Columns</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Wells-at-Wembley/8/1299"><span class="rmText">Wells at Wembley</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/SPORTS/Island-Games/8/1310"><span class="rmText">Island Games</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/SPORTS/Cup-Match-2013/8/1311"><span class="rmText">Cup Match 2013</span></a></li>
 										</ul>
-									</div></li><li class="rmItem rmLast"><a href="/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100" class="rmLink rmRootLink"><span class="rmText">INTERACT</span></a><div class="rmSlide">
+									</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/LIFESTYLE/Lifestyle/9/230"><span class="rmText">LIFE</span></a><div class="rmSlide">
 										<ul class="rmVertical rmGroup rmLevel1">
-											<li class="rmItem rmFirst"><a href="/Content/Site-Forms/Site-Forms/Form-Content/Submit-a-story-tip/-8/-8/19" class="rmLink"><span class="rmText">Submit a story tip</span></a></li><li class="rmItem "><a href="/Content/Site-Forms/Site-Forms/Form-Content/Send-us-your-photos-/-8/-8/18" class="rmLink"><span class="rmText">Send us your photos!</span></a></li><li class="rmItem "><a href="/Content/Site-Forms/Site-Forms/Form-Content/Submit-an-announcement/-8/-8/20" class="rmLink"><span class="rmText">Submit an announcement</span></a></li><li class="rmItem "><a href="/Content/Site-Forms/Site-Forms/Form-Content/Submit-an-obituary/-8/-8/11" class="rmLink"><span class="rmText">Submit an obituary</span></a></li><li class="rmItem "><a href="http://www.formstack.com/forms/?1467309-joXXwtDR3s" class="rmLink"><span class="rmText">Get email news alerts</span></a></li><li class="rmItem "><a href="https://www.facebook.com/BermudaSun" class="rmLink"><span class="rmText">Facebook</span></a></li><li class="rmItem "><a href="http://twitter.com/BDASun" class="rmLink"><span class="rmText">Twitter</span></a></li><li class="rmItem "><a href="/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100" class="rmLink"><span class="rmText">Contact Us</span></a></li><li class="rmItem "><a href="/Content/INTERACT/Advertise/Article/Advertise/81/852/47812" class="rmLink"><span class="rmText">Advertise</span></a></li><li class="rmItem "><a href="https://paymentwizard.com/OrderForm.aspx?FormID=924" class="rmLink"><span class="rmText">Subscribe (overseas only)</span></a></li><li class="rmItem "><a href="/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815" class="rmLink"><span class="rmText">House Rules</span></a></li><li class="rmItem rmLast"><a href="/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932" class="rmLink"><span class="rmText">Code of Practice</span></a></li>
+											<li class="rmItem rmFirst"><a class="rmLink" href="/Content/LIFESTYLE/Lifestyle/9/230"><span class="rmText">Lifestyle</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Movies/9/685"><span class="rmText">Movies</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Arts---Entertainment/9/908"><span class="rmText">Arts &amp; Entertainment</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Music/9/909"><span class="rmText">Music</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Community/9/910"><span class="rmText">Community</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Food/9/912"><span class="rmText">Food</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Travel/9/913"><span class="rmText">Travel</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Fashion/9/914"><span class="rmText">Fashion</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Health-and-Fitness/9/911"><span class="rmText">Health and Fitness</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Bermuda-Sun-Coupons/9/1187"><span class="rmText">Bermuda Sun Coupons</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Enter-Contests/9/1167"><span class="rmText">Enter contests</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Bermemes-exclusive/9/1304"><span class="rmText">Bermemes exclusive</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Tedx-Bermuda-2013/9/1322"><span class="rmText">Tedx Bermuda 2013</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/LIFESTYLE/Bermuda-Docs-2013/9/1323"><span class="rmText">Bermuda Docs 2013</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/LIFESTYLE/Life---Makeover-Contest/9/1328"><span class="rmText">Makeover Contest</span></a></li>
+										</ul>
+									</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/FAITH/Faith/42/140"><span class="rmText">FAITH</span></a><div class="rmSlide">
+										<ul class="rmVertical rmGroup rmLevel1">
+											<li class="rmItem rmFirst"><a class="rmLink" href="/Content/FAITH/Faith/42/140"><span class="rmText">Faith</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FAITH/Pastor-Gary-Simons/42/573"><span class="rmText">Pastor Gary Simons</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FAITH/Walia-Ming/42/574"><span class="rmText">Walia Ming</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/FAITH/Rev.-Maria-Seaman/42/575"><span class="rmText">Rev. Maria Seaman</span></a></li>
+										</ul>
+									</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/FEATURES/Features-Section-Content/60/1286"><span class="rmText">FEATURES</span></a><div class="rmSlide">
+										<ul class="rmVertical rmGroup rmLevel1">
+											<li class="rmItem rmFirst"><a class="rmLink" href="/Content/FEATURES/Bermuda-Living/60/735"><span class="rmText">Bermuda Living</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Animal-Tales/60/753"><span class="rmText">Animal Tales</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Go-Green/60/765"><span class="rmText">Go Green</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Features/60/802"><span class="rmText">Features</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Seniors-in-Focus/60/1035"><span class="rmText">Seniors in Focus</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Construction-2012/60/1136"><span class="rmText">Construction 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Water-Report-2012/60/1143"><span class="rmText">Water Report 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Hurricane-Supplement-2012/60/1156"><span class="rmText">Hurricane Supplement</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Health-Care-Directory-2012/60/1102"><span class="rmText">Health Care Directory 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Boating-Guide-2012/60/1135"><span class="rmText">Boating Guide 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Centre-on-Philanthropy---Giving/60/1141"><span class="rmText">Centre on Philanthropy - Giving</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Salute-to-Graduates-2012/60/1169"><span class="rmText">Salute to Graduates 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Cup-Match-Companion-2012/60/1173"><span class="rmText">Cup Match Companion 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Back-to-School-2012/60/1181"><span class="rmText">Back to School 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Parents'-Notes/60/1185"><span class="rmText">Parents' Notes</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/World-Rugby-Classic-2012/60/1210"><span class="rmText">World Rugby Classic 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Bulk-Buys/60/1238"><span class="rmText">Bulk Buys</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Fairytale-Weddings-2012/60/1105"><span class="rmText">Fairytale Weddings 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Bacardi-150th-Anniversary-Special-Edition/60/1107"><span class="rmText">Bacardi 150th Anniversary Special Edition</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Cool-Wheels-2012/60/1132"><span class="rmText">Cool Wheels 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Business-Bermuda-NEXUS/60/1139"><span class="rmText">Business Bermuda NEXUS</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/College-Fair-2012/60/1217"><span class="rmText">College Fair 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Scholarship-Directory-2012/60/1121"><span class="rmText">Scholarship Directory 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Oh-Baby!-2012/60/1115"><span class="rmText">Oh Baby! 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Party-Planner-2012/60/1124"><span class="rmText">Party Planner 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Summer-Survival-2012/60/1137"><span class="rmText">Summer Survival 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Heritage-Day-2012/60/1148"><span class="rmText">Heritage Day 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Newport-Bermuda-Race-2012/60/1162"><span class="rmText">Newport-Bermuda Race 2012</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Warwick-Academy-350th/60/1140"><span class="rmText">Warwick Academy 350th</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Scholarship-Recipients-2012/60/1184"><span class="rmText">Scholarship Recipients</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/FEATURES/Marion-Bermuda-Yacht-Race-2013/60/1319"><span class="rmText">Marion-Bermuda Yacht Race 2013</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/Home/Home/ARA-Landing/ARA-Landing/-2/-2/1/"><span class="rmText">Living</span></a></li>
+										</ul>
+									</div></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/ANNOUNCEMENTS/137"><span class="rmText">NOTICES</span></a><div class="rmSlide">
+										<ul class="rmVertical rmGroup rmLevel1">
+											<li class="rmItem rmFirst"><a class="rmLink" href="/main.asp?SectionID=137"><span class="rmText">Announcements</span></a></li><li class="rmItem "><a class="rmLink" href="/main.asp?SectionID=65"><span class="rmText">Legals &amp; Notices</span></a></li><li class="rmItem "><a class="rmLink" href="/main.asp?SectionID=111"><span class="rmText">Marriage Notices</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sunemployment.bm/"><span class="rmText">Government Careers</span></a></li><li class="rmItem "><a class="rmLink" href="/main.asp?SectionID=48"><span class="rmText">Official Gazette</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sunshopper.bm/community/milestones"><span class="rmText">Milestones</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/INTERACT/Advertise/Article/Advertise/81/852/47812"><span class="rmText">Advertise</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932"><span class="rmText">Code of Practice</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"><span class="rmText">Contact Us</span></a></li><li class="rmItem "><a class="rmLink" href="https://www.facebook.com/BermudaSun"><span class="rmText">Facebook</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815"><span class="rmText">House Rules</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/Default/Master/Article/Terms-of-Service/-3/-1/47813"><span class="rmText">Terms of Service</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sunshopper.bm/"><span class="rmText">SunShopper Classifieds</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/OBITUARIES/In-Memoriam/150/919"><span class="rmText">In Memoriam</span></a></li><li class="rmItem "><a class="rmLink" href="/main.asp?SectionID=150&amp;SubSectionID=917"><span class="rmText">Obituaries</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/INTERACT/Privacy-Policy/Article/Privacy-Policy/81/854/47814"><span class="rmText">Privacy Policy</span></a></li><li class="rmItem "><a class="rmLink" href="https://paymentwizard.com/OrderForm.aspx?FormID=924"><span class="rmText">Subscribe (overseas only)</span></a></li><li class="rmItem "><a class="rmLink" href="http://twitter.com/BDASun"><span class="rmText">Twitter</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/Event-Calendar/All-Events/16/25"><span class="rmText">Event Calendar</span></a></li>
+										</ul>
+									</div></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"><span class="rmText">INTERACT</span></a><div class="rmSlide">
+										<ul class="rmVertical rmGroup rmLevel1">
+											<li class="rmItem rmFirst"><a class="rmLink" href="/Content/Site-Forms/Site-Forms/Form-Content/Submit-a-story-tip/-8/-8/19"><span class="rmText">Submit a story tip</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/Site-Forms/Site-Forms/Form-Content/Send-us-your-photos-/-8/-8/18"><span class="rmText">Send us your photos!</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/Site-Forms/Site-Forms/Form-Content/Submit-an-announcement/-8/-8/20"><span class="rmText">Submit an announcement</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/Site-Forms/Site-Forms/Form-Content/Submit-an-obituary/-8/-8/11"><span class="rmText">Submit an obituary</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.formstack.com/forms/?1467309-joXXwtDR3s"><span class="rmText">Get email news alerts</span></a></li><li class="rmItem "><a class="rmLink" href="https://www.facebook.com/BermudaSun"><span class="rmText">Facebook</span></a></li><li class="rmItem "><a class="rmLink" href="http://twitter.com/BDASun"><span class="rmText">Twitter</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"><span class="rmText">Contact Us</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/INTERACT/Advertise/Article/Advertise/81/852/47812"><span class="rmText">Advertise</span></a></li><li class="rmItem "><a class="rmLink" href="https://paymentwizard.com/OrderForm.aspx?FormID=924"><span class="rmText">Subscribe (overseas only)</span></a></li><li class="rmItem "><a class="rmLink" href="/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815"><span class="rmText">House Rules</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932"><span class="rmText">Code of Practice</span></a></li>
 										</ul>
 									</div></li>
 								</ul><input id="ctl00_body_ctl04_ctl03_rmMenu_ClientState" name="ctl00_body_ctl04_ctl03_rmMenu_ClientState" type="hidden">
@@ -277,6 +423,13 @@ fbDiv.data-href = window.location.href;
 <div id="body_ctl04_ctl03_pnlClearBoth" style="clear:both;">
 
 							</div>
+
+
+
+
+<div id="ctl00_body_ctl04_ctl03_tipBasketDownloadConfirmation" style="display:none;position:absolute;">
+								<input id="ctl00_body_ctl04_ctl03_tipBasketDownloadConfirmation_ClientState" name="ctl00_body_ctl04_ctl03_tipBasketDownloadConfirmation_ClientState" type="hidden">
+							</div>
 						</div>
 					</div>
 				</div>
@@ -287,7 +440,7 @@ fbDiv.data-href = window.location.href;
 		</div><div id="Zone2" style="width:680px;  font-weight:normal; font-style:normal; text-decoration:none; padding-left:20px; padding-right:20px; padding-top:20px; float:left; background:url(/FTP/background_56px_left.jpg) no-repeat;">
 			<div style="clear:both;">
 
-			</div><div id="body_06745cfa-85bb-4e56-ba9b-68e982a39af7" style=" font-weight:normal; font-style:normal; text-decoration:none; ">
+			</div><div id="body_114aa8d0-2de4-41a7-8929-c8db58ba1146" style=" font-weight:normal; font-style:normal; text-decoration:none; ">
 				<div style=" font-weight:normal; font-style:normal; text-decoration:none; ">
 					<div style="height: 40px;"></div>
 				</div>
@@ -307,21 +460,6 @@ fbDiv.data-href = window.location.href;
         <div id="body_ContentModule_ctl00_ucArticleTemplated_acContainer_pnlByline" class="ArticleDisplayBylineStyle" style="clear:both; margin-bottom:10px; white-space:nowrap;">
 					
             
-<table>
-    <tbody><tr>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-             <a id="body_ContentModule_ctl00_ucArticleTemplated_acContainer_ucByline_hlEmail"></a><span id="body_ContentModule_ctl00_ucArticleTemplated_acContainer_ucByline_lblCreditLine"></span>
-        </td>
-    </tr>
-    <tr>
-        <td>
-           
-        </td>
-    </tr>
-</tbody></table>
 
         
 				</div>   
@@ -329,6 +467,7 @@ fbDiv.data-href = window.location.href;
         
         <div id="body_ContentModule_ctl00_ucArticleTemplated_acContainer_pnlBody" class="ArticleBody" style="clear:both; margin-bottom:20px;">
 					
+            
             
             
             <span id="body_ContentModule_ctl00_ucArticleTemplated_acContainer_lblBody"><h2>Bermuda Sun Website Privacy Policy</h2>
@@ -389,95 +528,14 @@ Bermuda<br>
         if (More != null) {
             More.removeAttribute("style");
             More.setAttribute("style", "display:none;");
-            //More.innerHTML = "<< Less";
-            //More.removeAttribute("onclick");
-            //More.setAttribute("onclick", "RelatedPhotoGallery_ShowShortCaption('" + MoreID + "', '" + CaptionID + "', '" + FullCaption + "', '" + ShortCaption + "')");
-        }
-    }
-
-    function RelatedPhotoGallery_ShowShortCaption(MoreID, CaptionID, FullCaption, ShortCaption) {
-        var Caption = document.getElementById(CaptionID);
-        if (Caption != null) {
-            Caption.innerHTML = ShortCaption
-        }
-
-        var More = document.getElementById(MoreID);
-        if (More != null) {
-            More.innerHTML = "More >>";
-            More.removeAttribute("onclick");
-            More.setAttribute("onclick", "RelatedPhotoGallery_ShowFullCaption('" + MoreID + "', '" + CaptionID + "', '" + FullCaption + "', '" + ShortCaption + "')");
-            More.removeAttribute("style");
-            More.setAttribute("style", "display:inline; cursor:pointer;");
-        }
-    }
-
-    function RelatedPhotoGallery_ChangePhoto(ImageURL, Title, FullCaption, FileInfo, FullSizePhotoID, TitleID, CaptionID, FileInfoID, MoreID, ShortCaption, FileID, FileTypeID, FilenameID, File, FileType, Filename, FileURLID, FileURL, FilePathID, FilePath, PhysicalFilenameID, PhysicalFilename) {
-        var FullSizePhoto = document.getElementById(FullSizePhotoID);
-        if (FullSizePhoto != null) {
-            FullSizePhoto.src = ImageURL;
-        }
-
-        var TitleLabel = document.getElementById(TitleID);
-        if (TitleLabel != null) {
-            TitleLabel.innerHTML = Title;
-        }
-
-        var CaptionLabel = document.getElementById(CaptionID);
-        if (CaptionLabel != null) {
-            CaptionLabel.innerHTML = ShortCaption;
-        }
-
-        var FileInfoLabel = document.getElementById(FileInfoID);
-        if (FileInfoLabel != null) {
-            FileInfoLabel.innerHTML = FileInfo;
-        }
-
-        var More = document.getElementById(MoreID);
-        if (More != null) {
-            More.innerHTML = "More >>";
-            More.removeAttribute("onclick");
-            More.setAttribute("onclick", "RelatedPhotoGallery_ShowFullCaption('" + MoreID + "', '" + CaptionID + "', '" + FullCaption + "', '" + ShortCaption + "')");
-            More.removeAttribute("style");
-            More.setAttribute("style", "display:inline; cursor:pointer;");
-        }
-
-        var FileIDHiddenField = document.getElementById(FileID);
-        if (FileIDHiddenField != null) {
-            FileIDHiddenField.value = File;
-        }
-
-        var FileTypeIDHiddenField = document.getElementById(FileTypeID);
-        if (FileTypeIDHiddenField != null) {
-            FileTypeIDHiddenField.value = FileType;
-        }
-
-        var FilenameIDHiddenField = document.getElementById(FilenameID);
-        if (FilenameIDHiddenField != null) {
-            FilenameIDHiddenField.value = Filename;
-        }
-
-        var FileURLIDHiddenField = document.getElementById(FileURLID);
-        if (FileURLIDHiddenField != null) {
-            FileURLIDHiddenField.value = FileURL;
-        }
-
-        var FilePathIDHiddenField = document.getElementById(FilePathID);
-        if (FilePathIDHiddenField != null) {
-            FilePathIDHiddenField.value = FilePath;
-        }
-
-        var PhysicalFilenameIDHiddenField = document.getElementById(PhysicalFilenameID);
-        if (PhysicalFilenameIDHiddenField != null) {
-            PhysicalFilenameIDHiddenField.value = PhysicalFilename;
         }
     }
 </script>
 
-<style type="text/css">div.RadToolTip_MySkin table.rtWrapper td.rtWrapperContent { font-family:Arial; font-size:10pt; color:#444444; background-color:#DDDDDD; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#444444; background-color:#DDDDDD; padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px; border:2px solid #777777;  }</style>
-
 
 
         <input type="hidden" name="ctl00$body$ContentModule$ctl00$ucArticleTemplated$acContainer$ucArticleFileGallery$hfArticleID" id="body_ContentModule_ctl00_ucArticleTemplated_acContainer_ucArticleFileGallery_hfArticleID" value="47814">
+
 
         
 
@@ -490,7 +548,7 @@ Bermuda<br>
 <script type="text/javascript">SendStatsImpression('6a5c1229-b8bd-405e-92f8-041fb1de702f')</script>
 <div style="clear:both;">
 
-			</div><div id="body_c3a0619a-90e4-4957-9f3f-147cd6aef6f9" style=" font-weight:normal; font-style:normal; text-decoration:none; ">
+			</div><div id="body_7eb567dc-7d30-4217-8720-68cdf716b86b" style=" font-weight:normal; font-style:normal; text-decoration:none; ">
 				<div style=" font-weight:normal; font-style:normal; text-decoration:none; ">
 					<div class="fb-comments" data-href="http://bermudasun.bm/Content/INTERACT/Privacy-Policy/Article/Privacy-Policy/81/854/47814" data-width="675" data-num-posts="10"></div>
 				</div>
@@ -500,7 +558,7 @@ Bermuda<br>
 		</div><div id="Zone3" style="width:300px;  font-weight:normal; font-style:normal; text-decoration:none; padding-right:20px; padding-top:20px; float:left; background:url(/FTP/background_56px_right.jpg) no-repeat;">
 			<div style="clear:both;">
 
-			</div><div id="body_d4e62c12-0892-4100-bc11-00239469b9cd" style=" text-align:left; font-weight:normal; font-style:normal; text-decoration:none; padding-left:30px; padding-top:5px; padding-bottom:50px; ">
+			</div><div id="body_016417d9-de45-4366-bced-aee845c9b338" style=" text-align:left; font-weight:normal; font-style:normal; text-decoration:none; padding-left:30px; padding-top:5px; padding-bottom:50px; ">
 				
 <div style="float:left;">
     <input name="ctl00$body$ctl07$txtQuickSearch" type="text" value="Search" id="body_ctl07_txtQuickSearch" onclick="(this.value == 'Search') ? this.value='' : this.value ;" onfocus="this.select()" onblur="(value.length == 0) ? this.value='Search' : this.value;" title="Type search term here" style="padding:0px; margin:0px;">
@@ -515,11 +573,18 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_9eca76a1-1690-4e31-a2b6-27a27cedf28e" style=" font-weight:normal; font-style:normal; text-decoration:none; ">
+			</div><div id="body_acb829ea-af41-44ea-8e67-0a9434c57a73" style=" font-weight:normal; font-style:normal; text-decoration:none; ">
 				<table id="body_ctl10_tblAds" style="width:100%;">
 					<tbody><tr id="body_ctl10_trAds">
-						<td id="body_ctl10_tcAds"><div id="pnlAG22S854I0R1030156486">
-							<script type="text/javascript">LoadAd('pnlAG22S854I0R1030156486',22,854,null,0)</script>
+						<td id="body_ctl10_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG22S854I0R158884413">
+							<script type="text/javascript">LoadAd('pnlAG22S854I0R158884413',22,854,null,0)</script>
 						</div></td>
 					</tr>
 				</tbody></table>
@@ -530,78 +595,22 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_c765be97-5fc9-4efb-b9d9-a868c77ebd29" style=" font-weight:normal; font-style:normal; text-decoration:none; background:url(/FTP/background_video_player.jpg) repeat-y; margin-bottom:20px; ">
-				<div id="body_ctl13_ralpVideoLibrary" style="display:none;">
-
-				</div>
-
-<div class="RadAjaxPanel" id="ctl00_body_ctl13_ctl00_body_ctl13_rapVideoLibraryPanel">
-					<div id="ctl00_body_ctl13_rapVideoLibrary">
-						
-
-<link href="/VideoLibraries/VideoLibrary.css" rel="stylesheet" type="text/css">
-
-
-
-<div class="RadAjaxPanel" id="ctl00_body_ctl13_ctl00_body_ctl13_ucVideosDisplay_rapVideoLibraryPanel">
-							<div id="ctl00_body_ctl13_ucVideosDisplay_rapVideoLibrary">
-								
-    <div style="width:100%; float:left; margin:0px 0px 20px 0px;">
-        <div id="body_ctl13_ucVideosDisplay_pnlVideoLibrary">
-									
-            
-                    <fieldset id="ctl00_body_ctl13_ucVideosDisplay_rlvVideoLibrary_fsVideo" style="float:left; width:100%; border-style:none; margin:0px; padding:0px;">
-                        <div id="ctl00_body_ctl13_ucVideosDisplay_rlvVideoLibrary_pnlVideo">
-
-									</div>
-                    </fieldset>
-                <input id="ctl00_body_ctl13_ucVideosDisplay_rlvVideoLibrary_ClientState" name="ctl00_body_ctl13_ucVideosDisplay_rlvVideoLibrary_ClientState" type="hidden"><span id="ctl00_body_ctl13_ucVideosDisplay_rlvVideoLibrary" style="display:none;"></span>
-        
-								</div>
-        <div id="body_ctl13_ucVideosDisplay_pnlContainerTop" class="containerTop">
-									
-            <div class="centerRadDataPagerOuter">
-                <div class="centerRadDataPagerInner">
-                    <div class="RadDataPager RadDataPager_MySkin" id="ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryTop">
-										<input id="ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryTop_ClientState" name="ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryTop_ClientState" type="hidden">
-									</div>
-                </div>
-            </div>
-        
-								</div>
-        <div id="body_ctl13_ucVideosDisplay_pnlContainerBottom" class="containerBottom">
-									
-            <div class="centerRadDataPagerOuter">
-                <div class="centerRadDataPagerInner">
-                    <div class="RadDataPager RadDataPager_MySkin" id="ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryBottom">
-										<input id="ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryBottom_ClientState" name="ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryBottom_ClientState" type="hidden">
-									</div>
-                </div>
-            </div>
-        
-								</div>
-    </div>
-    <div style="clear:both;"></div>
-
-							</div>
-						</div>
-					</div><div class="RadAjaxPanel" id="ctl00_body_ctl13_ctl00_body_ctl13_ucVideosDisplay_rapVideoLibraryPanel">
-
-					</div>
-				</div>
-
-<div id="body_ctl13_pnlVideoLibrary">
-
-				</div>
 			</div><div style="clear:both;">
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_8f385a4a-d20b-4f7f-8d92-46cead895bbd">
+			</div><div id="body_3aeb4008-0f8a-42f7-8c33-d0ad4a10f63d">
 				<table id="body_ctl16_tblAds" style="width:100%;">
 					<tbody><tr id="body_ctl16_trAds">
-						<td id="body_ctl16_tcAds"><div id="pnlAG23S854I0R716306191">
-							<script type="text/javascript">LoadAd('pnlAG23S854I0R716306191',23,854,null,0)</script>
+						<td id="body_ctl16_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG23S854I0R271281088">
+							<script type="text/javascript">LoadAd('pnlAG23S854I0R271281088',23,854,null,0)</script>
 						</div></td>
 					</tr>
 				</tbody></table>
@@ -612,7 +621,15 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_0eddd4e0-841d-4046-97db-c4e5281a0004">
+			</div><div id="body_ff53e34e-194e-4551-9a8c-c9efab003c39">
+				<div style="font-family:Verdana; font-size:11pt; color:#E81838; font-weight:bold; font-style:normal; text-decoration:none; color:#E81838; padding-left:10px; ">
+					MOST READ
+				</div>
+			</div><div style="clear:both;">
+
+			</div><div style="clear:both;">
+
+			</div><div id="body_33d29149-f5d7-48a3-a1af-d0140ff1fcf9">
 				<div style="font-family:Verdana; font-size:11pt; color:#E81838; text-align:left; font-weight:bold; font-style:normal; text-decoration:none; color:#E81838; padding-left:10px; padding-bottom:10px; ">
 					LATEST NEWS
 				</div>
@@ -620,44 +637,44 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_4604f05e-7272-40d3-a69f-5eeb195b1e79">
+			</div><div id="body_28ca374e-fb57-479e-aa17-8f9489760871">
 				
 
-<div id="body_ctl22_pnlOneClickReading" class="OneClickReadingBoxStyle">
+<div id="body_ctl25_pnlOneClickReading" class="OneClickReadingBoxStyle">
 					
     
             <ul style="margin-top:0px; margin-bottom:0px; padding-left:20px;">
         
                 <li class="OneClickBullet">
-                    <a id="body_ctl22_rOneClickStatic_hlOCItem_0" class="OneClickItem" href="/Content/Default/Latest-News/Article/Cannonier--Gay-marriage--will-not-happen-/-3/1297/67576">Cannonier: Gay marriage "will not happen"</a> 
+                    <a id="body_ctl25_rOneClickStatic_hlOCItem_0" class="OneClickItem" href="/Content/Default/Latest-News/Article/Gun-fired-near-Southampton-Rangers/-3/1297/73283">Gun fired near Southampton Rangers</a> 
                     <span style="text-wrap:none;">
                         
                     </span>
                 </li>
         
                 <li class="OneClickBullet">
-                    <a id="body_ctl22_rOneClickStatic_hlOCItem_1" class="OneClickItem" href="/Content/Default/Latest-News/Article/Gun-seized-after-police-stop-bike/-3/1297/67572">Gun seized after police stop bike</a> 
+                    <a id="body_ctl25_rOneClickStatic_hlOCItem_1" class="OneClickItem" href="/Content/Default/Latest-News/Article/Accident-in-Hamilton-parish/-3/1297/73282">Accident in Hamilton parish</a> 
                     <span style="text-wrap:none;">
                         
                     </span>
                 </li>
         
                 <li class="OneClickBullet">
-                    <a id="body_ctl22_rOneClickStatic_hlOCItem_2" class="OneClickItem" href="/Content/Default/Latest-News/Article/AG-urged-to-apologize-for--intolerant--comments/-3/1297/67562">AG urged to apologize for 'intolerant' comments</a> 
+                    <a id="body_ctl25_rOneClickStatic_hlOCItem_2" class="OneClickItem" href="/Content/Default/Latest-News/Article/Jamaican-cops-release-Bermudian-in-drugs-case-/-3/1297/73279">Jamaican cops release Bermudian in drugs case </a> 
                     <span style="text-wrap:none;">
                         
                     </span>
                 </li>
         
                 <li class="OneClickBullet">
-                    <a id="body_ctl22_rOneClickStatic_hlOCItem_3" class="OneClickItem" href="/Content/Default/Latest-News/Article/Man-injured-at-Docksider-Pub/-3/1297/67561">Man injured at Docksider Pub</a> 
+                    <a id="body_ctl25_rOneClickStatic_hlOCItem_3" class="OneClickItem" href="/Content/Default/Latest-News/Article/Amid--grave-concerns---Gov-t-takes-financial-control-of-city--Update-/-3/1297/73278">Amid 'grave concerns', Gov't takes financial control of city (Update)</a> 
                     <span style="text-wrap:none;">
                         
                     </span>
                 </li>
         
                 <li class="OneClickBullet">
-                    <a id="body_ctl22_rOneClickStatic_hlOCItem_4" class="OneClickItem" href="/Content/Default/Latest-News/Article/Man-shoved-ex-girlfriend-s-head-into-wall/-3/1297/67560">Man shoved ex-girlfriend’s head into wall</a> 
+                    <a id="body_ctl25_rOneClickStatic_hlOCItem_4" class="OneClickItem" href="/Content/Default/Latest-News/Article/France-takes-Bermuda-off-blacklist/-3/1297/73273">France takes Bermuda off blacklist</a> 
                     <span style="text-wrap:none;">
                         
                     </span>
@@ -671,37 +688,51 @@ Bermuda<br>
     
 
 				</div>
-<div id="body_ctl22_pnlClearBoth" style="clear:both; height:20px;">
+<div id="body_ctl25_pnlClearBoth" style="clear:both; height:20px;">
 
 				</div>
 			</div><div style="clear:both;">
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_2e1c7935-5809-46b2-833f-e63e06270ef0">
-				<table id="body_ctl25_tblAds" style="width:100%;">
-					<tbody><tr id="body_ctl25_trAds">
-						<td id="body_ctl25_tcAds"><div id="pnlAG24S854I0R388274030">
-							<script type="text/javascript">LoadAd('pnlAG24S854I0R388274030',24,854,null,0)</script>
-						</div></td>
-					</tr>
-				</tbody></table>
-
-
-
-			</div><div style="clear:both;">
-
-			</div><div style="clear:both;">
-
-			</div><div id="body_bdd4505c-1a81-488d-a546-d7ac63b574f5">
+			</div><div id="body_d5a62708-7c3c-489b-b041-ef08e4279ab5">
 				<table id="body_ctl28_tblAds" style="width:100%;">
 					<tbody><tr id="body_ctl28_trAds">
-						<td id="body_ctl28_tcAds"><div id="pnlAG25S854I1R1226586104">
-							<script type="text/javascript">LoadAd('pnlAG25S854I1R1226586104',25,854,null,1)</script>
+						<td id="body_ctl28_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG24S854I0R383677763">
+							<script type="text/javascript">LoadAd('pnlAG24S854I0R383677763',24,854,null,0)</script>
 						</div></td>
 					</tr>
 				</tbody></table>
-<div id="body_ctl28_pnlClearBoth" style="clear:both; height:20px;">
+
+
+
+			</div><div style="clear:both;">
+
+			</div><div style="clear:both;">
+
+			</div><div id="body_e7f081aa-2268-483a-ac1d-4a0e84dab98f">
+				<table id="body_ctl31_tblAds" style="width:100%;">
+					<tbody><tr id="body_ctl31_trAds">
+						<td id="body_ctl31_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG25S854I1R32305872">
+							<script type="text/javascript">LoadAd('pnlAG25S854I1R32305872',25,854,null,1)</script>
+						</div></td>
+					</tr>
+				</tbody></table>
+<div id="body_ctl31_pnlClearBoth" style="clear:both; height:20px;">
 
 				</div>
 
@@ -710,46 +741,46 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_46e4ad8b-eed2-41cf-b964-670e08e19a60">
-				<div id="body_ctl31_pnlPoll" style="width:100%;">
+			</div><div id="body_a2092079-1058-4d03-b335-1f9c6b6d6f3b">
+				<div id="body_ctl34_pnlPoll" style="width:100%;">
 					
     <div class="PollTextStyle" style="padding:10px;">
         <div class="PollNameStyle">
-            <span id="body_ctl31_lblPollTitle">Telecommunications</span>
+            <span id="body_ctl34_lblPollTitle">Referendum</span>
         </div>
         <br>
         
-        <span id="body_ctl31_lblPollQuestion" class="PollQuestionStyle">Has greater competition in the telecommunications industry caused you to change any of your telecommunications services this year?</span><br>
+        <span id="body_ctl34_lblPollQuestion" class="PollQuestionStyle">Does it matter to you that you won't get to vote in a referendum on gambling?</span><br>
         <br>
-        <div id="body_ctl31_pnlPollAnswers">
+        <div id="body_ctl34_pnlPollAnswers">
 						
-            <span id="body_ctl31_rblPollAnswers"><input id="body_ctl31_rblPollAnswers_0" type="radio" name="ctl00$body$ctl31$rblPollAnswers" value="23"><label for="body_ctl31_rblPollAnswers_0">Yes</label><br><input id="body_ctl31_rblPollAnswers_1" type="radio" name="ctl00$body$ctl31$rblPollAnswers" value="24"><label for="body_ctl31_rblPollAnswers_1">No</label><br><input id="body_ctl31_rblPollAnswers_2" type="radio" name="ctl00$body$ctl31$rblPollAnswers" value="25"><label for="body_ctl31_rblPollAnswers_2">I'm contemplating</label></span>
+            <span id="body_ctl34_rblPollAnswers"><input id="body_ctl34_rblPollAnswers_0" type="radio" name="ctl00$body$ctl34$rblPollAnswers" value="141"><label for="body_ctl34_rblPollAnswers_0">Yes</label><br><input id="body_ctl34_rblPollAnswers_1" type="radio" name="ctl00$body$ctl34$rblPollAnswers" value="142"><label for="body_ctl34_rblPollAnswers_1">No</label><br><input id="body_ctl34_rblPollAnswers_2" type="radio" name="ctl00$body$ctl34$rblPollAnswers" value="143"><label for="body_ctl34_rblPollAnswers_2">Don't care</label></span>
         
 					</div>
-        <div id="body_ctl31_pnlPollResults" style="display: none;">
-						<div style="height:20px;width:22%;min-width:1%;background-color:#444444;margin-bottom:5px;float:left;"></div><div style="height:20px;width:50px;padding-left:5px;margin-bottom:5px;float:left;vertical-align:middle;"><span>22%</span></div><div style="clear:both;"></div><div style="margin-bottom:20px;"><span>Yes</span></div><div style="height:20px;width:47%;min-width:1%;background-color:#444444;margin-bottom:5px;float:left;"></div><div style="height:20px;width:50px;padding-left:5px;margin-bottom:5px;float:left;vertical-align:middle;"><span>47%</span></div><div style="clear:both;"></div><div style="margin-bottom:20px;"><span>No</span></div><div style="height:20px;width:31%;min-width:1%;background-color:#444444;margin-bottom:5px;float:left;"></div><div style="height:20px;width:50px;padding-left:5px;margin-bottom:5px;float:left;vertical-align:middle;"><span>31%</span></div><div style="clear:both;"></div><div style="margin-bottom:20px;"><span>I'm contemplating</span></div>
+        <div id="body_ctl34_pnlPollResults" style="display: none;">
+						<div style="height:20px;width:46%;min-width:1%;background-color:#444444;margin-bottom:5px;float:left;"></div><div style="height:20px;width:50px;padding-left:5px;margin-bottom:5px;float:left;vertical-align:middle;"><span>46%</span></div><div style="clear:both;"></div><div style="margin-bottom:20px;"><span>Yes</span></div><div style="height:20px;width:44%;min-width:1%;background-color:#444444;margin-bottom:5px;float:left;"></div><div style="height:20px;width:50px;padding-left:5px;margin-bottom:5px;float:left;vertical-align:middle;"><span>44%</span></div><div style="clear:both;"></div><div style="margin-bottom:20px;"><span>No</span></div><div style="height:20px;width:10%;min-width:1%;background-color:#444444;margin-bottom:5px;float:left;"></div><div style="height:20px;width:50px;padding-left:5px;margin-bottom:5px;float:left;vertical-align:middle;"><span>10%</span></div><div style="clear:both;"></div><div style="margin-bottom:20px;"><span>Don't care</span></div>
 					</div>
-        <div id="body_ctl31_pnlPollButtons">
+        <div id="body_ctl34_pnlPollButtons">
 						
             <br>
-            <input type="submit" name="ctl00$body$ctl31$btnVote" value="Vote" onclick="setCookie('PollID_10','PollID_10',720);WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$body$ctl31$btnVote&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="body_ctl31_btnVote">&nbsp;<input type="submit" name="ctl00$body$ctl31$btnResults" value="Results" onclick="document.getElementById('body_ctl31_pnlPollResults').style.display = 'inline';this.style.display = 'none';document.getElementById('body_ctl31_pnlPollAnswers').style.display = 'none';document.getElementById('body_ctl31_btnVote').style.display = 'none';return false;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$body$ctl31$btnResults&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="body_ctl31_btnResults">
+            <input type="submit" name="ctl00$body$ctl34$btnVote" value="Vote" onclick="setCookie('PollID_50','PollID_50',720);WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$body$ctl34$btnVote&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="body_ctl34_btnVote">&nbsp;<input type="submit" name="ctl00$body$ctl34$btnResults" value="Results" onclick="document.getElementById('body_ctl34_pnlPollResults').style.display = 'inline';this.style.display = 'none';document.getElementById('body_ctl34_pnlPollAnswers').style.display = 'none';document.getElementById('body_ctl34_btnVote').style.display = 'none';return false;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$body$ctl34$btnResults&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="body_ctl34_btnResults">
         
 					</div>
     </div>
 
 				</div>
 <script type="text/javascript">
-    if (getCookie('PollID_10') != null &&
-        getCookie('PollID_10') != "null" &&
-        getCookie('PollID_10') != undefined &&
-        getCookie('PollID_10') != "undefined") {
-        document.getElementById('body_ctl31_pnlPollAnswers').style.display = 'none';
-        document.getElementById('body_ctl31_btnVote').style.display = 'none';
-        document.getElementById('body_ctl31_pnlPollResults').style.display = 'block';
-        document.getElementById('body_ctl31_btnResults').style.display = 'none';
+    if (getCookie('PollID_50') != null &&
+        getCookie('PollID_50') != "null" &&
+        getCookie('PollID_50') != undefined &&
+        getCookie('PollID_50') != "undefined") {
+        document.getElementById('body_ctl34_pnlPollAnswers').style.display = 'none';
+        document.getElementById('body_ctl34_btnVote').style.display = 'none';
+        document.getElementById('body_ctl34_pnlPollResults').style.display = 'block';
+        document.getElementById('body_ctl34_btnResults').style.display = 'none';
     }
     else {
-        document.getElementById('body_ctl31_pnlPollResults').style.display = 'none';
+        document.getElementById('body_ctl34_pnlPollResults').style.display = 'none';
     }
 </script>
 <br>
@@ -758,11 +789,18 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_50c7496e-6268-4e82-9d4e-14c71a9d34c7">
-				<table id="body_ctl34_tblAds" style="width:100%;">
-					<tbody><tr id="body_ctl34_trAds">
-						<td id="body_ctl34_tcAds"><div id="pnlAG26S854I0R554272985">
-							<script type="text/javascript">LoadAd('pnlAG26S854I0R554272985',26,854,null,0)</script>
+			</div><div id="body_97b64008-c297-4ff9-a812-466f97078ab2">
+				<table id="body_ctl37_tblAds" style="width:100%;">
+					<tbody><tr id="body_ctl37_trAds">
+						<td id="body_ctl37_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG26S854I0R1753542549">
+							<script type="text/javascript">LoadAd('pnlAG26S854I0R1753542549',26,854,null,0)</script>
 						</div></td>
 					</tr>
 				</tbody></table>
@@ -773,7 +811,7 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_32a01fb0-a36b-4d59-b7d4-945ed4f77f3d" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:10px; padding-bottom:10px; ">
+			</div><div id="body_c70f80ef-6efe-4c91-a136-ecefd8eb9567" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:10px; padding-bottom:10px; ">
 				<div style=" font-weight:normal; font-style:normal; text-decoration:none; ">
 					<a href="https://twitter.com/BDASun" class="twitter-timeline" data-widget-id="298677753358721024">Tweets by @BDASun</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -782,15 +820,22 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_ebae6469-c241-4319-9548-b1903dbcb187">
-				<table id="body_ctl40_tblAds" style="width:100%;">
-					<tbody><tr id="body_ctl40_trAds">
-						<td id="body_ctl40_tcAds"><div id="pnlAG27S854I1R15629340">
-							<script type="text/javascript">LoadAd('pnlAG27S854I1R15629340',27,854,null,1)</script>
+			</div><div id="body_c688267b-9cf5-4032-9144-12bfc4f59cc5">
+				<table id="body_ctl43_tblAds" style="width:100%;">
+					<tbody><tr id="body_ctl43_trAds">
+						<td id="body_ctl43_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG27S854I1R376586830">
+							<script type="text/javascript">LoadAd('pnlAG27S854I1R376586830',27,854,null,1)</script>
 						</div></td>
 					</tr>
 				</tbody></table>
-<div id="body_ctl40_pnlClearBoth" style="clear:both; height:20px;">
+<div id="body_ctl43_pnlClearBoth" style="clear:both; height:20px;">
 
 				</div>
 
@@ -799,8 +844,8 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_753cccd8-56a9-4f29-bd82-7c5b3d311589">
-				<div id="body_ctl43_pnlEventsCalendarDisplay">
+			</div><div id="body_650f4ee8-63d9-4a76-a184-abab7cd4c4dc">
+				<div id="body_ctl46_pnlEventsCalendarDisplay">
 					
 
 <style type="text/css">
@@ -819,69 +864,82 @@ Bermuda<br>
 
 
 
-<div class="RadAjaxPanel" id="ctl00_body_ctl43_ctl00_ctl00_body_ctl43_ctl00_rapEventsCalendarPanel">
-						<div id="ctl00_body_ctl43_ctl00_rapEventsCalendar">
+<div id="body_ctl46_ctl00_ralpEventsCalendar" class="RadAjax RadAjax_Default" style="display:none;">
+						<div class="raDiv">
+
+						</div><div class="raColor raTransp">
+
+						</div>
+					</div>
+<div class="RadAjaxPanel" id="ctl00_body_ctl46_ctl00_ctl00_body_ctl46_ctl00_rapEventsCalendarPanel">
+						<div id="ctl00_body_ctl46_ctl00_rapEventsCalendar">
 							
-    <div id="ctl00_body_ctl43_ctl00_rcEventsCalendar_wrapper"><table id="ctl00_body_ctl43_ctl00_rcEventsCalendar" summary="Calendar control which enables the selection of dates." cellspacing="0" class="RadCalendar RadCalendar_Default" style="width:100%;">
-								<caption>
-									<span style="display:none;">Calendar</span>
-								</caption><thead>
-									<tr>
-										<td class="rcTitlebar"><table cellspacing="0" summary="Title and navigation which can change and show the current year and month.">
-											<caption>
-												<span style="display:none;">Title and navigation</span>
-											</caption><thead>
-												<tr style="display:none;">
-													<th scope="col"></th>
-												</tr>
-											</thead><tbody>
+    <div id="ctl00_body_ctl46_ctl00_rcEventsCalendar_wrapper">
+								<table id="ctl00_body_ctl46_ctl00_rcEventsCalendar" summary="Calendar control which enables the selection of dates." cellspacing="0" class="RadCalendar RadCalendar_Default" style="width:100%;">
+									<caption>
+										<span style="display:none;">Calendar</span>
+									</caption><thead>
+										<tr>
+											<td class="rcTitlebar"><table cellspacing="0" summary="Title and navigation which can change and show the current year and month.">
+												<caption>
+													<span style="display:none;">Title and navigation</span>
+												</caption><thead>
+													<tr style="display:none;">
+														<th scope="col"></th>
+													</tr>
+												</thead><tbody>
 	<tr>
-		<td><a id="ctl00_body_ctl43_ctl00_rcEventsCalendar_FNP" class="rcFastPrev" title="<<" href="#">&lt;&lt;</a></td><td><a id="ctl00_body_ctl43_ctl00_rcEventsCalendar_NP" class="rcPrev" title="<" href="#">&lt;</a></td><td id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Title" class="rcTitle">June 2013</td><td><a id="ctl00_body_ctl43_ctl00_rcEventsCalendar_NN" class="rcNext" title=">" href="#">&gt;</a></td><td><a id="ctl00_body_ctl43_ctl00_rcEventsCalendar_FNN" class="rcFastNext" title=">>" href="#">&gt;&gt;</a></td>
+		<td><a id="ctl00_body_ctl46_ctl00_rcEventsCalendar_FNP" class="rcFastPrev" title="Move back 3 months" href="#">Move back 3 months</a></td><td><a id="ctl00_body_ctl46_ctl00_rcEventsCalendar_NP" class="rcPrev" title="Move back 1 month" href="#">Move back 1 month</a></td><td id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Title" class="rcTitle"><h2 style="display:inline; font-size:small;">December 2013</h2></td><td><a id="ctl00_body_ctl46_ctl00_rcEventsCalendar_NN" class="rcNext" title="Move forward 1 month" href="#">Move forward 1 month</a></td><td><a id="ctl00_body_ctl46_ctl00_rcEventsCalendar_FNN" class="rcFastNext" title="Move forward 3 months" href="#">Move forward 3 months</a></td>
 	</tr>
 </tbody>
-										</table></td>
-									</tr>
-								</thead><tbody>
+											</table></td>
+										</tr>
+									</thead><tbody>
 	<tr>
-		<td class="rcMain"><table id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Top" class="rcMainTable" cellspacing="0" summary="Table containing all dates for the currently selected month." style="width:100%;">
+		<td class="rcMain"><table id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Top" class="rcMainTable" cellspacing="0" summary="Table containing all dates for the currently selected month." style="width:100%;">
 	<caption>
-		<span style="display:none;">June 2013</span>
+		<span style="display:none;"><h2 style="display:inline; font-size:small;">December 2013</h2></span>
 	</caption><thead>
 		<tr class="rcWeek">
-			<th id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Top_cs_0" title="Sunday" scope="col" abbr="Sun">S</th><th id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Top_cs_1" title="Monday" scope="col" abbr="Mon">M</th><th id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Top_cs_2" title="Tuesday" scope="col" abbr="Tue">T</th><th id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Top_cs_3" title="Wednesday" scope="col" abbr="Wed">W</th><th id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Top_cs_4" title="Thursday" scope="col" abbr="Thu">T</th><th id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Top_cs_5" title="Friday" scope="col" abbr="Fri">F</th><th id="ctl00_body_ctl43_ctl00_rcEventsCalendar_Top_cs_6" title="Saturday" scope="col" abbr="Sat">S</th>
+			<th id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Top_cs_0" title="Sunday" scope="col" abbr="Sun">S</th><th id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Top_cs_1" title="Monday" scope="col" abbr="Mon">M</th><th id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Top_cs_2" title="Tuesday" scope="col" abbr="Tue">T</th><th id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Top_cs_3" title="Wednesday" scope="col" abbr="Wed">W</th><th id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Top_cs_4" title="Thursday" scope="col" abbr="Thu">T</th><th id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Top_cs_5" title="Friday" scope="col" abbr="Fri">F</th><th id="ctl00_body_ctl46_ctl00_rcEventsCalendar_Top_cs_6" title="Saturday" scope="col" abbr="Sat">S</th>
 		</tr>
 	</thead><tbody>
 		<tr class="rcRow">
-			<td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcWeekend Day" title="Saturday, June 01, 2013"><a href="#">1</a></td>
+			<td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td>
 		</tr><tr class="rcRow">
-			<td class="rcWeekend Day" title="Sunday, June 02, 2013"><a href="#">2</a></td><td title="Monday, June 03, 2013"><a href="#">3</a></td><td title="Tuesday, June 04, 2013"><a href="#">4</a></td><td title="Wednesday, June 05, 2013"><a href="#">5</a></td><td title="Thursday, June 06, 2013"><a href="#">6</a></td><td title="Friday, June 07, 2013"><a href="#">7</a></td><td class="rcWeekend Day" title="Saturday, June 08, 2013"><a href="#">8</a></td>
+			<td class="rcWeekend Day" title="Sunday, December 01, 2013"><a href="#">1</a></td><td title="Monday, December 02, 2013"><a href="#">2</a></td><td title="Tuesday, December 03, 2013"><a href="#">3</a></td><td title="Wednesday, December 04, 2013"><a href="#">4</a></td><td title="Thursday, December 05, 2013"><a href="#">5</a></td><td title="Friday, December 06, 2013"><a href="#">6</a></td><td class="rcWeekend Day" title="Saturday, December 07, 2013"><a href="#">7</a></td>
 		</tr><tr class="rcRow">
-			<td class="rcWeekend Day" title="Sunday, June 09, 2013"><a href="#">9</a></td><td title="Monday, June 10, 2013"><a href="#">10</a></td><td title="Tuesday, June 11, 2013"><a href="#">11</a></td><td title="Wednesday, June 12, 2013"><a href="#">12</a></td><td title="Thursday, June 13, 2013"><a href="#">13</a></td><td title="Friday, June 14, 2013"><a href="#">14</a></td><td class="rcWeekend Day" title="Saturday, June 15, 2013"><a href="#">15</a></td>
+			<td class="rcWeekend Day" title="Sunday, December 08, 2013"><a href="#">8</a></td><td title="Monday, December 09, 2013"><a href="#">9</a></td><td title="Tuesday, December 10, 2013"><a href="#">10</a></td><td title="Wednesday, December 11, 2013"><a href="#">11</a></td><td title="Thursday, December 12, 2013"><a href="#">12</a></td><td title="Friday, December 13, 2013"><a href="#">13</a></td><td class="rcWeekend Day" title="Saturday, December 14, 2013"><a href="#">14</a></td>
 		</tr><tr class="rcRow">
-			<td class="rcWeekend Day" title="Sunday, June 16, 2013"><a href="#">16</a></td><td title="Monday, June 17, 2013"><a href="#">17</a></td><td title="Tuesday, June 18, 2013"><a href="#">18</a></td><td title="Wednesday, June 19, 2013"><a href="#">19</a></td><td title="Thursday, June 20, 2013"><a href="#">20</a></td><td title="Friday, June 21, 2013"><a href="#">21</a></td><td class="rcWeekend Day" title="Saturday, June 22, 2013"><a href="#">22</a></td>
+			<td class="rcWeekend Day" title="Sunday, December 15, 2013"><a href="#">15</a></td><td title="Monday, December 16, 2013"><a href="#">16</a></td><td title="Tuesday, December 17, 2013"><a href="#">17</a></td><td title="Wednesday, December 18, 2013"><a href="#">18</a></td><td title="Thursday, December 19, 2013"><a href="#">19</a></td><td title="Friday, December 20, 2013"><a href="#">20</a></td><td class="rcWeekend Day" title="Saturday, December 21, 2013"><a href="#">21</a></td>
 		</tr><tr class="rcRow">
-			<td class="rcWeekend Day" title="Sunday, June 23, 2013"><a href="#">23</a></td><td title="Monday, June 24, 2013"><a href="#">24</a></td><td title="Tuesday, June 25, 2013"><a href="#">25</a></td><td title="Wednesday, June 26, 2013"><a href="#">26</a></td><td title="Thursday, June 27, 2013"><a href="#">27</a></td><td title="Friday, June 28, 2013"><a href="#">28</a></td><td class="rcWeekend Day" title="Saturday, June 29, 2013"><a href="#">29</a></td>
+			<td class="rcWeekend Day" title="Sunday, December 22, 2013"><a href="#">22</a></td><td title="Monday, December 23, 2013"><a href="#">23</a></td><td title="Tuesday, December 24, 2013"><a href="#">24</a></td><td title="Wednesday, December 25, 2013"><a href="#">25</a></td><td title="Thursday, December 26, 2013"><a href="#">26</a></td><td title="Friday, December 27, 2013"><a href="#">27</a></td><td class="rcWeekend Day" title="Saturday, December 28, 2013"><a href="#">28</a></td>
 		</tr><tr class="rcRow">
-			<td class="rcWeekend Day" title="Sunday, June 30, 2013"><a href="#">30</a></td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td>
+			<td class="rcWeekend Day" title="Sunday, December 29, 2013"><a href="#">29</a></td><td title="Monday, December 30, 2013"><a href="#">30</a></td><td title="Tuesday, December 31, 2013"><a href="#">31</a></td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td><td class="rcOtherMonth">&nbsp;</td>
 		</tr>
 	</tbody>
 </table></td>
 	</tr>
 </tbody>
-							</table><input type="hidden" name="ctl00_body_ctl43_ctl00_rcEventsCalendar_SD" id="ctl00_body_ctl43_ctl00_rcEventsCalendar_SD" value="[]"><input type="hidden" name="ctl00_body_ctl43_ctl00_rcEventsCalendar_AD" id="ctl00_body_ctl43_ctl00_rcEventsCalendar_AD" value="[[1980,1,1],[2099,12,30],[2013,6,18]]"></div>
+								</table><input type="hidden" name="ctl00_body_ctl46_ctl00_rcEventsCalendar_SD" id="ctl00_body_ctl46_ctl00_rcEventsCalendar_SD" value="[]"><input type="hidden" name="ctl00_body_ctl46_ctl00_rcEventsCalendar_AD" id="ctl00_body_ctl46_ctl00_rcEventsCalendar_AD" value="[[1980,1,1],[2099,12,30],[2013,12,21]]">
+							</div>
     <div style="height:10px; clear:both;"></div>
-    <span id="body_ctl43_ctl00_lblSelectedDate" class="EventCalendarTodaysEventsStyle">This Week's Events</span>
+    
+    <div style="height:10px; clear:both;"></div>
+    <h2 style="display:inline"><span id="body_ctl46_ctl00_lblSelectedDate" class="EventCalendarTodaysEventsStyle">This Week's Events</span></h2>
     <div style="height:5px; clear:both;"></div>
-    <span id="body_ctl43_ctl00_lblNoEvents" class="EventCalendarEventStyle" style="color:#444444;">No events scheduled for this date.</span>
+    
     
 
     
-    
+
     
 
 						</div>
 					</div>
-<div id="body_ctl43_ctl00_pnlClearBoth" style="clear:both; height:20px;">
+
+
+<div id="body_ctl46_ctl00_pnlClearBoth" style="clear:both; height:20px;">
 
 					</div>
 				</div>
@@ -889,11 +947,18 @@ Bermuda<br>
 
 			</div><div style="clear:both;">
 
-			</div><div id="body_613b3435-b83e-415c-b99c-3a3050bd6398">
-				<table id="body_ctl46_tblAds" style="width:100%;">
-					<tbody><tr id="body_ctl46_trAds">
-						<td id="body_ctl46_tcAds"><div id="pnlAG28S854I0R870190211">
-							<script type="text/javascript">LoadAd('pnlAG28S854I0R870190211',28,854,null,0)</script>
+			</div><div id="body_7eb52b10-e6c3-423c-9dac-2e4c3645f4f0">
+				<table id="body_ctl49_tblAds" style="width:100%;">
+					<tbody><tr id="body_ctl49_trAds">
+						<td id="body_ctl49_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG28S854I0R1978335899">
+							<script type="text/javascript">LoadAd('pnlAG28S854I0R1978335899',28,854,null,0)</script>
 						</div></td>
 					</tr>
 				</tbody></table>
@@ -906,26 +971,34 @@ Bermuda<br>
 		</div><div id="Zone4" style="width:1040px;  font-weight:normal; font-style:normal; text-decoration:none; clear:both; background:url(/FTP/background.jpg) repeat-y; ">
 			<div style="clear:both;">
 
-			</div><div id="body_d4b27453-90bb-4ffa-a2cd-7ccf1e544132">
-				<div id="body_ctl49_pnlNestedLayout">
-					
-<div id="body_d4b27453-90bb-4ffa-a2cd-7ccf1e544132_Zone1" style="width:1040px;  font-weight:normal; font-style:normal; text-decoration:none; clear:both; ">
-						<div id="body_ctl49_9844194b-2e8a-4542-81dc-cb06d2186752" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:20px; ">
-							<table id="body_ctl49_ctl00_tblAds" style="width:100%;">
-								<tbody><tr id="body_ctl49_ctl00_trAds">
-									<td id="body_ctl49_ctl00_tcAds"><div id="pnlAG2S854I1R331546566">
-										<script type="text/javascript">LoadAd('pnlAG2S854I1R331546566',2,854,null,1)</script>
+			</div><div id="body_b6fcefeb-9147-4b7d-8b3c-8ce4a69823f6">
+				
+<div id="body_ctl52_pnlNestedLayout">
+					    
+<div id="body_b6fcefeb-9147-4b7d-8b3c-8ce4a69823f6_Zone1" style="width:1040px;  font-weight:normal; font-style:normal; text-decoration:none; clear:both; ">
+						<div id="body_ctl52_0ca65484-d92d-4344-b2e9-e3092bf31869" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:20px; ">
+							<table id="body_ctl52_ctl00_tblAds" style="width:100%;">
+								<tbody><tr id="body_ctl52_ctl00_trAds">
+									<td id="body_ctl52_ctl00_tcAds">
+            <script type="text/javascript">
+                function AdFrameResize(id, size) {
+                    //document.getElementById("adFrame_" + thing).width = "1000px";
+                    document.getElementById(id).height = size + "px";
+                }
+            </script>
+            <div id="pnlAG2S854I1R1626964008">
+										<script type="text/javascript">LoadAd('pnlAG2S854I1R1626964008',2,854,null,1)</script>
 									</div></td>
 								</tr>
 							</tbody></table>
-<div id="body_ctl49_ctl00_pnlClearBoth" style="clear:both; height:20px;">
+<div id="body_ctl52_ctl00_pnlClearBoth" style="clear:both; height:20px;">
 
 							</div>
 
 
-						</div><div id="body_ctl49_b868080b-9ee1-4e6e-9245-cd7fed0efed1" style=" font-weight:normal; font-style:normal; text-decoration:none; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; background:url(/FTP/background_bottom_nav.jpg) no-repeat; ">
-							
-
+						</div><div id="body_ctl52_8e4f1b15-6c25-4f5d-809f-bc5f88976adf" style=" font-weight:normal; font-style:normal; text-decoration:none; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; background:url(/FTP/background_bottom_nav.jpg) no-repeat; ">
+							<input type="hidden" name="ctl00$body$ctl52$ctl01$hfNavigationID" id="body_ctl52_ctl01_hfNavigationID" value="2">
+<input type="hidden" name="ctl00$body$ctl52$ctl01$hfChildBreakoutID" id="body_ctl52_ctl01_hfChildBreakoutID">
 <script type="text/javascript">
     function ShowChildNavigationItems(tblChildNavigationID, childTableIDs) {
         var navEmptyTable = document.getElementById("navEmptyTable");
@@ -964,28 +1037,37 @@ Bermuda<br>
     }
 </script>
 
-<style type="text/css">#ctl00_body_ctl49_ctl01_rmMenu ul li {float:left; margin:0px; padding:0px 0 0px 0; line-height:27px;} #ctl00_body_ctl49_ctl01_rmMenu ul{display:inline-block; padding:0px;} #ctl00_body_ctl49_ctl01_rmMenu {text-align:center; padding:0 0px 0 0px;}</style>
+<style type="text/css">#ctl00_body_ctl52_ctl01_rmMenu ul li {float:left; margin:0px; padding:0px 0 0px 0; line-height:27px;} #ctl00_body_ctl52_ctl01_rmMenu ul{display:inline-block; padding:0px;} #ctl00_body_ctl52_ctl01_rmMenu {text-align:center; padding:0 0px 0 0px;}</style>
 
 
-<div id="ctl00_body_ctl49_ctl01_rmMenu" class="RadMenu RadMenu_2rm rmSized 2rm">
+
+
+<div id="ctl00_body_ctl52_ctl01_rmMenu" class="RadMenu RadMenu_2rm rmSized 2rm">
 								<ul class="rmRootGroup rmHorizontal">
-									<li class="rmItem rmFirst"><a href="/Content/NEWS/24" class="rmLink rmRootLink"><span class="rmText">NEWS</span></a></li><li class="rmItem "><a href="/Content/BUSINESS/72" class="rmLink rmRootLink"><span class="rmText">BUSINESS</span></a></li><li class="rmItem "><a href="/Content/OPINION/4" class="rmLink rmRootLink"><span class="rmText">OPINION</span></a></li><li class="rmItem "><a href="/Content/SPORTS/8" class="rmLink rmRootLink"><span class="rmText">SPORTS</span></a></li><li class="rmItem "><a href="/Content/LIFESTYLE/9" class="rmLink rmRootLink"><span class="rmText">LIFE</span></a></li><li class="rmItem "><a href="/Content/FAITH/42" class="rmLink rmRootLink"><span class="rmText">FAITH</span></a></li><li class="rmItem "><a href="/Content/FEATURES/60" class="rmLink rmRootLink"><span class="rmText">FEATURES</span></a></li><li class="rmItem rmLast"><a href="/Content/NOTICES/147" class="rmLink rmRootLink"><span class="rmText">NOTICES</span></a></li>
-								</ul><input id="ctl00_body_ctl49_ctl01_rmMenu_ClientState" name="ctl00_body_ctl49_ctl01_rmMenu_ClientState" type="hidden">
+									<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="/Content/NEWS/24"><span class="rmText">NEWS</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/BUSINESS/72"><span class="rmText">BUSINESS</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/OPINION/4"><span class="rmText">OPINION</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/SPORTS/8"><span class="rmText">SPORTS</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/LIFESTYLE/9"><span class="rmText">LIFE</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/FAITH/42"><span class="rmText">FAITH</span></a></li><li class="rmItem "><a class="rmLink rmRootLink" href="/Content/FEATURES/60"><span class="rmText">FEATURES</span></a></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Content/NOTICES/147"><span class="rmText">NOTICES</span></a></li>
+								</ul><input id="ctl00_body_ctl52_ctl01_rmMenu_ClientState" name="ctl00_body_ctl52_ctl01_rmMenu_ClientState" type="hidden">
 							</div>
 
 
 
 
-<div id="body_ctl49_ctl01_pnlChildNavigations" style="clear:both;">
+<div id="body_ctl52_ctl01_pnlChildNavigations" style="clear:both;">
 
 							</div>
 
-<div id="body_ctl49_ctl01_pnlClearBoth" style="clear:both;">
+<div id="body_ctl52_ctl01_pnlClearBoth" style="clear:both;">
 
 							</div>
-						</div><div id="body_ctl49_afb683ec-a1af-45c5-961b-f61df84594e3" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-top:20px; padding-bottom:10px; ">
-							
 
+
+
+
+<div id="ctl00_body_ctl52_ctl01_tipBasketDownloadConfirmation" style="display:none;position:absolute;">
+								<input id="ctl00_body_ctl52_ctl01_tipBasketDownloadConfirmation_ClientState" name="ctl00_body_ctl52_ctl01_tipBasketDownloadConfirmation_ClientState" type="hidden">
+							</div>
+						</div><div id="body_ctl52_4d8ffaf8-cd8d-4fab-90ac-8b6d09df0822" style=" background-color:#E01B39; font-weight:normal; font-style:normal; text-decoration:none; background-color:#E01B39; padding-top:5px; padding-bottom:5px; ">
+							<input type="hidden" name="ctl00$body$ctl52$ctl02$hfNavigationID" id="body_ctl52_ctl02_hfNavigationID" value="3">
+<input type="hidden" name="ctl00$body$ctl52$ctl02$hfChildBreakoutID" id="body_ctl52_ctl02_hfChildBreakoutID">
 <script type="text/javascript">
     function ShowChildNavigationItems(tblChildNavigationID, childTableIDs) {
         var navEmptyTable = document.getElementById("navEmptyTable");
@@ -1030,22 +1112,31 @@ Bermuda<br>
 
 
 
-<table id="body_ctl49_ctl02_tblNavigation" align="center" style="clear:both;">
+
+
+<table id="body_ctl52_ctl02_tblNavigation" align="center" style="clear:both;">
 								<tbody><tr>
-									<td><a id="navItem2636" onmouseover="document.getElementById(&quot;navItem2636&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2636&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2636&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2636&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="http://bermudasun.bm/Content/Default/Master/Article/Terms-of-Service/-3/-1/47813" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">TERMS OF SERVICE</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2637" onmouseover="document.getElementById(&quot;navItem2637&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2637&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2637&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2637&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="http://bermudasun.bm/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">HOUSE RULES</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2638" onmouseover="document.getElementById(&quot;navItem2638&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2638&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2638&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2638&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="/Content/INTERACT/Privacy-Policy/Article/Privacy-Policy/81/854/47814" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">PRIVACY POLICY</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2639" onmouseover="document.getElementById(&quot;navItem2639&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2639&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2639&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2639&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">CODE OF PRACTICE</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2641" onmouseover="document.getElementById(&quot;navItem2641&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2641&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2641&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2641&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="/Content/INTERACT/Advertise/Article/Advertise/81/852/47812" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">ADVERTISE</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2642" onmouseover="document.getElementById(&quot;navItem2642&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2642&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2642&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2642&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">CONTACT US</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2643" onmouseover="document.getElementById(&quot;navItem2643&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2643&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2643&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2643&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="https://www.facebook.com/BermudaSun" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">FACEBOOK</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2644" onmouseover="document.getElementById(&quot;navItem2644&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2644&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2644&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2644&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="http://twitter.com/BDASun" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">TWITTER</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2645" onmouseover="document.getElementById(&quot;navItem2645&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2645&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2645&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2645&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="https://plus.google.com/102026724398595484196/posts#102026724398595484196/posts" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">GOOGLE+</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2646" onmouseover="document.getElementById(&quot;navItem2646&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2646&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2646&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2646&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="/Content/Default/Default/Enl-Signup/Enl-Signup/-1/-1/-1" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">NEWS ALERTS</a></td>
+									<td><a class="IgnoreGlobalHoverStyle" id="navItem2714" onmouseover="document.getElementById(&quot;navItem2714&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2714&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2714&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2714&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="/Content/NEWS/Nelson-Mandela-1918-2013/24/1327" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">Nelson Mandela 1918-2013</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2711" onmouseover="document.getElementById(&quot;navItem2711&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2711&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2711&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2711&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="http://www.sunshopper.bm" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">SUNSHOPPER</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2710" onmouseover="document.getElementById(&quot;navItem2710&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2710&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2710&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2710&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="http://www.sunemployment.bm" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">SUNEMPLOYMENT</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2641" onmouseover="document.getElementById(&quot;navItem2641&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2641&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2641&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2641&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="/Content/INTERACT/Advertise/Article/Advertise/81/852/47812" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">ADVERTISE</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2643" onmouseover="document.getElementById(&quot;navItem2643&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2643&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2643&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2643&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="https://www.facebook.com/BermudaSun" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">FACEBOOK</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2644" onmouseover="document.getElementById(&quot;navItem2644&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2644&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2644&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2644&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="http://twitter.com/BDASun" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">TWITTER</a></td><td><span style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">&nbsp;|&nbsp;</span><a class="IgnoreGlobalHoverStyle" id="navItem2713" onmouseover="document.getElementById(&quot;navItem2713&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2713&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:left; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2713&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2713&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; &quot;)" href="http://www.linkedin.com/company/bermuda-sun" style="font-family:Verdana; font-size:10pt; color:#FFFFFF; background-color:#E32532; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; background-color:#E32532; padding-left:0px; ">LINKEDIN</a></td>
 								</tr>
 							</tbody></table>
 
-<div id="body_ctl49_ctl02_pnlChildNavigations" style="clear:both;">
+<div id="body_ctl52_ctl02_pnlChildNavigations" style="clear:both;">
 
 							</div>
 
-<div id="body_ctl49_ctl02_pnlClearBoth" style="clear:both;">
+<div id="body_ctl52_ctl02_pnlClearBoth" style="clear:both;">
 
 							</div>
-						</div><div id="body_ctl49_ec92f1cf-d843-4e10-afc5-09ecdc452f24" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-bottom:20px; ">
-							
 
+
+
+
+<div id="ctl00_body_ctl52_ctl02_tipBasketDownloadConfirmation" style="display:none;position:absolute;">
+								<input id="ctl00_body_ctl52_ctl02_tipBasketDownloadConfirmation_ClientState" name="ctl00_body_ctl52_ctl02_tipBasketDownloadConfirmation_ClientState" type="hidden">
+							</div>
+						</div><div id="body_ctl52_d2d87709-1e72-4e05-b331-e860e414e15c" style=" font-weight:normal; font-style:normal; text-decoration:none; padding-bottom:20px; ">
+							<input type="hidden" name="ctl00$body$ctl52$ctl03$hfNavigationID" id="body_ctl52_ctl03_hfNavigationID" value="4">
+<input type="hidden" name="ctl00$body$ctl52$ctl03$hfChildBreakoutID" id="body_ctl52_ctl03_hfChildBreakoutID">
 <script type="text/javascript">
     function ShowChildNavigationItems(tblChildNavigationID, childTableIDs) {
         var navEmptyTable = document.getElementById("navEmptyTable");
@@ -1089,21 +1180,28 @@ Bermuda<br>
 
 
 
+<div id="ctl00_body_ctl52_ctl03_rmMenu" class="RadMenu RadMenu_Default rmSized">
+								<input class="rmRootGroup rmHorizontal" id="ctl00_body_ctl52_ctl03_rmMenu_ClientState" name="ctl00_body_ctl52_ctl03_rmMenu_ClientState" type="hidden">
+							</div>
 
-<table id="body_ctl49_ctl03_tblNavigation" align="center" style="clear:both;">
-								<tbody><tr>
-									<td><a id="navItem2647" onmouseover="document.getElementById(&quot;navItem2647&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2647&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2647&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2647&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="http://www.sunshopper.bm/" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">SUNSHOPPER</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2648" onmouseover="document.getElementById(&quot;navItem2648&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2648&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2648&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2648&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="http://www.sunemployment.bm/" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">SUNEMPLOYMENT</a></td><td><span style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">&nbsp;|&nbsp;</span><a id="navItem2649" onmouseover="document.getElementById(&quot;navItem2649&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2649&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF;  cursor:pointer !important;&quot;)" onmouseout="document.getElementById(&quot;navItem2649&quot;).removeAttribute(&quot;style&quot;); document.getElementById(&quot;navItem2649&quot;).setAttribute(&quot;style&quot;, &quot;font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; &quot;)" href="http://www.bermuda.com/" style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:normal; font-style:normal; text-decoration:none; color:#FFFFFF; ">BERMUDA.COM</a></td>
-								</tr>
-							</tbody></table>
 
-<div id="body_ctl49_ctl03_pnlChildNavigations" style="clear:both;">
+
+
+<div id="body_ctl52_ctl03_pnlChildNavigations" style="clear:both;">
 
 							</div>
 
-<div id="body_ctl49_ctl03_pnlClearBoth" style="clear:both;">
+<div id="body_ctl52_ctl03_pnlClearBoth" style="clear:both;">
 
 							</div>
-						</div><div id="body_ctl49_c9bbe247-8fd6-40c4-a6f8-117b5a295023">
+
+
+
+
+<div id="ctl00_body_ctl52_ctl03_tipBasketDownloadConfirmation" style="display:none;position:absolute;">
+								<input id="ctl00_body_ctl52_ctl03_tipBasketDownloadConfirmation_ClientState" name="ctl00_body_ctl52_ctl03_tipBasketDownloadConfirmation_ClientState" type="hidden">
+							</div>
+						</div><div id="body_ctl52_98f4cdc5-f3dc-4dbb-b7ee-7bdcf0b5304d">
 							<div style="font-family:Verdana; font-size:9pt; color:#FFFFFF; text-align:center; font-weight:bold; font-style:normal; text-decoration:none; color:#FFFFFF; padding-bottom:20px; ">
 								Copyright © 2005-2012 Bermuda Sun Ltd. All Rights Reserved. For more information see our <a href="/Content/INTERACT/TermsofService/44/630" style="color: inherit; text-decoration: none;">Terms of Service</a>.<br>
 <br>
@@ -1201,42 +1299,45 @@ Software Copyright © 1998-2013 1up! Software, All Rights Reserved
                         function loadHandler() {
                             var hf = $get('rssmPublic_TSSM');
                             if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
-                            hf.value += ';Telerik.Web.UI, Version=2013.1.417.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:df833b2e-28ee-45e7-8320-6f2a9cb883d7:ed2942d4:fe53831e:bc8339f7:45085116:9ad5c0b:bf649b0:c9a390bf:c86a4a06:4c651af2:92753c09:91f742eb';
+                            hf.value += ';Telerik.Web.UI, Version=2013.3.1114.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:8d3dfe81-f887-4a80-ad14-8e882b52e5e6:53e1db5a:d126a8ef:ed2942d4:fe53831e:bc8339f7:45085116:27c5704c:c86a4a06:4c651af2:92753c09:91f742eb';
                             Sys.Application.remove_load(loadHandler);
                         };
                         Sys.Application.add_load(loadHandler);
                     })();Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_enableItemImagesPreloading":true,"_skin":"1rm","clientStateFieldID":"ctl00_body_ctl04_ctl03_rmMenu_ClientState","collapseAnimation":"{\"type\":0,\"duration\":450}","defaultGroupSettings":"{\"flow\":0}","expandAnimation":"{\"type\":0,\"duration\":450}","itemData":[{"navigateUrl":"http://bermudasun.bm"},{"items":[{"navigateUrl":"/Content/NEWS/News/24/270"},{"navigateUrl":"/Content/NEWS/Crime/24/902"},{"navigateUrl":"/Content/NEWS/Human-Interest/24/896"},{"navigateUrl":"/Content/NEWS/Economy/24/899"},{"navigateUrl":"/Content/NEWS/Politics/24/901"},{"navigateUrl":"/Content/ELECTION-2012/171"},{"navigateUrl":"/Content/NEWS/Education/24/900"},{"navigateUrl":"/Content/NEWS/Environment/24/898"},{"navigateUrl":"/Content/NEWS/Labour---Immigration/24/897"},{"navigateUrl":"/Content/NEWS/Ministerial-Statements/24/903"},{"navigateUrl":"/Content/NEWS/Press-Releases/24/895"},{"navigateUrl":"/Content/NEWS/Budget-2013/24/1301"},{"navigateUrl":"/Content/NEWS/Breakaway/24/1307"}],"navigateUrl":"/Content/NEWS/News-Section-Content/24/1279"},{"items":[{"navigateUrl":"/Content/BUSINESS/Business/72/205"},{"navigateUrl":"/Content/BUSINESS/Economy/72/893"},{"navigateUrl":"/Content/BUSINESS/Insurance/72/892"},{"navigateUrl":"/Content/BUSINESS/Finance/72/891"},{"navigateUrl":"/Content/BUSINESS/Tourism-&-Hospitality/72/890"},{"navigateUrl":"/Content/BUSINESS/Retail/72/889"},{"navigateUrl":"/Content/BUSINESS/Technology/72/894"},{"navigateUrl":"/Content/BUSINESS/Law/72/1027"},{"navigateUrl":"/Content/BUSINESS/Shipping/72/888"},{"navigateUrl":"/Content/BUSINESS/Columns/72/887"},{"navigateUrl":"/Content/BUSINESS/Press-Releases/72/1017"}],"navigateUrl":"/Content/BUSINESS/Business-Section-Content/72/1281"},{"items":[{"navigateUrl":"/Content/OPINION/Opinion/4/135"},{"navigateUrl":"/Content/OPINION/Election-opinion/4/1211"},{"navigateUrl":"/Content/OPINION/Larry-Burchall/4/4"},{"navigateUrl":"/Content/OPINION/Tom-Vesey/4/16"},{"navigateUrl":"/Content/OPINION/Shawnette-Somner/4/1112"},{"navigateUrl":"/Content/OPINION/Stuart-Hayward/4/18"},{"navigateUrl":"/Content/OPINION/Letters/4/116"},{"navigateUrl":"/Content/OPINION/Burton-s-Banter/4/1300"},{"navigateUrl":"/Content/OPINION/Wise-Up/4/1302"},{"navigateUrl":"/Content/OPINION/Christopher-Famous/4/1308"}],"navigateUrl":"/Content/OPINION/Opinion-Section-Content/4/1282"},{"items":[{"navigateUrl":"/Content/SPORTS/Sports/8/203"},{"items":[{"navigateUrl":"/Content/Default/Cricket-fixtures/-3/1309"}],"navigateUrl":"/Content/SPORTS/Cricket/8/48"},{"navigateUrl":"/Content/SPORTS/Football/8/105"},{"navigateUrl":"/Content/SPORTS/Olympics/8/250"},{"navigateUrl":"/Content/SPORTS/Sailing/8/121"},{"navigateUrl":"/Content/SPORTS/Basketball/8/119"},{"navigateUrl":"/Content/SPORTS/Bowling/8/106"},{"navigateUrl":"/Content/SPORTS/Boxing/8/117"},{"navigateUrl":"/Content/SPORTS/Cycling/8/125"},{"navigateUrl":"/Content/SPORTS/Equestrian/8/122"},{"navigateUrl":"/Content/SPORTS/Golf/8/128"},{"navigateUrl":"/Content/SPORTS/Gymnastics/8/129"},{"navigateUrl":"/Content/SPORTS/Martial-Arts/8/124"},{"navigateUrl":"/Content/SPORTS/Motor-Sports/8/251"},{"navigateUrl":"/Content/SPORTS/Rugby/8/132"},{"navigateUrl":"/Content/SPORTS/Pool-and-Snooker/8/244"},{"navigateUrl":"/Content/SPORTS/Softball/8/118"},{"navigateUrl":"/Content/SPORTS/Squash/8/126"},{"navigateUrl":"/Content/SPORTS/Swimming/8/134"},{"navigateUrl":"/Content/SPORTS/Tennis/8/104"},{"navigateUrl":"/Content/SPORTS/Track-&-Field/8/101"},{"navigateUrl":"/Content/SPORTS/Triathlon/8/130"},{"navigateUrl":"/Content/SPORTS/Youth-Sports/8/868"},{"navigateUrl":"/Content/SPORTS/Field-Hockey/8/133"},{"navigateUrl":"/Content/SPORTS/Columns/8/928"},{"navigateUrl":"/Content/SPORTS/Wells-at-Wembley/8/1299"},{"navigateUrl":"/Content/SPORTS/Island-Games/8/1310"}],"navigateUrl":"/Content/SPORTS/Sports-Section-Content/8/1283"},{"items":[{"navigateUrl":"/Content/LIFESTYLE/Lifestyle/9/230"},{"navigateUrl":"/Content/LIFESTYLE/Movies/9/685"},{"navigateUrl":"/Content/LIFESTYLE/Bermuda-Sun-Coupons/9/1187"},{"navigateUrl":"/Content/LIFESTYLE/Arts---Entertainment/9/908"},{"navigateUrl":"/Content/LIFESTYLE/Music/9/909"},{"navigateUrl":"/Content/LIFESTYLE/Community/9/910"},{"navigateUrl":"/Content/LIFESTYLE/Health-and-Fitness/9/911"},{"navigateUrl":"/Content/LIFESTYLE/Food/9/912"},{"navigateUrl":"/Content/LIFESTYLE/Travel/9/913"},{"navigateUrl":"/Content/LIFESTYLE/Fashion/9/914"},{"items":[{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Bermuda-Rocks-contest/-8/-8/35"}],"navigateUrl":"/Content/LIFESTYLE/Enter-Contests/9/1167"},{"navigateUrl":"/Content/LIFESTYLE/BIFF-2013/9/1303"},{"navigateUrl":"/Content/LIFESTYLE/Bermemes-exclusive/9/1304"}],"navigateUrl":"/Content/LIFESTYLE/Lifestyle-Section-Content/9/1284"},{"items":[{"navigateUrl":"/Content/FAITH/Faith/42/140"},{"navigateUrl":"/Content/FAITH/Pastor-Gary-Simons/42/573"},{"navigateUrl":"/Content/FAITH/Walia-Ming/42/574"},{"navigateUrl":"/Content/FAITH/Rev.-Maria-Seaman/42/575"}],"navigateUrl":"/Content/FAITH/Faith-Section-Content/42/1285"},{"items":[{"navigateUrl":"/Content/FEATURES/Features/60/802"},{"navigateUrl":"/Content/FEATURES/Seniors-in-Focus/60/1035"},{"navigateUrl":"/Content/FEATURES/Holiday-Spirit-Gift-Guide-2012/60/1237"},{"navigateUrl":"/Content/FEATURES/Advertising-Agencies-2012/60/1188"},{"navigateUrl":"/Content/FEATURES/Animal-Tales/60/753"},{"navigateUrl":"/Content/FEATURES/Bacardi-150th-Anniversary-Special-Edition/60/1107"},{"navigateUrl":"/Content/FEATURES/Back-to-School-2012/60/1181"},{"navigateUrl":"/Content/FEATURES/Bermuda-Living/60/735"},{"navigateUrl":"/Content/FEATURES/Boating-Guide-2012/60/1135"},{"navigateUrl":"/Content/FEATURES/Bulk-Buys/60/1238"},{"navigateUrl":"/Content/FEATURES/Business-Bermuda-NEXUS/60/1139"},{"navigateUrl":"/Content/FEATURES/Centre-on-Philanthropy---Giving/60/1141"},{"navigateUrl":"/Content/FEATURES/College-Fair-2012/60/1217"},{"navigateUrl":"/Content/FEATURES/Construction-2012/60/1136"},{"navigateUrl":"/Content/FEATURES/Cool-Wheels-2012/60/1132"},{"navigateUrl":"/Content/FEATURES/Cup-Match-Companion-2012/60/1173"},{"navigateUrl":"/Content/FEATURES/Fairytale-Weddings-2012/60/1105"},{"navigateUrl":"/Content/FEATURES/Go-Green/60/765"},{"navigateUrl":"/Content/FEATURES/Hamilton-and-Beyond/60/728"},{"navigateUrl":"/Content/FEATURES/Health-Care-Directory-2012/60/1102"},{"navigateUrl":"/Content/FEATURES/Heritage-Day-2012/60/1148"},{"navigateUrl":"/Content/FEATURES/Hurricane-Supplement-2012/60/1156"},{"navigateUrl":"/Content/FEATURES/Newport-Bermuda-Race-2012/60/1162"},{"navigateUrl":"/Content/FEATURES/Oh-Baby!-2012/60/1115"},{"navigateUrl":"/Content/FEATURES/Parents\u0027-Notes/60/1185"},{"navigateUrl":"/Content/FEATURES/Party-Planner-2012/60/1124"},{"navigateUrl":"/Content/FEATURES/Salute-to-Graduates-2012/60/1169"},{"navigateUrl":"/Content/FEATURES/Scholarship-Directory-2012/60/1121"},{"navigateUrl":"/Content/FEATURES/Scholarship-Recipients-2012/60/1184"},{"navigateUrl":"/Content/FEATURES/Summer-Survival-2012/60/1137"},{"navigateUrl":"/Content/FEATURES/Warwick-Academy-350th/60/1140"},{"navigateUrl":"/Content/FEATURES/Water-Report-2012/60/1143"},{"navigateUrl":"/Content/FEATURES/World-Rugby-Classic-2012/60/1210"}],"navigateUrl":"/Content/FEATURES/Features-Section-Content/60/1286"},{"items":[{"navigateUrl":"/main.asp?SectionID=137"},{"navigateUrl":"/main.asp?SectionID=65"},{"navigateUrl":"/main.asp?SectionID=111"},{"navigateUrl":"http://www.sunemployment.bm/"},{"navigateUrl":"http://www.sunshopper.bm/community/milestones"},{"navigateUrl":"http://www.sunshopper.bm/"},{"navigateUrl":"/main.asp?SectionID=48"},{"navigateUrl":"/main.asp?SectionID=16"},{"navigateUrl":"http://twitter.com/BDASun"},{"navigateUrl":"/Content/Default/Master/Article/Terms-of-Service/-3/-1/47813"},{"navigateUrl":"https://paymentwizard.com/OrderForm.aspx?FormID=924"},{"navigateUrl":"/Content/INTERACT/Privacy-Policy/Article/Privacy-Policy/81/854/47814"},{"navigateUrl":"/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815"},{"navigateUrl":"https://www.facebook.com/BermudaSun"},{"navigateUrl":"/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"},{"navigateUrl":"/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932"},{"navigateUrl":"/Content/INTERACT/Advertise/Article/Advertise/81/852/47812"},{"navigateUrl":"/main.asp?SectionID=150&SubSectionID=917"},{"navigateUrl":"/Content/OBITUARIES/In-Memoriam/150/919"}],"navigateUrl":"/Content/ANNOUNCEMENTS/137"},{"items":[{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Submit-a-story-tip/-8/-8/19"},{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Send-us-your-photos-/-8/-8/18"},{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Submit-an-announcement/-8/-8/20"},{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Submit-an-obituary/-8/-8/11"},{"navigateUrl":"http://www.formstack.com/forms/?1467309-joXXwtDR3s"},{"navigateUrl":"https://www.facebook.com/BermudaSun"},{"navigateUrl":"http://twitter.com/BDASun"},{"navigateUrl":"/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"},{"navigateUrl":"/Content/INTERACT/Advertise/Article/Advertise/81/852/47812"},{"navigateUrl":"https://paymentwizard.com/OrderForm.aspx?FormID=924"},{"navigateUrl":"/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815"},{"navigateUrl":"/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932"}],"navigateUrl":"/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"}]}, null, null, $get("ctl00_body_ctl04_ctl03_rmMenu"));
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":4,"clientStateFieldID":"ctl00_body_ctl04_ctl07_tipBasketDownloadConfirmation_ClientState","formID":"form1","height":"90px","offsetX":20,"offsetY":20,"position":33,"relativeTo":2,"renderMode":1,"showCallout":false,"showEvent":16,"skin":"Default","text":"Added item to the basket.","width":"240px"}, null, null, $get("ctl00_body_ctl04_ctl07_tipBasketDownloadConfirmation"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_enableItemImagesPreloading":true,"_skin":"1rm","clientStateFieldID":"ctl00_body_ctl04_ctl03_rmMenu_ClientState","collapseAnimation":"{\"type\":0,\"duration\":450}","defaultGroupSettings":"{\"flow\":0}","expandAnimation":"{\"type\":0,\"duration\":450}","itemData":[{"navigateUrl":"http://bermudasun.bm"},{"items":[{"navigateUrl":"/Content/NEWS/News/24/270"},{"navigateUrl":"/Content/NEWS/SAGE-Report-2013/24/1329"},{"navigateUrl":"/Content/NEWS/Press-Releases/24/895"},{"navigateUrl":"/Content/NEWS/Human-Interest/24/896"},{"navigateUrl":"/Content/NEWS/Labour---Immigration/24/897"},{"items":[{"navigateUrl":"/Content/Default/Marine-reserve/-3/1324"}],"navigateUrl":"/Content/NEWS/Environment/24/898"},{"navigateUrl":"/Content/NEWS/Economy/24/899"},{"navigateUrl":"/Content/NEWS/Education/24/900"},{"navigateUrl":"/Content/NEWS/Politics/24/901"},{"navigateUrl":"/Content/NEWS/Crime/24/902"},{"navigateUrl":"/Content/NEWS/Ministerial-Statements/24/903"},{"navigateUrl":"/Content/ELECTION-2012/171"},{"navigateUrl":"/Content/NEWS/Budget-2013/24/1301"},{"navigateUrl":"/Content/NEWS/Breakaway/24/1307"},{"items":[{"navigateUrl":"/Content/NEWS/Sun-Girl---Sun-Guy/24/1317"}],"navigateUrl":"/Content/NEWS/Weekender/24/1316"},{"navigateUrl":"/Content/NEWS/Midweek/24/1318"},{"navigateUrl":"/Content/NEWS/Throne-Speech-2013/24/1202"}],"navigateUrl":"/Content/NEWS/News/24/270"},{"items":[{"navigateUrl":"/Content/BUSINESS/Business/72/205"},{"navigateUrl":"/Content/BUSINESS/Shipping/72/888"},{"navigateUrl":"/Content/BUSINESS/Retail/72/889"},{"navigateUrl":"/Content/BUSINESS/Tourism-&-Hospitality/72/890"},{"navigateUrl":"/Content/BUSINESS/Finance/72/891"},{"navigateUrl":"/Content/BUSINESS/Economy/72/893"},{"navigateUrl":"/Content/BUSINESS/Technology/72/894"},{"items":[{"navigateUrl":"/Content/Default/Matters-in-Healthcare/-3/1320"},{"navigateUrl":"/Content/Default/Ask-the-Expert/-3/1321"}],"navigateUrl":"/Content/BUSINESS/Columns/72/887"},{"navigateUrl":"/Content/BUSINESS/Insurance/72/892"},{"navigateUrl":"/Content/BUSINESS/Press-Releases/72/1017"},{"navigateUrl":"/Content/BUSINESS/Law/72/1027"},{"navigateUrl":"/Content/BUSINESS/Boston--Strong-Ties-to-Bermuda/72/1326"}],"navigateUrl":"/Content/BUSINESS/Business/72/205"},{"items":[{"navigateUrl":"/Content/OPINION/Larry-Burchall/4/4"},{"navigateUrl":"/Content/OPINION/Tom-Vesey/4/16"},{"navigateUrl":"/Content/OPINION/Stuart-Hayward/4/18"},{"navigateUrl":"/Content/OPINION/Letters/4/116"},{"navigateUrl":"/Content/OPINION/Opinion/4/135"},{"navigateUrl":"/Content/OPINION/Shawnette-Somner/4/1112"},{"navigateUrl":"/Content/OPINION/Election-opinion/4/1211"},{"navigateUrl":"/Content/OPINION/Burton-s-Banter/4/1300"},{"navigateUrl":"/Content/OPINION/Wise-Up/4/1302"},{"navigateUrl":"/Content/OPINION/Christopher-Famous/4/1308"},{"navigateUrl":"/Content/OPINION/Craig-Cannonier/4/1330"},{"navigateUrl":"/Content/OPINION/Marc-Bean/4/1331"}],"navigateUrl":"/Content/OPINION/Opinion/4/135"},{"items":[{"items":[{"navigateUrl":"/Content/Default/Cricket-fixtures/-3/1309"},{"navigateUrl":"/Content/SPORTS/Cup-Match-2013/8/1311"}],"navigateUrl":"/Content/SPORTS/Cricket/8/48"},{"navigateUrl":"/Content/SPORTS/Track-&-Field/8/101"},{"navigateUrl":"/Content/SPORTS/Tennis/8/104"},{"navigateUrl":"/Content/SPORTS/Football/8/105"},{"navigateUrl":"/Content/SPORTS/Bowling/8/106"},{"navigateUrl":"/Content/SPORTS/Boxing/8/117"},{"navigateUrl":"/Content/SPORTS/Softball/8/118"},{"navigateUrl":"/Content/SPORTS/Basketball/8/119"},{"navigateUrl":"/Content/SPORTS/Sailing/8/121"},{"navigateUrl":"/Content/SPORTS/Equestrian/8/122"},{"navigateUrl":"/Content/SPORTS/Martial-Arts/8/124"},{"navigateUrl":"/Content/SPORTS/Cycling/8/125"},{"navigateUrl":"/Content/SPORTS/Squash/8/126"},{"navigateUrl":"/Content/SPORTS/Golf/8/128"},{"navigateUrl":"/Content/SPORTS/Gymnastics/8/129"},{"navigateUrl":"/Content/SPORTS/Triathlon/8/130"},{"navigateUrl":"/Content/SPORTS/Rugby/8/132"},{"navigateUrl":"/Content/SPORTS/Field-Hockey/8/133"},{"navigateUrl":"/Content/SPORTS/Swimming/8/134"},{"navigateUrl":"/Content/SPORTS/Sports/8/203"},{"navigateUrl":"/Content/SPORTS/Pool-and-Snooker/8/244"},{"navigateUrl":"/Content/SPORTS/Olympics/8/250"},{"navigateUrl":"/Content/SPORTS/Motor-Sports/8/251"},{"navigateUrl":"/Content/SPORTS/Youth-Sports/8/868"},{"navigateUrl":"/Content/SPORTS/Columns/8/928"},{"navigateUrl":"/Content/SPORTS/Wells-at-Wembley/8/1299"},{"navigateUrl":"/Content/SPORTS/Island-Games/8/1310"},{"navigateUrl":"/Content/SPORTS/Cup-Match-2013/8/1311"}],"navigateUrl":"/Content/SPORTS/Sports/8/203"},{"items":[{"navigateUrl":"/Content/LIFESTYLE/Lifestyle/9/230"},{"navigateUrl":"/Content/LIFESTYLE/Movies/9/685"},{"navigateUrl":"/Content/LIFESTYLE/Arts---Entertainment/9/908"},{"navigateUrl":"/Content/LIFESTYLE/Music/9/909"},{"navigateUrl":"/Content/LIFESTYLE/Community/9/910"},{"navigateUrl":"/Content/LIFESTYLE/Food/9/912"},{"navigateUrl":"/Content/LIFESTYLE/Travel/9/913"},{"navigateUrl":"/Content/LIFESTYLE/Fashion/9/914"},{"navigateUrl":"/Content/LIFESTYLE/Health-and-Fitness/9/911"},{"navigateUrl":"/Content/LIFESTYLE/Bermuda-Sun-Coupons/9/1187"},{"navigateUrl":"/Content/LIFESTYLE/Enter-Contests/9/1167"},{"navigateUrl":"/Content/LIFESTYLE/Bermemes-exclusive/9/1304"},{"navigateUrl":"/Content/LIFESTYLE/Tedx-Bermuda-2013/9/1322"},{"navigateUrl":"/Content/LIFESTYLE/Bermuda-Docs-2013/9/1323"},{"navigateUrl":"/Content/LIFESTYLE/Life---Makeover-Contest/9/1328"}],"navigateUrl":"/Content/LIFESTYLE/Lifestyle/9/230"},{"items":[{"navigateUrl":"/Content/FAITH/Faith/42/140"},{"navigateUrl":"/Content/FAITH/Pastor-Gary-Simons/42/573"},{"navigateUrl":"/Content/FAITH/Walia-Ming/42/574"},{"navigateUrl":"/Content/FAITH/Rev.-Maria-Seaman/42/575"}],"navigateUrl":"/Content/FAITH/Faith/42/140"},{"items":[{"navigateUrl":"/Content/FEATURES/Bermuda-Living/60/735"},{"navigateUrl":"/Content/FEATURES/Animal-Tales/60/753"},{"navigateUrl":"/Content/FEATURES/Go-Green/60/765"},{"navigateUrl":"/Content/FEATURES/Features/60/802"},{"navigateUrl":"/Content/FEATURES/Seniors-in-Focus/60/1035"},{"navigateUrl":"/Content/FEATURES/Construction-2012/60/1136"},{"navigateUrl":"/Content/FEATURES/Water-Report-2012/60/1143"},{"navigateUrl":"/Content/FEATURES/Hurricane-Supplement-2012/60/1156"},{"navigateUrl":"/Content/FEATURES/Health-Care-Directory-2012/60/1102"},{"navigateUrl":"/Content/FEATURES/Boating-Guide-2012/60/1135"},{"navigateUrl":"/Content/FEATURES/Centre-on-Philanthropy---Giving/60/1141"},{"navigateUrl":"/Content/FEATURES/Salute-to-Graduates-2012/60/1169"},{"navigateUrl":"/Content/FEATURES/Cup-Match-Companion-2012/60/1173"},{"navigateUrl":"/Content/FEATURES/Back-to-School-2012/60/1181"},{"navigateUrl":"/Content/FEATURES/Parents\u0027-Notes/60/1185"},{"navigateUrl":"/Content/FEATURES/World-Rugby-Classic-2012/60/1210"},{"navigateUrl":"/Content/FEATURES/Bulk-Buys/60/1238"},{"navigateUrl":"/Content/FEATURES/Fairytale-Weddings-2012/60/1105"},{"navigateUrl":"/Content/FEATURES/Bacardi-150th-Anniversary-Special-Edition/60/1107"},{"navigateUrl":"/Content/FEATURES/Cool-Wheels-2012/60/1132"},{"navigateUrl":"/Content/FEATURES/Business-Bermuda-NEXUS/60/1139"},{"navigateUrl":"/Content/FEATURES/College-Fair-2012/60/1217"},{"navigateUrl":"/Content/FEATURES/Scholarship-Directory-2012/60/1121"},{"navigateUrl":"/Content/FEATURES/Oh-Baby!-2012/60/1115"},{"navigateUrl":"/Content/FEATURES/Party-Planner-2012/60/1124"},{"navigateUrl":"/Content/FEATURES/Summer-Survival-2012/60/1137"},{"navigateUrl":"/Content/FEATURES/Heritage-Day-2012/60/1148"},{"navigateUrl":"/Content/FEATURES/Newport-Bermuda-Race-2012/60/1162"},{"navigateUrl":"/Content/FEATURES/Warwick-Academy-350th/60/1140"},{"navigateUrl":"/Content/FEATURES/Scholarship-Recipients-2012/60/1184"},{"navigateUrl":"/Content/FEATURES/Marion-Bermuda-Yacht-Race-2013/60/1319"},{"navigateUrl":"/Content/Home/Home/ARA-Landing/ARA-Landing/-2/-2/1/"}],"navigateUrl":"/Content/FEATURES/Features-Section-Content/60/1286"},{"items":[{"navigateUrl":"/main.asp?SectionID=137"},{"navigateUrl":"/main.asp?SectionID=65"},{"navigateUrl":"/main.asp?SectionID=111"},{"navigateUrl":"http://www.sunemployment.bm/"},{"navigateUrl":"/main.asp?SectionID=48"},{"navigateUrl":"http://www.sunshopper.bm/community/milestones"},{"navigateUrl":"/Content/INTERACT/Advertise/Article/Advertise/81/852/47812"},{"navigateUrl":"/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932"},{"navigateUrl":"/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"},{"navigateUrl":"https://www.facebook.com/BermudaSun"},{"navigateUrl":"/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815"},{"navigateUrl":"/Content/Default/Master/Article/Terms-of-Service/-3/-1/47813"},{"navigateUrl":"http://www.sunshopper.bm/"},{"navigateUrl":"/Content/OBITUARIES/In-Memoriam/150/919"},{"navigateUrl":"/main.asp?SectionID=150&SubSectionID=917"},{"navigateUrl":"/Content/INTERACT/Privacy-Policy/Article/Privacy-Policy/81/854/47814"},{"navigateUrl":"https://paymentwizard.com/OrderForm.aspx?FormID=924"},{"navigateUrl":"http://twitter.com/BDASun"},{"navigateUrl":"/Content/Event-Calendar/All-Events/16/25"}],"navigateUrl":"/Content/ANNOUNCEMENTS/137"},{"items":[{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Submit-a-story-tip/-8/-8/19"},{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Send-us-your-photos-/-8/-8/18"},{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Submit-an-announcement/-8/-8/20"},{"navigateUrl":"/Content/Site-Forms/Site-Forms/Form-Content/Submit-an-obituary/-8/-8/11"},{"navigateUrl":"http://www.formstack.com/forms/?1467309-joXXwtDR3s"},{"navigateUrl":"https://www.facebook.com/BermudaSun"},{"navigateUrl":"http://twitter.com/BDASun"},{"navigateUrl":"/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"},{"navigateUrl":"/Content/INTERACT/Advertise/Article/Advertise/81/852/47812"},{"navigateUrl":"https://paymentwizard.com/OrderForm.aspx?FormID=924"},{"navigateUrl":"/Content/INTERACT/House-Rules/Article/House-Rules/81/855/47815"},{"navigateUrl":"/Content/Default/Master/Article/Code-of-Practice/-3/-1/48932"}],"navigateUrl":"/Content/INTERACT/Contact-Us/Article/Contact-Us/81/227/100"}]}, null, null, $get("ctl00_body_ctl04_ctl03_rmMenu"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":4,"clientStateFieldID":"ctl00_body_ctl04_ctl03_tipBasketDownloadConfirmation_ClientState","formID":"form1","height":"90px","offsetX":20,"offsetY":20,"position":33,"relativeTo":2,"renderMode":1,"showCallout":false,"showEvent":16,"skin":"Default","text":"Added item to the basket.","width":"240px"}, null, null, $get("ctl00_body_ctl04_ctl03_tipBasketDownloadConfirmation"));
 });
 Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadButton, {"_accessKey":"","_postBackReference":"WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions('ctl00$body$ctl07$rbQuickSearch', '', true, '', '', false, false))","clientStateFieldID":"ctl00_body_ctl07_rbQuickSearch_ClientState","iconData":{},"imageData":{},"text":"Go","toggleStatesData":[],"uniqueGroupName":"","uniqueID":"ctl00$body$ctl07$rbQuickSearch"}, null, null, $get("ctl00_body_ctl07_rbQuickSearch"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxLoadingPanel, {"initialDelayTime":0,"isSticky":false,"minDisplayTime":0,"skin":"","transparency":100,"uniqueID":"ctl00$body$ctl13$ralpVideoLibrary","zIndex":90000}, null, null, $get("body_ctl13_ralpVideoLibrary"));
+    $create(Telerik.Web.UI.RadAjaxLoadingPanel, {"initialDelayTime":0,"isSticky":false,"minDisplayTime":0,"skin":"Default","uniqueID":"ctl00$body$ctl46$ctl00$ralpEventsCalendar","zIndex":90000}, null, null, $get("body_ctl46_ctl00_ralpEventsCalendar"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadListView, {"UniqueID":"ctl00$body$ctl13$ucVideosDisplay$rlvVideoLibrary","_allowPaging":true,"_clientSettings":{"DataBinding":{"ItemPlaceHolderID":"ctl00_body_ctl13_ucVideosDisplay_rlvVideoLibrary_pnlVideo","DataService":{}}},"_pageSize":15,"clientStateFieldID":"ctl00_body_ctl13_ucVideosDisplay_rlvVideoLibrary_ClientState"}, null, null, $get("ctl00_body_ctl13_ucVideosDisplay_rlvVideoLibrary"));
+    $create(Telerik.Web.UI.RadCalendar, {"_DayRenderChangedDays":{},"_FormatInfoArray":[["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],["January","February","March","April","May","June","July","August","September","October","November","December",""],["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"dddd, MMMM dd, yyyy h:mm:ss tt","dddd, MMMM dd, yyyy","h:mm:ss tt","MMMM dd","ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","M/d/yyyy","h:mm tt","yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","MMMM, yyyy","AM","PM","/",":",0],"_ViewRepeatableDays":{},"_ViewsHash":{"ctl00_body_ctl46_ctl00_rcEventsCalendar_Top" : [[2013,12,1], 1]},"_calendarWeekRule":0,"_culture":"en-US","_enableKeyboardNavigation":false,"_enableViewSelector":false,"_firstDayOfWeek":7,"_postBackCall":"__doPostBack(\u0027ctl00$body$ctl46$ctl00$rcEventsCalendar\u0027,\u0027@@\u0027)","_rangeSelectionMode":0,"autoPostBack":true,"clientStateFieldID":"ctl00_body_ctl46_ctl00_rcEventsCalendar_ClientState","enabled":true,"monthYearNavigationSettings":["Today","OK","Cancel","Date is out of range.","False","True","300","1","300","1","False"],"renderMode":1,"showOtherMonthsDays":false,"skin":"Default","specialDaysArray":[],"stylesHash":{"DayStyle": ["", ""],"CalendarTableStyle": ["", "rcMainTable"],"OtherMonthDayStyle": ["", "rcOtherMonth"],"TitleStyle": ["", ""],"SelectedDayStyle": ["", "rcSelected"],"SelectorStyle": ["", ""],"DisabledDayStyle": ["", "rcDisabled"],"OutOfRangeDayStyle": ["", "rcOutOfRange"],"WeekendDayStyle": ["", "rcWeekend Day"],"DayOverStyle": ["", "rcHover"],"FastNavigationStyle": ["", "RadCalendarMonthView RadCalendarMonthView_Default"],"ViewSelectorStyle": ["", "rcViewSel"]}}, null, null, $get("ctl00_body_ctl46_ctl00_rcEventsCalendar"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadDataPager, {"_currentPageIndex":0,"_pageCount":0,"_pageSize":15,"_startRowIndex":0,"_totalRowCount":0,"_uniqueID":"ctl00$body$ctl13$ucVideosDisplay$rdpVideoLibraryTop","clientStateFieldID":"ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryTop_ClientState"}, null, null, $get("ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryTop"));
+    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"body_ctl46_ctl00_ralpEventsCalendar","styles":[],"uniqueID":"ctl00$body$ctl46$ctl00$rapEventsCalendar"}, null, null, $get("ctl00_body_ctl46_ctl00_rapEventsCalendar"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadDataPager, {"_currentPageIndex":0,"_pageCount":0,"_pageSize":15,"_startRowIndex":0,"_totalRowCount":0,"_uniqueID":"ctl00$body$ctl13$ucVideosDisplay$rdpVideoLibraryBottom","clientStateFieldID":"ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryBottom_ClientState"}, null, null, $get("ctl00_body_ctl13_ucVideosDisplay_rdpVideoLibraryBottom"));
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_enableItemImagesPreloading":true,"_skin":"2rm","clientStateFieldID":"ctl00_body_ctl52_ctl01_rmMenu_ClientState","collapseAnimation":"{\"type\":0,\"duration\":450}","defaultGroupSettings":"{\"flow\":0}","expandAnimation":"{\"type\":0,\"duration\":450}","itemData":[{"navigateUrl":"/Content/NEWS/24"},{"navigateUrl":"/Content/BUSINESS/72"},{"navigateUrl":"/Content/OPINION/4"},{"navigateUrl":"/Content/SPORTS/8"},{"navigateUrl":"/Content/LIFESTYLE/9"},{"navigateUrl":"/Content/FAITH/42"},{"navigateUrl":"/Content/FEATURES/60"},{"navigateUrl":"/Content/NOTICES/147"}]}, null, null, $get("ctl00_body_ctl52_ctl01_rmMenu"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"body_ctl13_ucVideosDisplay_ralpVideoLibrary","styles":[],"uniqueID":"ctl00$body$ctl13$ucVideosDisplay$rapVideoLibrary"}, null, null, $get("ctl00_body_ctl13_ucVideosDisplay_rapVideoLibrary"));
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":4,"clientStateFieldID":"ctl00_body_ctl52_ctl01_tipBasketDownloadConfirmation_ClientState","formID":"form1","height":"90px","offsetX":20,"offsetY":20,"position":33,"relativeTo":2,"renderMode":1,"showCallout":false,"showEvent":16,"skin":"Default","text":"Added item to the basket.","width":"240px"}, null, null, $get("ctl00_body_ctl52_ctl01_tipBasketDownloadConfirmation"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"body_ctl13_ralpVideoLibrary","styles":[],"uniqueID":"ctl00$body$ctl13$rapVideoLibrary"}, null, null, $get("ctl00_body_ctl13_rapVideoLibrary"));
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":4,"clientStateFieldID":"ctl00_body_ctl52_ctl02_tipBasketDownloadConfirmation_ClientState","formID":"form1","height":"90px","offsetX":20,"offsetY":20,"position":33,"relativeTo":2,"renderMode":1,"showCallout":false,"showEvent":16,"skin":"Default","text":"Added item to the basket.","width":"240px"}, null, null, $get("ctl00_body_ctl52_ctl02_tipBasketDownloadConfirmation"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadCalendar, {"_DayRenderChangedDays":{},"_FormatInfoArray":[["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],["January","February","March","April","May","June","July","August","September","October","November","December",""],["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"dddd, MMMM dd, yyyy h:mm:ss tt","dddd, MMMM dd, yyyy","h:mm:ss tt","MMMM dd","ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","M/d/yyyy","h:mm tt","yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","MMMM, yyyy","AM","PM","/",":",0],"_ViewRepeatableDays":{},"_ViewsHash":{"ctl00_body_ctl43_ctl00_rcEventsCalendar_Top" : [[2013,6,1], 1]},"_calendarWeekRule":0,"_culture":"en-US","_enableKeyboardNavigation":false,"_enableViewSelector":false,"_firstDayOfWeek":7,"_postBackCall":"__doPostBack(\u0027ctl00$body$ctl43$ctl00$rcEventsCalendar\u0027,\u0027@@\u0027)","_rangeSelectionMode":0,"autoPostBack":true,"clientStateFieldID":"ctl00_body_ctl43_ctl00_rcEventsCalendar_ClientState","enabled":true,"monthYearNavigationSettings":["Today","OK","Cancel","Date is out of range.","False","True","300","1","300","1","False"],"showOtherMonthsDays":false,"skin":"Default","specialDaysArray":[],"stylesHash":{"DayStyle": ["", ""],"CalendarTableStyle": ["", "rcMainTable"],"OtherMonthDayStyle": ["", "rcOtherMonth"],"TitleStyle": ["", ""],"SelectedDayStyle": ["", "rcSelected"],"SelectorStyle": ["", ""],"DisabledDayStyle": ["", "rcDisabled"],"OutOfRangeDayStyle": ["", "rcOutOfRange"],"WeekendDayStyle": ["", "rcWeekend Day"],"DayOverStyle": ["", "rcHover"],"FastNavigationStyle": ["", "RadCalendarMonthView RadCalendarMonthView_Default"],"ViewSelectorStyle": ["", "rcViewSel"]}}, null, null, $get("ctl00_body_ctl43_ctl00_rcEventsCalendar"));
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":"rmRootGroup rmHorizontal","_enableItemImagesPreloading":true,"_skin":"Default","clientStateFieldID":"ctl00_body_ctl52_ctl03_rmMenu_ClientState","collapseAnimation":"{\"type\":0,\"duration\":450}","expandAnimation":"{\"type\":0,\"duration\":450}","itemData":[]}, null, null, $get("ctl00_body_ctl52_ctl03_rmMenu"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"","styles":[],"uniqueID":"ctl00$body$ctl43$ctl00$rapEventsCalendar"}, null, null, $get("ctl00_body_ctl43_ctl00_rapEventsCalendar"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_enableItemImagesPreloading":true,"_skin":"2rm","clientStateFieldID":"ctl00_body_ctl49_ctl01_rmMenu_ClientState","collapseAnimation":"{\"type\":0,\"duration\":450}","defaultGroupSettings":"{\"flow\":0}","expandAnimation":"{\"type\":0,\"duration\":450}","itemData":[{"navigateUrl":"/Content/NEWS/24"},{"navigateUrl":"/Content/BUSINESS/72"},{"navigateUrl":"/Content/OPINION/4"},{"navigateUrl":"/Content/SPORTS/8"},{"navigateUrl":"/Content/LIFESTYLE/9"},{"navigateUrl":"/Content/FAITH/42"},{"navigateUrl":"/Content/FEATURES/60"},{"navigateUrl":"/Content/NOTICES/147"}]}, null, null, $get("ctl00_body_ctl49_ctl01_rmMenu"));
+    $create(Telerik.Web.UI.RadToolTip, {"_cssClass":"","_manualCloseButtonText":"Close","animation":4,"clientStateFieldID":"ctl00_body_ctl52_ctl03_tipBasketDownloadConfirmation_ClientState","formID":"form1","height":"90px","offsetX":20,"offsetY":20,"position":33,"relativeTo":2,"renderMode":1,"showCallout":false,"showEvent":16,"skin":"Default","text":"Added item to the basket.","width":"240px"}, null, null, $get("ctl00_body_ctl52_ctl03_tipBasketDownloadConfirmation"));
 });
 Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadWindow, {"_dockMode":false,"behaviors":36,"clientStateFieldID":"ctl00_rwReport_ClientState","enableShadow":true,"formID":"form1","height":"480px","iconUrl":"","keepInScreenBounds":true,"minHeight":"480px","minWidth":"370px","minimizeIconUrl":"","modal":true,"name":"rwReport","showContentDuringLoad":false,"skin":"Default","visibleStatusbar":false,"width":"370px"}, null, null, $get("ctl00_rwReport"));
