@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctuit.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501061215id_/http%3A//www.ctuit.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctuit.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221055819id_/http%3A//www.ctuit.com/us/privacy.aspx) for the most accurate reproduction.*
 
 # Ctuit Software: HOME - RADAR is Insight and Control for Restaurants
 
@@ -44,4 +44,4 @@ Ctuit Software will occasionally update this Statement of Privacy to reflect com
 
 Contact Information
 
-Ctuit Software welcomes your comments regarding this Statement of Privacy. If you believe that Ctuit Software has not adhered to this Statement, please contact Ctuit Software at [informational-noreply@ctuit.com](mailto:informational-noreply@ctuit.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Ctuit Software welcomes your comments regarding this Statement of Privacy. If you believe that Ctuit Software has not adhered to this Statement, please contact Ctuit Software at [privacy@ctuit.com](mailto:privacy@ctuit.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
