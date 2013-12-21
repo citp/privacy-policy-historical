@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecochunk.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622062628id_/http%3A//www.ecochunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecochunk.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221153629id_/http%3A//www.ecochunk.com/privacy-policy) for the most accurate reproduction.*
 
 # EcoChunk Privacy Policy | Eco Chunk
 
@@ -37,3 +37,5 @@ For any other information email [webmaster](mailto:thechunkmedia@gmail.com)
 **Contacting Us**
 
 If you have any questions regarding this Policy, please contact us either by e-mail at thechunkmedia[at]gmail.com, or by regular mail at 34, Gopi Cottage, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.
+
+### Share and Enjoy
