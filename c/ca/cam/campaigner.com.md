@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606021355id_/http%3A//www.protus.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221064247id_/http%3A//www.protus.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Protus | Privacy
 
