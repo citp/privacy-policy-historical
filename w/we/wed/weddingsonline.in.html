@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the weddingsonline.in privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621203547id_/http%3A//weddingsonline.in/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weddingsonline.in privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221185937id_/http%3A//www.weddingsonline.in/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy</title>
-	<meta name="Description" content="">
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+			<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 	<link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen,projection">
 	<link rel="stylesheet" href="/css/960.css" type="text/css" media="screen,projection">
+	<link rel="stylesheet" href="/css/960-responsive.css" type="text/css" media="screen,projection">
 	<link rel="stylesheet" href="/css/fonts.css" type="text/css" media="screen,projection">
 	<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen,projection">
-	<link rel="stylesheet" href="/includes/plupload/js/jquery.plupload.queue/css/jquery.plupload.queue.custom.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/css/wol-responsive.css" type="text/css" media="screen,projection">	<link rel="stylesheet" href="/includes/plupload/js/jquery.plupload.queue/css/jquery.plupload.queue.custom.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/includes/jqdialog.css" type="text/css">
 	<link rel="stylesheet" href="/includes/redactor/redactor.css" type="text/css">
 	<link rel="stylesheet" href="/css/smoothness/jquery-ui-1.8.16.custom.css" type="text/css">
@@ -24,6 +24,8 @@
 	<script type="text/javascript" src="/includes/jquery.placeholder-enhanced.min.js"></script>
 	<script type="text/javascript" src="/includes/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="/includes/additional-methods.min.js"></script>
+	<script type="text/javascript" src="/includes/jquery.tiptip.minified.js"></script>
+	<script type="text/javascript" src="/includes/jquery.touchwipe.min.js"></script>
 	
 	
 	<script type="text/javascript">
@@ -47,6 +49,7 @@
 		googletag.defineSlot('/11431985/INDIA-300X250-MPU', [300, 250], 'div-gpt-ad-1354007167070-1').addService(googletag.pubads());
 		googletag.defineSlot('/11431985/INDIA-728X80-SITEWIDE', [728, 90], 'div-gpt-ad-1354007167070-2').addService(googletag.pubads());
 		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs(true);
 		googletag.enableServices();
 		});
 	</script>
@@ -59,15 +62,18 @@
 			<div class="fullwidth">
 				<div class="social">
 					<a target="_blank" class="socialicon facebook" href="http://www.facebook.com/WeddingsOnlineIndia">Facebook</a><a target="_blank" class="socialicon twitter" href="https://twitter.com/weddingsonlinei">Twitter</a>
-					<!--<a target="_blank" class="socialicon googleplus" href="">Google Plus</a>--><a target="_blank" class="socialicon pinterest" href="http://pinterest.com/WeddingsOnlinei/">Pinterest</a>
+					<a target="_blank" class="socialicon googleplus" href="https://plus.google.com/111329387698820615984/#111329387698820615984/posts">Google Plus</a><a target="_blank" class="socialicon pinterest" href="http://pinterest.com/WeddingsOnlinei/">Pinterest</a>
 				</div>
 				<div class="toplinks">
+					<a class="homelink" href="/"><img src="/img/home_mini.png"></a>
 					<a class="" href="/content/about">about</a> |
 					<a class="" href="/content/contact">contact</a> |
-					<a class="" href="/content/advertise">advertise</a>
+					<a class="" href="/content/advertise">advertise</a> |
+					<a class="" href="/content/submit-a-wedding">submit a wedding</a> |
+					<a target="_blank" href="http://www.weddingsonline.ie">Ireland Site</a>
 				</div>
 				<div class="toplogin">
-											<a class="" href="/my-hub/">login</a> | <a class="button pink " href="/my-hub/register">join free</a>
+											<a class="" href="/my-hub/login?redirect=/content/privacy">login</a> | <a class="button pink " href="/my-hub/register?redirect=/content/privacy">join free</a>
 									</div>
 				<form class="topsearch" action="/search" method="get">
 					<input type="text" class="textinput" name="searchtext"><input type="submit" class="searchsubmit">
@@ -79,6 +85,7 @@
 		<div id="maincontent" class="fullwidth">
 			<div id="header" class="clearfix">
 				<div class="logo"><a href="/"><img src="/img/wol-logo.png" alt="WeddingsOnline"></a></div>
+				<div id="nav-icon"><span>Menu</span></div>
 				<div class="topbannerad">
 					<!-- INDIA-728X80-SITEWIDE -->
 					<div id="div-gpt-ad-1354007167070-2" style="width:728px; height:90px;">
@@ -89,7 +96,38 @@
 
 				</div>
 			</div>
-			<ul id="topnav"><li class=" mywedding"><a href="/my-hub/">mywedding</a></li><li class=""><a href="/forums">forums</a></li><li class=""><a href="/venues">venues</a></li><li class=""><a href="/suppliers">suppliers</a></li><li class=""><a href="/events">events</a></li><li class=""><!--<a href="/">wedding shop</a></li>--></li><li class=""><a href="/blog">blog</a></li></ul>
+			<ul id="topnav">
+				<li class=" mywedding"><a href="/my-hub/">mywedding</a></li>
+				<li class="toplevel ">
+					<a href="/forums">forums</a>
+					<ul>
+						<li class="first "><a href="/forums/viewforum.php?f=1">general discussions</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=3">fashion and beauty</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=6">diaspora weddings</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=7">weddings abroad</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=8">the honeymoon</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=9">your wedding reception</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=10">decor</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=11">entertainment</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=14">food and drink</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=12">wedding attire</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=13">jewellery</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=15">your new home</a></li>
+						<li class=""><a href="/forums/viewforum.php?f=16">baby planning</a></li>
+						<li class="last "><a href="/forums/viewforum.php?f=17">wedding suppliers &amp; venues</a></li>
+					</ul>
+				</li>
+				<li class=""><a href="/venues">venues</a></li><li class=""><a href="/suppliers">suppliers</a></li><li class=""><a href="/events">events</a></li><!--<li class=""><a href="/">wedding shop</a></li>-->
+				<li class="toplevel right last ">
+					<a class="toplevel" href="/blog">blog</a>
+					<ul>
+						<li class="first "><a href="/blog">blog home</a></li>
+						<li class=""><a href="/blog/category/real-weddings/">real weddings</a></li>
+						<li class=""><a href="/blog/category/real-engagements/">real engagements</a></li>
+						<li class="last"><a href="/blog/category/european/">weddings abroad</a></li>
+					</ul>
+				</li>
+			</ul>
 			<div id="contentinner" class="container_12 clearfix">
 
 <div id="breadcrumbs"><a href="/">Home</a> &gt; <span class="currentpage">Privacy Policy</span></div>
@@ -238,34 +276,41 @@ provide the requested information.</p><b></b><p></p>
 		</div>
 	</div>
 	<div class="right">
-					<div class="ad"><a href="/outgoing/ad/35" target="_blank"><img src="/ads/120x60/35_20130221112724469.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/7" target="_blank"><img src="/ads/120x60/7_20121213074817530.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/43" target="_blank"><img src="/ads/120x60/43_20130501100748808.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/45" target="_blank"><img src="/ads/120x60/45_20130513092037296.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/39" target="_blank"><img src="/ads/120x60/39_2013031813221745.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/31" target="_blank"><img src="/ads/120x60/31_20130221111640863.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/57" target="_blank"><img src="/ads/120x60/57_20130620051702263.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/29" target="_blank"><img src="/ads/120x60/29_2013022111111242.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/32" target="_blank"><img src="/ads/120x60/32_20130221111854516.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/37" target="_blank"><img src="/ads/120x60/37_20130313054827286.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/28" target="_blank"><img src="/ads/120x60/28_201302211108297.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/12" target="_blank"><img src="/ads/120x60/12_20130110162612855.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/17" target="_blank"><img src="/ads/120x60/17_20130211104649430.gif" alt=""></a></div>
 					<div class="ad"><a href="/outgoing/ad/54" target="_blank"><img src="/ads/120x60/54_20130617063626729.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/46" target="_blank"><img src="/ads/120x60/46_20130530091701830.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/61" target="_blank"><img src="/ads/120x60/61_20130620061257279.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/13" target="_blank"><img src="/ads/120x60/13_2013011016281059.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/6" target="_blank"><img src="/ads/120x60/6_20121213121119761.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/56" target="_blank"><img src="/ads/120x60/56_20130619073532230.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/41" target="_blank"><img src="/ads/120x60/41_20130409141342274.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/51" target="_blank"><img src="/ads/120x60/51_20130614082848648.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/1" target="_blank"><img src="/ads/120x60/1_20121213121142923.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/27" target="_blank"><img src="/ads/120x60/27_2013022111062043.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/59" target="_blank"><img src="/ads/120x60/59_20130620054456885.png" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/48" target="_blank"><img src="/ads/120x60/48_20130606063759350.jpg" alt=""></a></div>
 					<div class="ad"><a href="/outgoing/ad/30" target="_blank"><img src="/ads/120x60/30_20130221111304435.jpg" alt=""></a></div>
 					<div class="ad"><a href="/outgoing/ad/33" target="_blank"><img src="/ads/120x60/33_20130221112210970.jpg" alt=""></a></div>
-					<div class="ad"><a href="/outgoing/ad/5" target="_blank"><img src="/ads/120x60/5_20121213121045286.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/75" target="_blank"><img src="/ads/120x60/75_20131004111944990.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/81" target="_blank"><img src="/ads/120x60/" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/67" target="_blank"><img src="/ads/120x60/67_20130722055219992.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/63" target="_blank"><img src="/ads/120x60/63_20130711054419507.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/37" target="_blank"><img src="/ads/120x60/37_20130313054827286.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/51" target="_blank"><img src="/ads/120x60/51_20130614082848648.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/87" target="_blank"><img src="/ads/120x60/87_20131218131844733.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/29" target="_blank"><img src="/ads/120x60/29_2013022111111242.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/56" target="_blank"><img src="/ads/120x60/56_20130619073532230.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/46" target="_blank"><img src="/ads/120x60/46_20130530091701830.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/7" target="_blank"><img src="/ads/120x60/7_20121213074817530.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/85" target="_blank"><img src="/ads/120x60/85_20131112064350797.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/43" target="_blank"><img src="/ads/120x60/43_20130501100748808.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/32" target="_blank"><img src="/ads/120x60/32_20130221111854516.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/57" target="_blank"><img src="/ads/120x60/57_201310280822460.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/72" target="_blank"><img src="/ads/120x60/72_20130729170826119.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/68" target="_blank"><img src="/ads/120x60/68_20130725074226275.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/71" target="_blank"><img src="/ads/120x60/71_20130725045845517.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/80" target="_blank"><img src="/ads/120x60/80_20131115172444213.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/59" target="_blank"><img src="/ads/120x60/59_20130620054456885.png" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/48" target="_blank"><img src="/ads/120x60/48_20130606063759350.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/65" target="_blank"><img src="/ads/120x60/65_20130722041126358.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/41" target="_blank"><img src="/ads/120x60/41_20130409141342274.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/82" target="_blank"><img src="/ads/120x60/82_20131029113612276.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/17" target="_blank"><img src="/ads/120x60/17_20130211104649430.gif" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/35" target="_blank"><img src="/ads/120x60/35_20130221112724469.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/84" target="_blank"><img src="/ads/120x60/84_20131108092136734.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/78" target="_blank"><img src="/ads/120x60/78_20131015043033618.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/39" target="_blank"><img src="/ads/120x60/39_2013031813221745.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/61" target="_blank"><img src="/ads/120x60/61_20130620061257279.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/13" target="_blank"><img src="/ads/120x60/13_2013011016281059.jpg" alt=""></a></div>
+					<div class="ad"><a href="/outgoing/ad/12" target="_blank"><img src="/ads/120x60/12_20130110162612855.jpg" alt=""></a></div>
 			</div>
 </div>
 		
@@ -273,18 +318,28 @@ provide the requested information.</p><b></b><p></p>
 		</div>
 		
 		<div id="footer">
-			<div class="container_12 clearfix">
-				<div class="grid_2">
-					<h2><a href="/">mywedding</a></h2>
+			<div class="container_12 fullwidth clearfix">
+				<div class="grid_3 mainlinks">
+					<a class="homelink" href="/"><img src="/img/home_mini.png"></a><br>
+					<a class="" href="/content/about">about</a><br>
+					<a class="" href="/content/contact">contact</a><br>
+					<a class="" href="/content/advertise">advertise</a><br>
+					<a class="" href="/content/submit-a-wedding">submit a wedding</a><br>
+					<a target="_blank" href="http://www.weddingsonline.ie">Ireland Site</a>
+					<div class="social">
+						<a target="_blank" class="socialicon facebook" href="http://www.facebook.com/WeddingsOnlineIndia">Facebook</a><a target="_blank" class="socialicon twitter" href="https://twitter.com/weddingsonlinei">Twitter</a>
+						<a target="_blank" class="socialicon googleplus" href="https://plus.google.com/111329387698820615984/#111329387698820615984/posts">Google Plus</a><a target="_blank" class="socialicon pinterest" href="http://pinterest.com/WeddingsOnlinei/">Pinterest</a>
+						<iframe border="0" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FWeddingsOnlineIndia&amp;width=100&amp;height=21&amp;colorscheme=light&amp;layout=box_count&amp;action=like&amp;show_faces=false&amp;send=false"></iframe>					</div>
+					
 				</div>
 				<div class="grid_2">
 					<h2><a href="/forums">Forums</a></h2>
-											<a href="/forums/viewforum.php?f=1">General Wedding Discussions</a><br>
+											<a href="/forums/viewforum.php?f=1">General Discussions</a><br>
 											<a href="/forums/viewforum.php?f=3">Fashion and Beauty</a><br>
 											<a href="/forums/viewforum.php?f=6">Diaspora Weddings</a><br>
 											<a href="/forums/viewforum.php?f=7">Weddings Abroad</a><br>
 											<a href="/forums/viewforum.php?f=8">The Honeymoon</a><br>
-											<a href="/forums/viewforum.php?f=9">Your Wedding Reception</a><br>
+											<a href="/forums/viewforum.php?f=9">Your Reception</a><br>
 											<a href="/forums/viewforum.php?f=10">Decor</a><br>
 											<a href="/forums/viewforum.php?f=11">Entertainment</a><br>
 											<a href="/forums/viewforum.php?f=14">Food and Drink</a><br>
@@ -301,19 +356,18 @@ provide the requested information.</p><b></b><p></p>
 									</div>
 				<div class="grid_2">
 					<h2><a href="/suppliers">Suppliers</a></h2>
-											<a href="/suppliers/beauty-parlours">Beauty Parlours</a><br>
-											<a href="/suppliers/boutiques">Boutiques</a><br>
+											<a href="/suppliers/beauty">Beauty</a><br>
+											<a href="/suppliers/bridal-accessories">Bridal Accessories</a><br>
+											<a href="/suppliers/bridal-attire">Bridal Attire</a><br>
 											<a href="/suppliers/cake-shops">Cake Shops</a><br>
-											<a href="/suppliers/car-hire">Car Hire</a><br>
 											<a href="/suppliers/caterers">Caterers</a><br>
-											<a href="/suppliers/decorators">Decorators</a><br>
-											<a href="/suppliers/footwear">Footwear</a><br>
 											<a href="/suppliers/gifts-greetings">Gifts &amp; Greetings</a><br>
 											<a href="/suppliers/invitation-cards">Invitation Cards</a><br>
 											<a href="/suppliers/jewellers">Jewellers</a><br>
 											<a href="/suppliers/photographers">Photographers</a><br>
-											<a href="/suppliers/sarees">Sarees</a><br>
-											<a href="/suppliers/sweet-shops">Sweet Shops</a><br>
+											<a href="/suppliers/transport">Transport</a><br>
+											<a href="/suppliers/travel-agencies">Travel Agencies</a><br>
+											<a href="/suppliers/wedding-planner">Wedding Planner</a><br>
 									</div>
 				<div class="grid_2">
 					<h2><a href="/blog">Blog</a></h2>
@@ -340,18 +394,26 @@ provide the requested information.</p><b></b><p></p>
 											<a href="/blog/category/accessories">Accessories</a><br>
 											<a href="/blog/category/articles">Articles</a><br>
 											<a href="/blog/category/blog">Blog</a><br>
+											<a href="/blog/category/real-engagements">Real Engagements</a><br>
+											<a href="/blog/category/relationships">Relationships</a><br>
+											<a href="/blog/category/fashion-2">Fashion</a><br>
+											<a href="/blog/category/wedding-photographer-of-the-month">Photographer of The Month</a><br>
+											<a href="/blog/category/bridal-trousseau-must-haves">Bridal Trousseau Must Haves</a><br>
+											<a href="/blog/category/videography">Videography</a><br>
+											<a href="/blog/category/celebrity-2">Celebrity Weddings</a><br>
 									</div>
-				<div class="grid_2">
+				<!--<div class="grid_2">
 					<h2><a href="/events">Events</a></h2>
-				</div>
+				</div>-->
 			</div>
 		</div>
 		<div id="bottombar">
 			<div class="container_12 clearfix">
-				<div class="grid_6">2013 weddingsonline.in</div>
-				<div class="grid_6 privacy"><a href="/content/about">about</a> | <a href="/content/contact">contact</a> | <a href="/content/advertise">advertise</a> | <a href="/content/privacy">privacy</a> | <a href="/content/terms">terms &amp; conditions</a></div>
+				<div class="grid_6 copyright">2013 weddingsonline.in</div>
+				<div class="grid_6 privacy"><a href="/content/about">about</a> | <a href="/content/contact">contact</a> | <a href="/content/advertise">advertise</a> | <a href="/content/privacy">privacy</a> | <a href="/content/terms">terms &amp; conditions</a> | <a target="_blank" href="http://www.weddingsonline.ie">weddingsonline.ie</a></div>
 			</div>
 		</div>
+		<div id="fullsitelink"><a class="button mini" href="/content/privacy?nomobile=1">Full site</a></div>
 	</div>
 	<div class="boxes" id="boxes_edit">
 		<div class="window" id="modalwindow">
@@ -362,16 +424,20 @@ provide the requested information.</p><b></b><p></p>
 	</div>
 	<script type="text/javascript">
 		
-			$(".chosenselect").chosen();
+			//$(".chosenselect").chosen();
 			$(document).ready(function(){
 				$('input[placeholder], textarea[placeholder]').placeholderEnhanced();
+				$(".showtiptip").tipTip({defaultPosition:'top',fadeIn:50,delay:50,attribute: 'alt'});
+				$(".chosenselect").each(function(){
+					$(this).wrap('<span class="selectbox"></span>');
+				});
 			});
 			
 			var _gaq = _gaq || [];
 			var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
 			_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 			_gaq.push(['_setAccount', 'UA-35885624-1']);
-			_gaq.push(['_trackPageview']);
+						_gaq.push(['_trackPageview']);
 
 			(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -382,4 +448,4 @@ provide the requested information.</p><b></b><p></p>
 		
 	</script>
 
-</body></html>
+<div id="tiptip_holder" style="max-width:200px;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div></body></html>
