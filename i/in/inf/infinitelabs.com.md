@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infinitelabs.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616223821id_/http%3A//www.infinitelabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitelabs.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221123600id_/http%3A//infinitelabs.com/privacy.php) for the most accurate reproduction.*
 
-# Infinite Labs - Bodybuilding Supplements, Nutrition Products |
+# privacy
 
 **INFINITE LABS® Respects Your Privacy**   
 INFINITE LABS, LLC and its subsidiaries (collectively referred to as “INFINITE LABS®,” “we,” “us,” “our” or “ours”) respect your privacy. This Online Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every page of our Website (collectively, the "Site" or "Sites"). Please refer back to this policy regularly. If you have any questions or concerns about our Online Privacy Statement, please call us at 1.877.485.2271 or contact us at: 7208 W. Sand Lake Rd., Orlando, FL 32819, USA.
