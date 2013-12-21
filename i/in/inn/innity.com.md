@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the innity.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621081614id_/http%3A//www.innity.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innity.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221121112id_/http%3A//www.innity.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Innity - Privacy & Policy
-
-RIGHT AUDIENCE. REAL ENGAGEMENT.
 
 This privacy policy applies to all of the products and services offered by INNITY or its subsidiaries or affiliated companies.
 
@@ -24,7 +22,7 @@ We collect only anonymous, non-Personally Identifiable Information, such as brow
 
 The non-Personally Identifiable Information that we collect via cookies is used for the purpose of targeting ads and measuring the effectiveness of ads on behalf of Innity's advertisers and to identify the audience most likely to respond to an advertisement. This information also helps Innity ensure that you don't repeatedly see the same ad. We may also use non-PII data from third parties.
 
-#### What Technology Do We Use to Collect Information? 
+#### What Technology Do We Use to Collect Information?
 
 We use two technologies to collect information, both of which are widely used on the Internet: 
 
