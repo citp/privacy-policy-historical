@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandmafriends.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105718id_/http%3A//www.grandmafriends.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmafriends.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221144543id_/http%3A//www.grandmafriends.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
