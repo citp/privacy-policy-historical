@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernmarketingpartners.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416015023id_/http%3A//www.modernmarketingpartners.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernmarketingpartners.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221013109id_/http%3A//www.modernmarketingpartners.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Marketing Partners
 
@@ -6,7 +6,7 @@
 
 Modern Marketing Partners has created this Privacy Policy in order to demonstrate our firm commitment to protecting your personal information. The following discloses our information gathering and dissemination practices relating to the following websites and blogs:
 
-[www.ModernMarketingPartners.com](https://web.archive.org/web/20130416015023id_/http%3A//www.modernmarketingpartners.com/)  
+[www.ModernMarketingPartners.com](https://web.archive.org/web/20131221013109id_/http%3A//www.modernmarketingpartners.com/)  
 [www.ModernMarketingUniversity.com](http://www.modernmarketinguniversity.com/)  
 [www.IDeasBIG.com](http://www.ideasbig.com/)  
 [www.HotPotatoSocialMedia.com](http://www.hotpotatosocialmedia.com/)
@@ -25,7 +25,7 @@ You can browse our Websites without providing any personal or individually ident
 There are times when you may choose to give us personally identifiable information about you. For example, you may wish to register to receive e-mails from us, receive invitations, attend events, preview new content, or to purchase goods and services available through the sites. We need certain information from you to register you, authenticate you, and process your entries and payments, where necessary.  
 
 
-SITE VISTORSHIP DATA
+SITE VISITORSHIP DATA
 
   
 Site Visitorship Data is information about the way a website is used that is not associated with an individual’s identity. We use aggregate anonymous data regarding online behavior to better understand how people use our Websites. To that end, we may use aggregated, anonymous online traffic behavior along with information from third parties to track usage trends and thereby improve our Websites. We may also use this aggregated, anonymous information to develop reports that we may share with third party marketing partners and customers. The kind of information we may collect includes: your Internet Protocol (IP) address; the pages visited on our sites; the links clicked on our site; any products or services you review; the features used; how long a visitor stays; and the domain name of the sites from which visitors connect to our sites and the sites to which visitors connect through our service.
