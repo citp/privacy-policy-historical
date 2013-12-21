@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xertivemedia.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511165720id_/http%3A//xertivemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xertivemedia.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221161930id_/http%3A//xertivemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Xertive Media - Privacy Policy
 
@@ -28,4 +28,4 @@ In light of the concern over protecting children's privacy online, Xertive Media
 
 ## How to Contact Us
 
-Should there be any questions or suggestions regarding the privacy policy, the support desk can be contacted [here](http://www.xertivemedia.com/contact-us/).
+Should there be any questions or suggestions regarding the privacy policy, the support desk can be contacted [here](http://xertivemedia.com/contact-us/).
