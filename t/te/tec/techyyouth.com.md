@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techyyouth.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612203826id_/http%3A//techyyouth.com/79-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyyouth.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221145857id_/http%3A//techyyouth.com/79-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TechyYouth
+# Privacy Policy | TechyYouth
 
 This Privacy Policy governs the manner in which Techyyouth collects, uses, maintains and discloses information collected from users  of the www.techyyouth.com website  . This privacy policy applies to the Site and all products and services offered by Techyyouth.
 
@@ -55,7 +55,3 @@ or feel free to mail us at
 **[prabhdeep17@gmail.com](http://facebook.com/techhyouth)**
 
 This document was last updated on May 31, 2012
-
-### Comments
-
-comments
