@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ussoccer.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622053730id_/http%3A//ussoccer.com/About/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccer.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221114213id_/http%3A//www.ussoccer.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - U.S. Soccer
 
