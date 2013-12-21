@@ -1,100 +1,94 @@
-> *The following text is extracted and transformed from the heliumnetwork.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heliumnetwork.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221031933id_/http%3A//www.heliumnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Editorial Opportunities, Online Publisher: Privacy Policy | Helium Network
 
-**Go Daddy Respects Your Privacy**
+## Helium is Committed to Your Right to Privacy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Helium, Inc., a subsidiary of RR Donnelley & Sons Company (“Helium,” “we”, “our”) is committed to protecting your privacy. By using this website (“Site”) and by supplying your details to Helium, you consent to Helium collecting and processing your information.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Our privacy policy explains:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  * What information we collect, and why we collect it
+  * How we use that information
+  * How we protect that information
+  * How you can control your information, including accessing, updating and deleting what we store
+  * How we share information collected
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Information We Collect & Share**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Helium collects and records basic personal information (e.g., name, e-mail address, mailing address, phone number) which you voluntarily provide through forms on our Site, through electronic mail you send to us, or through other means of communication between you and Helium. Once you register with Helium and sign into our services, you are not anonymous to us. Helium only collects personal information of a more sensitive nature (e.g. social security or tax ID number) where it is appropriate or necessary for conducting business. This information will be collected, stored, accessed and processed in a secure manner. Helium automatically receives and records information on our server logs from your browser, including your IP address, Helium cookie information (if any), and the page you request.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**How We Use Information**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Helium uses information for the following general purposes: to fulfill your requests for products and services, to customize the content and advertising you see, to improve our services, to contact you, to conduct research, to process payments and to provide anonymous reporting for internal and external clients. Helium uses the information we collect to provide you with services that you request and to improve our existing services and the content of our Site. When you contact Helium, we may keep a record of your communication to help solve any issues that you are facing. Depending on the country in which you live, work or access our Site(s), your information may be retained for a reasonable time for use in future contact with you, or for future improvements to the Helium Site.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Web User Tracking – Use of Cookies**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Cookies are a technology that can be used to help personalize your use of a website. A cookie is an element of information that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or decline at any time. To enable Helium to access the effectiveness and usefulness of this Site, and to give you the best user experience, we collect and store information on pages viewed by you, your domain names and similar information. No other web sites can access cookies set by Helium, nor can the Helium Sites access cookies set by other websites.  Our Site makes use of anonymous cookies for the purposes of:
+
+  * Completion and support of Site activity;
+  * Site and system administration;
+  * Research and development;
+  * Anonymous user analysis, user profiling, and decision-making.
+
+
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
 
-**Updating Your Information**
+Helium limits access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic and procedural safeguards that comply with federal regulations to protect personal information about you. Your Helium Account Information is password-protected. In certain areas, Helium uses industry-standard SSL encryption to protect data transmissions.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Data you provide to us will be stored on our servers located in the United States. By providing us with your information, you understand and consent to the international transfer of your data to the United States.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+No method of transmission over the Internet, or method of electronic storage, can be 100% secure. Therefore, Helium cannot guarantee the absolute security of your information. The Internet by its nature is a public forum, and Helium encourages you to use caution when disclosing information online. Often, you are in the best situation to protect yourself online. You are responsible for protecting your username and password from third party access, and for selecting passwords that are secure.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Monitoring and Enforcement**
 
-      iii.      You may call us at: (480) 505-8800
+Helium regularly reviews our compliance with our privacy policy. We also adhere to several self-regulatory frameworks in addition to complying with applicable law. If we receive formal written complaints, we will follow up with the person making the complaint. We work with the appropriate regulatory authorities to resolve any complaints that cannot be resolved directly.
 
-       iv.      You may fax us at: (480) 505-8844
+**Compliance**
 
-**Sending Emails**
+Helium adheres to applicable US federal and state personal information privacy laws and international regulations such as PIPEDA, the European Union (“EU”) Data Protection (95/46/EC) and ePrivacy (2002/58/ED) Directives (as transposed into national law), and the EU Safe Harbor Privacy Principles published by the US Department of Commerce (“Safe Harbor”), detailed below.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**PIPEDA (Canada)**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Helium recognizes and has controls in place to ensure that the privacy of personal information about an “identifiable individual” used in the course of “commercial activity” is protected and managed in such a manner which meets or exceeds the guidelines set out in PIPEDA and applicable provincial legislation.
 
-**Compliance with Laws and Law Enforcement**
+**Safe Harbor (European Union)**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Through your use of this system, you acknowledge that you are transmitting your information to systems housed in the United States.
 
-**Third Party Service Providers**
+As a subsidiary of RR Donnelley, Helium recognizes that the EU has an “omnibus” information protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the “Directive”).  RR Donnelley has signed up to the US Department of Commerce’s Safe Harbor program and gives “adequate protection” for personal information of EU citizens processed and stored in the United States.   RR Donnelley takes appropriate technical and organizational measures to safeguard EU Personal Information against unauthorized or unlawful processing of, or accidental loss, damage, misuse, unauthorized access, unauthorized disclosure, unauthorized alteration, or destruction, and maintains reasonable procedures to help ensure that such information is relevant for its intended use, accurate, complete, current and not excessive and that such information is not retained longer than is reasonably necessary.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+RR Donnelley may disclose EU Personal Information as necessary in connection with the sale or transfer of all or part of its business, where required or permitted by law, where RR Donnelley believes that such disclosures are appropriate in connection with a law enforcement request or as otherwise permitted by Safe Harbor, or in order to investigate, prevent or take action regarding illegal activities or suspected fraud or in order to comply with, enforce or apply RR Donnelley agreements.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+For more information about the Safe Harbor program and RR Donnelley’s certification, please refer to the U.S. Department of Commerce website at [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-**Supplementation of Information**
+**Links and Third-Party Ads**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We may post links to other web sites as a service to you. These sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties.
 
-**Contests/Surveys**
+We use third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this Site, other Sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+The advertising we display may be targeted to users of particular services and content. So if you view or click on a targeted ad, the advertiser (or other companies affiliated with the advertiser) may assume that you meet the targeting criteria (e.g., men aged 30-40).
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**Children’s Online Privacy Protection – COPPA**
 
-**Tell-A-Friend**
+Helium is designed for adult user interaction. We do not intentionally collect personally identifiable information from children under the age of 13, nor do we allow children under age 13 to register for an account. If you are a parent and suspect that your child has provided Helium with any information, please contact us by email at help@helium.com.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**Accessing and Updating Your Personal Information**
 
-**What Happens to my Personal Information if I Opt Out?**
+If you have provided Helium with your personal information, you may have the right to inspect the information stored by us for accuracy. You can edit your Helium Account Information at any time by logging into the Site and entering the My Helium area. You may opt out of receiving Helium emails by clicking on the “Unsubscribe” link. Please note that even if you do opt out of receiving marketing materials, we reserve the right, and will continue to send you certain infrequent communications relating to the Helium service and/or your Account, such as service announcements and administrative messages, that are considered part of your Helium Account, without offering you the opportunity to opt out of receiving them.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**Changes to this Privacy Policy**
 
-**Transfer of Data Abroad**
+Helium may change this privacy policy from time to time. If this privacy policy changes, the revised privacy policy will be posted at the “Privacy Policy” link on the Site’s home page. In the event that the change is significant or material, we will notify you of such a change by posting a notice on the Helium Network dashboard and on the Helium Network homepage. Please check the privacy policy frequently. Your continued use of the Site constitutes acceptance of such changes in the privacy policy, except where further steps are required by applicable law.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**Contacting Helium**
 
-**Changes in Our Practices**
+Questions or comments regarding this privacy policy should be emailed to [help@heliumnetwork.com](mailto:help@heliumnetwork.com)
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This privacy policy was last updated October 3, 2013.
