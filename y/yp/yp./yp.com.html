@@ -1,752 +1,2309 @@
-<!--The following is the downloaded HTML source of the yp.com privacy policy that was archived on 2008-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080907191159id_/http%3A//www.yp.com/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yp.com privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221072311id_/http%3A//corporate.yp.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
-    <title>
-      livedeal.com &gt;&gt; About &gt;&gt; Privacy Policy
-    </title>
-    
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+  <meta charset="utf-8">
 
+  <title>YP Privacy Policy - YP</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
 
-
-
-
-
-<script language="JavaScript" src="/assets/js/browser_detect.js"></script>
-<script language="JavaScript" src="/assets/js/css.js"></script>
-
-
-
-
-
-
-
-
-
-<script language="JavaScript">
-// global.js.jsp
-// include if you use global.js, these variables must be defined for global.js
-
-// set currency and format information
-   var decimalSeparator = ".";
-   var currencySymbol = "$";
-   var currencySymbolFirst = true;
-   
-// set variables with localized strings
-//var show_fraud_spam = 'Show Fraud/Spam';
-var the_field_cannot_be = 'This field can not be empty';
-var please_enter_zip = 'Please enter your 5 digit zip code.';
-var please_enter_keyword = 'Please enter keyword';
-var invalid_zip_code = 'Invalid characters in your zip code. Please try again.';
-var please_enter_zip_6_digit = 'Please enter your 6 or 7 digit postal code.';
-var invalid_postal_code = 'Invalid characters in your postal code. Please try again.';
-var you_must_accept_the_ag = 'You must accept the Agreement to LiveDeal Automotive Preferred Placement Program';
-var invalid_character_in_price = 'Invalid characters in Price Field. Please try again.';
-var simply_select = 'Simply select the radio button above the star rating. Then, click Rate This Item.';
-var street_address_cannot = 'Street Address can not be empty and it must be valid';
-var enter_only_number_for_width = 'Enter only number for Width.  Please try again.';
-var area_code_cannot = 'Area Code can not be empty and must be 3 digits';
-var enter_only_number = 'Enter only number. Please try again.';
-var prefix_number = 'Prefix Number can not be empty and must be 3 digits';
-var phone_number_can = 'Phone Number can not be empty and must be 4 digits';
-var please_enter_selected = 'Please enter selected categories ids.';
-var enter_only_number_or = 'Enter only number or comma for Category. Please try again.';
-var title_cannot_have = 'Title can not have a \' in it';
-var message_can_not = 'Message can not be empty.';
-var characters_ = 'characters';
-var telephone_number_cannot = 'Telephone # can not be empty';
-var the_first_name_you = 'The first name that you have entered does not appear to be a valid name';
-var please_enter_the_number = 'Please enter the # of displaying item';
-var the_number_of_displaying = 'The # of displaying item should be number only. Please try again';
-var the_max_number_of_displaying = 'The maxium # of displaying item is 50';
-var please_enter_no_more = 'Please enter no more than 7 digit affiliate ID and no space';
-var invalid_character_in = 'Invalid characters in your affiliate ID. Please try again.';
-var email_cannot_be_empty = 'Email can not be empty';
-var your_email_cannot_have_a_space = 'Your email can not have a space in it';
-var recipient_email_must_ahave_after = 'Recipient email must have a domain name after the \'@\'';
-var recipient_email_must_have_before = 'Recipient email must have a name before the \'@\'';
-var recipient_email_must_have = 'Recipient email must have a domain extension name after the \'.\'';
-var recipient_email_has_invalid = 'Recipient email has invalid domain name';
-var you_must_have_a_dot = 'Your email must have a .';
-var you_must_have_a_at = 'Your email must have a @';
-var you_ve_exceded = 'You \'ve exceeded the message size limit. Please use less than';
-var amount_cannot_be_less_5 = 'Amount cannot be less than' + '$5.00';<!--TODO-->
-var your_email_cannot_have_comma = 'Your email can not have a , in it';
-var your_email_cannot_have_apos = 'Your email can not have a \' in it';
-var your_email_cannot_have_bslash = 'Your email can not have a \u005C in it';
-var your_email_cannot_have_hash = 'Your email can not have a # in it';
-var your_email_cannot_have_excla = 'Your email can not have a ! in it';
-var invalid_character_in_the_field = 'Invalid characters in the field. Please try again.';
-var amount_cannot_be_more_than_200 = 'Amount cannot be more than' + '$200.00';<!--TODO-->
-var amount_cannot_be_more_than_1000  = 'Amount cannot be more than' + '$1000.00';<!--TODO-->
-var the_last_name_you_have = 'The last name that you have entered does not appear to be a valid name';
-var your_email_must_have_a_at = 'Your email must have a domain name after the' + ' \'@\'';<!--TODO(need to have an argument)-->
-var your_email_must_have_a_name_at = 'Your email must have a name before the' + ' \'@\'';<!--TODO(need to have an argument)-->
-var your_email_must_have_a_domain_dot  = 'Your email must have a domain extension name after the' + ' \'.\'' ;<!--TODO(need to have an argument)-->
-var your_email_has_invalid = 'Your email has invalid domain name';
-var please_check_item = 'Please check item(s) to relist';
-var recipient_email_cannot_be = 'Recipient Email can not be empty';
-var recipient_email_must_have_at = 'Recipient email must have a' + ' \'@\'';<!--TODO(need to have an argument)-->
-var recipient_email_must_have_dot = 'Recipient email must have a';
-var recipient_email_cannot_have_apos = 'Recipient email can not have a \' int it';
-var recipient_email_cannot_have_bslash = 'Recipient email can not have a \u005C int it';
-var recipient_email_cannot_have_hash = 'Recipient email can not have a # int it';
-var recipient_email_cannot_have_excla = 'Recipient email can not have a ! int it';
-var recipient_email_cannot_have_a_space = 'Recipient email can not have a space in it';
-var topic_title_cannot_be_empty = 'Topic Title can not be empty string';
-var topic_description_cannot_be_empty = 'Topic description can not be empty string';
-var please_enter_cityState = 'Please enter City,State or Zip';
-var please_enter_userName = 'Please enter a username';
-
-</script>
-<!-- End of global.js.jsp //-->
+  <!-- CSS -->
+  <link rel="stylesheet" href="http://i2.ypcdn.com/radiant/radiant_assets_35164_jquery.fancybox-1.3.4.css">
+<style>
+/**
+ * @license
+ * MyFonts Webfont Build ID 2709839, 2013-12-17T09:20:43-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Proxima Nova A Thin by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-thin/
+ * 
+ * Webfont: Proxima Nova S Thin by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-thin/
+ * 
+ * Webfont: Proxima Nova S Extrabold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-extrabld/
+ * 
+ * Webfont: Proxima Nova A Extrabold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-extrabld/
+ * 
+ * Webfont: Proxima Nova A Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-bold/
+ * 
+ * Webfont: Proxima Nova S Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-regular/
+ * 
+ * Webfont: Proxima Nova S Semibold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-semibold/
+ * 
+ * Webfont: Proxima Nova S Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-bold/
+ * 
+ * Webfont: Proxima Nova A Light by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-light/
+ * 
+ * Webfont: Proxima Nova A Semibold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-semibold/
+ * 
+ * Webfont: Proxima Nova S Black by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-black/
+ * 
+ * Webfont: Proxima Nova A Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-regular/
+ * 
+ * Webfont: Proxima Nova A Black by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-black/
+ * 
+ * Webfont: Proxima Nova S Light by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-light/
+ * 
+ * Webfont: Proxima Nova Thin by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/thin/
+ * 
+ * Webfont: Proxima Nova Extrabold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/extrabld/
+ * 
+ * Webfont: Proxima Nova Black by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/black/
+ * 
+ * Webfont: Proxima Nova Light by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/light/
+ * 
+ * Webfont: Proxima Nova Semibold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/semibold/
+ * 
+ * Webfont: Proxima Nova Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+ * 
+ * Webfont: Proxima Nova Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2709839
+ * Licensed pageviews: 1,000,000
+ * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ * 
+ * ?? 2013 MyFonts Inc
+*/
 
 
-<script language="JavaScript" src="/assets/js/global.js"></script>
-<script language="JavaScript" src="/assets/js/disable_form.js"></script>
-<script language="JavaScript" src="/assets/js/trim.js"></script>
-<script language="javascript" src="/assets/js/referdetect.js"></script>
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/29594f");
 
-<script language="javascript" src="/assets/js/video.js"></script>
+@font-face {font-family: 'ProximaNovaT-Thin';src: url('http://i2.ypcdn.com/radiant/radiant_assets_127007_29594F_E_0.eot');src: url('http://i2.ypcdn.com/radiant/radiant_assets_127007_29594F_E_0.eot?#iefix') format('embedded-opentype'),url('http://i2.ypcdn.com/radiant/radiant_assets_127011_29594F_E_0.woff') format('woff'),url('http://i2.ypcdn.com/radiant/radiant_assets_127009_29594F_E_0.ttf') format('truetype');}
 
-<link rel="stylesheet" href="/assets/css/navigation.css" type="text/css">
-<link rel="stylesheet" href="/assets/css/ldbtn.css" type="text/css">
-<link rel="stylesheet" href="/assets/css/catyBtn.css" type="text/css">
-<link rel="stylesheet" href="/assets/css/global_general.css" type="text/css">
+@font-face {font-family: 'ProximaNova-Light';src: url('http://i2.ypcdn.com/radiant/radiant_assets_126997_29594F_11_0.eot');src: url('http://i2.ypcdn.com/radiant/radiant_assets_126997_29594F_11_0.eot?#iefix') format('embedded-opentype'),url('http://i2.ypcdn.com/radiant/radiant_assets_127001_29594F_11_0.woff') format('woff'),url('http://i2.ypcdn.com/radiant/radiant_assets_126999_29594F_11_0.ttf') format('truetype');}
+ 
+@font-face {font-family: 'ProximaNova-Regular';src: url('http://i2.ypcdn.com/radiant/radiant_assets_127003_29594F_13_0.eot');src: url('http://i2.ypcdn.com/radiant/radiant_assets_127003_29594F_13_0.eot?#iefix') format('embedded-opentype'),url('http://i2.ypcdn.com/radiant/radiant_assets_127029_29594F_13_0.woff) format('woff'),url('http://i2.ypcdn.com/radiant/radiant_assets_127005_29594F_13_0.ttf') format('truetype');}
+
+@font-face {
+  font-family:'proximanova-reg';
+  src:url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Light-webfont.eot');
+  src:url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Light-webfont.eot?iefix') format('embedded-opentype'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Light-webfont.woff') format('woff'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Light-webfont.ttf') format('truetype'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Light-webfont.svg#ProximaNova-Light-webfont') format('svg');
+}
+@font-face {
+  font-family:'proximanova-bold';
+  src:url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Sbold-webfont.eot');
+  src:url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Sbold-webfont.eot?iefix') format('embedded-opentype'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Sbold-webfont.woff') format('woff'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Sbold-webfont.ttf') format('truetype'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Sbold-webfont.svg#ProximaNova-Sbold-webfont') format('svg');
+}
+@font-face {
+  font-family:'proximanova-light';
+  src:url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Thin-webfont.eot');
+  src:url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Thin-webfont.eot?iefix') format('embedded-opentype'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Thin-webfont.woff') format('woff'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Thin-webfont.ttf') format('truetype'), url('http://www.yellowpages.com/ypu/fonts/ProximaNova-Thin-webfont.svg#ProximaNova-Thin-webfont') format('svg');
+}
+</style>  
+<style>
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+sup {
+	height: 0;
+	line-height: 1;
+	vertical-align: baseline;
+	_vertical-align: bottom;
+	position: relative;	
+}
+
+sup {
+	bottom: 1ex;
+}
+
+a {
+    outline: none;
+}
+
+i {
+    font-style: italic;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+.clearfix {
+	clear: both;
+}
+h1,h2,h3,h4,h5{
+	font-family: 'ProximaNova-Light', 'proximanova-reg' Arial, Helvetica, sans-serif;
+}
+p{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#home .first {
+	margin: 0 0 0 20px;
+}
+
+#home .last {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
 
 
 
-      
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      _uacct = "UA-230502-1";
-      urchinTracker();
-    </script>
-    
+.container {
+	margin: 0 auto;
+	
+	width: 940px;
 
+}
+
+/* ATTI BANNER 
+#atti-banner {
+  width: 100%;
+  background: #4facd8;
+}
+.atti-logo {
+  padding: 4px 0 5px;
+  height: 15px;
+  width: 100%;
+  overflow: hidden;
+  text-indent: -999em;
+  background: url(http://i2.ypcdn.com/radiant/radiant_assets_42720_adsolutions_update.png) left center no-repeat;
+}
+*/
+
+/* HEADER */
+
+#header {
+	background: #fff;
+	border-bottom: 2px solid #000;
+	height: 90px;
+	position: relative;
+	z-index: 10;
+}
+#header .container {
+position:relative;
+z-index: 2;
+}
+
+#logo {
+	float: left;
+	padding: 10px 0 0 0;
+}
+
+#headerNav {
+	float: left;
+	padding: 44px 0 0 195px;
+}
+
+#headerNav a {
+	border-right: 1px solid #70c9fc;
+	color: #399dd8;
+	display: block;
+	float: left;
+	font-size: 14px;
+	margin: 0 15px 0 0;
+	padding: 0 15px 0 0;
+	position: relative;
+	text-decoration: none;
+	z-index: 5;
+}
+
+#headerNav a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+#about {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34804_bg_about.png) no-repeat;
+	display: none;
+	height: 153px;
+	left: 428px;
+	padding: 85px 0 0 15px;
+	position: absolute;
+	top: 33px;;
+	width: 170px;
+	z-index: 4;
+}
+
+#about li {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0 0 8px 0;
+}
+
+#about li a {
+	color: #000;
+	text-decoration: none;
+}
+
+#yp {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34842_icon_arrow2.png) no-repeat right center;
+	display: block;
+	position: absolute;
+	right: 0px;
+	top: 30px;
+	width: 54px;
+}
+
+
+/* AUDIENCE BAR */
+
+#audienceBar {
+	background-color:#FFFFFF;
+	background-image: url(http://i2.ypcdn.com/radiant/radiant_assets_34806_bg_audienceBar.png);
+	background-repeat:repeat-x;
+	background-position:center bottom;
+	height:53px;
+        margin-top: 0px;
+}
+
+#audienceBar .container {
+	width: 1000px;
+}
+
+#heroTabs {
+	overflow: hidden;
+}
+
+#heroTabs li {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34834_bg_divider.png) no-repeat right center;
+	float: left;
+	font-family: 'ProximaNova-Light', 'proximanova-reg' Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	height: 45px;
+	line-height: 45px;
+	margin: 0 0 0 -21px;
+	text-align: center;
+	width: 200px;
+}
+
+#heroTabs li a {
+	color: #171c26;
+	display: block;
+	text-decoration: none;
+}
+
+#heroTabs li.active a {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34808_bg_audienceBarHover.png) no-repeat;
+}
+
+
+/* FEATURED */
+
+#featured {
+	background: #fff;
+	margin: 0 0 20px 0;
+	overflow: hidden;
+}
+
+#categories {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34810_bg_categories.png) no-repeat;
+	height: 273px;
+	margin: 20px 0 0 0;
+	overflow: hidden;
+	width: 703px;
+	float: left;
+}
+
+#categories .category {
+	float: left;
+	height: 134px;
+	width: 340px;
+}
+
+#categories .category h4 {
+	color: #999999;
+	font-size: 16px;
+	line-height: 16px;
+	font-weight: normal;
+	padding: 20px 0 6px 88px;
+}
+
+#categories .category h3 {
+	font-size: 18px;
+	line-height: 20px;
+	font-weight: normal;
+	margin: 0 0 0 88px;
+	width: 240px;
+}
+
+#categories #featureTopRight h3,
+#categories #featureBottomRight h3 {
+	width: 250px;
+}
+.category h3 a {
+	color: #168cdc;
+	text-decoration: none;
+}
+.category h3 a:hover {
+	text-decoration: underline;
+}
+.pinger {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34852_icon_pinger.png) no-repeat left center;
+}
+
+.yptv {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34888_icon_yptv.png) no-repeat left center;
+}
+
+.ypApp {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34858_icon_ypLg.png) no-repeat left center;
+	margin-left: 23px;
+}
+
+.blackberry {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34844_icon_blackberry.png) no-repeat left bottom;
+	margin-left: 23px;
+}
+
+#events {
+	background: url(http://i2.ypcdn.com/radiant/radiant_assets_35252_bg_home-events.png) no-repeat left bottom;	
+	float: right;
+	height: 267px;
+	margin: 50px 0 0 0;
+	position: relative;
+	width: 225px;
+}
+
+#events h4 {
+	color: #999999;
+	font-size: 16px;
+	padding: 40px 0 10px 25px;
+}
+
+#events img {
+	display: block;
+	margin: 0 auto;
+}
+
+#events h3 {
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 22px;
+	padding: 0 15px 15px 25px;
+}
+
+.more {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34840_icon_arrow.png) no-repeat;
+	display: block;
+	height: 14px;
+	position: absolute;
+	right: 12px;
+	text-indent: -9999px;
+	top: 15px;
+	width: 13px;
+}
+
+#events h3 a {
+	color: #168cdc;
+	text-decoration: none;
+}
+
+#events p {
+	color: #184363;
+	font-size: 12px;
+	line-height: 16px;
+	padding: 0 15px 0 25px;
+}
+
+/* FOOTER 1:58 */
+
+#footer {
+	background: url(http://i2.ypcdn.com/radiant/radiant_assets_127031_footer_background.png) repeat-x #f1f1f1;
+	height: 487px;
+}
+
+#footerContainer {
+	background:  none;
+}
+
+#sitemap {
+	height: 242px;
+}
+
+#sitemap .home {
+  display: none;
+}
+
+#sitemap ul {
+	float: left;
+	margin: 50px 55px 0 0;
+	width: 130px;
+}
+
+#sitemap ul li {
+	color: #343434;
+	font-size: 14px;
+	padding: 0 0 12px 0;
+}
+
+#sitemap ul li.title {
+	border-bottom: 1px dashed #343434;
+	margin: 0 0 12px 0;
+}
+
+#sitemap ul li a {
+	color: #343434;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+#sitemap ul li a:hover {
+	text-decoration: underline;
+	font-weight: normal;
+}
+
+#home #sitemap .last {
+	margin: 50px 0 0 0;
+}
+
+#footerContent {
+	height: 192px;
+	margin: 0 0 0 0;
+	overflow: hidden;
+        font-weight: normal;
+}
+
+#social {
+	float: left;
+	padding: 20px 0 0 0;
+}
+
+#social li {
+	float: left;
+	padding: 0 5px 0 0;
+}
+
+#social li a {
+	display: block;
+	height: 16px;
+	text-indent: -9999px;
+	width: 16px;
+}
+
+#facebook {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34882_icon_facebook.png) no-repeat;
+}
+
+#twitter {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34884_icon_twitter.png) no-repeat;
+}
+
+#linkedin {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34848_icon_linkedin.png) no-repeat;
+}
+
+#companyLinks {
+	float: left;
+	padding: 22px 0 0 15px;
+        height: 20px;
+}
+
+#companyLinks li, #companyLinks2 li {
+	border-right: 1px solid #70c9fc;
+	color: #70c9fc;
+	float: left;
+	font-size: 12px;
+	margin: 0 6px 0 0;
+	padding: 0 6px 0 0;
+}
+
+#companyLinks li a, #companyLinks2 li a {
+	color: #70c9fc;
+	text-decoration: none;
+}
+
+#companyLinks li a:hover, #companyLinks2 li a:hover {
+	text-decoration: underline;
+}
+
+#companyLinks2 {
+	float: right;
+	padding: 22px 0 0 0;
+}
+
+.copyright {
+	color: #ffffff;
+	font-size: 12px;
+	line-height: 18px;
+	margin: 30px 0 0 2px;
+}
+
+.copyright span {
+	color: #70c9fc;
+}
+
+/* MAIN */
+
+#main {
+	background: #ebebeb;
+	background: -moz-linear-gradient(top,  #ebebeb 0%, #ffffff 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ebebeb), color-stop(100%,#ffffff));
+	background: -webkit-linear-gradient(top,  #ebebeb 0%,#ffffff 100%);
+	background: -o-linear-gradient(top,  #ebebeb 0%,#ffffff 100%);
+	background: -ms-linear-gradient(top,  #ebebeb 0%,#ffffff 100%);
+	background: linear-gradient(top,  #ebebeb 0%,#ffffff 100%);
+	overflow: hidden;
+}
+
+
+body.section-about #main-inner, body.section-news #main-inner, body.section-products #main-inner, body.section-insights #main-inner, body.section-careers #main-inner { background-image: none; }
+
+
+#main h2 {
+	color: #0a1125;
+	font-family: 'ProximaNovaT-Thin', 'proximanova-light', Arial, Helvetica, sans-serif;
+	font-size: 55px;
+	font-weight: normal;
+	padding: 65px 0 24px 24px;
+}
+
+#primary {
+    background-image: url(http://img2.yp.com/radiant/radiant_assets_36166_80pct_white_8007.png);
+	border: 1px solid #e6eaec;
+	margin: 0 0 100px 0;
+	overflow: hidden;
+	padding: 0 0 50px 0;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	-moz-box-shadow: 2px 2px 10px #e4e4e4;
+	-webkit-box-shadow: 2px 2px 10px #e4e4e4;
+	box-shadow: 2px 2px 10px #e4e4e4;
+}
+
+#subnav {
+	font-family: 'ProximaNova-Regular', 'proximanova-bold', Arial, Helvetica, sans-serif;
+	border-bottom: 1px solid #f0f2f3;
+	overflow: hidden;
+	padding: 30px 0 18px 35px;
+}
+
+#subnav li {
+	float: left;
+	font-size: 18px;
+	padding: 0 32px 0 0;
+}
+
+#subnav li a {
+	color: #6d87a3;
+	text-decoration: none;
+}
+
+#subnav li a:hover {
+	color: #0f0f0f;
+	text-decoration: underline;
+}
+
+#subnav li a.subActive {
+	color: #0f0f0f;
+}
+
+#latestPress {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34820_bg_press.png) no-repeat right center;
+	margin: 0 30px;
+	padding: 40px 0 0 0;
+}
+
+#latestProducts {
+	margin: 0 30px;
+	padding: 40px 0 0 0;
+}
+
+.pressDesc, .productDesc {
+	width: 455px;
+}
+
+.productDesc {
+	float: left;
+}
+
+.productDesc h3 {
+	color: #1d9ece;
+	font-size: 25px;
+	padding: 0 0 15px 0;
+}
+
+.pressDesc h3 {
+	color: #1d9ece;
+	font-size: 25px;
+	padding: 0 0 55px 0;
+}
+
+.pressDesc h4 {
+	color: #1d9ece;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 0 0 16px 0;
+}
+
+.pressDesc h6 {
+	color: #333333;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+	padding: 0 0 15px 0;
+	text-transform: uppercase;
+}
+
+.pressDesc p, .productDesc p {
+	color: #333333;
+	font-size: 14px;
+	line-height: 18px;
+	padding: 0 0 15px 0;
+}
+
+.pressDesc p a {
+	color: #168CDC;
+	font-size: 12px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#archive, .archive {
+	margin: 28px 30px 0 30px;
+	overflow: hidden;
+	clear: left;
+	width: 100%;
+}
+
+#archive h5, .archive h5 {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34836_bg_expand.png) no-repeat right center;
+	border-top: 1px solid #94a5ac;
+	color: #1d9ece;
+	cursor: pointer;
+	font-size: 16px;
+	padding: 20px 0;
+}
+.archive h5 {
+	background: none;
+	cursor: auto;
+}
+.archive .first h5 {
+	border-top: none;
+}
+#archive h5.active, .archive h5.active {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34832_bg_collapse.png) no-repeat right center;
+}
+
+#archive ul, .archive ul {
+	margin: 0 0 0 0;
+}
+
+#archive ul li, .archive ul li {
+	margin: 0 0 0 0;
+}
+
+#archive ul li h6, .archive ul li h6 {
+	color: #333333;
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#archive ul li h6 a, .archive ul li h6 a {
+	color: #168CDC;
+	display: block;
+	font-weight: normal;
+	margin: 5px 0 0 0;
+	text-decoration: none;
+}
+
+.relatedLinks {
+	border: 1px solid #d6d7e0;
+	float: right;
+	margin: 0 0 50px 0;
+	overflow: hidden;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.relatedLinks h5 {
+	color: #1f1f1f;
+	font-size: 16px;
+	padding: 25px 25px 25px 25px;
+}
+
+.relatedLinks ul {
+	padding: 0 25px 20px 25px;
+}
+
+.relatedLinks ul li {
+	font-size: 13px;
+	padding: 0 0 10px 0;
+}
+
+.relatedLinks ul li a {
+	color: #333333;
+	display: block;
+	padding: 0 0 0 20px;
+	text-decoration: none;
+}
+
+.relatedLinks ul li a:hover {
+	text-decoration: underline;
+}
+
+.relatedLinks ul li a.related {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34876_icon_arrow3.png) no-repeat;
+}
+
+.relatedLinks ul li a.window {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34856_icon_window.png) no-repeat;
+}
+
+.relatedLinks ul li a.pdf {
+	background: url(http://img2.yp.com/radiant/radiant_assets_34850_icon_pdf.png) no-repeat;
+}
+
+.featureContainer {
+	margin: 0 30px;
+	overflow: hidden;
+	padding: 0 0 50px 0;
+}
+
+.feature {
+	border-right: 2px solid #c0cace;
+	float: left;
+	height: 260px;
+	margin: 0 40px 0 0;
+	overflow: hidden;
+	padding: 0 30px 0 0;
+	width: 244px;
+}
+
+.feature a {
+	color: #168CDC;
+	display: block;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.feature a:hover {
+	text-decoration: underline;
+}
+
+.email a {
+	text-align: center;
+}
+
+.feature h3 {
+	color: #1d9ece;
+	font-size: 20px;
+	line-height: 23px;
+	margin: 0 0 25px 0;
+}
+
+.browser img {
+	display: block;
+	margin: 0 auto 12px;
+	width: 173px;
+}
+
+.email img {
+	display: block;
+	margin: 0 auto 12px;
+	width: 130px;
+}
+
+.cloud img {
+	display: block;
+	margin: 0 auto 30px;
+	width: 174px;
+}
+
+#infograph {
+	display: block;
+	margin: 20px auto 40px;
+	width: 832px;
+}
+
+.colContainer {
+	margin: 0 30px;
+	overflow: hidden;
+}
+
+.col1 {
+	float: left;
+	width: 420px;
+}
+
+.col2 {
+	float: right;
+	width: 420px;
+}
+
+.specs h4 {
+	color: #1d9ece;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 0 0 20px 0;
+}
+
+.specs p {
+	border-bottom: 1px solid #94a5ac;
+	color: #333333;
+	font-size: 14px;
+	line-height: 20px;
+	margin: 0 0 30px 0;
+	padding: 0 0 30px 0;
+}
+
+.specs p span {
+	display: block;
+	font-weight: bold;
+}
+
+.specs p a {
+	color: #168CDC;
+	text-decoration: none;
+}
+
+.specs p a:hover {
+	text-decoration: underline;
+}
+
+
+/* End Original */
+
+#headerNav {
+float: right;
+padding: 44px 0 0 0;
+}
+#headerNav .navItem {
+float: left;
+display: block;
+padding: 0;
+border-right: 1px solid #70C9FC;
+border-left: 1px solid transparent;
+border-top: 1px solid transparent;
+position:relative;
+
+}
+#headerNav .home {
+  display: none;
+}
+#headerNav .yp {
+border-right: 0px solid transparent;
+padding-right: 0;
+}
+#headerNav .navItem a {
+border-left: 1px solid transparent;
+border-right: 1px solid transparent;
+border-top: 1px solid transparent;
+padding: 10px 14px;
+margin: 0;
+border-right-width: 0;
+display: inline;
+float: none;
+background-color: transparent;
+z-index: 3;
+}
+#headerNav .active {
+border-right: 0px solid #70C9FC;
+
+}
+#headerNav .active a {
+border-left: 1px solid #70C9FC;
+border-right: 1px solid #70C9FC;
+border-top: 1px solid #70C9FC;
+-moz-border-top-right-radius: 5px;
+border-top-right-radius: 5px;
+-moz-border-top-left-radius: 5px;
+border-top-left-radius: 5px;
+background-color: #ffffff;
+z-index:15;
+}
+#headerNav .navItem .headerNavMenu {
+position: absolute;
+top: 25px;
+left: 0px;
+display: none;
+border-right-width: 0;
+z-index: 14;
+border: 1px solid #70C9FC;
+-webkit-border-radius: 0px 5px 5px 5px;
+-moz-border-radius: 0px 5px 5px 5px;
+border-radius: 0px 5px 5px 5px;
+background-color: #ffffff;
+padding: 8px 0px;
+white-space: nowrap;
+}
+#headerNav .navItem  .headerNavMenu a {
+background-color: transparent;
+border: none;
+padding: 4px 14px 4px 14px;
+display: block;
+}
+
+/* HERO */
+#heroContainer{
+	width:100%;
+overflow: hidden;
+position:relative;
+z-index: 1;
+height:397px;
+}
+.herobackground{
+	height:397px;
+	position:absolute;
+	width:100%;
+
+}
+#hero {
+  width:100%;
+  overflow:hidden;
+  height:397px;
+  margin:auto;
+  position:absolute;
+}
+
+#hero ul{
+	width:3200px;
+}
+
+#hero ul li{
+	float:left;
+	width:1600px;
+	overflow:hidden;
+}
+
+
+#interiorContent {
+margin: 0 30px;
+padding: 40px 0 0 0;
+}
+#interiorContent h3 {
+color: #3381B7;
+font-size: 26px;
+padding: 0 0 20px 0;
+font-weight: normal;
+}
+#interiorContent h4 {
+color: #168CDC;
+font-size: 18px;
+font-weight: normal;
+padding: 0 0 10px 0;
+}
+#interiorContent h5, #interiorContent h6 {
+color: #333;
+font-size: 16px;
+font-family: 'ProximaNova-Regular', 'proximanova-bold', Arial, Helvetica, sans-serif;
+}
+#interiorContent p, #interiorContent ul {
+color: #333;
+font-size: 10pt;
+line-height: 18px;
+padding: 0 0 15px 0;
+}
+#interiorContent a {
+color: #168CDC;
+text-decoration: none;
+/*background-color: #ffffff;*/
+}
+#interiorContent a:hover {
+text-decoration: underline;
+}
+#archive, .archive {
+margin: 28px 0 0 0;
+}
+#home #categories .category img {
+float: left;
+margin: 20px 10px 20px 10px;
+}
+.sidebar {
+width:225px;
+float: right;
+margin: 0 0 24px 24px;
+}
+.sidebar .top {
+background:url(http://i2.ypcdn.com/radiant/radiant_assets_35258_bg_sidebar-top.png) no-repeat left top;	
+height: 17px;
+}
+.sidebar .inner {
+background: url(http://i2.ypcdn.com/radiant/radiant_assets_35280_bg_sidebar-bottom_3823.png) no-repeat left bottom;
+padding: 0 25px 15px 25px;
+}
+
+#main .sidebar h2, .sidebar h2 {
+font-size: 16px;
+color:#999999;
+margin: 0 0 15px 0;
+padding: 0;
+font-family: 'ProximaNova-Light', 'proximanova-reg' Arial, Helvetica, sans-serif;
+}
+
+#main .sidebar h2.arrow, .sidebar h2.arrow {
+background: url(http://i2.ypcdn.com/radiant/radiant_assets_34840_icon_arrow.png) no-repeat right top;
+}
+
+#main .sidebar h3, .sidebar h3 {
+font-size: 16px;
+color:#168cdc;
+margin: 0 0 15px 0;
+padding: 0;
+}
+#main .sidebar h4, .sidebar h4 {
+font-size: 9pt;
+color:#000000;
+border-bottom: 1px solid #b1b1b1;
+margin: 0 0 7px 0;
+padding: 0 0 4px 0;
+font-family: 'ProximaNova-Bold', 'proximanova-bold', Arial, Helvetica, sans-serif;
+}
+#main .sidebar, #main .sidebar p, .sidebar p, #main .sidebar ul, .sidebar ul {
+font-size: 9pt;
+line-height: 15px;
+color:#000000;
+margin: 0 0 15px 0;
+padding: 0;
+}
+#main .sidebar ul li, .sidebar ul li {
+border-bottom: 1px solid #b1b1b1;
+margin: 0 0 8px 0;
+padding: 0 0 8px 0;
+}
+#main .sidebar ul li.last, .sidebar ul li.last {
+border-bottom: none;
+}
+#main .sidebar p.large, .sidebar p.large {
+/*font-size: 15px;*/
+}
+#main .sidebar a, .sidebar a {
+color:#168CDC;
+text-decoration:none;
+font-weight: normal;
+background-color: transparent;
+/*background: none;*/
+}
+.sidebar a:hover {
+  /*background: none;*/
+}
+a:hover, #main .sidebar a:hover, .sidebar a:hover {
+text-decoration:underline;
+}
+#main .sidebar a.arrow, .sidebar a.arrow,
+#main .sidebar a.file, .sidebar a.file,
+#main .sidebar a.pdf, .sidebar a.pdf,
+#main .sidebar a.download, .sidebar a.download {
+display: block;
+padding-right: 18px;
+font-size: 9pt;
+}
+#main .sidebar a.arrow,  .sidebar a.arrow {
+background: url(http://i2.ypcdn.com/radiant/radiant_assets_35262_bg_item-arrow.png) no-repeat right top;
+}
+#main .sidebar a.file, .sidebar a.file {
+background: url(http://i2.ypcdn.com/radiant/radiant_assets_35264_bg_file.png) no-repeat right top;
+}
+#main .sidebar a.pdf, .sidebar a.pdf {
+background: url(http://i2.ypcdn.com/radiant/radiant_assets_35306_bg_pdf.png) no-repeat right top;
+}
+#main .sidebar a.download, .sidebar a.download {
+font-size: 15px;
+display: inline-block;
+padding-right: 18px;
+background: url(http://i2.ypcdn.com/radiant/radiant_assets_35260_bg_download-arrow.png) no-repeat right 4px;
+font-family: 'ProximaNova-Regular', 'proximanova-bold', Arial, Helvetica, sans-serif;
+}
+.consumer-mobile-sidebar select {
+width: 100%;
+font-size: 12px;
+}
+
+.consumer-mobile-sidebar .get-app {
+height: 120px;
+padding: 12px 0;
+border-bottom: 1px solid #B1B1B1;
+}
+#main .sidebar .consumer-mobile-sidebar .get-app ul {
+	padding-left: 20px;
+	list-style-type:disc;
+}
+#main .sidebar .consumer-mobile-sidebar ul li {
+border-bottom: 0px solid #B1B1B1;
+margin: 0 0 2px 0;
+padding: 0;
+}
+#copyColumn {
+width: 600px;
+clear: left;
+}
+.press-release-template #copyColumn {
+width: auto;
+}
+
+.three-column .column {
+border-right: 2px solid #C0CACE;
+float: left;
+margin: 0 40px 0 0;
+overflow: hidden;
+padding: 0 30px 0 0;
+width: 244px;
+}
+.three-column .last {
+padding: 0;
+margin: 0;
+border-right: none;
+}
+
+#page-press-and-media .count-1-first{ display: none; }
+
+#page-insights .page-feature { float:right; margin-left: 20px; margin-bottom: 20px;}
+
+#home .sidebar {
+	margin: 20px 0 0 0;
+}
+
+#interiorContent ul {
+	padding-left: 20px;
+	list-style-type:disc;
+}
+#interiorContent #archive ul,
+#interiorContent .archive ul,
+#interiorContent .sidebar ul {
+	padding-left: 0;
+	list-style-type:none;
+}
+
+#interiorContent .archive ul ul,
+#interiorContent #archive ul ul {
+	margin:0;
+	padding-left: 20px;
+	list-style-type:disc;
+}
+#interiorContent .archive ul ul li,
+#interiorContent #archive ul ul li {
+	margin: 0;
+}
+
+#interiorContent p.footnotes {
+font-size: 11px;
+margin-top: 64px;
+}
+#page-benefits #interiorContent h3, 
+#page-locations #interiorContent h3, 
+#page-jobs #interiorContent h3, 
+#page-culture #interiorContent h3,
+#page-contact #interiorContent h3,
+#page-consumers #interiorContent h3,
+#page-publishers #interiorContent h3
+{
+display:none;
+}
+
+#page-consumers #interiorContent h3.faux-title,
+#page-publishers #interiorContent h3.faux-title {
+display: block;
+}
+
+
+#page-consumers .faux-title .char-sm {
+  width: 16px !important;
+}
+
+
+#page-blog #copyColumn {
+width: auto;
+}
+
+#developers .heroDesc {
+width: 666px;
+}
+
+.char-reg { font-size: 10px; line-height: 8px; vertical-align: top;}
+.char-sm { display:inline-block; vertical-align: top; font-family: 'ProximaNova-Light', 'proximanova-reg' Arial, Helvetica, sans-serif; }
+
+#headerNav .asset-files,
+.asset-files
+ { display: none; }
+
+#generic{
+display: none;
+}
+
+
+
+
+</style>
+
+
+  <style type="text/css">
+    #register-form fieldset {
+      width: 460px;
+      padding: 32px 0 34px 34px; }
+    #register-form fieldset.info {
+      border-bottom: 1px solid #ededed; }
+    #register-form fieldset.actions {
+      padding: 12px 0 22px 34px;
+      border-top: 1px solid #fff;
+      border-bottom-left-radius: 6px;
+      border-bottom-right-radius: 6px;
+      background: #fafafa; }
+    #register-form p, #register-form input {
+      font-size: .875em;
+      color: #444; }
+    #register-form label {
+      display: block;
+      margin-bottom: 1.5ex;
+      font-weight: bold; }
+    #register-form input[type=text] {
+      width: 400px;
+      margin: 0 0 4ex;
+      padding: 8px 10px;
+      border: 1px solid #ddd;
+      border-radius: 2px;
+      box-shadow: inner 0px 1px 3px rgba(0,0,0,.1); }
+    #register-form input[type=submit] {
+      padding: 1.1ex 1.5em;
+      border: 0;
+      border-radius: 2px;
+      font-size: .9em;
+      font-weight: bold;
+      color: #fff;
+      text-shadow: 0 -1px 1px rgba(0,0,0,.25);
+      background: -webkit-linear-gradient(#51abcd, #2486be);
+      background: -moz-linear-gradient(#51abcd, #2486be);
+      background: linear-gradient(#51abcd, #2486be); }
+    #register-form select {
+      width: 420px;
+      font-size: inherit; }
+    #register-form p {
+      clear: both; }
+    #register-form .infield {
+      position: relative;
+      float: left;
+      clear: none;
+      margin-right: 22px; }
+    #register-form .infield label {
+      position: absolute;
+      left: 11px;
+      top: 10px;
+      font-weight: normal;
+      color: #d4d4d4; }
+    #register-form .infield input {
+      width: 178px; }
+
+    #fancybox-bg {
+      display: none; }
+    #fancybox-wrap {
+      padding: 0;
+      border: 8px solid rgba(0,0,0,.25);
+      border-radius: 12px; }
+    #fancybox-outer {
+      border-radius: 6px; }
+    #fancybox-close {
+      top: 8px;
+      right: 7px;
+      background: transparent url(http://i2.ypcdn.com/radiant/radiant_assets_47852_fancybox-close.png) 0 0 no-repeat; }
+  </style>
+  <!-- end CSS-->
+
+  <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://i2.ypcdn.com/radiant/radiant_assets_34862_modernizr-2.0.6.min.js"></script>
+  <link rel="icon" type="image/ico" href="http://i2.ypcdn.com/radiant/radiant_assets_127013_favicon.ico">
   
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="http://i2.ypcdn.com/radiant/radiant_assets_34860_jquery-1.6.2.min.js"><\/script>')</script><script src="http://i2.ypcdn.com/radiant/radiant_assets_34860_jquery-1.6.2.min.js"></script>
+  <script type="text/javascript" src="http://i2.ypcdn.com/radiant/radiant_assets_47712_jquery.fancybox-1.3.4.js"></script>
+  <script type="text/javascript" src="http://i2.ypcdn.com/radiant/radiant_assets_47836_jquery.cookie.js"></script>
+  <script type="text/javascript" src="http://i2.ypcdn.com/radiant/radiant_assets_47838_jquery.infieldlabel.js"></script>
 
-
-    <link rel="stylesheet" href="/assets/css/navigation.css" type="text/css">
-  </head>
-  <body bgcolor="#ffffff" topmargin="5" leftmargin="5" marginheight="0" marginwidth="0">
-    <!-- begin table for page position -->
-
-          
-
-
-
-
-
-
-
-
-
+  <script>
+    $(function() {
+      if ($.cookie("corp_reg") != "true") {
+        $("#register-form .infield label").inFieldLabels();
+        $(".register-first").each(function() {
+          $this = $(this);
+          $this.attr("data-href", $this.attr("href"));
+          $this.attr("href", "#register-form");
+          $this.fancybox({
+            overlayColor: "#000",
+            overlayOpacity: .3,
+            padding: 0,
+            centerOnScroll: true,
+            onStart: function() {
+              $.cookie("corp_reg", true, { expires: 3650 });
+            },
+            onClosed: function() {
+              window.location = $this.attr("data-href");
+            }
+          });
+        });
+      }
+    });
+  </script>
+</head>
 
 
 
 
 
  
-
-
-<script type="text/javascript">
-<!--
-  rsi_csid = 'B07582';
-  rsi_gwurl = (location.protocol=="https:"?"https:":"http:") + '//js.revsci.net/gateway/gw.js?csid=' + rsi_csid;
-  document.writeln('<script language="JavaScript" src="' + rsi_gwurl + '"></s' + 'cript>');
+  
+   
     
-  rsi_gwurl = (location.protocol=="https:"?"https:":"http:") + '//js.revsci.net/gateway/gw.js?csid=G07610&bpid=S0228';
-  document.writeln('<script language="JavaScript" src="' + rsi_gwurl + '"></s' + 'cript>');
-//-->
-</script><script language="JavaScript" src="https://js.revsci.net/gateway/gw.js?csid=B07582"></script>
-<script language="JavaScript" src="https://js.revsci.net/gateway/gw.js?csid=G07610&amp;bpid=S0228"></script>
+   
+    
+     <body id="page-privacy-policy" class="section-about">
+    
+   
+    
+   
+    
+   
+  
+   
+    
+   
+    
+   
+    
+   
+    
+   
+  
+   
+    
+   
+    
+   
+    
+   
+    
+   
+  
+   
+    
+   
+    
+   
+  
+   
+    
+   
+    
+   
+    
+   
+    
+   
+  
+   
+  
+ 
 
-<script type="text/javascript">
-<!--
-  var rsi_exp=new Date(rsi_now.getTime()+2419200000);
-  var rsi_dom=location.hostname;
-  rsi_dom=rsi_dom.replace(/.*(\.[\w\-]+\.[a-zA-Z]{3}$)/,'$1');
-  rsi_dom=rsi_dom.replace(/.*(\.[\w\-]+\.\w+\.[a-zA-Z]{2}$)/,'$1');
-  rsi_dom=rsi_dom.replace(/.*(\.[\w\-]{3,}\.[a-zA-Z]{2}$)/,'$1');
-  document.cookie=('rsi_segs='+rsinetsegs.join('|')+';expires='+rsi_exp.toGMTString()+';path=/;domain='+rsi_dom);
-//-->
+<script src="http://i2.ypcdn.com/radiant/radiant_assets_25258_atti_s_code_2557.js" type="text/javascript"></script> 
+
+<script language="JavaScript" type="text/javascript">
+// <!--
+// make it global
+s.pageName = "privacy-policy";
+// -->
 </script>
 
-<!-- begin: global header -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr>
-    <td>
-    <!-- Begin DART advertisement --> 
-     
-      
-
-
-
-
-
-
-
-
-
-
-
-    </td>
-  </tr>
-</tbody></table>
-
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr>
-    <td width="173" height="1"><img src="/assets/images/spacer.gif" alt="" width="173" height="1" border="0"></td>
-    <td width="8" height="1"><img src="/assets/images/spacer.gif" alt="" width="8" height="1" border="0"></td>
-    <td height="1"><img src="/assets/images/spacer.gif" alt="" width="619" height="1" border="0"></td>
-  </tr>
-  <tr>
-    <td valign="bottom" align="left" width="173">
-      
-        <a href="http://www.livedeal.com">
-      
-      
-        <img src="/assets/images/header/livedeal_logo2.gif" alt="" height="76" border="0"> 
-          
-      
-        </a>
-      
-    </td>
-      <td width="8"><img src="/assets/images/spacer.gif" alt="" width="8" height="1" border="0"></td>
-      <td valign="bottom"><table width="619" border="0" cellspacing="0" cellpadding="0" align="right">
-      <tbody><tr>
-        <td align="right"><table border="0" width="100%" cellspacing="0" cellpadding="0" class="font_standard">
-          
-          <tbody><tr>
-            <td align="right"><span class="topEntities">LiveDeal.com</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/yellowpages/index.jsp?zip=" class="topEntities"><img src="/assets/images/icons/icon_yellowpages_sm.gif" border="0">&nbsp;Yellow Pages</a></td>
-          </tr>
-
-          <tr>
-            <td align="right" valign="top">            
-
-          </td>
-        </tr>
-        <tr>
-          <td align="right"><table border="0" width="100%" cellspacing="0" cellpadding="0" class="font_standard">
-            <tbody><tr>
-              <td align="right" bgcolor="#FFFFFF" height="30" valign="middle">
-                <a href="http://www.yp.com/index.jsp">Home</a>&nbsp;|&nbsp;
-
-                      <a href="https://secure.livedeal.com/login/index.jsp?serverName=http://www.yp.com"><strong>Sign In</strong></a>
-
-                &nbsp;|&nbsp;
-
-               
-
-                  <a href="https://secure.livedeal.com/register/index.jsp?serverName=http://www.yp.com">Register</a>
-
-                &nbsp;|&nbsp;<a href="http://www.yp.com/about/sitemap.jsp">Site Map</a>
-
-              </td>
-            </tr>
-<!-- end: global header --> 
-          
-
-
-
-
-
-
-
-
-
-
-
- 
-      
-
-
-
-
-
-
-
-
-
-            <tr>
-              <td align="center" bgcolor="#FFFFFF"><div id="ldbtn_button">
-                 <ul>
-                 <li><img src="/assets/images/nav/ldbtn_left.gif" alt="" width="4" height="26" border="0"></li>
-                  <li><a href="http://www.yp.com/SellController?zip=&amp;action=sell">&nbsp;&nbsp;&nbsp;Post/Sell&nbsp;&nbsp;&nbsp;</a></li>
-                  <li><img src="/assets/images/nav/ldbtn_border.gif" alt="" width="2" height="26" border="0"></li>
-                  <li><a href="http://www.yp.com/mylivedeal/index.jsp?zip=">&nbsp;&nbsp;&nbsp;MyAccount&nbsp;&nbsp;&nbsp;</a></li>
-                  <li><img src="/assets/images/nav/ldbtn_border.gif" alt="" width="2" height="26" border="0"></li>
-                  <li><a href="http://www.yp.com/community/index.jsp?zip=">&nbsp;&nbsp;&nbsp;Community&nbsp;&nbsp;&nbsp;</a></li>
-                  <li><img src="/assets/images/nav/ldbtn_border.gif" alt="" width="2" height="26" border="0"></li>
-                  <li><a href="/support/index.jsp">&nbsp;&nbsp;&nbsp;Help&nbsp;&nbsp;&nbsp;</a></li>
-                  <li><img src="/assets/images/nav/ldbtn_right.gif" alt="" width="4" height="26" border="0"></li>
-              </ul></div></td>
-            </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table></td>
-  </tr>
-
-  <tr>
-    <td height="5" colspan="3"><img src="/assets/images/spacer.gif" alt="" width="1" height="5" border="0"></td>
-  </tr>
-
-      <tr>
-      <td colspan="3">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-
-
-
-    
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-
-    
-    
-   
-
-
-
-    
-
-
-<!--  Travel URL -->
-
-
-
-
-
-
-
-      
-
-
-
-
-
-    
-    
-
-
-
-
-<div id="catyBtn_button">
-  <ul>
-    <li><img src="/assets/images/nav/caty/catyBtn_left.gif" alt="" width="6" height="28" border="0"></li>
-    
-    
-
-    
-      <li><a href="http://www.yp.com/pets/index.jsp?zip=">&nbsp;&nbsp;Pets&nbsp;&nbsp;</a></li>
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-    
-    
-    
-      <li><a href="http://www.yp.com/merchandise/?zip=&amp;queryCatyName=Merchandise&amp;category=2366">&nbsp;&nbsp;Merchandise&nbsp;&nbsp;</a></li>
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-    
-    
-    
-    
-    
-      <li><a href="http://www.yp.com/furniture/?zip=&amp;queryCatyName=Furniture">&nbsp;&nbsp;Furniture&nbsp;&nbsp;</a></li>
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-    
-    
-    
-      <li><a href="http://www.yp.com/realestate/index.jsp?zip=">&nbsp;&nbsp;Real Estate&nbsp;&nbsp;</a></li>
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-    
-    
-    
-      <li><a href="http://www.yp.com/rentals/index.jsp?zip=">&nbsp;&nbsp;Rentals&nbsp;&nbsp;</a></li>
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-    
-    
-   
-      <li><a href="/travel/index.jsp;jsessionid=E532586B7F5775F26C3E1DFCC12981B9">&nbsp;&nbsp;Travel&nbsp;&nbsp;</a></li>
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-   
-          
-    
-      <li><a href="http://www.yp.com/autos/index.jsp?zip=">&nbsp;&nbsp;
-          
-          
-          Autos&nbsp;&nbsp;</a></li>
-          
-          
-          
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-    
-    
-
-    
-      <li><a href="http://www.yp.com/jobs/?zip=">&nbsp;&nbsp;Jobs&nbsp;&nbsp;</a></li>
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-    
-
-    
-    
-      <li><a href="http://www.yp.com/services/?zip=">&nbsp;&nbsp;Services&nbsp;&nbsp;</a></li>
-      <li><img src="/assets/images/nav/caty/catyBtn_border.gif" alt="" width="2" height="28" border="0"></li>
-    
-    <li><a href="http://www.yp.com/browse?zip=&amp;category=-1&amp;queryCatyName=All+Listings">&nbsp;&nbsp;More&nbsp;&nbsp;</a></li>
-    <li><img src="/assets/images/nav/caty/catyBtn_right.gif" alt="" width="6" height="28" border="0"></li>
-  </ul>
-</div> 
-</td>
-      </tr>
-
-  
-</tbody></table>
-<!-- End Navigator -->
-          <br clear="all">
-          <br clear="all">
-      <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
-      <tbody><tr>
-      <td>
-          <table width="800" cellspacing="0" cellpadding="0" border="0" class="font_standard" align="center">
-            <tbody><tr>
-              <td class="font_larger">&nbsp;&nbsp;<strong>LiveDeal Privacy Policy</strong></td>
-            </tr>
-            <tr> 
-              <!-- begin body area -->
-              <td style="border:1px solid #FFCC33; border-top:2px solid #FFCC33; padding:8px">
-
-                <table width="675" border="0" cellspacing="0" cellpadding="0" class="font_standard">
-  <tbody><tr>
-    <td>
-    
-		<a href="http://www.truste.org/ivalidate.php?url=www.livedeal.com&amp;sealid=101" target="_blank"><img src="/assets/images/clicksealwhitebckgrnd.gif" alt="TRUSTe (click to verify)" border="0" align="right"></a>
-		<p> LiveDeal takes your privacy seriously. We utilize safe, secure technology to protect your personally identifiable information. Please read the following to learn more about our Privacy Policy and how we use and protect your personal information. </p>
-		<p> <strong>Overview</strong> </p>
-		<p style="margin-left:10px"> This Privacy Policy describes how LiveDeal treats the personal information that LiveDeal collects and receives through its web site. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that LiveDeal does not own or control or to people that LiveDeal does not employ or manage. </p>
-		<p style="margin-left:10px"> By your use of the LiveDeal web site, you expressly consent to our disclosure and use of your personal information as described in this Privacy Policy. </p>
-		<p style="margin-left:10px"> We reserve the right to modify this Privacy Policy at any time, and will notify you of any material changes by posting a notice on the "General Announcements" section of the Community page of our web site. In addition, we may notify you directly (via email) of such changes. </p>
-		<p style="margin-left:10px"> We last updated our Privacy Policy on February 20, 2008. </p>
-		<p> <strong>1. A Special Note About Children</strong> </p>
-		<p style="margin-left:10px"> Children (persons under the age of 18) are not eligible to use the web site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may use the web site only in conjunction with and under the supervision of a parent or legal guardian. </p>
-		<p> <strong>2. Information Collection and Use</strong> </p>
-		<p style="margin-left:10px"> LiveDeal collects personal information from our users at several different points on our web site. This includes when you register with LiveDeal and when you conduct certain activities on the web site. </p>
-		<p style="margin-left:10px"> When you register, we ask for information such as your name, address, telephone number, email address, city, state and zip code. We may also ask you for credit card information to enable us to bill you fees for our services. Once you register with LiveDeal and login to our services, you are not anonymous to us. However, you can browse our web site without telling us who you are or revealing personal information about yourself. </p>
-		<p style="margin-left:10px"> When you wish to contact a seller regarding an item listed on our web site, we ask you for your email address and you may also volunteer to provide your telephone number. In addition, each member may provide information about the buyers with whom they deal (including the email address, and feedback regarding the other member's&nbsp;performance during the transaction). Finally, we may also collect the Internet Protocol (IP) address and other information regarding transactions in which you participate (either as a buyer or seller) through our web site. </p>
-		<p style="margin-left:10px"> If you elect to use our referral service to inform a friend about our web site, we ask you for the friend's name and email address. We will automatically send the friend an email inviting him or her to visit our web site. The referral message will be sent to you friend’s email address one time, and will not be stored or used for any other purpose. </p>
-		<p style="margin-left:10px"> When you leave a testimonial, we ask for your name, zip, email and phone number. This testimonial is displayed on our website with your name and the State from which you post the testimonial. No other information is publicly displayed with the testimonial. If you use the testimonial feature on this site, you should be aware that any personally identifiable information you submit within the body of the testimonial can be read, collected, or used by other users, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in the body of the testimonials.</p>
-		<p style="margin-left:10px"> We use the information that we collect to improve product offerings, fulfill your requests, bill you for services, customize the web site's content and layout, develop feedback ratings, contact you, and for marketing activities and statistical analysis. </p>
-		<p style="margin-left:10px"> LiveDeal automatically receives and records information on our server logs from your browser, including your IP address, LiveDeal cookies information, and the page you request. Our collection and use of such information is further described below. </p>
-		<p style="margin-left:10px"> We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp. </p>
-		<p> <strong>3. Information Sharing and Disclosure</strong> </p>
-		<p style="margin-left:10px"> LiveDeal is the sole owner of the information collected on <a href="http://www.livedeal.com/index.jsp"> www.livedeal.com</a>. We will not rent, sell or share your personal information with anyone except under the following circumstances: </p>
-		<ul>
-		  <li> Other visitors to our web site may view your member ID, feedback rating, city, region and items or messages that you have posted on our web site. </li>
-		  <li> In order to complete a transaction, the buyer and seller will communicate directly. To enable such communications, we will disclose a buyer's email address and (where the buyer has chosen to provide such information) telephone number to the seller. </li>
-		  <li> We provide information about our users to trusted partners <strong> (such as credit card processor)</strong> who work on our behalf pursuant to confidentiality agreements.&nbsp; Pursuant to the terms of their agreements, these companies do not have any independent right to share or use such information. </li>
-		  <li> We may disclose user information in response to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims. </li>
-		  <li> We may disclose user information when we believe such disclosure is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our User Agreement, or as otherwise required by law. </li>
-		  <li> We may transfer information about you if we are acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy. </li>
-		</ul>
-		<p style="margin-left:10px"> Of course, once you provide personal information to a buyer or seller on our web site, LiveDeal has no control over how your information is used or shared by that individual. You should discuss any privacy concerns you may have with any individual you meet through our web site, as the only protection you will have is whatever terms you agree to directly with this individual. </p>
-		<p style="margin-left:10px"> On account of the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. </p>
-		<p> <strong>4. Cookies</strong> </p>
-		<p style="margin-left:10px"> Some of our business partners (e.g., tracking utility agents, advertisers) use cookies on our site.&nbsp; We have no access to or control over these cookies. </p>
-		<p style="margin-left:10px"> This privacy statement covers the use of cookies by LiveDeal, Inc. www.livedeal.com only and does not cover the use of cookies by any advertisers. </p>
-		<p style="margin-left:10px"> LiveDeal may set and access LiveDeal "cookies" on your computer. A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie does not link to any personally identifiable information while on our web site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. </p>
-		<p style="margin-left:10px"> Cookies were implemented to allow user-side customization of web site information. Cookie related information is used by LiveDeal to facilitate the user's transactions and to improve LiveDeal's service offering to better match the user's needs. </p>
-		<p> <strong>5. Log Files</strong> </p>
-		<p style="margin-left:10px"> Like most standard web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the web site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. </p>
-		<p> <strong>6. Your Ability to Edit and Deactivate Your Account Information and Preferences</strong> </p>
-		<p style="margin-left:10px"> You can edit your LiveDeal account information by going to the My LiveDeal page. There, you may also opt-out of receiving marketing or promotional-related emails. However, we reserve the right to send you communications necessary for the functioning of the LiveDeal systaem. You may not opt out of System and Account Information emails that are necessary to provide our services.</p>
-		<p style="margin-left:10px"> Upon your request, we will deactivate your account, contact information, billing information and any financial information from our active databases. To make this request, email <img src="/assets/images/email/privacy.gif" border="0">. Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our User Agreement and applicable law. </p>
-		<p style="margin-left:10px"> We will retain in our files some personal information you have requested to edit or remove to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will be deactivated from public and user viewing and will only be available to select LiveDeal personnel for the limited purposes described above. </p>
-		<p> <strong>7. Confidentiality and Security</strong> </p>
-		<p style="margin-left:10px"> Your personal information is stored on LiveDeal's servers located in the United States . We use physical, procedural and technical safeguards to protect that information against loss or theft as well as unauthorized access and disclosure. Certain information is password-protected. Likewise, in certain areas, LiveDeal uses VeriSign-certified industry-standard SSL-encryption and network firewalls to protect data transmissions and storage. Finally, all of our employees are kept up-to-date on our security and privacy practices. </p>
-		<p> <strong>8. Your Responsibilities</strong> </p>
-		<p style="margin-left:10px"> We go to great lengths to protect all of your information on our web site. In order to help us maintain the security of your personal information, we ask that you not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password. Please contact us if you have any questions. </p>
-		<p style="margin-left:10px"> Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, testimonials, through email, or in chat areas - that information can be collected and used by others. By disclosing personal information online, you may receive unsolicited communication from other parties in return. Therefore, you should exercise caution and common sense in such disclosures.</p>
-		<p> <strong>9. Privacy Program &nbsp;</strong> </p>
-		<p style="margin-left:10px"> LiveDeal, Inc. is a licensee of the TRUSTe Privacy Program.&nbsp; TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.&nbsp; This privacy statement covers the site www.livedeal.com.&nbsp; Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUST e. </p>
-		<p style="margin-left:10px"> If you have questions or concerns regarding this statement, you should first contact Steve Harmon at 408-855-9988.&nbsp; If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at TRUSTe WATCHDOG LINK <strong> (</strong><strong><a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>)</strong><strong> .</strong> &nbsp; TRUSTe will then serve as a liaison with us to resolve your concerns.</p>
-		<p> <strong>10. Links to Other Sites</strong> </p>
-		<p style="margin-left:10px"> This Web site contains links to other sites that are not owned or controlled byLiveDeal, Inc. Please be aware that we, LiveDeal, Inc. are not responsible for the privacy practices of such other sites.&nbsp;</p>
-		<p style="margin-left:10px"> We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.&nbsp; LiveDeal sellers accepting PayPal payments, please read PayPal’s policy, click here. LiveDeal affiliates, please read terms, click here. </p>
-		<p style="margin-left:10px"> This privacy statement applies only to information collected by this Web site.</p>
-		<p style="margin-left:10px"> If you have questions or suggestions regarding our Privacy Policy and practices, please contact us at: </p>
-		<p style="margin-left:10px"> <strong>LiveDeal, Inc.</strong> <br>
-		  Customer Care - Privacy Policy Issues<br>
-		  2550 Walsh Avenue , Suite A<br>
-		  Santa Clara , California 95051<br>
-		  <img src="/assets/images/email/privacy.gif" border="0"><br>
-		  (408) 855-9988</p>
-    
-    </td>
-  </tr>
-</tbody></table>
-
-
-                <br clear="all">
-
-            </td>
-            </tr>
-          </tbody></table>
-          <!-- end table for main content -->
-          
-
-
-
-
-
-
-
-
-<br clear="all"><br clear="all">
-<!-- begin global footer -->
-<center>
-<div class="footerBox">
-<h1>
-  
-        <!-- Begin DART advertisement --> 
-        
-
-
-
-
-
-
-
-
-
-
-
-    	
-      
-      
-      
-      
-    			<table border="0" cellspacing="0" cellpadding="0" width="740">
-          <tbody><tr>
-					    <td>
-			    			<iframe src="/advertise/show_ad.jsp?position=25&amp;browse=&amp;id=&amp;query=&amp;idtrail=-1&amp;nametrail=null&amp;time=1220839939205" width="740" height="100" border="0" frameborder="0" scrolling="no" align="center">
-								</iframe>
-							</td>
-  				</tr>
-  				</tbody></table>
-          
-          
-      
-          
-					<!-- <br clear="all">-->
-			
-        <!-- End DART advertisement -->
-        <br clear="all">
-  
-</h1>
-
-  <h3>
-    <!-- first row -->
-       <a href="http://www.yp.com/about/fees.jsp">Fee Policy</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-       
-       <a href="https://secure.livedeal.com/register/index.jsp?serverName=http://www.yp.com">Register</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-       <a href="http://www.yp.com/about/feedback.jsp">Feedback &amp; Suggestions</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-       <a href="http://www.yp.com/about/security.jsp">Security</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-       <a href="http://www.yp.com/support/index.jsp">Help</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-       
-
-
-
-
-
-
-
-
-        <script type="text/javascript">
-           document.write('<a href="javascript:LD_openWindow(\'http://server.iad.liveperson.net/hc/s-86637996/cmd/kbresource/kb-6914868228322089627/escalate!PAGETYPE\', \'knowledgebase\', \'height=600,width=700,toolbar=yes,menubar=yes,status=yes,scrollbars=yes,location=yes,resizable=yes,top=50,left=50,screenx=50,screeny=50\');">Support</a>') 
-        </script><a href="javascript:LD_openWindow('http://server.iad.liveperson.net/hc/s-86637996/cmd/kbresource/kb-6914868228322089627/escalate!PAGETYPE', 'knowledgebase', 'height=600,width=700,toolbar=yes,menubar=yes,status=yes,scrollbars=yes,location=yes,resizable=yes,top=50,left=50,screenx=50,screeny=50');">Support</a>
-        <noscript>
-           <a href="http://server.iad.liveperson.net/hc/s-86637996/cmd/kbresource/kb-6914868228322089627/escalate!PAGETYPE">Support</a>
-        </noscript>
-
+<script src="http://i2.ypcdn.com/radiant/radiant_assets_25268_omniture.js" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+// <!--
+omniture.set().callPage();
+// -->
+</script>
+<div id="header">
+	
+<div class="container">
+		<a href="/"><img id="logo" src="http://i2.ypcdn.com/radiant/radiant_assets_126957_yp_corp_newlogo.png" alt="YP"></a>
+		
+		<nav id="headerNav">
+
+		
+		    
+		    <span class="about navItem">
+			<a href="/about/">About</a>
+		    	<span class="headerNavMenu">
+		    		
+					<a href="/about/company-overview/" class="company-overview">Company Overview</a>
+		    		
+					<a href="/about/executive-team/" class="executive-team">Executive Team</a>
+		    		
+					<a href="/about/contact-us/" class="contact-us">Contact Us</a>
+		    		
+					<a href="/about/privacy-policy/" class="privacy-policy">Privacy Policy</a>
+		    		
+		    	</span>
+		    </span>
+		    
+		    <span class="news navItem">
+			<a href="/news/">News</a>
+		    	<span class="headerNavMenu">
+		    		
+					<a href="/news/press-and-media/" class="press-and-media">Press and Media</a>
+		    		
+					<a href="/news/events/" class="events">Events</a>
+		    		
+		    	</span>
+		    </span>
+		    
+		    <span class="products navItem">
+			<a href="/products/">Products</a>
+		    	<span class="headerNavMenu">
+		    		
+					<a href="/products/consumers/" class="consumers">Consumers</a>
+		    		
+					<a href="/products/advertisers/" class="advertisers">Advertisers</a>
+		    		
+					<a href="/products/publishers/" class="publishers">Publishers</a>
+		    		
+					<a href="/products/developers/" class="developers">Developers</a>
+		    		
+		    	</span>
+		    </span>
+		    
+		    <span class="insights navItem">
+			<a href="/insights/">Insights</a>
+		    	<span class="headerNavMenu">
+		    		
+					<a href="/insights/research-and-reports/" class="research-and-reports">Research and Reports</a>
+		    		
+					<a href="/insights/white-papers/" class="white-papers">White Papers</a>
+		    		
+					<a href="/insights/case-studies/" class="case-studies">Case Studies</a>
+		    		
+					<a href="/insights/webinars/" class="webinars">Webinars</a>
+		    		
+		    	</span>
+		    </span>
+		    
+		    <span class="home navItem">
+			<a href="/home/">Home</a>
+		    	<span class="headerNavMenu">
+		    		
+		    	</span>
+		    </span>
+		    
+		    <span class="asset-files navItem">
+			<a href="/asset-files/">asset-files</a>
+		    	<span class="headerNavMenu">
+		    		
+					<a href="/asset-files/pie-htc/" class="pie-htc">PIE.htc</a>
+		    		
+					<a href="/asset-files/border-radius-htc/" class="border-radius-htc">border-radius.htc</a>
+		    		
+					<a href="/asset-files/local-insight-pdf/" class="local-insight-pdf">local-insight-pdf</a>
+		    		
+					<a href="/asset-files/ltie9.css/" class="ltie9.css">ltie9.css</a>
+		    		
+		    	</span>
+		    </span>
+		    
+					
+<span class="careers navItem"><a href="http://jobs.yp.com/?utm_source=careersite." target="_blank">Careers</a></span>		
+<span class="yp navItem"><a href="http://yp.com" target="_blank">YP.com</a></span>	
+		</nav><!-- end headerNav -->
+
+	</div><!-- end container -->
+	
+</div><!-- end header -->
+<div id="main"><div id="main-inner">
+	<div class="container">
+		
+
+		
+			<h2>About</h2>
+		
+		
+		<div id="primary">
+			<ul id="subnav">
+
+				
+				
+					
+						
+							<li class="company-overview">
+								
+								<a href="/about/company-overview/">Company Overview</a>
+
+							</li>
+						
+							<li class="executive-team">
+								
+								<a href="/about/executive-team/">Executive Team</a>
+
+							</li>
+						
+							<li class="contact-us">
+								
+								<a href="/about/contact-us/">Contact Us</a>
+
+							</li>
+						
+							<li class="privacy-policy">
+								<a href="/about/privacy-policy/" class="subActive">[ Privacy Policy ]</a>
+								
+
+							</li>
+						
+					
+				
+	
+			</ul><!-- end subnav -->
+			<div id="interiorContent">
+				
+					<div class="sidebar">
+
+
+						<div class="top"></div><div class="inner"><div id="6e178a8b-cf94-4d72-817a-aac2669328d7"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/YP-Texas-Region-Yellow-Pages,-LLC/asc?rid=6e178a8b-cf94-4d72-817a-aac2669328d7"></script><a href="//privacy.truste.com/privacy-seal/YP-Texas-Region-Yellow-Pages,-LLC/validation?rid=56c7b77a-0ba1-4f9c-ac84-199a09dc409f" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/YP-Texas-Region-Yellow-Pages,-LLC/seal?rid=7d5164fa-7eee-433e-85bd-f2f0c3908dee" alt="TRUSTe online privacy certification"></a></div>
 <br>
-              
-    <!-- second row -->
-
-
-        
-        <a href="http://info.livedeal.com/en_US/advertise/">Advertise Here</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-        <a href="http://info.livedeal.com/en_US/partnership/">Business Development/Partners</a><br>
-
-    <!-- third row -->
-        
-        <a href="http://investor.livedeal.com/">Investor Relations</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-        <a href="http://www.yp.com/about/index.jsp">About LiveDeal</a>
-
-		&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-        <a href="http://info.livedeal.com/en_US/aboutLD/newsandpress.html">News / Press</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-        <a href="http://www.livedeal.com/about/careers.jsp">Careers</a>&nbsp;&nbsp;<span class="text">|</span>&nbsp;
-        <a href="http://www.livedeal.com/about/contact.jsp">Contact Us</a>
-        
-  </h3>
-
 <p>
-      
-         Copyright © 2003-2008 LiveDeal, Inc. All rights reserved.
-      
-       <br clear="all">
-       Designated brands and trademarks are the property of their respective owners.<br clear="all">
-          Use of this web site constitutes acceptance of the LiveDeal 
-
-        <a href="http://www.yp.com/about/agreement.jsp">User Agreement</a>, 
-        <a href="http://www.yp.com/about/privacy.jsp">Privacy Policy</a>             
-        &amp; <a href="/about/copyright_policy.jsp">Copyright Policy</a>.            
- 
+YP has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information while on the sites that link to this privacy policy. The TRUSTe program covers only information that is collected through websites that link to this privacy policy and listed on our TRUSTe validation page, but does not cover at this time information that may be collected through our mobile applications or mobile websites or behind the services login while on www.buzz.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 866 570 8863. If you are not satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">here</a>. 
+</p></div>
+						
+						
+					</div>
+				
+					<div id="copyColumn">
+				
+					
+						
+					
+						
+							<h3>YP Privacy Policy</h3>
+						
+					
+						
+					
+						
+					
+						
+				<p>
+<strong><a href="#summary">SUMMARY</a></strong><br>
+<strong><a href="#whatinfo">WHAT INFORMATION DO WE COLLECT?</a> </strong><br>
+<strong><a href="#howuse">HOW DO WE USE INFORMATION?</a> </strong><br>
+<strong><a href="#howcollect">HOW DO WE COLLECT INFORMATION FROM YOU?</a></strong><br>
+<strong><a href="#withwhom">WITH WHOM DO WE SHARE INFORMATION?</a></strong><br>
+<strong><a href="#whatchoices">WHAT PRIVACY CHOICES DO YOU HAVE?</a></strong><br>
+<strong><a href="#howsecure">HOW DO WE SECURE INFORMATION?</a></strong><br>
+<strong><a href="#additional">SOME ADDITIONAL INFORMATION.</a></strong><br>
+--------------------------
 </p>
-<p>
+<a name="summary"></a>
+<p><strong>SUMMARY</strong></p>
 
-  <!-- begin Verisign & TRUSTe Logos -->
-      <table align="center" cellspacing="0" cellpadding="0" border="0">
-        <tbody><tr align="center" valign="middle"> 
+<p>This policy describes how YP collects, uses, shares, and secures information on our owned and operated websites, mobile applications and other properties.  Although you should read through the entire policy for complete information, the following provides a summary of some of the most important aspects of our privacy practices:
+</p><ul>
 
-          <td valign="middle" align="right"><a href="javascript:popUp('http://www.bbbonline.org/cks.asp?id=104081911492745936')"><img src="/assets/images/BBBSeal.gif" alt="BBBOnLine Reliability" width="113" height="40" border="0"></a>&nbsp;&nbsp;</td>
-          <td valign="middle" align="center">&nbsp;&nbsp;<a href="javascript:popUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=secure.livedeal.com&amp;lang=en')"><img src="/assets/images/getseal.gif" alt="VeriSign Secure Site: Click To Verify" width="117" height="86" border="0"></a>&nbsp;&nbsp;</td>
+<li>We use your personal information to provide you with products, services, and information.</li>
 
-          <td valign="middle" align="left">&nbsp;&nbsp;<a href="http://www.yp.com/about/privacy.jsp"><img src="/assets/images/finalmark.gif" alt="TRUSTe logo (click for LiveDeal privacy policy)" border="0"></a></td>
-        </tr>
-      </tbody></table>
+<li>We may share your personal information with third parties in some situations, such as if you decide to communicate with a company that advertises through our application.</li>
 
+<li>We are committed to working with you to reach the right balance of what information we collect, use, and share, by providing you with ways to control information that we collect, through our opt-out mechanisms.</li>
+
+<li>We take reasonable measures to secure your sensitive personal information, but we cannot promise, and you should not expect, that your sensitive personal information will remain secure in all circumstances.</li></ul><p></p>
+<a name="whatinfo"></a>
+<p><strong>WHAT INFORMATION DO WE COLLECT?</strong></p>
+
+<p>When we use the term "information" we are referring to both personal information and non-personal information that we collect about you.</p>
+
+<p>"Personal information" refers to information that personally identifies you, or can reasonably be linked to you by us.  Personal information can either be "sensitive" or "non-sensitive."</p>  
+
+<p>"Sensitive personal information" refers to information that is generally considered confidential such as your financial account number, billing information, social security number, and precise location.</p>  
+
+<p>"Non-sensitive personal information" refers to information that is generally not considered confidential such as your name, date of birth, mail or email address, telephone number, friends' name or email address if you choose to refer them to us, general geographic information (e.g., your city or state), account preferences, and business information.</p>
+
+<p>"Non-personal information" refers to information that does not specifically identify you.</p> 
+
+<a name="howuse"></a>
+<p><strong>HOW DO WE USE INFORMATION?</strong></p>
+
+<p>Our primary purpose in collecting information about you is to provide you with products, services, information, and advertisements that match your interests and preferences.  For example, we may use this information to fulfill your order, respond to your inquiries, administer your account, send marketing, assess your needs and interests in order to better tailor offers and/or advertising, improve our website and marketing, conduct research, display content based upon your interests, allow you to search information on our site, and/or list you in our search and directory services.</p>
+
+<a name="howcollect"></a>
+<p><strong>HOW DO WE COLLECT INFORMATION FROM YOU?</strong></p>
+
+<p>We collect information from you by asking that you provide it to us on-line, through a mobile application or via other means by which we communicate with you.  This may include, for example, your name, address, email address or telephone number.</p>
+
+<p>We may also collect information from you automatically.  For instance, we, like many websites and applications, automatically collect information including the computer you use, the type of browser and operating system that you use, the webpages you view, the time and duration of your visits, the search queries that you enter, and how you interact with advertising.  Among other things, we use the following technologies to automatically collect information:
+</p><ul>
+
+<li>"Cookies" are small data files placed on your computer by the websites you visit and the emails you read and can be used to help recognize you when you return to a website, or when you visit other sites.  We, or third party service providers, may use cookies to, among other things, measure activity, personalize your experience, remember your viewing preferences, or track your status or progress when accessing our site.  For some of these purposes our cookies may be tied to personal information. If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser's help file directions. If your browser is set to reject cookies or you manually delete cookies, you may have trouble accessing and using some of the pages and features that are currently on our website, or that we may put on our website in the future.  We do not operate the cookies or tracking technology used by our third party service providers.</li>
+<li>"Unique Identifiers" are unique strings of characters that are used to identify you, your computer, or your mobile device.  Such identifiers may be preset on your computer or mobile device.  We may use unique identifiers to recognize you when you visit our sites or use our mobile applications.</li>
+<li>"Local Shared Objects," "LSO's," or "Flash Cookies" are data files similar to cookies, except that they can store more complex data.  These are used to remember settings, preferences, and usage, particularly for video, interactive gaming, and other similar services.  Cookie management tools provided by your browser will not remove them. To learn how to manage privacy and storage settings for LSO's or Flash Cookies click <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="_blank">here</a>.</li>
+<li>"Telephone Caller ID" refers to information automatically transmitted about you when you call someone.  If you call a telephone number that we have provided to you, your caller ID may be recorded.  Most telephone providers will, upon request, block your caller ID.  Such services may not always be effective if you choose to call a pay-per-call (900) or toll-free number.</li>
+<li>"Web beacons" or "clear pixels" are small graphic images on a Web page or in an e-mail that can be used for such things as recording the pages and advertisements clicked on by users, or tracking the performance of e-mail marketing campaigns.</li> 
+<li>"A "web server log" is a record of activity created by the computer that delivers the webpages you request to your browser. For example, a web server log may record the search term you entered or the link you clicked to bring you the webpage. The Web server log also may record information about your browser, such as your IP address and the cookies set on your browser by the server.</li>
+<li>A "widget" is a small program or application that can be embedded in a web page. Widgets can provide real-time information, such as stock quotes or weather reports, or other functionality, such as the "Share This" button. Widgets are often provided by a third party, and may allow that third party to collect data about users viewing that page. We also use Social Media Features such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature  to function properly.</li>
+<li>You can log in to our site using "sign-in services" such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us, such as your name and email address to pre-populate our sign up form, or to post information to your account.</li> 
+<li>"Geo-location technologies" refers to technologies that permit us to determine your location.  We may ask you to manually provide precise location information on our website, or to enable your mobile device to send us precise location information.  We may also automatically use information from your web server or computer to determine general location information, such as the city in which you live.</li></ul><p></p>
+<p>In addition to information that we collect from you, we may collect information about you from third parties for purposes such as ad targeting, optimization and reporting.</p>
+
+<a name="withwhom"></a>
+<p><strong>WITH WHOM DO WE SHARE INFORMATION?</strong></p>
+
+<p>We may share information about you with third parties in certain circumstances including in the following situations.</p> 
+
+<p><u>Advertisers</u>.  If you decide to communicate with a company that advertises with us, for example by calling a telephone number or clicking a link that we provide for that advertiser, we may share non-sensitive personal information with the advertiser, including non-sensitive personal information that might permit the advertiser to contact you.</p>
+
+<p><u>Advertising Networks</u>.  A third party may use technology (e.g., a cookie) to collect non-sensitive personal information about your use of our website or mobile applications so that they can provide advertising about products and services tailored to your interests.  If you would like to opt-out of having third party advertising networks use information that YP has shared with them to target advertising to you please see the instructions in the section titled "What Privacy Choices Do I Have" below.</p>
+
+<p><u>Affiliates</u>.  We may share all types of information with the YP family of companies, including all companies doing business under either the YP<span class="char-reg">®</span>  brand, KEEN<span class="char-reg">®</span>  brand or ANYWHO.COM<span class="char-reg">®</span>  brand in the ordinary course of business, for the purpose of fulfilling the services that we provide to our customers and to customize your experience.</p>
+
+<p><u>Blogs, Online Postings, and Testimonials</u>.  We may share with the public any information that you publish in conjunction with an on-line review, comment, blog, or message board.  This may include non-sensitive personal information that identifies you.</p>
+
+<p><u>Business Transition</u>.  In the event that we, or part, or all, of our assets are acquired, we may share all types of information with the acquiring company.  You will be notified via email or a notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
+
+<p><u>In-line Applications &amp; Tools</u>.  We may offer applications, tools, or widgets on our website or in our applications that indicate that they are "powered by" a third party.  If you use those applications and tools we may share non-sensitive personal information and any additional information you provide as part of that use with that third party.  The third party's use of that information is subject to their privacy policy.</p>
+
+<p><u>Law Enforcement</u>.  We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we believe may aid a law enforcement investigation.  In addition, we reserve the right to release all types of information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of information about you may protect the rights, property or safety of us or another person.</p>
+
+<p><u>Legal Processes</u>.  We may share all types of information with others as required by, or permitted by, law.  This may include sharing all types of information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.</p>
+
+<p><u>Service Providers</u>.  We share all types of information with people and companies that provide us with services.  These services may include, among other things, helping us provide products or services that you request, create or maintain our databases, research or analyze the people who use our websites, and/or process payment card information.  Unless you consent, we do not permit our service providers to market their own products or services to you directly.  We also require our service providers to agree to take reasonable steps to keep the personal information that we provide to them secure. In some instances, we may maintain the look and feel of our site while you are on our service provider's site.  You should look for the "privacy policy" link of any page on which you are submitting information to determine if this privacy policy, or another company's privacy policy, governs.</p>
+
+<p><u>Other Third Parties (without your consent)</u>.  We may share non-personal information with other third parties that are not described above.  When we do so we endeavor to either aggregate or de-identify the information so that a third party would not be likely to link data to you, your computer, or your device.  Aggregation means that we combine the non-personal information of numerous people together so that the data does not relate to any one person.  De-identify means that we remove or change (e.g., hash) certain pieces of information that might be used to link data to a particular person.</p>
+
+<p><u>Other Third Parties (with your consent)</u>.  We may share any information, including sensitive personal information, with other third parties that are not described above if you give us consent to do so.</p>
+<a name="howsecure"></a>
+<p><strong>HOW DO WE SECURE INFORMATION?</strong></p>
+
+<p>We take our commitment to securing personal information in our possession seriously.  When you provide your credit card number or a social security number we protect your information during transmission and storage through the use of encryption.</p>
+
+<p>For other types of information, we use reasonable measures to help prevent the information from becoming disclosed to individuals who are not described in this policy. It is important for you to protect against unauthorized access to your password and to your computer. No security measures are perfect and we cannot promise that the information about you will remain secure in all circumstances.</p>
+
+<a name="whatchoices"></a>
+<p><strong>WHAT PRIVACY CHOICES DO YOU HAVE?</strong></p>
+<p>We provide you with the following information management choices:</p>
+<p><span style="text-decoration:underline;">Individual Directory Listings</span>. If you do not wish to be listed on YellowPages Find A Person or on <a href="http://anywho.com/">ANYWHO.COM</a>® you can click <a href="http://yellowpagescom.intelius.com/optout.php">here</a>.</p>
+<p><span style="text-decoration:underline;">Revising Your Information</span>. If your personal information changes, or if you no longer desire our services, you may correct, update, or delete information about you, or ask that it be removed from public forums such as directories, blogs, or testimonials by logging in and viewing your user profile (e.g., the "My Account" link on <a href="http://yp.com/">YP.com</a>) or by contacting us at the email address, telephone number, or mailing address indicated below. We attempt to respond to your requests within 30 days. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p><span style="text-decoration:underline;">Behaviorally Targeted Advertising</span>. Behaviorally targeted advertising refers to the use of information about you in order to provide advertising that is tailored to your interests. We participate in several types of behaviorally targeted advertising. If you would like to opt-out of receiving advertising that is tailored to you, you have the following options:</p>
+<ul>
+<li><span style="text-decoration:underline;">Advertising Provided by YP on YP Properties</span> If you would like to manage some of the information that YP uses about you to tailor the advertising that you see on the websites and mobile applications that we own or operate to your interests, or if you would like to opt-out of YP using any personal information about you to tailor its advertising, you can do so by clicking <a href="http://preferences-mgr.truste.com/">here</a>. Note that if you are using an Apple device which uses iOS6, you will need to follow the instructions provided by Apple for opting out of using the Apple Advertising Identifier.</li>
+<li><span style="text-decoration:underline;">Advertising Provided by Other Companies Using Information Collected on our websites or Applications</span>. If you do not want third parties who collect information about your use of our website or applications to tailor any of the advertising that you see, you can opt-out at the <a href="http://adworks.att.com/adpreferences/">AT&amp;T AdWorks opt-out page</a>, the <a href="http://www.networkadvertising.org/choices/#completed">Network Advertising Initiative opt-out page</a> and/or the <a href="http://www.aboutads.info/choices/">Digital Advertising Alliance opt-out page</a>.</li>
+<li><span style="text-decoration:underline;">Advertising Provided by YP on Other Properties</span>. If you do not want YP to use personal information about you to tailor the advertising that you see on websites and mobile applications that we do not own (i.e., third parties' websites), you can opt-out <a href="http://www.yellowpages.com/about/legal/advertisingchoices">here</a>.</li>
+</ul>
+<p><span style="text-decoration:underline;">Do Not Track signal.</span> We treat the data of everyone who comes to our site in accordance with this privacy policy, whatever their Do Not Track setting. We give you choices about turning off tailored advertising, sharing your information with third parties, and receiving promotional offers. You can exercise your choices as described in this section of our privacy policy.</p>
+<p>We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is permitted by law.</p>
+
+<a name="additional"></a>
+<p><strong>SOME ADDITIONAL INFORMATION</strong>.</p> 
+
+<p><u>Other Websites</u>. This privacy policy does not apply to websites or applications offered by other companies or individuals, including products or sites that may be displayed in a search on our site.  We encourage you to read the privacy policies of any third party website before transmitting personal information.</p>
+
+<p><u>Other Contractual Relationships</u>. If you enter into a separate contractual relationship with us which requires, or contemplates, collecting, using, sharing, or securing information about you in a manner that is different than that which is described in this policy, the terms of that contract will apply.</p>
+
+<p><u>Referral Services</u>. If you choose our referral service to tell a friend about our site, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.</p>
+
+<p><u>Your California Privacy Rights</u>. Under California Civil Code sections 1798.83-1798.84, California residents who have an established business relationship with us are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: <strong>Attn: Privacy, 611 N. Brand Blvd., 5th floor Glendale, CA 91203</strong>.  Please allow 30 days for a response.</p>
+
+<p><u>Children</u>. Our site is intended for a general audience and we do not knowingly collect personal information from anyone under the age of 13.</p>
+
+<p><u>Changes To The Privacy Policy</u>.  We may update this privacy policy to reflect changes to our information practices. If we make any material changes to our policy, those changes will apply to information collected after the effective date listed, and we will notify you by placing a notice on our websites prior to the change becoming effective.  We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+
+<p><u>How Do We Communicate With You</u>.  If you have any questions or concerns regarding our privacy policy please contact us at:</p>
+
+<p>Email address: <strong>ypcsupport@yp.com</strong></p> 
+
+<p>Telephone number: <strong>866 570 8863</strong></p>
+
+<p>Mailing address: <strong>611 N. Brand Blvd. 5th Floor Glendale, CA. 91203</strong></p>
+
+<p>If we need, or are required, to contact you concerning any event that involves information about you we may do so by email, telephone, or mail.</p><p>  
+
+</p><p>Effective Date: February 8, 2013</p>
+
+<p>--------------------------
 </p>
-<p></p>
-</div>
-</center>
- 
+<a name="communications-policy"></a>
+<p><strong>COMMUNICATIONS POLICY</strong></p> 
 
+<p>YP may communicate with you in a variety of different ways.  The following describes some of your options concerning how we communicate with you:</p>
 
-<!-- Begin DART advertisement -->
+<p><u>Email Marketing From YP</u>  If you do not want to receive emails from us about products or services that we offer, you can "opt-out" from receiving such emails by clicking on the "unsubscribe" link provided at the bottom of any marketing email that you receive.  Please note that if you choose to opt-out we may still send you non-marketing email.  For example, we may send you email about a specific product or service that you request, we may respond to a message from you, or we may send you email about the terms and conditions of our websites.  If you decide at a later time that you would like to receive commercial emails from us, you can re-add yourself to our communication list.</p>
 
+<p><u>Telephone Marketing From YP</u> If you do not want to receive telephone calls about products or services that we offer, you can "opt-out" from receiving most telephone marketing calls by visiting the national do not call registry at <a href="https://www.donotcall.gov/" target="_blank">https://www.donotcall.gov/</a></p>
 
+<p><u>Text Marketing From YP</u> If you do not want to receive text messages from us about products or services that we offer, you can "opt-out" from receiving such texts by text messaging the word <strong>STOP</strong> to <strong>97411</strong>.  Please note that text messaging charges by your carrier may apply to these types of communications. </p>
 
+					</div> <!-- end #copyColumn -->
+			</div>
+		</div><!-- end primary -->
+	</div><!-- end container -->	
+</div><!-- end main --></div><!-- end main-inner -->
+<div id="footer">
+	
+	<div id="footerContainer">
+	
+	<div class="container">
+		
+		<div id="sitemap">
 
-
-
-
-
-
-
-
-
-
-
-<!-- End DART advertisement -->
-
-<p>
-
-<script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/12275/slf.js" language="JavaScript"></script>
-
-
-<br clear="all">
-
-
-
-
-
-
-
-<br clear="all"><br clear="all">
-
-
-
-<!-- SiteCatalyst code version: H.5.
-Copyright 1997-2006 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" src="/assets/js/trk/en_US/s_code.js"></script>
-<script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-
-     var pageTitle = document.title
-     var PageTitle1 = pageTitle.replace(/[\n\r\t]/g,"")
-     var pageTitle98 = PageTitle1.substring(0,98)
-     var regExp = /[^a-zA-Z 0-9]+/gi
-
-s.hier1="Others"
-     //s.pageName= document.title
-     s.pageName= pageTitle98.replace(regExp, "")
-     s.prop5= document.title
-
-
-s.server="livedeal.com"
-s.prop13="Region not yet set"
-s.prop14="Region not yet set"
-s.prop15="Region not yet set"
-
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.5. -->
-
-<br clear="all">
-<!-- tracking.gif -->
 
     
-      
+    <ul class="about">
+    	<li class="title about"><a href="/about/">About</a></li>
+	    
+	    	<li class="company-overview"><a href="/about/company-overview/">Company Overview</a></li>
+	    
+	    	<li class="executive-team"><a href="/about/executive-team/">Executive Team</a></li>
+	    
+	    	<li class="contact-us"><a href="/about/contact-us/">Contact Us</a></li>
+	    
+	    	<li class="privacy-policy"><a href="/about/privacy-policy/">Privacy Policy</a></li>
+	    
+
+    </ul>
+    
+    <ul class="news">
+    	<li class="title news"><a href="/news/">News</a></li>
+	    
+	    	<li class="press-and-media"><a href="/news/press-and-media/">Press and Media</a></li>
+	    
+	    	<li class="events"><a href="/news/events/">Events</a></li>
+	    
+
+    </ul>
+    
+    <ul class="products">
+    	<li class="title products"><a href="/products/">Products</a></li>
+	    
+	    	<li class="consumers"><a href="/products/consumers/">Consumers</a></li>
+	    
+	    	<li class="advertisers"><a href="/products/advertisers/">Advertisers</a></li>
+	    
+	    	<li class="publishers"><a href="/products/publishers/">Publishers</a></li>
+	    
+	    	<li class="developers"><a href="/products/developers/">Developers</a></li>
+	    
+
+    </ul>
+    
+    <ul class="insights">
+    	<li class="title insights"><a href="/insights/">Insights</a></li>
+	    
+	    	<li class="research-and-reports"><a href="/insights/research-and-reports/">Research and Reports</a></li>
+	    
+	    	<li class="white-papers"><a href="/insights/white-papers/">White Papers</a></li>
+	    
+	    	<li class="case-studies"><a href="/insights/case-studies/">Case Studies</a></li>
+	    
+	    	<li class="webinars"><a href="/insights/webinars/">Webinars</a></li>
+	    
+
+    </ul>
+    
+    <ul class="home">
+    	<li class="title home"><a href="/home/">Home</a></li>
+	    
+
+    </ul>
+    
+    <ul class="asset-files">
+    	<li class="title asset-files"><a href="/asset-files/">asset-files</a></li>
+	    
+	    	<li class="pie-htc"><a href="/asset-files/pie-htc/">PIE.htc</a></li>
+	    
+	    	<li class="border-radius-htc"><a href="/asset-files/border-radius-htc/">border-radius.htc</a></li>
+	    
+	    	<li class="local-insight-pdf"><a href="/asset-files/local-insight-pdf/">local-insight-pdf</a></li>
+	    
+	    	<li class="ltie9.css"><a href="/asset-files/ltie9.css/">ltie9.css</a></li>
+	    
+
+    </ul>
     
 
+			
+		</div><!-- end sitemap -->
+		
+		<div id="footerContent">
+			
+			<ul id="social">
+				
+				<li><a id="twitter" href="https://twitter.com/YP" target="_blank">Twitter</a></li>
+				<li><a id="facebook" href="https://www.facebook.com/YP" target="_blank">Facebook</a></li>
+				<li><a id="linkedin" href="http://www.linkedin.com/company/yp" target="_blank">LinkedIn</a></li>
+				
+			</ul><!-- end social -->
+			
+			<ul id="companyLinks">
+				
+				<li><a href="/about/privacy-policy/">Privacy Policy</a></li>
+				<li><a href="/news/press-and-media/">Press and Media</a></li>
+				<li><a href="http://jobs.yp.com/?utm_source=careersite" target="_blank">Careers</a></li>
+				<li class="last"><a href="/about/contact-us/">Contact Us</a></li>
+				
+			</ul><!-- end companyLinks -->
+			
+			<ul id="companyLinks2">
+                                <li><a href="http://www.yellowpages.com" target="_blank">YP.com</a></li>
+				<li class="last"><a href="http://www.adsolutions.yp.com/" target="_blank">YP Advertising Solutions</a></li>
+                               
+
+				
+			</ul><!-- end companyLinks2 -->
+			
+			<div class="clearfix"></div><!-- end clearfix -->
+			
+			<p class="copyright"><span>©2013 YP Intellectual Property, LLC.</span> All rights reserved. <br>YP, the YP logo and all other YP marks contained herein are trademarks of YP Intellectual Property LLC and/or YP affiliated companies. AT&amp;T, the AT&amp;T Logo and all AT&amp;T related marks are trademarks of AT&amp;T Inc. or AT&amp;T affiliated companies. All other marks contained herein are the property of their respective owners.</p>
+			
+		</div><!-- end footerContent -->
+		
+	</div><!-- end container -->
+	
+	</div><!-- end footerContainer -->
+	
+</div><!-- end footer -->
 
 
 
 
 
+  <!-- script defer src="http://i2.ypcdn.com/radiant/radiant_assets_34864_script.js"></script -->
+  <script type="text/javascript">/* Author: Roger Flanagan
+
+*/
+var oldTab;
+var autoPlayDelay = 5000;
+var currentSlideIndex = 1;
+var autoplay;
+var slideXpos;
+var currentBackground;
+var oldBackground;
+
+
+function refreshBackgrounds(selector) {
+  // Chrome shim to fix http://groups.google.com/a/chromium.org/group/chromium-bugs/browse_thread/thread/1b6a86d6d4cb8b04/739e937fa945a921
+  // Remove this once Chrome fixes its bug.
+  if (/chrome/.test(navigator.userAgent.toLowerCase())) {
+    $(selector).each(function() {
+      var $this = $(this);
+      if ($this.css("background-image")) {
+        var oldBackgroundImage = $this.css("background-image");
+        setTimeout(function() {
+          $this.css("background-image", oldBackgroundImage);
+        }, 1);
+      }
+    });
+  }
+}
+
+
+$(document).ready(function() {
+
+//change out reg and SM
+
+//var regex = new RegExp(String.fromCharCode(174), "g");
+//$('body').html($('body').html().replace(regex, '<span class="char-reg">'+String.fromCharCode(174)+'</span>')); 
+//regex = new RegExp(String.fromCharCode(8480)+' ', "g");
+//$('body').html($('body').html().replace(regex, '<span class="char-sm">'+String.fromCharCode(8480)+'</span>'));
+
+
+$(function() {
+    if (window.PIE) {
+        $('.headerNavMenu').each(function() {
+            PIE.attach(this);
+        });
+    }
+});
+
+
+	$(".heroContent").hide();
+	$("ul#heroTabs li").removeClass("active");
+	//$("ul#heroTabs li:first").not('.yp, .careers').addClass("active");
+	//$(".heroContent:first").show();
+         
+	
+	oldTab = $("");
+	$('#heroContainer').css({"background-color":oldTab.css('backgroundColor')});
+	
+	currentBackground = $('.background1');
+	$(currentBackground).css({"background-color":oldTab.css('backgroundColor')});
+	
+
+	$("ul#heroTabs li").mouseover(function() {
+		
+		clearInterval(autoplay);
+		autoplay = undefined;
+		moveSlide($(this));
+		return false;
+	});
+	
+	
+	var xpos = setSlideXpos();
+	
+	$(oldTab).parent().css({"marginLeft":xpos});
+	
+	$(window).resize(function(){
+		
+		var pos = setSlideXpos();
+		
+		$(oldTab).parent().css({"marginLeft":pos});
+		
+	});
+	moveSlide($('ul#heroTabs li:eq(0)'));
+	autoplay = setInterval(advanceSlide,autoPlayDelay);
+	
+});
+
+
+function setSlideXpos()
+{
+
+	var heroWidth = $("#hero").outerWidth(true)/2;
+	var slideXpos = heroWidth - 800; //HALF OF SLIDE WIDTH;
+	
+	 	if(slideXpos<-321)	
+		{
+			slideXpos = -321;
+		}
+		 
+	slideXpos = slideXpos +"px";
+	return slideXpos;
+}
+
+
+
+function advanceSlide(){
+		
+		if(currentSlideIndex == 5)
+		{
+			currentSlideIndex = 0;
+		}
+		
+		
+		moveSlide($('ul#heroTabs li:eq('+currentSlideIndex+')'));
+	
+		currentSlideIndex ++;
+};
+
+
+function moveSlide(heroTab){
+		
+		if($(heroTab).hasClass('active')){
+			return false;
+		}
+			
+		$("ul#heroTabs li").removeClass("active");
+		if(!$(heroTab).hasClass('yp')){
+			$(heroTab).addClass("active");
+		}
+		var activeTab = $(heroTab).find("a").attr("tab");
+
+		$(activeTab).show();
+		$(activeTab).parent().show();
+		$(oldTab).parent().css({'marginLeft':"0px"});
+		
+	//	$(oldTab).parent().hide();
+	
+		var slideXpos = setSlideXpos();
+		oldBackground = $(currentBackground);
+
+		
+		if($(currentBackground).is($('.background2')))
+		{
+			currentBackground = $('.background1');
+			
+		}else{
+			currentBackground = $('.background2');
+			
+		}
+		
+		
+		
+		$('#hero').css({"background-color":$(activeTab).css('backgroundColor')});
+		$(currentBackground).css({"background-color":$(activeTab).css('backgroundColor')});
+		$(currentBackground).show();
+	
+		var scrollSpeed = 700;
+		
+		if($(activeTab).parent().index() > $(oldTab).parent().index() || autoplay)
+		{
+			
+			if($(activeTab).parent().index() < $(oldTab).parent().index())
+			{
+				$(oldTab).parent().css({'marginLeft':"-3200px"});
+			  	$(oldTab).parent().stop().animate({"marginLeft":'-4800px'},scrollSpeed,function(){
+				$(this).hide();
+			
+				}); 
+	
+			}else
+			
+			{
+			
+				$(oldTab).parent().stop().animate({"marginLeft":'-1600px'},scrollSpeed,function(){
+				$(this).hide();
+			
+					});
+			}
+			
+			$(currentBackground).css({'marginLeft':$(currentBackground).outerWidth()});
+			$(activeTab).parent().css({'marginLeft':"1600px"});
+			$(activeTab + " .heroDesc").css({'marginLeft':"250px"});
+			
+			$(oldBackground).stop().animate({"marginLeft":'-'+$(currentBackground).outerWidth()+"px"},scrollSpeed,function(){
+				$(this).hide();
+			
+				});
+			$(currentBackground).stop().animate({'marginLeft':'0px'},scrollSpeed);
+			
+		
+		}else{
+		
+			$(currentBackground).css({'marginLeft':'-'+$(currentBackground).outerWidth()+"px"});
+			$(activeTab).parent().css({'marginLeft':"-1600px"});
+			$(activeTab + " .heroDesc").css({'marginLeft':"-250px"});
+			
+			$(oldBackground).stop().animate({"marginLeft":$(currentBackground).outerWidth()+'px'},scrollSpeed,function(){
+				$(this).hide();
+			
+			});
+			$(currentBackground).stop().animate({'marginLeft':'0px'},scrollSpeed,'swing');
+			$(oldTab).parent().stop().animate({"marginLeft":'1600px'},scrollSpeed,function(){
+				$(this).hide();
+			
+			});
+		}	 
+		
+		
+		
+		$(activeTab).parent().stop().animate({"marginLeft":slideXpos},scrollSpeed,'swing');
+			
+		$(activeTab + " .heroDesc").stop().animate({"marginLeft":"0px"},scrollSpeed+500,'swing');
+		
+		oldTab = $(activeTab);
+
+                refreshBackgrounds(".heroContent");
+                //refreshBackgrounds("*"); // but it'll be slow!
+		
+}
+
+
+//
+
+$(document).ready(function() {
+	$("#aboutLink").click(function(){
+		  $(this).css("border","none");
+		  $("#about").fadeIn("fast");
+		});
+});
+
+//
+
+$(document).mouseup(function (e)
+    {
+        var container = $("#about");
+   
+        if (container.has(e.target).length === 0)
+        {
+            container.hide();
+        }
+    });
+
+// End FHDC global.js
+
+$(document).ready(function(){
+
+	$("#archive div:not(.count-1-first) h5:first").addClass("active");
+	$("#archive div:not(.count-1-first)>ul:not(:first)").hide();
+
+
+	$("#archive h5").click(function(){
+	
+	  $(this).next("ul").slideToggle("slow")
+	  .siblings("ul:visible").slideUp("slow");
+	  $(this).toggleClass("active");
+	  $(this).siblings("h5").removeClass("active");
+	
+	});
+
+});
 
 
 
 
-<img src="/assets/images/tracking.gif?srcout=@otherpages&amp;time=19:12:19" border="0">
+//
+$(document).ready(function(){
+
+	$('#headerNav .navItem').not('.yp, .careers').hover(function(){
+		$(this).addClass('active');
+		
+		
+		
+		$(this).find('.headerNavMenu').show();
+	},function(){
+		$(this).removeClass('active');
+		$(this).find('.headerNavMenu').hide();
+		
+	});
+
+	/* Consumer sidebar */
+ 	$('.get-app').hide();
+  	$('.get-app-list').show();
+  	$('#get-app-select').change(function(){
+    		$('.get-app').hide();
+    		$("#get-app-select option:selected").each(function () {
+      			$('.get-app-'+$(this).val()).show();
+    		});
+  	});
+
+	/** */ 
+	if($("a#inlineLightBox").length != 0){
+		$("a#inlineLightBox").fancybox({
+			'hideOnContentClick': true,
+			'scrolling': 'no'
+		});
+	}
+
+	/* Pop the blog in a new window */ 
 
 
 
 
 
-      </p></td>  
-      </tr>
-      </tbody></table>
+});</script>
+
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203735h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203735h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035991" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035991&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
   
+<div id="fancybox-nonsense" style="display:none;">
+  <form id="register-form" action="http://pages.adv.att-mail.com/atti_opt-in_i/" method="post">
+  <fieldset class="info">
+    <p>
+      <label for="oiFirstName">Name</label>
+    </p>
+    <p class="infield">
+      <label for="oiFirstName">First Name</label>
+      <input type="text" id="oiFirstName" name="oiFirstName" maxlength="50">
+    </p>
+    <p class="infield">
+      <label for="oiLastName">Last Name</label>
+      <input type="text" id="oiLastName" name="oiLastName" maxlength="50">
+    </p>
+    <p>
+      <label for="oiEmail">Email</label>
+      <input type="text" id="oiEmail" name="oiEmail" maxlength="50">
+    </p>
+    <p>
+      <label for="oiCompany">Company</label>
+      <input type="text" id="oiCompany" name="oiCompany" maxlength="50">
+    </p>
+    <p>
+      <label for="oiSegment">Industry</label>
+      <select id="oiSegment" name="oiSegment">
+        <option value="">-- Please select --</option>
+        <option>Publisher</option>
+        <option>Developer</option>
+        <option>Brand/Advertiser</option>
+        <option>Advertising Agency</option>
+        <option>Press/Analyst</option>
+        <option>Other</option>
+      </select>
+    </p>
+  </fieldset>
+  <fieldset class="actions">
+    <p>
+      <input type="submit" name="Submit" value="Register">
+    </p>
+  </fieldset>
+  </form>
+</div>
+
 </body></html>
