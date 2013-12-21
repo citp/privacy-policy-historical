@@ -1,42 +1,68 @@
-<!--The following is the downloaded HTML source of the infinitelabs.com privacy policy that was archived on 2013-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616223821id_/http%3A//www.infinitelabs.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infinitelabs.com privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221123600id_/http%3A//infinitelabs.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 
+
 <!-- EXTERNAL FILES -->
+
 	<!-- Fav Icon & Apple Icon -->
-<link rel="shortcut icon" type="image/x-icon" href="http://www.infinitelabs.com/images/univ-layout/favicon.ico">
-<link rel="apple-touch-icon" href="http://www.infinitelabs.com/images/univ-layout/apple-icon.png">
+
+<link rel="shortcut icon" type="image/x-icon" href="http://infinitelabs.com/images/univ-layout/favicon.ico">
+
+<link rel="apple-touch-icon" href="http://infinitelabs.com/images/univ-layout/apple-icon.png">
+
+
 
 	<!-- Microformats -->
+
 <link rel="profile" href="http://microformats.org/profile/hcard">
 
+
+
 	<!-- Style Sheets -->
-<link rel="Stylesheet" type="text/css" href="http://www.infinitelabs.com/ext/smoothscroll/css/smoothDivScroll.css"><!-- Smooth Scroll -->
-<link rel="stylesheet" href="http://www.infinitelabs.com/ext/flexslider/flexslider.css" type="text/css" media="screen"><!-- Flexslider -->
+
+<link rel="Stylesheet" type="text/css" href="http://infinitelabs.com/ext/smoothscroll/css/smoothDivScroll.css"><!-- Smooth Scroll -->
+
+<link rel="stylesheet" href="http://infinitelabs.com/ext/flexslider/flexslider.css" type="text/css" media="screen"><!-- Flexslider -->
+
+<link rel="stylesheet" href="http://infinitelabs.com/forum/bb_default_style.css" type="text/css" media="screen">
+
 
 	<!-- jQuery Libraries -->
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=241759059191527"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script defer="" src="http://www.infinitelabs.com/ext/flexslider/jquery.flexslider.js"></script><!-- Flexslider -->
+
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=241759059191527"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<script defer="" src="http://infinitelabs.com/ext/script/jquery.js"></script>
+
+<script defer="" src="http://infinitelabs.com/ext/flexslider/jquery.flexslider.js"></script><!-- Flexslider -->
+
+
 
 	<!-- Calendar javaScript -->
-<script language="javascript" src="http://www.infinitelabs.com/ext/script/cal2.js"></script>
-<script language="javascript" src="http://www.infinitelabs.com/ext/script/cal_conf2.js"></script>
+
+<script language="javascript" src="http://infinitelabs.com/ext/script/cal2.js"></script>
+
+<script language="javascript" src="http://infinitelabs.com/ext/script/cal_conf2.js"></script>
+
+
 
 <!-- Universal Style Sheets & Scripts -->
-<link rel="stylesheet" href="http://www.infinitelabs.com/ext/css/forum.css" media="screen"><!-- Style Sheet -->   
-<link rel="stylesheet" href="http://www.infinitelabs.com/ext/css/screen.css" media="screen"><!-- Style Sheet --> 
-<link rel="stylesheet" href="http://www.infinitelabs.com/ext/css/print.css" media="print"><!-- Style Sheet --> 
-<script src="http://www.infinitelabs.com/ext/script/univ.js"></script><!-- Universal javaScript -->
+
+<link rel="stylesheet" href="http://infinitelabs.com/ext/css/forum.css" media="screen"><!-- Style Sheet -->   
+
+<link rel="stylesheet" href="http://infinitelabs.com/ext/css/screen.css" media="screen"><!-- Style Sheet --> 
+
+<link rel="stylesheet" href="http://infinitelabs.com/ext/css/print.css" media="print"><!-- Style Sheet --> 
+
+<script src="http://infinitelabs.com/ext/script/univ.js"></script><!-- Universal javaScript -->
+
 
 <script type="text/javascript">
-$(document).ready(function(){	
 
+$(window).load(function() {
 equalHeight($(".x_match_main"));
-
-equalHeight($(".x_cartline"));
-
-
+});
 
 
 function equalHeight(group) {
@@ -51,12 +77,82 @@ function equalHeight(group) {
 }
 
 
+$(document).ready(function(){	
+
+
+equalHeight($(".x_match_main"));
+
+equalHeight($(".x_cartline"));
+
+
+
+
+$(".subvids").click(function(){
+	$(".vids").css("display","none");
+		$.each($('.subvids'), function()  { 
+		var vcode = $(this).attr("id");
+		$("#vid_"+vcode).attr("src", "http://player.vimeo.com/video/"+vcode+"?autoplay=0");	
+		});
+	var main_vcode = $(this).attr("id");
+	$("#mainvid_"+main_vcode).css("display","block");
+	$("#vid_"+main_vcode).attr("src", "http://player.vimeo.com/video/"+main_vcode+"?autoplay=1");
+});
+
+
+
+$("#fitness_img").click(function(){
+	$("#fitness_sub").css("display","none");
+	$("#weight_sub").css("display","none");
+	$("#gain_sub").css("display","none");	
+	$("#fitness_sub").css("display","block");
+	equalHeight($(".x_match_main"));
+});
+$("#weight_img").click(function(){
+	$("#fitness_sub").css("display","none");
+	$("#weight_sub").css("display","none");
+	$("#gain_sub").css("display","none");	
+	$("#weight_sub").css("display","block");
+});
+$("#gain_img").click(function(){
+	$("#fitness_sub").css("display","none");
+	$("#weight_sub").css("display","none");
+	$("#gain_sub").css("display","none");	
+	$("#gain_sub").css("display","block");
+});
+
+
+
+
+
+$("#Other").click(function(){
+	$("#Training_drop").css("display","none");
+	$("#Nutrition_drop").css("display","none");
+	$("#Supplementation_drop").css("display","none");	
+	$("#Other_drop").css("display","block");
+});
+$("#Training").click(function(){
+	$("#Training_drop").css("display","block");
+	$("#Nutrition_drop").css("display","none");
+	$("#Supplementation_drop").css("display","none");	
+	$("#Other_drop").css("display","none");
+});
+$("#Nutrition").click(function(){
+	$("#Training_drop").css("display","none");
+	$("#Nutrition_drop").css("display","block");
+	$("#Supplementation_drop").css("display","none");	
+	$("#Other_drop").css("display","none");
+});
+$("#Supplementation").click(function(){
+	$("#Training_drop").css("display","none");
+	$("#Nutrition_drop").css("display","none");
+	$("#Supplementation_drop").css("display","block");	
+	$("#Other_drop").css("display","none");
+});
+
 
 $("#FB-Comment-Button").click(function(){
 	$("#FB-Comment").css("display","block");
 });
-
-
 
 $(".rec_MainDish").click(function(){
 	$(".x_rec").css("display","none");
@@ -156,6 +252,10 @@ $("#x_photo_off").click(function(){
 $("#m_home").mouseenter(function(){
 	$(".x_submenu").hide();
 });
+
+$("#m_challenge").mouseenter(function(){
+	$(".x_submenu").hide();
+});
 	
 $("#m_shop").mouseenter(function(){
 	$(".x_submenu").hide();
@@ -181,6 +281,13 @@ $("#m_comm").mouseenter(function(){
 $("#m_media").mouseenter(function(){
 	$(".x_submenu").hide();
     $("#sub-menu-media-container").fadeIn(1000);
+	$("#cover-fade-top").show();
+	$("#cover-fade-rest").show();
+});
+
+$("#m_blog").mouseenter(function(){
+	$(".x_submenu").hide();
+    $("#sub-menu-blog-container").fadeIn(1000);
 	$("#cover-fade-top").show();
 	$("#cover-fade-rest").show();
 });
@@ -221,486 +328,1048 @@ $("#social_icon2").click(function(){
 
 });
 </script>  
+
 <!-- END .. EXTERNAL FILES -->
 
 
 <!-- META TAGS -->
-<title>Infinite Labs - Bodybuilding Supplements, Nutrition Products | </title>
-<meta name="description" content=" Infinite Labs, Bodybuilding Supplements, Nutrition Products. The coolest sport supplement brand on the planet. ">
-<meta name="keywords" content=" bodybuilding supplements, diet products, dietary supplements, fat burning, fat burning supplements
-healthy lifestyle, nutrition products, performance enhancing supplements, post-workout supplements, pre-workout supplements
-recovery supplements, weight loss supplements ">
+
+
+<title>privacy</title>
+<meta name="alexaVerifyID" content="guEbnJr6Pn6YeXoI2ouYH-IxNYI">
+<meta name="description" content="privacy policy">
+
+<meta name="keywords" content="infinite labs privacy policy">
+
 <meta name="copyright" content="Copyright Infinite Labs - 2012">
+
 <meta name="author" content="RJ">
+
 <meta name="email" content="infinitelabssupplements@gmail.com">
-<meta name="Charset" content="UTF-8">
+
 <meta name="Distribution" content="Global">
+
 <meta name="Rating" content="General">
- <meta name="Robots" content="INDEX,FOLLOW"> <meta name="Revisit-after" content="31 Days">
+
+ <meta name="Robots" content="INDEX,FOLLOW"> 
+<meta name="Revisit-after" content="31 Days">
+
 <meta name="expires" content="never">
+
 <meta name="geo.placename" content="7208 W Sand Lake Rd Suite 208, Orlando, FL 32819, USA">
+
 <meta name="geo.position" content="28.449870;-81.476256">
+
 <meta name="geo.region" content="US-FL">
+
 <meta name="ICBM" content="28.449870, -81.476256">
+
 <meta http-equiv="content-language" content="en">
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
 
 <!-- END - META TAGS -->
 
 
+
+
+
 <!-- IS MOBILE .. REDIRECT -->
+
+
 <!-- END .. IS MOBILE .. REDIRECT -->
 
 
+
 <!-- FLEXSLIDER -->  
+
 <script type="text/javascript">
+
     $(function(){
+
       SyntaxHighlighter.all();
+
     });
+
     $(window).load(function(){
+
       $('.flexslider').flexslider({
+
         animation: "slide",
+
         start: function(slider){
+
           $('body').removeClass('loading');
+
         }
+
       });
+
     });
+
 </script>
+
 <!-- END .. FLEXSLIDER --> 
 
 
 
+
+
 <!-- GOOGLE ANALYTICS -->
+
 <script type="text/javascript">
+
   var _gaq = _gaq || [];
+
   _gaq.push(['_setAccount', 'UA-33689012-1']);
+
   _gaq.push(['_trackPageview']);
+
   (function() {
+
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
   })();
+
 </script>
+
 <!-- END .. GOOGLE ANALYTICS -->
 
 
 
+
+
+
+
 <!-- GOOGLE TRACKING OF OUTBOUND LINKS w/ DELAY -->
+
 <script type="text/javascript">
+
 function recordOutboundLink(link, category, action) {
+
   try {
+
     var myTracker=_gat._getTrackerByName();
+
     _gaq.push(['myTracker._trackEvent', category ,  action ]);
+
     setTimeout('document.location = "' + link.href + '"', 100)
+
   }catch(err){}
+
 }
+
 </script>
+
 <!-- END .. GOOGLE TRACKING OF OUTBOUND LINKS w/ DELAY -->
+ 
 
-
+<!-- SHARE THIS -->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+<!-- END .. SHARE THIS -->	
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
 <body onload="matchCol('match');">
 
 
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"LYWKh1awVK002t", domain:"infinitelabs.com", dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; 
+var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); }) ();</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=LYWKh1awVK002t" style="display:none" height="1" width="1" alt="" alt="Alexa" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+
 <!-- NEEDED FOR FACEBOOK -->
+
 <div id="fb-root"></div>
+
 <script>(function(d, s, id) {
+
   var js, fjs = d.getElementsByTagName(s)[0];
+
   if (d.getElementById(id)) return;
+
   js = d.createElement(s); js.id = id;
+
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=241759059191527";
+
   fjs.parentNode.insertBefore(js, fjs);
+
 }(document, 'script', 'facebook-jssdk'));</script>
+
 <!-- END .. NEEDED FOR FACEBOOK -->
+
     
+
 <div id="cover-fade-top"></div>
+
 <div id="cover-fade-rest"></div>
-
-
-
-
-<!-- SOCIAL -->
-<div id="social_icon" class="x_social"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Social-Icon.png" border="0"></div>
-<div id="social_icon2" class="x_social"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Social-Icon.png" border="0" style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1);
-filter: FlipH; -ms-filter: 'FlipH';"></div>
-
-<div id="social">
-<div style="position:absolute; left:0px; top:0px; width:100px; padding:10px;">
-
-		<!-- Facebook Recommend -->
-		<div class="fb-like" style="position:relative; left:0px; top:0px; width:88px; overflow:hidden;" data-href="http://www.infinitelabs.com/privacy.php" data-send="false" data-layout="button_count" data-show-faces="false" data-action="recommend" data-font="arial">
-        </div>
-		<!-- End .. Facebook Recommend -->
-        
-        
-        <!-- Twitter Share --> 
-		<div style="position:relative; left:0px; top:0px; padding-top:10px; padding-bottom:10px; width:60px; overflow:hidden;">    
- 		<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.infinitelabs.com/privacy.php">Tweet</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id))
-		{js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
-		</div>
-		<!-- End .. Twitter Share --> 
-    
-    
-        <!-- Google G+ Button -->
-		<div class="g-plusone" data-annotation="none" data-size="medium" style="position:relative; left:0px; width:40px; overflow:hidden;"></div>
-		<script type="text/javascript">
-  		(function() {
-   		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    	po.src = 'https://apis.google.com/js/plusone.js';
-    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  		})();
-		</script>
-    	<!-- End .. Google G+ Button --> 
-        
-        
-        <!-- LinkedIn Button -->  
-        <div style="position:relative; left:0px; top:0px; padding-top:10px;; width:60px; overflow:hidden;">       
-        <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-		<script type="IN/Share" data-url="http://www.infinitelabs.com/privacy.php"></script>
-        </div>
-         <!-- END .. LinkedIn Button --> 
-
-</div>
-
-</div>
-<!-- END .. SOCIAL -->
-
-
 
 
 <!-- ............................................................................................... -->
 
 
+
+
+
 <!-- SUB-MENUS -->
 
-	<!-- WHO WE ARE -->
-    <div id="sub-menu-who-container" class="x_submenu">
- 	<div id="sub-menu-who">
+	<!-- BLOG -->
+
+    <div id="sub-menu-blog-container" class="x_submenu">
+
+ 	<div id="sub-menu-blog">
+
     
-    	<a class="drop" href="http://www.infinitelabs.com/about.php" onmouseover="dropBack('who_1')" onmouseout="raiseBack('who_1')">
-		<div id="who_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">About Us</div>
+
+    	<a class="drop" href="http://infinitelabs.com/drcamp.php" onmouseover="dropBack('blog_1')" onmouseout="raiseBack('blog_1')">
+
+		<div id="blog_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Dr. Mike Camp</div>
+
 		</a>
         
-        <a class="drop" href="http://www.infinitelabs.com/faq.php" onmouseover="dropBack('who_2')" onmouseout="raiseBack('who_2')">
-		<div id="who_2" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">FAQs</div>
+            	<a class="drop" href="http://infinitelabs.com/joe.php" onmouseover="dropBack('blog_2')" onmouseout="raiseBack('blog_2')">
+
+		<div id="blog_2" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Joe Palumbo</div>
+
 		</a>
         
-        <a class="drop" href="http://www.infinitelabs.com/contact.php" onmouseover="dropBack('who_3')" onmouseout="raiseBack('who_3')">
-		<div id="who_3" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Contact Us</div>
+            	<a class="drop" href="http://infinitelabs.com/stan.php" onmouseover="dropBack('blog_3')" onmouseout="raiseBack('blog_3')">
+
+		<div id="blog_3" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Stan McQuay</div>
+
 		</a>
         
-    </div> 
-    </div> 
-	<!-- END .. WHO WE ARE  -->
-    
-    
-    
-    	<!-- MEDIA -->
-    <div id="sub-menu-media-container" class="x_submenu">
- 	<div id="sub-menu-media">
-    
-    	<a class="drop" href="http://www.infinitelabs.com/articles.php" onmouseover="dropBack('media_3')" onmouseout="raiseBack('media_3')">
-		<div id="media_3" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Articles</div>
+            	<a class="drop" href="http://infinitelabs.com/betsy.php" onmouseover="dropBack('blog_4')" onmouseout="raiseBack('blog_4')">
+
+		<div id="blog_4" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Betsy Lane</div>
+
 		</a>
         
-        <a class="drop" href="http://www.infinitelabs.com/news.php" onmouseover="dropBack('media_1')" onmouseout="raiseBack('media_1')">
-		<div id="media_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">News</div>
+        
+            	<a class="drop" href="http://infinitelabs.com/jan.php" onmouseover="dropBack('blog_5')" onmouseout="raiseBack('blog_5')">
+
+		<div id="blog_5" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Jan Dy</div>
+
 		</a>
-        
-        <a class="drop" href="http://www.infinitelabs.com/events.php" onmouseover="dropBack('media_2')" onmouseout="raiseBack('media_2')">
-		<div id="media_2" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Events</div>
-		</a>
-        
-        <a class="drop" href="http://www.infinitelabs.com/video.php" onmouseover="dropBack('vid_1')" onmouseout="raiseBack('vid_1')">
-		<div id="vid_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Video</div>
-		</a>
-        
-        <a class="drop" href="http://www.infinitelabs.com/magazine.php" onmouseover="dropBack('mag_1')" onmouseout="raiseBack('mag_1')">
-		<div id="mag_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Magazine</div>
-		</a>       
-        
-    </div> 
-    </div> 
-	<!-- END .. MEDIA  -->
-    
-    
-        	<!-- COMMUNITY-->
-    <div id="sub-menu-comm-container" class="x_submenu">
- 	<div id="sub-menu-comm">
-    
-        <a class="drop" href="http://www.infinitelabs.com/forum/forum.php" onmouseover="dropBack('comm_1')" onmouseout="raiseBack('comm_1')">
-		<div id="comm_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Forum</div>
-		</a>
-        
-        <a class="drop" href="http://www.infinitelabs.com/gallery/album.php" onmouseover="dropBack('comm_2')" onmouseout="raiseBack('comm_2')">
-		<div id="comm_2" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Gallery</div>
-		</a>
-        
-        <a class="drop" href="http://www.infinitelabs.com/workout.php" onmouseover="dropBack('comm_5')" onmouseout="raiseBack('comm_5')">
-		<div id="comm_5" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Workouts</div>
-		</a> 
-        
-        <a class="drop" href="http://www.infinitelabs.com/athlete.php" onmouseover="dropBack('comm_4')" onmouseout="raiseBack('comm_4')">
-		<div id="comm_4" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Athletes</div>
-		</a>   
-        
-        <a class="drop" href="http://www.infinitelabs.com/medical.php" onmouseover="dropBack('comm_7')" onmouseout="raiseBack('comm_7')">
-		<div id="comm_7" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Medical Advisors</div>
-		</a>      
-        
-    	<a class="drop" href="http://www.infinitelabs.com/recipes.php" onmouseover="dropBack('comm_6')" onmouseout="raiseBack('comm_6')">
-		<div id="comm_6" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Infinite Kitchen</div>
-		</a>        
              
-    	<a class="drop" href="http://www.infinitelabs.com/ingredients.php" onmouseover="dropBack('comm_3')" onmouseout="raiseBack('comm_3')">
-		<div id="comm_3" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Ingredients</div>
-		</a>
+  
         
 
-        
+    </div> 
+
+    </div> 
+
+	<!-- END .. BLOG  -->
     
+
+	<!-- WHO WE ARE -->
+
+    <div id="sub-menu-who-container" class="x_submenu">
+
+ 	<div id="sub-menu-who">
+
+    
+
+    	<a class="drop" href="http://infinitelabs.com/about.php" onmouseover="dropBack('who_1')" onmouseout="raiseBack('who_1')">
+
+		<div id="who_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">About Us</div>
+
+		</a>
+
         
+
+        <a class="drop" href="http://infinitelabs.com/faq.php" onmouseover="dropBack('who_2')" onmouseout="raiseBack('who_2')">
+
+		<div id="who_2" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">FAQs</div>
+
+		</a>
+
+        
+
+        <a class="drop" href="http://infinitelabs.com/contact.php" onmouseover="dropBack('who_3')" onmouseout="raiseBack('who_3')">
+
+		<div id="who_3" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Contact Us</div>
+
+		</a>
+
+        
+
     </div> 
+
     </div> 
+
+	<!-- END .. WHO WE ARE  -->
+
+    
+
+    
+
+    
+
+    	<!-- MEDIA -->
+
+    <div id="sub-menu-media-container" class="x_submenu">
+
+ 	<div id="sub-menu-media">
+
+    
+
+    	<a class="drop" href="http://infinitelabs.com/articles.php" onmouseover="dropBack('media_3')" onmouseout="raiseBack('media_3')">
+
+		<div id="media_3" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Articles</div>
+
+		</a>
+
+        
+
+        <a class="drop" href="http://infinitelabs.com/news.php" onmouseover="dropBack('media_1')" onmouseout="raiseBack('media_1')">
+
+		<div id="media_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">News</div>
+
+		</a>
+
+        
+
+        <a class="drop" href="http://infinitelabs.com/events.php" onmouseover="dropBack('media_2')" onmouseout="raiseBack('media_2')">
+
+		<div id="media_2" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Events</div>
+
+		</a>
+
+        
+
+        <a class="drop" href="http://infinitelabs.com/video.php" onmouseover="dropBack('vid_1')" onmouseout="raiseBack('vid_1')">
+
+		<div id="vid_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Video</div>
+
+		</a>
+
+        
+
+        <a class="drop" href="http://infinitelabs.com/magazine.php" onmouseover="dropBack('mag_1')" onmouseout="raiseBack('mag_1')">
+
+		<div id="mag_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Magazine</div>
+
+		</a>       
+
+        
+
+    </div> 
+
+    </div> 
+
+	<!-- END .. MEDIA  -->
+
+    
+
+    
+
+<!-- COMMUNITY-->
+
+    <div id="sub-menu-comm-container" class="x_submenu">
+
+ 	<div id="sub-menu-comm">
+
+    
+
+        <a class="drop" href="http://infinitelabs.com/forum/" onmouseover="dropBack('comm_1')" onmouseout="raiseBack('comm_1')">
+
+		<div id="comm_1" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Forum</div>
+
+		</a>
+
+        
+
+        <a class="drop" href="http://infinitelabs.com/gallery/album.php" onmouseover="dropBack('comm_2')" onmouseout="raiseBack('comm_2')">
+
+		<div id="comm_2" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Gallery</div>
+
+		</a>
+
+        
+
+        <a class="drop" href="http://infinitelabs.com/workout.php" onmouseover="dropBack('comm_5')" onmouseout="raiseBack('comm_5')">
+
+		<div id="comm_5" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Workouts</div>
+
+		</a> 
+
+        
+
+        <a class="drop" href="http://infinitelabs.com/athlete.php" onmouseover="dropBack('comm_4')" onmouseout="raiseBack('comm_4')">
+
+		<div id="comm_4" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Athletes</div>
+
+		</a>   
+             
+
+        <a class="drop" href="http://infinitelabs.com/medical.php" onmouseover="dropBack('comm_7')" onmouseout="raiseBack('comm_7')">
+
+		<div id="comm_7" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Medical Advisor</div>
+
+		</a>      
+
+        
+
+    	<a class="drop" href="http://infinitelabs.com/recipes.php" onmouseover="dropBack('comm_6')" onmouseout="raiseBack('comm_6')">
+
+		<div id="comm_6" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Infinite Kitchen</div>
+
+		</a>        
+
+             
+
+    	<a class="drop" href="http://infinitelabs.com/ingredients.php" onmouseover="dropBack('comm_3')" onmouseout="raiseBack('comm_3')">
+
+		<div id="comm_3" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Ingredients</div>
+
+		</a>
+		
+	<a class="drop" href="http://infinitelabs.com/testimonials.php" onmouseover="dropBack('comm_3')" onmouseout="raiseBack('comm_3')">
+
+		<div id="comm_3" style="position:relative; padding-left:5px; height:30px; line-height:30px; border-bottom:#FFFFFF thin solid;">Your Stories</div>
+		</a>
+
+        
+
+
+
+        
+
+    
+
+        
+
+    </div> 
+
+    </div> 
+
 	<!-- END .. COMMUNITY  -->
+
     
+
+
+
 
 
 	<!-- GOALS -->
+
     <div id="sub-menu-goals-container" class="x_submenu">
+
  	<div id="sub-menu-goals">
-    	<a href="http://www.infinitelabs.com/product-by-goal.php?goal=muscle">
+
+    	<a href="http://infinitelabs.com/product-by-goal.php?goal=muscle">
+
         <div id="goals-muscle" class="goal-item"></div></a>
-        <a href="http://www.infinitelabs.com/product-by-goal.php?goal=fat">
+
+        <a href="http://infinitelabs.com/product-by-goal.php?goal=fat">
+
         <div id="goals-fat" class="goal-item"></div></a>
-        <a href="http://www.infinitelabs.com/product-by-goal.php?goal=mass">
+
+        <a href="http://infinitelabs.com/product-by-goal.php?goal=mass">
+
         <div id="goals-mass" class="goal-item"></div></a>
-        <a href="http://www.infinitelabs.com/product-by-goal.php?goal=health">
+
+        <a href="http://infinitelabs.com/product-by-goal.php?goal=health">
+
         <div id="goals-health" class="goal-item"></div></a>
-        <a href="http://www.infinitelabs.com/product-by-goal.php?goal=mma">
+
+        <a href="http://infinitelabs.com/product-by-goal.php?goal=mma">
+
         <div id="goals-mma" class="goal-item"></div></a>
-        <a href="http://www.infinitelabs.com/product-by-goal.php?goal=endurance">
+
+        <a href="http://infinitelabs.com/product-by-goal.php?goal=endurance">
+
         <div id="goals-endurance" class="goal-item"></div></a>   
+
     </div> 
+
     </div> 
+
 	<!-- END .. GOALS -->
+
     
+
     <!-- PRODUCTS -->
-	    <div id="sub-menu-products-container" class="x_submenu">
+
+	
+    <div id="sub-menu-products-container" class="x_submenu">
+
  	<div id="sub-menu-products">
+
     	
+
         <!-- PRE WORKOUT -->
+
     	<div style="position:absolute; top:0px; left:35px; width:150px; margin-right:25px; padding-top:30px; font-size:11px;">
+
         	<strong class="red">PRE WORKOUT</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Agmatine-pro.html" class="black bold">Agmatine</a>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Agmatine-pro.html" class="black bold">Agmatine</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Beta-Alanine-pro.html" class="black bold">Beta Alanine</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Beta-Alanine-pro.html" class="black bold">Beta Alanine</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Carno-Cre-pro.html" class="black bold">CarnoCre™</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Carno-Cre-pro.html" class="black bold">CarnoCre™</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Infinite-Force-pro.html" class="black bold">Infinite Force®</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Creatine-Monohydrate-pro.html" class="black bold">Creatine Monohydrate</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Juggernaut-pro.html" class="black bold">Juggernaut®</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Creatine-MP-pro.html" class="black bold">Creatine-MP</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Juggernaut-HP-pro.html" class="black bold">Juggernaut®HP</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Juggernaut-pro.html" class="black bold">Juggernaut</a>
+
                 </div>
-        	        </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Juggernaut-HP-pro.html" class="black bold">Juggernaut HP</a>
+
+                </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/SBR-Endurance-pro.html" class="black bold">SBR Endurance</a>
+
+                </div>
+
+        	
+        </div>
+
         
+
         <!-- WEIGHT MANAGEMENT --> 
+
 		<div style="position:absolute; top:200px; left:35px; width:150px; margin-right:25px; padding-top:30px; font-size:11px;">
+
         	<strong class="red">WEIGHT MANAGEMENT</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Carnitine-MTX-pro.html" class="black bold">Carnitine MTX™</a>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Carnitine-MTX-pro.html" class="black bold">Carnitine MTX</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Final-Cutz-pro.html" class="black bold">Final Cutz®</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Final-Cutz-pro.html" class="black bold">Final Cutz</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Final-Form-pro.html" class="black bold">Final Form®</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Final-Form-pro.html" class="black bold">Final Form</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Oxidane-pro.html" class="black bold">Oxidane X®</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Oxidane-pro.html" class="black bold">Oxidane X</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Phenyl-Core-pro.html" class="black bold">Phenyl Core™</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Phenyl-Core-pro.html" class="black bold">Phenyl Core</a>
+
                 </div>
-        	        </div>
+
+        	
+        </div>
+
 		
 
+
+
         <!-- TESTOSTERONE SUPPORT -->
+
     	<div style="position:absolute; top:0px; left:220px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
         	<strong class="red">TESTOSTERONE SUPPORT</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Cyclo-Bolan-NT-pro.html" class="black bold">Cyclo Bolan® NT</a>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Cyclo-Bolan-NT-pro.html" class="black bold">Cyclo Bolan NT</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Cyclo-DEX-pro.html" class="black bold">Cyclo Dex™</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Cyclo-DEX-pro.html" class="black bold">Cyclo Dex</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Cyclo-Test-pro.html" class="black bold">Cyclo Test™</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Cyclo-Test-pro.html" class="black bold">Cyclo Test</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Cyclo-Tren-pro.html" class="black bold">Cyclo Tren™</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Cyclo-Tren-pro.html" class="black bold">Cyclo Tren</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Pro-DHEA-pro.html" class="black bold">Pro DHEA </a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Dagger_HP-pro.html" class="black bold">Dagger HP</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Pro-Trib-pro.html" class="black bold">Pro Tribulus</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Pro-DHEA-pro.html" class="black bold">Pro DHEA </a>
+
                 </div>
-        	        </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Pro-Trib-pro.html" class="black bold">Pro Tribulus</a>
+
+                </div>
+
+        	
+        </div>
+
         
+
         
+
         <!-- PROTEIN --> 
-		<div style="position:absolute; top:200px; left:220px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
+		<div style="position:absolute; top:250px; left:440px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
         	<strong class="red">PROTEIN</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Infinite-Mass-pro.html" class="black bold">Infinite Mass®</a>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Infinite-Mass-pro.html" class="black bold">Infinite Mass</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Infinite-Whey-pro.html" class="black bold">Infinite Pro® 100% Whey</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Infinite-Whey-pro.html" class="black bold">Infinite Pro® 100% Whey</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Infinite-Isolate-pro.html" class="black bold">Infinite Pro® 100% Whey Isolate</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Infinite-Isolate-pro.html" class="black bold">Infinite Pro® 100% Whey Isolate</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Whey-Delite-pro.html" class="black bold">Whey Delite™</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Whey-Delite-pro.html" class="black bold">Whey Delite™</a>
+
                 </div>
-        	        </div>
+
+        	
+        </div>
+
+
+
+
 
 
 
         <!-- RECOVERY -->
+
     	<div style="position:absolute; top:0px; left:440px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
         	<strong class="red">RECOVERY</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/BCAA-Caps-pro.html" class="black bold">BCAA</a>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/BCAA-Caps-pro.html" class="black bold">BCAA</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/BCAA-Powder-pro.html" class="black bold">BCAA Powder</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/BCAA-Powder-pro.html" class="black bold">BCAA Powder</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Cyclo-REM-pro.html" class="black bold">Cyclo REM®</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Cyclo-Clenz-pro.html" class="black bold">Cyclo Clenz</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Glutamine-Caps-pro.html" class="black bold">Glutamine MTX ™</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Cyclo-Rem-pro.html" class="black bold">Cyclo Rem</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Glutamine-Powder-pro.html" class="black bold">Glutamine MTX ™ Powder</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Glutamine-Caps-pro.html" class="black bold">Glutamine MTX</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/MassPort-pro.html" class="black bold">MassPort™</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Glutamine-Powder-pro.html" class="black bold">Glutamine MTX Powder</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Pro-Z-pro.html" class="black bold">Pro Z</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Infinite-Force-pro.html" class="black bold">Infinite Force</a>
+
                 </div>
-        	        </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Massport-pro.html" class="black bold">MassPort</a>
+
+                </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Pro-Z-pro.html" class="black bold">Pro Z</a>
+
+                </div>
+
+        	
+        </div>
+
         
+
         
+
         <!-- ESSENTIALS --> 
-		<div style="position:absolute; top:200px; left:440px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
-        	<strong class="red">ESSENTIALS</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/ALA-pro.html" class="black bold">Alpha Lipoic Acid</a>
+        <div style="position:absolute; top:200px; left:220px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
+		<strong class="red">ESSENTIALS</strong>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/ALA-pro.html" class="black bold">Alpha Lipoic Acid</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Calcium-P-pro.html" class="black bold">Calcium Pyruvate</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Calcium-P-pro.html" class="black bold">Calcium Pyruvate</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Joint-Support-pro.html" class="black bold">Joint Support</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Joint-Support-pro.html" class="black bold">Joint Support</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Mens-Multi-pro.html" class="black bold">Multivitamin - Men</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Mens-Multi-pro.html" class="black bold">Multivitamin - Men</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Womens-Multi-pro.html" class="black bold">Multivitamin - Women</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Womens-Multi-pro.html" class="black bold">Multivitamin - Women</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Ubiquinol-pro.html" class="black bold">Ubiquinol</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Ubiquinol-pro.html" class="black bold">Ubiquinol</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Vitamin-B-pro.html" class="black bold">Vitamin B</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Vitamin-B-pro.html" class="black bold">Vitamin B</a>
+
                 </div>
-        	        </div>
+
+        	
+        </div>
+
         
+
         
+
         <!-- FIGHTER'S POWER -->
+
     	<div style="position:absolute; top:0px; left:640px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
         	<strong class="red">FIGHTER'S POWER</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Pre-Fight-pro.html" class="black bold">Pre Fight™</a>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Pre-Fight-pro.html" class="black bold">Pre Fight™</a>
+
                 </div>
-        	        </div>
+
+        	
+        </div>
+
         
+
         
+
         <!-- STACKS -->
-    	<div style="position:absolute; top:100px; left:640px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
+    	<div style="position:absolute; top:75px; left:640px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
         	<strong class="red">STACKS</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Muscle-Stack-pro.html" class="black bold">Build Muscle Stack</a>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Mass-Stack-pro.html" class="black bold">Add Mass Stack</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Burn-Fat-Stack-pro.html" class="black bold">Burn Fat Stack</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Muscle-Stack-pro.html" class="black bold">Build Muscle Stack</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Endurance-Stack-pro.html" class="black bold">Endurance Stack</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Burn-Fat-Stack-pro.html" class="black bold">Burn Fat Stack</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Pre-Fight-Stack-pro.html" class="black bold">Pre-Fight Stack</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Crossfit-pro.html" class="black bold">Crossfit Stack</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Men-Recovery-Stack-pro.html" class="black bold">Recovery and Health - Men</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Endurance-Stack-pro.html" class="black bold">Endurance Stack</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Women-Recovery-Stack-pro.html" class="black bold">Recovery and Health - Women</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/HP-Fat-Burning-Stack-pro.html" class="black bold">HP Fat Burning Stack</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Trial-Stack-pro.html" class="black bold">Trial Stack</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/IAJLean-Stack-pro.html" class="black bold">IAJ Get Lean Stack</a>
+
                 </div>
-        	        </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/IAJPerformance-Stack-pro.html" class="black bold">IAJ Performance Stack</a>
+
+                </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Pre-Fight-Stack-pro.html" class="black bold">Pre-Fight Stack</a>
+
+                </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Men-Recovery-Stack-pro.html" class="black bold">Recovery and Health - Men</a>
+
+                </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Women-Recovery-Stack-pro.html" class="black bold">Recovery and Health - Women</a>
+
+                </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Six_Pack_Stack-pro.html" class="black bold">Six-Pack Stack</a>
+
+                </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Testosterone-Stack-pro.html" class="black bold">Testosterone Support Stack</a>
+
+                </div>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Trial-Stack-pro.html" class="black bold">Trial Stack</a>
+
+                </div>
+
+        	
+        </div>
+
         
+
         
+
         <!-- GEAR --> 
+
 		<div style="position:absolute; top:0px; left:835px; width:180px; margin-right:25px; padding-top:30px; font-size:11px;">
+
         	<strong class="red">INFINITE GEAR</strong>
-			            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Shirt-Cyclo-Test-pro.html" class="black bold">Cyclo Test T-Shirt</a>
+
+			
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Shirt-Cyclo-Test-pro.html" class="black bold">Cyclo Test T-Shirt</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Dagger-Cup-pro.html" class="black bold">Dagger Shaker Cup</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Shirt-Dagger-pro.html" class="black bold">Dagger T-Shirt</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Shirt-Dagger-pro.html" class="black bold">Dagger T-Shirt</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Shirt-Fighter-Power-pro.html" class="black bold">Fighter's Power T-Shirt</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Shirt-Fighter-Power-pro.html" class="black bold">Fighter's Power T-Shirt</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Gym-Bag-pro.html" class="black bold">Infinite Labs Gym Bag</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Gym-Bag-pro.html" class="black bold">Infinite Labs Gym Bag</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Shirt-Juggernaut-Mode-Tank-Top-pro.html" class="black bold">JUGGERNAUT MODE - TANK TOP</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Shirt-Joe-SWAT-pro.html" class="black bold">Joe SWAT T-Shirt</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Shirt-JUGGERNAUT-MODE-pro.html" class="black bold">JUGGERNAUT MODE - TSHIRT</a>
+
                 </div>
-        	            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
-                <a href="http://www.infinitelabs.com/Shaker-Cup-pro.html" class="black bold">Juggernaut Shaker Cup</a>
+
+        	
+            	<div style="position:relative; top:0px; left:5px; padding-top:8px;">
+
+                <a href="http://infinitelabs.com/Shaker-Cup-pro.html" class="black bold">Juggernaut Shaker Cup</a>
+
                 </div>
-        	        </div>
-        
-        
-        
+
+        	
+        </div>
+
                 
+
+                
+
         
+
     </div>
+
     </div> 
+
      
+
 	<!-- END .. PRODUCTS -->
 
 
@@ -711,63 +1380,142 @@ filter: FlipH; -ms-filter: 'FlipH';"></div>
 
 
 
+
+
+
+
+
+
+
+
+
+
 <!-- TOP CONTAINER .. (centers top page) -->
+
 <div id="top_container">
 
 
+
+
+
 <!-- TOP -->
+
 	<div id="top">
+
     	<div style=" position:absolute; left:0px; top:0px; width:400px; height:165px;">
-        <a href="http://www.infinitelabs.com">
-        <img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Dummy.png" width="400px" height="165px" border="0">
+
+        <a href="http://infinitelabs.com">
+
+        <img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Dummy.png" width="400px" height="165px" border="0">
+
         </a>
+
         </div>
+
     	<div id="top_txt1" style="position:absolute; right:0px; top:40px; font-weight:bold;">
-        	<a href="http://www.infinitelabs.com/cart/cart.php">Cart: <span class="red">$0.00</span></a> &nbsp; | &nbsp; 
-        	<a href="#" onclick="logShow();">Log-In</a> / <a href="http://www.infinitelabs.com/member/signup.php">Sign-Up</a>	
+
+        	<a href="http://infinitelabs.com/cart/cart.php">Cart: <span class="red">$0.00</span></a> &nbsp; | &nbsp; 
+
+        	<a href="#" onclick="logShow();">Log-In</a> / <a href="http://infinitelabs.com/member/signup.php">Sign-Up</a>	
+
             
-                   </div>
+
+           
+        </div>
+
         
+
         <div id="top_txt2" style="position:absolute; right:0px; top:100px; font-size:14px; font-weight:bold;">
-        	                    </div>        
+
+        	
+            
+        </div>        
+
         
+
 		<!-- LOGIN BOX-->
+
 		<div id="login_block" style="position:absolute; right:0px; top:5px; width:300px; padding:10px; background-color:#CCCCCC; border:#000 2px solid; z-index:100; display:none;">
+
 			<div style="position:absolute; right:5px; top:0px; cursor:pointer;" onclick="logHide()"><strong>X</strong></div>
+
 			<form name="frm_login" action="" method="post">
+
 			<strong>Log-In:</strong>
+
 			<br><br>
+
 			<strong>User Name:</strong> <input name="user_name" type="text" size="25">
+
 			<br><br>
+
 			<strong>Password:</strong>&nbsp; <input name="pass" type="password" size="25">
+
 			<br><br>
+
 			<input name="submit" type="submit" value="Log In">
+
 			</form>
+
 		</div>
+
 		<!-- END .. LOGIN BOX -->
+
      
+
     </div>
+
 <!-- END .. TOP -->    
+
     
+
 <!-- MENU -->    
+
 	<div id="menu">
-    	<a href="http://www.infinitelabs.com" class="menu"><div id="m_home" class="m_item">HOME</div></a>
-        <div class="m_space"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+
+    	<a href="http://infinitelabs.com" class="menu"><div id="m_home" class="m_item">HOME</div></a>
+
+        <div class="m_space"><img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+
     	<a href="#" class="menu"><div id="m_shop" class="m_item">SHOP</div></a>
-        <div class="m_space"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+
+        <div class="m_space"><img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+
     	<a href="#" class="menu"><div id="m_goals" class="m_item">GOALS</div></a>
-        <div class="m_space"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>  
+
+        <div class="m_space"><img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>  
+
     	<a href="#" class="menu"><div id="m_comm" class="m_item">COMMUNITY</div></a>
-        <div class="m_space"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+
+        <div class="m_space"><img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+
     	<a href="#" class="menu"><div id="m_media" class="m_item">MEDIA</div></a>
-        <div class="m_space"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+        
+        <div class="m_space"><img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+
+    	<a href="#" class="menu"><div id="m_blog" class="m_item">BLOGS</div></a>
+
+        <div class="m_space"><img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>
+
     	<a href="#" class="menu"><div id="m_who" class="m_item">WHO WE ARE</div></a>
-        <div class="m_space"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>      
+
+        <div class="m_space"><img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Menu-Space.jpg"></div>  
+        
+	<a href="http://infinitelabs.com/signup" class="menu"><div id="m_challenge" class="m_item">2014 CHALLENGE</div></a>
+
+         
+         
+
     </div>
+
 <!-- END .. MENU --> 
 
 
+
+
+
 </div>
+
 <!-- END .. TOP CONTAINER .. (centers top page) --> 
 
 
@@ -777,7 +1525,7 @@ filter: FlipH; -ms-filter: 'FlipH';"></div>
 <div id="body-container">
 
 <!-- SUB PAGE TOP -->
-<div id="sub-top" style=" background-image:url(http://www.infinitelabs.com/images/univ-layout/Sub-Page-About.jpg);">
+<div id="sub-top" style=" background-image:url(http://infinitelabs.com/images/univ-layout/Sub-Page-About.jpg);">
 <div id="sub-title">PRIVACY POLICY &gt;&gt;</div>
 
 </div>
@@ -884,7 +1632,7 @@ filter: FlipH; -ms-filter: 'FlipH';"></div>
 
 
 <!-- SUB PAGE TOP -->
-<div id="sub-bottom"><img alt="http://www.infinitelabs.com" src="http://www.infinitelabs.com/images/univ-layout/Sub-Page-Bottom.jpg" border="0"></div>
+<div id="sub-bottom"><img alt="http://infinitelabs.com" src="http://infinitelabs.com/images/univ-layout/Sub-Page-Bottom.jpg" border="0"></div>
 
 </div></div>
 <!-- END .. CONTENT HERE ................................................................................................... -->
@@ -894,26 +1642,30 @@ filter: FlipH; -ms-filter: 'FlipH';"></div>
 
 <!-- BOTTOM -->
 <div id="bottom-container" class="noPrint">
-	<img alt="http://www.infinitelabs.com" class="noPrint" src="http://www.infinitelabs.com/images/univ-layout/Bottom.jpg" border="0" usemap="#BottomMap">
+	<img alt="http://infinitelabs.com" class="noPrint" src="http://www.infinitelabs.com/images/univ-layout/Bottom.jpg" border="0" usemap="#BottomMap">
     <map name="BottomMap" id="BottomMap">
-      <area shape="rect" coords="1,8,197,84" href="http://www.infinitelabs.com">
-      <area shape="rect" coords="201,22,294,53" href="https://www.facebook.com/InfiniteLabsSupplements" target="_blank">
-      <area shape="rect" coords="201,54,289,84" href="https://twitter.com/Infinite_Labs" target="_blank">
-      <area shape="rect" coords="300,22,394,52" href="http://www.youtube.com/user/InfiniteLabsVideos" target="_blank">
-      <area shape="rect" coords="295,53,394,83" href="https://plus.google.com/u/2/111131413690955875349/posts" target="_blank">
-      <area shape="rect" coords="442,51,631,73" href="mailto:info@infinitelabs.com">
-      <area shape="rect" coords="849,6,1044,87" href="http://www.houseofhopeorlando.org/index.php?section_url=20" target="_blank">
+      <area shape="rect" coords="1,8,197,84" href="http://infinitelabs.com">
+      <area shape="rect" coords="247,41,287,83" href="https://www.facebook.com/InfiniteLabsSupplements" target="_blank">
+      <area shape="circle" coords="550,64,18" href="http://www.pinterest.com/infinitelabs/" target="_blank">
+      <area shape="rect" coords="357,42,399,84" href="http://instagram.com/infinite_labs#" target="_blank">
+      <area shape="rect" coords="582,44,630,88" href="http://infinitelabs.com/gallery/album.php">
+      <area shape="rect" coords="644,43,687,86" href="http://infinitelabs.com/workout.php">
+      <area shape="rect" coords="699,42,742,85" href="http://infinitelabs.com/news.php">
+      <area shape="rect" coords="755,43,798,86" href="http://infinitelabs.com/forum/">
+<area shape="rect" coords="417,45,454,81" href="https://twitter.com/Infinite_Labs" target="_blank">
+      <area shape="rect" coords="303,43,345,83" href="http://www.youtube.com/user/InfiniteLabsVideos" target="_blank">
+      <area shape="rect" coords="473,43,513,79" href="https://plus.google.com/u/2/111131413690955875349/posts" target="_blank">
+      <area shape="rect" coords="848,67,1037,89" href="mailto:info@infinitelabs.com">
     </map>
 <br><br>
     
-	<a href="http://www.infinitelabs.com" class="black">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
-    <a href="http://www.infinitelabs.com/cart/cart.php" class="black">Cart</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="" class="black">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="http://www.infinitelabs.com/faq.php" class="black">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="http://www.infinitelabs.com/contact.php" class="black">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="http://www.infinitelabs.com/privacy.php" class="black">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="http://www.infinitelabs.com/terms.php" class="black">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="http://www.infinitelabs.com/about.php" class="black">About Us</a> 
+	<a href="http://infinitelabs.com" class="black">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+    <a href="http://infinitelabs.com/cart/cart.php" class="black">Cart</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://infinitelabs.com/faq.php" class="black">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://infinitelabs.com/contact.php" class="black">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://infinitelabs.com/privacy.php" class="black">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://infinitelabs.com/terms.php" class="black">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://infinitelabs.com/about.php" class="black">About Us</a> 
     
     <br><br>
 	2013 Infinite Labs®, LLC. All rights reserved. InfiniteLabs.com and IamJuggernaut.com are trademarks of Infinite Labs®, LLC.
@@ -962,15 +1714,23 @@ filter: FlipH; -ms-filter: 'FlipH';"></div>
 
  <!-- Google Code for C2713250_infinitelabs_National Conversion Page --> <script type="text/javascript"> var google_conversion_id = 995289252; var google_conversion_language = "en"; var google_conversion_format = "3"; var google_conversion_color = "ffffff"; var google_conversion_label = "TOoaCOSm3AMQpNHL2gM"; var google_conversion_value = 0; </script> <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"> </script> <noscript> <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/995289252/?value=0&amp;label=TOoaCOSm3AMQpNHL2gM&amp;guid=ON&amp;script=0"/> </div> </noscript>
    <script type="text/javascript"> adroll_adv_id = "RAX2LD4APRH7TKYWJRXJEU"; adroll_pix_id = "A55AHEJ4KFBFVIRZIOL4AC"; (function () { var oldonload = window.onload; window.onload = function(){ __adroll_loaded=true; var scr = document.createElement("script"); var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); scr.setAttribute('async', 'true'); scr.type = "text/javascript"; scr.src = host + "/j/roundtrip.js"; ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr); if(oldonload){oldonload()}}; }()); </script>
-   <img src="http://ad.reachlocal.com/pixel?id=1974045&amp;id=1974062&amp;t=2" width="1" height="1">
+   <img src="http://ad.reachlocal.com/pixel?id=1974045&amp;id=1974062&amp;t=2" width="1" height="1" alt="Google">
 
  
 
    <!-- Google Code for C2713313_infinitelabs_National Conversion Page --> <script type="text/javascript"> var google_conversion_id = 995289252; var google_conversion_language = "en"; var google_conversion_format = "3"; var google_conversion_color = "ffffff"; var google_conversion_label = "Z8yDCNyn3AMQpNHL2gM"; var google_conversion_value = 0; </script> <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"> </script> <noscript> <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/995289252/?value=0&amp;label=Z8yDCNyn3AMQpNHL2gM&amp;guid=ON&amp;script=0"/> </div> </noscript>
    <script type="text/javascript"> adroll_adv_id = "HKO3XGC6VRCEVFI55U7YMN"; adroll_pix_id = "H3HIDTTE3RFIVMU4VN562K"; (function () { var oldonload = window.onload; window.onload = function(){ __adroll_loaded=true; var scr = document.createElement("script"); var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); scr.setAttribute('async', 'true'); scr.type = "text/javascript"; scr.src = host + "/j/roundtrip.js"; ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr); if(oldonload){oldonload()}}; }()); </script>
-   <img src="http://ad.reachlocal.com/pixel?id=1974081&amp;id=1974099&amp;t=2" width="1" height="1">
+   <img src="http://ad.reachlocal.com/pixel?id=1974081&amp;id=1974099&amp;t=2" width="1" height="1" alt="Google">
+<!-- SHARE THIS -->
+<script type="text/javascript">stLight.options({publisher: "ur-8333a62-3d96-1822-9237-8df8e2835ab2", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<script>
+var options={ "publisher": "ur-8333a62-3d96-1822-9237-8df8e2835ab2", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "googleplus", "linkedin", "pinterest", "tumblr", "myspace", "stumbleupon", "reddit", "digg", "email", "sharethis"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+<!-- END .. SHARE THIS -->
+
  <!-- Segment Pixel - Infinite Labs - DO NOT MODIFY -->
-<img src="http://ib.adnxs.com/seg?add=625287&amp;t=2" width="1" height="1">
+<img src="http://ib.adnxs.com/seg?add=625287&amp;t=2" width="1" height="1" alt="Infinite Labs">
 <!-- End of Segment Pixel -->
 
 </body></html>
