@@ -1,75 +1,60 @@
-> *The following text is extracted and transformed from the xp5.net privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628125948id_/http%3A//xp5.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xp5.net privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221075944id_/http%3A//xp5.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Games (XP5.NET)
 
-## Our Commitment To Privacy
+This Privacy Policy governs the manner in which  XP5 Arcade collects, uses, maintains and discloses information collected from users (each, a "User") of the http://xp5.net website ("Site"). This privacy policy applies to the Site and all products and services offered by  XP5 Arcade.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-As a registered Facebook user, you are also subject to Facebook’s privacy policy. Please check your Facebook account privacy settings for further information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-## Collecting information about you
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-We collect different types of information about App users for four main reasons:
+ XP5 Arcade may collect and use Users personal information for the following purposes:
 
-1\. To personalise the content of the App for individual users.  
-2\. To help us to monitor and improve the App.  
-3\. To advertise on the App.  
-4\. With user consent, to market services to individual users.
+\- To improve customer service
 
-## Sharing your information with us and others
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-When you first access the App, for example by clicking on a link to a Game application from your Facebook newsfeed, you will be presented with a Facebook permissions page, which will advise you about the Facebook information you will be sharing with the App and other Facebook users. You can then decide whether or not to share your Facebook information by using the App. If you decide not to grant permission you will not be able to use the App.
+\- To personalize user experience
 
-By granting permission you will be agreeing to share your Facebook user details (including your name, profile picture, gender, networks, user ID and any other information you choose to share according to your Facebook account settings) as well as the user details of your Facebook friends, and information about your use of the App, for example, the game you are playing.
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-If you choose to post content or other data on the App, for example, by commenting on an game, this can be accessed by all of your Facebook friends.
+\- To improve our Site
 
-## What we do with the information we gather
+We may use feedback you provide to improve our products and services.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+\- To run a promotion, contest, survey or other Site feature
 
-* Internal record keeping.
+To send Users information they agreed to receive about topics we think will be of interest to them.
 
-* We may use the information to improve our products and services.
+\- To send periodic emails
 
-* We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
-## Security
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-## General Policy.
+Third party websites
 
-The games provided by this site are considered to be from the public domain, e.g. they are widely found on many other gaming sites etc., and comply with second party site’s policies. We try our best to give as much credit back to those authors/owners/organisations etc. as possible.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-But if you believe such a game should not be featured on our website, Please contact us at webmaster@xp5.nry and we shall arrange to take off the game as soon as possible. Usually within 24-48 hours.”
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-## Log Files
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-Like many other Web sites, xp5.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+ XP5 Arcade has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-## Cookies and Web Beacons
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-xp5.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-A cookie is a small data file that we transfer to your computer’s hard disk, generally to quickly identify a user’s computer and to “remember” things about the user’s visit, such as your preferences or a user name and password. The Service sends cookies to your computer when you access or view content of a xp5. Information contained in a cookie may be linked to your Personal Information for purposes such as improving the quality of our Service, tailoring recommendations to your interests, and making the Service easier to use. You can disable cookies at any time, although you may not be able to access or use features of the Service.
+ XP5 Arcade
 
-We may feature advertisements served by third party advertising companies which deliver cookies to your computer so the ads you see can be tracked. Since the third party advertising companies tag your computer with a number, they will be able to recognize your computer each time they send you an advertisement. These advertisers may use Non-Personal Information about your visits to our Service in order to provide advertisements about goods and services of interest to you. We will not provide these third party advertising companies with any Personal Information.
+http://xp5.net
 
-For example, we have contracted with certain companies to place tool bars and advertisements on our applications for cross-promotion purposes. These companies may monitor certain pages of our Service for the purpose of reporting website traffic, statistics, advertisement “click-thrus,” and/or other activities on our Service. They use monitoring technologies to compile statistics about our Service visitors.
+This document was last updated on July 10, 2013
 
-## Our Commitment To Childrens Privacy
+  
 
-The Service is not geared toward children under the age of 14 and we do not knowingly collect Personal Information from children under the age of 14. If we learn that a child under 14 has provided us with Personal Information we will delete such information from our files.
-
-## Links to third party Ads
-
-From time to time we may include at the Site links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
-
-We allow third party advertisers to post advertisements on our Site. These third parties may place cookies on certain pages of our Site. We do not control those third parties, or their cookies. This privacy policy does not cover those third party advertisers use of cookies.
-
-## Changes to this Privacy Statement
-
-The contents of this statement may be altered at any time, at our discretion.  
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@xp5.net.
