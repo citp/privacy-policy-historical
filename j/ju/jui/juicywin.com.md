@@ -1,39 +1,44 @@
-> *The following text is extracted and transformed from the juicywin.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218015553id_/http%3A//www.juicywin.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicywin.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221131833id_/http%3A//juicywin.com/privacy_statement.php) for the most accurate reproduction.*
 
-# Juicy Win
+# Juicy Win - Win Prizes Every Week and Gain Entry into Our £250,000 Prize Draw
 
-Privacy Statement
+This privacy policy sets out how "Juicy Win" uses and protects any information that you give "Juicy Win" when you use this website.
 
-This privacy policy sets out how "Juicy Win" uses and protects any information that you give "Juicy Win" when you use this website.  
 "Juicy Win" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 "Juicy Win" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-**What we collect**
+#### What we collect
 
 We may collect the following information:
 
-Mobile number and / or landline number.   
-Contact information including email address   
-Demographic information such as postcode, preferences and interests   
-Other information relevant to customer surveys and/or offers 
+  * Mobile number and / or landline number.
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
-What we do with the information we gather:
+
+
+#### What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Internal record keeping**
+#### Internal record keeping
 
 We may use the information to improve our products and services.   
-We may periodically send promotional messages about new products, special offers or other information which we think you may find interesting using the mobile number which you have provided.   
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, or text message.   
+
+
+We may periodically send promotional messages about new products, special offers or other information which we think you may find interesting using the mobile number which you have provided.
+
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, or text message.
+
 We may use the information to customise the website according to your interests. 
 
-**Security**
+#### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+#### How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -43,24 +48,26 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Links to other websites**
+#### Links to other websites
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Controlling your personal information**
+#### Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-Whenever you are asked to fill in a form on the website, look for a box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes   
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by texting 'No Info' to 61177. 
+Whenever you are asked to fill in a form on the website, look for a box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by texting 'No Info' to 61177   
 
-**Disclosure of your personal information**
+
+#### Disclosure of your personal information
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. Specifically, personal information which we collect about you when you visit this site will be disclosed only to the following organisations or people:
 
-Any company or other entity to whom we may sell all or part of our business;  
-Any competent legal, regulatory or law enforcement authority. In the latter case, you will not be informed of any disclosure nor of any reasons for such disclosure and you hereby waive any and all rights that you may have, whether at law or otherwise, of any nature and in any jurisdiction, in connection with such disclosure;  
-Our professional advisers or other appropriate third parties, if your use of our service or this website is in breach of the terms and conditions contained herein. 
+  * Any company or other entity to whom we may sell all or part of our business;
+  * Any competent legal, regulatory or law enforcement authority. In the latter case, you will not be informed of any disclosure nor of any reasons for such disclosure and you hereby waive any and all rights that you may have, whether at law or otherwise, of any nature and in any jurisdiction, in connection with such disclosure; 
+  * Our professional advisers or other appropriate third parties, if your use of our service or this website is in breach of the terms and conditions contained herein.
+
+
 
 We may use your personal information to send you promotional information about other services which we think you may find interesting if you tell us that you wish this to happen.
 
