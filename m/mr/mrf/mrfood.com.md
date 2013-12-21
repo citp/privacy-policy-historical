@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607041358id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221233007id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mrfood.com
 
@@ -155,10 +155,6 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 | 
 
-Please Wait 
-
-#### Thanks for signing up
-
-#### Sorry, we could not sign you up.  
+[](http://www.mrfoodshop.com/mr-food-test-kitchen-just-one-more-bite.html)  
   
 ---|---|---
