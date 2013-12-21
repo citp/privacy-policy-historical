@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521213725id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221010150id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ The Adobe Flash Player is a powerful application and web tool that allows rapid 
 
 We, our third party service providers, advertiser or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
 
-You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information.
+At this time sites on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include "do not track" instructions. You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information.
 
 #### Collection of Information by Third-Party Sites, Ad Servers, and Sponsors
 
@@ -112,4 +112,4 @@ If you have any questions or concerns about the online privacy statement for thi
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.
 
-The Privacy Statement posted on this site was updated in February, 2011.
+The Privacy Statement posted on this site was updated December 20, 2013.
