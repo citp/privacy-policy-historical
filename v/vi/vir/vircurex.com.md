@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508111937id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221093459id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
-# Bitcoin, Namecoin, Litecoin, Devcoin, IXCoin, PPCoin, Terracoin (BTC/NMC/LTC/DVC/IXC/PPC/TRC,FTC) Exchange and Trading Platform
+# Bitcoin, Namecoin, Litecoin, Devcoin, IXCoin, PPCoin, Terracoin, Freicoin, Feathercoin, Primecoin (BTC/NMC/LTC/DVC/I0C/IXC/PPC/TRC/FRC/FTC/XPM) Exchange and Trading Platform
 
 Date of last revision: 30th October 2011
 
 ## Introduction
 
 Protecting personally identifying information is a core business value of ours. This privacy statement describes how Vircurex acquires, collects and uses the personally identifying information that you provide or that is generated while using Vircurex's web sites.   
-If you have questions about this Privacy Statement or want to contact us regarding how we handle your data, please send an email to customerservice@vircurex.com 
+If you have questions about this Privacy Statement or want to contact us regarding how we handle your data, please send an email to customerservice@vircurex.com
 
 ## Cookies
 
