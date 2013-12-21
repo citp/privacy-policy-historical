@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the betfair.de privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610072054id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betfair.de privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221211446id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Betfair</title>
-    <meta name="description" lang="en" content="Online sports betting: Win up to 20% more - live in-play, best odds on Sports, Football and Horse Racing. For safe and secure betting, Casino, Games and Poker - enter now.">
+    <meta name="description" lang="en" content="Sign up for a FREE bet. Cash Out your In-Play bets, place a Multiple and get the best value. We also offer Games, Poker, Bingo and Casino. Bet &amp; Win now.">
     <meta name="keywords" lang="en" content="bet online, sports betting, bet, betting, football betting, horse racing betting, football odds">
     <meta name="robots" content="index,follow">
     <meta name="language" content="en">
@@ -75,7 +75,7 @@ var betfair = {
         }
     }
 };    </script>
-            <link type="text/css" rel="stylesheet" media="all" href="http://cache.cdnbf.net/www/ALL_BRANDS/GBR/en/prospect/css/generic_text_page.css?ver=8.49">
+            <link type="text/css" rel="stylesheet" media="all" href="http://cache.cdnbf.net/www/ALL_BRANDS/GBR/en/prospect/css/generic_text_page.css?ver=8.60">
     </head>
 <body id="Privacy_Policy" class="www ALL_BRANDS GBR en prospect aboutUs Privacy_Policy">
     <a href="#" class="button-back-to-top"></a>
@@ -109,6 +109,7 @@ var betfair = {
             <li><a href="/aboutUs/Sportsbook.Rules.And.Regulations#sportsbookparta">Introduction</a></li>
             <li><a href="/aboutUs/Sportsbook.Rules.And.Regulations#sportsbookpartb">General rules</a></li>
             <li><a href="/aboutUs/Sportsbook.Rules.And.Regulations#sportsbookpartc">Specific sports rules</a></li>
+			<li><a href="/aboutUs/Sportsbook.Rules.And.Regulations#sportsbookpartd">Sportsbook Specials</a></li>
         </ul>
     </li>
     <li class="hassubmenu expanded"><a href="/aboutUs/Betfair.Charges/">Betfair Charges</a>
@@ -259,9 +260,9 @@ var betfair = {
 				<p>NOTE: There may be restrictions placed your betting on Australian Events if you have not complied with Betfair's know your client ("KYC") processes. Further information can be found in the 'Help' pages of the website.</p>
 				<p>© 2011 The Sporting Exchange Limited. All rights reserved. BETFAIR<sup>®</sup> is a registered trade mark of The Sporting Exchange Limited.</p>
 </div>
-    <script type="text/javascript" src="http://cache.cdnbf.net/www/ALL_BRANDS/GBR/en/prospect/js/thirdparty/jquery.js?ver=8.49"></script>
+    <script type="text/javascript" src="http://cache.cdnbf.net/www/ALL_BRANDS/GBR/en/prospect/js/thirdparty/jquery.js?ver=8.60"></script>
 <script type="text/javascript" src="http://cache.cdnbf.net/l/i13n/latest/deps.js"></script>
-<script type="text/javascript" src="http://cache.cdnbf.net/l/i13n/latest/i13n-min.js?ver=8.49"></script>
+<script type="text/javascript" src="http://cache.cdnbf.net/l/i13n/latest/i13n-min.js?ver=8.60"></script>
 <script type="text/javascript">
         YUI({bootstrap: false}).use('*', function (Y) {
         var about_us_i13n = new Y.i13n({
@@ -414,23 +415,29 @@ var betfair = {
                     $(firstItem).addClass("selected");
                     selectedElement.addClass("expanded").removeClass("selected");
                 } else {
-                    var anchor = $(".section a[name="+hash+"]");
-                    anchor.parents(".section").show();
-                    $(document).scrollTop(anchor.offset().top);
-                    if (menuItemSelected === false) { // no menu item selected, highlight the section and expand it
-                        $(".generic-menu a").each(function() {
-                            if ($(this).attr('href').indexOf(anchor.parents(".section").attr("id")) != -1) {
-                                // check if the item is inside a submenu to expand it
-                                if ($(this).parents('.hassubmenu')) {
-                                    $(this).parents('.hassubmenu').addClass("expanded").addClass("selected");
-                                }
-                            }
-                        });
-                    }
-                    $(".section a[name="+hash+"]").each(function (){
-                        $(this).parents(".section").show();
-                        $('html,body').scrollTop($(this).offset().top);
-                    });
+					var anchor = $(".section a[name="+hash+"]");
+					if (anchor.size() == 0) {
+						$(".section").first().show();
+					} else {						
+						anchor.parents(".section").show();
+						try {
+						$(document).scrollTop(anchor.offset().top);
+						} catch(err) {}
+						if (menuItemSelected === false) { // no menu item selected, highlight the section and expand it
+							$(".generic-menu a").each(function() {
+								if ($(this).attr('href').indexOf(anchor.parents(".section").attr("id")) != -1) {
+									// check if the item is inside a submenu to expand it
+									if ($(this).parents('.hassubmenu')) {
+										$(this).parents('.hassubmenu').addClass("expanded").addClass("selected");
+									}
+								}
+							});
+						}
+						$(".section a[name="+hash+"]").each(function (){
+							$(this).parents(".section").show();
+							$('html,body').scrollTop($(this).offset().top);
+						});
+					}
                 }
             } else {
                 $(".section").first().show();
