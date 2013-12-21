@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624181033id_/http%3A//kontera.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221033909id_/http%3A//kontera.com/about/privacy-policy) for the most accurate reproduction.*
 
 # About Us | Privacy Policy | Kontera
 
