@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the europeupclose.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621072106id_/http%3A//www.europeupclose.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the europeupclose.com privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221132810id_/http%3A//www.europeupclose.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf8">
@@ -20,11 +20,13 @@
 <title>
 EuropeUpClose.com</title>
 <link rel="stylesheet" id="styleSheetsMyTrips-css" href="http://www.europeupclose.com/wp-content/plugins/ManageMainCities/style.css?ver=3.3" type="text/css" media="all">
+<link rel="stylesheet" id="batch_css-css" href="http://www.europeupclose.com/wp-content/plugins/batchmove/css/batch.css?ver=3.3" type="text/css" media="all">
 <link rel="stylesheet" id="jquery.lightbox.min.css-css" href="http://www.europeupclose.com/wp-content/plugins/wp-jquery-lightbox/styles/lightbox.min.css?ver=1.3" type="text/css" media="all">
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript">try{jQuery.noConflict();}catch(e){};</script>
 <script type="text/javascript" src="http://www.europeupclose.com/wp-includes/js/tinymce/tiny_mce.js?ver=3.3"></script>
 <script type="text/javascript" src="http://www.europeupclose.com/wp-content/plugins/ManageMainCities/functions.js?ver=3.3"></script>
+<script type="text/javascript" src="http://www.europeupclose.com/wp-content/plugins/batchmove/js/batch.js?ver=3.3"></script>
 <script type="text/javascript" src="http://www.europeupclose.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.2"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.europeupclose.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.europeupclose.com/wp-includes/wlwmanifest.xml"> 
@@ -65,27 +67,49 @@ EuropeUpClose.com</title>
 
 </style>
 
+<script type="text/javascript">
+if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+  var myString = document.referrer;
+  var r        = myString.match(/cd=(.*?)&/);
+  var rank     = parseInt(r[1]);
+  var kw       = myString.match(/q=(.*?)&/);
+  
+  if (kw[1].length > 0) {
+    var keyWord  = decodeURI(kw[1]);
+  } else {
+    keyWord = "(not provided)";
+  }
+
+  var p        = document.location.pathname;
+  _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+}
+</script>
+
+
 
 
 <div id="header">
 <div style="width:700px;margin:0px auto;">
+ <center>
+<!-- BEGIN GN Ad Tag for Europe Up Close 728x90 ros -->
+<br>
+<a href="http://www.viewfromthevinestravel.com/"><img src="http://www.europeupclose.com/images/Vines-ad-728-90.jpg"></a>
+<!-- END AD TAG -->
+</center>
 </div>
   <div id="headerleft"> <a href="http://www.europeupclose.com/"><img title="Europe Travel Guide" src="http://www.europeupclose.com/wp-content/themes/europeupclose/images/header/europeupclose_logo.png" alt="Europe Travel Guide"></a> </div>
   <div id="headerright"> <img title="Photos Of Europe" src="http://www.europeupclose.com/wp-content/themes/europeupclose/images/header/euc_image_2.jpg" alt="Photos Of Europe"> </div>
 </div>
 <div id="subnavbartop">
   <ul id="subnav">
-     <li><a href="/book-travel/europe-hotels.php/">Hotels In Europe</a></li>
-    <li><a href="/destinations/">Destinations In Europe</a></li>
-    <li><a href="/articles/europe/">General Europe</a></li>
-    <li><a href="/articles/all-europe-travel-tips.php/">Europe Travel Tips</a></li>
-    <li><a href="/deals/all-europe-travel-deals.php/">Europe Travel Deals</a></li>
+    <!--<li><a href="/book-travel/europe-hotels.php">Hotels In Europe</a></li>
+    <li><a href="/articles/europe">Europe Articles</a>-->
+	<li><a href="/">Home</a></li>
+    <li><a href="/articles/all-europe-travel-tips.php">Article Categories</a></li>
   </ul>
 </div>
 <div id="subnavbar">
   <ul id="subnav">
-          <li><a href="/">Home</a>
-    </li>
     <li><a href="/about-us/">About Us</a>
     </li>
     <li><a href="/contact/">Contact Us</a>
@@ -170,61 +194,63 @@ if(parseInt(navigator.appVersion) >= 4){win.window.focus();}
     </ul>
   </div>
 	
-    <div class="posts hcbox">
 
-        <div id="recentpostheader"><strong>Compare Prices From Dozens Of Websites!</strong></div>
-<div class="hcsearch">
-<!-- SEARCH BOX BEGIN FROM HERE -->
-<div id="id-HC-Searchbox">
-<script type="text/javascript" src="http://hotels.europeupclose.com/SearchBox/101454"></script>
-</div>
-<!-- SEARCH BOX ENDS HERE -->
-</div>  
+	 
+ <div class="posts hcbox">
+	<div id="recentpostheader"><strong>Compare Prices From Dozens Of Websites!</strong></div>
+	<div class="hcsearch">
+		<!-- SEARCH BOX BEGIN FROM HERE -->
+		<div id="id-HC-Searchbox" style="z-index:-1000">
+			<script type="text/javascript" src="http://hotels.europeupclose.com/SearchBox/101454"></script>
+		</div>
+		<!-- SEARCH BOX ENDS HERE -->
 	</div>  
+ </div>  
   
   <div class="posts">
     <ul id="recentposts">
       <li id="recent-posts">
         <div id="recentpost"><strong>Recent Posts</strong></div>
         <ul>
-          	<li><a href="http://www.europeupclose.com/article/denmark-the-natural-beauty-of-aero-island/" title="Denmark: The Natural Beauty of Aero Island">Denmark: The Natural Beauty of Aero Island</a></li>
-	<li><a href="http://www.europeupclose.com/article/exploring-rome-from-the-piazza-della-repubblica/" title="Exploring Rome from the Piazza della Repubblica">Exploring Rome from the Piazza della Repubblica</a></li>
-	<li><a href="http://www.europeupclose.com/article/barcelona-the-new-mecca-of-shoes/" title="Barcelona: The New Mecca of Shoes">Barcelona: The New Mecca of Shoes</a></li>
-	<li><a href="http://www.europeupclose.com/article/alhambra-spains-last-stronghold-of-the-moorish-kings/" title="Alhambra: Spain’s Last Stronghold of the Moorish Kings">Alhambra: Spain’s Last Stronghold of the Moorish Kings</a></li>
-	<li><a href="http://www.europeupclose.com/article/best-paris-hotels-under-100-euros/" title="Best Budget Paris Hotels Under 100 Euros">Best Budget Paris Hotels Under 100 Euros</a></li>
-	<li><a href="http://www.europeupclose.com/article/hidden-treasures-in-naples-santa-chiara/" title="Hidden Treasures in Naples’ Santa Chiara">Hidden Treasures in Naples’ Santa Chiara</a></li>
-	<li><a href="http://www.europeupclose.com/article/enjoying-a-tulip-time-cruise-in-the-netherlands/" title="Enjoying a Tulip-Time Cruise in The Netherlands">Enjoying a Tulip-Time Cruise in The Netherlands</a></li>
-	<li><a href="http://www.europeupclose.com/article/extraordinary-encounters/" title="Extraordinary Encounters">Extraordinary Encounters</a></li>
-	<li><a href="http://www.europeupclose.com/article/exploring-torcello-venices-most-deserted-island/" title="Exploring Torcello, Venice’s Most Deserted Island">Exploring Torcello, Venice’s Most Deserted Island</a></li>
-	<li><a href="http://www.europeupclose.com/article/transylvania-incorporated-a-case-study-in-globalization/" title="Transylvania Incorporated: a Case Study in Globalization">Transylvania Incorporated: a Case Study in Globalization</a></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-  
-    <div class="posts">
-    <ul id="recentposts">
-      <li id="recent-posts">
-        <div id="recentpost"><strong>Our Top Hotel Recommendations</strong></div>
-        <ul>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/favorite-amsterdam-hotels/">Where To Stay In Amsterdam</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/where-to-stay-in-athens-greece/">Where To Stay In Athens</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/where-to-stay-in-barcelona-spainbarcelona-spain/">Where To Stay In Barcelona</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/where-to-stay-in-berlin-editors-picks/">Where To Stay In Berlin</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/hotel-recommendations-in-brussels-belgium/">Where To Stay In Brussels</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/where-to-stay-in-copenhagen-by-neighborhood/">Where To Stay In Copenhagen</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/choosing-perfect-hotel-dublin/">Where To Stay In Dublin</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/stay-in-dubrovnik/">Where To Stay In Dubrovnik</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/inviting-edinburgh-hotels/">Where To Stay In Edinburgh</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/best-florence-hotels/">Where To Stay In Florence</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/where-to-stay-in-milan-italy/">Where To Stay In Milan</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/favorite-munich-hotels/">Where To Stay In Munich</a><br>
-<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"><a href="http://www.europeupclose.com/article/where-to-stay-in-venice/">Where To Stay In Venice</a><br>
+          	<li><a href="http://www.europeupclose.com/article/top-5-coastal-walks-in-cornwall/" title="Top 5 Coastal Walks in Cornwall">Top 5 Coastal Walks in Cornwall</a></li>
+	<li><a href="http://www.europeupclose.com/article/holiday-gifts-for-travelers/" title="Holiday Gifts for Travelers">Holiday Gifts for Travelers</a></li>
+	<li><a href="http://www.europeupclose.com/article/celebrating-dylan-thomas-in-swansea-wales/" title="Celebrating Dylan Thomas in Swansea, Wales">Celebrating Dylan Thomas in Swansea, Wales</a></li>
+	<li><a href="http://www.europeupclose.com/article/10-ways-to-beat-jet-lag-in-amsterdam/" title="10 Ways to Beat Jet Lag in Amsterdam">10 Ways to Beat Jet Lag in Amsterdam</a></li>
+	<li><a href="http://www.europeupclose.com/article/the-jewish-museum-of-athens-recalling-the-past/" title="The Jewish Museum of Athens: Recalling the Past">The Jewish Museum of Athens: Recalling the Past</a></li>
+	<li><a href="http://www.europeupclose.com/article/copenhagen-street-eats/" title="Copenhagen Street Eats">Copenhagen Street Eats</a></li>
+	<li><a href="http://www.europeupclose.com/article/vintage-heaven-in-budapest/" title="Vintage Heaven in Budapest">Vintage Heaven in Budapest</a></li>
+	<li><a href="http://www.europeupclose.com/article/uncovering-the-past-in-athens-metro-stations/" title="Uncovering the Past in Athens’ Metro Stations">Uncovering the Past in Athens’ Metro Stations</a></li>
+	<li><a href="http://www.europeupclose.com/article/avoiding-credit-card-woes-in-europe/" title="Avoiding Credit Card Woes in Europe">Avoiding Credit Card Woes in Europe</a></li>
+	<li><a href="http://www.europeupclose.com/article/10-ways-to-beat-jet-lag-in-rome/" title="10 Ways to Beat Jet Lag in Rome">10 Ways to Beat Jet Lag in Rome</a></li>
         </ul>
       </li>
     </ul>
   </div>
 
+<!--
+    <div class="posts">
+    <ul id="recentposts">
+      <li id="recent-posts">
+        <div id="recentpost"><strong>Our Top Hotel Recommendations</strong></div>
+        <ul>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/favorite-amsterdam-hotels/">Where To Stay In Amsterdam</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/where-to-stay-in-athens-greece/">Where To Stay In Athens</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/where-to-stay-in-barcelona-spainbarcelona-spain/">Where To Stay In Barcelona</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/where-to-stay-in-berlin-editors-picks/">Where To Stay In Berlin</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/hotel-recommendations-in-brussels-belgium/">Where To Stay In Brussels</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/where-to-stay-in-copenhagen-by-neighborhood/">Where To Stay In Copenhagen</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/choosing-perfect-hotel-dublin/">Where To Stay In Dublin</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/stay-in-dubrovnik/">Where To Stay In Dubrovnik</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/inviting-edinburgh-hotels/">Where To Stay In Edinburgh</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/best-florence-hotels/">Where To Stay In Florence</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/where-to-stay-in-milan-italy/">Where To Stay In Milan</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/favorite-munich-hotels/">Where To Stay In Munich</a><br/>
+<img src="/images/icons/europe_hotels_icon-small.png" style="vertical-align:middle;"/><a href="http://www.europeupclose.com/article/where-to-stay-in-venice/">Where To Stay In Venice</a><br/>
+        </ul>
+      </li>
+    </ul>
+  </div>
+-->
 	
 		
  	
@@ -271,7 +297,7 @@ _qevents.push( { qacct:"p-e0-zKaEjUkGJk"} );
 <div id="footer">
 <p><a href="/friends/">Friends</a> · <a href="/advertise/">Advertise</a></p>
 <br>
-  <p>Copyright © 2012 Europe Up Close LLC · All rights reserved · <a href="/destinations/">Europe Travel Guides</a> · <a href="/privacy-policy.php/">Privacy Policy</a></p>
+  <p>Copyright © 2012 Europe Up Close LLC · All rights reserved · <a href="/privacy-policy.php/">Privacy Policy</a></p>
 </div>
 
 <!-- AddThis Button Begin -->
