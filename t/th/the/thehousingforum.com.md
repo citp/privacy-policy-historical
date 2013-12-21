@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehousingforum.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621033034id_/http%3A//thehousingforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehousingforum.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221015539id_/http%3A//thehousingforum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Housing Forum
+# Privacy Policy « The Housing Forum
 
 This Privacy Policy was last revised on November 15, 2012. 
 
