@@ -1,36 +1,7 @@
-> *The following text is extracted and transformed from the safelite.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505015200id_/http%3A//www.safelite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelite.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221012114id_/http%3A//www.safelite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Safelite AutoGlass®
 
-## What does Safelite® Group do with my personal information?
-
-Three steps to find out:
-
-  1. Review each fact to learn what Safelite® does with your personal information.
-  2. Use the table to understand Safelite's® sharing practices and if it offers the option to limit sharing.
-  3. Read the frequently asked questions for additional information.
-
-
-
- **Fact One**  
-Companies can share customers’ personal information for particular reasons. 
-
-**Fact Two**  
-Many companies share customers’ personal information to run their everyday business. 
-
-**Fact Three**  
-Companies choose the reason they share customers’ personal information. 
-
-**Fact Four**  
-If a company shares your personal information, you may have the option to limit sharing.
-
-Reasons we can share your personal information | Does Safelite® share? | Can you limit the sharing?  
----|---|---  
-For our everyday business purposes, such as to make an appointment, fix your auto glass, or interview you for a job. | No | N/A  
-To complete an insurance claim on your behalf | Yes | No  
-For our marketing purposes to offer our products and services to you  
-We contract with Dotomi to serve ads on our behalf across the Internet and sometimes on this site. They will collect anonymous information about your visits to our Website, and your interaction with our products and services. They may also use information about your visits to this and other Websites to target advertisements for goods and services. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected in this process. If you do not want Dotomi to collect this information you may opt-out. Opting-out will not in any way affect your use of our site. In order to opt-out please click on Ad Info. | Yes | [Ad Info](http://www.networkadvertising.org/managing/opt_out.asp)  
-  
 ## Frequently asked Questions
 
 ### Who is providing this notice?
@@ -108,6 +79,3 @@ The effective date of this notice is June 2, 2011.
 ### Questions?
 
 Email: onlinehelp@safelite.com
-
-For a quick and easy way to make an appointment schedule online now.  
-[](http://www.safelite.com/schedule-service/?no_cache=1)
