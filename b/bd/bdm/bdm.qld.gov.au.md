@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610175702id_/http%3A//www.justice.qld.gov.au/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221192044id_/http%3A//www.justice.qld.gov.au/global/legals/privacy) for the most accurate reproduction.*
 
-# Privacy - Department of Justice and Attorney-General
+# Privacy and security - Department of Justice and Attorney-General
 
 
 
 
 ## Your privacy
 
-The Department of Justice and Attorney-General is committed to protecting user privacy. Like other Queensland public sector agencies, the department is required to comply with eleven (11) Information Privacy Principles (IPPs) contained in the [Information Privacy Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/ACTS/2009/09AC014.pdf), (IPS Act) that set out how personal information must be collected and managed in the public sector environment.
+The Department of Justice and Attorney-General is committed to protecting user privacy. Like other Queensland public sector agencies, the department is required to comply with eleven (11) Information Privacy Principles (IPPs) contained in the [Information Privacy Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf), (IPS Act) that set out how personal information must be collected and managed in the public sector environment.
 
 Back to top
 
@@ -60,16 +60,16 @@ Back to top
 
 ## Access to your information
 
-The [Right to Information Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/ACTS/2009/09AC013.pdf) (the RTI Act) and the [Information Privacy Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/ACTS/2009/09AC014.pdf) (the IP Act) give a right of access to information held by government (including documents held by the department), unless, on balance it would be contrary to the public interest to release the information.
+The [Right to Information Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/R/RightInfoA09.pdf) (the RTI Act) and the [Information Privacy Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf) (the IP Act) give a right of access to information held by government (including documents held by the department), unless, on balance it would be contrary to the public interest to release the information.
 
-If you wish to make a formal application, you can apply with the [Smart Service Queensland's Right to Information application form](https://www.smartservice.qld.gov.au/services/information-requests/home) for access under the RTI Act or IP Act to information held by Queensland Government departments and Ministers.
+If you wish to make a formal application, you can apply with the [Smart Service Queensland's Right to Information application form](https://www.smartservice.qld.gov.au/services/information-requests/apply.action) for access under the RTI Act or IP Act to information held by Queensland Government departments and Ministers.
 
-Alternatively, you can download the [Right to Information and Information Privacy Access Application](http://www.thepremier.qld.gov.au/library/pdf/Right-to-Information-and-Information-Privacy-Access-Appliation.pdf) and submit your application via post, fax or email or in person. You will need to submit your application this way if you wish to apply to agencies other than Queensland Government departments or Ministers.
+Alternatively, you can download the [Right to Information and Information Privacy Access Application (PDF, 171.5 KB)](http://www.justice.qld.gov.au/__data/assets/pdf_file/0005/133277/RTI-Access-App-form.pdf) and submit your application via post, fax or email or in person. You will need to submit your application this way if you wish to apply to agencies other than Queensland Government departments or Ministers.
 
 It helps if you provide as much information as possible about the document you are seeking. If you know the title, subject matter, agency reference number, type of document or the date it was produced, please specify these details in your application.
 
-If your application is for non-personal information, you will pay a $38 application fee and processing and access charges may apply.
+If your application is for non-personal information, you will pay a $41.90 application fee and processing and access charges may apply.
 
-You can also submit a [Information Privacy Personal Information Amendment Application](http://www.rti.qld.gov.au/downloads/Information%20Privacy%20Personal%20Information%20Amendment%20Application.pdf) under the IP Act if you believe the information is inaccurate, incomplete, out of date or misleading.
+You can also submit a [Information Privacy Personal Information Amendment Application](http://www.rti.qld.gov.au/accessing-government-information/personal-information-amendment) under the IP Act if you believe the information is inaccurate, incomplete, out of date or misleading.
 
 Back to top
