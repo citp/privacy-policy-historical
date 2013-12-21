@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621082150id_/http%3A//pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221020931id_/http%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # PCSPECIALIST - Privacy-policy
 
@@ -29,7 +29,9 @@ To ensure that your credit, debit or charge card is not being used without your 
 
 **Cookies**
 
-The company uses cookies for collecting user information from the website. Cookies are used to enhance the user experience of the website by remembering a specification previously configured, allowing the specification to be loaded easily when the website is visited up to 36 hours later. Cookies are also used to track the effectiveness of marketing campaigns on external websites, by initially pointing the visitor to a tracking URL. Cookies are not used in any other way and the Company (or any other third party) will never directly contact you based on data collected by cookies. 
+The Company uses cookies for collecting user information from the website. Cookies are used to enhance the user experience of the website by remembering a specification previously configured, allowing the specification to be loaded easily when the website is visited at a later date. Cookies are also used to track the effectiveness of marketing campaigns on external websites, by initially pointing the visitor to a tracking URL. Cookies are not used in any other way and the Company (or any other third party) will never directly contact you based on data collected by cookies. 
+
+The Company uses Google Analytics for the purposes of remarketing online. Third-party vendors, including Google, show our ads on sites across the Internet. The Company and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise, and serve ads based on your past visits to our website. If you do not wish for your data to be collected and used by Google Analytics, you can opt-out [here](https://tools.google.com/dlpage/gaoptout/). 
 
 PC Specialist Ltd
 
