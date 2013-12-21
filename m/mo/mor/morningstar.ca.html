@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the morningstar.ca privacy policy that was archived on 2013-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513042109id_/https%3A//members.morningstar.ca/PrivacyPolicy.aspx%3Fculture%3Den-CA) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morningstar.ca privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221170154id_/https%3A//members.morningstar.ca/PrivacyPolicy.aspx%3Fculture%3Den-CA) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Morningstar: Mutual fund investing, analysis, research, ratings and news
@@ -64,13 +64,98 @@
 	text-decoration: underline;
 }
 .greeter { width: 128px; margin-left: 10px; }
+.h_Logo {border-top: 1px solid #A7AAAF; }
 .h_Logo_col2 { width: 372px; }
+#tickertape
+	{
+		margin: auto auto 1px;
+		border: 1px solid #A7AAAF;
+		height: 30px;
+	    position:relative;
+		top: 0;
+		width: 993px;
+		z-index: 10000;
+		overflow-x:hidden;
+		}
+		
+	.close {
+		background-image: url("http://im.mstar.com/im/rampclose.gif");
+		background-repeat: no-repeat;
+		cursor: pointer;
+		float: right;
+		height: 12px;
+		margin: 0 auto;
+		padding: 0;
+		text-align: right;
+		width: 12px;
+		position:absolute;
+		left: 979px;
+	}
+	.collapsed {
+		background-image: url("http://im.mstar.com/im/rampopen.gif");
+		background-repeat: no-repeat;
+		cursor: pointer;
+		display: none;
+		height: 12px;
+		left: 979px;
+		margin: 0 auto;
+		position:absolute;
+		top: 2px;
+		width: 12px;
+		z-index: 20000;
+	}
+	
+	
 </style>
 
 
     <script src="//im.mstar.com/globalhome/js/ext_v1.0.js" language="javascript"></script>
     <script src="//im.mstar.com/globalhome/js/headerfooter.js" language="javascript"></script>
     <script src="//im.mstar.com/common/js/common_pack_0.0.12.js" language="javascript"></script>
+
+<!-- Real time Ticker Tape -->
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+  <script type="text/javascript">
+      var qstickertape = 'http://www2.morningstar.ca/components/tickerTape/tickertape.aspx?culture={0}';
+      $(document).ready(function() {
+          //var w = $(window).width() - 12;
+          var w = 995;
+          $('#tickertape').css("width", w);
+          $('#tickeriframe').attr("width", w);
+          if (qstickertape.length > 0) {
+              var t = $('<div><iframe id="tickeriframe" src="' + qstickertape + '" width="' + w + '" height="30" frameborder="0" scrolling="no"></iframe></div>').attr('id', 'tickertape');
+              $('body').prepend(t);
+              //t.insertBefore('.headerwrap');
+          }
+//          $(window).resize(function() {
+//              var ww = $(window).width();
+//              $('#tickertape').css("width", ww - 12);
+//              $('#tickeriframe').attr("width", ww - 12);
+
+//          });
+
+          $('.close').click(function() {
+              var c = $('.close').css("background-image");
+              if (c.indexOf('rampopen') == -1) {
+                  $('#tickertape').remove();
+                  $('.close').css({ "background-image": "url('http://im.mstar.com/im/rampopen.gif')", "margin-top": 0 });
+                  $('.close').attr('title', 'Show ticker tape')
+              }
+              else {
+                  //var nw = $(window).width() - 12;
+                  var t = $('<div><iframe id="tickeriframe" src="' + qstickertape + '" width="' + w + '" height="30" frameborder="0" scrolling="no"></iframe></div>').attr('id', 'tickertape');
+                  //t.appendTo('body');
+                  //t.insertBefore('.headerwrap');
+                  $('body').prepend(t);
+                  $('#tickertape').css("width", w);
+                  $('.close').css({ "background-image": "url('http://im.mstar.com/im/rampclose.gif')", "margin-top": "0 auto;" });
+                  $('.close').attr('title', 'Close ticker tape')
+              }
+
+          });
+      });
+	</script>
+	<!-- Real time Ticker Tape -->
 
 <script language="javascript">
 
@@ -160,9 +245,9 @@
         }
     }
 </script>
-
 <div class="headerwrap">
-    <!--[If !IE]> start logo <![endif]-->
+
+     <!--[If !IE]> start logo <![endif]-->
     <div class="h_Logo">
         <div class="h_Logo_row1">
             <a href="http://www2.morningstar.ca/homepage/h_ca.aspx?culture=en-CA" class="logo" title="Morningstar Logo"></a>
@@ -180,6 +265,7 @@
             <!--/form-->   
              
             </div>
+           
             <div class="h_Logo_col2"> 
                 <a href="http://corporate.morningstar.com/ca/asp/subject.aspx?xmlfile=2459.xml" class="h_text1">Contacts</a>
                 <a href="http://global.morningstar.com/ca" class="h_text1">Company Site</a>
@@ -187,8 +273,10 @@
                 <a href="javascript:switchLanguage('fr-CA')" class="h_text1">Français</a>
                 <a id="header_logout" href="https://members.morningstar.ca/logout.aspx?culture=en-CA" class="h_text1" style="display:none">Log Out</a>
                 <a id="header_login" href="https://members.morningstar.ca/login.aspx?culture=en-CA" class="h_text1" style="display:none">Log In</a>                    
+           </div>
+          
         </div>
-        </div>
+         
   	</div>  <!--[If !IE]> end logo <![endif]-->
     
     <!--[If !IE]> start leaderboard ads <![endif]-->
@@ -204,7 +292,7 @@
             <a id="nav_funds" href="http://www2.morningstar.ca/covers/fund_ca.aspx?culture=en-CA" class="h_tab1" title="Funds">Funds</a> 
             <a id="nav_stocks" href="http://www2.morningstar.ca/covers/stock_ca.aspx?culture=en-CA" class="h_tab1" title="Stocks">Stocks</a> 
             <a id="nav_etfs" href="http://www2.morningstar.ca/covers/etf_ca.aspx?region=CAN&amp;culture=en-CA" class="h_tab1" title="ETFs">ETFs</a>
-            <a id="nav_markets" href="http://www2.morningstar.ca/covers/market_ca.aspx?region=CAN&amp;culture=en-CA" class="h_tab1" title="Markets">Markets</a>
+            <a id="nav_markets" href="http://www2.morningstar.ca/covers/market_ca.aspx?region=CAN&amp;culture=en-CA" class="h_tab2" title="Markets">Markets<span class="navbeta">NEW</span></a>
             <a id="nav_classroom" href="http://www2.morningstar.ca/covers/personalfinance_ca.aspx?region=CAN&amp;culture=en-CA" class="h_tab3" title="Personal Finance">Personal Finance</a> 
             <a id="nav_library" href="http://www2.morningstar.ca/siteSearch/Default.aspx?culture=en-CA" class="h_tab1" title="Library">Library</a> 
           	<div class="h_tabbase"></div>
@@ -323,21 +411,11 @@
   	
     <!--[If !IE]> start copyright, seo <![endif]-->
     <div class="f_Copyright">
-        <div class="f_Copyright_row1"><a class="f_text4" href="http://www.morningstar.ca/globalhome/AboutUs/index.asp?language=ENG">Copyright © 2013 Morningstar Research Inc.</a>&nbsp; All rights reserved. Please read our <a class="f_text4" href="http://www.morningstar.ca/globalhome/personalize/freeuseragreement_CA.asp?language=ENG" target="_blank">Terms of Use</a>,<a class="f_text4" href="https://members.morningstar.ca/PrivacyPolicy.aspx?culture=en-CA" target="_blank">Privacy Policy</a>and <a class="f_text4" href="https://members.morningstar.ca/AccessibilityPolicy.aspx?culture=en-CA" target="_blank">Accessibility Policy.</a>If you have questions or comments please <a class="f_text4" href="mailto:cawebmaster@morningstar.com">contact Morningstar.</a><br>  </div>
+        <div class="f_Copyright_row1"><a class="f_text4" href="http://www.morningstar.ca/globalhome/AboutUs/index.asp?language=ENG">Copyright © 2013 Morningstar Research Inc.</a>&nbsp; All rights reserved. Please read our <a class="f_text4" href="http://www.morningstar.ca/globalhome/personalize/freeuseragreement_CA.asp?language=ENG" target="_blank">Terms of Use,</a> <a class="f_text4" href="https://members.morningstar.ca/PrivacyPolicy.aspx?culture=en-CA" target="_blank">Privacy Policy</a>and <a class="f_text4" href="https://members.morningstar.ca/AccessibilityPolicy.aspx?culture=en-CA" target="_blank">Accessibility Policy.</a> Our 5-year Accessibility Plan can be found <a class="f_text4" href="https://members.morningstar.ca/AccessibilityPolicy5Year.pdf" target="_blank">here.</a> If you have questions or comments please <a class="f_text4" href="mailto:cawebmaster@morningstar.com">contact Morningstar.</a><br>  </div>
   	</div>  <!--[If !IE]> end copyright, seo <![endif]-->
 </div>  <!--[If !IE]> end footerwrap <![endif]-->    
     
 <div id="AutoCompleteDropDownFooter"></div> 
-
-
-<!-- dev -->
-
-<!--script src="js/ojacb.js" language="javascript"></script>
-<script src="js/headerfooter.js" language="javascript"></script>
-<script type="text/javascript" src="js/jquery-1.2.6.pack.js"></script>
-<script type="text/javascript" src="js/SimpleQuotScript.js"></script>
-<script type="text/javascript" src="js/tween.js"></script>
-<script type="text/javascript" src="js/NewTickerTape.js"></script-->
 
 <script language="javascript">
     function setMSCookie(name, value) {
