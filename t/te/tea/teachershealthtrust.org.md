@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachershealthtrust.org privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404054151id_/http%3A//teachershealthtrust.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachershealthtrust.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221132223id_/http%3A//teachershealthtrust.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Teachers Health Trust : Privacy Policy
+# Privacy Policy : Teachers Health Trust
 
 Privacy Policy
 
