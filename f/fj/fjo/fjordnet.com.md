@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fjordnet.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619002654id_/http%3A//www.fjordnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fjordnet.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221020348id_/http%3A//www.fjordnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fjord
 
@@ -42,8 +42,4 @@ Fjordnet Limited (“Fjord”) is committed to preserving the privacy of all vis
 
 ### 8\. CONTACT
 
-8.1 All comments, queries and requests relating to our use of your information are welcomed and should be sent to Cedric Beherel at:
-
-Fjord Network Limited  
-19 Margaret Street, London, UK, W1W 8RR  
-[Email us](http://www.fjordnet.com/contact/Get_In_Touch/Fjord_%3E_Get_in_touch)
+8.1 All comments, queries and requests relating to our use of your information are welcomed and should be sent to webmaster@fjordnet.com
