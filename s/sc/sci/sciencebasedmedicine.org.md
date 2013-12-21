@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sciencebasedmedicine.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528173529id_/http%3A//www.sciencebasedmedicine.org/index.php/about-science-based-medicine/test) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencebasedmedicine.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221015205id_/http%3A//www.sciencebasedmedicine.org/about-science-based-medicine/test) for the most accurate reproduction.*
 
-# Science-Based Medicine » Privacy Policy
-
-May  12  2011 
-
-## [Privacy Policy](http://www.sciencebasedmedicine.org/index.php/about-science-based-medicine/test/)
+# Privacy Policy « Science-Based Medicine
 
 **Information Collection and Retention**
 
