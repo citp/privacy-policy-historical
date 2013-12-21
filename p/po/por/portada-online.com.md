@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the portada-online.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512204359id_/http%3A//www.portada-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portada-online.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221023943id_/http%3A//www.portada-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At Portada we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Portada.
-
-Portada adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
-
-If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.portada-online.com/marketingtohispanics/contact-portada/) through our website or write to us at
+At Portada we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Portada. Portada adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.portada-online.com/marketingtohispanics/contact-portada/) through our website or write to us at
 
 Portada  
 315 Fifth Avenue, Ste. 702  
 NY, NY 10016  
 USA
+
+### AdRoll and Partners
+
+As you browse Portada-Online.com, mercadotecnia.Portada-Online.com, latam.Portada-Online.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Portada-Online.com, mercadotecnia.Portada-Online.com, latam.Portada-Online.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can [visit this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
 
 ### Information we collect and how we use it
 
