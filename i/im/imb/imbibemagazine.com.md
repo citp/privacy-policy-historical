@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imbibemagazine.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624072749id_/http%3A//imbibemagazine.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imbibemagazine.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221084526id_/http%3A//imbibemagazine.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 * * *
 
-[HOME](http://imbibemagazine.com/) | PRIVACY  
+[HOME](http://www.imbibemagazine.com/) | PRIVACY  
 
 
 * * *
