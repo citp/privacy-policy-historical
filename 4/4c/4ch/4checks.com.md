@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619033410id_/http%3A//www.4checks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221192406id_/http%3A//www.4checks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
 
-# Privacy Policy Details & More for 4checks.com
+# 4checks - Personal Checks, Address Labels, Personal Cards, Checkbook Covers and Check Accessories
 
 ##  This is the Privacy Policy for 4checks.com.
 
-4checks.com features more than 800 personal and business check designs available from six major direct-to-consumer check brands:  
+4checks.com features more than 600 personal and business check designs available from six major direct-to-consumer check brands:  
 Styles Checks™, Check Gallery®, Identity Checks™, Artistic Checks®, LifeChecks® and Message!Products®.
 
 Our web address is: http://www.4checks.com
