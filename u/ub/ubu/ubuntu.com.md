@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubuntu.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620133316id_/http%3A//www.ubuntu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntu.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222002649id_/http%3A//www.ubuntu.com/privacy-policy) for the most accurate reproduction.*
 
-# Contributing to Ubuntu TV | TV | Devices | Ubuntu
+# Privacy Policy | Ubuntu
 
 Canonical collects personal information from you in a number of different ways. For example, when you download one of our products, receive services from us or use one of our websites (including [www.canonical.com](http://www.canonical.com/) and [www.ubuntu.com](http://www.ubuntu.com/)).
 
