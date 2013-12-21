@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parentherald.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622072805id_/http%3A//www.parentherald.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentherald.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221204522id_/http%3A//www.parentherald.com/privacypolicy) for the most accurate reproduction.*
 
-# ParentHerald
+# Parent Herald
 
 ## PRIVACY POLICY
 
