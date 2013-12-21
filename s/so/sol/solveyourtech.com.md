@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622020435id_/http%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221213537id_/http%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Solve Your Tech
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us [here.](https://web.archive.org/web/20130622020435id_/http://www.solveyourtech.com/privacy-policy/www.solveyourtech.com/contact)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us [here.](http://www.solveyourtech.com/contact)
 
 At www.solveyourtech.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.solveyourtech.com and how we use it. 
 
