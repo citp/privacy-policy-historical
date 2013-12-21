@@ -1,141 +1,159 @@
-> *The following text is extracted and transformed from the pandora.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628222051id_/http%3A//www.pandora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandora.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221032057id_/http%3A//www.pandora.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The purpose of the Pandora Privacy Policy is to inform our listeners about the information that we collect, how we use that information and the ways listeners can control how that information is used or shared. The entire policy can be found below. To make it a bit easier to digest our Privacy Policy, we want to highlight some key items. For information about listeners' obligations and use of Pandora® internet radio, please see our [Terms of Use](http://www.pandora.com/legal). 
-
-You have significant control over the information that is shared with other Pandora users and the public through the privacy settings for your profile: 
-
-  * We do not sell or give your email address to other companies for their marketing purposes without your permission. 
-  * Information that you post in our community and through our social networking features is available to members of the public. 
-  * We collect information about the tracks played on Pandora to make sure artists and copyright owners get paid. We must report listening information to copyright licensing agencies. These reports contain aggregated data only, and do not identify individual listeners. 
-  * We collect information about the stations, tracks and artists you listen to, thumb-up, thumb-down or bookmark, and the information you provide about yourself, to personalize your Pandora experience through suggestions of music, artists and other content you may enjoy, as well as advertisements and social networking features. This information is publicly available, unless your profile is marked private. 
-  * Anyone can search for, and listen to, stations that you create on Pandora. If your profile is private, then other people can find one of your stations in a search, but your profile will not be linked to that station; however, if someone enters your entire email address into our search system, they will be able to see a list of all the stations created under that email address. 
-
-
-
-This summary is not the complete picture, so please read the Pandora Privacy Policy below in its entirety to learn more about the information that we collect, how we use and share this information, and your options to control how that information is used or shared. 
-
 **PANDORA MEDIA, INC.  
 PRIVACY POLICY   
-(EFFECTIVE AS OF January 30, 2012)**
+(EFFECTIVE AS OF December 17, 2013)**
 
-This Privacy Policy is effective as of January 30, 2012, for Pandora Media, Inc. and its subsidiaries ("Pandora", "we", "us" or "our"). It applies to the United States operations for the Pandora® internet radio service (the "Service") that we offer through our website located at [www.pandora.com](http://www.pandora.com/), supported mobile devices, consumer electronics devices, devices connected to or installed in an automobile, automotive sound systems and other mechanisms. 
+Pandora operates a personalized Internet radio service available through the web: www.pandora.com, mobile phones, tablets, automobiles, and other consumer electronic devices (the " **Pandora Service** or " **Service** "). As we use it in this policy, " **Pandora** " refers to Pandora Media, Inc. and its subsidiaries. This policy applies to all Pandora-authorized operations of the Service in the United States, New Zealand, Australia, and their respective territories (the " **Authorized Territories** "). We may refer to Pandora as " **we** ", " **us** ", or " **our** ". We may refer to you as " **listener** ", " **you** ", or " **your** ". The purpose of this policy is to inform you about the information we collect, how we use and share that information, and the ways in which you can control how we use and share that information. 
 
-We will continue to evaluate this Privacy Policy against new technologies, business practices, and our listeners' needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on our website. 
+**Information We Receive or Collect**
 
-**The types of information we collect**
+Information We Receive or Collect From You Directly 
 
-There are several areas where you can submit information to us, and some features that automatically collect information from the listeners of our Service and visitors to our website. 
+**Registration Data:** When you register, we ask you to provide certain information, which includes your email address, birth year, gender, and zip code (the " **Registration Data** "), as well as a password for your listener account. 
 
-Information you give us: 
+**Payment Information:** If you choose to subscribe to fee-based portions of the Service, purchase a subscription to the Service as a gift, or purchase add-on products or services, you will also be asked to provide (at a minimum) your name and credit card information (" **Payment Information** "). 
 
-To enable you to enjoy certain features of our Service, we collect certain types of information, including personally identifiable information, during your interactions with our Service. For example, we collect information when you: 
+**Information You Choose to Provide to Pandora:** You have the ability to provide a variety of information during your interactions with the us and the Pandora Service, such as emails you may send us, polls or surveys you choose to participate in, ads you respond to, and emails or newsletters that you sign up to receive. Pandora receives data from you whenever you provide us with any of this type of information. 
 
-  * Register to use our Service; 
-  * Enter information in your Profile, including the people you are following and the people whom you allow to follow you; 
-  * Post comments on other Pandora listeners' pages, use community and social networking features that are part of our Service, or send us email; 
-  * Participate in polls, contests, or other features of the Service, or respond to offers or advertisements on the Service; and 
-  * Sign up to receive email newsletters. 
+**Listening Activity:** When you use the Service, we keep track of your listening activity, which may include the number and title of songs you have listened to, the songs that you like (thumb up) or dislike (thumb down), the stations you create or listen to, the number of songs you skip, and how long you listen to a station. 
 
+**Community Posting:** You have the ability to post comments and information in community networking features available on or accessible through the Service, such as your public profile, artist and album forums, our blog, and our social networking pages. Unless you affirmatively delete the content you post, Pandora collects this content and stores it on our servers. 
 
+**Technical Information:** As is true of many websites and mobile and tablet applications, Pandora may collect certain non-personally identifiable technical information through the use of log files and servers. Web and application servers create log files automatically as part of their setup and configuration. Information in a log file may include IP address, browser type, Internet service provider, date/time stamps, MAC address, file requested, and other usage information and statistics. 
 
-When you register, we ask you to provide certain information, which includes (but may not be limited to) your email address, birth year, gender, and zip code, as well as a password for your listener account. If you choose to subscribe to fee-based portions of the Service, you will also be asked to provide (at a minimum) your name and credit card information. 
+Information We Receive or Collect From Devices You Use To Access The Service 
 
-Information we receive from third parties 
+**Device Information:** If you access and listen to the Service from a computer, automobile, mobile phone, tablet, automobile, or other consumer electronic device, we may collect information about those devices. For example, our servers receive and record information about your computer and browser, including your Internet Protocol (IP) address, browser type, and other software or hardware information. If you access the Service from a mobile phone, tablet, automobile, or other consumer electronic device, we may collect information such as device type, operating system version and type, unique identifiers (such as Android ID, VIN, MAC address, and IDFA), and carrier or other transactional information for that device. 
 
-We may receive information about you from third parties and store it in our databases with other information (including personally identifiable information) that you provide to us. Some examples of these third parties are listed below: 
+**Location Information:** Apart from your zip code, we currently do not ask you for, nor do we access or track, any real-time location-based information from your mobile phone, tablet, automobile, or other consumer electronics device. If at some point we enable GPS or near-real location tracking technology, you will be asked to consent to allow such collection and use. 
 
-  * Service partners and advertisers that make features available through the Service; 
-  * Service partners through whom we allow registered listeners to access the Service; 
-  * Marketing companies that create professional marketing lists or sell other marketing data; 
-  * Other websites or applications that you have registered to use, or that people you know have registered to use, when we allow those websites or applications to interact through the Service to provide personalized services to you. In some cases, those websites or applications may automatically provide us with information about you to facilitate personalization unless you use the controls available on those websites or applications to opt-out of such sharing. 
+Information We Receive or Collect From Third Parties 
 
+We may receive or collect information about you from third parties and store it on our servers with other information we may have already received or collected from you. These third parties include: 
 
-
-Pandora is not responsible for, and will assume no liability, if a business partner or other entity collects, uses or shares any information about you in violation of its own privacy policy or applicable law. 
-
-Information that we receive from other listeners 
-
-We may collect information about you from people who have stored information about you when they elect to use our social networking or community features, or when they enable connectivity with another website or application where they have stored such information. For instance, your friends may have stored information about you in places such as their friend lists, address books, or photos on our website and other sites with which the Service interacts. 
-
-We also collect your email address when people you know share a station with you, but we will not add your name to any of our mailing lists as a result of this feature. 
-
-Automatic Data Collection 
-
-_Listening Activity:_ Pandora keeps track of your listening activity. Pandora uses software that is designed to ensure that artists and copyright owners receive applicable royalties for the tracks you hear. This software identifies and counts the tracks you have accessed. Pandora also collects information about stations, artists and tracks you have listened to or in which you have expressed an interest for advertising and social networking features. 
-
-_Service partners:_ When you access the Service through a service partner, we may add select aspects of your registration information (such as your email address), so that we can identify which of our service partners or other sign-in pages to send to you when you log on to the Service. 
-
-_Information about your computer or device:_ We may also collect information about the computer, mobile or other devices you use to access and listen to the Service. For example, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device. 
-
-_Tracking technology:_ We use what are commonly called "cookies," a small data string our server writes to your hard drive, and other tracking technology to help us manage and track your interaction with Pandora Services. These technologies collect non-personally identifiable information to improve Pandora Services, including to keep count of return visits to our website or our advertisers' or partners' websites, collect and report on aggregate statistical information, save your password and login information, and / or display advertising or content based on your interests. We may also capture other data such as search criteria and results, date, time, connection speed and IP addresses. Third parties whose products or services are accessible or advertised via the Service may also use cookies, and we advise you to check their privacy policies for information about their cookies and other privacy practices. 
-
-Advertisers, and the third-party advertising companies with whom we or our advertisers partner to deliver ads to you, may place or recognize a unique cookie or similar technology on your browser in order to collect non-personally identifiable information about your visits to the Service. If you would like more information about this practice and how to control how this information is used by these companies, please follow the links below. 
-
-  * <http://www.networkadvertising.org/managing>
-  * <http://www.networkadvertising.org/managing/opt_out.asp>
-  * [About Our Ads](http://www.aboutads.info/consumers/)
+  * Service partners and advertisers that make features or content available through the Service; 
+  * Marketing companies and data providers that create professional marketing lists or sell other marketing data; 
+  * Third party social media websites, applications or services that you have registered to use, when we allow those websites, applications, or services to interact through the Service to provide personalized services to you. In some cases, those websites, applications, or services may automatically provide us with information about you to facilitate personalization unless you use the controls available on those websites, applications, or services to opt-out of such sharing; and 
+  * People who store or post information about you on the community features of the Pandora Service, or by your enabling connectivity with another website, application, or service where friends or other listeners store such information. For instance, your friends may store information about you in places such as their friend lists, address books, or photos on our Service or other websites, applications, or services such as social media applications with which the Pandora Service interacts. 
 
 
 
-**How we use the information we collect:**
+Pandora is not responsible for, and will assume no liability, if a business partner or other entity whom you have authorized collects, uses or shares any information about you in violation of its own privacy policy or any applicable laws, rules, or regulations. 
 
-We use the information that we collect for the following purposes: 
+**Information Collection Technologies**
 
-  * To customize and personalize the advertising and the content you see. 
-  * To enhance the listener experience in our network of websites. We use tracking information to determine how well each page and station performs overall based on aggregate listener demographics and traffic patterns to those pages and stations. This helps us continue to build a better service for you. 
-  * To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in and renew paid services, polls, contests, and message boards. 
-  * To send you information that you agreed to receive about topics that we think will be of interest to you. 
-  * To alert you to the latest developments and features on our Service. 
-  * To pay artists and copyright owners for tracks you hear, by reporting listening information to copyright licensing agencies. These reports contain aggregated data only, and do not include your personally identifiable information. 
+**Our use of Cookies:** Pandora uses a technology that is commonly known as "cookies." A cookie is a file our server writes to your hard drive that contains a small alphanumeric identifier. We use the identifier in a cookie to help us manage and report on your interaction with the Service. Through cookies, we are able to collect non-personally identifiable information that we use to improve the Service, keep count of return visits to our website or our advertisers' or partners' websites, collect and report on aggregate statistical information, authenticate your login credentials, or manage multiple instances of the Service in a single browser. We may also collect other data such as the page or site that referred you to the Service, the date and time you visited the Service, and your current IP address. The cookies we place on your hard drive are known as "first party cookies." 
 
+We use both session cookies and persistent cookies. A session cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your browser's "help" documentation. If you do not accept first party cookies you may still use our Service, but your ability to use some areas of our website, and the ability to stay logged in will be limited. 
 
+**Advertisers' and other third parties' use of cookies:** Advertisers and third-party advertising partners that deliver ads to you on the Service may place or recognize a unique cookie on your hard drive. These types of non-Pandora cookies are known as "third party cookies." Advertisers and third-party advertising partners may use third party cookies in order to collect non-personally identifiable information about you, which may include how many times you have seen their ads or whether you have interacted with an ad. Most major web browsers provide users with the option to accept or reject third party cookies. The use of third party cookies is not covered by this privacy policy. We do not have access to or control over cookies placed by advertisers and other third parties. 
 
-**How the information we collect is shared:**
+**Beacons and tracking pixels:** Pandora, its third party advertising partners, and tracking-utility partners employ a technology known as "beacons" or "tracking pixels" (each, a " **Beacon** "). A Beacon is a small one-pixel-by-one-pixel clear image that is embedded in HTML content, and is about the size of a period at the end of a sentence. When HTML content containing a Beacon is rendered, the Beacon transmits anonymous, non-personally identifiable information to a server, such as a numeric count, unique identifier, or IP address. Pandora and its advertising partners use Beacons to help us better manage content on our Service. For example, we may place a Beacon in HTML-based emails to let us know which emails recipients have opened, or on a webpage to count the number of unique visitors to that page. The use of a Beacon allows us to gauge the effectiveness of certain communications and of our marketing campaigns. 
 
-We may make your personally identifiable information available to other companies, websites, applications or people. For example we may share: 
+**How We Use The Information We Receive or Collect**
 
-  * Information you choose to provide in the course of your use of the Service by participating in community and social networking features such as forums, station sharing, listener opinions and reviews, or other forms of public communication and interaction. 
-  * Information you allow us to share when you register with us, or through a subsequent affirmative election. 
-  * Information used when we hire or partner with third parties to provide specialized services on our behalf, such as credit card processing, sweepstakes management and prize fulfillment, data processing, customer/support services and other products or services that we choose to make available to our registered listeners. 
-  * Information about the artists, tracks, and stations you have created or listened to via the Service. If your profile is private, then other people can find one of your stations in a search, but your profile will not be linked to that station; however, if someone enters your entire email address into our search system, they will be able to see a list of all the stations created under that email address. 
-  * Your registration data, when we jointly offer certain features or services with third parties, such as service partners that make features available through the Service, business partners through whom we allow registered listeners to access Service, advertisers, or marketing companies. When you use these features or services, you grant us permission to pass your registration information back to that service partner. Such third parties may have different data collection, use and sharing practices than us, and you should review their applicable privacy policies. 
-  * We may share your information with a third party when we jointly offer a service or a feature with that third party, such as connectivity with other websites or applications, to provide personalization to the Service. 
-  * If you unsubscribe for a mailing that we send to you on behalf of a third party, we may share your removal instructions with the third party so that your email address may be added to that company's list of people to whom they will not send emails directly. 
-  * We may share your information in connection with a merger between Pandora and another entity, or in the event of a transfer of all or some of our assets to another company. 
-  * We may share your information in order to (i) protect or defend the legal rights or property of Pandora, our business partners, employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Pandora users or members of the public including acting in urgent circumstances; (iii) protect against fraud or risk management purposes; or (iv) comply with the law or legal process. 
+**In General:** In general, Pandora may use your Registration Data and other non-personally identifiable information we receive or collect for the following purposes: 
+
+  * To customize and personalize the advertising and other content we deliver to you.
+  * To analyze Service usage and enhance the listener experience on our Service. We use tracking information to determine how well each page and station performs overall, based on aggregate listener demographics and traffic patterns to those pages and stations. This helps us continue to build a better service for you.
+  * To fulfill your requests for certain products and services, such as distributing electronic newsletters and enabling you to participate in and renew paid services, surveys, and public forums.
+  * To send you information that you agreed to receive.
+  * To alert you to the latest developments and features on our Service.
+  * To invite you to participate in events or special promotions related to artists or products we think you may like or in which you may be interested.
+  * To pay artists and copyright owners for tracks you hear, by reporting listening information to copyright licensing agencies. These reports contain aggregated data only, and do not include any personally identifiable information.
 
 
 
-We also may use and share non-personally identifiable information, such as general demographic or location information, or information about the computer or device from which you access the Service. Additionally, we may de-identify personally identifiable information and share it in a de-identified or aggregated form with third parties, advertisers and/or business partners in order to analyze Service usage, improve the Pandora Services and your listener experience, or for other similar purposes. The use and disclosure of such information is not subject to any restrictions under this Privacy Policy. 
+**Email:** With regards to email, we do not sell or give your email address to other companies for their own marketing purposes without your permission. However, we may use your email address or other Registration Data to provide you with technical support, send you notices about the Service or other promotional offers you have elected to receive, and to serve you with ads that are more relevant to your interests. We may occasionally work with data partners and advertising platforms to help increase the relevancy of ads we provide to our listeners. In doing so, we may provide such companies with information representing an encrypted or hashed value derived from information you have provided to us, such as your email address. 
 
-How your information may be shared with other listeners and the public: 
+**How We Share Information We Receive or Collect With Others**
 
-Unless you make your Profile private, it is visible to other listeners and to the public. You may post favorite tracks, bookmarks, stations or other biographical information on your Profile Page. When you are making the decision to be public or private, please keep in mind that as a result of our partnerships, including, Facebook's Instant Personalization, some of the people who may be looking at your profile or your activities on the Service may be your Pandora friends, or your friends on other social networks, including Facebook. In addition, such friends may share information about you with other third parties, including their friends on other social networks. 
+**How Your Information Is Shared:** Pandora may share information we receive or collect in a variety of ways, such as: 
 
-**How we protect your information**
+  * When you give Pandora permission through an affirmative election (clicking "yes" in response to a message such as "share my email with this advertiser").
+  * When you participate in community and social networking features on the Pandora Service, such as forums, station sharing, listener opinions and reviews, or other forms of communication and interaction which you elect to make public or share on public profiles or in other public forums.
+  * If we hire or partner with third parties to provide specialized services on our behalf, such as credit card processors, customer support, bulk email processors who send out emails on our behalf, or parties who assist us with sweepstakes management and prize fulfillment. These companies are authorized to use your personal information only as necessary to provide these services to Pandora. They are not authorized to use your personal information for their own purposes.
+  * Information about the artists, tracks, and stations you have created or listened to via the Service, or that are associated with your account, if you have elected to share publicly. If your Pandora profile is marked as private, your stations may appear in a search, but your profile will not be linked to that station; however, if someone already knows and enters your entire email address into our search system, they will be able to see a list of all the stations created under that email address.
+  * If you elect to take advantage of certain features or services provided jointly by Pandora and third parties, we may share your registration information with those third parties for account authentication and management, and to enable the Service on their platforms. For example, when you use service partners like our Pandora for Business partner, DMX, you grant us permission to pass your registration information to DMX in order to provide the Pandora Service. As another example, when you share information through integrated social networking platforms, such as Facebook, you are agreeing to allow the Pandora service to communicate or "talk" with the other service in order to make the social features available for your use. These service partners may have their own data collection, use, and sharing practices that may also be applicable to your personal information. You should review their applicable privacy policies and methods for changing the privacy or sharing settings on such services.
+  * If you have given permission to a third party for us to share your data with them. For example, if you participate as a panelist in a survey with an analytics company. You may, as part of your agreement with that company, have authorized that company to receive data from us about you.
 
-We have implemented commercially reasonable physical and electronic security measures to protect against the loss, misuse, and alteration of your personally identifiable information. Despite our efforts, however, no security measures are perfect or impenetrable. 
 
-**Consent to processing**
 
-Use of Pandora internet radio outside of the United States is a violation of our [Terms of Use](http://www.pandora.com/legal). Nevertheless, if you use the Service outside of the United States, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in the United States and other countries or territories. The laws on holding personal information in the United States may vary and be less stringent than laws of your state or country. 
+**Sharing of Personally Identifiable Information:** We do not share personally identifiable information with third parties other than as described in this policy. However, we may share your information, including personally identifiable information, in order to (i) protect or defend the legal rights or property of Pandora, or the legal rights of our business partners, employees, agents, and contractors (including enforcement of our agreements); (ii) protect the safety and security of Pandora users or members of the public including acting in urgent circumstances; (iii) protect against fraud or risk management purposes; or (iv) comply with the law or legal process. Additionally, we may share your data, including any personally identifiable information, with our successor in interest in the event of a corporate reorganization, merger, or sale of all or substantially all of our assets. 
 
-**What are my privacy options and how can I change my settings?**
+**Sharing of Device Data:** Pandora may share information from devices you use to access the Service with its third party vendors or service providers, manufacturing or distribution partners, or its advertising partners. We share this information for a variety of purposes including mobile listening capping, advertising frequency capping, tracking advertising conversion events, estimating the number of unique users, security and fraud detection, debugging problems with the Pandora Service, and for providing you with more relevant advertisements. 
 
-_To modify your registration information:_ Click on your email address in the upper right-hand corner of the page and select Settings. On that page, you can change all your registration information (including your email address and password). Make sure to hit Save changes when you're done. 
+**Sharing of Anonymized, Non-Personally Identifiable or Aggregated Data:** Pandora may share non-personally identifiable information we receive or collect from you with third parties. Such anonymous, non-personally identifiable or aggregated data may include general demographic or location information (derived from zip code or IP address), information about the computer or device from which you access the Service, or information about the stations, tracks, and artists you listen to, thumb-up, thumb-down, or bookmark. Additionally, we may de-identify personally identifiable information, such as listening data and share it in a de-identified or aggregated form with third parties, advertisers, and/or business partners in order to analyze Service usage, improve the Pandora Service and your listener experience, or for other similar purposes. The use and disclosure of such information is not subject to any restrictions under this policy. 
 
-_To change the privacy settings on your Profile Page:_ : Sign in to your account, click your email address in the top right corner, select Settings, and then Privacy. Uncheck "Make my listening activity public" and this will restrict anyone else from seeing your profile. 
+**Information You Disclose in a Public Profile or in Public Forums:** The Pandora Service offers publicly accessible and available profile pages, community forums (such as artist, song, or advertiser pages), blogs, and pages on social media platforms. You should be aware that any information you provide or post in these areas may be read, collected, and used by others who access them. If your profile is public, any information you place in your user profile, including biographical information, the people you are following, and the people whom you allow to follow you, may be read, collected, and used by others who access them. To request removal of your personal information from our public forums, contact us at [pandora-support@pandora.com](mailto:pandora-support@pandora.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. To find out more about how to make your profile private, please see the section below on Pandora Profile Visibility. 
 
-_To change your email preferences and opt-out of newsletters, promotional or marketing correspondence:_ If you'd like to stop receiving marketing emails from Pandora, sign in to your account, click your email address in the top right corner and select Settings. Select Notices and uncheck Send me personalized recommendations and tips. 
+**Advertising Settings and Do Not Track**
 
-_For more detailed information on how to adjust your privacy settings and email preferences, visit:_ [http://help.pandora.com](http://help.pandora.com/)
+**Opting Out of Behavioral Advertising on the Web:** In our effort to provide you with advertisements that may interest you, Pandora and its third party advertising partners use data we collect or receive in the ways we disclose in this policy to provide you with relevant ads. To learn about how the online advertising industry uses information it collects to provide you with relevant ads, and to control whether you want to receive those relevant ads from third party advertisers, please review the information at the following links: 
 
-**Your California privacy rights**
+  * [Your Advertising Choices on Pandora](http://www.pandora.com/advertising/preferences)
+  * [AdChoices](http://www.youradchoices.com/)
+  * [About Our Ads](http://www.aboutads.info/consumers)
 
-California Civil Code Section 1798.83 permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we disclosed their personal information (if any) for direct marketing purposes in the preceding calendar year and the categories of personal information disclosed to those third parties. If you wish to make such a request or have any questions about Pandora's information sharing practices, you may contact us by sending us an email at [pandora-support@pandora.com](mailto:pandora-support@pandora.com) or write to us at Pandora Media, Inc., 2101 Webster Street, Suite 1650 Oakland, CA 94612, Attn: Listener Support.
 
-**Contact us:**
 
-If you have any questions about this Privacy Policy, or the privacy practices of Pandora, email [pandora-support@pandora.com](mailto:pandora-support@pandora.com) or write to us at Pandora Media, Inc., 2101 Webster Street, Suite 1650 Oakland, CA 94612, Attn: Listener Support. 
+**Opting Out of Behavioral Advertising on Mobile and Tablet Devices:** If you are using an iOS device and you do not want to receive tailored in-application advertisements that relate to your interests, you may opt-out by accessing the [iAd Network Advertising Settings](https://oo.apple.com/) page in a browser on your iOS-based device. If you are using an iOS 7 or later device, you also may limit the delivery of tailored in-application advertisements by performing the following steps: Open Settings and tap "Privacy", Scroll to the bottom of Privacy and tap "Advertising"; Flip "Limit Ad Tracking" to ON. 
+
+If you are using an Android-based device and you do not wish to receive tailored in-application advertisements, you can visit [Google's Ads Settings](https://www.google.com/settings/ads/) page from a browser on your Android-based device and make your choices there. Pandora does not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform operator if the above options are no longer available. 
+
+**Managing Your Information**
+
+**To Modify Your Registration Data and Personal Information:** We provide you with the ability to modify your Registration Data, which you may do so at any time through the Settings section of our Service. For detailed instructions on how to modify your Registration Data or to otherwise access your personal information, visit our support site at [http://help.pandora.com](http://help.pandora.com/customer/portal/articles/24639-change-account-information). We generally respond to email requests within 24 hours of receiving a request, but it may take up to 30 days depending on the volume of requests we receive. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+**Your Email Preferences:** When you register for the Service, you may elect to receive promotional, marketing, or other similar emails tailored to your interests. You have the option to change this election in the Settings section of our Service. For information on how to opt in or out of receiving promotional, marketing, or other similar emails from us, visit [http://help.pandora.com](http://help.pandora.com/customer/portal/articles/94162). 
+
+Additionally, you may also follow the unsubscribe instructions contained in the promotional, marketing, or other similar emails you receive. 
+
+We will send you transaction confirmation emails and other strictly Service-related announcements on rare occasions when it is necessary to do so. For instance, if our Service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+
+**Deactivation of Accounts:** If you would like to request the deactivation of your account, or to request the deactivation of an unauthorized profile you can email us at [pandora-support@pandora.com](mailto:pandora-support@pandora.com). 
+
+**Pandora Profile Visibility:** When you register for the Pandora Service, your profile and listening activity will be public. When the visibility of your Pandora profile is set to public, the Service automatically publishes your listening activity to your profile. For example, if you create a new station or thumb up a song, that activity will be posted in your Pandora profile for members of the public to view. We provide you with the ability to change the visibility of your Pandora profile. For detailed instructions on how to adjust your Pandora profile visibility settings, visit [http://help.pandora.com](http://help.pandora.com/customer/portal/articles/24663-profile-privacy). 
+
+Please note, changes to the visibility of your Pandora profile do not have any impact on the advertising you may see if you use the ad-supported version of the Service. 
+
+**Cached Profiles on Search Engines:** Please note that although we may deactivate your account or make your profile private at your request, Internet search engines such as Google and Bing cache publicly available webpages for a period of time beyond the control of Pandora, and may make your deactivated or formerly public profile available to users of their services on their platforms until such time they refresh their webpage cache. Please consult with the applicable search engine to determine how you may remove webpages from their webpage cache. 
+
+**Security and Content From Other Websites**
+
+**Protection of Data From Loss:** We have implemented commercially reasonable physical and electronic security measures, in addition to personnel training programs to protect against the loss, misuse, and alteration of the information we collect or receive from you. For example, when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). However, despite our efforts, no security measures are perfect or impenetrable. If you have any questions about security on our Service, you can contact us at [pandora-support@pandora.com](mailto:pandora-support@pandora.com). 
+
+**Links to Other Web Sites:** Our Service and certain advertisements on our Service include links to other websites whose privacy practices may differ from those of Pandora. If you submit personal information to any of those websites, the privacy statements of those websites govern their use of your information. We encourage you to carefully read the privacy statement of any website you visit. 
+
+**Use of Framing Techniques:** Some of our third party partners may utilize framing techniques to serve content to and from webpages accessible through our Service while preserving the look and feel of our website. Please be aware that if a partner utilizes framing techniques that you are providing your personal information to these third party partners and not to Pandora. 
+
+**Our Policies Concerning Children**
+
+The Pandora Service is not intended for children under the age of 13 and we do not knowingly collect any personal information from children under the age of 13. Children under the age of 13 should not use our Service at any time. In the event we obtain actual knowledge that we have collected information from children under the age of 13, we will take prompt and reasonable measures to erase such information from our servers. It is a violation of our Terms of Use for children under the age of 13 to use the Pandora Service. 
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we disclosed their personal information (if any) for direct marketing purposes in the preceding calendar year and the categories of personal information disclosed to those third parties. If you are a California resident and you wish to make such a request or have any questions about Pandora's information sharing practices, you may contact us by sending us an email at [pandora-support@pandora.com](mailto:pandora-support@pandora.com), or write to us at Attn: Listener Support, Pandora Media, Inc., 2101 Webster Street, Suite 1650, Oakland, CA 94612 USA. 
+
+**Listeners in New Zealand, Australia, and their Respective Territories**
+
+New Zealand, Australia, and their respective territories may have laws or regulations that extend additional or different rights to listeners in those territories (the "Australasian Territories"). If you reside or are using the Pandora Service in the Australasian Territories, you are consenting to the collection and use of you data and information by Pandora Media, Inc. and its subsidiaries. Such data and information shall be used and shared with third parties as set forth in this policy. If you believe that your data or information is incorrect, please contact [pandora-support@pandora.com](mailto:pandora-support@pandora.com) or send inquiries to Attn: Pandora Legal Department Privacy Inquiry, Pandora Media, Inc., 2101 Webster Street, Suite 1650, Oakland, CA 94612 USA. Nothing in this privacy policy shall supersede any guarantees that cannot be excluded under the Australian Consumer Law set out in Schedule 2 to the Competition and Consumer Act 2010 (Cth). Not all features of the Pandora Service may be available in the Australasian Territories. In some cases, Pandora may collect information or data about users from third parties, including those known as off-line data brokers. By your use of the Pandora Service, you are expressly consenting to the collection and use of your data and information as set forth in this policy. If you do not agree to the use of your data and information in this way, please do not use the Pandora Service. 
+
+**Changes to our Privacy Policy**
+
+We will continue to evaluate this policy against new technologies, business practices, and our listeners' needs, and may make changes to the policy accordingly. Please check this page periodically for updates. If we make any material changes to this policy, we will post the updated terms of the policy here and notify you by email through a message sent to the email address you use to access the Pandora Service. 
+
+**TRUSTe Privacy Seal**
+
+Pandora has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only information collected through the website: [www.pandora.com](http://www.pandora.com/) and the Pandora mobile application and does not cover the collection of information collected through other downloadable software, automobiles, and other consumer electronic devices. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+
+[](https://privacy.truste.com/privacy-seal/Pandora-Media,-Inc/validation?rid=987613b8-6f38-4d32-a2ce-76c0bc8adb03 "TRUSTe online privacy certification")
+
+**Contact Us**
+
+If you have any questions about this privacy policy, or the privacy practices of Pandora, email [pandora-support@pandora.com](mailto:pandora-support@pandora.com), or write to us at Attn: Listener Support, Pandora Media, Inc., 2101 Webster Street, Suite 1650, Oakland, CA 94612 USA. 
