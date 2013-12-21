@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324013059id_/http%3A//www.roxypalace.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221010115id_/http%3A//www.roxypalace.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Roxy Palace Casino Values Your Privacy
 
