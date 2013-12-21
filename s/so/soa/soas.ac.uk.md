@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607061532id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221175003id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy relating to the SOAS website | SOAS, University of London
 
