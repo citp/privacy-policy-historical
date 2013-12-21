@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425014711id_/http%3A//www.phone.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221071904id_/http%3A//www.phone.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Terms | Phone.com
 
@@ -77,7 +77,7 @@ We conduct the collection, management, maintenance and storage of website user i
 
 However, please note that when users transmit Personal Information over an unsecured Internet connection, the Site is not responsible for the security of that information during the transmission stage as your email or registration could be copied or intercepted by unknown third parties. We use a secured connection only for the collection of Sensitive Personal Information, which is necessary for the purchase of goods or services, but we do not use a secured connection for other types of activities. Therefore, you understand, acknowledge, and agree that you transmit certain Personal Information over this Site at your own risk.
 
-### HIPPA
+### HIPAA
 
 Phone.com does not require or intend to access Customer data in the course of providing services, including but not limited to any confidential health related information of Customer's clients, which may include group health plans, that constitutes Protected Health Information, as defined in 45 C.F. R. §160.103 under the Health Insurance Portability and Accountability Act of 1996 ("HIPAA Rules"). 
 
