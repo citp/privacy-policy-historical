@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppersbase.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527145608id_/http%3A//www.shoppersbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersbase.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221104154id_/http%3A//www.shoppersbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ShoppersBase
 
