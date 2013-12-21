@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornerstoneconfessions.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609214100id_/http%3A//cornerstoneconfessions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornerstoneconfessions.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221072625id_/http%3A//cornerstoneconfessions.com/privacy-policy) for the most accurate reproduction.*
 
 # Cornerstone Confessions Privacy Policy
 
