@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshersplane.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529190113id_/http%3A//freshersplane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshersplane.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221082013id_/http%3A//freshersplane.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Freshers Plane – 2012 and 2013 Freshers Job updates | Freshersplane Jobs | Freshers Job Updates | Freshersplane.com | Latest Job Updates | Government Jobs in India 2013 | 2013 Latest IT Jobs | Bank Recruitments | Latest Jobs | Off campus | On Campus | Recruitment Drives | Job Fairs | Pharmacy Jobs
+# Privacy Policy | Freshers Plane - 2012 and 2013 Freshers Job updates | Freshersplane Jobs | Freshers Job Updates | Freshersplane.com | Latest Job Updates | Government Jobs in India 2013 | 2013 Latest IT Jobs | Bank Recruitments | Latest Jobs | Off campus | On Campus | Recruitment Drives | Job Fairs | Pharmacy Jobs
 
 At freshersplane.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by freshersplane.com and how it is used.
 
