@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wannalol.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122015802id_/http%3A//www.wannalol.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wannalol.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221010123id_/http%3A//www.wannalol.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WannaLoL
 
@@ -59,7 +59,7 @@ By using our site, you consent to our [ privacy policy](http://www.wannalol.com/
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 19th March, 2012
+This policy was last modified on 17th Oct, 2013
 
  **Contacting Us**
 
