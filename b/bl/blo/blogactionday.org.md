@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogactionday.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620065634id_/http%3A//blogactionday.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogactionday.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221133923id_/http%3A//blogactionday.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | blogactionday.org
+# Privacy Policy | Blog Action Day October 16 2013
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -128,7 +128,7 @@ You may instruct us to provide you with any personal information we hold about y
 
 We may withhold such personal information to the extent permitted by law.
 
-You may instruct us not to process your personal information for marketing purposes, by sending an email to us at [info@b](mailto:info@oxfam.org)logactionday.org or unsubscribing from any  marketing email we send you by the link provided within the email.  In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+You may instruct us not to process your personal information for marketing purposes, by sending an email to us at [contact@blogactionday.org](mailto:contact@blogactionday.org) or unsubscribing from any  marketing email we send you by the link provided within the email.  In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
 
 **(10)     Third party websites**
 
@@ -140,7 +140,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(12)    Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to _info@blogactionday.org_
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [contact@blogactionday.org](mailto:contact@blogactionday.org)
 
 **(13)     Data controller**
 
