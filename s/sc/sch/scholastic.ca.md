@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620053130id_/http%3A//scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.ca privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221013859id_/http%3A//www.scholastic.ca/privacy-terms/privacy.html) for the most accurate reproduction.*
 
 # Scholastic Canada: Privacy Notice
 
-|   
----  
+**Scholastic Canada’s Privacy Policy**  
   
-**Scholastic Canada’s Privacy Policy**
-
 At Scholastic Canada, Protecting Your Privacy means:
 
 * with your consent, we will gather only the minimum personal information necessary to provide you with current information about our products and services, and to provide you with fast, reliable service if you decide to purchase from us
@@ -101,4 +98,6 @@ L6C 1Z7
 Phone: (905) 887-7323  
 Fax: (905) 887-3639 
 
-Scholastic Canada reserves the right to update this policy.
+Scholastic Canada reserves the right to update this policy.  
+  
+TM & © 1996 - 2013 Scholastic Canada Ltd. All rights reserved.
