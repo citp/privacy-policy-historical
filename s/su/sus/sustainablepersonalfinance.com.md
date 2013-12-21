@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustainablepersonalfinance.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622004635id_/http%3A//sustainablepersonalfinance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustainablepersonalfinance.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221192105id_/http%3A//sustainablepersonalfinance.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Sustainable Personal Finance
 
@@ -29,7 +29,7 @@ The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Sustainable Personal Finance then you may contact us.
 
- **Disclaimer for** **[http://sustainablepersonalfinance.com](https://web.archive.org/web/20130622004635id_/http://sustainablepersonalfinance.com/)**
+ **Disclaimer for** **[http://sustainablepersonalfinance.com](https://web.archive.org/web/20131221192105id_/http://sustainablepersonalfinance.com/)**
 
 The information contained within SustainablePersonalFinance.com is for general information and does not constitute professional financial advice. The contents represent individual opinions (although, they are usually well-informed and logical). Any information you use from this site is used entirely at your own risk, and the site owners and operators specifically disclaim all warranties, express, implied or statutory, regarding the accuracy, timeliness, and/or completeness of the information contained herein, as well as its suitability to any particular need. Please [contact us](http://sustainablepersonalfinance.com/contact/) directly to schedule a consultation if you require advice regarding your specific situation.
 
