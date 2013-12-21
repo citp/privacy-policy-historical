@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technoratimedia.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606055006id_/http%3A//technoratimedia.com%3Fpage_id%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technoratimedia.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221035218id_/http%3A//technoratimedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Technorati Media
+# Technorati Media | Privacy Policy
 
 _Version effective: June 13, 2011_
 
@@ -48,7 +48,7 @@ You can opt out of our ad optimization in two ways:
 
 2\. Use our opt-out tool: [Click here to opt-out](https://portal.technoratimedia.com/optout) by setting a special opt-out cookie that tells our system to ignore you.
 
-> If you choose to opt out using our tool, you need to repeat the process for each computer or browser you use, and every time you clear your cookies.
+If you choose to opt out using our tool, you need to repeat the process for each computer or browser you use, and every time you clear your cookies.
 
 ### **Security and Confidentiality**
 
