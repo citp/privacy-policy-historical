@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621100544id_/http%3A//www.analystforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221123959id_/http%3A//www.analystforum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnalystForum
 
@@ -13,7 +13,7 @@ There are cases where AnalystForum may ask you for personal information. For exa
 In case you change your mind or some personal information may change (such as your zip code), we will endeavor to provide a way to correct, update or remove the personal data you give us. You can do this at the member information page or by [contacting us](https://web.archive.org/contact).
 
 **Use of IP Addresses:**  
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers – the big computers that "serve up" Web pages – automatically identify your computer by its IP address.
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers – the big computers that “serve up” Web pages – automatically identify your computer by its IP address.
 
 AnalystForum collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When guests request pages from AnalystForum, our servers log the guests' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, site, customers or others.
 
@@ -29,7 +29,7 @@ AnalystForum puts control over communications directed to you where it belongs�
 
 
 **Links to Other Sites:**  
-Users should be aware that when you are on AnalystForum, you could be directed to other sites that are beyond our control. There are links to other sites from AnalystForum pages that take you outside our service. For example, if you "click" on a banner advertisement or a listing in the Test Preparation Directory, the "click" takes you off the AnalystForum site. This includes links from advertisers, sponsors and partners. These other sites may send their own cookies to users, collect data or solicit personal information.
+Users should be aware that when you are on AnalystForum, you could be directed to other sites that are beyond our control. There are links to other sites from AnalystForum pages that take you outside our service. For example, if you “click” on a banner advertisement or a listing in the Test Preparation Directory, the “click” takes you off the AnalystForum site. This includes links from advertisers, sponsors and partners. These other sites may send their own cookies to users, collect data or solicit personal information.
 
 Please keep in mind that whenever you give out personal information online — for example, via message boards or chat — that information can be collected and used by people you don't know. While AnalystForum strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
