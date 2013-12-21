@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twelvesouth.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621041546id_/http%3A//twelvesouth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twelvesouth.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221043118id_/http%3A//twelvesouth.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Twelve South
 
@@ -46,11 +46,6 @@ We will retain all ownership rights to the information, and we will not share in
 _Notice of New Services and Changes_  
 Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by sending an email to support@twelvesouth.com. 
 
-**How Do We Secure Information Transmissions?**  
-When you send confidential personal credit card information to us on our Web site, a secure server software which we have licensed encrypts all information you input before it is sent to us. The information is scrambled en route and decoded once it reaches our Web site. We do not store your financial data on our website or in our server. 
-
-Other email that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as account numbers to us through an unsecured email.
-
 **How Do We Protect Your Information?**  
 Information Security. We utilize encryption/security software to encrypt all secured data between the browser the site to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction. Our database is not encrypted unless otherwise specified. 
 
@@ -65,3 +60,8 @@ We may disclose information when legally compelled to do so, in other words, whe
 
 _Your Consent_  
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+
+**How Do We Secure Information Transmissions?**  
+When you send confidential personal credit card information to us on our Web site, a secure server software which we have licensed encrypts all information you input before it is sent to us. The information is scrambled en route and decoded once it reaches our Web site. We do not store your financial data on our website or in our server. 
+
+Other email that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as account numbers to us through an unsecured email.
