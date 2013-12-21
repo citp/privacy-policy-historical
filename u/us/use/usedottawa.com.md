@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedottawa.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513003024id_/http%3A//www.usedottawa.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedottawa.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221110945id_/http%3A//www.usedottawa.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Used stuff in Ottawa for sale - UsedOttawa.com - buy and sell free classified ads
 
@@ -9,7 +9,5 @@ UsedEverywhere.com may from time to time use your email address to send communic
 UsedEverywhere.com records your IP address for use with anti-abuse measures. Your IP address will not be knowingly revealed to parties outside of UsedEverywhere.com
 
 UsedEverywhere.com will take every reasonable measure to protect your private information. However, due to the nature of the Internet it is possible that that information will be stolen, either after your ad is placed or in transit while your ad is being placed. UsedEverywhere.com does not guarantee that your private information will never be stolen.
-
-Our servers are located in the United States. Therefore by providing the private information to us you are consenting to its storage in the United States.
 
 Changes to the Privacy Policy may happen from time to time. Significant changes will be noted on the home page. Only information that you provide after the changes will be affected by them.
