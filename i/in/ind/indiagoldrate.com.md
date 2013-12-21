@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiagoldrate.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612015449id_/http%3A//indiagoldrate.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiagoldrate.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221212344id_/http%3A//www.indiagoldrate.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Gold | Gold Rate | Gold Rates | Gold price | Gold prices | Gold Rate latest | price of gold | goldprice| Gold Rate India | Gold Rate Chennai | Gold Rates Mumbai,Gold Rate Today, Delhi,Hyderabad Kolkata
 
@@ -26,7 +26,7 @@ The most important usage of the information collected from you is your email whi
 
 **Cookies Usage**
 
-‘Cookies’ are used to gather your unique interests when you visit our site. They let us know which products you are interested in, which pages you visit and to generate information that helps us to make the site better. Using cookies we can recognize repeat visitors and facilitate your visit. A cookie cannot gather data from your computer or hard disk by itself. Most browsers have a facility to turn off the cookie feature and to delete cookies from your computer. Doing so may restrict certain functionality of our site but will not hamper us in any substantial manner.
+�Cookies� are used to gather your unique interests when you visit our site. They let us know which products you are interested in, which pages you visit and to generate information that helps us to make the site better. Using cookies we can recognize repeat visitors and facilitate your visit. A cookie cannot gather data from your computer or hard disk by itself. Most browsers have a facility to turn off the cookie feature and to delete cookies from your computer. Doing so may restrict certain functionality of our site but will not hamper us in any substantial manner.
 
 **Links with other sites**
 
