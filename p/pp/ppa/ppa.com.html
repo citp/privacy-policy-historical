@@ -1,28 +1,190 @@
-<!--The following is the downloaded HTML source of the ppa.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601095335id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ppa.com privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221031704id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js csstransitions"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
 <meta charset="utf-8">
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
 <title>
 PPA Privacy Policy
 | PPA
 </title>
 <link rel="icon" href="/files/PageLayoutImages/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="/files/style/public.css">
+<link rel="stylesheet" href="/files/style/menus.css">
 <link href="//fonts.googleapis.com/css?family=Rock+Salt" rel="stylesheet" type="text/css">
+<!--[if IE ]><link rel="stylesheet" href="/files/style/menus_SEN_IE.css" /><![endif]-->
+<!-- LayerSlider styles -->
+<link rel="stylesheet" href="/files/style/layerslider.css" type="text/css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/files/style/js/jquery-1.8.2.min.js"><\/script>')</script><script src="/files/style/js/jquery-1.8.2.min.js"></script>
 <script src="/files/style/js/scripts.js"></script>
 <script src="/my-ppa/js/PPAIframe.js"></script>
+<!-- jQuery with jQuery Easing, and jQuery Transit JS -->
+<script src="/files/style/js/jquery-easing-1.3.js" type="text/javascript"></script>
+<script src="/files/style/js/jquery-transit-modified.js" type="text/javascript"></script>
+<!--This is the Colorbox Plug-In - Supports several different methods: Refer to http://www.jacklmoore.com/colorbox/-->
+<script src="/files/style/js/jquery.colorbox.js"></script>
+<script src="/files/style/js/jquery.form.min.js"></script>
+<script>
+$(document).ready(function(){
+//How to assign the Colorbox event to elements
+$(".iframe").colorbox({iframe:true, width:"85%", height:"100%"});
+$("a[rel='colorbox']").colorbox();
+$("#ppa_newsletter").animate({bottom:"-100px"},1500);
+$("#newsletter_close").click(function(){
+$("#ppa_newsletter").animate({bottom:"-=201"},1500);
+return false;
+});
+$("#newsletter_open").click(function(){
+$("#ppa_newsletter").animate({bottom:"0"},1500);
+return false;
+});
+//$('#newsletter_form').validate();
+$('#newsletter_form').ajaxForm({
+dataType: 'json',
+beforeSubmit:function() {
+$("#newsletter_form input[type=image]").hide();
+$("#newsletter_msg").html("Sending...");
+},
+success:function(data) {
+if(data.success == true) {
+//$("#newsletter_form").remove();
+$("#newsletter_form").html(data.message);
+//alert(data.message);
+$("#newsletter_form").css({margin:"20px", color:'#fff'});
+//$("#newsletter_close").trigger('click');
+} else {
+alert( data.errors );
+$("#newsletter_form input[type=image]").show();
+$("#newsletter_msg").html("");
+}
+}
+});
+});
+</script>
+<!-- LayerSlider from Kreatura Media with Transitions -->
+<script src="/files/style/js/layerslider.transitions.js" type="text/javascript"></script>
+<script src="/files/style/js/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
 <!--[if lt IE 9 ]>
 <script src="/files/style/js/respond.min.js"></script>
 <![endif]-->
 
 
 
+
+
+
+<!-- SiteCatalyst code version: H.25.2.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/files/style/js/adobe/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=":ppa privacy policy";
+s.server="www.ppa.com";
+s.channel=""; // based on MetaData
+s.pageType="";
+s.prop1=":"; // Sub Section 2 (Secondary Nav)
+s.prop2="::"; // Sub Section 3 (Tertiary Nav)
+s.prop3="::"; // Sub Section 4
+s.prop4="general content"; // Content Type (CT)
+s.prop5="PPA Privacy Policy"; // Content Title (Resource Name)
+s.prop6="1670" // Content ID (ItemNumber)
+s.PrevPage = s.getPreviousValue(s.pageName, "prevPage");
+if(s.pageName == "404 error page") {
+s.prop13 = "/content.cfm";
+s.prop10 = s.PrevPage;
+console.log("setting prop9 (" + s.prop9 + ") to PrevPage (" + s.PrevPage + ")");
+}
+/* Conversion Variables */
+s.eVar1="";
+s.eVar2=""
+s.eVar21='not logged in';
+$(document).ready(function() {
+$('a').click(function(event) {
+var url = $(this).attr('href');
+var b = 'www.ppa.com';
+console.log(url);
+// ToDo: check to see if this is a local URL or not.
+var s = s_gi(s_account); // ToDo: swap out 'rsid' for PPA's unique report suite ID
+if(url.charAt(0) == '/' || url.substring(0, 7 + b.length) == 'http:/'+'/' + b || url.substring(0, 8+b.length) == 'https:/'+'/'+b) {
+// local URL
+if(url.substring(url.length-4, url.length) == '.php' || url.substring(url.length-4, url.length) == '.cfm' || url.substring(url.length-5, url.length) == '.aspx') {
+// Code file
+} else {
+// download file
+s.linkTrackvars='events,eVar19';
+s.linkTrackEvents='event7';
+s.events='event7';
+s.eVar19=url;
+s.tl(this,'d','Download');
+}
+} else {
+s.linkTrackVars='eVar19,events';
+s.linkTrackEvents='event8';
+//s.eVarX='<club>:' + s.propX;
+s.events='event8';
+s.eVar19 = url;
+s.tl(this,'e','exit link');
+}
+return true;
+});
+$('.rdcms_ad_image').mouseover(function(o) {
+var s=s_gi(s_account);
+s.linkTrackVars='events,list1';
+s.linkTrackEvents='event12';
+s.events='event12';
+s.list1=o.srcElement.id;
+s.tl(this,'o','Ad Mouse-Over');
+});
+$('.rdcms_ad_image').click(function(o) {
+var s=s_gi(s_account);
+s.linkTrackVars='events,list1';
+s.linkTrackEvents='event11';
+s.events='event11';
+s.list1=o.srcElement.id;
+s.tl(this,'o','Ad Click');
+});
+$('.rdcms_ad_image').each(function(i, o) {
+s.events=s.apl(s.events,'event10',',',2);
+});
+$('Form:not(.ppa_form)').submit(function(i, o) {
+var b = 'http:/'+'/www.ppa.com';
+if(o.action != b + '/search/search.cfm'
+&& o.action != b + '/account/login.cfm') {
+s.events = 'event5';
+s.eVar22 = o.name;
+}
+});
+$('Form:not(.ppa_form)').each(function(i, o) {
+var b = 'http:/'+'/www.ppa.com';
+if(o.action != b + '/search/search.cfm'
+&& o.action != b + '/account/login.cfm') {
+s.events = s.apl(s.events,'event4',',',2);
+s.eVar22 = o.name;
+}
+});
+// Test for featured content landing page.
+if(typeof isFeatured !== 'undefined' && isFeatured) {
+s.events = s.apl(s.events,'event6',',',2);
+}
+var s_code=s.t();if(s_code)document.write(s_code)
+});
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://professionalphotographersassociation.d1.sc.omtrdc.net/b/ss/ppa-dev/1/H.25.2--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.25.2. -->
+<script>
+if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+document.write('<link rel="stylesheet" href="/files/style/menus_SEN_Safari.css" />');
+}
+</script>
 
 	
 	
@@ -86,10 +248,10 @@ PPA Privacy Policy
 <a id="header-mobile-contact" href="/">Contact Us</a>
 <div id="header-login-test"><!-- js sizing test --></div>
 <div id="header-login">
-<a id="header-login-label" href="/account/login.cfm" class="typeface-b"><span class="circle dark-green"></span>Member Login</a>
+<a id="header-login-label" href="/account/login.cfm" class="typeface-b">Member Login</a>
 <div id="header-login-overlay">
 <form action="/account/login.cfm" method="post" class="clear">
-<input type="text" id="hl-user" class="user" name="username" placeholder="Username">
+<input type="text" id="hl-user" class="user" name="username" placeholder="Email">
 <input type="password" id="hl-pw" class="pw" name="password" placeholder="Password">
 <input type="hidden" id="hl-rurl" name="returnURL" value="/content.cfm?ItemNumber=1670">
 <input type="submit" id="hl-submit" name="submit" value="Go">
@@ -104,8 +266,8 @@ PPA Privacy Policy
 
 
 <h2 id="header-message" class="typeface-b">
-<a href="http://www.ppa.com/membership/content.cfm?ItemNumber=2342&amp;RDtoken=12115&amp;userID=&amp;navItemNumber=2323#apple">
-PPA Members get discounts on Apple products!
+<a href="http://imagingusa.org/registration">
+There's still time to register for Imaging USA!
 </a>
 </h2>
 <div id="header-social">
@@ -114,6 +276,7 @@ PPA Members get discounts on Apple products!
 <a class="social-icon lin" href="http://www.linkedin.com/groups?gid=93379&amp;mostPopular=&amp;trk=tyah" target="_blank">PPA on LinkedIn</a>
 <a class="social-icon yt" href="http://www.youtube.com/user/OurPPA" target="_blank">PPA on YouTube</a>
 <a class="social-icon pin" href="http://pinterest.com/source/ppa.com/" target="_blank">PPA on Pinterest</a>
+<a class="social-icon gplus" href="https://plus.google.com/108952971875687633090" rel="“publisher&quot;" target="_blank">PPA on Google Plus</a>
 </div><!-- /header-social -->
 </div><!-- /header-bounds --></div><!-- /header --></header>
 <nav role="navigation"><div id="nav" class="clear">
@@ -122,7 +285,7 @@ PPA Members get discounts on Apple products!
 
 <ul class="clear">
 <li>
-<a href="/membership?navItemNumber=501" target="">Membership &amp; Benefits</a>
+<a href="/membership?navItemNumber=501" target="">Benefits</a>
 <ul><li>
 <a href="/membership/content.cfm?ItemNumber=1653&amp;navItemNumber=507" target="">Insurance &amp; Protection<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
@@ -162,7 +325,7 @@ PPA Members get discounts on Apple products!
 <li>
 <a href="/membership/content.cfm?ItemNumber=1786&amp;navItemNumber=510" target="">Professional Development<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
-<a href="http://certifiedphotographer.com/cpp-certification/get-certified/?navItemNumber=2319" target="_blank">Certified Professional Photographers</a>
+<a href="http://www.ppa.com/cpp/?navItemNumber=4314&amp;navItemNumber=2319" target="">Certified Professional Photographers</a>
 </li>
 <li>
 <a href="/membership/content.cfm?ItemNumber=1595&amp;navItemNumber=2320" target="">Merits &amp; Degrees</a>
@@ -202,13 +365,91 @@ PPA Members get discounts on Apple products!
 <a href="http://www.ppa.com/content.cfm?ItemNumber=2687&amp;navItemNumber=2686" target="">Professional Photographer magazine</a>
 </li>
 <li>
-<a href="http://theloop.ppa.com/Home/?navItemNumber=2340" target="">My PPA</a>
+<a href="https://www.ppa.com/my-ppa/my-ppa.php?navItemNumber=2340" target="">My PPA</a>
 </li>
 <li>
 <a href="/about/content.cfm?ItemNumber=1799&amp;navItemNumber=513" target="">For Corporate Members</a>
 </li>
 <li>
 <a href="/membership/content.cfm?ItemNumber=1620&amp;navItemNumber=515" target="">Join PPA</a>
+</li></ul>
+</li>
+<li>
+<a href="/clientapps/degrees/" target="">Degrees</a>
+</li>
+<li>
+<a href="/cpp?navItemNumber=4314" target="">Certification</a>
+<ul><li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4160&amp;navItemNumber=4315" target="">What's CPP?<div style="float:right">&gt;<p></p></div></a>
+<ul><li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4163&amp;navItemNumber=4316" target="">CPP Standard</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4162&amp;navItemNumber=4317" target="">What's a Certification?</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4164&amp;navItemNumber=4318" target="">The CPP Advantage</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4166&amp;navItemNumber=4319" target="">What Motivated Photographers to Get Their CPP?</a>
+</li>
+<li>
+<a href="http://www.ppa.com/why-cpp" target="">Why Hire a CPP?</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4115&amp;navItemNumber=4426" target="">Latest CPP's</a>
+</li></ul>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4123&amp;navItemNumber=4320" target="">The CPP Pathway<div style="float:right">&gt;<p></p></div></a>
+<ul><li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4152&amp;navItemNumber=4321" target="">Exam Overview and Resources</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4155&amp;navItemNumber=4322" target="">Image Submission Overview and Resources</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4157&amp;navItemNumber=4323" target="">What is a Certification Liaison?</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4158&amp;navItemNumber=4324" target="">Video Resources for CPP</a>
+</li></ul>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4140&amp;navItemNumber=4325" target="">I’m a CPP<div style="float:right">&gt;<p></p></div></a>
+<ul><li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4140&amp;RDtoken=40725&amp;userID=#marketingtoolkit" target="">CPP Marketing Tool Kit</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4140&amp;RDtoken=40725&amp;userID=#cppsticker" target="">CPP Sticker, Decal or Pin Request</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4140&amp;RDtoken=40725&amp;userID=#video" target="">Video Resources</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4140&amp;RDtoken=40725&amp;userID=#getconnected" target="">Get Connected</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4140&amp;navItemNumber=4325#seethediff&amp;navItemNumber=5006" target="">See The Difference</a>
+</li></ul>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4168&amp;navItemNumber=4330" target="">Certification FAQs<div style="float:right">&gt;<p></p></div></a>
+<ul><li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4168#certprocess" target="">Certification Process FAQs</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4168#cppexam" target="">CPP Exam FAQs</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4168#imagesubmission" target="">CPP Image Submission FAQs</a>
+</li></ul>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4178&amp;navItemNumber=4334" target="">CPP Liaison Resources</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4184&amp;navItemNumber=4336" target="">Renew My Certification</a>
 </li></ul>
 </li>
 <li>
@@ -238,12 +479,12 @@ PPA Members get discounts on Apple products!
 </li></ul>
 </li>
 <li>
-<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=2222&amp;navItemNumber=3776" target="">Super Monday<div style="float:right">&gt;<p></p></div></a>
+<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=2222&amp;navItemNumber=3776" target="">Super 1 Day<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
-<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=2332&amp;navItemNumber=3777" target="">Super Monday FAQs</a>
+<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=2332&amp;navItemNumber=3777" target="">Super 1 Day FAQs</a>
 </li>
 <li>
-<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=2255&amp;navItemNumber=3778" target="">Be a Super Monday Instructor</a>
+<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=2255&amp;navItemNumber=3778" target="">Be a Super 1 Day Instructor</a>
 </li></ul>
 </li>
 <li>
@@ -271,75 +512,39 @@ PPA Members get discounts on Apple products!
 </li></ul>
 </li>
 <li>
-<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=1544&amp;navItemNumber=3784" target="">Certification Prep. Class</a>
+<a href="http://www.ppa.com/membership/content.cfm?ItemNumber=1786&amp;navItemNumber=3784" target="">Professional Development<div style="float:right">&gt;<p></p></div></a>
+<ul><li>
+<a href="http://www.ppa.com/membership/content.cfm?ItemNumber=1595&amp;navItemNumber=4472" target="">Merits &amp; Degrees</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/?navItemNumber=4473" target="">Certified Professional Photographer</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=1544&amp;navItemNumber=4474" target="">Certification Preparation Class</a>
+</li></ul>
 </li>
 <li>
 <a href="http://www.ppa.com/edu/content.cfm?ItemNumber=2226&amp;navItemNumber=3767" target="">Affiliate Schools</a>
 </li>
 <li>
 <a href="http://www.ppa.com/calendar.cfm?navItemNumber=3766" target="">Calendar: Classes &amp; Workshops</a>
+</li>
+<li>
+<a href="http://www.ppa.com/about/AskSMS.cfm?navItemNumber=4051" target="">Ask SMS</a>
 </li></ul>
 </li>
 <li>
-<a href="/competitions?navItemNumber=503" target="">Competitions</a>
+<a href="http://theloop.ppa.com?navItemNumber=504" target="_blank">theLoop</a>
 <ul><li>
-<a href="/competitions/content.cfm?ItemNumber=1541&amp;navItemNumber=525" target="">District Competitions<div style="float:right">&gt;<p></p></div></a>
-<ul><li>
-<a href="/competitions/article.cfm?ItemNumber=2044&amp;navItemNumber=2216" target="">District Competition Map</a>
-</li></ul>
+<a href="/community/forums/?navItemNumber=2832" target="">Our PPA Forum</a>
 </li>
 <li>
-<a href="/about/content.cfm?ItemNumber=1695&amp;navItemNumber=2749" target="">PPA Awards<div style="float:right">&gt;<p></p></div></a>
-<ul><li>
-<a href="/about/content.cfm?ItemNumber=1695&amp;navItemNumber=2752" target="">About PPA Awards</a>
+<a href="https://www.facebook.com/OurPPA" target="_blank">Facebook</a>
 </li>
 <li>
-<a href="/competitions/content.cfm?ItemNumber=1651&amp;navItemNumber=2750" target="">Grand Imaging Awards</a>
+<a href="https://twitter.com/ourppa/" target="_blank">Twitter</a>
 </li>
 <li>
-<a href="/edu/content.cfm?ItemNumber=1529&amp;navItemNumber=2751" target="">Awards &amp; Degrees Ceremony</a>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1740&amp;navItemNumber=2211" target="">IPC Awards</a>
-</li></ul>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1716&amp;navItemNumber=526" target="">International Photographic Competition<div style="float:right">&gt;<p></p></div></a>
-<ul><li>
-<a href="/competitions/content.cfm?ItemNumber=1718&amp;navItemNumber=2208" target="">IPC Results</a>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1486&amp;navItemNumber=2209" target="">PPA Approved Print Cases</a>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1485&amp;navItemNumber=2210" target="">IPC Video Tutorials</a>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1719&amp;navItemNumber=2212" target="">IPC Resources &amp; Downloads</a>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1792&amp;navItemNumber=2213" target="">12 Elements of a Merit Image</a>
-</li></ul>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1716&amp;navItemNumber=524" target="">Why Participate in Photographic Competitions</a>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1710&amp;navItemNumber=2761" target="">Affiliate Communications Competition<div style="float:right">&gt;<p></p></div></a>
-<ul><li>
-<a href="/competitions/content.cfm?ItemNumber=1711&amp;navItemNumber=2762" target="">Past Results</a>
-</li></ul>
-</li>
-<li>
-<a href="http://www.ppa.com/competitions/content.cfm?ItemNumber=3307&amp;RDtoken=63713&amp;userID=&amp;navItemNumber=3308" target="">All Competition Results</a>
-</li>
-<li>
-<a href="/competitions/content.cfm?ItemNumber=1771&amp;navItemNumber=3467" target="">Judges Workshop</a>
-</li></ul>
-</li>
-<li>
-<a href="http://theloop.ppa.com?navItemNumber=504" target="">theLoop</a>
-<ul><li>
 <a href="http://theloop.ppa.com/Home/?navItemNumber=2207" target="">Get in theLoop</a>
 </li>
 <li>
@@ -364,22 +569,10 @@ PPA Members get discounts on Apple products!
 </li></ul>
 </li>
 <li>
-<a href="/about/content.cfm?ItemNumber=1693&amp;navItemNumber=537" target="">PPA'sTeam<div style="float:right">&gt;<p></p></div></a>
-<ul><li>
-<a href="/about/content.cfm?ItemNumber=1693&amp;navItemNumber=2327" target="">PPA's Board of Directors</a>
+<a href="http://www.ppa.com/clientapps/leadership/" target="">PPA'sTeam</a>
 </li>
 <li>
-<a href="/about/content.cfm?ItemNumber=1757&amp;navItemNumber=2328" target="">PPA Council</a>
-</li>
-<li>
-<a href="/about/content.cfm?ItemNumber=2301&amp;navItemNumber=2302" target="">Industry Advisory Committee</a>
-</li></ul>
-</li>
-<li>
-<a href="/about/content.cfm?ItemNumber=1707&amp;navItemNumber=538" target="">Partners &amp; Corp. Members<div style="float:right">&gt;<p></p></div></a>
-<ul><li>
-<a href="/industry-insider/?navItemNumber=2829" target="">Industry Insider Blog</a>
-</li></ul>
+<a href="/about/content.cfm?ItemNumber=1707&amp;navItemNumber=538" target="">Partners &amp; Corp. Members</a>
 </li>
 <li>
 <a href="/about/content.cfm?ItemNumber=1758&amp;navItemNumber=539" target="">Advocacy &amp; Copyright<div style="float:right">&gt;<p></p></div></a>
@@ -430,7 +623,10 @@ PPA Members get discounts on Apple products!
 </li></ul>
 </li>
 <li>
-<a href="/community/forums/?navItemNumber=2832" target="">Our PPA Forums</a>
+<a href="http://www.ppa.com/faces.cfm?navItemNumber=5017" target="">Faces of PPA Gallery</a>
+</li>
+<li>
+<a href="http://ces.landsend.com/prof_photo" target="_blank">Branded Apparel</a>
 </li></ul>
 </li></ul>
 </div></nav>
@@ -439,15 +635,12 @@ PPA Members get discounts on Apple products!
 
 <div class="detail-column-main"><div>
 <h2 class="item-title color-a detail">PPA Privacy Policy
-<div class="detail-share-icons"><a href="https://web.archive.org/web/20131007093930/https://plus.google.com/share?url=https://web.archive.org/web/20130601095335id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-gplus-plusone.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://www.facebook.com/sharer.php?u=https://web.archive.org/web/20130601095335id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-fb-like.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://twitter.com/home?status=Currently%20reading%20https://web.archive.org/web/20130601095335id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-tw-tweet.png" alt=""></a></div>
 </h2>
 <div class="breadcrumbs">
 <a href="/index.cfm">PPA</a>
 <span>&gt;</span> <a href="#content">PPA Privacy Policy</a>
 </div>
 <div id="detail-supplementary-target" class="populated"><div class="detail-supplementary">
-
-
 </div></div>
 <div class="formatted-content">
 <p><b>PPA PRIVACY STATEMENT</b><br> Last updated July 13, 2012</p>
@@ -485,14 +678,18 @@ PPA Members get discounts on Apple products!
 <div class="embed-origin clear">
 </div>
 </div><!-- /formatted-content -->
+
+
+<br><div class="detail-share-icons"><a href="https://web.archive.org/web/20131007093930/https://plus.google.com/share?url=https://web.archive.org/web/20131221031704id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-gplus-plusone.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://www.facebook.com/sharer.php?u=https://web.archive.org/web/20131221031704id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-fb-like.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://twitter.com/home?status=Currently%20reading%20https://web.archive.org/web/20131221031704id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-tw-tweet.png" alt=""></a></div>
 <!-- /detail-supplementary -->
 </div></div><!-- /detail-column-main -->
 <div class="detail-column-side">
+<div id="myPPAcontainer"><a href="https://www.ppa.com/my-ppa/my-ppa.php"> <img src="/files/PageLayoutImages/MyPPA%5FBox.png"></a></div>
 <div class="ad expanding">
 
 
 
-<a href="/applications/adspace/click.cfm?Dest=https%3A%2F%2Fwww%2Eppa%2Ecom%2Fipc&amp;ItemNumber=3370" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=3370" id="RDCMSad31886" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
+<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fimagingusa%2Eorg%2Fregistration&amp;ItemNumber=5183" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=5183" id="RDCMSad28971" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
 
 
 </div>
@@ -500,11 +697,12 @@ PPA Members get discounts on Apple products!
 
 
 
-<a href="/applications/adspace/click.cfm?Dest=https%3A%2F%2Fwww%2Eppa%2Ecom%2Fedu%2Fcontent%2Ecfm%3FItemNumber%3D1544&amp;ItemNumber=3519" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=3519" id="RDCMSad50061" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
+<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fimagingusa%2Eorg%2Ffree%2Dimaging%2Dexpo%2Dpass&amp;ItemNumber=5195" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=5195" id="RDCMSad18172" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
 
 
 </div>
 </div><!-- /detail-column-side -->
+<div style="clear: both;"></div>
 </div><!-- /content -->
 <footer role="contentinfo"><div id="footer">
 <h4><a href="/">Professional Photographers of America</a></h4>
@@ -515,7 +713,7 @@ Atlanta, GA &nbsp;30303<br>
 </a>
 </p>
 <p id="footer-phone">
-<a href="tel://1-404-522-8600">404.522.8600</a> &nbsp;<span>/</span>&nbsp; <a href="tel://1-800-786-6277">800.786.6277</a>
+<span>404.522.8600 &nbsp;/&nbsp; 800.786.6277</span>
 </p>
 <div id="footer-social">
 <h6 class="typeface-b">Let's Connect</h6>
@@ -524,6 +722,7 @@ Atlanta, GA &nbsp;30303<br>
 <a class="social-icon dark lin" href="http://www.linkedin.com/groups?gid=93379&amp;mostPopular=&amp;trk=tyah" target="_blank">PPA on LinkedIn</a>
 <a class="social-icon dark yt" href="http://www.youtube.com/user/OurPPA" target="_blank">PPA on YouTube</a>
 <a class="social-icon dark pin" href="http://pinterest.com/source/ppa.com/" target="_blank">PPA on Pinterest</a>
+<a class="social-icon dark gplus" href="https://plus.google.com/108952971875687633090" rel="“publisher&quot;" target="_blank">PPA on Google Plus</a>
 </div>
 
 
@@ -566,5 +765,19 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-2122989-2");
 pageTracker._trackPageview();
 </script>
+<script type="text/javascript">
+// jQuery $('document').ready(); function
+$('document').ready(function(){
+// Calling LayerSlider on your selected element after the document loaded
+$('#layerslider').layerSlider({
+skinsPath : '/files/style/layerslider/skins/',
+skin : 'lightskin',
+responsive : true,
+thumbnailNavigation : false,
+hoverPrevNext: false,
+autostart : true
+});
+});
+</script>
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button type="button" id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
