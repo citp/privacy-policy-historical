@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617025114id_/http%3A//www.construction.com/privacy-notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221051206id_/http%3A//www.construction.com/privacy-notice.asp) for the most accurate reproduction.*
 
 # McGraw Hill Construction Privacy and Cookie Notice
 
@@ -33,7 +33,7 @@ Privacy and Cookie Notice
 
 **IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:**
 
-[Click here](http://construction.com/Privacy_opt-out/) or send an email to Construction.Privacy.Policy@mhfi.com or write **Amy Sidelinger,** Security Manager, McGraw Hill Construction, 148 Princeton-Hightstown Rd, Hightstown, NJ 08520 with the following instructions:
+[Click here](http://construction.com/Privacy_opt-out/) or send an email to Construction.Privacy.Policy@mhfi.com or write **Amy Sidelinger,  **Privacy Official **** McGraw Hill Construction, 148 Princeton-Hightstown Rd, Hightstown, NJ 08520 with the following instructions:
 
 ______I do not want to be contacted by McGraw Hill Construction through any method for marketing purposes.
 
@@ -62,7 +62,7 @@ McGraw Hill Construction or our third party services providers may use cookies (
 
 “Functionality” cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other Web sites.
 
-In addition, some of our advertisers may set cookies allowing them to collect information about your online visits.  They do this in order to present relevant ads about goods and services that may be of interest to you.  We cannot control their use of cookies and do not have access to any cookies they may set.  For more information about the practices of these third-party advertisers, including information on how to make choices about their use of cookies, please visit [AboutAds.Info](http://www.aboutads.info/).
+In addition, some of our advertisers may set cookies allowing them to collect information about your online visits.  They do this in order to present relevant ads about goods and services that may be of interest to you.  We cannot control their use of cookies and do not have access to any cookies they may set. 
 
 You can change your Web browser’s Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
 
@@ -76,8 +76,10 @@ You can change your Web browser’s Internet preferences to disable or delete co
 
 [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
 
+Until “Do Not Track” protocol has been finalized, this site’s information collection and disclosure practices, and the choices it provides to consumers will continue to operate as described in this Privacy and Cookie Notice, whether or not a Do Not Track signal is received.
+
 If you are visiting this site using a mobile device such as a smart phone or tablet, please refer to the manufacturer’s instructions on how to manage cookies.
 
 [Click here](http://www.mhfi.com/privacy) for more information about the McGraw Hill Financial Customer Privacy Policy.
 
-**Last updated: June 14, 2013.** Future revisions to this Privacy and Cookie Notice will be posted at this location.
+**Last updated: **November 25, 2013**.** Future revisions to this Privacy and Cookie Notice will be posted at this location.
