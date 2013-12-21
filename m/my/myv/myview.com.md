@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myview.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405141619id_/http%3A//portal.myview.com/portal/app%3Fcmd%3DTextPage%26_ppId%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myview.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221221343id_/http%3A//portal.myview.com/portal/app%3Fcmd%3DTextPage%26_ppId%3D21) for the most accurate reproduction.*
 
 # Privacy Policy
 
