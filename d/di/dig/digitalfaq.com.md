@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalfaq.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603113611id_/http%3A//www.digitalfaq.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalfaq.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221023311id_/http%3A//www.digitalfaq.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy – The Digital FAQ – Media Guides & Services
+# Privacy Policy – The Digital FAQ
 
 **What information do we collect?**
 
