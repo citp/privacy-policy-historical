@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficzipper.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622225905id_/http%3A//www.trafficzipper.com//privacyPolicy.php%3Faf%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficzipper.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221125633id_/http%3A//trafficzipper.com//privacyPolicy.php%3Faf%3D) for the most accurate reproduction.*
 
 # Website Traffic Has Never Been Easier Thanks To Traffic Zipper, The Simple Traffic Machine.
 
