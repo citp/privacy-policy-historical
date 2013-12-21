@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the academics.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620141054id_/http%3A//www.academics.com/science/privacy_policy_30406.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the academics.com privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221024313id_/http%3A//www.academics.com/science/privacy_policy_30406.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" js rgba borderimage borderradius boxshadow cssgradients"><head>
 	<link rel="canonical" href="http://www.academics.com/science/privacy_policy_30406.html">
 	<title>
 		   - academics.com
@@ -18,6 +18,7 @@
  <meta name="verify-v1" content="txkkxtlGDim1htaRD8FK1+R915m/XQ1kERYlTQnjDOA=">
                     
 	<script type="text/javascript" src="/script/jquery-1.3.2.js"></script>
+	<script type="text/javascript" src="/script/modernizr.js"></script>
 	<script type="text/javascript" src="/script/jquery.autocomplete.js"></script>		
 	<script type="text/javascript" src="/script/prettyCheckboxes.js"></script>
 	<script type="text/javascript" src="/script/header.js"></script>
@@ -27,12 +28,15 @@
 	<script type="text/javascript" src="/script/jquery.fancybox-1.2.1.js"></script>
 	<script type="text/javascript" src="/script/jquery.easing.1.3.js"></script>
 	<script type="text/javascript" src="/script/jquery.selectbox-0.5.js"></script>
+	<script type="text/javascript" src="/script/aca_script.js"></script>
 
 	<link rel="stylesheet" href="/css/site.css" type="text/css">
 	<link rel="stylesheet" href="/css/header.css" type="text/css">
 	<link rel="stylesheet" href="/css/header_com.css" type="text/css">
 	<link rel="stylesheet" href="/css/rebrush_com.css" type="text/css">
 	<link rel="stylesheet" href="/css/jquery.fancybox.css" type="text/css">
+	<link rel="stylesheet" href="/css/aca_navigation_com.css" type="text/css">
+	<link rel="stylesheet" href="/css/aca_templates.css" type="text/css">
 	
   <script type="text/javascript"></script>
 	<noscript><link rel="stylesheet" href="/css/generic-search_fbjs.css" type="text/css" /></noscript>
@@ -73,6 +77,16 @@ return HTTP_GET_VARS[v];
 			}
 		});
 		
+// iframe dialoge //
+function aca_dialog_hide() {
+	$('.aca-iframe-dialog-container').fadeOut(300, function() {
+		$('.aca-iframe-dialog-container').remove();
+	});
+	$('.aca-iframe-dialog').fadeOut(300, function() {
+		$('.aca-iframe-dialog').remove();
+		
+	});
+}
 		
 		$(document).ready(function() {
    		 if($.browser.msie && $.browser.version < 7) { $("#logo a img").attr("src","/images/academics_logo_big.gif") }
@@ -109,25 +123,38 @@ return HTTP_GET_VARS[v];
 			});
 
 			$('.selectBoxACA').selectbox({debug: true});
-			
-      $('a.iframe').each(function() {
-        var hstr = $(this).attr('href');
-        if(hstr.indexOf('action/account/create') > 0) {
-          $(this).attr('href','/action/account/create/agent-luf?iframe=true');
-        } else if(hstr.indexOf('?') > 0) {
-          $(this).attr('href', $(this).attr('href') + '&iframe=true');
-        } else {
-          $(this).attr('href', $(this).attr('href') + '?iframe=true');
-        }
-        
-      });
-			$('a.iframe').fancybox({
-			    'frameWidth': 791,
-			    'frameHeight': 400,
-			    'padding': 0,
-				'centerOnScroll': false,
-		      'overlayOpacity': 0.5
-				});
+	$('a.iframe').each(function() {
+		var hstr = $(this).attr('href');
+		if(hstr.indexOf('action/account/create') > 0) {
+			$(this).attr('href','https://www.academics.com/action/account/create/agent-luf?iframe=true&starturl='+location.pathname+'').removeClass('iframe').addClass('ajaxlayer');
+  		$(this).attr('data-href', $(this).attr('href'));
+	  	$(this).attr('href', 'javascript:void(0);');
+		} else if(hstr.indexOf('?') > 0) {
+			$(this).attr('href', $(this).attr('href') + '&iframe=true');
+		} else {
+			$(this).attr('href', $(this).attr('href') + '?iframe=true');
+		}
+		
+	});
+	$('a.ajaxlayer').click(function(event) {
+		event.preventDefault();
+		var goal = $(this).attr('data-href');
+    var dialog = '<div class="aca-dialog-container aca-iframe-dialog-container"></div><div class="aca-dialog aca-iframe-dialog" ><a class="close" href="javascript:void(0);" title="schlieÃŸen"></a><iframe id="iframe-aca-dialog-data" scrolling="no" src="'+goal+'" class="aca-dialog-data"></iframe></div>';
+    $(window).scrollTop(0);
+		$('body').append(dialog);
+		$('.aca-dialog-container').click(function() {
+			aca_dialog_hide();
+		});
+		$('.aca-iframe-dialog a.close').click(function() { aca_dialog_hide(); });
+	});
+	
+	$('a.iframe').fancybox({
+		'frameWidth': 791,
+		'frameHeight': 400,
+		'padding': 0,
+		'centerOnScroll': false,
+		'overlayOpacity': 0.5
+	});			
 
     // Fallbackbutton ausblenden und die js-Variante einblenden
     $('.hiddenButton').removeClass("hiddenButton");
@@ -184,10 +211,10 @@ return HTTP_GET_VARS[v];
 							<ul class="dropdown">
 								<li><div class="dropdownEntry" style="z-index: 996;">International<img src="/images/rebrush/header-country-select_arrow.png"></div>
 									<ul class="sub_menu">
-										<li><a href="http://www.academics.de" title="Germany">Germany</a></li>									
-										<li><a href="http://www.academics.at" title="Austria">Austria</a></li>																		
-										<li><a href="http://www.academics.ch" title="Switzerland">Switzerland</a></li>
-									</ul>							
+										<li><a href="//www.academics.de" title="Germany">Germany</a></li>									
+										<li><a href="//www.academics.at" title="Austria">Austria</a></li>																		
+										<li><a href="//www.academics.ch" title="Switzerland">Switzerland</a></li>
+									</ul>
 								</li>
 							</ul>
 						</div>
@@ -203,7 +230,7 @@ return HTTP_GET_VARS[v];
 function mySaveProfile() {
   action = $('#searchForm').attr('action');
   $.post(action, $("#searchForm").serialize(), function(data){
-	}); 
+	});
 	return false;
 }
 function changeAction(wert) {
@@ -263,11 +290,11 @@ function newProfile() {
 								</ul>
 </noscript>
 							</div>
-							<div style="clear: left; z-index: 992;"></div>			
-							<div style="z-index: 991;"><input type="text" name="searchString" value="Keyword, Discipline, Position" id="headerSearchInput" onclick="this.value=='Keyword, Discipline, Position'?this.value='':true" onblur="this.value==''?this.value='Keyword, Discipline, Position':true" class="inputText" autocomplete="off"></div>
+							<div style="clear: left; z-index: 992;"></div>
+							<div style="z-index: 991;"><input type="text" name="searchString" value="Keyword, Discipline, Position" id="headerSearchInput" onclick="this.value=='Keyword, Discipline, Position'?this.value='':true" onblur="this.value==''?this.value='Keyword, Discipline, Position':true" class="inputText"></div>
 						</div>
-						
-						<div id="headerSearchInputs" style="z-index: 990;"><span class="inputButton hiddenButton"><input type="submit" name="Search" value="Search"></span><a class="buttonBig" id="headerSearchButtonSearch" href="javascript:searchAca();" title="Search"><span>Search</span></a><a href="/action/av/search/luf" class="button inputButton hiddenButton"><span>Advanced search</span></a><div class="buttonAdvancedSearch" id="headerSearchAdvancedButton" style="z-index: 989;"><a href="javascript:void(0);" title="Advanced search">Advanced search</a></div></div>
+
+						<div id="headerSearchInputs" style="z-index: 990;"><span class="inputButton"><input type="submit" name="Search" value="Search"></span><a class="buttonBig hiddenButton" id="headerSearchButtonSearch" href="javascript:searchAca();" title="Search"><span>Search</span></a><a href="/action/av/search/luf" class="button inputButton"><span>Advanced search</span></a><div class="buttonAdvancedSearch hiddenButton" id="headerSearchAdvancedButton" style="z-index: 989;"><a href="javascript:void(0);" title="Advanced search">Advanced search</a></div></div>
 						<div id="headerSearchAdvanced" class="isCOM" style="clear: left; z-index: 988;">
 <style type="text/css">
 #headerSearchAdvanced { position: relative; z-index: 99900 !important; }
@@ -328,7 +355,8 @@ $(document).ready(function() {
     $(this).hide();
 
   });
-  
+
+  /*
   $('.as-pretty-checkbox').click(function() {
 	 var id = $(this).attr('name');
 	 $('input[id="'+id+'"]').trigger('click');
@@ -390,7 +418,7 @@ $(document).ready(function() {
   $('.as-search-element').mouseleave(function() {
     $(this).find('.as-content').slideUp('fast').removeClass('isVisible');
   });
-
+*/
 });
 </script>
 
@@ -596,20 +624,24 @@ $(document).ready(function() {
                       <label name="searchfilter1_7_1">Electrical Engineering / Electronics</label>
                     </li>
                   <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_2" value="62">
-                      <label name="searchfilter1_7_2">Mechanical Engineering</label>
+                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_2" value="170">
+                      <label name="searchfilter1_7_2">Aerospace Engineering</label>
                     </li>
                   <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_3" value="63">
-                      <label name="searchfilter1_7_3">Process Engineering</label>
+                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_3" value="62">
+                      <label name="searchfilter1_7_3">Mechanical Engineering</label>
                     </li>
                   <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_4" value="64">
-                      <label name="searchfilter1_7_4">Others under Engineering</label>
+                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_4" value="63">
+                      <label name="searchfilter1_7_4">Process Engineering</label>
                     </li>
                   <li>
-                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_5" value="153">
-                      <label name="searchfilter1_7_5">Industrial Engineering</label>
+                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_5" value="64">
+                      <label name="searchfilter1_7_5">Others under Engineering</label>
+                    </li>
+                  <li>
+                      <input type="checkbox" name="studySubjectIds" class="imageCheckboxes" id="searchfilter1_7_6" value="153">
+                      <label name="searchfilter1_7_6">Industrial Engineering</label>
                     </li>
                   </ul>
         		  </li>
@@ -1068,19 +1100,19 @@ $(document).ready(function() {
                 <label name="searchfilter5_2">Switzerland</label>
               </li>
             <li>
-                <input type="checkbox" name="countryIds" class="imageCheckboxes" id="searchfilter5_3" value="4" checked="">
+                <input type="checkbox" name="countryIds" class="imageCheckboxes" id="searchfilter5_3" value="4">
                 <label name="searchfilter5_3">Other Countries</label>
               </li>
             </ul>			
     </div>
   </div>
 
-	<div id="as-button-row" style="z-index: 955;"><a class="button" href="javascript:searchAcaAdvanced();" title="Search"><span>Search</span></a> <a class="button iframe" id="saveAsProfile" href="/action/account/create/agent-luf?iframe=true" onclick="mySaveProfile();"><span>Activate search profile</span></a></div>
+	<div id="as-button-row" style="z-index: 955;"><a class="button" href="javascript:searchAcaAdvanced();" title="Search"><span>Search</span></a> <a class="button iframe" id="saveAsProfile" href="https://www.academics.com/action/account/create/agent-luf" onclick="mySaveProfile();"><span>Activate search profile</span></a></div>
 
 </div>
 </div>
 					</div>
-          </form>		
+          </form>
 				  </div>
 					<script type="text/javascript">
 					</script>
@@ -1089,289 +1121,269 @@ $(document).ready(function() {
 						 #logo a img { visibility: visible; }
 						</style>
 					</noscript>
-				  <div id="logo" style="z-index: 954;"><a href="http://www.academics.com" title="academics.com"><img src="/images/academics_com_logo_big.png" alt="logo: academics.com" style="width: 274.872px; position: absolute; bottom: 0px; visibility: visible;"></a></div>				  	
+				  <div id="logo" style="z-index: 954;"><a href="//www.academics.com" title="academics.com"><img src="/images/academics_com_logo_big.png" alt="logo: academics.com" style="width: 211px; position: absolute; bottom: 0px;"></a></div>				  	
 
 				  <div style="clear: both; z-index: 953;"></div>
-				 
 
-				 <div id="mainNav" class="containerDropdown" style="z-index: 952;">					
+
+				 <div id="mainNav" class="containerDropdown" style="z-index: 952;">
+
+<!-- Navigation -->
+<script type="text/javascript">
+  function loadNav(navId) {
+    $.post("/wissenschaft/navigationsknoten_53075.html", { navpart: navId },
+      function(data){
+        $('#mainWikiNav-'+navId).replaceWith(data);
+      }
+    );
+  }
+
+</script>
+
 <style type="text/css">
 
-.nav-main #nav-stellenangebote a.level-1 { position: absolute; top: 0; left: 0; z-index: 9999; width: 111px; }
-.nav-main #nav-stellenangebote { position: absolute; top: 0px; left: 0px; width: 150px; height: 31px; z-index: 9999; }
-.nav-main #nav-stellenangebote:hover { z-index: 999; }
-.nav-main #nav-stellenangebote ul.level-2 { left: 0; z-index: 900!important; }
-.nav-main #nav-forschung  a.level-1 { position: absolute; top: 0; left: 0; z-index: 9999; width: 232px; }
-.nav-main #nav-forschung { position: absolute; top: 0px; left: 152px; width: 271px; height: 31px; z-index: 9999; }
-.nav-main #nav-forschung:hover { z-index: 999; }
-.nav-main #nav-forschung ul.level-2 { left: -152px; z-index: 900!important; }
-.nav-main #nav-wissenschaft a.level-1 { position: absolute; top: 0; left: 0; z-index: 9999; width: 151px; }
-.nav-main #nav-wissenschaft { position: absolute; top: 0px; left: 426px; width: 190px; height: 31px; z-index: 9999; }
-.nav-main #nav-wissenschaft:hover { z-index: 999; }
-.nav-main #nav-wissenschaft ul.level-2 { left: -426px; z-index: 900!important;}
-.nav-main #nav-blog a.level-1 { position: absolute; top: 0; left: 0; z-index: 9999; width: 33px; }
-.nav-main #nav-blog { position: absolute; top: 0px; left: 619px; width: 72px; height: 31px; z-index: 9999; }
-.nav-main #nav-blog:hover { z-index: 999; }
-.nav-main #nav-blog ul.level-2 { left: -619px; z-index: 900!important;}
-.nav-main #nav-login a.level-1 { position: absolute; top: 0; left: 0; z-index: 9999; width: 39px; }
-.nav-main #nav-login { position: absolute; top: 0px; left: 694px; width: 78px; height: 31px; z-index: 9999; }
-.nav-main #nav-login:hover { z-index: 999; }
-.nav-main #nav-login ul.level-2 { left: -694px; z-index: 900!important; }
+#mainNav li span.a { font-size: 12px; font-weight: bold; line-height: 120%; color: #20395a; }
 
-.angemeldet #nav-login a.level-1 { position: absolute; top: 0; left: 0; z-index: 9999; width: 39px; }
-.angemeldet #nav-login { position: absolute; top: 0px; left: 694px; width: 78px; height: 31px; z-index: 9999; }
-.angemeldet #nav-login:hover { z-index: 999; }
-.angemeldet #nav-login ul.level-2 { left: -694px; z-index: 900!important; }
-
-
-.nav-main #nav-stellenangebote .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 780px; background:url('/images/rebrush/nav-complete-bg.jpg') no-repeat left -44px transparent; }
-.nav-main #nav-stellenangebote .subnav-bottom { position: absolute; bottom: -13px; width: 780px; left: 0px; height: 15px; background:url('/images/rebrush/stellen-bottom.png') no-repeat bottom left transparent; }
-.nav-main #nav-stellenangebote ul.level-2 { background:url('/images/rebrush/stellen-repeat.png') repeat-y top left transparent; }
-
-.nav-main #nav-forschung .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 780px; background:url('/images/rebrush/nav-complete-bg.jpg') no-repeat left -86px transparent; }
-.nav-main #nav-forschung .subnav-bottom { position: absolute; bottom: -13px; width: 780px; left: 0px; height: 15px; background:url('/images/rebrush/forschung-bottom.png') no-repeat -2px bottom transparent; }
-.nav-main #nav-forschung ul.level-2 { background:url('/images/rebrush/forschung-repeat.png') repeat-y -2px top transparent; }
-
-.nav-main #nav-wissenschaft .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 780px; background:url('/images/rebrush/nav-complete-bg.jpg') no-repeat left -128px transparent; }
-.nav-main #nav-wissenschaft .subnav-bottom { position: absolute; bottom: -13px; width: 780px; left: 0px; height: 15px; background:url('/images/rebrush/stellen-bottom.png') no-repeat bottom left transparent; }
-.nav-main #nav-wissenschaft ul.level-2 { background:url('/images/rebrush/stellen-repeat.png') repeat-y top left transparent; }
-
-.nav-main #nav-blog .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 780px; background:url('/images/rebrush/nav-complete-bg.jpg') no-repeat left -170px transparent; }
-.nav-main #nav-blog .subnav-bottom { position: absolute; bottom: -13px; width: 780px; left: 0px; height: 15px; background:url('/images/rebrush/stellen-bottom.png') no-repeat bottom left transparent; }
-.nav-main #nav-blog ul.level-2 { background:url('/images/rebrush/stellen-repeat.png') repeat-y top left transparent; }
-
-.nav-main #nav-login .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 780px; background:url('/images/rebrush/nav-complete-bg.jpg') no-repeat left -212px transparent; }
-.nav-main #nav-login ul.level-2 { width: 757px; background:url('/images/rebrush/login-bg.png') no-repeat top right transparent; }
+#containerContentTop .breadcrumb { border: 0px !important; }
 
 
 
-.angemeldet #nav-stellenangebote .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 835px; background:url('/images/rebrush/nav-complete-bg-login.jpg') no-repeat left -44px transparent; }
-.angemeldet #nav-stellenangebote .subnav-bottom { position: absolute; bottom: -13px; width: 835px; left: 0px; height: 15px; background:url('/images/rebrush/nav-login-bottom.png') no-repeat bottom left transparent; }
-.angemeldet #nav-stellenangebote ul.level-2 { width: 835px; background:url('/images/rebrush/nav-login-repeat.png') repeat-y top left transparent; }
+       .contentHeader { height: auto; border-bottom: 1px solid #b4bcc4; }
+       .contentHeader .rb-tools { }
+       .contentHeader .rb-tools ul { margin: 0; padding: 0; list-style: none; }
+       .contentHeader .rb-tools ul li { list-style: none; display: inline-block; margin: 8px 0 8px 0; padding: 8px 15px 2px 40px; border-right: 1px solid #b4bcc4; }
+       .contentHeader .rb-tools ul li a { display: block; font-family: Lucida Sans Unicode, Lucida Grande, Lucida Sans, Verdana; font-size: 11px; line-height: 100%; color: #447092; text-decoration: none; }
+       .contentHeader .locationButton { background: none; margin: 0; padding: 0; }
+       .contentHeader .printButton { background: none; margin: 0; padding: 0; }
+       .contentHeader .sendButton  { background: none; margin: 0; padding: 0; }
+       .contentHeader .rb-tools .merken { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpENDg4MkQ4RURCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpENDg4MkQ4RkRCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc0M0MwRTA5REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc0M0MwRTBBREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+3ct/oAAAAedJREFUeNqUU0tv00AQnrWdOE4dOw1SUVAFSYMQiH/QOxIglTOIx4WfwqmcOHPgisSNVBQkfgCnHutjJEQkBFKcJiR+7HrXfKvWlRFOqn7SaPYx883szCzL85w0DoYHVIVarRZAHQkhntMKWLQGhmG8bm+2t8NJeG2t3QUkz/r9fsvzPL3evzQJY2zfdd2mbds0uDnwsX9xWRJmmubTG72ej1qQZVkEQgfnryqNdWEPPx2+Q6QO9j2l1DbkSqfTWewMdtzCMMsyCo6DOUjrhmn8ZMR+wPc7ZMmGH4f3ms3mB0Ty3FbLqNfrpGUVpJTEOaf5bKbXPAxDbuw92vuapmmQpEnUaNgoIENUsVLyXKHtFvltnyaTCRLJ37JiTvCkL47j7Ha73RZdAJ3NaDSSWOrW/7ZKF/ejOP48Ho93t65ueaWyQfJzPZ1O5Xw2NwuC/4ZNSfkgSZIwTVJCd85dy+ApX0K9KQiqJnYDz3OlUqTlFP9SoYs25FZRhiqSO8ggyoTwy63VWcHx1MGybKi76/7OExgbQmSklCQ87QQRf0EG+IjCthvOWQbXV04sCHSEjShansRxPMLQPYTTbf2ZkdFwsfgj0jTh2OvC9ipJ4GDCmMP5vY6Oo2+lu8dQm7gPzrJ5Wdz9FWAAZ6UCGBXJp6oAAAAASUVORK5CYII=) no-repeat 13px 3px transparent;  }
+       .contentHeader .rb-tools .merken.on { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3NDNDMEUwN0RCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3NDNDMEUwOERCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc0M0MwRTA1REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc0M0MwRTA2REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+x4QNCAAAAhFJREFUeNqUks9rE0EUx9+b2WS3u5vGJFZBSywNFEOu9VK8CuZQD54Uq5eC/g8e9OBJT549KJ78QS8mQit6EVER8aBgDv5CiSWxjWlas5uQnZnn7GHVYjalXxiY9+sz7w0PiQhCVStVGKYk79cI8E0gzbMQIwYjxFBey9qrk4rY/Mi8HSALh/c+TWWsRni/umtIWJQ2G7bF16E48SjNUJzbLQQZBmdmcitpIQWYbA3GzcYYAl0Zmhx+7PLDpZsIKgtAU4qMSUnJ3D77fbeUW3KjxEDZ8Lp5YStQTlI/0ND5dQL2jYh5WHlQOZZKfL+fNr+MZ8xPzOIbYPJO7D8JsqAvMtDuF8P7oOnPDtj8ifnHPZGt9YI9voMfgasWiEDEHhBdsKAOE8kX0PSP6P3AGxjtyXL13oprfJ4rOLdTsIMEufBu85LU4xzQ5hr7G7CPd8X08w+/FrdGdVL3yvLt5mWIAGGtsf0Fp+zJ6bYfuJDAjaFd9OR+T49wPQL8B9FyCAwXxTqImFE4tUwO/owEO3ZPiga0/HA3ouPJPAQS/9i2emUCqNK/Rds60amnDbXKhJQwwEPwk5/vSEz/UGAXXPUsyMpbY4gNUEYiHw+hfklDnCa/2BF4sK3QWdDul2HMx9m7XuLoSUc+IaQBJzSntPvrsHF41ygPApa/owGFCBBK26cIeMZnczVCS3toMYr9FmAAuyUR4PmkdM8AAAAASUVORK5CYII=) no-repeat 13px 3px transparent;  }
+       .contentHeader .rb-tools .drucken { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAYAAAC5DOVpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpENDg4MkQ5MkRCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpENDg4MkQ5M0RCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkQ0ODgyRDkwREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkQ0ODgyRDkxREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+y5aVQwAAAglJREFUeNp8VNmqwkAMTeu4L1VRQQVRFP//P3z13V1LBbUWd21vTzBlLHoD0yXLmeQkM0YQBG64CGIYBrmuS+fzmb+xvonv+5RKpaharYpPIsSwVfgoQSGAjuOwQzab/QDQfe73O+12OyoWiwz6FkvFd1dKUbPZpEwmQ7/k+XzSZDJhcKw3hm/GHWF8PB70nwAMYppmRAXepl5GpDTNf8F+2ZWWJksikaDj8Uiv14v0xkjWALper9G33hQGW61WvMDX6XSi/X7/sYGQLx3GRvl8njdFyY1GgzqdDil0ZrlcUjKZ5ADLsrjlktW3juKNTACERq3Xa6rX66SgAFCv12OHOIfx5uh6/KMadPZ2uxGPBmZFDFgoQ4CFm3im4gcb4sG1Eg6ggAF8zedzzgABAgRwBIAW+BcKBa4GcZKtwgNEogGHw4EulwsPLY4UguCIEgAEQIDXajU+AePxmDlGAu12mxScEIAm4N3v96nb7dJsNmNg2NPpdASWy+XYvlgsaDQa8YY4z5wZHGGcTqcRPzBuNhsGkBKlXGSMLKDD+cUSro1QGUjNtm0z0HA45MxQtnApJeN/MBhwBwGISt6NcpROLkYE042bA9+lUunjKoIv/LbbLXmeR+VyOZp+LlMGEatSqTBPyBBg+pDqsyXXT6vVimbSgKBMUUgp8WnXBzY+b3I+w1jvT4ABAC9scBSgOS2TAAAAAElFTkSuQmCC) no-repeat 10px 3px transparent;  }
 
-.angemeldet #nav-forschung .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 835px; background:url('/images/rebrush/nav-complete-bg-login.jpg') no-repeat left -86px transparent; }
-.angemeldet #nav-forschung .subnav-bottom { position: absolute; bottom: -13px; width: 835px; left: 0px; height: 15px; background:url('/images/rebrush/forschung-bottom.png') no-repeat -2px bottom transparent; }
-.angemeldet #nav-forschung ul.level-2 { width: 835px; background:url('/images/rebrush/forschung-repeat.png') repeat-y -2px top transparent; }
+       .contentHeader .rb-tools .versenden { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAUCAIAAADgN5EjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpENDg4MkQ5NkRCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpENDg4MkQ5N0RCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkQ0ODgyRDk0REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkQ0ODgyRDk1REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+J2rymwAAAgBJREFUeNqcU11v2jAUdSIXSLMwAiulXQEJeKi0qW/8/z/ApK7bJHhgEqCNUBG+SQJJ7J7YmZNqD/u4urJ8b865vvfY0WLGCCGccyJM07QsECEikURA0r3AUyJg2i8oSXEZQlPJfCFCqGQh+Pb1abXekD9Z1a58+PgAAmGMxzH78vTZcRz+FwYYwKDoaAV8nGZZVhzHUYSF/eZZ0rLKojWuKznc9YZzqMU4j3POhHOVcVcriadyXCnGbDpr3L5HzLO5oJAmwkRc5+cPWixKiq4g72pVfFy6S5aek7iwWDhbui5gtWpVKqrndbNt29vv3dU6d6PprSLp7Xe1ej29Kk3LuoU0OqUV255OpwjLZUu2jW63u+2zM+90OuAAJvF67gkkl26YZrvdxjwn30+EDsPA9xbzebPZpBcX+UYyJkASSilt3Nx+enw8HL2D5w+Hw+vGTaFQwFcWRdH5nGqbL6PGe2Ne3vd6280K7Tbv7sxLQz06ZTQvA9YwDDFnq9V6W6lgZknAyd5hd3VVzyOpCsDBZjKZdLvdUJh64qZRQj/j8RgVZSZjInheOH5w6vV6+f8rlT2K0DAeyWg0uq7XXylkGMbMWZQtC+iz0EDS1JqQjRJo32czgJPSqvBgMPA8T419DAKzVDqeTmaxeAgCyzAkErR+v/+K+a+mk/+1FwEGANVSqcf9fG9/AAAAAElFTkSuQmCC) no-repeat 10px 2px transparent;  }
 
-.angemeldet #nav-wissenschaft .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 835px; background:url('/images/rebrush/nav-complete-bg-login.jpg') no-repeat left -128px transparent; }
-.angemeldet #nav-wissenschaft .subnav-bottom { position: absolute; bottom: -13px; width: 835px; left: 0px; height: 15px; background:url('/images/rebrush/nav-login-bottom.png') no-repeat bottom left transparent; }
-.angemeldet #nav-wissenschaft ul.level-2 { width: 835px; background:url('/images/rebrush/nav-login-repeat.png') repeat-y top left transparent; }
-
-.angemeldet #nav-blog .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 835px; background:url('/images/rebrush/nav-complete-bg-login.jpg') no-repeat left -170px transparent; }
-.angemeldet #nav-blog .subnav-bottom { position: absolute; bottom: -13px; width: 835px; left: 0px; height: 15px; background:url('/images/rebrush/nav-login-bottom.png') no-repeat bottom left transparent; }
-.angemeldet #nav-blog ul.level-2 { width: 835px; background:url('/images/rebrush/nav-login-repeat.png') repeat-y top left transparent; }
-
-.angemeldet #nav-login .subnav-top { position: absolute; top: -40px; left: 0px; z-index: 900!important; height: 40px; width: 835px; background:url('/images/rebrush/nav-complete-bg-login.jpg') no-repeat left -212px transparent; }
-.angemeldet #nav-login .subnav-bottom { position: absolute; bottom: -13px; width: 834px; left: 0px; height: 15px; background:url('/images/rebrush/my-academics-bottom.png') no-repeat bottom right transparent; }
-.angemeldet #nav-login ul.level-2 { width: 814px; background:url('/images/rebrush/my-academics-repeat.png') repeat-y top right transparent; height: auto; }
-
-
-
-.nav-main { position: relative; float: left; width: 780px; height: 33px; margin-left: -5px!important; background:url(/images/rebrush/nav-complete-bg.jpg) no-repeat 0px 0px transparent; }
-
-.angemeldet { position: relative; float: left; width: 835px; height: 33px; margin-left: -5px!important; background:url(/images/rebrush/nav-complete-bg-login.jpg) no-repeat 0px 0px transparent; }
-
-.nav-main.active_1 { background:url(/images/rebrush/nav-complete-bg.jpg) no-repeat 0px -42px transparent; }
-.nav-main.active_2 { background:url(/images/rebrush/nav-complete-bg.jpg) no-repeat 0px -84px transparent; }
-.nav-main.active_3 { background:url(/images/rebrush/nav-complete-bg.jpg) no-repeat 0px -126px transparent; }
-
-.nav-main.angemeldet.active_1 { background:url(/images/rebrush/nav-complete-bg-login.jpg) no-repeat 0px -42px transparent; }
-.nav-main.angemeldet.active_2 { background:url(/images/rebrush/nav-complete-bg-login.jpg) no-repeat 0px -84px transparent; }
-.nav-main.angemeldet.active_3 { background:url(/images/rebrush/nav-complete-bg-login.jpg) no-repeat 0px -126px transparent; }
-
-.nav-main li.level-1 { float: left; margin: 0 4px 0 0; xxxbackground: transparent url(/images/menu_back_left.png) 0px 0px no-repeat; }
-.nav-main li.level-1 a.level-1 { display: block; padding: 0 25px 0 13px; height: 33px; color: white; text-decoration: none; line-height: 28px; font-weight: bold; font-size: 13px; xxxbackground: transparent url(/images/menu_back_right.png) right no-repeat; }
-.nav-main li.level-1 a.level-1 span { display: block; top: -3000px; left: -3000px; position: absolute; }
-.nav-main li.active { xxbackground: transparent url(/images/menu_back_left_hover.png) 0px 0px no-repeat; }
-.nav-main li.active a.level-1 { display: block; padding-right: 25px;  color: #32597D; text-decoration: none; line-height: 28px; font-weight: bold; font-size: 13px; xxbackground: transparent url(/images/menu_back_right_hover.png) right no-repeat; } 
-
-.nav-main li.level-1:hover { xxbackground: transparent url(/images/menu_back_left_hover.png) 0px 0px no-repeat; }
-.nav-main li.level-1:hover a.level-1 { display: block; padding-right: 25px;  color: #32597D; text-decoration: none; line-height: 28px; font-weight: bold; font-size: 13px; xxbackground: transparent url(/images/menu_back_right_hover.png) right no-repeat; } 
-
-.nav-main li.level-1 a:hover { text-decoration: underline; }
-.nav-main li.level-1 ul.level-2 { position: absolute; top: 42px; left: 0px; display: none; padding: 20px 10px; width: 792px; }
-.nav-main li.level-1:hover ul.level-2 { display: block; }
-
-.nav-main li.level-1 ul.level-2 li.level-2 { float: left; margin: 10px 20px 5px 20px; width: 217px; }
-
-.nav-main li.level-1 ul.level-2 li.level-2 ul { padding-top: 3px; }
-.nav-main li.level-1 ul.level-2 li.level-2 ul li { padding-bottom: 3px; }
-
-.nav-main li a { font-size: 12px; font-weight: bold; line-height: 120%; color: #20395a; text-decoration: none; }
-.nav-main li.level-1 ul.level-2 li.level-2 ul ul { padding-left: 10px; }
-.nav-main li.level-1 ul.level-2 li.level-2 ul li ul li a { font-weight: normal; }
-
-.nav-main li.level-1 ul.logged-in { height: auto; right: 3px; left: auto; width: auto; }
-.trenner { position: absolute; width:1px; background: #cfcfd1; top: 20px; bottom: 20px; }
+       .contentHeader .rb-tools li.social-buttons { padding-left: 15px; }
+       .contentHeader .rb-tools .social-buttons .addthis .addthis_toolbox { display:inline-block !important; margin-bottom: -3px; }
+       .contentHeader .rb-tools .social-buttons .label { display: inline-block; font-family: Lucida Sans Unicode, Lucida Grande, Lucida Sans, Verdana; font-size: 11px; line-height: 100%; color: #447092; text-decoration: none; }
+       .contentHeader .rb-tools li.standort { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3NDNDMEUwM0RCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3NDNDMEUwNERCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc0M0MwRTAxREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc0M0MwRTAyREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+KLDrDQAAApFJREFUeNqsVdFx2kAQvWX8b1IBUEGsCsDfxiO5AqMKgApQKjBUAKnA0ph8C1dgUkGUDpQKlPfu9uyLkEnGk5u5ObS39/bd273FmA+M4mk/fG+vaRo7L84B5E/7KywTMeazERnyAH4/N8bEsEfnzkono/23CUBW+FnDoQDQMbmdHmHvg84C9jlsFV0x19irQ8adwGCZGccoJVjHfomlwl5aqG8T+HrgXuvQg4gM4BQ5hvtZS9sJFsrzk9/x7TQDtRQ/H/OW7r0ANOGheHqTBvtj2LfBN+U5UCJviKeWqQXvBBZ3KP0zw+Y7lhnBMWe4JBkXbf1wuwNsB9zo9YaCj74eGMNh2a4KHHhpNBlOPfMJcyGO+RVsA6wkkGOWuLGtFqE2cCrhwLXCulQdOXjNR+juM87qiHCmMW/Bdkyk5qBEWaYAr3owsmwqOI0ax4JaxQC7pJbYFwCOjMt2kQfXDUH1+xm+wzeNxWa4UqeRMmW9lmQHwg+sZbjdw7b1bPlY3nsUPU1SmAgbAJGjIIkTlYPVQKnyxjFkUn+8Jk1Oq6IO61Cfckks9Y0QiPozmQTfaBKvxQWZMwAijX0pemBeKdEEWFBMPF+bzErzkKiOW3FBbR/B9y+sX3AjBqBtziblm9BOwdbK6o6aQnfehHWcUAqwrm1AJw8DZsGrpH3jbReqKwGY8Sx0trKhqwHlkqDAhiRmhaAzcewqlW7YuAcWnbw8BYzDctLarXEoAdAGz9dXzk6vTdC+rXXXiOoTYB3XmPfa4TzjASYPrwMSBD/qy6SEG8h2+Gs/JrC4dvjV9hARsL3Jgn6d4CYx9ijBsqu9ypl/D7Kklit9HL5X8BCBijbLfx5MCubC/O+hJfSh8VuAAQCH+F+cMpG63AAAAABJRU5ErkJggg==) no-repeat 10px 1px transparent; }
+       .contentHeader .rb-tools { }
+       .contentHeader .rb-tools { }
+       .contentHeader .rb-tools li.schriftgroesse { border: 0; padding-left: 0px; }
+       .contentHeader .rb-tools li.schriftgroesse a { display: inline; }
+       .contentHeader .rb-tools a.fontSizer { color:#32597d; text-decoration:none; font-weight:bold; }
+       .contentHeader .rb-tools a.small { padding-left:7px; font-size:11px; }
+       .contentHeader .rb-tools a.middle { font-size:14px; }
+       .contentHeader .rb-tools a.big { font-size:16px; }
 
 
-.nav-main li.level-1 ul.spalten-2 { width: 520px; }
+      
+       #contentFooter { border-top: 1px solid #b4bcc4; }
+       #contentFooter .rb-tools { border-bottom: 1px solid #b4bcc4; }
+       #contentFooter .rb-tools ul { margin: 0; padding: 0; list-style: none; }
+       #contentFooter .rb-tools ul li { list-style: none; display: inline-block; margin: 8px 0 8px 0; padding: 8px 15px 2px 40px; border-right: 1px solid #b4bcc4; }
+       #contentFooter .rb-tools ul li a { display: block; font-family: Lucida Sans Unicode, Lucida Grande, Lucida Sans, Verdana; font-size: 11px; line-height: 100%; color: #447092; text-decoration: none; }
+       #contentFooter .locationButton { background: none; margin: 0; padding: 0; }
+       #contentFooter .printButton { background: none; margin: 0; padding: 0; }
+       #contentFooter .sendButton  { background: none; margin: 0; padding: 0; }
+       #contentFooter .rb-tools .merken { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpENDg4MkQ4RURCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpENDg4MkQ4RkRCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc0M0MwRTA5REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc0M0MwRTBBREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+3ct/oAAAAedJREFUeNqUU0tv00AQnrWdOE4dOw1SUVAFSYMQiH/QOxIglTOIx4WfwqmcOHPgisSNVBQkfgCnHutjJEQkBFKcJiR+7HrXfKvWlRFOqn7SaPYx883szCzL85w0DoYHVIVarRZAHQkhntMKWLQGhmG8bm+2t8NJeG2t3QUkz/r9fsvzPL3evzQJY2zfdd2mbds0uDnwsX9xWRJmmubTG72ej1qQZVkEQgfnryqNdWEPPx2+Q6QO9j2l1DbkSqfTWewMdtzCMMsyCo6DOUjrhmn8ZMR+wPc7ZMmGH4f3ms3mB0Ty3FbLqNfrpGUVpJTEOaf5bKbXPAxDbuw92vuapmmQpEnUaNgoIENUsVLyXKHtFvltnyaTCRLJ37JiTvCkL47j7Ha73RZdAJ3NaDSSWOrW/7ZKF/ejOP48Ho93t65ueaWyQfJzPZ1O5Xw2NwuC/4ZNSfkgSZIwTVJCd85dy+ApX0K9KQiqJnYDz3OlUqTlFP9SoYs25FZRhiqSO8ggyoTwy63VWcHx1MGybKi76/7OExgbQmSklCQ87QQRf0EG+IjCthvOWQbXV04sCHSEjShansRxPMLQPYTTbf2ZkdFwsfgj0jTh2OvC9ipJ4GDCmMP5vY6Oo2+lu8dQm7gPzrJ5Wdz9FWAAZ6UCGBXJp6oAAAAASUVORK5CYII=) no-repeat 13px 3px transparent;  }
+       #contentFooter .rb-tools .merken.on { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3NDNDMEUwN0RCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3NDNDMEUwOERCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc0M0MwRTA1REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc0M0MwRTA2REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+x4QNCAAAAhFJREFUeNqUks9rE0EUx9+b2WS3u5vGJFZBSywNFEOu9VK8CuZQD54Uq5eC/g8e9OBJT549KJ78QS8mQit6EVER8aBgDv5CiSWxjWlas5uQnZnn7GHVYjalXxiY9+sz7w0PiQhCVStVGKYk79cI8E0gzbMQIwYjxFBey9qrk4rY/Mi8HSALh/c+TWWsRni/umtIWJQ2G7bF16E48SjNUJzbLQQZBmdmcitpIQWYbA3GzcYYAl0Zmhx+7PLDpZsIKgtAU4qMSUnJ3D77fbeUW3KjxEDZ8Lp5YStQTlI/0ND5dQL2jYh5WHlQOZZKfL+fNr+MZ8xPzOIbYPJO7D8JsqAvMtDuF8P7oOnPDtj8ifnHPZGt9YI9voMfgasWiEDEHhBdsKAOE8kX0PSP6P3AGxjtyXL13oprfJ4rOLdTsIMEufBu85LU4xzQ5hr7G7CPd8X08w+/FrdGdVL3yvLt5mWIAGGtsf0Fp+zJ6bYfuJDAjaFd9OR+T49wPQL8B9FyCAwXxTqImFE4tUwO/owEO3ZPiga0/HA3ouPJPAQS/9i2emUCqNK/Rds60amnDbXKhJQwwEPwk5/vSEz/UGAXXPUsyMpbY4gNUEYiHw+hfklDnCa/2BF4sK3QWdDul2HMx9m7XuLoSUc+IaQBJzSntPvrsHF41ygPApa/owGFCBBK26cIeMZnczVCS3toMYr9FmAAuyUR4PmkdM8AAAAASUVORK5CYII=) no-repeat 13px 3px transparent;  }
+       #contentFooter .rb-tools .drucken { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAYAAAC5DOVpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpENDg4MkQ5MkRCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpENDg4MkQ5M0RCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkQ0ODgyRDkwREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkQ0ODgyRDkxREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+y5aVQwAAAglJREFUeNp8VNmqwkAMTeu4L1VRQQVRFP//P3z13V1LBbUWd21vTzBlLHoD0yXLmeQkM0YQBG64CGIYBrmuS+fzmb+xvonv+5RKpaharYpPIsSwVfgoQSGAjuOwQzab/QDQfe73O+12OyoWiwz6FkvFd1dKUbPZpEwmQ7/k+XzSZDJhcKw3hm/GHWF8PB70nwAMYppmRAXepl5GpDTNf8F+2ZWWJksikaDj8Uiv14v0xkjWALper9G33hQGW61WvMDX6XSi/X7/sYGQLx3GRvl8njdFyY1GgzqdDil0ZrlcUjKZ5ADLsrjlktW3juKNTACERq3Xa6rX66SgAFCv12OHOIfx5uh6/KMadPZ2uxGPBmZFDFgoQ4CFm3im4gcb4sG1Eg6ggAF8zedzzgABAgRwBIAW+BcKBa4GcZKtwgNEogGHw4EulwsPLY4UguCIEgAEQIDXajU+AePxmDlGAu12mxScEIAm4N3v96nb7dJsNmNg2NPpdASWy+XYvlgsaDQa8YY4z5wZHGGcTqcRPzBuNhsGkBKlXGSMLKDD+cUSro1QGUjNtm0z0HA45MxQtnApJeN/MBhwBwGISt6NcpROLkYE042bA9+lUunjKoIv/LbbLXmeR+VyOZp+LlMGEatSqTBPyBBg+pDqsyXXT6vVimbSgKBMUUgp8WnXBzY+b3I+w1jvT4ABAC9scBSgOS2TAAAAAElFTkSuQmCC) no-repeat 10px 3px transparent;  }
 
-.spalten-3-1 { left: 267px; }
-.spalten-3-2 { left: 524px; }
+       #contentFooter .rb-tools .versenden { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAUCAIAAADgN5EjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpENDg4MkQ5NkRCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpENDg4MkQ5N0RCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkQ0ODgyRDk0REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkQ0ODgyRDk1REIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+J2rymwAAAgBJREFUeNqcU11v2jAUdSIXSLMwAiulXQEJeKi0qW/8/z/ApK7bJHhgEqCNUBG+SQJJ7J7YmZNqD/u4urJ8b865vvfY0WLGCCGccyJM07QsECEikURA0r3AUyJg2i8oSXEZQlPJfCFCqGQh+Pb1abXekD9Z1a58+PgAAmGMxzH78vTZcRz+FwYYwKDoaAV8nGZZVhzHUYSF/eZZ0rLKojWuKznc9YZzqMU4j3POhHOVcVcriadyXCnGbDpr3L5HzLO5oJAmwkRc5+cPWixKiq4g72pVfFy6S5aek7iwWDhbui5gtWpVKqrndbNt29vv3dU6d6PprSLp7Xe1ej29Kk3LuoU0OqUV255OpwjLZUu2jW63u+2zM+90OuAAJvF67gkkl26YZrvdxjwn30+EDsPA9xbzebPZpBcX+UYyJkASSilt3Nx+enw8HL2D5w+Hw+vGTaFQwFcWRdH5nGqbL6PGe2Ne3vd6280K7Tbv7sxLQz06ZTQvA9YwDDFnq9V6W6lgZknAyd5hd3VVzyOpCsDBZjKZdLvdUJh64qZRQj/j8RgVZSZjInheOH5w6vV6+f8rlT2K0DAeyWg0uq7XXylkGMbMWZQtC+iz0EDS1JqQjRJo32czgJPSqvBgMPA8T419DAKzVDqeTmaxeAgCyzAkErR+v/+K+a+mk/+1FwEGANVSqcf9fG9/AAAAAElFTkSuQmCC) no-repeat 10px 2px transparent;  }
 
-.spalten-2-1 { left: 267px; }
+       #contentFooter .rb-tools li.social-buttons { padding-left: 15px; }
+       #contentFooter .rb-tools .social-buttons .addthis .addthis_toolbox { display:inline-block !important; margin-bottom: -3px; }
+       #contentFooter .rb-tools .social-buttons .label { display: inline-block; font-family: Lucida Sans Unicode, Lucida Grande, Lucida Sans, Verdana; font-size: 11px; line-height: 100%; color: #447092; text-decoration: none; }
+       #contentFooter .rb-tools li.standort { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3NDNDMEUwM0RCMjIxMUUyODhGM0VEODBFOEM1NDE2NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3NDNDMEUwNERCMjIxMUUyODhGM0VEODBFOEM1NDE2NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjc0M0MwRTAxREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjc0M0MwRTAyREIyMjExRTI4OEYzRUQ4MEU4QzU0MTY2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+KLDrDQAAApFJREFUeNqsVdFx2kAQvWX8b1IBUEGsCsDfxiO5AqMKgApQKjBUAKnA0ph8C1dgUkGUDpQKlPfu9uyLkEnGk5u5ObS39/bd273FmA+M4mk/fG+vaRo7L84B5E/7KywTMeazERnyAH4/N8bEsEfnzkono/23CUBW+FnDoQDQMbmdHmHvg84C9jlsFV0x19irQ8adwGCZGccoJVjHfomlwl5aqG8T+HrgXuvQg4gM4BQ5hvtZS9sJFsrzk9/x7TQDtRQ/H/OW7r0ANOGheHqTBvtj2LfBN+U5UCJviKeWqQXvBBZ3KP0zw+Y7lhnBMWe4JBkXbf1wuwNsB9zo9YaCj74eGMNh2a4KHHhpNBlOPfMJcyGO+RVsA6wkkGOWuLGtFqE2cCrhwLXCulQdOXjNR+juM87qiHCmMW/Bdkyk5qBEWaYAr3owsmwqOI0ax4JaxQC7pJbYFwCOjMt2kQfXDUH1+xm+wzeNxWa4UqeRMmW9lmQHwg+sZbjdw7b1bPlY3nsUPU1SmAgbAJGjIIkTlYPVQKnyxjFkUn+8Jk1Oq6IO61Cfckks9Y0QiPozmQTfaBKvxQWZMwAijX0pemBeKdEEWFBMPF+bzErzkKiOW3FBbR/B9y+sX3AjBqBtziblm9BOwdbK6o6aQnfehHWcUAqwrm1AJw8DZsGrpH3jbReqKwGY8Sx0trKhqwHlkqDAhiRmhaAzcewqlW7YuAcWnbw8BYzDctLarXEoAdAGz9dXzk6vTdC+rXXXiOoTYB3XmPfa4TzjASYPrwMSBD/qy6SEG8h2+Gs/JrC4dvjV9hARsL3Jgn6d4CYx9ijBsqu9ypl/D7Kklit9HL5X8BCBijbLfx5MCubC/O+hJfSh8VuAAQCH+F+cMpG63AAAAABJRU5ErkJggg==) no-repeat 10px 1px transparent; }
+       #contentFooter .rb-tools { }
+       #contentFooter .rb-tools { }
+       #contentFooter .rb-tools li.schriftgroesse { border: 0; padding-left: 0px; }
+       #contentFooter .rb-tools li.schriftgroesse a { display: inline; }
+       #contentFooter .rb-tools a.fontSizer { color:#32597d; text-decoration:none; font-weight:bold; }
+       #contentFooter .rb-tools a.small { padding-left:7px; font-size:11px; }
+       #contentFooter .rb-tools a.middle { font-size:14px; }
+       #contentFooter .rb-tools a.big { font-size:16px; }
 
-#mainNav ul.dropdown .dropdownEntry { background: transparent url(/images/rebrush/agb-left.png) top left no-repeat; padding: 0 0 0 10px; }
-#mainNav ul.dropdown .dropdownEntry a { display: block; text-decoration: none; line-height: 28px; font-weight: bold; font-size: 13px; background: transparent url(/images/rebrush/agb-right.png) right -4px no-repeat; padding-right: 25px; color: white; }
-#mainNav #arbeitgeber_menu { float: right; margin-top: 5px; }
-#mainNav #arbeitgeber_menu .dropdownEntry a { padding-right: 25px; cursor: pointer; }
-#mainNav #arbeitgeber_menu:hover { float: right; }
-#mainNav #arbeitgeber_menu:hover .dropdownEntry a { padding-right: 34px; background: none; color: #EC6F1E; }
-.nav-main li.login a.level-1 { color: #32597D; xxxbackground: transparent url(/images/menu_back_right_login.png) right no-repeat; }
-.nav-main li.login ul.level-2 { width: 285px; height: 188px; right: 0px; position: absolute; left: auto; }
+       #contentFooter .rb-buttons { float: left; width: 739px; padding: 13px 0 12px 12px; border-bottom: 1px solid #b4bcc4; }
+       #contentFooter .rb-buttons a.button { display: inline-block; height: 26px; line-height: 26px; text-decoration: none; background:url('/images/rebrush/button_arrow.jpg') no-repeat left top transparent; }
+       #contentFooter .rb-buttons a.button span { display: inline-block; height: 26px; margin: 0 0 0 27px; padding: 0 10px 0 0; text-decoration: none; background:url('/images/rebrush/button_content.jpg') no-repeat right top transparent; font-family:Lucida Sans Unicode, Lucida Grande, Lucida Sans, Verdana; font-size: 12px; line-height: 27px; font-weight: normal; color: #555555; text-transform: none; text-decoration: none; }
 
-#nav-login label { font-size: 11px; color: #254567; font-weight: bold; }
-#nav-login #label-user { position: absolute; top: 10px; left: 20px; }
-#nav-login #username { position: absolute; top: 29px; left: 19px; }
-#nav-login #label-password { position: absolute; top: 67px; left: 20px; }
-#nav-login #password { position: absolute; top: 86px; left: 19px; }
-#nav-login .inputText { color: #656565; height: 19px; padding: 2px 4px; font-size: 11px; line-height: 19px; width: 236px; background: transparent; border: none; outline: none; }
-#nav-login #vergessen { position: absolute; top: 175px; left: 20px; width: 200px; padding: 0 0 0 10px; font-size: 11px; color: #254567; font-weight: normal; text-decoration: none; background:url('/images/rebrush/login-arrow.png') no-repeat center left transparent; }
-#nav-login #registration { position: absolute; top: 193px; left: 20px; width: 200px; padding: 0 0 0 10px; font-size: 11px; color: #254567; font-weight: normal; text-decoration: none; background:url('/images/rebrush/login-arrow.png') no-repeat center left transparent; }
-
-
-#mainNav #menuMyAcademics ul.login li .loginLink {
-text-decoration: none;
-line-height: 16px;
-font-weight: normal;
-background: transparent url(../images/login_link_arrow.png) 0 4px no-repeat;
-padding-left: 13px;
-display: block;
-color: #5291CC;
-clear: left;
-}
-
-#mainNav #menuMyAcademics ul.login li .loginLink:hover { background: transparent url(../images/login_link_arrow.png) 0 4px no-repeat; }
+.box-school-teaser { width: 380px; }
+.box-school-teaser .text { padding: 190px 16px 10px 16px; font-size: 12px; font-weight: normal; color: #565656; background:url(/image-upload/graduierten_teaser_1.png) no-repeat -382px -20px; }
+.box-school-teaser .footer { height: 20px; background:url(/image-upload/graduierten_teaser_0.png) no-repeat 0px 0px; }
 
 
-
-#nav-login span.inputButton { position: absolute; top: 123px; left: 179px; }
-#nav-login a.button { position: absolute; top: 123px; left: 179px; background: transparent url(/images/rebrush/header-btn-bg-right.png) right top no-repeat; display: block; font-weight:bold; font-size:12px; color:#254567!important; float: left; height: 28px; margin-right: 3px; padding-right: 11px;  text-decoration: none; }
-
-#nav-login a.button span { background: transparent url(/images/rebrush/header-btn-bg-left.png) left top no-repeat; display: block; line-height: 23px; padding: 2px 0px 8px 13px;  }
-
-#nav-login a.button:hover {
-	background: transparent url(/images/rebrush/header-btn-bg-right.png) no-repeat  top right;
-}
-#nav-login a.button:hover span {
-	background: transparent url(/images/rebrush/header-btn-bg-left.png) left top no-repeat;
-}
-
-#subnav-login { left: 487px; top: 0px; position: absolute; display: block; }
-
-.angemeldet #nav-login ul.level-2 li.level-2 { float: left; margin: 10px 20px 5px 20px; width: 217px; margin-left: 580px; }
-
-
-#containerContentTop .breadcrumb { float: left; margin-top: 6px; border: none !important; padding-top: 1px; padding-bottom: 2px; }
-
-.breadcrumb .breadcrumb_middle { width: 100%; }
-
-#containerFooter .footerRow ul li a.nicht-fett { font-weight: normal !important; }
-body { background: url('//test.academics.de/images/rebrush/frame-bg.jpg') repeat-x 0px 165px; }
-
-#headerSearchAdvancedDropdown1 ul.dropdown {
-	z-index: 11104;
-}
-#headerSearchAdvancedDropdown2 ul.dropdown {
-	z-index: 11103;
-}
-#headerSearchAdvancedDropdown3 ul.dropdown {
-	z-index: 11102;
-}
-#headerSearchAdvancedDropdown4 ul.dropdown {
-	z-index: 11103;
-}
-#headerSearchAdvancedDropdown5 ul.dropdown {
-	z-index: 11102;
-}
-
-
-#frameFooter { background: url('http://test.academics.de/images/bg_footer.jpg') repeat-x #f7f7fb; height: auto; float: left; width: 100%; padding: 4px 0 30px 0; }
-#containerFooter { padding: 0 0px 0 10px; }
-#containerFooter a { text-decoration: none; color: #7689A8; font-size: 12px; }
-#containerFooter .first a { padding: 0 10px; } 
-#metaFooterLeft { float: left; padding: 3px 0px 10px 0px; margin-left: -10px; font-size: 15px; color: #B2BDCF; }
-#containerFooter .footerRow ul { float: left; margin: 5px 25px 0 0; padding: 0; list-style: none; width: 205px; }
-#containerFooter .footerRow ul li { display: block; position: relative; margin: 0 0 5px 0; }
-#containerFooter .footerRow ul li a { font-size: 12px; color: #565655; font-weight: bold; line-height: 120%; text-decoration: none; }
-#containerFooter .footerRow ul li.top-link { display: block; position:relative; height: 50px; border-bottom: 1px solid #b6c0d1; text-decoration: none; }
-#containerFooter .footerRow ul li.top-link a { position: absolute; bottom: 5px; font-size: 12px; color: #7689a8; font-weight: bold; line-height: 120%; text-decoration: none; }
-#containerFooter .footerRow ul li.fett { padding-top: 5px; }
-#containerFooter .footerRow ul li.fett a { font-size: 12px; color: #7e7e7e; font-weight: bold; line-height: 120%; text-decoration: none; }
-#containerFooter .footerRow ul li.nicht-fett a { padding-left: 10px; font-size: 12px; color: #7e7e7e; font-weight: normal; line-height: 120%; text-decoration: none; }
-
-body { background: url('//test.academics.de/images/rebrush/frame-bg.jpg') repeat-x 0px 160px; }
-.boxBanner { 375px; }
 </style>
-          <ul class="dropdown" id="menuArbeitgeber">
-						<li class="open"><div class="dropdownEntry arbeitgeber" style="z-index: 951;"><a href="http://www.academics.de/wissenschaft/arbeitgeberbereich_51395.html" title="For Advertisers">For Advertisers</a></div></li>
-					</ul>
+<ul class="nav-main level-1  active_0">
+  <li id="nav-stellenangebote" class="level-1 nav-1 ">
+    <a class="level-1" href="/science/jobs_in_research_and_science_37198.html" title="Jobs"><span>Jobs</span><span class="bg-right">&nbsp;</span></a>
+    
+    <ul class="level-2 spalten-3">
+    <div class="subnav-top" style="z-index: 951;"></div>
+    <div class="subnav-bottom" style="z-index: 950;"></div>
+    <div class="trenner spalten-3-1" style="z-index: 949;"></div>
+    <div class="trenner spalten-3-2" style="z-index: 948;"></div>
+      <li class="level-2">
+        <ul>
+           <li><a class="wiki" href="/science/jobs_and_vacancies_early-career_researcher_51258.html" title="Early-Career Researcher: Jobs and Vacancies"><span class="linkText">Early-Career Researcher</span></a>
+            <ul>
+  	          <li><a class="wiki" href="/science/phd_student_37199.html" title="Jobs for PhD students"><span class="linkText">PhD Student</span></a></li>
+	            <li><a class="wiki" href="/science/jobs_and_vacancies_postdoc_51270.html" title="Postdoc: Jobs and Vacancies"><span class="linkText">Postdoctoral position</span></a></li>
+            </ul>
+          </li>
+          <li><br><a class="wiki" href="/science/jobs_and_vacancies_in_research_and_development_51272.html" title="Research and Development:Jobs and Vacancies"><span class="linkText">Research and Development</span></a>
+            <ul>
+  	          <li><a class="wiki" href="/science/r_d_positions_37221.html" title="R&amp;D jobs and open positions in Research and Development"><span class="linkText">R&amp;D Manager</span></a></li>
+	            <li><a class="wiki" href="/science/research_37213.html" title="academics - current jobs in research"><span class="linkText">Scientist</span></a></li>
+            </ul>            
+          </li>
+        </ul>
+      </li>
+      <li class="level-2">
+        <ul>
+          <li><a class="wiki" href="/science/jobs_and_vacancies_higher_education_51303.html" title="Jobs in Higher Education"><span class="linkText">Higher Education</span></a>
+            <ul>
+  	          <li><a class="wiki" href="/science/fellow_37212.html" title="academics - fellowship positions"><span class="linkText">Research Fellow</span></a></li>
+	            <li><a class="wiki" href="/science/associate_professor_37217.html" title="academics - jobs as an associate professor"><span class="linkText">Associate Professor</span></a></li>
+	            <li><a class="wiki" href="/science/professor_37201.html" title="academics - jobs as a professor"><span class="linkText">Professorship</span></a></li>
+            </ul>
+          </li>
+          <li><a class="wiki" href="/science/scholarship_37205.html" title="Scholarship positions"><span class="linkText">Scholarship</span></a></li>
+          <li><a class="wiki" href="/science/jobs_and_vacancies_international_openings_51376.html" title="International Jobs and Vacancies"><span class="linkText">International Jobs</span></a></li>
+        </ul>
+      </li>
+      <li class="level-2">
+        <ul>
+          <li><a class="wiki" href="/science/jobs_in_research_and_science_37198.html" title="Jobs in research, science and higher education"><span class="linkText">Jobs by disciplines</span></a>
+            <ul>
+              <li><a class="wiki" href="/science/jobs_and_vacancies_life_sciences_51252.html" title="Jobs and Vacancies in Life Sciences Research"><span class="linkText">Life Sciences</span></a></li>
+              <li><a class="wiki" href="/science/natural_sciences_jobs_and_vacancies_53054.html" title="Natural Sciences: Jobs and Vacancies"><span class="linkText">Natural Sciences</span></a></li>
+              <li><a class="wiki" href="/science/jobs_and_vacancies_engineering_51247.html" title="Jobs and Vacancies in Engineering Research"><span class="linkText">Engineering</span></a></li>
+              <li><a class="wiki" href="/science/jobs_and_vacancies_mathematics_51210.html" title="Jobs and Vacancies in Mathematics Research"><span class="linkText">Math &amp; IT</span></a></li>
+              <li><a class="wiki" href="/science/economics_jobs_and_vacancies_53058.html" title="Economics: Jobs and Vacancies"><span class="linkText">Economics</span></a></li>
+              <li><a class="wiki" href="/science/humanities_jobs_and_vacancies_53032.html" title="Humanities: Jobs and Vacancies"><span class="linkText">Humanities</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+</li>
+  <li id="nav-forschung" class="level-1 nav-2 ">
+    <a class="level-1" href="/science/career_information_53590.html" title="Career Information"><span>Career Information</span><span class="bg-right">&nbsp;</span></a>
+    
+    <ul class="level-2 spalten-2">
+    <div class="subnav-top" style="z-index: 947;"></div>
+    <div class="subnav-bottom" style="z-index: 946;"></div>
+    <div class="trenner spalten-2-1" style="z-index: 945;"></div>
+      <li class="level-2">
+        <ul>
+          <li><a class="wiki" href="/science/career_paths_55952.html" title="Career Path, Career Opportunity"><span class="linkText">Career Paths</span></a>
+            <ul>
+	            <li><a class="wiki" href="/science/do_a_phd_36311.html" title="Do a PhD"><span class="linkText">Do a PhD</span></a></li>
+	            <li><a class="wiki" href="/science/postdocs_52751.html" title="Information for Postdocs"><span class="linkText">Information for Postdocs</span></a></li>
+	            <li><a class="wiki" href="/science/about_professorships_55953.html" title="Aiming for a Professorship"><span class="linkText">About Professorships</span></a></li>
+	            <li><a class="wiki" href="/science/working_in_industry_55954.html" title="Working in Industry"><span class="linkText">Working in Industry</span></a></li>
+	            <li><a class="wiki" href="/science/dual_career_55955.html" title="Dual Career"><span class="linkText">Dual Career</span></a></li>
+            </ul>
+          </li>
+          <li><br><a class="wiki" href="/science/first_person_reports_and_brilliant_minds_56038.html" title="Success stories"><span class="linkText">First Person</span></a></li>
+          <li><br><a class="wiki" href="/science/latest_science_news_31070.html" title="Latest Science News"><span class="linkText">Latest Science News</span></a></li>
+        </ul>
+      </li>
+      <li class="level-2">
+        <ul>
+          <li><a class="wiki" href="/science/salaries_in_science_and_research_38518.html" title="Research job salaries"><span class="linkText">Salaries</span></a></li>
+          <li><br><a class="wiki" href="/science/research_funding_30519.html" title="Research Funding"><span class="linkText">Research Funding</span></a></li>
+          <li><br><a class="wiki" href="/science/applications_30540.html" title="The Application Process"><span class="linkText">Application Processes</span></a></li>
+<li><br><a class="wiki" href="/science/academics_award_36250.html" title="Young Researcher of the Year 2013: Prof. Dr. Walid Maleej"><span class="linkText">academics Award</span></a></li>
+          <li><br><span class="a">Spotlight on</span>
+            <ul>
+	            <li><a class="wiki" href="/science/spotlight_on_biotechnology_53592.html" title="Spotlight on Biotechnology"><span class="linkText">Biotechnology</span></a></li>
+  	          <li><a class="wiki" href="/science/starting_a_career_in_the_natural_sciences_55357.html" title="Starting a Career in the Natural Sciences"><span class="linkText">Starting a Career in the Natural Sciences</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+</li>
+  <li id="nav-wissenschaft" class="level-1 nav-3 ">
+    <a class="level-1" href="/science/working_in_germany_55957.html" title="Working in Germany"><span>Working in Germany</span><span class="bg-right">&nbsp;</span></a>
+    
+    <ul class="level-2 spalten-2">
+    <div class="subnav-top" style="z-index: 944;"></div>
+    <div class="subnav-bottom" style="z-index: 943;"></div>
+    <div class="trenner spalten-2-1" style="z-index: 942;"></div>
+      <li class="level-2">
+        <ul>
+          <li><a class="wiki" href="/science/scientific_infrastructure_56037.html" title="Scientific Infrastructure: Bringing Research to Life"><span class="linkText">Scientific Infrastructure</span></a></li>
+          <li><br><a class="wiki" href="/science/city_profiles_55959.html" title="City Profiles"><span class="linkText">City Profiles</span></a></li>
+          <li><br><a class="wiki" href="/science/getting_started_55961.html" title="Getting Started"><span class="linkText">Getting Started</span></a></li>
+          <li><br><a class="wiki" href="/science/german_language_30701.html" title="German As a Foreign Language"><span class="linkText">Learning German</span></a></li>
+          <li><br><a class="wiki" href="/science/graduate_schools_36563.html" title="Graduate Schools - a structured PhD"><span class="linkText">Graduate Schools</span></a></li>
+        </ul>
+      </li>
+      <li class="level-2">
+        <ul>
+          <li><a class="wiki" href="/science/employer_profiles_37385.html" title="Employer Profiles"><span class="linkText">Employer Profiles</span></a>
+            <ul>
+              <li><a class="wiki" href="/science/companies_50912.html" title="Companies"><span class="linkText">Companies</span></a></li>
+              <li><a class="wiki" href="/science/universities_30515.html" title="Universities"><span class="linkText">Universities</span></a></li>
+              <li><a class="wiki" href="/science/research_institutes_30516.html" title="Research Institutes in Germany"><span class="linkText">Research Institutes</span></a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+</li>
+  <li id="nav-login" class="level-1 login">
+    <a class="level-1 login" href="#" title="Login"><span>Login</span><span class="bg-right">&nbsp;</span></a>
+        
+<ul class="level-2">
+    <div class="subnav-top" style="z-index: 941;"></div>
+    <div class="subnav-bottom" style="z-index: 940;"></div>
+ <li id="subnav-login">
+  <div class="facebook-login" style="z-index: 939;">
+    <form action="https://www.academics.com/action/account/startFacebookLogin" method="get">
+      <input type="hidden" name="action" value="start">
+      <button type="submit"></button>      
+    </form>
+  </div>
+  <div class="google-login" style="z-index: 938;">
+     <form action="https://www.academics.com/action/account/startGoogleLogin" method="get">
+      <input type="hidden" name="action" value="start">
+      <button type="submit"></button>      
+    </form>
+ </div>
+  <div class="login-trenner" style="z-index: 937;"><span class="part-1"></span><span class="part-2">oder</span><span class="part-3"></span></div>
+  <div class="normal" style="z-index: 936;">
+  <form action="https://www.academics.com/action/account/login" name="myLoginForm" target="_top" method="post">
+   <input type="hidden" name="action" value="login">
+   <span class="login-text">Login mit Ihrem academics-Account</span>
+	 <label id="label-user" for="username">Email address:</label>
+	 <input type="text" name="email" id="username" class="inputText bg-image" autocomplete="off">
+	 <label id="label-password" for="password">Password:</label>
+	 <input type="password" name="password" id="password" class="inputText bg-image" autocomplete="off">
+	 <button type="submit" name="submitbutton" value="Einloggen"><span>Log in</span><span class="bg-right">&nbsp;</span></button>
+  </form>
+<div class="login-trenner-weiss" style="z-index: 935;"></div>
+         <a href="/science/contact_30408.html" class="loginLink" id="problem" title="Trouble logging in?">Trouble logging in?</a>
+	 <a href="/action/account/sendPassword?iframe=true" class="loginLink iframe" id="vergessen" title="Forgot password?">Forgot password?</a>
+	 <a href="https://www.academics.com/action/account/create/agent-luf?iframe=true" class="loginLink iframe" id="registration" title="Register now">Register now</a>
+</div>
+ </li>
+</ul>
 
-					 <ul class="dropdown">
 
-<li class="open" id="menuStellenanzeigen"><div class="dropdownEntry" style="z-index: 950;"><a class="wiki" href="/science/jobs_in_research_and_science_37198.html" title="Jobs in Research and Science"><span class="linkText">Jobs in Research and Science</span></a></div>
-							<ul class="sub_menu">
-								<div class="sub_menu_flow" style="z-index: 949;">
-								    <li class="open"><a class="wiki" href="/science/jobs_and_vacancies_early_career_researcher_51258.html" title="Early-Career Researcher"><span class="linkText"><b>Early-Career Researcher</b></span></a></li>
-										<li class="open"><a class="wiki" href="/science/phd_student_37199.html" title="Jobs for PhD students"><span class="linkText">PhD Student</span></a></li>
-										<li class="open"><a class="wiki" href="/science/postdoctoral_position_37216.html" title="Postdoc jobs in Europe and Germany"><span class="linkText">Postdoctoral position</span></a></li>
-										<li class="open"><a title="Job and Vacancy Research and Development" href="/science/jobs_and_vacancies_in_research_and_development_51272.html" class="wiki"><span class="linkText"><b>Research and Development</b></span></a></li>
-										<li class="open"><a class="wiki" href="/science/r_d_positions_37221.html" title="R&amp;D jobs and open positions in Research and Development"><span class="linkText">R&amp;D Manager</span></a></li>
-										<li class="open"><a class="wiki" href="/science/research_37213.html" title="academics - current jobs in research"><span class="linkText">Scientist</span></a></li>
-										<li class="open"><a class="wiki" href="/science/jobs_and_vacancies_higher_education_51303.html" title="Job and Vacancy Higher Education"><span class="linkText"><b>Higher Education</b></span></a></li>
-										<li class="open"><a class="wiki" href="/science/fellow_37212.html" title="academics - fellowship positions"><span class="linkText">Research Fellow</span></a></li>
-										<li class="open"><a class="wiki" href="/science/associate_professor_37217.html" title="academics - jobs as an associate professor"><span class="linkText">Associate Professor</span></a></li>
-										<li class="open"><a class="wiki" href="/science/professor_37201.html" title="academics - jobs as a professor"><span class="linkText">Professorship</span></a></li>
-										<li class="open"><a class="wiki" href="/science/scholarship_37205.html" title="academics - scholarship positions"><span class="linkText"><b>Scholarship</b></span></a></li>
-										<li class="open lastchild"><a class="wiki" href="/science/jobs_and_vacancies_international_openings_51376.html" title="International Jobs and Vacancies"><span class="linkText"><b>International Jobs</b></span></a></li>
-										</div>
-							</ul>
-						</li>
-					   <li class="open" id="menuWissenschaftForschung"><div class="dropdownEntry" style="z-index: 948;"><a class="wiki" href="/science/news_36562.html" title="News"><span class="linkText">News</span></a></div>
-							<ul class="sub_menu">
-								<div class="sub_menu_flow" style="z-index: 947;">
-								    <li class="open"><a class="wiki" href="/science/news_and_topics_31070.html" title="News and Topics"><span class="linkText">News and Topics</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/research_ranking_30554.html" title="New Research Ranking"><span class="linkText">Research Ranking</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/research_environment_30556.html" title="Research Environment: Bringing Research to Life"><span class="linkText">Research Environment</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/first-person_reports_30537.html" title="First-Person Reports on Research and Science in Germany"><span class="linkText">First-Person Reports</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/highlights_in_science_and_research_51307.html" title="Highlights in German science and research"><span class="linkText">Highlights in Science and Research</span></a></li>
-								    <li class="open lastchild"><a class="wiki" href="/science/academics_award_36250.html" title="Young Researcher of the Year 2013"><span class="linkText">academics Award</span></a></li>
-								    </div>
-							</ul>
-						</li>
-					   <li class="open" id="menuKarriere"><div class="dropdownEntry" style="z-index: 946;"><a class="wiki" href="/science/career_advice_36564.html" title="Career Advice: Your Career in Research and Higher Education"><span class="linkText">Career Advice</span></a></div>
-							<ul class="sub_menu">
-								<div class="sub_menu_flow" style="z-index: 945;">
-								    <li class="open"><a class="wiki" href="/science/do_a_phd_36311.html" title="Do a PhD"><span class="linkText">Do a PhD</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/postdocs_52751.html" title="Postdocs"><span class="linkText">Postdocs</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/careers_in_research_36565.html" title="Careers in Research"><span class="linkText">Careers in Research</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/salaries_in_science_and_research_38518.html" title="Salaries in Science and Research"><span class="linkText">Salaries in Science and Research</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/research_funding_30519.html" title="Research Funding: Funding Opportunities in Research"><span class="linkText">Research Funding</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/applications_30540.html" title="Apply in Research and Science: more about your career, how to apply and networking"><span class="linkText">Applications</span></a></li>
-								    <li class="open"><a class="wiki" href="/science/working_in_germany_30604.html" title="Working in Germany"><span class="linkText">Working in Germany </span></a></li>
-								    <li class="open lastchild"><a class="wiki" href="/science/employer_profiles_37385.html" title="Employer Profiles"><span class="linkText">Employer Profiles</span></a></li>
-								    </div>
-							</ul>
-						</li>
-					   <li class="open" id="menuMyAcademics"><div class="dropdownEntry my_academics" style="z-index: 944;"><a href="javascript:void(0);" title="My academics">My academics</a></div>      
-      							<ul class="sub_menu login">
-                      <form action="/action/account/login" name="myLoginForm" target="_top" method="post">
-      								 <li>
-                         <input type="hidden" name="action" value="login"><label for="email">Email address</label>
-      									 <input type="text" name="email" id="email" class="inputText" autocomplete="off">
-      									 <label for="password">Password</label>
-      									 <input type="password" name="password" id="password" class="inputText">
-      									 <span class="inputButton hiddenButton"><input type="submit" name="submitbutton" value="Login"></span><a class="button" href="javascript:document.myLoginForm.submit();"><span>Login</span></a>
-      									  <a href="/science/contact_30408.html" class="loginLink" id="problem" title="Trouble logging in?">Trouble logging in?</a>
+</li>
+</ul>
 
-      									 <a href="/action/account/sendPassword?iframe=true" class="loginLink iframe" title="Forgot password?">Forgot password?</a><a href="/action/account/create/agent-luf?iframe=true" id="registration" class="loginLink iframe" title="Register now">Register now</a></li>
-                      </form>
-      							</ul>
-        </li>
-					</ul>
-				  </div>
-				  <div style="clear: both; z-index: 943;"></div>
+<ul class="dropdown" id="menuArbeitgeber">
+	<li class="open"><div class="dropdownEntry arbeitgeber" style="z-index: 934;"><a href="//www.academics.de/wissenschaft/arbeitgeberbereich_51395.html" title="For Advertisers">For Advertisers</a></div></li>
+</ul>
+
+</div>
+				  <div style="clear: both; z-index: 933;"></div>
+
 			</div>
   </div>
 
@@ -1411,7 +1423,7 @@ body { background: url('//test.academics.de/images/rebrush/frame-bg.jpg') repeat
     <a class="addthis_button_google_plusone" g:plusone:count="false"></a>
     <a class="addthis_button_compact"></a>
     </div>
-    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e6e1893264ab052"></script>
+    <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e6e1893264ab052"></script>
     <!-- AddThis Button END -->
   </div>
   <div class="fontSizer-container" style="float: right;">
@@ -1623,12 +1635,12 @@ info@academics.com
     	<div id="contentFooter">
 			<div class="contentFooterTop">
 				<div class="left">
-            <script type="text/javascript">document.write('<a class="printButton" href="javascript:print();" title="Print">Print</a>');</script><a class="printButton" href="javascript:print();" title="Print">Print</a>
+            <script type="text/javascript">document.write('<a class="printButton" klickout="drucken" href="javascript:print();" title="Print">Print</a>');</script><a class="printButton" klickout="drucken" href="javascript:print();" title="Print">Print</a>
     <noscript><a class="printButton" target="_blank" href="http://www.academics.com/science/privacy_policy_30406.html?printView=true" title="Print">Print</a></noscript>
-  <a class="sendButton iframe" href="/action/popup/recommendPage?nav=30406&amp;iframe=true" title="Send to a friend">Send to a friend</a>
+  <a class="sendButton iframe" href="/action/popup/recommendPage?nav=30406" title="Send to a friend">Send to a friend</a>
   <a class="bookmarkButton" href="#" title="Bookmarks">Bookmarks</a>
                     </div>
-                  <div id="bookmarkBox" style="display: none;">
+                  <div id="bookmarkBox">
                     <div class="bookmark_left">&nbsp;</div>
                     <div class="bookmark_middle">
                     <a href="http://del.icio.us/post?url=http%3A%2F%2Fwww.academics.com%2Fscience%2Fprivacy_policy_30406.html&amp;title=Privacy+Policy+-+More+..." target="_blank"><img src="/images/bookmarken/delicious.gif" alt="del.icio.us"></a>
@@ -1660,7 +1672,7 @@ info@academics.com
 </div>
   </div>
 </div>
-<script type="text/javascript" src="/script/academics_com/webtrekk_v3.js"></script>
+ <script type="text/javascript" src="/script/academics_com/webtrekk_v3.js"></script>
 <script type="text/javascript">
 <!--
 var webtrekk = {
@@ -1694,18 +1706,18 @@ ap.sendinfo();
 </script>
 <noscript>
 <div>
-<img alt="" width="1" height="1" src="http://academics01.webtrekk.net/847035010387565/wt.pl?p=311,verlag.academics.com...online.%2Fscience%2Fprivacy_policy_30406.html,0,0,0,0,0,0,0,0&amp;cg1=academics_com&amp;cg2=More+...&amp;cg3=Privacy+Policy"/>
+<img alt="" width="1" height="1" src="//academics01.webtrekk.net/847035010387565/wt.pl?p=311,verlag.academics.com...online.%2Fscience%2Fprivacy_policy_30406.html,0,0,0,0,0,0,0,0&amp;cg1=academics_com&amp;cg2=More+...&amp;cg3=Privacy+Policy"/>
 </div>
 </noscript>
 <!-- IVW VERSION="1.5" -->
 <script type="text/javascript">
 <!--
-var IVW="http://zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;";
+var IVW="//zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;";
 document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"szmtag\" />");
 //-->
-</script><img src="http://zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;?r=&amp;d=26777.742145127537" width="1" height="1" alt="szmtag">
+</script><img src="//zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;?r=&amp;d=56992.46018465176" width="1" height="1" alt="szmtag">
 <noscript>
-<img src="http://zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;" width="1" height="1" alt="szmtag" />
+<img src="//zeitonl.ivwbox.de/cgi-bin/ivw/CP/academics_com;" width="1" height="1" alt="szmtag" />
 </noscript>
 <!-- /IVW -->
 <!--ENDE: content-->
@@ -1756,7 +1768,7 @@ document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.ran
       <noscript>
         <a class="newSearchTrigger" href="/action/av/search/luf" title="Advanced Search">Advanced Search</a>
       </noscript>
-      <a class="newSearchTrigger" href="#" title="Advanced Search">Advanced Search</a>
+      <a class="newSearchTrigger hiddenButton" href="#" title="Advanced Search">Advanced Search</a>
     </li></ul>
     <ul>
       <li class="top-link">
@@ -1803,18 +1815,18 @@ document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.ran
     </ul>
     <ul>
       <li class="top-link">
-        <a class="iframe" href="/action/account/create/agent-luf?iframe=true" title="Sign in now">Sign in now</a>
+        <a class="iframe" href="https://www.academics.com/action/account/create/agent-luf" title="Sign in now">Sign in now</a>
       </li>
       <li class="top-link">
-        <a href="/action/account/login" title="Login">Login</a>
+        <a href="https://www.academics.com/action/account/login" title="Login">Login</a>
       </li>
     </ul>
     <ul>
       <li class="top-link">
-        <a href="http://www.academics.de/wissenschaft/arbeitgeberbereich_51395.html" title="For Advertisers">For Advertisers</a>
+        <a href="/wissenschaft/arbeitgeberbereich_51395.html" title="For Advertisers">For Advertisers</a>
       </li>
      <li class="fett">
-       <a href="http://www.academics.de/wissenschaft/arbeitgeberbereich_51395.html" title="Post a Job">Post a Job</a>
+       <a href="/wissenschaft/arbeitgeberbereich_51395.html" title="Post a Job">Post a Job</a>
      </li>
     </ul>
   </div>
@@ -1822,7 +1834,8 @@ document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.ran
 </div>
     <!--Ende: footer -->
 
-<script type="text/javascript">
+<!-- Squid-Tag kommt hier -->
+<img src="//squid.academics.de/squid?requestUrl=http%3A%2F%2Fwww.academics.com%2Fscience%2Fprivacy_policy_30406.html" width="0" height="0" alt="" style="display: none"><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -1832,4 +1845,4 @@ var pageTracker = _gat._getTracker("UA-13069811-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<div id="fancy_overlay"></div><div id="fancy_wrap"><div class="fancy_loading" id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg fancy_bg_n"></div><div class="fancy_bg fancy_bg_ne"></div><div class="fancy_bg fancy_bg_e"></div><div class="fancy_bg fancy_bg_se"></div><div class="fancy_bg fancy_bg_s"></div><div class="fancy_bg fancy_bg_sw"></div><div class="fancy_bg fancy_bg_w"></div><div class="fancy_bg fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div></div></div></div><div id="AutocompleteContainter_1580362353548" style="position: absolute; z-index: 990; top: 256px; left: 608px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_1580362353548" style="display: none; width: 363px; max-height: 300px;"></div></div></div></body></html>
+<div id="fancy_overlay"></div><div id="fancy_wrap"><div class="fancy_loading" id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_close"></div><div id="fancy_bg"><div class="fancy_bg fancy_bg_n"></div><div class="fancy_bg fancy_bg_ne"></div><div class="fancy_bg fancy_bg_e"></div><div class="fancy_bg fancy_bg_se"></div><div class="fancy_bg fancy_bg_s"></div><div class="fancy_bg fancy_bg_sw"></div><div class="fancy_bg fancy_bg_w"></div><div class="fancy_bg fancy_bg_nw"></div></div><a href="javascript:;" id="fancy_left"><span class="fancy_ico" id="fancy_left_ico"></span></a><a href="javascript:;" id="fancy_right"><span class="fancy_ico" id="fancy_right_ico"></span></a><div id="fancy_content"></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="fancy_title" id="fancy_title_left"></td><td class="fancy_title" id="fancy_title_main"><div></div></td><td class="fancy_title" id="fancy_title_right"></td></tr></tbody></table></div></div></div></div></body></html>
