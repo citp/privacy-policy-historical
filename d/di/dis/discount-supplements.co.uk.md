@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622063636id_/http%3A//www.discount-supplements.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221121751id_/http%3A//www.discount-supplements.co.uk/privacy) for the most accurate reproduction.*
 
 # Supplements | Protein | Creatine | Whey | Privacy Policy
 
-**Who We Are?  
-**  
-In this Privacy Policy references to "we" and "us" are to A1 Sports Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG, company number 53190001, registered office A1 Sports Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG.
+Who We Are?  
+  
+In this Privacy Policy references to "we" and "us" are to Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG, company number 53190001, registered office Discount Supplements Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG.
 
- **What Information We Collect  
-**  
+What Information We Collect  
+  
 The information we collect via this website may include:   
 1\. Any personal details you type in and submit, such as name, address, email address, etc. 
 
@@ -17,8 +17,8 @@ The information we collect via this website may include:
 
 4\. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
 
- **What We Do With Your Information  
-**  
+What We Do With Your Information  
+  
 Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:- 
 
 1\. to process your order, to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service); 
@@ -30,8 +30,8 @@ We may use third parties to carry out certain activities, such as processing and
 
 We would also like to inform you of various promotions, goods and services that may be of interest to you. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below.,
 
- **Your Rights  
-**  
+Your Rights  
+  
 1\. You can ask us to update your personal information by emailing precise details of your request to us [here](https://web.archive.org/contact_us.asp). Please ensure you type "update" in the subject line of your email. 
 
 2\. You can ask us not to send you future marketing communications. To do this, simply email us [here](https://web.archive.org/contact_us.asp). Type "No Marketing" in the subject line and then the following in the main text:-   
@@ -39,15 +39,15 @@ your postal address, including postcode, your email address
 We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations.  
 Alternatively, you can post your request to the address in (3) below. 
 
-3\. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to A1 Sports Limited to cover our administration costs:- 
+3\. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to Discount Supplements Limited to cover our administration costs:- 
 
 Customer Services (Data Subject Request)  
-A1 Sports Limited  
+Discount Supplements Limited  
 2 Anglia Way  
 Braintree  
 Essex  
 CM7 3RG
 
- **Other Websites  
-**  
+Other Websites  
+  
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
