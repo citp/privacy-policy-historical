@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517033312id_/http%3A//www.wesrch.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221043410id_/http%3A//www.wesrch.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice - weSRCH
+
+**weSRCH PRIVACY NOTICE**
 
 weSRCH ("weSRCH") recognizes that its customers, visitors, users, and others who use www.weSRCH.com or other web sites owned or operated by weSRCH (the "weSRCH Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the weSRCH Sites. weSRCH provides this Privacy Notice to help you make an informed decision about whether to use or continue using the weSRCH Sites.
 
@@ -10,7 +12,7 @@ Please note that any content posted at the direction of Users onto the weSRCH Si
   
 **INFORMATION COLLECTION AND USE**  
   
-  * You provide certain personally identifiable information (such as your name and email address) to weSRCH when choosing to participate in various activities on the weSRCH Sites such as uploading papers, news releases, posting messages in our forums or in the paper comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
+  * You provide certain personally identifiable information (such as your name and email address) to weSRCH when choosing to participate in various activities on the weSRCH Sites such as uploading papers, press releases, posting messages in our forums or in the paper comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
 
   
   
@@ -130,7 +132,7 @@ Protecting the privacy of young children is especially important. For that reaso
   
 **CHILDREN BETWEEN THE AGES OF 13 AND 18**  
   
-By accepting our [Terms of Service](http://www.wesrch.com/terms-of-use), minors 13 years of age or older affirm that they are an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligation, affirmations, representations, and warranties set forth in the Terms of Service, and to abide by and comply with the Terms of Service. In the event that weSRCH learns that personally identifiable information of persons 13 years of age or over has been collected on the weSRCH Sites then weSRCH will take the appropriate steps to delete this information as quickly as possible. If you believe that we might have any information from or about a minor over 13 that is not an emancipated minor or does not posses parental or guardian consent, please contact us using this [Contact Form](http://www.wesrch.com/contact-us).  
+By accepting our [Terms of Service](http://www.wesrch.com/terms-of-use),minors 13 years of age or older affirm that they are an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligation, affirmations, representations, and warranties set forth in the Terms of Service, and to abide by and comply with the Terms of Service. In the event that weSRCH learns that personally identifiable information of persons 13 years of age or over has been collected on the weSRCH Sites then weSRCH will take the appropriate steps to delete this information as quickly as possible. If you believe that we might have any information from or about a minor over 13 that is not an emancipated minor or does not posses parental or guardian consent, please contact us using this [Contact Form](http://www.wesrch.com/contact-us).  
   
 **SPECIAL NOTE TO INTERNATIONAL USERS**  
   
@@ -148,7 +150,7 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
   
 **Date Last Modified:**  
   
-This Privacy Notice was last modified March, 2013.  
+This Privacy Notice was last modified January, 2013.  
   
 **Contact Information:**  
   
