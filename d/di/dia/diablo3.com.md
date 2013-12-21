@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diablo3.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625063327id_/http%3A//us.blizzard.com/en-us/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diablo3.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221015433id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
 
-# Blizzard Entertainment: Privacy Policy
+# Blizzard Entertainment:Privacy Policy
 
 ### Blizzard Entertainment® Online Privacy Policy
 
@@ -10,7 +10,7 @@ Blizzard Entertainment and its affiliate companies (collectively "Blizzard") res
 
 Blizzard has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)  including transparency, accountability and choice regarding the collection and use of your personal information. The scope of TRUSTe’s certification covers its North American websites us.blizzard.com and us.battle.net and their subdomains. The TRUSTe program does not cover information that may be collected through downloadable software . TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our Privacy Policy Administrator at [privacy@blizzard.com](mailto:privacy@blizzard.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Blizzard Entertainment adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October 1998. For more information go to <http://www.export.gov/safeharbor/>
+Blizzard Entertainment complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Blizzard Entertainment has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Blizzard Entertainment’s certification, please visit <http://www.export.gov/safeharbor/>
 
 If you are a visitor from outside the United States, the personal information you provide may be transferred to, stored, and processed within the United States or other countries where Blizzard maintains facilities or business operations. 
 
@@ -96,6 +96,10 @@ When you and a friend mutually agree to become Real ID friends, you will have ac
 
 
 
+### What is Global Play? 
+
+Certain Blizzard games playable on Blizzard's Battle.net service feature "Global Play," which allows you to play with other players who are outside of the region associated with the creation of your Battle.net account. The Global Play feature requires that some or all of the personal information that you provided when you created your Battle.net account be transferred to servers operated by Blizzard in the regions where you wish to play. 
+
 ### What are cookies and clear gifs and how are they used?
 
 Cookies are a feature of your Web browser that allows Web sites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. This allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or registration. In addition, Blizzard may use cookies to retrieve user information for promotional, marketing, or security purposes. 
@@ -124,7 +128,7 @@ Blizzard has taken steps to assure that all information collected will remain se
 
 ### What if I have a question or complaint?
 
-If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com), call us at (800) 592-5499, or send a letter addressed to Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 16215 Alton Pkwy. Irvine CA 92618-3616. 
+If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com) or send a letter addressed to Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 16215 Alton Pkwy. Irvine CA 92618-3616. 
 
 By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the Blizzard website will signify your acceptance of these changes. 
 
