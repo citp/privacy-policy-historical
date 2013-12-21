@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freaksofcock.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601150613id_/http%3A//freaksofcock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freaksofcock.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221152617id_/http%3A//freaksofcock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
