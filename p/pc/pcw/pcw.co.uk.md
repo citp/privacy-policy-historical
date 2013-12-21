@@ -1,171 +1,76 @@
-> *The following text is extracted and transformed from the pcw.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621111900id_/http%3A//www.incisivemedia.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcw.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221233554id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Incisive Media - B2B publishers, financial market data , books/magazines subscriptions, jobs
+# Dennis Publishing - Privacy Notice
 
-**1\. INTRODUCTION**
+## Privacy Notice
 
-Incisive Media Limited and all companies within its Group ("Incisive Media" or "We") are committed to protecting and respecting your privacy.
+Last Updated April 2013
 
-This policy (together with our [terms of use](http://www.incisivemedia.com/static/terms-conditions "View our terms & conditions of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+We have published a new [cookie policy](https://web.archive.org/cookie-policy). It explains what cookies are and how we use them on our site. To learn more about cookies and their benefits, please view our [cookie policy](https://web.archive.org/cookie-policy). If you'd like to disable cookies on this device, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) for more information on how to do this. Please be aware that parts of the site will not function correctly if you disable cookies. By using our websites you consent to our use of cookies on this device in accordance with our [cookie policy](https://web.archive.org/cookie-policy) unless you have disabled them.
 
-For the purpose of the Data Protection Act 1998 ("the Act"), the data controller is Incisive Media Limited of 32-34 Broadwick Street, London W1A 2HG.
+### Dennis Publishing Privacy Notice
 
-Our nominated representative for the purpose of the Act is Sean Hayes.
+Your personal information is being processed by Dennis Publishing (UK) Ltd (“we”). We are committed to managing your personal information in accordance with current legislation and best practice. Our aim is to be responsible, relevant and secure when using your data. You can find out more about us by visiting [www.dennis.co.uk/about-us](http://www.dennis.co.uk/about-us).
 
-**2\. INFORMATION WE MAY COLLECT FROM YOU**
+Whenever you provide personal information we will treat that information in accordance with this Notice. We endeavour at all times to keep your data accurate and secure, and to honour your data preferences with regard to receipt of direct marketing e.g. email, mobile messaging and mobile telephone calls. 
 
-We may collect and process the following data about you:
+Dennis Publishing (UK) Ltd publishes over fifty magazines, websites, e-zines and mobile phone sites (brands) all of which are governed by this Privacy Notice. For an up to date list of these brands please visit 
 
-  * Information that you provide by filling in forms on our sites, and which may be amended from time to time (" **our sites** "). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+[www.dennis.co.uk/brands](http://www.dennis.co.uk/brands/). Below is a non-exhaustive list of our well-known brands.
 
+Auto Express, bit-tech, Bizarre, Channel Pro, Computer Shopper, Custom PC, Digital SLR Photography, EVO, Fortean Times, iGizmo, iMotor, InsidePoker, InsidePoker Business, IT Pro, Know Your Mobile, Mac Channel, MacUser, Maxim, Men's Fitness, Micro Mart, Mobile Computer, Monkey, Octane, PC Pro, PokerPlayer, The First Post, The Week and Viz.
 
+Dennis Publishing (UK) Ltd includes subsidiary companies Dennis Publishing Ltd, Evo Publications Ltd, The Week Ltd, Dennis Lifestyle Ltd, It’s in the Bag Ltd, Three PM Ltd, Four PM Ltd, First Post Newsgroup Ltd, Halo Publishing Ltd, Bit Publishing Ltd, Octane Media Ltd and Octane (Media) Holdings Ltd. Choice Publishers Limited, The Magazine Group, Dennis Interactive Ltd, I Feel good (Holdings) limited and I Feel Good Limited.
 
-**3\. IP ADDRESSES**
+Dennis Publishing (UK) Ltd had formed partnerships with a variety of carefully selected companies. Below is a non-exhaustive list of our key partners:   
+IPC Media Ltd   
+Jellyfish Online Marketing   
+Audience Science  
+Hearst UK trading as The National Magazine Company  
+Hearst UK trading as Hachette Filipacchi  
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-**4\. COOKIES**
+## What information we collect
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. The cookies we use can be grouped into four separate categories:
+To provide you with the best possible customer experience we may ask you to submit personal information such as your name, postcode, email address and mobile phone number. Providing this personal information helps us to provide you with a better experience e.g. not having to login to websites each time you visit and showing you content that really interests you.   
+Additionally we use web technologies e.g. cookies and web beacons, to automatically track and log limited personal data and link this with information you or other suppliers have provided. For detailed information on Cookies and how you can choose to allow or prevent sites accessing cookies, see [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
+Anonymous data will be recorded for the purpose of reporting web traffic statistics, advertisement 'click-throughs', and/or other activities on our sites.
 
-  * Strictly necessary
-  * Performance
-  * Functionality
-  * Targeting
+Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.com/uk  ](http://www.youronlinechoices.com/uk) .
 
+Our iPad, Android and other ‘apps’ may use a service called Flurry Analytics to collect user data which we use to learn about our readers and improve the app. To find out more, visit <http://www.flurry.com/about-us/legal/privacy.html>. You can opt out at any time by visiting <http://www.flurry.com/resources/privacy.html>.   
 
 
-**Strictly Necessary**
+**How we use your data**
 
-'Strictly Necessary' cookies allow you to navigate the website and use essential features like secure areas and online registration. These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet.
+The personal information we obtain will be used for the following purposes.
 
-Since these cookies are essential in our being able to guarantee the performance of our website, should you disable them we won’t be able to ensure your security or predict how our website will perform during your visit.
+Technical administration of the web site, enhancing your experience of the site, research and development, customer service, marketing, advertising targeting and making your personal data available to selected partners. This will include Dennis and our partners sending you information about products and services that will be relevant to you, by email, mobile messaging, postal mail or direct telephone contact. All of the above are subject to your stated preferences; we and our content partners will always make it clear how you can prevent i.e. opt-out of these uses.
 
-Examples of strictly necessary cookies that we use include the following:
+We may use third party suppliers to provide part of our service to you. In some circumstances these providers may be based in countries outside the European Economic Area whose laws provide for a different standard of protection for your personal information than that provided under UK Law. In such circumstances we will have in place strict contractual arrangements that will require your information is processed securely, at least to a standard equivalent to the UK Data Protection Act 1998.   
+Your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. Before we release data on this basis, we will ensure that the information is being provided to a genuine and properly authorised investigation. If we are not satisfied that there are valid grounds for releasing the information, the Data Protection Act does not oblige us to do so. If we refuse to release the information, law enforcement agencies may obtain a court order requiring us to provide it. ****
 
-    Incisive Cookies  
-        Kreatio_session  
-        logged_in
+**Individual Choice** ****
 
-**Performance**
+You can change your personal information preferences and/or details at any time. As a magazine subscriber you can access your preferences by logging on to www.subsinfo.co.uk using your SubsInfo password. If you have registered on a Dennis Publishing (UK) Ltd website you can access your personal information preferences by logging in to our registration system and using the username and password details you selected. You can also unsubscribe to any/all lists by sending an email request to [privacy@dennis.co.uk](mailto:privacy@dennis.co.uk). (including your full name, postcode and magazine subscription / website registration / competition information). 
 
-This type of cookie collects information about how you use our website e.g. which pages you visit, and if you experience any errors. The information collected is anonymous and is only used to help us improve how our website works, gauge what interests our users and assess the effectiveness of advertising.
+You will ALWAYS be given a straightforward way to opt out from our direct marketing each time you receive a communication from us or one of our advertising partners.
 
-Examples of performance cookies include:
+**Access to Personal Information** **  
+**If you wish, you can obtain a copy of any personal information we have about you by sending your request to The Data Controller, Dennis Publishing (UK) Ltd, 30 Cleveland Street, London, W1T 4JD.  
+We will provide you, at no charge, with a hard copy of the personal data that we keep about you within 30 days, although we will require proof of your identity. If you consider that the information we hold about you is incorrect, you may where appropriate, have the data erased, amended or updated. 
 
-    Incisive  
-        Kreatio_session
+**Personal information security**
 
-    Jobsinrisk.com  
-        WebSite_LatestJobSearchPage  
-        WebSite_LatestJobSearchCount  
-        WebSite_LatestJobSearchItems  
-        WebSite_LatestJobSearchListingPage  
-        WebSite_LatestJobSearchPageSize  
-        WebSite_LatestJobSearchOrder  
-        WebSite_LatestJobSearchID  
-        WebSite_LatestSearchRecruiterID  
-        WebSite_LatestSearchFirstJobID
+Dennis Publishing (UK) Ltd security policies, rules and technical measures have been implemented to protect your personal information from unauthorised or improper use and from accidental loss.
 
-**Functionality**
+All our employees and data processors that have access to, and are associated with, the processing of your personal information are legally obliged to respect the confidentiality of your data and are bound by contract to do so.
 
-This type of cookie remembers your preferences for tools found on our websites, so you don't have to re-set them each time you visit. Some of them are managed by third parties. They may for instance determine whether you see the latest or oldest comments made in relation to an article first. Examples include:
+Note that some of our websites provide forums where you can post information. When you do so, be aware that other visitors may collect any information you make public.
 
-    Incisive.grapeshot.co.uk  
-        uid
+**Privacy Support**
 
-    Thenewswall.co.uk  
-        __cfduid  
-        __utma  
-        __utmb  
-        __utmc  
-        __utmz  
-        __utmv
+If you have an enquiry or concern about our Privacy Notice, please contact: The Data Controller, Dennis Publishing (UK) Ltd, 30 Cleveland Street, London, W1T 4JD. If you are not satisfied with our response you may wish to contact the Information Commissioner via their [website](http://www.ico.gov.uk/)
 
-**Targeting**
-
-These cookies are used to analyse what advertising might be most relevant to a user of the website based on the areas of the website that the user visits. Examples include:
-
-    T.mookie1.com  
-        id  
-        mdata  
-        OAX
-
-    YouTube  
-        VISITOR_INFO1_LIVE  
-        PREF  
-        use_hitbox
-
-    DoubleClick  
-        test_cookie  
-        id
-
-Please note that any advertisers featured on our site may also use cookies, over which we have no control.
-
-You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our sites.
-
-Your first visit to any of our sites will generate a pop-up header alerting you to this privacy policy and will re-appear only in the event that you change your cookie settings from time to time.
-
-  Please also note that by clicking on the distinctive Ad Choices logo that appears in our sites you can obtain further information as to how cookies can be used or restricted in tailoring advertising relevant to you.
-
-**5\. WHERE WE STORE YOUR PERSONAL DATA**
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA working for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-**6\. USES MADE OF THE INFORMATION**
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
-
-
-
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post, email or telephone.
-
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
-
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
-
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form or, alternatively, do not provide your consent to pass on those details when prompted.
-
-**7\. DISCLOSURE OF YOUR INFORMATION**
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Incisive Media or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.incisivemedia.com/static/terms-conditions "View our terms & conditions of use") and other agreements; or to protect the rights, property, or safety of Incisive Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-
-
-**8\. YOUR RIGHTS**
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@incisivemedia.com](mailto:info@incisivemedia.com "Email info@fundcatalyst.com").
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-**9\. ACCESS TO INFORMATION**
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-**10\. CHANGES TO OUR PRIVACY POLICY**
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
-
-**11\. CONTACT**
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@incisivemedia.com](mailto:info@incisivemedia.com "Email info@incisivemedia.com").
+If we decide to change our Privacy Notice we will post these changes on this page so that you are always aware of what information we collect, how we use it and in what circumstances we disclose it.  
+In the event of any part of Dennis Publishing (UK) Ltd either being sold or going into receivership, we reserve the right to continue to share your data to third parties in accordance with the latest preferences you have provided. You will be informed should any change of ownership occur, and the new owner will manage your personal information preferences.
