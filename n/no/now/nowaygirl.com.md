@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowaygirl.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329095800id_/http%3A//nowaygirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowaygirl.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221220703id_/http%3A//nowaygirl.com/privacy.html) for the most accurate reproduction.*
 
 # Nowaygirl.com Disclaimer
 
@@ -59,4 +59,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 NoWayNetworks & Media 201 Lejune Road Suite 277 Miami, Florida 333166   
 nowaynetworks@gmail.com
 
-This document was last updated on October 10, 2011
+This document was last updated on October 10, 2012
