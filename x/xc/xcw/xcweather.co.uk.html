@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the xcweather.co.uk privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620090428id_/http%3A//xcweather.co.uk/Info/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xcweather.co.uk privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221205139id_/http%3A//www.xcweather.co.uk/Info/Privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>XCWeather Privacy Policy</title>
 
-<base href="http://www.xcweather.co.uk/v19/">
+<base href="http://xcweather.co.uk/v19/">
 <link href="ss11.min.css" type="text/css" rel="stylesheet">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
 (function() {
@@ -38,7 +38,7 @@ googletag.enableServices();
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -57,6 +57,12 @@ function resetHome() {
 	document.cookie = 'map=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
 	document.cookie = 'func=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
         location.replace('http://'+location.host);
+}
+
+function getForecast(value) {
+
+	_gaq.push(['_trackEvent', 'Get Forecast', 'Get Forecast', value, undefined, true]);
+	location.href = "/forecast/"+encodeURIComponent(value.replace(/ /g, "_"));
 }
 </script>
 
@@ -78,15 +84,18 @@ function resetHome() {
 	float: right;
 }
 
+#hmenu {
+ 	background: #508ac8 url("images/menu3.jpg") no-repeat left bottom;
+}
+
 #heading {
-	padding: 15px 190px 15px 12px;
 	padding: 15px 0px 15px 12px;
 	_padding-bottom: 0;
 	_height: 1px;
 	
 }
 
-#heading, #mapTabs {
+#mapTabs {
 	background: #ccd0dd;
 	background: -moz-linear-gradient(top,  #ffffff 20%, #ccd0e0 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(20%,#ffffff), color-stop(100%,#ccd0e0)); /* Chrome,Safari4+ */
@@ -95,10 +104,6 @@ function resetHome() {
 	background: -ms-linear-gradient(top,  #ffffff 20%,#ccd0e0 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #ffffff 20%,#ccd0e0 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ccd0e0',GradientType=0 ); /* IE6-9 */
-}
-
-#tabNav {
-	background: #ccd0dd;
 }
 
 #mapTabs {
@@ -180,7 +185,7 @@ function resetHome() {
 
 .nav li a {
 	display: inline-block; /* Needed to give layout for IE otherwise no gradient */
-	padding:1px 18px 1px 14px;
+	padding:1px 13px 1px 14px;
         text-decoration: none;
         font-weight: bold;
 	-webkit-font-smoothing: antialiased;  /* Stops Mac looking too bold */
@@ -227,24 +232,34 @@ function resetHome() {
 
 .boxcap {
 	text-align: center;
-        background: #535B8A;
+        background: #2b2b5a;
 	color: white;
 	margin: 2px;
 	height: 45px;
 	width: 45px;
 	float: left;
+        /* rounded corners */
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
 }
 
 #logo {
-	margin-top: 8px;
+	padding: 4px 8px 4px 4px;
 	float: left;
-}
-
-#logo a {
-	font: bold 40px Arial, Helvetica, sans-serif;
+	font: lighter 40px Arial, Helvetica, sans-serif;
 	line-height: 45px;
 	text-decoration: none;
-        color: #535B8A;
+        color: #2b2b5a;
+        cursor:pointer;
+        /* rounded corners */
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+}
+
+#logo:hover {
+	background: rgba(0,0,0,0.2);
 }
 
 #logosm {
@@ -255,7 +270,7 @@ function resetHome() {
         float: right;
         margin: 0;
         color: #535B8A;
-	width: 594px;
+	width: 530px;
 }       
 
 #lform #loc_input {
@@ -316,7 +331,7 @@ function resetHome() {
 }
 
 #lform #note {
-        color: #767ca2;
+        color: #535B8A;
         font-size: 12px;
 }
 
@@ -334,11 +349,12 @@ function resetHome() {
 
 </style>
 
+<div id="hmenu">
 <div id="heading">
 
 
-<div id="logo"><a href="javascript:resetHome();"><div class="boxcap">X</div><div class="boxcap">C</div><div class="boxcap">W</div>eather<span id="logosm">.co.uk</span></a></div>
-<form name="lform" id="lform" action='javascript:location.href = "/forecast/"+encodeURIComponent(document.lform.loc.value.replace(/ /g, "_"));'>
+<a href="javascript:resetHome();"><div id="logo"><div class="boxcap">X</div><div class="boxcap">C</div><div class="boxcap">W</div>eather<span id="logosm">.co.uk</span></div></a>
+<form name="lform" id="lform" action="javascript:getForecast(document.lform.loc.value);">
 <div id="note">Place or PostCode</div>
         <input name="loc" id="loc_input" type="text" onfocus="flocFocus(this);" onblur="flocBlur(this);">
         <input name="Search" value="   Get Forecast   " id="searchbutton" type="submit">
@@ -377,6 +393,7 @@ function resetHome() {
 
 <div class="givesize"></div>
 <div id="hline"><div class="givesize"></div></div>
+</div>
 </div>
 </div>
 
