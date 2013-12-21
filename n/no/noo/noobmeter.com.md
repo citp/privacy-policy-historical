@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noobmeter.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601041636id_/http%3A//noobmeter.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noobmeter.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221101236id_/http%3A//www.noobmeter.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# World of Tanks performance privacy policy
+# - privacy policy
 
 This application collects some personal data from its users.
 
@@ -17,5 +17,5 @@ Google's use of the DoubleClick cookie enables it and its partners to serve ads 
   
 
 
-All information and services on this site are provided without express or implied warranty of any kind. This site uses cookies.  
+All information and services on this site are provided without express or implied warranty of any kind. This site uses cookies. World of Tanks and World of Warplanes are trademarks of Wargaming.net.  
 [Privacy policy](https://web.archive.org/privacyPolicy.jsp)
