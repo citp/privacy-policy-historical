@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movs.ch privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615030222id_/http%3A//www.movs.ch/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movs.ch privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221114416id_/http%3A//www.movs.ch/Privacy_policy.html) for the most accurate reproduction.*
 
 # - Movs.ch
 
