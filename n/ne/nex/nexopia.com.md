@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516075808id_/http%3A//www.nexopia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221195030id_/http%3A//www.nexopia.com/mag/privacy-policy) for the most accurate reproduction.*
 
-# Nexopia
+# Privacy Policy - Nexopia
 
-_Last updated April 29, 2013_
+_Last updated May 31, 2013_
 
 **Our Commitment to Your Privacy  **
 
@@ -14,33 +14,35 @@ For persons between the ages of 13 and 18, we require parental or guardian conse
 
 **Privacy Settings**
 
-When choosing the privacy settings for your account,¬¬¬ you have four options: 1) Visible to all; 2) Visible to logged in users; 3) Visible to friends; and 4) Not visible. You also have the option to hide your accounts from ignored users.
+When choosing the privacy settings for your account, you have four options: 1) Visible to all; 2) Visible to logged in users; 3) Visible to friends; and 4) Not visible. You also have the option to hide your accounts from ignored users.
 
-Visible to All: Your information is viewable by Nexopia members as well as outside visitors to the site who are not logged in. With the exception of forum posts and blog posts, your information will not be visible to external search engines (ie. Google). However, it will be searchable by the search engine on Nexopia’s site.
+Visible to All: Your information is viewable by Nexopia members as well as outside visitors to the site who are not logged in. With the exception of forum posts and blog posts, to the best of our ability your information will not be visible to external search engines (ie. Google, Bing, Yahoo) as long as they comply with the Robot Exclusion Standard. However, it will be searchable by the search engine on Nexopia’s site.
 
 Visible to Logged In Users: Your information is viewable only by Nexopia members who are currently logged into the website, regardless of whether or not they are your friend. Your information is not visible to outside visitors or external search engines. Nexopia’s internal search engine will only display your information if the person using the search engine is logged into the site at the time of use. 
 
 Visible to Friends: Your information is viewable only to Nexopia members who you have indicated are your friends. Your information is not visible to Nexopia members unknown to you, outside visitors or external search engines. Nexopia’s internal search engine will only display your information if the person using the search engine is logged in and is your friend. 
 
-Not Visible: Your information is not viewable by anyone other than yourself. 
+Not Visible: Your information is not viewable by anyone other than yourself. However, when you set your User Profile and Summary Profile settings to “Not Visible” your Summary Profile will still appear in the Friends List of users you have already be-friended. If you would like to be removed from their Friends List, please delete the friend (either through your own Friends List or on your friend’s profile page). 
 
 Hidden from Ignored Users: Your information will be hidden from users you have indicated as ignored. 
 
-For more information, please visit the Privacy Settings category of the Help section.
+For more information, please visit the Privacy Settings category of the Help section.Note: Your User Profile represents your Nexopia profile as a whole. Your Summary Profile is a small extract of your larger User Profile. Please alter your privacy settings accordingly. For example, setting your Summary Profile to “not visible” will have no effect unless your User Profile has the same setting. However, you may wish to have your Summary Profile more visible while only sharing more private details found within your User Profile with friends. In this case, you may set your User Profile to “visible to friends” while your Summary Profile is set to “visible to all”. For more information, please visit the Privacy Settings category of the Help section or contact privacy@nexopia.com.
 
 **Information You Provide to Nexopia.com**
 
-**Profile Information** : When opening an account, Nexopia.com collects identifiable information submitted by you, including but not limited to: username, location, age, gender and tagline (“Summary Profile Information”). In addition, to help members find and communicate with each other, you may voluntarily submit and post additional profile data, including but not limited to the following: weight, height, sexuality (i.e. sexual orientation), dating and living situation and information regarding your interests through the “Profile” tab (“User Profile Information”). In addition, you have the ability to post photographs. 
+**Profile Information:** When opening an account, Nexopia.com collects identifiable information submitted by you, including but not limited to: username, location, age, gender, profile picture and tagline (“Summary Profile Information”). In addition, to help members find and communicate with each other, you may voluntarily submit and post additional profile data, including but not limited to the following: weight, height, sexuality (i.e. sexual orientation), dating and living situation and information regarding your interests through the “Profile” tab (“User Profile Information”). In addition, you have the ability to post photo galleries. 
 
-In order to encourage social interaction through Nexopia.com and encourage the growth of the Nexopia community, certain user information is by default made available to both registered Nexopia members and the general public. The default privacy setting for your Summary Profile is “Visible to All” while the default setting for your User Profile is “Visible to Friends.” The default privacy setting for all user activities (ie. blog posts) is “Visible to Friends”. You can make your personal information more or less visible to others by adjusting your privacy settings in your Preferences. Details on how to control your privacy settings can be found in the Help section.
+The default privacy settings for both your Summary Profile and User Profile is “Visible to Friends”. The default privacy setting for all user activities (ie. blog posts) is “Visible to Friends”. When you upload new photo galleries you have the option to choose the privacy setting for that gallery before you click save. You can make your personal information more or less visible to others by adjusting your privacy settings in your Preferences. Details on how to control your privacy settings can be found in the Help section.
 
-**Postings and Blogs:** Nexopia members can post personal information on blogs, forums and classifieds on Nexopia.com. Except as described in this Privacy Policy, unless you choose different options, all of your Summary Profile Information and photos will be available to Nexopia.com registered users and the general public. Any information posted to other users’ blogs, forums and classifieds may be accessible to the general public and not just registered Nexopia.com members. All posting and sharing is done at your own risk. You can make your personal information more or less visible to others through your Preferences. 
+**Profile Pictures and Photo Galleries:** Nexopia users have the option to upload profile pictures as well as create photo galleries. Profile pictures fall under the user’s Summary Profile Information. Visibility of these photos are controlled by the privacy settings chosen for the user’s Summary Profile. When a user creates a new photo gallery, they are given the opportunity to choose the privacy setting for that individual gallery. A user may choose different settings for various galleries. A photo gallery’s privacy settings can be changed at any time by editing the gallery. 
+
+**Postings and Blogs:** Nexopia members can post personal information on blogs, forums and classifieds on Nexopia.com. Any information posted to other users’ blogs, forums and classifieds may be accessible to the general public and not just registered Nexopia.com members. All posting and sharing is done at your own risk. 
 
 If you submit details in your Profile for MSN Messenger, AOL Instant Messenger (AIM) or ICQ, these are accessible by registered members on your friends list.
 
-Members can communicate through the Nexopia.com service without revealing their email addresses. To facilitate searching for and finding friends on the service, Nexopia.com allows members to search by name, age, gender, location, school, interests, sexuality and to limit searches only to members with pictures.
+To facilitate searching for and finding friends on the service, Nexopia.com allows registered members and non-logged in users to search by name, age, gender, location, school, interests and sexuality and to limit searches only to members with pictures.
 
-In addition, Nexopia.com allows searches by real names, usernames, and email addresses of members. The default will be that your username and email address are searchable; however, you may disable this option through your Preferences. If you allow your username and/or email address to be searchable, the user performing the search will be able to access your profile.
+In addition, Nexopia.com allows searches by real names, usernames, and email addresses of members. The default will be that your username and email address are searchable; however, you may disable this option through your Preferences. If you do not want to appear in search results of users who are not your friends, you may alter the privacy settings through your Preferences. 
 
 **Controlling Access to Your Personal Information**  
 
@@ -140,23 +142,25 @@ To inform other users of your sexual orientation
 
 To identify advertisements, goods and services that may be of interest to you  
   
-From time to time, Nexopia may hold a promotion, sweepstake or contest on Nexopia.com. Members may be asked to provide personal information such as name, email address or home address or to answer questions in order to participate. If you participate, Nexopia.com may collect and use personal information to administer the promotion, sweepstake or contest. What information is being collected and how it may be used or disclosed (and to whom) will be made evident at the time of collection through the relevant promotion, sweepstake or contest rules.
+From time to time, Nexopia may hold a promotion, sweepstake or contest on Nexopia.com. Members may be asked to provide personal information such as name, email address or home address or to answer questions in order to participate. The personal information collected is only used to contact a winner. Additionally, users may have the option to opt-in to receiving Nexopia’s newsletter or offers from third parties. If a user opts into a third-party offer, only a user’s name and email address will be shared. For all promotions, sweepstakes and contests, a specific Rules and Regulations document will be provided to the user at the time of entry. 
 
-Nexopia.com also logs non-personally-identifiable information of members and visitors to the site, including IP address, aggregate user data, and browser type. This information helps us manage the website, track usage and improve the website services. Nexopia.com also records user IP addresses for the purposes of security and monitoring.
+Nexopia.com also logs IP addresses and non-personally-identifiable information of members and visitors to the site, including aggregate user data and browser type. This information helps us manage the website, track usage and improve the website services. Nexopia.com also records user IP addresses for the purposes of security and monitoring.
 
 While we do not generally, or undertake any obligation to do so, we may monitor content and forums if we suspect members of being under the age of 13 or using our services in violation of our Terms of Use or Privacy Policy. Postings that appear on the public area of the site may be edited, deleted or removed in accordance with our Terms of Use.
 
 **Cookies  **
 
-Virtually all websites place cookies in your browser when you visit them. These cookies are used for two purposes: tracking website views and clicks (analytics cookies), and tracking views and clicks on advertisements (advertising cookies). If you’ve ever returned to a website and it “remembered” you, it’s because there was a cookie in your browser telling the site that you’d returned. Cookies can be either “session” cookies, which expire when you leave a site, or “persistent” cookies, which last after you leave a site, typically for about 30 days. For analytics and advertising purposes, most cookies are persistent. As a rule, cookies are “anonymous” regarding your personal information. They only identify browsers uniquely, not the people using the browser. Nexopia.com uses analytics cookies from programs such as Google Analytics.
+Virtually all websites place cookies in your browser when you visit them. These cookies are used for two purposes: tracking website activity and serving online advertising. If you’ve ever returned to a website and it “remembered” you, it’s because there was a cookie in your browser telling the site that you’d returned. Cookies can be either “session” cookies, which expire when you leave a site, or “persistent” cookies, which last after you leave a site, typically for about 30 days. For analytics and advertising purposes, most cookies are persistent. Nexopia.com uses analytics cookies from programs such as Google Analytics to record aggregate statistics about visits to Nexopia.com. As a rule, cookies are pseudonymous, which means the information stored is not connected to any identifier that personally identifies a given user. They only identify browsers uniquely, not the people using the browser. 
 
 **Advertising Cookies**
 
-Virtually all advertising-supported sites use cookies to make sure that the same ad doesn’t appear too often to the same visitor. Some of these cookies also track user behaviour across different sites in order to serve ads that seem most relevant to the user’s online behaviour, in a practice called behavioural targeting. Recently Google Adsense introduced such a program, and as a required part of the Adsense program, Nexopia.com uses these behavioural cookies.
+Virtually all advertising-supported sites use cookies to make sure that the same ad doesn’t appear too often to the same visitor. Some of these cookies also track user behaviour across different sites in order to serve ads that seem most relevant to the user’s online behaviour, in a practice called behavioural targeting. Nexopia.com uses advertising cookies to: record and limit the frequency of each advertisement to a given user; pseudonymously track conversion actions resulting from viewing or clicking an advertisement; and determine which behaviourally targeted ads to display.
 
 **Refusing or Removing Cookies**
 
-All cookies can be refused by adjusting the appropriate settings in your browser; however, not accepting any cookies at all can make web browsing a frustrating experience. You can also delete cookies periodically or at the end of each browsing session by adjusting the appropriate settings in your browser, however some sites may not “recognize” you when you return. Users can learn more about Google and cookies, as well as opting out of Google’s behavioural program by going to: http://www.google.com/privacy_ads.html. 
+All cookies can be refused by adjusting the appropriate settings in your browser; however, not accepting any cookies at all can make web browsing a frustrating experience. You can also delete cookies periodically or at the end of each browsing session by adjusting the appropriate settings in your browser, however some sites may not “recognize” you when you return. Users can learn more about Google and cookies, as well as opting out of Google’s behavioural program by clicking [here](http://www.google.com/policies/technologies/ads/) and [here](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options). 
+
+To opt-out of cookies placed by Network Advertising Initiative member companies, please visit the Network Advertising Initiative's (NAI) opt-out page [here](http://www.networkadvertising.org/choices/). The NAI represents the majority of advertising technology companies that make use of cookies.
 
 **Advertising and Targeted Advertising**
 
@@ -166,7 +170,7 @@ Targeted advertising refers to ads that are sent to specific users based on cert
 
 Aggregated information may be shared with third parties to provide more relevant services and advertisements to members. For example, we may tell an advertiser that X number of individuals visited a certain area on our website or that Y number of men or Z number of women filled out our registration form. Nexopia.com does not send your personal information to advertisers in order to serve targeted ads. 
 
-Users who have purchased the Plus service have the choice to receive fewer ads by selecting the “show fewer ads” option in their account Preferences. 
+Users who have purchased the Plus service have the choice to receive fewer ads than users who access the site for free. To activate this option, users can select the “show fewer ads” option in their account Preferences. With the exception of content sponsorships (advertorials) and contests, users who select this option will not receive any banner ads, including third-party advertisements. 
 
 **Disclosure of Personal Information  **
 
@@ -174,15 +178,15 @@ We may share some or all of your personal information with any parent company, a
 
 If Nexopia goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of Nexopia or its assets may continue to use your personal information as set forth in this Privacy Policy.
 
-We will fully cooperate with any request to release information to any law enforcement agency when a proper request is received. We may also take steps to protect the health and well-being of members, visitors and other parties if we have reason to believe that any of these persons are in danger. Nexopia expressly reserves the right, and in some jurisdictions may be legally required, to report certain materials, such as, but not limited to, child pornography or terror plans, that we may become aware of in the course of providing the services to the authorities in charge.
+We may access and share a user’s information in response to a legal request (such as a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of Canada where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, our users and others, including as part of investigations; and to prevent death or imminent bodily harm.
 
 Some personal information may be stored or processed by third parties, including contractors, business partners and affiliates located in the United States. Therefore, your information may be processed and stored in the United States, and may not be subject to the same privacy rules as in Canada. As a result, the governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States.
 
 Except as otherwise described in this Privacy Policy, Nexopia.com will not disclose personal information to any third party unless we believe that disclosure is necessary for one of the following reasons: (1) as required by law, including to respond to a subpoena, search warrant or other legal process received by Nexopia.com; (2) to enforce the Nexopia.com Terms of Use or to protect our rights; or (3) to protect the safety of the public and members of Nexopia.com and visitors to the service.
 
-**Credit Card Transactions**
+**Payment Broker - Playerize**
 
-Nexopia will not disclose personal information about payment and member profile data to our third party credit card process provider for billing and payment purposes; a unique identifier is created that cannot be linked back to the user’s Nexopia.com user ID number. However, we may disclose personal information about payment and member profile data to our third party credit card process provider where there is suspicious credit card use or a dispute concerning a charge. We may also contact financial institutions directly to verify credit card information provided. In doing so, we may share the personal information we received from you about you and your credit card.
+Nexopia uses the payment broker Playerize (formerly SuperRewards) to process all payments made on the website (including for the Plus service and for username changes). Nexopia will not disclose personal information about payment and member profile data to Playerize for billing and payment purposes; a unique identifier is created that cannot be linked back to the user’s Nexopia.com user ID number. However, we may disclose personal information about payment and member profile data to Playerize where there is suspicious credit card use or a dispute concerning a charge. We may also contact financial institutions directly to verify credit card information provided. In doing so, we may share the personal information we received from you about you and your credit card.
 
 We sometimes receive calls from and/or attempt to call parents or guardians about a minor’s use of a credit card belonging to someone other than the member. Where a credit card belonging to a person other than the member has been submitted, we will first attempt to verify the identity of the caller as being the credit card holder and, if this is verified, we may release the name of the member who submitted the credit card information to us. It is important that you have the full consent of the credit card holder before submitting their card number to us to pay for services. We reserve the right to cancel your account at any time and prohibit your future use of the Nexopia.com site if you attempt to use a credit card without prior authorization.
 
@@ -218,7 +222,7 @@ For any additional information about the security measures we use on Nexopia.com
 
 A Nexopia.com member may request that Nexopia delete their profile and all personal information in Nexopia's system and records. All profile information will promptly be made invisible to all users and will be permanently deleted after 30 days. However, where profile information has been copied to other servers and systems by third parties, Nexopia.com will not be able to delete that information. Note that personal information posted on blogs, forums and classifieds is not deleted when a Nexopia.com member asks for their profile to be deleted, although individual posts may be able to be deleted by the member prior to the deletion of their account. 
 
-Members also have the option to temporarily hide their account, should they want to access it again in the future. When a member chooses to hide their account, all profile information will be hidden but will remain stored in Nexopia’s system and records. If a member wants their information erased, they may request that Nexopia permanently delete their profile.
+Members also have the option to temporarily hide their account, should they want to access it again in the future. When a member chooses to hide their account, all profile information will be hidden but will remain stored in Nexopia’s system and records. If a member wants their information erased, they may request that Nexopia permanently delete their profile. Note: When you hide your account, your Summary Profile will still appear in the Friends List of users you have already be-friended. If you would like to be removed from their Friends List, please delete the friend (either through your own Friends List or on your friend’s profile page). 
 
 Nexopia.com may freeze, ban or delete a member profile for any or no reason. A profile freeze restricts the member from accessing their account for a set amount of time (to be determined by Nexopia) while a ban may limit a member’s activity on a particular part of the site (ie. one or more forums). If a member’s profile is deleted, profile information will be deleted as per the standard set above.
 
@@ -253,3 +257,9 @@ To guard against fraudulent requests for access or revision of personal informat
 **How to Contact Us  **
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact our privacy officer at [privacy@nexopia.com](mailto:privacy@nexopia.com).
+
+Your privacy is important to us. This Privacy Policy explains our personal information practices and the choices you can make about the way your information is collected, used and disclosed.
+
+Maintaining the privacy of minors is critical to Nexopia.com. We will refuse to open an account for a person under the age of 13. If you are under 13, please do not attempt to register for Nexopia.com or send any information to us. If we learn that information from a child under the age of 13 has been submitted to us, we will delete the account and information as soon as possible.
+
+For persons between the ages of 13 and 18, we require parental or guardian consent prior to opening an account and we reserve the right to verify the existence of that consent.
