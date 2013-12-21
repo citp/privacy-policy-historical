@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avaloncommunities.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203641id_/http%3A//www.avaloncommunities.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avaloncommunities.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221202905id_/http%3A//www.avaloncommunities.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
