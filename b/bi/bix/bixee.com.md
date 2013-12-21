@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530142629id_/http%3A//bixee.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221062319id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Travel Services - bixee
+# Privacy Policy | Online Travel Services - Goibibo
 
 Privacy Policy
 
