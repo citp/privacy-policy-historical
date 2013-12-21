@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627111850id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221122053id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
 
 # GoMage - Privacy Policy
 
@@ -39,7 +39,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to sales@gomage.com.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -61,9 +61,10 @@ We are free to limit the availability of the website to a particular jurisdictio
 
 If you have any questions regarding this Privacy Policy, please contact us by email at sales@gomage.com, or please write to the following address:  
 EASYVEASY Sp. z o.o.,  
-Trzcinowa str. 23/4902-446,  
+Trzcinowa str. 23/49  
+02-446  
 Warsaw, Poland  
-+48 22 219 5064
++48 22 219-51-63
 
 ## List of Cookies We Collect
 
@@ -97,4 +98,4 @@ VIEWED_PRODUCT_IDS | The products that you have recently viewed.
 WISHLIST | An encrypted list of products added to your Wishlist.  
 WISHLIST_CNT | The number of items in your Wishlist.  
   
-### Last updated on December 28st, 2012.
+### Last updated on December 10st, 2013.
