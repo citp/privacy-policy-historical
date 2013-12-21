@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videomasti.net privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623010201id_/http%3A//videomasti.net/%3Fpage_id%3D17085) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomasti.net privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221123946id_/http%3A//videomasti.net/%3Fpage_id%3D17085) for the most accurate reproduction.*
 
 # Privacy Policy | Video Masti
 
@@ -18,15 +18,13 @@ We at [www.videomasti.net](http://www.videomasti.net/), respect the privacy conc
 
 Some information is collected on this site automatically through our technology; other information is collected only when users choose to give it to us.
 
-## Infromation Provided by Users:  
-
+## Infromation Provided by Users:
 
 Communications with Us – We have features where users can submit information to us. They can contact us with a question or problem at our email address or they can post comments to the posts on the website. In both the cases we ask for email address. We will retain those emails and other information you submit to us only for our internal purposes, and to help us serve you better. ****
 
-## Automatic Data Collection:  
+## Automatic Data Collection:
 
-
-When users visit this site, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as, type of browser being used, Operating System being used, IP address will be gathered in order to facilitate our online operations and to assure an efficient online experience for our users. We may also use or share this information for security purposes, to generate group statistics about our user community, or as required by law. 
+When users visit this site, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as, type of browser being used, Operating System being used, IP address will be gathered in order to facilitate our online operations and to assure an efficient online experience for our users. We may also use or share this information for security purposes, to generate group statistics about our user community, or as required by law.
 
 ## What about Cookies?
 
@@ -48,7 +46,6 @@ We display links to other sites within the site. We are not responsible for the 
 
 We reserve the right to modify or otherwise update this Privacy Policy at any time, so we encourage our users to review this Privacy Policy from time to time. When we make changes which we consider material in our privacy practices, we will notify our users in this space.
 
-## Questions  
-
+## Questions
 
 For any questions related to this Privacy Policy, please contact us at videomasti@gmail.com.
