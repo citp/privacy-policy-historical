@@ -1,19 +1,92 @@
-<!--The following is the downloaded HTML source of the postallads4free.com privacy policy that was archived on 2013-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505213342id_/http%3A//www.postallads4free.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the postallads4free.com privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221214430id_/http%3A//www.postallads4free.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en">
 <link rel="stylesheet" href="/styles/styles_general.css" type="text/css">
-<meta name="google-site-verification" content="sPBaYK5ghlh0vHAvdQdZdA-sSSMXaJ_Gr4q2Wdy3Fig"><title>Privacy Policy</title></head>
+<meta name="google-site-verification" content="sPBaYK5ghlh0vHAvdQdZdA-sSSMXaJ_Gr4q2Wdy3Fig"><title>Privacy Policy</title><meta name="og:image" content="http://www.postallads4free.com/images/lgbg.jpg">
+<link rel="image_src" href="http://www.postallads4free.com/images/lgbg.jpg">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=609136439151390"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+  (function() {
+	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	po.src = 'https://apis.google.com/js/plusone.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+</head>
 <body>
-<div id="tpage">
+<div id="fb-root"></div><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script><script>
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = '//connect.facebook.net/en_US/all.js#xfbml=1&appId=609136439151390';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+ window.fbAsyncInit = function() {
+
+ 
+  FB.init({
+    appId      : '609136439151390',
+    status     : true, // check login status
+    cookie     : true, // enable cookies to allow the server to access the session
+    xfbml      : true,  // parse XFBML
+	channelUrl: 'http://www.postallads4free.com/channel.html'
+  });
+  };
+
+
+
+function login() {
+  			FB.login(function(response) {          
+			if(response.status == 'connected'){	
+				$('.facebooklogin').hide();
+				$('.loadingt').show();
+				FB.api('/me', function(response) {
+			   	email_v = response.email;
+				startajax(); 
+				});
+           }
+			},{scope: 'email'});
+}
+  
+function startajax(){
+  $.ajax({
+url:'index/fblogin',cache: false,async: true,			
+data:{	email:email_v },
+success: function(result){
+	if(result.redirect == '1' ){
+		window.location = result.redirect_url;
+	}
+},
+error: function (result) {
+alert('Login error');
+},
+type: 'POST',
+dataType: 'json'
+});
+}
+</script><div id="tpage">
 	<div id="container">
-	<a id="log" href="/"><!--<img width="246" height="45" src="/images/log.jpg" alt="PostAllAds4Free.com" >--></a>
+	<a id="log" href="/"><!--<img width="246" height="45" src="/images/log.jpg" alt="PostAllAds4Free.com" >--></a>		
+	<div style="margin:0;float:left;width:90px;"><div style="margin:5px 5px 0px 3px;float:left;width:90px;">
+						<div class="g-plusone" data-size="medium" data-href="http://www.postallads4free.com/"></div>
+						</div><div style="margin:  5px 5px 0px 3px  ;float:left"><a data-counturl="http://www.postallads4free.com" data-hashtags="classifieds" href="https://twitter.com/share" class="twitter-share-button" data-text="Free Classified Ads - Post Free Ads Online" data-url="http://www.postallads4free.com" data-via="PostAllAds4Free" data-lang="en">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div><div style="margin:33px 10px 2px 20px;float:left;" class="fb-like" data-href="http://www.postallads4free.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>	
 		<div id="tbar"> 
-		<a rel="nofollow" href="/login.html">Log in</a>
-		<a rel="nofollow" href="/help.html">Help</a>
-		<a href="/post.html" class="pstlnktpr">Post a Free Ad</a>		</div>
+		<div style="float:right"><a href="/post.html" class="pstlnktpr">Post a Free Ad</a></div><div style="float:right"><a style="font-size:15px;" rel="nofollow" href="/help.html">Help</a></div>
+	<div style="float:right"><a style="font-size:15px;" rel="nofollow" href="/login.html">Log in</a>
+		<br><a style="margin-right:8px" class="facebooklogin" href="#" onclick="login();"><img src="/images/fblog.png"></a>
+	<img class="loadingt" style="display:none;margin-right:22px" alt="" src="/images/loader.gif">
+	
+	
+		</div>
+
+				</div>
 	<div id="header">
 		</div>
 	<div id="sidebar">
@@ -33,18 +106,23 @@
 	</div>
 	<div id="endft">  
 	<a href="http://m.postallads4free.com/">Mobile</a>
-	<a href="/">Locations</a>
+	<a href="/">Locations</a>	
 	<a href="/terms_of_use.html" rel="nofollow">Terms of Use</a>
 	<a href="/privacy_policy.html" rel="nofollow">Privacy Policy</a>
+	<a href="/refund_policy.html" rel="nofollow">Refund Policy</a>
 	<a href="/help.html" rel="nofollow">Help</a>
-	<a href="/contact.html" rel="nofollow">Contact</a>	<a href="https://twitter.com/PostAllAds4Free" rel="nofollow" onclick="window.open(this.href);return false;">Twitter</a>
-	<a onclick="window.open(this.href);return false;" href="http://www.facebook.com/PostAllAds4Free" rel="nofollow">Facebook</a>
-	<a onclick="window.open(this.href);return false;" href="https://plus.google.com/118171873339995700355/posts" rel="nofollow">Google+</a>
+	<a href="/contact.html" rel="nofollow">Contact</a>	<a onclick="window.open(this.href);return false;" href="http://www.facebook.com/PostAllAds4Free" rel="nofollow">Facebook</a>
+	<a onclick="window.open(this.href);return false;" href="https://plus.google.com/+Postallads4free/posts" rel="nofollow">Google+</a>
 	
 	</div>
-	<div class="copy">Copyright © 2013 PostAllAds4Free.com. Post ads for free. Online advertising. Free classified ads online</div>
+	<div class="copy">Copyright © 2013 PostAllAds4Free.com. Post ads for free. Online advertising. Free classified ads online
+
+		
+	</div>
+
 </div>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-35384212-1']);
   _gaq.push(['_trackPageview']);
