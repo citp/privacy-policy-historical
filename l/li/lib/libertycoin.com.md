@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the libertycoin.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514191801id_/http%3A//www.libertycoin.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertycoin.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221142922id_/http%3A//www.libertycoin.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Liberty Coin | Terms: Privacy
 
 This privacy policy lets you know what information we collect, how we may share that information, and your choices regarding the sharing of your information.
 
@@ -45,7 +45,7 @@ HOW TO CONTACT US
 **Phone:** 1-800-400-0824
 
 **Regular mail:**  
-Liberty Coion, LLC  
+Liberty Coin, LLC  
 Attn: Customer Care/Privacy  
 2201 E. Willow Street, Suite AA  
 Signal Hill, CA 90755
