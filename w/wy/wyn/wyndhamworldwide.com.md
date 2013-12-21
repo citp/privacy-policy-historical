@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622064135id_/http%3A//www.wyndhamworldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamworldwide.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221014825id_/http%3A//www.wyndhamworldwide.com/privacy-policy) for the most accurate reproduction.*
 
 # Wyndham Worldwide: Web Site Privacy Policy
 
