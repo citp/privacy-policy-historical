@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vieodesign.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621205627id_/http%3A//www.vieodesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vieodesign.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221014431id_/http%3A//www.vieodesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Award-winning Website Design and Internet Marketing by Knoxville's VIEO Design
+# Privacy Policy - VIEO Design: Inbound Marketing and Website Design
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.vieodesign.com%2Fprivacy-policy%2F&media=)
 
 #### Effective Date 2011
 
