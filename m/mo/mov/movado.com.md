@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movado.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517051213id_/http%3A//www.movado.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movado.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221191553id_/http%3A//www.movado.com/privacy-policy) for the most accurate reproduction.*
 
 # Movado | Privacy Policy
 
-Last modified: 10/04/2012
+Last modified: 09/05/2013
 
   
 
@@ -15,7 +15,7 @@ This policy (together with our terms of use and any other documents referred to 
 
 This policy does not apply to information we collect through any other means, or to information collected on any other Company, affiliate or any third-party site or by any third-party application that may link to or be accessible from the Website.
 
-We are a participant in the U.S.-EU safe harbour program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the EU. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce website at  www.export.gov/safeharbor.
+We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Company’s certification, please visit http://www.export.gov/safeharbor/.
 
 Please read the following carefully to understand our policies and practices regarding your personal information and how we will treat it. By using or accessing our Website, you agree to this privacy policy. This policy may change from time to time (see _Changes to our Privacy Policy_ ) and your continued use of the Website is deemed to be acceptance of such changes, so please check the policy periodically for updates.
 
@@ -196,7 +196,7 @@ Movado Group, Inc. (MGI) respects individual privacy and values the confidence o
 
 ## SAFE HARBOR
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under EU law that adequate protection be given to personal information transferred from the EEA to the United States (U.S.-EU Safe Harbor). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection. The United States Department of Commerce and the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland have agreed on a similar set of principles and frequently asked questions to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States (U.S.-Swiss Safe Harbor). Consistent with its commitment to protect personal privacy, MGI adheres to the principles set forth in the U.S.-EU Safe Harbor and the U.S.-Swiss Safe Harbor (Safe Harbor Principles).
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under EU law that adequate protection be given to personal information transferred from the EEA to the United States (U.S.- EU Safe Harbor). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection. The United States Department of Commerce and the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland have agreed on a similar set of principles and frequently asked questions to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States (U.S.-Swiss Safe Harbor). Consistent with its commitment to protect personal privacy, MGI adheres to the principles set forth in the U.S.-EU Safe Harbor and the U.S.-Swiss Safe Harbor (Safe Harbor Principles).
 
   
 
@@ -294,7 +294,7 @@ This Policy may be amended from time to time, consistent with the requirements o
 
 ## TERMS AND CONDITIONS OF USE
 
-Last modified: 10/04/2012
+Last modified: 09/05/2013
 
 Your access and use of the website is subject to the following terms and conditions ("Terms and Conditions") and all applicable laws. By accessing and browsing the website, you accept, without limitation or qualification, the Terms and Conditions below.
 
@@ -343,7 +343,7 @@ Movado Group, Inc. assumes no responsibility, and shall not be liable for, any d
 
 The website refers to products and/or services that are generally available for purchase in the United States and certain other countries but may not be available in your particular country or locality. The reference to any such products or services in this website does not imply or warrant that these products or services will be available at any time in your particular locality. You should therefore check with your local Movado Group, Inc. authorized retailer for specific product/service availability in your locality. 
 
-We do not warrant that the descriptions or other content of this site are accurate, complete, reliable, current or error-free. Features and specifications of products described or depicted on the website are subject to change at any time without notice.
+We do not warrant that the descriptions or other content of this site are accurate, complete, reliable, current or error- free. Features and specifications of products described or depicted on the website are subject to change at any time without notice.
 
   
 
