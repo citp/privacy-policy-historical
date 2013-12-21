@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429175511id_/http%3A//www.wipro.com/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221120205id_/http%3A//www.wipro.com/landing-pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,4 +94,4 @@ E-mail: [ombuds.person@wipro.com](mailto:ombuds.person@wipro.com)
 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent. We will post any Policy changes on this page. We will also keep prior versions of this Policy in an archive for your review.
 
-​​​
+​​
