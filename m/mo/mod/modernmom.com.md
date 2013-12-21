@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modernmom.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628112327id_/http%3A//www.modernmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernmom.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221062259id_/http%3A//www.modernmom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ModernMom.com
+# ModernMom Privacy Policy
 
 **Privacy Policy**
 
@@ -70,7 +70,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **How to Contact Us**
 
-To keep your personally identifiable information accurate, current, and complete, please contact us as follows:
+To keep your personally identifiable information accurate, current, and complete, please contact us as follows:
 
-[Mom, Inc.](https://web.archive.org/) P.O. Box 1239 Pacific Palisades, CA 90272-1239 United States
+[Mom, Inc.](http://www.modernmom.com/) P.O. Box 1239 Pacific Palisades, CA 90272-1239 United States
   *[CA]: California
