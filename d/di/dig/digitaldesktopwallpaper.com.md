@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digitaldesktopwallpaper.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327054750id_/http%3A//www.digitaldesktopwallpaper.com/site_info/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldesktopwallpaper.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221033418id_/http%3A//www.digitaldesktopwallpaper.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# digitaldesktopwallpaper.com - Privacy Policy
+# Digital Desktop Wallpaper - Privacy Policy
+
+## Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -126,5 +128,3 @@ If you have any questions about this privacy policy or our treatment of your per
 Digital Internet Limited is registered in England and Wales, Company No. 06180687
 
 This website privacy policy is based on a template created by [Website-contracts.co.uk](http://www.website-contracts.co.uk/) and distributed by [Website-law.co.uk](http://www.website-law.co.uk/)
-
-#### Privacy Policy 
