@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bathselect.com privacy policy that was archived on 2013-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130626002619id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bathselect.com privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221111633id_/http%3A//www.bathselect.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -16,6 +16,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//paypal.adtag.where.com/merchant.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -31,8 +32,31 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.35.0.98"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -95,7 +119,7 @@ function mClk1(src, popup)
 	<a href="http://www.bathselect.com/Hands-free-automatic-electronic-sensor-lavatory-faucets-s/46.htm" title="Hands free automatic electronic sensor lavatory faucets">Hands Free Sensor Faucets</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.bathselect.com/shower-sets-s/60.htm" title="shower sets">Designer Shower Sets</a>
+	<a href="http://www.bathselect.com/shower-sets-choose-from-many-functions-and-styles-s/60.htm" title="shower sets choose from many functions and styles">Designer Shower Sets</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.bathselect.com/Massage-Shower-Panels-s/4.htm" title="Massage Shower Panels">Massage Shower Panels</a>
@@ -148,7 +172,7 @@ function mClk1(src, popup)
 	<div id="leftnav">        
 
         <!-- #################### CHOOSE LIST ITEM OR TREE EXPAND OR ROLLOVER COLORS POPOUT #################### -->    
-        <h3 style="color:#ffffff; background-color:;">BathSelect</h3>    
+        <h3 style="color:#ffffff; background-color:;">Bath Select</h3>    
         <div id="display_menu_2" class="menu">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
@@ -161,16 +185,13 @@ function mClk2(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="/dealoftheday.asp" title="">Deal of the Day</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.bathselect.com/Low-Price-Guarantee-s/62.htm" title="Low Price Guarantee">Low Price Guarantee!</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="/Register.asp" title="">Register</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.bathselect.com/BathSelect-com-consumer-warranty-s/37.htm" title="BathSelect.com consumer warranty">Our Policies</a>
+	<a href="http://www.bathselect.com/Our-policy-shipping-consumer-warranty-s/37.htm" title="Our policy, shipping &amp; consumer warranty">Our Policies</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.bathselect.com/Return-Policy-s/76.htm" title="Return Policy">Return Policy</a>
@@ -182,17 +203,20 @@ function mClk2(src, popup)
 	<a href="http://www.bathselect.com/Frequently-Asked-Questions-FAQ-s/25.htm" title="Frequently Asked Questions- FAQ">FAQ Question</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.bathselect.com/International-Shipping-s/92.htm" title="International Shipping">International Shipping</a>
+	<a href="http://www.bathselect.com/Canadian-Customer-Shipping-s/107.htm" title="Canadian Customer Shipping">Canadian Customers</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.bathselect.com/Distributor-s/23.htm" title="Distributor">Bulk Orders/Distributor</a>
+	<a href="http://www.bathselect.com/International-Shipping-Canada-Worldwide-s/92.htm" title="International Shipping Canada &amp; Worldwide">International Shipping</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.bathselect.com/Distributors-Contractors-s/23.htm" title="Distributors/Contractors">Bulk Orders</a>
 </li>
 </ul>
 </div>       
 
         <!-- #################### CHOOSE LIST ITEM OR TREE EXPAND OR ROLLOVER COLORS POPOUT #################### -->       
  	 <!--
-        <h3 style="color:#ff9900; background-color:;">Nav Menu 3</h3>
+        <h3 style="color:#ff9900; background-color:;">Editorials</h3>
         <div id="display_menu_3" class="menu">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
@@ -205,37 +229,148 @@ function mClk3(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.bathselect.com/Bathroom-remodeling-Bathroom-Design-s/33.htm" title="Bathroom remodeling, Bathroom Design">Bathroom Design Editorial</a>
+	<a href="http://www.bathselect.com/ADA-Commercial-Faucets-and-ADA-Sensor-Faucets-s/109.htm" title="ADA Commercial Faucets and ADA Sensor Faucets">ADA Commercial Sensor Faucets</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.bathselect.com/massage-shower-panel-bathroom-remodeling-s/34.htm" title="massage shower panel, bathroom remodeling">Bathroom Fixtures & Accessories Selection Process</a>
+	<a href="http://www.bathselect.com/Bathroom-remodeling-Bathroom-Design-s/33.htm" title="Bathroom remodeling, Bathroom Design">Bathroom Design Ideas</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.bathselect.com/Bathroom-remodeling-Bathroom-Design-s/26.htm" title="Bathroom remodeling, Bathroom Design.">Shower Panel Editorial</a>
+	<a href="http://www.bathselect.com/Bathroom-Fixtures-s/120.htm" title="Bathroom Fixtures">Bathroom Fixtures & Accessories the Selection Process and Installations</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.bathselect.com/Bathroom-remodeling-Bathroom-Design-s/84.htm" title="Bathroom remodeling, Bathroom Design.">Shower Panel Editorial Dated Spet 20/2012</a>
+	<a href="http://www.bathselect.com/Brushed-Chrome-vs-Brushed-Nickel-s/108.htm" title="Brushed Chrome vs Brushed Nickel">Bathroom Fixtures Brushed Chrome or Brushed Nickel</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.bathselect.com/Bathroom-remodeling-Bathroom-Design-s/27.htm" title="Bathroom remodeling, Bathroom Design">Shower Unit Editorial</a>
+	<a href="http://www.bathselect.com/Brushed-Nickel-Faucets-s/138.htm" title="Brushed Nickel Faucets">Brushed Nickel Faucets</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.bathselect.com/shower-enclosure-sauna-steam-showersshower-massage-panels-s/28.htm" title="shower enclosure, sauna steam showersshower massage panels">Steam Shower Editorial</a>
+	<a href="http://www.bathselect.com/Oil-rubbed-sensor-faucets-s/113.htm" title="Oil rubbed sensor faucets">Chrome, Satin Nickle or Oil Rubbed Bronze Sensor Faucets</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.bathselect.com/Bathroom-remodeling-shower-massage-panels-steam-showers-s/32.htm" title="Bathroom remodeling, shower massage panels, steam showers.">Steam Shower Editorial</a>
+	<a href="http://www.bathselect.com/commercial-sensor-faucets-s/123.htm" title="commercial sensor faucets">Commercial Sensor Faucets</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.bathselect.com/Bathroom-remodeling-shower-massage-panels-shower-enclosure-s/30.htm" title="Bathroom remodeling,shower massage panels shower enclosure.">Tempered glass editorial</a>
+	<a href="http://www.bathselect.com/Commercial-Sensor-Faucets-s/118.htm" title="Commercial Sensor Faucets">Commercial Sensor Faucets functional & durable</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Designing-a-Custom-Shower-s/114.htm" title="Designing a Custom Shower">Designing a Custom Shower</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Faucet-Finishes-Reviews-s/137.htm" title="Faucet Finishes Reviews">Faucet Finishes Reviews of the different styles</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Faucet-Valves-different-types-explained-s/112.htm" title="Faucet Valves different types explained">Faucets & Valves</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/motion-sensor-faucets-s/153.htm" title="motion sensor faucets">Finding the right Sensor Faucet</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Not-all-faucet-types-work-with-every-sink-basin-s/136.htm" title="Not all faucet types work with every sink basin">Finish Care Faucets the different types</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/commercial-sensor-faucets-s/144.htm" title="commercial sensor faucets">How Infrared Motion Sensor Faucets Work</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Cleaning-oil-rubbed-bronze-Led-Showerhead-s/154.htm" title="Cleaning oil rubbed bronze Led Showerhead">How to Clean Oil rubbed bronze Led Shower head</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/ADA-Commercial-Faucets-and-ADA-Sensor-Faucets-s/117.htm" title="ADA Commercial Faucets and ADA Sensor Faucets">How to Install a New Bathroom Faucet</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Jetted-Showers-s/140.htm" title="Jetted Showers">Jetted Showers more shower heads and body showers</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Led-Shower-Head-s/139.htm" title="Led Shower Head">Led Shower Head beauty styles and functionality</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Oil-rubbed-bronze-showerhead-s/151.htm" title="Oil rubbed bronze showerhead">Led Shower Head Warranty</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/commercial-sensor-faucets-s/141.htm" title="commercial sensor faucets">Motion Sensor Faucets</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Installing-oil-rubbed-bronze-Led-Showerhead-s/147.htm" title="Installing oil rubbed bronze Led Showerhead">Oil rubbed bronze Led Showerhead Installation</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Oil-rubbed-sensor-faucets-s/150.htm" title="Oil rubbed sensor faucets">Oil Rubbed Bronze Sensor Faucets</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Oil-rubbed-bronze-showerhead-s/148.htm" title="Oil rubbed bronze showerhead">Oil rubbed bronze shower head</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Oil-rubbed-bronze-shower-panels-s/124.htm" title="Oil rubbed bronze shower panels">Oil Rubbed Bronze Shower Panels</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Big-Sale-on-All-Bathroom-Faucets-s/146.htm" title="Big Sale on All Bathroom Faucets">Sale Bathroom Faucets, Commercial Sensor Faucets, Sink Faucet Sale, Led Shower Head</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Led-Shower-Head-Multicolor-System-s/143.htm" title="Led Shower Head Multicolor System">Select the Led Multicolor Showerhead light and Save</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Shower-panel-Canada-Shipping-s/135.htm" title="Shower panel Canada Shipping">Sensor Faucets Canada Fast Shipping</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/shower-massage-panel-with-rain-shower-head-s/126.htm" title="shower massage panel with rain shower head">Shower Massage Panel with Rain Showerhead</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Shower-panel-Canada-Shipping-s/134.htm" title="Shower panel Canada Shipping">Shower Panel Canada Shipping</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Shower-panel-system-reviews-s/133.htm" title="Shower panel system reviews">Shower Panel reviews, advantages and available selections</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Wall-mount-massage-Shower-Panel-System-s/84.htm" title="Wall mount massage Shower Panel System">Shower Panel Systems</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Shower-panel-system-s/132.htm" title="Shower panel system">Shower Panel Systems all accessories in one unit</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Bathroom-remodeling-Bathroom-Design-s/26.htm" title="Bathroom remodeling, Bathroom Design.">Shower Panel the beauty of design simplicity and functionality</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/shower-massage-panel-with-rain-shower-head-s/127.htm" title="shower massage panel with rain shower head">Shower Pulsating Massage Panel Reviews</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/The-new-shower-body-system-s/125.htm" title="The new shower body system">Shower Systems with Body Jets</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Shower-Towers-s/128.htm" title="Shower Towers">Shower Towers transform your bathroom into a spa</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Bathroom-remodeling-Bathroom-Design-s/27.htm" title="Bathroom remodeling, Bathroom Design">Shower Unit the State of the art Showers</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Bathroom-remodeling-shower-massage-panels-steam-showers-s/32.htm" title="Bathroom remodeling, shower massage panels, steam showers.">Showers and Bathroom Remodeling</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/ADA-Commercial-Faucets-and-ADA-Sensor-Faucets-s/119.htm" title="ADA Commercial Faucets and ADA Sensor Faucets">Simple Steps for Installing your new Bath shower set</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/shower-enclosure-sauna-steam-showersshower-massage-panels-s/28.htm" title="shower enclosure, sauna steam showersshower massage panels">Steam Shower the complete shower system</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Bathroom-remodeling-shower-massage-panels-shower-enclosure-s/30.htm" title="Bathroom remodeling,shower massage panels shower enclosure.">Tempered glass vanities</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/category-s/111.htm" title="">The Bath Fixtures Finishes</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Using-Shower-Enclosures-s/115.htm" title="Using Shower Enclosures">Using Shower Enclosures</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
 	<a href="http://www.bathselect.com/Warranty-shower-panel-bathroom-products-s/78.htm" title="Warranty shower panel, bathroom products">Warranty Bathroom Accessories</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/Widespread-Waterfall-Faucets-s/152.htm" title="Widespread Waterfall Faucets">Widespread Waterfall Bathroom Faucet</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
 	<a href="http://www.bathselect.com/Bathroom-Faucets-s/2.htm" title="Bathroom Faucets">Designer Bathroom Sink Faucets</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
 	<a href="http://www.bathselect.com/hand-held-showers-s/79.htm" title="hand held showers">Hand Held Showers</a>
+</li>
+<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
+	<a href="http://www.bathselect.com/hand-held-showers-s/142.htm" title="hand held showers">Niche Bathroom the main titels</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
 	<a href="http://www.bathselect.com/Custom-Showers-s/93.htm" title="Custom Showers">Shower Design</a>
@@ -246,7 +381,7 @@ function mClk3(src, popup)
         
         <!-- #################### NAV MENU PROMOTIONS -->            
         <div id="display_promotions_999"><object width="170" height="78"><param name="movie" value="http://cdn.onlinecountdowns.com/w/_008.swf"><param name="flashvars" value="eid=69159"><param name="wmode" value="transparent"><param name="allowScriptAccess" value="always"><embed src="http://cdn.onlinecountdowns.com/w/_008.swf" type="application/x-shockwave-flash" allowscriptaccess="always" width="170" height="78" flashvars="eid=69159" wmode="transparent"></object>
-<div align="left"><table style="border-collapse: collapse; width: 169px; background-color: rgb(247, 247, 247); background-image: url(http://www.bathselect.com/a/a/easyeditor/scripts/moz/undefined); border: 1px solid black; background-position: initial initial; background-repeat: initial initial;" align="" width=""><tbody><tr><td style="text-align: center; border: 1px solid black;"><img alt="" src="https://www.bathselect.com/v/vspfiles/assets/images/all-credit-cards-accepted.png" align="" border="0px" height="68" width="106"></td></tr><tr><td style="text-align: center; border: 1px solid black;"><br><a href="https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=AU826TU8&amp;content=/bmlweb/ppwpsiw.html" target="_blank" style="color: rgb(136, 136, 136);"><img alt="" src="http://www.fireplacedesignsale.com/v/vspfiles/assets/images/render.png" align="" border="0px" height="48" width="64"></a><br><br></td></tr><tr><td style="text-align: center; border: 1px solid black;"><a class="br-button" style="color: rgb(136, 136, 136); height: 37px; width: 112px; cursor: pointer; display: inline-block; box-sizing: border-box;"><img src="https://medals.bizrate.com/medals/dynamic/small/98270_medal.gif" usemap="#98270_medal" alt="See BathSelect.com Reviews at Bizrate.com" style="height: 37px; width: 112px; border: 0px; box-sizing: border-box;" border="0" height="37" width="112"><br></a><br><br></td></tr><tr><td style="text-align: center; border: 1px solid black;"><br><a target="_blank" href="http://www.bathselect.com/aboutus.asp" style="color: rgb(136, 136, 136);"><img alt="" src="https://www.bathselect.com/v/vspfiles/assets/images/bathselect21years.jpg" align="" border="0" height="72" width="47"></a><br></td></tr></tbody></table><table style="width: 169px; border-collapse: collapse; background-color: rgb(247, 247, 247); background-image: url(http://www.bathselect.com/a/a/easyeditor/scripts/moz/undefined); background-position: initial initial; background-repeat: initial initial;" align="" width=""><tbody><tr><td style="border: 1px solid rgb(0, 0, 0); letter-spacing: 0px; word-spacing: 0px;"><img src="http://www.bathselect.com/v/vspfiles/assets/images/ups-shipping-logo.jpg" alt="bathselect-shipping" style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); border: medium none ! important;" align="" border="0px" height="32" width="28"><img src="http://www.bathselect.com/v/vspfiles/assets/images/usps-shipping.jpg" alt="bathselect-shipping" style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); border: medium none ! important;" align="" border="0px" height="34" width="52"><img src="https://www.bathselect.com/v/vspfiles/assets/images/fedexlogo.jpg" alt="" align="" border="0px" width="44" style="text-align: center; background-color: rgb(255, 255, 255);"><img src="http://www.bathselect.com/v/vspfiles/assets/images/dhl-shipping.jpg" alt="DHL-bathselect-shipping" style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); border: medium none ! important;" align="" border="0px" height="34" width="41"></td></tr></tbody></table><table style="text-align: center; border-collapse: collapse; width: 169px; background-color: rgb(247, 247, 247); background-image: url(http://www.bathselect.com/a/a/easyeditor/scripts/moz/undefined); background-position: initial initial; background-repeat: initial initial;" align="" width=""><tbody><tr><td style="border:#000000 1px solid">&nbsp;&nbsp;<a href="http://www.nextag.com/BathSelect~1127599zzzreviewsz1zzzzzmainz17-htm" style="color: rgb(102, 102, 102);"><img src="http://www.nextag.com/seller/NextagLogo.jsp?seller=1127599" alt="Nextag Seller" border="0"></a></td></tr><tr><td style="border:#000000 1px solid"><br><span style="background-color: rgb(255, 255, 255);"></span><div><img src="https://www.bathselect.com/v/vspfiles/templates/fad25/images/logos/bizrate_sm.gif" style="text-align: start;" border="0"><br><br></div></td></tr><tr><td style="border:#000000 1px solid"><a target="_self" href="http://www.bathselect.com/category_s/57.htm" style="color: rgb(102, 102, 102);"><img alt="" src="https://www.bathselect.com/v/vspfiles/assets/images/faucet-bathselect-logo.jpg" align="" border="0px" height="64" width="90"></a></td></tr></tbody></table></div><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.bathselect.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion2.png" border="0" height="58" width="137"></a><br><script type="text/javascript" data-pp-pubid="fd67c2dd31" data-pp-placementtype="150x100"> (function (d, t) {
+<div align="left"><table style="border-collapse: collapse; width: 169px; background-color: rgb(247, 247, 247); background-image: url(http://www.bathselect.com/a/a/easyeditor/scripts/moz/undefined); border: 1px solid black; background-position: initial initial; background-repeat: initial initial;" align="" width=""><tbody><tr><td style="text-align: center; border: 1px solid black;"><img alt="" src="https://www.bathselect.com/v/vspfiles/assets/images/all-credit-cards-accepted.png" align="" border="0px" height="68" width="106"></td></tr><tr><td style="text-align: center; border: 1px solid black;"><br><a href="https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=AU826TU8&amp;content=/bmlweb/ppwpsiw.html" target="_blank" style="color: rgb(136, 136, 136);"><img alt="" src="http://www.fireplacedesignsale.com/v/vspfiles/assets/images/render.png" align="" border="0px" height="48" width="64"></a><br><br></td></tr><tr><td style="text-align: center; border: 1px solid black;"><a class="br-button" style="color: rgb(136, 136, 136); height: 37px; width: 112px; cursor: pointer; display: inline-block; box-sizing: border-box;"><img src="https://medals.bizrate.com/medals/dynamic/small/98270_medal.gif" usemap="#98270_medal" alt="See BathSelect.com Reviews at Bizrate.com" style="height: 37px; width: 112px; border: 0px; box-sizing: border-box;" border="0" height="37" width="112"><br></a><br><br></td></tr><tr><td style="text-align: center; border: 1px solid black;"><br><a target="_blank" href="http://www.bathselect.com/aboutus.asp" style="color: rgb(136, 136, 136);"><img alt="" src="https://www.bathselect.com/v/vspfiles/assets/images/bathselect21years.jpg" align="" border="0" height="72" width="47"></a><br></td></tr></tbody></table><table style="width: 169px; border-collapse: collapse; background-color: rgb(247, 247, 247); background-image: url(http://www.bathselect.com/a/a/easyeditor/scripts/moz/undefined); background-position: initial initial; background-repeat: initial initial;" align="" width=""><tbody><tr><td style="border: 1px solid rgb(0, 0, 0); letter-spacing: 0px; word-spacing: 0px;"><img src="http://www.bathselect.com/v/vspfiles/assets/images/ups-shipping-logo.jpg" alt="bathselect-shipping" style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); border: medium none ! important;" align="" border="0px" height="32" width="28"><img src="http://www.bathselect.com/v/vspfiles/assets/images/usps-shipping.jpg" alt="bathselect-shipping" style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); border: medium none ! important;" align="" border="0px" height="34" width="52"><img src="https://www.bathselect.com/v/vspfiles/assets/images/fedexlogo.jpg" alt="" align="" border="0px" width="44" style="text-align: center; background-color: rgb(255, 255, 255);"><img src="http://www.bathselect.com/v/vspfiles/assets/images/dhl-shipping.jpg" alt="DHL-bathselect-shipping" style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; background-color: rgb(255, 255, 255); border: medium none ! important;" align="" border="0px" height="34" width="41"></td></tr></tbody></table><table style="text-align: center; border-collapse: collapse; width: 169px; background-color: rgb(247, 247, 247); background-image: url(http://www.bathselect.com/a/a/easyeditor/scripts/moz/undefined); background-position: initial initial; background-repeat: initial initial;" align="" width=""><tbody><tr><td style="border:#000000 1px solid">&nbsp;&nbsp;<a href="http://www.nextag.com/BathSelect~1127599zzzreviewsz1zzzzzmainz17-htm" style="color: rgb(102, 102, 102);"><img src="http://www.nextag.com/seller/NextagLogo.jsp?seller=1127599" alt="Nextag Seller" border="0"></a></td></tr><tr><td style="border:#000000 1px solid"><br><span style="background-color: rgb(255, 255, 255);"></span><div><img src="https://www.bathselect.com/v/vspfiles/templates/fad25/images/logos/bizrate_sm.gif" style="text-align: start;" border="0"><br><br></div></td></tr><tr><td style="border:#000000 1px solid"><a target="_self" href="http://www.bathselect.com/category_s/57.htm" style="color: rgb(102, 102, 102);"><img alt="" src="https://www.bathselect.com/v/vspfiles/assets/images/faucet-bathselect-logo.jpg" align="" border="0px" height="64" width="90"></a></td></tr></tbody></table></div><!-- (c) 2005, 2013. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="96397b24-aaae-4cfb-86b7-f4cf207ac721";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card Processing</a> </div><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.bathselect.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion2.png" border="0" height="58" width="137"></a><br><script type="text/javascript" data-pp-pubid="fd67c2dd31" data-pp-placementtype="150x100"> (function (d, t) {
 "use strict";
 var s = d.getElementsByTagName(t)[0], n = d.createElement(t);
 n.src = "//paypal.adtag.where.com/merchant.js";
@@ -265,7 +400,7 @@ if (is_nav4) {
 } else { 
 	document.write('<input type=text style="font-size:11px;" name=emailaddress size=20 maxlength=50>');
 } 
-</script>
+</script><input type="text" style="font-size:11px;" name="emailaddress" size="20" maxlength="50">
 
 <div align="right"><center>
 <input type="submit" name="Submit" value="Join Now">
