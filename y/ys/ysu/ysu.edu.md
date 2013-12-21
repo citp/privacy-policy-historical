@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014005149id_/http%3A//web.ysu.edu/gen/ysu/Privacy_Policy_m3216.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221071902id_/http%3A//web.ysu.edu/gen/ysu/Privacy_Policy_m3216.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
