@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609074154id_/http%3A//wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221022513id_/http%3A//www.wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Wantickets Phoenix - Phoenix Wantickets Events
+# Wantickets San Diego - San Diego Wantickets Events
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THE WANTICKETS.COM, WEBSITE (the "Site"). 
 
