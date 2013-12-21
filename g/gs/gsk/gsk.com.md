@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsk.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502074218id_/http%3A//www.gsk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsk.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221171433id_/http%3A//www.gsk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | GlaxoSmithKline
 
@@ -81,7 +81,6 @@ Questions, comments and requests regarding this Privacy Statement are welcomed a
 GlaxoSmithKline  
 980 Great West Road  
 Brentford  
-Middlesex  
 TW8 9GS  
 United Kingdom
 
