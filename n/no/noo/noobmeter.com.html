@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the noobmeter.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601041636id_/http%3A//noobmeter.com/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the noobmeter.com privacy policy that was archived on 2013-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221101236id_/http%3A//www.noobmeter.com/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>World of Tanks performance privacy policy</title>
+<title> - privacy policy</title>
 <link rel="stylesheet" type="text/css" href="/static/style/default.css">
 <link rel="stylesheet" type="text/css" href="/static/style/tablesorter.css">
 <link rel="stylesheet" type="text/css" href="/static/style/lib/chosen.css">
@@ -12,14 +12,21 @@
 <link rel="apple-touch-icon" href="/static/images/favicons/57px.png" sizes="57x57">
 <link rel="icon" href="/static/images/favicons/128px.png" sizes="128x128" type="image/png">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/application.js"></script>
-<script type="text/javascript" src="/static/js/lib/jquery-1.8.3.min.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/application.js?r881"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script type="text/javascript" src="/static/js/lib/jquery.metadata.js"></script>
 <script type="text/javascript" src="/static/js/lib/jquery.tablesorter.min.js"></script>
 
+<script type="text/javascript" src="/static/js/openx.js?r881"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"></script> 
+
 <script type="text/javascript" src="https://www.google.com/jsapi"></script> <!-- for charts -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<meta name="alexaVerifyID" content="pi2sc-98oz1EmpN_cAAHYd21jcA"> <script type="text/javascript">
+
+<meta name="keywords" content="wot,wotlabs,world of tanks,world of warplanes,tanks,planes,warplanes,rating,efficiency,tracker,stats,statistics,eu,na,sea,ru,坦克世界,вот,рейтинг,рейтинг ффективности,калькулятор,WN7"> 
+<meta name="description" content="NoobMeter is a World of Tanks and World of Warplanes game statistics site that calculates efficiency, performance, WN7 ratings and tracks player WoT and WoWP stats. It has player and clan graphs and comparison, replay upload and signatures.">
+
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-33601440-1']);
@@ -38,12 +45,19 @@
 		var decimalSeparator = "";
 		var groupingSeparator = "";
 	</script>
-
-	<div class="header">
+	
+	<script>
+	var offsetInMinutes = new Date().getTimezoneOffset();
+	var offsetInMillis = offsetInMinutes * 60 * 1000;
+	var url = "/reportTimeZone/" + offsetInMillis;
+	
+	$.ajax(url)
+</script>
+<div class="header">
 	<div class="title">
 		<a id="logo" href="/">
- 			<img src="/static/images/favicons/64px_white.png" alt="logo">  
-			<span>NoobMeter.com - <i>World of tanks statistics and ratings</i></span>  
+ 			<img src="/static/images/favicons/64px_white_.png" alt="logo">  
+			<span>???headerTitle???</span>  
 		</a>
 	</div>
 
@@ -64,11 +78,7 @@
 	</script>
 
 	<div class="headerRightSide">
-	<div class="loginLogout">		
-		<span>
-			<a href="/replayUpload">Upload Replays</a>
-		</span>&nbsp;
-		
+	<div class="loginLogout">
 		<span><a href="http://blog.noobmeter.com/">Blog</a></span>&nbsp;
 	
 		<span>
@@ -88,67 +98,48 @@
 </div>
 
 <div class="searchForm">
-<form action="/Header.action;jsessionid=0777406EB422907254722C399F73860D" method="post"><div>
+<form action="/Header.action" method="get"><div>
     Server&nbsp;
 	
-   	<select name="serverId"><option selected="selected" value="eu">EU</option><option value="na">NA</option><option value="ru">RU</option><option value="sea">SEA</option><option value="kr">KR</option><option value="vn">VN</option></select><input id="stripes--1242256676" name="name" type="text"><script type="text/javascript">setTimeout(function(){try{var z=document.getElementById('stripes--1242256676');z.focus();z.select();}catch(e){}},1);</script>&nbsp;
+   	<select name="serverId"></select><input id="stripes--1149443593" name="name" type="text"><script type="text/javascript">setTimeout(function(){try{var z=document.getElementById('stripes--1149443593');z.focus();z.select();}catch(e){}},1);</script>&nbsp;
 	
 	Find or compare&nbsp;
 	
-	<input name="findPlayer" value="Player(s)" type="submit"><input name="findClan" value="Clans(s)" type="submit">
+	<input name="findPlayer" value="Player(s)" type="submit">
 	&nbsp;&nbsp;&nbsp;
- 	<input name="tankStats" value="Tank Stats" type="submit">
+ 	<input name="tankStatsEvent" value="???tankStats???" type="submit">
 	&nbsp;
-	<input name="replaySearch" value="Replays" type="submit"></div>
+	</div>
  	
 	<table>
-	<tbody><tr>
+	<tbody><tr>	
 	<td>
- 	Player top by&nbsp;
+ 	Top players by&nbsp;
  	</td>
  	<td>
- 	<input name="serverTopPR" value="PR" type="submit"><input name="serverTopWnLatest" value="WN7" type="submit"><input name="serverTopER" value="ER" type="submit"><input name="serverTopWR" value="WR" type="submit"><input name="serverTopBattles" value="Battles" type="submit"></td>
+	<input name="serverTopWR" value="WR" type="submit"><input name="serverTopBattles" value="Battles" type="submit"></td>
 
 	<td>
- 	&nbsp;Recent player top by&nbsp;
+ 	&nbsp;Recent top players by&nbsp;
  	</td>
  	
  	<td> 	
- 	<input name="serverTopRecentPR" value="PR" type="submit"><input name="serverTopRecentWnLatest" value="WN7" type="submit"><input name="serverTopRecentER" value="ER" type="submit"><input name="serverTopRecentWR" value="WR" type="submit"></td> 	
+	<input name="serverTopRecentWR" value="WR" type="submit"></td> 	
 	</tr>
-
-	<tr>
-	<td>
- 	Clan top by&nbsp;
- 	</td>
- 	<td>
- 	<input name="clanTopPR" value="PR" type="submit"><input name="clanTopWnLatest" value="WN7" type="submit"><input name="clanTopER" value="ER" type="submit"><input name="clanTopWR" value="WR" type="submit"><input name="clanTopBattles" value="Battles" type="submit"></td>
-	<td>
- 	&nbsp;Recent clan top by&nbsp;
- 	</td>
- 	<td>
- 	<input name="clanTopRecentPR" value="PR" type="submit"><input name="clanTopRecentWnLatest" value="WN7" type="submit"><input name="clanTopRecentER" value="ER" type="submit"><input name="clanTopRecentWR" value="WR" type="submit"><input name="clanTopRecentBattles" value="Battles" type="submit"></td>
-	</tr>
+	
 	</tbody></table>
 	
-<div style="display: none;"><input type="hidden" name="_sourcePage" value="1vqnEYUiXLD8xBTAaFgB6mTs82sIy8TZ"><input type="hidden" name="__fp" value="OZW6BwNsMWx847xof6yvVg=="></div></form></div>
+<div style="display: none;"><input type="hidden" name="_sourcePage" value="Qi1EJZ7zr5RT5HuXG17pLV_fJ4ye-S9M"><input type="hidden" name="__fp" value="5eLoSpxT87n9cFHwwIZ4sg=="></div></form></div>
 
 <div></div>
 
-<div class="horizontalAdBar">
-
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-1890988263107919";
-/* NoobMeter.com Top Leaderboard SV */
-google_ad_slot = "8976169545";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
+<div style="text-align: center;">
+	<div id="headerAd"><div id="slot503644"></div></div>
+</div>
+<script>
+    addAd(document.getElementById('headerAd'), 'header');
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-</div><div class="pageContent">
+<div class="pageContent">
 		<h1>Privacy policy</h1>
 	
 	<div>This application collects some personal data from its users.</div>
@@ -183,40 +174,6 @@ google_ad_height = 90;
 		};
 	</script>
 
-<div class="paypal_form" style="padding: 0px 20px; text-align: center; font-style: italic;">
-Please donate to support NoobMeter and help with some of the rising hosting costs<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="paypalButton">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="4U8M87D3432N6">
-<input type="image" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" border="0" name="submit" alt="Please donate to support NoobMeter" title="Please donate to support NoobMeter" style="border: none;">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="paypalSubmitButton" style="display: inline;"> <input type="hidden" name="currency_code" value="EUR">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="4U8M87D3432N6">
-<input type="submit" value="€ EUR" title="Please donate to support NoobMeter (€ EUR)">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="paypalSubmitButton" style="display: inline;">
-<input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="J3Z9DU63CTTKW">
-<input type="submit" value="$ USD" title="Please donate to support NoobMeter ($ USD)">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="paypalSubmitButton" style="display: inline;">
-<input type="hidden" name="currency_code" value="GBP">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="KRKSV79DA5E88">
-<input type="submit" value="£ GBP" title="Please donate to support NoobMeter (£ GBP)">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-</div>
-
-
 <div style="padding: 10px 0px 10px 0px;">
 
 
@@ -224,16 +181,38 @@ Please donate to support NoobMeter and help with some of the rising hosting cost
 <div class="addthis_toolbox addthis_default_style ">
 
 <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-<a class="addthis_button_tweet"></a>
 <a class="addthis_counter addthis_pill_style"></a>
 </div>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50e9736d7138d357"></script>
 </div>
 <div style="font-size: 0.7em; color: #AAA; text-align: center; padding-bottom: 0.5em;">
-		All information and services on this site are provided without express or implied warranty of any kind. This site uses cookies.<br>
+		All information and services on this site are provided without express or implied warranty of any kind. This site uses cookies. World of Tanks and World of Warplanes are trademarks of Wargaming.net.<br>
 		<a style="color: #AAA;" href="/privacyPolicy.jsp">Privacy policy</a>
 	</div>
 
-	
+	<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-80xBzMhbKolFI"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-80xBzMhbKolFI.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
 
 </body></html>
