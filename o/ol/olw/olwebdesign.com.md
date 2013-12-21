@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olwebdesign.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530214848id_/http%3A//olwebdesign.com/privacy-policy-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olwebdesign.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222001440id_/http%3A//www.olwebdesign.com/privacy-policy-) for the most accurate reproduction.*
 
 # Privacy Policy
 
