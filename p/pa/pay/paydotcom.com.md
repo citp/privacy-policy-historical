@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622041534id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221020825id_/http%3A//www.paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # Sell Products Online, Sell Online, Affiliate Marketplace, Sell Products Online With Paypal, Affiliate Marketing, Merchant Accounts, Free Product Listing, Digital Products, Affiliate Network, Promote Products, Sell eBooks Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates, Sell Books Online, Start your homebased business today. Paydotcom.com
 
 | 
 
-[ ](https://web.archive.org/web/20130622041534id_/http%3A//paydotcom.com/widgetlp.php)  
+[ ](https://web.archive.org/web/20131221020825id_/http%3A//www.paydotcom.com/widgetlp.php)  
 
 
   
@@ -14,33 +14,17 @@ Sponsored Links
 |   
 ---  
   
-Avoid the Amazon BAN HAMMER - Automatically Insert the Required Disclaimer   
+Get 100% residual commissions on industry leading marketing tools suite.  
   
-bit.ly/10fYMkO  
-  
-* * *  
-  
----  
-  
-$500 CPA,50% RevShare, $50 CPL,No Refund,No Reserves. Join Now.  
-  
-hit.24partners.com?uid=1492&p=80164&tags=PDCSite-Wide-Ads  
+www.pureleverage.com/launch/1?id=ruisantos  
   
 * * *  
   
 ---  
   
-Trade with TraderXP and make 75% profit every 60 seconds. Start Today.  
+Get Better Conversions, Get More Shares and Likes, and Get More People Buying  
   
-partners.optiontide.com/z/10380/CD2111481/&subid1=PDC-side-wide-ads  
-  
-* * *  
-  
----  
-  
-25 complete turn-key businesses built just for you  
-  
-http://tgli.de/NAQ  
+http://genesislabs.tv/catalin.php  
   
 * * *  
   
@@ -50,7 +34,7 @@ PAYDOTCOM
 
 **PRIVACY POLICY**
 
-[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20130622041534id_/http%3A//paydotcom.com/terms.php)
+[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20131221020825id_/http%3A//www.paydotcom.com/terms.php)
 
 **_Definitions_**
 
