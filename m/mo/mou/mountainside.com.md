@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainside.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619215637id_/http%3A//www.mountainside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainside.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221032747id_/http%3A//www.mountainside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mountainside
 
@@ -45,11 +45,11 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.mountainside.com/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.Mountainside.com/](http://www.mountainsidenew.agdeploy.com/)
 
 ## Your Consent
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
 
 ## Changes to our Privacy Policy
 
@@ -57,13 +57,13 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.mountainside.com](http://www.mountainside.com/ "http://www.mountainside.com")  
+[http://www.Mountainside.com](http://www.mountainsidenew.agdeploy.com/ "http://www.Mountainside.com")  
 187 South Canaan Road  
 Canaan, CT 06018  
 United States  
 [info@mountainside.com](mailto:info@mountainside.com)  
 (800) 762-5433
 
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
