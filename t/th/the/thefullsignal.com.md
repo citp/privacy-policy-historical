@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefullsignal.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015129id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefullsignal.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221233554id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
 # Dennis Publishing - Privacy Notice
 
@@ -37,6 +37,9 @@ Additionally we use web technologies e.g. cookies and web beacons, to automatica
 Anonymous data will be recorded for the purpose of reporting web traffic statistics, advertisement 'click-throughs', and/or other activities on our sites.
 
 Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.com/uk  ](http://www.youronlinechoices.com/uk) .
+
+Our iPad, Android and other ‘apps’ may use a service called Flurry Analytics to collect user data which we use to learn about our readers and improve the app. To find out more, visit <http://www.flurry.com/about-us/legal/privacy.html>. You can opt out at any time by visiting <http://www.flurry.com/resources/privacy.html>.   
+
 
 **How we use your data**
 
