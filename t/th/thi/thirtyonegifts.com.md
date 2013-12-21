@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thirtyonegifts.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603193154id_/http%3A//www.thirtyonegifts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirtyonegifts.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221160233id_/http%3A//www.thirtyonegifts.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Thirty-One Gifts | Thirty-One Catalog Purses Totes Bags
+# Privacy Policy | Thirty-One Gifts
 
 This Privacy Policy is intended to assist you in understanding what information we gather about you when you visit Thirty-One Gifts online, how we use and share that information, and the safeguards we have in place for the information.
 
@@ -96,7 +96,7 @@ Nothing in this policy restricts our ability to share aggregated or anonymized i
 
 ### What choices do you have over how your information is used?
 
-**Marketing Email:** You may elect to no longer receive marketing emails from us or from one of our independent Thirty-One Gifts Consultants if we send the email for the Consultant by following the unsubscribe instructions in the next marketing email you receive. You may also adjust your preferences on our Email Subscription Center. [link: http://pages.e.thirtyonegifts.com/manage-email-preferences/] Please be aware, however, even if you opt out of marketing emails, you may still receive emails related to your transactions, such as order confirmations and may still receive emails from your independent Thirty-One Gifts Consultants if we are not sending the Consultant’s email. 
+**Marketing Email:** You may elect to no longer receive marketing emails from us or from one of our independent Thirty-One Gifts Consultants if we send the email for the Consultant by following the unsubscribe instructions in the next marketing email you receive. You may also adjust your preferences on our [Email Subscription Center](http://pages.e.thirtyonegifts.com/manage-email-preferences/). Please be aware, however, even if you opt out of marketing emails, you may still receive emails related to your transactions, such as order confirmations and may still receive emails from your independent Thirty-One Gifts Consultants if we are not sending the Consultant’s email. 
 
 **Text Message Marketing:** If you no longer want to receive text messages from us, you can follow the opt-out instructions provided at the time you sign up for text messages.
 
