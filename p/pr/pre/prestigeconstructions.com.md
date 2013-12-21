@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestigeconstructions.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530070958id_/http%3A//www.prestigeconstructions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeconstructions.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221022623id_/http%3A//www.prestigeconstructions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Prestige Group
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.prestigeconstructions.com/terms-of-use.html.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.prestigeconstructions.com/terms-of-use.html>.
 
 Your Consent
 
@@ -81,7 +81,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.prestigeconstructions.com  
+[http://www.prestigeconstructions.com](http://www.prestigeconstructions.com/)  
 The Falcon House, No. 1, Main Guard Cross Road  
 Bangalore, Karnataka 560001  
 India  
