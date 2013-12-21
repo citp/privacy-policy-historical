@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the infonigeria.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622022750id_/http%3A//www.infonigeria.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infonigeria.net privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221120430id_/http%3A//www.infonigeria.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info Nigeria
 
-Infonigeria.net is [committed](http://www.infonigeria.net/iran-rejects-nigeria-spying-allegation/) to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
+Infonigeria.net is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.
 
-In this Privacy Policy references to we, [us](http://www.infonigeria.net/obamas-second-term-agenda-threatened-by-looming-fiscal-issues/) and our, are to Info Ngeria. References to the Site are to www.infonigeria.net.
+In this Privacy Policy references to we, us and our, are to Info Ngeria. References to the Site are to www.infonigeria.net.
 
 Certain expressions used in this Privacy Policy (such as User Content) have definitions which are set out in the Terms and Conditions for use of this Site.
 
@@ -14,11 +14,11 @@ The information we collect via the Site may include:
 
 1.1 Personal details you give us through completion of forms on the Website, including name, address, telephone number, email address etc.
 
-1.2 Debit or credit card information which we need to pass to a [bank](http://www.infonigeria.net/reps-move-to-stop-banks-atm-maintenance-fee/) or card processing agency for verification.
+1.2 Debit or credit card information which we need to pass to a bank or card processing agency for verification.
 
 1.3 Your IP address, your preferences and use of email updates.
 
-1.4 Data recorded by the Site which allows us to recognise you and your preferred settings. Such data is recorded locally on your computer through the use of cookies. Your [browser](http://www.infonigeria.net/eu-fines-microsoft-731-million-over-browser/) can be programmed to reject cookies or warn you before downloading them. However some features of the Site may not function properly if you programme your browser to reject cookies.
+1.4 Data recorded by the Site which allows us to recognise you and your preferred settings. Such data is recorded locally on your computer through the use of cookies. Your browser can be programmed to reject cookies or warn you before downloading them. However some features of the Site may not function properly if you programme your browser to reject cookies.
 
 1.5 When you use the Site our servers automatically record certain information that your web browser sends whenever you visit any website. This may include your web request, internet protocol address, browser type, browser language, URL’s, URL’s domain names, pages viewed and other matters together with cookies which may identify your browser.
 
