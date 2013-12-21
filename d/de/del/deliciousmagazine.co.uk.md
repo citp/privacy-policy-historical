@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601171210id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221055423id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
 
 # Privacy Policy | delicious. Magazine food articles & advice
 
