@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diglo.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302014321id_/http%3A//www.diglo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diglo.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221052146id_/http%3A//www.diglo.com/privacy.php) for the most accurate reproduction.*
 
-# Download Diglo Browser FREE
+# Privacy Policy | Diglo Browser
 
 ## Privacy Policy
 
