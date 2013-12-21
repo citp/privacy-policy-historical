@@ -1,227 +1,176 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625101149id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221065015id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # AmericanGreetings.com Privacy Policy
 
-_Last Revised:_ 11/14/2012
+This Privacy Policy applies to the www.americangreetings.com and www.msn.americangreetings.com websites (each, a “Site,” and collectively, the “Sites”) and the mobile applications (“Apps”) that are owned or controlled by AG Interactive, Inc. (“AG,” “we,” and “us”) and that post a link to this Privacy Policy (collectively, the “Platforms”). This Privacy Policy does not apply to other AG web sites, mobile applications or interactive features, or offline information collection, unless expressly stated at the time of collection. This Policy also does not apply to the web sites of other companies or organizations, even if we link to those websites. This Privacy Policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third parties, and your rights to change or delete it. Please note that certain features or services referenced in this Privacy Policy may not be offered on all of the Platforms, and certain features or services may not be offered on the Platforms at all times. 
 
-## I. GENERAL MATTERS
+AG complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union (EU) member countries and Switzerland. AG has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AG's certification, please visit http://www.export.gov/safeharbor/. 
 
-### A. Overview
+* ##  INFORMATION COLLECTION 
 
-At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a top priority. For this reason, we comply with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union (EU) member countries and Switzerland. AG has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AG's certification, please visit <http://www.export.gov/safeharbor/>. In accordance with the Safe Harbor Privacy Principles, we have adopted the following policy to advise you of our use of your personal information and your choices regarding that use. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third parties, and your rights to change or delete it.
+  1. ###  Information You Provide 
 
-### B. Scope of Policy
+We may request that you provide “Personal Information” (which is information that can be used to identify or contact a specific individual, such as your name, email address, and phone number), demographic information (such as your age, gender, birth date, and ZIP code), and payment information. The information we request is subject to change from time to time depending on, among other things, the nature of your use of the Platforms and our relationship with you. If you elect to purchase a Membership or redeem a promotional membership, you may be required to provide some Personal Information. Additionally, you may also provide us with information regarding your preferences and interests; however, preference information is not required and is completely optional on your part. Any information combined with Personal Information will be treated as Personal Information. 
 
-This Policy applies to AmericanGreetings.com and our co-branded site <http://www.msn.americangreetings.com/>. This Policy does not apply to the websites of other companies or organizations, even if we link to those websites. You should carefully review the privacy policies of those websites in order to determine how they treat your personal information.
+Back to top
+  2. ###  Information the Platforms Automatically Collect 
 
-European Data Protection Statement: AmericanGreetings.com and the data that we collect from you through AmericanGreetings.com is stored on a host server located in the United States, which is outside of the European Economic Area. By submitting your personal data, you agree to this transfer, storing, and processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+We and our third-party service providers may automatically collect certain information about your use of the Platforms (“Usage Information”). Usage Information may include the browser and operating system you are using, the URL, advertisements, or search terms that referred or otherwise led you to the Platforms (if applicable), aspects of the Platforms that you use or visit, the products or services you access or view, the types of e-cards you send, and the time of day you accessed the Platforms, among other information. Usage Information also includes the IP address or other unique identifier (“Device Identifier”) for any computer, mobile phone or other device (any, a “Device”) used to access the Platforms. A Device Identifier is automatically assigned to your Device, and our servers identify your Device by its Device Identifier. Some mobile service providers may also provide us or our third party service providers with information regarding the physical location of a Device used to access the Platforms. Please note that your IP address is included in the header information of every e-card notification email that we send for your e-cards. 
 
-## II. INFORMATION ABOUT YOU
+The methods used to collect Usage Information may include: 
 
-### A. Information Gathered From All Visitors
+    1. ####  Cookies 
 
-  1. **Aggregate Data**
+We use a technology called "cookies" on the Platforms. Cookies are pieces of information or data sent to your browser from a web server and stored on your Device for a variety of purposes that enable us to optimize the Platforms and your user experience. For example, cookies allow us to recognize you when you re-enter the Platforms so that you will not have to sign-in each time you visit. In addition, we use cookies in connection with website analysis and advertising. Cookies also allow us to count the number of unique and return visitors who use the Platforms. Cookies can also enable us to track and target the interests of our users to enhance their experience on the Platforms. 
 
-We gather certain generic information about the use of our website, such as the number of unique visitors, the frequency with which they visit, and the areas on the website that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program. We only use this type of data in aggregate-that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our customers use certain parts of our website, which, in turn, enables us to make it as appealing as possible. This data does not contain any personally identifiable information about you.
+A Flash cookie is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device. Flash cookies may be used for various purposes, including, without limitation, enabling a Flash feature and remembering your preferences. For more information about Flash and the privacy choices Adobe offers, visit http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html. 
 
-  2. **IP Addresses**
+Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser settings to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on the Platforms if you choose not to accept or delete cookies. 
 
-We collect and analyze traffic on our website by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by an Internet Service Provider, an IP address can be used to identify the computer originating a message.
+Back to top
+    2. ####  Web Beacons and Pixels 
 
-  3. **When You Send An E-card**
+We also use web beacons or 1x1 pixels to collect information on the Platforms and through emails we send. These pixels may be invisible to you and may be connected to your Personal Information, if you have provided it, to allow us to better serve you by tracking your interests on the Platforms. We do not sell, rent, trade, or otherwise distribute information about you gathered through the web beacons or pixels with any third parties, except for third parties who provide us with advertising, marketing, research or analysis services. 
 
-If you use our website to send an e-card or any other content, we collect your e-mail address and your recipient's e-mail address. This information is necessary to send the content and provide confirmation that it has been received. We will not use your recipient's e-mail address for any purpose other than to send the e-card.
+Back to top
+    3. ####  Embedded Scripts 
 
+An embedded script is programming code that is designed to collect information about your interactions with the Platforms, such as the links you click on. The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Platforms, and is deactivated or deleted thereafter. 
 
+Usage Information is very much like television ratings that tell the networks how many people tuned in to a program. We and our third-party service providers use this type of data to help us determine the extent to which our customers use certain parts of our Platforms, which, in turn, enables us to make our Platforms as appealing as possible. Usage Information is generally non-identifying, but if we associate it with you as a specific and identifiable person, we treat it as Personal Information. 
 
+Back to top
+    4. ###  Information You Provide About Third Parties 
 
-_PLEASE NOTE:_ We include your IP address in the header information of every e-card notification e-mail we send. It is available to the e-card recipient and anyone else who is forwarded the notification e-mail. This limits your ability to communicate anonymously using our products. Our products are neither intended nor appropriate for anonymous communications, and such activity is expressly prohibited by the acceptable use policy in our [Terms of Service](http://www.americangreetings.com/legal.pd). 
+The Platforms may permit you to provide Personal Information about third parties, such as mailing addresses, email addresses, birth dates, anniversaries and other significant dates. If you use our Platforms to send an ecard, paper card, or any other content, we collect certain Personal Information about the recipient (such as name, mailing address, and email address, as applicable). We may share the information regarding your transaction with third parties as necessary to process your transaction (i.e., to send the card). 
 
-### B. Information Gathered From Members and Registered Users
+The Platforms may also allow you to import information about third parties through several methods, including directly from your computer or mobile device or from a third-party service (e.g., through Social Media Interactions or by asking you for your login information to your email or other account). If you choose to provide Personal Information about third parties or to import your contacts, we will store that information only in connection with your relationship with us (e.g., to send greeting cards). Unless you consent, we will not store the password you provide if you import your contacts from a third party source. 
 
-  1. **Information Gathered From Members**
+Back to top
 
-If you elect to purchase a Membership or redeem a promotional membership on AG, you may be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, credit card expiration date, and billing address (this required information is subject to change from time to time depending on, among other things, the nature of your membership). You may also provide us with additional information regarding your preferences and interests; however, preference information is not required and is completely optional on your part.
 
-We may collect additional data from Members based on certain services you elect to utilize on our website. For example, we may track the categories of e-cards you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. You may register for AG Reminders, which are e-mail alerts to track important dates and occasions you specify, in which case we will store the information you add to your Reminders. The AG address book feature allows you to store addresses of friends and family in order to make sending an e-card even easier. AG Membership allows you to store e-cards for future delivery, bookmark favorite e-cards, and save e-cards received in an online scrapbook. By obtaining this information, we can provide you with specific content and advertising in which you might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data may limit the use of your membership.
+* ##  OUR USES OF INFORMATION 
 
-If you become a Member of AG from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted.
+We may use information about you, including Personal Information and Usage Information, to: (1) allow you to use the Platforms or to provide related customer service; (2) provide or offer you information, products, or services, any of which may be tailored to you; (3) send or display special offers or advertisements from AG Companies (as hereinafter defined) and our business partners; (4) process your registration, including verifying that information you provide is active and valid; (5) process a transaction you initiate; (6) improve the Platforms and our products, and for internal business purposes, including the measurement of the Platforms’ effectiveness; (7) contact you with regard to your use of the Platforms and, in our discretion, changes to our policies; and (8) as otherwise described in this Privacy Policy, for purposes disclosed at the time you provide your information, or with your consent. 
 
-  2. **Information Gathered From Registered Users**
+If you contact us for customer support regarding the Platforms, we will not use the information you provide to contact you for marketing purposes unrelated to your request unless you agree otherwise. 
 
-If you elect to register with us without becoming a member, you may be required to provide us with certain personal information, including your name, email address, gender, phone number, and cell phone carrier. You may also provide us with additional information regarding your preferences and interests; however, preference information is not required and is completely optional on your part.
+Back to top
+* ##  OUR SHARING OF INFORMATION 
 
-We may collect additional data from you based on certain services you elect to utilize on our website. For example, we may track the categories of e-cards you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. By obtaining this information, we can provide you with specific content and advertising in which you might be interested. None of this information is required to use our service or to become a Registered User; however, the omission of certain types of data may limit your use of the site.
+  1. ###  General Statement Regarding Information Sharing 
 
-  3. **Mobile Applications**
+We do not share your Personal Information with third parties for their marketing purposes without your consent. We may share non-Personal Information, such as aggregate user statistics, demographic information and Usage Information with third parties, including retail partners, advertisers, content providers, and analytics providers. Third parties may collect non-Personal Information when you download or use the Platforms. We may share your Personal Information with third parties with your consent, as disclosed at the time you provide us with information, or as described below in this Section III or otherwise in this Privacy Policy. 
 
-If you have downloaded one of our mobile applications (including applications for the iPad), you may be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, credit card expiration date, and billing address (this required information is subject to change from time to time depending on, among other things, the nature of the application).
+Back to top
+  2. ###  When You Agree to Receive Information from Third Parties, Request That We Share Your Information, or Make A Purchase from a Third Party 
 
-We may collect additional information from you based on the application or applications that you elect to use from us. For example, we may track how much time you spend using the application.
+We may offer the opportunity to receive information and/or marketing offers from, or to otherwise have your information shared with, one or more third parties. We may also offer you the opportunity to order products and services from a third party directly through the Platforms or in communications you may receive from AG; and in this case, we will disclose that a third party will be fulfilling your order. If you agree at that time to have your Personal Information shared or if you make a purchase from a third party through the Platforms, your Personal Information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices of that third party. We are not responsible for the privacy policies and practices of third parties, and, if you later decide that you no longer want to receive communications from a third party or wish to communicate regarding your order from the third party, you will need to contact that third party directly. 
 
-When you use an application to send content, we collect your e-mail address and your recipient's e-mail address. This information is necessary to send the content and provide confirmation that it has been received. We will not use your recipient's e-mail address for any purpose other than to send the content.
+Back to top
+  3. ###  Third Party Service Providers 
 
-  4. **Purchases of Paper Cards**
+We may share Personal Information with our service providers who perform services on our behalf. Such services include, for example, order fulfillment, hosting or maintaining the Platforms, providing customer support, sending email or other communications, providing marketing assistance, and providing analytics services. We do not authorize these organizations to use or disclose the information they obtain from us for any purpose other than the purposes for which they obtained the information or to comply with legal requirements. 
 
-If you purchase paper cards via our website, you may be required to provide us with certain personal information including your name, physical address, credit card information, and credit card expiration date, as well as information about the intended card recipients. We may use third parties to fulfill your order for paper cards, in which case we will share your information (including payment information) with those third parties as required. Any company we use for these reasons will not share, sell, or distribute your information, or otherwise use your information except to provide us services.
+Back to top
+  4. ###  Co-Branding Partners 
 
+If you become a Member of AG from one of our co-branded sites (such as www.msn.americangreetings.com), we may share your information, including Personal Information, with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted. 
 
+Back to top
+  5. ###  Third Party Analytics and Advertising Service Providers 
 
+We work with network advertisers, advertising agencies, third party traffic measurement services, analytics companies and other similar service providers for a variety of purposes. These purposes include providing us with information regarding traffic and use of the Platforms and our advertisements on the Platforms and across the Internet, and to engage in multi-site advertising. For example, if you click on an advertisement on another website for the Platforms, our service providers may be able to tell us which advertisement you clicked on and where you were viewing the advertisement. In connection with providing analytics and advertisement services, these service providers may collect certain information about your use of the Platforms and other websites or apps. 
 
-### C. Technology We Use To Gather Data
+These third party service providers may set and access their own tracking technologies on your Device (including cookies, web beacons, embedded scripts) and may otherwise collect or have access to information about you, including the collection of information about you from the Platforms and other websites or apps. These service providers may use that information for their own purposes, including to target advertisements to you, prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. We may share Usage Information about visitors with third party advertising companies, analytics providers and other vendors for similar purposes. 
 
-  1. **Cookies**
-    1. **In General**
+While we may use a variety of service providers to perform advertising and analytics services, you may wish to visit http://www.networkadvertising.org/optout_nonppii.asp, which provides information regarding this practice by Network Advertising Initiative (“NAI”) members, including the “opt-out” tool that can allow you to opt-out of certain uses of your information by NAI members. 
 
-We use a technology called "cookies" on our website. Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. We use cookies to make your visit to our website easier. For example, cookies allow us to recognize you when you re-enter our website so that you will not have to sign-in each time you visit. Cookies also allow us to count the number of unique and return visitors who use our site. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site.
+Back to top
+  6. ###  Contests, Sweepstakes and Promotions 
 
-Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our website if you choose not to accept cookies, such as Create & Print, My AG Page, your address book, favorites, and e-card history. In addition, you will not be able to participate in any of our sweepstakes or contests.
+Occasionally, we may sponsor contests, sweepstakes or other promotions (any, a “Promotion, and collectively, “Promotions”) on or through the Platforms or otherwise. Participation in such Promotions is purely voluntary. In order to participate in a Promotion, you may be asked to provide Personal Information. By participating in a Promotion, you agree to the Promotion’s terms and conditions, which will be clearly stated. Where we do not sponsor a Promotion, the identity of the sponsor will be clearly disclosed in the Promotion’s terms. We cannot be responsible for actions or policies of third-party Promotion sponsors. Those considering participating in a Promotion are encouraged to review the privacy policy of the Promotion sponsor before entering. 
 
-    2. **Third-Party Advertiser Cookies**
+Back to top
+  7. ###  Business & Operational Purposes 
 
-We use third-party advertising companies to serve our ads on our website. These third-party advertising companies employ cookie and Clear Gif technology (aka 1x1 Pixel .gifs, Web bugs) to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Website and other Websites. This information can include: date/time of banner ad shown, the banner ad that was shown, the cookie they used, and your IP address. It may also contain your personally identifiable information if that is something you have agreed to with the applicable third party. This information can also be used for online preference marketing purposes. AG does not use or have access to this information.
+AG is a member of the American Greetings family, which includes American Greetings Corporation and all of its subsidiaries (each, an “AG Company,” and collectively, “AG Companies”). AG Companies include, but are not limited to, AG Interactive, Inc., Cardstore.com, Egreetings.com, BlueMountain.com, Webshots.com, and Papyrus-Recycled Greetings, Inc. We reserve the right to share your information, including Personal Information, with AG Companies for a variety of purposes, such as to conduct Promotions, offer special premiums, and for business and operational purposes (such as sharing databases and equipment). We reserve the right to share your information with any other company that is not presently, but becomes, an AG Company. 
 
-If you want to prevent a third-party advertiser from setting or reading cookies on your computer, you may either visit each ad network's website individually and opt out or visit the website of the National Advertising Initiative ("NAI") to opt-out of all network advertising cookies. [Click here for the NAI gateway opt-out site](http://www.networkadvertising.org/managing/opt_out.asp). This site will also allow you to review the third-party advertising companies' privacy policies.
+In the event that AG, the Platforms, or any of our units or relevant subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer all information related to the Platforms, including your Personal Information, to a third party acquiring the Platforms, including during the course of any due diligence process. 
 
-    3. **Advertising Research Cookies**
+Back to top
+  8. ###  Administrative and Legal Reasons 
 
-From time to time, third-party research companies may set cookies on your browser to track exposure to certain ad placements. These cookies may be used for research purposes if you later opt-in to take a survey. If you choose to take the survey, these companies may examine your browser to see if one of their cookies has been set. If the company detects the cookie in your browser, it will gather only 2 pieces of information from it: where you have seen a particular ad and how many times you have seen it. If you do not want these kinds of cookies to be set to your browser, [you can opt-out by clicking here](http://ch.questionmarket.com/site/subnav/optout.html). We do not set these kinds of cookies on your browser.
+We may disclose your information, including Personal Information and Usage Information, to appropriate third parties if we are required to do so by law or if we believe that such action is necessary: 
 
-    4. **Advertising Targeting Cookies**
+    * To comply with legal process such as a search warrant, subpoena or court order; 
+    * To protect any AG Company’s rights and property; 
+    * To investigate criminal activity that may have occurred through or in any way connected to using the Platforms or other AG property; 
+    * To protect against misuse or unauthorized use of the Platforms and to enforce or defend any applicable Terms of Use or other policies applicable to the Platforms; or 
+    * During emergencies, such as when we believe someone's physical safety is at risk. 
 
-From time to time, we may use cookies to track your exposure to certain areas of the site (such as Pets, Birthday, etc.). These cookies may be used later to target advertising on our site to your interests. No personally identifiable information is collected through these cookies, and the data collected with these cookies is not shared with third parties.
+These disclosures may be made without notice to you. 
 
-  2. **Web Beacons and Pixels**
+Please note that your IP address can be accessed by e-card recipients in the header of the notification e-mail we send for each e-card. Under certain circumstances, recipients, their legal representatives, or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication. By using this service, you knowingly and voluntarily assume any risks associated with such disclosure. 
 
-We also collect information on our website through the use of web beacons or 1x1 pixels. These pixels are connected to your personally identifiable information, if you have provided it, and allow us to better serve you by tracking your interests on our website. We do not sell, rent, trade, or otherwise distribute information about you gathered through the web beacons or pixels with any third-parties except for third-parties who provide us with research or analysis services. They may only use the information they gather this way to provide services to us. No other use will be made of your information gathered this way.
+Back to top
 
-  3. **Toolbar, Calendars, and Widgets**
 
-If you download one of our other products such as the AG toolbar or calendar, we will collect your name and email address. Depending on the product, we may also collect your password (if the product requires registration), and any data you input into the product, such as birthdays that you add to the calendar. If the product communicates with third-party products, we will collect appropriate permissions for those third-party products. For example, our calendar interacts with Facebook, so it will collect appropriate Facebook permissions and information, such as your friends' birthdays (if they are available) so that they can be put in the calendar.
+* ##  THIRD PARTY CONTENT AND LINKS TO THIRD PARTIES 
 
+Certain content found on the Platforms may be hosted and served by third parties. Additionally, the Platforms may contain links to third party websites or apps that we do not control (including links, sites, and apps operated by advertisers, third party service providers, reward programs, sponsors and partners associated with the Platforms). These links and applications may use an AG logo as part of a co-branding agreement, including third parties who may be selling or providing AG products and services. In addition, AG content may be included on web pages and websites that are not associated with AG and over which we have no control. 
 
+These third parties may independently collect and use Usage Information and Personal Information and may have the ability to track your use of their web sites and apps. AG is not responsible for the privacy practices employed by any third party, and you should carefully review their privacy policies before providing information to any third party. 
 
+Back to top
+* ##  YOUR CONTROL OVER YOUR INFORMATION 
 
-## III. AG's Uses of Information
+You may opt out of receiving marketing e-mails from us by following the opt-out instructions provided to you in those e-mails. Please note that we reserve the right to send you certain communications relating to your use of the Platforms and these transactional messages may be unaffected if you opt-out from marketing communications. 
 
-### A. From All Visitors
+If you are a Member or a Registered User, you may review and update your Personal Information, Platform preferences, and email preferences by clicking on "My AG" link at the top of the every page, and follow the link titled "My Account." You may also revise, add, delete, or completely cancel all Reminder alerts through the “My Account” page. Please note that if you are the user of one of our Apps, you may be able to review and update your Personal Information only through the Sites. 
 
-  1. **Advertising**
+You may also request to know what information we have about you by contacting our Customer Support Department. 
 
-We may use non-personally identifiable information to show you advertisements for products that may be of interest to you. For example, we may serve ads from toy companies to users searching the Kids Birthday e-card pages. We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area. We may use cookie files to assure that you will not be served the same ads repeatedly. If you are not a Member or a Registered User, no information is collected from you when you visit the site.
+Back to top
+* ##  OTHER MATTERS 
 
-  2. **Research**
+  1. ###  Protection For Children - COPPA Compliance 
 
-We may conduct demographic or other research about the users of our website to determine how users engage with our content.
+We are committed to protecting the privacy and rights of children online. To that end, we do not collect any Personal Information from users who we know are under the age of 13. 
 
-  3. **Business Partners**
+Back to top
+  2. ###  Data Security 
 
-We may provide information about how our customers collectively use our website to advertisers, sponsors, and other companies with which we do business ("Business Partners"). This data does not include any personally identifiable information about you.
+We take commercially reasonable steps to help protect and secure your Personal Information. For example, when you enter sensitive information such as a credit card number and CVC2 number on our checkout forms, that information is encrypted during transmission using secure socket layer (SSL) technology, to help protect the communications between you and our payment partners. However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information we collect. You use our Platforms and provide us with your information at your own risk. 
 
-  4. **Contests and Promotions**
+Back to top
+  3. ###  Changes to the Privacy Policy 
 
-Occasionally, AG may sponsor contests or promotions on our sites or in our e-mail products. Participation in such contests is purely voluntary. In order to enter a contest or promotion, you may be asked to provide personally identifiable information. By entering, you agree to all of its terms and conditions, which will be clearly stated. Where a contest or promotion is not sponsored by AG, the identity of the sponsor will be clearly disclosed in the rules. AG cannot be responsible for actions or policies of third-party contest sponsors. Users are encouraged to review the relevant privacy policy of the contest sponsor before entering.
+We may occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When we post changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of the Platforms. We may also provide notice to you in other ways in our discretion, such as through contact information you have provided. Any changes will be effective immediately upon the posting of the revised Privacy Policy; however, we will not make material retroactive changes to how we use your Personal Information unless you consent to the new or revised policy or generally to such uses. 
 
-  5. **If You Send An E-card (as a non-Member)**
+As always, if you have any questions, please feel free to contact us through our Customer Support Department. 
 
-We may use your e-mail address to contact you after you send an e-card if you have opted-in to receive such communications. You can opt out by following the instructions under Opt-Out/Changing Your Status below.
+Back to top
+  4. ###  Consent to Transfer 
 
-  6. **Information Sharing Between Affiliates**
+If you are located outside of the United States, please be aware that information we collect through the Platforms will be transferred to and processed in the United States. By using the Platforms or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen. 
 
-AmericanGreetings.com is a member of the American Greetings family. This means it is an Affiliate of American Greetings and its subsidiaries, including but not limited to Egreetings.com, BlueMountain.com, Cardstore.com, and Recycled Paper Greetings, among others. We reserve the right to share your personally identifiable information, including your email, postal address, phone number and purchase history, with our Affiliates. We may share your personally identifiable information with Affiliates in order to conduct promotions, offer special premiums, and share databases and equipment. We will not share your credit card information or other payment information with anyone, including Affiliates, without your express permission. We reserve the right to share your information with other companies that become Affiliates of AG.
+Back to top
+  5. ###  Contacting Us & Resolution of Complaints 
 
+If you have any questions, please feel free to review our FAQ or contact us through our Customer Support Department. 
 
+In compliance with the US-EU and US-Swiss Safe Harbor Privacy Framework Principles (see the US Department of Commerce website at http://export.gov/safeharbor), AG commits to resolve complaints about your privacy and our collection or use of your personal information. If you are concerned about our use of your personal information, please contact us at help@americangreetings.com with "Personal Information" in the subject line, or call us at 800-711-4474 between 9am and 5pm Eastern Standard Time. 
 
+AG has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Privacy Frameworks to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if AG does not satisfactorily address your complaint, please visit the BBB EU Safe Harbor Website at www.bbb.org/us/european-dispute-resolution/consumer/ for more information and to file a complaint. 
 
-### B. From Members, Registered Users, and Users of our Mobile Applications
+Back to top
+  6. ###  California Residents — Your California Privacy Rights 
 
-  1. **Communications From AG**
+Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information relating to third parties to which the company has disclosed certain categories of Personal Information during the preceding year for the third parties’ direct marketing purposes. Alternatively, the law provides that a company may comply, as we do, by disclosing in its privacy policy that it provides consumers choice (opt-out or opt-in) regarding sharing Personal Information with third parties for those third parties’ direct marketing purposes, and information on how to exercise that choice. As stated above in this Privacy Policy, we provide you choice prior to sharing your Personal Information with third parties for their direct marketing purposes. If you do not opt-in or if you do not choose to opt-out at the time we offer that choice, we do not share your Personal Information with that identified third party for its direct marketing purposes. 
 
-We send our exclusive AG Newsletter to all of our Members and Register Users. The Newsletter alerts you to new features, content, and services, premiums available on our site. From time to time, we may also send you invitations to enhance your AG membership, offers for new products and services from AG, special "Member's Only" premiums, or special offers from our affiliates and our sponsors. We do not share your personally identifiable information with any third parties in connection with the Newsletter.
+If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: help@americangreetings.com or write to us at the following mailing address: AG Customer Support, AG Interactive, Inc., One American Road, Cleveland, Ohio 44144. You must put the statement “Your California Privacy Rights” in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. 
 
-You can always decline the Newsletter by un-checking the opt-in box on the My Account page on our site. If you are already receiving the Newsletter and you want to unsubscribe, simply follow the "unsubscribe" link at the bottom of each edition. For other ways to unsubscribe, see Opt-Out/Changing Your Status, below.
+Back to top
 
-  2. **Communications From Our Business Partners**
 
-If you have opted-in, we may offer you money-saving coupons, discounts, and promotions from our Business Partners. These communications may come from AG or directly from the Business Partners themselves. If you have opted-in to these communications, we may also share with our Business Partners certain demographic, geographic, preference, and other personally identifiable information we have gathered about you. This will help them in directing offers that are more likely to be of interest to you.
-
-These communications are done strictly on an opt-in basis. In order to receive the offers, you must affirmatively check the clearly marked box on your My Account page. To access this page, use the "My AG" link to navigate to the "My Account- Change Personal Information" page. If you do sign up for the program but later change your mind, you may opt-out at any time by following the procedures outlined in Opt-Out/Changing Your Status, below.
-
-  3. **Mandatory Communications**
-
-AG reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters that affect your use of our services, including, without limitation, any alleged violations of our [Terms of Service](http://www.americangreetings.com/legal.pd). These communications are mandatory.
-
-  4. **Third Party Information Sharing**
-
-Generally, we do not share your information with third parties without your prior consent. We do reserve the right to share your information with third-party companies we may use to offer premiums, maintain subscriptions, and perform other service functions for us. We do not share equipment or databases with these companies and will not share your credit card information with them without your express permission. Additionally, any company we use for these reasons will not share, sell, or distribute your information, or otherwise use your information except to provide us services.
-
-  5. **Order Fulfillment**
-
-From time to time, we may offer you the opportunity to order products and services directly on the AG site, the Newsletters, or in other communications you may receive from AG. These orders are typically fulfilled directly by our Business Partners. To process your order, we may provide these Business Partners with your name, street address, e-mail address, phone number, and credit card information. We will limit the types of information shared to the minimum necessary to efficiently process your order. However, by ordering the products or services, you become a customer of the Business Partner and therefore subject to its privacy policy. We will alert you whenever a Business Partner will be fulfilling an order for products or services ordered on our site. We encourage you to review these companies' privacy policies and only do business with those with which you are comfortable.
-
-
-
-
-### C. Disclosure Exceptions
-
-We reserve the right to disclose your personal information to appropriate third parties if we are required to do so by law or we believe that such action is necessary:
-
-  * To comply with legal process such as a search warrant, subpoena or court order;
-  * To protect the company's rights and property;
-  * To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;
-  * To protect against misuse or unauthorized use of our website, products, or services; or
-  * During emergencies, such as when we believe someone's physical safety is at risk.
-
-
-
-Your IP address can be accessed by e-card recipients in the header of the notification e-mail we send for each e-card. Under certain circumstances, recipients, their legal representatives, or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication. By using this service, you knowingly and voluntarily assume any risks associated with such disclosure.
-
-## IV. Your Control Over Your Information
-
-### A. Information We Have About You
-
-You may request information about what information we have about you by contacting our [Customer Support Department](http://www.americangreetings.com/help/help_email.pd?Category=Security%20and%20Privacy&SubCat=Privacy%20Policy&QuestionID=223&ResponseID=0).
-
-### B. Opt-Out/Changing Your Status
-
-At any time, you can change choices you have previously made about the use of your personal information. Except for mandatory communications, every communication we send you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to [nomail@privacy.americangreetings.com](mailto:nomail@privacy.americangreetings.com) and type "unsubscribe" in the subject field. This system is automated and must be contacted from the email address you wish to have removed from our mailing lists. Permission changes will be honored as soon as possible after receipt. Please allow five to seven days for processing. Permission changes will not affect any information that you provided to us and that we previously shared with our Business Partners.
-
-### C. Editing Your Profile
-
-If you are a Member or a Registered User, you have the ability to review and correct your personally identifiable information at any time. Simply click on the "My AG" link at the top of the every page to the "My Account" page. There, you can change your address information, e-mail type, sign-in, and e-mail permissions. You can revise, add, delete, or completely cancel all Reminder alerts by navigating to the Reminders "my preferences" section from the "Reminders" link found at the top of each page.
-
-### D. Editing Your Information
-
-If you are a Member or Registered User, you may edit your information by signing in to your account and clicking on "My. Ag.com." From there, click on My Account.
-
-### E. Resolve Issues
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, AG commits to resolve complaints about your privacy and our collection or use of your personal information. If you are concerned about our use of your personal information, please contact us at [help@americangreetings.com](mailto:help@americangreetings.com?subject=personal%20information) with "personal information" in the subject line, or call us at 800-711-4474 between 9am and 5pm eastern standard time.
-
-AG has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe harbor Principles to an independent dispute resolution mechanism the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by AG, please visit the BBB EU Safe Harbor Website at [www.bbb.org/us/european-dispute-resolution/consumer/](http://www.bbb.org/us/european-dispute-resolution/consumer/) for more information and to file a complaint.
-
-## V. OTHER MATTERS
-
-### A. Protection For Children - COPPA Compliance
-
-We are committed to protecting the privacy and rights of children online. To that end, we do not collect any personally identifiable information from users whom we know are under the age of 13. Our registration process blocks the registration of users under 13 years old and will automatically delete all personally identifiable information collected from such users.
-
-### B. Sale of Assets
-
-In the event that AG or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained in them, to a third-party acquiring AG's assets. In the event we do so, we will place a prominent notice of the sale on the homepage of our site, with links to information about how you can change your privacy preferences.
-
-### C. Data Security
-
-When you place orders or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears at the bottom of your web browser.
-
-In addition to our online security efforts, we take steps to protect your personal data offline as well. All of your information, not just your personally identifiable information, is restricted in our offices. Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer support representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices. We also comply with the Payment Card Industry Data Security Standards for safeguarding and handling your payment information. These standards are set by Visa and dictate levels of network and physical security that must be met in order for us to be allowed to process credit cards.
-
-Our main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, 24x7 secured access, and video camera surveillance and security breach alarms.
-
-Unfortunately, the transmission of information via the Internet or over mobile networks is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to the Application or over mobile networks; any transmission is at your own risk. Once we have received your personal information, we will use strict procedures and security features to try to prevent unauthorized access.
-
-### D. Changes to the Privacy Policy
-
-We will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When we post changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of AG Sites. If there are material changes to this Policy or in how AG uses your personally identifiable information, AG will prominently post such changes prior to implementing the change. AG encourages you to periodically review this Policy to understand how we are protecting your information.
-
-As always, if you have any questions, please feel free to [review our FAQ](http://www.americangreetings.com/help/index.pd) or contact us through our [Customer Support Department](http://www.americangreetings.com/help/help_email.pd?Category=Security%20and%20Privacy&SubCat=Privacy%20Policy&QuestionID=223&ResponseID=0).
