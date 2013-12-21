@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpaarmy.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018004639id_/http%3A//www.cpaarmy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaarmy.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221213823id_/http%3A//www.cpaarmy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 **CPAARMY.COM Website Privacy Statement**
 
@@ -8,7 +8,7 @@ This document was last updated on August 23, 2010.
 
 1\. Acknowledgment and acceptance of terms
 
-CPAARMY.COM is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing CPAARMY.COM, you acknowledge and fully understand CPAARMY.COM’S Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+CPAARMY.COM is committed to protecting your privacy. This Privacy Policy sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing CPAARMY.COM, you acknowledge and fully understand CPAARMY.COM’S Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 2\. Participating Merchant Policies
 
@@ -73,4 +73,4 @@ CPAARMY.COM has the discretion to occasionally update this privacy statement. Wh
 
 7\. Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at: admin@cpaarmy.com 
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at: admin@cpaarmy.com
