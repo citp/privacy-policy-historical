@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bacchat.com privacy policy that was archived on 2013-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130220151909id_/http%3A//bacchat.com/BacchatLive/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bacchat.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221032705id_/https%3A//www.bacchat.com/bacchatlive/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Bacchat.com : Privacy Policy
+# Online Recharge - Prepaid Mobile, DTH, Data Card, PCO, Toll & Airtel Money Recharge
 
 * * *
 
