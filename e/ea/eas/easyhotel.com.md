@@ -1,30 +1,12 @@
-> *The following text is extracted and transformed from the easyhotel.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116032008id_/http%3A//www.easyhotel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyhotel.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222155943id_/http%3A//www.easyhotel.com/privacy.html) for the most accurate reproduction.*
 
 # easyHotel - Privacy
-
-**Warning** : Call-time pass-by-reference has been deprecated in **/home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php** on line **106**
-
-**Warning** : Call-time pass-by-reference has been deprecated in **/home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php** on line **108**
-
-**Warning** : Call-time pass-by-reference has been deprecated in **/home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php** on line **122**
-
-**Warning** : Call-time pass-by-reference has been deprecated in **/home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php** on line **124**
-
-**Warning** : Call-time pass-by-reference has been deprecated in **/home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php** on line **126**
-
-**Warning** : Call-time pass-by-reference has been deprecated in **/home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php** on line **521**
-
-**Warning** : Call-time pass-by-reference has been deprecated in **/home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php** on line **522**
-
-**Warning** : Cannot modify header information - headers already sent by (output started at /home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php:104) in **/home/content/57/9984157/html/easyhotel.com/typo3/sysext/cms/tslib/class.tslib_fe.php** on line **3229**
-
-**Warning** : Cannot modify header information - headers already sent by (output started at /home/content/57/9984157/html/easyhotel.com/typo3conf/ext/sourceopt/pi1/class.tx_sourceopt_pi1.php:104) in **/home/content/57/9984157/html/easyhotel.com/typo3/sysext/cms/tslib/class.tslib_fe.php** on line **3242**
 
 **"HOW   WE USE YOUR INFORMATION"**
 
 **GENERAL**
 
-easyHotel Limited has provided the following information in order to demonstrate our firm commitment to privacy. The following details outline our information gathering and disclosure practices for the website www.easyHotel.com.  For your information, we operate this website and deal with the administration regarding your booking and payments.  Your booking  (and therefore your contract) will actually be with the individual operator of the hotel (â€œthe Operatorâ€), which is an independent trading company separate from us, as explained in their Terms & Conditions Terms and Conditions  
+easyHotel Limited has provided the following information in order to demonstrate our firm commitment to privacy. The following details outline our information gathering and disclosure practices for the website www.easyHotel.com.  For your information, we operate this website and deal with the administration regarding your booking and payments.  Your booking  (and therefore your contract) will actually be with the individual operator of the hotel (“the Operator”), which is an independent trading company separate from us, as explained in their Terms & Conditions Terms and Conditions  
 For the purposes of the Data Protection Act 1998, the controller of all information collected on this website is:
 
 The Data Controller  
@@ -131,7 +113,7 @@ If we are under a duty to disclose or share your personal data in order to compl
 
 **Access to Information**
 
-The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee of Â£10 to meet our costs in providing you with details of the information we hold about you.
+The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
   
 **  
