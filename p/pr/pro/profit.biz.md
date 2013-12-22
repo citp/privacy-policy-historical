@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profit.biz privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618111942id_/http%3A//www.profit.biz/Static/PP.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profit.biz privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222115450id_/http%3A//www.profit.biz/Static/PP.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Profit.biz
 
@@ -14,11 +14,11 @@ This policy covers how we treat personal information collected and received, inc
   4. Finally, we never use or share the personally identifiable information provided to us online, in ways or for reasons unrelated to the ones described above.
   5. We reserve the right to send you certain communications relating to our services or sponsored advertisements, such as service announcements, administrative messages and the Newsletter, that are considered part of your registered account, with an option for you to stop receiving them.
   6. We have physical, electronic, and procedural safeguards to protect personal information about you and your account Information is password-protected. 
-  7. The personal information is collected and retained by **Guava Softs Pvt Ltd, 2nd Floor, Sohal Palace, The Mall, Ludhiana (Punjab), India**. 
+  7. The personal information is collected and retained by **Profit Advisory Services, 2nd Floor, Sohal Palace, The Mall, Ludhiana (Punjab), India**. 
   8. We may update this policy from time to time. We may notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your website's registered account or by placing a notice on our site for a reasonable period of time.
 
   
-Guava Softs Pvt Ltd,  
+Profit Advisory Services,  
 2nd Floor, Sohal Palace,  
 The Mall, Ludhiana (Punjab),  
 India
