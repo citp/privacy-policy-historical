@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621013822id_/http%3A//about.ljhooker.com.au/privacy-policy%3Fsid%3Drsl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222022723id_/http%3A//about.ljhooker.com.au/privacy-policy%3Fsid%3Drsl) for the most accurate reproduction.*
 
 # Privacy Policy - about.ljhooker.com.au
 
