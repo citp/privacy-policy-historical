@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624024507id_/http%3A//www.propertywide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertywide.co.uk privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153303id_/http%3A//www.propertywide.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Propertywide.co.uk
 
@@ -31,7 +31,7 @@ In addition to this we also reserve the right to record information concerning h
 
 The information we collect will be used to enhance our offering in order to provide you with a more personalised and effective experience. We may contact you from time to time to inform you of important developments with regard to Propertywide.co.uk. Additionally if you have provided your consent we may also contact you to let you know about any services or promotions we think may be of interest to you.
 
-You have a right to access the information that we hold about you. To obtain a copy of this information, you should email [enquiries@propertywide.co.uk](mailto:enquiries@propertywide.co.uk "Contact Propertywide.co.uk").
+You have a right to access the information that we hold about you. From time to time our calls may be recorded for training and quality purposes. To obtain a copy of this information, you should email [enquiries@propertywide.co.uk](mailto:enquiries@propertywide.co.uk "Contact Propertywide.co.uk").
 
 Contacting us about our properties or services
     
