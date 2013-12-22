@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatepunisher.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601115118id_/http%3A//affiliatepunisher.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatepunisher.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222154511id_/http%3A//affiliatepunisher.com/privacy.html) for the most accurate reproduction.*
 
 # Affiliate Punisher - Earnings Income Disclaimer
 
