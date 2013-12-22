@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetville.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617050432id_/http%3A//meetville.com/dating/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetville.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095058id_/http%3A//meetville.com/dating/policy) for the most accurate reproduction.*
 
 # Meetville | Privacy | The Leading Online Dating Site for Singles & Personals
 
