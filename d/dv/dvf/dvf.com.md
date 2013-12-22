@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508162848id_/http%3A//www.dvf.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222014417id_/http%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DVF | Privacy Policy
 
@@ -8,7 +8,7 @@ This privacy policy (this "Privacy Policy") in intended to inform you about how 
 
 ### How does the Website work?
 
-The Website enables anonymous visitors to the Website ("Visitors") to browse the Website, and Visitors who register with the Website ("Registrants") as described in DvF's terms of use agreement located at <http://www.dvf.com/Terms-of-Use/terms-of-use,default,pg.html> (the "Terms of Use") to purchase products through the Website. The terms "you", ""your" and "yours" when used herein refer to either Registrants or Visitors or to both Registrants and Visitors collectively, as applicable, provided, that such terms will refer collectively to both Registrants and Visitors unless the context of this Privacy Policy indicates otherwise.
+The Website enables anonymous visitors to the Website ("Visitors") to browse the Website, and Visitors who register with the Website ("Registrants") as described in DvF's terms of use agreement located at <http://www.dvf.com/terms-of-use.html> (the "Terms of Use") to purchase products through the Website. The terms "you", ""your" and "yours" when used herein refer to either Registrants or Visitors or to both Registrants and Visitors collectively, as applicable, provided, that such terms will refer collectively to both Registrants and Visitors unless the context of this Privacy Policy indicates otherwise.
 
 By using the Website, you consent to the collection and use of your PII and other information by DvF as described in the Privacy Policy.
 
