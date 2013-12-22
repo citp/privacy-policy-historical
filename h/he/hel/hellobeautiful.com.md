@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellobeautiful.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607023134id_/http%3A//hellobeautiful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobeautiful.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222013855id_/http%3A//hellobeautiful.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Celebrity News & Style for Black Women
+# Privacy | HelloBeautiful
 
 **_Last revised November 11, 2011_**
 
