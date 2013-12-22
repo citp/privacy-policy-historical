@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fresnobee.com privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624114729id_/http%3A//www.fresnobee.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fresnobee.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222065850id_/http%3A//www.fresnobee.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 
@@ -23,9 +23,24 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A124226984586418%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AFresno%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20130624114729id_%2Fhttp%3A%2F%2Fwww.fresnobee.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A77109647415715%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3AFresno%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20131222065850id_%2Fhttp%253A%2F%2Fwww.fresnobee.com%2Fprivacy_policy%2523navlink%253Dmi_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/ffe732ca46edcdd89f9176537e44063b-min.css" media="screen" rel="stylesheet" type="text/css">
+
+
+<link rel="apple-touch-icon" href="http://media.fresnobee.com/mistatic/images/icons/FresnoBee.png">
+
+<style type="text/css">
+@font-face {
+    font-family: 'roboto_condensedregular';
+    src: url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.eot');
+    src: url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.woff') format('woff'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.ttf') format('truetype'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.svg#roboto_condensedregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+</style><link href="/mistatic/cache/stylesheets/6836169d98f7b837e46a662c5ad358ca-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.fresnobee.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
@@ -76,6 +91,24 @@
 	*/
 	miAppControler.prototype.paywall = 1;
 
+        /* Yahoo CTXT ads
+         0 = disable
+         1 = enable for preview & live
+         2 = enable for preview only
+        */
+
+        miAppControler.prototype.yahooctxt = 1;
+
+        /* Google AdSense ads
+         0 = disable
+         1 = enable for preview and live
+         2 = enable for preview only
+         3 = present on preview and live with display hidden
+        */
+
+        miAppControler.prototype.googleadsense = 0;
+
+
 
 
         var pageInfo = {'version':1.0};
@@ -91,52 +124,89 @@
 
 <script type="text/javascript">
 var auth_cookie_name = "fresnobee_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/911ec54b9e3b1a6cc25df67426736bd8-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/77b100d83d3d93db6eac87110aaec079-min.js"></script>
+
 
 
 <script type="text/javascript" src="http://media.fresnobee.com/mistats/mianalytics.js"></script>
 
-<script type="text/javascript" src="http://media.fresnobee.com/static/scripts/sectionfront.js"></script>
+<script type="text/javascript">
+/**
+ * @fileOverview
+ * This is the configuration file for the affiliate. Making changes to this file could result in
+ * breaking your search. If you have any questions please submit a ticket via the Support Portal.
+ *
+ * When hyphens (-) are used in URL query params, the string "_mihyphen_" is used in place of an
+ * actual hyphen (-) in the object property names below. Hyphens can't be used in object property
+ * names.
+ *
+ *
+ *
+ * @minify true
+ * @author Jamison Kirk (jkirk [at] mcclatchyinteractive.com)
+ */
+
+
+mi.Search.prototype.searchParamConfig = function(search_type, search_text) {
+
+        this.setConf("searchSelectorType","");
+        this.setConf("defaultSearchType","site_search");
+
+        this.setConf("mi_search_dropdown_keys",$("form#search_widget_form div.arrow, form#search_widget_form ul, form#search_widget_form div.icon, form#search_widget_form input#search_keywords"));
+        this.setConf("mi_search_drop_down",$("form#search_widget_form ul"));
+        this.setConf("mi_search_drop_down_link",$("form#search_widget_form ul.search_widget_choice li a"));
+        this.setConf("mi_search_dropdown_input",$("#search_keywords"));
+        this.setConf("mi_search_widget_icon",$("#search_widget_form div.icon img"));
+        this.setConf("mi_search_selected",$("#search_widget_choice li"));
+
+        this.setConf("mi_search_drop_down_web_search_item",$("#search_widget_web_search_choice"));
+        this.setConf("yahoo_credit",$("p.yahoo_credit"));
+        
+
+        if (search_type) {
+                switch (search_type) {
+                        case "site_search":
+                                this.setConf("form_action","http://www.fresnobee.com/search_results");
+                        break;
+                        
+                        case "web_search":
+                                this.setConf("form_action","http://www.fresnobee.com/web_search");
+                        break;
+                        
+                        case "archives":
+                                this.setConf("form_action","http://www.newslibrary.com/nlsearch.asp?");
+                                this.setConf("query_fields",{search_mode:"all",
+                                                                date_mode:"year",
+                                                                year:"last+180+days",
+                                                                sort:"d%3Ah",
+                                                                nitems:"10",
+                                                                region:"FB",
+                                                                dbquery:search_text,
+                                                                collection:"ARCHIVES"}
+                                                );
+                        break;
+                        
+                        default:
+                                this.configErrorReporter();
+                }
+        }
+};
+</script>
+
 <script type="text/javascript">
     if (typeof(mi.Search) !== 'undefined') {
         mi.search = new mi.Search();
     }
 </script>
 
-<script type="text/javascript">
-    mi.commenting = new mi.Commenting();
-    
-    mi.commenting.setConf( "accountName", "fresnobee" );
-    
-    
-    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
-    if(disqus2012cookie.load()){
-            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
-    }
-    
-    
-    
-</script>
+        <script type="text/javascript">
+            mi.commenting = new mi.Commenting();
+            mi.commenting.setConf( {
+                accountName: "FresnoBee",
+                fbapp_id:    "157169821150769"
+            });
+        </script>
 
-<!--[if lte IE 7]>
-<script type="text/javascript">
-$(document).ready(function() {
-    // Dynamic padding for navigation
-    var parent_container = $('nav.primary div');
-    var target_elements = $('nav.primary div a');
-    var remainder_element = $('nav.primary div ul#analytics_based li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-
-    // Dynamic padding for sub-navigation
-    var parent_container = $('#sub_nav');
-    var target_elements = $('#sub_nav > ul li a');
-    var remainder_element = $('#sub_nav > ul li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-});
-</script>
-<![endif]-->
 
 <script type="text/javascript">
   var googletag = googletag || {};
@@ -168,27 +238,27 @@ $(document).ready(function() {
 </script> 
 <script>
   googletag.cmd.push(function() {
-      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [960,30], "div-gpt-ad-589767522733297-1")
+      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [960,30], "div-gpt-ad-14789174349264.3-1")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [150,25], "div-gpt-ad-589767522733297-2")
+      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [150,25], "div-gpt-ad-14789174349264.3-2")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [100,25], "div-gpt-ad-589767522733297-3")
+      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [100,25], "div-gpt-ad-14789174349264.3-3")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [300,250], "div-gpt-ad-589767522733297-4")
+      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [300,250], "div-gpt-ad-14789174349264.3-4")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [300,100], "div-gpt-ad-589767522733297-5")
+      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [300,100], "div-gpt-ad-14789174349264.3-5")
         .setTargeting("pos", "1")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [300,250], "div-gpt-ad-589767522733297-6")
+      googletag.defineSlot("/7675/FRS.site_fresnobee/Online/SiteInformation", [300,250], "div-gpt-ad-14789174349264.3-6")
         .setTargeting("pos", "2")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
@@ -233,9 +303,8 @@ mistats.channel='Privacy Policy';
 <body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
         <div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=24869650372412.6?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=24869650372412.6?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=24869650372412.6?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-589767522733297-1">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-589767522733297-1'); });</script>
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><div id="div-gpt-ad-14789174349264.3-1">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-14789174349264.3-1'); });</script>
 </div>        </div>
 </div>
 
@@ -254,7 +323,14 @@ mistats.channel='Privacy Policy';
             <li class="jobs"><a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?lr=cbmc_fb#navlink=navbar">Jobs</a></li>
             <li class="cars"><a href="/cars/#navlink=navbar">Cars</a></li>
             <li class="homes"><a href="/homes/#navlink=navbar">Homes</a></li>
-            <li class="apartments"><a href="http://www.apartments.com/partner/Community.aspx?p=fresnobee&amp;Area4=Y&amp;page=SubArea&amp;state=CA&amp;rgn1=22&amp;partner=fresnobee&amp;prvpg=3#navlink=navbar">Apartments</a></li><li class="legals"><a href="http://www.legalnotice.org/pl/fresnobee/landing1.aspx#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="/placead/#navlink=navbar">Place an ad</a></li>
+            <li class="apartments"><a href="http://www.apartments.com/partner/Community.aspx?p=fresnobee&amp;Area4=Y&amp;page=SubArea&amp;state=CA&amp;rgn1=22&amp;partner=fresnobee&amp;prvpg=3#navlink=navbar">Apartments</a></li><li class="legals"><a href="http://www.legalnotice.org/pl/fresnobee/landing1.aspx#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="/placead/#navlink=navbar">Place an Ad</a>                        <ul class="place_ad_links">
+                            <li><a href="/placead/#navlink=subnav">Classifieds</a></li>
+                            <li><a href="http://fresnobee.adperfect.com/?catid=4342#navlink=subnav">Jobs</a></li>
+                            <li><a href="http://fresnobee.adperfect.com/?catid=4382#navlink=subnav">Cars</a></li>
+                            <li><a href="http://fresnobee.adperfect.com/?catid=4331#navlink=subnav">Homes</a></li>
+                            <li><a href="http://fresnobee.adperfect.com/?catid=4341#navlink=subnav">Apartments</a></li>
+                            <li><a href="/placead/#navlink=subnav">Other</a></li>
+                        </ul>            </li>
         </ul>
         
         <div id="weather">
@@ -262,18 +338,17 @@ mistats.channel='Privacy Policy';
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Cloudy" src="http://media.fresnobee.com/mistatic/images/weather/icons/07.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Clear" src="http://media.fresnobee.com/mistatic/images/weather/icons/33.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">69°</div>
+                <div id="weather_curr_temp" class="current_temp">42°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
         </div><!-- #weather -->
             <div class="weather_sponsor" id="dart_150x25_weather_1">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=24869650372412.6?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=24869650372412.6?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=24869650372412.6?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-589767522733297-2">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-589767522733297-2'); });</script>
+        <div id="div-gpt-ad-14789174349264.3-2">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-14789174349264.3-2'); });</script>
 </div>
             </div>
     </div><!-- end mast_top -->
@@ -290,9 +365,9 @@ mistats.channel='Privacy Policy';
         
         <div id="nonmember" class="signin">
             <ul id="services_nav">
-                <li class="first"><a id="digital_subscriptions" href="/plus">Subscriptions</a></li>
-                <li><a href="/report_news/">Report News</a></li>
-                <li class="last"><a href="/customer-service/">Customer Service</a></li>
+                <li class="first"><a id="digital_subscriptions" href="/plus/#navlink=navbar">Subscriptions</a></li>
+                <li><a href="/report_news/#navlink=navbar">Report News</a></li>
+                <li class="last"><a href="/customer-service/#navlink=navbar">Customer Service</a></li>
             </ul>
         </div>
                 
@@ -310,6 +385,7 @@ mistats.channel='Privacy Policy';
                         </a>
                     </li>
                     
+                    
                     <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.fresnobee.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
@@ -324,7 +400,9 @@ mistats.channel='Privacy Policy';
                 </ul>
             <div class="clear"></div>
             </form>
+            
             <p class="yahoo_credit">Web Search powered by <b><span class="yahoo_text">YAHOO!</span> SEARCH</b></p>
+            
             <script type="text/javascript">
                     if (typeof(mi.search) !== "undefined" || typeof(mi.search.setUp) !== "function") {
                         mi.search.setUp();
@@ -347,26 +425,25 @@ mistats.channel='Privacy Policy';
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=24869650372412.6?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=24869650372412.6?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=24869650372412.6?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-589767522733297-3">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-589767522733297-3'); });</script>
+        <div id="div-gpt-ad-14789174349264.3-3">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-14789174349264.3-3'); });</script>
 </div>
         </li>
         <li><a href="/#navlink=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
                                             <ul class="subnav">
-                                                        <li><a href="/local-news/#navlink=subnav" title="">Local</a></li>                                <li><a href="/death-notices/#navlink=subnav" title="">Death Notices</a></li>                                <li><a href="http://www.legacy.com/obituaries/fresnobee/#navlink=subnav" title="">Obituaries</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/weather/#navlink=subnav" title="">Weather</a></li>                                <li><a href="/state-news/#navlink=subnav" title="">California</a></li>                                <li><a href="/local-columns/#navlink=subnav" title="">Columnists</a></li>                                <li><a href="/education-news/#navlink=subnav" title="">Education</a></li>                                <li><a href="/political-news/#navlink=subnav" title="">Politics</a></li>                                <li><a href="http://news.fresnobeehive.com/#navlink=subnav" title="">Newsroom Blog</a></li>                                <li><a href="/databases/#navlink=subnav" title="">Databases</a></li>                                <li><a href="/special-projects/#navlink=subnav" title="">Special Projects</a></li>                                <li><a href="/nation-news/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/world-news/#navlink=subnav" title="">World</a></li>                                <li><a href="/photos-videos/#navlink=subnav" title="">Photos</a></li>                                <li><a href="/news-videos/#navlink=subnav" title="">Videos</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
+                                                        <li><a href="/local-news/#navlink=subnav" title="">Local</a></li>                                <li><a href="/death-notices/#navlink=subnav" title="">Death Notices</a></li>                                <li><a href="http://www.legacy.com/obituaries/fresnobee/#navlink=subnav" title="">Obituaries</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/blogs/#navlink=subnav" title="">Blogs</a></li>                                <li><a href="/weather/#navlink=subnav" title="">Weather</a></li>                                <li><a href="/state-news/#navlink=subnav" title="">California</a></li>                                <li><a href="/local-columns/#navlink=subnav" title="">Columnists</a></li>                                <li><a href="/education-news/#navlink=subnav" title="">Education</a></li>                                <li><a href="/political-news/#navlink=subnav" title="">Politics</a></li>                                <li><a href="/weird-news/#navlink=subnav" title="">Weird</a></li>                                <li><a href="/databases/#navlink=subnav" title="">Databases</a></li>                                <li><a href="/special-projects/#navlink=subnav" title="">Special Projects</a></li>                                <li><a href="/nation-news/#navlink=subnav" title="">Nation</a></li>                                <li><a href="/world-news/#navlink=subnav" title="">World</a></li>                                <li><a href="/photos-videos/#navlink=subnav" title="">Photos</a></li>                                <li><a href="/news-videos/#navlink=subnav" title="">Videos</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
                                             <ul class="subnav">
-                                                        <li><a href="/high-school-sports/#navlink=subnav" title="">High Schools</a></li>                                <li><a href="/andy-boogaard/#navlink=subnav" title="">Andy Boogaard</a></li>                                <li><a href="http://sports.fresnobeehive.com/#navlink=subnav" title="">Sports Buzz Blog</a></li>                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="/warzone/#navlink=subnav" title="">WarZone</a></li>                                <li><a href="/fresno-grizzlies/#navlink=subnav" title="">Grizzlies</a></li>                                <li><a href="/mlb-pro-baseball/#navlink=subnav" title="">MLB</a></li>                                <li><a href="/nfl-pro-football/#navlink=subnav" title="">NFL</a></li>                                <li><a href="/nba-pro-basketball/#navlink=subnav" title="">NBA</a></li>                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>                                <li><a href="/college-sports/#navlink=subnav" title="">College</a></li>                                <li><a href="/auto-racing/#navlink=subnav" title="">Auto Racing</a></li>                                <li><a href="/sports-photos/#navlink=subnav" title="">Photos</a></li>                                <li><a href="/sports-videos/#navlink=subnav" title="">Videos</a></li>                        </ul>                </li>                <li><a href="/fresno-state-bulldogs/#navlink=navbar" title="Fresno State Bulldogs">Fresno State Bulldogs</a>
+                                                        <li><a href="/marek-warszawski/#navlink=subnav" title="">Marek Warszawski</a></li>                                <li><a href="/high-school-sports/#navlink=subnav" title="">High Schools</a></li>                                <li><a href="/andy-boogaard/#navlink=subnav" title="">Andy Boogaard</a></li>                                <li><a href="/outdoors/#navlink=subnav" title="">Outdoors</a></li>                                <li><a href="/david-white/#navlink=subnav" title="">David White</a></li>                                <li><a href="/mlb-pro-baseball/#navlink=subnav" title="">MLB</a></li>                                <li><a href="/nfl-pro-football/#navlink=subnav" title="">NFL</a></li>                                <li><a href="/nba-pro-basketball/#navlink=subnav" title="">NBA</a></li>                                <li><a href="/golf/#navlink=subnav" title="">Golf</a></li>                                <li><a href="/college-sports/#navlink=subnav" title="">College</a></li>                                <li><a href="/auto-racing/#navlink=subnav" title="">Auto Racing</a></li>                                <li><a href="/sports-photos/#navlink=subnav" title="">Photos</a></li>                                <li><a href="/sports-videos/#navlink=subnav" title="">Videos</a></li>                        </ul>                </li>                <li><a href="/fresno-state-bulldogs/#navlink=navbar" title="Fresno State Bulldogs">Fresno State Bulldogs</a>
                                             <ul class="subnav">
                                                         <li><a href="/fresno-state-football/#navlink=subnav" title="">Football</a></li>                                <li><a href="/fresno-state-basketball/#navlink=subnav" title="">Men's Basketball</a></li>                                <li><a href="/fresno-state-womens-basketball/#navlink=subnav" title="">Women's Basketball</a></li>                                <li><a href="/fresno-state-photos/#navlink=subnav" title="">Photos &amp; Videos</a></li>                        </ul>                </li>                <li><a href="/business/#navlink=navbar" title="Business">Business</a>
                                             <ul class="subnav">
-                                                        <li><a href="/personal-finance-news/#navlink=subnav" title="">Personal Finance</a></li>                                <li><a href="/state-business-news/#navlink=subnav" title="">California</a></li>                                <li><a href="http://news.fresnobeehive.com/real-estate/#navlink=subnav" title="">Real Estate Blog</a></li>                                <li><a href="/david-pogue/#navlink=subnav" title="">David Pogue</a></li>                                <li><a href="/ron-lieber/#navlink=subnav" title="">Ron Lieber</a></li>                        </ul>                </li>                <li><a href="/living-and-entertainment/#navlink=navbar" title="Living &amp; Entertainment">Living &amp; Entertainment</a>
+                                                        <li><a href="/personal-finance-news/#navlink=subnav" title="">Personal Finance</a></li>                                <li><a href="/state-business-news/#navlink=subnav" title="">California</a></li>                                <li><a href="/real-estate-blog/#navlink=subnav" title="">Real Estate Blog</a></li>                                <li><a href="/troy-wolverton/#navlink=subnav" title="">Troy Wolverton</a></li>                                <li><a href="/ron-lieber/#navlink=subnav" title="">Ron Lieber</a></li>                        </ul>                </li>                <li><a href="/living-and-entertainment/#navlink=navbar" title="Living &amp; Entertainment">Living &amp; Entertainment</a>
                                             <ul class="subnav">
-                                                        <li><a href="http://calendar.fresnobee.com/#navlink=subnav" title="">Calendar</a></li>                                <li><a href="http://fresnobeehive.com/#navlink=subnav" title="">Beehive</a></li>                                <li><a href="/living-entertainment-columnists/#navlink=subnav" title="">Columnists</a></li>                                <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="/movie-news-reviews/#navlink=subnav" title="">Movies</a></li>                                <li><a href="/television/#navlink=subnav" title="">TV</a></li>                                <li><a href="/music/#navlink=subnav" title="">Music</a></li>                                <li><a href="/theater-arts/#navlink=subnav" title="">Theater &amp; Arts</a></li>                                <li><a href="/living/#navlink=subnav" title="">Living</a></li>                                <li><a href="/food-drink/#navlink=subnav" title="">Food &amp; Drink</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="/home-garden/#navlink=subnav" title="">Home &amp; Garden</a></li>                                <li><a href="/health/#navlink=subnav" title="">Health</a></li>                                <li><a href="/horoscopes/#navlink=subnav" title="">Horoscopes</a></li>                                <li><a href="/entertainment-photos/#navlink=subnav" title="">Photos &amp; Videos</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
+                                                        <li><a href="http://calendar.fresnobee.com/#navlink=subnav" title="">Calendar</a></li>                                <li><a href="http://fresnobeehive.com/#navlink=subnav" title="">Beehive</a></li>                                <li><a href="/living-entertainment-columnists/#navlink=subnav" title="">Columnists</a></li>                                <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="/movie-news-reviews/#navlink=subnav" title="">Movies</a></li>                                <li><a href="http://calendar.fresnobee.com/search?st=any&amp;st_select=movie&amp;swhat=&amp;swhen=this+week&amp;swhere=Fresno%2C+CA#navlink=subnav" title="">Movie Times</a></li>                                <li><a href="/television/#navlink=subnav" title="">TV</a></li>                                <li><a href="/music/#navlink=subnav" title="">Music</a></li>                                <li><a href="/theater-arts/#navlink=subnav" title="">Theater &amp; Arts</a></li>                                <li><a href="/living/#navlink=subnav" title="">Living</a></li>                                <li><a href="/food-drink/#navlink=subnav" title="">Food &amp; Drink</a></li>                                <li><a href="/holiday-food/#navlink=subnav" title="">Holiday Food</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="/home-garden/#navlink=subnav" title="">Home &amp; Garden</a></li>                                <li><a href="/health/#navlink=subnav" title="">Health</a></li>                                <li><a href="/horoscopes/#navlink=subnav" title="">Horoscopes</a></li>                                <li><a href="/entertainment-photos/#navlink=subnav" title="">Photos &amp; Videos</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
                                             <ul class="subnav">
                                                         <li><a href="/editorials/#navlink=subnav" title="">Editorials</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters</a></li>                                <li><a href="/valley-voices/#navlink=subnav" title="">Valley Voices</a></li>                                <li><a href="/victor-davis-hanson/#navlink=subnav" title="">Victor Davis Hanson</a></li>                                <li><a href="/david-mas-masumoto/#navlink=subnav" title="">David "Mas" Masumoto</a></li>                                <li><a href="/other-opinions/#navlink=subnav" title="">Other Opinions</a></li>                                <li><a href="/editorial-cartoons/#navlink=subnav" title="">Cartoons</a></li>                                <li><a href="/sw-parra-cartoons/#navlink=subnav" title="">SW Parra</a></li>                                <li><a href="/submit-letter/#navlink=subnav" title="">Submit a Letter</a></li>                        </ul>                </li>                <li><a href="http://findnsave.fresnobee.com/#navlink=navbar" title="FresnoBee.com Newspaper Ads">Local Deals</a>
                                             <ul class="subnav">
-                                                        <li><a href="http://findnsave.fresnobee.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.fresnobee.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.fresnobee.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                                <li><a href="http://findnsave.fresnobee.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                                <li><a href="http://shopping.fresnobee.com/SS/Tiles.aspx?type_current=couponpage#navlink=subnav" title="">Special Sections</a></li>                        </ul>                </li>
+                                                        <li><a href="http://findnsave.fresnobee.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.fresnobee.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.fresnobee.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                                <li><a href="/circulars#navlink=subnav" title="">Today's Circulars</a></li>                                <li><a href="http://shopping.fresnobee.com/#navlink=subnav" title="">Special Sections</a></li>                                <li><a href="/contests/#navlink=subnav" title="">Contests</a></li>                        </ul>                </li>
     </ul>
 </div>
 
@@ -496,9 +573,8 @@ mistats.channel='Privacy Policy';
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=24869650372412.6?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=24869650372412.6?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.frs00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=24869650372412.6?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-589767522733297-4">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-589767522733297-4'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><div id="div-gpt-ad-14789174349264.3-4">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-14789174349264.3-4'); });</script>
 </div>        </div>
 </div>
 
@@ -508,9 +584,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r3">
         <div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.frs00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=24869650372412.6?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.frs00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=24869650372412.6?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.frs00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=24869650372412.6?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-589767522733297-5">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-589767522733297-5'); });</script>
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><div id="div-gpt-ad-14789174349264.3-5">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-14789174349264.3-5'); });</script>
 </div>        </div>
 </div>
 
@@ -520,9 +595,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r5">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.frs00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=24869650372412.6?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.frs00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=24869650372412.6?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.frs00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=24869650372412.6?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-589767522733297-6">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-589767522733297-6'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><div id="div-gpt-ad-14789174349264.3-6">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-14789174349264.3-6'); });</script>
 </div>        </div>
 </div>
 
@@ -619,6 +693,23 @@ mistats.channel='Privacy Policy';
 </div>
 <div class="clear"></div>
 
+	
+    
+	<div id="footer_shopping_links">	    <a id="shopping_bar_cb" class="footer_shopping_link" href="http://jobs.careerbuilder.com/Default.aspx?lr=cbmc_fb&amp;siteid=mc_fb003#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/careerbuilder-footer-logo.png" alt="Fresno Jobs">
+	    </a>	    <a id="shopping_bar_cars" class="footer_shopping_link" href="/cars#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/carscom-footer-logo.png" alt="Fresno Cars for sale">
+	    </a>		    <a id="shopping_bar_homes" class="footer_shopping_link" href="/homes#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/homefinder-footer-logo.png" alt="Fresno Real Estate">
+	    </a>		    <a id="shopping_bar_apts" class="footer_shopping_link" href="/apartments#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/apartmentscom-footer-logo.png" alt="Fresno Rentals">
+	    </a>		    <a id="shopping_bar_ds" class="footer_shopping_link" href="http://fresno.dealsaver.com/#navlink=footer" target="_blank">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/dealsaver-footer-logo.png" alt="Fresno Deals">
+	    </a>		    <a id="shopping_bar_fns" class="footer_shopping_link" href="http://findnsave.fresnobee.com/#navlink=footer" target="_blank">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/findnsave-footer-logo.png" alt="Fresno Deals and Coupons">
+	    </a>	</div>
+    
+	
 	<div id="footer_text_links">
 		<p class="links">
 			
@@ -680,7 +771,7 @@ mistats.channel='Privacy Policy';
         <script language="JavaScript" type="text/javascript" src="http://media.fresnobee.com/mistats/products/pubsys.js"></script>
         <script language="JavaScript" type="text/javascript" src="http://media.fresnobee.com/mistats/finalizestats.js"></script>
         
-        <noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmfresno%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.fresnobee.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.fresnobee.com%2Fprivacy_policy%2F\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DFRS%7CFRESNOBEE%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
+        <noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmfresno%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.fresnobee.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.fresnobee.com%2Fprivacy_policy\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DFRS%7CFRESNOBEE%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
         <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 --></div>
 
 </footer>
