@@ -1,0 +1,485 @@
+<!--The following is the downloaded HTML source of the smergers.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222092007id_/http%3A//www.smergers.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <meta name="loaderio" content="loaderio-fc69433bf8c06e0eb5f3d906c4b967aa">
+        <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.1.min.js"></script><script type="text/javascript" src="//use.typekit.net/lns0onf.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>        
+        
+        <meta name="description" content="Enabling Mergers &amp; Acquisitions (M&amp;A) for Small and Medium Enterprises (SME) in India - SMERGERS is a SME focused M&amp;A Firm. We assist buyers and sellers of small to mid-sized companies. We specialize in M&amp;A, Venture Capital (VC) and Private Equity (PE) fund raising services to SMEs, family owned businesses and startups. Our services - Buy a Business, Sell a Business, Business Valuation, Information Memomrandum Preparation.">
+        
+
+        
+            <meta name="keywords" content="business for sale, businesses for sale, businesses for sale in india, sell business, sell a business, business opportunities, mergers and acquisitions, mergers and acquisitions india, sell your business, india businesses for sale, companies for sale, buy a franchise, buy a company, small business for sale, startup fund raise, business valuation, value a business, value a company, business for sale in bangalore">
+        
+
+        <title> Privacy Policy - SMERGERS </title>
+        <link rel="icon" type="image/ico" href="/static/images/favicon.ico">
+        <link rel="stylesheet" href="/static/js/chosen/chosen.css" type="text/css" media="screen" charset="utf-8">
+        <link rel="stylesheet" href="/static/css/grid.css" type="text/css" media="screen" charset="utf-8">
+        <link rel="stylesheet" href="/static/css/bootstrap.css" type="text/css" media="screen" charset="utf-8">
+        <link rel="stylesheet" href="/static/css/main.css" type="text/css" media="screen" charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/ui-lightness/jquery-ui.css">
+        <link rel="stylesheet" href="/static/css/font-awesome.min.css">
+        <!--[if IE 7]>
+          <link rel="stylesheet" href="/static/css/font-awesome-ie7.min.css">
+        <![endif]-->
+<!--         <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+        <link href="http://fonts.googleapis.com/css?family=Open Sans" rel="stylesheet" type="text/css">
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+ -->        
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+
+        <script type="text/javascript" srchttp:="" www.smergers.com="" ="="" static="" js="" jquery.multiselect.min.js"=""></script>
+        <script type="text/javascript" src="/static/js/jquery.multiselect.filter.min.js"></script>
+        <script type="text/javascript" src="/static/js/chosen/chosen.jquery.min.js"></script>
+        <script type="text/javascript" src="/static/js/jquery.tmpl.min.js"></script>
+        <script type="text/javascript" src="/static/js/jquery.typewatch.js"></script>
+        <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/static/js/bootstrap-confirmation.js"></script>
+        
+        <script type="text/javascript">
+
+            function getCookie(name) {
+                var cookieValue = null;
+                if (document.cookie && document.cookie != '') {
+                    var cookies = document.cookie.split(';');
+                    for (var i = 0; i < cookies.length; i++) {
+                        var cookie = jQuery.trim(cookies[i]);
+                        // Does this cookie string begin with the name we want?
+                        if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                            cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                            break;
+                        }
+                    }
+                }
+                return cookieValue;
+            }
+
+            $(document).ready(function(){ 
+                /*if(jQuery.browser.msie && parseFloat(jQuery.browser.version) < 9.0){
+                    var banner = $("#banner");
+                    banner.html('Online Valuation Tool is not supported on Internet Explorer 8. For best results we recommend Chrome, Firefox or Safari.');
+                    banner.show();
+                }*/
+
+                if(jQuery.browser.msie){
+                    $('[placeholder]').focus(function() {
+                        var input = $(this);
+                        if (input.val() == input.attr('placeholder')) {
+                            input.val('');
+                            input.removeClass('placeholder');
+                        }
+                    }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+                }
+
+                $(".signin").click(function(e) {          
+                    e.preventDefault();
+                    $("fieldset#signin_menu").toggle();
+                    $(".signin").toggleClass("menu-open");
+                    $('[name="login-username"]').focus();
+                });
+                
+                $("fieldset#signin_menu").mouseup(function() {
+                    return false
+                });
+
+                $(document).mouseup(function(e) {
+                    if($(e.target).parent("a.signin").length==0) {
+                        $(".signin").removeClass("menu-open");
+                        $("fieldset#signin_menu").hide();
+                    }
+                }); 
+
+
+                $(".signup").click(function(e) {          
+                    e.preventDefault();
+                    $("fieldset#signup_menu").toggle();
+                    $(".signup").toggleClass("menu-open");
+                    $('[name="reg-email"]').focus();
+                });
+                
+                $("fieldset#signup_menu").mouseup(function() {
+                    return false
+                });
+
+                $(document).mouseup(function(e) {
+                    if($(e.target).parent("a.signup").length==0) {
+                        $(".signup").removeClass("menu-open");
+                        $("fieldset#signup_menu").hide();
+                    }
+                }); 
+
+
+                $("#services-list").click(function(e) {
+                    $(".services-menu").show();
+                });
+                
+                 $(".services-menu > li").click(function(){
+                    window.location = $(this).find("a").attr("href");
+                 })
+                $(document).mouseup(function(e) {                    
+                    $(".services-menu").hide();
+                });
+
+                $("#helpSubmit").click(function(){
+                    var message = $("#help-message").val();
+                    var email = $("#help-email").val();
+                    var mobile_number = $("#help-mobile-number").val();
+                    var data = {'message': message,
+                        'email': email,
+                        'mobile_number': mobile_number,
+                        'csrfmiddlewaretoken': getCookie('csrftoken')
+                    }
+                    $("#question-post-successful").hide();
+                    $("#question-post-error").hide();
+                    $.ajax( { 
+                        url: "/ajax/help/", 
+                        type: 'post',
+                        dataType: 'json', 
+                        data : data,
+                        traditional:true,
+                        success: function(response){
+                            if(response['status'] == 'OK'){
+                                $("#question-post-successful").show();
+                                setTimeout(function(){
+                                    $("#myModal").modal('hide');
+                                }, 1500);
+                            }
+                            else {
+                                $("#question-post-error").show();
+                            }
+                            return false;
+                        }
+                    });
+                });
+
+                $("#help-button").click(function(){
+                    $("#question-post-successful").hide();
+                    $("#question-post-error").hide();
+                })
+                
+
+            }); 
+        </script>
+
+        
+        
+        
+        <!-- start Mixpanel --><script type="text/javascript">(function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.1.min.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?
+        g=a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.identify people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1})(document,window.mixpanel||[]);
+        mixpanel.init("5d9498fa973e66dafebb214d6b959455");</script><!-- end Mixpanel -->
+            
+
+            
+                <script type="text/javascript">
+                    var _gaq = _gaq || [];
+                    _gaq.push(['_setAccount', 'UA-35831000-1']);
+                    _gaq.push(['_trackPageview']);
+
+                    (function() {
+                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                    })();
+                </script>
+            
+        
+    </head>
+    <body>
+        <div class="banner" id="banner" style="display:none;">
+            
+        </div>
+        <div class="banner" id="message-banner" style="display:none;">
+            
+        </div>
+        <div class="main-content">
+            <div style="box-shadow:1px 1px 10px #DDD;">
+                <div class="container_14">
+                    <!-- Header -->
+                    <div class="header">
+                        <div class="grid_4" style="padding-top:7px;">
+                            <div style="float:left;width:57px;">
+                                <a href="/">
+                                    <img class="logo" src="/static/images/logo.png" style="width:50px;padding-right:5px;">
+                                </a>    
+                            </div>
+                            <div style="float:left;width:210px;">
+                                <a href="/">
+                                    <div style="font-size:36px;margin-top:-2px;font-weight:normal;"><span style="color:#05759D;">SME</span><span style="color:#7f7f7f;">RGERS<sup style="color:#000;font-size:9px;vertical-align:top;line-height:2;">TM</sup></span></div>
+                                    <div style="font-size:11px;margin-top:2px;padding-left:2px;color:#000;">
+                                        Enabling SME Mergers &amp; Acquisitions
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="grid_10 login-menu">
+                            
+                                
+
+                                <div id="topnav" class="topnav" style="float:right;"><a href="/accounts/login/" class="signin"><span>Login </span></a> </div>
+                                <fieldset id="signin_menu">
+                                    <form action="/login/" id="top-login-form" method="POST"> <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="r6rsRj2igeEE1qVPrlphH8dtrsV0KZug"></div>
+                                        <input type="text" name="login-username" placeholder="Email"> 
+                                        <input type="password" name="login-password" placeholder="Password">
+                                        <input class="button" value="Login" type="submit">
+                                              <input type="hidden" name="next" value="/privacy/">
+                                        <!--  <input type="submit" value="Sign in" class="login-submit button"/>
+                                               
+                                                <input type="hidden" name="next" value="/privacy/"/>
+                                               -->
+                                             
+                                        <input type="hidden" name="login" value="login">
+                                        <p class="forgot"> 
+                                            <a href="/accounts/password/reset/" id="resend_password_link">Forgot Password?</a>
+                                            <a href="/login/">Register for Free</a>
+                                        </p>
+                                        <br>
+                                        <a href="/login/google?next=/privacy/"><img height="38px;" src="/static/images/google-sign-in.png" style="vertical-align:middle;margin-top:-5px;padding-left:10px;"></a>
+                                    </form>
+                                </fieldset>
+
+                                <div id="topnav" class="topnav" style="float:right;"><a href="/accounts/login/" class="signup"><span>Register  </span></a> </div>
+                                <fieldset id="signup_menu">
+                                    <form action="/login/" id="top-login-form" method="POST"> <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="r6rsRj2igeEE1qVPrlphH8dtrsV0KZug"></div>
+                                        <input type="text" name="reg-email" placeholder="Email"> 
+                                        <input type="password" name="reg-password1" placeholder="Enter Password">                                    
+                                        <input type="password" name="reg-password2" placeholder="Repeat Password"> 
+                                        <input type="hidden" name="next" value="/privacy/">
+                                        <!--       <input type="submit" value="Sign in" class="login-submit button"/>
+                                           
+                                            <input type="hidden" name="next" value="/privacy/"/>
+                                           -->
+                                        <input class="button" value="Register for Free" type="submit">
+                                        <input type="hidden" name="register" value="register">
+                                        <br><br><br>
+                                        <a href="/login/google?next=/privacy/"><img height="38px;" src="/static/images/google-sign-in.png" style="vertical-align:middle;margin-top:-5px;padding-left:10px;"></a>
+
+                                    </form>
+                                </fieldset>
+                                <div class="clear"></div>
+                            
+
+                            <div style="margin-top:24px;">
+                                <ul class="menu" style="font-size:14px;">
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="/about">About Us</a></li>
+                                    <!-- <li><a href="/contact-us">How it Works</a></li> -->
+                                    <li id="services-list-wrapper"> 
+                                        <a href="#" id="services-list">
+                                            Services &amp; Pricing <span style="font-size:13px;">▼</span>
+                                        </a>
+                                        <ul class="services-menu">
+                                            <li><a href="/sell-a-business">Sell a Business</a></li>
+                                            <li><a href="/buy-a-business">Buy a Business</a></li>
+                                            <li><a href="/business-valuation">Business Valuation</a></li>
+                                            <li><a href="/info-memorandum-prep">Info Memorandum Preparation</a></li>
+                                            <li><a href="/business-and-market-research">Business &amp; Market Research</a></li>
+                                        </ul>                                    
+                                    </li>
+                                    <li>
+                                        <a href="/industry-watch">Industry Watch</a>
+                                    </li>
+                                    <li> 
+                                        <a href="/company-valuation">Valuation Tool</a>
+                                    </li>
+                                    <li><a href="/contact-us">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+            
+            
+            
+
+            <div class="container_14">
+                <div class="grid_14">
+                    <div class="content">
+                        
+<div class="page-title">
+    <h1>
+        Privacy Policy 
+    </h1>
+</div>
+<div style="padding-top:0px;line-height:20px;text-align:justify;">
+    <p>SMERGERS is fully committed to protecting your confidential information. If you as a visitor choose to register or submit information to this website, you agree to the use of such data in accordance with this privacy policy. Please note that this website may contain links to other sites which may not be governed by this privacy policy.<br>We collect and store confidential information including, but not limited to your name, email address, telephone numbers, your company information, financial information, transactional information based on your activities on the website, computer and connection information, statistics on page views, traffic information, ad data, IP address, standard web log information and  supplemental information from third parties. <br>We may use your confidential information for the following purposes:<br>1. To display company information on a ‘no name’ basis on the website to facilitate our services<br>2. To provide contact information to relevant parties. Buyer information will be shared with the seller whose business buyer expresses interest in. Seller information will be shared to potential buyers post their approval.<br>3. To derive and share industry knowledge including valuation multiples, profit margins, transaction structures, key drivers, challenges, etc. on a ‘no name’ basis. Confidentiality of the company’s identity is of utmost importance to us and this will not be disclosed unless you approve us to do so.<br>4. To send you information about SMERGERS, our products, our services, service updates, and promotional offers<br>5. To improve our services, collect fees, enforce our policies, and enforce our Terms and Conditions<br>6. To resolve disputes, respond to legal requirements, prevent potentially prohibited or illegal activities, and protect anyone's rights, property, and safety.<br>We might post testimonials on our website obtained from users' and these could include your name, company, city and other personal information. We obtain permission from our users' prior to posting their testimonials on the website and are not responsible for any personal information a user might include in their testimonial. <br>SMERGERS is fully committed to protecting your confidential information. But in unforseen circumstances of technical failures or malfunctions, SMERGERS will not be responsible for any damage or loss resulting from it. <br>If SMERGERS undergoes merger, acquisition or an asset sale and your confidential information is part of the transferred assets, the new privacy policy decided at the time of the transaction would govern your confidential information. Any changes to the privacy policy governing your information as a result of transaction would be communicated on the website or by email. <br>When you receive contact details of potential counterparties, the counterparty reserves the right to remove their information from your database. <br>If you would like to close your account, please contact us and we shall process your request at the earliest. We regularly clean our data and might close your account if your account is inactive for a long period. We retain confidential information from closed accounts to derive industry knowledge, comply with law, prevent fraud, collect any fees owed, resolve disputes and take other actions otherwise permitted by law. <br>We reserve the right to amend this Privacy Policy at any time and for any reason.</p>
+</div>
+
+                    </div>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+        </div>
+        <div class="container_14 footer">
+            <div class="grid_14">
+                <div>
+                    <ul class="footer-list">
+                        <li style="width:145px;">
+                            <div>
+                                <strong>About Us</strong>
+                                <ul class="footer-list-detailed">
+                                    <li> <a href="/about/">Company</a> </li>
+                                    <li> <a href="/about/#tab_founding-team">Team</a> </li>
+                                    <li> <a href="/about/#tab_mentors">Mentors</a> </li>
+                                    <li> <a href="/about/#tab_how-it-works">How we work</a> </li>
+                                    <li> <a href="/contact-us/">Contacts</a> </li>
+                                    <li> <a href="/terms">Terms of Use</a> </li>
+                                    <li> <a href="/privacy">Privacy Policy</a> </li>
+                                    <li> <a href="/refund-policy">Refund Policy</a> </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+
+                                <strong>Get Started</strong>
+                                <ul class="footer-list-detailed" style="margin-bottom:10px;">
+                                    <li><a href="/sell/"> Sell/Divest your Business</a> </li>
+                                    <li><a href="/buyreq/"> Acquire/Invest in a Business</a></li>
+                                </ul>
+
+                                <strong>Explore</strong>
+                                <ul class="footer-list-detailed">
+                                    <li><a href="/all-listings/">Businesses for Sale</a></li>
+                                    <li><a href="/all-requirements/">Business Investors &amp; Acquirers</a></li>
+                                    <li><a href="/how-to-value-a-business/">How to value a Business</a></li>
+                                    <li><a href="/company-valuation/">Online Valuation Tool</a></li>
+                                    <li><a href="/industry-watch/">Industry watch</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <strong>Services</strong>
+                                <ul class="footer-list-detailed">
+                                    <li><a href="/buy-a-business/">Acquiring/Buying a Business</a></li>
+                                    <li><a href="/sell-a-business/">Divesting/Selling your Business</a></li>
+                                    <li><a href="/info-memorandum-prep/">Information Memorandum Preparation</a></li>
+                                    <li><a href="/business-valuation/">Company Valuation</a></li>
+                                    <li><a href="/business-and-market-research/">Business Research</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <strong>Industry Watch</strong>
+                                <ul class="footer-item-detailed">
+                                    
+                                        <li> <a href="/industry-watch/indian-restaurant-industry/">Restaurant Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-electronics-industry/">Electronics Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-pharmaceuticals-industry/">Pharmaceuticals Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-salon-industry/">Salon Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/it-services/">IT Services</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-automobile-autocomponent-industry/">Auto Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-manufacturing-industry/">Manufacturing Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-textile-industry/">Textile Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-cement-industry/">Cement Industry</a> </li>
+                                    
+                                        <li> <a href="/industry-watch/indian-food-processing-industry/">Food Processing Industry</a> </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <div style="float:left;width:30px;">
+                                <a href="/">
+                                    <img class="logo" src="/static/images/logo.png" style="width:20px;padding-right:5px;">
+                                </a>    
+                            </div>
+                            <div style="float:left;width:60px;">
+                                <a href="/">
+                                    <div style="font-size:21px;margin-top:2px;font-weight:normal;"><span style="color:#05759D;">SME</span><span style="color:#7f7f7f;">RGERS<sup style="color:#000;font-size:6px;vertical-align:top;line-height:1;">TM</sup></span></div>
+                                </a>
+                            </div>
+                            <div class="clear"></div>
+                            <div style="margin-top:15px;">
+                                <ul class="footer-item-detailed">
+                                    <li><i class="icon-phone-sign" style="color:#5BB75B;font-size:14px;"></i>  +91 99728 84848 <br>
+                                        
+                                    </li>
+                                    <li style="padding-left:16px;">
+                                        +91 93437 77763 
+                                    </li>
+                                    <li> <i class="icon-facebook-sign" style="color:#5C78AC;font-size:14px;"></i> <a href="http://facebook.com/smergers" target="_blank">Facebook</a> </li>
+                                    <li> <i class="icon-linkedin-sign" style="color:#0181B2;font-size:14px;"></i> <a href="http://linkedin.com/company/smergers" target="_blank">LinkedIn</a></li>
+                                    <li> <i class="icon-twitter-sign" style="color:#00ADE1;font-size:14px;"></i> <a href="http://twitter.com/smergers" target="_blank">Twitter</a></li>
+                                    <li> <i class="icon-inbox" style="color:#5C78AC;font-size:14px;"></i> <a href="mailto:info@smergers.com">info@smergers.com</a></li>
+                                </ul>
+                            </div>
+
+                        </li>
+
+                    </ul>
+                    <!-- <a href="/privacy">Privacy Policy</a> &nbsp; &nbsp; <a href="/terms">Terms of Use</a> &nbsp; &nbsp; <a href="/refund-policy">Refund Policy</a> -->
+                </div>
+            </div>                            
+        </div>
+        <div id="feedback">
+            <div id="feedback-inner">
+                <a href="#myModal" role="button" data-toggle="modal" id="help-button">
+                    <img src="/static/images/help.png">
+                </a>
+            </div>
+        </div>
+
+
+ 
+        <!-- Modal -->
+        <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="myModalLabel">Need Help? Write to Us</h3>
+            </div>
+            <div class="modal-body help-form">
+                <div id="question-post-successful" style="display:none;">
+                    <div class="btn-success notification-bar">
+                        Thanks! We will contact you soon.
+                    </div>
+                    <br>
+                </div>
+                <div id="question-post-error" style="display:none;">
+                    <div class="btn-danger notification-bar">
+                        Question and Email are required Fields
+                    </div>
+                    <br>
+                </div>
+                <p>Question</p>
+                <p><textarea id="help-message" name="content" class="textarea-control"></textarea></p>
+                <div style="float:left;">
+                    <p>E-mail</p>
+                    <p><input type="text" id="help-email" name="email" class="control"> </p>
+                </div>
+                <div style="float:left;margin-left:20px;">
+                    <p>Mobile Number (Optional)</p>
+                    <p><input type="text" id="help-mobile-number" name="mobile_number" class="control"> </p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+                <button class="btn btn-success" id="helpSubmit">Submit</button>
+            </div>
+        </div>
+    
+
+</body></html>
