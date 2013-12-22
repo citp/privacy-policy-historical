@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naturalwellbeing.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621144957id_/http%3A//www.naturalwellbeing.com/nwb/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naturalwellbeing.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222044731id_/http%3A//www.naturalwellbeing.com/nwb/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://developers.facebook.com/schema/" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <title>NaturalWellbeing.com Privacy Policy</title>
@@ -16,18 +16,32 @@
 <script src="//cdn.optimizely.com/js/8232158.js"></script>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
+
+<!--  For Devices View  -->
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta name="format-detection" content="telephone=no">
+
+
 <link rel="shortcut icon" href="/nwb/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/nwb/images/favicon.ico" type="image/x-icon">
 
-<link href="/stylesheets/nwb.css?1370985572" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/nwb.css?1387485151" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://d2g2rxm5xqijox.cloudfront.net/stylesheets/nwb_print.css" media="print" rel="stylesheet" type="text/css">
 
 
-<link href="/pwr/engine/pr_styles_review.css?1370937693" media="screen" rel="stylesheet" type="text/css">
+<link href="/pwr/engine/pr_styles_review.css?1387443668" media="screen" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="http://assets.resultspage.com/autosuggest/autosuggest.css" media="screen" type="text/css">
 
-<script src="/javascripts/jquery-core.js?1370985573" type="text/javascript"></script>
+<link href="/stylesheets/flexslider.css?1387485151" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/nwb_responsive.css?1387485151" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/responsive_style.css?1387485151" media="screen" rel="stylesheet" type="text/css">
+
+
+<script src="/javascripts/jquery-core.js?1387485152" type="text/javascript"></script>
+
 
 
 
@@ -63,6 +77,7 @@
 
 
 <!-- end of 4Q code -->
+  <script src="/javascripts/jquery-site.js?1387485152" type="text/javascript"></script>
 
   <script language="javascript" type="text/javascript">
     var sliJsHost = (("https:" == document.location.protocol) ? "https://"  : "http://" );
@@ -72,7 +87,12 @@
 
 </head>
 
-<body>
+<body id="spree">
+<div style="display:none">
+spree_application
+content
+show
+</div>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MJ9K"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -90,16 +110,16 @@
   <div class="top_bar">
     <div class="inner_bar">
       <ul class="barNav">
-        <li><a href="/" title="store" id="store" class="active"><span></span></a></li>
-        <li><a href="/learning-center/Main_Page" title="learning center" id="learningcenter"><span></span></a></li>
-        <li><a href="/blog" title="blog" id="blog"><span></span></a></li>
-        <li><a href="http://www.petwellbeing.com/" title="petwellbeing" id="petwellbeing" target="_blank"><span></span></a></li>
+        <li><a href="/" title="store" id="store" class="active">Store</a></li>
+        <li><a href="/learning-center/Main_Page" title="learning center" id="learningcenter">Learning Center</a></li>
+        <li class="blog"><a href="/blog" title="blog" id="blog">Blog</a></li>
+        <li><a href="http://www.petwellbeing.com/" title="petwellbeing" id="petwellbeing" target="_blank">Pet Wellbeing</a></li>
       </ul>
 
       <ul class="miscNav">
-        <li style="border-right:none;padding-right:0px;"><a href="/users " id="navAccount" title="My Account" class="no_brdr"></a></li>
-        <li><a href="/nwb/contactus" title="Contact" id="contactus"></a></li>
-        <li id="callus">1-800-536-9353</li>
+        <li id="callus">Call <span>1-800-536-9353</span><span id="cart-info"><a href="/orders/new"><span id="cart-count"></span></a></span></li>
+		<li><a href="/nwb/contactus" title="Contact" id="contactus">Contact Us</a></li>
+		<li class="myacunt"><a href="/users " id="navAccount" title="My Account" class="no_brdr">My Account</a></li>
       </ul>
     </div>
   </div>
@@ -119,7 +139,8 @@
     <div class="search">
 
 
-      <div style="float:right">
+      <!-- <div style="float:right"> -->
+	  <div class="search-block">
       <form method="get" action="http://search.naturalwellbeing.com/search" name="searchform" id="searchForm">
   <p>
     <input type="hidden" name="asug">
@@ -127,7 +148,17 @@
     <input type="submit" name="go" value="" class="button" id="btnSearch">
   </p>
 </form>
-
+<script type="text/javascript">
+    $(document).ready(function(){
+    jQuery( "#searchForm" ).submit(function( event ) {
+        var value = jQuery('#sli_search_1').val();
+        if(value=='Enter Search Terms' || value == ''){
+            alert('Please enter a search term');
+            event.preventDefault();
+         }
+       });
+    });
+</script>
       </div>
     </div>
   
@@ -136,16 +167,38 @@
   <div class="clear"></div>
 </div>
 
+  <div id="floating_top_base">
+    <div id="floating_top" class="">
+      <div id="nav-container">
 
   <div id="nav">
     <ul>
-      <li><a href="/" title="Home" id="navhome"><span></span></a></li>
-      <li><a href="/c/condition" id="navproducts" title="Products"><span></span></a></li>
-      <li><a href="/meetexperts" id="navexperts" title="Meet Experts"><span></span></a></li>
-      <li><a href="/orders/new" id="navCart"><span></span></a></li>
+      <li id="nav1"><a href="/" title="Home" id="navhome">Home<i></i></a>
+		<ul class="subnav">
+            <li><a href="/" title="Home">Home</a></li>
+			<li><a href="/meetexperts" title="Expert Advice">Expert Advice</a></li>
+			<li><a href="/orders/new" title="Cart">My Cart</a></li>
+		</ul>
+	  </li>
+      <li id="nav2"><a href="/c/condition" id="conditions" title="Products">Health Condition</a></li><li>
+	  </li><li id="nav5"><a href="/products" id="navproducts" title="Products">Find Products<i></i></a>
+		<ul class="subnav">
+			<li><a href="/c/condition" title="Health Condition">Health Condition</a></li>
+			<li><a href="/products" title="Product A-Z">Products A-Z</a></li>
+			<li><a href="/c/condition/mens-health" title="Men">Men</a></li>
+			<li><a href="/c/condition/womens-health" title="Women">Women</a></li>
+			<li><a href="/pets" title="pets">Pets</a></li>
+			<li><a href="/c/condition/childrens-health" title="kids">Kids</a></li>
+		</ul>
+	  </li>
+      <li id="nav3"><a href="/meetexperts" id="navexperts" title="Meet Experts">Meet Our Experts<i></i></a></li>
+      <li id="nav4"><a href="/orders/new" id="navCart">My Cart<i></i></a></li>
     </ul>
     <div class="clear"> </div>
   </div>
+        </div>
+      </div>
+    </div>
 
 
 
@@ -162,30 +215,28 @@
 
   <div class="bottom_left fltleft"><!--bottom_left start-->
 
-      <div id="current_nav_area" class="shop_nav">
-         <ul>
-              <li class="shop">Shop by:</li>
-              <li id="conditions_link"><a href="/c/condition">Condition</a></li>
-              <li id="category_link"><a href="/category">Product Type</a></li>
-              <li id="products_link"><a href="/products">Product Name</a></li>
-          </ul>
-        <div class="clrflt"></div>
-      </div>
+    <div class="first_time_promotion" style="
+    width: 470px;
+    ">
+      <img src="/nwb/images/left_bracket.png" style="float: left;">
+      <div style="float:left;padding-top: 10px;padding-right: 0px;font-size: 22px;width: 430px;text-align: center;">
+        <a href="/nwb/shipping"><span>FREE</span> shipping on orders over $50</a></div>
+      <img src="/nwb/images/right_bracket.png" style="">
+    </div>
 
-      <div class="top_paypal">
-        
-      </div>
-      
-   </div><!--bottom_left end-->
+  </div><!--bottom_left end-->
 
   <div class="bottom_right fltleft"><!--bottom_right start the recentviewed product area, should have default content-->
 
-    <div class="product_slider">
-
+    <div class="first_time_promotion" style="
+    width: 470px;
+    ">
+      <img src="/nwb/images/left_bracket.png" style="float: left;">
+      <div style="float:left;padding-top: 10px;padding-right: 0px;font-size: 22px;width: 430px;text-align: center;">
+        <a href="/nwb/guarantee"><span>HASSLE-FREE</span> 90 Day Guarantee!</a>
+      </div>
+      <img src="/nwb/images/right_bracket.png" style="">
     </div>
-
-    <div class="prev1"><a href="#"><div id="arrow1_left"></div></a></div>
-    <div class="next1"><a href="#"><div id="arrow1_right"></div></a></div>
 
 
   </div><!--bottom_right end-->
@@ -218,7 +269,7 @@
 
 $(document).ready(function(){
 
-show_recent_viewed();
+//show_recent_viewed();
 
 });
 
@@ -231,6 +282,81 @@ show_recent_viewed();
   
 </div>
 
+  <script type="text/javascript">
+
+      $(document).ready(function(){
+          /*floating js*/
+          function isMobile(){
+              if( navigator.userAgent.match(/Android/i) ||
+                      navigator.userAgent.match(/webOS/i) ||
+                      navigator.userAgent.match(/iPhone/i) ||
+                      navigator.userAgent.match(/iPod/i) ||
+                      navigator.userAgent.match(/iPad/i) ||
+                      navigator.userAgent.match(/BlackBerry/)
+                      ){
+                  return true
+              }
+              return false
+          }
+
+          var msie6 = $.browser == 'msie' && $.browser.version < 7;
+          var floaterid='#floating_top';
+
+          var wheight=$(window).height();
+
+          $(function () {
+              if (!msie6 && isMobile()) {
+                  var top = $(floaterid).offset().top - parseFloat($(floaterid).css('margin-top').replace(/auto/, 0));
+                  var left = $(floaterid).offset().left;
+                  $(window).scroll(function (event) {
+                      bind_scroll(top, floaterid);
+                  });
+              }
+
+              $(window).resize(function (event) {
+                  $(floaterid).removeClass('fixed');
+                  //$(window).unbind('scroll');
+                  if (!msie6 && isMobile()) {
+
+                  wheight=$(window).height();
+
+                  top = $(floaterid).offset().top - parseFloat($(floaterid).css('margin-top').replace(/auto/, 0));
+                  y = $(this).scrollTop();
+
+                  // whether that's below the form
+                  if (y >= top) {
+                      // if so, ad the fixed class
+                      $(floaterid).addClass('fixed');
+                  } else {
+                      // otherwise remove it
+                      $(floaterid).removeClass('fixed');
+                  }
+
+                      //rebind the scroll event
+                      $(window).scroll(function (event) {
+                          bind_scroll(top, floaterid);
+                      });
+                      //rebind done
+
+                  }
+              });
+
+          });
+
+
+          /*the floating js done*/
+      });
+
+ function bind_scroll(top, floaterid)
+ {
+     var y = $(this).scrollTop();
+     if (y >= top) {
+         $(floaterid).addClass('fixed');
+     } else {
+         $(floaterid).removeClass('fixed');
+     }
+ }
+  </script>
 
     </div>
 
@@ -364,6 +490,20 @@ show_recent_viewed();
 </script>
 
           </div>
+
+		<ul class="botm-findproducts">
+			<li id="nav6"><a href="/products" id="navproducts" title="Products">Find Products<i></i></a>
+			  <ul class="subnav">
+				<li><a href="/c/condition" title="Health Condition">Health Condition</a></li>
+				<li><a href="/products" title="Product A-Z">Products A-Z</a></li>
+				<li><a href="/c/condition/mens-health" title="Men">Men</a></li>
+				<li><a href="/c/condition/womens-health" title="Women">Women</a></li>
+				<li><a href="/pets" title="pets">Pets</a></li>
+				<li><a href="/c/condition/childrens-health" title="kids">Kids</a></li>
+			   </ul>
+			 </li>
+			</ul>
+
         </div>
 
         <div class="rightpanel">
@@ -411,7 +551,7 @@ show_recent_viewed();
         opts = {country_id: $("select#calculator_country").val()}
       }
 
-      jQuery.getJSON("http://www.naturalwellbeing.com/orders/R576075223/calculate_shipping", opts,
+      jQuery.getJSON("http://www.naturalwellbeing.com/orders/R122106481/calculate_shipping", opts,
         function(data){
           shipping_methods = data;
 
@@ -492,7 +632,7 @@ show_recent_viewed();
       var value = $(this).val();
       var opts = {"shipping_method": value}
 
-      jQuery.post("http://www.naturalwellbeing.com/orders/R645181503/checkout/set_shipping_method", opts,
+      jQuery.post("http://www.naturalwellbeing.com/orders/R677330453/checkout/set_shipping_method", opts,
         function(data){
            $.each(shipping_methods, function(i,rate){
               if(rate.id+"" == value){
@@ -525,18 +665,18 @@ show_recent_viewed();
 
   
 
-  <div style="margin-bottom: 15px;">
+  <div style="margin-bottom: 15px;" class="payment-methods">
     <p>
     <img alt="AMEX, VISA, MASTERCARD, DISCOVER, PAYPAL" src="/nwb/images/payment_methods.png">
     </p>
   </div>
 
-  <div id="cs_float_base">
+  <div id="cs_float_base" class="cust-service-block">
     <div id="cs_float_area">
   <div class="dropbox" style="margin-bottom: 10px;">
 
         <div class="title">Customer Service</div>
-        <p></p><div id="callusbannder"><img src="/nwb/images/nwb-side-bar-phone.png" style="padding: 3px 0 4px 5px;" alt="1 800 536-9353"></div><p></p>
+        <p></p><div id="callusbannder"><span>1-800-536-9353</span><img src="/nwb/images/nwb-side-bar-phone.png" style="padding: 3px 0 4px 5px;" alt="1 800 536-9353"></div><p></p>
 
           <!-- BoldChat Live Chat Button HTML v1.20 (Type=Web,ChatButton=PWB_Rep,ChatWindow=NWB Chat Window,Website=NaturalWellbeing.com,Department=- None -) -->
 
@@ -551,7 +691,7 @@ show_recent_viewed();
 
           <!-- /BoldChat Live Chat Button HTML v1.20 -->
 
-           <p style="padding-bottom: 16px;">
+           <p id="live-chat" style="padding-bottom: 16px;">
             <a class="livechat" href="https://livechat.boldchat.com/aid/2298068183499916261/bc.chat?cwdid=2087633114552724379&amp;wdid=2454181574448868657" target="_blank" onclick="launchChatWindow('https://livechat.boldchat.com/aid/2298068183499916261/bc.chat?cwdid=2087633114552724379&amp;wdid=2454181574448868657&amp;url=' + escape(document.location.href)); return false;"><img id="bold_chat_img" alt="Live chat by BoldChat" width="auto" src="https://cbi.boldchat.com/aid/2298068183499916261/bc.cbi?cbdid=2236800376728759828&amp;wdid=2454181574448868657" border="0"></a>
           </p>
           <!-- /BoldChat Live Chat Button HTML v1.20 -->
@@ -560,10 +700,14 @@ show_recent_viewed();
         <!--p style="padding-bottom: 16px;"><a class="livechat" href="https://livechat.boldchat.com/aid/2298068183499916261/bc.chat?cwdid=2087633114552724379&amp;wdid=2454181574448868657" target="_blank" onclick="launchChatWindow('https://livechat.boldchat.com/aid/2298068183499916261/bc.chat?cwdid=2087633114552724379&amp;wdid=2454181574448868657&amp;url=' + escape(document.location.href)); return false;">
            </a>
         </p-->
-
-        <p style="padding-bottom: 3px;"><a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=110020517059"><img style="width: 148px;
+		<div id="right-logos">
+        <p id="accredited-business" style="padding-bottom: 3px;"><a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=110020517059"><img style="width: 148px;
 height: 65px" src="/nwb/images/accredited.jpg" alt="Click to verify BBB accreditation and to see a BBB report." title="Click to verify BBB accreditation and to see a BBB report."></a></p>
-       <p style="padding-bottom: 14px;"><a href="/nwb/guarantee"><img src="/nwb/images/money-back.png" alt="90 day money back guarantee"></a></p>
+    <p id="stellla-service" style="padding-bottom: 14px;">
+      <script type="text/javascript">var seal_host = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Ca target='_blank' class='stella-logo' href='http://www.stellaservice.com/profile/2982'%3E%3Cimg src='" + seal_host + "seal.stellaservice.com/seals/stellaservice_excellent.png?c=2982' height='73' width='115' border='0' title='NaturalWellBeing.com is top rated for customer service' /%3E%3C/a%3E"));</script><a target="_blank" class="stella-logo" href="http://www.stellaservice.com/profile/2982"><img src="https://seal.stellaservice.com/seals/stellaservice_excellent.png?c=2982" height="73" width="115" border="0" title="NaturalWellBeing.com is top rated for customer service"></a>
+    </p>
+       <p id="guarantree-card" style="padding-bottom: 14px;"><a href="/nwb/guarantee"><img src="/nwb/images/money-back.png" alt="90 day money back guarantee"></a></p>
+	   </div>
        <br>
   </div>
 
@@ -571,16 +715,26 @@ height: 65px" src="/nwb/images/accredited.jpg" alt="Click to verify BBB accredit
 
 </div>
 </div>
+<div id="cust-service-logos"></div>
 </div>
 </div>
-        </div>
 
+        </div>
+		<div class="clear"></div>
+		<div id="footer-menu">
+		<div class="subnav">Store<i></i></div>
+	</div>
     </div>
 
     <!-- SET: FOOTER -->
  <div id="footer">
-   <h3>Important Links and Policies</h3>
+   <!-- <div id="footer-menu">
+		<div class="subnav">Store<i></i></div>
+	</div> -->
+   <h3>Important Links and Policies<i></i></h3>
    <div class="footer_cap"></div>
+   <div class="clear"></div>
+   <div id="footer-links">
             <p>
                   <a href="/nwb/shipping">  Shipping Types &amp; Policies</a>
                   <a href="/nwb/guarantee">  90 Day Guarantee</a>
@@ -599,6 +753,8 @@ height: 65px" src="/nwb/images/accredited.jpg" alt="Click to verify BBB accredit
                   <a href="/nwb/contactus">    Contact Us</a>
                   <a href="/meetexperts">Meet Our Experts</a>
                 </p>
+				<div class="clear"></div>
+</div>
 </div>
 
 
@@ -626,7 +782,7 @@ height: 65px" src="/nwb/images/accredited.jpg" alt="Click to verify BBB accredit
     </div>
   </div>
 
-
+<script src="/javascripts/responsive_scripts.js?1387485152" type="text/javascript"></script>
 <script src="http://www.naturalwellbeing.com/customize.js" type="text/javascript"></script>
 
   
