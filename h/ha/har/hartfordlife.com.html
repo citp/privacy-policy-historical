@@ -1,26 +1,30 @@
-<!--The following is the downloaded HTML source of the hartfordlife.com privacy policy that was archived on 2013-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130218180622id_/http%3A//hartfordlife.com/online-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hartfordlife.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222092222id_/http%3A//www.thehartford.com/online-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="https://plus.google.com/111858579465064497878/" rel="publisher">
 <!-- !!Are there rules??? =|none|-->
 <!-- !!Passed Rule??? =||-->
 
 <title>Privacy Policy</title>
-				<meta name="HIG.Category" content="Privacy Policy">
-				<meta name="HIG.Title" content="Privacy Policy">
-				<meta name="HIG.Template" content="B4_ContentPage_T5b">
-				<meta name="HIG.Date.Revised" content="18 Sep 2012 01:28:26">
-				<meta name="cid" content="1285275778821">
-				<meta name="distribution" content="global">
-				<meta name="resourcetype" content="document">
-				<meta name="HIG.RenderTime" content="2013-02-18 13:06:22">
-				<meta name="HIG.Tax.Category" content="Privacy Policy">
-				
-																
-				<meta name="robots" content="all"><meta name="HIG.ProdURL" content="http://www.thehartford.com"><!--OnHTTPS=false-->
+        <meta name="HIG.Category" content="Privacy Policy">
+        <meta name="HIG.Title" content="Privacy Policy">
+        <meta name="HIG.Template" content="B4_ContentPage_T5b">
+        <meta name="HIG.Date.Revised" content="14 Nov 2013 11:39:34">
+        <meta name="cid" content="1285275778821">
+        <meta name="distribution" content="global">
+        <meta name="resourcetype" content="document">
+        <meta name="HIG.RenderTime" content="2013-12-22 04:22:22">
+        <meta name="HIG.Tax.Category" content="Privacy Policy">
+
+        
+        <meta name="robots" content="all"><meta name="HIG.ProdURL" content="http://www.thehartford.com"><!--OnHTTPS=false-->
+<link rel="canonical" href="http://www.thehartford.com/online-privacy-policy">
 
 
-<link rel="stylesheet" type="text/css" href="//s0.hfdstatic.com/sites/build_4/css/thehartford_20130129.css">
+<link rel="stylesheet" type="text/css" href="//s0.hfdstatic.com/sites/build_4/css/thehartford_20131218.css">
 <script type="text/javascript">ieVersion=0</script>
 <!--[if IE 9]><script type="text/javascript">ieVersion=9</script><![endif]-->
  
@@ -60,7 +64,7 @@
  		<link rel="stylesheet" type="text/css" href="//s0.hfdstatic.com/sites/build_4/css/no-script.css" />
  	</noscript>
 <div id="container"><a id="skip-navigation" href="#content-main">Skip to main content</a><div id="header" class="clear-fix"><div id="branding-logo"><a id="branding-logo-link" href="http://www.thehartford.com/" title="thehartford.com"><img src="//s0.hfdstatic.com/sites/build_4/imgs/logo-stag.png" height="75" width="78" alt="The Hartford"></a></div><div id="nav-utility" class="clear-fix"><div id="utility-links"><h3 id="utility-links-list-title">Utility Links</h3>
-<!--UtilityBar cached on 2013-02-15 22:07:37-->
+<!--UtilityBar cached on 2013-12-14 04:55:38-->
 
 	
 	
@@ -69,18 +73,18 @@
 <div class="utility-links-dropdown">
 							
 
-<!--ListComponentsEJ cached on 2013-02-15 22:07:37-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:38-->
 
 
 <div style="max-width:260px;"><div class="hig-getaquote-main">
 
 
 	<p>Get a quote as fast as you can!</p>
+
 	
 	
 	
-						
-	
+
 	<form class="hig-quick-form clear-fix" onsubmit="return submitNewQuote(this)" action="https://autoquote.thehartford.com/sales" method="get"><input type="hidden" name="PLCode" value="690066">
 <input type="hidden" name="organic" value="true">
 <input type="hidden" name="channel" value="DIRECT">
@@ -90,19 +94,41 @@
 						<option value="Motorhome">RV Insurance</option>
 						<option value="Antique">Antique Car Insurance</option>
 						
-						
+
 					</select>
 				</div>
 
 				<input class="check-placeholder quote-zip-input" type="text" name="zip" placeholder="Zip Code">
 				<input class="submit-get-quote button button-type-1" type="submit" value="Get a Quote">
 	</form>
-		
+	
 </div>
 
 
+<script>
+function ValidateRefOrEmail(fieldDiv){
+	var regexEmail = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/g;
+	var regexAlphaNumeric = /^[a-zA-Z0-9]+$/g;
+	var emailField=fieldDiv.find('input');
+	if(emailField.val().indexOf('@') >= 0 || emailField.val().indexOf('.') >= 0){
+		if(emailField.val().match(regexEmail)){
+			return true;
+		}
+		else{
+			fieldDiv.addClass('error').append('<div class="field-error-msg">Please enter a vaild Quote Reference Number or Email Address</div>');
+			return false;
+		}
+	}
+	else if(emailField.val().match(regexAlphaNumeric) && emailField.val().length > 19){
+		return true;
+	}
+	else{
+		fieldDiv.addClass('error').append('<div class="field-error-msg">Please enter a vaild Quote Reference Number or Email Address</div>');
+		return false;
+	}
+}
+</script>
 
-								
 
 </div>
 
@@ -114,7 +140,7 @@
 <div class="utility-links-dropdown">
 							
 
-<!--ListComponentsEJ cached on 2013-02-15 22:07:37-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:38-->
 
 
 <ul class="list-links-2">
@@ -133,7 +159,7 @@
 <div class="utility-links-dropdown">
 							
 
-<!--ListComponentsEJ cached on 2013-02-15 22:07:37-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:38-->
 
 
 
@@ -147,9 +173,9 @@
 <a href="https://gisapps.thehartford.com/CLAIMSShopLocatorWebApp/crsp.jsp"><span class="icon-arrow-right">Locate an auto repair shop</span> </a></p>
 <p><strong>Glass-Only Auto Claims<br>
 <br>
-</strong>1-800-892-8484<br>
+</strong>1-877-687-1279<br>
 24 hours/day, 7 days/week</p>
-<p><a href="https://www.glassclaim.com/fnolpages/policyHolder_Info.jsp?inclno=300042"><span class="icon-arrow-right">Report a glass-only&nbsp;auto claim</span></a>&nbsp;</p>
+<p><a target="_blank" href="http://www.thehartford.com/glass-claims-link"><span class="icon-arrow-right">Report a glass-only&nbsp;auto claim</span></a>&nbsp;</p>
 </div><h4 class="dropdown-swapper-header">Homeowners Insurance</h4>
 						<div class="dropdown-swapper-body">
 						
@@ -177,10 +203,10 @@
 <a href="https://thehartford.web-worx.com/commercial/auto.html"><span class="icon-arrow-right">Report an Auto Claim</span> </a><br>
 <a href="https://gisapps.thehartford.com/CLAIMSShopLocatorWebApp/crsp.jsp"><span class="icon-arrow-right">Locate an Auto Repair Shop </span></a></p>
 <p><strong>Glass-Only Auto Claims<br>
-1-800-892-8484<br>
+1-877-687-1279<br>
 </strong>24 hours a day, 7 days a week<br>
 <br>
-<a href="https://www.glassclaim.com/fnolpages/policyHolder_Info.jsp?inclno=300042"><span class="icon-arrow-right">Report a Glass-Only Auto Claim</span> </a></p>
+<a target="_blank" href="http://www.thehartford.com/glass-claims-link"><span class="icon-arrow-right">Report a Glass-Only Auto Claim</span> </a></p>
 </div><h4 class="dropdown-swapper-header">Commercial Property</h4>
 						<div class="dropdown-swapper-body">
 						
@@ -213,7 +239,17 @@
 </ul>
 </div><div id="search-site"><form method="get" onsubmit="return B4SubmitSearch('Search')" id="search-form" name="search-form" action="http://esearch.thehartford.com/esearchclient/search?" class="hig-quick-form">
 	<input id="search-text" class="check-placeholder" type="text" name="q" size="20" maxlength="2048" value="" placeholder="Search">
+
+	<!--[if lte IE 7]>
+	<input id="search-submit" type="image" alt="Search" src="//s0.hfdstatic.com/sites/build_4/imgs/search-submit.png" name="search-submit"/>
+	<![endif]-->
+	<!--[if gte IE 8]>
+	<input id="search-submit" type="image" alt="Search" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAMAAADnhAzLAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAABaUExURe7u7ru7u3JycsvLy3l5eZycnPPz88LCwo2NjZWVld/f34qKisbGxuXl5W5uboKCgqampsjGx5eXl6mpqaKiotLS0pCQkOrq6q6urtnZ2WZmZv///////7i4uMwbWf0AAAAddFJOU/////////////////////////////////////8AWYbnagAAAIhJREFUeNps0NsSgyAMBNCwpGpBwaK1l+D//2bBKUzV7uOZyWQTWk+hNR7yJdMrsyOaGUAYfugC/1QWnipp2EZERsyVJugkQuwrBZhMwqikWGUZHCeQjQz4lefe7tqUjROjW9g5YGlKVRXAGFsGd1Tax0cuf0uNbdzfqBn9geK9jfH/J075CDAAqRUahrCgoOYAAAAASUVORK5CYII=" name="search-submit"/>
+	<![endif]-->
+	<!--[if !IE]><!-->
 	<input id="search-submit" type="image" alt="Search" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAMAAADnhAzLAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAABaUExURe7u7ru7u3JycsvLy3l5eZycnPPz88LCwo2NjZWVld/f34qKisbGxuXl5W5uboKCgqampsjGx5eXl6mpqaKiotLS0pCQkOrq6q6urtnZ2WZmZv///////7i4uMwbWf0AAAAddFJOU/////////////////////////////////////8AWYbnagAAAIhJREFUeNps0NsSgyAMBNCwpGpBwaK1l+D//2bBKUzV7uOZyWQTWk+hNR7yJdMrsyOaGUAYfugC/1QWnipp2EZERsyVJugkQuwrBZhMwqikWGUZHCeQjQz4lefe7tqUjROjW9g5YGlKVRXAGFsGd1Tax0cuf0uNbdzfqBn9geK9jfH/J075CDAAqRUahrCgoOYAAAAASUVORK5CYII=" name="search-submit">
+	<!--<![endif]-->
+
 	<input type="hidden" name="results" value="10">
 	<input type="hidden" name="app" value="hig2">
 </form>
@@ -230,7 +266,7 @@
 				<div id="account-access-dropdown">
 					
 
-<!--ListComponentsEJ cached on 2013-02-02 04:50:47-->
+<!--ListComponentsEJ cached on 2013-12-14 04:23:32-->
 
 
 <table class="account-access">
@@ -240,8 +276,8 @@
             <p><span class="content-heading">Individuals &amp; Families</span></p>
             <ul>
                 <li><a higut="hig-auto-policy-holder" href="https://service.thehartford.com">Auto &amp; Home (pay bill, view claim status, etc.) </a></li>
-                <li><a higut="hig-uswm-policy-holder" href="http://www.thehartford.com/retirementplans/access">Corporate 401k Retirement Plans</a>&nbsp;</li>
-                <li><a higut="hig-uswm-policy-holder" href="http://www.retire.hartfordlife.com">Government and Not-for-Profit Retirement Plans</a></li>
+                <li><a target="_blank" higut="hig-uswm-policy-holder" href="http://retirement.massmutual.com/rscorp">Corporate 401k Retirement Plans</a>&nbsp;</li>
+                <li><a target="_blank" higut="hig-uswm-policy-holder" href="http://retirement.massmutual.com/rsgovnp">Government and Not-for-Profit Retirement Plans</a></li>
                 <li><a higut="hig-uswm-policy-holder" href="https://online.hartfordlife.com/aab/ContractBalances?ACTION=Login">Annuity Contract</a></li>
                 <li><a higut="hig-uswm-policy-holder" href="http://www.hartfordinvestor.com/servlet/Satellite?c=Page&amp;cid=1125758555547&amp;pagename=Investor%2FPage%2FInvestorLandingPage">529 College Savings Plans</a></li>
                 <li><a higut="hig-business-policy-holder" href="https://www.thehartfordatwork.com/">Group Life &amp; Disability (The Hartford at Work)</a></li>
@@ -253,7 +289,7 @@
             <td width="50%">
             <p><span class="content-heading">Business</span></p>
             <ul>
-                <li><a href="http://www.thehartford.com/servicecenter">Online Business Service Center<br>
+                <li><a href="http://www.thehartford.com/business-insurance-customer-service/">Online Business Service Center<br>
                 (pay your business bill, manage auto pay, view payment history,&nbsp;etc.)</a> &nbsp;</li>
                 <li><a target="_blank" href="https://employerview.hartfordlife.com">Group Benefits Employer View ® </a></li>
             </ul>
@@ -286,63 +322,43 @@
 
 
 
-<!--NavMainMegaDropdownEJ cached on 2013-02-15 10:17:29-->
+<!--NavMainMegaDropdownEJ cached on 2013-12-14 04:55:38-->
 
 	
 	
 		<ul id="nav-primary-list" class="clear-fix">
-<li class="has-dropdown" id="nav-primary-list-item"><a class="follow-link" href="/about/" title="About Us" id="nav-primary-list-item-link"><span>About Us</span></a>
+<li class="has-dropdown" id="nav-primary-list-item"><a class="follow-link" href="/our-company/" title="Our Company" id="nav-primary-list-item-link"><span>Our Company</span></a>
 <div class="nav-primary-dropdown">
 								<div class="layout-d">
-								<!--v_delimitedList=1285275889626,1287780517004,1285275889630,1285275889634,1285275889638,1285275889642,1285275889646,1285275889650,1285275889654-->
+								<!--v_delimitedList=1287785072589,1287785254138,1287785254180,1287785383783,1287785383893-->
 <div class="col">
 												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="/management-team/" title="Management Team">Management Team</a></h3>
-															
-												</div>
-											
-												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="http://www.thehartford.com/dm/overview2012/index.html" title="The Hartford Overview">The Hartford Overview</a></h3>
-															
-												</div>
-											
-												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="/higfiles/flash/historical_timeline.html" target="jpopup-801-527" title="The Hartford's History">The Hartford's History</a></h3>
-															
-												</div>
-											
-												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="/about/mission" title="Mission &amp; Values">Mission &amp; Values</a></h3>
-															
+													<h3 class="sub-nav-title"><a href="/our-company/who-we-are" title="Who We Are">Who We Are</a></h3>
+														<ul class="sub-nav-list"><li><a href="/management-team/" title="Our Management Team">Our Management Team</a></li><li><a href="/our-company/our-people" title="Our People">Our People</a></li><li><a href="/our-company/our-values" title="Our Values">Our Values</a></li><li><a href="/higfiles/flash/historical_timeline.html" target="jpopup-801-527" title="The Hartford's History">The Hartford's History</a></li><li><a href="/our-company/our-brand" title="Our Brand">Our Brand</a></li><li><a href="/our-company/independent-agents" title="Our Independent Agents">Our Independent Agents</a></li></ul>	
 												</div>
 											</div><div class="col">
 												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="/about/csr" title="Corporate Social Responsibility">Corporate Social Responsibility</a></h3>
-														<ul class="sub-nav-list"><li><a href="/about/philanthropy" title="Philanthropy &amp; Volunteerism">Philanthropy &amp; Volunteerism</a></li><li><a href="/about/corporate-diversity" title="Diversity">Diversity</a></li><li><a href="/about/environmental-responsibility" title="Environment">Environment</a></li></ul>	
-												</div>
-											
-												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="/about/corporate-advertising" title="Corporate Advertising">Corporate Advertising</a></h3>
-															
+													<h3 class="sub-nav-title"><a href="/our-company/how-we-meet-your-needs" title="How We Meet Your Needs">How We Meet Your Needs</a></h3>
+														<ul class="sub-nav-list"><li><a href="/our-company/you-and-your-family" title="You and Your Family">You and Your Family</a></li><li><a href="/our-company/your-business" title="Your Business">Your Business</a></li><li><a href="/our-company/paying-claims" title="Paying Your Claims">Paying Your Claims</a></li><li><a href="/our-company/your-investments" title="Your Investments">Your Investments</a></li></ul>	
 												</div>
 											</div><div class="col">
 												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="/about/corporate-sponsorship" title="Corporate Sponsorship">Corporate Sponsorship</a></h3>
-														<ul class="sub-nav-list"><li><a href="/about/paralympics" title="U.S. Paralympics">U.S. Paralympics</a></li></ul>	
+													<h3 class="sub-nav-title"><a href="/our-company/what-sets-us-apart" title="What Sets Us Apart">What Sets Us Apart</a></h3>
+														<ul class="sub-nav-list"><li><a href="/our-company/innovation" title="Innovation">Innovation</a></li><li><a href="/our-company/geronology-research" title="Gerontology Research">Gerontology Research</a></li><li><a href="/our-company/paralympic" title="Paralympics">Paralympics</a></li><li><a href="/our-company/success-study-2013" title="Small Business Success Study">Small Business Success Study</a></li></ul>	
 												</div>
 											
 												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="/about/business-continuity" title="Business Continuity">Business Continuity</a></h3>
+													<h3 class="sub-nav-title"><a href="/our-company/video-library" title="Video Library">Video Library</a></h3>
 															
 												</div>
 											
 												<div class="sub-nav">
-													<h3 class="sub-nav-title"><a href="/about/affinity-relationships" title="Affinity Relationships">Affinity Relationships</a></h3>
+													<h3 class="sub-nav-title"><a href="/our-company/facts-and-financials" title="Facts and Financials">Facts and Financials</a></h3>
 															
 												</div>
 											</div><!--close col--><div class="col last">
 
-<!--ListComponentsEJ cached on 2013-02-15 10:17:29-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:39-->
 
 
 <div id="info-block-1287779614205" class="info-block block-type header-color"><div class="info-block-header"><h3 class="info-block-header-title"><span>Explore Our <br>Products &amp; Services</span></h3></div>
@@ -369,7 +385,7 @@
 <div class="col">
 												<div class="sub-nav">
 													<h3 class="sub-nav-title"><a href="/careers/college-students-opportunities" title="Students &amp; Recent Graduates">Students &amp; Recent Graduates</a></h3>
-														<ul class="sub-nav-list"><li><a href="/careers/programs-students" title="Career Paths">Career Paths</a></li><li><a href="/careers/opportunities-students-graduates" title="Match Your Major">Match Your Major</a></li><li><a href="/careers/on-campus-recruitment" title="On Campus Recruiting">On Campus Recruiting</a></li><li><a href="/careers/campus-competition" title="Campus Case Competition">Campus Case Competition</a></li><li><a href="/careers/campus-immersion" title="The Hartford's Early Immersion Program!">The Hartford's Early Immersion Program!</a></li><li><a href="/careers/tips-advice" title="Tips For Candidates">Tips For Candidates</a></li></ul>	
+														<ul class="sub-nav-list"><li><a href="/careers/programs-students" title="Career Paths">Career Paths</a></li><li><a href="/careers/opportunities-students-graduates" title="Match Your Major">Match Your Major</a></li><li><a href="/careers/on-campus-recruitment" title="On Campus Recruiting">On Campus Recruiting</a></li><li><a href="/careers/campus-competition" title="Campus Case Competition">Campus Case Competition</a></li><li><a href="/careers/campus-immersion" title="Early Immersion Program">Early Immersion Program</a></li><li><a href="/careers/tips-advice" title="Tips For Candidates">Tips For Candidates</a></li></ul>	
 												</div>
 											</div><div class="col">
 												<div class="sub-nav">
@@ -381,31 +397,19 @@
 													<h3 class="sub-nav-title"><a href="/careers/job-opportunities-military-veterans" title="Military Veterans">Military Veterans</a></h3>
 															
 												</div>
-											
+											</div><div class="col">
 												<div class="sub-nav">
 													<h3 class="sub-nav-title"><a href="/careers/working-at-hartford" title="Working At The Hartford">Working At The Hartford</a></h3>
 														<ul class="sub-nav-list"><li><a href="/careers/work-culture" title="Culture">Culture</a></li><li><a href="/careers/career-benefits" title="Benefits">Benefits</a></li></ul>	
 												</div>
-											</div><div class="col">
+											
 												<div class="sub-nav">
 													<h3 class="sub-nav-title"><a href="/careers/careers-contact-us" title="Contact Us">Contact Us</a></h3>
 														<ul class="sub-nav-list"><li><a href="/careers/staffing-agency-management-program" title="Staffing Agency Management Program">Staffing Agency Management Program</a></li></ul>	
 												</div>
 											</div><!--close col--><div class="col last">
 
-<!--ListComponentsEJ cached on 2013-02-15 10:17:30-->
-
-
-<div id="info-block-1287779614205" class="info-block block-type header-color"><div class="info-block-header"><h3 class="info-block-header-title"><span>Explore Our <br>Products &amp; Services</span></h3></div>
-				<div class="info-block-body clear-fix"><p><a href="/insurance-individuals/"><br>
-<img alt="image" border="0" src="/sites/hig_standard/pubimgs/thehartford/1287779614214.gif"></a>&nbsp;<br>
-<br>
-<a href="/business/"><img alt="image" border="0" src="/sites/hig_standard/pubimgs/thehartford/1287779614285.gif"></a></p>
-<p><a href="/agents-producers/"><img alt="image" border="0" src="/sites/hig_standard/pubimgs/thehartford/1287779614316.gif"></a></p>
-</div><div class="info-block-footer"><hr class="info-block-footer"></div>	
-				</div>
-
-	
+<!--ListComponentsEJ cached on 2013-12-14 04:55:39-->
 
 </div>
 				
@@ -416,13 +420,13 @@
 <li class="has-dropdown" id="nav-primary-list-item-3"><a class="follow-link" href="/contact-the-hartford/" title="Contact Us" id="nav-primary-list-item-3-link"><span>Contact Us</span></a>
 <div class="nav-primary-dropdown">
 								<div class="layout-d">
-								<!--v_delimitedList=1287779345188,1287779345192,1287779345195,1287779738581,1287779777511,1287779351380,1287779738572-->
+								<!--v_delimitedList=1287779345188,1287779345192,1287779345195,1287779738581,1287779777511,1287779351380,1287779738572,1287786577572-->
 <div class="col">
 												<div class="sub-nav">
 													<h3 class="sub-nav-title"><a href="/contact-the-hartford/individuals-families-contacts" title="Individuals &amp; Families">Individuals &amp; Families</a></h3>
 														<ul class="sub-nav-list"><li><a href="/contact-the-hartford/aarp-contacts" title="AARP Auto &amp; Home">AARP Auto &amp; Home</a></li><li><a href="/contact-the-hartford/direct-contacts" title="Direct Auto &amp; Home">Direct Auto &amp; Home</a></li><li><a href="/contact-the-hartford/independent-agents-contacts" title="Independent Agents Auto &amp; Home">Independent Agents Auto &amp; Home</a></li><li><a href="/contact-the-hartford/employee-contacts" title="Employee Auto &amp; Home">Employee Auto &amp; Home</a></li><li><a href="/contact-the-hartford/indv-employee-benefit-contacts" title="Employee Benefits">Employee Benefits</a></li><li><a href="/contact-the-hartford/retirement-contacts" title="Retirement">Retirement</a></li><li><a href="/contact-the-hartford/college-savings-contacts" title="College Savings">College Savings</a></li></ul>	
 												</div>
-											
+											</div><div class="col">
 												<div class="sub-nav">
 													<h3 class="sub-nav-title"><a href="/contact-the-hartford/business-contacts" title="Business">Business</a></h3>
 														<ul class="sub-nav-list"><li><a href="/contact-the-hartford/insurance-contacts" title="Business Insurance">Business Insurance</a></li><li><a href="/contact-the-hartford/bus-employee-benefits-contacts" title="Employee Benefits">Employee Benefits</a></li><li><a href="/contact-the-hartford/claims-contacts" title="Claims">Claims</a></li><li><a href="/contact-the-hartford/financial-products-contacts" title="Financial Products">Financial Products</a></li></ul>	
@@ -452,9 +456,14 @@
 													<h3 class="sub-nav-title"><a href="/contact-the-hartford/main-contact" title="Main Contact Information">Main Contact Information</a></h3>
 															
 												</div>
+											
+												<div class="sub-nav">
+													<h3 class="sub-nav-title"><a href="/contact-the-hartford/illinois-bulletin" title="Illinois Tornadoes">Illinois Tornadoes</a></h3>
+															
+												</div>
 											</div><!--close col--><div class="col last">
 
-<!--ListComponentsEJ cached on 2013-02-15 10:17:30-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:40-->
 
 
 <div id="info-block-1287779614205" class="info-block block-type header-color"><div class="info-block-header"><h3 class="info-block-header-title"><span>Explore Our <br>Products &amp; Services</span></h3></div>
@@ -483,7 +492,7 @@
 													<h3 class="sub-nav-title"><a href="/service/auto-home-service" title="Individuals &amp; Families">Individuals &amp; Families</a></h3>
 														<ul class="sub-nav-list"><li><a href="/service/auto-home-service" title="Auto &amp; Home Insurance Service">Auto &amp; Home Insurance Service</a></li><li><a href="/service/auto-home-claims" title="Auto &amp; Home Insurance Claims">Auto &amp; Home Insurance Claims</a></li><li><a href="/service/annuities-service" title="Annuities">Annuities</a></li><li><a href="/service/college-savings-plans-service" title="College Savings Plans">College Savings Plans</a></li><li><a href="/service/employee-benefits-claims" title="Employee Benefits">Employee Benefits</a></li><li><a href="/service/employee-retirement-plans" title="Employee Retirement Plans">Employee Retirement Plans</a></li><li><a href="/service/life-insurance-claims" title="Life Insurance">Life Insurance</a></li><li><a href="/service/mutual-funds-service" title="Mutual Funds">Mutual Funds</a></li><li><a href="/service/safe-haven-program-service" title="Safe Haven Program">Safe Haven Program</a></li></ul>	
 												</div>
-											
+											</div><div class="col">
 												<div class="sub-nav">
 													<h3 class="sub-nav-title"><a href="/service/business-insurance-service" title="Business">Business</a></h3>
 														<ul class="sub-nav-list"><li><a href="/service/business-insurance-service" title="Business Insurance Service">Business Insurance Service</a></li><li><a href="/service/business-insurance-claims" title="Business Insurance Claims">Business Insurance Claims</a></li><li><a href="/service/group-life-disability" title="Group Life Disability">Group Life Disability</a></li></ul>	
@@ -505,7 +514,7 @@
 												</div>
 											</div><!--close col--><div class="col last">
 
-<!--ListComponentsEJ cached on 2013-02-15 10:17:31-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:41-->
 
 </div>
 				
@@ -551,7 +560,7 @@
 												</div>
 											</div><!--close col--><div class="col last">
 
-<!--ListComponentsEJ cached on 2013-02-15 10:17:32-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:41-->
 
 
 <div id="info-block-1287779988232" class="info-block block-type header-color"><div class="info-block-header"><h3 class="info-block-header-title"><span>The Hartford</span></h3></div>
@@ -583,18 +592,18 @@
 
 <div id="content-head">
 	<h1 id="page-title" class="h2">Privacy Policy</h1><div id="page-teaser">Online Privacy Policy and Practices Of The Hartford Financial Services Group, Inc. <br>and its Affiliates ("The Hartford")</div>
-	
+
 </div>
 <div id="content-main"><div class="content-wrapper-outer"><div class="content-wrapper-inner clear-fix">
 
 
 
-<!--LeftNavEJ cached on 2013-02-02 06:06:55-->
+<!--LeftNavEJ cached on 2013-12-14 04:55:42-->
 <div id="nav-secondary"><h3 id="nav-secondary-list-title">
 				<span>Privacy Policy</span>
 			</h3>
 			<ul id="nav-secondary-list">
-			<li><a href="/customer-privacy-notice" title="Customer Privacy Notice">Customer Privacy Notice</a></li><li><a href="/ssn-policy" title="SSN Protection Policy">SSN Protection Policy</a></li><li><a href="/canadian-privacy-policy" title="Canadian Privacy Policy">Canadian Privacy Policy</a></li></ul>
+			<li><a href="/customer-privacy-notice" title="Customer Privacy Notice">Customer Privacy Notice</a></li><li><a href="/ssn-policy" title="SSN Protection Policy">SSN Protection Policy</a></li><li><a href="/canadian-privacy-policy" title="Canadian Privacy Policy">Canadian Privacy Policy</a></li><li><a href="/ny-domestic-violence-notice" title="New York Domestic Violence Notice">New York Domestic Violence Notice</a></li></ul>
 	
 	</div>
 <div class="content-with-leftnav">
@@ -613,8 +622,8 @@ addLoadEvent(function(){
 });
 </script>
 
-<!--LoopContentEX cached On 2013-02-02 06:06:56--><a name="content-1287779469545" id="1287779469545"></a><a name="top"></a>
-<p><em>Last Updated April 7, 2011</em></p>
+<!--LoopContentEX cached On 2013-12-14 04:55:43--><a name="content-1287779469545" id="1287779469545"></a><a name="top"></a>
+<p><em>Last Updated Dec. 9, 2013</em></p>
 <p>The Hartford values your trust and is committed to the responsible management, use and protection of personal information. This Online Privacy Policy describes and supplements other applicable policies, practices and privacy notices that may relate to specific business relationships you have with The Hartford or to certain products or services, as described in the particular privacy notice. At the start of our business relationship with you as a client, we will give you a copy of our Privacy Notice that applies to that relationship if applicable.</p>
 <p>This Online Privacy Policy is applicable to all the information collected by The Hartford from you during your use of our Website <a href="http://www.thehartford.com/">http://www.thehartford.com</a> and its affiliate sites. We will refer to these websites collectively as the "Site" throughout this Online Privacy Policy.</p>
 <h3 class="h3-content-title-underlined">Quick Links</h3>
@@ -702,6 +711,7 @@ addLoadEvent(function(){
     <li>Internet Protocol address which is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. Collecting Internet Protocol addresses is standard practice on the Internet and is done automatically by many websites.</li>
 </ul>
 <p>We also use service providers to help us develop applications for your convenience, such as to submit a claim through your mobile device. These application service providers may use tracking pixels, agents or other visitor identification technology to collect certain non-personal information, such as your browser type, your operating system, and other information that does not identify you. The application service providers do not receive your claims information or any other information that identifies you.</p>
+<p>We and the third parties we partner with currently do not process or comply with any web browser's "do not track" signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit our websites or use our services.</p>
 <p><a class="link-section-more" href="#top">Back to top</a></p>
 <a id="links_others" name="links_others"></a>
 <h2 class="h2-content-title-underlined">LINKS TO OTHER WEBSITES</h2>
@@ -730,18 +740,18 @@ addLoadEvent(function(){
 <p>We reserve the right to amend this Online Privacy Policy at any time in order to address future developments of The Hartford, the Site or changes in industry or legal trends. We will post the revised Online Privacy Policy on the Site or announce the change on the home page of the Site. You can determine when the Online Privacy Policy was revised by referring to the "Last Updated" legend on the top of this policy. Any changes will become effective upon the posting of the revised Online Privacy Policy on the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Online Privacy Policy, in whole or part, you can choose to not continue to use the Site. If you have any questions or comments about this Online Privacy Policy, please feel free to contact us at The Hartford - Privacy Office (Law-B1E), 200 Hopmeadow Street, Simsbury, CT 06070.</p>
 <p><a class="link-section-more" href="#top">Back to top</a></p>
 
-<!--ListComponentsEJ cached on 2013-02-02 06:06:56-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:43-->
 
 </div></div></div></div></div></div><div id="footer" class="clear-fix">
  <div id="footer-functional" class="clear-fix"><div id="footer-functional-container"><h3 id="footer-functional-title">Functional Footer</h3>
 
-<!--ListComponentsEJ cached on 2013-02-15 10:17:25-->
+<!--ListComponentsEJ cached on 2013-12-14 04:55:43-->
 
 </div></div><div id="footer-common"><div id="footer-primary" class="clear-fix"><h3 id="footer-primary-list-title">Footer Primary Navigation</h3>
-				<ul id="footer-primary-list"><li class="first"><a href="/about/" title="About Us">About Us</a></li><li><a href="/careers/" title="Careers">Careers</a></li><li><a href="/contact-the-hartford/" title="Contact Us">Contact Us</a></li><li><a href="/service/" title="Claims &amp; Service">Claims &amp; Service</a></li><li><a href="http://newsroom.thehartford.com" title="News">News</a></li><li><a href="http://ir.thehartford.com" title="Investor Relations">Investor Relations</a></li>
+				<ul id="footer-primary-list"><li class="first"><a href="/our-company/" title="Our Company">Our Company</a></li><li><a href="/careers/" title="Careers">Careers</a></li><li><a href="/contact-the-hartford/" title="Contact Us">Contact Us</a></li><li><a href="/service/" title="Claims &amp; Service">Claims &amp; Service</a></li><li><a href="http://newsroom.thehartford.com" title="News">News</a></li><li><a href="http://ir.thehartford.com" title="Investor Relations" rel="nofollow">Investor Relations</a></li>
 				</ul>
 			
-				
+
 			<ul id="footer-primary-list-2"><li class="first"><a href="/site-map" title="SiteMap">SiteMap</a></li><li><a href="/online-privacy-policy" title="Privacy Policy">Privacy Policy</a></li><li><a href="/legal-notice" title="Legal Notice">Legal Notice</a></li><li><a href="/producer-compensation" title="Producer Compensation">Producer Compensation</a></li>
 				</ul>
 			<div id="social-networking"><h3 id="social-networking-list-title">Follow us on:</h3><ul><li class="chiclet-facebook"><a target="_blank" href="http://www.facebook.com/TheHartford"><span>facebook</span></a></li><li class="chiclet-twitter"><a target="_blank" href="http://twitter.com/TheHartford"><span>twitter</span></a></li><li class="chiclet-linkedin"><a target="_blank" href="http://www.linkedin.com/companies/the-hartford"><span>linkedIn</span></a></li><li class="chiclet-youtube"><a target="_blank" href="http://www.youtube.com/thehartford"><span>YouTube</span></a></li></ul></div>
@@ -749,17 +759,13 @@ addLoadEvent(function(){
 			<p id="container-copyright-right">© Copyright 2013 The Hartford Financial Services Group, Inc. All Rights Reserved</p>
 		</div></div></div></div></div>
 <script type="text/javascript" src="//s0.hfdstatic.com/sites/build_4/js/jquery-1.5.2.min.js"></script>
-<script type="text/javascript" src="//s0.hfdstatic.com/sites/build_4/js/thehartford_20130208.js"></script>
+<script type="text/javascript" src="//s0.hfdstatic.com/sites/build_4/js/thehartford_20131021.js"></script>
 
 	
-	 
+	
+	
 
-
-
-
-
-
-
+<!--Javascript Specific for following: Variables.HIG_componenttemplates-->
 
 
 
@@ -774,18 +780,21 @@ addLoadEvent(function(){
 	var sectionid="1285275778821";
 	var subsectionid="unknown";
 	$.cookie("higsectionid", sectionid, { expires: 365, path:"/"  });
-	
+
 	$(document).ready(function(){
 		$('a[higUT]').click(function(){
 			var usertype=$(this).attr('higUT')
 			$.cookie("higusertype", usertype, { expires: 365, path:"/" });
-			
-		});				     
+
+		});
 	})
 	var homequoteurl="https://personal02.thehartford.com/home/ConsumerHome.do";
 	var floodurl="https://www.thehartford.com//AARPins/flood/floodquote.html";
-	
+
 </script>
+
+
+
 
 <link rel="stylesheet" type="text/css" href="//s0.hfdstatic.com/sites/opinionlab/onlineopinionV5/oo_style.css">
 
@@ -844,34 +853,34 @@ else if (thisPageURL.indexOf("/cs/")>0){
 <!--
 /* @license
  * MyFonts Webfont Build ID 2290530, 2012-05-11T14:54:13-0400
- * 
+ *
  * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
+ * Agreement(s) entered into by the website owner. All other parties are
  * explicitly restricted from using the Licensed Webfonts(s).
- * 
+ *
  * You may obtain a valid license at the URLs below.
- * 
+ *
  * Webfont: Proxima Nova S Semibold by Mark Simonson
  * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-semibold/
  * Licensed pageviews: unlimited
- * 
+ *
  * Webfont: Proxima Nova A Semibold by Mark Simonson
  * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-semibold/
  * Licensed pageviews: unspecified
- * 
+ *
  * Webfont: Proxima Nova Semibold by Mark Simonson
  * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/semibold/
  * Licensed pageviews: unspecified
- * 
- * 
+ *
+ *
  * License: http://www.myfonts.com/viewlicense?type=web&buildid=2290530
  * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
- * 
+ *
  *  2012 Bitstream Inc
 */
 -->
 
-		
+			
 
 	
 	
