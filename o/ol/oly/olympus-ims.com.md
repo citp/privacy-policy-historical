@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olympus-ims.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623025457id_/http%3A//www.olympus-ims.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympus-ims.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222175609id_/http%3A//www.olympus-ims.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement / Olympus
+# Privacy Statement /
 
 (1) 
 
@@ -26,4 +26,4 @@ If you are under the age of 16, please make sure to obtain the consent of a pare
 As stated in Paragraph 8 of the About This Website and the [Submission of Ideas](http://support.olympus.co.jp/en/contact/mail/idea.cfm), Olympus is not obligated to accept or consider any unsolicited information or ideas about technologies, products, services, designs or business from the public ("Idea") through this Olympus Website or otherwise. 
 
 (7)   
-Your personal information will be submitted to Olympus or its affiliates' servers located in the United States and will be used and shared with Olympus, its affiliates and their distributors in your country of residence or any other country outside of your country of residence (including outside the European Economic Area) in a manner consistent with Olympus Personal Information Protection Policy. 
+Your personal information will be submitted to the dedicated servers managed by Olympus or its outsourcers （Olympus group companies, and/or distributors, agents of Olympus, with whom Olympus has concluded confidentiality agreements） located in the United States and the Czech Republic and will be used and shared with Olympus, its affiliates and their distributors in your country of residence or any other country outside of your country of residence (including outside the European Economic Area) in a manner consistent with Olympus Personal Information Protection Policy. 
