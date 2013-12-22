@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cagepotato.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622025918id_/http%3A//www.cagepotato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cagepotato.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222025922id_/http%3A//www.cagepotato.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | Cagepotato
+# Privacy Policy | Cagepotato
 
 At CagePotato.com, a website operated by ChickiP, LLC (“ChickiP”), we are committed to respecting people’s privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. By using CagePotato.com, you consent to the collection and use of your information by ChickiP as described in this Policy, and you signify your agreement to the CagePotato Privacy Policy.
 
