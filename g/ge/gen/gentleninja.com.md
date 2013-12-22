@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gentleninja.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601063825id_/http%3A//gentleninja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentleninja.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222113410id_/http%3A//gentleninja.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gentleninja.com
 
 We WILL NEVER sell your email address to anyone. You can always unsubscribe from our lovely daily newsletter by clicking unsubscribe on the bottom right of the email.
+
+Update : Any deal / offer / Vendor violating the TOS will be removed from the site .
 
 Full Policy
 
@@ -54,3 +56,7 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 
 Children. Minors under the age of 18 may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. Gentle Ninja does not sell products for purchase by children. In certain instances, we sell children’s products for purchase by adults.  
 Public Areas. We may provide areas on our Website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a movie review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.
+
+11.  Selling Facebook Likes / Followers :
+
+As of our updated policy , we have decided not to showcase any deals that promotes buying Fake Facebook likes , Followers of any kind etc.  If the deal is a genuine Social media marketing deal where Likes , followers are increased organically it can be looked into .
