@@ -1,10 +1,13 @@
-<!--The following is the downloaded HTML source of the greenvelope.com privacy policy that was archived on 2013-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130116220953id_/https%3A//www.greenvelope.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greenvelope.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222121527id_/https%3A//www.greenvelope.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy | Greenvelope.com
-</title><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="Stylesheet" type="text/css" href="/public/css/style.css"><link rel="shortcut icon" href="/public/images/favicon.ico" type="image/x-icon">
-    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7966.js?439024" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/d2858f2b7940cad4bccf648e72c8700ee6131057.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge">  
+    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7966.js?439024" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/d2858f2b7940cad4bccf648e72c8700ee6131057.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://cdn.optimizely.com/js/203034063.js"></script>
+    
+    <link rel="Stylesheet" type="text/css" href="/public/css/style.css"><link rel="shortcut icon" href="/public/images/favicon.ico" type="image/x-icon">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
     <script type="text/javascript">
 
@@ -114,6 +117,55 @@
             });
           }
 
+          function showOtherMenu() {
+            if ($('#menuSpecial').hasClass('active') == false) {
+              $('#menuSpecial').css('background-color', '#3a260d');
+              $('#menuSpecial').children().css('color', '#fff');
+            }
+            $('#menu-special').css('left', $('#menuSpecial').position().left);
+            $('#menu-special').show();
+          }
+
+          function hideOtherMenu() {
+            if ($('#menuSpecial').hasClass('active') == false) {
+              $('#menuSpecial').css('background-color', '');
+              $('#menuSpecial').children().css('color', '#3a260d');
+            }
+            $('#menu-special').hide();
+          }
+
+          function showHolidayMenu() {
+            if ($('#menuHoliday').hasClass('active') == false) {
+              $('#menuHoliday').css('background-color', '#3a260d');
+              $('#menuHoliday').children().css('color', '#fff');
+            }
+            $('#menu-holiday').css('left', $('#menuHoliday').position().left);
+            $('#menu-holiday').show();
+          }
+
+          function hideHolidayMenu() {
+            if ($('#menuHoliday').hasClass('active') == false) {
+              $('#menuHoliday').css('background-color', '');
+              $('#menuHoliday').children().css('color', '#3a260d');
+            }
+            $('#menu-holiday').hide();
+          }
+
+          function showUploadDesign() {
+            $(".shade").show();
+            var pageWidth = $(window).width();
+            var pageHeight = $(window).height();
+
+            var boxWidth = $("#upload-design-dialog").outerWidth();
+            var boxHeight = $("#upload-design-dialog").outerHeight();
+
+            var xPos = pageWidth / 2 - boxWidth / 2;
+            var yPos = 200;
+
+            $("#upload-design-dialog").css("left", xPos + "px");
+            $("#upload-design-dialog").css("top", 200 + "px");
+            $("#upload-design-dialog").show();
+          }
     </script>
     
 <meta name="description" content="Please read the Greenvelope Privacy Policy Carefully.">
@@ -121,29 +173,75 @@
 <script type="text/javascript">
     var publicPage = true;
 </script>
-<link href="App_Themes/Default/jquery.qtip.min.css" type="text/css" rel="stylesheet"><link href="App_Themes/Default/jquery-ui-1.8.12.custom.css" type="text/css" rel="stylesheet"><link href="App_Themes/Default/StyleSheet.css" type="text/css" rel="stylesheet"></head>
+
+    <script type="text/javascript" src="/_scripts/mixpanel.js"></script>
+    <script type="text/javascript">
+      try {
+        if (mpGetCookie('AccountID') == '' && localStorage) {
+          mpLanding();
+          setTimeout(mpEngaged, 10000);
+        }
+      }
+      catch (err) {
+      }      
+
+    </script>
+<link href="App_Themes/Default/jquery.qtip.min.css" type="text/css" rel="stylesheet"><link href="App_Themes/Default/jquery-ui-1.8.12.custom.css" type="text/css" rel="stylesheet"><link href="App_Themes/Default/StyleSheet.css" type="text/css" rel="stylesheet"><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
-    <form method="post" action="/privacy" id="aspnetForm" class="public-form">
+    <form method="post" action="privacy" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm" class="public-form">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTgxMjAzNjcwD2QWAmYPZBYCAgMPZBYEAgcPZBYCAgEPZBYCZg9kFgICAQ9kFgYCAQ8PFgQeCENzc0NsYXNzZR4EXyFTQgICZGQCAw8PFgQfAGUfAQICZGQCBQ8WAh4EVGV4dGVkAgsPZBYCZg9kFgICAQ9kFgICAQ8QZGQWAWZkZJOHfIhEKC4vRCSkAiRFPw0eblyQmtI53/SPn/QjxIYs">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTgxMjAzNjcwD2QWAmYPZBYCAgMPZBYEAggPZBYCAgEPZBYCZg9kFgICAQ9kFgYCAQ8PFgQeCENzc0NsYXNzZR4EXyFTQgICZGQCAw8PFgQfAGUfAQICZGQCBQ8WAh4EVGV4dGVkAg0PZBYCZg9kFgICAQ9kFgICAQ8QZGQWAWZkZMdZxBp8C2FXJppasnkMbtJke89FSKfTMO27h3E8N2Dw">
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
-<script src="/ScriptResource.axd?d=Cqw_S8uqaMEi5gFlin8MDt9quABwsLqVvZcQLo749FGnVBvfchKDc6fE4-gPWXsTRfDtBmhz6JXacU2rJpYJceSRoTbiGT573UMXl7FwxghLBAVjqeJ2bFOdbDGD0_wLCM--HENFkOXiFFyAx6kMJA2&amp;t=ffffffffc13acc3f" type="text/javascript"></script>
+
+<script src="/WebResource.axd?d=AxwHNuegAkBZJN8tvFquYJ5t3PLr5K--ZxjjgHc0N8eYqkeF1W1d6DhketBt_9WsrDF3n28nHQSHjASedQBHgKfRYbk6ygaRetNBTx6KPfM1&amp;t=635147113028703554" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=Py8a0_E8yj0OiVETd-2y2JZna0ePLc-vPUihRG3GBg3oHJLsTYC94_bXfgNWSXc7dWgORO_HR0c5Iezgd10OyyfNl7HHQ0RQIlTRziKCffRVgKXu9YB0rbeHUkTJhXS-CaEAPPGZ8v36o_DaCBTYyIufifxJvgOA5J0LOIKKjxI1&amp;t=2e8dfcac" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=nHP1PZ1IpsoQd8hOOqKf_lpsBUky3LSambjFS043VUTc35FDHBYzY9L25rgo7BI2pZiHSUVZEK36OIrMksF7gizv4jN43whhMArTh2lDsmWn53JQFRoxbd_GS6QLuvEM9FmLTCUjaO3o6i9VzV3EBg2&amp;t=3a1336b1" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=WH9vHn-mj68jtUuWJMTZ7ipvumvCNQqWi_g9j9_wm0cTb92k1Iu7De6LYCoov1d7DAUBDJtVmmXXFn5_LYEsl5VCVfv2FZEhDTmIBX4TR9oxB2jEl-8zLr5xG49XDEfQ40jDo10VXNmBybYgh5gwcQ2&amp;t=ffffffffc13acc3f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=iImS7M7L1_LV5HGW5NR8uMejZZ1y0bkqLbXG-mQNuIJFvcM4qTUaglgq3vMBkhz1SSRvuqen6sR7HCv48FQpKCX5tDXtjJ4u_Z6S-U6kySDtSlOXNGsF8EhoM_-TMvLTRGCYaq3kHn-F9EOgLZZ70g2&amp;t=ffffffffc13acc3f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=LMlmtpqOzAWhWu1oDC3rHmgSe0d60V76_lTj_nB4MEY9HoG2wz_CsjZIV_ts-hM4VKWgPerhbGOr3gEyN_u2DhZ2a7ffGT9Opf6RM1PHVKm-piUhPuER-qRIyj-QXkEmwWnAy8hhAtiXphfD0H4N0Q2&amp;t=ffffffffc13acc3f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=OynLlFufpg00i9WbyC_EWmbRr666XgaH2ozU-gdJZMyL5JIbxrTitkDrh57XEOBYyni9BJ9MAJNIhl1KWInnz_dcwQorbZ6MyAXy6orqmdNvzEthN3RvLEhuvRdSqkIIkuytKQ3_0Xo13YyLd6_-Pw2&amp;t=ffffffffc13acc3f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=JQzCi4jznzY06uQaK4FQHaqhWvCh7p-YPxVzTMOcqX236tCNTMaa2PjKaXYXlci1oVsv47C10Xjzp_-LEoODTIWFUwBfIkRLVJNjQ5nkuVo3CDYTY9u4k0Ak6DUhBuFB7gW16Osme885MlCXzlb1OPXze1ZOqJ0eaDyOHK1OIa8YTx029bk3l3KcAf4l5fes0&amp;t=ffffffffc13acc3f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=MF-CjW_9zU3NIikpGeB1iwGOIpEJv06m_abQEjzfY5_xVTRRbbyyKYJ10VExVwzioh6Ri7NjGcQmmttTgkz0s_0u6HrM4qNC4MAQwOFauMzSp_c6YOB7lckSPCWLcmOal62LKM8z3ozdodJwkHcnRQ2&amp;t=3a1336b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=PgI4VYLKCD0e_WJQwv9bPt8DHfuPWLHRxZc6ySFNwBHozWpT5nkB6SeLUmcTSEf39KwcCt5Eq5FFvAWrkweDznIiHoaH1vVZM4IDCXw0_pZqGvuSP-O0uDDILn8t5kfVVGWahoetI1Q33RCEH3intg2&amp;t=3a1336b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-pXYlCEsuQw2JTAgA8gBhIbWW98ad0oMMWMZJCXdPG01RfSfAWWLTxUEAROSfBzW55TrMADzb0k961HSpe5V3_63agXhvEuGyLb9O5v7_U8zyfPK3XSnNviSjUjBVbaAZo4PgIMFulsmdjU-2FMMYQ2&amp;t=3a1336b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Rsp5L024STR18Duvw98KzYlFelzKx8r5NompDjfwjgaAeGIaQgSHKStb0offsjD7qhOB_dLqMEYuUAWZsCvemj49i2o5-7OT3tDezD0YQrO2Dn_3yre2h3uD6fdxQJoGPEkTEzunsEo1_QFgR-HSsw2&amp;t=3a1336b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jle1V88go0y_bEbjyTloWCsKzKavIkqglDA2MvNPUsRCsArTh8Ar4X18qNt3w2n3IT2EsbB0mPQDDQL3UZi_mAmx8IoXH9kInpF6ILCZddcWgZCARc7hPeO7pxkBtZHOveQdkNT72Ww-ui5G3OVDAA2&amp;t=3a1336b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NYUn7EAKmsoNtN-il5drVGMASemOemHTSR_7lVuyc8gA9gd-mc0Y784d0ebiJ3lC_Yw1jceVjnjILLvq2hymI6_nHaZ0KJelqiikHWG_qNMJCHx_bYE_ikrBJbX7WFS2m4-9r2Hi_veyWpIv6FE8qXNY5YvbJ8PGhzDmXgztu-vkexJpf2S-L1QHicbT_hXa0&amp;t=3a1336b1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWGQKXtuX9CQLZzPi2DgKx7ZSyDwL2opC6CAKU3+PsCwKa74fTBQLhq9r2BwKRxPCYCwK/xPCYCwLS8aOABALS8dvzAwKirrvuCQKB7Ye1BQKEgu2VCAKmgbrMBgK2oOdoAoKp34gFAvOo3qcPArXSoPMDAv2qgowIAua71P4BAprCjYQHAs/mgYQIAtOmg5IBAq2WsfEPeRGHj+5leMd8na32zpuat0BEI4RZgJGTH1eXRwQF/kg=">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABnqjiNGSJDYARY3A3eSfPw/h+yCIBW6UuRooX7N5AoTEgjr9FVryf7US+01HCWKi5hZZnaAdKld2OxjXFcwHd3jLSt6KEsQN4icsT6MODDIjyEvb2qQ/LH9yo68AHU5Sr+71ZQye8yo0v70TmGacozurzzV16oWVOmB5YicbdunbnrpFyULquJnCmObCSwPGSad67DnQ6hZDSh3M/BeojfdjVpkqYIJaAjy4cwO8ZxYAuavl7A5rLRYJbKgA2XxHN7ssIuc9r2hvdzyhCxIOVL26mPbMvE5koryPrFWLq+NXUCsP1JyIu1mPq6WTpdPMf6BabIdnNLu5p3fsKSpv8r+KHZCRdJ+D3K9ZRCbFHki2Uv1nMSGm+q6wINE+Y9vZQEuqKMkAiFZBPX6Ed99+iJA8t3lgMCPU3ww3dxLRVvzNk+0QOOMBDmMuQFjXVhuNQHo99NLBrIt9f3hwW2uwRT8P/qSZDnjK8M0S57LzH+YoYWHrg//qrsy7dsc/xfN2wyKlNjZDKopqzbkdCUEoDO+6VXHegbbupBF7UXL26MahL3XxrjLoAHHqhGXt6nzUoI=">
 </div>
     <input type="hidden" name="ctl00$hdTimeOffset" id="ctl00_hdTimeOffset">
     <script>
@@ -164,18 +262,81 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         getClientTimezoneOffsetInMinutes();
         //http://www.danrigsby.com/blog/index.php/2008/08/24/timezone-vs-timezoneinfo-in-net/
       </script>    
-    
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$sm', 'aspnetForm', ['tctl00$upLogin','','fctl00$upSignUp','','tctl00$upMessage',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
     <div id="wrapper">
 	    <div id="header">
           
     	    <div id="header-inner">            
-                <div id="logo"><a href="/"><img src="/public/images/logo.png"></a></div>
+                <div id="logo"><a href="/"><img src="/public/images/logo.png"></a></div>            
                 <ul id="nav">
             	    <li id="ctl00_menuWedding" class="nav-first"><a href="/weddings">Weddings</a></li>                  
-                  <li id="ctl00_menuBar"><a href="/bar-bat-mitzvah">Bar/Bat Mitzvah</a></li>
-                  <li id="ctl00_menuBirthday"><a href="/birthday">Birthday</a></li>
                   <li id="ctl00_menuBusiness"><a href="/business">Business</a></li>                  
+                  <li id="ctl00_menuBar" style="display: none;"><a href="/bar-bat-mitzvah">Mitzvah</a></li>
+                  <li id="menuHoliday" onmouseover="showHolidayMenu();" onmouseout="hideHolidayMenu();"><a style="text-align: center;" href="/special-occasion">Holiday</a></li>                  
+                  <li id="menuSpecial" onmouseover="showOtherMenu();" onmouseout="hideOtherMenu();"><a style="padding-top: 24px;padding-bottom: 24px;text-align: center;" href="/special-occasion">Other<br>Special Occasions</a></li>                  
                 </ul>
+                <div id="menu-special" onmouseover="showOtherMenu();" onmouseout="hideOtherMenu();">
+                  <table class="product-design-list-menu" cellspacing="5" width="100%">
+                    <tbody><tr>
+                      <td rowspan="2">
+                        <h4>Baby</h4>
+                        <a href="/designs/baby-shower-invitations">Baby Shower Invitations</a><br>
+                        <a href="/designs/birth-announcements">Baby Announcements</a><br>
+                        <h4>Birthday</h4>
+                        <a href="/designs/birthday-party-invitations">Birthday Invitations</a><br>
+                        <a href="/bar-bat-mitzvah"><h4>Mitzvah</h4></a>
+                        <a href="/designs/bar-bat-mitzvah-save-the-dates">Mitzvah Save the Dates</a><br>
+                        <a href="/designs/bar-bat-mitzvah-invitations">Mitzvah Invitations</a><br>
+                        <a href="/designs/bar-bat-mitzvah-thank-you-notes">Mitzvah Thank You Notes</a><br>
+                      </td>
+                      <td>
+                        <h4>Graduation</h4>
+                        <a href="/designs/graduation-party-invitations">Graduation Party Invitations</a><br>
+                        <a href="/designs/graduation-announcements">Graduation Announcements</a><br>
+                        <h4>Entertaining</h4>
+                        <a href="/designs/entertaining-invitations">Entertaining Invitations</a><br>
+                        <a href="/designs/housewarming-moving-announcements">Housewarming &amp; Moving</a><br>
+                      </td>
+                      <td>
+                        <h4>Christian Events</h4>
+                        <a href="/designs/baptism-communion-save-the-dates">Christian Save the Dates</a><br>
+                        <a href="/designs/baptism-communion-invitations">Christian Invitations</a><br>
+                        <a href="/designs/baptism-communion-thank-you-notes">Christian Thank You Notes</a><br>                        
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2" style="padding-top: 15px;">
+                        <div class="button-green-med-left" id="upload-design-button" onclick="showUploadDesign();" style="width: 330px;">
+                          <div class="button-green-med-right" style="width: 100%;">
+                            <div class="button-green-med-content" style="width: 100%;">
+                              <a href="#" style="width: 100%; text-align: center; text-decoration: none; font-weight: bold;">Add Your Own Design</a></div>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </div>
+                <div id="menu-holiday" onmouseover="showHolidayMenu();" onmouseout="hideHolidayMenu();">
+                  <table class="product-design-list-menu" cellspacing="5" width="100%">
+                    <tbody><tr>
+                      <td>
+                        <h4>Personal</h4>
+                        <a href="/designs/holiday-christmas-greeting-cards">Holiday Greeting Cards</a><br>
+                        <a href="/designs/holiday-christmas-party-invitations">Holiday Invitations</a><br>
+                      </td>
+                      <td>
+                        <h4>Business</h4>
+                        <a href="/designs/business-holiday-christmas-greeting-cards">Holiday Greeting Cards</a><br>
+                        <a href="/designs/business-holiday-christmas-party-invitations">Holiday Invitations</a><br>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </div>
                                   
                   <div id="login">
             	    <div id="login-content">
@@ -190,7 +351,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <div id="login-popup">
                             <div id="ctl00_upLogin">
 	
-                              <div>
+                              <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_lnkLogin')">
 		
                                 <label for="login_email">Email</label>
                                 <input name="ctl00$login_email" type="text" id="ctl00_login_email">
@@ -213,8 +374,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 </div>
                         </div>
                     </div>
-                    <div id="free-trial-bubble" class="start-free-trial-button">Free Trial</div>
-                </div>
+                    <div id="free-trial-bubble" class="start-free-trial-button">Free Trial</div>                    
+                  </div>                  
                 
                 
             </div>
@@ -364,9 +525,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 	<ul>
                         <li class="header">Greenvelope</li>
                         <li><a href="/about">About Us</a></li>
-                        <li><a href="http://blog.greenvelope.com">Blog</a></li>
+                        <li><a href="https://www.greenvelope.com/blog">Blog</a></li>
                         <li><a href="/press">Press</a></li>
                         <li><a href="/refer-a-friend">Refer-A-Friend</a></li>
+                        <li><a href="/designers">Designers</a></li>
                     </ul>
                 </li>
                 <li>
@@ -385,21 +547,25 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <li><img src="/public/images/footer-phone.png">1.888.505.2588 (9am - 5pm PST)</li>
                         <li><img src="/public/images/footer-facebook.png"><a href="http://facebook.com/Greenvelope" target="_blank">Facebook</a></li>
                         <li><img src="/public/images/footer-twitter.png"><a href="http://twitter.com/Greenvelope" target="_blank">Twitter</a></li>
+                        <li><img src="/public/images/footer-pinterest.png"><a href="http://pinterest.com/greenvelope/" target="_blank">Pinterest</a></li>
                     </ul>
                 </li>
                 <li style="margin-right: 0px;">
                 	<ul>
                     	<li class="header">Support</li>
                     	<li>We're here to help ensure your experience is <br>smooth and enjoyable</li>
-                        <li><a href="http://help.greenvelope.com" id="support-center-button" target="_blank"></a></li>
+                      <li><a href="http://help.greenvelope.com" id="support-center-button" target="_blank"></a></li>
                     </ul>
                 </li>                
                 <li class="last">
-                  <a href="http://www.themidnightcoders.com/" target="_blank"><img src="/public/images/powered-by-weborb.png" border="0"></a>
+                  <a href="http://www.themidnightcoders.com/" target="_blank"><img src="/public/images/powered-by-weborb.png" border="0"></a>                  <br>
+                  <a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
+                  
                 </li>
             </ul>
             <div class="clr"></div>
-            <div id="copyright">© 2012 Greenvelope, LLC. All Rights Reserved. <a href="/terms">Terms of Service</a> <a href="/privacy">Privacy Policy</a></div>
+            
+            <div id="copyright">© 2013 Greenvelope, LLC. All Rights Reserved. <a href="/terms">Terms of Service</a> <a href="/privacy">Privacy Policy</a></div>
         </div>
     </div>
     <div id="signup-dialog" class="dialog">
@@ -408,7 +574,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
       </div>
       <div id="ctl00_upSignUp">
 	
-          <div id="ctl00_Panel1">
+          <div id="ctl00_Panel1" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_btnSignUp')">
 		
             <div class="dialog-top">
               Welcome to Greenvelope! Please fill in the following information to sign up. <a href="#" id="already-have-account" class="light-brown">Already have an account?</a>
@@ -416,7 +582,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <div class="input-wrapper account-type">
               <label for="account_type">
                 Primary Use</label>
-                <select name="ctl00$ddAccountType" id="ctl00_ddAccountType">
+                <select name="ctl00$ddAccountType" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ddAccountType\',\'\')', 0)" id="ctl00_ddAccountType">
 			<option selected="selected" value="">Please Select</option>
 			<option value="P">Personal</option>
 			<option value="B">Business</option>
@@ -468,7 +634,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             </div>
             <div id="dialog-column-right">
               <div style="padding-bottom: 10px;">
-                
+                <span id="ctl00_valSignUpVal" class="error" style="display:none;"><b>Required Fields Missing</b></span>
               </div>
               <div class="button-green-med-left" id="start-free-trial-button">
                 <div class="button-green-med-right">
@@ -505,10 +671,66 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
           
         
 </div>
+
+      <div id="upload-design-dialog" class="dialog">
+        <div class="dialog-close-wrapper" onclick="$('.dialog').hide();$('.shade').hide();">
+          <img src="../public/images/white-x.png"><span class="clr">Close</span>
+        </div>
+        <div class="dialog-content">
+          <h2>
+            Upload Your Own Design</h2>
+          <p>
+            Our users are no longer limited to our template design option. Now, anyone can upload
+            a design to the system and take advantage of our guest list management, sending,
+            and RSVP tracking features. Every design will be delivered using our electronic
+            envelope, which can be customized to your needs. </p>
+          <div class="button-green-med-left float-right">
+              <div class="button-green-med-right">
+                  <div class="button-green-med-content"><a href="http://j.mp/HOQepb" class="green" target="_blank">Learn More in the Help Center</a></div>
+              </div>
+          </div>
+          <div class="clr">
+          </div>
+        </div>
+      </div>
     
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_valSignUpVal"));
+//]]>
+</script>
 
 <script type="text/javascript">
 //<![CDATA[
+var ctl00_valSignUpVal = document.all ? document.all["ctl00_valSignUpVal"] : document.getElementById("ctl00_valSignUpVal");
+ctl00_valSignUpVal.errormessage = "<b>Required Fields Missing</b>";
+ctl00_valSignUpVal.display = "Dynamic";
+ctl00_valSignUpVal.validationGroup = "SignUp";
+ctl00_valSignUpVal.evaluationfunction = "CustomValidatorEvaluateIsValid";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('ctl00_valSignUpVal').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_valSignUpVal'));
+}
 Sys.Application.add_init(function() {
     $create(Sys.Extended.UI.AlwaysVisibleControlBehavior, {"HorizontalSide":1,"VerticalOffset":5,"id":"ctl00_ace"}, null, null, $get("ctl00_divMessage"));
 });
@@ -522,6 +744,24 @@ Sys.Application.add_init(function() {
       a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7966.js?" + Math.floor(new Date().getTime() / 3600000);
       a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
     }, 1);
+  </script>
+  <script type="text/javascript">
+    adroll_adv_id = "UWYSCVXOSVGJHIRUTML4UA";
+    adroll_pix_id = "MOAQ2X3IIJHYTM3KVXV3DB";
+    (function () {
+      var oldonload = window.onload;
+      window.onload = function () {
+        __adroll_loaded = true;
+        var scr = document.createElement("script");
+        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+        scr.setAttribute('async', 'true');
+        scr.type = "text/javascript";
+        scr.src = host + "/j/roundtrip.js";
+        ((document.getElementsByTagName('head') || [null])[0] ||
+         document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        if (oldonload) { oldonload() }
+      };
+    }());
   </script>
 
 </body></html>
