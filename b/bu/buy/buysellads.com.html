@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the buysellads.com privacy policy that was archived on 2013-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130518235205id_/http%3A//buysellads.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buysellads.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222121639id_/http%3A//buysellads.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<meta charset="utf-8">
 	<title>
 			Privacy Policy | BuySellAds	</title>
-	<base href="https://buysellads.com">
+	<base href="http://buysellads.com">
 	<meta name="description" content="BuySellAds.com Online Advertising Network">
 	<meta name="keywords" content="sorry, keywords are lame...">
 	<meta property="twitter:account_id" content="14193189">
@@ -13,9 +14,13 @@
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/icon-72x72.png">
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/icon-114x114.png">
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/icon-144x144.png">
-	<link rel="stylesheet" href="/stuff/bsa.min.css?1368123122" type="text/css">
-	<link rel="stylesheet" href="/stuff/css/skinny.css?1368123122" type="text/css" media="screen and (max-width: 1100px)">
-	<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/5075a8c1496bd700020001e7.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/stuff/all.js?1368123122"></script>
+	<link rel="stylesheet" href="/stuff/bsa.min.css?1387558051" type="text/css">
+	<link rel="stylesheet" href="/stuff/css/adblock.css" type="text/css">
+	<link rel="stylesheet" href="/stuff/css/skinny.css?1387558051" type="text/css" media="screen and (max-width: 1100px)">
+	<script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/5075a8c1496bd700020001e7.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		var configFeatures = [];
+	</script>
+	<script type="text/javascript" src="/stuff/all.js?1387558051"></script>
 	<link rel="shortcut icon" href="/favicon.ico?v=1274297086">
 	<link rel="alternate" type="application/rss+xml" title="BuySellAds" href="http://feeds2.feedburner.com/buysellads">
 
@@ -41,7 +46,7 @@
 		})();
 	</script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body id="p" class="def notloggedin cart  ">
+<body id="p" class="def notloggedin   ">
 
 
 
@@ -111,8 +116,8 @@
 		<div class="carttab">
 			<a href="/cart">
 				<span class="cart-total">
-					$3,945.00				</span>
-				<span class="view"><span class="cart-quantity">18 Items in cart</span></span>
+					$0.00				</span>
+				<span class="view"><span class="cart-quantity"> Items in cart</span></span>
 			</a>
 		</div>
 		
@@ -141,8 +146,8 @@
 			</div>
 
 		</div><!-- END div.headerpad -->
-
-	</div><!-- END div#header -->
+		
+			</div><!-- END div#header -->
 	
 	
 	<div id="realpage">
@@ -218,8 +223,8 @@
 		<ul class="cf">
 			<li><a href="/">Home</a></li>
 			<li><a href="/about">About</a></li>
-			<li><a href="/support">Support</a></li>
-					<li><a href="http://blog.buysellads.com" target="_blank">Blog</a></li>
+					<li><a href="http://support.buysellads.com/">Support</a></li>
+			<li><a href="http://blog.buysellads.com" target="_blank">Blog</a></li>
 				</ul>
 		
 		<p class="copyright cf">
@@ -227,7 +232,11 @@
 			<br>
 						~ Don't copy us, it's (really) <a href="//product.tarot.com/articles/karma/good-vs-bad-karma.php" rel="nofollow" target="_blank">Bad Karma</a> ~
 						<br><br>
-		</p>
+					See also: 
+			<script type="text/javascript" src="//cdn.buysellads.com/ac/adv.js" class="bsaPROrocks" data-serve="F67D6" id="bsap_49" data-placement="footer-link"></script>
+			<script type="text/javascript" src="//cdn.buysellads.com/ac/adv.js" class="bsaPROrocks" id="bsap_165" data-serve="C6YIL2Y" data-placement="footer-link"></script>
+			<br><br>
+				</p>
 			
 		<div class="credentials">
 			<p class="cc">Credit Cards and PayPal Accepted</p>
@@ -304,5 +313,36 @@
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
 	  })();
 	</script>
+<script>
+OnInit(function () {
+	var selector;
+	$('.search form input[name="tagsearch"]').autocomplete({source: function (request, response) {
+		request.tagsearch = request.term;
+		$.ajax({url: '/buy/search/js/1', type: "POST", data: request, dataType: "json", success: response});
+	}, minLength: 3, appendTo: '.autocomplete', select: selector = function (event, ui) {
+		event.preventDefault();
+		if (typeof ui.item == 'undefined')
+			$('.search form').submit();
+		else
+			window.location = "http://buysellads.com/buy/detail/" + ui.item.id;
+	}, open: function (event, ui) {
+		$('.ui-autocomplete').attr('style', '');
+		if (!$('.autocomplete #viewmore').length)
+		{
+			$('.autocomplete ul').eq(0).append('<li class="moreresults ui-menu-item" id="viewmore"><a href="#" data-autocomplete="">View More Results</a></li>');
+			$('#viewmore').unbind('click').click(function () { $('.search form').submit(); });
+		}
+	}}).data('autocomplete')._renderItem = function(ul, item) {
+		return $('<li></li>')
+			.data('item.autocomplete', item)
+			.append("<a class=\"gatrack\" rel=\"Autocomplete;Search;" +
+				$('.search form input[name="tagsearch"]').val() + "\"><img src='" +
+				item.icon + "' /><span class=\"propname\">" +
+				item.value + "</span><span class=\"impscount\">" +
+				(item.impsraw > 1000 ? item.imps + " Impressions" : item.twitter + " Followers") + "</span></a>")
+			.appendTo(ul);
+    };
+});</script>
+
 
 </body></html>
