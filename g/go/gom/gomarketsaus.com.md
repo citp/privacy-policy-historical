@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615234007id_/http%3A//www.gomarketsaus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222033359id_/http%3A//www.gomarketsaus.com/privacy-policy) for the most accurate reproduction.*
 
 # GO Markets - Foreign Exchange (forex) Trading - Privacy Policy
 
 ### Our Commitment
 
-**GO Markets** is committed to providing you with the highest levels of client service. We recognise that your privacy is very important to you. The Privacy Amendment (Private Sector) Act, 2000 sets out a number of National Privacy Principles (NPPs). Our aim is to both support and ensure that we comply with these principles. Further information on privacy in Australia may be obtained by visiting the website of the Office of the Federal Privacy Commissioner at http://www.privacy.gov.au.
+**GO Markets** is committed to providing you with the highest levels of client service. We recognise that your privacy is very important to you. The Commonwealth Privacy Act sets out a number of National Privacy Principles (NPPs). Our aim is to both support and ensure that we comply with these principles. Further information on privacy in Australia may be obtained by visiting the website of the Office of the Federal Privacy Commissioner at http://www.privacy.gov.au.
 
 **GO Markets** believes that this **Privacy Policy** discloses how the personal information you provide to us and our representatives, is collected, used, held, disclosed and disseminated.
 
@@ -20,7 +20,7 @@ We encourage you to check our website regularly for any updates to our **Privacy
 
 ### Your Personal Information
 
-We are subject to certain legislative and regulatory requirements which necessitate us to obtain personal information about you, including s945A of the Corporations Act. Detailed below is some of the information **GO Markets** may hold on you:
+Due to government regulations and the nature of the products we provide, we are required to collect personal information from customers which can include, but is not limited to, the below:
 
   * Name, address, telephone number(s)
   * Date of birth
@@ -223,17 +223,17 @@ Commercial messages will only be sent to you when you have given consent. This m
 
 Where the content of a Commercial Communication seeks to promote or inspire interaction with a product, service or event that is age sensitive, the **GO Markets** takes reasonable steps to ensure that such content is sent to Recipients who are legally entitled to use or participate in the product service or event.
 
-Privacy Policy - Version 10th November 2009
+Privacy Policy - August 2013
 
 ### Contact Details
 
-Contact: _ _ Privacy Office
+Contact:  _ _ GO Markets Compliance Department
 
-Address: Level 13, 160 Queen Street, Melbourne, VIC, 3000
+Address: Level 50, 120 Collins Street, Melbourne, VIC, 3000
 
-Telephone: 03 9670 3055
+Telephone: 03 8566 7680
 
-Facsimile: 03 9602 1440  _  
+Facsimile: 03 9225 5067 _   
 _
 
-E-mail:customerservice@gomarketsaus.com
+E-mail:support@gomarkets.com.au
