@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423133728id_/http%3A//www.allied.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222082908id_/http%3A//www.allied.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,3 +89,5 @@ SIRVA recognizes the importance of providing you the opportunity to address and 
 Chicago, Illinois 60601-7601 USA
 
 The AAA can be reached by telephone at (312) 616-6560 or by facsimile at (312) 819-0404.
+
+SIRVA complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  SIRVA has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view SIRVA’s certification, please visit <http://www.export.gov/safeharbor/>
