@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicplayon.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527161452id_/http%3A//musicplayon.com/docs/PrivacyPolicy-en.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicplayon.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222034830id_/http%3A//musicplayon.com/docs/PrivacyPolicy-en.htm) for the most accurate reproduction.*
 
 # MusicPlayOn.com - Privacy Policy
 
