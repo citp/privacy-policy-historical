@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestsiteformoney.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618010539id_/http%3A//bestsiteformoney.com/go/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsiteformoney.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222203336id_/http%3A//bestsiteformoney.com/go/privacy.php) for the most accurate reproduction.*
 
 # Best Site for Money
 
@@ -32,6 +32,6 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) 2012 Best Site for Money All Rights Reserved 
+Copyright (c) 2013 Best Site for Money All Rights Reserved 
 
 [Terms and Conditions](https://web.archive.org/go/terms.php) | [Earnings Disclaimer](https://web.archive.org/go/earnings.php) | [ Spam Policy](https://web.archive.org/go/spam.php) | [ Privacy Policy](https://web.archive.org/go/privacy.php)| 
