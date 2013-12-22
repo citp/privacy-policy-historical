@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marklevinshow.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622062133id_/http%3A//www.marklevinshow.com/page/Privacy_Policy/1763) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marklevinshow.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222073928id_/http%3A//www.marklevinshow.com/page/Privacy_Policy/1763) for the most accurate reproduction.*
 
 # Mark Levin Show - Privacy Policy
 
