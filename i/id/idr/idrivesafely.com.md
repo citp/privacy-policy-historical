@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619223142id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222181841id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
 
-# NY Point & Insurance Reduction Program
+# I Drive Safely - Privacy Policy & Notifications.
 
-#### I DRIVE SAFELY Privacy Policy
+#### I Drive Safely Privacy Policy
 
 To see the **REFER A FRIEND** section of our Privacy Policy, please click here
 
 **Introduction:**
 
-This privacy policy governs the information collection practices of I DRIVE SAFELY, LLC's website. The policy below explains how we collect and use the personal information you provide through the website when interacting with it. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy governs the information collection practices of I Drive Safely, LLC's website. The policy below explains how we collect and use the personal information you provide through the website when interacting with it. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 **Information Collection:**
 
-I DRIVE SAFELY is the sole owner of the information collected on its web site. I DRIVE SAFELY collects contact information (including, name, address, driver's license number, email, and phone number), Personally identifiable information (including, driver's license number, SSN, Alien number, DPS Audit number, citation number, County and State information), and demographic information (including zip code, Date of birth, or sex). We will not use or sell this information to promote products or services or in ways different from what are disclosed in this statement. We will deny requests for marketing, scholastic, demographic, or other information requests from entities that could derive commercial or social benefits from such data. 
+I Drive Safely is the sole owner of the information collected on its web site. I Drive Safely collects contact information (including, name, address, driver's license number, email, and phone number), Personally identifiable information (including, driver's license number, SSN, Alien number, DPS Audit number, citation number, County and State information), and demographic information (including zip code, Date of birth, or sex). We will not use or sell this information to promote products or services or in ways different from what are disclosed in this statement. We will deny requests for marketing, scholastic, demographic, or other information requests from entities that could derive commercial or social benefits from such data. 
 
 **Information Use:**
 
@@ -34,9 +34,9 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 **Refer-A-Friend Program:**
 
-I DRIVE SAFELY has created a **REFER A FRIEND** Program, which may be applicable to some of our courses. When applicable, Participation in the **REFER A FRIEND** Program may require users to submit personal information about themselves and their friends (collectively "Users"), including name and e-mail address. The personal information will be collected, processed and used in accordance with this Privacy Policy Statement and the program Administrator's Privacy Policy which can be found at <http://www.nextbee.com/privacy.htm>. 
+I Drive Safely has created a **REFER A FRIEND** Program, which may be applicable to some of our courses. When applicable, Participation in the **REFER A FRIEND** Program may require users to submit personal information about themselves and their friends (collectively "Users"), including name and e-mail address. The personal information will be collected, processed and used in accordance with this Privacy Policy Statement and the program Administrator's Privacy Policy which can be found at <http://www.nextbee.com/privacy.htm>. 
 
-We do not utilize any information processed through the **REFER A FRIEND** program. The information gathered and processed by the **REFER A FRIEND** script is purely used as intended and will never be used in any way other than to facilitate the intended purpose of allowing an individual to make a referral. The personal information may be used by I DRIVE SAFELY or Administrator, on I DRIVE SAFELY's behalf, to contact Users with regards to participation in the Program and to receive communications from I DRIVE SAFELY. If you register for the Refer a Friend program, you may receive promotional communications. You can opt out of these by unsubscribing through the link in the email. 
+We do not utilize any information processed through the **REFER A FRIEND** program. The information gathered and processed by the **REFER A FRIEND** script is purely used as intended and will never be used in any way other than to facilitate the intended purpose of allowing an individual to make a referral. The personal information may be used by I Drive Safely or Administrator, on I Drive Safely's behalf, to contact Users with regards to participation in the Program and to receive communications from I Drive Safely. If you register for the Refer a Friend program, you may receive promotional communications. You can opt out of these by unsubscribing through the link in the email. 
 
 **Log Files:**
 
@@ -44,7 +44,7 @@ In common with the majority of websites you visit, this site employs log files. 
 
 **Cookie/Tracking Technology:**
 
-I DRIVE SAFELY makes use of third party technology, including tracking technology and use of cookies. A cookie is a piece of data stored on the user's hard drive containing information about the user. In addition to our own cookies, some third party cookies may be set. These cookies are for marketing and statistical analysis only; these third party data cookies do not contain any personal information.If a user rejects any cookie, they may still use our site.This will not limit the user from any portion of the site.For this purpose our persistent cookies are tied to personal information, but do not contain or expose your personal information to others.We accumulate and report anonymous, aggregate, statistical information on our web site usage to a third party vendor for website usage analysis, but this does not contain any personally identifiable information about you. 
+I Drive Safely makes use of third party technology, including tracking technology and use of cookies. A cookie is a piece of data stored on the user's hard drive containing information about the user. In addition to our own cookies, some third party cookies may be set. These cookies are for marketing and statistical analysis only; these third party data cookies do not contain any personal information.If a user rejects any cookie, they may still use our site.This will not limit the user from any portion of the site.For this purpose our persistent cookies are tied to personal information, but do not contain or expose your personal information to others.We accumulate and report anonymous, aggregate, statistical information on our web site usage to a third party vendor for website usage analysis, but this does not contain any personally identifiable information about you. 
 
 **Security:**
 
@@ -54,9 +54,9 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 **Special Notifications:**
 
-I DRIVE SAFELY courses are designed to generate email notifications at certain intervals throughout the course. These emails are exclusively related to the products and services offered through **www.idrivesafely.com** , and may be in conjunction with services subscribed to by the customer. 
+I Drive Safely courses are designed to generate email notifications at certain intervals throughout the course. These emails are exclusively related to the products and services offered through **www.idrivesafely.com** , and may be in conjunction with services subscribed to by the customer. 
 
-I DRIVE SAFELY email newsletters are intended to keep users informed of I DRIVE SAFELY new products and special features that are available. Additionally, when you submit feedback or questions via e-mail, or contact us for information about our website, we will request your name and e-mail address. We use this information solely to respond to your inquiries. 
+I Drive Safely email newsletters are intended to keep users informed of I Drive Safely new products and special features that are available. Additionally, when you submit feedback or questions via e-mail, or contact us for information about our website, we will request your name and e-mail address. We use this information solely to respond to your inquiries. 
 
 If you receive an email and want to be removed from the email list, we provide instructions on how to unsubscribe so that you will not receive any other messages from us. 
 
@@ -69,7 +69,7 @@ Generally, you can do the following at any time by contacting us via the email a
 \-    Express any concern you have about our use of your data;  
 \-    Delete any data we have about you, except as required by law *. 
 
-* I DRIVE SAFELY may be required (by law or otherwise) to keep your Personal information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archived/backup copies for our records or as otherwise required by law. All retained data will continue to be subject to the terms of the applicable privacy policy for the Service.
+* I Drive Safely may be required (by law or otherwise) to keep your Personal information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archived/backup copies for our records or as otherwise required by law. All retained data will continue to be subject to the terms of the applicable privacy policy for the Service.
 
 **Surveys:**
 
@@ -77,7 +77,7 @@ After completion of some of our courses, our site may request information from u
 
 **Links to Other Sites:**
 
-For your convenience, this site contains links to other websites; some of these sites are administered by or on behalf of I DRIVE SAFELY, LLC while others are unrelated to I DRIVE SAFELY. I DRIVE SAFELY is not responsible for the privacy practices or the content of linked websites not administered by I DRIVE SAFELY, and this Privacy Statement does not apply to these linked websites. Each website should be checked for its own privacy statement.
+For your convenience, this site contains links to other websites; some of these sites are administered by or on behalf of I Drive Safely, LLC while others are unrelated to I Drive Safely. I Drive Safely is not responsible for the privacy practices or the content of linked websites not administered by I Drive Safely, and this Privacy Statement does not apply to these linked websites. Each website should be checked for its own privacy statement.
 
 **Collection of Information from Children:**
 
@@ -93,7 +93,7 @@ If, however, we are going to use users' personally identifiable information in a
 
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can please:
 
-  * Contact us at: I DRIVE SAFELY, LLC, 5760 Fleet Street, Suite 210, Carlsbad, CA 92008 
+  * Contact us at: I Drive Safely, LLC, 5760 Fleet Street, Suite 210, Carlsbad, CA 92008 
   * Send an email to: [privacypolicy@idrivesafely.com](mailto:privacypolicy@idrivesafely.com)
   * Call Customer Support at: (800) 723-1955. 
 
@@ -102,16 +102,16 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 **Effective Date: October 23, 2012**   
 
 
-###### Join more than 4 million satisfied customers!   
-[](https://web.archive.org/signup/displayCourseSelection.pl?STATE=NY&COUPON=DIELCM|CEDEFDIS&RESIDENTSTATE=)
+###### Join more than 5 million satisfied customers!   
+[](https://web.archive.org/signup/displayStateSelection.pl?COUPON=)
 
 | 
 
 ###### Get Started
 
-Register now and join more than 4 million satisfied customers!
+Register now and join more than 5 million satisfied customers!
 
-[](https://web.archive.org/signup/displayCourseSelection.pl?STATE=NY&COUPON=DIELCM|CEDEFDIS&RESIDENTSTATE=)
+[](https://web.archive.org/signup/displayStateSelection.pl?COUPON=)
 
   
 
