@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the klicknews.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624184944id_/http%3A//klicknews.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klicknews.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095949id_/http%3A//klicknews.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | KlickNews
+# Privacy Policy | klicknews
+
+  * [Home](http://klicknews.com/)
+  * Privacy Policy
+
+
 
 ## Our Commitment To Privacy 
 
@@ -65,4 +70,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 ## Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our Home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes on our Home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
