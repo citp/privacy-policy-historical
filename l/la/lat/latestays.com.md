@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestays.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204820id_/http%3A//www.latestays.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestays.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222034549id_/http%3A//www.latestays.com/policies/privacy.htm) for the most accurate reproduction.*
 
 # Asia Web Direct.com: Privacy
 
