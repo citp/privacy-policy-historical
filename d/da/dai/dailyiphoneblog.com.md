@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyiphoneblog.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619032352id_/http%3A//dailyiphoneblog.com/2009/04/16/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyiphoneblog.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222171744id_/http%3A//dailyiphoneblog.com/2009/04/16/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily iPhone Blog
 
