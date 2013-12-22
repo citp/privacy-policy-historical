@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackinthebox.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512013843id_/http%3A//www.jackinthebox.com/legal-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackinthebox.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222013740id_/http%3A//www.jackinthebox.com/legal-and-privacy-policy) for the most accurate reproduction.*
 
 # Jack In The Box | Legal and Privacy Policy
 
@@ -58,7 +58,7 @@ Email addresses, mobile phone numbers and other personally identifiable informat
 
 Users may choose to submit online to Jack in the Box Inc. names, email addresses, mobile phone numbers, gender, birthdate and/or zip codes from individuals who request to receive more information from Jack in the Box Inc. about its menu items, special offers or similar matters. All subsequent email communications include a link to easily unsubscribe from the email database. Unsubscribes can easily be submitted via [www.jackinthebox.com/connect/unsubscribe](http://www.jackinthebox.com/connect/unsubscribe).
 
-Users must explicitly consent to receiving messages on mobile phones in order to sign up for text mobile messages. Users may test HELP to 31278 for assistance or text STOP to 31278 to opt out of mobile messaging. Message and Data rates apply to mobile communications.
+Users must explicitly consent to receiving messages on mobile phones in order to sign up for text mobile messages. Users may text HELP to 31278 for assistance or text STOP to 31278 to opt out of mobile messaging. Message and Data rates apply to mobile communications.
 
 More on how we use above info, what we do with it.
 
