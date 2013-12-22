@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netvibes.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616174942id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvibes.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222231257id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # Netvibes
 
