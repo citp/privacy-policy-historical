@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idigitaltimes.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617235442id_/http%3A//www.idigitaltimes.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idigitaltimes.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222075359id_/http%3A//www.idigitaltimes.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Digital Technology News, Latest Technology News
 
