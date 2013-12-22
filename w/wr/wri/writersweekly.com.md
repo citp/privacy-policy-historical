@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writersweekly.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624082634id_/http%3A//www.writersweekly.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersweekly.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153729id_/http%3A//www.writersweekly.com/misc/privacy.html) for the most accurate reproduction.*
 
 # WritersWeekly.com Privacy Statement
 
