@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copypress.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618042610id_/http%3A//www.copypress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copypress.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222032804id_/http%3A//www.copypress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CopyPress
 
@@ -65,5 +65,3 @@ As a member, you also have the choice to Opt-out at any time, and for any reason
 ### **7\. Further Data Collection**
 
 We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is temporarily collected by us as explained herein.
-
-Find out how companies like Macy's and eBay have used CopyPress to find Content Marketing Success![Learn More](http://www.copypress.com/learn-more/)
