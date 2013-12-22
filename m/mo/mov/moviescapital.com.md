@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviescapital.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305020636id_/http%3A//www.moviescapital.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviescapital.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222174600id_/http%3A//www.moviescapital.com/Privacy.htm) for the most accurate reproduction.*
 
 # Online Movies - Download Full Movies
 
