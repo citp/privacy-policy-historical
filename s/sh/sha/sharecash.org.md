@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531223022id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222055257id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
 
 # ShareCash - Make Money Uploading Files!
 
@@ -23,7 +23,7 @@ Sharecash will not distribute or sell any of your personal information to third 
 
 However, by using this site's services, you assume the risk that a court or government agency may order ShareCash to disclose your submission and/or personally identifying information about you, or that a litigant, a court, a grand jury, or government agency may subpoena that information.
 
-We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person.We may disclose the identities of ours users if we are legally required to do so. If a governmental agency (for example, law enforcement agencies, US Attorneys' offices or similar governmental agencies) sends us a subpoena, we will comply with it.
+We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person.We may disclose the identities of our users if we are legally required to do so. If a governmental agency (for example, law enforcement agencies, US Attorneys' offices or similar governmental agencies) sends us a subpoena, we will comply with it.
 
 ShareCash may need to consult its own attorneys. In doing so, ShareCash may disclose personal information to its attorneys.
 
@@ -77,4 +77,4 @@ We reserve the right to modify this privacy policy at any time without prior not
 
 #### 14\. Additional Information
 
-If you have any questions about our Privacy Policies, please [contact us](https://web.archive.org/web/20130531223022id_/http%3A//sharecash.org/contact.php).
+If you have any questions about our Privacy Policies, please [contact us](https://web.archive.org/web/20131222055257id_/http%3A//sharecash.org/contact.php).
