@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginvsi.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619113204id_/http%3A//www.loginvsi.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginvsi.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222051207id_/http%3A//www.loginvsi.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Login VSI
 
@@ -9,9 +9,9 @@ In general, you can visit us on the internet without telling us who you are or g
 
   * To fulfill your requests by us or by others involved in fulfillment.
   * To contact you for customer satisfaction surveys, market research or in connection with certain transactions.
-  * By Login VSI B.V. and selected organizations for marketing purposes if you have permitted such use.
+  * By Login VSI Inc. and selected organizations for marketing purposes if you have permitted such use.
   * In an non-identifiable format for analysis.
-  * To develop our business relationship if you represent an Login VSI B.V. business partner or vendor.
+  * To develop our business relationship if you represent an Login VSI Inc. business partner or vendor.
 
 
 
@@ -24,10 +24,9 @@ In general, you can visit us on the internet without telling us who you are or g
 
 
 **How to contact us**  
-Questions about this statement or how Login VSI B.V. uses your information may be sent to: marketing@loginvsi.com.
+Questions about this statement or how Login VSI Inc. uses your information may be sent to: marketing@loginvsi.com.
 
-**Login VSI B.V.**  
-De Entree 11-13  
-1101 BH Amsterdam  
-The Netherlands   
-+31 20 342 02 80
+**Login VSI Inc.**  
+5201 Great America Parkway  
+Suite 320  
+Santa Clara, CA 95054
