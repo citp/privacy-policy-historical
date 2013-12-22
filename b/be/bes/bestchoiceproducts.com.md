@@ -1,0 +1,197 @@
+> *The following text is extracted and transformed from the bestchoiceproducts.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160820id_/http%3A//bestchoiceproducts.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Best Choice Products
+
+**Privacy Policy Statement**
+
+**Information Collection and Use**  
+At BestChoiceProducts.com, we value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any identifiable personal information to any third party, unless we are legally required to do so.
+
+**Order**  
+Most of the information collected in the order process will be used to process your orders. During the order process, you will have to provide financial information such as your credit card number and expiration date. This information is used for billing purposes and to fulfill your order. If we have trouble processing an order, we will use this contact information to get in touch with you. To properly process your credit card information, we must share your personal and financial information with the merchant bank for authorization and approval. This process is protected by an enhanced security system. See the security section below for more details on security measure and procedures. We do not share your personal and financial information with any third parties, except those specified in the Sharing section of this policy.
+
+**Registration**  
+BestChoiceProducts.com doesn’t have a separate registration form to fill out, however you will be registered automatically when placing your first order with us. In order to process your orders placed on this website, you must first complete the contact information form. During the ordering process you will be required to provide your contact information, which includes your name, e-mail address, telephone number and street address. This information is used to provide you with important BestChoiceProducts.com services such as automated order status updates via e-mail.
+
+**Newsletter**  
+If you wish to subscribe to our newsletter, we will use your name and e-mail address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
+
+**Cookies**  
+We customize certain Web page content based upon your browser type and other information provided by our cookie. If you choose to reject the cookie, you can still browse our store but will be unable to use the shopping cart to buy merchandise. The BestChoiceProducts.com shopping cart cannot function without cookies enabled, as the necessary information to process your order is retained within the cookie. If provided by this cookie, with any third party. We will, however, link data stored in cookies to the personally identifiable information you submitted while on our site. This allows us to personalize your shopping experience and discern user preferences to evoke subconscious feelings of familiarity and assurance.
+
+**Log Files**  
+We use Internet Protocol (IP) addresses, browser type, and, time of day, to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+
+**Sharing**  
+We may employ third party companies to perform various functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and e-mail delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes.
+
+**Product Reviews**  
+The product reviews section of the BestChoiceProducts.com website is for the purpose of our users to share their experiences with our products. The product reviews’ section is moderated to ensure accurate an positive testimonials. Published testimonials are genuine and are not edited or altered by BestChoiceProducts.com. 
+
+**Children**  
+BestChoiceProducts.com does not sell products to persons under the age of 18. If you are under the age of 18, you are required seek the approval of your parent or guardian to purchase products from this site.
+
+**Links**  
+This website contains links to other sites. Please be aware that BestChoiceProducts.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website, BestChoiceProducts.com
+
+**Security**  
+We employ the latest 256-bit encryption technology in all areas of the site, which requires you to provide your personal or account information, including online ordering, and order status. Your name, your personal information and especially your credit card number are safely stored in our proprietary systems behind our firewall. Once you type your personal information, it is sent instantly, encrypted, directly to our order processing system which is on a server separate from our internet server. To make sure you have the latest security features on your browser, you may want to download the most recent version of your favorite browser, which should have full Secure Socket Layer (SSL) support.
+
+**Special Offers**  
+Our special offers are sent only to customers who grant BestChoiceProducts.com permission to send them such information.
+
+To honor the privacy of our users, we offer the option to not receive these types of communications. At the time of your order, you may opt-out of receiving special offers and news by clicking the appropriate field. Furthermore, all special offers are sent via e-mail and include an opt-out link if you no longer wish to receive special offers and news. Customers might still receive intermittent updates on products, services, specials or BestChoiceProducts.com news. Please reference the Choice/Opt-out section below for further details on how to be removed from our mailing list should you choose to be removed.
+
+**Correction/Updating/Reviewing Personal Information**  
+Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our "My Account" section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance.
+
+**Choice/Opt-out**  
+Our website gives you the opportunity to opt-out of receiving marketing communications from us. If you no longer wish to receive communications from us you may opt-out by calling (909) 948-8400 or simply send us an e-mail at privacy@bestchoiceproducts.com with your e-mail address.
+
+**Notification of Changes**  
+If we decide to change our Privacy Policy, we will post those changes to this privacy statement, our homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page.
+
+We use WebsiteAlive Chatting software. Please see their privacy policy below:
+
+| 
+
+We are committed to your privacy.
+
+This Privacy Policy details how we use your personal information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. Our Privacy Policy is our commitment to you that we provide not only the highest quality services and products, but that we understand that you expect us to safeguard the personal and business information that we collect. To this end, our Privacy Policy allows you to make an informed decision regarding your usage of the tools and services that we provide. As technology and circumstances change, we will continue to update, modify and enhance this Privacy Policy for your benefit as part of our commitment to you to provide the best possible services and security according to our high standards of business practices and ethics.
+
+By using our the tools and services we provide, and visiting our web site such activities become your express indication to us that you consent to our collection and use of your personal information as described herein.
+
+AYU Technology Solutions, LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@websitealive.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program does not cover information that may be collected through software downloaded from the site.
+
+This privacy policy applies to data collected at the corporate website and client log in section of www.websitealive.com as well as the data collected from our Active Chat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.
+
+**I. Pertains to Data collection on www.websitealive.com**
+
+**Personal Information Collected**  
+In order to access certain subscriber services and restricted areas (the "Restricted Services") within the WebsiteAlive site (the "Site"), AYU Technology Solutions, LLC ("WebsiteAlive") requires that you provide certain identifying information (the "Registration Data") listed in the online registration form. This information may include your legal name, address, telephone number(s), e-mail address, subscriber name or "screen name," areas of interest, password used to access Pay services, method of payment, and, if applicable, credit card number. While using WebsiteAlive as a client, third party personal information may be entered, such as name and email address. This information is only used for the purpose it was collected for.
+
+WebsiteAlive reserves the right to request any additional information necessary to establish and maintain your account for use of the Pay Services.
+
+**Confidentiality**  
+Registration Data is the property of WebsiteAlive, subject to and protected by the Electronic Communications Privacy Act. WebsiteAlive will not sell, rent, swap, or otherwise disclose your Registration Data to any third party for promotional purposes. WebsiteAlive maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a private database which is not connected to the Internet.
+
+**Uses of Registration Data**  
+Unless you select the "Opt-Out" option as described herein, WebsiteAlive reserves the right to use your Registration Data to send you information about WebsiteAlive, the Site, WebsiteAlive products and services, and other topics in which you have indicated an interest.
+
+**Opt-Out Right**  
+If you do not wish to receive any special offers or other communications from WebsiteAlive, you have the right to select the "opt out" option during the registration process or at any time afterwards. You may "opt out" by clicking on the box marked "I DO NOT WISH TO RECEIVE SPECIAL COMMUNICATIONS FROM WebsiteAlive" when you register for an account or at any time afterwards by going to the "Special Offers" area of the Site.  
+**  
+User Access to Information Collected**  
+To review and update your personal information to ensure it is accurate, you may access your Registration Data at any time through the Subscriber services section of the Site. This area is password-restricted for your protection. You may also contact us at the information listed below.
+
+**Testimonials on our Site**  
+With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at the information listed below.
+
+**Links to Third Party Web Sites**  
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided as a courtesy to you. Always review the Privacy Policies of such web sites.
+
+**General Information**  
+It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us.
+
+We do not knowingly collect personal data or information from minors.
+
+**How Can You Access and Correct Your Information?**  
+You may request access to all your personal information that we collect online and maintain in our database by emailing techsupport@websitealive.com.
+
+**Credit Card Usage, Aggregated Data and More**  
+We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is collected by us.
+
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@websitealive.com.
+
+We maintain your credit card related information once your purchase has been verified and processed via your credit card service provider for future usage, within a secured system. In the event of a charge back, the credit card service provider will provide us with such information for the purpose of our evaluation of the charge back request, including any protestations and or feedback issued by our company if we determine fraud has taken place. In the event of credit card fraud and similar defaulted payments, the credit card related information shall be used for collection related purposes.
+
+Credit card information sent to use via our web site is transferred and transmitted via secure server software that provides industry standard encryption. Other information that you send via standard email will not be subjected to this high level of encryption so we advise you accordingly that you should never submit sensitive personal information such as credit card numbers and so forth via standard email to us.
+
+**Cancellation**  
+You may cancel your account at any time by sending an e-mail to billing@websitealive.com. Once WebsiteAlive has finished processing the cancellation, WebsiteAlive will delete all your Registration Data from its database.
+
+**Communications**  
+If you communicate with us, via email or telephone or even via surface mail, we will maintain such communications and the information contained within them for the purpose and providing customer services to you. We employ industry standard protections for all such communications.
+
+You may be required to complete online registration forms that provide us with contact information (such as your name and street address), your email address, and your phone numbers.
+
+We may, from time to time, send you emails regarding our service so that we can directly communicate with you regarding issues we determine to be relevant.
+
+We use other third parties to provide services on our website such as for credit card processing. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service.
+
+These third parties are prohibited from using your personal information for any other purpose.
+
+**No Liability for Acts of Third Parties**  
+Although WebsiteAlive will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be made absolutely secure. WebsiteAlive will have no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.
+
+**II. Pertains to Active Chat application**  
+Our clients implement our Active Chat application on their website. We may collect personal information about their users "End Users" on behalf of our clients such as email, phone number and first and last name. We do not use this data for any other purposes than as defined in our relationship with our clients.
+
+We use other third parties to provide screen sharing and click to call services via our Active Chat application. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service.
+
+**Confidentiality of Your Data**  
+We will not sell or share with any third party or entity the personal, business or corporate data or personal information that we collect based on a commitment shared by our hosting company. All such information shall be confidentially maintained by our hosting community pursuant to our contractual relationship with our hosting company and we shall also maintain strict confidentiality of such information and data. We shall use such information strictly for the purpose of providing services to you, our user, and our hosting company shall house such data and information strictly for the purpose of providing services to us for your direct benefit.
+
+These third parties are prohibited from using your personal information for any other purpose.
+
+If you would like to inquire about personal data collected in a chat window on a separate site, please refer to the privacy policy on the site in question.
+
+**III. Pertains to www.websitealive.com and Active Chat application.**
+
+**General Information**  
+We have implemented security policies, rules and technical measure to protect the personal data that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss.
+
+All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor’s and members’ personal data.
+
+We use your personal information, in a general sense, to operate our business; that means that we use the information to provide customer service and to provide tools and services to our user base, including, individually, you or your business. We may also use the information we collect for the purpose of alerting you about changes to our business, web site or special offers we think you will find to be important. All emails sent to you are done so pursuant to standard industry security approaches and standards. You will be given the opportunity, on at least an annual basis, to notify us that you desire not to receive special offers, however, we do reserve the right to communicate with you regarding any direct business or customer account concerns relevant to your account and of course, to respond to any inquiries or comments that you forward to us regarding your account of the activities of our business or any other user of our tools and services.
+
+Your password is protected by us from unauthorized access and usage via standard security approaches. However, no such process is 100% secured. Also, we advise you to never share your password and other sensitive information with any third party and to always verify by examining the address placed into your browser’s URL section that you are actually present at our web site before you enter in your user ID and password information.
+
+**Use of Aggregated Information**  
+WebsiteAlive reserves the right to disclose to third parties information about Subscriber usage of the WebsiteAlive Web site and any related services, including information gathered during your use of the Site. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user.
+
+**Cookies**  
+Please note that we employ the use of cookies. Currently we employ cookies when users create user accounts, but we may further employ cookies to assist the functionality of other tools, services and functions in the future.
+
+Cookies are small programs that enhance your use of the Internet, in general, and specifically we use cookies to enhance your usage of our functions.
+
+The information gathered is not shared with third parties. You may turn off your cookies by adjusting the appropriate setting on your browser.
+
+Please consult the HELP menu of your browser to learn how to turn your cookies off. Cookies do not reveal personal information and if you turn off your cookies you may find your enjoyment of the Internet, and our site, to be reduced or impaired.
+
+In order to seek out and repair functionality issues with our servers and related programming, we may use your email and IP addresses for evaluation and diagnostic purposes.
+
+Cookies may provide Recording Session information, show us visitor preferences regarding return visits to our website, help us to mange subscription or private areas on our website, record user specific tracking or aggregate tracking information of visitors and deliver user customized content based on user specific information, such as browser type, screen type and resolution and so forth. None of the information gathered is shared with third parties.
+
+Other possible uses for the information that we collect includes internal tracking, review, or is used for contacting purposes and then is archived by us for future usage. We also use the information we collect to provide custom content for our user base. Technical and business statistics are also collected via cookies: which allows us to tract the various paths users trace through web site as they move from one web page to another. Cookies also account for the number of users who visit our site and to calculate the visitor capacity and scalable architecture of our web site. We do not use cookie technology to gather personal information about you although such technology may allow us to serve up focused banner advertisements and other Internet published advertising content which appears on one or more pages of our web site.
+
+Cookies are used as an important element of our Alive Chat application to help us determine return users and to collect important user data and information which is useful to the user of the Alive Chat application.
+
+We use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by AYU Technology Solutions, LLC only and does not cover the use of cookies by any third-party.
+
+**Exceptions to our Privacy Policy**
+
+Possible exceptions to our policy include the rare following circumstances, and as indicated herein:
+
+• as required by law, such as to comply with a subpoena, or similar legal process  
+• when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,  
+• if AYU Technology Solutions, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,  
+• to any other third party with your prior consent to do so.
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**Contacting Us**
+
+AYU Technology Solutions, LLC ATTN: Legal Department  
+2100 West Loop South, Suite 900  
+Houston, Texas 77027  
+Email: privacy@websitealive.com  
+Effective Date: 2/15/2011
