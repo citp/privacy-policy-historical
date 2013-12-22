@@ -1,37 +1,68 @@
-> *The following text is extracted and transformed from the dictionary.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515062349id_/http%3A//www.dictionary.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.net privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222184601id_/http%3A//www.dictionary.net/privacy-policy) for the most accurate reproduction.*
 
-# Definition of Home from dictionary.net
+# Privacy Policy Dictionary.net
 
-**Introduction**
+  
 
-We dictionary.net are carrying on business as web copy publishers and we are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
 
-**We are committed to protecting your privacy**
+## Privacy Policy
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.
+### What information do we collect?
 
-**Information Collected**
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.
 
-We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, phone number, or other information. You may, however, visit our site anonymously.
 
-**Information Use**
+### What do we use your information for?
 
-We use the information collected primarily to process the task for which you visited the website. Data collected in the UK is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.
+Any of the information we collect from you may be used in one of the following ways:
 
-**Cookies**
+  * To personalize your experience (your information helps us to better respond to your individual needs).
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you). 
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs). 
+  * To administer a contest, promotion, survey, or other site feature.
+  * To send periodic emails.
 
-Your Internet browser has the in-built facility for storing small files- "cookies" - that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired. 
 
-**Disclosing Information**
 
-We do not disclose any personal information obtained about you from this website to third parties except when we need to do so in order to complete the transaction – e.g. when arranging for a courier company to deliver goods that you have ordered. We may also use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. 
+The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to occasional company news, updates, related product or service information, etc.
 
-We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
+### How do we protect your information?
 
-**Changes to this Policy**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
+We offer the use of a secure server. All supplied sensitive and credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-**Contacting Us**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at info@dictionary.net. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+### Do we use cookies?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or the service provider’s systems to recognize your browser and capture and remember certain information.
+
+We use cookies to understand and save your preferences for future visits.
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to third parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe releasing it is appropriate to ensure compliance with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Children’s Online Privacy Protection Act Compliance
+
+Because we are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products, and services are all directed to people who are at least 13 years old or older.
+
+### Your Consent
+
+By using our site, you consent to our web site privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy, you can contact us using the information below.
+
+http://www.markupr.net/
+
+Markupr.net, Inc. 310 4th Ave S Ste 5010, Minneapolis, MN 55415 USA.  
+info@markupr.net  
++1 (612) 756-9931
