@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laws.com privacy policy that was archived on 2013-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423223021id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laws.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222085531id_/http%3A//www.laws.com/category/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -41,55 +41,20 @@ function lawsSearch(f,s){
 	}
 	return false;
 }
-function laywerSearch(f){
-	//SetCookie('sVerfied','');
-	if(f.spec.value==''){
-		alert('Please select Category!');
-		return false;
-		if(f.state.value=='') alert('Please select your state!');
-		else{
-			var loc='http://attorney.laws.com/'+f.state.value;
-			window.location=loc;
-		}
-	}else{
-		var loc='http://attorney.laws.com/'+f.spec.value.toLowerCase().replace(/\W/g,"-")+'-attorney';
-		if(f.state.value!='') loc+='/'+f.state.value;
-		if(f.city.value!='') loc+='/'+f.city.value.replace(/\W/g,"-");
-		//else if(f.zip.value!='') loc+='/'+f.zip.value;
-	  //loc=loc.replace(/-+/g,"-");
-	  var ifveri=getCookie('sVerfied');
-	  if(ifveri!=1){
-	 		refreshCaptcha();
-	  	$.fn.colorbox({inline:true, href:'#hide_verify'});
-	  	return false;
-		}
-		window.location=loc;
-	}
-	return false;
-}
-function refreshCaptcha(){
-	$('#verifyimg').attr('src','/index/verifyimg/w/86/h/40/rand/'+Math.random());
-}
-function submitCaptcha(){
-	var verify=$('#verify_text').val();
-	if(verify.length!=4) alert('Please enter the correct Captcha!');
-	else{
-		$.post("/ajax/verify_", {'verify_code':verify}, function (data, textStatus){
-			//alert(data);
-			if(data=='yes') {
-				SetCookie('sVerfied','1');
-				laywerSearch(document.search1);
-			}else alert('Please enter the correct Captcha!');
-		});
-	}
-}
 $(function(){
 	$('#qucik-key').autocomplete({ 
 		url: '/ajax/autosearch_',
-		top: '30px',
+		top: '58px',
 		width: 340
 	});
 })
+function telClickLog(objid,tbl){
+	$('#showtellink'+objid).hide();
+	$('#lawyertel'+objid).show();
+	$.post("/ajax/telclick_", {'tbl':tbl,'objid':objid,'fromurl':escape(document.location)}, function (data, textStatus){
+			//alert(data);
+	});
+}
 </script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -116,33 +81,38 @@ $(function(){
 })();
 </script>
 <!-- End BuySellAds Ad Code -->
-
 <div id="wrapper">
-		<a href="https://secure.laws.com/free-trial" class="top-right" style="background:none;width:143px;height:22px;padding-top:0px"><img src="http://www.laws.com/themes/default/images/attorney.gif" alt="<font style=" font-size:14px;text-transform:none;line-height:28px"="">Legal Innovation Through Technology" /&gt;</a>
+	<div style="width:728px;margin:auto"><!-- BuySellAds Zone Code -->
+<div id="bsap_1290583" class="bsarocks bsap_ec6167a683f16433794a9e7537b48403"></div> 
+<!-- End BuySellAds Zone Code --></div>		<a href="https://secure.laws.com/free-trial" class="top-right" style="background:none;width:143px;height:22px;padding-top:0px"><img src="http://www.laws.com/themes/default/images/attorney.gif" alt=""></a>
 	<div id="top-menu">
 			    	<a href="javascript:;" class="home" style="cursor:default;margin-right:0;width:4px;height:6px;position:relative\9;top:-8px\9;">&nbsp;</a>
     	    	<a href="http://www.laws.com">Laws</a>
-        <a href="http://attorney.laws.com">Find an Attorney</a>
-                <a href="http://lawyer.laws.com">Guide To Lawyers</a>
+                        <a href="http://lawyer.laws.com">Lawyers</a>
                 <a href="http://find.laws.com" class="active">Find Laws</a>
                 <a href="http://legal-forms.laws.com">Legal Forms</a>
         <a href="http://state-laws.laws.com">State Laws</a>
             </div>
     <div class="clearfix"></div>
-    <a href="http://www.laws.com" class="logo"><font style="font-size:14px;text-transform:none;line-height:28px">Legal Innovation Through Technology</font></a>
-      <div id="search">
-    	<!--<div class="margin"></div>-->
-        <div class="content">
-        	        	<div style="height:10px"></div>
-        	                            <form name="quicksearch" id="lawssearch" method="get" action="http://www.laws.com/issue/list" onsubmit="if(this.key.value=='Search Laws') this.key.value='';return lawsSearch(this,true);" style="margin:0;padding:0">
-            	<input type="text" id="qucik-key" name="key" value="Search Laws" onfocus="if(this.value=='Search Laws') {this.value='';$(this).css('font-weight','bold');}" onblur="if(this.value=='') {this.value='Search Laws';$(this).css('font-weight','normal');}" class="input-txt-big" style="font-weight:normal"> <input type="submit" name="sa" class="input-btn" value="Search">
-            </form>
-                          </div>
-    </div>
-       <div class="clearfix"></div>
+    <a href="http://www.laws.com" class="logo_small" style="color:#666;font-style:normal;font-family:Arial"></a>
+      <div class="clearfix"></div>
 
 
  <div id="main-menu" style="height:6px !important; background-position:bottom !important;"></div>
+<div style="magin:20px 0">
+<form name="quicksearch" id="lawssearch" method="get" action="http://www.laws.com/issue/list" onsubmit="if(this.key.value=='Search Laws') this.key.value='';return lawsSearch(this,true);" style="margin:0;padding:0">
+            	<input type="text" id="qucik-key" name="key" value="Search Laws" onfocus="if(this.value=='Search Laws' || this.value=='') this.value='';" onblur="if(this.value=='') this.value='Search Laws';" class="input-txt-bigger" style="background:none;border:2px solid #1661B2;width:710px;height:55px;font-size:30px;font-weight:bold"> <input type="submit" class="input-btn" value="SEARCH" style="width:167px;height:55px;font-size:20px;background:url(http://www.laws.com/themes/default/images/v4/input-btn-blue-big.png) no-repeat scroll 0 0 transparent">
+</form>
+</div>
+<div class="clearfix"></div>
+<div class="gap10"></div>
+
+<div style="width:728px;margin:auto;padding-bottom:15px"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Lawscom/ROS/tags.js"></script>
+</div>
     <div id="content">
     <div id="main" class="clearfix clear">
     	
@@ -339,8 +309,24 @@ directed at info@laws.com.<br></span><br>        </div>
     <!-- Main End -->
  </div>
 <div class="clearfix"></div>
+<div class="gap10"></div>
+<div style="width:620px;margin-left:180px;padding:0"><script language="JavaScript" src="http://mf.sitescout.com/tag.jsp?pid=952F524DAC&amp;w=600&amp;h=250&amp;rnd=1278"></script></div>
+<div class="clearfix"></div>
+<div class="gap10"></div>
+<div style="width:728px;margin:auto">
+
+	<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.addBlockingCategories="full-engagement-video";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Lawscom/BTF/tags.js"></script>
+</div>
+
 		<div id="search" style="float:none;width:620px;margin-left:180px;padding:0">
+				
         <div class="content" style="padding:10px 0 0 0">
+        	
         	               		<form method="get" action="http://www.laws.com/issue/list" onsubmit="if(this.key.value=='Search Site') this.key.value='';return lawsSearch(this,true);">
             	<input type="text" name="key" value="Search Site" onfocus="if(this.value=='Search Site') this.value='';" onblur="if(this.value=='') this.value='Search Site';" class="input-txt-bigger"> <input type="submit" class="input-btn" value="Search">
             </form>
@@ -349,7 +335,13 @@ directed at info@laws.com.<br></span><br>        </div>
     <div class="clearfix"></div>
 
 <div style=""></div>
-
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+<script>
+var options={ "publisher": "13e707f1-be2f-4c14-a576-ef215625d905", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "linkedin", "googleplus", "email", "sharethis"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
 
 <!--FOOTER-->
 <div id="footer">
@@ -365,8 +357,7 @@ directed at info@laws.com.<br></span><br>        </div>
                             	
                             	                            <div class="clearfix"></div>
                             	
-                            	<a href="http://marketing.laws.com"><img src="http://www.laws.com/themes/default/images/foot_banner.jpg"></a>
-                            	<div class="gap10"></div>
+                            	                            	<div class="gap10"></div>
                             
                             	<div style="font-size:11px"><strong>Disclaimer</strong> <br>There is no confidential attorney-client relationship formed by using Laws.com website and information provided on this site is not legal advice. For legal advice, please contact your attorney. Attorneys listed on this website are not referred or endorsed by this website. By using Laws.com you agree to Laws.com Terms Of Use.<br></div>
                                 
@@ -512,4 +503,4 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
-<!--93ae3fe119077ae33385be8d94414264--></div></body></html>
+</div></body></html>
