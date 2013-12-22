@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellstrike.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602182706id_/http%3A//bellstrike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellstrike.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222050613id_/http%3A//bellstrike.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bellstrike
 
