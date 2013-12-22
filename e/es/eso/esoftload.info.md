@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esoftload.info privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530080844id_/http%3A//www.esoftload.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoftload.info privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222234150id_/http%3A//www.esoftload.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
