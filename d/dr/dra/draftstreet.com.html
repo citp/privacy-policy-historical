@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the draftstreet.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615132301id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the draftstreet.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222101647id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
-    <script src="//cdn.optimizely.com/js/240960711.js"></script>
-    <title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Fantasy Sports Money Leagues, Win Cash and Prizes Today
 </title><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><meta id="ctl00_metaTitle" name="title" content="Privacy Policy"><meta id="ctl00_metaDesc" name="description">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -12,10 +10,11 @@
     
     
     <link rel="stylesheet" type="text/css" href="/css/fonts.css?rev9=924">  
-    <link rel="stylesheet" type="text/css" href="/css/ds.css?rev9=924">
+    <link rel="stylesheet" type="text/css" href="/css/ds.css?rev9=1027">
     <link rel="stylesheet" type="text/css" href="/css/share.css?rev9=9211">
     <link rel="stylesheet" type="text/css" href="/css/nanoscroller.css?rev9=9211"> 
     <link rel="stylesheet" type="text/css" href="/plugins/jquery.dsdialog.0/jquery.dsdialog.0.css?rev9=9211">
+    <link rel="stylesheet" type="text/css" href="/plugins/jquery-ui-1.8.24/jquery-ui.min.css">
     <link rel="stylesheet" type="text/css" href="/plugins/contactable/contactable.css?rev9=9211">
     <!--<link rel="stylesheet" type="text/css" href="/css/scrollbars/scrollbars.css?rev9=9211" />-->
 	
@@ -23,14 +22,14 @@
         <link rel="stylesheet" type="text/css" href="/css/chat.css?rev922">
     
 	<script type="text/javascript">
-	var _IMG = 'http://imagesnl.draftstreet.com/';
-	var _IMGSECURE = 'http://imagesnl.draftstreet.com/';
+	var _IMG = 'http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/';
+	var _IMGSECURE = 'http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/';
 	var _IMGAVATAR = 'http://www.draftstreet.com/images/avatar/';
 	var _PATHS = 'http://www.draftstreet.com/';
 	var _TM = 'DraftStreet';
 	var _CLP = 'http://chat.draftstreet.com/';
 	</script>
-    <script type="text/javascript" src="/global.js?rev9ision1720"></script>
+    <script type="text/javascript" src="/global.js?rev=1823"></script>
 <!--    <script src="https://www.google.com/jsapi"></script>
 	<script>
 	    google.load('jquery', '1.4.1');
@@ -41,13 +40,13 @@
     
     
     <script type="text/javascript" src="/plugins/soundmanager2-nodebug-jsmin.js"></script>
-    <script type="text/javascript" src="/plugins/jquery.simplemodal-1.3.3.min.js"></script>
+    <script type="text/javascript" src="/plugins/jquery.simplemodal-1.3.3.min.js?rev=1"></script>
     <script type="text/javascript" src="/plugins/jquery.cookie.js"></script>
     <script type="text/javascript" src="/plugins/jquery.autotab.js"></script>
-    <script type="text/javascript" src="/plugins/jquery.dsdialog.0/jquery.dsdialog.0.js?rev9=921"></script>
+    <script type="text/javascript" src="/plugins/jquery.dsdialog.0/jquery.dsdialog.0.js?rev9=923"></script>
     <script type="text/javascript" src="/plugins/contactable/jquery.contactable.js"></script>
     <script type="text/javascript" src="/plugins/jquery-ui.min-1.8.24.js"></script>
-    
+    <script type="text/javascript" src="/plugins/jquery.ui.touch-punch.min.js"></script>
     <script type="text/javascript" src="/plugins/contactable/jquery.validate.pack.js"></script>
     
     <script type="text/javascript" src="/plugins/jquery.nanoscroller.min.js"></script>
@@ -60,7 +59,11 @@
         <script type="text/javascript" src="/js/chat.js?rev91410"></script>
     
     <script type="text/javascript">
-        
+
+        var __BALANCE_UPDATE_INTERVAL = 30000;
+        var __BALANCE_SET_TIMEOUT;
+        var __BALANCE_AUTO = true;
+        var __BALANCE_AUTO_CLICKED = true;
         
         var _globaluserid = -1;
         var _uiService;
@@ -69,9 +72,9 @@
         var _userId = _userid;
         var _username = ''; 
         var _useravatar = '';   
-        var _moneybalance;
-        var _streetcredbalance;
-        var _bonusbalance; 
+        var _moneybalance = 0;
+        var _streetcredbalance = 0;
+        var _bonusbalance = 0; 
         var _paymenttype;
         var _withdrawtype;
         var _creditcardnumber;
@@ -104,6 +107,7 @@
         var _pcodedesc;
         var _pcode;
         var _globalChatRoom;
+        var _disableChat = ('' == "True" ? true : false);
         var _country = 'US';
         var top5;
         var _siteid = 1;
@@ -194,8 +198,11 @@
 
             
                 $('#floating-chat-anchor').show();
+            
+            
+            if (!_disableChat){
                 _globalChatRoom = Chat.Init('/chat/global/0', 'side-chat', 0, 0, 335, false, Chat.Formats.FloatRight);
-                toggleGlobalChat($.cookie('hide-global-chat') != 'true', false);
+                toggleGlobalChat($.cookie('hide-global-chat') != 'true', false);}
                 
                 $(window)
                     .resize(function() {
@@ -266,7 +273,7 @@
                 _UserService.LogOut(logoutdone,logoutfailed);
             });
             
-            if(_state == 'AZ' || _state == 'IA' || _state == 'LA' || _state == 'PR' || _state == 'VT' || _state == 'QC')
+            if(jQuery.inArray(_state, __BANNED_STATES) >= 0)
             {
                 disablebuttons();
             }
@@ -294,7 +301,8 @@
             
             _uiService.GetLastWeekMoneyLeaders(5,GetYesterdaysTop5MoneyLeaders_Complete,GetYesterdaysTop5MoneyLeaders_Failed);
             
-            _uiService.GetBottomBarMessages(GetBottomBarMessages_Complete,GetBottomBarMessages_Failed);
+            // disabling for now. Will be reinstated at a later time. PT - 56005616
+            //_uiService.GetBottomBarMessages(GetBottomBarMessages_Complete,GetBottomBarMessages_Failed);
             
             //$('.chat-side .chat-log-wrapper .nano').nanoScroller({alwaysVisible: true,scroll:'bottom'});
             
@@ -574,7 +582,7 @@
         
         function GetYesterdaysTop5MoneyLeaders_Failed()
         {
-            $('#main-header').attr('src', 'http://imagesnl.draftstreet.com/main_header_01a.jpg');
+            $('#main-header').attr('src', 'http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/main_header_01a.jpg');
         }
         
         function populatedata() {
@@ -647,21 +655,40 @@
         
         function updatebalance() {
             _UserService.CheckBalance(checkBalance_Complete, checkBalance_Failed);
+            //_UserService.CheckBalanceAndMeters(checkBalance_Complete, checkBalance_Failed);
         }
         
         function checkBalance_Complete(result) {
             result = normalizeResult(result);
+
+            if(__BALANCE_AUTO == true)
+                __BALANCE_SET_TIMEOUT = setTimeout('updatebalance();', __BALANCE_UPDATE_INTERVAL);
             
             if(result.success) {
                 var data = eval('(' + result.data + ')');
 
+                /*var account_balances = data[0];
+
+                for(var i = 0;i<account_balances.length;i++)
+                {
+                    if(account_balances[i].m == 1) // real money
+                        _moneybalance = account_balances[i].a;
+                    else if(account_balances[i].m == 2) // street creds
+                        _streetcredbalance = account_balances[i].a;
+                    else if(account_balances[i].m == 3) // bonus
+                        _bonusbalance = account_balances[i].a;
+                }*/
+                
                 _moneybalance = data.realmoney;
                 _streetcredbalance = data.streetcreds;
                 _bonusbalance = data.bonusmoney;
+                
                 $('#p-userbalanceamt, #user-balance').html('$' + addCommas(_moneybalance.toFixed(2)));
                 $('#p-streetcredsbalanceamt, #user-street-creds').html(_streetcredbalance);
                 $('#p-bonusmoney, #user-pending-bonus').html('$' + _bonusbalance.toFixed(2));
-                
+
+                credMeterLogic(data);
+
                 if (_checkBalance_localCallback != null)
                     _checkBalance_localCallback(data);
             }
@@ -677,7 +704,7 @@
             
             $('#a-show-chat, #a-hide-chat').hide();
 
-            if (show) {
+            if (show && !_disableChat) {
                 if (_globalChatRoom.latestStatus != Chat.Statuses.Connected)
                     Chat.Join(_globalChatRoom);
                 
@@ -715,6 +742,16 @@
                     $('#a-show-chat').show();
                 }
             }
+            
+            
+            $("#mobileSite").click(function(){
+                var x = new Date();
+                x.setDate(x.getDate() + 365);
+                $.cookie('DisplayMode', 'Mobile', { expires: x, path: '/' });
+                var targetUrl = location.protocol + "//" + location.host + "/mobile/";
+                document.location.href = targetUrl;
+            });
+            
         }
     </script>
     <!--[if gt IE 7]>
@@ -727,7 +764,7 @@
     <![endif]-->
     </head>
 <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc4NDk1MDY5OWRkIA3RvqqvxEiXXMiGgGghQanneoY=">
 
 
@@ -799,37 +836,39 @@ div#olark_tab{
         
         <div id="contentWrapper">
                 
+                    
 	                <div class="topBar">
 		                <h1 class="left">Fantasy Sports, Daily and Weekly Fantasy Drafts for Cash Prizes</h1>
 		                <div class="right"><span id="top-notloggedin"><a href="http://www.draftstreet.com/">Sign In</a>  |  <a href="http://www.draftstreet.com/register.aspx">Sign Up</a></span><span id="top-loggedin"><span id="top-loggedin-message"></span> | <a id="top-logout-link" style="text-transform:none;color:#30c3fa;" href="javascript:void(0);">Log out</a></span>&nbsp;&nbsp;&nbsp;&nbsp;1-888-272-1730</div>
 	                </div>
 	                <div class="headerds">
-	                    <div style="float:left;height:120px;margin-top:-8px;margin-left:14px;"><a style="z-index:1;height:120px;" href="http://www.draftstreet.com/"><img id="main-logo" style="position:absolute;" src="http://imagesnl.draftstreet.com/ds-main-logo.png" alt="DraftStreet - The Future of Fantasy Sports"></a></div>
-	                    <div class="slogan-div"><img id="ds-slogan" src="http://imagesnl.draftstreet.com/logobar-slogan.png" alt="DraftStreet - The Future of Fantasy Sports"><br>Over <span id="teams-drafted-count" class="y"></span> teams drafted this month!</div>
+	                    <div style="float:left;height:120px;margin-top:-8px;margin-left:14px;"><a style="z-index:1;height:120px;" href="http://www.draftstreet.com/"><img id="main-logo" style="position:absolute;" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/ds-main-logo.png" alt="DraftStreet - The Future of Fantasy Sports"></a></div>
+	                    <div class="slogan-div"><img id="ds-slogan" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/logobar-slogan.png" alt="DraftStreet - The Future of Fantasy Sports"><br>Over <span id="teams-drafted-count" class="y"></span> teams drafted this month!</div>
 	                    <div style="float:left;font-family:ProximaNovaRgRegular">
-	                        <img style="float:left;position:absolute;margin-left:52px;margin-top:23px;" id="top-winners" src="http://imagesnl.draftstreet.com/LastWeeksTopWinners.png" alt="DraftStreet - The Future of Fantasy Sports">
+	                        <img style="float:left;position:absolute;margin-left:52px;margin-top:23px;" id="top-winners" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/LastWeeksTopWinners.png" alt="DraftStreet - The Future of Fantasy Sports">
 	                        <span id="top5-username" style="color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; position: absolute; float: left; margin-top: 49px;margin-left:114px;"></span>
 	                        <span id="top5-money" style="text-align:left;min-width:160px;font-size: 13px; color:#f3b802; font-weight:bold; position: absolute; float: right; margin-top: 68px;margin-left:113px;"></span>
 	                        <img style="position:absolute;float:left;margin-top:49px;margin-left:53px;border:solid 1px #f3b802;" id="top5-img" width="49" height="49">
 	                        <span id="top5-score" style="min-width:100px;z-index:100;font-size: 13px; color: #30C3FA; position: absolute; float: left; margin-top: 104px; margin-left:260px;"><a href="http://www.draftstreet.com/leaderboard.aspx" target="_blank" style="color:#30C3FA;z-index:1000;"><b>Full Leaderboard</b></a></span>
 	                    </div>
 	                </div>
+                    
 	                    
-	                <div class="headerwl" style="display:none;"><div style="float:left;height:120px;"><a style="z-index:1;height:120px;" href="http://www.draftstreet.com/"><img id="Img1" src="http://imagesnl.draftstreet.com/main_header_lastweekwinners1.jpg" style="z-index:-1;width:970px; height:120px;" alt="DraftStreet - The Future of Fantasy Sports"></a></div><div style="float:left;margin-left:-970px;"><img id="Img2" src="http://imagesnl.draftstreet.com/transparent.gif" width="280" height="123" style="z-index:10; cursor:default; width: 280px; height: 123px; position: absolute; float: left; margin-left: 693px;margin-top: 0px;"><span id="Span1" style="color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; position: absolute; float: left; margin-left: 772px; margin-top: 40px;"></span><span id="Span2" style="font-size: 13px; color:#2C912B; font-weight:bold; position: absolute; float: right; margin-left: 772px; margin-top: 68px;"></span><span id="Span3" style="z-index:100;font-size: 13px; color: #2C912B; position: absolute; float: left; margin-left: 855px; margin-top: 90px;"><a href="http://www.draftstreet.com/leaderboard.aspx" target="_blank" style="color:#FFF;z-index:1000;"><b>Full Leaderboard</b></a></span><img style="position:absolute;float:left;margin-left:700px;margin-top:44px;" id="Img3" width="60" height="60"></div></div>
+	                <div class="headerwl" style="display:none;"><div style="float:left;height:120px;"><a style="z-index:1;height:120px;" href="http://www.draftstreet.com/"><img id="Img1" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/main_header_lastweekwinners1.jpg" style="z-index:-1;width:970px; height:120px;" alt="DraftStreet - The Future of Fantasy Sports"></a></div><div style="float:left;margin-left:-970px;"><img id="Img2" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/transparent.gif" width="280" height="123" style="z-index:10; cursor:default; width: 280px; height: 123px; position: absolute; float: left; margin-left: 693px;margin-top: 0px;"><span id="Span1" style="color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; position: absolute; float: left; margin-left: 772px; margin-top: 40px;"></span><span id="Span2" style="font-size: 13px; color:#2C912B; font-weight:bold; position: absolute; float: right; margin-left: 772px; margin-top: 68px;"></span><span id="Span3" style="z-index:100;font-size: 13px; color: #2C912B; position: absolute; float: left; margin-left: 855px; margin-top: 90px;"><a href="http://www.draftstreet.com/leaderboard.aspx" target="_blank" style="color:#FFF;z-index:1000;"><b>Full Leaderboard</b></a></span><img style="position:absolute;float:left;margin-left:700px;margin-top:44px;" id="Img3" width="60" height="60"></div></div>
 	                <div class="navWrapper">
 	                    
 	                    <div class="top-menu-wrapper">
-	                            <img id="logo-street" src="http://imagesnl.draftstreet.com/logo-sign.png" style="display:none;" width="198" height="67">
+	                            <img id="logo-street" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/logo-sign.png" style="display:none;" width="198" height="67">
 	                            <ul id="ctl00_ulTopMenu" class="top-menu">
 	                                <li id="ctl00_liHome"><a href="http://www.draftstreet.com/">Home</a></li>
     	                            
 	                                <li id="ctl00_liMyDraftstreet"><a href="http://www.draftstreet.com/my-info.aspx">My DraftStreet</a></li>
 	                                <li id="ctl00_liRules"><a href="http://www.draftstreet.com/rules.aspx">Rules</a></li>
 	                                <li id="ctl00_liPlayerNews">
-	                                    <a href="javascript:void(0);">Player News <img id="sub-menuimg" src="http://imagesnl.draftstreet.com/topmenu-arrow.png" alt=""></a>
+	                                    <a href="javascript:void(0);">Player News <img id="sub-menuimg" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/topmenu-arrow.png" alt=""></a>
 	                                </li>
 	                                <li id="ctl00_liSports">
-	                                    <a href="javascript:void(0);">Sports <img id="Img4" src="http://imagesnl.draftstreet.com/topmenu-arrow.png" alt=""></a>
+	                                    <a href="javascript:void(0);">Sports <img id="Img4" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/topmenu-arrow.png" alt=""></a>
 	                                </li>
 	                                
 	                                
@@ -865,7 +904,7 @@ div#olark_tab{
         <h2 class="c u">DraftStreet™ Website Privacy Policy</h2>
 
         <p>
-            Thank you for visiting the DraftStreet™ website located at www.draftstreet.com (the “Site”).  The Site is an Internet property of Left Tackle LLC (“DraftStreet™,” “we” or “us”).  This DraftStreet™ Website Privacy Policy (“Privacy Policy”) covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a DraftStreet™ Member (as defined in the DraftStreet™ Website Terms and Conditions (“Terms and Conditions”)); (c) use the DraftStreet™ Services (as defined in the Terms and Conditions); (d) purchase DraftStreet™ products, or register to purchase DraftStreet™ purchase products, from the DraftStreet™ shop accessible via the Site (“DraftStreet™ Shop”); and/or (e) register for one of our sweepstakes, promotional offers or contests (the “Sweepstakes”).  It is important that visitors are fully informed about the use of their Personal Information.  We believe in 100% permission-based marketing.  
+            Thank you for visiting the DraftStreet™ website located at www.draftstreet.com (the “Site”).  The Site is an Internet property of Skyllzone LLC (“DraftStreet™,” “we” or “us”).  This DraftStreet™ Website Privacy Policy (“Privacy Policy”) covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a DraftStreet™ Member (as defined in the DraftStreet™ Website Terms and Conditions (“Terms and Conditions”)); (c) use the DraftStreet™ Services (as defined in the Terms and Conditions); (d) purchase DraftStreet™ products, or register to purchase DraftStreet™ purchase products, from the DraftStreet™ shop accessible via the Site (“DraftStreet™ Shop”); and/or (e) register for one of our sweepstakes, promotional offers or contests (the “Sweepstakes”).  It is important that visitors are fully informed about the use of their Personal Information.  We believe in 100% permission-based marketing.  
         </p>
         <p class="b">
             If you are a resident of the State of California and would like to opt-out from the disclosure of 
@@ -1007,9 +1046,7 @@ div#olark_tab{
             <a href="mailto:cs@draftstreet.com">cs@draftstreet.com</a>, or send a letter to:  
             <br><br>
             DraftStreet<br>
-            111 W 28th St<br>
-Suite 2B<br>
-New York, NY 10001
+            36 E 12th St<br>Floor 2<br>New York, NY 10003
         </p>
     </div>
 
@@ -1033,6 +1070,7 @@ New York, NY 10001
                                     <li><a href="http://www.draftstreet.com/contactus.aspx">Contact Us</a></li>
                                     <li><a href="http://blog.draftstreet.com/" target="_blank">Blog</a></li>
                                     <li><a href="http://www.draftstreet.com/links.aspx">Links</a></li>
+                                    <li><a href="http://www.draftstreet.com/mobile/" id="mobileSite">Mobile</a></li>
                                     <li><span id="bottom-logout"><a id="bottom-logout-link" href="javascript:void(0);">Log out</a></span></li>
                                 </ul>
                             </li>
@@ -1067,14 +1105,14 @@ New York, NY 10001
                                 <ul class="footer-sub-ul">
                                     <li class="g">Copyright © 2013 DraftStreet™. All Rights Reserved.</li>
                                     <li><a href="http://www.draftstreet.com/Terms.aspx">Terms &amp; Conditions</a>  |  <a href="http://www.draftstreet.com/Privacy.aspx">Privacy Policy</a></li>
-                                    <li><img src="http://imagesnl.draftstreet.com/footer-ds-logo.png" alt=""></li>
+                                    <li><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/footer-ds-logo.png" alt=""></li>
                                 </ul>
                             </li>
                         </ul>
                     </div>
                     <div style="clear:both;"></div>
                     <div id="footer-warning">*RESIDENTS OF STATES OF ARIZONA, IOWA, LOUISIANA, MONTANA, NORTH DAKOTA, PUERTO RICO, VERMONT, QUEBEC AND WHERE OTHERWISE PROHIBITED BY LAW MAY ONLY PARTICIPATE IN THE<br>FREE CONTESTS AND SHALL NOT BE ELIGIBLE TO WIN ANY CASH PRIZES OR REWARD POINTS</div>
-                    <div id="footer-bottom-logos"><img src="http://imagesnl.draftstreet.com/footer-logos.png" alt=""></div>
+                    <div id="footer-bottom-logos"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/footer-logos.png" alt=""></div>
                 </div>
     	        <!--
 	            
@@ -1085,14 +1123,14 @@ New York, NY 10001
     	</div>
   
     <!-- bottom-bar -->
-    <div id="bottom-bar-wrapper">
-        <div id="bottom-bar-left"><img src="http://imagesnl.draftstreet.com/bottom-bar-txt-left.png" height="32" width="5"></div>
+    <div id="bottom-bar-wrapper" style="display:none;">
+        <div id="bottom-bar-left"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/bottom-bar-txt-left.png" height="32" width="5"></div>
         <div id="bottom-bar-txt-bg">
             <ul id="news-ticker">
                 
             </ul>
         </div>
-        <div id="bottom-bar-right"><img src="http://imagesnl.draftstreet.com/bottom-bar-txt-right.png" height="32" width="4"></div>
+        <div id="bottom-bar-right"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/bottom-bar-txt-right.png" height="32" width="4"></div>
         
     </div>
     
@@ -1107,11 +1145,11 @@ New York, NY 10001
 	</div>
 	<!-- JOIN LIGHTBOXES -->
 	<div id="dialog-join-weekly-warning">
-	    Warning: You're about to join a <span id="spn-weekly-warning-text" style="font-weight: bold;"></span> league. If you selected this league by accident click the cancel button below to return to the lobby<br>
+	    Warning: You're about to join a <span id="spn-weekly-warning-text" style="font-weight: bold;"></span><span id="spn-weekly-warning-text-helper"></span> league. If you selected this league by accident click the cancel button below to return to the lobby<br>
 	    <br>
-	    <a href="#" id="a-weekly-warning-continue"><img src="http://imagesnl.draftstreet.com/join-btn-continue.jpg" style="width: 106px; height: 26px;" alt="Continue"></a> 
+	    <a href="#" id="a-weekly-warning-continue"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/join-btn-continue.jpg" style="width: 106px; height: 26px;" alt="Continue"></a> 
 	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	    <a href="#" id="a-weekly-warning-cancel"><img src="http://imagesnl.draftstreet.com/join-btn-cancel-40.jpg" style="width: 82px; height: 24px;" alt="Cancel"></a><br>
+	    <a href="#" id="a-weekly-warning-cancel"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/join-btn-cancel-40.jpg" style="width: 82px; height: 24px;" alt="Cancel"></a><br>
 	    <br>
 	    <input type="checkbox" name="hide-weekly-warning" id="hide-weekly-warning"> <label for="hide-weekly-warning">Do not show this warning again</label>
 	</div>
@@ -1122,6 +1160,7 @@ New York, NY 10001
         <!-- FREEROLL/GPP -->
         <div id="join-freeroll-wrapper" style="display: none;">
             <div id="join-freeroll-name" class="b c" style="padding: 17px 0px; font-size: 14pt; color: #cc0000;"></div>
+            <div id="join-freeroll-custom-subhead" class="b c" style="padding: 10px 0px; font-size: 12pt; color: #000000; display: none;"></div>
             <div style="float: left; margin-left: 15px; border: solid 1px #c4c4c4; width: 331px;">
                 <table id="tbl-game-info-freeroll">
                     <tbody><tr class="alt" id="join-freeroll-id-row">
@@ -1253,9 +1292,9 @@ New York, NY 10001
             <div style="margin: 0px auto; width: 585px;text-align:center;">
                
                     
-                    <a id="a-join-join" href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/join-btn-join-40_big.png" style="width: 182px; height: 43px;" alt="Join league"></a>
-                    <a id="a-join-use-voucher" href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/voucher_btn_big.png" style="width: 182px; height: 43px;margin-left:15px;" alt="Use my voucher"></a>
-                    <a id="a-join-cancel" href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/cancel-btn-big.png" style="width: 182px; height: 43px;margin-left:15px;" alt="Cancel"></a>
+                    <a id="a-join-join" href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/join-btn-join-40_big.png" style="width: 182px; height: 43px;" alt="Join league"></a>
+                    <a id="a-join-use-voucher" href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/voucher_btn_big.png" style="width: 182px; height: 43px;margin-left:15px;" alt="Use my voucher"></a>
+                    <a id="a-join-cancel" href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/cancel-btn-big.png" style="width: 182px; height: 43px;margin-left:15px;" alt="Cancel"></a>
                 
                 
             </div>
@@ -1263,15 +1302,15 @@ New York, NY 10001
         
         <div id="league-panel-voucher" style="display: none; margin: 0px auto; width: 660px;">
             <div style="float: left; margin-top: 20px; width: 110px;">
-                <img src="http://imagesnl.draftstreet.com/join-voucher.jpg" style="width: 63px; height: 96px;" alt="DraftStreet voucher">
+                <img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/join-voucher.jpg" style="width: 63px; height: 96px;" alt="DraftStreet voucher">
             </div>
             <div style="float: left; margin-top: 20px; width: 340px; font-size: 11pt; font-weight: bold;">
                 <div style="margin: 0px auto; padding: 0px 20px;">
                     You are joining this league using a $<span id="join-voucher-value"></span> cash-league voucher.
                 </div>
                 <br><br>
-                <a id="a-join-use-voucher-continue" href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/join-btn-continue.jpg" style="width: 106px; height: 26px;" alt="Continue"></a>
-                <a id="a-join-use-voucher-back" href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/join-btn-back.jpg" style="width: 92px; height: 24px;" alt="Go back"></a>
+                <a id="a-join-use-voucher-continue" href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/join-btn-continue.jpg" style="width: 106px; height: 26px;" alt="Continue"></a>
+                <a id="a-join-use-voucher-back" href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/join-btn-back.jpg" style="width: 92px; height: 24px;" alt="Go back"></a>
             </div>
             <div style="float: left; width: 210px;">
                 <div id="unused-vouchers-wrapper" style="margin: 6px auto 0px auto; width: 191px;">
@@ -1298,15 +1337,15 @@ New York, NY 10001
         </div>
         
         <div id="league-panel-leave">
-            <a id="a-leave-unregister" href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/join-btn-unreg-lg.png" alt="Unregister from league"></a>
+            <a id="a-leave-unregister" href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/join-btn-unreg-lg.png" alt="Unregister from league"></a>
             &nbsp;&nbsp;&nbsp;
-            <a id="a-leave-cancel" href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/cancel-btn-big.png" style="width: 182px; height: 43px; margin-left:15px;" alt="Cancel"></a>
+            <a id="a-leave-cancel" href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/cancel-btn-big.png" style="width: 182px; height: 43px; margin-left:15px;" alt="Cancel"></a>
         </div>
     </div>
     
     <div id="dialog-join-congrats">
         <div id="congrats-top-close" class="r">
-           <a href="#" onclick="$.modal.close(); return false;"><img src="http://imagesnl.draftstreet.com/profile-close3.png" style="width: 16px; height: 16px;" alt="Close"></a>
+           <a href="#" onclick="$.modal.close(); return false;"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/profile-close3.png" style="width: 16px; height: 16px;" alt="Close"></a>
         </div>
         <div id="congrats-message" class="c" style="width: 100%;">Congratulations!  You have successfully joined this league:</div>
         <div id="game-info-wrapper-congrats">
@@ -1341,7 +1380,7 @@ New York, NY 10001
         </div>
         <div id="congrats-message-info"></div>
         <div id="congrats-okbutton">
-            <a id="ok-button" href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/dsdialog/dialog-btn-ok.png" style="width: 64px; height: 23px;" alt="OK"></a>
+            <a id="ok-button" href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/dsdialog/dialog-btn-ok.png" style="width: 64px; height: 23px;" alt="OK"></a>
         </div>
         <div class="share"></div>
         <div class="clear"></div>
@@ -1352,7 +1391,7 @@ New York, NY 10001
 		<br>Pursuant to current legislation, legal residents of your state are not permitted to participate in cash leagues on DraftStreet therefore we cannot allow you to deposit or withdraw.  Feel free to try out our free leagues by using the filters in the Draft Lobby.<br>
 		<div id="state-withdraw"><br></div>
 		If you feel you have received this message in error, please don’t hesitate to contact us at customerservice@draftstreet.com and we will respond promptly.<br><br>
-		<a id="a-states-ok" href="javascript:void(0);"><img width="50" height="25" src="http://imagesnl.draftstreet.com/ok-button.jpg"></a>
+		<a id="a-states-ok" href="javascript:void(0);"><img width="50" height="25" src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/ok-button.jpg"></a>
 		
 		
 	    </div>
@@ -1372,7 +1411,7 @@ Sys.Application.initialize();
 
         <div style="margin-bottom: 5px;width: 100%;">
             <div class="fhelp-header-text" style="font-size:15px;font-weight:bold;text-transform:uppercase;">Chat Rules</div>
-            <div class="fhelp-close"><a href="javascript:void(0);"><img src="http://imagesnl.draftstreet.com/fhelp-close.png" style="width: 20px; height: 20px;"></a></div>
+            <div class="fhelp-close"><a href="javascript:void(0);"><img src="http://23404f625988819b4d55-1a66a67fd18c432b98277c46ef65a97e.r10.cf1.rackcdn.com/fhelp-close.png" style="width: 20px; height: 20px;"></a></div>
         </div>
         <br><br>
         1.	Do not make offensive comments or use offensive language<br>
@@ -1413,7 +1452,7 @@ Sys.Application.initialize();
 <img src="http://ib.adnxs.com/seg?add=302146&amp;t=2" width="1" height="1">
 <!-- End of Segment Pixel -->
 <div id="adnxspxl"></div>
-<input name="ctl00$servername" type="hidden" id="ctl00_servername" value="LTDSWeb02">
+<input name="ctl00$servername" type="hidden" id="ctl00_servername" value="LTDSWEB08">
 
 
 
@@ -1428,5 +1467,5 @@ var pageTracker = _gat._getTracker("UA-12346082-1");
 pageTracker._setDomainName(".draftstreet.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-<!-- begin olark code --><script type="text/javascript">/*{literal}<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});/* custom configuration goes here (www.olark.com/documentation) */olark.identify('8991-288-10-1425');/*]]>{/literal}*/</script><script type="text/javascript">olark('api.chat.updateVisitorNickname', {    snippet: _username + "(" + _userId + ") " + _firstname + " " + _lastname + " - http://dsadmin.draftstreet.com/UserLookup_Details.aspx?u=" + _userId});</script>
+<!-- begin olark code --><script type="text/javascript">/*{literal}<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});/* custom configuration goes here (www.olark.com/documentation) */olark.identify('8991-288-10-1425');/*]]>{/literal}*/</script><script type="text/javascript">olark('api.chat.updateVisitorNickname', {    snippet: _username + "(" + _userId + ") " + _firstname + " " + _lastname + " - http://dsadmin.draftstreet.com/UserLookup_Details.aspx?u=" + _userId});olark.configure('box.corner_position', 'BL');</script>
 <div id="sm2-container" class="movieContainer " style="position: absolute; width: 6px; height: 6px; top: -9999px; left: -9999px;"><embed name="sm2movie" id="sm2movie" src="./soundmanager2.swf" width="100%" height="100%" quality="high" allowscriptaccess="always" bgcolor="#ffffff" pluginspage="https://web.archive.org/web/20120428173239/http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowfullscreen="false"></div></body></html>
