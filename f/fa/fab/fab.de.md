@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fab.de privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605223702id_/http%3A//eu.fab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fab.de privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222043535id_/https%3A//eu.fab.com/privacy) for the most accurate reproduction.*
 
 # eu.Fab.com | daily design for everyone
 
