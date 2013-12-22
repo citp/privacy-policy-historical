@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviewpakistan.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624003401id_/http%3A//reviewpakistan.com/ramz.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewpakistan.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222152957id_/http%3A//reviewpakistan.com/ramz.php) for the most accurate reproduction.*
 
-# Pakistani Nightlife, Dramas, Politics, Siasat, Celebrities, Urdu Forum - Privacy Policy
+# Pakistan's largest Travel site with reviews on Restaurants, Cafes, Bars, Hotels & Entertainment - Privacy Policy
 
 Our contact information is <http://reviewpakistan.com/sendmessage.php> or [social.gossip@yahoo.com](mailto:social.gossip@yahoo.com)
 
