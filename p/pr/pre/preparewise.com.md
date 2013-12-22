@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preparewise.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623010954id_/http%3A//www.preparewise.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preparewise.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222203422id_/http%3A//www.preparewise.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ PrepareWise may periodically make changes to this Policy. Updates will be reflec
 
 #### Contact Us
 
-If you have questions, concerns, or comments regarding this Privacy Policy, please contact a customer service representative at 1-801.368.5680 or send an E-mail to privacy@preparewise.com. You may also direct your questions, comments, and concerns to the following address:
+If you have questions, concerns, or comments regarding this Privacy Policy, please contact a customer service representative at 1.888.545.6265 or send an E-mail to privacy@preparewise.com. You may also direct your questions, comments, and concerns to the following address:
 
   * PrepareWise, LLC
   * 510 South 200 West, Suite 200
