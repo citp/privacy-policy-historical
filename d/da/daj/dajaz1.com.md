@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dajaz1.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622043531id_/http%3A//dajaz1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dajaz1.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222115721id_/http%3A//dajaz1.com/privacy-policy) for the most accurate reproduction.*
 
-# Dajaz1 | Urban | Music | Pop | Culture
+# Privacy Policy | Dajaz1
 
 **Collection and Use of Information:  **In addition to any personally identifying information you may voluntarily provide during your visit to this website, Dajaz1 may recognize and record certain other information, including without limitation, your computer’s unique IP address, and/or any other information concerning your use of this website. Dajaz1 reserves the right to use any information it collects at this website for any legal purpose, including without limitation by sending you information concerning future products, activities and/or promotions, and/or by sharing your information with third-parties in connection with certain promotions, products, programs and/or services. You may contact us by e-mail at privacy[@]dajaz1.com to request that Dajaz1 remove your information from its promotional lists.
 
@@ -15,6 +15,3 @@ LIMITATION ON LIABILITY: UNDER NO CIRCUMSTANCE SHALL DAJAZ1, ANY OF ITS AFFILIA
 **Applicable Law:**  The laws of the State of New York shall govern all matters relating to this website privacy policy, without giving effect to any principles of conflict of law. By your use of this website, you irrevocably submit to the exclusive jurisdiction of the state and federal courts located in New York County, New York with respect to resolution of disputes arising hereunder.
 
 **Policy Changes:**  Dajaz1 reserves the right to change this policy, in whole or part, at any time in its sole and absolute discretion, without prior notice, effective upon providing the updated policy on this website. If you have any questions concerning this policy, please submit your  questions to privacy[@]dajaz1.com.
-
-  
-
