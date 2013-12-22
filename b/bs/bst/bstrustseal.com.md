@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bstrustseal.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607063109id_/http%3A//www.bstrustseal.com/index.php%3Fr%3Dfront/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bstrustseal.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160104id_/http%3A//www.bstrustseal.com/index.php%3Fr%3Dfront/privacy) for the most accurate reproduction.*
 
 # Bayshore Free Trust Certificate - Gain trust amoung your visitors and increase your sale
 
