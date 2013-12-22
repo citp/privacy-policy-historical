@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620065957id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222223555id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Money and Markets
 
@@ -29,18 +29,12 @@ The security of your information is of concern to us. When you place orders on t
 **SHARING YOUR INFORMATION**  
 We share the information that you provide to us in the following circumstances: 
 
-  1. _Service Providers_. From time to time we may share information with companies and individuals who provide servicing, administrative, marketing and other services for us, or on our behalf. These services may include fulfillment centers, mailing houses, event providers, and customer support organizations. 
-
-  2. _Affiliates_. From time to time we may share information with our affiliates. These include (a) companies that we own or control, companies that own or control us, or companies that are owned or controlled by the same companies that own or control us. Such information may be used by our affiliates to promote their products and services to you. Where such information sharing occurs, our affiliates will follow the terms contained in this policy. 
-
-  3. _Third Parties_. From time to time we may share your contact information with third parties so that they may promote their products and services to you. 
-
-  4. _Law Enforcement_. We may cooperate with reasonable requests for information from law enforcement agencies. As a result, we reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect our, your, or another person’s rights, property or safety. 
-
-  5. _Other Persons As Permitted by Law_. We may share your information with others as required by, or permitted by, law. This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights or defend against legal claims that have been brought against us, or possible legal claims that we determine in our sole discretion might be brought against us. 
-
-  6. _Transfers_. In the event that all, or substantially all of our assets, are acquired, your information will be transferred to the acquiring company. 
-
+  1. Service Providers. From time to time we may share information with companies and individuals who provide servicing, administrative, marketing and other services for us, or on our behalf. These services may include fulfillment centers, mailing houses, event providers, and customer support organizations. 
+  2. Affiliates. From time to time we may share information with our affiliates. These include (a) companies that we own or control, companies that own or control us, or companies that are owned or controlled by the same companies that own or control us. Such information may be used by our affiliates to promote their products and services to you. Where such information sharing occurs, our affiliates will follow the terms contained in this policy. 
+  3. Third Parties. From time to time we may share your contact information with third parties so that they may promote their products and services to you. 
+  4. Law Enforcement. We may cooperate with reasonable requests for information from law enforcement agencies. As a result, we reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect our, your, or another person’s rights, property or safety. 
+  5. Other Persons As Permitted by Law. We may share your information with others as required by, or permitted by, law. This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights or defend against legal claims that have been brought against us, or possible legal claims that we determine in our sole discretion might be brought against us. 
+  6. Transfers. In the event that all, or substantially all of our assets, are acquired, your information will be transferred to the acquiring company. 
 
 
 
