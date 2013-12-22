@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628095009id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222183720id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Security Systems | Alarm Monitoring | Protect America
 
@@ -55,14 +55,4 @@ If you register with one of PAI's affiliates online, they may use this informati
 ](http://www.protectamerica.com/pa/cust_ref "Protect America | Tell-A-Friend Referral Service")
 
 If you choose to use our [referral service](http://www.protectamerica.com/pa/cust_ref "Protect America | Tell-A-Friend Referral Service") to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. PAI does not store this information. The information is used only for the sole purpose of sending this one-time email.
-
-* [Standard home security alarm monitoring agreement](https://secure.protectamerica.com/preview/en/) required with approved credit. Offer subject to change. Void where prohibited. Offer Expires: 06/30/2013
-
-* Information used for home security alarm system comparisons was obtained November 2011 through telephone and online research. ADT prices: based on total out-of-pocket expense to obtain services; installation based on fees for similar home security equipment packages; "Monitoring" price listed includes the additional "warranty" or "extended service plan". 
-
-GE and GE Security logos are registered trademarks of General Electric.
-
-The BEST BUY SEAL is a registered trademark of Consumers Digest Communications, LLC, used under license.
-
-© 1992 — 2013 Protect America, Inc. All rights reserved
   *[PAI]: Protect America, Inc.
