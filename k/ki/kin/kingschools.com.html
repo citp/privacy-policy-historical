@@ -1,16 +1,27 @@
-<!--The following is the downloaded HTML source of the kingschools.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622030508id_/http%3A//kingschools.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kingschools.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222220533id_/http%3A//kingschools.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>King Schools Privacy Policy</title>
+	<title>Privacy Policy</title>
 	<meta name="title" content="Privacy Policy">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-	<meta name="robots" content="index,follow">
+    <meta name="robots" content="index,follow">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="verify-v1" content="u5w39YvdDBC0RWaz1NjAUbMhGr8z7xAnpB5W5ftE5oo=">
 	<meta name="verify-v1" content="XrVCcfpF7vKFrjnKZSkA0PszUttco94Hf8s+N6uW7bM=">
 	<meta name="verify-v1" content="7qBhcsgUu9QOcjmGBPjvaDSdUFrBYgNWgnakX/Lzb28=">
+    <!-- for Facebook -->          
+    <meta property="og:title" content="King Schools Pilot Training">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="King Schools is the industry leader in pilot training software.">
+    <meta property="og:image" content="http://www.kingschools.com/king-schools-logo.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="200">
+    <meta property="og:url" content="http://www.kingschools.com">
+    <meta property="og:site_name" content="King Schools">
+
 	<meta http-equiv="Content-Style-Type" content="text/css">
     
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
@@ -43,13 +54,13 @@
     <!-- include Cycle plugin -->
     <script type="text/javascript" src="/SCRIPTS/jquery.cycle.2.9995/jquery.cycle.all.min.js"></script>
     <script type="text/javascript" src="/SCRIPTS/jquery.swfobject.1.0.9/jquery.swfobject.1-0-9.min.js"></script>
-    <script type="text/javascript" src="/SCRIPTS/jquery.ceebox.2.0.7/js/jquery.ceebox-min.js"></script>
+    <script type="text/javascript" src="/SCRIPTS/jquery.ceebox.2.0.7/js/jquery.ceebox-min-v2.js"></script>
     
     
     <script type="text/javascript" src="http://media.kingschools.com/catalog/site-components/jwplayer/jwplayer.js"></script>
    <!-- <script type="text/javascript" src="//media.kingschools.com/catalog/site-components/jquery.jwplayer.plugin/jwplayer-integrate.js"></script>-->
    
-    <script type="text/javascript" src="/SCRIPTS/jquery.jwplayer.plugin/jwplayer-integrate.min.js"></script>
+    <script type="text/javascript" src="/SCRIPTS/jquery.jwplayer.plugin/jwplayer-integrate.min_v2.js"></script>
     
     <script type="text/javascript">
         $(document).ready(function() {
@@ -90,6 +101,49 @@
     </script>
     
  
+<script type="text/javascript">
+
+    function checkSearch() {
+
+        var txtField = document.getElementById("SKW");
+
+        if (txtField != null) {
+            var val = txtField.value;
+
+            if (val == "Enter keyword or item #") {
+                txtField.value = "";
+            }
+        }
+
+        return false;
+    }
+
+    function doSearch() {
+
+        var txtField = document.getElementById("SKW");
+        //alert("txtField=" + txtField);
+        if (txtField != null) {
+            var val = txtField.value;
+            var url = "/searchresults.asp?SKW=" + val + "&STARTPAGE=0001&PAGLEN=6";
+            //alert("url=" + url)
+            window.location = url;
+        }
+        return false;
+    }
+
+    function checkForReturn(event) {
+
+        event = event || window.event;
+
+        var keycode = event.keyCode;
+
+        if (keycode == 13) {
+
+            doSearch();
+        }
+    }
+
+</script>
 </head>
 <body>
 <a id="topofpage"></a>
@@ -155,7 +209,7 @@
             						<li><a href="/aviation-courses/risk-management/takeoffs-and-landings">Takeoffs and Landings</a></li>
             						<li><a href="/aviation-courses/risk-management/weather">Weather</a></li>
             						<li><a href="/aviation-courses/risk-management/passengers-pilots">Reluctant Passengers and Their Pilots</a></li>
-            						<li><a href="/offers/tovbuyget.asp">Special Subject Series Course Special</a></li>
+            						<li><a href="/offers/tovbuyget.asp">Single Subject Series Course Special</a></li>
             						<li><a href="/aviation-courses/kit"><em>Get It All</em> Kit</a></li>
 							    </ul>
 						    </li>
@@ -276,6 +330,7 @@
                             <li><a href="/search/commercial helo/Commercial-Helicopter">Commercial Exam</a></li>
                             <li><a href="/search/flight instructor helo/Flight-Instructor-Helicopter">Flight Instructor Exam</a></li>
                             <li><a href="/search/atp helo/ATP-Helicopter">ATP Exam</a></li>
+                            <li><a href="/ground-school/CFI/FIRC-helo-renewal">Helo Flight Instructor Refresher (FIRC)</a></li>
 		                </ul>
                     </li>
                     
@@ -296,7 +351,7 @@
             						<li><a href="/aviation-courses/risk-management/takeoffs-and-landings">Takeoffs and Landings</a></li>
             						<li><a href="/aviation-courses/risk-management/weather">Weather</a></li>
             						<li><a href="/aviation-courses/risk-management/passengers-pilots">Reluctant Passengers and Their Pilots</a></li>
-            						<li><a href="/offers/tovbuyget.asp">Special Subject Series Course Special</a></li>
+            						<li><a href="/offers/tovbuyget.asp">Single Subject Series Course Special</a></li>
             						<li><a href="/aviation-courses/kit"><em>Get It All</em> Kit</a></li>
 							    </ul>
 						    </li>
@@ -317,7 +372,8 @@
         	<li><a href="#">Flight Instructors&nbsp;&nbsp;</a>
                 <ul class="sub_menu">
                     <li><a href="/CFI">FREE Flight Instructor Resources</a></li>
-                    <li><a href="/courses/flight-instructor/refresher-course.asp">Flight Instructor Refresher (FIRC)</a></li>
+                    <li><a href="/ground-school/CFI/FIRC-renewal">Flight Instructor Refresher (FIRC)</a></li>
+                    <li><a href="/ground-school/CFI/FIRC-helo-renewal">Helo Flight Instructor Refresher (FIRC)</a></li>
                     <li>
                         <a href="#">Become a Flight Instructor (CFI)</a>
                         <ul>
@@ -341,7 +397,7 @@
 
         	<li><a href="#">Pro / Turbine&nbsp;&nbsp;</a>
                 <ul class="sub_menu">
-                    <li><a href="/search/ATP Part 121 135 Exam/ATP-Knowledge-Test-Courses">Airline Transport Pilot (ATP) Exam Courses</a></li>
+                    <li><a href="/ground-school/atp/">Airline Transport Pilot (ATP) Exam Courses</a></li>
                     <li><a href="/aviation-courses/professional/RVSM">RVSM Pilot Certification</a></li>
                     <li><a href="/aviation-courses/professional/international-flight-operations">International Flight Ops Overview</a></li>
                     <li><a href="/aviation-courses/professional/oceanic-RNP">Oceanic RNP Pilot Certification</a></li>
@@ -433,8 +489,13 @@
       <li>|</li>
       <li><i><span class="phone">800-854-1001</span></i></li>
     </ul>
+    <div id="headerSearch">
+        <span class="searchText">Search</span>&nbsp;&nbsp;
+        <input type="text" size="25" name="SKW" id="SKW" value="Enter keyword or item #" onclick="javascript:checkSearch();" onkeypress="javascript:checkForReturn(event);">
+        <input type="button" class="search_button" name="submit" value="" onclick="javascript:doSearch();">
+    </div>
       <div class="customershopping" style="z-index:150;">
-        <a class="cart" href="/Cart/Cart_Detail.asp?UID=0616062120050711"></a>
+        <a class="cart" href="/Cart/Cart_Detail.asp?UID=2476122214053276"></a>
 		<a class="courselogin" href="http://ilearn.kingschools.com/default.aspx?sco=&amp;scu=" target="_blank">Go to My<br>Online Courses</a>
 		<ul id="shoppingAccount">
 		    
@@ -454,13 +515,13 @@
       
       <div class="bookmark" style="">
 <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style">
+<div class="addthis_toolbox addthis_default_style" addthis:url="http://www.kingschools.com">
 <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=kingschools" class="addthis_button_compact"><font color="#ffffff">Share</font></a>
 <span class="addthis_separator">|</span>
-<a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
-<a class="addthis_button_preferred_1"></a>
-<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_google_plusone_share"></a>
+<a class="addthis_button_email"></a>
 </div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=kingschools"></script>
 <script type="text/javascript">var addthis_config = {ui_header_color: "#ffffff", ui_header_background: "#fe6d4c", ui_cobrand: "King Schools", "data_track_clickback": true}</script>
@@ -682,7 +743,7 @@
 		<ul>
         	<li><a href="/GetItAllKits.asp" class="emphasize"><i>Get It All</i> Kits</a></li>
             <li><a href="/Offers/KingCourseSpecial.asp">Best Buy Combos</a></li>
-            <li><a href="/offers/tovbuyget.asp">Special Subject Series Course Special</a></li>
+            <li><a href="/offers/tovbuyget.asp">Single Subject Series Course Special</a></li>
             <li><a href="/aviation-courses/flight-review">Flight Review Bundle</a></li>
             <li><a href="/ground-school/CFII/written">CFII Bundle</a></li>
             <li><a href="/aviation-courses/mechanics/bundle">A&amp;P Bundle</a></li>
@@ -831,7 +892,7 @@
 	</div>
     <h3><a href="#lnav-takeoff">Clear Training Hurdles</a></h3>
 	<div>
-    	<p class="leadin"><strong>Take your knowledge further.</strong> Each of these courses provides an in-depth study of a special subject.</p>
+    	<p class="leadin"><strong>Take your knowledge further.</strong> Each of these courses provides an in-depth study of a single subject.</p>
         <ul>
             <li><a href="/search/takeoffs easy/Takeoffs-and-Landings-Made-Easy">Takeoffs and Landings Made Easy</a></li>
             <li><a href="/search/communications take off/Communications">Communications</a></li>
@@ -853,7 +914,7 @@
             <li><a href="/search/flying citation/Flying-The-Citation">Flying the Citation</a></li>
             <li><a href="/search/hangar/Hangar-Flying-With-A-Point">Hangar Flying With A Point</a></li>
             <li><a href="/aviation-courses/lets-go-flying">Let´s&nbsp;Go&nbsp;Flying!</a></li>
-            <li><br><a href="/offers/tovbuyget.asp" class="emphasize">Special Subject Series Course Special</a><span class="boldreditalic">Save!</span></li>
+            <li><br><a href="/offers/tovbuyget.asp" class="emphasize">Single Subject Series Course Special</a><span class="boldreditalic">Save!</span></li>
             <li><br><a href="/search/TOGIAKIT/Take_Off-Courses-Get-It-All-Kit" class="emphasize"><em>Get It All</em> Kit</a><span class="boldreditalic">Save!</span></li>
 		</ul>
 	</div>
@@ -875,7 +936,7 @@
             <li><a href="/aviation-courses/risk-management/takeoffs-and-landings">Takeoffs and Landings</a></li>
             <li><a href="/aviation-courses/risk-management/weather">Weather</a></li>
             <li><a href="/aviation-courses/risk-management/passengers-pilots">Reluctant Passengers and Their Pilots</a></li>
-            <li><br><a href="/offers/tovbuyget.asp" class="emphasize">Special Subject Series Course Special</a><span class="boldreditalic">Save!</span></li>
+            <li><br><a href="/offers/tovbuyget.asp" class="emphasize">Single Subject Series Course Special</a><span class="boldreditalic">Save!</span></li>
             <li><br><a href="/aviation-courses/kit" class="emphasize"><em>Get It All</em> Kit</a><span class="boldreditalic">Save!</span></li>
 		</ul>
 	</div>
@@ -946,7 +1007,7 @@
   })();
 
 </script>
-<!-- 10.0.1.100,10.0.1.109,10.0.1.150,10.0.1.162,10.0.1.163,10.0.1.164,10.0.1.169,10.0.1.170,127.0.0.1 -->
+<!-- 10.0.1.100,10.0.1.111,10.0.1.152,10.0.1.162,10.0.1.163,10.0.1.164,10.0.1.169,10.0.1.170,10.0.1.180,127.0.0.1 -->
 
 <!-- Google Code for Remarketing tag -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
