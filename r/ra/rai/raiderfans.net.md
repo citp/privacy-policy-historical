@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raiderfans.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606084700id_/http%3A//www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiderfans.net privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222205002id_/http%3A//www.raiderfans.net/forum/site-news-announcements/176359-raiderfans-net-privacy-policy.html) for the most accurate reproduction.*
 
 # Raiderfans.net Privacy Policy
 
