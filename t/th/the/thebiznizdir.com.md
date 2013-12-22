@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528070656id_/http%3A//www.thebiznizdir.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222220215id_/http%3A//www.thebiznizdir.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - thebiznizdir.com
+
+Privacy Policy 
 
 We recognize that your privacy is important and at thebiznizdir.com we keep all your personal information secret. We never share your personal information with any third party.
 
