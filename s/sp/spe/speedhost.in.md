@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedhost.in privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328221130id_/http%3A//www.speedhost.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedhost.in privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095313id_/http%3A//www.speedhost.in/privacy-policy.html) for the most accurate reproduction.*
 
 # SpeedHost™ is a Privacy Policy
 
@@ -34,7 +34,7 @@ We may use personal information to keep in contact with you and inform you of de
 
 ## Correcting/Updating Personal Information
 
-If a client's personally identifiable information changes, or if a client no longer desires our services, we will endeavor to provide a way to correct, update or remove that client's personal data in our records. In most cases, this can be achieved via the [Client Area](https://www.speedhost.in/manage/clientarea.php). Otherwise, please contact us at sales@speedhost.in.
+If a client's personally identifiable information changes, or if a client no longer desires our services, we will endeavor to provide a way to correct, update or remove that client's personal data in our records. In most cases, this can be achieved via the [Client Area](http://manage.speedhost.in/customer). Otherwise, please contact us at sales@speedhost.in.
 
 ## Opt Out & Modifications
 
