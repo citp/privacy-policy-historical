@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anypages.org privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506192254id_/http%3A//anypages.org//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypages.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222092251id_/http%3A//www1.anypages.org//privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
