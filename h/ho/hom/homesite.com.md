@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623122319id_/http%3A//homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222144133id_/http%3A//www.homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Homesite's Privacy Policies
 
@@ -37,10 +37,10 @@ We use third-party advertising companies to serve ads on sites on which we adver
 **Contacting Homesite**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us online at [info@homesite.com](mailto:info@homesite.com). You can also reach us by mail at:  
 **Homesite Group Inc.  
-99 Bedford Street  
-Boston, MA 02111**
+One Federal Street  
+Boston, MA 02110**
 
 **Acceptance of These Terms  
 **By using this site, you signify your consent to Homesite's Privacy Policies. If you do not agree to these policies, please do not use this site. We reserve the right, at our discretion, to update, change, modify, add, or remove portions of this policy from time to time. Your continued use of this site and others that may be owned by Homesite following the posting of changes to these terms will mean you accept those changes. Any changes to this privacy policy will be promptly disclosed in this area.
 
-Take a few minutes to get a free, no obligation [homeowners insurance quote](https://web.archive.org/web/20130623122319id_/http%3A//homesite.com/homeowners-insurance/homeowners-insurance-quote.htm), and see just how affordable our rates can be.
+Take a few minutes to get a free, no obligation [homeowners insurance quote](https://web.archive.org/web/20131222144133id_/http%3A//www.homesite.com/homeowners-insurance/homeowners-insurance-quote.htm), and see just how affordable our rates can be.
