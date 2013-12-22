@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the snapwidget.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602001256id_/http%3A//snapwidget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapwidget.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222033715id_/http%3A//snapwidget.com/privacy) for the most accurate reproduction.*
 
-# SnapWidget | Instagram Photo Gallery Widgets | Privacy Policy
+# SnapWidget | Instagram Widget | Privacy Policy
 
 ## Privacy Policy for SnapWidget
+
+* * *
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@snapwidget.com](mailto:info@snapwidget.com).
 
