@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the insureon.com privacy policy that was archived on 2013-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130506031307id_/http%3A//www.insureon.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insureon.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222071337id_/http%3A//insureon.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head id="ctl00_Head1"><title>
 	Privacy Statement - Insureon - How We Treat Your Personal &amp; Business Information
 </title>
         <link href="/css/screen.css" rel="stylesheet" type="text/css" media="screen">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	<meta name="description" content="Privacy Policy at Insureon - Keeping your insurance information safe &amp; secure.">
 	<meta name="keywords" content="privacy statement,personal information privacy,architectural insurance,business auto insurance,cleaning insurance,cleaning services insurance,maid insurance,janitor insurance,janitorial insurance,consultant insurance">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-SG62"></script><script type="text/javascript" src="/js/1.7.2/jquery.min.js"></script>
@@ -22,7 +22,192 @@
                 </script>
             <!-- TOP END -->
 		
-    
+    <div id="divNotSupported" style="display: none; background-color:#fadf4a; color:#ff0000;height: 40px; text-align:center; margin: 0 auto;">
+  <br>Oops! This version of your browser is not compatible with our application. Please contact us and we will personally help you: 800-688-1984 8am-5:30pm CST Mon-Fri. <a href="mailto:info@insureon.com">Or email us.</a>
+</div>
+<script>
+  var NotSupported = [];
+  NotSupported.push({Os:"Windows", BrowserVersion:6.0, Browser:"MSIE"});
+
+
+  (function (window) {
+  {
+  var unknown = '-'; 
+
+  // screen
+  var screenSize = '';
+  if (screen.width) {
+  width = (screen.width) ? screen.width : '';
+  height = (screen.height) ? screen.height : '';
+  screenSize += '' + width + " x " + height;
+  }
+
+  //browser
+  var nVer = navigator.appVersion;
+  var nAgt = navigator.userAgent;
+  var browser = navigator.appName;
+  var version = '' + parseFloat(navigator.appVersion);
+  var majorVersion = parseInt(navigator.appVersion, 10);
+  var nameOffset, verOffset, ix;
+
+  // Opera
+  if ((verOffset = nAgt.indexOf('Opera')) != -1) {
+  browser = 'Opera';
+  version = nAgt.substring(verOffset + 6);
+  if ((verOffset = nAgt.indexOf('Version')) != -1) {
+  version = nAgt.substring(verOffset + 8);
+  }
+  }
+  // MSIE
+  else if ((verOffset = nAgt.indexOf('MSIE')) != -1) {
+  browser = 'MSIE';
+  version = nAgt.substring(verOffset + 5);
+  }
+  // Chrome
+  else if ((verOffset = nAgt.indexOf('Chrome')) != -1) {
+  browser = 'Chrome';
+  version = nAgt.substring(verOffset + 7);
+  }
+  // Safari
+  else if ((verOffset = nAgt.indexOf('Safari')) != -1) {
+  browser = 'Safari';
+  version = nAgt.substring(verOffset + 7);
+  if ((verOffset = nAgt.indexOf('Version')) != -1) {
+  version = nAgt.substring(verOffset + 8);
+  }
+  }
+  // Firefox
+  else if ((verOffset = nAgt.indexOf('Firefox')) != -1) {
+  browser = 'Firefox';
+  version = nAgt.substring(verOffset + 8);
+  }
+  // Other browsers
+  else if ((nameOffset = nAgt.lastIndexOf(' ') + 1) < (verOffset = nAgt.lastIndexOf('/'))) {
+            browser = nAgt.substring(nameOffset, verOffset);
+            version = nAgt.substring(verOffset + 1);
+            if (browser.toLowerCase() == browser.toUpperCase()) {
+                browser = navigator.appName;
+            }
+        }
+        // trim the version string
+        if ((ix = version.indexOf(';')) != -1) version = version.substring(0, ix);
+        if ((ix = version.indexOf(' ')) != -1) version = version.substring(0, ix);
+
+        majorVersion = parseInt('' + version, 10);
+        if (isNaN(majorVersion)) {
+            version = '' + parseFloat(navigator.appVersion);
+            majorVersion = parseInt(navigator.appVersion, 10);
+        }
+
+        // mobile version
+        var mobile = /Mobile|mini|Fennec|Android|iP(ad|od|hone)/.test(nVer);
+
+        // cookie
+        var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+
+        if (typeof navigator.cookieEnabled == 'undefined' && !cookieEnabled) {
+  document.cookie = 'testcookie';
+  cookieEnabled = (document.cookie.indexOf('testcookie') != -1) ? true : false;
+  }
+
+  // system
+  var os = unknown;
+  var clientStrings = [
+  {s:'Windows 3.11', r:/Win16/},
+  {s:'Windows 95', r:/(Windows 95|Win95|Windows_95)/},
+  {s:'Windows ME', r:/(Win 9x 4.90|Windows ME)/},
+  {s:'Windows 98', r:/(Windows 98|Win98)/},
+  {s:'Windows CE', r:/Windows CE/},
+  {s:'Windows 2000', r:/(Windows NT 5.0|Windows 2000)/},
+  {s:'Windows XP', r:/(Windows NT 5.1|Windows XP)/},
+  {s:'Windows Server 2003', r:/Windows NT 5.2/},
+  {s:'Windows Vista', r:/Windows NT 6.0/},
+  {s:'Windows 7', r:/(Windows 7|Windows NT 6.1)/},
+  {s:'Windows 8.1', r:/(Windows 8.1|Windows NT 6.3)/},
+  {s:'Windows 8', r:/(Windows 8|Windows NT 6.2)/},
+  {s:'Windows NT 4.0', r:/(Windows NT 4.0|WinNT4.0|WinNT|Windows NT)/},
+  {s:'Windows ME', r:/Windows ME/},
+  {s:'Android', r:/Android/},
+  {s:'Open BSD', r:/OpenBSD/},
+  {s:'Sun OS', r:/SunOS/},
+  {s:'Linux', r:/(Linux|X11)/},
+  {s:'iOS', r:/(iPhone|iPad|iPod)/},
+  {s:'Mac OS X', r:/Mac OS X/},
+  {s:'Mac OS', r:/(MacPPC|MacIntel|Mac_PowerPC|Macintosh)/},
+  {s:'QNX', r:/QNX/},
+  {s:'UNIX', r:/UNIX/},
+  {s:'BeOS', r:/BeOS/},
+  {s:'OS/2', r:/OS\/2/},
+  {s:'Search Bot', r:/(nuhk|Googlebot|Yammybot|Openbot|Slurp|MSNBot|Ask Jeeves\/Teoma|ia_archiver)/}
+  ];
+  for (var id in clientStrings) {
+  var cs = clientStrings[id];
+  if (cs.r.test(nAgt)) {
+  os = cs.s;
+  break;
+  }
+  }
+
+  var osVersion = unknown;
+
+  if (/Windows/.test(os)) {
+  osVersion = /Windows (.*)/.exec(os)[1];
+  os = 'Windows';
+  }
+
+  switch (os) {
+  case 'Mac OS X':
+  osVersion = /Mac OS X (10[\.\_\d]+)/.exec(nAgt)[1];
+  break;
+
+  case 'Android':
+  osVersion = /Android ([\.\_\d]+)/.exec(nAgt)[1];
+  break;
+
+  case 'iOS':
+  osVersion = /OS (\d+)_(\d+)_?(\d+)?/.exec(nVer);
+  osVersion = osVersion[1] + '.' + osVersion[2] + '.' + (osVersion[3] | 0);
+  break;
+  }
+
+  // flash (you'll need to include swfobject)
+  /* script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" */
+  var flashVersion = 'no check';
+  if (typeof swfobject != 'undefined') {
+  var fv = swfobject.getFlashPlayerVersion();
+  if (fv.major > 0) {
+  flashVersion = fv.major + '.' + fv.minor + ' r' + fv.release;
+  }
+  else  {
+  flashVersion = unknown;
+  }
+  }
+  }
+
+  window.jscd = {
+  screen: screenSize,
+  browser: browser,
+  browserVersion: version,
+  mobile: mobile,
+  os: os,
+  osVersion: osVersion,
+  cookies: cookieEnabled,
+  flashVersion: flashVersion
+  };
+  }(this));
+
+
+  for (var i = 0; i < NotSupported.length; i++) {
+    if ( (jscd.os +' '+ jscd.osVersion).indexOf(NotSupported[i].Os) >-1 && jscd.browser== NotSupported[i].Browser && parseFloat(jscd.browserVersion) <= NotSupported[i].BrowserVersion) {
+  document.getElementById("divNotSupported").style.display = '';
+
+  break;
+
+  }
+
+  }
+
+</script>
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-SG62"
@@ -43,6 +228,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <!-- ASL tag ends--> 
 
     	 
+
 <script src="/include/App.js" type="text/javascript"></script>
 <script src="/js/li-scroller.1.0.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>
@@ -80,7 +266,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         <!-- start main-nav : top level menu links -->
         <div class="container main-nav">
             <ul>
-                <a href="/">
+                <a href="http://www.insureon.com">
                     <li id="Li1" class="nav-links">
                         <img src="/images/Insureon_Logo.png" alt="Insureon">
                     </li>
@@ -123,34 +309,37 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                         CHOOSE YOUR PROFESSION</h2>
                     <div class="sub-container">
                         <ul class="grid_3 alpha">
-                            <li><a href="/accountants/">Accountants, Tax Preparers and Finance Professionals</a></li>
-                            <li><a href="/advertising/">Advertising, Graphic Design, &amp; other Media Services</a></li>
-                            <li><a href="/architects/">Architects, Engineers, and Design Professionals</a></li>
-                            <li><a href="/computer/">Computer, Web, IT Services &amp; IT Staffing</a></li>
-                            <li><a href="/general-contractor/">Construction &amp; Contracting</a></li>
+                            <li><a href="http://financial.insureon.com/ ">Accountants, Tax Preparers and Finance Professionals</a></li>
+                            <li><a href="http://advertising.insureon.com/ ">Advertising, Graphic Design, &amp; other Media Services</a></li>
+                            <li><a href="http://design.insureon.com/ ">Architects, Engineers, and Design Professionals</a></li>
+                            <li><a href="http://it.insureon.com/ ">Computer, Web, IT Services &amp; IT Staffing</a></li>
+                            <li><a href="http://construction.insureon.com/ ">Construction &amp; Contracting</a></li>
                         </ul>
                         <ul class="grid_3">
-                            <li><a href="/management-consultants/">Consultants-Management &amp;<br>
-                                Marketing</a></li>
-                            <li><a href="/allied-health/">Healthcare Professionals</a></li>
-                            <li><a href="/insurance-agents/">Insurance Agents</a></li>
-                            <li><a href="/maids/">Janitor, Maid &amp; Cleaning Services</a></li>
-                            <li><a href="/lawncare/">Lawn Care/Landscaping</a></li>
+                            <li><a href="http://consultants.insureon.com/ ">Consultants-Management &amp;<br>Marketing</a></li>
+                            <li><a href="http://alliedhealth.insureon.com/ ">Healthcare Professionals</a></li>
+                            <li><a href="http://athomebusiness.insureon.com/ ">Home Based Business</a></li>
+                            <li><a href="http://agents.insureon.com/ ">Insurance Agents</a></li>
+                            <li><a href="http://buildingservices.insureon.com/ ">Janitor, Maid &amp; Cleaning Services</a></li>
+                            <li><a href="http://landscaping.insureon.com/ ">Lawn Care/Landscaping</a></li>
                         </ul>
                         <ul class="grid_3">
-                            <li><a href="/manufacturers/">Manufacturers </a></li>
-                            <li><a href="/non-profit/">Nonprofit / Social Services</a></li>
-                            <li><a href="/videography/">Photography / Video Services</a></li>
-                            <li><a href="/printing/">Printing &amp; Copying</a></li>
-                            <li><a href="/professional/">Professional &amp; Specialty Services</a></li>
-                            <li><a href="/real-estate/">Real Estate &amp; Title</a></li>
+                            <li><a href="http://manufacturers.insureon.com/ ">Manufacturers </a></li>
+                            <li><a href="http://nonprofit.insureon.com/ ">Nonprofit / Social Services</a></li>
+                             <li><a href="http://petservices.insureon.com/ ">Pet Services</a></li>
+                            <li><a href="http://photovideo.insureon.com/ ">Photography / Video Services</a></li>
+                            <li><a href="http://printers.insureon.com/ ">Printing &amp; Copying</a></li>
+                            <li><a href="http://installation.insureon.com/ ">Professional Installation</a></li>
+                            <li><a href="http://specialty.insureon.com/ ">Professional &amp; Specialty Services</a></li>
+                            <li><a href="http://realestate.insureon.com/ ">Real Estate &amp; Title</a></li>
                         </ul>
                         <ul class="grid_3 omega">
-                            <li><a href="/cuisine/">Restaurants</a></li>
-                            <li><a href="/retail/">Retail</a></li>
-                            <li><a href="/services/">Services, Miscellaneous</a></li>
+                            <li><a href="http://foodservices.insureon.com/ ">Restaurants</a></li>
+                            <li><a href="http://retail.insureon.com/ ">Retail</a></li>
+                            <li><a href="http://personalcare.insureon.com/ ">Salons and Personal Care Services</a></li>
+                            <li><a href="http://services.insureon.com/ ">Services, Miscellaneous</a></li>
                             <!--<li><a href="/vending-machines/">Vending Machine Operators</a></li>-->
-                            <li><a href="/wholesalers/">Wholesalers</a></li>
+                            <li><a href="http://wholesalers.insureon.com/ ">Wholesalers</a></li>
                             <li><a href="/other/">Other – None of the Above</a></li>
                         </ul>
                     </div>
@@ -160,21 +349,21 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 <div class="sub-menu">
                     <div class="sub-container">
                         <ul>
-                            <li class="grid_2 alpha subnav-icon" id="general"><a href="/general-liability-insurance/">
+                            <li class="grid_2 alpha subnav-icon" id="general"><a href="http://www.insureon.com/products/general-liability-insurance/">
                                 <span></span>General Liability</a></li>
-                            <li class="grid_2 subnav-icon" id="profitability"><a href="/professional-liability/">
-                                <span></span>Professional Liability<br>
-                                Errors &amp; Omissions</a></li>
-                            <li class="grid_2 subnav-icon" id="bop"><a href="/business-owner-policy/"><span></span>
+                            <li class="grid_2 subnav-icon" id="profitability"><a href="http://www.insureon.com/products/errors-omissions/">
+                                <span></span>Errors &amp; Omissions</a></li>
+                            <li class="grid_2 subnav-icon" id="bop"><a href="http://www.insureon.com/products/business-owner-policy/"><span></span>
                                 Business Owner's Policy</a></li>
-                            <li class="grid_2 subnav-icon" id="workmancomp"><a href="/workers-compensation/"><span>
+                            <li class="grid_2 subnav-icon" id="workmancomp"><a href="http://www.insureon.com/products/workers-compensation/"><span>
                             </span>Workers' Compensation</a></li>
                             <li class="grid_2 omega">
                                 <ul>
-                                    <li><a href="/property-insurance/">Property Insurance</a></li>
-                                    <li><a href="/cyber-liability/">Cyber Liability</a></li>
-                                    <li><a href="/umbrella-liability/">Umbrella/Excess Liability Insurance</a></li>
-                                    <li><a href="/employment-practices-liability/">Employment Practices Liability</a></li>
+                                    <li><a href="http://www.insureon.com/products/property-insurance/">Property Insurance</a></li>
+                                    <li><a href="http://www.insureon.com/products/cyber-liability/">Cyber Liability</a></li>
+                                    <li><a href="http://www.insureon.com/products/umbrella-liability/">Umbrella/Excess Liability Insurance</a></li>
+                                    <li><a href="http://www.insureon.com/products/employment-practices-liability/">Employment Practices Liability</a></li>
+                                    <li><a href="http://www.insureon.com/products/professional-liability/">Professional Liabilityy</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -185,16 +374,16 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 <div class="sub-menu">
                     <div class="sub-container">
                         <ul>
-                            <li class="grid_2 alpha subnav-icon" id="insureonu"><a href="/learn/academy.aspx">
-                                <span></span>Insureon U</a></li>
-                            <li class="grid_2 subnav-icon" id="leadershipinsights"><a href="/learn/leadership-insight.aspx">
-                                <span></span>Leadership Insights</a></li>
-                            <li class="grid_2 subnav-icon" id="articles"><a href="/learn/articles.aspx">
+                            <li class="grid_2 alpha subnav-icon" id="insureonu"><a href="http://www.insureon.com/insureonu/insureon-institute.aspx">
+                                <span></span>Insureon Small<br>Business Institute</a></li>
+                            <li class="grid_2 subnav-icon" id="leadershipinsights"><a href="http://www.insureon.com/insureonu/videos.aspx">
+                                <span></span>Videos</a></li>
+                            <li class="grid_2 subnav-icon" id="articles"><a href="http://www.insureon.com/insureonu/articles.aspx">
                                 <span></span>Articles</a></li>
-                            <li class="grid_2 subnav-icon" id="whatotherbusiness"><a href="/learn/other-businesses.aspx">
+                            <li class="grid_2 subnav-icon" id="whatotherbusiness"><a href="http://www.insureon.com/insureonu/other-businesses.aspx">
                                 <span></span>What Do Other<br>
                                 Businesses Buy?</a></li>
-                                 <li class="grid_2 subnav-icon" id="smallbusinessinsurance"><a href="/learn/small-business-insurance.aspx">
+                                 <li class="grid_2 subnav-icon" id="smallbusinessinsurance"><a href="http://www.insureon.com/insureonu/small-business-insurance.aspx">
                                 <span></span>Small Business Insurance</a></li>
                         </ul>
                     </div>
@@ -204,29 +393,26 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 <div class="sub-menu">
                     <div class="sub-container">
                         <ul>
-                            <li class="grid_2 alpha subnav-icon" id="whyinsureon"><a href="/about-us/why-insureon/">
+                            <li class="grid_2 alpha subnav-icon" id="whyinsureon"><a href="http://www.insureon.com/about-us/why-insureon/">
                                 <span></span>Why insureon</a></li>
-                            <li class="grid_2 subnav-icon" id="customer"><a href="/about-us/testimonials/">
+                            <li class="grid_2 subnav-icon" id="customer"><a href="http://www.insureon.com/about-us/testimonials/">
                                 <span></span>Customer Stories</a></li>
-                            <li class="grid_2 subnav-icon" id="blog"><a href="/blog/default.aspx">
+                            <li class="grid_2 subnav-icon" id="blog"><a href="http://www.insureon.com/blog/default.aspx">
                                 <span></span>Blog</a></li>
-                            <li class="grid_2 subnav-icon" id="newsicon"><a href="/press-releases/">
+                            <li class="grid_2 subnav-icon" id="newsicon"><a href="http://www.insureon.com/press-releases/">
                                 <span></span>News</a></li>
                             <li class="grid_2 omega">
                                 <ul>
-                                    <li><a href="/about-us/contact-us/">Contact Us</a></li>
-                                    <li><a href="/about-us/history/">Our History</a></li>
-                                    <li><a href="/about-us/leadership-team/">Leadership</a></li>
-                                    <li><a href="/careers/">Careers</a></li>
+                                    <li><a href="http://www.insureon.com/about-us/contact-us/">Contact Us</a></li>
+                                    <li><a href="http://www.insureon.com/about-us/history/">Our History</a></li>
+                                    <li><a href="http://www.insureon.com/about-us/leadership-team/">Leadership</a></li>
+                                    <li><a href="http://www.insureon.com/careers/">Careers</a></li>
                                 </ul>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <!-- end sub-menu 6 ABOUT US -->
-                <!-- start sub-menu 7 SIGNIN -->
-                
-                <!-- end sub-menu 7 SIGNIN -->
             </div>
             <!-- end main-nav -->
         </div>
@@ -338,7 +524,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 				<div class="clearfix" id="main-content">
 					
 	<h1>Insureon Privacy Policy</h1>
-    <p>This Privacy Policy describes how BIN Insurance Holdings, LLC, d/b/a insureon, Business Insurance Now and Techinsurance (“insureon,” “we,” “us” or “our”) collects, uses and shares information about you when you access, visit, use or submit information to our websites <a href="www.insureon.com" title="insureon.com">www.insureon.com</a>, <a href="www.businessinsurancenow.com" title="Business Insurance Now">www.businessinsurancenow.com</a> and <a href="www.techinsurance.com" title="Tech Insurance">www.techinsurance.com</a> (collectively, the “Site”) and use the services offered by insureon through the Site (the Site and these services will be referred to in this Privacy Policy as the “Service”). By accessing, visiting, using or submitting information to the Service, you agree to the terms of this Privacy Policy. If you do not agree to the practices described in this Privacy Policy, please do not access, visit, use or submit information to the Service. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the insureon Terms of Use located at <a href="http://www.insureon.com/legal/terms-of-use/">http://www.insureon.com/legal/terms-of-use/</a>.  If you have any questions or comments regarding this Privacy Policy or its enforcement, please contact us at <a href="support@insureon.com">support@insureon.com</a>.</p>
+    <p>This Privacy Policy describes how BIN Insurance Holdings, LLC, d/b/a insureon, Business Insurance Now and Techinsurance (“insureon,” “we,” “us” or “our”) collects, uses and shares information about you when you access, visit, use or submit information to our websites <a href="http://www.insureon.com" title="insureon.com">www.insureon.com</a>, <a href="http://www.businessinsurancenow.com" title="Business Insurance Now">www.businessinsurancenow.com</a> and <a href="http://www.techinsurance.com" title="Tech Insurance">www.techinsurance.com</a> (collectively, the “Site”) and use the services offered by insureon through the Site (the Site and these services will be referred to in this Privacy Policy as the “Service”). By accessing, visiting, using or submitting information to the Service, you agree to the terms of this Privacy Policy. If you do not agree to the practices described in this Privacy Policy, please do not access, visit, use or submit information to the Service. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the insureon Terms of Use located at <a href="http://www.insureon.com/legal/terms-of-use/">http://www.insureon.com/legal/terms-of-use/</a>.  If you have any questions or comments regarding this Privacy Policy or its enforcement, please contact us at <a href="mailto:support@insureon.com">support@insureon.com</a>.</p>
     <p><b>The Service is not intended for visitors who are under eighteen (18) years of age.   We do not knowingly solicit or collect information from individuals who are not eighteen (18) years old.</b></p>
     <p><b>1. INFORMATION YOU PROVIDE TO INSUREON.</b> When you access or use the Service, use the “chat” feature on the Service to communicate with one of our service representatives, submit a request for an insurance quote or application for insurance, or otherwise submit a request for information about the products or services that we offer, we may ask you to provide information that may identify you personally, including your name, postal address, email address and Social Security.  We will also ask you for information about your business in order for us to assess your insurance needs and to provide you with the products and services that you request.  Information we request about your business may include the number of employees that work at your company, your company’s average income and your company’s Federal Employee ID Number (FEIN).  In addition, if you elect to purchase products or services through the Service, you will need to provide payment account information in order for us to process your purchase.  </p>
     <p><b>2. INFORMATION INSUREON AUTOMATICALLY COLLECTS FROM YOU; COOKIES.</b>  We may automatically collect information from you when you use the Service using “cookies”.  Cookies are small amounts of data that are stored within your computer’s Internet browser and that are accessed and recorded by the websites that you visit so that they can recognize the same browser navigating online at a later time. </p>
@@ -369,7 +555,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     <p><b>5. DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES. </b>We will not sell or lease your information to, or exchange your information with, third parties without first obtaining your express consent, except that we may share your information with the following third parties: 
       </p><ul>
             <li>•	<u>Insurance Companies</u>:  If you request an insurance quote through the Service, or otherwise use the Service to purchase insurance coverage, we may share the information you provide through the Service with insurance companies.  We will only share your information with insurance companies as necessary to provide you with the products or services you have requested through the Service. If you elect to proceed with purchasing insurance from a particular insurance company, that insurance company may seek additional information about you, including by contacting you directly by email, postal mail or telephone or running a credit check about you. We will obtain your prior consent if an insurance company intends to conduct a credit check about you. Insurance companies are only permitted to contact you directly in order to provide you with the products or services you have requested through the Service. </li> 
-            <li>•	<u>Third Party Marketing Partners</u>:  If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name, email address and postal mailing address with a few carefully selected third party marketing partners that we believe offer products or services that may be of interest to you.  If you would like us to stop providing this information to our third party marketing partners, you may opt-out by emailing us at <a href="support@insureon.com">support@insureon.com</a>, calling us at (800) 668-7020 or writing to us at 1301 Central Expressway South, Suite 115, Allen, Texas 75013.</li> 
+            <li>•	<u>Third Party Marketing Partners</u>:  If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name, email address and postal mailing address with a few carefully selected third party marketing partners that we believe offer products or services that may be of interest to you.  If you would like us to stop providing this information to our third party marketing partners, you may opt-out by emailing us at <a href="mailto:support@insureon.com">support@insureon.com</a>, calling us at (800) 668-7020 or writing to us at 1301 Central Expressway South, Suite 115, Allen, Texas 75013.</li> 
             <li>•	<u>Our Service Providers</u>: We may share your information with third party contractors or service providers who provide certain services to us or on our behalf, such as operating and supporting the Service.  These service providers will only have access to the information needed to perform these limited functions on our behalf and are required to provide your information with at least the same level of protection and security as we use with regard to your information. </li> 
             <li>•	<u>Our Affiliates</u>:  We may share some or all of your information with our subsidiaries and corporate affiliates, joint venturers, or other companies under common control with us.  We will require these entities to comply with the terms of this Privacy Policy with regard to their use of your information. </li> 
             <li>•	<u>Companies that Acquire Our Business or Assets</u>: If our company or our assets are acquired by, transferred to or merged with another company, that company may acquire the information about you collected by us.  We will require the applicable company to assume the rights and obligations that are applicable to your information at the time of the acquisition, transfer or merger.</li> 
@@ -382,12 +568,12 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     <p>Some third-party advertising companies may provide a mechanism to opt-out of their technology.  For more information about the opt out process, you may visit the Network Advertising Initiative website, available at <a href="http://www.networkadvertising.org/managing/opt_out.asp" rel="nofollow">http://www.networkadvertising.org/managing/opt_out.asp</a>. </p>
     <p><b>8. PRIVACY PROTECTION FOR CHILDREN. </b> In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect information from persons under the age of thirteen (13). If we later learn that an individual under the age of thirteen (13) has provided information through the Service, we will take appropriate steps to remove that individual’s information from our database restrict that individual from future access to the Service.</p>
     <p><b>9. USE OF INFORMATION OUTSIDE OF YOUR COUNTRY OF RESIDENCE. </b> The Service is directed to users located in those states in the United States in which insureon or any of its affiliates are licensed insurance agents or brokers.  The Service is not intended as a solicitation for insurance in any state where insureon or any of its affiliates are not licensed.  If you are located outside of the United States and choose to use the Service or provide your information to us, your information will be transferred, processed and stored in the United States.  U.S. privacy laws may not be as protective as those in your jurisdiction. Your agreement to the terms of this Privacy Policy followed by your submission of information represents your agreement to this practice.  If you do not want your information transferred to or processed or stored in the United States, you should not use the Service.  </p>
-    <p><b>10. UPDATING AND DELETING INFORMATION. </b>If you create an account through the Service, you can access, change and update the information that you provide through the Service by emailing us at <a href="support@insureon.com">support@insureon.com</a>, calling us at (800) 668-7020 or writing to us at 1301 Central Expressway South, Suite 115, Allen, Texas 75013. </p>
-    <p><b>11. OPT-OUT OF MARKETING EMAIL. </b> From time to time we may send you marketing communications about our products and services using the email you provide as part of the registration process.  You may elect not to receive these email communications from us by either following the link provided in the applicable email communication or contacting us at <a href="support@insureon.com">support@insureon.com</a>. </p>
+    <p><b>10. UPDATING AND DELETING INFORMATION. </b>If you create an account through the Service, you can access, change and update the information that you provide through the Service by emailing us at <a href="mailto:support@insureon.com">support@insureon.com</a>, calling us at (800) 668-7020 or writing to us at 1301 Central Expressway South, Suite 115, Allen, Texas 75013. </p>
+    <p><b>11. OPT-OUT OF MARKETING EMAIL. </b> From time to time we may send you marketing communications about our products and services using the email you provide as part of the registration process.  You may elect not to receive these email communications from us by either following the link provided in the applicable email communication or contacting us at <a href="mailto:support@insureon.com">support@insureon.com</a>. </p>
     <p><b>12. SECURITY PROCEDURES. </b>We have implemented technical and administrative security measures to protect user information. To guard against unauthorized disclosure of your information, information that is passed between your browser and insureon is encrypted with the Secure Socket layer (SSL) system.  We also use industry-standard practices such as encrypted storage, firewalls and password protection systems to safeguard the confidentiality of your information. Each of our employees who has access to your information is aware of our security policies, and your information is only available to those employees who need it to perform their jobs. However, we cannot guarantee the absolute security of your information, and no networked system or Internet transmission is entirely secure.  We assume no responsibility or liability if any information relating to you is intercepted and/or used by an unintended recipient.</p>
     <p><b>13. RETENTION OF YOUR INFORMATION. </b> We retain information for active accounts as long as it is necessary and relevant for our operations. In addition, we may retain information from closed accounts to comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce the insureon Terms of Use and take other actions permitted by law. The information we retain about you will be handled in accordance with this Privacy Policy. </p>
     <p><b>14. NOTIFICATION OF CHANGES.</b> We will notify you of material changes to this Privacy Policy by posting the amended terms on the Site at least thirty (30) days before the effective date of the changes.  You may cancel your account prior to the end of the applicable thirty (30) day period by contacting us using the contact information in Section 15 below. If you choose to cancel your account within this thirty (30) day period, you will not be bound by the new terms. </p>
-    <p><b>15. CONTACT INFORMATION. </b> If you have any questions about this Privacy Policy you may contact us by email at <a href="support@insureon.com">support@insureon.com</a> or by telephone at (800) 668-7020.</p>
+    <p><b>15. CONTACT INFORMATION. </b> If you have any questions about this Privacy Policy you may contact us by email at <a href="mailto:support@insureon.com">support@insureon.com</a> or by telephone at (800) 668-7020.</p>
 	<h2>How do we protect your customer information?</h2>
 	<p>We expect any company with whom we share your information to use it only to provide the service we have asked them to perform.   Information about you is also available within Insureon to those individuals who may need to use it to fulfill and service the needs of our customers.  We communicate the need to protect your information to all employees and agents.  We especially communicate this need to individuals who have access to it.  Plus, we have established physical, electronic and procedural safeguards to protect your information.  Note that if you relationship with us ends, you information will remain protected.  This protection will be provided according to our privacy practices outlined in this statement.</p>
 	<h2>Do you use cookies?</h2>
@@ -426,56 +612,74 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 			
 <div id="sidebar">
     
-	<h3>About Us</h3>
-	<ul>
-		<li class="first-item"><a href="/about-us/why-insureon/" title="Why insureon">Why insureon</a></li>
-		<li><a href="/about-us/history/" title="Our History">Our History</a></li>
-        <li><a href="/about-us/leadership-team/" title="Leadership">Leadership</a></li>
-		<li><a href="/about-us/testimonials/" title="Testimonials">Testimonials</a></li>
-		<li><a href="/about-us/contact-us/" title="Contact Us">Contact Us</a></li>
-		<li><a href="/blog/default.aspx" title="Blog">Blog</a></li>
-	</ul>
+        <h3>
+            About Us</h3>
+        <ul>
+            <li class="first-item"><a href="/about-us/why-insureon/" title="Why insureon">Why insureon</a></li>
+            <li><a href="/about-us/history/" title="Our History">Our History</a></li>
+            <li><a href="/about-us/leadership-team/" title="Leadership">
+                Leadership</a></li>
+            <li><a href="/about-us/testimonials/" title="Testimonials">Testimonials</a></li>
+            <li><a href="/about-us/contact-us/" title="Contact Us">Contact
+                Us</a></li>
+            <li><a href="http://www.insureon.com/blog/default.aspx" title="Blog">Blog</a></li>
+        </ul>
     
-	<h3>Insurance for your Profession</h3>
-	    <ul>
-			<li class="first-item"><a href="/accountants/" title="Accountants &amp; Bookkeepers">Accountants &amp; Bookkeepers</a></li>
-			<li><a href="/architects/" title="Architects">Architects</a></li>
-            <li><a href="/general-contractor/" title="Contractors - Residential &amp; Commercial">Contractors - Residential &amp; Comm.</a></li>
-			<li><a href="/allied-health/" title="Allied Health">Allied Health</a></li>
-			<li><a href="/draftsmen/" title="Draftsmen &amp; Designers">Draftsmen &amp; Designers</a></li>
-			<li><a href="/engineers/" title="Engineers">Engineers</a></li>
-			<li><a href="/office-based-businesses/" title="General Office Services">General Office Services</a></li>
-            <li><a href="/maids/" title="Janitor &amp; Maid Services">Janitor &amp; Maid Services</a></li>
-			<li><a href="/management-consultants/" title="Management Consultants">Management Consultants</a></li>
-            <li><a href="/marketing-consultants/" title="Marketing Consultants">Marketing Consultants</a></li>
-            <li><a href="/cuisine/" title="Restaurants">Restaurants</a></li>
-            <li><a href="/retail/" title="Retail Stores">Retail Stores</a></li>
-			<li><a href="/tax-preparation/" title="Tax Preparers &amp; Enrolled Agents">Tax Preparers &amp; Enrolled Agents</a></li>
-            <li><a href="/videography/" title="Videographers">Videographers</a></li>
-		</ul>
-	<h3>Products</h3>
+    <h3>
+        Insurance for your Profession</h3>
     <ul>
-        <li class="first-item"><a href="/business-owner-policy/" title="Business Owner Policy">Business Owner Policy</a></li>
-        <li><a href="/cyber-liability/" title="Cyber Liability">Cyber Liability Insurance</a></li>
-		<li><a href="/employment-practices-liability/" title="Employment Practices Liability Insurance">Employment Practices Liability</a></li>
-        <li><a href="/errors-omissions/" title="Errors &amp; Omissions">Errors &amp; Omissions</a></li>
-        <li><a href="/general-liability-insurance/" title="General Liability">General Liability Insurance</a></li>
-		<li><a href="/professional-liability/" title="Professional Liability">Professional Liability</a></li>
-		<li><a href="/small-business-liability/" title="Property Insurance">Property Insurance</a></li>
-		<li><a href="/umbrella-liability/" title="Excess Liability/Umbrella Insurance">Umbrella / Excess Liability</a></li>
-		<li><a href="/workers-compensation/" title="Workers Compensation">Workers Compensation Insurance</a></li>
-	</ul>
+        <li class="first-item"><a href="http://financial.insureon.com" title="Accountants &amp; Bookkeepers">
+            Accountants &amp; Bookkeepers</a></li>
+        <li><a href="http://design.insureon.com" title="Architects">Architects</a></li>
+        <li><a href="http://construction.insureon.com" title="Contractors - Residential &amp; Commercial">
+            Contractors - Residential &amp; Comm.</a></li>
+        <li><a href="http://alliedhealth.insureon.com" title="Allied Health">Allied Health</a></li>
+        <li><a href="http://design.insureon.com" title="Draftsmen &amp; Designers">Draftsmen &amp; Designers</a></li>
+        <li><a href="http://design.insureon.com" title="Engineers">Engineers</a></li>
+        <li><a href="http://services.insureon.com" title="General Office Services">General Office
+            Services</a></li>
+        <li><a href="http://buildingservices.insureon.com" title="Janitor &amp; Maid Services">Janitor
+            &amp; Maid Services</a></li>
+        <li><a href="http://consultants.insureon.com" title="Management Consultants">Management
+            Consultants</a></li>
+        <li><a href="http://foodservices.insureon.com" title="Restaurants">Restaurants</a></li>
+        <li><a href="http://foodservices.insureon.com" title="Retail Stores">Retail Stores</a></li>
+        <li><a href="http://financial.insureon.com" title="Tax Preparers &amp; Enrolled Agents">
+            Tax Preparers &amp; Enrolled Agents</a></li>
+        <li><a href="http://photovideo.insureon.com" title="Videographers">Videographers</a></li></ul>
+    <h3>
+        Products</h3>
+    <ul>
+        <li class="first-item"><a href="/products/business-owner-policy/" title="Business Owner Policy">Business Owner Policy</a></li>
+        <li><a href="/products/cyber-liability/" title="Cyber Liability">
+            Cyber Liability Insurance</a></li>
+        <li><a href="/products/employment-practices-liability/" title="Employment Practices Liability Insurance">
+            Employment Practices Liability</a></li>
+        <li><a href="/products/errors-omissions/" title="Errors &amp; Omissions">
+            Errors &amp; Omissions</a></li>
+        <li><a href="/products/general-liability-insurance/" title="General Liability">
+            General Liability Insurance</a></li>
+        <li><a href="/products/professional-liability/" title="Professional Liability">
+            Professional Liability</a></li>
+        <li><a href="/products/property-insurance/" title="Property Insurance">
+            Property Insurance</a></li>
+        <li><a href="/products/umbrella-liability/" title="Excess Liability/Umbrella Insurance">
+            Umbrella / Excess Liability</a></li>
+        <li><a href="/products/workers-compensation/" title="Workers Compensation">
+            Workers Compensation Insurance</a></li>
+    </ul>
 </div>
+
 		</div>
 		
 <div class="footer">
 	<div class="footer-inner">
 				
-			
-		<div class="footer-copyright">			
+                
+            </div>
+		<div class="footer-copyright1">
      <div id="copyright">
-            <a href="http://www.insureon.com/legal/privacy-policy">Privacy Statement</a> |
-            <a href="http://www.insureon.com/legal/terms-of-use">Terms of Use</a><br><br>
+   
             © 2013 insureon, a BIN Insurance Holding Agency. ALL RIGHTS RESERVED. All other
             trademarks and copyrights are property of their respective owners. Insureon provides
             business insurance for small and micro businesses, sole proprietors and those with
@@ -484,14 +688,14 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             CNA, Philadelphia, Zurich, USLI, Hiscox, and ACE. Among the many protections we
             offer business owners are General Liability Insurance, Certificates of Liability
             Insurance, Errors and Omissions Insurance (Professional Liability), Umbrella Insurance
-            (Excess Liability), Workers’ Compensation Insurance, Fidelity Bonding, and more.
+            (Excess Liability), Workers’ Compensation Insurance, Fidelity Bonding, and more. Insurance, Fidelity Bonding, and more. (CA License #0G11129) 
             <br><br> BIN Insurance Holdings LLC.
-        </div>		</div>
+        </div></div>
 		<br style="clear: both">
 	</div>
 </div>
         
-	</div>
+	
 
 
 	
@@ -514,7 +718,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                     ClickTaleFetchFrom = (("https:" == document.location.protocol) ? 
                             "https://":
                             "http://")+
-                        "www.insureon.com/ClickTaleCache.ashx?t=dee4eee6ad8b7e2adeb3ea13cd2f542bdce5fdfa";
+                        "www.insureon.com/ClickTaleCache.ashx?t=7fa049f6805d2bf7f97d609ccf4fe806d7742229";
                     ClickTaleSSL = ("https:" == document.location.protocol) ? 1 : 0;
                     ClickTaleEventsMask -= 32;
                     if(typeof ClickTale=='function') ClickTale(15357,1,"www03");
