@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curezone.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617041642id_/http%3A//curezone.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curezone.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222055843id_/http%3A//curezone.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement,CureZone.com
 
@@ -168,15 +168,15 @@ CureZone takes your privacy seriously. Please read the following to learn more a
 
     * **[Universal Spam Policy](https://web.archive.org/spam.asp)**
 
-    * **[Security at CureZone](https://web.archive.org/web/20130617041642id_/http%3A//curezone.org/security.asp)**
+    * **[Security at CureZone](https://web.archive.org/web/20131222055843id_/http%3A//curezone.org/security.asp)**
 
-    * **[Forums](https://web.archive.org/web/20130617041642id_/http%3A//curezone.org/forums/default.asp) **
+    * **[Forums](https://web.archive.org/web/20131222055843id_/http%3A//curezone.org/forums/default.asp) **
 
-      * [ **Posting Guidelines**](https://web.archive.org/web/20130617041642id_/http%3A//curezone.org/forums/guidelines.asp) ****
+      * [ **Posting Guidelines**](https://web.archive.org/web/20131222055843id_/http%3A//curezone.org/forums/guidelines.asp) ****
 
-      * **[About Forums](https://web.archive.org/web/20130617041642id_/http%3A//curezone.org/forums/descriptionall.asp)**
+      * **[About Forums](https://web.archive.org/web/20131222055843id_/http%3A//curezone.org/forums/descriptionall.asp)**
 
-      * **[Disclaimer](https://web.archive.org/web/20130617041642id_/http%3A//curezone.org/forums/disclaimer.asp)**
+      * **[Disclaimer](https://web.archive.org/web/20131222055843id_/http%3A//curezone.org/forums/disclaimer.asp)**
 
 
 
