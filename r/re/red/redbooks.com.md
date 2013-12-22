@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbooks.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612152926id_/http%3A//www.redbooks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbooks.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222082450id_/http%3A//www.redbooks.com/privacy-policy) for the most accurate reproduction.*
 
 # REDBOOKS - Privacy Policy
 
