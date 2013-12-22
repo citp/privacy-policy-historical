@@ -1,58 +1,136 @@
-> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105151013id_/http%3A//www.op4g.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222065244id_/http%3A//op4g.com/about/privacy) for the most accurate reproduction.*
 
-# Op4G | About Us | Op4G Privacy Policy
+# Privacy Policy | Op4G : Opinions 4 Good
 
-### Gathering and Handling   
-of Personal Information
+Effective Date: 10/01/2013
 
-Op4G is committed to maintaining the highest possible level of protection for Member-provided information. Op4G does not distinguish between personal and non-personal information. All information provided is considered personal and its protection is an utmost focus of the organization. Specifically, all Member-information will be stored in a database physically separated from Op4G’s interactive website. Member provided input will include demographic information necessary to establish response groups or pools tailored to the requirements set forth by Client requests. Unless specifically approved by a Member, through a pro-active, opt-in election, any information conveyed to Clients is on an anonymous basis. Externally, Members are identified strictly by their chosen username and there is no means by which a Member’s true identity can be determined.
+This privacy policy applies to [op4g.com](http://www.op4g.com/) owned and operated by Op4G. This privacy policy describes how Op4G collects and uses the personal information you provide on our web sites: [op4g.com](http://www.op4g.com/) and [myop4g.com](http://www.myop4g.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-### Member, Client and Non-Profit Interaction
+Op4G has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Web sites and subdomains at [op4g.com](http://www.op4g.com/) and [myop4g.com](http://www.myop4g.com/).
 
-Member activity on the Op4G website is strictly on an opt- in basis. While internal messaging will occur, it will be only as a means to inform Members of relevant pending information on the Op4G message board. Through notices on the message board, Members will be invited to participate in specific activities (i.e. surveys, focus groups, product evaluations, etc.) based on profiles requested by our Clients. Members will be identified through their username with Op4G certifying the Member’s authenticity to the Client. Member responses will be compiled, consolidated and delivered to the Client in a pre-agreed upon format. All respondent profile information will be non-traceable to any Member’s actual identity. In the event a Member agrees to participate in an open online forum or any other medium requiring Internet contact with a Client, all such Clients will be required to agree in writing that no Member contact information will be recorded or kept on file for any reason. Also, all such Clients will have agreed not to contact any Member for any function outside the scope of the activity to which the Member has agreed to.
+If you have an unresolved privacy or data use concern that Op4G have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-Member designated Charities will be provided information identifying donor Members. As all Member earnings are 100% taxable, Charities are required to provide donors with annual donation statements. The information provided to the Charities will be limited to the names and addresses of donor Members.
+Security is the key to our shared success. Each element of Op4G is designed to fiercely protect our Members’ privacy and information. We make no distinction between “personal” and “non-personal” information — we protect both equally. And we are 100% transparent with our Members about our policies, their data, and how to safely leave our programs.
 
-### Third Party Interfacing
+Any information conveyed to our Clients is on an anonymous basis, unless specifically approved by a Member through a proactive, opt-in choice.
 
-While Op4G provides links to third party websites, Members utilizing them will connect autonomously with no associated transfer of information from Op4G. Any subsequent Member activity with a third party is not subject to Op4G’s Terms and Conditions (including this Privacy Policy). Members are wholly responsible for their interaction with any third party associations. Members should be aware of that particular third party’s privacy policy prior to disclosure of any personal information.
+### Information We Collect
 
-### Membership Status
+We collect the following personal information from you
 
-Members will have the ability to update their personal information at anytime via their personal page at myOp4G.com. Additionally, Members can likewise terminate their relationship with Op4G at any time for any reason via the “Gone 4 Good” link at myOp4G.com. In the event of termination, all Member information will be permanently deleted from all company data bases except in the event the retaining of personal information is required by law (i.e. for tax purposes, notices, etc) or for Op4G’s obligations to Members (i.e. retaining information relative to tax deductible donations, etc).
+  * Contact Information such as name, email address, mailing address
+  * Unique Identifiers such as user name, password
 
-### Changes to Privacy Policy
 
-Op4G reserves the right to make changes to this Privacy Policy. All changes to this Privacy Policy will be posted on the Op4G website 7 days prior to enactment. Notice of any such posting will be given to the full Membership. The continued use of the Op4G website after notice and institution of any changes to this policy, will constitute acceptance of those changes by the Member.
+
+We also collect demographic information from you
+
+  * Date of Birth
+  * Gender
+  * Marital Status
+  * Health Information
+
+
+
+We use this information to
+
+  * Send site updates
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Administer targeted surveys
+
+
 
 ### Information Sharing
 
-Applicable laws may require the disclosure of personal information in the event of certain legal processes, including but not limited to court orders, criminal investigations and certain civil proceedings.
+We will share your personal information with third parties only in the ways that are described in this privacy policy.  We do not sell your personal information to third parties.
 
-In the event a Member’s annual income through participation on theOp4G website is equal to or greater than six hundred dollars ($600.00), government requirements necessitate the distribution of a 1099 Earned Income Statement from Op4G to the Member. Consequently, in this instance, a Member’s Social Security number must be provided to Op4G, solely for the use of this purpose. However, Members shall have the option to withhold disclosure of their Social Security number. In that event, all earnings exceeding $600 shall be forwarded directly to that Member’s chosen Non-Profit. This will be the only instance in which a Member’s Social Security number will be requested. While Op4G must report the issuance of the 1099 Statements to the responsible government authority, it is the individual Member’s responsibility to account for any applicable tax liabilities.
+We may provide your personal information to companies that provide services to help us with our business activities such as sending you newsletters. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-No entities outside of Op4G shall ever have access to both personal and demographic Member information. For the purpose of check processing for Member compensation, only the name and address of the Member shall be provided to a third party processing entity (a nationally recognized, SAS 70 compliant bank), and this information is to used for the sole purpose of Member payment. If a Member chooses to be compensated through PayPal, they must provide account information to Op4G which in turn shall be used by the payment processing entity.
+We may also disclose your personal information:
 
-### Cookies
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Op4G is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so
 
-A cookie is a short text file which is sent to your browser from a web server. Op4G employs the use of cookies solely for improving the efficiency and enhancement of Member interaction with the Op4G website. Op4G employs both session ID cookies and persistent cookies. Specifically, the use of session cookies enhances the Member’s ability to navigate the website. Persistent cookies are used to enhance the experience of the Op4G website by tracking and targeting the interests of our Members. Additionally, a persistent cookie is used to store your account ID to eliminate the need for entering profile information more than once. While a session cookie expires when you close your browser, a persistent cookie remains on your hard drive for an extended period of time. Member’s can remove persistent cookies at any time by following directions provided in their Internet browser’s “Help” file.
 
-### Transfer of Ownership
 
-In the event of any pending transfer of ownership or controlling interest of Op4G, the full Membership will be informed prior to such a change Members will have an opportunity to evaluate the Terms and Conditions, including the privacy policy, under which any new ownership anticipates operating.
+### Secure Databases
 
-### Client Provided Information
+Op4G stores personal and survey data in two physically separate server environments. Our data architecture is designed to never allow any Client or third party access to individual member data, or to correlate any data that might identify a participant.
 
-Client information provided in any form in support of Member activities (i.e. surveys, focus groups, product evaluations, etc.) is considered the proprietary property of that Client unless notice to the contrary has been conveyed. Consequently, all such information is protected through applicable intellectual property laws and is not to be used for any purpose beyond the scope of the activity for which it was intended.
+When you enter sensitive information (such as health information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-### Minors
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Membership on the Op4G website is restricted to individuals who are eighteen (18) years of age or older. No information from individuals under the age of 18 will be knowingly solicited or recorded. In the event such an instance occurs, all information related to that specific transaction will be immediately deleted and all correspondence terminated.
+### Member Usernames
 
-### Contacting Op4G
+Members are assigned a non-traceable unique Op4G username that allows only Op4G to certify the authenticity of information we send to our Clients. Our system is built to prevent the revealing of any individual identity.
 
-Should there be any issues or questions concerning this policy, please contact us at [support@op4g.com](mailto:support@op4g.com).
+### User Access and Choice
 
-### Terms of this Policy
+If your personal information changes, or if you no longer desire our service, you may correct, update, or amend it by making the change on your account information page or by emailing us at support@op4g.com.  We will respond to your request to access within 30 days.
 
-By establishing membership, participants agree to the terms of this policy.
+### One-Click Account Termination
+
+Want to leave Op4G? A single step of clicking ‘Delete My Account’ on your Account Profile will remove all personal, demographic, and member information from our databases (except for information required by law).
+
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### Opt-In Control
+
+Members have total control over what information they receive from Non-Profits. When offered an opportunity to participate in a specific survey opportunity, Members always opt-in and will never be forced to answer or reveal information. If you participate, we will request certain personal information from you. The requested information typically includes information (such as name, age, gender, preferences) and demographic information (such as zip code).
+
+We use this information to __ provide insights into client funded studies associated with a variety of topics.
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at support@op4g.com.
+
+### Cookies and other Tracking Technologies
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We [do/do not] link the information we store in cookies to any personal information you submit while on our site.
+
+We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser.  Session cookies enable Op4G to track your progress specific to studies you elect to participate in.  A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies enable Op4G to mark your progress in a specific study, should you decide to leave the study and return at a later time to finish.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory.
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+
+The use of cookies by our tracking service providers is not covered by our privacy policy.  We do not have access or control over these cookies.  Our tracking service providers use both session ID and persistent cookies to provide accurate crediting of your survey taking efforts.
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
+We do not link this automatically-collected data to personal information.  [IP addresses are tied to personal information to prevent a single user from attempting to acquire multiple Op4G accounts _._
+
+### Links to 3rd party Sites
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Op4G. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+### Blogs/ Forum
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_ support@op4g.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
+
+
+### Testimonials
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at support@op4g.com.
+
+### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+### No Surprises
+
+Op4G promises to post any changes to our privacy or other policies that affect Member data on our website at least 7 days before making any change. If Op4G intends to have a change in ownership or controlling interest, or if we make any material changes, Members will be notified _by email (sent to the e-mail address specified in your account) or by means of a notice on this Site  _prior to any change, and can review any policy changes. Members who do not agree with any change can immediately choose to be removed from the Op4G database.
+
+### 100% Transparency
+
+Have a question or concern that we don't answer on our website? Op4G has a dedicated support team ready to help you. Please contact us through the following:
+
+Op4G  
+Corporate Office:  
+155 Fleet Street in Portsmouth  
+New Hampshire, 03801
