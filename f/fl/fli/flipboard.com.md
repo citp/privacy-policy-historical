@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416192152id_/http%3A//www.flipboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipboard.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153401id_/https%3A//flipboard.com/privacy) for the most accurate reproduction.*
 
 # Flipboard
 
@@ -83,10 +83,10 @@ Our Services contains links to other websites and online services.  If you choo
 
 If you have any questions about this Privacy Policy, please contact us at [privacy@flipboard.com](mailto:privacy@flipboard.com) or at: 214 Homer Avenue, Palo Alto, CA 94301 
 
-Made with love in Palo Alto, California 
+Made with Love in Palo Alto, California. 
 
-  * [Privacy Policy](https://web.archive.org/privacy-policy/)
-  * [Terms](https://web.archive.org/terms-of-use/)
+  * [Privacy Policy](https://web.archive.org/privacy)
+  * [Terms](https://web.archive.org/terms)
   * [Copyright](https://web.archive.org/copyright/)
 
 
