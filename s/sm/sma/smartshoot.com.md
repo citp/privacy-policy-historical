@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartshoot.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623021359id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshoot.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222070051id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SmartShoot
 
