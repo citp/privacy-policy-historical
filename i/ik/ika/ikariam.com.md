@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530030915id_/http%3A//agbserver.gameforge.com/enUS-Privacy-Ikariam.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222225424id_/http%3A//agbserver.gameforge.com/enUS-Privacy-Ikariam.html) for the most accurate reproduction.*
 
 # 
 
