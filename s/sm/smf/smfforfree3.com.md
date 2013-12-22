@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smfforfree3.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425080522id_/http%3A//www.createaforum.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smfforfree3.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160147id_/http%3A//www.createaforum.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Create A Forum - Privacy Policy
 
@@ -65,8 +65,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.createaforum.com  
-sales@visualbasiczone.com  
-
+If there are any questions regarding this privacy policy you may contact us using the contact link on our website. 
