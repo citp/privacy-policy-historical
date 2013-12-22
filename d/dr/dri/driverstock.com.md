@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverstock.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622040210id_/http%3A//www.driverstock.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverstock.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222030500id_/http%3A//www.driverstock.com/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
