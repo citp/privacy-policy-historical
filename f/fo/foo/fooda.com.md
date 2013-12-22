@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the fooda.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423141054id_/http%3A//support.foodaselect.com/customer/portal/articles/183600-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooda.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222071912id_/https%3A//www.fooda.com/privacy-policy) for the most accurate reproduction.*
 
-# Fooda | Privacy Policy
+# Privacy Policy | Fooda
+
+## **Fooda Privacy Policy**
 
 **Fooda.com Privacy Policy**  
 _Your privacy is important to us. Please read the following to learn more._
 
-  **Fooda.com Privacy Policy**  
+**Fooda.com Privacy Policy**  
 _Effective October 1, 2011_
 
 Fooda.com Web sites are committed to protecting the privacy of their users. The following statement sets forth the privacy policy of the Fooda.com sites and the manner in which information about you might be used by us.
@@ -41,15 +43,24 @@ In the event that Fooda.com or one or more of its Web sites or businesses is sol
 Our customer service representatives may use your telephone numbers, e-mail addresses and IM addresses to notify you of the status of your order and for other purposes, such as quality assurance, product safety and customer service matters.  
 In addition, from time to time, we may use the information collected to send special offers on behalf of our Web sites and on behalf of third party partners or vendors (including restaurants), via email, postal mail, IM or other means. Third party partners and vendors may also send you offers of potential interest.
 
+  
+
+
 **E-mail / Anti-Spam**
 
 Although, as noted above, we may sometimes send offers by email on behalf restaurants or other third parties, and send you emails about our services, we do not currently purchase bulk e-mail addresses, use the services of bulk e-mail companies or share your email addresses with third parties for their own use.
+
+  
+
 
 **Cookies**
 
 We use "cookies" (small text files stored in your internet browser) to enhance your ordering experience. Cookies are capable of storing many types of data and may be placed on your browser by us or by a third party. Cookies allow our users to order faster and more efficiently by storing information such as your location, order information and personal preferences, and by permitting you to avoid having to log in more than once during a Web site visit. We may also use and read cookies for other purposes, including to collect information on how our Web sites are used, to determine whether you have registered on or visited any of our Web sites or our partners' Web sites, to improve performance for our users, to measure the effectiveness of our advertising and links on other Web sites, and to provide you with information of potential interest to you. This may include using information about your use of our Web sites in conjunction with personally identifiable information that you have volunteered to us on one of our sites. Other technologies, such as image tags, may be used in conjunction with cookies. Image tags (also called clear GIFs or single-pixel GIFs) are small image files that may be located on pages of our Web sites, or with-in web-based emails that we may send, to track your usage and access to features on the Web sites.  
 In addition, when you visit our Web sites, third party vendors and advertisers also place or read cookies on your internet browser. This is a common practice on the internet; these cookies may be used to determine whether you have visited other Web sites, to measure the effectiveness of advertising and links on other Web sites, and to provide you with information of potential interest to you, among other purposes. This is not an exhaustive list of all uses of cookies on our websites.  
 Most web browsers are set up to accept cookies. You can, however, set your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you refuse cookies. In addition, cookies can be easily and safely deleted from your system. See you browser's help section for instructions.
+
+  
+
 
 **Security Information**
 
@@ -62,8 +73,6 @@ Under the law of certain states, including California Civil Code § 1798.83, you
 
 Fooda.com  
 c/o Privacy Policy  
-600 West Chicago Ave. #740  
+600 West Chicago Ave. #775  
 Chicago, IL 60654  
 info@foodaselect.com
-
- 
