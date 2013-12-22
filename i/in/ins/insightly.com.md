@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightly.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605053651id_/http%3A//insightly.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightly.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222133745id_/http%3A//www.insightly.com/Privacy) for the most accurate reproduction.*
 
 # Insightly Privacy Policy - CRM and Project Management software for small business
 
@@ -36,7 +36,7 @@ Insightly collects information under the direction of its clients and has no dir
 
 ## Cookies
 
-When visiting the Site or using the Service, we use session "cookies" – a piece of information stored on your computer – to allow the Site or Service to uniquely identify your browser while you are logged in and to enable Insightly to process your online transactions. Session cookies also help us confirm your identity and are required in order to use the Service. Insightly uses persistent cookies that only Insightly can read and use, to identify a user as a Insightly customer and make it easier for you to log in to the Service. Users who disable their web browsers’ ability to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service.
+When visiting the Site or using the Service, we use session "cookies" – a piece of information stored on your computer – to allow the Site or Service to uniquely identify your browser while you are logged in and to enable Insightly to process your online transactions. Session cookies also help us confirm your identity and are required in order to use the Service. Insightly uses persistent cookies that only Insightly can read and use, to identify a user as a Insightly customer and make it easier for you to log in to the Service. Users who disable their web browsers’ ability to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service. The use of cookies by our partners and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners and service providers may use session ID and persistent cookies to make it easier for you to navigate our site.
 
 ## Analytics / Log Files
 
@@ -89,7 +89,7 @@ When you access and use the Service, you are subject and bound to the [Insightly
 If you have questions regarding this privacy policy or about the security practices of Insightly, please contact us by email at contact@insight.ly. We would love to hear from you.
 
 Insightly Inc.  
-1550 Bryant Street  
-Suite 500  
-San Francisco CA 94103  
+434 Brannan Street  
+2nd Floor  
+San Francisco, CA 94107  
 USA 
