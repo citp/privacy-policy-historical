@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623024503id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222070250id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
 
 # e-conomic's online media Privacy Policy
 
@@ -110,22 +110,26 @@ This enables the website to recognise your computer when you visit the page agai
 
 The cookie does not give access to personal data about you and cannot be used to trace your identity.
 
-**If you want to opt out of cookies**  
+**If you want to opt out of cookies**
+
 You may set your browser to inform you when you receive a cookie, so that you can accept or reject a cookie.
 
 You should, however, be aware that any changes in your browser settings may mean that certain functions on our website no longer work optimally.
 
-**What are web beacons?**  
+**What are web beacons?**
+
 A web beacon is a small transparent graphics file which is called from web sites. 
 
 Web beacons are used in combination with cookies and make it possible to collect data about user behaviour on websites.
 
-**What are log files?**  
+**What are log files?**
+
 When you visit e-conomic's websites, technical information about your visit is registered, e.g. your IP address, browser type and language.
 
 This data is saved in log files on the web server. They are used for statistical purposes, for optimisation of the webservers' performance and for troubleshooting.
 
-**What is an IP address?**  
+**What is an IP address?**
+
 Your computer gets a so-called IP address from your Internet provider when it is connected to the Internet.
 
 IP stands for Internet Protocol. An IP address is a unique number and consists of 4 groups of numbers, e.g. 107.34.98.24. The numbers in the IP address are associated with countries, and often also regions and cities.
@@ -136,19 +140,27 @@ You will find the most recent guidelines on this page.
 
 Changes will not be implemented retrospectively, and no changes will affect our processing of previously collected data.
 
-**Previous versions**  
+**Previous versions**
+
 Here you will find links to previous versions of e-conomic's guidelines for personal data: 
+
+  
+
 
   * [Privacy policy for e-conomic's online media before 30 August 2009](http://www.e-conomic.com/about/privacy-policy-before-2009-08-30)
 
 
 
-If you have any questions to these quidelines or suggestions for improvement, please contact us at: 
+If you have any questions to these quidelines or suggestions for improvement, please contact us at:
 
-  
-**e-conomic international a/s**  
-Wildersgade 10 B  
-DK-1408 Copenhagen K  
-Denmark  
-E-mail: [info@e-conomic.com](mailto:info@e-conomic.com)  
+**e-conomic international a/s**
+
+Wildersgade 10 B
+
+DK-1408 Copenhagen K
+
+Denmark
+
+E-mail: [info@e-conomic.com](mailto:info@e-conomic.com)
+
 Phone: +45 88 20 48 40 
