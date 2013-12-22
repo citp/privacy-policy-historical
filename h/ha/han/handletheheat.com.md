@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the handletheheat.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617194535id_/http%3A//www.handletheheat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handletheheat.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160309id_/http%3A//www.handletheheat.com/privacy-policy) for the most accurate reproduction.*
 
 # Handle the Heat Privacy Policy »
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.handletheheat.com%2Fprivacy-policy&media=&description=Privacy%20Policy)
 
 We respect your privacy here at Handle the Heat. This Privacy Policy tells you what personal information is gathered when you visit this site and how that information is used for your benefit. Use of the Handle the Heat website is authorization of the information gathered to be used as detailed in this policy. 
 
@@ -21,5 +19,3 @@ If you have submitted your personal information to Handle the Heat and would lik
 Handle the Heat reserves the right to modify, change, update, or add to this privacy policy at any time, immediately effective. Changes to the policy will be detailed on this page.
 
 Updated January 10th, 2013.
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.handletheheat.com%2Fprivacy-policy&media=&description=Privacy%20Policy)
