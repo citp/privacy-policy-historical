@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530165202id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222012715id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
 
 # Cherry Blossoms: Privacy Policy
 
 ### Cherry Blossoms Privacy Policy
 
-We at Cherry Blossoms, Inc understand your privacy is important to you. We'vedeveloped this privacy policy to ensure that your privacy is protected while using Cherry Blossoms
+We at Cherry Blossoms, Inc understand your privacy is important to you. We've developed this privacy policy to ensure that your privacy is protected while using Cherry Blossoms
 
-1\.  Under Eighteen Years Of Age Are Not Eligible To Use Our Services.    
+1\. Under Eighteen Years Of Age Are Not Eligible To Use Our Services.   
 If you are not yet eighteen years of age, please do not submit information to us.
 
 2\. About Cherry Blossoms, Inc., Blossoms.com and Information We Collect   
@@ -24,31 +24,31 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies. A session ID cookie simply terminates once a user closes the browser. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
-3\. Our Use of Your Information   
-We internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to process member payment and monetary transactions, to comply with applicable law, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs. We use personally identifiable information to resolve disputes, troubleshoot problems and enforce our User Agreement. 
+3\. Our Use of Your Information  
+We internally use personally identifiable information of our users to improve our marketing efforts, to statistically analyze site usage, to process member payment and monetary transactions, to comply with applicable law, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs. We use personally identifiable information to resolve disputes, troubleshoot problems and enforce our User Agreement.
 
-We may also use personally identifiable information about you to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners and promotions. 
+We may also use personally identifiable information about you to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners and promotions.
 
 We send periodic informational updates to our members via email. We send e-mail advertisements to those who opted in to receive such advertisements or otherwise in compliance with the Can-Spam Statute.
 
 Users who no longer wish to receive our updates and communications may opt-out of receiving these communications by clicking on the "unsubscribe" link in the email or email us at office@blossoms.com We also offer an opt-out mechanism on the Home Page or under Account/Edit Profile. You may also contact us at Cherry Blossoms, Inc. and Blossoms.com, Att: Customer Service, P.O. Box 190, Kapaau, Hawaii, 96755 to opt-out.
 
-In some cases we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices or site policy. 
+In some cases we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices or site policy.
 
 4\. Our Disclosure of Your Information  
-We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all. 
+We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all.
 
 In order to maintain a healthy community, Cherry Blossoms, Inc. and Blossoms.com cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. 
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
 5\. Your use of Other Users' Information   
-You may not use other user's information for commercial purposes, to spam, to harass, or to make unlawful threats. Cherry Blossoms, Inc. and Blossoms.com reserve the right to terminate those who misuse other user's information or who otherwise violate the Cherry Blossoms, Inc. and Blossoms.com Terms of Use. 
+You may not use other user's information for commercial purposes, to spam, to harass, or to make unlawful threats. Cherry Blossoms, Inc. and Blossoms.com reserve the right to terminate those who misuse other user's information or who otherwise violate the Cherry Blossoms, Inc. and Blossoms.com Terms of Use.
 
-6\. Control of Your Password    
+6\. Control of Your Password   
 You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
 
-7\. Reviewing and Changing Your Personally Identifiable Information    
+7\. Reviewing and Changing Your Personally Identifiable Information   
 Once you register, you will be able to review and change much of your personally identifiable information at Cherry Blossoms, Inc. and Blossoms.com including:   
 Your email address  
 Your city, state, zip code, country  
@@ -61,21 +61,21 @@ We will retain in our files information, including credit card information to su
 8\. Third Party Collections of Information   
 Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While Cherry Blossoms, Inc. and Blossoms.com is working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies mayemploy cookies and action tags (also known as single pixel gifs or web beacons) to measureadvertising effectiveness. Our third party advertisers may place or recognize a unique cookie onyour browserThird party vendors , including google , can show ads on sites on the internet. Third partyvendors including Google, use cookies to serve ads based on a users prior visit to ourwebsite. You may opt out of Google's use of cookies by visiting the Google opt out pageat <http://www.google.com/privacy/ads> . You can also opt out of third party vendor's use ofcookies by visiting the Network Advertising Initiative and going to the opt out page. <http://www.networkadvertising.org/managing/opt_out.asp>
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Our third party advertisers may place or recognize a unique cookie on your browser Third party vendors , including google , can show ads on sites on the internet. Third party vendors including Google, use cookies to serve ads based on a users prior visit to our website. You may opt out of Google's use of cookies by visiting the Google opt out page at <http://www.google.com/privacy/ads> . You can also opt out of third party vendor's use of cookies by visiting the Network Advertising Initiative and going to the opt out page.<http://www.networkadvertising.org/managing/opt_out.asp>
 
 9\. Security   
 Cherry Blossoms, Inc. and Blossoms.com has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-10\. Update/Remove   
+10\. Update/Remove  
 Cherry Blossoms, Inc. and Blossoms.com Members have the following choices to modify or remove their information from our database:
 
 * Send an email to office@blossoms.com;  
 * Log in with your password and modify/remove your profile;  
 * Send a snail mail to Cherry Blossoms, Inc. and Blossoms.com, Att: Customer Service, P.O. Box 190, Kapaau, Hawaii 96755, USA;  
 * Call us at (808) 889-6209  
-If you have any questions or suggestions regarding our privacy policy, please contact us at:   
+If you have any questions or suggestions regarding our privacy policy, please contact us at:  
 General Counsel, Cherry Blossoms, Inc. and Blossoms.com,  
 P.O. Box 190, Kapaau, Hawaii 96755, USA  
 Office@blossoms.com
