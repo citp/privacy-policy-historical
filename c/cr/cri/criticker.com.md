@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621220630id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222180635id_/http%3A//www.criticker.com/index.php%3Fpv) for the most accurate reproduction.*
 
 # Criticker - Privacy Policy
 
@@ -15,3 +15,5 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 Criticker may update this policy. We will notify you about any significant changes by email. 
 
 If you have any questions about this privacy policy, please send an email to [info@criticker.com](mailto:info@criticker.com). We will answer your question as soon as possible. 
+
+[](http://freebooksifter.com/)
