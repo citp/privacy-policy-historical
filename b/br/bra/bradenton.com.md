@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradenton.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613005048id_/http%3A//www.bradenton.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradenton.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222085837id_/http%3A//www.bradenton.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Bradenton Herald Bradenton, FL
 
@@ -70,7 +70,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 Bradenton Herald is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of Bradenton Herald in order to access general Bradenton Herald content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-Bradenton Herald, 102 Manatee Avenue West, Bradenton, FL, 34205, or 941-748-0411, or [info@bradenton.com](mailto:info@bradenton.com)
+Bradenton Herald, 1111 Third Avenue West, Bradenton, FL 34205, or 941-748-0411, or [info@bradenton.com](mailto:info@bradenton.com)
 
 ### Member mail and e-mail offers
 
@@ -118,4 +118,4 @@ Bradenton Herald supports P3P, the Platform for Privacy Preferences, which allow
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at Bradenton Herald, 102 Manatee Avenue West, Bradenton, FL, 34205, at 941-748-0411 or at [info@bradenton.com](mailto:info@bradenton.com).
+If you have any questions or comments about our policies, we may be reached at Bradenton Herald, 1111 Third Avenue West, Bradenton, FL 34205, at 941-748-0411 or at [info@bradenton.com](mailto:info@bradenton.com).
