@@ -1,144 +1,128 @@
-> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042606id_/http%3A//www.auction.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222030949id_/http%3A//www.auction.com/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement | Auction.com
 
-**CONTENTS**
+### Contents
 
-**1.       ****Scope of Website Privacy Statement**
+  1. Scope of Privacy Statement
+  2. Commitment to Privacy
+  3. Collection of Your Information
+  4. Use of Your Information
+  5. Tailored Advertising
+  6. Disclosure of Your Information
+  7. Opting Out of Emails
+  8. Security and Account Protection
+  9. Children’s Information
+  10. Accessing, Reviewing, and Changing Personal Information
+  11. Third Party Links and Services
+  12. Amendments to Privacy Statement
+  13. International Transfers of Information
+  14. Contacting Us
 
-**2.       ****Commitment to Privacy** ****
 
-**3.       ****Collection** ****
 
-**4.       ****Marketing**
+_Updated May 24, 2013_
 
-**5.       ****Use** ****
+#### 1\. Scope of Privacy Statement
 
-**6.       ****Our Disclosure of Your Information** ****
+This Privacy Statement describes how Auction.com, LLC and its affiliates (“we,” “us,” “our,” or the “Company”) handle your personal information when you use the Company’s websites (including [www.auction.com](http://www.auction.com/), [www.sold.com](http://www.sold.com/), or any other website where this Statement is posted), tools, applications (including mobile applications), and other services (“Services”). By using the Services, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Statement.
 
-**7.       ****Cookies**
+#### 2\. Commitment to Privacy
 
-**8.       ****Opting Out of Emails**
+The Company has a strong commitment to providing information tailored to your individual needs while providing excellent service to all of our visitors and customers, including respecting concerns about privacy. Accordingly, the Services are compliant with the Online Privacy Alliance Privacy Policy guidelines as they existed on the updated date of this Statement shown above. We understand that you may have questions about whether and how we collect and use information. This Statement details the steps we take to respect your privacy concerns. If, after reviewing this Statement, you have any questions or privacy concerns, please send an email to [privacy@auction.com](mailto:privacy@auction.com) or a letter to:
 
-**9.       ****Security and Account Protection** ****
-
-**10.     ****Accessing, Reviewing and Changing Personal Information** ****
-
-**11.     ****Third Parties** ****
-
-**12.     ****General** ****
-
-_Updated August 9, 2012_
-
-  
-**1.   SCOPE OF WEBSITE PRIVACY STATEMENT**
-
-This Privacy Statement describes how Auction.com, LLC and affiliates (“we,” “us,” “our,” or the “Company”) handle your personal information when you use the Company’s Websites (“Website”), tools, applications, and services.  It applies generally to the Auction.com Website and content and other related Websites. 
-
-By using this Website, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Statement. 
-
-**2.   COMMITMENT TO PRIVACY **
-
-  
-The Company has a strong commitment to providing information tailored to your individual needs while providing excellent service to all of our visitors and customers, including respecting concerns about privacy.  Accordingly, the Website is compliant with the Online Privacy Alliance guidelines.  We understand that you may have questions about whether and how this Website collects and uses information.  This Statement details the steps we take to respect your privacy concerns.  If, after reviewing this Statement, you have any questions or privacy concerns, please send an email to [privacy@auction.com](mailto:privacy@auction.com) or send a letter to: 
-
-  
-Auction.com, LLC
-
-Privacy – Legal Department
-
-1 Mauchly
-
+Auction.com, LLC   
+Privacy - Legal Department   
+1 Mauchly   
 Irvine, CA 92618
 
-**3.   COLLECTION**
+#### 3\. Collection of Your Information
 
-The Website does not collect personally identifying information from your computer when you browse this Website and request pages from our servers.  This means that, unless you specifically and knowingly provide us with personally identifiable information, e.g., registering to create an account, we will not know your name, your email address, or any other personally identifiable information.  Information is collected through the completion of online forms, and only then will the Company collect information such as names, addresses, telephone numbers, email addresses, usernames, or other personal information.  We use this information to provide the services offered on this Website.  In addition to that, we also collect anonymized aggregate information such as pages visited, which is necessary for us to be sure that our Website functions correctly.
+**Personal Information.** We do not collect personal information (such as names, addresses, telephone numbers, email addresses, or financial account information) from you when you browse the Services, unless you have specifically and knowingly provided us with personal information, e.g., by registering to create an account, entering the bidding process, submitting an employment application, completing online forms, or entering into a transaction with us. We use this information to provide the Services and as discussed in this Privacy Statement.
 
-We may collect non-public personal information about you from the following sources:
+**Automatically-Collected Information.** We may automatically collect information about the computer or devices (including mobile devices) you use to access the Services. For example, we may collect and store information such as your browser type, IP address, language, operating system, location of your wireless device (e.g., latitude and longitude), the state or country from which you accessed the Services, unique device identifier (e.g., a UDID or IDFA on Apple devices like the iPhone, iPad and iTouch), the pages you view, the services you use, the date and time of your visit, the websites you visited immediately before and after visiting our websites, error logs, and other hardware and software information. We may use third party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information. We may use this information to formulate statistical models about use of the Services, enhance the Services for our users, and provide you with tailored content and advertising.
 
-·  Information we receive from you when you register to create an account or bid on assets.
+How to Disable the Collection of Location Information. If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
 
-·  Information about your transactions we secure from our files. 
+If you are using an Android device, visit the device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
 
-Unless specifically stated otherwise in a revision of this Privacy Statement, no additional non-public personal information about you will be collected.
+Our Use of Cookies. This Services use “cookie” technology and similar online tools, such as web beacons and web pixels. “Cookies” are small files that a website stores on a user’s computer or device. The Services use cookies to keep the information you enter on multiple pages together. A majority of cookies we use are “session” cookies, meaning that they are automatically deleted from your hard drive after you close your browser at the end of your session. Session cookies are used to optimize performance of the Services and to limit the amount of redundant data that is downloaded during a single session. We also use “persistent” cookies, which remain on your computer or device unless deleted by you (or by your browser settings). We use persistent cookies for statistical analysis of performance to ensure the ongoing quality of our services. In either case, we do not use cookies to obtain or retain any personal information about you apart from what you voluntarily provide us. Most web browsers automatically accept cookies, but you may set your browser to block cookies (consult the instructions for your particular browser on how to do this). Please note that if you decide to block cookies, this may interfere with your ability to perform certain transactions, use certain functionality, and access certain content on the Services.
 
-**User-Initiated Communication**
+**User-Initiated Communication.** From time to time, portions of the Services may enable you to send emails and other types of messages to us or to third parties and to participate in bulletin boards and discussion groups. All such emails, messages, postings to bulletin boards and discussion groups become our property once you submit them. Whenever you choose to initiate these kinds of communication with us, or anyone else, you may be contacted in return. Also, remember that our bulletin boards and discussion groups are open to the public, and, therefore, your postings can be seen by anyone and are not protected by us or any other entity. Please use your discretion when deciding whether and what to post and whom to contact. We reserve the right, in our sole discretion, to monitor, edit or delete postings from our bulletin boards and discussion groups. This reservation of rights shall not under any circumstances obligate us to conduct such edits or deletions, nor shall it cause us to be liable for any such edits or deletions.
 
-From time to time, portions of the website may enable you to send emails and other types of messages to us or to third parties and to participate in bulletin boards and discussion groups.  All such emails, messages, postings to bulletin boards and discussion groups become our property once you submit them.  Whenever you choose to initiate these kinds of communication with us, or anyone else, you may be contacted in return.  Also, remember that our bulletin boards and discussion groups are open to the public, and, therefore, your postings can be seen by anyone and are not protected by us or any other entity.  Please use your discretion when deciding whether and what to post and whom to contact.  We reserve the right, in our sole discretion, to edit or delete postings from our bulletin boards and discussion groups.  This reservation of rights shall not under any circumstances obligate us to conduct such edits or deletions, nor shall it cause us to be liable for any such edits or deletions.
+#### 4\. Use of Your Information
 
-**4.   MARKETING **
+We will use your information for the purpose for which you provided it, and we may also use your information for a number of purposes such as to:
 
-On occasion, we may make information collected on the Website available to subsidiaries and affiliated companies that are part of the Auction.com family of companies.  In addition, if you download information on assets listed on our Website or place a bid on a particular asset, the seller and its affiliates and representatives are given access to your information.
+  * Create and maintain your account or registration information;
+  * Enhance the user experience;
+  * Perform research and analytics;
+  * Customize and personalize the content and advertising that you see on the Services;
+  * Respond to and fulfill your requests for services (including qualification to make bids);
+  * Determine your eligibility for certain auctions or services;
+  * Send you information about topics that may be of interest to you; and
+  * Send you communications related to your account and to alert you to the latest developments and features of the Services.
 
-  
-We may also share or sell, as allowed by law, information to other companies who we believe may have products and services of interest to you.  If you would like to opt-out of receiving information from us or these other sources please follow the “Opting Out of Emails” instructions below.
 
-We may also share information about our visitors, customers or former customers to the following types of companies that perform marketing services on our behalf or with whom we have joint marketing agreements:
 
-·  Financial service providers such as companies engaged in banking, mortgage lending, consumer finance, securities and insurance.
+#### 5\. Tailored Advertising
 
-·  Non-financial companies such as envelope stuffers and other fulfillment service providers. 
+The Services may include third party tailored ad technology which enables customized ads to be displayed to you through the Services. We do not share personal information with these third parties; however, when you use the Services, we or third parties operating the ad serving technology may use non-personal information that is collected through cookies, anonymous identifiers, such as an IDFA on iOS devices, web beacons, pixels, or clear GIFs to ensure that appropriate ads are presented and to perform analytics concerning your use of the Services and other websites tracked by these third parties. These technologies also may control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. To the extent any of this information is collected by third parties, you acknowledge and agree that such collection and use is governed by those third parties’ privacy policies and we are not responsible for the privacy practices of such third parties.
 
-**5.   USE**
+If you are interested in more information about tailored ads and your choices to prevent third parties from delivering tailored ads, you may visit the following third party websites: the [Network Advertising Initiative Consumer Opt-Out Page](http://www.networkadvertising.org/choices/#completed) or the [Digital Advertising Alliance’s Consumer Opt-Out Page](http://www.aboutads.info/choices/). Please note that to the extent ad technology is integrated into the Services, you may still receive ads even if you opt-out of tailored ads. In that case, the ads will just not be tailored to your interests.
 
-  
-The Website uses personal information you provide to fulfill requests for services (including qualification to make bids) and to contact you.  We also use this information to better understand how visitors use our Website and how to enhance your experience, by improving the Website’s content and functionality.  We also track the last webpage visitors were on before visiting our Website, also known as a “referer” or “referring website,” and use that data to formulate statistical models. 
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device. [http://oo.apple.com](http://oo.apple.com/). If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](http://www.google.com/ads/preferences/) page from a browser on your device and make your choices there.
 
-**6.   OUR DISCLOSURE OF YOUR INFORMATION**
+#### 6\. Disclosure of Your Information
 
-If required by law, we may provide any information we have about you to law enforcement or other government agencies pursuant to a subpoena, warrant, or other order by a court of competent jurisdiction.  In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request.  Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency, as well as the particular law enforcement agency making the request.
+We may share your information in the following ways:
 
-**7.   COOKIES **
+  * We may make information collected through the Services available to subsidiaries and affiliated companies that are under common ownership or control within the Auction.com family.
+  * If you download information on assets listed on our Services or place a bid on a particular asset, the seller and its affiliates and representatives are given access to your information.
+  * We may share information about our visitors, customers, or former customers with the following types of companies that perform services on our behalf or with whom we have joint marketing agreements: 
+    * Non-financial companies such as envelope stuffers, fulfillment service providers, payment processors, data processors, customer/support services, etc. 
+    * Financial service providers such as companies engaged in banking, mortgage lending, consumer finance, securities, and insurance. 
+  * We may share or sell, as allowed by law, information about you with other companies who we believe may have products and services of interest to you. If you would like to opt-out of our sharing of your information with these other companies, please follow the “Opting Out of Emails” instructions below.
+  * We may share your information with any person or entity where we believe in good faith that such disclosure is necessary to: (a) comply with the law or in response to a subpoena, court order, government request, or other legal process; (b) produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (c) protect the interests, rights, safety, or property of the Company or others; (d) enforce the Terms of Use on the Services; (e) provide users of the Services with the services they request; (f) provide you with special offers or promotions from us; (g) allow another company that acquires the Company or some or all of its assets to continue to serve you; or (h) operate the Company's systems properly.
+  * We may share your information with any person or entity when we have your consent.
+  * We may use and share non-personal information about you or use of the services, including any de-identified and aggregated data with third parties without limitation.
 
-This Website uses “cookie” technology.  “Cookies” are small files that a website stores on a user’s computer.  This Website uses cookies to keep the information you enter on multiple pages together.  A majority of cookies we use are “session” cookies, meaning that they are automatically deleted from your hard drive after you close your browser at the end of your session.  Session cookies are used to optimize performance of the website and to limit the amount of redundant data that is downloaded by your computer during a single session.  We also use “persistent” cookies, which remain on your computer unless deleted by you (or by your browser settings).  We use persistent cookies for statistical analysis of performance to ensure the ongoing quality of our services.  In either case, we do not use cookies to obtain or retain any transaction details or any personally identifiable information about you apart from what you voluntarily provide us.  You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so may interfere with your ability to perform certain transactions, use certain functionality, and access certain content on our Website.
 
-**8.   OPTING OUT OF EMAILS**
 
-  
-In order to receive email newsletters and other email communications, users must voluntarily sign up for the service on our website. From time to time, however, we may send you email notices or Website update news alerting you to new features, products, promotions, or services pertaining to the Website.  If you no longer wish to receive materials from us, you may opt out of receiving these communications by choosing a “Do Not Contact” option or by contacting us at privacy@auction.com.  We will gladly comply with all requests for removal.
+#### 7\. Opting Out of Emails
 
-Additionally, in compliance with the CAN-SPAM Act of 2003, each email transmitted by the Website contains instructions for opting out of future emails.  Such instructions may include, without limitation: (a) clicking a link on the email which sends a reply to the sender’s server indicating the sender’s desire to opt out of future emails, or (b) instructions for mailing a written request to be removed from future emails.  All requests to opt out of future emails will be respected.
+To receive email newsletters and other promotional email communications, users must voluntarily sign up on the website either by creating a profile or by choosing newsletter preferences. From time to time we may send you email notices or news updates alerting you to new features, products, promotions, or services pertaining to Auction.com offerings. If you no longer wish to receive promotional materials from us, you may opt out of receiving these communications by choosing an “Unsubscribe” option available as a link in every email or by contacting us at [privacy@auction.com](mailto:privacy@auction.com). We will gladly comply with all requests for removal. Certain transactional emails such as confirmations of bidder registration are not included in emails that one can opt out of. Transactional emails can be recognized by a lack of an “Unsubscribe” link in the email body.
 
-**9.   SECURITY AND ACCOUNT PROTECTION **
+If you do not want us to share your personal information with third parties for their own marketing purposes, please contact us at [privacy@auction.com](mailto:privacy@auction.com).
 
-  
-We treat the information you provide to us as confidential information.  Accordingly, we follow our Company security policies and procedures regarding the protection and use of confidential information.  When we ask you for sensitive data, it is transferred over a Secured Sockets Layer (SSL) line provided you are using a SSL-enabled browser such as Internet Explorer, Safari, or Firefox.  We also use SSL on other select pages where you enter personally identifiable information.  This ensures that your information is encrypted as it travels over the Internet.  This secure mode is enabled before any such information is transmitted from your computer.  You will know you are in secure mode when the padlock or key icon in the address bar of your browser appears in the locked position.  In addition, when accessing a secure server, the first characters of the Website address will change from “http” to “https.”
+Please note that these opt-out processes may take some time to complete, consistent with applicable law.
 
-  
-After information reaches the Website, it is stored on a secure server that resides behind firewalls designed to block unauthorized outside access.  If you are interested in learning more about our security measures, please contact us at the address below.
+#### 8\. Security and Account Protection
 
-We appreciate your help in safeguarding the integrity of your own and others’ privacy.  We encourage you to let us know immediately if you suspect that any personal information you shared with us is being used contrary to this Privacy Policy.  While we strive to protect personal information, as outlined in this Privacy Policy, we cannot promise, guarantee, or warrant the complete security of information. 
+We have implemented commercially reasonable physical, administrative, technical, and electronic security measures to protect against the loss, misuse, and alteration of your personal information. Despite our best efforts, however, no security measures are perfect or impenetrable. We appreciate your help in safeguarding the integrity of your own and others’ privacy. We encourage you to let us know immediately if you suspect that any personal information you shared with us is being used contrary to this Privacy Statement.
 
-  
-**Protecting Children’s Information**
+#### 9\. Children’s Information
 
-We believe it is important to provide added protection for children online.  We encourage parents and guardians to spend time online with their children to observe, participate in, and/or monitor and guide their online activity.  The Company does not knowingly collect any personally identifiable information from children under the age of 13.  If a parent or guardian believes that the Company has in its database the personally identifiable information of a child under the age of 13, please contact us immediately at [**privacy@auction.com**](mailto:privacy@auction.com) **** and we will use our best efforts to promptly remove such information from our records.
+We do not knowingly market to or collect any personal information from children under the age of 13. If a parent or guardian believes that we have in our database the personal information of a child under the age of 13, please contact us immediately at [privacy@auction.com](mailto:privacy@auction.com) and we will promptly remove such information from our records.
 
-**10.   ACCESSING, REVIEWING, AND CHANGING PERSONAL INFORMATION **
+#### 10\. Accessing, Reviewing, and Changing Personal Information
 
-  
-The Company will take reasonable steps to ensure that the information and data on the Website is complete and accurate,.  If your personally identifiable information (e.g., phone number or email address) changes, is inaccurate, or if you no longer wish to use our services, contact the Company to correct or update the information.
+We will take reasonable steps to ensure that the information and data on the Services is complete and accurate. If your personal information changes, is inaccurate, or if you no longer wish to use the Services, contact us at [privacy@auction.com](mailto:privacy@auction.com) to correct or update the information.
 
-**11.   THIRD PARTIES **
+#### 11\. Third Party Links and Services
 
-  
-The Website may contain links to third-party websites for your convenience and information.  If you access those links, you will leave this Website.  Please be aware that we are not responsible for the content or privacy practices of other websites to which we link.  We do not endorse or make any representations about third-party websites.  You should also be aware that, when you voluntarily disclose personal information in public forums, such information may be collected by others and may result in receiving unsolicited messages.  The personal data you choose to provide to or that is collected by these third parties is not covered by our Privacy Statement.  We strongly encourage that when you leave our Website you should read the privacy statements of each website that collects personally identifiable information.
+The Services may contain links to third-party websites, including social networking websites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. Please be aware that we are not responsible for the content or privacy practices of other websites or services to which we link. We do not endorse or make any representations about third-party websites or services. The personal information you choose to provide to or that is collected by these third parties is not covered by our Privacy Statement. We strongly encourage you to read such third parties’ privacy statements.
 
-We may also provide social media features that enable you to share information with your social networks and to interact with Auction.com on various social media sites.  Your use of these features may result in the collection or sharing of information about you, depending on the feature.  We encourage you to review the privacy policies and settings on the social media sites with which you interact and make sure you understand the information that may be collected, used, and shared by those sites.
+#### 12\. Amendments to Privacy Statement
 
-**12.   GENERAL **
+We may amend this Privacy Statement at any time by posting the amended terms on the Services. Any changes to this Statement will become effective upon posting. Your continued use of the Services following these changes means that you accept such revisions. If we make any material changes to this Privacy Statement, we will post the changes here and notify you either via email or by notice on the Services.
 
-  
-**Amendments to Policy**
+#### 13\. International Transfers of Information
 
-  
-We may amend this Privacy Statement at any time by posting the amended terms on this Website.  All changes will be made here so that you will always know what information we gather, how we might use that information, and whether we may share it with anyone.  Any changes to this Statement will become effective when we post a revised Statement on the Website.  Your use of the Website following these changes means that you accept such revisions, if any. 
+Some of the uses and disclosures mentioned in this Privacy Statement may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than your country. By submitting your personal information, you consent to such transfers.
 
-**Contact Information**
+#### 14\. Contacting Us
 
-  
-Should you have any questions about this Privacy Policy, or if you otherwise need to contact the Company regarding your personally identifiable information, contact the Company by sending an email to privacy@auction.com.  Please provide the Company with your name, mailing address, telephone number and email address so the Company can service you more quickly.
+Should you have any questions about this Privacy Statement, contact us by sending an email to [privacy@auction.com](mailto:privacy@auction.com). Please provide your name, mailing address, telephone number and email address so we can service you more quickly. You can also call us at **(800) 793-6107** or write to us at **1 Mauchly, Irvine, CA 92618**.
 
-  
-If you need assistance with this Website or with any service or information provided through it, or if you need to communicate with us, telephone us at **(800) 793-6107** or write to us at **1 Mauchly, Irvine, CA 92618**.  You agree that we may record the conversations our agents or employees have with you.  We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed.  No agent or employee of the Company is authorized to waive any provisions of our Company policies and procedures.
+We may record the conversations our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of our Company policies and procedures.
