@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615050017id_/http%3A//www.cimaglobal.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222143229id_/http%3A//www.cimaglobal.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -58,7 +58,7 @@ As part of our quality control and with the objective of providing you with enha
 
 This information is collected for our internal purposes only and shall not be disclosed to any other organisation except as required by law. For the same reason, we may obtain information about your general internet usage by using a ‘cookie’ file.
 
-[**Find out more about CIMA's use of cookies and cookie policy.**](https://web.archive.org/en-gb/cookie-policy/)
+[**Find out more about CIMA's use of cookies and cookie policy.**](https://web.archive.org/cookie-policy/)
 
 ## 10\. Subject access 
 
