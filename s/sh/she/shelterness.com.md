@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelterness.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613024749id_/http%3A//www.shelterness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelterness.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222151355id_/http%3A//www.shelterness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shelterness
 
