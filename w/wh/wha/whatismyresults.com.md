@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whatismyresults.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624080452id_/http%3A//www.whatismyresults.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismyresults.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222161944id_/http%3A//www.whatismyresults.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Posted by [Akshay ](https://plus.google.com/u/0/115808200604929984237?rel=author) at 06:59
 
 Privacy Policy for http://www.whatismyresults.com
 
