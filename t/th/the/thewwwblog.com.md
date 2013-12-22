@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewwwblog.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528174019id_/http%3A//www.thewwwblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewwwblog.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222024405id_/http%3A//www.thewwwblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ Your Choices
 You do not have to accept cookies and you may block or disable all cookies from your browser at anytime.
 
 Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a “Privacy” setting in your browser setup.  
-You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.htm). You may also opt-out of receiving cookies from third party advertising networks by using the [NAI Opt-out Tool](http://www.networkadvertising.org/managing/opt_out.asp).
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. You may also opt-out of receiving cookies from third party advertising networks by using the [NAI Opt-out Tool](http://www.networkadvertising.org/managing/opt_out.asp).
