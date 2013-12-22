@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irazoo.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211032950id_/http%3A//www.irazoo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irazoo.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222064318id_/http%3A//www.irazoo.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Search Engine, Meta search engine, Best search engine
+# earn points, search engines, win free gift cards
 
 | 
 
@@ -30,6 +30,6 @@ If you have any questions about this privacy statement, the practices of this si
 iRazoo.com  
 5644 Westheimer, #407  
 Houston, Texas, 77056  
-or feedback@iRAZOO.com
+or team@iRAZOO-inc.com
 
-This privacy policy was last updated on January 6th, 2007
+This privacy policy was last updated on January 14th, 2010
