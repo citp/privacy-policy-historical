@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeyourway.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508132557id_/http%3A//life.yourway.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeyourway.net privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222075445id_/http%3A//life.yourway.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life Your Way
 
@@ -49,4 +49,12 @@ Users might be asked to subscribe to our newsletter by providing name and email 
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://life.yourway.net/contact).
 
-Last Updated: July 8, 2011
+Last Updated: May 15, 2013
+
+  
+
+
+* * *
+
+  
+
