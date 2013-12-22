@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3interactive.net privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617112510id_/http%3A//www.3interactive.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3interactive.net privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222072232id_/http%3A//www.3interactive.net/privacy.php) for the most accurate reproduction.*
 
 # 3 Interactive - Privacy Policy - 3i, iii, iii-interactive, media buying, Planning, Advertising, Agency
 
