@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622045126id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222151419id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Operation Smile
 
@@ -7,8 +7,8 @@ We recognize that visitors to our site may be concerned about the information th
 If you have any questions about our Privacy Policy, you can contact us at: 
 
 **Operation Smile  
-** 6435 Tidewater Drive  
-Norfolk, VA 23509 USA  
+** 3641 Faculty Boulevard  
+Virginia Beach, VA 23453 USA  
 Tel: 888-677-6453  
 Fax: (757) 321-7660
 
