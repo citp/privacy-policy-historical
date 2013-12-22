@@ -1,100 +1,59 @@
-> *The following text is extracted and transformed from the lessonslearnedinlife.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonslearnedinlife.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222014249id_/http%3A//lessonslearnedinlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Lessons Learned in Life | Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+#### Lessons Learned In Life® Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Lessons Learned In Life** respects your right to the privacy of the personal information you provide us. To that end, unless otherwise indicated, any personal information you provide to **Lessons Learned In Life** will be known only to two parties: you and **Lessons Learned In Life**. The following policy explains how your personal information will be treated as you use our sites and features. Personal information means your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+#### Traffic data
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Each time a visitor comes to a **Lessons Learned In Life** , our servers — like most on the Web — collect some basic technical information, including, for example, the visitor’s domain name (e.g., whether the user is logged on from aol.com or whitehouse.gov), referral data (e.g., we record the address of the last URL a user visited prior to clicking through to a **Lessons Learned In Life** site) and browser and platform type (e.g., a Safari browser on a Mac platform).
 
-**Information Collection and Use**
+We also count, track and aggregate the visitor’s activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the **Lessons Learned In Life** sites, etc.). We may merge information about visitors and visits into group data, which may then be shared on an aggregated basis with our business partners; but we will not disclose your individual identity or personally identifiable data without your permission. When we do present aggregated information to outside companies, no one will be able to identify you or contact you.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+#### Use of cookies
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive. We use cookies in a limited way to help deliver advertisements, to identify unique browsers that visit us and to track usage throughout our site.The information about readership and site usage that **Lessons Learned In Life** collects through cookies is aggregated into general reports about readership and not tied to individual identities.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+#### Membership
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Lessons Learned In Life** members provide us with personal information including their name and email address. **Lessons Learned In Life** keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+At the time of registering for membership, **Lessons Learned In Life** members are asked whether they wish to receive e-mail from **Lessons Learned In Life** of notification to alerts of our latest post. **Lessons Learned In Life** does not reuse or resell the list of users who have “opted in” to such mailings, and users are able to opt-out of receiving future emails by “unsubscribing” to the email (found on bottom of email)
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+#### “Sharing” feature
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Lessons Learned In Life** offers a “share” feature, allowing site visitors to share content with friends via Facebook, Twitter, Pinterest, Google, Email, and many more to inform them about content they might be interested in seeing. For this feature to function, we ask for e-mail addresses for the recipient (so we know who to mail the message to) and from the sender (so we can tell the recipient who sent the e-mail). We do not store or save these addresses and you will not receive e-mail or other communications from **Lessons Learned In Life** or its partners as a result of having used this feature.
 
-**Security**
+“Sharing” includes a mail service that individual visitors to **Lessons Learned In Life** use to send individual e-mails. While this tool cannot be used to send mass “spam” mailings, **Lessons Learned In Life** has no control over how our visitors use it, and any e-mail sent through it originates with, and is the responsibility of, the sender, not **Lessons Learned In Life**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+#### Promotion
 
-**Updating Your Information**
+From time to time **Lessons Learned In Life** , may in the future, sponsor sweepstakes, contests or other events, which require the collection, processing and storage of individual contact and demographic information (e.g., your age and state of residence) to be used for the event. **Lessons Learned In Life** may also co-sponsor these events along with other companies, in which case the user’s individual contact and demographic information is likely to be shared with other participating sponsors, who may use this information as they wish. A registrant’s personal contact and demographic information will not be released to any third-party organization other than named sponsors without the user’s consent, and **Lessons Learned In Life** will request that such named sponsors uphold the privacy of the registrants’ information by not distributing or sharing such information with any other businesses or organizations.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### Surveys
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Lessons Learned In Life** will from time to time conduct voluntary surveys of visitors to the site to obtain aggregate demographic information about them. Such information may be compiled and shared in the aggregate with business partners and other third parties, but no personal details will be traceable or associated with specific individuals.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+#### Our commitment to children’s privacy
 
-      iii.      You may call us at: (480) 505-8800
+Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our Web sites from those we actually know are under 13, and no part of our Web site is structured to attract anyone under 13.
 
-       iv.      You may fax us at: (480) 505-8844
+#### Other disclosure of personal information
 
-**Sending Emails**
+**Lessons Learned In Life** will not otherwise use or disclose your personal information (personally identifiable data such as your name, email address, password) without your consent except (i) as described in this privacy policy, or (ii) as required by law to be disclosed. This policy does not protect information you post to any on-line bulletin board, chat room, newsgroup or other public forum within our Web sites.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+#### Unsubscribe and data removal policies
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+If you would like to remove your name and e-mail address from our **Lessons Learned in Life** registration database, please use/click the unsubscribe link in your email which is located at the bottom of every **Lessons Learned In Life** notification.
 
-**Compliance with Laws and Law Enforcement**
+#### Other sites
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Lessons Learned In Life** in the future, may contain links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
 
-**Third Party Service Providers**
+#### Who can I ask if I have any additional questions?
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If you have any further questions or concerns about **Lessons Learned In Life** ’s privacy policies and use of personal information, please send them to [info@lessonslearnedinlife.com](mailto:%20info@lessonslearnedinlife.com)
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+87 total views, 1 views today
