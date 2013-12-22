@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygofer.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623013757id_/http%3A//www.mygofer.com/mg2custservpolprivacy/nb-120000000043210%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygofer.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222024440id_/http%3A//www.mygofer.com/mg2custservpolprivacy/nb-120000000043210%3FadCell%3DWF) for the most accurate reproduction.*
 
 # None
 
@@ -57,7 +57,7 @@ Back to top
 
 How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click [here](https://web.archive.org/mg2childrensprivacy/nb-120000000045211?adCell=W4) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Each Sears Holding’s family of Sites that may be directed to children under 13 will contain a specific version of our Children’s Online Privacy Policy that will address specifically each of the points listed above for that Site.
 
   * Collection of children’s personal information
   * Use of children’s personal information
@@ -65,8 +65,6 @@ Please click [here](https://web.archive.org/mg2childrensprivacy/nb-1200000000452
   * The method of obtaining access to the child’s information
 
 
-
-Each Sears Holding’s family of Sites that may be directed to children under 13 will contain a specific version of our Children’s Online Privacy Policy that will address specifically each of the points listed above for that Site.
 
 Back to top
 
