@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlookingloser.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527113722id_/http%3A//goodlookingloser.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlookingloser.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222122012id_/http%3A//www.goodlookingloser.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,5 +78,3 @@ If you have any questions about this Policy, our practices related to this Site,
 **6.2. UPDATES AND CHANGES**
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
-
-### Share and Enjoy
