@@ -1,88 +1,39 @@
-> *The following text is extracted and transformed from the asurion.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123171006id_/http%3A//www.asurion.com/web/asurion/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asurion.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222152732id_/http%3A//www.asurion.com/privacy-policy) for the most accurate reproduction.*
 
-# Asurion | Privacy Policy
+# Asurion - Your Technology Protection Company - Privacy Policy
 
-## California Privacy Statement (For California Residents)
+### ASURION.COM PRIVACY POLICY
 
-Effective date: July 1, 2004
+##### Effective Date: July 7, 2013.
 
-We are providing this notice to explain how we treat nonpublic personal information collected using this website ("customer information").
+**General Information:** [www.Asurion.com](http://www.asurion.com/) (the “Site”) is a website that is operated by Asurion, LLC (“Asurion”).  Asurion respects the privacy of visitors who use the Site.  This Privacy Policy describes how Asurion treats Your use of the Site, including the handling of Your personal information.  Asurion reserves the right to revise or update this Privacy Policy at any time, and You agree to be bound by those revisions or updates.  Asurion will notify You of any changes to the Privacy Policy by posting the revised or updated Privacy Policy and its Effective Date on the Site.  Your use of the Site thereafter constitutes Your agreement to and acceptance of the Privacy Policy and its revisions or updates.  You should periodically read the Privacy Policy to learn of any revisions or updates.  If You do not agree to any terms of the Privacy Policy, please do not use the Site.
 
-We want you to know that we respect your privacy and make every effort to protect your customer information.
+**INFORMATION COLLECTION:** Asurion may share both Your personally identifiable information and non-personally identifiable information with its affiliates, subsidiaries, partners and other third parties, such as third parties who help operate the Site and its related databases.
 
-  * We do not sell customer information.
-  * Information collected through our Web site Phoneclaim.com is used solely for the purpose of processing your insurance claim(s).
-  * We do not share your information with persons, companies, or organizations outside of Asurion that would use that information to contact you about their products and services.
-  * We expect persons or organizations that provide services on our behalf to keep your information confidential. We also expect those persons or organizations to use your information only to provide the services we have asked them to perform. We train our employees about the need to protect your information. We have established physical, electronic and procedural safeguards to protect this information.
+**Non-Personally Identifiable Information:** Asurion gathers certain broad, non-personally identifiable information (“Non-PII”) about use of the Site, including the number of unique visitors to the Site, the frequency with which they visit the Site and the services preferred by those visitors on the Site. Asurion looks at the data regarding use of the Site in summary form, rather than on an individual basis. Asurion gathers this Non-PII data so it can learn, for example, which pages of the Site are the most and least viewed by visitors and which third-party websites are referring visitors to the Site. The Non-PII data helps Asurion determine the extent to which visitors use certain parts of the Site and allows Asurion to tailor the Site in the future.  In connection with these activities, Asurion may use the following standard technologies to collect information:
 
-
-
-## What do we do with your information?
-
-We do not sell your customer information to anyone. We do not share this information with companies or organizations outside of Asurion that would use it to contact you about their products and services.
-
-We may use your information to help you with your insurance needs. We may also contact you about products, features, and options in which you have expressed an interest. Without your consent, we may provide your information to persons or organizations in and out of Asurion. This would be done as permitted or required by law. We may do this to:
-
-  * Fulfill a transaction you have requested.
-  * Service your policy.
-  * Investigate or handle claims.
-  * Detect or prevent fraud.
-  * Participate in insurance support organizations. The information in a report prepared by an insurance organization may be retained by that organization and distributed to other persons. Comply with lawful requests from regulatory and law enforcement authorities.
+  * **Cookies:** A cookie is a small, removable data file that is stored by Your web browser on Your computer. Asurion uses cookies to, among other things, identify Your computer during a particular visit to the Site and analyze Your behavior during a particular visit. Asurion does not store personal or sensitive information in cookies. Most Web browsers provide You with the ability to accept or decline cookies, as well as to be warned each time a cookie is being sent. If You choose to decline cookies, however, You may not be able to take advantage of all aspects of the Site.
+  * **Pixel Tags:** Pixel tags, also known as beacons or clear GIFs, help Asurion better manage content on the Site by informing it of what content is effective. Pixel tags are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, pixel tags are embedded invisibly on Web pages.
+  * **IP Addresses:** Asurion collects and analyzes traffic on the Site by keeping track of the IP addresses of its visitors. An IP address is the unique numeric identifier assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify You personally. However, when combined with other information provided by Your Internet service provider, Your IP address can be used to identify the computer originating a message.
 
 
 
-These persons or organizations may include:
+**Personally Identifiable Information:** Certain areas of the Site require You to provide personal information to Asurion. The Personally Identifiable Information (“PII”) that Asurion collects may include Your name, phone number, e-mail address, username, password, claim ID, date of log-in, any details provided by You explaining circumstances under which You are requesting assistance or information from Asurion, or similar information. By submitting PII to Asurion, You agree that Asurion may use the information in accordance with this Privacy Policy. If You do submit PII to Asurion, Asurion may share that information with third parties, in addition to using that information for the purposes for which it was submitted by You. Asurion may also use Your PII in other ways, such as to provide You with information about products and offers that may be of interest to You, to seek follow-up from You about Your experiences with Asurion or as otherwise disclosed to You at the point of collection. Asurion may share Your PII with its affiliates, subsidiaries and partners and with other third parties for similar purposes. Additionally, to the extent required by applicable federal or state law, Asurion will provide Your PII to others. By submitting PII to Asurion, You give Asurion permission to receive it, review it, edit it, store it and use it in appropriate ways and settings.
 
-  * Our affiliated companies.
-  * Companies that perform services, such as marketing, on our behalf.
-  * Insurance companies. This would be done so they could perform their role in an insurance transaction involving you.
-  * Independent claims adjusters.
-  * A business or businesses that conduct actuarial or research studies.
-  * People who request information pursuant to a subpoena or court order.
-  * Repair shops and recommended claims vendors.
+**PROTECTION OF PII:** Asurion uses commercially reasonable safeguards to maintain the confidentiality of Your PII. Asurion will take appropriate technical and organizational measures to protect Your PII against: (1) accidental or unlawful destruction; (b) accidental loss; and (c) unauthorized alteration, disclosure or access. However, no security systems are impenetrable, and Asurion cannot guarantee the security of the Site or its databases, nor can Asurion guarantee that the information that You supply to Asurion will not be intercepted while being transmitted over the Internet.
 
+**SHARING OF PII AND NON-PII:** For the purpose of operating its business, Asurion may transfer PII and Non-PII to service providers who use that information only to provide services to Asurion. For example, service providers may handle e-mail distribution, market research, information analysis and promotions management on behalf of Asurion. Asurion may also share PII and Non-PII in order to administer a Site feature. Asurion provides its service providers with the information they need to perform their services and works with them to protect Your information. In order to better understand Your preferences and better serve You, Asurion may combine information that it receives from You with information that it has or that it receives from other sources, transactions and communications. This may include information from the Site, as well as information from Asurion’s contractors, direct mailings, events or other marketing efforts. Asurion also may combine the information that it receives from You with data that is publicly available and data that it receives from other reputable sources.
 
+**LEGAL AUTHORITIES:** Asurion reserves the right to share PII that You provide to Asurion with legal authorities if it is, in the sole opinion of Asurion, necessary to investigate, prevent or otherwise take action regarding suspected fraud, situations involving threats or potential harm or if otherwise required by law (such as by a subpoena, court order or other legal means). In the event that Asurion reasonably believes that You have violated any of the terms or policies governing Your use of the Site, Asurion reserves the right to use any information it has collected about You in connection with any efforts it makes or are made by any agents on its behalf.
 
-## What kind of customer information do we have, and where did we get it?
+**TRANSFER OF PII AND NON-PII:** Asurion may transfer to or share Your PII and any Non-PII with an affiliate or third party as part of a transfer of business assets. Such a transfer would be within the scope of this Privacy Policy so long as the affiliate or third party agrees to continue to maintain use and storage of Your PII in accordance with this Privacy Policy.
 
-Much of the information that we have about you comes from you. When you perform certain transactions, you may give us information such as your name, address, driver's license, social security number, e-mail address and telephone number. We keep information about the types of services you purchase or otherwise obtain from us and our affiliates. Examples of this include premiums, account balances, and payment history. We also collect information using our websites, including information related to your activity while using our sites and information from online collecting devices known as "cookies" (see below).
+**THIRD PARTY SITES:** The Site may contain links to other websites, including websites operated by third parties. Please be aware that those websites may collect PII from or about You and Non-PII about Your visit. You should review the privacy policies that are posted on any website that You visit, before using the website and providing PII to the website. Asurion is not responsible for the privacy policies or practices of any websites that may be mentioned on, or accessible from, the Site.
 
-## What are cookies and how are they used?
+**ONLINE ADVERTISEMENTS:** Asurion works with other companies that use tracking technologies to serve ads on its behalf across the Internet. Those companies may collect Non-PII about Your visits to the Site and Your interaction with Asurion’s communications, including advertisements. Our advertising partners may use cookies and pixel tags on the Site and on third party websites on which Asurion advertisements appear, which allows those partners to track certain information about user behavior, such as “click stream data.” Any use of information by an advertising partner would be governed by their privacy policy, so You should become familiar with those policies prior to responding to online advertisements.
 
-Do you log my activity on your site? During the period you are logged in to our site, we may log your IP addresses (a number assigned to your computer when you use the Internet), browser and platform types, domain names, access times, referral data (the last site or URL you visited before logging into our site and the first site or URL you visit after leaving our site), and your activity while using or reviewing our site.
+**SECURITY OF INFORMATION:** Information submitted via the Internet, including through a web page or e-mail is subject to interception or incorrect routing, and the Internet is not a fully secure communications channel. Please consider this prior to submitting any information to Asurion via the Site. While Asurion follows generally accepted industry standards to protect the information submitted to us, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. Therefore, while Asurion strives to use commercially acceptable means to protect Your personal information, Asurion cannot guarantee its absolute security.
 
-As part of our services, we also use cookies. Many commercial Internet sites use cookies. While a code in the cookie file enables the site to label you as a particular user, it does not identify you by name or address unless you have provided us with such information (over the Internet or otherwise) or set up preferences in your browser to do so automatically, in which case it may identify you by name, address or other personal information.
+**INTERNATIONAL USERS:** The Site is operated, in whole or in part, from the United States. By using the Site, regardless of where You live in the world, You consent to have Your personal information transferred to and processed in the United States and to allow Asurion to use and collect Your personal information in accordance with this Privacy Policy.
 
-In general, cookies allow us to identify you as a particular user and thus provide you with a more customized service. We may also use cookies to track and measure customer or user requests, inquiries, preferences, interests, demographics, traffic patterns and Web site usage, and to determine audience size and repeated usage.
-
-## Revising or updating this Privacy Statement
-
-Please be aware that we may periodically update or revise this Privacy Statement. If we change our online Privacy Statement, we will post a notice on our homepage notifying users that the policy has been revised.
-
-Website Privacy Policy (All Other States)
-
-At Asurion, we are all working hard to keep your personal information safe, secure, and private. We provide this statement to demonstrate our firm commitment to protecting your privacy. Any information we collect on this site will be used to service your requests and to improve our website.
-
-We want you to feel comfortable about visiting our website and giving us your personal information. We will not rent or sell your name or personal information to any third party.
-
-We may share statistical or demographic information with our marketing partners, advertisers, or other third parties. This information is in the form of statistics or purchase demographics and is never connected with nor will it identify an individual person.
-
-If you have subscribed to one of our newsletters, or entered one of our contests, we may occasionally update you regarding special opportunities via email. If you would rather not be contacted email us at support@asurion.com
-
-By using our website, you consent to the collection and use of this information by Asurion. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
-
-Asurion  
-Marketing Services  
-648 Grassmere Park Dr.  
-Suite 300  
-Nashville, TN 37211
-
-© 2008 Asurion. All rights reserved.
-
-This work is the property of Asurion. It may only be reproduced, disclosed or distributed for non-commercial use with written authorization from Asurion and provided proper trademark and copyright notice shown here is included on all copies. Any unauthorized reproduction, disclosure or distribution of copies by any person of any portion of this work may be a violation of the copyright laws of the United States of America and other countries.
-
-With all the material contained in these Web pages, Asurion has attempted to offer the most timely and accurate information possible. However, inadvertent errors may occur. The information contained in these Web pages is provided "as is" without warranty of any kind. Asurion reserves the right to discontinue, or change at any time, product features without notice and without incurring obligations.
-
-Many links from this site lead to external resources (websites) which are maintained and hosted by third parties, over which Asurion has no control and is in no manner responsible.
+**CONTACT US:** If You have any questions about the Privacy Policy, You may contact Asurion by sending an email to [privacy@asurion.com](mailto:privacy@asurion.com?subject=Privacy%20Policy%20Inquiry%20From%20Asurion.com).
