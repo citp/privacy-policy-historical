@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bradenton.com privacy policy that was archived on 2013-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613005048id_/http%3A//www.bradenton.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bradenton.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222085837id_/http%3A//www.bradenton.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 
@@ -23,9 +23,24 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A90234747725974%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ABradenton%20Herald%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20130613005048id_%2Fhttp%253A%2F%2Fwww.bradenton.com%2Fprivacy_policy%2523navlink%253Dmi_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A254365492013511%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ABradenton%20Herald%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20131222085837id_%2Fhttp%253A%2F%2Fwww.bradenton.com%2Fprivacy_policy%2523navlink%253Dmi_footer%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/c3bc178ca3a00288759f64ff06f41449-min.css" media="screen" rel="stylesheet" type="text/css">
+
+
+<link rel="apple-touch-icon" href="http://media.bradenton.com/mistatic/images/icons/HeraldToday.png">
+
+<style type="text/css">
+@font-face {
+    font-family: 'roboto_condensedregular';
+    src: url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.eot');
+    src: url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.woff') format('woff'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.ttf') format('truetype'),
+         url('/mistatic/fonts/Roboto_Condensed/RobotoCondensed-Regular-webfont.svg#roboto_condensedregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+</style><link href="/mistatic/cache/stylesheets/eed98b47691d453f22c2f08c7fbc2d85-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.bradenton.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
@@ -76,6 +91,24 @@
 	*/
 	miAppControler.prototype.paywall = 1;
 
+        /* Yahoo CTXT ads
+         0 = disable
+         1 = enable for preview & live
+         2 = enable for preview only
+        */
+
+        miAppControler.prototype.yahooctxt = 1;
+
+        /* Google AdSense ads
+         0 = disable
+         1 = enable for preview and live
+         2 = enable for preview only
+         3 = present on preview and live with display hidden
+        */
+
+        miAppControler.prototype.googleadsense = 0;
+
+
 
 
         var pageInfo = {'version':1.0};
@@ -91,52 +124,89 @@
 
 <script type="text/javascript">
 var auth_cookie_name = "heraldtoday_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/911ec54b9e3b1a6cc25df67426736bd8-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/77b100d83d3d93db6eac87110aaec079-min.js"></script>
+
 
 
 <script type="text/javascript" src="http://media.bradenton.com/mistats/mianalytics.js"></script>
 
-<script type="text/javascript" src="http://media.bradenton.com/static/scripts/sectionfront.js"></script>
+<script type="text/javascript">
+/**
+ * @fileOverview
+ * This is the configuration file for the affiliate. Making changes to this file could result in
+ * breaking your search. If you have any questions please submit a ticket via the Support Portal.
+ *
+ * When hyphens (-) are used in URL query params, the string "_mihyphen_" is used in place of an
+ * actual hyphen (-) in the object property names below. Hyphens can't be used in object property
+ * names.
+ *
+ *
+ *
+ * @minify true
+ * @author Jamison Kirk (jkirk [at] mcclatchyinteractive.com)
+ */
+
+
+mi.Search.prototype.searchParamConfig = function(search_type, search_text) {
+
+        this.setConf("searchSelectorType","");
+        this.setConf("defaultSearchType","site_search");
+
+        this.setConf("mi_search_dropdown_keys",$("form#search_widget_form div.arrow, form#search_widget_form ul, form#search_widget_form div.icon, form#search_widget_form input#search_keywords"));
+        this.setConf("mi_search_drop_down",$("form#search_widget_form ul"));
+        this.setConf("mi_search_drop_down_link",$("form#search_widget_form ul.search_widget_choice li a"));
+        this.setConf("mi_search_dropdown_input",$("#search_keywords"));
+        this.setConf("mi_search_widget_icon",$("#search_widget_form div.icon img"));
+        this.setConf("mi_search_selected",$("#search_widget_choice li"));
+
+        this.setConf("mi_search_drop_down_web_search_item",$("#search_widget_web_search_choice"));
+        this.setConf("yahoo_credit",$("p.yahoo_credit"));
+        
+
+        if (search_type) {
+                switch (search_type) {
+                        case "site_search":
+                                this.setConf("form_action","http://www.bradenton.com/search_results");
+                        break;
+                        
+                        case "web_search":
+                                this.setConf("form_action","http://www.bradenton.com/web_search");
+                        break;
+                        
+                        case "archives":
+                                this.setConf("form_action","http://www.newslibrary.com/nlsearch.asp?");
+                                this.setConf("query_fields",{search_mode:"all",
+                                                                date_mode:"year",
+                                                                year:"last+180+days",
+                                                                sort:"d%3Ah",
+                                                                nitems:"10",
+                                                                region:"bh",
+                                                                dbquery:search_text,
+                                                                collection:"ARCHIVES"}
+                                                );
+                        break;
+                        
+                        default:
+                                this.configErrorReporter();
+                }
+        }
+};
+</script>
+
 <script type="text/javascript">
     if (typeof(mi.Search) !== 'undefined') {
         mi.search = new mi.Search();
     }
 </script>
 
-<script type="text/javascript">
-    mi.commenting = new mi.Commenting();
-    
-    mi.commenting.setConf( "accountName", "bradenton" );
-    
-    
-    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
-    if(disqus2012cookie.load()){
-            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
-    }
-    
-    
-    
-</script>
+        <script type="text/javascript">
+            mi.commenting = new mi.Commenting();
+            mi.commenting.setConf( {
+                accountName: "HeraldToday",
+                fbapp_id:    "1412578158957935"
+            });
+        </script>
 
-<!--[if lte IE 7]>
-<script type="text/javascript">
-$(document).ready(function() {
-    // Dynamic padding for navigation
-    var parent_container = $('nav.primary div');
-    var target_elements = $('nav.primary div a');
-    var remainder_element = $('nav.primary div ul#analytics_based li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-
-    // Dynamic padding for sub-navigation
-    var parent_container = $('#sub_nav');
-    var target_elements = $('#sub_nav > ul li a');
-    var remainder_element = $('#sub_nav > ul li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-});
-</script>
-<![endif]-->
 
 <script type="text/javascript">
   var googletag = googletag || {};
@@ -168,27 +238,27 @@ $(document).ready(function() {
 </script> 
 <script>
   googletag.cmd.push(function() {
-      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [960,30], "div-gpt-ad-36517013397382.7-1")
+      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [960,30], "div-gpt-ad-440890525045067-1")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [150,25], "div-gpt-ad-36517013397382.7-2")
+      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [150,25], "div-gpt-ad-440890525045067-2")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [100,25], "div-gpt-ad-36517013397382.7-3")
+      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [100,25], "div-gpt-ad-440890525045067-3")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [300,250], "div-gpt-ad-36517013397382.7-4")
+      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [300,250], "div-gpt-ad-440890525045067-4")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [300,100], "div-gpt-ad-36517013397382.7-5")
+      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [300,100], "div-gpt-ad-440890525045067-5")
         .setTargeting("pos", "1")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [300,250], "div-gpt-ad-36517013397382.7-6")
+      googletag.defineSlot("/7675/BRD.site_bradenton/Online/SiteInformation", [300,250], "div-gpt-ad-440890525045067-6")
         .setTargeting("pos", "2")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
@@ -233,8 +303,8 @@ mistats.channel='Privacy Policy';
 <body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
         <div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1"><div id="div-gpt-ad-36517013397382.7-1">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-36517013397382.7-1'); });</script>
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><div id="div-gpt-ad-440890525045067-1">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-440890525045067-1'); });</script>
 </div>        </div>
 </div>
 
@@ -253,7 +323,14 @@ mistats.channel='Privacy Policy';
             <li class="jobs"><a href="/jobs/#navlink=navbar">Jobs</a></li>
             <li class="cars"><a href="/cars/#navlink=navbar">Cars</a></li>
             <li class="homes"><a href="/homes/#navlink=navbar">Homes</a></li>
-            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li>            <li class="place_ad last"><a href="/placead/#navlink=navbar">Place an ad</a></li>
+            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li><li class="legals"><a href="/legal-notices/#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="/placead/#navlink=navbar">Place an Ad</a>                        <ul class="place_ad_links">
+                            <li><a href="/placead/#navlink=subnav">Classifieds</a></li>
+                            <li><a href="http://bradentonherald.adperfect.com/?catid=2092#navlink=subnav">Jobs</a></li>
+                            <li><a href="http://bradentonherald.adperfect.com/?catid=2141#navlink=subnav">Cars</a></li>
+                            <li><a href="http://bradentonherald.adperfect.com/?catid=2122#navlink=subnav">Homes</a></li>
+                            <li><a href="http://bradentonherald.adperfect.com/?catid=2121#navlink=subnav">Apartments</a></li>
+                            <li><a href="/placead/#navlink=subnav">Other</a></li>
+                        </ul>            </li>
         </ul>
         
         <div id="weather">
@@ -261,17 +338,17 @@ mistats.channel='Privacy Policy';
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Cloudy" src="http://media.bradenton.com/mistatic/images/weather/icons/07.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Mostly clear" src="http://media.bradenton.com/mistatic/images/weather/icons/34.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">82°</div>
+                <div id="weather_curr_temp" class="current_temp">71°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
         </div><!-- #weather -->
             <div class="weather_sponsor" id="dart_150x25_weather_1">
-        <div id="div-gpt-ad-36517013397382.7-2">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-36517013397382.7-2'); });</script>
+        <div id="div-gpt-ad-440890525045067-2">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-440890525045067-2'); });</script>
 </div>
             </div>
     </div><!-- end mast_top -->
@@ -288,9 +365,9 @@ mistats.channel='Privacy Policy';
         
         <div id="nonmember" class="signin">
             <ul id="services_nav">
-                <li class="first"><a id="digital_subscriptions" href="/plus">Subscriptions</a></li>
-                <li><a href="/report_news/">Report News</a></li>
-                <li class="last"><a href="/customer-service/">Customer Service</a></li>
+                <li class="first"><a id="digital_subscriptions" href="/plus/#navlink=navbar">Subscriptions</a></li>
+                <li><a href="/report_news/#navlink=navbar">Report News</a></li>
+                <li class="last"><a href="/customer-service/#navlink=navbar">Customer Service</a></li>
             </ul>
         </div>
                 
@@ -308,6 +385,7 @@ mistats.channel='Privacy Policy';
                         </a>
                     </li>
                     
+                    
                     <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.bradenton.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
@@ -322,7 +400,9 @@ mistats.channel='Privacy Policy';
                 </ul>
             <div class="clear"></div>
             </form>
+            
             <p class="yahoo_credit">Web Search powered by <b><span class="yahoo_text">YAHOO!</span> SEARCH</b></p>
+            
             <script type="text/javascript">
                     if (typeof(mi.search) !== "undefined" || typeof(mi.search.setUp) !== "function") {
                         mi.search.setUp();
@@ -345,8 +425,8 @@ mistats.channel='Privacy Policy';
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-        <div id="div-gpt-ad-36517013397382.7-3">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-36517013397382.7-3'); });</script>
+        <div id="div-gpt-ad-440890525045067-3">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-440890525045067-3'); });</script>
 </div>
         </li>
         <li><a href="/#navlink=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
@@ -362,7 +442,7 @@ mistats.channel='Privacy Policy';
                                                         <li><a href="/weekend/#navlink=subnav" title="">Weekend</a></li>                                <li><a href="/art-culture/#navlink=subnav" title="">Arts</a></li>                                <li><a href="http://events.bradenton.com/#navlink=subnav" title="">Calendar</a></li>                                <li><a href="/living/#navlink=subnav" title="">Living</a></li>                                <li><a href="/food-drink/#navlink=subnav" title="">Food &amp; Wine</a></li>                                <li><a href="/horoscopes/#navlink=subnav" title="">Horoscopes</a></li>                                <li><a href="http://events.bradenton.com/movies/#navlink=subnav" title="">Movies</a></li>                                <li><a href="/music/#navlink=subnav" title="">Music</a></li>                                <li><a href="http://events.bradenton.com/restaurants/#navlink=subnav" title="">Restaurants</a></li>                                <li><a href="/society/#navlink=subnav" title="">Society</a></li>                                <li><a href="/entertainment/television/#navlink=subnav" title="">Television</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/bradenton/#navlink=navbar" title="Obituaries">Obituaries</a>
                                     </li>                <li><a href="http://findnsave.bradenton.com/#navlink=navbar" title="Bradenton.com Newspaper Ads">Local Deals</a>
                                             <ul class="subnav">
-                                                        <li><a href="http://bradenton.dealsaver.com/#navlink=subnav" title="">Today's Hot Deal</a></li>                                <li><a href="http://findnsave.bradenton.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.bradenton.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.bradenton.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                                <li><a href="http://findnsave.bradenton.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                        </ul>                </li>
+                                                        <li><a href="http://bradenton.dealsaver.com/#navlink=subnav" title="">Today's Hot Deal</a></li>                                <li><a href="http://findnsave.bradenton.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.bradenton.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="/circulars#navlink=subnav" title="">Today's Circulars</a></li>                                <li><a href="http://findnsave.bradenton.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                        </ul>                </li>
     </ul>
 </div>
 
@@ -440,7 +520,7 @@ mistats.channel='Privacy Policy';
 <h3>Children's privacy</h3>
 <p>Bradenton Herald is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of Bradenton Herald in order to access general Bradenton Herald content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.</p>
 
-<p>Bradenton Herald, 102 Manatee Avenue West, Bradenton, FL, 34205, or 941-748-0411, or <a href="mailto:info@bradenton.com">info@bradenton.com</a></p>
+<p>Bradenton Herald, 1111 Third Avenue West, Bradenton, FL 34205, or 941-748-0411, or <a href="mailto:info@bradenton.com">info@bradenton.com</a></p>
 </div>
 
 <h3>Member mail and e-mail offers</h3>
@@ -482,7 +562,7 @@ mistats.channel='Privacy Policy';
 <p>Bradenton Herald supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While Bradenton Herald supports P3P, the resulting code has inherent limitations such that it does not fully and may not accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser's interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code or other privacy principals for all purposes.</p>
 
 <h3>Contact Information</h3>
-<p>If you have any questions or comments about our policies, we may be reached at Bradenton Herald, 102 Manatee Avenue West, Bradenton, FL, 34205, at 941-748-0411 or at <a href="mailto:info@bradenton.com">info@bradenton.com</a>.</p>
+<p>If you have any questions or comments about our policies, we may be reached at Bradenton Herald, 1111 Third Avenue West, Bradenton, FL 34205, at 941-748-0411 or at <a href="mailto:info@bradenton.com">info@bradenton.com</a>.</p>
 </div>
 
 
@@ -492,8 +572,8 @@ mistats.channel='Privacy Policy';
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1"><div id="div-gpt-ad-36517013397382.7-4">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-36517013397382.7-4'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><div id="div-gpt-ad-440890525045067-4">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-440890525045067-4'); });</script>
 </div>        </div>
 </div>
 
@@ -503,8 +583,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r3">
         <div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1"><div id="div-gpt-ad-36517013397382.7-5">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-36517013397382.7-5'); });</script>
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><div id="div-gpt-ad-440890525045067-5">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-440890525045067-5'); });</script>
 </div>        </div>
 </div>
 
@@ -514,8 +594,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r5">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2"><div id="div-gpt-ad-36517013397382.7-6">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-36517013397382.7-6'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><div id="div-gpt-ad-440890525045067-6">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-440890525045067-6'); });</script>
 </div>        </div>
 </div>
 
@@ -592,7 +672,7 @@ mistats.channel='Privacy Policy';
 </div>
 
 <div class="item home_delivery">
-    <a href="http://www.discountednewspapers.com/bradenton-herald/index.html?source=ordercapture#navlink=stayconnected">
+    <a href="https://www.discountednewspapers.com/bradenton-herald/ecommerce/#navlink=stayconnected">
         <div class="item_image"></div>
         <div class="item_label">Home Delivery&nbsp;<span>&gt;</span>
             <div class="description">Manage your home delivery account</div>
@@ -612,6 +692,23 @@ mistats.channel='Privacy Policy';
 </div>
 <div class="clear"></div>
 
+	
+    
+	<div id="footer_shopping_links">	    <a id="shopping_bar_cb" class="footer_shopping_link" href="http://jobs.careerbuilder.com/Default.aspx?lr=cbcb_bh&amp;siteid=cb_bh#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/careerbuilder-footer-logo.png" alt="Bradenton Jobs">
+	    </a>	    <a id="shopping_bar_cars" class="footer_shopping_link" href="/cars#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/carscom-footer-logo.png" alt="Bradenton Cars for sale">
+	    </a>		    <a id="shopping_bar_homes" class="footer_shopping_link" href="/homes#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/homefinder-footer-logo.png" alt="Bradenton Real Estate">
+	    </a>		    <a id="shopping_bar_apts" class="footer_shopping_link" href="/apartments#navlink=footer">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/apartmentscom-footer-logo.png" alt="Bradenton Rentals">
+	    </a>		    <a id="shopping_bar_ds" class="footer_shopping_link" href="http://bradenton.dealsaver.com/#navlink=footer" target="_blank">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/dealsaver-footer-logo.png" alt="Bradenton Deals">
+	    </a>		    <a id="shopping_bar_fns" class="footer_shopping_link" href="http://findnsave.bradenton.com/#navlink=footer" target="_blank">
+		<img class="footer_shopping_img" src="/mistatic/images/footer/findnsave-footer-logo.png" alt="Bradenton Deals and Coupons">
+	    </a>	</div>
+    
+	
 	<div id="footer_text_links">
 		<p class="links">
 			
