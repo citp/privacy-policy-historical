@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teamintraining.org privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627164714id_/http%3A//www.teamintraining.org/siteinfo/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teamintraining.org privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222211848id_/http%3A//www.teamintraining.org/siteinfo/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -52,12 +52,93 @@ _gaq.push(['_setDomainName', '']);
 _gaq.push(['_setDomainName', 'none']);
 }
 _gaq.push(['_setAllowLinker', true]);
+var theHash = window.location.hash;
+if (typeof(theHash) != 'undefined' && theHash != '' & theHash != '#') {
+var theActualUrl = theHash.substring(1);
+if (theActualUrl != "") {
+_gaq.push(['_trackPageview', theActualUrl]);
+}
+} else {
 _gaq.push(['_trackPageview']);
+}
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+</script>
+<link rel="stylesheet" href="/static/lls_colorbox/colorbox.css">
+<script src="/static/lls_colorbox/jquery.colorbox.js"></script>
+<script src="/static/lls_colorbox/jquery.cookie.js"></script>
+<script src="/assets/javascript/modal-popup.js"></script>
+<script>
+var setCookie = false;
+var setExpiration;
+var modalItemPath;
+var modalWindowTitle = '??';
+var itemKey = "1750271";
+displayModal = function() {
+function setModalPopupCookie(name, days) {
+var cookie;
+if ((days === undefined) || (days === null) || (days === '')) {
+// old format
+cookie = jQuery.cookie(name, 'true');
+} else {
+// day based expiration
+var now = (new Date()).getTime();
+var exp = new Date(now + parseInt(days) * (24 * 60 * 60 * 1000));
+exp = exp.toUTCString();
+var cookieValue = name + '=' +  '{"date":' + now + ',"days":' + days + '}; expires=' + exp;
+// var cookieValue = {date: now, days: days};
+// cookieValue = jQuery.toJSON(cookieValue);
+document.cookie=cookieValue;
+cookie = jQuery.cookie(name);
+}
+return cookie;
+}
+function resetModalPopupCookie(name, days) {
+if ((days === undefined) || (days === null) || (days === '')) {
+return jQuery.cookie(name); // old format
+}
+// expiration provided
+var cookieValue = jQuery.cookie(name);
+if (cookieValue !== null) {
+try {
+cookieValue = jQuery.parseJSON(cookieValue);
+var cookieDays = cookieValue.days;
+var forDays = parseInt(days);
+if (cookieDays !== forDays) {
+var now = (new Date()).getTime();
+var cookeDate = cookieValue.date;
+var daysDiff = (now - cookeDate) / (24 * 60 * 60 * 1000);
+daysDiff = Math.floor(daysDiff);
+if (daysDiff > forDays) { // expire right a way
+jQuery.removeCookie(name);
+} else { // reset
+return setModalPopupCookie(name, forDays - daysDiff);
+}
+} else {
+return cookieValue;
+}
+} catch (e) { // not parsable kookie - remove it
+jQuery.removeCookie(name);
+}
+}
+return null;
+}
+if (modalItemPath !== undefined && modalItemPath !== '') {
+jQuery.colorbox.close();
+var cookieKey = itemKey + 'modal_' + modalItemPath;
+var cookieReset = resetModalPopupCookie(cookieKey, setExpiration);
+if (!setCookie || (cookieReset === null)) {
+jQuery.colorbox({title:modalWindowTitle, href:modalItemPath});
+modalItemPath = ""; // to prevent the same popup showing after ajax calls
+if (setCookie) {
+setModalPopupCookie(cookieKey, setExpiration);
+}
+}
+}
+};
 </script>
 </head>
 <body class="oneColLiqCtrHdr">
@@ -144,7 +225,7 @@ Find your chapter
 <a href="/coaches/" title="Coaches" class="level1">Coaches</a>
 </li>
 <li>
-<a href="/estore/" title="eStore" class="level1">eStore</a>
+<a href="/shop/" title="Shop" class="level1">Shop</a>
 </li>
 <li>
 <a href="/mentors/" title="Mentors/Captains" class="level1">Mentors/Captains</a>
@@ -171,7 +252,7 @@ Find your chapter
 <br class="clrall">
 <br>
 <div style="text-align:center">
-<script type="text/javascript">    addthis_pub             = 'llsetools';         addthis_brand           = 'TNT';    addthis_options         = 'email, favorites, myspace, live, twitter, google, linkedin, delicious,more';        var addthis_config = {          services_compact: 'email,twitter, more',          services_exclude: '',                    services_expanded: 'print,email,facebook,twitter,linkedin,google,stumbleupon,delicious,favorites,digg,bebo,aolmail,blogger,box,mailto,evernote,gmail,googlereader,hotmail,instapaper,myspace,orkut,pingfm,readitlater,tumblr,wordpress,yahoobkm,yahoomail' } </script> <a class="ajaxignore" title="btn_sharethis" onmouseout="addthis_close()" onclick="return addthis_sendto()" href="http://www.lls.org/assets/images/btn_sharethis.gif" target=""><img style="BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; MARGIN: 0px; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid" alt="btn_sharethis" src="https://www.teamintraining.org/assets/images/faceliftimages/btn_sharethis.jpg" width="176" height="28"></a> <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=llsetools"></script>
+<div id="sidebar_social_icons"><a href="http://www.facebook.com/myteamintraining" target="_blank"><img border="0" alt="Facebook" src="https://www.lls.org/assets/images/social/sidebar/sidebar_icon_facebook.gif" width="30" height="30"></a><a href="http://twitter.com/teamintraining" target="_blank"><img border="0" alt="Twitter" src="https://www.lls.org/assets/images/social/sidebar/sidebar_icon_twitter.gif" width="30" height="30"></a><a href="http://www.pinterest.com/llsorg/" target="_blank"><img border="0" alt="Pinterest" src="https://www.lls.org/assets/images/social/sidebar/sidebar_icon_pinterest.gif" width="30" height="30"></a><a href="http://www.youtube.com/user/LeukemiaLymphomaSoc" target="_blank"><img border="0" alt="YouTube" src="https://www.lls.org/assets/images/social/sidebar/sidebar_icon_youtube.gif" width="30" height="30"></a><a href="http://community.lls.org/blogs/lls" target="_blank"><img class="noMargin" border="0" alt="LLS Social" src="https://www.lls.org/assets/images/social/sidebar/sidebar_icon_lls_blog.gif" width="30" height="30"></a> </div>
 </div>
 </div>
 <div id="content_subpage">
@@ -254,18 +335,13 @@ Original item key = 1132183
 <img src="https://www.teamintraining.org/assets/images/nat_spon_footer.gif" width="127" height="23" alt="National Sponsors"><img src="https://www.teamintraining.org/assets/images/nat_spon_footer_fill.gif" height="23" class="natsponfiller" alt="National Sponsors">
 </div>
 <div id="sponsors">
-<table cellspacing="10" cellpadding="0" align="center"><tbody>
-<tr>
-<td><a title="Runner's World" href="http://www.teamintraining.org/sponsors/nationalsponsors/runnersworld"><img border="0" hspace="0" alt="Runner's World" src="https://www.teamintraining.org/chapter/national/image/sponsor_nat_rw.gif" width="90" longdesc="c:\after.html" height="43" mslinkref="true"></a></td>
-<td><a title="Nike" href="http://www.teamintraining.org/sponsors/nationalsponsors/nike"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" alt="Nike" src="https://www.teamintraining.org/chapter/national/image/sponsor_nat_nike.gif" width="70" longdesc="c:\after.html" height="43"></a></td>
-<td><a title="UnitedHealthcare" href="http://www.teamintraining.org/sponsors/nationalsponsors/uhc"><img style="BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; MARGIN: 0px; BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid" alt="UnitedHealthcare" src="https://www.teamintraining.org/chapter/national/image/sponsor_nat_uhc.gif" width="150" height="31"></a></td></tr></tbody></table>
 <div id="charityLogos"><div id="charityLogosContainer">
 <ul class="charityLogos">
 <li><a title="" href="https://www.hon.ch/HONcode/Conduct.html?HONConduct861938" target="_blank"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" alt="HonCode Logo" src="https://www.teamintraining.org/assets/images/charitylogos/charity_logo_honcode.gif" width="28" longdesc="c:\after.html" height="41"></a></li>
 <li><a title="" href="http://charityreports.give.org/Public/Report.aspx?CharityID=1094" target="_blank"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" alt="BBB Logo" src="https://www.teamintraining.org/assets/images/charitylogos/charity_logo_bbb.gif" width="24" longdesc="c:\after.html" height="43"></a></li>
 <li><a title="" href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=3993" target="_blank"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" alt="Charity Navigator Logo" src="https://www.teamintraining.org/assets/images/charitylogos/charity_logo_navigator.gif" width="66" longdesc="c:\after.html" height="23"></a></li>
-<li><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" alt="GuideStar Logo" src="https://www.teamintraining.org/assets/images/charitylogos/charity_logo_guidestar.gif" width="95" longdesc="c:\after.html" height="28"></li></ul></div>
-<div id="followUsContainer"><a href="http://www.teamintraining.org/firsttimehere/socialnetworking/"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" alt="Follow Us" src="https://www.teamintraining.org/assets/images/followusiconbar/follow_icon_title.png" width="67" longdesc="c:\after.html" height="24"></a><a href="http://www.facebook.com/myteamintraining" target="_blank"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="followus_icon" border="0" alt="Facebook" src="https://www.teamintraining.org/assets/images/followusiconbar/follow_icon_facebook.png" width="23" longdesc="c:\after.html" height="24"></a><a href="http://twitter.com/teamintraining" target="_blank"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="followus_icon" border="0" alt="Twitter" src="https://www.teamintraining.org/assets/images/followusiconbar/follow_icon_twitter.png" width="24" longdesc="c:\after.html" height="24"></a><a href="http://www.youtube.com/user/LeukemiaLymphomaSoc" target="_blank"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="followus_icon" border="0" alt="YouTube" src="https://www.teamintraining.org/assets/images/followusiconbar/follow_icon_youtube.png" width="24" longdesc="c:\after.html" height="24"></a><a href="http://www.teamintraining.org/firsttimehere/socialnetworking/"><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="followus_icon" border="0" alt="LLS" src="https://www.teamintraining.org/assets/images/followusiconbar/follow_icon_lls.png" width="24" longdesc="c:\after.html" height="24"></a> </div></div>
+<li><img style="BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" alt="GuideStar Logo" src="https://www.teamintraining.org/assets/images/charitylogos/charity_logo_guidestar.gif" width="95" longdesc="c:\after.html" height="28"></li></ul></div></div>
+<div id="presentingSponsor"><a href="http://www.teamintraining.org/sponsors/nationalsponsors/nike" target="_self"><img alt="Presenting Sponsor Nike" src="https://www.teamintraining.org/assets/images/sponsors/pres_sponsor_logo_nike.gif" width="87" height="50"></a> </div>
 </div>
 <div id="footer">
 <img src="/assets/images/footer_bg.gif" width="800" height="13">
