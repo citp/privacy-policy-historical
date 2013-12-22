@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624075106id_/http%3A//www.spirithalloween.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153413id_/http%3A//www.spirithalloween.com/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy
 
-Do you have a security guarantee?
+**Do you have a security guarantee?**
 
   * Absolutely. We take your business seriously and will use every precaution necessary to ensure that your shopping experience is safe and exciting! We use McAfee Secure to keep your private information and credit card information as secure as possible. 
 
 
 
-What is Spirit Halloween's privacy policy?
+**What is Spirit Halloween's privacy policy?**
 
-What This Privacy Policy Covers
+**What This Privacy Policy Covers**
 
   * This policy covers how Spirit Halloween Superstores LLC ("Spirit") treats personal information that Spirit collects and receives, including information related to your past use of Spirit products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
   * This policy does not apply to the practices of companies that Spirit does not own or control, or to people that Spirit does not employ or manage. 
 
 
 
-## Information Collection and Use
+**Information Collection and Use**
 
 _General_
 
@@ -25,8 +25,18 @@ _General_
   * When you register for Spirit, we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Spirit and sign in to our services, you are not anonymous to us. 
   * Spirit collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
   * Spirit uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-  * _Spirit_ _has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold bySpirit. When you submit a product review to Spirit, you  are also subject to PowerReviews' terms of use and privacy policies (see   _<http://www.buzzillions.com/public/legal/privacy_policy_en_US.html>_ ).  Accordingly, you should review those policies prior to submitting a review.   Also, reviews you submit may be posted on both _<http://www.buzzillions.com/>_  and our site._
+  * _Spirit has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold by Spirit. When you submit a product review to Spirit, you  are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/privacy_policy_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both <http://www.buzzillions.com/> and our site. _
 
+
+
+_E-mail_
+
+  * _To opt-out of promotional e-mail, click the opt-out link at the bottom of your e-mail or contact us here:
+
+Spencer's Online, 6826 Black Horse Pike, Egg Harbor Township, NJ 08234  
+866-586-0155; [GuestServices@spirithalloween.com](mailto:GuestServices@spirithalloween.com)
+
+_
 
 
 
@@ -53,13 +63,55 @@ If you provide us with your postal address, you may receive mailings from us w
 
 
 
-## Confidentiality and Security 
+**Confidentiality and Security**
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
 
 
 
-## Changes to this Privacy Policy
+**Spirit's Promo Alerts HELP:**
 
-Spirit may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to your email address. 
+Spirit's customers may opt-in to receive promotional alerts. Spirit's customers have several options for opt-in that include online, Point-of-sale or via keyword from their mobile device. This page is intended to assist Spirit's customers with any mobile questions.
+
+Q: How do I opt-out of Spirit's Promo Alerts?
+
+**A** : For all Mobile campaigns, you can text SPIRIT CANCEL to 77039 and you will be opted out of all future messages. Standard carrier rates apply.  
+Please note: these words are not case sensitive. 
+
+Q: Is there another way I can opt-out of Spirit's Promo Alerts?
+
+**A** : If you prefer to opt-out via phone or email, contact www.spirithalloween.com at 866-586-0155, at GuestServices@spirithalloween.com or by mail at: 
+
+Spencer Gifts, LLC  
+6826 Black Horse Pike  
+Egg Harbor Township, NJ 08234 
+
+Q: I'd like to join Spirit's Promo Alerts! Where can I sign up?
+
+**A** : Text SPIRIT JOIN to 77039  
+OR  
+1\. Create or edit your account with spirithalloween.com by visiting https://checkout.spirithalloween.com/Pages/PreferenceCenter/PreferenceCenter.aspx  
+2\. Enter your mobile number under My Information in addition to all other required fields  
+3\. Click the Submit button at the bottom of the page  
+
+
+Q: Does Spirit's Promo Alerts work with most wireless carriers?
+
+**A** : Spirit's Promo Alerts is compatible with all major wireless carriers, including: 
+
+  * AT&T
+  * Verizon Wireless (not mobile downloads)
+  * Sprint/Nextel
+  * T-Mobile®
+  * Alltel
+  * U.S. Cellular®
+  * Many other smaller/regional carriers
+
+
+
+If you require clarification of any rules, regulations or procedures relating to your privacy, your rights and the operation of this or any other www.spirithalloween.com campaign, please read our Privacy Policy or contact Customer Service. 
+
+**Changes to this Privacy Policy**
+
+Spirit may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to your email address.
