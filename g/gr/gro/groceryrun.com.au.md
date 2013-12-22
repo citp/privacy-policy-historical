@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611105953id_/http%3A//www.groceryrun.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222030036id_/http%3A//www.groceryrun.com.au/privacy) for the most accurate reproduction.*
 
 # Groceries online | Online Grocery Store | GroceryRun.com.au
 
@@ -75,7 +75,7 @@ We take steps to protect the personal information we hold against loss, unauthor
 **5.1** Under the _Privacy Act 1988_ (Cth), you have certain rights to access the personal information we collect and hold about you. 
 
 **5.2** Generally, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested.   
-You may make a request by sending us an email using our [Help Centre](https://helpcentre.groceryrun.com.au/) or by writing to us at:   
+You may make a request by sending us an email using our [Help Centre](https://www.groceryrun.com.au/helpcentre) or by writing to us at:   
 Office of the Chief Information Officer  
 GroceryRun.com.au Pty Ltd  
 767 Springvale Road  
