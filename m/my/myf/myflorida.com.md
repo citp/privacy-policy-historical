@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myflorida.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517224542id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflorida.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223003650id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
 
 # MyFlorida.com - Home Page
 
