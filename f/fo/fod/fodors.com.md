@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104635id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222024838id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fodor's Travel
 
-Last Changes to Privacy Policy: February 1, 2013
+Last Changes to Privacy Policy: July 3, 2013
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Random House network of websites including the randomhouse.com website; our divisional and imprint websites (e.g., bantam-dell.atrandom.com, crownpublishing.com, fodors.com, knopfdoubleday.com, livinglanguage.com, primagames.com); genre websites hosted and maintained by us (e.g., suvudu.com, booksforbetterliving.com, wordandfilm.com); Random House author sites hosted and maintained by us; all email newsletters published by Random House, including on behalf of our authors; all apps published by Random House; and all other interactive features, services, and communications provided by Random House (collectively, "Sites"), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Random House, Inc. (collectively, "Random House" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Random House network of websites including the randomhouse.com website; our divisional and imprint websites (e.g., bantam-dell.atrandom.com, crownpublishing.com, fodors.com, knopfdoubleday.com, livinglanguage.com, primagames.com); genre websites hosted and maintained by us (e.g., suvudu.com, booksforbetterliving.com, wordandfilm.com); Random House author sites hosted and maintained by us; all email newsletters published by Random House, including on behalf of our authors; all apps published by Random House; and all other interactive features, services, and communications provided by Random House (collectively, "Sites"), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Random House LLC. (collectively, "Random House" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Sites. It does not apply to information that you may submit to us offline, or to Sites maintained by other companies or organizations to which we may link or who may link to us.
 
@@ -33,7 +33,7 @@ If you have any questions about this Privacy Policy or don't see your concerns a
 
 **Controllers of Personal Information**
 
-Any personal information provided to or to be gathered by Random House is controlled primarily by Random House, Inc., 1745 Broadway, New York, NY 10019.
+Any personal information provided to or to be gathered by Random House is controlled primarily by Random House LLC., 1745 Broadway, New York, NY 10019.
 
 **What Information About Me Is Collected and Stored?**
 
@@ -122,7 +122,7 @@ We use the information we learn from you to help us personalize and continually 
 
 **Combination of Your Personal Information**
 
-We use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by Random House, Inc. and may combine information gathered from multiple portions of the Sites into a single customer record. We also use and/or combine information that we collect off-line or from third party sources to enhance and check the accuracy of your customer records. 
+We use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by Random House LLC and may combine information gathered from multiple portions of the Sites into a single customer record. We also use and/or combine information that we collect off-line or from third party sources to enhance and check the accuracy of your customer records. 
 
 **Use of Your Location Information**
 
