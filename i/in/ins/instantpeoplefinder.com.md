@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpeoplefinder.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035742id_/http%3A//www.instantpeoplefinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpeoplefinder.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222030759id_/http%3A//www.instantpeoplefinder.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Instant People Finder
 
