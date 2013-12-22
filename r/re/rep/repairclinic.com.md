@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairclinic.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604073913id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairclinic.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222084028id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - RepairClinic.com
 
@@ -21,7 +21,7 @@ By using the web site http://www.repairclinic.com (the “Site”), you agree to
 
 **Surveys:** From time to time, we may offer you the opportunity to participate in one of our surveys or other customer research. The information obtained through our surveys and customer research is used in an aggregated, non-personally identifiable form. We use this information to help us understand our customers, and to enhance our product and service offerings, promotions and events. 
 
-**Contact Us:** We also collect information when you contact us with a question, comment or complaint, including when you use our Live Chat program or submit a request for repair help from the RepairGuru. For example, we may collect your name, email address and any additional information we need to help us respond to your question or comment (such as your order number or any product information). We may retain this information to assist you in the future and to improve our customer service, product and service offerings. 
+**Contact Us:** We also collect information when you contact us with a question, comment or complaint, including when you use our Live Chat program. For example, we may collect your name, email address and any additional information we need to help us respond to your question or comment (such as your order number or any product information). We may retain this information to assist you in the future and to improve our customer service, product and service offerings. 
 
   
 
