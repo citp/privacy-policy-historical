@@ -1,21 +1,15 @@
-> *The following text is extracted and transformed from the greedygals.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206083551id_/http%3A//www.bustycollegecoeds.com/tour2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greedygals.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222184225id_/http%3A//network.newsensations.com/privacy.htm) for the most accurate reproduction.*
 
-# BUSTY College Coeds! Privacy
+# New Sensations Network - Privacy Policy
 
-  | 
+**We take your privacy seriously.**
 
-**:: Our Privacy Policy and Commitment to You ::**
+Please read the following to learn more about our privacy policy and to learn more about how we treat personally identifiable information collected in connection with the products and services we offer. 
 
-BUSTYCOLLEGECOEDS.COM is committed to establishing and maintaining a trusting relationship with all our customers and members. BUSTYCOLLEGECOEDS.COM takes privacy issues very seriously and is committed to complying with all applicable privacy laws. However, in order to conduct business, we must collect some important confidential and personal information from our members.
+Information Collection and Use  
+This site collects personally identifiable information when you register for access to this Web site. Once you become a NewSensations.com member or customer, you are not anonymous to us. 
 
-This may raise some concern as to what we do with your personal information. You can be assured that BUSTYCOLLEGECOEDS.COM will never disclose or sell such information to any third parties, businesses or individuals unless we are compelled to do so by court order, subpoena, or other legal processes. If, as a member of BUSTYCOLLEGECOEDS.COM, you feel we are falling short in our commitment to maintain your privacy, please contact us immediately and let us know. 
+This site automatically receives and records information from your browser including cookie information and the page you requested. This site uses this information for the following purposes: to provide heightened security and fulfill your requests for certain products and services. 
 
-The personal and confidential information we collected will ONLY be used to advertise and promote our sites as well as special offers. You personal information will NEVER be used to receive goods or services delivered to your home or business address. If you wish to remove yourself from any future electonic mailings, please email us and your email address will be promptly removed from our database.
-
-  
-
-
-All content, images, design & intellectual properties © Copyright Busty College Coeds.
-
-  
-|  
+Information Sharing and Disclosure  
+This site will not sell, rent, or make available your personally identifiable information to anyone. 
