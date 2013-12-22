@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usq.edu.au privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513191518id_/http%3A//usq.edu.au/aboutsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usq.edu.au privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222140329id_/http%3A//www.usq.edu.au/about-site/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Collection
+## Collection 
 
-We will only collect information that is necessary for USQ purposes. We will tell you what we intend to do with information about you. Where practicable, we will collect personal information directly from you. 
+We will only collect information that is necessary for USQ purposes. We will tell you what we intend to do with information about you. Where practicable, we will collect personal information directly from you. 
 
 ## Use and disclosure
 
@@ -20,7 +20,7 @@ We will take reasonable steps to keep information about you secure.
 
 ## Access and correction
 
-Wherever possible we will let you see the information we hold about you and correct it if it is wrong. Reasonable steps are taken to ensure servers are secure and to prevent unauthorized access to our equipment or data.
+Wherever possible we will let you see the information we hold about you and correct it if it is wrong. Reasonable steps are taken to ensure servers are secure and to prevent unauthorized access to our equipment or data.
 
 ## Links to other sites
 
@@ -28,7 +28,4 @@ The USQ website provides links to other websites outside of this domain. The USQ
 
 ## Additional information
 
-  * [Privacy Policy](http://policy.usq.edu.au/portal/custom/detail/privacy-policy/)
-
-  
-
+[Privacy Policy](http://policy.usq.edu.au/portal/custom/detail/privacy-policy/)
