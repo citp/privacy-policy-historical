@@ -1,247 +1,728 @@
-<!--The following is the downloaded HTML source of the irazoo.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211032950id_/http%3A//www.irazoo.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the irazoo.com privacy policy that was archived on 2013-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222064318id_/http%3A//www.irazoo.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_head1"><title>
-	 Search Engine, Meta search engine, Best search engine 
-</title>
-    <meta name="keywords" content="best search engine, search engine, free search engine, meta search engine, search engine marketing company, people search engine, web site search engine, rewards, open source search engine">
-    <meta name="description" content="iRazoo is a user recommended, points driven, search engine. Get points for each search and exchange them for gift cards, cameras and more!">
-    <meta name="Language" content="English"><meta name="Robots" content="All">    
-        
-    <style type="text/css">
-		@import url('../Css/Style.css');
-    </style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_head1"><title>
+	
+        earn points, search engines, win free gift cards
     
-    <script>
-        function ValidateSearch()
-        { 
-        var str=document.getElementById('ctl00_textBoxSearch').value;
-            if(str.indexOf("<")>-1 || str.indexOf(">")>-1 || str.toLowerCase().indexOf("&lt;")>-1 || str.toLowerCase().indexOf("&gt;")>-1)
-            {
-                document.getElementById('ctl00_labelPointsMessage').innerText="The search keywords contain invalid characters!";
+</title>
+    
+    
+   
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="/javascript/jquery.dropDown.pack.js"></script>
+
+    <link href="/css/reset.css" rel="stylesheet" type="text/css"><link href="/css/styleredesigned.css" rel="stylesheet" type="text/css"><link href="/css/stylenew.css" rel="stylesheet" type="text/css">
+    <!--[if lte IE 8]><link href="Master/css/lte_ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+    
+    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $(".sub_menu").hide();
+
+            $(".main_menu>li").hover(
+                function () {
+                    $(this).addClass('hover').find(".sub_menu").slideDown('fast');
+                },
+                function () {
+                    $(this).find(".sub_menu").stop(true).slideUp().parent().removeClass("hover");
+                }
+            );
+
+            try {
+                $('ul#nav').NavDropDown();
+            } catch (e) { }
+
+            var progress = parseInt("0") ;
+            var points = 600;
+            var perct = 0;
+            //var person = getSearch();
+            if (true){ //(!$.isEmptyObject(person)) {
+                if (progress > 600) {
+                    progress = 600
+                }
+                else if (progress < 0) {
+                    progress = 0
+                }
+                //else {
+                //    progress = person.progr;
+                //}
+                //points = person.points;
+            }
+            else {
+                progress = 1;
+                points = 0;
+            }
+            perct = ((100*progress)/points);
+            $('.progress_bar .progress').css('width', perct + '%');
+            $('.progress_bar .progress .tooltip').html('0' + ' Points');
+            
+      
+            $(".progress_bar .progress").hover(
+                function () {
+                    $(this).find(".tooltip").stop(true).fadeIn();
+                },
+                function () {
+                    $(this).find(".tooltip").stop(true).fadeOut();
+                }
+            );
+    
+            
+
+        });
+    </script>
+    <script type="text/javascript">
+        try{
+        $(function () {
+            $('ul.menu_left2 li').click(function () {
+                $('ul.menu_left2 li').removeClass('active'); // у всех убираем класс 'selected'
+                $(this).addClass('active'); // текушей вкладке добавляем класс 'selected'
+                return false;
+            }).filter(':first').click();
+        });
+        } catch (e) { }
+    </script>
+    <meta http-equiv="x-ua-compatible" content="ie=7"><meta http-equiv="Content-Type" content="text/html; charset=GB2312"><meta name="keywords" content="<%=GetKeywords() %>"><meta name="description" content="<%=GetDescription() %>"><meta name="Language" content="English"><meta name="classification" content="<%=GetKeywords() %>"><meta name="Robots" content="<%=GetRobots() %>">
+    <style type="text/css">
+        @import url('/Css/Styleredesigned.css');
+        @import url('/Css/StyleNew.css');
+        /*@import url('/Css/Style.css');*/
+        @import url('/Css/styles_irazoo.css');
+    </style>
+    <script type="text/javascript">var GB_ROOT_DIR = "http://www.irazoo.com/greybox/";</script><script type="text/javascript" src="../greybox/AJS.js"></script><script type="text/javascript" src="../greybox/AJS_fx.js"></script><script type="text/javascript" src="../greybox/gb_scripts.js"></script><link href="../greybox/gb_styles.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+    <!--
+    function silentErrorHandler() { return true; }
+    window.onerror = silentErrorHandler;
+    //-->
+    </script>
+    <link rel="shortcut icon" href="/images/favicon.ico"><link type="text/css" rel="stylesheet" media="screen" href="/css/styles.css">
+
+    <script type="text/javascript">
+        var curUrlVal = "";
+        var refresh = false;
+        function ValidateSearch() {
+            var str = document.getElementById('ctl00_textBoxSearch').value;
+            if (str.indexOf("<") > -1 || str.indexOf(">") > -1 || str.toLowerCase().indexOf("&lt;") > -1 || str.toLowerCase().indexOf("&gt;") > -1) {
+                if (document.all) {
+                    document.getElementById('ctl00_labelPointsMessage').innerText = "The search keywords contain invalid characters!";
+                } else {
+                    document.getElementById('ctl00_labelPointsMessage').textContent = "The search keywords contain invalid characters!";
+                }
                 return false;
             }
             return true;
         }
-        function ValidateSearchFooter()
-        { 
-        var str=document.getElementById('ctl00_textBoxSearchFooter').value;
-            if(str.indexOf("<")>-1 || str.indexOf(">")>-1 || str.toLowerCase().indexOf("&lt;")>-1 || str.toLowerCase().indexOf("&gt;")>-1)
-            {
-                document.getElementById('ctl00_labelPointsMessage').innerText="The search keywords contain invalid characters!";
-                return false;
-            }
-            return true;
+        function ValidateSearchFooter() {
+            try {
+                var str = document.getElementById('ctl00_textBoxSearchFooter').value;
+                if (str.indexOf("<") > -1 || str.indexOf(">") > -1 || str.toLowerCase().indexOf("&lt;") > -1 || str.toLowerCase().indexOf("&gt;") > -1) {
+                    document.getElementById('ctl00_labelPointsMessage').innerText = "The search keywords contain invalid characters!";
+                    return false;
+                }
+                return true;
+            } catch (e) { }
         }
-        function HeaderSearchClick()
-        {
+        function HeaderSearchClick() {
             var objtxtSearch = document.all.txtHeaderSearch;
-            window.location.href="SearchResults.aspx?q="+objtxtSearch.value+"&Page=1";
-        }  
-        
-        function FooterSearchClick()
-        {
+            window.location.href = "SearchResults.aspx?q=" + objtxtSearch.value + "&Page=1";
+        }
+
+        function FooterSearchClick() {
             var objtxtSearch = document.all.txtFooterSearch;
-            window.location.href="SearchResults.aspx?q="+objtxtSearch.value+"&Page=1";
-        }  
-        function fnSubmit(e)
-        {
+            window.location.href = "SearchResults.aspx?q=" + objtxtSearch.value + "&Page=1";
+        }
+        function fnSubmit(e) {
             var keynum
             var keychar
             var numcheck
-            
-            if(window.event) // IE
+
+            if (window.event) // IE
             {
                 keynum = e.keyCode
             }
-            else if(e.which) // Netscape/Firefox/Opera
+            else if (e.which) // Netscape/Firefox/Opera
             {
                 keynum = e.which
             }
             keychar = String.fromCharCode(keynum)
-            if (keynum == 13)
-            {
+            if (keynum == 13) {
                 var objtxtSearch = document.all.txtHeaderSearch;
-                window.location.href="SearchResults.aspx?q="+objtxtSearch.value+"&Page=1";
+                window.location.href = "SearchResults.aspx?q=" + objtxtSearch.value + "&Page=1";
             }
         }
 
-        function fnSetSearch1(strtype)
-        {
+        function fnSetSearch1(strtype) {
             document.getElementById('ctl00_txtSearchType').value = strtype;
 
             document.getElementById('lnkWebTab').style.fontWeight = "normal";
             document.getElementById('lnkWebTab1').style.fontWeight = "normal";
-            //document.getElementById('lnkImageTab').style.fontWeight = "normal";
+
             document.getElementById('lnkNewsTab').style.fontWeight = "normal";
             document.getElementById('lnkNewsTab1').style.fontWeight = "normal";
             document.getElementById('lnkVideoTab').style.fontWeight = "normal";
             document.getElementById('lnkVideoTab1').style.fontWeight = "normal";
             document.getElementById('lnkRazooPediaTab').style.fontWeight = "normal";
             document.getElementById('lnkRazooPediaTab1').style.fontWeight = "normal";
+            document.getElementById('lnkImageTab').style.fontWeight = "normal";
+            document.getElementById('lnkImageTab1').style.fontWeight = "normal";
+            //document.getElementById('lnkShoppingTab').style.fontWeight = "normal";
+            //document.getElementById('lnkShoppingTab1').style.fontWeight = "normal";
+
             //document.getElementById('lnkDictTab').style.fontWeight = "normal";
 
-            if (strtype == 'w' || strtype == 'W')
-            {
+            if (strtype == 'w' || strtype == 'W') {
                 document.getElementById('lnkWebTab').style.fontWeight = "bold";
                 document.getElementById('lnkWebTab1').style.fontWeight = "bold";
             }
-            else if (strtype == 'i' || strtype == 'I')
-            {
-                //document.getElementById('lnkImageTab').style.fontWeight = "bold";
-            }    
-            else if (strtype == 'v' || strtype == 'V')
-            {
+            else if (strtype == 'i' || strtype == 'I') {
+                //alert('image');
+                document.getElementById('lnkImageTab').style.fontWeight = "bold";
+                document.getElementById('lnkImageTab1').style.fontWeight = "bold";
+            }
+            else if (strtype == 'v' || strtype == 'V') {
                 document.getElementById('lnkVideoTab').style.fontWeight = "bold";
                 document.getElementById('lnkVideoTab1').style.fontWeight = "bold";
             }
-            else if (strtype == 'r' || strtype == 'R')
-            {
+            else if (strtype == 'r' || strtype == 'R') {
                 document.getElementById('lnkRazooPediaTab').style.fontWeight = "bold";
                 document.getElementById('lnkRazooPediaTab1').style.fontWeight = "bold";
             }
-            else if (strtype == 'd' || strtype == 'D')
-            {
+            else if (strtype == 'd' || strtype == 'D') {
                 //document.getElementById('lnkDictTab').style.fontWeight = "bold";
             }
-            else if (strtype == 'n' || strtype == 'N')
-            {
+            else if (strtype == 'n' || strtype == 'N') {
                 document.getElementById('lnkNewsTab').style.fontWeight = "bold";
                 document.getElementById('lnkNewsTab1').style.fontWeight = "bold";
-            }    
+            }
+            else if (strtype == 's' || strtype == 'S') {
+                //document.getElementById('lnkShoppingTab').style.fontWeight = "bold";
+                //document.getElementById('lnkShoppingTab1').style.fontWeight = "bold";
+            }
         }
 
-        function fnSetSearch()
-        {
-            try
-            {
-            var strType = document.getElementById('ctl00_txtSearchType').value;
-            fnSetSearch1(strType);
+        function fnSetSearch() {
+            try {
+                var strType = document.getElementById('ctl00_txtSearchType').value;
+                    fnSetSearch1(strType);
+                }
+                catch (e) {
+
+                    //alert(e.Message);
+                }
             }
-            catch(e)
-            {
-                //alert(e.Message);
+
+            // Removes leading whitespaces
+            function LTrim(value) {
+
+                var re = /\s*((\S+\s*)*)/;
+                return value.replace(re, "$1");
+
             }
-            
-        }
-        
+
+            // Removes ending whitespaces
+            function RTrim(value) {
+
+                var re = /((\s*\S+)*)\s*/;
+                return value.replace(re, "$1");
+
+            }
+
+            // Removes leading and ending whitespaces
+            function trim(value) {
+
+                return LTrim(RTrim(value));
+
+            }
+
+            function fnModalWindowCallBack() {
+                if (curUrlVal != '') {
+                    window.location.href = curUrlVal;
+                }
+                else {
+                    if (refresh)
+                        window.location.href = window.location.href;
+                }
+            }
+
+            function fnLoadUrl(urlVal) {
+                curUrlVal = urlVal;
+                //window.location.href = urlVal;
+            }
+
+            function fnSetRefresh() {
+                refresh = true;
+            }
+
     </script>
-</head>
-<body topmargin="0px" leftmargin="5px" rightmargin="5px" bottommargin="0px">
+    <script language="JavaScript" type="text/javascript">
+        function install_tb_complete(name, result) {
+            if (result != 0 && result != 999) alert("An error occured: " + result);
+            else alert("Restart the browser to finish installation");
+        }
 
- 
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICBw9kFigCAw9kFgICBQ8PZBYCHgdvbmNsaWNrBRdyZXR1cm4gVmFsaWRhdGVTZWFyY2goKWQCBA8PFgIeB1Zpc2libGVoZGQCBQ8PFgIfAWhkZAIGDw8WAh8BaGRkAgcPDxYCHwFoZGQCCA8PFgIfAWdkZAIJDw8WAh8BaGRkAgoPDxYCHwFnZGQCCw8PFgIfAWhkZAIMDw8WAh8BaGRkAg8PFgIeBGhyZWYFIC9Qcm9kdWN0ZGV0YWlscy5hc3B4P1Byb2R1Y3RJRD01FgJmDw8WAh4ISW1hZ2VVcmwFHC9pbWFnZXMvMWdiX2lwb2Rfc2h1ZmZsZS5qcGdkZAIQDxYCHwIFIC9Qcm9kdWN0ZGV0YWlscy5hc3B4P1Byb2R1Y3RJRD05FgJmDw8WAh8DBRUvaW1hZ2VzL1Nvbnk3LjJtcC5qcGdkZAIRDxYCHwIFIC9Qcm9kdWN0ZGV0YWlscy5hc3B4P1Byb2R1Y3RJRD04FgJmDw8WAh8DBRcvaW1hZ2VzL2lUdW5lc19jYXJkLmpwZ2RkAhIPFgIfAgUhL1Byb2R1Y3RkZXRhaWxzLmFzcHg/UHJvZHVjdElEPTExFgICAQ8PFgIfAwUnL2ltYWdlcy9hbWF6b24gZ2lmdCBjZXJ0aWZpY2F0ZSBiaWcuanBnZGQCEw8PFgIeBFRleHQFCmlQb2QgKDFHQilkZAIUDw8WAh8EBQZDYW1lcmFkZAIVDw8WAh8EBQtpVHVuZXMoJDI1KWRkAhYPDxYCHwRlZGQCFw9kFgICAw8PZBYCHwAFHXJldHVybiBWYWxpZGF0ZVNlYXJjaEZvb3RlcigpZAIZDw8WAh8EBcEBPHNjcmlwdD5kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZm9vdGVyQ2F0YWxvZycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7PC9zY3JpcHQ+PHNjcmlwdD5kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGJsVGh1bWJzaG90cycpLnN0eWxlLmRpc3BsYXkgPSAnbm9uZSc7PC9zY3JpcHQ+PHNjcmlwdD5mblNldFNlYXJjaCgpOzwvc2NyaXB0PmRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRJjdGwwMCRidXR0b25TZWFyY2gFGGN0bDAwJGJ1dHRvblNlYXJjaEZvb3Rlcg==">
+        function Install_tb_XPI() {
+            var xpi = new Object();
+            xpi["iRazoo_Toolbar"] = "Toolbar/irazoo_toolbar.xpi";
+            InstallTrigger.install(xpi, install_tb_complete);
+        }
+    </script>
+    
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body>
+    <div id="wrap_site">
+        
+        
+        <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgQCAQ9kFgICDQ8WAh4EVGV4dAXuAjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij52YXIgR0JfUk9PVF9ESVIgPSAiaHR0cDovL3d3dy5pcmF6b28uY29tL2dyZXlib3gvIjs8L3NjcmlwdD48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSIuLi9ncmV5Ym94L0FKUy5qcyI+PC9zY3JpcHQ+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLi4vZ3JleWJveC9BSlNfZnguanMiPjwvc2NyaXB0PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii4uL2dyZXlib3gvZ2Jfc2NyaXB0cy5qcyI+PC9zY3JpcHQ+PGxpbmsgaHJlZj0iLi4vZ3JleWJveC9nYl9zdHlsZXMuY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPmQCBw9kFg4CDQ9kFgJmD2QWAgIBD2QWAmYPZBYIAgEPZBYCAgEPDxYCHgdWaXNpYmxlaGRkAgIPZBYEAgMPFgIfAWhkAgUPFgIfAWgWAgIBDw8WAh8AZWRkAgMPZBYEAgEPDxYCHwFoZGQCAw8PFgIfAWdkZAIFD2QWBAIBDw8WAh8BaGRkAgMPFgIeBGhyZWYFDS9EZWZhdWx0LmFzcHhkAg4PFgQfAgUNL0RlZmF1bHQuYXNweB4JaW5uZXJodG1sBQZMb2cgSW5kAg8PFgIfAWhkAhAPFgIfAWhkAhIPD2QWAh4Hb25jbGljawUXcmV0dXJuIFZhbGlkYXRlU2VhcmNoKClkAhQPZBYCZg9kFhQCAQ8PFgQfAAUHYmlyZG1hbh4LTmF2aWdhdGVVcmwFGi9Qb3B1bGFyU2l0ZXMvYmlyZG1hbi5hc3B4ZGQCAw8PFgQfAAUQYnJhbmR5IGFsZXhhbmRlch8FBSMvUG9wdWxhclNpdGVzL2JyYW5keS1hbGV4YW5kZXIuYXNweGRkAgUPDxYEHwAFDWRpbmtpbiBmbGlja2EfBQUgL1BvcHVsYXJTaXRlcy9kaW5raW4tZmxpY2thLmFzcHhkZAIHDw8WBB8ABQpkb24ga25vdHRzHwUFHS9Qb3B1bGFyU2l0ZXMvZG9uLWtub3R0cy5hc3B4ZGQCCQ8PFgQfAAUGZHJhd3MgHwUFGS9Qb3B1bGFyU2l0ZXMvZHJhd3MtLmFzcHhkZAILDw8WBB8ABRZSb2JlcnQgSC4gV2F0ZXJtYW4sIEpyHwUFMS9JbnRlcmVzdGluZ1RvcGljcy9Sb2JlcnQtSF9wZF8tV2F0ZXJtYW4sLUpyLmFzcHhkZAINDw8WBB8ABRdSb2JlcnQgSC4gV2F0ZXJtYW4sIEpyLh8FBTUvSW50ZXJlc3RpbmdUb3BpY3MvUm9iZXJ0LUhfcGRfLVdhdGVybWFuLC1Kcl9wZF8uYXNweGRkAg8PDxYEHwAFD1BvbGl0aWNhbCB0b29scx8FBScvSW50ZXJlc3RpbmdUb3BpY3MvUG9saXRpY2FsLXRvb2xzLmFzcHhkZAIRDw8WBB8ABRNNaWRkbGVidXJ5LCBWZXJtb250HwUFKy9JbnRlcmVzdGluZ1RvcGljcy9NaWRkbGVidXJ5LC1WZXJtb250LmFzcHhkZAITDw8WBB8ABRNLZWVwZXJvZnRoZWJlZXMuanBnHwUFLi9JbnRlcmVzdGluZ1RvcGljcy9LZWVwZXJvZnRoZWJlZXNfcGRfanBnLmFzcHhkZAIWDw8WAh8ABd8BPHNjcmlwdD50cnl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2Zvb3RlckNhdGFsb2cnKS5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnO31jYXRjaChlKXt9PC9zY3JpcHQ+PHNjcmlwdD50cnl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RibFRodW1ic2hvdHMnKS5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnO31jYXRjaChlKXt9PC9zY3JpcHQ+PHNjcmlwdD5mblNldFNlYXJjaCgpOzwvc2NyaXB0PmRkZA==">
 
-        <input name="ctl00$txtSearchType" type="text" value="w" id="ctl00_txtSearchType" style="display:none;">
-        <input name="ctl00$txtChanged" type="text" value="f" id="ctl00_txtChanged" style="display:none;">
-        <!---Header Begin-->
-        <div id="header" align="left">
-            <input type="hidden" name="ctl00$hdnSubmit" id="ctl00_hdnSubmit"> 
-            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#991B1F;">
-                <tbody><tr>
-                    <td valign="top">
-                        <table>
-                            <tbody><tr>
-                                <td><a href="../Default.aspx"><img alt="iRazoo" border="0" src="../images/newiRazooHeaderLogo.gif"></a></td>
-                                
-                                <td style="font-family:Arial;color:Gray;"><tt><font size="-1"><sup>TM</sup></font></tt></td>
-                            </tr>
-                        </tbody></table>
-                     </td>
-                     <td align="left" style="width:auto;" nowrap="">
-                        <div id="ctl00_panelHeader">
-	
-                        <table width="300px" cellspacing="4" border="0">
-                            
-                              <tbody><tr>
-                                <td colspan="2" nowrap=""><span id="ctl00_labelPointsMessage"><font color="White"></font></span></td>
-                              </tr>
-                              <tr>
-                                  <td align="left">
-	                                <table cellpadding="0" cellspacing="0" border="0">
-	                                    <tbody><tr>
-	                                        <td>
-	                                            <font color="white">
-	                                                &nbsp;
-	                                                <a id="lnkWebTab" href="javascript:fnSetSearch('w');document.getElementById('ctl00_buttonSearch').click();" style="color: white; font-weight: bold;">Web</a>
-	                                                &nbsp;|&nbsp;
-	                                                <a id="lnkNewsTab" href="javascript:fnSetSearch('n');document.getElementById('ctl00_buttonSearch').click();" style="color: white; font-weight: normal;">News</a>
-	                                                &nbsp;|&nbsp;
-	                                                <a id="lnkVideoTab" href="javascript:fnSetSearch('v');document.getElementById('ctl00_buttonSearch').click();" style="color: white; font-weight: normal;">Video</a>
-	                                                &nbsp;|&nbsp;
-	                                                <a id="lnkRazooPediaTab" href="javascript:fnSetSearch('r');document.getElementById('ctl00_buttonSearch').click();" style="color: white; font-weight: normal;">Razoopedia</a>
-	                                             </font> 
-	                                        </td>
-	                                    </tr>
-	                                    <tr>
-	                                        <td width="100%" align="center">
-	                                            <input name="ctl00$textBoxSearch" type="text" maxlength="100" size="40" id="ctl00_textBoxSearch">&nbsp;&nbsp;
-	                                            <input type="image" name="ctl00$buttonSearch" id="ctl00_buttonSearch" src="/images/search.gif" onclick="return ValidateSearch();" border="0" style="width:51px;">
-	                                        </td>
-	                                    </tr>
-                                    </tbody></table>                                     
-                                  </td>
-                                <td>
-                            </td></tr>
-                        </tbody></table>
-                        
-</div>
-                     </td>
-                     <td align="right" valign="top" style="width:100%;">
-                        <table cellspacing="4">
-                            <tbody><tr>
-                                <td>
-                                    
-                                    
-                                </td>
-                                <td>
-                                                
-                                </td>
-                                <td>
-                                    
-                                    
-                                    <a id="ctl00_lnkNewUser" class="text2" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnkNewUser", "", false, "", "/NewUser.aspx", false, true))'>Register</a>
-                                </td>
-                                <td>
-                                                
-                                    <a id="ctl00_lnkSignin" class="text2" href="javascript:__doPostBack('ctl00$lnkSignin','')">Sign in</a>            
-                                </td>
-                            </tr>
-                            
-                            <tr>
-                               <td colspan="4" align="right" style="color:red;font-size:small;">
-                                    
-                                    
-                               </td> 
-                            </tr>
-                        </tbody></table>
-                        
-                    </td>
-                </tr>
-                              
-            </tbody></table>
-             <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#991B1F;">
-                <tbody><tr>
-                    <td>&nbsp;</td>
-                </tr>
-            </tbody></table>
-            <table width="100%" cellpadding="0" cellspacing="0">
-                <tbody><tr style="background-image:url(/images/GrayGradiant.gif)">
-                    <td colspan="3" height="20">
-                    <div id="divpgHeader" style="font-weight: bold; font-size: 12pt; color: black; font-family: Arial, Tahoma, Verdana, Helvetica;"> Privacy</div>
-                    </td>
-                </tr>              
-                
-            </tbody></table>
-        </div>
-        <!-- Header end -->                 
-        <div>
+
+<script src="/ScriptResource.axd?d=s9ncLsHubmJjpp2FmKjkyh7BRhIXHQmBsER13gMfettJnc_yzVh1LSkhiEvmcOUuK-ATS4zG95hoQCUZZ8956UOYvPYgJl8IjqXSay9GPnmIjwVuGX1ycv0s3eFZilpKOBS2kueczNgOP3xaMEjlBw2&amp;t=fffffffff2b1ef38" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="PkDcQTJQUjDAt9R9dNl9wzavc5wAxjpXhKaOv4Tiz8F5q7hAQGkQEQn4tG-XTsO6PTokDRqBzrT3e5GdcYTYAXDW2o-7SgrUCnYBrIFqmRA1">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAx6tv54cAb1NLbfxZdJssuZESyiCw5nLAjwUPgi1nmHghHjTGd8emm7odCPHopeztiwKl7IC/dIox/vXycUslUP9FdbFhIk4MofelTqIxxWqMaflR521OIOrcIKgnqO8zL0eRNeR7BB680nVGRio3x2QRC8e7CTbgVoQCWQlZprNvflzULDgEG8MqIQdDjtlWdrQY6k9xDk9/UIpHssYZehfYzRQ/8KPNj6NqPcgay+FuE+StI2sCPc3nHR/7E6TsY=">
+            <input type="hidden" name="ctl00$hdnAppkey" id="ctl00_hdnAppkey" value="109708142417757">
+            <input type="hidden" name="ctl00$hdnAppId" id="ctl00_hdnAppId" value="109708142417757">
+            <div id="fb-root">
+            <script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+            <script type="text/javascript">
+                var appkey = document.getElementById("ctl00_hdnAppkey").value;
+                var appid = document.getElementById("ctl00_hdnAppId").value;
+
+                window.fbAsyncInit = function () {
+
+                    FB.init({ appId: appid, status: true, cookie: true, xfbml: true, oauth: true });
+
+                    //                FB.init({ appId: '109708142417757',
+                    //                    status: true,
+                    //                    cookie: true,
+                    //                    oauth: true
+                    //                });
+
+                    /* All the events registered */
+                    FB.Event.subscribe('auth.login', function (response) {
+                        window.location.href = "../Default.aspx?token=" + response.authResponse.accessToken;
+                    });
+                    FB.Event.subscribe('auth.logout', function (response) {
+                        window.location.href = "../Logout.aspx";
+                    });
+
+
+                    //                FB.Event.subscribe('auth.login', function (response) {
+                    //                    window.location.href = "LoginIrazoo.aspx";
+                    //                });
+                    //                FB.Event.subscribe('auth.logout', function (response) {
+                    //                    window.location.href = "Logout.aspx";
+                    //                });
+
+                    /*FB.getLoginStatus(function (response) {
+                    if (response.session) {
+                    login();
+                    }
+                    });*/
+                };
+
+                (function () {
+                    var e = document.createElement('script');
+                    e.type = 'text/javascript';
+                    e.src = document.location.protocol +
+                            '//connect.facebook.net/en_US/all.js';
+                    e.async = true;
+                    document.getElementById('fb-root').appendChild(e);
+                }());
+
+                function fnLogout() {
+                    FB.logout();
+                }
+
+            </script>
             
+
+            
+
+
+            <input name="ctl00$txtSearchType" type="text" value="w" id="ctl00_txtSearchType" style="display: none;">
+            <input name="ctl00$txtChanged" type="text" value="f" id="ctl00_txtChanged" style="display: none;">
+            <!---Header Begin-->
+            <div id="header" align="center">
+                <input type="hidden" name="ctl00$hdnSubmit" id="ctl00_hdnSubmit">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: White; display: none;">
+                    <tbody><tr>
+                        <td colspan="4">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">&nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="4">
+                            <table cellpadding="0" cellspacing="0" width="100%">
+                                <tbody><tr>
+                                    <td nowrap="" width="90%">
+                                        <span id="spnLnkIE" style="display: none;" class="faqOpt">
+                                            
+                                        </span><span id="spnLnkIE7" class="faqOpt">
+                                            <a onclick="location.href='/NewUser.aspx';return false;" id="ctl00_linkButtonJoinNow" href="javascript:__doPostBack('ctl00$linkButtonJoinNow','')">Join iRazoo Today</a>
+                                            &nbsp;|&nbsp;
+                                            
+                                            
+                                            
+                                            <a href="/Toolbar/Toolbar.aspx" title="iRazoo Search">iRazoo Search Plugin</a>
+                                        </span><span id="spnLnkFire" style="display: none;" class="faqOpt">
+                                            <a onclick="location.href='/NewUser.aspx';return false;" id="ctl00_linkButtonJoinNowFire" href="javascript:__doPostBack('ctl00$linkButtonJoinNowFire','')">Join iRazoo Today</a>
+                                            &nbsp;|&nbsp;
+                                            <a href="#" title="iRazoo Search" onclick="Install_tb_XPI()">iRazoo Search Plugin</a>
+                                        </span>
+                                    </td>
+                                    <td align="right" nowrap="">
+                                        <span class="faqOpt">
+                                             </span>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td align="left" style="width: auto; display: none" nowrap="">
+                            
+                        </td>
+                        
+                        <td align="right" valign="top" style="width: 100%;"></td>
+                    </tr>
+                </tbody></table>
+                <table id="ctl00_tblSpace" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: White; display: none;">
+	<tbody><tr>
+		<td>&nbsp;
+                        </td>
+	</tr>
+</tbody></table>
+
+                <table id="ctl00_tblgradiant" width="100%" cellpadding="0" cellspacing="0" style="display: none">
+	<tbody><tr style="background-image: url(/images/GrayGradiant.gif)">
+		<td colspan="3" height="20">
+                            <div id="divpgHeader" style="font-weight: bold; font-size: 12pt; color: black; font-family: Arial, Tahoma, Verdana, Helvetica;"> Privacy</div>
+                        </td>
+	</tr>
+</tbody></table>
+
+                <!--begin of New design header -->
+                <table cellpadding="0" cellspacing="0" border="0" width="1040" align="center" style="display: none">
+
+
+                    <tbody><tr style="display: none">
+
+                        <td>
+                            <div id="ctl00_pnlUpdateLogin">
+	
+                                    <table id="ctl00_tblHeaderMenu" cellspacing="4" width="100%">
+		<tbody><tr>
+			<td align="left"></td>
+			<td style="display: none;">
+                                                
+                                            </td>
+			<td>
+                                                <table cellpadding="0" cellspacing="0" border="0">
+                                                    <tbody><tr>
+                                                        <td>
+                                                            <span id="ctl00_labelPointsMessage"><font color="Red"></font></span>
+                                                        </td>
+                                                        
+                                                        
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+			<td class="faqOpt" style="display: none;">
+                                                
+                                                
+                                                <a id="ctl00_lnkNewUser" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnkNewUser", "", false, "", "/NewUser.aspx", false, true))'>Join Now</a>
+                                            </td>
+			<td align="right"></td>
+			<td class="faqOpt" align="right">
+                                                <table>
+                                                    <tbody><tr>
+                                                        <td>
+                                                            <img src="/images/ico_signout.gif" border="0" alt="Sign Out" align="absmiddle">
+                                                        </td>
+                                                        <td>
+                                                            
+                                                            <a href="/Default.aspx" id="ctl00_hrefSignIn">Sign In</a>
+                                                        </td>
+                                                        <td>
+                                                            
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+		</tr>
+	</tbody></table>
+	
+                                
+</div>
+                        </td>
+                    </tr>
+                    <tr style="vertical-align: top; display: none">
+                        <td width="100%" valign="top" align="center"></td>
+
+                    </tr>
+
+                </tbody></table>
+
+                <div class="header_section">
+                    <div class="header_redesigned">
+                        <a href="/Default.aspx"><h1>iRazoo</h1></a>
+                        <ul id="nav" class="main_menu">
+                            <li><a class="prize" href="/RazooCatalog.aspx"><span></span>Prizes</a>
+
+                                <ul class="sub_menu">
+                                    <li><a href="/RazooCatalog.aspx">Prize Catalog</a></li>
+                                    
+                                    <li><a href="/Basket.aspx">My Cart</a></li>
+                                    <li><a href="/Main.aspx?cmd=order">Order History</a></li>
+                                </ul>
+
+                            </li>
+                            <li><a class="earnpoints" href="/Offers.aspx"><span></span>Earn Points</a>
+
+                                <ul class="sub_menu">
+                                    <li><a href="/Products/Stores.aspx">Shopping</a></li>
+                                    <li><a href="/Offers.aspx">Offers</a></li>
+                                    <li><a href="/TaskOffers.aspx">Tasks</a></li>
+                                    <li><a href="/Survey.aspx">Matomy Surveys</a></li>
+                                    <li><a href="/Surveys.aspx">uSamp Surveys</a></li>
+                                    <li><a href="/OpinionSurveys.aspx">Opinion Surveys</a></li>
+                                    <li><a href="/DailyDeals.aspx">Deals of the day</a></li>
+                                    <li><a href="/Videos/Videos.aspx?cId=6&amp;category=Food">Videos</a></li>
+                                    <li><a href="/Games/Games.aspx">Games</a></li>
+                                    <li><a href="/SearchResults.aspx">Search</a></li>
+                                    <li><a href="/Treasures.aspx">Treasure Code</a></li>
+                                    <li><a href="/CouponCodes.aspx">Coupon Codes</a></li>
+                                    <li><a href="/Bonus/HowtoEarnBonusPoints.aspx">Bonus Points</a></li>
+                                    <li><a href="/SpecialOffers.aspx">Special Offers</a></li>
+                                    <li><a href="/Coupons.aspx">Grocery Coupons</a></li>
+                                    <li><a href="/Toolbar/Toolbar.aspx">Toolbar</a></li>
+                                </ul>
+
+                            </li>
+                            <li><a class="referralpoints" href="/TellaFriend.aspx"><span></span>Referral Points</a>
+
+                                <ul class="sub_menu">
+                                    <li><a href="/Tellafriend.aspx">Refer a Friend</a></li>
+                                    <li><a href="/Main.aspx?cmd=Referral">Referral Link</a></li> 
+                                    <li><a href="/Main.aspx?cmd=Referred">My Referred Users</a></li>
+                                </ul>
+
+                            </li>
+                            <li><a class="accounts" href="/Main.aspx"><span></span>My Account</a>
+
+                                <ul class="sub_menu">
+                                    <li><a href="/MyRecommendedSites.aspx">My Recommended Sites</a></li>
+                                    <li><a href="/Main.aspx?cmd=Shipping">Edit Shipping Info</a></li>
+                                    <li><a href="/Main.aspx?cmd=order">Order History</a></li>
+                                    <li><a href="/Main.aspx?cmd=PointHistory">Points History</a></li>
+                                    <li><a href="/Main.aspx?cmd=changeemail">Change Email</a></li>
+                                    <li><a href="/AccountSettings.aspx">Password Security</a></li>
+                                    <li><a href="https://irazoo.zendesk.com/login">Support</a></li>
+                                    <li><a href="/contactus.aspx">Contact Us</a></li>
+                                </ul>
+
+                            </li>
+                            <li><a class="howitworks" href="/HowItWorks.aspx"><span></span>How it works</a>
+
+                                <ul class="sub_menu">
+                                    <li><a href="/HowItWorks.aspx">How it works</a></li>
+                                    <li><a href="/Testimonial.aspx">Testimonials</a></li>
+                                    <li><a href="/TipsToWin.aspx">Tips to Win</a></li>
+                                    <li><a href="#" onclick="javascript:window.open('http://www.facebook.com/irazoo');">iRazoo Facebook</a></li>
+                                    <li><a href="http://www.iRazoo.com/Blog">iRazoo Blog</a></li>
+                                </ul>
+
+                            </li>
+                        </ul>
+                        <a href="/Default.aspx" id="ctl00_btn_logout" class="btn_logout">Log In</a>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    $(".sub_menu").hide();
+                </script>
+               
+
+                <!--end of new design header -->
+                <!--Search bar beginning-->
+                
+                <div id="divSearchBlock" style="display: none">
+                    <table cellpadding="1" cellspacing="0" border="0" width="960" align="center" bgcolor="#DFCCE2">
+                        <tbody><tr>
+                            <td>
+                                <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#ffffff">
+                                    <tbody><tr>
+                                        <td>
+                                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                <tbody><tr>
+                                                    <td valign="top">
+                                                        <table cellpadding="0" cellspacing="10" border="0" width="958" height="82" bgcolor="#E9EAEB">
+                                                            <tbody><tr>
+                                                                <td width="702" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" border="0" width="702">
+                                                                        <tbody><tr>
+                                                                            <td height="25" width="80">
+                                                                                <img src="/images/spacer.gif" alt="" width="1" height="1">
+                                                                            </td>
+                                                                            <td width="622">
+                                                                                
+                                                                                <font color="Black">&nbsp;&nbsp; <a id="lnkWebTab" href="javascript:fnSetSearch('w');document.getElementById('ctl00_buttonSearch').click();" style="color: black; font-weight: normal;">Web</a>
+                                                                                    
+                                                                                    <a id="lnkImageTab" href="javascript:fnSetSearch('i');document.getElementById('ctl00_buttonSearch').click();" style="color: Black; display: none;">Images</a>
+                                                                                    
+                                                                                    <a id="lnkNewsTab" href="javascript:fnSetSearch('n');document.getElementById('ctl00_buttonSearch').click();" style="color: Black; display: none;">News</a> &nbsp;|&nbsp; <a id="lnkVideoTab" href="javascript:fnSetSearch('v');document.getElementById('ctl00_buttonSearch').click();" style="color: Black;">Video</a> </font>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody></table>
+
+                                                                </td>
+                                                                <td width="1" bgcolor="#D8D8D8">
+                                                                    <img src="/images/spacer.gif" alt="" width="1" height="1">
+                                                                </td>
+
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </div>
+                <!--End of Search bar-->
+
+            </div>
+            <!-- Header end -->
+
+            
+
+            
+
+
+            
+            <div class="grey_shadow_section">
+                <div class="grey_shadow_center">
+                    <div class="total_info">
+                        
+                        
+                    </div>
+                    <div class="form_search">
+                        <fieldset>
+                            <label for="search">Search</label>
+                            <input name="ctl00$textBoxSearch" type="text" maxlength="100" size="40" id="ctl00_textBoxSearch" class="inputsearch" autocomplete="Off">
+                            <input type="submit" name="ctl00$buttonSearch" value="" onclick="return ValidateSearch();" id="ctl00_buttonSearch" class="btn_search">
+                        </fieldset>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="banner floatLeft" style="width: 801px; height: 99px">
+                        <!-- ValueClick Media 728x90 LEADERBOARD CODE for irazoo.com -->
+                                                        <script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script>
+                                                        <script type="text/javascript">
+                                                            document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:62422,media_type:5,version:"1.1"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=62422&tp=5&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:62422,media_type:5,version:"1.1"});} catch(e){document.write('<scr' + 'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=62422&tp=5&d=j&t=n&exc=1"></scr' + 'ipt>');}}());</script><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=62422&amp;tp=5&amp;d=j&amp;t=n&amp;exc=1"></script>
+                                                        <noscript>
+                                                            <a href="http://media.fastclick.net/w/click.here?sid=62422&m=1&c=1" target="_blank">
+                                                                <img src="http://media.fastclick.net/w/get.media?sid=62422&tp=5&d=s&c=1&vcm_acv=1.1"
+                                                                    width="728" height="90" border="1"></a>
+                                                        </noscript>
+                        <!-- ValueClick Media 728x90 LEADERBOARD CODE for irazoo.com -->
+                     
+                    </div>
+                    <div class="points_select floatRight">
+                        <div class="total_points">
+                            <a href="/Bonus/HowtoEarnBonusPoints.aspx" style="text-decoration: underline; text-decoration-color: white; color: white">Today's goal 600 iRazoo Points</a>
+                        </div>
+                        <div class="progress_bar">
+                            <div class="progress">
+                                <div id="divBonusBar" class="tooltip">0 Points</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div style="vertical-align: top; min-height: 75px; border: 1px solid #d6d6d6; text-align:left">
+                
+                        
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#ffffff">
+                    <tbody><tr>
+                        <td>
+                            <table cellpadding="0" cellspacing="10" border="0" width="100%">
+                                <tbody><tr>
+                                    <td valign="top">
+                                        <table cellpadding="0" cellspacing="10" border="0" width="100%" align="center">
+                                            <tbody><tr>
+                                                <td valign="top">
+                                                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                        <tbody><tr>
+                                                            <td width="0%">
+                                                                <img src="images/tbl3_tl.gif" alt="" width="5" height="5">
+                                                            </td>
+                                                            <td width="100%" background="images/tbl3_t.gif">
+                                                                <img src="images/spacer.gif" alt="" width="100%" height="1">
+                                                            </td>
+                                                            <td width="0%">
+                                                                <img src="images/tbl3_tr.gif" alt="" width="5" height="5">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td background="images/tbl3_l.gif">
+                                                                <img src="images/spacer.gif" alt="" width="5" height="1">
+                                                            </td>
+                                                            <td bgcolor="#F4F2F4">
+                                                                <table cellpadding="5" cellspacing="0" border="0" width="100%">
+                                                                    <tbody><tr>
+                                                                        <td>
+<table width="100%">
+    <tbody><tr>
+        <td align="left">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="6" face="Arial" color="black"><b>Privacy Policy</b></font>
+        </td>
+    </tr>
+</tbody></table>
+                                                                        </td>
+                                                                    </tr><tr>
+
+                                                                    </tr><tr>
+                                                                        <td>
+                                                                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                                                <tbody><tr>
+                                                                                    <td width="0%">
+                                                                                        <img src="images/tbl1_tl.gif" alt="" width="5" height="5">
+                                                                                    </td>
+                                                                                    <td width="100%" background="images/tbl1_t.gif">
+                                                                                        <img src="images/spacer.gif" alt="" height="5">
+                                                                                    </td>
+                                                                                    <td width="0%">
+                                                                                        <img src="images/tbl1_tr.gif" alt="" width="5" height="5">
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td background="images/tbl1_l.gif">
+                                                                                        <img src="images/spacer.gif" alt="" width="5" height="5">
+                                                                                    </td>
+                                                                                    <td bgcolor="#ffffff">
 <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-   <tbody><tr><td><img src="images/spacer.gif" alt="spacer" height="10" width="0"></td></tr>
+   <tbody><tr><td><img alt="" src="images/spacer.gif" height="10" width="0"></td></tr>
    <tr valign="top"> 
-    <td><img src="images/spacer.gif" alt="spacer" height="0" width="10"></td>
+    <td><img alt="" src="images/spacer.gif" height="0" width="10"></td>
    <td> <div></div>
       
       <p>        iRazoo is committed to protecting the privacy of its 
@@ -342,237 +823,611 @@
         iRazoo.com<br>
         5644 Westheimer, #407<br>
         Houston, Texas, 77056<br>
-        or feedback@iRAZOO.com<br>
+        or team@iRAZOO-inc.com<br>
   <br>
-        This privacy policy was last updated on January 6th, 2007</p>
+        This privacy policy was last updated on January 14th, 2010</p>
       <p>&nbsp; </p>
      </td> 
   </tr> 
-</tbody></table>
-<script type="text/javascript">
+</tbody></table>                                                                                    </td>
+                                                                                    <td background="images/tbl1_r.gif">
+                                                                                        <img src="images/spacer.gif" alt="" width="5" height="5">
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td>
+                                                                                        <img src="images/tbl2_bl.gif" alt="" width="5" height="5">
+                                                                                    </td>
+                                                                                    <td background="images/tbl2_b.gif">
+                                                                                        <img src="images/spacer.gif" alt="" width="5" height="5">
+                                                                                    </td>
+                                                                                    <td>
+                                                                                        <img src="images/tbl2_br.gif" alt="" width="5" height="5">
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                            <td background="images/tbl3_r.gif">
+                                                                <img src="images/spacer.gif" alt="" width="5" height="1">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                <img src="images/tbl3_bl.gif" alt="" width="5" height="5">
+                                                            </td>
+                                                            <td background="images/tbl3_b.gif">
+                                                                <img src="images/spacer.gif" alt="" width="1" height="1">
+                                                            </td>
+                                                            <td>
+                                                                <img src="images/tbl3_br.gif" alt="" width="5" height="5">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
 
-    if(document.all){
-         document.getElementById('divpgHeader').innerText = " Privacy";
-    } else{
+
+
+<script type="text/javascript">
+try{
+    if (document.all) {
+        document.getElementById('divpgHeader').innerText = " Privacy";
+    } else {
         document.getElementById('divpgHeader').textContent = " Privacy";
-    }     
+    } 
+} catch (e) { }     
 </script>
 
-        </div>
-        <div id="divFooter">
-            <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-                 <tbody><tr>
-                    <td style="height:50px;">&nbsp;</td>
-                 </tr>            
-                <tr>
-                    <td align="center">
-                        <div id="footerCatalog" style="display: none;">
-                        <table width="50%">
+                    
+            </div>
+
+            
+            <table cellpadding="1" cellspacing="0" style="border: 1px solid #d6d6d6; width: 960px;" align="center" bgcolor="#DFCCE2">
+                <tbody><tr>
+                    <td>
+                        <table cellspacing="5" cellpadding="5" border="0" width="100%" style="background-color: White;">
+                            
                             <tbody><tr>
-                                <td colspan="5" style="color:Black;">
-                                    <img id="ctl00_Image5" src="/images/exchange-points-for-rewards.gif" alt="You can redeem your points for prizes like these:" border="0">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <a href="/Productdetails.aspx?ProductID=5" id="ctl00_Prod1"><img id="ctl00_Image1" src="/images/1gb_ipod_shuffle.jpg" height="61" width="70" border="0"></a>
-                                </td>
-                                <td>
-                                    <a href="/Productdetails.aspx?ProductID=9" id="ctl00_Prod2"><img id="ctl00_Image2" src="/images/Sony7.2mp.jpg" height="61" width="70" border="0"></a>
-                                </td>
-                                <td>
-                                    <a href="/Productdetails.aspx?ProductID=8" id="ctl00_Prod3"><img id="ctl00_Image3" src="/images/iTunes_card.jpg" height="61" width="70" border="0"></a>
-                                </td>
                                 <td align="left">
-                                    <a href="/Productdetails.aspx?ProductID=11" id="ctl00_Prod4">&nbsp;&nbsp;&nbsp;&nbsp;<img id="ctl00_Image4" src="/images/amazon%20gift%20certificate%20big.jpg" height="61" width="70" border="0"></a>
-                                </td>                            
+                                    <!-- BEGIN UAT - 728x90 - iRazoo: iRazoo - DO NOT MODIFY -->
+                                    <script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/83/99/uat_19983.js?ad_size=728x90"></script>
+                                    <!-- END TAG -->
+                                   
+                                </td>
                             </tr>
-                            <tr>
-                                <td style="color:Black;"><span id="ctl00_Title1">iPod (1GB)</span></td>
-                                <td style="color:Black;"><span id="ctl00_Title2">Camera</span></td>
-                                <td style="color:Black;"><span id="ctl00_Title3">iTunes($25)</span></td>
-                                <td style="color:Black;"><span id="ctl00_Title4"></span>&nbsp;&nbsp;<a href="/RazooCatalog.aspx">View more...</a></td>
-                            </tr> 
-                            </tbody></table>
-                            <table id="tblThumbshots" border="0" cellpadding="0" cellspacing="0" width="100%" align="left" style="display:none;">
-                            <tbody><tr><td align="left"><a href="http://www.thumbshots.com" target="_blank"><font style="font-size:8px;">About Thumbshots</font></a><img src="/images/spacer.gif" height="5" width="0" alt="spacer"> </td></tr>                                              
+                            
+                            <tr id="ctl00_tblFooterLinks">
+	<td>
+                                    <div class="clear"></div>
+                                    <div class="footer-section">
+                                        <div class="footer_masterpage">
+                                            <div class="footer-menu-masterpage">
+                                                <a href="/RazooCatalog.aspx"><strong>Prizes</strong></a>
+                                                <ul>
+                                                    <li><a href="/RazooCatalog.aspx">Prize Catalog</a></li>
+                                                    <li><a href="/Main.aspx?cmd=cart">My Cart</a></li>
+                                                    <li><a href="/Main.aspx?cmd=order">Order History</a></li>
+                                                </ul>
+                                            </div>
+
+                                            <div class="footer-menu-masterpage">
+                                                <a href="/Offers.aspx"><strong>Earn Points</strong></a>
+                                                <ul>
+                                                    <li><a href="/Products/Stores.aspx">Shopping</a></li>
+                                                    <li><a href="/Offers.aspx">Offers</a></li>
+                                                    <li><a href="/TaskOffers.aspx">Tasks</a></li>
+                                                    <li><a href="/Survey.aspx">Surveys</a></li>
+                                                    <li><a href="/DailyDeals.aspx">Deals of the day</a></li>
+                                                    <li><a href="/Videos/Videos.aspx?cId=6&amp;category=Food">Videos</a></li>
+                                                    <li><a href="/Games/Games.aspx">Games</a></li>
+                                                    <li><a href="/SearchResults.aspx">Search</a></li>
+                                                    <li><a href="/Treasures.aspx">Treasure Code</a></li>
+                                                    <li><a href="/CouponCodes.aspx">Coupon Codes</a></li>
+                                                    <li><a href="/Bonus/HowtoEarnBonusPoints.aspx">Bonus Points</a></li>
+                                                    <li><a href="/SpecialOffers.aspx">Special Offers</a></li>
+                                                    <li><a href="/Coupons.aspx">Grocery Coupons</a></li>
+                                                    <li><a href="/Toolbar/Toolbar.aspx">Toolbar</a></li>
+                                                    <li><a href="/OpinionSurveys.aspx">Daily Surveys</a></li>
+                                                </ul>
+
+                                            </div>
+
+
+                                            <div class="footer-menu-masterpage">
+                                                <a href="/TellaFriend.aspx"><strong>Referral Points</strong></a>
+                                                <ul>
+                                                    <li><a href="/Tellafriend.aspx">Refer a Friend</a></li>
+                                                    <li><a href="/GetMyReferralUrl.aspx">Referral Link</a></li>
+                                                    <li><a href="/Main.aspx?cmd=Referred">My Referred Users</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="footer-menu-masterpage">
+                                                <a href="/Main.aspx"><strong>My Account</strong></a>
+                                                <ul>
+                                                    <li><a href="/MyRecommendedSites.aspx">My Recommended Sites</a></li>
+                                                    <li><a href="/Main.aspx?cmd=Shipping">Edit Shipping Info</a></li>
+                                                    <li><a href="/Main.aspx?cmd=order">Order History</a></li>
+                                                    <li><a href="/Main.aspx?cmd=PointHistory">Points History</a></li>
+                                                    <li><a href="/Main.aspx?cmd=changeemail">Change Email</a></li>
+                                                    <li><a href="/AccountSettings.aspx">Password Security</a></li>
+                                                    <li><a href="https://irazoo.zendesk.com/login">Support</a></li>
+                                                    <li><a href="/contactus.aspx">Contact Us</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="footer-menu-masterpage">
+                                                <a href="/HowItWorks.aspx"><strong>How it works</strong></a>
+                                                <ul>
+                                                    <li><a href="/HowItWorks.aspx">How it works</a></li>
+                                                    <li><a href="/Testimonial.aspx">Testimonials</a></li>
+                                                    <li><a href="/TipsToWin.aspx">Tips to Win</a></li>
+                                                    <li><a href="#" onclick="javascript:window.open('http://www.facebook.com/irazoo');">iRazoo Facebook</a></li>
+                                                    <li><a href="http://www.iRazoo.com/Blog">iRazoo Blog</a></li>
+                                                    <li><a href="http://www.iRazoo.com/Sweepstakes.aspx">Sweepstakes</a></li>
+                                                    <li><a href="http://www.iRazoo.com/UserAgreement.aspx">Terms of Service</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="share_handle_masterpage">
+                                                <div class="share">
+                                                    <strong>Follow Us</strong> <a href="http://www.twitter.com/iRazoo" target="_blank">
+                                                        <img src="/images/twitter.jpg" alt=""></a> <a href="http://www.facebook.com/iRazoo" target="_blank">
+                                                            <img src="/images/facebook.jpg" alt=""></a> <a href="" target="_blank">
+                                                                <img src="/images/google.jpg" alt=""></a> <a href="http://www.pinterest.com/iRazoowebsite" target="_blank">
+                                                                    <img src="/images/pin.jpg" alt=""></a>
+                                                </div>
+                                                <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+                                                    <tbody><tr>
+                                                        <td width="135" align="right" valign="top">
+                                                            <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.irazoo.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+                                                            <br>
+                                                            <a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color: #000000; text-decoration: none; font: bold 7px verdana,sans-serif; letter-spacing: .5px; text-align: center; margin: 0px; padding: 0px;">ABOUT SSL CERTIFICATES</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </div>
+                                            <div class="clear"></div>
+                                            <div class="copyright_masterpage">
+                                                <p>Copyright © 2013 iRazoo™ (iRazoo LLC) All Rights Reserved. All trademarks and registered trademarks appearing on this web site are the properties of the respective owners. Said owners do not endorse nor are they affiliated with Razoo.com or its promotions.</p>
+                                                <p>*Amazon.com is not a sponsor of this promotion. Except as required by law, Amazon.com Gift Cards ("GCs") cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods on Amazon.com or certain of its affiliated websites. For complete terms and conditions, see www.amazon.com/gc-legal. GCs are issued by ACI Gift Cards, Inc., a Washington corporation. ©,®,™ Amazon.com Inc. and/or its affiliates, 2013. No expiration date or service fees.</p>
+                                            </div>
+                                            <div class="clear"></div>
+                                            <div>
+                                                <table>
+                                                    <tbody><tr>
+                                                        <td colspan="1" align="left" style="color: #727272">Popular Keywords:&nbsp;
+                                                                                    <a id="ctl00_lnkrandomkeyword1" causesvalidation="false" href="/PopularSites/birdman.aspx"><font color="#727272">birdman</font></a>&nbsp;|
+                                                                                    <a id="ctl00_lnkrandomkeyword2" causesvalidation="false" href="/PopularSites/brandy-alexander.aspx"><font color="#727272">brandy alexander</font></a>&nbsp;|
+                                                                                    <a id="ctl00_lnkrandomkeyword3" causesvalidation="false" href="/PopularSites/dinkin-flicka.aspx"><font color="#727272">dinkin flicka</font></a>&nbsp;|
+                                                                                    <a id="ctl00_lnkrandomkeyword4" causesvalidation="false" href="/PopularSites/don-knotts.aspx"><font color="#727272">don knotts</font></a>&nbsp;|
+                                                                                    <a id="ctl00_lnkrandomkeyword5" causesvalidation="false" href="/PopularSites/draws-.aspx"><font color="#727272">draws </font></a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="1" align="left" style="color: #727272">Interesting Topics:&nbsp;
+                                                                                    <a id="ctl00_lnkrandomkeywordWiki1" causesvalidation="false" href="/InterestingTopics/Robert-H_pd_-Waterman,-Jr.aspx"><font color="#727272">Robert H. Waterman, Jr</font></a>&nbsp;|
+                                                                                    <a id="ctl00_lnkrandomkeywordWiki2" causesvalidation="false" href="/InterestingTopics/Robert-H_pd_-Waterman,-Jr_pd_.aspx"><font color="#727272">Robert H. Waterman, Jr.</font></a>&nbsp;|
+                                                                                    <a id="ctl00_lnkrandomkeywordWiki3" causesvalidation="false" href="/InterestingTopics/Political-tools.aspx"><font color="#727272">Political tools</font></a>&nbsp;|
+                                                                                    <a id="ctl00_lnkrandomkeywordWiki4" causesvalidation="false" href="/InterestingTopics/Middlebury,-Vermont.aspx"><font color="#727272">Middlebury, Vermont</font></a>&nbsp;|
+                                                                                    <a id="ctl00_lnkrandomkeywordWiki5" causesvalidation="false" href="/InterestingTopics/Keeperofthebees_pd_jpg.aspx"><font color="#727272">Keeperofthebees.jpg</font></a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </div>
+
+                                            <div class="clear"></div>
+
+                                            <div>
+                                                <table>
+                                                    <tbody><tr>
+                                                        <td>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="1" align="left" style="color: #727272">
+                                                            <a style="color: #727272" href="/free-amazon-gift-card-codes.aspx">Free Amazon Gift Card Codes</a>&nbsp;|
+                                                    <a style="color: #727272" href="/free-gift-cards.aspx">Free Gift Cards Online</a>&nbsp;|
+                                                    <a style="color: #727272" href="/paid-surveys.aspx">Free Paid Surveys</a>&nbsp;|
+                                                    <a style="color: #727272" href="/free-walmart-gift-card.aspx">Free Walmart Gift Cards</a>&nbsp;|
+                                                    <a style="color: #727272" href="/free-stuff-online.aspx">Get Free Stuff Online</a>&nbsp;|
+                                                    <a style="color: #727272" href="/FavoriteSites/Allpages.aspx">Favorite sites</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="1" align="left" style="color: #727272">
+                                                            <a style="color: #727272" href="/how-to-get-free-money.aspx">How To Get Free Money Online</a>&nbsp;|
+                                                    <a style="color: #727272" href="/make-money-from-home.aspx">Make Money From Home</a>&nbsp;|
+                                                    <a style="color: #727272" href="/make-money-online.aspx">Make Money Online</a>&nbsp;|
+                                                    <a style="color: #727272" href="/money-surveys.aspx">Take Surveys Online</a>&nbsp;|
+                                                    <a style="color: #727272" href="/how-to-make-money-fast.aspx">How to Make Money Fast Online</a>&nbsp;|
+                                                    <a style="color: #727272" href="/InterestingSites/Allpages.aspx">Interesting sites</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                </td>
+</tr>
+
                         </tbody></table>
-                        </div>
                     </td>
-                </tr>
-                
-                <tr style="background-color:#991B1F;">
-                     <td style="width:auto;" align="center">
-                        <br>
-                        <div id="ctl00_pnlFooter">
-	
-                        <table width="300px" cellspacing="4" border="0">
-                             
-                            <tbody><tr>
-                              <td align="left">
-                                <table cellpadding="0" cellspacing="0" border="0">
-                                    <tbody><tr>
-                                        <td>
-                                            <font color="white">
-                                                &nbsp;
-                                                <a id="lnkWebTab1" href="javascript:fnSetSearchF('w');document.getElementById('ctl00_buttonSearchFooter').click();" style="color: white; font-weight: bold;">Web</a>
-                                                &nbsp;|&nbsp;
-                                                <a id="lnkNewsTab1" href="javascript:fnSetSearchF('n');document.getElementById('ctl00_buttonSearchFooter').click();" style="color: white; font-weight: normal;">News</a>
-                                                &nbsp;|&nbsp;
-                                                <a id="lnkVideoTab1" href="javascript:fnSetSearchF('v');document.getElementById('ctl00_buttonSearchFooter').click();" style="color: white; font-weight: normal;">Video</a>
-	                                            &nbsp;|&nbsp;
-	                                            <a id="lnkRazooPediaTab1" href="javascript:fnSetSearchF('r');document.getElementById('ctl00_buttonSearchFooter').click();" style="color: white; font-weight: normal;">Razoopedia</a>
-                                                
-                                             </font> 
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td width="100%" align="center" nowrap="">
-                                            <input name="ctl00$textBoxSearchFooter" type="text" maxlength="100" size="40" id="ctl00_textBoxSearchFooter">&nbsp;&nbsp;
-                                            <input type="image" name="ctl00$buttonSearchFooter" id="ctl00_buttonSearchFooter" src="/images/search.gif" onclick="return ValidateSearchFooter();" border="0" style="width:51px;">
-                                        </td>
-                                    </tr>
-                                </tbody></table>                                     
-                              </td>
-                            </tr>
-                        </tbody></table>
-                        
-</div>
-                     </td>
-                </tr>
-                <tr style="background-color:#991B1F;"><td>&nbsp;</td></tr>
-                <tr style="background-color:#991B1F;">
-                    <td align="center" nowrap="">
-                        <div class="text2" id="footerText">
-                            <a href="/privacy.aspx" class="link1">Privacy Policy</a>&nbsp;-&nbsp;
-                            <a href="/useragreement.aspx" class="link1">Terms of Services</a>&nbsp;-&nbsp;
-                            <a href="/aboutus.aspx" class="link1">About iRAZOO</a>&nbsp;-&nbsp;
-                            <a href="/Tellafriend.aspx" class="link1">Refer a friend</a>&nbsp;-&nbsp;
-                            <a href="/Feedback.aspx" class="link1">Feedback</a>&nbsp;-&nbsp;
-                            <a href="/Contactus.aspx" class="link1">Contact us</a>&nbsp;-&nbsp;
-                            <a href="/FavoriteSites/Allpages.aspx" class="link1">Favorite sites</a><br>
-                            <a href="/InterestingSites/Allpages.aspx" class="link1">Interesting sites</a>&nbsp;-&nbsp;
-                            <a href="/sweepstakes.aspx" class="link1">Sweepstakes</a>&nbsp;-&nbsp;
-                            <a href="/Toolbar/irazoo_toolbar.exe" class="link1">Download Toolbar</a>                             
-                       </div>
-                    </td>
-                </tr>
-                <tr style="background-color:#991B1F;"><td>&nbsp;</td></tr>
-                <tr>
-                   <td style="background-color:#991B1F;" align="Center" class="text2">
-                        Copyright ©2007 iRazoo<tt style="font-family:Arial;"><font size="-2"><sup>TM</sup></font> (iRazoo, Inc.) All Rights Reserved.</tt>
-                   </td> 
-                </tr>
-                <tr>
-                    <td style="background-color:#991B1F;" align="Center" class="text2">The intellectual property herein is the subject matter of a pending patent.</td>
                 </tr>
             </tbody></table>
-        </div>
-        <!-- Header end -->        
-        <input name="ctl00$hiddenLastQuery" type="hidden" id="ctl00_hiddenLastQuery"> 
-        <span id="ctl00_lblScript" style="display:none;"><script>document.getElementById('footerCatalog').style.display = 'none';</script><script>document.getElementById('tblThumbshots').style.display = 'none';</script><script>fnSetSearch();</script></span>        
-        <script>
-	    function fnSignIn()
-	    {
-	        var lnk = window.location.href;
-	        var intLoc = lnk.indexOf('/SearchResults');
-	        if (intLoc > 0)
-	        {
-	            var newLnk = lnk.substring(intLoc);
-	            //window.location.href = "~/Login.aspx?ReturnUrl="+newLnk;
-	            document.url = "/Login.aspx?ReturnUrl="+newLnk;
-	            //alert("~/Login.aspx?ReturnUrl="+newLnk);
-	            return true;
-	        }
-	        else
-	        {
-	            document.url = "/Login.aspx";
-	            return false;
-	        }
-	    }    
-	    
-	    function fnSetSearchF(strType)
-	    {
-	        try
-	        {
-	            fnSetSearch(strType);
-	            //document.getElementById('ctl00_textBoxSearchFooter').focus(); 
-	        }
-	        catch(e)
-	        {
-	            //todo
-	        }
-	    }
 
-        function fnSetSearch(strtype)
-        {
-            try
-            {
-                //alert(strtype);
-                document.getElementById('ctl00_txtChanged').value = "t";
-                document.getElementById('ctl00_txtSearchType').value = strtype;
-                document.getElementById('lnkWebTab').style.fontWeight = "normal";
-                document.getElementById('lnkWebTab1').style.fontWeight = "normal";
-                //document.getElementById('lnkImageTab').style.fontWeight = "normal";
-                document.getElementById('lnkNewsTab').style.fontWeight = "normal";
-                document.getElementById('lnkNewsTab1').style.fontWeight = "normal";
-                document.getElementById('lnkVideoTab').style.fontWeight = "normal";
-                document.getElementById('lnkVideoTab1').style.fontWeight = "normal";
-                document.getElementById('lnkRazooPediaTab').style.fontWeight = "normal";
-                document.getElementById('lnkRazooPediaTab1').style.fontWeight = "normal";
-                //document.getElementById('lnkDictTab').style.fontWeight = "normal";
-                if (strtype == 'w' || strtype == 'W')
-                {
-                    document.getElementById('lnkWebTab').style.fontWeight = "bold";
-                    document.getElementById('lnkWebTab1').style.fontWeight = "bold";
+            <!-- Header end -->
+            <input name="ctl00$hiddenLastQuery" type="hidden" id="ctl00_hiddenLastQuery">
+            <span id="ctl00_lblScript" style="display: none;"><script>try{document.getElementById('footerCatalog').style.display = 'none';}catch(e){}</script><script>try{document.getElementById('tblThumbshots').style.display = 'none';}catch(e){}</script><script>fnSetSearch();</script></span>
+            <span id="ctl00_lblScript2" style="display: none;"></span>
+            <span id="ctl00_lblScript3" style="display: none;"></span>
+            <script type="text/javascript">
+                function fnSignIn() {
+                    var lnk = window.location.href;
+                    var intLoc = lnk.indexOf('/SearchResults');
+                    if (intLoc > 0) {
+                        var newLnk = lnk.substring(intLoc);
+                        //window.location.href = "~/Login.aspx?ReturnUrl="+newLnk;
+                        document.url = "/Login.aspx?ReturnUrl=" + newLnk;
+                        //alert("~/Login.aspx?ReturnUrl="+newLnk);
+                        return true;
+                    }
+                    else {
+                        document.url = "/Login.aspx";
+                        return false;
+                    }
                 }
-                else if (strtype == 'i' || strtype == 'I')
-                {
-                    //document.getElementById('lnkImageTab').style.fontWeight = "bold";
-                }    
-                else if (strtype == 'v' || strtype == 'V')
-                {
-                    document.getElementById('lnkVideoTab').style.fontWeight = "bold";
-                    document.getElementById('lnkVideoTab1').style.fontWeight = "bold";
+
+                function fnSetSearchF(strType) {
+                    try {
+                        fnSetSearch(strType);
+
+                    }
+                    catch (e) {
+                        //todo
+                    }
                 }
-                else if (strtype == 'r' || strtype == 'R')
-                {
-                    document.getElementById('lnkRazooPediaTab').style.fontWeight = "bold";
-                    document.getElementById('lnkRazooPediaTab1').style.fontWeight = "bold";
+
+                function fnSetSearch(strtype) {
+                    try {
+                        //alert(strtype);
+                        document.getElementById('ctl00_txtChanged').value = "t";
+                    document.getElementById('ctl00_txtSearchType').value = strtype;
+                    document.getElementById('lnkWebTab').style.fontWeight = "normal";
+                    document.getElementById('lnkWebTab1').style.fontWeight = "normal";
+                    //document.getElementById('lnkImageTab').style.fontWeight = "normal";
+                    document.getElementById('lnkNewsTab').style.fontWeight = "normal";
+                    document.getElementById('lnkNewsTab1').style.fontWeight = "normal";
+                    document.getElementById('lnkVideoTab').style.fontWeight = "normal";
+                    document.getElementById('lnkVideoTab1').style.fontWeight = "normal";
+                    document.getElementById('lnkRazooPediaTab').style.fontWeight = "normal";
+                    document.getElementById('lnkRazooPediaTab1').style.fontWeight = "normal";
+                    //document.getElementById('lnkShoppingTab').style.fontWeight = "normal";
+                    //document.getElementById('lnkShoppingTab1').style.fontWeight = "normal";
+                    document.getElementById('lnkImageTab').style.fontWeight = "normal";
+                    document.getElementById('lnkImageTab1').style.fontWeight = "normal";
+
+                    //document.getElementById('lnkDictTab').style.fontWeight = "normal";
+                    if (strtype == 'w' || strtype == 'W') {
+                        document.getElementById('lnkWebTab').style.fontWeight = "bold";
+                        document.getElementById('lnkWebTab1').style.fontWeight = "bold";
+                    }
+                    else if (strtype == 'i' || strtype == 'I') {
+                        document.getElementById('lnkImageTab').style.fontWeight = "bold";
+                        document.getElementById('lnkImageTab1').style.fontWeight = "bold";
+                    }
+                    else if (strtype == 'v' || strtype == 'V') {
+                        document.getElementById('lnkVideoTab').style.fontWeight = "bold";
+                        document.getElementById('lnkVideoTab1').style.fontWeight = "bold";
+                    }
+                    else if (strtype == 'r' || strtype == 'R') {
+                        document.getElementById('lnkRazooPediaTab').style.fontWeight = "bold";
+                        document.getElementById('lnkRazooPediaTab1').style.fontWeight = "bold";
+                    }
+                    else if (strtype == 'd' || strtype == 'D') {
+                        //document.getElementById('lnkDictTab').style.fontWeight = "bold";
+                    }
+                    else if (strtype == 'n' || strtype == 'N') {
+                        document.getElementById('lnkNewsTab').style.fontWeight = "bold";
+                        document.getElementById('lnkNewsTab1').style.fontWeight = "bold";
+                    }
+                    else if (strtype == 's' || strtype == 'S') {
+                        //document.getElementById('lnkShoppingTab').style.fontWeight = "bold";
+                        //document.getElementById('lnkShoppingTab1').style.fontWeight = "bold";
+                    }
+
+
+                    //document.getElementById('ctl00_textBoxSearch').focus();   
+                    //var searchTxt =  document.getElementById('ctl00_textBoxSearch').value;
+
+                    //document.forms[0].submit();
                 }
-                else if (strtype == 'd' || strtype == 'D')
-                {
-                    //document.getElementById('lnkDictTab').style.fontWeight = "bold";
+                catch (e) {
+                    //alert(e.Message);
                 }
-                else if (strtype == 'n' || strtype == 'N')
-                {
-                    document.getElementById('lnkNewsTab').style.fontWeight = "bold";
-                    document.getElementById('lnkNewsTab1').style.fontWeight = "bold";
-                }    
-                //document.getElementById('ctl00_textBoxSearch').focus();   
-                //var searchTxt =  document.getElementById('ctl00_textBoxSearch').value;
-                
-                //document.forms[0].submit();
             }
-            catch(e)
-            {
-                //alert(e.Message);
+
+            function fnCommunitySearch(sHeaderFooter) {
+                var str = trim(document.getElementById('ctl00_textBoxSearch').value);
+                if (sHeaderFooter == 'f') {
+                    str = trim(document.getElementById('ctl00_textBoxSearchFooter').value);
+                }
+
+                if (str.indexOf("<") > -1 || str.indexOf(">") > -1 || str.toLowerCase().indexOf("&lt;") > -1 || str.toLowerCase().indexOf("&gt;") > -1) {
+                    document.getElementById('ctl00_labelPointsMessage').innerText = "The search keywords contain invalid characters!";
+                    return false;
+                }
+                if (str.length > 0) {
+                    var strType = document.getElementById('ctl00_txtSearchType').value;
+                    if (strType == 'I') {
+                        window.open("http://www.irazoo.com/Image/ImageSearchResults.aspx?q=" + escape(str) + "&Page=1");
+                    }
+                    else if (strType == 'N') {
+                        window.open("http://www.irazoo.com/News/NewsSearchResults.aspx?q=" + escape(str) + "&Page=1");
+                    }
+                    else if (strType == 'V') {
+                        window.open("http://www.irazoo.com/Video/VideoSearchResults.aspx?q=" + escape(str) + "&Page=1");
+                    }
+                    else if (strType == 'R') {
+                        window.open("http://www.irazoo.com/Razoopedia.aspx/" + str);
+                    }
+                    else if (strType == 'S') {
+                        window.open("http://localhost/Shopping/Shopping.aspx?q=" + escape(str) + "&Page=1");
+                    }
+                    else {
+                        window.open("http://www.irazoo.com/SearchResults.aspx?q=" + escape(str) + "&Page=1");
+                    }
+                }
+                return false;
             }
-        }
+            </script>
+            <script type="text/javascript" language="javascript">
+                var sc_project = 2314230;
+                var sc_invisible = 1;
+                var sc_partition = 21;
+                var sc_security = "36861e0a";
 
+                var BrowserDetect = {
+                    init: function () {
+                        this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+                        this.version = this.searchVersion(navigator.userAgent)
+                    || this.searchVersion(navigator.appVersion)
+                    || "an unknown version";
+                        this.OS = this.searchString(this.dataOS) || "an unknown OS";
+                    },
+                    searchString: function (data) {
+                        for (var i = 0; i < data.length; i++) {
+                            var dataString = data[i].string;
+                            var dataProp = data[i].prop;
+                            this.versionSearchString = data[i].versionSearch || data[i].identity;
+                            if (dataString) {
+                                if (dataString.indexOf(data[i].subString) != -1)
+                                    return data[i].identity;
+                            }
+                            else if (dataProp)
+                                return data[i].identity;
+                        }
+                    },
+                    searchVersion: function (dataString) {
+                        var index = dataString.indexOf(this.versionSearchString);
+                        if (index == -1) return;
+                        return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));
+                    },
+                    dataBrowser: [
+                {
+                    string: navigator.userAgent,
+                    subString: "OmniWeb",
+                    versionSearch: "OmniWeb/",
+                    identity: "OmniWeb"
+                },
+                {
+                    string: navigator.vendor,
+                    subString: "Apple",
+                    identity: "Safari"
+                },
+                {
+                    prop: window.opera,
+                    identity: "Opera"
+                },
+                {
+                    string: navigator.vendor,
+                    subString: "iCab",
+                    identity: "iCab"
+                },
+                {
+                    string: navigator.vendor,
+                    subString: "KDE",
+                    identity: "Konqueror"
+                },
+                {
+                    string: navigator.userAgent,
+                    subString: "Firefox",
+                    identity: "Firefox"
+                },
+                {
+                    string: navigator.vendor,
+                    subString: "Camino",
+                    identity: "Camino"
+                },
+                {		// for newer Netscapes (6+)
+                    string: navigator.userAgent,
+                    subString: "Netscape",
+                    identity: "Netscape"
+                },
+                {
+                    string: navigator.userAgent,
+                    subString: "MSIE",
+                    identity: "Explorer",
+                    versionSearch: "MSIE"
+                },
+                {
+                    string: navigator.userAgent,
+                    subString: "Gecko",
+                    identity: "Mozilla",
+                    versionSearch: "rv"
+                },
+                { 		// for older Netscapes (4-)
+                    string: navigator.userAgent,
+                    subString: "Mozilla",
+                    identity: "Netscape",
+                    versionSearch: "Mozilla"
+                }
+                    ],
+                    dataOS: [
+                {
+                    string: navigator.platform,
+                    subString: "Win",
+                    identity: "Windows"
+                },
+                {
+                    string: navigator.platform,
+                    subString: "Mac",
+                    identity: "Mac"
+                },
+                {
+                    string: navigator.platform,
+                    subString: "Linux",
+                    identity: "Linux"
+                }
+                    ]
 
+                };
+                BrowserDetect.init();
+
+                if (BrowserDetect.browser == "Firefox") {
+                    if (BrowserDetect.version == 2 || BrowserDetect.version == 1.5) {
+                        try {
+                            document.getElementById("spnLnkFire").style.display = "block";
+                            //document.getElementById("FireFooterToolbar").style.display = "block";
+                            //document.getElementById("ffHeadToolbar").style.display = "block";
+                        }
+                        catch (e) { }
+                    }
+                    else {
+                        try {
+                            document.getElementById("spnLnkFire").style.display = "none";
+                            //document.getElementById("FireFooterToolbar").style.display = "none";
+                            //document.getElementById("ffHeadToolbar").style.display = "none";
+                        }
+                        catch (e) { }
+                    }
+
+                    try {
+                        document.getElementById("ffHeadToolbar").style.display = "block";
+                        document.getElementById("spnLnkIE").style.display = "none";
+                        document.getElementById("spnLnkIE7").style.display = "none";
+                        //document.getElementById("ieFooterToolbar").style.display = "none";
+                        document.getElementById("ieHeadToolbar").style.display = "none";
+                    }
+                    catch (e) { }
+                }
+                else {
+                    if (BrowserDetect.browser == "Explorer" && BrowserDetect.version >= 5) {
+                        try {
+                            document.getElementById("spnLnkIE").style.display = "none";
+                            document.getElementById("spnLnkIE7").style.display = "block";
+                            document.getElementById("spnLnkFire").style.display = "none";
+                            //document.getElementById("ieFooterToolbar").style.display = "block";
+                            //document.getElementById("FireFooterToolbar").style.display = "none";
+
+                            document.getElementById("ieHeadToolbar").style.display = "block";
+                            document.getElementById("ffHeadToolbar").style.display = "none";
+                        }
+                        catch (e) { }
+
+                        //    }
+                        //    else
+                        //    {    
+                        //        //document.getElementById("spnLnkIE").style.display = "block";
+                        //        //document.getElementById("spnLnkIE7").style.display = "none";
+                        //        document.getElementById("spnLnkFire").style.display = "none";    
+                    }
+                }
+
+                function fnOpenNewUser() {
+                    window.open("http://www.irazoo.com/NewUser.aspx");
+                }
+
+                try {
+                    document.getElementById('ctl00_lnkNewUserSearch').style.display = "none";
+            } catch (e) { }
+
+            try {
+                document.getElementById('ctl00_lnkNewUserSearch1').style.display = "none";
+            }
+            catch (e) { }
+
+            </script>
+            <span id="ctl00_lblFbLogout" style="display: none;"></span>
+            <script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-2259597-1']);
+                _gaq.push(['_trackPageview']);
+
+                (function () {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+            </script>
+                <!-- Google Code for Remarketing Tag -->
+                <!--------------------------------------------------
+                Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+                --------------------------------------------------->
+                <script type="text/javascript">
+                    /* <![CDATA[ */
+                    var google_conversion_id = 1058356912;
+                    var google_custom_params = window.google_tag_params;
+                    var google_remarketing_only = true;
+                    /* ]]> */
+                </script>
+                <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+                </script>
+                <noscript>
+                <div style="display:inline;">
+                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1058356912/?value=0&amp;guid=ON&amp;script=0"/>
+                </div>
+                </noscript>
+        </form>
         
-        </script>
+        
+        <table cellpadding="0" cellspacing="0" style="right: 0; position: fixed; top: 23%;">
+            <tbody><tr>
+                <td>
+                    <a href="https://irazoo.zendesk.com/login">
+                        <img src="/images/Support.png" alt="iRazoo support"></a>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+   
 
-        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-        </script>
-        <script type="text/javascript">
-            _uacct = "UA-2259597-1";
-            urchinTracker();
-        </script>
-    
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="EZZOm0I4j4XYmysYZVhkFw2">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwKwx77ZAwKCrcCeAQLwop/FBALLlfSNDAL7jo2gDgKI/ISPBwLpx/TOBwLt3PLdCgLknJn1DQKRgaG9DAKw1PHEBg=="></form>
+
+<script type="text/javascript">
+adroll_adv_id = "NUE7VPF4L5CLHCJMYONJ4P";
+adroll_pix_id = "VN4XPN3QRRHBPATLCBG7M6";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
 
 
 </body></html>
