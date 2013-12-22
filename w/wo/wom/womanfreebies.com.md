@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womanfreebies.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604081004id_/http%3A//signup.womanfreebies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womanfreebies.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222055930id_/http%3A//signup.womanfreebies.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Woman Freebies
 
@@ -72,9 +72,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [http://womanfreebies.com](http://womanfreebies.com/)  
-4701 N Federal Highway, Suite 430  
-Pompano Beach, FL 33064
+1338 Wellington Street West, Unit 200  
+Ottawa, ON K1Y 3B7  
+Canada
 
 Email: [sarah@womanfreebies.com](mailto:sarah@womanfreebies.com)  
-Phone: (954) 532-3544  
+Phone: (613) 592-6642  
 FAX: (954) 532-3775
