@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkinghost.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622193252id_/http%3A//www.bookmarkinghost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkinghost.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222045444id_/http%3A//www.bookmarkinghost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BookmarkingHost.com : Store your favorite story and posts in top bookmarking site | Fastest way to submit social bookmarks for social news, technology articles, songs, music & online movies
 
