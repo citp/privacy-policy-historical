@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miraclegarciniacambogia.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607044925id_/http%3A//miraclegarciniacambogia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miraclegarciniacambogia.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222021736id_/http%3A//miraclegarciniacambogia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -132,7 +132,11 @@ The Websites and email messages sometimes contain hypertext links to the web sit
 
 **4.3 Affiliated Companies.**
 
-This Privacy Policy applies to consumers that have signed up on the rippedmusclex.com website. We may sell, brand or share your personal information that you supply to us with other 3rd party businesses so they can bring selected retail opportunities via direct mail, e-mail, telemarketing, pre-recorded messages, or automated attendant telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing. The Company collects minimal demographic and personally identifiable information from many users. This information is aggregated and analyzed to help us tailor future offers and to help our marketing partners and advertising agencies understand the demographics of our customers in order to evaluate the potential effectiveness and profitability of doing business with us. Part of our business model involves sharing personally identifiable information, such as name and address, with third-party marketing concerns. While the Company cannot control the practices of our advertisers and third-party marketers, we endeavor at all times to do business with reputable partners who also follow a best practices model regarding your privacy. All information provided to the Company by the users of this site may be used to support our suppression, validation and enhancement services to other marketing companies, advertising agencies, compilers and data companies. As an example, opt-out information may be shared with other marketing partners so that those users opting out of further offers are suppressed from the partner’s mailings or promotions, as well as our own. In addition to complying with our users’ preferences, it simply makes good business sense to mail only to those customers who have indicated a desire to receive such mailings. The Company’s business model includes participating in affiliate network programs and other co-marketing partnerships to promote our site. We reserve the right to share with 3rd parties the information we collect on this site for any purpose.
+Miracle Garcinia Cambogia. may disclose, transfer, and sell Individual Information to entities affiliated with Miracle Garcinia Cambogia. in Miracle Garcinia Cambogia's discretion.
+
+**4.4 Affiliate Telemarketing Policy**
+
+If you register on our site you may receive live telephone calls from one or more of the callers listed below at the number you provided. You expressly waive all federal and state no call restrictions with respect to such contact. You may opt out of receiving calls at any time by following the instructions provided by the caller or asking the caller to place you on its do not call list. Approved callers: Countrywide Periodicals & Time 2 Read Inc.
 
 **5\. Unsubscribe Procedures.**
 
