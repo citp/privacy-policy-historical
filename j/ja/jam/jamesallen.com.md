@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003195735id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222154053id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Learn about JamesAllen.com and our diamonds and engagement rings.
+# Learn about JamesAllen.coms Privacy Policy
 
 Thank you for visiting JamesAllen.com. James Allen respects your privacy and we understand and share your concern about the privacy of your personal information. This notice describes our privacy policies. By visiting JamesAllen.com, you are confirming your agreement to the privacy policies described in this Privacy Policy.  
 
 
-## Information we collect
+## Information We Collect
 
 We collect and store any information that you may enter on any of our web sites or provide to us in some other way. For example, when you place an order and/or sign-up for email communications and updates, we collect and store personal information so that we may provide the products and services that you have ordered or requested. Such information may include your name, address, age, date of birth, gender, education level, email address, telephone and fax numbers, credit card information and information about your interests and activities. You can choose not to provide certain types of information, but that may result in you being unable to use certain features of our web site(s). We may also collect and store information about other people that you provide to us. For example, you may submit a person's name and address if you wish us to ship a product as a gift to a friend.
 
 We may also automatically collect and store certain types of non-personally identifiable information whenever you visit any of our web pages. For example, like most commercial shopping web sites, we use "cookies" and we obtain certain types of information whenever your web browser accesses any James Allen web site. Such information may include the type of web browser you are using, the operating system of your computer and the domain name of your internet service provider. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience. Utilities are available from third parties to help you visit web sites anonymously, but use of such utilities may also prevent us from providing you with the best shopping experience at JamesAllen.com.
 
-## Use of information
+## Use of Information
 
 All personal information that we collect from our customers is used to improve our relevance to you and to improve your shopping experience with us. We use the information that you provide so that we may provide the products and services that you have ordered or requested. In addition, we may send you (via email or other means) offerings of products or services which we think may be of interest to you or we may ask you to participate in activities such as special surveys. At any time, you can choose to no longer receive any non-transactional emails from JamesAllen by accessing http//www.jamesallen.com/remove and entering the email address to which the email was originally addressed. You may also unsubscribe from other campaigns that you have previously opted to receive by following the instructions on the bottom of the specific campaign.  
 
@@ -31,7 +31,7 @@ We believe that James Allen has in place appropriate procedures to protect the s
 
 ## Access to correction
 
-James Allen gives you access to the personal information that we have collected about you and the ability to correct any errors in such information. For instructions on how to access and/or make corrections to your personal information please contact our offices at 1-877-826-9866.
+James Allen gives you access to the personal information that we have collected about you and the ability to correct any errors in such information. For instructions on how to access and/or make corrections to your personal information please contact our offices at 1-877-826-9866. 
 
 ## Children's privacy
 
