@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecomgyaan.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615210421id_/http%3A//telecomgyaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecomgyaan.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222075749id_/http%3A//telecomgyaan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | telecomGyaan
 
