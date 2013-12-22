@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedfox.me privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530005952id_/http%3A//speedfox.me/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedfox.me privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222082330id_/http%3A//speedfox.me/policy) for the most accurate reproduction.*
 
 # Privacy Policy | SpeedFox
 
