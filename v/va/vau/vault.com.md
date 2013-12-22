@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608223453id_/http%3A//www.vault.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222051431id_/http%3A//www.vault.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|Vault.com
 
@@ -14,7 +14,7 @@ Note that, by using the Site, you confirm your agreement to this Privacy Policy.
 
 **A. Personally Identifiable Information**
 
-Although many parts of the Site do not require you to submit any "personally identifiable information," some areas of the Site may, including, for example and without limitation: (a) when registering on the Site to become a Member; (b) when making a purchase on the Site; (c) when using the [My Vault Account](http://www.vault.com/wps/portal/usa/membership?mode=1&redirecturl=/wps/myportal/usa/myvault/home) area of the Site; and (d) when participating in various activities on or in connection with the Site, such as surveys. As used herein, "personally identifiable information" means information that relates to an identified individual or can be used to identify or contact an individual, including, for example, an individual's name, home address, email address, telephone number, text message address, email address of a wireless device, credit card information, age, gender and other demographic information, or any other information that can be used to identify or contact an individual, whether online or offline. We also collect educational, employment and/or occupation-related information (but we generally do not consider such information to be "personally identifiable information" where it is not identifiable to an individual user or associated with any other information that would cause it to be identifiable to an individual).
+Although many parts of the Site do not require you to submit any "personally identifiable information," some areas of the Site may, including, for example and without limitation: (a) when registering on the Site to become a Member; (b) when making a purchase on the Site; (c) when using the My Vault Account area of the Site; and (d) when participating in various activities on or in connection with the Site, such as surveys. As used herein, "personally identifiable information" means information that relates to an identified individual or can be used to identify or contact an individual, including, for example, an individual's name, home address, email address, telephone number, text message address, email address of a wireless device, credit card information, age, gender and other demographic information, or any other information that can be used to identify or contact an individual, whether online or offline. We also collect educational, employment and/or occupation-related information (but we generally do not consider such information to be "personally identifiable information" where it is not identifiable to an individual user or associated with any other information that would cause it to be identifiable to an individual).
 
 Your personally identifiable information may be used to contact you when necessary. You may opt out of receiving future promotional mailings, and for more information about how to do so, see the "Choice/Opt Out" section below. We also may use this data to tailor your experience at our Site, showing you content that we think you might be interested in, and displaying the content according to your preferences. We also may use demographic information to target advertisements to users from specific demographics.
 
@@ -64,7 +64,7 @@ Throughout the Site, including, for example, on message board postings, we colle
 
 **B. Membership**
 
-In the registration process, information such as email address, ZIP code, current industry and current occupation (as well as other personally identifiable information) may be requested of users who wish to become Vault Members. This profile information may be accessed and modified by you at any time in the [My Vault Account](http://www.vault.com/wps/portal/usa/membership?mode=1&redirecturl=/wps/myportal/usa/myvault/home) area on the Site. Employers and managers who wish to take advantage of Vault's recruiting services such as our Job Board are also asked to provide information about their company, such as company size and name.
+In the registration process, information such as email address, ZIP code, current industry and current occupation (as well as other personally identifiable information) may be requested of users who wish to become Vault Members. This profile information may be accessed and modified by you at any time in the My Vault Account area on the Site. Employers and managers who wish to take advantage of Vault's recruiting services such as our Job Board are also asked to provide information about their company, such as company size and name.
 
 **C. Newsletter subscription boxes**
 
@@ -102,9 +102,9 @@ Please take some time to familiarize yourself with the different ways we may use
 
 **A. Choice/Opt Out**
 
-Vault provides you the opportunity to opt out of receiving most communications from Vault, and/or, if applicable, its affiliates, advertisers, and other business partners in [My Vault Account](http://www.vault.com/wps/portal/usa/membership?mode=1&redirecturl=/wps/myportal/usa/myvault/home). You have the option to remove your information from our database and to not receive future promotional communications from Vault or to no longer receive our service altogether (i.e., end or cancel your Membership). We also give you the option to change or modify the information you have previously provided to us. To exercise any of the foregoing options, you can visit [My Vault Account](http://www.vault.com/wps/portal/usa/membership?mode=1&redirecturl=/wps/myportal/usa/myvault/home) to adjust your preferences, or:
+Vault provides you the opportunity to opt out of receiving most communications from Vault, and/or, if applicable, its affiliates, advertisers, and other business partners in My Vault Account. You have the option to remove your information from our database and to not receive future promotional communications from Vault or to no longer receive our service altogether (i.e., end or cancel your Membership). We also give you the option to change or modify the information you have previously provided to us. To exercise any of the foregoing options, you can visit My Vault Account to adjust your preferences, or:
 
-  * Go to the [contact us](http://www.vault.com/wps/portal/usa/aboutvault/contactus) page.
+  * Go to the [contact us](https://web.archive.org/contact-us.aspx) page.
   * You can send mail to the following postal address: Vault.com Inc. 132 W. 31st St, 17th Floor, New York, NY 10001.
 
 
@@ -178,7 +178,7 @@ Vault's web site does not target children under the age of 13. In the event that
 
 **VIII. Accessing, Changing or Deleting Personal Information**
 
-You may view and, if you wish, change certain personally identifiable information in My Vault by logging in to the Site in [My Vault Account](http://www.vault.com/wps/portal/usa/membership?mode=1&redirecturl=/wps/myportal/usa/myvault/home). For security reasons, we obscure your credit card number (if you have supplied one) and password and you will therefore not be able to see passwords or credit card numbers. You may also view and, if you wish, change information you submitted as part of the registration process, while navigating the site and using the "Save" feature, or in [My Vault Account](http://www.vault.com/wps/portal/usa/membership?mode=1&redirecturl=/wps/myportal/usa/myvault/home). If you are in the European Union, you also have the right to ask us what information we hold about you (for which we will charge you an administration fee) and to ask us to remove or correct any inaccurate information.
+You may view and, if you wish, change certain personally identifiable information in My Vault by logging in to the Site in My Vault Account. For security reasons, we obscure your credit card number (if you have supplied one) and password and you will therefore not be able to see passwords or credit card numbers. You may also view and, if you wish, change information you submitted as part of the registration process, while navigating the site and using the "Save" feature, or in My Vault Account. If you are in the European Union, you also have the right to ask us what information we hold about you (for which we will charge you an administration fee) and to ask us to remove or correct any inaccurate information.
 
 **IX. Contacting the Web Site**
 
