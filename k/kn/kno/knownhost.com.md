@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116043759id_/http%3A//www.knownhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222154321id_/http%3A//www.knownhost.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - KnownHost
+# Privacy Policy For KnownHost - Our Commitment To You
 
-This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact legal@knownhost.com.
+This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact legal@knownhost.com. 
 
-##### Information
+### Information
 
 When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
 
@@ -18,13 +18,13 @@ We will also place a cookie that will identify you to us as a repeat visitor or 
 
 If we send you an e-mail, we may include a marker that will allow to identify e-mail that is opened and viewed.
 
-##### Use of Personally Identifiable Information
+### Use of Personally Identifiable Information
 
 We will use your personally identifiable information only as follows:
 
   * For payment purposes and to provide customer support;
   * To announce special offers or provide other information from time to time via e-mail. We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
-  * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit. 
+  * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit.
 
 
 
@@ -33,28 +33,24 @@ We will not provide any personally identifiable information about you to any oth
   * a law enforcement or regulatory agency at their request;
   * a person or company who acquires our business;
   * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
-  * As otherwise needed to protect or enforce or rights or the rights of others.  
-**We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.**
-
+  * As otherwise needed to protect or enforce or rights or the rights of others.
+**We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.** 
 
 
 We will never disclose your data to any third party unless we are required to do so by court or administrative order. Each party retains all right, title and interest in its data, information and intellectual property rights, and nothing in this Agreement is intended to transfer or diminish such rights. We claim no ownership or control over any content submitted, posted or displayed by you on or through our services.
 
-##### Use of Non-Personally Identifiable Information
+### Use of Non-Personally Identifiable Information
 
 We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally.
 
-##### What is a Cookie
+### What is a Cookie
 
 A "cookie" is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit.
 
-##### Security of Your Information
+### Security of Your Information
 
 We store your personally identifiable information and payment information in protected environment in encrypted format.
 
-##### Children's Privacy
+### Children's Privacy
 
 Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.
-
-  
-
