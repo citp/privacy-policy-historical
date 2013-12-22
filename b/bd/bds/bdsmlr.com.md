@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdsmlr.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621020834id_/http%3A//bdsmlr.com/Terms-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdsmlr.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222052338id_/http%3A//bdsmlr.com/Terms-Privacy) for the most accurate reproduction.*
 
-# Bdsmlr Privacy - Share your favorite BDSM images online!
+# Bdsmlr Privacy - Bdsmlr - Share your favorite BDSM images online!
 
 Thank you for using Bdsmlr! This page helps you to understand our policies.
 
