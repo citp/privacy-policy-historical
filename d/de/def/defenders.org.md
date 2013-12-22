@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621235551id_/http%3A//www.defenders.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222065407id_/http%3A//www.defenders.org/privacy) for the most accurate reproduction.*
 
 # Defenders of Wildlife Privacy Policy | Defenders of Wildlife
 
@@ -85,6 +85,8 @@ If you choose to make an online donation to Defenders, you will have to provide 
 As is true of most Web sites you enter, we automatically collect and store some information about your computer and your visit and store it in log files. This information includes information such as your computer's (or your Internet Service Provider's) Internet Protocol (IP) address (this is not your e-mail address); the domain from which you access the Internet (e.g., "AOL.com" or "Princeton.edu"); the name, version, and specifications of your computer and your computer's operating system; the Internet address of the website, if any, from which you came to our site; the date and time you arrived at our site and how long you spent on the site; and which pages you visited.
 
 We use this information to formulate statistics that show the number of visitors to the different sections of our site and to help us make our site more useful to visitors. For example, we use the browser information to help us design our website so that as many people as possible will be able to view the pages correctly. These statistics do not reveal personal information.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements and scrolling activity . ClickTale does not collect personally identifiable information that you enter on this website, such as in forms that you fill out. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the [ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to find out how we can improve the user experience of our website. You can choose to [disable the Service](http://www.clicktale.net/disable.html). 
 
  **Use of "Cookies" and Disabling "Cookies"** :  
 Cookies are small text files that are either placed on your computer's hard drive ("persistent cookies") or in your computer's Random Access Memory ("session cookies"). We use both persistent cookies and session cookies on our websites.
