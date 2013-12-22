@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the postjoint.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523041007id_/http%3A//www.postjoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postjoint.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222191649id_/http%3A//www.postjoint.com/privacy) for the most accurate reproduction.*
 
-# PostJoint - Terms of Service
-
-## Privacy Policy
+# PostJoint - Privacy Policy
 
 We respect the privacy of your personal information. This policy sets out how we use any personal information collected from you when using our service. For the purpose of the Data Protection Act 1998 (the Act), the data controller is PostJoint Limited.
 
@@ -57,6 +55,3 @@ The Data Protection Act gives you rights to access information held about you. Y
 Any changes we make to our privacy policy will be posted on this page and where appropriate notified to you by e-mail.
 
 Last updated 27 Sept 2012
-
-  
-
