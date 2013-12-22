@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voucherbox.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526014835id_/http%3A//www.voucherbox.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voucherbox.co.uk privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222055548id_/http%3A//www.voucherbox.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Voucherbox.co.uk
+# Privacy Policy - Voucherbox.co.uk
 
 Voucherbox.co.uk takes your privacy seriously. Please read our full policy below to learn more. Voucherbox.co.uk contains links to third party stores and websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and are not affiliated with Voucherbox.co.uk. It is your responsibility to check these policies before you submit any personal data to these websites.
 
@@ -30,7 +30,7 @@ Voucherbox.co.uk reserves the right to change and amend this policy at any time.
 
 ### 7\. How to contact us
 
-If you have any questions or concerns about privacy, security or any other aspect please don’t hesitate to contact us at [hello@voucherbox.co.uk](mailto:hello@voucherbox.co.uk).
+If you have any questions or concerns about privacy, security or any other aspect please don’t hesitate to contact us at hello@voucherbox.co.uk.
 
 ### 8\. Company information
 
@@ -43,6 +43,6 @@ A-6840 Götzis
 Austria
 
 **Email Address**  
-[hello@voucherbox.co.uk](mailto:hello@voucherbox.co.uk)
+hello@voucherbox.co.uk
 
-_This policy was last updated on the 20th April2013._
+_This policy was last updated on the 20th April 2013._
