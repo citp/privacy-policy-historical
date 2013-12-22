@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutionsinfini.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529114922id_/http%3A//www.solutionsinfini.com/private-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutionsinfini.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222055617id_/http%3A//www.solutionsinfini.com/private-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Solutions Infinia
 
