@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxforums.org privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622002030id_/http%3A//www.linuxforums.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxforums.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222183546id_/http%3A//www.linuxforums.org/privacy.php) for the most accurate reproduction.*
 
 # Linux Forums Privacy Policy
 
@@ -19,6 +19,13 @@ Free Publications
 [](http://linuxforums.tradepub.com/c/pubRD.mpl?sr=oc&_t=oc:&qf=w_freb01&ch=button)
 
 [](http://linuxforums.tradepub.com/c/pubRD.mpl?sr=oc&_t=oc:&qf=w_make07&ch=button)  
+  
+| 
+
+##  Featured Article 
+
+|   
+---|---  
   
 This policy applies to the Linux Forums web site and only webpages that contain the http://LinuxForums.org url. You may find important information about safe web surfing at the Federal Trade Commission Website.
 
@@ -72,6 +79,6 @@ Linux Forums may update this policy without notice. In the event of a major chan
 
 The MASMedia Team 
 
-| 
-
 [](http://www.linuxforums.org/linux-jobs.php)
+
+[ ](http://www.jdoqocy.com/ga106vpyvpxCGGHKHJECEDLIHEEI)
