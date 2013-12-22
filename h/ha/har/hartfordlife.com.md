@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hartfordlife.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218180622id_/http%3A//hartfordlife.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartfordlife.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222092222id_/http%3A//www.thehartford.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last Updated April 7, 2011_
+_Last Updated Dec. 9, 2013_
 
 The Hartford values your trust and is committed to the responsible management, use and protection of personal information. This Online Privacy Policy describes and supplements other applicable policies, practices and privacy notices that may relate to specific business relationships you have with The Hartford or to certain products or services, as described in the particular privacy notice. At the start of our business relationship with you as a client, we will give you a copy of our Privacy Notice that applies to that relationship if applicable.
 
@@ -120,6 +120,8 @@ We may gather and store aggregate information about visitors. The collection of 
 
 
 We also use service providers to help us develop applications for your convenience, such as to submit a claim through your mobile device. These application service providers may use tracking pixels, agents or other visitor identification technology to collect certain non-personal information, such as your browser type, your operating system, and other information that does not identify you. The application service providers do not receive your claims information or any other information that identifies you.
+
+We and the third parties we partner with currently do not process or comply with any web browser's "do not track" signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit our websites or use our services.
 
 Back to top
 
