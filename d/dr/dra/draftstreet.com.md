@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draftstreet.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615132301id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftstreet.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222101647id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Fantasy Sports Money Leagues, Win Cash and Prizes Today
 
@@ -6,7 +6,7 @@
 
 ## DraftStreet™ Website Privacy Policy
 
-Thank you for visiting the DraftStreet™ website located at www.draftstreet.com (the “Site”). The Site is an Internet property of Left Tackle LLC (“DraftStreet™,” “we” or “us”). This DraftStreet™ Website Privacy Policy (“Privacy Policy”) covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a DraftStreet™ Member (as defined in the DraftStreet™ Website Terms and Conditions (“Terms and Conditions”)); (c) use the DraftStreet™ Services (as defined in the Terms and Conditions); (d) purchase DraftStreet™ products, or register to purchase DraftStreet™ purchase products, from the DraftStreet™ shop accessible via the Site (“DraftStreet™ Shop”); and/or (e) register for one of our sweepstakes, promotional offers or contests (the “Sweepstakes”). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing. 
+Thank you for visiting the DraftStreet™ website located at www.draftstreet.com (the “Site”). The Site is an Internet property of Skyllzone LLC (“DraftStreet™,” “we” or “us”). This DraftStreet™ Website Privacy Policy (“Privacy Policy”) covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a DraftStreet™ Member (as defined in the DraftStreet™ Website Terms and Conditions (“Terms and Conditions”)); (c) use the DraftStreet™ Services (as defined in the Terms and Conditions); (d) purchase DraftStreet™ products, or register to purchase DraftStreet™ purchase products, from the DraftStreet™ shop accessible via the Site (“DraftStreet™ Shop”); and/or (e) register for one of our sweepstakes, promotional offers or contests (the “Sweepstakes”). It is important that visitors are fully informed about the use of their Personal Information. We believe in 100% permission-based marketing. 
 
 If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: [cs@draftstreet.com](mailto:cs@draftstreet.com). Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law. 
 
@@ -87,6 +87,6 @@ By using the Site, DraftStreet™ Shop, Sweepstakes and/or DraftStreet™ Servic
 If you have any questions about this Privacy Policy, the practices of the Site, DraftStreet™ Shop, Sweepstakes and/or DraftStreet™ Services or your dealings with same, please e-mail us at [cs@draftstreet.com](mailto:cs@draftstreet.com), or send a letter to: 
 
 DraftStreet  
-111 W 28th St  
-Suite 2B  
-New York, NY 10001 
+36 E 12th St  
+Floor 2  
+New York, NY 10003 
