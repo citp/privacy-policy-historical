@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stereogum.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624042709id_/http%3A//stereogum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stereogum.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153334id_/http%3A//www.stereogum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stereogum
 
@@ -24,7 +24,7 @@ Personal Information is used for the following purposes: (i) to provide and impr
 
 **Children’s Privacy**
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [privacy@buzz-media.com](mailto:privacy@buzz-media.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [admin@stereogum.com](mailto:admin@stereogum.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
@@ -76,4 +76,4 @@ The Site contains links to other websites. If you choose to visit an advertiser 
 **VIOLATIONS AND COMMENTS**
 
 Please report any violations of this Privacy Policy or make any comments to  
-[**contact@buzz-media.com**](mailto:contact@buzz-media.com).  You may also contact us by mail to Buzz Media, 6464 W. Sunset Blvd., #650, Hollywood, California 90028.
+[**admin@stereogum.com**](mailto:admin@stereogum.com).
