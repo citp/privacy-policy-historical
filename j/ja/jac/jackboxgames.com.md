@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jackboxgames.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611204358id_/http%3A//jackboxgames.com/%3Fpage_id%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackboxgames.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222035251id_/http%3A//jackboxgames.com/%3Fpage_id%3D29) for the most accurate reproduction.*
 
-# Privacy Policy | Jackbox Games
+# Privacy Policy | Jackbox GamesJackbox Games
 
 Version Date: 3/13/2012
 
