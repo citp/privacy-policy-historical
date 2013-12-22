@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623203116id_/http%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153113id_/http%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy — Websense.com
 
@@ -6,11 +6,11 @@
 
   * [Overview](https://web.archive.org/content/company.aspx)
 
+  * [Management](https://web.archive.org/content/management.aspx)
+
   * [History](https://web.archive.org/content/company-timeline.aspx)
 
     * [ Accolades](https://web.archive.org/content/accolades.aspx)
-  * [Investors](https://web.archive.org/content/websense-investors.aspx)
-
   * [Events](https://web.archive.org/content/events.aspx)
 
   * [Careers](https://web.archive.org/content/careers.aspx)
@@ -21,8 +21,6 @@
     * [ Anti-Censorship Policy](https://web.archive.org/content/censorship-policy.aspx)
     * [ Copyright and Trademarks](https://web.archive.org/content/copyright.aspx)
   * [News and Views](https://web.archive.org/content/news-and-views.aspx)
-
-  * [Newsletters](https://web.archive.org/content/websense-newsletters.aspx)
 
   * [Blocked by Websense?](https://web.archive.org/content/blocked-by-websense.aspx)
 
