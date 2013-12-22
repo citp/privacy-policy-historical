@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumally.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604090212id_/http%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumally.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222101929id_/http%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Sumally / Privacy Policy
 
