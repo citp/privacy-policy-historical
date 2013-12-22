@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelonly.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625063340id_/http%3A//www.travelonly.com/en/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelonly.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222205400id_/http%3A//www.travelonly.com/en/c/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy Legal documentation - TravelOnly
 
@@ -8,6 +8,8 @@ Thank you for visiting our web site. This privacy policy tells you how we use pe
 
 Collection of Information  
 We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+
+TravelOnly uses Google remarketing or similar audiences to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. Third-party vendors, including Google, use cookies to serve ads based on visitors past visits to your website.Visitors can opt out of Google's use of cookies by visiting Google's Ads Settings. Alternatively, visitors can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
 Cookie/Tracking Technology  
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
