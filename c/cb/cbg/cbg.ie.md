@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527034741id_/http%3A//www.cbg.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222181310id_/http%3A//www.cbg.ie/home/privacy) for the most accurate reproduction.*
 
-# Car Buyers Guide - Privacy Policy
+# Privacy Policy | Car Buyer Guide
 
-**Last updated April 1st 2008**
+**Last updated April 15th 2013**
 
-The fee for our online service is €2.50 each week. As our customer this entitles you to use our services on the web site www.cbg.ie. From time to time we provide this service free of charge. To avail of our services you must also register your personal information with us. Car Buyers Guide knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy. **> By using Car Buyers Guide web site, you are accepting and consenting to the practices described in this Privacy Notice.**
+As our customer this entitles you to use our services on the web site www.cbg.ie. From time to time we provide this service free of charge. To avail of our services you must also register your personal information with us. Car Buyers Guide knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy. **> By using Car Buyers Guide web site, you are accepting and consenting to the practices described in this Privacy Notice.**
 
 **Controllers of Personal Information**
 
@@ -63,3 +63,15 @@ You provide most of such information when you search, buy, post, participate in 
 **Automatic Information**
 
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet, login, e-mail address, password, computer and connection information such as browser type and version, your operating system and platform, purchase history, which we sometimes aggregate with similar information from other customers to create features the full Uniform Resource Locators (URL), through and from our website (including date and time), cookie number and products/vehicles/editorial you viewed or searched for. 
+
+  
+Should you wish to stop receiving any of out emails you can find an unsubscribe link at the footer of all out emails.   
+Company address - MenuPages, Unit 12 The Courtyard, Carmanhall Road, Sandyford, Dublin 18, Ireland   
+Company email - info@cbg.ie   
+Tel - (01) 240 5515 
+
+**Does Car Buyers Guide Share the Information It Receives?**
+
+Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below: Behavioural Advertising Companies 
+
+These companies help us manage online advertising. Our approved, advertising partners, primarily Crimtan and Insightful Media use cookies together with web beacons to provide advertising to you and to enable us to manage our relationship with those advertisers by, for example, tracking how many unique users have seen a particular advertisement or followed a link in an advertisement. to measure general user behaviour across our sites and third party sites to build a profile based on users browsing patterns so that we and third parties can target advertising to users that will be more relevant to users’ interests. This means that if, for example, users visit a page with a review about a particular car then the cookie will collect this information and we may target adverts for that car to those users and, if users visit third party sites that are part of the same advertising network, those third parties may target adverts for that car to those users. If you would prefer to opt out of cookies please [click here](http://www.futureplc.com/cookies-policy/how-can-i-manage-or-opt-out-of-cookies/#c).
