@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pattaya-addicts.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430083630id_/http%3A//pattaya-addicts.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pattaya-addicts.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222064340id_/http%3A//www.pattaya-addicts.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Pattaya Forum | Pattaya City Beach Resort Nightlife, Pattaya Bar Girls, News and Social Networking | Pattaya Hotels Thailand
 
