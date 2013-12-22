@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seocopywriting.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622021231id_/https%3A//www.seocopywriting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocopywriting.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222183441id_/http%3A//www.seocopywriting.com/privacy) for the most accurate reproduction.*
 
 # Privacy » SEO Copywriting
 
-SuccessWorks Search Marketing, Inc. takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that we take to ensure your privacy and security while giving you the best possible customer service as you use our websites.
+[private]SuccessWorks Search Marketing, Inc. takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that we take to ensure your privacy and security while giving you the best possible customer service as you use our websites.
 
 ### Ordering Online
 
@@ -29,5 +29,7 @@ The information presented in our programs is for the exclusive use of SuccessWor
 Portland, OR 97209  
 (503) 922-3627  
 [http://www.seocopywriting.com](http://www.seocopywriting.com/)
+
+[/private]
 
 * * *
