@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bsasoftware.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406025630id_/http%3A//www.bsasoftware.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsasoftware.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223064659id_/http%3A//www.bsasoftware.com/Privacy-Statement) for the most accurate reproduction.*
 
-# BS&A Software Home
+# BS&A Software > Privacy Statement
 
 BS&A Software is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the BS&A Software website and governs data collection and usage. By using the BS&A Software website, you consent to the data practices described in this statement.
 
@@ -44,5 +44,4 @@ BS&A Software will occasionally update this Statement of Privacy to reflect comp
 
 Contact Information
 
-BS&A Software welcomes your comments regarding this Statement of Privacy. If you believe that BS&A Software has not adhered to this Statement, please contact BS&A Software at WebAdmin@bsasoftware.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.   
- 
+BS&A Software welcomes your comments regarding this Statement of Privacy. If you believe that BS&A Software has not adhered to this Statement, please contact BS&A Software at WebAdmin@bsasoftware.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.  
