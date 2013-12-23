@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iowatelecom.net privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511112009id_/http%3A//www.windstream.com/About-Us/Privacy-Policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iowatelecom.net privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223075143id_/http%3A//www.windstream.com/About-Us/Privacy-Policy-page) for the most accurate reproduction.*
 
-# Windstream Privacy Policy
+# Privacy Policy | Cable TV | Local Phone | Windstream
+
+## Windstream Privacy Policy
 
 Privacy Statement
 
