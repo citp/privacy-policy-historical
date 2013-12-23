@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the readanddigest.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607025711id_/http%3A//readanddigest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readanddigest.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223200706id_/http%3A//readanddigest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Read and Digest
 
-Privacy Policy of ReadandDigest.com
+Privacy Policy
 
 * * *
 
