@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621214913id_/http%3A//www.itnews.com.au/Info/Default.aspx%3Fsi%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223071049id_/http%3A//www.itnews.com.au/Info/Default.aspx%3Fsi%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy - iTnews.com.au
 
@@ -48,16 +48,16 @@ In certain circumstances, we will use or disclose your personal information for 
 **Email Marketing**  
 At times we may send you promotional email offers we think you will be interested in (competitions, surveys and other offers). It is our policy to contact you in this manner, only if we have your consent to do so. Please note that we will have deemed to have been granted consent under the following circumstances:
 
-  * where you have given us direct consent, via telephone, email, in writing or when prompted on one of our competitions, subscription, survey or other collection forms. 
-  * where we have stated that your consent is required as part of our terms and conditions on one of our competitions, surveys or other promotional offers. 
-  * where we have a direct relationship with you, via your purchase of one of our products. Please note in this circumstance, consent is only recorded for that specific product. 
-  * where you have subscriber to one on our online site or newsletter products. Please note in this circumstance, consent is only recorded for that specific product. 
+  * where you have given us direct consent, via telephone, email, in writing or when prompted on one of our competitions, subscription, survey or other collection forms.
+  * where we have stated that your consent is required as part of our terms and conditions on one of our competitions, surveys or other promotional offers.
+  * where we have a direct relationship with you, via your purchase of one of our products. Please note in this circumstance, consent is only recorded for that specific product.
+  * where you have subscriber to one on our online site or newsletter products. Please note in this circumstance, consent is only recorded for that specific product.
 
 
 
 If at any time you wish to withdraw your consent to receive any such promotional material from any Haymarket Media Pty Limited product, simply email [members@haymarketmedia.com.au](mailto:members@haymarketmedia.com.au) with the following details; email and full name and we will do our best to locate you in our database.
 
-**Data Quality**   
+**Data Quality**  
 We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up-to-date.
 
 **Data security**  
@@ -70,7 +70,7 @@ In accordance with the Act, we have prepared this document which clearly express
 
 Upon request, we will take reasonable steps to let you know, generally, what sort of personal information we hold on you, for what purposes, and how we collect, hold, use and disclose that information.
 
-**Access and Correction**   
+**Access and Correction**  
 In most circumstances, where we hold personal information about you, we will provide you with access to the information upon your request. The following are permissible exceptions under the Act:
 
   1. providing access would pose a serious and imminent threat to the life or health of any individual; or
@@ -82,11 +82,11 @@ In most circumstances, where we hold personal information about you, we will pro
   7. denying access is required or authorised by or under law; or
   8. providing access would be likely to prejudice an investigation of possible unlawful activity; or
   9. providing access would be likely to prejudice: 
-    * the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or 
-    * the enforcement of laws relating to the confiscation of the proceeds of crime; or 
-    * the protection of the public revenue; or 
-    * the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or 
-    * the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders; by or on behalf of an enforcement body; or 
+    * the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or
+    * the enforcement of laws relating to the confiscation of the proceeds of crime; or
+    * the protection of the public revenue; or
+    * the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or
+    * the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders; by or on behalf of an enforcement body; or
   10. an enforcement body performing a lawful security function asks the organisation not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia.
 
 
@@ -138,15 +138,15 @@ Despite the above, we are still allowed collect health information about you und
   1. the information is necessary to provide a health service to you; and
   2. the information is collected as required by law (other than this Act) or in accordance with rules established by competent health or medical bodies that deal with obligations of professional confidentiality binding to us.
   3. the collection is necessary for any of the following purposes: 
-    * research relevant to public health or public safety; 
+    * research relevant to public health or public safety;
     * the compilation or analysis of statistics relevant to public health or public safety;
-    * the management, funding or monitoring of a health service; 
-and 
+    * the management, funding or monitoring of a health service;
+and
   4. that purpose cannot be served by the collection of information that does not identify you or from which the your identity cannot reasonably be ascertained; and
   5. it is impracticable for us to seek your consent to the collection; and
   6. the information is collected: 
-    * as required by law (other than this Act); or 
-    * in accordance with rules established by competent health or medical bodies that deal with obligations of professional confidentiality which bind the organisation; or 
+    * as required by law (other than this Act); or
+    * in accordance with rules established by competent health or medical bodies that deal with obligations of professional confidentiality which bind the organisation; or
     * in accordance with guidelines approved by the Commissioner under section 95A for the purposes of this subparagraph.
 
 
@@ -156,7 +156,7 @@ Should you wish to contact us in relation to any of the information contained wi
 
 **The Privacy Officer  
 Haymarket Media  
-52 Victoria St** **McMahons Point  
+50 Victoria St** **McMahons Point  
 NSW 2060, Australia.**
 
 Please enclose a stamped self-addressed envelope in which we will send copies of any personal information held on you.
