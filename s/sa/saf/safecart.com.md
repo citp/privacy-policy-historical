@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the safecart.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511084012id_/https%3A//www.safecart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecart.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223135020id_/https%3A//www.safecart.com/privacy) for the most accurate reproduction.*
 
 # SafeCart - Privacy Policy
 
 ### Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.safecart.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Revenuewire,-Inc-/validation?rid=0e913ad0-dc4e-44c7-b921-88e9a8470714 "TRUSTe online privacy certification")
 
 ### SafeCart® Privacy Policy
 
