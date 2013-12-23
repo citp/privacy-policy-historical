@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the hitgrab.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629090223id_/http%3A//www.hitgrab.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitgrab.com privacy policy that was archived on 2013-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223130121id_/http%3A//www.hitgrab.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<title>Play Online Social Games | Privacy Policy | HitGrab Inc.</title>
 		<link rel="stylesheet" type="text/css" href="css/hitgrab.css">
-		<link href="css/lightbox.css" rel="stylesheet">
-		<link href="http://fonts.googleapis.com/css?family=Chewy|Luckiest+Guy|Passion+One" rel="stylesheet" type="text/css">
-		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=115651295233249"></script><script src="js/jquery-1.7.2.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/games.css">
+		<link rel="stylesheet" type="text/css" href="css/lightbox/lightbox.css">
+		<link href="http://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600|Quattrocento+Sans:400,700" rel="stylesheet" type="text/css">
+	    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=115651295233249"></script><script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+		<script src="js/jquery-1.7.2.min.js"></script>
 		<script src="js/lightbox.js"></script>
 		<script type="text/javascript">
 			(function(d, s, id) {
@@ -38,6 +41,34 @@
 		       		document.getElementById('jobsSidebar').className = "jobsSidebar collapsed";
 		       }
 		    }
+
+		    // Google map
+			var geocoder;
+			var map;
+			var address = '55 Adelaide Street East, Suite 410, Toronto, ON, M5C1K6'
+
+			function initialize() {
+				geocoder = new google.maps.Geocoder();
+				var mapOptions = {
+					zoom: 16,
+					mapTypeId: google.maps.MapTypeId.ROADMAP
+				}
+				geocoder.geocode( { 'address': address}, function(results, status) {
+					if (status == google.maps.GeocoderStatus.OK) {
+						map.setCenter(results[0].geometry.location);
+						var marker = new google.maps.Marker({
+							map: map,
+							position: results[0].geometry.location,
+							title: 'HitGrab Inc.'
+						});
+					} else {
+						alert("Geocode was not successful for the following reason: " + status);
+					}
+				});
+				map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+  			}
+
+			google.maps.event.addDomListener(window, 'load', initialize);
 		</script>
 	</head>
 	<body>
@@ -58,21 +89,31 @@
 											<div class="itemName left">MouseHunt</div>
 											<div style="clear:both;"></div>
 										</a>
-										<a class="menuItem mp" href="magicpets.php">
+										<a class="menuItem bh" href="bravehero.php">
+											<div class="itemImg left"></div>
+											<div class="itemName left">Brave Hero</div>
+											<div style="clear:both;"></div>
+										</a>
+										<a class="menuItem wc" href="watercraft.php">
+											<div class="itemImg left"></div>
+											<div class="itemName left">Water Craft</div>
+											<div style="clear:both;"></div>
+										</a>
+										<a class="menuItem mp last" href="magicpets.php">
 											<div class="itemImg left"></div>
 											<div class="itemName left">Magic Pets</div>
 											<div style="clear:both;"></div>
 										</a>
-										<a class="menuItem bb" href="battleblocks.php">
-											<div class="itemImg left"></div>
-											<div class="itemName left">BattleBlocks</div>
-											<div style="clear:both;"></div>
-										</a>
-										<a class="menuItem ls last" href="londonsports.php">
+										<!-- <a class="menuItem ls" href="londonsports.php">
 											<div class="itemImg left"></div>
 											<div class="itemName left">London Sports</div>
 											<div style="clear:both;"></div>
 										</a>
+										<a class="menuItem bb last" href="battleblocks.php">
+											<div class="itemImg left"></div>
+											<div class="itemName left">BattleBlocks</div>
+											<div style="clear:both;"></div>
+										</a> -->
 										<!--
 										<a class="menuItem ll last" href="levynlight.php">
 											<div class="itemImg left"></div>
@@ -104,7 +145,7 @@
 		
 			<div class="contentAreaWithHeader aboutGame left">
 				<div class="header left">
-					<div class="icon left" style="background:url('images/headericons/header_icon_info.png') no-repeat;"></div>
+					<div class="icon left"></div>
 					<div class="text left">Privacy Policy</div>
 				</div>
 				<div class="contentArea left">
@@ -184,14 +225,14 @@
 			<div class="content">
 				<!-- <div class="followUsOnlineTxt">Follow Us Online</div> -->
 				<div class="socialMediaLinks">
-					<a class="twitterBtn left" href="http://www.twitter.com/hitgrab"></a>
-					<a class="facebookBtn left" href="http://www.facebook.com/hitgrab"></a>
-					<a class="youtubeBtn left" href="http://www.youtube.com/hitgrab"></a>
+					<a class="twitterBtn left" href="http://www.twitter.com/hitgrab" target="_blank"></a>
+					<a class="facebookBtn left" href="http://www.facebook.com/hitgrab" target="_blank"></a>
+					<a class="youtubeBtn left" href="http://www.youtube.com/hitgrab" target="_blank"></a>
 					<div style="clear:both;"></div>
 				</div>
-				<a class="logo" href="#"></a>
-				<div class="address">HitGrab Inc. • 55 Adelaide Street East, Suite 410 • Toronto, ON • M5C 1K6 • toll-free: +1-855-547-8777 • t: +1-905-766-3373<br>Copyright © 2012 HitGrab Inc. All rights reserved. <a href="termsofservice.php">Terms of Service</a> | <a href="privacypolicy.php">Privacy Policy</a></div>
+				<a class="logo" href="index.php"></a>
+				<div class="address">HitGrab Inc. • 55 Adelaide Street East, Suite 410 • Toronto, ON • M5C 1K6 • toll-free: +1-855-547-8777 • t: +1-905-766-3373<br>Copyright © 2013 HitGrab Inc. All rights reserved. <a href="termsofservice.php">Terms of Service</a> | <a href="privacypolicy.php">Privacy Policy</a></div>
 			</div>
 		</div>
 
-<div id="lightboxOverlay" style="display: none;"></div><div id="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image"><div class="lb-nav"><a class="lb-prev"></a><a class="lb-next"></a></div><div class="lb-loader"><a class="lb-cancel"><img src="images/loading.gif"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"><img src="images/close.png"></a></div></div></div></div></body></html>
+<div id="lightboxOverlay" style="display: none;"></div><div id="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image"><div class="lb-nav"><a class="lb-prev"></a><a class="lb-next"></a></div><div class="lb-loader"><a class="lb-cancel"><img src="images/lightbox/loading.gif"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"><img src="images/lightbox/close.png"></a></div></div></div></div></body></html>
