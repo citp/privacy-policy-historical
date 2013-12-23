@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodporndaily.com privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201223206id_/http%3A//foodporndaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodporndaily.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223045816id_/http%3A//foodporndaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy « FoodPornDaily | Food Porn, Food Photography
 
@@ -13,7 +13,8 @@ We collect the e-mail addresses of those who communicate with us via e-mail and 
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+
 
 http://www.adify.com/privacy-policy
 
