@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317101835id_/http%3A//support.littlebits.cc/entries/22220088-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223025057id_/http%3A//support.littlebits.cc/entries/22220088-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : littleBits customer service
 
