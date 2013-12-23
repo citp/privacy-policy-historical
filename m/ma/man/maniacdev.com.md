@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407052140id_/http%3A//maniacdev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223175933id_/http%3A//maniacdev.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iOS App Dev Libraries, Controls, Tutorials, Examples and Tools
 
@@ -34,7 +34,7 @@ We use cookies to understand and save your preferences for future visits, keep t
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) .
 
 **Third party links**
 
