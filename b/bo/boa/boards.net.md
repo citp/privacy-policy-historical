@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boards.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531033517id_/http%3A//boards.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards.net privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223135121id_/http%3A//boards.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ProBoards
 
