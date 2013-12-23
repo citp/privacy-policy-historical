@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625035804id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223131119id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
 
 # How we collect and use member information | BigTent
 
-Privacy Policy last modified on February 6, 2011.
+Privacy Policy last modified on September 6, 2013.
 
 BigTent's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using BigTent, located at [www.bigtent.com](https://www.bigtent.com/) and its directly associated domains (collectively, "BigTent Site")
 
@@ -88,7 +88,7 @@ Sharing with other third parties: The BigTent Site is intended to allow you to s
 
 
 
-Third party advertisers: Third party advertisers have no access to your personal profile information or User Content stored on the BigTent Site unless you choose to share it with them. They may have access to anonymous User Content in order to target contextually relevant advertisements. Advertisements that appear on BigTent are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. BigTent does not have access to or control of the cookies that may be placed by the third party advertisers. 
+Third party advertisers: Third party advertisers have no access to your personal profile information or User Content stored on the BigTent Site unless you choose to share it with them. They may have access to anonymous User Content in order to target contextually relevant advertisements. Advertisements that appear on BigTent are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. BigTent does not have access to or control of the cookies that may be placed by the third party advertisers or third party ad vendors. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 ### Changing or Removing Information
 
@@ -120,4 +120,4 @@ Your use of the BigTent Site, and any disputes arising from it, is subject to th
 
 ### Contacting BigTent
 
-If you have any questions about this privacy policy, please contact us at privacy@bigtent.com. You may also contact us by mail at Big Tent Design, Inc., ATTN: PRIVACY, 72 Townsend Street, San Francisco, CA 94107. 
+If you have any questions about this privacy policy, please contact us at privacy@bigtent.com. You may also contact us by mail at Care.com, Inc., 201 Jones Road, Suite 500, Waltham, MA 02451. 
