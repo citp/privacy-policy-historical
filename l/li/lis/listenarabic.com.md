@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the listenarabic.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211403id_/https%3A//www.listenarabic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listenarabic.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223155826id_/http%3A//www.listenarabic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Download FREE Arabic Songs Radio App ListenArabic.com
 
 ### Get to know more about ListenArabic.com Privacy policy.
 
- **ListenArabic.com Privacy policy  **
+**ListenArabic.com Privacy policy  **
 
  **What information do we collect?**
 
