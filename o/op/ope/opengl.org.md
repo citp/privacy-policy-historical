@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opengl.org privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623025929id_/http%3A//www.opengl.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengl.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223063233id_/http%3A//www.opengl.org/legal) for the most accurate reproduction.*
 
 # OpenGL.org Privacy Policy
 
