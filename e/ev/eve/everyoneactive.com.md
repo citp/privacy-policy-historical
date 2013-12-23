@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyoneactive.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623210428id_/http%3A//everyoneactive.com/Default.aspx%3Ftabid%3D724) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyoneactive.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223033128id_/http%3A//www.everyoneactive.com/Default.aspx%3Ftabid%3D724) for the most accurate reproduction.*
 
 # Privacy Policy
 
