@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askannamoseley.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621231532id_/http%3A//askannamoseley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askannamoseley.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223071411id_/http%3A//askannamoseley.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Ask Anna
 
