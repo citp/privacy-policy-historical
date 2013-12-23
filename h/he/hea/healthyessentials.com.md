@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthyessentials.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522091036id_/http%3A//healthyessentials.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyessentials.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223193043id_/http%3A//www.healthyessentials.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Healthy Essentials™
+# Privacy Policy for the HEALTHY ESSENTIALS® website
 
 Welcome to healthyessentials.com! This site is owned by Johnson & Johnson Consumer Products Company Division of Johnson & Johnson Consumer Companies, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is intended for use by residents of the United States. 
 
@@ -67,11 +67,12 @@ If you have any questions, comments, requests, or concerns related to this Priva
 
 Johnson & Johnson Consumer Products Company   
 Attn: Information Center   
-199 Grandview Road Skillman, NJ 08558-9418   
+199 Grandview Road Skillman,   
+NJ 08558-9418   
 1-888-223-0182 
 
 #### Changes to This Privacy Policy
 
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on December 27, 2011. 
 
-© Johnson & Johnson Consumer Companies, Inc. 2012. The third party trademarks used herein are trademarks of their respective owners. 
+© Johnson & Johnson Consumer Companies, Inc. 2013. The third party trademarks used herein are trademarks of their respective owners. 
