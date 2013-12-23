@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenshealthmag.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628210315id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealthmag.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223044050id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
@@ -14,7 +14,7 @@ Rodale and its subsidiaries, (together "Rodale") the world's leading healthy lif
 ---|---|---  
 [](http://www.runnersworld.com/) | [](http://www.runningtimes.com/) | [](http://www.bicycling.com/)  
 [](http://eatthis.menshealth.com/home) | [](http://www.organicgardening.com/) | [](http://www.rodaleinc.com/products/books)  
-[](http://www.rodale.com/) | [](http://www.rodales.com/signup/index) | [](http://fitbie.msn.com/)  
+[](http://www.rodalenews.com/) | [](http://www.rodales.com/signup/index) | [](http://fitbie.msn.com/)  
   
 We believe you have the right to know everything regarding the information we collect about you, how this information benefits you, and how you can say "no" to the use of any of this information.
 
