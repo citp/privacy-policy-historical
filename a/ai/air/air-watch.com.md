@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the air-watch.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623014329id_/http%3A//www.air-watch.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air-watch.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223065123id_/http%3A//www.air-watch.com/company/privacy-policy) for the most accurate reproduction.*
 
 # AirWatch Privacy Policy | AirWatch
 
