@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the estarland.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622014944id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the estarland.com privacy policy that was archived on 2013-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223070910id_/http%3A//www.estarland.com/index.asp%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.-->
 
-<html><head>
-<link rel="canonical" href="http://www.estarland.com/PrivacyPolicy.html">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta name="verify-v1" content="qV8mFgm/nwls3YsRJZuhXUeJZm4x238xdEpsaXYB3+A=">
 <meta name="google-site-verification" content="zYmFvkSp3Xu-UAhfBm50PanN1MxJS8X0YY5KwBRUJ-4">
 <meta name="google-site-verification" content="yCKOJzDwUkBIxzue0bvyqV1mSrISMvWVI4d3z4IccUA">
+<meta name="google-site-verification" content="zYmFvkSp3Xu-UAhfBm50PanN1MxJS8X0YY5KwBRUJ-4">
 <title>eStarland Privacy / Security Policy - Video Games &amp; Anime Merchandise</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="">
@@ -34,10 +34,10 @@ jQuery(document).ready(function(){
 		function change(item) {
 			if (item){
 				jQuery("#searchInput").val(item.value);
-				//var objs = document.getElementsByName('form1');
-				//if (objs.length > 0)
-				//	objs[0].submit();
-				window.location.href = '/index.asp?product=' + item.id;
+				if (item.url_rewrite == '1')
+					window.location.href = '/' + item.page + '.product.' + item.id + '.html';
+				else
+					window.location.href = '/index.asp?page=' + item.page + '&product=' + item.id;
 			}
 		}
 		function tip(message) {
@@ -68,6 +68,8 @@ jQuery(document).ready(function(){
 								id: item.ID,
 								value: item._Value,
 								label: item._Label,
+								page: item.Page,
+								url_rewrite: item.url_rewrite,
 								src: item
 							}
 						}));
@@ -79,12 +81,7 @@ jQuery(document).ready(function(){
 			}
 		})
 		.data("autocomplete")._renderItem = function(ul, item) {
-			//if (!widthCorrected) {
-				//jQuery(ul).css('width', 'auto');
-				//jQuery(ul).css('min-width', '250px;');
-				//jQuery(ul).width(250);
-				widthCorrected = true;
-			//}
+			widthCorrected = true;
 			return jQuery("<li></li>").width(560).data("item.autocomplete", item).append('<a>' + item.label + '</a>').appendTo(ul);
 		};
 	});
@@ -119,337 +116,84 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,lo
 
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=47077412"></script></head><body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_onload();">
 <div align="center">
-  <table width="905" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr valign="top"> 
-      <td width="5"><img src="images/pix.gif" width="5" height="10"></td>
-      <td width="765"> 
-  <table width="765" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr> 
-      <td rowspan="3" valign="bottom"><a href="index.asp?page=DefaultPage"><img src="images/header_562x55_2_01.jpg" width="219" height="56" alt="eStarland, Home of the best trade in values on the planet! New &amp; used video games &amp; anime merchandise from worldwide." border="0"></a></td>
-      <td rowspan="3" width="343">
-        <table width="343" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td><a href="/TradeIn.html"><img src="images/header_562x55_2_02.jpg" border="0" width="175" height="56"></a></td>
-            <td><a href="/TradeIn.html"><img src="images/header_562x55_2_03.jpg" border="0" width="168" height="56"></a></td>
-          </tr>
-        </tbody></table>
-      </td>
-      <td width="203"><img src="images/header_offer2a.gif" width="203" height="18" border="0"></td>
-    </tr>
-    <tr> 
-      <td width="203">
-      
+ 
+<table width="905" border="0" cellspacing="0" cellpadding="0">
+     <tbody><tr valign="top"> 
+      <td width="905px">
+      <div align="left">
+      </div><table width="770px">
+       <tbody><tr valign="top">
+      <td width="5px"><img src="images/pix.gif" width="5" height="10"></td>
+      <td width="765px"> 
+       <table width="765px" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+         <td rowspan="3" valign="bottom"><a href="index.asp?page=DefaultPage"><img src="images/40daysale_562x55_2_01.jpg" width="219" height="56" alt="eStarland, Home of the best trade in values on the planet! New &amp; used video games &amp; anime merchandise from worldwide." border="0"></a></td>
+         <td rowspan="3" width="343">
+          <table width="343" border="0" cellspacing="0" cellpadding="0">
+           <tbody><tr>
+            <td><a href="/promo/40daysale.html"><img src="images/40daysale_562x55_2_02.jpg" border="0" width="175" height="56" alt=" 3 Deals a Day " til="" christmas!="" don't="" delay!'=""></a></td>
+            <td><a href="/promo/40daysale.html"><img src="images/40daysale_562x55_2_03.jpg" border="0" width="168" height="56" alt=" 3 Deals a Day " til="" christmas!="" don't="" delay!'=""></a></td>
+           </tr>
+          </tbody></table>
+         </td>
+         <td width="203"><img src="images/header_offer2a.gif" width="203" height="13" border="0"></td>
+        </tr>
+        <tr> 
+         <td width="203">
         <table width="203" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr> 
             <td width="10"><img src="images/pix.gif" width="1" height="19"></td>
             <td class="text2">User: <span class="text2Bold">Guest -<a href="#"><img src="images/star1.gif" width="10" height="10" border="0" hspace="2" alt="About STARS Rating"></a></span><span class="text3">0</span></td>
           </tr>
         </tbody></table>
+</td>
+        </tr>
+        <tr> 
+         <td width="157">
+          <table width="157" border="0" cellspacing="0" cellpadding="0" background-image="images/pix.gif">
+           <tbody><tr> 
+            <td width="5"><img src="images/pix.gif" width="1" height="1"></td>
+            <td width="71"><a href="index.asp?page=Account" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topmenu1','','images/topbarover_01.jpg ',1)"><img src="images/topbar_01.jpg " width="71" height="23" border="0" name="topmenu1"></a></td>
+            <td width="49"><a href="index.asp?page=ShopCart" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topmenu2','','images/topbarover_02.jpg ',1)"><img src="images/topbar_02.jpg  " width="49" height="23" border="0" name="topmenu2"></a></td>
+            <td width="32"><a target="_blank" href="index.asp?page=Help" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topmenu3','','images/topbarover_03.jpg ',1)"><img src="images/topbar_03.jpg  " width="32" height="23" border="0" alt="Help" name="topmenu3"></a></td>
+           </tr>
+          </tbody></table>
+         </td>
+        </tr>
+       </tbody></table>
+       <table width="765" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+         <td bgcolor="#ffffff">
+          <table width="765" border="0" cellspacing="0" cellpadding="0">
+           <tbody><tr>
+            
+            <td><a href="index.asp?page=DefaultPage" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab1','','images/topnavover_01.jpg ',1)"><img src="images/topnav_01.jpg" width="80" height="40" name="tab1" alt="Welcome" border="0"></a></td>
+            
+            <td><a href="index.asp?page=NewGames" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab2','','images/topnavover_02.jpg ',1)"><img src="images/topnav_02.jpg" width="132" height="40" name="tab2" alt="New Released Video Games" border="0"></a></td>
+            
+            <td><a href="index.asp?page=Preowned" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab3','','images/topnavover_03.jpg ',1)"><img src="images/topnav_03.jpg " width="114" height="40" name="tab3" alt="Used Video Games" border="0"></a></td>
+            
+            <td><a href="index.asp?page=ImportedGames" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab4','','images/topnavover_04.jpg ',1)"><img src="images/topnav_04.jpg " width="110" height="40" name="tab4" alt="Japanese Imported Video Games" border="0"></a></td>
+            
+            <td><a href="index.asp?page=Anime" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab5','','images/topnavover_05.jpg ',1)"><img src="images/topnav_05.jpg " width="132" height="40" name="tab5" alt="Anime DVDs, Graphic Novels &amp; Merchandise" border="0"></a></td>
+            
+            <td><a href="index.asp?page=TradeIn" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab6','','images/topnavover_06.jpg ',1)"><img src="images/topnav_06.jpg " width="97" height="40" name="tab6" alt="Trade-in Video Games &amp; Anime DVDs" border="0"></a></td>
+            
+            <td><a href="index.asp?page=Services" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab7','','images/topnavover_07.jpg ',1)"><img src="images/topnav_07.jpg " width="101" height="40" name="tab7" alt="System Repairs &amp; Replacement Parts" border="0"></a></td>
+            
+           </tr>
+          </tbody></table>
+         </td>
+        </tr>
+        <tr>
+         <td><img src="images/pix.gif" width="100" height="3"></td>
+        </tr>
+       </tbody></table>
 
-      </td>
-    </tr>
-    <tr> 
-      <td width="203">
-        <table width="203" border="0" cellspacing="0" cellpadding="0" background="images/topmenu_backgr.gif">
-          <tbody><tr> 
-            <td width="10"><img src="images/pix.gif" width="1" height="1"></td>
-            <td width="64"><a href="index.asp?page=Account" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topmenu1','','images/topmenu_myaccount_over.gif',1)"><img src="images/topmenu_myaccount.gif" width="64" height="19" border="0" name="topmenu1"></a></td>
-            <td width="49"><a href="index.asp?page=ShopCart" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topmenu2','','images/topmenu_mycart_over.gif',1)"><img src="images/topmenu_mycart.gif" width="49" height="19" border="0" name="topmenu2"></a></td>
-            <td width="35"><a target="_blank" href="index.asp?page=Help" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('topmenu3','','images/topmenu_help_over.gif',1)"><img src="images/topmenu_help.gif" width="35" height="19" border="0" alt="Help" name="topmenu3"></a></td>
-            <td> 
-              <div align="right"><img src="images/topmenu_end.gif" width="5" height="19"></div>
-            </td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
-  <table width="765" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td bgcolor="#FF6600"><img src="images/pix.gif" width="100" height="3"></td>
-    </tr>
-    <tr>
-      <td bgcolor="#FF6600">
-        <table width="765" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="138"><!--<img src='images/tagline.gif' width='138' height='17'>--><img src="images/pix.gif" width="138" height="17"></td>
-
-            <td><a href="index.asp?page=DefaultPage" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab1','','images/tab_welcome_over.gif',1)"><img src="images/tab_welcome_off.gif" width="74" height="23" name="tab1" alt="Welcome" border="0"></a></td>
-
-            <td><a href="index.asp?page=NewGames" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab2','','images/tab_newgames_over.gif',1)"><img src="images/tab_newgames_off.gif" width="89" height="23" name="tab2" alt="New Released Video Games" border="0"></a></td>
-
-            <td><a href="index.asp?page=Preowned" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab3','','images/tab_usedgames_over.gif',1)"><img src="images/tab_usedgames_off.gif" width="91" height="23" name="tab3" alt="Used Video Games" border="0"></a></td>
-
-            <td><a href="index.asp?page=ImportedGames" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab4','','images/tab_imports_over.gif',1)"><img src="images/tab_imports_off.gif" width="122" height="23" name="tab4" alt="Japanese Imported Video Games" border="0"></a></td>
-
-            <td><a href="index.asp?page=Anime" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab5','','images/tab_anime_over.gif',1)"><img src="images/tab_anime_off.gif" width="53" height="23" name="tab5" alt="Anime DVDs, Graphic Novels &amp; Merchandise" border="0"></a></td>
-
-            <td><a href="index.asp?page=TradeIn" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab6','','images/tab_tradein_over.gif',1)"><img src="images/tab_tradein_off.gif" width="70" height="23" name="tab6" alt="Trade-in Video Games &amp; Anime DVDs" border="0"></a></td>
-
-            <td><a href="index.asp?page=Services" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tab7','','images/tab_services_over.gif',1)"><img src="images/tab_services_off.gif" width="74" height="23" name="tab7" alt="System Repairs &amp; Replacement Parts" border="0"></a></td>
-
-            <td width="54"><img src="images/pix.gif" width="54" height="6"></td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-    <tr>
-      <td><img src="images/pix.gif" width="100" height="6"></td>
-    </tr>
-  </tbody></table>
-
-   <table width="765" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr> 
-      <td bgcolor="#333366" colspan="2"> 
-        <table width="13" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td background="images/searchbar_end1.gif"><img src="images/pix.gif" width="13" height="7"></td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-    <tr> 
-      <td valign="top" width="356"> 
-
-              <table width="356" border="0" cellspacing="0" cellpadding="0" bgcolor="#333366">
-                <form name="form1" method="post" action="index.asp"></form>
-                  <tbody><tr> 
-                    <td width="8"><img src="images/pix.gif" width="8" height="26"></td>
-                    <td width="139"> 
-                      <input type="text" name="search" id="searchInput" size="17" value="" class="text1 ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-                    </td>
-                    <td width="122"> 
-                      <select name="page" class="text1">
-                        <option selected="" value="Search">All Products</option>
-                        <option value="NewGames">New Games</option>
-                        <option value="Preowned">Preowned Games</option>
-                        <option value="ImportedGames">Imported Games</option>
-                        <option value="Anime">Anime</option>
-                        <option value="TradeIn">Trade In Values</option>
-                        <option value="Services">Services</option>
-                      </select>
-                    </td>
-                    <td width="87" valign="bottom"> 
-                      <div align="center"> 
-                        <input type="image" border="0" name="Find1" src="images/button_find.gif" width="55" height="22">
-                      </div>
-                    </td>
-                  </tr>
-                  <tr valign="bottom"> 
-                    <td colspan="4"> 
-                      <table width="13" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr> 
-                          <td background="images/searchbar_end2.gif"><img src="images/pix.gif" width="13" height="7"></td>
-                        </tr>
-                      </tbody></table>
-                    </td>
-                  </tr>
-                
-              </tbody></table>
-
-      </td>
-      <td valign="top" width="409"> 
-        <table width="409" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="409"> 
-              <table border="0" cellspacing="0" cellpadding="0" width="409">
-                  <tbody><tr> 
-                  <td width="225"><img src="images/title_privacy.gif"></td>
-                  <td width="184" background="images/backgr_title.gif">&nbsp;</td>
-                  </tr>
-              </tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
-
+  
   <table width="765" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr valign="top"> 
-      <td width="138" background="images/backgr.gif"> 
-        <table width="138" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-          <tbody><tr> 
-            <td><img src="images/pix.gif" width="100" height="8"></td>
-          </tr>
-        </tbody></table>
-        <script language="javascript" src="js/showhide.js">
-</script>
-              <table width="138" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" height="80">
-                <tbody><tr> 
-                  <td rowspan="3" bgcolor="#999999" width="1"><img src="images/pix.gif" width="1" height="10"></td>
-                  <td width="136"><img src="images/leftmenu_currentplatforms1.gif" width="136" height="23" alt="Current Video Games"><br>
-                    <img src="images/pix.gif" width="50" height="5"><br>
-                    
-<a href="Playstation4.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PS4','','images/platforms/ps4hover.gif',1)">
-<img src="images/platforms/ps4.gif" width="136" height="19" name="pl_PS4" border="0" alt="Playstation 4"></a><br>
-
-<a href="Playstation3.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PS3','','images/platforms/leftmenu_platf_ps3_over.gif',1)">
-<img src="images/platforms/leftmenu_platf_ps3.gif" width="136" height="19" name="pl_PS3" border="0" alt="PlayStation 3"></a><br>
-
-<a href="PSVITA.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_PSVita','','images/platforms/leftmenu_platf_vita_over.jpg',1)">
-<img src="images/platforms/leftmenu_platf_vita.jpg" width="136" height="19" name="pl_PSVita" border="0" alt="PlayStation Vita"></a><br>
-
-<a href="Xboxone.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_XboxOne','','images/platforms/xb1hover.gif',1)">
-<img src="images/platforms/xb1.gif" width="136" height="19" name="pl_XboxOne" border="0" alt="Xbox One"></a><br>
-
-<a href="Xbox360.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_Xbox360','','images/platforms/leftmenu_platf_xbox_over.gif',1)">
-<img src="images/platforms/leftmenu_platf_xbox.gif" width="136" height="19" name="pl_Xbox360" border="0" alt="Xbox 360"></a><br>
-
-<a href="NintendoWiiU.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_WiiU','','images/platforms/wiiu_currentplatforms_button_selected.gif',1)">
-<img src="images/platforms/wiiu_currentplatforms_button.gif" width="136" height="19" name="pl_WiiU" border="0" alt="Nintendo Wii U"></a><br>
-
-<a href="NintendoWii.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_Wii','','images/platforms/leftmenu_platf_wii_over.gif',1)">
-<img src="images/platforms/leftmenu_platf_wii.gif" width="136" height="19" name="pl_Wii" border="0" alt="Nintendo Wii"></a><br>
-
-<a href="Nintendo3DS.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_3DS','','images/platforms/leftmenu_platf_3ds_over.jpg',1)">
-<img src="images/platforms/leftmenu_platf_3ds.jpg" width="136" height="19" name="pl_3DS" border="0" alt="Nintendo 3DS"></a><br>
-
-<a href="NintendoDS.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pl_NDS','','images/platforms/nintendods_o.gif',1)">
-<img src="images/platforms/nintendods_n.gif" width="136" height="19" name="pl_NDS" border="0" alt="Nintendo DS"></a><br>
-
-                    <img src="images/pix.gif" width="50" height="8"></td>
-                  <td rowspan="3" bgcolor="#999999" width="1"><img src="images/pix.gif" width="1" height="10"></td>
-                </tr>
-                <tr> 
-                  <td width="136">
-                    <img src="images/leftmenu_classicplatforms1.gif" width="136" height="23" alt="Classic Video Games"><br>
-                    
-                    <img src="images/pix.gif" width="10" height="5"><br>
-				<div onmouseout="HideDiv('Sony')" onmouseover="ShowDiv('Sony', 'platform6121')">
-					<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('platform6121','','images/leftmenu_platf_sony_over.gif',1)"><img src="images/leftmenu_platf_sony.gif" width="136" height="20" name="platform6121" id="platform6121" border="0" alt="Sony"></a><br>
-					<div id="Sony" style="position: absolute; z-index: 10000; visibility: hidden;">
-						<table cellspacing="0" cellpadding="1" bgcolor="#e5e5e5" style="border-style: solid; border-width: 1px; border-color: #000000;">
-							
-<tbody><tr><td width="10"></td><td><a href="PSP.html" class="SideMenu">PSP</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="Playstation2.html" class="SideMenu">PlayStation 2</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="Playstation.html" class="SideMenu">PlayStation</a></td><td width="10"></td></tr><tr></tr>
-
-						</tbody></table>
-					</div>
-				</div>
-				<div onmouseout="HideDiv('Microsoft')" onmouseover="ShowDiv('Microsoft', 'platform6122')">
-					<a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('platform6122','','images/leftmenu_platf_micr_over.gif',1)"><img src="images/leftmenu_platf_micr.gif" width="136" height="20" name="platform6122" id="platform6122" border="0" alt="Microsoft"></a><br>
-					<div id="Microsoft" style="position: absolute; z-index: 10000; visibility: hidden;">
-						<table cellspacing="0" cellpadding="1" bgcolor="#e5e5e5" style="border-style: solid; border-width: 1px; border-color: #000000;">
-							
-<tbody><tr><td width="10"></td><td><a href="XBox.html" class="SideMenu">XBox</a></td><td width="10"></td></tr><tr></tr>
-
-						</tbody></table>
-					</div>
-				</div>
-                    <div onmouseout="HideDiv('Nintendo')" onmouseover="ShowDiv('Nintendo', 'platform612')">
-                    <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('plaform612','','images/leftmenu_platf_nint_over.gif',1)"><img src="images/leftmenu_platf_nint.gif" width="136" height="20" name="plaform612" id="platform612" border="0" alt="Nintendo"></a><br>
-		  <div id="Nintendo" style="position:absolute; z-index:10000; visibility:hidden;">
-		  	<table cellspacing="0" cellpadding="1" bgcolor="#e5e5e5" style=" border-style:solid; border-width:1px; border-color:#000000;">
-                           
-<tbody><tr><td width="10"></td><td><a href="GameCube.html" class="SideMenu">GameCube</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="Nintendo64.html" class="SideMenu">Nintendo 64</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="NintendoSuper.html" class="SideMenu">Super Nintendo</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="NintendoNES.html" class="SideMenu">Nintendo / NES</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="GameBoyAdv.html" class="SideMenu">Game Boy Advance</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="GameBoy.html" class="SideMenu">Game Boy</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="GameBoyColor.html" class="SideMenu">Game Boy Color</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="VirtualBoy.html" class="SideMenu">Virtual Boy</a></td><td width="10"></td></tr><tr></tr>
-
-			</tbody></table>
-		  </div></div>
-                    <div onmouseout="HideDiv('SEGA')" onmouseover="ShowDiv('SEGA', 'platform712')">
-                    <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('plaform712','','images/leftmenu_platf_sega_over.gif',1)"><img src="images/leftmenu_platf_sega.gif" width="136" height="20" name="plaform712" id="platform712" border="0" alt="SEGA"></a><br>
-		  <div id="SEGA" style="position:absolute; z-index:10000; visibility:hidden;">
-		  	<table cellspacing="0" cellpadding="1" bgcolor="#e5e5e5" style=" border-style:solid; border-width:1px; border-color:#000000;">
-                           
-<tbody><tr><td width="10"></td><td><a href="SegaDreamcast.html" class="SideMenu">SEGA Dreamcast</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="SegaSaturn.html" class="SideMenu">SEGA Saturn</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="SegaGenesis.html" class="SideMenu">SEGA Genesis</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="SegaCD.html" class="SideMenu">SEGA CD</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="SegaGameGear.html" class="SideMenu">SEGA Game Gear</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="SegaMasterSystem.html" class="SideMenu">SEGA Master</a></td><td width="10"></td></tr><tr></tr>
-
-			</tbody></table>
-		  </div></div>
-                    <div onmouseout="HideDiv('Other')" onmouseover="ShowDiv('Other', 'platform812')">
-                    <a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('plaform812','','images/leftmenu_platf_other_over.gif',1)"><img src="images/leftmenu_platf_other.gif" width="136" height="20" name="plaform812" id="platform812" border="0" alt="Other Video Games"></a><br>
-		  <div id="Other" style="position:absolute; z-index:10000; visibility:hidden;">
-		  	<table cellspacing="0" cellpadding="1" bgcolor="#e5e5e5" style=" border-style:solid; border-width:1px; border-color:#000000;">
-                           
-<tbody><tr><td width="10"></td><td><a href="3DO.html" class="SideMenu">3DO</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="Atari2600.html" class="SideMenu">Atari 2600</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="Atari5200.html" class="SideMenu">Atari 5200</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="Atari7800.html" class="SideMenu">Atari 7800</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="LYNX.html" class="SideMenu">Atari LYNX</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="AtariJaguar.html" class="SideMenu">Atari Jaguar</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="colecovision.html" class="SideMenu">ColecoVision</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="NeoGeo.html" class="SideMenu">Neo Geo</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="NeoGeoCD.html" class="SideMenu">Neo Geo CD</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="NeoGeoPocket.html" class="SideMenu">Neo Geo Pocket</a></td><td width="10"></td></tr><tr></tr>
-<tr><td width="10"></td><td><a href="TurboGrafx.html" class="SideMenu">Turbo Grafx 16</a></td><td width="10"></td></tr><tr></tr>
-
-			</tbody></table>
-		  </div></div>
-                    <img src="images/pix.gif" width="50" height="8"></td>
-                </tr>
-                <tr> 
-                  <td width="136"> <div align="center">
-
-                    <a href="index.asp?page=Anime"><img src="images/leftmenu_merch1.gif" width="136" height="23" alt="Anime Merchandise" border="0"></a><br>
-
-<table width="136" border="0" cellspacing="0" cellpadding="1">
-<tbody><tr><td width="15" valign="top"><img src="images/bullet_subcat.gif" width="8" height="6" hspace="2" vspace="4"></td><td width="117" class="text2Bold"><a href="ToysFigures%5FPreorder.html">Toys &amp; Figures (Preorder)</a></td></tr>
-
-<tr><td width="15" valign="top"><img src="images/bullet_subcat.gif" width="8" height="6" hspace="2" vspace="4"></td><td width="117" class="text2Bold"><a href="Artbook.html">Artbook/Book</a></td></tr>
-
-<tr><td width="15" valign="top"><img src="images/bullet_subcat.gif" width="8" height="6" hspace="2" vspace="4"></td><td width="117" class="text2Bold"><a href="AnimeMerchandise.html">Anime Merchandise</a></td></tr>
-
-</tbody></table>
-
-
-          <hr noshade="" size="1" width="95%" align="center">
-             <table width="135">
-<tbody><tr>
-<td><img src="images/pix.gif" width="30" height="4"></td>
-</tr>
-
-   
-<tr>              
-                <td> 
-                  <!-- BEGIN LivePerson Button Code -->
-<div id="lpButDivID-1328913267312"></div>
-<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/47077412/?cmd=mTagRepstate&amp;site=47077412&amp;buttonID=12&amp;divID=lpButDivID-1328913267312&amp;bt=1&amp;c=1"></script>
-<!-- END LivePerson Button code -->
-                </td>
-            </tr></tbody></table>
-                    </div>
-                  </td>
-                </tr>
-
-                <tr> 
-                  <td colspan="2"><img src="images/leftmenu_quicklinks1.gif" width="137" height="23"></td>
-                  <td bgcolor="#999999" width="1"><img src="images/pix.gif" height="10" width="1"></td>
-                </tr>
-<tr>
-<td bgcolor="#999999" width="1"><img src="images/pix.gif" height="10" width="1"></td>
-<td align="left">
-     <div style="padding:5px">
-        <li><a href="/index.asp?page=NewsSubscription" class="text2">Newsletter 
-        Signup</a><br>
-        </li><li><a href="/search.search.gift%2Bcertificate.html" class="text2">Gift 
-        Certificate</a><br>
-        </li><li><a href="/Wholesale-Video-Games.html" class="text2bold">Wholesale</a><br>        
-<p align="center">
-<a href="http://www.estarland.com/gamersXchange.html" border="0"> <img src="images/gxcsiteimg_121x111_.jpg" alt="gamersXchange, a marketplace by gamers" border="0"></a>
-
-<a href="/Search.search.june2013.html"><img src="/images/nafp_121x230_.jpg" border="0" alt="New Anime and Game Merchandise avaliable for preorder"></a>
-<img src="images/estarland_seal.jpg" alt="eStarland.com 100% Satisfaction Guarantee">
-</p></li></div></td>
-<td bgcolor="#999999" width="1"> <img src="images/pix.gif" height="10" width="1"> </td>
-
-  </tr>
-</tbody></table>
-        <p align="center">
-</p>
-      </td>
-      <td width="627">
+            <td width="765">
   	<table width="100%" border="0" cellspacing="0" cellpadding="8">
 	<tbody><tr><td width="100%">
 
@@ -491,21 +235,13 @@ Privacy Statement</font></b><font size="2" face="Verdana, Arial, Helvetica, sans
     </tr>
   </tbody></table>
 
-  <table width="765" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr> 
-         </tr>
-    <tr> 
-      <td> <div align="Left"> <p>
-      <a href="https://www.facebook.com/CertifiedGamers">
-</a><table border="0" cellspacing="0" cellpadding="0" width="765" align="left">
-<tbody>
-<tr>
-<td>
-<table border="0" cellspacing="0" bordercolor="#000000" cellpadding="0" width="765">
+       <table width="765px" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+         <td> <table border="0" cellspacing="0" cellpadding="0" width="765" align="center">
 <tbody>
 <tr>
 <td height="104" valign="top" align="left">
-<table border="0" cellspacing="0" cellpadding="0" width="764" background="" align="left">
+<table border="0" cellspacing="0" cellpadding="0" width="764" background="" align="left" height="105">
 <tbody>
 <tr>
 <td bgcolor="#999999" width="1"></td>
@@ -535,17 +271,21 @@ Privacy Statement</font></b><font size="2" face="Verdana, Arial, Helvetica, sans
 <td bgcolor="#999999" width="1"></td>
 <td valign="top"><span class="Text0">
 <ul>
-<li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#PackageTracking')"><font class="text1">Track Your Order </font></a>
+<li>
+<div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#PackageTracking')"><font class="text1">Track Your Order </font></a></div>
 </li><li>
 <div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=FAQ')"><font class="text1">Problems </font></a></div>
 </li><li>
 <div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Tradein#start')"><font class="text1">Trade-Ins </font></a></div>
 </li><li>
-<div align="left"><a href="javascript:popUp('/index.asp?page=ContactUs')"><font class="text1">Contact Us </font></a></div></li></ul></span></td>
+<div align="left"><font class="text1"><a href="/index.asp?page=NewsSubscription">Newsletter Signup</a></font></div>
+</li><li>
+<div align="left"><font face="Arial"><a href="/Search.search.gift%2Bcertificate.html">Gift Certificate</a></font></div></li></ul></span></td>
 <td height="25" width="1"><font class="text1"></font></td>
 <td valign="top"><span class="text0">
 <ul>
-<li><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#DomesticShipping')"><font class="text1">Shipping Options</font></a><font class="text1"></font> 
+<li>
+<div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#DomesticShipping')"><font class="text1">Shipping Options</font></a><font class="text1"></font> </div>
 </li><li>
 <div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Shipping#DeliveryTime')"><font class="text1">Estimated Delivery Time </font></a></div>
 </li><li>
@@ -554,7 +294,12 @@ Privacy Statement</font></b><font size="2" face="Verdana, Arial, Helvetica, sans
 <div align="left"><a href="javascript:popUp('/index.asp?page=Help&amp;section=Preowned#Guarantee')"><font class="text1">Product Warranty</font></a></div></li></ul></span></td>
 <td height="25" width="1"><font class="text1"></font></td>
 <td valign="top">
-<ul><span class="text0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" background="" align="left" height="50">
+<tbody>
+<tr>
+<td width="30"></td>
+<td height="50" background="" width="170"><span class="text0">
+<ul>
 <li>
 <div align="left"><a href="/index.asp?page=PrivacyPolicy" target="_blank"><font class="text1">Privacy Policy </font></a></div>
 </li><li>
@@ -562,11 +307,23 @@ Privacy Statement</font></b><font size="2" face="Verdana, Arial, Helvetica, sans
 </li><li>
 <div align="left"><a href="/index.asp?page=TermsOfUse" target="_blank"><font class="text1">Terms of Use </font></a></div>
 </li><li>
-<div align="left"><a href="/index.asp?page=SiteMap"><font class="text1">Site Map</font> </a></div></li></span></ul></td>
-<td height="25" width="1"></td>
+<div align="left"><a href="/index.asp?page=SiteMap"><font class="text1">Site Map</font> </a></div></li></ul></span></td></tr>
+<tr>
+<td>&nbsp; </td>
 <td>
-<p align="center"><a href="http://www.twitter.com/estarland"><img border="0" src="/images//System/twit.jpg" width="35" height="35"></a><a href="http://www.facebook.com/estarland"><img border="0" src="/images//System/fb.jpg" width="35" height="35"></a><a href="http://www.orkut.com/Main#Community?cmm=101440658"><img border="0" src="/images//System/orkut.jpg" width="35" height="35"></a><a href="http://estarland.blogspot.com/"><img border="0" src="/images//System/blogger.jpg" width="35" height="35"></a><font class="text1"><strong></strong></font></p>
-<p align="center"><font class="text1" color="#666666"><font color="#666666">For information on joining our Affiliates Program,&nbsp;&nbsp; </font></font><a href="/index.asp?page=Affiliates"><font class="text1">click here.</font></a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p></td>
+<p align="left"><a href="javascript:popUp('/index.asp?page=ContactUs')"><img border="0" src="/images/contact.gif"></a></p></td></tr></tbody></table>
+<p></p></td>
+<td height="25" width="1"></td>
+<td height="105" valign="top">
+<p align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="92%" background="" align="center">
+<tbody>
+<tr>
+<td>
+<p align="center"><a href="http://www.twitter.com/estarland"><img border="0" src="/images//System/twit.jpg" width="30" height="30"></a>&nbsp;<a href="http://www.orkut.com/Main#Community?cmm=101440658"><img border="0" src="/images//System/orkut.jpg" width="30" height="30"></a>&nbsp;<a href="http://www.facebook.com/estarland"><img border="0" src="/images//System/fb.jpg" width="30" height="30"></a><br><a href="http://estarland.blogspot.com/"><img border="0" src="/images//System/blogger.jpg" width="30" height="30"></a>&nbsp;<a href="http://www.estarland.tumblr.com/"><img border="0" src="/images//System/tumblr.jpg" width="30" height="30"></a> <a href="https://plus.google.com/100805819164851482517"><img border="0" src="/images//System/g_128.jpg" width="30" height="30"></a> </p></td></tr>
+<tr>
+<td>
+<div align="center"><font class="text2" color="#666666">Interested in&nbsp;our Affiliate&nbsp;or Wholesale programs?<br></font><font face="Verdana"><font size="2"><font class="text1" color="#666666"><font color="#666666"><a href="/index.asp?page=Affiliates"><font color="#0066cc">Affiliates</font></a> | <a href="/index.asp?page=Wholesale-Video-Games"><font color="#0066cc">Wholesale</font></a><br>&nbsp;</font></font></font></font></div></td></tr></tbody></table></p></td>
 <td bgcolor="#999999" width="1"></td></tr>
 <tr height="1">
 <td bgcolor="#999999" height="1" width="1"></td>
@@ -577,35 +334,48 @@ Privacy Statement</font></b><font size="2" face="Verdana, Arial, Helvetica, sans
 <td bgcolor="#999999" height="1" width="203"><font class="text1"></font></td>
 <td bgcolor="#999999" height="1" width="1"><font class="text1"></font></td>
 <td bgcolor="#999999" height="1" width="151"><font class="text1"></font></td>
-<td bgcolor="#999999" height="1" width="1"></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr>
-<td><span class="text0Bold">
+<td bgcolor="#999999" height="1" width="1"></td></tr></tbody></table></td></tr></tbody></table>
+<table style="HEIGHT: 76px" border="0" cellspacing="0" cellpadding="0" width="765" background="" align="center">
+<tbody>
+<tr>
+<td><a href="/gamersXchange.html"><img border="0" alt="gamersXchange" src="images/logobottom_01.jpg"></a> </td>
+<td><a href="https://www.facebook.com/CertifiedGamers"><img border="0" alt="Certified Gamers" src="images/logobottom_02.jpg"></a> </td>
+<td><img alt="eStarland Business Partners" src="images/logobottom_03.jpg"> </td>
+<td><img alt="eStarland Business Partners" src="images/logobottom_04.jpg"> </td>
+<td><img alt="eStarland Business Partners" src="images/logobottom_05.jpg"> </td>
+<td><img alt="eStarland Business Partners" src="images/logobottom_06.jpg"></td></tr></tbody></table>
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0" width="759">
+<table border="0" cellspacing="0" cellpadding="0" width="765" background="" align="center">
 <tbody>
 <tr valign="top">
-<td width="111" align="left">
-<p><br><img alt="estarland.com" src="images/estarlandlogo2.gif" width="111" height="28"> </p></td>
-<td width="290" align="middle"><span class="text1">
-<p align="left"><br><span class="text1">&nbsp;&nbsp;&nbsp; <a href="/index.asp?page=About">About</a> | <a href="/index.asp?page=StoreLocations">Store Locations</a> | <a href="/index.asp?page=employment">Employment</a> </span><br><span class="text1">&nbsp;&nbsp;&nbsp; <font color="#666666">Copyright © 2003-2013 Connected Wire Inc </font></span></p></span></td>
-<td width="153" align="left">
-<p align="center"><a href="https://www.facebook.com/CertifiedGamers"><img border="o" alt="certified gamers" src="/images/cgmofcg_153x70_.gif" width="138" height="63"></a></p></td>
-<td width="205" align="left"><img src="/images/logos_2.gif" width="164" height="35"><img src="/images/logos_1.gif" width="190" height="35"> 
-<p></p></td></tr></tbody></table></div></span></td></tr></tbody></table>        
-      </p></div></td> 
-    </tr>
-    <tr> 
-            </tr>
-  </tbody></table>
-</td>
-<td width="10"><img src="images/pix.gif" width="1" height="1"><img src="images/pix.gif" width="10" height="10"></td>
-<td width="125">
+<td background="" width="345">
+<div align="right"><img alt="estarland.com" src="/images/estarlandlogo2.gif" width="111" height="28">&nbsp;</div></td>
+<td background="" width="382" align="middle">
+<p align="left"><span class="text1"><span class="text1"><a href="/index.asp?page=About">About</a> | <a href="/index.asp?page=StoreLocations">Locations</a> | <a href="/index.asp?page=employment">Employment</a></span><br><span class="text1"><font color="#666666">Copyright © 2003-2013 Connected Wire Inc </font></span></span></p></td></tr></tbody></table></div> </td> 
+        </tr>
+       </tbody></table>
 
-</td>
-</tr>
-  </tbody></table>
-  <br>
-  <p>&nbsp;</p>
-</div>
+      </td>
+      
+
+      <td>
+      <div align="right">
+      </div><table width="130px">
+       <tbody><tr valign="top">
+
+      <td width="135px">
+         
+      </td>
+      
+
+      </tr>
+      </tbody></table>
+
+     </td>
+     </tr>
+    </tbody></table>
+
+
 
 
 <!--2nd part of Google Analytics-->
@@ -622,4 +392,4 @@ Privacy Statement</font></b><font size="2" face="Verdana, Arial, Helvetica, sans
 
 
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+</td></tr></tbody></table></div></body></html>
