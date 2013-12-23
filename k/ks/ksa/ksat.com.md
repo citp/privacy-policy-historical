@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksat.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503160821id_/http%3A//www.ksat.com/-/478556/4755118/-/wvkaf5z/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksat.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223233015id_/http%3A//www.ksat.com/-/478556/4755118/-/wvkaf5z/-/index.html) for the most accurate reproduction.*
 
 # Home - Privacy policy
 
