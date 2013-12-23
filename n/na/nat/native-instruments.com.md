@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319001925id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223050322id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Legal Information : Privacy Policy | Company
 
 ## Native Instruments GmbH. Latest Version July 2012.
+
+#### 1\. General
 
 We recognize that the careful handling of your personal information is important to you. The protection of personal data is just as important to NATIVE INSTRUMENTS. Therefore NATIVE INSTRUMENTS commits itself to act in accordance with the following statement. With this statement you consent the collection, processing and use of your personal data by NATIVE INSTRUMENTS for the following purposes. 
 
 Personal data is defined as all information which allows conclusions about your personal or substantive relationships. These are specially protected by the German Federal Data Protection Act and by the German Teleservices Data Protection Act. 
 
 Data transmitted anonymously or using a pseudonym can not be considered as personal data. 
+
+#### 2\. Responsible Party
 
 Responsible party in terms of German privacy laws is: 
 
@@ -31,9 +35,13 @@ Reponsible Data Protection Officer:
 
 Further information can be found in our [public procedures register](http://www.native-instruments.com/en/company/legal-information/privacy-policy/verfahrensverzeichnis/ "public procedures register"). 
 
+#### 3\. Use of the data
+
 As soon as you buy something in our shop, register a product via the Service Center or via the web site or have yourself registered for one of our services, we need your e-mail adress, possibly your name and other personal information (i.e. postal address, telephone number, credit card information, sex, date of birth). NATIVE INSTRUMENTS uses this data to customize your visit to our web site and to continuously improve it. 
 
 We also use your information to communicate about orders, products, services and marketing offers with you and for updating our data sets and to maintain and update your customer accounts at NATIVE INSTRUMENTS, to display content such as your registered products, or to display relevant updates to you, as well as recommending other products which might be interesting to you. Beyond that we use your information to improve our platform, to prevent or uncover abuse, particularly fraud or to allow third parties to exercise technical, logistic or other services on our behalf. 
+
+#### 4\. Procedure
 
 We act according to the principle of data parsimony and data avoidance, i.e. we collect and use only the most necessary data for processing your order or product registration and for the communication with you. 
 
@@ -65,6 +73,8 @@ Finally, we need information on your person, at least your e-mail address in the
   
 
 
+#### 5\. Cookies
+
 Cookies are alphanumerical identifiers, small text files we transmit to the hard disk of your computer via your web browser or other programs. They enable NATIVE INSTRUMENTS’ systems to recognize your browser and offer you different services. No security relevant or personal data will be stored. Furthermore, cookies cannot transmit viruses, spy out data on your computer or send e-mails without your notice. Also, every web server can only read cookies it has set itself. 
 
 Using our web site without cookies being set is possible under certain conditions; a purchase in the shop unfortunately does not work without the possibility of setting cookies. 
@@ -72,6 +82,8 @@ Using our web site without cookies being set is possible under certain condition
 The most browsers are set by default to accept cookies automatically. But you can disable cookies being storing or configure your browser in a way that it notifies you before storing cookies. As you can only make full use of the most of our interesting features with cookies being enabled, we recommend leaving the cookie function on. 
 
 Furthermore we recommend completely signing off after using a computer you share with other users if this machine is configured in a way it accepts cookies. This particularly applies to computers in public spaces, such as internet cafés or libraries. In this case we highly recommend completely signing off so that no data remain recognizable for the next user. 
+
+#### 6\. Disclosure of personal data
 
 The careful handling of your personal information is important to us. It is by no ways our business to sell this information. We hand over information that we receive to third parties solely for the purposes described in the following: 
 
@@ -87,6 +99,8 @@ As part of a credit card and credit assessment your name and your address are pa
 
 **4.** In all other cases, we will inform you when personal information should be disclosed to third parties, and give you the opportunity to give your consent. 
 
+#### 7.a Google Analytics
+
 In the context of Chapter 6. we want to specially point out Google Analytics. NATIVE INSTRUMENTS uses Google Analytics, a web analytics service provided by Google, Inc. This service uses cookies to help analyze how the site is used. 
 
 The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. 
@@ -96,9 +110,13 @@ Google will use this information for the purpose of evaluating your use of the w
 If you do not want your activity on this website to be tracked, opt out using this link:  
 [](http://tools.google.com/dlpage/gaoptout?hl=en "tools.google.com/dlpage/gaoptout")[tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout?hl=en)
 
+#### 7.b Interest-based advertising
+
 Within the scope of its marketing operations NATIVE INSTRUMENTS uses Google’s program for “interest-based advertising”, so-called remarketing. In the process of this program a special browser cookie is stored on the user’s computer. It is used for serving the user special ads by Native Instruments, Google or third-party services when visiting other websites. 
 
 Users can opt out of Google's use of these cookies by visiting the [Opt out site of Google ads](http://www.google.com/privacy/ads "Opt out site of Google ads") and the [Opt out site of DoubleClick](http://www.doubleclick.com/privacy/dart_adserving.aspx "Opt out site of DoubleClick"). Alternatively users can opt out third party services using these cookies through by visiting [Deaktivierungsseite der Netzwerkwerbeinitiative](http://www.networkadvertising.org/managing/opt_out.asp "Deaktivierungsseite der Netzwerkwerbeinitiative") the Opt out page of the Network Advertising Initiative. 
+
+#### 7.c KISSmetrics
 
 KISSMetrics is a web analysis tool which stores and evaluates cookies in your browser. This lets us analyze how visitors use our website so we can make targeted improvements. At no point is the data we collect linked to your name or your person. 
 
@@ -110,12 +128,16 @@ You can also block KISSMetrics by activating an ‘opt out’ cookie on the foll
 
 Please note that this opt-out function is only valid as long as the opt-out cookie is stored by your browser. 
 
+#### 7.d Facebook
+
 Native Instruments´ website uses plug-ins of the social network Facebook (www.facebook.com). The plug-ins are marked with a company logo of Facebook or the addition "Facebook Social Plug-in. When you access a website from us, which contains such a plug-in, a direct connection to servers through the browser of Facebook is set up. By integrating of the plug-in, Facebook receives the information that you have visited our website. As long as you are logged in to Facebook, Facebook can assign the visit to the site to your facebook account. The plug-in transmits any actions you perform via the plug-in, e.g. pressing the “Like”-Button, directly on to Facebook, and these data will be stored there.  
 For the purpose and scope of data collection and further processing and use of data by Facebook, and your rights and settings taken to protect your privacy, please see the respective privacy notices from Facebook.
 
 To prevent such a collection of data through Facebook, you must log out on Facebook before visiting our website.
 
-**1.** We have developed organizational and technical measures to reliably protect the data received from you. Our employees are intensively informed and trained and commit themselves to the data confidentiality. This ensures that your data are kept confidential. We can particularly ensure that your data is protected because we provide our customer service through our own staff and not by third parties. Thereby controls and effective training are possible. 
+#### 8\. Data protection
+
+ **1.** We have developed organizational and technical measures to reliably protect the data received from you. Our employees are intensively informed and trained and commit themselves to the data confidentiality. This ensures that your data are kept confidential. We can particularly ensure that your data is protected because we provide our customer service through our own staff and not by third parties. Thereby controls and effective training are possible. 
 
 **2.** To protect your personal data during transmission to our servers, we use Secure Sockets Layer (SSL) software. This encrypts all information you transmit to us. 
 
@@ -127,7 +149,11 @@ To prevent such a collection of data through Facebook, you must log out on Faceb
 
 **6.** Despite these actions, there is no 100% guarantee against unauthorized third parties gaining access to your data. Consequently, we have to point out that every transmission of data over the Internet is at your own risk. 
 
+#### 9\. Third party websites
+
 In order to provide you with comprehensive information, our website contains external links to third-party websites. To the extent that these are not clearly identifiable as such, we shall point out to you that the relevant link refers to an external website. NATIVE INSTRUMENTS has no influence on the content and design of such third-party websites. Consequently, the guarantees given under this privacy statement do naturally not apply for such other websites. 
+
+#### 10\. Newsletter
 
 You receive a newsletter by NATIVE INSTRUMENTS if you
 
@@ -146,6 +172,8 @@ Within this NATIVE INSTRUMENTS distinguishes between different product categorie
 Regardless of this NATIVE INSTRUMENTS conducts survey on specific topics. Registered users of our software are asked by e-mail to participate in such surveys. 
 
 You can unsubscribe form receiving both newsletters and invitations to a survey at the following [LINK](http://www.native-instruments.com/en/company/newsletter-unsubscribe/ "LINK"). 
+
+#### 11\. Information about saved data
 
 You have the possibility to be furnished any time at no charge with information on the data stored about you and on their use. Please describe your wishes or other questions on privacy via e-mail ( [privacy@native-instruments.de](mailto:privacy@native-instruments.de) ). We will do our best to clear up your doubts. 
 
