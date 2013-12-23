@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407143313id_/http%3A//www.sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223063711id_/http%3A//www.sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # SessionCam l Session Replay l Web Analytics l PRIVACY POLICIES
 
 #### What is SessionCam?
 
-[SessionCam](http://www.sessioncam.com/ "Transform customer behaviour into profit") is a leading Session Replay and Web Analytics provider, supplying Software as a Service to it’s many clients to enable those clients to record and replay web sessions on their respective web sites. The natures of this type of service is that data about those web sessions is collected. SessionCam is wholly committed to protecting the privacy of its clients’ data as well as the data collected about its clients customers and web visitors. This section of the web site explains our privacy policy in more detail.
+[SessionCam](http://www.sessioncam.com/ "Transform customer behaviour into profit") is a leading “software as a service” session replay product used by clients to record and replay website sessions. SessionCam is wholly committed to protecting the privacy of its clients’ data as well as the data collected about its clients’ customers and web visitors. This section of the web site explains our privacy policy in more detail.
 
-To discover more about the [features](http://www.sessioncam.com/features-of-sessioncam) and [benefits](http://www.sessioncam.com/benefits-from-sessioncam) of our product, please browse our [website](http://www.sessioncam.com/), which provides information about the [company](http://www.sessioncam.com/about-us) and the products and services we offer. 
+To discover more about the [features](http://www.sessioncam.com/features-of-sessioncam) of our product, please browse our [website](http://www.sessioncam.com/) which also includes more information [about us](http://www.sessioncam.com/about-us).
 
 #### What information do we collect for our own use?
 
-You can use our the website to register and request a subscription to use the SessionCam product. As part of these registration and subscription processes we will collect information required to set-up a SessionCam account. These details will include your name, email address and in some instances the website on which you to use our services.
+You can use our website to [create a user account](http://www.sessioncam.com/pricing/) for SessionCam. As part of the account registration process we will collect the information required to set-up a SessionCam account including your name, email address and the website on which you to use our services. We will also collect credit/debit card payment information from customers purchasing a [paid SessionCam subscription](http://www.sessioncam.com/pricing/). We have established trusted relationships with third party partners for our on-line payment processing. We use [Recurly](http://www.recurly.com/) for our subscription management and [Paypal](http://www.paypal.com/) for our payment processing. No credit/debit card information will be stored directly by SessionCam or [ServiceTick Ltd](http://www.servicetick.com/) (the company that provides SessionCam).
 
-We will also collect credit/debit card payment information from customers purchasing a paid-for SessionCam subscription from the our site. We have established trusted relationships with third party partners for our on-line payment processing. We use [Recurly](http://www.recurly.com/) for our subscription management and [Paypal](http://www.paypal.com/) for our payment processing. No credit/debit card information will be stored directly by SessionCam or ServiceTick Ltd.
-
-The web site includes a “find our more” contact form through which prospects can contact us to request further information and arrange a demonstration of our products and service. We ask for some personal information in the contact form so that we can understand and respond appropriately to that request.
-
-As part of the “find out more” contact form, we ask visitors if they would like to stay updated with news and information. Any visitor who completes a “find our more” form and wants to stay updated will be added to our newsletter email mailing list. From time to time, we send news and information to this email mailing list. Every email newsletter sent by SessionCam provides the facility for the recipient to opt-out of future email newsletters.
+The web site includes a [contact form](http://www.sessioncam.com/contact-request/) through which customers can contact us to request further information and arrange a demonstration of our product. The information requested in the contact form is so that we can understand and respond appropriately to that request.
 
 #### Surveys
 
@@ -24,9 +20,7 @@ From time to time, we may invite visitors to participate in a web-based survey. 
 
 #### Website Usage Data
 
-With or without cookies, our website keeps track of usage data, such as the source address that the page request is coming from (such as domain name), date and time of the page request, the referring website (if any) and other parameters in the URL (for example search criteria).
-
-We use this data to give us a better understanding of how visitors use our website. This information is stored and is used for aggregated and statistical reporting.
+With or without cookies, our website keeps track of usage data, such as the source address that the page request is coming from (such as domain name), date and time of the page request, the referring website (if any) and other parameters in the URL (for example search criteria). We use this data to give us a better understanding of how visitors use our website. This information is stored and is used for aggregated and statistical reporting.
 
 #### Website Recording
 
@@ -52,9 +46,7 @@ We have a defined set of information security policies that govern and control t
 
 #### What information do we collect for our clients?
 
-SessionCam provides solutions that let our clients gather details of how their customers use their website. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms.
-
-Data collected by SessionCam for our clients is used to improve website usability, provide improved customer support and enable re-marketing activity aimed at helping customers complete purchases. We do not permit the recording of credit/debit card or other financial or sensitive data items by our clients.
+SessionCam provides solutions that let our clients gather details of how their customers use their website. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. We do not permit the recording of credit/debit card or other financial or sensitive data items by our clients. Any data recorded by SessionCam on behalf of our clients is recorded exclusively for their own use. We do not sell, share or use the data recorded for clients by SessionCam ourselves or with any other third party organisation.
 
 All of the information collected by SessionCam for our clients is gathered securely using 256-bit SSL encryption.
 
