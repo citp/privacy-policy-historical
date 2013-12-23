@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostime.in privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306142344id_/http%3A//www.boostime.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostime.in privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223080453id_/http%3A//www.boostime.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
