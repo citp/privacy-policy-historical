@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manaflask.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620015832id_/http%3A//manaflask.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manaflask.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223181730id_/http%3A//www.manaflask.com/en/privacy) for the most accurate reproduction.*
 
 # Manaflask | Privacy Policy
 
