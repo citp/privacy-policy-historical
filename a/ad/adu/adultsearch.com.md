@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultsearch.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622062438id_/http%3A//adultsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultsearch.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223024855id_/http%3A//adultsearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 > A. The operative parties referred to in this policy are Company and you, the user of this site. 
 > 
-> 1\. **Websolutions Netherlands** are the publishers and/or operators of and are hereinafter referred to collectively as "Company." When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring respectively to Websolutions Netherlands as applicable. Additionally, when the terms "The Site" or "Site" are used, these terms refer respectively to www.adultsearch.com as applicable. 
+> 1\. **ADT Search Media, INC** are the publishers and/or operators of and are hereinafter referred to collectively as "Company." When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring respectively to ADT Search Media, INC as applicable. Additionally, when the terms "The Site" or "Site" are used, these terms refer respectively to www.adultsearch.com as applicable. 
 > 
 > 2\. **You, the User:** As the user of this Site, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the Site shall be referred to in applicable second-person pronouns. 
 > 
@@ -78,4 +78,4 @@
 
 ### IX. Where to Direct Questions About Our Privacy Policy
 
-> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [contact form](https://web.archive.org/contact?where=/pp). You may also contact us by mail at Websolutions Netherlands, Singel 540, 1017 AZ Amsterdam, The Netherlands.
+> If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [contact form](https://web.archive.org/contact?where=/pp). You may also contact us by email at [support@adultsearch.com](mailto:support@adultsearch.com).
