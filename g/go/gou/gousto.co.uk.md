@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gousto.co.uk privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618125425id_/http%3A//www.gousto.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gousto.co.uk privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223171505id_/http%3A//www.gousto.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -79,7 +79,7 @@ You will be sent updates and information communications (for example about new s
 
 (1) You can change any information you provide to us by e-mailing us at info@gousto.co.uk
 
-(2) You are entitled to ask for a copy of your information (for which we may charge a small fee) please e-mail us at insert email address. However, we will only send this information to the current e-mail address which we hold for you, unless you send us your full postal address and request that we send the information to you at your postal address (and we are able to verify the validity of this address). ****
+(2) You are entitled to ask for a copy of your information (for which we may charge a small fee) please e-mail us at info@gousto.co.uk. However, we will only send this information to the current e-mail address which we hold for you, unless you send us your full postal address and request that we send the information to you at your postal address (and we are able to verify the validity of this address). ****
 
 **7          Queries **
 
