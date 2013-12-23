@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrismentormetraining.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622141923id_/http%3A//www.chrismentormetraining.com/disclaimers/1384) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrismentormetraining.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223041634id_/http%3A//www.chrismentormetraining.com/disclaimers/1384) for the most accurate reproduction.*
 
 # 
 
