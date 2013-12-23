@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aggienetwork.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519060514id_/http%3A//www.aggienetwork.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aggienetwork.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223083501id_/http%3A//www.aggienetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,12 +57,12 @@ A cookie is a piece of data stored on the user’s computer tied to information 
 This privacy statement covers the use of cookies by AggieNetwork.com only and does not cover the use of cookies by any advertisers. 
 
 **Log Files**   
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. 
 
 ## Communications from the Site
 
- ** _Aggie eNewsletter from The Association_ **   
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the [ ](http://www.aggienetwork.com/privacy/official.aspx#choice)Choice and Opt-out sections. 
+ ** _AggieNews from The Association_ **   
+If a user wishes to subscribe to our email newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the [ ](http://www.aggienetwork.com/privacy/official.aspx#choice)Choice and Opt-out sections. 
 
 **_Service Announcements_ **   
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. Users may opt-out of these communications. Please see our Choice and Opt-out section. 
@@ -88,11 +88,17 @@ The "Find an Aggie" tool is not intended for marketing or political purposes. If
 
 **Email Privacy**
 
-The Association is very protective of your email address. **We do not sell or give email addresses away.** We do use email to stay in touch with you, and if you so desire it is placed in the Online Directory of Former Students so that other Former Students can email you through our website (your email information will not be displayed). If you do not want Former Students to tbe able to contact you via email through our site, you can change your email address to "Private" in your account settings.
+ **Personal Email Accounts**
 
-The Association will use only use this email to send official correspondence which includes the E-Newsletter. This is a monthly newsletter that is sent to all former students with the intent of keeping them up to date with Association activities and Texas A&M news. 
+The Association is very protective of your email address. **We do not sell or give email addresses away.** We do use email to stay in touch with you, and if you so desire it is placed in the Online Directory of Former Students so that other Former Students can email you through our website (your email information will not be displayed). If you do not want Former Students to be able to contact you via email through our site, you can change your email address to "Private" in your account settings.
+
+The Association will use only use this email to send official correspondence which includes the AggieNews email newsletter. This is a monthly newsletter that is sent to all former students with the intent of keeping them up to date with Association activities and Texas A&M news. 
 
 The Association will also send out approved emails on behalf of organizations it recognizes. These include Texas A&M, A&M Clubs, Classes and some other groups such as colleges. These emails are targeted to a specific audience. 
+
+**@AggieNetwork.com Email Accounts**
+
+The Association provides lifetime email addresses using Google Apps. Google provides site administrators with a way to perform automated "email audits" to review emails of users. The Association does not use this feature and will never access your account without your permission. Staff members who are administrators of the @AggieNetwork.com email system can help you with technical aspects of your account, including initial setup and password resets, but they can not log into your account or read emails.
 
 ##  Disclaimers 
 
@@ -132,7 +138,7 @@ If users have any questions about the security at our Web site, users can send a
 
 ##  Correcting/Updating/Deleting/Deactivating Personal Information 
 
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can be done by logging in and clicking "Your Aggie Profile" link at the top right of each page, or by emailing our Web Team at [Web@AggieNetwork.com](mailto:Web@AggieNetwork.com), by phone at (979) 845-7514 or by mail at : 
+If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or deactivate users’ personally identifiable information. This can be done by logging in and clicking "Your Aggie Profile" link at the top right of each page, or by emailing our Web Team at [Web@AggieNetwork.com](mailto:Web@AggieNetwork.com), by phone at (979) 845-7514 or by mail at : 
 
 **The Association of Former Students**   
 Attn : Records Processing   
