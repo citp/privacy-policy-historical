@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsrunner.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629150417id_/http%3A//www.bsrunner.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsrunner.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223200211id_/http%3A//www.bsrunner.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bayshore Runner completely free hi-speed graphics browser Privacy Policy
 
