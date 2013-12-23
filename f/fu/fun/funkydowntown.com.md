@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funkydowntown.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609015427id_/http%3A//funkydowntown.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkydowntown.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223091541id_/http%3A//funkydowntown.com/about) for the most accurate reproduction.*
 
 # Privacy Policy | Funky Downtown
 
@@ -40,6 +40,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 What you read here may or may not be true.
 
 FunkyDowntown.com claims no credit for the videos and images displayed on this site. If you own the rights to these videos and images, and do not wish them to appear here, please contact us:
+
+[contact-form 1 "Contact form 1"]
 
 **Infolinks Double Underline Link Ads**
 
