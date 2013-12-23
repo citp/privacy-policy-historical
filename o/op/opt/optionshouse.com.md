@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionshouse.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622042835id_/http%3A//www.optionshouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionshouse.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223033535id_/http%3A//www.optionshouse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OptionsHouse
 
