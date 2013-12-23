@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedmoon.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623063902id_/http%3A//aotar7a.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedmoon.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224003727id_/http%3A//aotar7a.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – World sports magazine
 
