@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsplayandcreate.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621073357id_/http%3A//www.kidsplayandcreate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsplayandcreate.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223100101id_/http%3A//www.kidsplayandcreate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ To opt out of the DART cookies you may visit the Google ad and content network p
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Welcome to Whale Facts has no access or control over these cookies that may be used by third party advertisers.
 
-**Collection of Personal Information** When visiting Whale Facts.org, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+**Collection of Personal Information** When visiting kidsplayandcreate.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 **Links to third party Websites** We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
@@ -21,5 +21,3 @@ If you have any questions regarding the privacy policy of KidsPlayandCreate.comÂ
 Last updated Tue, 14 Sept 2012 17:28
 
 [](http://www.printfriendly.com/print?url=http://www.kidsplayandcreate.com/privacy-policy/)
-
-[](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F "Facebook") [](http://twitter.com/share?url=http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F&text=Privacy+Policy "Twitter") [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy "Pinterest") [](https://plusone.google.com/_/+1/confirm?hl=en&url=http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F&title=Privacy+Policy "Plusone") [](mailto:?subject=Check%20out%20http%3A%2F%2Fwww.kidsplayandcreate.com%2Fprivacy-policy%2F "Email") []( "Instagram")
