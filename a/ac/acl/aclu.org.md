@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607123226id_/http%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223203555id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
 
 # American Civil Liberties Union Privacy Statement | American Civil Liberties Union
 
@@ -122,9 +122,9 @@ In furtherance of its mission, the ACLU forms, works with and joins Coalitions o
 
 **Your Ability to Choose**
 
-When you provide us with your Voluntarily Submitted Data on the ACLU Site, you can let us know that you do not wish to receive our email communications by unsubscribing to email communications, by un-checking or not checking the subscription request box on the form you are completing, by unsubscribing, un-checking or not checking the subscription request box on our [User Preference Page](https://secure.aclu.org/site/SPageServer?pagename=login_change_subscriptions), by unsubscribing from further email communications of a specific type following receipt of an email of that type, or by contacting us via postal mail sent to Webmaster, 125 Broad Street, 18th Floor, New York, New York, 10004.
+When you provide us with your Voluntarily Submitted Data on the ACLU Site, you can let us know that you do not wish to receive our email communications by unsubscribing to email communications, by un-checking or not checking the subscription request box on the form you are completing, by unsubscribing, un-checking or not checking the subscription request box on our [User Preference Page](https://www.aclu.org/aclu_login), by unsubscribing from further email communications of a specific type following receipt of an email of that type, or by contacting us via postal mail sent to Webmaster, 125 Broad Street, 18th Floor, New York, New York, 10004.
 
-You can opt out of having your Voluntarily Submitted Data shared with Sharing Organizations on the online form you are filling out or thereafter by filling out the [ACLU Feedback Page](http://www.aclu.org/contact/general) or by contacting the Membership Department via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, New York, 10004.
+You can opt out of having your Voluntarily Submitted Data shared with Sharing Organizations on the online form you are filling out or thereafter by filling out the [ACLU Feedback Page](https://www.aclu.org/contact/general) or by contacting the Membership Department via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, New York, 10004.
 
 Again, please remember that if you are a non-U.S. resident, we will not use your Voluntarily Submitted Data for any purpose other than the one for which it was originally collected regardless of whether you check or un-check a box.
 
@@ -138,8 +138,8 @@ The Voluntarily Submitted Data we collect about you is stored on a secure, passw
 
 **Updating Your Data**
 
-To update your Voluntarily Submitted Data or to make corrections, you can do so by using our [User Preference Page](https://secure.aclu.org/site/SPageServer?pagename=login_change_subscriptions), or by sending us the update via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, NY 10004.
+To update your Voluntarily Submitted Data or to make corrections, you can do so by using our [User Preference Page](https://www.aclu.org/aclu_login), or by sending us the update via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, NY 10004.
 
 **Comments and Questions**
 
-If you have any questions, comments or concerns about this Privacy Statement or our data collection practices or to request that we delete your Voluntarily Submitted Data, you can fill out the [ACLU Feedback Page](http://www.aclu.org/contact/general), or send us your questions or comments via postal mail sent to Webmaster, American Civil Liberties Union, 125 Broad Street, 18th Floor, New York, New York 10004.
+If you have any questions, comments or concerns about this Privacy Statement or our data collection practices or to request that we delete your Voluntarily Submitted Data, you can fill out the [ACLU Feedback Page](https://www.aclu.org/contact/general), or send us your questions or comments via postal mail sent to Webmaster, American Civil Liberties Union, 125 Broad Street, 18th Floor, New York, New York 10004.
