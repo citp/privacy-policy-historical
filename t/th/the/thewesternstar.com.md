@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewesternstar.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005032553id_/http%3A//tctranscontinental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewesternstar.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223195219id_/http%3A//tctranscontinental.com/privacy-policy%3Fp_p_id%3D82%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_82_struts_action%3D%252Flanguage%252Fview%26_82_redirect%3D%252Fprivacy-policy%26languageId%3Den_CA) for the most accurate reproduction.*
 
 # Privacy Policy - TC Transcontinental
 
@@ -40,7 +40,7 @@ Appendix 1: What are "fair information practices"?
 
 Transcontinental Inc. is the "parent" of a group of companies focusing on the print and media sectors. One of the 10 largest commercial printers in North America, Transcontinental is Canada's largest printer of flyers, books and newspapers, and a strong second in the printing of magazines, catalogues and directories. Through its Canadian and U.S. direct marketing facilities, Transcontinental has the geographic platform and complete service offering needed to cover the entire North American market. The Corporation is also Canada's leading publisher of consumer magazines and the second-largest publisher of local and regional newspapers. In addition, it is engaged in the door-to-door distribution of advertising material, the development and integration of Web solutions, and the electronic aggregation of news and business information.
 
-This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publications (click [here](https://web.archive.org/web/20121005032553id_/http%3A//tctranscontinental.com/titres.pdf) to view a list of our publications), and our individual service providers.
+This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publications (click [here](https://web.archive.org/web/20131223195219id_/http://tctranscontinental.com/titres.pdf) to view a list of our publications), and our individual service providers.
 
   
 **2\. What personal information do we collect?**
