@@ -1,30 +1,35 @@
-> *The following text is extracted and transformed from the workonlineacademy.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530034819id_/http%3A//workonlineacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workonlineacademy.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223154353id_/http%3A//workonlineacademy.com/lp/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Big Idea Mastermind Review: Should you Buy?
+# Privacy Policy — workonlineacademy.com
 
-At WorkOnlineAcademy.com, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by WorkOnlineAcademy.com and how it is used.
+  * ## Privacy Policy
 
- **Log Files**
+Your privacy is very important to us. We strictly enforce our privacy policy. We want to make your venture as enjoyable and rewarding as possible.
 
-Like many other Web sites, WorkOnlineAcademy.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+This Privacy Policy is to demonstrate our seriousness in your well being and security. This Privacy Policy describes how our Company ( **Work Online Academy** ) collects information, who accesses stored information, and how it is stored. We request that you read this Privacy Policy carefully.
 
- **Cookies and Web Beacons**
+### Personal Information Our Company (Work Online Academy) Collects and How It Is Used
 
-WorkOnlineAcademy.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Our company collects information in different ways from new affiliates and members who opt-in to our program. We use this information solely to provide affiliates and members with our products and services. We do not, under any circumstance, disclose personal information collected.
 
- **DoubleClick DART Cookie**
+**Registration:** Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), SSN. The personal information collected from members during the registration process is used to deliver products. This information is not shared with third parties. Social Security Numbers are collected for tax purposes. This information is held with extreme confidentiality on a computer disconnected from any kind of internet service.
 
-  * Google, as a third party vendor, uses cookies to serve ads on WorkOnlineAcademy.com.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to WorkOnlineAcademy.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+**Online Shopping:** At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
+
+If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
+
+If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+**Responses to Email Inquiries:** When visitors or members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+
+**Voluntary Customer Surveys:** We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
+
+**Public Forums:** Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+
+**Where to Direct Questions About Our Privacy Policy:**  
+If you have any questions about this Privacy Policy or the practiced described herein, you may contact us through the contact information provided on this web site. or [info@workonlineacademy.com](mailto:info@workonlineacademy.com "Email Us")
+
+**Revisions to This Policy:** Our company reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time in any manner, by updating this posting.
 
 
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on WorkOnlineAcademy.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-WorkOnlineAcademy.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. WorkOnlineAcademy.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser's respective websites. [Contact Us](http://workonlineacademy.com/contact-us/ "Contact Us")  
 
