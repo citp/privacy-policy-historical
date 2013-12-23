@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625040536id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223215127id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Data.gov
 
