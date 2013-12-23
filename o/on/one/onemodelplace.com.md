@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemodelplace.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104402id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemodelplace.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223061551id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.*
 
 # One Model Place - Privacy Statement
 
@@ -6,21 +6,27 @@
 
 As part of the One Model Place (Hereinafter referred to as OMP) pledge to our customers, we recognize and respect your right to privacy. This privacy policy statement informs our customers of the privacy practices employed in the provision of OMP's products, services and website.
 
-Questions relating to this policy statement should be directed towards the OMP support team at [cs](mailto:cs@onemodelplace.com)[@onemodelplace.com](mailto:Webmaster@OneModelPlace.com)
+Questions relating to this policy statement should be directed towards the OMP support team at [cs](mailto:cs@onemodelplace.com)[@onemodelplace.com](mailto:Webmaster@OneModelPlace.com)  
+ 
 
   * **Associated Agreements**
 
 
 
-This Privacy Policy statement supplements the practices and policies stated within the Subscriber Agreement (and associated product Schedules). Please refer to these documents for more detail on the practices employed by OMP for the issuing of subscription services.
+
+This Privacy Policy statement supplements the practices and policies stated within the Subscriber Agreement (and associated product Schedules). Please refer to these documents for more detail on the practices employed by OMP for the issuing of subscription services.  
+ 
 
   * **Anti-Spam Policy**
 
 
 
-OMP does not employ the use of spam for propagating awareness of our products, services or special offers.
+
+OMP does not employ the use of spam for propagating awareness of our products, services or special offers.  
+ 
 
   * **Informational Collection and Use**
+
 
 
 
@@ -41,9 +47,16 @@ practice or to opt-out of this type of advertising, you can visit* *
 
 
 
-When subscribing to OMP, you will be required to submit personal information as specified on the signup page. This information will be used by OMP to contact the customer about the services on our site for which they have expressed interest, including but not limited to product updates and associated promotional material. It also aids OMP in providing improved global services by collating general demographic information. Please refer to the opt-out policy described later in this policy statement.
+
+When subscribing to OMP, you will be required to submit personal information as specified on the signup page. This information will be used by OMP to contact the customer about the services on our site for which they have expressed interest, including but not limited to product updates and associated promotional material. It also aids OMP in providing improved global services by collating general demographic information. Please refer to the opt-out policy described later in this policy statement.  
+ 
+
+  * **Opt-out policy**
+
+Members can opt-out from OMP notifications by logging in to their account and edit the preferences under the Email Notifications section (Settings > Preferences > Email Notifications). Alternatively, it is also possible to contact our customer service at [cs](mailto:cs@onemodelplace.com)[@onemodelplace.com](mailto:Webmaster@OneModelPlace.com).
 
   * **Information Request**
+
 
 
 
