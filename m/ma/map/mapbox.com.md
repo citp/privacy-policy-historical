@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mapbox.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608203302id_/http%3A//mapbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapbox.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223163714id_/http%3A//www.mapbox.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | MapBox
+# Privacy policy | Mapbox
 
-MapBox is committed to protecting the privacy of the people and organizations that use our service. This privacy notice discloses the privacy practices for mapbox.com and all map tiles served and hosted through our website.
+Mapbox is committed to protecting the privacy of the people and organizations that use our service. This privacy notice discloses the privacy practices for mapbox.com and all map tiles served and hosted through our website.
 
 ### Information Collection, Use, and Sharing
 
@@ -12,7 +12,7 @@ We do collect IP addresses in our server logs, as well as information like your 
 
 ### Order information
 
-We collect payment information for some of MapBox services, such as name, address, and credit card number. This information is used solely for billing purposes and to fill your orders. It is collected, processed, and held in a secure environment that only authorized employees can access.
+We collect payment information for some of Mapbox services, such as name, address, and credit card number. This information is used solely for billing purposes and to fill your orders. It is collected, processed, and held in a secure environment that only authorized employees can access.
 
 ### Security
 
@@ -22,4 +22,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 ### Cookies
 
-We use cookies and log file information to (i) store information so you will not have to re-enter it during your visit or in subsequent visits; (ii) maintain sessions for authenticated users; and (iii) monitor aggregate metrics such as total number of visitors and pages viewed. Cookies are not used on anonymous requests for map tiles or map embed resources from MapBox Hosting.
+We use cookies and log file information to (i) store information so you will not have to re-enter it during your visit or in subsequent visits; (ii) maintain sessions for authenticated users; and (iii) monitor aggregate metrics such as total number of visitors and pages viewed. Cookies are not used on anonymous requests for map tiles or map embed resources from Mapbox Hosting.
