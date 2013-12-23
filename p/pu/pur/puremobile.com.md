@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puremobile.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623103125id_/http%3A//www.puremobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puremobile.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223111907id_/http%3A//www.puremobile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - USA - Pure Mobile
 
