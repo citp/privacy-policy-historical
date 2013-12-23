@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leicarumors.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172432id_/http%3A//leicarumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leicarumors.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223051344id_/http%3A//leicarumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Leica News & Rumors
 
