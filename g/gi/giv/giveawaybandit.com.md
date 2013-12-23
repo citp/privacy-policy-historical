@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the giveawaybandit.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624012312id_/http%3A//www.giveawaybandit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveawaybandit.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223033134id_/http%3A//www.giveawaybandit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Giveaway Bandit Win Prizes Online
+# Privacy Policy
+
+**0** Flares Twitter 0 Facebook 0 Google+ 0 Reddit 0 StumbleUpon 0 LinkedIn 0 Email \-- Buffer 0 Filament.io **0** Flares ×
 
 **What information do we collect?**
 
@@ -97,3 +99,5 @@ http://www.giveawaybandit.com
 Blythedale, MO 64426  
 USA  
 info@giveawaybandit.com
+
+**0** Flares Twitter 0 Facebook 0 Google+ 0 Reddit 0 StumbleUpon 0 LinkedIn 0 Email \-- Buffer 0 Filament.io **0** Flares ×
