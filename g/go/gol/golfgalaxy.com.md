@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420051218id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223042424id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx%3Fab%3DFooter_PrivacyPolicy) for the most accurate reproduction.*
 
 # Safety, Security & Privacy at Golf Galaxy
 
