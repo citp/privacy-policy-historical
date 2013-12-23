@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techprevue.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319005937id_/http%3A//www.techprevue.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprevue.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223104535id_/http%3A//www.techprevue.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tech Prevue (तकनीक दृष्टा)
+# Privacy Policy | Tech Prevue
 
-This Privacy Policy governs the manner in which Tech Prévue Labs collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.techprevue.com](http://www.techprevue.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Tech Prévue Labs.
+This Privacy Policy governs the manner in which Tech Prévue Labs collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techprevue.com](http://www.techprevue.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech Prévue Labs.
 
 **Personal identification information**
 
@@ -14,13 +14,13 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
 Tech Prévue Labs may collect and use Users personal information for the following purposes:
 
-  *  _\- To improve customer service_  
+  * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -49,7 +49,7 @@ We may use third party service providers to help us operate our business and the
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Advertising**
 
@@ -57,7 +57,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -74,8 +74,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 **Tech Prévue Labs**  
 [http://www.techprevue.com](http://www.techprevue.com/)  
 Tech Prévue Labs  
-Lucknow, Uttar Pradesh, India, Pincode - 226010  
-techprevue@yahoo.com  
-[Contact](http://vinayprajapati.wufoo.com/forms/z7x3x5/)
+Lucknow, Uttar Pradesh, India, Pincode – 226010  
+contact@techprevue.com  
+[Contact](http://www.techprevue.com/contact/)
 
-This document was last updated on Feb 25, 2013 
+This document was last updated on DEC 20, 2013
