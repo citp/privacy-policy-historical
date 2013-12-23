@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615090803id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223090734id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
 
 # SanDisk’s Privacy Commitment
 
@@ -168,10 +168,4 @@ SanDisk Corporation
 Milpitas, CA 95035-7933  
 Attention: Privacy Officer  
 1 (408) 801-1000  
-   
-United States, Canada: [privacy@sandisk.com](mailto:privacy@sandisk.com)  
-Latin America: [privacy-la@sandisk.com](mailto:privacy-la@sandisk.com)  
-Europe, Middle East, Africa: [privacy-EMEA@sandisk.com](mailto:privacy-EMEA@sandisk.com)  
-Japan: [privacy-japan@sandisk.com](mailto:privacy-japan@sandisk.com)  
-Korea: [privacy-korea@sandisk.com](mailto:privacy-korea@sandisk.com)  
-Asia/Pacific: [privacy-asia@sandisk.com](mailto:privacy-asia@sandisk.com)
+E-mail: [privacy@sandisk.com](mailto:privacy@sandisk.com)
