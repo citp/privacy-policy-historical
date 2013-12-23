@@ -1,160 +1,124 @@
-> *The following text is extracted and transformed from the viddler.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624143634id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddler.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223083741id_/http%3A//www.viddler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Viddler
 
-### Summary of Privacy Policy
+Viddler.com Privacy Policy
 
-_This is a summary only. Please note that while our Privacy Policy may change from time to time, you will always find the most recent version here._
+Last Updated: November 6, 2013 
 
-We at Viddler recognize that you, our customers, visitors, users, and all others who use Viddler.com value your privacy. We respect your privacy.
+Thank you for using Viddler and visiting our website. Your privacy is important to us, and we have adopted this Privacy Policy to memorialize our data collection and disclosure practices for the Viddler.com website and its related tools and services, including any mobile applications we provide, our online marketplace, and any web pages we control on any third party websites (collectively, the “Services”). The Services are owned and operated by Viddler, Inc., a Delaware corporation (“Viddler,” “we,” “us” or “our”). This Privacy Policy applies to anyone using any of the Services (including without limitation, our website including any portions that are co-branded or co-labeled with a third party name or brand, our online video player software, and our video streaming and hosting services), to information collected through the Services, and to any other information provided to us by visitors, our client (“Clients”), our Clients’ customers (“Viewers”), and other users of our Services (“users,” “you” or “your”). 
 
-You choose the privacy settings for the content you upload (public, shared or private.)
+1.        Consent 
 
-If you choose to share information publicly (such as in chats), you do so at your own risk.  Remember, uploaded content marked “public” can be viewed by anyone.
+By using our website or other Services or expressing affirmative consent to this Privacy Policy in any other way, you consent to this Privacy Policy and you agree that you are at least 13 years old. If you do not agree with any provisions of this Privacy Policy or if you are not at least 13 years old, you may not use the Services. Information collected through the Services may be transferred, used and stored in the United States and in foreign jurisdictions in which we, our users, or our agents for the Services are located now or at any time in the future. If you access the Services, you consent to the capture, storage, transfer, use and processing of your Personal Information (as defined below) in and between all of those jurisdictions. The data protection and other laws in some countries and jurisdictions (such as the federal laws and some state laws in the United States) are not as comprehensive or stringent as the privacy laws in other countries and jurisdictions (such as the laws of the European Union). You agree that all transactions relating to our website, mobile applications, platform software and other Services shall be deemed to have occurred in the United States, where we currently have all of our personnel and operations.
 
-Some personal information is collected when you create an account. Viddler may share non-personally identifiable aggregated demographic information.
+2.        Collection of Personal Information
 
-We keep server logs to track usage, and may correlate this information with personal information when required.
+We may collect Personal Information in connection with our Services.  When we use the term “Personal Information” we mean information that can be used to identify an individual and may include, but is not limited to, your full or partial first name, last name, photograph, user ID, password, postal address, email address, telephone number, your geographic location if you are accessing the Services from a GPS-enabled device, and any other information that may be used to identify you which you choose to submit through the Services. 
 
-#### What This Privacy Policy Covers
+"Personal Information" may also include any credit card or debit card, PayPal, or other financial account information you may provide to us or to our third-party payment application provider for billing purposes. Consistent with this policy, Viddler will take steps to secure this information and access it only for matters related to payment processing. Payment information will not be shared with others unless or except in connection with processing of payments, and in such cases, subject to confidentiality obligations.
 
-This Privacy Policy pertains to the use of the Viddler, Inc. ("Viddler") website at http://www.viddler.com/ which also includes portions of the website that are co-branded or co-labeled with a third party name or brand (the "Viddler Website" or the "Website").
+Viddler may collect Personal Information from you at various points in the course of your user experience, whether in your role as a registered user, a Client, or a Viewer. For example, when you register to create a user account with Viddler or post content to Viddler.com, we ask you to provide your full name, your email address, company, address, and phone number, , and if you would like to obtain a paid account, we may ask for your billing address, phone number, and other credit card or other financial account information. You may always choose not to provide Personal Information, but this may limit your access to Services or prevent you from receiving certain Services.  
 
-This Privacy Policy covers how Viddler treats personal information that Viddler collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
+Viddler may also collect Non-Personal Information about you.  “Non-Personal Information” means information that is not Personal Information, including without limitation aggregated, de-identified information, information about your desktop computer and mobile device, your device’s Internet Protocol (“IP”) address, your purchase history, and demographic information that does not identify any particular person.  
 
-Viddler reserves the right to review all User Content (as defined in our Terms and Conditions) to verify quality and adherence to our Terms and Conditions. This Privacy Policy is incorporated into and is subject to our Terms and Conditions. Your use of the Website and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and our Terms and Conditions. To the extent and provisions in the Privacy Policy conflict with the Terms and Conditions, the Terms and Conditions govern your use of this Website.
+Please note that we are not responsible for the privacy policies, practices or the content of websites owned by others that you may link to or that may be linked from the Services. Accordingly, we encourage you to review the privacy policies and terms of service of any such websites so that you understand how those websites collect, use and share any Personal Information they collect about you. Further, information you share publicly online may be shared or used in ways Viddler cannot and does not control in any way. Such information might include information you share online in message or discussion boards, emails, chat areas, or within your public Viddler profile. Others could collect, use, and disclose this information. Viddler cannot guarantee the security of such information that you disclose or communicate online in public areas such as message boards, chat rooms, and within your public profile, and you do so at your own risk. 
 
-PLEASE NOTE THAT BY USING THE VIDDLER WEBSITE OR SERVICE, OR BY VISITING THE WEBSITE, YOU SIGNIFY YOUR AGREEMENT WITH THIS PRIVACY POLICY AND THE TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT USE THE WEBSITE OR SERVICE.
+3.        Use of Personal Information
 
-#### Privacy Settings
+Viddler uses Personal Information to assist us in setting up accounts; improving online operations; processing transactions you initiate; to provide customer service; to provide newsletters or other communications or services which you have signed up for or otherwise agreed to receive; to display content that is customized to your interests or preferences (e.g., displaying product recommendations based on your purchasing and browsing history on the Services); to send account- or transaction-related communications such as welcome letters and transaction confirmations; to perform research and analysis aimed at improving our products, services and technologies; and to manage and maintain our systems.  For example, when you register and create an account profile, Viddler will use your personal information to operate, maintain, and provide to you the features and functionality of the Service, including personalization and customization based on what you share with Viddler or what Viddler learns about you from your use of the Services. For example, as you browse the Services, Viddler may display targeted advertisements which we select for you based on the information, including any Personal Information that you choose to include in your Viddler profile. We may also use Personal Information for internal purposes to help us diagnose problems, monitor traffic patterns and otherwise continually improve our Services. 
 
-Viddler allows users to upload and display User Content on the Viddler Website and/or on other websites using the Viddler "Embeddable Player." You have a choice of assigning one of three privacy settings to each User Content you post. These include:
+4.        Disclosure of Personal Information
 
-  1. **Private**. User Content that you publish as "Private" ("Private User Content") will be accessible to you and Viddler personnel in connection with the operation and administration of the Website.
-  2. **Shared**. User Content that you publish as "Shared" ("Shared User Content") will be accessible to the defined set of Viddler users of the Viddler Website. 
-  3. **Public**. User Content that you publish as "Public" ("Public User Content") will be accessible to all Viddler users of the Viddler Website, whether or not they are registered Viddler users and to all partners, affiliates, agents, designees, licensors, licensees or sub-licensees (collectively, "Partners"). Furthermore, any Viddler user can publish your Public User Content on a website other than the Viddler Website, using the Embeddable Player. In addition, Public User Content may also be available for other Viddler users to modify, copy, download, or combine with other User Content.
+In general, we may disclose Personal Information and Non-Personal Information about you to companies, agents, contractors, service providers or others engaged to perform functions on our behalf (such as providing data storage, hosting our website and your videos, conducting audits and performing web analytics), to  fulfill delivery service requests and other services requested in connection with transaction you have initiated via the Services; and to market Viddler products and services to you (for example, to send you messages concerning new Viddler features or products or Viddler special offers). In addition, we may disclose your Personal Information and Non-Personal Information in the following ways:
+
+  1. Your Viddler Channel. Any information you choose to provide as part of your Viddler Channel may be made publicly visible to all Viddler users by you, and consequently should reflect how much you want other Viddler users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they choose to disclose via their account Channel pages. 
 
 
+  2. Legal Enforcement. We may also disclose your Personal Information to third parties, in our sole discretion, to (a) enforce or apply the terms and conditions of the Services, including investigations of potential violations thereof, (b) comply with legal or regulatory requirements or a governmental request, (c) protect the rights, property or safety of Viddler, other users or other third parties, (d) to any authority, such as a police department or regulatory authority, or (e) detect, prevent or otherwise address fraud, security or technical problems that may arise. 
 
-You understand and agree that while Viddler enables you to control who may access your User Content, if you opt to publish your content or otherwise distribute it to other third parties you are making your submissions available to individuals in ways Viddler cannot and does not control. If you do choose to share your information with third parties Viddler is not responsible for use of your data by any such third party.
 
-Consistent with its Terms and Conditions Viddler and its partners shall have no liability whatsoever in connection with or arising out of your decision to publish User Content as "Shared" or "Public" including without limitation decisions you may make to change how this User Content is published. You may later decide to change the access settings to the User Content you publish, but you should be aware that there may still be copies of the content available publicly which Viddler cannot and does not control.
+  3. Ad Servers and Ad Networks. Viddler may also work with and allow other companies (like Google), third-party ad servers or ad networks to serve advertisements within the Services. These third-party ad servers or ad networks use technology to send the advertisements and links that appear on our Services directly to your web browser. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and deliver the most relevant ads to you. Viddler does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out, and even then, Viddler will take steps to ensure respect for the confidentiality of your Personal Information. However, please note that if an advertiser asks Viddler to show an advertisement to a certain audience (for example, women ages 18-34), and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks. Please click [here](http://www.networkadvertising.org/optout_nonppii.asp) to learn about the information collection practices and “opt-out” procedures of third party ad networks we may use. Other entities’ use of their cookies is subject to their own privacy policies. Viddler's Privacy Policy does not apply to such other advertisers or web sites.
 
-### Information Collection and How it is Used:
 
-#### General Information
+  4. Co-Branded Pages. Next, please note there may be portions of the Services, from time to time, that are co-branded or co-labeled with the brand or name belonging to one of Viddler’s Partners. Although Viddler will own any Non-Personal Information and Personal Information collected about you from one of these co-branded areas, such information may be shared by Viddler with that specific Partner. 
 
-Viddler collects personal information when you create your user account with Viddler to use Viddler Services (as defined in the Terms and Conditions) or to post content on the Viddler Website. When you register, we ask for your full name, your email address, your age and certain optional information such as your gender.
 
-When you register and create your own account profile, Viddler will use your personal information to operate, maintain, and provide to you the features and functionality of the Viddler Service and Website including personalization and customization based on what you share with Viddler or what Viddler learns about you from your use of the Website.
+  5. Non-Personal Information. We may also disclose Non-Personal Information to our clients, developers, business partners, merchants, advertisers, investors, potential buyers and other third parties for any reason in our sole discretion.  For example, we may disclose to one of our Partners (as defined in Section 5, below) that “53% of users who regularly use Viddler chat are between the ages of 18 and 24”, as the case may be, or the like.
 
-Information you share publicly online may be shared or used in ways Viddler cannot and does not control in any way. Such information might include information you share online in message or discussion boards, emails, chat areas, within your public profile, etc. Others could collect, use, and disclose this information. Viddler cannot guarantee the security of such information that you disclose or communicate online in public areas such as message boards, chat rooms, and within your public profile and you do so at your own risk. 
 
-While Viddler currently does not charge fees to create an account at this time, Viddler reserves the right at any time to charge fees for access to new Viddler content or services or to portions (or all) of the existing Website or Service. If you would like to obtain a paid account, we will ask for your billing address, phone number, and credit card information. Consistent with this policy, Viddler will take steps to secure this information and access the information only for matters related to payment processing. Payment information will not be shared with others unless or except in connection with processing of payments and if so, subject to strict confidentiality obligations.
-
-Viddler displays targeted advertisements based on personal information that is exhibited in your profile. 
-
-#### Usage Tracking
-
-Viddler automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request. Viddler uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. Viddler may correlate this information with the personal information of individual users.
-
-#### IP Addresses
-
-IP addresses may be used for various purposes, including:
-
-  1. To diagnose or service technology problems reported by our users or engineers which are associated with the IP addresses controlled by a specific web company or ISP.
-  2. To tailor advertising based on geographic area or other information derived from your IP address. Aggregate information derived from IP addresses may also be reported to advertisers.
-  3. To estimate the total number of users visiting the Viddler Website from specific geographical regions.
-  4. To make sure that users are not voting for themselves or friends during contests or promotions.
+  6. Corporate Transactions and Bankruptcy. Finally, Viddler reserves the right to transfer information (including your Personal Information and Non-Personal Information) to a third party in the event of a reorganization, spin-out, sale, merger, or transfer of some or all of the assets of our company, or in the unlikely event of a bankruptcy, liquidation or receivership of our business.
 
 
 
-#### Cookies
+5.        Privacy Settings; Accessing and Updating Personal Information
 
-We may place a text file called a "cookie" in the browser files of your computer, or use similar technologies to enhance or personalize the Website and our relationship with you. The cookie itself does not contain personal information although it will enable us to relate your use of this Website to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites.
+When you use our Services, we make good faith efforts to provide you with access to your Personal Information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes.  We ask individual users to identify themselves and the Personal Information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backups), or for which access is not otherwise required.  In any case, where we provide access and correction of Personal Information, we perform this service free of charge, except if doing so would require a disproportionate effort. 
 
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
+Viddler allows users to upload and display content (“User Content”) on Viddler.com and on other websites using the Viddler “Embeddable Player,” including without limitation videos (“Videos”).  Users may also edit information relating to their own Videos by using the tools we may provide through the Services. You have a choice of assigning one of four privacy settings to each Video you post. With your consent, These include:
 
-If you reject all cookies, you will not be able to use Viddler products or services that require you to "sign in," and you may not be able to take full advantage of the Viddler Service or Website.
-
-Viddler uses its own cookies and may use similar technologies for a number of purposes, including to:
-
-  1. Access your information when you "sign in";
-  2. Keep track of preferences you specify while you are using Viddler's Service;
-  3. Display the most appropriate advertising banners, based on your interests and activity on the Viddler Website;
-  4. Estimate and report our total audience size and traffic;
-  5. Conduct research to improve Viddler's content and services; and 
-  6. Otherwise authenticate users and enhance, personalize, or customize your use of the Website.
+  1. Private. A Video that you publish as “Private” (a “Private Video”) will be accessible to you and Viddler personnel in connection with the operation and administration of the Services.
 
 
+  2. Invitation Only. User Content that you publish as "Invitation Only" ("Invitation User Content") will be accessible to people you share the invitation link, or where you embed the video.
 
-Viddler may use third-party authorized service providers under contracts with Viddler to assist Viddler in displaying advertising to you, and in such case may share the information in the cookie Viddler collects with such service providers.
 
-#### Information Sharing and Disclosure
+  3. Domain Restricted. User Content that you publish as “Domain Restricted” (“Domain Restricted User Content”) will be accessible only to you and Viddler personnel on Viddler.com. Videos will only play on websites in which the user defines as white listed domains in their settings.
 
-When you post User Content to the Viddler Website, your Viddler ID or alias that you are posting under is visible to other users.
 
-If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
-
-Viddler may share personal information about you with other people or nonaffiliated companies in the following circumstances:
-
-  1. If you submit personally identifiable information to us through the Website to create your own account profile, we may share your personally identifiable information with employees, contractors, agents doing work for Viddler or other third parties to provide you with the features and functionality of the Viddler Website and Service and to personalize and enhance our business relationship with you.
-  2. Viddler may share non-personally identifiable aggregated demographic information with third parties (including Partners), such as "53% of users who regularly user Viddler chat are between the ages of 18 and 24" or the like.
-  3. Viddler may also share your personal information and/or aggregate information with our, technical consultants, third party auditors and other third parties who work with us to create or maintain the Website, enhance its functionality or provide associated services.
-  4. There may be portions of the Website, from time to time, that are co-branded or co-labeled with the brand or name belonging to one of Viddler's Partners. Although Viddler will own any non-personally identifiable and personally identifiable information collected about you from one of these co-branded areas, such information may be shared by Viddler with that Partner.
-  5. Viddler may share personal information about Website users with third parties if doing so is appropriate to carry out a user's request, render its services or, if it reasonably believes that doing so is legally required or is in Viddler's interest to protect its property or other legal rights or the rights or property of others.
-  6. If Viddler should ever file for bankruptcy or have its assets sold to or merge with another entity, information Viddler receives from you from this Website is a Viddler asset and may be transferred.
+  4. Public. User Content that you publish as "Public" ("Public User Content") will be accessible to all Viddler users of the Viddler Website, whether or not they are registered Viddler users and to all partners, affiliates, agents, designees, licensors, licensees or sub-licensees (collectively, "Partners"). 
 
 
 
-#### Third Party Advertisers
+Please keep in mind that when you submit a Video to the Services for viewing by the Client, its Viewers, or any other user or third party, we will, at our Client’s request, allow such video to be streamed to the appropriate audience requested by such Client.  If the video contains Personal Information about the Client or a third party, you understand that by facilitating the streaming of the video on the Service, Viddler by necessity facilitates the viewing of such Personal Information on the Service, and you agree to Viddler’s display of the relevant Personal Information in this regard, and you agree not to upload User Content containing Personal Information about any third party unless you have received such third party’s written consent prior to uploading the User Content to the Services. 
 
-Viddler may work with and allow other companies (like Google), third-party ad servers or ad networks to serve advertisements within the Viddler Website. These third-party ad servers or ad networks use technology to send the advertisements and links that appear on the Website directly to your web browser. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and deliver the most relevant ads to you. Viddler does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out and even then will take steps to ensure respect for the confidentiality of this information. However, please note that if an advertiser asks Viddler to show an advertisement to a certain audience (for example, women ages 18-34) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks. Please visit [ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp) to learn about the information collection practices and "opt-out" procedures of third party ad networks we may use. Other entities' use of their cookies is subject to their own privacy policies. Viddler's Privacy Policy does not apply to such other advertisers or web sites.
+You understand and agree that while Viddler enables you to control who may access your User Content, if you upload a Public Video, or opt to publicly publish your content on the Services or otherwise distribute it to other third parties, you are making your submissions available to individuals in ways Viddler cannot and does not control. If you do choose to upload a Public Video or share your information with any third party, Viddler is not responsible for use of your data by such third party.
 
-#### An Important Note on Children and Privacy
+Consistent with its Terms and Conditions, Viddler and its partners shall have no liability whatsoever in connection with or arising out of your decision to publish Videos or other User Content as anything other than “Private” including without limitation decisions you may make to change how this User Content is published. You may later decide to change the access settings to the User Content you publish, but you should be aware that there may still be copies of the content available publicly which Viddler cannot and does not control.
 
-Viddler does not knowingly collect or maintain personally identifiable information from persons under 13 years of age. If Viddler learns that such information has been collected on our Website Viddler will take the appropriate steps to delete this information. Any person who provides their personal information to Viddler through this Website represents that they are 13 years of age or older.
+Please e-mail us at privacy@viddler.com or contact us at the address stated below with any questions if you need assistance accessing or changing your Personal Information or if you would like to have your Personal Information deleted from our servers.  Please be aware that if you delete your Personal Information, you may not be able to continue to use our website or other Services.  If you request that we delete your Personal Information, or if you terminate your user account with Viddler, we may in our sole discretion retain certain information, including your Personal Information, for a period of time to satisfy our legal, audit and/or dispute resolution requirements. For example, even after you delete your Viddler user account, your identification, billing and contact information may remain in Viddler's records for some period. In addition, any Personal Information of yours that we have previously shared with third parties would remain with those third parties, even if we delete the same or similar Personal Information from our servers.  We may retain your Non-Personal information indefinitely. 
 
-#### User Access
+6.        Usage Tracking; Cookies and Automatic Information Gathering Technologies
 
-You can change your Viddler account information at any time.
+Non-Personal Information (including aggregate, technical or demographic information) can also be collected through the standard operation of our internet servers and logs as well as other automatic data collection tools such as “cookies” and other similar technologies, and may be  provided by us or one of our third party service provider.  A “cookie” is a small text file that is recorded either temporarily or persistently on your hard drive and that a website can use in order to recognize visitors who revisit a website so as to facilitate their ongoing access to and use of the website.  Information we may collect through cookies and other similar technologies includes your browser type, language preference, operating system, referring website (if applicable), the name and type of device, the operating system of your device, your geographic location, the date and time of each user visit or request, the message boards or other discussion forums you visit, and the Viddler service endpoints that you accessed or visited during your use of the Services.  We may gather such information that we collect from each user and perform statistical analysis of the aggregated information, including analysis about the behavior of visitors to our website, and we may use it for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. Further, Viddler may correlate this information with the Personal Information of individual users. 
 
-You can delete your Viddler account at any time from your settings page; however, please note that your identification, billing and contact information may remain in Viddler's records for some period.
+You may prevent our use of cookies to collect Non-Personal information about you by adjusting the option that is available in most web browsers to deny or accept cookies.  Recognize, however, that cookies may be necessary in order to provide certain features requested by many users, such as the customized delivery of certain information. 
 
-We may send you certain communications relating to the Viddler Service, such as service announcements and administrative messages that are considered part of your Viddler account.
+7.        Your California Privacy Rights
 
-#### Security
+A California resident who has provided personal information to a business with whom she or he has established a business relationship for personal, family, or household purposes (“California Customer”) is entitled to request information about whether the business has disclosed her or his Personal Information to any third parties for the third parties’ direct marketing purposes.  In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year, as well as a list of the categories of Personal Information that were disclosed.
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. In certain areas, we use commercially reasonable physical, managerial and technical safeguards to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by a breach of security.
+However, it is our understanding that a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s Personal Information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy.  Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of Personal Information to third parties for direct marketing purposes and providing a cost free means to exercise that right.
 
-If Viddler learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. Viddler may post a notice on our Website if a security breach occurs. If this happens, you will need a web browser enabling you to view the Website. Viddler may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@viddler.com](mailto:privacy@viddler.com).
+We have no present intention to share Personal Information with third parties for their own direct marketing purposes unless you affirmatively agree to such disclosure -- typically by agreeing to this Privacy Policy and thereby authorizing the sharing practices described herein, or by opting in to receive information from a third party through our website -- but if we ever change our policy, we will notify you about the policy change by updating this Privacy Policy. To prevent disclosure of your Personal Information for use in direct marketing by a third party for its own purposes, do not accept this Privacy Policy and do not opt in to or authorize such use when you provide Personal Information on our website. Please note that whenever you choose to share your Personal Information with a third party or allow your Personal Information to be shared with a third party to communicate with you, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-Due to the existing regulatory environment, Viddler cannot ensure that all of your personally identifiable information and communications will remain private and will never be disclosed in ways not otherwise described in this Policy. Therefore, although we maintain and make every effort to comply with evolving privacy standards, we do not promise, nor should you expect, that your personally identifiable information or private communications will always remain private.
+California Customers may request further information about our compliance with California’s privacy law by e-mailing privacy@viddler.com or contacting us as stated below. Please note that we are only required to respond to one request per customer per calendar year, and we are not required to respond to requests made by means other than through this e-mail address.
+
+8.        An Important Note on Children and Privacy
+
+Viddler does not knowingly collect or maintain personally identifiable information from persons under 13 years of age. Nor do we authorize children less than 13 years of age to use the website or our other Services. If Viddler learns that such information has been inadvertently collected on our Services, upon receipt of notice from the child or the child’s parent or guardian, Viddler will take the appropriate steps to delete this information. Any person who provides their personal information to Viddler through this Website represents that they are 13 years of age or older.  
+
+9.        Security
+
+We utilize a number of information security measures to safeguard your Personal Information. For example, we use commercially reasonable physical, managerial and technical safeguards to protect your information from unauthorized access, disclosure, alteration, or destruction. Unfortunately, however, no data transmission over the Internet, and no method of data storage, can be guaranteed to be completely secure.  Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we do not guarantee its security. 
+
+If Viddler learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. Viddler may post a notice on our website if a security breach occurs. If this happens, you will need a web browser enabling you to view the website. Viddler may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), you should notify us at [privacy@viddler.com](mailto:privacy@viddler.com).
 
 Your Viddler account information is password-protected. It is your responsibility to keep your password private. Do not share your password with anyone.
 
-#### International Users
+10.        Changes to this Privacy Policy
 
-If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:
+Viddler may modify or update this Privacy Policy periodically with or without prior notice by posting an updated Privacy Policy on our website or as part of our Services. You can always check the “Last Updated” date at the top of this document to see when the Privacy Policy was last changed.  We encourage you to check this Privacy Policy from time to time. Your continued use of our website and/or Services following the posting of an updated Privacy Policy constitutes your consent to the contents of such Privacy Policy. IF YOU DO NOT AGREE TO FUTURE CHANGES TO THIS PRIVACY POLICY, YOU MUST TERMINATE YOUR USER ACCOUNT AND STOP USING OUR WEBSITE AND SERVICES AFTER THE EFFECTIVE DATE OF SUCH CHANGES.  Please note that upon leaving the Services, any Privacy Policy in effect immediately prior to your leaving shall continue to be binding on you.
 
-  1. the use of your personal data for the uses identified above in accordance with this Privacy Policy; and
-  2. the transfer of your personal data to the United States as indicated above.
+If you have questions or suggestions, you may contact us as follows:
 
-
-
-#### Changes to this Privacy Policy
-
-We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date on the Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of this Website constitutes your agreement to this Privacy Policy and any updates.
-
-If you have questions or suggestions please use you the help form or you can contact us at:
-
-**By mail:**  
+By mail:  
 Viddler, Inc.  
-521 E 4th Street  
-2nd Floor  
+520 Evans Street
+
+Suite 1
+
 Bethlehem, PA 18015
 
-**By email:**  
-[info@viddler.com](mailto:info@viddler.com)
-
-November 17, 2006 - 
+By email:  
+[privacy@viddler.com](mailto:info@viddler.com)
