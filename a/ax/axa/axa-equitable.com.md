@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the axa-equitable.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621102422id_/http%3A//www.axa-equitable.com/axa/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa-equitable.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223092910id_/http%3A//www.axa-equitable.com/axa/privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
-All of us in the AXA Equitable family of companies strongly believe in protecting the  
-confidentiality and security of the personal information we collect.
+All of us in the AXA Equitable family of companies strongly believe in protecting the confidentiality and security of the personal information we collect.
 
 ### Safeguarding Your Personal Information
 
@@ -13,7 +12,7 @@ If you are not an AXA Equitable client and are accessing our website to learn mo
 
 ### Information We Collect from Our Website
 
-We may collect two types of information from our Website: information you enter into our Website when you request information from us on Website and tracking information that tells us how you use our Website. Any information you enter into our website will be treated as personal information. Personal information may include your name, address, telephone number and e-mail address as well as information about your investments, your investment goals and your tolerance for risk. We may also collect information about how you use our Website. We may obtain this information by tracking when you use our Website, which pages you view at which times and similar data through our Web server software and "cookies, web beacons and clear GIFs or tracking pixels". 
+We may collect two types of information from our Website: information you enter into our Website when you request information from us on Website and tracking information that tells us how you use our Website. Any information you enter into our website will be treated as personal information. Personal information may include your name, address, telephone number and e-mail address as well as information about your investments, your investment goals and your tolerance for risk. We may also collect information about how you use our Website. We may obtain this information by tracking when you use our Website, which pages you view at which times and similar data through our Web server software and "cookies, web beacons and clear GIFs or tracking pixels".
 
 top
 
@@ -26,8 +25,7 @@ top
 
 ### Security Of Information Transmissions
 
-Information you provide to us when filling out forms or requests for information on our Website, as well as information we supply when you are visiting those areas, is protected while passing through the Internet using encryption technology called Secure Sockets Layer or SSL. Your browser will indicate when you are within a secure area of our Website by displaying a symbol, such as a locked padlock or an unbroken key. Encryption technology scrambles transmissions so it is incomprehensible to third parties. Although we will use all reasonable efforts to safeguard the confidentiality of your information, Internet transmissions cannot be made absolutely secure. We will not be liable for the unintended disclosure of information due to errors in transmission or unauthorized acts of or breaches of security by third parties. Please note that regular Internet e-mail is not secure. To protect your privacy, please do not use e-mail to communicate information that you want kept confidential. You can, of course, always  
-contact us by telephone or mail as described below.
+Information you provide to us when filling out forms or requests for information on our Website, as well as information we supply when you are visiting those areas, is protected while passing through the Internet using encryption technology called Secure Sockets Layer or SSL. Your browser will indicate when you are within a secure area of our Website by displaying a symbol, such as a locked padlock or an unbroken key. Encryption technology scrambles transmissions so it is incomprehensible to third parties. Although we will use all reasonable efforts to safeguard the confidentiality of your information, Internet transmissions cannot be made absolutely secure. We will not be liable for the unintended disclosure of information due to errors in transmission or unauthorized acts of or breaches of security by third parties. Please note that regular Internet e-mail is not secure. To protect your privacy, please do not use e-mail to communicate information that you want kept confidential. You can, of course, always contact us by telephone or mail as described below.
 
 ### Website Links
 
@@ -39,7 +37,6 @@ We may make changes to our privacy policy in the future. If you are a client, we
 
 ### Contacting Us
 
-If you have any questions about this privacy policy, please call us at 1-877-806-4573 and  
-ask for our Privacy Information Center.
+If you have any questions about this privacy policy, please call us at 1-877-806-4573 and ask for our Privacy Information Center.
 
 top
