@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the womenhealthzone.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617133049id_/http%3A//www.womenhealthzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenhealthzone.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223113729id_/http%3A//www.womenhealthzone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyWomen Health | Women Health
+# Privacy Policy | Women Health
 
 Expedient InfoMedia Pvt. Ltd. (“Expedient InfoMedia”) operates this website (the “Site”), other health, wellness, diet and fitness websites that are part of the Expedient InfoMedia portfolio of websites (collectively, the “Sites”) and the services related to or offered on the Sites (hereinafter, the “Services”). Some of the Sites are websites that we operate on behalf of third party licensors (collectively, “Licensors”, such Licensors together with Expedient InfoMedia, “us” or “we”). Expedient InfoMedia’s Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites.
 
