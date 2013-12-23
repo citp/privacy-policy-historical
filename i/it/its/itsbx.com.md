@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsbx.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624113524id_/http%3A//www.itsbx.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsbx.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223072104id_/http%3A//www.itsbx.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
 
 # ItsBX.Com - BX's Urban Hot Topic Blog - FAQ: Privacy
 
