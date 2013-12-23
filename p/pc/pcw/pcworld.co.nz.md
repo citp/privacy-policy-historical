@@ -1,72 +1,133 @@
-> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618014337id_/http%3A//fairfaxbm.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223114107id_/http%3A//www.pcworld.co.nz/privacy) for the most accurate reproduction.*
 
-# Fairfax Media Business Group > Corporate > Privacy Policy
+# Privacy Policy - PC World Magazine New Zealand
 
-## Corporate
+**Privacy Statement for IDG Communications Pty Ltd**
 
-**Privacy Policy**
+This website is owned and operated by IDG Communications Pty Ltd. (“IDG Australia”) ABN 14 001 592 650.
 
-This website is a member[](http://fairfaxbm.co.nz/) of the [Fairfax Media Network](http://www.fairfaxmedia.co.nz/). [](https://web.archive.org/web/20130618014337id_/http%3A//fairfaxbm.co.nz/www.fairfaxmedia.co.nz)Fairfax Media complies strictly with New Zealand’s [Privacy Act](http://www.privacy.org.nz/privacy-act), which deals with the collection, storage, use and disclosure of personal information, and the [Unsolicited Electronic Messages Act](http://www.antispam.govt.nz/), New Zealand's "anti-spam" legislation. Fairfax Media does not monitor individual traffic patterns - only aggregate visitor behaviour is collected. It is not linked to personally identifiable information.
+IDG Australia is the owner and operator of: ARN, CIO Australia, Computerworld Australia, Australian PC World, CSO Australia, GoodGearGuide, Techworld, CFO World, CMO, CIO New Zealand, Computerworld New Zealand, PC World New Zealand, New Zealand Reseller News, and the associated websites and the subdomains of these websites. IDG Australia is a subsidiary of International Data Group, Inc.
 
-Most of the _Fairfax Media_ network can be accessed without disclosing personal information. Where personal information is provided to us, _Fairfax Media_ maintains and uses that information in strict conformity with the Privacy Act. Under the Act you have the right to access information about yourself and to ask for it to be corrected, and to limit the purposes for which it can be used _. Fairfax Media_ will not release your personal data without your consent.
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including, Computerworld, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes computerworld.com, cio.com, csoonline.com, infoworld.com, idgconnect.com, idgconnect.co.uk networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/). The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
 
-You may request access to, and corrections to, any information we have on you by contacting the Privacy Officer, Karl Martin, by emailing[](mailto:karl.martin@fairfaxmedia.co.nz) [karl.martin@fairfaxmedia.co.nz](mailto:karl.martin@fairfaxmedia.co.nz).
+IDG Australia has created this privacy statement to demonstrate our firm commitment to the confidentiality of user data that identifies a natural person or from which such a person’s identity may reasonably be ascertained (“personal data”) in accordance with the National Privacy Principles set forth in the Privacy Act 1988 (Cth). The following discloses the information gathering and dissemination practices for IDG Australia on-line products.
 
-_Fairfax Media_
+We are committed to notify you of the following:
 
-will not share personally identifiable information with third parties unless we have your permission or we believe in good faith we are required to by law. _Fairfax Media_ occasionally uses email and subscriber lists on behalf of companies who wish to mail our subscribers. We believe direct communication can be an efficient way to present our subscribers with information relevant to them. All communication is controlled by us and companies do not have access to our subscribers' names and addresses. Any information our subscribers give us remains confidential. Where information collected on this site may be used in this way, you will be advised at the point where this information is collected and given the opportunity to decline such use then or later. **Email Newsletters**  
-You will only receive email newsletters from us if you have a) expressly signed up for a newsletter on a Fairfax Media website or b) you are a subscriber to one of our publications and have been invited to sign up to an Fairfax Media email newsletter.
+  * What personal data IDG Australia collects from you and how the information is used;
+  * With whom this site shares the information it collects;
+  * How you can correct or make changes to this information;
+  * What choices are available to you regarding the collection, use, and distribution of information;
+  * What security procedures are in place to protect the loss, misuse, or alteration of information under IDG Australia's control.
 
-The information we gather from subscribers to our email newsletters (including email addresses) is not shared with our email advertisers or other parties. From time to time we may send out emails on behalf of these advertisers, but we do not provide them with access to any personal information that you have provided.
 
-In order to provide you with better and more relevant advertising and services, we compile information about email response and website usage. When you sign up to receive a newsletter, you will be asked to provide your name and email address so that we can uniquely identify you on our database and to ensure that we can send the newsletter to you. You may also, optionally, provide us with further demographic information so that we can deliver relevant newsletters and emails to you. This information also helps us to better understand our customers' site usage patterns and also what types of content and advertising may help to encourage those visits. This information also helps us to understand the types of marketing messages our customers are interested in receiving.
 
-All emails sent contain a link to unsubscribe or to modify your profile. You may subscribe or unsubscribe to any newsletter at any time.
+_By using this Website and/ or submitting your personal data, you agree to the transfer, storing and processing activities described in this Policy. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Policy._
 
- **HTML Newsletters**  
-We make use of both "open-tracking" and "click-tracking" in our HTML newsletters (i.e. emails that contain text and images) but we don't link this to personally identifiable information. Open-tracking allows us to find out how many people have viewed our email newsletters and click-tracking allows us to find out which links in the newsletter were clicked on. This helps us to refine and improve the editorial content of our newsletters, and to provide you with relevant information.
+If you have questions or concerns regarding this statement, please contact:
 
-"HTML-sensing" is used to determine if your email client supports HTML-based emails. This is employed only if you request our system to detect whether you can receive HTML emails.
+> [privacy@idg.com.au](mailto:privacy@idg.com.au)
+> 
+> Or by post to
+> 
+> The Privacy Officer  
+>  IDG Communications Pty Ltd  
+>  PO Box 1753  
+>  North Sydney NSW 2060  
+> 
 
-If you have any questions, please email: 
+**What information does IDG Australia collect?**
 
-[karl.martin@fairfaxmedia.co.nz](mailto:karl.martin@fairfaxmedia.co.nz).  
-  
-**Cookies**  
-Cookies are small files that contain information a Web site uses for tracking purposes. _Fairfax Media_ does not typically use"cookies" but it may use them from time to time to facilitate the user experience or to enhance site content by compiling aggregate information about what specific sections and pages users visit. Cookies do not provide any personally identifiable information. They do provide details of your IP address, the computer platform and browser that you use and what domain you are accessing our site from.
+There are two main ways we collect information from you:
 
-They may also be used by partner and advertiser sites associated with 
+  * Non-use of an IDG Australia log-in password: Whenever you visit an IDG Australia site, our servers automatically record information about your usage of the network such as the time of the visit, its duration and the page which you visit. This is intended to help us understand what parts of the site users enjoy. The information we collect remains anonymous. If you do not register through the IDG Australia member information site, you remain anonymous and we will not link your usage to you personally.
+  * Using an IDG Australia site after registering: If you register to receive IDG Australia e-mail newsletters or other offerings, personal data about your interests are collected and stored. This helps us to build a profile of what information would be of interest and relevant to you. By using this information we can tailor our content to user interests and help our advertisers better understand the audience they are reaching.
 
-_Fairfax Media_ sites. Advertisers or independent third parties who operate the servers on which the ads reside may also place cookies. Fairfax Media has contracted with DoubleClick to serve all advertising on our website(s) and through e-mail newsletters and other products. When DoubleClick is serving ads, it recognises certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on our Website aren't connected with personally identifiable information collected either on our website or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit [www.google.com/doubleclick](http://www.google.com/doubleclick). We use web metric vendors to gather information to help us understand how users utilise our Website and other electronic products.
 
-Although 
 
-_Fairfax Media_ encourages third parties to adhere to appropriate privacy standards and policies, _Fairfax Media_ is not responsible for the actions or policies of such parties. **PressF1 Help Forum**  
-Cookies are also used on the [PressF1 Help Forum](http://pressf1.co.nz/). The use of cookies on this forum is optional, but may enhance your experience of the site. Cookies are used to enable functions such as showing whether or not a thread or forum you are viewing has new posts since your last visit, or to automatically log you back in when you return to the site after being away for a while. When you register, you will be given the option to 'Automatically login when you return to the site'. This will store your username and password in a cookie, stored on your computer. If you are using a shared computer, such as in a library, school or internet café, or if you have reason to not trust any other users that might use this computer, we do not recommend that you enable this. This forum also gives you the option to use a cookie to track your current session, ensuring that you remain logged-on while browsing the site. If you choose not to store this information in a cookie, the session data will be sent through each link you click. Choosing not to use a cookie may cause problems if your computer's connection to the internet uses a proxy-server and you share links with other users behind the same proxy. If in doubt, we recommend that you select 'yes' to enable the cookie. After you have registered, you may alter your cookie options at any time by changing the settings on this page.
+**How is our registration data used?**
 
-When you sign up to the PressF1 forum you will be asked for a username and email address. If you wish to receive emails from the Administrators, other users or receive notification of thread topics, you will need to supply a valid email address. You may create a profile that is publicly viewable, but this is entirely optional.
+IDG Australia and its suppliers may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. IDG Australia may employ trusted third party specialists to process your data on our behalf in order to deliver the products and services to you in a more efficient manner.
 
-More information on the use of cookies in the PressF1 forum, and how to clear them is available at:
+This personal data is stored on IDG Australia computers or cloud infrastructure (with multifaceted security mechanisms), managed in Australia, and, because IDG Australia is part of the IDG Publishing Network, may be transferred to, stored and processed, inside Australia and/or outside of Australia by other members of our Group. In addition, if you consent to receive offerings from third party organisations, this personal data remains with IDG Australia who will send the third party offerings to you. Except as set forth below with regard to the provision of free resources, at no time will your personal data be transferred to such third party organisations. Finally, as stated above, your personal data may be transferred to and stored by third party specialists engaged by IDG to assist in the provision of the content and services you request. Such vendors may be located inside or outside of Australia. In all cases, we will only transfer your personal data outside Australia when IDG Australia can ensure that the recipient of the information is subject to a law, binding scheme or contract which effectively upholds principles for fair handling of the information that are substantially similar to the National Privacy Principles.
 
-[Does this forum use cookies?](http://pressf1.pcworld.co.nz/faq.php?faq=vb3_board_usage#faq_vb3_cookies)  
-  
-**Nielsen Online**  
-Nielsen Online gathers statistical information on the visitors to our sites and our email newsletter subscribers. The information they gather provides us with non-personal statistics on the number of visitors to our websites, the pages they visited, the duration of page views, the location of visitors prior to accessing our websites, and details on browsers (including Internet Protocol 'IP' addresses or browser configurations). We use this information to help us analyse traffic patterns across our websites. All of this information is completely anonymous – you cannot be identified personally.
+From time to time IDG Australia and/or the IDG Publishing Network may invite you to register in order to receive such offerings as magazines, email newsletters, enter competitions, and receive goods or services from IDG Australia and/or the IDG Publishing Network websites. This may require you to confirm personal data such as your name, email address, and mailing address postcodes. This information is required by IDG Australia for security purposes, and enables IDG Australia to supply a reasonable level of services to users and our advertisers. We may also ask for information such as job function, job title, industry sector, company/ name and country. During registration, you will also be asked to choose a user name and password for future access to the relevant Website(s).
 
-Random surveys may also be served to visitors to our sites. These surveys request additional demographic, non-personally identifiable information. Your participation in a survey is always voluntary, and you therefore have a choice as to whether or not to provide the requested survey information.
+In order to provide you with free resources such as technology white papers and expert analysis, we may share your personal data and/or business information with third party organisations we partner with and whose content and/or other offerings you choose to view via an email offer we may send to you via Connect.com and/or connect.co.uk, and/or download from IDG Australia Website(s) or other IDG Publishing Network sites. We will request such partners to include an opt out notice in all such offerings and to give effect to any opt out decision.
 
-For more information on Nielsen Online and to opt out of cookie-setting, read the Nielsen Online Privacy and Cookie Policy:
+Because IDG Australia is part of the IDG Publishing Network, you may receive offers that IDG Australia believes will be of interest to you from any of the IDG Publishing Network sites. However, IDG Australia offers you the chance to opt out of receiving additional information from the IDG Publishing Network and our Group. You have the absolute right to ask us not to process your personal data for marketing purposes. Whilst we give details in this Policy in relation to opting out, we want to make clear that you can at any time exercise this right by contacting us by post or email at the address set out at the foot of this Policy.
 
-[Nielsen Online Privacy and Cookie Policy](http://www.nielsen-online.com/privacy.jsp?section=leg_scs)  
-  
-**Online Transactions**  
-Online transactions including credit card transactions on _Fairfax Media_ are secured using SSL (Secure Sockets Layer). This is a standard for online transactions on the Web which provides security using digital certificates issued by Certification Authorities (companies who verify the authority of organisations before issuing them with a digital certificate). Most browsers also ship with a number of built-in certificates from major certification authorities such as Verisign or Thawte Consulting.
+**How do I access my personal information?**
 
-The certificate our server is using is issued by 
+You may update the information stored in your profile at any time while online by visiting <http://www.idg.com.au/user>. You will be prompted for your username and password in order to access your profile. If you have questions, you may also contact IDG Australia customer service by sending an email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
 
-**Thawte Consulting** , who have "trusted root certificates" included in Microsoft Internet Explorer and other common browsers. This "trusted root certificate" allows your browser to be certain that our server is the same server which was issued a Secure Sockets Layer certificate by Thawte Consulting. **What security procedures are in place to protect my information?**   
-Internally, _Fairfax Media_ restricts access to personally identifiable information. Only employees who need access to the information in order to do their jobs have access. These employees are limited in number, and are committed to our privacy and security policies. 
+**How do I control my personal information?**
 
-If you have any privacy concerns relating to this site, please address them to Fairfax Media's privacy officer through the 
+You may review and update all of your information at any time while online by logging in to your personal profile. You control what information IDG Australia has access to and the types of information that IDG Australia can send to you. For example, you have the opportunity to receive special offers/updates on behalf of selected third party companies OR from IDG OR you can choose to opt out of these mailings at any time. See section below on Opt Out.
 
-_Fairfax Media_[ webmaster](mailto:webmaster@fairfaxbm.co.nz) **.**
+**Who else may receive my personal information?**
+
+Except as otherwise set forth in this policy, IDG does not share any of your personal data with any third party person or entity. Except for the provision of free resources as described above, all third party messages that are sent to you will be sent by IDG. You can unsubscribe from this service at anytime.
+
+**Ad Serving Technology**
+
+IDG Australia has contracted with DoubleClick, Google and other advertising serving technology providers to serve all advertising on the IDG Network comprised of Web sites and email newsletters. When one of these providers serves ads to the user, it uses cookies to track certain types of non-personally identifiable information: for example, a user's IP address, browser version or type, device name or type, operating system, service provider, and local time. In addition, IDG uses clear GIFs, or pixel tags, provided by DoubleClick to allow the browser's cookie to be recognised when the browser visits an IDG site. Information collected and shared through this technology is not personally identifiable (i.e., it does not include your name, address, telephone number, or email address). DoubleClick does share non-personally identifiable information, such as user profiles based on clickstream profile data, with IDG, but strictly in aggregate form.
+
+For more details about the information DoubleClick collects and the opportunity to opt out of such data collection, please visit: <http://www.google.com.au/policies/technologies/ads/>.
+
+**Cookies**
+
+Cookies are pieces of information that are sent from a website and stored in a user's browser.
+
+IDG Australia websites may use cookies for the following purposes:
+
+  * To remember any preferences a user may have set while browsing one of IDG Australia's websites.
+  * To track usage patterns that help us improve our content and display relevant advertising to our users.
+
+
+
+The following sites provide instructions on how to manage cookies in commonly used browsers.
+
+  * Google Chrome - <https://support.google.com/chrome/answer/95647?hl=en>
+  * Mozilla Firefox - <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
+  * Microsoft Internet Explorer - <http://windows.microsoft.com/en-AU/internet-explorer/delete-manage-cookies>
+
+
+
+**IP Addresses**
+
+Our Web server automatically records a visitor's domain and IP address. We use the IP address to identify server problems and administer our Web site, and to analyse click-stream data to better understand user behaviour.
+
+**Security**
+
+IDG Australia has security measures in place to protect the loss, misuse, and alteration of the information we or our cloud services providers, control. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall Web security. Access to personal user data is also limited to the database administrator(s).
+
+**Opt-Out**
+
+IDG Australia provides the following statement at registration:
+
+"IDG occasionally likes to inform our subscribers about special offers, new products, as well as information from relevant, qualified businesses and organisations. Tick the boxes below if you would like to receive these notices."
+
+By default, this box is checked. Users who opt NOT to receive such third party communication from IDG Australia should uncheck this box. Users can also remove their personal information from IDG Australia's database in three ways:
+
+  * Updating your personal profile and service selections by visiting <http://www.idg.com.au/user>
+  * Sending a request via email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
+  * Or phoning +61 2 9902 2700
+
+
+
+**Disclosure of Information**
+
+If the business of operating this Website is sold, the relevant customer lists and other personal data of our subscribers and users will be transferred to the new owner. This will be done in accordance with current legislation.
+
+We may disclose your personal data if we are under a duty to disclose your personal data as a result of a court order or any other legal obligation, any subpoena or legal process or as otherwise required by law, or if we believe it necessary to prevent or take action regarding illegal activities or violations of our policies.
+
+**Future Enhancements**
+
+We are committed to maintaining IDG Australia as the foremost IT industry publisher. From time to time we will add new features to our e-mail services and web sites. Because of this, our Privacy Policy will be reviewed and revised. IDG Australia reserves the right to change its Privacy Policy at any time and notify you by posting an updated version of the policy on its web site.
+
+**Further Information**
+
+For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+
+**LAST UPDATED** : August 15, 2013
