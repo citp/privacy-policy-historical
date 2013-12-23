@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211754id_/http%3A//kenexa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223085110id_/http%3A//www.kenexa.com/privacypolicy) for the most accurate reproduction.*
 
 # Kenexa > Privacy Policy
 
