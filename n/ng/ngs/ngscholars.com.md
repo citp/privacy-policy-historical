@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ngscholars.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619021909id_/http%3A//ngscholars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngscholars.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223170350id_/http%3A//www.ngscholars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NGScholars
 
 **Privacy Policy** for www.ngscholars.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at ogundimu.ahmed@yahoo.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at services [at ] ngscholars.com, ogundimu.ahmed [at] yahoo.com.
 
 At www.ngscholars.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ngscholars.com and how it is used.
 
@@ -23,7 +23,8 @@ Users are those people who have registered an account with www.ngscholars.com
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-**Google Adsense**
+**Google Adsense**  
+**Media.net**
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.ngscholars.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
