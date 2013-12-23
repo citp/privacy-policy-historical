@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the undernation.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207023336id_/http%3A//www.undernation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undernation.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223032846id_/http%3A//www.undernation.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - UnderNation.Com
+# Privacy Policy | Undernation
 
-**UnderNation.Com – Privacy Policy**
+Posted by on 01/04/2013 Comments Off
 
-By using our Web site, you consent to the collection and use of this information by UnderNation.Com If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, UnderNation.Com may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information. 
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-**Third Party Advertising**
+**Collection of Personal Information**  
+When visiting Undernation.com the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-**Third Party Cookies**
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-**Modification of Privacy Policy**
-
-UnderNation.Com reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
+If you have any questions regarding the privacy policy of Undernation.com then you may contact us
