@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotti.com.au privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623235430id_/http%3A//www.dotti.com.au/shop/en/dotti/dotti-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotti.com.au privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223123557id_/http%3A//www.dotti.com.au/shop/en/dotti/dotti-privacy-policy) for the most accurate reproduction.*
 
 # Dotti Privacy Policy | Dotti respects your Privacy, read our Policy.
 
