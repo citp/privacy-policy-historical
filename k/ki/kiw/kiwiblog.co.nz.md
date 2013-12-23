@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430161931id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwiblog.co.nz privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223151345id_/http%3A//www.kiwiblog.co.nz/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kiwiblog
 
@@ -29,7 +29,7 @@ So the bottom line in terms of privacy in browsing or commenting on this site, i
 
 Also you should be aware:
 
-  * Google, as a third party vendor, uses cookies to serve ads on Kiwiblog
+  * Google, as a third party vendor, uses cookies to serve ads on [Kiwiblog](http://www.kiwiblog.co.nz/tag/kiwiblog "Posts tagged with Kiwiblog")
   * Google’s use of the DART cookie enables it to serve ads to readers based on their visit to Kiwiblog and other sites on the Internet.
   * Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
