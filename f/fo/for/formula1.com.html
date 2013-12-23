@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621235023id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2013-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223173232id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="jsEnabled js canvas"><head id="ctl00_Head1">
 <title>Formula 1® - The Official F1® Website</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	document.getElementsByTagName('html')[0].className = 'jsEnabled';
 </script>
 
@@ -18,7 +18,7 @@
 <link href="/css/f1_forms.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/cookiepolicybanner.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.formula1.com/favicon.ico">
 <link rel="apple-touch-icon-precomposed" href="http://www.formula1.com/desktopfavicon.png">
 
 <link href="/assets/fragment/css/dynamic.css" rel="stylesheet" type="text/css" media="screen">
@@ -92,17 +92,25 @@
 </script>    
 
     
-<!-- Google Analytics -->
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-4466993-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-</script>
-<!-- Google Analytics -->
+    <!-- Google Analytics -->
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-4466993-1']);
+        _gaq.push(['_setDomainName', 'formula1.com']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <!-- Google Analytics -->
+
 <title>
 
 </title>
@@ -148,7 +156,7 @@
             
 
 <h1>
-    <a href="/default.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/F1_Logo'); }">
+    <a href="/default.html" onclick="_gaq.push(['_trackEvent', 'Navigation','Header','F1_Logo'])">
         <img id="blackImage" src="/img/heading/logo_f1.png" alt="Home - The Official Formula 1 Website">
         <img id="whiteImage" src="/img/heading/logo_f1_wte.gif" alt="Home - The Official Formula 1 Website" style="display: none;">
     </a> 
@@ -161,33 +169,33 @@
 	
 		
 		
-			<li class="navNEWS navNEWS_en"><a href="/news/" onclick="pageTracker._trackEvent('Navigation','L1','News')">NEWS</a>
+			<li class="navNEWS navNEWS_en"><a href="/news/" onclick="delayedEvent(this, 'Navigation','L1','News');return false;">NEWS</a>
 			<ul>
 		
 		
 				<li class="navNEWS_HEADLINES navNEWS_HEADLINES_en">
 				
-				<a href="/news/headlines/" onclick="pageTracker._trackEvent('Navigation','L2','Headlines')">HEADLINES</a>
+				<a href="/news/headlines/" onclick="delayedEvent(this, 'Navigation','L2','Headlines');return false;">HEADLINES</a>
 				</li>
 			
 				<li class="navNEWS_FEATURES navNEWS_FEATURES_en">
 				
-				<a href="/news/features/" onclick="pageTracker._trackEvent('Navigation','L2','Features')">FEATURES</a>
+				<a href="/news/features/" onclick="delayedEvent(this, 'Navigation','L2','Features');return false;">FEATURES</a>
 				</li>
 			
 				<li class="navNEWS_TECHNICAL navNEWS_TECHNICAL_en">
 				
-				<a href="/news/technical/" onclick="pageTracker._trackEvent('Navigation','L2','Technical')">TECHNICAL</a>
+				<a href="/news/technical/" onclick="delayedEvent(this, 'Navigation','L2','Technical');return false;">TECHNICAL</a>
 				</li>
 			
 				<li class="navNEWS_INTERVIEWS navNEWS_INTERVIEWS_en">
 				
-				<a href="/news/interviews/" onclick="pageTracker._trackEvent('Navigation','L2','Interviews')">INTERVIEWS</a>
+				<a href="/news/interviews/" onclick="delayedEvent(this, 'Navigation','L2','Interviews');return false;">INTERVIEWS</a>
 				</li>
 			
 				<li class="navNEWS_FEEDS navNEWS_FEEDS_en">
 				
-				<a href="/news/feeds.html" onclick="pageTracker._trackEvent('Navigation','L2','Feeds')">FEEDS</a>
+				<a href="/news/feeds.html" onclick="delayedEvent(this, 'Navigation','L2','Feeds');return false;">FEEDS</a>
 				</li>
 			
 				<li class="navNEWS_SEARCHRESULTS navNEWS_SEARCHRESULTS_en">
@@ -200,23 +208,23 @@
 	
 		
 		
-			<li class="navRACES navRACES_en"><a href="/races/" onclick="pageTracker._trackEvent('Navigation','L1','Races')">RACES</a>
+			<li class="navRACES navRACES_en"><a href="/races/" onclick="delayedEvent(this, 'Navigation','L1','Races');return false;">RACES</a>
 			<ul>
 		
 		
 				<li class="navRACES_INDETAIL navRACES_INDETAIL_en">
 				
-				<a href="/races/in_detail/" onclick="pageTracker._trackEvent('Navigation','L2','In_Detail')">IN DETAIL</a>
+				<a href="/races/in_detail/" onclick="delayedEvent(this, 'Navigation','L2','In_Detail');return false;">IN DETAIL</a>
 				</li>
 			
-				<li class="navRACES_2013CALENDAR navRACES_2013CALENDAR_en">
+				<li class="navRACES_2014CALENDAR navRACES_2014CALENDAR_en">
 				
-				<a href="/races/calendar.html" onclick="pageTracker._trackEvent('Navigation','L2','2013_Calendar')">2013 CALENDAR</a>
+				<a href="/races/calendar.html" onclick="_gaq.push(['_trackEvent', 'Navigation','L2','2014_Calendar'])">2014 CALENDAR</a>
 				</li>
 			
 				<li class="navRACES_DOWNLOADS navRACES_DOWNLOADS_en">
 				
-				<a href="/races/downloads/" onclick="pageTracker._trackEvent('Navigation','L2','Downloads')">DOWNLOADS</a>
+				<a href="/races/downloads/" onclick="delayedEvent(this, 'Navigation','L2','Downloads');return false;">DOWNLOADS</a>
 				</li>
 			
 			</ul>
@@ -224,23 +232,23 @@
 	
 		
 		
-			<li class="navRESULTS navRESULTS_en"><a href="/results/" onclick="pageTracker._trackEvent('Navigation','L1','Results')">RESULTS</a>
+			<li class="navRESULTS navRESULTS_en"><a href="/results/" onclick="delayedEvent(this, 'Navigation','L1','Results');return false;">RESULTS</a>
 			<ul>
 		
 		
 				<li class="navRESULTS_SEASON navRESULTS_SEASON_en">
 				
-				<a href="/results/season/" onclick="pageTracker._trackEvent('Navigation','L2','Season')">SEASON</a>
+				<a href="/results/season/" onclick="delayedEvent(this, 'Navigation','L2','Season');return false;">SEASON</a>
 				</li>
 			
 				<li class="navRESULTS_TEAM navRESULTS_TEAM_en">
 				
-				<a href="/results/team/" onclick="pageTracker._trackEvent('Navigation','L2','Team')">TEAM</a>
+				<a href="/results/team/" onclick="delayedEvent(this, 'Navigation','L2','Team');return false;">TEAM</a>
 				</li>
 			
 				<li class="navRESULTS_DRIVER navRESULTS_DRIVER_en">
 				
-				<a href="/results/driver/" onclick="pageTracker._trackEvent('Navigation','L2','Driver')">DRIVER</a>
+				<a href="/results/driver/" onclick="delayedEvent(this, 'Navigation','L2','Driver');return false;">DRIVER</a>
 				</li>
 			
 			</ul>
@@ -248,28 +256,28 @@
 	
 		
 		
-			<li class="navGALLERY navGALLERY_en"><a href="/gallery/" onclick="pageTracker._trackEvent('Navigation','L1','Gallery')">GALLERY</a>
+			<li class="navGALLERY navGALLERY_en"><a href="/gallery/" onclick="delayedEvent(this, 'Navigation','L1','Gallery');return false;">GALLERY</a>
 			<ul>
 		
 		
 				<li class="navGALLERY_RACE navGALLERY_RACE_en">
 				
-				<a href="/gallery/race/" onclick="pageTracker._trackEvent('Navigation','L2','Race')">RACE</a>
+				<a href="/gallery/race/" onclick="delayedEvent(this, 'Navigation','L2','Race');return false;">RACE</a>
 				</li>
 			
 				<li class="navGALLERY_TESTING navGALLERY_TESTING_en">
 				
-				<a href="/gallery/testing/" onclick="pageTracker._trackEvent('Navigation','L2','Testing')">TESTING</a>
+				<a href="/gallery/testing/" onclick="delayedEvent(this, 'Navigation','L2','Testing');return false;">TESTING</a>
 				</li>
 			
 				<li class="navGALLERY_LAUNCHES navGALLERY_LAUNCHES_en">
 				
-				<a href="/gallery/launches/" onclick="pageTracker._trackEvent('Navigation','L2','Launches')">LAUNCHES</a>
+				<a href="/gallery/launches/" onclick="delayedEvent(this, 'Navigation','L2','Launches');return false;">LAUNCHES</a>
 				</li>
 			
 				<li class="navGALLERY_OTHER navGALLERY_OTHER_en">
 				
-				<a href="/gallery/other/" onclick="pageTracker._trackEvent('Navigation','L2','Other')">OTHER</a>
+				<a href="/gallery/other/" onclick="delayedEvent(this, 'Navigation','L2','Other');return false;">OTHER</a>
 				</li>
 			
 			</ul>
@@ -277,23 +285,23 @@
 	
 		
 		
-			<li class="navTEAMSDRIVERS navTEAMSDRIVERS_en"><a href="/teams_and_drivers/" onclick="pageTracker._trackEvent('Navigation','L1','Teams_And_Drivers')">TEAMS &amp; DRIVERS</a>
+			<li class="navTEAMSDRIVERS navTEAMSDRIVERS_en"><a href="/teams_and_drivers/" onclick="delayedEvent(this, 'Navigation','L1','Teams_And_Drivers');return false;">TEAMS &amp; DRIVERS</a>
 			<ul>
 		
 		
 				<li class="navTEAMSDRIVERS_TEAMS navTEAMSDRIVERS_TEAMS_en">
 				
-				<a href="/teams_and_drivers/teams/" onclick="pageTracker._trackEvent('Navigation','L2','Teams')">TEAMS</a>
+				<a href="/teams_and_drivers/teams/" onclick="delayedEvent(this, 'Navigation','L2','Teams');return false;">TEAMS</a>
 				</li>
 			
 				<li class="navTEAMSDRIVERS_DRIVERS navTEAMSDRIVERS_DRIVERS_en">
 				
-				<a href="/teams_and_drivers/drivers/" onclick="pageTracker._trackEvent('Navigation','L2','Drivers')">DRIVERS</a>
+				<a href="/teams_and_drivers/drivers/" onclick="delayedEvent(this, 'Navigation','L2','Drivers');return false;">DRIVERS</a>
 				</li>
 			
 				<li class="navTEAMSDRIVERS_HALLOFFAME navTEAMSDRIVERS_HALLOFFAME_en">
 				
-				<a href="/teams_and_drivers/hall_of_fame/" onclick="pageTracker._trackEvent('Navigation','L2','Hall_Of_Fame')">HALL OF FAME</a>
+				<a href="/teams_and_drivers/hall_of_fame/" onclick="delayedEvent(this, 'Navigation','L2','Hall_Of_Fame');return false;">HALL OF FAME</a>
 				</li>
 			
 			</ul>
@@ -301,33 +309,38 @@
 	
 		
 		
-			<li class="navINSIDEF1 navINSIDEF1_en"><a href="/inside_f1/" onclick="pageTracker._trackEvent('Navigation','L1','Inside_F1')">INSIDE F1</a>
+			<li class="navINSIDEF1 navINSIDEF1_en"><a href="/inside_f1/" onclick="delayedEvent(this, 'Navigation','L1','Inside_F1');return false;">INSIDE F1</a>
 			<ul>
 		
 		
 				<li class="navINSIDEF1_RULESREGULATIONS navINSIDEF1_RULESREGULATIONS_en">
 				
-				<a href="/inside_f1/rules_and_regulations/" onclick="pageTracker._trackEvent('Navigation','L2','Rules_And_Regulations')">RULES &amp; REGULATIONS</a>
+				<a href="/inside_f1/rules_and_regulations/" onclick="delayedEvent(this, 'Navigation','L2','Rules_And_Regulations');return false;">RULES &amp; REGULATIONS</a>
 				</li>
 			
-				<li class="navINSIDEF1_UNDERSTANDINGTHESPORT navINSIDEF1_UNDERSTANDINGTHESPORT_en">
+				<li class="navINSIDEF1_UNDERSTANDINGF1RACING navINSIDEF1_UNDERSTANDINGF1RACING_en">
 				
-				<a href="/inside_f1/understanding_the_sport/" onclick="pageTracker._trackEvent('Navigation','L2','Understanding_The_Sport')">UNDERSTANDING THE SPORT</a>
+				<a href="/inside_f1/understanding_the_sport/" onclick="delayedEvent(this, 'Navigation','L2','Understanding_The_Sport');return false;">UNDERSTANDING F1 RACING</a>
 				</li>
 			
 				<li class="navINSIDEF1_SAFETY navINSIDEF1_SAFETY_en">
 				
-				<a href="/inside_f1/safety/" onclick="pageTracker._trackEvent('Navigation','L2','Safety')">SAFETY</a>
+				<a href="/inside_f1/safety/" onclick="delayedEvent(this, 'Navigation','L2','Safety');return false;">SAFETY</a>
+				</li>
+			
+				<li class="navINSIDEF1_THEF1BRAND navINSIDEF1_THEF1BRAND_en">
+				
+				<a href="/inside_f1/f1brand.html" onclick="delayedEvent(this, 'Navigation','L2','F1brand');return false;">THE F1 BRAND</a>
 				</li>
 			
 				<li class="navINSIDEF1_GLOSSARY navINSIDEF1_GLOSSARY_en">
 				
-				<a href="/inside_f1/glossary.html" onclick="pageTracker._trackEvent('Navigation','L2','Glossary')">GLOSSARY</a>
+				<a href="/inside_f1/glossary.html" onclick="delayedEvent(this, 'Navigation','L2','Glossary');return false;">GLOSSARY</a>
 				</li>
 			
 				<li class="navINSIDEF1_FAQ navINSIDEF1_FAQ_en">
 				
-				<a href="/inside_f1/faq.html" onclick="pageTracker._trackEvent('Navigation','L2','Faq')">FAQ</a>
+				<a href="/inside_f1/faq.html" onclick="delayedEvent(this, 'Navigation','L2','Faq');return false;">FAQ</a>
 				</li>
 			
 				<li class="navINSIDEF1_SEARCHRESULTS navINSIDEF1_SEARCHRESULTS_en">
@@ -340,7 +353,7 @@
 	
 		
 		
-			<li class="navLIVETIMING navLIVETIMING_en"><a href="/live_timing/" onclick="pageTracker._trackEvent('Navigation','L1','Live_Timing')">LIVE TIMING</a>
+			<li class="navLIVETIMING navLIVETIMING_en"><a href="/live_timing/" onclick="delayedEvent(this, 'Navigation','L1','Live_Timing');return false;">LIVE TIMING</a>
 			<ul>
 		
 		
@@ -349,18 +362,18 @@
 	
 		
 		
-			<li class="navVIDEO navVIDEO_en"><a href="/video/" onclick="pageTracker._trackEvent('Navigation','L1','Video')">VIDEO</a>
+			<li class="navVIDEO navVIDEO_en"><a href="/video/" onclick="delayedEvent(this, 'Navigation','L1','Video');return false;">VIDEO</a>
 			<ul>
 		
 		
 				<li class="navVIDEO_RACEEDITS navVIDEO_RACEEDITS_en">
 				
-				<a href="/video/race_edits/" onclick="pageTracker._trackEvent('Navigation','L2','Race_Edits')">RACE EDITS</a>
+				<a href="/video/race_edits/" onclick="delayedEvent(this, 'Navigation','L2','Race_Edits');return false;">RACE EDITS</a>
 				</li>
 			
 				<li class="navVIDEO_ONBOARD navVIDEO_ONBOARD_en">
 				
-				<a href="/video/onboard/" onclick="pageTracker._trackEvent('Navigation','L2','Onboard')">ONBOARD</a>
+				<a href="/video/onboard/" onclick="delayedEvent(this, 'Navigation','L2','Onboard');return false;">ONBOARD</a>
 				</li>
 			
 			</ul>
@@ -368,7 +381,7 @@
 	
 		
 		
-			<li class="navTICKETSTRAVEL navTICKETSTRAVEL_en"><a href="/tickets_and_travel/" onclick="pageTracker._trackEvent('Navigation','L1','Tickets_&amp;_Travel')">TICKETS &amp; TRAVEL</a>
+			<li class="navTICKETS navTICKETS_en"><a href="/tickets_and_travel/" onclick="delayedEvent(this, 'Navigation','L1','Tickets');return false;">TICKETS</a>
 			<ul>
 		
 		
@@ -377,7 +390,7 @@
 	
 		
 		
-			<li class="navF1STORE navF1STORE_en"><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" target="_blank" onclick="pageTracker._trackEvent('Navigation','L1','F1_Store')">F1 STORE</a>
+			<li class="navF1STORE navF1STORE_en"><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" target="_blank" onclick="delayedEvent(this, 'Navigation','L1','F1_Store');return false;">F1 STORE</a>
 			<ul>
 		
 		
@@ -386,28 +399,23 @@
 	
 		
 		
-			<li class="navMOBILE navMOBILE_en"><a href="/mobile_services/" onclick="pageTracker._trackEvent('Navigation','L1','Mobile_Services')">MOBILE</a>
+			<li class="navMOBILE navMOBILE_en"><a href="/mobile_services/" onclick="_gaq.push(['_trackEvent', 'Navigation','L1','Mobile_Services'])">MOBILE</a>
 			<ul>
 		
 		
 				<li class="navMOBILE_OVERVIEW navMOBILE_OVERVIEW_en">
 				
-				<a href="/mobile_services/services.html" onclick="pageTracker._trackEvent('Navigation','L2','Services')">OVERVIEW</a>
+				<a href="/mobile_services/services.html" onclick="_gaq.push(['_trackEvent', 'Navigation','L2','Overview'])">OVERVIEW</a>
 				</li>
 			
 				<li class="navMOBILE_WEBSITE navMOBILE_WEBSITE_en">
 				
-				<a href="/mobile_services/website.html" onclick="pageTracker._trackEvent('Navigation','L2','Website')">WEBSITE</a>
-				</li>
-			
-				<li class="navMOBILE_APPLICATION navMOBILE_APPLICATION_en">
-				
-				<a href="/mobile_services/live_timing.html" onclick="pageTracker._trackEvent('Navigation','L2','Live_Timing')">APPLICATION</a>
+				<a href="/mobile_services/website.html" onclick="_gaq.push(['_trackEvent', 'Navigation','L2','Website'])">WEBSITE</a>
 				</li>
 			
 				<li class="navMOBILE_DOWNLOADS navMOBILE_DOWNLOADS_en">
 				
-				<a href="/mobile_services/downloads.html" onclick="pageTracker._trackEvent('Navigation','L2','Mobile_Downloads')">DOWNLOADS</a>
+				<a href="/mobile_services/downloads.html" onclick="_gaq.push(['_trackEvent', 'Navigation','L2','Downloads'])">DOWNLOADS</a>
 				</li>
 			
 			</ul>
@@ -431,7 +439,7 @@
     </div>
 
 
-                <div id="contentMain"><div id="adHoldLeftCol" style="position: absolute; margin-left: 0px; margin-top: 0px; z-index: -1000; height: 0px;"><div id="adHoldLeftFlash"></div></div>
+                  <div id="contentMain"><div id="adHoldLeftCol" style="position: absolute; margin-left: 0px; margin-top: 0px; z-index: -1000; height: 0px;"><div id="adHoldLeftFlash"></div></div>
                     <!-- content modules here -->
                     
     
@@ -540,7 +548,7 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
     </div>
 
 
-                </div>
+                    </div>
                 <div id="contentSub">
                     <!-- subModules here -->
                     
@@ -600,7 +608,7 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
         
 		var flashvars = false;
 		var attributes = {id: "adHoldRight"};
-		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D,D&nameArray=tata,emirates&weightArray=50,50" };
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D&nameArray=emirates&weightArray=17" };
 		swfobject.embedSWF("/flash/advertising/side_bar/adHoldRight.swf", "adHoldRightFlash", "235", "600", "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
     }
 
@@ -621,7 +629,7 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
 
 		var flashvars = false;
 		var attributes = {id: "adHoldLeft"};
-		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D,D&nameArray=tata,emirates&weightArray=50,50" };
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D&nameArray=emirates&weightArray=17" };
 		if ( (swfobject.getFlashPlayerVersion()).major > 0 )
 		{
 		    swfobject.embedSWF("/flash/advertising/side_bar/adHoldLeft.swf", "adHoldLeftFlash", "715", adHoldLeftHeight, "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
@@ -667,19 +675,19 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
 <!-- Black buttons -->
 <div class="subModule">
     <div class="button blackButton">   
-        <a href="/live_timing/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Live_Timing'); }">LIVE TIMING</a>
+        <a href="/live_timing/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','Live_Timing'])">LIVE TIMING</a>
     </div>
     <div class="button blackButton">
-        <a href="/video/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }">VIDEO</a>
+        <a href="/video/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','Video'])">VIDEO</a>
     </div>
     <div class="button blackButton">
-        <a href="/tickets_and_travel/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Tickets_and_Travel'); }">TICKETS &amp; TRAVEL</a>
+        <a href="/tickets_and_travel/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','Tickets'])">TICKETS</a>
     </div>
     <div class="button blackButton">
-        <a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/F1Store'); }" target="_blank">F1 STORE</a>
+        <a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','F1_Store'])" target="_blank">F1 STORE</a>
     </div>    
     <div class="button buttonLast blackButton">
-        <a href="/mobile_services/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Mobile'); }">MOBILE SERVICES</a>
+        <a href="/mobile_services/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','Mobile_Services'])">MOBILE SERVICES</a>
     </div>
 </div>
 
@@ -692,7 +700,7 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
 
 <div id="footer">
     <div class="footerF1Logo">
-        <a href="/default.html" onclick="pageTracker._trackEvent('Navigation','Footer','F1_Logo')">
+        <a href="/default.html" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','F1_Logo'])">
 	            <img src="/img/footer/footer_f1_logo.png" alt="Formula1.com">
 	    </a>
 	</div>
@@ -701,21 +709,21 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
     </div>
     <div class="footerMenu">
         <ul class="mainNav">
-            <li><a href="/live_timing/" onclick="pageTracker._trackEvent('Navigation','Footer','Live_Timing')">LIVE TIMING</a></li>
-	        <li><a href="/video/" onclick="pageTracker._trackEvent('Navigation','Footer','Video')">VIDEO</a></li>
-            <li><a href="/tickets_and_travel/" onclick="pageTracker._trackEvent('Navigation','Footer','Tickets_&amp;_Travel')">TICKETS &amp; TRAVEL</a></li>
-            <li><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" target="_blank" onclick="pageTracker._trackEvent('Navigation','Footer','F1_Store')">F1 STORE</a></li>
-            <li><a href="/mobile_services/" onclick="pageTracker._trackEvent('Navigation','Footer','Mobile')">MOBILE</a></li>
+            <li><a href="/live_timing/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Live_Timing'])">LIVE TIMING</a></li>
+	        <li><a href="/video/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Video'])">VIDEO</a></li>
+            <li><a href="/tickets_and_travel/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Tickets'])">TICKETS</a></li>
+            <li><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" target="_blank" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','F1store'])">F1 STORE</a></li>
+            <li><a href="/mobile_services/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Advert'])">MOBILE</a></li>
         </ul>
         <ul class="subNav">
-    	    <li><a href="/privacypolicy.html" onclick="pageTracker._trackEvent('Navigation','Footer','Privacy_Policy')">PRIVACY POLICY</a></li>
-            <li><a href="/termsandconditions.html" onclick="pageTracker._trackEvent('Navigation','Footer','Legal_Notices')">LEGAL NOTICES</a></li>
-            <li><a href="/trademarkguidelines.html" onclick="pageTracker._trackEvent('Navigation','Footer','Guidelines')">GUIDELINES</a></li>
+    	    <li><a href="/privacypolicy.html" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Privacy_Policy'])">PRIVACY POLICY</a></li>
+            <li><a href="/termsandconditions.html" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Legal_Notices'])">LEGAL NOTICES</a></li>
+            <li><a href="/trademarkguidelines.html" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Guidelines'])">GUIDELINES</a></li>
 
 	        
-            <li><a href="/contacts.html" onclick="pageTracker._trackEvent('Navigation','Footer','Contacts')">CONTACTS</a></li>
+            <li><a href="/contacts.html" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Contacts'])">CONTACTS</a></li>
             
-		        <li><a href="/reg/viewdetails" onclick="pageTracker._trackEvent('Navigation','Footer','My_Details')">MY DETAILS</a></li>
+		        <li><a href="/reg/viewdetails" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','My_Details'])">MY DETAILS</a></li>
         </ul>
         <ul class="copyright">
             <li>© 2003-2013 Formula One World Championship Limited</li>
@@ -725,8 +733,8 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
         <img src="/img/footer/footer_div.png">
     </div>
     <div class="footerTataLogo">
-	    <a href="/mobile_services/">
-	        <img src="/img/footer/footer_ad_mobile.png" onclick="pageTracker._trackEvent('Navigation','Footer','Advertising')" alt="Mobile Formula1.com">
+	    <a href="/mobile_services/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Advert'])">
+	        <img src="/img/footer/footer_ad_mobile.png" alt="Mobile Formula1.com">
 	    </a>
     </div>
     <!-- /******* HTML Code for cookie drop down text start ******/ -->
@@ -756,6 +764,7 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
             <!-- End Footer -->            
         </div>
         <!-- END wrapperContent -->
+        
     </div>
     
     
