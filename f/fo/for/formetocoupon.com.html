@@ -1,1179 +1,438 @@
-<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2013-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609213626id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2013-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223094359id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Privacy Policy</title>
-	<meta name="description" content="">
-		<script type="text/javascript" language="JAVASCRIPT">
-		var request = false;
-		var merchantid = 0;
-		var couponid = 0;
-		try {
-			request = new XMLHttpRequest();
-		} catch (trymicrosoft) {
-			try {
-		  	request = new ActiveXObject("Msxml2.XMLHTTP");
-		 	} catch (othermicrosoft) {
-		  	try {
-		    	request = new ActiveXObject("Microsoft.XMLHTTP");
-		   	} catch (failed) {
-		     	request = false;
-		   	}
-		 	}
-		}
+<!DOCTYPE html><html><head id="www-sitename-com" data-template-set="html5-reset-wordpress-theme" profile="http://gmpg.org/xfn/11">
 
-		function saveAllowAutopilotSetting(nNetworkID,nMerchantID){
-			var bSetting = $('#allowAutopilot_' + nNetworkID).prop('checked')? 1 : 0;
-			
-			$.ajax({url:"saveAllowAutopilotSetting.php"
-					,async: true
-					,	data: { nNetworkID: nNetworkID, bSetting: bSetting, nMerchantID: nMerchantID }
-					,success:function(result){
-						
-    			}
-    		});
-		}
-
-		function verifyRegistration(){
-			var dname = document.getElementById("name");
-			var company = document.getElementById("company");
-			var email = document.getElementById("email");
-			var website = document.getElementById("website");
-			var pword = document.getElementById("password");
-			var vpword = document.getElementById("repeat");
-
-			var error = 0;
-
-			if(dname.value.length == 0){
-				alert("Please enter a contact name for this free trial");
-				dname.focus()
-				error = 1;
-				return false;
-			}
-
-			if(dname.value.length < 3 || dname.value.length > 32){
-				alert("I'm sorry, your Name has to be between 3 and 32 characters long.");
-				dname.focus()
-				error = 1;
-				return false;
-			}
-
-			if(website.value.length == 0){
-				alert("Please enter your website address.");
-				website.focus()
-				error = 1;
-				return false;
-			}
-
-			if ((email.value == null) || (email.value=="")){
-				alert("I think you forgot to enter your email address.");
-				email.focus();
-				error = 1;
-				return false;
-			}
-			if (echeck(email.value) == false){
-				alert("I'm sorry, we had touble verifying your email address.");
-				email.value=""
-				vemail.value=""
-				email.focus()
-				error = 1;
-				return false;
-			}
-
-			if(pword.value.length < 4 || pword.value.length > 16){
-				alert("I'm sorry, your Password has to be between 4 and 16 characters long.");
-				pword.focus()
-				error = 1;
-				return false;
-			}
-
-			if(isAlphanumeric(pword) == false){
-				alert("I'm sorry, your Password can only contains numbers and letters.");
-				pword.focus()
-				error = 1;
-				return false;
-			}
-
-			if (pword.value != vpword.value){
-				alert("I'm sorry, your passwords don't seem to match.");
-				email.focus()
-				error = 1;
-				return false;
-			}
-			if(error == 0)
-				document.sform.submit();
-		}
-
-
-		function isAlphanumeric(elem){
-			var alphaExp = /^[0-9a-zA-Z]+$/;
-			if(elem.value.match(alphaExp)){
-				return true;
-			}else{
-				return false;
-			}
-		}
-
-		function delayer(){
-			window.location = "https://secure.formetocoupon.com/sign-up";
-		}
-
-
-		function echeck(str) {
-
-			var at="@"
-			var dot="."
-			var lat=str.indexOf(at)
-			var lstr=str.length
-			var ldot=str.indexOf(dot)
-			if (str.indexOf(at)==-1){
-			   //alert("Invalid E-mail ID")
-			   return false
-			}
-
-			if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
-			   //alert("Invalid E-mail ID")
-			   return false
-			}
-
-			if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
-			    //alert("Invalid E-mail ID")
-			    return false
-			}
-
-			 if (str.indexOf(at,(lat+1))!=-1){
-			    //alert("Invalid E-mail ID")
-			    return false
-			 }
-
-			 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
-			    //alert("Invalid E-mail ID")
-			    return false
-			 }
-
-			 if (str.indexOf(dot,(lat+2))==-1){
-			    //alert("Invalid E-mail ID")
-			    return false
-			 }
-
-			 if (str.indexOf(" ")!=-1){
-			    //alert("Invalid E-mail ID")
-			    return false
-			 }
-
-			 return true
-		}
-
-		function switchMenu(obj,uid,pid,remove) {
-
-			var el = document.getElementById(obj);
-			if(remove == 0){
-				if ( el.style.display != 'none' ) {
-					el.style.display = 'none';
-				} else {
-					el.style.display = '';
-				}
-			}
-
-			var num = Math.random();
-		 	var urll = "markPromo.php?uid=" + escape(uid) + "&pid=" + escape(pid) + "&remove=" + remove + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updatePage;
-		 	request.send(null);
-
-		}
-
-		function checkun(){
-			var uname = document.getElementById('username').value;
-			var num = Math.random();
-			var urll = "checkUsername.php?uname=" + escape(uname) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateUsername;
-		 	request.send(null);
-		}
-
-		function updateUsername() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-					//unchk
-	  	 		var response = request.responseText;
-	  	 		if(response == 1)
-	  	 			document.getElementById('unchk').innerHTML = 'OK';
-	  	 		else
-	  	 			document.getElementById('unchk').innerHTML = 'BAD';
-				}
-			}
-		}
-
-
-		function blockCoupon(obj,uid,pid,block) {
-
-			var el = document.getElementById(obj);
-
-			var num = Math.random();
-		 	var urll = "blockCoupon.php?uid=" + escape(uid) + "&pid=" + escape(pid) + "&block=" + escape(block) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updatePageBlock;
-		 	request.send(null);
-
-		}
-
-		function keywordProducts(mcatid,keyword) {
-
-			var el = document.getElementById(obj);
-
-			var num = Math.random();
-		 	var urll = "keywordProducts.php?catid=" + escape(mcatid) + "&q=" + escape(keyword) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updatePageBlock;
-		 	request.send(null);
-
-		}
-
-		function updatePage() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-		  	 		var response = request.responseText;
-						document.getElementById("done").innerHTML = response;
-				}
-			}
-		}
-
-		function updatePageBlock() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-		  	 		var response = request.responseText;
-		  	 		var splits = response.split("|");
-						document.getElementById(splits[0]).innerHTML = splits[1];
-						document.getElementById(splits[2]).innerHTML = splits[3];
-				}
-			}
-		}
-
-		function addMerchant(mid,thediv,user,accountid) {
-			var el = document.getElementById(thediv);
-			if ( el.style.display != 'none' ) {
-				el.style.display = 'none';
-			} else {
-				el.style.display = '';
-			}
-			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"http://www.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can add more merchants while loading)</div>";
-			var num = Math.random();
-		 	var urll = "addMerchant.php?u=" + escape(user) + "&a=" + escape(accountid) + "&m=" + escape(mid) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateYourMerchants;
-		 	request.send(null);
-
-		}
-
-		function filterYourMerchants(user,network,custom,ctry){
-			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"http://www.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'></div>";
-			var num = Math.random();
-		 	var urll = "filterYourMerchants.php?u=" + escape(user) + "&n=" + escape(network) + "&c=" + escape(custom) + "&ctry=" + ctry + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateYourMerchants;
-		 	request.send(null);
-		}
-
-		function filterUnselectedMerchants(user,network,showhidden){
-			var custom = '';
-			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"http://www.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'></div>";
-			var num = Math.random();
-		 	var urll = "filterUnselectedMerchant.php?u=" + escape(user) + "&n=" + escape(network) + "&h=" + showhidden + "&c=" + custom + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateUnselectedMerchants;
-		 	request.send(null);
-		}
-
-		function updateYourMerchants() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-		  	 		var response = request.responseText;
-						document.getElementById("yourMerchants").innerHTML = response;
-				}
-			}
-		}
-
-		function hideMerchant(mid,thediv,user) {
-			var el = document.getElementById(thediv);
-			if ( el.style.display != 'none' ) {
-				el.style.display = 'none';
-			} else {
-				el.style.display = '';
-			}
-
-			var num = Math.random();
-		 	var urll = "hideMerchants.php?u=" + escape(user) + "&m=" + escape(mid) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateHideMerchants;
-		 	request.send(null);
-		}
-
-		function updateHideMerchants() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-				}
-			}
-		}
-
-		function removeMerchant(mid,thediv,user,accountid) {
-			var el = document.getElementById(thediv);
-			if ( el.style.display != 'none' ) {
-				el.style.display = 'none';
-			} else {
-				el.style.display = '';
-			}
-			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"http://www.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can remove more merchants while loading)</div>";
-			var num = Math.random();
-		 	var urll = "removeMerchant.php?u=" + escape(user) + "&a=" + escape(accountid) + "&m=" + escape(mid) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateUnselectedMerchants;
-		 	request.send(null);
-
-		}
-
-		function updateUnselectedMerchants() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-						var response = request.responseText;
-						document.getElementById("unselectedMerchants").innerHTML = response;
-				}
-			}
-		}
-
-		function submitDeal(){
-			var error = "";
-			var isError = 0;
-			var expireError = 0;
-			var companyName = document.getElementById("companyName").value;
-			var contactName = document.getElementById("contactName").value;
-			var email = document.getElementById("email").value;
-			var username = document.getElementById("username").checked;
-			var pword = document.getElementById("password").value;
-
-			if(document.getElementById("companyName").value.length <= 1){
-				var error = error + "- No 'Company Name' entered.\n";
-				isError = 1;
-			}
-			if(document.getElementById("contactName").value.length <= 1){
-				var error = error + "- No 'Contact Name' entered.\n";
-				isError = 1;
-			}
-			if(document.getElementById("email").value.length <= 1){
-				var error = error + "- No 'Email Address' entered.\n";
-				isError = 1;
-			}
-			if(document.getElementById("username").value.length <= 1){
-				var error = error + "- No 'Username' entered.\n";
-				isError = 1;
-			}
-
-			if(isError == 1){
-				alert(error);
-			}else{
-				//alert("submit form");
-				document.form1.submit();
-			}
-		}
-
-		function changeID(mid,userid,program){
-			merchantid = mid;
-			var num = Math.random();
-		 	var urll = "getMerchantAffiliteID.php?userid=" + escape(userid) + "&mid=" + escape(mid) + "&program=" + escape(program) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateAffiliateIDCell;
-		 	request.send(null);
-		}
-
-		function updateAffiliateIDCell() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-						var response = request.responseText;
-						document.getElementById("id" + merchantid).innerHTML = response;
-				}
-			}
-		}
-
-		function updateMerchantCustomSetting() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-						var response = request.responseText;
-						if(response == "1"){
-							var temp = " <b>(set)</b>";
-						}else{
-							var temp = "";
-						}
-						document.getElementById("custom" + merchantid).className  = "editedIcon";
-						document.getElementById("changeDIV").style.visibility = "hidden";
-				}
-			}
-		}
-
-		function payCommission(checkbox){
-			var total = document.getElementById('total').value;
-			var amnt = document.getElementById(checkbox).value;
-			total = parseFloat(total);
-			amnt = parseFloat(amnt);
-			if(document.getElementById(checkbox).checked == true){
-
-				total = total + amnt;
-
-			}else{
-				total = total - amnt;
-			}
-
-			document.getElementById('total').value = total;
-			document.getElementById('totaldisplay').innerHTML = "$" + total;
-		}
-
-		function saveAffiliateID(mid,userid,program){
-			merchantid = mid;
-			var affiliateid = document.getElementById('affiliateid').value;
-			var num = Math.random();
-		 	var urll = "saveMerchantAffiliteID.php?userid=" + escape(userid) + "&mid=" + escape(mid) + "&program=" + escape(program) + "&affiliateid=" + escape(affiliateid) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateAffiliateIDCell;
-		 	request.send(null);
-		}
-
-		function saveCustomSettings(mid,userid){
-			merchantid = mid;
-			var logo = document.getElementById('logo').value;
-			var mdescription = document.getElementById('description').value;
-			var num = Math.random();
-		 	var urll = "saveCustomSettings.php?userid=" + escape(userid) + "&mid=" + escape(mid) + "&description=" + escape(mdescription) + "&logo=" + escape(logo) + "&rnd=" + escape(num);
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = updateMerchantCustomSetting;
-		 	request.send(null);
-		}
-
-		function setDifferentIds(userid,program,mid){
-			document.getElementById("changeDIV").style.visibility = "visible";
-			var positions = checkPosition();
-			var left = positions[0] + 75;
-			var top = positions[1] + 25;
-			document.getElementById("changeDIV").style.left = left + "px";
-			document.getElementById("changeDIV").style.top = top + "px";
-			document.getElementById("changeDIV").innerHTML = "Loading...";
-
-			var num = Math.random();
-			if(mid > 0){
-				document.getElementById("changeDIV").style.height = "300px";
-				var urll = "changeMerchantCustomFields.php?userid=" + escape(userid) + "&mid=" + mid + "&rnd=" + escape(num);
-			}else{
-				var urll = "changeMerchantAffiliateid.php?userid=" + escape(userid) + "&program=" + escape(program) + "&rnd=" + escape(num);
-			}
-		 	request.open("GET", urll, true);
-		 	request.onreadystatechange = showAffiliateIdForm;
-		 	request.send(null);
-		}
-
-		function closeChangeDiv(){
-			document.getElementById("changeDIV").style.visibility = "hidden";
-		}
-
-		function showAffiliateIdForm() {
-			if (request.readyState == 4) {
-				if (request.status == 200) {
-					var response = request.responseText;
-					document.getElementById("changeDIV").innerHTML = response;
-				}
-			}
-		}
-
-		function checkPosition(){
-			var who = document.getElementById("enteraffiliateid");
-			var T = 0;
-			var L = 0;
-			if(who.offsetParent){
-			  while(who){
-			      L += who.offsetLeft;
-			      T += who.offsetTop;
-			      who= who.offsetParent;
-			  }
-			}else if(who.x){
-				L += who.x;
-				T += who.y;
-			}
-			return [L,T]
-		}
-
-		function saveField(formid){
-			var fieldvalue = document.getElementById(formid).value;
-			alert("value: " + fieldvalue);
-
-		}
-
-	function showCustomFields(cid,userid){
-		couponid = cid;
-		document.getElementById("customRow" + cid).style.visibility = "visible";
-		var num = Math.random();
-		var urll = "displayCustomCouponFields.php?userid=" + escape(userid) + "&couponid=" + escape(cid) + "&rnd=" + escape(num);
-	 	request.open("GET", urll, true);
-	 	request.onreadystatechange = displayCustomFields;
-	 	request.send(null);
-	}
-
-	function displayCustomFields() {
-		if (request.readyState == 4) {
-			if (request.status == 200) {
-				var response = request.responseText;
-				document.getElementById("customCell" + couponid).innerHTML = response;
-			}
-		}
-	}
-
-	function saveCustomCouponFieldData(userid,cid,field){
-		var num = Math.random();
-		fieldname = field + cid;
-		couponid = cid;
-		var offertext = document.getElementById('offertext' + cid).value;
-		var categories = document.getElementById('categories' + cid).value;
-		var urll = "saveCustomCouponFieldData.php?userid=" + escape(userid) + "&couponid=" + escape(cid) + "&offertext=" + escape(offertext)+ "&categories=" + escape(categories) + "&rnd=" + escape(num);
-	 	request.open("GET", urll, true);
-	 	request.onreadystatechange = displayCustomCouponFieldData;
-	 	request.send(null);
-	}
-
-	function displayCustomCouponFieldData() {
-		if (request.readyState == 4) {
-			if (request.status == 200) {
-				var response = request.responseText;
-				document.getElementById("customCell" + couponid).innerHTML = response;
-			}
-		}
-	}
-
-	function confirmSignup(){
-		var error = 0;
-		var error_string = "";
-		if(!document.getElementById("name").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Invalid Name\n";
-		}
-
-		if(!document.getElementById("address").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Invalid Address\n";
-		}
-
-		if(!document.getElementById("city").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Invalid City\n";
-		}
-
-		if(!document.getElementById("state").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Invalid State\n";
-		}
-
-		if(!document.getElementById("zip").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Invalid Zip Code\n";
-		}
-
-		if(!document.getElementById("country").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Invalid Company Name\n";
-		}
-
-		if(!document.getElementById("email").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Invalid Email Address\n";
-		}
-
-		if(!document.getElementById("sites").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Please Enter Your Website URL\n";
-		}
-
-		if(!document.getElementById("model").value.length){
-			error = 1;
-			error_string = error_string + "\n<li>Please Enter A Description Of How You Generate Traffic\n";
-		}
-
-		var temp = ""
-		len = document.f1.incentives.length;
-		for (i = 0; i <len; i++) {
-			if (document.f1.incentives[i].checked) {
-				temp = document.f1.incentives[i].value;
-			}
-		}
-		if (temp == "") {
-			error = 1;
-			error_string = error_string + "\n<li>Do You Offer Incentives To Your Users?\n";
-		}
-
-		var temp = ""
-		len = document.f1.downloads.length;
-		for (i = 0; i <len; i++) {
-			if (document.f1.downloads[i].checked) {
-				temp = document.f1.downloads[i].value;
-			}
-		}
-		if (temp == "") {
-			error = 1;
-			error_string = error_string + "\n<li>Do You Offer Downloads To Your Users?\n";
-		}
-
-		var temp = ""
-		len = document.f1.traffic.length;
-		for (i = 0; i <len; i++) {
-			if (document.f1.traffic[i].checked) {
-				temp = document.f1.traffic[i].value;
-			}
-		}
-		if (temp == "") {
-			error = 1;
-			error_string = error_string + "\n<li>What Is Your Experience In Driving Website Traffic?\n";
-		}
-
-		var temp = ""
-		len = document.f1.space.length;
-		for (i = 0; i <len; i++) {
-			if (document.f1.space[i].checked) {
-				temp = document.f1.space[i].value;
-			}
-		}
-		if (temp == "") {
-			error = 1;
-			error_string = error_string + "\n<li>What Is Your Experience In The Coupon Space?\n";
-		}
-
-		if(error == 1){
-			alert(error_string);
-			document.f1.submit();
-		}else{
-			document.f1.submit();
-		}
-	}
-
-	function confirmVoid(){
-		var agree=confirm("Are you sure you want to void this invoice?");
-		if (agree)
-			return true ;
-		else
-			return false ;
-
-	}
-
-	function confirmCredit(){
-
-		var amount = document.getElementById("amount").value;
-		amount = parseFloat(amount);
-
-		if(amount > 0){
-
-			var agree=confirm("Are you sure you want to issue a $" + amount + " credit on this invoice?");
-			if (agree)
-				return true ;
-			else
-				return false ;
-		}else{
-			alert("You must enter an amount to issue a partial credit.");
-			return false ;
-		}
-
-	}
-
-	</script>
-			<style>
-			body {margin:0; background-color:#aeeda6; background-image:url(http://www.formetocoupon.com/images/website/bg.png); background-repeat: repeat-x;}
-
-			form {margin:0px;}
-
-			option {color:#2c3241; font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px;	font-weight:normal;	text-decoration:none;}
-
-			.forms {background-color:#f7f9fc; background-image:url(http://www.formetocoupon.com/images/website/bodyTables/formsBg.png); background-repeat:repeat-x; border:1px solid #6476a1; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; color:#2c3241; padding-left:3px; padding-right:3px;}
-			/*Left Column*/
-			#tblLogo {width:220px; height:152px; background-image:url(http://www.formetocoupon.com/images/website/leftColumn/logo.png); background-repeat:no-repeat;}
-			#leftColHdgContainer {width:220px; height:25px;}
-			#leftColHdgLeft {width:23px; height:25px; background-image:url(http://www.formetocoupon.com/images/website/leftColumn/hdgLeft.png); background-repeat:no-repeat; float:left;}
-			#leftColHdgRight {width:197px; height:21px; background-image:url(http://www.formetocoupon.com/images/website/leftColumn/hdgRight.png); background-repeat:no-repeat; color:#FFFFFF; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; font-style:italic; padding-top:4px; float:right;}
-			#leftColTableBody{width:210px; padding:5px; background-image:url(http://www.formetocoupon.com/images/website/leftColumn/tableBg.png); background-repeat:repeat-y;}
-			#leftColTabelBtm {width:220px; height:15px; background-image:url(http://www.formetocoupon.com/images/website/leftColumn/tableBtm.png); background-repeat:no-repeat;}
-
-
-			/*Text*/
-			.leftColumnLinks {color:#2c3241; font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px;	font-weight:normal;	text-decoration:none;}
-			.leftColumnLinks a:link {color:#113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px;	font-weight:normal;	text-decoration:none;}
-			.leftColumnLinks a:visited {color: #113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px; font-weight:normal;	text-decoration:none;}
-			.leftColumnLinks a:hover {color:#113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px;	font-weight:normal;	text-decoration:none;}
-			.leftColumnLinks li {background-image:url(http://www.formetocoupon.com/images/website/leftColumn/bullet.png); background-position:0 0.3em; background-repeat:no-repeat; padding:0 0 0 13px; margin-bottom:2px; margin-left: -3em;}
-			.leftColumnLinks ul {list-style-type:none; margin-top:0; margin-bottom:0;}
-
-			.defaultText {color:#2c3241; font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px;	font-weight:normal;	text-decoration:none;}
-			.defaultText a:link {color:#113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px;	font-weight:normal;	text-decoration:underline;}
-			.defaultText a:visited {color: #113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px; font-weight:normal;	text-decoration:underline;}
-			.defaultText a:hover {color:#113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:11px;	font-weight:normal;	text-decoration:none;}
-			.defaultText li {margin-bottom:5px; margin-left:-1.7em;}
-			.defaultText ul {list-style:square;	margin-bottom:10px;	margin-top:10px;}
-
-			.tcText {color:#2c3241; font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:14px;	font-weight:bold;	text-decoration:none;}
-			.tcText a:link {color:#113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:14px;	font-weight:bold;	text-decoration:underline;}
-			.tcText a:visited {color: #113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:14px; font-weight:bold;	text-decoration:underline;}
-			.tcText a:hover {color:#113382;	font-family:Verdana, Arial, Helvetica, sans-serif;	font-size:14px;	font-weight:bold;	text-decoration:none;}
-
-			.bigHeading {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; color:#102d72;}
-
-			/*Body*/
-
-			/*#tblHeader {width:670px; height:72px; background-image:url(/images/admin/header/header.png); background-repeat:no-repeat;}*/
-			#tblHeader {width:670px; height:72px; background-image:url(http://www.formetocoupon.com/images/website/header/header.png); background-repeat:no-repeat;}
-			#tblHeader .menu { height:33px; margin-top:35px; margin-left:5px; background:url(http://www.formetocoupon.com/images/website/header/menu_bg.png) repeat-x; display:inline-block; overflow:hidden; }
-			#tblHeader .left { width:5px; height:33px; margin-right:5px; background:url(http://www.formetocoupon.com/images/website/header/menu_bg_left.png) no-repeat; display:inline-block; }
-			#tblHeader .right { width:5px; height:33px; margin-left:5px; background:url(http://www.formetocoupon.com/images/website/header/menu_bg_right.png) no-repeat; display:inline-block; }
-			#tblHeader .text { display:inline-block; padding-top:9px; font: normal 11px Verdana, Geneva, sans-serif; color: #fff; text-decoration: none; vertical-align:top; }
-			#tblHeader .text a { display:inline-block; font: normal 11px Verdana, Geneva, sans-serif; color: #fff; text-decoration: none; }
-
-
-			#mainBodyTable {width:640px; background-color:#ffffff; border-left:1px solid #5e73a5; border-right:1px solid #5e73a5; padding-left:14px; padding-right:14px; clear:both;}
-
-			/*BodyTables*/
-			#contentTable {width:620px; background-image:url(http://www.formetocoupon.com/images/website/bodyTables/tableBg.png); background-repeat:no-repeat; padding:10px;}
-
-
-			/*Footer*/
-			#footerTop {width:670px; height:15px; background-image:url(http://www.formetocoupon.com/images/website/footer/footerTop.png); background-repeat:no-repeat; clear:both;}
-			#footerBtm {width:660px; height:20px; padding-top:5px; color:#9598a0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:normal; text-align:right; padding-right:10px; margin-bottom:30px;}
-
-			/*Background pics*/
-			.removeIcon { float:left;height:10px;width:10px;background-image:url(http://www.formetocoupon.com/images/minus.gif);background-repeat:no-repeat; }
-			.addIcon { float:left;height:10px;width:10px;background-image:url(http://www.formetocoupon.com/images/plus.gif);background-repeat:no-repeat; }
-			.infoIcon { float:left;height:10px;width:10px;background-image:url(http://www.formetocoupon.com/images/comment.gif);background-repeat:no-repeat; }
-
-			/* Style spec's for tooltip  */
-			div#tipDiv {
-			  position:absolute; visibility:hidden; left:0; top:0; z-index:10000;
-			  background-color:#FFFFFF; border:1px solid #000000;
-			  width:210px; padding:6px;
-			  color:#000; font-size:11px; line-height:1.3;
-			}
-			div#tipDiv a:link { color:#33b }
-			div#tipDiv a:visited { color:#339 }
-			/* ONE */
-
-			.inline {
-				display: inline;
-			}
-
-			.bb {
-			border-bottom: 1px solid #999999;
-			border-right: 1px solid #999999;
-			font: normal 12px Arial, Helvetica, sans-serif;
-			}
-
-			.hh {
-			border-bottom: 1px solid #999999;
-			border-right: 1px solid #999999;
-			font: bold 12px Arial, Helvetica, sans-serif;
-			}
-
-			.c { text-align: center; }
-		</style>
-		<script src="http://www.formetocoupon.com/includes/dw_event.js" type="text/javascript"></script>
-	<script src="http://www.formetocoupon.com/includes/dw_viewport.js" type="text/javascript"></script>
-	<script src="http://www.formetocoupon.com/includes/dw_tooltip.js" type="text/javascript"></script>
-	<script type="text/javascript" language="JAVASCRIPT">
-		/*************************************************************************
-		  This code is from Dynamic Web Coding at dyn-web.com
-		  Copyright 2003-5 by Sharon Paine
-		  See Terms of Use at www.dyn-web.com/bus/terms.html
-		  regarding conditions under which you may use this code.
-		  This notice must be retained in the code as is!
-		*************************************************************************/
-
-		// adjust horizontal and vertical offsets here
-		// (distance from mouseover event which activates tooltip)
-		Tooltip.offX = 4;
-		Tooltip.offY = 4;
-		Tooltip.followMouse = false;  // must be turned off for hover-tip
-
-		function createRequestObject(){
-			var request_;
-			var browser = navigator.appName;
-			if(browser == "Microsoft Internet Explorer"){
-				request_ = new ActiveXObject("Microsoft.XMLHTTP");
-			}else{
-				request_ = new XMLHttpRequest();
-			}
-			return request_;
-		}
-
-		var http = createRequestObject();
-
-		function doTooltip(e, msg) {
-		  if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
-		  Tooltip.clearTimer();
-		  var tip = document.getElementById? document.getElementById(Tooltip.tipID): null;
-		  if ( tip && tip.onmouseout == null ) {
-		      tip.onmouseout = Tooltip.tipOutCheck;
-		      tip.onmouseover = Tooltip.clearTimer;
-		  }
-		  Tooltip.show(e, msg);
-		}
-
-		function hideTip() {
-		  if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
-		  Tooltip.timerId = setTimeout("Tooltip.hide()", 300);
-		}
-
-		Tooltip.tipOutCheck = function(e) {
-		  e = dw_event.DOMit(e);
-		  // is element moused into contained by tooltip?
-		  var toEl = e.relatedTarget? e.relatedTarget: e.toElement;
-		  if ( this != toEl && !contained(toEl, this) ) Tooltip.hide();
-		}
-
-		// returns true of oNode is contained by oCont (container)
-		function contained(oNode, oCont) {
-		  if (!oNode) return; // in case alt-tab away while hovering (prevent error)
-		  while ( oNode = oNode.parentNode ) if ( oNode == oCont ) return true;
-		  return false;
-		}
-
-		Tooltip.timerId = 0;
-		Tooltip.clearTimer = function() {
-		  if (Tooltip.timerId) { clearTimeout(Tooltip.timerId); Tooltip.timerId = 0; }
-		}
-
-		Tooltip.unHookHover = function () {
-		    var tip = document.getElementById? document.getElementById(Tooltip.tipID): null;
-		    if (tip) {
-		        tip.onmouseover = null;
-		        tip.onmouseout = null;
-		        tip = null;
-		    }
-		}
-
-		function merchantInfo(e, mid, oo, uu, cc){
-			msg = "Getting Merchant Info...";
-			doTooltip(e, msg, oo);
-			getMerchantInfo(e,mid,uu,cc);
-		}
-
-		function getMerchantInfo(e,mid, uu, cc){
-			var num = Math.random();
-			http.open('get', 'getMerchantInfo.php?mid=' + mid + "&userid=" + uu + "&custom=" + cc + "&rand=" + num);
-			http.onreadystatechange = handleMerchantInfo;
-			http.send(null);
-		}
-
-		function handleMerchantInfo(){
-			if(http.readyState == 4){
-				var response = http.responseText;
-				document.getElementById("tipDiv").innerHTML = response;
-			}
-		}
-
-		dw_event.add(window, "unload", Tooltip.unHookHover, true);
-
-
-		function positionDiv(){
-			var ww = document.body.offsetWidth;
-			var lll = Math.round((ww - 300) / 2);
-			document.getElementById("warningDIV").style.left = lll + "px";
-			document.getElementById("warningDIV").style.visibility = "visible";
-		}
-
-		function closeDiv(){
-			document.getElementById("warningDIV").style.visibility = "hidden";
-		}
-
-		<!--
-		function selectall() {
-			for ( i=0;i<document.forms[0]['allstores[]'].length;i++){
-				document.forms[0]['allstores[]'].options[i].selected = true;
-			}
-		}
-
-		function deselectall() {
-			for ( i=0;i<document.forms[0]['mystores[]'].length;i++){
-				document.forms[0]['mystores[]'].options[i].selected = true;
-			}
-		}
-		//-->
-
-		 function load(invoiceurl) {
-				window.open(invoiceurl,'','scrollbars=yes,menubar=yes,height=600,width=610,resizable=yes,toolbar=yes,location=no,status=yes');
-			}
-
-			function selectText(testarea)
-			{
-			document.getElementById(testarea).select()
-			}
-		</script>
-	</head>
+	<meta charset="UTF-8">
 	
-
-<body>
-<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-				<td width="220" valign="top" style="padding-right:10px;"><div id="tblLogo"></div>
-					
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<div id="leftColHdgContainer">
-		<div id="leftColHdgLeft"></div>
-		<div id="leftColHdgRight">Account Management</div>
-	</div>
-			<!--LOGIN TABLE START-->
-		<div id="leftColTableBody" class="defaultText">
-			<div style="margin-left:10px;">
-				<form id="login" name="login" method="post" action="http://www.formetocoupon.com">
-								<div style="margin-bottom:5px;">
-					Username:<br>
-					<input type="text" name="loginName" id="loginName" class="forms" style="width:120px;">
-				</div>
-				<div style="margin-bottom:5px;">
-					Password:<br>
-					<input type="password" name="passWord" id="passWord" class="forms" style="width:120px;">
-				</div>
-				<input name="loginBtn" type="image" id="login" value="Submit" src="http://www.formetocoupon.com/images/website/buttons/login.png">
-								<input type="hidden" name="login" value="1">
-				</form>
-			</div>
+	
+	<title>
+		   Privacy Policy - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools	</title>
+	
+	<meta name="title" content="Privacy Policy - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools">
+
+	<!-- TYPEKIT -->
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//use.typekit.net/kzj3oxl.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	
+	<meta name="google-site-verification" content="">
+	<!-- Speaking of Google, don't forget to set your site up: http://google.com/webmasters -->
+	
+	<meta name="author" content="Ah Ha Creative, LLC">
+	<meta name="Copyright" content="Copyright Ah Ha Creative 2013. All Rights Reserved.">
+
+	<!-- Dublin Core Metadata : http://dublincore.org/ -->
+	<meta name="DC.title" content="For Me To Coupon">
+	<meta name="DC.subject" content="Premier Affiliate Coupon Datafeed and Merchant Management Tools">
+	<meta name="DC.creator" content="Ah Ha Creative, LLC">
+	
+	<!--  Mobile Viewport meta tag
+	j.mp/mobileviewport & davidbcalhoun.com/2010/viewport-metatag 
+	device-width : Occupy full width of the screen in its current orientation
+	initial-scale = 1.0 retains dimensions instead of zooming out if page height > device height
+	maximum-scale = 1.0 retains dimensions instead of zooming in if page width < device width -->
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"> -->
+
+	<!-- This is the traditional favicon. -->
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		 
+	<link rel="apple-touch-icon" href="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/img/apple-touch-icon.png">
+	<!-- The is the icon for iOS's Web Clip.
+		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
+		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
+		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
+	
+	<!-- <meta name="viewport" content="width=device-width" /> -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS: screen, mobile & print are all in the same file -->
+	<link rel="stylesheet" href="http://www.formetocoupon.com/wp-content/themes/formetocoupon/style.css">
+	<link rel="stylesheet" href="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/stylesheets/normalize.css">
+  	<link rel="stylesheet" href="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/stylesheets/app.css">
+	
+	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/modernizr-1.7.min.js"></script>
+	
+	<link rel="pingback" href="http://www.formetocoupon.com/xmlrpc.php">
+
+	
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.18 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.formetocoupon.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools">
+<meta property="og:description" content="Overview For Me To Coupon (“FMTC”) is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located […]">
+<meta property="og:url" content="http://www.formetocoupon.com/privacy-policy/">
+<meta property="og:site_name" content="For Me To Coupon Premier Affiliate Coupon Datafeed and Tools">
+<meta property="article:publisher" content="https://www.facebook.com/formetocoupon">
+<meta property="og:image" content="http://www.formetocoupon.com/wp-content/uploads/2013/07/New-FMTC-JPG.jpg">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="For Me To Coupon Premier Affiliate Coupon Datafeed and Tools » Feed" href="http://www.formetocoupon.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="For Me To Coupon Premier Affiliate Coupon Datafeed and Tools » Comments Feed" href="http://www.formetocoupon.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="For Me To Coupon Premier Affiliate Coupon Datafeed and Tools » Privacy Policy Comments Feed" href="http://www.formetocoupon.com/privacy-policy/feed/">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.formetocoupon.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="ts_fab_css-css" href="http://www.formetocoupon.com/wp-content/plugins/fancier-author-box/css/ts-fab.min.css?ver=1.0" type="text/css" media="all">
+<script type="text/javascript">/* <![CDATA[ */ var SHRSB_Globals = {"src":"http:\/\/www.formetocoupon.com\/wp-content\/plugins\/sexybookmarks\/spritegen_default","perfoption":"1","twitter_template":"%24%7Btitle%7D+-+%24%7Bshort_link%7D+via+%40ForMeToCoupon","locale":"0","shortener":"shrlc","shortener_key":"","pubGaSocial":0,"pubGaKey":""}; /* ]]> */</script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=3.6.1"></script>
+<script type="text/javascript" src="http://www.formetocoupon.com/wp-includes/js/comment-reply.min.js?ver=3.6.1"></script>
+<script type="text/javascript" src="http://www.formetocoupon.com/wp-content/plugins/fancier-author-box/js/ts-fab.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://dtym7iokkjlif.cloudfront.net/media/js/jquery.shareaholic-publishers-sb.min.js?ver=6.1.5.1"></script>
+
+<!-- Shareaholic Content Tags -->
+
+<meta name="shareaholic:site_name" content="For Me To Coupon Premier Affiliate Coupon Datafeed and Tools">
+
+<!-- / Shareaholic Content Tags -->
+
+
+
+<!-- Shareaholic - Open Graph Tags -->
+
+	<!-- Shareaholic Notice: There is neither a featured nor gallery image set -->
+
+<!-- / Shareaholic - Open Graph Tags -->
+
+	
+</head>
+
+<body class="page page-id-13 page-template-default">
+
+<nav id="mobile-navigation">
+	<ul id="menu-mobile-navigation" class="menu"><li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="http://www.formetocoupon.com/">Home</a></li>
+<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://www.formetocoupon.com/about/">About</a></li>
+<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="http://www.formetocoupon.com/blog/">Blog</a></li>
+<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="http://www.formetocoupon.com/calendar/">Calendar</a></li>
+<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a href="http://www.formetocoupon.com/testimonials/">Testimonials</a></li>
+<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://www.formetocoupon.com/stores/">Stores</a></li>
+<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="http://www.formetocoupon.com/our-service/">Our Service</a></li>
+<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="http://www.formetocoupon.com/networks/">Networks</a></li>
+<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><a href="http://www.formetocoupon.com/faq/">FAQ</a></li>
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="http://www.formetocoupon.com/pricing/">Pricing</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="http://www.formetocoupon.com/contact/">Contact</a></li>
+</ul></nav>
+
+<header>
+	<div class="row">
+		<div class="large-12 columns" id="header-buttons">
+			<a href="#" data-reveal-id="sign-up"><button class="sign-up btn">Try Now</button></a>
+			<a href="#" data-reveal-id="login"><button class="login btn">Log In</button></a>
 		</div>
-		<!--LOGIN TABLE END-->
-		<div id="leftColTabelBtm"></div>
-	
-	<!--DOCUMENTATION TABLE START-->
-	<div id="leftColHdgContainer">
-		<div id="leftColHdgLeft"></div>
-		<div id="leftColHdgRight">Documentation</div>
 	</div>
-	<div id="leftColTableBody" class="leftColumnLinks">
-		<ul>
-							<li><a href="http://www.formetocoupon.com/documentationGettingStarted">Getting Started</a></li>
-										            <li><a href="http://www.formetocoupon.com/merchantsList">All Merchants/IDs</a></li>
-                  				<li><a href="http://www.formetocoupon.com/documentationNetworks">All Networks/IDs</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationDealsOfTheDay">Deals Of The Day</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationLocalDeals">Local Deals</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationCategories">Categories/IDs &amp; Data Format</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationHTTP">HTTP/RSS Downloading</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationFTP">FTP Downloading</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationFormats">Deals Data Format</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationTypes">Deal Types</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationMerchants">Merchants Data Format</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationExclusiveData">Manage Exclusive Data</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationChanges">Changes Data Format</a></li>
-							<li><a href="http://www.formetocoupon.com/documentationShippingDeadlines">Shipping Deadlines Data Format</a></li>
-						</ul>
+	<div class="row">
+<!-- LOGO -->
+		<div class="large-3 columns small-12">
+			<h1 id="logo"><a href="http://www.formetocoupon.com">For Me to Coupon</a></h1>
+		</div>
+
+<!-- NAVIGATION -->
+		<div class="large-9 columns small-12">
+			<div class="center"><a href="#" class="mobile-menu">NAVIGATION</a></div>
+			<nav class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://www.formetocoupon.com/">Home</a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://www.formetocoupon.com/our-service/">Our Service</a></li>
+<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="http://www.formetocoupon.com/testimonials/">Testimonials</a></li>
+<li id="menu-item-1650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1650"><a href="http://www.formetocoupon.com/packages-pricing/">Pricing</a></li>
+<li id="menu-item-1390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a href="http://www.formetocoupon.com/blog/">Blog</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://www.formetocoupon.com/contact/">Contact</a></li>
+</ul></nav>		</div>
 	</div>
-	<div id="leftColTabelBtm"></div>
-	<!--DOCUMENTATION TABLE END-->				</td>
-				<td width="670" valign="top">
-						<!--div id="tblHeader"><img src="http://www.formetocoupon.com/images/clear_pix.gif" width="670" height="72" border="0" usemap="#Map" /></div>
-<map name="Map" id="Map">
-	<area shape="rect" coords="223,43,290,62" href="http://www.formetocoupon.com/contact-us" />
-	<area shape="rect" coords="161,43,206,62" href="http://www.formetocoupon.com/pricing" />
-	<area shape="rect" coords="72,43,144,62" href="http://www.formetocoupon.com/our-process" />
-	<area shape="rect" coords="13,43,54,62" href="http://www.formetocoupon.com/" />
-</map-->
-
-	<div id="tblHeader">
-		<div class="menu">
-			<div class="left"></div>
-			<div class="text">
-				<a href="http://www.formetocoupon.com/">Home</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;<a href="http://www.formetocoupon.com/our-process">Our Process</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;<a href="http://www.formetocoupon.com/pricing">Pricing</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;<a href="http://www.formetocoupon.com/blog">Blog</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;<a href="http://www.formetocoupon.com/contact-us">Contact us</a>
-			</div>
-			<div class="right"></div>
-		</div>						
-	</div>						<!--MAIN TABLE START-->
-								<div id="mainBodyTable" class="defaultText">
-										<!--CONTENT TABLE START -->
-										<div class="bigHeading" style="margin-bottom:7px;">Privacy Policy</div>
-										<div id="contentTable">
-<p><b>Overview </b></p>
+	<div class="row show-for-medium-up">
+		<div class="large-12 columns">
+			<p class="tagline">Premier Affiliate Datafeed and Tools</p>
+		</div>
+	</div>
+</header>
 
 
-<p>For Me To Coupon ("FMTC") is committed to clearly informing
-users about the collection and use of their information when using our
-services.  As a result, we have put together this Privacy Policy to explain how
-we collect, use and disclose certain information.  This Privacy Policy only
-applies to our website and service located at ForMeToCoupon.com (the "Web site").</p>
+	<div class="row">
 
+		<div class="large-12 columns">
 
-<p><b>Collection of Personal Information</b></p>
+								
+				<article class="post" id="post-13">
 
+					<h2 class="page-title">Privacy Policy</h2>
 
-<p style="text-align:justify"><span style="color:black">When
-using the </span>Web site and/or registering for our service<span style="color:black">, you may be asked to provide, or you may choose to upload,
-certain personally identifiable information about yourself ("Personal
-Information"). Personal Information can include your name, email address,
-physical address, payment information (such as credit card number) and other
-information that specifically identifies you. </span></p>
+					<div class="entry">
 
-
-<p style="text-align:justify"><span style="color:black">We will
-never collect Personal Information directly from you unless you have
-voluntarily provided it to us.</span></p>
-
-
-<p style="text-align:justify"><b><span style="color:black">Collection
-of Non-Personal Information</span></b></p>
-
-
-<p style="text-align:justify"><span style="color:black">In
-addition, w</span><span style="color:black">e may also collect non-personally
-identifiable information which does not specifically identify you
-("Non-Personal Information"). Non-Personal Information may include
-information regarding your use of the Web site, such as IP host address, pages
-viewed and other click-stream data. Non-Personal Information may be
-automatically collected by us from you without any separate notice other than
-this Privacy Policy.</span></p>
-
-
-<p style="text-align:justify"><span style="color:black">FMTC
-and its third party advertisers or content providers may use cookies, web
-beacons, clear gifs and similar technology to customize your visit to the Web
-site and to collect Non-Personal Information. "Cookies" are pieces
-of information that may be placed on your computer by a web site for the
-purpose of facilitating and enhancing your communication and interaction with
-that web site. You may stop or restrict the placement of cookies on your
-computer or flush them from your browser by adjusting your web browser
-preferences, in which case you may still use the Web site, but it may interfere
-with some of its functionality. We do not use cookies to automatically retrieve
-Personal Information from your computer without your knowledge. </span></p>
-
-
-<p style="text-align:justify"><b><span style="color:black">Use
-of Personal Information</span></b></p>
-
-
-<p style="text-align:justify"><span style="color:black">Except
-as described below, we do not share your Personal Information with any third
-party.</span></p>
-
-
-<ul style="margin-top:0in" type="disc">
- <li style="color:black">We may use your Personal Information
-     from time to time to send you newsletters and other information about FMTC.
-     </li>
- <li><span style="color:black">We may use your Personal
-     Information</span> to respond to your questions or to provide service you
-     have requested.</li>
- <li>We may provide your Personal Information to Marketers and
-     Affiliate Networks in connection with any suspected violation of our <a href="http://www.formetocoupon.com/agreement">Terms
-     of Service.</a></li>
- <li>We may provide your Personal Information to our
-     contractors only for use in connection with services they are performing
-     on our behalf.</li>
- <li style="color:black">We may transfer your Personal
-     Information in connection with the sale or merger, in whole or in part, of
-     FMTC, its assets or the division responsible for the applicable services.
-     </li>
- <li style="color:black"><span style="color:windowtext">We
-     reserve the right to access and/or disclose </span>Personal Information <span style="color:windowtext">and Non-Personal Information we gather as
-     required by courts or administrative agencies and to the extent required
-     to permit us to investigate suspected fraud, harassment or other
-     violations of any law, rule or regulation, the Web site's policies, or the
-     rights of third parties or to investigate any suspected conduct which we
-     deem improper.</span></li>
+						<hr>
+<h3>Overview</h3>
+<p>For Me To Coupon (“FMTC”) is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located at ForMeToCoupon.com (the “Web site”).</p>
+<hr>
+<h3>Collection of Personal Information</h3>
+<p>When using the Web site and/or registering for our service, you may be asked to provide, or you may choose to upload, certain personally identifiable information about yourself (“Personal Information”). Personal Information can include your name, email address, physical address, payment information (such as credit card number) and other information that specifically identifies you.</p>
+<p>We will never collect Personal Information directly from you unless you have voluntarily provided it to us.</p>
+<hr>
+<h3>Collection of Non-Personal Information</h3>
+<p>In addition, we may also collect non-personally identifiable information which does not specifically identify you (“Non-Personal Information”). Non-Personal Information may include information regarding your use of the Web site, such as IP host address, pages viewed and other click-stream data. Non-Personal Information may be automatically collected by us from you without any separate notice other than this Privacy Policy.</p>
+<p>FMTC and its third party advertisers or content providers may use cookies, web beacons, clear gifs and similar technology to customize your visit to the Web site and to collect Non-Personal Information. “Cookies” are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use the Web site, but it may interfere with some of its functionality. We do not use cookies to automatically retrieve Personal Information from your computer without your knowledge.</p>
+<hr>
+<h3>Use of Personal Information</h3>
+<p>Except as described below, we do not share your Personal Information with any third party.</p>
+<ul>
+<li>We may use your Personal Information from time to time to send you newsletters and other information about FMTC.</li>
+<li>We may use your Personal Information to respond to your questions or to provide service you have requested.</li>
+<li>We may provide your Personal Information to Marketers and Affiliate Networks in connection with any suspected violation of our Terms of Service.</li>
+<li>We may provide your Personal Information to our contractors only for use in connection with services they are performing on our behalf.</li>
+<li>We may transfer your Personal Information in connection with the sale or merger, in whole or in part, of FMTC, its assets or the division responsible for the applicable services.</li>
+<li>We reserve the right to access and/or disclose Personal Information and Non-Personal Information we gather as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Web site’s policies, or the rights of third parties or to investigate any suspected conduct which we deem improper.</li>
 </ul>
+<hr>
+<h3>Use of Non-Personal Information</h3>
+<p>We may use and share Non-Personal Information to improve and enhance your experience on the Web site and for any other business activities. For example, we may share Non-Personal Information with unaffiliated third parties, such as business partners.</p>
+<hr>
+<h3>Security Practices</h3>
+<p>We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Web site or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Web site demonstrates your assumption of this risk.</p>
+<hr>
+<h3>No Children under age 13</h3>
+<p>We have no intention of collecting Personal Information from children under the age of 13. When we become aware that Personal Information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database.</p>
+<hr>
+<h3>Changes to policy; Opt-Out Process</h3>
+<p>We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use Personal Information in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Web site following the posting of any changes to this policy means you accept such changes.</p>
+<p>We give you the option to remove your Personal Information from our list of users who receive newsletters or other information not related to an account held with us. All unsubscribe or opt-out requests should be sent to us at support[at]formetocoupon.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy.</p>
+<hr>
+<h3>Our Terms of Service</h3>
+<p>Use of the Web site is governed by, and subject to, the Terms of Service. Your use, or access, of the Web site constitutes your agreement to be bound by these provisions.</p>
+<hr>
+<h3>Contact</h3>
+<p>For questions or concerns relating to privacy, we can be reached though the <a href="http://www.formetocoupon.com/contact/">Contact form</a> on our site.</p>
+<hr>
+<h3>Effective Date</h3>
+<p>This Privacy Policy was last updated on March 13, 2012.</p>
 
+						
+					</div>
 
-<p style="text-align:justify"><b><span style="color:black">Use
-of Non-Personal Information</span></b></p>
-
-
-<p style="text-align:justify"><span style="color:black">We may
-use and share Non-Personal Information to improve and enhance your experience
-on the Web site and for any other business activities. For example, we may
-share Non-Personal Information with unaffiliated third parties, such as
-business partners. </span></p>
-
-
-<p style="text-align:justify"><b><span style="color:black">Security Practices</span></b></p>
-
-
-<p style="text-align:justify">We have put in place reasonable
-physical, electronic, and managerial procedures to safeguard the information we
-collect. <span style="color:black">However, due to the inherent open nature of
-the Internet, we cannot guarantee that communications between you and us or
-information stored on the Web site or our servers, will be completely free from
-unauthorized access by third parties such as hackers and your use of the Web
-site demonstrates your assumption of this risk. </span></p>
-
-
-<p style="text-align:justify"><b>No Children under age 13</b></p>
-
-
-<p style="text-align:justify">We have no intention of
-collecting <span style="color:black">Personal Information </span>from children
-under the age of 13. When we become aware that <span style="color:black">Personal
-Information </span>from a child under 13 has been collected without such
-child's parent or guardian's consent, we will use all reasonable efforts to
-delete such information from our database. </p>
-
-
-<p style="text-align:justify"><b><span style="color:black">Changes
-to policy; Opt-Out Process</span></b></p>
-
-
-<p style="text-align:justify"><span style="color:black">We
-reserve the right, at our discretion, to change, modify, add, or remove
-portions from this policy at any time. However, if at any time in the future
-we plan to use Personal Information in a way that differs from this policy, we
-will post such changes here and provide you the opportunity to opt-out of such
-differing uses. Your continued use of the Web site following the posting of
-any changes to this policy means you accept such changes. </span></p>
-
-
-<p style="text-align:justify">We give you the option to remove
-your <span style="color:black">Personal Information </span>from our list of users
-who receive newsletters or other information not related to an account held
-with us. All unsubscribe or opt-out requests should be sent to us at unsubscribe@formetocoupon.com
-and we will process your request within a reasonable time after receipt. However,
-we are not responsible for removing your <span style="color:black">Personal
-Information </span>from the lists of any third party who has previously been provided
-your information in accordance with this policy.</p>
-
-
-<p style="text-align:justify"><b><span style="color:black">Our
-Terms of Service</span></b></p>
-
-
-<p style="text-align:justify">Use of the Web site is governed
-by, and subject to, the Terms of Service. Your use, or access, of the Web site
-constitutes your agreement to be bound by these provisions.</p>
-
-
-<p style="text-align:justify"><b><span style="color:black">Contact</span></b></p>
-
-
-<p style="text-align:justify">For questions or concerns
-relating to privacy, we can be contacted though the <a href="/contact-us">Contact Us form</a></p>
-
-
-<p style="text-align:justify"><b>Effective Date</b></p>
-
-
-<p style="text-align:justify">This Privacy Policy was last updated on March 13, 2012.</p>
-										</div>
-										<!--CONTENT TABLE END -->
-								</div>						
-						<!--MAIN TABLE END-->
-							<div id="footerTop"></div>
-	<div id="footerBtm">
-		<div style="float:left; padding-left:10px;" class="defaultText">
-			<a href="http://www.formetocoupon.com/privacy-policy">Privacy Policy</a> |
-			<a href="http://www.formetocoupon.com/contact-us">Contact Us</a> |
-			<a href="http://www.formetocoupon.com/agreement">Agreement</a>
+					
+				</article>
+				
+			
 		</div>
-		<div style="float:right;">© 2013 ForMeToCoupon.com</div>
+		
 	</div>
-			<!-- Google Analytics -->
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-		</script>
-		<script type="text/javascript">
-		_uacct = "UA-322061-6";
-		urchinTracker();
-		</script>
-					</td>
-		</tr>
-</tbody></table>
 
+	<hr class="double-space">
+
+<!-- here comes the javascript -->
+
+<!-- jQuery is called via the Wordpress-friendly way via functions.php -->
+
+<!-- this is where we put our custom functions -->
+<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/functions.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40741255-1', 'formetocoupon.com');
+  ga('send', 'pageview');
+
+</script>
+
+	
+<div class="row">
+<footer id="page-btm">
+		<div class="large-12 columns">
+				<span id="footer-nav">
+				<ul id="menu-footer-navigation" class="menu"><li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="http://www.formetocoupon.com/about/">About</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.formetocoupon.com/faq/">FAQ</a></li>
+<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="http://www.formetocoupon.com/blog/">Blog</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.formetocoupon.com/networks/">Networks</a></li>
+<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="http://www.formetocoupon.com/stores/">Stores</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13 current_page_item menu-item-22"><a href="http://www.formetocoupon.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.formetocoupon.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://www.formetocoupon.com/contact/">Contact</a></li>
+</ul>				</span>
+
+				<span id="social-icons">
+					<a href="https://www.facebook.com/formetocoupon" class="facebook icon highlight-on-rollover" target="_blank">Facebook</a>					<a href="https://twitter.com/formetocoupon" class="twitter icon highlight-on-rollover" target="_blank">Twitter</a>					<a href="http://thepma.org/" class="highlight-on-rollover" id="pma-logo" target="_blank"><img src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/images/logo_pma.png" alt="" class="icon"></a>
+					<br clear="both">
+				</span>
+
+				<div id="copyright">Copyright © 2007 - 2013. For Me To Coupon, LLC. All Rights Reserved.</div>
+		</div>
+		<br clear="both">
+</footer>
+</div>
+
+	<script type="text/javascript">var SHRSB_Settings = {"shr-publisher-13":{"link":"http:\/\/www.formetocoupon.com\/privacy-policy\/","shortener":"shrlc","title":"For Me To Coupon Premier Affiliate Coupon Datafeed and ToolsPrivacy Policy - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools","notes":"%0D%0A%0D%0AOverview%0D%0A%0D%0AFor%20Me%20To%20Coupon%20%28%22FMTC%22%29%20is%20committed%20to%20clearly%20informing%20users%20about%20the%20collection%20and%20use%20of%20their%20information%20when%20using%20our%20services.%20As%20a%20result%2C%20we%20have%20put%20together%20this%20Privacy%20Policy%20to%20explain%20how%20we%20collect%2C%20use%20and%20disclose%20certain%20information.%20This%20Privacy%20Policy%20only","service":"5,7,88,304,309,313","apikey":"8afa39428933be41f8afdb8ea21a495c","expand":true,"src":"http:\/\/www.formetocoupon.com\/wp-content\/plugins\/sexybookmarks\/spritegen_default","localize":true,"share_src":"http:\/\/www.shareaholic.com","rel":"nofollow","target":"_blank","bgimg":"http:\/\/www.formetocoupon.com\/wp-content\/plugins\/sexybookmarks\/images\/share-knowledge.png","bgimg_padding":"35px 0 0 10px","center":true,"twitter_template":"%24%7Btitle%7D+-+%24%7Bshort_link%7D+via+%40ForMeToCoupon","mode":"inject","designer_toolTips":"1","tip_bg_color":"#000000","tip_text_color":"#ffffff"},"shr_class":{"link":"http:\/\/www.formetocoupon.com\/privacy-policy\/","shortener":"shrlc","title":"For Me To Coupon Premier Affiliate Coupon Datafeed and ToolsPrivacy Policy - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools","service":"5,7,88,304,309,313","apikey":"8afa39428933be41f8afdb8ea21a495c","expand":true,"src":"http:\/\/www.formetocoupon.com\/wp-content\/plugins\/sexybookmarks\/spritegen_default","localize":true,"share_src":"http:\/\/www.shareaholic.com","rel":"nofollow","target":"_blank","bgimg":"http:\/\/www.formetocoupon.com\/wp-content\/plugins\/sexybookmarks\/images\/share-knowledge.png","bgimg_padding":"35px 0 0 10px","center":true,"twitter_template":"%24%7Btitle%7D+-+%24%7Bshort_link%7D+via+%40ForMeToCoupon","mode":"inject","designer_toolTips":"1","tip_bg_color":"#000000","tip_text_color":"#ffffff"}};</script><script type="text/javascript" src="http://www.formetocoupon.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.44.0-2013.09.15"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.formetocoupon.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.formetocoupon.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.3"></script>
+
+	<script>
+	document.write('<script src=' +
+	('__proto__' in {} ? 'http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/vendor/zepto' : 'javascripts/vendor/jquery') +
+	'.js><\/script>')
+	</script><script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/vendor/zepto.js"></script>
+  
+  	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.alerts.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.clearing.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.cookie.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.dropdown.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.forms.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.joyride.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.magellan.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.orbit.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.placeholder.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.reveal.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.section.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.tooltips.js"></script>
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/foundation/foundation.topbar.js"></script>
+  
+	<script src="http://www.formetocoupon.com/wp-content/themes/formetocoupon/_/js/formetocoupon.js"></script>
+
+
+  <script>
+    $(document).foundation();
+    // $(".mobile-menu").pageslide({ direction: "right", modal: true });
+  </script>
+
+  <!-- MODAL FOR SIGN-UP -->
+  <div id="sign-up" class="reveal-modal medium">
+  	<h2>Sign-up for a 30 Day Free Trial</h2>
+  	      <script>
+
+      jQuery(function(){
+            });
+      </script>
+      
+                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_6"><a id="gf_6" name="gf_6" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_6" id="gform_6" action="/privacy-policy/#gf_6">
+                        <div class="gform_body">
+                            <ul id="gform_fields_6" class="gform_fields top_label description_below"><li id="field_6_1" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_6_1">Full Name<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_6_1" type="text" value="" class="medium" tabindex="1"></div></li><li id="field_6_2" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_6_2">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_2" id="input_6_2" type="email" value="" class="medium" tabindex="2"></div></li><li id="field_6_5" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_6_5">Website<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_5" id="input_6_5" type="text" value="" class="medium" tabindex="3"></div></li><li id="field_6_4" class="gfield               gfield_contains_required"><label class="gfield_label"><span class="gfield_required">*</span></label><div class="ginput_container"><ul class="gfield_checkbox" id="input_6_4"><li class="gchoice_4_1"><input name="input_4.1" type="checkbox" value="I HAVE READ AND ACCEPT THE <a href=&quot;/terms-of-service/&quot; target=&quot;_blank&quot;>TERMS AND CONDITIONS.</a>" id="choice_4_1" tabindex="4"><label for="choice_4_1">I HAVE READ AND ACCEPT THE <a href="/terms-of-service/" target="_blank">TERMS AND CONDITIONS.</a></label></li></ul></div></li><li id="field_6_6" class="gfield"><label class="gfield_label" for="input_6_6">Please enter the Numbers &amp; Letters Below</label><div class="gfield_captcha_container"><img class="gfield_captcha" src="http://www.formetocoupon.com/wp-content/uploads/gravity_forms/captcha-ffcae48a7377fa327c2d344558ff1fc0/1578430936.png" alt="" width="150" height="42"><div class="gfield_captcha_input_container simple_captcha_medium"><input type="text" name="input_6" id="input_6_6" tabindex="5"><input type="hidden" name="input_captcha_prefix_6" value="1578430936"></div></div></li>
+                            </ul></div>
+        <div class="gform_footer top_label"> <button class="button btn primary" id="gform_submit_button_6"><span>Submit</span></button><input type="hidden" name="gform_ajax" value="form_id=6&amp;title=&amp;description=">
+            <input type="hidden" class="gform_hidden" name="is_submit_6" value="1">
+            <input type="hidden" class="gform_hidden" name="gform_submit" value="6">
+            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+            <input type="hidden" class="gform_hidden" name="state_6" value="WyJhOjA6e30iLCJhZTA1ZjJhMzBjM2VhYjVjMDI3ZThiNTg2ZmExNzM5NiJd">
+            <input type="hidden" class="gform_hidden" name="gform_target_page_number_6" id="gform_target_page_number_6" value="0">
+            <input type="hidden" class="gform_hidden" name="gform_source_page_number_6" id="gform_source_page_number_6" value="1">
+            <input type="hidden" name="gform_field_values" value="">
+            
+        </div>
+                </form>
+                </div>
+                <iframe style="display:none;width:0px; height:0px;" src="about:blank" name="gform_ajax_frame_6" id="gform_ajax_frame_6"></iframe>
+                <script type="text/javascript">function gformInitSpinner_6(){jQuery('#gform_6').submit(function(){if(jQuery('#gform_ajax_spinner_6').length == 0){jQuery('#gform_submit_button_6, #gform_wrapper_6 .gform_previous_button, #gform_wrapper_6 .gform_next_button, #gform_wrapper_6 .gform_image_button').attr('disabled', true); jQuery('#gform_submit_button_6, #gform_wrapper_6 .gform_next_button, #gform_wrapper_6 .gform_image_button').after('<' + 'img id="gform_ajax_spinner_6"  class="gform_ajax_spinner" src="http://www.formetocoupon.com/wp-content/plugins/gravityforms/images/spinner.gif" alt="" />'); }} );}jQuery(document).ready(function($){gformInitSpinner_6();jQuery('#gform_ajax_frame_6').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_6');var is_redirect = contents.indexOf('gformRedirect(){') >= 0;jQuery('#gform_submit_button_6').removeAttr('disabled');var is_form = !(form_content.length <= 0 || is_redirect);if(is_form){jQuery('#gform_wrapper_6').html(form_content.html());jQuery(document).scrollTop(jQuery('#gform_wrapper_6').offset().top);if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_6').val();gformInitSpinner_6();jQuery(document).trigger('gform_page_loaded', [6, current_page]);}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_6').replaceWith('<' + 'div id=\'gforms_confirmation_message\' class=\'gform_confirmation_message_6\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [6]);}, 50);}else{jQuery('#gform_6').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [6, current_page]);} );} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [6, 1]) } ); </script>  	<a class="close-reveal-modal no-underline">×</a>
+  </div>
+
+  <!-- MODAL FOR ESSEENTIALS SIGN-UP -->
+  <div id="sign-up-essentials" class="reveal-modal medium">
+  	<h2>Sign-up for a 30 Day Free Trial</h2>
+  	      <script>
+
+      jQuery(function(){
+            });
+      </script>
+      
+                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_4"><a id="gf_4" name="gf_4" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_4" id="gform_4" action="/privacy-policy/#gf_4">
+                        <div class="gform_body">
+                            <ul id="gform_fields_4" class="gform_fields top_label description_below"><li id="field_4_1" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_4_1">Full Name<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_4_1" type="text" value="" class="medium" tabindex="1"></div></li><li id="field_4_2" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_4_2">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_2" id="input_4_2" type="email" value="" class="medium" tabindex="2"></div></li><li id="field_4_5" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_4_5">Website<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_5" id="input_4_5" type="text" value="" class="medium" tabindex="3"></div></li><li id="field_4_4" class="gfield               gfield_contains_required"><label class="gfield_label"><span class="gfield_required">*</span></label><div class="ginput_container"><ul class="gfield_checkbox" id="input_4_4"><li class="gchoice_4_1"><input name="input_4.1" type="checkbox" value="I HAVE READ AND ACCEPT THE <a href=&quot;http://www2.formetocoupon.com/terms-of-service/&quot; target=&quot;_blank&quot;>TERMS AND CONDITIONS</a>." id="choice_4_1" tabindex="4"><label for="choice_4_1">I HAVE READ AND ACCEPT THE <a href="http://www2.formetocoupon.com/terms-of-service/" target="_blank">TERMS AND CONDITIONS</a>.</label></li></ul></div></li><li id="field_4_6" class="gfield"><label class="gfield_label" for="input_4_6">Please enter the Numbers &amp; Letters Below</label><div class="gfield_captcha_container"><img class="gfield_captcha" src="http://www.formetocoupon.com/wp-content/uploads/gravity_forms/captcha-ffcae48a7377fa327c2d344558ff1fc0/501513656.png" alt="" width="150" height="42"><div class="gfield_captcha_input_container simple_captcha_medium"><input type="text" name="input_6" id="input_4_6" tabindex="5"><input type="hidden" name="input_captcha_prefix_6" value="501513656"></div></div></li>
+                            </ul></div>
+        <div class="gform_footer top_label"> <button class="button btn primary" id="gform_submit_button_4"><span>Submit</span></button><input type="hidden" name="gform_ajax" value="form_id=4&amp;title=&amp;description=">
+            <input type="hidden" class="gform_hidden" name="is_submit_4" value="1">
+            <input type="hidden" class="gform_hidden" name="gform_submit" value="4">
+            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+            <input type="hidden" class="gform_hidden" name="state_4" value="WyJhOjA6e30iLCJhZTA1ZjJhMzBjM2VhYjVjMDI3ZThiNTg2ZmExNzM5NiJd">
+            <input type="hidden" class="gform_hidden" name="gform_target_page_number_4" id="gform_target_page_number_4" value="0">
+            <input type="hidden" class="gform_hidden" name="gform_source_page_number_4" id="gform_source_page_number_4" value="1">
+            <input type="hidden" name="gform_field_values" value="">
+            
+        </div>
+                </form>
+                </div>
+                <iframe style="display:none;width:0px; height:0px;" src="about:blank" name="gform_ajax_frame_4" id="gform_ajax_frame_4"></iframe>
+                <script type="text/javascript">function gformInitSpinner_4(){jQuery('#gform_4').submit(function(){if(jQuery('#gform_ajax_spinner_4').length == 0){jQuery('#gform_submit_button_4, #gform_wrapper_4 .gform_previous_button, #gform_wrapper_4 .gform_next_button, #gform_wrapper_4 .gform_image_button').attr('disabled', true); jQuery('#gform_submit_button_4, #gform_wrapper_4 .gform_next_button, #gform_wrapper_4 .gform_image_button').after('<' + 'img id="gform_ajax_spinner_4"  class="gform_ajax_spinner" src="http://www.formetocoupon.com/wp-content/plugins/gravityforms/images/spinner.gif" alt="" />'); }} );}jQuery(document).ready(function($){gformInitSpinner_4();jQuery('#gform_ajax_frame_4').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_4');var is_redirect = contents.indexOf('gformRedirect(){') >= 0;jQuery('#gform_submit_button_4').removeAttr('disabled');var is_form = !(form_content.length <= 0 || is_redirect);if(is_form){jQuery('#gform_wrapper_4').html(form_content.html());jQuery(document).scrollTop(jQuery('#gform_wrapper_4').offset().top);if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_4').val();gformInitSpinner_4();jQuery(document).trigger('gform_page_loaded', [4, current_page]);}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_4').replaceWith('<' + 'div id=\'gforms_confirmation_message\' class=\'gform_confirmation_message_4\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [4]);}, 50);}else{jQuery('#gform_4').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [4, current_page]);} );} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [4, 1]) } ); </script>  	<a class="close-reveal-modal no-underline">×</a>
+  </div>
+
+  <!-- MODAL FOR FULL SIGN-UP -->
+  <div id="sign-up-full" class="reveal-modal medium">
+  	<h2>Sign-up for a 30 Day Free Trial</h2>
+  	      <script>
+
+      jQuery(function(){
+                    
+      jQuery('#input_3_1').attr('placeholder','Full Name');
+              
+                    
+      jQuery('#input_3_2').attr('placeholder','Email');
+              
+            });
+      </script>
+      
+                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_3"><a id="gf_3" name="gf_3" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_3" id="gform_3" action="/privacy-policy/#gf_3">
+                        <div class="gform_body">
+                            <ul id="gform_fields_3" class="gform_fields top_label description_below"><li id="field_3_1" class="gfield    large-3 columns           gfield_contains_required"><label class="gfield_label" for="input_3_1">Full Name<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_3_1" type="text" value="" class="medium" tabindex="1"></div></li><li id="field_3_2" class="gfield    large-3 columns           gfield_contains_required"><label class="gfield_label" for="input_3_2">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_2" id="input_3_2" type="email" value="" class="medium" tabindex="2"></div></li><li id="field_3_6" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_6">Website<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_6" id="input_3_6" type="text" value="" class="medium" tabindex="3"></div></li><li id="field_3_5" class="gfield    large-12 columns           gfield_contains_required"><label class="gfield_label"><span class="gfield_required">*</span></label><div class="ginput_container"><ul class="gfield_checkbox" id="input_3_5"><li class="gchoice_5_1"><input name="input_5.1" type="checkbox" value="Accepted" id="choice_5_1" tabindex="4"><label for="choice_5_1">I have read and accept the <a href="http://www.formetocoupon.com/terms-of-service/" target="_blank">TERMS AND CONDITIONS</a>.</label></li></ul></div></li><li id="field_3_7" class="gfield"><label class="gfield_label" for="input_3_7">Please enter the Numbers &amp; Letters Below</label><div class="gfield_captcha_container"><img class="gfield_captcha" src="http://www.formetocoupon.com/wp-content/uploads/gravity_forms/captcha-ffcae48a7377fa327c2d344558ff1fc0/1250783903.png" alt="" width="150" height="42"><div class="gfield_captcha_input_container simple_captcha_medium"><input type="text" name="input_7" id="input_3_7" tabindex="5"><input type="hidden" name="input_captcha_prefix_7" value="1250783903"></div></div></li>
+                            </ul></div>
+        <div class="gform_footer top_label"> <button class="button btn primary" id="gform_submit_button_3"><span>Submit</span></button><input type="hidden" name="gform_ajax" value="form_id=3&amp;title=&amp;description=">
+            <input type="hidden" class="gform_hidden" name="is_submit_3" value="1">
+            <input type="hidden" class="gform_hidden" name="gform_submit" value="3">
+            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+            <input type="hidden" class="gform_hidden" name="state_3" value="WyJhOjA6e30iLCJhZTA1ZjJhMzBjM2VhYjVjMDI3ZThiNTg2ZmExNzM5NiJd">
+            <input type="hidden" class="gform_hidden" name="gform_target_page_number_3" id="gform_target_page_number_3" value="0">
+            <input type="hidden" class="gform_hidden" name="gform_source_page_number_3" id="gform_source_page_number_3" value="1">
+            <input type="hidden" name="gform_field_values" value="">
+            
+        </div>
+                </form>
+                </div>
+                <iframe style="display:none;width:0px; height:0px;" src="about:blank" name="gform_ajax_frame_3" id="gform_ajax_frame_3"></iframe>
+                <script type="text/javascript">function gformInitSpinner_3(){jQuery('#gform_3').submit(function(){if(jQuery('#gform_ajax_spinner_3').length == 0){jQuery('#gform_submit_button_3, #gform_wrapper_3 .gform_previous_button, #gform_wrapper_3 .gform_next_button, #gform_wrapper_3 .gform_image_button').attr('disabled', true); jQuery('#gform_submit_button_3, #gform_wrapper_3 .gform_next_button, #gform_wrapper_3 .gform_image_button').after('<' + 'img id="gform_ajax_spinner_3"  class="gform_ajax_spinner" src="http://www.formetocoupon.com/wp-content/plugins/gravityforms/images/spinner.gif" alt="" />'); }} );}jQuery(document).ready(function($){gformInitSpinner_3();jQuery('#gform_ajax_frame_3').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_3');var is_redirect = contents.indexOf('gformRedirect(){') >= 0;jQuery('#gform_submit_button_3').removeAttr('disabled');var is_form = !(form_content.length <= 0 || is_redirect);if(is_form){jQuery('#gform_wrapper_3').html(form_content.html());jQuery(document).scrollTop(jQuery('#gform_wrapper_3').offset().top);if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_3').val();gformInitSpinner_3();jQuery(document).trigger('gform_page_loaded', [3, current_page]);}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_3').replaceWith('<' + 'div id=\'gforms_confirmation_message\' class=\'gform_confirmation_message_3\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [3]);}, 50);}else{jQuery('#gform_3').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [3, current_page]);} );} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [3, 1]) } ); </script>  	<a class="close-reveal-modal no-underline">×</a>
+  </div>
+
+  <!-- MODAL FOR PREMIUM SIGN-UP -->
+  <div id="sign-up-premium" class="reveal-modal medium">
+  	<h2>Sign-up for a 30 Day Free Trial</h2>
+  	      <script>
+
+      jQuery(function(){
+            });
+      </script>
+      
+                <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_5"><a id="gf_5" name="gf_5" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_5" id="gform_5" action="/privacy-policy/#gf_5">
+                        <div class="gform_body">
+                            <ul id="gform_fields_5" class="gform_fields top_label description_below"><li id="field_5_1" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_5_1">Full Name<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_1" id="input_5_1" type="text" value="" class="medium" tabindex="1"></div></li><li id="field_5_2" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_5_2">Email<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_2" id="input_5_2" type="email" value="" class="medium" tabindex="2"></div></li><li id="field_5_5" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_5_5">Website<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_5" id="input_5_5" type="text" value="" class="medium" tabindex="3"></div></li><li id="field_5_4" class="gfield               gfield_contains_required"><label class="gfield_label"><span class="gfield_required">*</span></label><div class="ginput_container"><ul class="gfield_checkbox" id="input_5_4"><li class="gchoice_4_1"><input name="input_4.1" type="checkbox" value="I HAVE READ AND ACCEPT THE <a href=&quot;http://www2.formetocoupon.com/terms-of-service/&quot; target=&quot;_blank&quot;>TERMS AND CONDITIONS</a>." id="choice_4_1" tabindex="4"><label for="choice_4_1">I HAVE READ AND ACCEPT THE <a href="http://www2.formetocoupon.com/terms-of-service/" target="_blank">TERMS AND CONDITIONS</a>.</label></li></ul></div></li><li id="field_5_6" class="gfield"><label class="gfield_label" for="input_5_6">Please enter the Numbers &amp; Letters Below</label><div class="gfield_captcha_container"><img class="gfield_captcha" src="http://www.formetocoupon.com/wp-content/uploads/gravity_forms/captcha-ffcae48a7377fa327c2d344558ff1fc0/493842396.png" alt="" width="150" height="42"><div class="gfield_captcha_input_container simple_captcha_medium"><input type="text" name="input_6" id="input_5_6" tabindex="5"><input type="hidden" name="input_captcha_prefix_6" value="493842396"></div></div></li>
+                            </ul></div>
+        <div class="gform_footer top_label"> <button class="button btn primary" id="gform_submit_button_5"><span>Submit</span></button><input type="hidden" name="gform_ajax" value="form_id=5&amp;title=&amp;description=">
+            <input type="hidden" class="gform_hidden" name="is_submit_5" value="1">
+            <input type="hidden" class="gform_hidden" name="gform_submit" value="5">
+            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+            <input type="hidden" class="gform_hidden" name="state_5" value="WyJhOjA6e30iLCJhZTA1ZjJhMzBjM2VhYjVjMDI3ZThiNTg2ZmExNzM5NiJd">
+            <input type="hidden" class="gform_hidden" name="gform_target_page_number_5" id="gform_target_page_number_5" value="0">
+            <input type="hidden" class="gform_hidden" name="gform_source_page_number_5" id="gform_source_page_number_5" value="1">
+            <input type="hidden" name="gform_field_values" value="">
+            
+        </div>
+                </form>
+                </div>
+                <iframe style="display:none;width:0px; height:0px;" src="about:blank" name="gform_ajax_frame_5" id="gform_ajax_frame_5"></iframe>
+                <script type="text/javascript">function gformInitSpinner_5(){jQuery('#gform_5').submit(function(){if(jQuery('#gform_ajax_spinner_5').length == 0){jQuery('#gform_submit_button_5, #gform_wrapper_5 .gform_previous_button, #gform_wrapper_5 .gform_next_button, #gform_wrapper_5 .gform_image_button').attr('disabled', true); jQuery('#gform_submit_button_5, #gform_wrapper_5 .gform_next_button, #gform_wrapper_5 .gform_image_button').after('<' + 'img id="gform_ajax_spinner_5"  class="gform_ajax_spinner" src="http://www.formetocoupon.com/wp-content/plugins/gravityforms/images/spinner.gif" alt="" />'); }} );}jQuery(document).ready(function($){gformInitSpinner_5();jQuery('#gform_ajax_frame_5').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_5');var is_redirect = contents.indexOf('gformRedirect(){') >= 0;jQuery('#gform_submit_button_5').removeAttr('disabled');var is_form = !(form_content.length <= 0 || is_redirect);if(is_form){jQuery('#gform_wrapper_5').html(form_content.html());jQuery(document).scrollTop(jQuery('#gform_wrapper_5').offset().top);if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_5').val();gformInitSpinner_5();jQuery(document).trigger('gform_page_loaded', [5, current_page]);}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_5').replaceWith('<' + 'div id=\'gforms_confirmation_message\' class=\'gform_confirmation_message_5\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [5]);}, 50);}else{jQuery('#gform_5').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [5, current_page]);} );} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [5, 1]) } ); </script>  	<a class="close-reveal-modal no-underline">×</a>
+  </div>
+
+  <!-- MODAL FOR LOGIN -->
+  <div id="login" class="reveal-modal medium">
+  	<h2>LOGIN</h2>
+	<form method="post" action="http://account.formetocoupon.com/cp/login">
+		<label for="username">USERNAME</label>
+		<input id="username" name="username" type="text" value="" class="text">
+		<label for="password">PASSWORD</label>
+		<input id="password" name="password" type="password" value="" class="text">
+		<input id="submit" type="submit" class="submit btn primary" value="SUBMIT">
+	</form>
+  	<a class="close-reveal-modal no-underline">×</a>
+  </div>
 
 
 </body></html>
