@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedindia.co.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531020206id_/http%3A//www.classifiedindia.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedindia.co.in privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223012332id_/http%3A//www.classifiedindia.co.in/privacy.php) for the most accurate reproduction.*
 
 # Free India classifieds, Free classifieds in India, Classifieds India,India classifieds, All India classifieds - India - Classified india
 
