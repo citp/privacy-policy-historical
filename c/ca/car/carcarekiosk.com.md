@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carcarekiosk.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623021824id_/http%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcarekiosk.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224002251id_/http%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of CarCareKiosk website and Service
 
 **PRIVACY POLICY**
 
-**Updated: May 27, 2011**
+**Updated: November 29, 2013**
 
 Flatsix, LLC ("CarCareKiosk", "we", "our" or "us") understands that you care how information about you is gathered, used and shared. This Privacy Policy describes how the information collected when you use carcarekiosk.com and related services (the "Service") will be used and how you can control the collection, correction and deletion of information. Questions regarding this policy should be directed to info "at" carcarekiosk.com.
 
@@ -31,6 +31,8 @@ We use cookies, web beacons and log file information to i) store information tha
 When you create an account on our Service, some information about your account and your account activity are provided to other users of the Service. This may include the date you created your account, your member name, the videos you submitted, comments and updates you submitted, your name, location, expertise, certifications, interests and favorite car. Should you choose to submit information about your shop to carcarekiosk.com, we may display your shop name, address and description, the hours, makes, specialties, amenities offered, affiliations, labor rates and hours of operation.
 
 Your carcarekiosk.com user name, not your email address, is displayed to other users of the site when you submit content. Content submitted to our Service may be distributed through the internet and other media and may be viewed by carcarekiosk.com users or the general public.
+
+When you complete a referral form for vehicle service, we send your information to the mechanic or car dealership highlighted in the form. By clicking the "submit" button, you are agreeing to have a mechanic or car dealer contact you for the purpose of responding to your vehicle service quote request. You understand that the dealer’s call may be using an autodialer, and that a portion of the call may be pre-recorded.
 
 **DISCLOSURE OF YOUR INFORMATION**
 
