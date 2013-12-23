@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenpencils.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625202342id_/http%3A//zenpencils.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenpencils.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223155030id_/http%3A//zenpencils.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# ZEN PENCILS - Privacy
 
 Zen Pencils uses third-party advertisers that uses cookies to collect and store information that helps them serve relevant ads during your time on this site. Zen Pencils has no access or control over these cookies. You can review the respective privacy policies linked to below on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
