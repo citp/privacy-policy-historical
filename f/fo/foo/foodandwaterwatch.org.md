@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodandwaterwatch.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624022705id_/http%3A//www.foodandwaterwatch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodandwaterwatch.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223101206id_/http%3A//www.foodandwaterwatch.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Food & Water Watch | Food & Water Watch
 
@@ -14,7 +14,7 @@ There are certain activities and areas of the site that will require you to prov
 
 If you submit your personal information to us, you are agreeing that Food & Water Watch and Food & Water Watch Fund may use the information in accordance with this privacy policy.
 
-If you have questions regarding this privacy policy, please contact us by sending an email to [info@fwwatch.org](mailto:info@fwwatch.org) or through the address below.
+If you have questions regarding this privacy policy, please contact us by sending an email to info@fwwatch.org or through the address below.
 
 **Why does Food & Water Watch collect certain personal information? **
 
@@ -34,7 +34,7 @@ We only collect personal information from our visitors when it is supplied to us
 The following are examples of how we may use your personal information when you engage in common activities on our website:
 
   1. **When you sign up to join our main email list or provide us with your email address** , we will have a record of your email address and any other information you choose to provide. We will send you email about action alerts to protect our food and water, fundraising campaigns, and other Food & Water Watch activities. You can opt out of these emails at any time (see details below).
-  2. **When you make an online donation to Food & Water Watch**, your information will be added to our donor list and database, and you may be contacted about other Food & Water Watch activities, news, action alerts, and/or fundraising campaigns. Food & Water Watch may rent our donor list (mail addresses, only) to like-minded organizations. This gives you the opportunity to learn about related activities of other nonprofit organizations. If you do not wish to have your mail contact information shared in this manner, please contact us at[ info@fwwatch.org](mailto:info@fwwatch.org). Food & Water Watch will not share your email address or credit card information with other organizations.
+  2. **When you make an online donation to Food & Water Watch**, your information will be added to our donor list and database, and you may be contacted about other Food & Water Watch activities, news, action alerts, and/or fundraising campaigns. Food & Water Watch may rent our donor list (mail addresses, only) to like-minded organizations. This gives you the opportunity to learn about related activities of other nonprofit organizations. If you do not wish to have your mail contact information shared in this manner, please contact us at info@fwwatch.org. Food & Water Watch will not share your email address or credit card information with other organizations.
   3. **When you take an advocacy action such as sending a message to your elected representatives, government officials or other targets of Food & Water Watch advocacy, **we will keep a record of the information you submit, and will send your message to these recipients, along with the contact information you provide, such as your name, address, and email address. Food & Water Watch is not responsible for what these recipients may do with your information. Please note that officials receiving these emails may choose to contact you. Government agencies may add the names of people who submit comments on government proposals into public documents recording feedback on a given proposal. This is often a part of the government process for receiving and recording feedback from the public. Government agencies typically have strict guidelines around not misusing information provided to them by the public for other purposes. However, you should review the policies of the appropriate government body if you are concerned.
   4. **We may store and use any other voluntary information you choose to provide**. We will use it in a manner consistent with the examples above, and we will never sell your personal information.
 
@@ -73,14 +73,13 @@ You should be aware that we use third-party vendors to provide services on this 
 If for any reason you would like to stop receiving future emails from us:
 
   1. Click the “Unsubscribe” or “Click here to stop receiving emails” links that are included in every email.
-  2. Send us an email at [info@fwwatch.org](mailto:info@fwwatch.org) and ask us to unsubscribe you from our email list.
+  2. Send us an email at info@fwwatch.org and ask us to unsubscribe you from our email list.
 
 
 
 Note that your contact information and your donation and action history will remain in our databases, but we will not send you emails.
 
-**  
-Can I change the information I have given to Food & Water Watch? **
+**Can I change the information I have given to Food & Water Watch? **
 
 If you are a Food & Water Watch member or supporter you can update your account information through one of the following methods:
 
@@ -93,9 +92,10 @@ Washington, DC 20036
 
 2\. Call us at 202.683.2500 between 9:30 a.m. and 5 p.m. EST, Monday – Friday.
 
-3\. E-mail [info@fwwatch.org](mailto:info@fwwatch.org)
+3\. E-mail info@fwwatch.org
 
-**Information we collect automatically** :  
+**Information we collect automatically  
+**  
 As is true of most websites you enter, we automatically collect some non-personal information about your computer and your visit and store it in log files. This includes information such as your computer’s (or your Internet Service Provider’s) IP address (this is not your e-mail address); the domain from which you access the Internet (e.g., “AOL.com”); certain specifications of your computer and its operating system; the website, if any, from which you came to our site; the date and time you arrived at our site, how long you spent there, and which pages you visited.
 
 **This data is anonymous and is not connected to any personal information.**  We use this information to help us improve our site’s performance and make it more useful to visitors by monitoring statistics that show, for example, the number of visitors that use different sections of our site.
@@ -108,7 +108,8 @@ A “cookie” is a tiny element of data that our site can send to your browser,
 
 If you are concerned about your privacy and the use of cookie technology on our website you may set your browser to refuse the cookies our site attempts to send you. If you decide not to accept cookies, you may limit the functionality available when you visit our site.
 
-**Security**  
+**Security  
+**  
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
 The security measures used on this site include, but are not limited to, industry-standard Secure Socket Layer (SSL) technology on all pages where we collect financial information, security certificates, and firewalls to maintain the security of stored data. While we follow industry standards to protect the personal information submitted to us, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
@@ -124,8 +125,8 @@ Although Food & Water Watch does its best to protect your privacy on this and ou
   1. You have control over your own privacy. Think carefully before providing any personal information.
   2. Although this site has security measures in place to protect the loss, misuse, and alteration of information, no email or website can be completely, 100% secure. If you are worried because your communication is very sensitive, do not send it via email or submit it online. See above for additional ways to contact us.
   3. We may send you personalized information via email, or provide personalized links in emails that allow web forms to be automatically populated with certain personal information. Always keep your email account secure, and do not allow others to access your email.
-  4. You should only forward our email messages to others through the “Tell A Friend” buttons or links provided within the email. If you forward our emails directly to others using your email service, they may be able to see your personal information in that email, or may be able to take actions in your name and/or access your personal information by clicking on links personalized to you.  **Note:**  Your credit card and financial information will NEVER be visible to others by clicking on links in our emails.
+  4. You should only forward our email messages to others through the “Tell A Friend” buttons or links provided within the email. If you forward our emails directly to others using your email service, they may be able to see your personal information in that email, or may be able to take actions in your name and/or access your personal information by clicking on links personalized to you.  **Note:**  Your credit card and financial information will NEVER be visible to others by clicking on links in our emails. 
 
 
 
-Fore Food & Water Watch’s full Terms of Service Agreement, [click here](http://www.foodandwaterwatch.org/about/terms-of-service/).
+For Food & Water Watch’s full Terms of Service Agreement, [click here](http://www.foodandwaterwatch.org/about/terms-of-service/).
