@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624053143id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223031124id_/http%3A//www.holidaytaxis.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HolidayTaxis.com
 
-HolidayTaxis.com is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - Suite B, 2nd Floor Moore House, 13 Black Lion Street, Brighton, East Sussex, BN1 1ND.At HolidayTaxis.com we are committed to protecting your privacy and take the responsibility regarding the security of our customers' information very seriously. Please read the following for further details on our privacy policy.If you have any questions regarding our service please do not hesitate to contact us on admin@holidaytaxis.com or 01273 828 200.
+HolidayTaxis.com and Where2Guv is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - Suite B, 2nd Floor Moore House, 13 Black Lion Street, Brighton, East Sussex, BN1 1ND.At HolidayTaxis.com and Where2Guv we are committed to protecting your privacy and take the responsibility regarding the security of our customers' information very seriously. Please read the following for further details on our privacy policy.If you have any questions regarding our service please do not hesitate to contact us on admin@holidaytaxis.com or 01273 828 200.
 
 ### What information do we collect and how do we use it?
 
@@ -10,15 +10,15 @@ In order to process your booking we do require certain information. This will in
 
 ### NB
 
-Credit card details will be handled securely to ensure confidentiality. SSL (Secure sockets layer) encryption is employed to ensure sensitive data is protected.Who do you share your information with?HolidayTaxis.com collates your information solely for the purpose of making your booking. If you have booked via a HolidayTaxis.com affiliate site, then the affiliate has the right to request and receive your booking data, but not your payment data. If you have booked via the main HolidayTaxis.com website we do not share, sell, trade or rent your personal information with anyone.
+Credit card details will be handled securely to ensure confidentiality. SSL (Secure sockets layer) encryption is employed to ensure sensitive data is protected.Who do you share your information with?HolidayTaxis.com and Where2Guv collates your information solely for the purpose of making your booking. If you have booked via a HolidayTaxis.com and Where2Guv affiliate site, then the affiliate has the right to request and receive your booking data, but not your payment data. If you have booked via the main HolidayTaxis.com and Where2Guv website we do not share, sell, trade or rent your personal information with anyone.
 
-### HolidayTaxis.com special offer service.
+### HolidayTaxis.com and Where2Guv special offer service.
 
-HolidayTaxis.com have many trade partners who from time to time give us access to offers and promotions they may have running, allowing you to become one of the first to be notified of any great travel bargains. You give us prior authorisation to email these offers by registering on the website and can of course opt out by unsubscribing at any time.
+HolidayTaxis.com and Where2Guv have many trade partners who from time to time give us access to offers and promotions they may have running, allowing you to become one of the first to be notified of any great travel bargains. You give us prior authorisation to email these offers by registering on the website and can of course opt out by unsubscribing at any time.
 
 ### Other Web sites
 
-There are several places on the HolidayTaxis.com Web site where you can link through to other sites. Once you click through onto another site, HolidayTaxis.com privacy practices no longer apply. We recommend you view privacy statements for all third party Websites to understand their own policies for collecting and disclosing your information.Security and Data Protection ( **[click here for more information](https://web.archive.org/about/data/)** )In addition and as required by the UK Data Protection Legislation, (Acts of 1984 and 1998) we follow strict security procedures in the storage and disclosure of information which you have given to us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.
+There are several places on the HolidayTaxis.com and Where2Guv Web site where you can link through to other sites. Once you click through onto another site, HolidayTaxis.com and Where2Guv privacy practices no longer apply. We recommend you view privacy statements for all third party Websites to understand their own policies for collecting and disclosing your information.Security and Data Protection ( **[click here for more information](https://web.archive.org/about/data/)** )In addition and as required by the UK Data Protection Legislation, (Acts of 1984 and 1998) we follow strict security procedures in the storage and disclosure of information which you have given to us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.
 
 ### Cookies
 
@@ -26,7 +26,7 @@ Cookies are small pieces of information that are stored by your browser on your 
 
 ### Your Consent
 
-By using the HolidayTaxis.com Web siteand our affiliate sites, you consent to the collection and use of this information by HolidayTaxis.com in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.
+By using the HolidayTaxis.com and Where2Guv Web siteand our affiliate sites, you consent to the collection and use of this information by HolidayTaxis.com and Where2Guv in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.
 
 ### Third-Party Web Beacons
 
