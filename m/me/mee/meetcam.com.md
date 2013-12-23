@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetcam.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624021411id_/http%3A//meetcam.com/vb/faq.php%3Ffaq%3Dagreements%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetcam.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223031544id_/http%3A//meetcam.com/vb/faq.php%3Ffaq%3Dagreements%23faq_privacy) for the most accurate reproduction.*
 
 # Agreements and Policies
 
