@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520004952id_/http%3A//www.clickorlando.com/Privacy-Policy/-/1637238/2694030/-/fegfxe/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224002839id_/http%3A//www.clickorlando.com/Privacy-Policy/-/1637238/2694030/-/fegfxe/-/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
