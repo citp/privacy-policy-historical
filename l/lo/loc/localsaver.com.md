@@ -1,36 +1,88 @@
-> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108153121id_/http%3A//www.localsaver.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223082707id_/http%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
 
-# Local Saver
+# None
 
-### Privacy
+[](https://web.archive.org/)
 
-LocalSaver.com collects and uses the personal information that you submit online as described herein. LocalSaver.com reserves the right to modify the terms of this policy at any time. Such modifications shall become effective immediately upon posting. Your continued use of, or registration with, LocalSaver.com shall constitute your acceptance of these terms. If you do not agree to the terms of this policy, in whole or in part, you are not authorized to use the website and should terminate registration by following the opt-out instructions.
+## Privacy Policy
 
-### Collection of Information
+Last updated: September 18, 2013
 
-LocalSaver.com only collects personal information which you provide in response to specific information requests on LocalSaver.com. This information may include, among other things, name, address, phone number and email address. In addition, we may collect your IP address and other information through the use of electronic "cookies."
+This privacy policy ("Policy") explains how personal information is collected, used, and disclosed with respect to your use of the LocalSaver™ website located at <http://www.localsaver.com/> (the "Site") operated by DataSphere Technologies, Inc. ("DataSphere", "we" or "us") so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
 
-### Use of Information
+### WHAT IS PERSONAL INFORMATION?
 
-By registering with LocalSaver.com, you consent to the collection, processing, and transfer of your personal information in accordance with this policy. LocalSaver.com may use your information: (1) for the purpose for which it was collected, as disclosed at the time such information is provided to us; (2) to protect the rights or property of LocalSaver.com and other registrants of LocalSaver.com websites, and (3) as required by federal, state or local law. We may also share your personal information with our trusted partners, advertisers, service providers, affiliates, and other third parties that we believe can provide you with information or support related to your initial online inquiry or with additional special offers and opportunities. LocalSaver.com screens the third parties with whom it shares personal information but makes no guarantee about their use and protection of your personal information or their willingness or ability to abide by our privacy policy. Also, LocalSaver.com is not responsible for the content or privacy practices of any websites to which LocalSaver.com links.
+As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, e-mail address, or other account number), and information about that individual's activities, such as information about his or her use of the Site, when directly linked to personally identifiable information. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information.
 
-### Security
+### HOW DO WE USE PERSONAL INFORMATION?
 
-LocalSaver.com regularly monitors its website and databases for fraud, abuse, and unauthorized use of information to protect your personal information that is under our control.
+Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain personal information. For example, we may collect personal information, such as your name, address, email, phone number, and other contact, and demographic information when you select or update your location, register to receive email alerts, or send us an email or contact us by other means for any reason. We may also collect contact information and credit card or other payment account information if you pay subscription or advertising fees or purchase any such products or services through the Site. From time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, contests, promotional offers, and other activities on the Site.
 
-### Do Not Call Registry Compliance
+When you visit our web site, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only. We may also automatically collect certain information through the use of "cookies." Cookies are small data files that are stored on a user's hard drive at the request of a Web site to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. If we combine cookies with or link them to any of the personally identifying information, we would treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, you will not be able to sign in and will not be able to access certain Site features or services.
 
-By submitting personal contact and/or financial information to LocalSaver.com through its website, you hereby grant written permission to LocalSaver.com and its business partners to contact you by telephone, mail, and/or e-mail. Further, by registering with LocalSaver.com through this website you are consenting to receive phone calls from LocalSaver.com and its business partners and thereby registrants waive their right to file a claim with the FTC or any other agency in reference to these calls or contacts.
+In general, we use personal information we collect to facilitate your use of, and our administration and operation of, the Site and the services being provided by us (the "Services"), to provide you with information or Services you request, to process your requests or transactions, and for the purpose for which the information was provided. For example, we may use the information we collect:
 
-### Opt-Out Opportunity
+  * to contact you about your use of the Site and the Services, such as for administrative purposes or to provide you with customer service;
+  * to inform you about our or a third party's products, services, events, promotions or activities that we think may be of interest to you, and for other marketing, informational, product development and promotional purposes.
+  * to provide you with the services, products, referrals or information you requested and to complete any transactions in connection therewith;
+  * to respond to your emails, submissions, comments, requests or complaints;
+  * to request feedback;
+  * for the purpose of research or product development and to otherwise enable us to develop, customize and improve the Site, the Services, and our products and advertising;
+  * to notify contest winners; and
+  * for the specific purpose for which the information was provided.
 
-LocalSaver.com registrants may opt-out of receiving further communications from LocalSaver.com at any time by following the "unsubscribe" instructions in any LocalSaver.com e-mail received by registrant. Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from.
 
-### Assignment
 
-In its sole discretion, LocalSaver.com may transfer, sell or assign your personal information collected on and through this website to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of LocalSaver.com.
+Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.
 
-The Privacy Notice posted on this site was updated on or about March 6th, 2009. For additional questions on privacy, please contact us by emailing your questions to [privacy@localsaver.com](mailto:privacy@localsaver.com)
+### SHARING OF PERSONAL INFORMATION
 
-  
+We may share your personal information with third parties when you request us to do so or otherwise give us your consent. For example, when you select a coupon for printing or viewing, we will share your personal information with such merchant offering that coupon in order to carry out your request. We may also share personal information with third party vendors, consultants and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site and the Services and who need access to such information to carry out their work for us, such as payment processors and hosting services. However, we are not responsible for the actions of such Service Providers, nor are we responsible for any additional information you provide directly to these Service Providers or to other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. We may also share personal information in any manner with any company that owns, is owned by or which is under common ownership with us (collectively "Affiliates"), who may use such information in the same way that we do (as described above). Note that nothing in this Policy restricts the sharing of aggregate information, which may be shared with third parties without your consent.
 
+You understand that if you post an advertisement to the Site, certain information you post on the Site will be publicly available and will be shared with other users of the Site. Your use of the Site and the Services constitutes your consent to share this information in such manner and all such sharing of information is done at your own risk. Please keep in mind that if you directly disclose personal information when posting listings or other information or content to the Site, this information may become publicly available.
+
+In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of DataSphere, our users, our employees or the public, including without limitation to protect DataSphere or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of DataSphere. In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of DataSphere, our users, our employees or the public, including without limitation to protect DataSphere or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of DataSphere.
+
+### WHAT STEPS DO WE TAKE TO PROTECT PERSONAL INFORMATION ONLINE?
+
+You may opt out of our using your personal information to send promotional and marketing emails about our or a third party's products, services, promotions or events by sending an email to [support@DataSphere.com](mailto:support@DataSphere.com). However, this shall not affect our ability to send you emails or other communications for other purposes as described in this Policy.
+
+### HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION, DELETE YOUR ACCOUNT OR OBTAIN ADDITIONAL INFORMATION?
+
+If you wish to correct, update or otherwise modify the data associated with your account, or if you have any questions about this Policy, please email us at [support@DataSphere.com](mailto:support@DataSphere.com).
+
+### CHILDREN’S PRIVACY
+
+The Site is not directed at nor targeted to children under the age of 13. We do not use the Site to knowingly solicit personal information from or market to children under the age of 13. If you are under the age of 13, do not provide us with any personal information. If we learn that someone under 13 has provided personal information to the Site, we will use reasonable efforts to remove such information from our databases.
+
+### DIGITAL MILLENNIUM COPYRIGHT ACT NOTICE
+
+DataSphere does not knowingly publish (or permit individuals to publish) copyrighted materials without permission. If you believe that any material published on the Site or the Services has been used in a way that constitutes copyright infringement and if you are authorized to act on behalf of the owner of the copyright that is allegedly infringed, please notify our Copyright Agent of any alleged infringement. Your notice to our Copyright Agent should be in the form of a written, signed statement containing the following information:
+
+  * a description of the infringing material
+  * a description of the copyrighted work(s) that you believe has been infringed;
+  * the name of the owner of the copyright,
+  * your name,
+  * your address, telephone number and/or email address,
+  * a statement that you have a good faith belief that the allegedly infringing use was not authorized by the owner, an agent for the owner, or by law,
+  * a statement that all of the information you have provided is true, and
+  * a statement, made under penalty of perjury, that you are the owner of the copyright or are authorized to act on behalf of the owner.
+
+
+
+Your statement must be sent to us by U.S. mail, fax, or e-mail (preferably by e-mail), addressed as follows:
+
+DataSphere Technologies, Inc.  
+Attn: TangoLaw (DMCA Copyright Agent for DataSphere)  
+Mailing address: 93 South Jackson Street, #85485, Seattle, WA 98104  
+Fax: 206.219.6416  
+E-mail: doug@tangolaw.com  
+
+
+### THIRD PARTY SERVICES PRIVACY POLICIES
+
+[Open Street Maps via mapquest](http://privacy.aol.com/)
+
+####
+
+Effective Date of this Policy: January 31, 2013
