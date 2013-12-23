@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatsthewordanswers.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608235923id_/http%3A//www.whatsthewordanswers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsthewordanswers.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223072058id_/http%3A//www.whatsthewordanswers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | What's The Word Answers | What's The Word Cheats
+# Privacy Policy | What's The Word Answers | Whats The Word Cheats
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@whatsthewordanswers.com.
 
