@@ -1,44 +1,33 @@
-> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329190139id_/http%3A//www.anytimecostumes.com/ecommerce/control/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimecostumes.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223173859id_/http%3A//www.anytimecostumes.com/privacy-security.html) for the most accurate reproduction.*
 
-# Halloween Costumes for Adults & Kids Since 1954 - Anytime Costumes
+# Halloween Costumes For Adults & Kids from Anytime Costumes
 
-**Safety & Privacy**
+At anytimecostumes.com we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy & Security Policy. This will give you a summary of how information is collected from you and how it is used. 
 
-AnytimeCostumes.com, Inc. is committed to protecting the privacy of our customers and using this information responsibly. Please read below for detailed information about our privacy policy.
+### Your Personal and Payment Information is Safe
 
-**How Do We Not Use Your Information**
+Whenever you provide any personal or payment information (e.g., when making a purchase), we use SSL technology to make sure that it is "encrypted" (all scrambled up) so that no one else can read it while it is being transmitted over the Internet, and all information is safely stored behind our firewall. 
 
-Our site uses an order and registration form so you can request products or information. Contact information (email address, telephone number, address, etc.) from the order form will NEVER be sold, rented, traded or even given away. We respect your privacy. The information you provide to us is STRICTLY CONFIDENTIAL. 
+### Information Collected
 
-**How We Use this Information**
+When you shop on our site, we collect personal information from you such as your name, e-mail address, billing address, shipping address, telephone number and product selections so that you can order products from us. All Credit Card information is stored in our database in an encrypted format, behind a secured, hacker-proof firewall. For your security, the complete credit card number will never be made available to view. Encrypted Credit Card information is stored for the sole purpose of expediting the checkout process for future purchases. We may also collect IP address, domain types (e.g. .com or .org, etc.), your browser type, the country, state and the pages of our site and the length of time of your visit during your visit. 
 
-Contact information (email address, telephone number, address, etc.) from the order form is used to send your order and information about our company to you. Your contact information is also used to get in touch with you when necessary. Financial information (credit card numbers, credit card expiration dates, billing address, etc.) that is collected is used to bill you for products and services.
+### How Information is Used
 
-**IP Address & Cookies**
+We do not sell or rent your personal information to others. We use customer information we collect only for the purposes of filling orders, contacting purchasers to inform them of their order status, sending promotional information, enhancing the operation of our site, statistical purposes and to administer our systems. 
 
-We may use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address also may be used to gather broad demographic information and to recognize customer traffic patterns and site usage. This information aids us in merchandising and in developing the design and layout of the site. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser. They make it possible for us to recognize your browser when you visit. By doing this, we can personalize your return visits and save you time during checkout. In order to enjoy the benefits of being a registered user, your browser must be set to accept cookies. We may also collect and share information about the pages that you visit on our site, but this information is not personally identifiable
+### Opt Out of Email Savings Promotions
 
-**How Your Information is Stored**
+When checking out, you can opt out of email promotions. Also, every email will have a link to unsubscribe from future email offers.
 
-This site uses a secure server (SSL) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
+### Company Address
 
-**Your Agreement**
+**Anytime Costumes**  
+40 Queens St #792  
+Syossett, NY 11791  
+877-546-2757  
+[customerservice@anytimecostumes.com](mailto:customerservice@anytimecostumes.com)
 
-By using our Web site or purchasing a product from us, you agree to the collection and use of information as set forth in this privacy policy. We may from time to time update this policy. We will post any changes to our policy on this page so that you are always aware of what information we collect and how we use it.
+### Cookies
 
-**Contact Us**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please contact:
-
-**Customer Service**
-
-AnytimeCostumes.com, Inc.  
-[http://www.anytimecostumes.com](http://www.anytimecostumes.com/)  
-200 13th Avenue - Unit 12  
-Ronkonkoma, NY 11779  
-Phone: (631) 737-5008  
-Email: [customer.service@anytimecostumes.com](mailto:customer.service@anytimecostumes.com)
-
-**Quality and Customer Experience**
-
-AnytimeCostumes.com, Inc. is committed to quality customer experience. We are constantly reviewing your feedback to improve and enhance your shopping experience. You can tell us what you think by sending us an email or contacting our customer care department toll-free at 1-877-546-2757. 
+We use cookies only to help identify you when you visit our store and to customize your experience. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without your browser set to accept cookies. 
