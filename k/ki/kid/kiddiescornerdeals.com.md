@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiddiescornerdeals.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623210148id_/http%3A//kiddiescornerdeals.com/2010/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddiescornerdeals.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223031529id_/http%3A//kiddiescornerdeals.com/2010/01/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,16 +30,13 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-Powered By [DT Author Box](http://www.digitaltweaker.com/web/wordpress/2012/04/digital-tweakers-author-box-plugin-for-wordpress "Digital Tweaker WordPress Author Box Plugin")
+The following two tabs change content below.
 
-Nichol is a WAHM of two children, a son who is 9 and a daughter who is 5. She knows kids are expensive but shopping for them doesn’t have to be. That is why she features baby and kids deals and coupons for toys, clothing, baby gear and more. She enjoys giving her honest opinions on products and featuring new toys.
+  * Bio
+  * Latest Posts
 
-[Author’s Website](http://kiddiescornerdeals.com/)
 
-[Follow this author on Twitter](http://twitter.com/KiddiesCorner "Follow Nichol on Twitter")
 
-[](http://www.digitaltweaker.com/ "Digital Tweaker | Your source for tech news, tutorials, and downloads")
-
-[](http://www.shareasale.com/r.cfm?b=480378&u=336414&m=37350&urllink=&afftrack=)
+Nichol is a WAHM of two children, a son who is 11 and a daughter who is 6. She enjoys sharing baby & kids online shopping deals so parents can save money. Fitness and health food addicted.
