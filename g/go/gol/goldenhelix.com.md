@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429172019id_/http%3A//www.goldenhelix.com/Company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223091520id_/http%3A//www.goldenhelix.com/Company/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ## Security Notice 
 
-  * The goldenhelix.com website is provided as a customer service by Golden Helix, Inc. 
+  * The goldenhelix.com website is provided as a customer service by the **Golden Helix ® ** bioinformatics company
   * Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
   * Your use of this system is subject to monitoring at all times. For site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
@@ -47,4 +47,4 @@ We do not sell, rent or lease your personal information to others. Golden Helix 
 
 ## Contact Us 
 
-Golden Helix welcomes your suggestions that we may use to make our web site easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [**contact us**.](https://web.archive.org/web/20130429172019id_/http%3A//www.goldenhelix.com/Company/contact.html)
+Golden Helix welcomes your suggestions that we may use to make our web site easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [**contact us**.](https://web.archive.org/web/20131223091520id_/http%3A//www.goldenhelix.com/Company/contact.html)
