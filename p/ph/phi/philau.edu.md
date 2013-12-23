@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philau.edu privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623210709id_/http%3A//www.philau.edu/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philau.edu privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223174140id_/http%3A//www.philau.edu/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Philadelphia University | About Privacy Policy
 
