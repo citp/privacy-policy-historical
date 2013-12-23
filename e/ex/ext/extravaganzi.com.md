@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extravaganzi.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623023754id_/http%3A//www.extravaganzi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extravaganzi.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223024441id_/http%3A//www.extravaganzi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — eXtravaganzi
 
