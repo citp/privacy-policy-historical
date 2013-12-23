@@ -1,73 +1,65 @@
-> *The following text is extracted and transformed from the t3leads.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055529id_/http%3A//t3leads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t3leads.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223013441id_/http%3A//t3leads.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# T3Leads :: Security & Privacy
+# T3leads Privacy Policy | T3leads
 
-**_T3LEADS™ WEBSITE PRIVACY POLICY_**       Last Updated: November 20.2008  
+**Last Updated: April 12, 2013**
 
+Thank you for visiting the T3Leads website located at www.t3leads.com (the "Site"). The Site is an Internet property of D and D Marketing, Inc. ("T3Leads," "we" or "us"). T3Leads is committed to protecting the privacy of our visitors` personally identifiable information. We provide this privacy policy ("Privacy Policy") in order to explain our online information practices and the choices you can make about the way your information is used by us. This Privacy Policy applies to any and all information submitted or collected on this Site. You agree to this Privacy Policy, in its entirety, when you: (a) access or use our Site; and/or (b) register on the Site to participate in the T3Leads Network ("Network") as an Advertiser and/or Affiliate. If you do not agree to this Privacy Policy in its entirety, you are not authorized to become an Affiliate or Advertiser ("Network Member") and/or use the Site in any manner or form whatsoever.
 
-[](http://www.truste.org/ivalidate.php?url=www.t3leads.com&sealid=101)Thank you for visiting the T3Leads™ website located at www.t3leads.com (the “Site”).  The Site is an Internet property of D and D Marketing, Inc. (“T3Leads™,” “we” or “us”).  T3Leads™ is committed to protecting the privacy of our visitors’ personally identifiable information.  We provide this privacy policy (“Privacy Policy”) in order to explain our online information practices and the choices you can make about the way your information is used by us.  You agree to this Privacy Policy, in its entirety, when you: (a) access or use our Site; and/or (b) register on the Site to participate on the T3Leads™ Network (“Network”) as an Advertiser and/or Affiliate (as those terms are defined in the T3Leads™ Terms and Conditions).  If you do not agree to this Privacy Policy in its entirety, you are not authorized to obtain become an Affiliate or Advertiser (“Network Member”) and/or use the Site in any manner or form whatsoever. 
+### Personally Identifiable Information
 
-D and D Marketing, Inc is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world.  As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.  
-If you have questions or concerns regarding this statement, you should first contact us at admin@t3leads.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Some of the information you must provide to register as a Network Member or otherwise choose to provide to T3Leads is Personally Identifiable Information. Personally Identifiable Information is unique data about an individual used for identification and communication purposes. Personally Identifiable Information may include—without limitation—name, birth date, home and/or mobile telephone numbers, personal email address, and mailing and/or home address.
 
-**Personally Identifiable Information**
+### Non-Personally Identifiable Information
 
-We collect Personally Identifiable Information (“PII”) on the Site when you attempt to register as a Network Member or otherwise choose to provide PII to us.  PII is any information that can be used to identify or locate a particular person or entity.  This may include, but is not limited to: your full name, e-mail address, mailing address, daytime and/or cellular telephone numbers, or any other information requested on the applicable form. 
+Some information you must provide, or which may be collected by virtue of your access to and/or use of this Site, may include non-Personally Identifiable Information. Non-Personally Identifiable Information may include—without limitation—Internet Protocol address, browser type, operating system type, and Internet Service Provider.
 
-**Non-Personally Identifiable Information**
+### Cookies
 
-We may collect certain Non-Personally Identifiable Information (“Non-PII”) about you when you visit many of the Site’s pages, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows ‘98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).  We use the Non-PII that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience.  We also may use this information in the aggregate to analyze Site usage. 
+This Site employs the use of Cookies to enhance your user experience. Cookies are data sent to your computer when you visit a website. Cookies allow this Site to recognize your browser and store your preferences. Cookies help T3Leads analyze traffic on this Site to better understand visitor behavior and other activity. Cookies, by themselves, do not provide T3Leads with your Personally Identifiable Information. You can disable cookies through your Internet browser. However, if you disable Cookies, you may not be able to access or use certain features of this Site or T3Leads` services. T3Leads has no access to or control over third party Cookies technology.
 
-**Cookies**
+### Use of Information
 
-To enhance your experience with the Site, we use “cookies.”  Cookies are used by your computer’s browser to store your preferences.  Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information.  We use cookies to understand Site usage and to improve the content and offerings on the Site. You can disable cookies through your Internet browser.  If you set your browser not to accept cookies, you will still be able to use the Site. To find out more about cookies, please visit www.cookiecentral.com.
+Subject to all applicable laws, rules, and regulations, we may use any and all information submitted or collected on this Site to: (a) send you T3Leads updates; (b) share with you related products and services in which you might be interested ("E-mail Offers"); (c) contact you regarding your participation as a Network Member; (d) prevent fraud. We may also use any and all information submitted or collected on this Site for purposes for which you have given your consent, or as may otherwise be permitted by applicable laws, rules, and regulations.
 
-**Use of Information**
+### Sharing of Information
 
-We use your PII to send you the information regarding T3Leads™.  We may also use your PII to send you email messages featuring various products and services that may be of interest to you (“Email Offers”).  Your contact information may also be used to reach you, when necessary, regarding issues concerning your participation as a Network Member in the Network.   
+As a general rule, and other than in connection with the limited exceptions set forth below, T3Leads will not sell, share, or rent your Personally Identifiable Information to or with others. Notwithstanding the foregoing, T3Leads may, from time to time, provide information submitted or collected on this Site to certain third-party administrative vendors for various reasons including, without limitation, billing, delivery, and payments. Any and all such third-party vendors are bound by contract to maintain the security and integrity of your Personally Identifiable Information.
 
-**Information Sharing**
+T3Leads reserves the right to share information submitted or collected on this Site : (a) where required by law, warrant, subpoena, or legal process; or where requested by a court of competent jurisdiction, governmental authority, or quasi-governmental authority; (b) in the event of T3Leads` bankruptcy, or if T3Leads is sold or acquired; (c) where you are, or are suspected to be, in violation of this Privacy Policy, the T3Leads Terms and Conditions, the T3Leads Advertiser Agreement, and/or the T3Leads Affiliate Agreement; (d) to prevent, address, or remedy fraud, security, or technical issues, which necessarily may include - without limitation - the exchange of such information with trusted third parties for fraud prevention purposes; (e) to improve the design and content of this Site; or, (f) where T3Leads determines such disclosure is necessary to protect the rights of T3Leads or a third party, or to shield T3Leads from liability of any kind.
 
-As a general rule, and other than in connection with the limited exceptions set forth below, T3Leads™ will not sell, share or rent your PII to or with others.  Notwithstanding the foregoing, T3Leads™ may, from time to time, provide such information to certain third-party administrative vendors for efficiency purposes in providing administrative or program management services in connection with your participation in the Network such as billing, delivery and payouts.  Any third-party vendor so used has agreed to protect the confidentiality of information provided by T3Leads™.   
-Further, T3Leads™ reserves the right to share your PII: (a) where required by law, warrant, subpoena, legal process or requested by a court of competent jurisdiction; (b) in the event of T3Leads’™ bankruptcy, or if T3Leads™ is sold or acquired; (c) where you are in violation of this Privacy Policy, the T3Leads Terms and Conditions, the T3Leads Advertiser Agreement and/or the T3Leads Affiliate Agreement; or (d) where T3Leads™ determines, in its sole discretion, that such disclosure is necessary to protect the rights of T3Leads™ and/or a third party, or necessary to protect T3Leads™ from liability of any kind. The aforementioned includes exchanging information with other companies and organizations for fraud protection. 
+### Security of Information
 
-**Third Party Links**
+T3Leads employs a series of physical and electronic security measures and procedures to safeguard the security and integrity of your personal information from unauthorized access, use, destruction, or disclosure—both online and offline. By way of example and without limiting the generality of the foregoing, T3Leads has managerial security measures in place wherein access to and use of your personal information is limited. As for technical security measures, T3Leads secures data transmission with Secure Socket Layer (SSL) encryption software, limits access to data storage with password protection, and stores data on secure servers and computers.
 
-The Site may contain links to third-party websites (“Third Party Sites”).  Please be aware that T3Leads™ is not responsible for the privacy practices of Third Party Sites.  We encourage you to be aware when you leave the Site and to read the privacy policies of each and every website that collects PII.  This Privacy Policy applies solely to information collected by the Site.  
-**Minors**   
-We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.  T3Leads™ will never knowingly collect any personal information about children under the age of eighteen (18).  If T3Leads™ obtains actual knowledge that it has collected personal information about a child under the age of eighteen (18), that information will be immediately deleted from its database.   
+Please be advised that, although T3Leads takes all reasonable precautions to protect your data, no data storage or data transmission security is guaranteed. Accordingly, T3Leads cannot, and does not, represent, warrant, or guarantee the complete security of any data storage or data transmission. You agree that your access to and use of this Site and your use of T3Leads` services—which necessarily includes data storage and data transmission—are done at your own risk.
 
-**Security**   
-We endeavor to safeguard and protect our users’ information.  When users submit PII at the Site, their PII is protected both online and offline.  When our registration process asks users to submit sensitive PII (such as credit card numbers), and when we transmit such sensitive PII, that PII is encrypted and is protected with SSL encryption software.  While we use SSL encryption to protect sensitive PII online, we protect all other user information online and offline.  The servers that we store PII in are kept in a secure physical environment.  We have security measures in place to protect the loss, misuse and alteration of PII under our control.  Please be advised that, although we take every reasonable precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure.  Therefore, we cannot warrant that your PII will be absolutely secure.  Any transmission of data at or through our Site is at your own risk.  However, access to your PII is strictly limited, and not accessible to the public.  All of our users’ PII, not just the sensitive PII mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job are granted access to PII.  Our employees are dedicated to ensuring the security and privacy of all user PII.  Employees not adhering to our firm policies are subject to disciplinary action.  In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your PII.  You will be notified via e-mail in the event of such a breach.  Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.  
-**Deleting and Updating Your Information**
+In the event of any known data security breach with respect to your Personally Identifiable Information, T3Leads will notify you and relevant regulatory agencies as may be required by applicable law. Such notice to you may be in the form of e-mail. Please be advised that notice to you may be delayed to address the needs of law enforcement, to determine the scope of the breach, and/or to employ certain remedial measures.
 
-If you would like to delete or update the PII that we have collected from you, simply send your request via certified mail to D and D Marketing, Inc., 14900 Ventura Blvd, Suite 210, Sherman Oaks, CA, 91403. You may also send your request via e-mail to admin@t3leads.com. 
+### Access to Personally Identifiable Information
 
-We will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt.  To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+T3Leads retains the submitted or collected on this Site as needed to perform T3Leads` services, to comply with legal obligations, to resolve disputes, and to enforce agreements. If you wish to update or delete your Personally Identifiable Information, you may communicate your desire to do so to T3Leads via certified mail to 16350 Ventura Blvd., Suite D #821, Encino, CA 91436; or via e-mail to admin@t3leads.com.
 
-**Opting Out of Receiving E-mail**
+### Unsubscribing from E-mail Offers
 
-You may at any time choose to stop receiving Email Offers by following the instructions at the end of each such Email Offer or by contacting us at admin@t3leads.com.  Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your participation in the Network, general information regarding T3Leads™, as well as to respond to any inquiry or request made by you. ****
+You may choose to unsubscribe from receipt of E-mail Offers at any time. To do so, you must follow the instruction to unsubscribe at the bottom of any such E-mail Offer or contact T3Leads directly expressing your desire to unsubscribe via certified mail to 16350 Ventura Blvd., Suite D #821, Encino, CA, 91436; or via e-mail to admin@t3leads.com. All requests to unsubscribe from receipt of such E-Mail Offers from T3Leads are added to T3Leads` Do-Not-Contact list within ten (10) days of receipt. Please be advised you cannot unsubscribe from T3Leads updates, or e-mails regarding your participation as a Network Member.
 
-**Notification of Changes**
+### Third Party Links
 
-T3Leads™ reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the homepage of www.t3leads.com explaining that we are changing our Privacy Policy. 
+The Site may contain links to third party websites ("Third Party Sites"). Please be advised T3Leads is not responsible for the privacy policies and practices of such Third Party Sites, and this Privacy Policy does not apply to your access to and/or use of such Third Party Websites and/or third party products or services. This Privacy Policy applies solely to information collected by T3Leads. You are encouraged to exercise care when following third party links away from this Site, and to read the privacy policy of any such Third Party Site that collects Personally Identifiable Information. T3Leads is not liable for your access to and use of such Third Party Sites, and your access to and use of such Third Party Sites are done at your own risk.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+### Children`s Privacy
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+This Site is a general audience website and is not specifically designed for or targeted to children. You must be eighteen (18) years of age or older to become a Network Member. T3Leads does not knowingly collect, use, or share any Personally Identifiable Information from children under the age of eighteen (18). If T3Leads becomes aware that Personally Identifiable Information regarding a child under the age of eighteen (18) has been inadvertently collected at this Site, T3Leads will make reasonable efforts to delete it from T3Leads`s records.
 
-**Contact Us**
+### Notification of Changes
 
-If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [admin@t3leads.com](mailto:admin@t3leads.com)
+T3Leads reserves the right to modify this Privacy Policy or any additional terms that apply to this Site or T3Leads` services. T3Leads will post notice of any such modifications to this Privacy Policy and any additional terms that apply to this Site or T3Leads` services in a clear and conspicuous manner to this Privacy Policy, the T3Leads homepage, and any other place T3Leads may deem appropriate. Any such modifications shall take effect immediately. If you do not agree to any such modified terms, please do not use this Site or T3Leads` services. Your continued use of this Site following notification from T3Leads of any such modifications constitutes your acceptance of any and all such changes in their entirety.
 
-**D   and D MARKETING, INC**  
-14900 Ventura Blvd, Suite 210   
-Sherman Oaks, CA, 91403
+### Headings
 
-**PHONE NUMBERS:**  
-1-877-77-T3LEADS  
-1-877-778-3532
+The headings for sections contained herein are for convenience only and shall not affect the meaning of the provisions of this Privacy Policy.
 
-**FAX NUMBER:**  
-1-818-728 - 1364
+### T3Leads` Contact Information
+
+Comments, questions, or concerns about this Privacy Policy or T3Leads` privacy practices may be directed to T3Leads via certified mail to 16350 Ventura Blvd., Suite D #821, Encino, CA 91436; or via email at admin@t3leads.com.
