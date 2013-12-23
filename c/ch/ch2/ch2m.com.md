@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504165422id_/http%3A//www.ch2m.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ch2m.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223014719id_/http%3A//www.ch2m.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
 
 # CH2M HILL - Privacy Policy
 
@@ -20,4 +20,4 @@ A "cookie" is a piece of data that an Internet Web site transfers, via your brow
 
 Please note that this CH2M HILL Internet Web site contains hyperlinks to other non-CH2M HILL Internet Web sites and CH2M HILL does not control or monitor the privacy policies of those sites.
 
-This CH2M HILL Privacy Statement only applies to information collected and maintained by CH2M HILL. CH2M HILL reserves the right to modify this Privacy Statement at any time by updating this Privacy Statement Web page. This Privacy Statement was last updated on January 21, 2010. Questions regarding this policy statement should be directed to: [stuart.crenshaw@ch2m.com](mailto:stuart.crenshaw@ch2m.com).
+This CH2M HILL Privacy Statement only applies to information collected and maintained by CH2M HILL. CH2M HILL reserves the right to modify this Privacy Statement at any time by updating this Privacy Statement Web page. This Privacy Statement was last updated on January 21, 2010. Questions regarding this policy statement should be directed to: [William.Brierly@ch2m.com](mailto:William.Brierly@ch2m.com). 
