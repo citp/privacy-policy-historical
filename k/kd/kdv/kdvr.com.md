@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdvr.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503030949id_/http%3A//kdvr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdvr.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223171731id_/http%3A//kdvr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KDVR.com
 
@@ -12,8 +12,8 @@ Any inquiries about this Policy should be directed to:
 
 KDVR Television  
 Attn: Webmaster – Privacy Policy  
-3030 Summit  
-Kansas City, MO 64108  
+100 East Speer Blvd  
+Denver, CO 80203  
 Email: webmaster@kdvr.com
 
 This Policy is incorporated by reference into the Terms and Conditions of Use Agreement to which you agreed upon entering the Site.
