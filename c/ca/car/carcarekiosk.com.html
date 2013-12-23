@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carcarekiosk.com privacy policy that was archived on 2013-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623021824id_/http%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carcarekiosk.com privacy policy that was archived on 2013-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224002251id_/http%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,7 +12,7 @@
 <!--[if lt IE 9]>
 <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://widget.uservoice.com/egJqG5uDMxZjb860kcJQgw.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/saux/jquery-1.8.3.min.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/saux/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="/saux/jquery-ui-1.10.2.custom.min.js"></script>
 <script type="text/javascript">
 function AjaxFormErrorHandler( FormID,data )
@@ -64,10 +64,10 @@ $(function() {
         hide: 'fade',
         close: function() {
             $('#dialog').html('');
-        }
+                   }
     });
     $('.opener').live('click',function() {
-        $('#dialog').load($(this).attr('href'));
+               $('#dialog').load($(this).attr('href'));
         $('#dialog').dialog('open');
         return false;
     });
@@ -83,6 +83,8 @@ $(function() {
         }
     });
     $('.openerWide').live('click',function() {
+    	$('video').hide();
+    	$('#holder').show();
         $('#dialogWide').load($(this).attr('href'));
         $('#dialogWide').dialog('open');
         return false;
@@ -127,6 +129,38 @@ _gaq.push(['_trackPageview']);
 </script>
 </head>
 <body>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '151770108258651',
+    channelUrl : '//www.carcarekiosk.com/channel.html',
+    status     : true,
+    cookie     : true,
+    xfbml      : true
+  });
+   FB.Event.subscribe('auth.authResponseChange', function(response) {
+    if (response.status === 'connected') {
+	  FB.api('/me', function(response) {
+	    $.post('http://www.carcarekiosk.com/aj/fb-signin',{'response':response},function() {
+	    	location.href = '/profile';
+	    });
+	  });
+    } else if (response.status === 'not_authorized') {
+      FB.login();
+    } else {
+      FB.login();
+    }
+  });
+   };
+  (function(d){
+   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+   if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   ref.parentNode.insertBefore(js, ref);
+  }(document));
+</script>
 <header><style type="text/css">
 @import url(http://www.google.com/cse/api/branding.css);
 .header-link {color:#959595; font-weight:bold}
@@ -136,7 +170,7 @@ _gaq.push(['_trackPageview']);
 </style>
 
 <div class="container" style="font:14px Arial; position:relative;">
-	<div style="position:absolute; left:10px; z-index:1000;"><img src="http://cck.cnvyr.com/timg/img/red-tab.png"></div>
+	<div style="position:absolute; left:10px; z-index:100;"><img src="http://cck.cnvyr.com/timg/img/red-tab.png"></div>
 	<div style="float:left; margin:8px 10px 8px 50px;" class="logo">
 		<a href="http://www.carcarekiosk.com/"><img src="http://cck.cnvyr.com/timg/img/logo.png"></a>
 	</div>
@@ -153,7 +187,7 @@ _gaq.push(['_trackPageview']);
 		</a>
 	</div>
 	<div style="float:left; margin:8px 20px;">
-		<a href="http://www.carcarekiosk.com/gear-guide/stop-leak" class="header-link" style="text-decoration:none;">
+		<a href="http://www.carcarekiosk.com/gear-guide/oil" class="header-link" style="text-decoration:none;">
 			<span style="margin-right:5px;">Gear Guide</span>
 			<img src="http://cck.cnvyr.com/timg/img/gear-guide.png" style="vertical-align:middle;">
 		</a>
@@ -168,7 +202,7 @@ _gaq.push(['_trackPageview']);
 			<img src="http://cck.cnvyr.com/timg/img/user-tab.png" style="vertical-align:middle;">
 		</a>
 	</div>
-   	<div id="SearchBox" class="cse-branding-bottom" style="display:none; background-color:#000000; color:#FFFFFF; position:absolute; width:420px; top:38px; right:0px; padding:10px;">
+   	<div id="SearchBox" class="cse-branding-bottom" style="display:none; background-color:#000000; color:#FFFFFF; position:absolute; width:420px; top:38px; right:0px; padding:10px; z-index:100;">
 		<div class="cse-branding-form">
 	    <form action="http://www.carcarekiosk.com/search" id="cse-search-box">
 			<div>
@@ -197,7 +231,7 @@ _gaq.push(['_trackPageview']);
 		<a href="" style="color:#336699; text-decoration:none;">Home</a> &gt; Privacy
 	</div>
 	<p><strong>PRIVACY POLICY</strong></p>
-	<p><strong>Updated: May 27, 2011</strong></p>
+	<p><strong>Updated: November 29, 2013</strong></p>
 	<br>
 	<p>Flatsix, LLC ("CarCareKiosk", "we", "our" or "us") understands that you care how information about you is gathered, used and shared. This Privacy Policy describes how the information collected when you use carcarekiosk.com and related services (the "Service") will be used and how you can control the collection, correction and deletion of information. Questions regarding this policy should be directed to info "at" carcarekiosk.com.</p>
 	<br>
@@ -224,6 +258,8 @@ _gaq.push(['_trackPageview']);
 	<p>When you create an account on our Service, some information about your account and your account activity are provided to other users of the Service. This may include the date you created your account, your member name, the videos you submitted, comments and updates you submitted, your name, location, expertise, certifications, interests and favorite car. Should you choose to submit information about your shop to carcarekiosk.com, we may display your shop name, address and description, the hours, makes, specialties, amenities offered, affiliations, labor rates and hours of operation.</p>
 	<br>
 	<p>Your carcarekiosk.com user name, not your email address, is displayed to other users of the site when you submit content. Content submitted to our Service may be distributed through the internet and other media and may be viewed by carcarekiosk.com users or the general public.</p>
+	<br>
+	<p>When you complete a referral form for vehicle service, we send your information to the mechanic or car dealership highlighted in the form.  By clicking the "submit" button, you are agreeing to have a mechanic or car dealer contact you for the purpose of responding to your vehicle service quote request.  You understand that the dealer’s call may be using an autodialer, and that a portion of the call may be pre-recorded.</p>
 	<br>
 	<p><strong>DISCLOSURE OF YOUR INFORMATION</strong></p>
 	<br>
@@ -294,13 +330,5 @@ qacct:"p-31xMAh1UEGV-s"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
-<script type="text/javascript">
-  var uvOptions = {};
-  (function() {
-    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/egJqG5uDMxZjb860kcJQgw.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-  })();
-</script>
 
 <div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-draggable" tabindex="-1" role="dialog" aria-describedby="dialog" aria-labelledby="ui-id-1" style="display: none;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">&nbsp;</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="dialog" class="ui-dialog-content ui-widget-content"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-draggable" tabindex="-1" role="dialog" aria-describedby="dialogWide" aria-labelledby="ui-id-2" style="display: none;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-2" class="ui-dialog-title">&nbsp;</span><button class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="dialogWide" class="ui-dialog-content ui-widget-content"></div></div></body></html>
