@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jajah.com privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624022104id_/http%3A//jajah.com/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jajah.com privacy policy that was archived on 2013-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223070543id_/http%3A//www.jajah.com/policy/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8">
@@ -26,16 +26,62 @@ function $ev(o){try{return"undefined"!=typeof eval(o);}catch(ex){return false;}}
 function ExecNRet(f){f();return f;}
 try{if(top.location.host!=self.location.host){throw "x";}}catch(ex){window.open(location.protocol+"//"+location.host,"_top")}
 /* ]]> */
+var shutdownExpanded = false;
+function toggleShutdownNotice() {
+	// var header=document.getElementById("header"); 
+	// var nav=document.getElementById("mainnav"); 
+
+	var notice=document.getElementById("shutdown-notice"); 
+	var expanded=document.getElementById("shutdown-expanded");
+	var expandLink=document.getElementById("expand-notice");
+	var collapseLink=document.getElementById("collapse-notice");
+
+	// var origHeight = notice.clientHeight
+	// expanded.style.display="inline";
+	// var diffHeight = notice.clientHeight - origHeight;
+	
+	// header.style.height = parseFloat(getStyle(header, "height")) + diffHeight + "px";
+	// nav.style.top = parseFloat(getStyle(header, "top")) + diffHeight + "px";
+	
+	if(shutdownExpanded)
+	{
+		expanded.style.display="none";
+		expandLink.style.display="inline";
+		collapseLink.style.display="none";
+	}
+	else
+	{
+		expanded.style.display="inline";
+		expandLink.style.display="none";
+		collapseLink.style.display="block";
+	}
+	
+	shutdownExpanded = !shutdownExpanded;
+	
+}
+
+function getStyle(el, cssprop){
+ if (el.currentStyle) //IE
+  return el.currentStyle[cssprop]
+ else if (document.defaultView && document.defaultView.getComputedStyle) //Firefox
+  return document.defaultView.getComputedStyle(el, "")[cssprop]
+ else //try and get inline style
+  return el.style[cssprop]
+}
 </script>
 <link id="ctl00_ctl00_CssLink" rel="stylesheet" type="text/css" href="/styles/jajah.v1725-7.css">
 <!--[if lt IE 8]>
 <link id="ctl00_ctl00_IeCssLink" rel="stylesheet" type="text/css" href="/styles/jajah-ie.v1725-7.css" />
 <![endif]-->
+
+<style>
+	#shutdown-notice a {color:white}
+</style>
 <title>
 	JAJAH IP Telephony Platform / Low-Cost International Calls
 </title><script id="GA" src="http://www.google-analytics.com/ga.js" type="text/javascript"></script></head>
 <body>
-<script type="text/javascript">var $sid='ca9c6af6-e378-4ec8-ad21-655fe55f0c10';</script>
+<script type="text/javascript">var $sid='07fa2f74-4a91-409a-bef2-8c84b5570614';</script>
 <div id="page">
  <form name="aspnetForm" method="post" action="index.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWBGYPZBYEAgIPFgIeBGhyZWYFGS9zdHlsZXMvamFqYWgudjE3MjUtNy5jc3NkAgQPFgIfAAUcL3N0eWxlcy9qYWphaC1pZS52MTcyNS03LmNzc2QCAQ9kFgRmD2QWAmYPFgIeB1Zpc2libGVoZAIGD2QWAgICDxYCHwFoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUxY3RsMDAkY3RsMDAkTG9naW5Cb3hSaWdodCRMb2dpbkJveCRQZXJtYW5lbnRMb2dpbg==">
@@ -43,8 +89,24 @@ try{if(top.location.host!=self.location.host){throw "x";}}catch(ex){window.open(
 
 <script src="/WebResource.axd?d=LZ_O5tBwy-zNS1ynb0rZl7KNX4yh1USuQiRGoJ4ou9FCCTPmqW4shRfxgDN7mGXNPu7JW7_127uO5yTsF4CGlg2&amp;t=633956959640682758" type="text/javascript"></script>
   <div id="header">
+	<!-- JAJAH.COM SHUTDOWN -->
+<div id="shutdown-notice" style="margin: 0 90px 0 150px; background: rgb(167, 0, 0); padding: 4px; color: white; position: absolute; z-index:10000;top: -10px;font-size: 15.4px;width: 640px;">
+    <b>Service closure</b> - As of January 31, 2014, Jajah will no longer offer its services.
+	<div id="shutdown-expanded" style="display:none">
+		<br><br>This means that, as of January 31, 2014, you will no longer be able to make any calls through any of Jajah’s services, including the Jajah.com website and Jajah Direct. Registration of new accounts are no longer being accepted.<br><br>
+		
+		You will be able to continue using your account in the normal way until this date.<br>
+		Users who wish to apply for a refund of any balance remaining on their account prior to the service closing may do so by submitting a request at the support page, <a href="/support/contact">http://www.jajah.com/support/contact</a><br><br>
+		After requesting a refund, your request will be processed and account closed within 30 days. <br><br>For more details please review FAQs at <a href="/support/faq/">http://www.jajah.com/support/faq/</a><br><br>Jajah 200 West Evelyn Ave, Suite 120 Mountain View, CA 94041 USA<br><br>
+		<b>Note Regarding FCC Application to Discontinue Domestic Service</b><br><br>
+		The FCC will normally authorize this proposed discontinuance of service unless it is shown that customers would be unable to receive service or a reasonable substitute from another carrier or that the public convenience and necessity is otherwise adversely affected. If you wish to object, you should file your comments as soon as possible, but no later than 15 days after the Commission releases public notice of the proposed discontinuance. Address them to the Federal Communications Commission, Wireline Competition Bureau, Competition Policy Division, Washington, DC 20554, and include in your comments a reference to the § 63.71 Application of Telefonica Digital, Inc., d/b/a/ Jajah. Comments should include specific information about the impact of this proposed discontinuance upon you or your company, including any inability to acquire reasonable substitute service.<br>
+	</div>
+	<span id="expand-notice" style="margin:0 10px"><a href="javascript:toggleShutdownNotice()"><b>Read more...</b></a></span>
+	<span id="collapse-notice" style="margin-top:10px; display:none;"><a href="javascript:toggleShutdownNotice()"><b>Hide</b></a></span>
+   </div>
+   <!-- JAJAH.COM SHUTDOWN -->
    <div id="logo"><a href="/"><img src="/images/jajah-logo.gif" alt="Jajah"></a></div>
-   <div id="status">
+   <div id="status" style="top: 17px;">
     <div id="langselector" onclick="if('undefined'!=typeof LangMgr){LangMgr.Open()}" onmouseout="if('undefined'!=typeof LangMgr){LangMgr.MouseOut()}" onmouseover="if('undefined'!=typeof LangMgr){LangMgr.MouseOver()}">English<div id="langlist" style="display:none;"><a href="?l=en"><b>English</b></a><a href="?l=de"><b>Deutsch</b></a><a href="?l=fr"><b>Français</b></a><a href="?l=it"><b>Italiano</b></a><a href="?l=es"><b>Español</b></a><a href="?l=pt"><b>Português</b></a><a href="?l=nl"><b>Nederlands</b></a><a href="?l=pl"><b>Polski</b></a><a href="?l=zh"><b>中文</b></a><a href="?l=ja"><b>日本語</b></a><a href="?l=ko"><b>한글</b></a><a href="?l=hi"><b>हिंदी</b></a></div></div>
    </div>
    <div class="loggedout">
@@ -53,7 +115,7 @@ try{if(top.location.host!=self.location.host){throw "x";}}catch(ex){window.open(
  <td class="first" style="width:20%"><a href="/" title="Home"><span>Home</span></a></td>
  <td style="width:20%"><a href="/call/trial/" title=""><span>Get Started</span></a></td>
  <td style="width:20%"><a href="/products/" title="JAJAH Products"><span>Products</span></a></td>
- <td style="width:20%"><a href="/business/" title="Business"><span>Business</span></a></td>
+ <td style="width:20%"><a href="/shutdown/" title="Business"><span>Business</span></a></td>
  <td class="last" style="width:20%"><a href="/prices/" title="Pricing"><span>Pricing</span></a></td></tr></tbody></table><div class="footer"><span><b>&nbsp;</b></span></div>
    </div>
    
