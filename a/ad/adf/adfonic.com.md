@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfonic.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515003051id_/http%3A//adfonic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfonic.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223054026id_/https%3A//adfonic.com/privacy-policy) for the most accurate reproduction.*
 
 # | Adfonic
 
