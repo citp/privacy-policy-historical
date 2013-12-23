@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609105046id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223101040id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Candy Crush Cheats
+# Privacy Policy - Candy Crush Saga Cheats
 
 The Answers Network Privacy Policy
 
@@ -75,6 +75,8 @@ Specifically:
 • Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to Answers Network.
 
 • Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to Answers Network and/or to other sites on the Internet.
+
+• Google’s use of DoubleClick location data allows it and its partners to collect information derived from an end user’s GPS, wifi or cell tower data.
 
 • You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the ads preference manager.
 
