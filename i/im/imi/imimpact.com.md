@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imimpact.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030738id_/http%3A//imimpact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imimpact.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224153438id_/http%3A//imimpact.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IM Impact
+# Privacy Policy IM Impact
 
 **Privacy Policy for IM Impact  
 **
