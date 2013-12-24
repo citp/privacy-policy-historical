@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630065326id_/http%3A//www.marykay.com/en-US/Pages/MK-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marykay.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224052703id_/http%3A//www.marykay.com/en-US/Pages/MK-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Mary Kay Privacy Policy
 
