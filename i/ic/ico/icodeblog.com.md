@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icodeblog.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516160212id_/http%3A//www.icodeblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icodeblog.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224013630id_/http%3A//www.icodeblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iPhone Programming Tutorials
 
