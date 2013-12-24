@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkshare.co.uk privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518150311id_/http%3A//www.linkshare.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkshare.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224233716id_/http%3A//www.linkshare.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - LinkShare
 
