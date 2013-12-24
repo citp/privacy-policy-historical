@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nbcbirdandpest.co.uk privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420085715id_/http%3A//www.nbcbirdandpest.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcbirdandpest.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224062510id_/http%3A//www.nbcbirdandpest.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - for your safety - Bird & Pest Control Experts
 
-NBC BIRD AND PEST SOLUTIONS LTD WEBSITE PRIVACY POLICY
+BC BIRD AND PEST SOLUTIONS LTD WEBSITE PRIVACY POLICY
 
 ### 1\. General
 
-This website is owned and operated by NBC Bird and Pest Solutions Limited ("NBC" /"us"/ "our"/ "we") and accessible at URLs www.nbcbirdandpest.co.uk the controller of all personal data and/or sensitive personal data ("personal information") collected on this website ("Site").
+This website is owned and operated by NBC Bird and Pest Solutions Limited (“NBC” /”us”/ “our”/ “we”) and accessible at URLs www.nbcbirdandpest.co.uk the controller of all personal data and/or sensitive personal data (“personal information”) collected on this website (“Site”).
 
-We believe strongly in protecting the privacy of all Site users ("you"/ "your") and this privacy policy sets out how we use your personal information.
+We believe strongly in protecting the privacy of all Site users (“you”/ “your”) and this privacy policy sets out how we use your personal information.
 
-We are committed to protecting your privacy. We will only use the personal information that we collect about you in full compliance with the EU Data Protection Directive (95/46/EC) and subsidiary directives ("Directives"), as implemented in English law by the Data Protection Act 1998 and will continue to ensure that its policies and practices comply in all respects with any future laws and regulations in relation to your privacy.
+We are committed to protecting your privacy. We will only use the personal information that we collect about you in full compliance with the EU Data Protection Directive (95/46/EC) and subsidiary directives (“Directives”), as implemented in English law by the Data Protection Act 1998 and will continue to ensure that its policies and practices comply in all respects with any future laws and regulations in relation to your privacy.
 
 ### 2\. Your consent and acknowledgement
 
@@ -30,7 +30,7 @@ In order to provide you and other Site users with a personalised and valuable se
 
 We may ask you to provide us with information regarding your contact preferences in order to provide you with further correspondence about our products and services. You are not obliged to provide this information and you can opt out of this correspondence during registration or otherwise prior to submission of your details to us.
 
-We use Google Analytics to measure site usage and understand how our visitors engage with our website. Google Analytics collects information anonymously and it reports website trends without identifying individual visitors. Analytics uses its own set of cookies to track visitor interactions. These cookies are used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. For more information about Google's Privacy Policy and how Google uses cookies for Google Analytics please go to <http://www.google.com/policies/privacy/ads/#toc-analytics>
+We use Google Analytics to measure site usage and understand how our visitors engage with our website. Google Analytics collects information anonymously and it reports website trends without identifying individual visitors. Analytics uses its own set of cookies to track visitor interactions. These cookies are used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. For more information about Google’s Privacy Policy and how Google uses cookies for Google Analytics please go to <http://www.google.com/policies/privacy/ads/#toc-analytics>
 
 ## 4\. How do we use the personal information that we gather from you?
 
@@ -44,8 +44,8 @@ We will only collect record process and/or store on our databases personal infor
   2. to serve our legitimate business interests such as administration including internal record keeping, credit assessment marketing, prospective franchisee vetting or to comply with legal requirements; and/or
   3. in order that our representatives may by telephone or ordinary mail proactively follow up your enquires submitted to our Site about our products and services as part of our customer care procedures and/or reply to your e-mailed or otherwise voluntarily submitted questions enquiries and requirements that you may have; and/or
   4. in order that we may periodically send you promotional information about our products and/or services marketing information and news that we consider may be of interest to you (for example relating to our new product or service offerings or improvements or special offers or other promotions and offers): 
-    1. 1\. by e-mail or other electronic communication with your prior consent (eg, by 'opting in' via tick or otherwise); or
-    2. 2\. by ordinary post or other non-electronic communication unless you (on registration/submission of details or subsequently) 'opt out' via e-mail or by unticking an on-line tick box or by registering with the appropriate Preference Service
+    1. 1\. by e-mail or other electronic communication with your prior consent (eg, by ‘opting in’ via tick or otherwise); or
+    2. 2\. by ordinary post or other non-electronic communication unless you (on registration/submission of details or subsequently) ‘opt out’ via e-mail or by unticking an on-line tick box or by registering with the appropriate Preference Service
 
 
 
@@ -59,11 +59,11 @@ If at some time in the future we wish to use your personal information in ways o
 
 ### 5\. Sharing of personal information
 
-We may share personal information within the NBC network; by this expression, we mean NBC including together with its/their officers, employees, agents, distributors, consultants contractors (including data processing agencies ("processors")), suppliers and certain selected third party organisations and NBC Bird and Pest Solutions (Franchising) Limited licensees (" **NBC Network** "). The NBC Network will process your personal information in accordance with this privacy policy and all privacy and communications legislation.
+We may share personal information within the NBC network; by this expression, we mean NBC including together with its/their officers, employees, agents, distributors, consultants contractors (including data processing agencies (“processors”)), suppliers and certain selected third party organisations and NBC Bird and Pest Solutions (Franchising) Limited licensees (“ **NBC Network** “). The NBC Network will process your personal information in accordance with this privacy policy and all privacy and communications legislation.
 
 We will not share with or sell lease or otherwise distribute your personal information to any third party organisations outside of the NBC Network without first obtaining your permission to do so. In particular, we will not release your personal information to our authorised direct marketing agents without first obtaining your prior consent.
 
-We currently do not envisage transferring your personal information outside of the EEA. However, providing that we do so lawfully and for the sole purpose of fulfilling our contractual obligations to you you agree to our transferring personal information about you to any member or members of the NBC Network outside of the European Economic Area ("EEA"). You acknowledge that some countries where other facilities or companies or third party organisations are situated may have no data protection legislation or laws which are less rigorous than the legislation introduced by the member states of the European Union and the EEA. Accordingly, in the event that we need to transfer your personal information to any member or members of the NBC Network outside of the EEA for the sole purpose of fulfilling our contractual obligations with you you acknowledge and agree that we will use reasonable efforts to procure (but cannot guarantee) that such facilities companies or third party organisations give binding contractual undertakings in order to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area.
+We currently do not envisage transferring your personal information outside of the EEA. However, providing that we do so lawfully and for the sole purpose of fulfilling our contractual obligations to you you agree to our transferring personal information about you to any member or members of the NBC Network outside of the European Economic Area (“EEA”). You acknowledge that some countries where other facilities or companies or third party organisations are situated may have no data protection legislation or laws which are less rigorous than the legislation introduced by the member states of the European Union and the EEA. Accordingly, in the event that we need to transfer your personal information to any member or members of the NBC Network outside of the EEA for the sole purpose of fulfilling our contractual obligations with you you acknowledge and agree that we will use reasonable efforts to procure (but cannot guarantee) that such facilities companies or third party organisations give binding contractual undertakings in order to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area.
 
 Of course if we need your further specific and express consent to do this, we will obtain it before transferring any personal information.
 
@@ -75,13 +75,7 @@ Save for that stated above we do not transfer share or disclose personal informa
 
 If in the future a third party organisation acquires us or substantially all of our assets including without limitation our database(s) (whether by merger, acquisition, reorganisation or otherwise) you acknowledge and agree that your information including personal information may well be one of the transferred assets.
 
-### 6\. Cookies
-
-A cookie is an alphanumeric identifier which asks permission to be placed on your hard drive through your web browser when you visit our Site. Once you agree (or your browser agrees automatically if you have set it up in that way) it enables our own system to recognise you when you visit our Site to track the pages you looked at while visiting our Site and therefore to improve our Site and tailor the service to you. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store such as ours a cookie makes it easier to shop by allowing you to place things into a shopping basket; the basket itself is not a cookie; the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time. We only use this information for statistical analysis purposes and then the data is removed from the system. Denial of a traffic log cookie may prevent you from using the Site. Overall, cookies help us provide you with a better Site by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you other than the data you choose to share with us. This practice is strictly enforced. We know that people have concerns about cookies but we believe that the benefit that you and we gain from their proper use is worthwhile.
-
-You may set up your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely (although you acknowledge that declining them may prevent you from being able to use the Site properly or at all). You can delete the files that contain cookies - those files are stored as part of your Internet browser. To remove cookies from your web browser or to obtain further details on cookies including information on persistent and session cookies please go to [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies).
-
-### 7\. Protection of your personal information
+### 6\. Protection of your personal information
 
 The internet is not a secure medium and we cannot absolutely guarantee the security of your personal information as set out below. We will however use all reasonable efforts to protect the information you provide to us.
 
@@ -89,9 +83,9 @@ We will only provide access to personal information on you to those members of t
 
 Further our Site and associated databases are protected by certified firewalls in order to protect your personal information from access by unauthorised persons and against unlawful processing. The servers that we store personally identifiable information on are kept in a secure environment. The Site uses the latest technology with full backups. Password protection is provided for all registered users of this Site. All outgoing and incoming email is scanned for viruses.
 
-The NBC Network expects the same high standards of security and confidentiality of any processors agents or sub-contractors we use to process data for us. To help us keep your information confidential you are recommended to keep your password secret; change your password on a regular basis; and never distribute the URL's for pages that you have looked at while logged in as a registered customer.
+The NBC Network expects the same high standards of security and confidentiality of any processors agents or sub-contractors we use to process data for us. To help us keep your information confidential you are recommended to keep your password secret; change your password on a regular basis; and never distribute the URL’s for pages that you have looked at while logged in as a registered customer.
 
-### 8\. Your rights: Accessing, updating and retention of personal information
+### 7\. Your rights: Accessing, updating and retention of personal information
 
 We will employ effective procedures and safeguards to ensure that the personal information we hold on you are adequate relevant and not excessive in relation to the purposes for which they were obtained as well as accurate and up-to-date. Where you inform us of any inaccuracies in the personal information we hold we will correct and where appropriate delete incorrect personal information. Retention periods are in place to ensure that personal information are only stored whilst they are required for the purposes in question or to meet administrative legal and regulatory requirements. Where personal information are no longer required by us we will ensure that they are disposed of in a secure manner.
 
@@ -99,26 +93,22 @@ You have the qualified right to request sight of all the personal information we
 
 Where any discrepancies are discovered following your enquiry we will take immediate steps to validate and where appropriate correct our records to ensure that your personal information are accurate and kept up-to-date. We will confirm the actions taken in writing to you within an appropriate period of time in accordance with national legislation but in any event no more than forty (40) days after receiving your request to amend our records.
 
-### 9\. Links to third party websites
+### 8\. Links to third party websites
 
 The Site may from time to time include links to third party internet websites which are controlled and maintained by others. These links are included solely for your convenience and do not constitute any endorsement by us of the websites linked or referred to including the products and/or services featured on those websites, nor do we have any control over or knowledge of any privacy practices or content of any such websites. Further, we have not reviewed these third party websites and do not make any representations regarding the availability or content or accuracy of materials on such websites. If you decide to access third party websites through links on the Site, you do so at your own risk. Your use of third party websites is subject to any privacy policies of those websites which you should read immediately prior to submitting personal information to those websites
 
-### 10\. Changes to our privacy policy
+### 9\. Changes to our privacy policy
 
 We reserve the right at our sole discretion to add to or change the terms of this privacy policy. If we publish any changes we will let you know by posting such changes to this page and/or by posting notification of change to our Site homepage. Once we have posted any such changes it is then your responsibility as a user to ensure that you are aware of such changes from time to time. Changes will become effective 24 hours after first posting and you will be deemed to have accepted any change if you continue to access the Site after that time.
 
-### 11\. Email Newsletters Opt Ins and Opt Outs
+### 10\. Email Newsletters Opt Ins and Opt Outs
 
 Where you have the option to subscribe to various email services or unsubscribe from receiving ordinary mail or telephone or other contact services which we offer relating to promotional information about our products and/or services marketing information and news that we consider may be of interest to you (for example relating to our new product or service offerings or improvements or special offers or other promotions and offers). If you initially tick the box or otherwise opt in but subsequently no longer wish to receive such communication from us, please send an appropriate [enquiries@nbcbirdandpest.co.uk](mailto:enquiries@nbcbirdandpest.co.uk) and your details will be removed from our electronic mailing lists. If you initially do not opt out of receiving non-electronic promotional information, but subsequently wish to do so, please contact us and your details will be removed from our non-electronic contact lists
 
 If you inform us that you no longer wish us to contact you for any one or all of the reasons stated above in this clause 4(a) to (d) inclusive then we will cease contacting you although you acknowledge that this may prevent us from providing the products and/or services to you or inhibit the quality of service provided to you.
 
-### 12\. Questions or complaints: [contact us](http://www.nbcbirdandpest.co.uk/contact/)
+### 11\. Questions or complaints: [contact us](http://www.nbcbirdandpest.co.uk/contact/)
 
-We reiterate that by submitting your personal information to us you consent to our (including our business partners' within the NBC Network) use of that personal information as set out in this privacy policy. If you have any questions concerns or comments about this privacy policy and/or our collection use or the accuracy of your personal information or if you wish to see any of the personal information we hold on you or if you wish us to stop processing your personal information for any particular purpose or purposes then please contact us by [enquiries@nbcbirdandpest.co.uk](mailto:enquiries@nbcbirdandpest.co.uk) or by writing to The Data Compliance Officer NBC Bird and Pest Solutions Limited (Registered Company No. 3475126) of Abbotsgate House, Hollow Road, Bury St Edmunds, Suffolk, IP32 7FA (Registered Office Address)
+We reiterate that by submitting your personal information to us you consent to our (including our business partners’ within the NBC Network) use of that personal information as set out in this privacy policy. If you have any questions concerns or comments about this privacy policy and/or our collection use or the accuracy of your personal information or if you wish to see any of the personal information we hold on you or if you wish us to stop processing your personal information for any particular purpose or purposes then please contact us by [enquiries@nbcbirdandpest.co.uk](mailto:enquiries@nbcbirdandpest.co.uk) or by writing to The Data Compliance Officer NBC Bird and Pest Solutions Limited (Registered Company No. 3475126) of Abbotsgate House, Hollow Road, Bury St Edmunds, Suffolk, IP32 7FA (Registered Office Address)
 
 © 2007 2010 Limited. NBC Bird and Pest Solutions Limited. All rights reserved.
-
-[Website Terms of Use](http://www.nbcbirdandpest.co.uk/terms-of-use/)
-
-Go back to top of Page
