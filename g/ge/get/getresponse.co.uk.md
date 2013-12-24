@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getresponse.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228182549id_/http%3A//www.getresponse.co.uk/email-marketing/gb-legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224225747id_/http%3A//www.getresponse.co.uk/email-marketing/gb-legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - email marketing - GetResponse
 
-Implix realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This document describes our Privacy Policy. By visiting our website, you are accepting and consenting to the practices described in this Privacy Policy.
+IMPLIX Sp. z o.o (hereafter referred to as Implix) realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This document describes our Privacy Policy. By visiting our website, you are accepting and consenting to the practices described in this Privacy Policy.
 
-Any personal information provided or acquired by Implix is controlled primarily by the Implix Company, Arkońska 6, A3, 80-387 Gdańsk, Poland, hereinafter referred to as "Implix".
+Any personal information provided or acquired by Implix is controlled primarily by the Implix Company, Arkońska 6, A3, 80-387 Gdańsk, Poland.
 
 We believe it is important to you, our Customer, to know how we treat the information about you which we receive during your visits to our site. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard the aggregate information we receive when you visit and browse our website. We encourage you to take the time to read this Privacy Policy as well as those of any other sites you visit, whether through a link on that site or otherwise.
 
@@ -16,47 +16,49 @@ When you click on links on GetResponse you may leave our site. We are not respon
 
 If you have any questions or concerns about our privacy policy, contact us through this link: [ http://www.getresponse.com/feedback.html](http://www.getresponse.com/feedback.html). You may also contact us by mail at: Arkońska 6, A3, 80-387 Gdańsk, Poland.
 
-TRUSTe Program – IMPLIX has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy policy covers the website www.getresponse.com. The TRUSTe program covers only information that is collected through this Web site, and does not cover other information, such as information that may be collected through other IMPLIX’s websites.
+TRUSTe Program – IMPLIX has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy policy covers the website [www.getresponse.com](https://web.archive.org/web/20131224225747id_/http%3A//www.getresponse.co.uk/email-marketing/gb-legal/%E2%80%9Dhttp://www.getresponse.com/%E2%80%9D). The TRUSTe program covers only information that is collected through this Web site, and does not cover other information, such as information that may be collected through other IMPLIX's websites.
 
 If you have any complaints about our policy or practices please let us know via this link: [ http://www.getresponse.com/feedback.html](http://www.getresponse.com/feedback.html). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-**SPECIAL NOTE ABOUT CHILDREN**
+ **SPECIAL NOTE ABOUT CHILDREN**
 
 This Site is not intended for children, especially kids under 13. Children may use this Site only with the direct supervision of their parent.
 
-**Information We Collect**
+ **Information We Collect**
 
-Implix collects personal information from Customers who visit this Site and register with our GetResponse Service. When the Customer registers with our GetResponse Service, we require: (i) username, (ii) password, (iii) email address, (iv) first and last name, (v) zip code, (vi) country and (vii) billing information such as billing address and credit card number (ix) tax id number. We may also ask Customers to provide additional personal information such as (i) company name, (ii) title, (iii) education institution and (iv) other company and (v) personal details that the Customer may opt out of by not entering data when asked. We use the Customers’ registration information to authenticate users and provide access to GetResponse Service. We also use the email addresses used in the registration information to communicate with our Customers. From time to time, Implix may contact you via email to notify you of changes to its Service, scheduled maintenance, information about Implix and promotional material from Implix. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-Implix shall use all reasonable endeavors to give you free access to your personal information in an appropriate scope. You may change or delete your personally identifiable information at any time by contacting us at [ mailing@cs.implix.com](mailto:%20mailing@cs.implix.com) and clearly indicating that you wish to change or deactivate and delete such information. You may at any time login your account and change or delete any inaccuracies to your personally identifiable information as well.
+Implix collects personal information from Customers who visit this Site and register with our GetResponse Service. When the Customer registers with our GetResponse Service, we require: (i) username, (ii) password, (iii) email address, (iv) first and last name, (v) zip code, (vi) country and (vii) billing information such as billing address and credit card number (ix) tax id number. We may also ask Customers to provide additional personal information such as (i) company name, (ii) title, (iii) education institution and (iv) other company and (v) personal details that the Customer may opt out of by not entering data when asked. We use the Customers' registration information to authenticate users and provide access to GetResponse Service. We also use the email addresses used in the registration information to communicate with our Customers. From time to time, Implix may contact you via email to notify you of changes to its Service, scheduled maintenance, information about Implix and promotional material from Implix. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 You agree and acknowledge that your information collected through this Site and related Services or in connection with the GetResponse Service may be transferred across national boundaries and stored and processed in any of the countries around the world in which Implix maintains offices, including the United States.
 
-**Sharing Your Information**
+ **Sharing Your Information**
 
-IMPLIX Sp. z o.o. will not share, sell, rent or trade your personal information other than as disclosed within this Privacy Policy.
+Implix will not share, sell, rent or trade your personal information other than as disclosed within this Privacy Policy.
 
-We reserve the right to disclosure your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, Court order, or legal process served on our Website.
+We reserve the right to disclosure your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, Court order, or legal process served on our Website.
 
 We use other third Parties such as a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf. When you sign up for our services we will share your information as necessary for the third party to provide that service.
 
-These third parties are prohibited from using your personally identifiable information for promotional purposes.
+These third parties are prohibited from using your personal information for promotional purposes.
 
 If Implix is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-**Passwords**
+ **Passwords**
 
-Your Implix and GetResponse account information, your username, password and a customer’s profile are password-protected so that you have secure access to entering and editing personal data. It is the users’ responsibility to protect the security of their password. Access to GetResponse Service is protected by a unique username and password that is known to you only. Implix has designed internal security processes that encrypt Customer’s password to protect it from being divulged or accessed by anyone other than you. Neither Implix employees nor any of its contractors can obtain or access your password. Neither Implix employees nor any of its contractors will ask you for your password via mail, email, telephone or in any other unsolicited manner.
+Your Implix and GetResponse account information, your username, password and a customer's profile are password-protected so that you have secure access to entering and editing personal data. It is the users' responsibility to protect the security of their password. Access to GetResponse Service is protected by a unique username and password that is known to you only. Implix has designed internal security processes that encrypt Customer's password to protect it from being divulged or accessed by anyone other than you. Neither Implix employees nor any of its contractors can obtain or access your password. Neither Implix employees nor any of its contractors will ask you for your password via mail, email, telephone or in any other unsolicited manner.
 
-**Site Use Information**
+ **Site Use Information**
 
 Our servers automatically collect site use information, each time you visit our site.
 
 The site use information includes, but is not limited to the following: the domain names, operating system in use (e.g. Macintosh, Windows), browser (e.g. Mozilla Firefox, Internet Explorer) and version, the website which referred you to us, and other similar information. This information may be aggregated to measure the number of visits, average time spent on our website, pages viewed, time and date of visits, and other similar information. We may use and disclose site use information, for example, to measure the use of our website, improve the content, explain the utility of our website and services we provide, and to extend their functionality.
 
-Similar to other commercial websites, the technology called "cookies" may be used to provide you with tailored information. A cookie is a small piece of data that a website can send to your browser, which may then be stored on your hard drive, so we can recognize you when you return. You may be able to set your browser to notify you when you receive a cookie. Our cookies collect general information that enhances our ability to serve you and measure the utility of our website. We do not link the information we store in cookies to any personally identifiable information you submit while on your site.
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes browser type, referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-The use of cookies by third party web analytics partner is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information.
+
+Similar to other commercial websites, the technology called "cookies" may be used to provide you with tailored information. A cookie is a small piece of data that a website can send to your browser, which may then be stored on your hard drive, so we can recognize you when you return. You may be able to set your browser to notify you when you receive a cookie. Our cookies collect general information that enhances our ability to serve you and measure the utility of our website. We do not link the information we store in cookies to any personal information you submit while on your site.
+
+The use of cookies by third party web analytics partner is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID and persistent cookies to make it easier for you to navigate our site.
 
 Information we collect may be used to enhance your use of our website, and to provide you with a service that you ordered, arrange the website in the most customer friendly way, communicate special offers and featured items, and/or respond to your questions and suggestions.
 
@@ -66,7 +68,7 @@ We will use this information solely for processing payments for services that yo
 
 Implix collects only personal information that you choose to provide voluntarily registering to our GetResponse Service. Implix shall advise you which information is mandatory to provide and what you do not have to enclose.
 
-**Mailing Policy**
+ **Mailing Policy**
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply for any future correspondence. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
@@ -78,11 +80,13 @@ We will never use your email address or other information to provide you with an
 
 When you sign up for our forum you may receive emails from other users if you wish to allow them to send you emails, administrative emails as well as emails when you receive private messages. You may change your preference at any time by going to [User Control Panel](http://forum.getresponse.com/ucp.php).
 
-**Customers' Private Information Policy**
+ **Customers' Private Information Policy**
 
 Implix recognizes the importance of respecting the privacy of those who decided to entrust their sensitive information with you. We make every effort to safeguard their security. Implix will never use the information about the customers you collect within our services to send any information other than expressly provided by you, nor will we share it with or sell it to anyone else for such use.
 
-**Information Security**
+Implix also ensures the implementation of legal notices in accordance with the relevant regulations.
+
+ **Information Security**
 
 We believe that keeping personal information secure is one of our most significant responsibilities.
 
@@ -92,7 +96,7 @@ When we request customers to enter sensitive information, such as credit card nu
 
 All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (e.g. our billing clerk or a customer service representative) are personally granted access to sensitive information.
 
-**Security**
+ **Security**
 
 Implix stores its servers in a highly secure server environment, with surveillance and support to prevent unauthorized access and data security.
 
@@ -100,28 +104,48 @@ We cannot guarantee the security of your data while it is being transmitted over
 
 Google Analytics and Google AdWords are used on the Site by either the Participant or a third party on the Site.
 
-If you use a blog or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these blogs and forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs and forums. To request removal of your personal information from our blog or community forum, contact us at [‘My Account’](mailto:mailing@cs.implix.com%3Emailing@cs.implix.com%3C/a%3E.%20%20In%20some%20cases,%20we%20may%20not%20be%20able%20to%20remove%20your%20personal%20information,%20in%20which%20case%20we%20will%20let%20you%20know%20if%20we%20are%20unable%20to%20do%20so%20and%20why.%3C/p%3E%3Cp%3E%3Cb%3EForum%20Registration%3C/b%3E%3C/p%3E%3Cp%3EIn%20order%20to%20use%20the%20forum%20on%20our%20site%20you%20are%20required%20to%20register.%20We%20ask%20for%20a%20username%20and%20password.%20We%20use%20this%20information%20for%20the%20sole%20purpose%20of%20creating%20a%20forum%20profile%20for%20you.%3C/p%3E%3Cp%3EOnce%20you%20have%20registered%20you%20are%20able%20to%20enter%20ID%E2%80%99s%20for%20instant%20messaging%20services%20such%20as%20AOL%20and%20Yahoo.%20We%20collect%20this%20information%20only%20you%20have%20secure%20access%20to%20post%20comments%20on%20our%20blog%20and%20forums.%20You%20are%20also%20able%20to%20upload%20a%20photo%20of%20yourself%20to%20use%20as%20your%20avatar,%20you%20may%20delete%20this%20image%20at%20any%20time.%3C/p%3E%3Cp%3E%3Cb%3EFacebook%20Connect%20or%20other%20OpenID%20provider%3C/b%3E%3C/p%3E%3Cp%3EYou%20can%20log%20in%20to%20our%20site%20using%20sign-in%20services%20such%20as%20Facebook%20Connect%20or%20an%20Open%20ID%20provider.%20These%20services%20will%20authenticate%20your%20identity%20and%20provide%20you%20the%20option%20to%20share%20certain%20personal%20information%20with%20us%20such%20as%20your%20name%20and%20email%20address%20to%20pre-populate%20our%20sign%20up%20form.%20%20Services%20like%20Facebook%20Connect%20give%20you%20the%20option%20to%20post%20information%20about%20your%20activities%20on%20this%20Web%20site%20to%20your%20profile%20page%20to%20share%20with%20others%20within%20your%20network.%3C/p%3E%3Cp%3E%3Cb%3EContests%3C/b%3E%3C/p%3E%3Cp%3EFrom%20time-to-time%20we%20may%20provide%20you%20the%20opportunity%20to%20participate%20in%20contests%20on%20our%20site.%20If%20you%20participate,%20we%20will%20request%20certain%20personally%20identifiable%20information%20from%20you.%20Participation%20in%20these%20contests%20is%20completely%20voluntary%20and%20you%20therefore%20have%20a%20choice%20whether%20or%20not%20to%20disclose%20this%20information.%20The%20requested%20information%20typically%20includes%20contact%20information%20\(such%20as%20name%20and%20shipping%20address\),%20and%20demographic%20information%20\(such%20as%20zip%20code\).%20We%20use%20this%20information%20to%20be%20able%20to%20send%20the%20prize%20to%20the%20winner%20of%20the%20contest.%3C/p%3E%3Cp%3E%3Cb%3ECustomer%20Testimonials/Reviews%3C/b%3E%3C/p%3E%3Cp%3EWe%20post%20customer%20testimonials/reviews%20on%20our%20web%20site%20which%20may%20contain%20personally%20identifiable%20information.%20We%20do%20obtain%20the%20customer's%20consent%20via%20email%20prior%20to%20posting%20the%20testimonial/review%20to%20post%20their%20name%20along%20with%20their%20testimonial/review.%3C/p%3E%3Cp%3E%3Cb%3EView,%20Change%20or%20Remove%20Information%3C/b%3E%3C/p%3E%3Cp%3EYou%20may%20change%20or%20delete%20your%20profile%20information%20at%20any%20time%20by%20going%20to%20your%20profile%20page%20and%20clicking%20%3Ca%20href=) option from the menu, then the information will be updated. Please contact us at [ http://www.getresponse.com/feedback.html](mailto:mailing@cs.implix.com%3Emailing@cs.implix.com%3C/a%3E%20if%20you%20need%20assistance%20in%20updating%20or%20reviewing%20your%20information.%20Implix%20will%20respond%20to%20you%20to%20review%20the%20information%20within%2020%20days.%3C/p%3E%3Cp%3EIf%20you%20want%20to%20stop%20using%20your%20account%20you%20may%20delete%20it.%20When%20you%20delete%20an%20account,%20it%20is%20permanently%20deleted.%20You%20should%20only%20delete%20your%20account%20if%20you%20are%20certain%20you%20never%20want%20to%20use%20it.%20You%20may%20delete%20your%20account%20by%20contacting%20us%20via:%3Ca%20href=)
+If you use a blog or forum on this Web site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these blogs and forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these blogs and forums. To request removal of your personal information from our blog or community forum, contact us at [mailing@cs.implix.com](mailto:mailing@cs.implix.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+ **Forum Registration**
+
+In order to use the forum on our site you are required to register. We ask for a username and password. We use this information for the sole purpose of creating a forum profile for you.
+
+Once you have registered you are able to enter ID's for instant messaging services such as AOL and Yahoo. We collect this information only you have secure access to post comments on our blog and forums. You are also able to upload a photo of yourself to use as your avatar, you may delete this image at any time.
+
+ **Facebook Connect or other OpenID provider**
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+ **Social Media Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+ **Contests**
+
+From time-to-time we may provide you the opportunity to participate in contests on our site. If you participate, we will request certain personal information from you. Participation in these contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to be able to send the prize to the winner of the contest.
+
+ **Customer Testimonials/Reviews**
+
+We post customer testimonials/reviews on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial/review to post their name along with their testimonial/review. If you wish to update or delete your testimonial, you can contact us at [mailing@cs.implix.com](mailto:mailing@cs.implix.com).
+
+ **View, Change or Remove Information**
+
+You may change or delete your profile information at any time by going to your profile page and clicking ['My Account'](http://www.getresponse.com/my_account.html) option from the menu, then the information will be updated. Please contact us at [mailing@cs.implix.com](mailto:mailing@cs.implix.com) if you need assistance in updating or reviewing your information. Implix will respond to you to review the information within 20 days.
+
+If you want to stop using your account you may delete it. When you delete an account, it is permanently deleted. You should only delete your account if you are certain you never want to use it. You may delete your account by contacting us via: <http://www.getresponse.com/feedback.html>.
 
 Deleted information may persist in backup copies for up to 30 days, but will not be available to others.
 
-**Other Terms**
+ **Other Terms**
 
 We may change this Privacy Policy at any time. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here prior to the changes taking effect.
 
-If, however, Implix is going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted their account, then they will not be contacted, nor will their personal information be used in this new manner.
+If, however, we make material changes or Implix is going to use users' personal information in a manner different from that stated at the time of collection we will notify users via our website prior to the change becoming effective. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted their account, then they will not be contacted, nor will their personal information be used in this new manner.
 
-Information posted by users in online blog updates, public forums, online bulletin boards may be displayed on GetResponse’s services.
+Information posted by users in online blog updates, public forums, online bulletin boards may be displayed on GetResponse's services.
 
 "Us," "we," "our," "GR" and "GetResponse" mean the same.
 
-“You" and “Customer" mean the same.
+"You" and "Customer" mean the same.
 
-TRUSTe Privacy Program
-
-IMPLIX Sp. z o.o. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site [ www.getresponse.com](http://www.getresponse.com/). 
-
-If you have questions or concerns regarding this statement, you should first contact our Customer Support at at [TRUSTe here](mailto:mailing@cs.implix.com%3Emailing@cs.implix.com%3C/a%3E.%20If%20you%20are%20not%20satisfied%20with%20our%20response%20you%20can%20contact%20%3Ca%20href=).
-
-TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-"Effective Date: 5/3/2011 is the last date that the company's privacy practices or privacy statement disclosures were approved by TRUSTe.
+"Effective Date: 8/13/2013 is the last date that the company's privacy practices or privacy statement disclosures were approved by TRUSTe.
