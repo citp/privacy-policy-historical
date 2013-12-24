@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnfinancialeducation.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602075045id_/http%3A//learnfinancialeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnfinancialeducation.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224191356id_/http%3A//learnfinancialeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
