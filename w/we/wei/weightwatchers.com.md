@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607034655id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224152608id_/http%3A//www.weightwatchers.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Weight Watchers Safe Harbor Policy Statement
+# WeightWatchers.com Privacy Policy
 
 ## PRIVACY POLICY
 
@@ -67,7 +67,7 @@ Similarly, we use Adobe Site Catalyst to help us track and analyze usage of our 
 
 By using cookies and action tags together, we are able to gain valuable information to improve our Website and our Online Products and measure the effectiveness of our advertising and marketing campaigns. We do not disclose any of your Personally Identifiable Information to our advertising partners through the use of cookies or action tags. 
 
-Finally, please note that advertisers and other third parties may also use their own cookies or action tags when you click on their advertisement or link to their website or service, on or from our Website. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising.
+Finally, please note that advertisers and other third parties may also use their own cookies or action tags when you view or click on their advertisement or link to their website or service, on or from our Website. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising.
 
 ####  _Social Media (Features) and Widgets_
 
@@ -180,7 +180,7 @@ Email our Privacy Coordinator at:
 
 Or, write to our Privacy Coordinator at:  
 WeightWatchers.com, Inc.  
-11 Madison Avenue, 17th Floor,   
+675 Sixth Avenue, 6th Floor,   
 New York, NY 10010  
 Attn: Privacy Coordinator 
 
@@ -192,4 +192,4 @@ We comply with the EU Safe Harbor framework as set forth by the Department of Co
 
 **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
-Last modified as of March 21, 2013
+Last modified as of July 29, 2013
