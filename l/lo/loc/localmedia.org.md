@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localmedia.org privacy policy that was archived on 2013-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130203022419id_/http%3A//localmedia.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmedia.org privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224165906id_/http%3A//localmedia.org/Privacy.aspx) for the most accurate reproduction.*
 
-# Home
+# Local Media Association
 
 Local Media Association is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Local Media Association Web site and governs data collection and usage. By using the Local Media Association website, you consent to the data practices described in this statement.
 
