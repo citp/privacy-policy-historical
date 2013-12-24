@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmerama.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625051605id_/http%3A//www.farmerama.com/sharedpages/privacypolicy/%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmerama.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224134020id_/http%3A//www.farmerama.com/sharedpages/privacypolicy/%3Flocale%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
