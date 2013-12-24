@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614023119id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224074518id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZALANDO.CO.UK
 
 ##  Privacy Policy for www.zalando.co.uk
 
-Zalando Limited is a company registered in England and Wales with number 07535599 and registered address at 31-35 Kirby Street, London, EC1N 8TE, United Kingdom. Zalando Limited acts as an “Agent” or “Service Provider” for Zalando GmbH (“We”, “us” or “our”) and is a company wholly owned by Zalando GmbH. Zalando GmbH is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB112394B whose registered office is Sonnenburger Str. 73, 10437 Berlin, Germany ( **“we”** , **“us”** or **“our”** ). We operate www.zalando.co.uk (the “Site”). In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site. 
+Zalando Limited is a company registered in England and Wales with number 07535599 and registered address at 31-35 Kirby Street, London, EC1N 8TE, United Kingdom. Zalando Limited acts as an “Agent” or “Service Provider” for Zalando AG (Public limited company) (“We”, “us” or “our”) and is a company wholly owned by Zalando AG (Public limited company). Zalando AG(Public limited company) is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB 154823 B whose registered office is Sonnenburger Str. 73, 10437 Berlin, Germany ( **“we”** , **“us”** or **“our”** ). We operate www.zalando.co.uk (the “Site”). In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site. 
 
 If you have any comments or suggestions, we would be pleased to receive them at our Agent’s UK address or by emailing us at service@zalando.co.uk. Alternatively you may call us on 0800 028 0077 – this telephone number will be open to receive calls between 8 am and 8 pm on Monday to Friday. 
 
@@ -48,7 +48,7 @@ Currently we are taking Experian’s Authentication Service and Money Laundering
 
 **Other uses of your personal information**
 
-We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes and Zalando GmbH. You can choose to opt out of this at any time. Any answers to surveys or opinion polls Zalando may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address. 
+We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes and Zalando AG (Public limited company). You can choose to opt out of this at any time. Any answers to surveys or opinion polls Zalando may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address. 
 
 We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the ‘unsubscribe’ link in any email that we send to you. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in England) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification. 
 
@@ -73,6 +73,10 @@ If you are logged into Facebook, your visit can be assigned to your Facebook acc
 If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. You can also block Facebook social Plugins by using add-ons for your browser, like the “Facebook Blocker”. 
 
 For information on the purpose and scope of data collection by Facebook and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit [Facebook’s privacy policy](http://www.facebook.com/about/privacy/). 
+
+**Login**
+
+You now have the option of staying logged in with the ‘Keep me logged in’ option. Check the ‘Keep me logged in’ box and use our services without having to log in every time. If you request to change your personal details or if you want to stop an order you will still be asked to provide your password. We advise you not to select ‘Keep me logged in’ if the computer you are using is being used by more than one person. Please be advised, you are only given the option of selecting ‘Keep me logged in’ if you have your browser set up to store cookies. 
 
 ####  2\. Cookies
 
@@ -146,6 +150,6 @@ By submitting data to us or our agent or using the Site, you consent to our use 
 
 If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Please contact us by mail at [service@zalando.co.uk](mailto:service@zalando.co.uk) or Zalando Ltd., 31-35 Kirby Street, London, EC1N 8TE. 
 
-**Zalando GmbH**
+**Zalando AG (Public limited company)**
 
 We have copyright over this Privacy Policy. Use by third parties – even by way of extract – for commercial purposes is not allowed. Infringements may be subject to legal action. 
