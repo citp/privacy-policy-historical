@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robocraftgame.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614012658id_/http%3A//robocraftgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robocraftgame.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224084127id_/http%3A//robocraftgame.com/download/privacy-policy) for the most accurate reproduction.*
 
 # ROBOCRAFT | Privacy Policy
 
