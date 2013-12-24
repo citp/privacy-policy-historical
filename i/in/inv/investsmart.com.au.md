@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investsmart.com.au privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522002245id_/http%3A//www.fairfax.com.au/privacy.ac) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investsmart.com.au privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224100359id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
