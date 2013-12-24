@@ -1,6 +1,41 @@
-> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621070406id_/http%3A//www.wyndham.com/terms-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamhotels.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224213013id_/http%3A//www.wyndham.com/terms-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Wyndham Hotels and Resorts
+
+Close Close
+
+Earn points or airline miles for qualified stays at nearly 7,000 locations across 14 hotel brands.
+
+After just one qualified stay, you can earn enough points to redeem for a reward!
+
+Rewards begin with as few as 250 points!  
+\- Travel Accessories  
+\- Music Downloads  
+\- Magazines  
+
+
+Or keep saving your points to redeem for:  
+\- Free Nights – starting at just 5,500 points  
+\- Gift Cards  
+\- Airline Miles  
+\- Merchandise & More  
+
+
+It's FREE to join!
+
+Enjoy all of the exclusive Wyndham Rewards® benefits available; including:
+
+Check your point balance
+
+Make reservations faster
+
+Redeem for hundreds of rewards including Free Nights and Gift Cards
+
+Review Reservation
+
+Search
+
+Review, change, or cancel reservations made on Wyndham.com. If you need additional assistance, please call 877-999-3223 (1-506-638-4899 outside the U.S. and Canada). 
 
 ## WYNDHAM HOTEL GROUP, LLC
 
@@ -12,11 +47,11 @@ Revised October 2008
 
 We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues.
 
-[Privacy Notice to California Customers](https://web.archive.org/web/20130621070406id_/http%3A//www.wyndham.com/terms-policy/california_privacy_rights)
+[Privacy Notice to California Customers](https://web.archive.org/web/20131224213013id_/http%3A//www.wyndham.com/terms-policy/california_privacy_rights)
 
-[Canadian Privacy Policy](https://web.archive.org/web/20130621070406id_/http%3A//www.wyndham.com/terms-policy/canadian-privacy-policy)
+[Canadian Privacy Policy](https://web.archive.org/web/20131224213013id_/http%3A//www.wyndham.com/terms-policy/canadian-privacy-policy)
 
-[Politique de confidentialité](https://web.archive.org/web/20130621070406id_/http%3A//www.wyndham.com/terms-policy/canadian_french_privacy_policy)
+[Politique de confidentialité](https://web.archive.org/web/20131224213013id_/http%3A//www.wyndham.com/terms-policy/canadian_french_privacy_policy)
 
 **Application**. This policy applies to residents of the United States, hotels of our Brands located in the United States, and Loyalty Program activities in the United States only. We do not accept the jurisdiction of any other laws over the above. This policy also applies only to our Customers. We have a separate policy governing any internet sites or extranet sites accessible only to the Franchisees and/or Brands.
 
@@ -132,3 +167,5 @@ Participation in surveys is voluntary. Participants who do not wish to receive e
 **Downloading.** Please feel free to download or copy this Policy. You may obtain a copy free of charge by writing to us at Customer Privacy Policy, Wyndham Hotel Group, 22 Sylvan Way, Parsippany, NJ 07054.
 
 **Policy Changes**. The Policy in effect at the time of each visit to a Brand Web site applies to that visit. However, we may change or terminate this Policy at any time without prior notice by posting an amended version of the Policy on our Web site and providing you with the ability to opt out of any new, unanticipated uses of Information not previously disclosed in the Policy. Please check our Policy each time you visit our Web site or more frequently if you are concerned about how your Information will be used.
+
+Close
