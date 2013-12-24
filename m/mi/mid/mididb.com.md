@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mididb.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617150909id_/http%3A//mididb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mididb.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224230441id_/http%3A//mididb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MIDI db | MIDI db
+# Privacy Policy | MIDI db
 
 **MIDIdb Privacy Policy:**  
 MIDIdb has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices by MIDIdb.  
