@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrse.co.uk privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116122242id_/http%3A//www.arrse.co.uk/faq.php%3Ffaq%3Darrse_general_faq%23faq_security_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrse.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224083908id_/http%3A//www.arrse.co.uk/faq.php%3Ffaq%3Darrse_general_faq%23faq_security_privacy) for the most accurate reproduction.*
 
 # ARRSE General FAQ
 
