@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazada.com.my privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507084240id_/http%3A//www.lazada.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.com.my privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224163749id_/http%3A//www.lazada.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Lazada - Privacy Policy | Lazada Malaysia
 
