@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509213942id_/http%3A//www.iqpc.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224154846id_/http%3A//www.iqpc.com/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Business Conferences, Events & Training Seminars | Privacy Policy
 
@@ -18,7 +18,7 @@
 
 
 
-_Last Updated; 18 February 2004_
+_Last Updated; October 23, 2012_
 
 ##  Commitment to User Privacy
 
@@ -68,7 +68,7 @@ This information is used for the operation of the service, to maintain quality o
 
 ##  Information Sharing: Who We Intend to Share Information With and Why
 
-We do not share, rent or sell our customer e-mail lists. We may share other contact information with other professional organisations (including our event sponsors/exhibitors) to promote similar products and services. If you do not want to make your details available please email [database@iqpc.com](mailto:database@iqpc.com) indicating either or both of the statements below;
+We do not rent or sell our customer e-mail lists. We may share your contact information with professional organisations (including our event sponsors/exhibitors) to promote similar products and services related to your area of interest. If you do not want to make your details available please email [database@iqpc.com](mailto:database@iqpc.com) indicating either or both of the statements below;
 
 **I do not wish to have my details made available to other organisations  
 I do not wish to receive information about IQPC events or services  
