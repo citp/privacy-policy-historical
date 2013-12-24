@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lillarose.biz privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612191934id_/http%3A//www.lillarose.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillarose.biz privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224212819id_/http%3A//www.lillarose.biz/privacy.html) for the most accurate reproduction.*
 
 # 
 
