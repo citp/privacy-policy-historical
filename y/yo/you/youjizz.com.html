@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the youjizz.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529042251id_/http%3A//www.youjizz.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the youjizz.com privacy policy that was archived on 2013-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224184403id_/http%3A//www.youjizz.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,38 +9,35 @@
 
       <title>The YouJizz Privacy Page</title>
 
-      <link rel="stylesheet" type="text/css" href="http://youjizz.com/rating/css/rating.css">
+      <link rel="stylesheet" type="text/css" href="http://youjizz.com/rating/css/rating3.css">
       <link rel="stylesheet" type="text/css" href="http://youjizz.com/css/styleb.css">
       <link rel="stylesheet" type="text/css" href="http://youjizz.com/css/style.css">
 
-   <link href="http://www.youjizz.com/gfx_new/style2.css" rel="stylesheet" type="text/css">
+   <link href="http://www.youjizz.com/gfx_new/style3.css" rel="stylesheet" type="text/css">
 
 
 
-      <script type="text/javascript" src="http://youjizz.com/xmoov_flv/assets/javascript/swfobject.js"></script>
-      <script type="text/javascript">var nc = Date();</script>
-      <script type="text/javascript" language="javascript" src="http://youjizz.com/js/AC_RunActiveContent.js"></script>
-
-      <script type="text/javascript" language="javascript" src="http://youjizz.com/js/thumbchange.js"></script>
-      <script type="text/javascript" language="javascript" src="http://youjizz.com/js/default.js"></script>
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://youjizz.com/xmoov_flv/assets/javascript/swfobject.js"></script>
 
     <!--  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> -->
       <script type="text/javascript" src="http://youjizz.com/js/jquery-1.7.1.min.js"></script>
+      <script type="text/javascript" src="http://youjizz.com/js/knockout-2.2.1.js"></script>
       <script type="text/javascript" src="http://youjizz.com/rating/js/ratingjq.js"></script>
 
+      <script type="text/javascript" language="javascript" src="http://youjizz.com/js/default.js"></script>
       <script type="text/javascript" language="javascript" src="http://youjizz.com/js/contentlist.js"></script>
 
-      <script type="text/javascript" language="javascript" src="http://cdnb.static.youjizz.com/js/jquery.lazyload.js"></script>
+      <script type="text/javascript" language="javascript" src="http://youjizz.com/js/jquery.lazyload.js"></script>
 
-
-      <script type="text/javascript" src="http://cdnb.static.youjizz.com/js/abw.jquery.js"></script>
       <script type="text/javascript" language="javascript" src="http://promo.badoink.com/youjizz/custom_text.js"></script>
-      <script type="text/javascript" language="javascript" src="http://cdnb.static.youjizz.com/js/jquery.dropdown.js"></script>
+      <script type="text/javascript" language="javascript" src="http://youjizz.com/js/jquery.dropdown.js"></script>
 
-      <script type="text/javascript" src="http://cdnb.static.youjizz.com/js/jquery.autocomplete.js"></script>
-      <link rel="stylesheet" type="text/css" href="http://cdnb.static.youjizz.com/js/jquery.autocomplete.css">
+      <script type="text/javascript" src="http://youjizz.com/js/jquery.autocomplete.js"></script>
+      <link rel="stylesheet" type="text/css" href="http://youjizz.com/js/jquery.autocomplete.css">
 
-      <script type="text/javascript" src="http://cdnb.static.youjizz.com/js/localdata.js"></script>
+      <script type="text/javascript" src="http://youjizz.com/js/jquery.json-2.4.min.js"></script>
+      
+      <script type="text/javascript" src="http://youjizz.com/js/localdata.js"></script>
 
       <!--  Code for overall_header.php used in admin/uploads -->
       <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/themes/base/jquery-ui.css" type="text/css" media="all">
@@ -49,14 +46,33 @@
       <script type="text/javascript" language="javascript" src="http://youjizz.com/js/jtip.js"></script>
       <script type="text/javascript" src="http://youjizz.com/js/swfobject.js"></script>
 
+<link rel="stylesheet" type="text/css" href="http://youjizz.com/social/1.08/css/social.css">
+<script type="text/javascript">
+   // Social: Config parameters
+   var userid = undefined;
+   var socialurl = "/social/1.08/social_processor.php";
+   var socialuploadurl = "http://uploads.youjizz.com/social/1.08/social_processor.php";
+   var avatarhttp = "http://uploads.youjizz.com/uploads/avatar";
+</script>
+<script type="text/javascript" src="http://youjizz.com/social/1.08/js/executer-min.js"></script>
+<script type="text/javascript" src="http://youjizz.com/social/1.08/js/manage_sessionStorage-min.js"></script>
+
    <script type="text/javascript">
       $(function() {
-         $("img.lazy").lazyload();
-         if (typeof SwJs.Preview != "undefined") SwJs.Preview.Init();
-      })
+                  $("img.lazy").lazyload();
+                  if (typeof SwJs.Preview != "undefined") SwJs.Preview.Init();
+         
+                     if (sessionStorage.getItem('user_videos')) {
+               sessionStorage.removeItem('user_videos');
+            }
+            if (sessionStorage.getItem('fav_user_videos')) {
+               sessionStorage.removeItem('fav_user_videos');
+            }
+            if (sessionStorage.getItem('personinfo')) {
+               sessionStorage.removeItem('personinfo');
+            }
+               })
    </script>
-
-
 
 </head>
 
@@ -68,8 +84,6 @@
       <div class="contener">
                   <a href="/signup.php" style="float: left; margin-right: 20px;">Sign Up Free!</a> <a href="/login.php" style="float: left; margin-right: 20px;">Login</a> <a href="/upload.php" style="float: left;">Upload!</a>
                   <span style="float: right">
-            <span> <b><font color="red">100% FREE </font></b>on your mobile device!</span>
-            <span style="padding-left:20px;">
                Filter Content:
                <a style="color: red;" href="/setFilter.php?filter=straight" rel="nofollow">Straight</a> /
                <a href="/setFilter.php?filter=gay" rel="nofollow">Gay</a> /
@@ -81,7 +95,7 @@
                <a style="color: red;" href="/setFilter.php?homepage=popular" rel="nofollow">Popular</a> /
                <a href="/setFilter.php?homepage=newest" rel="nofollow">Newest</a>
             </span>
-         </span>
+         
       </div>
    </div>
    <!-- End Login -->
@@ -91,102 +105,84 @@
    <div id="top">
       <a href="/" class="logo"></a>
       <div id="baner_top" class="advertisement">
-               <iframe name="hdrbn" src="http://ads.traffichaus.com/pubs/0002/15/adserve.php" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allowtransparency="true"></iframe>
+               <iframe name="hdrbn" src="http://syndication.traffichaus.com/adserve/index.php?z=15&amp;loc=home" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allowtransparency="true"></iframe>
             </div>
    </div>
    <!-- End Top -->
 
    <!-- Menu -->
-   <div id="menu">
-   	<ul>
+   <div id="menu" style="padding-top:1px;">
+   	<ul style="font-size:11px;">
          <!--li><a href="/"><span>Home</span></a></li-->
-         <li><a href="/most-popular/1.html"><span>Popular</span></a></li>
-         <li><a href="/newest-clips/1.html"><span>Newest</span></a></li>
-         <li><a href="/top-rated-month/1.html"><span>Top Rated</span></a>
+         <!-- 1 --><li><a href="/most-popular/1.html"><span>Popular</span></a></li>
+         <!-- 2 --><li><a href="/newest-clips/1.html"><span>Newest</span></a></li>
+         <!-- 3 --><li><a href="/top-rated-month/1.html"><span>Top Rated</span></a>
             <ul>
                <li><a href="/top-rated/1.html">All</a></li>
                <li><a href="/top-rated-week/1.html">Week</a></li>
                <li><a href="/top-rated-month/1.html">Month</a></li>
             </ul>
          </li>
-         <li><a href="/random.php"><span>Random</span></a></li>
-            <li><a href="http://mbs.youjizzlive.com/xtarc/601342/447/0/?mta=340848" rel="nofollow"><span>Live Sex</span></a></li>
-         <li><a href="http://mbs.youjizzlive.com/xtarc/601342/447/0/?mta=340848" rel="nofollow"><span>Free Cams</span></a></li>
-         <li><a href="http://mbs.youjizzlive.com/xtarc/601342/447/0/?mta=340848" rel="nofollow"><span>Live Girls</span></a></li>
-         <li><a href="http://syndication.traffichaus.com/directserve.php?z=2002&amp;p=2" rel="nofollow"><span>Meet &amp; Fuck</span></a></li>     
-         <li><a href="http://safelinktracker.com/go/nxbvq/WHA_YJIZZ_TAB_ALL_1" rel="nofollow"><span>Random Webcam</span></a></li>
-         <li><a href="http://sascentral.com/?mode=redirect&amp;cid=187&amp;sid=71" rel="nofollow"><span>100% Free Porn</span></a></li>
-   	   		<li><a href="http://www.youjizz.com/hd-clips/1.html#"><span style="padding-top: 8px;padding-right: 6px;padding-bottom: 5px;padding-left: 0px;"><img src="http://www.youjizz.com/gfx/hd.gif" style="padding:0px; border: 0px"></span></a></li>
-   	         
-            
-	</ul>
-   </div>
-   <!-- End Menu -->
-
-   <div id="sub">
-      <div id="links">
-         <ul class="dropdown">
-         	         <li>
-				<a href="http://youjizzplus.com/go.php?t=11350&amp;aid=101971&amp;sid=1130_downloadvideos" rel="nofollow">DOWNLOAD MOVIE</a>	         </li>
-            <li>        
-               <!--span id="bd_text"><a href="http://www.youjizzplus.com/go.php?t=324&aid=101971&sid=1004_download_videos" rel="nofollow">Download Videos</a></span-->
-               <!--iframe src="http://promo.badoink.com/youjizz/index.php" width="166" height="22" frameborder="0" scrolling="no" style="float:left;"></iframe-->
-               <a href="http://syndication.traffichaus.com/adserve/index.php?z=3531" rel="nofollow">18 TEENZ</a>              </li>
-            <li>
-               <a href="http://feeds.videosz.com/spots/index.php?sid=164" rel="nofollow">SCHOOLGIRLZ</a>
-            </li>     
-            <li>
-               <a href="http://feeds.videosz.com/spots/index.php?sid=165" rel="nofollow">18 in HD</a>
-            </li>      
-                      <li>
-               <a href="#" id="categories">CATEGORIES</a>
-               <ul id="cat_list" class="cat_list">
-                  <li><a target="_blank" href="http://www.youjizz.com/search/amateur-1.html#">Amateur</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/anal-1.html#">Anal</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/asian-1.html#">Asian</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/bbw-1.html#">BBW</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/bdsm-1.html#">BDSM</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/big-tits-1.html#">Big Tits</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/blowjob-1.html#">Blowjobs</a></li>		        	
-                  <li><a target="_blank" href="http://www.youjizz.com/search/cartoon-1.html#">Cartoons</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/celebrity-1.html#">Celebrities</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/cream-pie-1.html#">Cream Pie</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/cumshot-1.html#">Cumshots</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/facial-1.html#">Facial</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/french-1.html#">French</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/german-1.html#">German</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/hairy-1.html#">Hairy</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/hand-job-1.html#">Handjobs</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/hd-clips/1.html#">High Definition</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/interracial-1.html#">Interracial</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/japan-1.html#">Japanese</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/lesbian-1.html#">Lesbians</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/longest-clips/1.html#">Longest</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/massage-1.html#">Massage</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/milf-1.html#">Milfs</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/old-1.html#">Old</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/public-1.html#">Public</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/sex-toy-1.html#">Sex Toys</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/squirt-1.html#">Squirting</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/swinger-1.html#">Swingers</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/teen-1.html#">Teens</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/vintage-1.html#">Vintage</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/voyeur-1.html#">Voyeur</a></li>
-                  <li><a target="_blank" href="http://www.youjizz.com/search/cam-1.html#">Webcams</a></li>
-               </ul>
-            </li>
-                        <li>
-               <a href="http://www.cartoontube.com/?t=youjizztxt" rel="nofollow">CARTOON SEX</a>
-            </li>
-            <li>
-               <a href="http://www.raunchygfs.com/?t=youjizztxt" rel="nofollow">EX-GIRLFRIENDS</a>
-            </li>
-                            
-         </ul>
+      		 <!-- 4 --><li><a href="/random.php"><span>Random</span></a></li>
+   		 <!-- 5 --><li><a href="http://www.youjizz.com/tags"><span>tags</span></a></li>
+<!--          5 <li>-->
+<!--		               <a href="#" id="categories" ><span>CATEGORIES</span></a>-->
+<!--		               <ul id="cat_list" class="cat_list">-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/amateur-1.html#" >Amateur</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/anal-1.html#" >Anal</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/asian-1.html#" >Asian</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/bbw-1.html#" >BBW</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/bdsm-1.html#" >BDSM</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/big-tits-1.html#" >Big Tits</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/blowjob-1.html#" >Blowjobs</a></li>		        	-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/cartoon-1.html#" >Cartoons</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/celebrity-1.html#" >Celebrities</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/cream-pie-1.html#" >Cream Pie</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/cumshot-1.html#" >Cumshots</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/facial-1.html#" >Facial</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/french-1.html#" >French</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/german-1.html#" >German</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/hairy-1.html#" >Hairy</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/hand-job-1.html#" >Handjobs</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/HighDefinition-1.html#" >High Definition</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/interracial-1.html#" >Interracial</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/japan-1.html#" >Japanese</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/lesbian-1.html#" >Lesbians</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/longest-clips/1.html#" >Longest</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/massage-1.html#" >Massage</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/milf-1.html#" >Milfs</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/old-1.html#" >Old</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/public-1.html#" >Public</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/sex-toy-1.html#" >Sex Toys</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/squirt-1.html#" >Squirting</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/swinger-1.html#" >Swingers</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/teen-1.html#" >Teens</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/vintage-1.html#" >Vintage</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/voyeur-1.html#" >Voyeur</a></li>-->
+<!--		                  <li><a target="_blank" href="http://www.youjizz.com/search/cam-1.html#" >Webcams</a></li>-->
+<!--		               </ul>-->
+<!--		            </li> -->
+         <!-- 6 --><li><a href="http://as.sexad.net/as/nl?p=youjizz&amp;v=0" rel="nofollow"><span>Live Sex</span></a></li>
+		 <!-- 7 --><li><a href="http://syndication.traffichaus.com/adserve/index.php?z=2002" rel="nofollow"><span>Fuck Date</span></a></li>     
+   	   	<li><a href="http://syndication.traffichaus.com/adserve/index.php?z=8042" rel="nofollow"><span>100% Free Porn</span></a></li>
+   		<!-- 8 --><li><a href="http://youjizz.com/search/HighDefinition-1.html#"><span style="padding-top: 8px;padding-right: 6px;padding-bottom: 4.5px;padding-left: 0px;"><img src="http://www.youjizz.com/gfx/hd.gif" style="padding:0px; border: 0px"></span></a></li>
+   	 	
+   		<!-- 9 --><li>
+      <!-- Search section -->
+            <div id="search" style="float:none; width:225px; margin-top:0px;margin-bottom:5px;">
+         <form id="searchform" action="/srch.php" method="get" name="searchform" autocomplete="off">
+            <input type="text" class="input" name="q" value="Search YouJizz" size="30" onclick="this.value=&quot;&quot;;" id="youjizzsearch">
+            <div class="search-icon" onclick="$('#searchform').submit()">&nbsp;</div>
+         </form>
       </div>
-   
-      
-      
+      <!-- End Search section -->
+      </li>        
+            
+    	</ul>
+   </div>
+      <!-- End Menu -->
+     
+       
    </div>
 
 </div>
@@ -194,20 +190,13 @@
 <!-- End of the layout header -->
 
    <div class="reset"></div>
-   <div class="contener">
-      <!-- Search section -->
-            <div id="search">
-         <form id="searchform" action="/srch.php" method="get" name="searchform" autocomplete="off">
-            <input type="text" class="input" name="q" value="Search YouJizz" size="30" onclick="this.value=&quot;&quot;;" id="youjizzsearch">
-            <div class="search-icon" onclick="$('#searchform').submit()">&nbsp;</div>
-         </form>
-         <div class="reset"></div>
-               </div>
+            <div class="reset"></div>
+               
       <!-- End Search section -->
-   </div>
+   
 
    <div class="reset"></div>
-   </div>
+   
 <!--EOF REAL HEADER-->
 
 
@@ -247,9 +236,9 @@ Last Updated: December 12, 2011
 <h3>A.</h3> The operative parties referred to in this policy are Company and you, the user of
 this site.
 <br>
-1.International Media, Ltd., is the publisher and operator of the websites
+1.International Media, Inc., is the publisher and operator of the websites
 listed at the beginning of this policy. Hereinafter, International Media,
-Ltd. shall be referred to as "Company". When first-person pronouns are
+Inc. shall be referred to as "Company". When first-person pronouns are
 used in this Policy, (us, we, our, ours, etc.) these provisions are referring
 to Company. Additionally, when the terms "The Site" or "Site" are used,
 these terms refer to the websites listed at the beginning of this policy.
@@ -389,7 +378,93 @@ may contact us at youjizzadmin(at)gmail.com.
 <br>
 <h3>- End -</h3>
 </div>
-</div>               </div></td>
+</div><style type="text/css">
+<!--
+
+
+#wrap a {
+	color:#fff;
+}
+a:hover {
+	color:#d66f97;
+}
+#wrap {
+	//width:728px;
+	width:925px;
+	height:190px;
+	margin:0 auto;
+ 	padding-top:20px;       
+	overflow:hidden;
+	text-align:center;
+	position:relative;
+        text-transform: uppercase;
+	font-weight: bold;
+        }
+.links a {
+	display:block;
+	height:23px;
+	font-size:13px;
+	width:177px;
+	text-align:center;
+	line-height:23px;
+	overflow:hidden;
+	text-decoration:none;
+	color:#fff;
+	border:1px solid #4B4B4B;
+	background:#181818;
+}
+.links a:hover {
+	border:1px solid #D90E0E;
+	background: #000;
+	color:#fff;
+}
+-->
+</style>
+<div id="fotter">
+<div id="wrap">
+  <table width="100%" cellspacing="2" cellpadding="0" class="links"> 
+      
+	                                   
+                <tbody><tr>     <td align="center"><a href="http://www.youjizz.com/search/Amateur-1.html" target="_blank">Amateur</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Anal-1.html" target="_blank">Anal</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Asian-1.html" target="_blank">Asian</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/BBW-1.html" target="_blank">BBW</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/BDSM-1.html" target="_blank">BDSM</a></td>
+                </tr><tr>                <td align="center"><a href="http://www.youjizz.com/search/Big-Tits-1.html" target="_blank">Big Tits</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Blonde-1.html" target="_blank">Blonde</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Blowjob-1.html" target="_blank">Blowjobs</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Brunette-1.html" target="_blank">Brunette</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Cartoon-1.html" target="_blank">Cartoons</a></td>
+                </tr><tr>                <td align="center"><a href="http://www.youjizz.com/search/Celeb-1.html" target="_blank">Celebrities</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Cream Pie-1.html" target="_blank">Cream Pie</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Cum-shot-1.html" target="_blank">Cum Shots</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Facial-1.html" target="_blank">Facial</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/French-1.html" target="_blank">French</a></td>
+                </tr><tr>                <td align="center"><a href="http://www.youjizz.com/search/German-1.html" target="_blank">German</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Hairy-1.html" target="_blank">Hairy</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Handjob-1.html" target="_blank">Handjobs</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/HighDefinition-1.html" target="_blank">High Definition</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Interracial-1.html" target="_blank">Interracial</a></td>
+                </tr><tr>                <td align="center"><a href="http://www.youjizz.com/search/Japanese-1.html" target="_blank">Japanese</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Latina-1.html" target="_blank">Latina</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Lesbian-1.html" target="_blank">Lesbian</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Longest-1.html" target="_blank">Longest</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Massage-1.html" target="_blank">Massage</a></td>
+                </tr><tr>                <td align="center"><a href="http://www.youjizz.com/search/MILF-1.html" target="_blank">MILFs</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Old-1.html" target="_blank">Old</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Public-1.html" target="_blank">Public</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/SexToy-1.html" target="_blank">Sex Toys</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Squirting-1.html" target="_blank">Squirting</a></td>
+                </tr><tr>                <td align="center"><a href="http://www.youjizz.com/search/Swinger-1.html" target="_blank">Swingers</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Teen-1.html" target="_blank">Teens</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Vintage-1.html" target="_blank">Vintage</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Voyeur-1.html" target="_blank">Voyeur</a></td>
+                                <td align="center"><a href="http://www.youjizz.com/search/Webcam-1.html" target="_blank">Webcam</a></td>
+                </tr>  
+
+  </tbody></table>
+        </div>
+        </div>         </div></td>
          <td width="250" style="padding-right:0px;" valign="top">
             <div class="right" id="right-ad">
                            </div>
@@ -402,12 +477,13 @@ may contact us at youjizzadmin(at)gmail.com.
 <!-- main end-->
 
 
+
 <div id="fotter">
    <div class="contener">
          </div>
 
    <div id="fotter2">
-      <div class="contener">
+      <div class="contener" style="text-align:left;">
          <a href="/dmca.php">DMCA</a> |
          <a href="/content_protect.php">Content Protection</a> |
          <a href="/content_partner.php">Content Partner</a> |
@@ -415,19 +491,21 @@ may contact us at youjizzadmin(at)gmail.com.
          <a href="/2257.php">2257</a> |
          <a href="/terms.php">Terms &amp; Conditions</a> |
          <a href="/help.php">Help</a> |
-         <a href="/help.php">Advertise</a> |
+         <a href="http://www.rtalabel.org">RTA</a> |
+         <a href="http://www.parentalcontrolbar.org/">Parental Control</a> |
          <a href="http://m.youjizz.com">Mobile Porn</a>
       </div>
    </div>
 </div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-   abw.Init({
-      aTargets: [{ at:'#baner_top', rt:'#main-content-0' },
-                 { at:'#right-ad', rt:'#main-content-1' }]
-   });
-   _uacct = "UA-3428380-1";
-   urchinTracker();
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3428380-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 
