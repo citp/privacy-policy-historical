@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523042715id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224221825id_/http%3A//www.opodo.co.uk/privacy) for the most accurate reproduction.*
 
-# Opodo
-
-  | 
+# Privacy Policy
 
 At Opodo, we understand and respect the importance of your privacy. In this privacy policy, we explain how we collect data about you and your use of this website, how we use that data, who that data may be sent to, and how you can amend data you have submitted to us.
 
-**How do we collect data about you and your use of the website?**
+  
+
+
+## How do we collect data about you and your use of the website?
 
 We ask you for personal information in a variety of circumstances: 
 
@@ -20,7 +21,10 @@ To make Opodo work even better for you, we also use 'cookies' to collect informa
 
 Please read our Cookie policy <http://promos.opodo.co.uk/cookies> for more information about the cookies used on www.opodo.co.uk. By using the Opodo site, you implicitly accept our Cookie policy.
 
-**How do we use your data?**
+  
+
+
+## How do we use your data?
 
 We may use your data for the following principal purposes:
 
@@ -42,7 +46,7 @@ Normally we will contact you by email but we may occasionally contact you by mai
 
 _**As we may need to contact you regarding flight schedule/hotel changes or cancellations as quickly as possible after they are notified to us by the airline/hotel we strongly recommend that when booking you give us a valid email address and phone number that is accurate and does not block calls from business numbers before and during any travel period.**_
 
-**Who may your data be disclosed to?**
+## Who may your data be disclosed to?
 
 We disclose your data to our partners who will only use your data for the purposes of fulfilling your booking requests.
 
@@ -50,35 +54,34 @@ We will not disclose your data to any other third parties except where it is nec
 
 All airlines are required to collect Advance Passenger Information from passengers before travel to or from the USA and certain other countries. For this purpose, your data may be disclosed to airlines who may onward disclose it to foreign authorities.
 
-**Transfer of information**
+  
+
+
+## Transfer of information
 
 If it is necessary to transfer your data to a company based outside the EU (eg. for the purpose of fulfilling your booking) then we will make every effort to ensure that your personal data is processed in accordance with the Data Protection Act 1998 and any other relevant legislation in force from time to time.
 
   
-**How can you amend or suppress your personal data?**
+
+
+## How can you amend or suppress your personal data?
 
 We have done our best to make it easy for you to amend or suppress the personal data you have submitted. In addition, when you sign in you will see a link called 'Profile' that allows you to edit or delete your details. If you require any other information about the data we hold about you please email [enquiriesuk@opodo.com](mailto:enquiriesuk@opodo.com). 
 
 Alternatively you can write to us at: The Data Protection Officer, Waterfront, Hammersmith Embankment, Chancellors Road, London W6 9RU
 
-**Traveller Profiles**
+  
+
+
+## Traveller Profiles
 
 Opodo collects personal information about travellers when a booking is made. Opodo also has a facility whereby traveller profiles (both for yourself and others) are stored to save you typing these details each time you make a booking. This information includes traveller name, date of birth, contact details, meal preferences, credit card and invoicing information, frequent flyer programmes and travel preferences.
 
 As traveller profile information may relate to persons other than yourself, you should ensure that any information you provide, which relates to others, is provided with those persons' consent to its use in accordance with this privacy policy.
 
-**Opt out**
+  
+
+
+## Opt out
 
 If you wish us to stop sending you newsletters or details of other offers and promotions please automatically subscribe through the unsubscribe link in our emails or email us at [nomarketing@opodo.com](mailto:nomarketing@opodo.com)
-
-|   | 
-
-|  | 
-
-### Be informed  
-  
----|---  
-  
-**How safe are my details?**  
-To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp?pageName=privacy&Int_Id=PS_1.0&locale=en_GB_123)  
-and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp?pageName=security&Int_Id=PS_1.0&locale=en_GB_123)  policies
