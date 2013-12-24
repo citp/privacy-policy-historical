@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boticca.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604023038id_/http%3A//boticca.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boticca.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224150413id_/http%3A//boticca.com/page/privacy) for the most accurate reproduction.*
 
 # Boticca Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This policy sets out the basis on which the personal data collected from you, or that you provide to us will be processed by us.
 
-Boticca.com Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.boticca.com.
+Boticca.com Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.boticca.com.
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@boticca.com](mailto:support@boticca.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -38,8 +38,6 @@ click on the 'Unsubscribe' link in the emails we have sent you (if any); or
 Log into your account and click on "Change Notifications"; or  
 contact our User Support Department by emailing [support@boticca.com](mailto:support@boticca.com) and advising us of your intention to be removed from our marketing database.
 
-    4. 3.4 We may pass Your Personal Data to relevant third party including marketing affiliates and partners for marketing purposes. You may, however, have your Personal Data removed from these partners at any point in time.
-
   4. **4\. RETENTION OF YOUR PERSONAL DATA**
 
     1. 4.1 We take appropriate measures to ensure that any personal data are kept secure and are kept for only so long as is necessary for the purpose for which they are used.
@@ -58,8 +56,7 @@ contact our User Support Department by emailing [support@boticca.com](mailto:sup
 
       2. **6\. DISCLOSURE OF YOUR INFORMATION**
 
-HERE 
-        1. 6.1 We may disclose Your Personal Data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries (where applicable), unless we have procured your express consent to do so.
+        1. 6.1 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. We may disclose Your Personal Data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries (where applicable), unless we have procured your express consent not to do so.
 
         2. 6.2 We may disclose Your Personal Data to third parties:
 
@@ -71,9 +68,7 @@ HERE
 
           4. 6.2.4 Service providers. We employ a third party credit card processor to handle financial transactions on the site as well as a third party emailing marketing software. Boticca.com selects its third party partners with care but does not have any ongoing control over the privacy practices of such third parties. Product is shipped from the third party vendor and is not done under the auspices of this site. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-      3. 7\. COOKIES AND IP ADDRESSES 7.2 If you would like to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that cookies are stored in. If you would like to stop cookies being stored on your computer in the future, please refer to your browser manufacturer's instructions by clicking 'Help' in your browser menu. Further information about deleting or controlling cookies is available at www.aboutcookies.org. 7.3 Please note that when you visit our site, we may also log your IP address, a unique identifier for your computer or other access device. We do not tie the IP address to Your Personal Data. 7.4 The use of cookies by our [partners, affiliates, tracking utility company, service providers] is/is not covered by our privacy policy. We do/do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.] 
-
-**7\. COOKIES AND IP ADDRESSES**
+      3. **7\. COOKIES AND IP ADDRESSES**
 
         1. 7.1 We may store information about you in a cookie (a small file that is sent by our web server to your computer), which we can access when you make return visits to our Website. Storing cookies is usual practice for any website that needs to remember what its users' preferences are and we use cookies to keep track of your choices in the Website. We do not tie the information gathered by cookies to Your Personal Data.
 
@@ -81,21 +76,25 @@ HERE
 
         3. 7.3 Please note that when you visit our site, we may also log your IP address, a unique identifier for your computer or other access device. We do not tie the IP address to Your Personal Data.
 
-        4. 7.4 The use of cookies by our [partners, affiliates, tracking utility company, service providers] is/is not covered by our privacy policy. We do/do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies [to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.]
+        4. 7.4 The use of cookies by our [partners, affiliates, tracking utility company, service providers is covered by our privacy policy. We do have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, and allow us to market our services and products to you accordingly.
 
       4. **8\. ADDITIONAL INFORMATION**
 
         1. 8.1 Public comments/Blogs. If you post a review or public comment on this website, you should be aware that any Personal Data you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the Personal Data you choose to submit in these forums. To request removal of your personal data from our blog or community forum, contact us at support@boticca.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-        2. 8.2 Social Media Widgets. Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+        2. 8.2 Social Media Widgets. Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
         3. 8.3 Single Sign-On. You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
+        4. Behavioral Targeting/ Re-Targeting. We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+(Google AdSense/Adwords) We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: http://www.google.com/privacy_ads.html. 
+
       5. **9\. CHANGES TO OUR PRIVACY POLICY**
 
-        1. 8.1 We reserve the right to modify this Privacy Policy at any time. Any material changes we may make to this Privacy Policy document in the future will be made available to you on our website on our updated privacy policy page.
+        1. 9.1 We reserve the right to modify this Privacy Policy at any time. Any material changes we may make to this Privacy Policy document in the future will be made available to you on our website on our updated privacy policy page. We will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
 
-        2. 8.2 If we decide to change our privacy policy, we will post those changes on our Website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+        2. 9.2 If we decide to change our privacy policy, we will post those changes on our Website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
       6. **10\. CONTACT DETAILS**
 
@@ -106,11 +105,11 @@ Attn: User Support Department
 Second Floor, Cardiff House   
 Tilling Road London NW2 1LJ   
 Email: [support@boticca.com ](mailto:support@boticca.com%E2%80%A8)  
-Tel: +44 (0) 208 133 6501  
+Tel: +44 (0) 207 836 6566  
 Fax: +44 (0) 207 979 0053  
 
 
-Effective date 17/09/2012
+Effective date 09/08/2013
 
 
 
