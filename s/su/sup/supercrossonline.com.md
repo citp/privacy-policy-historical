@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supercrossonline.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523032604id_/http%3A//www.supercrossonline.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercrossonline.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225001055id_/http%3A//www.supercrossonline.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - THE OFFICIAL WEBSITE OF MONSTER ENERGY SUPERCROSS - Monster Energy AMA Supercross, an FIM World Championship
 
-Privacy Policy (updated 10/05/11)  
+Privacy Policy (updated 10/04/13)  
 This website, located at [www.supercrossonline.com](http://www.supercrossonline.com/) (the "Site"), is owned and operated by Feld Entertainment, Inc. ("FEI" "we," "us"). Your privacy is important to us. This Privacy Policy (the "Privacy Policy") outlines the types of Personally Identifiable Information (as defined below) that we gather while you are visiting the Site, as well as ways in which we process and disseminate such Personally Identifiable Information. This Privacy Policy does not pertain to information collected on any other site owned by FEI, its subsidiaries or other businesses, nor does it extend to the privacy practices (or lack thereof) of third parties. We cannot and do not assume responsibility for the policies, practices and actions of such third parties. You are, of course, free to use much of the Site without providing any Personally Identifiable Information to us.
 
 We comply with the privacy laws and regulations of the United States of America and Canada. We make no representation that this Site is governed by or operated in accordance with the laws of other nations, or that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. By using this Site, visitors from outside of the United States of America acknowledge this Site is subject to the laws and regulations of the United States of America, and waive any claims that may arise under their own national laws. 
@@ -88,8 +88,7 @@ PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTIC
 5\. Opt-In Policy  
 a. FEI Communications - When you supply FEI with PII, from time-to-time, in FEI's discretion, you may be asked to indicate whether you are interested in receiving information from us about special offers in connection with the Site, FEI, our affiliates, vendors or advertisers. If you do choose to opt-in to receive such communications, we may, from time to time, send you marketing communications. If at any time you change your mind and no longer wish to receive marketing communications from us, you may opt-out of such marketing communications by either: 
 
-"Using the link provided in our newsletters or commercial email messages to opt-out of receiving further marketing communications from us"; or   
-"Changing your contact preference to "Do Not Contact Me" at any time by using the "Ask a Question" tab on our Help Page. 
+Using the link provided in our newsletters or commercial email messages to opt-out of receiving further marketing communications from us; or Changing your contact preference to "Do Not Contact Me" at any time by using the "Ask a Question" tab on our Help Page. 
 
 If you decide to contact us to change your contact preference to "Do Not Contact Me", FEI will implement this change in a reasonable time frame. Please be aware that your requested change will not be effective until FEI implements such change, and such requests will be implemented only in connection with your Site profile, and will not impact any preferences you may have made to any other site controlled, owned or operated by FEI or its affiliates.
 
@@ -113,3 +112,7 @@ Vienna, VA 22182
 Attention: General Counsel 
 
 11\. Access to Your PII - We appreciate your assistance in keeping your PII up to date and accurate. You are entitled to access, verify, amend and/or correct your PII collected by FEI. You are encouraged to contact our Privacy Officer at [motorsports@feldinc.com](mailto:motorsports@feldinc.com), or the above postal address to verify, correct or update your PII. If you have a concern regarding the collection, use or disclosure of your PII by FEI, please contact our Privacy Officer. Your concern will be investigated and you will be notified as soon as possible of the outcome of the investigation and any action required as a result. 
+
+[Click Here To Read About Our Ads](http://www.feldmotorsportsonline.com/aboutOurAds.html)
+
+[Click Here To View The Terms of Use](http://www.supercrossonline.com/TermsOfUse.aspx)
