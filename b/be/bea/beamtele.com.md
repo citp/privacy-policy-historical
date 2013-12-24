@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the beamtele.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605063442id_/http%3A//www.beamtele.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D56%26Itemid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamtele.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224213414id_/http%3A//www.beamtele.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Beam Fiber Privacy Policy | Beam Information sharing disclosure
+
+[](http://beamtele.com/index.php/privacy-policy?tmpl=component&print=1&page= "Print")
 
 _Privacy Policy_
 
 This policy covers how Beam Telecom Pvt Ltd ( "Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
 
-**Information Collection and Use: General**  
+**Information Collection and Use: General**[](http://beamtele.com/index.php/privacy-policy#top)  
 The Company collects personal information when you register with the Company, when you use the Company products or services, when you visit the Company pages or the pages of certain partners of the Company. The Company may combine information about you that we have with information we obtain from business partners or other companies. The Company shall have the right pass on the same to its business associates, franchisees without referring the same to you.   
 When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with the Company and sign in to our services, you become our valued customer. The Company collects information about your transactions with us and with some of our business partners, including information about your use of products and services that we offer.   
 The Company can use information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-**Information Sharing and Disclosure**  
+**Information Sharing and Disclosure**[](http://beamtele.com/index.php/privacy-policy#top)  
 The Company may share personal information about you with other people under the following circumstances: 
 
 -We provide the information to trusted partners who work on behalf of or with the Company under confidentiality agreements. These companies may use your personal information to help the Company communicate with you about offers from the Company and our marketing partners.   
@@ -24,6 +26,6 @@ The Company plans to display targeted advertisements based on personal informati
 
 The Company works with vendors, partners, advertisers, and service providers in many different industries and categories of business. We reserve the right to send you certain communications relating to the Company's service, such as service announcements, administrative messages and the Company's Newsletter, that are considered part of your account, without offering you the opportunity to opt-out of receiving them. 
 
-**Changes to this Privacy Policy**
+**Changes to this Privacy Policy**[](http://beamtele.com/index.php/privacy-policy#top)
 
 The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you. 
