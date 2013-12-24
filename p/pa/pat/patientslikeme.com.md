@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073217id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224123903id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-[About Us](https://web.archive.org/about)
-    [Our Team](https://web.archive.org/about/team)
-    [Openness Philosophy](https://web.archive.org/about/openness)
-    [Investors](https://web.archive.org/about/investors)
-    [Partners](https://web.archive.org/about/partners)
-    [Press](https://web.archive.org/about/press)
-    [Testimonials](https://web.archive.org/about/testimonials)
-    [Careers](https://web.archive.org/about/careers)
-Patient Programs
-    [Newsletter Archive](https://web.archive.org/newsletters)
-    [“Value of Openness” Blog](http://blog.patientslikeme.com/)
-    [PatientsLikeMeInMotion™ Events](https://web.archive.org/about/patientslikeme_in_motion)
-    [PatientsLikeMeOnCall™ Podcast](http://itunes.apple.com/us/podcast/patientslikeme-oncall-mp3/id364055239)
-    [Tell the World! Materials](https://web.archive.org/about/tell_the_world)
-Policies & Resources
-    [Privacy Policy](https://web.archive.org/about/privacy)
-    [User Agreement](https://web.archive.org/about/user_agreement)
-    [Release Notes](https://web.archive.org/release_notes)
-    [FAQs and Screencasts](https://web.archive.org/help)
-    [Contact Us](https://web.archive.org/about/contact)
-
-##  Effective March 5, 2012
 
 PatientsLikeMe ([www.patientslikeme.com](http://www.patientslikeme.com/)) (“Site”) is a sharing web site. Our goal is to provide a platform for patients who want to share their health information to create collective knowledge about disease, health, and treatments. We know our success in achieving this goal depends on a shared belief in our [Openness Philosophy](https://web.archive.org/about/openness). Being open about one’s health is not for everyone, and we strive, with full transparency, to outline the benefits and risks of being part of this sharing site, including those related to privacy.
 
@@ -35,7 +12,7 @@ We reserve the right to modify this policy at any time, and without prior notice
 
 ### Shared Data
 
-Some of the information that Members provide about themselves may be shared with the PatientsLikeMe community, Partners, and others (“Shared Data”). Examples of Shared Data that Members may submit at the Site, including through their health profile (“My Profile”), may include:
+Some of the information that Members provide about themselves may be shared with the PatientsLikeMe community, Partners, and others (“Shared Data”). Examples of Shared Data that Members may submit at the Site, including through their health profile (“My profile”), may include:
 
   * Biographical information, e.g. photograph, biography, gender, age, location (city, state and country), general notes;
   * Condition/disease information, e.g. diagnosis date, first symptom, family history;
