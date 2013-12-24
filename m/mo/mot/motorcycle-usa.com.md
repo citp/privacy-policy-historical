@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcycle-usa.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222230026id_/http%3A//www.motorcycle-usa.com/167/Motorcycles/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcycle-usa.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225000131id_/http%3A//www.motorcycle-usa.com/167/Motorcycles/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Motorcycle USA
 
