@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiningsusa.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624145947id_/http%3A//twiningsusa.com/footer-content.php%3Fid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiningsusa.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224192355id_/http%3A//www.twiningsusa.com/footer-content.php%3Fid%3D4) for the most accurate reproduction.*
 
 # Twinings USA: Privacy Policy
 
