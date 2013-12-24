@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116133056id_/http%3A//www.click2houston.com/-/1736084/4735798/-/cyaf5w/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224010202id_/http%3A//www.click2houston.com/-/1736084/4735798/-/cyaf5w/-/index.html) for the most accurate reproduction.*
 
 # Home - Privacy policy
 
