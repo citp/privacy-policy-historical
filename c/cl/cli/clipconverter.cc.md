@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipconverter.cc privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630115506id_/http%3A//www.clipconverter.cc/terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipconverter.cc privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224072957id_/http%3A//www.clipconverter.cc/terms/%23privacy) for the most accurate reproduction.*
 
 # Terms of Use - ClipConverter.cc
 
