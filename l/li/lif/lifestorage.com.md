@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestorage.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610062033id_/http%3A//www.lifestorage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestorage.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224152610id_/http%3A//www.lifestorage.com/privacy-policy) for the most accurate reproduction.*
 
 # LifeStorage Privacy Policy - TRUSTe Certified
 
