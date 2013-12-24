@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrotogo.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531093832id_/http%3A//www.modculturemedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrotogo.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224203103id_/http%3A//www.modculturemedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mod Culture: The use of cookies on our sites and our privacy policy
 
@@ -114,4 +114,4 @@ We are not responsible for the privacy policies and practices of other sites eve
 
 **Further information**
 
-For further information from us on data protection and privacy or any requests concerning your personal information please [email us](https://web.archive.org/web/20130531093832id_/http%3A//www.modculturemedia.com/info@modculturemedia.com) via the Modculture Media site.
+For further information from us on data protection and privacy or any requests concerning your personal information please [email us](https://web.archive.org/web/20131224203103id_/http%3A//www.modculturemedia.com/info@modculturemedia.com) via the Modculture Media site.
