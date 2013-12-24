@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinecolleges.net privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626054042id_/http%3A//www.onlinecolleges.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecolleges.net privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224194659id_/http%3A//www.onlinecolleges.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Colleges
+# Privacy Policy - OnlineColleges.net
 
 OnlineColleges.net’s privacy statement explains how information provided by you on OnlineColleges.net is compiled and used by us.
 
