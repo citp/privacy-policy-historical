@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijcaonline.org privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619134110id_/http%3A//www.ijcaonline.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D585) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijcaonline.org privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224190838id_/http%3A//www.ijcaonline.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D585) for the most accurate reproduction.*
 
 # IJCA - Privacy Policy
 
