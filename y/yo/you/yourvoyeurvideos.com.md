@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourvoyeurvideos.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301111211id_/http%3A//www.yourvoyeurvideos.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourvoyeurvideos.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224221945id_/http%3A//www.yourvoyeurvideos.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - yourvoyeurvideos.com
+# 
 
 Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website, www.yourvoyeurvideos.com (the Site, we or us).
 
