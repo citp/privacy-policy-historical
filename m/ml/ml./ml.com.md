@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515181220id_/http%3A//www.ml.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224235156id_/http%3A//www.ml.com/privacy) for the most accurate reproduction.*
 
 # Merrill Lynch Privacy & Security
 
