@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flysfo.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217130100id_/http%3A//www.flysfo.com/web/page/orphan/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flysfo.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225004332id_/http%3A//www.flysfo.com/privacy-policy) for the most accurate reproduction.*
 
-# SFO - San Francisco International Airport
+# Privacy Policy | www.flysfo.com
 
 This Privacy Policy outlines the types of information we gather when you visit flysfo.com, the official website of the City and County of San Francisco Airport Commission, as well as some of the steps we take to safeguard it.
 
-#### Information Collection
+## Information Collection
 
   * We do not collect personal information about you when you visit our website unless you choose to provide that information to us.  
   * We collect limited non-personally identifying information your browser makes available automatically whenever you visit a website. This information includes the Internet Address of your computer or network, the date, time, and page you visited on our site, your browser and operating system, and the referring page (the last webpage you visited before clicking on a link to our site).
@@ -14,26 +14,26 @@ This Privacy Policy outlines the types of information we gather when you visit f
 
 
 
-#### Information You Provide
+## Information You Provide
 
   * Information volunteered by you through your filling out of our optional online contact us form is used to help us enhance our services, and may be shared with City and County of San Francisco employees and contractors for that purpose.
 
 
 
-#### Cookies
+## Cookies
 
   * We may use "cookies" when providing personalization services. We use cookies to improve quality of our service and not to track any personal information.
   * The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. However, some features may not function properly without cookies.
 
 
 
-#### Information Sharing
+## Information Sharing
 
   * We do not give, share, sell, rent or transfer any personal information to a third party, unless we have your consent.
 
 
 
-#### Links
+## Links
 
   * The City and County of San Francisco uses link and search capabilities to navigate publicly available information from dozens of agencies that are not part of the City and County of San Francisco website and over whom the City exercises no control.
   * The privacy policies and procedures described here do not necessarily apply to those sites.
@@ -41,14 +41,14 @@ This Privacy Policy outlines the types of information we gather when you visit f
 
 
 
-#### Site Security
+## Site Security
 
   * We take appropriate security measures to protect unauthorized access, alteration or destruction of data.
   * Anyone using this website expressly consents to such measures intended to prevent unauthorized attempts to upload, change information or otherwise cause damage to the site. 
 
 
 
-#### Policy Changes
+## Policy Changes
 
   * Please note this Privacy Policy can change from time to time. We expect most such changes to be minor, but we will post those changes as they occur.
 
