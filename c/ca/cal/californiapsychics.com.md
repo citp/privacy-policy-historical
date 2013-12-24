@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218193757id_/http%3A//www.californiapsychics.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224165034id_/http%3A//www.californiapsychics.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # CaliforniaPsychics.com - Privacy Policy
 
@@ -13,7 +13,7 @@ TRUSTe's mission, as an independent third party, is to accelerate online trust a
 
 **U.S-E.U. Safe Harbor Program**
 
-Outlook Amusements complies with the U.S. – E.U. Safe Harbor framework [and the U.S. - Swiss Safe Harbor framework] as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Outlook has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Outlook’s certification, please visit <http://www.export.gov/safeharbor/>
+Outlook Amusements complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Outlook has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Outlook’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **FOR ENTERTAINMENT ONLY**
 
