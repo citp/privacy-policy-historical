@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoopsworld.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516084723id_/http%3A//hoopsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsworld.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224064538id_/http%3A//www.hoopsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HOOPSWORLD | Basketball News & NBA Rumors
 
