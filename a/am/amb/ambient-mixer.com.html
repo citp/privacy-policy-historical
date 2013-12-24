@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ambient-mixer.com privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610165736id_/http%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ambient-mixer.com privacy policy that was archived on 2013-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224010204id_/http%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
 	<title>Privacy policy</title>
@@ -11,15 +11,16 @@
 	-->
 	</script>
 	
-	<meta name="description" content="Privacy policy">
+		<meta name="description" content="Privacy policy">
 	<meta name="keywords" content="relax,ambient sound,audio mixer">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="content-language" content="en">
 	<meta name="google-site-verification" content="bGbzGXpiiXsxNntjP5_cHgEEd4lv8motZI_NBrDynoE">
-  	<link rel="stylesheet" type="text/css" href="http://www.ambient-mixer.com/css/main.css?id=20">
+  	<link rel="stylesheet" type="text/css" href="http://www.ambient-mixer.com/css/main.css?id=21">
   	<script type="text/javascript" src="http://www.ambient-mixer.com/js/general.js?version=2"></script>
-  	<script type="text/javascript" src="http://www.ambient-mixer.com/js/jquery.js?version=2"></script>
+  	<script type="text/javascript" src="http://www.ambient-mixer.com/js/jquery.js?version=3"></script>
 	<script type="text/javascript" src="http://www.ambient-mixer.com/js/swfobject.js?version=2"></script>
+
 	<meta property="og:title" content="Privacy policy">
 	<meta property="og:type" content="website">
 			<meta property="og:image" content="http://www.ambient-mixer.com/images/mixer.jpg">
@@ -87,6 +88,9 @@
 				<li>
 					<a href="http://www.ambient-mixer.com/donate">Donate</a>
 				</li>
+				<li>
+					<a href="http://www.ambient-mixer.com/mobile-download">Mobile version</a>
+				</li>
 			</ul>
 			<span class="menu_line">&nbsp;</span>
 			<div id="menu_user">
@@ -141,7 +145,7 @@
 							</li>
 																																		<li><div class="arrow level1"></div>
 			
-			<a title="Amients sounds that do not fit in other categories" href="http://other-atmospheres.ambient-mixer.com/"><strong>Other atmospheres</strong></a>
+			<a title="Ambient sounds that do not fit in other categories" href="http://other-atmospheres.ambient-mixer.com/"><strong>Other atmospheres</strong></a>
 														
 							</li>
 																																		<li><div class="arrow level1"></div>
@@ -156,7 +160,7 @@
 							</li>
 																																		<li><div class="arrow level1"></div>
 			
-			<a title="All sort of unreal atmospheres" href="http://unreal.ambient-mixer.com/"><strong>Unreal ambiances</strong></a>
+			<a title="All sorts of unreal atmospheres" href="http://unreal.ambient-mixer.com/"><strong>Unreal ambiances</strong></a>
 								</li></ul>
 
 </div>
@@ -209,6 +213,27 @@
 	Feedback, suggestions and problems: <a href="javascript:linkTo_UnCryptMailto('ocknvq,vkog4vcnmBcodkgpv/okzgt0eqo');">time2talk<span>@</span>ambient-mixer.com</a>
 </div>
 
+
+<script type="text/javascript">
+$(document).ready(function() {
+	var cookie = 0;
+	if(cookie!=0)
+	{
+		if(confirm('Your device does not work with the web version of ambient-mixer.com. Do you want to install our ambient mixer app for mobile devices now?'))
+		{
+			cookievalue=0; 
+			document.cookie="identify=" + cookievalue;
+			location.href='';
+		}
+		else
+		{
+			var cookievalue= 1;
+			document.cookie="identify=" + cookievalue;
+		}
+	}
+});
+</script>
+
 <script type="text/javascript">
 <!--
 	
@@ -241,7 +266,8 @@
 	<!-- Piwik -->
 	<script type="text/javascript">
 	  var _paq = _paq || [];
-	  _paq.push(["setDomains", ["*.ambient-mixer.com"]]);
+	  _paq.push(["setCookieDomain", "*.ambient-mixer.com"]);
+	  _paq.push(["setDomains", "*.ambient-mixer.com"]); 
 	  _paq.push(["trackPageView"]);
 	  _paq.push(["enableLinkTracking"]);
 
@@ -254,7 +280,6 @@
 	  })();
 	</script>
 	<!-- End Piwik Code -->
-
 
 
 
