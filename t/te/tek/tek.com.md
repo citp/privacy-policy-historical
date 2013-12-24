@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213062255id_/http%3A//www.tek.com/Measurement/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224040615id_/http%3A//www.tek.com/privacy-statement) for the most accurate reproduction.*
 
-# Tektronix: Privacy > Privacy Statement
+# Tektronix Privacy Statement | Tektronix
 
-Tektronix, Inc. has created this Privacy Statement in order to demonstrate our company's commitment to privacy. Your right to privacy and data security is a primary concern. 
+Tektronix, Inc. has created this Privacy Statement in order to demonstrate our company's commitment to privacy. Your right to privacy and data security is a primary concern.
 
 When you visit any Tektronix, Inc. Web site, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet sites.
 
   * Information Gathering and Usage
   * Cookies and Web Beacons
   * Managing Your Information
+  * Syndication Information
   * Security
   * Contact Tektronix
   * Notification of Change
@@ -43,7 +44,11 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 ##### Log Files
 
-Like most standard Web site servers, we use log files to automatically log information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We log this information to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. For areas of our site that require registration, we log the user's email address and specific information concerning the user's activity on the site. This information may be tied to the user's other personal information and, if so, it is used to support the user's professional relationship with Tektronix and our products. 
+Like most standard Web site servers, we use log files to automatically log information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We log this information to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. For areas of our site that require registration, we log the user's email address and specific information concerning the user's activity on the site. This information may be tied to the user's other personal information and, if so, it is used to support the user's professional relationship with Tektronix and our products.
+
+##### Mouseflow
+
+We may periodically use the mouseflow web analytics service on the site to help us research site issues and to help us improve our visitors' experience on the site.  When enabled, Mouseflow records mouse clicks, mouse movements, scrolling activity as well as any text you type on the pages on which it is enabled.  For mouseflow's privacy policy, [visit: http://mouseflow.com/privacy](http://mouseflow.com/privacy).
 
 ##### Cookies and Web Beacons
 
@@ -51,11 +56,9 @@ Cookies are used to enhance your experience on our sites by allowing us to tailo
 
 Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. Although rejection of cookies will not interfere with your ability to interact with most of our site, you will need to accept cookies if you choose to enter areas of our site that require registration or log on.
 
-Some of our business partners and software vendors use cookies on our site (e.g., for site analytics). While Tektronix strives to protect the private information of our site users and thoroughly reviews the security and privacy practices of our site partners, we have no access to or control over these cookies. As such, this privacy statement covers the use of cookies by www.tektronix.com only and does not cover the use of cookies by any business partners or software vendors.
+Some of our business partners and software vendors use cookies on our site (e.g., for site analytics). While Tektronix strives to protect the private information of our site users and thoroughly reviews the security and privacy practices of our site partners, we have no access to or control over these cookies. As such, this privacy statement covers the use of cookies by [www.tektronix.com](http://www.tektronix.com/ "www.tektronix.com") only and does not cover the use of cookies by any business partners or software vendors.
 
-We also collect information through the use of Web beacons. Web beacons are tiny invisible graphics placed on certain pages of Tektronix' web sites. When a visitor accesses one of these pages, a notice of that visit is generated. Web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. Processing this information helps us better manage content on our site by informing us what content is effective.
-
-In addition, we use Web beacons in some of our HTML-based emails to let us know what percentage of emails are opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+We also collect information through the use of Web beacons. Web beacons are tiny invisible graphics placed in some of our HTML-based emails to let us know what percentage of emails are opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
 ##### Information Sharing
 
@@ -63,9 +66,7 @@ Tektronix will not share, sell or rent your personal information for promotional
 
 ##### Legal Requirements
 
-Tektronix may be required to disclose personal information in response to a court order or other legal requirement. 
-
-Back to top
+Tektronix may be required to disclose personal information in response to a court order or other legal requirement.
 
 #### Managing Your Information
 
@@ -77,7 +78,25 @@ Tektronix offers you the ability to correct or change the information collected 
 
 Tektronix does not offer you a means by which to completely delete personal information, but you can deactivate your identity within our database. To deactivate an identity, email [privacy@tektronix.com](mailto:privacy@tektronix.com).
 
-Back to top
+#### Syndication information
+
+Please read the following before contacting us if you wish to use any print or online content. In many cases it's not necessary to contact us for permission. If you still have questions, contact us at [privacy@tektronix.com](mailto:privacy@tektronix.com).
+
+##### Academic use
+
+Whenever academic organizations use Tektronix content online for academic purposes, please provide a link to the sourced material on tek.com. No permission is required if academic organizations reproduce our content free of charge to viewers, provided Tektronix is clearly credited as the source. We will charge for reprinting our articles in textbooks and examination papers. Contact Tektronix Privacy at [privacy@tektronix.com](mailto:privacy@tektronix.com) with details.
+
+##### Students
+
+Students may quote short extracts of our content for their school/college coursework, as long as Tektronix is clearly credited and/or a link is provided in any electronic documents.
+
+##### Web reuse/Linking
+
+If you wish to use our content on your website or blog you may reproduce up to 200 words as long as a link back to the original content on [tek.com](http://www.tek.com/) is provided. No permission is required to do this. You may not breach our copyright by publishing any of our content in its entirety, either in print or online without permission.
+
+##### Graphics/Photos/Illustrations
+
+We are able to syndicate our in-house graphics/diagrams for reuse. If you would like to syndicate a graphic/diagram in print or online please contact Tektronix at [privacy@tektronix.com](mailto:privacy@tektronix.com). Please supply details of the graphic/diagram, the name of the article it relates to, if in print the date of the issue it appeared in, or if online a link to the graphic/diagram as well as a link to the article.
 
 #### Security
 
@@ -91,13 +110,11 @@ Tektronix' Web sites do not target and are not intended for children under the a
 
 Tektronix may transfer personal information to a third party that acquires a business from Tektronix where the information is provided as an important asset of that acquired business. You will be notified of the transfer in accordance with our Notification of Change procedure outlined at the end of this policy.
 
-Back to top
-
 #### Contact Tektronix
 
-For Privacy Policy questions, email [privacy@tektronix.com](mailto:privacy@tektronix.com) or via postal mail at: 
+For Privacy Policy questions, email [privacy@tektronix.com](mailto:privacy@tektronix.com) or via postal mail at:
 
-Tektronix.com Privacy   
+Tektronix.com Privacy  
 Tektronix, Inc.  
 P.O. Box 500, M-S 50-237  
 14200 S. W. Karl Braun Drive  
@@ -105,10 +122,8 @@ Beaverton, Oregon 97077
 
 
 
-Back to top
-
 #### Changes in this Privacy Statement
 
-This statement was last updated April 1st, 2008. If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+This statement was last updated December 14th, 2012. If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 Back to top
