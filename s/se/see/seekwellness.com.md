@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528181818id_/http%3A//www.seekwellness.com/info/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224162854id_/http%3A//www.seekwellness.com/info/privacy_statement.htm) for the most accurate reproduction.*
 
 # privacy policy
 
 Information courtesy of SeekWellness.com  
 http://www.seekwellness.com/privacy_statement.htm
-
-Your Privacy at SeekWellness 
 
 **How to Protect the Privacy of Your Health Information**
 
@@ -13,7 +11,7 @@ Jump to: Privacy Resources for Consumers
 
 Q. **Do you know where your health information is going?**
 
-A. When you register at and then log in to a health website, any information you provide may be stored by the owners of the website. In some cases, this information is traceable to your email address or your IP address and is available for sale or trade by the original website to other companies interested in marketing to people with your profile. Your IP address is the unique number assigned to your computer when it's connected to the Internet. Your job is to discover what happens to the information collected along with your address. 
+A. When you register at and then log in to a health website, any information you provide may be stored by the owners of the website. In some cases, this information is traceable to your email address or your IP address and is available for sale or trade by the original website to other companies interested in marketing to people with your profile. Your IP address is the unique number assigned to your computer when it's connected to the Internet. Your job is to discover what happens to the information collected along with your address.
 
 Q. **What can you do to protect your information?**
 
