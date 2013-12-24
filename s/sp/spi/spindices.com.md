@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spindices.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212720id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spindices.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224050644id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
 
 # Privacy Notice for S&P Capital IQ and S&P Indices
 
@@ -77,7 +77,7 @@ You can change your web browser’s Internet preferences to disable or delete co
 
 If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer’s instructions on how to manage cookies.
 
-[Click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) for more information about The McGraw Hill Financial's Customer Privacy Policy.
+[Click here](http://www.mhfi.com/privacy/policy-statement-english) for more information about McGraw Hill Financial's Customer Privacy Policy.
 
 Last updated: May 2013. Future revisions to this Privacy and Cookie Notice will be posted at this location.
 
