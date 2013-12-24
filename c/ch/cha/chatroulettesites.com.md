@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatroulettesites.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529210551id_/http%3A//chatroulettesites.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatroulettesites.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224060130id_/http%3A//chatroulettesites.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ChatrouletteSites.com
 
