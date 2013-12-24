@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographyonlinetutorials.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609154847id_/http%3A//www.photographyonlinetutorials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographyonlinetutorials.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224075009id_/http%3A//www.photographyonlinetutorials.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photography Online Tutorials
 
@@ -23,4 +23,4 @@ We have included links on this site for your use and reference. We are not respo
 #### Changes to this Privacy Statement
 
 The contents of this statement may be altered at any time, at our discretion.  
-If you have any Question, Then Pelase Contact us:  info@photographyonlinetutorials.com
+If you have any Question, Then Please Contact us:  info@photographyonlinetutorials.com
