@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the marcos.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501050640id_/http%3A//marcos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcos.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224074925id_/http%3A//marcos.com/privacy-policy) for the most accurate reproduction.*
 
 # Marco's Pizza - Privacy Policy
+
+##  Privacy Policy
 
 Marco’s Franchising LLC is committed to protecting and safeguarding the privacy of your personal information on this website (the “Site”). It is important for you to know how we treat your personal information and ask that you read the following policy. The terms of this Privacy Policy apply to all users of this Site. Below you will find answers to several questions regarding our Privacy Policy. If you have questions about our policy, [please click here](http://marcos.com/customer-feedback) to complete our electronic feedback form.
 
