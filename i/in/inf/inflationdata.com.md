@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604234456id_/http%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224120548id_/http%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | InflationData.com
 
-Last Updated: 26 December 2012
+Last Updated: 21 October 2013
 
 Your privacy is very important to us. Accordingly, we have developed this Policy  in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
@@ -21,6 +21,20 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 
 You can read more about Google’s Advertising and Cookies here: <http://www.google.com/policies/privacy/ads/>
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). You can also use [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
+### Remarketing with Google Analytics
+
+  * InflationData.com uses Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, show our ads on sites across the Internet.
+  * InflationData.com, third-party vendors, including Google, use first-party cookies and third-party cookies together to inform, optimize and serve ads based on your past visits to our website.
+
+
+
+### Google Analytics Demographics and Interest Reporting
+
+InflationData.com uses data from Google’s Interest-based advertising or third-party audience data (such as age, gender and interests) with Google Analytics.
 
 ### What Are Cookies?
 
