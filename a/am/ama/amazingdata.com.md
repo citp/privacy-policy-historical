@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amazingdata.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622014204id_/http%3A//amazingdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingdata.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224154753id_/http%3A//amazingdata.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Amazing Data
+# Privacy Policy - Amazing Data
 
 ## [Privacy Policy](http://amazingdata.com/privacy-policy/ "Privacy Policy")
 
