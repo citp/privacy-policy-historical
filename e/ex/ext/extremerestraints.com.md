@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601075350id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224123745id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement | Bondage Gear - Sex Toys - Fucking Machines
 
 Categories
 
 [New Items](http://www.extremerestraints.com/products_new.php)
+
+[Holiday Sale 2013](http://www.extremerestraints.com/extreme-holiday-2013_532/?utm_source=frontpage&utm_medium=sidelink&utm_campaign=13Dec5HolidayGuide)
 
 [Bondage Gear](http://www.extremerestraints.com/bondage-gear_10/)
 
