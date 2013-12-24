@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcelebshome.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622004857id_/http%3A//www.hotcelebshome.com/contact-us/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcelebshome.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224215206id_/http%3A//www.hotcelebshome.com/contact-us/%23privacy) for the most accurate reproduction.*
 
 # Contact Us : Hot Celebs Home
 
