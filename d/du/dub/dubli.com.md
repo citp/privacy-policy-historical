@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dubli.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605041923id_/http%3A//us.dubli.com/info/12-Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubli.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224023010id_/http%3A//us.dubli.com/info/12-Privacy) for the most accurate reproduction.*
 
-# Privacy » DubLi
+# Privacy - Better Deals, More Cashback - DubLi
 
 Effective Date: March 22, 2012 
 
@@ -10,7 +10,7 @@ The responsible position for data processing is DUBLICOM Ltd. (Hereafter defined
 DubLi has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers the website [www.dubli.com](http://www.dubli.com/) and does NOT cover information that may be collected through downloadable software on the site.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@dublinetwork.com](mailto:privacy@dublinetwork.com) If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Usage**  
-We make use of your data in the processing of your order and to provide a free newsletter and information about current auctions and special DubLi campaigns such as our sweepstakes. To opt out of these marketing emails, please follow the directions in the emails or use your account settings page to set your communications preferences. Customer data is stored and processed according to the "The Processing of Personal Data (Protection of Individuals) Law 138(I)2001 as amended by The Processing of Personal Data (Protection of Individuals) (Amendment) Law of 2003 (37(I)2003)". Until such time that this is cancelled, we will use your email address to send you our newsletters.  
+We make use of your data in the processing of your order and to provide a free newsletter and information about special DubLi campaigns such as our sweepstakes. To opt out of these marketing emails, please follow the directions in the emails or use your account settings page to set your communications preferences. Customer data is stored and processed according to the "The Processing of Personal Data (Protection of Individuals) Law 138(I)2001 as amended by The Processing of Personal Data (Protection of Individuals) (Amendment) Law of 2003 (37(I)2003)". Until such time that this is cancelled, we will use your email address to send you our newsletters.  
 ****
 
 **Information**  
