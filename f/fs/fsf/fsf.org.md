@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424053733id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224205735id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Software Foundation
-
-## Privacy Policy
+# Privacy Policy -
 
 The restrictions described here on the dissemination of personal information are not subject to change. This policy is updated occasionally but the changes will not reduce the privacy protection of visitors.  If there are changes made in the future, the changes will not affect information already collected.
 
