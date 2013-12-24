@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-mudhra.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613003141id_/https%3A//www.e-mudhra.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mudhra.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224035638id_/http%3A//www.e-mudhra.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Create Digital Signatures, Certified Electronic Signature, Online Electronic Signature | Privacy Policy
 
