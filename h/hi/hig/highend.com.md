@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highend.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520231055id_/http%3A//www.highend.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highend.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224184753id_/http%3A//www.highend.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - High End Systems
 
