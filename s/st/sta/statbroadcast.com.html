@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the statbroadcast.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601182518id_/http%3A//www.statbroadcast.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the statbroadcast.com privacy policy that was archived on 2013-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224020325id_/http%3A//www.statbroadcast.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -7,6 +7,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jq/jquery.js"></script>
 <script type="text/javascript" src="/js/jq/jquery-ui.js"></script>
 <script type="text/javascript" src="/js/jq/jvalidate.js"></script>
+<script type="text/javascript" src="/js/site/scripts.js"></script>
 <script>
 logolink = true;
 $(document).ready(function(){
@@ -18,10 +19,20 @@ $(document).ready(function(){
 	});
 	}
 	//format all buttons
-	$('.button').button();
+	$('.button, .sb_navilink').button();
+	$("#signinbutton").button( "option", "icons", { primary: "ui-icon-locked" } );
+
+	$("#link4").button( "option", "icons", { primary: "ui-icon-person" } );
+	$("#link5").button( "option", "icons", { primary: "ui-icon-signal-diag" } );
+	$("#link6").button( "option", "icons", { primary: "ui-icon-notice" } );
+	$("#link7").button( "option", "icons", { primary: "ui-icon-help" } );
+	$("#link8").button( "option", "icons", { primary: "ui-icon-mail-closed" } );
+	$("#link9").button( "option", "icons", { primary: "ui-icon-calendar" } );
+	$("#link10").button( "option", "icons", { primary: "ui-icon-note" } );
+	$('.sb_headertopbutton').removeClass('ui-corner-all').addClass('ui-corner-bottom');
 
 	//control panel signin popup controller
-	$('#signin').validate({errorPlacement: function(error, element) {error.appendTo( null );}});
+	$('.signin').validate({errorPlacement: function(error, element) {error.appendTo( null );}});
 	$(".signin").click(function(e) {
 		e.preventDefault();
 		$("fieldset#signin_menu").toggle();
@@ -34,20 +45,16 @@ $(document).ready(function(){
 			$("fieldset#signin_menu").hide();
 		}
 	});
+
 });
 
-//general helper functions
-function activeLink(el){$(el).css("font-weight", "bold");$(el).css("color", "#FFF");}
-function getParameterByName(name) {    return splitQuery(window.location.href, name);}
-function splitQuery(tgt, name) {    name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");    var regexS = "[\\?&]" + name + "=([^&#]*)";    var regex = new RegExp(regexS);    var results = regex.exec(tgt);    if (results == null)        return false;    else        return results[1];}
-function adjustHeight(){var min_height = (arguments[0]) ? arguments[0] : 500 ;var h = $('.sb_maincontent_sidebar').height()+100;	if (h < min_height)	{h = min_height;}	var hh = $('.sb_maincontent_left').height()+100;	if (hh > h){h = hh;}	$('.sb_maincontent').height(h);}
 </script>
-<!--<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/overcast/jquery-ui.css" />-->
-<link rel="stylesheet" type="text/css" href="/css/ui/sb-ui-theme/jquery-ui-1.8.13.custom.css">
+
+<link rel="stylesheet" type="text/css" href="/css/themes/sb/jquery-ui.css">
 <link rel="icon" type="image/ico" href="/sb.ico">
 <link type="text/css" href="/css/mainstyles.css" rel="stylesheet">
 <link type="text/css" href="/css/text.css" rel="stylesheet">
-<!--<link rel="stylesheet" type="text/css" href="/css/themes/america/theme.css" />-->
+<link type="text/css" href="/css/font/eurostile.css" rel="stylesheet">
 <style>
 .hidden{display:none;}
 </style>
@@ -57,22 +64,17 @@ function adjustHeight(){var min_height = (arguments[0]) ? arguments[0] : 500 ;va
 <div id="container">
   <fieldset id="signin_menu">
     <form method="post" id="signin" action="/admin/login.php">
+	 <p>
       <label for="username">Username</label>
       <input id="username" name="txtUserId" value="" title="username" tabindex="4" type="text" class="required">
-      <p></p>
+      </p>
       <p>
         <label for="password">Password</label>
         <input id="password" name="txtPassword" value="" title="password" tabindex="5" type="password" class="required">
       </p>
       <p class="remember">
         <input id="s" class="button ui-button ui-widget ui-state-default ui-corner-all" value="Sign in" tabindex="6" type="submit" role="button" aria-disabled="false">
-        <!--<input id="remember" name="remember_me" value="1" tabindex="7" type="checkbox">
-        <label for="remember">Remember me</label>-->
       </p>
-      <!--<p class="forgot"> <a href="#" id="resend_password_link">Forgot your password?</a> </p>
-      <p class="forgot-username"> <A id=forgot_username_link
-title="If you remember your password, try logging in with your email"
-href="#">Forgot your username?</A> </p>-->
 	  <input type="hidden" name="loginbox" value="true">
     </form>
   </fieldset>
@@ -81,36 +83,37 @@ href="#">Forgot your username?</A> </p>-->
 
 <div class="sb_wrapper">
 <!-- HEADER -->
+<div class="sb_topheader ui-widget-header"><div class="sb_headermenutop"><a class="sb_headertopbutton button ui-button ui-widget ui-state-default ui-button-text-icon-primary ui-corner-bottom" id="link9" href="/events" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-calendar"></span><span class="ui-button-text">today's events</span></a>
+					<a class="sb_headertopbutton button ui-button ui-widget ui-state-default ui-button-text-icon-primary ui-corner-bottom" id="link10" href="/blog" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-note"></span><span class="ui-button-text">blog</span></a>
+					<a class="sb_headertopbutton button ui-button ui-widget ui-state-default ui-button-text-icon-primary ui-corner-bottom" id="link7" href="/support" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-help"></span><span class="ui-button-text">support</span></a>
+					<a class="sb_headertopbutton button ui-button ui-widget ui-state-default ui-button-text-icon-primary ui-corner-bottom" id="link5" href="/news.php" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-signal-diag"></span><span class="ui-button-text">news</span></a>
+					<a class="sb_headertopbutton button ui-button ui-widget ui-state-default ui-button-text-icon-primary ui-corner-bottom" id="link6" href="/about.php" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-notice"></span><span class="ui-button-text">about</span></a>
+					<a class="sb_headertopbutton button ui-button ui-widget ui-state-default ui-button-text-icon-primary ui-corner-bottom" id="link4" href="/clients.php" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-person"></span><span class="ui-button-text">clients</span></a>
+					<a class="sb_headertopbutton button ui-button ui-widget ui-state-default ui-button-text-icon-primary ui-corner-bottom" id="link8" href="/contact.php" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-mail-closed"></span><span class="ui-button-text">contact</span></a>
+										<a id="signinbutton" class="sb_headertopbutton button signin ui-button ui-widget ui-state-default ui-button-text-icon-primary ui-corner-bottom" href="/admin" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-locked"></span><span class="ui-button-text">login</span></a>
+					</div></div>
 	<div class="sb_headerwrapper">
 		<div class="sb_header">
 			<div class="sb_headerlogo" style="cursor: pointer;">&nbsp;</div>
 			<div class="sb_headerdiv">&nbsp;</div>
 			<div class="sb_headermenu">
 				<div class="sb_headermenutop">
-					<span class="sb_headermenutop_spacer">&nbsp;</span>
-
-					<span class="sb_headertopbutton"><a class="sb_navibutton" id="link9" href="/events">today's events</a></span>
-					<!--<span class="sb_headertopbutton"><a class="sb_navibutton" href="#"><img src="grfx/smalllockico.png" border=0 />&#160;admin login</a></span>-->
-					<span class="sb_headertopbutton"><a class="sb_navibutton" id="link10" href="/blog">statreport blog</a></span>
+					<br>
+					<a href="/statmonitr.php" title="StatMonitr" id="link2" class="sb_navilink ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button"><span class="ui-button-text">StatMonitr</span></a>
+					<a href="/statbroadcast.php" title="StatBroadcastLive" id="link3" class="sb_navilink ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button"><span class="ui-button-text">StatBroadcast Live</span></a>
 				</div>
 				<div class="sb_headermenubottom">
 					<br>
-					<a href="/index.php" title="Home" id="link1" class="sb_navilink">Home</a>
-					<a href="/statmonitr.php" title="StatMonitr" id="link2" class="sb_navilink">StatMonitr</a>
-					<a href="/statbroadcast.php" title="StatBroadcastLive" id="link3" class="sb_navilink">Live Stats</a>
-					<a href="/clients.php" title="Clients" id="link4" class="sb_navilink">Clients</a>
-					<a href="/news.php" title="News" id="link5" class="sb_navilink">News</a>
-					<a href="/about.php" title="About" id="link6" class="sb_navilink">About</a>
-					<a href="/support" title="Support" id="link7" class="sb_navilink">Support</a>
-					<a href="/contact.php" title="Contact" id="link8" class="sb_navilink">Contact</a>
+
 				</div> <!-- sb_headermenubottom -->
 			</div> <!-- sb_headermenu -->
 			<div class="sb_headerbottom">
-								<span id="signinbutton" class="sb_headerbottombutton"><a class="sb_navibutton signin" href="login"><img src="/grfx/site/smalllockico.png" border="0">&nbsp;admin login</a></span>
-				
-				<!--	<span class="sb_headerbottombutton"><a class="sb_navibutton" href="#"><img src="grfx/searchico.png" border=0 />&#160;&#160;search</a></span>-->
+
 			</div>
 		</div> <!-- sb_header -->
+		<div class="sb_header" style="text-align:right;">
+
+		</div>
 	</div>	<!-- sb_headerwrapper -->
 <!-- END HEADER -->
 
@@ -118,7 +121,7 @@ href="#">Forgot your username?</A> </p>-->
 <!-- SUB HEADER -->
 	<div class="sb_subheaderwrapper">
 		<div class="sb_subheader">
-			<span class="sb_subheadertxt">StatBroadcast Privacy Policy</span>
+			<span class="sb_subheadertxt">StatBroadcast<sup>®</sup> Privacy Policy</span>
 		</div> <!-- sb_subheader -->
 	</div> <!-- sb_subheaderwrapper -->
 	<div class="ui-widget-header sb_subtitlewrapper">
@@ -136,14 +139,15 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 
 </div>
-</div>
+
+</div></div>
 
 
 <!-- FOOTER -->
-	<div class="sb_mainfooterwrapper">
+	<div class="sb_mainfooterwrapper ui-widget-header">
 		<div class="sb_mainfooter">
 		<div class="sb_mainfooterleft">StatBroadcast® is a registered trademark and dba of <br>Radiak Group LLC, an Arizona entity.<br>
-								   	   Copyright © 2009-2011. Radiak Group LLC, Tempe AZ. All Rights Reserved.<br>
+								   	   Copyright © 2009-2013. Radiak Group LLC, Tempe AZ. All Rights Reserved.<br>
 								   	   <!--<a href="#" class="bcs_navilink">Site Map<a/>
 								   	   |--> <a class="bcs_navilink" href="/terms.php">Terms of Use</a>
 								   	   | <a href="/privacy.php" class="bcs_navilink">Privacy Policy</a>
@@ -151,11 +155,10 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 								   	   </div>
 		<div class="sb_mainfooterright">powered by&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><a target="_blank" href="http://www.radiakgroup.com"><img border="0" src="/grfx/site/radiakgroup.png"></a></div>
 </div>
-	</div>
 <!-- END FOOTER -->
 
 
-</div><!-- sb_wrapper -->
+</div> <!-- sb_wrapper -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -171,22 +174,13 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 </script>
 <script src="/js/cookiemonster.js"></script>
-<script>
-$(document).ready(function(){
+<script type="text/javascript">
 var smbypass = 0;
-
+$(document).ready(function(){
 if (readCookie("statmonitr") == "bcs"){smbypass = 1;}
-if (smbypass == 1)
-{
-
-	$('a.bcs_eventlink').each(function(){
-		h = $(this).attr("href");
-		$(this).attr("href",h+'&statmonitr=bcs');
-	});
-}
+doByPass();
 });
 
 </script>
-
 
 </div></body></html>
