@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspeedup.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606115601id_/http%3A//pcspeedup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspeedup.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224105531id_/http%3A//pcspeedup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - PC Speed Up - Clean, optimize and get a faster PC now!
 
