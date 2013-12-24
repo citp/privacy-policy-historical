@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamesthirst.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624233608id_/http%3A//www.gamesthirst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesthirst.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224212309id_/http%3A//www.gamesthirst.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Games Thirst – Video Game News, Reviews, Trailers, Wikis And The Official Gamer Drink
+# Privacy Policy | Games Thirst - Amazing Life
 
-**Gamesthirst.com Â  Privacy policy**
+**Gamesthirst.com Privacy policy**
 
 Gamesthirst.com has created a privacy policy to show our strict commitment to the privacy of our users. The following makes plain information gathering and dissemination protocols for this website (Gamesthirst.com).
 
