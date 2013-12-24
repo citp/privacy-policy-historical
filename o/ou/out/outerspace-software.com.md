@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602063557id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224071259id_/http%3A//www.outerspace-software.com/privacy.html) for the most accurate reproduction.*
 
 # Outerspace Software: 3D Effects for Video Titling and Digital Signage - Privacy Policy
 
@@ -7,6 +7,14 @@ Outerspace Software is very concerned about protecting your online privacy. This
 ### Cookies
 
 Cookies are used by our online gallery to store your login information. This can be turned off by unmarking the **Remember me** checkbox on the login page.
+
+### Your gallery nickname
+
+Visitors and other gallery users can only see your nickname. Your real name, e-mail address or other personal information is never visible.
+
+### Your gallery posts
+
+At any time you can delete your own gallery articles and comments. When doing this they are hard deleted from the database.
 
 ### Personal information
 
