@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613062412id_/http%3A//www.hostmysite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224210056id_/http%3A//www.hostmysite.com/privacypolicy) for the most accurate reproduction.*
 
 # HostMySite.com :: Web Hosting Services - Privacy Policy
 
@@ -16,7 +16,7 @@ We collect information from Users in many ways. The purpose of this Privacy Poli
 
 **Inquiries** – When Users contact us we may ask for information that allows us to contact them, validate the seriousness of their inquiry and request specific information related to the reason they have contacted us (User Inquiry Information). 
 
-**Surveys** &ndash Users may be offered the opportunity to respond to surveys, questionnaires and other requests for information (Survey Information). The types of data that Users provide to us is set out in the survey request.
+**Surveys** – Users may be offered the opportunity to respond to surveys, questionnaires and other requests for information (Survey Information). The types of data that Users provide to us is set out in the survey request.
 
 **Statistical Information** – All of our servers collect statistical information such as Users’ IP addresses, dates Users visit, computers Users are using, and operating system, among other data (Statistical Information).
 
@@ -28,17 +28,17 @@ We collect information from Users in many ways. The purpose of this Privacy Poli
 
 **Subpoenas and Other Demands for Information** \- HostMySite.com is required to comply with demands for information as dictated by State and Federal law. Examples of these demands include subpoenas, warrants, and civil discovery demands. Information covered by our Privacy Policy may be disclosed following such a request if we determine, in our sole discretion, that such a disclosure is necessary or required. We may also disclose this information if it is necessary or required to protect our interests, the interests of our customers, or in connection with the sale of our business.
 
-**Customer Record** &ndash We use the Customer Record to identify Users personally. It is used throughout our business to provide services to Users. Information in your Customer Record will only be shared with third parties if it is necessary to provide Third Party products to you. However, information in the Customer Record related to payments, such as a Users’ credit card number, is only used to ensure we receive payment for services rendered 
+**Customer Record** – We use the Customer Record to identify Users personally. It is used throughout our business to provide services to Users. Information in your Customer Record will only be shared with third parties if it is necessary to provide Third Party products to you. However, information in the Customer Record related to payments, such as a Users’ credit card number, is only used to ensure we receive payment for services rendered 
 
 **Customer Inquiries** – We use Customer Inquiry Information to identify Users personally. It is used throughout our business to provide services to Users. Customer Inquiry Information is shared with third parties in the following circumstances: to identify and fix problems with services we provide when we are not capable of doing so ourselves. 
 
-**Survey Information** &ndash We use Survey Information to identify Users personally. We use it throughout our business to market new products and services to Users. Survey Information is not shared with third parties in ways that identify Users personally. To the extent we share Survey Information with third parties, it is done in aggregate. 
+**Survey Information** – We use Survey Information to identify Users personally. We use it throughout our business to market new products and services to Users. Survey Information is not shared with third parties in ways that identify Users personally. To the extent we share Survey Information with third parties, it is done in aggregate. 
 
-**Statistical Information** &ndash We do not use Statistical Information to identify Users personally. We use statistical information to operate our hardware and software, diagnose problems and administer our website. We may use aggregate information to modify the products and services we offer based on who is visiting our website, and what they are purchasing. 
+**Statistical Information** – We do not use Statistical Information to identify Users personally. We use statistical information to operate our hardware and software, diagnose problems and administer our website. We may use aggregate information to modify the products and services we offer based on who is visiting our website, and what they are purchasing. 
 
-**Cookies** &ndash We may use Cookies to identify Users personally. We use the information provided by cookies to change the way our website looks to Users; to keep Users logged in to certain areas of the website; to ensure continued connection to the Equipment; and to collect demographic data about where Users go on our website and how they behave. Cookies used by our Equipment are used to track and log activities on the Equipment and our Network for security, network maintenance and other related activities. 
+**Cookies** – We may use Cookies to identify Users personally. We use the information provided by cookies to change the way our website looks to Users; to keep Users logged in to certain areas of the website; to ensure continued connection to the Equipment; and to collect demographic data about where Users go on our website and how they behave. Cookies used by our Equipment are used to track and log activities on the Equipment and our Network for security, network maintenance and other related activities. 
 
-**Tracking Software** &ndash We do not use Tracking Software to identify Users personally. We use the information provided by Tracking Software to determine the effectiveness of our marketing programs; improve the functionality of our website; and to collect demographic data about where Users go on our website and how they behave.
+**Tracking Software** – We do not use Tracking Software to identify Users personally. We use the information provided by Tracking Software to determine the effectiveness of our marketing programs; improve the functionality of our website; and to collect demographic data about where Users go on our website and how they behave.
 
 ## Data Retention and Security
 
