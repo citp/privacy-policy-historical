@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430123826id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224204725id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
