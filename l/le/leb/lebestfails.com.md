@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebestfails.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624113804id_/http%3A//www.lebestfails.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebestfails.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224073346id_/http%3A//www.lebestfails.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Le Best Fails On The Net
 
