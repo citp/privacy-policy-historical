@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mrt-rrt.gov.au privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625014527id_/http%3A//www.mrt-rrt.gov.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrt-rrt.gov.au privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225003148id_/http%3A//www.mrt-rrt.gov.au/Privacy.aspx) for the most accurate reproduction.*
 
 # MRT-RRT - Privacy
 
-The Migration Review Tribunal (MRT) and Refugee Review Tribunal (RRT) are bound by provisions relating to the collection and use of personal information in the [_Migration Act 1958_](http://www.austlii.edu.au/au/legis/cth/consol_act/ma1958118/ "External link to Migration Act 1958") (Cth) and in the [_Privacy Act 1988_](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/ "External link to Privacy Act 1988") (Cth). Our website is consistent with the Privacy Commissioner's [Guidelines for Federal and ACT Government Websites](http://www.privacy.gov.au/materials/types/guidelines/view/6057 "External link to Office of the Australian Information Commissioner").
+The Migration Review Tribunal (MRT) and Refugee Review Tribunal (RRT) are bound by provisions relating to the collection and use of personal information in the [_Migration Act 1958_](http://www.austlii.edu.au/au/legis/cth/consol_act/ma1958118/ "External link to Migration Act 1958") (Cth) and in the [_Privacy Act 1988_](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/ "External link to Privacy Act 1988") (Cth). Our website is consistent with the Privacy Commissioner's [Guidelines for Federal and ACT Government Websites](http://www.oaic.gov.au/privacy/privacy-resources/privacy-guides/guidelines-for-federal-and-act-government-websites "External link to Office of the Australian Information Commissioner").
 
 **Page index:**
 
