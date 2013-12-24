@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepinginairports.net privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510034213id_/http%3A//www.sleepinginairports.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepinginairports.net privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224192842id_/http%3A//www.sleepinginairports.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,3 @@ If you require any more information or have any questions about our privacy poli
 Please note that this Privacy Policy may change from time to time. 
 
 Last Updated: 24-Oct-2010
-
-### Subscribe
-
-Receive the 2013 Best & Worst Airports Survey and Results
