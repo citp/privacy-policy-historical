@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the travelimpressions.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523143116id_/http%3A//www.travimp.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelimpressions.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225002855id_/http%3A//www.travimp.com/about/privacy.html) for the most accurate reproduction.*
 
 # Travel Impressions Customer Internet Privacy Statement
 
 **United States Online Privacy Statement**  
-Effective Date:  March 05, 2013
+Effective Date:  June 30th, 2013
 
-This Online Privacy Statement describes how Travel Impressions, Ltd, a subsidiary of American Express Travel Related Services Company, Inc, collects information when you: 
+This Customer Internet Privacy Statement describes how Travel Impressions, Ltd, ("Travel Impressions") collects information when you: 
 
   * access sites or use mobile applications that link to this Statement;
   * open and respond to our e-mails; or
@@ -74,11 +74,9 @@ We may share Personal Information as required or permitted by law:
 
   * to report or seek information about your credit, and to report or collect on debts owed;
   * to comply with legal orders and government requests;
-  * to combat fraud or criminal activity, and to protect the rights of Travel Impressions, our parent company American Express,  or others;
-  * within the American Express Family of Companies;
+  * to combat fraud or criminal activity, and to protect the rights of Travel Impressions or others;
   * with Vendors (who are required to safeguard Personal Information) that help us operate our business;
   * with financial institutions, Co-brand Partners, and other Business Partners with whom we jointly offer products and services (but they may not use this information to independently market their own products or services);
-  * with a purchaser of any of the American Express Family of Companies (or their assets); or
   * with your consent.
 
 
@@ -125,9 +123,7 @@ We may change this Statement at any time. Changes are effective when we post the
 
 **Glossary**
 
-**American Express Family of Companies -** American Express Company, American Express Centurion Bank, American Express Bank, FSB, American Express Travel Related Services, American Express Publishing, and any other company owned and/or controlled by American Express Company. 
-
-**Business Partners -** any third parties with which we conduct business and have a contractual relationship such as businesses that accept American Express. Business Partners are not Vendors. 
+**Business Partners -** any third parties with which we conduct business and have a contractual relationship with. 
 
 **Clickstream Data -** usage and browsing information, such as a user’s page viewing history and clicks on items within a website, usually stored in log files. 
 
@@ -139,7 +135,7 @@ We may change this Statement at any time. Changes are effective when we post the
 
 **Non-Personal Information -** information that cannot identify a person such as Cookie data. It may be derived from Personal Information, so long as all Personal Information has been removed. 
 
-**Other Sources -** American Express internal information (Card transaction data, for example), external data used by financial companies to process applications and complete transactions, and other online and offline information legally obtained and outside the scope of this Statement at the time of collection. 
+**Other Sources -** Travel Impressions internal information, external data used by financial companies to process applications and complete transactions, and other online and offline information legally obtained and outside the scope of this Statement at the time of collection. 
 
 **Other Web Technologies -** web beacons, pixels, and other technologies, which transfer information from your computer to a server connected to the Internet. 
 
