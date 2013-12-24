@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531232517id_/http%3A//www.anchorfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224161403id_/http%3A//www.anchorfree.com/privacy.php) for the most accurate reproduction.*
 
 # AnchorFree Hotspot Shield Privacy & Security Policy - Get behind the Shield
 
@@ -13,7 +13,7 @@ Welcome, and thank you for your interest in AnchorFree, Inc, AnchorFree GmbH and
 
 _If you are under 18 years of age, please do not use Hotspot Shield._
 
-#### Our Commitment to User Privacy:1
+#### Our Commitment to User Privacy:
 
 AnchorFree does not collect any personally identifiable information on Hotspot Shield. Hotspot Shield automatically collects certain non-personally identifiable information from Users that is used in the aggregate only. AnchorFree does not collect, store, or share any permanent identifiers of Users, including IP addresses. Please note that Hotspot Shield only enables privacy and encrypts user Internet sessions when it is turned ON. Having Hotspot Shield on the desktop, without turning it ON does not do anything. Unless Users turn Hotspot Shield ON and opt into the service, Hotspot Shield will be completely idle.
 
