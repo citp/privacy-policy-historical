@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the textcashnetwork.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607025853id_/http%3A//textcashnetwork.com/content/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textcashnetwork.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224172112id_/http%3A//www.truecashnetwork.com/content/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Text Cash Network
+# True Cash Network ~ Creating Opportunities for Your Financial Freedom
 
 **PERSONS OR PARTIES COVERED**
 
@@ -84,7 +84,7 @@ This website takes measures to protect its data that contains information relate
 
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 
-support@textcashnetwork.com
+support@truecashnetwork.com
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
