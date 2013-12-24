@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsx.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519181715id_/http%3A//www.hsx.com/about/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsx.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224212844id_/http%3A//www.hsx.com/about/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HSX.com – Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Hollywood Stock Exchange, LLC ("HSX") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This statement reflects the privacy policy of Hollywood Stock Exchange, LLC ("HSX"), the owner and operator of the Hollywood Stock Exchange, with respect to the web site located at www.hsx.com and www.hollywoodstockexchange.com (the "Site").
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.hsx.com)
+[](https://privacy.truste.com/privacy-seal/Hollywood-Stock-Exchange,-LLC/validation?rid=d75a73ec-dfe6-4937-a1c4-b41ec2c9feab "TRUSTe online privacy certification")
 
 If you have questions or concerns regarding this statement, you should first contact Customer Support by e-mail at support@hsx.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -48,7 +48,7 @@ We provide you the opportunity to 'opt-out' of having your personally identifiab
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@hsx.com. We offer an opportunity to opt-out of certain communications in your Account Settings page, or you may write to: Hollywood Stock Exchange, LLC 1925 Century Park East, Los Angeles, CA 90067, attn: Support, to opt-out.
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+You will be notified when your personally identifiable information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
 ### Customer Service
 
@@ -74,9 +74,21 @@ We use an outside advertisement serving company to display advertisements on the
 
 Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
 
+### Web beacons
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
 ### Access, Review, Update
 
-Visitors who have registered with the Site may access, review, and update the personal information that was previously provided to us by clicking on "Account Settings" after logging into your portfolio, or emailing us at support@hsx.com, or by writing us at Customer Support, Hollywood Stock Exchange, LLC, 1925 Century Park East, Century City, CA 90067.
+Visitors who have registered with the Site may access, delete, review, and update the personal information that was previously provided to us by clicking on "Account Settings" after logging into your portfolio, or emailing us at [support@hsx.com](mailto:support@hsx.com), or by writing us at Customer Support, Hollywood Stock Exchange, LLC, 1925 Century Park East, Century City, CA 90067.
+
+### Facebook Connect
+
+You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ### Tell-A-Friend
 
@@ -106,4 +118,4 @@ All inquiries concerning this statement and the Site in general may be sent to C
 
 Thank you for visiting Hollywood Stock Exchange. 
 
-This page was last updated on March 30, 2012. 
+This page was last updated on August 20, 2013. 
