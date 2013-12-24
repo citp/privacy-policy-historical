@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delugerpg.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601001004id_/http%3A//www.delugerpg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delugerpg.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224045328id_/http%3A//www.delugerpg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DelugeRPG
 
@@ -6,13 +6,17 @@ The user agrees that the use of DelugeRPG's services (Game site, forums and wiki
 
 When you visit our website, DelugeRPG does not collect any personally identifiable information about you such as name, address, or phone number. 
 
-Access to your account is by way of username and password (or single sign-ons such as yahoo,facebook and google) and it is your responsibility to keep these safe and secure.
+Access to your account is by way of username and password (or single sign-ons such as yahoo,facebook and google) and it is your responsibility to keep these safe and secure. We will not restore any accounts if you fail to do so.   
+Never share your password with absolutely anyone, even if they claim to be admins or staff. Real admins do not need a password to access your account.
 
-Your emails are only used for password recovery,in case you forget your password. They will never be sold, or given to any third-party. Also, emails will never be displayed in your profile when others view it.
+Your emails are only used for password recovery,in case you forget your password. They will never be sold, or given to any third-party. Also, emails will never be displayed in your profile when others view it.   
+Accounts without any email associated with their account cannot be recovered.
 
-We save your data for no longer than 12 months from your last login. (log in atleast once a year to keep your account)
+We save your data for no longer than 15 months from your last login. (log in atleast once a year to keep your account)
 
 To catch scammers and phishers, our systems may scan messages to warn the receiver of the message. We are not responsible if your account gets stolen. [Learn how you can keep your account safe](https://www.delugerpg.info/Protecting_your_Account).
+
+On a side node, banned accounts will not be restored. And Deleted accounts cannot be restored.
 
 * * *
 
