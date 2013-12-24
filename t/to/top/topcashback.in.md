@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.in privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601104058id_/http%3A//www.topcashback.in/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.in privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224042530id_/http%3A//www.topcashback.in/Privacy) for the most accurate reproduction.*
 
 # Top Cashback - Privacy
 
@@ -8,8 +8,8 @@ To register as a member, we only require an email address and a password. Prior 
 
 We only hold information in order to allow users to log into and run their accounts. We will also keep accounts updated with cashback levels. Registered users may update their account details online by following the relevant links from within their account page. 
 
-Member usernames and basic related statistics may occasionally be exposed. Examples of this include where a person has followed your referral link, they may see your name; and where a member who was referred to TopCashBack has a balance under the referral threshold amount (currently Rs. 1,000.00), that balance may be visible to the referring member. If you were referred to TopCashBack this latter fact will be made clear in your account details page, from which you may opt-out of allowing the referrer from being able to see your account balance.   
-Where selected (the default), account balances are only displayed until you reach the referral threshold (currently Rs. 1,000.00). Once this is reached your account balance will no longer be visible. 
+Member usernames and basic related statistics may occasionally be exposed. Examples of this include where a person has followed your referral link, they may see your name; and where a member who was referred to TopCashBack has a balance under the referral threshold amount (currently ₹ 1,000.00), that balance may be visible to the referring member. If you were referred to TopCashBack this latter fact will be made clear in your account details page, from which you may opt-out of allowing the referrer from being able to see your account balance.   
+Where selected (the default), account balances are only displayed until you reach the referral threshold (currently ₹ 1,000.00). Once this is reached your account balance will no longer be visible. 
 
   * We may examine traffic patterns in order to improve our services, to help monitor purchases and cashback and keep accounts up to date.
   * We do not send junk email or spam. We may send emails with site updates or offers, but users will be able to specify the type of emails they receive.
@@ -18,7 +18,7 @@ Where selected (the default), account balances are only displayed until you reac
 
 
 
-Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our [contact us](https://web.archive.org/Help) form. There may be a small administration fee for using this service, which will be no more than Rs. 5. 
+Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our [contact us](https://web.archive.org/Help) form. There may be a small administration fee for using this service, which will be no more than ₹ 5. 
 
 It is possible that we will wish to use customer information in unanticipated ways, not stated in our Privacy Policy. In this event, we will contact individuals before using the data for new purposes, so that the individual users may opt-out if they wish. 
 
