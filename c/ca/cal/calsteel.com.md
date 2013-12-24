@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calsteel.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415110405id_/http%3A//www.calsteel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calsteel.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224011222id_/http%3A//www.calsteel.com/privacy) for the most accurate reproduction.*
 
 # Privacy - California Steel Services
 
@@ -54,6 +54,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://www.calsteel.com](http://www.calsteel.com/)  
 1212 S. Mountain View Ave. San Bernardino, Ca 92408  
 (800) 323-7227  
-[sales@calsteel.com](mailto:sales@calsteel.com)
+sales@calsteel.com
 
 This document was last updated on March 19, 2013
