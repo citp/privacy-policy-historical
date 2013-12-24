@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ioninteractive.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531120316id_/http%3A//ioninteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioninteractive.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224172031id_/http%3A//ioninteractive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — ion interactive - Optimizing Marketing Performance Beyond Landing Pages
+# Privacy Policy — ion interactive - Software & Services Beyond Landing Pages
 
 ## PRIVACY INFORMATION
 
