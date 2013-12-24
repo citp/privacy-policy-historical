@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptime.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129154515id_/http%3A//www.maintenanceresources.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptime.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224162117id_/http%3A//www.maintenanceresources.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
