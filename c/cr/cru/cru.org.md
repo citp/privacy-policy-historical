@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614012310id_/http%3A//www.cru.org/about-us/policies/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224030855id_/http%3A//www.cru.org/about-us/policies/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy Statement :: Cru
 
 #### Last Updated: September 2005
 
-CCCi.org is a Web site (Site) of Campus Crusade for Christ International.  This Site is one of the family of Sites operated by various ministries related to Campus Crusade for Christ.  When we use the terms "we" "us" or "our," we refer to Campus Crusade for Christ International and affiliated ministries ("Our Organization").   
+Cru.org is a Web site (Site) of Campus Crusade for Christ International.  This Site is one of the family of Sites operated by various ministries related to Campus Crusade for Christ.  When we use the terms "we" "us" or "our," we refer to Campus Crusade for Christ International and affiliated ministries ("Our Organization").   
 
 Please know that we are committed to protecting and appropriately handling the private and personal information of users and visitors to this Site.  We are publishing this Privacy Statement to let you know how we handle personal information in this Site.  We may, from time-to-time, update this privacy notice so we encourage you to periodically review this policy.  We will notify you about material changes in the way we treat personal information by placing a notice on our site.
 
