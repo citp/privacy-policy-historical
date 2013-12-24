@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zumic.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626025640id_/http%3A//zumic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumic.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224174317id_/http%3A//zumic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zumic | Zumic
+# Privacy Policy | Zumic
 
 Privacy Policy
 
 Last updated: December 2012
 
-ZUMIC ENTERTAINMENT, INC. (“Zumic”) is committed to respecting the privacy rights of all users of and visitors to the “Zumic Websites”, namely, http://zumic.com, and the other directly associated Zumic domains (individually or collectively referred to herein and in the Terms of Use as either the “Website” or the “Websites”). We have established, updated and implemented this Privacy Policy to assist our Users to enjoy [the features](http://zumic.com/tag/the-features/ "the features") of the Website with the necessary amount of notice, information, and guidance to understand and appreciate how the use of these features and services made available through the Website impact your privacy rights and the rights of our advertisers, partners, sponsors, music labels, distributors, artists, bands, writers and contributors to our Websites. “Zumic”, “we”, “us” and “our” means Zumic Entertainment, Inc.
+ZUMIC ENTERTAINMENT, INC. (“Zumic”) is committed to respecting the privacy rights of all users of and visitors to the “Zumic Websites”, namely, http://zumic.com, and the other directly associated Zumic domains (individually or collectively referred to herein and in the Terms of Use as either the “Website” or the “Websites”). We have established, updated and implemented this Privacy Policy to assist our Users to enjoy [the features](http://zumic.com/artist-page/the-features/ "the features") of the Website with the necessary amount of notice, information, and guidance to understand and appreciate how the use of these features and services made available through the Website impact your privacy rights and the rights of our advertisers, partners, sponsors, music labels, distributors, artists, bands, writers and contributors to our Websites. “Zumic”, “we”, “us” and “our” means Zumic Entertainment, Inc.
 
 By visiting this and any other related Website, you agree to be bound by the terms and conditions of this Privacy Policy and the Terms of Use. If you do not agree with the terms of this Privacy Policy, please do not provide any information or use any of the services or products offered or provided on this Website.
 
