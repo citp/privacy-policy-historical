@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianfaculty.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625131544id_/http%3A//www.indianfaculty.com/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianfaculty.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224090554id_/http%3A//www.indianfaculty.com/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - IndianFaculty.com
 
@@ -32,7 +32,3 @@ We take care of privacy of children. We have our webpages for inspiration and ap
 
 Your Acceptance of These Terms:  
 By using IndianFaculty.com website, you signify your acceptance of Privacy Policy our site. If you don't agree to site privacy policy, please don't use IndianFaculty.com website. IndianFaculty.com reserves the right to modify, change or otherwise update this policy at any time, so visitors are encouraged to review this policy from time to time.
-
-Question and Suggestions:  
-Please feel free to give us any type of suggestion or welcome to ask  
-any question / inquiry at 
