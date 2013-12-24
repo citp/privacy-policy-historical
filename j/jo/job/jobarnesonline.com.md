@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobarnesonline.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430131931id_/http%3A//jobarnesonline.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobarnesonline.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224132912id_/https%3A//jobarnesonline.com/resources/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jo Barnes Online
+# Privacy Policy | Jo Barnes Online - Create a Business You Can Take With You
 
 This privacy policy sets out how ** ** **JoBarnesOnline.com** uses and protects any information that you give **JoBarnesOnline.com** when you use this website.
 
