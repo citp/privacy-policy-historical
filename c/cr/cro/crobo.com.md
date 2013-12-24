@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crobo.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515112541id_/http%3A//www.crobo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crobo.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224023311id_/http%3A//www.crobo.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -16,7 +16,7 @@ The information collected by Covus Crobo GmbH will be exclusively used and saved
 
 ### Propagation of Information
 
-Personal information, as explained in section 2, will be exclusively used by Covus Crobo GmbH and only given to other companies which have complied with the terms you have agreed to. Furthermore, your data will not be given to third parties with the exception that the information is requested by a court or other governmental body and your written consent. For particular offers and deals, you have the opportunity to ask for advertisement materials. In this case, the transfer of data is necessary and it is made clear that you will have to agree to the terms. You can revoke your consent at any time by sending a letter to Covus Crobo GmbH, Schwedter Str. 263, 10119 or in the form of an email to [info@covus.de](mailto:info@covus.de). 
+Personal information, as explained in section 2, will be exclusively used by Covus Crobo GmbH and only given to other companies which have complied with the terms you have agreed to. Furthermore, your data will not be given to third parties with the exception that the information is requested by a court or other governmental body and your written consent. For particular offers and deals, you have the opportunity to ask for advertisement materials. In this case, the transfer of data is necessary and it is made clear that you will have to agree to the terms. You can revoke your consent at any time by sending a letter to Covus Crobo GmbH, Schwedter Str. 263, 10119 or in the form of an email to [info@crobo.com](mailto:info@covus.de). 
 
 ### Type of Evaluation
 
@@ -34,7 +34,7 @@ Due to technical reasons, it is not possible to create posts in the online forum
 
 ### Erasure of Personal Data
 
-Your consent in relation to the collection and saving of your personal data by Covus Crobo GmbH can be revoked at any time by sending a letter to Covus Crobo GmbH, Schwedter Str. 263, 10119 Berlin or in the form of an email to [info@covus.de](mailto:info@covus.de). 
+Your consent in relation to the collection and saving of your personal data by Covus Crobo GmbH can be revoked at any time by sending a letter to Covus Crobo GmbH, Schwedter Str. 263, 10119 Berlin or in the form of an email to [info@crobo.com](mailto:info@covus.de). 
 
 ### Further Information on Data Privacy
 
