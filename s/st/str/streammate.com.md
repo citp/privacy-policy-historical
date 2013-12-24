@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streammate.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530012917id_/http%3A//www.streamate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streammate.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224090727id_/http%3A//www.streamate.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Streamate - Privacy
+# Streamate - Privacy Policy
 
 [Home](http://www.streamate.com/) / Privacy Policy
 
@@ -47,6 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-Streamates Limited  
-P.O. Box 2468  
-Seattle, WA 98111-2468 
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
