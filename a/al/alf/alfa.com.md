@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alfa.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430074135id_/http%3A//www.alfa.com/en/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfa.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224200635id_/http%3A//alfa.com/en/html/privacy.html) for the most accurate reproduction.*
 
-# Alfa Aesar - A Johnson Matthey Company
+# Privacy policy - Alfa Aesar
 
     This site requires that javascript be enabled. Please configure your browser in the tools or configuration section. 
 
