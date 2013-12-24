@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marthastewartweddings.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630035955id_/http%3A//www.marthastewartweddings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marthastewartweddings.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224151213id_/http%3A//www.marthastewartweddings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Martha Stewart Weddings Customer Service
 
