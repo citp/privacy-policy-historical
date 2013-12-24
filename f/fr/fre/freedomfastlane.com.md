@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freedomfastlane.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624235254id_/http%3A//freedomfastlane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomfastlane.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225005550id_/http%3A//freedomfastlane.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Freedom Fast Lane
+# Privacy Policy :: Freedom Fast Lane: Success | Travel | Making Money | Personal Development | Extraordinary Living
 
 ## Privacy Statement
 
-_We are committed to protecting your privacy._
+We are committed to protecting your privacy.
 
 Authorized employees within the company on a need to know basis only use any information collected from individual customers. We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by Freedom Publishing Group will only be in connection with the provision of agreed services and products.
 
