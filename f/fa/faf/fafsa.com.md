@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611014701id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224203056id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
 
 # Student Financial Aid Services, Inc. Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ###  Student Financial Aid Services, Inc. 
 
-Effective Date: April 4, 2013
+Effective Date: October 9, 2013
 
 If you wish to opt out of any continued communication (direct mail, telephone, fax or e-mail communications), please [click here](https://web.archive.org/optout).
 
@@ -94,7 +94,7 @@ Sacramento, California 95827
 
 We maintain a variety of physical, electronic, and procedural safeguards designed to protect your personal information from unauthorized access and disclosure. For example, we use accepted tools and techniques to protect against unauthorized access to our systems. In addition, we work to protect the security of your personal information when utilizing a Service via the Site by using well-known Internet encryption technologies, such as Secure Sockets Layer (SSL). If you contact us by phone regarding your FAFSA, we will endeavor to validate your identity prior to sharing any personal information about you or information about your FAFSA. You should be aware that SFAS has no control over the security of other sites on the Internet that you might visit or interact with, or from which you may buy Services, even when there is a link to said site from ours.
 
-SFAS is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.FAFSA.com](http://www.fafsa.com/). To demonstrate our commitment to your privacy, we have disclosed our information practices and have had our privacy practices reviewed for compliance by TRUSTe.
+SFAS is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.FAFSA.com](http://www.fafsa.com/). To demonstrate our commitment to your privacy, we have disclosed our information practices and have had our privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact SFAS by calling us at **1.866.514.5948** or via email at [ clientservice@FAFSA.com](mailto:clientservice@FAFSA.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at: <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
