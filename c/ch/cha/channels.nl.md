@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channels.nl privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503101604id_/http%3A//www.channels.nl/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channels.nl privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224234839id_/http%3A//www.channels.nl/privacy.html) for the most accurate reproduction.*
 
 # 
 
