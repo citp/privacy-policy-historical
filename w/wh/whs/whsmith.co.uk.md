@@ -1,26 +1,122 @@
-> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620215008id_/http%3A//www.whsmith.co.uk/support/HelpSitePrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224230149id_/http%3A//www.whsmith.co.uk/fcp/content/Help-OnlinePolicies-PrivacyPolicyandCookies/content%23privacycookies) for the most accurate reproduction.*
 
-# Privacy policy | Using the site | Help | WHSmith
+# Privacy policy & cookies | WHSmith
 
 We take your privacy very seriously so you can shop with confidence at WHSmith.co.uk.
 
-When you place an order at WHSmith.co.uk, we collect some personal information from you:
-
-  * name 
-  * email 
-  * address your credit card or debit card is registered to 
+  
 
 
+## Frequently Asked Questions
 
-This information is collected and held securely. We use the SSL, the best security software available, to encrypt your personal information so it cannot be read by a third party. We treat all your personal information as confidential, complying completely with data protection and consumer legislation. 
+  * Privacy Policy
+  * Our online privacy checklist
+  * Cookie policy
 
-Reputable third-party banking and distribution institutions process your orders. They also handle credit card and debit card transactions and order fulfillment. They too are under strict legal and contractual obligations to keep your personal information private. 
+  
 
-For more information about our security and privacy policies, see [WHSmith.co.uk terms and conditions](https://web.archive.org/web/20130620215008id_/http%3A//www.whsmith.co.uk/support/HelpSiteTerms.aspx) or complete our [contact form](https://web.archive.org/web/20130620215008id_/http%3A//www.whsmith.co.uk/support/HelpContactUs.aspx).
 
-**Cookies**
+## Privacy policy
 
-Cookies are small text files. Many websites place cookies on your computer when you visit. Cookies are used to make websites work, or to make them work more efficiently, and to provide useful information to website operators. The [table here explains what cookies we use and why](https://web.archive.org/web/20130620215008id_/http%3A//www.whsmith.co.uk/support/HelpSiteCookies.aspx). Many web browsers allow users to control most cookies through their browser settings. More information about cookies, including details on viewing what cookies have been set and how to delete them is available at allaboutcookies.org.
+We want you to be able to shop with confidence on our site, which is why **we take the privacy of your personal information very seriously.**
+
+When you shop with us, you give us certain personal details, such as your name, email address and payment address. **We hold such information securely using SSL encryption software**. SSL stands for Secure Sockets Layer which is the industry standard security technology for keeping data private during online transactions. This means **your personal information cannot be read by anyone who should not see it.**
+
+You will notice the web address (URL) changes from http to https when you go through to the WHSmith.co.uk checkout or My Account pages. This shows that the site is using SSL and your details are protected.
+
+We **comply with all applicable data protection legislation** , and we **treat all your personal information as confidential**. We are committed to protecting your privacy and developing technology that provides a safe online experience.
+
+To process your order efficiently, **reputable third-party banking and distribution institutions handle the credit and debit card transactions and order fulfilment**. They receive the information needed to verify and authorise your payment card and to process your order. These organisations are under strict legal and contractual obligations to keep your personal information private.
+
+Back to top
+
+  
+
+
+## Our Online Privacy Checklist
+
+A summary of how we gather and use your information and make sure that your privacy is protected:
+
+Because your privacy is important to us, WHSmith.co.uk operates by the following 5 principles. 
+
+**1\. How we ask for information that identifies you or allows us to contact you**  
+We explicitly ask when we need any Personal Data or other details that we use to contact you - for example, when you register for the site, request a particular service or enter a competition. Where possible, we will give you the chance to check that your personal information is correct and up to date.
+
+**2\. What we use your personal information for**  
+WHSmith.co.uk and its necessary service partners use your personal information to:
+
+  * operate the websites and services 
+  * let you know about new features, services, and products from WHSmith.co.uk and its partners 
+
+
+
+**3\. When we may need to disclose your personal information**  
+WHSmith.co.uk may disclose your personal information to fulfil our contracts with you, where you have consented to such disclosure (actual or deemed), if required to do so by law, or in the good-faith belief that such action is necessary to:
+
+  * conform to the edicts of the law or comply with legal process served on WHSmith.co.uk 
+  * protect and defend the rights or property of WHSmith.co.uk, you or any third party 
+  * resolve customer service issues 
+
+
+
+**4.How we monitor your activity on the website**  
+We use Google Analytics to monitor your activity on the website for research and development purposes. All information will be treated as strictly confidential by WHSmith.
+
+**5\. How you can get in touch about privacy issues**  
+If you believe that WHSmith.co.uk has not adhered to these principles, please let us know by [email](https://web.archive.org/fcp/content/contact-us/content)
+
+Back to top
+
+  
+
+
+## Cookie policy
+
+Cookies are small text files. Many websites place cookies on your computer when you visit. Cookies are used to make websites work, or to make them work more efficiently, and to provide useful information to website operators.
+
+Many web browsers allow users to control most cookies through their browser settings. However doing so will prevent the checkout from working and you will not be able to place orders.
+
+**The table here explains what cookies we use and why**. More information about cookies, including details on viewing what cookies have been set and how to delete them is available at [allaboutcookies.org.](http://www.allaboutcookies.org/)
+
+  
+
+
+## The Cookies we use and what they do
+
+**Name** | **Technical Name** | **Purpose** | **Retention Period**  
+---|---|---|---  
+User and Session ID | JSESSIONID | Unique user session identifier to handle things such as the products and offers you have put in your basket basket | Expires at end of session  
+Checkout 1 | 
+
+K-JSESSIONID-gdn caooa
+
+| When you move from one checkout step to another, this cookie let the system know that youâ€™re the same customer at each step | Expires at end of session  
+Checkout 2 | X-Mapping-gbooldlg | When you move from one checkout step to another, this cookie let the system know that youâ€™re the same customer at each step | Expires at end of session  
+Country default | country_iso | Sets the country settings displayed on the website.Â  For us this is fixed as UK. | 60 days  
+Currency default | currency_iso | Sets the currency displayed on the website.Â  For us this is fixed as pounds sterling. | 60 days  
+Language default | language_iso | Sets the language displayed on the website.Â  For us this is fixed as English. | 31 days  
+Product List View | 
+
+view_format
+
+| The number of columns of products shown on the listings page | Expires at end of session  
+Last Category Page | 
+
+lastSuccessfulCategory
+
+| Used to store the most recently viewed category page. Helpful when generating breadcrumbs that are more accurate to the users journey. | 31 days  
+Last Category | fcp_last_category | last browsed category, used for breadcrumbs | 31 days  
+Shopping basket | 
+
+fcp_shopping_basket
+
+| Retains the customer's shopping basket contents between sessions. | Set by WHS  
+Google Analytics User | __utma | Google Analytics (GA) tracking cookies are used to provide reports about our site visitors. These cookies do not collect any personal data about you. For Google Analytics: Each unique browser that visits a page on the site is provided with a unique ID therefore subsequent visits to the website via the same browser are recorded as belonging to the same (unique) visitor.  | 730 days (2 years)  
+Google Analytics Session | __utmb, __utmc  | For Google Analytics: These cookies establish that an anonymous user has started a session. | Expires at end of session  
+Google Analytics Origin | __utmz | For Google Analytics: When visitors reach the site via a search engine result, a direct link, or an ad that links to the page, Google Analytics stores the type of referral information in a cookie.  | 182 days (6 months)  
+Google Analytics Custom | __utmv | For Google Analytics: This cookie enables us to identify specific actions by a user. This is not currently used.  | 730 days (2 years)  
+  
+Back to top
 
   
 
