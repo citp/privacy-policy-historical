@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205051531id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224075921id_/http%3A//www.shipworks.com/privacystatement.html) for the most accurate reproduction.*
 
-# Powerful UPS and USPS Shipping Software for Miva Merchant
+# Privacy Policy | ShipWorks
 
 **Interapptive.com Privacy and Security Policy  
 **  
