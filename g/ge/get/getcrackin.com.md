@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcrackin.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531210017id_/http%3A//getcrackin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcrackin.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225000858id_/http%3A//getcrackin.com/privacy) for the most accurate reproduction.*
 
 # 
 
