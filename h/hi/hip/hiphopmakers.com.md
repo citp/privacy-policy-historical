@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hiphopmakers.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625004347id_/http%3A//hiphopmakers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopmakers.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225004004id_/http%3A//hiphopmakers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for [hiphopmakers.com](https://web.archive.org/web/20130625004347id_/http%3A//hiphopmakers.com/hiphopmakers.com "Music Production Blog")
+Privacy Policy for [hiphopmakers.com](https://web.archive.org/web/20131225004004id_/http%3A//hiphopmakers.com/hiphopmakers.com "Music Production Blog")
 
 The privacy of our visitors to hiphopmakers.com is important to us.
 
