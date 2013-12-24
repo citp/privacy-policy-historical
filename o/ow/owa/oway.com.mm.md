@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the oway.com.mm privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322022837id_/http%3A//www.oway.com.mm/yangon/page/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oway.com.mm privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224073134id_/http%3A//oway.com.mm/privacy-notice.php) for the most accurate reproduction.*
 
-# OWAY | Privacy Notice
+# Privacy Notice
 
 Oway Inc. respects your concerns about privacy. This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.  
+
+
 The phrase “personal information” refers to information by which you or the device you are using to connect to the Internet can be identified.  
 Click on one of the links below to jump directly to the listed section: 
 
@@ -53,7 +55,7 @@ We may use the information we obtain about you to:
   * Analyze and enhance our marketing communications and strategies (including by identifying when emails sent to you have been received and read)
   * Analyze trends and statistics regarding visitors’ use of our sites, mobile applications and social media assets, and the purchases visitors make on our sites
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users 
-  * Enforce our Website Terms of Use and Terms and Conditions
+  * Enforce our [ Website Terms of Use](https://web.archive.org/web/20131224073134id_/http%3A//oway.com.mm/terms-and-conditions.php) and [Terms and Conditions](https://web.archive.org/web/20131224073134id_/http%3A//oway.com.mm/terms-and-condition-services.php)
   * Comply with applicable legal requirements and industry standards and our policies 
 
 
@@ -64,7 +66,7 @@ We also may use the information we obtain about you in other ways for which we p
 #### Online Advertising
 
 On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for Oway and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.  
-To direct our ad network vendors not to use your data to deliver targeted advertising to you, please contact us at privacy@Owaytrip.com. 
+To direct our ad network vendors not to use your data to deliver targeted advertising to you, please contact us at [privacy@Owaytrip.com](mailto:privacy@Owaytrip.com). 
 
 #### Information We Share
 
@@ -79,7 +81,7 @@ Here are the choices we offer:
 
 #### _Sharing Information with Business Partners_
 
-You may direct Oway not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at privacy@Owaytrip.com. If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
+You may direct Oway not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at [privacy@Owaytrip.com](mailto:privacy@Owaytrip.com). If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
 
 #### _Marketing Emails_
 
@@ -130,4 +132,4 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 #### How to Contact Us 
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at privacy@Owaytrip.com. You also may write to us at:
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@Owaytrip.com](mailto:privacy@Owaytrip.com). You also may write to us at:
