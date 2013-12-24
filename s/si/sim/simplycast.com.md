@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the simplycast.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617032213id_/http%3A//www.simplycast.com/Interactive-Marketing-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplycast.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224173808id_/http%3A//www.simplycast.com/Interactive-Marketing-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | SimplyCast
+# Privacy Policy
 
 At SimplyCast, it is our intent to give you as much control as possible over your privacy in regards to your personal information and how we use it in our business. In general, you can visit SimplyCast on the web without telling us who you are or revealing any information about yourself.
 
-###  What Information We Gather and Track
+### What Information We Gather and Track
 
-There are times when we may need information from you. This generally involves filling out forms so you can download or order a SimplyCast product. When you download our products, we require you to fill out a form with -your name and email address. If you wish to remove yourself from our mailing lists at any time, you may do so by contacting our customer care department, by email [customercare@simplycast.com](mailto:customercare@simplycast.com) or phone 1-877-312-4979.
+There are times when we may need information from you. This generally involves filling out forms so you can download or order a SimplyCast product. When you download our products, we require you to fill out a form with -your name and email address. If you wish to remove yourself from our mailing lists at any time, you may do so by contacting our customer care department, by email [customercare@simplycast.com](mailto:customercare@simplycast.com) or phone 1-877-312-4979.
 
 When you submit an order online, your credit card number is submitted to the credit institution for routine processing. Your personal credit history information is not collected by SimplyCast, and SimplyCast does not share credit or credit card information with other companies or third parties.
 
@@ -38,7 +38,7 @@ We may also collect log-in information, such as user name and account name, of o
 
 **Updating/Accessing/Amending/Correcting Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may make changes on our member information page, by email Customer Care at [customercare@simplycast.com](mailto:customercare@simplycast.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 10 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may make changes on our member information page, by email Customer Care at [customercare@simplycast.com](mailto:customercare@simplycast.com), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 10 days.
 
 **Third Party Personally Identifiable Information**
 
@@ -84,7 +84,7 @@ Some information about customers is stored in systems located on client premises
 
 The Client covenants that all services and materials provided or to be provided to SimplyCast.com under an order do not infringe any existing patent, trademark, trade secret or copyright registered or recognized in Canada or elsewhere with respect to or in connection with the intended use of the services or materials or both by the Client at the time the order is authorized by the Client.
 
-The Client agrees to indemnify SimplyCast from and against any loss, damage or liability for the infringement of any such patent, trademark, trade secret or copyright by the Client arising from or in connection with the Client's usage of the Services or materials or both.
+The Client agrees to indemnify SimplyCast from and against any loss, damage or liability for the infringement of any such patent, trademark, trade secret or copyright by the Client arising from or in connection with the Client’s usage of the Services or materials or both.
 
 The Client also agrees that it shall defend, settle or compromise, at its own expense, any action for patent, trademark, trade secret or copyright infringement and indemnifies and holds harmless SimplyCast from all claims, losses, damages and actions arising thereto.
 
@@ -92,7 +92,7 @@ The Client also agrees that it shall defend, settle or compromise, at its own ex
 
 Opt-Out Policy:
 
-We offer visitors to the Site a means for controlling the use of session information. If, at any time after registering for information or ordering our services, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice to [compliance@simplycast.com](mailto:compliance@simplycast.com). To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication or send an email to [unsubscribe@simplycast.com](mailto:unsubscribe@simplycast.com).
+We offer visitors to the Site a means for controlling the use of session information. If, at any time after registering for information or ordering our services, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice to [compliance@simplycast.com](mailto:compliance@simplycast.com). To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication or send an email to [unsubscribe@simplycast.com](mailto:unsubscribe@simplycast.com).
 
 **Changes and Updates to the Privacy Policy**
 
@@ -100,24 +100,22 @@ SimplyCast websites’ content and features may be updated, revised, modified an
 
 **Contacting Us About Privacy**
 
-If you wish to unsubscribe from SimplyCast's or client's mailing list please send an email to [compliance@simplycast.com](mailto:compliance@simplycast.com)
+If you wish to unsubscribe from SimplyCast’s or client’s mailing list please send an email to [compliance@simplycast.com](mailto:compliance@simplycast.com)
 
 If you have questions about this privacy statement, the practices of this website, or your dealings with our company, please contact us at the mailing address below:
 
 SimplyCast.com  
-7 Mellor Avenue  
+73 Tacoma Drive, Suite 400  
 Dartmouth, Nova Scotia  
-B3B 0E8 Canada
+B2W 3Y6 Canada
 
-###  PARTNERS AND PROGRAMS
+### PARTNERS AND PROGRAMS
 
 **TRUSTe**  
-We are a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As the Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. This privacy statement covers the Site [[www.SimplyCast.com]](http://www.SimplyCast.com\]) and any and all sub-domains thereof. The TRUSTe program does not cover personally identifiable information that may be collected through software downloaded through the Site, including any subdomains. Because the Site owners (i.e. SimplyCast and its subsidiaries) want to demonstrate its commitment to users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+We are a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As the Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. This privacy statement covers the Site [www.SimplyCast.com](https://web.archive.org/) and any and all sub-domains thereof. The TRUSTe program does not cover personally identifiable information that may be collected through software downloaded through the Site, including any subdomains. Because the Site owners (i.e. SimplyCast and its subsidiaries) want to demonstrate its commitment to users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have any questions or concerns regarding this statement, you should first contact Alex Jones at [compliance@simplycast.com](mailto:compliance@simplycast.com) or by telephone at 902-835-8974. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url) TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-We participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/users/users_watchdog_intro.html>, fax at +1 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, Second Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, see <http://www.truste.org/users/users_watchdog_intro.html> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer or partner for whom we process data should be addressed to that customer or partner. More information about the United States Department of Commerce Safe Harbor program, including the principles set forth above, can be found at <http://www.export.gov/safeharbor>.
+If you have any questions or concerns regarding this statement, you should first contact Alex Jones at [compliance@simplycast.com](mailto:compliance@simplycast.com) or by telephone at 902-835-8974. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at<https://feedback-form.truste.com/watchdog/request> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **Better Business Bureau**
 
-We are compliant with the BBBOnLine(R) Privacy standards and are fully authorized to display the BBBOnLine Privacy Seal. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine as required. Businesses that qualify for the BBBOnLine Privacy Seal are demonstrating the care and respect they have for the treatment of personal data. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
+We are compliant with the BBBOnLine(R) Privacy standards and are fully authorized to display the BBBOnLine Privacy Seal. By participating in the Council of Better Business Bureau’s BBBOnLine Privacy Program we have made a commitment to meet the programs’ strict requirements regarding how we treat your information and have it verified by BBBOnLine as required. Businesses that qualify for the BBBOnLine Privacy Seal are demonstrating the care and respect they have for the treatment of personal data. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
