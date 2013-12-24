@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mtnfootball.com privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617214421id_/http%3A//www.mtnfootball.com/live/content.php%3FItem_ID%3D21303) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtnfootball.com privacy policy that was archived on 2013-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224171633id_/http%3A//www.mtnfootball.com/live/content.php%3FItem_ID%3D21303) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,8 +9,15 @@
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//mtn.ensight-cdn.com/live/_res/js/jquery-1.8.2.js"></script>
 	<script type="text/javascript" src="//mtn.ensight-cdn.com/live/_res/js/jquery-ui_1.9.js"></script>
 <!--	<script type="text/javascript" src="http://mtn.ensight-cdn.com/live/_res/js/jquery.1.6.1.js"></script>-->
+	<script type="text/javascript" src="http://mtn.ensight-cdn.com/live/home_popup/js/jquery-cookie.js"></script>
 	<script type="text/javascript" src="http://mtn.ensight-cdn.com/live/_res/js/jquery.main.js"></script>
 	<script type="text/javascript" src="http://mtn.ensight-cdn.com/live/_res/js/addClass.js"></script>
+    <script type="text/javascript" src="http://www.mtnfootball.com/live/_res/js/jquery.lightbox_me.js"></script>
+   
+      <link rel="stylesheet" type="text/css" href="/live/growl/css/jquery.gritter.css">
+
+    <script type="text/javascript" src="//mtn.ensight-cdn.com/live/growl/js/jquery.gritter.js"></script>
+
 	<meta property="og:title" content="Privacy Policy">
 	<meta property="og:type" content="sport">
 	<meta property="og:image" content="">
@@ -52,12 +59,13 @@
 					<ul>
 						<li><a href="/live/set_location.php?Country=za" onclick="document.location = this.href; return false;">South Africa</a></li>
 						<li><a href="/live/set_location.php?Country=ng" onclick="document.location = this.href; return false;">Nigeria</a></li>
-						<li><a href="/live/set_location.php?Country=ci" onclick="document.location = this.href; return false;">Ivory Coast</a></li>
+						<li><a href="/live/set_location.php?Country=ci" onclick="document.location = this.href; return false;">Côte d'Ivoire</a></li>
 						<li><a href="/live/set_location.php?Country=gh" onclick="document.location = this.href; return false;">Ghana</a></li>
 						<li><a href="/live/set_location.php?Country=eg" onclick="document.location = this.href; return false;">Egypt</a></li>
-						<li><a href="/live/set_location.php?Country=cm" onclick="document.location = this.href; return false;">Cameroon</a></li>
+						<li><a href="/live/set_location.php?Country=cm" onclick="document.location = this.href; return false;">Cameroun</a></li>
 						<li><a href="/live/set_location.php?Country=sd" onclick="document.location = this.href; return false;">Sudan</a></li>
                         <li><a href="/live/set_location.php?Country=ug" onclick="document.location = this.href; return false;">Uganda</a></li>
+                        <li><a href="/live/set_location.php?Country=cg" onclick="document.location = this.href; return false;">République du Congo</a></li>
 						<li><a href="/live/set_location.php?Country=none" onclick="document.location = this.href; return false;">Auto-detect</a></li>
 					</ul>
 				</div>
@@ -69,7 +77,7 @@
 </div>
 <!-- End Container -->
 		</div>
-		<div class="main">
+        		<div class="main">
        		<!-- Begin Container #3035 -->
 <div id="Xcontainer2" class="Xcontainerfreeform">
 <div style="position:relative">
@@ -83,16 +91,29 @@
 <script type="text/javascript">
          
         var layout = '';
-        if(layout == 'TE' || layout == 'CH'){
+        if(layout == 'TE' || layout == 'CH' || layout == 'CO'){
         var obj = '';
-		obj = '<a href="#" id="target" class="btn07 btn07-blue" ><span >make this my homepage</span></a>';
+		//console.log('/about-mtn/privacy-policy.html');
+		var url=$.cookie("countryURL");
+		console.log(url);
+		if (((($.cookie("countryName")) && ($.cookie("countryName")!="default")) || ($.cookie("popup"))) && ($.cookie("countryURL")=='/about-mtn/privacy-policy.html'))
+			{
+				obj = '<a href="#" id="target2" class="btn07 btn07-blue" ><span >international home page</span></a>';
+			}
+		else obj = '<a href="#" id="target" class="btn07 btn07-blue" ><span >make this my homepage</span></a>';
         $('#make_home').html(obj);
 		}
         
         $('#target').click(function(){
             var url = new String("http://www.mtnfootball.com/about-mtn/privacy-policy.html");
-            setCookie("popup", url, 90);
+            $.cookie("popup", url,{expires: new Date(2014, 10, 29, 11, 00, 00), path:"/"});
 			alert("Your homepage has been set successfully");
+        });
+		$('#target2').click(function(){
+            var url = "/";
+            $.cookie("popup", "",{expires: new Date(2014, 10, 29, 11, 00, 00), path:"/"});
+			$.cookie("countryName", "default",{expires: new Date(2014, 10, 29, 11, 00, 00), path:"/"});
+			window.location=url;
         });
 
 
@@ -123,16 +144,90 @@ function setCookie(pLabel, pVal, pMinutes){
 <!-- End Container -->
        		<!-- Begin Container #3033 -->
 <div id="Xcontainer3" class="Xcontainerfreeform">
+<style>
+nav {
+	
+}
+
+nav div ul {
+	 display: none; 
+}
+
+	nav div div:hover > ul {
+		display: block;
+	}
+	
+
+
+nav div {
+	 
+	
+	position: relative;
+	display: inline-table;
+	color: #ffffff;
+	
+}
+	nav div:after {
+		content: ""; clear: both; display: block;
+	}
+
+	nav ul li {
+		float: left;
+		
+		
+	}
+		nav div div li:hover {
+			background-color: #333333;
+			 
+		}
+			nav ul li:hover a {
+				color: #ffffff;
+				background-color: #333333;
+			}
+		
+		nav ul li a {
+			 
+			 
+		}
+			
+		
+	nav div div ul {
+		background: #333333; border-radius: 0px; padding: 0;
+		position: absolute; top: 40%;;z-index:5555;
+		
+		
+		 
+		
+	}
+		nav ul ul li {
+			
+			
+			
+			
+		}
+		
+			nav div ul li a {
+				
+				
+			}	
+				
+	
+
+
+</style>
 <div class="qlinks">
 	<a href="#" class="quicklinks">quicklinks</a>
 	<ul>
-		<li><div style="display: table-cell; height: 33px; vertical-align: middle;"><div><a href="/about-mtn/mtn-group/">MTN Group</a>&nbsp; | &nbsp;<a href="/about-mtn/disclaimer/">Disclaimer</a></div></div></li>
+		<li style="margin-top:-9px; vertical-align: middle;height:46px;display:block"><nav style="height:46px; vertical-align: middle;"><div style="display:block;padding-top:17px">
+        				<div>
+                <a href="/about-mtn/mtn-group/">MTN Group</a></div>				<div>
+                &nbsp; | &nbsp;<a href="/about-mtn/disclaimer/">Disclaimer</a></div>          
+        </div></nav></li>
 <!--		<li><a href="#" class="more">More</a></li>-->
 	</ul>
 </div>
 <div id="quicklinks_ad_unit" style="padding-bottom: 20px">
-</div>
-</div>
+</div></div>
 <!-- End Container -->
 			<div class="columnsholder">
 				<div id="content">
@@ -188,30 +283,553 @@ function setCookie(pLabel, pVal, pMinutes){
 <td>
 <p><a href="http://www.mtnfootball.com/live/click.php?u=/africa/african-top-20/&amp;o=Item+50168"><img src="//mtn.ensight-cdn.com/content/RightNav_Top20~1.jpg" width="300" height="60" border="0" align="" alt="" hspace="0" vspace="0"></a></p></td></tr>
 <tr>
-<td><br></td></tr></tbody></table><div class="greybox">
+<td> 
+<style>
+#squaresWaveG{
+position:relative;
+width:66px;
+height:8px}
+
+.squaresWaveG{
+position:absolute;
+top:0;
+background-color:#FFA400;
+width:8px;
+height:8px;
+-moz-animation-name:bounce_squaresWaveG;
+-moz-animation-duration:1.3s;
+-moz-animation-iteration-count:infinite;
+-moz-animation-direction:linear;
+-webkit-animation-name:bounce_squaresWaveG;
+-webkit-animation-duration:1.3s;
+-webkit-animation-iteration-count:infinite;
+-webkit-animation-direction:linear;
+-ms-animation-name:bounce_squaresWaveG;
+-ms-animation-duration:1.3s;
+-ms-animation-iteration-count:infinite;
+-ms-animation-direction:linear;
+-o-animation-name:bounce_squaresWaveG;
+-o-animation-duration:1.3s;
+-o-animation-iteration-count:infinite;
+-o-animation-direction:linear;
+animation-name:bounce_squaresWaveG;
+animation-duration:1.3s;
+animation-iteration-count:infinite;
+animation-direction:linear;
+}
+
+#squaresWaveG_1{
+left:0;
+-moz-animation-delay:0.52s;
+-webkit-animation-delay:0.52s;
+-ms-animation-delay:0.52s;
+-o-animation-delay:0.52s;
+animation-delay:0.52s;
+}
+
+#squaresWaveG_2{
+left:9px;
+-moz-animation-delay:0.65s;
+-webkit-animation-delay:0.65s;
+-ms-animation-delay:0.65s;
+-o-animation-delay:0.65s;
+animation-delay:0.65s;
+}
+
+#squaresWaveG_3{
+left:18px;
+-moz-animation-delay:0.78s;
+-webkit-animation-delay:0.78s;
+-ms-animation-delay:0.78s;
+-o-animation-delay:0.78s;
+animation-delay:0.78s;
+}
+
+#squaresWaveG_4{
+left:27px;
+-moz-animation-delay:0.91s;
+-webkit-animation-delay:0.91s;
+-ms-animation-delay:0.91s;
+-o-animation-delay:0.91s;
+animation-delay:0.91s;
+}
+
+#squaresWaveG_5{
+left:36px;
+-moz-animation-delay:1.04s;
+-webkit-animation-delay:1.04s;
+-ms-animation-delay:1.04s;
+-o-animation-delay:1.04s;
+animation-delay:1.04s;
+}
+
+#squaresWaveG_6{
+left:45px;
+-moz-animation-delay:1.17s;
+-webkit-animation-delay:1.17s;
+-ms-animation-delay:1.17s;
+-o-animation-delay:1.17s;
+animation-delay:1.17s;
+}
+
+#squaresWaveG_7{
+left:54px;
+-moz-animation-delay:1.3s;
+-webkit-animation-delay:1.3s;
+-ms-animation-delay:1.3s;
+-o-animation-delay:1.3s;
+animation-delay:1.3s;
+}
+
+#squaresWaveG_8{
+left:63px;
+-moz-animation-delay:1.43s;
+-webkit-animation-delay:1.43s;
+-ms-animation-delay:1.43s;
+-o-animation-delay:1.43s;
+animation-delay:1.43s;
+}
+
+@-moz-keyframes bounce_squaresWaveG{
+0%{
+background-color:#FFA400;
+}
+
+100%{
+background-color:#FFFFFF;
+}
+
+}
+
+@-webkit-keyframes bounce_squaresWaveG{
+0%{
+background-color:#FFB200;
+}
+
+100%{
+background-color:#FFFFFF;
+}
+
+}
+
+@-ms-keyframes bounce_squaresWaveG{
+0%{
+background-color:#FFB200;
+}
+
+100%{
+background-color:#FFFFFF;
+}
+
+}
+
+@-o-keyframes bounce_squaresWaveG{
+0%{
+background-color:#FFB200;
+}
+
+100%{
+background-color:#FFFFFF;
+}
+
+}
+
+@keyframes bounce_squaresWaveG{
+0%{
+background-color:#FFB200;
+}
+
+100%{
+background-color:#FFFFFF;
+}
+
+}
+
+#floatingCirclesG{
+position:relative;
+width:60px;
+height:60px;
+-moz-transform:scale(0.6);
+-webkit-transform:scale(0.6);
+-ms-transform:scale(0.6);
+-o-transform:scale(0.6);
+transform:scale(0.6);
+}
+
+.f_circleG{
+position:absolute;
+background-color:#FFFFFF;
+height:11px;
+width:11px;
+-moz-border-radius:5px;
+-moz-animation-name:f_fadeG;
+-moz-animation-duration:1.04s;
+-moz-animation-iteration-count:infinite;
+-moz-animation-direction:linear;
+-webkit-border-radius:5px;
+-webkit-animation-name:f_fadeG;
+-webkit-animation-duration:1.04s;
+-webkit-animation-iteration-count:infinite;
+-webkit-animation-direction:linear;
+-ms-border-radius:5px;
+-ms-animation-name:f_fadeG;
+-ms-animation-duration:1.04s;
+-ms-animation-iteration-count:infinite;
+-ms-animation-direction:linear;
+-o-border-radius:5px;
+-o-animation-name:f_fadeG;
+-o-animation-duration:1.04s;
+-o-animation-iteration-count:infinite;
+-o-animation-direction:linear;
+border-radius:5px;
+animation-name:f_fadeG;
+animation-duration:1.04s;
+animation-iteration-count:infinite;
+animation-direction:linear;
+}
+
+#frotateG_01{
+left:0;
+top:25px;
+-moz-animation-delay:0.39s;
+-webkit-animation-delay:0.39s;
+-ms-animation-delay:0.39s;
+-o-animation-delay:0.39s;
+animation-delay:0.39s;
+}
+
+#frotateG_02{
+left:7px;
+top:7px;
+-moz-animation-delay:0.52s;
+-webkit-animation-delay:0.52s;
+-ms-animation-delay:0.52s;
+-o-animation-delay:0.52s;
+animation-delay:0.52s;
+}
+
+#frotateG_03{
+left:25px;
+top:0;
+-moz-animation-delay:0.65s;
+-webkit-animation-delay:0.65s;
+-ms-animation-delay:0.65s;
+-o-animation-delay:0.65s;
+animation-delay:0.65s;
+}
+
+#frotateG_04{
+right:7px;
+top:7px;
+-moz-animation-delay:0.78s;
+-webkit-animation-delay:0.78s;
+-ms-animation-delay:0.78s;
+-o-animation-delay:0.78s;
+animation-delay:0.78s;
+}
+
+#frotateG_05{
+right:0;
+top:25px;
+-moz-animation-delay:0.91s;
+-webkit-animation-delay:0.91s;
+-ms-animation-delay:0.91s;
+-o-animation-delay:0.91s;
+animation-delay:0.91s;
+}
+
+#frotateG_06{
+right:7px;
+bottom:7px;
+-moz-animation-delay:1.04s;
+-webkit-animation-delay:1.04s;
+-ms-animation-delay:1.04s;
+-o-animation-delay:1.04s;
+animation-delay:1.04s;
+}
+
+#frotateG_07{
+left:25px;
+bottom:0;
+-moz-animation-delay:1.17s;
+-webkit-animation-delay:1.17s;
+-ms-animation-delay:1.17s;
+-o-animation-delay:1.17s;
+animation-delay:1.17s;
+}
+
+#frotateG_08{
+left:7px;
+bottom:7px;
+-moz-animation-delay:1.3s;
+-webkit-animation-delay:1.3s;
+-ms-animation-delay:1.3s;
+-o-animation-delay:1.3s;
+animation-delay:1.3s;
+}
+
+@-moz-keyframes f_fadeG{
+0%{
+background-color:#333333}
+
+100%{
+background-color:#FFFFFF}
+
+}
+
+@-webkit-keyframes f_fadeG{
+0%{
+background-color:#333333}
+
+100%{
+background-color:#FFFFFF}
+
+}
+
+@-ms-keyframes f_fadeG{
+0%{
+background-color:#333333}
+
+100%{
+background-color:#FFFFFF}
+
+}
+
+@-o-keyframes f_fadeG{
+0%{
+background-color:#333333}
+
+100%{
+background-color:#FFFFFF}
+
+}
+
+@keyframes f_fadeG{
+0%{
+background-color:#333333}
+
+100%{
+background-color:#FFFFFF}
+
+}
+</style>
+<div style="display: none;position:absolute;z-index:999999;" id="ajax_loading">
+<div id="floatingCirclesG">
+<div class="f_circleG" id="frotateG_01">
+</div>
+<div class="f_circleG" id="frotateG_02">
+</div>
+<div class="f_circleG" id="frotateG_03">
+</div>
+<div class="f_circleG" id="frotateG_04">
+</div>
+<div class="f_circleG" id="frotateG_05">
+</div>
+<div class="f_circleG" id="frotateG_06">
+</div>
+<div class="f_circleG" id="frotateG_07">
+</div>
+<div class="f_circleG" id="frotateG_08">
+</div>
+</div></div>
+<script>
+jQuery.fn.center = function () {
+    this.css("position","absolute");
+	var h=( $(window).height() - this.height() ) / 2+$(window).scrollTop() + "px";
+	var w=( $(window).width() - this.width() ) / 2+$(window).scrollLeft() + "px";
+    this.css("top", h);
+    this.css("left", w);
+	//alert(w+":"+h);
+    return this;
+}
+jQuery.fn.center_element = function (ele) {
+    this.css("position","absolute");
+	var p=$("#"+ele).position();
+	 if (p)
+		{
+		var h=( $("#"+ele).height() - this.height() ) / 2 + p.top;
+		var w=( $("#"+ele).width() - this.width() ) / 2 + p.left + "px";
+		}
+	h=h+"px";
+    this.css("top", h);
+    this.css("left", w);
+	//alert(w+":"+h);
+    return this;
+}
+if(typeof show_ajax_loading != 'function')
+	{
+	function show_ajax_loading(ele)
+		{
+			if (ele)
+				{
+				$('#ajax_loading').center_element(ele);
+				where_ajax=ele;
+				}
+			else
+				{
+				$('#ajax_loading').center();
+				where_ajax="";
+				}
+			$('#ajax_loading').show();
+			 
+		}
+	}
+if (typeof add_growl != 'function')
+	{
+	function add_growl(mess,time)
+		{
+			
+		if (!time) time=2500;
+				$.gritter.add({
+					// (string | mandatory) the heading of the notification
+					title: 'MTN Football',
+					// (string | mandatory) the text inside the notification
+					text: mess,
+					// (string | optional) the image to display on the left
+					image: '/live/_res/images/icon_green_tick_small.png',
+					// (bool | optional) if you want it to fade out on its own or just sit there
+					sticky: false,
+					// (int | optional) the time you want it to be alive for before fading out
+					time: time
+				});
+	
+				return false;
+	 
+		}
+	}
+if (typeof error_growl != 'function')
+	{
+	  function error_growl(mess,time)
+		  {
+			  
+				  if (!time) time=6500;
+				  $.gritter.add({
+					  // (string | mandatory) the heading of the notification
+					  title: 'Oops!',
+					  // (string | mandatory) the text inside the notification
+					  text: mess,
+					  // (string | optional) the image to display on the left
+					  image: '/live/_res/images/icon_red_cross_small.png',
+					  // (bool | optional) if you want it to fade out on its own or just sit there
+					  sticky: false,
+					  // (int | optional) the time you want it to be alive for before fading out
+					  time: time
+				  });
+	  
+				  return false;
+	   
+		  }
+	}
+</script><link rel="stylesheet" type="text/css" media="all" href="/live/_res/js/autoSuggestv14/autoSuggest.css">
+<script type="text/javascript" src="//mtn.ensight-cdn.com/live/_res/js/autoSuggestv14/jquery.autoSuggest.minified.js"></script>
+<style>
+
+</style>
+
+
+<div class="greybox" style="display:none" ;="">
+<div class="top">
+
+		<div class="btm">
+
+  <h3 "=""><strong>Top20</strong> Nominations</h3>	
+  <p id="nominated_heading" style="display:none"><strong>You have</strong> nominated:</p>
+   
+    <table width="270" id="squaresWaveGloader" style="position:absolute;z-index:14;display:none" align="center"><tbody><tr><td width="100%" height="35" align="center" valign="middle">
+    <div id="squaresWaveG">
+<div id="squaresWaveG_1" class="squaresWaveG">
+</div>
+<div id="squaresWaveG_2" class="squaresWaveG">
+</div>
+<div id="squaresWaveG_3" class="squaresWaveG">
+</div>
+<div id="squaresWaveG_4" class="squaresWaveG">
+</div>
+<div id="squaresWaveG_5" class="squaresWaveG">
+</div>
+<div id="squaresWaveG_6" class="squaresWaveG">
+</div>
+<div id="squaresWaveG_7" class="squaresWaveG">
+</div>
+<div id="squaresWaveG_8" class="squaresWaveG">
+</div>
+</div><div id="hidden_div" style="display:none"></div></td></tr></tbody></table>
+  <input type="text" style="width:270px;height:28px;border:1px  solid #aaaaaa;vertical-align:middle;
+		border-radius:3px 3px 3px 3px;padding:3px;font-size:16px;" id="searchtext" name="searchtext"></div></div></div>
+<script>
+		
+		$(function(){
+			$("#searchtext").autoSuggest("/live/pagebuilder/components/phase4/p4_nominate_search_for_players.php", {minChars: 2, matchCase: false,selectedItemProp: "name", searchObjProps: "name",startText:"Type here to nominate a player", beforeRetrieve: function(string){ $("#squaresWaveGloader").show(); return string; } ,retrieveComplete: function(data){ $("#squaresWaveGloader").hide(); return data; }, resultClick: function(data){ nominate_player(data.attributes.value) }});
+		 
+			});
+		function nominate_player(id)
+			{
+				if (parseInt(id) > 0)
+					{
+					var nommy=$("#nommy_"+id).html();
+					$("#nommy_"+id).html(parseInt(nommy)+1);
+					$("#nominated_heading").show();
+					var url="/live/pagebuilder/components/phase4/p4_nominate_update_ajax.php";
+					var bustcache=new Date().getTime();
+			$.ajax({ type:"GET", url:url, datatype:"html", data:{bustcache:bustcache,Player_ID:id},  
+			  success:function(data){ 
+			   				$("#hidden_div").html(data);
+							add_growl("Thank you for nominating this player");
+							if ($("#this_player_in_top20").val()=='1')
+							{
+								add_growl("He has been added to the Top20!");
+								
+							}
+				 		 },
+				error:function(xhr,err,e){ /*alert( "Error: " + err );*/ }
+				
+			  			})
+					}
+			}
+		function remove_nomination(id)
+			{
+				//alert("hello" + id.parseInt);
+				if (parseInt(id) > 0)
+					{
+				    $("#as_select_item"+id).remove();
+					var url="/live/pagebuilder/components/phase4/p4_nominate_delete_ajax.php";
+					var bustcache=new Date().getTime();
+			$.ajax({ type:"GET", url:url, datatype:"html", data:{bustcache:bustcache,Player_ID:id},  
+			  success:function(data){ 
+			  			 $("#hidden_div").html(data);
+						add_growl("You have removed this player's nomination");
+						
+				 		 },
+				error:function(xhr,err,e){ /*alert( "Error: " + err );*/ }
+				
+			  			})
+					}
+			}
+	</script>
+  <br></td></tr></tbody></table><div class="greybox">
 	<div class="top">
 		<div class="btm">
 			<div class="featured">
 				<div class="section">
 					<h3><strong>Featured</strong> Columns</h3>
 					<div class="block">
-						<img src="//mtn.ensight-cdn.com/content/Asamoah-Gyan~6_46x38.jpg" alt="">
-						<div class="text"><a href="/international/fifa-world-cup-2014/matches/reports/2013/june/16-lesotho-v-ghana.html">Ghana hold the aces in Group D after Les...</a></div>
+						<img src="//mtn.ensight-cdn.com/content/omeruo chelsea training~3_46x38.jpg" alt="">
+						<div class="text"><a href="/europe/epl/news/2013/dec/23-mourinho-stops-omeruo-from-chelsea-reserves.html">Mourinho stops Omeruo from Chelsea reser...</a></div>
 						<!--<span class="numb">12</span>-->
 					</div>
 					<div class="block">
-						<img src="//mtn.ensight-cdn.com/content/mikel chelsea latest may13~3_46x38.jpg" alt="">
-						<div class="text"><a href="/europe/epl/news/2013/june/14-mikel-agrees-to-join-galatasaray.html">Mikel agrees to join Galatasaray</a></div>
+						<img src="//mtn.ensight-cdn.com/content/enyeama lille~2_46x38.jpg" alt="">
+						<div class="text"><a href="/europe/epl/news/2013/dec/22-sundays-african-stars-watch-live.html">Sunday's African Stars Watch LIVE</a></div>
 						<!--<span class="numb">12</span>-->
 					</div>
 				</div>
 				<h4>Most Popular</h4>
 				<ul>
-					<li><a href="/europe/epl/news/2013/june/16-galatasaray-to-pay-big-offer-mikel-4-year-deal.html">Galatasaray to pay big, offer Mikel 4-ye...</a></li>
-					<li><a href="/international/fifa-world-cup-2014/matches/reports/2013/june/16-ethiopia-v-south-africa.html">Ethiopia down South Africa to win Group ...</a></li>
-					<li><a href="/international/fifa-world-cup-2014/news/2013/june/saturdays-wc-qualifiers-live.html">Saturday's WC qualifiers - The drama</a></li>
-					<li><a href="/international/fifa-world-cup-2014/matches/preview/2013/june/16-ethiopia-v-south-africa.html">Do-or-die clash in Addis Ababa for Bafan...</a></li>
-					<li><a href="/international/fifa-world-cup-2014/news/2013/june/16-ahmed-musa-eagles-will-fly-africas-flag-high.html">Ahmed Musa: Eagles will fly Africa's fla...</a></li>
+					<li><a href="/europe/epl/matches/preview/2013/dec/23-arsenal-vs-chelsea.html">Arsenal, Chelsea in top-of-the-table der...</a></li>
+					<li><a href="/international/fifa-world-cup-2014/news/2013/december/23-keshi-says-he-hopes-to-improve-world-cup-record.html">Keshi says he hopes to improve World Cup...</a></li>
+					<li><a href="/international/fifa-world-cup-2014/news/2013/december/21-eagles-world-cup-watch.html">Eagles World Cup Watch</a></li>
+					<li><a href="/europe/la-liga/matches/report/2013/december/22-valencia-vs-real-madrid.html">Real edge Valencia to reduce gap</a></li>
+					<li><a href="/africa/nigeria/news/2013/dec/23-odibe-happy-to-exit-arsenal-kiev.html">Odibe happy to exit Arsenal Kiev</a></li>
 				</ul>
 			</div>
 		</div>
@@ -269,14 +887,14 @@ function setCookie(pLabel, pVal, pMinutes){
 <li><a href="/africa/cameroon/">Cameroon</a></li>
 <li><a href="/africa/cote-d-ivoire/">Cote d Ivoire</a></li>
 <li><a href="/africa/zambia/">Zambia</a></li>
-<li><a href="/africa/swaziland/">Swaziland</a></li>
 <li><a href="/africa/uganda/">Uganda</a></li>
+<li><a href="/africa/congo-brazzaville/">Congo Brazzaville</a></li>
 <li><a href="/africa/caf-champions-league/">CAF Champions League</a></li>
 <li><a href="/africa/caf-confederation-cup/">CAF Confederation Cup</a></li>
 <li><a href="/africa/cosafa-cup/">COSAFA Cup</a></li>
+<li><a href="/africa/chan/">CHAN</a></li>
 <li><a href="/africa/africa-cup-of-nations/">Africa Cup of Nations</a></li>
 <li><a href="/africa/african-top-20/">African Top 20</a></li>
-<li><a href="/africa/associations/">Associations</a></li>
 				</ul>
 			</div>
 			<div class="col">
@@ -295,6 +913,7 @@ function setCookie(pLabel, pVal, pMinutes){
 				<h3><strong>International</strong> Tournaments</h3>
 				<ul>
 <li><a href="/international/fifa-world-cup-2014/">FIFA World Cup 2014</a></li>
+<li><a href="/international/fifa-u-20-world-cup/">FIFA U-20 World Cup</a></li>
 <li><a href="/international/fifa-confederations-cup/">FIFA Confederations Cup</a></li>
 				</ul>
 			</div>
@@ -361,7 +980,7 @@ jQuery(window).ready(function () {
 								<li><a href="/africa/special-reports/">Special Reports</a></li>
 								<li><a href="/africa/african-top-20/">Top 20 African Players</a></li>
 								<!--<li><a href="/africa/my-african-xi/">My African XI</a></li>-->
-								<li><a href="/africa/associations/">National Associations</a></li>
+								<!--<li><a href="/africa/associations/">National Associations</a></li>-->
 								<li><a href="/africa/photos/">Photo Zone</a></li>
 								<li><a href="/africa/video/">Video Zone</a></li>
 								<li><a href="/live-action.html">Live Action</a></li>
@@ -379,7 +998,7 @@ jQuery(window).ready(function () {
 						<div class="col tournaments">
 							<h3><strong>Featured</strong> Tournaments</h3>
 							<ul>
-<li><a href="/africa/african-tournaments/cosafa-cup/">2013 COSAFA Cup</a><span><a href="/africa/african-tournaments/cosafa-cup/news/">News</a> | <a href="/africa/african-tournaments/cosafa-cup/matches-results/">Matches</a> | <a href="/africa/african-tournaments/cosafa-cup/group-standings/">Standings</a></span></li><li><a href="/africa/african-tournaments/caf-confederations-cup/">2013 CAF Confederation Cup</a><span><a href="/africa/african-tournaments/caf-confederations-cup/news/">News</a> | <a href="/africa/african-tournaments/caf-confederations-cup/matches-results/">Matches</a></span></li><li><a href="/africa/african-tournaments/caf-champions-league/">2013 CAF Champions League</a><span><a href="/africa/african-tournaments/caf-champions-league/news/">News</a> | <a href="/africa/african-tournaments/caf-champions-league/match-results/">Matches</a> | <a href="/africa/african-tournaments/caf-champions-league/group-standings/">Standings</a></span></li><li><a href="/africa/african-tournaments/african-cup-of-nations/">2013 Africa Cup of Nations</a><span><a href="/africa/african-tournaments/african-cup-of-nations/news/">News</a> | <a href="/africa/african-tournaments/african-cup-of-nations/matches-results/">Matches</a></span></li>							</ul>
+<li>MTN8 2013<span><a href="/africa/south-africa/mtn8/news/">News</a> | <a href="/africa/south-africa/mtn8/fixtures-results/">Matches</a></span></li><li><a href="/africa/african-tournaments/chan/">2014 CHAN</a><span><a href="/africa/african-tournaments/chan/news/">News</a></span></li><li><a href="/africa/african-tournaments/cosafa-cup/">2013 COSAFA Cup</a><span><a href="/africa/african-tournaments/cosafa-cup/news/">News</a> | <a href="/africa/african-tournaments/cosafa-cup/matches-results/">Matches</a> | <a href="/africa/african-tournaments/cosafa-cup/group-standings/">Standings</a></span></li><li><a href="/africa/african-tournaments/caf-confederations-cup/">2013 CAF Confederation Cup</a><span><a href="/africa/african-tournaments/caf-confederations-cup/news/">News</a> | <a href="/africa/african-tournaments/caf-confederations-cup/matches-results/">Matches</a></span></li><li><a href="/africa/african-tournaments/caf-champions-league/">2013 CAF Champions League</a><span><a href="/africa/african-tournaments/caf-champions-league/news/">News</a> | <a href="/africa/african-tournaments/caf-champions-league/match-results/">Matches</a> | <a href="/africa/african-tournaments/caf-champions-league/group-standings/">Standings</a></span></li><li><a href="/africa/african-tournaments/african-cup-of-nations/">2013 Africa Cup of Nations</a><span><a href="/africa/african-tournaments/african-cup-of-nations/news/">News</a> | <a href="/africa/african-tournaments/african-cup-of-nations/matches-results/">Matches</a></span></li>							</ul>
 						</div>
 					</div>
 					<div id="topnav-africa">
@@ -391,7 +1010,7 @@ jQuery(window).ready(function () {
 								<li><a href="/africa/special-reports/">Special Reports</a></li>
 								<li><a href="/africa/african-top-20/">Top 20 African Players</a></li>
 								<!--<li><a href="/africa/my-african-xi/">My African XI</a></li>-->
-								<li><a href="/africa/associations/">National Associations</a></li>
+								<!--<li><a href="/africa/associations/">National Associations</a></li>-->
 								<li><a href="/africa/photos/">Photo Zone</a></li>
 								<li><a href="/africa/video/">Video Zone</a></li>
 								<li><a href="/live-action.html">Live Action</a></li>
@@ -400,20 +1019,19 @@ jQuery(window).ready(function () {
 						<div class="col countries">
 							<h3><strong>Featured </strong> Countries</h3>
 							<ul>
-		<li class="title first"><a class="title" href="/africa/cote-d-ivoire/ligue-1-mtn/">Côte d'Ivoire</a></li>
-<li><a href="/africa/cote-d-ivoire/national-team/">National Team</a></li><li><a href="/africa/cote-d-ivoire/">Cote d'Ivoire Ligue 1 2013</a><span><a href="/africa/cote-d-ivoire/news/">News</a> | <a href="/africa/cote-d-ivoire/ligue-1-mtn/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/cameroon/mtn-elite-one/">Cameroon</a></li>
-<li><a href="/africa/cameroon/national-team/">National Team</a></li><li><a href="/africa/cameroon/">MTN Elite One 2013</a><span><a href="/africa/cameroon/mtn-elite-one/news/">News</a> | <a href="/africa/cameroon/mtn-elite-one/matches/">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/ghana/">Ghana</a></li>
-<li><a href="/africa/ghana/national-team/">National Team</a></li><li><a href="/africa/ghana/premier-league/">Ghana Premier League 2012/13</a><span><a href="/africa/ghana/premier-league/news/">News</a> | <a href="/africa/ghana/premier-league/teams/">Teams</a> | <a href="/africa/ghana/premier-league/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/nigeria/premier-league/league-standings/">Nigeria</a></li>
-<li><a href="/africa/nigeria/">Nigeria Premier League 2012/13</a><span><a href="/africa/nigeria/premier-league/news/">News</a> | <a href="/africa/nigeria/premier-league/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/swaziland/premier-league/">Swaziland</a></li>
-<li><a href="/africa/associations/swaziland.html">National Team</a></li><li><a href="/africa/swaziland/">MTN Premier League of Swaziland 2012/13</a><span><a href="/africa/swaziland/premier-league/featured-teams/">Teams</a> | <a href="/africa/swaziland/premier-league/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/uganda/">Uganda</a></li>
-<li><a href="/africa/uganda/national-team/">National Team</a></li><li><a href="/africa/uganda/fufa-super-league/">FUFA Super League 2012/13</a><span><a href="/africa/uganda/news/">News</a> | <a href="/africa/uganda/fufa-super-league/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/south-africa/">South Africa</a></li>
-<li><a href="/africa/south-africa/national-team/">National Team</a></li><li><a href="/africa/south-africa/absa-premiership/">ABSA Premiership 2012/13</a><span><a href="/africa/south-africa/absa-premiership/news/">News</a> | <a href="/africa/south-africa/absa-premiership/teams/">Teams</a> | <a href="/africa/south-africa/absa-premiership/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/zambia/">Zambia</a></li>
-<li><a href="/africa/associations/zambia.html">National Team</a></li><li><a href="/africa/zambia/premier-league/">2013 MTN/FAZ Super Division</a><span><a href="/africa/zambia/premier-league/news/">News</a> | <a href="/africa/zambia/premier-league/matches-results.html">Matches</a></span></li>							</ul>
+		<li class="title first"><a class="title" href="/africa/cote-d-ivoire/">Côte d'Ivoire</a></li>
+<li><a href="/africa/cote-d-ivoire/?tab=national_team" ?="">National Team</a></li><li><a href="/africa/cote-d-ivoire/ligue-1-mtn/">Cote d'Ivoire Ligue 1 2013/14</a><span><a href="/africa/cote-d-ivoire/ligue-1-mtn/news/">News</a> | <a href="/africa/cote-d-ivoire/ligue-1-mtn/matches/">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/cameroon/">Cameroon</a></li>
+<li><a href="/africa/cameroon/?tab=national_team" ?="">National Team</a></li><li><a href="/africa/cameroon/mtn-elite-one/">MTN Elite One 2013</a><span><a href="/africa/cameroon/news/">News</a> | <a href="/africa/cameroon/mtn-elite-one/matches/">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/ghana/">Ghana</a></li>
+<li><a href="/africa/ghana/?tab=national_team" ?="">National Team</a></li><li><a href="/africa/ghana/premier-league/">Ghana Premier League 2013/14</a><span><a href="/africa/ghana/premier-league/news/">News</a> | <a href="/africa/ghana/premier-league/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/nigeria/">Nigeria</a></li>
+<li><a href="/africa/nigeria/?tab=national_team" ?="">National Team</a></li><li><a href="/africa/nigeria/premier-league/">Nigeria Premier League 2012/13</a><span><a href="/africa/nigeria/premier-league/news/">News</a> | <a href="/africa/nigeria/premier-league/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/uganda/">Uganda</a></li>
+<li><a href="/africa/uganda/?tab=national_team" ?="">National Team</a></li><li><a href="/africa/uganda/fufa-super-league/">FUFA Super League 2013/14</a><span><a href="/africa/uganda/news/">News</a> | <a href="/africa/uganda/fufa-super-league/matches-results.html">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/south-africa/">South Africa</a></li>
+<li><a href="/africa/south-africa/?tab=national_team" ?="">National Team</a></li><li><a href="/africa/south-africa/absa-premiership/">ABSA Premiership 2013/14</a><span><a href="/africa/south-africa/absa-premiership/news/">News</a> | <a href="/africa/south-africa/absa-premiership/fixtures-results/">Matches</a></span></li>		<li class="title"><a class="title" href="/africa/zambia/">Zambia</a></li>
+<li><a href="/africa/zambia/?tab=national_team" ?="">National Team</a></li><li><a href="/africa/zambia/premier-league/">2013 MTN/FAZ Super Division</a><span><a href="/africa/zambia/news/">News</a> | <a href="/africa/zambia/premier-league/matches-results.html">Matches</a></span></li>							</ul>
 						</div>
 						<div class="col tournaments">
 							<h3><strong>Featured</strong> Tournaments</h3>
 							<ul>
-<li><a href="/africa/african-tournaments/cosafa-cup/">2013 COSAFA Cup</a><span><a href="/africa/african-tournaments/cosafa-cup/news/">News</a> | <a href="/africa/african-tournaments/cosafa-cup/matches-results/">Matches</a> | <a href="/africa/african-tournaments/cosafa-cup/group-standings/">Standings</a></span></li><li><a href="/africa/african-tournaments/caf-confederations-cup/">2013 CAF Confederation Cup</a><span><a href="/africa/african-tournaments/caf-confederations-cup/news/">News</a> | <a href="/africa/african-tournaments/caf-confederations-cup/matches-results/">Matches</a></span></li><li><a href="/africa/african-tournaments/caf-champions-league/">2013 CAF Champions League</a><span><a href="/africa/african-tournaments/caf-champions-league/news/">News</a> | <a href="/africa/african-tournaments/caf-champions-league/match-results/">Matches</a> | <a href="/africa/african-tournaments/caf-champions-league/group-standings/">Standings</a></span></li><li><a href="/africa/african-tournaments/african-cup-of-nations/">2013 Africa Cup of Nations</a><span><a href="/africa/african-tournaments/african-cup-of-nations/news/">News</a> | <a href="/africa/african-tournaments/african-cup-of-nations/matches-results/">Matches</a></span></li>							</ul>
+<li><a href="/africa/south-africa/mtn8/">MTN8 2013</a><span><a href="/africa/south-africa/mtn8/news/">News</a> | <a href="/africa/south-africa/mtn8/fixtures-results/">Matches</a></span></li><li><a href="/africa/african-tournaments/chan/">2014 CHAN</a><span><a href="/africa/african-tournaments/chan/news/">News</a></span></li><li><a href="/africa/african-tournaments/cosafa-cup/">2013 COSAFA Cup</a><span><a href="/africa/african-tournaments/cosafa-cup/news/">News</a> | <a href="/africa/african-tournaments/cosafa-cup/matches-results/">Matches</a> | <a href="/africa/african-tournaments/cosafa-cup/group-standings/">Standings</a></span></li><li><a href="/africa/african-tournaments/caf-confederations-cup/">2013 CAF Confederation Cup</a><span><a href="/africa/african-tournaments/caf-confederations-cup/news/">News</a> | <a href="/africa/african-tournaments/caf-confederations-cup/matches-results/">Matches</a></span></li><li><a href="/africa/african-tournaments/caf-champions-league/">2013 CAF Champions League</a><span><a href="/africa/african-tournaments/caf-champions-league/news/">News</a> | <a href="/africa/african-tournaments/caf-champions-league/match-results/">Matches</a> | <a href="/africa/african-tournaments/caf-champions-league/group-standings/">Standings</a></span></li><li><a href="/africa/african-tournaments/african-cup-of-nations/">2013 Africa Cup of Nations</a><span><a href="/africa/african-tournaments/african-cup-of-nations/news/">News</a> | <a href="/africa/african-tournaments/african-cup-of-nations/matches-results/">Matches</a></span></li>							</ul>
 						</div>
 					</div>
 					<div id="topnav-europe">
@@ -432,16 +1050,16 @@ jQuery(window).ready(function () {
 							<h3><strong>Featured </strong> Leagues</h3>
 							<ul>
 								<li class="title first">Italy</li>
-<li><a href="/europe/serie-a/">Serie A 2012/13</a><span><a href="/europe/serie-a/news/">News</a> | <a href="/europe/serie-a/featured-teams/">Teams</a> | <a href="/europe/serie-a/matches-results.html">Matches</a></span></li>								<li class="title">France</li>
-<li><a href="/europe/ligue-1/">Ligue 1 2012/13</a><span><a href="/europe/ligue-1/news/">News</a> | <a href="/europe/ligue-1/teams/">Teams</a> | <a href="/europe/ligue-1/matches-results.html">Matches</a></span></li>								<li class="title">Spain</li>
-<li><a href="/europe/la-liga/">La Liga 2012/13</a><span><a href="/europe/la-liga/news/">News</a> | <a href="/europe/la-liga/teams/">Teams</a> | <a href="/europe/la-liga/matches-results.html">Matches</a></span></li>								<li class="title">Germany</li>
-<li><a href="/europe/bundesliga/">Bundesliga 2012/13</a><span><a href="/europe/bundesliga/news/">News</a> | <a href="/europe/bundesliga/teams/">Teams</a> | <a href="/europe/bundesliga/matches-results.html">Matches</a></span></li>								<li class="title">United Kingdom</li>
-<li><a href="/europe/epl/">Barclays Premier League 2012/13</a><span><a href="/europe/epl/news/">News</a> | <a href="/europe/epl/teams/">Teams</a> | <a href="/europe/epl/matches-results.html">Matches</a></span></li>							</ul>
+<li><a href="/europe/serie-a/">Serie A 2013/14</a><span><a href="/europe/serie-a/news/">News</a> | <a href="/europe/serie-a/matches-results.html">Matches</a></span></li>								<li class="title">France</li>
+<li><a href="/europe/ligue-1/">Ligue 1 2013/14</a><span><a href="/europe/ligue-1/news/">News</a> | <a href="/europe/ligue-1/matches-results.html">Matches</a></span></li>								<li class="title">Spain</li>
+<li><a href="/europe/la-liga/">La Liga 2013/14</a><span><a href="/europe/la-liga/news/">News</a> | <a href="/europe/la-liga/matches-results.html">Matches</a></span></li>								<li class="title">Germany</li>
+<li><a href="/europe/bundesliga/">Bundesliga 2013/14</a><span><a href="/europe/bundesliga/news/">News</a> | <a href="/europe/bundesliga/matches-results.html">Matches</a></span></li>								<li class="title">United Kingdom</li>
+<li><a href="/europe/epl/">Barclays Premier League 2013/14</a><span><a href="/europe/epl/news/">News</a> | <a href="/europe/epl/matches-results.html">Matches</a></span></li>							</ul>
 						</div>
 						<div class="col tournaments">
 							<h3><strong>Featured</strong> Tournaments</h3>
 							<ul>
-<li><a href="/europe/uefa-champions-league/">UEFA Champions League 2012/13</a><span><a href="/europe/uefa-champions-league/news/">News</a> | <a href="/europe/uefa-champions-league/fixtures-results/">Matches</a> | <a href="/europe/uefa-champions-league/group-standings/">Standings</a></span></li>							</ul>
+<li><a href="/europe/uefa-champions-league/">UEFA Champions League 2013/14</a><span><a href="/europe/uefa-champions-league/news/">News</a> | <a href="/europe/uefa-champions-league/fixtures-results/">Matches</a> | <a href="/europe/uefa-champions-league/group-standings/">Standings</a></span></li>							</ul>
 						</div>
 					</div>
 					<div id="topnav-international">
@@ -460,7 +1078,7 @@ jQuery(window).ready(function () {
 						<div class="col tournaments">
 							<h3><strong>Featured</strong> Tournaments</h3>
 							<ul>
-<li><a href="/international/fifa-world-cup-2014/">2014 FIFA World Cup Qualifiers</a><span><a href="/international/fifa-world-cup-2014/news/">News</a> | <a href="/international/fifa-world-cup-2014/match-fixtures/">Matches</a></span></li><li><a href="/international/fifa-confederations-cup/">2013 FIFA Confederations Cup</a><span><a href="/international/fifa-confederations-cup/news/">News</a> | <a href="/international/fifa-confederations-cup/fixtures-results/">Matches</a></span></li>							</ul>
+<li><a href="/international/fifa-world-cup-2014/">2014 FIFA World Cup Brazil</a><span><a href="/international/fifa-world-cup-2014/news/">News</a> | <a href="/international/fifa-world-cup-2014/match-fixtures/">Matches</a> | <a href="/international/fifa-world-cup-2014/groups-teams/">Standings</a></span></li><li><a href="/international/fifa-u-20-world-cup/">2013 FIFA U-20 World Cup</a><span><a href="/international/fifa-u-20-world-cup/news/">News</a> | <a href="/international/fifa-u-20-world-cup/match-results/">Matches</a> | <a href="/international/fifa-u-20-world-cup/group-standings/">Standings</a></span></li><li><a href="/international/fifa-confederations-cup/">2013 FIFA Confederations Cup</a><span><a href="/international/fifa-confederations-cup/news/">News</a> | <a href="/international/fifa-confederations-cup/fixtures-results/">Matches</a></span></li>							</ul>
 						</div>
 					</div>
 				</div>
@@ -487,6 +1105,7 @@ jQuery(window).ready(function () {
 <!-- Begin Container #3032 -->
 <div id="Xcontainer50" class="Xcontainerfreeform">
 <div id="fb-root"></div>
+
 <link rel="stylesheet" href="/live/pagebuilder/components/shared/social.css">
 <script type="text/javascript" src="//mtn.ensight-cdn.com/live/pagebuilder/components/shared/ilib.js"></script>
 <script type="text/javascript" src="//mtn.ensight-cdn.com/live/pagebuilder/components/shared/social.js"></script>
@@ -512,7 +1131,6 @@ jQuery(window).ready(function () {
 </ul>
 </div>
 <!-- End Container -->
-
 
 
 </body></html>
