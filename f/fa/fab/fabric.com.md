@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529041537id_/http%3A//www.fabric.com/SitePages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224162614id_/http%3A//www.fabric.com/SitePages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Fabric - Store
 
-**Last Updated** : April 29, 2011. To see what's changed, [click here](http://privacyinfo.fabric.com/).
+[Continue Shopping](http://www.fabric.com/)
+
+**Last Updated** : April 29, 2011. To see what's changed, [click here](https://web.archive.org/SitePages/PrivacyInformation.aspx).
 
 **Fabric.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Fabric.com, you are accepting the practices described in this Privacy Notice.**
 
@@ -12,7 +14,7 @@ The information we learn from customers helps us personalize and continually imp
 
   * **Information You Give Us:** We receive and store any information you enter on our website or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store, and communicating with you.
   * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," and we obtain certain types of information when your web browser accesses Fabric.com or advertisements and other content served by or on behalf of Fabric.com on other websites. Click here to see examples of the information we receive.
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we may receive a confirmation when you open e-mail from Fabric.com if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://www.fabric.com/MyAccount-MyEmailPreferences.aspx).
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we may receive a confirmation when you open e-mail from Fabric.com if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://web.archive.org/MyAccount-MyEmailPreferences.aspx).
   * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
 
@@ -30,7 +32,7 @@ Information about our customers is an important part of our business, and we are
 
   * **Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases, we may include offerings directly from those businesses on Fabric.com. In other cases, we may include joint offerings from Fabric.com and these businesses on Fabric.com . You can tell when a third party is involved in the offering, and we share customer information related to those offerings with that business.
   * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf.  Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service.  They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Promotional Offers:** Sometimes we send offers to selected groups of Fabric.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your[Email Preferences](https://www.fabric.com/MyAccount-MyEmailPreferences.aspx).
+  * **Promotional Offers:** Sometimes we send offers to selected groups of Fabric.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your[Email Preferences](https://web.archive.org/MyAccount-MyEmailPreferences.aspx).
   * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the event that Fabric.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
   * **Protection of Fabric.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our agreements; or protect the rights, property, or safety of Fabric.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
   * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
@@ -40,7 +42,7 @@ Information about our customers is an important part of our business, and we are
 ## How Secure Is Information About Me?
 
   * We work to protect the security of your information during transmission by using Secure Socket layer (SSL) Software, which encrypts information you input.
-  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, the appropriate credit card company will need to receive your entire credit card number for processing.
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
 
@@ -60,7 +62,7 @@ Fabric.com gives you access to a broad range of information about your account a
 ## What Choices Do I Have?
 
   * You can add or update certain information on pages such as those referenced in the "Which Information Can I Access" section.
-  * If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://www.fabric.com/MyAccount-MyEmailPreferences.aspx).
+  * If you do not want to receive e-mail or other mail from us, please adjust your [Email Preferences](https://web.archive.org/MyAccount-MyEmailPreferences.aspx).
   * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Fabric.com's essential features, we recommend that you leave them turned on.
 
 
@@ -75,7 +77,7 @@ If you choose to visit Fabric.com, your visit and any dispute over privacy is su
 
 ## Information You Give Us
 
-You provide most such information when you register as a customer, search, buy, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Fabric.com; provide information in [My Account](https://www.fabric.com/MyAccount-MyProfile.aspx?MyAccount=true) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; and people to whom purchases have been shipped, including addresses and phone numbers.
+You provide most such information when you register as a customer, search, buy, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Fabric.com; provide information in [My Account](https://web.archive.org/MyAccount-MyProfile.aspx?MyAccount=true) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; and people to whom purchases have been shipped, including addresses and phone numbers.
 
 ## Automatic Information
 
