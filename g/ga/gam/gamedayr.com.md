@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530072446id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedayr.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224075314id_/http%3A//gamedayr.com/privacy-and-terms-of-use) for the most accurate reproduction.*
 
-# Privacy and Terms of Use - Gamedayr : Gamedayr
+# Gamedayr Sports News Company
+
+**COPPA Guidelines – Children Policy**
+
+Gamedayr is meant for persons over the age of 13. Anyone under the age of 13 should not sign up for any of Gamedayr’s services and correspondence. If a minor under the age of 13 has signed up for these services without consent, any parent has the right to ask for their child’s information to be blocked. Once they have shown Gamedayr Media Network, LLC that they are the legal guardian of the child who’s information is being requested, Gamedayr will release the information and delete it upon request.
+
+Gamedayr Media Network, LLC will maintain the confidentiality, security, and integrity of information they collect from children who have disobeyed Gamedayr’s guidelines., including by taking reasonable steps to release such information only to parties capable of maintaining its confidentiality and security. Gamedayr will also retain personal information collected online from a child for only as long as is necessary to fulfill the purpose for which it was collected and delete the  information using reasonable measures to protect against its unauthorized access or use.
+
+Please contact our team members at NiceCatch@Gamedayr.com with any questions or concerns.
 
 **Affiliate Notice**
 
@@ -82,4 +90,4 @@ If you believe that your copyright in any material has been infringed on the Sit
 
 **Effective Date of this  Privacy Policy **
 
-This Privacy Policy is effective as of August 1, 2011 and last updated February 11, 2013,
+This Privacy Policy is effective as of August 1, 2011 and was last updated July 1, 2013.
