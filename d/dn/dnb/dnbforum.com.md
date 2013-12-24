@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnbforum.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612165630id_/http%3A//dnbforum.com/announcement.php%3Ff%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnbforum.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224141210id_/http%3A//dnbforum.com/announcement.php%3Ff%3D56) for the most accurate reproduction.*
 
-# Announcements - Drum & Bass
+# Announcements - Website Feedback
 
 > **dnbforum.com (or "Site") Privacy Policy**  
 >  We are committed to safeguarding your privacy online. This Privacy Policy applies to your information that we collect and receive on and through this Site; it does not apply to practices of businesses that we do not own or control or people we do not employ.
