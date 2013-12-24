@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staffordschools.net privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510051334id_/http%3A//stafford.schoolfusion.us/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staffordschools.net privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224163218id_/http%3A//stafford.schoolfusion.us/privacy.phtml) for the most accurate reproduction.*
 
 # Stafford County Public Schools
 
