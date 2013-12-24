@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduraoffers.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622013526id_/http%3A//eduraoffers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduraoffers.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224045201id_/http%3A//eduraoffers.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Edura Offers
 
