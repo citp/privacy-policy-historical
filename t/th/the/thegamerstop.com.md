@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegamerstop.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604103808id_/http%3A//thegamerstop.com/about-us.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamerstop.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224210949id_/http%3A//thegamerstop.com/about-us.php) for the most accurate reproduction.*
 
-# Privacy Policy - Cool Games - Play Free Online Games | TheGamerStop!
+# Privacy Policy - Play Free Games Online No Download - TheGamerStop
 
 ## Information Collection and Use
 
