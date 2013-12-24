@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlineusers.com privacy policy that was archived on 2013-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130112204809id_/http%3A//www.freeonlineusers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlineusers.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224145850id_/http%3A//freeonlineusers.com/privacy.html) for the most accurate reproduction.*
 
 # Free Online Users - Online Users Counter
 
