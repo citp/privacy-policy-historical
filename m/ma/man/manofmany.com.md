@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manofmany.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531125323id_/http%3A//manofmany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manofmany.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224214105id_/http%3A//manofmany.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Man of Many
 
 All images that appear on this website are sourced from the Internet and are deemed to be in the public domain. We claim no credit for any images or videos featured on this site unless otherwise stated. All visual content is copyright to its respectful owners. If you own the rights to any of the images or videos on this site and do not wish for them to appear, please contact us at: [scott@manofmany.com](mailto:scott@manofmany.com)
 
