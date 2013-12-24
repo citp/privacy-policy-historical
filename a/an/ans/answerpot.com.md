@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the answerpot.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115085820id_/http%3A//answerpot.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerpot.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224214943id_/http%3A//listarc.com/pp.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# ListArc.com - Privacy Policy
 
-This Privacy Policy governs the manner in which answerpot.com collects, uses, maintains and discloses information collected from users (each, a "User") of the answerpot.com website ("Site"). This privacy policy applies to the Site and all products and services offered by answerpot.com.i
+This Privacy Policy governs the manner in which listarc.com collects, uses, maintains and discloses information collected from users (each, a "User") of the listarc.com website ("Site"). This privacy policy applies to the Site and all products and services offered by listarc.com.i
 
 Personal identification information
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 How we use collected information
 
-answerpot.com may collect and use Users personal information for the following purposes:
+listarc.com may collect and use Users personal information for the following purposes:
 
 \- To improve our Site We may use feedback you provide to improve our products and services.
 
@@ -36,7 +36,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Changes to this privacy policy
 
-answerpot.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+listarc.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
@@ -44,10 +44,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: answerpot.com answerpot.com Answerpot.com/contactus.php
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us here: [Contact Us](http://listarc.com/contactus.php)
 
-answerpot@googlemail.com
-
-This document was last updated on October 24, 2012
-
-Privacy policy created by http://www.generateprivacypolicy.com
+This document was last updated on June 30, 2013
