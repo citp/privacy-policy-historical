@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightshopping.in privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530021413id_/http%3A//www.rightshopping.in/Privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightshopping.in privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224053543id_/http%3A//www.rightshopping.in/Privacy_policy.asp) for the most accurate reproduction.*
 
 # RightShopping.in: Privacy Policy
 
