@@ -1,36 +1,24 @@
-<!--The following is the downloaded HTML source of the seabreeze.com.au privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502090222id_/http%3A//www.seabreeze.com.au/info/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seabreeze.com.au privacy policy that was archived on 2013-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224143816id_/http%3A//www.seabreeze.com.au/info/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="viewport" content="width=device-width">
+<meta charset="utf-8">
 <meta property="og:site_name" content="Seabreeze.com.au">
 <meta property="fb:app_id" content="189117861135618">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<link type="text/css" href="/Members/Css/700.css" rel="stylesheet">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Members/Javascript/700.js"></script>
-
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<meta name="robots" content="noodp, noydir">
+<link type="text/css" href="/Members/Css/919.css" rel="stylesheet">
+<!--[if lt IE 9]><link type="text/css" href="/Members/Css/919-IE.css" rel="stylesheet" ><![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Members/Javascript/919.js"></script>
 <script type="text/javascript">
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-19998140-1']);
-    _gaq.push(['_trackPageview']);
-
+    var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-19998140-1']);_gaq.push(['_trackPageview']);
     (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-
-    var pl = new Array(6);
-    var imgList = new Array(isHandheld ? "sb5_mobile.jpg" : "sb7.jpg", "forums/cat.png", "btn/buttonY.gif", "btn/buttonN.gif", "btn/buttonY2.gif", "btn/buttonN2.gif");
-    for (var i = 0; i < imgList.length; i++) {
-        pl[i] = new Image();
-        pl[i].src = "/images/" + imgList[i];
-    }
-
 </script>
 
 </head>
@@ -43,10 +31,10 @@
 
 <script type="text/javascript">
     if (isHandheld) {
-        new menu(MENU_ITEMS_MOBILE, MENU_MOBILE_LAYOUT);
+        new menu(MENU_ITEMS_MOBILE, MENU_MOBILE_LAYOUT, { 'zIndex': 200 });
     } else {
         processMenuBeforeCreate(MENU_ITEMS);
-        new menu(MENU_ITEMS, MENU_LAYOUT);
+        new menu(MENU_ITEMS, MENU_LAYOUT, { 'zIndex': 200 });
     }
     if (!hideMenu) {
         f_onLoad();
@@ -84,10 +72,7 @@ These are used only for broad statistical information purposes, such as "<i>how 
 </tbody></table>
 
 </center>
-<div class="Footer MasterContainer TextCenter" id="uxGlobalFooter">
-    <div class="desktopOnly Quiet TextCenter" style="color:black" id="uxViewOptions">
-        View Options:  <a href="#" id="uxMakeStretchView">Widescreen</a> | <a href="#" id="uxMakeFixedView">Fixed Width</a>
-    </div>
+<div class="Footer TextCenter" id="uxGlobalFooter">
 
     <ul>
         <li><a href="/members/portal/kitesurfing.aspx" title="View the Kitesurfing portal">Kitesurfing</a></li>
@@ -117,7 +102,7 @@ These are used only for broad statistical information purposes, such as "<i>how 
 </div>
 
 <div id="uxHeaderBanner">
-            <div><script type="text/javascript">if (document.location.protocol != "https:") { document.write("<" + "script type=\"text/javascript\" src=\"/include/sponsor.asp?r=9000\"\>\<\/" + "script>"); }</script></div>
+    <script type="text/javascript">if (document.location.protocol != "https:") { document.write("<" + "script type=\"text/javascript\" src=\"/include/sponsor.asp?r=9000\"\>\<\/" + "script>"); }</script>
 </div>
 
 <script type="text/javascript">
@@ -128,12 +113,14 @@ These are used only for broad statistical information purposes, such as "<i>how 
               "Page will now refresh...");
         location.reload();
     }
+    
     $().ready(function () {
+        $("#uxHeaderBanner").css('left', (($(document).width() - $("#uxHeaderBanner").offset().left) / 2 - (728 / 2) + $("#uxHeaderBanner").offset().left));
         if (isHandheld) {
             $('#uxViewOptions').hide();
         }
-        $('#uxMakeStretchView').click(function () { $.cookie('view', 'w', { expires: 7, path: '/' }); viewLayoutChange(); });
-        $('#uxMakeFixedView').click(function () { $.cookie('view', 'x', { expires: 7, path: '/' }); viewLayoutChange(); });
+        $('#uxMakeStretchView').click(function () { $.cookie('view', 'w', { expires: 5000, path: '/' }); viewLayoutChange(); });
+        $('#uxMakeFixedView').click(function () { $.cookie('view', 'x', { expires: 5000, path: '/' }); viewLayoutChange(); });       
     });
 </script>
 
