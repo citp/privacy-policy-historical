@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601150655id_/http%3A//www.audionetwork.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224171347id_/http%3A//www.audionetwork.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Data Protection Information**
 
-[ **www.audionetwork.com**](http://www.audionetwork.com/) is owned and operated by **Audio Network Plc**.
+[ **www.audionetwork.com**](http://www.audionetwork.com/) is owned and operated by **Audio Network Limited**.
 
-Audio Network Plc and its subsidiary companies **Audio Network US Inc** , **Audio Network Australia Pty Ltd** , **Audio Network Canada Inc,**   **Audio Network (Holland) BV** and **Audio Network GmbH** maintain a strict customer information privacy policy to protect any personal information that you may give us.
+Audio Network Limited and its subsidiary companies **Audio Network US Inc** , **Audio Network Australia Pty Ltd** , **Audio Network Canada Inc,**   **Audio Network (Holland) BV** and **Audio Network GmbH** maintain a strict customer information privacy policy to protect any personal information that you may give us.
 
 We recognize that the growth of internet services, has created additional privacy concerns. We take these concerns very seriously. 
 
@@ -21,9 +21,9 @@ When you register online or order a product or service online, by telephone, fax
 
 **Credit Card Information**
 
-When you pay for a product or service online your credit card details are processed over a secure internet site by our third party payment provider **WorldPay** , an associate of **National Westminster Bank**.
+When you pay for a product or service online your credit card details are processed over a secure internet site by our third party payment provider **Sage Pay** , an associate of **Elavon Merchant Services**.
 
-As all online payments are processed by WorldPay on our behalf your credit card details are not visible to anyone from Audio Network Plc nor its subsidiary company.
+As all online payments are processed by Sage Pay on our behalf your credit card details are not visible to anyone from Audio Network Limited nor its subsidiary company.
 
 **About[Cookies](https://web.archive.org/content/cookies)**
 
