@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527022038id_/http%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224044732id_/http%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Money Saving Mom®
+# Privacy Policy :: Money Saving Mom®Money Saving Mom®
 
 **Your Privacy**
 
