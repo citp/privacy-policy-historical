@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624232903id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226001723id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brilliant
 
-Alltuition, Inc. (doing business as – “Brilliant”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website and any related services and/or features (collectively, the “Service”) you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
+Brilliant Worldwide, Inc. ("Brilliant") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website and any related services and/or features (collectively, the “Service”) you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
 
 ### What Does This Privacy Statement Cover?
 
