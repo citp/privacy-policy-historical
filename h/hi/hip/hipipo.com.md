@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150756id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225090713id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
 
 # Terms: HiPipo.com
 
@@ -83,19 +83,19 @@ This policy was last modified on 23/04/2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.hipipo.com  
-Makerere Hill Road  
-Kampala  
-Uganda  
+www.HiPipo.com  
+HiPipo (U) Limited  
+P.O Box 22857, Kampala, Uganda  
+Plot 371, Block III, Seeta, Mukono  
 advertise@hipipo.com  
-+256712345331  
++256779 345 331, +256712345331  
 �  
   
 ---  
   
 ## **HiPipo.com Terms of Use Agreement
 
-March  20, 20011
+March  20, 2011
 
 **
 
@@ -125,4 +125,7 @@ Please contact us at. with any questions regarding this Agreement.
 
 I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.  
   
-##  5Star Business and Technology 
+|   
+---  
+  
+©2006 - 2013 Hipipo. All Rights Reserved. 
