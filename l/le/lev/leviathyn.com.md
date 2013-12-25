@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leviathyn.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616061859id_/http%3A//leviathyn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leviathyn.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225105558id_/http%3A//leviathyn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Leviathyn | Privacy Policy
 
 ### Privacy Policy:
 
@@ -39,5 +39,3 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Dropstr may change its Privacy Policy from time to time, and in Dropstr's sole discretion. Dropstr encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Leviathyn.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-62 Views
