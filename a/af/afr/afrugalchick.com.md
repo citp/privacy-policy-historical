@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afrugalchick.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622020059id_/http%3A//www.afrugalchick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrugalchick.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225021440id_/http%3A//www.afrugalchick.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy/Disclosure Policy | A Frugal Chick
+# Privacy Policy/Disclosure Policy - A Frugal Chick | A Frugal Chick
 
 Your privacy is extremely important to me.
 
