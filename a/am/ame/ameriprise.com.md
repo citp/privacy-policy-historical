@@ -1,11 +1,18 @@
-> *The following text is extracted and transformed from the ameriprise.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518125214id_/http%3A//thomsonreuters.com/products_services/financial/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameriprise.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225223601id_/http%3A//thomsonreuters.com/products_services/financial/privacy_statement) for the most accurate reproduction.*
 
-# Thomson Reuters | Financial & Risk Privacy Statement | Financial
+# Thomson Reuters Financial & Risk Privacy Statement | Thomson Reuters
 
-### HIGHLIGHTS 
+Scope 
 
-**What personal information is collected and how is that information used?**  
+Your privacy is important to Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the collection of personal information via products, websites, competitions, events, webinars and some mobile applications operated by **Thomson Reuters Financial and Risk Businesses**. 
 
+**For the purposes of this Privacy Statement, Thomson Reuters Corporation (Ontario) is considered a joint controller with Reuters Limited (England) AND Thomson Reuters Finance S.A. (Luxembourg), which form part of the Thomson Reuters Group of Companies. Contact information can be found below.**
+
+Our products and/or websites may contain links to sites maintained by others, or by other parts of Thomson Reuters. This Privacy Statement does not reflect the privacy practices of those products and sites. It also does not cover the information practices at [Reuters.com](http://www.reuters.com/privacy-policy "Reuters.com Privacy Statement"), [ThomsonReuters.com](https://web.archive.org/privacy-statement/ "Thomson Reuters Privacy Policy") or [World-check.com](http://www.world-check.com/privacy-statement "World-Check.com Privacy Statement"). Please see the links above or via these sites for their specific Privacy Statements. 
+
+Highlights 
+
+What personal information is collected and how is that information used? 
 
   * We collect information about individuals, users and professional’s in variety of ways including but not limited to: direct from the individuals (for example, when ordering a product, registering an account, using the products, or signing up for a newsletter), from your employer, publicly available information, and through cookies, and/or similar technology. 
   * We use the information primarily to provide you with a personalized experience that delivers the information, resources, and services that are most relevant and helpful to you. 
@@ -15,8 +22,7 @@
 
 More Details
 
-**How is my personal information protected?**  
-
+How is my personal information protected? 
 
   * We maintain administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the personal information you or your employer provides to us. 
   * Thomson Reuters complies with Data Protection/Privacy regulations, laws and industry best practices in respects to security around personal information. 
@@ -26,8 +32,7 @@ More Details
 
 More Details 
 
-**Who has access to the personal information?**  
-
+Who has access to the personal information? 
 
   * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents, suppliers and contractors, or as otherwise described in this Privacy Statement. 
   * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies; in accordance with this Privacy Statement 
@@ -37,8 +42,7 @@ More Details
 
 More Details
 
-**How may you correct, amend, or delete your personal information, or update your preferences?**  
-
+How may you correct, amend, or delete your personal information, or update your preferences? 
 
   * You may amend update or delete your information at any time via the products or services, via our Customer Center, or via the Marketing Preference Center link at the bottom of any email communication. 
   * If you have problems with the preference center please contact us. 
@@ -51,11 +55,9 @@ More Details
 
 Back to Top
 
-* * *
+Full Privacy Statement 
 
-###  FULL PRIVACY STATEMENT 
-
-**WHAT PERSONAL INFORMATION DOES THOMSON REUTERS COLLECT AND HOW DO WE USE IT?**
+What personal information does Thomson Reuters collect and how do we use it? 
 
 We collect information about individuals, users and professional’s in a variety of ways: including but not limited to: direct from the individuals (for example, when ordering a product, registering an account, using a product, or signing up for a newsletter), from your employer, publicly available information, and through cookies, and/or similar technology. We use the information primarily to provide you with a personalized experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it. 
 
@@ -67,7 +69,7 @@ When you register for our services - directly or via your Employer, or order pro
 
 We may use certain information you provide to offer you products and services that we believe may be of interest to you or for market research purposes. If you don't wish to receive such offers or to be contacted directly, you may opt out (unsubscribe) as described below. 
 
-**To update your preferences for email communications for our products, services, news updates, bulletins, and reports please go to the preference center link found on each specific email communication.**  
+**To update your preferences for email communications for our products, services, news updates, bulletins, and reports please go to the preference center link found on each specific email communication.**
 
 **Otherwise see the paragraph below on ‘HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?’**
 
@@ -135,13 +137,13 @@ If you wish to find out more about cookies and clear gifs, you may like to visit
 
 Back to Top
 
-**HOW DOES THOMSON REUTERS FINANCIAL& RISK PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?**
+How Does Thomson Reuters Financial & Risk Protect The Personal Information That It Collects? 
 
 We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our products and/or websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. 
 
 Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Statement, and as required under Data Protection/Privacy laws. 
 
-**TRANSFER OF PERSONAL INFORMATION TO OTHER COUNTRIES**
+Transfer Of Personal Information To Other Countries 
 
 If you are located in the European Economic Area ("EEA"), or a country with data protection/privacy law, we may transfer your personal information to countries that may not guarantee the same level of protection for personal information as the one in which you reside. **By giving your information you consent to these transfers.** Thomson Reuters will only transfer personal information to the extent it is necessary to fulfill the purpose outlined above. 
 
@@ -151,15 +153,15 @@ We will take appropriate steps to provide an adequate level of protection to all
 
 Back to Top
 
-**WHO HAS ACCESS TO THE PERSONAL INFORMATION?**
+Who Has Access To The Personal Information? 
 
 We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows: 
 
-• When the data is collected from publicly available domains including but not limited to  websites, company directories, company registrars, publicly available government lists, search engines and similar technology. 
+  * When the data is collected from publicly available domains including but not limited to  websites, company directories, company registrars, publicly available government lists, search engines and similar technology. 
+  * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns). 
+  * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
 
-• To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns). 
 
-• As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property. 
 
 We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access in accordance with this Statement. 
 
@@ -171,7 +173,7 @@ Your access to some of our products, services and content may be password protec
 
 Back to Top
 
-**HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?**
+How May I Correct, Amend, Or Delete My Personal Information And/Or Update My Preferences? 
 
 You can amend, update or delete your personal information whenever you like. Please go to your profile settings in your product or services being used. Or contact your Customer Center for assistance. 
 
@@ -186,7 +188,7 @@ In certain countries if you use our products and/or services in the course of yo
 [Risk and Compliance users](mailto:Accelus@thomsonreuters.com "Accelus email")
 
 [World-Check users  
-](http://www.world-check.info/UpdateMySubscriptions.html "World-Check Subscription Updates")
+](http://info.accelus.thomsonreuters.biz/content/UpdateSubscriptions "World-Check Subscription Updates")
 
 **QUESTIONS?**
 
