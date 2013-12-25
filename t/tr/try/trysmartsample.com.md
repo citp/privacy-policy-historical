@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trysmartsample.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624102457id_/http%3A//www.trysmartsample.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trysmartsample.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225171146id_/http%3A//www.trysmartsample.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # SMART SAMPLE is the leading word-of-mouth marketing (WOM) company
 
