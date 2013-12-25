@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427072044id_/http%3A//www.chambersandpartners.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226001811id_/http%3A//www.chambersandpartners.com/Privacy) for the most accurate reproduction.*
 
-# Privacy - Chambers and Partners
+# Privacy - Chambers and Partners recommended lists of the world’s best lawyers, top law firms, attorneys, advocates, solicitors and barristers
+
+##  
 
 ## Why Do We Need a Privacy Statement?
 
 The Privacy Act requires us to have policies and procedures in place to cover the collection, use and disclosure of personal information we may hold about you. In that regard our attitude has not changed, we have always believed that your privacy should be protected and we will continue to take every care in managing your personal information.
 
+##  
+
 ## User Information
 
 In order to evaluate which information we provide is most heavily used, how many visitors we receive, and how we might improve our service, Chambers and Partners does collect and analyse information from people who visit our site. Information tracked may include your Internet address and which pages you visited. Personal information, such as your name and e-mail address, is not stored in this process. Chambers and Partners Web site may use cookies, small bits of electronic information stored on your computer that can identify you and your preferences. You can turn off this feature if you do not want cookies stored on your computer: please consult your web browser's help feature for information on disabling cookies. However, please note that disabling cookies may have a negative impact on site performance. By using Chambers and Partners Web site, you agree to allow us to collect this information about your use of our site.
+
+##  
 
 ## How to remove your information
 
