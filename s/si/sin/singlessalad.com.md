@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the singlessalad.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629151710id_/http%3A//singlessalad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlessalad.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225164738id_/http%3A//singlessalad.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - singlessalad.com
+# Privacy Policy - SinglesSalad
 
 ## This Privacy Policy is effective for singlessalad.com members  
 Last edition — Novermber 26, 2012
 
-The singlessalad.com web-site and the service is the member of Dating Factory network, which is operated by Caerus AG, a company registered under the laws of Switzerland, whose registered office is Lauriedstrasse 1, CH-6300, Zug, Switzerland. 
+The singlessalad.com web-site and the service is the member of Dating Factory network, which is operated by Caerus AG, a company registered under the laws of Switzerland, whose registered office is St-Antons-Gasse 4, CH-6300, Zug, Switzerland. 
 
 singlessalad.com is committed to providing you with the professional and high quality introductions and dating service and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the singlessalad.com web-site. singlessalad.com Privacy policy is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues. 
 
