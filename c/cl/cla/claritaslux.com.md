@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the claritaslux.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625011457id_/http%3A//claritaslux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claritaslux.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225075408id_/http%3A//claritaslux.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Love languages?
 
 Privacy Policy for **Claritaslux:**
 
@@ -23,5 +23,3 @@ This does not  track personal information about you, it is only connected to ad
 I somethings get requests for people to contact others on the website. There is no way I will ever give out this information. I use WP and comments and replies on site can be made but personal information will not given out under any conditions.
 
 I have the highest level of security on the server level and firewalls which are professional grade to guard all privacy. I actively monitor all activity on the website as to say alert to security. I believe privacy and security go hand in hand. If you ever have any concerns or questions about privacy on this website please contact me at markbiernat@yahoo.com.
-
-: I live in with family between two worlds, US and Europe where I create tools for language learning. If you found my site you probability share my passion to be a life long learner. Please explore my site and comment. 
