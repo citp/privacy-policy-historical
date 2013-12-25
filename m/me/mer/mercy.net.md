@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercy.net privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524215729id_/http%3A//www.mercy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercy.net privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225171600id_/http%3A//www.mercy.net/privacy-policy) for the most accurate reproduction.*
 
 # Mercy.net and MyMercy Internet Privacy Policy | Mercy
 
@@ -44,7 +44,7 @@ All web logs are stored securely, and may only be accessed by Mercy co-workers o
 
 ### Internet Cookies
 
-Cookies may be sent to your computer to collect general information about how our site is viewed. We do not use cookies to store personal data, nor do we link non-personal information stored in cookies with personal data about specific individuals. We may place Internet cookies on the computer hard drives of visitors to the MyMercy portion of this website. Information we obtain from cookies helps us to customize our site to be more helpful and efficient for our visitors. The cookie consists of a unique identifier that does not contain information about you or your health history. We use two types of cookies: session cookies and persistent cookies.
+Cookies may be sent to your computer to collect general information about how our site is viewed. We do not use cookies to store personal data, nor do we link non-personal information stored in cookies with personal data about specific individuals. We may place Internet cookies on the computer hard drives of visitors to the [MyMercy](https://web.archive.org/mymercy) portion of this website. Information we obtain from cookies helps us to customize our site to be more helpful and efficient for our visitors. The cookie consists of a unique identifier that does not contain information about you or your health history. We use two types of cookies: session cookies and persistent cookies.
 
 A session cookie is temporary and expires after you end a session and close your web browser. We use session cookies to tailor your experience on our website, maintain your signed-on status as you navigate through our features.
 
@@ -60,11 +60,7 @@ For more information, please review our [Electronic Communications Policy](https
 
 Comments or questions sent to us using e-mail or secure messaging forms will be shared with Mercy health care professionals and co-workers who are most able to address your concerns. We will archive your messages once we have made our best effort to provide you with a complete and satisfactory response.
 
-Some of our services such as MyMercy’s automated appointment selection and prescription refill services interact directly with other Mercy data systems. Data about your transaction may be stored in these systems and made available to people who test and support these systems.
-
-When you use a service on the secure section of this website to interact directly with Mercy health care professionals, some information you provide may be documented in your medical record and made available for use to guide your treatment as a patient.
-
-For more information, please review our [Electronic Communications Policy](https://web.archive.org/mercy-electronic-communication-policy).
+Some of our services such as [Electronic Communications Policy](https://web.archive.org/node/263%3E%20MyMercy%E2%80%99s%3C/a%3E%20automated%20appointment%20selection%20and%20prescription%20refill%20services%20interact%20directly%20with%20other%20Mercy%20data%20systems.%20Data%20about%20your%20transaction%20may%20be%20stored%20in%20these%20systems%20and%20made%20available%20to%20people%20who%20test%20and%20support%20these%20systems.%3C/p%3E%26#10;%3Cp%3EWhen%20you%20use%20a%20service%20on%20the%20secure%20section%20of%20this%20website%20to%20interact%20directly%20with%20Mercy%20health%20care%20professionals,%20some%20information%20you%20provide%20may%20be%20documented%20in%20your%20medical%20record%20and%20made%20available%20for%20use%20to%20guide%20your%20treatment%20as%20a%20patient.%3Cbr%3E&#10;&#9;%3Cbr%3E&#10;&#9;For%20more%20information,%20please%20review%20our%20%3Ca%20href=).
 
 ### Data Integrity and Correction
 
@@ -79,6 +75,6 @@ We may disclose personal information when required to do so by a subpoena, court
 State and federal laws may allow you to request that we limit our uses and disclosures of your personal information for treatment, payment and healthcare operations purposes. However, by law, we do not have to agree to your request. It is our policy not to agree to requests for restrictions beyond what is described in  this Internet Privacy Policy or the applicable Mercy Notice of Privacy Practices.
 
 **Questions, Complaints and Contacts**  
-If you have any questions about this Privacy Policy, our policies and practices concerning this site, your rights under this statement and your dealings with this website, you can contact Mercy by clicking this link: [http://www.mercy.net/contact.](https://web.archive.org/contact)
+If you have any questions about this Privacy Policy, our policies and practices concerning this site, your rights under this statement and your dealings with this website, please [ contact Mercy ](https://web.archive.org/patient-feedback)
 
 _Copyright 2011 Mercy – updated 09/03/11._
