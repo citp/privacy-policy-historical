@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605082803id_/http%3A//www.moneymorning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymorning.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225051634id_/http%3A//www.moneymorning.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Money Morning
+# Privacy StatementMoney Morning - Only the News You Can Profit From
 
 _Money Morning_ takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _Money Morning_ takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
 
@@ -8,7 +8,8 @@ _Money Morning_ takes individual privacy very seriously. We are also aware of th
 
 We require that all e-mails promoting MoneyMorning.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
-If you feel you've been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department ([customerservice@MoneyMorningInfo.com](mailto:customerservice@moneymorninginfo.com)). We will immediately investigate all allegations made related to unsolicited messages.
+If you feel you've been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department ([customerservice@MoneyMorningInfo.com](mailto:customerservice@moneymorninginfo.com)). We will immediately investigate all allegations made related to unsolicited messages.  
+
 
 **Cookies**
 
