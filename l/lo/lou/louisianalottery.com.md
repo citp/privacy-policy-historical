@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisianalottery.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619033531id_/http%3A//louisianalottery.com/index.cfm%3Fmd%3Dpagebuilder%26tmp%3Dhome%26cpid%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisianalottery.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226002211id_/http%3A//www.louisianalottery.com/index.cfm%3Fmd%3Dpagebuilder%26tmp%3Dhome%26cpid%3D14) for the most accurate reproduction.*
 
 # Louisiana Lottery Corporation
 
