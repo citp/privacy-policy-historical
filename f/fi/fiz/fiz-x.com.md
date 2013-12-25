@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fiz-x.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626051619id_/http%3A//www.fiz-x.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiz-x.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226002500id_/http%3A//www.fiz-x.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FizX Entertainment
+
+##  
 
 We gather a small Privacy Policy so you can actually read it . There is nothing to complicated about it FizX is sworn for entertainment purposes only so you wont be finding any hard words or over the head terms its simple and its all this .
 
