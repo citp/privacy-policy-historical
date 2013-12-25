@@ -1,0 +1,709 @@
+<!--The following is the downloaded HTML source of the insideiim.com privacy policy that was archived on 2013-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225054116id_/http%3A//insideiim.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head profile="http://gmpg.org/xfn/11">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="distribution" content="global">
+            <title>Privacy Policy « InsideIIM.com </title>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://insideiim.com/feed/">
+    <link rel="alternate" type="text/xml" title="RSS .92" href="http://insideiim.com/feed/rss/">
+    <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://insideiim.com/feed/atom/">
+    <link rel="stylesheet" type="text/css" href="http://insideiim.com/wp-content/themes/iim2012/style.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" defer="" async="" src="https://insideiim.com/stats/piwik.js"></script><script type="text/javascript" src="http://insideiim.com/wp-content/themes/iim2012/js/jquerymin.js"></script>
+    <script type="text/javascript" src="http://insideiim.com/wp-content/themes/iim2012/js/tiny_mce/tiny_mce.js"></script>
+    <script type="text/javascript" src="http://insideiim.com/wp-content/plugins/bbpress-threaded-replies/js/bbpress-threaded-replies.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="http://insideiim.com/wp-content/themes/iim2012/css/style_light.css">
+
+    <script type="text/javascript" src="http://insideiim.com/wp-content/themes/iim2012/js/intro.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://insideiim.com/wp-content/themes/iim2012/css/introjs.min.css">
+
+    <script type="text/javascript" src="http://insideiim.com/wp-content/themes/iim2012/form_files/jquery.center.js"></script>
+    <script type="text/javascript">var base_url = 'http://insideiim.com'</script>
+    <script type="text/javascript" src="http://insideiim.com/wp-content/themes/iim2012/js/custom.js"></script>
+
+    <script type="text/javascript">
+
+        function showDiv(div) {
+
+            console.log(div);
+
+            if(div=='close')
+            {
+                document.getElementById('light').style.display='none';
+                document.getElementById('fade').style.display='none';
+                div='loginformdiv';
+            }
+            if(div=='loginformdiv')
+            {
+                document.getElementById('registerformdiv').style.display = 'none';
+                document.getElementById('lostpassformdiv').style.display = 'none';
+                document.getElementById(div).style.display = 'block';
+            }
+            else
+            {
+            document.getElementById('loginformdiv').style.display = 'none';
+            document.getElementById(div).style.display = 'block';
+            }
+        }
+        function insertlike(param1)
+        {
+            var id=$(param1).attr('value');
+            var arr1=$(param1).parent().serializeArray();
+            arr1.push({name:"actionval" ,value:id});
+            jQuery.ajax({
+                type: 'POST',
+                url:'http://insideiim.com/wp-admin/admin-ajax.php ',
+                data:{action: 'bbppt_like_posts',value:arr1},
+                success: function(value) {
+                    $(param1).parent().find('div.showlikecount').html(value);
+                }
+            });
+        };
+
+        jQuery(document).ready(function(){
+            jQuery(document).on('click','.addcommentlink1',function(){
+                $(this).parent().next().find('.commentformarea').toggle();
+            });
+
+            jQuery(document).on('click','.viewcomments1',function(){
+                $(this).parent().next().find('.displaycomment').toggle();
+            });
+        });
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-23032066-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+
+        function trackOutboundLink(link, category, action) {
+
+            try {
+                _gaq.push(['_trackEvent', category , action]);
+            } catch(err){}
+
+            setTimeout(function() {
+                //window.open(link.href, '_newtab');
+                document.location.href = link.href;
+            }, 100);
+        }
+
+    </script>
+
+
+
+        
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://insideiim.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - InsideIIM.com">
+<meta property="og:url" content="http://insideiim.com/privacy-policy/">
+<meta property="og:site_name" content="InsideIIM.com">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="stylesheet" id="bbp-default-bbpress-css" href="http://insideiim.com/wp-content/plugins/bbpress/templates/default/css/forums.css?ver=2.3" type="text/css" media="screen">
+<link rel="stylesheet" id="cptchStylesheet-css" href="http://insideiim.com/wp-content/plugins/captcha/css/style.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="wpuf-css" href="http://insideiim.com/wp-content/plugins/wp-user-frontend/css/wpuf.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="custom-style-css" href="http://insideiim.com/wp-includes/css/chosen.min.css?ver=20131007" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var obj_lz = {"ifd_pixel":"0","ifd_duration":"1000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/advanced-lazy-load/Advanced_lazyload.js?ver=advacned"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-includes/js/swfobject.js?ver=2.2-20120417"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/job-manager/js/display.js?ver=0.7.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var samAjax = {"ajaxurl":"http:\/\/insideiim.com\/wp-admin\/admin-ajax.php","_ajax_nonce":"5b036ae02a"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/simple-ads-manager/js/sam-layout.js?ver=1.6.54"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/visual-form-builder/js/js_quicktags.js?ver=3.5.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpuf = {"ajaxurl":"http:\/\/insideiim.com\/wp-admin\/admin-ajax.php","postingMsg":"","confirmMsg":"Are you sure?","nonce":"0f68679f63","featEnabled":"1","plupload":{"runtimes":"html5,silverlight,flash,html4","browse_button":"wpuf-ft-upload-pickfiles","container":"wpuf-ft-upload-container","file_data_name":"wpuf_featured_img","max_file_size":"134217728b","url":"http:\/\/insideiim.com\/wp-admin\/admin-ajax.php?action=wpuf_featured_img&nonce=6d718b3fa3","flash_swf_url":"http:\/\/insideiim.com\/wp-includes\/js\/plupload\/plupload.flash.swf","silverlight_xap_url":"http:\/\/insideiim.com\/wp-includes\/js\/plupload\/plupload.silverlight.xap","filters":[{"title":"Allowed Files","extensions":"*"}],"multipart":true,"urlstream_upload":true}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/wp-user-frontend/js/wpuf.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-includes/js/jquery/chosen/chosen.jquery.min.js?ver=3.5.1"></script>
+<meta name="generator" content="WordPress 3.5.1">
+    <style type="text/css">
+        ul.wpuf-attachments{ list-style: none; overflow: hidden;}
+        ul.wpuf-attachments li {float: left; margin: 0 10px 10px 0;}
+            </style>
+        <script type="text/javascript">
+       jQuery(document).ready(function(){
+            jQuery('.click-adv a').click(function(){
+                var link = jQuery(this).attr('href');
+                jQuery.ajax({
+                        type    :'POST',
+                        url     : 'http://insideiim.com/dashboard.php?mode=click',
+                        data    : {link:link,referel:'insideiim.com/privacy-policy/'},
+                        success :function(data){
+                        }
+
+                    });
+                });
+                jQuery('.notfications > a').on('click', function(e){
+
+                    var this_notification_list_wrapper = jQuery(this).parent().find('.notification-list-wrapper');
+                    if(this_notification_list_wrapper.hasClass('open')){
+                        jQuery('.notification-list-wrapper').hide().removeClass('open').addClass('close');
+                    }else{
+                        jQuery('.notification-list-wrapper').hide().removeClass('open').addClass('close');
+                        this_notification_list_wrapper.toggle().removeClass('close').addClass('open');
+                    }
+
+                    var sibling = $(this).siblings('.notification-bubble');
+                    if(sibling.length != 0){
+                        $.ajax({
+                            type    : 'post',
+                            url     : '/wp-admin/admin-ajax.php',
+                            data    : {action:'update_notification'}
+                        });
+                        sibling.remove();
+                    }
+                    e.preventDefault();
+                    e.stopPropagation();
+                });
+
+                jQuery(document).on('click', function(){
+                    jQuery('.notification-list-wrapper').hide().removeClass('open').addClass('close');
+                });
+
+                var intro = introJs();
+                jQuery('.intro-start').on('click', function(e){
+                    intro.setOption('doneLabel', 'Next page').start().oncomplete(function() {
+                        window.location.href = '/my-dashboard?multipage=true';
+                    });
+                    e.preventDefault();
+                })
+            });
+    </script>
+    <script type="text/javascript">
+        (function($){
+            $(document).ready(function(){
+
+                //Adjust panel height
+                $.fn.adjustPanel = function(){
+                    $(this).find("ul, .subpanel").css({ 'height' : 'auto'}); //Reset subpanel and ul height
+
+                    var windowHeight = $(window).height(); //Get the height of the browser viewport
+                    var panelsub = $(this).find(".subpanel").height(); //Get the height of subpanel
+                    var panelAdjust = windowHeight - 100; //Viewport height - 100px (Sets max height of subpanel)
+                    var ulAdjust =  panelAdjust - 25; //Calculate ul size after adjusting sub-panel (27px is the height of the base panel)
+
+                    if ( panelsub >= panelAdjust ) {	 //If subpanel is taller than max height...
+                        $(this).find(".subpanel").css({ 'height' : panelAdjust }); //Adjust subpanel to max height
+                        $(this).find("ul").css({ 'height' : ulAdjust}); //Adjust subpanel ul to new size
+                    }
+                    else if ( panelsub < panelAdjust ) { //If subpanel is smaller than max height...
+                        $(this).find("ul").css({ 'height' : 'auto'}); //Set subpanel ul to auto (default size)
+                    }
+                };
+
+                //Execute function on load
+                $("#chatpanel").adjustPanel(); //Run the adjustPanel function on #chatpanel
+                $("#alertpanel").adjustPanel(); //Run the adjustPanel function on #alertpanel
+
+                //Each time the viewport is adjusted/resized, execute the function
+                $(window).resize(function () {
+                    $("#chatpanel").adjustPanel();
+                    $("#alertpanel").adjustPanel();
+                });
+
+                //Click event on Chat Panel + Alert Panel
+                $("#chatpanel a:first, #alertpanel a:first").click(function() { //If clicked on the first link of #chatpanel and #alertpanel...
+                    if($(this).next(".subpanel").is(':visible')){ //If subpanel is already active...
+                        $(this).next(".subpanel").hide(); //Hide active subpanel
+                        $("#headpanel li a").removeClass('active'); //Remove active class on the subpanel trigger
+                    }
+                    else { //if subpanel is not active...
+                        $(".subpanel").hide(); //Hide all subpanels
+                        $(this).next(".subpanel").toggle(); //Toggle the subpanel to make active
+                        $("#headpanel li a").removeClass('active'); //Remove active class on all subpanel trigger
+                        $(this).toggleClass('active'); //Toggle the active class on the subpanel trigger
+                    }
+                    return false; //Prevent browser jump to link anchor
+                });
+
+                //Click event outside of subpanel
+                $(document).click(function() { //Click anywhere and...
+                    $(".subpanel").hide(); //hide subpanel
+                    $("#headpanel li a").removeClass('active'); //remove active class on subpanel trigger
+                });
+                $('.subpanel ul').click(function(e) {
+                    e.stopPropagation(); //Prevents the subpanel ul from closing on click
+                });
+
+                //Delete icons on Alert Panel
+                $("#alertpanel li").hover(function() {
+                    $(this).find("a.delete").css({'visibility': 'visible'}); //Show delete icon on hover
+                },function() {
+                    $(this).find("a.delete").css({'visibility': 'hidden'}); //Hide delete icon on hover out
+                });
+            });
+        })(jQuery);
+
+    </script>
+    <script type="text/javascript">var switchTo5x=true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "ur-807aac89-a0f8-1ceb-dbb7-1c0a8a39237c", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+        
+    <script type="text/javascript">
+        jQuery(document).ready(function($) {
+            var count = 2;
+            //var total = 0;
+            var total = 100;
+            var showmore = $('#showmore');
+
+            showmore.on('click', function(e){
+                loadArticle(count);
+                count++;
+                e.preventDefault();
+            });
+
+                        function loadArticle(pageNumber){
+                $('a#inifiniteLoader').show();
+                $('#showmore').hide();
+                $.ajax({
+                    url: "http://insideiim.com/wp-admin/admin-ajax.php",
+                    type:'POST',
+                    data: "action=infinite_scroll&page_no="+ pageNumber + '&loop_file=loop&pagev=home',
+                    success: function(html){
+                        var html = html.trim();
+                        if(html == ""){
+                            $('.inifiniteLoader').html('Nothing To Show');
+                        }else{
+                            $('a#inifiniteLoader').hide();
+                            $('#showmore').show();
+                        }
+
+                        $("#content-main").append(html);    // This will be the div where our content will be loaded
+                    }
+                });
+                return false;
+            }
+
+
+        });
+
+    </script>
+            <script type="text/javascript">
+        var _paq = _paq || [];
+        _paq.push(['setCustomVariable',
+            1, // Index, the number from 1 to 5 where this custom variable name is stored
+            "Username", // Name, the name of the variable, for example: Gender, VisitorType
+            "Guest", // Value, for example: "Male", "Female" or "new", "engaged", "customer"
+            "visit" // Scope of the custom variable, "visit" means the custom variable applies to the current visit
+        ]);
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u=(("https:" == document.location.protocol) ? "https" : "http") + "://insideiim.com/stats/"
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', 1]);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+            g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <!-- end infinite scroll pagination -->
+            <script type="text/javascript">
+        function is_email(email){
+            var emailReg = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+            return emailReg.test(email);
+        }
+        function unsubscriber(pageNumber)
+        {
+            var x=document.forms["sub_unsub"]["s2email"].value;
+            if (x==null || x=="" || !(is_email(x)))
+            {
+                alert('Enter email address...');
+            }
+            else
+            {
+                $.ajax({
+                    url: "http://insideiim.com/wp-admin/admin-ajax.php",
+                    type:'POST',
+                    data: "action=infinite_scroll&page_no="+ pageNumber + '&loop_file=loop&emailID='+x,
+                    success: function(html){
+                        //$("#sub_unsub_form").html(html);    // This will be the div where our content will be loaded
+                        alert(html);
+                        $("#light3").css('display','none');
+                    }
+                });
+                return false;
+            }
+        }
+    </script>
+
+</head>
+<body class="page page-id-2438 page-template-default">
+<div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+<!-- end of #header div -->
+<!--<div style="width: 500px; height: 260px ! important; display: none;" class="white_content" id="light"><a style="float:right" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'" href="javascript:void(0)">X</a>-->
+<div style="width: 500px; height:auto;position:fixed; display: none;" class="white_content" id="light"><a style="float:right; color: #FFFFFF" onclick="showDiv('close')" href="javascript:void(0)">X</a>
+
+    <!-- changes start -->
+
+    <div id="loginformdiv" class="form">
+        <div id="social_login_new"><!--
+   wsl_render_login_form
+   WordPress Social Login Plugin ( WordPress Social Login 2.1.4 ) 
+   http://wordpress.org/extend/plugins/wordpress-social-login/
+-->
+
+	<span class="wp-social-login-connect-with">Connect with:</span>
+	<div class="wp-social-login-connect-options">
+				<a rel="nofollow" href="http://insideiim.com/wp-login.php?action=wordpress_social_authenticate&amp;provider=Facebook&amp;redirect_to=http%3A%2F%2Finsideiim.com%2Fprivacy-policy%2F" title="Connect with Facebook" class="wsl_connect_with_provider">
+					<img alt="Facebook" title="Facebook" src="http://insideiim.com/wp-content/plugins/advanced-lazy-load/shade.gif" imageholder="http://insideiim.com/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png">
+				</a>
+								<a rel="nofollow" href="http://insideiim.com/wp-login.php?action=wordpress_social_authenticate&amp;provider=LinkedIn&amp;redirect_to=http%3A%2F%2Finsideiim.com%2Fprivacy-policy%2F" title="Connect with LinkedIn" class="wsl_connect_with_provider">
+					<img alt="LinkedIn" title="LinkedIn" src="http://insideiim.com/wp-content/plugins/advanced-lazy-load/shade.gif" imageholder="http://insideiim.com/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/linkedin.png">
+				</a>
+					</div> 
+<!-- /wsl_render_login_form -->  
+</div>
+		<form name="loginform" id="loginform" action="http://insideiim.com/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Email</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20">
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20">
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In">
+				<input type="hidden" name="redirect_to" value="http://insideiim.com/my-dashboard/">
+			</p>
+			
+		</form>    </div>
+    <a class="login_bottom_class" style="float:left;" href="http://insideiim.com/wp-login.php?action=register">Register &nbsp;|</a>
+
+    <a class="login_bottom_class" href="http://insideiim.com/wp-login.php?action=lostpassword">Forgot Password</a>
+
+    <!-- changes end  -->
+
+
+    <!--<a style="float:left;margin-left:72px;margin-top:-21px;" href="http://insideiim.com/wp-login.php?action=register">Register</a>
+
+    <a style="float:left;margin-left:145px;margin-top:-21px;" href="http://insideiim.com/wp-login.php?action=lostpassword">Forgot Password</a>-->
+</div>
+<div style="width: 500px; height: 200px ! important; display: none;" class="white_content" id="light2"><a style="float:right" onclick="document.getElementById('light2').style.display='none';document.getElementById('fade').style.display='none'" href="javascript:void(0)">X</a>
+
+</div>
+
+<!--<div id="stream">
+    <div class="con">
+
+
+        <a class="tile" id="article" href="http://insideiim.com/category/the-insideiim-career-guide/">
+            <span class="title"><strong>The Career Guide</strong></span>
+        </a>
+        <a class="tile" href="http://insideiim.com/forums/" id="elements">
+            <span class="title"><strong>Career Junction</strong></span>
+        </a>
+        <a class="tile" id="comment" href="http://insideiim.com/product-category/career-store/">
+            <span class="title"><strong>The Store</strong></span>
+        </a>
+        <a class="tile" href="http://insideiim.com/product-category/learning/" id="mobile">
+            <span class="title"><strong>Test Prep Library</strong></span>
+        </a>
+        <a class="tile" href="http://insideiim.com/featured-b-schools/" id="recent">
+            <span class="title"><strong>Featured</strong></span>
+        </a>
+    </div>
+</div>-->
+<div class="headnotify">
+	<div class="npanel">
+		<span>
+			<a href="http://insideiim.com/my-dashboard/">Personalize your experience. Create your own Canvas! Follow themes and topics of your choice</a><a id="intro-start" href="#" style="float: right;" class="get_intro intro-start">Take a tour</a><a data-position="bottom" data-intro="Write a story of your choice and theme. We will move it in the featured stories section if we like it." data-step="1" href="/new-post/" style="float: right;" class="get_intro">Write a Story</a><a class="get_intro" href="#" style="float:right" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">My Canvas</a>		</span>
+	</div>	
+</div>
+<div id="notification">
+    <div class="content">
+        <ul class="ttw-notification-menu clearfix">
+            <li class="notification-menu-item first-item">
+                <a href="http://insideiim.com"><img src="http://insideiim.com/wp-content/plugins/advanced-lazy-load/shade.gif" imageholder="http://insideiim.com/wp-content/themes/iim2012/images/insideiim-com-logo.png" style="width: 225px; opacity: 1"></a>
+            </li>
+            <li style="padding-left: 520px;">
+                <form method="get" id="searchform" action="http://insideiim.com/">
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" placeholder="search">
+    <input type="submit" id="searchsubmit" value="">
+
+	</div>
+	</form>            </li>
+            <li class="notification-menu-item first-item myaccount notfications" style="width: 130px">
+                               <a style="border-left: 1px solid #bbb;border-right: 1px solid #bbb;" class="header_light" href="javascript:void(0);" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">Login</a>
+                            </li>
+            <li class="notification-menu-item first-item notfications" id="stories-notify">
+                <a href="#">Stories</a>
+                                <div class="notification-list-wrapper" style="opacity: 1;">
+                    <ul class="notification-list-menu">
+                        <li class="notification-list-item"><a href="http://insideiim.com/tejas-iimb-founder-euphoriq-former-consultant-booz/">'I don’t have all the answers yet' - Tejas Dave, Founder of Euphoriq and Former Consultant at Booz &amp; Co.</a></li><li class="notification-list-item"><a href="http://insideiim.com/do-i-have-a-reason-to-do-my-mba/">Do I have a reason to do my MBA?</a></li><li class="notification-list-item"><a href="http://insideiim.com/registrations-closing-for-ibsat-2013/">Registrations Closing for IBSAT 2013</a></li><li class="notification-list-item"><a href="http://insideiim.com/iim-u-and-national-university-singapore-partake-learning-insights-logrolling-on-a-common-platform/">IIM U and National University Singapore partake learning insights logrolling on a common platform!</a></li><li class="notification-list-item"><a href="http://insideiim.com/deconstructing-iim-kozhikodes-shortlisting-criteria-for-the-class-of-2016/">Deconstructing IIM Kozhikode's Shortlisting Criteria for the Class of 2014-16</a></li><li class="notification-list-item"><a href="http://insideiim.com/business-is-what-story-you-tell-yourself-and-the-market-interview-with-anand-neelakantan-author-of-asura-tale-of-the-vanquished/">"Business is what story you tell yourself and the market" - Interview with Anand Neelakantan, author of Asura - Tale of the Vanquished</a></li><li class="notification-list-item"><a href="http://insideiim.com/bhavna-nahata-the-versatile-warrior/">Kaptains of IIM Kozhikode - Bhavna Nahata – The Versatile warrior</a></li><li class="notification-list-item"><a href="http://insideiim.com/icons-of-iim-indore-shivam-garg/">icons of IIM Indore - Shivam Garg - Serial Scholarship Winner</a></li><li class="notification-list-item"><a href="http://insideiim.com/consulting-careers-and-interview-prep-on-insideiim-counseling-by-consultant-from-bcg/">Consulting Careers and Interview Prep on InsideIIM - Counseling by Consultant from BCG</a></li><li class="notification-list-item"><a href="http://insideiim.com/successful-ibsat-day-1/">Successful IBSAT Day 1</a></li>                    </ul>
+                </div>
+            </li>
+            <li class="notification-menu-item first-item notfications" id="conversation-notify">
+                <a href="#">Conversations</a>
+                                <div class="notification-list-wrapper" style="opacity: 1;">
+                    <ul class="notification-list-menu">
+                        <li class="notification-list-item reply"><a href="http://insideiim.com/forums/topic/interview-experiences-cadbury/">Anonymous replied on a topic.</a><span class="timeago">10 hours ago</span></li><li class="notification-list-item reply"><a href="http://insideiim.com/forums/topic/interview-experiences-cadbury/">Anonymous replied on a topic.</a><span class="timeago">10 hours ago</span></li><li class="notification-list-item reply"><a href="http://insideiim.com/forums/topic/interview-experiences-cadbury/">Anonymous replied on a topic.</a><span class="timeago">10 hours ago</span></li><li class="notification-list-item comment"><a href="http://insideiim.com/bhavna-nahata-the-versatile-warrior/#comment-17664">CA Sushant Lohani commented on the story Kaptains of IIM Kozhikode - Bhavna Nahata – The Versatile warrior</a><span class="timeago">11 hours ago</span></li><li class="notification-list-item reply"><a href="http://insideiim.com/forums/topic/interview-experiences-ernst-young/">Anonymous replied on a topic.</a><span class="timeago">1 day ago</span></li><li class="notification-list-item reply"><a href="http://insideiim.com/forums/topic/arvind-kejriwal-should-become-the-prime-minister-of-india-gd-monday-week-2/">nikhil replied on a topic.</a><span class="timeago">1 day ago</span></li><li class="notification-list-item comment"><a href="http://insideiim.com/i-check-my-smartphone-and-laptop-before-i-brush-my-teeth-that-is-the-litmus-test-30-mins-with-zomatos-country-head-saurabh-sengupta/#comment-17663">Your Website is Hacked commented on the story "I check my Smartphone and Laptop before I brush my teeth. That is the litmus test" - 30 Mins with Zomato India's Country Head, Saurabh Sengupta</a><span class="timeago">1 day ago</span></li><li class="notification-list-item comment"><a href="http://insideiim.com/how-can-i-get-an-interview-call-from-iim-ahmedabad-cat-2013-pgp-2014-16/#comment-17662">Deconstructing IIM Kozhikode's Shortlisting Criteria for the Class of 2014-16 « InsideIIM.com commented on the story How can I get an Interview Call from IIM Ahmedabad ? - CAT 2013 : PGP 2014-16</a><span class="timeago">4 days ago</span></li><li class="notification-list-item comment"><a href="http://insideiim.com/has-the-race-for-women-in-iims-gone-too-far/#comment-17661">Deconstructing IIM Kozhikode's Shortlisting Criteria for the Class of 2014-16 « InsideIIM.com commented on the story Has the race for women in IIMs gone too far?</a><span class="timeago">4 days ago</span></li><li class="notification-list-item comment"><a href="http://insideiim.com/life-at-iim-shillong/#comment-17660">Life at IIM Shillong | My Shillong Diary commented on the story Life at IIM Shillong</a><span class="timeago">6 days ago</span></li>                    </ul>
+                </div>
+            </li>
+
+        </ul>
+    </div>
+</div>
+<div class="clear"></div>
+
+<div id="content" class="grid_wrapper">
+        <div class="ads-iim click-adv1">
+        <p> </p><br>
+        <div class="adscolumn">
+            <br><br><br>
+            <aside class="colZero col5 left"><nav class="hasProductIcons"><ul class="navGroup productNav withArrows"><li data-step="3" data-intro="Quality content by you handpicked by us and all stories by Team InsideIIM!" data-position="right" class="lmenu active"><a href="http://insideiim.com" title="Featured Content">Featured Stories</a></li><li data-step="4" data-intro="Get access to well-rounded content to give your career an extra edge" data-position="right" class="lmenu"><a href="http://insideiim.com/career-guide/" title="Career Guide">Career Guide</a></li><li data-step="5" data-intro="We are the university of the future!  Learning never ends." data-position="right" class="lmenu"><a href="http://insideiim.com/career-learning/" title="Learning">Learning</a></li><li data-step="6" data-intro="We bring you quality opportunities. All full-time jobs pay at least INR 550,000 CTC. No threshold for internships and live projects." data-position="right" class="lmenu"><a href="http://insideiim.com/jobs-internships/" title="Jobs &amp; Internships">Jobs &amp; Internships</a></li><li data-step="7" data-intro="The meeting point of highly talented and bright young professionals." data-position="right" class="lmenu"><a href="http://insideiim.com/forums/" title="Career Junction">Career Junction</a></li><li data-step="8" data-intro="Special library of content to give your Test Prep a boost" data-position="right" class="lmenu"><a href="http://insideiim.com/product-category/learning/" title="InsideIIM Test Prep">InsideIIM Test Prep</a></li><li data-step="9" data-intro="Top universities we cover and feature." data-position="right" class="lmenu"><a href="http://insideiim.com/featured-b-schools/" title="Featured B Schools">Featured B Schools</a></li><li data-step="10" data-intro="Products to help boost your career" data-position="right" class="lmenu"><a href="http://insideiim.com/career-store/" title="Store">Store</a></li><li data-step="11" data-intro="This is a live repository of every story written by you whether featured or not!" data-position="right" class="lmenu"><a href="http://insideiim.com/all-stories/" style="color:#CC0012" title="Store">All Stories</a></li></ul>
+                <div style="display: block; margin:20px;" class="recentSearches block">
+                    <a href="http://ibsat.ibsindia.org/ibsat2013/apply/index.asp?src=insideiim1" onclick="trackOutboundLink(this, 'IBS', 'click-left'); return false;"><object style="pointer-events:none;display:block;" width="120" height="240" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/&#10;pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0">
+<param name="SRC" value="/images/ads/120x240.swf">
+<param name="wmode" value="opaque">
+<embed src="/images/ads/120x240.swf" width="120" height="240" wmode="opaque">
+
+</object>
+</a>
+                    </div>
+            </nav>
+        </aside>        </div>
+
+    </div>
+    <div id="main_content" class="grid_8">
+       <!-- <div id="shad_layer"></div>-->
+        
+           <div id="posts">
+                        <div class="single" id="post-2438">
+                    <h2 class="post_title">Privacy Policy</h2>
+                    <div class="post_body">
+                        <div><strong>What information do we collect?</strong>We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.<p></p>
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.</p>
+<p><strong>What do we use your information for?</strong></p>
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+<p>; To personalize your experience<br>
+(your information helps us to better respond to your individual needs)</p>
+<p>; To improve our website<br>
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)</p>
+<p>; To improve customer service<br>
+(your information helps us to more effectively respond to your customer service requests and support needs)</p>
+<p>; To process transactions</p>
+<blockquote><p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p></blockquote>
+<p>; To administer a contest, promotion, survey or other site feature</p>
+<p>; To send periodic emails</p>
+<blockquote><p>The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</p></blockquote>
+</div>
+<div>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<strong>How do we protect your information?</strong><p></p>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
+<p><strong>Do we use cookies?</strong></p>
+<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information</p>
+<p>We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>
+<p><strong>Do we disclose any information to outside parties?</strong></p>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p><strong>Third party links</strong></p>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+<p><strong>Childrens Online Privacy Protection Act Compliance</strong></p>
+<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+<p><strong>Online Privacy Policy Only</strong></p>
+<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<p><strong>Terms and Conditions</strong></p>
+<p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at&nbsp;<a href="https://www.freeprivacypolicy.com/www.insideiim.com">www.insideiim.com</a></p>
+<p><strong>Your Consent</strong></p>
+<p>By using our site, you consent to our&nbsp;<a href="http://www.freeprivacypolicy.com/" target="_blank">privacy policy</a>.</p>
+<p><strong>Changes to our Privacy Policy</strong></p>
+<p>If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.</p>
+<p><strong>Contacting Us</strong></p>
+<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+</div>
+<div>KiRa Education</div>
+<div>www.insideiim.com<br>
+310, Apeejay House, Bombay Samachar Marg,Fort<br>
+Mumbai<br>
+India<br>
+9321346317This policy is powered by Trust Guard&nbsp;<a href="http://www.trust-guard.com/PCI-Compliance-s/65.htm" target="_blank">PCI compliance</a>.<p></p>
+</div>
+                    </div>
+
+                                        <!--div class="meta">
+                         <a href="http://twitter.com/home?status=Privacy Policy http://insideiim.com/privacy-policy/">Twitter</a>, <a href="http://facebook.com/share.php?u=http://insideiim.com/privacy-policy/">Facebook</a>, <a href="http://digg.com/submit?phase=2&url=http://insideiim.com/privacy-policy/&title=Privacy Policy">Digg</a>, <a href="http://linkedin.com/shareArticle?mini=true&url=http://insideiim.com/privacy-policy/&title=Privacy Policy">Linkedin</a>, <a href="http://stumbleupon.com/submit?url=http://insideiim.com/privacy-policy/&title=Privacy Policy">Stumble Upon</a>, <a href="http://reddit.com/submit?url=http://insideiim.com/privacy-policy/&title=Privacy Policy">Reddit</a>, <a href="http://delicious.com/post?url=http://insideiim.com/privacy-policy/&title=Privacy Policy">Delicious</a>
+                    </div-->
+                                    </div>
+                                    
+    </div>
+    
+
+        <div class="clear"></div>
+            </div>
+        <div class="clear"></div>
+</div>
+<div onclick="document.getElementById('light').style.display='none';document.getElementById('light2').style.display='none';document.getElementById('fade').style.display='none'" class="black_overlay" id="fade" style="display: none;"></div>
+<div class="clear"></div>
+<div id="footer">
+
+    <div id="header">
+        <div id="top_menu">
+            <div id="menu" class="menu-header">
+                <div id="primary-menu" class="menu-header"><ul id="menu-main-menu" class="dropdown"><li id="menu-item-1709" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://insideiim.com/category/academics/">Academics</a></li>
+<li id="menu-item-1711" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://insideiim.com/category/campus-life/">Campus Life</a></li>
+<li id="menu-item-5096" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://insideiim.com/category/insideiim-recruitment-rankings/">Recruiter Rankings</a></li>
+<li id="menu-item-4067" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://insideiim.com/category/student-exchange/">Exchange</a></li>
+<li id="menu-item-1714" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://insideiim.com/category/placements/">Placements</a></li>
+<li id="menu-item-1713" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://insideiim.com/category/industry/">Industry</a></li>
+<li id="menu-item-1712" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://insideiim.com/category/entrepreneurship/">Entrepreneurship</a></li>
+<li id="menu-item-1717" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://insideiim.com/category/selection-process/">Admission Process</a></li>
+<li id="menu-item-18835" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://insideiim.com/category/executive-education/">Executives</a></li>
+</ul></div>            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="credit">
+        <div class="grid_wrapper">
+                        © 2013,<a href="http://insideiim.com/">InsideIIM.com. All Right Reserved</a>
+            <span id="gots" style="color:#646464;">&nbsp; - &nbsp;created by<strong><a href="http://www.gots.in/">GOTS</a></strong></span>
+                                    <span class="right"><!-- Designed by GOTS --> </span>
+                        <ul style="margin-top: -24px;">
+                <li class="footermenu"><a href="http://insideiim.com/privacy-policy/">Privacy Policy</a></li>
+                <li class="footermenu"><a href="http://insideiim.com/terms-of-service/">Terms of Service</a></li>
+                <li class="footermenu"><a href="http://insideiim.com/editorial-corner/">Write for InsideIIM</a></li>
+                <li class="footermenu"><a href="http://insideiim.com/contact-us/">Contact Us</a></li>
+                <li class="footermenu"><a href="http://insideiim.com/about-insideiim-com/">About</a></li>
+            </ul>
+        </div>
+    </div>
+    <br><br><br>
+
+    <!-- Footer Slilder Start -->
+    
+    <div style="width: 500px; height: 200px ! important; display: none;" class="white_content subscriber-form" id="light3">
+        <a class="close-subscribe" style="float:right" href="javascript:void(0)">X</a>
+        <div class="search">
+            <div id="sub_unsub_form">
+                <form method="post" action="#" name="sub_unsub">
+                    <input type="hidden" value="207.241.237.105" name="ip">
+                    <p>
+                        <label for="s2email">Your email:</label><br>
+                        <input type="text" placeholder="Enter email address..." size="20" id="s2email" name="email">
+                    </p>
+                    <p>
+                        <a href="javascript:unsubscriber('0');void(0);" class="button blue">Subscribe</a>&nbsp;
+                        <a href="javascript:unsubscriber('1');void(0);" class="button blue">Unsubscribe</a>&nbsp;
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- Footer Slider End -->
+
+</div>
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-23032066-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<script type="text/javascript">
+        (function($){
+        $(window).scroll(function(){
+            var distanceTop = 600;
+            if  ($(window).scrollTop() > distanceTop){
+                $('#footer-slider').stop(true).animate({'right':'0px'},300);
+            }else{
+                $('#footer-slider').stop(true).animate({'right':'-430px'},100);
+            }
+        });
+
+        $('#footer-slider .close').on('click',function(e){
+            var campaign_id = $('#cmp-job').data('id');
+            $.ajax({
+                type: "post",
+                url: "/wp-admin/admin-ajax.php",
+                data : {
+                    campaign_id:campaign_id,
+                    action:'do_click',
+                    skip:'1'
+                }
+
+            });
+            $('#footer-slider').animate({'right':'-430px'},100,function(){
+                $(this).remove();
+            })
+            e.preventDefault();
+        });
+
+        $('a.subscribe-btn').on('click',function(e){
+            $('.subscriber-form').center().show();
+            e.preventDefault();
+        });
+
+        $('a.close-subscribe').on('click',function(e){
+            $('.subscriber-form').hide();
+            e.preventDefault();
+        });
+
+    })(jQuery);
+
+</script>
+<script type="text/javascript" src="http://insideiim.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.9.2"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.0.7"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.50"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"countries":"{\"AF\":[],\"AT\":[],\"BE\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"FI\":[],\"FR\":[],\"HU\":[],\"IS\":[],\"IL\":[],\"KR\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BH\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NF\":\"Newfoundland\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TR\":\"Tripura\",\"UT\":\"Uttaranchal\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadar and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"MLK\":\"Melaka\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"PNG\":\"Pulau Pinang\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"KUL\":\"W.P. Kuala Lumpur\",\"LBN\":\"W.P. Labuan\",\"PJY\":\"W.P. Putrajaya\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"},\"TH\":{\"TH-37\":\"Amnat Charoen (\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d)\",\"TH-15\":\"Ang Thong (\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07)\",\"TH-14\":\"Ayutthaya (\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32)\",\"TH-10\":\"Bangkok (\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23)\",\"TH-38\":\"Bueng Kan (\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c)\",\"TH-31\":\"Buri Ram (\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c)\",\"TH-24\":\"Chachoengsao (\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32)\",\"TH-18\":\"Chai Nat (\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17)\",\"TH-36\":\"Chaiyaphum (\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34)\",\"TH-22\":\"Chanthaburi (\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-50\":\"Chiang Mai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)\",\"TH-57\":\"Chiang Rai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22)\",\"TH-20\":\"Chonburi (\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35)\",\"TH-86\":\"Chumphon (\u0e0a\u0e38\u0e21\u0e1e\u0e23)\",\"TH-46\":\"Kalasin (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c)\",\"TH-62\":\"Kamphaeng Phet (\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23)\",\"TH-71\":\"Kanchanaburi (\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-40\":\"Khon Kaen (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19)\",\"TH-81\":\"Krabi (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48)\",\"TH-52\":\"Lampang (\u0e25\u0e33\u0e1b\u0e32\u0e07)\",\"TH-51\":\"Lamphun (\u0e25\u0e33\u0e1e\u0e39\u0e19)\",\"TH-42\":\"Loei (\u0e40\u0e25\u0e22)\",\"TH-16\":\"Lopburi (\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35)\",\"TH-58\":\"Mae Hong Son (\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19)\",\"TH-44\":\"Maha Sarakham (\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21)\",\"TH-49\":\"Mukdahan (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23)\",\"TH-26\":\"Nakhon Nayok (\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01)\",\"TH-73\":\"Nakhon Pathom (\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21)\",\"TH-48\":\"Nakhon Phanom (\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21)\",\"TH-30\":\"Nakhon Ratchasima (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)\",\"TH-60\":\"Nakhon Sawan (\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)\",\"TH-80\":\"Nakhon Si Thammarat (\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a)\",\"TH-55\":\"Nan (\u0e19\u0e48\u0e32\u0e19)\",\"TH-96\":\"Narathiwat (\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a)\",\"TH-39\":\"Nong Bua Lam Phu (\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39)\",\"TH-43\":\"Nong Khai (\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22)\",\"TH-12\":\"Nonthaburi (\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-13\":\"Pathum Thani (\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35)\",\"TH-94\":\"Pattani (\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35)\",\"TH-82\":\"Phang Nga (\u0e1e\u0e31\u0e07\u0e07\u0e32)\",\"TH-93\":\"Phatthalung (\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07)\",\"TH-56\":\"Phayao (\u0e1e\u0e30\u0e40\u0e22\u0e32)\",\"TH-67\":\"Phetchabun (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c)\",\"TH-76\":\"Phetchaburi (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35)\",\"TH-66\":\"Phichit (\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23)\",\"TH-65\":\"Phitsanulok (\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01)\",\"TH-54\":\"Phrae (\u0e41\u0e1e\u0e23\u0e48)\",\"TH-83\":\"Phuket (\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15)\",\"TH-25\":\"Prachin Buri (\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-77\":\"Prachuap Khiri Khan (\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c)\",\"TH-85\":\"Ranong (\u0e23\u0e30\u0e19\u0e2d\u0e07)\",\"TH-70\":\"Ratchaburi (\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35)\",\"TH-21\":\"Rayong (\u0e23\u0e30\u0e22\u0e2d\u0e07)\",\"TH-45\":\"Roi Et (\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14)\",\"TH-27\":\"Sa Kaeo (\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27)\",\"TH-47\":\"Sakon Nakhon (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23)\",\"TH-11\":\"Samut Prakan (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)\",\"TH-74\":\"Samut Sakhon (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)\",\"TH-75\":\"Samut Songkhram (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21)\",\"TH-19\":\"Saraburi (\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35)\",\"TH-91\":\"Satun (\u0e2a\u0e15\u0e39\u0e25)\",\"TH-17\":\"Sing Buri (\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35)\",\"TH-33\":\"Sisaket (\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29)\",\"TH-90\":\"Songkhla (\u0e2a\u0e07\u0e02\u0e25\u0e32)\",\"TH-64\":\"Sukhothai (\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22)\",\"TH-72\":\"Suphan Buri (\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35)\",\"TH-84\":\"Surat Thani (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35)\",\"TH-32\":\"Surin (\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c)\",\"TH-63\":\"Tak (\u0e15\u0e32\u0e01)\",\"TH-92\":\"Trang (\u0e15\u0e23\u0e31\u0e07)\",\"TH-23\":\"Trat (\u0e15\u0e23\u0e32\u0e14)\",\"TH-34\":\"Ubon Ratchathani (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35)\",\"TH-41\":\"Udon Thani (\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35)\",\"TH-61\":\"Uthai Thani (\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35)\",\"TH-53\":\"Uttaradit (\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c)\",\"TH-95\":\"Yala (\u0e22\u0e30\u0e25\u0e32)\",\"TH-35\":\"Yasothon (\u0e22\u0e42\u0e2a\u0e18\u0e23)\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\",\"AS\":\"American Samoa\",\"GU\":\"Guam\",\"MP\":\"Northern Mariana Islands\",\"PR\":\"Puerto Rico\",\"UM\":\"US Minor Outlying Islands\",\"VI\":\"US Virgin Islands\"}}","plugin_url":"http:\/\/insideiim.com\/wp-content\/plugins\/woocommerce","ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/insideiim.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_select_state_text":"Select an option\u2026","i18n_required_rating_text":"Please select a rating","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_required_text":"required","i18n_view_cart":"View Cart \u2192","review_rating_required":"yes","update_order_review_nonce":"13feb7423a","apply_coupon_nonce":"36273b4c07","option_guest_checkout":"yes","checkout_url":"\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"c58eaa75bd","add_to_cart_nonce":"993c640208","cart_url":"http:\/\/insideiim.com\/cart\/","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.0.7"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.0.7"></script>
+<script type="text/javascript" src="http://insideiim.com/wp-content/plugins/woocommerce/assets/js/jquery-placeholder/jquery.placeholder.min.js?ver=2.0.7"></script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+    <!--
+    var sc_project=8518451;
+    var sc_security="6f58798d";
+    var sc_invisible=1;
+    //-->
+</script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><a title="web analytics" href="http://statcounter.com/"><img class="statcounter"   src='http://insideiim.com/wp-content/plugins/advanced-lazy-load/shade.gif' ImageHolder='http://insideiim.com/wp-content/plugins/advanced-lazy-load/shade.gif' ImageHolder="http://c.statcounter.com/8518451/0/6f58798d/1/" alt="web analytics" /></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+</body></html>
