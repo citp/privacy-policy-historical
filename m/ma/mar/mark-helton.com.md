@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mark-helton.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626043219id_/http%3A//www.mark-helton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mark-helton.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226004232id_/http%3A//www.mark-helton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
