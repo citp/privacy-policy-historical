@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trust-guard.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603210622id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trust-guard.com privacy policy that was archived on 2013-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225105355id_/http%3A//www.trust-guard.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>Trust Guard Privacy Policy</title>
@@ -10,7 +10,7 @@
         <meta name="GOOGLEBOT" content="">
         <meta name="google-site-verification" content="IvM4oCWbwEt5uDzk0JpvY59g0OTPCBnXtJgu6wtdJRQ">
 
-        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Scripts/update.js"></script>
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Scripts/update.js"></script>
         <script type="text/javascript" src="/Scripts/jquery-1.3.2.min.js"></script>
         <script type="text/javascript" src="/Scripts/jquery-ui-1.8.6.custom.min.js"></script>
         <script type="text/javascript" src="/Scripts/EasySlider.js"></script>
@@ -28,31 +28,36 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script> 
+
+
+<script type="text/javascript">
+adroll_adv_id = "VPDW6SITXVEO3FTJGYIAE6";
+adroll_pix_id = "T3LWYC4N6BARFKUFK7JMDL";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
         
         
         <link type="text/css" href="/CSS/jquery-ui-1.8.6.custom.css" rel="stylesheet">
         <link type="text/css" href="/CSS/popup.css" rel="stylesheet">
 
-        <script type="text/javascript">
-            WebFontConfig = {
-                google: {families: ['Cantarell', 'Simonetta']}
-            };
-            (function() {
-                var wf = document.createElement('script');
-                wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-                        '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-                wf.type = 'text/javascript';
-                wf.async = 'true';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(wf, s);
-            })();
-        </script>
 
         <link href="/Templates/Clean/CSS/CustomStyle.css" rel="stylesheet" type="text/css">
             <!--[if lt IE 7.]><script defer type="text/javascript" src="/Scripts/pngfix.js"></script><![endif]-->
         <link rel="shortcut icon" href="/Templates/Clean/Images/favicon.ico">
 
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script></head>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body style="margin:0;">
         <div id="tgDim"></div>
         <div style="width:100%; position:fixed; background-color:#fff; border-bottom:1px silver solid; top:0;">
@@ -60,9 +65,9 @@
                 <a href="/"><img border="0" style="float:left;" src="/Templates/Clean/Images/tg-logo.png" alt="Trust Guard"></a>
 
                 <div id="divHeaderLinks" style="float:left; margin-top:10px;">
-                    <a href="/features.htm">Features</a>
-                    <a href="/compare-Trust-Seals-s/1.htm">Pricing</a>
                     <a href="/Website-Security-s/89.htm">Website Security</a>
+                    <a href="/features.htm">Benefits</a>
+                    <a href="/pricing.htm">Pricing</a>
                     <a href="https://members.trust-guard.com">Login</a>
                 </div>
 
@@ -370,11 +375,51 @@
                 <div style="height:15px;"></div>
 
                 <div style="float:left;">
-                    Check a Site<br>
-                    <input style="width:250px;" type="text">
-                    <br><br>
-                    <!--Follow us and Share-->
-                    <br>
+                    <table style="border-collapse:collapse;" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td style="padding-right:7px;">
+            <input id="txtSiteSearch" style="width:250px;" type="text" placeholder="Verify a Site / Search Website">
+        </td>
+        <td>
+            <img onclick="searchSite(); return false;" style="cursor:pointer;" src="/Images/gonew.png" alt="">
+        </td>
+    </tr>
+</tbody></table>
+<div id="dialogSearchSite" class="dynamicPopup rounded" style="padding:10px;">
+    <div class="blackText" id="searchSiteContent">
+        
+    </div>
+</div>
+<script type="text/javascript">
+
+    function searchSite()
+    {
+        $.post("/AJAX/SiteSearch.php", {txtSiteSearch : $('#txtSiteSearch').val()}, function(data){
+            $('#searchSiteContent').html(data+"<div style='clear:both;'></div><br />&nbsp;");
+            buildPopup('dialogSearchSite', true, true);
+        });
+    }
+
+    function checkSearch1()
+    {
+        window.open('https://members.trust-guard.com/RemoteScripts/SearchForm.php?url='+$('#txtSiteSearch').val(),'welcome','location=no,scrollbars=yes,width=528,height='+screen.availHeight+',menubar=no,toolbar=no');
+        return false;
+    }
+
+    $(document).ready(function(){
+
+        $('#txtSiteSearch').keyup(function(e) {
+            if(e.keyCode == 13) {
+                searchSite();
+            }
+        });
+    });
+
+</script>
+
+<style type="text/css">
+    .ui-dialog-titlebar { display:none; }
+</style>
 
                 </div>
 
@@ -385,24 +430,152 @@
                 <map name="partnerMap" style="border:0;">
                     <area shape="rect" coords="100,10,120,30" href="/partner2.htm">
                 </map>
+                    <div class="left tiny">
+                        © 2006 - 2013 Trust Guard<sup style="font-size:6pt;">®</sup> LLC, All Rights Reserved, the<br> 
+                        reproduction, distribution, display, or transmission of the content<br> 
+                        is strictly prohibited, unless authorized by Trust Guard<sup style="font-size:6pt;">®</sup> LLC. <br>
+                        All other company &amp; product names may be trademarks of the <br>
+                        respective companies with which they are associated. Our <br>
+                        Certified *ASV scanning partner is Clone Systems, Inc.
+                        <br>
+                        <a href="/pindex.asp">Products</a> | <a href="/partners.htm">Partner Opportunities</a> | <a href="/identity-protection.htm">Identity Theft</a> | <a href="/cindex.asp">Category Index</a>
+                        <br>
+                        <div style="width:380px;">
+                            
+                        </div>
+                    </div>
 
-                <div class="left tiny">
-                    © 2006 - 2013 Trust Guard<sup style="font-size:6pt;">®</sup> LLC, All Rights Reserved, the<br> 
-                    reproduction, distribution, display, or transmission of the content<br> 
-                    is strictly prohibited, unless authorized by Trust Guard<sup style="font-size:6pt;">®</sup> LLC. <br>
-                    All other company &amp; product names may be trademarks of the <br>
-                    respective companies with which they are associated. Our <br>
-                    Certified *ASV scanning partner is Clone Systems, Inc.
-                    <br>
-                    <a href="/pindex.asp">Products</a> | <a href="/partners.htm">Partner Opportunities</a> | <a href="/identity-protection.htm">Identity Theft</a> | <a href="/cindex.asp">Category Index</a>
-                </div>
-                <div style="clear:both;"></div>
-                <br>&nbsp;
+                    <div style="clear:both;"></div>
+                    <br>&nbsp;
             </div>
         </div>
         <script type="text/javascript"> var rsDomain = 'trustguard'; var rsID = 35; var rsColor = '#2d79a0'; var rsOffset = 50; var jq162; function rsLoadScript(url, callback) { var head= document.getElementsByTagName('head')[0]; var script= document.createElement('script'); script.type= 'text/javascript'; script.src= url; if(script.readyState) { script.onreadystatechange = function() { if (script.readyState == 'loaded' || script.readyState == 'complete') { script.onreadystatechange = null; callback(); } }; } else { script.onreadystatechange = callback; script.onload = callback; } head.appendChild(script); }</script><span id="rsLoading"><a href="http://www.rhinosupport.com">Help Desk Support Software</a> Loading</span><script type="text/javascript">var rsLoadTab = function() { jq162 = $.noConflict(true); jq162.getScript('https://api.rhinosupport.com/LiveChatScript.js', function(){var i,x,y,ARRcookies=document.cookie.split(';'); for (i=0;i<ARRcookies.length;i++) { x=ARRcookies[i].substr(0,ARRcookies[i].indexOf('=')); y=ARRcookies[i].substr(ARRcookies[i].indexOf('=')+1); x=x.replace(/^\s+|\s+$/g,''); if (x=='RSCheckChat') { jq162.getScript('https:api.rhinosupport.com/RhinoSupport/LoadExistingChat.php?domain='+rsDomain); } }}); }; rsLoadScript('https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js', rsLoadTab); </script>
 
+        
 
+
+
+    <div id="divSendEmailPopup" style="padding: 10px; background-image: url(&quot;/Images/fppgirl.png&quot;); background-repeat: no-repeat; background-position: 290px -6px; border-radius: 8px 8px 0px 0px; border-top: 3px solid silver; border-right: 3px solid silver; border-left: 3px solid silver; border-bottom: 0px none; background-color: rgb(255, 255, 255); width: 450px; position: fixed; bottom: 0px; right: 0px; opacity: 0.00234391;">  
+        <form action="https://jo127.infusionsoft.com/app/form/process/ac4b0019ecf5d743a321d0abf0f02976" method="POST">
+            <div style="float:right; padding-bottom:3px;"><img alt="Close" style="cursor:pointer;" onclick="$('#divSendEmailPopup').css('display','none');" src="/Images/xbutton.gif"></div>
+
+            <table cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td colspan="8">
+                        <div style="font-size:12pt; padding-bottom:5px; font-weight:bold;">Send me <span style="font-size:14pt;"><br>"9 Ways to Increase Sales!</span>"</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="7">
+
+                        <table>
+                            <tbody><tr>
+                                <td>
+                                    <input onclick="showContactInfo();" id="rdoSend7Ways" name="rdo7Ways" type="radio">
+                                </td>
+                                <td><label for="rdoSend7Ways">Yes</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                <td>
+                                    <input onclick="hideContactInfo();" id="rdoNoSend7Ways" name="rdo7Ways" type="radio">
+                                </td>
+                                <td><label for="rdoNoSend7Ways">No</label></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+
+                </tr>
+            </tbody></table>
+
+            <div class="ebookContact" style="display: none;">
+                <table cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td>
+                            <div style="padding-top:5px; padding-bottom:5px;">
+                                &nbsp;
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div style="padding-top:15px; padding-bottom:5px;">
+                                <input onfocus="$(this).val(''); $(this).css('color','#000');" id="txtName" name="inf_field_FirstName" style="width:240px; color:gray;" type="text" value="* First Name">
+                            </div>
+                        </td>
+                        <td rowspan="4"><div style="font-size:12px; padding-top:14px; padding-left:15px;"><div style="margin-top:-11px; padding-left:54px;"><a name="trustlink" href="http://secure.trust-guard.com/privacy/637" rel="nofollow" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace(/https?/, 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard 1 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Privacy Seals" style="border: 0;" src="//dw26xg4lubooo.cloudfront.net/seals/privsafe/637-lg.gif"></a></div><br><div style="height:5px;"></div>Your privacy is important to us,<br>we will never share your information.<br><div style="height:5px;"></div><a style="color:blue;" target="_blank" href="http://www.trust-guard.com/terms_privacy.asp">Trust Guard's Privacy Policy</a></div></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div style="padding-top:5px; padding-bottom:5px;">
+                                <input onfocus="$(this).val(''); $(this).css('color','#000');" id="txtEmail" name="inf_field_Email" style="width:240px; color:gray;" type="text" value="* Email">
+                            </div>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <div style="padding-top:5px; padding-bottom:5px;">
+                                <!--<input type="button" onclick="sendMe();" value="Send Me 9 Ways to Increase Sales!" />-->
+                                
+                                 <input name="inf_form_xid" type="hidden" value="ac4b0019ecf5d743a321d0abf0f02976">
+                                <input name="inf_form_name" type="hidden" value="&quot;Trust Factor&quot; Sign Up">
+                                <input name="infusionsoft_version" type="hidden" value="1.29.3.58">
+                                
+                                <input type="submit" value="Submit">
+                            </div>
+                        </td>
+                    </tr>
+
+
+                </tbody></table>
+            </div>
+        </form>
+    </div>
+
+    <script type="text/javascript">
+
+        //        function sendMe()
+        //        {
+        //            $('#divSendEmailPopup').css('display','none');
+        //            $.post("/AJAX/FillFirstForm.php", {id : , name : $('#txtName').val(), email : $('#txtEmail').val(), phone : $('#txtPhone').val() }, function(data){
+        //            });
+        //        }
+                            
+        $(document).ready(function(){
+            $('.ebookContact').css('display','none');
+            $('.ebookContact').animate({
+                opacity: 'hide',
+                height:'0px',
+                easing: 'linear'
+            }, 100, function(){
+                            
+                $('#divSendEmailPopup').animate({
+                    opacity: 0,
+                    easing: 'linear'
+                }, 500, function(){
+                    $('#divSendEmailPopup').css('display','');
+                    $('#divSendEmailPopup').animate({
+                        opacity: 1,
+                        easing: 'linear'
+                    }, 1200);
+                });
+            });
+                            
+        });
+                                                                                                                
+        function showContactInfo()
+        {
+                                
+            $('.ebookContact').slideDown(1000);
+                
+        }
+                                                                                                                
+        function hideContactInfo()
+        {
+            $('#divSendEmailPopup').css('display','none');
+        }
+                                                                                                                                                                
+    </script>
+    
         <script type="text/javascript" src="/Scripts/buttonhover.js"></script>
 
     
