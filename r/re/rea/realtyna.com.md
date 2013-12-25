@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyna.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615124357id_/http%3A//rpl.realtyna.com/realtyna-privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyna.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225095344id_/http%3A//rpl.realtyna.com/realtyna-privacy-policy-statement) for the most accurate reproduction.*
 
 # Realtyna Privacy Policy Statement - Realtyna Property Listing
 
