@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the speechcounts.org privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204084814id_/http%3A//www.asha.org/sitehelp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speechcounts.org privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225040146id_/http%3A//www.asha.org/sitehelp/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for Our Web Site
 
-**see also:** [Web Site Terms of Use Agreement](https://web.archive.org/sitehelp/terms_of_use.htm) and [E-mail List Terms of Use Agreement](https://web.archive.org/sitehelp/emailterms.htm)
+**see also:** [Web Site Terms of Use](https://web.archive.org/sitehelp/terms_of_use/) and [ASHA Community Terms of Use](http://community.asha.org/ASHA/CommunityGuidelines)
 
 This Privacy Statement discloses the privacy practices for the American Speech-Language-Hearing Association ("ASHA") and its Internet Web site: <http://www.asha.org/> (hereinafter referred to individually as a "Web site"). ASHA, an independent, non-profit organization, provides you with the following information:
 
