@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grumpycats.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515021515id_/http%3A//www.grumpycats.com/contact-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grumpycats.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225015848id_/http%3A//www.grumpycats.com/contact-us/privacy) for the most accurate reproduction.*
 
-# GrumpyCats.com Privacy Policy | Grumpy Cat™ - The internet's grumpiest cat!
+# GrumpyCats.com Privacy Policy | Grumpy Cat® - The world's grumpiest cat!
 
 This Privacy Policy governs the manner in which GrumpyCats.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.grumpycats.com website (“Site”). This privacy policy applies to the Site and all products and services offered by GrumpyCats.com.
 
