@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealshare.net privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624161958id_/http%3A//idealshare.net/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealshare.net privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225201445id_/http%3A//idealshare.net/about/privacy.html) for the most accurate reproduction.*
 
 # iDealshare Privacy Policy
 
@@ -23,14 +23,3 @@ Any information collected will NOT be sold or given to any third party(ies) by a
 In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
 
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website.
-
-## Hot Articles
-
-  * How to
-  * Coming soon
-  * Coming soon
-  * Coming soon
-  * Coming soon
-  * Coming soon
-
-
