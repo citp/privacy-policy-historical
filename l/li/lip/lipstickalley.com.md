@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipstickalley.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523150103id_/http%3A//www.lipstickalley.com/view.php%3Fpg%3Dprivacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipstickalley.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225022653id_/http%3A//www.lipstickalley.com/view.php%3Fpg%3Dprivacynotice) for the most accurate reproduction.*
 
 # Lipstick Alley Privacy Notice
 
