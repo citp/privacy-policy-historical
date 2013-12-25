@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itswapshop.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604175634id_/http%3A//itswapshop.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itswapshop.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225225556id_/http%3A//itswapshop.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | http://www.itswapshop.com
 
