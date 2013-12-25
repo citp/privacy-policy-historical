@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reqall.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613163612id_/http%3A//www.reqall.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reqall.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225024135id_/http%3A//www.reqall.com/about/privacy) for the most accurate reproduction.*
 
-# reQall: Privacy Policy
+# 
 
 **Introduction**  
 We respect your privacy. When you register with us and use our website and related services, you consent to our use of your information as outlined in this Privacy Policy. This Privacy Policy may be updated from time to time, and any such updates will be effective as of the date we post the updated Privacy Policy on our website. 
@@ -40,7 +40,7 @@ At any time, you may terminate your account, or ask us to do that for you. When 
 **How We Use the Information**  
 The information we collect from you at time of registration is used to identify your account so that data you enter while using the service goes into your account and not some other user’s account. We also use your email address to communicate with you when you have questions or to inform you about our services. If you have elected to use our Pro service beyond the end of the free trial, we will pass your name, credit card number, security code, billing address, and expiration code on to the appropriate merchant vendor who will use it to charge your card. We use your account information for 3rd party services to connect your reQall services to those services. If you give us feedback about reQall Action suggestions, we will use that information to improve how reQall Action provides future suggestions. 
 
-The information you submit while using our services can be entered either by voice or by text. We convert voice messages to text using a combination of human and computer transcription. The human transcribers cannot identify the person who submits a voice message into our system except by their registration number; and they cannot link that number with a name, email address or phone number. However, if your voice message includes personally identifying information, the transcriber will be able to perceive that information. 
+The information you submit while using our services can be entered either by voice or by text. We convert voice messages to text using automated speech recognition technology.
 
 If you ask us for help in using our services, we may need to look at information you have submitted in order to provide appropriate support. We limit who can look at this information to a small number of employees. Those employees are the ones most qualified to assist you with your support needs, and they are all obligated to respect and safeguard the confidential information of our users. 
 
@@ -49,7 +49,7 @@ We use certain non-personally identifiable information we receive from you to in
 **Disclosure to Third Parties**  
 Except as stated herein, we never rent, sell, trade or give away your personally identifiable information to third parties. We do not publicly disseminate the personally identifiable information that you voluntarily submit to your account (by email, phone or other telecommunications device). We are not responsible for your actions that result in such information becoming publicly disseminated. 
 
-We may share certain information from you with contractors and vendors to the extent necessary to maintain and successfully provide our services. For example, we may give audio recordings that you have entered into our system to contractors who help us do audio transcription. The data we share in this manner cannot be associated with any user’s personally identifiable information, such as a particular account name, email address or phone number. However, some contractors and vendors, such as those providing voice to text transcription, do have access to any personally identifiable information that you put into the messages that you submit to our system. All such contractors and vendors are required to sign confidentiality agreements. 
+We may share certain information from you with contractors and vendors to the extent necessary to maintain and successfully provide our services. For example, we may give audio recordings that you have entered into our system to contractors who help us do audio transcription. The data we share in this manner cannot be associated with any user’s personally identifiable information, such as a particular account name, email address or phone number. However, some contractors and vendors, such as those providing voice to text transcription, would have access to any personally identifiable information that you put into the messages that you submit to our system. All such contractors and vendors are required to sign confidentiality agreements. 
 
 As is standard in the industry, we use third-party vendors to distribute newsletters and email announcements. We require those vendors to also maintain the confidentiality of your information, such as your email address. 
 
