@@ -1,69 +1,205 @@
-> *The following text is extracted and transformed from the practo.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308133820id_/http%3A//www.practo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practo.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225135050id_/https%3A//www.practo.com/ray/privacy) for the most accurate reproduction.*
 
-# Practice Management Software, Online Patient Records : Practo
+# Practo Ray Software Privacy Policy
 
-[ ](https://web.archive.org/)
+#### Terms of Use of Practo.com and the other Services provided by Practo Technologies Private Limited
 
-  * Practo Technologies Private Limited ('Practo', 'We', 'Our') is committed to protecting your privacy and ensuring you have a positive experience on our website, www.practo.com ("Website"). This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. 
-  * We encourage you to read this policy to ensure you understand Practo's privacy practices. 
-  * We adhere to the following principles to protect your privacy: 
-    * We do not rent or sell your personally identifiable information to third parties for any purposes, including marketing purposes. 
-    * We share your contact information with another User or third party upon your consent. 
-    * Any personally identifiable information that you provide will be secured with industry standard protocols and technology. 
-  * We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you by means of a notice on our home page. By continuing to use the services on our Website after notice of changes have been published on the Website, you are consenting to the changes. 
-  * **CUSTOMER DATA: Practo provides its Services as SaaS (Software as a Service Model, and will host data and information. Practo will not review, share, distribute, or reference any such Customer Data except as provided in the Terms of Use Agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the Terms of Use Agreement, or as may be required by law. We would take all reasonable precautions for maintaining confidentiality of data.**
-  * _We advise you that if you do not wish to have your information used or displayed as described in the privacy policy and Terms of Use Agreement, you should reconsider becoming an User of the Website and its Services. You willingly provide us certain personal information, which we collect in order to provide the Services. If you have any hesitation about providing such information to us and/or having such information displayed on the Website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a User / Member._
-    1. Personal Information collected: 
-      * We collect your personal information in the following ways: 
-        1. Registration 
-          * In order to become a User, you must first create an account on our Website. To create an account you are required to provide the following information, which you recognize and expressly acknowledge is personal information allowing others, including Practo, to identify you: name, User ID, email address, country, ZIP/postal code, age, phone number, password chosen by you and valid financial account information. Other information requested on our Registration page, including the ability to receive promotional offers from Practo, is optional. We may, in future, include other optional requests for information from you to help us to customize the Website to deliver personalized information to you. Without your agreement, we will not share, rent or sell any personal information with third parties in any way other than what is disclosed in this privacy statement. 
-        2. Payment 
-          * We may require our Users to pay with a credit card, wire transfer, debit card or cheque. We will collect your credit card number and/or other financial institution information such as bank account numbers and will use that information for the billing and payment processes, including but not limited to the use and disclosure of such credit card number and information to third parties as necessary to complete such billing operation. Verification of credit information, however, is accomplished solely by the User through the authentication process. 
-        3. Log files, IP addresses and information about your computer 
-          * Due to the communications standards on the Internet, when you visit the Website we automatically receive the URL of the site from which you came and the site to which you are going when you leave. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, email patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve our Service. The linkage between your IP address and your personally identifiable information is not shared with third-parties without your permission or except when required by law. 
-        4. Cookies and Web Beacons 
-          * Like most websites, Practo uses cookies and web log files to track site usage. We use cookies to improve the quality of our service by storing User preferences and tracking User trends. In the course of serving advertisements or optimizing services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Practo does not store personally identifiable information in the cookies. 
-          * We allow other companies, to serve advertisements to Users. These companies include third party ad servers, ad agencies, ad technology vendors and research firms. Practo may "target" some ads to Users that fit a certain general profile. Practo does NOT use personally identifiable information to target ads. 
-        5. Processing information about you and modification of such information 
-          * All the information you provide to Practo, including sensitive personal information, is voluntary. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the Terms of Use Agreement, but please note that your withdrawal of consent will not be retroactive. 
-          * You can access, modify, correct and eliminate the data about you which has been collected pursuant to your decision to become a User. If you update any of your information, we may keep a copy of the information which you originally provided to us in our archives for uses documented herein. We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at [privacy@practo.com](mailto:privacy@practo.com)
-        6. External links 
-          * This Privacy Policy applies to web sites and services that are owned and operated by Practo. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you, for which Practo is not responsible or liable. We encourage you to read the privacy policies of that website. 
-    2. Uses of Personal Information 
-      * Your personally identifiable information you choose to provide on our Website is used to help you describe / identify yourself. Other information, that does not personally identify you as an individual, is collected by Practo from Users (such as, patterns of utilization described above) and is exclusively owned by Practo. This information can be utilized by Practo in such manner as Practo, in its sole discretion, deems appropriate. 
-        1. Communication and Update 
-          * Practo will communicate with you through email and notices posted on the Website or through other means available through the service, including text and other forms of messaging. You can change your e-mail and contact preferences at any time by logging into your "Account" at www.practo.com and changing the account settings. 
-        2. Surveys, Contests and Polls 
-          * At times, Practo conducts a User survey to collect information about our Users' preferences. These surveys are optional and if you choose to respond, your responses will be kept anonymous. Similarly, we may offer contests to qualifying Users in which we ask for contact and demographic information such as name, email address and mailing address. None of this information is shared with third parties, except in summary form, if at all. The demographic information that Practo collects in the registration process and through surveys is used to help us improve our Services to meet the needs and preferences of our Users. This may include targeting advertising to you about our Services. Information we gather through a contest may also be disclosed to third parties, as necessary, for prize fulfillment and other aspects of any contest or similar offering. 
-        3. Legal Disclaimer 
-          * It is possible that we may need to disclose personal information when required by law, such as responses to civil or criminal subpoenas, or other requests by law enforcement personnel. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, subpoena, or other legal process or request to Practo brought in any country throughout the world, or to exercise our legal rights or defend against legal claims. 
-        4. Disclosures to others 
-          * We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Practo corporation division or company. Any third party to which we transfer or sell Practo' assets will have the right to continue to use the personal and other information that you provide to us. 
-          * Other uses: 
-            * Providing our products and services to users, including the display of customized content and advertising; 
-            * Auditing, research and analysis in order to maintain, protect and improve our services; 
-            * Ensuring the technical functioning of our network; and 
-            * Developing new services. 
-        5. Sharing information with third parties 
-          * To the extent necessary to provide you with the services on the Website, we may provide your Personal Information to third party contractors who work on behalf of or with Practo to provide you with such services, to help us communicate with you or to maintain the Website. Generally these contractors do not have any independent right to share this information, however certain contractors who provide services on the Website, including the providers of online communications services, will have rights to use and disclose the Personal Information collected in connection with the provision of these services in accordance with their own privacy policies. 
-    3. Your choice in managing your information 
-        1. Closing your account 
-          * You can also close your account on the Website. On closure, we will remove your name and other personally identifiable information from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non- personally identifiable data, account recovery, or if required by law. To request that we close your account and remove your information from the website, please send your request to [ unsubscribe@practo.com](mailto:unsubscribe@practo.com). You will receive a response to your requests within five business days of its receipt. 
-        2. Retrieval of information 
-          * Practo internally has a process on information security and your information being accessed only by those who are authorized. In situations where you accidentally delete your information and would like to retrieve, then this core team may access the stored database and recover the same. Please be aware that this team may have to go through your personal information in order to restore the information sought by you. 
-    4. Users Obligations 
-        1. You must, at all times, respect the terms and conditions of the then-current Privacy Policy and the Terms of Use Agreement. This includes respecting all intellectual property rights which may belong to third parties. 
-        2. You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and Service. 
-        3. You must not provide information to Practo and /or other Users which you believe might be injurious or detrimental to your person, professional or social status. 
-      * Any violation of these guidelines may lead to the restriction, suspension or termination of your account by Practo, as we take these principles seriously and consider them to be the basis on which our Users adhere to the Practo website and the services which it offers. 
-    5. Children 
-      * Children below 18 years are not eligible to use our service and we hereby request children below this age group not to submit any personal information to us or use the service. 
-    6. Information Security 
-      * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
-      * We restrict access to personal information to Practo employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
-    7. Changes to this Privacy Policy 
-      * Practo may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on the website or send you an email, as provided for above. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
-      * If you use the Practo service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices. 
-  * Last update : 8th October 2009 
+Context
+
+  1. Who is Practo?
 
 
+
+Practo Technologies Private Limited (“Practo”) is the author and publisher of the software Practo Ray, and all variants, editions, add-ons, and ancillary products or services of Practo Ray (including all files and images contained in or generated by the software, and accompanying data, together the “Software”). Practo also operates the internet resource www.practo.com (“Website”) on world wide web which is used to access Practo Software. Practo Software is used at healthcare practices (“Practices”) by healthcare providers (“Practitioners”, which term shall also include designated associates of the healthcare providers who work in the same Practice), and clients of the healthcare providers (“Patients”, which term shall also include members of public who search for doctors on the Website) to find, manage and organise information including but not limited to personal or non-personal information, practice information, appointments, prescriptions, medical records, billing, inventory and accounting details. All users of the Practo Software - the Practitioners, Patients, and the visitors of Website are together termed as “Users”. 
+
+  2. How does Practo protect Customer Data?
+
+
+
+2.1 Practo provides its services in SaaS (Software as a Service) model, and will host data and information. Practo will not review, share, distribute, or reference any such User data except as provided in the terms of use, or as may be required by law. Individual records of User data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the terms of use, or as may be required by law. We would take all reasonable precautions for maintaining confidentiality of data.
+
+  3. How can I contact Practo?
+
+
+
+3.1 Practo can be reached, for all questions and directions related to this privacy policy, by:
+
+  1. Sending a letter marked to the attention of “Abhinav Lal” to Practo Technologies Private Limited, 4th Floor, Abhaya Heights, Bannerghatta Road, Near Jayadeva Flyover, Bangalore, India - 560 078; or
+  2. Sending an email to privacy@practo.com.
+
+
+  4. Why this privacy policy?
+
+
+
+4.1 This privacy policy is published in compliance of:
+
+  1. Section 43A of the Information Technology Act, 2000;
+  2. Regulation 4 of the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Information) Rules, 2011 (the “SPI Rules”); and
+  3. Regulation 3(1) of the Information Technology (Intermediaries Guidelines) Rules, 2011.
+
+
+
+4.2 This privacy policy states the following:
+
+  1. The type of information collected from the visitors of the Website and the End users, including sensitive personal data or information;
+  2. The purpose, means and modes of usage of such information; and
+  3. How and to whom Practo will disclose such information.  
+
+
+  5. What is personal information?
+
+
+
+5.1 “Personal information” is defined under the SPI Rules to mean any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person.
+
+5.2 The SPI Rules further define “sensitive personal data or information” of a person to mean personal information about that person relating to:
+
+  1. passwords;
+  2. financial information such as bank accounts, credit and debit card details or other payment instrument details;
+  3. physical, physiological and mental health condition;
+  4. sexual orientation;
+  5. medical records and history;
+  6. biometric information;
+  7. information received by body corporate under lawful contract or otherwise;
+  8. visitor details as provided at the time of registration or thereafter; and
+  9. call data records.
+
+
+
+5.3 Information that is freely available in the public domain or accessible under the Right to Information Act, 2005 or any other law will not be regarded as sensitive personal data or information.         
+
+Privacy Statements
+
+  5. All Users Note:
+
+
+
+6.1 This section applies to all Users (“Users”).
+
+6.2 Accordingly, a condition of each User’s use of and access to the Website and to the Software provided by Practo to Users (together with the Website, the “Services”) is their acceptance of the terms of use located at Part B below, which also involves acceptance of the terms of this privacy policy. Any User that does not agree with any provisions of the same is required to leave the Website immediately.
+
+6.3 All the information provided to Practo by a User, including sensitive personal information, is voluntary. User has the right to withdraw his/her/its consent at any time, in accordance with the terms of this privacy policy and the terms of use, but please note that withdrawal of consent will not be retroactive. **Always use caution when giving out any personally identifiable information about yourself or your family members in use of any Services. Practo does not control or endorse the content, messages or information found in any Services and, therefore, Practo specifically disclaims any liability with regard to the Services and any actions resulting from your participation in any Services, and you agree that you waive any claims against Practo relating to same, and to the extent such waiver may be ineffective, you agree to release any claims against Practo relating to same.**
+
+6.4 User can access, modify, correct and eliminate the data about him/her/it which has been collected pursuant to his/her/its decision to become a User. If User updates any of his/her/its information, Practo may keep a copy of the information which User originally provided to Practo in its archives for uses documented herein. Practo takes User’s rights seriously and encourages User to use them if User deems this to be appropriate. User may exercise these rights by emailing Practo at privacy@practo.com.
+
+6.5 Practo may require the User to pay with a credit card, wire transfer, debit card or cheque. Practo will collect such User’s credit card number and/or other financial institution information such as bank account numbers and will use that information for the billing and payment processes, including but not limited to the use and disclosure of such credit card number and information to third parties as necessary to complete such billing operation. Verification of credit information, however, is accomplished solely by the User through the authentication process. User’s credit-card/debit card details are transacted upon secure sites of approved payment gateways which are digitally under encryption, thereby providing the highest possible degree of care as per current technology. User is advised, however, that internet technology is not 100% safe and User should exercise discretion on using the same.
+
+6.6 Due to the communications standards on the Internet, when a User visits the Website, Practo automatically receive the URL of the site from which such User came and the site to which such User is going when he/she/it leaves. Practo also receives the Internet Protocol (IP) address of each User’s computer (or the proxy server a User used to access the World Wide Web), User’s computer operating system and type of web browser the User is using, email patterns, as well as the name of User’s ISP. This information is used to analyze overall trends to help Practo improve its Service. The linkage between User’s IP address and User’s personally identifiable information is not shared with third parties without such User’s permission or except when required by law. Notwithstanding the above, Practo may share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow its business.
+
+6.7 The Website uses temporary cookies to store certain data (that is not sensitive personal data or information) that is used by Practo and its service providers for the technical administration of the Website, research and development, and for User administration. In the course of serving advertisements or optimizing services to its Users, Practo may allow authorized third parties to place or recognize a unique cookie on the User’s browser. Practo does not store personally identifiable information in the cookies.
+
+6.8 A User may have limited access to the Website and make appointments with the doctors without creating an account on the Website. Unregistered Users can make appointments with the doctors by providing their name and phone number. In order to have access to all the features and benefits on our Website, a User must first create an account on our Website. To create an account a User is required to provide the following information, which such User recognizes and expressly acknowledges is personal information allowing others, including Practo, to identify the User: name, User ID, email address, country, ZIP/postal code, age, phone number, password chosen by the User and valid financial account information. Other information requested on the registration page, including the ability to receive promotional offers from Practo, is optional. Practo may, in future, include other optional requests for information from the User to help Practo to customize the Website to deliver personalized information to the User. Without User’s consent, Practo will not share, rent or sell any personal information with third parties in any way other than what is disclosed in this privacy policy.
+
+6.9 Practo allows other companies, to serve advertisements to the Users. These companies include but not limited to third party ad servers, ad agencies, ad technology vendors and research firms. Practo may display advertisements to Users that fit a certain general profile criteria (“Targets”). Practo does NOT use personally identifiable information to identify Targets for advertising on its Services.
+
+6.10 This privacy policy applies to Services that are owned and operated by Practo. Practo does not exercise control over the sites displayed as search results or links from within its Services. These other sites may place their own cookies or other files on the Users’ computer, collect data or solicit personal information from the Users, for which Practo is not responsible or liable. Accordingly, Practo does not make any representations concerning the privacy practices or policies of such third parties or terms of use of such websites, nor does Practo guarantee the accuracy, integrity, or quality of the information, data, text, software, sound, photographs, graphics, videos, messages or other materials available on such websites. The inclusion or exclusion does not imply any endorsement by Practo of the website, the website's provider, or the information on the website. Practo encourages the User to read the privacy policies of that website.
+
+6.11 The Website may enable User to communicate with other Users or to post information to be accessed by others, whereupon other Users may collect such data. Such Users, including any moderators or administrators, are not authorized Practo representatives or agents, and their opinions or statements do not necessarily reflect those of Practo, and they are not authorized to bind Practo to any contract. Practo hereby expressly disclaims any liability for any reliance or misuse of such information that is made available by Users or visitors in such a manner. 
+
+6.12 Practo does not collect information about the visitors of the Website from other sources, such as public records or bodies, or private organisations, save and except for the purposes of registration of the Users (the collection, storage and disclosure of which each End User must agree to under the terms of use in order for Practo to effectively render the Services).
+
+6.13 Practo does not knowingly collect personal data from children.
+
+6.14 Practo has implemented Indian legal industry standard security policies, rules and technical measures to protect the personal data that it has under its control from unauthorised access, improper use or disclosure, unauthorised modification and unlawful destruction or accidental loss.
+
+6.15 Practo will not disclose any personal information or data to governmental institutions or authorities unless such disclosure is requisitioned under any Indian law or judicial decree or when Practo, in its sole discretion, deems it necessary in order to protect its rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply our terms of use.
+
+6.16 Practo addresses any discrepancies and grievances of all Users with respect to processing of information in a time bound manner. For this purpose, Practo has designated “Anuraag Dubey” as the Grievance Officer, who will redress the grievances of the Users expeditiously within a maximum of one month from the date of receipt of grievance, and who can be reached by:
+
+  1. Sending a letter marked to the attention of “Anuraag Dubey” to Practo Technologies Private Limited, 4th Floor, Abhaya Heights, Bannerghatta Road, Near Jayadeva Flyover, Bangalore, India - 560 078; or  
+  2. Sending an email to grievance@practo.com.
+
+
+  7. Practitioners Note:
+
+
+
+7.1 This section is applicable to Practitioners (“Practitioners”)
+
+7.2 As part of the registration/application creation and submission process that is available to Practitioners on Website, certain information, including sensitive personal data or information is collected from the Practitioners.
+
+7.3 All the statements in this privacy policy apply to all Practitioners, and all Practitioners are therefore required to read and understand the privacy statements set out herein prior to submitting any sensitive personal data or information to Practo, failing which they are required to leave this Website immediately.
+
+7.4 Practitioners personally identifiable information they choose to provide on the Website is used to help the Practitioners describe / identify themselves. This information is exclusively owned by Practo. Practo may use such information for commercial purposes and in an aggregated or non-personally identifiable form for research, statistical analysis and business intelligence purposes, and may sell or otherwise transfer such research, statistical or intelligence data in an aggregated or non-personally identifiable form to third parties and affiliates.
+
+7.5 Practo automatically lists Practitioners’ information on its Website for every ‘Doctor’ added to a Practice using its Software. The Practitioner information listed on Website is displayed when Patients search for doctors on Website, and the Practitioner information listed on Website is used by Patients to request for doctor appointments. Practo, on its own, does not list any Personally Sensitive Information of such Practitioners.
+
+7.6 Practo also creates Practitioners’ information for Practitioners that have not signed up or registered for Practo Services. Such Practitioners are manually verified over phone or in person by Practo or its associates, and Practo makes every effort to capture accurate information for such Practitioners. However, Practo does not hold any liability for any incorrect or incomplete information appearing on Website for such Practitioners.  
+
+  8. Patients Note:
+
+
+
+8.1 This section is applicable to Patients (“Patients”)
+
+8.2 As part of the registration/application creation and submission process that is available to Patients on this website, certain information, including sensitive personal data or information is collected from the Users.
+
+8.3 All the statements in this privacy policy apply to all Patients, and all Patients are therefore required to read and understand the privacy statements set out herein prior to submitting any sensitive personal data or information to Practo, failing which they are required to leave this Website immediately.
+
+8.4 If you have inadvertently submitted any such information to Practo prior to reading the privacy statements set out herein, and you do not agree with the manner in which such information is collected, stored or used, then you may access, modify and delete all information stored about you by Practo by using options provided on the Website. In addition, any Patients can ask Practo, by sending an email to privacy@practo.com whether Practo is keeping personal data about him/her, and every Patient is also entitled to require Practo to delete and destroy all such information relating to him/her (but not other Users) in its possession.
+
+8.5 Patients’ personally identifiable information they choose to provide on the Website is used to help the Patients describe/identify themselves. Other information that does not personally identify the Patients as an individual, is collected by Practo from Patients (such as, patterns of utilization described above) and is exclusively owned by Practo. Practo may also use such information in an aggregated or non-personally identifiable form for research, statistical analysis and business intelligence purposes, and may sell or otherwise transfer such research, statistical or intelligence data in an aggregated or non-personally identifiable form to third parties and affiliates. If Practo wishes to use any Patients’ personal data for a new purpose, it will seek Patients’ permission before doing so.
+
+8.6 Practo will communicate with the Patients through email, phone and notices posted on the Website or through other means available through the service, including text and other forms of messaging based on Patients contact preferences. The Patients can change their e-mail and contact preferences at any time by logging into their "Account" at www.practo.com and changing the account settings.
+
+8.7 At times, Practo conducts a User survey to collect information about Patients' preferences. These surveys are optional and if Patients choose to respond, their responses will be kept anonymous. Similarly, Practo may offer contests to qualifying Patients in which we ask for contact and demographic information such as name, email address and mailing address. None of this information is shared with third parties, except in summary form, if at all. The demographic information that Practo collects in the registration process and through surveys is used to help Practo improve its Services to meet the needs and preferences of Patients. This may include targeting advertising to Patients about our Services. Information we gather through a contest may also be disclosed to third parties, as necessary, for prize fulfillment and other aspects of any contest or similar offering.
+
+8.8 Practo may keep records of telephone calls received and made for making appointments or other purposes for the purpose of administration of Services, research and development and for User administration.
+
+8.9 All Practo employees and data processors, who have access to, and are associated with the processing of sensitive personal data or information, are obliged to respect the confidentiality of every Patients’ sensitive personal data and information.
+
+8.10 Practo may also disclose or transfer Patients’ personal and other information a User provides, to another third party as part of reorganization or a sale of the assets of a Practo corporation division or company. Any third party to which Practo transfers or sells its assets will have the right to continue to use the personal and other information that Patients provide to us.
+
+8.11 Save as set out above, Practo only uses the personal data or information collected from Patients in the manner set out in the section relating to “Registration Process” below. Practo may also use such information in an aggregated or non-personally identifiable form for research, statistical analysis and business intelligence purposes, and may sell or otherwise transfer such research, statistical or intelligence data in an aggregated or non-personally identifiable forms to third parties and affiliates. If Practo wishes to use any Patients’ personal data for a new purpose, it will seek such Patients’ permission before doing so.
+
+8.12 To the extent necessary to provide Patients with the services on the Website, Practo may provide their Personal Information to third party contractors who work on behalf of or with Practo to provide Patients with such services, to help Practo communicate with Patients or to maintain the Website. Generally these contractors do not have any independent right to share this information, however certain contractors who provide services on the Website, including the providers of online communications services, will have rights to use and disclose the Personal Information collected in connection with the provision of these services in accordance with their own privacy policies.
+
+  9. Casual Visitors Note:
+
+
+
+9.1 No sensitive personal data or information is automatically collected by Practo from any casual visitors of this website, who are merely perusing the site.
+
+9.2 Nevertheless, certain provisions of this privacy policy are applicable to even such casual visitors, and such casual visitors are also required to read and understand the privacy statements set out herein, failing which they are required to leave this website immediately.
+
+9.3 If you, as a casual visitor, have inadvertently browsed any other pages of this Website prior to reading the privacy statements set out herein, and you do not agree with the manner in which such information is obtained, stored or used, merely quitting this browser application should ordinarily clear all temporary cookies installed by Practo. All visitors, however, encouraged to use the “clear cookies” functionality of their browsers to ensure such clearing / deletion, as Practo cannot guarantee, predict or provide for the behaviour of the equipment of all the visitors of the Website.
+
+9.4 You are not a casual visitor if you have willingly submitted any personal data or information to Practo through any means, including email, post or through the registration process on the Website. All such visitors will be deemed to be, and will be treated as, End Users for the purposes of this privacy policy, and in which case, all the statements in this privacy policy apply to such persons.
+
+  10. Registration Process
+
+
+
+10.1 As part of the registration process, Practo collects the following personal information from Users:
+
+  1. Name;
+  2. User ID;
+  3. Email address;
+  4. Address (including country and ZIP/postal code);
+  5. Gender;
+  6. Age;
+  7. Phone number;
+  8. Password chosen by the User;
+  9. Valid financial account information; and
+  10. Other details as the End User may volunteer.
+
+
+
+10.2 All the information listed in S. 10.1 of this privacy policy (“User Information”) is maintained by Practo in electronic form on its equipment, and on the equipment of its employees. End User Information may also be converted to physical form from time to time. Regardless of the manner of storage, Practo will keep all End User Information confidential, and will only disclose End User Information in the following manner:
+
+10.3 Practo makes all User Information accessible to its employees only on a need-to-know basis, and binds all such employees to strict confidentiality obligations.
+
+10.4 Part of the functionality of the Software is assisting the doctors to maintain and organise such information. Practo may, therefore, retain and submit all such records to the appropriate authorities, or to doctors who request access to such information.
+
+10.5 Part of the functionality of the Software is assisting the patients to access information relating to them. Practo may, therefore, retain and submit all such records to the relevant patients, or to their doctors.
+
+10.6 Notwithstanding the above, Practo shall not be responsible for any breach of security or for any actions of any third parties that receive Users’ personal data or events that are beyond the reasonable control of Practo including, acts of government, computer hacking, unauthorised access to computer data and storage device, computer crashes, breach of security and encryption, etc.
+
+  11. Change to privacy policy
+
+
+
+11.1 The Users acknowledge that this privacy policy is part of the terms of use and unconditionally agree that becoming a User of the Website and its Services signifies their assent to this privacy policy. User’s visit and any dispute over privacy is subject to this policy and terms of use. Practo may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way Practo treats User’s personally identifiable information, Practo will display a notice on the Website or send Users an email, as provided for above. Unless stated otherwise, Practo’s current privacy policy applies to all information that Practo has about Users and their account. Notwithstanding the above, Practo shall not be required to notify the Users of any changes made to the privacy policy.
+
+11.2 If a User uses the Service after notice of changes have been sent to such User or published on the Website, such User hereby provides his/her/its consent to the changed practices.  
