@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startablogthatmatters.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601194002id_/http%3A//startablogthatmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startablogthatmatters.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225200522id_/http%3A//startablogthatmatters.com/privacy) for the most accurate reproduction.*
 
 # How to Start a Blog that Matters | Insanely Useful Media Privacy
 
