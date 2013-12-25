@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katmirror.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626060252id_/http%3A//katmirror.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katmirror.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225063636id_/http%3A//katmirror.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - KickassTorrents
 
