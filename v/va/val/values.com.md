@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the values.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620124241id_/http%3A//www.values.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the values.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225010350id_/http%3A//www.values.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Values - Pass It On
+
+This policy covers how Values.com and The Foundation for a Better Life treats the personal information you provide and the information related to your past use of our website.
 
 ### GENERAL
 
