@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gardenoflife.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216064223id_/http%3A//gardenoflife.com/Home/tabid/1974/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenoflife.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225114055id_/http%3A//www.gardenoflife.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# GardenOfLife.com - Empowering Extraordinary Health > Home
+# GardenOfLife.com - Empowering Extraordinary Health > Privacy Policy
 
 GardenOfLife.com - Empowering Extraordinary Health is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the GardenOfLife.com - Empowering Extraordinary Health Web site and governs data collection and usage. By using the GardenOfLife.com - Empowering Extraordinary Health website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ GardenOfLife.com - Empowering Extraordinary Health will occasionally update this
 
 Contact Information
 
-GardenOfLife.com - Empowering Extraordinary Health welcomes your comments regarding this Statement of Privacy. If you believe that GardenOfLife.com - Empowering Extraordinary Health has not adhered to this Statement, please contact GardenOfLife.com - Empowering Extraordinary Health at [donotreply@jordanrubin.com](mailto:donotreply@jordanrubin.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+GardenOfLife.com - Empowering Extraordinary Health welcomes your comments regarding this Statement of Privacy. If you believe that GardenOfLife.com - Empowering Extraordinary Health has not adhered to this Statement, please contact GardenOfLife.com - Empowering Extraordinary Health at [donotreply@jordanrubin.com](mailto:donotreply@jordanrubin.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
