@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the 16quotes.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630103010id_/http%3A//16quotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 16quotes.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225202030id_/http%3A//16quotes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 16quotes.com
 
-At 16quotes.com we care of our visitors’ private information. The data that we receive while you are visiting our site is kept secured.
+At 16quotes.com we care of our visitors’ private information. The data that we receive while you are visiting our site is kept secured. 16quotes.com does not sell, rent, loan, trade, or lease any personal information collected at our site.
 
 The privacy policy informs you about the information that we get from you when you visit our site.
+
+**16quotes.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com**
 
 **Log Files**
 
@@ -12,16 +14,10 @@ The data that is accessible for us includes your IP addresses, geographic locati
 
 **Cookies and Web Beacons**
 
-16quotes.com doesn’t use cookies to store information about visitors.
+16quotes.com doesn’t use cookies to store information about visitors. We have no access to or control over these cookies that are used by **third-party advertisers**.
 
-**DoubleClick DART Cookie**
+**Changes to Our Privacy Policy**
 
-We allow  **third-party advertising companies**  (like Google Adsense) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may  **opt out**  of the use of the DART cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect.
 
-Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
-
-Users may opt out of the use of the DoubleClick cookie You can disable cookies you may do so through your individual browser options.
-
-We have no access to or control over these cookies that are used by **third-party advertisers**.
-
-If you have any questions or are interested in further information regarding to the privacy and copyright, please, contact :
+If you have any questions or are interested in further information regarding to the privacy and copyright, please, contact **  \- contact@16quotes.com.**
