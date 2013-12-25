@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftboard.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624174511id_/http%3A//www.shiftboard.com/shiftboard-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftboard.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225201133id_/http%3A//www.shiftboard.com/shiftboard-privacy.html) for the most accurate reproduction.*
 
 # Shiftboard Privacy Policy and Commitment
 
