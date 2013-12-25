@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620084408id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226002256id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
 
 # Instant Checkmate Privacy Policy - The internet's #1 source for Background Checks
+
+[](http://www.instantcheckmate.com/ "Instant Checkmate")
 
 __[Home](https://web.archive.org/) __Privacy Policy
 
@@ -87,4 +89,4 @@ Las Vegas, NV 89103-4052
 
 #### Get Started Now: Search for Someone You Know...
 
-1371717848
+1388017376
