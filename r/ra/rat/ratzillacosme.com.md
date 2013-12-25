@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratzillacosme.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531185747id_/http%3A//www.ratzillacosme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratzillacosme.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225093317id_/http%3A//www.ratzillacosme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,3 +24,10 @@ ratzillacosme.com has no access to or control over these cookies that are used b
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ratzillacosme.com’s privacy policy does not apply to, and cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+[ebay](http://rover.ebay.com/rover/1/706-53473-19255-0/1?icep_ff3=1&pub=5575007827&toolid=10001&campid=5337069668&customid=&ipn=psmain&icep_vectorid=229529&kwid=902099&mtid=824&kw=lg)  
+[Amazon](http://www.amazon.ca/gp/product/B004TF96O8/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B004TF96O8&linkCode=as2&tag=ratzillacosme-20)  
+[Marcelle.com](http://click.linksynergy.com/fs-bin/click?id=LRp/m01qx1Y&offerid=316364.23&type=3&subid=0)  
+[Annabelle.ca](http://click.linksynergy.com/fs-bin/click?id=LRp/m01qx1Y&offerid=316364.24&type=3&subid=0)
+
+[](http://www.hupso.com/share/)
