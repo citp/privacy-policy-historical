@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609143335id_/http%3A//www.uofa.ualberta.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225103010id_/http%3A//www.uofa.ualberta.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - University of Alberta
 
@@ -16,7 +16,7 @@ Although we make no attempt to link the information captured to the identity of 
 
   * the Internet domain and IP address from which you access our website 
   * the type of browser and operating system used to access our site 
-  * screen resolution of your monitor 
+  * screen resolution of your monitor
   * the date and time you access our site 
   * the pages you visit 
   * the address of any website from which you linked to the University of Alberta website 
