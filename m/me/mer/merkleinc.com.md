@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530205542id_/http%3A//merkleinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225112511id_/http%3A//www.merkleinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Merkle
 
@@ -73,4 +73,4 @@ Merkle, Inc.
 Columbia, MD 21046  
 [jreis@merkleinc.com](mailto:jreis@merkleinc.com)
 
-Copyright © 2011, Merkle Inc. All Rights Reserved.
+Copyright © 2013, Merkle Inc. All Rights Reserved.
