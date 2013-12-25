@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestyummyrecipes.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622070528id_/http%3A//www.bestyummyrecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestyummyrecipes.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225022330id_/http%3A//www.bestyummyrecipes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Food Recipes
 
 Privacy Policy for the Website http://www.bestyummyrecipes.com
 
