@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pestleanalysis.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517060128id_/http%3A//pestleanalysis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pestleanalysis.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225121455id_/http%3A//pestleanalysis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | PESTLE Analysis
+# Privacy |PESTLE Analysis
 
 At pestleanalysis.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pestleanalysis.com and how it is used.
 
