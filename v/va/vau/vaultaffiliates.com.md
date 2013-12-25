@@ -1,0 +1,67 @@
+> *The following text is extracted and transformed from the vaultaffiliates.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225015430id_/http%3A//vaultaffiliates.com/privacy) for the most accurate reproduction.*
+
+# Privacy | Vault Affiliates
+
+#### Privacy
+
+Privacy Policy for VaultAffiliates.com
+
+About Us
+
+This is a privacy policy for VaultAffiliates.com – Our homepage on the Web is located at http://www.VaultAffiliates.com.
+
+We invite you to contact us if you have questions about this policy. You may contact us by [clicking here](http://vaultaffiliates.com/contact).
+
+Dispute Resolution
+
+We have the following dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
+
+In-House Resolution: All privacy disputes will be resolved internally by [Customer Service](http://www.vaultaffiliates.com/contact).
+
+Additional Information
+
+This policy is valid for 1 day from the time that it is loaded by a client.
+
+Data Collection
+
+Site Usage Information
+
+Site access logs are stored on the system. Also, information is stored about the computer system that the individual is using to access the network — such as the IP number, domain name, browser type or operating system. This information is used for hardware and application maintenance purposes. Cookies are used for state management purposes (i.e. maintaining a “logged in” status to the site).
+
+We collect the following information: Navigation and click-stream data, Computer information, State management mechanisms. This data will be used for the following purposes: Completion and support of the current activity, Web site and system administration, Research and development.
+
+This data will be used by ourselves and our agents.
+
+Cookies
+
+Cookies are used to keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants.
+
+We collect the following information: HTTP cookies. This data will be used for the following purposes: Other purposes: Cookies are used to keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants.
+
+This data will be used by ourselves and our agents.
+
+Contact Information
+
+This information is collected so that we can maintain communication with the merchants and affiliates that form our network.
+
+We collect the following information: Physical contact information, Online contact information. This data will be used for the following purposes: Other purposes: This information is collected so that we can maintain communication with the merchants and affiliates that form our network.
+
+This data will be used by ourselves and our agents.
+
+Vault Affiliates Network affiliates must agree to receive periodic communications from Vault Affiliates Network. This communication could be in the form of e-mail, instant message, postal mail, telephone or fax.
+
+Merchants and affiliates can modify their contact information once they’ve logged in to the network.
+
+Financial Information
+
+Information on all network transactions are stored and and available to network merchants and affiliates involved in the transactions. Transactions include: clicks generated, leads generated and account transactions. Summarized information is also available in the form of reports.
+
+We collect the following information: Financial information, Transaction history. This data will be used for the following purposes: Historical preservation, Other purposes: Information on all network transactions are stored and and available to network merchants and affiliates involved in the transactions. Transactions include: clicks generated, leads generated and account transactions. Summarized information is also available in the form of reports.
+
+This data will be used by ourselves and our agents.
+
+Cookies
+
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+
+Our site makes use of cookies. Cookies are used for the following purposes: Other: To keep track of visitors to network merchants sent by network affiliates. This ensures affiliates get credited for business generated for merchants.
