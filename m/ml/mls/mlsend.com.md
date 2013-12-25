@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlsend.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501094507id_/http%3A//www.mlsend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsend.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225143506id_/https%3A//www.mlsend.com/privacy-policy) for the most accurate reproduction.*
 
-# Email Marketing Privacy Policy | MailerLite
+# Privacy Policy | MailerLite
 
 At MailerLite, protecting your privacy and the privacy of anyone receiving your email is very important. These policies are for the purpose of making MailerLite safe and appropriate for all.
 
@@ -41,3 +41,7 @@ United Kingdom
 **Telephone:** +44 20 3286 4547
 
 **Email:** [info@mailerlite.com](mailto:info@mailerlite.com)
+
+### Join our newsletter
+
+We send weekly digest with useful articles, latest surveys and our blog posts about email marketing.
