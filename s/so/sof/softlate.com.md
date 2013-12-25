@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softlate.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626175424id_/http%3A//softlate.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlate.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225173243id_/http%3A//softlate.com/home/privacy.html) for the most accurate reproduction.*
 
 # Softlate
 
