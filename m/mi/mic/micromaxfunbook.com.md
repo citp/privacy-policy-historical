@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micromaxfunbook.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627011831id_/http%3A//www.micromaxinfo.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromaxfunbook.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225192738id_/http%3A//www.micromaxinfo.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Micromax - Nothing like Anything
 
