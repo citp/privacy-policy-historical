@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theavettbrothers.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626185217id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theavettbrothers.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225094352id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
 # 
 
