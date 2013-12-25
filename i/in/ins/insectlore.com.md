@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insectlore.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623022046id_/http%3A//www.insectlore.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insectlore.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225232543id_/http%3A//www.insectlore.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,9 +68,4 @@ You should recognize, however, that no computer system is fully secure and that 
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at: 
 
-Insect Lore  
-132 S. Beech Ave.  
-Shafter, CA 93263  
-Phone: 800-213-6124  
-Fax: 661-746-0334  
-Email: customerservice@insectlore.com
+customerservice@insectlore.com
