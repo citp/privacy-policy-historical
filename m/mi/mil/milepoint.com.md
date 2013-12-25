@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the milepoint.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173603id_/http%3A//milepoint.com/forums/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milepoint.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225103223id_/http%3A//milepoint.com/forums/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Milepoint
-
-[ ](https://web.archive.org/)
 
 This Privacy Policy is offered by **_milepoint_** as an extension of our commitment to combine quality content, personal service, and additional services with integrity in dealing with our members. This Privacy Policy covers the **_milepoint_** forums and any associated content including RSS feeds, emails, newsletters, surveys, member comments, and other applications. 
 
@@ -84,3 +82,5 @@ milepoint
 1930 Frequent Flyer Point  
 Colorado Springs, CO 80915  
 [privacy@milepoint.com](mailto:privacy@milepoint.com)
+
+[ ](https://web.archive.org/)
