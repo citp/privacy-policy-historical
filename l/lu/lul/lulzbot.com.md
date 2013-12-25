@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lulzbot.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626052643id_/http%3A//www.lulzbot.com%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulzbot.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225065159id_/http%3A//www.lulzbot.com%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LulzBot
 
