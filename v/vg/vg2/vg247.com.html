@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the vg247.com privacy policy that was archived on 2013-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525113824id_/http%3A//www.vg247.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vg247.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226003416id_/http%3A//www.vg247.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 
 <title>Privacy and Data Policy | VG247</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.vg247.com/wp-content/themes/vg247/style.css?v3">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.vg247.com/wp-content/themes/vg247/style.css?v6">
 <link rel="shortcut icon" href="http://www.vg247.com/wp-content/themes/vg247/_images/favicon.png">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.vg247.com/wp-content/themes/vg247/EventHelpers.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.vg247.com/wp-content/themes/vg247/EventHelpers.js"></script>
 <script type="text/javascript" src="http://www.vg247.com/wp-content/themes/vg247/TypeHelpers.js"></script>
 <link rel="pingback" href="http://www.vg247.com/xmlrpc.php">
 <link rel="alternate" type="application/rss+xml" title="VG247 » Feed" href="http://www.vg247.com/feed/">
@@ -95,6 +95,8 @@
 <!-- END Fancybox for WordPress -->
 <link rel="stylesheet" type="text/css" media="screen, print" href="http://www.vg247.com/wp-content/plugins/recaptcha-form/gd-recaptcha.css">
 <link rel="stylesheet" type="text/css" href="http://www.vg247.com/wp-content/plugins/wp-recaptcha/recaptcha.css">
+	<script type="text/javascript" src="/wp-content/plugins/fancybox-for-wordpress/js/jquery.easing.1.3.min.js"></script>
+
 	<script type="text/javascript" src="http://images.eurogamer.net/js/prototype-1.7.js"></script>
 	<script type="text/javascript" src="http://images.eurogamer.net/js/effects-1.9.0.js"></script>
 	<script type="text/javascript" src="http://images.eurogamer.net/js/controls-1.9.0.js"></script>
@@ -106,48 +108,64 @@
 	</script>
 	<!-- OpenX SPC -->
 	                <script>var OA_source = 'article';</script>
-        					<script type="text/javascript" src="http://ads.eurogamer.net/delivery/spcjs.php?id=29&amp;block=1&amp;target=_blank"></script>
-								<script src="http://s.gb.respondhq.com/scripts/azullo.respond.async.min.js" type="text/javascript"></script>
-					<script type="text/javascript">
-					RespondLoader(function(){
-					Respond.AdBuilder(35);
-					});
-					</script>
-</head>
+        </head>
 
 <body class="page page-id-184666 page-template page-template-default">
+<script type="text/javascript">
+	jQuery('document').ready( function() {
+		blob=' <div id="ccmsg" style=""><p>We allow advertisers and other third parties to place cookies onto your computer when you visit VG24/7 in order to describe traffic patterns and reader habits to prospective advertisers, and to show you relevant products in advertising on this site and other sites you visit.  These statistics will not identify personal identity or information. <a href="/privacy-policy">Read our privacy policy if you are concerned</a>.</p> <button id="ccaccept">Yeah, ok.</button></div>';
+		if( localStorage.getItem('ccdismiss') != 'true' ) {
+			jQuery(blob).hide().prependTo('body').slideDown();
+			jQuery('#ccaccept').click( function() {
+				jQuery('#ccmsg').slideUp();
+				localStorage.setItem('ccdismiss', 'true');
+			} );
+		}
+	} );
+</script>
 
-<div id="floater">
-<div id="frame">
-    <div id="header">
-        <a href="/"><img id="logo" src="http://www.vg247.com/wp-content/themes/vg247/_images/trans.gif" alt="trans" width="250" height="67"></a>
-        <ul class="topnav" id="primary-nav">
-		<li><a class="active" href="/">Home</a></li><li><a href="/category/sony/">Sony</a></li><li><a href="/category/microsoft/">Microsoft</a></li><li><a href="/category/nintendo/">Nintendo</a></li><li><a href="/category/pc/">PC</a></li><li><a href="/category/mac/">Mac</a></li><li><a href="/category/video/">Video</a></li><li><a href="/category/screens/">Screens</a></li><li><a href="/category/publishers/">Publishers</a></li><li><a href="/category/genres/">Genres</a></li><li><a href="/category/indie/">Indie</a></li><li><a href="/category/mobile/">Mobile</a></li><li><a href="/category/charts/">Charts</a></li>        </ul>
-                <ul class="topnav" id="secondary-nav">
-        <li><a href="/my-news/">My News</a></li><li><a href="/latest-comments/">Latest Comments</a></li><li><a href="/forum/">Forum</a></li><li><a href="http://www.shotdeadinthehead.com/collection/vg247?utm_source=VG24_HP_SD_CP&amp;utm_medium=LN&amp;utm_content=TE&amp;utm_campaign=VG247%5FShop%5FButton">Shop</a></li><li><a href="/staff/">Staff</a></li><li><a href="/contact/">Contact</a></li><li><a href="http://www.facebook.com/pages/VG247com/190017407702654">Facebook</a></li><li><a href="http://twitter.com/vg247">Twitter</a></li><li><a href="/feed/">RSS</a></li>        </ul>
-                <div id="header-forms">
-            <form role="search" method="get" id="searchform" action="http://www.vg247.com/">
+<div class="headfloat">
+	<div id="header">
+	    <a href="/"><img id="logo" src="http://www.vg247.com/wp-content/themes/vg247/_images/trans.gif" alt="trans" width="250" height="67"></a>
+	    
+	    <div class="socialbuttons">
+	    	<a class="twitter" href="http://twitter.com/vg247"><span>Twitter</span></a>
+	    	<a class="facebook" href="http://www.facebook.com/pages/VG247com/190017407702654"><span>Facebook</span></a>
+	    	<a class="rss" href="http://www.vg247.com/feed/"><span>RSS</span></a>
+	    	<a class="youtube" href="http://youtube.com/MrVG247"><span>YouTube</span></a>
+	    </div>
+	
+	    <div id="header-forms">
+	        <form role="search" method="get" id="searchform" action="http://www.vg247.com/">
 	<input id="searchterm" class="headerfield" type="text" value="" name="s">
 	<input type="submit" id="searchsubmit" class="headersubmit" value="Search">
-	</form>            <div id="login">
-            	            	<form name="loginform" id="loginform" action="/wp-login.php" method="post">
+	</form>	        <div id="login">
+	        		        	<form name="loginform" id="loginform" action="/wp-login.php" method="post">
 					<input class="headerfield" type="text" name="log" id="username" value="Username" onfocus="javascript: if ( this.value == 'Username' ) this.value = '';" onblur="javascript: if ( this.value == '' ) this.value = 'Username';">
 					<input class="headerfield" type="password" name="pwd" id="password" value="Password" onfocus="javascript: if ( this.value == 'Password' ) this.value = '';" onblur="javascript: if ( this.value == '' ) this.value = 'Password';">
-                	<input class="headersubmit" type="submit" value="Log in">
-                </form>
-                <a href="/wp-login.php?action=register" title="Register">Register</a> |
-                <a href="/wp-login.php?action=lostpassword" title="Forgotten Password?">Forgotten password?</a>
-                            </div>
-        </div>
-    </div>
-    <div id="leader">
-        <script type="text/javascript">
-		OA_show(337);
-	</script>
-    </div>
-    <div id="main">
+	            	<input class="headersubmit" type="submit" value="Log in">
+	            </form>
+	            <p class="loginstatus">
+		            <a href="/wp-login.php?action=register" title="Register">Register</a> |
+		            <a href="/wp-login.php?action=lostpassword" title="Forgotten Password?">Forgotten password?</a>
+		        </p>
+		            				<p></p>
+	        </div>
+	    </div>
+	</div>
+</div>
 
-        
+<div id="page-wrapper">
+
+	<div id="leader" class="advert" data-ad-zone="490478"></div> 
+
+<div id="page">
+    <div id="main">
+	    <ul class="topnav" id="primary-nav">
+		<li><a class="active" href="/">Home</a></li><li><a href="/category/sony/">Sony</a></li><li><a href="/category/microsoft/">Microsoft</a></li><li><a href="/category/nintendo/">Nintendo</a></li><li><a href="/category/pc/">PC</a></li><li><a href="/category/mac/">Mac</a></li><li><a href="/category/video/">Video</a></li><li><a href="/category/screens/">Screens</a></li><li><a href="/category/publishers/">Publishers</a></li><li><a href="/category/genres/">Genres</a></li><li><a href="/category/indie/">Indie</a></li><li><a href="/category/mobile/">Mobile</a></li><li><a href="/category/charts/">Charts</a></li>	    </ul>
+	    	    <ul class="topnav" id="secondary-nav">
+	    <li><a href="/my-news/">My News</a></li><li><a href="/latest-comments/">Latest Comments</a></li><li><a href="/forum/">Forum</a></li><li><a href="http://www.shotdeadinthehead.com/collection/vg247?utm_source=VG24_HP_SD_CP&amp;utm_medium=LN&amp;utm_content=TE&amp;utm_campaign=VG247%5FShop%5FButton">Shop</a></li><li><a href="/staff/">Staff</a></li><li><a href="/contact/">Contact</a></li><li><a href="http://www.facebook.com/pages/VG247com/190017407702654">Facebook</a></li><li><a href="http://twitter.com/vg247">Twitter</a></li><li><a href="/feed/">RSS</a></li>	    </ul>
+	            
 
 <div id="content" class="page">
 
@@ -196,100 +214,95 @@
 
 </div>
     <div id="rightstuff">
-        <div id="halfpage">
-            <script type="text/javascript">OA_show(341); </script>
-        </div>
+        <div id="halfpage" class="advert" data-ad-zone="490476"></div>
         
-        <div id="mpu1">
-	        <script type="text/javascript">OA_show(338);</script>
-	</div>
+        <div id="mpu1" class="advert" data-ad-zone="490477"></div>
 
         <div class="sidebox" id="latest-comments">
             <h3><a href="/latest-comments">Latest Comments</a> <span><a href="/latest-comments">Visit</a></span></h3>
                         																            <div class="comment-header">
-                <a class="comment-count" href="http://www.vg247.com/2013/05/24/destiny-may-release-on-pc-considering-cross-platform-saves/#comments">28<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="http://www.vg247.com/2013/05/24/destiny-may-release-on-pc-considering-cross-platform-saves/#comments">Destiny may release on PC, considering cross-platform saves</a></p>
-            </div><ul><li>Erthazus: <a href="http://www.vg247.com/2013/05/24/destiny-may-release-on-pc-considering-cross-platform-saves/comment-page-1/#comment-483114">“@26, As always. Just words and 0 facts at all. You don't kno…”</a></li><li><a href="http://www.youtube.com/user/Uncharted2007?annotation_id=channel%3A1d9ffc12-6bca-2caf-8be7-e0cd537a0&amp;" rel="external nofollow" class="url">Lengendaryboss</a>: <a href="http://www.vg247.com/2013/05/24/destiny-may-release-on-pc-considering-cross-platform-saves/comment-page-1/#comment-483110">“^The War Between two warring factions who will win? 
-http:/…”</a></li><li>Da Man: <a href="http://www.vg247.com/2013/05/24/destiny-may-release-on-pc-considering-cross-platform-saves/comment-page-1/#comment-483106">“http://www.vg247.com/2…”</a></li></ul>            <div class="comment-header">
-                <a class="comment-count" href="http://www.vg247.com/2013/05/24/xbox-one-pre-owned-game-activation-to-cost-around-35-report/#comments">155<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="http://www.vg247.com/2013/05/24/xbox-one-pre-owned-game-activation-to-cost-around-35-report/#comments">Xbox One: pre-owned activation to cost £35 – report</a></p>
-            </div><ul><li>monkeygourmet: <a href="http://www.vg247.com/2013/05/24/xbox-one-pre-owned-game-activation-to-cost-around-35-report/comment-page-4/#comment-483113">“@153
+                <a class="comment-count" href="http://www.vg247.com/2013/12/24/that-was-the-news-vg247s-christmas-2013-podcasts-episode-1/#comments">28<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="http://www.vg247.com/2013/12/24/that-was-the-news-vg247s-christmas-2013-podcasts-episode-1/#comments">That was the news: VG247′s Christmas 2013 podcasts, episode 1</a></p>
+            </div><ul><li>wishdokta: <a href="http://www.vg247.com/2013/12/24/that-was-the-news-vg247s-christmas-2013-podcasts-episode-1/comment-page-1/#comment-575109">“@cyclone
+Look closely at the embedded soundcloud thingy.”</a></li><li>Dualshok 4: <a href="http://www.vg247.com/2013/12/24/that-was-the-news-vg247s-christmas-2013-podcasts-episode-1/comment-page-1/#comment-575102">“at site http://gamefa.com/ sing in.similar to this site.”</a></li><li>Dualshok 4: <a href="http://www.vg247.com/2013/12/24/that-was-the-news-vg247s-christmas-2013-podcasts-episode-1/comment-page-1/#comment-575101">“helo.please comming to site or web site gamefa. http://gamef…”</a></li></ul>            <div class="comment-header">
+                <a class="comment-count" href="http://www.vg247.com/2013/12/23/destiny-began-as-a-third-person-only-title/#comments">12<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="http://www.vg247.com/2013/12/23/destiny-began-as-a-third-person-only-title/#comments">Destiny began as a third-person only title</a></p>
+            </div><ul><li>Hcw87: <a href="http://www.vg247.com/2013/12/23/destiny-began-as-a-third-person-only-title/comment-page-1/#comment-575108">“Well considering this is Bungie (and they've allways done FP…”</a></li><li>Keivz: <a href="http://www.vg247.com/2013/12/23/destiny-began-as-a-third-person-only-title/comment-page-1/#comment-575107">“I've always disliked the first person perspective. I find it…”</a></li></ul>            <div class="comment-header">
+                <a class="comment-count" href="http://www.vg247.com/2013/12/25/a-very-merry-vg247-christmas-wishlists-and-happy-memories/#comments">6<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="http://www.vg247.com/2013/12/25/a-very-merry-vg247-christmas-wishlists-and-happy-memories/#comments">A very merry VG247 Christmas: wishlists and happy memories</a></p>
+            </div><ul><li>Cobra951: <a href="http://www.vg247.com/2013/12/25/a-very-merry-vg247-christmas-wishlists-and-happy-memories/comment-page-1/#comment-575106">“While the entire world may not celebrate Christmas today, ma…”</a></li><li>Dualshok 4: <a href="http://www.vg247.com/2013/12/25/a-very-merry-vg247-christmas-wishlists-and-happy-memories/comment-page-1/#comment-575100">“helo.please comming to site or web site gamefa. http://gamef…”</a></li></ul>            <div class="comment-header">
+                <a class="comment-count" href="http://www.vg247.com/2013/12/24/batman-arkham-announcement-coming-december-31/#comments">14<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="http://www.vg247.com/2013/12/24/batman-arkham-announcement-coming-december-31/#comments">Batman Arkham announcement coming December 31</a></p>
+            </div><ul><li>TrickyAudio: <a href="http://www.vg247.com/2013/12/24/batman-arkham-announcement-coming-december-31/comment-page-1/#comment-575105">“Oh snap.
 
-Sorry G1GA, I was going off topic! :)
+Arkham City is on sale on PSN, was gunna grab it…”</a></li></ul>            <div class="comment-header">
+                <a class="comment-count" href="http://www.vg247.com/2013/12/23/mass-effect-4-to-be-recognisable-despite-all-the-changes/#comments">18<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="http://www.vg247.com/2013/12/23/mass-effect-4-to-be-recognisable-despite-all-the-changes/#comments">Mass Effect 4 is recognisable, despite all the changes</a></p>
+            </div><ul><li>Phoenixblight: <a href="http://www.vg247.com/2013/12/23/mass-effect-4-to-be-recognisable-despite-all-the-changes/comment-page-1/#comment-575104">“@17
 
-Yeah, the �…”</a></li><li>laughing-gravy: <a href="http://www.vg247.com/2013/05/24/xbox-one-pre-owned-game-activation-to-cost-around-35-report/comment-page-4/#comment-483112">“As far as I'm aware you do need an internet connection to us…”</a></li><li><a href="http://www.youtube.com/user/G1GAHURTZ?feature=mhum" rel="external nofollow" class="url">G1GAHURTZ</a>: <a href="http://www.vg247.com/2013/05/24/xbox-one-pre-owned-game-activation-to-cost-around-35-report/comment-page-4/#comment-483109">“@150:
-
-Why not?
-
-What other industry is there where you…”</a></li><li>monkeygourmet: <a href="http://www.vg247.com/2013/05/24/xbox-one-pre-owned-game-activation-to-cost-around-35-report/comment-page-4/#comment-483105">“@149
-
-Come on dude, these aren't even baby steps anymore..…”</a></li></ul>            <div class="comment-header">
-                <a class="comment-count" href="http://www.vg247.com/2013/05/24/xbox-one-opinions-from-developers-vary-on-kinect-2-always-on-tv-focus/#comments">39<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="http://www.vg247.com/2013/05/24/xbox-one-opinions-from-developers-vary-on-kinect-2-always-on-tv-focus/#comments">Xbox One opinions from developers vary on Kinect 2, TV centric focus</a></p>
-            </div><ul><li><a href="http://www.youtube.com/user/Uncharted2007?annotation_id=channel%3A1d9ffc12-6bca-2caf-8be7-e0cd537a0&amp;" rel="external nofollow" class="url">Lengendaryboss</a>: <a href="http://www.vg247.com/2013/05/24/xbox-one-opinions-from-developers-vary-on-kinect-2-always-on-tv-focus/comment-page-1/#comment-483111">“@37
-LOL :D”</a></li><li>manamana: <a href="http://www.vg247.com/2013/05/24/xbox-one-opinions-from-developers-vary-on-kinect-2-always-on-tv-focus/comment-page-1/#comment-483108">“@poly the gamasutra opinion defo nailed it.”</a></li><li>Christopher Jack: <a href="http://www.vg247.com/2013/05/24/xbox-one-opinions-from-developers-vary-on-kinect-2-always-on-tv-focus/comment-page-1/#comment-483107">“@35, Need help getting that stick outta your arse?”</a></li></ul>            
+We will see how damaged the IP is when this iteration…”</a></li><li>Henry: <a href="http://www.vg247.com/2013/12/23/mass-effect-4-to-be-recognisable-despite-all-the-changes/comment-page-1/#comment-575103">“It's still about the ME3 ending. I know people are tired of…”</a></li></ul>            
 
         </div>
         
-<script type="text/javascript">OA_show(343);</script>
+        <div id="mpu2" class="advert" data-ad-zone="490479"></div>   
 
         <div class="sidebox" id="forum">
             <h3><a href="/forum">On The Forum</a> <span><a href="/forum">Visit</a></span></h3>
                         
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10814#post-50374">2<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10814#post-50374">Steam - What if you die?</a><br>
-                2 posts - latest 1 hour ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=54002#post-105486">26<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=1&amp;id=54002#post-105486">You guys have been so damn correct about this...</a><br>
+                26 posts - latest 57 mins ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10516#post-50359">30<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10516#post-50359">PS4 or Xbox One?</a><br>
-                30 posts - latest 4 hours ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=54018#post-105484">4<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=1&amp;id=54018#post-105484">Left 4 Dead 2 For Free Today !!!!</a><br>
+                4 posts - latest 2 hours ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10726#post-50355">2<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10726#post-50355">This Holiday Weekend at VG247</a><br>
-                2 posts - latest 4 hours ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=53986#post-105473">21<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=1&amp;id=53986#post-105473">Looking for good story-driven RPG</a><br>
+                21 posts - latest 11 hours ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10727#post-50336">6<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10727#post-50336">God Tier Tracks (music)...</a><br>
-                6 posts - latest 6 hours ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=54017#post-105469">1<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=1&amp;id=54017#post-105469">Loss Your Fat</a><br>
+                1 post - latest 11 hours ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10385#post-50325">20<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10385#post-50325">MS. Total Screw up........</a><br>
-                20 posts - latest 7 hours ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=54016#post-105468">1<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=1&amp;id=54016#post-105468">Download Movies</a><br>
+                1 post - latest 12 hours ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10632#post-50306">6<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10632#post-50306">Please FIGHT the shitty SPAM!</a><br>
-                6 posts - latest 9 hours ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=3&amp;id=49962#post-105467">70<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=3&amp;id=49962#post-105467">Community tech and funtionality update - speak now</a><br>
+                70 posts - latest 12 hours ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=140&amp;id=66#post-50265">4192<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=140&amp;id=66#post-50265">News?</a><br>
-                4192 posts - latest 14 hours ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=5&amp;id=51871#post-105466">121<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=5&amp;id=51871#post-105466">VG247 Community GOTY 2013 Polling Page</a><br>
+                121 posts - latest 13 hours ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10687#post-50259">3<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10687#post-50259">So, it seems Blizzard has decided to open borders</a><br>
-                3 posts - latest 14 hours ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=54001#post-105453">3<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=1&amp;id=54001#post-105453">Cannon has NO SOUND!</a><br>
+                3 posts - latest 23 hours ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10551#post-50149">5<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10551#post-50149">Isnt it just amazing really. :)</a><br>
-                5 posts - latest 1 day ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=54009#post-105452">1<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=1&amp;id=54009#post-105452">Hello Games flooded.</a><br>
+                1 post - latest 23 hours ago</p>
             </div>
             <div class="forum comment-header">
-                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=10620#post-50109">1<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
-                <p><a href="/forum/topic.php?page=1&amp;id=10620#post-50109">Pawn Swap? Dragons Dogma Dark Arisen PS3</a><br>
-                1 post - latest 1 day ago</p>
+                <a class="comment-count" href="/forum/topic.php?page=1&amp;id=54008#post-105446">4<img src="http://www.vg247.com/wp-content/themes/vg247/_images/comment-trail-alt.png" alt="comment-trail-alt" width="5" height="5"></a>
+                <p><a href="/forum/topic.php?page=1&amp;id=54008#post-105446">Forgot the name of this indie game... please help!</a><br>
+                4 posts - latest 1 day ago</p>
             </div>            
 
-        </div>
-	<script type="text/javascript">OA_show(344);</script>				
-						<script type="text/javascript">OA_show(567);</script>	
+        </div>				
+					                    
+	   <div id="mpu-scroll" class="advert" data-ad-zone="490481"></div> 
     </div>
 	<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
     <script>
@@ -306,10 +319,36 @@ LOL :D”</a></li><li>manamana: <a href="http://www.vg247.com/2013/05/24/xbox-on
         document.getElementById('fb-root').appendChild(e);
       }());
     </script>
-    
-<script type="text/javascript">OA_show(342);</script>
+   
+<div id="background-skin" class="advert" data-ad-zone="490474"></div> 
+<div id="ad-break" class="advert" data-ad-zone="517646"></div>
 
-<script type="text/javascript">OA_show(540);</script>
+<script type="text/javascript" src="http://ox-d.gamer-network.net/jstag"></script>
+<script type="text/javascript" src="/wp-content/themes/vg247/_scripts/postscribe.js"></script>
+<script type="text/javascript" src="/wp-content/themes/vg247/_scripts/openxJSON.js"></script>
+
+<script type="text/javascript">
+  jQuery('document').ready(function() {
+
+    tags = {};
+      
+    try {
+      if(OA_source) {
+        tags = { 'source' : OA_source };
+      }
+    } catch(e) {}
+
+    ad_unit_groups = {
+      'takeover' : {
+        'id' : '16525',
+        'family' : { 'skin' : '490474', 'halfpage' : '490476', 'leaderboard' : '490478' }
+      }
+    };
+
+    jQuery('.advert').getOXJSONads({'custom_variables' : tags, 'ad_unit_groups' : ad_unit_groups});
+
+  });
+</script>
 
 <script type="text/javascript">
 
@@ -323,6 +362,16 @@ LOL :D”</a></li><li>manamana: <a href="http://www.vg247.com/2013/05/24/xbox-on
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+</script>
+
+<script>
+  // this is the rollup tracker across all network sites - hence the tracker id is hardcoded
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-44691239-1', '.vg247.com');
+  ga('send', 'pageview');
 </script>
 
 <!-- Begin comScore Tag -->
@@ -350,7 +399,9 @@ src="http://b.scorecardresearch.com/p?c1=2&c2=8045775&c3=&c4=&c5=&c6=&c15=&cj=1"
 </noscript>
 <!-- End comScore Tag --> 
 
+</div>
+</div>
 
 
 
-</div></div></body></html>
+</body></html>
