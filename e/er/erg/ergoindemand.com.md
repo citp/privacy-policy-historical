@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ergoindemand.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625054203id_/http%3A//www.ergoindemand.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ergoindemand.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225072204id_/http%3A//www.ergoindemand.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Ergo In Demand - Privacy Policy
+# ergoindemand.com - Privacy Policy
 
 |  | 
 
-[ Home](https://web.archive.org/web/20130625054203id_/http%3A//www.ergoindemand.com/index.html) > FAQ  & Policies
+[ Home](https://web.archive.org/web/20131225072204id_/http%3A//www.ergoindemand.com/index.html) > FAQ  & Policies
 
 ##  \- Learn about how keep your personal and purchase information safe and private.
 
@@ -63,7 +63,7 @@ In an attempt to provide you with increased value, we may include third party li
 Changes to our policy  
 If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on September 26th, 2007.  
 Questions and feedback  
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue by email at [ ](https://web.archive.org/web/20130625054203id_/http%3A//www.ergoindemand.com/contact.htm) or by phone at 1-800-888-6024.  
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue by email at [ ](https://web.archive.org/web/20131225072204id_/http%3A//www.ergoindemand.com/contact.htm) or by phone at 1-800-888-6024.  
 Online Policy Only  
 This online privacy policy applies only to information collected through our website and not to information collected offline.  
   
@@ -76,5 +76,14 @@ By using our site, you consent to our privacy policy.
 * * * | Learning Center
 * * * | Site Links
 * * * ---|---|---|---|---  
+| 
+
+[](https://certs.websiteprotection.com/sealws/?sealId=51018e12-2edc-4944-bdfc-1096cbdd56cb&pop=true)
+
+|  |  |   
+---|---|---|---  
+| Find us on: | [](http://www.facebook.com/pages/Ergo-In-Demand/94320617294) | [Facebook](http://www.facebook.com/pages/Ergo-In-Demand/94320617294) | [](http://twitter.com/ergoindemand) | [Twitter](http://twitter.com/ergoindemand) | [](http://www.youtube.com/user/ErgoInDemand) | [YouTube](http://www.youtube.com/user/ErgoInDemand)  
+---|---|---|---|---|---|---  
+© Copyright 2000 to 2014  ~  ergoindemand.com  ~  4900 Industry Drive,  Central Point, OR 97502  
   
 
