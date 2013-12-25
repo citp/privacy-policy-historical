@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the7figuresecrets.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531070722id_/http%3A//micromodelbusinesssystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the7figuresecrets.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225184718id_/http%3A//micromodelbusinesssystem.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
