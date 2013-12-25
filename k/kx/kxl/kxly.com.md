@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605050409id_/http%3A//www.kxly.com/kxly/about/KXLY-com-Privacy-Policy/-/101046/1084650/-/11psa7lz/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225104430id_/http%3A//www.kxly.com/kxly/about/KXLY-com-Privacy-Policy/-/101046/1084650/-/11psa7lz/-/index.html) for the most accurate reproduction.*
 
 # KXLY.com Privacy Policy | About KXLY - KXLY.com
 
