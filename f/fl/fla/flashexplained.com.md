@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashexplained.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531215543id_/http%3A//flashexplained.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashexplained.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225101155id_/http%3A//flashexplained.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Flash Explained
+# Privacy Policy
 
 ## Privacy Policy
 
