@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themortonreport.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626222858id_/http%3A//www.themortonreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themortonreport.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225070227id_/http%3A//www.themortonreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Morton Report
 
