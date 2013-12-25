@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milwaukeetool.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120033330id_/http%3A//www1.milwaukeetool.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milwaukeetool.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225053142id_/https%3A//www.milwaukeetool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Milwaukee Tool
 
