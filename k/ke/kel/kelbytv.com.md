@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelbytv.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503031122id_/http%3A//kelbytv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelbytv.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225183339id_/http%3A//kelbytv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kelby TV
 
