@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betcheslovethis.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621084244id_/http%3A//www.betcheslovethis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betcheslovethis.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225040807id_/http%3A//www.betcheslovethis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Betches Love This
 
@@ -14,6 +14,10 @@ Cookies Betches may use cookies. A cookie is a piece of data stored on your comp
 
 Third Party Cookies In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. Betches has no access to or control over these cookies, once we have given permission for them to be set. This privacy statement covers the use of cookies by Betches only and does not cover the use of cookies by any advertisers or other partners.
 
+The Google Analytics features you've implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.
+
 Log Files and Web Beacons Like most standard Web site servers we use log files. These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We use this information to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
 For your safety, we do not link IP addresses to personal information unless we notify you or unless necessary to enforce the terms and conditions of our website. In general the use of log files is simply to monitor traffic on our website and in the event necessary, troubleshoot technical problems. Please note that in the event of an abuse by a user of our website we may block certain IP addresses. In addition to cookies and log files we do at times use a common internet technology called “web beacons”. These are small graphic images placed on a web page, web based document, or an email address that is designed specifically to allow us or our third parties vendors to collect certain information and monitor use activity on our website. Please note these are invisible to the user because they are typically very small. In furtherance of our Privacy Policy please note we do not use web beacons to collect the personal information about you. We may use them to collect non-personal information such as IP addresses of the computer that the web beacon said to, the URL of the page where the web user comes from and the time the web beacon is activated.
@@ -28,4 +32,4 @@ Notification of Changes There may be an occasion when we will revise and update 
 
 Third Party Advertisers We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-Contact Information If you have any questions or suggestions regarding our privacy policy, please contact headbetches@betcheslovethis.com. 
+Contact Information If you have any questions or suggestions regarding our privacy policy, please contact headbetches@betcheslovethis.com.
