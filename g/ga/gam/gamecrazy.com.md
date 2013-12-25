@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606014308id_/http%3A//gamecrazy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225104952id_/http%3A//gamecrazy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The NEW Game Crazy
 
