@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mindbodygreen.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530065755id_/http%3A//www.mindbodygreen.com/privacy.action) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindbodygreen.com privacy policy that was archived on 2013-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225065643id_/http%3A//www.mindbodygreen.com/privacy.action) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -12,15 +12,15 @@
     <meta property="og:image" content="http://res.mindbodygreen.com/img/nav/mbg-logo.png">
     <meta property="og:site_name" content="MindBodyGreen">
     <meta name="google-site-verification" content="F9B8Vqp_YKib9r1hHD9mpOI7O2Cf1kFOxn8yBvA5fig">
-    <link rel="Shortcut Icon" href="//res.mindbodygreen.com/img/nav/favicon.ico">
+    <link rel="Shortcut Icon" href="http://res.mindbodygreen.com/img/nav/favicon.ico">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro|Asap:400,700,400italic,700italic">
-<link rel="stylesheet" href="/css/bootstrap.1.1.min.css">
-<link rel="stylesheet" href="//res.mindbodygreen.com/css/bootstrap-responsive.1.0.min.css">
-<link rel="stylesheet" href="//res.mindbodygreen.com/css/site.1.6.min.css">
-<link rel="stylesheet" href="//res.mindbodygreen.com/css/responsive.1.4.min.css">
+<link rel="stylesheet" href="/css/bootstrap.1.3.min.css">
+<link rel="stylesheet" href="http://res.mindbodygreen.com/css/bootstrap-responsive.1.0.min.css">
+<link rel="stylesheet" href="http://res.mindbodygreen.com/css/site.3.2.min.css">
+<link rel="stylesheet" href="http://res.mindbodygreen.com/css/responsive.2.2.min.css">
 
 <!-- Begin comScore Tag -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://cdn.yb0t.com/js/yieldbot.intent.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>
 	var _comscore = _comscore || [];
 	_comscore.push({ c1: "2", c2: "16062849" });
 	(function() {
@@ -67,13 +67,36 @@
     })();
 </script>
 
+<!-- Yieldbot.com Intent Tag LOADING -->
 <script type="text/javascript">
+    var ybotq = ybotq || [];
+    (function() {
+    var js = document.createElement('script');
+    js.src = 'http://cdn.yb0t.com/js/yieldbot.intent.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(js, node);
+    })();
+</script>
+<!-- Yieldbot.com Intent Tag ACTIVATION -->
+<script type="text/javascript">
+    ybotq.push(function () {
+    yieldbot.pub('cf9c');
+    yieldbot.defineSlot('728x90_top');
+    yieldbot.defineSlot('300x250_top');
+    yieldbot.defineSlot('300x250_bottom');
+    yieldbot.enableAsync();
+    yieldbot.go();
+    });
+</script>
+
+<script type="text/javascript">
+  var contentNSFW = 'false';
+  ybotq.push(function() {
     googletag.cmd.push(function() {
-      var curPage = '';
-      var contentNSFW = '';
+      var curPage = 'privacy';
       var width = window.innerWidth || document.documentElement.clientWidth;
 
-      if (width >= 767) {
+      if (width >= 768) {
         // Leaderboard
         if (curPage == 'home') {
           googletag.defineSlot('/1339196/Homepage_728x90_Top', [728, 90], 'div-gpt-ad-1363978403565-0').addService(googletag.pubads());
@@ -81,7 +104,10 @@
           if (contentNSFW=="true") {
             googletag.defineSlot('/1339196/leaderboard_728x90_ROS_NSFW', [728, 90], 'div-gpt-ad-1364480733965-0').addService(googletag.pubads());
           } else {
-            googletag.defineSlot('/1339196/Leaderboard_728x90_ROS', [728, 90], 'div-gpt-ad-1364480591653-0').addService(googletag.pubads());
+            googletag.defineSlot('/1339196/Leaderboard_728x90_ROS', [728, 90], 'div-gpt-ad-1376939039416-0')
+            .setTargeting('ybot_ad', yieldbot.adAvailable('728x90_top'))
+            .setTargeting('ybot_slot', '728x90_top')
+            .addService(googletag.pubads());
           }
         }
 
@@ -94,13 +120,16 @@
           googletag.defineSlot('/1339196/Homepage_300x600_3Bottom', [300, 600], 'div-gpt-ad-1365452643495-0').addService(googletag.pubads());
         } else if (curPage == 'feature' || curPage == 'writeformbg') {
           if (contentNSFW == "true") {
-            googletag.defineSlot('/1339196/Features_300x250_NSFW', [300, 250], 'div-gpt-ad-1366813090551-0').addService(googletag.pubads());
+            mbgSlot3 = googletag.defineSlot('/1339196/Features_300x250_NSFW', [300, 250], 'div-gpt-ad-1366813090551-0').addService(googletag.pubads());
             mbgSlot1 = googletag.defineSlot('/1339196/Features_300x6001_NSFW', [300, 600], 'div-gpt-ad-1366813213557-0').addService(googletag.pubads());
-            googletag.defineSlot('/1339196/Features_300x6002_NSFW', [300, 600], 'div-gpt-ad-1366813281639-0').addService(googletag.pubads());
+            mbgSlot2 = googletag.defineSlot('/1339196/Features_300x6002_NSFW', [300, 600], 'div-gpt-ad-1366813281639-0').addService(googletag.pubads());
           } else {
-            googletag.defineSlot('/1339196/Features_300x250_ROS', [300, 250], 'div-gpt-ad-1364480262601-0').addService(googletag.pubads());
+            mbgSlot3 = googletag.defineSlot('/1339196/Features_300x250_ROS', [300, 250], 'div-gpt-ad-1364480262601-0')
+            .setTargeting('ybot_ad', yieldbot.adAvailable('300x250_bottom'))
+            .setTargeting('ybot_slot', '300x250_bottom')
+            .addService(googletag.pubads());
             mbgSlot1 = googletag.defineSlot('/1339196/Features_300x6001_ROS', [300, 600], 'div-gpt-ad-1364418989501-0').addService(googletag.pubads());
-            googletag.defineSlot('/1339196/Features_300x6002_ROS', [300, 600], 'div-gpt-ad-1364419109470-0').addService(googletag.pubads());
+            mbgSlot2 = googletag.defineSlot('/1339196/Features_300x6002_ROS', [300, 600], 'div-gpt-ad-1364419109470-0').addService(googletag.pubads());
           }
         } else if (curPage == 'directory-results') {
             googletag.defineSlot('/1339196/Features_300x6001_ROS', [300, 600], 'div-gpt-ad-1364418989501-0').addService(googletag.pubads());
@@ -111,7 +140,10 @@
             googletag.defineSlot('/1339196/Features_300x250_NSFW', [300, 250], 'div-gpt-ad-1366813090551-0').addService(googletag.pubads());
           } else {
             googletag.defineSlot('/1339196/Features_300x6001_ROS', [300, 600], 'div-gpt-ad-1364418989501-0').addService(googletag.pubads());
-            googletag.defineSlot('/1339196/Features_300x250_ROS', [300, 250], 'div-gpt-ad-1364480262601-0').addService(googletag.pubads());
+            googletag.defineSlot('/1339196/Features_300x250_ROS', [300, 250], 'div-gpt-ad-1364480262601-0')
+            .setTargeting('ybot_ad', yieldbot.adAvailable('300x250_bottom'))
+            .setTargeting('ybot_slot', '300x250_bottom')
+            .addService(googletag.pubads());
           }
         } else if (curPage == 'city-guide') {
           if (contentNSFW == "true") {
@@ -130,7 +162,7 @@
           }
         }
 
-      } else if ((width < 767) && (width < 510)) {
+      } else if ((width < 768) && (width < 510)) {
 
         // Leaderboard
         if (curPage == 'home') {
@@ -139,7 +171,10 @@
           if (contentNSFW=="true") {
             googletag.defineSlot('/1339196/Leaderboard_ROS_300x250_NSFW', [300, 250], 'div-gpt-ad-1364411841689-0').addService(googletag.pubads());
           } else {
-            googletag.defineSlot('/1339196/Leaderboard_ROS_300x250', [300, 250], 'div-gpt-ad-1364324870003-0').addService(googletag.pubads());
+            mbgSlot1 = googletag.defineSlot('/1339196/Leaderboard_ROS_300x250', [300, 250], 'div-gpt-ad-1364324870003-0')
+            .setTargeting('ybot_ad', yieldbot.adAvailable('300x250_top'))
+            .setTargeting('ybot_slot', '300x250_top')
+            .addService(googletag.pubads());
           }
         }
 
@@ -147,12 +182,13 @@
 
         // Leaderboard
         if (curPage == 'home') {
-          googletag.defineSlot('/1339196/Homepage_Leaderboard_468x60', [468, 60], 'div-gpt-ad-1364482805239-0').addService(googletag.pubads());
+          googletag.defineSlot('/1339196/Homepage_Leaderboard_468x60', [468, 60], 'div-gpt-ad-1386692625263-0').addService(googletag.pubads());
         } else {
           if (contentNSFW=="true") {
             googletag.defineSlot('/1339196/Leaderboard_ROS_468x60_NSFW', [468, 60], 'div-gpt-ad-1364412117506-0').addService(googletag.pubads());
           } else {
-            googletag.defineSlot('/1339196/Leaderboard_ROS_468x60', [468, 60], 'div-gpt-ad-1364324479098-0').addService(googletag.pubads());
+            mbgSlot1 = googletag.defineSlot('/1339196/Leaderboard_ROS_468x60', [468, 60], 'div-gpt-ad-1364324479098-0').addService(googletag.pubads());
+            googletag.defineSlot('/1339196/Leaderboard_ROS_468x60_2', [468, 60], 'div-gpt-ad-1386700125604-0').addService(googletag.pubads());
           }
         }
 
@@ -160,20 +196,34 @@
 
       // One-off pages, non-responsive
       if (curPage == 'shop') {
-        googletag.defineSlot('/1339196/Shop_300x250', [300, 250], 'div-gpt-ad-1363978606528-0').addService(googletag.pubads());
+        googletag.defineSlot('/1339196/Shop_300x250', [300, 250], 'div-gpt-ad-1363978606528-0')
+        .setTargeting('ybot_ad', yieldbot.adAvailable('300x250_bottom'))
+        .setTargeting('ybot_slot', '300x250_bottom')
+        .addService(googletag.pubads());
       } else if (curPage == 'travel') {
-        googletag.defineSlot('/1339196/Travel_Resorts_300x250', [300, 250], 'div-gpt-ad-1363978477286-0').addService(googletag.pubads());
+        googletag.defineSlot('/1339196/Travel_Resorts_300x250', [300, 250], 'div-gpt-ad-1363978477286-0')
+        .setTargeting('ybot_ad', yieldbot.adAvailable('300x250_bottom'))
+        .setTargeting('ybot_slot', '300x250_bottom')
+        .addService(googletag.pubads());
       }
 
-      googletag.pubads().enableSingleRequest();
+      //googletag.pubads().enableSingleRequest();
       googletag.pubads().collapseEmptyDivs();
+      if (curPage == 'feature') {
+        googletag.pubads().setTargeting("storyId", "");  
+      }
+      if (curPage == 'partner') {
+        googletag.pubads().setTargeting("partnerId", "");  
+      }
       googletag.enableServices();
     });
+  });
 </script>
 
-<script src="//res.mindbodygreen.com/js/modernizr.min.js"></script>
-<!--[if lte IE 7]><!--><link rel="stylesheet" href="//res.mindbodygreen.com/css/font-awesome-ie7.min.css"><!--<![endif]-->
-<!--[if lte IE 8]><!--><script src="//res.mindbodygreen.com/js/respond.min.js"></script><!--<![endif]--></head>
+<script src="http://res.mindbodygreen.com/js/modernizr.min.js"></script>
+<!--[if IE 7]><link rel="stylesheet" href="http://res.mindbodygreen.com/css/font-awesome-ie7.min.css"><![endif]-->
+<!--[if lte IE 8]><script src="http://res.mindbodygreen.com/js/respond.min.js"></script><![endif]-->
+</head>
 <body style="zoom: 1;">
 
 	<!-- Mobile Nav -->
@@ -186,10 +236,7 @@
         <li><a href="/Mind">Mind</a></li>
         <li><a href="/Body">Body</a></li>
         <li><a href="/Green">Green</a></li>
-        <li><a href="/video">Videos</a></li>
-        <li><a href="http://mindbodygreen.howaboutwe.com" target="_blank">Dating</a></li>
-        <li><a href="/shop">Shop</a></li>
-        <li><a href="http://travel.mindbodygreen.com/travel">Retreats &amp; Resorts</a></li>
+        <li><a href="/courses">Video Courses</a></li>
     </ul>
 </div><div id="page">
 
@@ -203,9 +250,9 @@
                     <li class="divider-vertical"></li>
                     <li id="search-target"><a href="#" class="nav-right-link"><i class="icon-search"></i></a></li>
                     <li class="divider-vertical"></li>
-                    <li class="nav-social"><a href="http://www.facebook.com/MindBodyGreen" class="nav-right-link" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/fb-24x24.png" alt="Facebook"></a></li>
-                    <li class="nav-social"><a href="https://twitter.com/mindbodygreen" class="nav-right-link" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/twitter-24x24.png" alt="Twitter"></a></li>
-                    <li class="nav-social"><a href="http://pinterest.com/mindbodygreen/" class="nav-right-link" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/pinterest-24x24.png" alt="Pinterest"></a></li>
+                    <li class="nav-social"><a href="http://www.facebook.com/MindBodyGreen" class="nav-right-link connect-facebook" target="_blank"><i class="icon-facebook-sign"></i></a></li>
+                    <li class="nav-social"><a href="https://twitter.com/mindbodygreen" class="nav-right-link connect-twitter" target="_blank"><i class="icon-twitter-sign"></i></a></li>
+                    <li class="nav-social"><a href="http://pinterest.com/mindbodygreen/" class="nav-right-link connect-pinterest" target="_blank"><i class="icon-pinterest-sign"></i></a></li>
                     <li class="divider-vertical"></li>
                 </ul>
             </div>
@@ -230,13 +277,10 @@
                         <a class="nav-primary" data-target="nav-green" href="/Green">Green <i class="icon-caret-down"></i></a>
                     </li>
                     <li class="dropdown">
-                        <a class="nav-primary" data-target="nav-video" href="/video">Videos <i class="icon-caret-down"></i></a>
-                    </li>
-                    <li class="dropdown">
                         <a class="nav-primary" data-target="nav-community" href="#">Community <i class="icon-caret-down"></i></a>
                     </li>
                     <li class="dropdown">
-                        <a class="nav-primary" data-target="nav-shop" href="/shop">Shop <i class="icon-caret-down"></i></a>
+                        <a class="nav-primary" data-target="nav-courses" href="/courses?utm_source=mbg&amp;utm_medium=nav&amp;utm_campaign=courses">Video Courses <i class="icon-caret-down"></i></a>
                     </li>
                 </ul>
             </div>
@@ -253,6 +297,7 @@
             <a href="/tag/personal-growth">Personal Growth</a>
             <a href="/tag/sleeping">Sleeping</a>
             <a href="/tag/spirituality">Spirituality</a>
+            <a href="/video/interviews">Video Interviews</a>
         </div>
         <div class="dropdown-sub nav-body container-fluid">
             <a href="/tag/food">Food</a>
@@ -266,6 +311,7 @@
             <a href="/tag/breathing">Breathing</a>
             <a href="/tag/weight-loss-success">Weight Loss</a>
             <a href="/tag/mind-body-connection">Mind Body Connection</a>
+            <a href="/video/yoga">Yoga Videos</a>
         </div>
         <div class="dropdown-sub nav-green container-fluid">
             <a href="/tag/beauty">Beauty</a>
@@ -274,29 +320,18 @@
             <a href="/tag/home">Home</a>
             <a href="/tag/vegan">Vegan</a>
             <a href="/tag/celebrity">Celebrity</a>
+            <a href="/video">Video</a>
         </div>
-        <div class="dropdown-sub nav-video container-fluid">
-            <a href="/video/interviews">Interviews</a>
-            <a href="/video/yoga">Yoga</a>
+        <div class="dropdown-sub nav-courses container-fluid">
+            <a href="/course/the-essential-guide-to-meditation-with-charlie-knoles?utm_source=mbg&amp;utm_medium=nav&amp;utm_campaign=coursemeditation">Meditation with Charlie Knoles</a>
+            <a href="/course/the-complete-guide-to-yoga-with-tara-stiles?utm_source=mbg&amp;utm_medium=nav&amp;utm_campaign=courseyoga">Yoga with Tara Stiles</a>
+            <a href="/course/the-ultimate-guide-to-plant-based-nutrition-with-rich-roll?utm_source=mbg&amp;utm_medium=nav&amp;utm_campaign=coursenutrition">Plant-Based Nutrition with Rich Roll</a>
         </div>
         <div class="dropdown-sub nav-community container-fluid">
-            <a href="http://mindbodygreen.howaboutwe.com" target="_blank">Dating</a>
-            <a href="http://travel.mindbodygreen.com">Retreats &amp; Resorts</a>
             <a href="/directory">Directory</a>
             <a href="/wellness-guide-nyc-2012-2.html">New York Guide</a>
             <a href="/wellness-guide-miami.html">Miami Guide</a>
-            <a href="/writeformbg.action">Write For Us</a>
-        </div>
-        <div class="dropdown-sub nav-shop container-fluid">
-            <a href="/shop/collections">Collections</a>
-            <a href="/shop/category/yoga">Yoga</a>
-            <a href="/shop/category/beauty">Beauty</a>
-            <a href="/shop/category/pantry">Pantry</a>
-            <a href="/shop/category/books">Books</a>
-            <a href="/shop/category/supplements">Supplements</a>
-            <a href="/shop/category/baby-kids">Baby/Kids</a>
-            <!-- <a href="/shop/category/apparel">Apparel</a> -->
-            <a href="/shop/category/home">Home</a>
+            <a href="/contribute">Write For Us</a>
         </div>
     </div>
 
@@ -315,9 +350,11 @@
             <!-- Leaderboard -->
             <div class="ad-box-top leaderboard">
 <!-- Leaderboard_728x90_ROS -->
-                <div id="div-gpt-ad-1364480591653-0">
+                <div id="div-gpt-ad-1376939039416-0">
                 <script type="text/javascript">
-                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364480591653-0'); });
+                ybotq.push(function() {
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1376939039416-0'); });
+                });
                 </script>
                 </div>
             </div>
@@ -326,14 +363,16 @@
 <!-- Leaderboard_ROS_468x60 -->
                 <div id="div-gpt-ad-1364324479098-0">
                 <script type="text/javascript">
+                ybotq.push(function() {
                 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364324479098-0'); });
+                });
                 </script>
                 </div>
             </div><!-- Right column -->
             <div class="column-right">
 
     <!-- Newsletter -->
-    <div class="feature-box newsletter-box" style="text-align:center;">
+    <div class="feature-box newsletter-box" id="newsletterTop" style="text-align:center;">
         <div class="header"></div>
         <div class="message">Daily Wellness Inspiration Straight To Your Inbox</div>
         <form id="emailsignup-step2" name="emailsignup-step2" action="/emailsignup-step2.action" method="post" class="form-inline"><input type="text" name="emailAddress" value="" id="emailsignup-step2_emailAddress" placeholder="enter your email"><input type="submit" id="emailsignup-step2_0" value="JOIN" class="btn btn-mbg-orange">
@@ -348,7 +387,9 @@
     <!-- Features_300x6001_ROS -->
                     <div id="div-gpt-ad-1364418989501-0">
                     <script type="text/javascript">
+                    ybotq.push(function() {
                     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364418989501-0'); });
+                    });
                     </script>
                     </div>
                 </div>
@@ -357,12 +398,12 @@
     <div class="feature-box follow-box">
         <div class="ribbon">Follow Us Around the Web</div>
         <ul>
-            <li><a href="http://www.facebook.com/MindBodyGreen" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/fb-28x28.png" alt="Facebook"></a></li>
-            <li><a href="http://twitter.com/MindBodyGreen" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/twitter-28x28.png" alt="Twitter"></a></li>
-            <li><a href="http://pinterest.com/mindbodygreen/" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/pinterest-28x28.png" alt="Pinterest"></a></li>
-            <li><a href="https://plus.google.com/106268818973176659041/posts" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/googleplus-28x28.png" alt="Google+"></a></li>
-            <li><a href="http://www.youtube.com/user/mindbodygreen" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/youtube-28x28.png" alt="YouTube"></a></li>
-            <li><a href="/rss/feed.xml" target="_blank"><img src="http://res.mindbodygreen.com/img/nav/rss-28x28.png" alt="RSS"></a></li>
+            <li><a href="http://www.facebook.com/MindBodyGreen" target="_blank" class="connect-facebook social-right-col"><i class="icon-facebook-sign"></i></a></li>
+            <li><a href="http://twitter.com/MindBodyGreen" target="_blank" class="connect-twitter social-right-col"><i class="icon-twitter-sign"></i></a></li>
+            <li><a href="http://pinterest.com/mindbodygreen/" target="_blank" class="connect-pinterest social-right-col"><i class="icon-pinterest-sign"></i></a></li>
+            <li><a href="https://plus.google.com/106268818973176659041/posts" target="_blank" class="connect-gplus social-right-col"><i class="icon-google-plus-sign"></i></a></li>
+            <li><a href="http://www.youtube.com/user/mindbodygreen" target="_blank" class="connect-youtube social-right-col"><i class="icon-youtube-sign"></i></a></li>
+            <li><a href="/rss/feed.xml" target="_blank" class="connect-rss social-right-col"><i class="icon-rss-sign"></i></a></li>
         </ul>
     </div>
 
@@ -374,83 +415,82 @@
              &nbsp;/&nbsp; <a href="#" data-filter="month">this month</a>
             &nbsp;/&nbsp; <a href="#" data-filter="all">all time</a>
         </div>
-
         <div class="pop-week">
         <div class="item">
                     <div class="pic">
-                        <a href="/0-9633/7-pieces-of-advice-i-wish-id-known-when-i-was-younger.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/ThinkingWomanWithFrenchPress-70x70.jpg">
+                        <a href="/0-11994/a-strange-but-effective-at-home-cure-for-the-cold-flu.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/GirlBlowingNoseInHat-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9633/7-pieces-of-advice-i-wish-id-known-when-i-was-younger.html">7 Pieces Of Advice I Wish I'd Known When I Was Younger</a></div>
+                        <div class="title"><a href="/0-11994/a-strange-but-effective-at-home-cure-for-the-cold-flu.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">A Strange (But Effective!) At-Home Cure For The Cold &amp; Flu</a></div>
                         <div class="byline">
-                            <a href="/wc/shannon-kaiser">Shannon Kaiser</a>
+                            <a href="/wc/dr-katie-corazzo">By Dr. Katie Corazzo</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-9657/10-signs-youve-found-the-one.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/WomanRidingPiggyBackOnMan-70x70.jpg">
+                        <a href="/0-12013/5-goals-that-will-change-your-life-more-than-a-new-years-resolution.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/HipsterInSunglassesDenimLeaningOnWall-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9657/10-signs-youve-found-the-one.html">10 Signs You've Found The One</a></div>
+                        <div class="title"><a href="/0-12013/5-goals-that-will-change-your-life-more-than-a-new-years-resolution.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">5 Goals That Will Change Your Life More Than A New Year's Resolution</a></div>
                         <div class="byline">
-                            <a href="/wc/danielle-stein">Danielle Stein</a>
+                            <a href="/wc/natasha-uspensky">By Natasha Uspensky</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-9697/10-super-easy-smoothies-juices-that-will-change-your-life.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/juice-cleanse-3-juices-large-70x70.jpg">
+                        <a href="/0-12048/how-to-tell-if-its-love-or-just-lust.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/Stocksy_txp3091d86cED2000_Small_63039-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9697/10-super-easy-smoothies-juices-that-will-change-your-life.html">10 Super Easy Smoothies &amp; Juices That Will Change Your Life</a></div>
+                        <div class="title"><a href="/0-12048/how-to-tell-if-its-love-or-just-lust.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">How To Tell If It's Love ... Or Just Lust</a></div>
                         <div class="byline">
-                            <a href="/wc/rachel-feldman">Rachel Feldman</a>
+                            <a href="/wc/michelle-alva">By Michelle Alva</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-9654/anti-inflammatory-smoothie-recipe.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/OrangeSmoothie900-70x70.jpg">
+                        <a href="/0-12047/14-great-sources-of-clean-protein.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/shutterstock_150166349-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9654/anti-inflammatory-smoothie-recipe.html">Anti-Inflammatory Smoothie Recipe</a></div>
+                        <div class="title"><a href="/0-12047/14-great-sources-of-clean-protein.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">14 Great Sources Of Clean Protein</a></div>
                         <div class="byline">
-                            <a href="/wc/dr-amy-myers">Dr. Amy Myers</a>
+                            <a href="/wc/nadya-andreeva">By Nadya Andreeva</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-9585/stop-doing-these-7-things-if-you-want-to-get-healthy.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/WomanStretchingByBeach900-70x70.jpg">
+                        <a href="/0-11937/7-tips-to-start-2014-on-a-fabulously-positive-note.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/woman-blonde-surfer-canal-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9585/stop-doing-these-7-things-if-you-want-to-get-healthy.html">Stop Doing These 7 Things If You Want To Get Healthy</a></div>
+                        <div class="title"><a href="/0-11937/7-tips-to-start-2014-on-a-fabulously-positive-note.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">7 Tips To Start 2014 On A Fabulously Positive Note</a></div>
                         <div class="byline">
-                            <a href="/wc/chris-freytag">Chris Freytag </a>
+                            <a href="/wc/chris-freytag">By Chris Freytag</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-9172/my-top-9-superfoods-for-looking-good-feeling-great-losing-weight.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/ChocolateHero-70x70.jpg">
+                        <a href="/0-12028/5-reasons-why-everyone-needs-a-tongue-scraper.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/WomanStickingOutHerTongue-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9172/my-top-9-superfoods-for-looking-good-feeling-great-losing-weight.html">My Top 9 Superfoods For Looking Good, Feeling Great &amp; Losing Weight</a></div>
+                        <div class="title"><a href="/0-12028/5-reasons-why-everyone-needs-a-tongue-scraper.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">5 Reasons Why Everyone Needs A Tongue Scraper</a></div>
                         <div class="byline">
-                            <a href="/wc/dr-frank-lipman">Dr. Frank Lipman</a>
+                            <a href="/wc/gillian-mandich">By Gillian Mandich</a>
                                 </div>
                     </div>
                 </div>
@@ -459,78 +499,79 @@
         <div class="pop-month">
         <div class="item">
                     <div class="pic">
-                        <a href="/0-9426/8-foods-people-think-are-healthy-but-arent.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/Jess-Ainscough-Holistic-Hero-70x70-1.jpg">
+                        <a href="/0-11973/20-things-to-let-go-of-before-the-new-year.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/RedHeadWomanWithBlueJacket900-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9426/8-foods-people-think-are-healthy-but-arent.html">8 Foods People Think Are Healthy (But Aren't)</a></div>
+                        <div class="title"><a href="/0-11973/20-things-to-let-go-of-before-the-new-year.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">20 Things To Let Go Of Before The New Year</a></div>
                         <div class="byline">
-                            <a href="/wc/jess-ainscough">Jess Ainscough</a>
+                            <a href="/wc/shannon-kaiser">By Shannon Kaiser</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-9453/what-your-poop-is-telling-you-about-your-body-infographic.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/poopinfo-70x70.jpg">
+                        <a href="/0-11941/if-you-only-do-10-yoga-poses-do-these.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/arda_chandrasana-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9453/what-your-poop-is-telling-you-about-your-body-infographic.html">What Your Poop Is Telling You About Your Body (Infographic)</a></div>
+                        <div class="title"><a href="/0-11941/if-you-only-do-10-yoga-poses-do-these.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">If You Only Do 10 Yoga Poses, Do These</a></div>
                         <div class="byline">
-                            MindBodyGreen</div>
-                    </div>
-                </div>
-            <div class="item">
-                    <div class="pic">
-                        <a href="/0-9527/10-signs-you-have-way-too-much-cortisol.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/lissa-rankin-hero-70x70.jpg">
-                            </a>
-                    </div>
-                    <div class="description">
-                        <div class="title"><a href="/0-9527/10-signs-you-have-way-too-much-cortisol.html">10 Signs You Have WAY Too Much Cortisol</a></div>
-                        <div class="byline">
-                            <a href="/wc/dr-lissa-rankin">Dr. Lissa Rankin</a>
+                            <a href="/wc/travis-eliot">By Travis Eliot</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-9554/why-juicing-works-a-cardiologist-explains.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/GreenSmoothie900-70x70.jpg">
+                        <a href="/0-11890/5-thoughts-that-will-make-you-instantly-happier.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/surfer-couple-shirtless-cali-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9554/why-juicing-works-a-cardiologist-explains.html">Why Juicing Works: A Cardiologist Explains</a></div>
+                        <div class="title"><a href="/0-11890/5-thoughts-that-will-make-you-instantly-happier.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">5 Thoughts That Will Make You Instantly Happier</a></div>
                         <div class="byline">
-                            <a href="/wc/dr-joel-kahn">Dr. Joel Kahn</a>
+                            <a href="/wc/tina-williamson">By Tina Williamson</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-9392/5-foods-to-eat-yourself-slim.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/grapefruit-landing-hero-70x70.jpg">
+                        <a href="/0-11826/the-one-skill-that-could-save-your-relationship.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/couple-legs-beach-happy-cool-socal-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-9392/5-foods-to-eat-yourself-slim.html">5 Foods To Eat Yourself Slim</a></div>
+                        <div class="title"><a href="/0-11826/the-one-skill-that-could-save-your-relationship.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">The One Skill That Could Save Your Relationship</a></div>
                         <div class="byline">
-                            <a href="/wc/tara-sowlaty">Tara Sowlaty</a>
+                            <a href="/wc/sheryl-paul">By Sheryl Paul</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-8976/this-is-why-you-cant-find-your-soul-mate.html#">
-                            <img src="http://res.mindbodygreen.com/img/crp/SoulMatesHoldingHandsBeach-70x70.jpg">
+                        <a href="/0-11852/25-questions-to-ask-yourself-before-the-end-of-the-year.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/asian-hipster-woman-laying-70x70.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-8976/this-is-why-you-cant-find-your-soul-mate.html">This Is Why You Can't Find Your Soul Mate</a></div>
+                        <div class="title"><a href="/0-11852/25-questions-to-ask-yourself-before-the-end-of-the-year.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">25 Questions To Ask Yourself Before The End Of The Year</a></div>
                         <div class="byline">
-                            <a href="/wc/shelly-bullard">Shelly Bullard</a>
+                            <a href="/wc/ashley-wilhite">By Ashley Wilhite</a>
+                                </div>
+                    </div>
+                </div>
+            <div class="item">
+                    <div class="pic">
+                        <a href="/0-11857/a-hot-cocoa-thats-exploding-with-superfoods.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/HotCocoaInArtisanalMugs-70x70.jpg">
+                            </a>
+                    </div>
+                    <div class="description">
+                        <div class="title"><a href="/0-11857/a-hot-cocoa-thats-exploding-with-superfoods.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">A Hot Cocoa That's Exploding With Superfoods!</a></div>
+                        <div class="byline">
+                            <a href="/wc/kim-murray">By Kim Murray</a>
                                 </div>
                     </div>
                 </div>
@@ -539,102 +580,97 @@
         <div class="pop-all">
         <div class="item">
                     <div class="pic">
-                        <a href="/0-4769/Why-You-Should-Drink-Warm-Water-Lemon.html#">
-                            <img src="http://res.mindbodygreen.com/img/ftr/LemonWater-start200.jpg">
+                        <a href="/0-11785/20-things-we-should-say-more-often.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/crp/KidPresident20ThingsWeShouldSayMoreOften-70x70-1.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-4769/Why-You-Should-Drink-Warm-Water-Lemon.html">Why You Should Drink Warm Water &amp; Lemon</a></div>
+                        <div class="title"><a href="/0-11785/20-things-we-should-say-more-often.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">20 Things We Should Say More Often</a></div>
                         <div class="byline">
-                            <a href="/wc/ashley-pitman">Ashley Pitman</a>
-                                </div>
+                            By MindBodyGreen</div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-3153/Hilarious-Yoga-Mat-for-Sale-Ad-on-Craigslist.html#">
+                        <a href="/0-3153/Hilarious-Yoga-Mat-for-Sale-Ad-on-Craigslist.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
                             <img src="http://res.mindbodygreen.com/img/ftr/clean-your-yoga-mat-preview.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-3153/Hilarious-Yoga-Mat-for-Sale-Ad-on-Craigslist.html">Hilarious Yoga Mat for Sale Ad on Craigslist</a></div>
+                        <div class="title"><a href="/0-3153/Hilarious-Yoga-Mat-for-Sale-Ad-on-Craigslist.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">Hilarious Yoga Mat for Sale Ad on Craigslist</a></div>
                         <div class="byline">
-                            MindBodyGreen</div>
+                            By MindBodyGreen</div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-682/Yoga-Poses-for-Beginners-Howto-Tips-Benefits-Images-Videos.html#">
-                            <img src="http://res.mindbodygreen.com/img/ftr/extended-side-angle-pose-200x155.jpg">
+                        <a href="/0-7482/10-signs-youre-gluten-intolerant.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/ftr/gluten-bread-caution-200.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-682/Yoga-Poses-for-Beginners-Howto-Tips-Benefits-Images-Videos.html">Yoga Poses for Beginners: Tips, Benefits, Videos</a></div>
+                        <div class="title"><a href="/0-7482/10-signs-youre-gluten-intolerant.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">10 Signs You're Gluten Intolerant</a></div>
                         <div class="byline">
-                            <a href="/wc/michael-taylor">Michael Taylor</a>
+                            <a href="/wc/dr-amy-myers">By Dr. Amy Myers</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-91/The-7-Chakras-for-Beginners.html#">
-                            <img src="http://res.mindbodygreen.com/img/ftr/crown-chakra-200x155.jpg">
-                            </a>
-                    </div>
-                    <div class="description">
-                        <div class="title"><a href="/0-91/The-7-Chakras-for-Beginners.html">The 7 Chakras for Beginners</a></div>
-                        <div class="byline">
-                            MindBodyGreen</div>
-                    </div>
-                </div>
-            <div class="item">
-                    <div class="pic">
-                        <a href="/0-5875/15-Reasons-to-Use-Apple-Cider-Vinegar-Every-Day.html#">
+                        <a href="/0-5875/15-Reasons-to-Use-Apple-Cider-Vinegar-Every-Day.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
                             <img src="http://res.mindbodygreen.com/img/ftr/apple-cider-vinegar-stock-large200x155.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-5875/15-Reasons-to-Use-Apple-Cider-Vinegar-Every-Day.html">15 Reasons to Use Apple Cider Vinegar Every Day</a></div>
+                        <div class="title"><a href="/0-5875/15-Reasons-to-Use-Apple-Cider-Vinegar-Every-Day.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">15 Reasons to Use Apple Cider Vinegar Every Day</a></div>
                         <div class="byline">
-                            <a href="/wc/lisa-mitchell">Lisa Mitchell</a>
+                            <a href="/wc/lisa-mitchell">By Lisa Mitchell</a>
                                 </div>
                     </div>
                 </div>
             <div class="item">
                     <div class="pic">
-                        <a href="/0-952/PlantBased-Diet-for-Beginners-How-to-Get-Started.html#">
-                            <img src="http://res.mindbodygreen.com/img/ftr/rip-esselstyn-engine-200x155.jpg">
+                        <a href="/0-4769/Why-You-Should-Drink-Warm-Water-Lemon.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/ftr/LemonWater-start200.jpg">
                             </a>
                     </div>
                     <div class="description">
-                        <div class="title"><a href="/0-952/PlantBased-Diet-for-Beginners-How-to-Get-Started.html">Plant-Based Diet for Beginners</a></div>
+                        <div class="title"><a href="/0-4769/Why-You-Should-Drink-Warm-Water-Lemon.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">Why You Should Drink Warm Water &amp; Lemon</a></div>
                         <div class="byline">
-                            <a href="/wc/vera-churilov">Vera Churilov</a>
+                            <a href="/wc/ashley-pitman">By Ashley Pitman</a>
                                 </div>
+                    </div>
+                </div>
+            <div class="item">
+                    <div class="pic">
+                        <a href="/0-91/The-7-Chakras-for-Beginners.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">
+                            <img src="http://res.mindbodygreen.com/img/ftr/crown-chakra-200x155.jpg">
+                            </a>
+                    </div>
+                    <div class="description">
+                        <div class="title"><a href="/0-91/The-7-Chakras-for-Beginners.html?utm_campaign=recommendation&amp;utm_medium=popular&amp;utm_source=privacy">The 7 Chakras for Beginners</a></div>
+                        <div class="byline">
+                            By MindBodyGreen</div>
                     </div>
                 </div>
             </div>
 
     </div><!-- Popular -->
 
-    <!-- Dating -->
-    <div style="text-align:center;float:left;width:300px;margin-bottom:23px;">
-        <div id="mindbodygreen_medium_rectangle"></div>
-        <script src="//mindbodygreen.howaboutwe.com/promo_modules/medium_rectangle_ads.js?partner_name=mindbodygreen&amp;element=mindbodygreen_medium_rectangle"></script>
-    </div>
-
     <!-- Bottom 300x600 -->
     <div class="ad-box-right ad-box-300x600">
     <!-- Features_300x6002_ROS -->
                     <div id="div-gpt-ad-1364419109470-0">
                     <script type="text/javascript">
+                    ybotq.push(function() {
                     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364419109470-0'); });
+                    });
                     </script>
                     </div>
                 </div>
 
     <!-- Newsletter -->
-    <div class="feature-box newsletter-box" style="text-align:center;">
+    <div class="feature-box newsletter-box" id="newsletterBottom" style="text-align:center;">
         <div class="header"></div>
         <div class="message">Get Our Very Best Content Straight to Your Inbox!</div>
         <form id="emailsignup-step2" name="emailsignup-step2" action="/emailsignup-step2.action" method="post" class="form-inline"><input type="text" name="emailAddress" value="" id="emailsignup-step2_emailAddress" placeholder="enter your email"><input type="submit" id="emailsignup-step2_0" value="JOIN" class="btn btn-mbg-orange">
@@ -649,7 +685,9 @@
     <!-- Features_300x250_ROS -->
                     <div id="div-gpt-ad-1364480262601-0">
                     <script type="text/javascript">
+                    ybotq.push(function() {
                     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364480262601-0'); });
+                    });
                     </script>
                     </div>
                 </div>
@@ -661,9 +699,9 @@
                 <div class="section-header" style="margin-bottom:23px;">Privacy Policy</div>
                 <div class="feature-box">
                     <div class="general-content">
-                        <p>The following Privacy Policy summarizes the various ways that MindBodyGreen, LLC ("Service Provider", "we" or "our") treats the information you provide while using www.mindbodygreen.com (?Website?). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.</p>
+                        <p>The following Privacy Policy summarizes the various ways that MindBodyGreen, LLC ("Service Provider", "we" or "our") treats the information you provide while using www.mindbodygreen.com (Website). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.</p>
                         <p>Please read this Privacy Policy carefully. You can access the Privacy Policy any time. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.</p>
-                        <p>In addition to reviewing this Privacy Policy, please read our <a href="/termsofuse.action">User Agreement</a>. Your use of the Website constitutes agreement to its terms and conditions as well.</p>
+                        <p>In addition to reviewing this Privacy Policy, please read our <a href="/termsofuse">User Agreement</a>. Your use of the Website constitutes agreement to its terms and conditions as well.</p>
                         <p>This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.</p>
                         <div class="general-header">The Type of Information the Website Collects</div>
                         <p>The Website generally requests only a user name and password, although you can provide an e-mail address if you wish. If at any time the Website were to collect personally identifying information, such as your actual name, address, or telephone number, it would only be with your specific knowledge and consent. For instance, if the Website began to offer sweepstakes, and you wish to participate, Service Provider may require personally identifiable information to contact you in case you win. Optional information such as your age or gender may also be requested.</p>
@@ -692,7 +730,9 @@
 <!-- Leaderboard_ROS_300x250 -->
                 <div id="div-gpt-ad-1364324870003-0">
                 <script type="text/javascript">
+                ybotq.push(function() {
                 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364324870003-0'); });
+                });
                 </script>
                 </div>
             </div></div><!-- /Left column -->
@@ -701,44 +741,40 @@
 
         <!-- Footer -->
         <div class="footer">
-    <div class="title">MindBodyGreen</div>
+    <div class="title"><a href="/">MindBodyGreen</a></div>
     <div class="footer-nav hidden-phone">
         <a href="/Mind">MIND</a>
         <a href="/Body">BODY</a>
         <a href="/Green">GREEN</a>
-        <a href="/video">VIDEO</a>
-        <a href="http://mindbodygreen.howaboutwe.com" target="_blank">MBG DATING</a>
         <a href="/shop">SHOP</a>
         <a href="http://travel.mindbodygreen.com/yoga-retreats.html">YOGA RETREATS</a>
+        <a href="/courses">VIDEO COURSES</a>
     </div>
     <div class="footer-nav">
         <a href="/">Home</a>
-        <a href="/about.action">About</a>
-        <a href="/advertise.action">Advertise</a>
-        <a href="/contactus.action">Contact</a>
-        <a href="/writeformbg.action">Write For Us</a>
-        <a href="/contactus.action?t=help">Help</a>
-        <a href="/jobs.action">Jobs</a>
+        <a href="/about">About</a>
+        <a href="/advertise">Advertise</a>
+        <a href="/contact">Contact</a>
+        <a href="/contribute">Write For Us</a>
+        <a href="/contact?t=help">Help</a>
+        <a href="/jobs">Jobs</a>
     </div>
     <div class="footer-nav">
-        <a href="/termsofuse.action" class="footer2">Terms of Use</a>
-        <a href="/privacy.action" class="footer2">Privacy Policy</a>
-        <a href="/disclaimer.action" class="footer2">Disclaimer</a>
-        <a href="/editorial.action" class="footer2">Editorial Policy</a> 
+        <a href="/termsofuse" class="footer2">Terms of Use</a>
+        <a href="/termsofsale" class="footer2">Terms of Sale</a>
+        <a href="/privacy" class="footer2">Privacy Policy</a>
+        <a href="/disclaimer" class="footer2">Disclaimer</a>
     </div>
     <div class="footer-nav footer-disclaimer">
-        Copyright ©2013 MindBodyGreen, LLC
-        <br>
-        MindBodyGreen.com is for informational purposes only and is not a substitute for medical advice, diagnosis, or treatment. All content and images found on MindBodyGreen.com may not be reproduced or distributed, unless permitted in writing by MindBodyGreen, LLC.
-        <br>
-        MindBodyGreen® is a registered trademark of MindBodyGreen, LLC.
+        Copyright ©2013 MindBodyGreen, LLC. MindBodyGreen.com is for informational purposes only and is not a substitute for medical advice, diagnosis, or treatment. All content and images found on MindBodyGreen.com may not be reproduced or distributed, unless permitted in writing by MindBodyGreen, LLC. MindBodyGreen® is a registered trademark of MindBodyGreen, LLC.
     </div>
 </div></div><!-- /#page -->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script><script src="js/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
-<script src="//res.mindbodygreen.com/js/bootstrap.1.0.min.js"></script>
+<script src="//s3.amazonaws.com/mbg/js/bootstrap.1.0.min.js"></script>
+<script src="/js/jgestures.min.js"></script>
 <script type="text/javascript">
 var curPopFilter = "week";
 $(document).ready(function() {
@@ -755,25 +791,23 @@ $(document).ready(function() {
     });
 });
 </script>
-<script src="//res.mindbodygreen.com/js/jquery.hoverIntent.js"></script>
-<script src="//res.mindbodygreen.com/js/nav.1.3.min.js"></script>
+<script src="//s3.amazonaws.com/mbg/js/jquery.hoverIntent.js"></script>
+<script src="http://res.mindbodygreen.com/js/nav.1.7.js"></script>
 <!--[if lte IE 8]><!-->
 <script defer="" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <!--<![endif]--><script type="text/javascript">
-try{
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2384680-1']);
-  _gaq.push(['_setDomainName', '.mindbodygreen.com']);
-  _gaq.push(['_setAllowHash', false]);
-  _gaq.push(['_trackPageview']); 
+  _gaq.push(['_setDomainName', 'mindbodygreen.com']);
+  _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-}
-catch(err){}
+
 </script><!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
