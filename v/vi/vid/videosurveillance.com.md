@@ -1,47 +1,43 @@
-> *The following text is extracted and transformed from the videosurveillance.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225105410id_/http%3A//www.videosurveillance.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosurveillance.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225042227id_/http%3A//www.videosurveillance.com/company/privacy-policy.asp) for the most accurate reproduction.*
 
-# Video Surveillance.com - Privacy Policy
+# Video Surveillance – Our Story - Security Camera and IP Video Experts
 
-## Online Privacy Practices
+Protecting your privacy is of the utmost important to us at VideoSurveillance.com. This policy explains how we collect, use and disclose the personal information you may provide while using this website. It is always your choice whether to provide personal information through the website. Any personal information you provide will be treated with care, and subject to this policy, will not be used or disclosed in ways to which you have not consented. Also, you may opt-out of certain uses and disclosures of your personal information, as explained in this policy. 
 
-At VideoSurveillance.com, we take your right to privacy and data security very seriously. We are extremely thorough in our commitment to ensure that the personal data you provide us will always be protected and never exposed to a third party.
+### Your Consent 
 
-## Your information is safe and secure
+1\. By using the website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this policy. 
 
-We employ the SSL protocol, which allows your web browser to establish an encrypted channel to our web server. This means that you can safely enter your credit card number, name, address and other information, and once the data is transmitted, it will not be read by anything other than our server.
+### Information Automatically Collected
 
-## We do NOT sell or share your information
+2\. Non-Identifiable Information: Like many other websites, the website automatically collects certain non-identifiable information regarding website users, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the website, the Internet address of the website from which you linked directly to the website, the operating system you are using, the sections of the website you visit, the website pages read and images viewed and the content you download from the website. This non-identifiable information is used for website and system administration purposes and to improve the website. We also may use non-identifiable information to initiate interactive, real-time discussions with users. Your non-identifiable information may be disclosed to others and permanently archived for future use. 
 
-Any information you provide is used solely by us to provide you with the best possible service and support. This information will never be sold to a third party, and can not be accessed or viewed by anyone outside of our company.
+3\. Cookies: The website uses cookies, a technology that installs a small amount of information on a website user's computer to permit the website to recognize future visits using that computer. Cookies enhance the convenience and use of the website. For example, the information provided through cookies is used to recognize you as a previous user of the website, so you do not have to enter your personal information every time, offer personalized web page content and information for your use, track your activity at the website to respond to your needs and otherwise facilitate your website experience. You may choose to decline cookies if your browser permits, but doing so may affect your use of the website and your ability to access certain features of the website or engage in transactions through the website. 
 
-[](http://www.videosurveillance.com/requestquote.asp)
+4\. Tracking Information: We may use non-personal information to create aggregate tracking information reports regarding the website's user demographics, traffic patterns and purchases. None of the tracking information in the reports can be connected to the identities or other personal information of individual users. 
 
-[](http://store.videosurveillance.com/axis-207-ip-camera-bundle-4)
+### Personal Information You Specifically Provide
 
-## Axis 207 Bundle, 4 cameras
+5\. Your Personal Information: During your website use, you may be asked to voluntarily provide certain personal information, such as your name email address, postal address, telephone number or credit card information. This information is used to make communicating with you easier and to help you carryout transactions. It is always your choice whether to provide personal information; unfortunately, without providing the requested information, certain site features will not be accessible, and you will not be able to make any transactions through the site. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change to your account information by visiting the My Account section of our website or by contacting us by telephone or postal mail at the contact information listed below. 
 
-[](http://store.videosurveillance.com/axis-207-ip-camera-bundle-4) **$1499**
+6\. Use of Your Personal Information: We may use your personal information to contact and correspond with you, to respond to your inquiries, to process transactions and payments and to facilitate and enhance your use of the website. We may develop a confidential customer profile for you, which will be used to provide the very best service to you. 
 
-[](http://store.videosurveillance.com/arecont-vision-av1300-ip-camera)
+7\. Emails from us: From time to time, we may send email, or other communications containing information about us or other matters that we believe will interest you. At any time you may ask us to stop sending you email and other information by unsubscribing. We respect your privacy and do not sell, rent or abuse the customer email list. Also, each email sent by us will tell you how to unsubscribe from further emails. 
 
-## Arecont Vision AV1300 1.3 Megapixel IP Camera
+8\. Disclosure of Your Personal Information: We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may disclose your personal information in the following circumstances: 
 
-[](http://store.videosurveillance.com/arecont-vision-av1300-ip-camera) **$745**
+(i) Disclosure to Service Providers: In order to process transactions, we must disclose some of your personal information to certain service providers, such as your credit card issuer, a third-party credit verification company, the product handler, and delivery service. Before personal information is disclosed, the service provider will agree with us to protect the privacy of your personal information in a manner that is consistent with this policy. If you do not wish us to provide your personal information to those service providers, you may not use the website for transactions. 
 
-[](http://store.videosurveillance.com/vivotek-fd7131-ip-camera)
+(ii) Law Enforcement and Legal Disclosure: We may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where we has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to our legal counsel. 
 
-## Vivotek FD7131 Network Camera, Indoor 3-Axis Dome, PoE
+9\. Accessing Your Personal Information: You may request access to your personal information and information about our collection, use and disclosure of that information, by contacting [info@videosurveillance.com](mailto:info@videosurveillance.com). Subject to certain exceptions prescribed by law, you will be given reasonable access to your personal information, entitlement to challenge the accuracy and completeness of the information and the ability to have it amended as is appropriate. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information. 
 
-[](http://store.videosurveillance.com/vivotek-fd7131-ip-camera) **$389**
+### Other Matters 
 
-[](http://store.videosurveillance.com/milestone-xprotect-basis-plus-nvr-software)
+10\. The security of your personal information is extremely important to us. When you enter sensitive information, such as a credit card number on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We use reasonable security measures to protect the confidentiality of the personal information submitted to us both during transmission and once we receive it. VideoSurveillance.com cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. If you have any questions about security on our website, please contact us. 
 
-## Milestone Basis+ Recording Software
+11\. Contests and Promotions: If contests or promotions are made available through the website, the applicable contest or promotion rules may include rules regarding the collection, use and disclosure of personal information. To the extent that those specific rules conflict with this policy, the contest rules supersede this policy, regarding personal information collected in connection with the contest or promotion. 
 
-[](http://store.videosurveillance.com/milestone-xprotect-basis-plus-nvr-software) **$499**
+12\. We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-[](http://store.videosurveillance.com/panasonic-wv-ns202-ip-camera)
-
-## Panasonic WV-NS202A i-Pro Network Camera PTZ
-
-[](http://store.videosurveillance.com/panasonic-wv-ns202-ip-camera) **$1495**
+13\. Policy Changes: To accommodate changes on the website, changing technology and legal developments, we have the sole discretion to change this policy from time to time without any prior notice or liability to you or any other person. New versions of this policy will be posted here. Our collection, use and disclosure of your personal information will be governed by the version of this policy in effect at that time. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. Accordingly, when you use the website you should check the date of this policy and review any changes since the last version. 
