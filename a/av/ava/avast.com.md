@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avast.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603134707id_/http%3A//www.avast.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avast.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225221826id_/http%3A//www.avast.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # avast! Internet Security - Antivirus and Anti-spyware with Firewall
 
@@ -17,31 +17,31 @@
 
 ### I. Scope of Policy
 
-This AVAST Privacy and Information Security Policy applies to AVAST Software a.s., Avast Software B.V., AVAST Software, Inc., each of their subsidiaries and affiliates (collectively "Avast"), and all of their contractors, representatives, agents, and resellers while they are working on behalf of Avast (collectively “we” or “us”). AVAST Software a.s. is a data controller of personal data processed in accordance with this policy. This policy applies to the following situations and activities that we engage in:
+This AVAST Privacy and Information Security Policy applies to AVAST Software a.s., Avast Software N.V., AVAST Software, Inc., each of their subsidiaries and affiliates (collectively "Avast"), and all of their contractors, representatives, agents, and resellers while they are working on behalf of Avast (collectively “we” or “us”). AVAST Software a.s. is a data controller of personal data processed in accordance with this policy. This policy applies to the following situations and activities that we engage in:
 
-#### Online activities. 
+##### Online activities.
 
-This means situations in which you or the users of your device or computer (collectively “you”) visit a website that we own or operate including [www.avast.com](http://www.avast.com/), or other websites under our direct control. This also includes circumstances where you download an Avast product or program or use an Avast service online, regardless of the site where you downloaded or use it, or who owns or operates that site. It also refers to interactions between your computer and us such as automatic updates, and our **avast! WebRep** , ****avast! FileRep**** , and **avast! CommunityIQ** features. 
+This means situations in which you or the users of your device or computer (collectively “you”) visit a website that we own or operate including [www.avast.com](http://www.avast.com/), or other websites under our direct control. This also includes circumstances where you download an Avast product or program or use an Avast service online, regardless of the site where you downloaded or use it, or who owns or operates that site. It also refers to interactions between your computer and us such as automatic updates, and our avast! WebRep, avast! FileRep, and avast! CommunityIQ features.
 
-#### Phone contacts. 
+##### Phone contacts.
 
-This includes calls for sales, service, or customer support. This policy will apply to any information that is collected from you when you call us. 
+This includes calls for sales, service, or customer support. This policy will apply to any information that is collected from you when you call us.
 
-#### Offline contacts. 
+##### Offline contacts.
 
-Sometimes we may appear at a "live" or in-person event such as a trade show or promotion. If we collect any personally identifiable information in such a case, this policy will apply. 
+Sometimes we may appear at a "live" or in-person event such as a trade show or promotion. If we collect any personally identifiable information in such a case, this policy will apply.
 
-#### HR data. 
+##### HR data.
 
-This refers to data concerning Avast employees. In general, human resources (HR) data is handled in a manner consistent with the provision of this policy, except that such data is never used or shared with anybody for any direct marketing purposes, and the provisions of this policy relating to in-product messaging do not apply. 
+This refers to data concerning Avast employees. In general, human resources (HR) data is handled in a manner consistent with the provision of this policy, except that such data is never used or shared with anybody for any direct marketing purposes, and the provisions of this policy relating to in-product messaging do not apply.
 
-#### Reseller information. 
+##### Reseller information.
 
-This refers to information that is collected from prospective Avast resellers at the time they apply to join the Avast reseller program. Certain information may be collected regarding the reseller or its individual representative(s), including contact information such as telephone number and email address. Similar information may be obtained regarding sub-resellers, where applicable. 
+This refers to information that is collected from prospective Avast resellers at the time they apply to join the Avast reseller program. Certain information may be collected regarding the reseller or its individual representative(s), including contact information such as telephone number and email address. Similar information may be obtained regarding sub-resellers, where applicable.
 
-#### Other circumstances where you contact us. 
+##### Other circumstances where you contact us.
 
-This includes contact by email, by clicking the "report a virus" link on our website, through our media contact or news subscription services, by requesting online service or support or opening a support ticket, and any other time that you contact us. 
+This includes contact by email, by clicking the "report a virus" link on our website, through our media contact or news subscription services, by requesting online service or support or opening a support ticket, and any other time that you contact us.
 
 When we refer to "personally identifiable information," "personal data," or "personal information," we mean information that can identify you such as name, identification number, email address, phone number, or other information that refers specifically to you. We generally do not mean information that only refers to a business or organization but does not describe any specific individual. We also generally do not mean information that has been "anonymized," or stripped of all identifiers that refer to you specifically.
 
@@ -49,77 +49,85 @@ When we refer to "personally identifiable information," "personal data," or "per
 
 #### Use of "cookies" and other similar technologies.
 
-  * Cookies: When you visit our website, our server may place a small data file called a "cookie" (sometimes called "web cookie" or "browser cookie") on your hard drive. Most commercial websites use cookies. By using our site you agree to the use of cookies as described in this privacy policy. The data we acquire from cookies is processed by various analytics tools and may be used to determine your geographic location (via your IP address and automated geolocation techniques), or to acquire basic information about the computer, tablet, or mobile phone that you use to visit us. Geolocation data helps us to deliver content in the correct language, offer region- or country-specific products, and identify your local currency in the event of a purchase. Cookies can help you log in by remembering your user credentials (depending on which options you select in your profile settings). We may also use cookies to record your shopping cart contents and user registration information. Cookies can help us identify your preferences, including language and currency, for future use. Cookies usually expire within 30-60 days. 
+  * Cookies: When you visit our website, our server may place a small data file called a "cookie" (sometimes called "web cookie" or "browser cookie") on your hard drive. Most commercial websites use cookies. By using our site you agree to the use of cookies as described in this privacy policy. The data we acquire from cookies is processed by various analytics tools and may be used to determine your geographic location (via your IP address and automated geolocation techniques), or to acquire basic information about the computer, tablet, or mobile phone that you use to visit us. Geolocation data helps us to deliver content in the correct language, offer region- or country-specific products, and identify your local currency in the event of a purchase. Cookies can help you log in by remembering your user credentials (depending on which options you select in your profile settings). We may also use cookies to record your shopping cart contents and user registration information. Cookies can help us identify your preferences, including language and currency, for future use. Cookies usually expire within 30-60 days.
 
-We never collect personally identifiable information about your browsing behavior outside of websites that we own or operate, but we may at times collect anonymized information in order to improve the accuracy of our services. We may also use cookies to collect anonymous information regarding downloads of our products from download site(s); this information is used only for statistical purposes, and no personal information is collected or stored. If you wish, you can disable cookies on your web browsing software. Click the "Help" tab in your browser window for more information.
+Through our cookies we may at times collect anonymized information in order to improve the accuracy of our services. We may also use cookies to collect anonymous information regarding downloads of our products from download site(s); this information is used only for statistical purposes, and no personal information is collected or stored. If you wish, you can disable cookies on your web browsing software. Click the "Help" tab in your browser window for more information.
 
   * Remarketing: In addition to foregoing we may employ 3rd party remarketing services. Remarketing is a way for us to reconnect with users, based upon your past interactions with the Avast website. Third-party marketing vendors may be hired by Avast to perform remarketing services. As a result, third-party vendors, including Google, may show Avast ads on sites on the Internet. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to Avast website. To opt out of customized Google Display Network ads visit the Ads Preferences Manager. Alternatively, you can opt out of third-party vendors’ use of cookies by visiting the Network Advertising Initiative opt-out page. Any information collected is used only for remarketing purposes and will not be used by third-party marketing vendors for any other purpose.
 
-  * Google Analytics and Adobe SiteCatalyst: In addition to the foregoing, we currently use two website analytics tools: Google Analytics and Adobe SiteCatalyst. These tools help us understand the use of our site by our visitors. Because Google Analytics and Adobe SiteCatalyst both require cookies to function, users who wish to avoid tracking by Google Analytics and Adobe SiteCatalyst while on our site can disable cookies on their web browsing software (see above). 
+  * Google Analytics and Adobe SiteCatalyst: In addition to the foregoing, we currently use two website analytics tools: Google Analytics and Adobe SiteCatalyst. These tools help us understand the use of our site by our visitors. Because Google Analytics and Adobe SiteCatalyst both require cookies to function, users who wish to avoid tracking by Google Analytics and Adobe SiteCatalyst while on our site can disable cookies on their web browsing software (see above).
 
-Google Analytics is a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies” to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+Google Analytics is a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies” to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-The Adobe SiteCatalyst service is part of the Adobe Digital Marketing Suite. Adobe SiteCatalyst uses cookies to help us collect and process non-personal information about how our visitors use our site including the number of unique visits, average time spent on particular pages, the identity of the referring webpage or domain, the search terms (if any) that led to our site, technical information such as web browsers and operating systems of our visitors, and cookie preferences and Java enablement. Additional information on the privacy practices of Adobe SiteCatalyst, including instructions on how to remove cookies or opt out of receiving future persistent cookies, is available here: <http://www.omniture.com/en/privacy/visualsciences/policy>. 
-
-
+The Adobe SiteCatalyst service is part of the Adobe Digital Marketing Suite. Adobe SiteCatalyst uses cookies to help us collect and process non-personal information about how our visitors use our site including the number of unique visits, average time spent on particular pages, the identity of the referring webpage or domain, the search terms (if any) that led to our site, technical information such as web browsers and operating systems of our visitors, and cookie preferences and Java enablement. Additional information on the privacy practices of Adobe SiteCatalyst, including instructions on how to remove cookies or opt out of receiving future persistent cookies, is available here: <http://www.omniture.com/en/privacy/visualsciences/policy>.
 
 
-#### News subscriptions.
 
-Our website offers news and information by subscription including newsletters, blogs, or others. If you decide to subscribe to these services you may be asked to provide your first and last name, email address, and country of residence. If you subscribe to our "Reports and Bloggers" email newsletter (for media professionals), you will be asked to provide your first and last name, email address, title, publication name, and country. The information you provide will be used to deliver the content that you request. We will never use this information for direct marketing purposes unless you agree on a case-by-case basis (also known as "opting in"). We may use the information you provide to help develop content that is relevant to our professional media audiences. You are free to cancel your subscription(s) at any time by visiting [www.avast.com/news-subscription.php?page=unsubscribe](https://web.archive.org/web/20130603134707id_/http%3A//www.avast.com/news-subscription.php?page=unsubscribe).
 
-#### "Refer a friend."
+##### News subscriptions.
+
+Our website offers news and information by subscription including newsletters, blogs, or others. If you decide to subscribe to these services you may be asked to provide your first and last name, email address, and country of residence. If you subscribe to our "Reports and Bloggers" email newsletter (for media professionals), you will be asked to provide your first and last name, email address, title, publication name, and country. The information you provide will be used to deliver the content that you request. We will never use this information for direct marketing purposes unless you agree on a case-by-case basis (also known as "opting in"). We may use the information you provide to help develop content that is relevant to our professional media audiences. You are free to cancel your subscription(s) at any time by visiting [www.avast.com/news-subscription.php?page=unsubscribe](https://web.archive.org/web/20131225221826id_/http%3A//www.avast.com/en-us/news-subscription.php?page=unsubscribe)
+
+##### "Refer a friend."
 
 There may be times when we post a "refer a friend" link that allows a site visitor to request that we send a message to a friend about an Avast product or service. You may request us to send a message only to those of your friends who have agreed to receive a message about an Avast product or service from us. We will respond by sending a single email message to the address provided. Contact with the friend will be by email only; we will never request that our users provide a friend's phone number or other contact information. We will not make any record of the email address that is provided, and after sending a single message we will not contact the friend again in response to the "refer a friend" request.
 
-#### "Contact us."
+##### "Contact us."
 
 There are many opportunities to contact us via our website. There are links that allow you to reach us by email, by clicking a "report a virus" link, by clicking our media contact or news subscription buttons, or by requesting online service or support. In addition, U.S. users may be able to request a free in-person presentation with Avast security experts using a form on our "Community" pages. In general, the amount of information that we collect when you contact us will be in proportion to the nature of the contact. For example, if you contact us by email, we will require your email address in order to reply.
 
-#### "Community" pages.
+##### "Community" pages.
 
-One of the features of our website is the "Community" section. This section includes a comments area, links to user pages, links to blogs, links to the avast! Forum, and links to third-party sites such as Twitter and Facebook. When you use any of the features of our "Community" section the following provisions will apply:
+One of the features of our website is the "Community" section. This section includes a comments area, links to user pages, links to blogs, links to the avast! Forum, and links to third-party sites such as Twitter and Facebook. When you use any of the features of our "Community" section the following provisions will apply: 
 
   * User comments: You may post a general comment in the "Overview" section of the "Community" pages using your Facebook, Yahoo!, Hotmail, or AOL user ID. In such a case, the user ID that appears beside your comment will be the user ID for the service that you have selected (Facebook, etc.). If you have a primary photo connected with your user ID, that photo will appear beside your user comment. Clicking on a thumbnail or profile link from our "Community" pages will take you to the third-party site from which the thumbnail or link was imported (for example, Facebook). Your use of a user ID from a third-party site is governed by the terms and conditions of the third party, but must also comply with our terms and conditions. The section below entitled "Third-party content and sites" will apply.
 
-  * Sweepstakes and promotions: We may sometimes offer sweepstakes, giveaways, or other promotions from the "Community" pages. In that case, we will use the information we receive for purposes of the promotion and no other purpose. We will never use your information for direct marketing purposes unless you "opt in" on a case-by-case basis. All other terms and conditions applicable to the promotion will be in the official rules that we publish. 
+  * Sweepstakes and promotions: We may sometimes offer sweepstakes, giveaways, or other promotions from the "Community" pages. In that case, we will use the information we receive for purposes of the promotion and no other purpose. We will never use your information for direct marketing purposes unless you "opt in" on a case-by-case basis. All other terms and conditions applicable to the promotion will be in the official rules that we publish.
 
 
 
 
-#### avast! Forum.
+##### avast! Forum.
 
 The avast! Forum is accessible from the "Community" pages or "Support" section of our website. Certain features require registration in order to participate.
 
-  * If you decide to register, you will be asked to select a username, password, and physical location. Disclosing your physical location is optional. You will also be required to provide an email address for use in connection with **avast! Forum**. You may allow other users to send you messages if you wish.
+  * If you decide to register, you will be asked to select a username, password, and physical location. Disclosing your physical location is optional. You will also be required to provide an email address for use in connection with avast! Forum. You may allow other users to send you messages if you wish.
 
-  * Once registered for **avast! Forum** you may control your privacy settings by visiting your "Profile" page. You can modify your settings at any time. You can also view your past posts, usage stats, password settings, and user profile as seen by others. You have the option to provide additional information if you wish. You may provide personal text; disclose your birth date and age; identify your gender, ICQ number, messenger username, or website name and address; disclose your physical location; and select an avatar or personalized picture. Any information you provide here will be visible to other users. The following minimum items of information will be available to all users, regardless of your profile settings: your username, your total number of posts and posts per day, the date and time you registered, your local time, and the date and time of your last activity.
-
-
+  * Once registered for avast! Forum you may control your privacy settings by visiting your "Profile" page. You can modify your settings at any time. You can also view your past posts, usage stats, password settings, and user profile as seen by others. You have the option to provide additional information if you wish. You may provide personal text; disclose your birth date and age; identify your gender, ICQ number, messenger username, or website name and address; disclose your physical location; and select an avatar or personalized picture. Any information you provide here will be visible to other users. The following minimum items of information will be available to all users, regardless of your profile settings: your username, your total number of posts and posts per day, the date and time you registered, your local time, and the date and time of your last activity.
 
 
-#### Support Portal.
 
-You may also join the **Support Portal** at [support.avast.com](http://support.avast.com/). Certain features require registration in order to participate. Registration for the Support Portal is separate from registration for avast! Forum. When you register for the Support Portal you will be asked to provide your full name and email address, and select a password. No other information is required to register. This information is not shared with other users. 
 
-#### avast! Account.
+##### Jumpshot user forum
 
-**avast! Account** ([my.avast.com](https://my.avast.com/)) is a tool which permits you to register multiple products using a single registration and authentication system. If you choose to use **avast! Account** you will be asked to provide your first name, last name, and email address. You will also be asked to select a password. We may use this information for purposes of validating your license, providing support, delivering additional products and services, and enabling you to change your **avast! Account** and/or product settings. 
+The posts on the Jumpshot user forum ([https://jumpshot.uservoice.com](https://jumpshot.uservoice.com/)) are accessible solely via your existing Jumpshot Account. Before submitting a post you should ensure that you did not enter any personal data. Search engines can and do collect information from the discussion forums and can publish it even if the information has been deleted from our servers. Deletion or correction of such postings held in a cache by third parties such as search engines is not always possible.
 
-#### Third-party content and sites.
+##### Support Portal.
 
-There may be times when we offer links to third-party sites such as Twitter, Facebook, or others. 
+You may also join the Support Portal at [support.avast.com](http://support.avast.com/). Certain features require registration in order to participate. Registration for the Support Portal is separate from registration for avast! Forum. When you register for the Support Portal you will be asked to provide your full name and email address, and select a password. No other information is required to register. This information is not shared with other users.
 
-  * Third-party links are provided for convenience only, and should not be construed as an endorsement, approval, or guarantee of any such third-party sites or the content they offer. We may also offer links to join us on Facebook, Twitter, or other third-party sites. If you click on such a link and navigate away from our site, your use of the third-party site will be governed by the terms and conditions, privacy policy, and information security policy of the third-party site. 
+##### avast! Account.
 
-  * Occasionally thumbnails and user profiles (including your primary photo) from these sites will be imported onto our "Community" pages, as is the case if you post a comment that is linked to your Facebook profile. Clicking on such a thumbnail or profile link will take you away from the Avast website to a third-party site (for example, Facebook). By connecting from our website to any third-party site, you agree that we are not responsible for any loss or damage you may suffer as a result of your dealings with the third party, or your use of or reliance on any of that party's content. 
+avast! Account ([my.avast.com](https://my.avast.com/)) is a tool which permits you to register multiple products using a single registration and authentication system. If you choose to use avast! Account you will be asked to provide your first name, last name, and email address. You will also be asked to select a password. We may use this information for purposes of validating your license, providing support, delivering additional products and services, and enabling you to change your avast! Account and/or product settings.
+
+##### Jumpshot Account
+
+Jumpshot Account is a tool that permits you to register your personal details when you use Jumpshot.
+
+##### Third-party content and sites.
+
+There may be times when we offer links to third-party sites such as Twitter, Facebook, or others.
+
+  * Third-party links are provided for convenience only, and should not be construed as an endorsement, approval, or guarantee of any such third-party sites or the content they offer. We may also offer links to join us on Facebook, Twitter, or other third-party sites. If you click on such a link and navigate away from our site, your use of the third-party site will be governed by the terms and conditions, privacy policy, and information security policy of the third-party site.
+
+  * Occasionally thumbnails and user profiles (including your primary photo) from these sites will be imported onto our "Community" pages, as is the case if you post a comment that is linked to your Facebook profile. Clicking on such a thumbnail or profile link will take you away from the Avast website to a third-party site (for example, Facebook). By connecting from our website to any third-party site, you agree that we are not responsible for any loss or damage you may suffer as a result of your dealings with the third party, or your use of or reliance on any of that party's content.
 
 
 
 
 ### III. Information We Collect When You Download or Use our Programs, Request Service or Support, or Pay for Products and Services
 
-#### Free product downloads generally.
+##### Free product downloads generally.
 
 You are not required to disclose any personal information in order to download **avast! Free Antivirus** , **avast! Free Antivirus for Mac** , or **avast! Free Mobile Security** , and you are permitted to use these programs up to 30 days without registration. Within 30 days, you are required to register your copy of **avast! Free Antivirus** , **avast! Free Antivirus for Mac** , or **avast! Free Mobile Security** in order to continue using these programs for up to 12 months. After 12 months re-registration is required. The first time you set up the program you will be required to select a language, and you will be asked if you want to participate in the **avast! Community** by enabling your computer to provide security-related information on an as-needed basis. Participation in **avast! Community** is purely voluntary.
 
@@ -141,14 +149,14 @@ You are not required to agree to allow Avast to post on your behalf. If you do n
 
 
 
-#### Personal data collected by specific products.
+##### Personal data collected by specific products.
 
 Some of our product offerings are required to collect additional personal information in order to deliver full product functionality. In general, we collect no more personal information than is required in order to provide full functionality of these products. Specific products, and the types of information that they collect when you use them, are as follows:
 
   * **avast! Free Antivirus** , **avast! Pro Antivirus** , **avast! Internet Security** , **avast! Free Antivirus for Mac** , **avast! Pro Antivirus for Mac** , **avast! Endpoint Protection** , **avast! Endpoint Protection Suite** , **avast! Endpoint Protection Plus** , and **avast! Endpoint Protection Suite Plus** include the following features or collect the following types of information:
 
     * (1) avast! CommunityIQ: **avast! CommunityIQ** is a community-based service that provides Avast security experts with data taken from the actual web browsing experiences of Avast product users. Participation is voluntary. Data acquired by **avast! CommunityIQ** is used to update our databases of viruses and infected websites, and for other statistical purposes, and may include: 
-      * URLs of visited websites that the Avast software identifies as potentially infected, together with the information on the nature of identified threats (e.g., viruses, Trojans, tracking cookies, and any other forms of malware) and URLs of several sites visited before the infection was identified. This information is collected to ascertain the source of the infection.
+      * URLs of visited websites, together with the information on the nature of identified threats (e.g., viruses, Trojans, tracking cookies, and any other forms of malware) and URLs of several sites visited before the infection was identified. This information is collected to ascertain the source of the infection.
       * Information and files (including executable files) on your computer identified by the Avast software as potentially infected, together with the information about the nature of identified threats.
       * Information about the sender (not including personal information) and subject of emails identified by the Avast software as potentially infected, together with the information on the nature of identified threats.
       * Additional statistical information about threats detected by the Avast software.
@@ -166,6 +174,8 @@ Some of our product offerings are required to collect additional personal inform
 
   * avast! EasyPass: **avast! EasyPass** is a program that stores user passwords under a single master password and permits the user to log on to multiple sites using a unitary sign-on credential. Passwords are stored on user PCs by the **avast! EasyPass** application. Passwords may be backed up on a remote server, and certain other identifying information may also be stored remotely. The **avast! EasyPass** service is provided by a third party under contract with Avast, and the privacy policy, terms of service, and end user license agreement (EULA) of the third party apply to any information that users provide in connection with the **avast! EasyPass** service.
 
+  * Jumpshot: Jumpshot is a bootable Linux-based antivirus program that removes tough malware. In order to use it, the following information must be stored: (a) your name, surname, email address, password hash, originating IP address, display name and number of scanned systems; (b) scanned systems history including data about operating system, hostnames and usernames of the systems, patch level, system health, hardware information (including CPU), graphics card information, hard drive information, system hard drive boot sectors, system´s hard drive volume headers; (c) system data information- list of computer software installed, directory listing of software, registry name and entries, registry hives and executables; (d) wifi connection security information, i.e. the used level of the connection´s encryption.
+
   * Other products: There may be other products (current or future) that require that we collect certain types of personal information in order to enable full product functionality. We will always inform you prior to collecting any such information, usually in the terms of service or end user license agreement (EULA) applicable to the product in question.
 
 
@@ -173,11 +183,11 @@ Some of our product offerings are required to collect additional personal inform
 
 The information described above, when collected by the Avast software, is generally not correlated with any other personal information related to you that Avast may be processing, such as information provided during the process of ordering and downloading the software. Unless you have permitted otherwise, the information collected by the Avast software is used anonymously in aggregation with similar information from other users of the software for analytical purposes to identify new viruses and threats, for improvement and development of the software, and for statistical purposes.
 
-#### In-product messaging.
+##### In-product messaging.
 
 We sometimes communicate with our users using a technique known as "in-product messaging." In-product messaging may be used in the following scenarios: (1) when a user's license is about to expire; (2) when a user chooses to update or upgrade an Avast program; (3) when a virus database is updated; (4) when a user visits an infected webpage; (5) when a monthly security report is prepared for the user; or (6) in other cases where user communication is necessary. We may also sometimes use in-product messaging to notify users of new products or upgrades to existing products and services. The Avast program on the user's machine initiates a secured request to the Avast server using https protocol. The Avast server takes the appropriate action and sends a return message to the Avast program, which displays a corresponding message to the user (for example, a message that the virus database has been updated). Personal information is generally not exchanged using this process except to the extent necessary to perform a transaction. In-product messaging also permits the computers or devices of our users to transmit information to our servers including technical data, virus definitions, security, and technical information about the users' hardware. This information is used for statistical purposes, product updates, quality control, and in product and feature design; this information is stored in a way that is not associated with a particular user. In the future, **avast! Account** information may be exchanged using this procedure.
 
-#### When you use our services or request support.
+##### When you use our services or request support.
 
 We may at times collect personally identifiable information from you in the course of providing our services or support. This information may be collected from you verbally, from your computer, or via electronic communication (including communications between your computer and us, or other automated communications). If you request support we may offer you the option of accepting a remote session in which we take control of your device or computer; in such a case we may acquire information via communication between your computer and ours.
 
@@ -201,35 +211,35 @@ When you pay for products or services. When you purchase "premium" (or paid) pro
 
 ### IV. Special Types of Personal Information
 
-#### HR data.
+##### HR data.
 
-In general, human resources (HR) data is handled in a manner consistent with the provision of this policy. However, such data is never used or shared with anybody for direct marketing purposes, and the provisions of this policy relating to in-product messaging and product downloads do not apply (except in the case where an employee uses our products in his or her personal capacity, in which case the employee's information is subject to the same policies as any other user). In addition, HR data may be subject to different retention requirements than the data of our users; we store and maintain data in compliance with local law governing employment information. In the case of employees who have children we may collect and store the names of the children, their personal IDs and birthdates, copies of their birth certificates, scholastic status, and other information that relates to the taxation status of the employees. The purpose of collecting this information is to calculate the employees' tax rates and to otherwise comply with the law. 
+In general, human resources (HR) data is handled in a manner consistent with this policy. However, such data is never used or shared with anybody for direct marketing purposes, and the provisions of this policy relating to in-product messaging and product downloads do not apply (except in the case where an employee uses our products in his or her personal capacity, in which case the employee's information is subject to the same policies as any other user). In addition, HR data may be subject to different retention requirements than the data of our users; we store and maintain data in compliance with local law governing employment information. In the case of employees who have children we may collect and store the names of the children, their personal IDs and birthdates, copies of their birth certificates, scholastic status, and other information that relates to the taxation status of the employees. The purpose of collecting this information is to calculate the employees' tax rates and to otherwise comply with the law. 
 
-#### "Sensitive" information.
+##### "Sensitive" information.
 
 We never collect "sensitive" personal data such as sexual preference, religion, political views, or health. We do not wish to receive any such data and will not request it from you. 
 
-#### Data on children.
+##### Data on children.
 
 Persons under the age of 18 should not transfer personal information to us unless they have the consent of their parent(s) or guardian(s). Except for children of Avast employees, we do not knowingly collect, nor do we want to receive, personal information about individuals who are under 13 years of age. 
 
 ### V. Storage, Retention, and Deletion of Personal Information
 
-#### Storage of information.
+##### Storage of information.
 
 Information that we collect is stored on our servers or on the servers of our subsidiaries, affiliates, contractors, representatives, contractors, agents, or resellers who are working on our behalf. Personally identifiable information on our servers is only accessible from our physical premises, or via an encrypted virtual private network (VPN). Access is limited to authorized personnel only, and company networks are password protected, and subject to additional policies and procedures for security.
 
 Data collected by **avast! BackUp** is transmitted in encrypted format using SSL technology, and stored under minimum 256-bit key encryption. Information collected by **avast! CreditAlert** is transmitted using SSL technology, and very private information such as financial data is stored under rotating 256-bit key encryption. Data transmitted using **avast! SecureLine** VPN service is also encrypted. In all cases data is transmitted to and from our servers using https protocol. In some cases this information may be transmitted to or stored within the European Union (“EU”), and in other cases the information may be transmitted to or stored at a location outside the territory of EU member states, such as the United States or other non-EU locations.
 
-#### Access by our contractors.
+##### Access by our contractors.
 
 Maintenance of personally identifiable information is performed either by us or by contractors who we hire, or by our subsidiaries, affiliates, representatives, agents, or resellers who are working on our behalf. All such third parties must agree to observe the privacy of our users, and to protect the confidentiality of their personal information. All have agreed not to share personal information of our users with other parties, and not to use such personal information for their own direct marketing purposes. 
 
-#### Disclosure to third parties.
+##### Disclosure to third parties.
 
 There may be limited circumstances in which we are required to disclose your personally identifiable information to unrelated third parties.
 
-  * Although very rare, there may be times when we must disclose your personal information in response to the following: (1) where necessary to satisfy a legitimate government request or order; (2) in response to a third-party subpoena, if we believe on the advice of our attorneys that we are required to respond; (3) where we hire a contractor to perform a service for us, such as product development or market research (but not if doing so would violate the terms of our privacy policy, or laws governing personal data); (4) if we obtain your permission; (5) if necessary to defend ourselves or our users (for example, in a lawsuit); or (6) for other legitimate purposes, provided that the information is disclosed in a way that does not permit it to be linked to you personally. 
+  * There may be times when we must disclose your personal information in response to the following: (1) where necessary to satisfy a legitimate government request or order; (2) in response to a third-party subpoena, if we believe on the advice of our attorneys that we are required to respond; (3) where we hire a contractor to perform a service for us, such as product development or market research (but not if doing so would violate the terms of our privacy policy, or laws governing personal data); (4) if we obtain your permission; or (5) if necessary to defend ourselves or our users (for example, in a lawsuit). 
 
   * There may be a few other limited cases in which we might share our users' personal information with third parties. For example, if you request a specific service or product from us, and if that product or service is administered by a third party who is working for us, we may share your personal information with the third party in order to respond to your request. The third party who is working for us may also transmit back to us any new information obtained from you in connection with providing the service or product.
 
@@ -238,7 +248,7 @@ There may be limited circumstances in which we are required to disclose your per
 
 
 
-#### Deletion of personal information.
+##### Deletion of personal information.
 
 In general, our policy is to keep personal information for no longer than reasonably necessary in light of the purpose for which the information was collected, plus any additional period that is permitted or required by law thereafter. Following the expiration of the purpose for which we collected personal information plus any additional period that is permitted or required by law, we will either delete or de-identify the information from our systems.
 
@@ -257,7 +267,7 @@ We strive to delete or de-identify inactive data as soon as is reasonably possib
 
 ### VI. Information Security
 
-#### Safeguards for protection of personal information.
+##### Safeguards for protection of personal information.
 
 We maintain administrative, technical, and physical safeguards for the protection of personal information. These safeguards include the following:
 
@@ -270,25 +280,25 @@ We maintain administrative, technical, and physical safeguards for the protectio
 
 
 
-#### Deletion of personal information.
+##### Deletion of personal information.
 
 By retaining personal information no longer than is reasonably necessary for the function for which we originally collected it, we effectively reduce the quantity of personal information that is in our possession at any given time. This, in turn, helps reduce the degree of risk associated with our maintenance and storage of personal information on the whole: the less data we store, and the shorter time we keep it, the smaller the risk of overall harm in the event a breach. 
 
-#### Proportionality.
+##### Proportionality.
 
 We also strive to collect no more personal information from users than is required by the purpose for which we collect it. This, in turn, helps reduce the total risk of harm should data loss or a breach in security occur: the less data we collect, the smaller the overall risk. 
 
-#### Notification in the event of breach.
+##### Notification in the event of breach.
 
 In the unlikely event of a breach in the security of personal data, we will notify all users who are actually or potentially affected. The method of notice may be tailored to suit the facts of a particular case — for example, if the only contact information that we have for a particular user is an email address, then the notification will necessarily be by email. We may elect to give notice via the in-product messaging system described above. In an unusual case — for example, if we believe there are users for which we have no contact information on file — we may give notice via publication on our company website. In any case we reserve the right to delay notification is we are asked to do so by law enforcement or other authorities, or if we believe that giving notice immediately will increase the risk of harm to our user body overall.
 
 ### VII. Compliance with Laws and Dispute Resolution
 
-#### Residents of Czech Republic.
+##### Residents of Czech Republic.
 
 You have the right to access your personal data, the right to correct such data, and other rights in accordance with Section 21 of the Act No. 101/2000 Coll., as amended, Personal Data Protection Act. In particular, you have the right to request explanations regarding processing of your personal data and to require remedies such as blocking, correction, supplementing or liquidation of personal data if the processing is contrary to protection of your private and personal life or in contradiction with law.
 
-#### Residents of the EU.
+##### Residents of the EU.
 
 For residents of the EU, the handling of personal information is subject to EU Directive 95/46/EC, also known as the EU Privacy Directive, as well as local law. We have registered with the Office for Personal Data Protection of the Czech Republic. Registration with this office governs our collection and handling of information from employees, visitors to our physical premises, and customers. Additional information on the Office for Personal Data Protection is available here: <http://www.ceecprivacy.org/main.php> or [http://www.uoou.cz](http://www.uoou.cz/). 
 
@@ -296,19 +306,19 @@ There may be occasions in which we transmit personal data collected from EU resi
 
 We are also subject to certain provisions of EU Directive 2002/58/EC (also known as the E-Privacy Directive) governing privacy in various types of electronic communications. Additional information is available here: <http://europa.eu/legislation_summaries/information_society/legislative_framework/l24120_en.htm>.
 
-#### Residents of Switzerland.
+##### Residents of Switzerland.
 
 The collection and handling of personal information of residents of Switzerland are governed by the Swiss Federal Act on Data Protection, also known as the Data Protection Act ("DPA"). There may be cases where personal data is collected from Swiss residents and subsequently transmitted to locations outside of Switzerland, such as the United States. Additional information on the Swiss DPA can be found here: <http://www.dataprotection.eu/pmwiki/pmwiki.php?n=Main.CH>.
 
-#### Residents of the United States.
+##### Residents of the United States.
 
 The collection and handling of personal information in the United States is subject to federal legislation, regulation by federal government agencies, and regulation on the state level. The federal agency with primary jurisdiction over our data handling practices is the Federal Trade Commission ("FTC"). 
 
-#### Sharing of information among Avast entities in different jurisdictions.
+##### Sharing of information among Avast entities in different jurisdictions.
 
 Our data collection and data management practices do not vary by location. We follow the same minimum data security and data privacy procedures with respect to all personal data in our possession, regardless of the jurisdiction from which it was collected, and regardless of whether the data is transferred from one Avast entity to another (for example, from AVAST Software a.s. to AVAST Software, Inc.). 
 
-#### Dispute resolution.
+##### Dispute resolution.
 
 We make every effort to conduct our business in a fair and responsible manner. In the unlikely event of a disagreement or complaint about the way that your personal data is handled, the following procedures will apply.
 
@@ -320,14 +330,14 @@ There are several ways you can reach us:
 
     * (1) You can always reach us by email at customerservice@avast.com. Please type “PRIVACY REQUEST” in the message line of your email so we can have the appropriate member of the Avast team respond.
     * (2) If you prefer, you can send paper mail to AVAST Software, Budejovicka 1518/13A, 140 00 Praha 4, Czech Republic. Be sure to write "Attention: Privacy" in the address so we know where to direct your correspondence.
-  * For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction. Information on Data Protection Authorities in Europe can be found here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.
+  * For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction. Information on Data Protection Authorities in Europe can be found here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>.
 
   * For residents of the United States: If you live in the U.S. and you have a dispute regarding our handling of your personal data, you may contact the FTC for information. See <http://www.ftc.gov/bcp/index.shtml>. You may also contact the attorney general of the state where you live.
 
 
 
 
-#### Special note for residents of California.
+##### Special note for residents of California.
 
 Under California Civil Code § 1798.83, we are required to disclose to consumers the following information upon written request: (1) the categories of personal information that we have disclosed to third parties within the prior year, if that information was subsequently used for marketing purposes; and (2) the names and addresses of all such third parties to whom such the personal information was disclosed. We hereby disclose that we have not disclosed any such personal information regarding any California resident during the one-year period prior to the effective date of this Privacy and Information Security Policy. California residents seeking additional information on this requirement or our privacy practices in general may write to us at [customerservice@avast.com](mailto:customerservice@avast.com) with the headline “PRIVACY REQUEST” in the message line. They may also send paper mail to AVAST Software a.s., Trianon Office Building, BUDEJOVICKA 1518/13a, 140 00, PRAGUE 4 Czech Republic. Please write "Attention: PRIVACY" in the address.
 
