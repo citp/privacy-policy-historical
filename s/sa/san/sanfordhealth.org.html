@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sanfordhealth.org privacy policy that was archived on 2013-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510102618id_/http%3A//www.sanfordhealth.org/Home/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sanfordhealth.org privacy policy that was archived on 2013-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225022730id_/http%3A//www.sanfordhealth.org/Home/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head><meta http-equiv="X-UA-Compatible" content="IE=9;IE=8;IE=7"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="imagetoolbar" content="false"><meta name="MSSmartTagsPreventParsing" content="true"><meta name="viewport" content="initial-scale=1.0, user-scalable=no"><meta name="google-site-verification" content="bIK0JMb59Ha-wByPrqcx03gIJx10vnT2jvJ0XtQBB-4"><meta name="msvalidate.01" content="30CD41A0693271FAE50E0E20ED521F72">
     
@@ -14,11 +14,9 @@
     
 <link href="/content/images/icons/favicon.ico" rel="icon"><link href="/content/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon"><link rel="stylesheet" href="/Content/css/blueprint/screen.min.css" type="text/css" media="screen, projection">
     <!--[if lte IE 7]><link rel="stylesheet" href="/Content/css/blueprint/ie.min.css" type="text/css" media="all" /><![endif]-->
-    <link rel="stylesheet" href="/Content/css/combinedSitewide-minimal.css?v=20" type="text/css" media="all">
+    <link rel="stylesheet" href="/Content/css/combinedSitewide-minimal.css?v=29" type="text/css" media="all">
     <!--[if lte IE 7]><link rel="stylesheet" href="/Content/css/ie7-minimal.css" type="text/css" media="all" /><![endif]-->
     <!--[if lte IE 6]><link rel="stylesheet" href="/Content/css/ie6-minimal.css" type="text/css" media="all" /><![endif]-->
-    <link rel="stylesheet" href="/Content/css/print.css?v=2" type="text/css" media="print">
-    
     
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
     
@@ -32,6 +30,8 @@
 
     
 
+    <link rel="stylesheet" href="/Content/css/print.css?v=3" type="text/css" media="print">
+    
 
     <script language="javascript" type="text/javascript">
 
@@ -58,15 +58,76 @@
     
     <div id="pageBackdrop">
         
+<div class="container notPrintable">
+    
+<div class="mychart-drawer drawer">
+    <div class="body">
+        <div class="white-box">
+            <p class="smallBottomMargin">My Sanford Chart allows you secure online access to your personal health information and your child's health information. It's available anywhere you have internet access. There is no cost to you and registering is quick and simple.</p>
+            <ul>
+                <li class="smallBottomMargin">
+                    <span>New User?</span><br>
+                    <div class="decoratedButton">
+                        <a id="mychart-drawer-signup" href="https://www.mysanfordchart.org/mychart/publicforms.asp?mode=showForm&amp;formname=ActivationReqForm" class="button toggle-mychart-drawer" rel="external">Sign Up Online</a>
+                    </div>
+                </li>
+                <li>
+                    <span>Do you have your access code?</span><br>
+                    <div class="decoratedButton">
+                        <a id="mychart-drawer-activate" href="https://www.mysanfordchart.org/mychart/accesscheck.asp" class="button toggle-mychart-drawer" rel="external">Activate Your Account</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="tab toggle-mychart-drawer">
+        <div class="tab-text">Sign Up for My Sanford Chart</div>
+        <div class="mychart-drawer-arrow arrow-down"></div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var element = $(".mychart-drawer");
+        element.drawer({
+            topClose: -element.height() + 12
+        });
+
+        $(".toggle-mychart-drawer").click(function () {
+            var drawer = element.data("drawer");
+            drawer.toggle();
+
+            if (!drawer.expanded && typeof _gaq != "undefined")
+                _gaq.push(['_trackEvent', 'Window-shade', 'onLoad', 'mysanfordchart']);
+
+            $(".mychart-drawer-arrow").toggleClass("arrow-down", drawer.expanded)
+                                      .toggleClass("arrow-up", !drawer.expanded);
+        });
+
+        $("#mychart-drawer-signup").click(function (e) {
+            if (typeof _gaq != "undefined")
+                _gaq.push(['_trackEvent', 'Window-shade', 'onClick', 'mysanfordchart-signup-btn']);
+            return true;
+        });
+
+        $("#mychart-drawer-activate").click(function (e) {
+            if (typeof _gaq != "undefined")
+                _gaq.push(['_trackEvent', 'Window-shade', 'onClick', 'mysanfordchart-activation-btn']); 
+            return true;
+        });
+    });
+</script>
+
+
+</div>
 <div id="header" class="container">
     
 <ul class="nav" id="quickLinks">
-        
-        <li class="first"><a href="/MedicalProfessionals">for Medical Professionals</a></li>
-        <li><a href="/Careers">Careers</a></li>
-        <li><a href="/Contact">Contact Us</a></li>
-        <li class="last"><a href="http://www.mysanfordchart.org">Access My Sanford Chart</a></li>
-    </ul>
+    <li class="first"><a href="/MedicalProfessionals">for Medical Professionals</a></li>
+    <li><a href="/Careers">Careers</a></li>
+    <li><a href="/Contact">Contact Us</a></li>
+    <li class="last"><a href="http://www.mysanfordchart.org">Access My Sanford Chart</a></li>
+</ul>
 
 
 
@@ -196,13 +257,14 @@
                                         <h3>Patient Services</h3>
                                         <div class="topNavContent clearfix">
                                             <ul>
-                                                <li><a href="/PatientsVisitors/PatientInformation/BillPay">Pay Your Bill</a></li>
-                                                <li><a href="/PatientsVisitors/PatientInformation/Preregistration">Pre-Register</a></li>
-                                                <li><a href="/PatientsVisitors/PatientInformation">Patient Information</a></li>
+                                                <li id="payyourbill"><a href="/PatientsVisitors/PatientInformation/BillPay">Pay Your Bill</a></li>
+                                                <li id="pre-register"><a href="/PatientsVisitors/PatientInformation/Preregistration">Pre-Register</a></li>
+                                                <li id="patientinformation"><a href="/PatientsVisitors/PatientInformation">Patient Information</a></li>
                                             </ul>
                                             <ul>
                                                 <li id="chart"><a href="http://www.mysanfordchart.org">Access My Sanford Chart</a></li>
-                                                <li><a id="currentWaitTimesFromHeader" class="overlayWaitTime" href="javascript:void(0)">View Current Wait Times</a></li>
+                                                <li id="waittimes"><a id="currentWaitTimesFromHeader" class="overlayWaitTime" href="javascript:void(0)">View Current Wait Times</a></li>
+                                                <li id="financialassistance"><a href="/PatientsVisitors/PatientInformation/FinancialAssistance">Financial Assistance Policy</a></li>
                                             </ul>
                                         </div>
                                         <!-- /end .topNavContent -->
@@ -301,7 +363,7 @@
                                                 <div class="searchArea">
                                                     <div class="searchTypeSelection">
                                                         <p><label><input id="searchTypeSelection-findADoctor" type="radio" name="searchTypeSelection" checked="checked">Find a Doctor</label></p>
-                                                        <p><label><input id="seachTypeSelection-findALocation" type="radio" name="searchTypeSelection">Find a Location</label></p>
+                                                        <p><label><input id="searchTypeSelection-findALocation" type="radio" name="searchTypeSelection">Find a Location</label></p>
                                                     </div>
                                                     <div id="top-nav-doctor-search">
                                                         <div class="formfield">
@@ -315,35 +377,15 @@
                                                         </div>
                                                     </div>
                                                     <div id="top-nav-location-search">
-                                                        
-<div class="formfield">
-    <select id="select-state" name="select-state">
-        <option value="none" selected="selected" "="">Choose State...</option>
-	    <option value="all">All States</option>
-	    
-            <option value="CA">California</option>
-        
-            <option value="IA">Iowa</option>
-        
-            <option value="MN">Minnesota</option>
-        
-            <option value="NE">Nebraska</option>
-        
-            <option value="ND">North Dakota</option>
-        
-            <option value="OK">Oklahoma</option>
-        
-            <option value="OR">Oregon</option>
-        
-            <option value="SD">South Dakota</option>
-        
-    </select>
-</div>
-<div class="formfield">
-    <select id="select-community" name="select-community" disabled="disabled">
-	    <option value="all" selected="selected">All Locations</option>
-    </select>
-</div>
+                                                        <div class="formfield">
+                                                            <input id="top-nav-location-zip" type="text" class="text" watermark="Enter ZIP Code or City..."><span class="rightCap"></span>
+                                                            <button id="btn-top-nav-location-zip" class="disabled"><span>Go</span></button>
+                                                        </div>
+                                                        <div class="formfield">
+                                                            <select id="top-nav-location-facilityType" disabled="disabled">
+                                                                <option value="none">Facility Type</option>
+                                                            </select>
+                                                        </div>
                                                     </div>
                                                     <div class="decoratedButton">
                                                         <button type="submit" id="btnPerformLocationOrDoctorSearch" class="disabled">GO</button>
@@ -351,10 +393,10 @@
                                                 </div>
                                                 <div id="top-nav-direct-search-links" class="smallTopMargin">
                                                     <h3>More Search Options</h3>
-                                                    <p>
+                                                    <br>
                                                         <a href="/Find-A-Doctor/Search">Find a Doctor</a> - Search by last name or narrow your search by gender or languages spoken<br>
+                                                        <br>
                                                         <a href="/Locations/Search">Find a Location</a> - Search by specialty, city, or state
-                                                    </p>
                                                     <div class="clear"></div>
                                                 </div>
                                             </div>
@@ -425,7 +467,7 @@
 </div>
 </div>
 <h4>Find Services By Topic</h4>
-<div class="append-bottom">
+<div class="clearfix append-bottom">
     
 <ul class="topic clearfix">
     <li><a href="/MedicalServices/Index?id=a">A</a></li>
@@ -548,20 +590,50 @@
     <div id="pageFooterContainer" class="container">
         <div id="footerTabs" class="tabs">
             <ul>
-                <li><a href="#footerTab1" rel="footerNav">Quick Links</a></li>
-                <li><a href="#footerTab2" rel="footerNav">Important Numbers</a></li>
-                <li class="last"><a href="#footerTab3" rel="footerNav">Newsroom</a></li>
+				<li class="footerTab1"><a href="#footerTab1" rel="footerNav">Info &amp; Alerts</a></li>
+                <li><a href="#footerTab2" rel="footerNav">Quick Links</a></li>
+                <li><a href="#footerTab3" rel="footerNav">Important Numbers</a></li>
+                <li class="last"><a href="#footerTab4" rel="footerNav">Newsroom</a></li>
             </ul>
-            <div id="footerTab1">
+            <div id="footerTab1" class="footerTab1">
+                <div id="alertArticles" class="first left">
+                    <h5>alerts.sanfordhealth.org</h5>
+                    
+
+   <ul>
+
+   </ul><a class="left viewAll" href="/newsroom/alerts">View All</a>
+                    <a href="/Newsroom/RSS/alerts" rel="external" class="right rss">RSS Newsfeed</a>
+                </div>
+                <div id="alertTweets" class="left resources">
+                    <div class="fromTwitter">
+                        <a href="http://twitter.com/sanfordalerts" class="twitterTitle" rel="external">From twitter</a>
+                        
+<p class="removeBottomMargin">
+    Sanford <a href="https://twitter.com/search?q=Ottertail" target="_blank">#Ottertail</a> <a href="https://twitter.com/search?q=Minnesota" target="_blank">#Minnesota</a> Clinic closing at 3 pm, Wednesday, December 4th <a href="http://san.fo/rdAlerts" target="_blank">http://t.co/VX9nv9fviK</a>
+</p>
+<div class="timestamp">02:38 PM Dec 04</div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <a class="visit-alerts" href="http://alerts.sanfordhealth.org" rel="external">Visit alerts.sanfordhealth.org</a>
+            </div>
+            <script type="text/javascript">
+                if ($("#footerTab1").has("li").length == 0) {
+                    $(".footerTab1").remove();
+                }
+            </script>
+            <div id="footerTab2">
                 <div class="first left">
                     <h5>General Information</h5>
                     <ul>
                         <li><a id="currentWaitTimesFromFooter" class="overlayWaitTime" href="javascript:void(0)">Current Wait Times</a></li>
+                        <li><a href="/PatientsVisitors/PatientInformation">Patient Information</a></li>
                         <li><a href="/About">About Sanford Health</a></li>
                         <li><a href="/Construction">Construction Projects</a></li>
                         <li><a href="/Initiatives">Initiatives and Priorities</a></li>
                         <li><a href="/Contact">Contact Us</a></li>
-                        <li id="mobileSiteLink"><a href="/m">View Mobile Site</a></li>
+                        <li id="mobileSiteLink"><a href="http://m.sanfordhealth.org/">View Mobile Site</a></li>
                     </ul>
                 </div>
                 <div id="externalSites" class="left">
@@ -586,7 +658,7 @@
                     
                 </div>
             </div>
-            <div id="footerTab2">
+            <div id="footerTab3">
                 <div id="generalInfo" class="first left">
                     <h5>General Information</h5>
                     <dl>
@@ -626,22 +698,22 @@
                     </dl>
                 </div>
             </div>
-            <div id="footerTab3">
+            <div id="footerTab4">
                 <div id="latestNews" class="first left">
                     <h5>Latest Sanford Health News</h5>
                     
 
    <ul>
 
-        <li><a href="/Newsroom/2013/05/Human-Molecular-Genetics">Sanford Research team discovers promising Batten disease therapy</a></li>
+        <li><a href="/Newsroom/2013/12/Sanford-Benefis-Alliance">Joint Announcement from Benefis Health and Sanford Health</a></li>
    
-        <li><a href="/Newsroom/2013/05/Sanford-AirMed-helicopter-service-to-launch-in-Bismarck">Sanford AirMed helicopter service to launch in Bismarck</a></li>
+        <li><a href="/Newsroom/2013/12/Sanford-Pentagon-chosen-to-host-NCAA-championships">Sioux Falls, Sanford Pentagon chosen to host NCAA championships</a></li>
    
-        <li><a href="/Newsroom/2013/05/Great-American-Bike-Race">Sanford Health Great American Bike Race raises more than $420,000</a></li>
+        <li><a href="/Newsroom/2013/12/Sanford-Mckenzie-County-Partner">McKenzie County Healthcare Systems, Sanford Health partner to expand services</a></li>
    
-        <li><a href="/Newsroom/2013/05/A-New-Alternative-to-Open-Heart-Bypass-Surgery">A New Alternative to Open Heart Bypass Surgery</a></li>
+        <li><a href="/Newsroom/2013/12/Edith-Team-Presenting-at-Symposium">EDITH SANFORD RESEARCH TEAM TO PRESENT AT 2013 SAN ANTONIO BREAST CANCER SYMPOSIUM</a></li>
    
-        <li><a href="/Newsroom/2013/04/Power-Volleyball-Academy-Launches">Sanford POWER Volleyball Academy launches</a></li>
+        <li><a href="/Newsroom/2013/11/World-Clinic-China">Sanford Health Announces World Clinic in Kunming, China</a></li>
    
    </ul><a class="left viewAll" href="/Newsroom">View All</a>
                     <a href="/Newsroom/RSS" rel="external" class="right rss">RSS Newsfeed</a>
@@ -657,9 +729,9 @@
                         <a href="http://twitter.com/sanfordhealth" class="twitterTitle" rel="external">From twitter</a>
                         
 <p class="removeBottomMargin">
-    A New Alternative to Open Heart Bypass Surgery <a href="http://t.co/SXh4uoh2l6" target="_blank">http://t.co/SXh4uoh2l6</a> <a href="http://search.twitter.com/search?q=%23SanfordHeart" target="_blank">#SanfordHeart</a> <a href="http://search.twitter.com/search?q=%23SanfordSiouxFalls" target="_blank">#SanfordSiouxFalls</a>
+    RT <a href="https://twitter.com/SanfordKimH" target="_blank">@SanfordKimH</a>: Santa &amp; his elves visited the castle today! Thanks, Scheels! <a href="http://twitter.com/SanfordKimH/status/414478238258171904/photo/1" target="_blank">pic.twitter.com/HhnBhu0bNC</a>
 </p>
-<div class="timestamp">09:20 PM May 09</div>
+<div class="timestamp">08:25 PM Dec 24</div>
                     </div>
                 </div>
             </div>
@@ -698,7 +770,7 @@
         <div id="copyright">
             <span>©2013 Sanford Health. All rights reserved.</span>
             <ul class="nav">
-                <li class="first"><a href="/m">View Mobile Site</a></li>
+                <li class="first"><a href="http://m.sanfordhealth.org/">View Mobile Site</a></li>
                 <li><a href="/Home/PrivacyOfHealth">Privacy of Health Information</a></li>
                 <li><a href="/Home/Privacy">Privacy Statement</a></li>
                 <li><a href="/TermsConditions">Terms <em class="ampersand">&amp;</em> Conditions</a></li>
@@ -736,8 +808,8 @@
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/mvc/2.0/MicrosoftMvcAjax.js"></script>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.cycle/2.88/jquery.cycle.all.min.js"></script>
     <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery.Validate/1.6/jQuery.Validate.min.js"></script>
-
-    <script type="text/javascript" src="/Content/Scripts/combinedSiteWide.min.js?v=22"></script>
+    <script type="text/javascript" src="/Content/Scripts/combinedSiteWide.min.js?v=32"></script>
+    
     <!--[if lte IE 6]>
         <script type="text/javascript" src="/Content/Scripts/Global/ie6Workarounds.min.js?v=2"></script>
     <![endif]-->
@@ -747,9 +819,10 @@
     
 
 
-    
         <script type="text/javascript">var switchTo5x = false;</script>
+    
         <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    
         <script type="text/javascript">
             if (typeof stLight !== "undefined") {
                 stLight.options({
