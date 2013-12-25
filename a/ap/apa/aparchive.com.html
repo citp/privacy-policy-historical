@@ -1,29 +1,32 @@
-<!--The following is the downloaded HTML source of the aparchive.com privacy policy that was archived on 2013-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623054822id_/http%3A//www.aparchive.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aparchive.com privacy policy that was archived on 2013-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225053155id_/http%3A//www.aparchive.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <title>AP Archive | Privacy Policy</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <link rel="Stylesheet" href="/css/ap-v0.0.0.0.css" type="text/css">
-    <link rel="Stylesheet" href="css/alert.css" type="text/css">
-    <link rel="Stylesheet" href="css/ap_org_styles.css" type="text/css">
-    <link rel="Stylesheet" href="css/grid_framework.css" type="text/css">
-    <link rel="Stylesheet" href="css/typography.css" type="text/css">
-    <link rel="Stylesheet" href="css/jquery.ui.selectmenu.css" type="text/css">
-    <link rel="Stylesheet" href="css/jquery.multiselect.css" type="text/css">
-    <link rel="Stylesheet" href="js/fancybox/jquery.fancybox-1.3.4.css" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/Silverlight.js"></script>
-  
-   
-          <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-          <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
-          <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/mvc/3.0/jquery.validate.unobtrusive.min.js"></script>
-          <script type="text/javascript" src="/js/ap-v0.0.0.0.js"></script>   
-      <script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.js"></script>
-      <script type="text/javascript" src="js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
-      <script type="text/javascript" src="js/jlib_ap.org.js"></script>  
+    <title>Privacy Policy | AP Archive</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="Stylesheet" href="/css/ap-v2.0.0.23584.css" type="text/css">
+    <link rel="Stylesheet" href="/css/alert.css?rev=13.2" type="text/css">
+    <link rel="Stylesheet" href="/css/ap_org_styles.css?rev=13.2" type="text/css">
+    <link rel="Stylesheet" href="/css/grid_framework.css?rev=13.2" type="text/css">
+    <link rel="Stylesheet" href="/css/typography.css?rev=13.2" type="text/css">
+    <link rel="Stylesheet" href="/css/jquery.ui.selectmenu.css?rev=13.2" type="text/css">
+    <link rel="Stylesheet" href="/css/jquery.multiselect.css?rev=13.2" type="text/css">
+    <link rel="Stylesheet" href="/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/mvc/3.0/jquery.validate.unobtrusive.min.js"></script>
+        <script type="text/javascript" src="/js/ap-v2.0.0.23584.js"></script>   
+
+    <script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.js"></script>
+    <script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+    <script type="text/javascript" src="/js/jlib_ap.org.js"></script>
+    <script type="text/javascript" src="/js/jwPlayer/jwplayer.js"></script>
+    <script type="text/javascript">
+        jwplayer.key = "IVNn2IuHyR3YRsCHors1X3BP7BSYGIWCLEWgF5iUUOk=";
+        window.IsMindecUser = false;
+    </script>
 
     <script type="text/javascript">
         var addProjectDialog;
@@ -34,16 +37,36 @@
         var confirmDialog;
         var shareDialog;
         var messageBox;
-        var downloadDialog;
+        var downloadDialog;        
 
         $(document).ready(function () {
-            AP.config.WEBROOT = './';
+            AP.config.WEBROOT = '/';
 
+            //Sorting Feature
+            $(".ap-sortable").sortable({
+                serialize: { attribute: "data-id" },
+                cancel: '.ap-sortable .workspaceItem span,' +
+                        '.ap-sortable .workspaceItem a,' +
+                        '.ap-sortable .workspaceItem .comment,' +
+                        '.ap-sortable .folderItem .details,' +
+                        '.ap-sortable .folderItem .commentList' +
+                        'ul.ui-sortable li',
+                update: function (event, ui) {
+                    var ids = $(this).sortable("toArray", { attribute: "data-id" }).join();
+                    var type = $(ui.item).data("type");
+
+                    $.ajax({
+                        url: "/Workspace/Sequence",
+                        data: { ItemIds: ids, ItemType: type },
+                        type: "POST",
+                        success: function (json) {
+                            var success = json.IsSuccess;
+                        }
+                    });
+                }
+            });
+            //End of Sorting
             //dialogs
-            addProjectDialog = $('#addProjectDialog').apUiModal();
-            $('*[ap-action="add-project"]').apWorkspaceAddProject(addProjectDialog);
-            renameProjectDialog = $('#renameProjectDialog').apUiModal();
-            $('*[ap-action="rename-project"]').apWorkspaceRenameProject(renameProjectDialog);
             addFolderDialog = $('#addFolderDialog').apUiModal();
             $('*[ap-action="add-folder"]').apWorkspaceAddFolder(addFolderDialog);
             $('*[ap-action="request-licence"]').apWorkspaceApplyForLicence();
@@ -57,10 +80,12 @@
             $('*[ap-action="messagebox"]').apWorkspaceShare(messageBoxDialog);
             downloadDialog = $('#downloadDialog').apUiModal();
             $('*[ap-action="download"]').apWorkspaceDownload(downloadDialog);
+            addProjectDialog = $('#addProjectDialog').apUiModal();
+            $('*[ap-action="add-project"]').apWorkspaceAddProject(addProjectDialog);
 
             //browser           
-            if (AP.getCookie("AP.browser") !== "1") {
-                AP.setCookie("AP.browser", 1, 525960);
+            if ($.cookie("AP.browser") !== "1") {
+                $.cookie("AP.browser", 1);
 
                 //http://javascriptly.com/2008/09/javascript-to-detect-google-chrome/
                 var ua = navigator.userAgent.toLowerCase();
@@ -79,25 +104,31 @@
             }
         });
     </script>
-    <script type="text/javascript" src="js/jquery.unobtrusive-ajax.min.js"></script>
-    <script type="text/javascript" src="js/jquery.form.js"></script>
-    <script type="text/javascript" src="js/jquery.watermark.js"></script>
-    <script type="text/javascript" src="js/jquery-ui.js"></script>
-    <script type="text/javascript" src="js/jquery.BlockUI.js"></script> 
-    <script type="text/javascript" src="js/slimScroll.js"></script>
-    <script type="text/javascript" src="js/slimScroll.min.js"></script> 
-    <script type="text/javascript" src="js/json2.js"></script>
-    <script type="text/javascript" src="js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="js/jquery.json.js"></script>
-    <script type="text/javascript" src="js/jquery.ui.selectmenu.js"></script>
-    <script type="text/javascript" src="js/jquery.highlight.js"></script>
-    <script type="text/javascript" src="js/jquery.multiselect.js"></script>
+    <script type="text/javascript" src="/js/jquery.unobtrusive-ajax.min.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery.form.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery.watermark.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery-ui.min.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery.BlockUI.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/slimScroll.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/slimScroll.min.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/json2.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery.json.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery.ui.selectmenu.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery.highlight.js?rev=13.2"></script>
+    <script type="text/javascript" src="/js/jquery.multiselect.js?rev=13.2"></script>
     
     
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-19104461-9']);
+
+  _gaq.push(['_setCustomVar', 1, 'OrgId', '0', 3]);
+
+  _gaq.push(['_setCustomVar', 2, 'OrgName', '', 3]);
+
+  _gaq.push(['_setCustomVar', 3, 'UserId', '0', 3]);
 
   _gaq.push(['_trackPageview']);
 
@@ -109,10 +140,10 @@
 
 </script>
 
-
 </head>
 <body vlink="#b503b0">
-    <script type="text/javascript">
+    
+<script type="text/javascript">
     $(document).ready(function () {
 
         $('input[name="query"]').apFormToggleField();
@@ -214,25 +245,66 @@
         $("ul.advancedSearch").css({ "left": absoluteRight });
     }
 </script>
+
+
+<style type="text/css">
+#sharedSites {
+    background-color: #000;
+    padding: 6px 0 6px 10px;
+    font-family: GoodWeb-Book, 'Arial Narrow', Trebuchet, Arial, sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+#sharedSites .site {
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+#sharedSites .site a {
+    color: #bbb;
+}
+
+#sharedSites .site a:hover {
+    color: #eee;
+}
+
+#sharedSites .site a.active {
+    color: #fff;
+}
+
+body
+{
+    background: url('/i/bg_main-APwaterMark-v2.png') left top no-repeat, #b6b6ab url("/i/bg-main-nobar.png") left top repeat-x;
+}
+</style>
+<!--
+<div id="sharedSites">
+    <div class="site"><a href="http://www.ap.org">AP</a></div>
+    <div class="site"><a href="http://www.apimages.com">IMAGES</a></div>
+    <div class="site"><a href="http://www.aparchive.com/" class="active">ARCHIVE</a></div>
+    <div style="clear: both;"></div>
+-->
+
+
 <div id="topnavContainer" class="container">
     <div class="grid_8a" id="topnav">
         <div id="TopLogoContainer">
-            <a href="./">
-                <img src="i/logo-apMark.png" alt="AP" class="mark"></a>
+            <a href="/">
+                <img src="/i/logo-apMark.png" alt="AP" class="mark"></a>
         </div>
         <div>
-            <a href="./">
-                <img src="i/logo-archive.png" alt="AP Archive" class="logo-aparchive"></a>
+            <a href="/">
+                <img src="/i/logo-archive.png" alt="AP Archive" class="logo-aparchive"></a>
         </div>
     </div>
     <div class="grid_8" id="topright">
 
-
 <link rel="shortcut icon" href="/images/icons/favicon.ico" type="image/vnd.microsoft.icon">
-<link href="css/navigation.css" rel="stylesheet">
-<link href="css/navigation2.css" rel="stylesheet">
-<script type="text/javascript" src="js/jquery.hoverIntent.js"></script>
-<script type="text/javascript" src="js/bootstrap-dropdown.js"></script>
+<link href="/css/navigation.css" rel="stylesheet">
+<link href="/css/navigation2.css" rel="stylesheet">
+<script type="text/javascript" src="/js/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="/js/bootstrap-dropdown.js"></script>
 <script type="text/javascript">
 	var length = 0;
 	$(document).ready(function () {
@@ -245,11 +317,11 @@
 	        out: function () { $(this).children(".actions").hide(); }       // function = onMouseOut callback (required)
 	    });
 
-	    var changePasswordDialog = $('#changePasswordDialog').apUiModal();
-	    $('#changePassword').apRequestsChangePassword(changePasswordDialog);
-
 	    var changeTimeZone = $('#timeZoneFormatDialog').apUiModal();
 	    $('#changeTimeZone').apRequestsChangePreferences(changeTimeZone);
+
+	    var changePasswordDialog = $('#changePasswordDialog').apUiModal();
+	    $('#changePassword').apRequestsChangePassword(changePasswordDialog);
 
 	    $('#PackageDialog').hide();
 	    $('.dropdown-toggle-topnav').click(function () {
@@ -323,9 +395,10 @@
 	function newPopup(url) {
 		popupWindow = window.open(url, 'popUpWindow', 'height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
      }
-     function routeUrl() {
-         document.location.href = "/partners";
+	function routeUrl() {
+	        document.location.href = "/partners";
      }
+
      function SetNotificationBarPosition() {
          if ($("#myNotification").length > 0) {
              var curr_width = $("#myNotification").outerWidth();
@@ -336,19 +409,21 @@
          }
      }
 </script>
+
     <div style="float: right;" class="topHeader">
         <div style="padding: 3px 20px 0 0; color: #fff; font: normal 12px GoodWeb-Book, Verdana, Arial, Helvetica, sans-serif;">
             <span>Welcome &nbsp;Guest</span></div>
         <div style="padding: 3px 0px 0 0; color: #fff; font: normal 12px GoodWeb-Book, Verdana, Arial, Helvetica, sans-serif;">
-            <span><a href="login">Sign in or Register</a></span></div>
+            <span><a id="signInOrRegister" href="/login">Sign in or Register</a></span></div>
     </div>
     <div style="float: right; margin-top: 12px; width: auto;" class="inactivenav lowerheader">
         <div id="homeMenu" style="padding: 10px 20px 0 0;" onclick="HighLightsMenuItem('home')">
-            <a href="./">Home</a></div>
+            <a href="/">Home</a></div>
         <div id="compilationsMenu" class="compilationpop hover-menu" onclick="LoadMenuHighLights()" style="padding: 10px 20px 0 7px; position: relative;" ap-action="package">
-            <a href="Compilation">AP Compilations<b class="caret-topnav" style="margin: 6px 0 0 4px;"></b><span class="gbmac"></span></a>
+            <a href="/Compilation">AP Compilations<b class="caret-topnav" style="margin: 6px 0 0 4px;"></b><span class="gbmac"></span></a>
             <ul class="actions dropdown-menu-topnav" style="top: 29px; left: -300px; padding: 12px 0 0 0;
                 margin: 0px; width: 644px; font: normal 12px GoodWeb-Book; text-transform: none;">
+
 <script type="text/javascript">
     $(document).ready(function () {
         $('.category-widget a').click(function () {
@@ -362,121 +437,112 @@
     <div class="category-group">
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/46/Accidents_Disasters" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Accidents &amp; Disasters', 'Accidents &amp; Disasters']);">Accidents &amp; Disasters</a>
+                    <a href="/compilations/19602/Accidents_Disasters" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Accidents &amp; Disasters', 'Accidents &amp; Disasters']);">Accidents &amp; Disasters</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/48/Conflicts_Terrorism" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Conflicts &amp; Terrorism', 'Conflicts &amp; Terrorism']);">Conflicts &amp; Terrorism</a>
+                    <a href="/compilations/19604/AP Annual Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'AP Annual Reviews', 'AP Annual Reviews']);">AP Annual Reviews</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/80/Iraq" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Iraq', 'Iraq']);">Iraq</a>
+                    <a href="/compilations/19603/AP Annual Entertainment Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'AP Annual Entertainment Reviews', 'AP Annual Entertainment Reviews']);">AP Annual Entertainment Reviews</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/82/Vietnam%20War" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Vietnam War', 'Vietnam War']);">Vietnam War</a>
+                    <a href="/compilations/19606/Conflicts_Terrorism" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Conflicts &amp; Terrorism', 'Conflicts &amp; Terrorism']);">Conflicts &amp; Terrorism</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/81/North%20Korea" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'North Korea', 'North Korea']);">North Korea</a>
+                    <a href="/compilations/19607/Crime" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Crime', 'Crime']);">Crime</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/16/Personalities" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Personalities', 'Personalities']);">Personalities</a>
+                    <a href="/compilations/19608/Economy" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Economy', 'Economy']);">Economy</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/83/Celebrities" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Celebrities', 'Celebrities']);">Celebrities</a>
+                    <a href="/compilations/19609/Fashion_Lifestyle" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Fashion &amp; Lifestyle', 'Fashion &amp; Lifestyle']);">Fashion &amp; Lifestyle</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/78/Movements_Political%20Events" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Movements &amp; Political Events', 'Movements &amp; Political Events']);">Movements &amp; Political Events</a>
+                    <a href="/compilations/19611/Iraq" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Iraq', 'Iraq']);">Iraq</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/44/US%20Presidential%20Elections%202008" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'US Presidential Elections 2008', 'US Presidential Elections 2008']);">US Presidential Elections 2008</a>
+                    <a href="/compilations/19612/Location Stockshots" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Location Stockshots', 'Location Stockshots']);">Location Stockshots</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/63/Crime" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Crime', 'Crime']);">Crime</a>
+                    <a href="/compilations/19613/Movements_Political Events" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Movements &amp; Political Events', 'Movements &amp; Political Events']);">Movements &amp; Political Events</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/87/Natural%20World_Environment" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Natural World &amp; Environment', 'Natural World &amp; Environment']);">Natural World &amp; Environment</a>
+                    <a href="/compilations/19614/Natural World_Environment" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Natural World &amp; Environment', 'Natural World &amp; Environment']);">Natural World &amp; Environment</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/89/Economy" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Economy', 'Economy']);">Economy</a>
+                    <a href="/compilations/19615/North Korea" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'North Korea', 'North Korea']);">North Korea</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/90/Sports" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Sports', 'Sports']);">Sports</a>
+                    <a href="/compilations/19616/Olympics" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Olympics', 'Olympics']);">Olympics</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/126/Olympics" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Olympics', 'Olympics']);">Olympics</a>
+                    <a href="/compilations/19617/People" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'People', 'People']);">People</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/91/Space%20Exploration" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Space Exploration', 'Space Exploration']);">Space Exploration</a>
+                    <a href="/compilations/19618/Space Exploration" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Space Exploration', 'Space Exploration']);">Space Exploration</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/95/Fashion_Lifestyle" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Fashion &amp; Lifestyle', 'Fashion &amp; Lifestyle']);">Fashion &amp; Lifestyle</a>
+                    <a href="/compilations/19619/Sports" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Sports', 'Sports']);">Sports</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/118/Location%20Stockshots" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Location Stockshots', 'Location Stockshots']);">Location Stockshots</a>
+                    <a href="/compilations/19620/Universal Annual Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Universal Annual Reviews', 'Universal Annual Reviews']);">Universal Annual Reviews</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/119/Financial%20Stockshots" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Financial Stockshots', 'Financial Stockshots']);">Financial Stockshots</a>
+                    <a href="/compilations/19621/Universal Newsreels" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Universal Newsreels', 'Universal Newsreels']);">Universal Newsreels</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/20/Wackies" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Wackies', 'Wackies']);">Wackies</a>
+                    <a href="/compilations/19622/US Presidential Elections 2008" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'US Presidential Elections 2008', 'US Presidential Elections 2008']);">US Presidential Elections 2008</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/99/AP%20Annual%20Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'AP Annual Reviews', 'AP Annual Reviews']);">AP Annual Reviews</a>
+                    <a href="/compilations/19623/Vietnam War" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Vietnam War', 'Vietnam War']);">Vietnam War</a>
                 </div>
             </div> 
             <div class="category-widget-col">
                 <div class="category-widget">                                    
-                    <a href="/compilations/120/AP%20Annual%20Entertainment%20Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'AP Annual Entertainment Reviews', 'AP Annual Entertainment Reviews']);">AP Annual Entertainment Reviews</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/24/Universal%20Annual%20Reviews" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Universal Annual Reviews', 'Universal Annual Reviews']);">Universal Annual Reviews</a>
-                </div>
-            </div> 
-            <div class="category-widget-col">
-                <div class="category-widget">                                    
-                    <a href="/compilations/35/Universal%20Newsreels" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Universal Newsreels', 'Universal Newsreels']);">Universal Newsreels</a>
+                    <a href="/compilations/19624/Wackies" onclick="_gaq.push(['_trackEvent', 'Compilation Link', 'Wackies', 'Wackies']);">Wackies</a>
                 </div>
             </div> 
     </div>
 </div>
+
             </ul>
         </div>
         <div id="partnersMenu" class="hover-menu" onclick="routeUrl();" style="padding: 10px 0px 0 3px;">
@@ -493,6 +559,7 @@
         </div>
     </div>        
 
+
     </div>
     <div class="clearfix">
     </div>
@@ -502,14 +569,14 @@
         <tbody><tr>
             <td>
                 <div class="searchBar">
-                    <form id="search" name="input" action="search">
-                    <input type="hidden" id="searchStartDate" name="startd" value="">
-                    <input type="hidden" id="searchEndDate" name="endd" value="">
-                    <input type="hidden" id="searchAllFilters" name="allFilters" value="">   
+                    <form id="search" name="input" action="/search">
+                    <input type="hidden" id="searchStartDate" name="startd">
+                    <input type="hidden" id="searchEndDate" name="endd">
+                    <input type="hidden" id="searchAllFilters" name="allFilters">   
                                    
                     <ul style="width: 683px;">
                         <li>
-                            <input type="text" name="query" id="query" class="searchTextBox" title="Explore our exclusive footage" value="" style=" height:40px;"></li>
+                            <input type="text" name="query" id="query" class="searchTextBox" title="Explore our exclusive footage" style=" height:40px;"></li>
                         <li class="advanceddropdown" style="width: 113px;"><a class="advsearchbutton dropdown-toggle-topnav" data-toggle="dropdown" href="#advsearchbutton" style="border-radius: 0px; height: 40px;
                             line-height: 40px; display: block; padding: 0; text-align: center;">Advanced<b class="caret-topnav" style="margin: 18px 0 0 4px; color:Black;"></b></a>
                             <ul class="advancedSearch dropdown-menu-topnav" style="filter: none;">
@@ -519,13 +586,7 @@
 <script type="text/javascript">
     $(document).ready(function () {
 
-        var decadefilter = $.cookie.get('selecteddecade');
-        if (decadefilter != "" && decadefilter != null && decadefilter != undefined) {
-            $('#decadeddl').val(decadefilter.split(','));
-            $('#decadeddl').multiselect('refresh');
-        }
-
-        var selectedsubval = $.cookie.get('selectedsubscription');
+        var selectedsubval = $.cookie('selectedsubscription');
         if (selectedsubval != "" && selectedsubval != null && selectedsubval != undefined) {
             $("#subscitionddl").val(selectedsubval);
         }
@@ -534,7 +595,7 @@
             if (ValidateAdvancedFilters()) {
                 SearchHandler.setErrorMessage("", "errormessage");
                 AddDateFilter();
-                search();
+                return search();
             }
             else {
                 return false;
@@ -546,39 +607,46 @@
             noneSelectedText: 'Select an Option',
             minWidth: '160',
             checkAll: function () { ValidateAdvancedFilters(); SearchHandler.clickAdvDecadeFilter("Decade"); },
-            uncheckAll: function () { ValidateAdvancedFilters(); SearchHandler.clickAdvDecadeFilter("Decade"); $.cookie.unset('selecteddecade'); }
+            uncheckAll: function () { ValidateAdvancedFilters(); SearchHandler.clickAdvDecadeFilter("Decade"); $.removeCookie('selecteddecade'); }
         });
+
+        var decadefilter = $.cookie('selecteddecade');
+        if (decadefilter != "" && decadefilter != null && decadefilter != undefined) {
+            $('#decadeddl').val(decadefilter.split(','));
+            $('#decadeddl').multiselect('refresh');
+        }
+
         $('.ui-multiselect-menu').css({ 'width': '160' });
         $("#decadeddl").bind("multiselectclick", function (event, ui) {
             ValidateAdvancedFilters();
             SearchHandler.clickAdvDecadeFilter("Decade");
         });
-        $('.advsearchDateFilter .date').apDateInputInit('i');
-        $(function () {
-            $('#subscitionddl').selectmenu({
-                style: 'dropdown',
-                direction: "down",
-                speed: 1000,
-                menuWidth: 200,
-                maxHeight: 200,
-                format: TextFormatting,
-                change: function () {
-                    var selectedvalue = $(this).val();
-                    if (selectedvalue != "" && selectedvalue != null && selectedvalue != undefined) {
-                        SearchHandler.ClickAdvsubscriptionFiler("Products", selectedvalue);
-                    }
-                    else {
-                        SearchHandler.ClickAdvsubscriptionFiler("Products", selectedvalue);
-                        //SearchHandler.filters.removeByCategory("Products");
-                        //$.cookie.set('selectedsubscription', "", { path: '/' });
-                    }
+        $('.advsearchDateFilter .date').apDateInputInit('/i');
+
+        $('#subscitionddl').selectmenu({
+            style: 'dropdown',
+            direction: "down",
+            speed: 1000,
+            menuWidth: 200,
+            maxHeight: 200,
+            format: TextFormatting,
+            change: function () {
+                var selectedvalue = $(this).val();
+                if (selectedvalue != "" && selectedvalue != null && selectedvalue != undefined) {
+                    SearchHandler.ClickAdvsubscriptionFiler("Products", selectedvalue);
                 }
-            });
+                else {
+                    SearchHandler.ClickAdvsubscriptionFiler("Products", selectedvalue);
+                    //SearchHandler.filters.removeByCategory("Products");
+                    //$.cookie.set('selectedsubscription', "");
+                }
+            }
         });
 
         SetCheckboxstyles();
 
     });
+
     //a custom format option callback
     var TextFormatting = function (text) {
         var newText = text;
@@ -606,7 +674,19 @@
     }
 
     function search() {
-        document.getElementById('search').submit();
+        // Track GA event for search filter.
+        _gaq.push(['_trackEvent', 'Filters (Advanced)', SearchHandler.getAllFiltersState()]);
+
+        // Disable the submit button to avoid multiple clicks.
+        $("#advancedsearch").attr('disabled', true);
+        $("#advancedsearch").addClass('disabled');
+
+        // After 1 second, submit the form.
+        setTimeout(function () {
+            document.getElementById('search').submit();
+        }, 600);
+
+        return false;
     }
 
     function AddDateFilter() {
@@ -630,9 +710,9 @@
 //            SearchHandler.filters.removeByCategory("Decade");
 //            SearchHandler.filters.removeByCategory("Products");
             SearchHandler.filters.removeAllFilters();
-            $.cookie.unset('setallfilters');
-            $.cookie.unset('selecteddecade');
-            $.cookie.unset('selectedsubscription');
+            $.removeCookie('setallfilters');
+            $.removeCookie('selecteddecade');
+            $.removeCookie('selectedsubscription');
             $("#producttypeid").val("IncludedProducts");
             TabIndex = 0;           
             SearchHandler.setAllFiltersState("");
@@ -641,21 +721,21 @@
             $.each(SearchHandler.AdvfiltersArray, function (i, value) {
                 var filter = value.split(":");
                 if (filter[1] == "Products" && filter[0] != "" && filter[0] != null) {
-                    var prevval = $.cookie.get('selectedsubscription');
+                    var prevval = $.cookie('selectedsubscription');
                     if (prevval != null && prevval != undefined) {
                         SearchHandler.filters.removeByCategory("Products");
                     }
-                    $.cookie.set('selectedsubscription', filter[0], { path: '/' });
+                    $.cookie('selectedsubscription', filter[0]);
                 }
                 if (filter[1] == "Products" && filter[0] == "") {
-                    $.cookie.set('selectedsubscription', "", { path: '/' });
+                    $.cookie('selectedsubscription', "");
                 }
                 if (filter[1] == "Decade" && filter[0] != "" && filter[0] != null) {
-                    var prevdecade = $.cookie.get('advdecade');
-                    $.cookie.set('selecteddecade', prevdecade, { path: '/' });
+                    var prevdecade = $.cookie('advdecade');
+                    $.cookie('selecteddecade', prevdecade);
                 }
                 if (filter[1] == "Decade" && filter[0] == "") {
-                    $.cookie.set('selecteddecade', "", { path: '/' });
+                    $.cookie('selecteddecade', "");
                 }            
                 SearchHandler.clickAdvancedSearchAllFilter(filter[1], filter[0]);
             });
@@ -752,6 +832,7 @@
                             <div class="filter">
                                 <ul style="margin-bottom: 5px;">
                                     <li>
+
                                         <span style="vertical-align: middle;">
                                             <input checked="" id="searchFilterHdSdFormatboth1" name="searchFilterHdSDFormat" type="radio" value="All" onclick="SearchHandler.clickHDSDAddvancedfilters('IsHd',null);"><label for="searchFilterHdSdFormatboth1"></label></span>
                                         <span><b>All Resolutions</b></span> </li>
@@ -763,6 +844,7 @@
                                 </ul>
                                 <ul style="margin-bottom: 5px;">
                                     <li>
+
                                         <span style="vertical-align: middle;">
                                             <input checked="" id="searchFilterDigitizedboth1" name="searchFilterDigitized" type="radio" value="All" onclick="SearchHandler.clickdigitizedAddvancedfilters('IsDigitized',null);"><label for="searchFilterDigitizedboth1"></label></span> <span><b>All Statuses</b></span>
                                     </li>
@@ -773,6 +855,7 @@
                                 </ul>
                                 <ul style="margin-bottom: 5px;">
                                     <li>
+
                                         <span style="vertical-align: middle;">
                                             <input checked="" id="searchFiltercolorFormatBoth1" name="searchFiltercolorFormat" type="radio" value="All" onclick="SearchHandler.clickcolorAddvancedfilters('IsColor',null);"><label for="searchFiltercolorFormatBoth1"></label></span> <span><b>All Colors</b></span>
                                     </li>
@@ -783,6 +866,7 @@
                                 </ul>
                                 <ul>
                                     <li>
+
                                         <span style="vertical-align: middle;">
                                             <input checked="" id="searchFilterAllaspectratioFormat1" name="searchFilteraspectratioFormat" type="radio" value="All" onclick="SearchHandler.clickAspectrationAddvancedfilters('AspectRatio',null);"><label for="searchFilterAllaspectratioFormat1"></label></span> <span><b>All Aspect Ratios</b></span>
                                     </li>
@@ -800,41 +884,48 @@
                             <div class="filter">
                                 <ul>
                                         <li>
+
                                             <span style="vertical-align: middle;">
                                                 <input id="searchPartners-ABC News" name="searchPartner" type="checkbox" value="ABC News|100487" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
                                                 <label for="searchPartners-ABC News" style="cursor: pointer;">
                                                 </label>
                                             </span><span style="">ABC News</span> </li>            
                                         <li>
+
                                             <span style="vertical-align: middle;">
                                                 <input id="searchPartners-AP" name="searchPartner" type="checkbox" value="AP|8976" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
                                                 <label for="searchPartners-AP" style="cursor: pointer;">
                                                 </label>
                                             </span><span style="">AP</span> </li>            
                                         <li>
+
                                             <span style="vertical-align: middle;">
-                                                <input id="searchPartners-AP and Partners" name="searchPartner" type="checkbox" value="AP and Partners|8976;8978;40204;43894;42371;43364;42904;42905;8990;8980;8977;43223;8985;8986;44292;44046;8983;8988;8989;43224;8981;8984;8987" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
+                                                <input id="searchPartners-AP and Partners" name="searchPartner" type="checkbox" value="AP and Partners|8976;8978;40204;43894;42371;42904;42905;8990;8980;43223;8985;8986;44292;44046;8983;8988;8989;43224;8981;8984;8987" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
                                                 <label for="searchPartners-AP and Partners" style="cursor: pointer;">
                                                 </label>
                                             </span><span style="">AP and Partners</span> </li>            
                                         <li>
+
                                             <span style="vertical-align: middle;">
                                                 <input id="searchPartners-British Movietone" name="searchPartner" type="checkbox" value="British Movietone|43894" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
                                                 <label for="searchPartners-British Movietone" style="cursor: pointer;">
                                                 </label>
                                             </span><span style="">British Movietone</span> </li>            
                                         <li>
+
                                             <span style="vertical-align: middle;">
                                                 <input id="searchPartners-Celebrity Footage" name="searchPartner" type="checkbox" value="Celebrity Footage|42371" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
                                                 <label for="searchPartners-Celebrity Footage" style="cursor: pointer;">
                                                 </label>
                                             </span><span style="">Celebrity Footage</span> </li>            
                                         <li>
+
                                             <span style="vertical-align: middle;">
                                                 <input id="searchPartners-TV-am" name="searchPartner" type="checkbox" value="TV-am|42905" onclick="SearchHandler.clickADvPartnersSearch('Partner',this);">
                                                 <label for="searchPartners-TV-am" style="cursor: pointer;">
                                                 </label>
                                             </span><span style="">TV-am</span> </li>            
+
                                 </ul>
                             </div>
                         </div>
@@ -854,6 +945,8 @@
             </tbody></table>
         </div>
     </div>
+
+
                                 </li>
                             </ul>
                         </li>
@@ -902,35 +995,8 @@
 <!-- SiteEdit Settings: { "PageID" : "tcm:40-7195-64", "PageVersion" : 1, "TargetTypeID" : "", "ComponentPresentationLocation" : 1} -->
     <div id="footer">
         <div class="container">
-            <!--<div id="apVideoFooter" class="grid_16">
-                    <p>About Us <a href="http://www.aparchive.com/uns/splash/?url=about/ourContent.html">Our Content</a> <a href="http://www.aparchive.com/splash/Partners.aspx?sh=-11">Our Partners</a> <a href="http://www.aparchive.com/uns/splash/?url=about/howWeWork.html">How We Work</a> <a href="http://www.aparchive.com/uns/splash/?url=about/ourCustomers.html">Our Customers</a> <a href="http://www.aparchive.com/uns/splash/?url=about/news.html">News</a></p>
-
-                    <p>Services <a href="http://www.aparchive.com/splash/searchAssist.aspx">Research Assistance</a> <a href="http://www.aparchive.com/uns/splash/?url=services/contentRepresentation.html">Content Representation</a> <a href="http://www.aparchive.com/uns/splash/?url=services/rightsClearance.html">Rights Clearance</a> <a href="http://www.aparchive.com/uns/splash/?url=services/productionFacilities.html">Production Facilities</a></p>
-                    <p>Related Products <a href="http://www.aparchive.com/uns/splash/?url=products/photos.html">Photos</a> <a href="http://www.aparchive.com/uns/splash/?url=products/instantLibrary.html">Instant Library</a></p>
-                </div>
-                <div class="clearfix"></div>-->
-            <div id="apLinks" class="grid_16" style="margin-left:0px; margin-right:0px;">
-                <!--<div class="apLink">
-                        <a href="http://www.apimages.com/"><img src="i/ap-images.png" id="apImagesLogo" alt="AP Images" /></a>
-
-                        <p>The world's largest bank of historical and recent photos&nbsp;<a href="http://www.apimages.com/"><img src="i/btn_ap-link.png" alt="AP Images" class="apLink" /></a></p>
-                    </div>
-                    <div class="apLink">
-                        <a href="http://www.aptn.com/"><img src="i/ap-tvn.png" id="apTvnLogo" alt="AP Television News" /></a>
-                        <p>The world's largest video news agency for international video&nbsp;<a href="http://www.aptn.com/"><img src="i/btn_ap-link.png" alt="AP Television News" class="apLink" /></a></p>
-                    </div>
-                    <div class="apLink" alt="AP Entertainment">
-                        <a href="http://entertainment.ap.org/"><img src="i/ap-ent.png" id="apEntLogo" alt="AP Television News" /></a>
-
-                        <p>The best source for breaking entertainment news and features&nbsp;<a href="http://entertainment.ap.org/"><img src="i/btn_ap-link.png" alt="AP Entertainment" class="apLink" /></a></p>
-                    </div>
-                    <div class="apLink">
-                        <a href="http://www.ap.org/"><img src="i/ap.png" id="apLogo" alt="AP" /></a>
-                        <p>The essential global news network, delivering fast, unbiased news&nbsp;<a href="http://www.ap.org/"><img src="i/btn_ap-link.png" alt="AP" class="apLink" /></a></p>
-                    </div>
-                    <div class="clear"></div>-->
-
-                    <table border="0" style="width:100%; margin-top:30px; margin-left:25px;  margin-bottom:40px;">
+            <div id="apLinks" class="grid_16" style="margin-left: 0px; margin-right: 0px;">
+                <table border="0" style="width:100%; margin-top:30px; margin-left:25px;  margin-bottom:40px;">
   <tbody><tr>
     <td class="footerheaderLink" style="font-size: 14px; font-weight: bold; color: #FFFFFF; Padding: 0 0 25px 0; margin-right:5%;">AP ARCHIVE</td>
     <td class="footerheaderLink" style="font-size: 14px; font-weight: bold; color: #FFFFFF; Padding: 0 0 25px 0; margin-right:5%; ">ASSOCIATED PRESS</td>
@@ -982,15 +1048,12 @@
 </tbody></table>
  <div style="border-bottom:1px solid #E7E2D8; width:1136px;"></div>
 <div style=" margin-left:25px; padding:20px 0 30px 12px;">All contents © Copyright 2013 <a href="http://www.ap.org/">The Associated Press</a>. All rights reserved.</div>
-
-                <div class="clear">
-                </div>
+               <div class="clear"></div>
             </div>
-            <div class="clearfix">
-            </div>
+            <div class="clearfix"></div>
         </div>
     </div>
-  
+
     <!-- modal dialogs -->
     <div id="addToFolderDialogContainer"></div>
 <div id="messageBoxDialog" class="modelContent genericDialog">
@@ -1006,5 +1069,13 @@
         <div class="clearfix"></div>
     </div>
 </div>
+
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+       restoreOrderHistoryProgress();
+    });
+    </script>
+
 
 </body></html>
