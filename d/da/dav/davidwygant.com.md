@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the davidwygant.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423214959id_/http%3A//www.davidwygant.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidwygant.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225230634id_/http%3A//www.davidwygant.com/privacypolicy) for the most accurate reproduction.*
 
-# David Wygant - The Dating Expert that men and women trust most with their love lives
+# David Wygant.com Privacy Policy
 
-David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc.'s Statement of Privacy
+David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc.’s Statement of Privacy
 
 David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc. are committed to protecting your privacy. This Statement of Privacy applies to davidwygant.com and governs data collection and usage at all David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc. sites and services; it does not apply to other online or offline sites, products or services. 
 
@@ -63,7 +63,7 @@ David Wygant, DW Productions, Wygant Creative Group and Wygant Productions, Inc.
 (c) the exact URL or a description of each place where alleged infringing material is located;  
 (d) a statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law;  
 (e) your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf; and  
-(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner's behalf
+(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner’s behalf
 
 Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
