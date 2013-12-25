@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itgossips.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601061000id_/http%3A//itgossips.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgossips.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225035249id_/http%3A//itgossips.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | iPhone, iPad, iOS, Jailbreak, Android, Tablet, Smart Phones, Computer, Laptop, Desktop - Solutions & How To
 
