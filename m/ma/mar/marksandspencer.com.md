@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427011506id_/http%3A//help.marksandspencer.com/faqs/company-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225140850id_/http%3A//help.marksandspencer.com/faqs/company-website/privacy-policy) for the most accurate reproduction.*
 
 # Ask Marks & Spencer - What is the website's privacy policy?
 
@@ -12,7 +12,6 @@ Marks & Spencer is committed to respecting the privacy rights of visitors to its
 
 **You must read this privacy policy carefully and we recommend that you print and retain a copy for your future reference. By accessing, browsing or otherwise using this Website, you confirm that you have read, understood and agree to this privacy policy in its entirety.   If you do not agree to this privacy policy in its entirety, you must not use this Website.**
 
-****
   * ****Who we are** **
   * **Children**
   * ****The personal data we collect about you** **
@@ -43,7 +42,7 @@ We respect your right to privacy and will only process personal data you provide
 If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please contact us by any of the following means:
 
   * phone us on: 0845 302 1234; 
-  * e-mail us at: [retailcustomer.services@marksandspencer.com](mailto:retailcustomer.services@marksandspencer.com) or 
+  * e-mail us at: [retailcustomer.services@marksandspencer.com](mailto:retailcustomer.services@marksandspencer.com) or
   * write to us at: Marks & Spencer, Retail Customer Services, Chester Business Park, Wrexham Road, Chester CH4 9GA
 
 
@@ -58,11 +57,11 @@ We do not and will not knowingly collect information from any unsupervised perso
 
 When you make purchases from Marks & Spencer (including purchases made in-store, over the phone, or via our catalogue order forms or this Website) we may collect the following personal data about you:
 
-  * your name, age and sex; 
-  * your billing and delivery postal addresses, phone, fax and e-mail details; 
-  * where you have registered with us, your user name and password; 
-  * where you place an order with us, your payment card details; 
-  * your communication and shopping preferences; 
+  * your name, age and sex;
+  * your billing and delivery postal addresses, phone, fax and e-mail details;
+  * where you have registered with us, your user name and password;
+  * where you place an order with us, your payment card details;
+  * your communication and shopping preferences;
   * your browsing and online shopping activities; and 
   * your date of birth.
 
@@ -75,12 +74,12 @@ We may also collect some or all of the above personal data about you when you ac
 
 Marks & Spencer (and third party data processors acting on our behalf) may collect, store and process your personal data:
 
-  *  to make this Website available to you and to provide you with content which is tailored to your individual tastes; 
-  * to maintain any registered account that you hold with us (including pledge accounts created under the "Plan A" section of our Website); 
-  * with your agreement, to contact you (including by SMS and e-mail) about promotional offers and products and services which we think may interest you and for customer satisfaction and market research purposes; 
-  * to provide our goods and services to you and for associate purposes, including verifying your identity; 
-  * for research, analysis, testing, monitoring, risk management and administrative purposes; and 
-  * for any related purposes, or where we have a legal right or duty to use or disclose your information (including for crime and fraud preventation and related purposes). 
+  *  to make this Website available to you and to provide you with content which is tailored to your individual tastes;
+  * to maintain any registered account that you hold with us (including pledge accounts created under the "Plan A" section of our Website);
+  * with your agreement, to contact you (including by SMS and e-mail) about promotional offers and products and services which we think may interest you and for customer satisfaction and market research purposes;
+  * to provide our goods and services to you and for associate purposes, including verifying your identity;
+  * for research, analysis, testing, monitoring, risk management and administrative purposes; and
+  * for any related purposes, or where we have a legal right or duty to use or disclose your information (including for crime and fraud preventation and related purposes).
 
 
 
@@ -115,9 +114,11 @@ If you have any questions or concerns about the collection or use of your person
 
 **E-mail newsletter preferences and text alerts**
 
-We provide you with the ability to control whether or not to receive e-mail newsletters, or to change the types of e-mail newsletters you receive, through our newsletter preference centre which is accessible by clicking [here](http://www.marksandspencer.com/gp/subscription/276-5650863-9572915?ie=UTF8&mnSBrand=core&viewID=email-preferences).
+We provide you with the ability to control whether or not to receive e-mail newsletters.
 
-Marks & Spencer will only send you text alerts with your permission. You can opt out of receiving these text alerts at any time by texting STOP to 65006. Data may be supplied to third party processors to enable the service to be provided.
+To unsubscribe from an email newsletter, please click the unsubscribe link at the bottom of any email newsletter you have received from M&S.
+
+To stop text alerts, please follow the stop instructions at the bottom of any text alert you have received from M&S.
 
 **Personalised banner  advertising**
 
@@ -208,8 +209,8 @@ However, please note that whilst we take appropriate technical and organisationa
 
 If you are using a computer or terminal in a public location, we recommend that you always log out and close the website browser when you complete an online session for your security. In addition we recommend that you take the following security measures to enhance your online safety:
 
-  * Keep your account passwords private. Remember, anybody who knows your password may access your account. 
-  * When creating a password, use at least 8 characters. A combination of letters and numbers is best. Do not use dictionary words, your name, email address, or other personal data that can be easily obtained. We also recommend that you frequently change your password. You can do this by going to ‘My Account’ and clicking ‘Change name, email or password’, 
+  * Keep your account passwords private. Remember, anybody who knows your password may access your account.
+  * When creating a password, use at least 8 characters. A combination of letters and numbers is best. Do not use dictionary words, your name, email address, or other personal data that can be easily obtained. We also recommend that you frequently change your password. You can do this by going to ‘My Account’ and clicking ‘Change name, email or password’,
   * Avoid using the same password for multiple online accounts.
 
 
@@ -222,8 +223,8 @@ We will never ask you to confirm any account or credit card details via email. I
 
 You have the following rights:
 
-  * the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently £10); 
-  * the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and 
+  * the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently £10);
+  * the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and
   * the right to opt out of any marketing communications that we may send you.
 
 
