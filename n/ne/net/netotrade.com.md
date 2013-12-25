@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netotrade.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424155022id_/http%3A//www.netotrade.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netotrade.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226004444id_/http%3A//www.netotrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NetoTrade
 
@@ -55,9 +55,5 @@ We may monitor your communications to evaluate the quality of service you receiv
 From time to time, we may update this privacy statement. In the event that we materially change this privacy statement, the revised statement will promptly be posted on the website and we will post a notice on our website informing you of such changes. You agree to accept the posting of a revised privacy statement electronically on the website as an actual notice to you. Any dispute over our privacy statement is subject to this notice and our customer agreement. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. If you have any questions that this statement does not address, please contact a client services representative. 
 
 If you have any questions regarding this policy, wish to access or change your information or have a complaint, please contact us via live chat, email or through one of our management centre’s with your concerns at:
-
-788-790 Finchley Road
-
-London NW11 7TJ
 
 Support@netotrade.com
