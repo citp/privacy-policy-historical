@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaweek.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042804id_/http%3A//www.adweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaweek.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225034703id_/http%3A//www.adweek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adweek
 
