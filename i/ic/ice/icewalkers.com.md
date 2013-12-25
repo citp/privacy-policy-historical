@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icewalkers.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624145457id_/http%3A//www.icewalkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icewalkers.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226001859id_/http%3A//www.icewalkers.com/privacy.php) for the most accurate reproduction.*
 
 # IceWalkers.com - Privacy Policy
 
