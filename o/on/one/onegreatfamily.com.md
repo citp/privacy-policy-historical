@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the onegreatfamily.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513032439id_/http%3A//www.onegreatfamily.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreatfamily.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225195726id_/http%3A//www.onegreatfamily.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This is the web site of OneGreatFamily. 
 
 Our postal address is:  
-2162 West Grove Parkway, Ste. 150  
-Pleasant Grove, UT  84062 
+1371 West 1250 South, Suite 100  
+Orem, UT 84058 
 
 We can be reached through our contact form.
 
