@@ -1,0 +1,79 @@
+> *The following text is extracted and transformed from the likesfollow.net privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226003608id_/http%3A//www.likesfollow.net/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy
+
+## **Privacy Policy**
+
+**Legal Privacy Policy Followed by LIKESFOLLOW.NET**  
+We give due importance to privacy of guests who visit us and clients who use our services. In that, we feel gratification for providing protection to your privacy, anytime whenever you visit our website.  
+The Privacy Policy and also our Terms of Use helps you to understand the explanations we have provided clearly regarding the personal data you provide or whichever data we collect from you.  
+Our privacy policy is scheduled to update on regular intervals. So it is suggested that you visit and review our privacy policy from time to time. 
+
+  * **Information Assembled**
+
+
+
+While in operation, our website can collect data. After collection, data is handled by means of the following actions:
+
+  * Firstly, the visits you made to our website are stored in our system. In addition to this, if any resources are utilized regarding our website, it is also collected. Following are some of the information that we may collect but is not limited to location data, traffic data, weblogs, and any other communication information.
+  * Any sort of data that you fill-in on our websites is collected, like registering for information or if any purchase is completed that you make.
+  * Data is also collected when you contact us using various modes of communications like, administration, support or site. 
+  * **Usage of Cookies**
+
+
+
+There is a fair chance that we may use cookies to gather information about our guests. This information will be based on our services in a mathematical collection regarding our websites and advertisers with us.  
+Personal details of users will not be shared that can aid in their identification. The data we will collect include statistical data about our visitors. It also includes the data of the users who use/used our website.  
+There is a chance of collecting information of you regarding your common internet use, with a cookie file. These cookies are automatically downloaded on your computer. These will be saved in your hard disk. The data supplied by a cookie will be helpful for us to improve our services as suggested by you. You also have an option to decline cookies by using your own browser settings so that all cookies will be declined. However for your knowledge, if you decline our cookies, there are certain features of our website, which will not be available to you for use. 
+
+  * **Use of Information by You**
+
+
+
+Information that we gather is helpful for us to improve our services. As per your requirements, below are some ways in which we may use data from you:
+
+  * You will benefit by the services and products of provided by us in a way that when you request something to our website, we will use the information provided by you. If you permit us, we may send information regarding the products and services.
+  * If there are any changes made or improvement in our website, this will guarantee the use of your information. However, you will be notified about these changes.
+  * The data and information from you may be used by us or we may share it with third parties. This data or information will not be related to those services and products in which you may be interested in. however, this will only happen in the case where we have your permission.
+  * You are empowered to use the opportunity to decline if you are not ready or don’t want to provide consent to our site or a third party. Once you decline this, we will not share your information with any third party communication and mailings.
+  * We have secure servers where your information is saved. Encryption is used for transaction of your data, to ensure maximum security of our users. 
+  * **Point to Note:** There is no security of data that is transmitted through online means of transmission. So we are not in a position to give full guarantee for your data protection and its security. We take all reasonable and possible, measures to ensure protection of information sent by you electronically. The data that is transmitted to us will be at your own risk. In addition to this, password confidentiality and security is also at your own risk.
+  * **Exposing of Information**
+
+
+
+There are times when we share and reveal personal information of users to people that are in our group. These include holding companies, subsidiaries, or any other if appropriate.   
+This exposure to third parties may occur due to the following reasons:
+
+  * If there is a case in which selling a part or whole business occurs to a third party, then there is a fair chance that your information may be shared.
+  * When there are any legal obligations, we may provide and share your information and also the visits you made to our website with the concerned authorities.
+  * Preventing fraud is another way in which we may unveil the information.
+  * **Links by Third Parties**
+
+
+
+There are chances that third party links are available on our website. Separate privacy policy is followed by each third party. So if you click on their link, this means that you are accepting their privacy policy. In that case we have no control over their privacy policy and hence we are not responsible for their (third party) links.
+
+  * **Cancellation and Repayment (Refund) Policy**
+
+
+
+**Cancellation policy**  
+We at LIKESFOLLOW.NET believe in helping our users and visitors as much as possible. In the light of this, we have pretty much liberal cancellation policy. Under the umbrella of the policy:
+
+  * Cancellation will only come under consideration if it is made within 24 hours of placing the order. However, if the orders are communicated to vendors or merchants and also if they have started the process of shipping then, that cancellation policy will not be entertained.
+  * If the order is placed under the Same Day Delivery category, then cancellation policy cannot be applied on this.
+  * LIKESFOLLOW.NET does not entertain and accept cancellations for those items (points), which you have already used.
+  * In a case where you receive a product that you ordered, and it is not according to the product that is shown on our website or it may not be according to your desire, then you must contact our customer services and bring this issue in their notice. This notice should be made within 24 hours of receiving the product. Appropriate decision will be taken after your complaint will undergone by our customer services team.
+
+
+
+**Repayment (Refund) Policy**  
+The service or products that you purchase from us are backed by a 1 day money back guarantee. However, if you are not happy with the purchase you made and also you have not used all purchased points. We will be happy in issue of a complete refund. If you want to request a refund, simply contact us with the purchase that you have made but within one day of your purchase. In that case you also have to send us the purchase order number, which was sent to you through email when you placed an order.   
+You can tell us why you are requesting for a refund, however it is an option and it is up to you if you want to share the reason of your refund. As we take feedback by the customers very seriously and in the light of that feedback, we always try to improve the quality of our services. Refunds for services that you have utilized already are not provided, as our account fills the balance of your account immediately after the purchase is done. The refunding process takes a 7 days period. 
+
+  * **Contact Information**
+
+
+
+You can feel free to contact us through our support center regarding any question, additional information, comments and requests. We are always at your service.
