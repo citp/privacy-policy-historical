@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pizzahut.ca privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530051056id_/http%3A//pizzahut.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.ca privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225075151id_/http%3A//www.pizzahut.ca/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Pizza Hut's Personal Info & Privacy Policy | Pizza Hut Canada
 
 ## PRIVACY POLICY
 
@@ -116,7 +116,7 @@ Also you may contact us to tell us, if you do not wish us to:
 
 Please feel free to contact us if have any questions about the collection, use, disclosure or storage of personal information by service providers located outside of Canada, or wish to access written information about the policies and practices utilized in connection with service providers outside of Canada.
 
-Contact us by email at [customerservice.canada@yum.com](mailto:customerservice.canada@yum.com) or by calling us at 1-866-664-5696
+Contact us at <http://www.pizzahut.ca/contact-us/> or by calling us at 1-866-364-0825.
 
 ### How do you monitor compliance with these practices?
 
