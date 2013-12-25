@@ -1,62 +1,124 @@
-> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620173216id_/http%3A//www.healthcare.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225172913id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
 
-# HHS Privacy Policy Notice | HealthCare.gov
+# Privacy | HealthCare.gov
 
-(as of July 30, 1999)
+Protecting your privacy is very important to us. We’re telling you about HealthCare.gov’s privacy policy so you know what information we collect, why we collect it, and what we do with it.
 
-Thank you for visiting our HHS web site and for reviewing our Privacy Policy. Our policy is clear:
+HealthCare.gov doesn’t collect any personally identifiable information (PII) about you during your visit to our website unless you choose to provide it to us. We do, however, collect information from visitors who read, browse, and/or download information from our site. We do this so we can understand how the public uses the site and how to make it more helpful.
 
- **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
+Healthcare.gov never collects information for commercial marketing or any purpose unrelated to our mission and goals.
 
-(NOTE: For information on the Medical Privacy Rule, please go to [www.hhs.gov/ocr/hipaa/](http://www.hhs.gov/ocr/hipaa/).)
+## Types of information we collect
 
-* * *
+When you browse through any website, certain information about your visit can be collected. We automatically collect and temporarily store the following types of information about your visit:
 
-#### Information Automatically Collected and Stored:
-
-When you browse through any web site, certain personal information about you can be collected. We automatically collect and temporarily store the following information about your visit:
-
-  * the name of the domain you use to access the Internet (for example, aol.com, if you are using an American Online account, or stanford.edu, if you are connecting from Stanford University's domain);
-  * the date and time of your visit;
-  * the pages you visited; and
-  * the address of the web site you came from when you came to visit.
+  * Domain from which you access the Internet
+  * IP address (an IP or internet protocol address is a number that is automatically given to a computer connected to the Web)
+  * Operating system on your computer and information about the browser you used when visiting the site
+  * Date and time of your visit
+  * Pages you visited
+  * Address of the website that connected you to HealthCare.gov (such as google.com or bing.com)
 
 
 
-We use this information for statistical purposes and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you.
+We use this information to measure the number of visitors to our site and its various sections and to help make our site more useful to visitors.
 
-* * *
+## How HealthCare.gov uses information it collects
 
-#### Personally Provided Information:
+HealthCare.gov uses a variety of Web measurement software tools. We use them to collect the information listed in the “Types of information collected” section above. The tools collect information automatically and continuously. **No personally identifiable information is collected by these tools.**
 
-You do not have to give us personal information to visit our web sites.
+The HealthCare.gov staff analyzes and reports on the collected data from these tools. The reports are available only to HealthCare.gov managers, members of the HealthCare.gov communications and Web teams, and other designated staff who need this information to perform their duties.
 
-If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication.
+HealthCare.gov also uses an online survey to collect opinions and feedback. This online survey appears on the bottom left of many pages on the site. You don’t have to answer these questions. Please do not to include any personally identifiable information (PII) in comments you make. We analyze and use this information to improve the site’s operation and content. The reports are available only to HealthCare.gov managers, members of the communications and Web teams, and other designated staff who require this information to perform their duties.
 
-However, all communications addressed to the HHS Secretary or the HHS Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures.
+HealthCare.gov keeps the data from our measurement tools as long as needed to support the mission of the website.
 
-* * *
+## How HealthCare.gov uses cookies
 
-#### Disclosure:
+The Office of Management and Budget Memo M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies, allows federal agencies to use session and persistent cookies.
 
-HHS does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or statute.
+When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. The cookie allows the server to "remember" specific information about your visit while you are connected. The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from HealthCare.gov pages collect only information about your browser’s visit to the site. They do not collect personal information about you.
 
-* * *
+There are two types of cookies, single session (temporary), and multi-session (persistent). Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods.
 
-#### Intrusion Detection:
+  * **Session Cookies:** We use session cookies for technical purposes such as to allow better navigation through our site. These cookies let our server know that you are continuing a visit to our site. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1—Single Session.” The policy says, "This tier encompasses any use of single session web measurement and customization technologies."
 
-This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court.
+  * **Persistent Cookies:** We use persistent cookies to understand the differences between new and returning HealthCare.gov visitors. Persistent cookies remain on your computer between visits to our site until they expire. The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2—Multi-session without Personally Identifiable Information (PII).” The policy says, "This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected."
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
-* * *
 
-#### Systems of Records:
 
-Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided.
+## How to opt out or disable cookies
 
-* * *
+If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources at HealthCare.gov. Instructions for disabling or opting out of cookies in the most popular browsers are located at http://www.usa.gov/optout_instructions.shtml.
 
-#### HHS Data Council's [HHS Privacy Committee](http://aspe.hhs.gov/datacncl/privcmte.htm)
+Please note that by opting out of cookies, you will disable cookies from all sources, not just from HealthCare.gov.
 
-Last Updated: January 22, 2009
+## How we protect your personal information
+
+You do not have to give us personal information to visit HealthCare.gov. However, if you choose to receive alerts or e-newsletters, we collect your email address to complete the subscription process.
+
+If you choose to provide us with personally identifiable information through an email message, request for information, paper or electronic form, questionnaire, survey, etc., we will maintain the information you provide only as long as needed to respond to your question or to fulfill the stated purpose of the communication.
+
+If in order to contact you we store your personal information in a record system designed to retrieve information about you by personal identifier (name, personal email address, home mailing address, personal or mobile phone number, etc.), we will safeguard the information you provide in accordance with the Privacy Act of 1974, as amended (5 U.S.C. Section 552a).
+
+If HealthCare.gov operates a record system designed to retrieve information about you in order to accomplish its mission, a Privacy Act Notification Statement should be prominently and conspicuously displayed on the public-facing website or form which asks you to provide personally identifiable information. The notice must address the following five criteria:
+
+  1. HealthCare.gov legal authorization to collect information about you
+  2. Purpose of the information collection
+  3. Routine uses for disclosure of information outside of HealthCare.gov
+  4. Whether the request made of you is voluntary or mandatory under law
+  5. Effects of non-disclosure if you choose to not provide the requested information
+
+
+
+For further information about HealthCare.gov privacy policy, please contact [Privacy@cms.hhs.gov](mailto:Privacy@cms.hhs.gov).
+
+## Data safeguards and privacy
+
+All uses of Web-based technologies comply with existing privacy and data safeguarding policies and standards. Information Technology (IT) systems owned and operated by the Centers for Medicare & Medicaid Services (CMS) are assessed using Privacy Impact Assessments (PIAs) posted for public view on the Department of Health and Human Services (HHS) website (http://www.hhs.gov/pia). CMS conducts and publishes a PIA for each use of a third-party website and application (TPWA) as they may have a different functionality or practice. TPWA PIAs are posted for public view on the HHS website at http://www.hhs.gov/pia.
+
+Groups of records that contain information about an individual and are designed to be retrieved by the individual’s name or other personal identifier linked to the individual are covered by the Privacy Act of 1974, as amended (5 U.S.C. Section 552a). For these records, CMS Systems of Record Notices are published in the Federal Register and posted on the CMS Senior Official for Privacy Website.
+
+When you visit CMS sites, please look for the Privacy Notice posted on the main pages. When Web measurement and customization technologies are used, the Privacy Policy/Notice must provide:
+
+  * Purpose of the web measurement and/or customization technology
+  * Usage tier, session type, and technology used
+  * Nature of the information collected
+  * Purpose and use of the information
+  * Whether and to whom the information will be disclosed
+  * Privacy safeguards applied to the information
+  * Data retention policy for the information
+  * Whether the technology is enabled by default or not and why
+  * How to opt out of the web measurement/customization technology
+  * Statement that opting out still permits users to access comparable information or services
+  * Identities of all third-party vendors involved in the measurement and customization process
+
+
+
+## How long we keep data and how we access it
+
+HealthCare.gov will keep data collected long enough to achieve the specified objective for which they were collected. The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC “Electronic Records,” and will be handled according to the requirements of that schedule (http://www.archives.gov/records-mgmt/grs/grs20.html).
+
+## How HealthCare.gov uses third-party websites and applications
+
+As a response to OMB Memo M-10-06, Open Government Directive, HealthCare.gov uses a variety of technologies and social media services to communicate and interact with citizens. These third-party website and application (TPWA) tools include popular social networking and media sites, open source software communities, and more. Examples include Facebook, Twitter, and YouTube.
+
+TPWAs are not exclusively operated or controlled by HealthCare.gov. Users of TPWAs often share information with the general public, user community, and/or the third party operating the website. These actors may use this information in a variety of ways. TPWAs could cause PII to become available or accessible to HealthCare.gov and the public, regardless of whether the information is explicitly asked for or collected by us.
+
+HealthCare.gov sometimes collects and uses your PII if you made it available through third-party websites. However, we do not share PII made available through third-party websites. Your activity on the third-party websites we use is governed by the security and privacy policies of those sites. You should review the third-party privacy policies before using the sites and ensure that you understand how your information may be used.
+
+If you have an account with a third-party website and choose to “like,” “friend,” follow, or comment, certain PII associated with your account may be made available to HealthCare.gov based on the privacy policy of the third-party website and your privacy settings within that website. You should adjust privacy settings on your account to match your preferences.
+
+## Links to other sites
+
+HealthCare.gov links to other HHS sites, other government sites, and occasionally to private organizations. Once you leave HealthCare.gov, you are subject to the privacy policy for the sites you are visiting. HHS is not responsible for the contents of any off-site web page. A link to a page does not constitute an endorsement.
+
+## Additional Privacy information
+
+  * If you are an applicant on the individual Marketplace, read our [Individual Privacy Act statement](https://web.archive.org/individual-privacy-act-statement).
+  * If you are an agent or broker, read our [Agent and Broker Privacy Act statement](https://web.archive.org/agent-privacy-act-statement)
+  * Learn more about [how we use your individual Marketplace information](https://web.archive.org/how-we-use-your-data).
+  * If you are an employer applying in the Small Business Health Options Program, read our [SHOP Employer Privacy Statement](https://web.archive.org/shop-privacy-act-statement). You can also [learn more about how we use your SHOP information](https://web.archive.org/how-we-use-your-data-SHOP-employer).
+
+
