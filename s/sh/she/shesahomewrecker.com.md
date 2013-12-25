@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shesahomewrecker.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626033426id_/http%3A//www.shesahomewrecker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shesahomewrecker.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225154047id_/http%3A//shesahomewrecker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | She's A Homewrecker
 
