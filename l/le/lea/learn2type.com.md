@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117020911id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225163340id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Learn2Type.com - Free Typing Test & Online Typing Tutor - Privacy Statement
 
@@ -56,3 +56,6 @@ Learn2Type.com, Inc.
 PO Box 61569   
 Staten Island, NY 10306-7569_   
 privacyX@XLearn2Type.com 
+
+|    
+
