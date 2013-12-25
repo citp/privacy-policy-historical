@@ -1,27 +1,36 @@
-> *The following text is extracted and transformed from the stacymakescents.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523085138id_/http%3A//www.stacymakescents.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacymakescents.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225112904id_/http%3A//www.stacymakescents.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy — Stacy Makes Cents
 
-At [www.stacymakescents.com](http://www.stacymakescents.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [www.stacymakescents.com](http://www.stacymakescents.com/) and how it is used.
+### Summary
 
-**Log Files**  
-Like many other Web sites, [www.stacymakescents.com](http://www.stacymakescents.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+You’re here because you chose to be here.  I didn’t pay you to show up and I’m not sharing your detailed personal information with BIG BROTHER…or anyone else for that matter.  While you’re here you can expect to be relatively safe, unless you read something I wrote that offends you.  If that happens…oh well.  It is MY blog and everyone in the world isn’t going to agree with me.  However, because the government requires me to disclose lots of silly things because some not-so-nice people tried to do some devious things with your information, I have to tell you about how your privacy matters to me and how it is affected by you visiting Stacy Makes Cents.  So…since no one ever posts any of their personal information on Facebook, Instagram, Twitter, Tumblr, SMS, Vine, MySpace, LinkedIn, YouTube or any of those other places we like to hang out, here’s to keeping your privacy…well…private.  And heck, I even made it sound nice and formal.
 
-**Cookies and Web Beacons**  
-[www.stacymakescents.com](http://www.stacymakescents.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+### Privacy
 
-**DoubleClick DART Cookie**
+We care about your privacy.  This notice outlines our online information practices so you can make an informed decision about our practices and whether or not to continue visiting Stacy Makes Cents.  This notification is linked from the main menu of our homepage and every page where personally identifiable information is requested.
 
-  * Google, as a third party vendor, uses cookies to serve ads on [www.stacymakescents.com](http://www.stacymakescents.com/).
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.stacymakescents.com](http://www.stacymakescents.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+### Tracking
 
+Stacy Makes Cents utilizes third party ad servers or ad networks which may use cookies to track user activities.  The usage of these cookies is outlined on each advertiser’s own privacy policy.  Stacy Makes Cents has no access, control or usage of this information and will not request it from third party advertisers.  Generic, non user-specific data is tracked using Google Analytics and similar software to measure visitor statistics as a whole.  Individual, personally-identifiable data is not captured by Stacy Makes Cents for any purpose, unless you voluntarily provide it to enter a contest or sign up for our communications.
 
+### RSS & Email
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.stacymakescents.com](http://www.stacymakescents.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Visitors can subscribe to Stacy Makes Cents through RSS or email subscription.  If you voluntarily provide your email address for these services, it will be held in strict confidence.  We do not sell or disclose specific subscriber information for any reason, unless required by law.  Summary data void of personally-identifiable information may be disclosed.
 
-[www.stacymakescents.com](http://www.stacymakescents.com/) has no access to or control over these cookies that are used by third-party advertisers.
+### Comments
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [www.stacymakescents.com's](http://www.stacymakescents.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Comments submitted at Stacy Makes Cents are the responsibility of the commenter.  As outlined on our comment policy, provided on every page and post that accepts comments, we reserve the right to remove or edit comments at our sole discretion.  Stacy Makes Cents reserves the right to delete any comments it deems inappropriate for any reason.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+### Links to Third Parties
+
+Stacy Makes Cents has links to numerous third party websites.  We cannot control the responsible use of those sites.  When you leave the domain of Stacy Makes Cents, this privacy policy no longer applies.
+
+### Changes/Updates
+
+This privacy policy was last updated on July 16, 2013.  The contents of this statement may be altered at any time, for any reason.  [Contact us](http://www.stacymakescents.com/contact) if you have questions about any of the ways your privacy may be impacted by visiting Stacy Makes Cents.
+
+Disclosure: Some content includes links to sponsors or affiliates, which give me a small percentage of the sale. You are not obligated to use these links when you make a purchase, but when you do so it helps to support this site, so thank you!
+
+  
+
