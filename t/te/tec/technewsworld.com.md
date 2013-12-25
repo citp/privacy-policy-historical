@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technewsworld.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602123044id_/http%3A//www.ectnews.com/about/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsworld.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225103443id_/http%3A//www.ectnews.com/about/privacy.xhtml) for the most accurate reproduction.*
 
 # ECT News Network Privacy Policy
 
