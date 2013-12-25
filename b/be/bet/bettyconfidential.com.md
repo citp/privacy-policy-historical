@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bettyconfidential.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315115948id_/http%3A//bettyconfidential.com/ci/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettyconfidential.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225203313id_/http%3A//bettyconfidential.com/privacy) for the most accurate reproduction.*
 
-# BettyConfidential Magazine: Privacy Policy | BettyConfidential.com
-
-BettyConfidential Magazine: Privacy Policy
+# BettyConfidential Magazine: Privacy Policy | BettyConfidential
 
 The BettyConfidential Magazine is an online service that allows each of its members to set up a unique personal profile, which can be linked with a network of friends. BettyConfidential members can view a portion of each other.s profiles and meet new friends using this service. To allow for new connections and friendships to be made, we display some personal information to other members. BettyConfidential members can change their profile information at any time and can control how other members and the service communicates with them.
 
@@ -16,15 +14,15 @@ If you use this site, you are responsible for maintaining the confidentiality of
 
 BettyConfidential collects user submitted information such as name, email address, and age to authenticate users who enroll as members and to send notifications to those users relating to the BettyConfidential service. BettyConfidential also collects other profile data including but not limited to: personal interests, gender, education, and occupation in order to assist our members in finding and communicating with each other. BettyConfidential also logs non-personally-identifiable information including IP address, profile information, aggregate data, and browser type from members and visitors to the site. This data is used to manage the website, track usage, and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes only.
 
-Member profile information is displayed to people in order to facilitate member interaction in the social networking community. Email addresses are used for the purposes of inviting new friends and to send notifications related to the service. Members communicate with each other through the BettyConfidential service without disclosing their email addresses. Members' full names are never directly revealed to other members.
+Member profile information is displayed to people in order to facilitate member interaction in the social networking community. Email addresses are used for the purposes of inviting new friends and to send notifications related to the service. Members communicate with each other through the BettyConfidential service without disclosing their email addresses. Members’ full names are never directly revealed to other members.
 
-We may also use a member's email address to send updates, a newsletter, or other news regarding the service. Members may choose not to receive email of this type by changing their "Subscription" settings.
+We may also use a member’s email address to send updates, a newsletter, or other news regarding the service. Members may choose not to receive email of this type by changing their “Subscription” settings.
 
-From time to time, BettyConfidential or a partner may sponsor a promotion, sweepstake or contest. To participate in the partner's promotion, members may be asked to provide personal information including their name, email address, home address, or other information. If you provide this information, you agree to authorize BettyConfidential to transfer this personal information to the identified partner(s) from which you have explicitly requested to receive information. BettyConfidential will not be responsible for the partner's subsequent use of your personal information.
+From time to time, BettyConfidential or a partner may sponsor a promotion, sweepstake or contest. To participate in the partner’s promotion, members may be asked to provide personal information including their name, email address, home address, or other information. If you provide this information, you agree to authorize BettyConfidential to transfer this personal information to the identified partner(s) from which you have explicitly requested to receive information. BettyConfidential will not be responsible for the partner’s subsequent use of your personal information.
 
 **Guidelines regarding children**
 
-Personal information about children is a concern for all of us. At BettyConfidential, we take the protection of children's privacy very seriously. BettyConfidential does not encourage participation or visitation by children. BettyConfidential contains non-children’s content and does not knowingly collect any personal information from children under the age of thirteen. Visitors who are known to be under the age of 13 are prohibited from becoming a member or subscriber. Anyone under the age of eighteen is discouraged from participating in any sex related chats or message boards and we ask that no one less than eighteen years of age become a community member.
+Personal information about children is a concern for all of us. At BettyConfidential, we take the protection of children’s privacy very seriously. BettyConfidential does not encourage participation or visitation by children. BettyConfidential contains non-children’s content and does not knowingly collect any personal information from children under the age of thirteen. Visitors who are known to be under the age of 13 are prohibited from becoming a member or subscriber. Anyone under the age of eighteen is discouraged from participating in any sex related chats or message boards and we ask that no one less than eighteen years of age become a community member.
 
 BettyConfidential may at times sell products for children, but it sells them to adults, who can purchase with a credit card or other permitted payment method. If you are under 18, you may use this website only with involvement of a parent or guardian. BettyConfidential reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in their sole discretion.
 
@@ -34,7 +32,7 @@ BettyConfidential members can invite friends to join the service by sending invi
 
 **Use of Cookies**
 
-BettyConfidential uses cookies to store visitors' preferences, to record session information for the purposes of ensuring that visitors are not repeatedly offered the same advertisements, and to customize newsletters, advertising, and Web page content based on browser type and member profile information. You must enable cookies from BettyConfidential in order to use most functions on the site.
+BettyConfidential uses cookies to store visitors’ preferences, to record session information for the purposes of ensuring that visitors are not repeatedly offered the same advertisements, and to customize newsletters, advertising, and Web page content based on browser type and member profile information. You must enable cookies from BettyConfidential in order to use most functions on the site.
 
 **Links**
 
