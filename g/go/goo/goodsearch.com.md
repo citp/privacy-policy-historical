@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the goodsearch.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528051732id_/http%3A//www.goodsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsearch.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225232813id_/http%3A//www.goodsearch.com/privacy) for the most accurate reproduction.*
 
 # goodsearch - privacy policy
 
-#### Last Updated March 25, 2013
+#### Last Updated June 24, 2013
 
   
 
 
 ## WHAT THIS PRIVACY POLICY COVERS
 
-Goodsearch (including the Goodsearch Search Engine, Goodshop, Gooddining, Goodsurveys, Goodoffers, Goodgames and Goodtvads), takes your privacy seriously. Please read the following to learn more about our privacy policy. This policy covers how Goodsearch treats personal information that Goodsearch collects and receives, including information related to your past use of Goodsearch products and services. This policy does not apply to the practices of our partners who help us provide some of the services offered through our Website (see below for additional information). Personal information is information about you that is personally identifiable, like your name, address, photo, or email address, and that is not otherwise publicly available. We hope this will help you make an informed decision about sharing your personal information with us. 
+Goodsearch (including the Goodsearch Search Engine, Goodshop, Gooddining, Goodsurveys, Goodoffers, Goodgames, Goodtvads and Goodswipe), takes your privacy seriously. Please read the following to learn more about our privacy policy. This policy covers how Goodsearch treats personal information that Goodsearch collects and receives, including information related to your past use of Goodsearch products and services. This policy does not apply to the practices of our partners who help us provide some of the services offered through our Website (see below for additional information). Personal information is information about you that is personally identifiable, like your name, address, photo, or email address, and that is not otherwise publicly available. We hope this will help you make an informed decision about sharing your personal information with us. 
 
 ## INFORMATION COLLECTION
 
@@ -28,6 +28,7 @@ Even if you do not create a Goodsearch account, you may be required to provide p
   * Gooddining
   * Goodsurveys
   * Goodoffers
+  * Goodswipe
 
 
 
@@ -39,6 +40,7 @@ GoodSearch does not rent, sell, or share personal information about you with oth
     * Gooddining—see [privacy policy](http://www.rewardsnetwork.com/privacy) of Rewards Network Establishment Services, Inc. 
     * Goodsurveys—see [privacy policy](http://www.peanutlabs.com/media/privacy_policy.php) of Peanut Labs, Inc. 
     * Goodoffers—see [privacy policy](http://www.trialpay.com/legal/privacy-policy/) of TrialPay 
+    * Goodswipe—see [privacy policy](https://www.plink.com/index.cfm?fuseaction=main.privacy) of Plink 
   * We provide the information to trusted partners who work on behalf of or with GoodSearch under confidentiality agreements. These companies may use your personal information to help GoodSearch communicate with you about offers from GoodSearch and our marketing partners. However, these companies do not have any independent right to share this information. 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of GoodSearch's terms of use, or as otherwise required by law. 
