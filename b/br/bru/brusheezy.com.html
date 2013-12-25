@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the brusheezy.com privacy policy that was archived on 2013-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130626000454id_/http%3A//www.brusheezy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brusheezy.com privacy policy that was archived on 2013-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225111246id_/http%3A//www.brusheezy.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://developers.facebook.com/schema/" xmlns:og="http://opengraphprotocol.org/schema/" class="no-js"><!--<![endif]--><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-61199"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
     <meta name="viewport" content="width=1024">
     <title>Free Photoshop Brushes at Brusheezy!</title>
 <meta content="Photoshop Brushes - Brusheezy is a HUGE collection of Photoshop Brushes, Photoshop Patterns, Textures, PSDs, Actions, Shapes, Styles, &amp; Gradients to download, or share!" name="description">
     <link href="/favicon.ico" rel="shortcut icon">
-    <link href="http://static.brusheezy.com/assets/application-6e31c927ac951b0ea23b618c9b9b097a.css" media="screen" rel="stylesheet" type="text/css">
-    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-61199"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://static.brusheezy.com/assets/application-180e7955d40fb08adb5bc55c54aaea01.js" type="text/javascript"></script>
+    <link href="http://static.brusheezy.com/assets/application-dbff2371a384690343e4ea3f88694d39.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="http://static.brusheezy.com/assets/application-b34d691f1b3452f90ebbd7bddee61f59.js" type="text/javascript"></script>
     <link href="http://feeds.feedburner.com/eezyinc/brusheezy-images" rel="alternate" title="RSS" type="application/rss+xml">
     <meta name="google-site-verification" content="pfGHD8M12iD8MZoiUsSycicUuSitnj2scI2cB_MvoYw">
 <meta name="tinfoil-site-verification" content="6d4a376b35cc11699dd86a787c7b5ae10b5c70f0">
@@ -53,42 +53,69 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
   ga('create', 'UA-1204257-26', 'brusheezy.com');
   ga('send', 'pageview');
+
 </script>
 
 <link href="https://plus.google.com/116840303500574370724" rel="publisher">
 
-<!-- Download Popup Config -->
-<script type="text/javascript">
-$(function () {
-  if (typeof downloadPopup != 'undefined') {
-    downloadPopup.testPercentage = 0.00;
-  }
-}); 
+<script src="//cdn.optimizely.com/js/168948327.js"></script>
+
+<script>
+  var iStockCoupon = { 
+    // --- ADMIN CONIG----
+    Code: 'EEZYOFF14', 
+    Message: 'Hurry! Offer Expires 10/31/2013',
+    // -------------------
+
+    showPopup: function() {
+      var win = window.open("", "istock-sale", "width=520,height=320");
+      var wrap = win.document.createElement('div'); 
+      wrap.setAttribute('class', 'sale-wrapper');
+      
+      var logo = win.document.createElement('img');
+      logo.setAttribute('src', 'http://static.vecteezy.com/system/assets/asset_files/000/000/171/original/new-istock-logo.jpg');
+      wrap.appendChild(logo);
+      
+      var code = win.document.createElement('div');
+      code.setAttribute('class','code');
+      code.appendChild(win.document.createTextNode(iStockCoupon.Code));
+      wrap.appendChild(code);
+      
+      var expires = win.document.createElement('div');
+      expires.setAttribute('class','expire');
+      expires.appendChild(win.document.createTextNode(iStockCoupon.Message));
+      wrap.appendChild(expires);
+      
+      var close = win.document.createElement('a');
+      close.setAttribute('href', '#');
+      close.appendChild(win.document.createTextNode('Close Window'));
+      wrap.appendChild(close);
+      
+      var style = win.document.createElement('style');
+      close.setAttribute('onclick', 'window.close()');
+  
+      style.appendChild(win.document.createTextNode("a{margin-top: 40px;display:block;font-size:12px;color:rgb(73,149,203);text-decoration:none;} .expire{margin-top:16px;color: rgb(81,81,81);font-size:24px;} .code{margin-top:20px;font-size:50px;font-weight:700;text-transform:uppercase;} img{margin-top:44px;} body{padding:0;margin:0;text-align:center;font-family:sans-serif;} .sale-wrapper{height:288px;border:16px solid #a1a1a1;}"));
+      win.document.body.appendChild(style);
+      win.document.body.appendChild(wrap);        
+    },
+  };
 </script>
 
+    
 <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
 typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
 b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-mixpanel.init("976038e3bb14fe744186fab4ed8ebdd9");</script><!-- end Mixpanel -->
+mixpanel.init("1e36c299a544f61292964b61ab075abd");</script><!-- end Mixpanel -->
 
-<!-- Start Mixpanel End Points -->
-<script type="text/javascript">
-  mixpanel.track("Home Page Loaded");
-  mixpanel.track("Logged in");
-  mixpanel.track("Visit Premium About");
-  mixpanel.track("Visit Premium Join");
-  mixpanel.track("Visit Premium Login");
-  mixpanel.track("Purchased Premium");
-  mixpanel.track("Signed Up");
-</script>
-<!-- End Mixpanel End Points -->
     <meta content="authenticity_token" name="csrf-param">
-<meta content="D0Gr9NwMoM0rtJv1kbga7l9BP6ljLH8kN4o1iaYzrvM=" name="csrf-token">
+<meta content="m0EC2DPWLDFKaEol/0W7gcX9BdPROTRzt8aE79Fc17E=" name="csrf-token">
     
   <script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script></head>
   <body class=" ">
+
     <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-61199"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -114,8 +141,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       xfbml      : true  // parse XFBML
     });
 
-    FB.Event.subscribe('edge.create', function(href, widget) { 
-      pageTracker._trackEvent('facebook', 'like', href);  
+    FB.Event.subscribe('edge.create', function(href, widget) {
+      pageTracker._trackEvent('facebook', 'like', href);
     });
     FB.Event.subscribe('auth.login', function(e) {
       return false;
@@ -135,7 +162,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     FB.getLoginStatus(function(response) {
       if (response.status == "connected") {
         track("authentication", "connect_to_facebook");
-        window.location.href = "/auth/facebook/callback";
+        window.location.href = "/auth/facebook/callback?" + $.param({ signed_request: response.authResponse.signedRequest });
+
       }
     });
   }
@@ -161,7 +189,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <li class=""><a href="/gradients">Gradients</a></li>
       <li class=""><a href="/templates">Templates</a></li>
       <li class=""><a href="/ui-kits">UI Kits</a></li>
-      <li class=""><a href="/wallpapers-backgrounds">Wallpapers/ Backgrounds</a></li>
+      <li class=""><a href="/backgrounds">Backgrounds</a></li>
   </ul>
 </li>
 
@@ -175,6 +203,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 <li class=""><a href="/premium">Premium</a></li>
 
+<li class=""><a href="/deals"><span class="translation_missing" title="translation missing: en.Deals">Deals</span></a></li>
           </ul>
           <ul class="aside">
             
@@ -184,13 +213,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <section id="masthead">
         <div class="content">
           <a href="http://www.brusheezy.com/" alt="Brusheezy" id="logo"><img alt="Brusheezy-logo" src="http://static.brusheezy.com/assets/brusheezy/brusheezy-logo-4f12107ab35bc069192bc70b1b7565d1.png"></a>
-          <form accept-charset="UTF-8" action="/search" class="search-form" id="search-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="D0Gr9NwMoM0rtJv1kbga7l9BP6ljLH8kN4o1iaYzrvM="></div>
+          <form accept-charset="UTF-8" action="/search" class="search-form" id="search-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="m0EC2DPWLDFKaEol/0W7gcX9BdPROTRzt8aE79Fc17E="></div>
             <input id="from" name="from" type="hidden" value="mainsite">
             <input class="search-term" id="search-term" name="search" placeholder="Enter Keyword(s)" type="text" value="">
             <input class="submit" name="commit" type="submit" value="Search">
 </form>          <div class="logged-out">
             <nav>
-              <a href="/signup" class="join signup-link" data-target="signup-popup" rel="lightbox">Join Eezy!</a>
+                <a href="/premium/about" onclick="track('click', 'premium_join_buttons', 'header')">Join Eezy!</a>
+              
               <a href="/login" class="login-link" data-target="login-popup" rel="lightbox">Login</a>
             </nav>
           </div>
@@ -310,8 +340,8 @@ In the event case of any conflict between the terms of this policy and the terms
 
 <div id="bsap_1234732" class="bsarocks bsap_485bab49914a052ee58bec6417560285"></div>
 
-      <a href="/premium/about" onclick="_gaq.push(['_trackEvent', 'click', '125x125bnr', 'default']);">
-<img alt="Premium Resources for Designers" border="0" src="http://static.brusheezy.com/system/assets/asset_files/000/000/213/original/125x125-premium.png"></a><a href="/a/TheFreeSite" target="_blank"><img alt="Free-site" src="http://static.brusheezy.com/system/adverts/images/000/000/077/original/free-site.jpg"></a>
+      <a href="/a/TheFreeSite" target="_blank"><img alt="Free-site" src="http://static.brusheezy.com/system/adverts/images/000/000/077/original/free-site.jpg"></a><a href="/premium/about" onclick="_gaq.push(['_trackEvent', 'click', '125x125bnr', 'default']);">
+<img alt="Premium Resources for Designers" border="0" src="http://static.brusheezy.com/system/assets/asset_files/000/000/263/original/NewPremium_125x125Bnr_Brush.gif"></a>
       <a href="http://www.brusheezy.com/advertising" class="advertise">Advertise Here</a>
     </div>
     <div class="ad-rectangle"></div>
@@ -327,7 +357,14 @@ In the event case of any conflict between the terms of this policy and the terms
         <section id="footer-about">
           <h3>About Brusheezy</h3>
           <div class="block">
-            Brusheezy is a community that provides a place for artists to create and exchange Photoshop Brushes, Photoshop Patterns, Textures, Actions, Shapes and other design resources related to Photoshop. To get started we suggest you <a href="http://beta.brusheezy.com/signup">create an account</a> to take advantage of all the new features we’ve added or you can <a href="http://beta.brusheezy.com/about">learn more</a>.
+            Brusheezy is a community that provides a place for artists to create and exchange Photoshop Brushes, 
+Photoshop Patterns, Textures, Actions, Shapes and other design resources related to Photoshop. To get 
+started we suggest you 
+
+<a href="/premium/about" onclick="_gaq.push(['_trackEvent', 'click', 'premium_join_buttons', 'Footer_Create Account']);">create an account</a>
+
+to take advantage 
+of all the new features we’ve added or you can <a href="http://beta.brusheezy.com/about">learn more</a>.
           </div>
         </section>
         <section id="footer-links">
@@ -346,7 +383,7 @@ In the event case of any conflict between the terms of this policy and the terms
         <h3>Keep in touch!</h3>
         <div class="block">
           <div id="footer-newsletter">
-  <form accept-charset="UTF-8" action="/newsletter/subscribe" class="inline-spinner" data-remote="true" id="new_newsletter" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="D0Gr9NwMoM0rtJv1kbga7l9BP6ljLH8kN4o1iaYzrvM="></div>
+  <form accept-charset="UTF-8" action="/newsletter/subscribe" class="inline-spinner" data-remote="true" id="new_newsletter" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="m0EC2DPWLDFKaEol/0W7gcX9BdPROTRzt8aE79Fc17E="></div>
     <p>Get weekly updates, and exclusive offers to your inbox! Opt-out anytime. We will never share your info.</p>
     <div class="row">
       <input id="newsletter_email" name="newsletter[email]" placeholder="Enter your email address" size="30" type="text">
@@ -376,48 +413,12 @@ In the event case of any conflict between the terms of this policy and the terms
     </footer>
 
     
-    <!-- ISTOCK POPUP -->          
-<style>
-  #istockpop-countdown span {
-    color: white;
-    font-size: 54px;
-    margin: 0 26px 0 26px;
-  }
-  #istockpop a {
-    position: absolute;
-    height: 55px;
-    width: 243px;
-    top: 463px;
-    left: 207px;
-  }
-</style>
-<div id="istockpop" style="background: url(/assets/banners/istock-popup.png);width:658px;height:607px;position:relative;">
-  <div id="istockpop-close" style="position:absolute;top: 0;right: 0;width: 30px;height: 30px;cursor: pointer;"></div>
-  <div id="istockpop-countdown" style="position:absolute;top:340px;width:458px;left:100px;"></div>
-  <a id="istockpop-link" href="http://www.linkconnector.com/ta.php?lc=023185000010004382&amp;lc_pid=Promo-4163&amp;url=http://www.linkconnector.com/ta.php?lc=023185000010004382&amp;lc_pid=Promo-4243&amp;url=http://www.istockphoto.com/article_view.php?ID=1529&amp;lcpf=0&amp;lcpi=4243&amp;atid=|site=brush|funct=popup|offer=50off" target="_new"></a>
-</div>
-
-<script>$(function() {
-  var theDate = new Date(2013, 5-1, 23, 4, 0, 0);
-  $('#istockpop-link').click(function() { var href = 'http://www.linkconnector.com/ta.php?lc=023185000010004382&lc_pid=Promo-4163&url=http://www.linkconnector.com/ta.php?lc=023185000010004382&lc_pid=Promo-4243&url=http://www.istockphoto.com/article_view.php?ID=1529&lcpf=0&lcpi=4243&atid=|site=brush|funct=popup|offer=50off'; var win = window.open("", "istock-sale", "width=520,height=320"); var wrap = win.document.createElement('div'); wrap.setAttribute('class', 'sale-wrapper'); var logo = win.document.createElement('img');logo.setAttribute('src', 'http://designm.ag/wp-content/uploads/2013/01/istockphoto.png');wrap.appendChild(logo); var code = win.document.createElement('div');code.setAttribute('class','code');code.appendChild(win.document.createTextNode('EEZYOFF10'));wrap.appendChild(code); var expires = win.document.createElement('div');expires.setAttribute('class','expire');expires.appendChild(win.document.createTextNode('Hurry! Offer expires tonight at midnight!'));wrap.appendChild(expires); var close = win.document.createElement('a');close.setAttribute('href', '#');close.appendChild(win.document.createTextNode('Close Window'));wrap.appendChild(close); var style = win.document.createElement('style'); close.setAttribute('onclick', 'window.close();return false;'); style.appendChild(win.document.createTextNode("a{margin-top: 40px;display:block;font-size:12px;color:rgb(73,149,203);text-decoration:none;} .expire{margin-top:16px;color: rgb(81,81,81);font-size:24px;} .code{margin-top:20px;font-size:50px;font-weight:700;text-transform:uppercase;} img{margin-top:44px;} body{padding:0;margin:0;text-align:center;font-family:sans-serif;} .sale-wrapper{height:288px;border:16px solid #a1a1a1;}")); win.document.body.appendChild(style); win.document.body.appendChild(wrap);window.location = href;});
-  if ((theDate > new Date()) && !($.cookies.get('lastistockpop'))) {
-    $('#istockpop').lightbox_me();
-    $('#istockpop-countdown').countdown({offset: 0, leadingZero: true, date: theDate, hoursOnly: true, htmlTemplate: "<span>%h</span> <span>%i</span> <span>%s</span>"});
-    $('#istockpop-close').click(function() {
-      $('#istockpop').trigger('close'); 
-    });
-    var expires = new Date();
-    expires.setTime( expires.getTime() + 3600000 );
-    $.cookies.set( 'lastistockpop', 'boom', {expiresAt: expires} );
-  } else { $('#istockpop').hide();}
-});
-</script>
-<!-- END ISTOCK POPUP -->
+    
 
       <div id="signup-popup" class="lightbox with-sidebar">
   <a class="close" rel="close">Close</a>
   <div class="main">
-    <form accept-charset="UTF-8" action="/signup" class="account-form" data-remote="true" id="new_eezyauth_user_auth" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="D0Gr9NwMoM0rtJv1kbga7l9BP6ljLH8kN4o1iaYzrvM="></div>
+    <form accept-charset="UTF-8" action="/signup" class="account-form" data-remote="true" id="new_eezyauth_user_auth" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="m0EC2DPWLDFKaEol/0W7gcX9BdPROTRzt8aE79Fc17E="></div>
       <h1>Create Your Account!</h1>
 <ul class="pros quiet">
   <li>Your very own profile to promote your freebies.</li>
@@ -470,7 +471,7 @@ In the event case of any conflict between the terms of this policy and the terms
       <div id="login-popup" class="lightbox with-sidebar">
   <a class="close" rel="close">close</a>
   <div class="main">
-    <form accept-charset="UTF-8" action="/login" class="account-form" data-remote="true" id="new_eezyauth_user_auth_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="D0Gr9NwMoM0rtJv1kbga7l9BP6ljLH8kN4o1iaYzrvM="></div>
+    <form accept-charset="UTF-8" action="/login" class="account-form" data-remote="true" id="new_eezyauth_user_auth_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="m0EC2DPWLDFKaEol/0W7gcX9BdPROTRzt8aE79Fc17E="></div>
       <h1>Login to Brusheezy</h1>
 
 
@@ -491,7 +492,9 @@ In the event case of any conflict between the terms of this policy and the terms
       </div>
       <div class="row">
         Don't have an account?
-        <a href="/signup" class="signup-link" data-target="signup-popup" rel="lightbox">Join Eezy!</a>
+        
+          <a href="/premium/about" onclick="track('click', 'premium_join_buttons', 'login popup')">Join Eezy!</a>
+        
       </div>
 </form>  </div>
   <aside class="sidebar">
@@ -506,7 +509,7 @@ In the event case of any conflict between the terms of this policy and the terms
       <div id="reset-password-popup" class="lightbox with-sidebar">
   <a class="close" rel="close">close</a>
   <div class="main">
-    <form accept-charset="UTF-8" action="/reset_passwords" class="account-form" data-remote="true" id="new_eezyauth_user_auth" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="D0Gr9NwMoM0rtJv1kbga7l9BP6ljLH8kN4o1iaYzrvM="></div>
+    <form accept-charset="UTF-8" action="/reset_passwords" class="account-form" data-remote="true" id="new_eezyauth_user_auth" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="m0EC2DPWLDFKaEol/0W7gcX9BdPROTRzt8aE79Fc17E="></div>
       <h1>Forgot your password?</h1>
       <div class="row">
         <input autocomplete="false" class="text" id="eezyauth_user_auth_email" name="eezyauth_user_auth[email]" placeholder="Enter Your Email Address" size="30" type="text">
@@ -528,7 +531,8 @@ In the event case of any conflict between the terms of this policy and the terms
 
       <script type="text/javascript">
   var term = $('#search-term').val(),
-      pu_url = "http://www.linkconnector.com/ta.php?lc=023185000012004382&atid=|site=brush|func=pop|kw="+encodeURI(term)+"&url=http://www.istockphoto.com/search/text/"+encodeURI(term)+"/filetype/illustrations",
+      pu_url = "http://shutterstock.7eer.net/c/38919/91612/1305?subId1=searchpopup&subId2="+encodeURI(term)+"&subId3=popup"+"&u=http%3A%2F%2Fwww.shutterstock.com%2Fcat.mhtml&p.version=llv1&p.vector=on&p.searchterm="+encodeURI(term);
+//      pu_url = "http://www.linkconnector.com/ta.php?lc=023185000012004382&atid=|site=brush|func=pop|kw="+encodeURI(term)+"&url=http://www.istockphoto.com/search/text/"+encodeURI(term)+"/filetype/illustrations",
       pu_prem = $('input[name="eezypremium"]').val(),
       pu_pct = 10;
 
@@ -636,6 +640,17 @@ In the event case of any conflict between the terms of this policy and the terms
     }
   }
 </script>
-  
+  <script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-2.newrelic.com","8807cf62c6","2806201","cl0NR0UNXlpTQ0wWQUFCDEFDTUJEX0cCBk0=",0,74,new Date().getTime(),"","","","",""]);}</script>
 
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
