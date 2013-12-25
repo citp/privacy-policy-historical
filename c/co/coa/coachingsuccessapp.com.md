@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachingsuccessapp.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509062102id_/http%3A//www.experiencepmi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachingsuccessapp.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226002103id_/http%3A//www.experiencepmi.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -80,3 +80,5 @@ The Company regularly reviews our internal compliance with our Privacy Policy. �
 **Changes in the Privacy Policy**
 
 Our Privacy Policy may change from time to time.  We reserve the right to change the Privacy Policy at our discretion and without notice.  We will post any privacy policy changes on this page.
+
+Rating: 0.0/ **10** (0 votes cast)
