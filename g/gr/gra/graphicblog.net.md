@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicblog.net privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424023327id_/http%3A//graphicblog.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicblog.net privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225140407id_/http%3A//graphicblog.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premium and Free Graphics - Premium and Free Graphics
 
