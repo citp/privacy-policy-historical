@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalfloss.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602182017id_/http%3A//www.mentalfloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalfloss.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225195626id_/http%3A//mentalfloss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mental Floss
 
