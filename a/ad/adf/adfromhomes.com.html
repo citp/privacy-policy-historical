@@ -1,0 +1,589 @@
+<!--The following is the downloaded HTML source of the adfromhomes.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226001741id_/http%3A//adfromhomes.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Privacy Policy</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0 ,target-densitydpi=device-dpi">
+    	<link rel="shortcut icon" href="images/afh-fav-icon.png" type="image/x-icon">
+        <link href="css/stylesheet.css" rel="stylesheet" type="text/css" media="all">
+        <link type="text/css" rel="stylesheet" href="css/colorbox.css">
+        <link href="css/mediaqueries.css" rel="stylesheet" type="text/css" media="all">
+        <!--[if lt IE 9]>
+        <link href="layout/styles/ie/ie8.css" rel="stylesheet" type="text/css" media="all">
+        <script src="layout/scripts/ie/css3-mediaqueries.min.js"></script>
+        <script src="layout/scripts/ie/html5shiv.min.js"></script>
+        <![endif]-->         
+         <!-- jQuery - the core-->
+		<script type="text/javascript" src="js/jquery_1.8.1.js"></script>
+		<script type="text/javascript" src="js/jquery.colorbox.js"></script>
+        <script type="text/javascript">
+		$(document).ready(function(){
+			 $(".iframe").colorbox({iframe:true, width:"500px", height:"290px",fixed:true});
+			 $("#faqs").addClass('active');
+			 $("#home").removeClass('active');
+		});
+		</script>
+   <script type="text/javascript">
+	function paymentLoginValidate(formname)
+	{
+		var pattern = new RegExp(/^[+a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/i);
+		var login_email = $('#payment_username').val();
+		var pword = $('#payment_pword').val();
+		if(login_email == "" || !pattern.test(login_email))
+		{
+			$('#payment_login').html("Valid email Required!");
+			return false;
+		}
+		else if(pword == "" || pword < 5)
+		{
+			$('#payment_login').empty();
+			$('#payment_password').html("Password required!");
+			return false;
+		}
+		else
+		{
+			$.ajax({
+				url: 'ajax/checkusername.php',
+				type: 'POST',			
+				data: {login_email:login_email, pword:pword},
+				async:false,
+				beforeSend: function (){
+					$('#login_ack').html("Cheking..");
+				},
+				success: function(data){
+					if(data == 1)
+					{
+						$('#login_ack').html("Your status has been disabled by Adminstrtor, Please contact Admin!");
+					}
+					else if(data == 2)
+					{
+						$('#login_username').val('');
+						$('#pword').val('');
+						location.reload();
+					}
+					else if(data == 3)
+					{
+						$('#login_ack').html("Wrong combination of username and password!");
+					}
+					else if(data == 4)
+					{
+						$('#login_ack').html("");
+						$('#login_ack').html("Invalid Email!");
+					}
+					else
+					{
+						document.getElementById(formname).submit();
+					}
+				},
+			});
+		}
+	}
+
+	function guestRegisterValidate(formname)
+	{
+		var pattern = new RegExp(/^[+a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/i);
+		var email = $('#guest_email').val();
+		var phn_prefix = $('#guest_phn_prefix').val();
+		var phn_no = $('#guest_phn_no').val();
+		var address = $('#guest_address').val();
+		var city = $('#guest_city').val();
+		var pin = $('#guest_pin').val();
+		if($('#guest_name').val() == "" || $('#guest_name').val().length <= 4)
+		{
+			$('#guest_name_ack').html("Username should be more than 4 charectors!");
+			return false;
+		}
+		else if(!pattern.test(email) || email == "")
+		{
+			$('#guest_name_ack').empty();
+			$('#guest_email_ack').html("Enter Valid Email!");
+			return false;
+		}
+		else if(phn_prefix.length != 2)
+		{
+			$('#guest_name_ack').empty();
+			$('#guest_email_ack').empty();
+			$('#guest_phn_no_ack').html("Phone number should have prefix!");
+			return false;
+		}
+		else if(phn_no.length != 10)
+		{
+			$('#guest_name_ack').empty();
+			$('#guest_email_ack').empty();
+			$('#guest_phn_no_ack').html("Phone number should have 10 numbers!");
+			return false;
+		}
+		else if(address == "")
+		{
+			$('#guest_name_ack').empty();
+			$('#guest_email_ack').empty();
+			$('#guest_phn_no_ack').empty();
+			$('#guest_address_ack').html("Enter your address!");
+			return false;
+		}
+		else if(city == "")
+		{
+			$('#guest_name_ack').empty();
+			$('#guest_email_ack').empty();
+			$('#guest_phn_no_ack').empty();
+			$('#guest_address_ack').empty();
+			$('#guest_city_ack').html("Enter your city!");
+			return false;
+		}
+		else if(pin == "")
+		{
+			$('#guest_name_ack').empty();
+			$('#guest_email_ack').empty();
+			$('#guest_phn_no_ack').empty();
+			$('#guest_address_ack').empty();
+			$('#guest_city_ack').empty();
+			$('#guest_pin_ack').html("Enter your Pincode!");
+			return false;
+		}
+		else if($('#guest_tc').is(':checked'))
+		{
+			$('#guest_name_ack').empty();
+			$('#guest_email_ack').empty();
+			$('#guest_phn_no_ack').empty();
+			$('#guest_address_ack').empty();
+			$('#guest_city_ack').empty();
+			$('#guest_pin_ack').empty();
+			$('#register_ack').empty();
+			$.ajax({
+				url: 'ajax/checkusername.php',
+				type: 'POST',
+				data: {guest_name:$('#guest_name').val(), email:email, phn_prefix:phn_prefix, phn_no:phn_no,address:address,city:city,pin:pin},
+				async:false,
+				beforeSend: function () {
+					$('#register_ack').html("Please wait...");
+				},
+				success: function(data){
+					if(data == 1)
+					{
+						$('#register_ack').empty();
+						$('#guest_email_ack').html("This email aleready taken, try with different!");
+					}
+					else if(data == 2)
+					{
+						$('#guest_name').val('');
+						$('#guest_email').val('')
+						$('#guest_phn_no').val('');
+						$('#register_ack').html("Registration completed.");
+					}
+					else if(data == 3)
+					{
+						$('#register_ack').html("Server busy, Please try after some time.");
+					}
+					else
+					{
+						document.getElementById(formname).submit();
+					}
+				},
+			});
+		}
+		else
+		{
+			$('#guest_name_ack').empty();
+			$('#guest_email_ack').empty();
+			$('#guest_phn_no_ack').empty();
+			$('#guest_address_ack').empty();
+			$('#guest_city_ack').empty();
+			$('#guest_pin_ack').empty();
+			$('#register_ack').html("Please check Terms N Conditions!");
+		}
+	}
+	
+</script>
+
+</head>
+	<body>
+		<div class="wrapper header_container"><!-- Header Container Start-->
+			<div id="header"><!-- Header Start -->
+				<a href="#"><img src="images/tollfree-afh.png" style="float:right; display:none; margin-top:20px;"></a>
+				<div class="header_left"><!-- Header Left Start -->
+					<div class="header_logo"><a href="index.php"><img src="images/logo.png" class="image" width="260" alt="Amazing ads" title="Amazing ads"></a></div>                 
+				</div><!-- Header Left End -->
+                <div class="clear"></div>
+				<div class="header_right"><!-- Header Right Start -->         
+					<div id="navigation"><!-- Navigation Start-->
+						<div class="nav_left">
+							<ul>
+                                <li id="home" class=""><a href="index.php">home</a></li>
+                                <li id="about_us"><a href="#">about us</a></li>
+                                <li id="rates_offers"><a href="#">rates &amp; offers</a></li>
+                                <li id="epaper_link"><a href="epapper.php">e-papers</a></li>
+                                <li id="faqs" class="active"><a href="faqs.php">faqs</a></li>
+                                <li id="contact_us" class="last"><a href="#">contact us</a></li>
+                                <li id="sup_doc"><a href="supported-documents.php">Supported Documents</a></li>
+							</ul>
+						</div>
+						<div class="nav_right">
+							                            <a href="http://adfromhomes.com/tracknsignin.php?token=310798d4e7a958f911038b19ea0ca5b1" class="iframe nav_right_first cboxElement">Log In</a>
+                            <a href="tracknsignin.php?token=368cc7b17925cc0f9c4b5a90db1e68c1" class="iframe  cboxElement">Track My Ad</a>
+                            
+                            						</div>
+					</div><!-- Navigation Close-->
+				</div><!-- Header Right Close -->
+			</div><!-- Header Close -->
+		</div><!-- Header Container Close-->
+	<div class="clear"></div>        <div class="wrapper content_container"><!-- Content Containet Start-->    
+            <div id="container"><!-- container Start-->
+				
+                          <div class="privacy">
+                          <h1 class="info_heading">Privacy Policy</h1>
+                             <p class="privacy-data">The privacy practices of this statement apply to all our services available under the domain of www. Ads.digimaniak.com  (demo site). 
+                            <br><br>
+                            By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access the Website. 
+                            <br><br>
+                            This Privacy Policy describes the information as part of the operation of our website services that we collect from you and what may happen to that information. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices for our services to you.
+                            <br><br>
+                            By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users.
+                            <br><br>
+                            We value your trust in us and we are committed to protect your privacy. Please read the following policy to understand how your personal information will be treated as you make full use of the Website.
+                            <br><br>
+                            From time to time we may reveal general statistical information about our Website and visitors, such as number of visitors, number and type of goods and services purchased, etc.
+                            </p>
+                           
+                            <p class="privacy-head">
+                            User Information:</p>
+                            <p class="privacy-data">
+                            
+                            When you use the Website, we collect and store your personal information from you. This allows us to provide services and features that most likely meet your needs, and to customize the website to make your experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose.</p>
+                            <p class="privacy-data">
+                            In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. To fully use the Website, you will need to register using our online registration form. You may be required to provide us with your contact and identity information, residence / place of business information, billing information, shipping information, bank account details and other personal information as indicated on the forms throughout the Website. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Website. 
+                            </p>
+                            <p class="privacy-data">
+                            
+                            We may automatically track certain information about you based upon your behaviour on the Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analyzed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on the Website or not), which URL you next go to (whether this URL is on the Website or not), your computer browser information, and your IP address. 
+                            </p>
+                            <p class="privacy-data">
+                            We use data collection devices such as "cookies" on certain pages of the Website to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re enter your password more frequently during a session.
+                            </p>
+                            <p class="privacy-data">
+                            Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies by third parties.
+                            </p>
+                            <p class="privacy-data">
+                            If you choose to buy on the Website, we collect information about your buying behaviour. If you establish a credit account with us to pay the fees we charge, we collect some additional information, such as a billing address, a credit card number and a credit card expiration date and tracking information from cheques or money orders.
+                            </p>
+                            <p class="privacy-data">
+                            If you choose to leave feedback on our services, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
+                            </p>
+                            <p class="privacy-data">
+                            If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you.
+                            </p>
+                            <p class="privacy-data">
+                            We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Website to: resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in the services provided by us, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
+                            </p>
+                            <p class="privacy-data">
+                            You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve the Website's content and product offerings, and customize the Website's content, layout, and services. These uses improve the Website and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Website.
+                            </p>
+                            <p class="privacy-data">
+                            You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Website. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time.
+                            </p>
+                            <p class="privacy-data">
+                            Our Disclosure of your information: We may also use your information to deliver information to you that, in some cases, are targeted to your interests, such as new services and promotions. The following are examples of some categories of persons to whom we would share your information with from time to time.
+                            </p>
+                            
+                            <p class="privacy-head">
+                            Advertisements:</p>
+                            <p class="privacy-data">
+                            
+                            Where a user enters information on any form of an advertiser, the information is simultaneously collected by us. Because we do not control the privacy practices of these advertisers, you should evaluate their practices before deciding to provide the said information.
+                            </p>
+                            <p class="privacy-data">
+                            Ads.digimaniak.com (demo site) may also aggregate (gather up data across all user accounts) personally identifiable information and disclose such information in a non- personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes.
+                            </p>
+                            <p class="privacy-data">
+                            Where a user enters information on any form of an advertiser, the information is simultaneously collected by us. Because we do not control the privacy practices of these advertisers, you should evaluate their practices before deciding to provide the said information.
+                            </p>
+                            <p class="privacy-head">
+                            Internal Service Providers:</p>
+                            <p class="privacy-data"> We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you on the Website (e.g., discussion boards, bill collection, co-branded credit cards) and therefore we may provide some of your personal information directly to these internal service providers. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced website related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you (such as for website surveys or for a co-branded credit card). In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy.
+                            </p>
+                            
+                            <p class="privacy-head">
+                            Legal Requests:</p>
+                            <p class="privacy-data">
+                            
+                            We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, User ID history, fraud complaints, and purchase/using Website services history without a  court order or substantially similar legal procedure. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, street address, city, state, pin code, country, phone number, email, and company name to Intellectual Property rights owners under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.</p>
+                            <p class="privacy-data">
+                            Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Website. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+                            </p>
+                            <p class="privacy-data">
+                            We ask that minors (under the age of 18) do not submit any personal information to us. If you are under the age of 18, you cannot purchase on the Website or use the services on the Website. If you wish purchase on the Website or use the services such purchase or use of services may be made by your legal guardian or parents who have registered as Users of the Website provided that such purchase or use is not in relation to any adult material/mature audience items displayed on the Website, the sale or purchase of which to/by minors is strictly prohibited
+                            </p>
+                            <p class="privacy-data">
+                            To protect your privacy and security, we will verify your identity before granting access or making changes to your personally identifying information.
+                            
+                            </p>
+                            
+                            <p class="privacy-head">
+                            Security:</p>
+                            <p class="privacy-data">
+                            When you place orders or access your account information, we offer the use of a secure server. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies.
+                            </p>
+                            
+                            <p class="privacy-head">
+                            Users Consent:</p>
+                            <p class="privacy-data">
+                            
+                            By using the Website, you consent to the collection and use of the information you disclose on the Website. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will be communicated through our Web site at least 10 days in advance of implementation.
+                            </p>
+                            
+                            <p class="privacy-head">
+                            User’s Feedback:</p>
+                            <p class="privacy-data">
+                            We welcome your questions and comments regarding our privacy policy. You may contact us by using the feedback link on our Website. As our business meets the future, our privacy policy may change. We shall endeavour to post notice of changes of policy prominently and with advance notice, but our policy, terms, and conditions in effect at any time will govern our practices and our relationship at that time. You should check back here regularly in case policies or terms and conditions are updated or changed. 
+                            </p>
+                          </div> 
+                      
+            	<div class="clear"></div>
+            </div><!-- Container Close-->
+        </div><!-- Content Container Close-->    
+
+                    <div class="clear"></div>
+        <div id="footer_container"><!--Footer container Start -->
+<div id="footer"><!-- Footer Start -->
+    <div class="footer_left"><!-- Footer Left Start -->
+        <div class="footer_columns">
+            <h6 class="h6">My Classifieds</h6>
+            <ul>
+                <li><a href="#">Signup/Login</a></li><li class="line"></li>
+                <li><a href="#">Create New Ad</a></li><li class="line"></li>
+                <li><a href="faqs.php">FAQs</a></li><li class="line"></li>
+                <li><a href="#">Disclaimers</a></li><li class="line"></li>
+                <li><a href="#">Feed Back</a></li><li class="line"></li>
+                <li><a href="terms-and-conditions.php">Terms &amp; Conditions</a></li><li class="line"></li>
+                <li><a href="privacy-policy.php">Privacy Policy</a></li><li class="line"></li>
+                <li><a href="#">Advertising Policy	</a></li><li class="line"></li>
+                <li><a href="refunds-policy.php">Refund Policy</a></li>
+            </ul>
+        </div>                  	               
+    </div><!-- Footer Left End -->
+    <div class="footer_right"><!-- Footer Right Start -->
+        <div class="footer_social_icons">
+        	<!--<a href="http://www.facebook.com/pages/Ad-From-HomesCOM/170559666480761?ref=hl" target="_blank"><img src="" alt="" title="Facebook"  />Facebook</a>
+            <a href="http://www.linkedin.com/pub/ad-from-homes-com/82/1b5/471" target="_blank"><img src="" alt="" title="Linkedin"  />Linkedin</a>
+            <a href="https://plus.google.com/103253149789838321020/about" target="_blank"><img src="" alt="" title="Google+"  />Google+</a>
+            <a href="https://twitter.com/AdFromHomes_COM" target="_blank"><img src="" alt="" title="Twitter"  />Twitter</a>
+            <a href="http://www.pinterest.com/AdFromHomesCOM/" target="_blank"><img src="" alt="" title="Pinterest"  />Pinterest</a>
+            <a href="http://www.flickr.com/photos/ad_from_homes_com/" target="_blank"><img src="" alt="" title="Flickr"  />Flickr</a>
+            <a href="http://www.youtube.com/user/AdFromHomescom" target="_blank"><img src="" alt="" title="Youtube"  />Youtube</a>
+            <img src="images/social-icons.png" alt="" title="" align="right">
+        </div>  
+        <div class="footer_navigation">
+            <a href="#" title="" target="">Home</a> | 
+            <a href="#" title="" target="">About us</a> |
+            <a href="#" title="" target="">Rates &amp; Offers</a> |
+            <a href="../faqs.php" title="" target="">Faqs</a> |
+            <a href="#" title="" target="">Contact us</a> 
+        </div> -->
+         <div class="newspaper_list">
+                    <ul type="none">
+                    <li><a href="text-classified.php?newspaper=223">Aajkaal</a></li>
+                    <li><a href="text-classified.php?newspaper=62">Aapla Vartahar</a></li>
+                    <li><a href="text-classified.php?newspaper=312">Agrowon</a></li>
+                    <li><a href="text-classified.php?newspaper=245">Ahmedabad Times </a></li>
+                    <li><a href="text-classified.php?newspaper=68">Aj</a></li>
+                    <li><a href="text-classified.php?newspaper=172">Amar Asom</a></li>
+                    <li><a href="text-classified.php?newspaper=60">Amar Ujala</a></li>
+                    <li><a href="text-classified.php?newspaper=255">Anandabazar Patrika</a></li>
+                    <li><a href="text-classified.php?newspaper=146">Andhra Bhoomi Daily</a></li>
+                    <li><a href="text-classified.php?newspaper=45">Andhra Jyothy</a></li>
+                    <li><a href="text-classified.php?newspaper=50">Andhra Prabha</a></li>
+                    <li><a href="text-classified.php?newspaper=154">Arunachal Times</a></li>
+                    <li><a href="text-classified.php?newspaper=224">Asomiya Pratidin</a></li>
+                    <li><a href="text-classified.php?newspaper=218">Assam Tribune</a></li>
+                    <li><a href="text-classified.php?newspaper=222">Assignment Abroad Times</a></li>
+                    <li><a href="text-classified.php?newspaper=262">Bangalore Times</a></li>
+                    <li><a href="text-classified.php?newspaper=268">Bareilly Plus </a></li>
+                    <li><a href="text-classified.php?newspaper=246">Baroda  Times </a></li>
+                    <li><a href="text-classified.php?newspaper=259">Bhubaneshwar Times </a></li>
+                    <li><a href="text-classified.php?newspaper=121">Bombay Samachar</a></li>
+                    <li><a href="text-classified.php?newspaper=267">Calcutta Times</a></li>
+                    <li><a href="text-classified.php?newspaper=251">Chennai Times </a></li>
+                    <li><a href="text-classified.php?newspaper=228">Classified Mart</a></li>
+                    <li><a href="text-classified.php?newspaper=229">Classified specials </a></li>
+                    <li><a href="text-classified.php?newspaper=96">Compact</a></li>
+                    <li><a href="text-classified.php?newspaper=159">Daily Excelsior</a></li>
+                    <li><a href="text-classified.php?newspaper=78">Daily News</a></li>
+                    <li><a href="text-classified.php?newspaper=175">Daily Taskeen</a></li>
+                    <li><a href="text-classified.php?newspaper=44">Daily Thanthi</a></li>
+                    <li><a href="text-classified.php?newspaper=219">Dainik Assam</a></li>
+                    <li><a href="text-classified.php?newspaper=92">Dainik Bhaskar</a></li>
+                    <li><a href="text-classified.php?newspaper=71">Dainik Herald</a></li>
+                    <li><a href="text-classified.php?newspaper=49">Dainik Jagran</a></li>
+                    <li><a href="text-classified.php?newspaper=293">Dainik Jugasankha</a></li>
+                    <li><a href="text-classified.php?newspaper=66">Dainik Kashmir Times</a></li>
+                    <li><a href="text-classified.php?newspaper=156">Dainik Purvoday</a></li>
+                    <li><a href="text-classified.php?newspaper=225">Dainik Statesman</a></li>
+                    <li><a href="text-classified.php?newspaper=213">Dainik Tribune</a></li>
+                    <li><a href="text-classified.php?newspaper=140">Deccan Chronicle</a></li>
+                    <li><a href="text-classified.php?newspaper=82">Deccan Herald</a></li>
+                    <li><a href="text-classified.php?newspaper=83">Deccan Herald Education</a></li>
+                    <li><a href="text-classified.php?newspaper=243">Deepika Daily</a></li>
+                    <li><a href="text-classified.php?newspaper=266">Delhi Times</a></li>
+                    <li><a href="text-classified.php?newspaper=171">Deshbandhu</a></li>
+                    <li><a href="text-classified.php?newspaper=122">Deshdoot</a></li>
+                    <li><a href="text-classified.php?newspaper=124">Deshdoot Times</a></li>
+                    <li><a href="text-classified.php?newspaper=162">Deshonnati</a></li>
+                    <li><a href="text-classified.php?newspaper=43">Dinakaran</a></li>
+                    <li><a href="text-classified.php?newspaper=313">Dinamalar</a></li>
+                    <li><a href="text-classified.php?newspaper=88">Dinamani</a></li>
+                    <li><a href="text-classified.php?newspaper=91">Divya Bhaskar</a></li>
+                    <li><a href="text-classified.php?newspaper=164">Divya Marathi</a></li>
+                    <li><a href="text-classified.php?newspaper=173">DLA</a></li>
+                    <li><a href="text-classified.php?newspaper=176">DLA AM</a></li>
+                    <li><a href="text-classified.php?newspaper=132">DNA</a></li>
+                    <li><a href="text-classified.php?newspaper=120">Eastern Chronicle</a></li>
+                    <li><a href="text-classified.php?newspaper=238">Economic Times </a></li>
+                    <li><a href="text-classified.php?newspaper=252">Education Times </a></li>
+                    <li><a href="text-classified.php?newspaper=47">Eenadu</a></li>
+                    <li><a href="text-classified.php?newspaper=234">EI Samay</a></li>
+                    <li><a href="text-classified.php?newspaper=208">Etemaad</a></li>
+                    <li><a href="text-classified.php?newspaper=148">Financial Chronicle</a></li>
+                    <li><a href="text-classified.php?newspaper=142">Financial Express</a></li>
+                    <li><a href="text-classified.php?newspaper=86">Gavakari</a></li>
+                    <li><a href="text-classified.php?newspaper=127">Goadoot</a></li>
+                    <li><a href="text-classified.php?newspaper=309">Gomantak</a></li>
+                    <li><a href="text-classified.php?newspaper=310">Gomantak Times</a></li>
+                    <li><a href="text-classified.php?newspaper=269">Gorakhpur Plus </a></li>
+                    <li><a href="text-classified.php?newspaper=53">Greater Kashmir</a></li>
+                    <li><a href="text-classified.php?newspaper=46">Gujarat Samachar</a></li>
+                    <li><a href="text-classified.php?newspaper=270">Gwalior Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=271">Haridwar Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=161">Highway Channel</a></li>
+                    <li><a href="text-classified.php?newspaper=151">Hindi Milap</a></li>
+                    <li><a href="text-classified.php?newspaper=227">Hindu</a></li>
+                    <li><a href="text-classified.php?newspaper=298">Hindustan</a></li>
+                    <li><a href="text-classified.php?newspaper=299">Hindustan Times</a></li>
+                    <li><a href="text-classified.php?newspaper=300">Hindustan Times City</a></li>
+                    <li><a href="text-classified.php?newspaper=301">Hindustan Times Delhi Special</a></li>
+                    <li><a href="text-classified.php?newspaper=302">Hindustan Times Education</a></li>
+                    <li><a href="text-classified.php?newspaper=263">Hyderabad Times</a></li>
+                    <li><a href="text-classified.php?newspaper=141">Indian Express</a></li>
+                    <li><a href="text-classified.php?newspaper=260">Indradhanush</a></li>
+                    <li><a href="text-classified.php?newspaper=317">Inquilab</a></li>
+                    <li><a href="text-classified.php?newspaper=75">Jagran City</a></li>
+                    <li><a href="text-classified.php?newspaper=55">Jai Hind</a></li>
+                    <li><a href="text-classified.php?newspaper=272">Jalandhar Plus </a></li>
+                    <li><a href="text-classified.php?newspaper=273">Jammu Plus </a></li>
+                    <li><a href="text-classified.php?newspaper=166">Janmabhoomi</a></li>
+                    <li><a href="text-classified.php?newspaper=167">Janmabhoomi Pravasi (Sunday)</a></li>
+                    <li><a href="text-classified.php?newspaper=69">Janpath Samachar</a></li>
+                    <li><a href="text-classified.php?newspaper=144">Jansatta</a></li>
+                    <li><a href="text-classified.php?newspaper=274">Jhansi Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=157">Jharkhand Classified</a></li>
+                    <li><a href="text-classified.php?newspaper=275">Jharkhand Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=276">Jodhpur Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=89">Kanada Prabha</a></li>
+                    <li><a href="text-classified.php?newspaper=58">Karnataka Malla</a></li>
+                    <li><a href="text-classified.php?newspaper=65">Kashmir Times</a></li>
+                    <li><a href="text-classified.php?newspaper=54">Kashmir Uzma</a></li>
+                    <li><a href="text-classified.php?newspaper=277">Kota Plus </a></li>
+                    <li><a href="text-classified.php?newspaper=264">Kovai Times</a></li>
+                    <li><a href="text-classified.php?newspaper=278">Kumaon Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=216">Kutchmitra</a></li>
+                    <li><a href="text-classified.php?newspaper=137">Lokmat</a></li>
+                    <li><a href="text-classified.php?newspaper=139">Lokmat Samachar</a></li>
+                    <li><a href="text-classified.php?newspaper=138">Lokmat Times</a></li>
+                    <li><a href="text-classified.php?newspaper=153">Lokprabha (only Friday)</a></li>
+                    <li><a href="text-classified.php?newspaper=147">Loksatta</a></li>
+                    <li><a href="text-classified.php?newspaper=80">MAALAI MALAR</a></li>
+                    <li><a href="text-classified.php?newspaper=165">Madhyamam</a></li>
+                    <li><a href="text-classified.php?newspaper=168">Madhyamam Gulf</a></li>
+                    <li><a href="text-classified.php?newspaper=233">Maharashtra Times </a></li>
+                    <li><a href="text-classified.php?newspaper=289">Maharashtra Times Property</a></li>
+                    <li><a href="text-classified.php?newspaper=220">Malayala Manorama</a></li>
+                    <li><a href="text-classified.php?newspaper=48">Mathrubhumi</a></li>
+                    <li><a href="text-classified.php?newspaper=296">Mawphor Khasi</a></li>
+                    <li><a href="text-classified.php?newspaper=294">Mawphor Today</a></li>
+                    <li><a href="text-classified.php?newspaper=279">Meerut Plus(Times of Meerut)</a></li>
+                    <li><a href="text-classified.php?newspaper=170">Meghalaya Guardian </a></li>
+                    <li><a href="text-classified.php?newspaper=314">Mid Day</a></li>
+                    <li><a href="text-classified.php?newspaper=237">Mirror </a></li>
+                    <li><a href="text-classified.php?newspaper=59">Mumbai Choufer</a></li>
+                    <li><a href="text-classified.php?newspaper=217">Munsif</a></li>
+                    <li><a href="text-classified.php?newspaper=52">Nai Dunia</a></li>
+                    <li><a href="text-classified.php?newspaper=84">Namasthe Telangana</a></li>
+                    <li><a href="text-classified.php?newspaper=305">Navakal</a></li>
+                    <li><a href="text-classified.php?newspaper=232">Navbharat Times </a></li>
+                    <li><a href="text-classified.php?newspaper=67">Navhind Times</a></li>
+                    <li><a href="text-classified.php?newspaper=79">NavPrabha</a></li>
+                    <li><a href="text-classified.php?newspaper=90">New Indian Express</a></li>
+                    <li><a href="text-classified.php?newspaper=77">News Today</a></li>
+                    <li><a href="text-classified.php?newspaper=291">North East Times</a></li>
+                    <li><a href="text-classified.php?newspaper=70">O Herald</a></li>
+                    <li><a href="text-classified.php?newspaper=187">Prabhat Khabar</a></li>
+                    <li><a href="text-classified.php?newspaper=152">Prajavani</a></li>
+                    <li><a href="text-classified.php?newspaper=74">Pudhari</a></li>
+                    <li><a href="text-classified.php?newspaper=257">Punjab Kesari</a></li>
+                    <li><a href="text-classified.php?newspaper=214">Punjabi Tribune</a></li>
+                    <li><a href="text-classified.php?newspaper=64">Punya Nagari</a></li>
+                    <li><a href="text-classified.php?newspaper=169">Purvanchal Prahari</a></li>
+                    <li><a href="text-classified.php?newspaper=51">Raj Express</a></li>
+                    <li><a href="text-classified.php?newspaper=76">Rajasthan Patrika</a></li>
+                    <li><a href="text-classified.php?newspaper=249">Rajkot Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=85">Ranchi Express</a></li>
+                    <li><a href="text-classified.php?newspaper=119">Rashtra Deepika</a></li>
+                    <li><a href="text-classified.php?newspaper=81">Rashtriya Sahara </a></li>
+                    <li><a href="text-classified.php?newspaper=129">Rozana Spokesman</a></li>
+                    <li><a href="text-classified.php?newspaper=307">Sakal</a></li>
+                    <li><a href="text-classified.php?newspaper=308">Sakal Times</a></li>
+                    <li><a href="text-classified.php?newspaper=61">Sakshi Daily</a></li>
+                    <li><a href="text-classified.php?newspaper=155">Samaja</a></li>
+                    <li><a href="text-classified.php?newspaper=212">Sambad</a></li>
+                    <li><a href="text-classified.php?newspaper=158">Sandesh</a></li>
+                    <li><a href="text-classified.php?newspaper=292">Sandhya Aajkaal</a></li>
+                    <li><a href="text-classified.php?newspaper=236">Sandhya Times </a></li>
+                    <li><a href="text-classified.php?newspaper=306">Sandhyakal</a></li>
+                    <li><a href="text-classified.php?newspaper=256">Sanmarg</a></li>
+                    <li><a href="text-classified.php?newspaper=123">Sarwamat</a></li>
+                    <li><a href="text-classified.php?newspaper=143">Screen (only Friday)</a></li>
+                    <li><a href="text-classified.php?newspaper=280">Shimla Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=56">Siasat Daily</a></li>
+                    <li><a href="text-classified.php?newspaper=281">Srinagar Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=244">Statesman</a></li>
+                    <li><a href="text-classified.php?newspaper=315">Sunday Mid Day</a></li>
+                    <li><a href="text-classified.php?newspaper=93">Sunday Standard</a></li>
+                    <li><a href="text-classified.php?newspaper=239">Sunday Times of India</a></li>
+                    <li><a href="text-classified.php?newspaper=248">Surat Times </a></li>
+                    <li><a href="text-classified.php?newspaper=297">Swantantra Vaartha</a></li>
+                    <li><a href="text-classified.php?newspaper=149">Swatantra Bharat</a></li>
+                    <li><a href="text-classified.php?newspaper=242">T2</a></li>
+                    <li><a href="text-classified.php?newspaper=134">Telegraph</a></li>
+                    <li><a href="text-classified.php?newspaper=145">The Asian Age</a></li>
+                    <li><a href="text-classified.php?newspaper=87">The Day View English</a></li>
+                    <li><a href="text-classified.php?newspaper=261">Times Classified Special Delhi</a></li>
+                    <li><a href="text-classified.php?newspaper=283">TIMES OF AGRA</a></li>
+                    <li><a href="text-classified.php?newspaper=285">Times of Aligarh</a></li>
+                    <li><a href="text-classified.php?newspaper=247">Times of Anand</a></li>
+                    <li><a href="text-classified.php?newspaper=286">TIMES OF DOON</a></li>
+                    <li><a href="text-classified.php?newspaper=231">Times of India </a></li>
+                    <li><a href="text-classified.php?newspaper=287">Times of Ludhiana</a></li>
+                    <li><a href="text-classified.php?newspaper=288">Times Property</a></li>
+                    <li><a href="text-classified.php?newspaper=240">Times Zigwheels</a></li>
+                    <li><a href="text-classified.php?newspaper=150">Tribune</a></li>
+                    <li><a href="text-classified.php?newspaper=215">Tribune Classified Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=282">Udaipur Plus</a></li>
+                    <li><a href="text-classified.php?newspaper=304">Udaya Vani</a></li>
+                    <li><a href="text-classified.php?newspaper=163">Uttar Banga Sambad</a></li>
+                    <li><a href="text-classified.php?newspaper=230">Vijay Karnataka</a></li>
+                    <li><a href="text-classified.php?newspaper=254">Vijay Karnataka Education </a></li>
+                    <li><a href="text-classified.php?newspaper=290">Vijay Karnataka Property</a></li>
+                    <li><a href="text-classified.php?newspaper=131">Vir Arjun</a></li>
+                    <li><a href="text-classified.php?newspaper=250">Vizag Times </a></li>
+                    <li><a href="text-classified.php?newspaper=63">Yeshobhumi</a></li>
+                    					</ul>
+                </div>	
+    </div><!-- Footer Right Close -->
+    <div class="clear"></div>    
+</div>  <!-- Footer Close -->
+ <div class="footer_copyright">
+            <p>© Copyright <a href="http://www.sarojads.com/" target="_blank">Saroj Ad Creators (IND) Pvt. Ltd.</a> All Rights Reserved.</p>   	
+        </div>
+        </div><!--Footer container close -->     
+	
+ 		       
+</div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button type="button" id="cboxClose"></button></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
