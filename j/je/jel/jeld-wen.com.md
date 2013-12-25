@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jeld-wen.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619033146id_/http%3A//www.jeld-wen.com/product-support/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeld-wen.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225030431id_/http%3A//www.jeld-wen.com/product-support/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JELD-WEN Doors & Windows
 
 We at **JELD-WEN, inc.** (referred to as " **JELD-WEN, inc.** ," "we," "us," or "our") recognize the importance of protecting the privacy of certain information ("Information") collected about our customers and prospective customers (referred to as "Customers," "you," or "your"). This privacy statement discloses what Information we gather, how we use it, and how to correct or change it. By visiting www.jeld-wen.com (the "Website") you acknowledge that you accept the practices and policies outlined in this Policy.
 
-This privacy ("Policy") discoses what Information we gather, how we use it, and how to correct or change it. This policy does not apply to the practices of companies that **JELD-WEN, inc.** does not own or control, or individuals that **JELD-WEN, inc.** does not employ or manage, including those that are linked to the Website.
+This privacy ("Policy") discloses what Information we gather, how we use it, and how to correct or change it. This policy does not apply to the practices of companies that **JELD-WEN, inc.** does not own or control, or individuals that **JELD-WEN, inc.** does not employ or manage, including those that are linked to the Website.
 
 Please note, if you provide us with your email address or phone number, we or our representative may send you a follow-up email or phone call.
 
