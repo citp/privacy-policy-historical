@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gogrid.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616112904id_/http%3A//gogrid.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogrid.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225225657id_/http%3A//www.gogrid.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoGrid
 
-**Effective Date: October 31, 2008**
+Effective Date: October 31, 2008
 
 GoGrid has created this Privacy Policy to record and explain our commitment to privacy, and as an agreement with our customers and with other third parties about our data-handling. This policy lists the types of potentially private data GoGrid collects, explains how we use and protect that data, and discloses our key procedures surrounding privacy.  
 This Privacy Policy applies to GoGrid's services (collectively, the "Service") and to its website: [www.GoGrid.com](http://www.gogrid.com/).
@@ -72,9 +72,13 @@ This Privacy Policy doesn't address use of data by our customers or by other thi
 ## Hello!
 
   * **Welcome to GoGrid!**
-  * I'm a live Cloud Expert.
+  * I'm a Cloud Infrastructure and Big Data Solutions expert.
   * What questions do you have today?
 
 
 
 Call us at 1(877) 946-4743 (US & Canada)
+
+[  
+  
+](https://web.archive.org/about/our-customers)
