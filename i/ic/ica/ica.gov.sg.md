@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ica.gov.sg privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073728id_/http%3A//ica.gov.sg/page.aspx%3Fpageid%3D120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ica.gov.sg privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225113726id_/http%3A//www.ica.gov.sg/page.aspx%3Fpageid%3D120) for the most accurate reproduction.*
 
 # ICA - Privacy Statement
 
@@ -8,7 +8,10 @@
   4. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you. 
   5. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies. 
   6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
+  7. Please contact [ICA_Feedback@ica.gov.sg](mailto:ICA_Feedback@ica.gov.sg):  
+(a) For any enquires or feedback on our data protection policies and procedures,   
+(b) If you require more information on or access to the data which you have earlier provided to us.
 
 
 
-Last updated on 17 Apr 2008
+Last updated on 22 Oct 2013
