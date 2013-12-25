@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busybuzzblogging.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622202437id_/http%3A//www.busybuzzblogging.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busybuzzblogging.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225054122id_/http%3A//www.busybuzzblogging.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Busy Buzz Blogging
 
