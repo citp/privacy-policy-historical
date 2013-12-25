@@ -1,29 +1,68 @@
-> *The following text is extracted and transformed from the videoconverterexclusive.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306012342id_/http%3A//www.videoconverterexclusive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconverterexclusive.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226002342id_/http%3A//www.videoconverterexclusive.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # 
 
-## Site Privacy Policy
+**videoconverterexclusive.com Privacy Policy**
 
-**Do we use cookies?**
+[Last updated March, 2013] 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+When you use this Website www.videoconverterexclusive.com ("Website", "Us" or "We"), you consent to the collection, use and disclosure of your information as described in this privacy policy ("Privacy Policy"). 
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We know that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected and stored by Us when you make use of the Website or Software downloaded from the Website, and how the information will be used. 
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. **Do we disclose any information to outside parties?**
+This Privacy Policy may be updated from time to time we ask you to check back the most updated form of Privacy Policy as indicated below. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+YOUR CONTINUED USE OF THE SOFTWARE AND/OR THIS WEBSITE AFTER THIS PRIVACY POLICY HAS BEEN AMENDED SHALL BE DEEMED AS YOUR CONTINUED ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY, AS AMENDED. 
 
- **Third party links**
+PLEASE NOTE: WE WILL NOT USE OR SHARE YOUR INFORMATION WITH ANYONE EXCEPT AS DESCRIBED IN THIS PRIVACY POLICY. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**1\. Information Collected**
 
- **Your Consent**
+1.1. Personal Information:
 
-By using our site, you consent to our Privacy Policy
+We may collect some personal information that you explicitly provide (for example, in the process of registration to the Website services) and which identifies your personally, such as your name, email address, services purchased, etc. ("Personal Information"). 1.2. Non-Personal Information:  
+We collect some non-identifying information regarding your use of our Website and Software, including but not limited to, type of device on which Software is used and installed, applications with which the Software has interacted, advertisements viewed, pages browsed, search inquiries, the type of browser you are using, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server ("Non-Personal Information"). 
 
-. **Changes to our Privacy Policy**
+1.2. Non-Personal Information:
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+We collect some non-identifying information regarding your use of our Website and Software, including but not limited to, type of device on which Software is used and installed, applications with which the Software has interacted, advertisements viewed, pages browsed, search inquiries, the type of browser you are using, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server ("Non-Personal Information"). 
 
-This policy was last modified on January 13, 2012
+**2\. Children Policy**
+
+We do not knowingly collect Personal Information from anyone under the age of thirteen (13). In the event that we learn that Personal Information was collected from a child under age of thirteen (13) without verification of parental consent, we will take adequate measures to delete that information as quickly as possible. 
+
+**3\. Software and Website Updates**
+
+The Software may perform regular checks for software updates on our servers and may download such updates when needed. 
+
+**4\. Use of Collected Information**
+
+4.1. 
+
+_Personal Information:_  
+Personal Information shall be used solely in order to process your inquiries, respond to your requests and improve our services.
+
+4.2. We will not disclose your Personal Information to any third party, unless: (i) required to do so as part of any legal proceedings conducted between you and the Website; (ii) Required to do so by court order; (iii) In case the activity of the Website is transferred to a third party, providing such party undertakes to protect your privacy in accordance with these terms
+
+4.3. 
+
+_Non-Personal Information:_  
+Non-Personal Information shall be used to ensure the adequate operation, improve, modify, cancel, enrich or adjust the Website and/or the Software.
+
+4.4. We reserve the right to use and disclose Non-Personal Information to third parties, including, advertisers, sponsors, business partners, investors, affiliates and consultants, at our sole discretion.
+
+ **5\. Cookies**
+
+We use Cookies in order to ensure proper operation, collect Non-Personal Information, verify information, tailor the Website and Software to your specific preferences and ensure information security. Please note that modern browsers enable you to disable Cookies, however, this may interfere with your use of the Website or its services. 
+
+**6\. Third Party Advertisements**
+
+We may use third-party advertising partners in order to serve advertisements on our Website. Such parties may use Cookies placed on your computer in order to adjust the advertisements presented on the Website. Such use is subject to the privacy policy of those parties and is not subject to these terms, we recommend you to review said policies. 
+
+**7\. Information Security**
+
+Note that although we take measures to secure the information and reduce the risk of unwanted disclosure, we cannot guarantee the information will not be exposed as a result of unauthorized penetration to our servers. 
+
+**8\. Support**
+
+If you feel that your privacy was invaded and/or if you have questions regarding our Privacy Policy, please contact us directly at support@videoconverterexclusive.com, and our privacy officer shall investigate and post its report promptly. 
