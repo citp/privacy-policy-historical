@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624015847id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225040010id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Explain that Stuff!
 
-_Last updated: May 2, 2013._
+_Last updated: November 12, 2013._
 
 We take privacy issues seriously—and yes everyone says that, but we really do. Here (in plain English) are full details explaining the careful steps we have taken to respect and protect your privacy as you use our website.
 
@@ -24,7 +24,9 @@ Explainthatstuff.com does not store cookies of any kind on your computer. None a
 
 Please be aware, however, that our website runs advertisements on most pages; it is a completely free website and if it didn't run advertising, it would not exist. The advertising partners we work with use what are known as third-party cookies to help them serve up relevant, targeted advertisements that they believe may match your interests. Our partners assure us that these cookies are anonymous and do not use personally identifying information to serve advertisements to you unless you have specifically given permission for that. (Although you might raise an eyebrow at this use of cookies, we believe it is better that advertisers show you advertisements you might find interesting or useful than completely random advertisements.) We have no control over these third-party cookies. We do not see or have access to any information they may store or collect. They pass directly between your computer and the servers run by our advertisers.
 
-At the moment, Google is the only advertiser we are working with. Google, as a third party vendor, uses cookies (including the DoubleClick DART cookie) to serve advertisements on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You can learn more about how Google safeguards your privacy by visiting [Google's Privacy Policy](http://www.google.com/privacy.html) website.
+At the moment, we run advertisments through Google.
+
+Third party vendors, including Google, use cookies to serve ads to you based on your prior visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to our site and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google's Ads Settings](http://www.google.com/ads/preferences/) page. Alternatively, you can opt out by visiting [aboutads.info](http://www.aboutads.info/). The cookies of other third-party vendors or ad networks may also be used to serve ads on our site and you can opt out of these cookies too by visiting [aboutads.info](http://www.aboutads.info/). You can learn more about how Google safeguards your privacy by visiting [Google's Privacy Policy](http://www.google.com/policies/privacy/) website.
 
 ## Social networking sites
 
@@ -60,4 +62,4 @@ For a more general look at privacy issues, you might like to look at the [Electr
 
 ## Let us know
 
-We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20130624015847id_/http%3A//www.explainthatstuff.com/cform.php) form.
+We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20131225040010id_/http%3A//www.explainthatstuff.com/cform.php) form.
