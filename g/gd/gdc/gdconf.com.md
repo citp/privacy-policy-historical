@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628012519id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225065550id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
@@ -6,13 +6,11 @@ Effective: September 8, 2011
 
 ## Scope
 
-UBM LLC (“UBM” or "we") operates through four separate divisions: [UBM Channel](http://www.ubmchannel.com/)™; [UBM Electronics](http://electronics.ubm.com/)™; [UBM Tech](http://www.ubmtechweb.com/)™; and [UBM Studios](http://www.ubmstudios.com/)™.  Three of these divisions focus on the needs of a specific community of technology professionals or other specialized community with shared interests and responsibilities.  The fourth, UBM Studios, builds virtual events on behalf of its corporate customers. 
+This Privacy Policy covers information which you give us, UBM LLC ("UBM Tech" or "we"), about yourself and your professional background as you register for or attend our face-to-face events around the world, as you visit or participate in any of our web sites or online venues hosted on servers in the United States, or subscribe to any of our print publications distributed in the United States, or volunteer information in any social media context. We will post or display a link to this UBM Privacy Policy on all forms and all online pages to which it is applicable.
 
-This Privacy Policy covers information which you give any of the four divisions about yourself and your professional background as you register for or attend our face-to-face events around the world, as you visit or participate in any of our web sites or online venues hosted on servers in the United States, or subscribe to any of our print publications distributed in the United States, or volunteer information in any social media context. We will post or display a link to this UBM Privacy Policy on all forms and all online pages to which it is applicable.
+An increasing number or our websites allow you to publish or share content including information which identifies you.  In many cases, this Policy will govern how UBM Tech uses the information you provide and what choices you have about its publication. 
 
-An increasing number or our websites allow you to publish or share content including information which identifies you.  In many cases, this Policy will govern how UBM uses the information you provide and what choices you have about its publication.  In addition, a limited number of our brands and web sites within the four divisions publish a separate, different privacy policy based on a particular business model and relationship with customers. A link to the applicable policy will appear at the bottom of those web pages.
-
-Each division aims to be at the heart of the commercial or professional communities it serves. Our business includes creating opportunities for you to access other companies’ information and resources. When we work with other companies to build co-branded web sites, virtual events, sponsored webinars, or in any way that allows you to connect directly with that other company, we will include a link to this Policy and to the other company’s Privacy Policy as well. Our Policy will govern our collection and use of information about you. We recommend that you read the partner’s Policy as well to learn how that company will treat the information you provide.
+Our business includes creating opportunities for you to access other companies’ information and resources. When we work with other companies to build co-branded web sites, virtual events, sponsored webinars, or in any way that allows you to connect directly with that other company, we will include a link to this Policy and to the other company’s Privacy Policy as well. Our Policy will govern our collection and use of information about you. We recommend that you read the partner’s Policy as well to learn how that company will treat the information you provide.
 
 ## Information That Identifies You
 
@@ -51,7 +49,7 @@ You have a choice about and control over:
   * Register for certain registration-only, or “gated” communities. Access to technical resources provided or sponsored by another company is contingent on your agreement that your contact details may be shared with the other company. We may track your interest in that company’s content or our own content over time and disclose your interest to that company. 
   * Register for a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by another company. 
   * Register for one of our virtual events with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitor whose booths and resources you access a record of your visits and interaction with content from that exhibitor. 
-  * Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your RFID-enabled badge to be read by a particular exhibitor – the badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company’s session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor. 
+  * Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your badge to be read by a particular exhibitor – the badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company’s session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor. 
 
 
 
@@ -65,7 +63,7 @@ You have a choice about and control over:
 
 ## Receiving email marketing messages from us.
 
-  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails.  Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from UBM Chananel, UBM Electronics, UBM Tech and UBM Studios, you may click on this [UBM-wide opt out link](https://www.cmpadministration.com/ars/optout1.do?mode=optout&forward=optoutpagespecial&T=CT&F=5907&K=PVYPGE) To remove a specific email address from a division's list, you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
+  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails.  Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all UBM Tech email marketing you may click on this [UBM-wide opt out link](https://www.cmpadministration.com/ars/optout1.do?mode=optout&forward=optoutpagespecial&T=CT&F=5907&K=PVYPGE), or you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
   * Please note that you may receive email marketing messages from us about other companies’ offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program. 
 
 
@@ -129,10 +127,9 @@ For questions about this Privacy Policy, please contact:
 
 **UBM LLC**   
 Attn: UBM Legal  
-150 West 30th Street, 20th Floor   
+240 West 35th Street, 8th Floor   
 New York, New York, 10001
 
-  * [Privacy Policy ](http://legal.us.ubm.com/privacy-policy/)
   * [Terms of Service](http://legal.us.ubm.com/terms-of-service/)
   * [Contact Us](http://legal.us.ubm.com/contact-us/)
   * [WebMaster](mailto:webmaster@ubm-us.com)
