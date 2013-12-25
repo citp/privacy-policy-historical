@@ -1,92 +1,74 @@
-> *The following text is extracted and transformed from the aliceinchains.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608053846id_/http%3A//www.aliceinchains.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliceinchains.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225094352id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
-# The Official Community of Alice In Chains
+# 
 
-At AliceinChains.com, we respect the privacy concerns of the users and other visitors to our web site. We understand that we are responsible for Personal Information under our control. By visiting AliceinChains.com, you are accepting the Terms of Use and the practices described in this Privacy Policy ("Privacy Policy").
+Effective: December 1, 2004
 
-Please review this Privacy Policy periodically. We may update it from time to time and we will notify you of any modifications in this section or in links from this section. Our privacy policy is in accordance with Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA").
+_Last Updated:_ March, 2013
 
-If you feel that this site is not following its stated information policy, you may [contact us](https://web.archive.org/contact.aspx) (at the addresses or phone number below). "Personal Information" means any information about an identifiable individual but does not include the name, title or business address or telephone number of an employee of an organization. 
+**UNIVERSAL MUSIC GROUP PRIVACY POLICY** ****
 
-### Information We Collect
+[ Universal Music Group](http://new.umusic.com/flash.aspx) and this site care about your privacy. Universal Music Group consists of: [Interscope Records](http://www.interscope.com/), [A&M Octone Records](http://site.amoctone.com/), [Geffen Records](http://www.geffen.com/), [Island Records](http://www.islandrecords.com/), [Def Jam Recordings](http://www.defjam.com/), [MCA Nashville](http://www.umgnashville.com/), [Mercury Records](http://www.umgnashville.com/), [Motown Records](http://www.universalmotown.com/), [Republic Records](http://www.republicrecords.com/), [Show Dog - Universal Music](http://www.sdumusic.com/), [Verve Music Group](http://www.vervemusicgroup.com/), [Decca Label Group,](http://www.deccalabelgroup.com/) [Capitol Records](http://capitolrecords.com/), [Virgin Records](http://virginrecords.com/), [Blue Note](http://bluenote.com/), [Astralwerks](http://astralwerks.com/), [Harvest](http://harvestrecords.com/), [Capitol Nashville](http://umgnashville.com/), [Caroline](http://www.caroline.com/), [Priority Records](http://priorityrecords.com/), [Capitol Studios](http://capitolstudios.com/), [Capitol Christian Music Group](http://capitolcmgdistribution.com/), [Universal Music Latin Entertainment](http://www.universalmusica.com/) and [Universal Music Enterprises](http://www.universalmusicenterprises.com/) as well as a multitude of record labels owned or distributed by its record company subsidiaries around the world. This privacy policy tells you what information we collect at our web sites and how we use it. If you choose to visit any of the Universal Music Group web sites, your visit is subject to this privacy policy, and you agree to the terms of it.
 
-For each visitor to this website our web server automatically recognizes non individual data only, but not Personal Information (where possible). We use this information to notify users on updates and optimize the Site for you and to diagnose problems with AliceinChains.com. We collect information volunteered by the consumer, such as survey information, site registrations, and/or orders placed with AliceinChains.com.
+**WHAT INFORMATION WE COLLECT** ****
 
-### How We Use This Information
+There are many places at our sites where you can share your personal information with us, and where you can communicate with others. **Registration.** Some of our sites give you the opportunity to register with us, and sometimes registration is required before certain site features can be used. Our registration forms may request your contact information (such as your name, email address, mailing address, etc.), demographic information (such as your country, gender, etc.), and profile data (such as your music preferences, entertainment practices, etc). You may be assigned a site username and/or password. For our internal purposes, we use this information to communicate with you and provide the services you have requested, and to provide a more personalized experience on our sites. For example, your registration may allow you to use and post to site message boards, create site profiles, etc. We use aggregate demographic and profile information about our audience in order to improve our service, for research purposes, marketing/promotional purposes and/or for industry reporting purposes, among others. By visiting our sites, you affirmatively consent to our collection and use of your data.
 
-We collect the minimum amount of Personal Information necessary to provide our services. The information we collect is used to:
+**Newsletters and Other Communications from Us.** Our registered users and customers may receive newsletters, email communications, or communications through other channels for, among other purposes, the promotion and marketing of a product or service from our family of sites and record labels, as well as other Vivendi Universal companies, and business partners, and we may also offer other visitors to our sites the opportunity to sign up to receive such information. When there is a separate sign-up for newsletters, we ask for contact information such as name and email address, and, sometimes, demographic and profile information. By visiting our sites, you affirmatively consent to our collection and use of your data. We use this information in the same manner as we use the contact information in the Registration process described above. We may offer our users the choice whether to receive mailings from others that we think will be of interest. Recipients of our mailings can unsubscribe by following instructions that may appear at the end of email communications. Note that in order to keep our registered users informed about the operation of our services, we may send emails and announcements that are needed for the proper functioning and administration of our sites and service. **Communications with Us.** **** We have features where you can submit information to us (such as when contacting us with a question or feedback). We may retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
 
-  * notify users about recent updates on AliceinChains.com
-  * ship products purchased on AliceinChains.com and inform buyers about their orders
-  * offer promotional opportunities from us and our partners to site members
-  * improve the function of this website
+**Communications with Friends.** We may offer features where you can send information to others, such as e-cards or "Tell A Friend" features. We will use the contact information you enter for your friends to send the email or e-card. **Interactive and Community Features.** Our sites may offer interactive and community features, such as message boards, chat, email accounts, short message service (SMS), instant messaging, profiles, personal homepages, etc. All information posted or sent through these features may be publicly available, and you should be aware that when you voluntarily disclose personal information (e.g., user name, email address, phone number) through these features, that information can be collected and used by others and may result in unsolicited communications from other people. By accessing these features and disclosing personal information, you affirmatively consent to the distribution of your personal information as described above. Users' posts may be publicly and/or internally associated with their profiles/screen-names. Users are solely responsible for the content of messages they post or send on public forums. **Contests, Sweepstakes and Surveys.** We may also have contests, sweepstakes and surveys at our sites. When you enter or participate in them, we request contact information from you (such as your full name, email address, mailing address, and telephone number) and may also request demographic or profile information. We will use the information you provide for the purpose of conducting the promotion (for example, to contact you if you have won). We may also use the information to send you newsletters and other information we think may be of interest. Recipients of our mailings can unsubscribe by following instructions that may appear at the end of the email communication. Any personal information we collect may be associated with registration information. We may share aggregate information with others. We may sometimes partner with sponsors in offering contests, sweepstakes or surveys, and may share (provide and receive) information with them. By entering or participating in such contests, sweepstakes, and surveys, you affirmatively consent to our collection and use of your data.
 
+**AUTOMATIC DATA COLLECTION** ****
 
+Our web sites have features that automatically collect information from users to assist us in creating sites that honor our users' preferences and serve their interests and needs.
 
-We do not sell, rent, or lease our site member and customer information to third parties. In order to provide our services, we occasionally share information to our business partners to help make decisions about the content made available to our members. We use trusted, third party companies to assist us in fulfilling orders and processing credit card payments. These companies are only given the necessary amount of Personal Information needed to complete the transaction and payment information is destroyed upon completion of the order. Any transfer of information is subject to the limitations of this privacy statement.
+Some of our sites use cookies, which are small data files containing information about the user that are stored on the user's hard drive. Some cookies are used to make login to our sites easier (such as by remembering usernames and passwords). Cookies can also enable us to track users' movements and target their interests to enhance their experience at our sites. We may also collect clickstream data and assign unique identifiers to our users for the same purposes. Information obtained with these technologies may be associated with your personal information so we can better market to you and customize our advertisements and promotions to your interests. 
 
-### Consent
+  We may use third-party advertising companies to serve ads when you visit our web sites.  These companies may use information (not including your name, address, email address or telephone number) about your visits to our sites and other web sites on the Internet in order to provide advertisements about goods and services of interest to you.  If you would like to learn more about this practice or find out how you can opt out from allowing these companies to gather this information or use it to display targeted ads, please visit the NAI’s website at <http://networkadvertising.org/consumer/opt_out.asp>. 
 
-Personal Information will only be collected, used or disclosed with a site member’s consent, except where required or permitted by law. Consent can be express or implied. It will never be a requirement to obtain a service or product except where necessary to be able to supply that product or service. Site members can withdraw their consent at any time, subject to legal or contractual restrictions. If you would like to withdraw your consent please [contact us](mailto:help@AliceinChains.com "Contact Us").
+Most common web browsers today, such as Firefox and Internet Explorer, allow you to modify your settings to block cookies entirely, alert you every time they are being sent, or allow their use by only those web sites you choose.  You can also delete cookies that are currently stored on your computer’s hard drive.  To do this within Firefox or Internet Explorer, go to Tools, then Options or Internet Options, and then choose the Privacy tab to make your selections.  If you choose to disable cookies, certain features on our web sites may not be available or work properly.  Also, please note that if you disable/delete all cookies stored on your computer, you will have also disabled the cookies that are used by NAI to help prevent you from receiving unwanted advertising from third party ad networks.  If you do not want this to happen, please make sure not to disable/delete the NAI cookie or add NAI to the approved list of sites from whom you allow/accept cookies.     Through the use of web logs or log files, we may also gather information such as the date, time, browser type, navigation history, and IP address of all visitors to our site(s). We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our user base. We may associate this information with your personal information. By visiting our sites, you affirmatively consent to our collection, use, and distribution of your data.
 
-### Cookies
+**WITH WHOM YOUR INFORMATION IS SHARED** ****
 
-AliceinChains.com uses cookies to help personalize your online experience by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on AliceinChains.com, and do not transfer any Personal Information to any other party. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of AliceinChains.com will not function properly or may be considerably slower.
+Information provided at Artist sites that we host or manage may be shared with that Artist, including their management, representatives, and any new label they may join. As with other third parties, we are not responsible for how the Artists handle the data once they receive it. When we have co-branded or sponsored services, when we host a site, or when we join with other parties to provide specific services, we may share (provide and receive) your personal information with them. By visiting these sites, you affirmatively consent to our collection, use and distribution of your data.   
+We may share your information with other third parties with whom we have business relationships and, in some cases, we cannot control or know their privacy practices. By visiting our sites, you affirmatively consent to our collection, use, and distribution of your data.
 
-### External Sites
+Other than as set forth in this policy, we do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, and which agree to use it only for that purpose and to keep the information secure and confidential. Also, please be aware that our parent company, Vivendi Universal, including all its business units, subsidiaries, affiliates and sites, Universal Music Group's subsidiary and affiliated companies and sites, entities into which our companies may be merged, or entities to which any of our assets, products, sites or operations may be transferred, may obtain from us and be able to use your personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. 
 
-Neither AliceinChains.com nor its partners are responsible for the privacy practices or the content of external websites. When we include links to other Internet sites, on this site and in our newsletters and other communications, we do so solely as a convenience to our visitors.
+We may share (provide and receive) aggregate information, which is not personally identifiable, with others. This information may include demographic data such as the gender and/or geographic location of groups of users, but it will not include personal information (such as your name or email address). We use aggregate demographic information about our audience in order to improve our service, for research purposes, marketing/promotional purposes and/or for industry reporting purposes, among others.
 
-### Security
+**CHOICE** ****
 
-We work to secure your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+By accepting this privacy policy, you expressly choose to receive certain communications from us and third parties, and you expressly agree to the privacy practices described herein. Our sites may also provide you with additional specific opportunities to select communications you wish to receive. You may change your privacy preferences, e.g. choose to cease receiving certain communications, by informing us of your new preferences. We will be able to honor your new preferences most quickly if you inform us of them by following the appropriate instructions in any communication you receive from us. Please be aware that messages you receive from us through SMS and instant messaging systems (and other systems apart from email) may not include an option to cease receiving communications; to change your privacy preferences with respect to those communications, please go to the profile page at the site where you provided your personal information or direct your instructions to the Contact identified at the end of this policy.
 
-### Control of Your Information
+**ACCESS** ****
 
-AliceinChains.com offers choices to our customers for the collection, use and sharing of Personal Information. If you do not wish to receive e-mail for mailing lists from us you can unsubscribe to the list by using the link at the bottom of every mailing.
+If a user's personally identifiable information changes (such as zip code), we endeavor to provide a way to correct or update that user's personal data. Please feel free to contact us if you have any questions regarding making changes to your data.
 
-Upon request we provide site visitors with access to unique identifier information (e.g. customer number or password), transaction information (e.g. dates on which customers made purchases, amounts and types of purchases), communications that have been directed to our site (e.g. e-mails, customer inquiries), and contact information (e.g. name, address, phone number). Site visitors can access this information through the various account settings features on the website, by writing to us at the email address or the mailing address below. We keep all Personal Information about our visitors up-to-date and encourage our visitors to update us on any changes to their Personal Information by emailing or writing to us.
+**DATA COLLECTION FROM CHILDREN** ****
 
-### Privacy Principles for AliceinChains.com
+We strive to comply with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personal information from U.S. children under 13 without appropriate parental notice and consent. Sites that are directed to children where personal information is collected should have a Children's Privacy Policy setting forth our COPPA-compliant practices. At many sites, we actively screen-out children from data collection and/or use of interactive or community features. We are committed to protecting children's privacy.
 
-In addition to anything stated in this Privacy Policy, we abide by the following ten principles:
+**NOTICE: Visit** **[www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy)** **for information from the Federal Trade Commission about protecting children's privacy online.**
 
-ACCOUNTABILITY
-    We are responsible for the Personal Information under our control and have designated one or more individuals who will be accountable for the company's compliance with the procedures and principles set out in this Privacy Policy.
-IDENTIFYING PURPOSE
-    We will identify the purpose for which Personal Information is collected at or before the time the information is collected. The purposes for which information is collected, used or disclosed by us will be reasonable.
-CONSENT
-    The knowledge and consent of the individual are required for the collection, use or disclosure of Personal Information.
-LIMITING COLLECTION
-    We will limit the collection of PERSONAL INFORMATION to what is necessary for the purposes identified.
-LIMITING USE, DISCLOSURE AND RETENTION
-    Personal Information will only be used or disclosed for purposes we set out. Except with the consent of the individual or as may be required by law. Personal Information will be retained only as long as necessary for the fulfillment of the purposes for which it was collected.
-ACCURACY
-    Personal Information will be as accurate, complete and current as is necessary for the purposes for which it is to be used.
-SAFEGUARDS
-    Personal Information will be protected by security safeguards appropriate to the sensitivity of the information and the circumstances.
-OPENNESS
-    We will make readily available to our users, customers and employees specific information about its policies and practices relating to the collection, use or disclosure of Personal Information.
-INDIVIDUAL ACCESS
-    Upon request, you will be informed of the existence, use and disclosure of your Personal Information and will be given access to that information except in those circumstances that we are permitted or required by law not to disclose Personal Information to the individual. Such individuals will be able to challenge the accuracy and completeness of the information we have and have it changed as appropriate.
-CHALLENGING COMPLIANCE
-    An individual will be able to address a challenge concerning compliance with this Privacy Policy.
+**SECURITY** ****
 
-### Contact Information
+Security for all personally identifiable information is extremely important to us. We store your personal information securely, and use special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. 
 
-If you have questions we are here to help! There are several ways to contact us:
+**MERCHANT/E-COMMERCE AREAS** ****
 
-Email:
-    [help@AliceinChains.com](mailto:help@AliceinChains.com "Contact Us")
-Phone:
-    +1 (416) 469-9809
+We do not generally make e-commerce offerings at our sites. Some of our sites do have merchant/e-commerce areas, where users can purchase merchandise. Universal Music Group does not run those areas of our sites. Personal information collected at those areas is not shared with Universal Music Group without the purchasers' consent. At each of those areas, we endeavor to provide a privacy policy link where users can review the privacy policies that apply to data collection and use at those areas, and we urge our users to review them. 
 
-Please specify your name, order number, phone number, and your question when leaving a message.
+**LINKS** ****
 
-Post:
-    AliceinChains.com  
-2238 Dundas Street West  
-P.O. Box 59039  
-Toronto, Ontario  
-M6R 3B5  
-Canada
+We may provide links to non-Universal Music Group sites. We are not responsible for those other sites, their privacy policies or how they treat information about their users, and we advise you to check their privacy policies.
+
+**PRIVACY POLICY CHANGES** ****
+
+We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this policy from time to time. Changes to this privacy policy are effective at the time they are posted and your continued use of our sites after posting will constitute acceptance of, and agreement to be bound by, those changes. 
+
+**CONTACT** ****
+
+If you have any questions about our privacy practices, please feel free to contact us at: **UMG Privacy Officer**  
+2220 Colorado Avenue, Santa Monica , CA 90404  
+(310) 865-5000 or email us by [clicking here](http://privacypolicy.umusic.com/email/default.asp?r=www.universalmusic.com).
