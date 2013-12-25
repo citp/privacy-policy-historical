@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoknowsgaming.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508063800id_/http%3A//zoknowsgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoknowsgaming.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225035231id_/http%3A//zoknowsgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,5 +58,3 @@ _This policy was last modified on September 15, 2010_
 
 
 I am the Co-Ceo of DLT Digital Media. We are a company that is focused on developing new and innovative web properties in addition to developing WordPress based web sites for others. But before I was all that, I was a gamer.
-
-[@MR21215](http://twitter.com/MR21215 "Follow MR21215") not sure actually, let me check with our partners on that one as they were handling fulfillment \- 3 hours ago
