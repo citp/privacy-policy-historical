@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiada.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626044525id_/http%3A//mobiada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiada.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225115954id_/http%3A//www.mobiada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,13 +8,13 @@ All the Data and Information are provided for the sake of sharing Information an
 
 ## Email Address and Personal Details
 
-We wont’t disclose your Email address and any other form of Information you personally shared with us publicly which is provided to us.It may be through Newsletter Opt-in forms,contact forms or through manual registration.
+We won’t disclose your Email address and any other form of Information you personally shared with us publicly which is provided to us.It may be through Newsletter Opt-in forms,contact forms or through manual registration.
 
 Please do not share your Email Id to other persons via comment form through this blog unless you take responsibility for disclosing your Email Address.
 
 ## Content Accuracy and Liability
 
-We make sure that every information given in this blog are most accurate and well presented. Mobiada doesn’t hold responsibility incase the information given in this blo used unethically by the user and also Mobiada never encourages it is user to use it unethically.
+We make sure that every information given in this blog are most accurate and well presented. Mobiada doesn’t hold responsibility in case the information given in this blog used unethically by the user and also Mobiada never encourages it is user to use it unethically.
 
 Please apply the information given in this blog at your own responsibilities and any damages caused by following our tutorials or Guides will not be acknowledged buys.Please help us to standardize our contents by reporting any data inaccuracies here.
 
@@ -22,7 +22,7 @@ Please apply the information given in this blog(Mobiada) at your own risk and re
 
 ## Comments Policy
 
-Anybody can comment on this blog,provided that your comment is constructive and not a manual spam.We employ several techniques to ensure that our blog is spam free.Mobiada doesn’t hold any responsibility on the comments posted by the readers.Mobiada holds full rights to remove comments which contains Abusive words,Racial comments or any other sensitive data’s.
+Anybody can comment on this blog,provided that your comment is constructive and not a manual spam.We employ several techniques to ensure that our blog is spam free. Mobiada doesn’t hold any responsibility on the comments posted by the readers. Mobiada holds full rights to remove comments which contains Abusive words,Racial comments or any other sensitive data’s.
 
 ## Cookies & 3rd Party Advertisements
 
