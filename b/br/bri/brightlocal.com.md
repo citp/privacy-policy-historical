@@ -1,73 +1,152 @@
-> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625224127id_/http%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226003453id_/http%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BrightLocal.com
+# BrightLocal Privacy PolicyBrightLocal
 
-This privacy policy sets out the basis on which the personal data collected from you, or that you provide to us will be processed by us.
+### Introduction
 
-## Bright Little Light Limited
+BrightLocal (“Company”, “BrightLocal” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-Bright Little Light Limited is a company registered in England and Wales with the company registration number 7087815 and having our registered office at Rowlandson House, 289-293 Ballards Lane, London, N12 8NP.
+The BrightLocal service (“Service”) is organized primarily to provide businesses and individuals access to a rich collection of resources related to search engine optimization and inbound marketing, including without limitation search engine optimization tools, link analysis tools, downloadable toolbars, application program interfaces (“APIs”), site profile services, search analytics, blogs, user-generated-content, personalized content and industry surveys and opinion polls. The Service includes the website at www.brightlocal.com (“Site”). 
 
-## Personal data collected form you
+This policy describes the types of information we may collect from you or that you may provide when you visit our Site or use our Service, and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-2.1 We may collect certain personal information about you that may be used to identify you as an individual, including, but not limited to, a first and last name, your date of birth a home, business, or other physical address, a phone number, an email address and financial and billing information (if you purchase a service from us) (collectively, “Your Personal Data”).
+#### This policy applies to information we collect:
 
-If you have provided us with the personal data of another person (“Third Party Personal Data”) you confirm that they consent to the processing of their personal data and that you have informed them of our identity and the purposes (as set out above or elsewhere) for which their personal data will be processed.
+  * On the Site.
+  * In e-mail, text and other electronic messages between you and the Site.
+  * In electronic messages between you and 3rd party customer service applications we use (olark chat, zendesk help-desk, getsatisfaction online forum)
+  * Via your interaction with our APIs
 
-## Uses made of your personal data
 
-3.1 Your Personal Data shall be kept safe and confidential on our secure database.
 
-3.2 We will use Your Personal Data that you provide to us:
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your only recourse is not to use our Site or Service. By accessing or using the Site or Service, you agree to this privacy policy.
 
-3.2.1 to enable us to provide the services relevant to you;
+This policy may change from time to time (see changes to our Privacy Policy below). Your continued use of this Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-3.2.2 to alert you to any product and service changes and updated information; and
+### Children Under the Age of 13
 
-3.2.3 for administration and marketing purposes.
+Our Site is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [contact@brightlocal.com](mailto:contact@brightlocal.com) .
 
-3.3 In the event you do not wish for us to use Your Personal Data for marketing purposes, please either contact us on [contact@brightlocal.com] advising us of your intention to be removed from our marketing database or click on the "Unsubscribe" link in the email we have sent you.
+### Information We Collect About You and How We Collect It
 
-3.4 We shall not pass Your Personal Data to any third party including our marketing affiliates and partners unless we have procured your express consent to do so.
+#### We collect several types of information from and about users of our Site, including information:
 
-## Retention of your personal data
+  * by which you may be personally identified, such as name, postal address, e-mail address or telephone number (“personal information”);
+  * that is about you but individually does not identify you, such as your company name and job title; and/or
+  * about your internet connection, the equipment you use to access our Site and usage details.
 
-4.1 We take appropriate measures to ensure that any personal data are kept secure and are kept for the duration of your use of our service and for a further term of six (6) years after the termination of your account with us.
 
-4.2 If your personal details change you may update them by accessing your profile on the Website. If you have any questions about how we use data collected which relates to you, please contact us using the details set out below.
 
-## Your rights
+#### We collect this information:
 
-5.1 You are entitled to ask for a copy of any personal data that we hold about you (for which we may charge a small fee) and to have any inaccuracies in your personal data corrected. If you wish to contact us for these purposes, please email us at [contact@brightlocal.com].
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-5.2 www.brightlocal.com or any designated unique resource locator (“Website”) may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-## Disclosure of your information
 
-6.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (where applicable).
+### Information You Provide to Us
 
-6.2 We may disclose your personal information to third parties:
+#### The information we collect on or through our Site or Service may include:
 
-in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; or
+  * Information that you provide by filling in forms on our Site. This includes without limitation information provided at the time of subscribing to the Service, and when you report a problem with our Site.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us by email, customer support ticket, customer support chat service, customer support online forum)
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Site and of the fulfillment of your orders. We do not store any financial data on our servers and all transactions are conducted via PayPal over secure https connection. PayPal handles all payment details and takes 100% of responsibility for handling your transaction data.
+  * Your search queries on the Site.
+  * Information you enter into our Site about your marketing activities so that we can provide Service to you.
 
-if we or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; or
 
-if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms and Conditions and other agreements; or
 
-to protect the rights, property, or safety of Bright Little Light Limited, Our Website, our users and any third party we interact with the to provide the website.
+You also may provide information to be published, displayed or transmitted (hereinafter, “posted”) on public areas of the Site, or transmitted to other users of the Site or third parties (collectively, “Interactive Content”). Your Interactive Content is posted on and transmitted to others at your own risk; we cannot control the actions of other users of the Site with whom you may choose to share your Interactive Content. Therefore, we cannot and do not guarantee that Interactive Content will not be viewed by unauthorized persons.
 
-## Cookies and IP addresses
+### Usage Details, IP Addresses And Cookies and Other Technologies
 
-7.1 We may store information about you in a cookie (a small file that is sent by our web server to your computer), which we can access when you make return visits to our Website. Storing cookies is usual practice for any website that needs to remember what its users’ preferences are and we use cookies to keep track of your choices in the Website.
+We sometimes place small text files on your computer. These are known as cookies. Most websites use cookies. Our cookies aren’t used to identify you personally. They just help to make the site work better for you.
 
-7.2 If you would like to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that cookies are stored in. If you would like to stop cookies being stored on your computer in the future, please refer to your browser manufacturer’s instructions by clicking “Help” in your browser menu. Further information about deleting or controlling cookies is available at www.aboutcookies.org.
+To learn more about cookies and how to manage them, visit [AboutCookies.org](http://aboutcookies.org/). Or please read on to find out more about how and where we use cookies.
 
-7.3 Please note that when you visit our site, we may also log your IP address, a unique identifier for your computer or other access device.
+#### How we use cookies
 
-## Changes to our privacy policy
+ **a) Google Analytics**
 
-We reserve the right to modify this Privacy Policy at any time. Any changes we may make to this Privacy Policy document in the future will be notified and made available to you using the Website. Your continued use of the services and the Website shall be deemed your acceptance of the varied Privacy Policy.
+We use Google Analytics to collect information about how people use this site. We do this to help us to better understand what site visitors are interested in. This enables us to continually improve the service we provide.
 
-## Contact details
+Google Analytics stores information about what pages you visit, how long you spend looking at the site, how you got here and what you click on. We do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can opt out of Google Analytics cookies by [visiting this page](https://tools.google.com/dlpage/gaoptout) on Google.
 
-All questions, comments and requests regarding this Privacy Policy should be addressed to [contact@brightlocal.com].
+ **b) Login**   **to BrightLocal**
+
+We also use cookies to keep track of your login status when using our SEO Tools service. Without these you wouldn’t be able to login to our site (which wouldn’t make our service much use to you).
+
+### How We Use Your Information
+
+#### We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Site and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your subscriptions to the Service, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Site or any products or services we offer or provide though it.
+  * To allow you to participate in interactive features on our Site.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We never sell your personal information or provide it to others for marketing purposes.
+
+### Disclosure of Your Information
+
+We may collect and disclose anonymous and aggregated information about our users, and other information that does not identify any individual, without restriction for the purposes of product research, to improve our Service, and for other commercial purposes.
+
+#### We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To fulfill the purpose for which you provide it (e.g. email address for email purposes)
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+#### We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our Terms & Conditions and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of BrightLocal, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+### Choices About How We Use and Disclose Your Information
+
+#### We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  *  **Tracking Technologies and Advertising.**  You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+
+
+  *  **Promotional Offers from the Company.**  If you do not wish to have your contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by emailing us at [contact@brightlocal.com](mailto:contact@brightlocal.com) or contacting us through any of our publicly available customer service contact routes (ticketing system, chat, forum). If we have sent you a promotional e-mail, you may opt-out by clicking on the unsubscribe link and completing the subsequent steps. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+
+
+
+### Accessing and Correcting Your Information
+
+You can review and change your personal information by logging into the Site and visiting your My Account page.
+
+You may also send us an e-mail at contact@brightlocal.com to request access to, correct or delete any personal information that you have provided to us. In some cases, we cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+### Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Site like message boards. The information you share in public areas may be viewed by any user of the Site.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Site. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site.
+
+### Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the primary e-mail address specified in your account and/or possibly through a notice on the Site home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Site and this privacy policy to check for any changes.
+
+### Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at [contact@brightlocal.com](mailto:contact@brightlocal.com)  [  
+](mailto:legal@moz.com)
