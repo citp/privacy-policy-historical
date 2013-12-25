@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the justinbiebermusic.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223182843id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinbiebermusic.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225094352id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
-# UNIVERSAL MUSIC GROUP PRIVACY POLICY
+# 
 
 Effective: December 1, 2004
 
-_Last Updated:_ September 30, 2011
+_Last Updated:_ March, 2013
 
 **UNIVERSAL MUSIC GROUP PRIVACY POLICY** ****
 
-[ Universal Music Group](http://new.umusic.com/flash.aspx) and this site care about your privacy. Universal Music Group consists of: [Interscope Records](http://www.interscope.com/), [Dreamworks Records](http://www.interscope.com/), [A&M Octone Records](http://site.amoctone.com/), [Geffen Records](http://www.geffen.com/), [Island Records](http://www.islandrecords.com/), [Def Jam Recordings](http://www.defjam.com/), [Lost Highway Records](http://www.losthighwayrecords.com/), [MCA Nashville](http://www.umgnashville.com/), [Mercury Records](http://www.umgnashville.com/), [Motown Records](http://www.universalmotown.com/), [Republic Records](http://www.republicrecords.com/), [Show Dog - Universal Music](http://www.sdumusic.com/), [Verve Music Group](http://www.vervemusicgroup.com/), [Decca Label Group,](http://www.deccalabelgroup.com/) [Universal Music Latin Entertainment](http://www.universalmusica.com/) and [Universal Music Enterprises](http://www.universalmusicenterprises.com/) as well as a multitude of record labels owned or distributed by its record company subsidiaries around the world. This privacy policy tells you what information we collect at our web sites and how we use it. If you choose to visit any of the Universal Music Group web sites, your visit is subject to this privacy policy, and you agree to the terms of it.
+[ Universal Music Group](http://new.umusic.com/flash.aspx) and this site care about your privacy. Universal Music Group consists of: [Interscope Records](http://www.interscope.com/), [A&M Octone Records](http://site.amoctone.com/), [Geffen Records](http://www.geffen.com/), [Island Records](http://www.islandrecords.com/), [Def Jam Recordings](http://www.defjam.com/), [MCA Nashville](http://www.umgnashville.com/), [Mercury Records](http://www.umgnashville.com/), [Motown Records](http://www.universalmotown.com/), [Republic Records](http://www.republicrecords.com/), [Show Dog - Universal Music](http://www.sdumusic.com/), [Verve Music Group](http://www.vervemusicgroup.com/), [Decca Label Group,](http://www.deccalabelgroup.com/) [Capitol Records](http://capitolrecords.com/), [Virgin Records](http://virginrecords.com/), [Blue Note](http://bluenote.com/), [Astralwerks](http://astralwerks.com/), [Harvest](http://harvestrecords.com/), [Capitol Nashville](http://umgnashville.com/), [Caroline](http://www.caroline.com/), [Priority Records](http://priorityrecords.com/), [Capitol Studios](http://capitolstudios.com/), [Capitol Christian Music Group](http://capitolcmgdistribution.com/), [Universal Music Latin Entertainment](http://www.universalmusica.com/) and [Universal Music Enterprises](http://www.universalmusicenterprises.com/) as well as a multitude of record labels owned or distributed by its record company subsidiaries around the world. This privacy policy tells you what information we collect at our web sites and how we use it. If you choose to visit any of the Universal Music Group web sites, your visit is subject to this privacy policy, and you agree to the terms of it.
 
 **WHAT INFORMATION WE COLLECT** ****
 
@@ -57,7 +57,7 @@ Security for all personally identifiable information is extremely important to u
 
 **MERCHANT/E-COMMERCE AREAS** ****
 
-We do not generally make e-commerce offerings at our sites. Some of our sites do have merchant/e-commerce areas, where users can purchase merchandise. Universal Music Group does not run those areas of our sites. Personal information collected at those areas is not shared with Universal Music Group without the purchasers' consent. At each of those areas, we endeavor to provide a privacy policy link where users can review the privacy policies that apply to data collection and use at those areas, and we urge our users to review them. Please be aware that the site at iClassics.com is an exception, where we do make e-commerce offerings, and it is covered by a separate privacy policy. Please review it if you use that site.
+We do not generally make e-commerce offerings at our sites. Some of our sites do have merchant/e-commerce areas, where users can purchase merchandise. Universal Music Group does not run those areas of our sites. Personal information collected at those areas is not shared with Universal Music Group without the purchasers' consent. At each of those areas, we endeavor to provide a privacy policy link where users can review the privacy policies that apply to data collection and use at those areas, and we urge our users to review them. 
 
 **LINKS** ****
 
@@ -71,4 +71,4 @@ We reserve the right to modify, alter or otherwise update this Privacy Policy at
 
 If you have any questions about our privacy practices, please feel free to contact us at: **UMG Privacy Officer**  
 2220 Colorado Avenue, Santa Monica , CA 90404  
-(310) 865-5000 or email us by [clicking here](http://privacypolicy.umusic.com/email/default.asp).
+(310) 865-5000 or email us by [clicking here](http://privacypolicy.umusic.com/email/default.asp?r=www.universalmusic.com).
