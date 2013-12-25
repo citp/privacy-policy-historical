@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sparkenergy.co.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623011409id_/http%3A//www.sparkenergy.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkenergy.co.uk privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225091815id_/http%3A//www.sparkenergy.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Spark Energy -
+# Spark Energy - Spark Energy - Gas and Electricity - Privacy Policy
 
 Spark Energy is committed to the privacy of the users of our website and services, and we will not provide any information about you to any third-party, except in aggregate form. We will not provide user emails to any third party unless required to do so by law.
 
