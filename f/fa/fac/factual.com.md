@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624080306id_/http%3A//factual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225112457id_/http%3A//www.factual.com/privacy) for the most accurate reproduction.*
 
 # Factual | Privacy Policy
 
@@ -58,4 +58,4 @@ This Privacy Notice may be revised periodically without further notice to you an
 
 * ## Factual Contact Information
 
-Please contact Factual Inc. with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: Factual Inc., 1801 Avenue of the Stars, Suite 1450, Los Angeles, CA 90067 or by [email](https://web.archive.org/contact?subject=other). We will respond to your inquiry within 30 days of its receipt. 
+Please contact Factual Inc. with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: Factual Inc., 1999 Avenue of the Stars, 35th Floor, Los Angeles, CA 90067 or by [email](https://web.archive.org/contact?subject=other). We will respond to your inquiry within 30 days of its receipt. 
