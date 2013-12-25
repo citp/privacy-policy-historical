@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endeavour.edu.au privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625042714id_/http%3A//www.endeavour.edu.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endeavour.edu.au privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225101849id_/http%3A//www.endeavour.edu.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Endeavour College of Natural Health
 
