@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518140216id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225011546id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
 
 # ICE Website Legal Information
 
@@ -162,3 +162,13 @@ Both the front of the envelope and the appeal letter should contain the notation
 If you still believe that ICE has not handled your FOIA request properly under the law after your administrative appeal has been decided, you have the right to challenge the agency's action in a lawsuit filed in federal court. Before doing so, you ordinarily will be required first to have filed an administrative appeal and to have received a response.
 
 If you do bring a court action, you may file your lawsuit in a federal district court in any of the following places: (1) where you reside, (2) where you have your principal place of business (if any), (3) in the District of Columbia, or (4) where the records are located, if they are not located in the District of Columbia. If you have received an administrative appeal determination, that final administrative response letter will advise you of your right to seek judicial review and will specify where you can do so.
+
+U.S. Immigration and Customs Enforcement (ICE) is committed to providing access to our web pages for individuals with disabilities, both members of the public and federal employees.
+
+To meet this commitment, we will comply with the requirements of Section 508 of the Rehabilitation Act. Section 508 requires that individuals with disabilities, who are members of the public seeking information or services from us, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities (with limited exceptions).
+
+Section 508 also requires us to ensure that federal employees with disabilities have access to and use of information and data that is comparable to the access to and use of information and data by federal employees who are not individuals with disabilities (with limited exceptions).
+
+If the format of any material on our website interferes with your ability to access the information, due to an issue with accessibility caused by a disability as defined in the Rehabilitation Act, please contact the [ ICE Section 508 Coordinator](mailto:bill.pratt@ice.dhs.gov?subject=Section%20508%20Compliance) for assistance.
+
+To enable us to respond in a manner most helpful to you, please indicate the nature of your accessibility problem, the preferred format in which to receive the material, the web address (URL) of the material with which you are having difficulty, and your contact information.
