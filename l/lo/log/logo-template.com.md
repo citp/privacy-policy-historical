@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logo-template.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626102134id_/http%3A//logo-template.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logo-template.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225142301id_/http%3A//logo-template.com/privacy.php) for the most accurate reproduction.*
 
 # Logo Template - Pre made logo design, company logo for sale & 3d logos
 
