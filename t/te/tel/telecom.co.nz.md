@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626070432id_/http%3A//www.telecom.co.nz/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225074123id_/http%3A//www.telecom.co.nz/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Other - Help and Support - Telecom NZ Ltd
 
@@ -30,7 +30,7 @@ If you are just surfing and reading information on our website, then we collect 
 
 We use that information to measure the number of visitors to different parts of the site and, for example, to measure the effectiveness of advertising. Although we may publish aggregated information about usage patterns, we do not disclose information about individual machines except for the reasons set out below in this section. We do not sell information which identifies you personally. We may gather more extensive information if we are concerned, for example, about security issues. If we think it is necessary, we can disclose information to relevant law enforcement authorities, such as the Police or the Department of Internal Affairs.
 
-If you choose to provide us with personal information such as your email address, for example by filling out an electronic query or order form, we will use the information only for the purposes that you authorised. Email marketing will only be sent to your email address if you have given your consent. Personal information will be stored and used in accordance with Telecom's [Terms and Conditions](https://web.archive.org/helpandsupport/helpandsupport/other/termsandconditions/). To update your personal information such as billing address you can [contact us by email](http://telecom.custhelp.com/cgi-bin/telecom.cfg/php/enduser/ask.php?p_prods=379&prod_lvl1=379), or call us on 123.
+If you choose to provide us with personal information such as your email address, for example by filling out an electronic query or order form, we will use the information only for the purposes that you authorised. Email marketing will only be sent to your email address if you have given your consent. Personal information will be stored and used in accordance with Telecom's [Terms and Conditions](https://web.archive.org/helpandsupport/helpandsupport/other/termsandconditions/). To update your personal information such as billing address you can [contact us by email](http://help.telecom.co.nz/cgi-bin/telecom.cfg/php/enduser/ask.php?p_prods=379&prod_lvl1=379), or call us on 123.
 
 ### 4\.  Security
 
@@ -83,4 +83,4 @@ If you have any comments on our Permission Marketing Policy or would like to rec
 
 We may change this policy at any time by changing or removing existing terms or adding new ones. Changes may take the form of a completely new policy. We will tell you about any changes by posting an updated policy on our website. Any change we make applies from the date we post it on the website.
 
-If you have any questions about Telecom's online privacy policy [email us](http://telecom.custhelp.com/cgi-bin/telecom.cfg/php/enduser/ask.php).
+If you have any questions about Telecom's online privacy policy [email us](http://help.telecom.co.nz/cgi-bin/telecom.cfg/php/enduser/ask.php).
