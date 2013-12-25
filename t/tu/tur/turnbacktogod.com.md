@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnbacktogod.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118230022id_/http%3A//www.turnbacktogod.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnbacktogod.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225183524id_/http%3A//www.turnbacktogod.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TurnbackToGod.Com Privacy Policy
 
