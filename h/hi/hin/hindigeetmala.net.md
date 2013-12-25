@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindigeetmala.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620110021id_/http%3A//www.hindigeetmala.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindigeetmala.net privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225052532id_/http%3A//www.hindigeetmala.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy at HindiGeetMala.com
 
