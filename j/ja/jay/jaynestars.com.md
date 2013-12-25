@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaynestars.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624125429id_/http%3A//www.jaynestars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaynestars.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225022846id_/http%3A//www.jaynestars.com/privacy) for the most accurate reproduction.*
 
 # JayneStars.com | Privacy Policy
 
