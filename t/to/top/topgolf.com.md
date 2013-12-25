@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609231354id_/http%3A//topgolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225232842id_/http%3A//topgolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopGolf
 
-_EFFECTIVE DATE: September 27, 2012_
+_UPDATED: July 11, 2013_
 
 TopGolf International, Inc. and its subsidiaries ("TopGolf" or "we" or "our" or "us") are committed to respecting your privacy. This Privacy Policy describes the types of information collected from you, what we do with it and with whom we share it. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal information at our physical locations ("Locations") or through this website at www.topgolf.com (this "Site").
 
@@ -12,7 +12,7 @@ PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS AND CONDITIONS AGREEMENT FOR THE
 
 **Information We Collect**
 
-Information is collected about you, including without limitation, a person’s full name and address, telephone number and email address, as well as other information we maintain about a person in identifiable form, when you visit our Locations and voluntarily contact us though this Site, including without limitation information you provide on signup and membership registration pages, surveys, or other submission and/or purchases through this Site.
+Information is collected about you, including without limitation, a person’s full name and address, telephone number and email address, as well as other information we maintain about a person in identifiable form, when you visit our Locations and voluntarily contact us through this Site, including without limitation information you provide on signup and membership registration pages, surveys, or other submission and/or purchases through this Site.
 
 **How Information We Collect is Used**
 
@@ -20,6 +20,7 @@ The information collected may be combined with other information collected about
 
   * To provide you with, or otherwise respond to your requests for, information and/or services, including but not limited to e-newsletters, marketing programs, forward-to-a-friend or other options in our marketing programs.
   * To provide you with information about new products or services, events at our Locations, events that TopGolf sponsors, including but not limited to contests, sweepstakes and surveys, and other special offers and marketing programs, which may include information about partner companies or other programs any of us or them are involved with.
+  * To display a member’s first and last name on Leaderboards at a TopGolf facility as well as on any digital platform such as the Site or mobile app.
   * To enhance our customers' experiences at our Locations and on this Site.
   * To analyze customer behaviors and trends.
   * To conduct research and analysis and to otherwise measure the effectiveness of our online and offline marketing efforts and to develop products, services, and marketing programs.
@@ -78,7 +79,3 @@ This English-language Privacy Policy is TopGolf's official statement of its onli
 **For More Information**
 
 If you have any questions regarding our Privacy Policy, please contact us by sending an email to [feedback@topgolf.com](mailto:feedback@topgolf.com) or writing to us at TopGolf, 230 Gerry Drive, Wood Dale IL 60191, ATTN: Marketing Resources.
-
-© 2013 TopGolf. All Rights Reserved.
-
- 
