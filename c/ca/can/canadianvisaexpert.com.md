@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianvisaexpert.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629000255id_/http%3A//www.canadianvisaexpert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianvisaexpert.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226121026id_/http%3A//www.canadianvisaexpert.com/privacy) for the most accurate reproduction.*
 
 # Privacy |
 
@@ -49,14 +49,13 @@ CanadianVisaExpert.com includes links to different sites. Please note that when 
 
 **Access to Data and Contact Info**
 
-You may request a copy or send a correction of the personal information we hold about you by contacting the Privacy Officer at [privacy@CanadianVisaExpert.com](mailto:privacy@CanadianVisaExpert.com) or writing to:  
+You may request a copy or send a correction of the personal information we hold about you by contacting the Privacy Officer at [privacy@CanadianVisaExpert.com](mailto:privacy@CanadianVisaExpert.com) or writing to:
+
 Privacy Officer  
 CanadianVisa Expert Organization  
-70 East Beaver Creek Road  
-Suite 201  
-Richmond Hill, Ontario  
-L4B 3B2  
-CANADA
+7030 Woodbine Avenue, Suite 500   
+Markham, Ontario L3R 6G2  
+Canada
 
 **Changes to this Policy**
 
