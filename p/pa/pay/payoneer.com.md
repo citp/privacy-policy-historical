@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519102906id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226214032id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Payoneer
 
@@ -8,25 +8,25 @@ What does Payoneer do with your personal information?
 
 Why?
 
-Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing of information. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
+Financial companies choose how they share your personal information. However, Laws and Regulations give consumers the right to limit some, but not all, sharing of their information. The jurisdictional laws that Payoneer is regulated by require that we inform you regarding how we collect, share, and protect your personal information. Additionally, they require us to provide the same information to you, upon written request and in some jurisdictions for a nominal fee. We recommend that you read this notice carefully in order to understand what Payoneer does with your personal information.
 
 What? 
 
-The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+The types of personal information we might collect:
 
-  * Social Security Number, Date of Birth, E-mail address, and Telephone Number; and/or
   * Bank and credit account, as well as its history; and/or
-  * Identity validation and credit history
+  * Identity validation and credit history; and/or
+  * Social Security Number, Date of Birth, E-mail address, Residential Address, and Telephone Number
 
 
 
-When you are no longer our customer, we continue with our sharing policies as described in this notice.
+This information is used for verification purposes. It may be shared with other regulated organizations, in accordance with rules and regulations. When you are no longer our customer, we continue with our sharing policies as described in this notice.
 
 How? 
 
-All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons Payoneer Inc. chooses to share and what; and whether you can limit this sharing.
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons Payoneer. chooses to share and what; and whether you can limit this sharing.
 
-Reasons we can share your personal information | Does Payoneer Inc. Share? | Can you limit this sharing?  
+Reasons we can share your personal information | Does Payoneer. Share? | Can you limit this sharing?  
 ---|---|---  
 **For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or to report to credit bureaus | Yes | No  
 **For our marketing purposes** – to offer our products and services to you | Yes | No  
@@ -37,22 +37,24 @@ Reasons we can share your personal information | Does Payoneer Inc. Share? | Can
 Questions, Correcting information, Opting out?
 
 Phone: 800-251-2521;   
-Email: [CustomerServiceManager@payoneer.com](mailto:CustomerServiceManager@payoneer.com)   
+Email: [c.support@payoneer.com](mailto:CustomerServiceManager@payoneer.com)   
 Web: [www.payoneer.com](http://www.payoneer.com/)
+
+Note: opting out of Payoneer’s Privacy Policy might require that you close your Payoneer account
 
 Who are we   
 ---  
 Who is providing this notice? | Payoneer Inc.  
-1841 Broadway, Suite 520 New York, New York 10023   
+150 West 30th, Suite 500, New York, New York 10001.   
 What we do  
 ---  
-How does Payoneer Inc. protect my personal information? | Restricting access to non-public personal information only to those employees and entities on a need-to-know basis and that are performing services on our behalf. We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the non-public personal information.  
-How does Payoneer Inc. collect my personal information? | When: 
+How does Payoneer. protect my personal information? | Restricting access to non-public personal information only to those employees and entities on a need-to-know basis and that are performing services on our behalf. We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the non-public personal information.  
+How does Payoneer. collect my personal information? | When: 
 
   * You apply for our services/product,
   * We receive information from banking references, credit reporting agencies, affiliates, and any other third-party validator about your identity
   * By the use of our services/product, transactions are generated by that use.
-  * You visit our Website. We may also collect and disclose information about how users use our Website by tracking unique views received by pages of the Website or the domains from which users originate. We may also use “cookies” to track returning users to our Website. 
+  * You visit our Website. We may also collect and disclose information about how users use our Website by tracking unique views received by pages of the Website or the domains from which users originate. This information is not personally identifiable. We may also use “cookies” to track returning users to our Website. Information collected relates only to actions carried out on the website by the user and gathers no personal data.
 
   
 Why can’t I limit all sharing? | Federal law gives you the right to limit only 
@@ -65,10 +67,11 @@ State laws and individual companies may give you additional rights to limit shar
 Definitions   
 ---  
 Affiliates  | Companies related by common ownership or control. They can be financial and non-financial companies.  
-Nonaffiliates  | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
+Non-affiliates  | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
 Joint Marketing  | A formal agreement between non-affiliated financial companies that together market financial products to you.  
-Opt-out  | Inform the company (ies) to prevent the sharing or use of certain information.  
+Opt-out  | Inform the company (ies) of your request to prevent the sharing or use of certain information.  
 Cookies | A piece of software that a web server can store on the users’ PC’s and use to identify the users should they visit the Website again. Information collected may be associated with non-public information users provide us through our Website.  
+Sensitive Data | Sensitive data is data covering issues such as; ethnicity, sexual preference, political views, lifestyle, and health.  
 Endorsement Disclaimer   
 ---  
 Reference herein to any individual, company or organization, including specific products, goods, processes, or services by trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement or recommendation by Payoneer. Payoneer does not claim to be endorsed, sponsored by, affiliated with or associated with any individual, company or organization listed on the Payoneer website unless so specified. All trade names, brands, copyrights, logos, likenesses, trademarks, patents and other intellectual property are and remain the property of their respective individuals, companies or organizations.  
