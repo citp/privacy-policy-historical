@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lesterloyd.com privacy policy that was archived on 2013-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130626204825id_/http%3A//directory.lesterloyd.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lesterloyd.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226065858id_/http%3A//directory.lesterloyd.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="keywords" content=" internet search, us directory, india directory, global, web directory, add my url info, submit, site, seo , insurance services directory, add url,websites, websites,PR1,PR6 ,submit site free, free backlinks, deep links">
@@ -7,6 +7,7 @@
 <title>Lester Loyd General Directory </title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" type="text/css" href="http://images.ientrymail.com/tomld/www.lesterloyd.com/main.css">
+<script src="/jquery-1.10.2.js"></script>
 </head>
 <body><script src="http://www.ientry.com/ustream_header.php" type="text/javascript"></script>
 <div class="top-ientry-bar">
@@ -32,10 +33,10 @@
 <a href="/">Home</a>
 </div>
 <div id="search">
-<form action="/search.html" method="post">
+<form id="search-submit" method="post">
 <input type="submit" value="" class="btn">
 <img class="images" src="http://images.ientrymail.com/tomld/www.lesterloyd.com/images/search-left.gif" alt="">
-<input type="text" name="q" size="20" class="text" value="search here ..." onblur="if (this.value == '') {this.value = 'search here ...';}" onfocus="if (this.value == 'search here ...') {this.value = '';}">	
+<input type="text" id="qu" size="20" class="text" value="search here ..." onblur="if (this.value == '') {this.value = 'search here ...';}" onfocus="if (this.value == 'search here ...') {this.value = '';}">	
 
 <img class="images" src="http://images.ientrymail.com/tomld/www.lesterloyd.com/images/search-right.gif" alt="">
 </form> 
@@ -50,7 +51,17 @@
 <div id="rightbody">
 <div id="path"><div class="left"><div class="right"><div class="txt">Lester Loyd General Directory</div></div></div></div>	<div class="content"><div class="contentfooter"><div class="categories"><table border="0" cellpadding="0" cellspacing="2"><tbody><tr>
  <td>
-<a href="submit.html"><img border="0" src="http://images.ientrymail.com/lesterloyd/directory/submit.png"></a><b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
+<a href="submit.html"><img border="0" src="http://images.ientrymail.com/lesterloyd/directory/submit.png"></a>
+<script>
+    $("#search-submit").submit(function(e){
+                e.preventDefault();
+                var qq = $('#qu').val();
+              window.location.href = '/sch' + '.html' + '?q=' + qq;
+              return FALSE;
+            });
+
+  </script>
+<b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
 
 <br><br>
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
