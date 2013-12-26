@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622103741id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226180053id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
 
 # Teamer Takes The Hassle Out of Sports Team Management - teamer.net privacy statement
 
