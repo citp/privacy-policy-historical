@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamptonroads.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506030949id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamptonroads.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226100835id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HamptonRoads.com | PilotOnline.com
 
@@ -132,7 +132,7 @@ You may submit content to certain sections of our sites provided you do so in ac
 
 **Manage your HamptonRoads.com account:** You may review and update your HamptonRoads.com account information and access your site comments and participation history in your User Account area. There are a number of things you can do to ensure your personal information is accurate and up to date. You can update the information you provided during the free registration process. You can sign up for our e-mail newsletters and manage your delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, [you can reset your password here](http://hamptonroads.com/user/password).  If you need further assistance, [please use our online feedback form](http://contact.hamptonroads.com/process.php?subject=Registration/profile%20process&r=27). 
 
-**Manage your ePilot account:** You may update and/or edit your ePilot account information online by logging in at [virginianpilot.hamptonroads.com](https://virginianpilot.hamptonroads.com/). You may update your registered credit card information, address, communication preferences and the e-mail address and password registered to the account. Should you require assistance, [please click here](https://virginianpilot.hamptonroads.com/clickshare/faq.vm).
+**Manage your ePilot account:** You may update and/or edit your ePilot account information online by logging in at [hamptonroads.com/epilot](http://hamptonroads.com/epilot/). You may update your registered credit card information, address, communication preferences and the e-mail address and password registered to the account. 
 
 **IS MY INFORMATION PROTECTED?**
 
