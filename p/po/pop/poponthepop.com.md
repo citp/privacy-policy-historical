@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poponthepop.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624131644id_/http%3A//poponthepop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poponthepop.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226062233id_/http%3A//poponthepop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pop on the Pop - Celebrity Gossip and Entertainment News
+# Privacy PolicyPop on the Pop - Celebrity Gossip and Entertainment News | Pop on the Pop - Celebrity Gossip and Entertainment News
 
 Pop on the Pop believes very strongly in keeping your personal information confidential. The following policy describes what information we collect and how it is used and shared.
 
