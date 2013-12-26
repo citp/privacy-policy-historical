@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615024143id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.ie privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226180349id_/http%3A//entertainment.ie/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Entertainment.ie
 
