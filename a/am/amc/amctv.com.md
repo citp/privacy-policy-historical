@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507084007id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amctv.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226195935id_/http%3A//www.amctv.com/privacy) for the most accurate reproduction.*
 
 # Privacy – AMC
 
@@ -101,3 +101,17 @@ We have implemented commercially reasonable security measures to protect the per
 Copyright © 2013 AMC Network Entertainment LLC
 
 Version: January 2013
+
+## amc shows on air
+
+## amc shows archive
+
+## watch full episodes
+
+## webisodes
+
+## more shows on amc
+
+## Stay current. Watch recent full episodes.
+
+[Learn more](http://www.amctv.com/full-episodes/learn-more)
