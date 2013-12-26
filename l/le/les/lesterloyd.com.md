@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lesterloyd.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626204825id_/http%3A//directory.lesterloyd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesterloyd.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226065858id_/http%3A//directory.lesterloyd.com/privacy.html) for the most accurate reproduction.*
 
 # Lester Loyd General Directory
 
-[](https://web.archive.org/web/20130626204825id_/http%3A//directory.lesterloyd.com/submit.html)**Privacy Policy**
+[](https://web.archive.org/web/20131226065858id_/http%3A//directory.lesterloyd.com/submit.html) **Privacy Policy**
 
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
