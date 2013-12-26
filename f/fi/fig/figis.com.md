@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the figis.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528040343id_/http%3A//www.figis.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figis.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226040352id_/http%3A//www.figis.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Figi's Internet Privacy Policy
 
-**This policy was last updated and posted in February 2011.**
+**This policy was last updated and posted in October 2013.**
 
-This Web site is operated by Figi's, Inc., an affiliate of Charming Shoppes, Inc. Figi's and its affiliates are committed to respecting your privacy and recognize the need for appropriate protection and management of the personally identifiable and personal information you share with us.
+This Web site is operated by Figi’s Companies, Inc., an affiliate of Mason Companies, Inc. Figi's and its affiliates are committed to respecting your privacy and recognize the need for appropriate protection and management of the personally identifiable and personal information you share with us.
 
 ### What is your Internet Privacy Policy?
 
 This Privacy Policy tells you what personally identifiable information and personal information we may collect from our customers and investors, how we may share this information, and how you can limit our sharing of your information. "Personally identifiable information" and "personal information" mean any information by which you can be identified, such as your name, address and telephone number.
 
-As a part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the Direct Marketing Association Privacy Promise to American consumers [Direct Marketing Association Privacy Promise to American consumers](https://www.dmachoice.org/dma/static/privacy_policy.jsp "Direct Marketing Association Privacy Promise to American consumers"). Accordingly, we have agreed to (1) provide customers with notice of their ability to opt out of information exchanges with other marketers; (2) honor customer requests not to have their information transferred to others for marketing purposes; and (3) accept and honor customer requests not to receive solicitations from our brand.
+As a part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the Direct Marketing Association Privacy Promise to American consumers [Direct Marketing Association Privacy Promise to American consumers](https://www.dmachoice.org/static/privacy_policy.php "Direct Marketing Association Privacy Promise to American consumers"). Accordingly, we have agreed to (1) provide customers with notice of their ability to opt out of information exchanges with other marketers; (2) honor customer requests not to have their information transferred to others for marketing purposes; and (3) accept and honor customer requests not to receive solicitations from our brand.
 
 Our Web site may contain links to other Web sites that are not under our control. Those Web sites may have their own policies regarding privacy. We have no control of or responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors. Those Web sites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual Web sites to see how the operators of those third-party Web site will utilize your personal information. In addition, this Web site may contain a link to Web sites of our affiliates. The Web sites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such Web sites will utilize your personal information.
 
@@ -26,7 +26,7 @@ We receive and may store certain personal information that our visitors enter wh
 
 ### What is your e-mail policy?
 
-We will not sell, rent, or trade your e-mail address to any unaffiliated third party without your permission. We believe that your e-mail address is personal and should be kept that way. We use your e-mail address to provide better customer service, to facilitate your transactions, and to be able to inform you of internet offers, promotions and updates from Figi's, Inc. and its affiliates and partners.
+We will not sell, rent, or trade your e-mail address to any unaffiliated third party without your permission. We believe that your e-mail address is personal and should be kept that way. We use your e-mail address to provide better customer service, to facilitate your transactions, and to be able to inform you of internet offers, promotions and updates from Figi’s Companies, Inc. and its affiliates and partners.
 
 [top]
 
@@ -36,7 +36,7 @@ We use the personal and/or personally identifiable information you provide for o
 
 From time to time, we may also work with other organizations that we believe are trustworthy and offer products or services that may be of interest to you. In such instances, we might share limited information (such as your name and/or postal address) that we have collected from you, including personally identifiable information, so that such organizations may contact you with offers that may interest you. Be assured, however, that we will not share your information with these organizations if you have requested that we refrain from doing so.
 
-On our Web site, we may provide links to other Web sites that are not owned or controlled by Figi's, Inc. While we select these associations carefully, we are not responsible for the security and privacy policies or practices of the Web sites accessed through these links. You should refer to these Web sites for their respective privacy and security policies. You access such linked Web sites at your own risk.
+On our Web site, we may provide links to other Web sites that are not owned or controlled by Figi’s Companies, Inc. While we select these associations carefully, we are not responsible for the security and privacy policies or practices of the Web sites accessed through these links. You should refer to these Web sites for their respective privacy and security policies. You access such linked Web sites at your own risk.
 
 To serve you better, we may combine the information you give us online, through our catalogs and order forms; publicly available information; and information we receive from others. We use that combined information to enhance and personalize your experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
 
@@ -44,9 +44,9 @@ Also, we may contract with third-party service providers to provide certain serv
 
 We may share information that we have collected with governmental agencies and other organizations assisting us in fraud prevention or for investigative purposes. We may do so when permitted or mandated by law; trying to protect against or prevent fraud; attempting to prevent unauthorized or improper transactions; or investigating fraud or improper conduct that has already taken place. In these instances, the information is not provided to these agencies or organizations for marketing or any other unrelated purposes.
 
-Additionally, we may share your e-mail address, name, telephone number, and postal address within the Figi's, Inc. family (including our parent Charming Shoppes, Inc. and its affiliates). Also, when you purchase from us through our catalog or our Web site we may need to contact you via phone, e-mail, or mail to address issues specific to your order, even if you have opted to not receive communications from us. From time to time we may also market certain third party services through our site. Should you choose to accept an offer from a third party, we will pass your relevant personal information, including your name, postal address, credit/debit card number and any other required billing information to that specific third party.
+Additionally, we may share your e-mail address, name, telephone number, and postal address within the Figi’s Companies, Inc. family (including our parent Mason Companies, Inc. and its affiliates). Also, when you purchase from us through our catalog or our Web site we may need to contact you via phone, e-mail, or mail to address issues specific to your order, even if you have opted to not receive communications from us. From time to time we may also market certain third party services through our site. Should you choose to accept an offer from a third party, we will pass your relevant personal information, including your name, postal address, credit/debit card number and any other required billing information to that specific third party.
 
-Finally, if some or all of the business assets of Figi's, Inc. are sold or transferred, we generally would transfer the corresponding information regarding our customers and visitors to the purchaser. We also may retain a copy of that information.
+Finally, if some or all of the business assets of Figi’s Companies, Inc. are sold or transferred, we generally would transfer the corresponding information regarding our customers and visitors to the purchaser. We also may retain a copy of that information.
 
 ### Mobile Marketing
 
@@ -64,7 +64,7 @@ We collect non-personal information about how users navigate through our web sit
 
 You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. [Update your information or change your mailing preferences](https://web.archive.org/account/login.do).
 
-If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, [send us an e-mail](https://web.archive.org/category/customer+service/contact+us.do "send us an e-mail") with your request or write to us at Figi's, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.
+If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, [send us an e-mail](https://web.archive.org/category/customer+service/contact+us.do "send us an e-mail") with your request or write to us at Figi’s Companies, Inc., Customer Service Dept., 3200 S. Central Avenue, Marshfield, WI 54404.
 
 [top]
 
@@ -72,11 +72,11 @@ If at any time you would like us to update your personal information or remove y
 
 You may opt out of future unaffiliated third-party disclosures of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, order processing and fulfillment, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your orders and/or requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent orders, contests or promotions you may choose to enter, or third party offers you may choose to accept.
 
-If at any time you need assistance with opting out of the sharing of information with unrelated third parties, [send us an e-mail](https://web.archive.org/category/customer+service/contact+us.do "send us an e-mail") with your request or write to us at Figi's Inc., Opt Out Department, 3200 S. Central Ave., Marshfield, WI 54449 USA.
+If at any time you need assistance with opting out of the sharing of information with unrelated third parties, [send us an e-mail](https://web.archive.org/category/customer+service/contact+us.do "send us an e-mail") with your request or write to us at Figi's Inc., Opt Out Department, 3200 S. Central Ave., Marshfield, WI 54404 USA.
 
 ### Notice to California Residents - Your California Privacy Rights
 
-Under California law, a California resident with whom Charming Shoppes has an established relationship has the right to request certain information with respect to the types of personal information Charming Shoppes has shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to: Charming Direct, Inc., 3750 State Street, Bensalem, PA 19020, Attention: Corporate Customer Relations.
+Under California law, a California resident with whom Charming Shoppes has an established relationship has the right to request certain information with respect to the types of personal information Charming Shoppes has shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to: Figi's Companies, Inc. Customer Service Dept. 3200 S. Central Avenue, Marshfield, WI 54404.
 
 This same California law permits Charming Shoppes to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. You may exercise that choice by the means described under "How do I opt out of sharing of my information?"
 
