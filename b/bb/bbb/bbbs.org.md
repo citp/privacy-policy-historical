@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627000554id_/http%3A//www.bbbs.org/site/c.9iILI3NGKhK6F/b.5960971/k.D130/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226070052id_/http%3A//www.bbbs.org/site/c.9iILI3NGKhK6F/b.5960971/k.D130/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Big Brothers Big Sisters
 
