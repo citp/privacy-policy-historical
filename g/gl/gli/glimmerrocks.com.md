@@ -1,64 +1,100 @@
-> *The following text is extracted and transformed from the glimmerrocks.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104091719id_/http%3A//www.glimmerrocks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glimmerrocks.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224735id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - Glimmerrocks.com
+# Legal Agreement
 
-**Privacy Policy**  
+**Go Daddy Respects Your Privacy**
 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-Your privacy is important to us. Accordingly, the first thing you should know is that we are VFM Consulting,(“VFM Consulting”) and we operate this website under license from Glimmerrocks.com (“Retailer”). You can contact us by email at [vfmconsulting@gmail.com](mailto:vfmconsulting@gmail.com). The purpose of this privacy policy is to inform you of what information VFM Consulting collects, the reason for our collection of such information and the use we make of the information we collect.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-We operate a separate website for actual processing of orders (“Order Processing Website”). We may provide some or all of the information we collect to the Order Processing Website if you place an order for the purpose of enabling the processing of such order. The Privacy Policy of the Order Processing Website is substantially the same as this Website and allows the Order Processing Website to share all information except actual payment information (e.g. credit card or bank wire transfer information) with this Website. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We may update this privacy statement periodically to reflect company and customer comments and input. We encourage you to periodically review this Privacy Policy to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact our Website Customer Service Department at [vfmconsulting@gmail.com](mailto:vfmconsulting@gmail.com).
+**Information Collection and Use**
 
-**Information Collected** – Simple browsing of our website will not tell us who you are or reveal any personally identifiable information. Personally identifiable information means your name, address (physical or electronic), telephone number, fax number, credit card number and expiration date and other information that may be used to identify an individual. If you elect to submit your personally identifiable information to us, you give us your consent to the collection, use and disclosure of your personally identifiable information as set forth in this privacy policy. Visiting the Website discloses your IP address and we collect IP address information. The collection of IP address information allows us, among other things, to diagnose problems, analyze and adjust the operation of the Website, track traffic patterns, gather information for aggregate use, and track the session date and duration. Your IP address may also be used in combination with your personally identifiable information for credit fraud protection and risk reduction.   
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We do not sell, trade or rent your personally identifiable information to third-parties, without your permission  
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Cookies and Other Markers** \- We may collect non-personal data through markers such as cookies, web logs, action tags and other monitoring technologies. Where authorized by us, third parties may use our monitoring technologies to compile aggregate statistics on our behalf. We use the non-personal information to assist us in the understanding and improvement of our Website, including its performance, effectiveness and usability. We may share or transfer information which is not personally identifiable with or to our affiliates, licensees and partners.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-"Cookies" are parcels of text sent by a server to a web browser a and then sent back unchanged by the browser each time it accesses that server. They are used to track, authenticate and maintain specific information about users, such as site preferences or the contents of their shopping carts. Cookies are not computer programs and are unable to perform any operation by themselves. They are not spyware or viruses. We do not use cookies to store or collect any personally identifiable information. You are always free to decline our cookies if your browser permits; although, by declining the use of cookies you may not be able to use certain features on the Website.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Our web pages may also contain markers that allow us to count users who have visited certain pages or to deliver co-branded services. We may also include markers in our email messages that indicate whether the message has been opened or whether action has been taken. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Third-parties engaged by us to assist with advertising or content delivery may use markers or cookies to allow them to recognize your computer each time you visit certain pages or emails and to compile anonymous information. Information collected through these third-party advertising companies is anonymous. 
+**Security**
 
-**Communications -** We may use personally identifiable information that you have provided to us to communicate to you information regarding Retailer and or the products and services that we offer on behalf of Retailer. Those communications may include information regarding promotions, contests, product or service updates, or surveys. We may analyze your personally identifiable information and use those analyses to improve and customize our Website's content, layout and services. This use is intended to enable us to improve your experience in using our Website. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-If you contact one of our representatives or submit a request to us through our Website and provide personally identifiable information, we will use your information to respond to your inquiry or request and to provide you with any other additional information that we believe may of interest. 
+**Updating Your Information**
 
-If you place an order from this Website, we will use your personally identifiable information to confirm your order, respond to your requests or inquiries, detect identity theft (including use of stolen or phony credit card information) and other forms fraud, provide you with information regarding your order and provide you with any other information we believe would be of interest. We will also share your contact information with Retailer. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-You may elect to discontinue receiving information from us by following the instructions below with regard to Opt-Out. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Internal Use -** We may use other sources of information as a basis for reviewing the personally identifiable information you provide us for errors, omissions and accuracy. Our marketing department may use your personally identifiable information to conduct internal research on our users' demographics, behavior and interests and then use that research to improve our marketing efforts and product offerings. We may also use your personally identifiable information to better understand your use of our Website and then use that information to improve the performance, user interface and effectiveness of our Website. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Refer a Friend** \- You may refer a friend to the VFM Consulting Website. If you do that, we will request your name, your friend’s name, and both of your e-mail addresses to ensure that your friend will know that you have requested that VFM Consulting send them an e-mail. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. 
+      iii.      You may call us at: (480) 505-8800
 
-**Compliance with the Laws and Regulations of Governmental Entities in the United States and Fraud Protection** \- We may gather and, if necessary, disclose any information, including personally identifiable information, if we believe such gathering and disclosure is necessary to comply with any applicable statute, regulation, judicial or administrative process or governmental request. We may gather and possibly disclose all information available to us, including personally identifiable information, in order to investigate illegal activities, threats to physical safety, suspected fraud or as otherwise required by law. If the results of such investigation warrant disclosure to law enforcement authorities or others to avoid harm to ourselves or others, we will, in our sole discretion, disclose and share such information as is necessary to prevent or minimize such harm. We may also exchange information with others, including personally identifiable information, to the extent that is necessary, to detect and prevent credit fraud and credit card risk. 
+       iv.      You may fax us at: (480) 505-8844
 
-**Compliance with Foreign Law** \- We may store and process information collected on this Website in the United States or any other country in which we or our affiliates, subsidiaries or agents maintain facilities. Accordingly, your personally identifiable information may be subject to the laws and regulations of other countries in addition to the United States. We make every effort to comply with the laws and regulations of the countries in which data is stored and processed. By using this Website, you consent to any such transfer of your personally identifiable information outside of your country. 
+**Sending Emails**
 
-We comply with the safe harbor framework established by the U.S. Department of Commerce in conjunction with the European Union regarding the collection, use and retention of data from the European Union. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Third Party Service Providers -** We contract with other persons and entities to provide you with services and to offer promotions. For example, we must share your name and address with the shipping company we use to ship things to you. We may use a webhosting company to host our website, in which case it will have access to information entered on our website, including personally identifiable information. If we decide to hold a contest to name a diamond, we may engage a promotion company to run the contest. Third Party providers can include companies that assist with promotions, contests, events, or sweepstakes, fulfillment companies (e.g., companies that fulfill product orders), jewelers, assemblers, data analysis firms, affiliates, third party consulting or marketing firms and e-mail service providers as third party service providers. Additionally, if you use a credit card or other financing alternative to place an order with VFM Consulting, to confirm and process your order we will share your personally identifiable information with such financing company. Third parties receive personally identifiable information only if such information is needed to perform their function(s). They are not authorized to access or use personally identifiable information for any other purpose(s) other than the purpose(s) set forth by us. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Acquisition or Merger -** If we engage in a merger, sale of company assets or acquisition, or if it should be the subject of an insolvency, bankruptcy or receivership, each of which could result in an asset sale or transfer, your personally identifiable information may be transferred to and thereby disclosed to the party acquiring assets from us. 
+**Compliance with Laws and Law Enforcement**
 
-**Children under 13 -** We do not knowingly collect personal information from children under the age of 13. If we are advised or otherwise learn that we have personally identifiable information from a child under the age of 13, we will delete that data from our systems. The FTC website contains tips regarding online protection of children’s privacy. See www.ftc.gov 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Links** \- Our Website may provide links to other third-party Websites which are outside our control and not covered by this privacy policy. We encourage you to review the privacy policies posted on these (and all) Websites. 
+**Third Party Service Providers**
 
-**Security** \- We use security technology, procedures and organizational measures as part of a comprehensive plan to protect your personally identifiable information from unauthorized access, use or disclosure. We use Secure Sockets Layer (SSL) encryption technology when we transfer sensitive personal information such as credit card information over the internet. We also limit access to the computer servers on which personally identifiable information is stored. We also appreciate your input. If you believe there is a flaw in our security, please notify us immediately so that we can investigate. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**Verification and Updating Your Information** -You have a right to verify and update the personally identifiable information we gather from you. To verify the information or to request a change or update to it, please send an e-mail to [vfmconsulting@gmail.com](mailto:vfmconsulting@gmail.com). Note that we will not reveal information we maintain on you until we are satisfied that you are making the inquiry, by asking you to identify or verify certain data already in our collection and/or through other means. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Choice- Opt Out** \- You have a right not to receive communications from us. You may opt-out of receiving communications from us by: (1) making a request by e-mail to [vfmconsulting@gmail.com](mailto:vfmconsulting@gmail.com); or (2) selecting "unsubscribe" on our subscription status page and entering the requested information. 
+**Supplementation of Information**
 
-**Your Consent to VFM Consulting’s Privacy Policy** \- Your use of this Website constitutes your agreement to our privacy policy. This is our entire and exclusive privacy policy and it supersedes any earlier version. We may occasionally update this privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we are protecting your information. Your continued use of this Website constitutes your consent to this privacy policy and any updates. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-For other terms and conditions that apply to your use of our Website, please see our Terms and Conditions. 
+**Contests/Surveys**
 
-**Questions or Comments** \- If you have questions about this privacy policy, please contact our customer service department at [vfmconsulting@gmail.com](mailto:vfmconsulting@gmail.com). You may also send us your comments about this Website or the shopping experience in general, as we always appreciate feedback. 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
