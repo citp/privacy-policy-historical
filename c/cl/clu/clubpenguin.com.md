@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the clubpenguin.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630061605id_/http%3A//www.clubpenguin.com/privacy-policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubpenguin.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226133601id_/http%3A//www.clubpenguin.com/privacy-policy/en) for the most accurate reproduction.*
 
-# Club Penguin
+# Privacy Policy | Club Penguin
 
-### Updated: January 11, 2012
+### Updated: November 1, 2013
 
-Disney Club Penguin ("Club Penguin") is operated and presented to users in all locations by Disney Online Studios Canada Inc. (formerly known as Club Penguin Entertainment Inc.) located at 500-1628 Dickson Avenue, Kelowna, British Columbia, Canada VIY 9X1. This Privacy Policy covers use of information collected by Club Penguin.
+Disney Club Penguin ("Club Penguin") is operated and presented to users in all locations by Disney Canada Inc. (formerly known as Disney Online Studios Canada Inc.) located at 500-1628 Dickson Avenue, Kelowna, British Columbia, Canada VIY 9X1. This Privacy Policy covers use of information collected by Club Penguin and its related mobile app(s).
 
 We are committed to providing a fun, entertaining, and safe website for people of all ages. We are dedicated to safeguarding any personal information collected on the Club Penguin website. We ensure that our Privacy Policy and our information practices adhere to the United States Children's Online Privacy Protection Act, applicable European Union Data Protection legislation, Canadian federal and provincial privacy legislation, other applicable data privacy laws and all other applicable legislation.
 
 To help ensure a rewarding online experience for our visitors, we provide you with this Privacy Policy that describes the information practices of the Club Penguin website ([www.clubpenguin.com](http://www.clubpenguin.com/)), including how we collect, use and disclose personal information.
+
+[](https://privacy.truste.com/privacy-seal/Disney-Online-Studios-Canada-Inc-/validation?rid=3ea90a22-31df-44d6-8621-319c0ec726e7 "TRUSTe Children privacy certification")
 
   1. #### The Information We Collect
 
@@ -36,7 +38,14 @@ If we sell all or part of our business or make a sale or transfer of our assets 
 
   3. #### Collection of Information for Third-Party Sites and Sponsors
 
-We do not allow third-party companies to solicit or advertise to our users. Our intention is to keep Club Penguin free from any of this sort of direct advertising.
+Operators collect and maintain information from children through Club Penguin and we comply with the U.S. Children’s Online Privacy Protection Act.  The list of operators may be found [here.](https://web.archive.org/privacy-policy/third-party-operators)  Questions about the operators’ privacy policies and use of children’s information may be directed to:
+
+ **Club Penguin**  
+ **c/o Disney Canada Inc.**  
+ **Attention Privacy**  
+Suite 500 - 1628 Dickson Ave.  
+Kelowna, British Columbia, V1Y 9X1  
+CANADA
 
   4. #### Security
 
@@ -46,13 +55,13 @@ We operate globally and may transfer your  _personal information_  to individu
 
   5. #### Financial Information
 
-As noted in Section 1, if a child registrant wantsto aquire a paid membership, the parent's full name, email address, credit card billing information including mailing address will be required at the time of purchase. That information is not stored by Club Penguin, and, instead, is stored by our payments processing vendor for the purpose of processing payments made to Club Penguin and for fraud prevention purposes. That information is safeguarded with appropriate security, and it will not be used for other purposes. Furthermore, our payments processing vendor has agreed to maintain the confidentiality, security, and integrity of the personal and financial information it obtains from the Club Penguin website, and only to use this information on our behalf. Our financial institution is bound by all applicable privacy laws relating to the provision of financial services.
+As noted in Section 1, if a child registrant wants to acquire a paid membership, the parent's full name, email address, credit card billing information including mailing address will be required at the time of purchase. That information is not stored by Club Penguin, and, instead, is stored by our payments processing vendor for the purpose of processing payments made to Club Penguin and for fraud prevention purposes. That information is safeguarded with appropriate security, and it will not be used for other purposes. Furthermore, our payments processing vendor has agreed to maintain the confidentiality, security, and integrity of the personal and financial information it obtains from the Club Penguin website, and only to use this information on our behalf. Our financial institution is bound by all applicable privacy laws relating to the provision of financial services.
 
   6. #### Access to Information, and Objection to Information Collection and Retention
 
 Please contact us as provided in Section 7 if you would like to access the PII that we have collected online from you or your child, correct factual errors in such information, request to have this information deleted, or request that we no longer collect or maintain such information.  The deletion of data may lead to a termination of the Club Penguin account and/or membership.
 
-Please be sure to include your email address and a telephone number where we can reach you. To protect you and your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about you or your child.
+Please be sure to include your email address and a telephone number where we can reach you.  We will respond to access requests within 30 days. To protect you and your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about you or your child.
 
   7. #### Changes to this Privacy Policy
 
@@ -62,11 +71,9 @@ From time to time, we may change this privacy policy to accommodate new technolo
 
 If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to [support@clubpenguin.com](mailto:support@clubpenguin.com) or write us:
 
-**Club Penguin**
-
-**c/o Disney Online Studios Canada Inc.**
-
-**Attention Privacy**  
+ **Club Penguin  
+c/o Disney Online Studios Canada Inc.**  
+ **Attention Privacy**  
 Suite 500 - 1628 Dickson Ave.  
 Kelowna, British Columbia, V1Y 9X1  
 CANADA 
@@ -81,9 +88,11 @@ The Internet offers a world of opportunity for children. Your guidance and invol
 
   10. #### Effective Date
 
-The privacy policy set out above is effective as of January 11, 2012, and applies to all information previously obtained by Club Penguin. We reserve the right to change the privacy policy at our sole discretion. Club Penguin users will be informed of any such change by us posting a new privacy policy on the Club Penguin website and the effective date of any change of privacy policy will be clearly marked. As required by law, we will not use PII in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+The privacy policy set out above is effective as of November 1, 2013, and applies to all information previously obtained by Club Penguin. We reserve the right to change the privacy policy at our sole discretion. Club Penguin users will be informed of any such change  by us posting a new privacy policy on the Club Penguin website and the effective date of any change of privacy policy will be clearly marked. As required by law, we will not use PII in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Club Penguin is a licensee of the TRUSTe Children’s Online Privacy Seal Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
+Club Penguin has received the TRUSTe Privacy Seal in the United States, signifying that this privacy policy and our privacy practices have been reviewed for compliance with the TRUSTe program listed on the validation page available when you click on the TRUSTe Privacy Seal. The TRUSTe program covers only those properties identified on the validation page.
+
+If you believe that Club Penguin has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe **** here](https://feedback-form.truste.com/watchdog/request) or the United States Federal Trade Commission through its [online consumer complaint form available here](https://www.ftccomplaintassistant.gov/).
 
 
 
