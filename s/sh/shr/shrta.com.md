@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrta.com privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421052729id_/http%3A//shrta.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrta.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226072133id_/http%3A//shrta.com/privacy.php) for the most accurate reproduction.*
 
 # Free File Hosting with Shrta - About Us
 
