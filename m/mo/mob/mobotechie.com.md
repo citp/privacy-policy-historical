@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mobotechie.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530065036id_/http%3A//mobotechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobotechie.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224223id_/http%3A//mobotechie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - mobotechie.com
+# Privacy Policy - Mobotechie.com
+
+[Home](http://mobotechie.com/) Privacy Policy
 
 We at Mobotechie.com give prime importance to our users’ privacy and are committed to protecting it always. If you have any doubt concerned with our website [privacy policy](http://mobotechie.com/privacy-policy "privacy policy") or software, please feel free to [contact us](http://mobotechie.com/contact-us "contact us"). Please read our [Privacy Policy](http://mobotechie.com/privacy-policy "Privacy Policy") below to learn more about how we treat personally identifiable information, how it is protected and used.
 
