@@ -1,49 +1,100 @@
-> *The following text is extracted and transformed from the socalglamourgirls.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217113143id_/http%3A//socalglamourgirls.com/node/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalglamourgirls.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224735id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | SoCalGlamourGirls
+# Legal Agreement
 
-**SoCalGlamourGirls.com values your privacy.**
+**Go Daddy Respects Your Privacy**
 
-**1\. What this Privacy Policy Covers**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-This policy covers how SoCalGlamourGirls.com treats personal information that SoCalGlamourGirls.com collects and receives. As the SoCalGlamourGirls.com site is only to be accessed by persons 18 years or older, we do not intend to collect any personal information from children under 18. Personal information is information about you that is personally identifiable, including your name, email address, billing address, phone number, credit card information, birth date, and other information, that is not otherwise publicly available. This policy does not apply to the practices of companies that SoCalGlamourGirls.com does not own or control, or to people that SoCalGlamourGirls.com does not employ or manage. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**2\. Information Collection and Use**
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-SoCalGlamourGirls.com gathers certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. We only use this type of data in the aggregate - that is, we look at the data on a collective basis, in summary form, rather than on an individual basis. This data helps us determine the extent to which our customers use certain parts of our web site which, in turn, enables us to make it as appealing and easy-to-use as possible. We may also provide statistical information about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business. We do this so they can understand how often people use areas of the site in order for them to provide you with the best possible experience. This statistical information does not contain any personally identifiable information about you or any of our users.
+**Information Collection and Use**
 
-SoCalGlamourGirls.com may set and access cookies on your computer. A cookie is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer so that the site administrator may identify your computer and passively track its activities on the website. This unique number identifies your web browser to our computer system. A cookie will not allow a website to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed. Cookies allow us to automatically remember your web browser when you visit our site or Service. The use of cookies is an industry standard, and they are currently used on most major Web sites. It is possible to adjust your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While we do not require you to use cookies, keep in mind that certain sites and services may not function properly if you set your browser to refuse all cookies. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**3\. Disclosure Exceptions**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Any information given to us shall be stored and managed with our best possible care, and will not be used in any ways to which you have not consented. We will not sell, rent or exchange such personality identifiable information to any other organization or entities, unless the user agrees. Notwithstanding the above, we may indeed disclose personal information if required to do so in response to legal process, such as a court order or subpoena, or when such disclosure is made for establishment or exercise of legal rights or in defending against legal claim or as otherwise required by law, including pursuant to 18 USC Section 2257. And, as we mention above, we may share with aggregated statistical information about the use of SoCalGlamourGirls.com, its services and other future services. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**4\. Minors**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-If a parent believes that his or her minor child has submitted personal information to us, he or she can contact us via email as listed below. We believe that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**5\. Third Party Sites**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Links on this website to other websites are provided as a convenience to you. Such linked sites are outside of our control and responsibility, and are not covered by this policy. If you use any such linked sites, you should consult the privacy policies posted on those websites. We may use companies to serve advertisements on some of our pages. These companies and advertisers may place and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate such content, language contained in your comments and other information. Our site contains links, including banner and other ads, to other Websites. We are not responsible for the privacy practices or the content of such Websites. Our site may also link to Websites that feature our trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Website, as the co-branded Website may not be under our control. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Applications you use or download from our site may contain third party digital rights management systems ("DRMS") which may allow for communication between your software and the third party and utilize security features (e.g., preventing distribution of or access to the applications in the event of unauthorized use). These DRMS are subject to their own license agreements and you agree that we shall not be responsible for any loss or damage of any sort relating to the use of the DRMS or your dealings with such third parties. The applications may also contain DRMS produced by us which allow for communication between the applications you use or download and our systems and which collect information describing your computer system in order to prevent illegal or unauthorized use of the applications. For reasons such as improving member experience and providing customized communications to our users, we may receive information about you from third party sources and our web logs and add it to the information that we have received from you. Web logs automatically record anything a web server sees, which may include e-mail addresses you enter into a form or pages viewed by a user at a particular IP address. 
+**Security**
 
-**6\. Information Sharing**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-We will not share your personally identifiable information with third parties, aside from entities that perform services for us, such as fulfilling orders or processing payment, that either are bound to comply with our privacy policy or have privacy policies that protect your information unless you have "opted-in" to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this privacy policy. As stated, and whether or not you have opted-in, we may use third parties to accept and process orders for merchandise and products, including software, and such third parties may get access to your personal information for the purposes of providing services or products to you on our behalf. In addition, if you opt-out, we may share that information with third parties who send e-mails on our behalf so that they do not e-mail you. 
+**Updating Your Information**
 
-However, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone's safety. We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**7\. Sale of Assets**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-In the event that SoCalGlamourGirls.com is ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party acquiring SoCalGlamourGirls.com' assets. In the event we do so, we will place a prominent notice of the sale on the homepage of our site, with links to information as to how you can change your privacy preferences. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**8\. Changes to this Privacy Policy**
+      iii.      You may call us at: (480) 505-8800
 
-We may change our privacy policy from time to time by updating the posting, provided however that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. 
+       iv.      You may fax us at: (480) 505-8844
 
-NOTICE: The Federal Trade Commission provides important information about safe surfing. 
+**Sending Emails**
 
-**9\. Contact Information**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-If you have questions or concerns regarding this Privacy Policy, please contact us at [info@SoCalGlamourGirls.com](mailto:info@SoCalGlamourGirls.com). References to SoCalGlamourGirls.com in this Privacy Policy refer to SEED Enterprise LLC, a California limited liability company, and its affiliates. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
