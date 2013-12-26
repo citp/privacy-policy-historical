@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the book-fair.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624144641id_/http%3A//www.book-fair.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the book-fair.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226124032id_/http%3A//www.book-fair.com/en/privacy) for the most accurate reproduction.*
 
 # Frankfurt Book Fair - Privacy Policy / Terms & Conditions
 
