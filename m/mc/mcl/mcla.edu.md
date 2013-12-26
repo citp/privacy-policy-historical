@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcla.edu privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613170421id_/http%3A//www.mcla.edu/About_MCLA/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcla.edu privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226025445id_/http%3A//www.mcla.edu/About_MCLA/privacypolicy) for the most accurate reproduction.*
 
 # About MCLA | Privacy Policy
 
