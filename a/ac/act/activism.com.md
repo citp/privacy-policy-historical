@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activism.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510093133id_/http%3A//www.activism.com/en_US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activism.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226012556id_/http%3A//www.activism.com/en_US/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Activism - Online Petition
 
