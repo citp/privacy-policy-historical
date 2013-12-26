@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rachaelray.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630155956id_/http%3A//rachaelray.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelray.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226200848id_/http%3A//www.rachaelray.com/privacy.php) for the most accurate reproduction.*
 
 # Rachael Ray's Official Website - Privacy Policy
 
