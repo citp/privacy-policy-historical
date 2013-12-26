@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prou.co privacy policy that was archived on 2013-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130217043501id_/http%3A//prou.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prou.co privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226191819id_/http%3A//prou.co/privacy-policy) for the most accurate reproduction.*
 
 # PRO U » Privacy Policy
 
