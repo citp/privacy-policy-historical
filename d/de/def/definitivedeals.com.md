@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitivedeals.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502145010id_/http%3A//definitivedeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivedeals.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226185202id_/http%3A//definitivedeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DefinitiveDeals.com - Privacy Policy Statement for this website
 
@@ -30,7 +30,7 @@ We do NOT collect any kind of financial information from our visitors. Any finan
 
   * 7\. Cookies
 
-DefinitiveDeals does not make use of cookies. However, other merchants and organizations that are linked to on this website may set cookies when visiting their sites. 
+DefinitiveDeals, like most websites, uses cookies to enhance your experience while using our site. Cookies are small data files that your web browser handles and stores on your computer. Cookies are not tied to your personal information. Other merchants and organizations that are linked to on this website may also set cookies when visiting their sites. 
 
   * 8\. Data Security
 
