@@ -1,0 +1,1043 @@
+<!--The following is the downloaded HTML source of the giveaway.ly privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226114847id_/http%3A//www.giveaway.ly/Privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy : Giveaway.ly | Sponsored Giveaways
+</title>
+     <!--[if IE 7]>
+       <style> .dashboard_body_right_top h1 { padding: 18px 0 0 29px; }  
+         #main{behavior:none;}
+       </style>
+     <![endif]--> 
+</head>
+<body>
+    <div class="page">
+		<!-- navigation -->
+		   
+<link href="/Styles/all.css?ver=1115" rel="stylesheet" type="text/css">
+<link href="/Styles/NewlyAdded.css?ver=1114" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Javascript/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="/Javascript/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+
+<script src="/Javascript/Common.js?ver=1116" type="text/javascript"></script>
+<link href="/css/ui-lightness/jquery-ui-1.8.20.customtmp.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico?v=123">
+<!--[if IE 6]><link rel="stylesheet" href="/Styles/ie6.css" /><![endif]-->
+<!--[if (lt IE 8)]>
+        <script src="/Javascript/json2.js" type="text/javascript"></script>
+     <![endif]-->
+<link href="/styles/homestyles.css?ver=1114" rel="stylesheet" type="text/css">
+<style type="text/css">
+    .bookmarks
+    {
+        float: right;
+        margin-top: -5px;
+        position: absolute;
+        width: 79px;
+    }
+#naver_contain
+{
+    padding-top:25px;
+    position:absolute;
+}
+.links li {
+    float: left;
+    list-style-image: none;
+    list-style-type: none;
+    margin: 0 8px 0 0;
+    padding: 0;
+    position: relative;
+}
+.imgMenu {
+    background-color: #189ACA;
+    float: left;
+    height: 8px;
+    margin-left: 39px;
+    margin-top: 4px;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Safari and Chrome */
+    -o-transform: rotate(45deg); /* Opera */
+    -moz-transform: rotate(45deg); /* Firefox */
+    filter: progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', M11=0.7071067811865476, M12=-0.7071067811865475, M21=0.7071067811865475, M22=0.7071067811865476); /* IE6,IE7 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(SizingMethod='auto expand', M11=0.7071067811865476, M12=-0.7071067811865475, M21=0.7071067811865475, M22=0.7071067811865476)"; /* IE8 */
+    width: 8px;
+}
+
+.sub-menu {
+	list-style-image: none;
+    list-style-type: none;
+    
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    display: none;
+    left: -20px;
+    padding: 10px;
+    position: absolute;
+    top: 28px;
+    width: 140px;
+    z-index: 1000;
+    border:1px solid #189ACA;
+}
+.sub-menu li
+{
+float: none;
+margin: 0;
+list-style-image: none;
+list-style-type: none;
+width:100%;
+text-align:center;
+border-bottom:1px solid #EFEFf0;
+background: none repeat scroll 0 0 #189ACA;
+
+}
+.sub-menu li:hover
+{
+    background: none repeat scroll 0 0 #EFEFf0;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+.sub-menu li.last
+{
+    border-bottom:0px;
+}
+.sub-menu li a
+{
+    font-size:15px;
+    line-height:35px;
+    color:#ffffff;
+    text-shadow: 0px 0px;
+    letter-spacing:1px;
+}
+.sub-menu li a:hover
+{
+    font-size:15px;
+    line-height:35px;
+    color:#000000;
+    text-shadow: 0px 0px;
+}
+
+</style>
+<script type="text/javascript" language="javascript">
+    // Get the wrapper div, and the contained &lt;a&gt; element
+ 
+</script>
+<script type="text/javascript">
+
+    function SetStatusBar(conStatus, day, month) {
+        var progressRunning = $('#contestprogressbar .progressbar_top_running');
+        var progressMileStone = $('#contestprogressbar .progressbar_top_milestone');
+        progressMileStone.find('.milestone_date').html(day);
+        progressMileStone.find('.milestone_month').html(month);
+        progressRunning.remove();
+        progressMileStone.remove();
+        progressRunning.show();
+        if (!day == '')
+            progressMileStone.show();
+        $('#contestprogressbar .flowmenu a').removeClass('active');
+
+        switch (conStatus) {
+            case 'init':
+                $('#divProgressbar_top_init').empty();
+                $('#divProgressbar_top_accept').empty();
+                $('#divProgressbar_top_init').append(progressRunning);
+                $('#divProgressbar_top_accept').append(progressMileStone);
+                $('#accepted').addClass('active');
+                break;
+            case 'accept':
+                $('#divProgressbar_top_accept').empty();
+                $('#divProgressbar_top_inprog').empty();
+                $('#divProgressbar_top_accept').append(progressRunning);
+                $('#divProgressbar_top_inprog').append(progressMileStone);
+                $('#inprogress').addClass('active');
+                break;
+            case 'inprogress':
+                $('#divProgressbar_top_inprog').empty();
+                $('#divProgressbar_top_finish').empty();
+                $('#divProgressbar_top_inprog').append(progressRunning);
+                $('#divProgressbar_top_finish').append(progressMileStone);
+                $('#finished').addClass('active');
+                break;
+            case 'finish':
+                $('#divProgressbar_top_finish').empty();
+                $('#divProgressbar_top_win').empty();
+                $('#divProgressbar_top_finish').append(progressRunning);
+                $('#divProgressbar_top_win').append(progressMileStone);
+                $('#winners_announced').addClass('active');
+                break;
+            case 'win':
+                $('#divProgressbar_top_win').empty();
+                $('#divProgressbar_top_close').empty();
+                $('#divProgressbar_top_win').append(progressRunning);
+                $('#divProgressbar_top_close').append(progressMileStone);
+                $('#completed').addClass('active');
+                break;
+            case 'close':
+                $('#divProgressbar_top_init').empty();
+                $('#divProgressbar_top_accept').empty();
+                break;
+            default:
+                $('#contestprogressbar').hide();
+                break;
+        }
+        SetStatusBarColor(conStatus);
+    }
+
+    function SetStatusBarColor(conStatus) {
+        switch (conStatus) {
+            case 'close':
+                $('#divProgressbar_middleEdge_end').removeClass();
+                $('#divProgressbar_middleEdge_end').addClass('progressbar_middle_inner_greenright');
+                $('#divProgressbar_middle_end').removeClass();
+                $('#divProgressbar_middle_end').addClass('progressbar_middle_inner_greenbgedge');
+                $('#divProgressbar_middleSep_close').removeClass();
+                $('#divProgressbar_middleSep_close').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_close').removeClass();
+                $('#divProgressbar_middle_close').addClass('progressbar_middle_inner_greenbg');
+            case 'win':
+                $('#divProgressbar_middleSep_win').removeClass();
+                $('#divProgressbar_middleSep_win').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_win').removeClass();
+                $('#divProgressbar_middle_win').addClass('progressbar_middle_inner_greenbg');
+            case 'finish':
+                $('#divProgressbar_middleSep_finish').removeClass();
+                $('#divProgressbar_middleSep_finish').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_finish').removeClass();
+                $('#divProgressbar_middle_finish').addClass('progressbar_middle_inner_greenbg');
+            case 'inprogress':
+                $('#divProgressbar_middleSep_inprog').removeClass();
+                $('#divProgressbar_middleSep_inprog').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_inprog').removeClass();
+                $('#divProgressbar_middle_inprog').addClass('progressbar_middle_inner_greenbg');
+            case 'accept':
+                $('#divProgressbar_middleSep_accept').removeClass();
+                $('#divProgressbar_middleSep_accept').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_accept').removeClass();
+                $('#divProgressbar_middle_accept').addClass('progressbar_middle_inner_greenbg');
+            case 'init':
+                $('#divProgressbar_middleSep_init').removeClass();
+                $('#divProgressbar_middleSep_init').addClass('progressbar_middle_inner_greendivider');
+                $('#divProgressbar_middle_init').removeClass();
+                $('#divProgressbar_middle_init').addClass('progressbar_middle_inner_greenbgedge');
+            default: break;
+        }
+    }
+</script>
+<!--[if IE 7]>
+         <style>
+         #main{
+	behavior: none;}
+            .forgot{margin:0;}
+            .login_sign a{margin:0}
+           .cart_tag span { margin: 10px 11px 11px 4px; font-weight:bold; 
+           filter:progid:DXImageTransform.Microsoft.Matrix(M11='1.0', sizingMethod='auto expand'); WIDTH: 100px; HEIGHT: 100px; TOP: 64px; LEFT: 100px; transformOrigin: right bottom}
+            ul.paginglist li{ float:left; }
+    .winnerprize-con-row select{padding:15px; height:25px;} 
+    .margin7{ margin-top:7px;}
+    button.orange_large_button, a.orange_large_button, input.orange_large_button[type="submit"], input.orange_large_button[type="button"], body.directorypage .controls span a.orange_large_button,{
+        margin:0; padding:0;}
+        button.submit_url, a.submit_url, input.submit_url[type="submit"], input.submit_url[type="button"], body.directorypage .controls span a.submit_url {margin:0 3px 0 0; padding:0;}
+    button.order_summery, a.order_summery, input.order_summery[type="submit"], input.order_summery[type="button"], body.directorypage .controls span a.order_summery {  
+    padding:0 6px;
+}
+    button.index_button, a.index_button, input.index_button[type="submit"], input.index_button[type="button"], body.directorypage .controls span a.index_button 
+    {margin:0;padding:0;}
+         </style>
+   <![endif]-->
+<!--[if IE 6]>
+      <style>
+           .cart_tag span { margin: 0px 11px 11px;}
+      </style>
+   <![endif]-->
+<script type="text/javascript" language="javascript">
+
+    var Feedbackform;
+    function ValidateSubmitFeedback() {
+        var UserName = $.trim($("#feedback_txtUsername").val());
+        var EmailId = $.trim($("#feedback_txtEmailId").val());
+        var Subject = $.trim($("#feedback_txtSubject").val());
+        var UserMessage = $.trim($("#feedback_txtMessage").val());
+        $(".tinner").css('height', 'auto');
+        var status = true;
+        $(".tcontent").find("label.cntct_name1").css('color', '#444D53');
+        if (UserName == "") {
+            $(".tcontent").find("label.cntct_name1:eq(0)").css('color', '#FF0000');
+            //$("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter Name");
+            status = false;
+        }
+        if (EmailId == "") {
+            $(".tcontent").find("label.cntct_name1:eq(1)").css('color', '#FF0000');
+            //$("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter Emailid");
+            status = false;
+        }
+
+        if (Subject == "") {
+            $(".tcontent").find("label.cntct_name1:eq(2)").css('color', '#FF0000');
+            //$("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter Subject");
+            status = false;
+        }
+        if (UserMessage == "") {
+            $(".tcontent").find("label.cntct_name1:eq(3)").css('color', '#FF0000');
+            //$("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter a Message");
+            status = false;
+        }
+        if (!IsValidEmail(EmailId) && EmailId != "") {
+            $(".tcontent").find("label.cntct_name1:eq(1)").css('color', '#FF0000');
+            $("#feedbackformerrmessage").show();
+            $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+            $("#feedbackformerrmessage").text("Please Enter Valid Emailid");
+            status = false;
+        }
+
+        if (status == false)
+            return;
+        if (UserMessage.length > 3500 || Subject.length > 3490 || UserName.length > 3500 || EmailId.length > 3500) {
+            alert("You can Enter Upto 3500 Characters..");
+            return;
+        }
+        Subject = 'FeedBack: ' + Subject;
+        var user = { "emailid": EmailId, "message": UserMessage, "username": UserName, "subject": Subject };
+        var url = SPCServiceURL + "/submitUserFeedback";
+        $.ajax({
+            type: "POST",
+            url: url,
+            contentType: "application/json",
+            data: JSON.stringify(user),
+            success: function (response) {
+                try {
+                    $("#feedbackformerrmessage").show();
+                    $("#feedbackformerrmessage").text(response.message);
+
+                    if (response.success == false)
+                        $("#feedbackformerrmessage").removeClass("success").addClass("feedback_divSignUpErrors");
+                    else
+                        $("#feedbackformerrmessage").removeClass("feedback_divSignUpErrors").addClass("success");
+                }
+                catch (err) {
+                    alert("failure");
+                }
+
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                $("#filtermask").hide();
+                if (jqXHR.status == 401)
+                    window.location.href = '/login';
+               // else
+                   // alert('Service failed ' + textStatus + ' ' + errorThrown);
+            }
+        });
+
+    }
+    $(document).ready(function () {
+
+        Feedbackform = true; //means feedbackform will be available..
+        $("#btnRegisterSignpopup").click(registerUserSignpopup);
+        $("#forgotbtnSendMail").click(forgotsendMailForgot);
+        $(".apopupForgot").click(function () {
+            $("#forgottxtEmailField").val("");
+            $("#forgotdivErr").hide();
+            $("#forgotdivReSendMail").hide();
+            $(".popupforgot").slideToggle("slow");
+        });
+
+        $(".popupindex").click(function () {
+            $('.LogincontentHeader').find('input[type="text"]').val('');
+            $('.LogincontentHeader').find('input[type="password"]').val('');
+            $('.LogincontentHeader').find('input[type="checkbox"]:checked').removeAttr('checked');
+            $('#selectUserSignpopup').val('Selected');
+            $(".popupforgot").hide();
+            $("#forgotdivReSendMail").hide();
+            $("#forgotdivErr").hide();
+            $(".signUpErrorsSignpopup").html('');
+            $(".signUpErrorsSignpopup").removeClass("divSignUpErrors");
+            $(".signUpErrorsSignpopup").removeClass("success");
+            $(".loginPopupErrorsHeader").html('');
+            $(".loginPopupErrorsHeader").removeClass("divSignUpErrors");
+            $(".loginPopupErrorsHeader").removeClass("success");
+            $(".login_row").each(function () {
+                $(this).show();
+            });
+            $(".login_row input").each(function () { $(this).css('border', '1px solid #A9AFB3'); });
+
+            $(".login_terms").show();
+            $(".login_sign").show();
+            document.getElementById("headingSignup").style.visibility = 'visible';
+
+            var val = $(this).attr("value");
+            if (val == "Sign Up") {
+                $(".loginpopupindex").hide();
+                $(".signuppopupindex").show();
+                var leftPos = ($(window).width() - $(".Login2window").width()) / 2 + $(document.body).scrollLeft();
+                var topPos = ($(window).height() - $(".Login2window").height()) / 2 + $(document.body).scrollTop();
+                if (leftPos < 0)
+                    leftPos = 0;
+                if (topPos < 0)
+                    topPos = 0;
+                $(".Login2window2").css("left", leftPos);
+                $(".Login2window2").css("top", "108px");
+            }
+            else if (val == "Login") {
+                $(".loginpopupindex").show();
+                $(".signuppopupindex").hide();
+
+                var leftPos = ($(window).width() - $(".Login2window").width()) / 2 + $(document.body).scrollLeft();
+                var topPos = ($(window).height() - $(".Login2window").height()) / 2 + $(document.body).scrollTop();
+                if (leftPos < 0)
+                    leftPos = 0;
+                if (topPos < 0)
+                    topPos = 0;
+                $(".Login2window2").css("left", leftPos);
+                $(".Login2window2").css("top", "108px");
+            }
+        });
+
+        var returnUrl = document.location.href;
+        $(".aLogin").click(function () {
+            var redirectHome = false;
+            if (returnUrl.indexOf('Activation') != -1 || returnUrl.indexOf('Forgot') != -1 || returnUrl.indexOf('ogin') != -1 || returnUrl.indexOf('egistration') != -1)
+                redirectHome = true;
+            displayLoginHeader(returnUrl, redirectHome);
+            $(".loginpopupindex").show();
+            $(".signuppopupindex").hide();
+        });
+        $(".LoginloginPopupCloseHeader").click(function () {
+            $(".spc-ui-LogindialogHeader").hide();
+            $(".popupforgot").hide();
+        });
+
+
+        $(".termsclose").click(function () {
+            $(".spc-ui-headerterms").hide();
+        });
+
+        //on escape key press
+        document.onkeydown = function (evt) {
+            evt = evt || window.event;
+            if (evt.keyCode == 27) {
+                $(".spc-ui-LogindialogHeader").hide();
+                $(".spc-ui-dialog").hide();
+                $(".popupforgot").hide();
+
+                $(".spc-ui-dialog2").hide();
+                $(".spc-ui-dialog").find(".resultListItems").html("");
+                $(".resultListItems").css("height", "auto");
+                $(".resultListItems").css("overflow", "visible");
+                $(".spc-ui-dialog").find(".popupFooter").html("");
+            }
+        };
+        $(".aLogout").click(function () {
+            LogOut(false);
+        });
+        var cookie = getCookie(".ASPXAUTHSPC");
+        $(".goHome").click(function () {
+            if (cookie != null && cookie != "") {
+                var userType = $(".userType")[0].value;
+                if (userType == "1")
+                    window.location.href = "/Blogger/Dashboard";
+                else if (userType == "2")
+                    window.location.href = "/Advertiser/DashBoard";
+            }
+            else
+                window.location.href = "/";
+        });
+
+        if (cookie != null && cookie != "") {
+            var userType = $(".userType")[0].value;
+            $("#authenticatedUser").show();
+            $("#genUserRightMenu").hide();
+            if (userType == "1") {
+                //                $('#publisherMenu').find('.left1 a').css("padding", "1px");
+                //                $('#publisherMenu').find('.left2 a').css("padding", "1px");
+                //                $('#publisherMenu').find('.left3 a').css("padding", "0px");
+                $("#sponscerMenu").hide();
+                $("#publisherMenu").show();
+                $("#genUserMenu").hide();
+            }
+            else if (userType == "2") {
+                $('#sponscerMenu').find('.left1 a').css("padding", "0px");
+                $('#sponscerMenu').find('.left2 a').css("padding", "0px");
+                $('#sponscerMenu').find('.left3 a').css("padding", "0px");
+                $("#sponscerMenu").show();
+                $("#publisherMenu").hide();
+                $("#genUserMenu").hide();
+            }
+            else {
+                $("#sponscerMenu").hide();
+                $("#publisherMenu").hide();
+                $("#genUserMenu").show();
+            }
+        }
+        else {
+            $("#sponscerMenu").hide();
+            $("#publisherMenu").hide();
+            $("#genUserMenu").show();
+            $("#authenticatedUser").hide();
+            $("#genUserRightMenu").show();
+        }
+        //        var isDisplayCart = $(".isDisplayCart")[0].value;
+        //        $(".isDisplayCart").hide();
+        //        if (isDisplayCart == "1")
+        //            $(".isDisplayCart").show();
+        //        else
+        //            $(".isDisplayCart").hide();
+
+        /*feedback button*/
+
+        var feedback_btn = document.getElementById("feedback");
+        var feedback_link = feedback_btn.getElementsByTagName("a")[0];
+
+        // Check for browsers that don't support CSS3 transforms or IE's filters
+        if (feedback_btn.style.transform == undefined && feedback_btn.style.WebkitTransform == undefined && feedback_btn.style.MozTransform == undefined && feedback_btn.style.OTransform == undefined && feedback_btn.filters == undefined) {
+
+            // Swap width with height, change padding
+            feedback_link.style.width = "15px";
+            feedback_link.style.height = "70px";
+            feedback_link.style.padding = "16px 8px";
+        }
+
+        // OnClick event here
+        var currentUserName = $("#headerLogin_hdnUserName").val();
+        var currentEmailId = $("#headerLogin_hdnUserEmailId").val();
+        if (currentUserName == 0 || currentEmailId == 0) {
+            feedback_link.onclick = function (e) {
+                //                    e.preventDefault();
+                TINY.box.show({ html: '<h4>A feedback form would go here</h4><div style="display:none;" id="feedbackformerrmessage"></div><label for="name" class="cntct_name1">Name<span>*</span></label> <input type="text" name="name" class="txtbox_name" id="feedback_txtUsername"><label for="email" class="cntct_name1"><br>Email<span>*</span> </label><input type="text" name="email" class="txtbox_name" id="feedback_txtEmailId"><br><label for="message" class="cntct_name1">Subject<span>*</span> </label><input type="text" name="email" id="feedback_txtSubject"><br><label for="message" class="cntct_name1">Message<span>*</span> </label><textarea class="txtbox_name1" name="message" id="feedback_txtMessage"></textarea><br><input type="button" onclick="ValidateSubmitFeedback();" value="Submit" class="orange_large_button" /><br/><span style="color:#ff0000">* MandatoryFields</span>', width: 369 })
+            };
+        }
+        else {
+            feedback_link.onclick = function (e) {
+                //                    e.preventDefault();
+                TINY.box.show({ html: '<h4>A feedback form would go here</h4><div style="display:none;" id="feedbackformerrmessage"></div><label for="name" class="cntct_name1">Name<span>*</span></label> <input type="text" name="name" class="txtbox_name" id="feedback_txtUsername" value="' + currentUserName + '"><label for="email" class="cntct_name1"><br>Email<span>*</span> </label><input type="text" name="email" class="txtbox_name" id="feedback_txtEmailId" value=' + currentEmailId + '><br><label for="message" class="cntct_name1">Subject<span>*</span> </label><input type="text" name="email" id="feedback_txtSubject"><br><label for="message" class="cntct_name1">Message<span>*</span> </label><textarea class="txtbox_name1" name="message" id="feedback_txtMessage"></textarea><br><input type="button" onclick="ValidateSubmitFeedback();" value="Submit" class="orange_large_button" /><br/><span style="color:#ff0000">* MandatoryFields</span>', width: 369 })
+            };
+        }
+
+
+    });
+</script>
+<script type="text/javascript">
+
+    $(function () {
+
+        //When hovering over the main nav link we find the flight pnr status link to the corresponding link.
+        $('.links ul li.adv-dashboard').hover(function () {
+            //Find a child of 'this' with a class of .sub_nav and make the beauty fadeIn.
+            $(this).find('.divArrow').addClass("imgMenu");
+            $(this).find('.sub-menu').fadeIn(20);
+        }, function () {
+            //Do the same again, only fadeOut this time.
+            $(this).find('.divArrow').removeClass("imgMenu");
+            $(this).find('.sub-menu').fadeOut(50);
+        });
+
+
+        $('.links ul li.adv-myaccount').hover(function () {
+            $(this).find('.divArrow').addClass("imgMenu");
+            $(this).find('.sub-menu').fadeIn(50);
+        }, function () {
+            $(this).find('.divArrow').removeClass("imgMenu");
+            $(this).find('.sub-menu').fadeOut(50);
+        });
+
+
+        //When hovering over the main nav link we find the flight pnr status link to the corresponding link.
+        $('.links ul li.pub-dashboard').hover(function () {
+            //Find a child of 'this' with a class of .sub_nav and make the beauty fadeIn.
+            $(this).find('.divArrow').addClass("imgMenu");
+            $(this).find('.sub-menu').fadeIn(20);
+        }, function () {
+            //Do the same again, only fadeOut this time.
+            $(this).find('.divArrow').removeClass("imgMenu");
+            $(this).find('.sub-menu').fadeOut(50);
+        });
+
+
+        $('.links ul li.pub-manageBlogs').hover(function () {
+            $(this).find('.divArrow').addClass("imgMenu");
+            $(this).find('.sub-menu').fadeIn(50);
+        }, function () {
+            $(this).find('.divArrow').removeClass("imgMenu");
+            $(this).find('.sub-menu').fadeOut(50);
+        });
+
+        $('.links ul li.pub-myaccount').hover(function () {
+            $(this).find('.divArrow').addClass("imgMenu");
+            $(this).find('.sub-menu').fadeIn(50);
+        }, function () {
+            $(this).find('.divArrow').removeClass("imgMenu");
+            $(this).find('.sub-menu').fadeOut(50);
+        });
+
+    });
+</script>
+<div class="navigation">
+    <input name="headerLogin$isDisplayCart" type="hidden" id="headerLogin_isDisplayCart" class="isDisplayCart" value="1">
+    <input name="headerLogin$hdnUserType" type="hidden" id="headerLogin_hdnUserType" class="userType" value="0">
+    <input name="headerLogin$hdnUserName" type="hidden" id="headerLogin_hdnUserName" class="userName" value="0">
+    <input name="headerLogin$hdnUserEmailId" type="hidden" id="headerLogin_hdnUserEmailId" class="userEmailId" value="0">
+    <div id="naver_contain" class="background color linen">
+        <div class="inner">
+            <div class="left_contain">
+                <a href="http://www.giveaway.ly" class="logo-main">
+                    <div class="logo larger">
+                        Giveaway.ly</div>
+                </a>
+                <div class="links">
+                    <ul id="genUserMenu" style="display: none;">
+                        <li><a href="/Advertiser/Dashboard" title="Sponsor">Advertiser</a></li>
+                        <li><a href="/Blogger/Dashboard">Blogger</a></li>
+                        <li><a href="/Advertiser/Dashboard" title="Choose Blog to Advertiser">Create Campaign</a></li>
+                    </ul>
+                    <ul id="sponscerMenu" class="naverer textcolor blacker" style="display: none;">
+                        <li class="adv-dashboard"><a href="/Advertiser/Dashboard">Dashboard</a>
+                            <div class="divArrow">
+                            </div>
+                            <ul class="sub-menu" style="display: none;">
+                                <li><a href="/Advertiser/Dashboard" title="">My Dashboard</a> </li>
+                                <li><a href="/Advertiser/Reports/Inprogress" title="">Reports</a> </li>
+                                <li class="last"><a href="/Advertiser/MyNotifications" title="">Notifications</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a id="menuCreateCampaign" href="/Advertiser/Dashboard#featured-advertisers">Create Campaign</a></li>
+                        <li class="adv-myaccount"><a href="/Advertiser/MyAccount">My Account</a>
+                            <div class="divArrow">
+                            </div>
+                            <ul class="sub-menu" style="display: none;">
+                                <li><a href="/Advertiser/MyAccount" title="">Account Settings</a> </li>
+                                <li class="last"><a href="/Advertiser/PaymentDetails" title="">Payment Details</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul id="publisherMenu" style="display: none;">
+                        <li class="pub-dashboard"><a href="/Blogger/Dashboard">Dashboard</a>
+                            <div class="divArrow">
+                            </div>
+                            <ul class="sub-menu" style="display: none;">
+                                <li><a href="/Blogger/Dashboard">My Dashboard</a></li>
+                                <li><a href="/Blogger/IntegratedReports">Reports</a></li>
+                                <li class="last"><a href="/Blogger/MyNotifications">Notifications</a></li>
+                            </ul>
+                        </li>
+                        <li class="pub-manageBlogs"><a href="/Blogger/MyBlogs">Manage Blogs</a>
+                            <div class="divArrow">
+                            </div>
+                            <ul class="sub-menu" style="display: none;">
+                                <li><a href="/Blogger/MyBlogs">My Blogs</a></li>
+                                <li><a href="/Blogger/AddBlog">Add Blog</a></li>
+                                <li class="last"><a href="/Blogger/Blogs/rejected">Rejected Blogs</a></li>
+                            </ul>
+                        </li>
+                        <li class="pub-myaccount"><a href="/Blogger/MyProfile">My Account</a>
+                            <div class="divArrow">
+                            </div>
+                            <ul class="sub-menu" style="display: none">
+                                <li><a href="/Blogger/MyProfile">Account Settings</a></li>
+                                <li><a href="/Blogger/Payment">Payments</a></li>
+                                <li class="last"><a href="/Blogger/Affiliate">Affiliates</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="right_contain">
+                <a id="genUserRightMenu" href="javascript:void(0);" class="aLogin"><span class="login" style="display:none">
+                    Login</span></a> <a id="authenticatedUser" href="javascript:void(0);" class="aLogout">
+                        <span class="login">Logout</span></a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--popup-->
+<div class="spc-ui-LogindialogHeader" style="display: none;">
+    <div class="LoginshieldHeader">
+    </div>
+    <div id="drag_login" class="LoginwindowHeader Loginalpha30Header Loginwindow2Header">
+        <div class="LogincontentHeader">
+            <!--new popup start-->
+            <div class="login_main loginpopupindex">
+                <div class="login_popup_container">
+                    <div class="login_popup_box_hdng">
+                        <div class="login_box_details">
+                            Login
+                        </div>
+                        <div class="popupclosebutton LoginloginPopupCloseHeader">
+                        </div>
+                    </div>
+                    <div class="login_lft">
+                        <h3>
+                            Existing User? Login Now</h3>
+                        <div class=" loginPopupErrorsHeader" style="width: 291px; margin-left: 1px;">
+                        </div>
+                        <form action="https://www.giveaway.ly/Login" method="post" id="formLoginPopup" onsubmit="return validateLoginPopupAllHeader(this);">
+                        <div class="login_row">
+                            <label for="login_email">
+                                Email ID
+                            </label>
+                            <input type="text" id="txtLoginPopupEmailIdHeader" name="login_email">
+                        </div>
+                        <div class="login_row">
+                            <label for="login_pwd">
+                                Password
+                            </label>
+                            <input type="password" id="txtLoginPopupPasswordHeader" name="login_pwd">
+                        </div>
+                        <div class="login_sign">
+                            <input type="submit" value="Login" id="btnLoginPopupHeader" class="blue_large_button btnLoginPopupHeader" name="Login">
+                            <img id="imgLoginPopupHeader" class="Loading" style="visibility: hidden" src="/Images/SpcLoading.gif" alt="">
+                            <a class="frgot apopupForgot">Forgot Password?</a>
+                        </div>
+                        </form>
+                        <!--new forgot -->
+                        <div id="forgotdivErr">
+                        </div>
+                        <div class="popupforgot" style="display: none; overflow: hidden;">
+                            <h3>
+                                Forgot Password?</h3>
+                            <div id="forgotdivReSendMail" style="width: 283px; margin-left: 1px;">
+                            </div>
+                            <div class="login_row">
+                                <label for="n_name">
+                                    Email Id
+                                </label>
+                                <input type="text" id="forgottxtEmailField" name="n_name">
+                            </div>
+                            <div class="login_sign">
+                                <input type="button" value="Send email " id="forgotbtnSendMail" class="blue_large_button" name="Login">
+                                <img id="forgotimgSendMail" style="visibility: hidden" src="/Images/SpcLoading.gif" alt="No Image">
+                            </div>
+                        </div>
+                        <!--new forgot end  -->
+                        <br>
+                    </div>
+                    <div class="login_dvder">
+                        <img src="/Images/logdvider.jpg" width="1" height="177"></div>
+                    <div class="login_rgt">
+                        <h3>
+                            New User? Its Free to Sign up</h3>
+                        <div class="login_rg_cnt">
+                            Don’t have an account? It's free to signup and only takes a minute.</div>
+                        <div class="login_signup">
+                            <input type="button" value="Sign Up" id="btnSignu" class="blue_large_button popupindex" name="Login">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- new popup end-->
+            <!-- new popup start sign up-->
+            <div class="login_main signuppopupindex" style="display: none;">
+                <div class="signuppopup_border">
+                    <div class="paypal_bg">
+                        <div class="login_box_details">
+                            SignUp
+                        </div>
+                        <div class="popupclosebutton LoginloginPopupCloseHeader">
+                        </div>
+                    </div>
+                    <div class="login_lft">
+                        <h3 id="headingSignup">
+                            New User? Its Free to Sign up</h3>
+                        <div id="divSignupErrorsSignpopup" class="signUpErrorsSignpopup" style="width: 287px;
+                            margin-left: 0px;">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                I am
+                            </label>
+                            <select id="selectUserSignpopup" name="i am">
+                                <option selected="selected" value="Selected">Select</option>
+                                <option value="Sponsor">Advertiser</option>
+                                <option value="Publisher">Blogger</option>
+                            </select>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Email Id
+                            </label>
+                            <input type="text" id="txtEmailIdSignpopup" name="n_name">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Name
+                            </label>
+                            <input type="text" id="txtFirstNameSignpopup" name="n_name">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Password
+                            </label>
+                            <input type="password" id="txtPasswordSignpopup" name="n_name">
+                        </div>
+                        <div class="login_row">
+                            <label for="n_name">
+                                Repeat
+                            </label>
+                            <input type="password" id="txtRepeatPasswordSignpopup" name="n_name">
+                        </div>
+                        <div class="login_terms">
+                            <label>
+                                &nbsp;</label>
+                            <input type="checkbox" id="n_tacSignpopup" name="n_tac">
+                            <a href="/terms" target="_blank">Terms and Conditions</a></div>
+                        <div class="login_sign">
+                            <input type="button" value="Sign Up" id="btnRegisterSignpopup" class="blue_large_button" name="Login">
+                            <img id="imgRegisterSignpopup" style="visibility: hidden;" src="/Images/SpcLoading.gif" alt="No Image">
+                        </div>
+                    </div>
+                    <div class="login_dvder">
+                        <img src="/Images/logdvider.jpg" width="1" height="177"></div>
+                    <div class="login_rgt">
+                        <h3>
+                            Existing User? Login Now</h3>
+                        <div class="login_rg_cnt">
+                            Already have an account? Login using your registered email address and password.
+                        </div>
+                        <div class="login_signup">
+                            <input type="button" value="Login" id="popupin" class="blue_large_button popupindex" name="Login">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- new popup end signup -->
+        </div>
+    </div>
+</div>
+<div id="feedback" style="display: none;">
+    <a href="javascript:void(0);">feedback</a>
+</div>
+<!--terms popup start
+                
+    <div class="spc-ui-headerterms">
+        <div class="shield">
+        </div>
+        <div class="window window2">
+            <div id="loginForm" class="form noverify loginForm content myprofile">
+                <div class="innerContent">
+                    <div class="popup_border">
+                        <div class="paypal_bg">
+                            <div class="forgetpassword PopupTitle">
+                            </div>
+                            <div class="popupclosebutton termsclose">
+                               </div>
+                        </div>
+                        <div class="white_bg">
+                            <div class="resultListItems">
+                            </div>
+                            <div class="popupFooter">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                terms popup end-->
+
+	   	<div id="wrapper">
+		  <!-- header -->
+			<!-- main -->
+			<div id="main">
+                    <div class="body_inner_forms">
+                        <div>
+                        <div class="commonpagetitle"><h3>Privacy Policy:</h3></div>
+                        <div class="commonpagetext">
+                        <p>
+                        Giveaway.ly is committed to ensuring that your privacy is protected.
+                        Should we ask you to provide certain information by which you can be identified when using this website,
+                        then you can be assured that it will only be used in accordance with this privacy statement.
+                        </p>
+                        <p>
+                        This Privacy Policy provides an explanation as to what happens 
+                        to any personal data that you provide to us, or that we collect from you.
+                        </p>
+                        <p>
+                        We reserve the right to make periodic changes to our privacy policy without notice. 
+                        </p>
+                        <div class="commonpagetitle"><h4>Information We Collect</h4></div>
+                      <ul>
+                      <li>Details of your visits to our website and the resources that you access,
+                       including, but not limited to, traffic data, location data, weblogs and other communication data.</li>
+                       <li>2.	Information that you provide by filling in forms on our website, such as when you signup to our newsletter,
+                        register for information. Though we don’t store any of your payment details at our end
+                         (It stays at the merchant processor (PayPal / 2CO/ Payment gateway) Information provided to
+                          us when you communicate with us for any reason.</li>
+                          
+                      </ul>
+                      <div class="commonpagetitle"><h4>Use of Cookies</h4></div>
+                      <p>
+                      We may gather information about your computer for our services and to provide statistical information regarding
+                       the use of our website to our advertisers. Such information will not identify you personally it is statistical
+                        data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
+                      </p>
+                      <div class="commonpagetitle"><h4>Use of Your Information</h4></div>
+                      <p>
+                      The information that we collect and store relating to you is primarily used to enable us to provide
+                       our services to you. In addition, we may use the information for the following purposes:
+                      </p>
+                      <ul>
+                      <li>To provide you with information requested from us, relating to our products or services.
+                       To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.</li>
+                       <li>To meet our contractual commitments to you.</li>
+                       <li>To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.</li>
+                      </ul>
+                      <p>
+                      All email addresses and other contact information is used internally only and is NEVER sold,
+                       rented, or otherwise passed on to anybody outside of our company. We value your privacy.
+                        Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may,
+                         on occasion, provide them with aggregate statistical information about our visitors.
+                      </p>
+                      <div class="commonpagetitle"><h4>Third Party Links</h4></div>
+                      <p>
+                      You might find links to third party websites on our website.
+                       These websites should have their own privacy policies which you should check.
+                        We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+                      </p>
+                      <div class="commonpagetitle"><h4>Consent</h4></div>
+                      <p>
+                      By using this site, you consent to the collection and use of information as outlined in the above documentation.
+                       If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect,
+                        how we use it, and under what circumstances we disclose it.
+                      </p>
+                      <div class="commonpagetitle"><h4>Questions or Comments:</h4></div>
+                      <p>
+                      If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at <a href="mailto:cs@giveaway.ly">cs@giveaway.ly</a><br> or by mail to<br> 2510 Warren Ave<br>
+Cheyenne,<br> WY 82001-3163.
+
+                      </p>
+                        </div>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div class="clear">
+                        </div>
+                    </div>
+            </div>
+			<!-- footer -->
+			 
+    
+    <script type="text/javascript">
+        $(document).ready(function() {
+        $('#linkaffiliate').click(function() {
+        window.location.href = "/JoinAffiliate";
+             });
+        });
+    </script>
+    
+    
+<div id="footer">
+    <!-- cards -->
+    <div class="cards">
+        We Accept all Major Credit Cards
+        <ul>
+            <li>
+                <img src="/Images/visa.png" alt="VISA" title="VISA" width="41" height="28"></li>
+            <li>
+                <img src="/Images/mastercard.png" alt="Mastercard" title="Mastercard" width="41" height="28"></li>
+            <li>
+                <img src="/Images/paypal.png" alt="PayPal" title="PayPal" width="41" height="28"></li>
+            <li>
+                <img src="/Images/am-express.png" alt="American Express" title="American Express" width="41" height="28"></li>
+        </ul>
+    </div>
+    <div class="wrapp-block">
+        <!-- follow -->
+        <div class="follow">
+            <span>Follow us on: </span>
+            <ul>
+                <li><a href="http://www.facebook.com/giveaway.ly" target="_blank" title="Facebook" class="fb">
+                    Facebook</a></li>
+                <li><a href="http://www.twitter.com/giveawayly" target="_blank" title="Twitter" class="tw">Twitter</a></li>
+                <li><a href="javascript:void(0);" title="Google+" target="_blank" class="gplus">Google+</a></li>
+                
+            </ul>
+        </div>
+        <!-- links -->
+        <ul class="links">
+            <li><a href="/">* Home</a></li>
+            <li><a href="/aboutus">* About</a></li>
+            <li><a href="/ContactUs">* Support</a></li>
+            <li><a href="http://blog.giveaway.ly/">* Blog</a></li>
+            <li><a id="linkaffiliate">* Affiliate Program</a></li>
+        </ul>
+        <p>
+            © 2013 Giveaway.ly <a href="/Terms">Terms</a> / <a href="/Privacy">Privacy</a>
+            / <a href="/Refunds">Refunds</a> / <a href="/faqs.aspx">FAQs</a></p>
+    </div>
+</div>
+<!--[if (lt IE 10)]>
+    <script type="text/javascript">
+		var jQval = $.fn.val;
+		$.fn.val = function (value) {
+			if (!arguments.length) {
+				return $(this).attr("value") === $(this).attr("placeholder") ? "" : $(this).attr("value");
+			}
+			return jQval.call(this, value);
+		};
+        function setPlaceHolder(objf) {
+            var obj = $(objf);
+            var strr = obj.attr('placeholder');
+            if ($.trim(obj.attr("value")) == '') {
+                obj.val(strr);
+                obj.attr("style", "color: #999999; font-style:italic");
+            }
+        }
+        function removePlaceHolder(objf) {
+            var obj = $(objf);
+            var strr = obj.attr('placeholder');
+            if (obj.attr("value") == strr) {
+                obj.val('');
+                obj.removeAttr('style');
+                
+            }
+        }
+        function initPlaceHolders(objs) {            
+            if(objs == null)
+                objs = $('body');
+            $.each(objs.find("input[placeholder][type='text']"), function(index, value) {
+                setPlaceHolder(value);
+            });
+        }
+        $(document).ready(function() {
+            $("body").delegate("input[placeholder][type='text']", "focus", function() {
+                removePlaceHolder(this);
+            });
+            $("body").delegate("input[placeholder][type='text']", "blur", function() {
+                setPlaceHolder(this);
+            });
+        });
+    </script>
+<![endif]-->
+<!--google analytics-->
+					<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39363501-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- end google analytics -->
+
+		</div>
+	</div>
+
+
+</body></html>
