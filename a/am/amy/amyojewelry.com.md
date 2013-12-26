@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amyojewelry.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625043801id_/http%3A//www.amyojewelry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amyojewelry.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226041911id_/http%3A//www.amyojewelry.com/privacy-policy) for the most accurate reproduction.*
 
-# Trendy Boho Fashion Jewelry, Midi Rings + Style Tips | AMY O. Jewelry - Accessories Make Your Outfit
+# Trendy Boho Fashion Jewelry, Bridal + Hair Accessories | AMY O. Jewelry
 
 ## Privacy Policy
 
