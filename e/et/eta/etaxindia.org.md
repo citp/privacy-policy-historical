@@ -1,39 +1,33 @@
-> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502110458id_/http%3A//www.etaxindia.org/2008/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226072042id_/http%3A//www.lessmytax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy for TAX INDIA , http://www.etaxindia.org**
+Privacy Policy for LessMyTax (http://www.LessMyTax.com) If you require any more information or have any questions about our privacy policy, please feel free to [contact ](http://www.lessmytax.com/contact/ "contact ")us by email at LessMyTax at yahoo.com.  At LessMyTax.com (henceforth referred as “LessMyTax”), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by “LessMyTax” and how it is used.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin at etaxindia.org
+“LessMyTax” is hosted on wordpress and uses analytics tools like Google Analytics and Stat Counter. Though the owners of “Less My Tax” do not directly use any log files, but since the site is hosted on wordpress, there may be some log files being used by wordpress. The information inside the log files may include internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-At etaxindia.com (henceforth referred as “Tax India”), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by “Tax India” and how it is used.
+Cookies and Web Beacons: “Less My Tax” does not use cookies.
 
-“Tax India” is hosted on wordpress  and uses analytics tools like Google Analytics and Stat Counter. Though the owners of “Tax India” do not directly use any log files, but since the site is hosted on wordpress, there may be some log files being used wordpress. The information inside the log files may include internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+DoubleClick DART Cookie:
 
-Cookies and Web Beacons: “Tax India” does not use cookies.  
-DoubleClick DART Cookie:  
-.:: Google, as a third party vendor, uses cookies to serve ads on your site.  
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URLs – http://www.google.com/privacy_ads.html & https://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-en-et-asblog_2009-03-23&medium=link
+.:: Google, as a third party vendor, uses cookies to serve ads on your site.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
-.:: Google Adsense  
-.:: Kontera
+.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on “Tax India” send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network
 
-“Tax India” has no access to or control over these cookies that are used by third-party advertisers.
+privacy policy at the following URLs – http://www.google.com/privacy_ads.html & https://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-en-et-asblog_2009-03-23&medium=link
 
-The advertisers may also use “Interest Based Advertising” – the details of which can be found on one of the URL’s mentioned above.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. “Tax India”‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
+.:: Google Adsense
 
+.:: Infolinks
 
-Related posts:
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on “Less My Tax” send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-  1. [Copyright Policy and Fair Use Guide](http://www.etaxindia.org/2008/11/copyright-policy-and-fair-use-guide.html "Copyright Policy and Fair Use Guide")
-  2. [Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum](http://www.etaxindia.org/2009/03/chandigarh-excise-policy-2009-2010.html "Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum")
-  3. [Tax Evaders Beware, TPIS is Coming](http://www.etaxindia.org/2009/11/tax-evaders-beware-tpis-is-coming.html "Tax Evaders Beware, TPIS is Coming")
+“Less My Tax” has no access to or control over these cookies that are used by third-party advertisers.
 
+The advertisers may also use “Interest Based advertising” – the details of which can be found on one of the URL’s mentioned above.
 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. “Less My Tax”‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
