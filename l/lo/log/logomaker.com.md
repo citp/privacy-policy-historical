@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logomaker.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629112611id_/http%3A//www.logomaker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logomaker.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226042142id_/http%3A//www.logomaker.com/privacy.html) for the most accurate reproduction.*
 
 # The Free Online Logo Design Privacy Policy
 
@@ -18,4 +18,4 @@ If you have questions about this policy, please contact us at [support@logomaker
 
 Effective: May 1, 2012
 
-© 2012, Millcreek Creative Ventures, Inc. 
+© Copyright 2012-2014, Millcreek Creative Ventures, Inc. 
