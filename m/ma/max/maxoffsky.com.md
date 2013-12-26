@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxoffsky.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530013113id_/http%3A//maxoffsky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxoffsky.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226150015id_/http%3A//maxoffsky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Maxoffsky |
 
@@ -81,6 +81,8 @@ More information on processing Personal Information may be requested from the Ow
 ### The Rights of Data Subjects
 
 Those persons to whom the Data refer have the right, at any time, to know whether their data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Owner of the Processing System.
+
+The following two tabs change content below.
 
   * Bio
   * Latest Posts
