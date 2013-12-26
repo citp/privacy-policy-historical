@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530023202id_/http%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226072652id_/http%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
 
 # MarieForleo.com | Privacy Policy
 
@@ -18,7 +18,7 @@ We may collect and store personal or other information that you voluntarily supp
 
 We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features.. We also may provide your information to third parties, such as service providers and contractors, , for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features. We also may provide your information to third parties, such as service providers and contractors, for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
 
 Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, web logs, through email, or in chat areas – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
@@ -34,12 +34,10 @@ Please also note that as our business grows, we may buy or sell various assets. 
 
 Your information is stored at the list server that delivers Marieforleo.com newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Marieforleo.com newsletters.
 
-All of the newsletters or emails that are sent to you by Marieforleo.com include an unsubscribe link in them. You can remove yourself at any time from our newsletters or mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you…
+All of the newsletters or emails that are sent to you by Marieforleo.com include an unsubscribe link in them. You can remove yourself at any time from our newsletters or mailing list by clicking on the unsubscribe link that can be found in every communication that we send you.
 
 **Disclaimer**
 
 Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
 
-If you have any questions or concerns regarding our privacy policy please direct them to :
-
-[Info@marieforleo.com](mailto:info@marieforleo.com)
+If you have any questions or concerns regarding our privacy policy please direct them to [Info@marieforleo.com](mailto:info@marieforleo.com).
