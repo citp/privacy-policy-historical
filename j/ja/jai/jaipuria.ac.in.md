@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jaipuria.ac.in privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625144820id_/http%3A//www.jaipuria.ac.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaipuria.ac.in privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226015630id_/http%3A//www.jaipuria.ac.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jaipuria Institute of Management
+# Privacy Policy | Best MBA Colleges | Top MBA Colleges in India - Jaipuria Institute of Management
 
 We respect the privacy of those who visit our web site. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users:
 
