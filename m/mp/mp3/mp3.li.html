@@ -1,20 +1,163 @@
-<!--The following is the downloaded HTML source of the mp3.li privacy policy that was archived on 2013-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623045252id_/http%3A//mp3.li/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mp3.li privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226042317id_/http%3A//mp3.li/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-language" content="">
 <meta http-equiv="content-style-type" content="text/css">
 <title>Privacy Policy</title>
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="http://mp3.li/themes/default/main.css" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+
+
+<script src="http://dl3.mp3.li/js/mp3_links.js" type="text/javascript"></script>
 <script type="text/javascript"> 
+function getURLParameter(name) {
+  return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
+}
+
 var md_url = "http://mp3.li";
+document.calc_downloads = false;
+
+  mp3Resolver.swf_location = "http://mp3.li/templates/mp3_resolver/player.swf"; 
+  mp3Resolver.application  = "mp3li";
+  mp3Resolver.enable_reporting  = true;
+  mp3Resolver.SERVICE_LIMITED = 70099;
+	mp3Resolver.api_servers  =  [ { server : "http://dl3.mp3.li", used   : 0 },
+								{ server : "http://dl4.mp3.li", used   : 0 }];
+	
+    mp3Resolver.limit_message_template  = "<div class=\"message_holder\">\n\
+    <div class=\"link_content\"><div class=\"mdl\">\n\
+    <div class=\"mdl_txt\">\n\
+            Sorry but you have reached download limit per hour. Please wait or <br> follow\n\
+    <a style=\"font-weight: bold;\" href=\"http://mediadrug.com/\">this link</a> to get unlimited music downloads for totally free of cost.</div>\n\
+    </div></div></div>";
+	
+$(document).ready(function(){
+    var show_gp = getCookie('show_gp'); //+document.URL
+    //if (show_gp == 'y') $('.icon_1').hide();
+
+    var show_fb = getCookie('show_fb'); //+document.URL
+    //if (show_fb == 'y') $('.icon_2').hide();
+
+    var show_tw = getCookie('show_tw'); //+document.URL
+    //if (show_tw == 'y') $('.icon_3').hide();
+  
+});
 </script>
-<script src="http://mp3.li/templates/md.js" type="text/javascript"></script>
+
+<script src="http://mp3.li/templates/md.js?r=53657432" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://mp3.li/js/jquery.blockUI.js"></script>
+<script type="text/javascript" src="http://scriptjava.net/source/scriptjava/scriptjava.js"></script>
+
+<script type="text/javascript">
+function setCookie(c_name,value,exdays) {
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate() + exdays);
+    var c_value = escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+    document.cookie = c_name + "=" + c_value;
+}
+
+function getCookie(name) {
+    var dc = document.cookie;
+    var prefix = name + "=";
+    var begin = dc.indexOf("; " + prefix);
+    if (begin == -1) {
+        begin = dc.indexOf(prefix);
+        if (begin != 0) return null;
+    }
+    else
+    {
+        begin += 2;
+        var end = document.cookie.indexOf(";", begin);
+        if (end == -1) {
+        end = dc.length;
+        }
+    }
+    return unescape(dc.substring(begin + prefix.length, end));
+} 
+
+$(document).ready(function() {
+  var ua = navigator.userAgent.toLowerCase();
+  var isAndroid = ua.indexOf("android") > -1;
+
+  if (isAndroid) { 
+      var i_ban = getCookie('i_ban');
+      
+      //i_ban = 'n';
+      if (i_ban != 'y') {
+        var date = new Date();
+        date.setTime(date.getTime()+(360*24*60*60));
+        document.cookie = 'i_ban=y; path=/; domain=.mp3.li; expires='+date.toGMTString();
+
+        $.blockUI({
+            message: $('#i_banner'),
+            css: {
+                centerX : true,
+                centerY : true,
+                width   : '500px',
+                height  : '200px',
+                left    : '50%',
+                top     : '50%',
+                margin  : (-200/2) + 'px 0 0 ' + (-500/2) + 'px'
+                //left    : (($(window).width()/2)-(500/2)) + 'px', 
+                //top     : (($(window).height()/2)-(200/2)) + 'px',
+            }
+        });
+
+        $('.blockOverlay').height($(document).height() + 'px');
+        $('.blockOverlay').width($(document).width() + 'px');
+
+        $('.blockOverlay, #i_banner .btn_no').click(function() {
+            $.unblockUI();
+        });
+      }
+  }
+});
+</script>
+
+<script type="text/javascript" src="http://mp3.li/js/share42/share42.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-528b54771422004d"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{lang: 'ru'}</script>
+<script type="text/javascript">
+(function($) {  
+$(function() {  
+  $('.share42init').prepend('<div style="float: left !important;"><div class="g-plusone" data-href="http://mp3.li/" data-callback="onCallback"></div></div>');
+})  
+})(jQuery) 
+</script>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<style>
+#___plusone_0 {  
+  cursor: pointer;  
+  margin: 0 6px 0 0 !important;  
+  vertical-align: top; 
+  float: left !important; 
+}
+</style>
+
+
+<!-- Google Analytics General Code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-41489941-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage">
+
 <div id="wrapper">
   <div id="wrapper_content">
         <!-- Header begin -->
@@ -36,50 +179,107 @@ var md_url = "http://mp3.li";
         </form>
       </div>
 
-      <!--div id="snb">
-        <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-        <a class="addthis_button_facebook"></a>
-        <a class="addthis_button_twitter"></a>
-        <a class="addthis_button_google"></a>
-        <a class="addthis_button_myspace"></a>
-        <a class="addthis_button_orkut"></a>
-        <a class="addthis_button_digg"></a>
-        <a class="addthis_button_blogger"></a>
-        <a class="addthis_button_wordpress"></a>
-        <a class="addthis_button_livejournal"></a>
-        <a class="addthis_button_tumblr"></a>
-        <a class="addthis_button_compact"></a>
-        <a class="addthis_counter addthis_bubble_style"></a>
-        </div>
-        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f0f31e2686e0f39"></script>
-      </div-->
-
       <div class="icons">
         <div class="icon_1">
-          <a href="https://twitter.com/mp3_li" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mp3_li</a>
-          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+          <!-- Place this tag where you want the +1 button to render. -->
+          <div class="g-plusone" data-href="http://mp3.li/" data-callback="onCallback"></div>
+          <script type="text/javascript">
+          function onCallback(args){
+            console.log(args);
+
+            if (args.state == 'on') {
+                $('ul.playlist li.sm2_ready').css({
+                    overflow: 'visible',
+                });
+
+                setTimeout(function() {
+                  //$('.icon_1').fadeOut();
+                  
+                  var date = new Date();
+                  date.setTime(date.getTime()+(256*24*60*60*1000));
+                  document.cookie = 'show_gp'+'=y; path=/; domain=.mp3.li; expires='+date.toGMTString(); //+document.URL
+                  setCookie('is_shared', 1, 7);
+
+                  $('.link_holder4 .title').html('<br /><b>Thank you for your assistance now you can continue downloading tracks!</b>');
+                  $('ul.playlist li.sm2_ready').height(125);
+                  console.log('G+ LIKE');
+                }, 5000);
+              }
+          }
+          </script>
+
+          <!-- Place this tag after the last +1 button tag. -->
+          <script type="text/javascript">
+            (function() {
+              var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+              po.src = 'https://apis.google.com/js/plusone.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+          </script>
         </div>
 
         <div class="icon_2">
-          <div class="fb-like-box" data-href="http://www.facebook.com/www.mp3.li" data-width="292" data-show-faces="false" data-stream="false" data-header="false"></div>
           <div id="fb-root"></div>
-          <script>(function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-          fjs.parentNode.insertBefore(js, fjs);
-          }(document, 'script', 'facebook-jssdk'));</script>
+          <script src="http://connect.facebook.net/en_US/all.js"></script>
+          <script type="text/javascript">
+            window.fbAsyncInit = function() {
+              // init the FB JS SDK
+              FB.init({
+                appId      : '581952048537015',                    // App ID from the app dashboard
+                channelUrl : 'http://mp3.li/',                     // Channel file for x-domain comms
+                status     : true,                                 // Check Facebook Login status
+                xfbml      : true,                                 // Look for social plugins on the page
+                cookie     : true
+              });
+            };
+          </script>
+          <fb:like show_faces="false" width="80" height="30" layout="button_count" data-href="http://www.facebook.com/www.mp3.li"></fb:like>
         </div>
 
-        <div class="icon_3">
-          <div class="g-plusone" data-size="tall"></div>
-          <script type="text/javascript">
-          (function() {
-          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-          po.src = 'https://apis.google.com/js/plusone.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-          })();
+        <div class="icon_3"> 
+          <a href="http://developers.google.com/analytics" class="twitter-share-button" data-lang="en">Tweet</a>
+          <script type="text/javascript" charset="utf-8">
+            window.twttr = (function (d,s,id) {
+              var t, js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+              js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+              return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+            }(document, "script", "twitter-wjs"));
+        
+            //My custom function
+            function after_click() {
+              //$('.icon_3').fadeOut();
+              
+              var date = new Date();
+              date.setTime(date.getTime()+(256*24*60*60*1000));
+              document.cookie = 'show_tw'+'=y; path=/; domain=.mp3.li; expires='+date.toGMTString(); //+document.URL
+              setCookie('is_shared', 1, 7);
+
+              $('.link_holder4').html('<br /><b>Thank you for your assistance now you can continue downloading tracks!</b>');
+              $('ul.playlist li.sm2_ready').height(125);
+              console.log('TW LIKE')
+            }
+
+            function trackTwitter(intent_event) {
+              console.log(intent_event);
+
+              if (intent_event) {
+                var opt_pagePath;
+                if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+                      console.log('extractParamFromUri');
+                      after_click();
+                }
+
+                console.log('TW to GOOGLE Analytics');
+                _gaq.push(['_trackSocial', 'twitter', 'tweet', opt_pagePath]);
+              }
+            }
+
+            //Bind the custom function with twitter event
+            twttr.ready(function (twttr) {
+              twttr.events.bind('tweet', trackTwitter);
+              //twttr.events.bind('click', after_click);
+            });
           </script>
         </div>
       </div>
@@ -136,30 +336,30 @@ var md_url = "http://mp3.li";
 
     <div class="left_holder">
     <div class="block">
-                  <div class="list_item"><div class="list_pos">1.</div><div class="list_item_text">Bob Dylan - <a href="http://mp3.li/index.php?q=Bob%20Dylan%20-%20Talkin%27%20New%20York" title="Bob Dylan - Talkin' New York">Talkin' New York</a></div></div>
-                        <div class="list_item"><div class="list_pos">2.</div><div class="list_item_text">The Beatles - <a href="http://mp3.li/index.php?q=The%20Beatles%20-%20Yellow%20Submarine" title="The Beatles - Yellow Submarine">Yellow Submarine</a></div></div>
-                        <div class="list_item"><div class="list_pos">3.</div><div class="list_item_text">Paul van Dyk - <a href="http://mp3.li/index.php?q=Paul%20van%20Dyk%20-%20Another%20Way" title="Paul van Dyk - Another Way">Another Way</a></div></div>
-                        <div class="list_item"><div class="list_pos">4.</div><div class="list_item_text">Brenda Fassie - <a href="http://mp3.li/index.php?q=Brenda%20Fassie%20-%20Weekend%20Special" title="Brenda Fassie - Weekend Special">Weekend Special</a></div></div>
-                        <div class="list_item"><div class="list_pos">5.</div><div class="list_item_text">John Holt - <a href="http://mp3.li/index.php?q=John%20Holt%20-%20Police%20in%20Helicopter" title="John Holt - Police in Helicopter">Police in Helicopter</a></div></div>
-                        <div class="list_item"><div class="list_pos">6.</div><div class="list_item_text">Era - <a href="http://mp3.li/index.php?q=Era%20-%20Hymne" title="Era - Hymne">Hymne</a></div></div>
-                        <div class="list_item"><div class="list_pos">7.</div><div class="list_item_text">Ludacris - <a href="http://mp3.li/index.php?q=Ludacris%20-%20Splash%20Waterfalls" title="Ludacris - Splash Waterfalls">Splash Waterfalls</a></div></div>
-                        <div class="list_item"><div class="list_pos">8.</div><div class="list_item_text">Edenbridge - <a href="http://mp3.li/index.php?q=Edenbridge%20-%20Higher" title="Edenbridge - Higher">Higher</a></div></div>
-                        <div class="list_item"><div class="list_pos">9.</div><div class="list_item_text">Gang Starr - <a href="http://mp3.li/index.php?q=Gang%20Starr%20-%20JFK%202%20LAX" title="Gang Starr - JFK 2 LAX">JFK 2 LAX</a></div></div>
-                        <div class="list_item"><div class="list_pos">10.</div><div class="list_item_text">Karel Gott - <a href="http://mp3.li/index.php?q=Karel%20Gott%20-%20Mit%20Dir" title="Karel Gott - Mit Dir">Mit Dir</a></div></div>
+                  <div class="list_item"><div class="list_pos">1.</div><div class="list_item_text">The Ventures - <a href="http://mp3.li/index.php?q=The%20Ventures%20-%20Feliz%20Navidad" title="The Ventures - Feliz Navidad">Feliz Navidad</a></div></div>
+                        <div class="list_item"><div class="list_pos">2.</div><div class="list_item_text">Stone Temple Pilots - <a href="http://mp3.li/index.php?q=Stone%20Temple%20Pilots%20-%20Hazy%20Daze" title="Stone Temple Pilots - Hazy Daze">Hazy Daze</a></div></div>
+                        <div class="list_item"><div class="list_pos">3.</div><div class="list_item_text">Shania Twain - <a href="http://mp3.li/index.php?q=Shania%20Twain%20-%20Forever%20and%20for%20Always" title="Shania Twain - Forever and for Always">Forever and for Always</a></div></div>
+                        <div class="list_item"><div class="list_pos">4.</div><div class="list_item_text">Bee Gees - <a href="http://mp3.li/index.php?q=Bee%20Gees%20-%20You%20Should%20Be%20Dancing" title="Bee Gees - You Should Be Dancing">You Should Be Dancing</a></div></div>
+                        <div class="list_item"><div class="list_pos">5.</div><div class="list_item_text">Sevendust - <a href="http://mp3.li/index.php?q=Sevendust%20-%20Driven" title="Sevendust - Driven">Driven</a></div></div>
+                        <div class="list_item"><div class="list_pos">6.</div><div class="list_item_text">Guns N' Roses - <a href="http://mp3.li/index.php?q=Guns%20N%27%20Roses%20-%20Patience" title="Guns N' Roses - Patience">Patience</a></div></div>
+                        <div class="list_item"><div class="list_pos">7.</div><div class="list_item_text">Judas Priest - <a href="http://mp3.li/index.php?q=Judas%20Priest%20-%20Hell%20Patrol" title="Judas Priest - Hell Patrol">Hell Patrol</a></div></div>
+                        <div class="list_item"><div class="list_pos">8.</div><div class="list_item_text">Leonard Cohen - <a href="http://mp3.li/index.php?q=Leonard%20Cohen%20-%20Who%20by%20Fire" title="Leonard Cohen - Who by Fire">Who by Fire</a></div></div>
+                        <div class="list_item"><div class="list_pos">9.</div><div class="list_item_text">Leonard Cohen - <a href="http://mp3.li/index.php?q=Leonard%20Cohen%20-%20Boogie%20Street" title="Leonard Cohen - Boogie Street">Boogie Street</a></div></div>
+                        <div class="list_item"><div class="list_pos">10.</div><div class="list_item_text">Paradise Lost - <a href="http://mp3.li/index.php?q=Paradise%20Lost%20-%20Once%20Solemn" title="Paradise Lost - Once Solemn">Once Solemn</a></div></div>
                                                                                                                                         </div>
   </div>
   <div class="right_holder">
     <div class="block">
-                                                                                                                                          <div class="list_item"><div class="list_pos">11.</div><div class="list_item_text">Madeleine Peyroux - <a href="http://mp3.li/index.php?q=Madeleine%20Peyroux%20-%20Dance%20Me%20to%20the%20End%20of%20Love" title="Madeleine Peyroux - Dance Me to the End of Love">Dance Me to the End of Love</a></div></div>
-                        <div class="list_item"><div class="list_pos">12.</div><div class="list_item_text">Kanye West - <a href="http://mp3.li/index.php?q=Kanye%20West%20-%20Stronger" title="Kanye West - Stronger">Stronger</a></div></div>
-                        <div class="list_item"><div class="list_pos">13.</div><div class="list_item_text">Natasha Bedingfield - <a href="http://mp3.li/index.php?q=Natasha%20Bedingfield%20-%20Pocketful%20of%20Sunshine" title="Natasha Bedingfield - Pocketful of Sunshine">Pocketful of Sunshine</a></div></div>
-                        <div class="list_item"><div class="list_pos">14.</div><div class="list_item_text">The Cloud Room - <a href="http://mp3.li/index.php?q=The%20Cloud%20Room%20-%20Blackout%21" title="The Cloud Room - Blackout!">Blackout!</a></div></div>
-                        <div class="list_item"><div class="list_pos">15.</div><div class="list_item_text">Trey Songz - <a href="http://mp3.li/index.php?q=Trey%20Songz%20-%20Love%20Faces" title="Trey Songz - Love Faces">Love Faces</a></div></div>
-                        <div class="list_item"><div class="list_pos">16.</div><div class="list_item_text">Sway - <a href="http://mp3.li/index.php?q=Sway%20-%20Hype%20Boys" title="Sway - Hype Boys">Hype Boys</a></div></div>
-                        <div class="list_item"><div class="list_pos">17.</div><div class="list_item_text">Cinema Bizarre - <a href="http://mp3.li/index.php?q=Cinema%20Bizarre%20-%20After%20the%20Rain" title="Cinema Bizarre - After the Rain">After the Rain</a></div></div>
-                        <div class="list_item"><div class="list_pos">18.</div><div class="list_item_text">Kid Cudi - <a href="http://mp3.li/index.php?q=Kid%20Cudi%20-%20Up%20Up%20%26%20Away" title="Kid Cudi - Up Up &amp; Away">Up Up &amp; Away</a></div></div>
-                        <div class="list_item"><div class="list_pos">19.</div><div class="list_item_text">Iyaz - <a href="http://mp3.li/index.php?q=Iyaz%20-%20Replay" title="Iyaz - Replay">Replay</a></div></div>
-                        <div class="list_item"><div class="list_pos">20.</div><div class="list_item_text">Mekaal Hasan Band - <a href="http://mp3.li/index.php?q=Mekaal%20Hasan%20Band%20-%20Chal%20Bulleya" title="Mekaal Hasan Band - Chal Bulleya">Chal Bulleya</a></div></div>
+                                                                                                                                          <div class="list_item"><div class="list_pos">11.</div><div class="list_item_text">Sonic Youth - <a href="http://mp3.li/index.php?q=Sonic%20Youth%20-%20Shaking%20Hell" title="Sonic Youth - Shaking Hell">Shaking Hell</a></div></div>
+                        <div class="list_item"><div class="list_pos">12.</div><div class="list_item_text">Rod Stewart - <a href="http://mp3.li/index.php?q=Rod%20Stewart%20-%20When%20I%20Was%20Your%20Man" title="Rod Stewart - When I Was Your Man">When I Was Your Man</a></div></div>
+                        <div class="list_item"><div class="list_pos">13.</div><div class="list_item_text">The Vandals - <a href="http://mp3.li/index.php?q=The%20Vandals%20-%20Sheena%20Is%20a%20Punk%20Rocker" title="The Vandals - Sheena Is a Punk Rocker">Sheena Is a Punk Rocker</a></div></div>
+                        <div class="list_item"><div class="list_pos">14.</div><div class="list_item_text">The Gap Band - <a href="http://mp3.li/index.php?q=The%20Gap%20Band%20-%20First%20Lover" title="The Gap Band - First Lover">First Lover</a></div></div>
+                        <div class="list_item"><div class="list_pos">15.</div><div class="list_item_text">Gregorian - <a href="http://mp3.li/index.php?q=Gregorian%20-%20Be" title="Gregorian - Be">Be</a></div></div>
+                        <div class="list_item"><div class="list_pos">16.</div><div class="list_item_text">Taking Back Sunday - <a href="http://mp3.li/index.php?q=Taking%20Back%20Sunday%20-%20You%27re%20So%20Last%20Summer" title="Taking Back Sunday - You're So Last Summer">You're So Last Summer</a></div></div>
+                        <div class="list_item"><div class="list_pos">17.</div><div class="list_item_text">Taking Back Sunday - <a href="http://mp3.li/index.php?q=Taking%20Back%20Sunday%20-%20MakeDamnSure" title="Taking Back Sunday - MakeDamnSure">MakeDamnSure</a></div></div>
+                        <div class="list_item"><div class="list_pos">18.</div><div class="list_item_text">Above &amp; Beyond - <a href="http://mp3.li/index.php?q=Above%20%26%20Beyond%20-%20Stealing%20Time" title="Above &amp; Beyond - Stealing Time">Stealing Time</a></div></div>
+                        <div class="list_item"><div class="list_pos">19.</div><div class="list_item_text">Ahmet Kaya - <a href="http://mp3.li/index.php?q=Ahmet%20Kaya%20-%20Beni%20Bul%20Anne" title="Ahmet Kaya - Beni Bul Anne">Beni Bul Anne</a></div></div>
+                        <div class="list_item"><div class="list_pos">20.</div><div class="list_item_text">Volker Rosin - <a href="http://mp3.li/index.php?q=Volker%20Rosin%20-%20Theo%20Theo" title="Volker Rosin - Theo Theo">Theo Theo</a></div></div>
                 </div>
   </div>
   
@@ -185,20 +385,16 @@ var sc_project=7797414;
 var sc_invisible=1; 
 var sc_security="4e8ada70"; 
 </script>
+
 <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
-<script type="text/javascript">
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-41489941-1']);
-    _gaq.push(['_trackPageview']);
 
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+<div id="i_banner" style="display:none;">
+  <a href="http://mediadrug.com/update/android/mediadrug-android.apk">
+    <img src="/images/ban_MD_google_play_1.png" width="500">
+  </a>
+</div>
 
-</script>
 
 
 <!-- End mp3li.footer template -->
