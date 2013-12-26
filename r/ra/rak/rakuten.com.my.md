@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rakuten.com.my privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505192954id_/http%3A//www.rakuten.com.my/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.com.my privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226070649id_/http%3A//www.rakuten.com.my/policy/privacy) for the most accurate reproduction.*
 
 # Rakuten Malaysia: Privacy Policy - Our Policies
 
@@ -56,11 +56,11 @@ By using this Site, User signifies User’s acceptance of this policy. If User d
 If Users have any questions about this Privacy Policy, the practices of this service, or User’s dealings with this site, please contact RMSB at:
 
 RMSB  
-111, Level 1, Block B, Kelana Square  
-Jalan SS7/26, Kelana Jaya  
-47301 Petaling Jaya, Selangor Darul Ehsan
+Suite 23.02, Level 23, Centrepoint South  
+Lingkaran Syed Putra, Mid Valley City  
+59200 Kuala Lumpur
 
-Tel: 03-7887 3885  
+Tel: 03-2282 8262  
 Email: my-inquiry@rakuten.com.my
 
- _This document was last updated on January 1, 2013_
+ _This document was last updated on September 1, 2013_
