@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flixel.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613034353id_/http%3A//flixel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixel.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226171001id_/http%3A//flixel.com/privacy) for the most accurate reproduction.*
 
-# Flixel | Privacy Policy
+# Flixel | Privacy
 
 ## Flixel Privacy Policy
 
@@ -20,7 +20,7 @@ Certain visitors to Flixel’s website and iPhone App to voluntarily interact wi
 
 **Aggregated Statistics**
 
-Flixel may collect statistics about the behavior of visitors to its website and iPhone App. Flixel may display this information publicly or provide it to others. However, Flixel does not disclose personally-identifying information other than as described below. 
+Flixel may collect statistics about the behaviour of visitors to its website and iPhone App. Flixel may display this information publicly or provide it to others. However, Flixel does not disclose personally-identifying information other than as described below.
 
 **Protection of Certain Personally-Identifying Information**
 
@@ -34,9 +34,13 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Ads appearing on any of our websites and iPhone App be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Flixel and does not cover the use of cookies by any advertisers.
 
-**Filters**
+**Flixel Cinemagraph Pro Features**
 
-Free and paid Filters are subject to change anytime without prior notice. Flixel will do its best to supplement any existing paid filters bought with more improved filters updated that are of similar effect at no extra charge. Due to Flixel’s commitment in providing the fastest and best visual experience possible, we reserve the right to modify any filters in the future. In essence, a paid filter is owned for as long as the filter is available in the App and we reserve the right to eliminate the filter at any time.
+Paid pro features are subject to change anytime without prior notice. Flixel will do its best to supplement any existing features bought with more improved features updated that are of similar effect at no extra charge. Due to Flixel’s commitment in providing the fastest and best visual experience possible, we reserve the right to modify any Pro features in the future. In essence, a paid feature is owned for as long as the feature is available in the App and we reserve the right to eliminate or modify them anytime. 
+
+**HD Flixels**
+
+**Paid HD capabilities are subject to change anytime without prior notice. It is always recommended that HD Flixels are saved in the camera roll to ensure access at all times.**
 
 **Unsolicited Ideas**
 
