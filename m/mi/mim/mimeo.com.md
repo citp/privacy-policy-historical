@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628031537id_/http%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226203217id_/http%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mimeo.com
 
-## [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.mimeo.com)
+## [](http://privacy.truste.com/privacy-seal/Mimeo-com,-Inc-/validation?rid=b6a8bdae-ac77-4ac2-b273-5c037ca03e96)
 
 Mimeo.com, Inc. (“Mimeo”) recognizes that your privacy and the protection of your personal information is important to you and is committed to protecting your privacy. This Privacy Policy describes the measures taken by us to protect your privacy in connection with your use of www.mimeo.com (our “Site”). This Privacy Statement discloses our collection, use and storage practices surrounding the personal information we collect from you. “Personal Information” is defined as the information such as your name, and email that can be used to identify you.
 
