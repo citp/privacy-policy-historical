@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuitybrands.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626181757id_/http%3A//www.acuitybrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitybrands.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226154505id_/http%3A//www.acuitybrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
