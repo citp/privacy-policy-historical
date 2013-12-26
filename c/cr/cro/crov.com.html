@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the crov.com privacy policy that was archived on 2013-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513065902id_/http%3A//crov.com/info/policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crov.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226120041id_/http%3A//www.crov.com/info/policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="UTF-8">
     <title>Security &amp; Privacy</title>
     
-    <link rel="stylesheet" href="http://assets.crov.com/style/core,_base.css+core,_layout.css+core,_component.css+core,_public.css+ui,_ui_icon.css+mall,_mall_public.css+mall,_mall_directory.css+mall,_mall_help_center.css.pagespeed.cc.MOc6qk2Xt0.css">
-    
-    
-	
+    <link rel="stylesheet" href="/resources/style/core/base.css">
+    <link rel="stylesheet" href="/resources/style/core/layout.css">
+    <link rel="stylesheet" href="/resources/style/core/component.css">
+	<link rel="stylesheet" href="/resources/style/core/public.css">
 
-    
-    
-    
-	
+    <link rel="stylesheet" href="/resources/style/ui/ui_icon.css">
+    <link rel="stylesheet" href="/resources/style/mall/mall_public.css">
+    <link rel="stylesheet" href="/resources/style/mall/mall_directory.css">
+	<link rel="stylesheet" href="/resources/style/mall/mall_help_center.css">
     
 </head>
 <body>
@@ -23,8 +23,9 @@
             <ul class="tp-nav-lst">
                 <li><a href="/uc" rel="nofollow">My CROV</a><i class="v-sep">|</i></li>
                 <li><a href="/help" target="_blank">Help</a><i class="v-sep">|</i></li>
+				<li><a href="http://www.crov.com/trademessenger/index.html" rel="nofollow" target="_blank"><i class="icon icon-chat"></i>TradeMessenger</a><i class="v-sep">|</i></li>
                 <li class="tp-nav-cn"><a href="http://seller.crov.com" rel="nofollow" target="_blank">&nbsp;</a><i class="v-sep">|</i></li>
-                <li><a rel="nofollow" href="http://www.made-in-china.com" target="_blank">Go to Made-in-China.com</a></li>
+                <li><a rel="nofollow" href="http://www.made-in-china.com" target="_blank" onclick="trackOutboundLink(this, 'Outbound Links', 'Made-in-China.com'); return false;">Go to Made-in-China.com</a></li>
             </ul>
         </div>
         <form id="headFacebookForm">
@@ -36,23 +37,20 @@
 </form>
 <iframe name="signIn_loading_iframe" style="display:none;border:none;" id="signIn_loading_iframe" src="" width="0" height="0"></iframe>
 <div class="log-status">
-    <form id="headFacebookForm">
-		<input type="hidden" name="isSeller" value="0">
-		<input type="hidden" name="signInQBGatewayType" value="">
-		<input type="hidden" name="email" value="">
-	</form>
+	<p id="login_buyer">
 	    	<span class="mr10">Welcome! </span>
     	<a rel="nofollow" href="/sign-up">Join Free</a>
 		<i class="v-sep">|</i>
 		<a rel="nofollow" href="/sign-in/buyer-sign-in">Sign In</a>
-		<span class="gray">or</span>
-		<a href="javascript:signUpFacebook()">Sign In with <i class="icon icon-mall"></i></a>
-	</div>
+				<span class="gray">or</span>
+        <a rel="nofollow" href="/social/sign-in-with-facebook">Sign In with <i class="icon icon-mall"></i></a>
+				</p>
+</div>
 
 
     </div>
 </div>    <div class="grid header">
-    <h1><a href="/"><img src="http://assets.crov.com/images/xlogo.png.pagespeed.ic.M1lO3VwBEW.png" alt="CROV.com"></a></h1>
+    <h1><a href="/"><img src="/resources/images/logo.png" alt="CROV.com"></a></h1>
 	<div class="header-banner">
 		<ul class="sup-lst f11">
 			<li class="fig">
@@ -64,7 +62,7 @@
 			<li class="fig sup-golden">
 				<i class="fig-img icon-idx"></i>
                 <div class="fig-info">
-					100% gold<br> sellers
+					Original <br> Suppliers
 				</div>
 			</li>
 			<li class="fig last sup-protect">
@@ -80,7 +78,7 @@
 	<div id="pd-srh">
         <div class="pd-srh-area">
             <form name="searchForm" id="searchForm" method="get" data-event="exclude">
-                <input rel="nofollow" type="text" maxlength="40" name="keyword" id="txtKeyword" class="txt-pd-key box-shadow">
+                <input rel="nofollow" type="text" name="keyword" id="txtKeyword" autocomplete="off" class="txt-pd-key box-shadow">
                 <div class="sel-cat">
                     <div class="sel-cat-lnk" id="divSearchCategory">
                         <input type="text" class="box-shadow" readonly="readonly" value="All Categories" id="txtCategory">
@@ -117,10 +115,15 @@
         </div>
         <div class="cart-lnk">
             <i class="icon icon-mall icon-cart"></i>
-            <a rel="nofollow" href="/shopping-cart">Cart <span id="cartItemNum">0  </span> item(s)</a>
-        </div>
+            <a rel="nofollow" href="/shopping-cart">Cart <span id="cartItemNum"> 0  </span> item(s)</a>
+			<i class="icon icon-mall icon-wish ml20"></i>
+			<a rel="nofollow" href="/uc/wish-list/product-list" id="intoWishList">Wish List<span id="wishNum"></span></a>
+		</div>
     </div>
-</div>	<div class="qk-visit clearfix">
+</div>
+<div class="pop pop-join" id="dialogQuickSignInOrUp"></div><link rel="stylesheet" href="/resources/style/core/jquery.autocomplete.css">
+
+	<div class="qk-visit clearfix">
 	<div class="qk-dir" id="divQuickDirContainer">
 		<div class="dir-toggle">
 			<span class="dir-toggle-btn">Categories<i class="icon icon-mall"></i></span>
@@ -143,11 +146,8 @@
 																		<li class="dir-sub-item">
 										 <a href="                &#9;&#9;&#9;/Bra-Accessories_300.html&#10;            ">Bra Accessories</a>
 										                                    </li>
-																		<li class="dir-sub-item">
-										 <a href="                &#9;&#9;&#9;/Costumes-Cosplay_420.html&#10;            ">Costumes &amp; Cosplay</a>
-										                                    </li>
 																		<li class="dir-sub-item last">
-										 <a href="                &#9;&#9;&#9;/Pajamas_330.html&#10;            ">Pajamas</a>
+										 <a href="                &#9;&#9;&#9;/Costumes-Cosplay_420.html&#10;            ">Costumes &amp; Cosplay</a>
 										                                    </li>
 									                                </ul>
             				</div>
@@ -548,11 +548,12 @@
 
 	<div class="grid footer">
         <p>Copyright © 2013 <a href="http://www.focuschina.com" target="_blank">Focus Technology Co.,Ltd.</a> All rights reserved.</p>
-        <p>Your use of this website constitutes acknowledgement and acceptance of our <a href="/info/agreement.htm">Terms of Use.</a></p>
+        <p>Your use of this website constitutes acknowledgement and acceptance of our <a href="/info/agreement.htm" rel="nofolow">Terms of Use.</a></p>
     </div>
-                                                                                                            <script src="http://assets.crov.com/script/jquery,_jquery-1.7.1.js,Mjm.XBe6jf7b2l.js+jqueryPlugin,_jquery.menu-aim.js+mall,_quick-navigation.js+mall,_search-bar.js.pagespeed.jc.ecf-J6OsS0.js"></script><script>eval(mod_pagespeed__WKB77cXLH);</script>
-                                                                                                        <script>eval(mod_pagespeed_AJB8D4c7q6);</script>
-                                                                                                        <script>eval(mod_pagespeed_DxbzLTkDfD);</script>
-                                                                                                        <script>eval(mod_pagespeed_EpVjcExt42);</script>
+                                                                                                            <script type="text/javascript" src="/resources/script/jquery/jquery-1.7.1.js"></script>
+                                                                                                        <script type="text/javascript" src="/resources/script/jqueryPlugin/jquery.menu-aim.js"></script>
+                                                                                                        <script type="text/javascript" src="/resources/script/jqueryPlugin/jquery.autocomplete.js"></script>
+                                                                                                        <script type="text/javascript" src="/resources/script/mall/quick-navigation.js"></script>
+                                                                                                        <script type="text/javascript" src="/resources/script/mall/search-bar.js"></script>
                                                     
 </body></html>
