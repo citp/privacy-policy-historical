@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chasepaymentech.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616150206id_/https%3A//www.chasepaymentech.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasepaymentech.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226162506id_/http%3A//www.chasepaymentech.com/privacypolicy) for the most accurate reproduction.*
 
 # None
 
@@ -28,12 +28,34 @@ Merchants are also required to comply with various rules and regulations of the 
 
 **Additional Internet Privacy Policies**
 
-**Cookies**. The Chase Paymentech website may create a small data file, or "cookie", on the hard drive of your computer in order to retain information that is used by our website. Chase Paymentech uses cookies for a number of purposes, including to:
+**Cookies:** By using this site you agree to the placement of cookies on your computer in accordance with the terms of this policy. If you do not wish to accept cookies from this site please either disable cookies or refrain from using this site.
 
-  * Access your information when you "sign in", so that we can provide you with customized content in online areas such as Chase Paymentech Online.
-  * Display the most appropriate banners to Chase Paymentech and third party offerings based on your activity while on Chase Paymentech's site.
-  * Conduct research to improve Chase Paymentech content and services.
-  * Require you to re-enter your Chase Paymentech password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents or otherwise accessing your account contents without authorization.
+  1. **What are Cookies?** A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can recognize you when you revisit and remember certain information about you. This can include which pages you have visited, choices you have made from menus, any specific information you have entered into forms and the time and date of your visit.
+  2. **Types of cookies:** There are two main types of cookies: 
+    * **Session cookies:** these are temporary cookies that expire at the end of a browser session; that is, when you leave the site. Session cookies allow the website to recognize you as you navigate between pages during a single browser session and allow you to use the website most efficiently. For example, session cookies enable a website to remember that a user has placed items in an online shopping basket.
+    * **Persistent cookies:** in contrast to session cookies, persistent cookies are stored on your equipment between browsing sessions until expiry or deletion. They therefore enable the website to "recognize" you on your return remember your preferences and tailor services to you.
+
+In addition to session cookies and persistent cookies, there may be other cookies which are set by the website which you have chosen to visit, such as this website, in order to provide us or third parties with information.
+
+  3. **Our use of Cookies:** We currently use, and may use in the future, the following types of cookies on this website.
+
+**We use session cookies to:**
+
+    * Help us maintain security and verify your details whilst you use the website as you navigate from page to page, which enables you to avoid having to re-enter your details each time you enter a new page.
+
+**We use persistent cookies to:**
+
+    * Help us maintain security and verify your details whilst you use the website as you navigate from page to page, which enables you to avoid having to re-enter your details each time you enter a new page.
+    * Remember how you have customized your use of this site, such as your preferred currency and time zone
+    * Collect and compile anonymous, aggregated information for statistical and evaluation purposes to help us understand how users use the website and help us improve the structure of our website.
+    * Access your information when you "sign in", so that we can provide you with customized content in online areas such as Chase Paymentech Online.
+    * Display the most appropriate banners to Chase Paymentech and third party offerings based on your activity while on Chase Paymentech's site.
+    * Conduct research to improve Chase Paymentech content and services.
+    * Require you to re-enter your Chase Paymentech password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents or otherwise accessing your account contents without authorization.
+
+Many cookies are designed to give you optimal usage of the web. For example, we use cookies to enable you to improve your user experience when using our website, e.g. a cookie which recognizes if your browser supports specific technology features. This helps, for example, in enabling web pages to be loaded more quickly when you request the download of a large file. In addition to cookies which send information to us, we also use cookies which collect information and send it to third parties. An example of this is Google Analytics. Please check the relevant third party website for more information about their use of cookies. Where this site allows such cookies to be set or you access other websites from this site using the links provided, the operators of these websites will use cookies in accordance with their own cookies policy, which may differ from ours. As with first party cookies, you are able to block third party cookies through your browser settings. Some of our cookies may collect and store your personal information, such as your name or email address. We are committed to respecting and protecting your privacy and will ensure that all personal information collected by us is kept and treated in accordance with this privacy policy.
+
+  4. **Refusing Cookies on this Site.** Most browsers are initially set to accept cookies. However, you have the ability to disable cookies if you wish, generally through changing your internet software browsing settings. It may also be possible to configure your browser settings to enable acceptance of specific cookies or to notify you each time a new cookie is about to be stored on your computer enabling you to decide whether to accept or reject the cookie. To manage your use of cookies there are various resources available to you, for example the “Help” section on your browser may assist you. You can also disable or delete the stored data used by technology similar to cookies, such as Local Shared Objects or Flash cookies, by managing your browser’s “add-on settings” or visiting the website of its manufacturer. As our cookies allow you to access some of our website’s essential features we recommend that you leave cookies enabled, otherwise, if cookies are disabled, it may mean that you experience reduced functionality or will be prevented from using this site altogether. 
 
 
 
@@ -66,4 +88,4 @@ Legal Department
 14221 Dallas Parkway  
 Dallas, Texas 75254
 
-(Last modified December 5, 2011)
+(Last modified August 5, 2013)
