@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleesl.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430170841id_/http%3A//simpleesl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleesl.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226061432id_/http%3A//simpleesl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | English Worksheets, Lesson Plans, Activities, Games, Puzzles
 
