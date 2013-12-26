@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventtravel.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605011853id_/http%3A//www.eventtravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventtravel.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226134912id_/http%3A//www.eventtravel.com/privacy) for the most accurate reproduction.*
 
 # Event Travel Privacy and Data Protection Policy
 
