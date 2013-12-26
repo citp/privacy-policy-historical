@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspin.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624072741id_/http%3A//codango.com/cdg/fnc/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspin.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226022329id_/http%3A//www.codango.com/cdg/fnc/legal/privacy) for the most accurate reproduction.*
 
 # Codango: Legal Terms
 
