@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawaiiantel.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620133346id_/http%3A//www.hawaiiantel.com/Support/PrivacyPolicy/tabid/440/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiiantel.net privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226204545id_/http%3A//www.hawaiiantel.com/Support/PrivacyPolicy/tabid/440/Default.aspx) for the most accurate reproduction.*
 
 # Hawaiian Telcom | Privacy Policy
 
