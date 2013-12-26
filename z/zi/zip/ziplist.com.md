@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziplist.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526103307id_/http%3A//www.ziplist.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziplist.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226193709id_/http%3A//www.ziplist.com/privacy_policy) for the most accurate reproduction.*
 
 # ZipList Privacy Policy
 
@@ -32,7 +32,7 @@ All of your Account Information will be kept private from other Users by default
 
 ## Collection and User of Aggregate Information
 
-Aggregate information is data we collect about group activity, and does not contain any personally identifiable information. Examples of such Aggregate Information include, but are not limited to, search queries on products, recipes or stores, checklists, types and quantities of items added to Lists, and data on how and when Users access ZipList. We collect this information in order to better understand how Users utilize ZipList with the goal to anticipate future User requirements and identify group trend activity. Understanding this Aggregate Information also allows us and third parties to tailor product and service offers to our Users.
+Aggregate information is data we collect about group activity, and does not contain any personally identifiable information. Examples of such Aggregate Information include, but are not limited to, search queries on products, recipes or stores, types and quantities of items added to Lists, and data on how and when Users access ZipList. We collect this information in order to better understand how Users utilize ZipList with the goal to anticipate future User requirements and identify group trend activity. Understanding this Aggregate Information also allows us and third parties to tailor product and service offers to our Users.
 
 We may also share Aggregate Information about our Users with third parties for various purposes, such as additional analysis of data for sales, marketing, performance and usability testing and advertising. 
 
