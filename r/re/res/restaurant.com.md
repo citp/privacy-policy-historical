@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626004810id_/http%3A//www.restaurant.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226025917id_/http%3A//www.restaurant.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -107,8 +107,7 @@ Arlington Heights, Illinois 60004
 Phone
      1-800-979-8985 Toll-free  
 (8:00a.m. – 8:00p.m. CST, Monday through Friday)  
-(8:00a.m. – 1:00p.m. CST, Saturday)  
-(11:00a.m. – 3:00p.m. CST, Sunday) 
+
 Email
     
 
