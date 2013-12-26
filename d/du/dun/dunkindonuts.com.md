@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223121920id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226113830id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dunkin' Donuts
 
@@ -198,7 +198,7 @@ In addition, we and our ad management partners may use these technologies to tra
 **8.      _Social Networking And Third Party Sites_**
 
   
-When you link to the DD Online Services through any social networking or third party sites, please remember that you are bound by the privacy policy of the social network or third-party site and we do not control and are not responsible for the privacy practices of such sites.  You should consult the privacy policy of such sites to determine the information practices of those sites.  
+When you link to the DD Online Services through any social networking or third party sites, applications or services, please remember that you are bound by the privacy policy of the social network or third-party site, application or service, and we do not control and are not responsible for the privacy practices of such sites. You should consult the privacy policy of such sites to determine the information practices of those sites.  
 
 
 **9.      _Children’s Online Privacy_**  
@@ -222,9 +222,7 @@ This English-language Privacy Policy is Dunkin’ Donuts’ official statement o
 If you have any questions regarding our privacy practices, you can email us at [customerservice@dunkinbrands.com](mailto:customerservice@dunkinbrands.com). You also can telephone us at 1-800-859-5339, send us a fax at 1-781-737-4000, or you can write to us at Dunkin’ Donuts Customer Service, Dunkin’ Brands, Inc., 130 Royall Street, Canton, MA 02021.  
 
 
-  
-©2006-2012.  DD IP Holder LLC name, design, logos and related marks are registered trademarks of DD IP Holder LLC.  All rights reserved.  
-
+©2006-2013. DD IP Holder LLC name, design, logos and related marks are registered trademarks of DD IP Holder LLC. All rights reserved.
 
   
-Last updated: October 2012
+Last updated: ** ** February 2013
