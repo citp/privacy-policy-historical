@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the follow.net privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609182003id_/http%3A//follow.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the follow.net privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226195339id_/http%3A//follow.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Follow.net
+# Follow.net - Competitive Intelligence Software
+
+#### Terms of Service
 
 What information do we collect?
 
