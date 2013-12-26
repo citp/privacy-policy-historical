@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teambuildingproject.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505161908id_/http%3A//teambuildingproject.com/tbp_bo.pl%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambuildingproject.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224530id_/http%3A//www.teambuildingproject.com%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ The TBP site contains links to other web sites. The TBP is not responsible for t
 
 There are various technologies, including "cookies", which can be used to provide you with tailored information from a web site. A cookie is an element of data that a web site. can send to your browser, which may then store it on your system. Some of the TBP pages use cookies or other technologies so that we can better serve you when you return to our site. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
-If you have any questions or comments about our privacy practices, please contact us via our online [contact form](https://web.archive.org/tbp_bo.pl?page=tbp_contact). We will gladly answer any questions you may have.
+If you have any questions or comments about our privacy practices, please contact us via our online [contact form](https://web.archive.org/?page=tbp_contact). We will gladly answer any questions you may have.
