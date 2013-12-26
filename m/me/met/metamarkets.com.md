@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the metamarkets.com privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328013841id_/http%3A//metamarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metamarkets.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226075135id_/http%3A//metamarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metamarkets
 
-## METAMARKETS GROUP, INC.
-
-## PRIVACY POLICY
+## Metamarkets Group, Inc. Privacy Policy
 
 Last Updated: August 26, 2011
 
@@ -16,8 +14,6 @@ Welcome to our Web site, www.metamarkets.com (the “Site”), owned by Metamark
 
 Personal information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
 
-## Collection of Information
-
 ## Passive Information Collection
 
 When you visit the Site, some information is automatically collected, such as your IP address, browser type, system type, the content and pages that you access on the Site, “referring URL” (i.e., the page from which you navigated to the Site), the pages you navigate to on the Site, and from which you leave the Site, as well as the time you spend on the Site.
@@ -28,11 +24,7 @@ Also, please be aware that third parties may set cookies on your hard drive or u
 
 ## Collection of Voluntarily Provided Information
 
-We collect personal information that our users provide to us in a variety of ways on the Site. For instance, when you request information about our services or otherwise communicate with us, we collect the personal information that you provide to us. We may collect personal information such as name, e-mail address, city, state, country, other demographic information, and your interests and preferences in these manners.
-
-## Information from Other Sources
-
-We may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you. If we do so, this policy governs any combined information that we maintain in personally identifiable format.
+We collect personal information that our users provide to us in a variety of ways on the Site. For instance, when you request information about our services or otherwise communicate with us, we collect the personal information that you provide to us. We may collect personal information such as name, e-mail address, city, state, country, other demographic information, and your interests and preferences in these manners. Information from Other Sources We may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you. If we do so, this policy governs any combined information that we maintain in personally identifiable format.
 
 ## Use of Personal Information
 
@@ -74,7 +66,7 @@ We may occasionally update this policy. When we do, we will also revise the “l
 
 If you have any questions, comments, or concerns about this privacy policy, please contact us using the following contact information:
 
-Metamarkets Group Inc.  
+**Metamarkets Group Inc.**  
 625 2nd Street, Suite #230  
 San Francisco, CA 94107  
-[info@metamarkets.com](mailto:info@metamarkets.com)
+info@metamarkets.com
