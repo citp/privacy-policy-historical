@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wp.io privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328065256id_/http%3A//wp.io/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wp.io privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226135717id_/http%3A//freelancewp.com/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | wp.io
+# Privacy & Cookie Policy | FreelanceWP
 
 Effective as of September 2012
 
