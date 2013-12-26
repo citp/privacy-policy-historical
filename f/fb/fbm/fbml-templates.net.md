@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbml-templates.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529080957id_/http%3A//howtosocialnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbml-templates.net privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226192855id_/http%3A//howtosocialnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | How To Social Network
 
