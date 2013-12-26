@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the typeaparent.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618085950id_/http%3A//typeaparent.com/about-type-a-parent/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeaparent.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226144323id_/http%3A//typeaparent.com/about-type-a-parent/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Type-A Parent
+# Privacy Policy
 
 Type-A Parent is committed to protecting your privacywhen you use our services (“Services”). In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
