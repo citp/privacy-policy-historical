@@ -1,100 +1,57 @@
-> *The following text is extracted and transformed from the thevideowire.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevideowire.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226030910id_/http%3A//www.thevideowire.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+PRIVACY NOTICE
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Last updated: December 2, 2012.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+TheVideoWire.com (also referred to herein as “us,” “we,” and the “Website”) respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice (the “Privacy Notice”) explains how we collect, use, and safeguard information on this website. Please read this Privacy Notice carefully. By visiting TheVideoWire.com, you acknowledge and accept the practices, terms, and conditions described in this Privacy Notice and the TheVideoWire.com Conditions of Use (the “Conditions of Use”), which is located at the URL and agree that any and all disputes, including, without limitation, those disputes arising over privacy, between you and TheVideoWire.com, its parent company(ies), subsidiary(ies), affiliated companies, principals, owners, board members, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assignees, will be subject to terms and conditions of this Privacy Notice and/or the Conditions of Use, as applicable.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+By visiting TheVideoWire.com after we post any changes to this Privacy Notice and/or the Conditions of Use, you accept the Privacy Notice and/or the Conditions of Use, as applicable, as modified.
 
-**Information Collection and Use**
+What Personal Information About Customers Does TheVideoWire.com Collect?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+The information we learn about our customers helps us personalize and continually improve at the service and features of TheVideoWire.com. Here are the types of information we collect:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Information You Give Us: We receive and may store any personal and financial information you enter on our Website or may give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our services and features. We may use the information that you provide for a variety of purposes, including to respond to your requests, to customize future options for you, to improve the overall quality of the Website, and to communicate with you, among other things.  
+Automatic Information: We may receive and store certain types of information whenever you interact with us. For example, like many other websites, we use “cookies” (described more fully below) to obtain certain types of non-personally identifiable information (i.e., your IP address) when your web browser accesses TheVideoWire.com. A number of companies and some web browsers offer utilities designed to help you visit websites anonymously. Although we will not be able to provide you with a personalized experience at TheVideoWire.com if we cannot recognize you, we want you to be aware that these tools may be available to you.  
+E-mail Communications: To help us make our e-mails more useful and interesting, we may elect to receive a confirmation when you open e-mail from TheVideoWire.com, if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences accordingly.  
+Information from Third Parties: We may provide you with the opportunity to interact with the site using your identity from third-party social networks, including, but not limited to, Facebook and Twitter. We do not own or operate these social networks; however, whenever you connect with such third-party social network, we will receive information from them, including information about actions you take. In some cases, in order to personalize the process of connecting, we may receive a limited amount of information even before you connect with the application or website. When you integrate from TheVideoWire.com to a third-party social network, personal information, including without limitation, your name, location, profile image, friends and friends’ profile images from your profile and/or other content you have provided such third-party social network may be shared from such social network and provided to us to provide a unique user experience. You may also opt to post or share media using this information generated by TheVideoWire.com to various third-party social networks.  
+You may choose to provide us access to your personal information on these sites, or you may opt out. If you have connected your Twitter account with TheVideoWire.com and would like to revoke access, you may do so here: http://twitter.com/settings/connections. If you would like to revoke TheVideoWire.com access to your Facebook profile information, you may revoke access here: http://www.facebook.com/settings/?tab=applications. At times, you may interact with the site using your identity from a third-party network by leaving a comment on the site. If you would like to remove a comment you have left on the site, you must contact TheVideoWire.com at info@TheVideoWire.com. We are under no obligation to remove comments that you have left on the Website.  
+We may ask advertisers to tell us how our users responded to the ads we showed them (and for comparison purposes, how other users who didn’t see the ads acted on their site). This data sharing, commonly known as “conversion tracking,” helps us measure our advertising effectiveness and improve the quality of the advertisements you see. We may receive information about whether or not you’ve seen or interacted with certain ads on other sites in order to measure the effectiveness of those ads.  
+YOU HEREBY ACKNOWLEDGE AND CONSENT THAT ANY INTEGRATED THIRD-PARTY SOCIAL NETWORK PROMOTIONS AND ADVERTISEMENTS FEATURED ON TheVideoWire.com MAY ACCESS, COLLECT, USE, REUSE AND STORE INFORMATION GATHERED FROM YOUR PROFILE ON SUCH THIRD-PARTY SOCIAL NETWORKING WEBSITE. YOU ACKNOWLEDGE AND AGREE THAT BY YOU CLICKING “YES” OR “I AGREE” YOU ARE AUTOMATICALLY OPTED INTO THE PROMOTION OR ADVERTISEMENT AND ALLOWS THE ACCESS OF YOUR PROFILE INFORMATION. YOU ALSO ACKNOWLEDGE, REPRESENT AND WARRANT THAT YOU HAVE AGREED TO SUCH THIRD-PARTY SOCIAL NETWORK WEBSITES’ PRIVACY POLICIES AND TERMS OF USE AND WILL INDEMNIFY AND HOLD US HARMLESS IN CONNECTION WITH ANY ACTUAL OR POTENTIAL CLAIMS, WHETHER OR NOT CONCERNING PRIVACY, ASSOCIATED WITH ANY TheVideoWire.com PROMOTION, ADVERTISEMENT OR CUSTOMIZED USER EXPIERENCE, AND YOU WILL ALSO INDEMNIFY AND HOLD US HARMLESS FOR ANY PRIVACY CLAIMS IN CONNECTION WITH SUCH THIRD-PARTY SOCIAL NETWORKS.  
+What About Cookies?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Cookies are alphanumeric identifiers (i.e., text) that may be delivered by a web server (like TheVideoWire.com) to your web browser to enable the delivering web server to recognize your browser for a variety of purposes, including to authenticate your use of or log-in to a secure website, to store and set your website preferences, and to provide you with personalized greetings, among other things, Because cookies are simple text and not “executable,” a cookie will not give your computer a virus or other harmful program.  
+The “Help” portion of the toolbar on most web browsers may tell you how to prevent your web browser from accepting new cookies, how to have your web browser notify you when you receive a new cookie, and how to disable cookies altogether. By disabling cookies altogether, however, you will not be able to take full advantage of some of TheVideoWire.com coolest features, and we therefore recommend that you leave cookies turned on, or at least instruct your web browser to make an exception for cookies sent to you byTheVideoWire.com.  
+Does TheVideoWire.com Share The Information It Receives?
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We may allow certain third-party companies to serve ads and/or collect certain anonymous information when you visit the Website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice and/or to opt-out of this type of advertising, please visit: http://www.networkadvertising.org/managing/opt_out.asp.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Third-Party Service Providers: We may utilize third party companies and/or individuals to perform certain functions on our behalf. Examples include, without limitation, to fulfill orders, to deliver packages, to send postal mail, e-mail, and other correspondence, to remove repetitive information from customer lists, to analyze data, to provide marketing assistance, to sponsor and/or conduct contests, sweepstakes, or promotions, to provide search results and links (including paid listings and links), to process credit card payments, and to provide customer service. These third party service providers may have access to the personal information we possess, but they will only be permitted to use that information they need to perform their specific functions, and will not be authorized by us to use such information for any other purpose.  
+Third-Party Social Networks: We may utilize third-party social networks (i.e. Facebook and Twitter) to create a more unique user experience by occasionally pairing advertisements we serve with relevant information we obtain via third-party social networks (only those to which you have given us permission to access) about you and your friends to make advertisements more interesting and more tailored to you and your friends. We only share the personally identifiable information visible in the social ad with the friend who can see the ad. You can opt out of having your information used in social ads by following the process described above.  
+Business Transfers: As we continue to develop our business, we might sell or buy websites, stores, subsidiaries, or business units. As is customary during the course of any such transaction, customer information is generally one of many business assets subject to transfer, but, in the event of such a transfer, personal information remains subject to the promises made in the Privacy Notice applicable thereto (unless, of course, the customer consents otherwise). Similarly, in the unlikely event that all or substantially all of the Website’s assets are acquired by a third party, customer information is likely to be one of the assets transferred as part of that acquisition.  
+Protection of TheVideoWire.com and Others: We may release account and other personal information when we believe such a release is necessary and/or appropriate to comply with the law, to prevent or aid in the prevention of any illegal activity or any suspected illegal activity and/or any criminal investigation thereof, to enforce, comply with and/or apply this Privacy Notice, our Conditions of Use, and any of our other agreements, and/or to maintain, protect, and/or enforce the rights, property, or safety of the Website and the Website’s parent company(ies), subsidiary(ies), affiliated companies, principals, owners, board members, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assigns, the Website’s users, subscribers, customers, or any others, as applicable. This includes, but is not limited to, the exchange of information with other companies and organizations for fraud protection and credit risk reduction, or in the preparation of and/or during the course of a lawsuit. This does not include the sale, rental, sharing, or other disclosure of personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice or as otherwise prohibited by law.  
+Your Consent: Unless specifically provided for herein, or as otherwise required by law, you acknowledge and agree that you will not receive any notice when the personal information we have collected will be sent to third parties…  
+How Secure Is My Personal Information?
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.  
+We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.  
+It is your responsibility to protect against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer and to close the web browser you used.  
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that the personally identifiable information that we collect will never be disclosed to and/or accessed by any third party in a manner that is inconsistent with this Privacy Notice.  
+What Information Can I Access?
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+TheVideoWire.com gives you access to a broad range of information about your account and your interactions with TheVideoWire.com for the limited purpose of viewing and, in certain cases, updating that information. The list of information you can access may change as our Website evolves.
 
-**Security**
+Are Children Allowed To Use TheVideoWire.com?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+TheVideoWire.com does NOT provide services to children or sell products for purchase by children.
 
-**Updating Your Information**
+Conditions Of Use, Notices, And Revisions
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+If you choose to visit TheVideoWire.com, your visit, any subsequent visit, and any dispute over privacy or any other matter related to the Website is subject to the terms of this Privacy Notice and the Conditions of Use, which include, among other things, your consent to limitations on any damages you may be entitled to, your agreement to waive any right to a trial you may have and your agreement to arbitrate any disputes, and application of the laws of the State of Maryland. If you have any concern about this Privacy Notice and/or the privacy of your personal information at TheVideoWire.com, please contact us with a thorough description of your concern, and we will try to address it.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Our business changes constantly, and our Website, this Privacy Notice and the Conditions of Use are subject to change as well. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but we are not obligated to do so, and you should check our Website frequently to see any changes to any of our policies that may affect you. Unless we specifically state otherwise, the Privacy Notice applies to all personal information that we may have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of personally identifiable information collected in the past without attempting to notify those affected customers.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
