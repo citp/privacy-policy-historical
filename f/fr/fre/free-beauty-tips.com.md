@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626004333id_/http%3A//www.glammedia.com/about_glam/legal/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226030612id_/http%3A//www.glammedia.com/about_glam/legal/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Glam Media
-
-[](http://www.glammedia.com/)
-
-  * [](http://www.glammedia.com/glamhealthrelatedsegments/)
-  * [](http://www.glammedia.com/foodie-top-100-restaurants-photo-credits/)
-  * [](http://www.glammedia.com/copyright-faqs/)
-  * [](http://www.glammedia.com/previous-privacy-policy/)
-  * [Home](http://www.glammedia.com/)
-  * [About Us](http://www.glammedia.com/about_glam/)
-  * [Verticals](http://www.glammedia.com/verticals/)
-  * [Creators](http://www.glammedia.com/content-creators/)
-  * [Brands](http://www.glammedia.com/brands/)
-  * [Technology](http://www.glammedia.com/technology/)
-
-
 
 **Glam Media, Inc.  
 Privacy and Security Policy**
@@ -101,7 +86,7 @@ This Privacy and Security Policy describes the kind of personally identifiable a
 
 Glam Media values our customers and guests and respects your concerns about online security and privacy. We believe in providing you with a safe and secure online experience. Our Privacy and Security Policy is intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. By visiting, or registering for a Glam Media Site, you hereby accept the policies and practices described in this Privacy and Security Policy and agree and expressly consent to Glam Media’s collection, use, and disclosure of the information that you provide, or that is collected about you. In addition to reviewing this Privacy and Security Policy, you should also read our [Terms of Use](http://www.glammedia.com/about_glam/legal/terms-of-use). Your use of any of the Glam Media Sites constitutes your agreement to its terms and conditions.
 
-Glam Media is committed to responsible online advertising and as such is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) (“NAI”). As a member of NAI, this Privacy and Security Policy provides you with notice of the types of information Glam Media may passively collect about you when you view a Glam Media Advertisement on the Glam Media Network or a Non-Affiliated Site, and provides you with a choice to opt out of receiving future customized, targeted advertisements from Glam Media advertisers.
+Glam Media is committed to responsible online advertising and as such is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) (“NAI”) and adheres to the NAI Code of Conduct. As a member of the NAI, this Privacy and Security Policy provides you with notice of the types of information Glam Media may passively collect about you when you view a Glam Media Advertisement on the Glam Media Network or a Non-Affiliated Site, and provides you with a choice to opt out of receiving future customized, targeted advertisements from Glam Media advertisers.
 
 Please note that Glam Media is not responsible for and cannot control the privacy policies or privacy practices of the Glam Media Affiliated Sites and Non-Affiliated Sites. We encourage you to read the privacy policies on these sites for the applicable privacy practices relating to personally identifiable information you may choose to provide in interacting with these websites and the non-personally identifiable information collected through the use of cookies and other technologies as they may differ from Glam Media’s privacy practices as set forth in this Privacy and Security Policy. Please further note that the opt out choice provided to you through this Privacy and Security Policy acts only to provide you with an opt out choice regarding customized, targeted advertisements from Glam Media and will have no effect on customized, targeted advertisements from third parties.
 
@@ -143,7 +128,7 @@ You have choices when it comes to how Glam Media uses your personal information.
 
 ## _Your Choice to Opt Out: Glam Media Network and Non-Affiliated Sites_
 
-If you would like to opt out from receiving customized, targeted advertisements from Glam Media based upon non-personally identifiable information, you may [opt out by clicking here](http://www.aboutads.info/choices). Opting out will not remove advertisements. You will continue to see advertisements provided by Glam Media, but the advertising will not be customized or targeted based on non-personally identifiable information collected by Glam Media. Please note that if you change cookies or browsers, you will need to repeat this process for each computer and each browser.
+If you would like to opt out from receiving customized, targeted advertisements from Glam Media based upon non-personally identifiable information, you may [opt out by clicking here](http://www.glammedia.com/about_glam/legal/opt-out). Opting out will not remove advertisements. You will continue to see advertisements provided by Glam Media, but the advertising will not be customized or targeted based on non-personally identifiable information collected by Glam Media. Please note that if you change computers or browsers, you will need to repeat this process for each computer and each browser.
 
 ## __
 
