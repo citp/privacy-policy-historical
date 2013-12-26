@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homestayin.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209031639id_/http%3A//homestayin.com/privacy/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestayin.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226103056id_/http%3A//www.homestayin.com/privacy/privacy.do) for the most accurate reproduction.*
 
-# Homestay in USA, Canada, Australia, New Zealand, UK... and all over the world
+# Homestay - Find homestay families and book homestay accommodation - HomestayIn
 
 ####  1\. Collection of Personal Information
 
@@ -40,7 +40,7 @@ Homestayin.com collects personal information through member registration and mod
 
 ##### A. Fulfillment of Service Contract & Billing of Service Fee
 
-Offering contents for host & guest promotion, Providing contact details and address details of host and guest after booking confirmation, Offering optimized information, Sending out invoices and bills, Verifying user identity, Purchasing and paying
+Offering contents for host & guest promotion, Providing contact details and address details of host and guest after booking confirmation, Offering matching information, Sending out invoices and bills, Verifying user identity, Purchasing and paying
 
 ##### B. Member management
 
@@ -48,7 +48,7 @@ Verifying user identity, Preventing fake members and unauthorized use, Checking 
 
 ##### C. Development of new service(s) & Application to marketing and promotion
 
-Developing new services, Offering optimized services, Promoting based on demographic characters, Checking the effectiveness of services, Providing events and promotion information and offering chances of customer participations, Identifying log-in frequency, and Building statistics for members’ use of services
+Developing new services, Offering matching services, Promoting based on demographic characters, Checking the effectiveness of services, Providing events and promotion information and offering chances of customer participations, Identifying log-in frequency, and Building statistics for members’ use of services
 
 ####  3\. Sharing & Offering Personal Information
 
@@ -129,7 +129,7 @@ In principle, Homestayin.com destroys personal information when the purpose of c
 
 ##### A. What is cookie?
 
-  * - The Homestayin.com website uses ‘cookie’ which saves and load user information to provide personalized and optimized services to users.
+  * - The Homestayin.com website uses ‘cookie’ which saves and load user information to provide personalized and matching services to users.
   * - A cookie is a small text file sent by a web server to user’s computer, and it is placed on the hard disk. When the user visits the website, the web server reads the information of cookies so that previously customized web browser setting for the specific user can be maintained.
   * - • Cookies do not collect personally identifiable information automatically/actively. Cookies cannot be used to run programs or deliver viruses to user’s computer. Cookies are uniquely assigned to each user, and can only be read by a web server in the domain that issued the cookie to the respective user. Users can always refuse to save cookies or delete them.
 
