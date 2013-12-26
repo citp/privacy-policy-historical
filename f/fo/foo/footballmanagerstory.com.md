@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballmanagerstory.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820100440id_/http%3A//www.footballmanagerstory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanagerstory.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226051522id_/http%3A//www.footballmanagerstory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Football Manager Stories
+# Privacy Policy • FM 2014 Stories
 
 _**What information do we collect?**_  
 We collect information from you when you register on our site or subscribe to our newsletter.
