@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423073553id_/http%3A//www.cpsc.gov/en/About-CPSC/Miscellaneous/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226222931id_/http%3A//www.cpsc.gov/en/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
 
-# CPSC - Privacy Policy
+# CPSC Privacy and Security Notice | CPSC.gov
 
 The U.S. Consumer Product Safety Commission, a Federal Government regulatory agency, provides these World Wide Web pages as a public service.
 
@@ -12,7 +12,7 @@ Images on this website may have been licensed for use by CPSC from a stock photo
 
 You may freely copy and distribute recall notices, including photographs of recalled items, without permission. Any other use of photographs found in recall notices may require permission from a copyright holder.
 
-Questions about use of specific images or other materials may be submitted via our [Contact Us](http://www.cpsc.gov/cgibin/info.aspx) form.
+Questions about use of specific images or other materials may be submitted via our [Contact Us](https://www.cpsc.gov/cgibin/info.aspx) form.
 
 * * *
 
@@ -40,7 +40,7 @@ Flickr® - CPSC maintains official Flickr account(s) (owned by Yahoo®) to share
 
 #### Third-Party Applications
 
-The CPSC’s websites utilize some third-party applications to maintain site security and enhance visitor accessibility of information contained on these sites. The CPSC has embedded LongTail Ad Solutions, Inc.’s (LongTail) JW Player on several CPSC sites, including CPSC.gov, SaferProducts.gov, and PoolSafely.gov, to play Adobe Flash and compatible videos. No PII will become available to the CPSC or LongTail as a result of this application. We recommend that you visit <http://www.longtailvideo.com/privacy/> for additional information on LongTail’s privacy policy.
+The CPSC’s websites utilize some third-party applications to maintain site security and enhance visitor accessibility of information contained on these sites. The CPSC has embedded LongTail Ad Solutions, Inc.’s (LongTail) JW Player on several CPSC sites, including CPSC.gov, SaferProducts.gov, and PoolSafely.gov, to play Adobe Flash and compatible videos. No PII will become available to the CPSC or LongTail as a result of this application. We recommend that you visit <http://www.jwplayer.com/privacy/> for additional information on LongTail’s privacy policy.
 
 CPSC.gov, SaferProducts.gov, and PoolSafely.gov also utilize Clearspring Technologies, Inc.'s (Clearspring) AddThis. AddThis is a content sharing platform that allows visitors to the CPSC's websites to e-mail, print, or share across the Internet content from the sites. No PII will become available to the CPSC as a result of this application. Clearspring will have access to PII only if you explicitly provide it with this information, such as asking the company to send an e-mail on your behalf. In this instance, Clearspring will use the e-mail addresses to deliver that message. Clearspring, however, will not share this information with anyone, including the CPSC, and the information will be removed automatically from its site after a short period. We recommend that you visit <http://www.addthis.com/privacy> for additional information on Clearspring’s privacy policy.
 
@@ -114,7 +114,7 @@ All materials on the site are presented by the CPSC for general informational pu
 
 CPSC is responsible for ensuring the privacy and confidentiality of the information it collects on members of the public, business partners, and its own employees. These people have a right to expect CPSC will collect, maintain, use and disseminate identifiable personal information only as authorized by law and as necessary to carry out agency responsibilities.
 
-[Privacy Impact Assessments (PIAs)](https://web.archive.org/web/20130423073553id_/http://www.cpsc.gov/en/About-CPSC/Miscellaneous/Privacy-Policy/~/link/da916fcf9cf64652be9556a0ec22c0b2.aspx) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information.
+[Privacy Impact Assessments (PIAs)](https://web.archive.org/web/20131226222931id_/https://www.cpsc.gov/en/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy/~/link/da916fcf9cf64652be9556a0ec22c0b2.aspx) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information.
 
 * * *
 
