@@ -1,202 +1,100 @@
-> *The following text is extracted and transformed from the insightadvices.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101091120id_/http%3A//www.insightadvices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightadvices.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224735id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | BigMarker
+# Legal Agreement
 
-BigMarker, Inc. located in Chicago, Illinois U.S.A. and its affiliates (“BigMarker”) believe that with the right tools, any community can make a big mark – and leave a lasting impact – on the world. Accordingly, our mission is to help communities achieve their goals (and greater impact) by making it easier to come together and be productive online. To achieve this mission, BigMarker makes features and functions available through its website, mobile applications, development platform, premium services, and other information provided as part of the BigMarker services (our “Services”). By becoming a member of BigMarker, you voluntarily and willfully provide BigMarker with certain information, including personally identifiable information, which BigMarker collects to provide the Services. If you have any hesitations or concerns about providing information to BigMarker, having your information displayed on the BigMarker website or otherwise used in a manner consistent with our Privacy Policy and our Terms of Service, then you should not become a member of BigMarker and, if you are already a member, you should close your account.
+**Go Daddy Respects Your Privacy**
 
-### I. Information we receive about you:
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-  * _Registration information:_ When you sign up for an account you are required to provide your name, email address and a password. 
-  
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  * _Information you choose to share in your profile:_ You can choose to share or not share information such as your picture, bio, passions and interests, expertise, education and certifications. 
-  
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-  * _Information you choose to share within a community or conference room:_ You can choose to share or not share posts to a community bulletin, uploaded documents or presentations, uploaded webcam video feeds in a video conference, audio feeds in a conference, and comments or Kudos sent to fellow members of your community. 
-  
+**Information Collection and Use**
 
-  * _Information others share about you:_ We receive information about you from other members, such as comments on a file that you uploaded, or Kudos that you received. We may also receive information about you from other members’ communications with you or within a community. Members can self-police their use of our Services by reporting any suspected foul play. If you would like to report suspected foul play or request information be removed from the BigMarker website, then you should contact BigMarker at [Report@BigMarker.com](mailto:Report@BigMarker.com). 
-  
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-  * _Banking and Payment information:_ We require you to provide banking and payment information to allow you to purchase services, pay membership dues to a community, and participate in, sponsor, or host a conference event. In order to fulfill your requests for paid services, we share your banking and payment information with our payment processor. 
-  
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  * _Correspondence between you and BigMarker:_ We can correspond with you using email, text messages, notices on the BigMarker website and other communication methods. 
-  
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  * _Electronic identification data:_ When you view and interact with our Services, we also collect your IP addresses, your operating system type, your web browser type, URLs of websites in which you arrive or leave the BigMarker website, and other similar information. 
-  
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  * _Cookies:_ Cookies allows us to recognize you, customize your experience, and provide advertisements. 
-  
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  * _Mobile Applications:_ When you view and interact with our Services, we also collect your IP addresses, your operating system type, your web browser type, URLs of websites in which you arrive or leave the BigMarker website, your mobile carrier or service provider, your Internet service provider (“ISP”), and other similar information. 
-  
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  * _Third-party services:_ We will receive your prior consent before you interact with third-party services available through our Services such as surveys and questionnaires. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-### II. Our use of your information:
+**Updating Your Information**
 
-Our primary purpose in using the information you provide is to enable you to have a safe, efficient and comprehensive way to share information and communicate with other members and communities online. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We use the information you provide to:
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-  * Provide you with Services;
-  
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  * Take, process and deliver your payment orders made via our Services;
-  
+      iii.      You may call us at: (480) 505-8800
 
-  * Provide you with customer support and help with troubleshooting problems;
-  
+       iv.      You may fax us at: (480) 505-8844
 
-  * Develop and improve our Services;
-  
+**Sending Emails**
 
-  * Implement and support our marketing, promotions and public relations;
-  
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  * Perform and support our internal operations such as troubleshooting, data collection and analysis, testing, verification, research, development and service improvements; 
-  
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  * Enable you to share information and communicate with other members and communities;
-  
+**Compliance with Laws and Law Enforcement**
 
-  * Develop and improve the services offered by third parties;
-  
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  * Determine your geographical location;
-  
+**Third Party Service Providers**
 
-  * Send you service or promotional information via email, text messages, and notices on the BigMarker website; 
-  
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-  * Administer your member or community account;
-  
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-  * Resolve your reported disputes and suspected foul play;
-  
+**Supplementation of Information**
 
-  * Recommend other members to connect with you.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-### III. BigMarker’s Disclosure of Information 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-  * BigMarker may disclose personal information to respond to legal requirements, exercise our legal rights or defend against legal claims, to protect BigMarker’s interests, fight against fraud and to enforce our policies or to protect anyone’s rights, property, or safety. 
-  
+**Tell-A-Friend**
 
-  * In order to provide its services, BigMarker may share with its business partners, in a secure environment, your personal and traffic data. These business partners may include group companies, carriers, partner service providers and/or agents. They are required to take measures to protect your personal and traffic data in accordance with the law. 
-  
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-  * BigMarker products and services may be licensed or co-branded and offered together with or directly by a partner company. If you register for or use such products, you consent to both BigMarker’s and the partner company’s use of personal data collected in connection with the licensed or co-branded product. BigMarker, BigMarker’s local partner, or the operator or company facilitating your communication may provide personal data, communications content and/or traffic data to an appropriate judicial, law enforcement or government authority lawfully requesting such information. BigMarker will provide all reasonable assistance and information to fulfill this request and you hereby consent to such disclosure. 
-  
+**What Happens to my Personal Information if I Opt Out?**
 
-  * Your information may be stored and processed in any country in which Amazon or its affiliates, subsidiaries or service providers maintain facilities. BigMarker reserves the right to transfer information outside of your country. By using BigMarker software, products or websites, you consent to any such transfer of information outside of your country. 
-  
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-  * Please note that information that you voluntarily make Public in your user profile, or which you disclose in a Public Community will become publicly available and viewable by others. It is up to BigMarker members to be aware of what information they are releasing to the public. BigMarker accepts no responsibility or liability for any private information that was inadvertently made public. If any information has been made public that was not intended to be made public, please send an email to [Report@BigMarker.com](mailto:Report@BigMarker.com). 
+**Transfer of Data Abroad**
 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-  * You have the option to provide certain personal information to BigMarker. This optional personal information may be required in order to receive specific services. By providing such information, you are agreeing that BigMarker may store, process, and review such information. BigMarker may use this information for the purpose for which it was collected, and this information may be stored for as long as is necessary to provide you with our services. 
+**Changes in Our Practices**
 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-### IV. Your Information Choices for Communities
+**Contacting Our Site**
 
-#### Public Communities:
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-  * If you belong to a public community, your name will automatically be made public. Further, any information you choose to share within your profile and within a public community will be made public. 
-  
+* * *
 
-  * When you create a BigMarker account, you will automatically be entered into the BigMarker Community. The BigMarker Community is public, so your name, as well as any information you choose to share within your profile will be made public. If you do not want your name or profile information made public, you can leave the BigMarker Community. This can be done by navigating to the BigMarker Community page at [bigmarker.com/BMcommunity](https://web.archive.org/BMcommunity), scrolling over the “My Profile” button and clicking on the “Leave Community” link. 
-
-
-
-#### Private Communities:
-
-  * Information you share within a private community will only be made available to other members of such private community. 
-  
-
-  * If you only belong to a private community, then your name and profile information will only be made available to the members of those communities. However, if you also belong to a public community, your name and profile information will be made public. 
-  
-
-  * You may also be given a chance to provide additional profile information that is unique to a specific community. For a private community, any information you choose to share will only be available to other members of such private community. For a public community, any information you choose to share will be made public. 
-
-
-
-#### Groups
-
-  * Within a community, you can create or become a member of a sub-community, which can represent a department, chapter or team within the parent community. Any information you share in a parent community or any of its groups will be shared with members of the parent community. For example, information you choose to share in a sub-community will be shared with the members of the parent community. 
-
-
-
-#### Community Partnerships
-
-  * Community organizers have the opportunity to create community partnerships with other communities. Community partnerships can exist between public communities, private communities, and a combination of public and private communities. Once a community partnership is formed, each partnered community will have access to information shared by the other partnered communities. If you are the community organizer of a partnered private community with a partnership with a public community, then the information shared by the partnered private community will be made public, unless you choose to make the information private. 
-
-
-
-### V. Analytics
-
-  * In order to improve your user experience, we use analytics partners including Google Analytics, KISSmetrics, and Optimizely to gather statistical and analytical information about how you use our Services. 
-
-
-
-### VI. Advertising & Promotion and Opt Out
-
-  * From time-to-time, you may receive promotional materials from BigMarker announcing special offers and featured BigMarker conferences or communities. 
-  
-
-  * BigMarker and its promotional partners may use non-personally identifiable information that you have provided in your profile or otherwise provided to BigMarker, such as your age, gender, language, country of residence, time zone, as well as information about your relationship with our Services in order to provide offers and promotional materials likely to be of greater interest to you and to help BigMarker measure and improve the performance of our promotional campaigns. 
-  
-
-  * You may opt out of promotional communications at any time by clicking the ‘Opt Out’ link at the bottom of emails, or managing your communications settings in your personal profile. 
-
-
-
-### VII. Linked websites and third party applications
-
-  * The BigMarker website and its web pages may contain links that allow you to leave the BigMarker website and access other websites. Such hyperlinked websites are not under the control of BigMarker and may have different privacy policies. The BigMarker Privacy Policy applies only to your personal information that is acquired on the BigMarker website and its web pages or through your use of our Services. BigMarker urges you to be careful when providing any personal information online and BigMarker accepts no responsibility or liability for these other websites. 
-
-
-
-### VIII. Contacting You
-
-  * From time-to-time, we may ask you to provide information about your BigMarker experience, which we may use to improve our Services. You are at no time under any obligation to provide any such information. 
-  
-
-  * We reserve the right to use email, text messages and other communication methods to notify you of any claims related to your use of our Services, including without limitation claims of violation of any third party rights. 
-
-
-
-### IX. Children
-
-  * BigMarker is not intended for or designed to attract users under the age of 13, and we do not intentionally or knowingly collect personal information on our websites from anyone under the age of 13. We encourage parents to be involved in their children’s online activities to ensure that no information is collected from a child without parental permission. 
-
-
-
-### X. Amendments
-
-  * Our Privacy Policy is effective as of June 2012 and last updated as of July 2012. We reserve the right to amend our Privacy Policy at any time. Your continued use of BigMarker following changes to our terms constitute acceptance of our amended terms. 
-
-
-
-### XI. Security
-
-  * User data (including personal data, financial information, and uploaded content) is stored safely and securely in the cloud using industry-standard encryption and data protection practices. We never make this information available to anyone. As users of web and cloud services ourselves, we take security very seriously. 
-
-
-
-### XII. How to Contact Us
-
-Thank you for being a part of the BigMarker movement! Please do not hesitate to reach out to us at any time if you have questions, concerns, feedback, or other requests. You can use the following email addresses to reach us, and we will generally respond within a day or two.
-
-  * For information: [info@bigmarker.com](mailto:info@bigmarker.com)
-  * For support: [support@bigmarker.com](mailto:support@bigmarker.com)
-  * For feedback: [feedback@bigmarker.com](mailto:feedback@bigmarker.com)
-  * To report misuse: [report@bigmarker.com](mailto:report@bigmarker.com)
-
-
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
