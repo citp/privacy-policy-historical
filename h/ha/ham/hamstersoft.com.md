@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamstersoft.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517191442id_/http%3A//www.hamstersoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamstersoft.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226215601id_/http%3A//www.hamstersoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for the www.hamste-rsoft.com
 
