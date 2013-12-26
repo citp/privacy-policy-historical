@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmenscouponblog.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626231833id_/http%3A//carmenscouponblog.com/privacypolisyandfulldisclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmenscouponblog.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226073601id_/http%3A//carmenscouponblog.com/privacypolisyandfulldisclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Full Disclosure
 
