@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devhardware.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526122314id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devhardware.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226143719id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.*
 
 # Developer Shed : Privacy Policy
 
