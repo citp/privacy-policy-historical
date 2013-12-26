@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608222424id_/http%3A//www.teletoon.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226204132id_/http%3A//www.teletoon.com/en/privacy) for the most accurate reproduction.*
 
 # Teletoon | Privacy Policy
 
@@ -95,7 +95,8 @@ TELETOON, Brookfield Place,
 P.O. Box 787,  
 Toronto, Ontario,  
 M5J 2T3  
-Telephone: 416-956-2060.
+Telephone: 416-956-2060.  
+e-mail:[privacy@teletoon.com](mailto:privacy@teletoon.com)
 
 Updated on 01/07/2008  
 Subject to change without notice
