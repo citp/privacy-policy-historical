@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overallsite.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613030556id_/http%3A//www.overallsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallsite.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226141001id_/http%3A//www.overallsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Overallsite
 
