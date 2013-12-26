@@ -1,43 +1,101 @@
-> *The following text is extracted and transformed from the greedreports.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626222051id_/http%3A//greedreports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greedreports.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226065053id_/http%3A//greedreports.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Greed Reports
 
-**INTRODUCTION**
+On behalf of Greed Reports, Inc. (referred to as “us” or “we”), welcome to greedreports.com (the “Site”). We recognize that your privacy is important. This Policy discloses the privacy practices for the Site, and also covers how personal and other information that we receive or collect about you is treated. Please read the information below to learn the following regarding your use of the Site.
 
-Your privacy is essential to us. Here at Greed Reports, we believe that privacy is a top priority. We know that you care how information about you is used and shared. Thus, we provide this Privacy Policy to summarize our procedures and practices as regards to information collection and use. This will serve you as a guide in making an intelligent decision in sharing your information with us. By visiting GreedReports.com, you agree to be bound by this Privacy Policy and hereby accept the procedures and practices stated in this herein.
+You acknowledge that this Privacy Policy is designed to be read in connection with the Site’s Terms of Service and that by accessing or using the Site, you agree to be bound by these Terms of Service, as well as this Policy. We reserve the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by updating any privacy information on this page. Your continued use of the Site and or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) your agreement to abide and be bound by that Policy.
 
-**SCOPE**
+If you have any questions about this Policy, please feel free to contact us by e-mail by at:
 
-This Privacy Policy applies only within this website and other pages where this policy appears. This would describe and explain how we take care and handle your personal information you shared to us. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. ****
+IMPORTANT: BY USING THE SITE AND/OR MARKETING TOOLS AVAILABLE ON THIS SITE, YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, DO NOT USE THE SITE.
 
-**COLLECTION & HOW USE**
+1\. Types of Information We Collect
 
-If you attempt to use the services and applications of our website and or choose to provide information to us, this website shall collect Personal Information from you. This information includes, but is not limited to: name, address, telephone number, mobile number and/or email address. Once collected, we will store your information for a reasonable period of time for record keeping purposes. The information that we store is sometimes deleted as space requires or in the normal course of business.
+In order to better provide you with marketing tools, we may collect two types of information about our users: Personally Identifiable Information and Aggregate Information.
 
-**DISCLOSURE**
+Personally Identifiable Information (“PII”): This refers to information that lets us know the specifics of who you are. Examples of PII may include your first and last name, email address, and telephone number. You may also voluntarily provide other PII, whether or not specifically requested by us, by posting publically viewable comments on the Site. You agree that we may collect any PII voluntarily supplied by you, whether or not we have requested it. You must not submit any PII relating to a third party which you do have permission from such third party to provide to us. We do not knowingly collect any information relating to third parties which you do not have permission to provide.
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+When you engage in certain activities on our Site, such as sending us an email to:
 
-**COOKIES**
+We will ask you to provide certain PII.
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors.
+Aggregate Information: This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our Site and what other sites may have directed you to us. This information, which is collected in a variety of different ways, is compiled and analyzed on both a personal and an aggregated basis. This information may include the WebSite’s Uniform Resource Locator (“URL”) that points to the site you just came from, which URL you go to after visiting our Site, what browser you are using, and your Internet Protocol (“IP”) address.
 
-**SECURITY**
+2\. How We Collect and Use Information
 
-All collected information is stored in a technically and physically secure environment. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect PII (including Sensitive Information) off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect our end-users’ personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.
+We do not collect any PII about you unless you voluntarily provide it to us. However, you may be required to provide certain PII to us when you elect to use certain services available on the Site, such as requesting that we contact you by emailing us at:
 
-**ACCESSING AND UPDATING PERSONAL INFORMATION**
+We will primarily use your PII to provide information and marketing tools for you. We will also use certain forms of PII to enhance the operation of our Site, improve our internal marketing and promotional efforts, statistically analyze Site use, improve our marketing tools, and customize the Site’s content, layout, and services. We may use PII to deliver information to you, and to contact you if you request that we do so. Finally,
 
-When you use our services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our policies and take other actions otherwise permitted by law.
+we may use your PII to enforce our agreements with you, including our Site’s Terms of Service and this Privacy Policy.
 
-**THIRD PARTIES**
+We may also collect certain Aggregate Information. For example, we may use your IP address to diagnose problems with our servers, software, to administer our Site and to gather demographic information.
 
-We provide links to Web sites outside of our web sites, as well as to third party Web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that Web site and its privacy statement.
+If your web browser omits “do not track” signals, or you use other mechanisms that provide you the opportunity to prevent the collection of PII or Aggregate Information about your online activities, we honor these signals or mechanisms by refraining from collecting information about you.
 
-**MINORS**
+3\. Cookies
 
-This Website is not intended for visitors that are minors or under eighteen (18) years of age. Greed Reports does not knowingly solicit or collect information from individuals under the age of eighteen (18). If we determine that we have inadvertently collected personal information from someone under eighteen (18) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children.
+Depending on how you use our Site, we may store cookies on your computer in order to collect certain aggregate data about our users and to customize certain aspects of your specific user experience. A cookie is a small data text file which is stored on your computer that uniquely identifies your browser. Cookies may also include more personalized information, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and your first name to welcome you back to our Site. We may use cookies to perform tasks such as: monitoring aggregate Site usage metrics, storing and remembering your passwords (if you allow us to do so), storing account and advertising preferences that you have set, and personalizing the Services we make available to you. However, we do not use cookies to track your browsing behaviors.
 
-**CHANGES AND AMENDMENTS & NOTIFICATION OF CHANGES**
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some aspects of the Site may not function properly if you elect to disable cookies.
 
-Greed Reports reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+4\. Release of Information
+
+We will not sell, trade, or rent your PII to others. We do provide some of our services through contractual arrangements made with affiliates, service providers, partners and
+
+other third parties (“Service Partners”). We and our Service Partners may need to use some PII in order to perform tasks between our respective sites, or to deliver services to you. For example, we use Service Partners to assist us in delivering our electronic newsletters and communications to you and to analyze Aggregate Information.
+
+We will choose Service Partners who adopt and promote strong privacy policies. However, the use of your PII by our Service Partners is governed by the respective privacy policies of those providers and is not subject to our control.
+
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Any other sites accessible through our Site, including those of our Service Partners, have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties.
+
+Other than our Service Partners, we do not allow third parties to collect PII or Aggregate information about you or your online activities when you use our Site.
+
+Occasionally we may be required by law enforcement or judicial authorities to provide PII to the appropriate governmental authorities. In such cases, we will disclose PII upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+
+5\. Updating and Correcting Information
+
+We believe you should have the ability to access and edit the PII that you have provided to us. You may change any of your PII in your account online at any time by e-mailing us at:
+
+Please include your name and email address when you contact us.
+
+We encourage you to promptly update your PII if it changes. You may ask to have the information on your account deleted or removed; however, some information, such as
+
+past transactions, logs of technical support calls, or other information may not be deleted. In addition, it may be impossible to completely delete your information without some residual information because of backups.
+
+6\. Your California Privacy Rights
+
+Upon your request, California Civil Code Section 1798.83, known as the “Shine the Light” law, requires us to provide to you (a) a list of your personal information, if any, which we have disclosed to third parties for direct marketing purposes in the preceding calendar year, and (b) the names and addresses of those third parties. You may make such a request once per calendar year, and we will provide the information to you free of charge. Please send any requests made pursuant to this section to us by e-mail by at: 
+
+However, as defined under Section 1798.83, we do not currently share any personal information with third parties for their direct marketing purposes.
+
+7\. User Choices on Collection and Use of Information
+
+We may, from time to time, send you e-mail and/or newsletters regarding information or services that we feel may interest you. Only Greed Reports, Inc. (or agents working on behalf of us and under confidentiality agreements) will send you these notifications. If you do not want to receive correspondence from us, you can “opt-out” by clicking on the “Unsubscribe” link at the bottom of each correspondence.
+
+You also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case.
+
+8\. Security of Your PII
+
+At our Site you can be assured that your PII is secure as we strive to take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of your PII. For example:
+
+— We work hard to ensure that the data we collect is reliable, accurate, complete and current. We use PII only for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
+
+— We limit access to PII only to specific employees, Service Partners, contractors and agents who have a reasonable need to come into contact with your information.
+
+— Additionally, we also employ a number of physical, electronic, and procedural safeguards to protect PII. Our secure servers and our data centers are protected by encryption, and our servers reside behind firewalls and password protection.
+
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your PII, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) the security, integrity and privacy of any and all information and data exchanged between you and us through the Site cannot be guaranteed.
+
+9\. Miscellaneous
+
+You must be at least 18 years old to have our permission to use our Site. Our policy is that we do not knowingly collect, use or disclose PII about minor visitors.
+
+You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, email address, etc.) by you in the comments you post on the Site’s blogs or in other public areas on the Site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages (including unwanted spam messages) from third parties. Such activities are beyond our control and this Policy does not apply to such information. Please consult our Terms of Service for policies regarding user-provided information.
+
+10\. Contact Us
+
+If you have any questions, concerns or inquiries about our Privacy Policy, or our use of your PII, or our privacy practices, please contact us by e-mail at:
+
+11\. Effective Date. This Privacy Policy is effective as of December 17, 2013.
