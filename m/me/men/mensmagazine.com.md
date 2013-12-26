@@ -1,42 +1,64 @@
-> *The following text is extracted and transformed from the mensmagazine.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207044737id_/http%3A//www.mensmagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensmagazine.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226060916id_/http%3A//www.mensmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# MensMagazine : Privacy Policy
+# Privacy policy | Mens Magazine
 
-**Our Commitment To Privacy**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Contact](mailto:info@mensmagazine.com).
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+At http://www.mensmagazine.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.mensmagazine.com/ and how we use it.
 
-**The Information We Collect:** This notice applies to all information collected or submitted on website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+**Log Files**  
+Like many other Web sites, http://www.mensmagazine.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Name:  
-Email address:   
-Address:   
-City:   
-State:   
-Country:   
-Zip:   
-Username:  
-Password: 
+**Cookies and Web Beacons**  
+http://www.mensmagazine.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-**The Way We Use Information:**
+**DoubleClick DART Cookie**
 
-We use the username and password information to pass that info onto the specified processor to help speed up the transaction process. Your email address is stored securely, and only used if the subscriber agrees to receive promotional materials. 
+→ Google, as a third party vendor, uses cookies to serve ads on http://www.mensmagazine.com/.
 
-**Our Commitment To Data Security:**
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://www.mensmagazine.com/ and other sites on the Internet.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**How You Can Access Or Correct Your Information:**
+**Our Advertising Partners**
 
-You can access all your personally identifiable information that we collect online and maintain by emailing [getmyinfo@mensmagazine.com](mailto:getmyinfo@mensmagazine.com). We use this procedure to better safeguard your information. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+  * Google
+  * Yahoo! Publisher Network
+  * Content.ad
+  * Clickbank
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-**How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](mailto:support@mensmagazine.com). 
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
-© Copyright 2003-2004 MENSMAGAZINE.com., All Rights Reserved  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://www.mensmagazine.com/.
 
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://www.mensmagazine.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+http://www.mensmagazine.com/ has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.mensmagazine.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+http://www.mensmagazine.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://www.mensmagazine.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+**Update**  
+This Privacy Policy was last updated on: Friday, October 11th, 2013.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
