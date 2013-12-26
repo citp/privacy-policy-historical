@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620111641id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226165204id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # VEGAS.com: About VEGAS.com: Privacy & Security
 
