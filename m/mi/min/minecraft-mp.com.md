@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530075732id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mp.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226193847id_/http%3A//minecraft-mp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Minecraft Multiplayer
 
@@ -6,13 +6,15 @@ We collect only the following informations from the use of " **Minecraft Multipl
 
 **Last Revision: April 22th, 2013**
 
+## What we collect
+
 ### User informations
 
-When you register on " **Minecraft Multiplayer** ", you must provide us a nickname and a valid email address. We only use these informations for notices, warnings, internal newsletters, password retrieval and account activation. 
+When you register on " **Minecraft Multiplayer** ", you must provide us a nickname and a valid email address. We only use these informations for notices, warnings, internal newsletters, password retrieval and account activation.
 
 ### Server informations
 
-When you register a server on " **Minecraft Multiplayer** ", we collect all informations you provide us with. By registering your server, you accept that we publicly publish some informations, like your server's IP address, server port... 
+When you register a server on " **Minecraft Multiplayer** ", we collect all informations you provide us with. By registering your server, you accept that we publicly publish some informations, like your server's IP address, server port...
 
 ### Access informations
 
@@ -20,14 +22,20 @@ Like many other Web sites, we make use of log files. The information inside the 
 
  _IP addresses and other such informations are not linked to any other informations that are personally identifiable_
 
-. 
+.
 
 ### Cookies
 
-" **Minecraft Multiplayer** " only use cookies to store session information of your account. This allow us to logged you in automatically. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to login on " **Minecraft Multiplayer** ". 
+" **Minecraft Multiplayer** " only use cookies to store session information of your account. This allow us to logged you in automatically. You can remove and disable cookies by modifying the settings in your browser. However, keep in mind that this may cause you to be unable to login on " **Minecraft Multiplayer** ".
+
+## Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
+## Third-party advertising companies
+
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
-" **Minecraft Multiplayer** " reserves the right to change the Privacy Policy at anytime with or without notice. 
+## Other Terms
+
+" **Minecraft Multiplayer** " reserves the right to change the Privacy Policy at anytime with or without notice.
