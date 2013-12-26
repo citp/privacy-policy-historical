@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeagif.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622082952id_/http%3A//makeagif.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeagif.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226215114id_/http%3A//makeagif.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
