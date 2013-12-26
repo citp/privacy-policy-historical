@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamariweb.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212741id_/http%3A//www.hamariweb.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamariweb.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226070917id_/http%3A//www.hamariweb.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Hamariweb.com
 
@@ -16,6 +16,13 @@ We never rent, sell or share any information you give us. You privacy is importa
 |   
 **Advertisment on Hamariweb.com:**
 
-**Third-Party Advertisers:** You acknowledge that Hamariweb.com  does not control the performance of advertisers that appear on Hamariweb.com. Therefore, if you choose to purchase a product or service, you release us from any and all claims you may have regarding the third party's failure to deliver or perform. We use other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+**Cookies & 3rd Party Advertisements**
 
-**Third Party Cookies:** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
+You acknowledge that Hamariweb.com does not control the performance of advertisers that appear on Hamariweb.com. Therefore, if you choose to purchase a product or service, you release us from any and all claims you may have regarding the third party's failure to deliver or perform. We use other third-party advertising companies to serve ads when you visit our website.
+
+  
+
