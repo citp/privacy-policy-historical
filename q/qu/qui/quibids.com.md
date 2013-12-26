@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quibids.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919110151id_/http%3A//www.quibids.com/en/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quibids.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226172240id_/http%3A//www.quibids.com/en/company/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - QuiBids.com
 
 ## Scope
 
-QuiBids.com _("QuiBids")_ is a service provided by QuiBids, LLC. We acknowledge and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you're visiting QuiBids. 
+QuiBids.com _("QuiBids")_ is a service provided by QuiBids Holdings LLC. We acknowledge and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you're visiting QuiBids. 
 
 Please read this Privacy Policy before using the QuiBids website or submitting any personal information. By using the QuiBids website, you accept and consent to the practices described in this Privacy Policy. By your continued use you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. If you do not agree with these practices you are free to discontinue your use of the QuiBids website at any time. 
 
@@ -94,6 +94,12 @@ When contacting us, please indicate your name, address, email address, and what 
 
 Back to top
 
+## U.S.-EU Safe Harbor
+
+QuiBids complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. QuiBids has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view QuiBids' certification, please visit <http://www.export.gov/safeharbor/>. 
+
+Back to top
+
 ## General
 
 We may amend this Privacy Policy at any time by posting the new Privacy Policy on QuiBids. QuiBids reserves the right to change this Privacy Policy at any time without notice to You. Consequently, You should review this Privacy Policy for changes each time You visit QuiBids. 
@@ -106,7 +112,7 @@ If you have a privacy question about QuiBids, please email us at [support@quibid
 
 **Correspondence can be sent to:**
 
-**QuiBids LLC**   
+**QuiBids Holdings LLC**   
 4 NE 10th St., Ste 242   
 Oklahoma City, OK 73104 
 
