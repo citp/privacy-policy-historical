@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601125332id_/http%3A//godfatherpolitics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226115829id_/http%3A//godfatherpolitics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Godfather Politics
 
@@ -8,35 +8,12 @@ At www.godfatherpolitics.com the privacy of our visitors is of extreme importanc
 
 **Log Files**
 
-Like many other Web sites, www.godfatherpolitics.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, www.godfatherpolitics.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+**Web browser cookies**
 
-www.godfatherpolitics.com may use cookies.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-_DoubleClick DART Cookie_
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://aboutads.info/choices> or <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-  * Google, as a third party vendor, uses cookies to serve ads on www.godfatherpolitics.com.
-  * Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "DART cookie FAQ") enables it to serve ads to users based on their visit to www.godfatherpolitics.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://www.google.com/privacy_ads.html>
-
-
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.godfatherpolitics.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.godfatherpolitics.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.godfatherpolitics.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
-
-Share the Love
-
-| 
-
-Get Free Updates  
-  
----|---  
-| 
+Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.”
