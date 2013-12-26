@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the merchantwarehouse.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606084748id_/http%3A//merchantwarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantwarehouse.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226154556id_/http%3A//merchantwarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Revised Draft v1.1 August 15, 2012**
 
 **Keeping information private and secure is critically important to MerchantWarehouse.com, LLC (“Merchant Warehouse”, “we”, “us” or “our”). This privacy policy (this “Policy”) describes the information we collect on merchantwarehouse.com (the “Site”) and in our Gateway Services, how information is collected and used, and with whom information is shared.  We reserve the right to change this Policy, in whole or in part, at any time, by posting a new Policy in its place.  Therefore, you are responsible for checking this Policy periodically for changes.  Your continued use of the Site following any changes to this Policy will constitute your acceptance of such changes.  If you disagree with how we may use your information under this Policy, you should not use the Site.**
-
-Use of the Site is governed by our (“Terms of Use”).
 
 Merchant Warehouse is a member of the [BBB (Better Business Bureau) OnLine Reliability Program](http://www.bbbonline.org/cks.asp?id=1020424144723143) and follows all guidelines both in letter and spirit.
 
