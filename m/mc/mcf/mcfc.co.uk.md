@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the mcfc.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085717id_/http%3A//mcfc.co.uk/Common/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcfc.co.uk privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226113117id_/http%3A//www.mcfc.co.uk/Common/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Common - Manchester City FC
 
-#### What information do we collect?
+## Access other Manchester City products
+
+Select from 13 languages English
+
+### Privacy Policy
+
+This privacy policy and cookie policy set out below forms part of these terms of use and sets out the way in which your personal data are handled. Therefore please read this policy carefully, as it explains what information we will collect about you, how we will use it, and the steps we take to ensure that it is kept safe. 
+
+  * #### What information do we collect?
 
 In order to provide you with our services, we may collect personal information about you from our website, telephone conversations, emails, and written and verbal communications. We may, for example, keep a record of your name, address, delivery address, email address, telephone number and credit card details. We may also record details of any disability or health needs you may have at the time of booking an event or service to help to ensure your safety.
 
@@ -10,7 +18,7 @@ Information related to your visit to our website (such as which pages you visit,
 
 We may supplement the information that you provide with other information that we receive from third parties.
 
-#### How do we use your information?
+  * #### How do we use your information?
 
 Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this privacy policy.
 
@@ -18,11 +26,19 @@ We will primarily use your personal information to provide our services and prod
 
 By supplying your information to us you confirm that you do not consider use of your information in accordance with this privacy policy to be a breach of any of your rights under the privacy and electronic communications (ec directive) regulations 2003.
 
-#### What to do if you do not want to receive marketing information
+  * #### Disclosure of your information
+
+If you change the settings in your personal profile to reflect your wishes in this respect, your personal information (including details of your purchasing preferences) may be shared with reputable third parties whose products/services we think will be of interest to you and those third parties may contact you directly to tell you about the products/information or we may contact you on their behalf. Each of these third parties may use your information as described under the section "how do we use your information?" 
+
+  * #### Use of your information outside the european economic area
+
+In order to provide you with the products and services you require, we may need to store or transfer your personal information to countries outside the european economic area, some of which do not protect privacy rights as extensively as in the united kingdom. This will include the holding of your personal data on the servers which host the website and which are located in the us. 
+
+  * #### What to do if you do not want to receive marketing information
 
 You have the right to prevent marketing information being sent direct to you. If you prefer not to receive information from us or from any other organisation to which we may disclose your personal information, you can write to us by mail or email (see the section "how to contact us" below) or by modifying the settings on your personal profile section during the registration process or at any other time. Please note, however, that if you do withhold or withdraw your consent, we and/or they will be unable to keep you informed of new services, products, events or special offers that may interest you. 
 
-####  Cookies Policy
+  * ####  Cookies Policy
 
 Since May 26th 2011, the law states that cookies on websites can only be used with your specific consent. This will come in to action as of May 26th 2012. MCFC is currently formulating the best way to obtain your consent without compromising your enjoyment of the site. We will update you with this information once it is finalised. MCFC uses cookies in the operation of the site in a number of areas. If you choose not to accept our cookies, some services on our site will not be available to you.
 
@@ -49,11 +65,24 @@ We do not accept any responsibility or liability for the privacy practices of su
 **c. MCFC and how to reject cookies?**  
 A comprehensive audit of the site in terms of the main cookies that MCFC sets (and what each is used for) together with ways to minimise the number of cookies you receive has been carried out. As a result of this we have compiled a list of these cookies you that may wish to opt out of. 
 
+##### 1 Functional
+
+Required cookies to be able to use this site, access secure areas, close popups
+
+##### 2 Performance
+
+Cookie used to detect bandwidth rate, to improve video streaming quality
+
+##### 3 Analytics
+
 Cookies required to (The shop/ticketting site maybe using Analytics for marketing purposes)
+
+##### 4 Targeting
 
 'Targeting' cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our website.
 
 **Cookie Name** | **Description - What does it do? What is is used for?** | **Lifespan of the Cookie** | **Type**  
+---|---|---|---  
 ASP.Net_SessionId | Used to track user sessions on the site | 1 year | Functional  
 ContentModule  
 PersonalizationSettings | Used to store home page content module preferences | 1 year | Functional  
@@ -126,9 +155,48 @@ xs | Facebook Homepage Content/Promo Module - info on user if logged in | Indefi
 sub | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
 p | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
 presence | Facebook Homepage Content/Promo Module - info on user if logged in | Indefinate - No end date set | Targeting  
-  
-#### Security of information
+  * #### Security of information
 
 We take the security of your personal information seriously. When you submit your credit card details, we use industry standard secure sockets layer (ssl) encryption technology to guard your information. In addition, we have security procedures in place to protect our customer database from loss and misuse, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of the personal information contained within it. However we cannot guarantee that any data transmission over the internet is completely secure.
 
 This website contains links to other websites. We are only responsible for the privacy practices on this site. We recommend that you check the privacy and security policies and procedures of each and every other website that you visit.
+
+  * #### Changes to this privacy policy
+
+We reserve the right to change our security and privacy policies at any time. Accordingly we recommend that you check this page periodically in order to review our current policies.
+
+  * #### Updating and correcting information
+
+You may correct your personal information by emailing us via the feedback page, or by changing your profile on our website. Please include your name, address, and/or email address when you contact us. We would encourage you to promptly update your personal information if it changes.
+
+  * #### Your rights to access your personal information
+
+You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make.
+
+
+
+
+#### Manchester City Football Club  
+Etihad Stadium  
+Etihad Campus  
+Manchester   
+M11 3FF  
+United Kingdom
+
+#### Call +44 161 444 1894
+
+##### How to contact us
+
+If you would like any further information or have any comments about our privacy policy or any other aspect of our website or service, please contact us at the address above.
+
+## Choose language
+
+Close
+
+English [ﻲﺑﺮﻋ](http://www.manchestercityfc.ae)
+
+## Go to the UK or US site?
+
+Close
+
+[UK](/SiteHandler.aspx?site=UK) [US](/SiteHandler.aspx?site=US)
