@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aspfree.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526122314id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aspfree.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226143719id_/http%3A//www.developershed.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -19,7 +19,7 @@
 	<script type="text/javascript" src="js/css3-mediaqueries.js"></script>
 <![endif]-->
     <!-- javascript -->
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
             <script>
     //<![CDATA[
@@ -211,18 +211,63 @@ To update the Privacy Statement, we will post both the changed version and its e
    
    <h3>Twitter Feed&nbsp;<a href="http://twitter.com/Developer_Shed" target="_blank"><img src="/images/twitter.png" alt="twitter"></a></h3>
  <div class="twitter-feed">
-   <p><img src="http://a0.twimg.com/profile_images/2322905902/e6icx32xesauhuzyllyt_normal.png"><a href="http://www.twitter.com/Developer_Shed" target="_blank">Developer_Shed</a> Hit by <a href="http://search.twitter.com/search?q=%23Google" title="Search #Google" target="_blank">#Google</a> <a href="http://search.twitter.com/search?q=%23Penguin" title="Search #Penguin" target="_blank">#Penguin</a> 2.0 update? Need help or want to discuss? Ask our <a href="http://search.twitter.com/search?q=%23SEO" title="Search #SEO" target="_blank">#SEO</a> gurus and pro! <a href="http://search.twitter.com/search?q=%23DevSEOChat" title="Search #DevSEOChat" target="_blank">#DevSEOChat</a> <a href="http://search.twitter.com/search?q=%23SEOChat" title="Search #SEOChat" target="_blank">#SEOChat</a> <a href="http://t.co/5MRL6VJvEx" title="http://t.co/5MRL6VJvEx" target="_blank">http://t.co/5MRL6VJvEx</a></p><p><img src="http://a0.twimg.com/profile_images/2322905902/e6icx32xesauhuzyllyt_normal.png"><a href="http://www.twitter.com/Developer_Shed" target="_blank">Developer_Shed</a> How Often Does <a href="http://search.twitter.com/search?q=%23Google" title="Search #Google" target="_blank">#Google</a> <a href="http://search.twitter.com/search?q=%23Penguin" title="Search #Penguin" target="_blank">#Penguin</a> Refresh? <a href="http://search.twitter.com/search?q=%23SEO" title="Search #SEO" target="_blank">#SEO</a> <a href="http://twitter.com/Cre8asite" title="Follow Cre8asite" target="_blank">@Cre8asite</a> <a href="http://t.co/RVrMHtf92G" title="http://t.co/RVrMHtf92G" target="_blank">http://t.co/RVrMHtf92G</a></p><p><img src="http://a0.twimg.com/profile_images/2322905902/e6icx32xesauhuzyllyt_normal.png"><a href="http://www.twitter.com/Developer_Shed" target="_blank">Developer_Shed</a> Another great thread about the <a href="http://search.twitter.com/search?q=%23Google" title="Search #Google" target="_blank">#Google</a> <a href="http://search.twitter.com/search?q=%23Penguin" title="Search #Penguin" target="_blank">#Penguin</a> 2.0 update, this time over at Webmaster World. <a href="http://search.twitter.com/search?q=%23SEO" title="Search #SEO" target="_blank">#SEO</a> <a href="http://t.co/A43H4WeUz7" title="http://t.co/A43H4WeUz7" target="_blank">http://t.co/A43H4WeUz7</a></p>   </div>
-		<!--<div id="twitter_container">
-			<ul id="twitter_update_list"></ul>
-		</div>-->
+   
+<div id="tweets"></div>
+
+
+<script>
+$.getJSON('includes/twitter-feed/cache/get-feed.php', function(data) {
+	$.each(data, function(i) {
+		var url   = "http://twitter.com/"+data[i]['user']['screen_name'];
+		//var tweet  = "<p><a href='"+url+"'>"+data[i]['user']['name']+"</a>";
+			//tweet += "<a href='"+url+"'>@"+data[i]['user']['screen_name']+"</a>";
+			var tweet  = "<p><a href='"+url+"'>@"+data[i]['user']['screen_name']+"</a>";
+			tweet += "<br/>";
+			tweet += twitterfy(data[i]['text']);
+			tweet += "</p>";
+			//tweet += "<small><a href='"+url+"/status/"+data[i]['id_str']+"'>"+parseTwitterDate(data[i]['created_at'])+"</a></small>";
+		$('#tweets').append(tweet);
+	});
+});
+
+function twitterfy(text) {
+	text = text.replace(/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/i, "<a href='$1' target='_blank'>$1</a>")
+           	   .replace(/(^|\s)#(\w+)/, "$1<a href='http://search.twitter.com/search?q=%23$2' target='_blank'>#$2</a>")
+           	   .replace(/(^|\s)@(\w+)/, "$1<a href='http://www.twitter.com/$2' target='_blank'>@$2</a>")
+
+    return text;
+}
+
+function parseTwitterDate(date) { 
+	var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+	var d = new Date(date);
+	var month = months[d.getMonth()];
+	var day = d.getDay();
+	var hours = d.getHours();
+
+	// 12 hour instead of 24
+	var suff = "am";
+	if (hours==0) { hours=12; }
+	else if (hours==12) { suff="pm"; }
+	else if (hours>12) { hours=(hours-12); suff="pm"; }
+
+	// 0 in front of single digits
+	var mins = d.getMinutes();
+	if (mins.length==1) { mins = "0"+mins; }
+
+  	return month+' '+day+' '+hours+":"+mins+suff;
+}
+
+</script>
+   </div>
+		
     <h4><a href="/"><img src="/images/developer-shed-logo-reverse.png" title="developer shed" alt="developer shed"></a></h4>	               
 	</div> <!-- end twitter-column -->
     </div> <!-- end wrap -->
     <p class="copyright clearfix">DeveloperShed is part of the Developer Shed Network, owned by <a href="/jim-boykin.php">Jim Boykin</a>, the CEO of <a href="/internet-marketing-ninjas.php">Internet Marketing Ninjas</a><br>© 2003-2013 by DevShed, LLC. All rights reserved.</p>
 </div> <!-- end footer -->
 </div> <!-- end row -->
-<!--<script src="http://twitter.com/javascripts/blogger.js" type="text/javascript"></script>
-<script src="http://twitter.com/statuses/user_timeline/Developer_Shed.json?callback=twitterCallback2&count=3" type="text/javascript"></script> -->
+
          
     
     </div> <!-- end row -->
