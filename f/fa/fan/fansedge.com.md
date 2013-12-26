@@ -1,130 +1,64 @@
-> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514112207id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226104930id_/http%3A//www.fansedge.com/helpdesk/Privacy%233) for the most accurate reproduction.*
 
-# Security and Privacy
+# Privacy Information
 
-Effective 5/03/2012
+**THIS VERSION IN EFFECT SINCE FEBRUARY, 2012**
 
-### Privacy Notice Table Of Contents:
-
-  * Our Commitment To Privacy
-  * The Information We Collect
-  * How We Use Information
-  * Our Commitment To Data Security
-  * Our Commitment To Children's Privacy
-  * How To Access Or Correct Your Information
-  * How To Contact Us
+  
 
 
+Protecting your privacy is of the utmost important to us at FansEdge. This policy explains how we collect, use and disclose the personal information you may provide while using this website. It is always your choice whether to provide personal information through the website. Any personal information you provide will be treated with care, and subject to this policy, will not be used or disclosed in ways to which you have not consented. Also, you may opt-out of certain uses and disclosures of your personal information, as explained in this policy. 
 
-## Our Commitment To Privacy
+YOUR CONSENT 
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make our privacy practices easy to find and understand, we provide a link to the Privacy Policy highlights on our homepage, on the bottom of all pages in the order process, and through the online help section that is linked to every page of our site. This policy applies to all FansEdge and Powered by FansEdge websites.
+1\. By using the website, you signify your consent to our collection, use and disclosure of your personal information in accordance with this policy. 
 
-We reserve the right to change this policy as needed. A revised policy will be available on our website with an effective date. Subscribed members will be emailed a notification to review the new privacy policy when it becomes available.
+INFORMATION AUTOMATICALLY COLLECTED
 
-By visiting FansEdge and Powered by FansEdge sites, you are accepting the practices described in this Privacy Policy. This Privacy Policy applies to all information that FansEdge currently has about you and your account.
+2\. Non-Identifiable Information: Like many other websites, the website automatically collects certain non-identifiable information regarding website users, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the website, the Internet address of the website from which you linked directly to the website, the operating system you are using, the sections of the website you visit, the website pages read and images viewed and the content you download from the website. This non-identifiable information is used for website and system administration purposes and to improve the website. We also may use non-identifiable information to initiate interactive, real-time discussions with users. Your non-identifiable information may be disclosed to others and permanently archived for future use.
 
-## The Information We Collect
+3\. Cookies: The website uses cookies, a technology that installs a small amount of information on a website user's computer to permit the website to recognize future visits using that computer. Cookies enhance the convenience and use of the website. For example, the information provided through cookies is used to recognize you as a previous user of the website, so you do not have to enter your personal information every time, offer personalized web page content and information for your use, track your activity at the website to respond to your needs and otherwise facilitate your website experience. You may choose to decline cookies if your browser permits, but doing so may affect your use of the website and your ability to access certain features of the website or engage in transactions through the website.
 
-This notice applies to all information collected or submitted at the FansEdge or Powered by FansEdge website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected on these pages are:
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company and service providers use session ID cookies to make it easier for you to navigate our site. 
 
-Required for purchase
-    Name  
-Complete Address  
-Email address  
-Phone numbers
+4\. Tracking Information: We may use non-personal information to create aggregate tracking information reports regarding the website's user demographics, traffic patterns and purchases, and then provide those reports to advertisers and others. None of the tracking information in the reports can be connected to the identities or other personal information of individual users. FansEdge also may link tracking information with personal information voluntarily provided by website users. Once such a link is made, all of the linked information is treated as personal information and will be used and disclosed only in accordance with this policy. 
 
-If paying by Credit/Debit Card
-    \- Note that this information is collected, but we do NOT keep or store your card information!  
-Card number  
-Expiration date  
-CVV2 (CID) code
-If paying by check
-    Type of Account  
-Exact Name of Account Holder  
-Driver's License #  
-Bank Name  
-Routing Number  
-Account Number  
-Check Number
-Optional for registration
-    How did you hear about FansEdge?  
-Date of Birth  
-Household Income  
-Gender  
-Type of purchase  
-Referral code
+PERSONAL INFORMATION YOU SPECIFICALLY PROVIDE 
 
-On some pages, you can submit information about other people. For example, if you order a gift and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+5\. Your Personal Information: During your website use, you may be asked to voluntarily provide certain personal information, such as your name, email address, postal address, telephone number or credit card information. This information is used to make communicating with you easier and to help you apply for access to certain special features of the website or carryout transactions. It is always your choice whether to provide personal information; unfortunately, without providing the requested information, certain site features will not be accessible, and you will not be able to make any transactions through the site.
 
-    Name  
-Complete Address  
-Phone Number
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change to your account information by visiting the My Account section of our website or by contacting us by telephone or postal mail at the contact information listed below. 
 
-## The Way We Use Information
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. FansEdge stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-We use the information you provide about yourself when placing an order to complete that order, which includes sending you order confirmations, shipping notices, and contacting you if we have any questions about your order. We do not share this information with outside parties except to the extent necessary to complete that order.
+Your friend may contact us at [privacy@fansedge.com](mailto:privacy@fansedge.com) to request that we remove this information from our database.
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+6\. Use of Your Personal Information: We may use your personal information to contact and correspond with you, to respond to your inquiries, to process transactions and payments and to facilitate and enhance your use of the website. We may develop a confidential customer profile for you, which will be used to provide the very best service to you.
 
-We offer gift-cards so you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.
+7\. Emails from us: From time to time, we may send email, or other communications containing information about us or other matters that we believe will interest you. At any time you may ask us to stop sending you email and other information by contacting [privacy@fansedge.com](mailto:privacy@fansedge.com). We respect your privacy and do not sell, rent or abuse the customer email list. Also, each email sent by us will tell you how to decline further emails.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We use minimal identifying information for the customer testimonials we receive. This includes first name, city, and state. When we choose a testimonial to be shared, we contact the customer first for explicit permission to post the comments and identifying information. You will always have the ability to choose to keep your testimonial private. We appreciate your feedback.
+8\. Children's Online Policy: We are committed to the preservation of online privacy for all of our website visitors, including children. Consistent with the Children's Online Privacy Protection Act, we will not knowingly collect any personally identifiable information from children under the age of 13. We sell products intended for purchase by adults. If you make a purchase on our website, you are representing that you are an adult. If you are a child under the age of 13, you must ask your parent or legal guardian to assist you in using the website.
 
-You can register with our website if you would like to receive regular coupons as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form, or opt in to receive this information during the checkout process. You may opt-out of email newsletters and promotions at any time, through the link provided in the email, or by logging into your account. Please allow up to 10 days for your information to be removed.
+9\. Disclosure of Your Personal Information: We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may disclose your personal information in the following circumstances:
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+(i) Disclosure to Service Providers: In order to process transactions, we must disclose some of your personal information to certain service providers, such as your credit card issuer, a third-party credit verification company, the product handler, the delivery service, and Fanatics Retail Group. Before personal information is disclosed, the service provider will agree with us to protect the privacy of your personal information in a manner that is consistent with this policy. If you do not wish us to provide your personal information to those service providers, you may not use the website for transactions.
 
-No personally identifiable information will be shared with vendors, like Google, unless a user specifically opts-in to do so.
+(ii) Disclosure to Affiliates: We may provide limited personal information to our affiliates. Before personal information is disclosed, the recipient organization will agree with us to protect the privacy of your personal information in a manner that is consistent with this policy. Recipient organizations may use your personal information to provide you with email or other information about their products and services and other matters.
 
-We may contact you by mail to provide you with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the address provided below.
+(iii) Law Enforcement and Legal Disclosure: We may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where we has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to our legal counsel.
 
-You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by writing to us at:
+10\. Accessing Your Personal Information: You may request access to your personal information and information about our collection, use and disclosure of that information, by contacting [privacy@fansedge.com](mailto:privacy@fansedge.com). Subject to certain exceptions prescribed by law, you will be given reasonable access to your personal information, entitlement to challenge the accuracy and completeness of the information and the ability to have it amended as is appropriate. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information.
 
-FansEdge, Inc.  
-Attn: Security Department  
-725 Landwehr Road  
-Northbrook IL 60062 
+OTHER MATTERS
 
-We will share required information to the necessary government law enforcement agencies in the course of an investigation, as required by law. When permissible, we will inform you that we are providing this information.
+11\. The security of your personal information is extremely important to us. When you enter sensitive information, such as a credit card number on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without notifying you of our intent beforehand, and also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+We use reasonable security measures to protect the confidentiality of the personal information submitted to us both during transmission and once we receive it. FansEdge cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. If you have any questions about security on our website, please contact us. 
 
-## Our Commitment To Data Security
+12\. Contests and Promotions: If contests or promotions are made available through the website, the applicable contest or promotion rules may include rules regarding the collection, use and disclosure of personal information. To the extent that those specific rules conflict with this policy, the contest rules supersede this policy, regarding personal information collected in connection with the contest or promotion.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+13\. Former Users: If you discontinue using the website or your permission to use the website is terminated, we may continue to use and disclose your personal information in accordance with this policy as amended from time to time. However, if you want us to stop sending you unsolicited email and other information, please notify us at [shop@e.fanaticsretailgroup.com](mailto:shop@e.fanaticsretailgroup.com). 
 
-We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends. All cookies in use are highly secure, and do not store highly sensitive information, such as your credit card number.
+14\. We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-In addition, third party companies may be placing and reading cookies, or using web beacons to collect information, in the course of advertising or promoting their products on our website.
-
-Third party vendors including Google, may use cookies to serve the badge and ads based on a user's prior visits to FansEdge.com 
-
-Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
-
-## Our Commitment To Children's Privacy:
-
-Protecting the privacy of the very young is especially important. For that reason, and to comply with the FTC, we never collect or maintain information at our website from those we actually know are at or under 13, and no part of our website is structured to attract anyone under 13. All our contests and promotions are only available to people 18 and over.
-
-If you believe that an underage member of your family, or an underage person you are responsible for, has registered or made a purchase at our website, please contact our customer service immediately at  877-965-3955 .
-
-We reserve the right to suspend or cancel any order we know or suspect was placed by an underage person. We reserve the right to require identification to prove that an order is from a person over 18.
-
-## How You Can Access Or Correct Your Information
-
-You can access all your personally identifiable information that we collect online and maintain by logging into the account you created upon registration. We use this procedure to better safeguard your information.
-
-You can change your FansEdge account information any time you like by going to [Access your account](https://web.archive.org/AccountMenu.aspx). From here you can click [ Log into account](https://web.archive.org/Login.aspx) and enter your email address and password. You can then access the Update My Account page and make changes to your information.
-
-If you do not have an account — for example, if you do not have an email address — you can correct factual errors in your personally identifiable information by calling us at 877-965-3955 or sending us a request to [ Service@CS.FansEdge.com ](mailto:Service@CS.FansEdge.com) that credibly shows the error.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-Should you have other questions or concerns about our privacy policy, please call us at 877-965-3955 or send us an email at [ Service@CS.FansEdge.com ](mailto:Service@CS.FansEdge.com) .
-
-For direct mail opt-out requests, please send a request by mail to:
-
-FansEdge, Inc.  
-Attn: Security Department  
-725 Landwehr Road  
-Northbrook IL 60062 
+15\. Policy Changes: To accommodate changes on the website, changing technology and legal developments, we have the sole discretion to change this policy from time to time without any prior notice or liability to you or any other person. New versions of this policy will be posted here. Our collection, use and disclosure of your personal information will be governed by the version of this policy in effect at that time. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. Accordingly, when you use the website you should check the date of this policy and review any changes since the last version.
