@@ -1,11 +1,25 @@
-<!--The following is the downloaded HTML source of the overwolf.com privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627094101id_/http%3A//www.overwolf.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the overwolf.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226114730id_/http%3A//www.overwolf.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link rel="stylesheet" type="text/css" href="css/main.css"><link rel="stylesheet" type="text/css" href="css/lightbox.css" media="screen"><link rel="stylesheet" type="text/css" href="css/OverwolfHeader.css"><link rel="stylesheet" type="text/css" href="css/OverwolfFooter.css"><link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.0.6" type="text/css" media="screen">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+
+        var _gaq = _gaq || []
+        _gaq.push(['_setAccount', 'UA-18298709-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    <link rel="stylesheet" type="text/css" href="css/main.css"><link rel="stylesheet" type="text/css" href="css/lightbox.css" media="screen"><link rel="stylesheet" type="text/css" href="css/OverwolfHeader.css"><link rel="stylesheet" type="text/css" href="css/OverwolfFooter.css"><link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.0.6" type="text/css" media="screen">
     <link rel="stylesheet" type="text/css" href="css/FancyBoxOverride.css">
     <!--<link rel="stylesheet" type="text/css" href="Dropdown_menu/p7exp.css" />-->
 	<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8"><link rel="icon" type="image/png" href="Favicon.png"><link rel="alternate" type="application/rss+xml" title="Overfolf Blog RSS Feed" href="http://feeds.feedburner.com/Overwolf"><link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold&amp;v1" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="description" content="Add Facebook, Skype, Multi-IM and much more to your games"><meta name="keywords" content="In game communication, Skype, Games, Facebook for games, IM for games, in game technology, Overwolf, game chat, in game chat"><meta name="author" content="Overwolf team - Use Skype, Facebook and much more in games"><meta name="Email" content="team@overwolf.com"><meta name="Copyright" content="Overwolf"><meta name="Distribution" content="Global"><meta name="Rating" content="General"><meta name="Language" content="en"><meta name="Robots" content="index, follow">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script type="text/javascript">
 
         document.getElementsByClassName = function (cl) {
             var retnode = [];
@@ -20,8 +34,8 @@
 
     </script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-    <script type="text/javascript" src="Appstore/Scripts/jquery.imgpreload.min.js"></script>
-	<script type="text/javascript" src="Scripts/jquery.prettyPhoto.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/Appstore/Scripts/jquery.imgpreload.min.js"></script>
+	<script type="text/javascript" src="/Scripts/jquery.prettyPhoto.js" charset="utf-8"></script>
     <script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.0.6"></script>
     <script type="text/javascript" src="/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.0"></script>
     <script type="text/javascript" src="/Scripts/Overwolf.js"></script>
@@ -29,34 +43,40 @@
     
     
     <script type="text/javascript" charset="utf-8">
-        
+
         $(document).ready(function () {
             //$("a[rel^='prettyPhoto']").prettyPhoto();
-            $(".fancybox").fancybox({
-                helpers: {
-                    media: {}
-                }
-            });
-            $("a[rel=WebsiteImage]").fancybox({
-                titlePosition: 'inside',
-                autoSize: 'true',
-                openSpeed: 500,
-                closeSpeed: 500,
-                changeSpeed: 500,
-                autoDimensions: 'false',
-                autoScale: 'true',
-                openEffect: 'fade',
-                closeEffect: 'fade',
-                prevEffect: 'fade',
-                nextEffect: 'fade',
-                nextSpeed: 500,
-                prevSpeed: 500,
+            var fancyBox = $(".fancybox");
+            if (fancyBox.length > 0) {
+                $(".fancybox").fancybox({
+                    helpers: {
+                        media: {}
+                    }
+                });
+            }
+            var fancyImages = $("a[rel=WebsiteImage]");
+            if (fancyBox.length > 0) {
+                fancyImages.fancybox({
+                    titlePosition: 'inside',
+                    autoSize: 'true',
+                    openSpeed: 500,
+                    closeSpeed: 500,
+                    changeSpeed: 500,
+                    autoDimensions: 'false',
+                    autoScale: 'true',
+                    openEffect: 'fade',
+                    closeEffect: 'fade',
+                    prevEffect: 'fade',
+                    nextEffect: 'fade',
+                    nextSpeed: 500,
+                    prevSpeed: 500,
 
-                helpers: {
-                    media: {}
-                }
+                    helpers: {
+                        media: {}
+                    }
 
-            });
+                });
+            }
         });
 
     </script>
@@ -171,7 +191,11 @@
             Cookies
         </h2>
         <p>
-            A cookie is a small piece of text that is sent to a visitor's browser by a Web site. The browser provides this piece of text to the originating Web site when this visitor returns.  Overwolf uses cookies to help personalize your Overwolf experience.  A "persistent" cookie may be used to help save your settings and customizations across site visits. Also, if you log in to Overwolf, such a cookie will be used to recognize you as a valid user so you will not need to log in each time you use Overwolf. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of Overwolf may not function properly when cookies are disabled or removed. 
+            A cookie is a small piece of text that is sent to a visitor's browser by a Web site. The browser provides this piece of text to the originating Web site when this visitor returns.  Overwolf uses cookies to help personalize your Overwolf experience.  A "persistent" cookie may be used to help save your settings and customizations across site visits. Also, if you log in to Overwolf, such a cookie will be used to recognize you as a valid user so you will not need to log in each time you use Overwolf. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of Overwolf may not function properly when cookies are disabled or removed. <br>
+            The Google Analytics features you've implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+            Using the Ads Settings, visitors can opt-out of Google Analytics for Display Advertising and customize <a href="https://www.google.com/settings/ads">Google Display Network ads</a>.
+            You and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
+            How you use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
         </p>
         <h2>
             Online Links to Other Sites
@@ -325,19 +349,7 @@
    </div>
     
           
-    <script type="text/javascript">
 
-        var _gaq = _gaq || []
-        _gaq.push(['_setAccount', 'UA-18298709-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
 
 
 </body></html>
