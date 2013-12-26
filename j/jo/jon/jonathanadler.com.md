@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonathanadler.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601111014id_/http%3A//www.jonathanadler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonathanadler.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226222907id_/http%3A//www.jonathanadler.com/privacy) for the most accurate reproduction.*
 
 # Jonathan Adler :: Privacy Policy
 
@@ -38,7 +38,7 @@ Please be advised that in certain instances, it may be necessary for Jonathan Ad
 
 ##  Opting Out
 
-**How you can access, change, or delete your information and preferences:** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us please let us know by sending your written request via email to [customerservice@jonathanadler.com](mailto:customerservice@jonathanadler.com), or via postal mail to Jonathan Adler Web Orders 513 Irving Avenue Brooklyn, NY 11237. You may also contact us at (800) 963-0891. Please provide your full name, mailing address, email address, and phone number when making this request.  Include your email address, full name, and specifically what information you do not want to receive. Please note that it may take up to two-weeks for your request to become effective.
+**How you can access, change, or delete your information and preferences:** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us please let us know by sending your written request via email to [customerservice@jonathanadler.com](mailto:customerservice@jonathanadler.com), or via postal mail to Jonathan Adler Web Orders 513 Irving Avenue Brooklyn, NY 11237. You may also contact us at (800) 963-0891. Please provide your full name, mailing address, email address, and phone number when making this request.  Include your email address, full name, and specifically what information you do not want to receive. Please note that it may take up to two weeks for your request to become effective.
 
 You may, at any time, access and verify, correct, update or remove your personal information and preferences on-line at www.jonathanadler.com and/or by contacting us by email at customerservice@jonathanadler.com or by telephone at (800) 963 0891.
 
@@ -46,7 +46,7 @@ You may, at any time, access and verify, correct, update or remove your personal
 
 Jonathan Adler may use cookies from time to time. A cookie is a unique text file that a web site can send to your browser software. Cookies enable a Web site to tailor information presented to you based on your browsing preferences. Jonathan Adler may use cookies to personalize pages you view, mark or unmark links, or to remember your preferences. If you do not want Jonathan Adler to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the products and/or services at our web site.
 
-Jonathan Adler may also use cookies to track your visit to our Web site. While our Web servers may automatically log your IP address, this information does not identify you and you remain anonymous.
+Jonathan Adler may also use cookies to track your visit to our Web site. While our Web servers may automatically log your IP address, this information does not identify you and you remain anonymous. Additionally, Bazaarvoice, provider of our rating & reviews software, deploys a third party persistent cookie on our website. Please take a moment to read [Bazaarvoice’s Privacy Policy](http://www.bazaarvoice.com/privacy-policy).
 
 ##  Web Site Traffic
 
