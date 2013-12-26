@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620101413id_/http%3A//www.wfmz.com/Privacy-Policy/-/121798/141168/-/ok7y5bz/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfmz.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226015410id_/http%3A//www.wfmz.com/Privacy-Policy/-/121798/141168/-/ok7y5bz/-/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
