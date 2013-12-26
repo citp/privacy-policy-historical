@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cowboom.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531234323id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cowboom.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226135926id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head><body onload="MM_preloadImages('http://www.cowboom.com/img/footer-icon-facebook-on.png','http://www.cowboom.com/img/footer-icon-twitter-on.png')"><div class="header_newsite">
         
@@ -39,6 +39,7 @@
 <link rel="stylesheet" type="text/css" href="/styles/main-min.css">
 <link href="/styles/CowBoom/global.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="../css/smoothness/jquery-ui-1.10.2.custom.css">
+<link rel="stylesheet" type="text/css" href="../css/jquery-modal.css">
 
 <link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
@@ -47,6 +48,7 @@
 <script type="text/javascript" src="/javascript/lib/qForms.js"></script><script language="JavaScript1.2">_jsver = 12;</script><script language="JavaScript1.3">_jsver = 13;</script><script language="JavaScript1.4">_jsver = 14;</script><script language="JavaScript1.5">_jsver = 15;</script> 
 <script type="text/javascript" src="/javascript/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="/javascript/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" src="/javascript/jquery-modal.js"></script>
 <script type="text/javascript" src="/javascript/global-min.js"></script>
 
 
@@ -56,6 +58,8 @@
 	$(document).ready(function(){
 		/* Tool Tips for Help Info */
 		$(".helptip").powerTip({popupId: 'CBHelptip', placement: 'n', smartPlacement: true, mouseOnToPopup: true});
+		/* Tool Tips for Help Info */
+		$(".helptipLeft").powerTip({popupId: 'CBHelptipLeft', placement: 'w', smartPlacement: true, mouseOnToPopup: true});		
 		/* Tool Tips for standard Info */
 		$(".infotip").powerTip({popupId: 'CBInfotip', placement: 'n', smartPlacement: true, mouseOnToPopup: true});
 		
@@ -67,6 +71,13 @@
 		else 
 			document.getElementById("enableCookies").innerHTML = "";
 	});
+	
+	function disableButtons()
+	{
+		$(":button").attr("disabled", "true");
+		$(":submit").attr("disabled", "true");
+	}
+	
 </script>
 
 
@@ -94,24 +105,27 @@
 		return false;		
 	}
 </script>
-<script type="text/javascript">
+ 
+	<script type="text/javascript">
+    
+      var _gaq = _gaq || [];
+      if((/^.*\/index\.cfm$/i).test(window.location)&&!(/(auction|signin|rma)/i).test(window.location))
+          window.location = "/";
+      else
+      {
+          _gaq.push(['_setAccount', 'UA-4331879-2']);
+          _gaq.push(['_trackPageview']);
+      }
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+    </script>
 
-  var _gaq = _gaq || [];
-  if((/^.*\/index\.cfm$/i).test(window.location)&&!(/(auction|signin|rma)/i).test(window.location))
-	  window.location = "/";
-  else
-  {
-	  _gaq.push(['_setAccount', 'UA-4331879-2']);
-	  _gaq.push(['_trackPageview']);
-  }
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 <title>Privacy Policy</title>
 <meta name="description" content="A Best Buy company offering closeout prices on brand-name new, pre-owned and refurbished electronics. Free Shipping &amp; 15-Day money-back guarantee.">
 <meta name="keywords" content="Hot Deals on consumer electronics. Daily deal, auctions, and a store. Laptops, Desktops, Cameras, Camcorders, MP3 players, PS3, ipod, xbox, hdtv">
@@ -123,8 +137,13 @@
         
         
         
-<style>
 
+<style>
+	
+	
+	
+	
+		
 </style>
 
 
@@ -134,23 +153,24 @@
 				<ul class="social-networks">
 					<li><a class="facebook" href="http://www.facebook.com/cowboom/"></a></li>
 					<li><a class="twitter" href="http://twitter.com/cowboom/"></a></li>
+				 
 					<li>
 						<script type="text/javascript">
 							var __ALC_BADGE_SUFFIX = (Math.round(Math.random()*10000000000));
 							document.write('<a href="javascript://chat" style="display: none;" onclick="_alc.startChat(16859); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'"><img id="__ALC_BADGE_ONLINE_IMAGE" src="'+unescape(document.location.protocol+'//content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-alpha.png')+'" style="border: 0px none" /></a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="'+unescape(document.location.protocol+'//content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-off-alpha.png')+'" style="border: 0px none" /></span>');
 							if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
 							var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '16859'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 0; __ALC_Badges.push(__ALC_BUTTON);
-						</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(16859); return false;" id="__ALC_BADGE_ONLINE1540206502"><img id="__ALC_BADGE_ONLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-alpha.png" style="border: 0px none"></a><span id="__ALC_BADGE_OFFLINE1540206502" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-off-alpha.png" style="border: 0px none"></span>
+						</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(16859); return false;" id="__ALC_BADGE_ONLINE8551826063"><img id="__ALC_BADGE_ONLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-alpha.png" style="border: 0px none"></a><span id="__ALC_BADGE_OFFLINE8551826063" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-off-alpha.png" style="border: 0px none"></span>
 
 						
 					</li>
-                   
+				  
 					
 				</ul>
 				<ul class="navbar">
 					
-						<li><a href="https://www.cowboom.com/signIn.cfm?redirect=/404.cfm" style="color:silver;line-height:16px;">Create Account</a></li>
-						<li><a href="https://www.cowboom.com/signIn.cfm" style="color:silver;line-height:16px;">Sign In</a></li>
+						<li><a href="https://www.cowboom.com/signIn.cfm?redirect=/404.cfm" class="headerlinks">Create Account</a></li>
+						<li><a href="https://www.cowboom.com/signIn.cfm" class="headerlinks">Sign In</a></li>
 					
 				</ul>
 			</div>
@@ -171,18 +191,9 @@
 							text-indent:.5em;
 							font-size:12pt;
 						}
-						#cartTotal {
-							font-size: 18px;
-							color: #F66;
-							vertical-align:middle;
-						}
-						.cartlinkfix:hover {
-							text-decoration: underline;
-							font-weight: 500;
-						}
 					</style>
 				
-				<a href="https://www.cowboom.com/checkout/cart.cfm" class="cart cartlinkfix"><span class="item" style="vertical-align:none;">Cart <em>(<span id="cartItemCount">0</span>)</em> </span> <span id="cartTotal">$0.00</span></a>				
+				<a href="https://www.cowboom.com/checkout/cart.cfm" class="cart cartlinkfix"><span class="item" style="vertical-align:none;">Cart <span id="cartBold">(<span id="cartItemCount">0</span>)</span> </span> <span id="cartTotal">$0.00</span></a>				
 							
 			</div>
 			
@@ -190,6 +201,50 @@
 
 
 
+
+<script>
+	$(function() {			   
+		var MarqueeColor = $('#marquee span[style*=background-color]').css('background-color'); 
+		if(!MarqueeColor)
+			$('#marquee').find('span').each(function(i){
+				if($(this).css("background-color")!='transparent')
+				{
+					MarqueeColor = $(this).css("background-color");
+					return false;
+				}
+			});	
+		$('#header').css('background-color',MarqueeColor);
+		$('#marquee').show(10,alignHeader);
+	});
+	function alignHeader()
+	{
+		var cobrandOffset = 0;
+		if($('#brandContainer').length>0)
+			cobrandOffset = 80;
+		var altDim = $('#marquee').height() + 30;
+		var marginOffset = altDim + cobrandOffset;
+		$('.header_newsite').css('margin-bottom',marginOffset.toString()+'px');
+		if(altDim>50&&$('#marquee img').length>0)
+		{
+			if(altDim<70)
+			{
+				$('#marquee').css({top:5});
+				$('#marquee img').css({top:-5});
+			}
+			else
+			{
+				$('#marquee').css({top:10});
+				$('#marquee img').css({top:-10});
+			}
+		}
+	}
+</script>
+<style>
+	#marquee	{padding:.7em 0 .3em 0;display:none;position:relative;}
+	#marquee span	{vertical-align:baseline !important;height:20px;}
+	#marquee img	{vertical-align:middle;padding:4px 0;position:relative;}
+</style>
+<div id="marquee"><p style="text-align: center"><span style="background-color: rgb(17,163,241)"><img alt="10% Off Promo Code" src="http://images.dtdeals.com/emails/468x60-Holiday-15percent.jpg"></span></p></div>
 
 
 
@@ -199,16 +254,67 @@
 				<div class="popup-holder">
 					<div class="popup">
 						<div class="close-holder"><a class="close">Close Deals</a></div>
-						<div class="DealCowSays"><p style="text-align: center"><strong><span style="color: rgb(51,153,102)">&nbsp;</span><span style="font-size: x-large"><span style="color: #ff99cc"><span style="font-family: Tahoma"><font face="Arial">Mooore Phones, Mooore Tablets - This is Cow we do it!</font></span></span></span></strong></p>
-<p style="text-align: center"><span style="color: rgb(255,51,255)">&nbsp;</span></p></div>
+						<div class="DealCowSays"><p><span style="font-size: x-large"><span style="font-family: Tahoma"><span style="color: #3366ff"><span style="background-color: #ffffff"><span style="color: #339966"><span style="font-size: large">CowBoom prevents over 400 tons of waste from entering <br>
+landfills </span></span></span></span></span></span><span style="font-size: x-large"><span style="font-family: Tahoma"><span style="color: #3366ff"><span style="background-color: #ffffff"><span style="color: #339966"><span style="font-size: large">each year by testing and refurbishing worthwhile electronics.</span></span></span></span></span></span></p></div>
 						<ul class="items">
 							
 								
 								<li>
 									<div class="holder">
 										
+										<a href="http://www.cowboom.com/product/1062514" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_1062514_1.jpg" class="scaleImage" alt="Apple MD329LL/A iPad 3 Tablet 32GB w/WiFi-White from CowBoom">											
+										</a>
+
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/1062514">Apple MD329LL/A iPad 3 Tablet 32GB w/WiFi-White</a></div>
+										<div style="height:30px;text-align:left;">
+											
+												<p class="reviews">			
+												<a class="newsite" href="/product/1062514?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
+													<img src="http://www.cowboom.com/images/ratings/4.75_clear.gif">			
+												</a></p> 
+											
+										</div>
+										
+										<p class="product-block-price" style="text-align:left;">$299.99</p>
+										
+										<p class="free-shipping">
+										
+											<img src="/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> 
+										
+										</p>
+									</div>	
+								</li>
+							
+								
+								<li>
+									<div class="holder">
+										
+										<a href="http://www.cowboom.com/product/1337238" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_1337238_1.jpg" class="scaleImage" alt="Apple MacBook Pro Laptop C2D 2.26GHz 2GB 160GB DVDRW from CowBoom">											
+										</a>
+
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/1337238">Apple MacBook Pro Laptop C2D 2.26GHz 2GB 160GB DVDRW</a></div>
+										<div style="height:30px;text-align:left;">
+											
+										</div>
+										
+										<p class="product-block-price" style="text-align:left;">$588.49</p>
+										
+										<p class="free-shipping">
+										
+											<img src="/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> 
+										
+										</p>
+									</div>	
+								</li>
+							
+								
+								<li>
+									<div class="holder">
+										
 										<a href="http://www.cowboom.com/product/548824" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_548824_3.jpg" class="scaleImage" alt="Apple MacBook 13.3in Laptop C2D 2GHz 2GB 160GB DVDRW from CowBoom">											
+											<img src="http://images.cowboom.com/store/thumb/DT_548824_4.jpg" class="scaleImage" alt="Apple MacBook 13.3in Laptop C2D 2GHz 2GB 160GB DVDRW from CowBoom">											
 										</a>
 
 										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/548824">Apple MacBook 13.3in Laptop C2D 2GHz 2GB 160GB DVDRW</a></div>
@@ -221,7 +327,7 @@
 											
 										</div>
 										
-										<p class="product-block-price" style="text-align:left;">$816.49</p>
+										<p class="product-block-price" style="text-align:left;">$471.49</p>
 										
 										<p class="free-shipping">
 										
@@ -235,77 +341,21 @@
 								<li>
 									<div class="holder">
 										
-										<a href="http://www.cowboom.com/product/746327" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_746327_1.jpg" class="scaleImage" alt="Apple MC540LL/A iPod touch 4th Gen 8GB MP3 Player from CowBoom">											
+										<a href="http://www.cowboom.com/product/813586" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_813586_3.jpg" class="scaleImage" alt="Apple MacBook Pro 13.3 Laptop i7 2.7GHz 4GB 500GB DVDRW from CowBoom">											
 										</a>
 
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/746327">Apple MC540LL/A iPod touch 4th Gen 8GB MP3 Player</a></div>
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/813586">Apple MacBook Pro 13.3 Laptop i7 2.7GHz 4GB 500GB DVDRW</a></div>
 										<div style="height:30px;text-align:left;">
 											
 												<p class="reviews">			
-												<a class="newsite" href="/product/746327?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
+												<a class="newsite" href="/product/813586?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
 													<img src="http://www.cowboom.com/images/ratings/4.75_clear.gif">			
 												</a></p> 
 											
 										</div>
 										
-										<p class="product-block-price" style="text-align:left;">$99.99</p>
-										
-										<p class="free-shipping">
-										
-											<img src="/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> 
-										
-										</p>
-									</div>	
-								</li>
-							
-								
-								<li>
-									<div class="holder">
-										
-										<a href="http://www.cowboom.com/product/802519" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_802519_1.jpg" class="scaleImage" alt="Samsung GT-P7510 16GB 10.1in Android Galaxy Tab from CowBoom">											
-										</a>
-
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/802519">Samsung GT-P7510 16GB 10.1in Android Galaxy Tab</a></div>
-										<div style="height:30px;text-align:left;">
-											
-												<p class="reviews">			
-												<a class="newsite" href="/product/802519?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
-													<img src="http://www.cowboom.com/images/ratings/4.25_clear.gif">			
-												</a></p> 
-											
-										</div>
-										
-										<p class="product-block-price" style="text-align:left;">$179.99</p>
-										
-										<p class="free-shipping">
-										
-											<img src="/images/cowboom/free_truck.png" alt="Free Shipping" class="free-shipping-icon"> 
-										
-										</p>
-									</div>	
-								</li>
-							
-								
-								<li>
-									<div class="holder">
-										
-										<a href="http://www.cowboom.com/product/545969" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_545969_3.jpg" class="scaleImage" alt="Apple MB735LL/A 8GB 4th Gen iPod nano - Pink from CowBoom">											
-										</a>
-
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/545969">Apple MB735LL/A 8GB 4th Gen iPod nano - Pink</a></div>
-										<div style="height:30px;text-align:left;">
-											
-												<p class="reviews">			
-												<a class="newsite" href="/product/545969?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
-													<img src="http://www.cowboom.com/images/ratings/4.75_clear.gif">			
-												</a></p> 
-											
-										</div>
-										
-										<p class="product-block-price" style="text-align:left;">$50.99</p>
+										<p class="product-block-price" style="text-align:left;">$1,146.48</p>
 										
 										<p class="free-shipping">
 										
@@ -677,7 +727,7 @@
 					document.write('<a href="javascript://chat" onclick="_alc.startChat(16120); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'" style="display: none">'+decodeURIComponent("Chat%20with%20Us%20Live%21")+'</a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;">'+decodeURIComponent("Live%20Chat%20is%20Offline")+'</span>');
 					if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
 					var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '16120'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 0; __ALC_Badges.push(__ALC_BUTTON);
-					</script><a href="javascript://chat" onclick="_alc.startChat(16120); return false;" id="__ALC_BADGE_ONLINE8779075381" style="display: none">Chat with Us Live!</a><span id="__ALC_BADGE_OFFLINE8779075381" style="display: none;">Live Chat is Offline</span>
+					</script><a href="javascript://chat" onclick="_alc.startChat(16120); return false;" id="__ALC_BADGE_ONLINE3636877819" style="display: none">Chat with Us Live!</a><span id="__ALC_BADGE_OFFLINE3636877819" style="display: none;">Live Chat is Offline</span>
 					
 					</li>
 					</ul> 
@@ -730,6 +780,7 @@
 		</div>
  		<br clear="all">
 		<p class="footer-copyright">©&nbsp;2013 CowBoom - All Rights Reserved.<br> 
+		BEST BUY, the BEST BUY LOGO, COWBOOM, COWBOOM.COM, the COW FACE Logo and GREAT DEALS. NO BULL., are trademarks of BBY Solutions, Inc.<br> 
 		<a class="newsite" href="http://www.cowboom.com/Terms-of-Use">Terms of Use</a> | 
         <a class="newsite" href="http://www.cowboom.com/Privacy-Policy">Privacy Policy</a> | 
         <a class="newsite" href="http://www.cowboom.com/California-Privacy-Rights">California Privacy Rights</a> | 
@@ -785,4 +836,4 @@
 
 
 <noscript><style>#spacer, #footer{display:block;}</style></noscript>
-</body></html>
+<div id="modalOverlay" style="display: none;"></div><div id="modal" style="display: none;"><div id="modalContent"></div><a id="modalClose" href="">close</a></div></body></html>
