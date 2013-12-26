@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthreviewcenter.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524165534id_/http%3A//healthreviewcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthreviewcenter.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226024841id_/http%3A//healthreviewcenter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Health Review Center
+# Privacy Policy - Health advice, fitness tips, and reviews - Health Review CenterHealth advice, fitness tips, and reviews – Health Review Center
 
 We are committed to safeguarding the privacy of the website visitors and this privacy policy sets out how we will treat your personal information.
 
