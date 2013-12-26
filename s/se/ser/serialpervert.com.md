@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serialpervert.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424183013id_/http%3A//www.xxxgamergirls.com/documents/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialpervert.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226054450id_/http%3A//www.xxxgamergirls.com/documents/policy) for the most accurate reproduction.*
 
 # Privacy policy - xxxgamergirls.com
 
