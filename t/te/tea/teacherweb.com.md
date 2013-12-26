@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherweb.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529194843id_/http%3A//www.teacherweb.com/tweb/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherweb.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226065700id_/http%3A//teacherweb.com/tweb/privacypolicy.aspx) for the most accurate reproduction.*
 
 # TeacherWeb® Privacy Policy
 
