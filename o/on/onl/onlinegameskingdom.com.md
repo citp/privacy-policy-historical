@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegameskingdom.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517195848id_/http%3A//onlinegameskingdom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegameskingdom.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226110601id_/http%3A//onlinegameskingdom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Games Kingdom
 
