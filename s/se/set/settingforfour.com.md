@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620085810id_/http%3A//www.settingforfour.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226065017id_/http%3A//www.settingforfour.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Setting for Four: Privacy Policy
 
@@ -28,15 +28,19 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ~ ~ ~ ~ 
 
-****Want posts delivered to your inbox? Click here! ****
+[](http://pinterest.com/settingforfour/)
+
+****Have you just discovered Setting for Four?****
+
+****If so, I’d love for you to follow me by email so you never miss an update!  ****
+
+****  Click below!****
 
 [](http://feedburner.google.com/fb/a/mailverify?uri=blogspot/urLb&loc=en_US)
 
 ****_Or follow along with me here !:_ ****
 
-[](http://www.facebook.com/pages/Setting-for-Four/151339664986670?ref=tn_tnmn) [](http://pinterest.com/settingforfour/) [](https://twitter.com/SettingforFour) [](https://plus.google.com/u/0/#107272715678968973342/posts) [](http://www.stumbleupon.com/stumbler/settingforfour) [](http://instagram.com/settingforfour)[]() [](http://www.hometalk.com/settingforfour) [](http://settingforfour.blogspot.com/feeds/posts/default?alt=rss)
-
-~ ~ ~
+[](http://www.facebook.com/pages/Setting-for-Four/151339664986670?ref=tn_tnmn) [](http://pinterest.com/settingforfour/) [](https://twitter.com/SettingforFour) [](https://plus.google.com/u/0/#107272715678968973342/posts) [](http://www.stumbleupon.com/stumbler/settingforfour) [](http://instagram.com/settingforfour)[]() [](http://www.hometalk.com/settingforfour) [](http://feeds.feedburner.com/SettingforFour) [](http://www.linkedin.com/in/heatherluckhurst)
 
 *** Thank you SO much for coming by for a visit! I love to hear all of your comments! * **
 
