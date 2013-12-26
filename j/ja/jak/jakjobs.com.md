@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jakjobs.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512132718id_/http%3A//jakjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakjobs.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226165421id_/http%3A//jakjobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lowongan Kerja 2013
+# Privacy Policy
 
 What follows is the Privacy Statement for [JakJobs.com](http://jakjobs.com/). Please read this statement regarding our website. If you have questions please ask us via our contact info.
 
