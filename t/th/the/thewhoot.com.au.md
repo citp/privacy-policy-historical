@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhoot.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529165011id_/http%3A//thewhoot.com.au/advertising/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhoot.com.au privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226164141id_/http%3A//thewhoot.com.au/advertising/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheWHOot
 
@@ -37,7 +37,7 @@ Most commercial websites use ‘cookies’, which are pieces of information that
 
 If you would prefer not to receive cookies, you can alter your security settings on your web browser to disable cookies or to warn you when cookies are being used. However, by disabling the cookie function in your web browser you may impede your ability to use parts of the Website.
 
-**Your option not to provide your personal information**
+**Your option not to provide your personal information** ** **
 
 Providing us with your personal information is absolutely optional, and whenever it is optional for you to provide us with your personal information, we will make this clear to you. When you provide us with your personal information, you are consenting to our storage, use and disclosure of that information as outlined in this Privacy Policy.
 
@@ -84,20 +84,20 @@ Please note that no information transmitted over the Internet can be guaranteed 
 
 **Unsubscribing from our e-mail database**
 
-To unsubscribe from our e-mail database, please send an e-mail to [unsubscribe@whoadelaide.com.au](mailto:unsubscribe@whoadelaide.com.au) with “UNSUBSCRIBE” typed into the subject line of the e-mail.
+To unsubscribe from our e-mail database, please send an e-mail to [unsubscribe@thewhoot.com.au](mailto:unsubscribe@thewhoot.com.au) with “UNSUBSCRIBE” typed into the subject line of the e-mail.
 
 **Accessing, correcting and updating your information**
 
 You have the right to access the information that you provide to us.
 
-If you wish to access, modify or remove any personal information that you have provided to us, please contact our Privacy Officer at [privacy@whoadelaide.com.au](mailto:privacy@whoadelaide.com.au).
+If you wish to access, modify or remove any personal information that you have provided to us, please contact our Privacy Officer at [privacy@thewhoot.com.au](mailto:privacy@thewhoot.com.au).
 
 **Contacting us**
 
-If you have any concerns or questions about our Privacy Policy, please contact us at [privacy@whoadelaide.com.au](mailto:privacy@whoadelaide.com.au).
+If you have any concerns or questions about our Privacy Policy, please contact us at [privacy@thewhoot.com.au](mailto:privacy@thewhoot.com.au).
 
 We reserve our right to modify or amend this Privacy Policy at any time. Should any significant amendments occur, notification would be provided by publication on the Website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/).
 
 _Privacy Policy last updated on 11 September 2012._
 
-[](http://www.printfriendly.com/print?url=http://thewhoot.com.au/advertising/privacy-policy)
+## Around The WHOot - Sharing the best from the web with you
