@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windows2universe.org privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628065628id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows2universe.org privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226071539id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policies
+# Privacy Policies - Windows to the Universe
 
 **Updated: October 19, 2010**
 
@@ -63,8 +63,8 @@ Boulder, CO 80308-3854
 
 The privacy policy set out above is effective as of October 19, 2010, and applies to all information previously obtained by the W2U websites. We reserve the right to change the privacy policy at our sole discretion, and we will inform you of any such change by posting a new privacy policy on the W2U websites along with the effective date. We will also obtain consent to uses of PII in ways that are materially different from the ones described in this Privacy Policy. 
 
-[](https://web.archive.org/store/product.php?productid=263)
+[](https://web.archive.org/store/product.php?productid=70)
 
 #### Shop Windows to the Universe Science Store!
 
-Our [online store](http://www.windows2universe.org/store/home.php) includes [issues of NESTA's quarterly journal, _The Earth Scientist_](http://www.windows2universe.org/store/home.php?cat=19), full of classroom activities on different topics in Earth and space science, ranging from [seismology](http://www.windows2universe.org/store/product.php?productid=69&cat=19&page=1), [rocks and minerals](http://www.windows2universe.org/store/product.php?productid=56&cat=19&page=1), [oceanography](http://www.windows2universe.org/store/product.php?productid=11&cat=19&page=1), and [Earth system science](http://www.windows2universe.org/store/product.php?productid=53&cat=19&page=1) to [astronomy](http://www.windows2universe.org/store/product.php?productid=12&cat=19&page=1)!
+Learn about Earth and space science, and have fun while doing it! The [games](http://www.windows2universe.org/store/home.php?cat=22) section of our [online store](http://www.windows2universe.org/store/home.php) includes a [climate change card game](http://www.windows2universe.org/store/product.php?productid=70&cat=22&page=1) and the [Traveling Nitrogen game](http://www.windows2universe.org/store/product.php?productid=9&cat=22&page=1)!
