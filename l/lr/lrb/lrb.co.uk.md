@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629193027id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226094706id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy · LRB
 
@@ -23,6 +23,12 @@ Cookies are short strings of text sent to your browser and stored by your comput
 We also use cookies for authentication and to remember the logged-in status of registered users and subscribers who use our extended subscriber services.
 
 Most browsers have ‘preference’ settings which alert you when cookies are being received and allow you to reject them before they are stored or delete them after they have been stored. If you choose to reject cookies you will still be able to use the _LRB_ Website, but functionality may be reduced and subscribers may be unable to use our extended subscriber services or view subscriber-only content.
+
+We may remarket your information. Remarketing is a way for us to connect with users, based upon your past interactions with the _LRB_ Website. Third-party marketing vendors may be hired by the _LRB_ to perform remarketing services. As a result, third-party vendors, including Google, may show _LRB_ ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to the _LRB_ ’s website.
+
+To opt out of customized Google Display Network ads [click here](https://www.google.com/settings/ads/onweb/?hl=en&hl=en&sig=ACi0TCh1gvijSzZx4FCDDmvxyO8mg--FNzsJ9FePCZ1Eo1O4IZLK4Zr9rxlra5PbI2hpRsYTPex6eJxhkjScAQkjhrIqEuqqM7uosv39MRB23XmOSm4f7NCfNI2oKpiJD6Lw3Tigg57LthVKLdRPdaFsLtqhckW_rB3JDMS7Q5RT5WqQ08Rs7icRHPDWBtIjexnOD). To find out more about how Google uses any data it collects please visit <http://www.google.com/privacy_ads.html>.
+
+Any information collected is used only for remarketing purposes and will not be used by them for any other purpose.
 
 ### IP address
 
