@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amharicmovies.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624012114id_/http%3A//www.amharicmovies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amharicmovies.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226015504id_/http%3A//www.amharicmovies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - AmharicMovies.com - Amharic Movies Online
 
