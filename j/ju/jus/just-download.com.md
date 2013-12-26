@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-download.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624102445id_/http%3A//just-download.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-download.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226193756id_/http%3A//just-download.com/privacy) for the most accurate reproduction.*
 
 # Free software download
 
