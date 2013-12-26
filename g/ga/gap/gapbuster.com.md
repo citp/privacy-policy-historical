@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627062342id_/http%3A//gapbuster.com/CorpContent/CorpPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapbuster.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226151341id_/http%3A//www.gapbuster.com/corpcontent/corpprivacy) for the most accurate reproduction.*
 
 # Privacy Policy : GAPbuster
 
