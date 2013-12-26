@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624234035id_/http%3A//www.clicksor.com/footer-link/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226025916id_/http%3A//www.clicksor.com/footer-link/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Contextual Advertising and Behavioral Marketing Company
 
@@ -32,6 +32,10 @@ Our site’s registration form requires users to provide contact information, su
 This site contains links to other sites. Clicksor is not responsible for the privacy practices or the content of the websites you visit once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links.
 
 [webmaster@clicksor.com](mailto:webmaster@clicksor.com)
+
+**Sending Emails to Our Members**
+
+Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from Clicksor, as well as any companies affiliated with Clicksor as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
 
 **Contacting the Website**
 
