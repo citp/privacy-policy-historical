@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502122725id_/http%3A//www.phnompenhpost.com/2007112241967/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226021446id_/http%3A//www.phnompenhpost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy, Phnom Penh Post
 
-##  [ Privacy policy](https://web.archive.org/2007112241967/privacy-policy.html)
+### Effective April 1 2008
 
-Effective **April 1 2008**
-
-**Privacy Notice Table Of Contents:**
+#### Privacy Notice Table Of Contents:
 
   * Our Commitment To Privacy
   * The Information We Collect
@@ -18,56 +16,60 @@ Effective **April 1 2008**
 
 
 
-**Our Commitment To Privacy**
+#### Our Commitment To Privacy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**The Information We Collect:**
+#### The Information We Collect:
 
-This notice applies to all information collected or submitted on the Phnom Penh Post website. On some pages, you can register, subscribe, make requests, and post comments. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the Phnom Penh Post website. On some pages, you can register, subscribe, make requests, and post comments. The types of personal information collected at these pages are:
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-(etc.) 
+  * Name 
+  * Address 
+  * Email address 
+  * Phone number 
+  * Credit/Debit Card Information 
+  * (etc.)
 
-On some pages, you can submit information about other people. For example, if you subscribe online and want the Phnom Penh Post sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-Name   
-Address   
-Phone Number   
-(etc.) 
 
-**The Way We Use Information:**
+On some pages, you can submit information about other people. For example, if you subscribe online and want the Phnom Penh Post sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
-We use the information you provide about yourself when registering with the website in order to give you access to additional feature and functionalities which are not accessible to anonymous users. We do not share this information with outside parties except to the extent necessary to provide you with those feature and functionalities. 
+  * Name 
+  * Address 
+  * Phone Number 
+  * (etc.)
 
-We use the information you provide about someone else when registering/subscribing only to mail/grant access to the Phnom Penh Post. We do not share this information with outside parties except to the extent necessary to complete or process that registration/subscription. 
 
-We offer the ability to post comments, and to engage in interactive forums. Information you provide to us to gain access to these interactive features is only used for that purpose. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+#### The Way We Use Information:
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+We use the information you provide about yourself when registering with the website in order to give you access to additional feature and functionalities which are not accessible to anonymous users. We do not share this information with outside parties except to the extent necessary to provide you with those feature and functionalities.
 
-**Our Commitment To Data Security**
+We use the information you provide about someone else when registering/subscribing only to mail/grant access to the Phnom Penh Post. We do not share this information with outside parties except to the extent necessary to complete or process that registration/subscription.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+We offer the ability to post comments, and to engage in interactive forums. Information you provide to us to gain access to these interactive features is only used for that purpose.
 
-**Our Commitment To Children's Privacy:**
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-**How You Can Access Or Correct Your Information**
+#### Our Commitment To Data Security
 
-You can access all your personally identifiable information that we collect online and maintain by login and accessing the top menu entitled “My Post”. You can review and update the information you have posted about yourself by accessing the different sub-menus of this section. We use this procedure to better safeguard your information. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+#### Our Commitment To Children's Privacy:
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-**How To Contact Us**
+#### How You Can Access Or Correct Your Information
 
-Should you have other questions or concerns about these privacy policies, send us an email at [admin@phnompenhpost.com](mailto:admin@phnompenhpost.com). 
+You can access all your personally identifiable information that we collect online and maintain by login and accessing the top menu entitled “My Post”. You can review and update the information you have posted about yourself by accessing the different sub-menus of this section. We use this procedure to better safeguard your information.
+
+You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+#### How To Contact Us
+
+Should you have other questions or concerns about these privacy policies, send us an email at [admin@phnompenhpost.com](mailto:admin@phnompenhpost.com).
