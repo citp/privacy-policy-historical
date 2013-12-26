@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truevalue.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112100644id_/http%3A//www.truevalue.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truevalue.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226061510id_/http%3A//www.truevalue.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # True Value: Privacy & Security
 
@@ -139,7 +139,7 @@ For the protection of our website and others, we may disclose information you pr
 
 In case you don’t know, a cookie is a small data file that a website or an email may save to your browser, which may then be stored on your hard drive. Our websites and emails use cookies to create a more personalized shopping experience for you when visiting our site. They let us "remember" information about your preferences and site viewing session(s), and allow you to move within areas of our websites without reintroducing yourself.
 
-True Value Company uses a third party to place cookies on your computer to collect non-personally identifiable information. Although our cookies may contain a unique user ID, they do not collect or store any information that reveals your name or any other personal data.
+True Value Company uses a third party to place cookies on your computer to collect non-personally identifiable information about your operating system, browser version, IP Address, and geo-location if you are using a mobile device. Although our cookies may contain a unique user ID, they do not collect or store any information that reveals your name or any other personal data.
 
 You may choose to set your Web browser to not accept cookies. However, without enabling your cookies, you will not be able to view, create an account, or make purchases on the True Value site.
 
