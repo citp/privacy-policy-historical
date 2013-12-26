@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the perniaspopupshop.com privacy policy that was archived on 2013-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609112020id_/https%3A//www.perniaspopupshop.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perniaspopupshop.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226044544id_/http%3A//www.perniaspopupshop.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=8">
@@ -24,13 +24,13 @@
 
 
 
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="http://www.perniaspopupshop.com/js/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.perniaspopupshop.com/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="https://www.perniaspopupshop.com/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.perniaspopupshop.com/js/jquery.jcarousel.min.js"></script>
 
-<script src="http://www.perniaspopupshop.com/js/jquery.marquee.js" type="text/javascript"> </script>
-<script type="text/javascript" src="http://www.perniaspopupshop.com/js/jquery.cycle.all.js"></script>
-<link rel="stylesheet" href="http://www.perniaspopupshop.com/js/colorbox.css">
-<script src="http://www.perniaspopupshop.com/js/jquery.colorbox.js"></script>
+<script src="https://www.perniaspopupshop.com/js/jquery.marquee.js" type="text/javascript"> </script>
+<script type="text/javascript" src="https://www.perniaspopupshop.com/js/jquery.cycle.all.js"></script>
+<link rel="stylesheet" href="https://www.perniaspopupshop.com/js/colorbox.css">
+<script src="https://www.perniaspopupshop.com/js/jquery.colorbox.js"></script>
 
 
 
@@ -354,8 +354,244 @@ jQuery(this).stop().animate({"opacity": "1"}, "fast");
 		swfobject.registerObject("myId2", "9.0.0");
 		swfobject.registerObject("myId3", "9.0.0");
 </script>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
-<body class="page-empty  cms-page-view cms-privacy-policy" id="top">
+
+<style type="text/css">
+.light-box {
+	width: 347px;
+	height: 324px;
+	background: #efebe0;
+	border:1px solid #59585d;
+	padding:50px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	 box-sizing:border-box;
+	 position: relative;
+	 	-moz-box-shadow: 5px 5px 7px -1px rgba(00, 00, 00, 0.2);
+	-webkit-box-shadow: 5px 5px 7px -1px rgba(00, 00, 00, 0.2);
+	box-shadow: 5px 5px 7px -1px rgba(00, 00, 00, 0.2);
+
+	filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+	zoom: 1;
+}
+.close-button {
+	background: url(http://www.perniaspopupshop.com/skin/frontend/default/mytheme/images/lightbox/close-button.png) no-repeat 0 0;
+	width: 8px;
+	height: 9px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+.light-box-logo {
+	display: block;
+    height: 52px;
+    margin: auto;
+    width: 110px;
+}
+.email-field {
+	border: 1px solid #86878B;
+	color:#898a8b;
+    height: 22px;
+    margin-top: 15px;
+    width: 244px;
+    padding: 5px;
+    -moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	 box-sizing:border-box;
+}
+.join-now {
+	background: url(http://www.perniaspopupshop.com/skin/frontend/default/mytheme/images/lightbox/join-now.png) no-repeat 0 0;
+	width: 117px;
+	height: 40px;
+	border: none;
+	display: block;
+	margin: auto;
+	cursor: pointer;
+}
+.member-txt {
+	text-align: center;
+	font-family: neutratextbook;
+    font-size: 13px;
+   
+}
+.member-txt a {
+	color: #ee3e89;
+	text-decoration: none;
+}
+
+#error-emailv
+{
+	text-align: left;
+	font-family: neutratextbook;
+    font-size: 15px;
+    color:#E10785;
+}
+
+#light-box{
+	position: absolute;
+	
+	z-index:99999;
+	
+	position: absolute;
+	
+}
+
+#mask {
+	display: none;
+	background: #000; 
+	position: fixed; left: 0; top: 0; 
+	z-index: 10;
+	width: 100%; 
+	height: 100%;
+	opacity: 0.8;
+	z-index: 999;
+}
+
+
+
+
+
+
+</style>
+<script type="text/javascript">
+//var jQry = $.noConflict();
+
+jQuery(document).ready(function()
+{
+	//alert('amit ' + document.referrer);
+	var s = document.referrer; // abc.google.com
+	if (s.indexOf("google") != -1 || s.indexOf("facebook") != -1 || s.indexOf("highheelconfidential") != -1)
+	{
+	jQuery(window).load(function()
+	{
+		var timestampString = getCookie('pagepopup');
+		 if(timestampString!=1)
+	     { 	
+			 jQuery("#light-box").fadeIn(1000);	
+	     	positionPopup();
+	     }
+	})	
+
+	jQuery("#Close").click(function(){
+		
+		jQuery('#mask , #overlay_form').fadeOut(300 , function() {
+			jQuery('#mask').remove();  
+			}); 
+		jQuery("#light-box").fadeOut(500);
+		location.reload();
+		
+	});	
+}
+});
+function positionPopup(){
+	  if(!jQuery("#light-box").is(':visible')){
+	    return;
+	  } 
+	  jQuery("#light-box").css({
+	      left: (jQuery(window).width() - jQuery('#light-box').width()) / 2,
+	      top: (jQuery(window).height() - jQuery('#light-box').height()) / 2,
+	      position:'absolute'
+	  });
+	  jQuery('body').append('<div id="mask"></div>');
+	  jQuery('#mask').fadeIn(300);
+
+		setCookie('pagepopup','1',730);
+	}
+
+jQuery(window).bind('resize',positionPopup);
+
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+  {
+  c_start = c_value.indexOf(c_name + "=");
+  }
+if (c_start == -1)
+  {
+  c_value = null;
+  }
+else
+  {
+  c_start = c_value.indexOf("=", c_start) + 1;
+  var c_end = c_value.indexOf(";", c_start);
+  if (c_end == -1)
+    {
+    c_end = c_value.length;
+    }
+  c_value = unescape(c_value.substring(c_start,c_end));
+  }
+return c_value;
+}
+
+/**********set cookies function *********/
+function setCookie(c_name,value,exdays)
+{
+	
+var exdate=new Date();
+
+exdate.setDate(exdate.getDate() + exdays);
+//exdate.setTime(exdate.getTime() + (5 * 60 * 1000));
+var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toGMTString())+"path=/";
+document.cookie=c_name + "=" + c_value;
+}
+
+function valid_email()
+{
+	document.getElementById("error-emailv").style.display="none";
+	if(document.getElementById("newsletter2").value=="")
+	{
+		document.getElementById("error-emailv").style.display="block";
+		
+		return false;
+	}
+	
+    if(document.getElementById("newsletter2").value!="")
+    {
+    	
+    	var emailRegExV = /^([a-z0-9,!\#\$%&'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9,!\#\$%&'\*\+\/=\?\^_`\{\|\}~-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*@([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z0-9-]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*\.(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]){2,})$/i;
+    	strv = $( "#newsletter2" ).val();
+    	if(!strv.match(emailRegExV))
+        	{
+    			document.getElementById("error-emailv").style.display="block";
+    			return false;
+        	}	
+     }  
+	
+	
+	}
+
+</script>  
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head><body class="page-empty  cms-page-view cms-privacy-policy" id="top"><div class="light-box" style="display:none" id="light-box" align="center">
+<img src="http://www.perniaspopupshop.com/skin/frontend/default/mytheme/images/lightbox/light-box-logo.png" class="light-box-logo" alt="Pernia's Popup Shop" title="Pernia's Popup Shop">
+<a href="#" onclick="return fblogin();">
+<img src="http://www.perniaspopupshop.com/skin/frontend/default/mytheme/images/lightbox/fb-login.png" class="light -box-logo">
+
+<!--  <img src="" alt="Connect with Facebook" />
+placeholder="Enter Email Address"
+-->
+
+</a>
+	
+
+<div>
+<form action="/newsletter/subscriber/new/" method="post" name="showlightbox" id="showlightbox" onsubmit="return valid_email();">
+  	<input type="text" class="email-field" name="email" id="newsletter2" placeholder="Enter Email Address">
+  	<span id="error-emailv" style="display:none">*Enter valid email address</span>
+  	
+    <input type="submit" class="join-now" value="">
+</form>
+</div>
+<div class="member-txt">Already a Member? <a href="/customer/account/login/"> Sign In</a> <br>
+<a style="color:#2F2F2F;" href="http://www.perniaspopupshop.com/privacy-policy">Continue as Guest</a>
+</div>
+<a href="#" class="close-button" id="Close"></a>
+</div>
+
+
+
     <div>
         
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
