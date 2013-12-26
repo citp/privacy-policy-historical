@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hattons.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613234753id_/http%3A//www.hattons.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattons.co.uk privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226153345id_/http%3A//www.hattons.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Hattons.co.uk: Privacy Policy
+# Hattons.co.uk: Welcome to Hattons.co.uk
 
 This is the web site of **Hattons Model Railways**.
 
