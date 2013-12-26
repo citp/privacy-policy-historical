@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conquerclub.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626231914id_/https%3A//www.conquerclub.com/public.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conquerclub.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226074452id_/http%3A//www.conquerclub.com/public.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Conquer Club :: Privacy Policy
 
@@ -22,7 +22,7 @@ By default all registered members are added to our newsletter mailing list and w
 
 Otherwise, this information is only used to fulfil your specific request unless you give us permission to use it in another manner.
 
-If you have made personally identifiable information public on this website (for example, in a forum post, game chat comment, or in your username) and you wish to have it removed please [contact us](https://web.archive.org/web/20130626231914id_/https%3A//www.conquerclub.com/eticket/index.php).
+If you have made personally identifiable information public on this website (for example, in a forum post, game chat comment, or in your username) and you wish to have it removed please [contact us](https://web.archive.org/web/20131226074452id_/http%3A//www.conquerclub.com/eticket/index.php).
 
 ### Email and CAN-SPAM Compliance
 
@@ -40,7 +40,7 @@ All sensitive payment information (credit card number, expiry date, validation c
 
 ### Privacy Contact Information
 
-If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/web/20130626231914id_/https%3A//www.conquerclub.com/eticket/index.php).
+If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/web/20131226074452id_/http%3A//www.conquerclub.com/eticket/index.php).
 
 ### We Take Privacy Seriously
 
