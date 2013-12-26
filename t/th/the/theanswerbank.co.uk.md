@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627152334id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226111748id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy) for the most accurate reproduction.*
 
 # The AnswerBank Privacy Policy in The AnswerBank: Editor's Blog
 
@@ -8,9 +8,9 @@ The following provides details about our Privacy Policy. This policy only applie
 
 **Why do we need your e-mail address?**
 
-  * To make sure that all information and responses from the editorial staff reach the right person.
-  * To notify you when someone has answered your question.
-  * To provide you with news and updates concerning The AnswerBank.
+  1. To make sure that all information and responses from the editorial staff reach the right person.
+  2. To notify you when someone has answered your question.
+  3. To provide you with news and updates concerning The AnswerBank.
 
 
 
@@ -48,7 +48,7 @@ For more information on your profile and using the site, please [check out our F
 
 **Who makes sure we keep our word?**
 
-Any details which you provide to us from which we can identify you are protected by the [Data Protection Act](https://web.archive.org/web/20130627152334id_/http://www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy/%E2%80%9Dhttp://www.dataprotection.gov.uk/principl.htm%E2%80%9D). 
+Any details which you provide to us from which we can identify you are protected by the [Data Protection Act](https://web.archive.org/web/20131226111748id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/%E2%80%9Dhttp://www.dataprotection.gov.uk/principl.htm%E2%80%9D). 
 
 **Does The AnswerBank use cookies?**
 
@@ -92,7 +92,8 @@ This may change as the service evolves. We will notify users of this site to any
 
 **How can I contact The AnswerBank?**
 
-If you wish to email us with any questions or comments about The AnswerBank, then please [contact us here](https://web.archive.org/web/20130627152334id_/http://www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy/%E2%80%9Dhttp://www.theanswerbank.co.uk/Info/ContactUs/%E2%80%9D) or email us at[theeditor@theanswerbank.co.uk](mailto:theeditor@theanswerbank.co.uk?Subject=Privacy%20Policy%20Contact)
+If you wish to email us with any questions or comments about The AnswerBank, then please [contact us here](https://web.archive.org/web/20131226111748id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/%E2%80%9Dhttp://www.theanswerbank.co.uk/Info/ContactUs/%E2%80%9D) or email us at  
+[theeditor@theanswerbank.co.uk](mailto:theeditor@theanswerbank.co.uk?Subject=Privacy%20Policy%20Contact)
 
 If you wish to write to us by snail mail our registered address is: 
 
