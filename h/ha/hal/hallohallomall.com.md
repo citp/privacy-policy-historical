@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hallohallomall.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529153512id_/http%3A//hallohallomall.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallohallomall.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226190810id_/http%3A//hallohallomall.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Online Internet Shopping - Hallo Hallo Mall Philippines
 
