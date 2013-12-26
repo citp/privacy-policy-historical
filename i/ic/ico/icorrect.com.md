@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icorrect.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622012356id_/https%3A//www.icorrect.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icorrect.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226181228id_/https%3A//www.icorrect.com/privacy_policy) for the most accurate reproduction.*
 
 # ICorrect Privacy Policy | ICorrect - The Universal Website for Corrections
 
