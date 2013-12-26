@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddressguide.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626203250id_/http%3A//www.ipaddressguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddressguide.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226065909id_/http%3A//ipaddressguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,6 +34,10 @@ Web beacons, also known as clear gif technology, or action tags, may be used to 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. Doing this allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views. IPAddressGuide.com prohibits Web beacons from being used to collect or access your personal information. 
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit. 
+
+#### Device Information
+
+When you use mobile App from IPAddressGuide.com, we may collect some information, such as IP address, device identifier, device type, operating system, location and usage information through the App. IPAddressGuide.com uses the information to better understand your needs and to provide you with better user experiences. We will not disclose the information to third-party. If you do not agree with the data collection, you can uninstall the App from the devices anytime. 
 
 #### Changes to this Statement
 
