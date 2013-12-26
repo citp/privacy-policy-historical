@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the essortment.com privacy policy that was archived on 2013-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513103845id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the essortment.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226234011id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -25,32 +25,71 @@
 	<!-- End Custom JS to render Google AdSense ads -->
 	
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<!--	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script> -->
 	<script type="text/javascript" src="http://www.essortment.com/jquery.scrollto.min.js"></script>
 
 	<!-- Demdex Tag Insertion Manager -->
-	<script type="text/javascript">
-	var dexBaseURL=(("https:"==document.location.protocol) ?
-	"https://a248.e.akamai.net/demdex.download.akamai.com/dm/23/" :
-	"http://cdn.demdex.net/dm/23/");
-	document.write(unescape("%3Cscript src='"+ dexBaseURL +
-	"demdex.js' type='text/javascript' %3E%3C/script%3E"));
-	</script><script src="https://a248.e.akamai.net/demdex.download.akamai.com/dm/23/demdex.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://www.essortment.com/dil_essortment.js"></script>
 	<!-- End Demdex Tag Insertion Manager -->	
 	<script type="text/javascript">
-	function getParameterByName(name, url) {
-		if (!url) {
-			url = document.location.href;
-		}
-		name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-		var regexS = "[\\?&]"+name+"=([^&#]*)";
-		var regex = new RegExp( regexS );
-		var results = regex.exec( url );
-		if( results == null )
-		return '';
-		else
-		return results[1];
-	}
+        if (typeof readCookie != 'function') {
+            function readCookie(name) {
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for(var i=0;i < ca.length;i++) {
+                    var c = ca[i];
+                    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+                }
+                return null;
+            }
+        }
+
+        var gUtmSource = '';
+        var gUtmMedium = '';
+        (function(){
+            var pattern=/utm_source=([a-zA-Z0-9]+)&utm_medium=([a-zA-Z0-9]+)/;
+            var result = pattern.exec(readCookie('utm_params'));
+
+            if (result != null && result.length == 3) {
+                gUtmSource = result[1];
+                gUtmMedium = result[2];
+            }
+        })();
+
+        function getParameterByName(name, url) {
+            if (!url) {
+                url = document.location.href;
+            }
+            name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+            var regexS = "[\\?&]"+name+"=([^&#]*)";
+            var regex = new RegExp( regexS );
+            var results = regex.exec( url );
+            if( results == null )
+            return '';
+            else
+            return results[1];
+        }
+
+        function IsAdWords() {
+            var utmSource = getParameterByName("utm_source");
+
+            if (utmSource.length > 0) {
+                utmSource = decodeURIComponent(utmSource);
+                utmSource = utmSource.replace(/[^a-zA-Z0-9\_\-]+/g,'');
+
+                createCookie("utm_source", utmSource);
+
+                if (utmSource.toLowerCase() == "adwords") {
+                    return true;
+                }
+            } else if (readCookie("utm_source") != null) {
+                if (readCookie("utm_source").toLowerCase() == "adwords") {
+                    return true;
+                }
+            }
+
+            return false;
+        }
 
 		function doAutoSearch()
 		{
@@ -100,6 +139,15 @@
 
 </head>
 <body>
+<!-- Yieldbot.com Intent Tag -->
+<script type="text/javascript" src="http://cdn.yb0t.com/js/yieldbot.intent.js"></script>
+<script type="text/javascript">
+    yieldbot.pub('61c7');
+    yieldbot.defineSlot('728x90');
+    yieldbot.defineSlot('300x250');
+    yieldbot.go();
+</script>
+<!-- END Yieldbot.com Intent Tag -->
 
 
 	<div id="master">
@@ -630,26 +678,19 @@
 			<!-- End comScore Tag --> 
 
 			<!-- Casale Media 2008 (C) -->
-
 			<!-- Ad Format: Pop Under -->
-
 			<!-- Domain(s): essortment.com -->
-
 			<script type="text/javascript"><!--
-
-			var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-
-			var casaleU=escape('essortment.com');
-
-			var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
-
-			document.write('<scr'+'ipt'+casaleHost+'94844&amp;u=');
-
-			document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-
-			//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=94844&amp;u=essortment.com&amp;f=1&amp;id=1736557394.5748322"></script>
-
+			if (!IsAdWords()) {
+			    var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+			    var casaleU=escape('essortment.com');
+			    var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
+			    document.write('<scr'+'ipt'+casaleHost+'94844&amp;u=');
+			    document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
+			}
+			//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=94844&amp;u=essortment.com&amp;f=1&amp;id=1736558914.6809304"></script>
 			<!-- Casale Media 2008 (C) -->
+
 			<script src="http://vs.dmtracker.com/tags/vsboone.js"></script>    
 			<script src="http://i.lsimg.net/ls_images/vs.js" type="text/javascript"></script>
 			<noscript><img src="http://vs.dmtracker.com/images/zig.gif?Log=1"/></noscript>
@@ -660,10 +701,12 @@
 		</script>
 		
         <script type="text/javascript">
-        var infolinks_pid = 1496668;
-        var infolinks_wsid = 1;
-        </script>
-        <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+        if (!IsAdWords()) {
+            var infolinks_pid = 1496668;
+            var infolinks_wsid = 1;
+            document.write('<scr'+'ipt type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></scr'+'ipt>');
+        }
+        </script><script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 
 		<script type="text/javascript" src="http://www.essortment.com/common.js"></script>
 		<script type="text/javascript">
