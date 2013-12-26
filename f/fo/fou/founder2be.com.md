@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626232141id_/http%3A//www.founder2be.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226065453id_/http%3A//www.founder2be.com/privacy) for the most accurate reproduction.*
 
 # Your privacy is very important to Founder2be
 
@@ -22,17 +22,17 @@ Your browser may provide other information when you use the Internet. We may rec
 
 **Integration with 3rd party services**
 
-Founder2be intregrates with 3rd party services to make the experience of having and discussing ideas, connecting with other users, and founding a start-up in general more social.
+Founder2be intregrates with 3rd party services to increase the chances of finding a co-founder, and make the experience of having and discussing ideas, connecting with other users, and founding a start-up in general more social.
 
-Founder2be allows you to connect your account to Facebook. You can do so at registration or afterwards. During this process, you are asked for permission to connect to your Facebook account to help complete your Founder2be profile, etc. This will happen only once. Without granting the permission, we will not be able to connect your Facebook account for you. In addition to completing your profile, Founder2be will make a single post to your Facebook wall telling your friends that you have joined the service. This will happen only once.
+Founder2be allows you to connect your account to Facebook. You can do so at registration or afterwards. During this process, you are asked for permission to connect to your Facebook account to help complete your Founder2be profile, etc. This will happen only once. Without granting the permission, we will not be able to connect your Facebook account for you.
 
 If you prefer to register without connecting to Facebook, you are welcome to use our own registration form for this purpose. Founder2be may offer functionality such as commenting of ideas, sharing links to ideas, etc. which might not work if your Facebook account is not connected. Should you change your mind and decide to connect your Facebook account to take advantage of this extra functionality, you can do so at any point in time also later.
 
-Please note that the information you provide as it is visible to other users on this site, may be published using share functionality to third-party services such as Twitter or Facebook.
+Please note that the information you provide as it is visible to other users on this site, may also be visible on select partner websites or published by sharing on third-party services such as Facebook, Twitter and others.
 
 **Communications**
 
-An integral part of Founder2be are the communications we send to help you find a co-founder. These include notifications, for example, when someone comments on an idea you shared or sends you a message via the built-in messaging system, as well as our monthly newsletter, which includes useful information regarding everything start-up and co-founder related. Should you choose to no longer receive the monthly newsletter or other notifications, you can do so any time either by clicking the unsubscribe link contained in the footer, or simply contact us at [info@founder2be.com](mailto:info@founder2be.com).
+An integral part of Founder2be are the communications we send to help you find a co-founder. These include notifications, for example, when someone comments on an idea you shared, visits your profile, or sends you a message via the built-in messaging system, as well as our monthly newsletter, which includes useful information regarding everything start-up and co-founder related. Should you choose to no longer receive the monthly newsletter or other notifications, you can do so any time either by adjusting your message settings, clicking the unsubscribe link contained in the footer, or simply contacting us at [info@founder2be.com](mailto:info@founder2be.com).
 
 **Keeping your information secure**
 
@@ -48,15 +48,15 @@ While we would certainly like to be able to, we cannot guarantee the security of
 
 Should you ever wish to delete your account, for example after you decide to start a project or found a company with some fellow members you got on touch with here, simply let us know by contacting us at [info@founder2be.com](mailto:info@founder2be.com). We will delete your account including the personal information you provided. Please note that we may have back-ups of your information for 90 days after we deleted your account. This is the price we pay for running this service in an as reliable way as we can.
 
-On the other hand, why delete your account even after you found some fellow founders? Stay around and help others achieve the same!
+On the other hand, why delete your account even after you found a co-founder? Let us know and we'll write a success story to inspire others and help drive traffic to your new startup's website or app!
 
 **Business transfer**
 
-Company may choose to acquire other companies or may in turn be acquired itself by another company. In such cases, business assets, typically including user information, are transferred to another company. If Company, or substantially all of its assets, were acquired, or in the unlikely event that we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by another party. You acknowledge that such transfers may happen, and that any acquirer of Company may continue to use your personal information as protected by this policy.
+Company may choose to acquire other companies or may in turn be acquired itself by another company. In such cases, business assets, typically including user information, are transferred to another company. If Company, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by another party. You acknowledge that such transfers may happen, and that any acquirer of Company may continue to use your personal information as protected by this policy.
 
 **Changes to this Privacy Policy**
 
-We may amend this Privacy Policy from time to time. If we make significant changes, we will notify you by posting an announcement on our service or via email. All user information is protected by the most recent version of our Privacy Policy, and our users are bound to it if they continue to use the Service after the changes have been first posted.
+We may amend this Privacy Policy from time to time. If we make significant changes, we will notify you with an announcement on our service or via email. The most current version will always be at www.founder2be.com/privacy. All user information is protected by the most recent version of our Privacy Policy, and our users are bound to it if they continue to use the Service after the changes have been first posted.
 
 **Questions**
 
