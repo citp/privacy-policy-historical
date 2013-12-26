@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614020349id_/http%3A//expopromoter.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226020648id_/http%3A//expopromoter.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ExpoPromoter
 
