@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalmarket.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512064148id_/http%3A//www.globalmarket.com/ppc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmarket.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226204936id_/http%3A//www.globalmarket.com/ppc.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ You can access, view and edit your Registration Information and Publishing Infor
 
 ## Your feedback
 
-GlobalMarket welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may responses to call our buyer service center +86-20-86002299 or send your comments to our Buyer Service Executive [buyerservice@globalmarket.com](mailto:buyerservice@globalmarket.com). By postal mail, you can write to our headquarter: 17F, Tower A, Victory Plaza, No.103, Tiyu Xi Road, Guangzhou, P.R.C.
+GlobalMarket welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may responses to call our buyer service center +86-20-86002299 or send your comments to our Buyer Service Executive [buyerservice@globalmarket.com](mailto:buyerservice@globalmarket.com). By postal mail, you can write to our headquarter: No.28 & No.33, Yunshan North Street, No.1128 Baiyun South Ave, Baiyun District, Guangzhou, P.R.C. 510420 
 
 ## Choice and Opt-Out 
 
