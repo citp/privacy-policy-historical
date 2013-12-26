@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketrealist.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501061013id_/http%3A//marketrealist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketrealist.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226171411id_/http%3A//marketrealist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Your Privacy Rights » Market Realist
 
