@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyworld.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501075705id_/http%3A//propertyworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyworld.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226132712id_/http%3A//www.propertyworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyWorld.com
 
@@ -49,7 +49,8 @@ Excepting the aforementioned provisions PropertyWorld will not disclose informat
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website you can contact us by e-mail via the feedback section on our site, or at the following address:
 
-PropertyWorld.com Ltd  
+SICO Technical Services Ltd., t/a  
+PropertyWorld.com  
 P.O. Box 412  
 Surbiton  
 Surrey  
@@ -58,4 +59,4 @@ England
 
 Customer Service [enquiries@propertyworld.com](mailto:enquiries@propertyworld.com)
 
-Thank you for using PropertyWorld. 
+Thank you for using PropertyWorld.com
