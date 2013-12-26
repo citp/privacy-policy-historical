@@ -1,0 +1,798 @@
+<!--The following is the downloaded HTML source of the ballstreams.com privacy policy that was archived on 2013-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226014855id_/http%3A//www5.ballstreams.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Watch live and on-demand Basketball Streams!">
+<meta name="keywords" content="basketball streams, basketball archives, NBA, watch live basketball, live basketball, live nba">
+<title>Ball Streams - Privacy Policy</title>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=197678113719763"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/acv=5e636c62d6/cloudflare.min.js"></script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/acv=964071af18/"},atok:"fcc54cc6a722e56a35f5533b0e7f7b15",petok:"bab392995d936b0a2bfcb9e5dde5ac32f73ee224-1388022535-1800",zone:"ballstreams.com",rocket:"0",apps:{"ga_key":{"ua":"UA-41440625-1","ga_bs":"2"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/acv=5e636c62d6/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+//]]>
+</script>
+<link rel="StyleSheet" href="/css/ui.css" media="screen" type="text/css">
+<link rel="StyleSheet" href="/css/default.css" media="screen" type="text/css">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="/logo.png">
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/jquery-timepicker.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41440625-1', 'ballstreams.com');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-41440625-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '197678113719763', // App ID
+      channelUrl : '//www5.ballstreams.com/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional init code here
+    // Additional init code here
+    FB.getLoginStatus(function(response) {
+        if (response.status === 'connected') {
+            // connected
+        } else if (response.status === 'not_authorized') {
+            // not_authorized
+ 
+        } else {
+            // not_logged_in
+
+        }
+    });
+    };
+
+
+    function fbLogin() {
+	    FB.api('/me', function(response) {
+	    	$('#overlay').show();
+	    	$('#dialog').show().css("width", "400px").css("marginLeft", "-200px");
+	    	$('#dialog_content').html("Logging you in with Facebook... Please wait");
+	    	$.get("/scripts/fb_verify.php", function(data) { 
+			$.trim(data);
+			var data = data.replace(" ", "");
+			if(data != '') {
+			var s = data.split("|");
+			var gid = parseInt(s[2]);
+			var username = s[0];
+			var isnew = s[3];
+			$.trim(username);
+			$.trim(isnew);
+			var password = s[1];
+			if(gid > 0) {
+			$('.header_box').load("/scripts/loggedin.php?username="+ username +"&password="+ password+"&random="+ Math.random*9999);
+	    	$('#loggedin').val('1');
+	    	$('.facebook_join').hide();
+	    	$('#overlay').hide();
+	    	$('#dialog').hide();
+			} else {
+			$('.usernameFormFB').val(username);
+			$('.redirectForm').submit();
+			}
+			if(isnew == '1') {
+				FB.api('/me/feed', 'post', 
+	  	                  { 
+	  	                      message     : "The best website for watching live and on-demand basketball!",
+	  	                      link        : 'http://www.ballstreams.com',
+	  	                      picture     : 'http://www5.ballstreams.com/images/logo75.png',
+	  	                      name        : 'BallStreams.com',
+	  	                      description : 'Watch live and on-demand Basketball Streams!!'
+
+	  	        }, function(response) { console.log(response); });
+			}
+			}
+			});
+	    	});
+	}
+
+  function login() {
+	    FB.login(function(response) {
+	        if (response.authResponse) {
+                 fbLogin();
+	        } else {
+	            // cancelled
+	        }
+	    }, {scope: 'email,publish_stream'});
+	}
+
+  $('.facebook_join').live("click", function(e) {
+	  login();
+  });
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+ </script>
+<div id="dialog" class="web_dialog" style="display: none;">
+<div class="web_dialog_content" id="dialog_content"></div>
+</div>
+<form method="post" style="display: none;" class="redirectForm" action="https://www5.ballstreams.com/register/verify"><input type="hidden" name="membership" value="premium"><input type="hidden" name="action" value="new_pay"><input type="hidden" name="username" class="usernameFormFB"> <input type="hidden" name="pay_method" value="CC" style="margin: 0px;"><input type="hidden" name="renew" value="1"><input type="submit" value="Subscribe"></form>
+<div id="overlay" style="display: none;"></div>
+<script type="text/javascript">
+$().ready(function() {
+$('#overlay').click(function() { 
+	$('#overlay').hide("fade", {}, 200);;
+	$('#dialog').hide();
+}); 
+
+$('.share_fb').click(function() {
+    shareFB();
+});
+
+$('.closeDialog').live("click", function() {
+   	$('#overlay').hide("fade", {}, 200);;
+  	$('#dialog').hide();
+});
+
+
+	$('#display_teams').scrollTop(0);
+
+		$('.scores_on').live("click", function() { // display scores
+		if($(this).html() == "On") {
+		$('.scores').show();
+		$('.game_time').hide();
+		$('.game_period').show();
+		$(this).html("[On]").css("color", "#000000");
+		$('.scores_off').html("Off").css("color", "#513B9B");
+				}
+		});
+
+	$('.scores_off').live("click", function() { // hide scores
+		if($(this).html() == "Off") {
+		$('.scores').hide();
+		$('.game_time').show();
+		$('.game_period').hide();
+		$('.scores_on').html("On").css("color", "#513B9B");
+		$(this).html("[Off]").css("color", "#000000");
+				}
+		});
+		
+$(document).keyup(function(e) {
+var keyCode = e.which || e.keyCode;
+if (keyCode == 37) { // scroll games div to the left
+	$('.scrollRight').addClass("activeScrollRight");
+	var curscroll = $('#display_teams').scrollTop() - 120;
+	var scroll = curscroll / 120;
+	if(scroll >= 0 ) {
+	$("#display_teams").animate({scrollTop: curscroll}, 300, function() {
+
+	var section = 1;
+	if(curscroll == 0) {
+		var section = 1;
+	} else {
+		var section = (curscroll + 120) / 120;
+	}
+
+	
+	$('.section').removeClass("section_active")
+	$('#section_'+ section).addClass("section_active");
+
+	if(scroll == 0) {
+	$('.scrollLeft').removeClass("activeScrollLeft");
+	}
+
+	$('.shift_entry').css("marginLeft", "20px");
+
+	});
+	}
+}
+	if(keyCode == 39) { // scroll games div to the right
+		var maxScroll = $('.activeScrollRight').data("index");
+		var curscroll = $('#display_teams').scrollTop() + 120;
+		var scroll = curscroll / 120;
+		if(scroll <= maxScroll) {
+		$("#display_teams").animate({scrollTop: curscroll}, 300, function() {
+		var scroll = $('#display_teams').scrollTop();
+		if(scroll == 0) {
+			var section = 1;
+		} else {
+			var section = (scroll + 120) / 120;
+		}
+
+		$('.section').removeClass("section_active")
+		$('#section_'+ section).addClass("section_active");
+
+		if(scroll == maxScroll) {
+		$('.scrollRight').removeClass("activeScrollRight");
+		}
+
+		$('.scrollLeft').addClass("activeScrollLeft");
+		$('.shift_entry').css("marginLeft", "20px");
+
+		});
+		}
+	}
+
+});
+$('.activeScrollRight').live("click", function() { // scroll games div to the right
+	var maxScroll = $(this).data("index");
+	var curscroll = $('#display_teams').scrollTop() + 120;
+	var scroll = curscroll / 120;
+	if($.isNumeric(scroll)) {
+	$("#display_teams").animate({scrollTop: curscroll}, 300, function() {
+	var scroll = $('#display_teams').scrollTop();
+	if(scroll == 0) {
+		var section = 1;
+	} else {
+		var section = (scroll + 120) / 120;
+	}
+
+	$('.section').removeClass("section_active")
+	$('#section_'+ section).addClass("section_active");
+
+	if(scroll == maxScroll) {
+	$('.scrollRight').removeClass("activeScrollRight");
+	}
+
+	$('.scrollLeft').addClass("activeScrollLeft");
+	$('.shift_entry').css("marginLeft", "20px");
+
+	});
+	}
+});
+
+$('.activeScrollLeft').live("click", function() { // scroll games div to the left
+	$('.scrollRight').addClass("activeScrollRight");
+	var curscroll = $('#display_teams').scrollTop() - 120;
+	var scroll = curscroll / 120;
+	if($.isNumeric(scroll)) {
+	$("#display_teams").animate({scrollTop: curscroll}, 300, function() {
+
+	var section = 1;
+	if(curscroll == 0) {
+		var section = 1;
+	} else {
+		var section = (curscroll + 120) / 120;
+	}
+
+	
+	$('.section').removeClass("section_active")
+	$('#section_'+ section).addClass("section_active");
+
+	if(scroll == 0) {
+	$('.scrollLeft').removeClass("activeScrollLeft");
+	}
+
+	$('.shift_entry').css("marginLeft", "20px");
+
+	});
+	}
+});
+setInterval(function() {
+var leagues = $('.show_leagues').val();
+
+if(leagues == '') {
+var leagues = 'all';
+}
+
+$('.teamDisplay').load("/scripts/team_display.php?league=" + leagues);
+}, 3000000);
+
+$('.league_picker').live("change", function() {
+var el = $(this).val();
+if(el != '') {
+$('.teamDisplay').load("/scripts/team_display.php?league="+ el);
+} else {
+$('.teamDisplay').load("/scripts/team_display.php?league=");
+}
+});
+
+$('.section').live("click", function() { // scroll to the section that is selected
+	$('.section').removeClass("section_active");
+
+	$(this).addClass("section_active");
+	var scroll = $(this).data("index");
+
+	$("#display_teams").animate({scrollTop: scroll}, 300, function() {
+
+		var maxScroll = $('.activeScrollRight').data("index");
+		if(scroll == maxScroll) {
+			$('.scrollRight').removeClass("activeScrollRight");
+			$('.scrollLeft').addClass('activeScrollLeft');
+		} 
+		if(scroll == 0) {
+			$('.scrollRight').addClass('activeScrollRight');			
+			$('.scrollLeft').removeClass('activeScrollLeft');
+			$('.shift_entry').css("marginLeft", "0px");
+		} 
+
+		if(scroll != maxScroll && (scroll != 0)) {
+			$('.shift_entry').css("marginLeft", "20px");
+			$('.scrollRight').addClass("activeScrollRight");
+			$('.scrollLeft').addClass("activeScrollLeft");
+		}
+	});
+});
+	
+$('.showlogin').live("click", function() { // show login form
+$('.header_box').load('/scripts/login_form.php');
+});
+
+$('.loginFormButton').live("click", function() {
+	var username = $('#username').val();
+	var password = $('#password').val();
+	$.post("/scripts/login.php", { username: username, password: password, random: Math.random }, function(data) {
+		$.trim(data);
+		var d = data.split("banned|");
+		var data = data.replace(" ", "");
+		if(data == "invalid") {
+		alert('You have entered an invalid username or password.');
+		} else if(d[1]) {
+		alert("You have used up your login attempts, please wait "+ d[1] +" more minutes and try again.");
+		} else if(data == "loggedin") {
+		$('.header_box').load("/scripts/loggedin.php?username="+ username +"&password="+ password+"&random="+ Math.random*9999);
+		$('#loggedin').val('1');
+		$('.displayLoggedOut').hide();
+		$('.facebook_join').hide();
+		} else if(data == 'created_from_bs') {
+		location.href = '/account/billing';
+		}
+		});
+	return false;
+	});
+	
+$('.multiview').live("click", function() {
+	var id = $(this).data("index");
+	$('#overlay').show();
+	$('#dialog').show().css("width", "900px").css("marginLeft", "-450px");
+	$('#dialog_content').load("/scripts/multiview.php?id="+ id +"&random=101535855");
+});
+
+$('.logout').live("click", function(e) {
+e.preventDefault();
+$.post("/scripts/logout.php");
+$('.header_box').load("/scripts/login_form.php");
+$('#loggedin').val('0');
+$('.facebook_join').show();
+return false;
+});
+
+jQuery(function() {
+	jQuery.support.placeholder = false;
+	test = document.createElement('input');
+	if('placeholder' in test) jQuery.support.placeholder = true;
+});
+
+$(function() {
+	if(!$.support.placeholder) { 
+		var active = document.activeElement;
+		$(':text').focus(function () {
+			if ($(this).attr('placeholder') != '' && $(this).val() == $(this).attr('placeholder')) {
+				$(this).val('').removeClass('hasPlaceholder');
+			}
+		}).blur(function () {
+			if ($(this).attr('placeholder') != '' && ($(this).val() == '' || $(this).val() == $(this).attr('placeholder'))) {
+				$(this).val($(this).attr('placeholder')).addClass('hasPlaceholder');
+			}
+		});
+		$(':text').blur();
+
+		var active = document.activeElement;
+		$(':password').focus(function () {
+			if ($(this).attr('placeholder') != '' && $(this).val() == $(this).attr('placeholder')) {
+				$(this).val('').removeClass('hasPlaceholder');
+			}
+		}).blur(function () {
+			if ($(this).attr('placeholder') != '' && ($(this).val() == '' || $(this).val() == $(this).attr('placeholder'))) {
+				$(this).val($(this).attr('placeholder')).addClass('hasPlaceholder');
+			}
+		});
+		$(':password').blur();
+	
+		$(active).focus();
+		$('form').submit(function () {
+			$(this).find('.hasPlaceholder').each(function() { $(this).val(''); });
+		});
+	}
+});
+
+});
+</script>
+<input type="hidden" id="loggedin" value="0">
+<div id="header">
+<div class="contain"><a href="/" class="logo">BallStreams.com</a> <a style="display: block;  float: left; margin-left: 
+20px; margin-top: 61px; cursor: pointer;" class="facebook_join">Login
+with Facebook</a>
+<div class="header_box" style="float: right;"><form method="post" action="/verify/login" class="loginForm"><input type="text" class="input" id="username" placeholder="Enter Your Username..."> <input type="password" id="password" class="input hsPass" placeholder="Enter Your 
+Password..."> <input type="submit" class="button loginFormButton" value="Sign in" style="float: left;"></form>
+<div style="float: right; margin-top: 15px; font-size: 11px;"><a href="/register">Create an account</a></div>
+<div style="float: right; margin-right: 10px; margin-top: 15px; font-size: 11px;"><a href="/forgot_password">Forgot Password</a></div>
+		</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+<hr>
+<div id="menu">
+<ul id="nav">
+	<li style="padding-left: 15px; margin-left: -20px; padding-right: 15px; min-width: 32px;"><a href="/">HOME</a></li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 52px;"><a href="/live-streams">LIVE STREAMS</a></li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/on-demand">ON-DEMAND STREAMS</a>
+	<ul>
+		<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/on-demand">FULL GAMES</a></li>
+		<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/highlights">HIGHLIGHTS</a></li>
+	</ul>
+	</li>
+
+	<li style="padding-left: 15px; padding-right: 15px;"><a href="/preview">PREVIEW</a></li>
+	<li style="padding-left: 10px; padding-right: 10px;"><a href="/devices">DEVICES</a>
+	<ul>
+		<li><a href="/devices#roku">ROKU</a></li>
+		<li><a href="/devices#xbmc">XBMC</a></li>
+		<li><a href="/devices#plex">PLEX</a></li>
+		<li><a href="/devices#playstation3">PLAYSTATION 3</a></li>
+		<li><a href="/devices#xbox360">XBOX 360</a></li>
+		<li><a href="/devices#iphone">iOS</a></li>
+		<li><a href="/devices#android">ANDROID</a></li>
+	</ul>
+	</li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/account">MY ACCOUNT</a>
+	<ul>
+		<li><a href="/account/change_password">CHANGE PASSWORD</a></li>
+		<li><a href="/account/edit">EDIT ACCOUNT</a></li>
+		<li><a href="/account/billing">BILLING CENTER</a></li>
+		<li><a href="/account/freeze">ACCOUNT FREEZE</a></li>
+		<li><a href="/account/messages">MESSAGES</a></li>
+		<li><a href="/account/referrals">REFERRALS</a></li>
+		<li><a href="/account/invite">INVITE FRIENDS</a></li>
+		</ul>
+	</li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/calendar">CALENDAR</a></li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/about_us">ABOUT</a>
+	<ul>
+		<li><a href="/about_us/why_ballstreams">WHY BALLSTREAMS?</a></li>
+		<li><a href="/about_us/system_requirements">SYSTEM REQUIREMENTS</a></li>
+		<li><a href="/about_us/broadcast_details">BROADCAST DETAILS</a></li>
+	</ul>
+	</li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/contact_us">CONTACT</a>
+	<ul>
+		<li><a href="/contact_us/submit_ticket">Submit a ticket</a></li>
+		<li><a href="/tickets">Existing Tickets</a></li>
+		<li><a href="/contact_us/faq">F.A.Q</a></li>
+	</ul>
+	</li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/support">HELP CENTER</a></li>
+</ul>
+</div>
+<hr>
+<div class="teamDisplay">
+<div id="team_display">
+<input type="hidden" value="" class="show_leagues">
+<div class="contain"><a class="scrollLeft" data-index="0">«</a>
+<div style="float: left;">
+<div class="heading" style="height: 29px; line-height: 27px; border: 0px; margin: 0px; padding: 0px; width: 983px; border-bottom: 1px solid #e2e2e2;">
+<div style="float: left; font-weight: bold; color: #513B9B;"><a href="/calendar">
+Wednesday, December 25th, 2013</a></div>
+<div style="float: left; margin-left: 10px;"><span style="font-weight: normal;">Scores</span>  <a style="cursor: pointer;" class="scores_on">On</a>   <a style="cursor: pointer; color: #000;" class="scores_off">[Off]</a> </div>
+<div style="float: left;">
+<select class="league_picker input" style="padding-top: 3px; width: 120px; margin-top: 0px; text-indent: 0px; padding-left: 5px; margin-left: 20px;">
+	<option value="">Filter league</option>
+		<option value="nba">NBA</option>
+	</select>
+</div>
+<div style="float: right; margin-right: 10px; font-weight: bold; color: #513B9B;">8:50 PM EST</div>
+<div style="float: right; margin-left: 50px;"><div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 984px; white-space: nowrap; overflow: hidden; height: 100px;" id="display_teams"><div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 8:00 PM EST </span> <span class="game_period" style="display: none;">
+		Q2 - 8:49 </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/nba">NBA</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Houston Rockets">Houston Rockets</div>
+<div style="float: right; margin-top: 4px; width: 25px;text-align: right;  text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores"><b>42</b></div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="San Antonio Spurs">San Antonio Spurs</div>
+<div style="float: right; margin-top: 4px; width: 25px; text-align: right; text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores">35</div>
+<div style="clear: both;"></div>
+</div>
+		  <a href="/live-streams/san+antonio+spurs-vs-houston+rockets-12-25-2013/1322184" class="watch">Watch Live</a> </div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 10:30 PM EST </span> <span class="game_period" style="display: none;">
+		10:30 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/nba">NBA</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Los Angeles Clippers">Los Angeles Clippers</div>
+<div style="float: right; margin-top: 4px; width: 25px;text-align: right;  text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Golden State Warriors">Golden State Warriors</div>
+<div style="float: right; margin-top: 4px; width: 25px; text-align: right; text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  <a class="soon">10:30 PM Start</a> </div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> Final  </span> <span class="game_period" style="display: none;">
+		Final </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/nba">NBA</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Brooklyn Nets">Brooklyn Nets</div>
+<div style="float: right; margin-top: 4px; width: 25px;text-align: right;  text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Chicago Bulls">Chicago Bulls</div>
+<div style="float: right; margin-top: 4px; width: 25px; text-align: right; text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  <a href="/on-demand/feed/chicago+bulls-vs-brooklyn+nets-12-25-2013/11537" class="ondemand">Watch On-Demand</a> </div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> Final  </span> <span class="game_period" style="display: none;">
+		Final </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/nba">NBA</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Oklahoma City Thunder">Oklahoma City Thunder</div>
+<div style="float: right; margin-top: 4px; width: 25px;text-align: right;  text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores"><b>123</b></div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="New York Knicks">New York Knicks</div>
+<div style="float: right; margin-top: 4px; width: 25px; text-align: right; text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores">94</div>
+<div style="clear: both;"></div>
+</div>
+		  <a href="/on-demand/feed/new+york+knicks-vs-oklahoma+city+thunder-12-25-2013/11540" class="ondemand">Watch On-Demand</a> </div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> Final  </span> <span class="game_period" style="display: none;">
+		Final </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/nba">NBA</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Miami Heat">Miami Heat</div>
+<div style="float: right; margin-top: 4px; width: 25px;text-align: right;  text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores"><b>101</b></div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 145px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Los Angeles Lakers">Los Angeles Lakers</div>
+<div style="float: right; margin-top: 4px; width: 25px; text-align: right; text-overflow: ellipsis; overflow: hidden;  display: none; " class="scores">95</div>
+<div style="clear: both;"></div>
+</div>
+		  <a href="/on-demand/feed/los+angeles+lakers-vs-miami+heat-12-25-2013/11541" class="ondemand">Watch On-Demand</a> </div>
+		</div>
+</div>
+<a class="scrollRight " data-index="0">»</a>
+<div style="clear: both;"></div>
+</div>
+</div>
+</div>
+<hr>
+<div id="contain">
+<div style="float: left; width: 250px;"><div class="heading">Announcements</div>
+<hr>
+<div class="heading_body" style="padding: 0px;"><div class="support_entry" style="background: none; padding: 10px; width: 228px;">
+<a title="Public Registration Closed" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/4809/Public+Registration+Closed">Public Registration Closed</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 2 months ago</div>
+</div>
+		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
+<a title="1 Day Membership Update" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/4771/1+Day+Membership+Update">1 Day Membership Update</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 2 months ago</div>
+</div>
+		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
+<a title="Changing Default Server Locations" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/4479/Changing+Default+Server+Locations">Changing Default Server Locations</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 2 months ago</div>
+</div>
+		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
+<a title="BallStreams Android App" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/4170/BallStreams+Android+App">BallStreams Android App</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 3 months ago</div>
+</div>
+		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
+<a title="New Ticketing System" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/4130/New+Ticketing+System">New Ticketing System</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 4 months ago</div>
+</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="heading">Stay in touch</div>
+<hr>
+<div class="heading_body" style="padding: 0px;">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=197678113719763";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div style="padding: 10px; height: 20px;"><a href="https://twitter.com/ballstreams" class="twitter-follow-button" data-show-count="false" style="width: 80px;">Follow @ballstreams</a> <script>!function(d,s,id){var 
+js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div style="padding: 10px; border-top: 1px solid #e2e2e2; height: 20px;"> <a target="_new" href="https://www.facebook.com/dialog/feed?app_id=197678113719763&amp;link=http://www.ballstreams.com&amp;picture=http://www5.ballstreams.com/images/logo75.png&amp;name=BallStreams.com&amp;caption=The+best+website+for+watching+live+and+on-demand+basketball%21&amp;description=Watch+live+and+on-demand+Basketball+Streams%21&amp;redirect_uri=http://www.ballstreams.com" style="cursor: pointer;"><img src="/images/facebook_icon.png" style="border: 0px;" width="20"> <span style="position: relative; top: -4px; left: 5px;">Share on Facebook</span></a></div>
+<div style="padding: 10px; border-top: 1px solid #e2e2e2; height: 20px;"> <a target="_new" href="https://twitter.com/share?url=www.ballstreams.com&amp;text=Watch+live+and+on-demand+Basketball+Streams%21+-+www.ballstreams.com" style="cursor: pointer;"><img src="/images/twitter_icon.png" style="border: 0px;" width="20"> <span style="position: 
+relative; top: -4px; left: 5px;">Share on Twitter</span></a></div>
+</div>
+<div class="heading">Flexibility</div>
+<hr>
+<div class="heading_body">Donate for a single day, a month, three months, six months, or a full year. BallStreams™ lets you decide between several different terms that you wish to donate for. <br>
+<br>
+Everybody can enjoy basketball glory for as long as they decide.</div>
+<div class="heading">Watch 'em all, right here!</div>
+<hr>
+<div class="heading_body">Enjoy the Pre-Season, Regular Season, and the Playoffs with BallStreams™. We offer consistent streams for all of your basketball needs. <br>
+<br>
+That's not all, we also broadcast the Trade Deadline, Free Agency, All-Star Game, Player Awards, and many more events. <br>
+<br>
+<a href="/register">Become a member</a> and gain access to fantastic quality streams as well as our revolutionary members area. Providing you instant access to game summaries, scores, full season calendar, live streams, on-demand 
+streams, and more!</div>
+</div>
+<div style="float: left; width: 764px; margin-left: 10px;"><div class="heading">Privacy Policy</div>
+<hr>
+<div class="heading_body">
+<b>General</b><br><br>
+
+BallStreams™ respects the privacy of every individual who visits ballstreams (the "Website") or responds to any promotions listed on the Website. BallStreams™ Privacy Policy 
+outlines the information BallStreams™ will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared 
+or divulged when you visit our Website or respond to our advertising.
+<br><br>
+We do not attempt to collect excessive or irrelevant information, whether that information personally identifies you or not. We collect information solely for the purposes stated below. We will take 
+reasonable steps to delete or de-identify information about you that we collect when it is no longer needed to interact with you. You agree that until you notify us by following the instructions under 
+"Opt-out" below or we determine that the information is no longer needed, we may retain the information indefinitely.
+<br><br>
+By using our Website you are agreeing to the terms of this Privacy Policy. If you do not agree with any terms or practices described in this Privacy Policy please do not use our Website.
+<br><br>
+<b>Personally Identifiable Information</b><br><br>
+
+BallStreams™ will not collect any Personal Information about you (that is your name, address, telephone number, or email address) unless you provide it voluntarily. If you do not want your 
+Personal Information collected do not submit it to us.
+<br><br>
+If you do submit Personal Information we will store and process that information to better understand your needs, offer certain products and services in connection with our Website; communicate to you; 
+provide customer service; provide a personalized shopping experience; prevent fraud; fulfill your orders, including delivery and billing; complete payment method processing and improve our products and 
+services.
+<br><br>
+
+Any Personally Identifiable Information submitted to use (for example: Name, Address, Phone Number, IP Address) are not shown to the public. The website administrators however do need to track this 
+information.<br><br>
+
+We will not distribute or sell your Personal Information to any outside company for marketing or solicitation of any product not affiliated with BallStreams™ and your Personal Information 
+will only be used to support your relationship with BallStreams™ and its partners.
+<br><br>
+There are certain limited instances where we may disclose or transfer Personal Information other than as described above. For example, we may provide such information to appropriate authorities if we 
+believe in good faith that the law requires it or to protect our legal rights or property. Additionally, as we continue to develop our business, we may buy or sell business assets. In such 
+transactions, customer information is generally one of the transferred business assets. However, we are not in the business of selling customer information to others, and aside from certain exceptional 
+circumstances, we will take appropriate measures to ensure the protection of the information you provide to us.
+<br><br>
+<b>Aggregating Third Party Information with Personal Information</b><br><br>
+
+We may, either through our own searches or by contact with third party providers, add publicly available information to the Personal Information you elect to provide to us. For example, if you provide 
+your name or address, we may add your telephone number and email address to your Personal Information. We will treat any information that personally identifies you, including any such information that 
+we add to your Personal Information as your Personal Information and subject to the terms of this Privacy Policy.<br><br>
+
+<b>Changing my Personal Information</b><br><br>
+
+We take reasonable steps to ensure that all of your Personal Information we collect, use or disclose is accurate, complete, up to date, stored in a secure environment and accessed only be authorized 
+personnel for permitted purposes. If your Personal Information changes, you may update your information on the Web page titled "Edit Profile". You may also contact us using the information in "Contact 
+Us" below to review the Personal Information you provided, update your Personal Information or request that we remove your Personal Information from our records. If you request, we will use all 
+reasonable efforts to delete your Personal Information from our existing records.
+<br><br>
+<b>Non-Personally, Identifiable Information Collected Automatically</b><br><br>
+
+In general, you can visit our Website and view its content while remaining anonymous by not providing any Personal Information. In some cases, we may collect information about you that is not Personal 
+Information. Examples of this type of information include the Internet browser you are using, the type of operating system, the domain name of the website which linked you to our site, the pages you 
+visited while you were using our Website, the domain name of the website you next go to, and your Internet Protocol address. When collected, we use non-personally identifiable information to determine 
+the overall reaction to various sections of our Website(the length and frequency of stays at our Website and the variety of searches of our Website's database), measure the effectiveness and usefulness 
+of various pages (how our Website is navigated, how many visitors arrive at specific pages), and to improve the flow and interconnectivity of the site.
+<br><br>
+When you view our Website we may also store information from time to time on your computer. This information is stored in the form of "Cookies". "Cookies" allow us to tailor our Website or 
+advertisement to better match your interests and preferences. With most Internet browsers you can block, receive a warning or erase all "Cookies" from your hard drive. Please refer to your browser 
+instructions or help screen to learn more about these functions. If you choose not to accept "Cookies", you should be aware that you might not be able to experience the full functionality of our 
+Website. The data on your use of our Website may be linked to the Personal Information you have chosen to share with us when you register.
+<br><br>
+<b>Links and Privacy</b><br><br>
+
+We may provide links to websites outside of our Website. These linked sites are outside of our control, and we are not responsible for the conduct of companies linked to our Website.<br><br>
+
+<b>How We Protect the Security of Your Financial Information</b><br><br>
+
+All payment information is stored securely, in single-way encrypted form.
+
+Ultimately, your financial information is protected by the password you created when you created an account at BallStreams™ (or another password you chose after changing a previous 
+password). Please keep this password confidential. No Customer Service Associate or any other representative of BallStreams™ will ever ask you for your password. The confidentiality of your 
+password is yours to protect. You may change it anytime within the control panel.
+<br><br>
+<b>Changes to the Policy</b><br><br>
+
+Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Website 
+of any major changes for at least 30 days following the change. </div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<hr>
+<div id="footer">
+<div class="text">
+<div style="padding: 10px;">
+<div style="float: left; width: 150px;"><a href="/" style="font-size: 12px;"><b>BALLSTREAMS</b></a>
+<div style="margin-top: 5px;"><a href="/terms_of_use" style="margin-left: 10px;">- Terms of Use</a><br>
+<a href="/privacy_policy" style="margin-left: 10px;">- Privacy Policy</a><br>
+<a href="/rules" style="margin-left: 10px;">- Account Rules</a><br>
+<a href="/support/categories/1/announcements/4091/Refund+Policy" style="margin-left: 10px;">- Refund Policy</a><br>
+<a href="/api" style="margin-left: 10px;">- API</a><br>
+<a href="/devices" style="margin-left: 10px;">- Devices</a><br>
+</div>
+</div>
+<div style="float: left; width: 150px;"><a href="/" style="font-size: 12px;"><b>STREAMS</b></a>
+<div style="margin-top: 5px;">
+<a href="/calendar" style="margin-left: 10px;">- Calendar</a><br>
+<a href="/live-streams" style="margin-left: 10px;">- Live Streams</a><br>
+<a href="/on-demand" style="margin-left: 10px;">- On-Demand Streams</a><br>
+<a href="/highlights" style="margin-left: 10px;">- Highlights</a><br>
+<a href="/preview" style="margin-left: 10px;">- Preview</a><br>
+<a href="http://m.ballstreams.com" style="margin-left: 10px;">- BallStreams on iOS</a><br>
+</div>
+</div>
+<div style="float: left;; width: 150px;"><a href="/account" style="font-size: 12px;"><b>MY ACCOUNT</b></a>
+<div style="margin-top: 5px;"><a href="/account/message_center" style="margin-left: 10px;">- Messages</a><br>
+<a href="/account/edit" style="margin-left: 10px;">- Edit Profile</a><br>
+<a href="/account/change_password" style="margin-left: 10px;">- Change Password</a><br>
+<a href="/account/billing" style="margin-left: 10px;">- Billing Center</a><br>
+<a href="/account/freeze" style="margin-left: 10px;">- Account Freeze</a><br>
+<a href="/account/referals" style="margin-left: 10px;">- Referals</a><br>
+</div>
+</div>
+
+<div style="float: left; width: 150px;"><a href="/about_us" style="font-size: 12px;"><b>ABOUT US</b></a>
+<div style="margin-top: 5px;"><a href="/about_us/why_ballstreams" style="margin-left: 10px;">- Why BallStreams?</a><br>
+<a href="/about_us/system_requirements" style="margin-left: 10px;">- System Requirements</a><br>
+<a href="/about_us/broadcast_details" style="margin-left: 10px;">- Broadcast Details</a><br>
+<a href="/referral_program" style="margin-left: 10px;">- Referral Program</a><br>
+</div>
+</div>
+<div style="float: left; width: 150px;"><a href="/contact_us" style="font-size: 12px;"><b>CONTACT US</b></a>
+<div style="margin-top: 5px;"><a href="/contact_us" style="margin-left: 10px;">- Email</a><br>
+<a href="/contact_us/faq" style="margin-left: 10px;">- F.A.Q</a><br>
+</div>
+</div>
+<div style="float: left; width: 104px;"><a href="/support" style="font-size: 12px;"><b>SUPPORT</b></a>
+<div style="margin-top: 5px;"><a href="/support/categories/1/announcements" style="margin-left: 10px;">- Announcements</a><br>
+<a href="/support" style="margin-left: 10px;">- Get Help</a><br>
+</div>
+</div>
+<div style="clear: both;">
+<div style="font-weight: bold; text-align: center; font-family: Tahoma; font-size: 12px; position: relative; top: 15px;">Copyright © 2013 BallStreams. All Rights Reserved.</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</body></html>
