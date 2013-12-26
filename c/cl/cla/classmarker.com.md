@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507060452id_/http%3A//www.classmarker.com/online-testing/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classmarker.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226125859id_/http%3A//www.classmarker.com/online-testing/privacy) for the most accurate reproduction.*
 
 # Privacy ClassMarker
 
-**Our commitment to privacy**
+## Privacy
+
+### Our commitment to privacy
 
 ClassMarker takes your privacy seriously. We are committed to protecting the privacy of personally identifiable information sent to us by you. It remains our policy and our commitment not to distribute, sell, rent or in any way make available your name, email address or other personal information to any third party without your prior written consent.
 
-**What personal information we collect**
+### What personal information we collect
 
   * Name
   * Email Address
@@ -15,7 +17,7 @@ ClassMarker takes your privacy seriously. We are committed to protecting the pri
 
 
 
-**How we use this information**
+### How we use this information
 
 We collect this information as a means of personalization and contact if required i.e. we can send you an email with a new password if you have forgotten your password.
 
@@ -31,11 +33,11 @@ Passwords can not be viewed by Instructors or Users at all. Passwords can only b
 
 Instructors and Users alike can easily edit their own information at any time after they have logged in.
 
-**External tests saved information**
+### External tests saved information
 
 Users taking external tests may be asked to submit personal information like Name, Email address and anything else the ClassMarker account administrator asks for. ClassMarker will not supply this information to any other third party, as stated above, although, this information is available to the account administrator, and therefore ClassMarker is not responsible for this information you provide. Contact the account administrator who gave you access to the test to find out what they will use this information for before giving any information.
 
-**Protection**
+### Protection
 
 ClassMarker is hosted in a high security data center which is staffed 24/7.
 
@@ -47,7 +49,7 @@ Tests are only available to those who the account administrator gives access to.
 
 Payments using Credit cards are processed on the highly secure WorldPay.com website. ClassMarker does not store or process credit card numbers.
 
-**Cookies**
+### Cookies
 
 Advertising is shown on ClassMarker pages for Instructor accounts that are not upgraded, and for student accounts that are not currently registered under an upgraded Instructor account. External testing will also show advertising when test results are not being saved for the current test that is being taken at that time.
 
