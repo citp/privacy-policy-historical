@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsfind.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621033413id_/http%3A//mrsfind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfind.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226012033id_/http%3A//mrsfind.com/privacy-policy) for the most accurate reproduction.*
 
 # |Make Money Online
 
