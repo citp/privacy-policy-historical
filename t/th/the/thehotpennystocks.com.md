@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the thehotpennystocks.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218201640id_/http%3A//www.thehotpennystocks.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehotpennystocks.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226150802id_/http%3A//www.thehotpennystocks.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
 [Back To Home Page](http://www.thehotpennystocks.com/)
 
 Privacy Policy Statement
-
-[Click HERE To unsubscribe from our email newsletter.](https://web.archive.org/web/20130218201640id_/http%3A//www.thehotpennystocks.com/unsub.aspx)
 
 Upon registering with our newsletter and double opt-in, your email address is used to send our free email newsletter to.
 
