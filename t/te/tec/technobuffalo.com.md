@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technobuffalo.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606011651id_/http%3A//www.technobuffalo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technobuffalo.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226182324id_/http%3A//www.technobuffalo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TechnoBuffalo
 
@@ -29,10 +29,3 @@ We may use third-party advertising companies to serve ads when you visit our Web
 ### Questions on Privacy
 
 If you have questions or concerns about the privacy practices of TechnoBuffalo, please contact us.
-
-##### About TechnoBuffalo
-
-"We aim to deliver the best original consumer electronic news and opinion pieces online. We will always try to harness our independent spirit to push the envelope and dig for facts so you can trust every word on this site. It is my pledge, and the promise of this company, to continue to bring you the best content on the web."
-
-Jon Rettinger  
-President & Editorial Director TechnoBuffalo, LLC
