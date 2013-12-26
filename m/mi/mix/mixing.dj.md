@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mixing.dj privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603065251id_/http%3A//mixing.dj/2011/livesets/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixing.dj privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224030id_/http%3A//mixing.dj/2011/livesets/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Live Sets | Mixing.DJ - Electronic Music Magazine with the Best Live Sets & DJ Mixes
+
+Mix Rating: 0.0/ **5** (0 votes)
 
 Privacy Policy for mixing.dj
 
@@ -32,4 +34,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ### Do you like this DJ Mix, Live Set? Don't forget to post a comment:
 
-Comments
+comments:
