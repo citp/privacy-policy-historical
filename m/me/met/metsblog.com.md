@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metsblog.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626043548id_/http%3A//metsblog.com/metsblogcoms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metsblog.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227145132id_/http%3A//metsblog.com/metsblogcoms-privacy-policy) for the most accurate reproduction.*
 
 # MetsBlog.com's Privacy Policy | Metsblog
 
