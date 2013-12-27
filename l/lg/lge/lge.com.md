@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lge.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516022615id_/http%3A//www.lg.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lge.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227182540id_/http%3A//www.lg.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LG USA
 
-This privacy policy applies only to the websites and services controlled by **LG Electronics USA Inc**. ("LGEUS") where this privacy policy is posted or referenced (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline or to information that is posted or provided by third parties. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES. 
+This privacy policy applies only to the websites and services controlled by **LG Electronics USA Inc**. ("LGEUS") where this privacy policy is posted or referenced and through information collected via customer services calls to the LGEUS or an LGEUS affiliate call center (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline or to information that is posted or provided by third parties. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES. 
 
 **A. Information Collected**  
 This privacy policy applies only to information collected on the Sites and does not apply to information collected by LGEUS through any other means. 
@@ -106,6 +106,8 @@ Please note that any information you include in a message you post to any produc
 
 **H. Third Party Web Sites**  
 This statement applies solely to information collected on the Sites. The Sites may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites. 
+
+With respect to purchase transactions through the commerce solution which is accessible through the Sites, end users may be required to provide personally identifiable information (including credit card information) directly to a third party retailer in connection with the sale of products through the Sites, and any information so disclosed to such third party shall be governed by such third party’s privacy policy. 
 
 **I. Assignment**  
 In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites. 
