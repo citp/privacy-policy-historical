@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seedebtrun.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529231455id_/http%3A//seedebtrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedebtrun.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227174754id_/http%3A//seedebtrun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | See Debt Run
+# privacy policy | See Debt Run
 
-**As of May 15, 2012**
+**As of Jan 1, 2014**
 
 **What do we collect?**  
 When you subscribe to a post or comment, we collect your email address. You are welcome to visit our site anonymously, however.
@@ -44,6 +44,4 @@ By using our site, you consent to our online privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date above.
 
 **Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-seedebtrun@gmail.com
+If there are any questions regarding this privacy policy, please don’t hesitate to [contact us](http://seedebtrun.com/contact-us/).
