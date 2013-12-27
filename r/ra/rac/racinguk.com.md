@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the racinguk.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607174440id_/http%3A//www.racinguk.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racinguk.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227203953id_/http%3A//www.racinguk.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Racing UK
 
-## Privacy Policy
-
-The [www.racinguk.tv](http://www.racinguk.tv/) website and all pages within it (collectively the "Website"), is owned and operated by Racing UK Limited ("us", "our", "we"). We are committed to protecting the privacy of users of this Website. This Privacy Policy explains what information we may collect about you, how we will use it and the steps that we will take to ensure that such information is kept secure.  
+The [www.racinguk.com](http://www.racinguk.com/) website and all pages within it (collectively the "Website"), is owned and operated by Racing UK Limited ("us", "our", "we"). We are committed to protecting the privacy of users of this Website. This Privacy Policy explains what information we may collect about you, how we will use it and the steps that we will take to ensure that such information is kept secure.  
 This Website may have links to other websites. Third party websites should have their own privacy policies and we recommend that you read such policies to find out how your personal details are protected. We are not responsible for the content or the privacy policies of these third party websites.  
 By using this Website, you consent to us collecting and using your details in accordance with this Privacy Policy.
 
