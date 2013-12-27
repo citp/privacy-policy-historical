@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526160041id_/http%3A//bellevuecollege.edu/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227170030id_/http%3A//www.bellevuecollege.edu/website/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Bellevue College Website Privacy Notice
 
@@ -229,13 +229,14 @@ Bellevue College reserves the right to in its discretion, to change or modify al
 
 To review your personal information, or request correction of your personal information, you may contact Bellevue College as follows:
 
-Robin Young, Associate Dean of Enrollment Services  
-Student Services, Room B125N  
-Bellevue College  
-3000 Landerholm Circle SE  
-Bellevue, WA 98007  
-Fax: (425) 564Phone: (425) 564-2362  
-E-mail: [ryoung@bellevuecollege.edu](mailto:ryoung@bellevuecollege.edu)
+Matt Groshong, Interim Registrar   
+Student Services, Room B125Q   
+Bellevue College   
+3000 Landerholm Circle SE   
+Bellevue, WA 98007   
+Fax: (425) 564-6181   
+Phone: (425) 564-5608   
+E-mail: [matt.groshong@bellevuecollege.edu](mailto:matt.groshong@bellevuecollege.edu)
 
 To offer comments about Bellevue College’s website or about the information presented in this Privacy Notice:
 
