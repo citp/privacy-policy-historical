@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the borderlessaccess.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323214827id_/http%3A//www.borderlessaccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borderlessaccess.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227202919id_/http%3A//borderlessaccess.com/privacy) for the most accurate reproduction.*
 
-# Borderless Access: infinite insights, infinite possibilities
+# Market Research | Online Panels | Survey Panels | Mobile | Business | Services
 
 Borderless Access Panels has created this privacy policy to demonstrate its firm commitment to privacy. This policy describes the information gathering and information dissemination practices of the web site - [www.borderlessaccess.com](http://www.borderlessaccess.com/), as well as e-mail correspondence associated with this website.
 
