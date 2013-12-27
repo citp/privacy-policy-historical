@@ -1,45 +1,96 @@
-> *The following text is extracted and transformed from the secondstep.org privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315085733id_/http%3A//www.secondstep.org/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondstep.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228000341id_/http%3A//www.secondstep.org/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Second Step > Home > Privacy Policy
 
-We're aware of the trust and confidence you demonstrate when you visit our website and provide us with personal information. This privacy policy is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the honesty and sensitivity you have come to expect from Committee for Children.
+Last Updated: June 2013 
 
-By visiting our website you agree to accept the practices described in this privacy policy.
+This privacy policy (“Privacy Policy”) explains how information about you is collected, used, and disclosed by Committee for Children (“CFC,” “we,” or “us”). This Privacy Policy applies to information we collect when you use our websites, mobile applications, and other online products and services (collectively, the “Services”), when you interact with us on third-party sites where we have an official presence, or when you otherwise interact with us. 
 
-COMMITTEE FOR CHILDREN PRIVACY POLICY
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this Privacy Policy. In some cases, we may provide you with additional notice, such as adding a statement to the homepages of our websites or sending you an email notification. We encourage you to review this Privacy Policy whenever you access our Services to stay informed about our information practices and the ways you can help protect your privacy. 
 
-This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by Committee for Children (“CFC”, “we”, or “us”) with respect to your use of the website located at www.SecondStep.org (the “Site”) so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure you understand how any personal information you provide will be used.
+WHAT INFORMATION DO WE COLLECT? 
 
-WHAT IS PERSONAL INFORMATION?
+Information You Provide to Us
 
-As used herein, the term “personal information” means information that specifically identifies an individual or information about that individual when directly linked to personally identifiable information. Personal information does not include “aggregate” information, which is data we collect about the use of the Site or about a group or category of products, services, or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information.
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in interactive features of our Services, fill out a form, make a purchase or a donation, apply for a job, communicate with us via a third party social media site, subscribe to our newsletter, sign up for a contest or sweepstakes, request customer support, or otherwise communicate with us. The types of information we may collect include your name, email address, mailing address, phone number, payment information, job title, information about your school or organization, and any other information you choose to provide. 
 
-WHAT PERSONAL INFORMATION DO WE COLLECT? 
+Information We Collect Automatically When You Use Our Services
 
-We may collect certain information you voluntarily provide to us which may contain personal information. Personal information may also be collected if you provide such information in connection with: posting content, sending an email or message to another user, or participating in any interactive forums or features on the Site. When you use the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring website, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only. 
+When you access or use our Services, we automatically collect information about you, including:
 
-We may automatically collect certain information through the use of “cookies” or Web beacons. Cookies are small data files that are stored on a user's hard drive at the request of a website to enable the site to recognize users who have visited them previously and retain certain information such as customer preferences and history. If we link cookies to any personally identifying information, we will treat this information as personal information. Web beacons are small, invisible graphic images that may be used on the Site or in emails relating to the Site to collect certain information and monitor user activity on the Site. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Site may not function properly.
+  * Log Information: We log information about your use of our Services, such as your Internet Protocol ("IP") address, the type of browser you use, the address of a referring website, and your activity with our Services.
+  * Device Information: We collect information about the computer or device you use to access our Services, including the operating system and version, and network information.
+  * Information Collected by Cookies and Other Tracking Technologies: We use various technologies to collect information, and this may include sending cookies to your computer or device. Cookies are small data files that are stored on your hard drive or in device memory that help us recognize users who have visited the Services previously and retain certain information, such as customer preferences and history. We also may collect information using web beacons (also called “tracking pixels”). Web beacons are electronic images that may be used in our Services or emails to help deliver cookies, count visits, understand usage and campaign effectiveness, and determine whether an email has been opened and acted upon. For more information about cookies and how to disable them, please see “Your Choices” below.
 
-HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT?
 
-In general, we use personal information we collect to process your requests or transactions; to provide you with information, products, or services you request; to inform you about other information, events, promotions, products, or services we think will be of interest to you; to facilitate your use of, and our administration and operation of, the Site; and for the purpose for which the information was provided.
 
-WHAT PERSONAL INFORMATION DO WE SHARE WITH THIRD PARTIES?
+Information We Collect From Other Sources
 
-We will not share the personal information we collect from you through this Site with third parties except as described in this Policy, as it may be revised from time to time. We may share personal information with vendors, consultants, and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site or the services we provide and who need access to such information to carry out their work for us. We may also share personal information with other third parties when you give us your consent to do so. We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to these Service Providers or other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. Nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent.
+We may also obtain information from other sources, such as mailing list providers, and combine that information with information we collect through our Services. 
 
-We may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities; to respond to any claims; or to protect the rights, property, or safety of CFC, our users, our members, our employees, or the public, including without limitation to protect CFC or our users or members from fraudulent, abusive, inappropriate or unlawful use of our Site. Information about our users and members, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger or sale of organizational assets, or in any other situation where personal information may be transferred as one of the assets of CFC.
+HOW DO WE USE THE INFORMATION WE COLLECT?
 
-You understand that when you use the Site, information you post in your profile, blogs, listings, public or private groups, forums, and other interactive areas of the Site, as well as any information you share with individuals through the Site, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums. We are not responsible for the actions of any third parties with whom you share personal information.
+We may use information about you for various purposes, including to: 
 
-WHAT STEPS DO WE TAKE TO PROTECT YOUR INFORMATION ONLINE? 
+  * Provide, maintain, and improve our Services;
+  * Provide and deliver information, products, or services you request, process your donations, and send your related information, such as confirmations and invoices;
+  * Send you technical notices, updates, security alerts, and support and administrative messages;
+  * Respond to your comments, questions, and requests (such as your copyright permission requests) and provide customer service;
+  * Communicate with you about products or services offered by CFC and others, and provide other information and news we think will be of interest to you;
+  * Monitor and analyze trends, usage, and activities in connection with our Services
+  * Process and deliver contest or sweepstakes entries or prizes; and
+  * Carry out any other purpose for which the information was collected.
 
-We endeavor to maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of personal information transmitted to us using this website. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our website by any person using your password. Please advise us immediately if you believe your password has been misused.
 
-WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION?
 
-You may “opt out” of receiving marketing or promotional emails from us, by following the directions in such emails. This will not affect our ability to send you service- and account-related emails or to use your personal information as otherwise described in this Policy.
+CFC is based in the United States, and the information we collect is governed by U.S. law. By accessing or using our Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
 
-HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION?
+WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?
 
-If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct, or delete any personal information we have collected, please [contact us](https://web.archive.org/Site/ContactUs.aspx) at clientsupport@SecondStep.org and we will endeavor to respond to your inquiry or to correct, update, or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address: Committee for Children, 2815 Second Ave., Suite 400, Seattle, WA, 98121. However, please note that in some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law.
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+  * With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation, or legal process, or as otherwise required by any applicable law, rule, or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property, and safety of CFC and others;
+  * In connection with, or during negotiations of, any merger, sale of organizational assets, acquisition of all or part of our business to another organization, reorganization, or in any other situation where your information may be transferred as one of the assets of CFC; and
+  * With your consent or at your direction.
+
+
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+HOW DO OUR SERVICES INTERACT WITH THIRD PARTY SERVICES?
+
+Social Sharing Features
+
+Our Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity providing the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+Advertising and Analytic Services Provided by Others
+
+We may allow others to provide analytics services on our behalf or serve advertisements across the Internet. These entities may use cookies, web beacons, and other technologies to collect information about your use of our Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked, and conversion information. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on other websites, and better understand your activity with respect to our Services. For more information about interest-based advertisements, or to opt out of having your web browsing information used for advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices). 
+
+WHAT STEPS DO WE TAKE TO PROTECT YOUR INFORMATION? 
+
+We take reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, or destruction. 
+
+YOUR CHOICES
+
+Account Information
+
+You may update, correct, or delete information about you at any time by logging into your online account, [emailing us](https://web.archive.org/Site/ContactUs.aspx) or contacting us by mail at the address provided below. If you wish to deactivate your account, please [email us](https://web.archive.org/Site/ContactUs.aspx), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period. 
+
+Cookies
+
+Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. You may visit [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security) for more information about deleting or disabling flash cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+Promotional Communications
+
+You may “opt out” of receiving marketing or promotional communications from us by following the directions in the communications. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
+
+HOW CAN YOU OBTAIN ADDITIONAL INFORMATION?
+
+If you have any questions or comments about this Privacy Policy, please [email us](https://web.archive.org/Site/ContactUs.aspx) through our website, or contact us by mail at 
+
+Committee for Children  
+2815 Second Ave., Suite 400   
+Seattle, WA, 98121. 
