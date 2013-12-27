@@ -1,133 +1,130 @@
-> *The following text is extracted and transformed from the wamu.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215155020id_/http%3A//www.wamu.com/servlet/wamu/public/eng/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wamu.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227215432id_/https%3A//www.chase.com/index.jsp%3Fpg_name%3Dccpmapp/privacy_security/protection/page/privacy-notice) for the most accurate reproduction.*
 
-# Washington Mutual - Your Privacy
+# Chase Online Security Center | Online Privacy Policy
 
-|  |  |  | [Your Privacy](https://web.archive.org/web/20021215155020id_/http%3A//www.wamu.com/servlet/wamu/public/eng/pages/privacy.html) |   
----|---|---|---  
-| [Your Security](https://web.archive.org/web/20021215155020id_/http%3A//www.wamu.com/servlet/wamu/public/eng/pages/security.html) |   
-|  |   
-|  |   
----  
-Your Privacy  
-**Your Privacy**   
-At Washington Mutual, respecting the privacy and security of your personal information is important to us. We know, however, that not everyone who takes their privacy seriously is necessarily well-versed in "legal or regulatory-ese." There are plenty of legal terms in Washington Mutual's own privacy policy, which you will find on the following pages. We urge you to read it carefully, and make note of your rights under this policy. We've tried to provide easy-to-understand explanations of the most frequently used legal terms -- terms we are required to use to ensure clarity and consistency. We want to make sure that your personal information is protected, and that you understand the policies that protect you. You'll find the same terms used in many companies' privacy policies. 
+Enter Your ZIP Code. Opens overlay. Begin overlay
 
-**Cookies & Browsers**  
-This site uses a feature of your browser called a "cookie" to assign a "User I.D.". Cookies, by themselves, cannot be used to find out the identity of any user. Your Washington Mutual User ID automatically identifies your computer - but not you - to our servers when you visit wamu.com or other Washington Mutual Web sites. Unless you specifically tell us who you are (for example by completing an application), if you are just browsing our site, we will never know who you are even though we assign you a cookie. This site contains links to other sites. If you use a link to visit the site of another company, we cannot be responsible for the privacy practices or the content of that company or its site.
+Please enter a valid 5-digit Zip Code. 
 
-**Safeguarding Customer Information**  
-We only grant access to nonpublic personal information about you (such as your name, address, social security number and credit history) to company employees and affiliated and non-affiliated service providers so that they can provide or offer products and services to you, process and service your accounts, and administer our business.
+We were not able to find the Zip Code you enter. Please check the Zip Code to make sure it was entered correctly. 
 
-Our Code of Conduct requires that your information remain confidential. Even if you are no longer our customer, we will continue to treat your nonpublic personal information in the same way as if you were still a customer. In addition, we maintain physical, electronic and procedural safeguards that comply with federal standards to guard this personal information. Some state laws may further restrict the sharing of your nonpublic personal information.
+The Chase product or service you selected is not available in the ZIP code you entered. Please check the ZIP code to be sure it was entered correctly. For more information about our products or services, please [Contact Us](https://www.chase.com/online/services/customer-service-support.htm).  
 
-**Collection of Information**  
-We collect nonpublic personal information about you from the following sources: 
 
-  * From you, on forms, via the Internet, by telephone or otherwise. Examples of this type of information include your name, address, social security number, credit history and other financial information.
-  * From transactions with us, our affiliates or with others. For example, your payment histories, account balances, and other transaction records.
-  * From credit reporting agencies, such as information relating to your creditworthiness, your credit score and credit usage.
-  * From third parties to verify information you have given us.
+The Chase product or service you selected is not available in the ZIP code you entered, **or you may have an Ad Block program enabled**. Please check the ZIP code to be sure it was entered correctly, or disable the Ad Block program in your browser. For more information about our products or services, please [Contact Us](https://www.chase.com/online/services/customer-service-support.htm).  
 
-**Uses of Shared Information**  
-We may share all the information that we collect, as described above, for the following purposes: 
 
-  * To provide you with the products and services you requested.
-  * To offer you additional products and services, from us or from others, that may be of interest to you.
-  * To comply with reporting and other legal requirements.
-  * To otherwise conduct business.
+You may have an Ad Block program enabled. Please disable the Ad Block program in your browser and then enter your ZIP code. For more information about our products or services, please [Contact Us](https://www.chase.com/online/services/customer-service-support.htm)
 
-**Information Sharing Among Our Family of Affiliated Companies***  
-Washington Mutual, Inc. is the holding company for a group of companies which includes financial services providers such as depository institutions, insurance agencies, mortgage companies, consumer finance companies and securities broker-dealers. Any company that is owned or controlled by Washington Mutual, Inc. is an "affiliate" or an "affiliated company" of all of the other companies owned by Washington Mutual, Inc. 
+End overlay
 
-Under the Federal Fair Credit Reporting Act, we are permitted to share your name, address and facts about your transactions and experience with us (such as your payment history and other transactions on your accounts with us) among our affiliated companies. That information is referred to in this Privacy Policy as "transaction information."
+|
 
-Unless you request otherwise, we also share all of the _other_ information we collect among our affiliated companies. This information - that is, information other than transaction and experience information - is referred to in this Privacy Policy as "other information." You have the right to ensure that other information is not shared with our affiliates. _If you don't want us to share this information with our affiliates, please call our Customer Contact Center at 800-533-3534 to opt out._
+  * |
 
-Once we receive your opt out request, we will stop sharing this information as soon as reasonably practical. Your opt out will apply to all accounts you hold individually and to all accounts you hold jointly with other persons. Your opt out will not apply, however, to any accounts your joint account holders hold individually or jointly with persons other than you. If your joint account holders wish to opt out as to such other accounts, they will need to submit a separate opt out request.
+  *   * 
 
-**Information Sharing with Nonaffiliated Third Parties as Permitted by Law**  
-We are permitted by law to share all the information we collect, as described above, with (1) companies that perform marketing services on our behalf and (2) with other financial institutions with whom we have joint marketing arrangements. For example, we may share information with financial services providers with which we offer products such as credit cards or accelerated loan payment programs.
 
-We may also share all the information we collect, as described above, with other nonaffiliated third parties that assist us with preparing monthly statements and with the processing and printing of checks. These other nonaffiliated third parties also include credit reporting agencies to whom we report information about your transactions with us.
+[](https://www.chase.com/)
 
-_Please be advised that the opt out rights described below will not apply to the sharing of information with these third parties or to the sharing of information with marketing service providers and joint marketers as described above._
+**Last Updated: November 17, 2013**
 
-**Information Sharing with Other Nonaffiliated Third Parties and Your Opt Out Rights**  
-Unless you request otherwise, we may share all the information we collect, as described above, with additional types of nonaffiliated third parties, such as: 
+Your privacy is important to us. This Online Privacy Policy explains how we collect, share, use, and protect information when you visit or use this online service and any other online services offered by the U.S. banking and non-banking affiliates and subsidiaries of Chase that link to or reference this policy (collectively, our “online services”). This policy covers Chase’s many online services, including the Chase websites, Chase Mobile, and Chase-branded social media sites or pages, as well as any interactions you may have while viewing content provided through one of Chase’s digital advertising campaigns.
 
-  * Financial service providers, such as life insurance companies for whom one or more of our affiliates acts as agents.
-  * Nonaffiliated companies, such as firms that offer value-added packages of products and services (including discounted travel services, discounted hotel accommodations and shopping services.)
+As you review this Online Privacy Policy, here are a few general principles to keep in mind:
+
+  * Our online services are intended for a U.S. audience. If you visit or use one of our online services, your information may be transferred or processed in the United States. For non-U.S. online services, please review the privacy policy applicable to that service to understand how your information will be treated and safeguarded.
+
+
+  * Our online services are not intended for children under 13. We do not knowingly collect personal information from children under 13 without parental consent.
+
+
+  *  If you have a financial product or service with us, we will use and share any information that we collect from or about you in accordance with our [U.S. Consumer Privacy Notice](https://web.archive.org/resources/consumer-privacy-notice), which offers you certain [choices with respect to the use and sharing of your personal information](https://chaseonline.chase.com/public/privacy/privacyfilter.aspx).
+
+
+  * Chase Mobile and our social media sites or pages may have additional terms from this policy about the privacy of your information. Please review the privacy policy for the specific online service you are using.
+
+
+  * If you have questions after reviewing this policy, please visit the [Frequently Asked Questions](https://web.archive.org/snippets/resources/modular/fraud-security-faqs) section in the [Security Center](https://web.archive.org/resources/privacy-security).
 
 
 
-_If you prefer that we not share nonpublic personal information with these nonaffiliated third parties, you may opt out of those disclosures (other than those permitted by law) by calling our Customer Contact Center at 800-533-3534._
+#### _Personal Information_
 
-We will stop sharing this information as soon as reasonably practical. Again, your opt out will apply to all accounts you hold individually and to all accounts you hold jointly with other persons. Your opt out will not apply, however, to any accounts your joint account holders hold individually or jointly with persons other than you. If your joint account holders wish to opt out as to such other accounts, they will need to submit a separate opt out request.
+When you visit or use our online services, we may collect personal information from or about you such as your name, email address, mailing address, telephone number(s), account numbers, limited location information (for example, a zip code to help you find a nearby ATM), user name and password. We may also collect payment card information, social security numbers, driver’s license numbers (or comparable) when you provide such information while using our online services and where we believe it is reasonably required for ordinary business purposes.
 
-**Sharing of Nonpublic Personal Health Information**  
-If you engage in an insurance transaction with or through us, we may collect nonpublic personal health information about you. We **do not** share nonpublic personal health information with any nonaffiliated third party unless you have authorized the disclosure, the disclosure is made in connection with an insurance transaction that was initiated by you or the disclosure is otherwise permitted by law.
+#### _Usage and Other Information_
 
-**Your Opt-Out Options**  
-If you wish to direct Washington Mutual to stop sharing certain nonpublic personal information about you with our affiliated companies and nonaffiliated third parties, please call our Customer Contact Center at 800-533-3534 to opt out, or you may send your instructions to Washington Mutual, PO Box 2430, Chatsworth, CA 91313-2430. **If you have previously opted out, you will _not_ need to do so again, unless you are establishing a new customer relationship with us.** _If you are calling to opt out of a newly established WM Financial Services relationship, please wait 10 days before calling to give us your opt out preferences. We will not share your nonpublic personal information (except as permitted by law) during this 10-day period._
-
-**Option 1:**   Directs Washington Mutual not to share nonpublic personal information with **nonaffiliated third parties**.
-
-_What this means:  
-_ You direct Washington Mutual not to share nonpublic personal information about you with nonaffiliated third parties except as permitted by law. These exceptions include companies that perform marketing services on our behalf, other financial institutions with whom we have joint marketing arrangements, other nonaffiliated service providers (such as those that assist us with monthly statement preparation and check printing and processing), and credit reporting agencies to whom we report information about your transactions with us.
-
-**Option 2:**   Directs Washington Mutual not to share nonpublic personal information with Washington Mutual's **affiliated companies**.
-
-_What this means:  
-_ You direct Washington Mutual not to share nonpublic personal information about you among its affiliated companies except as permitted by law. You will continue to receive mailings and advertisements from the Washington Mutual company/companies with which you do business.
-
-**Option 3:**   Directs Washington Mutual not to share nonpublic personal information with nonaffiliated third parties or among its affiliates, except as permitted by law.
-
-_What this means:  
-_ Washington Mutual will not share your nonpublic personal information with either nonaffiliated third parties or among its affiliates, unless permitted by law.
-
-Please note that, even if you opt out, you may still receive advertising and other marketing materials if those materials can be provided without violating your opt out instructions.
-
-Please note that, even if you opt out, you may still receive advertising and other marketing materials if those materials can be provided without violating your opt out instructions. 
-
-_*This Privacy Policy applies to the following Washington Mutual companies and divisions: Long Beach Mortgage Company, Washington Mutual Bank, Washington Mutual Bank fsb, Washington Mutual Bank, FA, WMBFA Insurance Agency, Inc, Washington Mutual Finance, Washington Mutual Finance Group, LLC, Washington Mutual Finance of Florida, LLC, Washington Mutual Finance of Mississippi, LLC, Washington Mutual Finance of North Carolina, LLC, Washington Mutual Finance of Virginia, LLC, Washington Mutual Finance, Inc., Washington Mutual Finance, LLC, WMFS Insurance Services of Idaho, Inc., WMFS Insurance Services of Nevada, Inc., WMFS Insurance Services, Inc., WM Financial Services, Inc., WM Insurance Agency, Inc., Washington Mutual Insurance Agency, Washington Mutual Insurance Services, Inc., Western Bank, Washington Mutual Finance Inc. of Kansas, Washington Mutual Finance, LP, Commerce Service Corporation, WM Insurance Services, Norstar Mortgage Corp, WM Specialty Mortgage LLC, North American Mortgage Company._
-
-  
+In addition to the personal information described above, we may collect certain information about your use of our online services.  For example, we may capture the IP address of the device you use to connect to the online service, the type of operating system and browser you use, and information about the site you came from, the parts of our online service you access, and the site you visit next. We or our third-party partners may also use cookies, web beacons or other technologies to collect and store other information about your visit to, or use of, our online services.  In addition, we may later associate the usage and other information we collect online with personal information about you.  
 
 
-**Other Ways to Protect Your Privacy**
+#### _Chase Mobile_
 
-_Marketing Lists_  
-You can reduce the amount of marketing material and credit applications you receive via mail, telephone or e-mail by writing the Direct Marketing Association at the addresses listed below. You must provide your name, address and telephone number with your request.  
+For your convenience, Chase offers you the ability to access some of our products and services through mobile applications and mobile-optimized websites (“Chase Mobile”).  When you interact with us through Chase Mobile, we may collect information such as unique device identifiers for your mobile device, your screen resolution and other device settings, information about your location, and analytical information about how you use your mobile device.  We may ask your permission before collecting certain information (such as precise geo-location information) through Chase Mobile.
 
+#### _Additional Sources of Information_
 
-Mail Preference Service  
-c/o Direct Marketing Assn.  
-P.O. Box 9008  
-Farmingdale, NY  11735-9008
+We may also collect information about you from additional online and offline sources including from co-branded partner sites or commercially available third-party sources, such as credit reporting agencies.  We may combine this information with the personal and other information we have collected about you under this Online Privacy Policy.
 
-Telephone Preference Service  
-c/o Direct Marketing Assn.  
-P.O. Box 9014  
-Farmingdale, NY  11735-9014
+We use the information discussed above in a number of ways, such as:
 
-E-mail Preference Service  
-[www.e-mps.org](http://www.e-mps.org/)
+  * Processing applications and transactions;
+  * Verifying your identity (such as when you access your account information);
+  * Preventing fraud and enhancing the security of your account or our online services;
+  * Responding to your requests and communicating with you;
+  * Managing your preferences;
+  * Performing analytics concerning your use of our online services, including your responses to our emails and the pages and advertisements you view;
+  * Providing you tailored content and marketing messages;   
 
-_Identity Theft_  
-Identity theft is a serious and growing problem. If someone has fraudulently used your identification to establish credit, report the incident as quickly as possible to each of the credit reporting agencies listed below and ask that a fraud report be placed on your file.
-
-Experian 888-397-3742  
-Equifax  800-525-6285  
-Trans Union 800-680-7289 
-
-You may also check to see if any additional credit accounts have been opened without your consent or whether unauthorized charges were billed to your accounts. Contact these credit reporting agencies to obtain a copy of your credit report.
-
-Experian 888-397-3742  
-[Equifax](http://www.wamu.com/clending/orderCredit.jsp)  800-685-1111  
-Trans Union 800-916-8800 
-
-Please note that this contact information is being provided as a service to you. Washington Mutual is not affiliated with any of these services and cannot guarantee their effectiveness.  
+  * Operating, evaluating and improving our business (including developing new products and services; improving existing products and services; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Complying with and enforcing applicable legal requirements, relevant industry standards, contractual obligations and our policies; and
+  * For any other purposes that we may specifically disclose at the time you provide or we collect your information.
 
 
-  
+
+We may also use data that we collect on an aggregate or anonymous basis (such that it does not identify any individual customers) for various business purposes, where permissible under applicable laws and regulations.
+
+We may share the information we collect from and about you with our affiliates and other third parties.  For example, we may share your information with:
+
+  * Chase third-party service providers;
+  * Chase affiliated websites and businesses in an effort to bring you improved service across our family of products and services, when permissible under relevant laws and regulations;
+  * Other companies to bring you co-branded services, products or programs;   
+  * Third parties or affiliates in connection with a corporate transaction, such as a sale, consolidation or merger of Chase businesses; and
+  * Other third parties to comply with legal requirements such as the demands of applicable subpoenas and court orders; to verify or enforce our terms of use, our other rights, or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect the rights, property or security of our customers or third parties.
+
+
+
+Where appropriate, we will limit sharing of your information in accordance with the choices you have provided us in response to our U.S. Consumer Privacy Notice.
+
+We may share anonymous or aggregated information with third parties to help deliver products, services, and content that are better tailored to the users of our online services and for other purposes.  
+
+
+We, or our service providers, and other companies we work with may deploy and use cookies, web beacons, local shared objects and other tracking technologies for various purposes, such as fraud prevention and monitoring our advertising and marketing campaign performance. Some of these tracking tools may detect characteristics or settings of the specific device you use to access our online services.
+
+  *  “Cookies” are small amounts of data a website can send to a visitor’s web browser.  They are often stored on the device you are using to help track your areas of interest.  Cookies may also enable us or our service providers and other companies we work with to relate your use of our online services over time to customize your experience.  Most web browsers allow you to adjust your browser settings to decline or delete cookies, but doing so may degrade your experience with our online services.  
+
+  * Clear GIFs, pixel tags or web beacons—which are typically one-pixel, transparent images located on a webpage or in an email or other message—or similar technologies may be used on our sites and in some of our digital communications (such as email or other marketing messages).  They may also be used when you are served advertisements or you otherwise interact with advertisements outside of our online services.  These are principally used to help recognize users, assess traffic patterns and measure site or campaign engagement. 
+  * Local Shared Objects, sometimes referred to as “flash cookies” may be stored on your hard drive using a media player or other software installed on your device.  Local Shared Objects are similar to cookies in terms of their operation, but may not be managed in your browser in the same way.  For more information on managing Local Shared Objects, [click here](http://www.adobe.com/security/flashplayer/articles/lso/).
+
+
+
+You will see advertisements when you use many of our online services.  These advertisements may be for our own products or services (including pre-screened offers of credit) or for products and services offered by third parties.  Which advertisements you see is often determined using the information we or our affiliates, service providers and other companies that we work with have about you, including information about your relationships with us (e.g., types of accounts held, transactional information, location of banking activity).  To that end, where permitted by applicable law, we may share with others the information we collect from and about you.
+
+Online behavioral advertising (also known as “OBA” or “interest-based advertising”) refers to the practice of collecting information from a computer or device regarding a visitor’s web-browsing activities across non-affiliated websites over time in order to deliver advertisements that may be of interest to that visitor based on their browsing history. Through OBA, we hope to deliver advertisements that are most likely to be of interest to you using information about your other web-browsing activities (e.g., the web pages you visit, search terms you enter, and the way you move through our online services on your computer or device) or your personal profile (e.g., demographic or location information).  Certain companies we work with may set cookies and use related tracking technologies, such as the clear GIFs discussed above, throughout our online services or in our communications to support these OBA efforts.  If you do not want your information collected and used by the companies we work with for OBA purposes, you can opt out of this form of OBA by following the instructions in the next section.
+
+#### _Opting Out of Online Behavioral Advertising_
+
+**[CLICK HERE](http://info.evidon.com/pub_info/1115?v=1&nt=1&nw=true)** for a list of those third parties that may use your web-browsing behavior for OBA and for which you can opt-out of their use of such data.
+
+ Certain Chase ads on third-party websites feature an Advertising Options Icon, that when clicked, (i) describes the collection and uses of data gathered at the relevant third-party website and (ii) provides a way for you to opt out of data collection and use by the third parties listed for the purposes of OBA.  If you choose to opt out, our service provider will communicate your opt out election to the relevant third-party advertising partners and a cookie will be placed on your browser indicating your decision to opt out.  Bear in mind that because cookies are stored by your browser, if you use different browsers on your computer, or multiple computers and devices that have browsers and you do not wish to have cookies collect information for OBA purposes, **you will need to opt out of OBA from each browser on each of the computers and devices that you use**.  Chase currently uses Evidon in connection with the cross-industry [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/) managed by the Digital Advertising Alliance (DAA).  Please note that even if you opt out of OBA, you may still receive advertisements from us; they just won’t be customized based on your web-browsing activities on third-party websites.
+
+Chase may provide links to websites that are owned or operated by other companies ("third-party websites").  When you use a link online to visit a third-party website, you will be subject to that website’s privacy and security practices, which may differ from ours. You should familiarize yourself with the privacy policy, terms of use and security practices of the linked third-party website before providing any information on that website.
+
+We use reasonable physical, electronic, and procedural safeguards that comply with federal standards to protect and limit access to personal information.  This includes device safeguards and secured files and buildings.  [Visit our Security Center](https://web.archive.org/resources/privacy-security) for additional information about how we protect your Personal Information. 
+
+Please note that information you send to us electronically may not be secure when it is transmitted to us.  We recommend that you do not use unsecure channels to communicate sensitive or confidential information (such as your Social Security number) to us.
+
+Keeping your account information up-to-date is very important.  You may review, or update certain account information by logging in and accessing the “Customer Center” section.  If you cannot change the incorrect information online, or you prefer to request changes offline, please use the Contact Us option on our site, or call or write to us using the contact information listed on your account statements, records, or other account materials.  You can also speak to one of our branch representatives, your financial advisor, or your designated account representative
+
+We may change this Online Privacy Policy from time to time.  When we do, we will let you know by appropriate means such as by posting the revised policy on this page with a new “Last Updated” date.  Any changes to this Online Privacy Policy will become effective when posted unless indicated otherwise.  
 
