@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therehabguide.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118203234id_/http%3A//therehabguide.com/rehabpage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therehabguide.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227111157id_/http%3A//www.therehabguide.com/rehabpage/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best Rehabs - The Rehab Guide Treatment Facility Locator
+# Privacy Policy | The Rehab Guide ®. | Substance Abuse Search
 
 At The Rehab Guide we understand the importance of protecting your privacy.
 
