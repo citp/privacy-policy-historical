@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileserve.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623074326id_/http%3A//fileserve.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileserve.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227204802id_/http%3A//fileserve.com/privacy-policy.php) for the most accurate reproduction.*
 
 # FileServe - Privacy Policy - Free Online Storage & File Upload
 
