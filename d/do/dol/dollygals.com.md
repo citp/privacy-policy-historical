@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollygals.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005541id_/http%3A//www.dollygals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollygals.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227014034id_/http%3A//www.dollygals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | dollygals.com
 
