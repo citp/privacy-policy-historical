@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxwebsearch.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510010517id_/http%3A//maxwebsearch.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxwebsearch.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227143110id_/http%3A//maxwebsearch.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,7 +10,7 @@
 
 **Effective as of April 27, 2012**
 
-MaxWebSearch has established this Privacy Policy to disclose our information gathering and dissemination practices for the [www.maxwebsearch.com](http://www.maxwebsearch.com/) website and our Services, and to allow you to make an informed decision about how you will use our Services.  Our “Services” include [www.maxwebsearch.com](http://www.maxwebsearch.com/), the services provided thereon, and all related services, applications, components, programs, software, listings, directories, tools, databases and information made available and utilized.  References to “you” in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
+MaxWebSearch has established this Privacy Policy to disclose our information gathering and dissemination practices for the [maxwebsearch.com](http://maxwebsearch.com/) website and our Services, and to allow you to make an informed decision about how you will use our Services.  Our “Services” include [maxwebsearch.com](http://maxwebsearch.com/), the services provided thereon, and all related services, applications, components, programs, software, listings, directories, tools, databases and information made available and utilized.  References to “you” in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
 
 By using our Services, you are consenting to the terms of this Privacy Policy.  If you do not agree to be bound by this Privacy Policy, you should not use our Services. We reserve the right to enter into new or different lines of business with consumers and if and to the extent we do, we may display a different privacy policy to the consumer for such lines of business. 
 
@@ -62,7 +62,7 @@ You are responsible for keeping any password you use for third party services th
 
 **5. We Are Committed to Security **
 
-MaxWebSearch stores Anonymous Information in a database on MaxWebSearch computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under MaxWebsearch's control.  Notwithstanding such measures, MaxWebSearch cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
+MaxWebSearch stores Anonymous Information in a database on MaxWebSearch computers. These computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under MaxWebSearch's control.  Notwithstanding such measures, MaxWebSearch cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data on them stolen or altered. 
 
 **6. General Internet Hazards **
 
@@ -74,7 +74,7 @@ Our Services are international in scope.  By using the Services you consent to y
 
 **8. Children **
 
-Our Services are intended for a general audience, and children under the age of thirteen are not permitted to use the Services.  We do not intentionally solicit or collect personal information from anyone under the age of 13.  If you believe that we might have any information from or about a child under age 13, please contact us through our contact form at: [http://www.maxwebsearch.com/contact.](http://www.maxwebsearch.com/contact) We strongly recommend that minors between the ages of 13 and 18 ask their parents’ permission before sending information about themselves to anyone over the Internet or receiving any information from persons unknown to them. 
+Our Services are intended for a general audience, and children under the age of thirteen are not permitted to use the Services.  We do not intentionally solicit or collect personal information from anyone under the age of 13.  If you believe that we might have any information from or about a child under age 13, please contact us through our contact form at: [http://maxwebsearch.com/contact.](http://maxwebsearch.com/contact) We strongly recommend that minors between the ages of 13 and 18 ask their parents’ permission before sending information about themselves to anyone over the Internet or receiving any information from persons unknown to them. 
 
 **9. Changes to this Privacy Policy **
 
@@ -88,7 +88,7 @@ Any references made in this Privacy Policy to “us”, “we”, “our” and/
 
 For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org.  In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. 
 
-If you have questions about this Privacy Policy, please contact us through our contact form at <http://www.maxwebsearch.com/contact> or write to us at:
+If you have questions about this Privacy Policy, please contact us through our contact form at <http://maxwebsearch.com/contact> or write to us at:
 
 MaxWebSearch  
 Attn: Legal Department   
