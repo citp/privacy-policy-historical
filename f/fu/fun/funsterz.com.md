@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funsterz.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612062420id_/http%3A//funsterz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funsterz.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227234737id_/http%3A//funsterz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pictures Images Photos And Videos !
+# Privacy Policy | Funsterz.com - Amazing Videos, Amazing Funny Pictures, Crazy Videos, Funny Photos
 
 **Privacy Policy for funsterz.com**
 
