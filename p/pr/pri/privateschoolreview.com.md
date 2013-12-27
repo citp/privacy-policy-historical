@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateschoolreview.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629173444id_/http%3A//www.privateschoolreview.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateschoolreview.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227221800id_/http%3A//www.privateschoolreview.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Private School Review | PrivateSchoolReview.com
 
@@ -12,14 +12,14 @@ This policy covers how Private School Review treats personal information that we
 
 Private School Review collects personally identifiable information only upon user consent. The information is normally gathered through our surveys, newsletters, or other services we offer to users. Information collected may include, but are not exclusive to names, addresses, email address, educational history, and phone numbers of users of Private School Review.
 
-Private School Review actively conducts surveys by alumni and current students of US public schools. Completed student/alumni reviews are verified with their respective school registrars; however Private School Review will not request any information beyond what is included in completed surveys unless given explicit permission by survey participants. Anonymous information is collected in the form of site and page traffic performance which include geographic and demographic information.
+Private School Review actively conducts surveys by alumni and current students of US private schools. Completed student/alumni reviews are verified with their respective school registrars; however Private School Review will not request any information beyond what is included in completed surveys unless given explicit permission by survey participants. Anonymous information is collected in the form of site and page traffic performance which include geographic and demographic information.
 
 3\. HOW PERSONAL INFORMATION MAYBE USED
     
 
-Personal information can be used to customize content and enhance user experience. Site and page statistical information is used to measure site popularity and usage. Users who have shared information may receive newsletters, site announcements, or promotional materials from public schools and other site partners. Users can always contact our site ([information@privateschoolreview.com](mailto:information@privateschoolreview.com)) and request to remove their information from all distribution lists.
+Personal information can be used to customize content and enhance user experience. Site and page statistical information is used to measure site popularity and usage. Users who have shared information may receive newsletters, site announcements, or promotional materials from private schools and other site partners. Users can always contact our site ([information@privateschoolreview.com](mailto:information@privateschoolreview.com)) and request to remove their information from all distribution lists.
 
-Collected surveys are reviewed and posted on our site to enrich the overall picture of public school life. However under no circumstance is personal identifiable information relating to students made public online, verbally, or written without explicit consent by the survey participant. Private School Review reserves the right to edit or remove survey responses for grammatical, spelling or suitability purposes. The survey responses do not reflect Private School Review's opinion of any US public school or their students, past or present.
+Collected surveys are reviewed and posted on our site to enrich the overall picture of private school life. However under no circumstance is personal identifiable information relating to students made public online, verbally, or written without explicit consent by the survey participant. Private School Review reserves the right to edit or remove survey responses for grammatical, spelling or suitability purposes. The survey responses do not reflect Private School Review's opinion of any US private school or their students, past or present.
 
 4\. HOW PRIVATE INFORMATION IS PROTECTED, CHANGED AND UPDATED
     
