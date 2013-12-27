@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the ukcampsite.co.uk privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516025939id_/http%3A//www.ukcampsite.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukcampsite.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227153604id_/http%3A//www.ukcampsite.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # UKCampsite.co.uk Privacy and Cookie Policy
 
-   [Home](http://www.ukcampsite.co.uk/)
-
-   [Log in](http://www.ukcampsite.co.uk/chatter/login_user.asp) or [Register](http://www.ukcampsite.co.uk/chatter/register_form.asp)
-
-| [](http://www.ukcampsite.co.uk/)  
-| [](http://www.ukcampsite.co.uk/caravan-insurance/)  
+     
+[Home](http://www.ukcampsite.co.uk/)| [](http://www.ukcampsite.co.uk/)  
+|   
+[Turn Snow On](http://www.ukcampsite.co.uk/snowbutton.asp?snow=on)  
 ---|---|---  
 [](http://www.ukcampsite.co.uk/chatter/) | [](http://www.ukcampsite.co.uk/sites/) | [](http://www.ukcampsite.co.uk/directory2) | [](http://www.ukcampsite.co.uk/articles/) | [](http://www.ukcampsite.co.uk/sites/vb/vb.asp) | [](http://www.ukcampsite.co.uk/members.asp)  
 [](http://www.ukcampsite.co.uk/tents) | [](http://www.ukcampsite.co.uk/competitions/) | [](http://www.ukcampsite.co.uk/forsale/) | [](http://www.ukcampsite.co.uk/membershop/) | [](http://www.ukcampsite.co.uk/events/) | [](http://www.ukcampsite.co.uk/contact/)  
@@ -85,7 +83,7 @@
 > 
 > We reserve the right, at any time, to modify, alter, or update these policies. All links correct at time of publication. 
 
-**1957 Visitors online !**
+**2599 Visitors online !**
 
 [Free UKCampsite.co.uk Windows Sticker](http://www.ukcampsite.co.uk/membershop/sticker.asp)  -  [Recommend to Friend](http://www.ukcampsite.co.uk/recommend.asp)  -  [Cheap Hotels](http://www.hotelshotelshotels.co.uk/)  -  [Pension News](http://www.cartwrightgroup.co.uk/tml/news.pl)
 
