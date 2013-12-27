@@ -1,62 +1,62 @@
-> *The following text is extracted and transformed from the smartlifeweekly.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627113048id_/http%3A//www.smartlifeweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlifeweekly.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227224957id_/http%3A//www.smartlifeweekly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smart Life Weekly
 
-     Last Updated on 17 April 2012
+    Last Updated on 12 November 2013
 
-##  [ Privacy Policy](http://www.smartlifeweekly.com/uncategorised/privacy-policy)
+## [Privacy Policy](http://www.smartlifeweekly.com/uncategorised/privacy-policy)
 
-**SmartLifeWeekly.com    \- Privacy Policy**
+ **SmartLifeWeekly.com    \- Privacy Policy**
 
-This privacy policy (Privacy Policy) herein contains information intended to inform you of our practices and policies regarding the collection, use, and disclosure of information that you (End User, User, Website User, You, or Your) submit to Progressive Media & Marketing, LLC (referred to as the Company, we, or us) through our website www.smartlifeweekly.com, the mobile and touch versions and any individual sites or merchant-specific, city-specific, or other area-specific websites we have now or in the future. The website and links contained within or otherwise available through external hyperlinks within our website will be collectively referred to as (the Site) in this Privacy Policy.
+This privacy policy (Privacy Policy) herein contains information intended to inform you of our practices and policies regarding the collection, use, and disclosure of information that you (End User, User, Website User, You, or Your) submit to SOHO Media, LLC (referred to as the Company, we, or us) through our website www.smartlifeweekly.com, the mobile and touch versions and any individual sites or merchant-specific, city-specific, or other area-specific websites we have now or in the future. The website and links contained within or otherwise available through external hyperlinks within our website will be collectively referred to as (the Site) in this Privacy Policy.
 
-**End User Consent**  
+ **End User Consent**  
 By accessing the Site, you acknowledge that you have read, understood, and agree to adhere to all of the terms of this Privacy Policy as well as the Site’s <http://www.smartlifeweekly.com/terms-and-conditions> Please refrain from using this Site if you do not agree to all of these terms and exit the Site. Do not access the Site again unless you fully agree to the terms set herein.
 
-**Collection of Information**   
-**Your Personal Information**  
+ **Collection of Information**  
+ **Your Personal Information**  
 Personal Information means any information that may be used to identify an individual. This includes but is not limited to: first and last name, email address, mailing and residential address, telephone number, title, birth date, gender, occupation, company you work for and other information needed to provide a service you have requested. When you browse our website and subsidiary sites, you do so anonymously, unless you have previously indicated that you wish SmartLifeWeekly.com to remember your login and password. SmartLifeWeekly.com does log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. However, we do not link your IP address to any personal information unless you have registered and logged in to our website. When you visit certain SmartLifeWeekly.com web pages, you may need to be registered and to login with a password. The use of those web pages, and the information downloadable from those sites, may be governed by a written agreement between your employer and SmartLifeWeekly.com. Unless you request your personal information to be deleted, it may be retained by SmartLifeWeekly.com to verify compliance with the agreement, to track software and documents downloaded by you, or track page visits and usage of other applications available on our site. SmartLifeWeekly.com may receive personal information from its business partners and suppliers. SmartLifeWeekly.com only uses such information if it has been collected in accordance with acceptable privacy practices consistent with its policy and applicable laws.
 
-**Non-Personal Information**  
+ **Non-Personal Information**  
 Non-Personally Identifiable Information is any type of information that does not directly identify an end User. This information can include information like the type of browser used, the Uniform Resource Locator (“URL”) of the website you came from or that you exited to, and your Internet Protocol (“IP”) address. We may automatically collect this information upon your visit to our Site, and we may collect this information through Third Party Providers or Advertisers and we may collect this data through cookies and pixels placed on our Site. We also use Non-Personally Identifiable Information to gather information on Users demographics, and to cooperate with local and Federal law enforcement activities. We reserve the right to share this information with Third Party Service Providers and Advertisers in order to quantify the effectiveness of our advertising, web content and necessary programming changes.
 
-**Release of Personal Information**  
+ **Release of Personal Information**  
 Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent, or otherwise share for marketing purposes the Personal Information that we collect with third parties, unless you ask or authorize us to do so.  
 Information We May Share With Third Party Providers  
 In many cases we will provide Personally Identifiable and Non-Personally Identifiable Information to our affiliated merchants if a User purchase products or services from our affiliated merchants through our Site. This is done in an effort to assist the Merchant with tracking of referrals.
 
-**Remarketing**   
+ **Remarketing**  
 We may collect certain information that will allow us to display advertisements to you from Third Party Service Providers from past visits to our Site through the use of cookies and IP data collection. You may opt-out of this type of targeting by visiting <http://www.google.com/privacy_ads.htm> and following the directions necessary to do so. Also you may opt out of this ad service from multiple advertising companies using the Network Advertising Initiative (NAI) opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>
 
-**information we may share during a business transition**   
+**information we may share during a business transition**  
 In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of ours or that acquirer’s assets may continue to process your Personal Information as set forth in this Privacy Policy.   
 Information we may share for our protection and to protect others.   
 Under certain requirements by law, we may need to disclose Personally Identifiable Information and we reserve the right to do so to remain in compliance. If we believe that disclosure is necessary to comply with local, state or federal laws, court orders or any legal process, or the safety of our Sites Users, we will do so.
 
-**Release of Non-Personal Information**  
+ **Release of Non-Personal Information**  
 Some or all of the Non-Personally Identifiable Information that we collect may be shared with Affiliates, Merchants, Advertisers, Partners, Third Party Advertising Agencies, Third Party Advertising Companies, and Third Party Advertisers. In many cases we use Third Party Advertising Companies to serve ads based on certain criteria of the User which is generally based on Non-Personally Identifiable Information. This information is being shared with the Third Party Advertising Company to serve the most relevant ads to our Users. We also share Non-Personally Identifiable Information with Third Party Service Providers to assist us in analyzing our Site usage and User behavior, along with statistical analysis. Also please be advised that we may publish Non-Personally Identifiable Information on our site, press releases, blogs, social marketing sites, and promotional materials to share what type of people use our Site.
 
-**Security**  
+ **Security**  
 For the security of our Users data we have taken some precautionary steps to make sure the information we collect that is Personally Identifiable is secure. We encrypt such data as passwords, credit card information, and other information that is Personally Identifiable. We ask that you do not share your password with anyone to maintain the highest level of security for yourself. Additionally we use a Secure Socket Layer (“SSL”) technology while Users make purchases or store certain information such as credit card numbers. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to store your preferences and offers that you have purchased.Although we take these measures to protect your information, there is no way to fully guarantee that your data is fully secure when data transmission takes place through the Internet or any wired or wireless connection. We are not responsible for the data that third parties receive during those transmissions and connections to our Site.
 
-**Tracking Methods and Purpose**  
- **Use of Cookies.**   
+ **Tracking Methods and Purpose**  
+ **Use of Cookies.**  
 If enabled, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser, and allows the websites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us serve you the proper information and to facilitate purchases through our Site. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. Please keep in mind that if cookies are disabled for one or any of our webpages or if you delete your cookies, our Site may not work as intended and may cause problems while trying to use certain features and functions.
 
-**Other Tracking Devices.**   
+ **Other Tracking Devices.**  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your Users based on their visit to our Sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. We may also use other Third Party Service Providers and their technology to create a better User experience. We use pixels and pixel tags within our Site and our emails to Users that helps us determine our marketing efforts and the legitimacy of the data we collect.
 
-**Third Party Websites and Their Privacy Policy**  
-Our Privacy Policy is for the governance of this site and any other site owned and operated by Progressive Media & Marketing, LLC. Any third-party or other site that you have access to from our site employs their own privacy policy and terms and conditions which explain their usage and disclosure of data collection and practices. Please be sure to read those before engaging in the use of those sites as we are not responsible for their actions or practices.
+ **Third Party Websites and Their Privacy Policy**  
+Our Privacy Policy is for the governance of this site and any other site owned and operated by SOHO Media, LLC. Any third-party or other site that you have access to from our site employs their own privacy policy and terms and conditions which explain their usage and disclosure of data collection and practices. Please be sure to read those before engaging in the use of those sites as we are not responsible for their actions or practices.
 
-**Miscellaneous Privacy Issues**  
- **Children’s Online Privacy Protection Act Compliance.**   
+ **Miscellaneous Privacy Issues**  
+ **Children’s Online Privacy Protection Act Compliance.**  
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 18 years of age as we do not allow minors to use our Site. Our Site, products and services are all directed to people who are at least 18 years of age or older. We may sell children's products but only for the purchase of adults.
 
-**Publicly Accessible Areas.**   
+ **Publicly Accessible Areas.**  
 Our Site provides information to Users through our own content as well as through posts by Users. Posts can be in the form of reviews, comments, discussions, blog entries and more. When posting on our site you acknowledge that information you share may be accessible to all other Users and may be read, downloaded, and aggregated. Please be cautious of your posts as you may receive unsolicited emails and messages if you leave your email address, phone number, mailing address, or any other form of communication or personal information in your post. We do not have any control over who accesses this data and you understand that leaving these posts are voluntary. We do have the right to post your first name and last initial anywhere on the Site and the acceptance of this privacy policy is your consent to do so. Additionally, in the event that you send us feedback for any purpose, we have the right to disclose the information submitted. We may use your feedback for any purpose, such as marketing, testimonials, and other purposes. You acknowledge that upon submission of your feedback, reviews, comments, emails, discussions and blog entries that this content become SmartLifeWeekly’s property and we do not owe Users royalties or any other form of compensation.
 
-**California Online Privacy Protection Act Compliance**  
+ **California Online Privacy Protection Act Compliance**  
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.  
 As part of the California Online Privacy Protection Act, all Users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page. Additionally, California Law requires us, at your request to do the following:  
 1\. Inform you of the categories of Personally Identifiable Information that we collect and share with third parties and who they are.  
@@ -64,6 +64,6 @@ As part of the California Online Privacy Protection Act, all Users of our site m
 3\. Give you examples of the products and services marketed by the third parties.  
 Furthermore, California Law requires us to allow you to control who you would like for us not to share this information with. In order to obtain the information we send and to which third parties, please write us your request by standard mail to the address listed in the contact portion of this policy, you may also email us to the email listed in the contact portion of this policy. Please include your first name, last name, email address, mailing address and what Personally Identifiable Information you want to prevent us from sharing. Please be sure to add “ATTN: LEGAL DEPT” in your email subject. We will correspond with you first to let you know who our Third Party Service Providers are so that you may select who you want to prevent from accessing your Personally Identifiable Information. Please allow 30 days for us to send a response, also please not that there is no charge for this service.
 
-**Revisions and Contact Information**  
+ **Revisions and Contact Information**  
 We reserve the right to make changes and modifications to this privacy policy at any time we feel that it is appropriate to do so. Please check back often to be aware of our modifications.  
 Legal Inquiries: [legal@smartlifeweekly](mailto:legal@smartlifeweekly.com)
