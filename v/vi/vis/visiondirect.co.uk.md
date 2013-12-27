@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627130633id_/http%3A//www.visiondirect.co.uk/pageNoParse.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227231059id_/http%3A//www.visiondirect.co.uk/pageNoParse.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
 
 # Contact Lenses - Buy Cheap Contact Lenses - Up to 70% Discount! > Privacy Policy
 
@@ -60,7 +60,7 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services provider, Paypal and Secpay. You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at www.paypal.com). We will share information with Paypal only to the extent necessary for the purposes of processing payments you make via our website.
+All our website financial transactions are handled through our payment services provider, Paypal and Paypoint (Secpay). Your payment details are stored by our payment services providers and not on our website. You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at www.paypal.com). We will share information with Paypal only to the extent necessary for the purposes of processing payments you make via our website.
 
  **(4) Disclosures**
 
