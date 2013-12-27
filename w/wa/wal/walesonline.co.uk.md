@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walesonline.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629170138id_/http%3A//www.walesonline.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walesonline.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227214603id_/http%3A//www.walesonline.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # WalesOnline: News, sport, weather and events from across Wales
 
