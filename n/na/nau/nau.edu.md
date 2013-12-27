@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606224843id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227120009id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Web Privacy Statement - Northern Arizona University
-
-## Web Privacy Statement  
 
 NAU provides online information and services to students, employees and the public to supplement services provided on campus. This privacy statement provides information about privacy, confidentiality and related policies for individuals who use our websites and online services. Individual websites may provide additional information about privacy. The NAU website contains links to external websites. NAU is not responsible for the privacy practices or policies of those sites not hosted on official NAU servers.
 
