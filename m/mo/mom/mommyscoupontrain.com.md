@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommyscoupontrain.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521235837id_/http%3A//mommyscoupontrain.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyscoupontrain.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227171328id_/http%3A//mommyscoupontrain.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure / Privacy Policy | Mommys Coupon Train
+# Disclosure / Privacy Policy |
 
 Disclosure:
 
