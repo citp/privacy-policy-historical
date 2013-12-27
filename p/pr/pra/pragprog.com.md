@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531015007id_/http%3A//pragprog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227090335id_/http%3A//pragprog.com/privacy) for the most accurate reproduction.*
 
 # The Pragmatic Bookshelf | Our Commitment to Privacy
 
@@ -33,7 +33,7 @@ We do not knowingly collect personal data from children. We do not take specific
 
 ### Passing Data to Third Parties
 
-Our shopping cart system passes the contact and order information to our payment processor at the time you make an order. It passes a small subset of this information a second time at the point where we ship your order (as your credit card only gets billed at the time shipment is made).
+Our shopping cart system passes the contact and order information to our payment processor at the time you make an order. It passes a small subset of this information a second time at the point where we ship your order (as your credit card only gets billed at the time shipment is made). It also passes your contact details to our shipping agent if you order a physical product.
 
 We have a close relationship with [The Pragmatic Studio](http://pragmaticstudio.com/), who prepare content and courses under our Pragmatic brand. We share information with them.
 
