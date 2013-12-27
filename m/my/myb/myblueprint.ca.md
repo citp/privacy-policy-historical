@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblueprint.ca privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530013730id_/http%3A//myblueprint.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblueprint.ca privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227104425id_/http%3A//myblueprint.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myBlueprint
 
