@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintpressnews.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616183204id_/http%3A//www.mintpressnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintpressnews.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227125035id_/http%3A//www.mintpressnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
