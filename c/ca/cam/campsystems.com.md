@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campsystems.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531133808id_/http%3A//campsystems.com/CAMPPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campsystems.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227205635id_/http%3A//campsystems.com/CAMPPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # CAMP Systems Privacy Policy
 
