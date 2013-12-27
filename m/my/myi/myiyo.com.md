@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myiyo.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627172001id_/http%3A//www.myiyo.com/index.php%3Fsec%3Dinfo%26sub1%3Ddataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myiyo.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227210258id_/http%3A//www.myiyo.com/index.php%3Fsec%3Dinfo%26sub1%3Ddataprotection) for the most accurate reproduction.*
 
 # Privacy Policy
 
