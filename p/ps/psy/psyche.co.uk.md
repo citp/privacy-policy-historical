@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516071204id_/http%3A//www.psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227053111id_/http%3A//www.psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
 # Psyche Designer Clothing Store - Privacy Policy - Customer Privacy
 
