@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phones4u.co.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629162744id_/http%3A//www.phones4u.co.uk/Help/help_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phones4u.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227203948id_/http%3A//www.phones4u.co.uk/Help/help_privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Phones 4u
 
