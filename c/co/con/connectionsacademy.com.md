@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629043700id_/http%3A//www.connectionsacademy.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectionsacademy.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227041606id_/http%3A//www.connectionsacademy.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last updated: October 9, 2012  
-_**
+### _Last updated: August 6, 2013_
 
-Connections Education LLC and its subsidiaries and affiliated companies ("Connections ") respects your privacy and has established this privacy policy (“Privacy Policy”) to let you know how we collect, use, manage, share, and protect information that we may gather when you visit our website or the websites of our affiliated schools or Connexus®, the Connections Education Management System (collectively, the “Websites”) contact us by phone or other means. This Privacy Policy applies to the Websites where this Privacy Policy is posted and to information we gather from you over the phone, via conventional mail or in person. 
+Connections Education LLC and its affiliates (“Connections”), a part of the global learning company, Pearson, respects your privacy and has established this privacy policy (“Privacy Policy”) to let you know how we collect, use, manage, share, and protect information that we may gather when you visit our website or the websites of our affiliated schools or Connexus®, the Connections Education Management System (collectively, the “Websites”) contact us by phone or other means. This Privacy Policy applies to the Websites where this Privacy Policy is posted and to information we gather from you over the phone, via conventional mail or in person. 
 
 Connections reserves the right to change this Privacy Policy at any time. If we make any material changes to this policy, we will post any revised Privacy Policy on the Websites. The most current version is always available by clicking on the "Privacy Policy" link located at the bottom of the Websites’ home page. Any changes to our Privacy Policy will become effective upon posting of the revised Privacy Policy. **By using any of the Websites, you agree to the terms of the Privacy Policy in effect at the time of use. If you do not agree to the terms and conditions of this Privacy Policy, please do not use any of the Websites.**
 
@@ -13,11 +12,15 @@ Connections reserves the right to change this Privacy Policy at any time. If we 
 
 We collect two types of information: (1) non-personally identifiable information that is routinely gathered as users navigate through a Website and (2) personally identifiable information voluntarily supplied by you.
 
+## Non-U.S. Users
+
+The Websites are hosted and operated in the United States and are subject to United States law. Any personal information that you provide to us is being provided to us in the United States and will be hosted on United States servers. You consent to the transfer of your personal information to the United States in order to receive services from Connections. If you are accessing a Website from outside the United States, please be advised that United States law may not offer the same privacy protections as the law of your jurisdiction.  
+
 ## Non-Personally Identifiable Information
 
-Each time you visit a Website, information is automatically gathered such as your IP address, domain name, the name of the page from which you entered the Website, which pages you view, and for how long you view them. This information is collected in order to improve the Website, remarketing and for trend analysis. As with most websites, we may use "cookies" to track usage, for marketing purposes and to improve your experience. A cookie is a text file that is placed on your hard disk by a Web page server. The cookies do not collect any personally identifiable information. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If, however, you choose to decline cookies, you may not be able to fully experience the interactive features of our Websites or have some of our services on the Websites function properly. Further information about cookies is available using the help function of your Internet browser. 
+Each time you visit a Website, information is automatically gathered such as your IP address, domain name, the name of the page from which you entered the Website, which pages you view, and for how long you view them. This information is collected in order to improve the Website, remarketing and for trend analysis. As with most websites, we may use "cookies" to track usage, for marketing purposes and to improve your experience. A cookie is a text file that is placed on your hard disk by a Web page server. The cookies do not collect any personally identifiable information. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If, however, you choose to decline cookies, you may not be able to fully experience the interactive features of our Websites or have some of our services on the Websites function properly. Further information about cookies is available using the help function of your Internet browser.
 
-We may use third-party cookies as part of remarketing activities we conduct with Google and/or other third-party vendors, to help provide you with relevant messaging as you use the Internet. As part of these remarketing activities, these third-party cookies may record your visits to our Websites and web sites visited prior. Such cookies can then be used to serve targeted messaging to you on other websites. You may choose to be exempt from the use of Google remarketing cookies at the [Google advertising privacy page](http://www.google.com/policies/privacy/ads/#toc-optout). Alternatively, you may opt-out of remarketing on the Google network and similar networks at the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) opt out page. Opting out will not prevent advertisements from being served to you on the Internet; it will only affect advertisements that utilize remarketing cookies to serve messaging on the specified networks. We are not responsible for the activities of other parties that may not comply with your opt-out requests.
+We may use third-party cookies as part of remarketing activities we conduct with Google and/or other third-party vendors, to help provide you with relevant messaging as you use the Internet. As part of these remarketing activities, these third-party cookies may record your visits to our Websites and web sites visited prior. Such cookies can then be used to serve targeted messaging to you on other websites. You may choose to be exempt from the use of Google remarketing cookies at the [Google advertising privacy page](http://www.google.com/privacy/ads/). Alternatively, you may opt-out of remarketing on the Google network and similar networks at the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). Opting out will not prevent advertisements from being served to you on the Internet; it will only affect advertisements that utilize remarketing cookies to serve messaging on the specified networks. We are not responsible for the activities of other parties that may not comply with your opt-out requests.
 
 Because non-personally identifiable information does not identify you, we reserve the right to use it for any purpose and to share it with third parties for any purpose. Please note that to the extent any non-personally identifiable information is combined with personally identifiable information, the combined information will be treated as personally identifiable information for as long as it is so combined.
 
@@ -39,7 +42,7 @@ In the event that all or substantially all of Connections’ assets are sold or 
 
 Finally, we may disclose your personally identifiable information to third parties if we believe we are required to do so in order to comply with law (including court orders and subpoenas); to comply with lawful requests from law enforcement agencies or other governmental organizations; to enforce our Terms of Use; to protect the rights, privacy, safety, or property of Connections, our affiliated schools, our employees, or other users of the Websites; and/or to permit us to pursue available remedies or limit the damages that we may sustain. We otherwise exercise commercially reasonable care to not otherwise share or disclose the names of users or any other personally-identifying information with third-parties, except with your prior approval. 
 
-## Message Boards
+## Message Boards 
 
 We may offer message boards through Connexus®. Please be aware that anyone may read your postings on a message board. Furthermore, any information that you submit to be posted to a message board, including your Connexus® account information, will be disclosed and available to all users of that message board, and is therefore no longer private. We cannot guarantee the security of such information that you disclose or communicate online in public areas such as message boards, and you do so at your own risk.
 
@@ -49,17 +52,17 @@ Connections is concerned about the safety and privacy of children online. We tak
 
 The Websites are not intended to solicit information of any kind from children under the age of 13, and we do not and will not knowingly contact or collect personally identifiable information from children under 13. The only personal information we receive about children under the age of 13 is information provided by the parent or legal guardian. The parent or legal guardian has the option to agree to the collection and use of the student’s information without consenting to the disclosure of the information to third parties. 
 
-It is possible that by fraud or deception by others we may receive information pertaining to children under the age of 13. If we are notified of the receipt of information under such circumstances, once verified, we will promptly obtain parental or guardian consent, and in the absence of such consent will delete the information. If you want to notify us that we have inadvertently received information for a child under the age of 13, please do so by emailing us at [legal@connectionseducation.com](mailto:legal@connectionseducation.com). 
+It is possible that by fraud or deception by others we may receive information pertaining to children under the age of 13. If we are notified of the receipt of information under such circumstances, once verified, we will promptly obtain parental or guardian consent, and in the absence of such consent will delete the information. If you want to notify us that we have inadvertently received information for a child under the age of 13, please do so by emailing us at [legal@connectionseducation.com](mailto:legal@connectionseducation.com).
 
 You can request to review, edit, or prohibit personally identifiable information of a child under the age of 13 from being used by Connections, its affiliates, schools, and vendors acting on behalf of Connections by making a request in writing to [legal@connectionseducation.com](mailto:legal@connectionseducation.com). Please note that if you make a request to prohibit personally identifiable information being used by Connections, its affiliates, schools, and vendors acting on behalf of Connections, your child may no longer continue to be enrolled in Connections and this may terminate his or her participation in the Connections program.
 
 For information on our use of information covered by COPPA please contact us at the following:
 
-> > > > > Connections Education LLC   
->  1001 Fleet Street, 5th Floor   
->  Baltimore, MD 21202   
->  Phone: 1-800-382-6010   
->  Email:[ legal@connectionseducation.com ](mailto:legal@connectionseducation.com)
+> > _Connections Education LLC  
+>  1001 Fleet Street, 5th Floor  
+>  Baltimore, MD 21202  
+>  Phone: 1-800-382-6010  
+>  Email: [legal@connectionseducation.com](mailto:legal@connectionseducation.com)_
 
 ## Security
 
@@ -75,4 +78,7 @@ California’s “Shine the Light” law provides California residents with the 
 
 ## Contact Information
 
-If you have any questions regarding this Privacy Policy, please contact us by email at [legal@connectionseducation.com](mailto:legal@connectionseducation.com). Please note that email communications will not necessarily be secure. Accordingly, you should not include credit card information or other sensitive information in your email correspondence with us.
+If you have any questions regarding this Privacy Policy, please contact us by email at [legal@connectionseducation.com](mailto:legal@connectionseducation.com). Please note that email communications will not necessarily be secure. Accordingly, you should not include sensitive information in your email correspondence with us. 
+
+  
+
