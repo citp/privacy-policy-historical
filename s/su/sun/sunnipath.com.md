@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnipath.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604023010id_/http%3A//qibla.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnipath.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227233036id_/http%3A//qibla.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy| Qibla for The Islamic Sciences
 
