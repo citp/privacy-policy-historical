@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423230141id_/http%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227133236id_/http%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
 
-# j2ski.com - Cookie Use and Privacy Policy
+# J2Ski.Com - Cookie Use and Privacy Policy
 
 ## Your Use of J2Ski - Please Note
 
-By continuing to use J2Ski, you consent to the terms of our Privacy Policy - please at least read the summary below!
+By continuing to use J2Ski, you consent to the terms of our Privacy Policy - please at least read the summary below, and the section regarding Google Analytics!
 
 ## Our Privacy Policy - No Nonsense Summary
 
@@ -22,7 +22,7 @@ We will not use your e-mail address, or any other personal data that you may cho
 
 We will use our web server logs to analyse the use of our web site.
 
-When you visit j2ski.com, your IP Address (the unique address of your computer on the Internet) is recorded in our log files, along with the pages visited. These logs are standard Apache Web Server logs and may contain information allowing us to analyse when and how each visitor arrived at our site, which other web site(s) sent (referred) them and how long they stayed.
+When you visit J2Ski.Com, your IP Address (the unique address of your computer on the Internet) is recorded in our log files, along with the pages visited. These logs are standard Apache Web Server logs and may contain information allowing us to analyse when and how each visitor arrived at our site, which other web site(s) sent (referred) them and how long they stayed.
 
 The Server Logs do not tell us who you are or where you live.
 
@@ -43,6 +43,18 @@ We may resolve the IP address to also collect the domain name, but not the e-mai
 For visitors who voluntarily register to post messages to our forum, and who communicate with us via e-mail, we will record their e-mail address(es).
 
 The information we collect is used to improve the content of our Web pages and occasionally to notify visitors about updates to our Web site; it is not shared with other organizations for commercial purposes.
+
+## Our use of Google Analytics - PLEASE READ
+
+In order to understand the needs of our users, we use features of Google Analytics that report estimated demographic information.
+
+To provide this information, Google may set and use additional cookies.
+
+### Controlling information shared with Google
+
+You can control the information Google associates with your web activity (in Google's words you can "opt-out of Google Analytics for Display Advertising and customize Google Display Network ads") using the [Google Ads Settings](https://www.google.com/settings/ads).
+
+You can also use the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 ## Our use of Cookies
 
