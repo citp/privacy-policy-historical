@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmocashout.com privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208162526id_/http%3A//mmocashout.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmocashout.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227124908id_/http%3A//www.mmocashout.com/privacypolicy.php) for the most accurate reproduction.*
 
 # MMOcashout - Privacy Policy
 
