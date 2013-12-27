@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522002511id_/http%3A//dsc.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227182646id_/http%3A//corporate.discovery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Discovery Communications
 
