@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsunghub.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616051741id_/http%3A//sammyhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsunghub.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227161128id_/http%3A//sammyhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
