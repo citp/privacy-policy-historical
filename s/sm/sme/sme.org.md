@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sme.org privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627163827id_/http%3A//www.sme.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sme.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227061422id_/http%3A//www.sme.org/privacy) for the most accurate reproduction.*
 
 # SME - Website Privacy Statement
 
