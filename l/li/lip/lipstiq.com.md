@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lipstiq.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326041422id_/http%3A//www.lipstiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipstiq.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227014557id_/http%3A//www.lipstiq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Lipstiq.com | Your Best Kept Secret
+# Privacy Policy | Lipstiq.com | Your Best Kept Secret
 
 **This Agreement was last revised on 28th of July, 2011.**  
 Welcome to Lipstiq.com, the website and online service of Lowyat Networks (“Company” “we,” or “us”). Lipstiq.com knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use Lipstiq.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
