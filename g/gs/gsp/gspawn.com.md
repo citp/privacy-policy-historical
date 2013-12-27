@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gspawn.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627160637id_/http%3A//gspawn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gspawn.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227180638id_/http%3A//gspawn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gold and Silver Pawn Shop home of History Channel's Pawn Stars | Pawn Stars
 
