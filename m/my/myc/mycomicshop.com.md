@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423194159id_/http%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227191242id_/http%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
 
 # Comic Books - Privacy and Security
 
