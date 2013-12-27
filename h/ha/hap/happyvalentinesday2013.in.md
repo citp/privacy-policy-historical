@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyvalentinesday2013.in privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604032735id_/http%3A//happyvalentinesday2013.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyvalentinesday2013.in privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227215856id_/http%3A//happyvalentinesday2013.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Happy Navratri SMS Messages Quotes Greetings Wishes
+# Privacy Policy | Love SMS Messages romantic love Quotes Greetings Wishes
 
 At http://happyvalentinesday2013.in/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://happyvalentinesday2013.in/ and how it is used.
 
@@ -28,9 +28,3 @@ http://happyvalentinesday2013.in/ has no access to or control over these cookie
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices http://happyvalentinesday2013.in/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-#### Incoming search terms:
-
-  * idea happy holi advertisement 2013
-
-
