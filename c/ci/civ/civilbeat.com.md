@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628073450id_/http%3A//www.civilbeat.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227085333id_/http%3A//www.civilbeat.com/info/privacy) for the most accurate reproduction.*
 
 # Civil Beat Privacy Policy
 
