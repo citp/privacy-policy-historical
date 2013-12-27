@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pr-club.net privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627052918id_/http%3A//directory.pr-club.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pr-club.net privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227221052id_/http%3A//directory.pr-club.net/privacy.html) for the most accurate reproduction.*
 
 # PR-Club.Net - Free Web Directory
 
