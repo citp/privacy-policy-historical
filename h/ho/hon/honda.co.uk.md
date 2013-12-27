@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627083422id_/https%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227184024id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Honda (UK)
 
