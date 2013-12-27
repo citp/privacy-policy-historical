@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528061234id_/http%3A//www.oanda.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227185615id_/http%3A//www.oanda.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OANDA
 
