@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviereviewpreview.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627153942id_/http%3A//www.moviereviewpreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviereviewpreview.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227050830id_/http%3A//www.moviereviewpreview.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy moviereviewpreview.com
 
@@ -18,7 +18,7 @@ We want you to
 
 •           know that by using our sites you are consenting to the collection of certain data
 
- **WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?**
+**WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?**
 
 We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies,” sent to your browser from:
 
@@ -58,7 +58,7 @@ We may also collect the following information:
 
 •           the number of times you access the page You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
- **WHO COLLECTS THE INFORMATION?** We will collect anonymous traffic information from you when you visit our site.
+**WHO COLLECTS THE INFORMATION?** We will collect anonymous traffic information from you when you visit our site.
 
 We collect the personally identifiable information from you when you register with us. During registration you are required to give us your contact information (such as name, email address, date of birth, gender, address, pin code, cell number, occupation and interests). Upon registration users may receive communications from Moviereviewpreview.com (e.g. newsletters, updates)
 
@@ -86,7 +86,7 @@ If you use a bulletin board or chat room on this site, you should be aware that 
 
 We are the sole owners of your information collected by us at several different points on our Website.
 
- **HOW IS THE INFORMATION USED?**
+**HOW IS THE INFORMATION USED?**
 
 We use your email address to send you:
 
@@ -102,7 +102,7 @@ We use your email address to send you:
 
 Note: We send users newsletters and updates upon registration. We send newsletters and/or promotional emails on behalf of our alliance partners.
 
- **We use your personal information to:**
+**We use your personal information to:**
 
 •           help us provide personalized features
 
@@ -114,7 +114,7 @@ Note: We send users newsletters and updates upon registration. We send newslette
 
 •           to preserve social history as governed by existing law or policy
 
- **We use contact information internally to:**
+**We use contact information internally to:**
 
 •           direct our efforts for product improvement
 
@@ -140,17 +140,17 @@ Generally, we use anonymous traffic information to:
 
 •           track your session so that we can understand better how people use our sites
 
- **WITH WHOM WILL YOUR INFORMATION BE SHARED?**
+**WITH WHOM WILL YOUR INFORMATION BE SHARED?**
 
 We will not use your financial information for any purpose other than to complete a transaction with you.
 
 We do not share or rent your email addresses with third parties except our agents and alliance partners.
 
- **Agents**
+**Agents**
 
 We use the services of our enabling partners such as outside shipping companies, resellers, business associates to fulfill orders, and credit card processing companies to process the payment for goods and services ordered from Moviereviewpreview.com website. These entities do not retain, store, share or use personally identifiable information for any other purposes.
 
- **Alliance** **Partners**
+**Alliance** **Partners**
 
 We will share your information with our Alliance Partners who work with us or on our behalf to help provide you the services. An alliance partner is a company or an individual who owns and manages (wholly or part of) online content on their websites powered by Moviereviewpreview.com.
 
@@ -178,7 +178,7 @@ If you have any questions about security on our Web site, you can send email us 
 
 contact@Moviereviewpreview.com
 
- **WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?**
+**WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?**
 
 Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
 
@@ -198,7 +198,7 @@ If we plan to use your personally identifiable information for any commercial pu
 
 You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/faq/
 
- **  Cookies **
+**  Cookies **
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.]
 
@@ -216,7 +216,7 @@ We do use cookies on point of collection pages of email address but we do not us
 
 Moviereviewpreview.com cookies are not being tied to PII.
 
- **WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?**
+**WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?**
 
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
 
@@ -226,7 +226,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can send email us at contact@Moviereviewpreview.com
 
- **HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?**
+**HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?**
 
 To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options:
 
@@ -234,7 +234,7 @@ To correct or update any information you have provided, our sites allow you to d
 
 •           Call the following telephone number: +91 9971405431
 
- **POLICY UPDATES**
+**POLICY UPDATES**
 
 We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.
 
@@ -244,8 +244,8 @@ If we decide to make changes in our email practices, we will post those changes 
 
 You are can offer your views, suggestions, if any, by mailing to us.
 
- **CONTACT INFORMATION**
+**CONTACT INFORMATION**
 
 You can contact us at: contact@moviereviewpreview.com
 
- **© 2013 Moviereviewpreview.com All Rights Reserved.**
+**© 2013 Moviereviewpreview.com All Rights Reserved.**
