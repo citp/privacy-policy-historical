@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the advertisingweek.eu privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607114009id_/http%3A//advertisingweek.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertisingweek.eu privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227104303id_/http%3A//advertisingweek.eu/privacy) for the most accurate reproduction.*
 
-# Advertising Week Europe 2013 – London [ March 18-21 ] / Privacy Policy
-
-**Privacy Policy**
+# Advertising Week Europe 2014 – London [ March 31 - 4 April ] / Privacy Policy
 
 Welcome to www.advertisingweek.eu (the “Website”) operated by Advertising Week, Inc., located at 131 West 33rd Street, Suite 800, New York, NY 10001 (“AW”, “we”, “our”, or “us”). This Privacy Policy is intended to inform you about how your personally identifiable information (“PII”) and other information is collected by us in operating the Website.
 
-  To assist you in reading our Privacy Policy, we have provided answers to the following frequently asked questions:
+To assist you in reading our Privacy Policy, we have provided answers to the following frequently asked questions:
 
   * How does the Website work?
 
@@ -74,4 +72,4 @@ You must be eighteen (18) years of age or older in order to use the Website. AW 
 If you have questions or concerns about any of our information collection or handling practices, please contact us by e-mail at info@advertisingweek.eu or  
 write to us at Advertising Week Europe, 131 West 33rd Street, Suite 800, New York, NY 10001, Attention: Privacy Policy.
 
-  Last Update: December, 2012 
+Last Update: December, 2012
