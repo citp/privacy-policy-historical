@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnaplan.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609043003id_/http%3A//apnaplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnaplan.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227081228id_/http%3A//apnaplan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for ApnaPlan | Fixed Deposit, Mutual Funds, Insurance, Personal Finance, Loans, Income Tax
 
@@ -37,8 +37,6 @@ By using our site, you consent to our web site [privacy policy](http://apnaplan.
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using our [Contact Us Page](http://apnaplan.com/contact-us/)
-
-Rating: 0.0/ **10** (0 votes cast)
 
 #### Popular Searches For This Post:
 
