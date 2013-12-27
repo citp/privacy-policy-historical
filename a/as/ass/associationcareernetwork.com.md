@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the associationcareernetwork.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611035422id_/http%3A//www.yourmembership.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associationcareernetwork.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227124947id_/http%3A//www.yourmembership.com/legal.aspx) for the most accurate reproduction.*
 
-# Legal / DMCA / Privacy Policy | YourMembership.com
+# Lgal / DMCA / Privacy Policy | YourMembership.com
+
+## YourMembership.com is the world’s largest provider of web-based membership software solutions. If you’re interested in a personalized demonstration or more information regarding our services, simply provide us with your contact information below and one of our team members will be in touch shortly.
 
 ## Trademarks
 
