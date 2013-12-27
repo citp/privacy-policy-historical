@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionalpha.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430130602id_/http%3A//optionalpha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionalpha.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227202720id_/http%3A//optionalpha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Option Alpha - Options Trading
 
