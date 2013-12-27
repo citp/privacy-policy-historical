@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628032118id_/http%3A//kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227190305id_/http%3A//kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Kidsumers — Kidsumers Privacy Policy
 
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Reddit 0 **0** Flares ×
+**0** Flares **0** Flares ×
 
 Privacy Policy for 
 
