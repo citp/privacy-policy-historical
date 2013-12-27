@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603102928id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227065153id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
 
 # 
 
-  
+**PAGES ON AMPED ASIA**
+
 At Amped Asia, we take your privacy seriously. This page outlines our policies regarding any information that you may send us. 
 
 Amped Asia will periodically ask e-mail or contact information during some events. When e-mail addresses are collected, they are stored safely, not sold, or given out to any third parties. If such contact information is posted on a public domain, such as our forums, we take no responsibility for the acquirement of your personal information. 
@@ -18,3 +19,21 @@ Cookies are set when you login to the forums, also third-party cookies are set b
 
 
 If you have any questions, [contact us at mail[@]ampedasia.com](mailto:%20mail@ampedasia.com). Thank you. 
+
+**AMPED ASIA TV**
+
+CONNECT WITH US 
+
+SPONSORS 
+
+[](http://adf.ly/Zm90H)
+
+HOT ARTICLES AROUND THE WEB 
+
+SUBSCRIBE TO THE MAG (FREE) 
+
+**Cute girls. The Asian lifestyle. Videos. Fashion tips.** Subscribe to Amped Asia magazine. It's 100% FREE.
+
+[](http://www.ampedasia.com/subscribe/)
+
+SEARCH FOR STUFF 
