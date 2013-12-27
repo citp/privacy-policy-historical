@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soluto.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525231630id_/https%3A//www.soluto.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soluto.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227035226id_/https%3A//www.soluto.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Soluto | Privacy Policy
 
