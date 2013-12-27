@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alotresults.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626233157id_/http%3A//www.alot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alotresults.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227084826id_/http%3A//www.alot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
