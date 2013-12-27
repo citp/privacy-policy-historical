@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627084254id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227202302id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
-# JustFab
+# Privacy Policy | JustFab
 
 This privacy policy addresses the use of information we collect from you. By visiting www.JustFab.co.uk (this "Site"), or providing your information to us, you agree to accept the practices described in this privacy policy.
 
