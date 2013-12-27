@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526005416id_/http%3A//www.clientattraction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227065809id_/https%3A//www.clientattraction.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Client Attraction Business School
+# Entrepreneur Mentoring Program – Client Attraction Privacy Policy
 
 Fabienne and Derek Fredrickson and Client Attraction, LLC take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
-Client Attraction (“CA”) provides information and activities relating to Fabienne and Derek Fredrickson on the ClientAttraction.com and related websites (the “Site”). Our content includes information about Fabienne and Derek’s programs, products and events along with photos, video and educational information for and interactivity with our users and also provides links to other Client Attraction sites. While we encourage the interactive nature of our website, we strive to promote the online safety and privacy of our users.
+Client Attraction (“CA”) provides information and activities relating to Fabienne and Derek Fredrickson on the ClientAttraction.com and related websites (the “Site”). Our content includes information about Fabienne and Derek’s entrepreneur mentoring programs, products and events along with photos, video and educational information for and interactivity with our users and also provides links to other Client Attraction sites. While we encourage the interactive nature of our website, we strive to promote the online safety and privacy of our users.
 
 We have implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this Site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.
 
