@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterresalerights.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531153923id_/http%3A//www.masterresalerights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterresalerights.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227114341id_/http%3A//www.masterresalerights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: eBook Master Resale Rights, Private Label Rights PLR, Master Resell Rights
 
