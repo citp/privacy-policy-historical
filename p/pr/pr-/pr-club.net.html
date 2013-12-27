@@ -1,19 +1,32 @@
-<!--The following is the downloaded HTML source of the pr-club.net privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627052918id_/http%3A//directory.pr-club.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pr-club.net privacy policy that was archived on 2013-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227221052id_/http%3A//directory.pr-club.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>PR-Club.Net - Free Web Directory </title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" type="text/css" href="http://images.ientrymail.com/tomld/www.pr-club.net/main.css">
 <meta name="generator" content="PHP Link Directory 2.1.2">
+<script src="/jquery-1.10.2.js"></script>
+
 </head>
 <body><script src="http://www.ientry.com/ustream_header.php" type="text/javascript"></script>
 <div class="container">
 <div class="header"><div class="left"><img src="http://images.ientrymail.com/tomld/www.pr-club.net/images/logo.gif" alt=""></div>
 <div class="right">
-<div class="search"><form action="/search.html" method="post">Search: 
-<input type="text" name="q">
+<div class="search"><form id="search-submit" method="post">Search: 
+<input type="text" id="qu">
 <input type="submit" name="Submit" value="Submit"></form>
+
+<script>
+    $("#search-submit").submit(function(e){
+                e.preventDefault();
+                var qq = $('#qu').val();
+              window.location.href = '/sch' + '.html' + '?q=' + qq;
+              return FALSE;
+            });
+
+  </script>
+
 </div>
 
 </div></div>
@@ -24,7 +37,8 @@
  <div id="navmenu"><div id="navmenutitle"></div>
 <div id="navmenucontent"><center><script language="JavaScript" src="http://aj.600z.com/aj/70223/0/vj?z=1&amp;dim=145"></script></center></div>
 <div id="navmenubot"></div></div></div></div></div><div class="content">
- <div class="categories"><b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
+ <div class="categories">
+<b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
 
 <br><br>
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
