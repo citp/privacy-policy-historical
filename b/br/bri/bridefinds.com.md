@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridefinds.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627012044id_/http%3A//www.shefinds.com/2008/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridefinds.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227140859id_/http%3A//www.shefinds.com/2008/privacy) for the most accurate reproduction.*
 
 # Privacy « SHEfinds
 
